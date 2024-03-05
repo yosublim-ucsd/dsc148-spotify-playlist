@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0MLcpW.md) - [plain]
 
 > This is Aventura\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 525,657 likes - 40 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 526,162 likes - 40 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0MLcpW.md) - [plain]
 | 25 | [La Novelita](https://open.spotify.com/track/0UuMzFglgjKnYuAmkICf1P) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Generation Next](https://open.spotify.com/album/7odOEHZzb4ROtmS6wBkYtp) | 4:04 |
 | 26 | [Amor de Madre](https://open.spotify.com/track/57hbwt9CYmaVjjUG8KRgQ4) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Todavía Me Amas: Lo Mejor de Aventura](https://open.spotify.com/album/4rncYwFMKLyhdd0yYQH19k) | 5:50 |
 | 27 | [Mi Niña Cambió](https://open.spotify.com/track/3ORQsL0g4APGsXoqD5tkpm) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Love & Hate](https://open.spotify.com/album/2Z9tU5T5Xad6u4rTGjZIy7) | 4:33 |
-| 28 | [Lágrimas](https://open.spotify.com/track/4qo9CljCI7Nn9VmRxC0246) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Todavía Me Amas: Lo Mejor de Aventura \(Deluxe Edition\)](https://open.spotify.com/album/2KAFZKOzlkk0wOI1XdoO0q) | 3:45 |
-| 29 | [Our Song](https://open.spotify.com/track/4AuBmjPXmbBc0ZxFuaqcVQ) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [God's Project](https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5) | 4:28 |
+| 28 | [Our Song](https://open.spotify.com/track/4AuBmjPXmbBc0ZxFuaqcVQ) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [God's Project](https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5) | 4:28 |
+| 29 | [Lágrimas](https://open.spotify.com/track/4qo9CljCI7Nn9VmRxC0246) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Todavía Me Amas: Lo Mejor de Aventura \(Deluxe Edition\)](https://open.spotify.com/album/2KAFZKOzlkk0wOI1XdoO0q) | 3:45 |
 | 30 | [Amor Bonito \(Novela 2\)](https://open.spotify.com/track/6vw2D0AeWBSJhJi0OrnudX) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Generation Next](https://open.spotify.com/album/7odOEHZzb4ROtmS6wBkYtp) | 3:37 |
 | 31 | [La Pelicula](https://open.spotify.com/track/4MSVpbF5oOFyOxpsmbFAsH) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Love & Hate](https://open.spotify.com/album/2Z9tU5T5Xad6u4rTGjZIy7) | 5:32 |
 | 32 | [Nueve y Quince \- 9: 15](https://open.spotify.com/track/1LitgN2tFmNVEtLY6qh5SZ) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [We Broke The Rules](https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd) | 4:24 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0MLcpW.md) - [plain]
 | 39 | [Alexandra / No Lo Perdona Dios / Amor Bonito / ¿cuándo Volverás? \- Live](https://open.spotify.com/track/6FFTFvSqtVID11P7o4yFwF) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Kings of Bachata: Sold Out at Madison Square Garden \(Live\)](https://open.spotify.com/album/3dYWBu4JKmTQ4WgsRUchkL) | 8:22 |
 | 40 | [Dime Si Te Gusto](https://open.spotify.com/track/51FH6yUZRNKbGkN3qzyiXK) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Generation Next](https://open.spotify.com/album/7odOEHZzb4ROtmS6wBkYtp) | 4:27 |
 
-Snapshot ID: `Mjg0OTExMzksMDAwMDAwMDBlMDcxYTg5YzZmMjg1YmY0MTQ0MDFjNDBiODY4NGY5OQ==`
+Snapshot ID: `Mjg0OTI1NjksMDAwMDAwMDA0ODRlMDAzNTI3N2I5YTM0OTQwYWRiNmE3YjAxYjg1MQ==`

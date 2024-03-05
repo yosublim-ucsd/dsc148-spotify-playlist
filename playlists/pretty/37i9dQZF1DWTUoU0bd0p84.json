@@ -1,12 +1,12 @@
 {
   "description": "The songs from the 2000s that will make you dance all summer long!",
-  "num_followers": 312015,
+  "num_followers": 312273,
   "original_name": "Summer Hits of the 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWVhMjdlOTc5NmVkMTJlZGUyZDdhYWJiNmY4MTk2NDkyYjgxNWZm",
+  "snapshot_id": "MCw5YmQ2MzExNDJiNWVhMTE1Njk1YWMwZjEyZTA1MWI3MzcwMmIyNTAw",
   "tracks": [
     {
       "added_at": "2023-05-29 16:01:44",
@@ -151,22 +151,18 @@
     {
       "added_at": "2023-05-29 16:01:44",
       "album": {
-        "name": "Konvicted",
-        "url": "https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq"
+        "name": "The Marshall Mathers LP",
+        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
       },
       "artists": [
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        },
         {
           "name": "Eminem",
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 212360,
-      "name": "Smack That",
-      "url": "https://open.spotify.com/track/2kQuhkFX7uSVepCD3h29g5"
+      "duration_ms": 284200,
+      "name": "The Real Slim Shady",
+      "url": "https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR"
     },
     {
       "added_at": "2023-05-29 16:01:44",
@@ -191,18 +187,22 @@
     {
       "added_at": "2023-05-29 16:01:44",
       "album": {
-        "name": "The Marshall Mathers LP",
-        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
+        "name": "Konvicted",
+        "url": "https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq"
       },
       "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
         {
           "name": "Eminem",
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 284200,
-      "name": "The Real Slim Shady",
-      "url": "https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR"
+      "duration_ms": 212360,
+      "name": "Smack That",
+      "url": "https://open.spotify.com/track/2kQuhkFX7uSVepCD3h29g5"
     },
     {
       "added_at": "2023-05-29 16:01:44",

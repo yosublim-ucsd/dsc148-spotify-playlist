@@ -1,12 +1,12 @@
 {
   "description": "Game time.",
-  "num_followers": 206414,
+  "num_followers": 206903,
   "original_name": "Laced Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzhmM2ZkZTZmNTM2YWJiYzA0YTE4MjY1OTg3MWQ5NGZmZGU2NjFj",
+  "snapshot_id": "MCwxNjUxNTk3MWEzY2FiMWJmM2QyNThlMjFjOGMzZjQ3NzBiZmZkMDhi",
   "tracks": [
     {
       "added_at": "2023-12-28 18:28:27",
@@ -115,6 +115,22 @@
     {
       "added_at": "2023-12-28 18:28:27",
       "album": {
+        "name": "Birds In The Trap Sing McKnight",
+        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 243836,
+      "name": "goosebumps",
+      "url": "https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2"
+    },
+    {
+      "added_at": "2023-12-28 18:28:27",
+      "album": {
         "name": "Sprinter",
         "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
       },
@@ -135,18 +151,18 @@
     {
       "added_at": "2023-12-28 18:28:27",
       "album": {
-        "name": "Birds In The Trap Sing McKnight",
-        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
       },
       "artists": [
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 243836,
-      "name": "goosebumps",
-      "url": "https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2"
+      "duration_ms": 232106,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"
     },
     {
       "added_at": "2023-12-28 18:28:27",
@@ -167,22 +183,6 @@
       "duration_ms": 247444,
       "name": "First Person Shooter (feat. J. Cole)",
       "url": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
-    },
-    {
-      "added_at": "2023-12-28 18:28:27",
-      "album": {
-        "name": "Elephant",
-        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 232106,
-      "name": "Seven Nation Army",
-      "url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"
     },
     {
       "added_at": "2023-12-28 18:28:27",
@@ -263,6 +263,22 @@
     {
       "added_at": "2023-12-28 18:28:27",
       "album": {
+        "name": "ASTROWORLD",
+        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 312820,
+      "name": "SICKO MODE",
+      "url": "https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h"
+    },
+    {
+      "added_at": "2023-12-28 18:28:27",
+      "album": {
         "name": "SAVAGE MODE II",
         "url": "https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 172800,
       "name": "Ric Flair Drip (with Metro Boomin)",
       "url": "https://open.spotify.com/track/7sO5G9EABYOXQKNPNiE9NR"
-    },
-    {
-      "added_at": "2023-12-28 18:28:27",
-      "album": {
-        "name": "ASTROWORLD",
-        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 312820,
-      "name": "SICKO MODE",
-      "url": "https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h"
     },
     {
       "added_at": "2023-12-28 18:28:27",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-12-28 18:28:27",
       "album": {
-        "name": "Street Gossip",
-        "url": "https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 154023,
-      "name": "Pure Cocaine",
-      "url": "https://open.spotify.com/track/577YBGuskWkVDCxZrLRB4v"
-    },
-    {
-      "added_at": "2023-12-28 18:28:27",
-      "album": {
         "name": "DIE FOR MY BITCH",
         "url": "https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 195320,
       "name": "NEW MAGIC WAND",
       "url": "https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf"
+    },
+    {
+      "added_at": "2023-12-28 18:28:27",
+      "album": {
+        "name": "Street Gossip",
+        "url": "https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 154023,
+      "name": "Pure Cocaine",
+      "url": "https://open.spotify.com/track/577YBGuskWkVDCxZrLRB4v"
     },
     {
       "added_at": "2023-12-28 18:28:27",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-12-28 18:28:27",
       "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 165264,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
-    },
-    {
-      "added_at": "2023-12-28 18:28:27",
-      "album": {
         "name": "To Pimp A Butterfly",
         "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 219333,
       "name": "Alright",
       "url": "https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs"
+    },
+    {
+      "added_at": "2023-12-28 18:28:27",
+      "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 165264,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
     },
     {
       "added_at": "2023-12-28 18:28:27",

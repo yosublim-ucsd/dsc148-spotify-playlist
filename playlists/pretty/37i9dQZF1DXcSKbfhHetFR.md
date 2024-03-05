@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 
 > On a pas pu appeler ça Québec Shiny Tunes\. Photo: EXTERIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,911 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,915 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 22 | [Le métronome](https://open.spotify.com/track/1OHIM375HBlr88fQwi0CJK) | [Malajube](https://open.spotify.com/artist/5yLzPjejoWM3eiYNoejATm) | [Le compte complet](https://open.spotify.com/album/19QK4vgoI5NeY8ISWWcSCN) | 2:43 |
 | 23 | [Feels](https://open.spotify.com/track/5UXvP6HfVvp72T6aMewEyE) | [Lili Fatale](https://open.spotify.com/artist/5PxrSckQSUPA6mmzABlOlW) | [Lili Fatale](https://open.spotify.com/album/73JUXLTfuvlSsSLYUhRmBv) | 4:04 |
 | 24 | [Sheila, ch'us là](https://open.spotify.com/track/73JkbiHMyyvGWgtpNvD1NB) | [Loco Locass](https://open.spotify.com/artist/27n0OqRGBxVZWoQMkf3QHD) | [Manifestif](https://open.spotify.com/album/0Nq5kr6yBG63Gu4ATEXjn4) | 4:33 |
-| 25 | [Grossiere indécence](https://open.spotify.com/track/12JP4JwMtAIi5LBo2OGy1M) | [Les Pistolets Roses](https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj) | [Sans foi ni loi](https://open.spotify.com/album/2DJmbN6Nz2vKHUrcVeoPm9) | 2:56 |
-| 26 | [Je suis partie](https://open.spotify.com/track/0l90WIAkOhMlPSEvqX0YGV) | [Anik Jean](https://open.spotify.com/artist/6IHeGZkZLc9DQ4INpVyDpa) | [Le Trashy Saloon](https://open.spotify.com/album/0MO9BtyFSmkm4557C9GGd3) | 3:21 |
+| 25 | [Je suis partie](https://open.spotify.com/track/0l90WIAkOhMlPSEvqX0YGV) | [Anik Jean](https://open.spotify.com/artist/6IHeGZkZLc9DQ4INpVyDpa) | [Le Trashy Saloon](https://open.spotify.com/album/0MO9BtyFSmkm4557C9GGd3) | 3:21 |
+| 26 | [Grossiere indécence](https://open.spotify.com/track/12JP4JwMtAIi5LBo2OGy1M) | [Les Pistolets Roses](https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj) | [Sans foi ni loi](https://open.spotify.com/album/2DJmbN6Nz2vKHUrcVeoPm9) | 2:56 |
 | 27 | [Si exceptionnel](https://open.spotify.com/track/4rDhLzmzPz4aAJ1hs4HOlW) | [Andrée Watters](https://open.spotify.com/artist/69C2IK3ervhiGEvbp6ss7H) | [AW](https://open.spotify.com/album/658WdTob3JXKse2edU1PiH) | 3:49 |
 | 28 | [Tu ne peux pas partir](https://open.spotify.com/track/10rmSGVJFAkR3bBFLKKvIt) | [Cafeine](https://open.spotify.com/artist/0Ejf1nVc9FUIfi4czaMwwy) | [Mal éduqué mon amour](https://open.spotify.com/album/6lm22jTtAq2XSWcX4KuR1u) | 3:23 |
 | 29 | [Decoller \- Remix](https://open.spotify.com/track/6799cdhvfJ3e2btTOIBc97) | [See Spot Run](https://open.spotify.com/artist/6ZBtfiNY3e5y00QjZEHBEI) | [Super\-héros sous peu](https://open.spotify.com/album/2snDIoG1WayOkhPJclnVyo) | 3:52 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 37 | [Joyeus'ment désespéré](https://open.spotify.com/track/6Y7D4JU5zPAtrPgyNI6AMA) | [La Chango Family](https://open.spotify.com/artist/5jiNoz1XkdCC2INXqHKQN8) | [La Chango Family](https://open.spotify.com/album/666d4EG1BDpC8s1kIVhbVd) | 3:26 |
 | 38 | [Dans les airs](https://open.spotify.com/track/1owMekL4FP43xxlLpUSk7I) | [Vénus 3](https://open.spotify.com/artist/3tpM1Cxh88vORchHhDZmIU) | [Sur quelle planète](https://open.spotify.com/album/73i0S5bK1UMFP8zPpKAfNB) | 5:23 |
 | 39 | [Je suis down](https://open.spotify.com/track/0VV4s8JLIOrN2GCBdV6lDL) | [Rita\-Rita](https://open.spotify.com/artist/4DwJbmadQKIU9IXTGBLhse) | [Rita\-Rita](https://open.spotify.com/album/5qSOmPrjjKPs5HGuPH6BHj) | 3:15 |
-| 40 | [Le teint de Linda](https://open.spotify.com/track/5sBVNfzLTEZqp5bRKWfGgS) | [Mara Tremblay](https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3) | [Le Chihuahua](https://open.spotify.com/album/0Z7wImynM6zuAh9L7sfEFe) | 4:39 |
-| 41 | [J'pourrais pas vivre avec toi](https://open.spotify.com/track/7avXxd2QUIQvMdD5NKD1e7) | [Les Breastfeeders](https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i) | [Déjeuner sur l'herbe](https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4) | 3:12 |
+| 40 | [J'pourrais pas vivre avec toi](https://open.spotify.com/track/7avXxd2QUIQvMdD5NKD1e7) | [Les Breastfeeders](https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i) | [Déjeuner sur l'herbe](https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4) | 3:12 |
+| 41 | [Le teint de Linda](https://open.spotify.com/track/5sBVNfzLTEZqp5bRKWfGgS) | [Mara Tremblay](https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3) | [Le Chihuahua](https://open.spotify.com/album/0Z7wImynM6zuAh9L7sfEFe) | 4:39 |
 | 42 | [Gwen et les rats](https://open.spotify.com/track/6ORsvmXbP6CBmgeW3A4R4a) | [Gwenwed](https://open.spotify.com/artist/0HFirn5VruMovsRmFX02hT) | [l'amour la haine les animaux les automobiles](https://open.spotify.com/album/66yrRtNfB3gUhSLebR1dlW) | 3:08 |
 | 43 | [Une araignée au plafond](https://open.spotify.com/track/0JNSKKRtaxBl8WKMdE148h) | [coma](https://open.spotify.com/artist/0HKMEtAro0rnwsLOr6wzEC) | [Coma](https://open.spotify.com/album/1UZHRqAz33EWEkCBcUh1QQ) | 3:39 |
 | 44 | [Thermoplastique](https://open.spotify.com/track/6JjlCErZUO79Ra0yqDL4pH) | [Les Secrétaires Volantes](https://open.spotify.com/artist/0PsC8oRbzhv4qBwvxXsDjF) | [Thermoplastique](https://open.spotify.com/album/2vLUguDFIoI1xVLvaRJhSc) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 49 | [Touche pas](https://open.spotify.com/track/1T3vIR5SmlUt0pkm1huM2V) | [Elyzabeth Diaga](https://open.spotify.com/artist/0KIJUMvTUQiTNulWUpBIbj) | [Elyzabeth Diaga](https://open.spotify.com/album/3Ryel4PeIcsaOcaIhTrB1d) | 3:06 |
 | 50 | [Brooklyn](https://open.spotify.com/track/5UEPGKnRkwZxYB8wch5Hxp) | [Bonjour Brumaire](https://open.spotify.com/artist/4af2HIvHL4Rl6hID6GOdCv) | [De la nature des foules](https://open.spotify.com/album/1UBtBPyjtPpJEgey7lbFds) | 4:04 |
 
-Snapshot ID: `MCw0MjUwMDJjMjZiNjJhM2ViOGQwNGMzMmU0MzBkMDUwNTU5ZTFlNTQw`
+Snapshot ID: `MCxkODNiMjNhMTBjMTFiMzQ4NmRlNzkxMDI3ZGFiMjRhODdhYzM2YmQ1`

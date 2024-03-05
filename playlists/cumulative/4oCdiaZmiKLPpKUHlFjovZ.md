@@ -4,7 +4,7 @@
 
 > Turn this playlist all the way up! Babyface Ray, Money Man &amp; Young Dolph x Key Glock.
 
-70 songs - 2 hr 59 min
+71 songs - 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [2021 Vibes](https://open.spotify.com/track/6TJaoJX8VhptZ0DkcsjWaR) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [s\*x m\*ney dr\*gs](https://open.spotify.com/album/6vKVBLTsQW5wXOzmOIkPVZ) | 2:04 | 2023-12-08 |  |
 | [2:30](https://open.spotify.com/track/1n3JvneU8FhfldfTQ8BdZs) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:18 | 2023-12-08 |  |
 | [310degrees](https://open.spotify.com/track/1f1R24tV7tx0464MCz4U9C) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [nights and weekends](https://open.spotify.com/album/39jNh5MndiuFTNjDjuWnDQ) | 1:05 | 2024-02-24 |  |
-| [4Lifers](https://open.spotify.com/track/3FYPMqQbbOZ1WzCztLeLBp) | [Yatta Bandz](https://open.spotify.com/artist/3n8GvDXY1OgG57akv31SHK) | [4Lifers](https://open.spotify.com/album/3JPfULI1qFfTfdTA3R5GCV) | 2:15 | 2023-08-07 |  |
+| [4Lifers](https://open.spotify.com/track/3FYPMqQbbOZ1WzCztLeLBp) | [Yatta Bandz](https://open.spotify.com/artist/3n8GvDXY1OgG57akv31SHK) | [4Lifers](https://open.spotify.com/album/3JPfULI1qFfTfdTA3R5GCV) | 2:15 | 2023-08-07 | 2024-03-05 |
 | [Access Granted](https://open.spotify.com/track/3DG8BACcLZTelczHn3W8Hf) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Catch Me If You Can](https://open.spotify.com/album/4l2DlHC3hnZlhpu7SxGYUR) | 2:01 | 2023-09-28 |  |
 | [All Star Team](https://open.spotify.com/track/1XymOhvY6pThNXJWYzP5h0) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [All Star Team](https://open.spotify.com/album/3cAqYBlosbQg5TmcKu6qjf) | 1:47 | 2023-06-16 |  |
 | [Alpha Bay](https://open.spotify.com/track/2RpFhFj8UsIyd7d5v2EZa9) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [CROPTOBER](https://open.spotify.com/album/19JHhDgdHmp1v4eWBP1TZU) | 2:04 | 2023-10-30 | 2024-01-20 |
@@ -41,6 +41,7 @@
 | [Fuckin' Up](https://open.spotify.com/track/7CTy1cSm23vGlZPvCfyMZA) | [Jimbo World](https://open.spotify.com/artist/2SOPsk10xOOjO0M1oyNCmu), [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Fuckin' Up](https://open.spotify.com/album/1MQuNaj9kMZEnguoDNdAwF) | 2:39 | 2023-09-15 |  |
 | [Gangsta Lean](https://open.spotify.com/track/0EFY0o5DqcD8n7JKDtfgf9) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Gangsta Lean](https://open.spotify.com/album/0dy9A6nscVVldqXuWDgREB) | 2:09 | 2023-09-05 |  |
 | [Get Off](https://open.spotify.com/track/1Pk5l0MYcmMlFG5XS9VGsK) | [Pretty Brayah](https://open.spotify.com/artist/04T13CNEP9VzNd4jMNQrQb) | [Get Off](https://open.spotify.com/album/36osWrlEhL8GT8IwreDLEM) | 2:33 | 2023-09-28 |  |
+| [Green Carpet](https://open.spotify.com/track/4OYy7dfHbLKi4lvpzpzeRv) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Green Carpet](https://open.spotify.com/album/7MZCu883H2Y7Br2K9Wd3Ef) | 2:13 | 2024-03-04 |  |
 | [Hard To Handle](https://open.spotify.com/track/3N4LtsPwD5TikEeEIq1m9a) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Hard To Handle](https://open.spotify.com/album/1itz9psxuHakXi5iVap9Hr) | 3:35 | 2023-08-18 |  |
 | [KAPITOL DENIM](https://open.spotify.com/track/2P1oNlBGmFudn3ZyUrj7hJ) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FLAWLESS LIKE ME](https://open.spotify.com/album/5zWZi7tO66MoobIAl9OxWS) | 1:57 | 2024-01-19 |  |
 | [Leave Her](https://open.spotify.com/track/0MZGwYb5mTATbmoi671wEg) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Leave Her](https://open.spotify.com/album/1kLl5rrXewZ0SP0wcNSWcc) | 2:17 | 2023-04-28 |  |

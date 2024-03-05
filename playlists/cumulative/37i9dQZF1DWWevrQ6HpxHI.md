@@ -4,7 +4,7 @@
 
 > Over 5 hours of classic heaters 🔥
 
-119 songs - 6 hr 19 min
+120 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [I Got U](https://open.spotify.com/track/69gQgkobVW8bWjoCjBYQUd) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [EP1](https://open.spotify.com/album/5ZzT6EX1TinZGrS7CuaTHI) | 4:45 | 2023-05-16 |  |
 | [I Loved You \(feat\. Melissa Steel\)](https://open.spotify.com/track/4KuS9s0fuqLznp9AJTqTm7) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Melissa Steel](https://open.spotify.com/artist/4NANaRSl8fuDZ3wMlQCVmf) | [I Loved You \(feat\. Melissa Steel\)](https://open.spotify.com/album/7onuwN1E6MPBFMbG4WAOoS) | 3:04 | 2023-05-16 |  |
 | [I Wanna Feel](https://open.spotify.com/track/5nrdOK0i7daIsDAt4zRbHM) | [Secondcity](https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq) | [I Wanna Feel](https://open.spotify.com/album/18hwLKK9KK28ceLoxjPCG3) | 3:06 | 2023-05-16 |  |
-| [Jubel](https://open.spotify.com/track/61OXupi2BvAtT405OuGVQe) | [mousike](https://open.spotify.com/artist/6pun6to8ug3XuaqvLNOgi5) | [Jubel](https://open.spotify.com/album/3YOG1iPgOObIuGnQCvEXvB) | 2:28 | 2023-09-05 |  |
+| [Jubel](https://open.spotify.com/track/61OXupi2BvAtT405OuGVQe) | [mousike](https://open.spotify.com/artist/6pun6to8ug3XuaqvLNOgi5) | [Jubel](https://open.spotify.com/album/3YOG1iPgOObIuGnQCvEXvB) | 2:28 | 2023-09-05 | 2024-03-05 |
+| [Jubel](https://open.spotify.com/track/21XArmhYfpQHm9S8JA4yGI) | [mousike](https://open.spotify.com/artist/6pun6to8ug3XuaqvLNOgi5) | [Jubel](https://open.spotify.com/album/2NcVUDLb5q0Q4fStV5TZKO) | 2:28 | 2023-09-05 |  |
 | [Jubel](https://open.spotify.com/track/6TskfnWx1j3SwB8r14bTty) | [Votabias](https://open.spotify.com/artist/6zzwsRuoaNV98DzIekp59M) | [Jubel](https://open.spotify.com/album/1DDTylkpgKVXNBHHJjIU8S) | 2:28 | 2023-09-05 | 2024-03-04 |
 | [Jubel](https://open.spotify.com/track/39Mt7O98hpaXsOrBuRDePH) | [Votabias](https://open.spotify.com/artist/6zzwsRuoaNV98DzIekp59M) | [Jubel](https://open.spotify.com/album/48TUoolHm1FeQYx5jLAaQo) | 2:28 | 2023-09-05 | 2023-12-18 |
 | [Jubel \- Radio Edit](https://open.spotify.com/track/6BTjSLvOfHjzV9sbP6BrCO) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Jubel \(Radio Edit\)](https://open.spotify.com/album/4Xp6CE8STE8rfzb0DbVOWQ) | 2:28 | 2023-05-16 | 2024-01-15 |

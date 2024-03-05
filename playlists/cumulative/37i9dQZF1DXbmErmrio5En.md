@@ -4,7 +4,7 @@
 
 > saturation, distortion, feedBack\. ft\. bixby
 
-392 songs - 17 hr 26 min
+393 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,6 +383,7 @@
 | [white noise! \(feat\. cybertrash\)](https://open.spotify.com/track/4RZRRDbFDgxkf5hV2xizyr) | [she loves boon](https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23), [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW) | [white noise! \(feat\. cybertrash\)](https://open.spotify.com/album/4gIJoCUfHRHnKeAY8uiCTt) | 2:07 | 2023-01-20 | 2023-03-02 |
 | [white tiger](https://open.spotify.com/track/6i94abfEAkbOluMpdcbS7w) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [White Tiger](https://open.spotify.com/album/2ij1JaqxLVOKTOsSUZKMji) | 1:54 | 2023-06-23 |  |
 | [why????? \(all my angels cry\)](https://open.spotify.com/track/6NoAkMdjhzRlruHG38LHm5) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79) | [why????? \(all my angels cry\)](https://open.spotify.com/album/0epE3hbGlJp3dZSNsZs9YR) | 1:58 | 2023-12-15 |  |
+| [wide awake](https://open.spotify.com/track/7ipJbtnQbF1VrZqfHeDAVj) | [Kid Moon](https://open.spotify.com/artist/3jkVbxrPvjzWzrjXcfXKUM) | [wide awake](https://open.spotify.com/album/7BgAiu4daa1nqbiSaj8vwo) | 2:54 | 2024-03-04 |  |
 | [WISH I NEVER KNEW YOU](https://open.spotify.com/track/2PGdJ3bE9j8TwwGkge8To2) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [WISH I NEVER KNEW YOU](https://open.spotify.com/album/39VudHdhAGwLJ51ZYOzKHp) | 2:59 | 2023-03-17 | 2023-11-11 |
 | [wishucouldseemenow](https://open.spotify.com/track/3EI0kBRAlONmiD6Hi4etqM) | [Elko](https://open.spotify.com/artist/3GTNYnTjMraxKUyc2ns7LU), [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q) | [dygytaldysmorphya](https://open.spotify.com/album/0ImUgw3PkFRTa37uBMpyKY) | 2:33 | 2023-08-04 | 2023-09-22 |
 | [with u](https://open.spotify.com/track/7uStrFhx6PYmfI2ZWFFnCH) | [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [with u](https://open.spotify.com/album/3Iu31xTzEKfBYx0WV8HPct) | 2:29 | 2022-12-09 | 2023-03-02 |

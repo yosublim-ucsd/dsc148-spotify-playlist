@@ -37817,6 +37817,24 @@
     },
     {
       "album": {
+        "name": "El Ranchero",
+        "url": "https://open.spotify.com/album/1gMHDCpvHESeXVamqZyaEn"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235728,
+      "name": "El Ranchero",
+      "url": "https://open.spotify.com/track/2LMF4sDKysFt18OJcJc6Sz"
+    },
+    {
+      "album": {
         "name": "El Rayo Vallecano",
         "url": "https://open.spotify.com/album/2cwftCb3SwCpNu1WILU6r5"
       },
@@ -45942,6 +45960,32 @@
       "duration_ms": 224972,
       "name": "Frente a una Copa de Vino",
       "url": "https://open.spotify.com/track/0Y9jbCa2gLEcQXGHZJM754"
+    },
+    {
+      "album": {
+        "name": "Fresas de la Capital (Remix)",
+        "url": "https://open.spotify.com/album/0KbEkXdXyUEscWEtJulK3M"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Jaque Mate",
+          "url": "https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew"
+        },
+        {
+          "name": "Legion RG",
+          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194240,
+      "name": "Fresas de la Capital - Remix",
+      "url": "https://open.spotify.com/track/0YL4V7R077SARGTtJkBFLj"
     },
     {
       "album": {

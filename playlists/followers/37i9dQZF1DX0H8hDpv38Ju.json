@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 812181,
+  "2024-03-05": 812269,
   "date_first_scraped": "2021-12-21",
   "description": "Get down and jam out to these throwback '80s R&B and soul tunes!",
   "name": "\u201980s Jam Session",
@@ -347,7 +347,7 @@
       ],
       "date_added": "2021-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-07",
+      "date_removed": null,
       "duration_ms": 280933,
       "name": "Funkin' for Jamaica",
       "url": "https://open.spotify.com/track/0xbkxTqSaW5blsYgRXpB5I"
@@ -657,7 +657,7 @@
       ],
       "date_added": "2021-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 272400,
       "name": "Juicy Fruit",
       "url": "https://open.spotify.com/track/2hn1lerQkPC6fOI0QFjr8r"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: JIXGO\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,118 likes - 70 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,121 likes - 70 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 69 | [ทำได้เพียงร้องไห้](https://open.spotify.com/track/6P7ndQhyt5rRm40SRyV5iI) | [Blackwolf BOY](https://open.spotify.com/artist/1eZ71wjLok7uYBUMcBOZQq) | [ทำได้เพียงร้องไห้](https://open.spotify.com/album/19IThxXWC5xD0Zi9jyeYew) | 3:53 |
 | 70 | [สักครั้งแค่เช้า \(Before sunrise\)](https://open.spotify.com/track/2cXul2WpqL76hx2kscHxqk) | [YELLOW SAND](https://open.spotify.com/artist/5hjTSqdKEsuyI2yscVt56a) | [สักครั้งแค่เช้า \(Before sunrise\)](https://open.spotify.com/album/5Fm459H7nJt0iEbuutWRFk) | 4:36 |
 
-Snapshot ID: `MCxmZDNiOWIyZDQ3ZDFjN2Y4N2U1M2FhMGUzODU4MDQ0OGQ4ZWJkNzA4`
+Snapshot ID: `MCwzYzk5MjU2ZWQ5MmFmZDU1MDhjZjU0ZWFhMGRkOTgyYjUxZTliMGU3`

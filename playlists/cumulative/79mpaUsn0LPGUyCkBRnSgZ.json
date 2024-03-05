@@ -3535,6 +3535,24 @@
     },
     {
       "album": {
+        "name": "Birthday",
+        "url": "https://open.spotify.com/album/2KgYcD8b9rxkROAPeYEnjh"
+      },
+      "artists": [
+        {
+          "name": "Pom Poko",
+          "url": "https://open.spotify.com/artist/4RkC3KmYWnr6PM1FM5Shwz"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252093,
+      "name": "Follow The Lights",
+      "url": "https://open.spotify.com/track/0iHClWd9kbQEvcCsriEHJS"
+    },
+    {
+      "album": {
         "name": "BiRd-BrAiNs",
         "url": "https://open.spotify.com/album/7oVySVWjCqQwLSuJ7450sV"
       },
@@ -5094,7 +5112,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 144360,
       "name": "It's Random",
       "url": "https://open.spotify.com/track/6Sj5jAdiIWAAAYZc9dn9ZM"
@@ -7635,6 +7653,24 @@
     },
     {
       "album": {
+        "name": "Roxy Music",
+        "url": "https://open.spotify.com/album/4KjUgJn22cmBRQC0AHcjI3"
+      },
+      "artists": [
+        {
+          "name": "Roxy Music",
+          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314426,
+      "name": "Re-Make/Re-Model",
+      "url": "https://open.spotify.com/track/6pUfi8uawZnCK2T0hatNwR"
+    },
+    {
+      "album": {
         "name": "A Beginner's Mind",
         "url": "https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9"
       },
@@ -7722,7 +7758,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 201675,
       "name": "Redemption Arc",
       "url": "https://open.spotify.com/track/5P2xjOkykDrAHcLxCLyBDi"
@@ -10920,6 +10956,36 @@
       "duration_ms": 110487,
       "name": "XXX",
       "url": "https://open.spotify.com/track/3fMYdbxKBDKtLa1HB9iBDK"
+    },
+    {
+      "album": {
+        "name": "Exquisite Corpse",
+        "url": "https://open.spotify.com/album/11aSgmA8YPBrEfJ536AcsA"
+      },
+      "artists": [
+        {
+          "name": "Pedro The Lion",
+          "url": "https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr"
+        },
+        {
+          "name": "American Football",
+          "url": "https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4"
+        },
+        {
+          "name": "Nick Wilkerson",
+          "url": "https://open.spotify.com/artist/3QiX2OujsOt08Qx3ZbzNbp"
+        },
+        {
+          "name": "Dragon Inn 3",
+          "url": "https://open.spotify.com/artist/4R9OjGQDdKY8sjNSEG5CiR"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122096,
+      "name": "Yer Brothers",
+      "url": "https://open.spotify.com/track/7MQjOPsj0Mfi8HLUUC0mEP"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 
 > French scene makes some noise!
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,499 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,562 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 | 25 | [Long Life](https://open.spotify.com/track/2N2A6MMehPqIQ6w7keCUDc) | [Structures](https://open.spotify.com/artist/4uAJ9vbmemltkuu0D3gBHQ) | [Long Life](https://open.spotify.com/album/54xgrAyNTiSiVPXydgJPoF) | 3:02 |
 | 26 | [What Does Moon Think](https://open.spotify.com/track/7L25MDmLQynJSzLm8hlj16) | [SIZ](https://open.spotify.com/artist/1CtmxHZBoOqnM9fhtnODEo) | [What Does Moon Think](https://open.spotify.com/album/1xuR0TZ9uoVRPIWHqj7hu8) | 3:00 |
 | 27 | [Reach](https://open.spotify.com/track/2t3c50Dgc0CvZmYOf40Yq2) | [Mascara](https://open.spotify.com/artist/1mmu7aIqCo989QSVk0lvHm) | [Reach](https://open.spotify.com/album/6VhainGyu98wzHYIzRvsf9) | 5:12 |
-| 28 | [Asylum](https://open.spotify.com/track/65s5gtYGSoF2BcbQ6oPuCy) | [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [The Thread](https://open.spotify.com/album/3F5nmrHMSyFjEkATZQO7cz) | 3:11 |
-| 29 | [Killing Hallelujah](https://open.spotify.com/track/4tOw9SWHCcg9oDROjeuJlJ) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [Apelogies](https://open.spotify.com/album/0TAeIWcUAjAb1ZBXzaDOGV) | 6:00 |
-| 30 | [Piece Of You](https://open.spotify.com/track/591M3gxvS0gc4JdZZqn6oy) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Piece Of You](https://open.spotify.com/album/7xZrte2sbYarQDDjHMvHBc) | 4:15 |
-| 31 | [Fixed It All](https://open.spotify.com/track/19UtO7hBxFYhqYMqFePsjv) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 4:21 |
+| 28 | [Killing Hallelujah](https://open.spotify.com/track/4tOw9SWHCcg9oDROjeuJlJ) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [Apelogies](https://open.spotify.com/album/0TAeIWcUAjAb1ZBXzaDOGV) | 6:00 |
+| 29 | [Piece Of You](https://open.spotify.com/track/591M3gxvS0gc4JdZZqn6oy) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Piece Of You](https://open.spotify.com/album/7xZrte2sbYarQDDjHMvHBc) | 4:15 |
+| 30 | [Fixed It All](https://open.spotify.com/track/19UtO7hBxFYhqYMqFePsjv) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 4:21 |
+| 31 | [Asylum](https://open.spotify.com/track/65s5gtYGSoF2BcbQ6oPuCy) | [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [The Thread](https://open.spotify.com/album/3F5nmrHMSyFjEkATZQO7cz) | 3:11 |
 | 32 | [Anyone, Evermore](https://open.spotify.com/track/6binrNkX9MO9nyFNt2pH1n) | [The Great Divide](https://open.spotify.com/artist/1KDvR3odlKqAOjqT2Rp3Dn) | [Linger Over, Linger On](https://open.spotify.com/album/6TKDj8xVjtCy1ZUyUgSoLX) | 4:43 |
 | 33 | [Stay Close To Me](https://open.spotify.com/track/58pV7RsaDG3rj2K3US9vJb) | [Mat Bastard](https://open.spotify.com/artist/3g6cGlqNvWcTGwvse4VQVB) | [LOOV](https://open.spotify.com/album/56ycgKlSswpmfEHsAcOjd8) | 2:45 |
 | 34 | [La chute](https://open.spotify.com/track/7cjNhFw9RwiXYRJ5Gm3ycD) | [Guerilla Poubelle](https://open.spotify.com/artist/28EqKeX9NMNRu7OC0jKHnF) | [L'ennui](https://open.spotify.com/album/7JRqbUYfxIpVYwyXIbqB7N) | 2:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 | 99 | [Drift](https://open.spotify.com/track/367PCAccIOOMRfnaSKtFDG) | [Stuffed Foxes](https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06) | [Songs/Motion Return](https://open.spotify.com/album/0HNoauBRe7vw3WlqH9APbM) | 3:47 |
 | 100 | [So Quarrelsome](https://open.spotify.com/track/5Z9zNP3QnZUZNvakIDKTbP) | [Can't Bear This Party!](https://open.spotify.com/artist/44aEYDMMKlw3aUhxXmRg1f) | [Ain't No Princess](https://open.spotify.com/album/34dXeWYkadymUqJYIWuwYh) | 3:17 |
 
-Snapshot ID: `MCwzNmVmMjNiZWI3NzQyODIwOTI4MGNhNTk2M2QwN2UyNDcyN2RlMTIz`
+Snapshot ID: `MCw0YTVmMzJiZTlmNmQ2Yjk4MjQwZThkYTliMDM5NmZmMzA5NzkwZmIx`

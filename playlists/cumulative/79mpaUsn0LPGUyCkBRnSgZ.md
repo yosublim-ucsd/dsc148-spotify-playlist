@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-596 songs - 1 day 14 hr 40 min
+599 songs - 1 day 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Flimsier](https://open.spotify.com/track/1tzww8WyoZheUB7wmZpTyW) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Space Heavy](https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5) | 3:59 | 2024-01-06 |  |
 | [Florida](https://open.spotify.com/track/6BtoVDX3JfmtawFEGHTDN5) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Starfucker](https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ) | 3:50 | 2023-11-13 |  |
 | [Foil](https://open.spotify.com/track/7uXRhVsCHwKVV8gYeA5CXS) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32) | 6:04 | 2024-02-14 |  |
+| [Follow The Lights](https://open.spotify.com/track/0iHClWd9kbQEvcCsriEHJS) | [Pom Poko](https://open.spotify.com/artist/4RkC3KmYWnr6PM1FM5Shwz) | [Birthday](https://open.spotify.com/album/2KgYcD8b9rxkROAPeYEnjh) | 4:12 | 2024-03-04 |  |
 | [For You](https://open.spotify.com/track/5PxB654Q7n3w3NKPdolOLE) | [Tune\-Yards](https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi) | [BiRd\-BrAiNs](https://open.spotify.com/album/7oVySVWjCqQwLSuJ7450sV) | 1:50 | 2023-10-30 |  |
 | [Four Point Steel Star](https://open.spotify.com/track/5f8B1wdJbXv1DUz6KR4drD) | [Kumo 99](https://open.spotify.com/artist/31UoyJXnXTjUzdwSX1Ylg5) | [Body N\. Will](https://open.spotify.com/album/4yTeZlcwc5fCoNPQFD2ZNX) | 2:20 | 2024-01-17 |  |
 | [Four Years and One Day](https://open.spotify.com/track/1N46EUnUiBP4lhLMCLwnFG) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Love What Survives](https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs) | 3:17 | 2024-02-14 |  |
@@ -283,7 +284,7 @@
 | [It's Gonna Be A Long Night](https://open.spotify.com/track/0vpN0CT9JT9wQ4cQeCXfjF) | [Ween](https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu) | [Quebec](https://open.spotify.com/album/0GOWw5YVpOmIX6mUtjLi30) | 2:50 | 2024-01-15 |  |
 | [It's Not Just Me, It's Everybody](https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 6:16 | 2022-12-29 |  |
 | [It's Okay To Cry](https://open.spotify.com/track/7nKiLyUUSbNUwaoMBzBeQO) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:50 | 2023-02-07 |  |
-| [It's Random](https://open.spotify.com/track/6Sj5jAdiIWAAAYZc9dn9ZM) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [comfortably in pain](https://open.spotify.com/album/39vpTiloqw4kytVLU29AxS) | 2:24 | 2024-02-24 |  |
+| [It's Random](https://open.spotify.com/track/6Sj5jAdiIWAAAYZc9dn9ZM) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [comfortably in pain](https://open.spotify.com/album/39vpTiloqw4kytVLU29AxS) | 2:24 | 2024-02-24 | 2024-03-05 |
 | [It's Working](https://open.spotify.com/track/2sCaihW0VlDKecbUgMSzRY) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Congratulations](https://open.spotify.com/album/3HA1Ru1gEAgaxTywkJmBOL) | 4:06 | 2022-07-25 |  |
 | [Ivory](https://open.spotify.com/track/4JaqygglHv9rWW6B2NfgF6) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 0:45 | 2023-06-21 |  |
 | [Jealousy](https://open.spotify.com/track/3sXZLfPN16Xnwr0hJt3Tvl) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Live Forever](https://open.spotify.com/album/0BTz0mHuiV8hEsU9azWSwo) | 2:41 | 2022-03-27 |  |
@@ -419,11 +420,12 @@
 | [Rain Dance](https://open.spotify.com/track/7vAuvUggnyjtuAu77pfapf) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Projector](https://open.spotify.com/album/1E094hHDWCHZqO1YVLIUmj) | 3:23 | 2024-01-15 |  |
 | [Ramona Park Legend Pt\. 1](https://open.spotify.com/track/1wjyGxvNK5POKbIfNroB3E) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Summertime '06](https://open.spotify.com/album/4Csoz10NhNJOrCTUoPBdUD) | 0:36 | 2022-04-15 |  |
 | [Ramona Reborn](https://open.spotify.com/track/4dMRURWuPZmjpAMeNqvUkt) | [Delicate Steve](https://open.spotify.com/artist/1bNgeTuV3MlkAq64Ybvcq5) | [Positive Force](https://open.spotify.com/album/2aZxhSUDHeE3tXSlWvao1w) | 3:09 | 2024-01-03 |  |
+| [Re\-Make/Re\-Model](https://open.spotify.com/track/6pUfi8uawZnCK2T0hatNwR) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Roxy Music](https://open.spotify.com/album/4KjUgJn22cmBRQC0AHcjI3) | 5:14 | 2024-03-04 |  |
 | [Reach Out](https://open.spotify.com/track/2gEuEnvHdyZhRoXQiaoY1Y) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [A Beginner's Mind](https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9) | 3:43 | 2023-05-06 | 2023-05-11 |
 | [Ready Lets Go](https://open.spotify.com/track/27M2m1NzEmCkzb9kzTLqzT) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 0:59 | 2022-05-28 | 2024-01-10 |
 | [recognized](https://open.spotify.com/track/4sriGuSuKyc8mmcoWaNO2b) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [Why Does the Earth Give Us People to Love?](https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO) | 1:02 | 2023-04-19 | 2024-01-02 |
 | [Red Rain \- 2012 Remaster](https://open.spotify.com/track/3ixUQ3Wt5B6iIkY6zWhRMY) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(2012 Remastered\)](https://open.spotify.com/album/2ikq6LspaBbUG2qyiV5qdx) | 5:40 | 2024-01-08 |  |
-| [Redemption Arc](https://open.spotify.com/track/5P2xjOkykDrAHcLxCLyBDi) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Blue Raspberry](https://open.spotify.com/album/3ue5JrkSudbuHwQOEvZwHj) | 3:21 | 2024-03-03 |  |
+| [Redemption Arc](https://open.spotify.com/track/5P2xjOkykDrAHcLxCLyBDi) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Blue Raspberry](https://open.spotify.com/album/3ue5JrkSudbuHwQOEvZwHj) | 3:21 | 2024-03-03 | 2024-03-05 |
 | [Rehab](https://open.spotify.com/track/1L5tZi0izXsi5Kk5OJf4W0) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 3:33 | 2023-11-19 |  |
 | [Research Chemicals](https://open.spotify.com/track/37C2eshetthNcnTu59a5yy) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Consistency of Energy](https://open.spotify.com/album/5uWaN4A4OlmGGmdEx90pGX) | 6:19 | 2023-12-23 |  |
 | [Respect](https://open.spotify.com/track/7s25THrKz86DM225dOYwnr) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:27 | 2024-01-08 |  |
@@ -595,6 +597,7 @@
 | [x w x](https://open.spotify.com/track/23M9FijuZP9MsVQrCLdqct) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [softscars](https://open.spotify.com/album/7t01lwQRDjtEvwiAm88ACH) | 2:25 | 2023-10-13 |  |
 | [Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 | 2022-01-06 |  |
 | [XXX](https://open.spotify.com/track/3fMYdbxKBDKtLa1HB9iBDK) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [XXX \(Deluxe Version\)](https://open.spotify.com/album/3vyMhFtK8R0cFoMfnBfztb) | 1:50 | 2023-03-28 | 2023-12-14 |
+| [Yer Brothers](https://open.spotify.com/track/7MQjOPsj0Mfi8HLUUC0mEP) | [Pedro The Lion](https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr), [American Football](https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4), [Nick Wilkerson](https://open.spotify.com/artist/3QiX2OujsOt08Qx3ZbzNbp), [Dragon Inn 3](https://open.spotify.com/artist/4R9OjGQDdKY8sjNSEG5CiR) | [Exquisite Corpse](https://open.spotify.com/album/11aSgmA8YPBrEfJ536AcsA) | 2:02 | 2024-03-04 |  |
 | [Yonder](https://open.spotify.com/track/7LW269UGA2IwIiYLhIH2JP) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Agor](https://open.spotify.com/album/2mFlkozkxXwCdQgztSucRz) | 1:41 | 2024-02-14 |  |
 | [You Can Get It](https://open.spotify.com/track/18L6KppkJ3SzdM169N0Xbh) | [BUMPER](https://open.spotify.com/artist/4fzRRClf1bZ6y550CzhcqV) | [pop songs 2020](https://open.spotify.com/album/3aq7whJpYQjC5m2GGENivF) | 3:02 | 2023-04-12 | 2023-05-15 |
 | [you in everything](https://open.spotify.com/track/7qE5nzW83u1ZSiblQv37lx) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [angel in realtime.](https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP) | 6:51 | 2022-07-04 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 70925,
+  "num_followers": 70967,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2M0MjdiMzJlNmY5OTZjZmJlZjZlZmRjZTlhZjIzZjY4NjU3ZGVj",
+  "snapshot_id": "MCw2MDdhMDYyZTEwYTkxM2QwODFmZWI3NTdiOTAxZTlhYTljN2MyMzNh",
   "tracks": [
     {
       "added_at": "2024-02-15 23:00:00",
@@ -347,6 +347,50 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Game Of Hate",
+        "url": "https://open.spotify.com/album/2sm4kctw7K0HbT1cRpiHYu"
+      },
+      "artists": [
+        {
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+        },
+        {
+          "name": "BOMBSQUAD",
+          "url": "https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl"
+        },
+        {
+          "name": "Barber",
+          "url": "https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W"
+        }
+      ],
+      "duration_ms": 180571,
+      "name": "Game Of Hate",
+      "url": "https://open.spotify.com/track/0YiOkYXWTaFda3ZttdkPuD"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Overdosis",
+        "url": "https://open.spotify.com/album/3LYrflZG7Q6zEP41JVercl"
+      },
+      "artists": [
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        },
+        {
+          "name": "MC Robs",
+          "url": "https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Overdosis",
+      "url": "https://open.spotify.com/track/6SA6ttzni94LLVM3Jm5J14"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Bring It Hardcore",
         "url": "https://open.spotify.com/album/6Rpr2axSXD0r9B66J6WOYc"
       },
@@ -379,30 +423,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Game Of Hate",
-        "url": "https://open.spotify.com/album/2sm4kctw7K0HbT1cRpiHYu"
-      },
-      "artists": [
-        {
-          "name": "N-Vitral",
-          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
-        },
-        {
-          "name": "BOMBSQUAD",
-          "url": "https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl"
-        },
-        {
-          "name": "Barber",
-          "url": "https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W"
-        }
-      ],
-      "duration_ms": 180571,
-      "name": "Game Of Hate",
-      "url": "https://open.spotify.com/track/0YiOkYXWTaFda3ZttdkPuD"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "ALLERLAATSTE FEESTJE",
         "url": "https://open.spotify.com/album/7J7zRhFxdO4nSOOQK04Df3"
       },
@@ -427,6 +447,26 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Warriors Of Valhalla",
+        "url": "https://open.spotify.com/album/4TQLZCdkZ4VRMy8U31vfMw"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "JKLL",
+          "url": "https://open.spotify.com/artist/3BzXxsczLsf5AjlmIAFyT7"
+        }
+      ],
+      "duration_ms": 159600,
+      "name": "Warriors Of Valhalla",
+      "url": "https://open.spotify.com/track/1uRTpjcx6qdbo9NPWosv8H"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Xtreme Audio (Official Thunderdome 2023 Anthem)",
         "url": "https://open.spotify.com/album/4nykZzCf7uHImgFojMhUmG"
       },
@@ -443,8 +483,8 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Overdosis",
-        "url": "https://open.spotify.com/album/3LYrflZG7Q6zEP41JVercl"
+        "name": "The Deadly Fist",
+        "url": "https://open.spotify.com/album/3iF9oI3j8t3pgX2tVd6QuP"
       },
       "artists": [
         {
@@ -452,13 +492,13 @@
           "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
         },
         {
-          "name": "MC Robs",
-          "url": "https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8"
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Overdosis",
-      "url": "https://open.spotify.com/track/6SA6ttzni94LLVM3Jm5J14"
+      "duration_ms": 194710,
+      "name": "The Deadly Fist",
+      "url": "https://open.spotify.com/track/7pANE2n751S0dmh0WJeC87"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -507,8 +547,8 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Warriors Of Valhalla",
-        "url": "https://open.spotify.com/album/4TQLZCdkZ4VRMy8U31vfMw"
+        "name": "Trippie naar de klote",
+        "url": "https://open.spotify.com/album/3yey7HNNhu0asuLy02BWuh"
       },
       "artists": [
         {
@@ -516,13 +556,13 @@
           "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
         },
         {
-          "name": "JKLL",
-          "url": "https://open.spotify.com/artist/3BzXxsczLsf5AjlmIAFyT7"
+          "name": "Steen",
+          "url": "https://open.spotify.com/artist/4sf0XtUsKwVtg6YK72Dx2C"
         }
       ],
-      "duration_ms": 159600,
-      "name": "Warriors Of Valhalla",
-      "url": "https://open.spotify.com/track/1uRTpjcx6qdbo9NPWosv8H"
+      "duration_ms": 192000,
+      "name": "Trippie naar de klote",
+      "url": "https://open.spotify.com/track/4Tz5h4M9dEVTJPk1x2kImp"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -539,6 +579,26 @@
       "duration_ms": 159600,
       "name": "Shark Attack",
       "url": "https://open.spotify.com/track/1TwUqMISFgw9jU2c8cSOQI"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Creed Of Freakstyle",
+        "url": "https://open.spotify.com/album/5QgbUIZAldBQ6FmWDMXD6D"
+      },
+      "artists": [
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        },
+        {
+          "name": "Restrained",
+          "url": "https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV"
+        }
+      ],
+      "duration_ms": 249230,
+      "name": "Creed Of Freakstyle",
+      "url": "https://open.spotify.com/track/14IsD2FgLmBaGVsbCm1oIE"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -583,22 +643,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Enter The Dome (Official Thunderdome 2022 Anthem)",
-        "url": "https://open.spotify.com/album/11f7M6Iutpt2PDvvxWdRuM"
-      },
-      "artists": [
-        {
-          "name": "N-Vitral",
-          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
-        }
-      ],
-      "duration_ms": 231102,
-      "name": "Enter The Dome - Official Thunderdome 2022 Anthem",
-      "url": "https://open.spotify.com/track/5wvfLTKIewrRfrZJRs3Qqf"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Feed Your Soul",
         "url": "https://open.spotify.com/album/5VjPS4lmtkEC5VY08cIloC"
       },
@@ -635,22 +679,18 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "The Deadly Fist",
-        "url": "https://open.spotify.com/album/3iF9oI3j8t3pgX2tVd6QuP"
+        "name": "Enter The Dome (Official Thunderdome 2022 Anthem)",
+        "url": "https://open.spotify.com/album/11f7M6Iutpt2PDvvxWdRuM"
       },
       "artists": [
         {
-          "name": "Angerfist",
-          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
-        },
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
         }
       ],
-      "duration_ms": 194710,
-      "name": "The Deadly Fist",
-      "url": "https://open.spotify.com/track/7pANE2n751S0dmh0WJeC87"
+      "duration_ms": 231102,
+      "name": "Enter The Dome - Official Thunderdome 2022 Anthem",
+      "url": "https://open.spotify.com/track/5wvfLTKIewrRfrZJRs3Qqf"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -691,26 +731,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Trippie naar de klote",
-        "url": "https://open.spotify.com/album/3yey7HNNhu0asuLy02BWuh"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        },
-        {
-          "name": "Steen",
-          "url": "https://open.spotify.com/artist/4sf0XtUsKwVtg6YK72Dx2C"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Trippie naar de klote",
-      "url": "https://open.spotify.com/track/4Tz5h4M9dEVTJPk1x2kImp"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "U Will Be Mine",
         "url": "https://open.spotify.com/album/1Z4SqaLqiOma9BMs8M8MQo"
       },
@@ -731,6 +751,26 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Syndicate Of Noise (Official SYNDICATE 2023 Anthem)",
+        "url": "https://open.spotify.com/album/6qPEbdsMpIYye8KPfQ9NsQ"
+      },
+      "artists": [
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        },
+        {
+          "name": "Nolz",
+          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
+        }
+      ],
+      "duration_ms": 273729,
+      "name": "Syndicate Of Noise - Official SYNDICATE 2023 Anthem",
+      "url": "https://open.spotify.com/track/2QXxOoPaqduErHktm3wmRu"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Raver",
         "url": "https://open.spotify.com/album/14dF0WfiWvhDWZGBh0sv4W"
       },
@@ -743,6 +783,26 @@
       "duration_ms": 132846,
       "name": "Raver",
       "url": "https://open.spotify.com/track/5avzhrNSqYgb4juAOzwyEz"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Fat Beat",
+        "url": "https://open.spotify.com/album/4FxTlGHqQ4Xl6S5QByZEBl"
+      },
+      "artists": [
+        {
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+        },
+        {
+          "name": "Killshot",
+          "url": "https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM"
+        }
+      ],
+      "duration_ms": 231600,
+      "name": "Fat Beat",
+      "url": "https://open.spotify.com/track/6uWksA4RzIKGlHNg4of8pV"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -767,42 +827,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Creed Of Freakstyle",
-        "url": "https://open.spotify.com/album/5QgbUIZAldBQ6FmWDMXD6D"
+        "name": "Path Of Passion",
+        "url": "https://open.spotify.com/album/3SkFXqcFzEwXLVYWZTkb1P"
       },
       "artists": [
         {
-          "name": "Angerfist",
-          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
         },
         {
-          "name": "Restrained",
-          "url": "https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV"
+          "name": "The Sickest Squad",
+          "url": "https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk"
         }
       ],
-      "duration_ms": 249230,
-      "name": "Creed Of Freakstyle",
-      "url": "https://open.spotify.com/track/14IsD2FgLmBaGVsbCm1oIE"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Fat Beat",
-        "url": "https://open.spotify.com/album/4FxTlGHqQ4Xl6S5QByZEBl"
-      },
-      "artists": [
-        {
-          "name": "N-Vitral",
-          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
-        },
-        {
-          "name": "Killshot",
-          "url": "https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM"
-        }
-      ],
-      "duration_ms": 231600,
-      "name": "Fat Beat",
-      "url": "https://open.spotify.com/track/6uWksA4RzIKGlHNg4of8pV"
+      "duration_ms": 183748,
+      "name": "Hall of the Mountain King",
+      "url": "https://open.spotify.com/track/6Ck7C5rO2I5sBBxIksPmYp"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -879,26 +919,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Path Of Passion",
-        "url": "https://open.spotify.com/album/3SkFXqcFzEwXLVYWZTkb1P"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        },
-        {
-          "name": "The Sickest Squad",
-          "url": "https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk"
-        }
-      ],
-      "duration_ms": 183748,
-      "name": "Hall of the Mountain King",
-      "url": "https://open.spotify.com/track/6Ck7C5rO2I5sBBxIksPmYp"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Go Insane",
         "url": "https://open.spotify.com/album/4R8s9MjRlSZvddk9uleGeG"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 202575,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/7ecePzsLSoELyuQ3ZyKqMU"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Syndicate Of Noise (Official SYNDICATE 2023 Anthem)",
-        "url": "https://open.spotify.com/album/6qPEbdsMpIYye8KPfQ9NsQ"
-      },
-      "artists": [
-        {
-          "name": "Angerfist",
-          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
-        },
-        {
-          "name": "Nolz",
-          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
-        }
-      ],
-      "duration_ms": 273729,
-      "name": "Syndicate Of Noise - Official SYNDICATE 2023 Anthem",
-      "url": "https://open.spotify.com/track/2QXxOoPaqduErHktm3wmRu"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "In the year 2222",
-        "url": "https://open.spotify.com/album/4BUq0MYMPCVVRVTNYv0lVl"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        }
-      ],
-      "duration_ms": 217200,
-      "name": "In the year 2222",
-      "url": "https://open.spotify.com/track/276doaEmdigNFjR6JeLs4b"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "The Boogeyman",
         "url": "https://open.spotify.com/album/1WCQ5o2QcQOrhcLwZljLvP"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 180857,
       "name": "The Boogeyman",
       "url": "https://open.spotify.com/track/4SGwV4zIwcdGYybJvAj2kz"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "In the year 2222",
+        "url": "https://open.spotify.com/album/4BUq0MYMPCVVRVTNYv0lVl"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        }
+      ],
+      "duration_ms": 217200,
+      "name": "In the year 2222",
+      "url": "https://open.spotify.com/track/276doaEmdigNFjR6JeLs4b"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Fight Them All",
-        "url": "https://open.spotify.com/album/7wY8Z4jVcMXECcIQ83docS"
-      },
-      "artists": [
-        {
-          "name": "Broken Minds",
-          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
-        },
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
-        }
-      ],
-      "duration_ms": 171789,
-      "name": "Fight Them All",
-      "url": "https://open.spotify.com/track/0rZBe91kLd0h85B9e7T3vR"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "We Roar Special",
         "url": "https://open.spotify.com/album/0K9Jpxbt3Er6NMwMkEFR0r"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 164400,
       "name": "Like An Animal - Jur Terreur Remix",
       "url": "https://open.spotify.com/track/2Ja6dTeqsDx8YFAR1ojmpx"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Fight Them All",
+        "url": "https://open.spotify.com/album/7wY8Z4jVcMXECcIQ83docS"
+      },
+      "artists": [
+        {
+          "name": "Broken Minds",
+          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
+        },
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        }
+      ],
+      "duration_ms": 171789,
+      "name": "Fight Them All",
+      "url": "https://open.spotify.com/track/0rZBe91kLd0h85B9e7T3vR"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1651,26 +1651,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Demolition Hardcore",
-        "url": "https://open.spotify.com/album/70Wnww8EdxAMmEwdbrZrn8"
-      },
-      "artists": [
-        {
-          "name": "Restrained",
-          "url": "https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV"
-        },
-        {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "Demolition Hardcore",
-      "url": "https://open.spotify.com/track/3pG4KAfjRpnfezGwDiN2mY"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Slaves To The Darkness",
         "url": "https://open.spotify.com/album/15ikzZsJ2RLrmhC6Co9mB3"
       },
@@ -1691,6 +1671,26 @@
       "duration_ms": 198315,
       "name": "Slaves To The Darkness",
       "url": "https://open.spotify.com/track/3aPsBE6I6l8eWZB3LN0AdG"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Demolition Hardcore",
+        "url": "https://open.spotify.com/album/70Wnww8EdxAMmEwdbrZrn8"
+      },
+      "artists": [
+        {
+          "name": "Restrained",
+          "url": "https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV"
+        },
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Demolition Hardcore",
+      "url": "https://open.spotify.com/track/3pG4KAfjRpnfezGwDiN2mY"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1763,26 +1763,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Number One Thriller",
-        "url": "https://open.spotify.com/album/0rguy92JmcRjE98uNQ9aIn"
-      },
-      "artists": [
-        {
-          "name": "Audiofreq",
-          "url": "https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl"
-        },
-        {
-          "name": "Skorned",
-          "url": "https://open.spotify.com/artist/02uuZ9yoP6xwYXuLLZd5Br"
-        }
-      ],
-      "duration_ms": 192324,
-      "name": "Number One Thriller",
-      "url": "https://open.spotify.com/track/675l6GVF65IS81eznAR2po"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "TH3 FL0W",
         "url": "https://open.spotify.com/album/11ykfjfk1g4ZJjsx7tEM9J"
       },
@@ -1835,6 +1815,26 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Number One Thriller",
+        "url": "https://open.spotify.com/album/0rguy92JmcRjE98uNQ9aIn"
+      },
+      "artists": [
+        {
+          "name": "Audiofreq",
+          "url": "https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl"
+        },
+        {
+          "name": "Skorned",
+          "url": "https://open.spotify.com/artist/02uuZ9yoP6xwYXuLLZd5Br"
+        }
+      ],
+      "duration_ms": 192324,
+      "name": "Number One Thriller",
+      "url": "https://open.spotify.com/track/675l6GVF65IS81eznAR2po"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Demonic Playgrounds",
         "url": "https://open.spotify.com/album/23jLMFzSBYcGYrdu1f85NC"
       },
@@ -1855,22 +1855,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "The Gospel (Geck-o's Gabber Confession Remix)",
-        "url": "https://open.spotify.com/album/0dkaXxnzrtl4qbG53b8nKo"
+        "name": "Made it to Thunderdome",
+        "url": "https://open.spotify.com/album/51RFeHthhnta86KQO92uyY"
       },
       "artists": [
         {
-          "name": "Audiofreq",
-          "url": "https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl"
+          "name": "Nightshift",
+          "url": "https://open.spotify.com/artist/1fzWsgu7ndnyTBtBYOmzxe"
         },
         {
-          "name": "Geck-O",
-          "url": "https://open.spotify.com/artist/5TfuDjIGoKIDy1c7l0DBsB"
+          "name": "Da Mouth of Madness",
+          "url": "https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv"
         }
       ],
-      "duration_ms": 231500,
-      "name": "The Gospel - Geck-o's Gabber Confession Remix",
-      "url": "https://open.spotify.com/track/1aj0Wx51HvxGj1dnDFNEnm"
+      "duration_ms": 227294,
+      "name": "Made it to Thunderdome",
+      "url": "https://open.spotify.com/track/0Cxe1F9JEK4iFjX54aauZe"
     }
   ],
   "unique_name": "Hardcore Rage 2024",

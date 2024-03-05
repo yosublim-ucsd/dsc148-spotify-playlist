@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 312015,
+  "2024-03-05": 312273,
   "date_first_scraped": "2022-09-15",
   "description": "The songs from the 2000s that will make you dance all summer long!",
   "name": "Summer Hits of the 00s",
@@ -1539,7 +1539,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 232000,
       "name": "Move Ya Body",
       "url": "https://open.spotify.com/track/2ndnVdR8si7CW9T8vJRHyW"
@@ -2581,6 +2581,28 @@
       "duration_ms": 290320,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk"
+    },
+    {
+      "album": {
+        "name": "World Hold On (Children of the Sky) [Radio Edit]",
+        "url": "https://open.spotify.com/album/4nJFwHTd4JySzd5vRehPQG"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Steve Edwards",
+          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199194,
+      "name": "World Hold On (Children of the Sky) - Radio Edit",
+      "url": "https://open.spotify.com/track/3HGwI9qwq5XqBDeZBV3zti"
     },
     {
       "album": {

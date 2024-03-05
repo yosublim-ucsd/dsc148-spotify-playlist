@@ -1,12 +1,12 @@
 {
   "description": "Una euf\u00f3rica dosis de urbano rom\u00e1ntico en espa\u00f1ol.",
-  "num_followers": 168320,
+  "num_followers": 168363,
   "original_name": "Rimas Pa'l Cora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjkwNTdmMWNkYzlkYWRlOWY3NDI1ZTNiZDI4YzgwM2NhMTgxNDYw",
+  "snapshot_id": "MCw3MmMyMjc1MTQ4OWYyNzlhZTg3NWViN2I3MDg0NzFmMDUxYzVkYWFj",
   "tracks": [
     {
       "added_at": "2024-03-01 19:18:05",
@@ -259,18 +259,18 @@
     {
       "added_at": "2024-03-01 19:18:05",
       "album": {
-        "name": "Amnesia",
-        "url": "https://open.spotify.com/album/7x0UG4rToHvR7HkzqGN06a"
+        "name": "Qu\u00e9 Bonita",
+        "url": "https://open.spotify.com/album/3YwzuRRgvGIUKxNbbB2xP8"
       },
       "artists": [
         {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
         }
       ],
-      "duration_ms": 188604,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/2CRXFBkRh0V7FZL5kuiqdO"
+      "duration_ms": 230416,
+      "name": "Qu\u00e9 Bonita",
+      "url": "https://open.spotify.com/track/6sKHf7XZWBHQlShNLNm73F"
     },
     {
       "added_at": "2024-03-01 19:18:05",
@@ -295,18 +295,18 @@
     {
       "added_at": "2024-03-01 19:18:05",
       "album": {
-        "name": "Qu\u00e9 Bonita",
-        "url": "https://open.spotify.com/album/3YwzuRRgvGIUKxNbbB2xP8"
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/7x0UG4rToHvR7HkzqGN06a"
       },
       "artists": [
         {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 230416,
-      "name": "Qu\u00e9 Bonita",
-      "url": "https://open.spotify.com/track/6sKHf7XZWBHQlShNLNm73F"
+      "duration_ms": 188604,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/2CRXFBkRh0V7FZL5kuiqdO"
     },
     {
       "added_at": "2024-03-01 19:18:05",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-03-01 19:18:05",
       "album": {
-        "name": "Frenia",
-        "url": "https://open.spotify.com/album/6DtziobPePcdasV0uUycOn"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Sabanas Blancas",
-      "url": "https://open.spotify.com/track/0IBhXEEKXhv0bdpboaw5M3"
-    },
-    {
-      "added_at": "2024-03-01 19:18:05",
-      "album": {
         "name": "Dib\u00fajame",
         "url": "https://open.spotify.com/album/46M0YKUmzyQm5yNAmqs3f0"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 236932,
       "name": "Dib\u00fajame",
       "url": "https://open.spotify.com/track/0RKglZdTQ7BLrs6vplb2qm"
+    },
+    {
+      "added_at": "2024-03-01 19:18:05",
+      "album": {
+        "name": "Frenia",
+        "url": "https://open.spotify.com/album/6DtziobPePcdasV0uUycOn"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Sabanas Blancas",
+      "url": "https://open.spotify.com/track/0IBhXEEKXhv0bdpboaw5M3"
     },
     {
       "added_at": "2024-03-01 19:18:05",
@@ -767,6 +767,58 @@
     {
       "added_at": "2024-03-01 19:18:05",
       "album": {
+        "name": "Luna Azul",
+        "url": "https://open.spotify.com/album/7xO1HkxoLRT2iv8tdq84sP"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 188466,
+      "name": "Luna Azul",
+      "url": "https://open.spotify.com/track/6M7Ga3llZjDwKbb1b6oRFZ"
+    },
+    {
+      "added_at": "2024-03-01 19:18:05",
+      "album": {
+        "name": "YOKO",
+        "url": "https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "duration_ms": 207426,
+      "name": "YOKO",
+      "url": "https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k"
+    },
+    {
+      "added_at": "2024-03-01 19:18:05",
+      "album": {
+        "name": "Me Gustas M\u00e1s Que Salir a Fumar",
+        "url": "https://open.spotify.com/album/0D1v1FFqRnSxLhxbU93gvs"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 203456,
+      "name": "Me Gustas M\u00e1s Que Salir a Fumar",
+      "url": "https://open.spotify.com/track/3e5qNP3CSArQiLLBMJQkUM"
+    },
+    {
+      "added_at": "2024-03-01 19:18:05",
+      "album": {
         "name": "No Ten\u00edamos Nada, Pero \u00c9ramos Felices",
         "url": "https://open.spotify.com/album/23c29N9eKBUKm7sljfJMgs"
       },
@@ -807,42 +859,6 @@
     {
       "added_at": "2024-03-01 19:18:05",
       "album": {
-        "name": "Luna Azul",
-        "url": "https://open.spotify.com/album/7xO1HkxoLRT2iv8tdq84sP"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 188466,
-      "name": "Luna Azul",
-      "url": "https://open.spotify.com/track/6M7Ga3llZjDwKbb1b6oRFZ"
-    },
-    {
-      "added_at": "2024-03-01 19:18:05",
-      "album": {
-        "name": "YOKO",
-        "url": "https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        }
-      ],
-      "duration_ms": 207426,
-      "name": "YOKO",
-      "url": "https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k"
-    },
-    {
-      "added_at": "2024-03-01 19:18:05",
-      "album": {
         "name": "Si No Hay Ma\u00f1ana - Spotify Singles",
         "url": "https://open.spotify.com/album/2awsgyoW4ncnfyTHJsTiC6"
       },
@@ -855,38 +871,6 @@
       "duration_ms": 222066,
       "name": "Si No Hay Ma\u00f1ana - Spotify Singles",
       "url": "https://open.spotify.com/track/4KfT6tbE0Hq4GffrFJvCus"
-    },
-    {
-      "added_at": "2024-03-01 19:18:05",
-      "album": {
-        "name": "Me Gustas M\u00e1s Que Salir a Fumar",
-        "url": "https://open.spotify.com/album/0D1v1FFqRnSxLhxbU93gvs"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 203456,
-      "name": "Me Gustas M\u00e1s Que Salir a Fumar",
-      "url": "https://open.spotify.com/track/3e5qNP3CSArQiLLBMJQkUM"
-    },
-    {
-      "added_at": "2024-03-01 19:18:05",
-      "album": {
-        "name": "Atrapado en un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/1WEYD957nsBAfdYYcCZAaQ"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Atrapado en un Sue\u00f1o",
-      "url": "https://open.spotify.com/track/4c7nGM9irzliRPB9wiNq9l"
     },
     {
       "added_at": "2024-03-01 19:18:05",
@@ -931,42 +915,6 @@
     {
       "added_at": "2024-03-01 19:18:05",
       "album": {
-        "name": "TODO",
-        "url": "https://open.spotify.com/album/1ga2yneTMtHivfc7wDKl1W"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Algo m\u00e1s",
-      "url": "https://open.spotify.com/track/6FE1NAMYwkuNJDNPEZ8xez"
-    },
-    {
-      "added_at": "2024-03-01 19:18:05",
-      "album": {
-        "name": "Nunca Quise Escribirte una Balada",
-        "url": "https://open.spotify.com/album/4wFlI78FEuTROwAzUeRDBf"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        }
-      ],
-      "duration_ms": 153242,
-      "name": "Nunca Quise Escribirte una Balada",
-      "url": "https://open.spotify.com/track/6NABVmTFslZbB8JEPx2DBl"
-    },
-    {
-      "added_at": "2024-03-01 19:18:05",
-      "album": {
         "name": "Volvernos a Amar",
         "url": "https://open.spotify.com/album/1Rr0AMdbX6fBn19rKrxo60"
       },
@@ -991,38 +939,38 @@
     {
       "added_at": "2024-03-01 19:18:05",
       "album": {
-        "name": "Prohibida",
-        "url": "https://open.spotify.com/album/5PMYtsW0XUpaPLGntAkOCD"
+        "name": "Atrapado en un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/1WEYD957nsBAfdYYcCZAaQ"
       },
       "artists": [
         {
           "name": "Gera MX",
           "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         }
       ],
-      "duration_ms": 206200,
-      "name": "Prohibida",
-      "url": "https://open.spotify.com/track/1ax1dPQHLGFZfIu1JdWdsm"
+      "duration_ms": 205000,
+      "name": "Atrapado en un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/4c7nGM9irzliRPB9wiNq9l"
     },
     {
       "added_at": "2024-03-01 19:18:05",
       "album": {
-        "name": "Ynlpa",
-        "url": "https://open.spotify.com/album/4KYzvBfBPMo6RvhMCQjBp9"
+        "name": "Nunca Quise Escribirte una Balada",
+        "url": "https://open.spotify.com/album/4wFlI78FEuTROwAzUeRDBf"
       },
       "artists": [
         {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
         }
       ],
-      "duration_ms": 183472,
-      "name": "Ynlpa",
-      "url": "https://open.spotify.com/track/1Md3x0pKPQ7OEhmQWB6fLf"
+      "duration_ms": 153242,
+      "name": "Nunca Quise Escribirte una Balada",
+      "url": "https://open.spotify.com/track/6NABVmTFslZbB8JEPx2DBl"
     },
     {
       "added_at": "2024-03-01 19:18:05",
@@ -1043,6 +991,38 @@
     {
       "added_at": "2024-03-01 19:18:05",
       "album": {
+        "name": "TODO",
+        "url": "https://open.spotify.com/album/1ga2yneTMtHivfc7wDKl1W"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Algo m\u00e1s",
+      "url": "https://open.spotify.com/track/6FE1NAMYwkuNJDNPEZ8xez"
+    },
+    {
+      "added_at": "2024-03-01 19:18:05",
+      "album": {
+        "name": "Ynlpa",
+        "url": "https://open.spotify.com/album/4KYzvBfBPMo6RvhMCQjBp9"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 183472,
+      "name": "Ynlpa",
+      "url": "https://open.spotify.com/track/1Md3x0pKPQ7OEhmQWB6fLf"
+    },
+    {
+      "added_at": "2024-03-01 19:18:05",
+      "album": {
         "name": "Sirena",
         "url": "https://open.spotify.com/album/0dTFJm1H9hKxR6RUPiflhS"
       },
@@ -1055,22 +1035,6 @@
       "duration_ms": 231007,
       "name": "Sirena",
       "url": "https://open.spotify.com/track/5jeWGw9WMX68R8hNqdriOv"
-    },
-    {
-      "added_at": "2024-03-01 19:18:05",
-      "album": {
-        "name": "Me Da Lo Mismo",
-        "url": "https://open.spotify.com/album/3gyF757c6nzibRCWttR1nS"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 246480,
-      "name": "Me Da Lo Mismo",
-      "url": "https://open.spotify.com/track/220yXgkadQ5amhAdgRAlnl"
     },
     {
       "added_at": "2024-03-01 19:18:05",
@@ -1095,6 +1059,26 @@
     {
       "added_at": "2024-03-01 19:18:05",
       "album": {
+        "name": "Prohibida",
+        "url": "https://open.spotify.com/album/5PMYtsW0XUpaPLGntAkOCD"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 206200,
+      "name": "Prohibida",
+      "url": "https://open.spotify.com/track/1ax1dPQHLGFZfIu1JdWdsm"
+    },
+    {
+      "added_at": "2024-03-01 19:18:05",
+      "album": {
         "name": "De Inmensidades",
         "url": "https://open.spotify.com/album/64xRjme6Wx7xdJVhRt06fY"
       },
@@ -1115,26 +1099,6 @@
       "duration_ms": 231416,
       "name": "Lumbre",
       "url": "https://open.spotify.com/track/4grtH2EEl14ZJL0fry7Zcg"
-    },
-    {
-      "added_at": "2024-03-01 19:18:05",
-      "album": {
-        "name": "Mundo",
-        "url": "https://open.spotify.com/album/1ZSEd6KC03jopwyB22gaK9"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 181765,
-      "name": "Ll\u00e9vame",
-      "url": "https://open.spotify.com/track/0eduCnvSAPlph82xkBOGsY"
     },
     {
       "added_at": "2024-03-01 19:18:05",
@@ -1179,8 +1143,8 @@
     {
       "added_at": "2024-03-01 19:18:05",
       "album": {
-        "name": "No Es M\u00eda",
-        "url": "https://open.spotify.com/album/3uvJeaWB2Sj33rSFS01j8O"
+        "name": "Me Da Lo Mismo",
+        "url": "https://open.spotify.com/album/3gyF757c6nzibRCWttR1nS"
       },
       "artists": [
         {
@@ -1188,9 +1152,9 @@
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         }
       ],
-      "duration_ms": 188992,
-      "name": "No Es M\u00eda",
-      "url": "https://open.spotify.com/track/78mmAWXm1vjrLoNlP1KdtV"
+      "duration_ms": 246480,
+      "name": "Me Da Lo Mismo",
+      "url": "https://open.spotify.com/track/220yXgkadQ5amhAdgRAlnl"
     },
     {
       "added_at": "2024-03-01 19:18:05",
@@ -1207,6 +1171,26 @@
       "duration_ms": 220000,
       "name": "Cara Bonita",
       "url": "https://open.spotify.com/track/7luI1wVUAJ3SkmpUJvqBZC"
+    },
+    {
+      "added_at": "2024-03-01 19:18:05",
+      "album": {
+        "name": "Mundo",
+        "url": "https://open.spotify.com/album/1ZSEd6KC03jopwyB22gaK9"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 181765,
+      "name": "Ll\u00e9vame",
+      "url": "https://open.spotify.com/track/0eduCnvSAPlph82xkBOGsY"
     },
     {
       "added_at": "2024-03-01 19:18:05",
@@ -1251,46 +1235,6 @@
     {
       "added_at": "2024-03-01 19:18:05",
       "album": {
-        "name": "Por Qu\u00e9 Ser\u00e1?",
-        "url": "https://open.spotify.com/album/5cZUVmlDivJW0hNO8VQJ6V"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        }
-      ],
-      "duration_ms": 199531,
-      "name": "Por Qu\u00e9 Ser\u00e1?",
-      "url": "https://open.spotify.com/track/3ZOy45DDnJ5DrRyROqUgLL"
-    },
-    {
-      "added_at": "2024-03-01 19:18:05",
-      "album": {
-        "name": "Ni Como Amigo",
-        "url": "https://open.spotify.com/album/7BE1sMoSk5Fk3Vcu16CUpQ"
-      },
-      "artists": [
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Ni Como Amigo",
-      "url": "https://open.spotify.com/track/3IZ77jkPg0wUpZxJBWyRjW"
-    },
-    {
-      "added_at": "2024-03-01 19:18:05",
-      "album": {
         "name": "Al Sur de la Noche",
         "url": "https://open.spotify.com/album/20k8vslpDovsribWcjDFX3"
       },
@@ -1319,18 +1263,22 @@
     {
       "added_at": "2024-03-01 19:18:05",
       "album": {
-        "name": "Seg\u00fan Nosotros",
-        "url": "https://open.spotify.com/album/6iXZ3BjBZkcELgxks0ijaf"
+        "name": "Por Qu\u00e9 Ser\u00e1?",
+        "url": "https://open.spotify.com/album/5cZUVmlDivJW0hNO8VQJ6V"
       },
       "artists": [
         {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
         }
       ],
-      "duration_ms": 173056,
-      "name": "Extra\u00f1andote",
-      "url": "https://open.spotify.com/track/7ka9YAKcsF1hiIgRhQojID"
+      "duration_ms": 199531,
+      "name": "Por Qu\u00e9 Ser\u00e1?",
+      "url": "https://open.spotify.com/track/3ZOy45DDnJ5DrRyROqUgLL"
     },
     {
       "added_at": "2024-03-01 19:18:05",
@@ -1355,6 +1303,42 @@
       "duration_ms": 223875,
       "name": "400 Estrellas",
       "url": "https://open.spotify.com/track/7KoRTkn1EfYjEdmo0GbUOE"
+    },
+    {
+      "added_at": "2024-03-01 19:18:05",
+      "album": {
+        "name": "No Es M\u00eda",
+        "url": "https://open.spotify.com/album/3uvJeaWB2Sj33rSFS01j8O"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 188992,
+      "name": "No Es M\u00eda",
+      "url": "https://open.spotify.com/track/78mmAWXm1vjrLoNlP1KdtV"
+    },
+    {
+      "added_at": "2024-03-01 19:18:05",
+      "album": {
+        "name": "Ni Como Amigo",
+        "url": "https://open.spotify.com/album/7BE1sMoSk5Fk3Vcu16CUpQ"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Ni Como Amigo",
+      "url": "https://open.spotify.com/track/3IZ77jkPg0wUpZxJBWyRjW"
     },
     {
       "added_at": "2024-03-01 19:18:05",
@@ -1411,6 +1395,22 @@
       "duration_ms": 221750,
       "name": "Polic\u00edas y Ladrones",
       "url": "https://open.spotify.com/track/2hiDJDoyHIcHlcKcFZKgeQ"
+    },
+    {
+      "added_at": "2024-03-01 19:18:05",
+      "album": {
+        "name": "Seg\u00fan Nosotros",
+        "url": "https://open.spotify.com/album/6iXZ3BjBZkcELgxks0ijaf"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 173056,
+      "name": "Extra\u00f1andote",
+      "url": "https://open.spotify.com/track/7ka9YAKcsF1hiIgRhQojID"
     },
     {
       "added_at": "2024-03-01 19:18:05",
@@ -1507,6 +1507,26 @@
     {
       "added_at": "2024-03-01 19:18:05",
       "album": {
+        "name": "Mil Escalas",
+        "url": "https://open.spotify.com/album/0vM7MIZddwc4AskM0iaid6"
+      },
+      "artists": [
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 144629,
+      "name": "Mil Escalas",
+      "url": "https://open.spotify.com/track/6NjRybxD0tZ90fLwnPCkkp"
+    },
+    {
+      "added_at": "2024-03-01 19:18:05",
+      "album": {
         "name": "Equivocado",
         "url": "https://open.spotify.com/album/5J8KXckopyAatMvWk2nyvI"
       },
@@ -1543,26 +1563,6 @@
       "duration_ms": 197168,
       "name": "Qu\u00e9 M\u00e1s Da",
       "url": "https://open.spotify.com/track/2hlfF82K7N4Faivl5spUYR"
-    },
-    {
-      "added_at": "2024-03-01 19:18:05",
-      "album": {
-        "name": "Mil Escalas",
-        "url": "https://open.spotify.com/album/0vM7MIZddwc4AskM0iaid6"
-      },
-      "artists": [
-        {
-          "name": "Santa RM",
-          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 144629,
-      "name": "Mil Escalas",
-      "url": "https://open.spotify.com/track/6NjRybxD0tZ90fLwnPCkkp"
     },
     {
       "added_at": "2024-03-01 19:18:05",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2024-03-01 19:18:05",
       "album": {
-        "name": "B\u00e9same Lento",
-        "url": "https://open.spotify.com/album/6nVpmgyiQiBC9dVXnur7VF"
-      },
-      "artists": [
-        {
-          "name": "Solitario Mondragon",
-          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
-        }
-      ],
-      "duration_ms": 271714,
-      "name": "B\u00e9same Lento",
-      "url": "https://open.spotify.com/track/702HgdUa5QILPolhhVoktM"
-    },
-    {
-      "added_at": "2024-03-01 19:18:05",
-      "album": {
         "name": "Tar",
         "url": "https://open.spotify.com/album/3T9Bipb4RjCKC5hcVmIn84"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 211302,
       "name": "Tenemos Que Admitirlo",
       "url": "https://open.spotify.com/track/0OaUt0opN99WQlxameVoUf"
+    },
+    {
+      "added_at": "2024-03-01 19:18:05",
+      "album": {
+        "name": "Sonr\u00edes Como Nadie",
+        "url": "https://open.spotify.com/album/3HPEQMPNdF7YdcdxECYBPy"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 196057,
+      "name": "Sonr\u00edes Como Nadie",
+      "url": "https://open.spotify.com/track/35upFzxLHai3PhYbZlF90f"
     }
   ],
   "unique_name": "Rimas Pa'l Cora",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Charli XCX, Pharrell Williams & Miley Cyrus, Cardi B, Abby Sage and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,154 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,171 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 25 | [FYS](https://open.spotify.com/track/5IVhQWFgCahKesfuioh4OG) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [FYS](https://open.spotify.com/album/7IKErQGBssaKQHzBxgBuzt) | 3:29 |
 | 26 | [Tony Montana](https://open.spotify.com/track/3mARtPEP8hi1LzMctEwVN4) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Tony Montana](https://open.spotify.com/album/2AInHQaDznimTKHL0m3M0h) | 3:27 |
 | 27 | [Anthem](https://open.spotify.com/track/3JdZapCja0ufmNY9Vqi1ia) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sharam](https://open.spotify.com/artist/7rVEQZBDtYmToQaYOQJCm2), [Pony](https://open.spotify.com/artist/5YVzHQeLnRkEYK5T5XFQ0q) | [Anthem](https://open.spotify.com/album/6Syz5BAAt7sDWPKUSRVP7T) | 3:26 |
-| 28 | [Hard dreams](https://open.spotify.com/track/1sJAQWkZdaJDsPifl1fvOd) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Hard dreams](https://open.spotify.com/album/15kCPeNnhlUuZfKyr1CJuy) | 2:50 |
+| 28 | [Hard dreams](https://open.spotify.com/track/1sJAQWkZdaJDsPifl1fvOd) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP), [Yan Wagner](https://open.spotify.com/artist/7JLtS4ASAUsAYrsShMerMc) | [Hard dreams](https://open.spotify.com/album/15kCPeNnhlUuZfKyr1CJuy) | 2:50 |
 | 29 | [I Think You Should Go](https://open.spotify.com/track/7cRfC6VZyy8r985B31baJA) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [BLIND](https://open.spotify.com/album/3KwHPX5p6O8VgJVoL5YgWj) | 2:23 |
 | 30 | [Dearly Departed \(feat\. Kardinal Offishall\)](https://open.spotify.com/track/2N8W9E0kgsshDBOT7dbnkP) | [Maestro Fresh Wes](https://open.spotify.com/artist/1dwKQTuExr4n8IwmXzyN2K), [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA) | [Rap Prime Minister](https://open.spotify.com/album/6ZaDIXpcrSf9Go71ajgKSv) | 4:07 |
 | 31 | [Somewhere Between](https://open.spotify.com/track/11N3xwyjdDK8WAWnkvYZO2) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Somewhere Between](https://open.spotify.com/album/4qXo28L1OSKzJIckZk1oej) | 3:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [State Of Nature](https://open.spotify.com/track/4qlnQc8Rc2N81jHKWBG3Vp) | [Daniel Romano](https://open.spotify.com/artist/2kTXvMOmrHVjVewErG5kHD) | [Too Hot To Sleep](https://open.spotify.com/album/0bbGGeVylC56xMaOfqRZX1) | 2:50 |
 | 100 | [All In Your Mind](https://open.spotify.com/track/1wTetzWvzvC0LeODG6b0dh) | [ZADA](https://open.spotify.com/artist/6xUGLRA9ZV9aSKyGgqR6Uq) | [WATER IN THE DESERT](https://open.spotify.com/album/7uScemeNpDj1HvQXsQGxK4) | 2:24 |
 
-Snapshot ID: `MCxmYjU4MDlhYzM5ODJmMjk0YzQ0YmFiMWIxZjRmMzE1OGUyNGM4Yzkz`
+Snapshot ID: `MCxmYzNlNmM5NWMwNWMxOGVjYmYwZGI3MTJiOWJkOGU1N2JjZDczZmQ5`

@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-270 songs - 11 hr 54 min
+271 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [How Deep Is Your Love](https://open.spotify.com/track/7l8ZciJEkbSpmL4jaKv4k9) | [Cale](https://open.spotify.com/artist/4pE5amRArtmThtna3eGERQ), [Madishu](https://open.spotify.com/artist/3tQg7VPp1T879q1AE4yIM2) | [How Deep Is Your Love](https://open.spotify.com/album/58llHvcuLwyZdMjRXC1af6) | 1:52 | 2024-02-04 |  |
 | [I Apologize](https://open.spotify.com/track/08fzPg0SVkkyOGFLL4D5IC) | [blue my mind](https://open.spotify.com/artist/6D1wjtA3nKandBjo3erjkJ), [Adeema](https://open.spotify.com/artist/73MgVKcfdjq58j9TPNI0QY), [XYSM](https://open.spotify.com/artist/1LgEmkIWxBhh25V06pRGl2) | [I Apologize](https://open.spotify.com/album/1rQXCRCDEbcw5xhoZcuqhP) | 2:36 | 2023-10-07 | 2023-12-14 |
 | [I Don't Wanna Know](https://open.spotify.com/track/4cFjoK5WruTcT1bgcbodh0) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1) | [I Don't Wanna Know](https://open.spotify.com/album/0uBJVRlz1fFjgiDFzRKqpK) | 2:13 | 2023-09-22 | 2023-12-31 |
+| [I Found A Life In You](https://open.spotify.com/track/0pwlF1O6h9MwN3cFnB5rQs) | [Kevin Ocean](https://open.spotify.com/artist/3Ok1AieWk4YBRCjjBKzVVT), [MSP](https://open.spotify.com/artist/33SPdKbbWQhohOtn7qGjP0), [Moise](https://open.spotify.com/artist/1QMWPzIxcd1bLmuOyM6XM1) | [I Found A Life In You](https://open.spotify.com/album/2WSXuLcYnE1JRRnGADzhwT) | 2:42 | 2024-03-04 |  |
 | [I Like Me Better](https://open.spotify.com/track/6UQODV3gYPW4j00QMppViz) | [LO](https://open.spotify.com/artist/6bdx22A1shpd9U6YAd8Vto) | [I Like Me Better](https://open.spotify.com/album/3qweFKz3AQrYuvO65eu51j) | 3:09 | 2023-09-22 |  |
 | [I Need You](https://open.spotify.com/track/5UYEyQjDOOXhb9Kjlu7q22) | [Coffee Cub](https://open.spotify.com/artist/0Vyyyggh3HAUVLxcD4EKLC) | [I Need You](https://open.spotify.com/album/0eoK7ANOO5FCLdEwAUsjrP) | 2:21 | 2023-09-22 |  |
 | [I Will Never Let You Go](https://open.spotify.com/track/6ME11DpWlEy7JXrhjPSxqt) | [Riesling](https://open.spotify.com/artist/3GxT7ZybNZXWlMR1eopmx9), [Vitaly Gray](https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8) | [I Will Never Let You Go](https://open.spotify.com/album/10kOKwK7DirtMUZVdSXHmc) | 2:42 | 2024-02-16 |  |

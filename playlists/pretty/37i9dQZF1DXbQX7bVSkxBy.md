@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ>Paul Tomisin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,713 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,759 likes - 50 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 47 | [Put it On God](https://open.spotify.com/track/1QcTDyopg7fNm7ZAu0mKoV) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Put It On God](https://open.spotify.com/album/1hGHJnNyDmxPXwxvKH6yr9) | 2:37 |
 | 48 | [Shelter](https://open.spotify.com/track/2i46KYvDeKGU0Gsc9WEV5C) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Shelter](https://open.spotify.com/album/47SqVj3WMJg7IubtrVGopx) | 4:12 |
 | 49 | [Made A Way](https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [The Hill](https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV) | 9:51 |
-| 50 | [Emperor of the Universe](https://open.spotify.com/track/4ewwe3fstt2FezTYwZehvo) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [Emperor of the Universe](https://open.spotify.com/album/3jglQn9MUN5mI9mLwKpidK) | 16:05 |
+| 50 | [Ebenezer \- Live](https://open.spotify.com/track/1NIsNb7J8yfy9TYE1ycKMp) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [VICTORIA ORENZE](https://open.spotify.com/artist/132I30e3higEmuOlmqnP1w) | [HALLELUJAH LIVE](https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY) | 8:31 |
 
-Snapshot ID: `MCxkZmNjZTAyNjU3MDM2YjI2ZTRlNGNkOTlmYmU5OWJhZmFlNGNmMzg3`
+Snapshot ID: `MCxkOTI2MGIxZjM4ZGU5MGY4ZWVkYjE1NTc4NzBmNGNmMDViNGQ5NzZi`

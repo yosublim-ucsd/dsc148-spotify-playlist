@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Abby Sage
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,271,888 likes - 175 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,271,959 likes - 175 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 174 | [7 Up](https://open.spotify.com/track/62hIVucnuhYuYKgfOpe6n4) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [7 Up](https://open.spotify.com/album/34L5h7uSglIHTkglRnC63H) | 3:07 |
 | 175 | [Skin Parade](https://open.spotify.com/track/2ULTiHf6StaL4Hbyarfr2h) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [The Death Of Summer & Other Promises](https://open.spotify.com/album/0esL2lh3mMULygf9eA6RlV) | 4:29 |
 
-Snapshot ID: `MCw2YzI4ZjViMTg0MTI0YzExMjQ3NzM2MDk5ZWEyZWM1NjMxNmRhNTI3`
+Snapshot ID: `MCw1Y2IzOTEwOWU3MTFmZTJiNDJkMDRkNTE5NGE5MWIxNjMyMWMwNzFk`

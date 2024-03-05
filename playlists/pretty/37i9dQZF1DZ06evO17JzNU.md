@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 
 > This is Los Gemelos De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,914 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,923 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 | 49 | [El Muchacho Criticado](https://open.spotify.com/track/6KjjvZf9wLdYMGLDcL2HMS) | [Joan Y Su Elite](https://open.spotify.com/artist/7zezEcThEVuTMXsVgPLPG1), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [El Muchacho Criticado](https://open.spotify.com/album/3dLoxjr5S4Rt98kxZrpHjz) | 2:55 |
 | 50 | [Sueña](https://open.spotify.com/track/0RykY6cKA0rnJtYrbSR61H) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Adolorido \(Vol 1\)](https://open.spotify.com/album/7jxXwVsm7JTuG9j5mClYkO) | 4:01 |
 
-Snapshot ID: `Mjg0OTExMzksMDAwMDAwMDBiYjM2YWYwYWZmZWUwZTYyYjcwZDY1YTljYjcyYTU5Mg==`
+Snapshot ID: `Mjg0OTI1NjksMDAwMDAwMDBiODk0NzBhMDQ2MWFjYmE5YTczYWExYTFkNmY0MmM2YQ==`

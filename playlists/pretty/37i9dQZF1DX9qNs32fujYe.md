@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,217,041 likes - 200 songs - 14 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,217,496 likes - 200 songs - 14 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,12 +28,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 | 18 | [The Dirt I'm Buried In](https://open.spotify.com/track/4OjAxkNVwleUdCUS098eBw) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Dance Devil Dance](https://open.spotify.com/album/5GH4bz50nqlXUm4xyK4tC2) | 4:04 |
 | 19 | [Paranoid \- 2012 \- Remaster](https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 2:48 |
 | 20 | [Ace of Spades](https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades \(Expanded Edition\)](https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6) | 2:48 |
-| 21 | [Breaking the Law](https://open.spotify.com/track/2RaA6kIcvomt77qlIgGhCT) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [British Steel](https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY) | 2:33 |
+| 21 | [Wait and Bleed](https://open.spotify.com/track/2gscB6kDOmrv1P6qs2KXE3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 2:27 |
 | 22 | [Witch](https://open.spotify.com/track/5MSdmihYEiWhtegR9Ji6mA) | [Islander](https://open.spotify.com/artist/6DHKrV1tmyV6dxN7fmPm9w) | [Witch](https://open.spotify.com/album/7jtLgmvH6nnulQ3mPZKzq6) | 3:39 |
-| 23 | [Cowboys from Hell](https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 4:03 |
-| 24 | [Wait and Bleed](https://open.spotify.com/track/2gscB6kDOmrv1P6qs2KXE3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 2:27 |
-| 25 | [Master of Puppets \(Remastered\)](https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master of Puppets \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j) | 8:35 |
-| 26 | [I Stand Alone](https://open.spotify.com/track/44NRdYQw7P0GWuiunRv3hr) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Faceless](https://open.spotify.com/album/7xhudjssYTY8qRl1s9R3wu) | 4:06 |
+| 23 | [Breaking the Law](https://open.spotify.com/track/2RaA6kIcvomt77qlIgGhCT) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [British Steel](https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY) | 2:33 |
+| 24 | [Master of Puppets \(Remastered\)](https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master of Puppets \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j) | 8:35 |
+| 25 | [I Stand Alone](https://open.spotify.com/track/44NRdYQw7P0GWuiunRv3hr) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Faceless](https://open.spotify.com/album/7xhudjssYTY8qRl1s9R3wu) | 4:06 |
+| 26 | [Cowboys from Hell](https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 4:03 |
 | 27 | [Cum on Feel the Noize](https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla) | [Quiet Riot](https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3) | [Metal Health](https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK) | 4:50 |
 | 28 | [The Four Horsemen](https://open.spotify.com/track/6wNoYY9EL7HKAFC3Vam0II) | [Doro](https://open.spotify.com/artist/5GLeyUhj8B8f5pJxqZllKl) | [The Four Horsemen](https://open.spotify.com/album/11i1htmu2QgS3kCEAfRv99) | 7:11 |
 | 29 | [Spotlight](https://open.spotify.com/track/3e9nuswzE0ZLoihvTGuXDk) | [Fozzy](https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5) | [Spotlight](https://open.spotify.com/album/3ri2HhfbONcFi8tyZMiUMW) | 4:23 |
@@ -163,15 +163,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 | 153 | [Smoke Signals](https://open.spotify.com/track/49sl0qA6id6Tz84Yrr3BsW) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Déjà Vu](https://open.spotify.com/album/4aSQ7ZdevivIQFeSMWxPSW) | 3:34 |
 | 154 | [My Will Be Done](https://open.spotify.com/track/6ueojaNAK670h4Cei9ZG4A) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [My Will Be Done](https://open.spotify.com/album/1rPhn7A7DaQioOB0ku0UXU) | 3:42 |
 | 155 | [Viva La Victoria](https://open.spotify.com/track/0TpukZ7KJGyxYGFe6AgtOD) | [Eclipse](https://open.spotify.com/artist/23ajwxFk5RBpPERZrcjHUr) | [Viva La Victoria](https://open.spotify.com/album/22VcmOjOj8Dx7GBcYmFu8A) | 3:11 |
-| 156 | [Scum](https://open.spotify.com/track/64syMK7oo9VPihJBj1IBGH) | [Napalm Death](https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt) | [Scum](https://open.spotify.com/album/51wqCUWehVrNj2Ltc83zJu) | 2:38 |
-| 157 | [Dad’Algorhythm](https://open.spotify.com/track/3BiY7K7qzbJ5VWZz2qgULg) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [Dad’Algorhythm](https://open.spotify.com/album/3b4XGfpUQmrqrtzN95sKLj) | 2:38 |
-| 158 | [Symphony Of Destruction](https://open.spotify.com/track/4YJZjINIhakR98fnz1Pvup) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Greatest Hits: Back To The Start](https://open.spotify.com/album/00sgBMhbJo1lEa1hHhYtw4) | 4:06 |
+| 156 | [Symphony Of Destruction](https://open.spotify.com/track/4YJZjINIhakR98fnz1Pvup) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Greatest Hits: Back To The Start](https://open.spotify.com/album/00sgBMhbJo1lEa1hHhYtw4) | 4:06 |
+| 157 | [Scum](https://open.spotify.com/track/64syMK7oo9VPihJBj1IBGH) | [Napalm Death](https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt) | [Scum](https://open.spotify.com/album/51wqCUWehVrNj2Ltc83zJu) | 2:38 |
+| 158 | [Dad’Algorhythm](https://open.spotify.com/track/3BiY7K7qzbJ5VWZz2qgULg) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [Dad’Algorhythm](https://open.spotify.com/album/3b4XGfpUQmrqrtzN95sKLj) | 2:38 |
 | 159 | [Afterglow of Ragnarok](https://open.spotify.com/track/0sk0mL3I4X7h6iPt9eJrwQ) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [Afterglow of Ragnarok](https://open.spotify.com/album/2E57avEBH8Ft3A8W7c7Rlk) | 5:45 |
 | 160 | [IOU](https://open.spotify.com/track/3nqpRRpUhwfo6BqibVqeuj) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [IOU](https://open.spotify.com/album/2vNZBW15QXrMe4ohiuDjZV) | 4:27 |
 | 161 | [The Path](https://open.spotify.com/track/2jS0i4Y5dCqzZ36GUEP7V0) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [The Path](https://open.spotify.com/album/48fYiT8XJSg4k77QQDS89q) | 4:07 |
 | 162 | [Slowly We Rot](https://open.spotify.com/track/5F6ZrWLngDICyjazxM1gNq) | [Obituary](https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz) | [Slowly We Rot \(Reissue\)](https://open.spotify.com/album/7H5MWoD8M6dEQoSj3SMHP7) | 3:38 |
-| 163 | [Sainted by the Storm](https://open.spotify.com/track/5zlUrvdz6o5tIC2bBg31iZ) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Sainted by the Storm](https://open.spotify.com/album/6eb9mUmP6egV7LQigKc9bf) | 3:44 |
-| 164 | [UNHALLØWED](https://open.spotify.com/track/1vCZDcHV3VaL14O01iUQVQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 6:29 |
+| 163 | [UNHALLØWED](https://open.spotify.com/track/1vCZDcHV3VaL14O01iUQVQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 6:29 |
+| 164 | [Sainted by the Storm](https://open.spotify.com/track/5zlUrvdz6o5tIC2bBg31iZ) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Sainted by the Storm](https://open.spotify.com/album/6eb9mUmP6egV7LQigKc9bf) | 3:44 |
 | 165 | [Creatures of the Dark Realm](https://open.spotify.com/track/1fG6E0ydGzxpyyUcgkfspJ) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [Creatures of the Dark Realm](https://open.spotify.com/album/6VF4wS35nDPKtBsqjbdTVC) | 4:08 |
 | 166 | [Do Or Die](https://open.spotify.com/track/4QCUR8rFIqwHO3qsDOmXhM) | [Elegant Weapons](https://open.spotify.com/artist/68LxTdkzuDW3cnp83NKfpQ) | [Horns For A Halo](https://open.spotify.com/album/6UeWcHxrlltg9Vqh46x2if) | 5:21 |
 | 167 | [Metal Is for Everyone](https://open.spotify.com/track/5qKymwS7ymNUCRimGhiQkm) | [Freedom Call](https://open.spotify.com/artist/55RDuy7cQW2Dqrcz3Jjl6F) | [Master of Light](https://open.spotify.com/album/2l3lL1oX1ejmOfZdDZK47W) | 4:52 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 | 199 | [Hurt](https://open.spotify.com/track/63JMdCqEjV2cxB2DRNLn0y) | [One Desire](https://open.spotify.com/artist/1s25YudYTrIRBOSsj917K7) | [One Desire](https://open.spotify.com/album/2N2uFYwu3oGTuDtQnTi7Lo) | 5:07 |
 | 200 | [The Raven Child](https://open.spotify.com/track/76zg1a9DvGpEHVVQh7Yuv1) | [Avantasia](https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa), [Hansi Kursch](https://open.spotify.com/artist/1i2HdFlSkR6lQ1ZdPAaekO), [Jorn Lande](https://open.spotify.com/artist/1hlBhTQtfsVJTgwLNpKof5) | [Moonglow](https://open.spotify.com/album/5YjtryDPR0CWnBNRowJCiC) | 11:14 |
 
-Snapshot ID: `MCxjN2ZjZjdlZmZhOTNmMTE0Y2I5NjFlYmIyMmJhNTBjM2E4OTA0MWEw`
+Snapshot ID: `MCwwYTgyZTZkYzg5YzdjYzQxOTQzODg5ZDY4MzY2ZjdlZmFhNDNmMjY4`

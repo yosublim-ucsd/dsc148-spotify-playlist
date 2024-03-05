@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: <a href="https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr?si=3qqDM921SPKxfSoe\_xxi2g">Naffymar</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,396 likes - 90 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,448 likes - 90 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 89 | [Belongs to you](https://open.spotify.com/track/2XNFPtWAxuNuO3vJ0IdaLA) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Belongs to you](https://open.spotify.com/album/2M91mM7OZJtNaeiH8pqa7O) | 2:13 |
 | 90 | [Trusted](https://open.spotify.com/track/2PRebsAfb6LBVYLr5mKMlt) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Trusted](https://open.spotify.com/album/7cZ7nXWQsrE2VoFXErZWVN) | 3:04 |
 
-Snapshot ID: `MCwyZDAxNjAxZTdkNTUyMDllODQ5MWM0ZGYwNTJiZDA0MTM5NGYwMGRh`
+Snapshot ID: `MCwyNDNhOTY3ZDkyMTcyZTJiNTQ0ZGYzYjdmZjJlNzVmYjQzMDljNDMx`

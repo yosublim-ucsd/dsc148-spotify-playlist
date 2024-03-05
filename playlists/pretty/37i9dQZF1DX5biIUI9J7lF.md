@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5biIUI9J7lF.md) - [plain]
 
 > more than just a lifestyle
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,765 likes - 65 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,849 likes - 65 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5biIUI9J7lF.md) - [plain]
 | 64 | [Proper Enjoyment](https://open.spotify.com/track/4QkjkDGed9G61Ondbtg5ON) | [Tunji Ige](https://open.spotify.com/artist/5fW1JQP4DfDyNqvYQ5m4Ju) | [Proper Enjoyment](https://open.spotify.com/album/6Zud8nl3jWGp7M80X3zJMY) | 3:45 |
 | 65 | [9 to 5](https://open.spotify.com/track/72BaHgyd5Zfp1NfDNbkgKp) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Mahogany St](https://open.spotify.com/album/6abagto1R8w0tTgUCnDY2d) | 2:55 |
 
-Snapshot ID: `MCxlNmYxNzhlZWNkMDg4YjJmZjVjYjdjMjUyMDMxNGRlNDc1ZWJiYTli`
+Snapshot ID: `MCw4NWMzYmEwOTY2MTY4NTc3ZTliOWU5MzJjZDMxMGZmN2U2MTBjNDhl`

@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover:KIMBUMSOO\(김범수\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,154 songs - 3 day 2 hr 45 min
+1,156 songs - 3 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -671,6 +671,7 @@
 | [My sea](https://open.spotify.com/track/46wDG6evLn2iPoQ0F8CUWk) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 5:16 | 2021-12-20 | 2022-07-08 |
 | [My Star](https://open.spotify.com/track/5RlY9uV6pWC8HWTUy8HBbA) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [My Dearest \(Original Television Soundtrack\), Pt.6](https://open.spotify.com/album/682NAeZRyEWYzwvOcrFCMu) | 3:55 | 2023-09-18 | 2023-11-14 |
 | [My Story](https://open.spotify.com/track/1bTeHEQVctGDbu2WyT88fR) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [lost \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/40QKzIbSZPC2B7vgjnvSAQ) | 4:13 | 2022-01-25 | 2022-04-14 |
+| [My Truth](https://open.spotify.com/track/3GMxvRvHhIM6jMvJE2vRMk) | [BYUL](https://open.spotify.com/artist/2uoSZGvqrwdjVgn9fOUjQp) | [My Truth](https://open.spotify.com/album/4hWowddLPh8DwymAp0IdUU) | 3:51 | 2024-03-04 |  |
 | [My You, My Star](https://open.spotify.com/track/13WsbTTgosaevWNxZC9ryG) | [Nam Saera](https://open.spotify.com/artist/5U37QbWZ7EvVfD7EGpMC9t) | [Love Interference 2023 \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/3o99FUu2LCEaRAQ7qOPZE7) | 3:42 | 2023-01-20 | 2023-03-28 |
 | [My youth](https://open.spotify.com/track/1GZZoTydki5t72adhHXhWy) | [LeeZe](https://open.spotify.com/artist/6sRRCxqgRynrEW5Qc3pZxx) | [My youth](https://open.spotify.com/album/0GEEiwJ0lUgI049OnjHBJB) | 3:11 | 2023-09-07 | 2023-11-03 |
 | [Nagging](https://open.spotify.com/track/2SmPmWka2lRmD7GDehpjMF) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [CYWORLD BGM 2021](https://open.spotify.com/album/5DiDgD3t2FQFdbXmb4ziWD) | 4:04 | 2021-12-23 | 2022-04-21 |
@@ -749,6 +750,7 @@
 | [Please Don't Cry](https://open.spotify.com/track/5pmhDbaeNG5Y31mCGK07JE) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/6ZGUvD476odOT0J0SdK8L5) | 3:55 | 2021-12-23 | 2022-07-08 |
 | [Please Don't forget me \(WEBTOON 'Discovery of Love' X GB9\)](https://open.spotify.com/track/6mj9CHo8FmFSsDH9VaOfD8) | [GB9](https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr) | [Please Don't forget me \(WEBTOON 'Discovery of Love' X GB9\)](https://open.spotify.com/album/7dwb8T0wu67jtWG0C8XaKc) | 4:00 | 2022-08-12 | 2022-12-27 |
 | [Please don\`t happy without me](https://open.spotify.com/track/4CDUbmbzqgBnVQqSbDzKNF) | [Lee A Young](https://open.spotify.com/artist/5FpU6Sx82VSTvnoxtbVv6q) | [Please don\`t happy without me](https://open.spotify.com/album/5NQoi3oR00GUJ433opLOvO) | 3:17 | 2023-02-24 | 2023-05-16 |
+| [Please Forget Me](https://open.spotify.com/track/6wsPqzuErrbr6ZmnQiT8cG) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Please Forget Me](https://open.spotify.com/album/4U5CaXlqvjccAJlP5vP5uT) | 4:31 | 2024-03-04 |  |
 | [Please look at me](https://open.spotify.com/track/7oIsG96tN4l7v7i9VIBSyx) | [Shin Hyun Woo](https://open.spotify.com/artist/3HDvjWBZO7L6wQ0ExZ7muK) | [Three Siblings Bravely OST Part.17 \(Soundtrack\)](https://open.spotify.com/album/6YXZmaRxST480CCVVlrPPz) | 3:33 | 2023-03-27 | 2023-07-18 |
 | [Please take on me](https://open.spotify.com/track/3dzXWDMHvWIt5j1iNyYxm0) | [BongGu \(GB9\)](https://open.spotify.com/artist/2hpfwA7tV7CTgMDZKqJwbv) | [Please take on me](https://open.spotify.com/album/59le5xdqY4RfjCeovcUymh) | 4:24 | 2022-12-16 | 2023-01-21 |
 | [poem in the wind](https://open.spotify.com/track/1lkRLQ8xIDxyj8oU8jXqDz) | [The Cross](https://open.spotify.com/artist/5iWp4nvZ8u0DxQjVIidCuC) | [poem in the wind](https://open.spotify.com/album/3aCRKfh7AWFsjHKg3FqjaQ) | 3:57 | 2024-01-08 |  |

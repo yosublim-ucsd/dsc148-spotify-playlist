@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 
 > Unique versions of hit songs by other artists\. Cover: Dolly Parton and Lainey Wilson
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,771 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,825 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 56 | [It's A Great Day To Be Alive \(Live From The Ryman\)](https://open.spotify.com/track/7gwvx0fFiEQLSUhrZ4TQ3l) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [It's A Great Day To Be Alive \(Live From The Ryman\)](https://open.spotify.com/album/2LLIkF8XJg15bZyGuHhjH0) | 3:58 |
 | 57 | [Much Too Young To Feel This Damn Old \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/7DMm8vpHp1uC5jXRLXD1mz) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Spotify Singles](https://open.spotify.com/album/6IinmJcfap7cw0m1QVX4Nn) | 2:37 |
 | 58 | [Steal My Girl](https://open.spotify.com/track/5nraaaIIPnVoXFLcFA1MDJ) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Do It Anyway](https://open.spotify.com/album/4TTTx17C8jwiQqxDbrxW8Y) | 3:48 |
-| 59 | [Margaritaville \(with Jimmy Buffett\)](https://open.spotify.com/track/2CEWW0uqHj7sJrXdfHwozn) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS), [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Under The Influence](https://open.spotify.com/album/3wRDT9A3HLNUym3fCS6q48) | 4:15 |
-| 60 | [Whoever's in New England](https://open.spotify.com/track/04kCQmATnYeMObIw8Efnor) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Whoever's In New England](https://open.spotify.com/album/4bRzY03Ik2xuETyr1NDED4) | 3:46 |
+| 59 | [Whoever's in New England](https://open.spotify.com/track/04kCQmATnYeMObIw8Efnor) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Whoever's In New England](https://open.spotify.com/album/4bRzY03Ik2xuETyr1NDED4) | 3:46 |
+| 60 | [Margaritaville \(with Jimmy Buffett\)](https://open.spotify.com/track/2CEWW0uqHj7sJrXdfHwozn) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS), [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Under The Influence](https://open.spotify.com/album/3wRDT9A3HLNUym3fCS6q48) | 4:15 |
 | 61 | [Eastside](https://open.spotify.com/track/3sfJXqWV7sr2aQiSaahbZc) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Eastside](https://open.spotify.com/album/4xM6xa81ZVLpjjaFbFqx8k) | 2:47 |
 | 62 | [Wagon Wheel](https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [True Believers](https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8) | 4:58 |
 | 63 | [Jolene](https://open.spotify.com/track/3iWSfaHoiphVIBMIwJHzpJ) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Rockstar \(Deluxe\)](https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN) | 3:12 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 81 | [You Oughta Know \(feat\. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade\) \- Spotify Singles](https://open.spotify.com/track/7aJmIQGixZmzDUBm3nUIIv) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa), [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [You Oughta Know \(feat\. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade\) \[Spotify Singles\]](https://open.spotify.com/album/6IwwVGLtiflk9IkTcRwE6n) | 4:16 |
 | 82 | [Make Me Want To](https://open.spotify.com/track/2oaCxkSqpnMzrjWHkO1nJZ) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Maoli Music Overload](https://open.spotify.com/album/6WUxZbE4igXIai7HbD6coA) | 2:55 |
 | 83 | [3 Am](https://open.spotify.com/track/6LjvqlPeCj62wF4oPJ6XOe) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [15 Years, the Wild Ride](https://open.spotify.com/album/0OjAJhXHWApxkPtPJHOPVW) | 4:32 |
-| 84 | [Nothing Else Matters](https://open.spotify.com/track/2diAXaP8GEWHa6ORPctFnh) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Nothing Else Matters](https://open.spotify.com/album/2ri6eDQYCQtoCJH6O4IBFg) | 8:14 |
-| 85 | [Clay Pigeons](https://open.spotify.com/track/4wRaxwESUculLyFFXJIGNg) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Clay Pigeons](https://open.spotify.com/album/0mfCJkowstwfyLwXA3r7Gz) | 3:50 |
+| 84 | [Clay Pigeons](https://open.spotify.com/track/4wRaxwESUculLyFFXJIGNg) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Clay Pigeons](https://open.spotify.com/album/0mfCJkowstwfyLwXA3r7Gz) | 3:50 |
+| 85 | [Nothing Else Matters](https://open.spotify.com/track/2diAXaP8GEWHa6ORPctFnh) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Nothing Else Matters](https://open.spotify.com/album/2ri6eDQYCQtoCJH6O4IBFg) | 8:14 |
 | 86 | [Islands In The Stream](https://open.spotify.com/track/2etkMv2Oj2aZCmvmUG1P3e) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [COUNTRYPOLITAN](https://open.spotify.com/artist/4HoYBvug2SLrGfJOdTgqyn) | [Islands In The Stream](https://open.spotify.com/album/1jGvHea1wNSqYDu2iHiTFq) | 3:55 |
 | 87 | [I Told You So](https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 4:17 |
 | 88 | [It's Just a Matter of Time](https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [No Holdin' Back](https://open.spotify.com/album/7IXbCht6SXIAww7H3GmwLP) | 3:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 99 | [Dreams \- The Campfire Sessions](https://open.spotify.com/track/0dZeiSrApr5SAkrH5rQaRH) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Dreams \(The Campfire Sessions\)](https://open.spotify.com/album/1of3ww3gH47OlImOLsDAgb) | 3:46 |
 | 100 | [Listen To The Radio](https://open.spotify.com/track/6n9PvbAoQtDe3AEMbS8v70) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Listen To The Radio](https://open.spotify.com/album/6RdQfXUPxhbauUanaotuJg) | 4:00 |
 
-Snapshot ID: `MCxhMDk1NmMzNzc2Mzk2N2E2NGY5ZDc2MDkzN2M3Y2RhNzljNzc4OTY4`
+Snapshot ID: `MCxkMDQwYTM5NGJiZmUwOTI3MGMxZTljZGU3OTkwZTU0Nzc2NzA2Y2Rm`

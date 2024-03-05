@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 
 > Enjoy your favourite K\-drama's OST instrumentals\. \(Cover: Forecasting Love and Weather\(기상청 사람들\) \(한국 OST 반주곡과 함께 여유로운 시간을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,058 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,092 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,12 +19,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 | 9 | [Love Me Like That \- Instrumental](https://open.spotify.com/track/2Bi7jDHh3IzLt3xJuyx4eU) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nevertheless, \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi) | 3:31 |
 | 10 | [We're Already \- Instrumental](https://open.spotify.com/track/2LE7j7BDHG9iFUuIUfudvo) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Nevertheless, \(Original Drama Sound Track, Pt\. 1\)](https://open.spotify.com/album/6WTV5WckTQI2FjyI5YP1PG) | 3:58 |
 | 11 | [I Will Go To You Like the First Snow \- Instrumental](https://open.spotify.com/track/4144BMAcJrcegjHuCOdEh0) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Guardian \(Original Television Soundtrack\), Pt\. 9](https://open.spotify.com/album/42jhVkCdzN4cuIvc0QyXbS) | 3:49 |
-| 12 | [Flower \- Instrumental](https://open.spotify.com/track/5eMQVkVGBM4wb9gjhECtch) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/3RJg3rTiDi2r9HJTkARqy4) | 4:12 |
-| 13 | [My Love \- Instrumental](https://open.spotify.com/track/526nzIZTgxSlWjAOgIsQZe) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [The King : Eternal Monarch, Pt\. 11 \(Original Television Soundtrack\)](https://open.spotify.com/album/0yiaHFUr9MKUOtmcEmzG01) | 4:18 |
-| 14 | [Whisper \- Instrumental](https://open.spotify.com/track/3fVsrqwCCExLfhr6xm2bSG) | [PARKJIWOO](https://open.spotify.com/artist/0NuBvSQbbZW2NL9cwbnpER) | [Nevertheless, \(Original Drama Soundtrack, Pt\. 3\)](https://open.spotify.com/album/0bAlxx4Id0awW4IAZulgj3) | 2:50 |
-| 15 | [그대라는 시 \- Instrumental](https://open.spotify.com/track/0uG3MzYKF4ti9nZXB4Nz1P) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Hotel del Luna \(Original Television Soundtrack\) Pt.3](https://open.spotify.com/album/6nddI94g7zC5bbyNzRBO0Y) | 3:29 |
-| 16 | [Give You My Heart \(Inst.\)](https://open.spotify.com/track/5TDu5bIw976Qhkp5tWhpbH) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Crash Landing on You OST Part 11](https://open.spotify.com/album/29KU88wZtAigritdYGvgPk) | 4:40 |
-| 17 | [Heavy Heart \- Instrumental](https://open.spotify.com/track/2QOC5grYqt8ZFEwzcg7RwU) | [RIO](https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g) | [Nevertheless, \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/27KzACZPqQ9EcB3NPFDPNj) | 3:34 |
+| 12 | [Whisper \- Instrumental](https://open.spotify.com/track/3fVsrqwCCExLfhr6xm2bSG) | [PARKJIWOO](https://open.spotify.com/artist/0NuBvSQbbZW2NL9cwbnpER) | [Nevertheless, \(Original Drama Soundtrack, Pt\. 3\)](https://open.spotify.com/album/0bAlxx4Id0awW4IAZulgj3) | 2:50 |
+| 13 | [Flower \- Instrumental](https://open.spotify.com/track/5eMQVkVGBM4wb9gjhECtch) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/3RJg3rTiDi2r9HJTkARqy4) | 4:12 |
+| 14 | [My Love \- Instrumental](https://open.spotify.com/track/526nzIZTgxSlWjAOgIsQZe) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [The King : Eternal Monarch, Pt\. 11 \(Original Television Soundtrack\)](https://open.spotify.com/album/0yiaHFUr9MKUOtmcEmzG01) | 4:18 |
+| 15 | [Heavy Heart \- Instrumental](https://open.spotify.com/track/2QOC5grYqt8ZFEwzcg7RwU) | [RIO](https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g) | [Nevertheless, \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/27KzACZPqQ9EcB3NPFDPNj) | 3:34 |
+| 16 | [그대라는 시 \- Instrumental](https://open.spotify.com/track/0uG3MzYKF4ti9nZXB4Nz1P) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Hotel del Luna \(Original Television Soundtrack\) Pt.3](https://open.spotify.com/album/6nddI94g7zC5bbyNzRBO0Y) | 3:29 |
+| 17 | [Give You My Heart \(Inst.\)](https://open.spotify.com/track/5TDu5bIw976Qhkp5tWhpbH) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Crash Landing on You OST Part 11](https://open.spotify.com/album/29KU88wZtAigritdYGvgPk) | 4:40 |
 | 18 | [내 맘을 볼수 있나요 \- Instrumental](https://open.spotify.com/track/4kzukmEpvEk0d45hXd2k0t) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Hotel del Luna \(Original Television Soundtrack\) Pt.5](https://open.spotify.com/album/2PdRNAz6mDmy9OR7hDCrH5) | 3:46 |
 | 19 | [Here I Am Again \- Instrumental](https://open.spotify.com/track/6EwDN69ygEnmwaQYl1cEQf) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2qCB3BnsOtq3Rja6nPslrk) | 3:54 |
 | 20 | [Butterfly \- Instrumental](https://open.spotify.com/track/3J4AXtGxqaVg9A9RihPdbd) | [JUNHA PARK](https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y) | [Nevertheless, \(Original Drama Soundtrack, Pt\. 4\)](https://open.spotify.com/album/4HevCYW0zYM4luVtmXWFNy) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 | 49 | [Moonchild Ballad \- Instrumental](https://open.spotify.com/track/0huNakYFuJW9ovnvdv6nOY) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [TALE OF THE NINE TAILED \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/7yHvBfT4IADI9iNN2DGsLQ) | 4:22 |
 | 50 | [If you're with me \- Instrumental](https://open.spotify.com/track/6GBgCbLWz03xdW5RjQniLv) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Snowdrop \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/1mp8PisOMZvtAZWfwv9vlS) | 3:51 |
 
-Snapshot ID: `MCxkMTdlNTZiNDgxNTU0MTlmM2FiODYyYjdkMTBiNDZkY2QwYzBmNTE5`
+Snapshot ID: `MCxmMzMxZWYzODM5NDY3ODc3ODI0NWZiNjNmYWYyYmRhZWU3ZmY4Mzli`

@@ -1,12 +1,12 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 152686,
+  "num_followers": 152694,
   "original_name": "Ren hygge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjcxOWUxNTE1OGRkN2RiYzVmMGFhNTU0ZDhlNzM2YTFiNDAzN2Mw",
+  "snapshot_id": "MCw1Zjc2OWU2NWVhMjU4ZjM0OGQ4MWJmYjc3MjAzMmE3YzQ2MTBhNjc4",
   "tracks": [
     {
       "added_at": "2024-01-12 09:52:44",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 260532,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Where the Light Is: John Mayer Live In Los Angeles",
         "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 263573,
       "name": "Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
       "url": "https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 260532,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 238746,
-      "name": "Hold Back The River",
-      "url": "https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Bright Lights (Lights Re-pack / Bonus Version)",
         "url": "https://open.spotify.com/album/64Pv36CiG9rBcyvKnud02V"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 280533,
       "name": "How Would You Feel (Paean)",
       "url": "https://open.spotify.com/track/6PJ8FF6UR8FZXfEvpHkIVN"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 238746,
+      "name": "Hold Back The River",
+      "url": "https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -819,42 +819,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Undiscovered",
-        "url": "https://open.spotify.com/album/00QEcKEqSmwP8odEMImIuz"
-      },
-      "artists": [
-        {
-          "name": "James Morrison",
-          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
-        }
-      ],
-      "duration_ms": 212933,
-      "name": "You Give Me Something",
-      "url": "https://open.spotify.com/track/28euH5Ny1JXxZAt2KjWp62"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
-        "name": "Unbreakable Smile",
-        "url": "https://open.spotify.com/album/2mH2TVd6euTmrn9Pcw9XHS"
-      },
-      "artists": [
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 188946,
-      "name": "I Was Made For Loving You",
-      "url": "https://open.spotify.com/track/1Xwh83YOFQARZ3QXscP123"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Chapters",
         "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
       },
@@ -887,6 +851,42 @@
       "duration_ms": 283294,
       "name": "No Peace",
       "url": "https://open.spotify.com/track/5ZX1X9Rl4zbx1Wwyn3idVD"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Undiscovered",
+        "url": "https://open.spotify.com/album/00QEcKEqSmwP8odEMImIuz"
+      },
+      "artists": [
+        {
+          "name": "James Morrison",
+          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
+        }
+      ],
+      "duration_ms": 212933,
+      "name": "You Give Me Something",
+      "url": "https://open.spotify.com/track/28euH5Ny1JXxZAt2KjWp62"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Unbreakable Smile",
+        "url": "https://open.spotify.com/album/2mH2TVd6euTmrn9Pcw9XHS"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 188946,
+      "name": "I Was Made For Loving You",
+      "url": "https://open.spotify.com/track/1Xwh83YOFQARZ3QXscP123"
     },
     {
       "added_at": "2024-01-12 09:52:44",

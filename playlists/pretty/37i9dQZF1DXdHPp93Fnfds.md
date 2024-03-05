@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 
 > Son jóvenes, guerreras y cool\. Foto: Kirnbauer, Joaquina Mertz, María Centeno & Noa Sainz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,138 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,139 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 | 69 | [Harakiri](https://open.spotify.com/track/5AMKp7VIitj1mzjbmz6OaR) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [La Santa Patrona de los Corazones Negros](https://open.spotify.com/album/6vtdMIjyt4kd5a3VDB0lnm) | 3:33 |
 | 70 | [romantiklov <3](https://open.spotify.com/track/6eNU9r9JCEjmodmoQo8lwf) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [romantiklov <3](https://open.spotify.com/album/2rkMB180JWhLwRXBHHmOlj) | 3:06 |
 | 71 | [AZÚCAR](https://open.spotify.com/track/4XsimxBOB7TfiAQpHYq3rm) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd) | [AZÚCAR](https://open.spotify.com/album/7A7fhDvUWduAyCcVa2vvfG) | 3:25 |
-| 72 | [El Imán \- Remix](https://open.spotify.com/track/2eIGZkPBrCJ4VhqdgaXXV3) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G), [Santiago Martínez](https://open.spotify.com/artist/29AdYwEQmOfNyjhYJQWcHu) | [El Imán \(Remix\)](https://open.spotify.com/album/57eGpWYvr1Oknqn2wExxZe) | 3:48 |
-| 73 | [Muy tarde](https://open.spotify.com/track/5fL7LHsH2WoPHA5L7h3UAg) | [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [Muy tarde](https://open.spotify.com/album/73zkiZzHZxNkhiFSXBBs0X) | 3:15 |
+| 72 | [Muy tarde](https://open.spotify.com/track/5fL7LHsH2WoPHA5L7h3UAg) | [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [Muy tarde](https://open.spotify.com/album/73zkiZzHZxNkhiFSXBBs0X) | 3:15 |
+| 73 | [El Imán \- Remix](https://open.spotify.com/track/2eIGZkPBrCJ4VhqdgaXXV3) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G), [Santiago Martínez](https://open.spotify.com/artist/29AdYwEQmOfNyjhYJQWcHu) | [El Imán \(Remix\)](https://open.spotify.com/album/57eGpWYvr1Oknqn2wExxZe) | 3:48 |
 | 74 | [DNI](https://open.spotify.com/track/6XbgaRsf6hnl4dQJOtktrU) | [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [UN NÚMERO](https://open.spotify.com/album/2zh0d8IFJfVvUTWnGlW1up) | 1:43 |
 | 75 | [Alquiler](https://open.spotify.com/track/0ZGYFU5Vx8UIWLax710E0g) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [Alquiler](https://open.spotify.com/album/7KRroI1HJyQs0lltlKHsCI) | 2:35 |
 | 76 | [Onda en el Aire](https://open.spotify.com/track/3Kha9JcEmw6Mv8xonp3qeL) | [Milagros](https://open.spotify.com/artist/7fuhvsoeDJJwdQYBwZkRRU), [YOGAROCK](https://open.spotify.com/artist/65oqi7gbDimKUBR0MzhMNc) | [Onda en el Aire](https://open.spotify.com/album/3eDODTj34wfIoppGzDdTHk) | 3:15 |
 | 77 | [Detonación \- Remix](https://open.spotify.com/track/0rZwPrDw6xcWdGTSvsbLYA) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [Detonación \(Remix\)](https://open.spotify.com/album/5cFYndbz33WMXaEeE3JFGx) | 3:52 |
 | 78 | [Suspiros](https://open.spotify.com/track/1CejnNpFZ8TSYrIZxEOzgu) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Suspiros](https://open.spotify.com/album/67kgDdEZm4L3H1O67WYLXg) | 2:35 |
 | 79 | [Con Mi Amiga](https://open.spotify.com/track/4BKlOSA4wnaqaqcGDrHucE) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg), [Acus](https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp) | [Abril](https://open.spotify.com/album/2uT7GrTnYKL293sssNax85) | 3:04 |
-| 80 | [Pisteando](https://open.spotify.com/track/0kRDY2gDmv3aCKd7AuLNnt) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [OSADÍA](https://open.spotify.com/album/3Csz304u6zteMaJcQv3lFa) | 2:13 |
+| 80 | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v) | 3:40 |
 
-Snapshot ID: `MCw1YTFlMWU2YmJkYWRhZDUxMWZmZGIxNTFiMWMzZmRiODJhOTk0OTNj`
+Snapshot ID: `MCxjNjgzNmM5NGEzMGI0NzdhZTMwYzMxMTdjYWVkYTIzNzZiODcyYzlm`

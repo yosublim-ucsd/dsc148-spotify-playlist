@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > Living life! Cover: Brynn Cartelli
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,495,141 likes - 150 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,495,191 likes - 150 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 | 6 | [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 |
 | 7 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 |
 | 8 | [Red Wine Supernova](https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:12 |
-| 9 | [Sunroof](https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:43 |
+| 9 | [bad idea right?](https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:04 |
 | 10 | [It's Giving...](https://open.spotify.com/track/14sy9bz023LO93gUiyf5Mz) | [ili](https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4) | [It's Giving...](https://open.spotify.com/album/3wsRwVsFWBq7cpPcSQPa60) | 3:09 |
-| 11 | [run for the hills](https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:23 |
-| 12 | [bad idea right?](https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:04 |
+| 11 | [Sunroof](https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:43 |
+| 12 | [run for the hills](https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:23 |
 | 13 | [Memories](https://open.spotify.com/track/5UXJzLFdBn6u9FJTCnoHrH) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 4:08 |
 | 14 | [Cupid \- Twin Ver.](https://open.spotify.com/track/739WUU1tPFLO4x4HJq561K) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/5If2zLk3mlHXuhIS7rQF90) | 2:54 |
 | 15 | [Glue Song \(feat\. Clairo\)](https://open.spotify.com/track/0tMMPZEt6Gyrl9FI8zSicm) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Glue Song \(feat\. Clairo\)](https://open.spotify.com/album/6iyBE8qGDt42MyBvtPNuMk) | 2:15 |
@@ -66,10 +66,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 | 56 | [Dive](https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dive](https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee) | 3:20 |
 | 57 | [Doing Better](https://open.spotify.com/track/6sMEb3eNrQiW2mxrvURMGc) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Doing Better](https://open.spotify.com/album/64WbXlIjvrqkf5AI019x0L) | 2:33 |
 | 58 | [IDK How To Talk To Girls](https://open.spotify.com/track/0p3aRTHUnbMApaSnlHrRy1) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [IDK How To Talk To Girls](https://open.spotify.com/album/6AsWIrXIJHsprEatrjLdhR) | 2:40 |
-| 59 | [Home To Another One](https://open.spotify.com/track/7culXP38P58h83PXwLQqyg) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Home To Another One](https://open.spotify.com/album/6T4kLqRny6Fe3CgOP6ahbt) | 2:29 |
-| 60 | [Eyes Wide Shut](https://open.spotify.com/track/2LyaOE8P7p8X0yofHVtF2D) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Eyes Wide Shut](https://open.spotify.com/album/6O7B3KJmgRfdn0OaCPv8Gq) | 3:22 |
-| 61 | [Burton St.](https://open.spotify.com/track/3rDqVSKIclW1yVsnTVikcZ) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Burton St.](https://open.spotify.com/album/4VEZamvG17yncSjEaKvarZ) | 3:16 |
-| 62 | [House On Fire](https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [House On Fire](https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL) | 2:20 |
+| 59 | [House On Fire](https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [House On Fire](https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL) | 2:20 |
+| 60 | [Home To Another One](https://open.spotify.com/track/7culXP38P58h83PXwLQqyg) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Home To Another One](https://open.spotify.com/album/6T4kLqRny6Fe3CgOP6ahbt) | 2:29 |
+| 61 | [Eyes Wide Shut](https://open.spotify.com/track/2LyaOE8P7p8X0yofHVtF2D) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Eyes Wide Shut](https://open.spotify.com/album/6O7B3KJmgRfdn0OaCPv8Gq) | 3:22 |
+| 62 | [Burton St.](https://open.spotify.com/track/3rDqVSKIclW1yVsnTVikcZ) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Burton St.](https://open.spotify.com/album/4VEZamvG17yncSjEaKvarZ) | 3:16 |
 | 63 | [First To Go](https://open.spotify.com/track/3RGTkawjlaqoIsgWSPM47w) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [First To Go](https://open.spotify.com/album/3PLVbHQDtLfU70Nji5erZl) | 2:53 |
 | 64 | [Missing Out](https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Missing Out](https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH) | 3:37 |
 | 65 | [Maybe Life Is Good](https://open.spotify.com/track/1Yg1vxpbL10eBFoKXHrFMn) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Maybe Life Is Good](https://open.spotify.com/album/3JrelA49G1d8BdKIaJ64YO) | 3:10 |
@@ -146,10 +146,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 | 136 | [Drunk Tattoo](https://open.spotify.com/track/5l8iEP2tF1uIvNV3l22sui) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Drunk Tattoo](https://open.spotify.com/album/09uqsjk8EHwUBxn8uulYmt) | 2:55 |
 | 137 | [Timeline](https://open.spotify.com/track/1tweAyNxFaYN8YXJpPGvrV) | [Kylie Muse](https://open.spotify.com/artist/5KUrN1Ip3QoemX2Dq4kGS5) | [Timeline](https://open.spotify.com/album/1AugVV9htPCWMFroakalq9) | 2:46 |
 | 138 | [I Haven't Seen You Since The Summer](https://open.spotify.com/track/3LQnvTX0E4cwig42VTbX3X) | [Beeson](https://open.spotify.com/artist/2x2B1ZRBmx1TTzvPuKj0I8) | [I Haven't Seen You Since The Summer](https://open.spotify.com/album/5adGcBqBz7d9z9mCU0ntAt) | 3:20 |
-| 139 | [Power, Sex, Dreams](https://open.spotify.com/track/1I0M16RVBlZWto9b9k7sKF) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Power, Sex, Dreams](https://open.spotify.com/album/4v5oF4WRck0udkteUqDHHZ) | 2:55 |
-| 140 | [Tell Her](https://open.spotify.com/track/0WFccOR9KoNU0SXQ3mY7e5) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Tell Her](https://open.spotify.com/album/5r8xf0HbtvpK61fsiZ4x7I) | 3:12 |
-| 141 | [Breakthrough](https://open.spotify.com/track/3CbTqAhSMl1p41PEx9Tc4E) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [Breakthrough](https://open.spotify.com/album/0ZQ9F867lpLrMArteZet0J) | 2:36 |
-| 142 | [swimming pools](https://open.spotify.com/track/2C1UmClArjtDQr0eUzblwo) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [swimming pools](https://open.spotify.com/album/6dGHoBZKtchgXT6myW51hN) | 2:32 |
+| 139 | [swimming pools](https://open.spotify.com/track/2C1UmClArjtDQr0eUzblwo) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [swimming pools](https://open.spotify.com/album/6dGHoBZKtchgXT6myW51hN) | 2:32 |
+| 140 | [Power, Sex, Dreams](https://open.spotify.com/track/1I0M16RVBlZWto9b9k7sKF) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Power, Sex, Dreams](https://open.spotify.com/album/4v5oF4WRck0udkteUqDHHZ) | 2:55 |
+| 141 | [Tell Her](https://open.spotify.com/track/0WFccOR9KoNU0SXQ3mY7e5) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Tell Her](https://open.spotify.com/album/5r8xf0HbtvpK61fsiZ4x7I) | 3:12 |
+| 142 | [Breakthrough](https://open.spotify.com/track/3CbTqAhSMl1p41PEx9Tc4E) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [Breakthrough](https://open.spotify.com/album/0ZQ9F867lpLrMArteZet0J) | 2:36 |
 | 143 | [Narcissist](https://open.spotify.com/track/3OBZSXXrip110VUE9MYOcq) | [Véyah](https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63) | [Narcissist](https://open.spotify.com/album/5UNvVGbQ0VaUPIexFJDLuL) | 2:27 |
 | 144 | [End of an Era](https://open.spotify.com/track/17XMzRKnVQeqj8119wRuEs) | [Tiffany Stringer](https://open.spotify.com/artist/6Dv6bV7bzZSCAX0E0qLw7u) | [End of an Era](https://open.spotify.com/album/2tJiKcynuvgwJIvt6tSaRb) | 3:09 |
 | 145 | [Make More Money](https://open.spotify.com/track/1AfQb3PcCfeUQo39c0jUR7) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Make More Money](https://open.spotify.com/album/7fUJqEZknIGZwp59TsDQqK) | 3:19 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 | 149 | [emotional capacity](https://open.spotify.com/track/3tTuteumUYWfrwyYRlJ8WQ) | [Sarah Thompson](https://open.spotify.com/artist/7fMszWkv9oChFal6nM505j) | [emotional capacity](https://open.spotify.com/album/3RMN6pSEmOx2Z1ZtA6qnLn) | 3:14 |
 | 150 | [Window Shopping](https://open.spotify.com/track/63QD2rWbjJjwU9PK1YBOAd) | [Flo Gallop](https://open.spotify.com/artist/3hpT13ziNDOLWo3HzuS2IN) | [Window Shopping](https://open.spotify.com/album/240WxWalwymGHAPOJ3hNPp) | 2:58 |
 
-Snapshot ID: `MCw0OTA4NjgyYzdkYzEyZmZhMjA3YzU1MTdhMjQxZGMyMzJiYzhkZjY3`
+Snapshot ID: `MCwwNzZjMDE4Y2JhZTRhMTAyZWU4NzQ0YjlkZTZmMWZjOGUwMWVjMTIy`

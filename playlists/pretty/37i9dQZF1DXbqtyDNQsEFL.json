@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one!",
-  "num_followers": 63099,
+  "num_followers": 63175,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWE2NTgzOTY2NjNiNzZhYTY1OWMyODRlMTMyMDMxYWVlMzE0MjA1",
+  "snapshot_id": "MCwxMzUxZTdjNGYyZjVkMzJiOTMzZTU2MmMyOGQ2OGU2OTVmYjcxNzE1",
   "tracks": [
     {
       "added_at": "2024-02-23 00:01:00",
@@ -261,6 +261,50 @@
       "url": "https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4"
     },
     {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "New Generation",
+        "url": "https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 648235,
+      "name": "New Generation",
+      "url": "https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/65dVjDK6IVyThRsk4S6Yxu"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        },
+        {
+          "name": "Pastor Jerry Eze",
+          "url": "https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn"
+        }
+      ],
+      "duration_ms": 1005517,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/1n2kZ1iuGpuxj8sr4NY8RL"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "YET (feat. Ashley Hess & the King will come)",
@@ -295,26 +339,46 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/65dVjDK6IVyThRsk4S6Yxu"
+        "name": "Olorun Agbaye - You Are Mighty",
+        "url": "https://open.spotify.com/album/0bquI98KbNHqOrpGFXpNyS"
       },
       "artists": [
         {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
         },
         {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
         },
         {
-          "name": "Pastor Jerry Eze",
-          "url": "https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn"
+          "name": "Oba",
+          "url": "https://open.spotify.com/artist/1WLvxeydcpCGxEpV9pQCP2"
         }
       ],
-      "duration_ms": 1005517,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/1n2kZ1iuGpuxj8sr4NY8RL"
+      "duration_ms": 438744,
+      "name": "Olorun Agbaye - You Are Mighty",
+      "url": "https://open.spotify.com/track/05o0RoSQ1pQFvHe54uFUZf"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Best Days",
+        "url": "https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ"
+      },
+      "artists": [
+        {
+          "name": "Tamela Mann",
+          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 287573,
+      "name": "Take Me to the King (feat. Kirk Franklin)",
+      "url": "https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -343,70 +407,6 @@
       "duration_ms": 598994,
       "name": "Jireh (feat. Chandler Moore & Naomi Raine)",
       "url": "https://open.spotify.com/track/7yu4816uyIqXiPvALxL44y"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Olorun Agbaye - You Are Mighty",
-        "url": "https://open.spotify.com/album/0bquI98KbNHqOrpGFXpNyS"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Oba",
-          "url": "https://open.spotify.com/artist/1WLvxeydcpCGxEpV9pQCP2"
-        }
-      ],
-      "duration_ms": 438744,
-      "name": "Olorun Agbaye - You Are Mighty",
-      "url": "https://open.spotify.com/track/05o0RoSQ1pQFvHe54uFUZf"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
-        "name": "New Generation",
-        "url": "https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0"
-      },
-      "artists": [
-        {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
-        },
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 648235,
-      "name": "New Generation",
-      "url": "https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Best Days",
-        "url": "https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ"
-      },
-      "artists": [
-        {
-          "name": "Tamela Mann",
-          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 287573,
-      "name": "Take Me to the King (feat. Kirk Franklin)",
-      "url": "https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -659,26 +659,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Desire Pt. 2",
-        "url": "https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Caleb Gordon",
-          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
-        }
-      ],
-      "duration_ms": 160308,
-      "name": "Desire Pt. 2",
-      "url": "https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "These Same Skies (Live)",
         "url": "https://open.spotify.com/album/08skyG33WqHITgFg6S09LR"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 274534,
       "name": "That's The Power - Live",
       "url": "https://open.spotify.com/track/4fA75ecQMGhP7Wld2kT0ZY"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Desire Pt. 2",
+        "url": "https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        }
+      ],
+      "duration_ms": 160308,
+      "name": "Desire Pt. 2",
+      "url": "https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -821,30 +821,6 @@
       "url": "https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "My Matter",
-        "url": "https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        },
-        {
-          "name": "Becca Folkes",
-          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
-        }
-      ],
-      "duration_ms": 173290,
-      "name": "My Matter",
-      "url": "https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf"
-    },
-    {
       "added_at": "2024-03-01 00:01:00",
       "album": {
         "name": "Djesse Vol. 4",
@@ -899,6 +875,30 @@
       "duration_ms": 316280,
       "name": "Lion of Judah",
       "url": "https://open.spotify.com/track/74crNF63DNXE5J20s1IjNg"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "My Matter",
+        "url": "https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Becca Folkes",
+          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
+        }
+      ],
+      "duration_ms": 173290,
+      "name": "My Matter",
+      "url": "https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -983,26 +983,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Talk & Do",
-        "url": "https://open.spotify.com/album/4lqNta0wM1DiICK7PORqx9"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
-        }
-      ],
-      "duration_ms": 165254,
-      "name": "Talk & Do",
-      "url": "https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Frankincense",
         "url": "https://open.spotify.com/album/1ZqWUeo5E20hT8nTmtoOSh"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 204841,
       "name": "Blast - tongues",
       "url": "https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Talk & Do",
+        "url": "https://open.spotify.com/album/4lqNta0wM1DiICK7PORqx9"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "duration_ms": 165254,
+      "name": "Talk & Do",
+      "url": "https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1353,26 +1353,6 @@
       "url": "https://open.spotify.com/track/2uHY9QxXldmXdbhvvEOf6J"
     },
     {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Oba Ni (Live)",
-        "url": "https://open.spotify.com/album/3lJbEjJlrPGj2fMHGRCoPn"
-      },
-      "artists": [
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        },
-        {
-          "name": "Nosa",
-          "url": "https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4"
-        }
-      ],
-      "duration_ms": 852572,
-      "name": "Oba Ni - Live",
-      "url": "https://open.spotify.com/track/0UidF9z25XgNCEsTwHNi5B"
-    },
-    {
       "added_at": "2024-01-26 00:01:00",
       "album": {
         "name": "Blessed Year",
@@ -1391,6 +1371,26 @@
       "duration_ms": 184337,
       "name": "Blessed Year",
       "url": "https://open.spotify.com/track/24aC5jGBkjEDpAAtaS6o5H"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Oba Ni (Live)",
+        "url": "https://open.spotify.com/album/3lJbEjJlrPGj2fMHGRCoPn"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        },
+        {
+          "name": "Nosa",
+          "url": "https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4"
+        }
+      ],
+      "duration_ms": 852572,
+      "name": "Oba Ni - Live",
+      "url": "https://open.spotify.com/track/0UidF9z25XgNCEsTwHNi5B"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1491,6 +1491,26 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "My Worship (Live)",
+        "url": "https://open.spotify.com/album/5TQiS6WdCz1HEKnbSOsUAb"
+      },
+      "artists": [
+        {
+          "name": "Prospa Ochimana",
+          "url": "https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g"
+        },
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 637823,
+      "name": "My Worship - Live",
+      "url": "https://open.spotify.com/track/7nwC7KGXARrDEAw3kzP3MK"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "God Turned It Around",
         "url": "https://open.spotify.com/album/3yVqDAJkQZVwitTH6zDUtz"
       },
@@ -1511,26 +1531,6 @@
       "duration_ms": 619333,
       "name": "God Turned It Around",
       "url": "https://open.spotify.com/track/5DGDEsOU9MovPuq0QRnbUG"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "My Worship (Live)",
-        "url": "https://open.spotify.com/album/5TQiS6WdCz1HEKnbSOsUAb"
-      },
-      "artists": [
-        {
-          "name": "Prospa Ochimana",
-          "url": "https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g"
-        },
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 637823,
-      "name": "My Worship - Live",
-      "url": "https://open.spotify.com/track/7nwC7KGXARrDEAw3kzP3MK"
     },
     {
       "added_at": "2023-12-15 00:01:00",

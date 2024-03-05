@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Listen to the top Christian and worship hits of 2023 on <a href=\"spotify:user:sozoofficial\">SOZO Playlists</a>! Cover: <a href=\"https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC?si=auw2mPeNRXaXZPrCoPFJ0g\">Brooke Ligertwood</a>",
+  "description": "Celebrate Easter season with your favoirte worship songs of 2024. Made by <a href=\"spotify:user:sozoofficial\">SOZO Playlists</a>! ",
   "name": "Worship 2024",
   "tracks": [
     {
@@ -164,7 +164,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 304757,
       "name": "Abandoned",
       "url": "https://open.spotify.com/track/4fHbncM8pS8ZX45OGIZrCa"
@@ -186,7 +186,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 401920,
       "name": "Abandoned - Live",
       "url": "https://open.spotify.com/track/3lH3L5Qyz2xQHxAeq7BycZ"
@@ -282,7 +282,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 402973,
       "name": "Agnus Dei / King Of Kings",
       "url": "https://open.spotify.com/track/0ar77SmMUtj04pFWKSHFSt"
@@ -300,7 +300,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 213967,
       "name": "Ain't Nobody - Radio Version",
       "url": "https://open.spotify.com/track/2iNzuYDmmD8dgEMLEaEpTx"
@@ -326,7 +326,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 399857,
       "name": "Alive In You - Live",
       "url": "https://open.spotify.com/track/4drIQ5ScsSR23xS5696405"
@@ -516,7 +516,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 268200,
       "name": "Always On The Way",
       "url": "https://open.spotify.com/track/2GkGPEOHRHO92c88Ttg7XB"
@@ -556,7 +556,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 261653,
       "name": "Another In The Fire",
       "url": "https://open.spotify.com/track/2Wh5hmw4afibksDICDu2ge"
@@ -756,7 +756,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 307392,
       "name": "Battleground",
       "url": "https://open.spotify.com/track/1OdBPNbVwsFqPOvBF8fPaw"
@@ -862,7 +862,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 310200,
       "name": "Because Of Christ",
       "url": "https://open.spotify.com/track/0Ml9ylGvOxwu9e0Yiu1AaD"
@@ -1196,7 +1196,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 443906,
       "name": "Can't Look Away / My Portion",
       "url": "https://open.spotify.com/track/5eek3M7qZ3tt7A3632h5dU"
@@ -1908,7 +1908,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 440000,
       "name": "Everything At Your Feet - Live at Mosaic, Los Angeles, 2023",
       "url": "https://open.spotify.com/track/0tZ2gIuKTGST2pLdR4TepM"
@@ -2116,6 +2116,24 @@
       "duration_ms": 313902,
       "name": "Feet Of Jesus - Live",
       "url": "https://open.spotify.com/track/7qFFLnZWMwWfPz7a48rfD9"
+    },
+    {
+      "album": {
+        "name": "Fight Like Heaven (Live)",
+        "url": "https://open.spotify.com/album/2spilxwgXTY5KhbkUumcSU"
+      },
+      "artists": [
+        {
+          "name": "Open Heaven",
+          "url": "https://open.spotify.com/artist/5mCCAerun72aycTarMpOYw"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368000,
+      "name": "Fight Like Heaven - Live",
+      "url": "https://open.spotify.com/track/5T2VAEWGNEn9jTYWybdx98"
     },
     {
       "album": {
@@ -3006,7 +3024,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-28",
+      "date_removed": null,
       "duration_ms": 378412,
       "name": "Gratitude - Live From Passion 2023",
       "url": "https://open.spotify.com/track/5o9yTuxw54Wo2JtO8J1zz7"
@@ -3167,6 +3185,28 @@
     },
     {
       "album": {
+        "name": "Call on Heaven (Live)",
+        "url": "https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390020,
+      "name": "He Who Is To Come - Live From Passion 2024",
+      "url": "https://open.spotify.com/track/6SIyUCo2Sr7hPuBiZOaJYf"
+    },
+    {
+      "album": {
         "name": "Holy Ground",
         "url": "https://open.spotify.com/album/2SZGr3sHy7EwrVFKjJ44j6"
       },
@@ -3204,7 +3244,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 266351,
       "name": "Heart Cries Holy",
       "url": "https://open.spotify.com/track/5EdKhtiWCSP97UFkXoGER9"
@@ -3248,6 +3288,28 @@
       "duration_ms": 336786,
       "name": "Hidden - Live",
       "url": "https://open.spotify.com/track/0Hee4SozP6cEevr9I0oa1m"
+    },
+    {
+      "album": {
+        "name": "His Mercy Is More: The Hymns Of Matt Boswell And Matt Papa",
+        "url": "https://open.spotify.com/album/0vdwU3kvvFybzEAPZZDOT3"
+      },
+      "artists": [
+        {
+          "name": "Matt Boswell",
+          "url": "https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm"
+        },
+        {
+          "name": "Matt Papa",
+          "url": "https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289480,
+      "name": "His Mercy Is More",
+      "url": "https://open.spotify.com/track/4N5DNWSCAitzzxhRQ5Cfxi"
     },
     {
       "album": {
@@ -3914,7 +3976,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 411562,
       "name": "I've Witnessed It - Live",
       "url": "https://open.spotify.com/track/4oI2WsqTvrNBenQZ35wxQl"
@@ -3984,7 +4046,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 430120,
       "name": "If I Could Have Anything",
       "url": "https://open.spotify.com/track/1Ujc3cNf2JxHHhoLjzHRbL"
@@ -4094,7 +4156,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 249838,
       "name": "In Christ Alone - Live From Sydney",
       "url": "https://open.spotify.com/track/78VNLbkNUvZUih7XDUqfme"
@@ -4310,7 +4372,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 397128,
       "name": "Jesus Is My Healer - Live at Gateway Conference",
       "url": "https://open.spotify.com/track/2ehScY2VKSRBuk3CKbaLmU"
@@ -4831,6 +4893,24 @@
     },
     {
       "album": {
+        "name": "Desert River",
+        "url": "https://open.spotify.com/album/7gN9awdgR8kiB5ruwrGJS4"
+      },
+      "artists": [
+        {
+          "name": "Equippers Worship",
+          "url": "https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203305,
+      "name": "Living Water",
+      "url": "https://open.spotify.com/track/27Hqo8iZOblEHQE8SoJYMs"
+    },
+    {
+      "album": {
         "name": "Long Live The King (Versions) - EP",
         "url": "https://open.spotify.com/album/5DuNnFldG0pyZWbLUw25xH"
       },
@@ -4846,7 +4926,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 353015,
       "name": "Long Live The King - Acoustic",
       "url": "https://open.spotify.com/track/5gZgxdUFIUeNOMgZ0h6vgv"
@@ -4992,7 +5072,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 362500,
       "name": "Manasseh - Live",
       "url": "https://open.spotify.com/track/2TzZevxgyPuD68uWx5GTfJ"
@@ -5090,6 +5170,24 @@
       "duration_ms": 333631,
       "name": "Miracles - Live",
       "url": "https://open.spotify.com/track/6QF9eM4YyywJ7hydtG2U1q"
+    },
+    {
+      "album": {
+        "name": "Desert River",
+        "url": "https://open.spotify.com/album/7gN9awdgR8kiB5ruwrGJS4"
+      },
+      "artists": [
+        {
+          "name": "Equippers Worship",
+          "url": "https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196653,
+      "name": "More Than Enough",
+      "url": "https://open.spotify.com/track/0Uoz45N2pYmBBSezCRT4In"
     },
     {
       "album": {
@@ -5338,6 +5436,24 @@
       "duration_ms": 549999,
       "name": "Nothing Else - Live",
       "url": "https://open.spotify.com/track/57dUp3vW3nluggWiA6WQlQ"
+    },
+    {
+      "album": {
+        "name": "Worship Night 01",
+        "url": "https://open.spotify.com/album/1ieRznNOA6nTHG6b36PqHL"
+      },
+      "artists": [
+        {
+          "name": "Jesus Co.",
+          "url": "https://open.spotify.com/artist/6Ll7sTNN0NeJHoB0bmCKZ1"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488060,
+      "name": "Nothing I Hold On To",
+      "url": "https://open.spotify.com/track/6L0k3awi2pAvGcw5YXyWnv"
     },
     {
       "album": {
@@ -5680,7 +5796,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 436188,
       "name": "Only God - Live From Costa Mesa, CA, 2023",
       "url": "https://open.spotify.com/track/3aOEV0SCViQ61mrjIyzGP3"
@@ -5998,7 +6114,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 302048,
       "name": "Precious Love - Live",
       "url": "https://open.spotify.com/track/1sWYM9HHpUX0UMTUETzLMH"
@@ -6254,7 +6370,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 356440,
       "name": "Revelation Song",
       "url": "https://open.spotify.com/track/086YlKy50RFarVYtRFFTGJ"
@@ -6323,6 +6439,28 @@
     },
     {
       "album": {
+        "name": "The Time Is Now",
+        "url": "https://open.spotify.com/album/6Oe58adBImQrQpi6Xv9QHC"
+      },
+      "artists": [
+        {
+          "name": "Steven Musso",
+          "url": "https://open.spotify.com/artist/6qG7Lqb9bjQXrmFjj3z8Qx"
+        },
+        {
+          "name": "Hannah Musso",
+          "url": "https://open.spotify.com/artist/4qqArbzmExjM16GTwdZedv"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366152,
+      "name": "Royalty",
+      "url": "https://open.spotify.com/track/2CbuTq41rHhEQPgAINRyK8"
+    },
+    {
+      "album": {
         "name": "Rumors Of A Savior (Emmanuel)",
         "url": "https://open.spotify.com/album/5Da36nhwnnXFK3A3eAJxio"
       },
@@ -6378,7 +6516,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 396666,
       "name": "Sacred Fire - Live",
       "url": "https://open.spotify.com/track/3Rz4UDQAKNMVmc2V01IMYp"
@@ -6746,7 +6884,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 391933,
       "name": "Spirit Fall (Dove) - Live",
       "url": "https://open.spotify.com/track/726QdTEtmQIkafu0F9PdY2"
@@ -6844,7 +6982,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 556183,
       "name": "Steadfast Love - Live",
       "url": "https://open.spotify.com/track/2TMVO0RgGLIyWCVo9vRSiQ"
@@ -7221,6 +7359,32 @@
     },
     {
       "album": {
+        "name": "The Covering",
+        "url": "https://open.spotify.com/album/7jyMFcSGsmE232C96yBjEd"
+      },
+      "artists": [
+        {
+          "name": "Inner Sessions",
+          "url": "https://open.spotify.com/artist/4Ne3kBZ2QTM75afQSHjh8L"
+        },
+        {
+          "name": "Landry Cantrell",
+          "url": "https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6"
+        },
+        {
+          "name": "Amanda Sweetin",
+          "url": "https://open.spotify.com/artist/21tY1txY1mqJHmUgrZsStW"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332338,
+      "name": "The Covering",
+      "url": "https://open.spotify.com/track/3F9VoAnnGRGLppjrWJYdU9"
+    },
+    {
+      "album": {
         "name": "The Darker The Night / The Brighter The Morning",
         "url": "https://open.spotify.com/album/5UjzIvJl8qRO65dQTMXrho"
       },
@@ -7498,7 +7662,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 336249,
       "name": "The Lord Will Provide - Live From Passion 2024",
       "url": "https://open.spotify.com/track/3uqLs8EuMOuCNxKtqUWElW"
@@ -8013,28 +8177,6 @@
     },
     {
       "album": {
-        "name": "Who Else (Live)",
-        "url": "https://open.spotify.com/album/4PB1BxZTtyxqkihYYYK3pd"
-      },
-      "artists": [
-        {
-          "name": "Gateway Worship",
-          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
-        },
-        {
-          "name": "Abbie Gamboa",
-          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
-        }
-      ],
-      "date_added": "2024-01-19",
-      "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
-      "duration_ms": 331219,
-      "name": "Who Else - Live",
-      "url": "https://open.spotify.com/track/1mBH77kFrD96YMow8bm5cb"
-    },
-    {
-      "album": {
         "name": "Crowns Down (Live)",
         "url": "https://open.spotify.com/album/3yIWDWEr4BWDt38ovHWnre"
       },
@@ -8076,6 +8218,28 @@
       "duration_ms": 290894,
       "name": "Who Else - Live",
       "url": "https://open.spotify.com/track/7gNM9aohgou9HSYbm7QU7H"
+    },
+    {
+      "album": {
+        "name": "Who Else (Live)",
+        "url": "https://open.spotify.com/album/4PB1BxZTtyxqkihYYYK3pd"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331219,
+      "name": "Who Else - Live at Gateway Conference",
+      "url": "https://open.spotify.com/track/1mBH77kFrD96YMow8bm5cb"
     },
     {
       "album": {
@@ -8398,7 +8562,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 306428,
       "name": "Your word (psalm 119)",
       "url": "https://open.spotify.com/track/5EjBZv52j8DY9bO3zKW6Au"
@@ -8420,7 +8584,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 242913,
       "name": "Zeal - Live",
       "url": "https://open.spotify.com/track/4JXSzNLxnP1xuvHtzuYUN9"

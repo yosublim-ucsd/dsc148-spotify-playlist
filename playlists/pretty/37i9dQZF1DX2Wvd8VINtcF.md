@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster\. Cover: Good Neighbours
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,457 likes - 99 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,465 likes - 99 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 98 | [Time](https://open.spotify.com/track/5JUvmSedBunsVi66CPnEBK) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Jammer](https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw), [A$AP NAST](https://open.spotify.com/artist/1uLYUm2A6kpFYAECfAFoH1) | [Time](https://open.spotify.com/album/6qdTXzg7QJaI98wzYagK7H) | 5:40 |
 | 99 | [LIGHTS](https://open.spotify.com/track/1AoR3F9cAjoHm6qpB0wpFe) | [MASAKA](https://open.spotify.com/artist/6tn3C5xHZDyUoqd0yTPawY), [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [LIGHTS](https://open.spotify.com/album/2VOmS03kyA3Gqvf79dgp9c) | 3:07 |
 
-Snapshot ID: `MCw3YTQzNjAyYmEyNjIzODRiNWJlMGEyNzZlOTNhOTcyNWQwMmU3OTYz`
+Snapshot ID: `MCwwODYxMzc0MWJjNzk5MTlkZTM4NWE4ZWE4ZmJhZDQ3M2ZmODc1ZTNl`

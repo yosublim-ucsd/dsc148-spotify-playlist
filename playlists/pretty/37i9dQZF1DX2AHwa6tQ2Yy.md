@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 
 > Let the music flow through you...
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,725 likes - 70 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,734 likes - 70 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 66 | [ViBRATiON](https://open.spotify.com/track/1CAjgxMzyXGKCuu6XZeHbR) | [IAMDDB](https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI) | [LOVE is WAR, Volume 6](https://open.spotify.com/album/2c7MJXnJwq0hiNdoGAPvgq) | 3:50 |
 | 67 | [This Will Be Our Year](https://open.spotify.com/track/71KtVFmu7lY2AsKgdG1cZl) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 2:37 |
 | 68 | [Find You](https://open.spotify.com/track/0xj5upFN9assCNNS01X3PR) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [CDW](https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9) | 5:03 |
-| 69 | [No Apologies 1.9 V2\_demo](https://open.spotify.com/track/6S62tqvoLp4iqXe6c76zi1) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [No Apologies 1.9 V2\_demo](https://open.spotify.com/album/4P3LN32enOHhgI4BNnHguS) | 2:07 |
-| 70 | [Angel](https://open.spotify.com/track/4HhqdvbBk2YeGayKnBZxF6) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 5:05 |
+| 69 | [Spider](https://open.spotify.com/track/2mmffn8SKL7XMeccLOXSgY) | [Dallas Tamaira](https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt) | [Spider](https://open.spotify.com/album/3AKp3KdtVVT0rwkfejvkj7) | 2:54 |
+| 70 | [No Apologies 1.9 V2\_demo](https://open.spotify.com/track/6S62tqvoLp4iqXe6c76zi1) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [No Apologies 1.9 V2\_demo](https://open.spotify.com/album/4P3LN32enOHhgI4BNnHguS) | 2:07 |
 
-Snapshot ID: `MCw0Yzk2YjcyYWZjYzE5ZmUwZGExMzViYjBkMDMwZjdjNjMyZjMyMTFm`
+Snapshot ID: `MCwyN2E2MGYwZmVlNDU0MTJhZWM0Mjk3MjY4OGNjODNkYjM0NzMwM2Qw`

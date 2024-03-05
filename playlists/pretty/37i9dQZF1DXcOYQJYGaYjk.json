@@ -1,12 +1,12 @@
 {
   "description": "For those that like it hard and heavy. Cover: Motionless In White",
-  "num_followers": 221873,
+  "num_followers": 221870,
   "original_name": "Heavy Gamers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzc0NjhmMjg4MjI1NDQ0YmVmOWZkM2I2YmU1MDk3NWFiYTFiMzUw",
+  "snapshot_id": "MCxiZmFmZjI5MDU3YmYwZTllMmU2MzBmNTU1NDljZGM0ZGI3Y2E0NDUy",
   "tracks": [
     {
       "added_at": "2022-12-15 16:14:29",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-12-15 16:14:29",
       "album": {
-        "name": "Metallica (Remastered)",
-        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 324600,
-      "name": "Sad But True (Remastered)",
-      "url": "https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi"
-    },
-    {
-      "added_at": "2022-12-15 16:14:29",
-      "album": {
         "name": "The Concrete Confessional",
         "url": "https://open.spotify.com/album/63AsIG0ig2p4mWx42ySWIj"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 161626,
       "name": "Looking Down the Barrel of Today",
       "url": "https://open.spotify.com/track/5IVA7WzOlWrmZh8EqZqMaw"
+    },
+    {
+      "added_at": "2022-12-15 16:14:29",
+      "album": {
+        "name": "Metallica (Remastered)",
+        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 324600,
+      "name": "Sad But True (Remastered)",
+      "url": "https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi"
     },
     {
       "added_at": "2022-12-15 16:14:29",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-12-15 16:14:29",
       "album": {
-        "name": "All Out Life",
-        "url": "https://open.spotify.com/album/65QFxYBGGQGGvAcW0YNMXa"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 340132,
-      "name": "All Out Life",
-      "url": "https://open.spotify.com/track/6vAQtUlYrzolE6SS9QCTs5"
-    },
-    {
-      "added_at": "2022-12-15 16:14:29",
-      "album": {
         "name": "Victorious",
         "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 244538,
       "name": "Legendary",
       "url": "https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7"
+    },
+    {
+      "added_at": "2022-12-15 16:14:29",
+      "album": {
+        "name": "All Out Life",
+        "url": "https://open.spotify.com/album/65QFxYBGGQGGvAcW0YNMXa"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 340132,
+      "name": "All Out Life",
+      "url": "https://open.spotify.com/track/6vAQtUlYrzolE6SS9QCTs5"
     },
     {
       "added_at": "2022-12-15 16:14:29",

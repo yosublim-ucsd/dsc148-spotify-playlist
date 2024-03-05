@@ -24131,6 +24131,28 @@
     },
     {
       "album": {
+        "name": "Pretty Girl Vamp",
+        "url": "https://open.spotify.com/album/4GjgVQ101KFLFtFTbt23MD"
+      },
+      "artists": [
+        {
+          "name": "Xtick Man",
+          "url": "https://open.spotify.com/artist/6lPMmlVmdWSQC0ZlCexBc3"
+        },
+        {
+          "name": "ODECORE",
+          "url": "https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147409,
+      "name": "Pretty Girl Vamp",
+      "url": "https://open.spotify.com/track/3CeoqupTfHWakwrxdlifjQ"
+    },
+    {
+      "album": {
         "name": "Ugly Boy",
         "url": "https://open.spotify.com/album/3LqeHSxJ6ENNUZAx9fwiPe"
       },

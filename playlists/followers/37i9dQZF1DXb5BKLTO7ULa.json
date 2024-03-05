@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 259361,
+  "2024-03-05": 259396,
   "date_first_scraped": "2023-02-25",
   "description": "De nieuwste releases elke vrijdag op Spotify! Cover: Joost",
   "name": "New Music Friday NL",
@@ -66535,7 +66535,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 173053,
       "name": "Over You",
       "url": "https://open.spotify.com/track/2k98PByaA4w3aEcFpmFsQe"
@@ -66557,6 +66557,32 @@
       "duration_ms": 146904,
       "name": "Over You",
       "url": "https://open.spotify.com/track/1y1EwXHdAIyt23LJs96bhH"
+    },
+    {
+      "album": {
+        "name": "Djesse Vol. 4",
+        "url": "https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Chris Martin",
+          "url": "https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173053,
+      "name": "Over You (feat. aespa & Chris Martin)",
+      "url": "https://open.spotify.com/track/7MSZg4Km8CM7NRXTeJoANZ"
     },
     {
       "album": {

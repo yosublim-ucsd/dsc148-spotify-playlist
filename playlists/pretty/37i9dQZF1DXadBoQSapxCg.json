@@ -1,12 +1,12 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 308951,
+  "num_followers": 309142,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTYyNDZhYjFiYjljYThkNzUzOWExYzBmMTFjZWQ0NTdlOGNiNmRm",
+  "snapshot_id": "MCxlZDIzYWVmZGUwNTliYzUzNGRiMTdjMzUwYmQyNDJhY2FjYzAyNWIw",
   "tracks": [
     {
       "added_at": "2024-02-23 03:01:00",
@@ -191,26 +191,6 @@
     {
       "added_at": "2024-02-23 03:01:00",
       "album": {
-        "name": "Bluesman",
-        "url": "https://open.spotify.com/album/0QMVSKhzT4u2DEd8qdlz4I"
-      },
-      "artists": [
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
-        },
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        }
-      ],
-      "duration_ms": 237898,
-      "name": "Flamingos",
-      "url": "https://open.spotify.com/track/7wcDSsREsX9wn8P1iEdBgj"
-    },
-    {
-      "added_at": "2024-02-23 03:01:00",
-      "album": {
         "name": "Saudade",
         "url": "https://open.spotify.com/album/3kcHfsXEUlgTQUFimmhkVm"
       },
@@ -231,6 +211,26 @@
       "duration_ms": 184841,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/3KGCF68zDut37Ug3fzWgVU"
+    },
+    {
+      "added_at": "2024-02-23 03:01:00",
+      "album": {
+        "name": "Bluesman",
+        "url": "https://open.spotify.com/album/0QMVSKhzT4u2DEd8qdlz4I"
+      },
+      "artists": [
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        },
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        }
+      ],
+      "duration_ms": 237898,
+      "name": "Flamingos",
+      "url": "https://open.spotify.com/track/7wcDSsREsX9wn8P1iEdBgj"
     },
     {
       "added_at": "2024-02-23 03:01:00",
@@ -267,6 +267,22 @@
     {
       "added_at": "2024-02-23 03:01:00",
       "album": {
+        "name": "J\u00fapiter",
+        "url": "https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 156746,
+      "name": "Feliz e Ponto",
+      "url": "https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94"
+    },
+    {
+      "added_at": "2024-02-23 03:01:00",
+      "album": {
         "name": "ICARUS",
         "url": "https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 193697,
       "name": "S\u00f3 me ligar",
       "url": "https://open.spotify.com/track/31ySVMbs7U8LOuy7w4McR9"
-    },
-    {
-      "added_at": "2024-02-23 03:01:00",
-      "album": {
-        "name": "J\u00fapiter",
-        "url": "https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 156746,
-      "name": "Feliz e Ponto",
-      "url": "https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94"
     },
     {
       "added_at": "2024-02-23 03:01:00",
@@ -1207,18 +1207,26 @@
     {
       "added_at": "2024-02-23 03:01:00",
       "album": {
-        "name": "STR!PP3R",
-        "url": "https://open.spotify.com/album/1ARkUdBdavmnmTj9o7Uco9"
+        "name": "Quero Mais",
+        "url": "https://open.spotify.com/album/46fGZIUMxdnL93QP6DJZCY"
       },
       "artists": [
         {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Scarlett Wolf",
+          "url": "https://open.spotify.com/artist/5hiwoYrfML1abtDBW5EG2p"
+        },
+        {
+          "name": "CJota",
+          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
         }
       ],
-      "duration_ms": 187050,
-      "name": "STR!PP3R",
-      "url": "https://open.spotify.com/track/4CzyL4wYnc0ZwltZElLCNj"
+      "duration_ms": 165299,
+      "name": "Quero Mais",
+      "url": "https://open.spotify.com/track/7tDghG79gNiQzE1wgLI8Fp"
     }
   ],
   "unique_name": "Rala e Rola",

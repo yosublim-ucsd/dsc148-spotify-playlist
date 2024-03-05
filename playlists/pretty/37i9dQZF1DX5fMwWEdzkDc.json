@@ -1,12 +1,12 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 14282,
+  "num_followers": 14289,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzg2YTk1OGYyMmZkMmM0ZGRlYWJiNzg5NGRjZjgzNGFkZjRmNmU0",
+  "snapshot_id": "MCw4YmY4YTFiOWM2OThlNjEwYWI0MDdjMmI1ZTRiNzJkNzBlNjA0MjFk",
   "tracks": [
     {
       "added_at": "2021-03-11 16:26:11",
@@ -155,6 +155,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
+        "name": "SHAKE IT",
+        "url": "https://open.spotify.com/album/7wxGBt2oAGDjZ9CgPhQU8C"
+      },
+      "artists": [
+        {
+          "name": "SISTAR",
+          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
+        }
+      ],
+      "duration_ms": 208506,
+      "name": "SHAKE IT",
+      "url": "https://open.spotify.com/track/59FBFyeST1vqN8G41YgFS6"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
         "name": "Princess Hours (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0VyUBfpNgMgI3DBQgp4Ogu"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 308186,
       "name": "Memory Of The Wind",
       "url": "https://open.spotify.com/track/1uMLtqpe8beA6fPy3ApJcJ"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "SHAKE IT",
-        "url": "https://open.spotify.com/album/7wxGBt2oAGDjZ9CgPhQU8C"
-      },
-      "artists": [
-        {
-          "name": "SISTAR",
-          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
-        }
-      ],
-      "duration_ms": 208506,
-      "name": "SHAKE IT",
-      "url": "https://open.spotify.com/track/59FBFyeST1vqN8G41YgFS6"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -371,22 +371,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Davichi In Wonderland",
-        "url": "https://open.spotify.com/album/1nsgg32Iq4kANSRjdAxRTo"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 219160,
-      "name": "8282",
-      "url": "https://open.spotify.com/track/7y4oE4ATKrE9XIM9XSeyQN"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "SO COOL",
         "url": "https://open.spotify.com/album/44HjYZEwgtloDNyIYK4DzO"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 201273,
       "name": "So Cool",
       "url": "https://open.spotify.com/track/4yHrnHRkY8ZEZUHPdsRno2"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Davichi In Wonderland",
+        "url": "https://open.spotify.com/album/1nsgg32Iq4kANSRjdAxRTo"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 219160,
+      "name": "8282",
+      "url": "https://open.spotify.com/track/7y4oE4ATKrE9XIM9XSeyQN"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -611,22 +611,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Atlantis Princess - The 3rd Album",
-        "url": "https://open.spotify.com/album/3uDxYE7bWvaQH2oZpLzoRV"
-      },
-      "artists": [
-        {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
-        }
-      ],
-      "duration_ms": 224373,
-      "name": "Atlantis Princess",
-      "url": "https://open.spotify.com/track/7sQaZvlFFqlBsObK8A3y0S"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Honey (Special Edition)",
         "url": "https://open.spotify.com/album/0vAZzuihx388IsfLUPamzB"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 195000,
       "name": "Honey",
       "url": "https://open.spotify.com/track/7K0qoyK48Um3llVR4TH0rI"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Atlantis Princess - The 3rd Album",
+        "url": "https://open.spotify.com/album/3uDxYE7bWvaQH2oZpLzoRV"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "duration_ms": 224373,
+      "name": "Atlantis Princess",
+      "url": "https://open.spotify.com/track/7sQaZvlFFqlBsObK8A3y0S"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -831,22 +831,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "With L.O.V.E Brown Eyed Girls",
-        "url": "https://open.spotify.com/album/4aAT9INUonYUREjOyxDhQl"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "LOVE",
-      "url": "https://open.spotify.com/track/6hQZn0khzhIZmMQ2erzx6q"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Brown Eyes",
         "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 215840,
       "name": "With Coffee\u2026",
       "url": "https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "With L.O.V.E Brown Eyed Girls",
+        "url": "https://open.spotify.com/album/4aAT9INUonYUREjOyxDhQl"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/6hQZn0khzhIZmMQ2erzx6q"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
+        "name": "The Breeze Of Sea",
+        "url": "https://open.spotify.com/album/0bWcrwRhhxMaweFaBA8G1S"
+      },
+      "artists": [
+        {
+          "name": "Park Hyo Shin",
+          "url": "https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj"
+        }
+      ],
+      "duration_ms": 329026,
+      "name": "\ucd94\uc5b5\uc740 \uc0ac\ub791\uc744 \ub2ee\uc544",
+      "url": "https://open.spotify.com/track/0MjRPE2eH1ZQm9DC3BtZyq"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
         "name": "Change Yourself",
         "url": "https://open.spotify.com/album/3lNo7TgizMXNYTve1wIYJj"
       },
@@ -1271,18 +1287,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "The Breeze Of Sea",
-        "url": "https://open.spotify.com/album/0bWcrwRhhxMaweFaBA8G1S"
+        "name": "The Way I Am",
+        "url": "https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk"
       },
       "artists": [
         {
-          "name": "Park Hyo Shin",
-          "url": "https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj"
+          "name": "MC MONG",
+          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
         }
       ],
-      "duration_ms": 329026,
-      "name": "\ucd94\uc5b5\uc740 \uc0ac\ub791\uc744 \ub2ee\uc544",
-      "url": "https://open.spotify.com/track/0MjRPE2eH1ZQm9DC3BtZyq"
+      "duration_ms": 216323,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/2KlzrWVFpUIyI2goyvInX4"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1315,38 +1331,6 @@
       "duration_ms": 210626,
       "name": "1Tym",
       "url": "https://open.spotify.com/track/3LjJ0Hjqot5HDeL172lAcw"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "The Way I Am",
-        "url": "https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk"
-      },
-      "artists": [
-        {
-          "name": "MC MONG",
-          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
-        }
-      ],
-      "duration_ms": 216323,
-      "name": "Ice Cream",
-      "url": "https://open.spotify.com/track/2KlzrWVFpUIyI2goyvInX4"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "N001",
-        "url": "https://open.spotify.com/album/6uHdPehfuo9Es9tWGatg8c"
-      },
-      "artists": [
-        {
-          "name": "Rain",
-          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
-        }
-      ],
-      "duration_ms": 217533,
-      "name": "Bad Man",
-      "url": "https://open.spotify.com/track/40SeJqkDwPJp9tcVWMEgMB"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1399,6 +1383,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
+        "name": "N001",
+        "url": "https://open.spotify.com/album/6uHdPehfuo9Es9tWGatg8c"
+      },
+      "artists": [
+        {
+          "name": "Rain",
+          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
+        }
+      ],
+      "duration_ms": 217533,
+      "name": "Bad Man",
+      "url": "https://open.spotify.com/track/40SeJqkDwPJp9tcVWMEgMB"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
         "name": "Son Dam Bi Mini Album vol. 2",
         "url": "https://open.spotify.com/album/03g00ngaa5I53sAoQiLrQL"
       },
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "It's Raining",
-        "url": "https://open.spotify.com/album/45ngiRidCweoSOwjcSsj0A"
-      },
-      "artists": [
-        {
-          "name": "Rain",
-          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
-        }
-      ],
-      "duration_ms": 225306,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/42dgKh54xg8W39NDDIrmCz"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Star",
         "url": "https://open.spotify.com/album/4mVaOQu6qOjGpSlNjwf0n4"
       },
@@ -1487,22 +1471,6 @@
       "duration_ms": 238393,
       "name": "\uc0ac\ub791..\uadf8\uac8c \ubb54\ub370",
       "url": "https://open.spotify.com/track/17YZlswC4YRd6vMVkH6F5C"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "SE7EN New Mini Album",
-        "url": "https://open.spotify.com/album/769iSuDv4ZwnUZajcITZPI"
-      },
-      "artists": [
-        {
-          "name": "SE7EN",
-          "url": "https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV"
-        }
-      ],
-      "duration_ms": 235426,
-      "name": "When I Can't Sing (\ub0b4\uac00 \ub178\ub798\ub97c \ubabb\ud574\ub3c4)",
-      "url": "https://open.spotify.com/track/04DzNacNQnSlCqs9bJX4Eg"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1555,6 +1523,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
+        "name": "SE7EN New Mini Album",
+        "url": "https://open.spotify.com/album/769iSuDv4ZwnUZajcITZPI"
+      },
+      "artists": [
+        {
+          "name": "SE7EN",
+          "url": "https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV"
+        }
+      ],
+      "duration_ms": 235426,
+      "name": "When I Can't Sing (\ub0b4\uac00 \ub178\ub798\ub97c \ubabb\ud574\ub3c4)",
+      "url": "https://open.spotify.com/track/04DzNacNQnSlCqs9bJX4Eg"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
         "name": "SS501 (Single) 2\uc9d1",
         "url": "https://open.spotify.com/album/5r0EVa4QA5EHKSzFQLwFeq"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 204973,
       "name": "Snow Prince",
       "url": "https://open.spotify.com/track/1RDa57Qh5kWFYUHkQuwSJa"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "It's Raining",
+        "url": "https://open.spotify.com/album/45ngiRidCweoSOwjcSsj0A"
+      },
+      "artists": [
+        {
+          "name": "Rain",
+          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
+        }
+      ],
+      "duration_ms": 225306,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/42dgKh54xg8W39NDDIrmCz"
     },
     {
       "added_at": "2021-03-11 16:26:11",

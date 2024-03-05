@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 
 > This is Eric Clapton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,041 likes - 51 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,097 likes - 51 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 | 50 | [Ride the River](https://open.spotify.com/track/3sDSFcI1b35KqEEd0bDzBu) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [The Road to Escondido](https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079) | 4:35 |
 | 51 | [Blues Before Sunrise](https://open.spotify.com/track/648g2wFtqqzK8rW0Y2F0T3) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [From the Cradle](https://open.spotify.com/album/5P2ZoNb6NJL7P5VexrQOeg) | 2:57 |
 
-Snapshot ID: `Mjg0OTExMzksMDAwMDAwMDA5NzM1N2U0Y2QzZDIyNjVkMWI3Mjg3Njk3MDhhM2ZjMw==`
+Snapshot ID: `Mjg0OTI1NjksMDAwMDAwMDAwZDM3ZDI1MWE1NTE1NzYwZjRiODlhNGYzYmNiZDJmNw==`

@@ -1,12 +1,12 @@
 {
   "description": "Home is where you park it.",
-  "num_followers": 684232,
+  "num_followers": 684414,
   "original_name": "Van Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDE0MWJlNjg3NDRmMjVjOTZlYTFkNjcyYWVjZGNmMDIyODZjNWQ2",
+  "snapshot_id": "MCxkNDBhMTFhMzlmZmEwZjA5MzQ2N2IwZGFjOTkzYzUzNWFjMjI2NDY0",
   "tracks": [
     {
       "added_at": "2024-01-25 17:05:45",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-01-25 17:05:45",
       "album": {
-        "name": "BRIGHTSIDE",
-        "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 237320,
-      "name": "A.M. RADIO",
-      "url": "https://open.spotify.com/track/0Hu1ylV8WuaLcLclixNgTV"
-    },
-    {
-      "added_at": "2024-01-25 17:05:45",
-      "album": {
         "name": "Ribbons",
         "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
       },
@@ -423,6 +407,38 @@
       "duration_ms": 274423,
       "name": "Low",
       "url": "https://open.spotify.com/track/4RJYhQEGxI42b2OkiA6eYP"
+    },
+    {
+      "added_at": "2024-01-25 17:05:45",
+      "album": {
+        "name": "BRIGHTSIDE",
+        "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 237320,
+      "name": "A.M. RADIO",
+      "url": "https://open.spotify.com/track/0Hu1ylV8WuaLcLclixNgTV"
+    },
+    {
+      "added_at": "2024-01-25 17:05:45",
+      "album": {
+        "name": "Dragon New Warm Mountain I Believe In You",
+        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 187388,
+      "name": "Certainty",
+      "url": "https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd"
     },
     {
       "added_at": "2024-01-25 17:05:45",
@@ -487,22 +503,6 @@
       "duration_ms": 176567,
       "name": "ready now",
       "url": "https://open.spotify.com/track/1hH8pM8m5vPOFqNkZdqfZd"
-    },
-    {
-      "added_at": "2024-01-25 17:05:45",
-      "album": {
-        "name": "Dragon New Warm Mountain I Believe In You",
-        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 187388,
-      "name": "Certainty",
-      "url": "https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd"
     },
     {
       "added_at": "2024-01-25 17:05:45",

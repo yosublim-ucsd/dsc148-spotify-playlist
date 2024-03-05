@@ -1,12 +1,12 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: NAYEON(\ub098\uc5f0))",
-  "num_followers": 193294,
+  "num_followers": 193387,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGQzYjVjZmQ4MzA5YTlhOTcyNWFhNGJjNDE3YTYxOGVjYTc1MWY0",
+  "snapshot_id": "MCxhNDE1MjBmMWVkODlhMDgxMGI4NWUwYmZkNDNiMmYzYTI0OWMxYTli",
   "tracks": [
     {
       "added_at": "2023-09-14 10:27:59",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "FANCY YOU",
-        "url": "https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 213880,
-      "name": "FANCY",
-      "url": "https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
         "name": "Dua Lipa (Complete Edition)",
         "url": "https://open.spotify.com/album/0obMz8EHnr3dg6NCUK4xWp"
       },
@@ -399,18 +383,18 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "SUNMI SPECIAL EDITION [Gashina]",
-        "url": "https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN"
+        "name": "Permission to Dance",
+        "url": "https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ"
       },
       "artists": [
         {
-          "name": "SUNMI",
-          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Gashina",
-      "url": "https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST"
+      "duration_ms": 187585,
+      "name": "Permission to Dance",
+      "url": "https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -431,18 +415,34 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "Permission to Dance",
-        "url": "https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ"
+        "name": "FANCY YOU",
+        "url": "https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
         }
       ],
-      "duration_ms": 187585,
-      "name": "Permission to Dance",
-      "url": "https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry"
+      "duration_ms": 213880,
+      "name": "FANCY",
+      "url": "https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
+        "name": "SUNMI SPECIAL EDITION [Gashina]",
+        "url": "https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Gashina",
+      "url": "https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -459,22 +459,6 @@
       "duration_ms": 185506,
       "name": "Ditto",
       "url": "https://open.spotify.com/track/5702raF31K9rvD6KZ6sCTo"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
-        "name": "Taste of Love",
-        "url": "https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 210573,
-      "name": "Alcohol-Free",
-      "url": "https://open.spotify.com/track/0BTaaKT4RMbs5M73tOHX5Y"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -515,6 +499,22 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
+        "name": "MAP OF THE SOUL : PERSONA",
+        "url": "https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 234177,
+      "name": "HOME",
+      "url": "https://open.spotify.com/track/6Yc3tjFCVR2bfAQFRTZBef"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
         "name": "Rollin'",
         "url": "https://open.spotify.com/album/3FuZ0bCYhMcoex6KN0F360"
       },
@@ -543,6 +543,22 @@
       "duration_ms": 190422,
       "name": "Ko Ko Bop",
       "url": "https://open.spotify.com/track/5EzitieoPnjyKHAq0gfRMa"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
+        "name": "Taste of Love",
+        "url": "https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 210573,
+      "name": "Alcohol-Free",
+      "url": "https://open.spotify.com/track/0BTaaKT4RMbs5M73tOHX5Y"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -579,24 +595,8 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "TREASURE EP.3 : One To All",
-        "url": "https://open.spotify.com/album/4Y8cigF15iNUSV1dhlQqRg"
-      },
-      "artists": [
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        }
-      ],
-      "duration_ms": 203933,
-      "name": "WAVE",
-      "url": "https://open.spotify.com/track/28xjm4FnnGI4Xnds7VoNSl"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
-        "name": "MAP OF THE SOUL : PERSONA",
-        "url": "https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6"
+        "name": "The Most Beautiful Moment in Life: Young Forever",
+        "url": "https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 234177,
-      "name": "HOME",
-      "url": "https://open.spotify.com/track/6Yc3tjFCVR2bfAQFRTZBef"
+      "duration_ms": 196505,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/7bxGcILuAjkZzaveU28ZJS"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -623,6 +623,22 @@
       "duration_ms": 189858,
       "name": "Let Me In (20 CUBE)",
       "url": "https://open.spotify.com/track/4eOcd47wPU3ixxYw0spREl"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
+        "name": "TREASURE EP.3 : One To All",
+        "url": "https://open.spotify.com/album/4Y8cigF15iNUSV1dhlQqRg"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 203933,
+      "name": "WAVE",
+      "url": "https://open.spotify.com/track/28xjm4FnnGI4Xnds7VoNSl"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -695,22 +711,6 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "NOEASY",
-        "url": "https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 212480,
-      "name": "Mixtape : OH",
-      "url": "https://open.spotify.com/track/2afx8zfrOsN3QVEWSx5IPp"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
         "name": "BORDER : DAY ONE",
         "url": "https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH"
       },
@@ -727,18 +727,18 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "The Most Beautiful Moment in Life: Young Forever",
-        "url": "https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09"
+        "name": "NOEASY",
+        "url": "https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
         }
       ],
-      "duration_ms": 196505,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/7bxGcILuAjkZzaveU28ZJS"
+      "duration_ms": 212480,
+      "name": "Mixtape : OH",
+      "url": "https://open.spotify.com/track/2afx8zfrOsN3QVEWSx5IPp"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "BORDER : CARNIVAL",
-        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 181196,
-      "name": "Not For Sale",
-      "url": "https://open.spotify.com/track/3dG1jxbfBIZvzyFwAcsmS0"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
         "name": "Lil' Touch - The 1st Single",
         "url": "https://open.spotify.com/album/6369mPjmE105oD1ECF7WiA"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 189846,
       "name": "Lil\u2019 Touch",
       "url": "https://open.spotify.com/track/4D5Ode2OfZMxIwQyvmhUe8"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
+        "name": "BORDER : CARNIVAL",
+        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 181196,
+      "name": "Not For Sale",
+      "url": "https://open.spotify.com/track/3dG1jxbfBIZvzyFwAcsmS0"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "Mixtape : Time Out",
-        "url": "https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 175293,
-      "name": "Mixtape : Time Out",
-      "url": "https://open.spotify.com/track/0OCDOcvQvozjsivREMojzx"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
         "name": "GFRIEND The 7th Mini Album `FEVER SEASON`",
         "url": "https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 195667,
       "name": "As You Wish",
       "url": "https://open.spotify.com/track/42zMiF3EFBg5CsYbgKdhj1"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
+        "name": "Mixtape : Time Out",
+        "url": "https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 175293,
+      "name": "Mixtape : Time Out",
+      "url": "https://open.spotify.com/track/0OCDOcvQvozjsivREMojzx"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
+        "name": "ZERO : FEVER Part.1",
+        "url": "https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 203613,
+      "name": "One Day At A Time",
+      "url": "https://open.spotify.com/track/1eFk8R4OobU7kaAZdfYBKz"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
         "name": "THE FIRST STEP : TREASURE EFFECT",
         "url": "https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 186906,
       "name": "Sparkling",
       "url": "https://open.spotify.com/track/6TzU11huC8Hz4FVEsvCeE7"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
-        "name": "ZERO : FEVER Part.1",
-        "url": "https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI"
-      },
-      "artists": [
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        }
-      ],
-      "duration_ms": 203613,
-      "name": "One Day At A Time",
-      "url": "https://open.spotify.com/track/1eFk8R4OobU7kaAZdfYBKz"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
+        "name": "I Don't Miss You",
+        "url": "https://open.spotify.com/album/0MdZdkVzAdqv9QcBqnWmes"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 172634,
+      "name": "I Don't Miss You",
+      "url": "https://open.spotify.com/track/0kq2SMYMcYk6dl2Z6k03yN"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
         "name": "HEART*IZ",
         "url": "https://open.spotify.com/album/548UwoyV9v9fTaoEfzoCBb"
       },
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "I Don't Miss You",
-        "url": "https://open.spotify.com/album/0MdZdkVzAdqv9QcBqnWmes"
-      },
-      "artists": [
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 172634,
-      "name": "I Don't Miss You",
-      "url": "https://open.spotify.com/track/0kq2SMYMcYk6dl2Z6k03yN"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
         "name": "Summer Queen",
         "url": "https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi"
       },
@@ -1587,22 +1587,18 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "Hands on Me",
-        "url": "https://open.spotify.com/album/7KM1Yi5xYv3O6OcKsEeV83"
+        "name": "There And Back Again",
+        "url": "https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1"
       },
       "artists": [
         {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
-        },
-        {
-          "name": "Nucksal",
-          "url": "https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB"
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
         }
       ],
-      "duration_ms": 198420,
-      "name": "Why Don\u2019t You Know",
-      "url": "https://open.spotify.com/track/3L6OalQDbdCS0Tg1kFccYn"
+      "duration_ms": 164293,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/0KMhnkCiGtCQhYtAy7QS9l"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -1655,26 +1651,18 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "Move Like This (Feat. YUNA KIM)",
-        "url": "https://open.spotify.com/album/18zHgBBbSGZ90hu1mJmvFQ"
+        "name": "Room Vol.1",
+        "url": "https://open.spotify.com/album/2cSXk0XqGoen6IvmlJmJJt"
       },
       "artists": [
         {
-          "name": "KANGDANIEL",
-          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
-        },
-        {
-          "name": "ANYUJIN",
-          "url": "https://open.spotify.com/artist/3schR1HLbYu3RqqPDiDFrE"
-        },
-        {
-          "name": "YUNA KIM",
-          "url": "https://open.spotify.com/artist/5wBTXLKoAsiWsKn3ijyGPo"
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
         }
       ],
-      "duration_ms": 196106,
-      "name": "Move Like This (Feat. YUNA KIM)",
-      "url": "https://open.spotify.com/track/5xIBHVtjcxg2I86wodrj1d"
+      "duration_ms": 221760,
+      "name": "Reference",
+      "url": "https://open.spotify.com/track/2PmLP4DNUPJC98L78mrkal"
     }
   ],
   "unique_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",

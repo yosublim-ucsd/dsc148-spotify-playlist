@@ -544,7 +544,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 126481,
       "name": "CLEARED - Remix",
       "url": "https://open.spotify.com/track/54L7uacUGRkvoLokUlNWfH"
@@ -736,7 +736,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 190457,
       "name": "DELIRIO",
       "url": "https://open.spotify.com/track/3WxuX8C3ZV3xwO6AAoE0Sh"
@@ -2332,10 +2332,28 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 90305,
       "name": "Out For Love",
       "url": "https://open.spotify.com/track/3CAgZdCErAPdUBwFmaRyGA"
+    },
+    {
+      "album": {
+        "name": "Cumbia Con Clase",
+        "url": "https://open.spotify.com/album/5vZ0PtlJPaHVoFEzHlYRop"
+      },
+      "artists": [
+        {
+          "name": "La Banda Tecno De Beto Y Juan",
+          "url": "https://open.spotify.com/artist/1Ex1iwuNNgqHvVFIeiA88I"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254862,
+      "name": "Paloma Ajena",
+      "url": "https://open.spotify.com/track/0hyWESy54H99d9ho7S0Xnj"
     },
     {
       "album": {
@@ -2456,7 +2474,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 270697,
       "name": "redrum",
       "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
@@ -2814,6 +2832,24 @@
       "duration_ms": 155293,
       "name": "Te Juro No Te Miento",
       "url": "https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU"
+    },
+    {
+      "album": {
+        "name": "Infectado",
+        "url": "https://open.spotify.com/album/2zAl9NEyqqhmupC1MFtlHK"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264880,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/0eJGouVmEGxPktWPSTfpuI"
     },
     {
       "album": {

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDg3MDM4MmU1ZTI0NzQyYzVjMmE4YzdhZDYwM2Y1ZDgxNmIzODM3",
+  "snapshot_id": "MCwxNDA4ZjQxNTQ0MjUwMGRjODcyOGE1N2M3ZDE3MTUyOTAzZDc4NzU0",
   "tracks": [
     {
       "added_at": "2019-02-06 20:15:18",
@@ -264,12 +264,8 @@
       },
       "artists": [
         {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "The Family",
-          "url": "https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp"
+          "name": "Kirk Franklin & The Family",
+          "url": "https://open.spotify.com/artist/7r5eFBPPJjFPy2E1K0VQmd"
         }
       ],
       "duration_ms": 418706,

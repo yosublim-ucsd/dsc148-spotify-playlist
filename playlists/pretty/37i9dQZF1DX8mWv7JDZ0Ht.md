@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades do pop nacional pra te deixar mais leve! Foto: Braga, KVSH
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,967 likes - 85 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,984 likes - 85 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 48 | [Vida + leve](https://open.spotify.com/track/4dK3vpH7f9q8PHLfSp1qhb) | [LAURO](https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa), [Guilherme Castel](https://open.spotify.com/artist/13EnZwFsY0CxXKiEsAIOpX), [uma Póvoas](https://open.spotify.com/artist/1fP1a8QtAWodK9wm1fIBmx) | [Vida + leve](https://open.spotify.com/album/2yd1DMCQyulyfU8Z9Zehf1) | 2:58 |
 | 49 | [Não Me Chame Mais De Ex](https://open.spotify.com/track/4z1PRlsNS6oO3EPefmKFzl) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op), [Kamilla Maria](https://open.spotify.com/artist/5zVMIZMjjks6fBw8JE7D9c) | [Não Me Chame Mais De Ex](https://open.spotify.com/album/4DtJfSrX5mpAgr8pvH9VtV) | 2:28 |
 | 50 | [que se fosse](https://open.spotify.com/track/6JcDYTSeUb8TIWrmhRXk8K) | [Sophi](https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn) | [que se fosse](https://open.spotify.com/album/7HHVpVi9XkQszG5gYukU9Z) | 2:19 |
-| 51 | [Quando isso vai passar?](https://open.spotify.com/track/2ydOTMH0LViI8b9tRp1WOp) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Quando isso vai passar?](https://open.spotify.com/album/66jTl9rLZaXN0yMH4j6biH) | 2:36 |
-| 52 | [Eu, Você e Essa Canção](https://open.spotify.com/track/5AJPQJQpB3FKZgxNIciFwC) | [Pedro Pascual](https://open.spotify.com/artist/2BnK5sGhQzbij0I5BWTYm4), [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [Eu, Você e Essa Canção](https://open.spotify.com/album/2g2U9irgi6o746zVeLHkJg) | 2:47 |
+| 51 | [Eu, Você e Essa Canção](https://open.spotify.com/track/5AJPQJQpB3FKZgxNIciFwC) | [Pedro Pascual](https://open.spotify.com/artist/2BnK5sGhQzbij0I5BWTYm4), [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [Eu, Você e Essa Canção](https://open.spotify.com/album/2g2U9irgi6o746zVeLHkJg) | 2:47 |
+| 52 | [Quando isso vai passar?](https://open.spotify.com/track/2ydOTMH0LViI8b9tRp1WOp) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Quando isso vai passar?](https://open.spotify.com/album/66jTl9rLZaXN0yMH4j6biH) | 2:36 |
 | 53 | [Planeta Para](https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB) | [Capim\-Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Planeta Para](https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE) | 2:21 |
 | 54 | [Primeira Vez](https://open.spotify.com/track/5BJRbYetamHApClzQ4wdTO) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Cultivar \(Deluxe\)](https://open.spotify.com/album/0GVG4Z4CkMu65XZAruh5uS) | 2:08 |
 | 55 | [O Que Eu Devia Ter Vivido](https://open.spotify.com/track/4PfAuk2op4WbQf2cYmPFc1) | [Anna Pêgo](https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ) | [Frágil](https://open.spotify.com/album/3118Bv0QT2WFC6aCmnNX9U) | 2:25 |
@@ -92,6 +92,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 82 | [Morena Surreal](https://open.spotify.com/track/2L8D15KGhjmkvqqPWRMWsw) | [Enry Sanches](https://open.spotify.com/artist/6Ke9kTvWWVIr6YKLVK1AOd) | [Morena Surreal](https://open.spotify.com/album/3FQPbRkybCwrp0HJ5voVsd) | 3:34 |
 | 83 | [No Azul do Teu Olhar](https://open.spotify.com/track/1usi76vEIYhyu9a7Dniqs0) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy), [CASITA](https://open.spotify.com/artist/2AFHUuEtvqHN4JlNzyq8cv) | [No Azul do Teu Olhar](https://open.spotify.com/album/4e26MuGPtaW04apoRiYkmd) | 3:21 |
 | 84 | [Amanheceu Assim](https://open.spotify.com/track/6ZN54IpPKw9YtBw6vuMAKw) | [Stéfano Ferraz](https://open.spotify.com/artist/566ggMCCnCX4jnrZNaLWZa) | [Amanheceu Assim](https://open.spotify.com/album/3PULKRZQ4tZ5cFLBy4webU) | 3:24 |
-| 85 | [Duas da Manhã](https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI) | [Santaella](https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p) | [Duas da Manhã](https://open.spotify.com/album/00zcJl8VAUdohbTZfPJnY5) | 3:18 |
+| 85 | [mentalmente](https://open.spotify.com/track/1hQa4ceXHdS41cYqHCv5M9) | [Carol Passos](https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP), [GCARVALHO](https://open.spotify.com/artist/1kNfxWOfLZgfDJsEP7tLHh), [CASITA](https://open.spotify.com/artist/2AFHUuEtvqHN4JlNzyq8cv) | [mentalmente](https://open.spotify.com/album/5YiQ8dQ3MFu9MNg9sOQjDO) | 2:55 |
 
-Snapshot ID: `MCw0YzYzZmQxN2UyMzA3OTlkZjVlMzRjOGZiMzE1MThmMDRmZmIwNGM4`
+Snapshot ID: `MCw1YTU4NmQwZmMwZjVkNTI0Y2VhYWE2OWY4NGFmOTE2YjQzYTVhOTFm`

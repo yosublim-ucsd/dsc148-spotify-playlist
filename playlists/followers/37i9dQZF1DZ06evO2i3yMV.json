@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 7928,
+  "2024-03-05": 7931,
   "date_first_scraped": "2023-05-03",
   "description": "This is TOKiMONSTA. The essential tracks, all in one playlist.",
   "name": "This Is TOKiMONSTA",
@@ -1439,7 +1439,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 185945,
       "name": "Penny",
       "url": "https://open.spotify.com/track/7HK2Wxzxn7PIDTpYRJbkh1"
@@ -1971,6 +1971,24 @@
       "duration_ms": 195529,
       "name": "Starlight Lace",
       "url": "https://open.spotify.com/track/6sB4yuAwsgiWSgOpheHtjI"
+    },
+    {
+      "album": {
+        "name": "FOVERE",
+        "url": "https://open.spotify.com/album/1RP9ycGSR3PgUffaLibvh7"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195529,
+      "name": "Starlight Lace",
+      "url": "https://open.spotify.com/track/7rMbCJMPExhYBcmVqvZcLl"
     },
     {
       "album": {

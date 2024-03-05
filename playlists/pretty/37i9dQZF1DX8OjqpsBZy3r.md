@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OjqpsBZy3r.md) - [plain]
 
 > The trending country songs and viral hits you need to know\. Cover: Hailey Whitters
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,154 likes - 113 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,155 likes - 113 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OjqpsBZy3r.md) - [plain]
 | 112 | [Forever and Ever, Amen](https://open.spotify.com/track/1ipcb9qXpSHWhSUvdxJhsx) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Always & Forever](https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv) | 3:32 |
 | 113 | [Boy](https://open.spotify.com/track/7A8OfzqXBHYGk61FZTHoeo) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Lee Brice](https://open.spotify.com/album/3GyH4lUfzEkbxlaW5xTYYL) | 3:18 |
 
-Snapshot ID: `MCw4YWNkZDY1OThhYmI4MjZkNzUxYTNjMDBkODJhYjlmNTZkN2E3ODE3`
+Snapshot ID: `MCwxZDhkNDBjNjE5MTJmOTUzNDMzMTJjNjAwZjVmNGRjNjQ3OTI0MTc1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 
 > 😈 turn anywhere into a sexy club 😈
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,417 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,471 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 28 | [Horsey](https://open.spotify.com/track/6QK2oI4RCtxzCWzyffwlPP) | [Alex Chapman](https://open.spotify.com/artist/3c8wfedCs5BJGHcFyusyeh), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Horsey](https://open.spotify.com/album/7dlCLHgCNz5vyliNZf8XNv) | 2:17 |
 | 29 | [BUBBLEGUM](https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [BUBBLEGUM](https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe) | 2:28 |
 | 30 | [Drag Me Out](https://open.spotify.com/track/2SDG2dYcoW5ksPGsiFGt7V) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Drag Me Out](https://open.spotify.com/album/2ulgg6hyu3NPgjpURpNYfs) | 2:19 |
-| 31 | [Sweat \- SOPHIE Remix](https://open.spotify.com/track/1CUCnTJVZy68TS34DX6kCx) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9), [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Joyful Death](https://open.spotify.com/album/37RBUO05YPPvrIHcEst8Kg) | 4:18 |
-| 32 | [Guud Gurls](https://open.spotify.com/track/6yTAycvx2hDqGYerNaphfI) | [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX), [Kzn](https://open.spotify.com/artist/0RycZwNOoEzo6mh88IKFQW) | [Hott Boyz](https://open.spotify.com/album/1Um9iDs4Iicg0mwa67yqDV) | 3:10 |
-| 33 | [Yoga](https://open.spotify.com/track/0tsYFj9sMgKtCbCaBMbRyv) | [Only Fire](https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN), [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Yoga](https://open.spotify.com/album/3jGiYAECmbxAsnF7Z7o8Nw) | 2:59 |
+| 31 | [Yoga](https://open.spotify.com/track/0tsYFj9sMgKtCbCaBMbRyv) | [Only Fire](https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN), [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Yoga](https://open.spotify.com/album/3jGiYAECmbxAsnF7Z7o8Nw) | 2:59 |
+| 32 | [Sweat \- SOPHIE Remix](https://open.spotify.com/track/1CUCnTJVZy68TS34DX6kCx) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9), [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Joyful Death](https://open.spotify.com/album/37RBUO05YPPvrIHcEst8Kg) | 4:18 |
+| 33 | [Guud Gurls](https://open.spotify.com/track/6yTAycvx2hDqGYerNaphfI) | [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX), [Kzn](https://open.spotify.com/artist/0RycZwNOoEzo6mh88IKFQW) | [Hott Boyz](https://open.spotify.com/album/1Um9iDs4Iicg0mwa67yqDV) | 3:10 |
 | 34 | [Boy U Nasty](https://open.spotify.com/track/4aVEsdnZrP2borAsVin48m) | [Jensen Interceptor](https://open.spotify.com/artist/30eE9RmXxzCcZKTf4N2O0e), [DJ Fuckoff](https://open.spotify.com/artist/47fPXXrqnkQcaQ951UA3cm) | [Dance Trax, Vol\. 36](https://open.spotify.com/album/3PanJjGGUoTU6PH9y3S1PT) | 5:32 |
 | 35 | [Cunty \- Wave Edit](https://open.spotify.com/track/5Dy9iOGAYzppHgWcLzZSBe) | [Kevin Aviance](https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ) | [Box of Chocolates](https://open.spotify.com/album/1iIC7QKwsTtWNRV7NxfrK5) | 4:17 |
 | 36 | [Sick Bitch](https://open.spotify.com/track/7FfPZEeRpDjisWER6xohdV) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Sick Bitch](https://open.spotify.com/album/05DFlfUTOkmIKQJVtAD6ZC) | 4:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 49 | [Put Cha Back In It](https://open.spotify.com/track/5PYxnArK4wlkX5qYENV5Ac) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Vibrate EP](https://open.spotify.com/album/4Z7nLkNRHfL3RRAqECtTEe) | 2:08 |
 | 50 | [Grab Dat Ass All Night](https://open.spotify.com/track/6SKDs0q95ZpmiVot0UYPVC) | [Kiddy.Wav](https://open.spotify.com/artist/4a0aeeAMBaJthFkE2A5QBW), [YTP](https://open.spotify.com/artist/1Y7DmQJicuaVo1OeQOWn6S) | [Level up My Skills](https://open.spotify.com/album/3hO7708tej9BhxYRzcsj4x) | 4:29 |
 
-Snapshot ID: `MCxmNjUzNmI4NzI5Y2NjYTM0YTUxNThiNDg0NGQ5MWMzYjI5ZjY1YmI5`
+Snapshot ID: `MCw0MGU2MmI0NjRiNDQ4ZmFmYmMyNTgxYmQzOGE0MWIxMzA1YTMxZjBh`

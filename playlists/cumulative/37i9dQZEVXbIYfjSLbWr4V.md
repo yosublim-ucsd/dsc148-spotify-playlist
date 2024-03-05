@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belarus.
 
-88 songs - 3 hr 59 min
+89 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Лиза](https://open.spotify.com/track/69E0PXED6MvClnqED4d7f5) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3), [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Hate Love](https://open.spotify.com/album/5UKIxEdQDFQztvCEfK5QME) | 3:00 | 2024-01-29 |  |
 | [Мефистофель](https://open.spotify.com/track/6hqHMxZAXwS2FqwmluUSi3) | [5mewmet](https://open.spotify.com/artist/6M09SBwYD0F13PjIavxbih) | [Кетаминовая Яма 2](https://open.spotify.com/album/4HPtCceldRKrNLeJcBuSWk) | 1:26 | 2024-01-29 | 2024-03-01 |
 | [Мечты](https://open.spotify.com/track/48Mtf0Vuc3H7yI56Iz1OhU) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [FEDUK](https://open.spotify.com/artist/3EsjO0y0DE1GC453Sgyr7Z), [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg) | [AA LANGUAGE 2](https://open.spotify.com/album/7IvfbDBurAnYpUC0w1h1Na) | 1:50 | 2024-01-29 | 2024-02-18 |
+| [Можно я с тобой](https://open.spotify.com/track/2KlFcj8nBHh4VSg7lkQOqJ) | [AP$ENT](https://open.spotify.com/artist/6oiinpr7kwRmyWKVDTZgRT) | [Можно я с тобой](https://open.spotify.com/album/2v232fMW91TYINJUwtgwOB) | 2:12 | 2024-03-04 |  |
 | [На заре](https://open.spotify.com/track/4qlMFQs9oEp5bVxERhTZBU) | [Basta](https://open.spotify.com/artist/7as5DY4Rz9jac9tgoTrj9H) | [На заре](https://open.spotify.com/album/0L83BLsfw7ftALYjVcOYmf) | 5:06 | 2024-01-29 | 2024-02-29 |
 | [Не нужна](https://open.spotify.com/track/7IBHaN90t8OfkC6XHnfLj9) | [Heronwater](https://open.spotify.com/artist/6694OnEnGJ9QPSS9q7Bu33) | [4 MONTHS NO SMOKE](https://open.spotify.com/album/1jZ1JncQIdNtRofQEhrMkf) | 2:40 | 2024-03-02 | 2024-03-04 |
 | [немерено](https://open.spotify.com/track/6KRiMyT78RNeatgjnI7sPM) | [лампабикт](https://open.spotify.com/artist/5guNMQUAnAosad9G9wVjoW), [Элли на маковом поле](https://open.spotify.com/artist/6mlRoShVf1DHo0SsntzTkr) | [добраться до него](https://open.spotify.com/album/5ApMHZ83bd5lLH02pPGRIN) | 3:24 | 2024-02-05 |  |
@@ -73,7 +74,7 @@
 | [последнее лето](https://open.spotify.com/track/0K5arhAxYWj7QxFhpKJe6z) | [ooes](https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM) | [мои \(твои\) тёмные желания](https://open.spotify.com/album/4nIqE64E4RzPqiOerVdI01) | 2:17 | 2024-01-29 |  |
 | [Прощание](https://open.spotify.com/track/1nginMHZwOYjtYDndhCeY2) | [Три дня дождя](https://open.spotify.com/artist/5q1NzLZwErZ9ujzqZKL0YZ), [MONA](https://open.spotify.com/artist/791r7uYF9uUkMi7yBveXBj) | [melancholia](https://open.spotify.com/album/4zuWO3wSh815WtZ4aqyWdi) | 3:56 | 2024-01-29 |  |
 | [Пыяла](https://open.spotify.com/track/1nZHWDoDoP0Dtgup8jTW2u) | [AIGEL](https://open.spotify.com/artist/1gpjSKJC0UekvhaI8fAcoq) | [Пыяла](https://open.spotify.com/album/4QgrwWHm4ivBW2c0p1aUU0) | 3:30 | 2024-01-29 | 2024-02-13 |
-| [Пьяный дождь](https://open.spotify.com/track/5BFADKJgtL2eZ4XZJq8zEc) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Малый повзрослел, Ч\. 2](https://open.spotify.com/album/3iKJSrtfk7d5XjhfYp46RB) | 3:15 | 2024-02-22 |  |
+| [Пьяный дождь](https://open.spotify.com/track/5BFADKJgtL2eZ4XZJq8zEc) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Малый повзрослел, Ч\. 2](https://open.spotify.com/album/3iKJSrtfk7d5XjhfYp46RB) | 3:15 | 2024-02-22 | 2024-03-05 |
 | [Разноцветные таблетки](https://open.spotify.com/track/1Za23uNH9LP4gcflnvAGCE) | [5mewmet](https://open.spotify.com/artist/6M09SBwYD0F13PjIavxbih) | [Кетаминовая яма](https://open.spotify.com/album/6z5gnL9E2kbHV0A7nJ3SIP) | 1:57 | 2024-01-29 |  |
 | [Самый лучший день](https://open.spotify.com/track/6aZw4hMz6ZZqjALf0GAbKy) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ) | [Эскапист](https://open.spotify.com/album/0QbaRQInDgZOAjogD0Ku7V) | 1:33 | 2024-01-29 |  |
 | [СЕЙЧАС](https://open.spotify.com/track/6HVQNzaVnJdreqdaezdD39) | [NEWLIGHTCHILD](https://open.spotify.com/artist/6OYItdfhVXpz16ZvpFq7Uh) | [IN MY DNA](https://open.spotify.com/album/1iccPHXLRk2mRsdqf2dfke) | 1:39 | 2024-01-29 |  |

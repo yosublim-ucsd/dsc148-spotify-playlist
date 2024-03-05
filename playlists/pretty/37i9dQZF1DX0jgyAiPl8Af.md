@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 
 > Unwind to these calm classical guitar pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,038,466 likes - 306 songs - 13 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,038,630 likes - 306 songs - 13 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -315,4 +315,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 | 305 | [Mond Stille](https://open.spotify.com/track/4R5W9Oq91uYpal40VdTGTl) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Mond Stille](https://open.spotify.com/album/3Uil3hqZzTEUHRVZ9aBE9Y) | 2:51 |
 | 306 | [Stando Solo](https://open.spotify.com/track/2kPLnIedP1tABSr0zwJwL3) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Stando Solo](https://open.spotify.com/album/5KXSQosrVZTcDVYf1N78G1) | 2:36 |
 
-Snapshot ID: `MCxhY2FmMDJjMjQxYTIxZDRhODkzYTViNDVlMzg1MzYxZjkzZDE5OTk4`
+Snapshot ID: `MCxkYjk5Yjk5ZDk2NmM1NTkxYmUwZjFiNzA3Y2NjMWRlNWE2MzNhODUw`

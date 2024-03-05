@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rPSy.md) - [plain]
 
 > This is Pedro Suárez\-Vértiz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,278 likes - 45 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,276 likes - 45 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rPSy.md) - [plain]
 | 44 | [El Bailador](https://open.spotify.com/track/5Oz2k5OlgGNiB8O8flFdDG) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas \(Uncut\)](https://open.spotify.com/album/7BjsgXmi5ZPl2rT30HLFs8) | 4:33 |
 | 45 | [Estoy cansado de llorar](https://open.spotify.com/track/0F56YBp7upYaoHaN4VfzMn) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 3:35 |
 
-Snapshot ID: `Mjg0OTExMzksMDAwMDAwMDA2M2Q1YzliMmNhMWNmYmE2ZTc3YjM0YmVlZmQ3MTE0Yg==`
+Snapshot ID: `Mjg0OTI1NjksMDAwMDAwMDA0ZDQwZjU1Y2JkODhiMjNiOGIyMDMwNzBjZWJmNmUzNg==`

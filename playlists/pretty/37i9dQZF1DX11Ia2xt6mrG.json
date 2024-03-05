@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Jasiel Nu\u00f1ez en portada.",
-  "num_followers": 56263,
+  "num_followers": 56269,
   "original_name": "madEDM\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYmQ2NTdhMzhmZWJmZjQxZjg2MWJlYWEyN2FlMGRhZmE5NjE2Yzhl",
+  "snapshot_id": "MCxiOWQyZWE3MjQ2YTJmODM1MmJjMmMxNjI0Y2RlMDMxZmE1ZjVkM2Nh",
   "tracks": [
     {
       "added_at": "2024-03-01 19:13:33",
@@ -175,38 +175,6 @@
     {
       "added_at": "2024-03-01 19:13:33",
       "album": {
-        "name": "DLUX",
-        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 140735,
-      "name": "HOUSE OF LUX",
-      "url": "https://open.spotify.com/track/3CU1qWV0h0PvWXQg71YUoo"
-    },
-    {
-      "added_at": "2024-03-01 19:13:33",
-      "album": {
-        "name": "ADICTO",
-        "url": "https://open.spotify.com/album/4AGy5HEITh2mxlmGnswNyE"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "ADICTO",
-      "url": "https://open.spotify.com/track/2KHyLUWCECWuTmy19158HN"
-    },
-    {
-      "added_at": "2024-03-01 19:13:33",
-      "album": {
         "name": "Bien Loco",
         "url": "https://open.spotify.com/album/4ZmFdjdojnPfXISVRDgCeA"
       },
@@ -235,6 +203,22 @@
     {
       "added_at": "2024-03-01 19:13:33",
       "album": {
+        "name": "ADICTO",
+        "url": "https://open.spotify.com/album/4AGy5HEITh2mxlmGnswNyE"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "ADICTO",
+      "url": "https://open.spotify.com/track/2KHyLUWCECWuTmy19158HN"
+    },
+    {
+      "added_at": "2024-03-01 19:13:33",
+      "album": {
         "name": "Afuera Que Tengan Miedo (Jayrick Remix)",
         "url": "https://open.spotify.com/album/3Oxo5otS6sHMaa06uPUGxp"
       },
@@ -251,30 +235,6 @@
       "duration_ms": 166110,
       "name": "Afuera Que Tengan Miedo - Jayrick Remix",
       "url": "https://open.spotify.com/track/3Sualy9gkVDHDgOKcTJgFd"
-    },
-    {
-      "added_at": "2024-03-01 19:13:33",
-      "album": {
-        "name": "La Ni\u00f1a del Volc\u00e1n (Polocorp Remix)",
-        "url": "https://open.spotify.com/album/4uQdPn1drtbUwDoYKfw99n"
-      },
-      "artists": [
-        {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        },
-        {
-          "name": "Polocorp",
-          "url": "https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ"
-        }
-      ],
-      "duration_ms": 324556,
-      "name": "La Ni\u00f1a del Volc\u00e1n (Polocorp Remix)",
-      "url": "https://open.spotify.com/track/0aw4Dcu2XxEuLtXaepPTEA"
     },
     {
       "added_at": "2024-03-01 19:13:33",
@@ -299,22 +259,6 @@
     {
       "added_at": "2024-03-01 19:13:33",
       "album": {
-        "name": "La Diabla (Electro Remix)",
-        "url": "https://open.spotify.com/album/0Sf5WOcZk8n9NIgp2LmrKa"
-      },
-      "artists": [
-        {
-          "name": "8onthebeat",
-          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
-        }
-      ],
-      "duration_ms": 136477,
-      "name": "La Diabla (Electro Remix)",
-      "url": "https://open.spotify.com/track/6ZZ4I66vS4x4arMNwBht2m"
-    },
-    {
-      "added_at": "2024-03-01 19:13:33",
-      "album": {
         "name": "Sin Dormir (Ya Se Arm\u00f3)",
         "url": "https://open.spotify.com/album/1hwx8Kmagl1ZUYic1dK46A"
       },
@@ -335,6 +279,38 @@
     {
       "added_at": "2024-03-01 19:13:33",
       "album": {
+        "name": "DLUX",
+        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 140735,
+      "name": "HOUSE OF LUX",
+      "url": "https://open.spotify.com/track/3CU1qWV0h0PvWXQg71YUoo"
+    },
+    {
+      "added_at": "2024-03-01 19:13:33",
+      "album": {
+        "name": "La Diabla (Electro Remix)",
+        "url": "https://open.spotify.com/album/0Sf5WOcZk8n9NIgp2LmrKa"
+      },
+      "artists": [
+        {
+          "name": "8onthebeat",
+          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
+        }
+      ],
+      "duration_ms": 136477,
+      "name": "La Diabla (Electro Remix)",
+      "url": "https://open.spotify.com/track/6ZZ4I66vS4x4arMNwBht2m"
+    },
+    {
+      "added_at": "2024-03-01 19:13:33",
+      "album": {
         "name": "Alucina2",
         "url": "https://open.spotify.com/album/2hrlJjc9jmA4fy9olFThQm"
       },
@@ -347,6 +323,30 @@
       "duration_ms": 133793,
       "name": "Alucina2",
       "url": "https://open.spotify.com/track/44Wu7JwP8ZjdSOFwxTRZZB"
+    },
+    {
+      "added_at": "2024-03-01 19:13:33",
+      "album": {
+        "name": "La Ni\u00f1a del Volc\u00e1n (Polocorp Remix)",
+        "url": "https://open.spotify.com/album/4uQdPn1drtbUwDoYKfw99n"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        },
+        {
+          "name": "Polocorp",
+          "url": "https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ"
+        }
+      ],
+      "duration_ms": 324556,
+      "name": "La Ni\u00f1a del Volc\u00e1n (Polocorp Remix)",
+      "url": "https://open.spotify.com/track/0aw4Dcu2XxEuLtXaepPTEA"
     },
     {
       "added_at": "2024-03-01 19:13:33",
@@ -635,6 +635,26 @@
     {
       "added_at": "2024-03-01 19:13:33",
       "album": {
+        "name": "Winter",
+        "url": "https://open.spotify.com/album/6lUdjya8BnAVg2mIF6tOuS"
+      },
+      "artists": [
+        {
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        },
+        {
+          "name": "Flakk\u00eb",
+          "url": "https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1"
+        }
+      ],
+      "duration_ms": 144500,
+      "name": "Winter",
+      "url": "https://open.spotify.com/track/5DLust6tLTz5uyaTPhbu7r"
+    },
+    {
+      "added_at": "2024-03-01 19:13:33",
+      "album": {
         "name": "MASERATI",
         "url": "https://open.spotify.com/album/2vuyDqJLFKQIfGS0n4Zu3q"
       },
@@ -671,46 +691,6 @@
     {
       "added_at": "2024-03-01 19:13:33",
       "album": {
-        "name": "Ibiza",
-        "url": "https://open.spotify.com/album/0iwqxPcjXrCe9XtjIQNdLS"
-      },
-      "artists": [
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        },
-        {
-          "name": "Mario Bautista",
-          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
-        }
-      ],
-      "duration_ms": 204213,
-      "name": "Ibiza",
-      "url": "https://open.spotify.com/track/3VK6cgdLWEBP7ZMxQJnhRX"
-    },
-    {
-      "added_at": "2024-03-01 19:13:33",
-      "album": {
-        "name": "Winter",
-        "url": "https://open.spotify.com/album/6lUdjya8BnAVg2mIF6tOuS"
-      },
-      "artists": [
-        {
-          "name": "Mariana BO",
-          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
-        },
-        {
-          "name": "Flakk\u00eb",
-          "url": "https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1"
-        }
-      ],
-      "duration_ms": 144500,
-      "name": "Winter",
-      "url": "https://open.spotify.com/track/5DLust6tLTz5uyaTPhbu7r"
-    },
-    {
-      "added_at": "2024-03-01 19:13:33",
-      "album": {
         "name": "Franca Barona",
         "url": "https://open.spotify.com/album/4wOs4oZxujsDhiUI436gOL"
       },
@@ -731,6 +711,50 @@
       "duration_ms": 215294,
       "name": "Franca Barona",
       "url": "https://open.spotify.com/track/29cUhxuaujLL63aQ7yQrtD"
+    },
+    {
+      "added_at": "2024-03-01 19:13:33",
+      "album": {
+        "name": "Ibiza",
+        "url": "https://open.spotify.com/album/0iwqxPcjXrCe9XtjIQNdLS"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        }
+      ],
+      "duration_ms": 204213,
+      "name": "Ibiza",
+      "url": "https://open.spotify.com/track/3VK6cgdLWEBP7ZMxQJnhRX"
+    },
+    {
+      "added_at": "2024-03-01 19:13:33",
+      "album": {
+        "name": "Light Up",
+        "url": "https://open.spotify.com/album/60V9UD3ADGAYxafKbeHiZc"
+      },
+      "artists": [
+        {
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        },
+        {
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+        },
+        {
+          "name": "Crooked Bangs",
+          "url": "https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu"
+        }
+      ],
+      "duration_ms": 161378,
+      "name": "Light Up",
+      "url": "https://open.spotify.com/track/3WxbeGN19v2MGGbHBvHxFF"
     },
     {
       "added_at": "2024-03-01 19:13:33",
@@ -775,26 +799,6 @@
     {
       "added_at": "2024-03-01 19:13:33",
       "album": {
-        "name": "CLI CLI Clan Clan",
-        "url": "https://open.spotify.com/album/7CyIk7mlvZK9F5AFggoRWH"
-      },
-      "artists": [
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        },
-        {
-          "name": "Potencia Lirical",
-          "url": "https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb"
-        }
-      ],
-      "duration_ms": 259306,
-      "name": "CLI CLI Clan Clan",
-      "url": "https://open.spotify.com/track/5xLrfv3GK89aV5lL1ger1e"
-    },
-    {
-      "added_at": "2024-03-01 19:13:33",
-      "album": {
         "name": "Pump up the Volume",
         "url": "https://open.spotify.com/album/6lKCdY9YNuLLMNN7FqMHm8"
       },
@@ -835,6 +839,26 @@
     {
       "added_at": "2024-03-01 19:13:33",
       "album": {
+        "name": "CLI CLI Clan Clan",
+        "url": "https://open.spotify.com/album/7CyIk7mlvZK9F5AFggoRWH"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "Potencia Lirical",
+          "url": "https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb"
+        }
+      ],
+      "duration_ms": 259306,
+      "name": "CLI CLI Clan Clan",
+      "url": "https://open.spotify.com/track/5xLrfv3GK89aV5lL1ger1e"
+    },
+    {
+      "added_at": "2024-03-01 19:13:33",
+      "album": {
         "name": "Push Me",
         "url": "https://open.spotify.com/album/3P5litolcBSrBCXCOijk0A"
       },
@@ -859,46 +883,6 @@
     {
       "added_at": "2024-03-01 19:13:33",
       "album": {
-        "name": "Light Up",
-        "url": "https://open.spotify.com/album/60V9UD3ADGAYxafKbeHiZc"
-      },
-      "artists": [
-        {
-          "name": "Mariana BO",
-          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
-        },
-        {
-          "name": "Jerome",
-          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
-        },
-        {
-          "name": "Crooked Bangs",
-          "url": "https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu"
-        }
-      ],
-      "duration_ms": 161378,
-      "name": "Light Up",
-      "url": "https://open.spotify.com/track/3WxbeGN19v2MGGbHBvHxFF"
-    },
-    {
-      "added_at": "2024-03-01 19:13:33",
-      "album": {
-        "name": "Petricor",
-        "url": "https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        }
-      ],
-      "duration_ms": 204427,
-      "name": "Petricor",
-      "url": "https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m"
-    },
-    {
-      "added_at": "2024-03-01 19:13:33",
-      "album": {
         "name": "Everybody Salsa (Andruss Remix)",
         "url": "https://open.spotify.com/album/3rB2Q1jUcu5wgnwbjXxemw"
       },
@@ -919,6 +903,22 @@
     {
       "added_at": "2024-03-01 19:13:33",
       "album": {
+        "name": "Petricor",
+        "url": "https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "duration_ms": 204427,
+      "name": "Petricor",
+      "url": "https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m"
+    },
+    {
+      "added_at": "2024-03-01 19:13:33",
+      "album": {
         "name": "CONTACTO CERO",
         "url": "https://open.spotify.com/album/4KFLmLBQURkxyttCbReLFT"
       },
@@ -931,22 +931,6 @@
       "duration_ms": 186240,
       "name": "CONTACTO CERO",
       "url": "https://open.spotify.com/track/5kBYUqRt6XO3cvDfTs80yH"
-    },
-    {
-      "added_at": "2024-03-01 19:13:33",
-      "album": {
-        "name": "Back To You",
-        "url": "https://open.spotify.com/album/4ziNF7cZ5W49BUHBNLyB1f"
-      },
-      "artists": [
-        {
-          "name": "Iker Azcu\u00e9",
-          "url": "https://open.spotify.com/artist/0Jys4stNQNQIGfNUsm1sJp"
-        }
-      ],
-      "duration_ms": 171707,
-      "name": "Back To You",
-      "url": "https://open.spotify.com/track/2QFiBCEWlCAjMeuqC4Qmbb"
     },
     {
       "added_at": "2024-03-01 19:13:33",
@@ -967,6 +951,22 @@
       "duration_ms": 137740,
       "name": "Trago a Trago",
       "url": "https://open.spotify.com/track/48r5CHCLJ23EKEGZnUBqXZ"
+    },
+    {
+      "added_at": "2024-03-01 19:13:33",
+      "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/4ziNF7cZ5W49BUHBNLyB1f"
+      },
+      "artists": [
+        {
+          "name": "Iker Azcu\u00e9",
+          "url": "https://open.spotify.com/artist/0Jys4stNQNQIGfNUsm1sJp"
+        }
+      ],
+      "duration_ms": 171707,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/2QFiBCEWlCAjMeuqC4Qmbb"
     },
     {
       "added_at": "2024-03-01 19:13:33",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-03-01 19:13:33",
       "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/6Tpqc6l5IldSvPwXXe6hXH"
+      },
+      "artists": [
+        {
+          "name": "Chela Rivas",
+          "url": "https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/55OQy8slZ9Y74xWUvysJEq"
+    },
+    {
+      "added_at": "2024-03-01 19:13:33",
+      "album": {
         "name": "Deep Lies",
         "url": "https://open.spotify.com/album/48n5az0Eky1MyA3LQMNRLz"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 205460,
       "name": "Deep Lies",
       "url": "https://open.spotify.com/track/1uzLk7oQmjOcH1qtexmNXM"
-    },
-    {
-      "added_at": "2024-03-01 19:13:33",
-      "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/6Tpqc6l5IldSvPwXXe6hXH"
-      },
-      "artists": [
-        {
-          "name": "Chela Rivas",
-          "url": "https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/55OQy8slZ9Y74xWUvysJEq"
     },
     {
       "added_at": "2024-03-01 19:13:33",

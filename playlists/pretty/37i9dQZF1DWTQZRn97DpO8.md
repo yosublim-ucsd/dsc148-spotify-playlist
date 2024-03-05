@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > Quand R&B francophone rime avec douceur 🍯\. Photo : Dadju x Tayc
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,140 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,171 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 49 | [Sois Pas Pressé](https://open.spotify.com/track/6MC1N4HYZJMKLj0H5deTgR) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E), [Lossapardo](https://open.spotify.com/artist/6amhIkFAweDp9aQ8FKQ606) | [HOUSE OF GROOVE](https://open.spotify.com/album/0SAEMNzphsLut3Z5OZlmAo) | 2:45 |
 | 50 | [C'est Quoi L'Amour \(Bonus Track\)](https://open.spotify.com/track/4QtdyYeurYaa6cI2EgRAUh) | [PabloSantana](https://open.spotify.com/artist/0Dm69cwhC8KXo5950bqTth) | [C'est Quoi L'Amour](https://open.spotify.com/album/3Mw8mbS3mtLfmjBg0lGRPj) | 1:05 |
 
-Snapshot ID: `MCxkOTk5NGZjY2EyZmQzYjYyN2EwNzFmOWI3MmMwMTA3ZWY5Njg2NTNm`
+Snapshot ID: `MCw1ZTdjZjYwNWRjZGU2MDc3ZGQwYWE5ZmE1YjU0YWQwMjRjYTc3YThk`

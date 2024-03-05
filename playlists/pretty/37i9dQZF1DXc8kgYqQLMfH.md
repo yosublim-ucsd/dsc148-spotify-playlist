@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > The chillest instrumental lofi beats, certified lush.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,017,969 likes - 400 songs - 15 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,018,011 likes - 400 songs - 15 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 69 | [Diving In](https://open.spotify.com/track/34rgBVC2wMRJcP5xQd03zQ) | [FREJA](https://open.spotify.com/artist/3PsElXP6TTwUalgNPiyyzH) | [Diving In](https://open.spotify.com/album/52oZVRf4u0aaIi813gKfC8) | 1:56 |
 | 70 | [Tough Night](https://open.spotify.com/track/4qzBVxq0XSjUuqWTEu5QON) | [Paxkalito](https://open.spotify.com/artist/3GzNXHI7uiWVe0TnkUvP0f), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Tough Night](https://open.spotify.com/album/61qouf83vvQBSFpHUXGZkN) | 2:13 |
 | 71 | [New Hope](https://open.spotify.com/track/0K1f1EUIFTSrxn07fsbiWH) | [paris91](https://open.spotify.com/artist/0IF1xUEFhGXZ7zz8BW1zqv), [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [New Hope](https://open.spotify.com/album/6vnOs7e9fVIrqFoIbMSblB) | 1:30 |
-| 72 | [Moonlit Moments](https://open.spotify.com/track/4B0wlzgM5OqAZJ2GpQmyF2) | [Mig Palmer](https://open.spotify.com/artist/71xp4bzwr88dkz3t8vTL3Y) | [Moonlit Moments](https://open.spotify.com/album/4xnqvzypvNBDttQa70MqI5) | 3:08 |
-| 73 | [Caramel Rain](https://open.spotify.com/track/7rH4Wp2iuM6ev0JiKMMor2) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Caramel Rain](https://open.spotify.com/album/0S70kHbPUwUZ1xecPGveBx) | 3:12 |
-| 74 | [cicada](https://open.spotify.com/track/2oUg0uJXtNDownLGl6ElWk) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [cicada](https://open.spotify.com/album/4OJbgFW3kP1feBf35xOK2I) | 2:07 |
+| 72 | [cicada](https://open.spotify.com/track/2oUg0uJXtNDownLGl6ElWk) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [cicada](https://open.spotify.com/album/4OJbgFW3kP1feBf35xOK2I) | 2:07 |
+| 73 | [Moonlit Moments](https://open.spotify.com/track/4B0wlzgM5OqAZJ2GpQmyF2) | [Mig Palmer](https://open.spotify.com/artist/71xp4bzwr88dkz3t8vTL3Y) | [Moonlit Moments](https://open.spotify.com/album/4xnqvzypvNBDttQa70MqI5) | 3:08 |
+| 74 | [Caramel Rain](https://open.spotify.com/track/7rH4Wp2iuM6ev0JiKMMor2) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Caramel Rain](https://open.spotify.com/album/0S70kHbPUwUZ1xecPGveBx) | 3:12 |
 | 75 | [Sudden Change](https://open.spotify.com/track/5Afsgt5QEt2aKPRplLfr6T) | [Lonely Joyman](https://open.spotify.com/artist/4UZYBPHjHcnzMuyBFMFaWn) | [A Bit of Colour](https://open.spotify.com/album/0crbtKJilhMawp13NZej5d) | 1:53 |
 | 76 | [no stress](https://open.spotify.com/track/0lYQNQEUcPIIpiAo00x58l) | [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [no stress](https://open.spotify.com/album/00IcnpcG1Kqt7RhCRUlwiy) | 2:21 |
 | 77 | [Cat got your tounge?](https://open.spotify.com/track/1u0lPVq0naAv4sgvmiyzBU) | [Art Vandeley](https://open.spotify.com/artist/6aHekjqSdW1DwredIrNAWE) | [Cat got your tounge?](https://open.spotify.com/album/5xnWUOGjrQcJ8pTLINab9G) | 2:18 |
@@ -258,9 +258,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 248 | [Eagle](https://open.spotify.com/track/7y59bf74fnWo54y3cSLBvx) | [Gloomey](https://open.spotify.com/artist/3kafjFk7KJTmHzXwOJLOUr) | [Eagle](https://open.spotify.com/album/4azzrrmrAvjDiRIk3ZZCEj) | 3:10 |
 | 249 | [Vortex.](https://open.spotify.com/track/3l7UqpS6fuxwkzAyhQPRro) | [Sakloma24](https://open.spotify.com/artist/6PkzYxQ7Bae6IJyyhkPhmf) | [Vortex.](https://open.spotify.com/album/3Pk7tN2fVNO9w4GtxqwqZC) | 1:41 |
 | 250 | [Winter Soul](https://open.spotify.com/track/01IfLAw67VFYpmB0lslHES) | [Kwaii Fong](https://open.spotify.com/artist/2XiGTV6HOhZc4D5ymPxWP4), [Chiljalo](https://open.spotify.com/artist/5FshA6iHVcvQYwaPafaWjO) | [Winter Soul](https://open.spotify.com/album/4PpQFyOT9iqYP24jab6YB8) | 2:13 |
-| 251 | [Anana](https://open.spotify.com/track/4TY0F64NzsNguy8p0I2Nge) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Awaken](https://open.spotify.com/album/00TkOdiVZHMhk7HCPkTVJI) | 3:21 |
-| 252 | [Sentiments](https://open.spotify.com/track/2mQCa3gG08fDumvEQ5kaMx) | [1930](https://open.spotify.com/artist/04qLskUo3x0vMixvZxCK78) | [Sentiments](https://open.spotify.com/album/458JoR5Xzo1cNuH9GfOJiL) | 2:16 |
-| 253 | [timelines](https://open.spotify.com/track/2LjJ2TIZe9mz4POiqUyxif) | [rec.X](https://open.spotify.com/artist/128lWCKxWAbFjrQaTDviJt) | [timelines](https://open.spotify.com/album/4v2m6YNbwMtzWDPo4uav5N) | 2:04 |
+| 251 | [timelines](https://open.spotify.com/track/2LjJ2TIZe9mz4POiqUyxif) | [rec.X](https://open.spotify.com/artist/128lWCKxWAbFjrQaTDviJt) | [timelines](https://open.spotify.com/album/4v2m6YNbwMtzWDPo4uav5N) | 2:04 |
+| 252 | [Anana](https://open.spotify.com/track/4TY0F64NzsNguy8p0I2Nge) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Awaken](https://open.spotify.com/album/00TkOdiVZHMhk7HCPkTVJI) | 3:21 |
+| 253 | [Sentiments](https://open.spotify.com/track/2mQCa3gG08fDumvEQ5kaMx) | [1930](https://open.spotify.com/artist/04qLskUo3x0vMixvZxCK78) | [Sentiments](https://open.spotify.com/album/458JoR5Xzo1cNuH9GfOJiL) | 2:16 |
 | 254 | [Superpuma](https://open.spotify.com/track/5hPil4ReWu21w1f9sWtE23) | [Lofi Lucy](https://open.spotify.com/artist/2oIGzku5w8Rj3SOFLhShBO) | [Superpuma](https://open.spotify.com/album/1ZcF39I2TcC5aecOitniNt) | 1:36 |
 | 255 | [Trust The Process](https://open.spotify.com/track/5MGfz3UqFqGEDZSAAmTbwq) | [Wine In Dusk](https://open.spotify.com/artist/6Lng7clMQAuyT3p8nmrwiM) | [Disculpe](https://open.spotify.com/album/1FaY8MFaHoENsjtyNvoOwA) | 2:23 |
 | 256 | [Osaka Station](https://open.spotify.com/track/3TS4AvOHtcfmQTDGmfKrVW) | [Naguro](https://open.spotify.com/artist/2sb7MQ0rQV3QZvrj6Ur4wf) | [Osaka Station](https://open.spotify.com/album/2F2Sr7x7Obf1PRZZeZ2RqA) | 1:49 |
@@ -337,9 +337,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 327 | [Infatuation](https://open.spotify.com/track/3UY75fys1T1zWADWQAs96z) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Infatuation](https://open.spotify.com/album/4zZKMPFyShYfoE0Jv8XepT) | 1:20 |
 | 328 | [galaxy](https://open.spotify.com/track/1o3ICKADlgDR7HzkvOZVP4) | [s t r o b e](https://open.spotify.com/artist/5TfuBYzx9YHjTXKfH1iVTD) | [galaxy](https://open.spotify.com/album/5Gg4NNgSAZ4tLKxGlgzYig) | 2:19 |
 | 329 | [Waterdrops](https://open.spotify.com/track/6L2KTK95SrQS5i9ABx4UPI) | [Starlies](https://open.spotify.com/artist/3ZXBbe1WF1PfwggpEOcips) | [Waterdrops](https://open.spotify.com/album/7GeRBSqW9GZRVXrJzWXwu6) | 2:09 |
-| 330 | [Endless Trial](https://open.spotify.com/track/6khoEFdFHEJvKpEqjscyXc) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [Endless Trial](https://open.spotify.com/album/2X5s9BJcQ3kWg3eMr9sIiI) | 1:48 |
-| 331 | [patterns](https://open.spotify.com/track/0sqx1hG3HTw8i4iGw1r4WQ) | [Clocktown Stars](https://open.spotify.com/artist/41tAquCucBUKN6L1xeMWns) | [patterns](https://open.spotify.com/album/0y6cc9xjMT1sU5QtgE7q8r) | 2:33 |
-| 332 | [Visible](https://open.spotify.com/track/7Lj2cHb4DvsDpSAcrr9Zus) | [Low North](https://open.spotify.com/artist/7dsHZcxivdGr4WaGhUtj7g), [Goldusk](https://open.spotify.com/artist/1vhLM6xIiTjnhzb54G7lXc) | [Visible](https://open.spotify.com/album/5wtqTy6W9ENwOjqzBdHJtv) | 1:45 |
+| 330 | [patterns](https://open.spotify.com/track/0sqx1hG3HTw8i4iGw1r4WQ) | [Clocktown Stars](https://open.spotify.com/artist/41tAquCucBUKN6L1xeMWns) | [patterns](https://open.spotify.com/album/0y6cc9xjMT1sU5QtgE7q8r) | 2:33 |
+| 331 | [Visible](https://open.spotify.com/track/7Lj2cHb4DvsDpSAcrr9Zus) | [Low North](https://open.spotify.com/artist/7dsHZcxivdGr4WaGhUtj7g), [Goldusk](https://open.spotify.com/artist/1vhLM6xIiTjnhzb54G7lXc) | [Visible](https://open.spotify.com/album/5wtqTy6W9ENwOjqzBdHJtv) | 1:45 |
+| 332 | [Endless Trial](https://open.spotify.com/track/6khoEFdFHEJvKpEqjscyXc) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [Endless Trial](https://open.spotify.com/album/2X5s9BJcQ3kWg3eMr9sIiI) | 1:48 |
 | 333 | [plastic flowers](https://open.spotify.com/track/6i0C20TvKja1NUOmFvkpE2) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [plastic flowers](https://open.spotify.com/album/21hQzh3cGzCmBcf5IL3pN6) | 3:36 |
 | 334 | [Monstera](https://open.spotify.com/track/66RNv89kzel0rASLTJBEMr) | [Olivia Bree](https://open.spotify.com/artist/5NhOlx5kRUSoXTwC01W6kl) | [Monstera](https://open.spotify.com/album/0Mt6UMiO30Ayt1kgc5dIMp) | 1:50 |
 | 335 | [Cutting Fabric](https://open.spotify.com/track/5EhMnILRFVjUzVXId3yVmE) | [Doubleclique](https://open.spotify.com/artist/4JjFrDwtpM9YKHOchNn8Rx) | [My Bell Bottoms](https://open.spotify.com/album/7f2FppCcGuWNecET0DZXKV) | 3:00 |
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 399 | [Mirage](https://open.spotify.com/track/4wiHqJ6vko9KNaWpwi8IKc) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Mirage](https://open.spotify.com/album/7t4rx6Q0dN2mYIuD9LcXt0) | 2:11 |
 | 400 | [Nesting](https://open.spotify.com/track/1rAr1l1UYqxSjiGLKxQRkV) | [Snake Ritual](https://open.spotify.com/artist/30SIuvvR5UVKlMgTPiyndf) | [Nesting](https://open.spotify.com/album/1sliK69gORXTCCHRhVsQQ9) | 3:00 |
 
-Snapshot ID: `MCxiMDE1MjFhNjhjMTc2N2JjZDQ1ZjQ1NGMzZjhkYjYxNjBmYjAwMDRl`
+Snapshot ID: `MCw2YTBjMjE1OTM4M2M1YTZhNGIyYzljYjQxY2RiYmUwNTczNmYyOTdj`

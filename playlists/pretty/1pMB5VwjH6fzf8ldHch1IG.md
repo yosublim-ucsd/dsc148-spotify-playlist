@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 
 > Stream your favourite trending tracks and discover new jams along the way! Cover: Tate McRae.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 46,155 likes - 60 songs - 3 hr 4 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 46,154 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 | 3 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:55 |
 | 4 | [Doctor \(Work It Out\) \[feat\. Miley Cyrus\]](https://open.spotify.com/track/4f9wNNZET9wH7eMBgONd3d) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Doctor \(Work It Out\) \[feat\. Miley Cyrus\]](https://open.spotify.com/album/2kJunH6dfHcjJa0lxZbRKr) | 3:02 |
 | 5 | [Red Future \(feat\. Electric Fields\)](https://open.spotify.com/track/7nvnmUYiJYbHgGL0MDH7G0) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5), [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [Red Future \(feat\. Electric Fields\)](https://open.spotify.com/album/13zIKYYrCqLwiuphkkgII9) | 3:08 |
-| 6 | [Hard dreams](https://open.spotify.com/track/1sJAQWkZdaJDsPifl1fvOd) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Hard dreams](https://open.spotify.com/album/15kCPeNnhlUuZfKyr1CJuy) | 2:50 |
+| 6 | [Hard dreams](https://open.spotify.com/track/1sJAQWkZdaJDsPifl1fvOd) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP), [Yan Wagner](https://open.spotify.com/artist/7JLtS4ASAUsAYrsShMerMc) | [Hard dreams](https://open.spotify.com/album/15kCPeNnhlUuZfKyr1CJuy) | 2:50 |
 | 7 | [FYS](https://open.spotify.com/track/5IVhQWFgCahKesfuioh4OG) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [FYS](https://open.spotify.com/album/7IKErQGBssaKQHzBxgBuzt) | 3:29 |
 | 8 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 |
 | 9 | [Out Loud](https://open.spotify.com/track/6Yx5Cw2mVmx6LiVP2VXWEO) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Out Loud](https://open.spotify.com/album/2Yoh27G61AmIKH2ubk2RSb) | 3:20 |

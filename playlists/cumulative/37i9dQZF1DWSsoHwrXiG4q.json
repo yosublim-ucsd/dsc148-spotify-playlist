@@ -1647,6 +1647,24 @@
     },
     {
       "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/0QtqpBLIDnD5bty6L0MH0e"
+      },
+      "artists": [
+        {
+          "name": "subtly",
+          "url": "https://open.spotify.com/artist/4zM6zfRn2E1TKUXsh005la"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205203,
+      "name": "One",
+      "url": "https://open.spotify.com/track/6pmsPriyccCsfkojaoV0km"
+    },
+    {
+      "album": {
         "name": "One Thunder",
         "url": "https://open.spotify.com/album/0OMDLmJXkOCZoUiVjffCrj"
       },

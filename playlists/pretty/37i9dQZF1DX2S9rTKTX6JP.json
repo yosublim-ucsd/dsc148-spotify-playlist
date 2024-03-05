@@ -1,12 +1,12 @@
 {
   "description": "killer rock & alternative covers. Cover: Paramore",
-  "num_followers": 671417,
+  "num_followers": 671499,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNThiMWRiMWJjYTRhZDE1NzQyZmM5NTAxMmVlY2Q0MWI2MGM4YTIw",
+  "snapshot_id": "MCwxYzM0NDk5NWQzZGVkYjQzOTU5MDk4Mjg3ZDI5MjFkZDc1YTQ2N2Y1",
   "tracks": [
     {
       "added_at": "2024-02-12 05:08:07",
@@ -335,18 +335,18 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Use Your Illusion I",
-        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS"
       },
       "artists": [
         {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+          "name": "Jeff Buckley",
+          "url": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
         }
       ],
-      "duration_ms": 182733,
-      "name": "Live And Let Die",
-      "url": "https://open.spotify.com/track/0rFWuqFgHAfuzE8uSB9TWR"
+      "duration_ms": 413826,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -383,18 +383,18 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS"
+        "name": "Use Your Illusion I",
+        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
       },
       "artists": [
         {
-          "name": "Jeff Buckley",
-          "url": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 413826,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM"
+      "duration_ms": 182733,
+      "name": "Live And Let Die",
+      "url": "https://open.spotify.com/track/0rFWuqFgHAfuzE8uSB9TWR"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
+        "name": "Age Of Ignorance (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2XGFVYNHi4z3zwd3e2kNO1"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 249411,
+      "name": "Skyfall",
+      "url": "https://open.spotify.com/track/77WO0JSWRfhu0ek3Zp2amk"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/3I7151w5slYCNssX8nmUNL"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 173560,
       "name": "Just Like Heaven",
       "url": "https://open.spotify.com/track/69u4YVuqKoVp3nZmpyxC8I"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
-        "name": "Age Of Ignorance (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2XGFVYNHi4z3zwd3e2kNO1"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 249411,
-      "name": "Skyfall",
-      "url": "https://open.spotify.com/track/77WO0JSWRfhu0ek3Zp2amk"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1763,6 +1763,26 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
+        "name": "Live In Phoenix",
+        "url": "https://open.spotify.com/album/5QFioUfHFxQFKULZli3BTF"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 230306,
+      "name": "Beat It - Studio Version Featuring John Mayer",
+      "url": "https://open.spotify.com/track/0BrgzTEWfI0QZLRJqzJbPa"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
         "name": "Goes to the Movies (Expanded Edition)",
         "url": "https://open.spotify.com/album/4ZgrTd5XdnWWwmfXGJMGAV"
       },
@@ -1811,26 +1831,6 @@
       "duration_ms": 134671,
       "name": "I Think We're Alone Now",
       "url": "https://open.spotify.com/track/6h8QlZzBBnZhF4EkGi8JPr"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
-        "name": "Live In Phoenix",
-        "url": "https://open.spotify.com/album/5QFioUfHFxQFKULZli3BTF"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 230306,
-      "name": "Beat It - Studio Version Featuring John Mayer",
-      "url": "https://open.spotify.com/track/0BrgzTEWfI0QZLRJqzJbPa"
     },
     {
       "added_at": "2024-02-12 05:08:07",

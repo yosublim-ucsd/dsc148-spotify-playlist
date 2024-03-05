@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:7jyr9Co4MKL1iWML1G7vch">Zauntee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,014 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,110 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 86 | [That Ain't It](https://open.spotify.com/track/7rFQRFe1bOVQweyZUBKkqe) | [E.G.R](https://open.spotify.com/artist/4EJIkbig1thbV3C3B68c56), [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [Zee](https://open.spotify.com/artist/0d2diExytbLBj7Ff3FLX9p) | [That Ain't It](https://open.spotify.com/album/4hqUjrpp4zDaZU5CNdAnBV) | 3:39 |
 | 87 | [I <3 NK](https://open.spotify.com/track/7filcsGsjakEFegKUYdgvY) | [Not Klyde](https://open.spotify.com/artist/052Mwr5vCyfzG81pUr19Kw) | [I<3NK](https://open.spotify.com/album/3ESIat87Uty6gIh6eWubJI) | 2:21 |
 | 88 | [Blood On The Doors](https://open.spotify.com/track/7Bj5KsG49mNLnRXylKBKmc) | [Razzie](https://open.spotify.com/artist/3eMYXpbZpFOWTz36jMozU3), [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7), [Gregory Rufus](https://open.spotify.com/artist/3OFEfTZTighDlrrREGYCsS) | [Blood On The Doors](https://open.spotify.com/album/6922R5qYxTzzkEvQ3O4XEA) | 3:18 |
-| 89 | [I Got Time Today](https://open.spotify.com/track/2d1D16AjKX5L63mMYjAf4j) | [International Show](https://open.spotify.com/artist/6iqUZDrDngJ6LIHlJm5BpT), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [I Got Time Today](https://open.spotify.com/album/1mYJiUuB476nfzqmYbcZ1v) | 3:06 |
-| 90 | [Poetic Pain](https://open.spotify.com/track/5y9nqQtwSN06pw53WqU4Uq) | [Coop](https://open.spotify.com/artist/0ivRqHXxL3ghMn0vvs1urP), [Swaizy](https://open.spotify.com/artist/2dMkqn8YOKg6IwN85zo7gL) | [WE MISSED YOU](https://open.spotify.com/album/0Nliq8dA1UudJEOq3UC8Q8) | 2:15 |
+| 89 | [Poetic Pain](https://open.spotify.com/track/5y9nqQtwSN06pw53WqU4Uq) | [Coop](https://open.spotify.com/artist/0ivRqHXxL3ghMn0vvs1urP), [Swaizy](https://open.spotify.com/artist/2dMkqn8YOKg6IwN85zo7gL) | [WE MISSED YOU](https://open.spotify.com/album/0Nliq8dA1UudJEOq3UC8Q8) | 2:15 |
+| 90 | [I Got Time Today](https://open.spotify.com/track/2d1D16AjKX5L63mMYjAf4j) | [International Show](https://open.spotify.com/artist/6iqUZDrDngJ6LIHlJm5BpT), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [I Got Time Today](https://open.spotify.com/album/1mYJiUuB476nfzqmYbcZ1v) | 3:06 |
 | 91 | [Lines Drawn](https://open.spotify.com/track/0ksMUGFdTv6853Jj9d2ISc) | [Dee\-1](https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox) | [Lines Drawn](https://open.spotify.com/album/7mAuU95Sm5byNiQMx4LAQT) | 2:34 |
 | 92 | [Girls Don't Cry \(Gibberish\)](https://open.spotify.com/track/4slzYQ2rU6lcPqBETDLY9y) | [Uninvtd](https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ), [S A I N T](https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN) | [Girls Don't Cry \(Gibberish\)](https://open.spotify.com/album/6ZHLFeiaJgY4lRLWGdE1pj) | 2:55 |
 | 93 | [BETTER THAN YOU](https://open.spotify.com/track/2STMnpnc6UFhRYE0vmxBxN) | [KJ\-52](https://open.spotify.com/artist/0kSHocNBxQeP9pr25l1scP) | [WHATEVER HAPPENED TO KJ\-52?](https://open.spotify.com/album/6D1B9GHaZ4pYWpUnc5KARH) | 2:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 99 | [VINE](https://open.spotify.com/track/1QYDOVoxOV7iEzL43sGj5C) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8), [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr) | [VINE](https://open.spotify.com/album/4d3NC4abLYhsHIkhh4Kg1c) | 3:15 |
 | 100 | [Church](https://open.spotify.com/track/5BDfG3jEUMcKplrlZ9dkQc) | [Oh\-So](https://open.spotify.com/artist/7ocaQvZUclkgl9XUGzxSUG), [Battz](https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI), [Gavin the HotRod](https://open.spotify.com/artist/4PRtvcfM2vKDdLFAyGUMP7) | [Church](https://open.spotify.com/album/21soIvrslEuZD3oHrlKmVU) | 2:48 |
 
-Snapshot ID: `MCxhYmJlYjgyMTg5ZjgyMWE0ZDhhZGIwZDdlNjU5ZjA1MTk3ZTdkMmZh`
+Snapshot ID: `MCw4NDBmNDRmNWJmY2Y0MmJkZmEyNDEyMTIxMDdmYzIyNDk5MDhhYjM5`

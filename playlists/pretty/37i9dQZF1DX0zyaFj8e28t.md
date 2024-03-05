@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 
 > Les plus grands tubes français des années 80\. Photo : Jean\-Jacques Goldman
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,546 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,613 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 | 23 | [T'en va pas](https://open.spotify.com/track/6JCIbXPH5LIawW4NRLvYE8) | [Elsa](https://open.spotify.com/artist/4Uk5eLOfWucThb2X4QLcX1) | [L'essentiel](https://open.spotify.com/album/0jfDIK7wBs6kp2RbEy3iym) | 5:28 |
 | 24 | [Diego libre dans sa tête \- Remasterisé en 2002](https://open.spotify.com/track/4ZgDTZjxNJxrpoaWYnaa3N) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Voyou \(Remasterisé en 2002\)](https://open.spotify.com/album/7AJeglSaPAvjLOrai3qVka) | 2:41 |
 | 25 | [En l'an 2001](https://open.spotify.com/track/4Lv1Xqqu5vvl3jjiyhGn4j) | [Pierre Bachelet](https://open.spotify.com/artist/473XDcWSxnSaxptauf6fg4) | [Le Meilleur De](https://open.spotify.com/album/5JFBGYglZem8jUTB5QOGSN) | 5:27 |
-| 26 | [Casser La Voix](https://open.spotify.com/track/6GKfnB8wQhmCqsHmgDAkN4) | [Patrick Bruel](https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg) | [Alors regarde](https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt) | 4:39 |
+| 26 | [Casser la voix](https://open.spotify.com/track/6GKfnB8wQhmCqsHmgDAkN4) | [Patrick Bruel](https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg) | [Alors regarde](https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt) | 4:39 |
 | 27 | [Le géant de papier](https://open.spotify.com/track/5iJGhjZWcsqbaHktCZkxHC) | [Jean\-Jacques Lafon](https://open.spotify.com/artist/49W0Ck5ChOQBRUW3rofZNB) | [Best of années 80](https://open.spotify.com/album/5qJac8UWlgE80PCaN4rGHk) | 3:09 |
 | 28 | [Nuit magique](https://open.spotify.com/track/0YxdyPaSGBTOo2ebZzIrif) | [Catherine Lara](https://open.spotify.com/artist/3eFOtlrhUuKPOrO2JlM6AS) | [Nuit Magique](https://open.spotify.com/album/7e1YgRKma8OQZ6PRIF82Ac) | 4:47 |
 | 29 | [Afrique adieu](https://open.spotify.com/track/6G3mO2bHnYlOjwlHJQlUad) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [Les années 30](https://open.spotify.com/album/1BiKkCtx7fxoM0osgo5KSa) | 6:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 | 49 | [La boîte de jazz](https://open.spotify.com/track/74TeGcp8PfGffFx9CjR3H0) | [Michel Jonasz](https://open.spotify.com/artist/1xbjT6BnZk2j6PZhf5VZR7) | [Unis vers l'uni](https://open.spotify.com/album/3NsxgHg4EJL5qCmxeUVbns) | 3:02 |
 | 50 | [Le Loir & Cher](https://open.spotify.com/track/2qHhWm8oZ7nNNvTitjEvio) | [Michel Delpech](https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p), [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Album De Duos](https://open.spotify.com/album/5HgPr5vMIGWGYuqtEXb9qV) | 3:29 |
 
-Snapshot ID: `MCwyOTNlMzkwYzM3ZGI1N2I1ZTllMDQxMmE3NzM2ZGRiMjlkYmM5NTgy`
+Snapshot ID: `MCw4NTcyZWIzZjhmZDNmNGI1MmFhZTYzM2IzZjJiNGNkMmE3MTQ3MTVj`

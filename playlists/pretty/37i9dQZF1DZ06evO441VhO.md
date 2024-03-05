@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO441VhO.md) - [plain]
 
 > This is zebrahead\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,152 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,160 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO441VhO.md) - [plain]
 | 49 | [Save Your Breath](https://open.spotify.com/track/64OwpIMMH02irxg0Vm3xNA) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Walk the Plank](https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi) | 3:10 |
 | 50 | [Mike Dexter Is A God, Mike Dexter Is A Role Model, Mike Dexter Is An Asshole](https://open.spotify.com/track/4ABfHHCjRtxr1VcR8Y7X9N) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Phoenix](https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP) | 3:37 |
 
-Snapshot ID: `Mjg0OTExMzgsMDAwMDAwMDBhNjhlZmU4ZTY2NzUxYmMwMWUyMjg4MWZhOTBjN2Q0Ng==`
+Snapshot ID: `Mjg0OTI1NjksMDAwMDAwMDAzMDk1ZTliODk5OWFjYzFjMjU4ODNiZjNkZjA1ZTRkNA==`

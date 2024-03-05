@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,359,078 likes - 699 songs - 1 day 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,359,590 likes - 699 songs - 1 day 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,10 +67,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 57 | [peanut dream shake](https://open.spotify.com/track/32R8uRLa9uf1ffKWhVrdFR) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [longing for](https://open.spotify.com/album/7aqITKpq0WfAmXYwNCwj9u) | 2:45 |
 | 58 | [Tiger Tales \(of the Concrete Jungle\)](https://open.spotify.com/track/2Jtxx7JTFeEq7vGG5mxgMV) | [Tigerpalm\*Bay](https://open.spotify.com/artist/17AFp9vXzeK7mwKhcFFB5J) | [Tiger Tales \(of the Concrete Jungle\)](https://open.spotify.com/album/6FfMLwzNxswjsR5tlM0YGV) | 3:10 |
 | 59 | [starry night](https://open.spotify.com/track/4EpMnMxqGXNfmDmEV4Uq6E) | [Mathis](https://open.spotify.com/artist/19MFUmiYwTLD77ECnzbVWa) | [starry night](https://open.spotify.com/album/3Izct1glTX9dzY3SMbodJO) | 2:23 |
-| 60 | [the clearing](https://open.spotify.com/track/3oY2RXnYoPhtf6r552KfbN) | [Zoe Reed](https://open.spotify.com/artist/4mZWwBPYRI8NSMUBAH8WFE) | [the clearing](https://open.spotify.com/album/4KtXivGbPCcyyzs8mb54CJ) | 2:28 |
-| 61 | [la vie](https://open.spotify.com/track/1lcF9TobcLEKVrMXW9hUDP) | [Muddy Mudd](https://open.spotify.com/artist/05oBg7V7OuHrEb1YZ7DuJS) | [la vie](https://open.spotify.com/album/4MRkHPJViAF0Ikz5oJwm1e) | 1:52 |
-| 62 | [poppy](https://open.spotify.com/track/2n4AwQls3F6atW1Av1sLIM) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [poppy](https://open.spotify.com/album/2KhU3J9GYoqTjmAnBQcMwg) | 2:33 |
-| 63 | [All downhill from here](https://open.spotify.com/track/2MFbMTRA9SYAZJvjv0mzbm) | [Art Vandeley](https://open.spotify.com/artist/6aHekjqSdW1DwredIrNAWE) | [All downhill from here](https://open.spotify.com/album/0P8byZc39T2R6c9o28xAHp) | 2:10 |
+| 60 | [la vie](https://open.spotify.com/track/1lcF9TobcLEKVrMXW9hUDP) | [Muddy Mudd](https://open.spotify.com/artist/05oBg7V7OuHrEb1YZ7DuJS) | [la vie](https://open.spotify.com/album/4MRkHPJViAF0Ikz5oJwm1e) | 1:52 |
+| 61 | [poppy](https://open.spotify.com/track/2n4AwQls3F6atW1Av1sLIM) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [poppy](https://open.spotify.com/album/2KhU3J9GYoqTjmAnBQcMwg) | 2:33 |
+| 62 | [All downhill from here](https://open.spotify.com/track/2MFbMTRA9SYAZJvjv0mzbm) | [Art Vandeley](https://open.spotify.com/artist/6aHekjqSdW1DwredIrNAWE) | [All downhill from here](https://open.spotify.com/album/0P8byZc39T2R6c9o28xAHp) | 2:10 |
+| 63 | [the clearing](https://open.spotify.com/track/3oY2RXnYoPhtf6r552KfbN) | [Zoe Reed](https://open.spotify.com/artist/4mZWwBPYRI8NSMUBAH8WFE) | [the clearing](https://open.spotify.com/album/4KtXivGbPCcyyzs8mb54CJ) | 2:28 |
 | 64 | [Surf Tiger](https://open.spotify.com/track/0jwpEqWMwo5fR1XQXic4lg) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Surf Tiger](https://open.spotify.com/album/4jTtUszaxX0G32HP7nG2SE) | 3:02 |
 | 65 | [poseidon](https://open.spotify.com/track/6MpZRAlMbG1PvjuMNtzp9t) | [low&slow](https://open.spotify.com/artist/5nRIouNA5T37sVSDEjbhAL) | [poseidon](https://open.spotify.com/album/63BcmPVShgWasXts8qMikS) | 2:01 |
 | 66 | [fliff](https://open.spotify.com/track/4WuNnBS0bhE9WuXky2VBCl) | [Zonyo](https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b) | [fliff](https://open.spotify.com/album/6Y8uumptLHbhwhDbFWcX3M) | 1:35 |
@@ -140,8 +140,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 130 | [favour the brave](https://open.spotify.com/track/2TLObOpKa82LXdJwzEgP2M) | [Rustique Beats](https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq) | [favour the brave](https://open.spotify.com/album/2ZnbvpFVdC80gCouRA9Ofl) | 2:14 |
 | 131 | [piece of cake](https://open.spotify.com/track/4rwk2fkjHLRF5hnJiZRIAw) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [piece of cake](https://open.spotify.com/album/2ISl6imEYl6rHKHjzASGM2) | 2:22 |
 | 132 | [My Promise](https://open.spotify.com/track/2tLMEIVC98DSoq8jjypvg6) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [My Promise](https://open.spotify.com/album/5rL8vcVAck9ba3BC8X0WFg) | 4:01 |
-| 133 | [Peaceful Ghost](https://open.spotify.com/track/0xHlJoGrK2vxMT4rBOGqy5) | [Salvador](https://open.spotify.com/artist/2wdEmmyhUHZQNXj8iRoXXY), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Peaceful Ghost](https://open.spotify.com/album/0F5PTu1lq5AbjV8ZSr7Qzx) | 2:21 |
-| 134 | [horizon](https://open.spotify.com/track/6Cg95Z9BbsoylM4DKPF0qu) | [Lunar Lullaby & yorukaze](https://open.spotify.com/artist/1QmonBwobeYEIi48xYr8AD) | [horizon](https://open.spotify.com/album/4pKK2fHHHVfNH9cWcMn4Cz) | 1:36 |
+| 133 | [horizon](https://open.spotify.com/track/6Cg95Z9BbsoylM4DKPF0qu) | [Lunar Lullaby & yorukaze](https://open.spotify.com/artist/1QmonBwobeYEIi48xYr8AD) | [horizon](https://open.spotify.com/album/4pKK2fHHHVfNH9cWcMn4Cz) | 1:36 |
+| 134 | [Peaceful Ghost](https://open.spotify.com/track/0xHlJoGrK2vxMT4rBOGqy5) | [Salvador](https://open.spotify.com/artist/2wdEmmyhUHZQNXj8iRoXXY), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Peaceful Ghost](https://open.spotify.com/album/0F5PTu1lq5AbjV8ZSr7Qzx) | 2:21 |
 | 135 | [fastback ride](https://open.spotify.com/track/2J4JxUvNa8zqP6N5BUitlt) | [Nitta' Gritta'](https://open.spotify.com/artist/55psXqpj00WvVubriLCEet) | [fastback ride](https://open.spotify.com/album/0sfVPSFcr0vdy3QDwoy2uM) | 2:49 |
 | 136 | [One Flame](https://open.spotify.com/track/4Ff9CW1dMdIqupiUG3yn3q) | [T.O.M](https://open.spotify.com/artist/68rwVO9em9O2JzESsN2whJ) | [One Flame](https://open.spotify.com/album/2P1KFMTCzA09BPBrqtmJID) | 2:44 |
 | 137 | [It hasn't rained in like this in years](https://open.spotify.com/track/6Cm89dtQ8Is63NmkNcb5ha) | [rollerbladie](https://open.spotify.com/artist/2v1qbZxflMpzbTQSQfmwah) | [It hasn't rained in like this in years](https://open.spotify.com/album/2KFQ1RLysJsdKvG2XBk0Hz) | 2:24 |
@@ -213,9 +213,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 203 | [Dream Little Dreams](https://open.spotify.com/track/2HP0zVn24L18ChvxZWaGfs) | [Harvest Emotions](https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K) | [Dream Little Dreams](https://open.spotify.com/album/3z401mkRRsYqmrMZSoVcqP) | 2:08 |
 | 204 | [Rainclouds Still Remember](https://open.spotify.com/track/2RAYJawqivodlRe2C6emmK) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [Rainclouds Still Remember](https://open.spotify.com/album/19d7nSFHyMulZzgTEwhlIH) | 2:55 |
 | 205 | [endless](https://open.spotify.com/track/1DgFzDddCvohdbma1Mgeyp) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [endless](https://open.spotify.com/album/4aSNr7wccU4oFKg3QnqjsJ) | 2:03 |
-| 206 | [Bullet Train](https://open.spotify.com/track/46rQypiYgXMrC2tssYiLsK) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [Bullet Train](https://open.spotify.com/album/6ALsegdjupq4DCT1JAWkRn) | 2:15 |
-| 207 | [Sunset](https://open.spotify.com/track/3NNhwmJ4W2hsb3ZGMulWb5) | [Mr Argyle](https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw) | [Sunset](https://open.spotify.com/album/5Ep6e5SHxyTXCox49BHJ8X) | 2:17 |
-| 208 | [signs of winter](https://open.spotify.com/track/2zXSjswUO8K1kcO2h3wHvk) | [J0pie](https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN) | [signs of winter](https://open.spotify.com/album/3r4lcISMEbY0VEQj1Tn6O6) | 2:05 |
+| 206 | [signs of winter](https://open.spotify.com/track/2zXSjswUO8K1kcO2h3wHvk) | [J0pie](https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN) | [signs of winter](https://open.spotify.com/album/3r4lcISMEbY0VEQj1Tn6O6) | 2:05 |
+| 207 | [Bullet Train](https://open.spotify.com/track/46rQypiYgXMrC2tssYiLsK) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [Bullet Train](https://open.spotify.com/album/6ALsegdjupq4DCT1JAWkRn) | 2:15 |
+| 208 | [Sunset](https://open.spotify.com/track/3NNhwmJ4W2hsb3ZGMulWb5) | [Mr Argyle](https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw) | [Sunset](https://open.spotify.com/album/5Ep6e5SHxyTXCox49BHJ8X) | 2:17 |
 | 209 | [She Ski Lifts My Spirits](https://open.spotify.com/track/329HZF8ohmz9GYbFchV8wa) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [She Ski Lifts My Spirits](https://open.spotify.com/album/7gdWhNl9Nm20pp8QGaZTcz) | 3:15 |
 | 210 | [Downtown](https://open.spotify.com/track/0F3Bo3HVGi2fzCU67Z6rDv) | [1930](https://open.spotify.com/artist/04qLskUo3x0vMixvZxCK78) | [Downtown](https://open.spotify.com/album/6KDVzfdX9UGMaDP5K9zREY) | 1:51 |
 | 211 | [Eunoia](https://open.spotify.com/track/0xLMlmoGZY2LhZcLMU6VvK) | [Kartel of Sound](https://open.spotify.com/artist/1aaKuoHFyzRHeLh7nflK1R) | [Eunoia](https://open.spotify.com/album/4fBD47tpwDlksDgQSimWfX) | 2:13 |
@@ -708,4 +708,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 698 | [Follow the maze](https://open.spotify.com/track/2cqoll9mqMTlaJRIgoK3ko) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [Printers' Alley](https://open.spotify.com/album/2PpIz8xsJOjiFTO4REzthj) | 2:40 |
 | 699 | [Paper Heart](https://open.spotify.com/track/1Hc3WJFNoEVScMuJ8ofDxB) | [Gael Rico](https://open.spotify.com/artist/7792K7G74q2ZpczQiXdvlX) | [Paper Heart](https://open.spotify.com/album/5cmzgPNKOMs9bWGWbullff) | 1:37 |
 
-Snapshot ID: `MCw3OTVhYzNkZjc1MGVjYWQ2MTE4N2EyMTNkZWQ5NTU2MWZlZDk4NTFh`
+Snapshot ID: `MCxkODJhOWVmOWViNzIyM2ZkMzJhM2M1MjgzMDgxMmY5MGFjNjE2NTMy`

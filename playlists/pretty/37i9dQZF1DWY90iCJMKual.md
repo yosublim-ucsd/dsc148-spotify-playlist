@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY90iCJMKual.md) - [plain]
 
 > 🇵🇭 vibin' 🥶 🔥 Cover: Felip, PLAYERTWO
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,697 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,783 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY90iCJMKual.md) - [plain]
 | 2 | [don't matter](https://open.spotify.com/track/3DAEXv0dhydvWcT7wkXDfG) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [don't matter](https://open.spotify.com/album/0pTBJMDMTj9Mu8JIXz1dnD) | 3:22 |
 | 3 | [Di kita trip](https://open.spotify.com/track/1lS1wmAFXcj4RMbQ3pEhDt) | [CK YG](https://open.spotify.com/artist/57yOAX6apIrclpBG736Uy2) | [Di kita trip](https://open.spotify.com/album/3iYWYMFX37PfR3w4n1Z3fa) | 2:54 |
 | 4 | [ILY](https://open.spotify.com/track/3w2uH1D7s2lyBNionSZOM0) | [Young Blood Neet](https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU), [Bugoy Na Koykoy](https://open.spotify.com/artist/1Hcbuz175YJT1vMX4DnS6E) | [ILY](https://open.spotify.com/album/2Z3aaJjwmO8hBQodeaqfKh) | 2:59 |
-| 5 | [Ikaw Na](https://open.spotify.com/track/324bREqdLQKkOCp4ce9WvF) | [Calvin De Leon](https://open.spotify.com/artist/3WyQJx169swY8v3htgAqaK), [Rovilyn](https://open.spotify.com/artist/34xRxPfcQ0rTt7rzIh6S0T) | [Ikaw Na](https://open.spotify.com/album/6Fs4uDY9PpPzJmNW96qKzB) | 3:42 |
-| 6 | [Pagdali](https://open.spotify.com/track/7fMR5ryCo3m38yyj1PCym4) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7), [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [Pagdali](https://open.spotify.com/album/185zJ1UyWQn80NFdOCjIPJ) | 3:33 |
+| 5 | [Pagdali](https://open.spotify.com/track/7fMR5ryCo3m38yyj1PCym4) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7), [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [Pagdali](https://open.spotify.com/album/185zJ1UyWQn80NFdOCjIPJ) | 3:33 |
+| 6 | [Ikaw Na](https://open.spotify.com/track/324bREqdLQKkOCp4ce9WvF) | [Calvin De Leon](https://open.spotify.com/artist/3WyQJx169swY8v3htgAqaK), [Rovilyn](https://open.spotify.com/artist/34xRxPfcQ0rTt7rzIh6S0T) | [Ikaw Na](https://open.spotify.com/album/6Fs4uDY9PpPzJmNW96qKzB) | 3:42 |
 | 7 | [Slow Burn](https://open.spotify.com/track/4Vc9QBoqlzWzDNEHwwKKTU) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Slow Burn](https://open.spotify.com/album/0Yb4SCZrLJYzxS3muoDYUl) | 2:18 |
 | 8 | [Shawty](https://open.spotify.com/track/0S7aR94L2NOJYDHWB97Yy6) | [Realest Cram](https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5) | [Shawty](https://open.spotify.com/album/51qJ7XaO2Eh4DLIyS8SzZ0) | 3:07 |
 | 9 | [Sugar n' Spice](https://open.spotify.com/track/68GGwBrzj5PEe4nbltGuda) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Sweet Nothings \(Chapter 1\)](https://open.spotify.com/album/26osN3pVqjyhGUedWZIueX) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY90iCJMKual.md) - [plain]
 | 49 | [LUV DRUG](https://open.spotify.com/track/3oSu6uIHuwZOTyHdAZGojm) | [gins&melodies](https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK), [Eros Tongco](https://open.spotify.com/artist/495fFEFRsZJJWAYH8N9393) | [LUV DRUG](https://open.spotify.com/album/4YQbWQV2kdQtSld9XTOCoE) | 3:18 |
 | 50 | [SEEN](https://open.spotify.com/track/6REJp8MTDJ5gv2MRkHNmtN) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv) | [SEEN](https://open.spotify.com/album/4LZVmxON0sJjUAYhTWgj0n) | 2:52 |
 
-Snapshot ID: `MCxkNTEyOWYxOTRmNDZiMjExZDcxMzEwNmMyMTc1MWQyNzdjYWQ5ZWNj`
+Snapshot ID: `MCw5ODBkMTgyZWUwYjc5ZWQxZmE0ZWNkOGNhNDU2MTY5MDE5ZGQ0Y2Rj`

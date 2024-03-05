@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 
 > have fun with it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,954 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,022 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,15 +87,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 77 | [Silhouettes](https://open.spotify.com/track/5zYduVIUSgSWmv56IwBmRl) | [Colony House](https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4) | [When I Was Younger](https://open.spotify.com/album/4A9oVHInBqtXG9ogUXQiKN) | 2:57 |
 | 78 | [See You Later](https://open.spotify.com/track/0PCtDCMDypMnUhVrLyOQZs) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [The Dark](https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou) | 2:35 |
 | 79 | [Van Horn](https://open.spotify.com/track/78bsqObGFUD5ntweePBhIY) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [The Original Motion Picture Soundtrack](https://open.spotify.com/album/5aAfgCIEc9zBKbwFO6jixe) | 2:41 |
-| 80 | [cough drops](https://open.spotify.com/track/5Jpj3lCgX06bu6STIjUYKN) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [cough drops](https://open.spotify.com/album/4gM0KEbTRLuejffBFA1kph) | 2:43 |
-| 81 | [All We Ever Do Is Talk](https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [All We Ever Do Is Talk](https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw) | 3:46 |
+| 80 | [All We Ever Do Is Talk](https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [All We Ever Do Is Talk](https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw) | 3:46 |
+| 81 | [cough drops](https://open.spotify.com/track/5Jpj3lCgX06bu6STIjUYKN) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [cough drops](https://open.spotify.com/album/4gM0KEbTRLuejffBFA1kph) | 2:43 |
 | 82 | [sail away](https://open.spotify.com/track/6G8xvLFNkXy3HM5EbQI6c8) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [sail away](https://open.spotify.com/album/6JFD9WU1ZSYZOJlDpRtZ71) | 2:59 |
 | 83 | [What Now](https://open.spotify.com/track/1WAjkljaKkFILaxlsGlSfh) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2) | 3:46 |
 | 84 | [Let's go to Hell](https://open.spotify.com/track/38XLUjlR84JEwK0SOvX77a) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Let's go to Hell](https://open.spotify.com/album/2tVcIkd2GmDpNQkXRNpaME) | 2:32 |
-| 85 | [only wanna dance](https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [only wanna dance](https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm) | 2:24 |
-| 86 | [What Am I Missing?](https://open.spotify.com/track/61noMxtCbfnzewtJmUIQ13) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [The Dark](https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou) | 2:52 |
-| 87 | [Barely on My Mind](https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Further Joy](https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ) | 3:17 |
-| 88 | [Devils Haircut](https://open.spotify.com/track/47OEl1PttAFxNEf9KRmx23) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Odelay](https://open.spotify.com/album/1Pus5h1qGedCn4CtOuPVtp) | 3:15 |
+| 85 | [What Am I Missing?](https://open.spotify.com/track/61noMxtCbfnzewtJmUIQ13) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [The Dark](https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou) | 2:52 |
+| 86 | [Barely on My Mind](https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Further Joy](https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ) | 3:17 |
+| 87 | [Devils Haircut](https://open.spotify.com/track/47OEl1PttAFxNEf9KRmx23) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Odelay](https://open.spotify.com/album/1Pus5h1qGedCn4CtOuPVtp) | 3:15 |
+| 88 | [only wanna dance](https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [only wanna dance](https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm) | 2:24 |
 | 89 | [Adderall](https://open.spotify.com/track/4Xx0J00u90QvnG3rwz4Itp) | [Max Frost](https://open.spotify.com/artist/7r8xR0LmnaAM623MmRDn1V) | [Adderall](https://open.spotify.com/album/3cwCFf0JcO8RpfWi2OAcz4) | 3:38 |
 | 90 | [Something Like This](https://open.spotify.com/track/6BVV26Ih6kXP1j8JBsxXyd) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Something Like This](https://open.spotify.com/album/23pFZpDRnqG187lnu9rY1K) | 3:18 |
 | 91 | [Post Humorous](https://open.spotify.com/track/4rOM11Me71Szv8BD7ILpxr) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca](https://open.spotify.com/album/7xm5gLnLKtWSAGDzROIF9X) | 4:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 99 | [Crazy Again](https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Crazy Again](https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK) | 3:17 |
 | 100 | [Go Easy](https://open.spotify.com/track/4yoMMiRT5sXtIbSHKQfRqi) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Bank On The Funeral](https://open.spotify.com/album/3IQhe9N4j1tXTwKlhT2FsL) | 3:47 |
 
-Snapshot ID: `MCxjNTBlNTAzNzM3MzYwM2I3OWFjODg2N2ZhMTViZjQ2ZWViMmFlODIw`
+Snapshot ID: `MCxhMDI3ZjUyMDg4MzA5Y2IzYTExY2RiNGM2ODY4OGYxMDkzZDFhMzE0`

@@ -1,12 +1,12 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 46301,
+  "num_followers": 46339,
   "original_name": "Classic Instrumental Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDBlYjYxODhlYmVjZWI3YjI0MDRhMWZkNmJkNWZiZGMwMzI3ODg1",
+  "snapshot_id": "MCxhODEyZWE0MzgzNDQyYzc5NjJjODZkOTZiMjA0MmY4MTUyZjBhOGFh",
   "tracks": [
     {
       "added_at": "2023-08-23 10:31:46",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Damn Right, I've Got The Blues",
-        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 418880,
-      "name": "Rememberin' Stevie",
-      "url": "https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "Blues On The Bayou",
         "url": "https://open.spotify.com/album/5niyTbKPj1WYWj8fVVLq0r"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 306733,
       "name": "Blues We Like",
       "url": "https://open.spotify.com/track/67nOaC07CjUkWbxnINEH4v"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "Damn Right, I've Got The Blues",
+        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 418880,
+      "name": "Rememberin' Stevie",
+      "url": "https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/286Ej4KKpT8Fc02kMA1MBf"
-      },
-      "artists": [
-        {
-          "name": "Brian Grey",
-          "url": "https://open.spotify.com/artist/0anlv8wmuRThghL7Fw4xDS"
-        }
-      ],
-      "duration_ms": 259846,
-      "name": "Part Time Blues",
-      "url": "https://open.spotify.com/track/5kqntu2ajqzuIMZP0aZFnW"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "Super Session (with Al Kooper & Stephen Stills)",
         "url": "https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 326173,
       "name": "Really",
       "url": "https://open.spotify.com/track/2gkEufrsoGisa7p4rh6K22"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/286Ej4KKpT8Fc02kMA1MBf"
+      },
+      "artists": [
+        {
+          "name": "Brian Grey",
+          "url": "https://open.spotify.com/artist/0anlv8wmuRThghL7Fw4xDS"
+        }
+      ],
+      "duration_ms": 259846,
+      "name": "Part Time Blues",
+      "url": "https://open.spotify.com/track/5kqntu2ajqzuIMZP0aZFnW"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -455,6 +455,26 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
+        "name": "Super Session (with Al Kooper & Stephen Stills)",
+        "url": "https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj"
+      },
+      "artists": [
+        {
+          "name": "Mike Bloomfield",
+          "url": "https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH"
+        },
+        {
+          "name": "Al Kooper",
+          "url": "https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv"
+        }
+      ],
+      "duration_ms": 255066,
+      "name": "Blues for Nothing",
+      "url": "https://open.spotify.com/track/6tPZzx5GfGTAG4ehDYnL7b"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
         "name": "Io",
         "url": "https://open.spotify.com/album/5ughw0JaRjOMakLyA0kw20"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 173013,
       "name": "Roller Coaster",
       "url": "https://open.spotify.com/track/3jQUu2mIntB5hUQizHhOUd"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
-        "name": "Super Session (with Al Kooper & Stephen Stills)",
-        "url": "https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj"
-      },
-      "artists": [
-        {
-          "name": "Mike Bloomfield",
-          "url": "https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH"
-        },
-        {
-          "name": "Al Kooper",
-          "url": "https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv"
-        }
-      ],
-      "duration_ms": 255066,
-      "name": "Blues for Nothing",
-      "url": "https://open.spotify.com/track/6tPZzx5GfGTAG4ehDYnL7b"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 171640,
-      "name": "Off The Wall",
-      "url": "https://open.spotify.com/track/33zZbABpbAWIHmLKq09DBf"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "Vagabond",
         "url": "https://open.spotify.com/album/7JhTlHuk4lt3ylNQMIDAY4"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 122924,
       "name": "Vagabond",
       "url": "https://open.spotify.com/track/5cFGwaWYOp1vP96BEMCZdU"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 171640,
+      "name": "Off The Wall",
+      "url": "https://open.spotify.com/track/33zZbABpbAWIHmLKq09DBf"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
+        "name": "Alone With Yourself",
+        "url": "https://open.spotify.com/album/03LY4WQPQxaPkRLNa31JGH"
+      },
+      "artists": [
+        {
+          "name": "Gary O'Slide",
+          "url": "https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf"
+        }
+      ],
+      "duration_ms": 233382,
+      "name": "Alone With Yourself",
+      "url": "https://open.spotify.com/track/12k5GxCuUuhOYqknjtkDII"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
         "name": "Gaslighter's Ball",
         "url": "https://open.spotify.com/album/3USbNYufFAKCtxQSjwClPo"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 418493,
       "name": "Albert's Shuffle - 2002 Remix w/o Horns",
       "url": "https://open.spotify.com/track/7AaUATKp29w0x3C8RAv3lK"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
-        "name": "Alone With Yourself",
-        "url": "https://open.spotify.com/album/03LY4WQPQxaPkRLNa31JGH"
-      },
-      "artists": [
-        {
-          "name": "Gary O'Slide",
-          "url": "https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf"
-        }
-      ],
-      "duration_ms": 233382,
-      "name": "Alone With Yourself",
-      "url": "https://open.spotify.com/track/12k5GxCuUuhOYqknjtkDII"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Texas Sensation",
-        "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 185786,
-      "name": "Side Tracked",
-      "url": "https://open.spotify.com/track/7qB9g4tusEHV5HGPzZejGj"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "The Paul Butterfield Blues Band",
         "url": "https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 263276,
       "name": "If You're Not Mine",
       "url": "https://open.spotify.com/track/4cPfagXa1RWHPx6rZcIdgS"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "Texas Sensation",
+        "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 185786,
+      "name": "Side Tracked",
+      "url": "https://open.spotify.com/track/7qB9g4tusEHV5HGPzZejGj"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "The Paul Butterfield Blues Band",
-        "url": "https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG"
-      },
-      "artists": [
-        {
-          "name": "The Paul Butterfield Blues Band",
-          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
-        }
-      ],
-      "duration_ms": 276933,
-      "name": "Screamin'",
-      "url": "https://open.spotify.com/track/5wQPmEoKg2Z05jV9FI0Z6p"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "Theresa Fungus Amung Us",
         "url": "https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 564133,
       "name": "The Messiah Will Come",
       "url": "https://open.spotify.com/track/0slDISVZUMJaIB85uEYIAu"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "The Paul Butterfield Blues Band",
+        "url": "https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG"
+      },
+      "artists": [
+        {
+          "name": "The Paul Butterfield Blues Band",
+          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
+        }
+      ],
+      "duration_ms": 276933,
+      "name": "Screamin'",
+      "url": "https://open.spotify.com/track/5wQPmEoKg2Z05jV9FI0Z6p"
     },
     {
       "added_at": "2023-08-23 10:31:46",

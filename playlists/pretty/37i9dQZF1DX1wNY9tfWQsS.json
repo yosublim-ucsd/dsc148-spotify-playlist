@@ -1,12 +1,12 @@
 {
   "description": "A musical celebration of women in R&amp;B, from its earliest acts to its newest stars. Cover: SZA and Lizzo ",
-  "num_followers": 529824,
+  "num_followers": 529939,
   "original_name": "Women of R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTQxODcyZGI4MGQ3MzdjMmIwZmQwZGU1ZjliMzc5NTM2YWYxMDlj",
+  "snapshot_id": "MCxlNTNjYzc4YmU0OTlhM2Q3ODJlN2E4ZmRiNzM5ZDZhZWVkYTMxYWVk",
   "tracks": [
     {
       "added_at": "2024-02-05 04:09:08",
@@ -109,54 +109,6 @@
       "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
     },
     {
-      "added_at": "2024-02-07 18:14:04",
-      "album": {
-        "name": "The Best of Sade",
-        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 258693,
-      "name": "Smooth Operator - Single Version",
-      "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
-    },
-    {
-      "added_at": "2024-02-05 04:09:08",
-      "album": {
-        "name": "What I Didn\u2019t Tell You (Deluxe)",
-        "url": "https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 241624,
-      "name": "ICU",
-      "url": "https://open.spotify.com/track/3tpI98Yae25hSvhh6mitA9"
-    },
-    {
-      "added_at": "2024-02-05 04:09:08",
-      "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 179693,
-      "name": "At Last",
-      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
-    },
-    {
       "added_at": "2024-02-05 04:09:08",
       "album": {
         "name": "Ctrl",
@@ -175,6 +127,54 @@
       "duration_ms": 275080,
       "name": "Love Galore (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs"
+    },
+    {
+      "added_at": "2024-02-05 04:09:08",
+      "album": {
+        "name": "What I Didn\u2019t Tell You (Deluxe)",
+        "url": "https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 241624,
+      "name": "ICU",
+      "url": "https://open.spotify.com/track/3tpI98Yae25hSvhh6mitA9"
+    },
+    {
+      "added_at": "2024-02-07 18:14:04",
+      "album": {
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 258693,
+      "name": "Smooth Operator - Single Version",
+      "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
+    },
+    {
+      "added_at": "2024-02-05 04:09:08",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 179693,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
     },
     {
       "added_at": "2024-02-05 04:09:08",
@@ -225,22 +225,6 @@
       "url": "https://open.spotify.com/track/6Rqn2GFlmvmV4w9Ala0I1e"
     },
     {
-      "added_at": "2024-02-07 18:14:04",
-      "album": {
-        "name": "Love Deluxe",
-        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Like a Tattoo",
-      "url": "https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg"
-    },
-    {
       "added_at": "2024-02-05 04:09:08",
       "album": {
         "name": "The Supremes A' Go-Go (Expanded Edition)",
@@ -287,6 +271,22 @@
       "duration_ms": 286920,
       "name": "Killing Me Softly With His Song",
       "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
+    },
+    {
+      "added_at": "2024-02-07 18:14:04",
+      "album": {
+        "name": "Love Deluxe",
+        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Like a Tattoo",
+      "url": "https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg"
     },
     {
       "added_at": "2024-02-07 18:14:04",

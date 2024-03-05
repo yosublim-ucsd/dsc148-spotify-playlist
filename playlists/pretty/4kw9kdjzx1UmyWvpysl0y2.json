@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126481,
+  "num_followers": 126478,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDU5MSw2NzEyZjNjODgyYTk0ZTA0NTE2NGFjMjMyNjI5ZDRhYWU0ZDU0MmE4",
+  "snapshot_id": "NDU5MywyM2ZjMGEwMGQxZmFjM2U5ZTA0MGZkZmFkNDIxYjE0NjIzZjFhNGVj",
   "tracks": [
+    {
+      "added_at": "2024-03-04 18:24:58",
+      "album": {
+        "name": "Johera",
+        "url": "https://open.spotify.com/album/6YRv6DbwXQfCQGsWHAnukJ"
+      },
+      "artists": [
+        {
+          "name": "Teddy Killerz",
+          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Johera",
+      "url": "https://open.spotify.com/track/15fgmFhr5x3ZoPojV1IRuj"
+    },
     {
       "added_at": "2024-03-01 16:57:47",
       "album": {
@@ -1135,22 +1151,6 @@
       "duration_ms": 196004,
       "name": "Hexed Opera",
       "url": "https://open.spotify.com/track/2nLIjKSv9zudWVd2EKAd01"
-    },
-    {
-      "added_at": "2023-11-21 15:26:04",
-      "album": {
-        "name": "Echoes In My Head",
-        "url": "https://open.spotify.com/album/6BvhFE7TcTiuMaIVRfNp8o"
-      },
-      "artists": [
-        {
-          "name": "PROFF",
-          "url": "https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld"
-        }
-      ],
-      "duration_ms": 253770,
-      "name": "Echoes In My Head",
-      "url": "https://open.spotify.com/track/54ASGJSgIJqBCUnvLRQsPg"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

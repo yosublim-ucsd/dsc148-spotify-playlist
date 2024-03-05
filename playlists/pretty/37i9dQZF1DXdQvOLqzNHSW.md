@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 
 > slow burners for late nights
 
-[Spotify](https://open.spotify.com/user/spotify) - 974,836 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 975,010 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,18 +19,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 9 | [Tangerine](https://open.spotify.com/track/700iSqwIlmgyRCiHWbRNdh) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Tangerine](https://open.spotify.com/album/3iB5mDvMeU6xgF8hLETSop) | 3:23 |
 | 10 | [Aquarium](https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [Views/Octopus EP](https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU) | 3:04 |
 | 11 | [Moment](https://open.spotify.com/track/4CpqVGd8GCTFQqEifhgsTz) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [MOVIES! WORLDWIDE: PART I](https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md) | 2:12 |
-| 12 | [Good At Breaking Hearts](https://open.spotify.com/track/6J4JyWGym75LACyBWqipKv) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [JNR WILLIAMS](https://open.spotify.com/artist/7GZfE8P3kSPhhzq854OMxk), [33.3](https://open.spotify.com/artist/2vTfPvhJkpW1DTjmMvHjOB) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:33 |
-| 13 | [I'll Still Call](https://open.spotify.com/track/1SerYv7SabsGxVl0qIKES9) | [Habe](https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW) | [I'll Still Call](https://open.spotify.com/album/7lWAeNIi1tL8tva47N5lnz) | 2:55 |
+| 12 | [I'll Still Call](https://open.spotify.com/track/1SerYv7SabsGxVl0qIKES9) | [Habe](https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW) | [I'll Still Call](https://open.spotify.com/album/7lWAeNIi1tL8tva47N5lnz) | 2:55 |
+| 13 | [Within You, Within Me](https://open.spotify.com/track/77evpfqHmmSklsFpo8wLCB) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [Eternal Embers](https://open.spotify.com/album/35DFjJWsfg355dxH6p1ZfA) | 3:18 |
 | 14 | [MUTUAL](https://open.spotify.com/track/7ssXkZztV1Fe60nO1pvTiK) | [Flozigg](https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv) | [Beige](https://open.spotify.com/album/5KMM5rZU1frov5gNAHL8GE) | 2:49 |
-| 15 | [Within You, Within Me](https://open.spotify.com/track/77evpfqHmmSklsFpo8wLCB) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [Eternal Embers](https://open.spotify.com/album/35DFjJWsfg355dxH6p1ZfA) | 3:18 |
+| 15 | [Good At Breaking Hearts](https://open.spotify.com/track/6J4JyWGym75LACyBWqipKv) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [JNR WILLIAMS](https://open.spotify.com/artist/7GZfE8P3kSPhhzq854OMxk), [33.3](https://open.spotify.com/artist/2vTfPvhJkpW1DTjmMvHjOB) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:33 |
 | 16 | [Mr\. Moon](https://open.spotify.com/track/46gce56bpmcADKw3i00Lju) | [niquo](https://open.spotify.com/artist/1NdjUWVsLvRmiJmtrynbKF), [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Art Collection](https://open.spotify.com/album/2hDRqm8t3u7E8O1t4zojqB) | 2:30 |
 | 17 | [Camille](https://open.spotify.com/track/0HBvrmugioEvfQpnv2kPX0) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Nearly Straight](https://open.spotify.com/album/2aViIw8MflAIHHsPK5hXX9) | 2:16 |
 | 18 | [Broom](https://open.spotify.com/track/5BbalszBPahg1um1QVxSRi) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw) | [Float Back To You](https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F) | 2:15 |
 | 19 | [Ghost of Fatalia](https://open.spotify.com/track/551kejKz9qZRgGyCDa7ujF) | [Arc De Soleil](https://open.spotify.com/artist/2iLMJdaqsQ44X7MPRD7rR5) | [Last a While](https://open.spotify.com/album/73N9ZCHUsbSaIyoTyLFbcK) | 2:46 |
 | 20 | [Ellipsis](https://open.spotify.com/track/3MaBdTM6hLwb4n280HJaia) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [GRIP](https://open.spotify.com/album/6yQiAySk0ELR4cjDCgSqtY) | 3:21 |
-| 21 | [Pretty Little Thing](https://open.spotify.com/track/5C9anXz5T3PY3A5YkH66cn) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:01 |
-| 22 | [Humans](https://open.spotify.com/track/1F4Sia9UHvh5JuPV7bwgix) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Humans](https://open.spotify.com/album/3NBcENkuLCwmb0TSgbZvRi) | 4:11 |
-| 23 | [Dreaming In Slow Motion](https://open.spotify.com/track/0K2Ou0NhEBvc7UoeWf58Cy) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Bewilderment](https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu) | 2:52 |
+| 21 | [Humans](https://open.spotify.com/track/1F4Sia9UHvh5JuPV7bwgix) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Humans](https://open.spotify.com/album/3NBcENkuLCwmb0TSgbZvRi) | 4:11 |
+| 22 | [Dreaming In Slow Motion](https://open.spotify.com/track/0K2Ou0NhEBvc7UoeWf58Cy) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Bewilderment](https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu) | 2:52 |
+| 23 | [Pretty Little Thing](https://open.spotify.com/track/5C9anXz5T3PY3A5YkH66cn) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:01 |
 | 24 | [How many miles](https://open.spotify.com/track/5zL6U9C5mmeaJSks7H4Xmw) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Candy / How many miles](https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T) | 2:21 |
 | 25 | [All Roads](https://open.spotify.com/track/0pvgbTB2y9DNDDXb9T7FJW) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [All Roads](https://open.spotify.com/album/2Ns4jtMLkdHBrQyteocGQ9) | 3:17 |
 | 26 | [Fever](https://open.spotify.com/track/4O3KRX2Ba4wmt6W7ijs4FA) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [Sariah Mae](https://open.spotify.com/artist/16XmFAOjlZoorF7bbIa1Th) | [Fever](https://open.spotify.com/album/0vj8a0hKlqZ0zEq3K688Sf) | 2:58 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 48 | [Little Queenie \(2023 Remastered Version\)](https://open.spotify.com/track/3bW3FVztCl5BoY8QooHHzj) | [SadGirl](https://open.spotify.com/artist/39iRwJEhPG25CU7LYdNkQ2) | [Deluxe Edition](https://open.spotify.com/album/63UY8mR272oIL75BF6fI2M) | 2:50 |
 | 49 | [Falling in Loves too Mean](https://open.spotify.com/track/2ECYzy9Xr3Cr3cRgcWXnga) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Hether Who?](https://open.spotify.com/album/4U5EhQq161gJSUVFaEgrGA) | 2:56 |
 | 50 | [I'll Never Leave](https://open.spotify.com/track/1NsUICf9ugoSbpyue5qcDh) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [Rêverie](https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO) | 3:17 |
-| 51 | [Above Me](https://open.spotify.com/track/2SueOYex8L8EwV4CTKPMbA) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Above Me](https://open.spotify.com/album/64djkjEvJa2DO3nhus3uHo) | 3:34 |
-| 52 | [Slumber](https://open.spotify.com/track/0oF0OIjGA5DGl7WkyHjSXz) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [April + VISTA](https://open.spotify.com/artist/5XNCS8lVEpHHbaHv0EabAj) | [Slipping Into Color](https://open.spotify.com/album/6kuxykEjfFWmGv8IwXlmrO) | 3:45 |
+| 51 | [Slumber](https://open.spotify.com/track/0oF0OIjGA5DGl7WkyHjSXz) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [April + VISTA](https://open.spotify.com/artist/5XNCS8lVEpHHbaHv0EabAj) | [Slipping Into Color](https://open.spotify.com/album/6kuxykEjfFWmGv8IwXlmrO) | 3:45 |
+| 52 | [Above Me](https://open.spotify.com/track/2SueOYex8L8EwV4CTKPMbA) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Above Me](https://open.spotify.com/album/64djkjEvJa2DO3nhus3uHo) | 3:34 |
 | 53 | [Flowers & Honey Interlude](https://open.spotify.com/track/6DsvXic2O817vrPB0btljC) | [Duñe](https://open.spotify.com/artist/7bupzBUhDSqBIAkoianGjC), [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh) | [Hundred Fifty Roses](https://open.spotify.com/album/5SCpPAXLERpGRtQpM6d1MR) | 1:36 |
 | 54 | [Candy](https://open.spotify.com/track/15NYGHy9F4vQstNvznsTZw) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Candy / How many miles](https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T) | 2:54 |
 | 55 | [Favourite](https://open.spotify.com/track/7FrZRHCFpS6aCLrgmGEd2f) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Favourite](https://open.spotify.com/album/1kbef2cypHylGieQcwSInH) | 2:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 99 | [Tides](https://open.spotify.com/track/5PKry44nrSmbNmbFJ7gSD0) | [Sweeps](https://open.spotify.com/artist/1ZqVxe4j6KEwGA1WyJkw8t), [NK Music](https://open.spotify.com/artist/44L4NQt4H6Ru2aXHH3BLQi) | [単にRetroFuture](https://open.spotify.com/album/5Ypek9futUq1THrPjyQDkp) | 2:27 |
 | 100 | [Scattered Dreams](https://open.spotify.com/track/73h8sk37Djar1B3LV3A6nQ) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Time Lapsed](https://open.spotify.com/album/2rzaUdlBmCJt9f5KjT2HDE) | 3:54 |
 
-Snapshot ID: `MCxhMTJmN2VjZTRiYTFmNDMyYjRhYTg1ZGM0NDA3M2VlYjNkNWJjZmJm`
+Snapshot ID: `MCw2ZWU4MjIwYjE3NTY4ZjQzYWZjMTQ5ZThkMjkzZDE0NTg4MDFkYmNk`

@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 7171,
+  "2024-03-05": 7167,
   "date_first_scraped": "2021-12-28",
   "description": "<a href=\"https://linktr.ee/PunkaBristol\">Punka</a> creates a safe space for the alternative scene with their club night at the heart of Bristol\u2019s LGBTQIA+ community.. This is their sound of Pride. Photography: Delirium and Proper Job Productions\n",
   "name": "PRIDE: Punka",
@@ -1324,6 +1324,24 @@
     },
     {
       "album": {
+        "name": "Manifesto",
+        "url": "https://open.spotify.com/album/1ZxUVlOjWCsORB6WKpCMpI"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "date_added": "2021-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201169,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/26waIACYioi2N1iZ1MAuno"
+    },
+    {
+      "album": {
         "name": "Swimming",
         "url": "https://open.spotify.com/album/6DSj1MDSdglIUOlo8RrZ5c"
       },
@@ -1335,7 +1353,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 201169,
       "name": "Swimming",
       "url": "https://open.spotify.com/track/4WxxNEMDFe5wm1VVI0MqTJ"

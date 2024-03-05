@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 1215056,
+  "2024-03-05": 1215095,
   "date_first_scraped": "2021-12-21",
   "description": "Soft and cozy acoustic covers of famous songs.",
   "name": "Chill Acoustic Covers",
@@ -1589,6 +1589,24 @@
       "duration_ms": 189352,
       "name": "Bullet - Stripped",
       "url": "https://open.spotify.com/track/5qiROfHRf9zfZqiUtP0Vqs"
+    },
+    {
+      "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/2KaUS3nSP8EgKStEa8Jeia"
+      },
+      "artists": [
+        {
+          "name": "J. Seasons",
+          "url": "https://open.spotify.com/artist/3RSFoHIhEK1TsXXWDXQnvP"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157611,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/0QUUfXxit1xeCtmuF6VNrc"
     },
     {
       "album": {
@@ -5853,7 +5871,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 172732,
       "name": "People",
       "url": "https://open.spotify.com/track/0uXTFIFDxA7Wxaq56rhN9C"

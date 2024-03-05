@@ -4,7 +4,7 @@
 
 > De nieuwste Nederlandse pop! Cover: MEAU
 
-508 songs - 1 day 0 hr 40 min
+509 songs - 1 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -465,6 +465,7 @@
 | [Volle Maan](https://open.spotify.com/track/2ArCv6pgZP2c62gU6Bc4aa) | [TOMMY](https://open.spotify.com/artist/6UrqENU5uLgpXCx5a4SRKM), [Cheryl Öztürk](https://open.spotify.com/artist/0vvWDHgxxfIJhGpNgCUfA9) | [Volle Maan](https://open.spotify.com/album/2Bt8e5tFs8Kpe6o0wPqRI5) | 2:10 | 2023-12-28 | 2024-02-09 |
 | [Voor De Gek](https://open.spotify.com/track/6BXVmVTRyEnTcJHjmy8kCg) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Voor De Gek](https://open.spotify.com/album/5GgAB0RzMQ8gtszcfpUO0a) | 3:03 | 2023-02-23 | 2023-05-10 |
 | [Voor Mijn Hart](https://open.spotify.com/track/7ikORk2VQ1J3uD7JhzJnxs) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Voor Mijn Hart](https://open.spotify.com/album/3GIvLv9vHbiWk96h7zWGkL) | 3:04 | 2023-03-30 | 2023-05-26 |
+| [Voor Wat Je Lief Is](https://open.spotify.com/track/5xX8QMZ3jjaW15xq46LPqz) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Spuug van God](https://open.spotify.com/album/1aAim07lpl5ARWVls0wKqM) | 3:06 | 2024-03-04 |  |
 | [Vrouw Van De Wereld](https://open.spotify.com/track/3ssFHRmjHtu6ZwSd8mCjCj) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Vrouw Van De Wereld](https://open.spotify.com/album/303su5NnOpJDJzlO9YNrGT) | 2:38 | 2023-09-21 | 2024-02-09 |
 | [Vuur = Blauw](https://open.spotify.com/track/3IVW3imj7fGBxLDXEU3uNZ) | [VanVelzen](https://open.spotify.com/artist/3Lq6Tb3SbS4n6dVuCx0Zzi), [De Troubadours](https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq) | [Vuur = Blauw](https://open.spotify.com/album/2i2xHpgNQfsGHWBuBfgpVP) | 3:10 | 2023-02-23 | 2023-04-07 |
 | [Waar Ben Je Bang Voor](https://open.spotify.com/track/3wIsia7eAooBiChieqIOs2) | [Emmy Eve](https://open.spotify.com/artist/0eA3GIgzZiKukkzphXJbu5) | [Wat Ik Bedoel Te Zeggen](https://open.spotify.com/album/0jiQXkXsViYvsACHqi2l4n) | 3:57 | 2023-11-16 | 2023-12-08 |

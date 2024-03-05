@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Badshah
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,350 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,424 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Saajan Ve](https://open.spotify.com/track/3iFYJMrRS0fLrwDNVbqNF0) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Saajan Ve](https://open.spotify.com/album/2ZkGpdiIY4jnHrmoEQrGGW) | 2:51 |
 | 50 | [Dastoor](https://open.spotify.com/track/4INechXMli8qPmDg1hItRD) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Dastoor](https://open.spotify.com/album/0MGXB7AjKEuaqZy2rObHle) | 3:16 |
 
-Snapshot ID: `MCxiZGYzNmE0OGVkMzRmMzg1MjQ4MWQ0YzhmZTlmNmQzMzliMDJiYzAy`
+Snapshot ID: `MCxlZmNhN2QzYjUzOWQ1ZTljNGFmY2NmYWEyYTI0YjRjYTYzNWMwMDhj`

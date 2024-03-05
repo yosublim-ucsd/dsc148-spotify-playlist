@@ -4,7 +4,7 @@
 
 > 
 
-242 songs - 16 hr 31 min
+243 songs - 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,5 +250,6 @@
 | [Woman](https://open.spotify.com/track/53Mar0XxfUNHeHlGymw52n) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Woman](https://open.spotify.com/album/32cgWHAadfJEeQVFWhTipy) | 3:52 | 2023-05-31 |  |
 | [You Knew](https://open.spotify.com/track/3tYTLCvnS63hpobSK3tRsR) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [You Knew](https://open.spotify.com/album/4n3meu86cgj7FIwe0xvYKc) | 7:16 | 2023-07-18 | 2024-02-16 |
 | [You Need Me](https://open.spotify.com/track/1qJhgjy1XcepOKrM3w7xuB) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo), [Frazer Ray](https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK) | [You Need Me](https://open.spotify.com/album/4oCf7fcuXDJr649Y7rcuzH) | 6:04 | 2022-08-16 | 2022-10-22 |
+| [ZOOM](https://open.spotify.com/track/5BrX72zkxJaowRZwgM8wyB) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [ZOOM](https://open.spotify.com/album/1sh6E8cJ0BOG5aN4jQ1MiK) | 3:45 | 2024-03-04 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

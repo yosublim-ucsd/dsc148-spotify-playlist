@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,674 likes - 180 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,236 likes - 180 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -173,12 +173,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 | 163 | [Oran Beinne](https://open.spotify.com/track/4n1CPCzzXKeiZxlEbIjlCX) | [Aisher Rami](https://open.spotify.com/artist/2zHZRicUVAYrE91sAwS4IJ) | [Oran Beinne](https://open.spotify.com/album/34rIpAW5yFPTcP3Fbpkszx) | 2:40 |
 | 164 | [Swells of Peace](https://open.spotify.com/track/2dIc6DpyULpWApOIcfrJ9R) | [Beyond Observable](https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq) | [Swells of Peace](https://open.spotify.com/album/0JdcL1uvu23PI3A0pdYEPF) | 2:23 |
 | 165 | [By The River](https://open.spotify.com/track/2PMTTEuXOznRQEZubxiPrd) | [I thought about time](https://open.spotify.com/artist/6wzgGTV6WrSvWxzNIpvSd8) | [By The River](https://open.spotify.com/album/4zd6B4p1VWTVpM0i2Pww4V) | 3:07 |
-| 166 | [432 Hz Omgivande](https://open.spotify.com/track/2GJufgGBgz94AxyMgZ9mjg) | [Ahti Aeo](https://open.spotify.com/artist/4cSNC9MaebEEZhCv2xjgaO) | [432 Hz Omgivande](https://open.spotify.com/album/0g7tYAR31jgDZhcQkheRlx) | 2:30 |
-| 167 | [Pneuma](https://open.spotify.com/track/1RcsFHk4cpJXZD7HvKtPdr) | [Omiophyllus](https://open.spotify.com/artist/6qgzkp2OY1uBlebnJxfOlx) | [Pneuma](https://open.spotify.com/album/22R3fV6MCMZZl6DJN4UNxI) | 3:25 |
-| 168 | [Friður](https://open.spotify.com/track/1rkmSbMTJ4kSNed9O4YwSt) | [Hugleiösla](https://open.spotify.com/artist/0ckEoQesFtWdmchnO9RmIg) | [Friður](https://open.spotify.com/album/4Fu7EYmSZhFNnLEvf4u7VO) | 3:14 |
-| 169 | [Gong like wind](https://open.spotify.com/track/2kUDELBLnmtHbhS6I6WYro) | [Auricz](https://open.spotify.com/artist/1PL9QegP0mArHAjJeJDKWN), [Georg Valeks](https://open.spotify.com/artist/0CdgdnjNOILlUCUFx0JfWS) | [Gong like wind](https://open.spotify.com/album/28HuOj4SnAEmTtECUqoxbD) | 3:12 |
-| 170 | [Quiet Water](https://open.spotify.com/track/6Sed7lQ9q1Iu87ew0WQlLl) | [Aisher Rami](https://open.spotify.com/artist/2zHZRicUVAYrE91sAwS4IJ) | [Quiet Water](https://open.spotify.com/album/1mqXXd4yMsXMPvHnbhkkzx) | 3:23 |
-| 171 | [Horizon](https://open.spotify.com/track/72g342BdHqVHgitJOVpKyU) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Horizon](https://open.spotify.com/album/6MiyneDUR4YLTtnuoqcvNy) | 3:00 |
+| 166 | [Pneuma](https://open.spotify.com/track/1RcsFHk4cpJXZD7HvKtPdr) | [Omiophyllus](https://open.spotify.com/artist/6qgzkp2OY1uBlebnJxfOlx) | [Pneuma](https://open.spotify.com/album/22R3fV6MCMZZl6DJN4UNxI) | 3:25 |
+| 167 | [Friður](https://open.spotify.com/track/1rkmSbMTJ4kSNed9O4YwSt) | [Hugleiösla](https://open.spotify.com/artist/0ckEoQesFtWdmchnO9RmIg) | [Friður](https://open.spotify.com/album/4Fu7EYmSZhFNnLEvf4u7VO) | 3:14 |
+| 168 | [Gong like wind](https://open.spotify.com/track/2kUDELBLnmtHbhS6I6WYro) | [Auricz](https://open.spotify.com/artist/1PL9QegP0mArHAjJeJDKWN), [Georg Valeks](https://open.spotify.com/artist/0CdgdnjNOILlUCUFx0JfWS) | [Gong like wind](https://open.spotify.com/album/28HuOj4SnAEmTtECUqoxbD) | 3:12 |
+| 169 | [Quiet Water](https://open.spotify.com/track/6Sed7lQ9q1Iu87ew0WQlLl) | [Aisher Rami](https://open.spotify.com/artist/2zHZRicUVAYrE91sAwS4IJ) | [Quiet Water](https://open.spotify.com/album/1mqXXd4yMsXMPvHnbhkkzx) | 3:23 |
+| 170 | [Horizon](https://open.spotify.com/track/72g342BdHqVHgitJOVpKyU) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Horizon](https://open.spotify.com/album/6MiyneDUR4YLTtnuoqcvNy) | 3:00 |
+| 171 | [432 Hz Omgivande](https://open.spotify.com/track/2GJufgGBgz94AxyMgZ9mjg) | [Ahti Aeo](https://open.spotify.com/artist/4cSNC9MaebEEZhCv2xjgaO) | [432 Hz Omgivande](https://open.spotify.com/album/0g7tYAR31jgDZhcQkheRlx) | 2:30 |
 | 172 | [Peaceful Weal \(by a Babbling Brook\)](https://open.spotify.com/track/6XcXTrmANCkpLiZ1hj215q) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [River Peace](https://open.spotify.com/album/78qKa5xSG1kJaoi5nSo2NZ) | 3:42 |
 | 173 | [Inner Universe](https://open.spotify.com/track/0pVsJoZUEO92yJrRmCb6Fe) | [Aurora Season](https://open.spotify.com/artist/6XEW2LnRmQUNPfTajKwImZ) | [Inner Universe](https://open.spotify.com/album/6J0yt0cvJfJxtsEPfe1DFh) | 2:52 |
 | 174 | [Gentle Waters](https://open.spotify.com/track/36jA0NyUCPAO56UWWt4s69) | [Joseph Rain](https://open.spotify.com/artist/1YHhB4lSX141uoyd58WoUc) | [Gentle Waters](https://open.spotify.com/album/0jeK1UiDDWXiS0YotgdsG6) | 2:59 |
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 | 179 | [Retrograde](https://open.spotify.com/track/545OJfzJ8JSXsp9maoiuIB) | [Abyssé](https://open.spotify.com/artist/4ZSC7QqnOxFeyGaAb2pKnQ) | [Retrograde](https://open.spotify.com/album/4tqFubjBcNsN4EL8EgaZE4) | 2:48 |
 | 180 | [Arms Reach](https://open.spotify.com/track/4HbSh61MlKqwfp089lUqx1) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Arms Reach](https://open.spotify.com/album/5bUvUBOI9nB7dzOz3PMIQl) | 2:53 |
 
-Snapshot ID: `MCw3ZDA2ZmYwMTc5MjI3ODk4OWI3ZWIxM2RlNTQzNmYyNWFlNTMxMjQw`
+Snapshot ID: `MCw5ODE1ODQ2ZDFlZDAyZGZlOWMzN2ExMzE2MGNiNDI0YWI1Mjk3ODA0`

@@ -1,12 +1,12 @@
 {
   "description": "Move your way through the day with the dance tracks you love.",
-  "num_followers": 58836,
+  "num_followers": 58849,
   "original_name": "Dance All Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWVlMzBjNGJlYmVhYmZiM2IyOWY3YWMyMmQ1NGZkNjEzZWJkZmJh",
+  "snapshot_id": "MCwyZjA1NWY4YjZlNWRjODQyNGZjNWM4ZmUwMDFmY2QwNGJlMWMwYTU0",
   "tracks": [
     {
       "added_at": "2024-02-09 14:34:34",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-02-09 14:34:34",
       "album": {
-        "name": "The Business",
-        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "The Business",
-      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
-    },
-    {
-      "added_at": "2024-02-09 14:34:34",
-      "album": {
         "name": "Edge of Seventeen",
         "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
       },
@@ -839,6 +823,22 @@
     {
       "added_at": "2024-02-09 14:34:34",
       "album": {
+        "name": "The Business",
+        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "The Business",
+      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
+    },
+    {
+      "added_at": "2024-02-09 14:34:34",
+      "album": {
         "name": "Eat Your Man (with Nelly Furtado)",
         "url": "https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ"
       },
@@ -891,26 +891,6 @@
       "duration_ms": 179999,
       "name": "If U Need It",
       "url": "https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp"
-    },
-    {
-      "added_at": "2024-02-09 14:34:34",
-      "album": {
-        "name": "DRIVE",
-        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 129817,
-      "name": "Hot In It (feat. Charli XCX)",
-      "url": "https://open.spotify.com/track/5pNFibJLq7dvoDVIIcQBkn"
     },
     {
       "added_at": "2024-02-09 14:34:34",
@@ -987,6 +967,26 @@
     {
       "added_at": "2024-02-09 14:34:34",
       "album": {
+        "name": "You Give Me A Feeling",
+        "url": "https://open.spotify.com/album/2UUluViWyFRdmxqsNap7hm"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 185896,
+      "name": "You Give Me A Feeling",
+      "url": "https://open.spotify.com/track/2qRKTg13LJGHO4fmQTWT7x"
+    },
+    {
+      "added_at": "2024-02-09 14:34:34",
+      "album": {
         "name": "messy in heaven",
         "url": "https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6"
       },
@@ -1007,22 +1007,22 @@
     {
       "added_at": "2024-02-09 14:34:34",
       "album": {
-        "name": "You Give Me A Feeling",
-        "url": "https://open.spotify.com/album/2UUluViWyFRdmxqsNap7hm"
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
       },
       "artists": [
         {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         },
         {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 185896,
-      "name": "You Give Me A Feeling",
-      "url": "https://open.spotify.com/track/2qRKTg13LJGHO4fmQTWT7x"
+      "duration_ms": 129817,
+      "name": "Hot In It (feat. Charli XCX)",
+      "url": "https://open.spotify.com/track/5pNFibJLq7dvoDVIIcQBkn"
     },
     {
       "added_at": "2024-02-09 14:34:34",

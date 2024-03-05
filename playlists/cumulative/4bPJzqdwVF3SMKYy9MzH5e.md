@@ -4,7 +4,7 @@
 
 > 
 
-1,867 songs - 4 day 4 hr 54 min
+1,868 songs - 4 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1285,6 +1285,7 @@
 | [Press](https://open.spotify.com/track/6dPyzkyZwoj9LqjQXOFdVv) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Press](https://open.spotify.com/album/4OYI54WJJQRkCG4FVmIuTZ) | 2:23 | 2021-08-05 |  |
 | [Pretty Bones](https://open.spotify.com/track/1wl53ydLl7vh2t7bFMZ5dn) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Serotonin II](https://open.spotify.com/album/5HZHvhX5TpJJD6hTgn0j0D) | 4:33 | 2022-12-28 |  |
 | [Pretty Girl](https://open.spotify.com/track/0KyAGiNGUytG5JLxJu4F6l) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Pretty Girl](https://open.spotify.com/album/3nkwKrSQJ9l84VV8uuymk9) | 2:58 | 2021-08-05 |  |
+| [Pretty Girl Vamp](https://open.spotify.com/track/3CeoqupTfHWakwrxdlifjQ) | [Xtick Man](https://open.spotify.com/artist/6lPMmlVmdWSQC0ZlCexBc3), [ODECORE](https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7) | [Pretty Girl Vamp](https://open.spotify.com/album/4GjgVQ101KFLFtFTbt23MD) | 2:27 | 2024-03-04 |  |
 | [Pretty Girls](https://open.spotify.com/track/3c0NlyfimtupjK3PlaQDLl) | [Michael Seyer](https://open.spotify.com/artist/7K4cef9h3NvU7Xb3BH7Ade) | [Ugly Boy](https://open.spotify.com/album/3LqeHSxJ6ENNUZAx9fwiPe) | 3:46 | 2021-11-14 |  |
 | [Pretty When You Cry](https://open.spotify.com/track/6PnluwP0fjGnpIBsqTdUTq) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 3:54 | 2022-02-04 |  |
 | [PRIDE.](https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 4:35 | 2021-12-30 |  |

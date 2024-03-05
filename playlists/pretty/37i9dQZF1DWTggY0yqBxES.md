@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Tierra Whack
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,656 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 945,680 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 99 | [mistakes](https://open.spotify.com/track/2tq5AUHBZ954Vp51THVYAW) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [mistakes](https://open.spotify.com/album/3rgtRN4qbg8GytZwTc64Pe) | 2:08 |
 | 100 | [Destiny](https://open.spotify.com/track/5eArWUVDGcjO9zNXMYguEW) | [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM) | [Destiny](https://open.spotify.com/album/1BDtfB8bRHcCaXk0ck9uXW) | 1:36 |
 
-Snapshot ID: `MCxmNjVkZmE4M2U1OWVjYzQzMzI5NTAyZmNkYzJlYzAzNmY4OTAxOTg1`
+Snapshot ID: `MCxkNTcxMzkxZWFkMDYwZTAwMzMxZDMyMTZkZjlmMmI4Njg5NmEzMzcz`

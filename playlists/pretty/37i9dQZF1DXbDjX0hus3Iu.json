@@ -1,12 +1,12 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 493286,
+  "num_followers": 493342,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZWM1Yjk4MmY4ODViODEwYmRiNjM3MmM2NDI1OWM1OTIwZTI3NTRi",
+  "snapshot_id": "MCwwYzY5MjQyNjYwMGJkMGY1MjA0MTNiYTU0MjE0YzFmY2EzNzg3MDY5",
   "tracks": [
     {
       "added_at": "2023-01-18 21:52:55",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Georgia Satellites",
-        "url": "https://open.spotify.com/album/0obHqsEpkaCWGWGjxcdXel"
+        "name": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
+        "url": "https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs"
       },
       "artists": [
         {
-          "name": "The Georgia Satellites",
-          "url": "https://open.spotify.com/artist/2hnzQ6eCFkxUIPsVcsdj8A"
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Keep Your Hands to Yourself",
-      "url": "https://open.spotify.com/track/5tORtBzHUAnNrIw5Ql3kHZ"
+      "duration_ms": 547106,
+      "name": "Free Bird",
+      "url": "https://open.spotify.com/track/5EWPGh7jbTNO2wakv8LjUI"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
-        "url": "https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs"
-      },
-      "artists": [
-        {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
-        }
-      ],
-      "duration_ms": 547106,
-      "name": "Free Bird",
-      "url": "https://open.spotify.com/track/5EWPGh7jbTNO2wakv8LjUI"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "Brothers And Sisters (Super Deluxe)",
         "url": "https://open.spotify.com/album/3ScnBmNrSaz9YHNNwceSXw"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 288160,
       "name": "Ramblin' Man",
       "url": "https://open.spotify.com/track/7y4CK8bbzxpyKu73WOvgHJ"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Georgia Satellites",
+        "url": "https://open.spotify.com/album/0obHqsEpkaCWGWGjxcdXel"
+      },
+      "artists": [
+        {
+          "name": "The Georgia Satellites",
+          "url": "https://open.spotify.com/artist/2hnzQ6eCFkxUIPsVcsdj8A"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Keep Your Hands to Yourself",
+      "url": "https://open.spotify.com/track/5tORtBzHUAnNrIw5Ql3kHZ"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -299,18 +299,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Eat A Peach",
-        "url": "https://open.spotify.com/album/6D9I7GZsqc3pwDg3DFrtjs"
+        "name": "It'll Shine When It Shines",
+        "url": "https://open.spotify.com/album/558WlMriwRXU9I2Hq6JMzG"
       },
       "artists": [
         {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+          "name": "The Ozark Mountain Daredevils",
+          "url": "https://open.spotify.com/artist/7jM2XoJBKhdL8oNnDr4re9"
         }
       ],
-      "duration_ms": 311703,
-      "name": "Blue Sky",
-      "url": "https://open.spotify.com/track/6iX1QW1gGIVNEItnqyvFfH"
+      "duration_ms": 250120,
+      "name": "Jackie Blue",
+      "url": "https://open.spotify.com/track/1R9EHsvzpXwOvlGkgDmE55"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -331,34 +331,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "It'll Shine When It Shines",
-        "url": "https://open.spotify.com/album/558WlMriwRXU9I2Hq6JMzG"
+        "name": "Eat A Peach",
+        "url": "https://open.spotify.com/album/6D9I7GZsqc3pwDg3DFrtjs"
       },
       "artists": [
         {
-          "name": "The Ozark Mountain Daredevils",
-          "url": "https://open.spotify.com/artist/7jM2XoJBKhdL8oNnDr4re9"
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
         }
       ],
-      "duration_ms": 250120,
-      "name": "Jackie Blue",
-      "url": "https://open.spotify.com/track/1R9EHsvzpXwOvlGkgDmE55"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
-        "name": "Rock & Roll Strategy",
-        "url": "https://open.spotify.com/album/1jCoBw99NDS3xv2KRF7ygX"
-      },
-      "artists": [
-        {
-          "name": "38 Special",
-          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
-        }
-      ],
-      "duration_ms": 304693,
-      "name": "Second Chance",
-      "url": "https://open.spotify.com/track/0RAn8LOs5QVMLy2xH30bUj"
+      "duration_ms": 311703,
+      "name": "Blue Sky",
+      "url": "https://open.spotify.com/track/6iX1QW1gGIVNEItnqyvFfH"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -375,6 +359,22 @@
       "duration_ms": 215066,
       "name": "The Devil Went Down to Georgia",
       "url": "https://open.spotify.com/track/6gRACp2CvsIhc7hyw8CecQ"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Rock & Roll Strategy",
+        "url": "https://open.spotify.com/album/1jCoBw99NDS3xv2KRF7ygX"
+      },
+      "artists": [
+        {
+          "name": "38 Special",
+          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
+        }
+      ],
+      "duration_ms": 304693,
+      "name": "Second Chance",
+      "url": "https://open.spotify.com/track/0RAn8LOs5QVMLy2xH30bUj"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -407,22 +407,6 @@
       "duration_ms": 267173,
       "name": "Gimme Three Steps",
       "url": "https://open.spotify.com/track/0x2wtJbtJrox3SDmnMj97x"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
-        "name": "Eat A Peach",
-        "url": "https://open.spotify.com/album/6D9I7GZsqc3pwDg3DFrtjs"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 221890,
-      "name": "Ain't Wastin' Time No More",
-      "url": "https://open.spotify.com/track/4euYSSvpQZSAQ4gThyL2QD"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -475,18 +459,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Dixie Chicken",
-        "url": "https://open.spotify.com/album/4xtCtXkGuTbHQwTaVd5FCF"
+        "name": "Eat A Peach",
+        "url": "https://open.spotify.com/album/6D9I7GZsqc3pwDg3DFrtjs"
       },
       "artists": [
         {
-          "name": "Little Feat",
-          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
         }
       ],
-      "duration_ms": 239106,
-      "name": "Dixie Chicken",
-      "url": "https://open.spotify.com/track/0eTHlx53lUn95HVsJtR6Qx"
+      "duration_ms": 221890,
+      "name": "Ain't Wastin' Time No More",
+      "url": "https://open.spotify.com/track/4euYSSvpQZSAQ4gThyL2QD"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -503,22 +487,6 @@
       "duration_ms": 467800,
       "name": "Soulshine",
       "url": "https://open.spotify.com/track/3lzYx9dpCNw6CkttQe6SlE"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
-        "name": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
-        "url": "https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs"
-      },
-      "artists": [
-        {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
-        }
-      ],
-      "duration_ms": 450226,
-      "name": "Tuesday's Gone",
-      "url": "https://open.spotify.com/track/64sn7wgJfeQKY3Jisnl59w"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -551,6 +519,38 @@
       "duration_ms": 237333,
       "name": "Keep On Smilin'",
       "url": "https://open.spotify.com/track/6sHrxsewgTMPs2Di4x636C"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
+        "url": "https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "duration_ms": 450226,
+      "name": "Tuesday's Gone",
+      "url": "https://open.spotify.com/track/64sn7wgJfeQKY3Jisnl59w"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Dixie Chicken",
+        "url": "https://open.spotify.com/album/4xtCtXkGuTbHQwTaVd5FCF"
+      },
+      "artists": [
+        {
+          "name": "Little Feat",
+          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
+        }
+      ],
+      "duration_ms": 239106,
+      "name": "Dixie Chicken",
+      "url": "https://open.spotify.com/track/0eTHlx53lUn95HVsJtR6Qx"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -619,18 +619,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Rockin' Into The Night",
-        "url": "https://open.spotify.com/album/6Y5TCAPz4RNwgandUvik2A"
+        "name": "Laid Back (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3UMtaez6qiiilTt74ypXXT"
       },
       "artists": [
         {
-          "name": "38 Special",
-          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
+          "name": "Gregg Allman",
+          "url": "https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I"
         }
       ],
-      "duration_ms": 241226,
-      "name": "Rockin' Into The Night",
-      "url": "https://open.spotify.com/track/1rWqtf1rOYiPEb9puv2bYd"
+      "duration_ms": 267363,
+      "name": "Midnight Rider",
+      "url": "https://open.spotify.com/track/23ZOiEUix1FsthnLfpWXqj"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Laid Back (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3UMtaez6qiiilTt74ypXXT"
+        "name": "Rockin' Into The Night",
+        "url": "https://open.spotify.com/album/6Y5TCAPz4RNwgandUvik2A"
       },
       "artists": [
         {
-          "name": "Gregg Allman",
-          "url": "https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I"
+          "name": "38 Special",
+          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
         }
       ],
-      "duration_ms": 267363,
-      "name": "Midnight Rider",
-      "url": "https://open.spotify.com/track/23ZOiEUix1FsthnLfpWXqj"
+      "duration_ms": 241226,
+      "name": "Rockin' Into The Night",
+      "url": "https://open.spotify.com/track/1rWqtf1rOYiPEb9puv2bYd"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Feats Don't Fail Me Now",
-        "url": "https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD"
-      },
-      "artists": [
-        {
-          "name": "Little Feat",
-          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
-        }
-      ],
-      "duration_ms": 147666,
-      "name": "Feats Don't Fail Me Now",
-      "url": "https://open.spotify.com/track/63WY1u5pDf6Nk5Z7xqmn9f"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "The Whippoorwill",
         "url": "https://open.spotify.com/album/2jFnRLRUvsEfnmosLcwjCi"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 214866,
       "name": "Pretty Little Lie",
       "url": "https://open.spotify.com/track/6b45yra2a9So8yTNeHZdgt"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Feats Don't Fail Me Now",
+        "url": "https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD"
+      },
+      "artists": [
+        {
+          "name": "Little Feat",
+          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
+        }
+      ],
+      "duration_ms": 147666,
+      "name": "Feats Don't Fail Me Now",
+      "url": "https://open.spotify.com/track/63WY1u5pDf6Nk5Z7xqmn9f"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Best Of...Green Grass & High Tides",
-        "url": "https://open.spotify.com/album/1MhPGLDNQLwtqxwJRU9brd"
-      },
-      "artists": [
-        {
-          "name": "The Outlaws",
-          "url": "https://open.spotify.com/artist/72JEwd3EjDEwTLypkFYJn9"
-        }
-      ],
-      "duration_ms": 586400,
-      "name": "Green Grass & High Tides - Remastered",
-      "url": "https://open.spotify.com/track/4BxfXnGbnlibcUUPKog7Ne"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "Til the Medicine Takes",
         "url": "https://open.spotify.com/album/2JaUecwsXmm2x9eLfVLu7Z"
       },
@@ -807,6 +791,38 @@
       "duration_ms": 376666,
       "name": "Gator Country",
       "url": "https://open.spotify.com/track/2o6cfQNwM9njeMjhC2muaY"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Best Of...Green Grass & High Tides",
+        "url": "https://open.spotify.com/album/1MhPGLDNQLwtqxwJRU9brd"
+      },
+      "artists": [
+        {
+          "name": "The Outlaws",
+          "url": "https://open.spotify.com/artist/72JEwd3EjDEwTLypkFYJn9"
+        }
+      ],
+      "duration_ms": 586400,
+      "name": "Green Grass & High Tides - Remastered",
+      "url": "https://open.spotify.com/track/4BxfXnGbnlibcUUPKog7Ne"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Where a Country Boy Belongs",
+        "url": "https://open.spotify.com/album/0rP1zFi6WyUG9TxKmGknG1"
+      },
+      "artists": [
+        {
+          "name": "The Marshall Tucker Band",
+          "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
+        }
+      ],
+      "duration_ms": 295666,
+      "name": "Heard It in a Love Song",
+      "url": "https://open.spotify.com/track/3T3aWHBbX85hqRPsd8vhJB"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -843,18 +859,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Where a Country Boy Belongs",
-        "url": "https://open.spotify.com/album/0rP1zFi6WyUG9TxKmGknG1"
+        "name": "Ain't Life Grand",
+        "url": "https://open.spotify.com/album/1dVzzHkYH4vs1qwtJOk0rU"
       },
       "artists": [
         {
-          "name": "The Marshall Tucker Band",
-          "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
+          "name": "Widespread Panic",
+          "url": "https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf"
         }
       ],
-      "duration_ms": 295666,
-      "name": "Heard It in a Love Song",
-      "url": "https://open.spotify.com/track/3T3aWHBbX85hqRPsd8vhJB"
+      "duration_ms": 287040,
+      "name": "Ain't Life Grand",
+      "url": "https://open.spotify.com/track/4YslG4WvV5eXviT2q0gO8K"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -875,18 +891,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Molly Hatchet",
-        "url": "https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1fxEYNwdEzlAMOIzpdXy5w"
       },
       "artists": [
         {
-          "name": "Molly Hatchet",
-          "url": "https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10"
+          "name": "The Marshall Tucker Band",
+          "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
         }
       ],
-      "duration_ms": 177600,
-      "name": "Bounty Hunter",
-      "url": "https://open.spotify.com/track/50d2zWUEVp9jn0EphgvdWe"
+      "duration_ms": 185840,
+      "name": "Searchin' for a Rainbow",
+      "url": "https://open.spotify.com/track/5zS2DXR0XKNsVQSCHGEhx2"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -907,18 +923,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Ain't Life Grand",
-        "url": "https://open.spotify.com/album/1dVzzHkYH4vs1qwtJOk0rU"
+        "name": "Molly Hatchet",
+        "url": "https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3"
       },
       "artists": [
         {
-          "name": "Widespread Panic",
-          "url": "https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf"
+          "name": "Molly Hatchet",
+          "url": "https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10"
         }
       ],
-      "duration_ms": 287040,
-      "name": "Ain't Life Grand",
-      "url": "https://open.spotify.com/track/4YslG4WvV5eXviT2q0gO8K"
+      "duration_ms": 177600,
+      "name": "Bounty Hunter",
+      "url": "https://open.spotify.com/track/50d2zWUEVp9jn0EphgvdWe"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -967,22 +983,6 @@
       "duration_ms": 346933,
       "name": "(Ghost) Riders In The Sky",
       "url": "https://open.spotify.com/track/5Y8gFnBzwcMEWa2vmmUABR"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1fxEYNwdEzlAMOIzpdXy5w"
-      },
-      "artists": [
-        {
-          "name": "The Marshall Tucker Band",
-          "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
-        }
-      ],
-      "duration_ms": 185840,
-      "name": "Searchin' for a Rainbow",
-      "url": "https://open.spotify.com/track/5zS2DXR0XKNsVQSCHGEhx2"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Marauder",
-        "url": "https://open.spotify.com/album/7j0wSeUKj4rz2Surh5ICdN"
-      },
-      "artists": [
-        {
-          "name": "Blackfoot",
-          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
-        }
-      ],
-      "duration_ms": 242773,
-      "name": "Rattlesnake Rock 'N' Roller",
-      "url": "https://open.spotify.com/track/1qDqZxOGB335PJYjIUvwP3"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "Keep On Smilin'",
         "url": "https://open.spotify.com/album/1795bIZgqJOLkUh2d0JO60"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 210426,
       "name": "Country Side Of Life",
       "url": "https://open.spotify.com/track/2qQusZC1YyZSLzhkffY9IG"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Marauder",
+        "url": "https://open.spotify.com/album/7j0wSeUKj4rz2Surh5ICdN"
+      },
+      "artists": [
+        {
+          "name": "Blackfoot",
+          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
+        }
+      ],
+      "duration_ms": 242773,
+      "name": "Rattlesnake Rock 'N' Roller",
+      "url": "https://open.spotify.com/track/1qDqZxOGB335PJYjIUvwP3"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
+        "name": "Cats On The Coast",
+        "url": "https://open.spotify.com/album/3R4P3ai1blLNI2c8WXhpqR"
+      },
+      "artists": [
+        {
+          "name": "Sea Level",
+          "url": "https://open.spotify.com/artist/3VqsPf2lM6ulJ5fjCJquyP"
+        }
+      ],
+      "duration_ms": 316600,
+      "name": "That's Your Secret",
+      "url": "https://open.spotify.com/track/4cPgzpdeKtOkgBYqHNLe9P"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
         "name": "Grey Ghost",
         "url": "https://open.spotify.com/album/0DCaJ8Y99VKHdLHaMGeJ1M"
       },
@@ -1307,22 +1323,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Cats On The Coast",
-        "url": "https://open.spotify.com/album/3R4P3ai1blLNI2c8WXhpqR"
-      },
-      "artists": [
-        {
-          "name": "Sea Level",
-          "url": "https://open.spotify.com/artist/3VqsPf2lM6ulJ5fjCJquyP"
-        }
-      ],
-      "duration_ms": 316600,
-      "name": "That's Your Secret",
-      "url": "https://open.spotify.com/track/4cPgzpdeKtOkgBYqHNLe9P"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "Free Fall",
         "url": "https://open.spotify.com/album/6WtQ7NpP9nZV7cBybTiL4c"
       },
@@ -1335,22 +1335,6 @@
       "duration_ms": 198040,
       "name": "Refried Funky Chicken",
       "url": "https://open.spotify.com/track/2NN052M5Inp7KfwPT9xner"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
-        "name": "I'm No Angel",
-        "url": "https://open.spotify.com/album/6x8lu9zMzEAz2GKB63kKAe"
-      },
-      "artists": [
-        {
-          "name": "The Gregg Allman Band",
-          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
-        }
-      ],
-      "duration_ms": 242106,
-      "name": "Can't Keep Running",
-      "url": "https://open.spotify.com/track/09VHjYoL6VRHh5anKV1e09"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1399,6 +1383,22 @@
       "duration_ms": 223760,
       "name": "Bad Little Doggie",
       "url": "https://open.spotify.com/track/3ugXVwlV5FvbyeYRZ0YjFN"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "I'm No Angel",
+        "url": "https://open.spotify.com/album/6x8lu9zMzEAz2GKB63kKAe"
+      },
+      "artists": [
+        {
+          "name": "The Gregg Allman Band",
+          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
+        }
+      ],
+      "duration_ms": 242106,
+      "name": "Can't Keep Running",
+      "url": "https://open.spotify.com/track/09VHjYoL6VRHh5anKV1e09"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Just Before The Bullets Fly",
-        "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
-      },
-      "artists": [
-        {
-          "name": "The Gregg Allman Band",
-          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
-        }
-      ],
-      "duration_ms": 252466,
-      "name": "Thorn And A Wild Rose",
-      "url": "https://open.spotify.com/track/547dyoV9eT7pPO8QbiexoI"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "Train, Train",
         "url": "https://open.spotify.com/album/1XhDXpPbnaPmyB526mHa0I"
       },
@@ -1535,6 +1519,38 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
+        "name": "Just Before The Bullets Fly",
+        "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
+      },
+      "artists": [
+        {
+          "name": "The Gregg Allman Band",
+          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
+        }
+      ],
+      "duration_ms": 252466,
+      "name": "Thorn And A Wild Rose",
+      "url": "https://open.spotify.com/track/547dyoV9eT7pPO8QbiexoI"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Pullin' Together",
+        "url": "https://open.spotify.com/album/4KYsD0KdmyZZT34Sp8hLUz"
+      },
+      "artists": [
+        {
+          "name": "Grinderswitch",
+          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
+        }
+      ],
+      "duration_ms": 249626,
+      "name": "Open Road",
+      "url": "https://open.spotify.com/track/0qmMJfVn7KlhRab9zgwS7z"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
         "name": "Southern Delight/Barefoot Jerry",
         "url": "https://open.spotify.com/album/69OytdILaMW8zJVK5KXAXV"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 396226,
       "name": "Duane's Tune",
       "url": "https://open.spotify.com/track/3ZJ2fqZgjunv0RbEBeAowU"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
-        "name": "Pullin' Together",
-        "url": "https://open.spotify.com/album/4KYsD0KdmyZZT34Sp8hLUz"
-      },
-      "artists": [
-        {
-          "name": "Grinderswitch",
-          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
-        }
-      ],
-      "duration_ms": 249626,
-      "name": "Open Road",
-      "url": "https://open.spotify.com/track/0qmMJfVn7KlhRab9zgwS7z"
     },
     {
       "added_at": "2023-01-18 21:52:55",

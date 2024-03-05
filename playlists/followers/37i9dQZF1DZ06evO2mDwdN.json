@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 12058,
+  "2024-03-05": 12064,
   "date_first_scraped": "2022-05-26",
   "description": "This is Harold Melvin & The Blue Notes. The essential tracks, all in one playlist.",
   "name": "This Is Harold Melvin & The Blue Notes",
@@ -283,6 +283,24 @@
     {
       "album": {
         "name": "Harold Melvin & The Blue Notes",
+        "url": "https://open.spotify.com/album/0RQg9BXfVrUxx1qwFqmG7S"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249760,
+      "name": "Could It Be I'm Falling in Love (Rerecorded)",
+      "url": "https://open.spotify.com/track/6WgxSw91rQSUtGRwwLnLk5"
+    },
+    {
+      "album": {
+        "name": "Harold Melvin & The Blue Notes",
         "url": "https://open.spotify.com/album/3mfHEkuBkfqNzHsgVNybOr"
       },
       "artists": [
@@ -381,7 +399,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 398453,
       "name": "Don't Give Me Up - M & M 12\" Mix",
       "url": "https://open.spotify.com/track/4tBRV1dhprHCwYo6Uy3z2j"
@@ -1001,7 +1019,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-26",
+      "date_removed": null,
       "duration_ms": 290613,
       "name": "It All Depends On You (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/3Hy8XnWjOEl4bjFmigA1Fr"
@@ -1159,7 +1177,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 302642,
       "name": "Love Train - Live",
       "url": "https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj"
@@ -1177,7 +1195,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 180320,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/5FTMgPrAk6rgxUtRixquXB"
@@ -1549,7 +1567,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 213853,
       "name": "The Love I Lost (feat. Teddy Pendergrass) - Single Version",
       "url": "https://open.spotify.com/track/7AswIMJtp31Y62pgWFoQJI"

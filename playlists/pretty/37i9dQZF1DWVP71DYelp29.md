@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 
 > The hits you know like you’ve never heard before\. Cover: Madison Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 739,278 likes - 125 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 739,276 likes - 125 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 | 8 | [Toxic](https://open.spotify.com/track/4X1qDzQdpuxN6UOkaq6UXi) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Spotify Singles](https://open.spotify.com/album/0WCQS4X35RP4kLo6qRiOD3) | 4:29 |
 | 9 | [Baby One More Time \- Recorded at Spotify Studios New York City](https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Spotify Singles](https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF) | 2:57 |
 | 10 | [True Colors \(Spotify Singles\)](https://open.spotify.com/track/2GSzaHXWxiHCo0pk0uOOpE) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [True Colors \(Spotify Singles\)](https://open.spotify.com/album/2XqYU9p7ACtpHfsOfW0I6q) | 3:20 |
-| 11 | [I'm Like A Bird \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2JtSnwYNKOphDrshYL8n4p) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Spotify Singles](https://open.spotify.com/album/4e1KPKRbxwbrHnysHvve8j) | 3:39 |
-| 12 | [Delicate \- Recorded at The Tracking Room Nashville](https://open.spotify.com/track/1Fj0T1XKuhRu7EZzJ7NJIK) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Spotify Singles](https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8) | 3:48 |
+| 11 | [Delicate \- Recorded at The Tracking Room Nashville](https://open.spotify.com/track/1Fj0T1XKuhRu7EZzJ7NJIK) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Spotify Singles](https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8) | 3:48 |
+| 12 | [I'm Like A Bird \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2JtSnwYNKOphDrshYL8n4p) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Spotify Singles](https://open.spotify.com/album/4e1KPKRbxwbrHnysHvve8j) | 3:39 |
 | 13 | [Spooky \- Recorded at RAK Studios, London](https://open.spotify.com/track/2y0odeTeYsxWvYQ5rYANu0) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Spotify Singles](https://open.spotify.com/album/0aqv2HD8GPGDDM0CokS0Fk) | 3:41 |
 | 14 | [ocean eyes \- Recorded Live at Jungle City Studios](https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Spotify Singles](https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW) | 3:04 |
 | 15 | [Use Somebody \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Spotify Singles](https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh) | 2:56 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 | 124 | [Walking Away \- Recorded At Spotify Studios Stockholm](https://open.spotify.com/track/6eXTECbiawTve7VP1vEDcs) | [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg) | [Spotify Singles](https://open.spotify.com/album/4ZXl1inxvsA1x3uKIIRomO) | 3:21 |
 | 125 | [T\-Shirt \(Spotify Mix\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7yTGNfswQgcfZ0Y1LLI5aA) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Spotify Singles](https://open.spotify.com/album/5A7U3iko4a07wkEZNxmqIe) | 2:43 |
 
-Snapshot ID: `MCxlODcxNWY3N2U1ZDI0OTAzNzVkMDdhM2EzZmFkODMwZjY3ODljZGIy`
+Snapshot ID: `MCwzNmExZDcyY2U1ZGQ4NzY5YzY1MWRlN2Q1ZjQ2NjFjNzYxZTIxMGVj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 
 > This is Maverick City Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,116 likes - 50 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,168 likes - 50 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 | 49 | [Simple Adoración \(feat\. Laila Olivera & Johnny Peña\)](https://open.spotify.com/track/0wYot44AfBl47H4dHb9CIF) | [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Laila Olivera](https://open.spotify.com/artist/5VtJqt6InNwbrpeZ492kWX), [Johnny Peña](https://open.spotify.com/artist/02vFhaWs4QCenZimcS7FTG) | [Simple Adoración](https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk) | 7:44 |
 | 50 | [Pull Me Close \(feat\. Rosie Mac\)](https://open.spotify.com/track/7mQlQBxcTSJITsqcHK3s0n) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Rosie Mac](https://open.spotify.com/artist/1djtj57J9xN4iKp1f201ws) | [The Maverick Way Complete](https://open.spotify.com/album/3R11N2u1LlPZmraUEhAI54) | 4:15 |
 
-Snapshot ID: `Mjg0OTExMzksMDAwMDAwMDA1NjU5OThkYTVlYWI2ZTk5NmI0MzI0MDhkZWFjZDViZQ==`
+Snapshot ID: `Mjg0OTI1NjksMDAwMDAwMDAzNDk3NmI4ZmRjYTUxY2FmZjFhOWUxZTI0MzUxNjk0Yw==`

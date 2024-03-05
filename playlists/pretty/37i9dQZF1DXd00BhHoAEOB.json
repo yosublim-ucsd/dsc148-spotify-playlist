@@ -1,12 +1,12 @@
 {
   "description": "Planta de la bugambilia que me cubres y me matas. ",
-  "num_followers": 67022,
+  "num_followers": 67089,
   "original_name": "Bugambilias",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTAyMDBmYmU1MGQ2OGIwM2ZkMDdmYzhiMGQ2ODdhOTU2MmFiMDBj",
+  "snapshot_id": "MCxjOWE4ZjVkMTM4ZTA2MDQ1MmRmN2Y1NzFjZTcwNmZiOTkxMGY1YjRi",
   "tracks": [
     {
       "added_at": "2023-06-15 16:40:57",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 279213,
-      "name": "Lo Que Construimos",
-      "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
         "name": "D\u00e9jenme Llorar",
         "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
       },
@@ -191,22 +175,6 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
-        "name": "Limon Y Sal",
-        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 205413,
-      "name": "Lim\u00f3n y Sal",
-      "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
         "name": "Barrio Bravo",
         "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
       },
@@ -223,6 +191,38 @@
       "duration_ms": 213133,
       "name": "Aunque no sea conmigo (feat. Caf\u00e9 Tacvba)",
       "url": "https://open.spotify.com/track/199gJ6b1aihvmEqdQZr0qT"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 205413,
+      "name": "Lim\u00f3n y Sal",
+      "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 279213,
+      "name": "Lo Que Construimos",
+      "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -283,6 +283,38 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
+        "name": "Caf\u00e9 Tacvba",
+        "url": "https://open.spotify.com/album/4nTUHZSed3ZiQjKs8f5Zbr"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 205026,
+      "name": "Las batallas",
+      "url": "https://open.spotify.com/track/4HTQcxErjqv1Up3ZOoJ1di"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 241626,
+      "name": "Hasta la Piel",
+      "url": "https://open.spotify.com/track/5zu4MAEQblGCaTrbXtfpb8"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
         "name": "Suspiros",
         "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
       },
@@ -311,38 +343,6 @@
       "duration_ms": 231053,
       "name": "El lugar correcto",
       "url": "https://open.spotify.com/track/3G6XpCfczuhbTSBlgfqe9v"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
-        "name": "D\u00e9jenme Llorar",
-        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 241626,
-      "name": "Hasta la Piel",
-      "url": "https://open.spotify.com/track/5zu4MAEQblGCaTrbXtfpb8"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
-        "name": "Caf\u00e9 Tacvba",
-        "url": "https://open.spotify.com/album/4nTUHZSed3ZiQjKs8f5Zbr"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 205026,
-      "name": "Las batallas",
-      "url": "https://open.spotify.com/track/4HTQcxErjqv1Up3ZOoJ1di"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -383,26 +383,6 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
-        "name": "Suspiros",
-        "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 209652,
-      "name": "Diez Pasos Hacia Ti",
-      "url": "https://open.spotify.com/track/54KsfVVnN4YWI2mMrnyUcC"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
         "name": "8 A\u00f1os",
         "url": "https://open.spotify.com/album/3d1utyj80pLW7lVZa19pIP"
       },
@@ -415,26 +395,6 @@
       "duration_ms": 200725,
       "name": "El Jardin",
       "url": "https://open.spotify.com/track/73eUiyq2OGr7JtOmgbyMxj"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
-        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
-        "url": "https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Los Macorinos",
-          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
-        }
-      ],
-      "duration_ms": 244933,
-      "name": "T\u00fa S\u00ed Sabes Quererme (feat. Los Macorinos)",
-      "url": "https://open.spotify.com/track/6p3yxt0uJJshAS3CT0znQg"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -467,6 +427,46 @@
       "duration_ms": 199936,
       "name": "Al Norte",
       "url": "https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
+        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
+        "url": "https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Los Macorinos",
+          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
+        }
+      ],
+      "duration_ms": 244933,
+      "name": "T\u00fa S\u00ed Sabes Quererme (feat. Los Macorinos)",
+      "url": "https://open.spotify.com/track/6p3yxt0uJJshAS3CT0znQg"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
+        "name": "Suspiros",
+        "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 209652,
+      "name": "Diez Pasos Hacia Ti",
+      "url": "https://open.spotify.com/track/54KsfVVnN4YWI2mMrnyUcC"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -539,42 +539,6 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
-        "name": "Suspiros",
-        "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 293098,
-      "name": "Quisiera",
-      "url": "https://open.spotify.com/track/1DH0Cg447H2wioWGvW4S3z"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
-        "name": "Romancero",
-        "url": "https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ"
-      },
-      "artists": [
-        {
-          "name": "La Bien Querida",
-          "url": "https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6"
-        }
-      ],
-      "duration_ms": 184480,
-      "name": "De Momento Abril",
-      "url": "https://open.spotify.com/track/1kjJLQhV2NDCWCf0ParWAJ"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
         "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
       },
@@ -595,6 +559,22 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
+        "name": "Romancero",
+        "url": "https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ"
+      },
+      "artists": [
+        {
+          "name": "La Bien Querida",
+          "url": "https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6"
+        }
+      ],
+      "duration_ms": 184480,
+      "name": "De Momento Abril",
+      "url": "https://open.spotify.com/track/1kjJLQhV2NDCWCf0ParWAJ"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
         "name": "Primeras Canciones",
         "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
       },
@@ -611,18 +591,22 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
-        "name": "A Contraluz",
-        "url": "https://open.spotify.com/album/3YU2xPZsi4hq3psgarabmD"
+        "name": "Suspiros",
+        "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
       },
       "artists": [
         {
-          "name": "Luz Casal",
-          "url": "https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El"
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 269360,
-      "name": "Piensa en m\u00ed",
-      "url": "https://open.spotify.com/track/794LRMm5vapB2wM0pKzPuT"
+      "duration_ms": 293098,
+      "name": "Quisiera",
+      "url": "https://open.spotify.com/track/1DH0Cg447H2wioWGvW4S3z"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -639,6 +623,22 @@
       "duration_ms": 218920,
       "name": "Qui\u00e9reme Mucho",
       "url": "https://open.spotify.com/track/51tX8W9SSVju5DqlGcoAxy"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
+        "name": "A Contraluz",
+        "url": "https://open.spotify.com/album/3YU2xPZsi4hq3psgarabmD"
+      },
+      "artists": [
+        {
+          "name": "Luz Casal",
+          "url": "https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El"
+        }
+      ],
+      "duration_ms": 269360,
+      "name": "Piensa en m\u00ed",
+      "url": "https://open.spotify.com/track/794LRMm5vapB2wM0pKzPuT"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
+        "name": "Primeras Canciones",
+        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 247959,
+      "name": "Sabr\u00e9 Olvidar",
+      "url": "https://open.spotify.com/track/60S6OqCPR6yDi8hVmbVHPR"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
         "name": "30 a\u00f1os",
         "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 258993,
       "name": "H\u00e1blame de Ti",
       "url": "https://open.spotify.com/track/0UAd5a3A1v2yEMFUF66apJ"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
-        "name": "Primeras Canciones",
-        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 247959,
-      "name": "Sabr\u00e9 Olvidar",
-      "url": "https://open.spotify.com/track/60S6OqCPR6yDi8hVmbVHPR"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -887,22 +887,6 @@
       "duration_ms": 233346,
       "name": "Si Alguna Vez",
       "url": "https://open.spotify.com/track/4ZTWBKgutQg9W9GP4cvxhC"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
-        "name": "Bon appetit (Lo Mejor de Pat\u00e9 de Fu\u00e1)",
-        "url": "https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Mu\u00f1eca",
-      "url": "https://open.spotify.com/track/08Tzy57uT2EvJegmSeL9Lr"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -1019,6 +1003,22 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
+        "name": "Bon appetit (Lo Mejor de Pat\u00e9 de Fu\u00e1)",
+        "url": "https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Mu\u00f1eca",
+      "url": "https://open.spotify.com/track/08Tzy57uT2EvJegmSeL9Lr"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
         "name": "Latin & Love Studies",
         "url": "https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM"
       },
@@ -1083,22 +1083,6 @@
       "duration_ms": 260013,
       "name": "Sabor a Mi",
       "url": "https://open.spotify.com/track/6hxEETYZvysyLVfCFjitUJ"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
-        "name": "Amores Ajenos",
-        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        }
-      ],
-      "duration_ms": 205794,
-      "name": "Cien A\u00f1os",
-      "url": "https://open.spotify.com/track/0sg2tsm1SRoCFbTCdRoJL8"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -1187,6 +1171,22 @@
       "duration_ms": 238560,
       "name": "Se Me Va A Quemar El Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2l2J1WVVzKRToOm0R2lhZ9"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
+        "name": "Amores Ajenos",
+        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "duration_ms": 205794,
+      "name": "Cien A\u00f1os",
+      "url": "https://open.spotify.com/track/0sg2tsm1SRoCFbTCdRoJL8"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
-        "name": "Susana Baca",
-        "url": "https://open.spotify.com/album/5rvmqZXWJaqmZC2FVzz4WS"
-      },
-      "artists": [
-        {
-          "name": "Susana Baca",
-          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
-        }
-      ],
-      "duration_ms": 298573,
-      "name": "Caras Lindas",
-      "url": "https://open.spotify.com/track/2sh3LZ6VPJSIUUuhbx3P9I"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
         "name": "Cuatro Copas Bohemia En La Finca Altozano (Parte 1)",
         "url": "https://open.spotify.com/album/3KbLlf8Q7t6kboFlaSML23"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 188654,
       "name": "Navegar",
       "url": "https://open.spotify.com/track/1BTzmYpxAtpJ18ql2mP82s"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
+        "name": "Susana Baca",
+        "url": "https://open.spotify.com/album/5rvmqZXWJaqmZC2FVzz4WS"
+      },
+      "artists": [
+        {
+          "name": "Susana Baca",
+          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
+        }
+      ],
+      "duration_ms": 298573,
+      "name": "Caras Lindas",
+      "url": "https://open.spotify.com/track/2sh3LZ6VPJSIUUuhbx3P9I"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
-        "name": "Cuatro Copas Bohemia En La Finca Altozano (Parte 1)",
-        "url": "https://open.spotify.com/album/3KbLlf8Q7t6kboFlaSML23"
-      },
-      "artists": [
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 188920,
-      "name": "La Copa Rota",
-      "url": "https://open.spotify.com/track/0OdHeU4ck2ix2R8NeOAe7r"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
         "name": "Calathea",
         "url": "https://open.spotify.com/album/70bgkmeqNXZLB4xJ7u8Dp4"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 238847,
       "name": "Como una punzada",
       "url": "https://open.spotify.com/track/6gKaMK2pe6ZUCaypnnA9AM"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
+        "name": "Cuatro Copas Bohemia En La Finca Altozano (Parte 1)",
+        "url": "https://open.spotify.com/album/3KbLlf8Q7t6kboFlaSML23"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "duration_ms": 188920,
+      "name": "La Copa Rota",
+      "url": "https://open.spotify.com/track/0OdHeU4ck2ix2R8NeOAe7r"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
-        "name": "Noches De Bohemia",
-        "url": "https://open.spotify.com/album/1asI6AIxYR6zLzH20RZ46h"
-      },
-      "artists": [
-        {
-          "name": "Ely Guerra",
-          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
-        }
-      ],
-      "duration_ms": 276733,
-      "name": "Jurame",
-      "url": "https://open.spotify.com/track/55LQRzXxsbEVbeo4FVhkK8"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
         "name": "Helecho",
         "url": "https://open.spotify.com/album/30S6Nlvv8ovvgsDkwP9h2W"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 137100,
       "name": "Helecho",
       "url": "https://open.spotify.com/track/2Mbem8HiUJodif6c4a6tLL"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
+        "name": "Noches De Bohemia",
+        "url": "https://open.spotify.com/album/1asI6AIxYR6zLzH20RZ46h"
+      },
+      "artists": [
+        {
+          "name": "Ely Guerra",
+          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
+        }
+      ],
+      "duration_ms": 276733,
+      "name": "Jurame",
+      "url": "https://open.spotify.com/track/55LQRzXxsbEVbeo4FVhkK8"
     },
     {
       "added_at": "2023-06-15 16:40:57",

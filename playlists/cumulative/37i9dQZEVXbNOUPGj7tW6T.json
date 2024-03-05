@@ -5834,7 +5834,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
@@ -9738,6 +9738,24 @@
       "duration_ms": 239797,
       "name": "S\u00fabelo",
       "url": "https://open.spotify.com/track/3xv8JksRyqHa1lwkM9xvJf"
+    },
+    {
+      "album": {
+        "name": "Tacos Gucci",
+        "url": "https://open.spotify.com/album/2eKNfDT5uYZ3bB2ATYedD5"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207157,
+      "name": "Tacos Gucci",
+      "url": "https://open.spotify.com/track/1f9j6LO5166GQoE0CMA5tq"
     },
     {
       "album": {

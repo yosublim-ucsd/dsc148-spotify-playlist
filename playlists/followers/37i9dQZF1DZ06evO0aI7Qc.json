@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 268247,
+  "2024-03-05": 268360,
   "date_first_scraped": "2022-06-02",
   "description": "This is Luis R Conriquez. The essential tracks, all in one playlist.",
   "name": "This Is Luis R Conriquez",
@@ -1500,6 +1500,28 @@
     },
     {
       "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153269,
+      "name": "GTA",
+      "url": "https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy"
+    },
+    {
+      "album": {
         "name": "Guisao",
         "url": "https://open.spotify.com/album/2llE874y2h7CZWyMeTfbAo"
       },
@@ -1571,6 +1593,28 @@
       "duration_ms": 158093,
       "name": "JGL",
       "url": "https://open.spotify.com/track/5kpxVMDvYGRmNqawPqDTYR"
+    },
+    {
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179450,
+      "name": "La 701",
+      "url": "https://open.spotify.com/track/7hOjsjkiAxFRHNUlLJSO1i"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Soft and cozy vocal and instrumental Jazz. Cover: Laufey",
-  "num_followers": 152998,
+  "num_followers": 153072,
   "original_name": "Cozy Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDA3MDk3N2Y4MGQwMmJmNTZjOTc2MWU4M2NlMzNiZmNmYWM5ODEz",
+  "snapshot_id": "MCwwNzZhMjBlZTQ3Yjk1ZGJjMGZiNzBkOTZlZWM3ZjAwYzJlNjliOGMw",
   "tracks": [
     {
       "added_at": "2024-03-01 00:01:00",
@@ -143,6 +143,22 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 234266,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
         "name": "John Coltrane And Johnny Hartman",
         "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 332120,
       "name": "Dedicated To You",
       "url": "https://open.spotify.com/track/7981FAW8DbDs1ueK4Ha8R2"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Bewitched",
-        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 234266,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "How Deep Is The Ocean",
-        "url": "https://open.spotify.com/album/6aSqIS4egZCz5jEYrQopJj"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 318280,
-      "name": "How Deep Is The Ocean",
-      "url": "https://open.spotify.com/track/6DcnA13j0itZwmg4BpqWZk"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "In Blue",
         "url": "https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 339893,
       "name": "How Long Has This Been Going On?",
       "url": "https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "How Deep Is The Ocean",
+        "url": "https://open.spotify.com/album/6aSqIS4egZCz5jEYrQopJj"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 318280,
+      "name": "How Deep Is The Ocean",
+      "url": "https://open.spotify.com/track/6DcnA13j0itZwmg4BpqWZk"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Next Time",
-        "url": "https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 318077,
-      "name": "Next Time",
-      "url": "https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "Entre eux deux",
         "url": "https://open.spotify.com/album/73n8nSybQyRr7MxUIi82K7"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 295148,
       "name": "If You Go Away",
       "url": "https://open.spotify.com/track/1YhQ0oi3ay18dgcGdgDebT"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "Next Time",
+        "url": "https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 318077,
+      "name": "Next Time",
+      "url": "https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Songs from Other Places (Special Edition)",
-        "url": "https://open.spotify.com/album/44iqwz2NY8YScKkO8bNLMW"
-      },
-      "artists": [
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        },
-        {
-          "name": "Art Hirahara",
-          "url": "https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib"
-        }
-      ],
-      "duration_ms": 252213,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/2jSNZUNgyRArdjjSoqlCPH"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "This Bitter Earth",
         "url": "https://open.spotify.com/album/46Kn3u0Fzlvo1Zmba26EB7"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 202000,
       "name": "The Moon and the Sky",
       "url": "https://open.spotify.com/track/3QDJUXE2dOArmBxRs5fOxf"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "Songs from Other Places (Special Edition)",
+        "url": "https://open.spotify.com/album/44iqwz2NY8YScKkO8bNLMW"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        },
+        {
+          "name": "Art Hirahara",
+          "url": "https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib"
+        }
+      ],
+      "duration_ms": 252213,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/2jSNZUNgyRArdjjSoqlCPH"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Return To You",
-        "url": "https://open.spotify.com/album/5muVIXk6kRkRbGTCRWz1uj"
-      },
-      "artists": [
-        {
-          "name": "Sara Gazarek",
-          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
-        }
-      ],
-      "duration_ms": 222640,
-      "name": "Let's Try This Again",
-      "url": "https://open.spotify.com/track/5zgT7IAtYZ0wOMojcdYgNf"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "Songs from Other Places (Special Edition)",
         "url": "https://open.spotify.com/album/44iqwz2NY8YScKkO8bNLMW"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 314040,
       "name": "Don't Explain",
       "url": "https://open.spotify.com/track/2JncPNDwT04u0FhWxfJbi5"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "Return To You",
+        "url": "https://open.spotify.com/album/5muVIXk6kRkRbGTCRWz1uj"
+      },
+      "artists": [
+        {
+          "name": "Sara Gazarek",
+          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
+        }
+      ],
+      "duration_ms": 222640,
+      "name": "Let's Try This Again",
+      "url": "https://open.spotify.com/track/5zgT7IAtYZ0wOMojcdYgNf"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -2547,22 +2547,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Tell Him I Said Hello",
-        "url": "https://open.spotify.com/album/39QI8WaZmEFH6UxIPqz94J"
-      },
-      "artists": [
-        {
-          "name": "Jocelyn Barth",
-          "url": "https://open.spotify.com/artist/2xRDpIhc5GNhD6U1nnsZLX"
-        }
-      ],
-      "duration_ms": 266138,
-      "name": "I Didn't Know About You",
-      "url": "https://open.spotify.com/track/2ffVdQxr7RREUKtmxuM6Rn"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "Fourteen",
         "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
       },
@@ -2575,6 +2559,22 @@
       "duration_ms": 359000,
       "name": "Black Coffee",
       "url": "https://open.spotify.com/track/3598gM7OA4kWCYNGl1Ma8l"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "Tell Him I Said Hello",
+        "url": "https://open.spotify.com/album/39QI8WaZmEFH6UxIPqz94J"
+      },
+      "artists": [
+        {
+          "name": "Jocelyn Barth",
+          "url": "https://open.spotify.com/artist/2xRDpIhc5GNhD6U1nnsZLX"
+        }
+      ],
+      "duration_ms": 266138,
+      "name": "I Didn't Know About You",
+      "url": "https://open.spotify.com/track/2ffVdQxr7RREUKtmxuM6Rn"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -3123,22 +3123,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Lonely House",
-        "url": "https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5"
-      },
-      "artists": [
-        {
-          "name": "Lucy Yeghiazaryan",
-          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
-        }
-      ],
-      "duration_ms": 198660,
-      "name": "Deep in a Dream",
-      "url": "https://open.spotify.com/track/40IDGLN76VxvxsHCKvsMNJ"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "One Evening in July",
         "url": "https://open.spotify.com/album/1yiTkfeQNG2CDc7AaYru01"
       },
@@ -3183,6 +3167,22 @@
       "duration_ms": 249213,
       "name": "I'm Glad There Is You",
       "url": "https://open.spotify.com/track/5tXrETFfbMA1q6tgP7aSwz"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "Lonely House",
+        "url": "https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5"
+      },
+      "artists": [
+        {
+          "name": "Lucy Yeghiazaryan",
+          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
+        }
+      ],
+      "duration_ms": 198660,
+      "name": "Deep in a Dream",
+      "url": "https://open.spotify.com/track/40IDGLN76VxvxsHCKvsMNJ"
     },
     {
       "added_at": "2024-03-01 00:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Pinches cumbiones bien locos para bailar.",
-  "num_followers": 147711,
+  "num_followers": 147751,
   "original_name": "50 Cumbiones Bien Locos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjNlNTZmMzE0NmQ4ZDgyZWUyZDNiNzk0MTU3YzI5NGVjYmY1YjAx",
+  "snapshot_id": "MCwzNzg0ZmRhYWUwNWVlNjg4MTM0YWQ1MTM4N2JmODYxYTY5NTZkYzJm",
   "tracks": [
     {
       "added_at": "2023-01-17 14:46:17",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
-        "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
-        "url": "https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 428438,
-      "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
-      "url": "https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye"
-    },
-    {
-      "added_at": "2023-01-17 14:46:17",
-      "album": {
         "name": "Intimidades",
         "url": "https://open.spotify.com/album/40EJlz5pez7U5J6CwlUu39"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 226280,
       "name": "Como Una Novela",
       "url": "https://open.spotify.com/track/43Z6YxVTYyr5ewyo2uepdy"
+    },
+    {
+      "added_at": "2023-01-17 14:46:17",
+      "album": {
+        "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
+      },
+      "artists": [
+        {
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+        }
+      ],
+      "duration_ms": 211813,
+      "name": "Muchachita Consentida",
+      "url": "https://open.spotify.com/track/1zVDbrBG7zCd6AXGLmbGj4"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -283,38 +283,6 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
-        "name": "Oye Mujer",
-        "url": "https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1"
-      },
-      "artists": [
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        }
-      ],
-      "duration_ms": 259239,
-      "name": "Oye Mujer",
-      "url": "https://open.spotify.com/track/37kCg5izHEMZ66xGdMVG5L"
-    },
-    {
-      "added_at": "2023-01-17 14:46:17",
-      "album": {
-        "name": "Cicatrices",
-        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
-      },
-      "artists": [
-        {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
-        }
-      ],
-      "duration_ms": 211813,
-      "name": "Muchachita Consentida",
-      "url": "https://open.spotify.com/track/1zVDbrBG7zCd6AXGLmbGj4"
-    },
-    {
-      "added_at": "2023-01-17 14:46:17",
-      "album": {
         "name": "Destilando Amor",
         "url": "https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB"
       },
@@ -327,6 +295,38 @@
       "duration_ms": 247893,
       "name": "Todo Me Gusta De Ti",
       "url": "https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh"
+    },
+    {
+      "added_at": "2023-01-17 14:46:17",
+      "album": {
+        "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
+        "url": "https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 428438,
+      "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
+      "url": "https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye"
+    },
+    {
+      "added_at": "2023-01-17 14:46:17",
+      "album": {
+        "name": "Oye Mujer",
+        "url": "https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "duration_ms": 259239,
+      "name": "Oye Mujer",
+      "url": "https://open.spotify.com/track/37kCg5izHEMZ66xGdMVG5L"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
-        "name": "C\u00f3mo est\u00e1s",
-        "url": "https://open.spotify.com/album/30wGCjJRi0wRjdKu12PQcd"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 227395,
-      "name": "C\u00f3mo est\u00e1s",
-      "url": "https://open.spotify.com/track/6bLvfGI2XeU5DTl8feuNrk"
-    },
-    {
-      "added_at": "2023-01-17 14:46:17",
-      "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 217586,
       "name": "Que Te Vaya Bien",
       "url": "https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck"
+    },
+    {
+      "added_at": "2023-01-17 14:46:17",
+      "album": {
+        "name": "C\u00f3mo est\u00e1s",
+        "url": "https://open.spotify.com/album/30wGCjJRi0wRjdKu12PQcd"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 227395,
+      "name": "C\u00f3mo est\u00e1s",
+      "url": "https://open.spotify.com/track/6bLvfGI2XeU5DTl8feuNrk"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
-        "name": "Album de Oro",
-        "url": "https://open.spotify.com/album/7yZcbdxZv4trwSe3RfY8LE"
-      },
-      "artists": [
-        {
-          "name": "Los Acosta",
-          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
-        }
-      ],
-      "duration_ms": 208640,
-      "name": "Voy a pintar un coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6ztkxjvne5bjzUUnoskShx"
-    },
-    {
-      "added_at": "2023-01-17 14:46:17",
-      "album": {
         "name": "Me Vas a Extra\u00f1ar (En Vivo)",
         "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 238528,
       "name": "Me Vas a Extra\u00f1ar - En Vivo",
       "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
+    },
+    {
+      "added_at": "2023-01-17 14:46:17",
+      "album": {
+        "name": "Album de Oro",
+        "url": "https://open.spotify.com/album/7yZcbdxZv4trwSe3RfY8LE"
+      },
+      "artists": [
+        {
+          "name": "Los Acosta",
+          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
+        }
+      ],
+      "duration_ms": 208640,
+      "name": "Voy a pintar un coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6ztkxjvne5bjzUUnoskShx"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
-        "name": "Cumbia Villera",
-        "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
-      },
-      "artists": [
-        {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
-        }
-      ],
-      "duration_ms": 218680,
-      "name": "Pibe Cantina",
-      "url": "https://open.spotify.com/track/3d7pveUZGAg7wSSeL5nwNG"
-    },
-    {
-      "added_at": "2023-01-17 14:46:17",
-      "album": {
         "name": "Mi \u00danico Amor",
         "url": "https://open.spotify.com/album/0XbjIvrClo1jg5G1W3DFMN"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 212062,
       "name": "Una Calle Nos Separa",
       "url": "https://open.spotify.com/track/68tIkBAvIpA5LNpG4xplME"
+    },
+    {
+      "added_at": "2023-01-17 14:46:17",
+      "album": {
+        "name": "Cumbia Villera",
+        "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "duration_ms": 218680,
+      "name": "Pibe Cantina",
+      "url": "https://open.spotify.com/track/3d7pveUZGAg7wSSeL5nwNG"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
+        "name": "Lo Intentamos",
+        "url": "https://open.spotify.com/album/2Sm5w6stIMeYwnjaE8nuV5"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Master",
+          "url": "https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL"
+        }
+      ],
+      "duration_ms": 214608,
+      "name": "Lo Intentamos",
+      "url": "https://open.spotify.com/track/2Qj3RcwYRKV7AR2qpAapB8"
+    },
+    {
+      "added_at": "2023-01-17 14:46:17",
+      "album": {
         "name": "El Angel Del Amor",
         "url": "https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 212253,
       "name": "El humo de mi fasito",
       "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
-    },
-    {
-      "added_at": "2023-01-17 14:46:17",
-      "album": {
-        "name": "Lo Intentamos",
-        "url": "https://open.spotify.com/album/2Sm5w6stIMeYwnjaE8nuV5"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Master",
-          "url": "https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL"
-        }
-      ],
-      "duration_ms": 214608,
-      "name": "Lo Intentamos",
-      "url": "https://open.spotify.com/track/2Qj3RcwYRKV7AR2qpAapB8"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -1407,30 +1407,6 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
-        "name": "Nuestra Historia Termino",
-        "url": "https://open.spotify.com/album/1iFOgtTfccrwup6iq06dvf"
-      },
-      "artists": [
-        {
-          "name": "ICC",
-          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
-        },
-        {
-          "name": "Grupo Quintanna",
-          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
-        },
-        {
-          "name": "Los Tepoz",
-          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
-        }
-      ],
-      "duration_ms": 234140,
-      "name": "Nuestra Historia Termino",
-      "url": "https://open.spotify.com/track/3BrU3r6HIJI9zmk1rZ7ucg"
-    },
-    {
-      "added_at": "2023-01-17 14:46:17",
-      "album": {
         "name": "Cuando Nadie Ve",
         "url": "https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV"
       },
@@ -1475,6 +1451,30 @@
       "duration_ms": 237080,
       "name": "Amor Carnal",
       "url": "https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW"
+    },
+    {
+      "added_at": "2023-01-17 14:46:17",
+      "album": {
+        "name": "Nuestra Historia Termino",
+        "url": "https://open.spotify.com/album/1iFOgtTfccrwup6iq06dvf"
+      },
+      "artists": [
+        {
+          "name": "ICC",
+          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
+        },
+        {
+          "name": "Grupo Quintanna",
+          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
+        },
+        {
+          "name": "Los Tepoz",
+          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
+        }
+      ],
+      "duration_ms": 234140,
+      "name": "Nuestra Historia Termino",
+      "url": "https://open.spotify.com/track/3BrU3r6HIJI9zmk1rZ7ucg"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
-        "name": "Pibes Chorros - Criando Cuervos",
-        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 193080,
-      "name": "La colorada",
-      "url": "https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY"
-    },
-    {
-      "added_at": "2023-01-17 14:46:17",
-      "album": {
         "name": "Ritmo Sustancia",
         "url": "https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 190850,
       "name": "Par-Tusa",
       "url": "https://open.spotify.com/track/7iZSr3NiHlqJGAJmlfd3Ru"
+    },
+    {
+      "added_at": "2023-01-17 14:46:17",
+      "album": {
+        "name": "Pibes Chorros - Criando Cuervos",
+        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 193080,
+      "name": "La colorada",
+      "url": "https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY"
     }
   ],
   "unique_name": "50 Cumbiones Bien Locos",

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,704 likes - 100 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,739 likes - 100 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hard dreams](https://open.spotify.com/track/1sJAQWkZdaJDsPifl1fvOd) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Hard dreams](https://open.spotify.com/album/15kCPeNnhlUuZfKyr1CJuy) | 2:50 |
+| 1 | [Hard dreams](https://open.spotify.com/track/1sJAQWkZdaJDsPifl1fvOd) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP), [Yan Wagner](https://open.spotify.com/artist/7JLtS4ASAUsAYrsShMerMc) | [Hard dreams](https://open.spotify.com/album/15kCPeNnhlUuZfKyr1CJuy) | 2:50 |
 | 2 | [It's So Good](https://open.spotify.com/track/1Cc00pWEDEDiA4eEv3npjD) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [It's So Good](https://open.spotify.com/album/2OzhVjGzyX5BWyMgGKG3Ij) | 4:38 |
 | 3 | [NYWTF \(feat\. Mikhail Beltran\) \- Edit](https://open.spotify.com/track/3FoOzVf0Snj4ym2xjZCikn) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Mikhail Beltran](https://open.spotify.com/artist/5vRwQ47fgzQDLkSVeGuAb9) | [Nywtf \(feat\. Mikhail Beltran\)](https://open.spotify.com/album/1xiDEFjzO0Il22pdIk3oo7) | 3:04 |
 | 4 | [Solid Ground \- Virgil Abloh Remix](https://open.spotify.com/track/1ErZRORpwdSiWOqmehP4LU) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj), [Virgil Abloh](https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm) | [Solid Ground \(Virgil Abloh Remix\)](https://open.spotify.com/album/1oHkZUFpxxYNYjLYMLClTk) | 6:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 99 | [So Right](https://open.spotify.com/track/0UEqdYaTjYYLuEr6fLneDl) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [Working Class Woman](https://open.spotify.com/album/5AG8Dvo3N4y9ZlCjU06yXh) | 5:06 |
 | 100 | [U\. \- Junior Sanchez Remix](https://open.spotify.com/track/78K3N4N9BLS9nKUxINO3Zg) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9), [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni) | [U\. \(Junior Sanchez Remix\)](https://open.spotify.com/album/6LPE0OjnmnzfNNQcU2D4E8) | 2:44 |
 
-Snapshot ID: `MCxlMGI2ZGMyMGVlOGM0OWYwZWNjY2NiNjVmOWI0NGY3ZjllYWRmNzhl`
+Snapshot ID: `MCxkNDM4MTVjMzVjMjU2ZWUwZTU2MWM0ZjY1ZDFhNjM1MDRiNTM1YWQy`

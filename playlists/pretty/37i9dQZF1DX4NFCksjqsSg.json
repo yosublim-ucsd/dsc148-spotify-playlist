@@ -1,12 +1,12 @@
 {
   "description": "Pas mal \"tes tounes de karaok\u00e9 pr\u00e9f\u00e9r\u00e9es\".",
-  "num_followers": 28462,
+  "num_followers": 28467,
   "original_name": "Fromage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTIxMjhkYWU0YjFlMjgzOTBiZTdkOTc1NjI4MzhlNmE4NDc4MzI0",
+  "snapshot_id": "MCxmMTI4ZTg4NmMwNDdjMTQzZTU5MmNmZmI4YWE3NzNjYThhODRhNzQ1",
   "tracks": [
     {
       "added_at": "2020-04-07 15:18:18",
@@ -207,22 +207,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "En Chantant",
-        "url": "https://open.spotify.com/album/6jpgSolMOIaEyNgF4TrYbC"
-      },
-      "artists": [
-        {
-          "name": "Michel Sardou",
-          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
-        }
-      ],
-      "duration_ms": 234173,
-      "name": "En chantant",
-      "url": "https://open.spotify.com/track/4agHyTtI7txejGgCciL6fX"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Pure",
         "url": "https://open.spotify.com/album/1VOw4yLcyAgwPR3dGPXRnm"
       },
@@ -303,6 +287,22 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
+        "name": "En Chantant",
+        "url": "https://open.spotify.com/album/6jpgSolMOIaEyNgF4TrYbC"
+      },
+      "artists": [
+        {
+          "name": "Michel Sardou",
+          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
+        }
+      ],
+      "duration_ms": 234173,
+      "name": "En chantant",
+      "url": "https://open.spotify.com/track/4agHyTtI7txejGgCciL6fX"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
         "name": "Rendez-vous doux",
         "url": "https://open.spotify.com/album/6ky06eyIoZfXLC0LbEEaKu"
       },
@@ -315,22 +315,6 @@
       "duration_ms": 235066,
       "name": "Un beau grand bateau",
       "url": "https://open.spotify.com/track/153fPAIMxo3FInbJd06MB6"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
-        "name": "Snob",
-        "url": "https://open.spotify.com/album/1IDH1RaKNwTjqAcrFSIPOy"
-      },
-      "artists": [
-        {
-          "name": "Les BB",
-          "url": "https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr"
-        }
-      ],
-      "duration_ms": 253160,
-      "name": "Donne-moi ma chance",
-      "url": "https://open.spotify.com/track/1ppfN5g0xqRlvNsy5n5Ib1"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -383,26 +367,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Rendez-vous doux",
-        "url": "https://open.spotify.com/album/6ky06eyIoZfXLC0LbEEaKu"
-      },
-      "artists": [
-        {
-          "name": "Gerry Boulet",
-          "url": "https://open.spotify.com/artist/1byKIdu4GbAYNkwsrfN6mv"
-        },
-        {
-          "name": "Marjo",
-          "url": "https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk"
-        }
-      ],
-      "duration_ms": 256760,
-      "name": "Les yeux du coeur",
-      "url": "https://open.spotify.com/track/2T9wXXxMx8IKfGdK2FrHPa"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "A Chacun Son Histoire",
         "url": "https://open.spotify.com/album/38CgBQufkUucyi195crt9D"
       },
@@ -415,6 +379,22 @@
       "duration_ms": 170466,
       "name": "Je n'ai que mon \u00e2me",
       "url": "https://open.spotify.com/track/1VOjHLyRyIqSnIrT4H1jcd"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Snob",
+        "url": "https://open.spotify.com/album/1IDH1RaKNwTjqAcrFSIPOy"
+      },
+      "artists": [
+        {
+          "name": "Les BB",
+          "url": "https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr"
+        }
+      ],
+      "duration_ms": 253160,
+      "name": "Donne-moi ma chance",
+      "url": "https://open.spotify.com/track/1ppfN5g0xqRlvNsy5n5Ib1"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -463,6 +443,26 @@
       "duration_ms": 268440,
       "name": "Chats sauvages",
       "url": "https://open.spotify.com/track/0clO0QOJszhztY2jKzT1k3"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Rendez-vous doux",
+        "url": "https://open.spotify.com/album/6ky06eyIoZfXLC0LbEEaKu"
+      },
+      "artists": [
+        {
+          "name": "Gerry Boulet",
+          "url": "https://open.spotify.com/artist/1byKIdu4GbAYNkwsrfN6mv"
+        },
+        {
+          "name": "Marjo",
+          "url": "https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk"
+        }
+      ],
+      "duration_ms": 256760,
+      "name": "Les yeux du coeur",
+      "url": "https://open.spotify.com/track/2T9wXXxMx8IKfGdK2FrHPa"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -611,22 +611,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Mes succ\u00e8s francophones 1",
-        "url": "https://open.spotify.com/album/3UvMunvcUi84AkywMx0htO"
-      },
-      "artists": [
-        {
-          "name": "Sylvain Cossette",
-          "url": "https://open.spotify.com/artist/660PvqDaksGwQPFLbAy7pb"
-        }
-      ],
-      "duration_ms": 237173,
-      "name": "Que je t'aime",
-      "url": "https://open.spotify.com/track/0ui0AsKMbOntbzq6j2SN9a"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Une femme avec toi - Single",
         "url": "https://open.spotify.com/album/76bKZd3b4fuLRTY446i1lc"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 263520,
       "name": "Une femme avec toi",
       "url": "https://open.spotify.com/track/3LIghH0HLWzawM5n5Vu8Cc"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Mes succ\u00e8s francophones 1",
+        "url": "https://open.spotify.com/album/3UvMunvcUi84AkywMx0htO"
+      },
+      "artists": [
+        {
+          "name": "Sylvain Cossette",
+          "url": "https://open.spotify.com/artist/660PvqDaksGwQPFLbAy7pb"
+        }
+      ],
+      "duration_ms": 237173,
+      "name": "Que je t'aime",
+      "url": "https://open.spotify.com/track/0ui0AsKMbOntbzq6j2SN9a"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -755,22 +755,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Puzzle",
-        "url": "https://open.spotify.com/album/5WaAW6zWPlGadqkw3mYaAL"
-      },
-      "artists": [
-        {
-          "name": "Patrick Bruel",
-          "url": "https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg"
-        }
-      ],
-      "duration_ms": 263866,
-      "name": "Casser la voix",
-      "url": "https://open.spotify.com/track/0cp8Fd3p8oMbTBv1s6MmrK"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Don Juan (Les plus grands succ\u00e8s du spectacle musical de F\u00e9lix Gray)",
         "url": "https://open.spotify.com/album/6zCqUEDoZRN92o7vtddpV5"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 163578,
       "name": "Quelqu'un M'a Dit",
       "url": "https://open.spotify.com/track/2v9AGeylYJq2EjC9vtSr99"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Puzzle",
+        "url": "https://open.spotify.com/album/5WaAW6zWPlGadqkw3mYaAL"
+      },
+      "artists": [
+        {
+          "name": "Patrick Bruel",
+          "url": "https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg"
+        }
+      ],
+      "duration_ms": 263866,
+      "name": "Casser la voix",
+      "url": "https://open.spotify.com/track/0cp8Fd3p8oMbTBv1s6MmrK"
     },
     {
       "added_at": "2020-04-07 15:18:18",

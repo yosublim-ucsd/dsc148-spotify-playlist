@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 
 > Fanfarrias y ritmos clown para gozar las tragicomedias de la vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,610 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,612 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 8 | [El Fantasma Enamorado \(E13 Sessions\)](https://open.spotify.com/track/3FUlOJl1oJWfeEQkd4JqQ9) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [El Fantasma Enamorado \(E13 Sessions\)](https://open.spotify.com/album/3Ka4qbcJGSq1ouSFDbs4K1) | 5:32 |
 | 9 | [Duda Morena](https://open.spotify.com/track/77DfJYwlIxQFbcNoZcVjuh) | [Churupaca](https://open.spotify.com/artist/0B6mwRbxKrvUvklMk9571H), [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Churupaca](https://open.spotify.com/album/1n7pvXzyXqEDCrCaR7SJbc) | 4:53 |
 | 10 | [No Te Desanimes](https://open.spotify.com/track/5UhdNEQw0SOtfdUYx3FhkU) | [Antidoping](https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY) | [No Te Desanimes](https://open.spotify.com/album/3ULGENdwrVsBlo4aCHhywh) | 4:28 |
-| 11 | [Fin de Fiesta](https://open.spotify.com/track/0ZzNRgWM8LkgiHXbr3gfuq) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Fin de Fiesta](https://open.spotify.com/album/4sui0UO1NPlOUeRC9zvKy5) | 1:41 |
-| 12 | [Moliendo Café](https://open.spotify.com/track/7eOtKm3fNAeAhAoIZmJuEY) | [Fanfare Ciocarlia](https://open.spotify.com/artist/40iJCAOCz6nhRs6CbsAtOg) | [Iag Bari](https://open.spotify.com/album/6zUrmT5eJIG2lNajO4AxJj) | 2:27 |
-| 13 | [Un Gran Circo](https://open.spotify.com/track/5BwVAAJzAuzpDHeWuKdFsN) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 4:10 |
+| 11 | [Un Gran Circo](https://open.spotify.com/track/5BwVAAJzAuzpDHeWuKdFsN) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 4:10 |
+| 12 | [Fin de Fiesta](https://open.spotify.com/track/0ZzNRgWM8LkgiHXbr3gfuq) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Fin de Fiesta](https://open.spotify.com/album/4sui0UO1NPlOUeRC9zvKy5) | 1:41 |
+| 13 | [Moliendo Café](https://open.spotify.com/track/7eOtKm3fNAeAhAoIZmJuEY) | [Fanfare Ciocarlia](https://open.spotify.com/artist/40iJCAOCz6nhRs6CbsAtOg) | [Iag Bari](https://open.spotify.com/album/6zUrmT5eJIG2lNajO4AxJj) | 2:27 |
 | 14 | [One Step Beyond](https://open.spotify.com/track/1G6eFFDRaLr9EbThnhzMBD) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [One Step Beyond...](https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA) | 2:18 |
 | 15 | [Mamita Santa](https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mamita Santa](https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R) | 3:59 |
 | 16 | [Kalasnjikov](https://open.spotify.com/track/6OlCJxmWri50RLA1CrBYZ6) | [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS), [Slobodan Salijevic](https://open.spotify.com/artist/2qAYOCvQeh0CluLvtMBQZL) | [Ederlezi](https://open.spotify.com/album/2EQJq127u4ihk7QU0Voas2) | 4:48 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 38 | [Georgian Lessons 1\-6](https://open.spotify.com/track/7LRNTyc8LdVLCsVG99Rfht) | [Deladap](https://open.spotify.com/artist/1KIo4b95g1KHA2AQz7fwa2) | [BalkanBeats Soundlab](https://open.spotify.com/album/0KcQc9aXSMvzhhx2lRfp1Y) | 3:41 |
 | 39 | [Harta](https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Harta](https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg) | 3:05 |
 | 40 | [The Stojka Empire](https://open.spotify.com/track/1jijW2TdA9x8XDrsQIPv7N) | [\[dunkelbunt\]](https://open.spotify.com/artist/16LvTqpD4wlfFb4EBcW0x3), [Harry Stojka](https://open.spotify.com/artist/3UoFXEOzD4kf5aPTplFX5c), [The Cat Empire](https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC) | [Morgenlandfahrt](https://open.spotify.com/album/5yOdpBaqNL30wYZNaAa9bI) | 5:39 |
-| 41 | [Bulgarian Chicks \(feat\. Vlada Tomova & Kristin Espeland\)](https://open.spotify.com/track/6Z0xtMYSC5RSSPFcFTzNZY) | [Balkan Beat Box](https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY), [Vlada Tomova](https://open.spotify.com/artist/74f7fNXxNm4fYu7ajpXykd), [Kristin Espeland](https://open.spotify.com/artist/1z15SEPLxHchqfFI7SBCTJ) | [Balkan Beat Box](https://open.spotify.com/album/3kpfXAnyZmUXmjnVe8u1G2) | 5:52 |
-| 42 | [Khelipe Cheasa](https://open.spotify.com/track/0ejUrxuNZlxET3wuoepkXa) | [Boban i Marko Markovic Orkestar](https://open.spotify.com/artist/45NfIph232CCNfn07NoSbs) | [Devla](https://open.spotify.com/album/1w1BcVgQEOkWma7R7NhkFx) | 3:45 |
+| 41 | [Khelipe Cheasa](https://open.spotify.com/track/0ejUrxuNZlxET3wuoepkXa) | [Boban i Marko Markovic Orkestar](https://open.spotify.com/artist/45NfIph232CCNfn07NoSbs) | [Devla](https://open.spotify.com/album/1w1BcVgQEOkWma7R7NhkFx) | 3:45 |
+| 42 | [Bulgarian Chicks \(feat\. Vlada Tomova & Kristin Espeland\)](https://open.spotify.com/track/6Z0xtMYSC5RSSPFcFTzNZY) | [Balkan Beat Box](https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY), [Vlada Tomova](https://open.spotify.com/artist/74f7fNXxNm4fYu7ajpXykd), [Kristin Espeland](https://open.spotify.com/artist/1z15SEPLxHchqfFI7SBCTJ) | [Balkan Beat Box](https://open.spotify.com/album/3kpfXAnyZmUXmjnVe8u1G2) | 5:52 |
 | 43 | [Sadagora Hot Dub \- Remixed by Shantel](https://open.spotify.com/track/3Wb0d7PcBdFKVnTJ75UQ1l) | [Amsterdam Klezmer Band](https://open.spotify.com/artist/2vMBszTQ5H66LhDEM3mSvl) | [Remixed](https://open.spotify.com/album/5LjkNrn1rnhAk0dimZGrk5) | 5:11 |
 | 44 | [ゴッドファーザー愛のテーマ](https://open.spotify.com/track/3wMcumG7H13Oq3HvHeeok5) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [WILD PEACE](https://open.spotify.com/album/5R19j19wldlcON2ZTaJikv) | 3:42 |
 | 45 | [Chocolat \(Swing\)](https://open.spotify.com/track/42gaDDxNCrQMkri7sQcqGq) | [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8) | [Bailables](https://open.spotify.com/album/2LXPajOlTfGvlm6jm1oFtW) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 49 | [Opa Cupa](https://open.spotify.com/track/1ramTBkEuNstQWIP6hIgDv) | [Slavic Soul Party!](https://open.spotify.com/artist/0WqRUsyv5vUBAKwznogKrE) | [BalkanBeats](https://open.spotify.com/album/5MjkNUydPIUTg8EW4bXOsi) | 4:40 |
 | 50 | [Que No, Que No](https://open.spotify.com/track/1CfDgFfSpVIrufYPVX02et) | [Las Taradas](https://open.spotify.com/artist/0cvN008loU6mGFr4IiYjVO) | [Son y Se Hacen](https://open.spotify.com/album/7CBtEchhPV1o3BLPlgPcuC) | 3:08 |
 
-Snapshot ID: `MCxmODMwMjE2YjcyNDJhM2JmOTQxYWMyNTMzZTQ3ODkxOGQzMzI2M2M0`
+Snapshot ID: `MCwzNTEzZTVhMWExMDc1ZGZjOTRhMzM1YTg4ZjlmYjVjNTcwZjlkODMy`

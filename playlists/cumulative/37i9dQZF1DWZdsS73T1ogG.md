@@ -4,7 +4,7 @@
 
 > Descubre lo más nuevo del movimiento\. Cover: J Noa
 
-984 songs - 2 day 4 hr 28 min
+986 songs - 2 day 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -700,6 +700,7 @@
 | [Perdonémonos](https://open.spotify.com/track/7hIstL0FGshcF8Tk2inv5q) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [Perdonémonos](https://open.spotify.com/album/5sYzVuTy6UrHdvAaai7y3i) | 2:16 | 2023-04-21 | 2023-09-09 |
 | [Perfect](https://open.spotify.com/track/0tOWRZCnNe1ZYxHT8MnbhP) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [Perfect](https://open.spotify.com/album/46aful2GWny0ItyMEkXz3F) | 3:41 | 2022-09-16 | 2022-12-03 |
 | [PERO TÚ](https://open.spotify.com/track/1dw7qShk971xMD6r6mA4VN) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:03 | 2023-03-17 | 2023-05-20 |
+| [PERRE4R CON L4 DR4MA](https://open.spotify.com/track/2Q397Yc7f8AZi1HluHyVZS) | [BEBEBOY](https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk) | [PERRE4R CON L4 DR4MA](https://open.spotify.com/album/4Xh3Ds7e7wtvn59l7q3yRg) | 2:25 | 2024-03-04 |  |
 | [Perreando Triste \(feat\. Uzielito Mix\)](https://open.spotify.com/track/7yo64TVgvf9hBKZKCuVhUy) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Perreando Triste \(feat\. Uzielito Mix\)](https://open.spotify.com/album/0Z0tJ5ucn0zI9Z1nuPruCs) | 2:55 | 2023-10-13 | 2023-12-16 |
 | [Perreito Under](https://open.spotify.com/track/6l0pG6obvyfFGeSUI3aS5y) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [Perreito Under](https://open.spotify.com/album/5x6HNSub3IXwgDrvv1ond5) | 3:06 | 2022-04-29 | 2022-07-12 |
 | [Perreo](https://open.spotify.com/track/6sfWvmOBaGKc3beDaiOQQX) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Magicenelbeat](https://open.spotify.com/artist/4Enz9bGPvgSkKRLyLeQL43) | [Welcome To My World](https://open.spotify.com/album/6JUTj8yO1favP3Qfma0G3f) | 3:13 | 2022-12-02 | 2023-02-25 |
@@ -976,7 +977,8 @@
 | [X 1 BESO](https://open.spotify.com/track/0aLsiURB2GJoiN0mmtEQ5P) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [X 1 BESO](https://open.spotify.com/album/1kUAz9cWiD0B2UOW0lpA6W) | 3:08 | 2023-03-17 | 2023-05-27 |
 | [X ESO BB](https://open.spotify.com/track/3nr6dW6yGOd6UX3KOpkbMZ) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [X ESO BB](https://open.spotify.com/album/6ZHA8suZlg8RaZSRpdirfu) | 3:13 | 2023-08-11 | 2023-10-28 |
 | [X SI VOLVEMOS](https://open.spotify.com/track/3Zyk5Vd9WNPNVWxvb0EZTk) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [X SI VOLVEMOS](https://open.spotify.com/album/1skkjCQGfaGg0wpVw6cq5w) | 3:23 | 2023-02-03 | 2023-03-25 |
-| [X'CLUSIVO](https://open.spotify.com/track/0T0Oo2aVRt5a39D3ObeWwm) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [X'CLUSIVO](https://open.spotify.com/album/5RmwLVvsb2oS4K97abdqcy) | 2:55 | 2023-12-01 |  |
+| [X'CLUSIVO](https://open.spotify.com/track/0T0Oo2aVRt5a39D3ObeWwm) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [X'CLUSIVO](https://open.spotify.com/album/5RmwLVvsb2oS4K97abdqcy) | 2:55 | 2023-12-01 | 2024-03-05 |
+| [X'CLUSIVO \- REMIX](https://open.spotify.com/track/62k8iliO7KTiYp7LWGPa5p) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [X'CLUSIVO \(REMIX\)](https://open.spotify.com/album/3FUYttT6kvaVvhiUBr6Oyh) | 3:28 | 2024-03-04 |  |
 | [X2 \- Remix](https://open.spotify.com/track/3fEUTIXek0kTmpnGAWNWxX) | [Jossef](https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [X2 \(Remix\)](https://open.spotify.com/album/1sxG561Y3NC62QyZ2A05Ys) | 3:39 | 2022-03-21 | 2022-05-14 |
 | [Xexo](https://open.spotify.com/track/3Dbvk3sQUwtjj8oCCF0QGu) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Xexo](https://open.spotify.com/album/3fN5xRTyR9ZPR6ETIHKQ6T) | 3:00 | 2023-03-31 | 2023-09-09 |
 | [Y Si Tratan](https://open.spotify.com/track/4PtSWPKgZHV2XXyPBlWVQp) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Pitin La Real Inversión](https://open.spotify.com/artist/5W38YdG8Pi5fMUijciy4QS) | [Y Si Tratan](https://open.spotify.com/album/2M8QCxWXVoyhlv3X6CAZqo) | 3:24 | 2023-10-20 | 2023-12-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 
 > You bring the ingredients, we bring the flavor\. Enjoy la cena...
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,164 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,204 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 60 | [Agujas en el pecho](https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Agujas en el pecho](https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt) | 5:20 |
 | 61 | [Chocolat \(Swing\)](https://open.spotify.com/track/42gaDDxNCrQMkri7sQcqGq) | [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8) | [Bailables](https://open.spotify.com/album/2LXPajOlTfGvlm6jm1oFtW) | 3:44 |
 | 62 | [Tú Con Él](https://open.spotify.com/track/3Olb1S4AGjZcD5pB0CXG55) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Canciones del Alma](https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi) | 3:25 |
-| 63 | [Si Te Contara](https://open.spotify.com/track/4FZjsJCf0MO19udtVY4rfx) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Trébol](https://open.spotify.com/album/1d75UCUMQna3KfPPZ9tAcg) | 2:39 |
-| 64 | [Para Llevar](https://open.spotify.com/track/3AhT5jxJpA6hVDgSgkrr3l) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT), [Vakero](https://open.spotify.com/artist/5rlwbF5flU2JCmAzV5Obu0) | [Para Llevar](https://open.spotify.com/album/4WElfalmHN3xVtVcMJJxNW) | 2:52 |
-| 65 | [Esperando Verte](https://open.spotify.com/track/7xRafouoS2J7SYgaURkJjx) | [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8) | [Esperando Verte](https://open.spotify.com/album/1DizlzrJAt2J6CdekDpyMT) | 3:52 |
+| 63 | [Para Llevar](https://open.spotify.com/track/3AhT5jxJpA6hVDgSgkrr3l) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT), [Vakero](https://open.spotify.com/artist/5rlwbF5flU2JCmAzV5Obu0) | [Para Llevar](https://open.spotify.com/album/4WElfalmHN3xVtVcMJJxNW) | 2:52 |
+| 64 | [Esperando Verte](https://open.spotify.com/track/7xRafouoS2J7SYgaURkJjx) | [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8) | [Esperando Verte](https://open.spotify.com/album/1DizlzrJAt2J6CdekDpyMT) | 3:52 |
+| 65 | [Si Te Contara](https://open.spotify.com/track/4FZjsJCf0MO19udtVY4rfx) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Trébol](https://open.spotify.com/album/1d75UCUMQna3KfPPZ9tAcg) | 2:39 |
 | 66 | [Vem Pra Mim](https://open.spotify.com/track/1G08rMx7P260eygGC6sbWr) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Bolero Apocalíptico](https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti) | 3:52 |
 | 67 | [Bienvenido a mi habitación](https://open.spotify.com/track/4NtU5Yq5SqaIbGjpbPmXw7) | [Georgina](https://open.spotify.com/artist/71cjWNRukkIF8Ulh006x3b) | [Bienvenido a mi habitación](https://open.spotify.com/album/4nEsMSMUDN7x646cLbaXBp) | 3:12 |
 | 68 | [El Rincón \(Chachachá\)](https://open.spotify.com/track/1l0ACi45WOGrt9AyEBD1EW) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Las Olas](https://open.spotify.com/album/1JnidEbuApQKcCzo4HK3Og) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 99 | [Somos Hermanas](https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Somos Hermanas](https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK) | 3:50 |
 | 100 | [Grietas](https://open.spotify.com/track/3fnRf6dq6oZBuDFXruNenf) | [Newen Afrobeat](https://open.spotify.com/artist/0PTJ848ulShbjTx2yqaAlb), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Grietas](https://open.spotify.com/album/4L0f9F1DJmjLqUQx6v6if3) | 5:13 |
 
-Snapshot ID: `MCxhZjkzM2I0M2Y5ZjYzMWJhZTdlZGUyMmMzY2ZjYmY4OTM2ZThjMzY0`
+Snapshot ID: `MCw4OWIzZjIyMDAzNTYzZTNmOWJlZmY3MmFjZWFhMTc0NTViZjBkNmYw`

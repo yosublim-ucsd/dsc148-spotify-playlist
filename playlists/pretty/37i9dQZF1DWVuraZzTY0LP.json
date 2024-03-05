@@ -1,12 +1,12 @@
 {
   "description": "Lo m\u00e1s alternativo para una mam\u00e1 muy mo-der-na.",
-  "num_followers": 335127,
+  "num_followers": 335143,
   "original_name": "mam\u00e1 cool",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjI4ZWIxMDRkYTlhYjgxZTQxODJlOGNkOWFlY2JhMjRkNjFhNTIx",
+  "snapshot_id": "MCxmZWUzYjlkODY2ZjE5MWUxOWRiMGE0MWRhZmU0NjI3YzA1NzNiOWU5",
   "tracks": [
     {
       "added_at": "2024-02-23 06:00:00",
@@ -547,26 +547,6 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        },
-        {
-          "name": "Erick the Architect",
-          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
-        }
-      ],
-      "duration_ms": 174020,
-      "name": "Candle Flame",
-      "url": "https://open.spotify.com/track/1Ad2HcIX9zBqoWRvxtpYGf"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
         "name": "Bocanada",
         "url": "https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC"
       },
@@ -595,6 +575,42 @@
       "duration_ms": 215251,
       "name": "00:00",
       "url": "https://open.spotify.com/track/7l4cSfrED7RrtT0t5CSOzv"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        }
+      ],
+      "duration_ms": 174020,
+      "name": "Candle Flame",
+      "url": "https://open.spotify.com/track/1Ad2HcIX9zBqoWRvxtpYGf"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
+        "name": "Travelling Without Moving (Remastered)",
+        "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 244146,
+      "name": "Cosmic Girl - Remastered",
+      "url": "https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -647,22 +663,6 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Travelling Without Moving (Remastered)",
-        "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 244146,
-      "name": "Cosmic Girl - Remastered",
-      "url": "https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
         "name": "El Segundo Es Felino",
         "url": "https://open.spotify.com/album/6MKWjtAaCgbK3AXFr8FMUe"
       },
@@ -675,6 +675,22 @@
       "duration_ms": 248773,
       "name": "Man\u00eda Cardiaca",
       "url": "https://open.spotify.com/track/7rhKh1Ool2Yel5JXmiemZB"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
+        "name": "Loving In Stereo",
+        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 240880,
+      "name": "Keep Moving",
+      "url": "https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -707,22 +723,6 @@
       "duration_ms": 204920,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/6WgUNHiMwJazeG4kWPAH1m"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
-        "name": "Loving In Stereo",
-        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 240880,
-      "name": "Keep Moving",
-      "url": "https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
+        "name": "Somos Instantes",
+        "url": "https://open.spotify.com/album/4La0StHyt6pRXr85FXRxgH"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 193413,
+      "name": "Somos Instantes",
+      "url": "https://open.spotify.com/track/4zgVoY40iiq9XLu8V9Q9kb"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
         "name": "Restaurant",
         "url": "https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 248750,
       "name": "Nada Te Lastima",
       "url": "https://open.spotify.com/track/707RJqFRGa41CeaxY8lz5d"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
-        "name": "Somos Instantes",
-        "url": "https://open.spotify.com/album/4La0StHyt6pRXr85FXRxgH"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 193413,
-      "name": "Somos Instantes",
-      "url": "https://open.spotify.com/track/4zgVoY40iiq9XLu8V9Q9kb"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Br\u00fajula",
-        "url": "https://open.spotify.com/album/4SFSnrvdW1hIqUPR3qLobz"
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/6RGWxCMX5GEKPgjP7gi6zD"
       },
       "artists": [
         {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
         }
       ],
-      "duration_ms": 252661,
-      "name": "Br\u00fajula",
-      "url": "https://open.spotify.com/track/1VhoDw3C8fgncrOliUMmqo"
+      "duration_ms": 165120,
+      "name": "Fresh",
+      "url": "https://open.spotify.com/track/6sRfgwJVZZnMo92SaEAaY4"
     }
   ],
   "unique_name": "mam\u00e1 cool",

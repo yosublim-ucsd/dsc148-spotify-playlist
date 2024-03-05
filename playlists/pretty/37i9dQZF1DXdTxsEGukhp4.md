@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: PSYCHIC FEVER from EXILE TRIBE
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,691 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,713 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Just Like Dat feat\. JP THE WAVY](https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [99.9 Psychic Radio](https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB) | 3:11 |
-| 2 | [THE HEAT](https://open.spotify.com/track/3Dvw0juzCUC3ul6Uba3RKR) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [THE HEAT](https://open.spotify.com/album/5YOqB25VvOrskAmamHvwPd) | 2:56 |
-| 3 | [BAKU BAKU](https://open.spotify.com/track/5NEn47B2eEN0dNQSjKYOE0) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [PSYCHIC FILE I](https://open.spotify.com/album/16ywc9RalvU6CyT9EzePQM) | 3:33 |
+| 2 | [Temperature \(Prod\. JP THE WAVY\)](https://open.spotify.com/track/6lLDeGs3dN0fsTYP24sJpp) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [Temperature \(Prod\. JP THE WAVY\)](https://open.spotify.com/album/7vGsOpaySuHwzja3LPHjfT) | 3:06 |
+| 3 | [THE HEAT](https://open.spotify.com/track/3Dvw0juzCUC3ul6Uba3RKR) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [THE HEAT](https://open.spotify.com/album/5YOqB25VvOrskAmamHvwPd) | 2:56 |
 | 4 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 |
 | 5 | [Moshi Moshi](https://open.spotify.com/track/1NUIKmqkxfTrAHZaU6uHf2) | [Nozomi Kitay](https://open.spotify.com/artist/3iNcdTXdoEJYM1O10q3Ump), [GAL D](https://open.spotify.com/artist/12XCqO4rH8dTgYZiYzcLOD), [MUKADE](https://open.spotify.com/artist/4d1EYQLZDof8IHoNt8i9FR) | [Moshi Moshi](https://open.spotify.com/album/6C3rZZEZcaycHs0yrVrSpf) | 2:56 |
 | 6 | [Dubidubidu \(Chipi Chipi Chapa Chapa\)](https://open.spotify.com/track/7DXDIcjpwkRvO645vuLwbZ) | [Christell](https://open.spotify.com/artist/5H5ZQaEOmSoUTEn8IzI62V) | [Christell](https://open.spotify.com/album/3akGM9qVRzmn3WIDKc2xiz) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 49 | [スマイリーを探して](https://open.spotify.com/track/0XgoXio6L2d5tFhIq0K0ty) | [Serani Poji](https://open.spotify.com/artist/6JzJhoOtjzVLZpMi3Ppz3T) | [ワンルームサバイバル](https://open.spotify.com/album/2AbeJ3WRfsuNBj60drWwWi) | 4:31 |
 | 50 | [fuyu ga sugitara](https://open.spotify.com/track/3VBOu2YNXP2nav4tarq7Ws) | [nyamura](https://open.spotify.com/artist/07ug3BRvzioh7LjHtTDgF6) | [fuyu ga sugitara](https://open.spotify.com/album/7ApemSByPg78zmcga7T9h5) | 2:17 |
 
-Snapshot ID: `MCwwZjgxYTI1ZThkZTRjNWYxM2FjNTAxNGE3NDg4MTE0MjRmMGU2NmU2`
+Snapshot ID: `MCxiMDcwNDFmMGI0MTMyOTMyMDc3NWYwYzMzNGM3OTYyMDQ2ZWJjYWVl`

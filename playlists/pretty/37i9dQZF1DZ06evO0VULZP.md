@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 
 > This is Descendents\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,375 likes - 42 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,378 likes - 42 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 | 11 | [Coffee Mug](https://open.spotify.com/track/6u52PVls4czt3mp2GnyGxe) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Everything Sucks](https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI) | 0:34 |
 | 12 | [Feel This](https://open.spotify.com/track/2xYTsFE2JcJEZFBYfV2x56) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Hypercaffium Spazzinate \(Deluxe Edition\)](https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS) | 1:14 |
 | 13 | [Suburban Home](https://open.spotify.com/track/7Meu81YN9Ols2nQdbkKbbh) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Milo Goes to College](https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8) | 1:40 |
-| 14 | [Talking](https://open.spotify.com/track/5MbtRgGNhwK2KdJFt39a8L) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Cool to Be You](https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB) | 2:27 |
+| 14 | [Coolidge](https://open.spotify.com/track/1sYjTUX8Fc9bhPdH44gC3i) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [All](https://open.spotify.com/album/0nWME5ZFE3jGnJ1gylIOoR) | 2:47 |
 | 15 | [When I Get Old](https://open.spotify.com/track/40AFXpAe4CDeT8DQ8jSDag) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Everything Sucks](https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI) | 2:29 |
 | 16 | [On Paper](https://open.spotify.com/track/7FSV9tYkmQ8VmWSKWKFtHw) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Hypercaffium Spazzinate \(Deluxe Edition\)](https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS) | 1:45 |
 | 17 | [I'm Not a Loser](https://open.spotify.com/track/1XFG00rEeHaDIPOQv9LTYs) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Milo Goes to College](https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8) | 1:28 |
-| 18 | [Coolidge](https://open.spotify.com/track/1sYjTUX8Fc9bhPdH44gC3i) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [All](https://open.spotify.com/album/0nWME5ZFE3jGnJ1gylIOoR) | 2:47 |
+| 18 | [Talking](https://open.spotify.com/track/5MbtRgGNhwK2KdJFt39a8L) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Cool to Be You](https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB) | 2:27 |
 | 19 | [Sick\-O\-Me](https://open.spotify.com/track/1fiN0tMqkUXr5rTmw109Qo) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Everything Sucks](https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI) | 1:46 |
 | 20 | [Without Love](https://open.spotify.com/track/7JlcIAeVDKykP56emtGiHb) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Hypercaffium Spazzinate \(Deluxe Edition\)](https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS) | 3:19 |
 | 21 | [Tonyage](https://open.spotify.com/track/3IZahAVG3UxqDPXpDoLRyT) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Milo Goes to College](https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8) | 0:56 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 | 41 | [Crepe Suzette](https://open.spotify.com/track/0ylpeLmX7i15s6IpMpBB8M) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:05 |
 | 42 | [Sailor's Choice](https://open.spotify.com/track/0HfSlRenXUSBpouR8DNQ8V) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:14 |
 
-Snapshot ID: `Mjg0OTExMzksMDAwMDAwMDAzMmE4ODNkYTBmNWIwNGI1ZGJkZjY1MzA0MzcwY2ZjZg==`
+Snapshot ID: `Mjg0OTI1NjksMDAwMDAwMDA1OWNlYzg2MmI2Y2UxZGQ5M2UwN2EwYmE4OGE4MzQyZA==`

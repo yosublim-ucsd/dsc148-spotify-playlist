@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 
 > Concentração no máximo, sem distrações.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,087 likes - 250 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,100 likes - 250 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 | 70 | [The hills](https://open.spotify.com/track/2wbG3Ma6mHGHI1cJv7r67u) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [The hills](https://open.spotify.com/album/1Hcu386OoNkU3xHgoTwmid) | 2:52 |
 | 71 | [Felt Improv No\. 10](https://open.spotify.com/track/67821VRXVngHwGDcs2IKy3) | [Elias Kiefer](https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB) | [Felt Improvisations](https://open.spotify.com/album/4hjtToG3IRrxVpfo6BiQaX) | 2:43 |
 | 72 | [Når du er nær](https://open.spotify.com/track/5sRJUBDi77h3eJlhS2O7tY) | [Leah Dreyer](https://open.spotify.com/artist/7EcrBxXyI6KATCPVNE6GCU) | [Når du er nær](https://open.spotify.com/album/5O8GtiNzgfsJxp7eC8w8hC) | 2:04 |
-| 73 | [Inmersion](https://open.spotify.com/track/2U5SDqmvtVPPV1RBKyaZH9) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Inmersion](https://open.spotify.com/album/4UKB7Z0S4Qwy6SjYddkmk1) | 2:19 |
-| 74 | [Plum Coulee](https://open.spotify.com/track/3xfiHpIjVN3pN9wfD6BYMD) | [Michael Janzen](https://open.spotify.com/artist/2Vx2Zfx7Gxu6A6xbwbbtFg) | [Plum Coulee](https://open.spotify.com/album/4sfvTd6E3B6Ta0843XB9WT) | 2:53 |
+| 73 | [Plum Coulee](https://open.spotify.com/track/3xfiHpIjVN3pN9wfD6BYMD) | [Michael Janzen](https://open.spotify.com/artist/2Vx2Zfx7Gxu6A6xbwbbtFg) | [Plum Coulee](https://open.spotify.com/album/4sfvTd6E3B6Ta0843XB9WT) | 2:53 |
+| 74 | [Inmersion](https://open.spotify.com/track/2U5SDqmvtVPPV1RBKyaZH9) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Inmersion](https://open.spotify.com/album/4UKB7Z0S4Qwy6SjYddkmk1) | 2:19 |
 | 75 | [Lik Eit Tre \- Ps.1](https://open.spotify.com/track/57ps5B261JySHVUUcvwrc3) | [John Vegard Schow](https://open.spotify.com/artist/00bOFN0VJ7IQqtK3TdRcsN) | [Lik Eit Tre \(Ps.1\)](https://open.spotify.com/album/7zLJpFboXTbU17vDakcROE) | 2:34 |
 | 76 | [Autumn Night](https://open.spotify.com/track/7lbdEiLUZS41yFbWuMCEGj) | [Joy Meyer\-Williams](https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU) | [Autumn Night](https://open.spotify.com/album/3eY3REfE9d7iRNLQucvcE2) | 2:54 |
 | 77 | [Raindrops](https://open.spotify.com/track/6BMcMtb9M5yqelouZZaOPd) | [Jørg Sorensen](https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b) | [Raindrops](https://open.spotify.com/album/1UMYLTMDLsVBXY8VfaYPpt) | 2:21 |
@@ -94,12 +94,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 | 84 | [The Seventh Wave](https://open.spotify.com/track/4rRjQydi87TheoZVntdiER) | [Colias Fieldii](https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v) | [The Seventh Wave](https://open.spotify.com/album/2fuIB47RUiieeW834wdide) | 2:08 |
 | 85 | [A Winged Time](https://open.spotify.com/track/26RTd4wqzRGUAAC2XoOAa4) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Out Of The Blue](https://open.spotify.com/album/7wl0ULSaII6WDHhVUMvmAc) | 2:00 |
 | 86 | [Forsaken Land](https://open.spotify.com/track/3pWlQdfMNp4NabYbPAQcje) | [Lorenzo Balzotti](https://open.spotify.com/artist/3hHeHet790nZ3x8ulsu6tC) | [Forsaken Land](https://open.spotify.com/album/2GrqPpnPembHDXm1cWE4oY) | 3:02 |
-| 87 | [Letter Of Fervid](https://open.spotify.com/track/6Zn3YUW28L4M2Smxz7tyIB) | [Sula Black](https://open.spotify.com/artist/2uzZ9S1yshc7xkAzbga5X0) | [Letter Of Fervid](https://open.spotify.com/album/7erSjN1YTxq2JTs8w90lGg) | 3:08 |
-| 88 | [Stundom](https://open.spotify.com/track/1OJmKyPXayT4TID0XE2uxt) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Stundom](https://open.spotify.com/album/5WYK03J5fXQzuSx67C1Npu) | 2:28 |
-| 89 | [Metanoia](https://open.spotify.com/track/5fRCo9FZmnE92j7BnY3Win) | [Constance Lucas](https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq) | [Metanoia](https://open.spotify.com/album/1CiQYlksvhi8cgPaFno6kl) | 2:21 |
-| 90 | [Rest](https://open.spotify.com/track/6qetTUm5h5LvvHCsALacJt) | [Leona Boyd](https://open.spotify.com/artist/7jEJ0zKV57ryzZm5tEVGJe) | [Rest](https://open.spotify.com/album/0xawmcCxkH1qHBiFYwyVYU) | 2:47 |
-| 91 | [Duende](https://open.spotify.com/track/5EOANVSfg3dX4zE4Askrau) | [Amity Fall](https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS) | [Duende](https://open.spotify.com/album/35rtUQ6uZ8w6pOp0DBHtwQ) | 2:31 |
-| 92 | [Mol allena](https://open.spotify.com/track/7J1KmTQJFGhkyKHNZBbmc0) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Apelblom](https://open.spotify.com/album/6uJkw3rmz4nuIcoMxVRBY1) | 2:26 |
+| 87 | [Mol allena](https://open.spotify.com/track/7J1KmTQJFGhkyKHNZBbmc0) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Apelblom](https://open.spotify.com/album/6uJkw3rmz4nuIcoMxVRBY1) | 2:26 |
+| 88 | [Letter Of Fervid](https://open.spotify.com/track/6Zn3YUW28L4M2Smxz7tyIB) | [Sula Black](https://open.spotify.com/artist/2uzZ9S1yshc7xkAzbga5X0) | [Letter Of Fervid](https://open.spotify.com/album/7erSjN1YTxq2JTs8w90lGg) | 3:08 |
+| 89 | [Stundom](https://open.spotify.com/track/1OJmKyPXayT4TID0XE2uxt) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Stundom](https://open.spotify.com/album/5WYK03J5fXQzuSx67C1Npu) | 2:28 |
+| 90 | [Metanoia](https://open.spotify.com/track/5fRCo9FZmnE92j7BnY3Win) | [Constance Lucas](https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq) | [Metanoia](https://open.spotify.com/album/1CiQYlksvhi8cgPaFno6kl) | 2:21 |
+| 91 | [Rest](https://open.spotify.com/track/6qetTUm5h5LvvHCsALacJt) | [Leona Boyd](https://open.spotify.com/artist/7jEJ0zKV57ryzZm5tEVGJe) | [Rest](https://open.spotify.com/album/0xawmcCxkH1qHBiFYwyVYU) | 2:47 |
+| 92 | [Duende](https://open.spotify.com/track/5EOANVSfg3dX4zE4Askrau) | [Amity Fall](https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS) | [Duende](https://open.spotify.com/album/35rtUQ6uZ8w6pOp0DBHtwQ) | 2:31 |
 | 93 | [Barren Lands](https://open.spotify.com/track/0o56FySlmk0hN1FoVqfnue) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Barren Lands](https://open.spotify.com/album/0ZQ69ATAPr87F8ZQV40CbQ) | 2:19 |
 | 94 | [Persistence](https://open.spotify.com/track/0axAOvyLwfINcKe3tw7U2f) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Persistence](https://open.spotify.com/album/7hihzMSbAIsrcRtSGjebl8) | 2:19 |
 | 95 | [Autumnal](https://open.spotify.com/track/6i653T49GCokF7aFcgG76h) | [Max Dew](https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW) | [Autumnal](https://open.spotify.com/album/7a7f6qmks202aOFuAfomMM) | 2:04 |
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 | 249 | [Tiny Ballerina](https://open.spotify.com/track/6VRfUvTQZGK8C3lkHwXJzl) | [Little Florence](https://open.spotify.com/artist/2GpEugU55XENAxQST64ZPn) | [Small and Alone](https://open.spotify.com/album/4vLhgEWo4HzZmAMnIwLaBk) | 2:25 |
 | 250 | [Lira](https://open.spotify.com/track/6qXXV5IzR4C1qUkkZFeTJ6) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Elegía de la Juventud](https://open.spotify.com/album/1pcymuDxT29Yg9a9Uy1IMT) | 3:07 |
 
-Snapshot ID: `MCxlYjA2Y2I0ZTI1MDdhYTQ3NzMxYWM4NGI4YjYxNzdlODJlMDc4MjM5`
+Snapshot ID: `MCw3YzhkZmMzZGIzNzE0ZDcyMTU0NjVmODQ4MjQ4YWJmOGJkYzViZjVm`

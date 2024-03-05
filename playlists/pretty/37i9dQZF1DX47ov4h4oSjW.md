@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 
 > Music to help you concentrate during your homework.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,089 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,082 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 | 99 | [Omoidasu](https://open.spotify.com/track/6t2Gwyci8Q6WPQMtzTMNh6) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Omoidasu](https://open.spotify.com/album/5KtFsugTZqWZswMzl70YfD) | 1:57 |
 | 100 | [Sunlight](https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU) | [Alec Windt](https://open.spotify.com/artist/3zz0C9ZwusoYHsr5K8b0HW) | [In Love](https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm) | 2:15 |
 
-Snapshot ID: `MCxhN2ExMTg2YjQ5YWE0NjU5YTZkOWI4NDJkZGViNmQ2MzVhMWVjMGE2`
+Snapshot ID: `MCw4MzI4Y2IwM2JmMTQ3NDM1OWQ1ZGZhYTI0NjUyZjgxNTc3MzlkNmM3`

@@ -2069,6 +2069,24 @@
     },
     {
       "album": {
+        "name": "Masjid Mandir",
+        "url": "https://open.spotify.com/album/1TpoHVySqAbMrg0lEwruML"
+      },
+      "artists": [
+        {
+          "name": "Javed Bashir",
+          "url": "https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233354,
+      "name": "Masjid Mandir",
+      "url": "https://open.spotify.com/track/3rNp2GjaY3taqKaGzCrEZA"
+    },
+    {
+      "album": {
         "name": "Maula",
         "url": "https://open.spotify.com/album/0XYIRzV6BpXXSH02O8uaMz"
       },

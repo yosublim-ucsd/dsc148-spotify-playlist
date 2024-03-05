@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,687 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,731 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 4 | [How I Got Home](https://open.spotify.com/track/7bZhj7qv9OpG1R5pPCxnyQ) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [How I Got Home](https://open.spotify.com/album/1HHfYrWLKvMyT6HkYRL5t3) | 3:39 |
 | 5 | [Tip Toe](https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Tip Toe](https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF) | 3:44 |
 | 6 | [6 Feet Down](https://open.spotify.com/track/7LRnNIZFJQSv1mt4W8HYlK) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [6 Feet Down](https://open.spotify.com/album/0pluPeMP0fou1HBotVrHmP) | 2:48 |
-| 7 | [In My Room](https://open.spotify.com/track/7CiDwKE62N6ey3LyG6s7xc) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [In My Room](https://open.spotify.com/album/3WmjP2w94BdrRraDmCHosq) | 2:57 |
+| 7 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 |
 | 8 | [Real Good \- Kan Sano Remix](https://open.spotify.com/track/0i8cpVrAhgU8AVUbbksw8o) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Real Good \(Kan Sano Remix\)](https://open.spotify.com/album/0EWaHIvuG9d95xvmPTy2rR) | 3:08 |
 | 9 | [Learning](https://open.spotify.com/track/6UtXR2Odm1Uang1ZI9vFfc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Learning](https://open.spotify.com/album/2w11Pxtx3QBbVRPKstvPFL) | 4:43 |
 | 10 | [Tejano Blue](https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Tejano Blue](https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8) | 3:54 |
-| 11 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 |
+| 11 | [In My Room](https://open.spotify.com/track/7CiDwKE62N6ey3LyG6s7xc) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [In My Room](https://open.spotify.com/album/3WmjP2w94BdrRraDmCHosq) | 2:57 |
 | 12 | [Nothing \#2 \(feat\. Alex Siegel\)](https://open.spotify.com/track/3K7vtKv08nn7omt5S2d4eo) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb), [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [THE CHARM PARK II EXTRA](https://open.spotify.com/album/6yzc3XByJ7DRAJDKbDQ3hC) | 3:32 |
 | 13 | [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 |
 | 14 | [Promise](https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:54 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 59 | [The End](https://open.spotify.com/track/3e4QnOQmNqJaBjpmjGYZK0) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [The End](https://open.spotify.com/album/5yQSR4I6kIx4a7Siq2Q6vZ) | 3:25 |
 | 60 | [Slow Dancing \(FRNK Remix\)](https://open.spotify.com/track/6mSCY4xjKyt5xLlgOXXHSk) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [FRNK](https://open.spotify.com/artist/6rI2O8GMY9k1JYDDWkD0a8) | [Slow Dancing \(Remixes\)](https://open.spotify.com/album/5qVmDaecbgUasrvDudT39K) | 2:49 |
 
-Snapshot ID: `MCw3YTAwZGY2YzFlYjE4YTY3MDVkODc4MDc4YzhlMjlkNjE3ZGQ5Y2Qw`
+Snapshot ID: `MCw4OTZkZWY3ZTcxYjY2ZWFhYjFmODk0NTU1NTcyNWZlMWNkMzNhMTNm`

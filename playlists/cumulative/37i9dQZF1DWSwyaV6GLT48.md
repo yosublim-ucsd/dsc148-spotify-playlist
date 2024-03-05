@@ -4,7 +4,7 @@
 
 > sunny days, happy people
 
-115 songs - 6 hr 16 min
+116 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Honeypie](https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [For Abby](https://open.spotify.com/album/7KHTE99FaDr8r7V8BZG7WN) | 2:15 | 2023-03-17 |  |
 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 | 2023-03-17 |  |
 | [Ivy](https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:09 | 2023-03-17 |  |
-| [Jubel](https://open.spotify.com/track/61OXupi2BvAtT405OuGVQe) | [mousike](https://open.spotify.com/artist/6pun6to8ug3XuaqvLNOgi5) | [Jubel](https://open.spotify.com/album/3YOG1iPgOObIuGnQCvEXvB) | 2:28 | 2023-05-30 |  |
+| [Jubel](https://open.spotify.com/track/61OXupi2BvAtT405OuGVQe) | [mousike](https://open.spotify.com/artist/6pun6to8ug3XuaqvLNOgi5) | [Jubel](https://open.spotify.com/album/3YOG1iPgOObIuGnQCvEXvB) | 2:28 | 2023-05-30 | 2024-03-05 |
+| [Jubel](https://open.spotify.com/track/21XArmhYfpQHm9S8JA4yGI) | [mousike](https://open.spotify.com/artist/6pun6to8ug3XuaqvLNOgi5) | [Jubel](https://open.spotify.com/album/2NcVUDLb5q0Q4fStV5TZKO) | 2:28 | 2023-05-30 |  |
 | [Jubel](https://open.spotify.com/track/6TskfnWx1j3SwB8r14bTty) | [Votabias](https://open.spotify.com/artist/6zzwsRuoaNV98DzIekp59M) | [Jubel](https://open.spotify.com/album/1DDTylkpgKVXNBHHJjIU8S) | 2:28 | 2023-05-30 | 2024-03-04 |
 | [Jubel](https://open.spotify.com/track/39Mt7O98hpaXsOrBuRDePH) | [Votabias](https://open.spotify.com/artist/6zzwsRuoaNV98DzIekp59M) | [Jubel](https://open.spotify.com/album/48TUoolHm1FeQYx5jLAaQo) | 2:28 | 2023-05-30 | 2023-12-18 |
 | [Jubel \- Radio Edit](https://open.spotify.com/track/6BTjSLvOfHjzV9sbP6BrCO) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Jubel \(Radio Edit\)](https://open.spotify.com/album/4Xp6CE8STE8rfzb0DbVOWQ) | 2:28 | 2023-03-17 | 2024-01-15 |

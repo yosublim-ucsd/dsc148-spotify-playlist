@@ -1,12 +1,12 @@
 {
   "description": "Chasing that runner's high",
-  "num_followers": 500872,
+  "num_followers": 500980,
   "original_name": "Running Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTAyZjcwZTcxMDY3MWNlZWY4NDFjNTU3YzI4MjUwYmQ5MDI3Yjgy",
+  "snapshot_id": "MCw0NWJhNTg1YzQ3NGU0MDc3YjMzNzk3NWVjMzFhOTgxMTdmZjgzNDZi",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -663,30 +663,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Stay High",
-        "url": "https://open.spotify.com/album/3E3JRB0gGzHuc56GB3hUPJ"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 188320,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "BOOM",
         "url": "https://open.spotify.com/album/47wyCwrChF50ZTFNOuWx99"
       },
@@ -707,6 +683,30 @@
       "duration_ms": 179512,
       "name": "BOOM",
       "url": "https://open.spotify.com/track/6iC7vapdKp0XlKhxOkp8QJ"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Stay High",
+        "url": "https://open.spotify.com/album/3E3JRB0gGzHuc56GB3hUPJ"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "duration_ms": 188320,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -771,22 +771,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Do You Dance?",
-        "url": "https://open.spotify.com/album/6Az907HDvldO5qxqVyysz0"
+        "name": "A Town Called Paradise",
+        "url": "https://open.spotify.com/album/4SHlBT6B3kL8bdj6X2xHRp"
       },
       "artists": [
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 189268,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/54hA0ldJYyT1huGfSeOjdQ"
+      "duration_ms": 262200,
+      "name": "Red Lights",
+      "url": "https://open.spotify.com/track/5L2l7mI8J1USMzhsmdjat9"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -831,6 +827,26 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Do You Dance?",
+        "url": "https://open.spotify.com/album/6Az907HDvldO5qxqVyysz0"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 189268,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/54hA0ldJYyT1huGfSeOjdQ"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Rest Of My Life",
         "url": "https://open.spotify.com/album/7zeA4kJCW5R6Qef90r2zQM"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 205810,
       "name": "Rest Of My Life",
       "url": "https://open.spotify.com/track/4OvFFy9nniyG6CsI86yNGL"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "A Town Called Paradise",
-        "url": "https://open.spotify.com/album/4SHlBT6B3kL8bdj6X2xHRp"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 262200,
-      "name": "Red Lights",
-      "url": "https://open.spotify.com/track/5L2l7mI8J1USMzhsmdjat9"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1731,30 +1731,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Cold Heart (PS1 Remix)",
-        "url": "https://open.spotify.com/album/0bwdYvNEEMESNEnudVRysj"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "PS1",
-          "url": "https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj"
-        }
-      ],
-      "duration_ms": 166674,
-      "name": "Cold Heart - PS1 Remix",
-      "url": "https://open.spotify.com/track/5hw7bUv7NtrsepLROgIxLl"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Seismic",
         "url": "https://open.spotify.com/album/0YzIqCBSxVyubwfHwJX4IQ"
       },
@@ -1775,6 +1751,30 @@
       "duration_ms": 208125,
       "name": "Seismic",
       "url": "https://open.spotify.com/track/7pZJ7jGR6skYEkIYpjIE8b"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Cold Heart (PS1 Remix)",
+        "url": "https://open.spotify.com/album/0bwdYvNEEMESNEnudVRysj"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "PS1",
+          "url": "https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj"
+        }
+      ],
+      "duration_ms": 166674,
+      "name": "Cold Heart - PS1 Remix",
+      "url": "https://open.spotify.com/track/5hw7bUv7NtrsepLROgIxLl"
     },
     {
       "added_at": "2024-03-01 05:00:00",

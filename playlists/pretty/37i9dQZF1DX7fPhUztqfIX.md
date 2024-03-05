@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > Emerging sounds in worship from everywhere.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,926 likes - 130 songs - 11 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,013 likes - 130 songs - 11 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 43 | [Count Me In](https://open.spotify.com/track/1251WepWbxP2Nq4qV5J6BB) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Symphony](https://open.spotify.com/album/5TigSX6SdwoGVhTS3sE8TW) | 3:48 |
 | 44 | [Only Ever](https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Only Ever](https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte) | 3:21 |
 | 45 | [Calm the Storm \(Live\)](https://open.spotify.com/track/0YoGf0jNg8nTUuWNKb8Ta9) | [Union Creative](https://open.spotify.com/artist/5yU2qZj0bSVbYPXREUulnX) | [Calm the Storm \(Live\)](https://open.spotify.com/album/3jVReSnHC0ZO6JZZRIic1p) | 5:11 |
-| 46 | [Behold Him \(feat\. Kim Walker\-Smith\)](https://open.spotify.com/track/6Gj4kfHYdXw7Cl2xYja85Z) | [Paul Baloche](https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Behold Him \(feat\. Kim Walker\-Smith\)](https://open.spotify.com/album/2hXOYMsF8fyrzR68hy6b2W) | 4:39 |
-| 47 | [Shiloh](https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Shiloh](https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG) | 4:28 |
-| 48 | [Fire in My Bones](https://open.spotify.com/track/7qWU0OsTG0JBlnCmWZe1vY) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs) | [Fire in My Bones](https://open.spotify.com/album/0zYrhn7yJQLoJfs4x9fcvy) | 4:32 |
+| 46 | [Fire in My Bones](https://open.spotify.com/track/7qWU0OsTG0JBlnCmWZe1vY) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs) | [Fire in My Bones](https://open.spotify.com/album/0zYrhn7yJQLoJfs4x9fcvy) | 4:32 |
+| 47 | [Behold Him \(feat\. Kim Walker\-Smith\)](https://open.spotify.com/track/6Gj4kfHYdXw7Cl2xYja85Z) | [Paul Baloche](https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Behold Him \(feat\. Kim Walker\-Smith\)](https://open.spotify.com/album/2hXOYMsF8fyrzR68hy6b2W) | 4:39 |
+| 48 | [Shiloh](https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Shiloh](https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG) | 4:28 |
 | 49 | [Psalm 42 \(Loudest Praise\)](https://open.spotify.com/track/6x8yjJaCVAzjoSCD3MEOaJ) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalm 42 \(Loudest Praise\)](https://open.spotify.com/album/7lRjBY8NzfbMvNYijKMVgB) | 5:55 |
 | 50 | [Canvas And Clay](https://open.spotify.com/track/0HKt9URk2klsxEqbXqAycM) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Canvas And Clay](https://open.spotify.com/album/0ieC6he8hVPvd5bKhlUS8W) | 4:13 |
 | 51 | [Río](https://open.spotify.com/track/0DHIc3Oasiw0g8ynzaqV7O) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi) | [Todos A La Mesa](https://open.spotify.com/album/6Etivewzt1lcrYkWUAqnd9) | 4:07 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 129 | [He Wears A Crown \- Live](https://open.spotify.com/track/6e9VYjX7VFNx7wfoAv01PN) | [Bryan McCleery](https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1) | [He Wears A Crown \(Live At CrossBridge\)](https://open.spotify.com/album/2DUZyqZywcf2ZBtndcacUs) | 5:12 |
 | 130 | [All I Need](https://open.spotify.com/track/0XAaI5oaiMZTYYxl9wPcZc) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [All I Need](https://open.spotify.com/album/0egI1RHqW3k0XFfgbiCdVl) | 4:45 |
 
-Snapshot ID: `MCw5MmMyMmRiNThhOWRjMWNiYWNjMTY3ZGQxYTQyOGFmOGE1NjhiNDE0`
+Snapshot ID: `MCw0OTNmOWJkYWE3ZjYwZWI2MTAyZTQ3MTAxNjNmZmViZjUyMzdhYjk3`

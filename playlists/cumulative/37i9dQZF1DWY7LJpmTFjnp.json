@@ -49,6 +49,24 @@
     },
     {
       "album": {
+        "name": "A Casa [En Vivo desde Oaxaca (Teatro Macedonio Alcal\u00e1)]",
+        "url": "https://open.spotify.com/album/6lzUkS5meltKQK6xMjMU9k"
+      },
+      "artists": [
+        {
+          "name": "Los Daniels",
+          "url": "https://open.spotify.com/artist/6wAdcWMCHvamfged5FsKBD"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367446,
+      "name": "A Casa - En Vivo desde Oaxaca (Teatro Macedonio Alcal\u00e1)",
+      "url": "https://open.spotify.com/track/2wmJDUVR00eJEscNcvuO3n"
+    },
+    {
+      "album": {
         "name": "A la luz de las farolas / Tren a Marte",
         "url": "https://open.spotify.com/album/1ohvPS2kkidpR6gvYVXahA"
       },
@@ -810,7 +828,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 142252,
       "name": "El Diablo",
       "url": "https://open.spotify.com/track/1lY9ZV5TaqoNsFCr3Mm26b"
@@ -1042,7 +1060,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 242813,
       "name": "El \u00c1tico",
       "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
@@ -1545,6 +1563,36 @@
     },
     {
       "album": {
+        "name": "\u00a1SUENA!",
+        "url": "https://open.spotify.com/album/1mNa1Q9Lo0IBpkzJIzJ3ra"
+      },
+      "artists": [
+        {
+          "name": "La Sra. Tomasa",
+          "url": "https://open.spotify.com/artist/51CWOiWc0Ell65542Yr4Dv"
+        },
+        {
+          "name": "Cirujano Resendez",
+          "url": "https://open.spotify.com/artist/0nFyvpRgCIvNG2JVyAGdbY"
+        },
+        {
+          "name": "A.C.O",
+          "url": "https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO"
+        },
+        {
+          "name": "Masta Quba",
+          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295253,
+      "name": "I'm Alive",
+      "url": "https://open.spotify.com/track/7dNVfH1HUiwfYoOUhMUvXh"
+    },
+    {
+      "album": {
         "name": "El Segundo Es Felino",
         "url": "https://open.spotify.com/album/6MKWjtAaCgbK3AXFr8FMUe"
       },
@@ -1730,7 +1778,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-04",
+      "date_removed": null,
       "duration_ms": 241813,
       "name": "La Locomotora - MTV Unplugged",
       "url": "https://open.spotify.com/track/3W7ctGaVvHy2bIPQaNjKgA"
@@ -1770,7 +1818,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 262933,
       "name": "La Presa del D\u00eda",
       "url": "https://open.spotify.com/track/4ec1C5N9CJnFacoTeQILpl"
@@ -1882,7 +1930,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 734790,
       "name": "Las Clases de Cha Cha Ska Medley: El Cuchillo, Mi Parte Viva, La Cerveza y El Dolor, El Ni\u00f1o Objeto, Espergesia, Mi Tamagochi, Peter Punk",
       "url": "https://open.spotify.com/track/1vw07M44PHHu3ziRY5Wn4t"
@@ -2054,6 +2102,28 @@
       "duration_ms": 291666,
       "name": "Maligno (feat. Le\u00f3n Larregui)",
       "url": "https://open.spotify.com/track/4JbaHnHxPaMXQG1NFT1Nem"
+    },
+    {
+      "album": {
+        "name": "MELANCOL\u00cdA",
+        "url": "https://open.spotify.com/album/5H9fjS95ycyEPZOHT2hgM8"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        },
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222994,
+      "name": "MELANCOL\u00cdA",
+      "url": "https://open.spotify.com/track/41N9Co3jknF8m5BH0cNdqb"
     },
     {
       "album": {
@@ -2452,7 +2522,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 224528,
       "name": "No Volver\u00e1n",
       "url": "https://open.spotify.com/track/2jIHWczYdtSj28CIcs3e8v"
@@ -3452,6 +3522,28 @@
       "duration_ms": 214781,
       "name": "Te quiero",
       "url": "https://open.spotify.com/track/5IShqQgFFTRRpQVVubD52f"
+    },
+    {
+      "album": {
+        "name": "Tema de Adri\u00e1n",
+        "url": "https://open.spotify.com/album/1bF3ocG1KstRDKRXwEsjjB"
+      },
+      "artists": [
+        {
+          "name": "2 minutos",
+          "url": "https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd"
+        },
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180421,
+      "name": "Tema de Adri\u00e1n",
+      "url": "https://open.spotify.com/track/2x9hAIqH7yQiAdGWutAI1S"
     },
     {
       "album": {

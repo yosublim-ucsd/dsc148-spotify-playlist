@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > Grandes vozes da música brasileira de hoje e de ontem reunidas em uma única playlist\. Foto: Gal Costa
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,191 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,241 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 99 | [Quem Vai Quem Vem](https://open.spotify.com/track/5Jkl4ADkfDH5mHgx3sM0m1) | [Cátia de França](https://open.spotify.com/artist/0Pn49e9KBqcekfXpSAGgAM) | [Vinte Palavras ao Redor do Sol](https://open.spotify.com/album/1ZBQq9OK0WC1Ti35wLNhgi) | 3:03 |
 | 100 | [Sussu](https://open.spotify.com/track/0dzMJ2pEdM7LfSZtJaQTyN) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv) | [LEXA](https://open.spotify.com/album/52SWY8s4RmmSB0YnXZUSMi) | 2:06 |
 
-Snapshot ID: `MCxjZWQxMTgzMzYzZmRkN2IzMTA0ZDBhOTJlNjgyOWM3ZWE1ZDIzZGMz`
+Snapshot ID: `MCw4ZjBjZDNkNjNiYTQxNDFlYWFmZWI0ZmNkZjVlOTExYzYzZTFmZjA0`

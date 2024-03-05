@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 43229,
+  "num_followers": 43239,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjFjYzViZmI5MGI1ZDQ4OTBhMTkwN2NkMzhiNmVmYzdlYjQ1Yjg0",
+  "snapshot_id": "MCwzNGZhNWI3NDVmYjBhNjU3Njk5NjA3ZjFhOGY2NDUwY2UyYTZkNWJi",
   "tracks": [
     {
       "added_at": "2019-10-04 16:01:14",
@@ -125,6 +125,34 @@
       "url": "https://open.spotify.com/track/6cU4urQRUieTBH08yKHAqj"
     },
     {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Getz/Gilberto (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 256560,
+      "name": "Corcovado (Quiet Nights Of Quiet Stars)",
+      "url": "https://open.spotify.com/track/0Wh99eifNTNqDFRtzWhCE2"
+    },
+    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "I Put A Spell On You",
@@ -171,34 +199,6 @@
       "duration_ms": 187266,
       "name": "Anything Goes",
       "url": "https://open.spotify.com/track/7G7aecTWvlnJoLUJi7tn7f"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Getz/Gilberto (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        },
-        {
-          "name": "Astrud Gilberto",
-          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 256560,
-      "name": "Corcovado (Quiet Nights Of Quiet Stars)",
-      "url": "https://open.spotify.com/track/0Wh99eifNTNqDFRtzWhCE2"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -303,26 +303,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Anita O'Day And The Three Sounds",
-        "url": "https://open.spotify.com/album/7FocJoTkE5a9i9ngXe4xCX"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        },
-        {
-          "name": "The Three Sounds",
-          "url": "https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi"
-        }
-      ],
-      "duration_ms": 176840,
-      "name": "Whisper Not",
-      "url": "https://open.spotify.com/track/79C7NxcxlBEJcyGHGy6ZMD"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "Jazz Samba",
         "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 349080,
       "name": "Desafinado",
       "url": "https://open.spotify.com/track/0aOH62uqDzuvCvN2jdVtZs"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Anita O'Day And The Three Sounds",
+        "url": "https://open.spotify.com/album/7FocJoTkE5a9i9ngXe4xCX"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        },
+        {
+          "name": "The Three Sounds",
+          "url": "https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi"
+        }
+      ],
+      "duration_ms": 176840,
+      "name": "Whisper Not",
+      "url": "https://open.spotify.com/track/79C7NxcxlBEJcyGHGy6ZMD"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -411,6 +411,26 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
+        "name": "Jazz Samba",
+        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Charlie Byrd",
+          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
+        }
+      ],
+      "duration_ms": 283626,
+      "name": "Samba Triste",
+      "url": "https://open.spotify.com/track/6y2YxIUeM9uMgAINRnb11K"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
         "name": "Love Is Here To Stay",
         "url": "https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t"
       },
@@ -451,26 +471,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Jazz Samba",
-        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Charlie Byrd",
-          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
-        }
-      ],
-      "duration_ms": 283626,
-      "name": "Samba Triste",
-      "url": "https://open.spotify.com/track/6y2YxIUeM9uMgAINRnb11K"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "Songs For Distingu\u00e9 Lovers",
         "url": "https://open.spotify.com/album/4aVrAD83svetEEqiANmvmw"
       },
@@ -483,22 +483,6 @@
       "duration_ms": 333200,
       "name": "Just One Of Those Things - Take 8 - Master Take",
       "url": "https://open.spotify.com/track/434Icqe1n6rfIoOSwhrYbn"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Baker's Holiday",
-        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 154306,
-      "name": "There Is No Greater Love",
-      "url": "https://open.spotify.com/track/0mcL5G9Bf8SSzqpuQQm1bI"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -519,6 +503,42 @@
       "duration_ms": 217960,
       "name": "I Wished On The Moon - Stereo Version",
       "url": "https://open.spotify.com/track/2dcLrmsyULzRcPH0IHRwVh"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Stan Getz & Bill Evans",
+        "url": "https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 405853,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/6pxtYyPZ0bRGknKlughfXL"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Baker's Holiday",
+        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 154306,
+      "name": "There Is No Greater Love",
+      "url": "https://open.spotify.com/track/0mcL5G9Bf8SSzqpuQQm1bI"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -607,26 +627,6 @@
       "duration_ms": 394173,
       "name": "There Is No Greater Love",
       "url": "https://open.spotify.com/track/372QbYnp7oUWhRCplHNlUN"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Stan Getz & Bill Evans",
-        "url": "https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 405853,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/6pxtYyPZ0bRGknKlughfXL"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -877,6 +877,22 @@
       "url": "https://open.spotify.com/track/0CslMMe56XfdYTTdl0WxVU"
     },
     {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Trio 64",
+        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 275133,
+      "name": "Dancing In The Dark",
+      "url": "https://open.spotify.com/track/3QnB59VTOkWNGBk8qptee6"
+    },
+    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "The Argo, Verve And Impulse Big Band Studio Sessions",
@@ -923,38 +939,6 @@
       "duration_ms": 457186,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/3Fa1u9uDaAvLq77HsS4yuM"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Movin' Wes",
-        "url": "https://open.spotify.com/album/0dJZSz1W74REVpVeedPvS5"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 209226,
-      "name": "Movin' Wes - Pt. 1",
-      "url": "https://open.spotify.com/track/5uwbSwv7uRUEMEy3YkqwrZ"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Trio 64",
-        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 275133,
-      "name": "Dancing In The Dark",
-      "url": "https://open.spotify.com/track/3QnB59VTOkWNGBk8qptee6"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1013,6 +997,22 @@
       "url": "https://open.spotify.com/track/2T2Q1jDvjYRfxI4thF8v08"
     },
     {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Movin' Wes",
+        "url": "https://open.spotify.com/album/0dJZSz1W74REVpVeedPvS5"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 209226,
+      "name": "Movin' Wes - Pt. 1",
+      "url": "https://open.spotify.com/track/5uwbSwv7uRUEMEy3YkqwrZ"
+    },
+    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "Nocturne",
@@ -1061,22 +1061,6 @@
       "url": "https://open.spotify.com/track/3Erex5JpPOWHUMY06cVPEJ"
     },
     {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
-        "name": "Quiet",
-        "url": "https://open.spotify.com/album/2j09zfHYYbraNYZIOp5xTz"
-      },
-      "artists": [
-        {
-          "name": "John Scofield",
-          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
-        }
-      ],
-      "duration_ms": 300306,
-      "name": "Tulle",
-      "url": "https://open.spotify.com/track/3eHNOR1GiVYtyuPNr07FOg"
-    },
-    {
       "added_at": "2019-10-02 08:54:10",
       "album": {
         "name": "Empathy",
@@ -1095,6 +1079,22 @@
       "duration_ms": 270666,
       "name": "Let's Go Back To The Waltz",
       "url": "https://open.spotify.com/track/2JJJzJ5E8wx3H5CwuxZO0f"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "Quiet",
+        "url": "https://open.spotify.com/album/2j09zfHYYbraNYZIOp5xTz"
+      },
+      "artists": [
+        {
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        }
+      ],
+      "duration_ms": 300306,
+      "name": "Tulle",
+      "url": "https://open.spotify.com/track/3eHNOR1GiVYtyuPNr07FOg"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1233,6 +1233,22 @@
       "url": "https://open.spotify.com/track/4ulKHoPTqwSvcHCK8SqSCV"
     },
     {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "The Very Best of Chris Botti",
+        "url": "https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD"
+      },
+      "artists": [
+        {
+          "name": "Chris Botti",
+          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
+        }
+      ],
+      "duration_ms": 277466,
+      "name": "Worlds Outside",
+      "url": "https://open.spotify.com/track/5as828xQewhAy2JBXwakAj"
+    },
+    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "Lester Swings",
@@ -1279,22 +1295,6 @@
       "duration_ms": 405226,
       "name": "Brother? Can You Spare A Dime?",
       "url": "https://open.spotify.com/track/6Fohf2UjKz9AJOKKw7RN0e"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "The Very Best of Chris Botti",
-        "url": "https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD"
-      },
-      "artists": [
-        {
-          "name": "Chris Botti",
-          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
-        }
-      ],
-      "duration_ms": 277466,
-      "name": "Worlds Outside",
-      "url": "https://open.spotify.com/track/5as828xQewhAy2JBXwakAj"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1497,6 +1497,22 @@
       "url": "https://open.spotify.com/track/5B5QXJzYyyzp4NaqyiI4gI"
     },
     {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Gettin' To It",
+        "url": "https://open.spotify.com/album/0sTCOTNTXhgAxUvwCnyIK2"
+      },
+      "artists": [
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        }
+      ],
+      "duration_ms": 323306,
+      "name": "Stars Fell On Alabama",
+      "url": "https://open.spotify.com/track/4ViAydYxcGT7wLuilsvdsc"
+    },
+    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "Birks Works: The Verve Big-Band Sessions",
@@ -1547,22 +1563,6 @@
       "duration_ms": 312133,
       "name": "Maya",
       "url": "https://open.spotify.com/track/14CS5ex2sEZKyKdCgDOivI"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Gettin' To It",
-        "url": "https://open.spotify.com/album/0sTCOTNTXhgAxUvwCnyIK2"
-      },
-      "artists": [
-        {
-          "name": "Christian McBride",
-          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
-        }
-      ],
-      "duration_ms": 323306,
-      "name": "Stars Fell On Alabama",
-      "url": "https://open.spotify.com/track/4ViAydYxcGT7wLuilsvdsc"
     },
     {
       "added_at": "2019-10-04 16:01:14",

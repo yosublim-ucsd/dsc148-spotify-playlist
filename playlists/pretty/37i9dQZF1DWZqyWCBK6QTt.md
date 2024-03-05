@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqyWCBK6QTt.md) - [plain]
 
 > The songs you love, in ways you’ve never heard before\. Cover: Norah Jones & Remi Wof
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,070 likes - 150 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,113 likes - 150 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqyWCBK6QTt.md) - [plain]
 | 10 | [Lonely Day \- Spotify Singles](https://open.spotify.com/track/2bmGjqYsvXVTt1CRfUicIH) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Lonely Day \- Spotify Singles](https://open.spotify.com/album/2GUhX1GveJBRtgpyUQhTSY) | 2:36 |
 | 11 | [September \- Recorded at The Tracking Room Nashville](https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Spotify Singles](https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8) | 3:07 |
 | 12 | [Baby One More Time \- Recorded at Spotify Studios New York City](https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Spotify Singles](https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF) | 2:57 |
-| 13 | [I'm Like A Bird \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2JtSnwYNKOphDrshYL8n4p) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Spotify Singles](https://open.spotify.com/album/4e1KPKRbxwbrHnysHvve8j) | 3:39 |
-| 14 | [drivers license \- Spotify Singles](https://open.spotify.com/track/10wk4XQdba4QpHgFb28Ktk) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Spotify Singles](https://open.spotify.com/album/1bqvkdrPKF47lM9bZrRvB9) | 4:22 |
+| 13 | [drivers license \- Spotify Singles](https://open.spotify.com/track/10wk4XQdba4QpHgFb28Ktk) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Spotify Singles](https://open.spotify.com/album/1bqvkdrPKF47lM9bZrRvB9) | 4:22 |
+| 14 | [I'm Like A Bird \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2JtSnwYNKOphDrshYL8n4p) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Spotify Singles](https://open.spotify.com/album/4e1KPKRbxwbrHnysHvve8j) | 3:39 |
 | 15 | [Spooky \- Recorded at RAK Studios, London](https://open.spotify.com/track/2y0odeTeYsxWvYQ5rYANu0) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Spotify Singles](https://open.spotify.com/album/0aqv2HD8GPGDDM0CokS0Fk) | 3:41 |
 | 16 | [Toxic](https://open.spotify.com/track/4X1qDzQdpuxN6UOkaq6UXi) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Spotify Singles](https://open.spotify.com/album/0WCQS4X35RP4kLo6qRiOD3) | 4:29 |
 | 17 | [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm) | 3:40 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqyWCBK6QTt.md) - [plain]
 | 31 | [A Little Bit of Everything \- Spotify Singles](https://open.spotify.com/track/66yvX4stoMKIiTcZeDJGpt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Spotify Singles](https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1) | 5:17 |
 | 32 | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj) | 2:41 |
 | 33 | [re: Stacks \- Spotify Singles](https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Spotify Singles](https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf) | 5:09 |
-| 34 | [Time After Time \- Spotify Singles](https://open.spotify.com/track/6vQCNDNbA0DQoSPftbzS1W) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Time After Time \(Spotify Singles\)](https://open.spotify.com/album/5lxUTVBhoeeAeleepOsBop) | 3:39 |
-| 35 | [7 Years \(Acoustic\) \- Recorded at Spotify Studios Nyc](https://open.spotify.com/track/1VK5JYdgrJZENDl1taa2cS) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Spotify Singles](https://open.spotify.com/album/1XXSHevNKbENDXqH5iRSEC) | 2:27 |
+| 34 | [7 Years \(Acoustic\) \- Recorded at Spotify Studios Nyc](https://open.spotify.com/track/1VK5JYdgrJZENDl1taa2cS) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Spotify Singles](https://open.spotify.com/album/1XXSHevNKbENDXqH5iRSEC) | 2:27 |
+| 35 | [Time After Time \- Spotify Singles](https://open.spotify.com/track/6vQCNDNbA0DQoSPftbzS1W) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Time After Time \(Spotify Singles\)](https://open.spotify.com/album/5lxUTVBhoeeAeleepOsBop) | 3:39 |
 | 36 | [Say It Ain't So \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/4NBSkqCopxDtoMNABwtsce) | [Calpurnia](https://open.spotify.com/artist/5A2yiLLhc0NJaG8rn4mYp5) | [Spotify Singles](https://open.spotify.com/album/520akeRTx4b3o0RQZT23Zo) | 4:03 |
 | 37 | [You'll Be In My Heart \- Spotify Singles](https://open.spotify.com/track/37mbA1RwYja7WFaIOzSczX) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Spotify Singles](https://open.spotify.com/album/5F6IRzJZGzLGb8R0GDMKSz) | 4:01 |
 | 38 | [Wildflowers \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4L0rxWhjyX0VhNbK4U9oK6) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Spotify Singles](https://open.spotify.com/album/0N8hvQJMoZeMDEurU9afgD) | 3:05 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqyWCBK6QTt.md) - [plain]
 | 149 | [i will follow you into the dark \- Spotify Singles](https://open.spotify.com/track/7lxfdfIocUHefodQ8JLyfk) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Spotify Singles](https://open.spotify.com/album/54lLvzhlVF4QhQMBfPQhtl) | 2:33 |
 | 150 | [More Than Words](https://open.spotify.com/track/2eL7okeUuLM7000O6KTbbg) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Spotify Singles](https://open.spotify.com/album/6TRs7CwVqOShWEnB7rL2Lp) | 3:34 |
 
-Snapshot ID: `MCwwN2M2MTM4MDI3YjJhMzViMmM4NmMzNjk5ZWViM2MwOGQxZTQwZWNl`
+Snapshot ID: `MCwxODdlOGQwZWIzMGM2N2Y2YzcwNmMzNzE0ZGFkNzFkMmQzN2ZkNmY0`

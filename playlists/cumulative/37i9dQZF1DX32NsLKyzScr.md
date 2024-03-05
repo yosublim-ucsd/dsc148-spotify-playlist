@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,055 songs - 2 day 9 hr 23 min
+1,056 songs - 2 day 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,7 @@
 | [Days Like This](https://open.spotify.com/track/7ekGdD9l1YWFUngF9jVKcf) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H) | [Days Like This](https://open.spotify.com/album/6WV1Mmy9a5kmJkbDBicdLx) | 2:26 | 2023-01-13 | 2023-03-07 |
 | [Deals with the Devil](https://open.spotify.com/track/0jFc39se7POaOfpb1601om) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd), [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w) | [Deals with the Devil](https://open.spotify.com/album/0pTo4DQyQe0pLZM7htnd9M) | 2:53 | 2022-01-28 | 2022-04-02 |
 | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI) | 2:45 | 2022-07-01 |  |
-| [Deep In Your Love](https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Deep In Your Love](https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs) | 2:24 | 2024-01-26 |  |
+| [Deep In Your Love](https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Deep In Your Love](https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs) | 2:24 | 2024-01-26 | 2024-03-05 |
 | [Deep Sea \(with R3HAB\)](https://open.spotify.com/track/1txEi16dxuNGSU3VokEtOb) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Deep Sea \(with R3HAB\)](https://open.spotify.com/album/0HB8Rsf0bLnuXmDflKcLFc) | 2:35 | 2022-07-29 | 2023-04-11 |
 | [Delilah](https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm) | [MIKOLAS](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR), [Mark Neve](https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH) | [Delilah](https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh) | 2:21 | 2023-07-14 |  |
 | [Desire](https://open.spotify.com/track/33yWC2Sf9kdjF9T4es4y6I) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Desire](https://open.spotify.com/album/0AL99H8IKDqCqAAoraDKQH) | 2:35 | 2020-09-21\* | 2021-02-20 |
@@ -883,6 +883,7 @@
 | [Take Me High](https://open.spotify.com/track/1EF8Ya2wALJOufB5VQAwtt) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Take Me High](https://open.spotify.com/album/45QHBYLqcIq50K0yCt43J7) | 4:15 | 2022-10-14 | 2023-01-27 |
 | [Take Me High](https://open.spotify.com/track/4gjN40eaGDu02UhcIB0mVi) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Take Me High](https://open.spotify.com/album/7B1o7ADGNrli4kqnxTH4fL) | 4:15 | 2022-09-16 | 2022-10-13 |
 | [Take My Hand](https://open.spotify.com/track/4KFFv2gYbZyltjKZ5hthIs) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Take My Hand](https://open.spotify.com/album/3oKJkuzvGc4z6w5jjchKJD) | 3:08 | 2021-03-11 | 2021-09-18 |
+| [Take Off](https://open.spotify.com/track/1Qew5n9FSPxpiqu0Og4R3J) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Take Off](https://open.spotify.com/album/350F8g1oIRWzdUs8gMfmsc) | 3:57 | 2024-03-04 |  |
 | [Take Your Time](https://open.spotify.com/track/3AygCrAj6TZZ6mGkcvD9To) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Take Your Time](https://open.spotify.com/album/6HBagEXptqThTlMQnxSchh) | 3:06 | 2021-02-06 | 2021-09-11 |
 | [Talamanca](https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Talamanca](https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW) | 3:06 | 2021-10-09 | 2022-05-07 |
 | [Talk About](https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [DJ Craig Gorman](https://open.spotify.com/artist/0koQ34MqfcfCFCiMGEY400) | [Talk About](https://open.spotify.com/album/78uu9LcjPwqQEAdBSKz6mV) | 2:41 | 2021-08-21 | 2022-03-12 |

@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 652748,
+  "2024-03-05": 652868,
   "date_first_scraped": "2022-05-26",
   "description": "La m\u00fasica que prende la fiesta!",
   "name": "Joda",
@@ -2487,6 +2487,24 @@
       "duration_ms": 129069,
       "name": "EL NOBA | DJ TAO Turreo Sessions #7",
       "url": "https://open.spotify.com/track/5oLWzTgq6WsZyMF16IiN7R"
+    },
+    {
+      "album": {
+        "name": "El Pegadito",
+        "url": "https://open.spotify.com/album/2DMwoQ1nWdi3UlDjykQ4FL"
+      },
+      "artists": [
+        {
+          "name": "frankotirador",
+          "url": "https://open.spotify.com/artist/3mkgLtC3wZ9xFKM7C6bA4w"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173035,
+      "name": "El Pegadito",
+      "url": "https://open.spotify.com/track/4V7yKp16QSxOEM0NcCpxzY"
     },
     {
       "album": {
@@ -8749,7 +8767,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 159587,
       "name": "Terer\u00e9",
       "url": "https://open.spotify.com/track/2oO5vunT8dcjevXXLTlWcW"

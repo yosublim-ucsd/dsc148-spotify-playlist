@@ -1,12 +1,12 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & the Night Sweats",
-  "num_followers": 490742,
+  "num_followers": 490752,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODRhZjU4MjE3MWMwMmE3MzJiYjg3NTU5MDVjZWFkMmMwOTJlMjZj",
+  "snapshot_id": "MCw1OGQ2Yjg5MjdmYjAzZmI4NDVhM2Q3YzQ4ZWQzYmY1Zjc5NTc3OGZi",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Wilderado",
-        "url": "https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP"
-      },
-      "artists": [
-        {
-          "name": "Wilderado",
-          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
-        }
-      ],
-      "duration_ms": 241194,
-      "name": "Surefire",
-      "url": "https://open.spotify.com/track/7MbVZOLSUloG4J3nH3Tnos"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Signs of Light",
         "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 225560,
       "name": "All We Ever Knew",
       "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Wilderado",
+        "url": "https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP"
+      },
+      "artists": [
+        {
+          "name": "Wilderado",
+          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
+        }
+      ],
+      "duration_ms": 241194,
+      "name": "Surefire",
+      "url": "https://open.spotify.com/track/7MbVZOLSUloG4J3nH3Tnos"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Sad Hunk",
-        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
+        "name": "Officer of Love",
+        "url": "https://open.spotify.com/album/32KEzI5ktqL3XmYP81n8mk"
       },
       "artists": [
         {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
         }
       ],
-      "duration_ms": 204453,
-      "name": "Trick To Happy",
-      "url": "https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd"
+      "duration_ms": 239805,
+      "name": "Officer of Love",
+      "url": "https://open.spotify.com/track/0g7exrz3J7Ew9Et3NKOopv"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -491,38 +491,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Delta",
-        "url": "https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 217633,
-      "name": "Guiding Light",
-      "url": "https://open.spotify.com/track/7E6IL7WFO9ozoWramet7PE"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Officer of Love",
-        "url": "https://open.spotify.com/album/32KEzI5ktqL3XmYP81n8mk"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 239805,
-      "name": "Officer of Love",
-      "url": "https://open.spotify.com/track/0g7exrz3J7Ew9Et3NKOopv"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "The Belt",
         "url": "https://open.spotify.com/album/4ViGmclVTvJiBYMvPFeXbZ"
       },
@@ -539,6 +507,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Sad Hunk",
+        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 204453,
+      "name": "Trick To Happy",
+      "url": "https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "twelvefour",
         "url": "https://open.spotify.com/album/1f3jCFgt3cXyaPr854eQ2t"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 223520,
       "name": "Electric Indigo",
       "url": "https://open.spotify.com/track/1erXDiGCnmUQvG6DZRqpuM"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 217633,
+      "name": "Guiding Light",
+      "url": "https://open.spotify.com/track/7E6IL7WFO9ozoWramet7PE"
     },
     {
       "added_at": "2023-10-20 04:00:00",

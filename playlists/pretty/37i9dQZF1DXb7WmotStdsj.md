@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,723 likes - 60 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,867 likes - 60 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 2 | [شوفو لامور مادار فيا](https://open.spotify.com/track/0yvcSDx1WMdxnUHhqG7PEh) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [شوفو لامور مادار فيا](https://open.spotify.com/album/6DAw2PoGBVo2lggm87EgG6) | 3:06 |
 | 3 | [عشقها فات الحدود](https://open.spotify.com/track/2hI4PLjRtD6p9aeuwNIsqf) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM), [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [عشقها فات الحدود](https://open.spotify.com/album/7ngjklnX34oPZfnulpA0dB) | 5:10 |
 | 4 | [Tayha Love](https://open.spotify.com/track/3ZFDVnwbi8cJiEyPxbZGea) | [Cheb Nassim](https://open.spotify.com/artist/36HNrlSe0rp6bFPEDRRXHo), [Tchikou 22](https://open.spotify.com/artist/1PQR1mOLesI2wPJDXcyl7H) | [Tayha Love](https://open.spotify.com/album/6wl0rqJu3eO97Z1Qyfv8Gd) | 4:43 |
-| 5 | [Allo Oui](https://open.spotify.com/track/06r1Ea7fbuDdbNZewcySTy) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [Allo Oui](https://open.spotify.com/album/4VlMF9KxBExY0QXUXbtZwn) | 3:17 |
+| 5 | [Allo Oui](https://open.spotify.com/track/0FvnIUp3c3YRawAkprTCp6) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [Allo Oui](https://open.spotify.com/album/0Y98q8LciCVvefjIvkCZlR) | 3:20 |
 | 6 | [Allo Omri](https://open.spotify.com/track/4PYVjUQ8cxuYF07PCfYn4a) | [Didou Parisien](https://open.spotify.com/artist/2LWOOorT0uVplVdL6CRncj), [Tchikou 22](https://open.spotify.com/artist/1PQR1mOLesI2wPJDXcyl7H) | [Allo Omri](https://open.spotify.com/album/1RNhljk2TfYLj3Q1aNNnKO) | 4:53 |
 | 7 | [La Nti Mrida](https://open.spotify.com/track/0uDM6l1BBitqbTVTkidtKz) | [Faycel cholé](https://open.spotify.com/artist/55b0Nu2e9Qoq0rMl6A51As) | [La Nti Mrida](https://open.spotify.com/album/11HL5lFB24mx4ORbibsFXj) | 8:21 |
 | 8 | [Nifi Wala Autoroute](https://open.spotify.com/track/4gqg0rUZRt8q5g3FkVtyHG) | [Cheb Zizou](https://open.spotify.com/artist/0jqfKafpVfBYPUgSLhW7dY) | [Nifi Wala Autoroute](https://open.spotify.com/album/4AW5xFzNd6OXGhXVhuCfsb) | 2:31 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 59 | [Jabetli Ljah](https://open.spotify.com/track/7sIr0SWz4zeZRt8NuV112j) | [Didou Parisien](https://open.spotify.com/artist/2LWOOorT0uVplVdL6CRncj) | [Jabetli Ljah](https://open.spotify.com/album/5rHwMQTSEBYs2s2HRE7rcH) | 8:00 |
 | 60 | [Ma vie 2 fois](https://open.spotify.com/track/52XknVywsSWwVXwcxl6WAP) | [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [dellali](https://open.spotify.com/album/1sUJo5AFoHomnM2ANQk28m) | 4:07 |
 
-Snapshot ID: `MCxkNTFlMWIyZTg0ZDI1YWM0NGM0NmUwMDE0MjNjZGU3M2IzOWMxNzIz`
+Snapshot ID: `MCxmYmM4MzkxZGQ0NDdjNDc3NzYyNDNjMmYwMjdkM2UwODNhZWVkZmMy`

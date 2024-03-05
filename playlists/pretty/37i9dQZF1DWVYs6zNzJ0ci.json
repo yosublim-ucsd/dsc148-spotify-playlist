@@ -1,12 +1,12 @@
 {
   "description": "Vibraciones rastafari en espa\u00f1ol. Foto: Nonpalidece",
-  "num_followers": 1219140,
+  "num_followers": 1219185,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzA2N2Q1NDUyMGI4MjgyY2ZjNDhhZmM1YzZhODg2MTA1MWEwM2Y4",
+  "snapshot_id": "MCwwZWE3M2RjMjY2ZjhmMTNlMmI3OTVhZDM0N2EwN2QwNzMwMWM2YzBh",
   "tracks": [
     {
       "added_at": "2024-01-26 04:59:00",
@@ -739,6 +739,38 @@
     {
       "added_at": "2024-01-26 04:59:00",
       "album": {
+        "name": "Alas Canciones",
+        "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 302280,
+      "name": "Sigo Caminando",
+      "url": "https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR"
+    },
+    {
+      "added_at": "2024-01-26 04:59:00",
+      "album": {
+        "name": "Trippy Caribbean",
+        "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 262771,
+      "name": "V\u00e9ngase I",
+      "url": "https://open.spotify.com/track/1kOzw10XqOtFA7Qar4Bjpu"
+    },
+    {
+      "added_at": "2024-01-26 04:59:00",
+      "album": {
         "name": "Ll\u00e9vame (Cultura Remix)",
         "url": "https://open.spotify.com/album/4Mh08dkc99DlRwpSu1Rkzy"
       },
@@ -775,70 +807,6 @@
     {
       "added_at": "2024-01-26 04:59:00",
       "album": {
-        "name": "Trippy Caribbean",
-        "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 262771,
-      "name": "V\u00e9ngase I",
-      "url": "https://open.spotify.com/track/1kOzw10XqOtFA7Qar4Bjpu"
-    },
-    {
-      "added_at": "2024-01-26 04:59:00",
-      "album": {
-        "name": "Tiempos de Tribulacion",
-        "url": "https://open.spotify.com/album/2nQvDkJgU47Ghb59zb0UVK"
-      },
-      "artists": [
-        {
-          "name": "Kameleba",
-          "url": "https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST"
-        }
-      ],
-      "duration_ms": 363120,
-      "name": "Orillas",
-      "url": "https://open.spotify.com/track/7gP7A6Fz8easI7b0qxZPAw"
-    },
-    {
-      "added_at": "2024-01-26 04:59:00",
-      "album": {
-        "name": "Alas Canciones",
-        "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
-      },
-      "artists": [
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 302280,
-      "name": "Sigo Caminando",
-      "url": "https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR"
-    },
-    {
-      "added_at": "2024-01-26 04:59:00",
-      "album": {
-        "name": "Todo Lo Que Se Fue",
-        "url": "https://open.spotify.com/album/5b6PeL5h1CFlENO13RKt4r"
-      },
-      "artists": [
-        {
-          "name": "Dread Mar I",
-          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
-        }
-      ],
-      "duration_ms": 201021,
-      "name": "Todo Lo Que Se Fue",
-      "url": "https://open.spotify.com/track/4B7SpIO8nXOzz8I8tkovqW"
-    },
-    {
-      "added_at": "2024-01-26 04:59:00",
-      "album": {
         "name": "Civilizado Como Los Animales",
         "url": "https://open.spotify.com/album/3XEUOUhNrKAGvx5X5jv1lW"
       },
@@ -851,42 +819,6 @@
       "duration_ms": 227099,
       "name": "Lo Quiero Todo",
       "url": "https://open.spotify.com/track/6gpLTvmHWj12Z03hFgixkH"
-    },
-    {
-      "added_at": "2024-01-26 04:59:00",
-      "album": {
-        "name": "Binikini",
-        "url": "https://open.spotify.com/album/7jAzRi4PeWM3E2MJnBmedj"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 183253,
-      "name": "Binikini",
-      "url": "https://open.spotify.com/track/1Iy4dJWborISHY9FHWGKPD"
-    },
-    {
-      "added_at": "2024-01-26 04:59:00",
-      "album": {
-        "name": "Nonpalidesenchufado",
-        "url": "https://open.spotify.com/album/20yi48fX2JcQ9JnIlo29bV"
-      },
-      "artists": [
-        {
-          "name": "Nonpalidece",
-          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
-        }
-      ],
-      "duration_ms": 314772,
-      "name": "La Flor",
-      "url": "https://open.spotify.com/track/2x9kIjm8AejYJCunY9yKOA"
     },
     {
       "added_at": "2024-01-26 04:59:00",
@@ -907,18 +839,70 @@
     {
       "added_at": "2024-01-26 04:59:00",
       "album": {
-        "name": "Solo Un Eco",
-        "url": "https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0"
+        "name": "Todo Lo Que Se Fue",
+        "url": "https://open.spotify.com/album/5b6PeL5h1CFlENO13RKt4r"
       },
       "artists": [
         {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
         }
       ],
-      "duration_ms": 285117,
-      "name": "Solo Un Eco",
-      "url": "https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4"
+      "duration_ms": 201021,
+      "name": "Todo Lo Que Se Fue",
+      "url": "https://open.spotify.com/track/4B7SpIO8nXOzz8I8tkovqW"
+    },
+    {
+      "added_at": "2024-01-26 04:59:00",
+      "album": {
+        "name": "Nonpalidesenchufado",
+        "url": "https://open.spotify.com/album/20yi48fX2JcQ9JnIlo29bV"
+      },
+      "artists": [
+        {
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        }
+      ],
+      "duration_ms": 314772,
+      "name": "La Flor",
+      "url": "https://open.spotify.com/track/2x9kIjm8AejYJCunY9yKOA"
+    },
+    {
+      "added_at": "2024-01-26 04:59:00",
+      "album": {
+        "name": "Tiempos de Tribulacion",
+        "url": "https://open.spotify.com/album/2nQvDkJgU47Ghb59zb0UVK"
+      },
+      "artists": [
+        {
+          "name": "Kameleba",
+          "url": "https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST"
+        }
+      ],
+      "duration_ms": 363120,
+      "name": "Orillas",
+      "url": "https://open.spotify.com/track/7gP7A6Fz8easI7b0qxZPAw"
+    },
+    {
+      "added_at": "2024-01-26 04:59:00",
+      "album": {
+        "name": "Binikini",
+        "url": "https://open.spotify.com/album/7jAzRi4PeWM3E2MJnBmedj"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 183253,
+      "name": "Binikini",
+      "url": "https://open.spotify.com/track/1Iy4dJWborISHY9FHWGKPD"
     },
     {
       "added_at": "2024-01-26 04:59:00",
@@ -955,6 +939,38 @@
     {
       "added_at": "2024-01-26 04:59:00",
       "album": {
+        "name": "Solo Un Eco",
+        "url": "https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 285117,
+      "name": "Solo Un Eco",
+      "url": "https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4"
+    },
+    {
+      "added_at": "2024-01-26 04:59:00",
+      "album": {
+        "name": "Activistas",
+        "url": "https://open.spotify.com/album/3VdCyzaFr6nOz358VpRGaH"
+      },
+      "artists": [
+        {
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        }
+      ],
+      "duration_ms": 257974,
+      "name": "En el Aire",
+      "url": "https://open.spotify.com/track/6tT7NZT9kUGcntWb7yFX0C"
+    },
+    {
+      "added_at": "2024-01-26 04:59:00",
+      "album": {
         "name": "No Es Solo Rock And Roll",
         "url": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 296666,
       "name": "Reggae Para Los Amigos",
       "url": "https://open.spotify.com/track/3rLMwqrvbr38wcud6FxB8i"
-    },
-    {
-      "added_at": "2024-01-26 04:59:00",
-      "album": {
-        "name": "Trippy Caribbean",
-        "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 201194,
-      "name": "V\u00e9ngase II",
-      "url": "https://open.spotify.com/track/3pzM6wDql5VklfF8E0ZmdY"
     },
     {
       "added_at": "2024-01-26 04:59:00",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2024-01-26 04:59:00",
       "album": {
-        "name": "Activistas",
-        "url": "https://open.spotify.com/album/3VdCyzaFr6nOz358VpRGaH"
+        "name": "Trippy Caribbean",
+        "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
       },
       "artists": [
         {
-          "name": "Nonpalidece",
-          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         }
       ],
-      "duration_ms": 257974,
-      "name": "En el Aire",
-      "url": "https://open.spotify.com/track/6tT7NZT9kUGcntWb7yFX0C"
+      "duration_ms": 201194,
+      "name": "V\u00e9ngase II",
+      "url": "https://open.spotify.com/track/3pzM6wDql5VklfF8E0ZmdY"
     },
     {
       "added_at": "2024-01-26 04:59:00",
@@ -1059,22 +1059,6 @@
       "duration_ms": 242400,
       "name": "Te Cre\u00ed",
       "url": "https://open.spotify.com/track/1G2ZDpnDiNoS2hLunRxsvL"
-    },
-    {
-      "added_at": "2024-01-26 04:59:00",
-      "album": {
-        "name": "Fuiste Cruel",
-        "url": "https://open.spotify.com/album/3gFaZRToVe63cRTJJh94Yo"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 297738,
-      "name": "Fuiste Cruel",
-      "url": "https://open.spotify.com/track/4ElWiTXz0iz5vKO8X2L0hN"
     },
     {
       "added_at": "2024-01-26 04:59:00",
@@ -1127,6 +1111,38 @@
     {
       "added_at": "2024-01-26 04:59:00",
       "album": {
+        "name": "Gondwana En Vivo En Buenos Aires",
+        "url": "https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 338146,
+      "name": "Verde, amarillo y rojo",
+      "url": "https://open.spotify.com/track/4Gu3btu3WVhofFBbSyrwBC"
+    },
+    {
+      "added_at": "2024-01-26 04:59:00",
+      "album": {
+        "name": "Fuiste Cruel",
+        "url": "https://open.spotify.com/album/3gFaZRToVe63cRTJJh94Yo"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 297738,
+      "name": "Fuiste Cruel",
+      "url": "https://open.spotify.com/track/4ElWiTXz0iz5vKO8X2L0hN"
+    },
+    {
+      "added_at": "2024-01-26 04:59:00",
+      "album": {
         "name": "Quisiera",
         "url": "https://open.spotify.com/album/1hxhKktk2u9gTPms7c8fv9"
       },
@@ -1151,22 +1167,6 @@
     {
       "added_at": "2024-01-26 04:59:00",
       "album": {
-        "name": "Gondwana En Vivo En Buenos Aires",
-        "url": "https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 338146,
-      "name": "Verde, amarillo y rojo",
-      "url": "https://open.spotify.com/track/4Gu3btu3WVhofFBbSyrwBC"
-    },
-    {
-      "added_at": "2024-01-26 04:59:00",
-      "album": {
         "name": "Morena",
         "url": "https://open.spotify.com/album/7bI88FeKBsGe9mT2xQFmj7"
       },
@@ -1179,22 +1179,6 @@
       "duration_ms": 196071,
       "name": "Morena",
       "url": "https://open.spotify.com/track/1Qb92EJxnTsGcBEofiwMV0"
-    },
-    {
-      "added_at": "2024-01-26 04:59:00",
-      "album": {
-        "name": "Para Mi",
-        "url": "https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 267953,
-      "name": "Para Mi",
-      "url": "https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf"
     },
     {
       "added_at": "2024-01-26 04:59:00",
@@ -1283,6 +1267,22 @@
     {
       "added_at": "2024-01-26 04:59:00",
       "album": {
+        "name": "Para Mi",
+        "url": "https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 267953,
+      "name": "Para Mi",
+      "url": "https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf"
+    },
+    {
+      "added_at": "2024-01-26 04:59:00",
+      "album": {
         "name": "Gaia",
         "url": "https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY"
       },
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2024-01-26 04:59:00",
       "album": {
+        "name": "Dance Forever",
+        "url": "https://open.spotify.com/album/4y1HLTEMoY6ZfGpIH3Vgnh"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "duration_ms": 157427,
+      "name": "Dance Forever",
+      "url": "https://open.spotify.com/track/7giwWyKAz4UTduCgnrQxSx"
+    },
+    {
+      "added_at": "2024-01-26 04:59:00",
+      "album": {
         "name": "M\u00fasica Libre",
         "url": "https://open.spotify.com/album/5YQG2L5Xt8XLWWnhUSVdED"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 226000,
       "name": "Pupilas Lejanas",
       "url": "https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx"
-    },
-    {
-      "added_at": "2024-01-26 04:59:00",
-      "album": {
-        "name": "Dance Forever",
-        "url": "https://open.spotify.com/album/4y1HLTEMoY6ZfGpIH3Vgnh"
-      },
-      "artists": [
-        {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
-        }
-      ],
-      "duration_ms": 157427,
-      "name": "Dance Forever",
-      "url": "https://open.spotify.com/track/7giwWyKAz4UTduCgnrQxSx"
     },
     {
       "added_at": "2024-01-26 04:59:00",
@@ -1739,6 +1739,30 @@
     {
       "added_at": "2024-01-26 04:59:00",
       "album": {
+        "name": "Criminal (feat. Elsa y Elmar)",
+        "url": "https://open.spotify.com/album/6VHUYwwNx4EubxQsYwXtxU"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        },
+        {
+          "name": "Recoversi\u00f3n",
+          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
+        },
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 221042,
+      "name": "Criminal (feat. Elsa y Elmar)",
+      "url": "https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ"
+    },
+    {
+      "added_at": "2024-01-26 04:59:00",
+      "album": {
         "name": "Calamaro Querido!! Cantando Al Salm\u00f3n Parte 1",
         "url": "https://open.spotify.com/album/1XLbuOuIevQOETqDpOD6cT"
       },
@@ -1751,26 +1775,6 @@
       "duration_ms": 246600,
       "name": "A Los Ojos",
       "url": "https://open.spotify.com/track/2ncDvyrfmKtzHzX1w7oDvQ"
-    },
-    {
-      "added_at": "2024-01-26 04:59:00",
-      "album": {
-        "name": "7 Vidas",
-        "url": "https://open.spotify.com/album/0AIaSrtMFPreSjZZUYvM8B"
-      },
-      "artists": [
-        {
-          "name": "La Zimbabwe",
-          "url": "https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc"
-        },
-        {
-          "name": "Son del Arroyo",
-          "url": "https://open.spotify.com/artist/2uSFcJXSLMdPWXnOWRp1Se"
-        }
-      ],
-      "duration_ms": 201347,
-      "name": "7 Vidas",
-      "url": "https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS"
     }
   ],
   "unique_name": "Reggae en Espa\u00f1ol",

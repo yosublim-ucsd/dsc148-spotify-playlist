@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Chezile
 
-2,238 songs - 5 day 2 hr 31 min
+2,239 songs - 5 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1352,6 +1352,7 @@
 | [Never There Enough](https://open.spotify.com/track/2iah3opmKlWZ2HUrCwVwzI) | [PROM](https://open.spotify.com/artist/5p9qBa6VyXEvdxwI8WNwJb) | [Never There Enough](https://open.spotify.com/album/34e5ArGN0BSWvCn8KjE9Ly) | 3:12 | 2022-01-19 | 2022-02-10 |
 | [Never Wanna Fall](https://open.spotify.com/track/2gdmSV6iZDVf8ETlD755Zf) | [Talia Goddess](https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw) | [Poster Girl](https://open.spotify.com/album/5YgXXwuwTim607qGUWXbph) | 4:41 | 2022-01-12 | 2023-01-12 |
 | [Nevermind It To Hell](https://open.spotify.com/track/60m9qQoMAu3KfPg3YxqyHG) | [Belaganas](https://open.spotify.com/artist/4dxp2iZCasMOmCDFztR22q) | [Softy](https://open.spotify.com/album/3xHMtK8SksnWDUUTrWOlmF) | 2:44 | 2022-03-09 | 2022-04-27 |
+| [Neverrr Everrr](https://open.spotify.com/track/1AEydsGON0N56XlkTR0N2U) | [villagerrr](https://open.spotify.com/artist/1vQ5CUq3dcQkRRCGd94UD5), [Merce Lemon](https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH) | [Neverrr Everrr](https://open.spotify.com/album/2IdctfxFPSYLUzPwFDRAhs) | 3:41 | 2024-03-04 |  |
 | [New Growth](https://open.spotify.com/track/0xXuYcFVgrwFZ9pPZ8z7yf) | [Carlos Truly](https://open.spotify.com/artist/1WxcTbg1M05H3uThDKXKs8) | [Not Mine](https://open.spotify.com/album/43z1fbbpu0Ja2kDg8t6ZuG) | 2:51 | 2022-07-06 | 2022-08-04 |
 | [New Growth](https://open.spotify.com/track/2LUv1LSDFdxNpzRp2wR5yW) | [Carlos Truly](https://open.spotify.com/artist/1WxcTbg1M05H3uThDKXKs8) | [New Growth](https://open.spotify.com/album/4P7PO4dU4PTjGqjIZKz6sV) | 2:51 | 2022-04-27 | 2022-05-20 |
 | [new socks & a meal](https://open.spotify.com/track/469iGxcwTteAOXoSXV7ef7) | [ivy.](https://open.spotify.com/artist/3wRra8nKWFrFBTKhCHjsyr) | [new socks & a meal](https://open.spotify.com/album/1UUPD4Hwg0HeuxLpSZ0siV) | 1:45 | 2022-06-29 | 2022-08-25 |

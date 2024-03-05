@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 
 > The hottest tracks you want to hear all in one playlist! Cover: Selena Gomez
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 80,422 likes - 90 songs - 4 hr 39 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 80,421 likes - 90 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,13 +12,13 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 | 2 | [yes, and? \(with Mariah Carey\)](https://open.spotify.com/track/5LBv48NNyHsknRYwFWC361) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [yes, and?](https://open.spotify.com/album/7cE0lgNHmBxutHd5g4D3q8) | 3:34 |
 | 3 | [One Of The Girls \(with JENNIE, Lily Rose Depp\)](https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 4 \(Music from the HBO Original Series\)](https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU) | 4:04 |
 | 4 | [Igual Que Un Ángel \(with Peso Pluma\)](https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 4:20 |
-| 5 | [Vegas](https://open.spotify.com/track/3a7hrn5cgp6D53uPUTc3Ai) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [The Ride](https://open.spotify.com/album/6PCZCY9gIEGzpjS775RFAc) | 2:51 |
+| 5 | [Who Do I Call Now? \(Hellbent\)](https://open.spotify.com/track/26uXIvU5DdJLPUIj8pK9w7) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Who Do I Call Now? \(Hellbent\)](https://open.spotify.com/album/1Wg1RWT3tsei388hlJUUEG) | 3:10 |
 | 6 | [Lonely Dancers](https://open.spotify.com/track/0QctD9krtPbC8KBOK6hRfb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Lonely Dancers](https://open.spotify.com/album/763Pp8jgi2eWEyQ9SGzODd) | 2:29 |
 | 7 | [Lead Me On](https://open.spotify.com/track/0dXHRxaBl9mlrBh2XF3cIn) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Lead Me On](https://open.spotify.com/album/2sU1qbQCl9mUgnlciieWtb) | 2:53 |
 | 8 | [Dance Alone](https://open.spotify.com/track/5BnL7i0syYE3KK8RgbK6hn) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Dance Alone](https://open.spotify.com/album/1CJFY6yBSHhos1JkjSVBK8) | 3:04 |
 | 9 | [You’re Losing Me \(From The Vault\)](https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You're Losing Me \(From The Vault\)](https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7) | 4:37 |
-| 10 | [Who Do I Call Now? \(Hellbent\)](https://open.spotify.com/track/26uXIvU5DdJLPUIj8pK9w7) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Who Do I Call Now? \(Hellbent\)](https://open.spotify.com/album/1Wg1RWT3tsei388hlJUUEG) | 3:10 |
-| 11 | [Teardrops](https://open.spotify.com/track/2SYovto91rjt4Dh5w330JJ) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [Teardrops](https://open.spotify.com/album/110skZzsCFyckMdjupeIBX) | 2:54 |
+| 10 | [Teardrops](https://open.spotify.com/track/2SYovto91rjt4Dh5w330JJ) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [Teardrops](https://open.spotify.com/album/110skZzsCFyckMdjupeIBX) | 2:54 |
+| 11 | [Vegas](https://open.spotify.com/track/3a7hrn5cgp6D53uPUTc3Ai) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [The Ride](https://open.spotify.com/album/6PCZCY9gIEGzpjS775RFAc) | 2:51 |
 | 12 | [Cowgirl \(feat\. Lourdiz\)](https://open.spotify.com/track/15wos7ChIkysPIrX31hwwa) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lourdiz](https://open.spotify.com/artist/54nb7VPvMgQEW6pC9Mz0an) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:36 |
 | 13 | [Lace It \(with Eminem & benny blanco\)](https://open.spotify.com/track/4qmG24ebshLXtKu9HIShBP) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Lace It \(with Eminem & benny blanco\)](https://open.spotify.com/album/5nOfPCLpHGpayGrUNHAPLt) | 3:37 |
 | 14 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Mean Girls \(Music From The Motion Picture\)](https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74) | 2:50 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 | 89 | [Two Hearts](https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Two Hearts](https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh) | 4:06 |
 | 90 | [face to face](https://open.spotify.com/track/1nBwBd3W4tE9FEOUcrsv83) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [face to face](https://open.spotify.com/album/60URYT9rYS0qh5HrZREBf2) | 2:50 |
 
-Snapshot ID: `MTQyNzYsNDFmMDVhYmVlODUwYjY1YjNkNmExMTA3YzdmZjZjYTgyNjM4ZjkyZg==`
+Snapshot ID: `MTQyNzksY2RiZGRkNTRiMDM2ODM0NTZhZTUyOGIxZjg3MzRkZjliNGNhMGYwZQ==`

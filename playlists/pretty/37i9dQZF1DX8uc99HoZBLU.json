@@ -1,12 +1,12 @@
 {
   "description": "for those who appreciate a curated mood \ud83e\udea9",
-  "num_followers": 833315,
+  "num_followers": 833474,
   "original_name": "aesthetic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjU4ZDMxNDBjNDE4NmUwOTg4NzgxZjA2OWUzNjI2MzMxNmVlZDE0",
+  "snapshot_id": "MCwxY2RjYzAxY2Y5Mzc4Yjc1ZDM5YWQzYjRlYmE3ZTYzMWM0NTE4MGMy",
   "tracks": [
     {
       "added_at": "2023-08-17 16:24:24",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-08-17 16:24:24",
       "album": {
-        "name": "Salad Days",
-        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 231723,
-      "name": "Chamber Of Reflection",
-      "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
-    },
-    {
-      "added_at": "2023-08-17 16:24:24",
-      "album": {
         "name": "C U Girl",
         "url": "https://open.spotify.com/album/33jE0rzk63VdTJcDukmjRa"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 129697,
       "name": "C U Girl",
       "url": "https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX"
+    },
+    {
+      "added_at": "2023-08-17 16:24:24",
+      "album": {
+        "name": "Salad Days",
+        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 231723,
+      "name": "Chamber Of Reflection",
+      "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
     },
     {
       "added_at": "2023-08-17 16:24:24",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-08-17 16:24:24",
       "album": {
-        "name": "Static",
-        "url": "https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9"
-      },
-      "artists": [
-        {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
-        }
-      ],
-      "duration_ms": 223746,
-      "name": "Always Forever",
-      "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf"
-    },
-    {
-      "added_at": "2023-08-17 16:24:24",
-      "album": {
         "name": "Vibes",
         "url": "https://open.spotify.com/album/54lNPJ6xq2QXwG6jLEIf6C"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 189160,
       "name": "Young",
       "url": "https://open.spotify.com/track/1KIJclzEbNhSVw8tiHPWwE"
+    },
+    {
+      "added_at": "2023-08-17 16:24:24",
+      "album": {
+        "name": "Static",
+        "url": "https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "duration_ms": 223746,
+      "name": "Always Forever",
+      "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf"
     },
     {
       "added_at": "2023-08-17 16:24:24",
@@ -891,26 +891,6 @@
     {
       "added_at": "2023-08-17 16:24:24",
       "album": {
-        "name": "Can We Kiss Forever?",
-        "url": "https://open.spotify.com/album/0MGcjBIFcL2qaCrgGjIGFb"
-      },
-      "artists": [
-        {
-          "name": "Kina",
-          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
-        },
-        {
-          "name": "Adriana Proenza",
-          "url": "https://open.spotify.com/artist/7KHA7OOevgTDFhlym0oEyP"
-        }
-      ],
-      "duration_ms": 187931,
-      "name": "Can We Kiss Forever?",
-      "url": "https://open.spotify.com/track/58wyJLv6yH1La9NIZPl3ne"
-    },
-    {
-      "added_at": "2023-08-17 16:24:24",
-      "album": {
         "name": "Sunflower",
         "url": "https://open.spotify.com/album/3qJTNgjVc6EM3yJnjFAALE"
       },
@@ -927,18 +907,22 @@
     {
       "added_at": "2023-08-17 16:24:24",
       "album": {
-        "name": "Pretty Girl",
-        "url": "https://open.spotify.com/album/3nkwKrSQJ9l84VV8uuymk9"
+        "name": "Can We Kiss Forever?",
+        "url": "https://open.spotify.com/album/0MGcjBIFcL2qaCrgGjIGFb"
       },
       "artists": [
         {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "Kina",
+          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
+        },
+        {
+          "name": "Adriana Proenza",
+          "url": "https://open.spotify.com/artist/7KHA7OOevgTDFhlym0oEyP"
         }
       ],
-      "duration_ms": 178352,
-      "name": "Pretty Girl",
-      "url": "https://open.spotify.com/track/0KyAGiNGUytG5JLxJu4F6l"
+      "duration_ms": 187931,
+      "name": "Can We Kiss Forever?",
+      "url": "https://open.spotify.com/track/58wyJLv6yH1La9NIZPl3ne"
     },
     {
       "added_at": "2023-08-17 16:24:24",
@@ -971,6 +955,22 @@
       "duration_ms": 456000,
       "name": "Lover Is a Day",
       "url": "https://open.spotify.com/track/1ucnuV88gFTfR3BalmznDk"
+    },
+    {
+      "added_at": "2023-08-17 16:24:24",
+      "album": {
+        "name": "Pretty Girl",
+        "url": "https://open.spotify.com/album/3nkwKrSQJ9l84VV8uuymk9"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 178352,
+      "name": "Pretty Girl",
+      "url": "https://open.spotify.com/track/0KyAGiNGUytG5JLxJu4F6l"
     },
     {
       "added_at": "2023-08-17 16:24:24",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-08-17 16:24:24",
       "album": {
+        "name": "Typical of Me EP",
+        "url": "https://open.spotify.com/album/7pooeoqY4uJkTaW70qxm3z"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 162758,
+      "name": "Like the Movies",
+      "url": "https://open.spotify.com/track/1hUXDEqjNIIbfjTcaz3jzb"
+    },
+    {
+      "added_at": "2023-08-17 16:24:24",
+      "album": {
         "name": "Flaming Hot Cheetos",
         "url": "https://open.spotify.com/album/12pkuSY7Cy2sc5Ix0XIYIE"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 312000,
       "name": "Lo Que Siento",
       "url": "https://open.spotify.com/track/4CYeId6mLAasOb6o0NCz4Y"
-    },
-    {
-      "added_at": "2023-08-17 16:24:24",
-      "album": {
-        "name": "Typical of Me EP",
-        "url": "https://open.spotify.com/album/7pooeoqY4uJkTaW70qxm3z"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 162758,
-      "name": "Like the Movies",
-      "url": "https://open.spotify.com/track/1hUXDEqjNIIbfjTcaz3jzb"
     },
     {
       "added_at": "2023-08-17 16:24:24",

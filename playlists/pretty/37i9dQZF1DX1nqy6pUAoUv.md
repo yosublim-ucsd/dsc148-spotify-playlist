@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Rhiannon Giddens
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,907 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,935 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 99 | [Wildflowers in the Graveyard](https://open.spotify.com/track/0ucT092kKnv71aS4tO8LEK) | [Amber Rubarth](https://open.spotify.com/artist/3hCsjNTxbes8L05Vy8Dkva) | [Wildflowers in the Graveyard](https://open.spotify.com/album/4e7AgMaSwpEFUgBOw2aBPS) | 3:00 |
 | 100 | [Age of a Man](https://open.spotify.com/track/5a7MZfX2tiMutNSeb9uPTF) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Age of a Man](https://open.spotify.com/album/4YkgnuMVviUv1MMp6w5gaU) | 3:39 |
 
-Snapshot ID: `MCxkNjA2YjM2NGM4YWM0OWRkYTVjNTdjYWFjZGY0NTE4NDJmY2ZmM2Ey`
+Snapshot ID: `MCw0Yzc1NTU0YmZlOTUxZmMwNTViZmY2MDAxZTQ3Yzc1YWQ3MWJiMmMw`

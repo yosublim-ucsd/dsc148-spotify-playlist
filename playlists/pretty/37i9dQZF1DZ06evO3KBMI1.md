@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KBMI1.md) - [plain]
 
 > This is UVERworld\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,878 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,889 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KBMI1.md) - [plain]
 | 23 | [CHANCE!](https://open.spotify.com/track/6ASc0gMzq0KSiVB8WLPHCP) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Timeless](https://open.spotify.com/album/5N2L30egSMusfrCvRHlYV0) | 4:30 |
 | 24 | [Don’t Think.Feel](https://open.spotify.com/track/683p6Ov3orc4ICLOKi1Yn6) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [THE ONE](https://open.spotify.com/album/5TOpz67nIEIMwm5XM3Uskf) | 3:46 |
 | 25 | [0 choir](https://open.spotify.com/track/0l0v2OwXowCmGOcPeIOcUP) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [0 CHOIR](https://open.spotify.com/album/64hkibORri9uiP4j6bucRY) | 5:41 |
-| 26 | [echoOZ](https://open.spotify.com/track/1BUBBIuLNVeaoTqRCYxzPx) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ENIGMASIS](https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT) | 3:38 |
-| 27 | [PRAYING RUN](https://open.spotify.com/track/373Npzs6cZkvW2hyILpONV) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [TYCOON](https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo) | 6:16 |
+| 26 | [PRAYING RUN](https://open.spotify.com/track/373Npzs6cZkvW2hyILpONV) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [TYCOON](https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo) | 6:16 |
+| 27 | [echoOZ](https://open.spotify.com/track/1BUBBIuLNVeaoTqRCYxzPx) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ENIGMASIS](https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT) | 3:38 |
 | 28 | [REVERSI](https://open.spotify.com/track/7HiAUL9h0px38LjWchaeR2) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [THE ONE](https://open.spotify.com/album/5TOpz67nIEIMwm5XM3Uskf) | 4:49 |
 | 29 | [IMPACT](https://open.spotify.com/track/5lwgvPvJy36aZRsqeOtm7C) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [0 CHOIR](https://open.spotify.com/album/64hkibORri9uiP4j6bucRY) | 4:25 |
 | 30 | [クオリア](https://open.spotify.com/track/12zLvEe3rs05AROHQmGN1Y) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [LIFE 6 SENSE](https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU) | 4:30 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KBMI1.md) - [plain]
 | 39 | [EN](https://open.spotify.com/track/4uJWArBtdW2vclttyV2eCB) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [30](https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7) | 5:05 |
 | 40 | [First Sight](https://open.spotify.com/track/5RURcUXdfhdthGDjBtsS3w) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 3:22 |
 | 41 | [美影意志](https://open.spotify.com/track/4hJymb1Mm4hrYMoL3itfv8) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [AwakEVE](https://open.spotify.com/album/6EhXaQfpmGjj9DVN8qdgjS) | 5:54 |
-| 42 | [僕の言葉ではない これは僕達の言葉](https://open.spotify.com/track/0StkLk0MA1i4kcUozLLxKl) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [僕の言葉ではない これは僕達の言葉 \(Extra Edition\)](https://open.spotify.com/album/0TA8moeph2A7CMtfWFtzFC) | 4:18 |
-| 43 | [NAMELY](https://open.spotify.com/track/0ZfWNX0kP9ofAjmTkpVSzJ) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [NAMELY](https://open.spotify.com/album/37U1o22d174FbOHy59LsbK) | 4:07 |
+| 42 | [NAMELY](https://open.spotify.com/track/0ZfWNX0kP9ofAjmTkpVSzJ) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [NAMELY](https://open.spotify.com/album/37U1o22d174FbOHy59LsbK) | 4:07 |
+| 43 | [僕の言葉ではない これは僕達の言葉](https://open.spotify.com/track/0StkLk0MA1i4kcUozLLxKl) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [僕の言葉ではない これは僕達の言葉 \(Extra Edition\)](https://open.spotify.com/album/0TA8moeph2A7CMtfWFtzFC) | 4:18 |
 | 44 | [MONDO PIECE](https://open.spotify.com/track/0drLNk73IaEvSjdhPnQjY0) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [LIFE 6 SENSE](https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU) | 5:28 |
 | 45 | [シリウス](https://open.spotify.com/track/0nfT87RjejFpG4eQNTVpuN) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [TYCOON](https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo) | 4:51 |
 | 46 | [RANGE](https://open.spotify.com/track/78ane668r0Oq96kSjgyUiB) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [DECIDED](https://open.spotify.com/album/01tDdRKQdnikXlEFegVDzA) | 5:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KBMI1.md) - [plain]
 | 49 | [Q.E.D.](https://open.spotify.com/track/0nZTXNZrXjecUMUqGbGCSc) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [TYCOON](https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo) | 3:42 |
 | 50 | [THUG LIFE](https://open.spotify.com/track/60hNg1E9VLg4fIHeiSJSxJ) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [30](https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7) | 2:54 |
 
-Snapshot ID: `Mjg0OTExMzgsMDAwMDAwMDBkMDRiNTU4MTQ1MGUzMzUxZjYyYmQ5YTFjMjE0ODY1NQ==`
+Snapshot ID: `Mjg0OTI1NjksMDAwMDAwMDBiYTA4NWM3Y2QyNmVjMWUwYjRhMDMzMDg3YmIxMjg2YQ==`

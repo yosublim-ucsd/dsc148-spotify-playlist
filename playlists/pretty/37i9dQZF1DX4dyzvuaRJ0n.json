@@ -1,12 +1,12 @@
 {
   "description": "The world's biggest dance hits. Cover: Charli XCX",
-  "num_followers": 5900689,
+  "num_followers": 5900982,
   "original_name": "mint",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNmVmZmE5NTY5NmVmZjZkOWQ1Y2IyNGFlZmFjNjcxMmRkNTQ0YmI5",
+  "snapshot_id": "MCwwZTI2MWE2NjViYjllNjgwMTIwOWUwNjJmZDhjYjllYjliNTcxNWYz",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -150,6 +150,10 @@
         {
           "name": "Gesaffelstein",
           "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        },
+        {
+          "name": "Yan Wagner",
+          "url": "https://open.spotify.com/artist/7JLtS4ASAUsAYrsShMerMc"
         }
       ],
       "duration_ms": 170466,

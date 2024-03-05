@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Sravana Bhargavi
 
-229 songs - 14 hr 3 min
+230 songs - 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Madhura](https://open.spotify.com/track/5Y6S7V3wyaa8aZtiBpKOUe) | [Vinod Viola](https://open.spotify.com/artist/0ejdZrvlP0GKy8CO5as9WL), [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14), [Sai Bhavana Krovvida](https://open.spotify.com/artist/7qWAZBh15FCFhHdijvLkkD) | [Madhura](https://open.spotify.com/album/4ThLPRJ62yZJZM4QndHCGR) | 4:07 | 2023-02-14 | 2023-06-10 |
 | [Malupu](https://open.spotify.com/track/4JfjRekM3nNFpKdAuldWMY) | [Manish Kumar](https://open.spotify.com/artist/6o6rpeT8ec4u0MHxF3SgNW) | [Malupu](https://open.spotify.com/album/0BUsiMENGsU9CXXfrSJuAI) | 4:56 | 2022-07-18 | 2023-05-23 |
 | [Manasara](https://open.spotify.com/track/2SpDmZ8eBYVgQqS0ZFBz9n) | [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Manasara](https://open.spotify.com/album/77h3fTEmgoEsLbv7MF1kAI) | 2:46 | 2022-07-18 | 2023-06-20 |
+| [Manase](https://open.spotify.com/track/3uwvZrFaVb96Fd0wjY0S80) | [Pragathi Kanadamane](https://open.spotify.com/artist/1hw5AMlFZLM4aLkPl8v7zl) | [Manase](https://open.spotify.com/album/06O7XZkts4Ed81WbuH1SYu) | 5:09 | 2024-03-04 |  |
 | [Maninchave](https://open.spotify.com/track/1lgX55AUpFnyvr46FQ4gBL) | [Sweekar Agasthi](https://open.spotify.com/artist/7w4ACCsPEsD4KTxUNPXftc), [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1) | [Maninchave](https://open.spotify.com/album/38YnBMJMBy9kfTLeHKyrzc) | 3:24 | 2023-03-23 | 2024-02-13 |
 | [Maninchave](https://open.spotify.com/track/5RNlt35rdp8wekW9WZ4tWs) | [Sweekar Agasthi](https://open.spotify.com/artist/7w4ACCsPEsD4KTxUNPXftc), [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1) | [Maninchave](https://open.spotify.com/album/0PhIQ7H4evxAOA5RFmWCrm) | 3:24 | 2023-03-23 | 2024-02-15 |
 | [Mari Mari](https://open.spotify.com/track/1vZd4cPtqc2LardRrTTBKV) | [Sanah Moidutty](https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC), [Prasanna Suresh](https://open.spotify.com/artist/4ajkARXXTfsW5M0SDlMamn) | [Mari Mari](https://open.spotify.com/album/28G3UYAddCdtHWS5XakL8K) | 3:15 | 2023-03-24 | 2023-05-28 |

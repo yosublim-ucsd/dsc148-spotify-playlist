@@ -4,7 +4,7 @@
 
 > The hottest out the south\. Cover: Don Toliver
 
-1,115 songs - 2 day 4 hr 56 min
+1,116 songs - 2 day 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [Bout U](https://open.spotify.com/track/3QWiUcQwaFsR7a4U1zOKmX) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Bout U](https://open.spotify.com/album/3rvffEg9rXY78ubquxxwOX) | 2:39 | 2022-10-07 | 2022-11-05 |
 | [Bows](https://open.spotify.com/track/4Xkk9RBSBgRBAFwPta5FlT) | [YBN Nahmir](https://open.spotify.com/artist/3gGUMEwIX6XodWsYEvKSal) | [Bows](https://open.spotify.com/album/6arekQAfjAS10TzMsgacOn) | 2:34 | 2022-07-08 | 2022-07-30 |
 | [Boyz Don't Cry](https://open.spotify.com/track/5VXGNoY8O9qRJUYMciPTfc) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Boyz Don't Cry](https://open.spotify.com/album/5B5ysW40MnOKxVz2GRq1cz) | 2:46 | 2023-09-22 | 2023-10-14 |
-| [BOZO](https://open.spotify.com/track/1nQAabVphQawZXSNtaFKfK) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [BOZO](https://open.spotify.com/album/0dfRkKEoGpigO9kuuYgu5R) | 2:28 | 2024-02-09 |  |
+| [BOZO](https://open.spotify.com/track/1nQAabVphQawZXSNtaFKfK) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [BOZO](https://open.spotify.com/album/0dfRkKEoGpigO9kuuYgu5R) | 2:28 | 2024-02-09 | 2024-03-05 |
 | [Brand New Blues](https://open.spotify.com/track/6dGN5ani0pYe40kfS3wNcx) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Brand New Blues](https://open.spotify.com/album/5fSbf5rRr5VO5zyWnoBPk9) | 1:54 | 2023-06-30 | 2023-07-15 |
 | [Brazy \(with YNW Melly\)](https://open.spotify.com/track/6wVUIV8RvwlLJlK1DsgVdj) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg) | [Brazy](https://open.spotify.com/album/5NPJChyQgOZaESCjr2EgVg) | 2:49 | 2022-04-22 | 2022-06-18 |
 | [BRB](https://open.spotify.com/track/4sZJgYizP3YR9MkQ7SaRjX) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [BRB](https://open.spotify.com/album/11tIOLXTlQRg1ZJeJrIBJ6) | 1:47 | 2023-10-27 | 2023-11-25 |
@@ -374,6 +374,7 @@
 | [Get Em](https://open.spotify.com/track/5D2d4F9IQkXo6GXbXb4X2K) | [Wam SpinThaBin](https://open.spotify.com/artist/1vljqWKOCEBTIA9mhCaCCt) | [Before I Self Destruct](https://open.spotify.com/album/4ZUkRvwHt1iXuLLBlBzY5T) | 1:50 | 2022-12-09 | 2023-02-11 |
 | [Get Even](https://open.spotify.com/track/2YVscnKcfmlc2fl89FlX5h) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Get Even](https://open.spotify.com/album/5dL0R5fAWbcjXgL73QqOoV) | 2:41 | 2022-07-22 | 2022-09-24 |
 | [Get In With Me](https://open.spotify.com/track/4iEoDBAgMJIzest7VsDgmT) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Get In With Me](https://open.spotify.com/album/5OOVp8NFXAklfbzh5BcLzx) | 2:00 | 2024-02-02 |  |
+| [Get Jiggy](https://open.spotify.com/track/3ShDW3FYg06Cc5BJV94sEj) | [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L), [Lil Slixk](https://open.spotify.com/artist/30r98xL28PIfjUG4JwyWaM), [Lil Reaper](https://open.spotify.com/artist/0pXg9udRX8G5ra0m4xllGv) | [Get Jiggy](https://open.spotify.com/album/5Wu2Yq8gvAUn7wozWctQxN) | 2:24 | 2024-03-04 |  |
 | [Get Right](https://open.spotify.com/track/0aEX95JWUga3M8DzNsfiAa) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Get Right](https://open.spotify.com/album/5zCLvl2nq5TYhZkf8S1Tfo) | 2:08 | 2022-10-07 | 2022-10-29 |
 | [Ghetto Cinderella](https://open.spotify.com/track/5WkYdoquKFmWaQengD72RC) | [TEC](https://open.spotify.com/artist/0Y1fWbJgcZk0R2SbZbxo4R) | [Ghetto Cinderella](https://open.spotify.com/album/61MXhNTtr5R474qNT9cA2R) | 2:36 | 2022-12-09 | 2022-12-24 |
 | [Ghetto Gods Freestyle \(with EARTHGANG feat\. 2 Chainz\)](https://open.spotify.com/track/7Gn7HA4yOHKXDo6vHCiNXV) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [D\-Day: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy) | 2:53 | 2022-04-01 | 2022-05-28 |

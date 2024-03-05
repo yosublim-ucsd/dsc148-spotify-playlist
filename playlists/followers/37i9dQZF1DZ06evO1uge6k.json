@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 236751,
+  "2024-03-05": 236770,
   "date_first_scraped": "2022-09-18",
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
   "name": "This Is ZZ Top",
@@ -647,7 +647,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 150146,
       "name": "Down Brownie",
       "url": "https://open.spotify.com/track/1YXXymTqk5vRAcLuQmU4jg"
@@ -1313,7 +1313,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-26",
+      "date_removed": null,
       "duration_ms": 281586,
       "name": "La Grange",
       "url": "https://open.spotify.com/track/2YgjwTiG85B2tvqmdRNpba"

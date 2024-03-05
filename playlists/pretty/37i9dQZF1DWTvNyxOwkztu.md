@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 
 > Just lean back and enjoy relaxed beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,892,801 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,893,079 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 34 | [Ours \- Hermanez Remix](https://open.spotify.com/track/5dOn7fur446SKKcujG3zwM) | [LØC](https://open.spotify.com/artist/4BdGq2d0jIMo3egZnE61sD), [Hermanez](https://open.spotify.com/artist/4JPGyWMMmaxIRcS4zItdHJ) | [Ours \(Hermanez Remix\)](https://open.spotify.com/album/7DbXJlGgQVjnLduIEyUl5B) | 7:39 |
 | 35 | [Mirrors](https://open.spotify.com/track/2OA4GktcfTv8aslolM96EB) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Mirrors](https://open.spotify.com/album/06JDk357dBsHJj7lW3F4XX) | 3:40 |
 | 36 | [Happy Days](https://open.spotify.com/track/7AiJfQZHFp6EMbpeYFOXxj) | [Beachwax](https://open.spotify.com/artist/0FBeOkbRfYxk44W6AOooKr) | [Happy Days](https://open.spotify.com/album/2gx6CElSxguWozs3cHJyUw) | 3:16 |
-| 37 | [By My Side](https://open.spotify.com/track/2ikLgPH52UtXukvFH8xQWv) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [By My Side](https://open.spotify.com/album/2nd7OTkFHQ3YnPoyNdqAKK) | 2:19 |
-| 38 | [Hangin Up](https://open.spotify.com/track/4vC2iSW6pMcDvAb98Tc8ma) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [De Rien](https://open.spotify.com/artist/1cXMEOMaLm3TNWP8lo4AsS) | [Hangin Up](https://open.spotify.com/album/65oZ8vGX6TliO9kVtCRnIy) | 3:04 |
-| 39 | [Boardwalk Lullaby](https://open.spotify.com/track/7xfBAKxjVjw7YIIEUMD4qc) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Boardwalk Lullaby](https://open.spotify.com/album/0Vy92KWCt46nfEZJ6Xk003) | 2:44 |
+| 37 | [Boardwalk Lullaby](https://open.spotify.com/track/7xfBAKxjVjw7YIIEUMD4qc) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Boardwalk Lullaby](https://open.spotify.com/album/0Vy92KWCt46nfEZJ6Xk003) | 2:44 |
+| 38 | [By My Side](https://open.spotify.com/track/2ikLgPH52UtXukvFH8xQWv) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [By My Side](https://open.spotify.com/album/2nd7OTkFHQ3YnPoyNdqAKK) | 2:19 |
+| 39 | [Hangin Up](https://open.spotify.com/track/4vC2iSW6pMcDvAb98Tc8ma) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [De Rien](https://open.spotify.com/artist/1cXMEOMaLm3TNWP8lo4AsS) | [Hangin Up](https://open.spotify.com/album/65oZ8vGX6TliO9kVtCRnIy) | 3:04 |
 | 40 | [Go Insane](https://open.spotify.com/track/63F5su8UafOr42Ixl49jPY) | [Sunmoon](https://open.spotify.com/artist/5AUNYfOEjduhpVTnozqYxv) | [Go Insane](https://open.spotify.com/album/2zLnQUtnEhi0u51UhJvM3g) | 2:10 |
 | 41 | [Save Me](https://open.spotify.com/track/4026Fe9zj6dpBLo8JIxyEv) | [Æj](https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41), [Marphil](https://open.spotify.com/artist/24ADYkDVoc2vnB6P2Fs1R1) | [Save Me](https://open.spotify.com/album/0jbNTgNi0kQTmvmFFtXS5H) | 2:46 |
-| 42 | [9 PM](https://open.spotify.com/track/0R6iI9Z9Zj0h6BvHO4o2P9) | [COLIN](https://open.spotify.com/artist/65Uy8U5VKTrqB70p39OLsH) | [9 PM](https://open.spotify.com/album/1yAbvqzI8QNGsSP7KxtP0F) | 2:00 |
-| 43 | [Big Jet Plane](https://open.spotify.com/track/1AcpKqom3BJtk24rd6CP3A) | [HAYM](https://open.spotify.com/artist/6QQD5qFg4hsxqks5NGZEel), [Duke Chaine](https://open.spotify.com/artist/2tKcCJam4q1AjQkF3sF6Qt), [blakke](https://open.spotify.com/artist/1ZsbGfIYCahTeY9RyejokW) | [Big Jet Plane](https://open.spotify.com/album/6ejYy9egIKbzME90xHySOL) | 2:07 |
-| 44 | [As Long As You Love Me](https://open.spotify.com/track/75nLmZ3IjorDYevGhuhahs) | [Lilly Bay](https://open.spotify.com/artist/638CAHfkNvK7AEpXSqWB31) | [As Long As You Love Me](https://open.spotify.com/album/6rhRsutNATQlnIarYSAC8m) | 2:38 |
-| 45 | [In Deep](https://open.spotify.com/track/28CuT91wRWdQtJU93Hm3ds) | [Beachwax](https://open.spotify.com/artist/0FBeOkbRfYxk44W6AOooKr) | [In Deep](https://open.spotify.com/album/6db4KQXbbcBQ82ox62bVAm) | 2:51 |
-| 46 | [Floating In Space](https://open.spotify.com/track/4iUX9qCWkcwLkZCH8AFzCc) | [Nicolello](https://open.spotify.com/artist/7IWbQLZ91NbHT6EiaF5l9V) | [Floating In Space](https://open.spotify.com/album/1bMdQiOFa3WLbiRmfO5GTb) | 2:32 |
-| 47 | [Beau](https://open.spotify.com/track/56xQeo2Z64CwjDGLi4OGni) | [Cámille](https://open.spotify.com/artist/2OXKCjjoMcM8FwpuaWKoRW) | [Beau](https://open.spotify.com/album/5BiZr5UfayYF60iP9624TT) | 2:32 |
-| 48 | [Ghost \- Fejká Remix](https://open.spotify.com/track/2I78O9gyeZXS9b0VnWTU7Q) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Ghost \(Fejká Remix\)](https://open.spotify.com/album/1DBPmf1j5JFX6FooAnFqYV) | 4:43 |
-| 49 | [Peaceful Tides](https://open.spotify.com/track/1mS1U0JsLAqj1ACpvqrOig) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci), [Bye Ocean](https://open.spotify.com/artist/6ZAvjmUvQe54XRoWoUA05x) | [Peaceful Tides](https://open.spotify.com/album/5ysY0aa6qyuUjrAAp1Hrul) | 3:00 |
+| 42 | [In Deep](https://open.spotify.com/track/28CuT91wRWdQtJU93Hm3ds) | [Beachwax](https://open.spotify.com/artist/0FBeOkbRfYxk44W6AOooKr) | [In Deep](https://open.spotify.com/album/6db4KQXbbcBQ82ox62bVAm) | 2:51 |
+| 43 | [9 PM](https://open.spotify.com/track/0R6iI9Z9Zj0h6BvHO4o2P9) | [COLIN](https://open.spotify.com/artist/65Uy8U5VKTrqB70p39OLsH) | [9 PM](https://open.spotify.com/album/1yAbvqzI8QNGsSP7KxtP0F) | 2:00 |
+| 44 | [Big Jet Plane](https://open.spotify.com/track/1AcpKqom3BJtk24rd6CP3A) | [HAYM](https://open.spotify.com/artist/6QQD5qFg4hsxqks5NGZEel), [Duke Chaine](https://open.spotify.com/artist/2tKcCJam4q1AjQkF3sF6Qt), [blakke](https://open.spotify.com/artist/1ZsbGfIYCahTeY9RyejokW) | [Big Jet Plane](https://open.spotify.com/album/6ejYy9egIKbzME90xHySOL) | 2:07 |
+| 45 | [Peaceful Tides](https://open.spotify.com/track/1mS1U0JsLAqj1ACpvqrOig) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci), [Bye Ocean](https://open.spotify.com/artist/6ZAvjmUvQe54XRoWoUA05x) | [Peaceful Tides](https://open.spotify.com/album/5ysY0aa6qyuUjrAAp1Hrul) | 3:00 |
+| 46 | [As Long As You Love Me](https://open.spotify.com/track/75nLmZ3IjorDYevGhuhahs) | [Lilly Bay](https://open.spotify.com/artist/638CAHfkNvK7AEpXSqWB31) | [As Long As You Love Me](https://open.spotify.com/album/6rhRsutNATQlnIarYSAC8m) | 2:38 |
+| 47 | [Floating In Space](https://open.spotify.com/track/4iUX9qCWkcwLkZCH8AFzCc) | [Nicolello](https://open.spotify.com/artist/7IWbQLZ91NbHT6EiaF5l9V) | [Floating In Space](https://open.spotify.com/album/1bMdQiOFa3WLbiRmfO5GTb) | 2:32 |
+| 48 | [Beau](https://open.spotify.com/track/56xQeo2Z64CwjDGLi4OGni) | [Cámille](https://open.spotify.com/artist/2OXKCjjoMcM8FwpuaWKoRW) | [Beau](https://open.spotify.com/album/5BiZr5UfayYF60iP9624TT) | 2:32 |
+| 49 | [Ghost \- Fejká Remix](https://open.spotify.com/track/2I78O9gyeZXS9b0VnWTU7Q) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Ghost \(Fejká Remix\)](https://open.spotify.com/album/1DBPmf1j5JFX6FooAnFqYV) | 4:43 |
 | 50 | [Sona](https://open.spotify.com/track/0McdR3kjH8OKdGMAUHsBiU) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Sona](https://open.spotify.com/album/6w5j6hPwk1g9xhmeEWRkfF) | 3:32 |
 | 51 | [Love Tonight](https://open.spotify.com/track/7upogXdc53IaJBvkR4L0Vj) | [Together Alone](https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY) | [Love Tonight](https://open.spotify.com/album/2WdG47U5Pnd7sPZMkJh9hV) | 2:54 |
 | 52 | [Rising Tide](https://open.spotify.com/track/2XZMSf5ojQCuTZggSmXdKd) | [Jonas Schilling](https://open.spotify.com/artist/4KvdEbdoiioc52G5hno5gf) | [Rising Tide](https://open.spotify.com/album/6Kgq1g1dBScLhBptkdixJH) | 7:31 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 89 | [Balearic Dream](https://open.spotify.com/track/5Xx03K2zK7onRYOVtWWoM8) | [Gueves](https://open.spotify.com/artist/5Rhg378B8w4Kg0dKNR3cNO) | [Balearic Dream](https://open.spotify.com/album/3aOciSEOGtMXtMoLD6SL84) | 3:06 |
 | 90 | [Babylon](https://open.spotify.com/track/3phCbf2aKOilnmUdlSm0Uh) | [Lak Host](https://open.spotify.com/artist/6rsmOmkstPMAPmXCKJhgam) | [Babylon](https://open.spotify.com/album/0EMCjRQIXRInbqSsVwvvUf) | 3:28 |
 | 91 | [A Glitch](https://open.spotify.com/track/2aIkJY5Fqg5F5r09nk47GG) | [Miller Ford](https://open.spotify.com/artist/6CsVE4PENAADboY4Pzq5Xy) | [A Glitch](https://open.spotify.com/album/3m5DMoORrvBiIaBDzDjDrv) | 3:18 |
-| 92 | [No Stress in Cres](https://open.spotify.com/track/0gRVYjk3IFVQBUtfdoLc5W) | [Sound Nomaden](https://open.spotify.com/artist/1R4DbF6CAroRPIDBAkPIi0) | [No Stress in Cres](https://open.spotify.com/album/4R3hOElsUNXGykwoXwdsef) | 4:51 |
-| 93 | [The right mood](https://open.spotify.com/track/0lzMp9DVxuCFUXE1eztXjc) | [Alan Devale](https://open.spotify.com/artist/5KuppFlfwpXUiNaNsRwIiY) | [The right mood](https://open.spotify.com/album/3KXn4vx4FKBFhCpiWgzx3f) | 3:12 |
+| 92 | [The right mood](https://open.spotify.com/track/0lzMp9DVxuCFUXE1eztXjc) | [Alan Devale](https://open.spotify.com/artist/5KuppFlfwpXUiNaNsRwIiY) | [The right mood](https://open.spotify.com/album/3KXn4vx4FKBFhCpiWgzx3f) | 3:12 |
+| 93 | [No Stress in Cres](https://open.spotify.com/track/0gRVYjk3IFVQBUtfdoLc5W) | [Sound Nomaden](https://open.spotify.com/artist/1R4DbF6CAroRPIDBAkPIi0) | [No Stress in Cres](https://open.spotify.com/album/4R3hOElsUNXGykwoXwdsef) | 4:51 |
 | 94 | [You and You](https://open.spotify.com/track/5ti1L2WzlD71tWo8V9ZJjf) | [Mute Surrender](https://open.spotify.com/artist/5bZqhvuRGrTo7qW6GABHbE) | [You and You](https://open.spotify.com/album/5AuiaAR7MlufyZJEbEv3Gp) | 3:21 |
 | 95 | [Star System](https://open.spotify.com/track/5tjM0EiK6wTMwMrR3csFpt) | [Isla Cruz](https://open.spotify.com/artist/0b4aT0b93OhjSIIsYkW6s1) | [Star System](https://open.spotify.com/album/6p80kE6886zA5gT6A9VBpF) | 3:55 |
 | 96 | [Get Down](https://open.spotify.com/track/4cqd08JvEbKrrFE3kOthKv) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [Get Down](https://open.spotify.com/album/77VzYuJEYZKyIQvPPziUXa) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 99 | [Unhappy Alien](https://open.spotify.com/track/3O6FAjNGBUVPa5ahfMhucZ) | [Not Tudor](https://open.spotify.com/artist/3dOxIuKHSabrAVdJosO7gJ) | [Unhappy Alien](https://open.spotify.com/album/4JpLIm5YrcMfhbNmrvVdjx) | 3:18 |
 | 100 | [Sueño Lúcido](https://open.spotify.com/track/1ayTVANYOoKTwwekSaRUmx) | [Ralf](https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR) | [Sueño Lúcido](https://open.spotify.com/album/1wHV1TO3GZcKhZGVVaKVPD) | 4:05 |
 
-Snapshot ID: `MCxjZmNmMzNjMTlkN2FjMGY5ODJhYmE0ODA2NGUyOGUxYjM2ZGNkOTNk`
+Snapshot ID: `MCxmODE2MzI5MTJhMTcwZjdhMzdhYjkzM2QyNzU4ZTg0OTUxYzY5NTQ5`

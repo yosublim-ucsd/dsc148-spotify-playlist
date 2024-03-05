@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 
 > Fresh & new Christmas songs para los días festivos\. Cover: Matisse
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,159 likes - 65 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,150 likes - 65 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 64 | [El Burrito Sabanero](https://open.spotify.com/track/7HF8whsl9PaIpp3kLXswm8) | [C4 Trío](https://open.spotify.com/artist/316XlJTSEuNi2LaH6I2x7y), [Nelson Arrieta](https://open.spotify.com/artist/7jS9nzysQ66L1yfPA0HATF) | [El Burrito Sabanero](https://open.spotify.com/album/6O687QHs2jSKAb7HkJPbRv) | 3:30 |
 | 65 | [Año Nuevo, Misma Soledad \- Live](https://open.spotify.com/track/2LXfbLpehJxGdI3N0Vs5cu) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Año Nuevo, Misma Soledad \(Live\)](https://open.spotify.com/album/13AXkIfAZacRwtCIKOsPgh) | 3:33 |
 
-Snapshot ID: `MCxlMjhiY2JkNzM2YTViNDU1Y2M3NjBiMTE1ZmQ1NzY5ZThkMWFkZWJi`
+Snapshot ID: `MCw3ZmM5OGVmZjM1Mjk0NTAwZjIyYTZkZjk2OGY4OGQzYjkxNzgyMGU5`

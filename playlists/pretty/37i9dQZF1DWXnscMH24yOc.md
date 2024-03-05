@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,007 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,101 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 42 | [Passionfruit](https://open.spotify.com/track/0q9VKvpCJhGEMKRJAdaV9w) | [Wyvern Lingo](https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Passionfruit](https://open.spotify.com/album/5PHrxqS8w1HqoGut9zrW5A) | 3:32 |
 | 43 | [Nothing Else Matters](https://open.spotify.com/track/1guCON9841cQwAlbNplLsY) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Nothing Else Matters](https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41) | 4:34 |
 | 44 | [Dance Me to the End of Love \(Bonus\)](https://open.spotify.com/track/6WoJzSRQeROe5MNpf7cPDu) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:05 |
-| 45 | [Come As You Are](https://open.spotify.com/track/3RnqvBMDzSg3LzQytNuwdE) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Come As You Are](https://open.spotify.com/album/2RHroLhDaQLAxNq6BRnKgi) | 2:45 |
-| 46 | [Creep](https://open.spotify.com/track/7fu3lFEf8dVfFuvKxhTPwP) | [Ember Island](https://open.spotify.com/artist/1I5eQkzyM8jCVZIM3k2bKL) | [Creep](https://open.spotify.com/album/3Gx0Yoem0yyteJnSZ9j77l) | 2:57 |
-| 47 | [Say My Name](https://open.spotify.com/track/0KPVOW1SAbaHZWaSzaJf5J) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Arnór Dan](https://open.spotify.com/artist/6LnEuWyi5kVOZ4aLqnD1Qo) | [Late Night Tales: Ólafur Arnalds](https://open.spotify.com/album/7tS1qpuzGoArfIPnmXkPad) | 5:41 |
-| 48 | [Feel Good Inc.](https://open.spotify.com/track/5qeL0fWg4IDLZNUjVu53f2) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Feel Good Inc.](https://open.spotify.com/album/0UC9mGhLRmVHIvhWgOPLlH) | 3:56 |
-| 49 | [What I Am \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6EjU3Hev5VZZmpPjoyNZVX) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Spotify Singles](https://open.spotify.com/album/5biFYkYP5v0k9OavG4CCoK) | 3:55 |
+| 45 | [Creep](https://open.spotify.com/track/7fu3lFEf8dVfFuvKxhTPwP) | [Ember Island](https://open.spotify.com/artist/1I5eQkzyM8jCVZIM3k2bKL) | [Creep](https://open.spotify.com/album/3Gx0Yoem0yyteJnSZ9j77l) | 2:57 |
+| 46 | [Say My Name](https://open.spotify.com/track/0KPVOW1SAbaHZWaSzaJf5J) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Arnór Dan](https://open.spotify.com/artist/6LnEuWyi5kVOZ4aLqnD1Qo) | [Late Night Tales: Ólafur Arnalds](https://open.spotify.com/album/7tS1qpuzGoArfIPnmXkPad) | 5:41 |
+| 47 | [Feel Good Inc.](https://open.spotify.com/track/5qeL0fWg4IDLZNUjVu53f2) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Feel Good Inc.](https://open.spotify.com/album/0UC9mGhLRmVHIvhWgOPLlH) | 3:56 |
+| 48 | [What I Am \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6EjU3Hev5VZZmpPjoyNZVX) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Spotify Singles](https://open.spotify.com/album/5biFYkYP5v0k9OavG4CCoK) | 3:55 |
+| 49 | [Come As You Are](https://open.spotify.com/track/3RnqvBMDzSg3LzQytNuwdE) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Come As You Are](https://open.spotify.com/album/2RHroLhDaQLAxNq6BRnKgi) | 2:45 |
 | 50 | [Don't Start Now](https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:11 |
 | 51 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/09MdiypXlcb1kohV3cO03p) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/album/0b8KcBvQVOYGRQWGaWzyS0) | 3:32 |
 | 52 | [Dakota](https://open.spotify.com/track/2LOEgB0Jk9suqAP5dDS4bp) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Dakota](https://open.spotify.com/album/4dl5Lo8s7uDNRAqqtW2wna) | 4:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 99 | [Say You'll Be There](https://open.spotify.com/track/6OwDUCgzQOIVcjHA5PBb15) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Say You'll Be There](https://open.spotify.com/album/5AyQKsPpZ0WK6shtBDZGOw) | 3:53 |
 | 100 | [Avant Gardener](https://open.spotify.com/track/6JZH57Qi4g0DgdB8wTeDGS) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Avant Gardener](https://open.spotify.com/album/6pGyMnVTSLITj39L7zDqj4) | 4:19 |
 
-Snapshot ID: `MCxjZGZmOWMzODFjMmI5M2Q5YzI4YjBhZjljNDJmNmJiZGMzMGJmYWI1`
+Snapshot ID: `MCwyZWEwZTA3ZjAzNjAyMTY5NWI0YjAyYjkzOTFkOGFhMDUzMjkyOTE1`

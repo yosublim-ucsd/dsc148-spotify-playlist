@@ -4,7 +4,7 @@
 
 > Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes\. Cover: <a href="spotify:artist:5l8VQNuIg0turYE1VtM9zV">Leonard Cohen</a>
 
-83 songs - 6 hr 10 min
+84 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [If It Be Your Will \(feat\. Leonard Cohen\) \- Live in London](https://open.spotify.com/track/6MgxI462nuWQkMowINdZkw) | [The Webb Sisters](https://open.spotify.com/artist/5WVYK25IDrN0y1ExA69Lr7), [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Live In London](https://open.spotify.com/album/4rgYbbaJOr9fv0MdEcIkIY) | 5:22 | 2018-12-06 |  |
 | [If It Be Your Will \- Live in London](https://open.spotify.com/track/3KHOvvqXEy6jjh2x32wxsv) | [The Webb Sisters](https://open.spotify.com/artist/5WVYK25IDrN0y1ExA69Lr7) | [Live In London](https://open.spotify.com/album/6fxtsivPKNtNAAaMwfjP1K) | 5:22 | 2018-12-06 | 2022-07-29 |
 | [In My Secret Life](https://open.spotify.com/track/32F81jpaJG7O6EZuXQDvrk) | [Mia Dyson](https://open.spotify.com/artist/5QSZl73T85ZpZGAHSDIED6) | [Sings Leonard Cohen](https://open.spotify.com/album/2BSbmGjxoMcfJC6RG6gf0B) | 4:23 | 2018-12-06 | 2022-07-29 |
+| [In My Secret Life](https://open.spotify.com/track/6qwLJ7MfY235DPBO9PbGQL) | [Mia Dyson](https://open.spotify.com/artist/5QSZl73T85ZpZGAHSDIED6) | [Sings Leonard Cohen](https://open.spotify.com/album/1es9chKTaPwJHhMRnsJC4a) | 4:23 | 2018-12-06 |  |
 | [Joan Of Arc](https://open.spotify.com/track/4TtTWypT6b5usypltgEMvn) | [Anna Calvi](https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo) | [Desire](https://open.spotify.com/album/0PZoALjcGxhwDdIQzpESsO) | 4:02 | 2018-12-06 | 2022-07-27 |
 | [Joan of Arc](https://open.spotify.com/track/5hNd5qV3duVHstuh56Diow) | [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn) | [Judy Collins Sings Leonard Cohen: Democracy](https://open.spotify.com/album/7Ferd5c8F0JJOptUiMmxqZ) | 6:10 | 2018-12-06 | 2022-07-27 |
 | [Light As the Breeze](https://open.spotify.com/track/66hjGTu0eQpAQKsgVYN4qZ) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV), [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [My Lives](https://open.spotify.com/album/5nWLdbqnLvx8z8vpzWuwcg) | 6:13 | 2018-12-06 | 2022-07-29 |
@@ -77,7 +78,7 @@
 | [Suzanne](https://open.spotify.com/track/73Nr0OjKNWybcYvJXeO9nN) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Just Like A Woman: Nina Simone Sings Classic Songs Of The '60s](https://open.spotify.com/album/5iFgWpYe8TI36apXgwlJlR) | 4:19 | 2018-12-06 |  |
 | [Take This Waltz](https://open.spotify.com/track/0RGmaFNusYPZHR4XwTdTT9) | [Avalanche Quartet](https://open.spotify.com/artist/6HNv1bfHdugE8iUxdKF2fd) | [Leonard Cohen Songs](https://open.spotify.com/album/2w9b752zziXe5XUIURD5MK) | 5:58 | 2018-12-06 | 2024-01-24 |
 | [Take This Waltz](https://open.spotify.com/track/5HbdrCvl89PkwNoOI0sBdZ) | [Avalanche Quartet](https://open.spotify.com/artist/6HNv1bfHdugE8iUxdKF2fd) | [Leonard Cohen Songs](https://open.spotify.com/album/2YDw6OjWg3Mg2ArLCful7j) | 5:58 | 2018-12-06 | 2022-07-29 |
-| [Tennessee Waltz \- Live at Montreux Jazz Festival](https://open.spotify.com/track/2BhsSiyQdtY9xZt4Yq137J) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Dear Heather](https://open.spotify.com/album/2A2w7NSKKyAfDvwx6GEHEg) | 4:05 | 2018-12-06 |  |
+| [Tennessee Waltz \- Live at Montreux Jazz Festival](https://open.spotify.com/track/2BhsSiyQdtY9xZt4Yq137J) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Dear Heather](https://open.spotify.com/album/2A2w7NSKKyAfDvwx6GEHEg) | 4:05 | 2018-12-06 | 2024-03-05 |
 | [The Future](https://open.spotify.com/track/5r9fVGSkHFy78ZcUDJTla9) | [Teddy Thompson](https://open.spotify.com/artist/1z98aCtgTzyUkAHR50ryFN) | [Leonard Cohen: I'm Your Man](https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR) | 6:49 | 2018-12-06 |  |
 | [The Partisan \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Spotify Singles](https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr) | 3:09 | 2018-12-06 |  |
 | [The Traitor](https://open.spotify.com/track/0a3wNNd7UI9wWJvVW4lFD1) | [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [Leonard Cohen: I'm Your Man](https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR) | 4:44 | 2018-12-06 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 
 > Where hip\-hop and soul meets jazz\. Cover: Digable Planets
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,870 likes - 90 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,939 likes - 90 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,13 +14,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 4 | [Virtual Insanity](https://open.spotify.com/track/24SUWisv2lYQiB3bVpE1sn) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Pop Music: The Modern Era 1976\-1999](https://open.spotify.com/album/0Jh7XIEQrNQAXm7a6hbJ1h) | 3:47 |
 | 5 | [Loungin'](https://open.spotify.com/track/1VzhfMEGIIkn5hFITMJzW1) | [Guru](https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW), [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Jazzmatazz Volume 1](https://open.spotify.com/album/64J8girYqmK86ebqBayrjQ) | 4:39 |
 | 6 | [Nakamarra](https://open.spotify.com/track/23D6FgVV4VygFfJxAtk72J) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Tawk Tomahawk](https://open.spotify.com/album/3s7dB6EHrYkaWjzfVbZfCo) | 4:35 |
-| 7 | [Yes Baby Yes](https://open.spotify.com/track/5AiNMNnKQUYcKsuJoB6ITc) | [Mo' Horizons](https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP) | [Come Touch The Sun](https://open.spotify.com/album/5qy89jtphApqKiPw4kVszd) | 5:00 |
-| 8 | [Water No Get Enemy](https://open.spotify.com/track/2oWex6rYoQ7Bl2D9zG8d3F) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [The Best of the Black President](https://open.spotify.com/album/7I42wZ3TW926k1DXrotD1M) | 9:51 |
-| 9 | [Turn On, Tune In, Cop Out \- Radio Edit](https://open.spotify.com/track/2SC4TS2QvUcKvXRFGgyyDc) | [Freak Power](https://open.spotify.com/artist/0uh9TDn4yP8gqCmrnIcOPJ) | [Drive\-Thru Booty](https://open.spotify.com/album/30CvHpK3jlKpgndhjOx3n2) | 4:24 |
-| 10 | [Rebirth Of Slick \(Cool Like Dat\)](https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9) | [Digable Planets](https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ) | [Reachin' \(A New Refutation Of Time And Space\)](https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP) | 4:21 |
-| 11 | [I Juswanna Chill](https://open.spotify.com/track/3ipzZgH1766XXRamVwk1Iw) | [Large Professor](https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX) | [The LP](https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1) | 3:28 |
-| 12 | [Astronomy \(8th Light\)](https://open.spotify.com/track/1mIpDPCehnf3EPk6J4ZCUF) | [Black Star](https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB), [Weldon Irvine](https://open.spotify.com/artist/05BX9gTvlalkzuFVg3CqyL) | [Mos Def & Talib Kweli Are Black Star](https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q) | 3:23 |
-| 13 | [Space Cowboy](https://open.spotify.com/track/6K53GM9W6Vle5KBwGFVnZM) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [The Return of the Space Cowboy \(Remastered\)](https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk) | 6:26 |
+| 7 | [Rebirth Of Slick \(Cool Like Dat\)](https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9) | [Digable Planets](https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ) | [Reachin' \(A New Refutation Of Time And Space\)](https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP) | 4:21 |
+| 8 | [Yes Baby Yes](https://open.spotify.com/track/5AiNMNnKQUYcKsuJoB6ITc) | [Mo' Horizons](https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP) | [Come Touch The Sun](https://open.spotify.com/album/5qy89jtphApqKiPw4kVszd) | 5:00 |
+| 9 | [Space Cowboy](https://open.spotify.com/track/6K53GM9W6Vle5KBwGFVnZM) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [The Return of the Space Cowboy \(Remastered\)](https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk) | 6:26 |
+| 10 | [Water No Get Enemy](https://open.spotify.com/track/2oWex6rYoQ7Bl2D9zG8d3F) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [The Best of the Black President](https://open.spotify.com/album/7I42wZ3TW926k1DXrotD1M) | 9:51 |
+| 11 | [Turn On, Tune In, Cop Out \- Radio Edit](https://open.spotify.com/track/2SC4TS2QvUcKvXRFGgyyDc) | [Freak Power](https://open.spotify.com/artist/0uh9TDn4yP8gqCmrnIcOPJ) | [Drive\-Thru Booty](https://open.spotify.com/album/30CvHpK3jlKpgndhjOx3n2) | 4:24 |
+| 12 | [I Juswanna Chill](https://open.spotify.com/track/3ipzZgH1766XXRamVwk1Iw) | [Large Professor](https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX) | [The LP](https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1) | 3:28 |
+| 13 | [Astronomy \(8th Light\)](https://open.spotify.com/track/1mIpDPCehnf3EPk6J4ZCUF) | [Black Star](https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB), [Weldon Irvine](https://open.spotify.com/artist/05BX9gTvlalkzuFVg3CqyL) | [Mos Def & Talib Kweli Are Black Star](https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q) | 3:23 |
 | 14 | [Bucktown](https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6) | [Smif\-N\-Wessun](https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0) | [Dah Shinin'](https://open.spotify.com/album/0TaYPOKCUDyvZU2APQ7kPM) | 3:57 |
 | 15 | [Funkin' for Jamaica](https://open.spotify.com/track/55xXj4qc4ByMxcVRb5Slc4) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [Love Approach \(Bonus Track\)](https://open.spotify.com/album/7MKr7uOdenxSKTk0RCZ0mP) | 4:42 |
 | 16 | [Back In The Day](https://open.spotify.com/track/5v1SuYGd6VFMGu8nVHzajO) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Worldwide Underground](https://open.spotify.com/album/1xeCT1UZTYtQoOPHemjqyY) | 4:46 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 37 | [Web of Deception](https://open.spotify.com/track/3n6SFPAFoF0YyBcMEk1zYc) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Culture Of Fear](https://open.spotify.com/album/06CDsx2HDFn57Y66uNI7Iz) | 4:32 |
 | 38 | [Serious Drug](https://open.spotify.com/track/3EKzH4moV9wWTkVEdgz91A) | [Wildcookie](https://open.spotify.com/artist/2nkfPQ3HP5UyDHqy1hSbgG) | [Cookie Dough](https://open.spotify.com/album/416RB6m6lOsWBb1KMBwimM) | 2:55 |
 | 39 | [Jazzie's Groove](https://open.spotify.com/track/0HGxuuv3WdVpIFZeIepoUq) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf) | [Keep On Movin'](https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni) | 2:37 |
-| 40 | [Knucklehead](https://open.spotify.com/track/4TYEIckMi7PTCh1kiknKSy) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1) | [Feels So Good](https://open.spotify.com/album/25M5zhvFVOKw59pxA3f5rN) | 7:59 |
-| 41 | [Bridge Through Time](https://open.spotify.com/track/3WmH2tJbogJcrVSrtdlMPO) | [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK) | [Love Is The Answer \(Expanded\)](https://open.spotify.com/album/5tfEMJRMXkGeDAkg8tE6h8) | 4:01 |
+| 40 | [Bridge Through Time](https://open.spotify.com/track/3WmH2tJbogJcrVSrtdlMPO) | [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK) | [Love Is The Answer \(Expanded\)](https://open.spotify.com/album/5tfEMJRMXkGeDAkg8tE6h8) | 4:01 |
+| 41 | [Knucklehead](https://open.spotify.com/track/4TYEIckMi7PTCh1kiknKSy) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1) | [Feels So Good](https://open.spotify.com/album/25M5zhvFVOKw59pxA3f5rN) | 7:59 |
 | 42 | [Love Will Bring Us Back Together](https://open.spotify.com/track/2LCsNgUX2qsEbKZ9yLRUJq) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Evolution: The Polydor Anthology](https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l) | 5:55 |
 | 43 | [Prince Of Peace](https://open.spotify.com/track/0bzncFV24esz0QZOo4r1ss) | [Galliano](https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG) | [A Joyful Noise Unto The Creator](https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j) | 5:55 |
 | 44 | [Breakfast At Denny's](https://open.spotify.com/track/7uLrf2TyeptKCxsAVRIsXi) | [Buckshot LeFonque](https://open.spotify.com/artist/1wbW8PchZM0iSKq1V8HsRF) | [Once In The Life \(Original Motion Picture Soundtrack\) \[Digitally Remastered\]](https://open.spotify.com/album/1OZ06WuBDhR2fS4r5huztx) | 5:54 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 89 | [Pizza Pie](https://open.spotify.com/track/4TJryQM96qMu04X4uvdBTm) | [Let Your Hair Down](https://open.spotify.com/artist/2gNCOsrLPLraReGsXiBgtE) | [Pizza Pie](https://open.spotify.com/album/2LlVQ5iXALu8K2FwD55LlF) | 3:06 |
 | 90 | [Ring of Saturn](https://open.spotify.com/track/36rhJ2LhrKRdwjBzfZ5lLy) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Dirty Loops](https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ) | [Ring of Saturn](https://open.spotify.com/album/2VTLDohCGomGkyOOvKi96p) | 4:00 |
 
-Snapshot ID: `MCxhY2EyNGIwMzE0ODJlMmEzY2JkNjJiMGNlYjBhZGMxOTM4MmExOGFj`
+Snapshot ID: `MCwzN2FjNjY5ODcxYzNhZDkyMDY5NTEwYjBmNmQwZjg3OWFiNmQyY2Fi`

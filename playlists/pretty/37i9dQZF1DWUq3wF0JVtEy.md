@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 935,525 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 935,585 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 | 49 | [Something](https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC) | [Something](https://open.spotify.com/album/7GFLvptwUjJfXt21DbQmQQ) | 2:43 |
 | 50 | [Wanna Dance](https://open.spotify.com/track/3vJw6jGxk6lfhbXPqNDQdb) | [Kapuzen](https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN) | [Wanna Dance](https://open.spotify.com/album/1uF9PbehMjbOrc7ICdQb2F) | 2:50 |
 | 51 | [Levitate](https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Levitate](https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr) | 2:45 |
-| 52 | [2 Things](https://open.spotify.com/track/23YAweZPLgWqOTJdpvSv1O) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [2 Things](https://open.spotify.com/album/1oMVaSg26TMl1zJEWbi38S) | 3:11 |
+| 52 | [Make U SWEAT!](https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [Make U SWEAT!](https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3) | 3:54 |
 | 53 | [Can You Feel It](https://open.spotify.com/track/7ytI8fQuBmu0iqA0jxkxyL) | [Jordan Dae](https://open.spotify.com/artist/5e6la7DEu908I4KeAh0NwG) | [Can You Feel It](https://open.spotify.com/album/5kwYHOSE7ElPaFDwS6LfRW) | 2:12 |
-| 54 | [Make U SWEAT!](https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [Make U SWEAT!](https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3) | 3:54 |
+| 54 | [2 Things](https://open.spotify.com/track/23YAweZPLgWqOTJdpvSv1O) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [2 Things](https://open.spotify.com/album/1oMVaSg26TMl1zJEWbi38S) | 3:11 |
 | 55 | [Make Me Feel](https://open.spotify.com/track/2i6FWcstV4Ct72L4ORnfwZ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj) | [Make Me Feel](https://open.spotify.com/album/6VGs1p7hG1sRLmToA3Dw9d) | 2:34 |
 | 56 | [Pray 4 Love](https://open.spotify.com/track/4DzW3slkjnkDkl8VdbbicG) | [Salento Guys](https://open.spotify.com/artist/51wnfYz48wZ4bYp9VqhLv4), [Paki](https://open.spotify.com/artist/793dBnJnnRuDvckoUA1mWr), [Nicola Fasano](https://open.spotify.com/artist/0AJ9YvsEOnAqMB9Q15TfYQ) | [Pray 4 Love](https://open.spotify.com/album/4QwkjPFseoDJkmQbS3N78U) | 3:08 |
 | 57 | [Mind Awake, Body Asleep](https://open.spotify.com/track/6iGDeaY8vCTqxfGz6B8gTk) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [Mind Awake, Body Asleep](https://open.spotify.com/album/4sM2DMHiDDU25XRx7AEJ0x) | 2:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 | 99 | [Hello](https://open.spotify.com/track/4Sl7FLTwgrbbBaGYEEJ9ee) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Hello](https://open.spotify.com/album/4qdeHa7hXVujxBUftCIgDh) | 2:21 |
 | 100 | [my luv \- bonus track](https://open.spotify.com/track/6PFbJ9LyhPo5gbTpc08XGP) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [2HEARTs dlux](https://open.spotify.com/album/0jl5eSEDiAIQBY3eeXnDIQ) | 3:59 |
 
-Snapshot ID: `MCxkMjkzY2I2NWYyYjc3OWE1ZWNhNjQ3MzhkOTc1MDIyNTk3YzA2ZDk2`
+Snapshot ID: `MCxjNWNlZmRlNTVlMjExYzYwNGRiZmFkMzc1YWJiMDFhODE3MjNjNDRk`

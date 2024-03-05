@@ -2,9 +2,9 @@
 
 ### [Folk Favourites](https://open.spotify.com/playlist/37i9dQZF1DX2PfO7FL9zWG)
 
-> Revisit stand out songs from these singer/songwriters\. Cover: Mustafa
+> Revisit stand out songs from these singer/songwriters\. Cover: Helena Deland
 
-330 songs - 20 hr 46 min
+332 songs - 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Bobby](https://open.spotify.com/track/18N9hZG0MZryxpB4H36IyP) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Rocket](https://open.spotify.com/album/5Pq92omNLyQgGGrj2u4pur) | 3:42 | 2023-04-21 | 2024-01-09 |
 | [Breathless](https://open.spotify.com/track/5GSazQiswJof8KeONLQmr2) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Earthly Days](https://open.spotify.com/album/5NR43RWA1g04CY4WlURruA) | 4:09 | 2023-03-31 | 2023-12-09 |
 | [Bridges](https://open.spotify.com/track/69U6phr8zMQeDOUscOnKPM) | [Emily Brimlow](https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj) | [Bridges](https://open.spotify.com/album/7y0YxerpfxZI7MrclmgRCI) | 4:11 | 2022-04-15 | 2022-07-25 |
+| [Bright Green Vibrant Gray](https://open.spotify.com/track/6OvymCZ4OgIYA7MSXvPIsM) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Goodnight Summerland](https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn) | 3:39 | 2024-03-04 |  |
 | [Budapest](https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage \(Expanded Edition\)](https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E) | 3:20 | 2023-03-31 |  |
 | [Bug Like an Angel](https://open.spotify.com/track/45KMdPDdZTxcXW3lw10R70) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 3:32 | 2024-01-08 |  |
 | [Burn, Burn, Burn](https://open.spotify.com/track/5jfhLCSIFUO4ndzNRh4w4G) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Burn, Burn, Burn](https://open.spotify.com/album/4popczz4SYRg2NPcgwKHsR) | 4:28 | 2023-08-25 |  |
@@ -60,6 +61,7 @@
 | [Chance](https://open.spotify.com/track/25raxlYX65MJqdjoSKIPI0) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Wildflower](https://open.spotify.com/album/2Re9wrza8ZH46MUah5tILo) | 2:59 | 2022-04-15 | 2023-12-30 |
 | [Chateau](https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL) | 4:33 | 2023-03-31 |  |
 | [Childhood](https://open.spotify.com/track/4EJiWw5JfcPL2v6BkjZglo) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Childhood](https://open.spotify.com/album/3psPknmWDOZJlZUxj79tn7) | 5:46 | 2022-04-15 | 2022-07-29 |
+| [Coal](https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ) | 3:14 | 2024-03-04 |  |
 | [Coastline](https://open.spotify.com/track/4GhfofdAQM5sxn77162iBz) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Wanderlust](https://open.spotify.com/album/6YV4hidj1Vso38nRnSwAnM) | 3:53 | 2022-04-15 | 2022-07-28 |
 | [Coastline](https://open.spotify.com/track/4sDbdBjuYQVdNNB4PiHUPo) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Wanderlust](https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw) | 3:53 | 2022-07-27 |  |
 | [Cold](https://open.spotify.com/track/6drMkkht8gSXMUkyNIuUcN) | [Birdriot](https://open.spotify.com/artist/6GZxvDHOczAsjXImL0RuND) | [It's Been Good](https://open.spotify.com/album/3Dpye8JGYpsW7SE9wqDU2N) | 3:10 | 2022-04-15 | 2022-07-25 |
@@ -238,7 +240,7 @@
 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 | 2022-07-27 |  |
 | [Rising Sun](https://open.spotify.com/track/3pEnh64tQcPwZs9pLvFPTI) | [Jon and Roy](https://open.spotify.com/artist/1K0Gi1qUFGSyZUFXvJF4F2) | [Know Your Mind](https://open.spotify.com/album/7LKXmNzqqAw7B7wsZtcxqM) | 3:22 | 2022-07-27 | 2023-05-08 |
 | [Rising Sun](https://open.spotify.com/track/4CQgSmxceVrNEpMT75aAkY) | [Jon and Roy](https://open.spotify.com/artist/1K0Gi1qUFGSyZUFXvJF4F2) | [Rising Sun](https://open.spotify.com/album/72D6P3LN0xNolHn06kz8ia) | 3:22 | 2022-04-15 | 2022-07-29 |
-| [Rising Sun](https://open.spotify.com/track/7vlCerwYf78YVK23WdN2qu) | [Jon and Roy](https://open.spotify.com/artist/1K0Gi1qUFGSyZUFXvJF4F2) | [Know Your Mind](https://open.spotify.com/album/0T1lAytyrT0Qkb7qfdQgaX) | 3:22 | 2023-04-21 |  |
+| [Rising Sun](https://open.spotify.com/track/7vlCerwYf78YVK23WdN2qu) | [Jon and Roy](https://open.spotify.com/artist/1K0Gi1qUFGSyZUFXvJF4F2) | [Know Your Mind](https://open.spotify.com/album/0T1lAytyrT0Qkb7qfdQgaX) | 3:22 | 2023-04-21 | 2024-03-05 |
 | [River](https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 4:00 | 2023-03-31 |  |
 | [Rivers and Roads](https://open.spotify.com/track/3z7kvwJVRfA4HCOfm9ngog) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 4:44 | 2023-03-31 |  |
 | [Sail Across the Sea](https://open.spotify.com/track/22WXPA6wxAWEgK8V9755xb) | [Kyle Church](https://open.spotify.com/artist/6LamrVF16MEe2AO5WAGodJ) | [Sail Across the Sea](https://open.spotify.com/album/5bvClgeaIvCWxFkhIXPGmG) | 4:21 | 2022-04-15 | 2022-07-12 |
@@ -280,7 +282,7 @@
 | [Such A Simple Thing](https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Part Of The Light](https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f) | 4:56 | 2022-04-15 |  |
 | [Sunday Funday](https://open.spotify.com/track/0pAyXGUIrNm2oISrdAzbsw) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Sunday Funday](https://open.spotify.com/album/0zWuOEFvg95QOrh7qEeSMH) | 4:16 | 2022-04-15 | 2022-07-29 |
 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 | 2022-07-27 | 2023-08-20 |
-| [Surrender](https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Surrender](https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5) | 3:54 | 2022-04-15 |  |
+| [Surrender](https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Surrender](https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5) | 3:54 | 2022-04-15 | 2024-03-05 |
 | [Sword from the Stone](https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted](https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1) | 3:21 | 2022-07-27 |  |
 | [Sword from the Stone](https://open.spotify.com/track/32PwKptR5PhpP4Gxv8Lvps) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted \(Deluxe\)](https://open.spotify.com/album/1cD1OsXdX1czUNujNuJGzJ) | 3:21 | 2022-05-12 | 2022-07-29 |
 | [Take Me to Church](https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:01 | 2022-07-27 | 2023-04-01 |

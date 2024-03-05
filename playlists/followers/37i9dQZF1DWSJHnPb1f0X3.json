@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 4092128,
+  "2024-03-05": 4092773,
   "date_first_scraped": "2021-12-21",
   "description": "Upbeat dance pop to keep your heart pumping.",
   "name": "Cardio",
@@ -3191,7 +3191,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 162353,
       "name": "Dive",
       "url": "https://open.spotify.com/track/0CVXJyYIQPnZE2kAHdx2DP"
@@ -7376,6 +7376,32 @@
     },
     {
       "album": {
+        "name": "Lighter",
+        "url": "https://open.spotify.com/album/2cmZbWwfMq8VCGN4gqCZn7"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172268,
+      "name": "Lighter",
+      "url": "https://open.spotify.com/track/7hdNTegC0TCKKoxB6GTFH3"
+    },
+    {
+      "album": {
         "name": "Lightning (with Trevor Guthrie)",
         "url": "https://open.spotify.com/album/5d8IqFiPDNBPBAzVRqD5yf"
       },
@@ -10415,7 +10441,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 205810,
       "name": "Rest Of My Life",
       "url": "https://open.spotify.com/track/4OvFFy9nniyG6CsI86yNGL"
@@ -13383,6 +13409,24 @@
       "duration_ms": 192197,
       "name": "Voices (feat. TZAR)",
       "url": "https://open.spotify.com/track/7aAWrDRy3T52A95bDNfdlO"
+    },
+    {
+      "album": {
+        "name": "Von dutch",
+        "url": "https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164284,
+      "name": "Von dutch",
+      "url": "https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N"
     },
     {
       "album": {

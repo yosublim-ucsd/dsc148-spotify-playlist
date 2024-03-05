@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 45460,
+  "2024-03-05": 45558,
   "date_first_scraped": "2023-08-25",
   "description": "Beats with a flavour of Jazz. Cover: Blue Lab Beats",
   "name": "Jazzy Beats",
@@ -987,7 +987,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 299758,
       "name": "Fire In Detroit",
       "url": "https://open.spotify.com/track/2bfElfcCkUD7CyGqd36sd3"
@@ -2243,6 +2243,24 @@
       "duration_ms": 157723,
       "name": "Oyster Jam",
       "url": "https://open.spotify.com/track/1uUig8GbfDdTSkyKzUnGre"
+    },
+    {
+      "album": {
+        "name": "P_Optimist",
+        "url": "https://open.spotify.com/album/03OFznjG6SjQ7WMViYD6xK"
+      },
+      "artists": [
+        {
+          "name": "Butterscotch",
+          "url": "https://open.spotify.com/artist/3wERNpNVW3TOG6pwSf5RTD"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103043,
+      "name": "P_Optimist",
+      "url": "https://open.spotify.com/track/02MFno0s2lpD3rycI7cllL"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 8354,
+  "2024-03-05": 8369,
   "date_first_scraped": "2023-04-03",
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
   "name": "This Is Mercy Chinwo",
@@ -346,6 +346,24 @@
     },
     {
       "album": {
+        "name": "Overwhelming Victory",
+        "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 534227,
+      "name": "I'm In Awe - Live",
+      "url": "https://open.spotify.com/track/2NT0Fle45H8CvQpWZzasFD"
+    },
+    {
+      "album": {
         "name": "The Cross: My Gaze",
         "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
       },
@@ -477,6 +495,24 @@
       "duration_ms": 224706,
       "name": "Love Expression",
       "url": "https://open.spotify.com/track/1h4oo2IsxI5xUiipPYOj15"
+    },
+    {
+      "album": {
+        "name": "Overwhelming Victory",
+        "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209916,
+      "name": "More Than Enough",
+      "url": "https://open.spotify.com/track/1wDhZTUmUjQqc19lJx8WEz"
     },
     {
       "album": {
@@ -1013,6 +1049,28 @@
       "duration_ms": 486530,
       "name": "Tobechukwu",
       "url": "https://open.spotify.com/track/3hn4MBWOme2k1oweg2tXak"
+    },
+    {
+      "album": {
+        "name": "Overwhelming Victory",
+        "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "Chioma Jesus",
+          "url": "https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263595,
+      "name": "Too Many Reasons",
+      "url": "https://open.spotify.com/track/2FPkwNQjd5oHcaf3IqLERp"
     },
     {
       "album": {

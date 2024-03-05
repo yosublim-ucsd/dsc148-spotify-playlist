@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK & Ireland\. Cover: LANDEL\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,219 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,226 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [Tread Water](https://open.spotify.com/track/78pExR0VWB6OPI0O2dyxJ9) | [Kitty](https://open.spotify.com/artist/6ahDtngazxljB9q5ISidBl) | [Tread Water](https://open.spotify.com/album/1KBQndePX3n5P46yK8t4MY) | 3:34 |
 | 80 | [Caroline](https://open.spotify.com/track/4xCbH4j4W3wqkqNVJCMElL) | [ALICE LILY](https://open.spotify.com/artist/76QfCo8TeN5wtqDoN6PbdQ) | [Caroline](https://open.spotify.com/album/5Fn9vv173RuHWjvONUWgoH) | 3:05 |
 
-Snapshot ID: `MCw5MjY5OTkzZmRjMDc0NjU3NjQ4MTg3ZTBjZDE3M2Q2MzQ4YzgwZmJl`
+Snapshot ID: `MCwzMDA5MTZkOGMzMDExMjc1NDJkMjYxYjg1MmZiYmRmMTU3Y2Q5MWI5`

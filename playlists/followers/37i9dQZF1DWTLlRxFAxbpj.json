@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 10551,
+  "2024-03-05": 10552,
   "date_first_scraped": "2021-12-21",
   "description": "Get ready to soak up the sun with some carefree jams. ",
   "name": "Spring Break",
@@ -333,7 +333,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-15",
+      "date_removed": null,
       "duration_ms": 151475,
       "name": "Belly Dancer",
       "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
@@ -1971,7 +1971,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 386906,
       "name": "Money Trees",
       "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"

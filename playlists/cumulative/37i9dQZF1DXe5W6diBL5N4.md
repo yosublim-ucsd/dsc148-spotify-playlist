@@ -4,7 +4,7 @@
 
 > Enjoy the freshest K\-Pop new releases \(Cover: TAEYONG\(태용\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-8,053 songs - 19 day 8 hr 18 min
+8,056 songs - 19 day 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1535,6 +1535,7 @@
 | [Departure from a Country](https://open.spotify.com/track/3FC6OK2Nvs35Y34fcRb1Ro) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Sh\*\*ting Stars \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/41rnXi6HnsKF5ueUEqr7uz) | 4:17 | 2022-05-22 | 2022-06-10 |
 | [Deserve](https://open.spotify.com/track/1wuwBheZJPtlu0AZO3BRPT) | [HOYA](https://open.spotify.com/artist/3bGzcepRQ7Zu1J6JDDAq1T) | [Deserve](https://open.spotify.com/album/5b3dvk2qpGvCltCdlcDvLs) | 3:12 | 2023-12-18 | 2024-01-09 |
 | [Designer](https://open.spotify.com/track/4j6eC1fspkLNV3Owy24oYA) | [VAV](https://open.spotify.com/artist/3riGN5iBVBk5naQxUDr5fk) | [Subconscious](https://open.spotify.com/album/2OMMDFODzniFpAc1uD9IRZ) | 3:02 | 2023-06-12 | 2023-08-10 |
+| [Desire to fly](https://open.spotify.com/track/3G81cFKifTjjBeLYUoG5bK) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [Desire to fly](https://open.spotify.com/album/5L4p78XkHQI4q5rE7kt9Yo) | 4:45 | 2024-03-04 |  |
 | [Destiny](https://open.spotify.com/track/33UAfjAFm89IASxP5pfNkK) | [Hong Jin Young](https://open.spotify.com/artist/5LwiBgLTllBUiqQGNiQ7jY) | [Destiny](https://open.spotify.com/album/3dWVKrZ8FvAEVk5I4qLzIz) | 4:01 | 2022-09-14 | 2022-11-07 |
 | [Destiny](https://open.spotify.com/track/3EIV1L6afOcTQfhoPngLQv) | [Lena Park](https://open.spotify.com/artist/0haibpa9N2huTbnUiziBeF) | [Queen of Divorce \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/0TxerkevalwE4obcmdHdmP) | 4:14 | 2024-02-07 |  |
 | [Destiny](https://open.spotify.com/track/0E4EKdS7LaP9QhPmgrDR0l) | [Seo Gi](https://open.spotify.com/artist/41s4WWJTaYrBtw2K1rYPiI) | [Destined with You \(Original Television Soundtrack\), Pt.5](https://open.spotify.com/album/726jcUNbuzUv9ygTJYQ7t3) | 3:24 | 2023-09-08 | 2023-09-19 |
@@ -2449,6 +2450,7 @@
 | [God of Light Music](https://open.spotify.com/track/0xZ4WU5UfctiSeETi6pMEo) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [God of Light Music](https://open.spotify.com/album/2tVPLB5F9IsgPn4mvLQ7RJ) | 1:31 | 2023-12-26 |  |
 | [God of Music](https://open.spotify.com/track/4MTNimMDRyFZv37Thcktwa) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN'](https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f) | 3:25 | 2023-11-10 | 2023-11-18 |
 | [God's Science \- Remix](https://open.spotify.com/track/11zGLobOQ8mseZToc54RLr) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [God's Science](https://open.spotify.com/album/3GfRA7uHVRHVjt1FDHZHgd) | 3:21 | 2022-10-06 | 2022-11-07 |
+| [Goddess of Despair](https://open.spotify.com/track/1kMuSPY0CrZsrrUfbGTbnf) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [Goddess of Despair](https://open.spotify.com/album/2pF0taAwEGNMFRfAyvWGnv) | 3:39 | 2024-03-04 |  |
 | [GODS](https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [GODS](https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs) | 3:40 | 2023-10-04 | 2023-11-11 |
 | [Going home](https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq) | 3:33 | 2022-06-20 | 2022-07-05 |
 | [Going Home](https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Call It Love, Part 3 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2) | 4:57 | 2023-03-09 | 2023-03-28 |
@@ -7221,6 +7223,7 @@
 | [when i′m with u \(Feat\. Saebit\)](https://open.spotify.com/track/2C58cQCboebhjC2TlLogJC) | [Cha Woo Joo](https://open.spotify.com/artist/6mScVyqAyNG48yrL20Rdd4), [Saebit](https://open.spotify.com/artist/3Ry1kQJLsbsMJi5W2p27IX) | [when i′m with u \(Feat\. Saebit\)](https://open.spotify.com/album/3wFeu61EY6U6CN4dMVzz2N) | 3:20 | 2024-01-22 |  |
 | [When love and separation change](https://open.spotify.com/track/5KS65Unvg2MiXV1IFJgFHf) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [When love and separation change](https://open.spotify.com/album/6Ld0x3XrHEQFgW4Ms6tGm3) | 3:11 | 2023-11-10 | 2023-11-18 |
 | [When Spring Comes](https://open.spotify.com/track/2cP7RSO113NOGM8jjoVGbt) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [When Spring Comes\(re.MAKE20 \#11\)](https://open.spotify.com/album/3FKAjRtt2jQ8xSPVEqFLDP) | 4:32 | 2023-07-04 | 2023-08-10 |
+| [When Spring Comes](https://open.spotify.com/track/6vt4R4q5YL4M2cxl7o6pTe) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [When Spring Comes](https://open.spotify.com/album/38vHJ0XSQiQYLyZjjb09Me) | 3:58 | 2024-03-04 |  |
 | [when the dawn comes](https://open.spotify.com/track/2tscQs2pvCjOUwJM9FNwD5) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [when the dawn comes](https://open.spotify.com/album/3NJP5JyWrfAYiTEseYvyrm) | 3:11 | 2024-02-05 |  |
 | [When the door opens](https://open.spotify.com/track/1P0B7bgi2NfSoAM5awO1r0) | [JT&MARCUS](https://open.spotify.com/artist/20XGi1IKkqt4emnpwQjVjH) | [When the door opens \(From "Going to You at a Speed of 493km" \[Original Soundtrack\]\), Pt.5](https://open.spotify.com/album/5FcTAparH1cY84LvR03Pg1) | 3:27 | 2022-05-05 | 2022-05-12 |
 | [When The Longing Knocks On The Door Of My Heart](https://open.spotify.com/track/1UlZcp7bAIKpD03mil3AwB) | [WONHO](https://open.spotify.com/artist/7C4ndvPKNKjJAsHxYyw6ip) | [The Flower Time Machine : Day](https://open.spotify.com/album/2PlghB2Jy7bcqWYyu6ErvA) | 6:01 | 2023-02-11 | 2023-02-28 |

@@ -7171,6 +7171,24 @@
     },
     {
       "album": {
+        "name": "wide awake",
+        "url": "https://open.spotify.com/album/7BgAiu4daa1nqbiSaj8vwo"
+      },
+      "artists": [
+        {
+          "name": "Kid Moon",
+          "url": "https://open.spotify.com/artist/3jkVbxrPvjzWzrjXcfXKUM"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174180,
+      "name": "wide awake",
+      "url": "https://open.spotify.com/track/7ipJbtnQbF1VrZqfHeDAVj"
+    },
+    {
+      "album": {
         "name": "WISH I NEVER KNEW YOU",
         "url": "https://open.spotify.com/album/39VudHdhAGwLJ51ZYOzKHp"
       },

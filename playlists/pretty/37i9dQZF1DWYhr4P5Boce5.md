@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 
 > Songs of faith, hope, and the greatest of these, love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,812 likes - 150 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,840 likes - 150 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 63 | [Look At Love](https://open.spotify.com/track/6LyEFiIuByViEKcbZBAebw) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [My Tribe](https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD) | 3:21 |
 | 64 | [This Loving](https://open.spotify.com/track/1Trsjxw3OfwzIVsSuItgIa) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [This Loving](https://open.spotify.com/album/49HeWMNhVUSt8AolqOBBxr) | 2:36 |
 | 65 | [This Is Love](https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [This Is Love](https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY) | 3:11 |
-| 66 | [Heaven \(All Around You\) \- Acoustic](https://open.spotify.com/track/5b4U8K8IdHj8Z9kW5dxNNR) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Out of Body](https://open.spotify.com/album/0YdHJH25YY6ZzOOpCJyVms) | 3:39 |
-| 67 | [Beautiful \(feat\. India.Arie\)](https://open.spotify.com/track/1P5jyUv4YzTUWTorHAQjgf) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6), [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Beautiful](https://open.spotify.com/album/4cb9hipQR0owfDfjieuOsb) | 3:46 |
-| 68 | [Meant to Be](https://open.spotify.com/track/2YGu3QpHqj5AHtS8RzFQdW) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Meant to Be](https://open.spotify.com/album/1SC4K6OlwiX7QGUfdBHneY) | 3:06 |
+| 66 | [Meant to Be](https://open.spotify.com/track/2YGu3QpHqj5AHtS8RzFQdW) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Meant to Be](https://open.spotify.com/album/1SC4K6OlwiX7QGUfdBHneY) | 3:06 |
+| 67 | [Heaven \(All Around You\) \- Acoustic](https://open.spotify.com/track/5b4U8K8IdHj8Z9kW5dxNNR) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Out of Body](https://open.spotify.com/album/0YdHJH25YY6ZzOOpCJyVms) | 3:39 |
+| 68 | [Beautiful \(feat\. India.Arie\)](https://open.spotify.com/track/1P5jyUv4YzTUWTorHAQjgf) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6), [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Beautiful](https://open.spotify.com/album/4cb9hipQR0owfDfjieuOsb) | 3:46 |
 | 69 | [Oh How I Love You \- Bonus Track](https://open.spotify.com/track/0af0z5Jks46ew0thVFET4u) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Imprint \(Live in Memphis\)](https://open.spotify.com/album/1gxIWgMZNfeilz6V1iFWCb) | 3:52 |
 | 70 | [You Are My Love](https://open.spotify.com/track/2a7DHOlWYlXf9jVkT8LV54) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [You Are My Love](https://open.spotify.com/album/6zfH3FOHE3dDog2yUZRBJx) | 3:23 |
 | 71 | [Don't Deserve You](https://open.spotify.com/track/1TRibL6UoaiU3yEdqCQbgx) | [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Need You Now](https://open.spotify.com/album/2AwrSABuCbL70654kGQ1so) | 4:11 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 149 | [Me + You = Pi](https://open.spotify.com/track/11akLVy8J6vDKsnmDbMxus) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8) | [Me + You = Pi](https://open.spotify.com/album/1hXEZYIQQBGCdx9j0aDr6p) | 2:49 |
 | 150 | [Antagonista](https://open.spotify.com/track/2BVdkWkRhGPiJ6ootfw8vA) | [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs) | [Antagonista](https://open.spotify.com/album/1rG3vXp9bSKK9slELad52Z) | 2:35 |
 
-Snapshot ID: `MCw2MjA4NGU0MjIxNzA4NjRjYzUyOWI5MGIyN2Y3ZjA1N2QxN2QxODk5`
+Snapshot ID: `MCw5YjdjZmQ4MTE1NGJhYWMyMjk4OTEzZTY5MjAzZGY1MmU0MTljZDZj`

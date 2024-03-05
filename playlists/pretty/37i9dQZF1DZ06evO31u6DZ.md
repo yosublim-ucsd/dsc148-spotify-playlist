@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31u6DZ.md) - [plain]
 
 > This is Senses Fail\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,721 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,724 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31u6DZ.md) - [plain]
 | 41 | [Elevator to the Gallows](https://open.spotify.com/track/1bbRM6nUzzoO6vhfNx9h3n) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0) | 3:44 |
 | 42 | [Dreaming A Reality](https://open.spotify.com/track/5EBWBLbuw3q8ZffrJ0DcJV) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [From The Depths Of Dreams](https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y) | 4:54 |
 | 43 | [Hell is in Your Head](https://open.spotify.com/track/06f39OJsLh2MCDFGFBZyY9) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Hell is in Your Head](https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB) | 3:03 |
-| 44 | [War Paint](https://open.spotify.com/track/5mMhLIZv75n1I5RWjWqWg8) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Follow Your Bliss: The Best of Senses Fail](https://open.spotify.com/album/4JY52MmHoTWJCx6RhB3zrz) | 3:39 |
+| 44 | [The Fire](https://open.spotify.com/track/7cHNoWm2ypCUKwUIL1w6tb) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [The Fire](https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS) | 3:44 |
 | 45 | [First Breath, Last Breath](https://open.spotify.com/track/6eRpj3GLxtaBv2z0ruySm1) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0) | 2:54 |
-| 46 | [New Year's Eve](https://open.spotify.com/track/3eZYL9YvI8aGYWDfO8Km7V) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [The Fire](https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS) | 3:14 |
+| 46 | [War Paint](https://open.spotify.com/track/5mMhLIZv75n1I5RWjWqWg8) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Follow Your Bliss: The Best of Senses Fail](https://open.spotify.com/album/4JY52MmHoTWJCx6RhB3zrz) | 3:39 |
 | 47 | [The Burial of the Dead](https://open.spotify.com/track/0ja7fAjEUM6qNaFrBT9fzM) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Hell is in Your Head](https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB) | 3:18 |
-| 48 | [Holy Mountain](https://open.spotify.com/track/6MLdM3mQrUzrwE3kqGRaxT) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0) | 3:49 |
-| 49 | [The Fire](https://open.spotify.com/track/7cHNoWm2ypCUKwUIL1w6tb) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [The Fire](https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS) | 3:44 |
+| 48 | [New Year's Eve](https://open.spotify.com/track/3eZYL9YvI8aGYWDfO8Km7V) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [The Fire](https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS) | 3:14 |
+| 49 | [Holy Mountain](https://open.spotify.com/track/6MLdM3mQrUzrwE3kqGRaxT) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0) | 3:49 |
 | 50 | [I Am Error](https://open.spotify.com/track/6dedec4UcACJV9MlQwydqK) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Hell is in Your Head](https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB) | 3:52 |
 
-Snapshot ID: `Mjg0OTExMzksMDAwMDAwMDA4YzYzN2MzNDNjZGNiNGE2ODU5MWY1MzJkZWVlNDMzYQ==`
+Snapshot ID: `Mjg0OTI1NjksMDAwMDAwMDBmMmY2MTRhMjQ3ZWU3MDAyNjcwODA5M2ZhODc5M2NhNQ==`

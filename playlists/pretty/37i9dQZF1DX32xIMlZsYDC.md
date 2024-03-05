@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32xIMlZsYDC.md) - [plain]
 
 > Despierta poco a poco con la tranquilidad de las notas del piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,580 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,577 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32xIMlZsYDC.md) - [plain]
 | 37 | [Young Love](https://open.spotify.com/track/5LS7VV5Gp3evv8pjcpTDDu) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Glacier](https://open.spotify.com/album/0D5gc8mGZMBzB5ioXy6fdK) | 2:23 |
 | 38 | [Feuilles Tombantes](https://open.spotify.com/track/18KgQFOqj7gZSWN81jcs9C) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Feuilles Tombantes](https://open.spotify.com/album/7gKQQqcUaQuE6g9hWuz23J) | 2:07 |
 | 39 | [The Room Upstairs](https://open.spotify.com/track/2TOXQ1L2NjnKYAwrHbzDgZ) | [Alstad](https://open.spotify.com/artist/3WPVCzLStWkPPaGQKJMVkr) | [The Room Upstairs](https://open.spotify.com/album/2nroqN7kkTUrFfw8K55wP1) | 2:20 |
-| 40 | [Avalanche](https://open.spotify.com/track/1kQFxgqG3KcKErQlvH66lz) | [Lucién](https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch) | [Avalanche](https://open.spotify.com/album/0VG2I88bspS6L3rgcTC3Dm) | 2:16 |
-| 41 | [Signs of Yesterday](https://open.spotify.com/track/469gImU7TX8pyIXefZhr0c) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Divisio](https://open.spotify.com/album/0B869lAIypL8bHSo2SAr34) | 2:22 |
-| 42 | [Under the Willow Tree](https://open.spotify.com/track/3qto6LgDhFq9FGrAORDBzX) | [Rebecca Mayer](https://open.spotify.com/artist/1N9hJSBYCDRgetd57dZukY) | [Summer Breeze](https://open.spotify.com/album/4u92wdvS8QrFikLjgPBsZa) | 2:06 |
-| 43 | [Involution](https://open.spotify.com/track/7pYYH192TuKAQH2cHG7vPR) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Involution](https://open.spotify.com/album/3GqBjeMovVIis4YxjAYfg4) | 2:43 |
-| 44 | [Sonora](https://open.spotify.com/track/4ku8WSW5vtEZNGM8oUuGnd) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Serán](https://open.spotify.com/album/7rfwsqw6rBpkZ1z3ROAoYS) | 3:26 |
+| 40 | [Sonora](https://open.spotify.com/track/4ku8WSW5vtEZNGM8oUuGnd) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Serán](https://open.spotify.com/album/7rfwsqw6rBpkZ1z3ROAoYS) | 3:26 |
+| 41 | [Avalanche](https://open.spotify.com/track/1kQFxgqG3KcKErQlvH66lz) | [Lucién](https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch) | [Avalanche](https://open.spotify.com/album/0VG2I88bspS6L3rgcTC3Dm) | 2:16 |
+| 42 | [Signs of Yesterday](https://open.spotify.com/track/469gImU7TX8pyIXefZhr0c) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Divisio](https://open.spotify.com/album/0B869lAIypL8bHSo2SAr34) | 2:22 |
+| 43 | [Under the Willow Tree](https://open.spotify.com/track/3qto6LgDhFq9FGrAORDBzX) | [Rebecca Mayer](https://open.spotify.com/artist/1N9hJSBYCDRgetd57dZukY) | [Summer Breeze](https://open.spotify.com/album/4u92wdvS8QrFikLjgPBsZa) | 2:06 |
+| 44 | [Involution](https://open.spotify.com/track/7pYYH192TuKAQH2cHG7vPR) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Involution](https://open.spotify.com/album/3GqBjeMovVIis4YxjAYfg4) | 2:43 |
 | 45 | [Reading Life](https://open.spotify.com/track/67XsGbJOJeoHm7ez27nCar) | [Martyn Justice](https://open.spotify.com/artist/0LtEXMqxbMVIGBDSRDGpJh) | [Reading Life](https://open.spotify.com/album/5IJMYSNkVFCLCa3MVnxXti) | 2:44 |
 | 46 | [Mind Wide Open](https://open.spotify.com/track/3qofUkK1Yak7mp81Lojn3L) | [Dan Volker](https://open.spotify.com/artist/6dKolJLPeFV2ruWSwZBuYk) | [Mind Wide Open](https://open.spotify.com/album/1LVpYB2Jtto4OMvjzQqBrn) | 2:38 |
 | 47 | [Now and Then](https://open.spotify.com/track/3flrE9SDAQj4hP2kKzcHOG) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Divisio](https://open.spotify.com/album/0B869lAIypL8bHSo2SAr34) | 2:27 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32xIMlZsYDC.md) - [plain]
 | 68 | [Manus in Mano](https://open.spotify.com/track/3igpedNqhZcfhXMLtqn4Cr) | [Jacques Moni](https://open.spotify.com/artist/4jfYO6eSH5i7WlvIasFP6b) | [Manus in Mano](https://open.spotify.com/album/0UZv7J3zLMPRhhxcZuOmDa) | 3:00 |
 | 69 | [Forgive Us](https://open.spotify.com/track/7pIprvHSIi4bZiFGc6xf5p) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Forgive Us](https://open.spotify.com/album/2g5Cpml6zGcLEEZweDWEc5) | 3:32 |
 | 70 | [Longing For Yesterday](https://open.spotify.com/track/6dHlvIZhsp3Ts3MUsyudKa) | [Charles Weathersby](https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz) | [Longing For Yesterday](https://open.spotify.com/album/05JFGW1xgW0McGf9EiQl0v) | 3:37 |
-| 71 | [Revolve](https://open.spotify.com/track/3vM5WFlaaxJjCMWsQYLwZI) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Revolve](https://open.spotify.com/album/6EDRURCpmlUE7b6OkrVmeR) | 2:30 |
-| 72 | [Sentinel](https://open.spotify.com/track/6eF8X3wXM9mrwmLPprYEe6) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Sentinel](https://open.spotify.com/album/30YAFhyQWYw9KnQTD4jABf) | 4:16 |
+| 71 | [Sentinel](https://open.spotify.com/track/6eF8X3wXM9mrwmLPprYEe6) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Sentinel](https://open.spotify.com/album/30YAFhyQWYw9KnQTD4jABf) | 4:16 |
+| 72 | [Revolve](https://open.spotify.com/track/3vM5WFlaaxJjCMWsQYLwZI) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Revolve](https://open.spotify.com/album/6EDRURCpmlUE7b6OkrVmeR) | 2:30 |
 | 73 | [Bellevue](https://open.spotify.com/track/2Djv53hoQWobBuNHkSKpXC) | [Franz Becker](https://open.spotify.com/artist/4QepILDr1gW2tDbFhWCl3t) | [Doldrums](https://open.spotify.com/album/40IZbOkmYrcusUzTzLmT0p) | 3:21 |
 | 74 | [Oh Endless Day](https://open.spotify.com/track/7gqehJjwPZxAkMFEsxMAYr) | [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5) | [Oh Endless Day](https://open.spotify.com/album/3RRumjF8Ef3D6eGngq3Vbb) | 4:47 |
 | 75 | [Evergreen Valley](https://open.spotify.com/track/5nCSPEXKmujALmfjnM2rpP) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Days Gone By](https://open.spotify.com/album/0je0PVxNcqe1d9n6HRoTx5) | 2:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32xIMlZsYDC.md) - [plain]
 | 99 | [Joy Cycle](https://open.spotify.com/track/187XMbww7baW7X7zHDOTZL) | [Felted Mind](https://open.spotify.com/artist/2Whahebr1XkVsvmbpR2l8d) | [Joy Cycle](https://open.spotify.com/album/70pjqgJZQMHf6ZEucWPgsj) | 3:00 |
 | 100 | [On Your Side](https://open.spotify.com/track/12Ha6FmHZqlgVgIJU2kn3o) | [Ragnar Seaholm](https://open.spotify.com/artist/6GETMwt7rbOZRXFnivRObG) | [On Your Side](https://open.spotify.com/album/6sJJQ0VIYMW3lQLv6zdhPV) | 3:26 |
 
-Snapshot ID: `MCxkMDc1ODViMTk3YWE1NGQ2NDdjNDIwYzc4MTA3YjM3NjgzNjZmMTll`
+Snapshot ID: `MCw5Y2EyZTQ1YmExYThjZDNjNzgyNTZhOTc3NTZmZjQ5MjhkZWEyMTM2`

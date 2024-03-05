@@ -1,12 +1,12 @@
 {
   "description": "Retour en arri\u00e8re avec les meilleurs titres de l'ann\u00e9e 2004. Photo : Usher",
-  "num_followers": 12408,
+  "num_followers": 12415,
   "original_name": "Top Hits France 2004",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGQ5NmZkZjFkZDg0M2E5ZjZiZTUzMWEwZTA3YWFmYTdjOTAyYTQ3",
+  "snapshot_id": "MCw3YjEwYjJmYTMxY2JiM2JmNjUxZjFiNjgwN2NlNGQxZTYwYjhmZGM1",
   "tracks": [
     {
       "added_at": "2020-10-27 12:12:52",
@@ -695,22 +695,6 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "Love Angel Music Baby (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN"
-      },
-      "artists": [
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-        }
-      ],
-      "duration_ms": 221226,
-      "name": "What You Waiting For?",
-      "url": "https://open.spotify.com/track/7bZsx7Zif6FIhrcZrh0LVm"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
         "name": "Dangerously In Love",
         "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 301133,
       "name": "Me, Myself and I",
       "url": "https://open.spotify.com/track/6XsT5UGfpaFeHQf5LRIy4W"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
+        "name": "Love Angel Music Baby (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        }
+      ],
+      "duration_ms": 221226,
+      "name": "What You Waiting For?",
+      "url": "https://open.spotify.com/track/7bZsx7Zif6FIhrcZrh0LVm"
     },
     {
       "added_at": "2020-10-27 12:12:52",
@@ -923,6 +923,22 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
+        "name": "Pieces of A Dream",
+        "url": "https://open.spotify.com/album/1wuzyMw7UrEv65yXblge8w"
+      },
+      "artists": [
+        {
+          "name": "Anastacia",
+          "url": "https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH"
+        }
+      ],
+      "duration_ms": 212266,
+      "name": "Sick and Tired",
+      "url": "https://open.spotify.com/track/54s027DgaSJlvp1q2sdzTa"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
         "name": "Colour The Small One (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5ywlzsK6ga8Drc8RbSI0KX"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 232932,
       "name": "Parce qu'on vient de loin",
       "url": "https://open.spotify.com/track/1wthYeOSBWfUYeCqhYcGt0"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
-        "name": "Pieces of A Dream",
-        "url": "https://open.spotify.com/album/1wuzyMw7UrEv65yXblge8w"
-      },
-      "artists": [
-        {
-          "name": "Anastacia",
-          "url": "https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH"
-        }
-      ],
-      "duration_ms": 212266,
-      "name": "Sick and Tired",
-      "url": "https://open.spotify.com/track/54s027DgaSJlvp1q2sdzTa"
     },
     {
       "added_at": "2020-10-27 12:12:52",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "Tasty",
-        "url": "https://open.spotify.com/album/5YXBnZzECnOFgssE5q43go"
+        "name": "Trag\u00e9die (\u00c9dition Deluxe)",
+        "url": "https://open.spotify.com/album/3Wy1uWOyhabx91yqV18GzH"
       },
       "artists": [
         {
-          "name": "Kelis",
-          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+          "name": "Trag\u00e9die",
+          "url": "https://open.spotify.com/artist/6EysjvvcafloXNdLkwuGLm"
         }
       ],
-      "duration_ms": 206106,
-      "name": "Trick Me - Club Mix",
-      "url": "https://open.spotify.com/track/2qib0282oGZPZWyJHqJaVi"
+      "duration_ms": 216493,
+      "name": "Sexy pour moi! - Mix 2",
+      "url": "https://open.spotify.com/track/5H0ZfIuXw3qEXn2E1EasWX"
     }
   ],
   "unique_name": "Top Hits France 2004",

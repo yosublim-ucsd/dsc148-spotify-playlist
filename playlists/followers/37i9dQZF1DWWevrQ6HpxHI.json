@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 232449,
+  "2024-03-05": 232533,
   "date_first_scraped": "2023-05-19",
   "description": "Over 5 hours of classic heaters \ud83d\udd25",
   "name": "Summer Bangers",
@@ -929,6 +929,24 @@
     {
       "album": {
         "name": "Jubel",
+        "url": "https://open.spotify.com/album/3YOG1iPgOObIuGnQCvEXvB"
+      },
+      "artists": [
+        {
+          "name": "mousike",
+          "url": "https://open.spotify.com/artist/6pun6to8ug3XuaqvLNOgi5"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148172,
+      "name": "Jubel",
+      "url": "https://open.spotify.com/track/61OXupi2BvAtT405OuGVQe"
+    },
+    {
+      "album": {
+        "name": "Jubel",
         "url": "https://open.spotify.com/album/1DDTylkpgKVXNBHHJjIU8S"
       },
       "artists": [
@@ -939,7 +957,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 148173,
       "name": "Jubel",
       "url": "https://open.spotify.com/track/6TskfnWx1j3SwB8r14bTty"

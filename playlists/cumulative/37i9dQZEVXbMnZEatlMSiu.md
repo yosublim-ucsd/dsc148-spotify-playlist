@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-824 songs - 2 day 1 hr 9 min
+825 songs - 2 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [11](https://open.spotify.com/track/4TJ4AEPBhqj9xYykVBU4GL) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [11](https://open.spotify.com/album/0xlWjniRpsQDTfF9mCNGWS) | 3:48 | 2023-11-09 | 2023-11-23 |
 | [24/7, 365](https://open.spotify.com/track/05QUYSOApWLr8oBbpONl7p) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [24/7, 365](https://open.spotify.com/album/4GIH14Ii08p24CHN7MlooG) | 2:47 | 2023-10-03 |  |
 | [3am \- Demo Ver.](https://open.spotify.com/track/70R10GZEIyNaOsltKW5kli) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [3am \(Demo Ver.\)](https://open.spotify.com/album/4RAme39y8E1VMWkuFYrnqM) | 2:36 | 2023-11-08 |  |
-| [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D : The Remixes](https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s) | 3:21 | 2023-10-03 |  |
+| [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D : The Remixes](https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s) | 3:21 | 2023-10-03 | 2024-03-05 |
 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 3:21 | 2023-09-30 | 2023-10-04 |
 | [500天](https://open.spotify.com/track/3tHqubDUl1OHGgGz87YreF) | [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h) | [500天](https://open.spotify.com/album/4qayKoVULYGmEcyTZNhHqY) | 4:00 | 2022-02-26 | 2022-09-18 |
 | [A Love Before Time](https://open.spotify.com/track/2fgDCzvKVb5G47zdsOzQW5) | [CoCo Lee](https://open.spotify.com/artist/3ioHf138TiMxYRCWmC8yJX) | [Promise](https://open.spotify.com/album/45I9zOLkpyzEBuN2wodeyF) | 3:37 | 2023-07-07 | 2023-07-09 |
@@ -805,6 +805,7 @@
 | [遠在心中的你 \- 電視劇《風暴舞》插曲](https://open.spotify.com/track/34GyWjjt19OR2DUaNy1Ifk) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [遠在心中的你 \(電視劇《風暴舞》插曲\)](https://open.spotify.com/album/3wMTCCbtn1QEs5FMR9aSvD) | 3:43 | 2021-05-22 | 2021-05-27 |
 | [遺失的靈魂 \- 《HIStory4\-近距離愛上你》LINE TV插曲](https://open.spotify.com/track/7001YxLOvP8xoXYUTnM0HB) | [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [遺失的靈魂 \(《HIStory4\-近距離愛上你》LINE TV插曲\)](https://open.spotify.com/album/42zsvyhU5qE8qmuiTnxQy5) | 4:01 | 2021-04-29 | 2021-05-06 |
 | [還在流浪](https://open.spotify.com/track/35xilew5nalcetOeytaDFj) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:25 | 2022-07-15 | 2023-01-02 |
+| [都是weather你](https://open.spotify.com/track/3Sp9bi6Oj8rWmWhPXpyZ5l) | [JOYCE 就以斯](https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv), [楊子平 ᏟᎪsᏢᎬᏒ](https://open.spotify.com/artist/3ZvPuPIHI1Xhh0XvBLAhky) | [都是weather你](https://open.spotify.com/album/59aLs5FpqBI7u5tSaYIi7a) | 3:07 | 2024-03-04 |  |
 | [都是浪漫害的](https://open.spotify.com/track/7lw5s901joNKsEZsRWXzu5) | [Mixer](https://open.spotify.com/artist/4AWa6pcQK9J9aSAN67cLHv) | [都是浪漫害的](https://open.spotify.com/album/6k3Aj8q27ETWzwpb9jG3Np) | 4:08 | 2023-10-27 | 2023-11-13 |
 | [錦囊羞澀](https://open.spotify.com/track/0WzNolKYPrN29SSe724t49) | [EyeballRay](https://open.spotify.com/artist/363CQz6rPzByyhhWS1zUQq), [唐仲彣](https://open.spotify.com/artist/2AXIg0cc8pzzVcNnE3sSI6), [阿夫 Suhf](https://open.spotify.com/artist/1lIHC3tPoXBlSYQwSMoIYY), [踢萬8IG8A8Y](https://open.spotify.com/artist/1B3iAH9YqXMuW8CgnLEq8R), [緋村宗祐](https://open.spotify.com/artist/4EZWkuxEGmujVRnCjVX1bf) | [大嘻哈時代, Vol\. 2, Ep\. 4](https://open.spotify.com/album/1M0mZXKkOOddPaP6mUwpHc) | 4:58 | 2021-07-15 | 2021-08-05 |
 | [錯過的煙火](https://open.spotify.com/track/5nC1a5eO57T4vJ32TpE5n6) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:17 | 2022-07-15 | 2022-08-05 |

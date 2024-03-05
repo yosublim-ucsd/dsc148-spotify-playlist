@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 28254,
+  "2024-03-05": 28292,
   "date_first_scraped": "2023-10-15",
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7 Diego Torres",
   "name": "Esto es Pop",
@@ -169,7 +169,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 169604,
       "name": "Acto de Fe",
       "url": "https://open.spotify.com/track/6aV7Ohi6SKDBlTuFIwycBM"
@@ -925,7 +925,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 212912,
       "name": "Donde digan las estrellas",
       "url": "https://open.spotify.com/track/243KMgjddKXmu7EMfdxoEJ"

@@ -1,12 +1,12 @@
 {
   "description": "2019\u5e74\u306b\u5e55\u3092\u958b\u3051\u305f\u4ee4\u548c\u3002\u30b9\u30c8\u30ea\u30fc\u30df\u30f3\u30b0\u3084\u52d5\u753b\u30b5\u30a4\u30c8\u3067\u306e\u30d0\u30a4\u30e9\u30eb\u304c\u5f71\u97ff\u529b\u3092\u5897\u3057\u3001\u793e\u4f1a\u60c5\u52e2\u3084\u4fa1\u5024\u89b3\u304c\u6fc0\u52d5\u3057\u3066\u3044\u308b\"\u30cb\u30e5\u30fc\u30ce\u30fc\u30de\u30eb\"\u306a\u6642\u4ee3\u306e\u30dd\u30c3\u30d7\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3002",
-  "num_followers": 282312,
+  "num_followers": 282472,
   "original_name": "\u4ee4\u548c\u30dd\u30c3\u30d7\u30b9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzkyZTdjODNjNWVhMTg0ODc0NDExOTVjZTE3YTNiZTY5MDFjMDY5",
+  "snapshot_id": "MCwzZjJkZjQ1ZDdjZTI4ODJhY2RmNzI0ODdlZGZiYmJhMzZjNTAzNWFh",
   "tracks": [
     {
       "added_at": "2024-02-29 16:01:56",
@@ -123,18 +123,18 @@
     {
       "added_at": "2024-02-29 16:01:56",
       "album": {
-        "name": "NewJeans 2nd EP 'Get Up'",
-        "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
+        "name": "I feel",
+        "url": "https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG"
       },
       "artists": [
         {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
-      "duration_ms": 151373,
-      "name": "ETA",
-      "url": "https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d"
+      "duration_ms": 161240,
+      "name": "Queencard",
+      "url": "https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC"
     },
     {
       "added_at": "2024-02-29 16:01:56",
@@ -155,18 +155,18 @@
     {
       "added_at": "2024-02-29 16:01:56",
       "album": {
-        "name": "I feel",
-        "url": "https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG"
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
         }
       ],
-      "duration_ms": 161240,
-      "name": "Queencard",
-      "url": "https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC"
+      "duration_ms": 183853,
+      "name": "I AM",
+      "url": "https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM"
     },
     {
       "added_at": "2024-02-29 16:01:56",
@@ -223,18 +223,18 @@
     {
       "added_at": "2024-02-29 16:01:56",
       "album": {
-        "name": "I've IVE",
-        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
+        "name": "NewJeans 2nd EP 'Get Up'",
+        "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
       },
       "artists": [
         {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         }
       ],
-      "duration_ms": 183853,
-      "name": "I AM",
-      "url": "https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM"
+      "duration_ms": 151373,
+      "name": "ETA",
+      "url": "https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d"
     },
     {
       "added_at": "2024-02-29 16:01:56",
@@ -251,38 +251,6 @@
       "duration_ms": 243177,
       "name": "\u4f55\u8272\u3067\u3082\u306a\u3044\u82b1",
       "url": "https://open.spotify.com/track/50tPNAlIyAbQtixQQ0huP5"
-    },
-    {
-      "added_at": "2024-02-29 16:01:56",
-      "album": {
-        "name": "NewJeans 'Super Shy'",
-        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 108986,
-      "name": "New Jeans",
-      "url": "https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2"
-    },
-    {
-      "added_at": "2024-02-29 16:01:56",
-      "album": {
-        "name": "Candle",
-        "url": "https://open.spotify.com/album/1Dy7aa6yDhK1X0RdrVnHhq"
-      },
-      "artists": [
-        {
-          "name": "\u30de\u30eb\u30b7\u30a3",
-          "url": "https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV"
-        }
-      ],
-      "duration_ms": 258306,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/7dPdKXZjt04R6Ne7vWXZIh"
     },
     {
       "added_at": "2024-02-29 16:01:56",
@@ -307,18 +275,18 @@
     {
       "added_at": "2024-02-29 16:01:56",
       "album": {
-        "name": "\u51ac\u3068\u6625",
-        "url": "https://open.spotify.com/album/58cT2BXPIvkR4kFP4b6xaN"
+        "name": "Candle",
+        "url": "https://open.spotify.com/album/1Dy7aa6yDhK1X0RdrVnHhq"
       },
       "artists": [
         {
-          "name": "back number",
-          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
+          "name": "\u30de\u30eb\u30b7\u30a3",
+          "url": "https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV"
         }
       ],
-      "duration_ms": 256786,
-      "name": "\u51ac\u3068\u6625",
-      "url": "https://open.spotify.com/track/6nIoYpfSvie3Ln46dyi8FC"
+      "duration_ms": 258306,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/7dPdKXZjt04R6Ne7vWXZIh"
     },
     {
       "added_at": "2024-02-29 16:01:56",
@@ -343,22 +311,18 @@
     {
       "added_at": "2024-02-29 16:01:56",
       "album": {
-        "name": "Loa",
-        "url": "https://open.spotify.com/album/5OqNUWEYKUC2EBCIyJCzbJ"
+        "name": "\u51ac\u3068\u6625",
+        "url": "https://open.spotify.com/album/58cT2BXPIvkR4kFP4b6xaN"
       },
       "artists": [
         {
-          "name": "Furui Riho",
-          "url": "https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh"
-        },
-        {
-          "name": "knoak",
-          "url": "https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP"
+          "name": "back number",
+          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
         }
       ],
-      "duration_ms": 226476,
-      "name": "Loa",
-      "url": "https://open.spotify.com/track/2v5d3HDGwzyiJ7hI7cOhLt"
+      "duration_ms": 256786,
+      "name": "\u51ac\u3068\u6625",
+      "url": "https://open.spotify.com/track/6nIoYpfSvie3Ln46dyi8FC"
     },
     {
       "added_at": "2024-02-29 16:01:56",
@@ -379,50 +343,22 @@
     {
       "added_at": "2024-02-29 16:01:56",
       "album": {
-        "name": "\u7070\u304b\u3076\u308a",
-        "url": "https://open.spotify.com/album/5CltyRkCnztzDYVvi79WDW"
+        "name": "Loa",
+        "url": "https://open.spotify.com/album/5OqNUWEYKUC2EBCIyJCzbJ"
       },
       "artists": [
         {
-          "name": "Toaka",
-          "url": "https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR"
-        }
-      ],
-      "duration_ms": 220714,
-      "name": "\u7070\u304b\u3076\u308a",
-      "url": "https://open.spotify.com/track/1eHgJysShUOu4p4jnRdoi4"
-    },
-    {
-      "added_at": "2024-02-29 16:01:56",
-      "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
-      },
-      "artists": [
+          "name": "Furui Riho",
+          "url": "https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh"
+        },
         {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+          "name": "knoak",
+          "url": "https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP"
         }
       ],
-      "duration_ms": 180066,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9"
-    },
-    {
-      "added_at": "2024-02-29 16:01:56",
-      "album": {
-        "name": "\u30aa\u30ec\u30f3\u30b8",
-        "url": "https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3"
-      },
-      "artists": [
-        {
-          "name": "SPYAIR",
-          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "\u30aa\u30ec\u30f3\u30b8",
-      "url": "https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv"
+      "duration_ms": 226476,
+      "name": "Loa",
+      "url": "https://open.spotify.com/track/2v5d3HDGwzyiJ7hI7cOhLt"
     },
     {
       "added_at": "2024-02-29 16:01:56",
@@ -443,18 +379,50 @@
     {
       "added_at": "2024-02-29 16:01:56",
       "album": {
-        "name": "I'll Be Cute When You See Me",
-        "url": "https://open.spotify.com/album/73gLuSuMKY13uGbfcvkseg"
+        "name": "\u7070\u304b\u3076\u308a",
+        "url": "https://open.spotify.com/album/5CltyRkCnztzDYVvi79WDW"
       },
       "artists": [
         {
-          "name": "Koresawa",
-          "url": "https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe"
+          "name": "Toaka",
+          "url": "https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR"
         }
       ],
-      "duration_ms": 201520,
-      "name": "My Life",
-      "url": "https://open.spotify.com/track/2JplDq106PTi3y21zyj6hl"
+      "duration_ms": 220714,
+      "name": "\u7070\u304b\u3076\u308a",
+      "url": "https://open.spotify.com/track/1eHgJysShUOu4p4jnRdoi4"
+    },
+    {
+      "added_at": "2024-02-29 16:01:56",
+      "album": {
+        "name": "NewJeans 'Super Shy'",
+        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 108986,
+      "name": "New Jeans",
+      "url": "https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2"
+    },
+    {
+      "added_at": "2024-02-29 16:01:56",
+      "album": {
+        "name": "\u30aa\u30ec\u30f3\u30b8",
+        "url": "https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "\u30aa\u30ec\u30f3\u30b8",
+      "url": "https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv"
     },
     {
       "added_at": "2024-02-29 16:01:56",
@@ -475,18 +443,18 @@
     {
       "added_at": "2024-02-29 16:01:56",
       "album": {
-        "name": "\u60f3\u671b",
-        "url": "https://open.spotify.com/album/5FximYjhARhnGEDF1A6fWZ"
+        "name": "I'll Be Cute When You See Me",
+        "url": "https://open.spotify.com/album/73gLuSuMKY13uGbfcvkseg"
       },
       "artists": [
         {
-          "name": "Masaharu Fukuyama",
-          "url": "https://open.spotify.com/artist/5FGlhIQqewJRV8fx24toG0"
+          "name": "Koresawa",
+          "url": "https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe"
         }
       ],
-      "duration_ms": 264882,
-      "name": "\u60f3\u671b",
-      "url": "https://open.spotify.com/track/2jTXs5PwRmPRWyJQ4lKfIR"
+      "duration_ms": 201520,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/2JplDq106PTi3y21zyj6hl"
     },
     {
       "added_at": "2024-02-29 16:01:56",
@@ -507,18 +475,18 @@
     {
       "added_at": "2024-02-29 16:01:56",
       "album": {
-        "name": "Saba No Ichi",
-        "url": "https://open.spotify.com/album/4h0gEOGeWn8Dc22RJ0McFN"
+        "name": "\u60f3\u671b",
+        "url": "https://open.spotify.com/album/5FximYjhARhnGEDF1A6fWZ"
       },
       "artists": [
         {
-          "name": "saba sister",
-          "url": "https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX"
+          "name": "Masaharu Fukuyama",
+          "url": "https://open.spotify.com/artist/5FGlhIQqewJRV8fx24toG0"
         }
       ],
-      "duration_ms": 155750,
-      "name": "jya-ji",
-      "url": "https://open.spotify.com/track/11cyQJ1nsaOPoIfQRqUZep"
+      "duration_ms": 264882,
+      "name": "\u60f3\u671b",
+      "url": "https://open.spotify.com/track/2jTXs5PwRmPRWyJQ4lKfIR"
     },
     {
       "added_at": "2024-02-29 16:01:56",
@@ -539,18 +507,18 @@
     {
       "added_at": "2024-02-29 16:01:56",
       "album": {
-        "name": "\u3042\u3089\u308f\u308c\u306a\u3044\u3067",
-        "url": "https://open.spotify.com/album/3Of0ZbIf2fr4VTCoy8YNxY"
+        "name": "Saba No Ichi",
+        "url": "https://open.spotify.com/album/4h0gEOGeWn8Dc22RJ0McFN"
       },
       "artists": [
         {
-          "name": "\u96e2\u5a5a\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+          "name": "saba sister",
+          "url": "https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX"
         }
       ],
-      "duration_ms": 237106,
-      "name": "\u3042\u3089\u308f\u308c\u306a\u3044\u3067",
-      "url": "https://open.spotify.com/track/4J355x8SX4orM1H3tyPBFa"
+      "duration_ms": 155750,
+      "name": "jya-ji",
+      "url": "https://open.spotify.com/track/11cyQJ1nsaOPoIfQRqUZep"
     },
     {
       "added_at": "2024-02-29 16:01:56",
@@ -567,6 +535,38 @@
       "duration_ms": 199333,
       "name": "\u82b1\u306b\u306a\u3063\u3066 - Be a flower",
       "url": "https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg"
+    },
+    {
+      "added_at": "2024-02-29 16:01:56",
+      "album": {
+        "name": "\u3042\u3089\u308f\u308c\u306a\u3044\u3067",
+        "url": "https://open.spotify.com/album/3Of0ZbIf2fr4VTCoy8YNxY"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "duration_ms": 237106,
+      "name": "\u3042\u3089\u308f\u308c\u306a\u3044\u3067",
+      "url": "https://open.spotify.com/track/4J355x8SX4orM1H3tyPBFa"
+    },
+    {
+      "added_at": "2024-02-29 16:01:56",
+      "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9"
     },
     {
       "added_at": "2024-02-29 16:01:56",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-02-29 16:01:56",
       "album": {
-        "name": "\u30c0\u30f3\u30b9\u30db\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/3OyEc77lPQ8QOWMIWvZl08"
-      },
-      "artists": [
-        {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
-        }
-      ],
-      "duration_ms": 203149,
-      "name": "\u30c0\u30f3\u30b9\u30db\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/4NaaF28BeO9WzjDrSS71Nz"
-    },
-    {
-      "added_at": "2024-02-29 16:01:56",
-      "album": {
         "name": "ANTIFRAGILE",
         "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 184444,
       "name": "ANTIFRAGILE",
       "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
+    },
+    {
+      "added_at": "2024-02-29 16:01:56",
+      "album": {
+        "name": "\u30c0\u30f3\u30b9\u30db\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/3OyEc77lPQ8QOWMIWvZl08"
+      },
+      "artists": [
+        {
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        }
+      ],
+      "duration_ms": 203149,
+      "name": "\u30c0\u30f3\u30b9\u30db\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/4NaaF28BeO9WzjDrSS71Nz"
     },
     {
       "added_at": "2024-02-29 16:01:56",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-02-29 16:01:56",
       "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 198053,
+      "name": "The Feels",
+      "url": "https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe"
+    },
+    {
+      "added_at": "2024-02-29 16:01:56",
+      "album": {
         "name": "\u9752\u3068\u590f",
         "url": "https://open.spotify.com/album/5enxwo7c4D5mhXp5f56OLy"
       },
@@ -1039,18 +1055,18 @@
     {
       "added_at": "2024-02-29 16:01:56",
       "album": {
-        "name": "Formula of Love: O+T=<3",
-        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
+        "name": "Stay Alive (Prod. SUGA of BTS)",
+        "url": "https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
         }
       ],
-      "duration_ms": 198053,
-      "name": "The Feels",
-      "url": "https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe"
+      "duration_ms": 210928,
+      "name": "Stay Alive (Prod. SUGA of BTS)",
+      "url": "https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep"
     },
     {
       "added_at": "2024-02-29 16:01:56",
@@ -1067,22 +1083,6 @@
       "duration_ms": 175889,
       "name": "Shut Down",
       "url": "https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc"
-    },
-    {
-      "added_at": "2024-02-29 16:01:56",
-      "album": {
-        "name": "Stay Alive (Prod. SUGA of BTS)",
-        "url": "https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        }
-      ],
-      "duration_ms": 210928,
-      "name": "Stay Alive (Prod. SUGA of BTS)",
-      "url": "https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep"
     },
     {
       "added_at": "2024-02-29 16:01:56",
@@ -1115,6 +1115,22 @@
       "duration_ms": 191462,
       "name": "LOCO",
       "url": "https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY"
+    },
+    {
+      "added_at": "2024-02-29 16:01:56",
+      "album": {
+        "name": "BETWEEN 1&2",
+        "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 177466,
+      "name": "Talk that Talk",
+      "url": "https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq"
     },
     {
       "added_at": "2024-02-29 16:01:56",
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2024-02-29 16:01:56",
       "album": {
-        "name": "BETWEEN 1&2",
-        "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 177466,
-      "name": "Talk that Talk",
-      "url": "https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq"
-    },
-    {
-      "added_at": "2024-02-29 16:01:56",
-      "album": {
         "name": "\u52c7\u8005",
         "url": "https://open.spotify.com/album/6L7pjBfP49dh1WYDmHngOO"
       },
@@ -1243,6 +1243,22 @@
       "duration_ms": 203556,
       "name": "SHOOTING STAR",
       "url": "https://open.spotify.com/track/3IelG5zYpWWCZIH4cqWlPV"
+    },
+    {
+      "added_at": "2024-02-29 16:01:56",
+      "album": {
+        "name": "READY TO BE",
+        "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 181680,
+      "name": "SET ME FREE",
+      "url": "https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1"
     },
     {
       "added_at": "2024-02-29 16:01:56",
@@ -1327,22 +1343,6 @@
     {
       "added_at": "2024-02-29 16:01:56",
       "album": {
-        "name": "READY TO BE",
-        "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 181680,
-      "name": "SET ME FREE",
-      "url": "https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1"
-    },
-    {
-      "added_at": "2024-02-29 16:01:56",
-      "album": {
         "name": "SHOOTING STAR",
         "url": "https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS"
       },
@@ -1355,6 +1355,22 @@
       "duration_ms": 208065,
       "name": "LEFT RIGHT",
       "url": "https://open.spotify.com/track/3v5o91PrUtf0nmO6j8J7dZ"
+    },
+    {
+      "added_at": "2024-02-29 16:01:56",
+      "album": {
+        "name": "SEVENTEEN 4th Album Repackage 'SECTOR 17'",
+        "url": "https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 178453,
+      "name": "_WORLD",
+      "url": "https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC"
     },
     {
       "added_at": "2024-02-29 16:01:56",
@@ -1375,18 +1391,18 @@
     {
       "added_at": "2024-02-29 16:01:56",
       "album": {
-        "name": "SEVENTEEN 4th Album Repackage 'SECTOR 17'",
-        "url": "https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750"
+        "name": "READY TO BE",
+        "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
       },
       "artists": [
         {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
         }
       ],
-      "duration_ms": 178453,
-      "name": "_WORLD",
-      "url": "https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC"
+      "duration_ms": 180320,
+      "name": "MOONLIGHT SUNRISE",
+      "url": "https://open.spotify.com/track/5IN9W6eUfk3014My9awagX"
     },
     {
       "added_at": "2024-02-29 16:01:56",
@@ -1471,18 +1487,18 @@
     {
       "added_at": "2024-02-29 16:01:56",
       "album": {
-        "name": "READY TO BE",
-        "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
+        "name": "Perfume - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/3sVBVr420an61GAwib9AYk"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+          "name": "NCT DOJAEJUNG",
+          "url": "https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw"
         }
       ],
-      "duration_ms": 180320,
-      "name": "MOONLIGHT SUNRISE",
-      "url": "https://open.spotify.com/track/5IN9W6eUfk3014My9awagX"
+      "duration_ms": 167626,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/0jd4aa9XgV5eom0ez0WBrD"
     },
     {
       "added_at": "2024-02-29 16:01:56",
@@ -1503,38 +1519,6 @@
     {
       "added_at": "2024-02-29 16:01:56",
       "album": {
-        "name": "Perfume - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/3sVBVr420an61GAwib9AYk"
-      },
-      "artists": [
-        {
-          "name": "NCT DOJAEJUNG",
-          "url": "https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw"
-        }
-      ],
-      "duration_ms": 167626,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/0jd4aa9XgV5eom0ez0WBrD"
-    },
-    {
-      "added_at": "2024-02-29 16:01:56",
-      "album": {
-        "name": "Boom Boom Back",
-        "url": "https://open.spotify.com/album/6LVDreY2ztRLwqdkjcBjnd"
-      },
-      "artists": [
-        {
-          "name": "BE:FIRST",
-          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "Boom Boom Back",
-      "url": "https://open.spotify.com/track/37xJCjdzJ17S1jCDz3GwsB"
-    },
-    {
-      "added_at": "2024-02-29 16:01:56",
-      "album": {
         "name": "\u9006\u5922",
         "url": "https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2"
       },
@@ -1547,22 +1531,6 @@
       "duration_ms": 307666,
       "name": "\u9006\u5922",
       "url": "https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY"
-    },
-    {
-      "added_at": "2024-02-29 16:01:56",
-      "album": {
-        "name": "\u602a\u7269",
-        "url": "https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "\u602a\u7269",
-      "url": "https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi"
     },
     {
       "added_at": "2024-02-29 16:01:56",
@@ -1611,6 +1579,38 @@
       "duration_ms": 240440,
       "name": "Girls",
       "url": "https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg"
+    },
+    {
+      "added_at": "2024-02-29 16:01:56",
+      "album": {
+        "name": "Boom Boom Back",
+        "url": "https://open.spotify.com/album/6LVDreY2ztRLwqdkjcBjnd"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Boom Boom Back",
+      "url": "https://open.spotify.com/track/37xJCjdzJ17S1jCDz3GwsB"
+    },
+    {
+      "added_at": "2024-02-29 16:01:56",
+      "album": {
+        "name": "\u602a\u7269",
+        "url": "https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "\u602a\u7269",
+      "url": "https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi"
     },
     {
       "added_at": "2024-02-29 16:01:56",

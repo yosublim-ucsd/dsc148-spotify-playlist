@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,485,182 likes - 80 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,485,258 likes - 80 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 76 | [busking](https://open.spotify.com/track/6hBofveV7cUFOSuUB9RQjk) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [busking](https://open.spotify.com/album/5n3Tv4OXiCOqMA9Tcazwhq) | 2:20 |
 | 77 | [last wave](https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [last wave](https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh) | 2:33 |
 | 78 | [Legend \- Instrumental](https://open.spotify.com/track/6h7oDV8mZDTtml9IV5demY) | [A.O.](https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI) | [Legend \(Instrumental\)](https://open.spotify.com/album/3hm1cBdoB5GIHNH8zOf7dh) | 3:38 |
-| 79 | [Tangerine Hues](https://open.spotify.com/track/4fImJZBA2TopABdxAEg1in) | [Ameba](https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P), [Flavors](https://open.spotify.com/artist/6Amqc7UjJa19q4jrfAHA77) | [Tangerine Hues](https://open.spotify.com/album/78zuWk8ZgaMMLlTMtIMsT5) | 3:04 |
-| 80 | [Tender Rose](https://open.spotify.com/track/0nlNNUw3TVdL9yssRhARsd) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Tender Rose](https://open.spotify.com/album/3aEAavtW6Q8wYX9I2tdJFP) | 3:22 |
+| 79 | [Tender Rose](https://open.spotify.com/track/0nlNNUw3TVdL9yssRhARsd) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Tender Rose](https://open.spotify.com/album/3aEAavtW6Q8wYX9I2tdJFP) | 3:22 |
+| 80 | [Tangerine Hues](https://open.spotify.com/track/4fImJZBA2TopABdxAEg1in) | [Ameba](https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P), [Flavors](https://open.spotify.com/artist/6Amqc7UjJa19q4jrfAHA77) | [Tangerine Hues](https://open.spotify.com/album/78zuWk8ZgaMMLlTMtIMsT5) | 3:04 |
 
-Snapshot ID: `MCxmMzQxZGNkZGY2YjgzMzA5NTgxODRmMWJkZDhjMmFlODQ5YmNlZGNh`
+Snapshot ID: `MCxiZGU4ZDA4MGY2OGNmZjIzOWZiNzlkYTI3YTUwY2Q5Y2Y5Zjc3NGEw`

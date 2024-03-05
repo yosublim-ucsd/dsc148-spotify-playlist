@@ -1,12 +1,12 @@
 {
   "description": "Trap de la isla, con Yeruza en portada.",
-  "num_followers": 13513,
+  "num_followers": 13534,
   "original_name": "Trap Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOWJlMTZkMjk2ODkwZTI1YzNjNDlkN2E4OTkzMDk1NjZhNThjYTcy",
+  "snapshot_id": "MCwzZTZmMGQyYzFkZWQxNGNkNzBjYzkwOTFhMDY4ODYyNmY5NjdlMjA0",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "SEN2 KBRN VOL. 2",
-        "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Mbappe",
-      "url": "https://open.spotify.com/track/2lmWwBLVJ2P0HX491zkYws"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 208615,
       "name": "Dos Mil 16",
       "url": "https://open.spotify.com/track/4d4ZXH4dr5bYfgErHiZCX2"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "SEN2 KBRN VOL. 2",
+        "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Mbappe",
+      "url": "https://open.spotify.com/track/2lmWwBLVJ2P0HX491zkYws"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "TRAP KITTY",
-        "url": "https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "Riri",
-      "url": "https://open.spotify.com/track/13FHy6nHjXHbzHj1dZFB1G"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/4fM1JysLcYDX9No45tZmqO"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 279613,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/0gCPvo1GkbtPhMqg5Gbx1K"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "TRAP KITTY",
+        "url": "https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "Riri",
+      "url": "https://open.spotify.com/track/13FHy6nHjXHbzHj1dZFB1G"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -323,42 +323,6 @@
       "duration_ms": 326936,
       "name": "Me Ama Me Odia",
       "url": "https://open.spotify.com/track/6TZXBJLTIOX6DM6hwCsKw2"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Sauce Boyz",
-        "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 152960,
-      "name": "Kemba Walker",
-      "url": "https://open.spotify.com/track/4jhHaLksdP8DJZzxYAjOSz"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Soy Peor",
-        "url": "https://open.spotify.com/album/7ofZgPzOIVXY4ADCrGUqgF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 257384,
-      "name": "Soy Peor",
-      "url": "https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -455,6 +419,42 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Soy Peor",
+        "url": "https://open.spotify.com/album/7ofZgPzOIVXY4ADCrGUqgF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 257384,
+      "name": "Soy Peor",
+      "url": "https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Sauce Boyz",
+        "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 152960,
+      "name": "Kemba Walker",
+      "url": "https://open.spotify.com/track/4jhHaLksdP8DJZzxYAjOSz"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Ella Y Yo (feat. Farruko, Ozuna, Arcangel, Anuel AA, Bryant Myers, Kevin Roldan, \u00d1engo Flow, Alexis La Bestia & \u00d1ejo) [Remix]",
         "url": "https://open.spotify.com/album/3jWqAeLO9g2IR9iKEXTwF8"
       },
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
-        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 156430,
-      "name": "BOOKER T",
-      "url": "https://open.spotify.com/track/26w9NTiE9NGjW1ZvIOd1So"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Sexto Sentido (feat. Bad Bunny)",
         "url": "https://open.spotify.com/album/63RZ9So4XZXllOEUw5h5OV"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 240000,
       "name": "Si La Calle Llama - Remix",
       "url": "https://open.spotify.com/track/3qXZqXGniqNt3PK2CBSZgM"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 156430,
+      "name": "BOOKER T",
+      "url": "https://open.spotify.com/track/26w9NTiE9NGjW1ZvIOd1So"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 243275,
-      "name": "25/8",
-      "url": "https://open.spotify.com/track/4NqQaovM14WR2hNPMFxgjb"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Triste Verano",
         "url": "https://open.spotify.com/album/3tQugDvLsNa3RDu7bfRu6Y"
       },
@@ -727,26 +711,6 @@
       "duration_ms": 212375,
       "name": "Triste Verano",
       "url": "https://open.spotify.com/track/1AOPHC5whvr8K359BZu4kp"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Real Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 216857,
-      "name": "Brindemos",
-      "url": "https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -779,6 +743,42 @@
       "duration_ms": 135953,
       "name": "LUKEANDO",
       "url": "https://open.spotify.com/track/6wvl4xyrmllgSXlHMLUAPo"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Real Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 216857,
+      "name": "Brindemos",
+      "url": "https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 243275,
+      "name": "25/8",
+      "url": "https://open.spotify.com/track/4NqQaovM14WR2hNPMFxgjb"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "3MEN2 KBRN",
-        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 125124,
-      "name": "El Hokage",
-      "url": "https://open.spotify.com/track/5GZ4tx6VZxM7V4IQtSJFyx"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Amandita",
         "url": "https://open.spotify.com/album/7cO3QkRfOusJQJH8K3vW5P"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 184145,
       "name": "La Ruta",
       "url": "https://open.spotify.com/track/7D8tKs61tdzzDdG9w6kdu4"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "3MEN2 KBRN",
+        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 125124,
+      "name": "El Hokage",
+      "url": "https://open.spotify.com/track/5GZ4tx6VZxM7V4IQtSJFyx"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1103,18 +1103,30 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "LLNM2",
-        "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
+        "name": "G Spot",
+        "url": "https://open.spotify.com/album/0OGm90v3LUf6pZyeI55yTc"
       },
       "artists": [
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Sahir",
+          "url": "https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Hydro",
+          "url": "https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg"
         }
       ],
-      "duration_ms": 243957,
-      "name": "Las Jordan",
-      "url": "https://open.spotify.com/track/3dTfFNVkfGUAAsWa3ne3Ig"
+      "duration_ms": 211840,
+      "name": "G Spot",
+      "url": "https://open.spotify.com/track/7qcG5K5O8XjmKT2DFdxWl4"
     }
   ],
   "unique_name": "Trap Boricua",

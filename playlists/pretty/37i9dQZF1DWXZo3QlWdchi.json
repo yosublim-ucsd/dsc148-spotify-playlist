@@ -1,12 +1,12 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 298981,
+  "num_followers": 299015,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MmRlZWQzNzlmNDllZTk1NDYwZWMwODcwNmRhYzkxNTY3MTMxNzE3",
+  "snapshot_id": "MCwyZGYzZmU3MTM3OThiNWI5ZmQyYzQ4YmNjNjg1MDAxMWNhNDk0YmI2",
   "tracks": [
     {
       "added_at": "2023-10-20 03:01:00",
@@ -295,26 +295,6 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Ac\u00fastico - Ao Vivo",
-        "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
-      },
-      "artists": [
-        {
-          "name": "Raimundos",
-          "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
-        },
-        {
-          "name": "Dinho Ouro Preto",
-          "url": "https://open.spotify.com/artist/6ysWe8Q95VUwcU6LKaY4Rk"
-        }
-      ],
-      "duration_ms": 291125,
-      "name": "Mulher de Fases - Ao Vivo | Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2OBzAYQUWGuTgY90TRnXMf"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
         "name": "Ac\u00fastico Ira!",
         "url": "https://open.spotify.com/album/2pqGLzC2eD4oFSpUzisVMw"
       },
@@ -347,22 +327,6 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "O Rappa - Ac\u00fastico Oficina Francisco Brennand (Deluxe) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/18b9UToB7XhEkVpuoJ5ZaR"
-      },
-      "artists": [
-        {
-          "name": "O Rappa",
-          "url": "https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f"
-        }
-      ],
-      "duration_ms": 438583,
-      "name": "Anjos (Pra quem tem f\u00e9) - Ao vivo",
-      "url": "https://open.spotify.com/track/0T5oFIUY2wDXQ7yRd9epfP"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
         "name": "Black Pumas (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7BEA5emJl0yTMC9XBDJCcm"
       },
@@ -379,6 +343,26 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
+        "name": "Ac\u00fastico - Ao Vivo",
+        "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
+      },
+      "artists": [
+        {
+          "name": "Raimundos",
+          "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
+        },
+        {
+          "name": "Dinho Ouro Preto",
+          "url": "https://open.spotify.com/artist/6ysWe8Q95VUwcU6LKaY4Rk"
+        }
+      ],
+      "duration_ms": 291125,
+      "name": "Mulher de Fases - Ao Vivo | Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2OBzAYQUWGuTgY90TRnXMf"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
         "name": "Ac\u00fastico (Ao Vivo / Remastered)",
         "url": "https://open.spotify.com/album/0TcjNekoKeMNRoKZYestuT"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 256466,
       "name": "Caleidosc\u00f3pio - Ao Vivo",
       "url": "https://open.spotify.com/track/0EH1ecgo60jEA3mzeF3XqL"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
+        "name": "O Rappa - Ac\u00fastico Oficina Francisco Brennand (Deluxe) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/18b9UToB7XhEkVpuoJ5ZaR"
+      },
+      "artists": [
+        {
+          "name": "O Rappa",
+          "url": "https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f"
+        }
+      ],
+      "duration_ms": 438583,
+      "name": "Anjos (Pra quem tem f\u00e9) - Ao vivo",
+      "url": "https://open.spotify.com/track/0T5oFIUY2wDXQ7yRd9epfP"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Gigaton",
-        "url": "https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 322306,
-      "name": "Retrograde",
-      "url": "https://open.spotify.com/track/2D68wN3hwEZFdeui0c5Ar6"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
         "name": "Perdida",
         "url": "https://open.spotify.com/album/27evZfDFySSv4dcje8afMI"
       },
@@ -575,6 +559,22 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
+        "name": "Gigaton",
+        "url": "https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 322306,
+      "name": "Retrograde",
+      "url": "https://open.spotify.com/track/2D68wN3hwEZFdeui0c5Ar6"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
         "name": "Come What(ever) May [Special Edition]",
         "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
       },
@@ -607,6 +607,22 @@
       "duration_ms": 396968,
       "name": "Sweet Child O' Mine - Acoustic",
       "url": "https://open.spotify.com/track/1Qq7Tq8zZHuelGv9LQE2Yy"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
+        "name": "Core (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC"
+      },
+      "artists": [
+        {
+          "name": "Stone Temple Pilots",
+          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+        }
+      ],
+      "duration_ms": 346973,
+      "name": "Plush - Live; MTV Unplugged, 11/17/93",
+      "url": "https://open.spotify.com/track/1byoTlWVdu5MqeaoKgdRhZ"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -675,22 +691,6 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Core (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC"
-      },
-      "artists": [
-        {
-          "name": "Stone Temple Pilots",
-          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
-        }
-      ],
-      "duration_ms": 346973,
-      "name": "Plush - Live; MTV Unplugged, 11/17/93",
-      "url": "https://open.spotify.com/track/1byoTlWVdu5MqeaoKgdRhZ"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
         "name": "CPM 22 - Ac\u00fastico",
         "url": "https://open.spotify.com/album/4LzjCuCcssmyxrnUHRwhE4"
       },
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Detonautas Ac\u00fastico",
-        "url": "https://open.spotify.com/album/0wmqgQTtS74RuTwQeR2RL3"
-      },
-      "artists": [
-        {
-          "name": "Detonautas Roque Clube",
-          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
-        }
-      ],
-      "duration_ms": 277693,
-      "name": "S\u00f3 por hoje / Tenis Roque",
-      "url": "https://open.spotify.com/track/4PY23WVDXuHDHwhg0P7PDq"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
         "name": "Chegou Quem Faltava - Volume 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5ayvfXBDzwD15sOazeejGT"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 141136,
       "name": "Dias de Luta, Dias de Gl\u00f3ria - Ao Vivo - Chegou Quem Faltava",
       "url": "https://open.spotify.com/track/6QsNSUfywJxc5RelHUnf38"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
+        "name": "Detonautas Ac\u00fastico",
+        "url": "https://open.spotify.com/album/0wmqgQTtS74RuTwQeR2RL3"
+      },
+      "artists": [
+        {
+          "name": "Detonautas Roque Clube",
+          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
+        }
+      ],
+      "duration_ms": 277693,
+      "name": "S\u00f3 por hoje / Tenis Roque",
+      "url": "https://open.spotify.com/track/4PY23WVDXuHDHwhg0P7PDq"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
+        "name": "With Or Without You (Songs Of Surrender)",
+        "url": "https://open.spotify.com/album/40kPzNF9s62EifVGAhqDL0"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 194812,
+      "name": "With Or Without You - Songs Of Surrender",
+      "url": "https://open.spotify.com/track/5Ian7OWpp9bX9pHOR9RCKx"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
         "name": "Cuts Like A Knife - 40th Anniversary, Live From The Royal Albert Hall",
         "url": "https://open.spotify.com/album/5ol5EQxk9OUHUh7JXb061Z"
       },
@@ -1055,38 +1071,6 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Enquanto Ela N\u00e3o Chegar (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3t2IxR2XIFLTtrRv03pSEk"
-      },
-      "artists": [
-        {
-          "name": "Bar\u00e3o Vermelho",
-          "url": "https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj"
-        }
-      ],
-      "duration_ms": 208316,
-      "name": "Enquanto Ela N\u00e3o Chegar - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6hLStuKVbiJdTj79re7JMx"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
-        "name": "With Or Without You (Songs Of Surrender)",
-        "url": "https://open.spotify.com/album/40kPzNF9s62EifVGAhqDL0"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 194812,
-      "name": "With Or Without You - Songs Of Surrender",
-      "url": "https://open.spotify.com/track/5Ian7OWpp9bX9pHOR9RCKx"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
         "name": "Jota Quest Ac\u00fastico CCBB LIVE EP",
         "url": "https://open.spotify.com/album/7zxSEA6cNt4FPPZGs4yYMU"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 190651,
       "name": "Guerra e Paz - Ac\u00fastico Live",
       "url": "https://open.spotify.com/track/0GqflosdHRexuPNdL0ocT6"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
+        "name": "Enquanto Ela N\u00e3o Chegar (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3t2IxR2XIFLTtrRv03pSEk"
+      },
+      "artists": [
+        {
+          "name": "Bar\u00e3o Vermelho",
+          "url": "https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj"
+        }
+      ],
+      "duration_ms": 208316,
+      "name": "Enquanto Ela N\u00e3o Chegar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6hLStuKVbiJdTj79re7JMx"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "M\u00fasicas de amor",
-        "url": "https://open.spotify.com/album/6vaiqih5PBwWPezVD3If7T"
-      },
-      "artists": [
-        {
-          "name": "C\u00e1ssia Eller",
-          "url": "https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh"
-        }
-      ],
-      "duration_ms": 240799,
-      "name": "Malandragem - Ao Vivo",
-      "url": "https://open.spotify.com/track/3eF6c8ZvbGgVCiMkHITcJE"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
         "name": "Shadow Of The Day (Acoustic)",
         "url": "https://open.spotify.com/album/2aYZc0kNNdUmCZh0IKz9dA"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 198715,
       "name": "Shadow Of The Day - Acoustic",
       "url": "https://open.spotify.com/track/0OjWAUdnGBzRFSELi5JW9m"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
+        "name": "M\u00fasicas de amor",
+        "url": "https://open.spotify.com/album/6vaiqih5PBwWPezVD3If7T"
+      },
+      "artists": [
+        {
+          "name": "C\u00e1ssia Eller",
+          "url": "https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh"
+        }
+      ],
+      "duration_ms": 240799,
+      "name": "Malandragem - Ao Vivo",
+      "url": "https://open.spotify.com/track/3eF6c8ZvbGgVCiMkHITcJE"
     },
     {
       "added_at": "2023-10-20 03:01:00",

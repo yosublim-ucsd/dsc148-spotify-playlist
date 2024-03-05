@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover :Rahul Dit\-O
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,160 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,165 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Plz Worry](https://open.spotify.com/track/2AUqf4UqfXOfVH1LwpDOO5) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe) | [Plz Worry](https://open.spotify.com/album/1ioeFt8iKr7I7oWltSw67o) | 5:52 |
 | 2 | [Ee Pattanakke Yenagide](https://open.spotify.com/track/4HCE5UBG5tZVdFBcHYhqHb) | [J.O.High](https://open.spotify.com/artist/5ToO1JaAY7BEqnoetruHBr) | [Ee Pattanakke Yenagide](https://open.spotify.com/album/4wC300ITmXGQzsV6RKzwvJ) | 2:58 |
 | 3 | [Kanasu \- Acoustic](https://open.spotify.com/track/435LmYdGM9arSf3sk3AfJX) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Kanasu \- Acoustic](https://open.spotify.com/album/6d7xKad7KwKf339s20T8Zr) | 3:26 |
-| 4 | [HAARU HAARU](https://open.spotify.com/track/21FxZHSLzd84a8lxmT57tY) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [HAARU HAARU](https://open.spotify.com/album/3UMSP6AJ2irOB5zYCMfrWs) | 2:59 |
-| 5 | [Sarisamave](https://open.spotify.com/track/49zSovraEfdXNeY7AWyHyG) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Sarisamave](https://open.spotify.com/album/5bbU4EFigN1TubbcPy2OOA) | 2:54 |
-| 6 | [Kalitha Hudugi 3.0](https://open.spotify.com/track/4Ck7u07WKdzIVq8DpOToQM) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Karthik N B](https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC) | [Kalitha Hudugi 3.0](https://open.spotify.com/album/2bTu7wXCFCy5DnCFBIIAkO) | 3:25 |
+| 4 | [Sarisamave](https://open.spotify.com/track/49zSovraEfdXNeY7AWyHyG) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Sarisamave](https://open.spotify.com/album/5bbU4EFigN1TubbcPy2OOA) | 2:54 |
+| 5 | [Kalitha Hudugi 3.0](https://open.spotify.com/track/4Ck7u07WKdzIVq8DpOToQM) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Karthik N B](https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC) | [Kalitha Hudugi 3.0](https://open.spotify.com/album/2bTu7wXCFCy5DnCFBIIAkO) | 3:25 |
+| 6 | [Neenire Jotheyalli](https://open.spotify.com/track/43J5iLiNYuyjOlN0hCMoU1) | [Pratheek anchan](https://open.spotify.com/artist/22uihzHSRd4fg181KerX6n) | [Neenire Jotheyalli](https://open.spotify.com/album/2b3rqJgc9tt6m1DCZWNPha) | 2:26 |
 | 7 | [Good Vibe](https://open.spotify.com/track/1sAUWodQtglnQ3RqVbRLxj) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ) | [Good Vibe](https://open.spotify.com/album/52RcOVDsrNbqrDAnCesUnq) | 2:17 |
 | 8 | [Manasare](https://open.spotify.com/track/60aAnSSyv8rhIrWcKN8koO) | [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U), [Harsha Abbigeri](https://open.spotify.com/artist/6VFxe1u8QcCAF5v7sQyQDr), [Amogh Malakannavar](https://open.spotify.com/artist/2ph9qktlhQK9jdfITK80V8) | [Manasare](https://open.spotify.com/album/6sy8h66IUpgLndkwXZROK1) | 2:46 |
-| 9 | [Sanchike](https://open.spotify.com/track/5P0MbwYlfgK2PtQD8McpLm) | [Dheemusix](https://open.spotify.com/artist/66225bquT98Ra0HHEt0oTb), [Mitakshar Ainkai](https://open.spotify.com/artist/5cKikIFEFOxUe1bxukqC8b) | [Sanchike](https://open.spotify.com/album/33QrVswoypxLlJZPexFWw2) | 2:48 |
+| 9 | [Hey Snehithe](https://open.spotify.com/track/1vy1wvjZnGRy2jmI05n3C2) | [Manasa Holla](https://open.spotify.com/artist/1y81jcpvokCJQXfGs8HWTL), [Prarthana MA](https://open.spotify.com/artist/6OL8EER7m5R0WJYu1VMcvf), [Vihaan Arya](https://open.spotify.com/artist/3aV5EPIDyxtPmDe0PLaj7G), [Aneesh Poojari](https://open.spotify.com/artist/5HPROpmWawOVZh7atmOalE) | [Hey Snehithe](https://open.spotify.com/album/01RPjbea2bSnh45A4QJ9tH) | 2:37 |
 | 10 | [Ondu Sundara Sanje](https://open.spotify.com/track/41Ibz02C8EK5qodYWFY74u) | [Imtiyaz Sultan](https://open.spotify.com/artist/6ISQTadJEND9AY1C2GBsvi), [Roopa Kotwal](https://open.spotify.com/artist/0zxUB0UxO3fGuXxsDyx3Il) | [Ondu Sundara Sanje](https://open.spotify.com/album/1xhYJaU6t8ke6MkVENpyT6) | 4:14 |
 | 11 | [Aagodella Olledakke](https://open.spotify.com/track/5txyQo6mRKlNBkrfoBUI1x) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Aagodella Olledakke](https://open.spotify.com/album/3YA8kASOPKdeuhGpu729tb) | 3:40 |
 | 12 | [Tayiye devaru](https://open.spotify.com/track/4TR4BjGKgRqyCMyVHdKd0H) | [It's me plk](https://open.spotify.com/artist/5MzgfdVaUb1uux2LZBahP3) | [Tayiye devaru](https://open.spotify.com/album/5yi8aECBuvPDfeYJOLC626) | 1:53 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 74 | [BOSS](https://open.spotify.com/track/0cXqo8QjhCsn9qMYjDMZYN) | [Eshani](https://open.spotify.com/artist/4CQMCs1zM49VQiI6Og0VWg), [djlethal](https://open.spotify.com/artist/1UaUAQfV6k8WGPd4DyUEsN) | [BOSS](https://open.spotify.com/album/2QkuqKnB4GkAr6iCVDCJNL) | 2:17 |
 | 75 | [Haaride](https://open.spotify.com/track/1lpmHxVN3Px3umhAHmTdlz) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Harsha Shannu](https://open.spotify.com/artist/10SnuopQQz9cFktsDaRzTw) | [Haaride](https://open.spotify.com/album/3VJHNfv2jL5ngZsmm1Jjm4) | 2:49 |
 
-Snapshot ID: `MCwwNDUwNWZmOTJmMjAzMGU5ODdiNDAxMjg5MGQ1NTMxZjY5ZjBkOTBk`
+Snapshot ID: `MCw3OGUxMzJkNjU0MzhhMjhjZDUwY2NkZjdiMzAzNTg5MGVlY2VmMTQy`

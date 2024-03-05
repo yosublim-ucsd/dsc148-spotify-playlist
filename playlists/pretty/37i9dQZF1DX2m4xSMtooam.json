@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sweet and soothing sound of Bossa nova.",
-  "num_followers": 188682,
+  "num_followers": 188797,
   "original_name": "Bossa Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzFjOGEwY2U3ZThlZjllMjZmOTI2ZDlkMzNhOWZmZDYwMTliYjY0",
+  "snapshot_id": "MCxjYjhlY2ExYTBmYWU4YWYxYTQ1YTRhOTZlOWZmYjY2MGQxYTQxNTY0",
   "tracks": [
     {
       "added_at": "2024-02-23 00:01:00",
@@ -179,18 +179,18 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "The Composer Of Desafinado, Plays",
-        "url": "https://open.spotify.com/album/3tW43cUkPyYkzzntfPwm4A"
+        "name": "The Shadow Of Your Smile",
+        "url": "https://open.spotify.com/album/37xKx9ymHBSgYX02zZhwb9"
       },
       "artists": [
         {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
         }
       ],
-      "duration_ms": 200866,
-      "name": "O Morro N\u00e3o Tem Vez",
-      "url": "https://open.spotify.com/track/6fwICn8FWouigyB8BxfljW"
+      "duration_ms": 142533,
+      "name": "Fly Me To The Moon",
+      "url": "https://open.spotify.com/track/7ilc2TB1RZXbQJyFs5qCiC"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -207,22 +207,6 @@
       "duration_ms": 268760,
       "name": "'S Wonderful",
       "url": "https://open.spotify.com/track/3VZwP7d1U7tuQjb9JZrSRF"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "The Shadow Of Your Smile",
-        "url": "https://open.spotify.com/album/37xKx9ymHBSgYX02zZhwb9"
-      },
-      "artists": [
-        {
-          "name": "Astrud Gilberto",
-          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
-        }
-      ],
-      "duration_ms": 142533,
-      "name": "Fly Me To The Moon",
-      "url": "https://open.spotify.com/track/7ilc2TB1RZXbQJyFs5qCiC"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -255,6 +239,22 @@
       "duration_ms": 256533,
       "name": "Prelude In E Minor",
       "url": "https://open.spotify.com/track/17OHsQ5RBrU6b9lTaPP0vh"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "The Composer Of Desafinado, Plays",
+        "url": "https://open.spotify.com/album/3tW43cUkPyYkzzntfPwm4A"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 200866,
+      "name": "O Morro N\u00e3o Tem Vez",
+      "url": "https://open.spotify.com/track/6fwICn8FWouigyB8BxfljW"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -519,6 +519,22 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
+        "name": "Chambre avec vue",
+        "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
+      },
+      "artists": [
+        {
+          "name": "Henri Salvador",
+          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
+        }
+      ],
+      "duration_ms": 203066,
+      "name": "Jazz M\u00e9diterran\u00e9e",
+      "url": "https://open.spotify.com/track/2yHTFqjyTh32XPddASX3sV"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
         "name": "Night Lights (Expanded Edition)",
         "url": "https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 200613,
       "name": "Bossa Nova Cha Cha",
       "url": "https://open.spotify.com/track/2yWmBpgvwr8G5W71mTVwDt"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "Chambre avec vue",
-        "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
-      },
-      "artists": [
-        {
-          "name": "Henri Salvador",
-          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
-        }
-      ],
-      "duration_ms": 203066,
-      "name": "Jazz M\u00e9diterran\u00e9e",
-      "url": "https://open.spotify.com/track/2yHTFqjyTh32XPddASX3sV"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
+        "name": "Sunset over Recife",
+        "url": "https://open.spotify.com/album/17O83pna4zn9zjWai235PZ"
+      },
+      "artists": [
+        {
+          "name": "Cole Peers trio",
+          "url": "https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj"
+        }
+      ],
+      "duration_ms": 165250,
+      "name": "Sunset over Recife",
+      "url": "https://open.spotify.com/track/6DpJVrfkJ72jTE4MlrDObl"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
         "name": "Rio (Exclusive International Version)",
         "url": "https://open.spotify.com/album/3xeSQlUbj1czlmHmRduCFI"
       },
@@ -847,22 +863,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Sunset over Recife",
-        "url": "https://open.spotify.com/album/17O83pna4zn9zjWai235PZ"
-      },
-      "artists": [
-        {
-          "name": "Cole Peers trio",
-          "url": "https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj"
-        }
-      ],
-      "duration_ms": 165250,
-      "name": "Sunset over Recife",
-      "url": "https://open.spotify.com/track/6DpJVrfkJ72jTE4MlrDObl"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr"
       },
@@ -875,6 +875,22 @@
       "duration_ms": 250186,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/5iRxI8g8AxrQe6EpKYMtdN"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Your Laugh",
+        "url": "https://open.spotify.com/album/1zdhx2ty0QErwb2BvtFqTL"
+      },
+      "artists": [
+        {
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+        }
+      ],
+      "duration_ms": 262673,
+      "name": "Your Laugh",
+      "url": "https://open.spotify.com/track/1AGKMyRXRV6io3TLzgioVL"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -907,22 +923,6 @@
       "duration_ms": 282560,
       "name": "Bossa Antigua",
       "url": "https://open.spotify.com/track/5kapVb34raTBsynt0Zj6qw"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "Your Laugh",
-        "url": "https://open.spotify.com/album/1zdhx2ty0QErwb2BvtFqTL"
-      },
-      "artists": [
-        {
-          "name": "Trio Del Norte",
-          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
-        }
-      ],
-      "duration_ms": 262673,
-      "name": "Your Laugh",
-      "url": "https://open.spotify.com/track/1AGKMyRXRV6io3TLzgioVL"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Once I Loved",
-        "url": "https://open.spotify.com/album/0MyW4ebA1Otb0YYXeVOtnP"
-      },
-      "artists": [
-        {
-          "name": "Logan Perez Trio",
-          "url": "https://open.spotify.com/artist/1LkgOk5uGieE5FGkTxGNIw"
-        }
-      ],
-      "duration_ms": 434476,
-      "name": "Once I Loved",
-      "url": "https://open.spotify.com/track/0M6auxy6hLBXBhniH5UR2U"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Just Chill and Breathe",
         "url": "https://open.spotify.com/album/5CUrICr5idsitMLUdupNTA"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 191156,
       "name": "Just Chill and Breathe",
       "url": "https://open.spotify.com/track/1IibcoE7Dfr7n8AmdnW2EN"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Once I Loved",
+        "url": "https://open.spotify.com/album/0MyW4ebA1Otb0YYXeVOtnP"
+      },
+      "artists": [
+        {
+          "name": "Logan Perez Trio",
+          "url": "https://open.spotify.com/artist/1LkgOk5uGieE5FGkTxGNIw"
+        }
+      ],
+      "duration_ms": 434476,
+      "name": "Once I Loved",
+      "url": "https://open.spotify.com/track/0M6auxy6hLBXBhniH5UR2U"
     },
     {
       "added_at": "2024-02-23 00:01:00",

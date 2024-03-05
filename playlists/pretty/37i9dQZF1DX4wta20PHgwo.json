@@ -1,12 +1,12 @@
 {
   "description": "The perfect backdrop to an evening spent relaxing in solitude.",
-  "num_followers": 2094625,
+  "num_followers": 2095078,
   "original_name": "Late Night Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWRhZDk0NTgxNmMxNmQwMjk0MmM4MmU3ZDk1YjdhZDc2NmQ3NzI4",
+  "snapshot_id": "MCxjOWE5OTMzMjEzMWQ4OGJlNjdlOGZmNTk3ZDhkOWJjNmYzMWY1Nzcy",
   "tracks": [
     {
       "added_at": "2024-03-01 00:01:00",
@@ -547,6 +547,22 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
+        "name": "Vol. 1",
+        "url": "https://open.spotify.com/album/5ogYqVF7SaAZSgdYM9sDba"
+      },
+      "artists": [
+        {
+          "name": "Chris Botti",
+          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
+        }
+      ],
+      "duration_ms": 205651,
+      "name": "Blue In Green",
+      "url": "https://open.spotify.com/track/4ODfxzVSPvIJOBs7OIGwvd"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
         "name": "We'll Be Together Again",
         "url": "https://open.spotify.com/album/1bzgX2nMfXveMPGZOYNzZ7"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 500435,
       "name": "From The Mountains",
       "url": "https://open.spotify.com/track/2vrav3XxztyyB5jnvg3IEH"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Vol. 1",
-        "url": "https://open.spotify.com/album/5ogYqVF7SaAZSgdYM9sDba"
-      },
-      "artists": [
-        {
-          "name": "Chris Botti",
-          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
-        }
-      ],
-      "duration_ms": 205651,
-      "name": "Blue In Green",
-      "url": "https://open.spotify.com/track/4ODfxzVSPvIJOBs7OIGwvd"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
+        "name": "Jazz 'Round Midnight",
+        "url": "https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        },
+        {
+          "name": "Teddy Wilson",
+          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
+        }
+      ],
+      "duration_ms": 204760,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/7LdrTu0apcwGJi3B5WWYnk"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
         "name": "Inside",
         "url": "https://open.spotify.com/album/7ynHLBTikx5EcjemNNloIy"
       },
@@ -1183,50 +1203,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Jazz 'Round Midnight",
-        "url": "https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        },
-        {
-          "name": "Teddy Wilson",
-          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
-        }
-      ],
-      "duration_ms": 204760,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/7LdrTu0apcwGJi3B5WWYnk"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "You Don't Know What Love Is",
-        "url": "https://open.spotify.com/album/42jzQMDBQFqwr245siPsBH"
-      },
-      "artists": [
-        {
-          "name": "Rasmus H Thomsen Trio",
-          "url": "https://open.spotify.com/artist/5Ep05EOVNYVc5b5trOuDI1"
-        },
-        {
-          "name": "Oskar Cederblad",
-          "url": "https://open.spotify.com/artist/2FglkJbc16UM02HY1VovVM"
-        },
-        {
-          "name": "Krydda Sundstr\u00f6m",
-          "url": "https://open.spotify.com/artist/6dI8O0N6q3qFU8OgvgpEIm"
-        }
-      ],
-      "duration_ms": 285549,
-      "name": "You Don't Know What Love Is",
-      "url": "https://open.spotify.com/track/6Ybo0q6qQkKOZ3zRN59GnM"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "Iron Starlet",
         "url": "https://open.spotify.com/album/3J6gELskRha5aqLGVWGmQN"
       },
@@ -1263,6 +1239,30 @@
       "duration_ms": 329600,
       "name": "Ballad Of The Sad Young Men",
       "url": "https://open.spotify.com/track/6N57mvrlpGr2yl0FfiHnY4"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "You Don't Know What Love Is",
+        "url": "https://open.spotify.com/album/42jzQMDBQFqwr245siPsBH"
+      },
+      "artists": [
+        {
+          "name": "Rasmus H Thomsen Trio",
+          "url": "https://open.spotify.com/artist/5Ep05EOVNYVc5b5trOuDI1"
+        },
+        {
+          "name": "Oskar Cederblad",
+          "url": "https://open.spotify.com/artist/2FglkJbc16UM02HY1VovVM"
+        },
+        {
+          "name": "Krydda Sundstr\u00f6m",
+          "url": "https://open.spotify.com/artist/6dI8O0N6q3qFU8OgvgpEIm"
+        }
+      ],
+      "duration_ms": 285549,
+      "name": "You Don't Know What Love Is",
+      "url": "https://open.spotify.com/track/6Ybo0q6qQkKOZ3zRN59GnM"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Abeyance",
-        "url": "https://open.spotify.com/album/0B2KIoa9OpRydCNaOP5p50"
-      },
-      "artists": [
-        {
-          "name": "Caris Hermes",
-          "url": "https://open.spotify.com/artist/23PTKxQtsIL4Z9AZsNabz0"
-        }
-      ],
-      "duration_ms": 414108,
-      "name": "Abeyance",
-      "url": "https://open.spotify.com/track/6RR3VWktMxEjW95tE4B9H8"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "Time for Ballads - The Maene Sessions",
         "url": "https://open.spotify.com/album/0A3ky8Ix813biINCcxXAe5"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 381492,
       "name": "I Fall in Love Too Easily",
       "url": "https://open.spotify.com/track/6gRHtt5AMw1ExlzqLBLycb"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "Abeyance",
+        "url": "https://open.spotify.com/album/0B2KIoa9OpRydCNaOP5p50"
+      },
+      "artists": [
+        {
+          "name": "Caris Hermes",
+          "url": "https://open.spotify.com/artist/23PTKxQtsIL4Z9AZsNabz0"
+        }
+      ],
+      "duration_ms": 414108,
+      "name": "Abeyance",
+      "url": "https://open.spotify.com/track/6RR3VWktMxEjW95tE4B9H8"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -1999,38 +1999,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "In A Sentimental Mood",
-        "url": "https://open.spotify.com/album/2BPqCjx9YoBSTfOaECF76s"
-      },
-      "artists": [
-        {
-          "name": "Mellow In Blue",
-          "url": "https://open.spotify.com/artist/0XqUdduCt8Hmk0fGxzpdR4"
-        },
-        {
-          "name": "Mathias Heise",
-          "url": "https://open.spotify.com/artist/5VDMcXFNkMZ3bB9bt9jRFW"
-        },
-        {
-          "name": "Erlend Slettevoll",
-          "url": "https://open.spotify.com/artist/1Wvn3eBW8X5DeD2pwnTjYS"
-        },
-        {
-          "name": "Johnny \u00c5man",
-          "url": "https://open.spotify.com/artist/1eAt5Qjg9RPfYAhxl723YW"
-        },
-        {
-          "name": "Anders Mogensen",
-          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
-        }
-      ],
-      "duration_ms": 306261,
-      "name": "In A Sentimental Mood",
-      "url": "https://open.spotify.com/track/0L5jTWqmqW0X5FFnMjYLpQ"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "Being There",
         "url": "https://open.spotify.com/album/5JuT4GGK3RKVtbqQTDwlkS"
       },
@@ -2059,6 +2027,38 @@
       "duration_ms": 160999,
       "name": "Quiet Corner",
       "url": "https://open.spotify.com/track/21jcuHw9kBHPvvkAjYOOi6"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "In A Sentimental Mood",
+        "url": "https://open.spotify.com/album/2BPqCjx9YoBSTfOaECF76s"
+      },
+      "artists": [
+        {
+          "name": "Mellow In Blue",
+          "url": "https://open.spotify.com/artist/0XqUdduCt8Hmk0fGxzpdR4"
+        },
+        {
+          "name": "Mathias Heise",
+          "url": "https://open.spotify.com/artist/5VDMcXFNkMZ3bB9bt9jRFW"
+        },
+        {
+          "name": "Erlend Slettevoll",
+          "url": "https://open.spotify.com/artist/1Wvn3eBW8X5DeD2pwnTjYS"
+        },
+        {
+          "name": "Johnny \u00c5man",
+          "url": "https://open.spotify.com/artist/1eAt5Qjg9RPfYAhxl723YW"
+        },
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        }
+      ],
+      "duration_ms": 306261,
+      "name": "In A Sentimental Mood",
+      "url": "https://open.spotify.com/track/0L5jTWqmqW0X5FFnMjYLpQ"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -2671,6 +2671,22 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
+        "name": "Slow Hot Wind",
+        "url": "https://open.spotify.com/album/31CBhKMtQuIiols58fRWlR"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        }
+      ],
+      "duration_ms": 319053,
+      "name": "Slow Hot Wind",
+      "url": "https://open.spotify.com/track/5KLuxrGo0LBcyGvGj3NKai"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
         "name": "8: Kindred Spirits (Live From The Lobero)",
         "url": "https://open.spotify.com/album/3kdaoYi2SztpyarxBZ3py6"
       },
@@ -2715,22 +2731,6 @@
       "duration_ms": 501179,
       "name": "Longing",
       "url": "https://open.spotify.com/track/67sVPIVxFU882Z6HpdBjXZ"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Slow Hot Wind",
-        "url": "https://open.spotify.com/album/31CBhKMtQuIiols58fRWlR"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Pelt",
-          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
-        }
-      ],
-      "duration_ms": 319053,
-      "name": "Slow Hot Wind",
-      "url": "https://open.spotify.com/track/5KLuxrGo0LBcyGvGj3NKai"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -3827,22 +3827,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Red Orange and Blue",
-        "url": "https://open.spotify.com/album/16ocAEwSksKkzTKkc76OjA"
-      },
-      "artists": [
-        {
-          "name": "Daniel Guggenheim Quartet",
-          "url": "https://open.spotify.com/artist/53A1C9v3RTzKNSmrRshqJt"
-        }
-      ],
-      "duration_ms": 432226,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/5GSriSRLRA71Td2F3CR1Ni"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "Waltz for an Absent Lover",
         "url": "https://open.spotify.com/album/7eeM5Bv1i8Rnb1Egus1RJX"
       },
@@ -3915,6 +3899,22 @@
       "duration_ms": 326426,
       "name": "Nocturnal",
       "url": "https://open.spotify.com/track/3ocm43si0Ee0nyd9EAxs7T"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "Red Orange and Blue",
+        "url": "https://open.spotify.com/album/16ocAEwSksKkzTKkc76OjA"
+      },
+      "artists": [
+        {
+          "name": "Daniel Guggenheim Quartet",
+          "url": "https://open.spotify.com/artist/53A1C9v3RTzKNSmrRshqJt"
+        }
+      ],
+      "duration_ms": 432226,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/5GSriSRLRA71Td2F3CR1Ni"
     },
     {
       "added_at": "2024-03-01 00:01:00",

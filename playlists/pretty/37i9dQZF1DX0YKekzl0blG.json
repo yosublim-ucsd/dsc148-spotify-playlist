@@ -1,12 +1,12 @@
 {
   "description": "All the indelible tunes from the other side of the 00s. Cover: Santigold",
-  "num_followers": 699092,
+  "num_followers": 699137,
   "original_name": "Alternative 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjRkZWNmODlhNGM5MDAxNmM4YjhlOGEwZDBmYjBjOGNkMWQwYmM3",
+  "snapshot_id": "MCw3MTNmNTQwMTc2ZmUzMDU5OGI5OGM1OTRmZGEyOGM2NjUyM2U1ODJh",
   "tracks": [
     {
       "added_at": "2022-11-17 20:15:32",
@@ -107,22 +107,6 @@
     {
       "added_at": "2022-11-17 20:15:32",
       "album": {
-        "name": "Hot Fuss",
-        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 197200,
-      "name": "Somebody Told Me",
-      "url": "https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v"
-    },
-    {
-      "added_at": "2022-11-17 20:15:32",
-      "album": {
         "name": "Oracular Spectacular",
         "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 261000,
       "name": "Time to Pretend",
       "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
+    },
+    {
+      "added_at": "2022-11-17 20:15:32",
+      "album": {
+        "name": "Hot Fuss",
+        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 197200,
+      "name": "Somebody Told Me",
+      "url": "https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v"
     },
     {
       "added_at": "2022-11-17 20:15:32",
@@ -199,22 +199,6 @@
       "duration_ms": 219826,
       "name": "Reptilia",
       "url": "https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA"
-    },
-    {
-      "added_at": "2022-11-17 20:15:32",
-      "album": {
-        "name": "Sam's Town",
-        "url": "https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 220426,
-      "name": "When You Were Young",
-      "url": "https://open.spotify.com/track/70wYA8oYHoMzhRRkARoMhU"
     },
     {
       "added_at": "2022-11-17 20:15:32",
@@ -295,6 +279,22 @@
       "duration_ms": 229640,
       "name": "Electric Feel",
       "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
+    },
+    {
+      "added_at": "2022-11-17 20:15:32",
+      "album": {
+        "name": "Sam's Town",
+        "url": "https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 220426,
+      "name": "When You Were Young",
+      "url": "https://open.spotify.com/track/70wYA8oYHoMzhRRkARoMhU"
     },
     {
       "added_at": "2022-11-17 20:15:32",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-11-17 20:15:32",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 232666,
-      "name": "Something About Us",
-      "url": "https://open.spotify.com/track/1NeLwFETswx8Fzxl2AFl91"
-    },
-    {
-      "added_at": "2022-11-17 20:15:32",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/0ajuOfBlVf6XlnaZAYUVBf"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 191173,
       "name": "Burning",
       "url": "https://open.spotify.com/track/0QgR03vMDoBoLgcu08EtKl"
+    },
+    {
+      "added_at": "2022-11-17 20:15:32",
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 232666,
+      "name": "Something About Us",
+      "url": "https://open.spotify.com/track/1NeLwFETswx8Fzxl2AFl91"
     },
     {
       "added_at": "2022-11-17 20:15:32",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-11-17 20:15:32",
       "album": {
-        "name": "Is This It",
-        "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 193373,
-      "name": "Last Nite",
-      "url": "https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"
-    },
-    {
-      "added_at": "2022-11-17 20:15:32",
-      "album": {
         "name": "Thirteen Tales From Urban Bohemia",
         "url": "https://open.spotify.com/album/3RFenjlpdmIfkYATMdkbak"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 211706,
       "name": "Bohemian Like You",
       "url": "https://open.spotify.com/track/3APHT3KjbHi9OllkVQsuXF"
+    },
+    {
+      "added_at": "2022-11-17 20:15:32",
+      "album": {
+        "name": "Is This It",
+        "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 193373,
+      "name": "Last Nite",
+      "url": "https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"
     },
     {
       "added_at": "2022-11-17 20:15:32",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-11-17 20:15:32",
       "album": {
-        "name": "Funeral",
-        "url": "https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 310893,
-      "name": "Rebellion (Lies)",
-      "url": "https://open.spotify.com/track/0xOeB16JDbBJBJKSdHbElT"
-    },
-    {
-      "added_at": "2022-11-17 20:15:32",
-      "album": {
         "name": "Turn On The Bright Lights",
         "url": "https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 251293,
       "name": "Obstacle 1",
       "url": "https://open.spotify.com/track/1ZBqJilDGBVYktvlCEo9jC"
+    },
+    {
+      "added_at": "2022-11-17 20:15:32",
+      "album": {
+        "name": "Funeral",
+        "url": "https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 310893,
+      "name": "Rebellion (Lies)",
+      "url": "https://open.spotify.com/track/0xOeB16JDbBJBJKSdHbElT"
     },
     {
       "added_at": "2022-11-17 20:15:32",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXyq4CJGeZ5.md) - [plain]
 
 > Piano music for fall vibes and autumnal moods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,702 likes - 430 songs - 19 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,693 likes - 430 songs - 19 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,9 +87,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXyq4CJGeZ5.md) - [plain]
 | 77 | [Wistful Heart](https://open.spotify.com/track/7FUeGwCMN82RlhFLkBRbJV) | [Matthias Gusset](https://open.spotify.com/artist/28zL2v3cJ1dM0CW8XSF1dg) | [Wistful Heart](https://open.spotify.com/album/4oKAXORzsZEqbSNX0qIR0K) | 2:33 |
 | 78 | [Fallboard](https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92) | [Esther Dutch](https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7) | [Fallboard](https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2) | 2:40 |
 | 79 | [Botanical](https://open.spotify.com/track/0auGwYryPNa1UIEn3BrIx0) | [Maru Gomes](https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp) | [Botanical](https://open.spotify.com/album/4j5uGANP6T2CGeyhKa6BGZ) | 2:23 |
-| 80 | [Maiestas](https://open.spotify.com/track/0rZYsX5OgshLXSj4zumlxx) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Maiestas](https://open.spotify.com/album/7oCpbL8Bgz9eoaYXc4Lyok) | 2:51 |
-| 81 | [Contemplation](https://open.spotify.com/track/04QMzMxrwND0Tkh3Na0K6K) | [Sorrel Hauer](https://open.spotify.com/artist/5F8nqlAgRked7aLmw3uWlo) | [Contemplation](https://open.spotify.com/album/3yuVxlE4JhW8J4ZRvyMaqb) | 3:04 |
-| 82 | [Bolero Chiquito](https://open.spotify.com/track/0WIGmqsYeC6i5NLVAvFZzx) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Bolero Chiquito](https://open.spotify.com/album/4l4qChOYQE11ACMWwekFJs) | 2:20 |
+| 80 | [Contemplation](https://open.spotify.com/track/04QMzMxrwND0Tkh3Na0K6K) | [Sorrel Hauer](https://open.spotify.com/artist/5F8nqlAgRked7aLmw3uWlo) | [Contemplation](https://open.spotify.com/album/3yuVxlE4JhW8J4ZRvyMaqb) | 3:04 |
+| 81 | [Bolero Chiquito](https://open.spotify.com/track/0WIGmqsYeC6i5NLVAvFZzx) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Bolero Chiquito](https://open.spotify.com/album/4l4qChOYQE11ACMWwekFJs) | 2:20 |
+| 82 | [Maiestas](https://open.spotify.com/track/0rZYsX5OgshLXSj4zumlxx) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Maiestas](https://open.spotify.com/album/7oCpbL8Bgz9eoaYXc4Lyok) | 2:51 |
 | 83 | [With you](https://open.spotify.com/track/3saXbQ6vzfvSYTUcpBBm2t) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [With you](https://open.spotify.com/album/4DmiOhynq2H08YRRz2KEIf) | 2:17 |
 | 84 | [Pourquoi](https://open.spotify.com/track/23DPhQu9w09Vc4PkAd3zv2) | [Hector VallÇe](https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M) | [Pourquoi](https://open.spotify.com/album/1OWuvV6W1ajl6Lp0Lncp4Z) | 2:58 |
 | 85 | [Al buio con te](https://open.spotify.com/track/2xU7HfHYdDO8T4TVRJwvHJ) | [Nicola Conti](https://open.spotify.com/artist/6vfIB4LyqkmDQevucWiiif) | [Al buio con te](https://open.spotify.com/album/6emKARrpD8jsPvjXkZdQOs) | 2:16 |
@@ -299,9 +299,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXyq4CJGeZ5.md) - [plain]
 | 289 | [Minuit](https://open.spotify.com/track/7GzMpKkrr5zwsmtTIQk2EC) | [Clémentine Poirier](https://open.spotify.com/artist/0v781ChRVv7d2YR1zDUQOQ) | [Minuit](https://open.spotify.com/album/5gdYsIHo29QR7eX30KZosN) | 2:16 |
 | 290 | [Higo](https://open.spotify.com/track/4oBfjodJjWjJmYgDlZp7PV) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [Higo](https://open.spotify.com/album/4fgRDKhFP0XVWAYXgGdsH0) | 2:54 |
 | 291 | [Settle Down In Somewhere](https://open.spotify.com/track/1e8NCyJxZaMd1XNZhKO9ez) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Settle Down In Somewhere](https://open.spotify.com/album/3nVJWV34H2s7zigZIZnxTr) | 2:37 |
-| 292 | [Diamond](https://open.spotify.com/track/1eeBSZxZDYT2okIAhcZpno) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Diamond](https://open.spotify.com/album/1xKCiRGT3YFAjADTInkWTk) | 2:38 |
-| 293 | [Litany](https://open.spotify.com/track/6hNwn4kKfeuDJUDqNFI4s9) | [Daniella Babbitt](https://open.spotify.com/artist/11qA90NqXDlLWVji5Vmwct) | [Litany](https://open.spotify.com/album/5tGHP4Do2fHjjTB8y3egi5) | 2:52 |
-| 294 | [For a While](https://open.spotify.com/track/2DEvpe8l6pxp7izgwcxMiu) | [Maya Wilkes](https://open.spotify.com/artist/1swCRrKnEzyg4wMnKdXjC0) | [For a While](https://open.spotify.com/album/1loTmfeF7wNVfJ7p9VVISu) | 2:15 |
+| 292 | [Litany](https://open.spotify.com/track/6hNwn4kKfeuDJUDqNFI4s9) | [Daniella Babbitt](https://open.spotify.com/artist/11qA90NqXDlLWVji5Vmwct) | [Litany](https://open.spotify.com/album/5tGHP4Do2fHjjTB8y3egi5) | 2:52 |
+| 293 | [For a While](https://open.spotify.com/track/2DEvpe8l6pxp7izgwcxMiu) | [Maya Wilkes](https://open.spotify.com/artist/1swCRrKnEzyg4wMnKdXjC0) | [For a While](https://open.spotify.com/album/1loTmfeF7wNVfJ7p9VVISu) | 2:15 |
+| 294 | [Diamond](https://open.spotify.com/track/1eeBSZxZDYT2okIAhcZpno) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Diamond](https://open.spotify.com/album/1xKCiRGT3YFAjADTInkWTk) | 2:38 |
 | 295 | [We Won't Waltz Together](https://open.spotify.com/track/3tFwWjy78LQ2NOWANzWMdS) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [We Won't Waltz Together](https://open.spotify.com/album/5QMCSEHMqFmqOQhSWFQGWD) | 2:06 |
 | 296 | [Roots](https://open.spotify.com/track/4PzCduZiQfY4E4661r2V3u) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Roots](https://open.spotify.com/album/5wXRhc0L07nItoMPgEAso3) | 2:47 |
 | 297 | [Pointed Leaves](https://open.spotify.com/track/31u3s9hi7vrqm40Kh49j32) | [Bryan Zingerman](https://open.spotify.com/artist/3ba6Q8CQ6ENhKkyqtGnZlL) | [Four Waltz](https://open.spotify.com/album/64Xrn4iTMDdgRgUKBuO3Pc) | 2:46 |
@@ -385,8 +385,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXyq4CJGeZ5.md) - [plain]
 | 375 | [Raison d'etre](https://open.spotify.com/track/4zypTg1KZ3HNPcYqfWou6f) | [Matthew Mor](https://open.spotify.com/artist/3epJlQ4qcN08caWbdboMHw) | [Raison d'etre](https://open.spotify.com/album/267CXYk2upy1NS7lZ7pmjh) | 2:23 |
 | 376 | [Segui il tuo corso, e lascia dir genti](https://open.spotify.com/track/0EvQSUVoxGDvBXXe3VvtGp) | [Fioretta Rizzo](https://open.spotify.com/artist/3aG2UYHfqXOYEJ9YzHCBqZ) | [Segui il tuo corso, e lascia dir genti](https://open.spotify.com/album/5RYCpUNxzlewpfLomekT4J) | 2:32 |
 | 377 | [You Make It Look So Easy](https://open.spotify.com/track/1K0EF5MVFglZjojGngwn6P) | [Bea Boethius](https://open.spotify.com/artist/63QcI4ykgbf0wor4YYOQz5) | [You Make It Look So Easy](https://open.spotify.com/album/43RudrRuvcpO1umxMEZQWI) | 2:40 |
-| 378 | [Young and in love](https://open.spotify.com/track/3gN3GhksEJrSi4V39bokVa) | [James Keer](https://open.spotify.com/artist/2IJ2zbVdi2aR2DAM8boOE8) | [Young and in love](https://open.spotify.com/album/6tkfWEvSlq8omjKmV32Qdr) | 2:06 |
-| 379 | [Red Cottage](https://open.spotify.com/track/325uY8QdELU04pxe1q5FaB) | [Ingeborg](https://open.spotify.com/artist/0PsxBNpny2pv0B4dt3yQV2) | [Red Cottage](https://open.spotify.com/album/0P9Ix0cZ4W82aE7ZbSGbmy) | 2:24 |
+| 378 | [Red Cottage](https://open.spotify.com/track/325uY8QdELU04pxe1q5FaB) | [Ingeborg](https://open.spotify.com/artist/0PsxBNpny2pv0B4dt3yQV2) | [Red Cottage](https://open.spotify.com/album/0P9Ix0cZ4W82aE7ZbSGbmy) | 2:24 |
+| 379 | [Young and in love](https://open.spotify.com/track/3gN3GhksEJrSi4V39bokVa) | [James Keer](https://open.spotify.com/artist/2IJ2zbVdi2aR2DAM8boOE8) | [Young and in love](https://open.spotify.com/album/6tkfWEvSlq8omjKmV32Qdr) | 2:06 |
 | 380 | [The Pond](https://open.spotify.com/track/2fJLNEDPFM38gcXeY58WNa) | [Mads Hellmuth](https://open.spotify.com/artist/4Msoax7rmMKTsCwJKtGUda) | [Glass](https://open.spotify.com/album/15EG8tQC79eJTpMLkZaZGz) | 3:14 |
 | 381 | [Sleeping Sunrise](https://open.spotify.com/track/5CN6iGSYvvIVb3trc1xXiu) | [Carissa Malone](https://open.spotify.com/artist/7aOpKgb0COw4pXIdVVIqTx) | [Visionaries](https://open.spotify.com/album/6rdpheLWbeRsI6aKoOWB7z) | 2:56 |
 | 382 | [Sway](https://open.spotify.com/track/2Ju3X9pULxXmfvWre8o1E4) | [Arabelle](https://open.spotify.com/artist/1CCyqsGLyugbtE3V5X6Pwx) | [Sway](https://open.spotify.com/album/7xDCMEsitFIeae5UYDpaGR) | 2:32 |
@@ -439,4 +439,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXyq4CJGeZ5.md) - [plain]
 | 429 | [The Dancers](https://open.spotify.com/track/0IVtpsYy3n218ksSFFY56m) | [Bruno Bavota](https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH) | [The Dancers](https://open.spotify.com/album/05rmQtJCd8yAS1dBLhccN9) | 2:37 |
 | 430 | [We Persist](https://open.spotify.com/track/5cWCVoVOHjhUNm0I3JE06l) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [We Persist](https://open.spotify.com/album/7xalfDfiAV5jIbebi7uwtX) | 2:39 |
 
-Snapshot ID: `MCw4Zjk1NzY1NjdjNzZjNGI2YTY0YzRkZTg3NjRkODlhMDc3Y2U5NTRk`
+Snapshot ID: `MCwxZWZlZmFhODA1NWYyMDc5NTQ1Mzk1OGYyZTlmMzQ2OGVlMzdlOGVi`

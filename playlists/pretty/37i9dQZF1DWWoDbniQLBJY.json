@@ -1,12 +1,12 @@
 {
   "description": "Aqu\u00ed viven las canciones ac\u00fasticas. Cover: Maria Becerra",
-  "num_followers": 1940615,
+  "num_followers": 1940606,
   "original_name": "Ac\u00fasticas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmM5ODYxOTRlMDIzNWRjZTMzZmVlYzE4MjJiNDVlMGE0N2E0NTI5",
+  "snapshot_id": "MCxmZTEwZWJhNjhmOWY0ZmM4OTFiYTEzNGE4M2Y2N2I3Yzk1ZTdkZWY0",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -187,26 +187,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Dharma",
-        "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 271893,
-      "name": "Quererte Bonito",
-      "url": "https://open.spotify.com/track/3uUJWiEkIePGTDju0Ff2Qb"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Mi Verdad (feat. Shakira)",
         "url": "https://open.spotify.com/album/0sdNte5fJ855Bcut5yF9Sv"
       },
@@ -223,6 +203,26 @@
       "duration_ms": 272576,
       "name": "Mi Verdad (feat. Shakira)",
       "url": "https://open.spotify.com/track/3fLULPPtmfVkGMnwAhHAij"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Dharma",
+        "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 271893,
+      "name": "Quererte Bonito",
+      "url": "https://open.spotify.com/track/3uUJWiEkIePGTDju0Ff2Qb"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -411,6 +411,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Al otro lado del rio",
+        "url": "https://open.spotify.com/album/5P3g95p2KfPCOlD5Zca9Xi"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 194626,
+      "name": "Al otro lado del r\u00edo",
+      "url": "https://open.spotify.com/track/5BudpQ0Ct9sss8c9Fqv9MJ"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "El Color de Tus Ojos (Versi\u00f3n Ac\u00fastica)",
         "url": "https://open.spotify.com/album/0oPqmNycT3rm72Qp6KcvLU"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 231990,
       "name": "C\u00f3mo Te Atreves - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/1hGcChJGpozz03cXw0aOjB"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Al otro lado del rio",
-        "url": "https://open.spotify.com/album/5P3g95p2KfPCOlD5Zca9Xi"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 194626,
-      "name": "Al otro lado del r\u00edo",
-      "url": "https://open.spotify.com/track/5BudpQ0Ct9sss8c9Fqv9MJ"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Despacito (Acoustic)",
+        "url": "https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB"
+      },
+      "artists": [
+        {
+          "name": "Aberola",
+          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
+        }
+      ],
+      "duration_ms": 218108,
+      "name": "Despacito - Acoustic",
+      "url": "https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Preso (Grabado en ONErpm Studios)",
         "url": "https://open.spotify.com/album/7zeQVlK0bClZRzg7pc0bRt"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 185975,
       "name": "Veneno - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/31CiU58drf9xYA9VEOFDfW"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Despacito (Acoustic)",
-        "url": "https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB"
-      },
-      "artists": [
-        {
-          "name": "Aberola",
-          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
-        }
-      ],
-      "duration_ms": 218108,
-      "name": "Despacito - Acoustic",
-      "url": "https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT"
     },
     {
       "added_at": "2024-02-23 05:00:00",

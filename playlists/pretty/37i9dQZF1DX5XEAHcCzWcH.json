@@ -1,12 +1,12 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 34099,
+  "num_followers": 34130,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGFmODRjNGUzZmIzNGZiOWRmMTg5MWZkMDUxNjNjYjdkZjc0MjEy",
+  "snapshot_id": "MCwzZDE1ZGM0OTNiOWY5NGMxZjc3ZGY1Y2M3NmViMmM2NmJkMTRmMmVj",
   "tracks": [
     {
       "added_at": "2023-09-15 11:43:10",
@@ -91,18 +91,18 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
-        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+        "name": "Sweet Giant of the Blues",
+        "url": "https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw"
       },
       "artists": [
         {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
         }
       ],
-      "duration_ms": 160226,
-      "name": "Mess Around",
-      "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
+      "duration_ms": 366826,
+      "name": "Bird in a Cage",
+      "url": "https://open.spotify.com/track/2Xx66yeqdxjPViOEkKFkB4"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -119,22 +119,6 @@
       "duration_ms": 175773,
       "name": "Hard Times (No One Knows Better Than I)",
       "url": "https://open.spotify.com/track/4ADzk9oX44sCGJPE5OjNcW"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
-        "name": "Sweet Giant of the Blues",
-        "url": "https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw"
-      },
-      "artists": [
-        {
-          "name": "Otis Spann",
-          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
-        }
-      ],
-      "duration_ms": 366826,
-      "name": "Bird in a Cage",
-      "url": "https://open.spotify.com/track/2Xx66yeqdxjPViOEkKFkB4"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -171,6 +155,22 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
+        "name": "Blues From The Gutter",
+        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
+      },
+      "artists": [
+        {
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+        }
+      ],
+      "duration_ms": 261092,
+      "name": "Evil Woman",
+      "url": "https://open.spotify.com/track/7lpsRa4kcNoxSHUDNDXpnn"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
         "name": "Johnnie B. Bad",
         "url": "https://open.spotify.com/album/6kCsbrIJOMSRdZI0T3wsRD"
       },
@@ -199,22 +199,6 @@
       "duration_ms": 154840,
       "name": "Boogie In \"G\"",
       "url": "https://open.spotify.com/track/3yY7zC0l6XJTub645Wa6uZ"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
-        "name": "Blues From The Gutter",
-        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
-      },
-      "artists": [
-        {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
-        }
-      ],
-      "duration_ms": 261092,
-      "name": "Evil Woman",
-      "url": "https://open.spotify.com/track/7lpsRa4kcNoxSHUDNDXpnn"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -295,6 +279,22 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
+        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
+        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 160226,
+      "name": "Mess Around",
+      "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
         "name": "Presenting Blind Blake",
         "url": "https://open.spotify.com/album/2PWkHBhiBe10JBYFYO4kqd"
       },
@@ -339,6 +339,22 @@
       "duration_ms": 190666,
       "name": "I Don't Know",
       "url": "https://open.spotify.com/track/7J8g9n29cAxSlLxeHrKCLI"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "Shake Rattle & Rock",
+        "url": "https://open.spotify.com/album/3srwW4zf3HJcOItxUokJgI"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Turner",
+          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+        }
+      ],
+      "duration_ms": 177439,
+      "name": "Boogie Woogie Country Girl",
+      "url": "https://open.spotify.com/track/23QW9fg9KaWS4Jza41DuIT"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -411,22 +427,6 @@
       "duration_ms": 236733,
       "name": "Lovesick Soul",
       "url": "https://open.spotify.com/track/0E3Ck752Kw29gVpyAVDLDo"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
-        "name": "Shake Rattle & Rock",
-        "url": "https://open.spotify.com/album/3srwW4zf3HJcOItxUokJgI"
-      },
-      "artists": [
-        {
-          "name": "Big Joe Turner",
-          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
-        }
-      ],
-      "duration_ms": 177439,
-      "name": "Boogie Woogie Country Girl",
-      "url": "https://open.spotify.com/track/23QW9fg9KaWS4Jza41DuIT"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
+        "name": "Living Chicago Blues, Vol. 4",
+        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
+      },
+      "artists": [
+        {
+          "name": "Detroit Junior",
+          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
+        }
+      ],
+      "duration_ms": 322426,
+      "name": "Somebody To Shack",
+      "url": "https://open.spotify.com/track/3UpZ22PXoxj2nRzIOXbuFN"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
         "name": "I Didn't Give a Damn If Whites Bought It, Vol. 4",
         "url": "https://open.spotify.com/album/0bbZ3fsCdmUiKiZwVkY8W8"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 231632,
       "name": "Tipitina",
       "url": "https://open.spotify.com/track/764IqpFAE6Xe7WVXavGchU"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
-        "name": "Plays Mac Rebennack",
-        "url": "https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 250877,
-      "name": "Wade In The Water",
-      "url": "https://open.spotify.com/track/4cfHsToPXfIcBFwIqokmaO"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -759,18 +759,18 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Living Chicago Blues, Vol. 4",
-        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
+        "name": "Plays Mac Rebennack",
+        "url": "https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS"
       },
       "artists": [
         {
-          "name": "Detroit Junior",
-          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
         }
       ],
-      "duration_ms": 322426,
-      "name": "Somebody To Shack",
-      "url": "https://open.spotify.com/track/3UpZ22PXoxj2nRzIOXbuFN"
+      "duration_ms": 250877,
+      "name": "Wade In The Water",
+      "url": "https://open.spotify.com/track/4cfHsToPXfIcBFwIqokmaO"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Plays Mac Rebennack",
-        "url": "https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 191586,
-      "name": "Pinetop",
-      "url": "https://open.spotify.com/track/4Nziu79KIsKHe7rkfvcPLn"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "The Honeydripper",
         "url": "https://open.spotify.com/album/6ItEdGX4FUD7O1MFPeUoLm"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 185600,
       "name": "Early in the Morning",
       "url": "https://open.spotify.com/track/6LnP6nCXhVeRtDaKJU1omH"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "Plays Mac Rebennack",
+        "url": "https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 191586,
+      "name": "Pinetop",
+      "url": "https://open.spotify.com/track/4Nziu79KIsKHe7rkfvcPLn"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "SUN STUDIO STORY",
-        "url": "https://open.spotify.com/album/5epU2OecYpVApVosZYDW9m"
-      },
-      "artists": [
-        {
-          "name": "Booker T. Laury",
-          "url": "https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH"
-        }
-      ],
-      "duration_ms": 272240,
-      "name": "Early In The Morning",
-      "url": "https://open.spotify.com/track/0YbX9uVeQs6i4BuGL8ovUg"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "The Blue Horizon Story (1965-1970)",
         "url": "https://open.spotify.com/album/6LAgwOR5Rh9VmCIosaSxkM"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 170106,
       "name": "Empty Arms",
       "url": "https://open.spotify.com/track/4vuAINkUeHcx9JApp7fZKx"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "SUN STUDIO STORY",
+        "url": "https://open.spotify.com/album/5epU2OecYpVApVosZYDW9m"
+      },
+      "artists": [
+        {
+          "name": "Booker T. Laury",
+          "url": "https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH"
+        }
+      ],
+      "duration_ms": 272240,
+      "name": "Early In The Morning",
+      "url": "https://open.spotify.com/track/0YbX9uVeQs6i4BuGL8ovUg"
     },
     {
       "added_at": "2023-09-15 11:43:10",

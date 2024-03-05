@@ -1,12 +1,12 @@
 {
   "description": "It's the witching hours. ",
-  "num_followers": 132483,
+  "num_followers": 132494,
   "original_name": "Protect Your Energy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzhhNDZmZTFhMjAwMDI4MWI5MzJlYWU1YjhlYWFhZTNiMWU4ZjJl",
+  "snapshot_id": "MCxiNmY1OGVhNzI1NWE0MTJiMGI3ZjQ5NTdhNWNlZGVjZGUzNjBjODYw",
   "tracks": [
     {
       "added_at": "2023-07-11 23:25:54",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-07-11 23:25:54",
       "album": {
-        "name": "Chemtrails Over The Country Club",
-        "url": "https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 271176,
-      "name": "Chemtrails Over The Country Club",
-      "url": "https://open.spotify.com/track/7bPWdJgx8vek7S5i5yAtvG"
-    },
-    {
-      "added_at": "2023-07-11 23:25:54",
-      "album": {
         "name": "Melophobia",
         "url": "https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 255067,
       "name": "What Once Was",
       "url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk"
+    },
+    {
+      "added_at": "2023-07-11 23:25:54",
+      "album": {
+        "name": "Chemtrails Over The Country Club",
+        "url": "https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 271176,
+      "name": "Chemtrails Over The Country Club",
+      "url": "https://open.spotify.com/track/7bPWdJgx8vek7S5i5yAtvG"
     },
     {
       "added_at": "2023-07-11 23:25:54",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-07-11 23:25:54",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 259186,
-      "name": "Cherry",
-      "url": "https://open.spotify.com/track/2IOFZdYYkFxEHVz1w34PoL"
-    },
-    {
-      "added_at": "2023-07-11 23:25:54",
-      "album": {
         "name": "Fleetwood Mac",
         "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 252773,
       "name": "Rhiannon",
       "url": "https://open.spotify.com/track/05oETzWbd4SI33qK2gbJfR"
+    },
+    {
+      "added_at": "2023-07-11 23:25:54",
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 259186,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/2IOFZdYYkFxEHVz1w34PoL"
     },
     {
       "added_at": "2023-07-11 23:25:54",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,011 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,090 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 28 | [Zóio De Lula](https://open.spotify.com/track/0qmzAFEijLDdvR2VbjFsPH) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Transpiração Contínua Prolongada \- Edição Comemorativa](https://open.spotify.com/album/0GBMhUusSjw9soVbVFRERp) | 4:12 |
 | 29 | [Rouxinóis](https://open.spotify.com/track/6jNzezczLLfgHf1sq7xPFb) | [Alma Djem](https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0) | [Rouxinóis](https://open.spotify.com/album/6C7r5cHBd87KOXl8JMgN8W) | 3:10 |
 | 30 | [Go Back](https://open.spotify.com/track/1CbfQxR8BrepwWRS8RwS3e) | [Patrícia Ahmaral](https://open.spotify.com/artist/2iWBU8uSOix81wnZtwDqLx), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Go Back](https://open.spotify.com/album/1XjmTQqDIvqsbR9oVQC39y) | 3:10 |
-| 31 | [pequena \- Ao Vivo](https://open.spotify.com/track/5EqU0CRq0k4ZRg95lRoxRp) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Ao Vivo Em São Paulo](https://open.spotify.com/album/2pKxo9wod5y9eKezCaCK3Q) | 2:54 |
-| 32 | [Uma Noite E 1/2](https://open.spotify.com/track/5GlfIGn9OlBlo9YVMENbzS) | [Rodrigo Costa](https://open.spotify.com/artist/2HKe0e9UKKX1aBRvY0nmL7) | [Uma Noite E 1/2](https://open.spotify.com/album/3CJRazEYFedeCnvMtHvtua) | 2:50 |
-| 33 | [Saquarema \- Remix](https://open.spotify.com/track/3UroqLcI69FDBw4l41iVGO) | [Blitz](https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ) | [Saquarema \(Remix\)](https://open.spotify.com/album/7sWij8NaethU2vuouVcjgr) | 3:52 |
-| 34 | [LEVE](https://open.spotify.com/track/7dnmU4oMR74LOnR9x5NQUo) | [Thiago Muller](https://open.spotify.com/artist/6WyIBfeJIvg5bYY0GRFZwi) | [LEVE](https://open.spotify.com/album/2SSx10zSB8ZtF98MgDEKvr) | 2:23 |
+| 31 | [Uma Noite E 1/2](https://open.spotify.com/track/5GlfIGn9OlBlo9YVMENbzS) | [Rodrigo Costa](https://open.spotify.com/artist/2HKe0e9UKKX1aBRvY0nmL7) | [Uma Noite E 1/2](https://open.spotify.com/album/3CJRazEYFedeCnvMtHvtua) | 2:50 |
+| 32 | [Saquarema \- Remix](https://open.spotify.com/track/3UroqLcI69FDBw4l41iVGO) | [Blitz](https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ) | [Saquarema \(Remix\)](https://open.spotify.com/album/7sWij8NaethU2vuouVcjgr) | 3:52 |
+| 33 | [LEVE](https://open.spotify.com/track/7dnmU4oMR74LOnR9x5NQUo) | [Thiago Muller](https://open.spotify.com/artist/6WyIBfeJIvg5bYY0GRFZwi) | [LEVE](https://open.spotify.com/album/2SSx10zSB8ZtF98MgDEKvr) | 2:23 |
+| 34 | [pequena \- Ao Vivo](https://open.spotify.com/track/5EqU0CRq0k4ZRg95lRoxRp) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Ao Vivo Em São Paulo](https://open.spotify.com/album/2pKxo9wod5y9eKezCaCK3Q) | 2:54 |
 | 35 | [Fica um Pouco Mais](https://open.spotify.com/track/0NnqH4MMr3sGyGeV9UuLP1) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv) | [Fica um Pouco Mais](https://open.spotify.com/album/3VyPThQg2jJKs5cLmSZPSr) | 2:43 |
 | 36 | [Sem Medo](https://open.spotify.com/track/2zEdAMvFYrYjuWk6lExQfB) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Sessão Aberta Acústico](https://open.spotify.com/album/0WpWvWY5iKQTYuNnqum8qI) | 4:05 |
 | 37 | [Tchau Querido](https://open.spotify.com/track/5YRYqGDj8I2QVq9hihSZA8) | [Pilar](https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe) | [Ascenda](https://open.spotify.com/album/17vkIbWTbSp2oy4ZlXn0y8) | 3:37 |
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 42 | [Vou Agradecer](https://open.spotify.com/track/6FpK0zclfVVqFBQHxxp4cl) | [Gabriel Carmo](https://open.spotify.com/artist/5apI1VSAPnJvQWMMUpQXPc), [Manu Testa](https://open.spotify.com/artist/15xByX487ejik5EeNySqxQ) | [Vou Agradecer](https://open.spotify.com/album/41TqnxKqqb5N0HlkVlBk0A) | 3:39 |
 | 43 | [Minha Ilha](https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v) | [Gabriel Oliveira](https://open.spotify.com/artist/5tvMRnrx7V0hJc4XhbqEtr) | [Minha Ilha](https://open.spotify.com/album/0sOnQvXTfgv9zyrf1Mi7Zj) | 3:43 |
 | 44 | [Por aí](https://open.spotify.com/track/7zfACboYexn19rWa8mwCFA) | [Suwave](https://open.spotify.com/artist/3Phb6QnBcerqU7CgREycRe) | [Por Aí](https://open.spotify.com/album/1dlrX9KQDl0iGEvrj1ho8L) | 3:05 |
-| 45 | [O Que te Faz Viver](https://open.spotify.com/track/29MSWdwb1Z6s74JIT7FyzS) | [Kallibre](https://open.spotify.com/artist/6ko7vi5bpxvolJ9g47pve7) | [O Que te Faz Viver](https://open.spotify.com/album/0ejMTMDQ4kWbJDimnXPNIr) | 3:50 |
-| 46 | [Avenida da Paixão](https://open.spotify.com/track/6G0KUN8I6R0xN9M2jmDlNX) | [Pagui](https://open.spotify.com/artist/7bSkVdJAG3faHcw3lnBK7y) | [Avenida da Paixão](https://open.spotify.com/album/4k7qkWs4sfeJc4cl628ynJ) | 2:32 |
-| 47 | [sei lá](https://open.spotify.com/track/3WgjuBYZ4lbcMewRspPd96) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [tudo é mt distante](https://open.spotify.com/album/6TPmiamOTKCDhsn5O5kmtv) | 3:12 |
-| 48 | [Frequência do Amor](https://open.spotify.com/track/5uhttrGCBD63qRmJbQOmM1) | [Vitti Romera](https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk) | [Frequência do Amor](https://open.spotify.com/album/4xDj13FFF1V1qDwnQ8mHie) | 2:41 |
+| 45 | [Frequência do Amor](https://open.spotify.com/track/5uhttrGCBD63qRmJbQOmM1) | [Vitti Romera](https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk) | [Frequência do Amor](https://open.spotify.com/album/4xDj13FFF1V1qDwnQ8mHie) | 2:41 |
+| 46 | [O Que te Faz Viver](https://open.spotify.com/track/29MSWdwb1Z6s74JIT7FyzS) | [Kallibre](https://open.spotify.com/artist/6ko7vi5bpxvolJ9g47pve7) | [O Que te Faz Viver](https://open.spotify.com/album/0ejMTMDQ4kWbJDimnXPNIr) | 3:50 |
+| 47 | [Avenida da Paixão](https://open.spotify.com/track/6G0KUN8I6R0xN9M2jmDlNX) | [Pagui](https://open.spotify.com/artist/7bSkVdJAG3faHcw3lnBK7y) | [Avenida da Paixão](https://open.spotify.com/album/4k7qkWs4sfeJc4cl628ynJ) | 2:32 |
+| 48 | [sei lá](https://open.spotify.com/track/3WgjuBYZ4lbcMewRspPd96) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [tudo é mt distante](https://open.spotify.com/album/6TPmiamOTKCDhsn5O5kmtv) | 3:12 |
 | 49 | [Que Vem Do Mar](https://open.spotify.com/track/0HnnjltageT1ZwKjVeG1u8) | [Angatu](https://open.spotify.com/artist/6y4sd9nPIx1gPjsnJDkqym), [Dasplanta](https://open.spotify.com/artist/2I3K4rd8YZHLYk6kXeSkKP), [Krabah](https://open.spotify.com/artist/1hfD9VGvCUYoQiB43vsHZB) | [Que Vem Do Mar](https://open.spotify.com/album/6aXTdntsgmdS6VLhVumua0) | 4:00 |
 | 50 | [Filho do Mar](https://open.spotify.com/track/3kVixQI3JlFiIUPy3jjck9) | [Banda Nossa Praia](https://open.spotify.com/artist/7ES8RFsuGv3pM0x34FSTIv) | [Filho do Mar](https://open.spotify.com/album/4ZVhVkoYsJn5ZykZfQGfBO) | 3:35 |
 | 51 | [Sol da Meia\-Noite](https://open.spotify.com/track/4bRazVEpf2S9L7Uy6yy7Rt) | [Nathan Carvalho](https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl), [Zeider](https://open.spotify.com/artist/6r9jXjPwsd3OP4aCSfYRhW) | [Sol da Meia\-Noite](https://open.spotify.com/album/28W7g8L3MysCINCqaLOgN7) | 3:29 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 59 | [O Que a Levada Pede](https://open.spotify.com/track/4QIYe2KUsCseRCK2WDOGym) | [Vitin](https://open.spotify.com/artist/2d92LVCevmO89rznIQqOhL) | [O Que a Levada Pede](https://open.spotify.com/album/4p3tg1AsZkO9DlpmAOTThg) | 2:07 |
 | 60 | [Abre a Janela](https://open.spotify.com/track/1BpohBNMRmbD2mbm1Z0PBZ) | [Maresia Ragga Surf](https://open.spotify.com/artist/7N2LChaHcTgIP5jCPT6TGx) | [Abre a Janela](https://open.spotify.com/album/4DNJ8zWxSi0LQEPZ0RD3os) | 4:42 |
 
-Snapshot ID: `MCw1OTA1NWM0MWQxYjA4NWMxM2Q1ZjZhMmE2MzBlZGUzOTYwZGEzNDIw`
+Snapshot ID: `MCw3OGE4MTJjNTlkY2ZkNWExMmM1NGQ3MmUxZmI5MjUyOWRkODUzZGQz`

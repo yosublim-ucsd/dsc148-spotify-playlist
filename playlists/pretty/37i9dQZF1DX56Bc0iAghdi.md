@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 
 > Songs of love, hope and positivity for the world\.   Listen with Spirit!  Cover: Hannah Kerr
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,095 likes - 65 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,132 likes - 65 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 7 | [Holy Water](https://open.spotify.com/track/1xI9KSGNJB2eka8FMvovvi) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Holy Water](https://open.spotify.com/album/5xAesqK2Ke6g4Y0W9CSijV) | 4:02 |
 | 8 | [I'll Find You \(feat\. Tori Kelly\)](https://open.spotify.com/track/05hdZ0YRqAg6qsgV1ee3LE) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [I'll Find You \(feat\. Tori Kelly\)](https://open.spotify.com/album/4YOkLua2AMiyZYbocWWVqM) | 3:38 |
 | 9 | [Scars \(Come With Livin'\)](https://open.spotify.com/track/5CYMOjWrVWZqHGv2ObF5mr) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [The Elements](https://open.spotify.com/album/7th3D4IFJFSGajVlS4DheM) | 4:21 |
-| 10 | [Forever on Your Side \(with JOHNNYSWIM\)](https://open.spotify.com/track/598Dy3TgV1SQulwjPOM0Z2) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Forever on Your Side \(Niles City Sound Sessions\)](https://open.spotify.com/album/3qPcOQNFQgqvkEperYIjOq) | 4:54 |
-| 11 | [Dear God](https://open.spotify.com/track/6k9nsVCSf6QO1WnFsCsmVf) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Wild Blue, Part I](https://open.spotify.com/album/3xDD4CKNUEVmhOL1IY8MAL) | 2:55 |
-| 12 | [Only Ever](https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Only Ever](https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte) | 3:21 |
+| 10 | [Dear God](https://open.spotify.com/track/6k9nsVCSf6QO1WnFsCsmVf) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Wild Blue, Part I](https://open.spotify.com/album/3xDD4CKNUEVmhOL1IY8MAL) | 2:55 |
+| 11 | [Only Ever](https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Only Ever](https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte) | 3:21 |
+| 12 | [Forever on Your Side \(with JOHNNYSWIM\)](https://open.spotify.com/track/598Dy3TgV1SQulwjPOM0Z2) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Forever on Your Side \(Niles City Sound Sessions\)](https://open.spotify.com/album/3qPcOQNFQgqvkEperYIjOq) | 4:54 |
 | 13 | [Future](https://open.spotify.com/track/2CF9nJbfB541d6YTPQufcz) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Future](https://open.spotify.com/album/65fqN6r9pytPCPcWiaulDi) | 3:54 |
 | 14 | [I'm Gonna Let It Go](https://open.spotify.com/track/3sBPqE3LXl3ncVUzpkXfjK) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [Order, Disorder, Reorder](https://open.spotify.com/album/4OB5WhwM3ApWRJ97GEF9Lc) | 3:09 |
 | 15 | [WILD LOVE](https://open.spotify.com/track/6O3GXI34itpMqZbBYHNgoX) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [WILD LOVE](https://open.spotify.com/album/6egEvDkcMBG9XDAsIvaOsE) | 2:47 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 64 | [Battle](https://open.spotify.com/track/6IXJtvISqPxhe3wmm9iCWN) | [Miqueas Lopez](https://open.spotify.com/artist/3CtCrWU7itUfsXGE9cPwMn) | [Battle](https://open.spotify.com/album/3iIZE417H5P3jUhpS87rFp) | 3:07 |
 | 65 | [Lead the Way](https://open.spotify.com/track/4kOe0ZUSIlIjXsZSx4zFBz) | [Caleb Crino](https://open.spotify.com/artist/2H6txjI4kswHScMO8VYtkG) | [Caleb Crino](https://open.spotify.com/album/4uW1eDXAs4KollydvzHLJa) | 3:15 |
 
-Snapshot ID: `MCw2NTk2NGI5YzFiYjgyYWExNzNjZTcyMjk1MmNhZDE5MjFlNDE1NzE2`
+Snapshot ID: `MCw4Nzk4YjI3ZWY1YmVlY2ViYjc3NDQzZDE2ZDA1OWFkY2E0ZDUzZGZl`

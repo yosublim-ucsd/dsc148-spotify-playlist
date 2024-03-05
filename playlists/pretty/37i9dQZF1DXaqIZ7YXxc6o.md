@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Flight Facilities, Owl Eyes
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,745 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,734 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 99 | [Suffocate Me](https://open.spotify.com/track/1kRFs2DPSSTdmoewwbwLbA) | [Akala Newman](https://open.spotify.com/artist/45nmkIvpt1SCzsEENmhbJF) | [Suffocate Me](https://open.spotify.com/album/3lwePSnD2atyhayyhwgaDd) | 2:52 |
 | 100 | [SHELLSHOCK](https://open.spotify.com/track/1hGA3eZuKXc3EaXYRCX7Ux) | [TWERL](https://open.spotify.com/artist/3pJlam8yODJN1AEzmTVGko) | [HOOLIGAN EP](https://open.spotify.com/album/6IaOEambxijbpW3M1SxU2H) | 2:43 |
 
-Snapshot ID: `MCw2NTY5YjQwZGVhNTU0ODM1ZjdlMzFmOTQ2ZDgxMzNjYzA0ZmUyNTMw`
+Snapshot ID: `MCxjMWViMTlhMWI1OTFjM2ZlMTBlNjllOWQwYTlkODJhMDc2Yzk3ZWZh`

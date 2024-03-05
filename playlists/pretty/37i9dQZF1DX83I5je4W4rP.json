@@ -1,12 +1,12 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1059457,
+  "num_followers": 1059480,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTE4NWJlMzYzMzlhYjViNDFmN2QyODhjMTJmZTZmZTRhY2RlNDg0",
+  "snapshot_id": "MCwzNmY3NjE2NThlMDRmMjA3NzIwMWEyNDQ1OWJlM2Q5OGYwYTRiM2I5",
   "tracks": [
     {
       "added_at": "2023-11-13 22:46:04",
@@ -251,18 +251,18 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Closer to the Sun",
-        "url": "https://open.spotify.com/album/5FWZm9haAG0NhY6WmdS4oW"
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/655KljKIXl42fiNDMKivbY"
       },
       "artists": [
         {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 145560,
-      "name": "Closer to the Sun",
-      "url": "https://open.spotify.com/track/1UL8GkVAs6UcWF6BZ3DYZt"
+      "duration_ms": 172933,
+      "name": "One Love / People Get Ready",
+      "url": "https://open.spotify.com/track/7oNgPClUYdscWWHa5PF1gT"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -283,6 +283,22 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
+        "name": "Closer to the Sun",
+        "url": "https://open.spotify.com/album/5FWZm9haAG0NhY6WmdS4oW"
+      },
+      "artists": [
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        }
+      ],
+      "duration_ms": 145560,
+      "name": "Closer to the Sun",
+      "url": "https://open.spotify.com/track/1UL8GkVAs6UcWF6BZ3DYZt"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
         "name": "Dragonfly",
         "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
       },
@@ -299,34 +315,18 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Jah Won't Pay The Bills",
-        "url": "https://open.spotify.com/album/02VqlfUtNMogzTh1lckGOF"
+        "name": "Gettin' Filthy",
+        "url": "https://open.spotify.com/album/3iIUl1OTJKggsB7m8JGE11"
       },
       "artists": [
         {
-          "name": "Sublime",
-          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+          "name": "The Expendables",
+          "url": "https://open.spotify.com/artist/2OpHxx1SArSMlBrIMM0aV9"
         }
       ],
-      "duration_ms": 188085,
-      "name": "Badfish",
-      "url": "https://open.spotify.com/track/4paJ10JPNCyOaLtz2cY928"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/655KljKIXl42fiNDMKivbY"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 172933,
-      "name": "One Love / People Get Ready",
-      "url": "https://open.spotify.com/track/7oNgPClUYdscWWHa5PF1gT"
+      "duration_ms": 283426,
+      "name": "Bowl For Two",
+      "url": "https://open.spotify.com/track/7wCgKgkuthR3K568qESxDp"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -347,18 +347,18 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Everything You Need",
-        "url": "https://open.spotify.com/album/4MJf9OmWPH5zlvRAfoIWx6"
+        "name": "Jah Won't Pay The Bills",
+        "url": "https://open.spotify.com/album/02VqlfUtNMogzTh1lckGOF"
       },
       "artists": [
         {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
         }
       ],
-      "duration_ms": 133080,
-      "name": "Collie Man",
-      "url": "https://open.spotify.com/track/0psXs0SxH2hGnJoj8C2fFf"
+      "duration_ms": 188085,
+      "name": "Badfish",
+      "url": "https://open.spotify.com/track/4paJ10JPNCyOaLtz2cY928"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Gettin' Filthy",
-        "url": "https://open.spotify.com/album/3iIUl1OTJKggsB7m8JGE11"
+        "name": "Everything You Need",
+        "url": "https://open.spotify.com/album/4MJf9OmWPH5zlvRAfoIWx6"
       },
       "artists": [
         {
-          "name": "The Expendables",
-          "url": "https://open.spotify.com/artist/2OpHxx1SArSMlBrIMM0aV9"
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
         }
       ],
-      "duration_ms": 283426,
-      "name": "Bowl For Two",
-      "url": "https://open.spotify.com/track/7wCgKgkuthR3K568qESxDp"
+      "duration_ms": 133080,
+      "name": "Collie Man",
+      "url": "https://open.spotify.com/track/0psXs0SxH2hGnJoj8C2fFf"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -595,6 +595,26 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
+        "name": "Any Port in a Storm (Special Edition)",
+        "url": "https://open.spotify.com/album/7scLSyggM3EvytUY325PKC"
+      },
+      "artists": [
+        {
+          "name": "Dirty Heads",
+          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
+        },
+        {
+          "name": "Rome",
+          "url": "https://open.spotify.com/artist/7hlcwaLWsbcwOkPtdxRoCa"
+        }
+      ],
+      "duration_ms": 215146,
+      "name": "Lay Me Down (feat. Rome)",
+      "url": "https://open.spotify.com/track/27cyWPYManSTHiwMreSuGB"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
         "name": "Tribal Seeds",
         "url": "https://open.spotify.com/album/6wmbkqwaT1z87mPMKxxhfN"
       },
@@ -627,26 +647,6 @@
       "duration_ms": 288863,
       "name": "Here I Am",
       "url": "https://open.spotify.com/track/1YerDWS5vQE35RjTe53CDR"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
-        "name": "Any Port in a Storm (Special Edition)",
-        "url": "https://open.spotify.com/album/7scLSyggM3EvytUY325PKC"
-      },
-      "artists": [
-        {
-          "name": "Dirty Heads",
-          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
-        },
-        {
-          "name": "Rome",
-          "url": "https://open.spotify.com/artist/7hlcwaLWsbcwOkPtdxRoCa"
-        }
-      ],
-      "duration_ms": 215146,
-      "name": "Lay Me Down (feat. Rome)",
-      "url": "https://open.spotify.com/track/27cyWPYManSTHiwMreSuGB"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -1039,50 +1039,6 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Beauty In The Silence",
-        "url": "https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8"
-      },
-      "artists": [
-        {
-          "name": "SOJA",
-          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
-        },
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
-        }
-      ],
-      "duration_ms": 274810,
-      "name": "Press Rewind",
-      "url": "https://open.spotify.com/track/1Js26hznhkLlFeRoxCtyNq"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
-        "name": "A Thousand Times",
-        "url": "https://open.spotify.com/album/1Ggg9w76ZhbqGlflz7PzR5"
-      },
-      "artists": [
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        },
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
-        }
-      ],
-      "duration_ms": 197183,
-      "name": "A Thousand Times",
-      "url": "https://open.spotify.com/track/05DVJrR6du2E1iU0p6izrC"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
         "name": "Down with You",
         "url": "https://open.spotify.com/album/6NrOQKsvkxcCDIOsnHJyEa"
       },
@@ -1111,6 +1067,26 @@
       "duration_ms": 131855,
       "name": "Goodbyes",
       "url": "https://open.spotify.com/track/6kpKgO0iPsRkmslT5woRh5"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
+        "name": "A Thousand Times",
+        "url": "https://open.spotify.com/album/1Ggg9w76ZhbqGlflz7PzR5"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        },
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        }
+      ],
+      "duration_ms": 197183,
+      "name": "A Thousand Times",
+      "url": "https://open.spotify.com/track/05DVJrR6du2E1iU0p6izrC"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -1147,6 +1123,30 @@
       "duration_ms": 199506,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/0sgwQ68fvcBjsQXzogGC1O"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
+        "name": "Beauty In The Silence",
+        "url": "https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8"
+      },
+      "artists": [
+        {
+          "name": "SOJA",
+          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        }
+      ],
+      "duration_ms": 274810,
+      "name": "Press Rewind",
+      "url": "https://open.spotify.com/track/1Js26hznhkLlFeRoxCtyNq"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -1331,6 +1331,26 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
+        "name": "Way of Life (with Slightly Stoopid)",
+        "url": "https://open.spotify.com/album/1bp9MTK6nCCpNEH257yo2t"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        }
+      ],
+      "duration_ms": 253794,
+      "name": "Way of Life (with Slightly Stoopid)",
+      "url": "https://open.spotify.com/track/3Ov05KIwJljawDuWbd7oKn"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
         "name": "Effection",
         "url": "https://open.spotify.com/album/7DRW2mILmVTbyitwdNBdzU"
       },
@@ -1343,6 +1363,22 @@
       "duration_ms": 209250,
       "name": "Digital Heaven",
       "url": "https://open.spotify.com/track/5V7ge7ltQ3LTUXNNcRVWqw"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
+        "name": "Voyager",
+        "url": "https://open.spotify.com/album/5PdXV8lvbR9xLOPYTdrDEG"
+      },
+      "artists": [
+        {
+          "name": "311",
+          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+        }
+      ],
+      "duration_ms": 203912,
+      "name": "Good Feeling",
+      "url": "https://open.spotify.com/track/6ZXODzDislboN4mffec8NM"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -1367,42 +1403,6 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Way of Life (with Slightly Stoopid)",
-        "url": "https://open.spotify.com/album/1bp9MTK6nCCpNEH257yo2t"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        },
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
-        }
-      ],
-      "duration_ms": 253794,
-      "name": "Way of Life (with Slightly Stoopid)",
-      "url": "https://open.spotify.com/track/3Ov05KIwJljawDuWbd7oKn"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
-        "name": "Voyager",
-        "url": "https://open.spotify.com/album/5PdXV8lvbR9xLOPYTdrDEG"
-      },
-      "artists": [
-        {
-          "name": "311",
-          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
-        }
-      ],
-      "duration_ms": 203912,
-      "name": "Good Feeling",
-      "url": "https://open.spotify.com/track/6ZXODzDislboN4mffec8NM"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
         "name": "Pacific Coast Highway (with Trevor Hall)",
         "url": "https://open.spotify.com/album/2KzhabL9zxpSnPL6cq00Nc"
       },
@@ -1419,6 +1419,22 @@
       "duration_ms": 227440,
       "name": "Pacific Coast Highway (with Trevor Hall)",
       "url": "https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/4pBLC0RkDw24WL5QyDLn6s"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 250397,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/7LYP8spevMtQh0c2lUVxln"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -1515,26 +1531,6 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Put Down What You Are Carrying (with Brett Dennen)",
-        "url": "https://open.spotify.com/album/2lzYJjnD2rPbjMdmBh45KB"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        },
-        {
-          "name": "Brett Dennen",
-          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
-        }
-      ],
-      "duration_ms": 268006,
-      "name": "Put Down What You Are Carrying (with Brett Dennen)",
-      "url": "https://open.spotify.com/track/4rKNAryOSqMpb0qoum5UoN"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
         "name": "Mood Swing",
         "url": "https://open.spotify.com/album/0vu3HrudrHm4M0zMIfAMzY"
       },
@@ -1555,18 +1551,22 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/4pBLC0RkDw24WL5QyDLn6s"
+        "name": "Put Down What You Are Carrying (with Brett Dennen)",
+        "url": "https://open.spotify.com/album/2lzYJjnD2rPbjMdmBh45KB"
       },
       "artists": [
         {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        },
+        {
+          "name": "Brett Dennen",
+          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
         }
       ],
-      "duration_ms": 250397,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/7LYP8spevMtQh0c2lUVxln"
+      "duration_ms": 268006,
+      "name": "Put Down What You Are Carrying (with Brett Dennen)",
+      "url": "https://open.spotify.com/track/4rKNAryOSqMpb0qoum5UoN"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Early Prayers",
-        "url": "https://open.spotify.com/album/5hLSAVp5bafgKERpi5lWz6"
-      },
-      "artists": [
-        {
-          "name": "Tomorrows Bad Seeds",
-          "url": "https://open.spotify.com/artist/4CfFkWbFTygKAWZmSJML3D"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Bad Seeds",
-      "url": "https://open.spotify.com/track/1nAowDnk4GGdV4YsE08wd7"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
         "name": "Mood Swing",
         "url": "https://open.spotify.com/album/0vu3HrudrHm4M0zMIfAMzY"
       },
@@ -1671,6 +1655,22 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
+        "name": "Early Prayers",
+        "url": "https://open.spotify.com/album/5hLSAVp5bafgKERpi5lWz6"
+      },
+      "artists": [
+        {
+          "name": "Tomorrows Bad Seeds",
+          "url": "https://open.spotify.com/artist/4CfFkWbFTygKAWZmSJML3D"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Bad Seeds",
+      "url": "https://open.spotify.com/track/1nAowDnk4GGdV4YsE08wd7"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
         "name": "Mind The Moon",
         "url": "https://open.spotify.com/album/39EHgpDs6VgKlx0RY0E37J"
       },
@@ -1683,6 +1683,26 @@
       "duration_ms": 213280,
       "name": "The Game",
       "url": "https://open.spotify.com/track/6ixRbuonm6wfA9gWVzDDGP"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
+        "name": "Be Alright",
+        "url": "https://open.spotify.com/album/2SVH3FUWDU8BzlNn2Q6UEr"
+      },
+      "artists": [
+        {
+          "name": "Iration",
+          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
+        },
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        }
+      ],
+      "duration_ms": 193361,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/5MqWp5KtqxXV601aXTbwFi"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -1763,26 +1783,6 @@
       "duration_ms": 157084,
       "name": "Too Late (with Jared Watson of Dirty Heads)",
       "url": "https://open.spotify.com/track/3jaaCjDmM9wMEr42mMqrPo"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
-        "name": "Be Alright",
-        "url": "https://open.spotify.com/album/2SVH3FUWDU8BzlNn2Q6UEr"
-      },
-      "artists": [
-        {
-          "name": "Iration",
-          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
-        },
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
-        }
-      ],
-      "duration_ms": 193361,
-      "name": "Be Alright",
-      "url": "https://open.spotify.com/track/5MqWp5KtqxXV601aXTbwFi"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Heavy as Lead",
-        "url": "https://open.spotify.com/album/1uqKKrSpCBx15YzUY3f55m"
-      },
-      "artists": [
-        {
-          "name": "Rebelution",
-          "url": "https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc"
-        }
-      ],
-      "duration_ms": 176761,
-      "name": "Heavy as Lead",
-      "url": "https://open.spotify.com/track/59HQVKZfaKycUzRTtp1zDO"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
         "name": "Let It All Out",
         "url": "https://open.spotify.com/album/5Vbzak4krkKEs6ECqfKaTl"
       },
@@ -2175,6 +2159,22 @@
       "duration_ms": 275244,
       "name": "Let It All Out",
       "url": "https://open.spotify.com/track/4kFJNoQNvBcJDenyQc5Rk3"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
+        "name": "Heavy as Lead",
+        "url": "https://open.spotify.com/album/1uqKKrSpCBx15YzUY3f55m"
+      },
+      "artists": [
+        {
+          "name": "Rebelution",
+          "url": "https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc"
+        }
+      ],
+      "duration_ms": 176761,
+      "name": "Heavy as Lead",
+      "url": "https://open.spotify.com/track/59HQVKZfaKycUzRTtp1zDO"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -2215,18 +2215,22 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Far From Forever",
-        "url": "https://open.spotify.com/album/5Jbc8jkGvLRaCLoHERLh1n"
+        "name": "Catch My Wave",
+        "url": "https://open.spotify.com/album/6QSZi8vL18DTDQvP3pXrgo"
       },
       "artists": [
         {
-          "name": "Joe Samba",
-          "url": "https://open.spotify.com/artist/4edOA7e3jDgmddqyrb93DJ"
+          "name": "Cisco Adler",
+          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
+        },
+        {
+          "name": "Iration",
+          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
         }
       ],
-      "duration_ms": 209133,
-      "name": "Create Something",
-      "url": "https://open.spotify.com/track/4QF1vqGrBrvmH6X4RNenfD"
+      "duration_ms": 194386,
+      "name": "Catch My Wave",
+      "url": "https://open.spotify.com/track/7k94tKY98gAeq1sTvPPRWW"
     }
   ],
   "unique_name": "Beach Vibes",

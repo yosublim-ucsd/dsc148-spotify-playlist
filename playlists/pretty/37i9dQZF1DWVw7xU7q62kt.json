@@ -1,12 +1,12 @@
 {
   "description": "Beats with a flavour of Jazz. Cover: Blue Lab Beats",
-  "num_followers": 45460,
+  "num_followers": 45558,
   "original_name": "Jazzy Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjM1MTBlZjE4NzRlYmU0YjgyNGVlODg5M2I4NGMzNDllYmM0MGE5",
+  "snapshot_id": "MCw3YWUyZmFkYmJhZjU5MzFhNTU0ZmNiYmUzYTQxMjAyZmM5ZTYyYmJj",
   "tracks": [
     {
       "added_at": "2024-03-01 00:01:00",
@@ -123,6 +123,22 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
+        "name": "Le club",
+        "url": "https://open.spotify.com/album/2z6MP9UZpaod9KNSKmKDOz"
+      },
+      "artists": [
+        {
+          "name": "The Offline",
+          "url": "https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "Le club",
+      "url": "https://open.spotify.com/track/1ksWrHM0fbcNpBMaKGNnOS"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
         "name": "SGJAZZ, Vol. 2",
         "url": "https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 321546,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/41Iyj7VLspMaPVQP47toOK"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Le club",
-        "url": "https://open.spotify.com/album/2z6MP9UZpaod9KNSKmKDOz"
-      },
-      "artists": [
-        {
-          "name": "The Offline",
-          "url": "https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "Le club",
-      "url": "https://open.spotify.com/track/1ksWrHM0fbcNpBMaKGNnOS"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
+        "name": "Keep Cruising",
+        "url": "https://open.spotify.com/album/1tFPg1D0lkIdF5KQyh4fWT"
+      },
+      "artists": [
+        {
+          "name": "Erik von Spreckelsen",
+          "url": "https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA"
+        }
+      ],
+      "duration_ms": 236250,
+      "name": "Keep Cruising",
+      "url": "https://open.spotify.com/track/3XvmzqTtljQMpSGqvxA6IO"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
         "name": "Galerie",
         "url": "https://open.spotify.com/album/1F7A1rsVd20Rpa4x8Hb5gJ"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 148491,
       "name": "Valencia",
       "url": "https://open.spotify.com/track/5Fy8kjcF0moa6jtC0e1eJd"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Keep Cruising",
-        "url": "https://open.spotify.com/album/1tFPg1D0lkIdF5KQyh4fWT"
-      },
-      "artists": [
-        {
-          "name": "Erik von Spreckelsen",
-          "url": "https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA"
-        }
-      ],
-      "duration_ms": 236250,
-      "name": "Keep Cruising",
-      "url": "https://open.spotify.com/track/3XvmzqTtljQMpSGqvxA6IO"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Digilog I",
-        "url": "https://open.spotify.com/album/0aLKKlg3Ax9BGfaDv7LQ3V"
-      },
-      "artists": [
-        {
-          "name": "Rob Araujo",
-          "url": "https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9"
-        }
-      ],
-      "duration_ms": 167710,
-      "name": "no, regrets",
-      "url": "https://open.spotify.com/track/2npDMSs7eYvQl81VEKMRKX"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "Routes To Knowledge",
         "url": "https://open.spotify.com/album/3dfHOUwl0BfRzbl1Z1IuBl"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 129529,
       "name": "Springtime Secret",
       "url": "https://open.spotify.com/track/07fTTeHJx7q3cqJJwiHOma"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "Digilog I",
+        "url": "https://open.spotify.com/album/0aLKKlg3Ax9BGfaDv7LQ3V"
+      },
+      "artists": [
+        {
+          "name": "Rob Araujo",
+          "url": "https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9"
+        }
+      ],
+      "duration_ms": 167710,
+      "name": "no, regrets",
+      "url": "https://open.spotify.com/track/2npDMSs7eYvQl81VEKMRKX"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
+        "name": "Subdivis\u00e3o",
+        "url": "https://open.spotify.com/album/2WaviSBDrps4BxMTdog2ql"
+      },
+      "artists": [
+        {
+          "name": "Thomas Asselman",
+          "url": "https://open.spotify.com/artist/7vHr6L8xUxkObnyHhjqfzU"
+        }
+      ],
+      "duration_ms": 164906,
+      "name": "Subdivis\u00e3o",
+      "url": "https://open.spotify.com/track/3I5VB6Zfemby4tyyXIHpmP"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
         "name": "Better Worlds",
         "url": "https://open.spotify.com/album/1f0IRafmVNgjl27cGRA4lC"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 181333,
       "name": "Better Worlds",
       "url": "https://open.spotify.com/track/1QUykTReTicU0CXhHPm9Y0"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Subdivis\u00e3o",
-        "url": "https://open.spotify.com/album/2WaviSBDrps4BxMTdog2ql"
-      },
-      "artists": [
-        {
-          "name": "Thomas Asselman",
-          "url": "https://open.spotify.com/artist/7vHr6L8xUxkObnyHhjqfzU"
-        }
-      ],
-      "duration_ms": 164906,
-      "name": "Subdivis\u00e3o",
-      "url": "https://open.spotify.com/track/3I5VB6Zfemby4tyyXIHpmP"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
+        "name": "Remote Planet",
+        "url": "https://open.spotify.com/album/2haESr4vtT5qJnJlucCk1R"
+      },
+      "artists": [
+        {
+          "name": "Matt Wilde",
+          "url": "https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Remote Planet",
+      "url": "https://open.spotify.com/track/4smyrNQADEnjkGPq63Mhqo"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
         "name": "Twelve Chapters",
         "url": "https://open.spotify.com/album/2CEkaTZxGY6wrwURFq9bpf"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 139451,
       "name": "The Banquet",
       "url": "https://open.spotify.com/track/0zBVBRE5tTBUCi3EKgECpO"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Remote Planet",
-        "url": "https://open.spotify.com/album/2haESr4vtT5qJnJlucCk1R"
-      },
-      "artists": [
-        {
-          "name": "Matt Wilde",
-          "url": "https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Remote Planet",
-      "url": "https://open.spotify.com/track/4smyrNQADEnjkGPq63Mhqo"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -1899,6 +1899,26 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/4FrqXRrIBNP4Th2LK06QIC"
+      },
+      "artists": [
+        {
+          "name": "xander.",
+          "url": "https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3"
+        },
+        {
+          "name": "S\u00f8ren S\u00f8strom",
+          "url": "https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke"
+        }
+      ],
+      "duration_ms": 181258,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/1SDTig6UDgcSrDBHmXDne2"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
         "name": "Wonderment",
         "url": "https://open.spotify.com/album/33BNvmKLpLEMl8FjetvtCs"
       },
@@ -1935,22 +1955,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Long Time",
-        "url": "https://open.spotify.com/album/3YXiuYi4tXYdR3AX3f5Wbh"
-      },
-      "artists": [
-        {
-          "name": "Otis McDonald",
-          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
-        }
-      ],
-      "duration_ms": 153002,
-      "name": "Long Time",
-      "url": "https://open.spotify.com/track/6ZK9plJc7ahA9ML8Q6IRww"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "Loaf Mode",
         "url": "https://open.spotify.com/album/4ovwMfCyMoFgOdnW4gH6KP"
       },
@@ -1971,26 +1975,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/4FrqXRrIBNP4Th2LK06QIC"
-      },
-      "artists": [
-        {
-          "name": "xander.",
-          "url": "https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3"
-        },
-        {
-          "name": "S\u00f8ren S\u00f8strom",
-          "url": "https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke"
-        }
-      ],
-      "duration_ms": 181258,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/1SDTig6UDgcSrDBHmXDne2"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "delaye",
         "url": "https://open.spotify.com/album/0mtkx7GqWodAyKHDMpDoMK"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 90194,
       "name": "deep space",
       "url": "https://open.spotify.com/track/3z2yk7iknisHQOeN6dhoH6"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "Long Time",
+        "url": "https://open.spotify.com/album/3YXiuYi4tXYdR3AX3f5Wbh"
+      },
+      "artists": [
+        {
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+        }
+      ],
+      "duration_ms": 153002,
+      "name": "Long Time",
+      "url": "https://open.spotify.com/track/6ZK9plJc7ahA9ML8Q6IRww"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -2043,42 +2043,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Even the Sun",
-        "url": "https://open.spotify.com/album/7AmueUKQ7wH3hkpUc827JG"
-      },
-      "artists": [
-        {
-          "name": "Otis McDonald",
-          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
-        }
-      ],
-      "duration_ms": 206326,
-      "name": "Even the Sun",
-      "url": "https://open.spotify.com/track/2TWkH2N07GzwDHBeKE11Gz"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Stations",
-        "url": "https://open.spotify.com/album/2mrzldr66aHRPeXyazgulm"
-      },
-      "artists": [
-        {
-          "name": "xander.",
-          "url": "https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3"
-        },
-        {
-          "name": "S\u00f8ren S\u00f8strom",
-          "url": "https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Stations",
-      "url": "https://open.spotify.com/track/2GGAVfkgf8ze2U7ckpHAYQ"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "Geshem Bejuni",
         "url": "https://open.spotify.com/album/0oM4ceLwHRcQox2J6rY0LP"
       },
@@ -2107,6 +2071,42 @@
       "duration_ms": 272124,
       "name": "Doomed",
       "url": "https://open.spotify.com/track/4tFdR7HgWWVpmh7vflca1d"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "Stations",
+        "url": "https://open.spotify.com/album/2mrzldr66aHRPeXyazgulm"
+      },
+      "artists": [
+        {
+          "name": "xander.",
+          "url": "https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3"
+        },
+        {
+          "name": "S\u00f8ren S\u00f8strom",
+          "url": "https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Stations",
+      "url": "https://open.spotify.com/track/2GGAVfkgf8ze2U7ckpHAYQ"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "Even the Sun",
+        "url": "https://open.spotify.com/album/7AmueUKQ7wH3hkpUc827JG"
+      },
+      "artists": [
+        {
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+        }
+      ],
+      "duration_ms": 206326,
+      "name": "Even the Sun",
+      "url": "https://open.spotify.com/track/2TWkH2N07GzwDHBeKE11Gz"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -2251,6 +2251,22 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
+        "name": "i remember this picture",
+        "url": "https://open.spotify.com/album/7kPMtDGlSbbfXtJP0rQ22q"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        }
+      ],
+      "duration_ms": 213811,
+      "name": "i remember this picture",
+      "url": "https://open.spotify.com/track/7zbUE5XSMaHqMIAu1yqU54"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
         "name": "This Was Once Out of Shape",
         "url": "https://open.spotify.com/album/1wBwauk7beuBQDseEBcjU2"
       },
@@ -2267,22 +2283,6 @@
       "duration_ms": 227986,
       "name": "This Was Once Out of Shape",
       "url": "https://open.spotify.com/track/4pce4kuGacGxXi8PA9QJcr"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "i remember this picture",
-        "url": "https://open.spotify.com/album/7kPMtDGlSbbfXtJP0rQ22q"
-      },
-      "artists": [
-        {
-          "name": "Kiefer",
-          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
-        }
-      ],
-      "duration_ms": 213811,
-      "name": "i remember this picture",
-      "url": "https://open.spotify.com/track/7zbUE5XSMaHqMIAu1yqU54"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -2435,6 +2435,22 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
+        "name": "The Changing Tides of Dreams",
+        "url": "https://open.spotify.com/album/2eeg6bbrUX1NWJRix0wi4I"
+      },
+      "artists": [
+        {
+          "name": "SHOLTO",
+          "url": "https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u"
+        }
+      ],
+      "duration_ms": 181761,
+      "name": "The Pleasure Principle",
+      "url": "https://open.spotify.com/track/4BT2EgvDvzQUki9ixfqQls"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
         "name": "Elsewhere",
         "url": "https://open.spotify.com/album/42B90GVqHsrQNOZYOHGOew"
       },
@@ -2467,6 +2483,22 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
+        "name": "Twinkles",
+        "url": "https://open.spotify.com/album/56v5lYuiMgsqZxjL3vC0Vn"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        }
+      ],
+      "duration_ms": 161600,
+      "name": "Twinkles",
+      "url": "https://open.spotify.com/track/4cLHFuugccA4MqTZ6SiVY7"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
         "name": "Cap Camarat",
         "url": "https://open.spotify.com/album/4MXJK2URbvnoLt3UTkezyP"
       },
@@ -2483,22 +2515,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "The Changing Tides of Dreams",
-        "url": "https://open.spotify.com/album/2eeg6bbrUX1NWJRix0wi4I"
-      },
-      "artists": [
-        {
-          "name": "SHOLTO",
-          "url": "https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u"
-        }
-      ],
-      "duration_ms": 181761,
-      "name": "The Pleasure Principle",
-      "url": "https://open.spotify.com/track/4BT2EgvDvzQUki9ixfqQls"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "stroll",
         "url": "https://open.spotify.com/album/0az5tgCzDGhdWbhUmRTWyT"
       },
@@ -2511,22 +2527,6 @@
       "duration_ms": 211991,
       "name": "stroll",
       "url": "https://open.spotify.com/track/48CXPSMqlczCjqHD3tWKRF"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Twinkles",
-        "url": "https://open.spotify.com/album/56v5lYuiMgsqZxjL3vC0Vn"
-      },
-      "artists": [
-        {
-          "name": "Greg Spero",
-          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
-        }
-      ],
-      "duration_ms": 161600,
-      "name": "Twinkles",
-      "url": "https://open.spotify.com/track/4cLHFuugccA4MqTZ6SiVY7"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -2699,22 +2699,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Futuristic Earth",
-        "url": "https://open.spotify.com/album/65B4vUhJSJ8ZqVpszxFJ2h"
-      },
-      "artists": [
-        {
-          "name": "The Stance Brothers",
-          "url": "https://open.spotify.com/artist/1AEh6OX55KCjPJX0Lzkjy1"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Futuristic Earth",
-      "url": "https://open.spotify.com/track/53crbk8yg8EblYm5WVtp9t"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "Instrumentals JID009",
         "url": "https://open.spotify.com/album/6bQDhnnJqR0QZlYy2dMh09"
       },
@@ -2759,6 +2743,22 @@
       "duration_ms": 188759,
       "name": "A New Spring",
       "url": "https://open.spotify.com/track/5Lp1H3axC12mGvMIWYZWXj"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "Futuristic Earth",
+        "url": "https://open.spotify.com/album/65B4vUhJSJ8ZqVpszxFJ2h"
+      },
+      "artists": [
+        {
+          "name": "The Stance Brothers",
+          "url": "https://open.spotify.com/artist/1AEh6OX55KCjPJX0Lzkjy1"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Futuristic Earth",
+      "url": "https://open.spotify.com/track/53crbk8yg8EblYm5WVtp9t"
     },
     {
       "added_at": "2024-03-01 00:01:00",

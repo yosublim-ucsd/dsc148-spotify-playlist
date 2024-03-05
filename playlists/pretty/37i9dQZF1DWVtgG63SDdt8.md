@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:2cB6hX2LI14KUTAevpaYn2">Josh Baldwin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,304 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,422 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 35 | [Uh Huh](https://open.spotify.com/track/3S517WPLzc0J1LJUbFNpfm) | [Jered Sanders](https://open.spotify.com/artist/4kjg5xFLFVfWJFus3mwV5e) | [Talk To Me Nice](https://open.spotify.com/album/5A5sFoe5kD6AO26FgXynON) | 3:33 |
 | 36 | [Most High](https://open.spotify.com/track/1RR8q4IepBoQwVFmbOizQM) | [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi) | [Most High](https://open.spotify.com/album/5qIAugNLiLPeNzugJB3wTs) | 2:58 |
 | 37 | [INSTAGRAM ISN'T GOD, Pt\. 2](https://open.spotify.com/track/20ZFTqI3Fk4IDgypncA2b4) | [Christopher Syncere](https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u) | [INSTAGRAM ISN'T GOD, Pt\. 2](https://open.spotify.com/album/0xYuRCSPajIYagFIcYBoVZ) | 2:05 |
-| 38 | [Return](https://open.spotify.com/track/0Mtow5gmdanYkoljNALJsz) | [Reflect](https://open.spotify.com/artist/7hTAWUNRGi74ztjyAN8uZz), [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be), [Farrah](https://open.spotify.com/artist/4EpVqvktwuLm4wMdI3HCJr) | [Return](https://open.spotify.com/album/0DFiEFtqFLPY4DRC7PNNLD) | 2:22 |
+| 38 | [Return](https://open.spotify.com/track/0Mtow5gmdanYkoljNALJsz) | [Reflect](https://open.spotify.com/artist/7hTAWUNRGi74ztjyAN8uZz), [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be), [Farrah](https://open.spotify.com/artist/2MjWFXCO6rkeOIAnRqhcCb) | [Return](https://open.spotify.com/album/0DFiEFtqFLPY4DRC7PNNLD) | 2:22 |
 | 39 | [wake up and walk on water](https://open.spotify.com/track/2IZVRxECmctkToyLtFM8YE) | [MUCH MORE](https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs) | [wake up and walk on water](https://open.spotify.com/album/0RsItI3iqrJUeqbjdiOMBx) | 2:12 |
 | 40 | [Your Turn](https://open.spotify.com/track/6Kdgmp79LyuDlRwF2Sp9uL) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [Meadows Students](https://open.spotify.com/artist/6RmO5mFM5y1uhS5Cfw1xBX) | [Your Turn](https://open.spotify.com/album/2kKbalVOGJSZUKAfUyWnf0) | 2:29 |
 | 41 | [Agnus Dei \(You Are Holy\)](https://open.spotify.com/track/2meTdpBGh1YK4yjWGmmIPc) | [sxxnt.](https://open.spotify.com/artist/4T0c560DVGr1cAtE3reOP1), [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX), [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Agnus Dei \(You Are Holy\)](https://open.spotify.com/album/1PfNSvl4G6fbcbrWx3fiUd) | 4:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Narrow Road](https://open.spotify.com/track/6nUhW3DT9vGkKyiEpP5j6c) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Narrow Road](https://open.spotify.com/album/06bBBzYhH0ZP73qteIAEX1) | 4:25 |
 | 100 | [Always On The Way](https://open.spotify.com/track/2GkGPEOHRHO92c88Ttg7XB) | [Kirby Kaple](https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1) | [Always On The Way](https://open.spotify.com/album/4tjBnY43ovO1RRSrZUpcVW) | 4:28 |
 
-Snapshot ID: `MCw2YTdkZjkwZDYyNWNhMDliNjZmZjU5MjI0NDZiYTc5YzgzYTU5ZjQ1`
+Snapshot ID: `MCw2NDAxZDNkMTA3MTQ4NjlmNzJhNGFjNDE1MGEzNzA2OThjNWUyZDI5`

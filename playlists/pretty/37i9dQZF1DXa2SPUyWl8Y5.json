@@ -1,12 +1,12 @@
 {
   "description": "Focus with melodic techno and tech house.",
-  "num_followers": 488489,
+  "num_followers": 488578,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjAyNDU5YmRjZTgyMWFmOGZmNGU5MWFmZmYwZjNlNmE4NGY4NDRi",
+  "snapshot_id": "MCw3MWYyN2VmM2UyZWY5N2JjNTE1NTM4OWMzZmE2ZmYxOTM5NDdjODdm",
   "tracks": [
     {
       "added_at": "2023-11-27 19:00:00",
@@ -219,6 +219,22 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
+        "name": "Millenium (Edit)",
+        "url": "https://open.spotify.com/album/3Iz0Ry755mM73t5s4h6iWf"
+      },
+      "artists": [
+        {
+          "name": "Philipp Wolf",
+          "url": "https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH"
+        }
+      ],
+      "duration_ms": 220659,
+      "name": "Millenium - Edit",
+      "url": "https://open.spotify.com/track/2MCpIMRHhdN7ua7RlDWKFm"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
         "name": "Boavista Remixes",
         "url": "https://open.spotify.com/album/0veMfwPekRVWazQ0YVGLPa"
       },
@@ -239,22 +255,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Invisible",
-        "url": "https://open.spotify.com/album/5rUrltKgAPbdGtKP7WATUL"
-      },
-      "artists": [
-        {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
-        }
-      ],
-      "duration_ms": 340400,
-      "name": "Invisible",
-      "url": "https://open.spotify.com/track/4dSH4QOSnQa6PutN1rDHOG"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Verbier",
         "url": "https://open.spotify.com/album/4jy3uq2tlKOOVFz1tumlu3"
       },
@@ -271,18 +271,18 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Millenium (Edit)",
-        "url": "https://open.spotify.com/album/3Iz0Ry755mM73t5s4h6iWf"
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/5rUrltKgAPbdGtKP7WATUL"
       },
       "artists": [
         {
-          "name": "Philipp Wolf",
-          "url": "https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH"
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
         }
       ],
-      "duration_ms": 220659,
-      "name": "Millenium - Edit",
-      "url": "https://open.spotify.com/track/2MCpIMRHhdN7ua7RlDWKFm"
+      "duration_ms": 340400,
+      "name": "Invisible",
+      "url": "https://open.spotify.com/track/4dSH4QOSnQa6PutN1rDHOG"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB"
-      },
-      "artists": [
-        {
-          "name": "Ann Clue",
-          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
-        }
-      ],
-      "duration_ms": 295680,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Allegri",
         "url": "https://open.spotify.com/album/0hZ5pbRtDrgthadiEITkSh"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 322640,
       "name": "Allegri",
       "url": "https://open.spotify.com/track/2ajYUTjVoBuRxc0zIBvWxh"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Multi",
+        "url": "https://open.spotify.com/album/1aXp1HaEuIckogbF9f0Jgi"
+      },
+      "artists": [
+        {
+          "name": "Lstn",
+          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
+        }
+      ],
+      "duration_ms": 177243,
+      "name": "Multi",
+      "url": "https://open.spotify.com/track/69VMojKtg3NtfmFmFc64IH"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -367,18 +367,18 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Multi",
-        "url": "https://open.spotify.com/album/1aXp1HaEuIckogbF9f0Jgi"
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB"
       },
       "artists": [
         {
-          "name": "Lstn",
-          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
+          "name": "Ann Clue",
+          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
         }
       ],
-      "duration_ms": 177243,
-      "name": "Multi",
-      "url": "https://open.spotify.com/track/69VMojKtg3NtfmFmFc64IH"
+      "duration_ms": 295680,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
+        "name": "Infinity (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/64Z7e0YTTtoa7dRhpQb6kv"
+      },
+      "artists": [
+        {
+          "name": "Teho",
+          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
+        }
+      ],
+      "duration_ms": 329032,
+      "name": "Find You Again",
+      "url": "https://open.spotify.com/track/5BIYQro4nYhTcTEfMLhZZB"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
         "name": "Piano & Electronic Ensemble Op. 1",
         "url": "https://open.spotify.com/album/1vxB3a1pJCMPowm4bWnSX7"
       },
@@ -835,8 +851,8 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Infinity (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/64Z7e0YTTtoa7dRhpQb6kv"
+        "name": "Lyra",
+        "url": "https://open.spotify.com/album/10EVZVgK0jaOVuIW1A8GSy"
       },
       "artists": [
         {
@@ -844,9 +860,9 @@
           "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
         }
       ],
-      "duration_ms": 329032,
-      "name": "Find You Again",
-      "url": "https://open.spotify.com/track/5BIYQro4nYhTcTEfMLhZZB"
+      "duration_ms": 437891,
+      "name": "Lyra",
+      "url": "https://open.spotify.com/track/1Y4nxwSQr5jTMXKaQwiLOA"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -903,6 +919,22 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/1JlK6KU1YKQ9gcahuFPFE7"
+      },
+      "artists": [
+        {
+          "name": "Daniel Portman",
+          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
+        }
+      ],
+      "duration_ms": 257903,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/7jw452od74FzquMBqkUXiY"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
         "name": "Meertraum",
         "url": "https://open.spotify.com/album/6Dcg0G9DKa2rVl1kIjMpv1"
       },
@@ -931,22 +963,6 @@
       "duration_ms": 350047,
       "name": "Bird",
       "url": "https://open.spotify.com/track/19lR15h6LPtw8oiAIt601v"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
-        "name": "Odyssey",
-        "url": "https://open.spotify.com/album/1JlK6KU1YKQ9gcahuFPFE7"
-      },
-      "artists": [
-        {
-          "name": "Daniel Portman",
-          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
-        }
-      ],
-      "duration_ms": 257903,
-      "name": "Odyssey",
-      "url": "https://open.spotify.com/track/7jw452od74FzquMBqkUXiY"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -995,22 +1011,6 @@
       "duration_ms": 232258,
       "name": "The Elder",
       "url": "https://open.spotify.com/track/2hljmwTikUmulScZB7Eivb"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
-        "name": "Lyra",
-        "url": "https://open.spotify.com/album/10EVZVgK0jaOVuIW1A8GSy"
-      },
-      "artists": [
-        {
-          "name": "Teho",
-          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
-        }
-      ],
-      "duration_ms": 437891,
-      "name": "Lyra",
-      "url": "https://open.spotify.com/track/1Y4nxwSQr5jTMXKaQwiLOA"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/1QXGtZPuWcFFqaz3IidO7y"
+      },
+      "artists": [
+        {
+          "name": "Mainterm",
+          "url": "https://open.spotify.com/artist/7f7f9se1wn56qhlAWMT4eI"
+        }
+      ],
+      "duration_ms": 358144,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/7cn2gHnDem0tI8rZXaBmXp"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
         "name": "Lunar",
         "url": "https://open.spotify.com/album/06R8GH8lr3HkN6amHyZU8w"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 192016,
       "name": "Lunar",
       "url": "https://open.spotify.com/track/1nawO2xKQj1haBWWhLpUfG"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/1QXGtZPuWcFFqaz3IidO7y"
-      },
-      "artists": [
-        {
-          "name": "Mainterm",
-          "url": "https://open.spotify.com/artist/7f7f9se1wn56qhlAWMT4eI"
-        }
-      ],
-      "duration_ms": 358144,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/7cn2gHnDem0tI8rZXaBmXp"
     },
     {
       "added_at": "2023-11-27 19:00:00",

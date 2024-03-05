@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Lo nuevo y lo más destacado de la electrónica nacional\. Portada: Hernan Cattaneo
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,764 likes - 75 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,797 likes - 75 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 | 74 | [Frequency Shift](https://open.spotify.com/track/7vl0zRu5s8MyFo7qLFwRRC) | [Emi Galvan](https://open.spotify.com/artist/5A4rzeZ3KXx7VYvcna6awj), [DJ Zombi](https://open.spotify.com/artist/450erKExpL0jexs1XpIiiQ) | [Frequency Shift](https://open.spotify.com/album/6MoPv1IxsDe2FQZ0wBBw6x) | 5:51 |
 | 75 | [Love \- Mixed](https://open.spotify.com/track/0WmOlBPDRr8gROqyRr3065) | [Hernan Martinez \(AR\)](https://open.spotify.com/artist/5YYQbfMoQLnDWwc9977eNU) | [MetroDance Fractals Diciembre 14/12/2023 MDF008 \(DJ Mix\)](https://open.spotify.com/album/7saroFReXC5yLRYatL4A9D) | 6:08 |
 
-Snapshot ID: `MCw2OGQ5YzE0ZWIxZWM3MDE4NzU5ZmFhNzc1YjYzODBhZDU1ZjFkMTFj`
+Snapshot ID: `MCwyOGEzZDRiMTk4YTI3NWI4OTkwNWUwY2IzYjYzMzFkYzJmZjNhM2Zh`

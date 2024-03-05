@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 774976,
+  "num_followers": 775039,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDZhMmQ2Nzc3MTA3NDI1MGI2NGI4ZjA2MWJlYmY2Y2JkMTllMGRk",
+  "snapshot_id": "MCxjMWQ5YjFmNTE0NThiZjI4ZmIzMjJmYzg1M2MwMzhhMTJmNmVhZjc0",
   "tracks": [
     {
       "added_at": "2024-03-01 01:22:49",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-03-01 01:22:49",
       "album": {
+        "name": "O Tempo \u00c9 Agora",
+        "url": "https://open.spotify.com/album/0yiQu0POzXcfjEB6qBuhtj"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 220566,
+      "name": "Ai, Amor",
+      "url": "https://open.spotify.com/track/3bR8wBqLky6b61ROJlaBEF"
+    },
+    {
+      "added_at": "2024-03-01 01:22:49",
+      "album": {
         "name": "Varrendo a Lua (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0cUBCO5cOvR80fKEDJ18TJ"
       },
@@ -555,18 +571,18 @@
     {
       "added_at": "2024-03-01 01:22:49",
       "album": {
-        "name": "O Tempo \u00c9 Agora",
-        "url": "https://open.spotify.com/album/0yiQu0POzXcfjEB6qBuhtj"
+        "name": "Estandarte",
+        "url": "https://open.spotify.com/album/0vDutxkmwaV9O49MBAvorz"
       },
       "artists": [
         {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+          "name": "Skank",
+          "url": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
         }
       ],
-      "duration_ms": 220566,
-      "name": "Ai, Amor",
-      "url": "https://open.spotify.com/track/3bR8wBqLky6b61ROJlaBEF"
+      "duration_ms": 313106,
+      "name": "Ainda Gosto Dela",
+      "url": "https://open.spotify.com/track/2wtnWkmyE2ivwmDyVfJ8N5"
     },
     {
       "added_at": "2024-03-01 01:22:49",
@@ -587,22 +603,6 @@
       "duration_ms": 262552,
       "name": "Partilhar",
       "url": "https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx"
-    },
-    {
-      "added_at": "2024-03-01 01:22:49",
-      "album": {
-        "name": "Estandarte",
-        "url": "https://open.spotify.com/album/0vDutxkmwaV9O49MBAvorz"
-      },
-      "artists": [
-        {
-          "name": "Skank",
-          "url": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
-        }
-      ],
-      "duration_ms": 313106,
-      "name": "Ainda Gosto Dela",
-      "url": "https://open.spotify.com/track/2wtnWkmyE2ivwmDyVfJ8N5"
     },
     {
       "added_at": "2024-03-01 01:22:49",
@@ -923,26 +923,6 @@
     {
       "added_at": "2024-03-01 01:22:49",
       "album": {
-        "name": "Silva & Liniker (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Sorte - Ao Vivo",
-      "url": "https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl"
-    },
-    {
-      "added_at": "2024-03-01 01:22:49",
-      "album": {
         "name": "Frejat Ao Vivo No Rock In Rio",
         "url": "https://open.spotify.com/album/6hSYXe2y8uYY62B3PCiq3T"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 214464,
       "name": "N",
       "url": "https://open.spotify.com/track/7iNcOVH9n4EEY2rwWAQOsA"
+    },
+    {
+      "added_at": "2024-03-01 01:22:49",
+      "album": {
+        "name": "Silva & Liniker (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Sorte - Ao Vivo",
+      "url": "https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl"
     },
     {
       "added_at": "2024-03-01 01:22:49",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-03-01 01:22:49",
       "album": {
-        "name": "Cru",
-        "url": "https://open.spotify.com/album/7wYN6lMpcVx2maHSGc2yQb"
-      },
-      "artists": [
-        {
-          "name": "Liniker e os Caramelows",
-          "url": "https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n"
-        }
-      ],
-      "duration_ms": 364359,
-      "name": "Zero",
-      "url": "https://open.spotify.com/track/7Jl757vT5eNqemc6PtY2dA"
-    },
-    {
-      "added_at": "2024-03-01 01:22:49",
-      "album": {
         "name": "J\u00fapiter",
         "url": "https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 156746,
       "name": "Feliz e Ponto",
       "url": "https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94"
+    },
+    {
+      "added_at": "2024-03-01 01:22:49",
+      "album": {
+        "name": "Cru",
+        "url": "https://open.spotify.com/album/7wYN6lMpcVx2maHSGc2yQb"
+      },
+      "artists": [
+        {
+          "name": "Liniker e os Caramelows",
+          "url": "https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n"
+        }
+      ],
+      "duration_ms": 364359,
+      "name": "Zero",
+      "url": "https://open.spotify.com/track/7Jl757vT5eNqemc6PtY2dA"
     },
     {
       "added_at": "2024-03-01 01:22:49",
@@ -1175,38 +1175,6 @@
     {
       "added_at": "2024-03-01 01:22:49",
       "album": {
-        "name": "Mariana Nolasco",
-        "url": "https://open.spotify.com/album/6OjzwQGhOxJneIOaltnuSr"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        }
-      ],
-      "duration_ms": 222911,
-      "name": "Que Seja Pra Ficar",
-      "url": "https://open.spotify.com/track/5QQQUig8yIgWG1Yyd3PcmZ"
-    },
-    {
-      "added_at": "2024-03-01 01:22:49",
-      "album": {
-        "name": "Silva Canta Marisa",
-        "url": "https://open.spotify.com/album/0Us3ZgxlQGMYZLwiLmjoHz"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 195400,
-      "name": "Beija Eu",
-      "url": "https://open.spotify.com/track/4LBupHhBSFZCXhPteUWWY3"
-    },
-    {
-      "added_at": "2024-03-01 01:22:49",
-      "album": {
         "name": "Ivete Sangalo",
         "url": "https://open.spotify.com/album/2c8gDfmmo6KnFSxWwL1COf"
       },
@@ -1219,6 +1187,22 @@
       "duration_ms": 249440,
       "name": "Se Eu N\u00e3o Te Amasse Tanto Assim",
       "url": "https://open.spotify.com/track/7LxiQ3v6iEaejUgnBBphNS"
+    },
+    {
+      "added_at": "2024-03-01 01:22:49",
+      "album": {
+        "name": "Mariana Nolasco",
+        "url": "https://open.spotify.com/album/6OjzwQGhOxJneIOaltnuSr"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        }
+      ],
+      "duration_ms": 222911,
+      "name": "Que Seja Pra Ficar",
+      "url": "https://open.spotify.com/track/5QQQUig8yIgWG1Yyd3PcmZ"
     },
     {
       "added_at": "2024-03-01 01:22:49",
@@ -1251,6 +1235,22 @@
       "duration_ms": 213573,
       "name": "Um certo algu\u00e9m",
       "url": "https://open.spotify.com/track/7i4L8iHbgZRGXxkcsEobH3"
+    },
+    {
+      "added_at": "2024-03-01 01:22:49",
+      "album": {
+        "name": "Silva Canta Marisa",
+        "url": "https://open.spotify.com/album/0Us3ZgxlQGMYZLwiLmjoHz"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 195400,
+      "name": "Beija Eu",
+      "url": "https://open.spotify.com/track/4LBupHhBSFZCXhPteUWWY3"
     },
     {
       "added_at": "2024-03-01 01:22:49",
@@ -1295,22 +1295,6 @@
       "duration_ms": 169250,
       "name": "Cortejo",
       "url": "https://open.spotify.com/track/4DDcCzpOGXzS3MKV4piwdu"
-    },
-    {
-      "added_at": "2024-03-01 01:22:49",
-      "album": {
-        "name": "Ao Vivo Em Lisboa",
-        "url": "https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 256155,
-      "name": "Bem Que Se Quis - Ao Vivo",
-      "url": "https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy"
     },
     {
       "added_at": "2024-03-01 01:22:49",
@@ -1387,22 +1371,6 @@
     {
       "added_at": "2024-03-01 01:22:49",
       "album": {
-        "name": "Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI"
-      },
-      "artists": [
-        {
-          "name": "C\u00e1ssia Eller",
-          "url": "https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh"
-        }
-      ],
-      "duration_ms": 221466,
-      "name": "Todo Amor Que Houver Nessa Vida - Ao Vivo",
-      "url": "https://open.spotify.com/track/31RNX9vTwybIGVhteTpfT3"
-    },
-    {
-      "added_at": "2024-03-01 01:22:49",
-      "album": {
         "name": "Minha Felicidade",
         "url": "https://open.spotify.com/album/7kTQATXuDnYuis6WSYZEn5"
       },
@@ -1419,6 +1387,38 @@
       "duration_ms": 217384,
       "name": "Minha Felicidade",
       "url": "https://open.spotify.com/track/3vKTQ4R6ZZ9re7XIedJ5PQ"
+    },
+    {
+      "added_at": "2024-03-01 01:22:49",
+      "album": {
+        "name": "Ao Vivo Em Lisboa",
+        "url": "https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 256155,
+      "name": "Bem Que Se Quis - Ao Vivo",
+      "url": "https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy"
+    },
+    {
+      "added_at": "2024-03-01 01:22:49",
+      "album": {
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI"
+      },
+      "artists": [
+        {
+          "name": "C\u00e1ssia Eller",
+          "url": "https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh"
+        }
+      ],
+      "duration_ms": 221466,
+      "name": "Todo Amor Que Houver Nessa Vida - Ao Vivo",
+      "url": "https://open.spotify.com/track/31RNX9vTwybIGVhteTpfT3"
     },
     {
       "added_at": "2024-03-01 01:22:49",

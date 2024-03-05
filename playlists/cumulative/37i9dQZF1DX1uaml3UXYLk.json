@@ -3925,6 +3925,24 @@
     },
     {
       "album": {
+        "name": "Haven",
+        "url": "https://open.spotify.com/album/1I9Zboat8AKj4GPAd5zado"
+      },
+      "artists": [
+        {
+          "name": "Edward The Eagle",
+          "url": "https://open.spotify.com/artist/2Un95yxT6GCP6qwydEfQ4d"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131092,
+      "name": "Haven",
+      "url": "https://open.spotify.com/track/7dFxH93eSYwUvhhXRv2yoM"
+    },
+    {
+      "album": {
         "name": "Heads Up",
         "url": "https://open.spotify.com/album/0GBz9hb37EU9qvSJirMXm9"
       },
@@ -6016,6 +6034,24 @@
       "duration_ms": 403000,
       "name": "Neptunus",
       "url": "https://open.spotify.com/track/6lXmtXT47uFZ4CQndLQWnO"
+    },
+    {
+      "album": {
+        "name": "Nest",
+        "url": "https://open.spotify.com/album/2Pzb9MdNOXTcPI1yrqUTvt"
+      },
+      "artists": [
+        {
+          "name": "Gloster Gladiator",
+          "url": "https://open.spotify.com/artist/1qwnni8v2EwPmnotgdJWBg"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125504,
+      "name": "Nest",
+      "url": "https://open.spotify.com/track/2ijfMAJhIbZzsEvpZTywIX"
     },
     {
       "album": {
@@ -8654,6 +8690,24 @@
       "duration_ms": 172909,
       "name": "Spinn",
       "url": "https://open.spotify.com/track/0fyQrTaCAbbbTmRBbMxICv"
+    },
+    {
+      "album": {
+        "name": "spring",
+        "url": "https://open.spotify.com/album/2eUkNLaVHEjGtMPopULYoA"
+      },
+      "artists": [
+        {
+          "name": "eights signs",
+          "url": "https://open.spotify.com/artist/1g4nMMWi74Aku7ZDd6Yjtx"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182715,
+      "name": "spring",
+      "url": "https://open.spotify.com/track/1E1Ml4DgQZ2QVp2UztwyvD"
     },
     {
       "album": {

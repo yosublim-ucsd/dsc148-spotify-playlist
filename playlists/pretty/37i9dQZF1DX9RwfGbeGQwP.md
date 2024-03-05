@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,906 likes - 350 songs - 13 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,957 likes - 350 songs - 13 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 41 | [Out For a Walk](https://open.spotify.com/track/7An9ystJ5VTcPIsTO7x4tb) | [Same as Different](https://open.spotify.com/artist/48fJqNap8T1GWpKx9iNd1F) | [Lofi Jazzy Vibes](https://open.spotify.com/album/6xSoyzpvxutyNhe9gHUjdv) | 1:49 |
 | 42 | [Neon Tapestries](https://open.spotify.com/track/1oQt6kTiuPsQEFaHWFH6Pl) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Neon Tapestries](https://open.spotify.com/album/6hqeBr0rwkgO1DNKx7I59P) | 2:36 |
 | 43 | [Palette](https://open.spotify.com/track/52A1HqtgXF8ZFKTbX7UpFr) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Palette](https://open.spotify.com/album/0tuhaoSXp16EvvWykkE7fy) | 2:23 |
-| 44 | [una giornata al parco](https://open.spotify.com/track/5HzOxWnen6pE6l9KbSEQaq) | [Nacho Datúr](https://open.spotify.com/artist/5tqsx6BPIV6KA02eum8i5m) | [Tripping At The Amusement Park Vol\. 3](https://open.spotify.com/album/4lqmoKeBB92p6Aq8WTJFLN) | 2:07 |
-| 45 | [Five Buttons](https://open.spotify.com/track/78EMR78yK77l8ZHOxHOF3P) | [Ramsey Road](https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm) | [Five Buttons](https://open.spotify.com/album/7ELWyRqCjfCYlIp3CXTcST) | 1:55 |
-| 46 | [Terzo](https://open.spotify.com/track/1EXS0FNpWbCjlYY5LKCqer) | [Robomani](https://open.spotify.com/artist/2iXcdZRffRnlBjzqcWEXKA) | [Terzo](https://open.spotify.com/album/1ZtZwyMm2P4ujY02crKMIV) | 2:55 |
+| 44 | [Five Buttons](https://open.spotify.com/track/78EMR78yK77l8ZHOxHOF3P) | [Ramsey Road](https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm) | [Five Buttons](https://open.spotify.com/album/7ELWyRqCjfCYlIp3CXTcST) | 1:55 |
+| 45 | [Terzo](https://open.spotify.com/track/1EXS0FNpWbCjlYY5LKCqer) | [Robomani](https://open.spotify.com/artist/2iXcdZRffRnlBjzqcWEXKA) | [Terzo](https://open.spotify.com/album/1ZtZwyMm2P4ujY02crKMIV) | 2:55 |
+| 46 | [una giornata al parco](https://open.spotify.com/track/5HzOxWnen6pE6l9KbSEQaq) | [Nacho Datúr](https://open.spotify.com/artist/5tqsx6BPIV6KA02eum8i5m) | [Tripping At The Amusement Park Vol\. 3](https://open.spotify.com/album/4lqmoKeBB92p6Aq8WTJFLN) | 2:07 |
 | 47 | [Floor 5](https://open.spotify.com/track/2IEJDnXmqa2QEkcUureE1p) | [enix lee](https://open.spotify.com/artist/54weCXa5FPCsxbst0HJ2fF) | [Floor 5](https://open.spotify.com/album/6No8Oc4ges6VLYY3wLJSZi) | 1:57 |
 | 48 | [Crispiness](https://open.spotify.com/track/67TiB4FlJItKnZFtlXg51R) | [Dee Dee Kidd](https://open.spotify.com/artist/0FiYOjX2fWu29n1P8sud2s) | [Crispiness](https://open.spotify.com/album/4yyRZwLzJcPm8J7OW9zjqf) | 2:38 |
 | 49 | [good times](https://open.spotify.com/track/32gMxI1qGmOK0Rfaxqrufn) | [3scope](https://open.spotify.com/artist/4GoytqouEDWR5VebZhvPVU) | [good times](https://open.spotify.com/album/2NXPvtH4gusbeXOPpORfrN) | 2:24 |
@@ -359,4 +359,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 349 | [The Night Stop](https://open.spotify.com/track/7H5ecFdgOzPVBlmz40Uiyy) | [Idris Kelly](https://open.spotify.com/artist/2V8HJffWKh4zmPWFqvwImv) | [The Night Stop](https://open.spotify.com/album/3vOPnPE6ISclHXo9sNQ0Gw) | 2:21 |
 | 350 | [Cetosia](https://open.spotify.com/track/6JgibkidEB2L9DG34lL6Wc) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Cetosia](https://open.spotify.com/album/7GQijZZRKjGWBoP0KM8TBL) | 2:00 |
 
-Snapshot ID: `MCxkODczMDg5MjhhNmYxZjkwYzVjODVkN2U2ZjkxZTg0MTM4ODBjMzcw`
+Snapshot ID: `MCxmOTY0NWY3ZTdlZDBlYTYxNzFiMzljZWFjN2U4NjAyYWNhNDEwYWM0`

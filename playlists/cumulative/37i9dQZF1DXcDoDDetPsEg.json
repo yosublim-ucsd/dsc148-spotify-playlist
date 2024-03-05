@@ -2313,6 +2313,24 @@
     },
     {
       "album": {
+        "name": "2093",
+        "url": "https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170847,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/5NAOhPAZ57eFAXr3qatS6i"
+    },
+    {
+      "album": {
         "name": "Brick by Brick",
         "url": "https://open.spotify.com/album/52BVM9BUXNS21xpZKLxB1z"
       },

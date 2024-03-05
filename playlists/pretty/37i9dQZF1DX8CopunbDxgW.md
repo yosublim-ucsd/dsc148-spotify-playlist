@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > The best indie dance tracks of the moment\. Cover: SG Lewis & Chloé Caillet
 
-[Spotify](https://open.spotify.com/user/spotify) - 859,801 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 859,831 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [Holy Ghost](https://open.spotify.com/track/5SfOiw8SfnZhCRRARbMiRa) | [Love Language](https://open.spotify.com/artist/1S6Yd5OflS0VBmlfxlSoTM), [James Patterson](https://open.spotify.com/artist/154uf79BQbw6Q4C5dPzWdW), [Apollo Xo](https://open.spotify.com/artist/42Xhy0DeyUkNP8iQGnSG3T) | [Holy Ghost](https://open.spotify.com/album/2zS0XSliGnWyRc3mqBmZdq) | 2:47 |
 | 100 | [JOY \(I Did You Wrong\)](https://open.spotify.com/track/31ZBEAVjrABh1eSSDYPnRc) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(I Did You Wrong\)](https://open.spotify.com/album/5a929ZHQr9ctGnhlnfWjra) | 3:08 |
 
-Snapshot ID: `MCw5OTUwZDMyNDIzMTAwODQyZTZjZGY4MTE3ZjI3YWQ5NjIxZGRhZTM0`
+Snapshot ID: `MCw5NTNiZWQ0NzhiZWFjNTRkMWJmYTg0YmUyMGVlNDJiZjBjZjkxZjRj`

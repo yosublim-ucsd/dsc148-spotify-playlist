@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 704174,
+  "num_followers": 704195,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjA5M2JkMDI1ZmNjYzU2MjVhMWFmMjcwZGJjYTNiNDM4Y2FmMTA1",
+  "snapshot_id": "MCwzZDk3Y2RmYmZhZmY1NGMxNDNiYjJiMDk0NmQ0NjgxYzgzYThmYjY0",
   "tracks": [
     {
       "added_at": "2024-02-23 00:01:00",
@@ -447,6 +447,26 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
+        "name": "Lovers In A Past Life (with Rag'n'Bone Man)",
+        "url": "https://open.spotify.com/album/3VI38DDpgfFMVPrUi69V5B"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "duration_ms": 160650,
+      "name": "Lovers In A Past Life (with Rag'n'Bone Man)",
+      "url": "https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
         "name": "Asking",
         "url": "https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ"
       },
@@ -487,30 +507,6 @@
       "duration_ms": 120522,
       "name": "Would You (go to bed with me?)",
       "url": "https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "REACT",
-        "url": "https://open.spotify.com/album/3opvHAj80TIQMZAg9a2FNv"
-      },
-      "artists": [
-        {
-          "name": "Switch Disco",
-          "url": "https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki"
-        },
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        },
-        {
-          "name": "Robert Miles",
-          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
-        }
-      ],
-      "duration_ms": 201145,
-      "name": "REACT",
-      "url": "https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi"
     },
     {
       "added_at": "2024-02-14 11:37:11",
@@ -555,22 +551,26 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Lovers In A Past Life (with Rag'n'Bone Man)",
-        "url": "https://open.spotify.com/album/3VI38DDpgfFMVPrUi69V5B"
+        "name": "REACT",
+        "url": "https://open.spotify.com/album/3opvHAj80TIQMZAg9a2FNv"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          "name": "Switch Disco",
+          "url": "https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki"
         },
         {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        },
+        {
+          "name": "Robert Miles",
+          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
         }
       ],
-      "duration_ms": 160650,
-      "name": "Lovers In A Past Life (with Rag'n'Bone Man)",
-      "url": "https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn"
+      "duration_ms": 201145,
+      "name": "REACT",
+      "url": "https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi"
     },
     {
       "added_at": "2024-02-14 11:37:11",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
+        "name": "Losing It",
+        "url": "https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 248035,
+      "name": "Losing It",
+      "url": "https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
         "name": "Perfect (Exceeder)",
         "url": "https://open.spotify.com/album/2eScJnMQTMY0WYPz2MXWsp"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 179999,
       "name": "If U Need It",
       "url": "https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "Losing It",
-        "url": "https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 248035,
-      "name": "Losing It",
-      "url": "https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -1093,26 +1093,6 @@
       "url": "https://open.spotify.com/track/35TuvgQOcLcZmGlZZ3cAGq"
     },
     {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "2 RUFF, Vol. 1",
-        "url": "https://open.spotify.com/album/4SjzjaFsXvXiS7quZFzYEl"
-      },
-      "artists": [
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
-        }
-      ],
-      "duration_ms": 189693,
-      "name": "Selecta (feat. Stefflon Don)",
-      "url": "https://open.spotify.com/track/6TlFnB8GBrlILKv5qy27Sn"
-    },
-    {
       "added_at": "2024-02-14 11:37:11",
       "album": {
         "name": "Life Lesson",
@@ -1135,6 +1115,26 @@
       "duration_ms": 216466,
       "name": "Life Lesson",
       "url": "https://open.spotify.com/track/6uhB0cuM92oSetkMGvRiyr"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "2 RUFF, Vol. 1",
+        "url": "https://open.spotify.com/album/4SjzjaFsXvXiS7quZFzYEl"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        }
+      ],
+      "duration_ms": 189693,
+      "name": "Selecta (feat. Stefflon Don)",
+      "url": "https://open.spotify.com/track/6TlFnB8GBrlILKv5qy27Sn"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -1257,26 +1257,6 @@
       "url": "https://open.spotify.com/track/1YwWHm6Ad1fizVPaQ8nrco"
     },
     {
-      "added_at": "2024-02-14 11:37:11",
-      "album": {
-        "name": "Make Me Feel Good",
-        "url": "https://open.spotify.com/album/2YNIYdATkvFpTKZexocmEi"
-      },
-      "artists": [
-        {
-          "name": "Belters Only",
-          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
-        },
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 197472,
-      "name": "Make Me Feel Good",
-      "url": "https://open.spotify.com/track/4CUX44NA1CPEzd0ibMLQsL"
-    },
-    {
       "added_at": "2024-02-23 00:01:00",
       "album": {
         "name": "Side Effects",
@@ -1295,6 +1275,26 @@
       "duration_ms": 153742,
       "name": "Side Effects",
       "url": "https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp"
+    },
+    {
+      "added_at": "2024-02-14 11:37:11",
+      "album": {
+        "name": "Make Me Feel Good",
+        "url": "https://open.spotify.com/album/2YNIYdATkvFpTKZexocmEi"
+      },
+      "artists": [
+        {
+          "name": "Belters Only",
+          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 197472,
+      "name": "Make Me Feel Good",
+      "url": "https://open.spotify.com/track/4CUX44NA1CPEzd0ibMLQsL"
     },
     {
       "added_at": "2024-02-23 00:01:00",

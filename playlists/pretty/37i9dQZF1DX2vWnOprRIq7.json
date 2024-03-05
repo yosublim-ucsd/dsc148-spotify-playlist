@@ -1,12 +1,12 @@
 {
   "description": "El lado fluorescente del indie latino featuring Juan Baro.",
-  "num_followers": 17481,
+  "num_followers": 17487,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGQ0MGE1ODI5OTgwNTA5MDZiN2ZlOWU2MmM3MTMyNDQ1OGFlZGUw",
+  "snapshot_id": "MCxiMDM5Y2VjNWZmYWYzNDJiNDU5ZmQ1ZmRjZmE5OTNiZGY2YjY0NDQ2",
   "tracks": [
     {
       "added_at": "2024-02-02 03:00:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Cerca",
-        "url": "https://open.spotify.com/album/1TUM8Vh8ZWkNfHc7LENZnP"
-      },
-      "artists": [
-        {
-          "name": "Peces Raros",
-          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
-        }
-      ],
-      "duration_ms": 191571,
-      "name": "Cerca",
-      "url": "https://open.spotify.com/track/0GzgKVNy4E1E2R16zkKGOr"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "Xtasis",
         "url": "https://open.spotify.com/album/1sTh1Y7r8r24MRuFcLL7pe"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 183663,
       "name": "Lunes Por La Madrugada",
       "url": "https://open.spotify.com/track/7pEdDV1Izn1DgGhgTmhMM5"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "Cerca",
+        "url": "https://open.spotify.com/album/1TUM8Vh8ZWkNfHc7LENZnP"
+      },
+      "artists": [
+        {
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
+        }
+      ],
+      "duration_ms": 191571,
+      "name": "Cerca",
+      "url": "https://open.spotify.com/track/0GzgKVNy4E1E2R16zkKGOr"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
+        "name": "C\u00f3mplices",
+        "url": "https://open.spotify.com/album/1RDaotWeaxCyVp40sbRfbE"
+      },
+      "artists": [
+        {
+          "name": "F\u00e1rmacos",
+          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
+        }
+      ],
+      "duration_ms": 228093,
+      "name": "C\u00f3mplices",
+      "url": "https://open.spotify.com/track/1DZ7dNA91HPDKPG44KS5t9"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
         "name": "CONSTITUCI\u00d3N",
         "url": "https://open.spotify.com/album/0tUcd7rih15vA60HYbZ9LJ"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 151698,
       "name": "POLIDRAMA",
       "url": "https://open.spotify.com/track/541cVQIUsnOYmOna54whVE"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
-        "name": "C\u00f3mplices",
-        "url": "https://open.spotify.com/album/1RDaotWeaxCyVp40sbRfbE"
-      },
-      "artists": [
-        {
-          "name": "F\u00e1rmacos",
-          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
-        }
-      ],
-      "duration_ms": 228093,
-      "name": "C\u00f3mplices",
-      "url": "https://open.spotify.com/track/1DZ7dNA91HPDKPG44KS5t9"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -667,26 +667,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "\u00a1Tierra a la Vista!",
-        "url": "https://open.spotify.com/album/0OSJkds9VzdHHAZB3nI8ca"
-      },
-      "artists": [
-        {
-          "name": "Mi Amigo Invencible",
-          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
-        },
-        {
-          "name": "TELESCOPIOS",
-          "url": "https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Mapa - TLSCPS2023",
-      "url": "https://open.spotify.com/track/01cQ2zQ2wQ3gpanSWJST4x"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "aquiles </3",
         "url": "https://open.spotify.com/album/7dsvbWKSHY2BroTfogx1uK"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 195053,
       "name": "aquiles </3",
       "url": "https://open.spotify.com/track/3JlmPR9gOPy4OC3zQJp71Y"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "\u00a1Tierra a la Vista!",
+        "url": "https://open.spotify.com/album/0OSJkds9VzdHHAZB3nI8ca"
+      },
+      "artists": [
+        {
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+        },
+        {
+          "name": "TELESCOPIOS",
+          "url": "https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Mapa - TLSCPS2023",
+      "url": "https://open.spotify.com/track/01cQ2zQ2wQ3gpanSWJST4x"
     },
     {
       "added_at": "2024-02-02 03:00:00",

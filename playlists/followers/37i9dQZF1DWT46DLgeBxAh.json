@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 336265,
+  "2024-03-05": 336393,
   "date_first_scraped": "2022-05-26",
   "description": "Una mezcla sabrosa, picosita y refrescante.",
   "name": "Las Micheladas",
@@ -2922,6 +2922,24 @@
     },
     {
       "album": {
+        "name": "Dolido Pero No Arrepentido",
+        "url": "https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147877,
+      "name": "Enculado",
+      "url": "https://open.spotify.com/track/3RauwC9sLKjxVN7uNw0vAH"
+    },
+    {
+      "album": {
         "name": "Enloquecido",
         "url": "https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI"
       },
@@ -4527,7 +4545,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 155550,
       "name": "Las Morras",
       "url": "https://open.spotify.com/track/7Lkxvfl2rkNYWS4kBDCQtN"
@@ -6297,7 +6315,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 308040,
       "name": "Que Locura Enamorarme De Ti",
       "url": "https://open.spotify.com/track/1TMxv8sfUhU55AC6Ul1PU5"
@@ -7707,7 +7725,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 158965,
       "name": "TQM",
       "url": "https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu"

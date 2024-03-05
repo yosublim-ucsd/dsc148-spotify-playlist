@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 
 > Kick back and relax after a hard day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,547 likes - 150 songs - 10 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,553 likes - 150 songs - 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 | 24 | [Come Rain or Come Shine](https://open.spotify.com/track/2Z7U506Agti2s9uxP564LE) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding With The King](https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c) | 4:11 |
 | 25 | [Spoonful \- Single Version](https://open.spotify.com/track/1swNbKiUEwgTM6jnkx5rkm) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb), [Harvey Fuqua](https://open.spotify.com/artist/0F577kU2Hk9gr4mAzK60tZ) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:47 |
 | 26 | [Forget What I Said](https://open.spotify.com/track/0yJNGGGZ9eQj4vmvmeornZ) | [Noora Noor](https://open.spotify.com/artist/50V1rySVqHjoqJTi9iy3xl) | [Soul Deep](https://open.spotify.com/album/1GHZSCmUsDkrJwxzX0zGm6) | 3:19 |
-| 27 | [Make It All Work Out](https://open.spotify.com/track/19FzdCwxA7hIsbmF8DLac5) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Make It All Work Out](https://open.spotify.com/album/1yp2fTsVvwlrI65in48hWX) | 3:05 |
+| 27 | [Fire On The Floor](https://open.spotify.com/track/1pkxY9XyI1H4xHq7e00QgW) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Fire on the Floor \(Deluxe Edition\)](https://open.spotify.com/album/3DmktzDKQ3DUIdYX3c49gP) | 5:11 |
 | 28 | [Don't Let the Green Grass Fool You](https://open.spotify.com/track/5THq6PaoknpouVWXSYb7TQ) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU), [The Midnight Band](https://open.spotify.com/artist/4QIUZHZcicCxWwPhdxIoFR) | [Don't Let the Green Grass Fool You](https://open.spotify.com/album/6YbAF3vpQIHA0XXa4GzS5A) | 3:45 |
-| 29 | [Fire On The Floor](https://open.spotify.com/track/1pkxY9XyI1H4xHq7e00QgW) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Fire on the Floor \(Deluxe Edition\)](https://open.spotify.com/album/3DmktzDKQ3DUIdYX3c49gP) | 5:11 |
+| 29 | [Make It All Work Out](https://open.spotify.com/track/19FzdCwxA7hIsbmF8DLac5) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Make It All Work Out](https://open.spotify.com/album/1yp2fTsVvwlrI65in48hWX) | 3:05 |
 | 30 | [Salt In My Wounds](https://open.spotify.com/track/5XtVpa3LiJHfnTxRzbfU74) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 4:13 |
 | 31 | [Slip\-In Mules](https://open.spotify.com/track/6csem6tEhhkajgNUhIDFB1) | [Sugar Pie DeSanto](https://open.spotify.com/artist/3xIkJAnwLy7NwZpPwvaSPc) | [In The Basement: The Chess Recordings](https://open.spotify.com/album/0LH0ZJuhr4TJMWud6K6qdy) | 2:47 |
 | 32 | [Honeycomb](https://open.spotify.com/track/6IfSKUayA6YpNLVtfsEDrc) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [If These Walls Could Talk](https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw) | 2:57 |
@@ -82,10 +82,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 | 72 | [Oh Frustration](https://open.spotify.com/track/6wzjO71k5y5NLqOqQmnZDP) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp) | [Oh Frustration](https://open.spotify.com/album/0wvfEf0tnVJ0tf44k4AxVo) | 3:46 |
 | 73 | [River](https://open.spotify.com/track/2nn2TnyajaSRTbcZQxYVL7) | [The Meltdown](https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf) | [River](https://open.spotify.com/album/5Z8f8n8ljs1bIkXLCyxM5E) | 4:30 |
 | 74 | [Drivin' Wheel \- Single Version](https://open.spotify.com/track/4r08u8N2RSeorASn62yHr6) | [Little Junior Parker](https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM) | [Driving Wheel](https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP) | 2:37 |
-| 75 | [I Don't Know What You've Got](https://open.spotify.com/track/2I5D6pMboqouze5XiRNK0D) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Mike Farris](https://open.spotify.com/artist/2lGlFTygMMk37JsYm8a46o) | [The Blues Album](https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS) | 4:49 |
-| 76 | [It Hurts Me Too](https://open.spotify.com/track/7tPJRpGrQow5dUO1xJijy0) | [Jeremy Spencer](https://open.spotify.com/artist/3GrqVz7V3Hd8gvfvUcR9wk) | [Precious Little](https://open.spotify.com/album/2B4SeINqci6ufKTo3XNoCN) | 4:49 |
-| 77 | [Real Contender](https://open.spotify.com/track/5WUvMBugUOJOcsqhxZyrFE) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Real Contender](https://open.spotify.com/album/73z0NmoqHCZyzO5kQPsor9) | 3:21 |
-| 78 | [Made Up Mind](https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Made Up Mind](https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh) | 3:40 |
+| 75 | [Made Up Mind](https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Made Up Mind](https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh) | 3:40 |
+| 76 | [I Don't Know What You've Got](https://open.spotify.com/track/2I5D6pMboqouze5XiRNK0D) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Mike Farris](https://open.spotify.com/artist/2lGlFTygMMk37JsYm8a46o) | [The Blues Album](https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS) | 4:49 |
+| 77 | [It Hurts Me Too](https://open.spotify.com/track/7tPJRpGrQow5dUO1xJijy0) | [Jeremy Spencer](https://open.spotify.com/artist/3GrqVz7V3Hd8gvfvUcR9wk) | [Precious Little](https://open.spotify.com/album/2B4SeINqci6ufKTo3XNoCN) | 4:49 |
+| 78 | [Real Contender](https://open.spotify.com/track/5WUvMBugUOJOcsqhxZyrFE) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Real Contender](https://open.spotify.com/album/73z0NmoqHCZyzO5kQPsor9) | 3:21 |
 | 79 | [Third Degree](https://open.spotify.com/track/3R6Lzof0YvFqhE8ca1BYMh) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [From the Cradle](https://open.spotify.com/album/5P2ZoNb6NJL7P5VexrQOeg) | 5:08 |
 | 80 | [Eyes on You](https://open.spotify.com/track/4O84Px6Z2O9tVHEWmdNlbh) | [3 One Oh](https://open.spotify.com/artist/0LeWcad3qLZOVYNxm5pG7e) | [11:11](https://open.spotify.com/album/7hcpccC92U2HwoeKRkclF0) | 3:20 |
 | 81 | [All the Way](https://open.spotify.com/track/4AdSZ9NCONM50Nu4xGCAO3) | [The Robert Cray Band](https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P) | [Take Your Shoes Off](https://open.spotify.com/album/7d1NEzBKMoeIlmqk8GUkLh) | 5:11 |
@@ -146,8 +146,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 | 136 | [Mississippi](https://open.spotify.com/track/61afTyjnWQ0q4cQXg4av0f) | [Mitch Grainger](https://open.spotify.com/artist/20YnCe7GdPL4jRwAT2B73G) | [Mississippi](https://open.spotify.com/album/6eZrs4qARcRDdJf1I0ZUwC) | 3:28 |
 | 137 | [Feel](https://open.spotify.com/track/5V8ofCBuw6EmhOvmvZc18Z) | [Yasmine Gill](https://open.spotify.com/artist/3lUHHWVDBZVXnh1JCZ8P5I) | [Feel](https://open.spotify.com/album/66k33fj9TsE9XXcipKoSTh) | 3:51 |
 | 138 | [Easiest Thing](https://open.spotify.com/track/3Y7yfpUKrXsOfNGTh5ayEF) | [Harrison Kennedy](https://open.spotify.com/artist/3VhLy0vBgFArC1TC71KmBB), [Colin Linden](https://open.spotify.com/artist/6bFn0wonviH3NJmY1FSNkZ) | [Thanks for Tomorrow](https://open.spotify.com/album/0aJA4yHrcJvWvr7PNEkMYM) | 3:39 |
-| 139 | [Hear My Prayer](https://open.spotify.com/track/06R14qk3s1Zm9DvridBsGn) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [Connor Selby \(Deluxe Edition\)](https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU) | 4:50 |
-| 140 | [Lost Count \- Live](https://open.spotify.com/track/2WVdl7Dja5y0vv8mrn6Fwa) | [Ebba Forsberg](https://open.spotify.com/artist/1MrzQFvlf2DzLE1qP98ehk) | [Live](https://open.spotify.com/album/6lJWfWMqJ3suSucrbR6Kv2) | 2:29 |
+| 139 | [Lost Count \- Live](https://open.spotify.com/track/2WVdl7Dja5y0vv8mrn6Fwa) | [Ebba Forsberg](https://open.spotify.com/artist/1MrzQFvlf2DzLE1qP98ehk) | [Live](https://open.spotify.com/album/6lJWfWMqJ3suSucrbR6Kv2) | 2:29 |
+| 140 | [Hear My Prayer](https://open.spotify.com/track/06R14qk3s1Zm9DvridBsGn) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [Connor Selby \(Deluxe Edition\)](https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU) | 4:50 |
 | 141 | [Fireman](https://open.spotify.com/track/2sSpzTMLQTLn2BjPTuSyaO) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Hard to Kill](https://open.spotify.com/album/53nnG57cJkUHY52Ftihn0P) | 3:27 |
 | 142 | [Oh Betty \- Acoustic](https://open.spotify.com/track/1C4ayOcgsNOZY22ILwQUOs) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Oh Betty \(Acoustic\)](https://open.spotify.com/album/32AiTELx9KA7FUhXIq4Ibr) | 4:06 |
 | 143 | [I'll Be There Waiting](https://open.spotify.com/track/2VqS4goWQHF6Gf9H5QykuH) | [Dylan Triplett](https://open.spotify.com/artist/3hCmpGNTSpLH1Dj74VLNJN) | [Who Is He?](https://open.spotify.com/album/0NhSm5EghvrjBuHtg0mZ6e) | 3:15 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 | 149 | [Am I Still Mine](https://open.spotify.com/track/7kiIMHdCluymsCJ6DmxuyU) | [Murphy](https://open.spotify.com/artist/3GeAbNoHc67eZKfxO6KtdN) | [Am I Still Mine](https://open.spotify.com/album/1wziCgGwodAnDKC8gIT3Qr) | 2:35 |
 | 150 | [Grease the Wheel](https://open.spotify.com/track/7zAaLt4VJczZoFBMEKLLDO) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz), [Dave Smith](https://open.spotify.com/artist/1s4eoQWvWMQLJaQSRCWjdQ), [Rick Steff](https://open.spotify.com/artist/56xwtEWZGNJmyXZjERQ7OX), [Steve Potts](https://open.spotify.com/artist/2Z43xSYYSpeO07H2BYQD53) | [A Soul to Claim](https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj) | 4:11 |
 
-Snapshot ID: `MCwwNzUxMDEyZjg3YzgxZTI4MmIxYjcyMGMxZTNiMDZjZTM2NDgyYjg3`
+Snapshot ID: `MCxhNjUxNDg5M2RiYTBmYWRjNjQ1MjZhYzNlN2EwMDA3ZmMyNGEyYzg4`

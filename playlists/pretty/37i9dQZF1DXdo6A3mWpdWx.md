@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdo6A3mWpdWx.md) - [plain]
 
 > The biggest party hits of the 1990s\. Cover: Jennifer Lopez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 799,935 likes - 150 songs - 10 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 800,527 likes - 150 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdo6A3mWpdWx.md) - [plain]
 | 149 | [Dreamer \- Janice Robinson Vocal](https://open.spotify.com/track/6wetvpPWooBdmAEOKnDhpo) | [Livin' Joy](https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu) | [Don’t Stop Movin’](https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71) | 3:43 |
 | 150 | [Free](https://open.spotify.com/track/0kqatfl1V116n4U2gKZQuV) | [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [Free \- The Strictly Collection](https://open.spotify.com/album/22lrjYvBGWwOfZ535fJXlT) | 5:53 |
 
-Snapshot ID: `MCw4N2QwYzExMDczNGZkZGY0YTMyZTU2MzBmM2ZkOTIwN2MxNGJhM2I3`
+Snapshot ID: `MCwzMDlhZTMxNjdlZWZkMDliNmRiN2U3YzAzMzk3OTY4MWEzODIzMmFh`

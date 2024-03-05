@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > chill beats, lofi vibes, new tracks every week...
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,256,516 likes - 750 songs - 1 day 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,257,308 likes - 750 songs - 1 day 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 94 | [peanut dream shake](https://open.spotify.com/track/32R8uRLa9uf1ffKWhVrdFR) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [longing for](https://open.spotify.com/album/7aqITKpq0WfAmXYwNCwj9u) | 2:45 |
 | 95 | [Tiger Tales \(of the Concrete Jungle\)](https://open.spotify.com/track/2Jtxx7JTFeEq7vGG5mxgMV) | [Tigerpalm\*Bay](https://open.spotify.com/artist/17AFp9vXzeK7mwKhcFFB5J) | [Tiger Tales \(of the Concrete Jungle\)](https://open.spotify.com/album/6FfMLwzNxswjsR5tlM0YGV) | 3:10 |
 | 96 | [starry night](https://open.spotify.com/track/4EpMnMxqGXNfmDmEV4Uq6E) | [Mathis](https://open.spotify.com/artist/19MFUmiYwTLD77ECnzbVWa) | [starry night](https://open.spotify.com/album/3Izct1glTX9dzY3SMbodJO) | 2:23 |
-| 97 | [Ink of Dawn](https://open.spotify.com/track/58hRwiMXGNrQD9hUYbMCBq) | [Basicboy](https://open.spotify.com/artist/6NhNVWuAGFt7hfq9M4kj9U) | [Ink of Dawn](https://open.spotify.com/album/0Ka0O1ax4qdfJ9FJnsfiLg) | 1:55 |
-| 98 | [All downhill from here](https://open.spotify.com/track/2MFbMTRA9SYAZJvjv0mzbm) | [Art Vandeley](https://open.spotify.com/artist/6aHekjqSdW1DwredIrNAWE) | [All downhill from here](https://open.spotify.com/album/0P8byZc39T2R6c9o28xAHp) | 2:10 |
-| 99 | [the clearing](https://open.spotify.com/track/3oY2RXnYoPhtf6r552KfbN) | [Zoe Reed](https://open.spotify.com/artist/4mZWwBPYRI8NSMUBAH8WFE) | [the clearing](https://open.spotify.com/album/4KtXivGbPCcyyzs8mb54CJ) | 2:28 |
+| 97 | [the clearing](https://open.spotify.com/track/3oY2RXnYoPhtf6r552KfbN) | [Zoe Reed](https://open.spotify.com/artist/4mZWwBPYRI8NSMUBAH8WFE) | [the clearing](https://open.spotify.com/album/4KtXivGbPCcyyzs8mb54CJ) | 2:28 |
+| 98 | [Ink of Dawn](https://open.spotify.com/track/58hRwiMXGNrQD9hUYbMCBq) | [Basicboy](https://open.spotify.com/artist/6NhNVWuAGFt7hfq9M4kj9U) | [Ink of Dawn](https://open.spotify.com/album/0Ka0O1ax4qdfJ9FJnsfiLg) | 1:55 |
+| 99 | [All downhill from here](https://open.spotify.com/track/2MFbMTRA9SYAZJvjv0mzbm) | [Art Vandeley](https://open.spotify.com/artist/6aHekjqSdW1DwredIrNAWE) | [All downhill from here](https://open.spotify.com/album/0P8byZc39T2R6c9o28xAHp) | 2:10 |
 | 100 | [catch me](https://open.spotify.com/track/2YWzE3OlGyjqMF33UvIay1) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [catch me](https://open.spotify.com/album/5Ba3nDEnqnkF3Hq2YBIDGy) | 2:31 |
 | 101 | [Surf Tiger](https://open.spotify.com/track/0jwpEqWMwo5fR1XQXic4lg) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Surf Tiger](https://open.spotify.com/album/4jTtUszaxX0G32HP7nG2SE) | 3:02 |
 | 102 | [Swell](https://open.spotify.com/track/2NDAiSSorPzaQ7i5sx4dDI) | [Palm Beats](https://open.spotify.com/artist/1c9zS9phaYUjbZnzYfGoFx) | [Just One More Thing](https://open.spotify.com/album/0OjE95D7HmdIY5VghaCRhx) | 1:48 |
@@ -129,8 +129,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 119 | [Incredibly happy](https://open.spotify.com/track/6FVL1EGTz7nWEzuUz6VpvF) | [Silk Soul](https://open.spotify.com/artist/2DgL3THTMvM0MfSTaYYMAI) | [Incredibly happy](https://open.spotify.com/album/4aE1MMVBFm1WESG0pRYHJs) | 2:39 |
 | 120 | [Green Cascade](https://open.spotify.com/track/3RpuDYXAtud2yNQF1Xa3JD) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Green Cascade](https://open.spotify.com/album/4Oa7Ba1NWIGoCo3X1jcobF) | 2:35 |
 | 121 | [Flow State](https://open.spotify.com/track/71XyPCA7lYpu2IH6OVGlvr) | [Poof Tricks](https://open.spotify.com/artist/7bsFDdgLDm7RwRNPQhbq5q) | [Flow State](https://open.spotify.com/album/1yvMQPDOZUWcojv5pk8133) | 2:38 |
-| 122 | [couch sitters](https://open.spotify.com/track/0jImgMHObhq0VhS6f9Qlla) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [couch sitters](https://open.spotify.com/album/25RSOMykbvd0dc9fTK8qkG) | 2:34 |
-| 123 | [Believe \- Instrumental](https://open.spotify.com/track/53Cls86VDCYr9iU3SxMEcX) | [Kid Abstrakt](https://open.spotify.com/artist/0UWaozNVyePawOPEWOdU4w), [Leo Low Pass](https://open.spotify.com/artist/6O5EImeAtQgZ914wsKeLR7) | [Believe \(Instrumental\)](https://open.spotify.com/album/21NMBWSYvBltO3Gy0u4joh) | 2:58 |
+| 122 | [Believe \- Instrumental](https://open.spotify.com/track/53Cls86VDCYr9iU3SxMEcX) | [Kid Abstrakt](https://open.spotify.com/artist/0UWaozNVyePawOPEWOdU4w), [Leo Low Pass](https://open.spotify.com/artist/6O5EImeAtQgZ914wsKeLR7) | [Believe \(Instrumental\)](https://open.spotify.com/album/21NMBWSYvBltO3Gy0u4joh) | 2:58 |
+| 123 | [couch sitters](https://open.spotify.com/track/0jImgMHObhq0VhS6f9Qlla) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [couch sitters](https://open.spotify.com/album/25RSOMykbvd0dc9fTK8qkG) | 2:34 |
 | 124 | [Through The Garden](https://open.spotify.com/track/1oAFrGbUMmg7pPXVzrVrS6) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Through The Garden](https://open.spotify.com/album/7fl4nfQ0Sxav2ovfUWOLhC) | 2:06 |
 | 125 | [Behind the stars](https://open.spotify.com/track/2Qu8fz0Ae2tNvBefZoZIJF) | [Slumbering Elk](https://open.spotify.com/artist/3W4MGKEEUJe6RfPWvIq5Nc) | [Behind the stars](https://open.spotify.com/album/1vfOBiWpg9jEabvNeQaxp9) | 2:22 |
 | 126 | [Woollen Potato](https://open.spotify.com/track/5WSBqCeXfUE6A7siQZewYK) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Woollen Potato](https://open.spotify.com/album/0Hp5rOXs5sNNdgYmUVdsu2) | 2:30 |
@@ -307,9 +307,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 297 | [Night Life Funk](https://open.spotify.com/track/5DCgU6By4P5jj1j3ihhCCJ) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Night Life Funk](https://open.spotify.com/album/2hJHpKgloguDA3s8TxMBbQ) | 1:59 |
 | 298 | [Moradia](https://open.spotify.com/track/0IaeI6ObFm0nxR0vlZ0JTd) | [Kimmø](https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz) | [Moradia](https://open.spotify.com/album/4tVHSfSB1xUUxm77D9Ym6n) | 2:47 |
 | 299 | [Nostalgic](https://open.spotify.com/track/7qT2KT4j6HZ6qCyQ8mLv1s) | [Nostalgique](https://open.spotify.com/artist/4i29Lf2vHDzbCPrkdP3uoM) | [Nostalgic](https://open.spotify.com/album/4Kw3dlJ1SVQxwj5o4J2GJ9) | 1:52 |
-| 300 | [Her Eyes](https://open.spotify.com/track/5eOCrmiQUUU18hc2k8d95C) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3) | [Her Eyes](https://open.spotify.com/album/6Y2r1GU9Nrxx7ojuZ6oTO1) | 3:32 |
-| 301 | [INI](https://open.spotify.com/track/3ZsWshOKQ6Gd2rSh4p0nkR) | [Nick Mosh](https://open.spotify.com/artist/5ZprAKTt6mHV0qSdABSUPx), [Half Empty](https://open.spotify.com/artist/1KCCx7ZPVGykwC51uU5RZg), [Silvan](https://open.spotify.com/artist/0UDZfMVlQZI3VmoidesSxz) | [INI](https://open.spotify.com/album/1vQLpQ04Cplni9jihcYdWo) | 2:19 |
-| 302 | [Tokyo Lights](https://open.spotify.com/track/4DkAN8ownDd6sDUOVUZyG4) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Tokyo Lights](https://open.spotify.com/album/6J2YMaUFDJf0eoQCgr3o6p) | 2:05 |
+| 300 | [INI](https://open.spotify.com/track/3ZsWshOKQ6Gd2rSh4p0nkR) | [Nick Mosh](https://open.spotify.com/artist/5ZprAKTt6mHV0qSdABSUPx), [Half Empty](https://open.spotify.com/artist/1KCCx7ZPVGykwC51uU5RZg), [Silvan](https://open.spotify.com/artist/0UDZfMVlQZI3VmoidesSxz) | [INI](https://open.spotify.com/album/1vQLpQ04Cplni9jihcYdWo) | 2:19 |
+| 301 | [Tokyo Lights](https://open.spotify.com/track/4DkAN8ownDd6sDUOVUZyG4) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Tokyo Lights](https://open.spotify.com/album/6J2YMaUFDJf0eoQCgr3o6p) | 2:05 |
+| 302 | [Her Eyes](https://open.spotify.com/track/5eOCrmiQUUU18hc2k8d95C) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3) | [Her Eyes](https://open.spotify.com/album/6Y2r1GU9Nrxx7ojuZ6oTO1) | 3:32 |
 | 303 | [island vibes](https://open.spotify.com/track/1afFU8ViYqQo6XMXxyKCfl) | [dLira](https://open.spotify.com/artist/62qH5lO3YpMpkVJJb7JuEv) | [island vibes](https://open.spotify.com/album/0r3fC17UPhDT0Pgqs2UCf5) | 2:36 |
 | 304 | [Stroll](https://open.spotify.com/track/7w7jNbglIedd2HDaQwJqaK) | [digitalluc](https://open.spotify.com/artist/4WT5TNNUvgRLjAiWce3K5z) | [Stroll](https://open.spotify.com/album/6pSmR7ZyMToEopTCHWfjHc) | 2:15 |
 | 305 | [With your eyes!](https://open.spotify.com/track/1USmYJcOKa94oA58sRnOXJ) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [With your eyes!](https://open.spotify.com/album/2WomwpHMSA6E2yrMSEJxCI) | 2:29 |
@@ -325,8 +325,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 315 | [Crossways](https://open.spotify.com/track/5h1vwhXySKOCK9eiQFg2q7) | [Sobbel Sosch](https://open.spotify.com/artist/32E7sOawaXS4fuVyr15Jok) | [Crossways](https://open.spotify.com/album/11G2XQ5DS7fRXDiPSk2HIi) | 2:01 |
 | 316 | [Paralized](https://open.spotify.com/track/0uysLSYAkvapieJYKTvQTp) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Paralized](https://open.spotify.com/album/1NsUtfR1ZKtbHEpe39G8Wi) | 2:16 |
 | 317 | [Secret Smile](https://open.spotify.com/track/17tieyUu87CKZTCXYuNPtS) | [Bongmaster](https://open.spotify.com/artist/6AT5AgVdTXN7xsjqM4Zn1g), [J\. Lorenzo](https://open.spotify.com/artist/1znEpSLL4247fcHcMICTgN) | [Secret Smile](https://open.spotify.com/album/3zXtPH0AiLeoa4gJPlaru1) | 2:08 |
-| 318 | [Buttersweet](https://open.spotify.com/track/1d5pAGQRJ9ROCOuxK52uED) | [Moox](https://open.spotify.com/artist/0ujZnGAenOcihPvgnnY2qq) | [Buttersweet](https://open.spotify.com/album/6GuzaGSiWBXbyRcOMAgsBJ) | 2:57 |
-| 319 | [wicked](https://open.spotify.com/track/0Li6Y0Noq9THd4sTR7e5wq) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [wicked](https://open.spotify.com/album/08xWG2vUxhVXsjPFo9yajA) | 2:26 |
+| 318 | [wicked](https://open.spotify.com/track/0Li6Y0Noq9THd4sTR7e5wq) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [wicked](https://open.spotify.com/album/08xWG2vUxhVXsjPFo9yajA) | 2:26 |
+| 319 | [Buttersweet](https://open.spotify.com/track/1d5pAGQRJ9ROCOuxK52uED) | [Moox](https://open.spotify.com/artist/0ujZnGAenOcihPvgnnY2qq) | [Buttersweet](https://open.spotify.com/album/6GuzaGSiWBXbyRcOMAgsBJ) | 2:57 |
 | 320 | [Summer Fling](https://open.spotify.com/track/025fnb5QpOzoJEIdUJhCIx) | [lilhugz](https://open.spotify.com/artist/3MjTMOiHklTmUksExsbTwq) | [Summer Fling](https://open.spotify.com/album/1Qr4i28xsPR7XtTHYTbMBH) | 2:08 |
 | 321 | [Fern](https://open.spotify.com/track/6Qw2JmzSRWNxgysJLo7pXK) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Fern](https://open.spotify.com/album/3Yt9yisOsPP2408sZG62CC) | 2:03 |
 | 322 | [Heroes Retreat](https://open.spotify.com/track/1iD0vEZSvlpsDRSN6y3o0J) | [Conjure kid](https://open.spotify.com/artist/3mFXDnOibfFGvbYkqAt2XU) | [Heroes Retreat](https://open.spotify.com/album/3zkjaXc1ojZQnC61ZhDgTP) | 2:03 |
@@ -518,9 +518,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 508 | [Synthetic Forest](https://open.spotify.com/track/5Lplx3jpmE2GjvCZxxjBVA) | [East Lassitude](https://open.spotify.com/artist/0LY4tSbZ3fJinTgpoIudAm) | [Synthetic Forest](https://open.spotify.com/album/6YTIod9c8bs3AFucyEZTk1) | 2:55 |
 | 509 | [Grand Master](https://open.spotify.com/track/1vDIIfv8qU7xPmK44oAdn7) | [Spiral Groove](https://open.spotify.com/artist/1gWC6rCLFzEeh7k62E1Ah0) | [Grand Master](https://open.spotify.com/album/2pjhEAX1kHJZ0W73jMTG6x) | 2:10 |
 | 510 | [chemistry](https://open.spotify.com/track/1MjmayyHSczxHONWSE2WMs) | [BTZ cult](https://open.spotify.com/artist/5tiJzztsDP2iMsotmtModp) | [chemistry](https://open.spotify.com/album/1zOHpqsSHargJchc6TJORp) | 2:00 |
-| 511 | [Salamander](https://open.spotify.com/track/7dUsHeAcBqjsMTi44q2mdL) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [Salamander](https://open.spotify.com/album/2mofgRp3ne1mYeUZowFnpu) | 2:40 |
-| 512 | [Club Miles](https://open.spotify.com/track/5xH4aNwEL2QXeQVweptVRN) | [L.O.F.I](https://open.spotify.com/artist/2DikRUY57gNUtzrnk5NUxh) | [Club Miles](https://open.spotify.com/album/1wp9baWZ5LG4J4g2TBwREL) | 1:37 |
-| 513 | [Barefoot in the Sand](https://open.spotify.com/track/7vH9JNHOk3ylJ23xPR5GXJ) | [Cmd q](https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG) | [Sunflower](https://open.spotify.com/album/6bFBt4vhKKDqgFc1y0GpUS) | 2:14 |
+| 511 | [Barefoot in the Sand](https://open.spotify.com/track/7vH9JNHOk3ylJ23xPR5GXJ) | [Cmd q](https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG) | [Sunflower](https://open.spotify.com/album/6bFBt4vhKKDqgFc1y0GpUS) | 2:14 |
+| 512 | [Salamander](https://open.spotify.com/track/7dUsHeAcBqjsMTi44q2mdL) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [Salamander](https://open.spotify.com/album/2mofgRp3ne1mYeUZowFnpu) | 2:40 |
+| 513 | [Club Miles](https://open.spotify.com/track/5xH4aNwEL2QXeQVweptVRN) | [L.O.F.I](https://open.spotify.com/artist/2DikRUY57gNUtzrnk5NUxh) | [Club Miles](https://open.spotify.com/album/1wp9baWZ5LG4J4g2TBwREL) | 1:37 |
 | 514 | [The Snake](https://open.spotify.com/track/0lIHz63qelEXD9DALn5Qv6) | [Little Smokey](https://open.spotify.com/artist/5dsmlVS4HsQ44fEGCmARw4) | [The Snake](https://open.spotify.com/album/5RyZDHHECNTeKIKMzaOyBi) | 2:08 |
 | 515 | [Lost My Phone](https://open.spotify.com/track/7AXaLj6cResdj2IoXosrXN) | [Bomshi](https://open.spotify.com/artist/6s7sxozM3KaMc1b6MKjAWz), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Lost My Phone](https://open.spotify.com/album/2PgLCWkfUrZjuzSvBXrW3G) | 2:04 |
 | 516 | [True Sound](https://open.spotify.com/track/3lgPNSkfX3Ri0nfNlkpGEX) | [Dewas](https://open.spotify.com/artist/5vOoLaBLQ3YjZrbbrintS1) | [True Sound](https://open.spotify.com/album/4j1uDP4rRr3XV6UdNS2ZbE) | 1:46 |
@@ -759,4 +759,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 749 | [Pagans](https://open.spotify.com/track/6OrK4sjjGOvTuqQlx4QHhe) | [Brother Took](https://open.spotify.com/artist/1pZIRdqI2jk41VuxmqS9e1) | [Pagans](https://open.spotify.com/album/4zGcYEFzgMUKyT2lyNlHqP) | 2:13 |
 | 750 | [Chang](https://open.spotify.com/track/2HgAzyBHR3TGJBpksx3I6L) | [AN99](https://open.spotify.com/artist/6ufkUF0S5027zUcnMvQq0I) | [Chang](https://open.spotify.com/album/7ckxYovGXDYUTtGfgzkKbU) | 1:45 |
 
-Snapshot ID: `MCwyNGU3Yjc2ZWU0OTM1OGFmZTIzYzhkZGExY2FmZWUwM2RkZDQxOGY2`
+Snapshot ID: `MCw5YzVkZGVjNTFlNmU2OGEwYTkyOThhMDhiYTBkMzZmMzgyZjVmMmE0`

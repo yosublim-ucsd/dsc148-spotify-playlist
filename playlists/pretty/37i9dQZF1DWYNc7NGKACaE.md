@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 
 > essa é só pra quem vive no 2.0x
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,970 likes - 66 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,002 likes - 66 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 41 | [Ametista \- Speed Up](https://open.spotify.com/track/00YEk4Jfp0hvzA9Jlbp11s) | [WZ MC](https://open.spotify.com/artist/61NU9Rh9OeA6dK1xXsqdud), [AyDucz](https://open.spotify.com/artist/0EAZjy1z2Tl4FCc58ivbqZ) | [Ametista \(Speed Up\)](https://open.spotify.com/album/1HcOE3ol5qAHGmldOsgMbd) | 1:47 |
 | 42 | [Joga na Cara \(Versão Speed\)](https://open.spotify.com/track/1pVFSyBX7zVzZtcI5a9y5z) | [MC Braz](https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ), [MC Gabluca](https://open.spotify.com/artist/3t79G9FgRevO8CGsP9B6I8) | [Joga na Cara \(Versão Speed\)](https://open.spotify.com/album/2Lh5XIcVNQdd8Dq2lglDGo) | 1:37 |
 | 43 | [Como Era Antes..\. \(Speed Up\)](https://open.spotify.com/track/1ehN4TuEBlGb3ievwvTIhQ) | [rs9](https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9) | [Como Era Antes](https://open.spotify.com/album/6ftwzFoSNWFnJLcZ2seY98) | 1:04 |
-| 44 | [TRABALHANDO MUITO, Quem é Você Seu Comédia](https://open.spotify.com/track/7mSweyinAvjEFBy6sSTjkg) | [ARTHUR DE AFC](https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb), [Funk SÉRIE GOLD](https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n), [Dj LD da Favelinha](https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7) | [TRABALHANDO MUITO, Quem é Você Seu Comédia](https://open.spotify.com/album/3xRQIsFyx99ERIDNL7T7eA) | 2:48 |
-| 45 | [Virgulado \- Speed](https://open.spotify.com/track/2W9O45APFy8vqX5g2Rtfns) | [Nino Leone](https://open.spotify.com/artist/3WhUu0CKDwlQL9UDMccCCx), [Goodboysut](https://open.spotify.com/artist/7mGIf59rGrAZEv55wcSXvW) | [Virgulado](https://open.spotify.com/album/6N1NIsdnVMvU9SGAFcOgSk) | 2:07 |
-| 46 | [F\* F\* M\* \- No Beat SÉRIE GOLD](https://open.spotify.com/track/0s8402HaaJsq8IyzDFS7Cm) | [Dj LD da Favelinha](https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7) | [F\* F\* M\* \- No Beat SÉRIE GOLD](https://open.spotify.com/album/3NMKPK8rfEoipLRik4fqwi) | 2:56 |
+| 44 | [F\* F\* M\* \- No Beat SÉRIE GOLD](https://open.spotify.com/track/0s8402HaaJsq8IyzDFS7Cm) | [Dj LD da Favelinha](https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7) | [F\* F\* M\* \- No Beat SÉRIE GOLD](https://open.spotify.com/album/3NMKPK8rfEoipLRik4fqwi) | 2:56 |
+| 45 | [TRABALHANDO MUITO, Quem é Você Seu Comédia](https://open.spotify.com/track/7mSweyinAvjEFBy6sSTjkg) | [ARTHUR DE AFC](https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb), [Funk SÉRIE GOLD](https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n), [Dj LD da Favelinha](https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7) | [TRABALHANDO MUITO, Quem é Você Seu Comédia](https://open.spotify.com/album/3xRQIsFyx99ERIDNL7T7eA) | 2:48 |
+| 46 | [Virgulado \- Speed](https://open.spotify.com/track/2W9O45APFy8vqX5g2Rtfns) | [Nino Leone](https://open.spotify.com/artist/3WhUu0CKDwlQL9UDMccCCx), [Goodboysut](https://open.spotify.com/artist/7mGIf59rGrAZEv55wcSXvW) | [Virgulado](https://open.spotify.com/album/6N1NIsdnVMvU9SGAFcOgSk) | 2:07 |
 | 47 | [Luxo & Crime Speed](https://open.spotify.com/track/5ePLQDDDMDk2iJgJuciFq6) | [ogtreasure](https://open.spotify.com/artist/3SyOg7lVYi7SEIVgvaVKe0), [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [akao.47](https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh), [Yauke](https://open.spotify.com/artist/175mTYHITiXXjSZAICQrPr) | [Luxo & Crime Speed](https://open.spotify.com/album/5gE4qRAOr2KTTqKI3OBOGc) | 2:20 |
 | 48 | [SEGREDO VERSÃO BH](https://open.spotify.com/track/7KJ3zD65Na61RsIcqfEfQr) | [Dj Vr Silva](https://open.spotify.com/artist/0IT4DLPp12S9xBzobzce1I), [Karui](https://open.spotify.com/artist/6pJDaYMxmgvbKfRXFkAVYw) | [SEGREDO VERSÃO BH](https://open.spotify.com/album/7Mkqs7f1Ut0cXuKUz3TKMs) | 2:36 |
 | 49 | [Ah Vai Ter Que Descer \- Remix](https://open.spotify.com/track/3Ghgj25OQNnBFPj1lkPBCf) | [LC DE VV](https://open.spotify.com/artist/2N11bSwFZ641NOPMMBdm5p) | [Ah Vai Ter Que Descer \- Remix](https://open.spotify.com/album/7hb5M57k7UhjH4ReSryqWv) | 1:42 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 65 | [Peça \- Speed](https://open.spotify.com/track/5IpBsqWPLu7PEeT2nwc8gV) | [soiff](https://open.spotify.com/artist/1WDWki77tJepD82NpS4xIk), [uhENZX](https://open.spotify.com/artist/52fAfxMuT0da9zgXHlixmz) | [Peça](https://open.spotify.com/album/7E3g8qsgfOfCeLkipm0PSt) | 2:15 |
 | 66 | [Tipo Naldo \- Speed Up](https://open.spotify.com/track/2qtBBIFce6oCciYrb84Mgh) | [tiaresz](https://open.spotify.com/artist/4v6LpdfGfBSAdeVdBgUasP), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW) | [Tipo Naldo](https://open.spotify.com/album/02ZI31XkyjAi7w9zANAUMQ) | 2:18 |
 
-Snapshot ID: `MCw1ZGE5Y2U1YTk1YzQzNzg1ZWQ0ZmI2NjBlZmE0MjhkODAxMWYxNTEy`
+Snapshot ID: `MCwyMmZjOGI4N2I2YzczZTFlN2JkNmVhZWEwM2I5MzdjM2I3ZmQ3Y2M4`

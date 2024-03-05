@@ -4,7 +4,7 @@
 
 > Featuring Mont, Eladio Carrion, Don Omar & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-27 songs - 1 hr 29 min
+28 songs - 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Problem Childs](https://open.spotify.com/track/23Fmq949U38V5WpSbNS1N7) | [Fresy Franklin](https://open.spotify.com/artist/0y5H4Nr7bNWfBINIh8671t), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Problem Childs](https://open.spotify.com/album/2eIy6Vxoqwv7cDZooUU65D) | 3:58 | 2023-04-06 |  |
 | [Que Vuelta](https://open.spotify.com/track/0o1MSPQCoDgRa6QNInsmM2) | [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a) | [Que Vuelta](https://open.spotify.com/album/3ZBvfasRNMjMjy6b5RO0yx) | 3:26 | 2023-04-06 |  |
 | [SHERATON](https://open.spotify.com/track/6sOSd3PYqy3UnSXF5r0MvN) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [SHERATON](https://open.spotify.com/album/0kfpaS0fOMNNohtRbY7ZxI) | 2:22 | 2023-04-06 |  |
-| [Sin Ropa](https://open.spotify.com/track/65zzffhSKrsRdFixsTKsyk) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Sin Ropa](https://open.spotify.com/album/2UUSErYubfINqZTcUaizo2) | 3:07 | 2023-04-06 |  |
+| [Sin Ropa](https://open.spotify.com/track/65zzffhSKrsRdFixsTKsyk) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Sin Ropa](https://open.spotify.com/album/2UUSErYubfINqZTcUaizo2) | 3:07 | 2023-04-06 | 2024-03-05 |
+| [Sin Ropa](https://open.spotify.com/track/6nNTr55sW80fqVvOs9mjas) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Millas](https://open.spotify.com/album/7MsDcsYC72Qjv6O5AzqUpf) | 3:07 | 2023-04-06 |  |
 | [Te He Querido, Te He Llorado](https://open.spotify.com/track/61HuVAedKGMO7jWl8ZyALQ) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Flashback](https://open.spotify.com/album/7tKeiurj0n5DmV57x7p6U4) | 4:13 | 2023-04-06 |  |
 | [Todo Menso](https://open.spotify.com/track/7Cz1P6tmbAOqLrZMh5Z5T8) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [Todo Menso](https://open.spotify.com/album/3YlsvvJJGrV32DPTruOIyH) | 3:11 | 2023-04-06 |  |
 | [Vida Gangster](https://open.spotify.com/track/4I4FFtKZLtyqw4he9pPtL7) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [Vida Gangster](https://open.spotify.com/album/0cWDantlEEkAwu9Z0gAiMX) | 2:50 | 2023-04-06 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 
 > music to get fly to ft Zendaya
 
-[Spotify](https://open.spotify.com/user/spotify) - 525,888 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,886 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 70 | [Family Tree](https://open.spotify.com/track/695L0B06tMVsy8RiwC7dHc) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 2:13 |
 | 71 | [girls like me don't cry \(remix\) ft\. MIN](https://open.spotify.com/track/78ByURsaVK39jjwTaerCAk) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [girls like me don't cry \(remix\) ft\. MIN](https://open.spotify.com/album/6MmW9GNxUJ7rDoGs5xEbOf) | 3:33 |
 | 72 | [easy going down](https://open.spotify.com/track/3aSKxB6ahFfhYydO6bU2QE) | [lil hero](https://open.spotify.com/artist/2imvddeWiv58tUPKh8q3kO) | [pawwwfect!](https://open.spotify.com/album/7EMoYQ7QghVnHSsdNLWv5P) | 2:26 |
-| 73 | [hmu](https://open.spotify.com/track/4fC8mW8ZFQanmSHq30mgWz) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [EXTC](https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1) | 3:55 |
-| 74 | [New Romance](https://open.spotify.com/track/47htv7rED6WpgrPFM4J9pS) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:12 |
+| 73 | [New Romance](https://open.spotify.com/track/47htv7rED6WpgrPFM4J9pS) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:12 |
+| 74 | [hmu](https://open.spotify.com/track/4fC8mW8ZFQanmSHq30mgWz) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [EXTC](https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1) | 3:55 |
 | 75 | [BACKWARDS](https://open.spotify.com/track/7zuSn410s3z8Ki7iuO6ZSO) | [RUNNER BOY](https://open.spotify.com/artist/3ZymIpT2ZdBAUCaDncvdBv), [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [BACKWARDS](https://open.spotify.com/album/51WjoBBCY3wZ8Cbqy8TDrQ) | 1:46 |
 | 76 | [Closure](https://open.spotify.com/track/5tir4dUwLnKYd1rr0zLiGR) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [Rahrah Gabor](https://open.spotify.com/artist/0aXwPlkVGO3Cyn1nwiNq2g) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 3:29 |
 | 77 | [Potential](https://open.spotify.com/track/7apEq9wOCGf5Jjrad5FLkc) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Potential](https://open.spotify.com/album/1Gc5ogOOXhknM8F4JH8bdp) | 1:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 99 | [nice](https://open.spotify.com/track/37EATWuDC8BUrJ2Kt2JE5Q) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [nice](https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV) | 1:30 |
 | 100 | [UDANCE?](https://open.spotify.com/track/4S5sRziA27r5N3bi5dvMyD) | [BELOVED SUN](https://open.spotify.com/artist/5ejUXQs8sLvPSsoHGT0ni5), [Sol Galeano](https://open.spotify.com/artist/5dwUkFojGBdjXyxS5hm6zi), [SUPER INTRA](https://open.spotify.com/artist/3kl13sZISNqnE6Bukukfl6) | [CRYING AROUND AND IN COLOR](https://open.spotify.com/album/47qEHOZkmbSDXiN1oVa6UN) | 1:07 |
 
-Snapshot ID: `MCwzNjgwZmY0NGU3ZGI5ZDI2ODZkNWM0NmJjYjJiNDhjZGRlZDBhYmIx`
+Snapshot ID: `MCwxYWE4OTczNzdhZjhkMjM1ZjFkMGM5NDczZmVkNTI1ZDEyOTlkNzE1`

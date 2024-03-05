@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,820 likes - 70 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,945 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 69 | [STAY UP](https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [STAY UP / SWEET](https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc) | 3:49 |
 | 70 | [Believe \(feat\. Fredwave & Jeshi\)](https://open.spotify.com/track/2DLxohwNmcbWktWGVG0dN7) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Fredwave](https://open.spotify.com/artist/2mP7s6geSborhRN3ohxJqz), [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [Believe \(feat\. Fredwave & Jeshi\)](https://open.spotify.com/album/0u1IdlsVv5D33d3aPKEZrL) | 3:28 |
 
-Snapshot ID: `MCxkNzc5N2NhMWEwZjllOGEwYmIwYThhM2JlZjUzYzkxYjljYjJmMjQ1`
+Snapshot ID: `MCw5Y2IxZDkyODlhNTBiMTc0ZGUyOTk2MmZkMDdhMGVjNzE0ZjVkYTRj`

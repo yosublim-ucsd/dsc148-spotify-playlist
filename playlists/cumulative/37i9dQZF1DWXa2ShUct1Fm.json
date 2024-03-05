@@ -1373,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "Goddess of Despair",
+        "url": "https://open.spotify.com/album/2pF0taAwEGNMFRfAyvWGnv"
+      },
+      "artists": [
+        {
+          "name": "HOSHI",
+          "url": "https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219760,
+      "name": "Goddess of Despair",
+      "url": "https://open.spotify.com/track/1kMuSPY0CrZsrrUfbGTbnf"
+    },
+    {
+      "album": {
         "name": "SEVENTEEN 6th Mini Album 'YOU MADE MY DAWN'",
         "url": "https://open.spotify.com/album/2Ng7FzZoNzpj4z8VRDHyb5"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 
 > Deep beats to study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,981 likes - 50 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,991 likes - 50 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,20 +13,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 3 | [Home](https://open.spotify.com/track/6ekLy1OsrYdLMbcqc0KZ8G) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Nobody Is Not Loved](https://open.spotify.com/album/5ZSutAkOkxqNok6aFCqafk) | 3:41 |
 | 4 | [Bunny](https://open.spotify.com/track/6ap5AekhAt3k6e0zAknDyV) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Wild](https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD) | 3:34 |
 | 5 | [Talk to Me You'll Understand](https://open.spotify.com/track/4Z4i631BesV0P6LTvfLAdL) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [You'll Understand](https://open.spotify.com/album/6c94J2yum9wHxmbSB27YXE) | 6:57 |
-| 6 | [Opal \- Four Tet Remix](https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Opal \(Four Tet Remix\)](https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN) | 8:14 |
-| 7 | [Strangers](https://open.spotify.com/track/1FUNbwPOfV2D3Juv1eoXZZ) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 4:31 |
-| 8 | [Singularity](https://open.spotify.com/track/0yuJtvXsapVOQfNDYxQ5mw) | [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7) | [Powers of Ten](https://open.spotify.com/album/5zj0qH4lKPQOotmWkE3ECb) | 7:01 |
+| 6 | [Strangers](https://open.spotify.com/track/1FUNbwPOfV2D3Juv1eoXZZ) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 4:31 |
+| 7 | [Singularity](https://open.spotify.com/track/0yuJtvXsapVOQfNDYxQ5mw) | [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7) | [Powers of Ten](https://open.spotify.com/album/5zj0qH4lKPQOotmWkE3ECb) | 7:01 |
+| 8 | [Opal \- Four Tet Remix](https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Opal \(Four Tet Remix\)](https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN) | 8:14 |
 | 9 | [Mind Doodles](https://open.spotify.com/track/4ZVqqf3Eo4uXSeFUrYD5lw) | [GABRIEL VITEL](https://open.spotify.com/artist/1cdGFmm7cm0yvD7mA40R8x), [Alec Troniq](https://open.spotify.com/artist/7gY2UGpmfLNKfezQPuG7Hx) | [Mind Doodles](https://open.spotify.com/album/2Zlm5KWIiAgooWhwWdM8xI) | 6:41 |
 | 10 | [Apolune](https://open.spotify.com/track/1M3ldz0gop7cJeEWUuJCfe) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Aviator](https://open.spotify.com/album/0ZASLQCInYYMLkoK0VcHtL) | 6:42 |
-| 11 | [Ayaya](https://open.spotify.com/track/25L371GlKBBBnIJhtlYRVI) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 3:36 |
-| 12 | [Atlas \- Adriatique Remix](https://open.spotify.com/track/1Ou1g6tCGdwp2SFnNyfZXw) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5), [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [Atlas \(Remixes\)](https://open.spotify.com/album/2UlxGTSIM484mcJef3iYEc) | 6:17 |
-| 13 | [Interloper](https://open.spotify.com/track/4MzII8fszi8KkFl1ryv07L) | [Carbon Based Lifeforms](https://open.spotify.com/artist/38DX4hQVvPBs3PThDIAK11) | [Interloper](https://open.spotify.com/album/3g1Bz7vXLd0GgxHId19oqc) | 6:29 |
-| 14 | [Rain](https://open.spotify.com/track/6sFGBvo8qD2SVNPIuS0xSn) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [11am](https://open.spotify.com/album/6O7SMt9EaEj5ReO3qmvpU7) | 3:42 |
-| 15 | [Anatolia](https://open.spotify.com/track/636ieo1frTLl9XvQwalG1o) | [Thylacine](https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn) | [Anatolia](https://open.spotify.com/album/6dITVz5ayEYI52QZ6Oy8rq) | 5:09 |
+| 11 | [Atlas \- Adriatique Remix](https://open.spotify.com/track/1Ou1g6tCGdwp2SFnNyfZXw) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5), [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [Atlas \(Remixes\)](https://open.spotify.com/album/2UlxGTSIM484mcJef3iYEc) | 6:17 |
+| 12 | [Interloper](https://open.spotify.com/track/4MzII8fszi8KkFl1ryv07L) | [Carbon Based Lifeforms](https://open.spotify.com/artist/38DX4hQVvPBs3PThDIAK11) | [Interloper](https://open.spotify.com/album/3g1Bz7vXLd0GgxHId19oqc) | 6:29 |
+| 13 | [Rain](https://open.spotify.com/track/6sFGBvo8qD2SVNPIuS0xSn) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [11am](https://open.spotify.com/album/6O7SMt9EaEj5ReO3qmvpU7) | 3:42 |
+| 14 | [Anatolia](https://open.spotify.com/track/636ieo1frTLl9XvQwalG1o) | [Thylacine](https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn) | [Anatolia](https://open.spotify.com/album/6dITVz5ayEYI52QZ6Oy8rq) | 5:09 |
+| 15 | [Ayaya](https://open.spotify.com/track/25L371GlKBBBnIJhtlYRVI) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 3:36 |
 | 16 | [Blurred \- Bonobo Remix](https://open.spotify.com/track/4uayzCHBoZ1cpTSpMmdMXB) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Blurred](https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK) | 6:01 |
 | 17 | [Gosh](https://open.spotify.com/track/4mlZurguzNJior9siewA8C) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [MC Moose](https://open.spotify.com/artist/0xKEnflICsX9GtyjQdkv1O) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:51 |
-| 18 | [Ghostly](https://open.spotify.com/track/0nKe1H75sjT2lQMH1gjR3e) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Syvsover](https://open.spotify.com/album/3Se55Em2mSqYwuQLqS7XDb) | 6:00 |
-| 19 | [Poly](https://open.spotify.com/track/70GeFg0Hy8uvIoujccyWgz) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Joli Mai](https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj) | 2:18 |
+| 18 | [Poly](https://open.spotify.com/track/70GeFg0Hy8uvIoujccyWgz) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Joli Mai](https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj) | 2:18 |
+| 19 | [Ghostly](https://open.spotify.com/track/0nKe1H75sjT2lQMH1gjR3e) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Syvsover](https://open.spotify.com/album/3Se55Em2mSqYwuQLqS7XDb) | 6:00 |
 | 20 | [Ghetto Kraviz](https://open.spotify.com/track/1vYUnLz9DfpJCnGB77UFFJ) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [Nina Kraviz](https://open.spotify.com/album/4obvGroj4Sg4PbuLfdhFSo) | 3:44 |
 | 21 | [Trinity \- Amelie Lens Remix](https://open.spotify.com/track/14K7vrt1x7axRIXvHP0e2r) | [TRYM](https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Trinity](https://open.spotify.com/album/1EqeS2WcAaUwzVGsDGiJBN) | 7:23 |
 | 22 | [Epoch](https://open.spotify.com/track/2NUiXYNB58RqRvETWEjJp7) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Epoch \(Deluxe Version\)](https://open.spotify.com/album/1aiREFtQHpZTglHRw9r1xg) | 5:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 49 | [Cow Palace](https://open.spotify.com/track/3KOJFD2qK8pvcXMstA8Ss4) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [The Haunted House of House](https://open.spotify.com/album/2F0NkwRHdlAjnMIiYbjF1n) | 5:46 |
 | 50 | [Simple Child](https://open.spotify.com/track/091XExKLCNuX2sIJ3UvP1X) | [Meloko](https://open.spotify.com/artist/59FM2BoNHA8kpDnPwELvIg), [LKF Project](https://open.spotify.com/artist/2RuOG1js6Y29wWnyN7xx2d), [Selim Sivade](https://open.spotify.com/artist/6zQCqwr5oCLdfbvY3n3LIn), [Rondo Mo](https://open.spotify.com/artist/0irPzWV6n0kStz8rffpERG) | [Simple Child](https://open.spotify.com/album/3YRYyLIIgyWaCZ5okstYIi) | 6:16 |
 
-Snapshot ID: `MCw3OGNkMjk0ZGM5YTVkZjQ5ZmI0OGFlNjMyYzEyNzA4YjhiNzIyOWE4`
+Snapshot ID: `MCw2MDhhNjVkZDVhYmE2NjM0NjJkMWRkOWIyNTZiNTZhNzFjN2RlYzc2`

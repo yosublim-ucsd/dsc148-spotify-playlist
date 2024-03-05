@@ -4,7 +4,7 @@
 
 > Les hits marocains du moment\. Cover: DYSTINCT
 
-350 songs - 18 hr 48 min
+352 songs - 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [El Hala'](https://open.spotify.com/track/75erM0i0rM96ydo1ujzn7g) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY) | [El Hala'](https://open.spotify.com/album/72a9NuF8ZI7ynsbjqGEj3o) | 2:52 | 2022-09-06 | 2022-11-08 |
 | [Enty Hayaty](https://open.spotify.com/track/2FCV8dhMiAl3fNifmx1Q3m) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Enty Hayaty](https://open.spotify.com/album/6xcvw1ccUgfmlOqh55D2yN) | 4:15 | 2021-12-25 | 2022-04-12 |
 | [F'B3ADEK](https://open.spotify.com/track/7qDPLZaZ6gYQ4RU3x66MPR) | [Jamoul](https://open.spotify.com/artist/3exUAiuWlhYuYRG4VjcrTX), [Bilal Africano](https://open.spotify.com/artist/4zmFRtgn99DrWdpZQVHb13) | [F'B3ADEK](https://open.spotify.com/album/0mvKnAGR4DD87qzK59z7iY) | 3:14 | 2022-11-09 | 2022-11-22 |
+| [Fake](https://open.spotify.com/track/53DpbBbpjG9XbjfYX41I6h) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Fake](https://open.spotify.com/album/3pYbxtdmGzydNPWWlOd81Y) | 3:50 | 2024-03-04 |  |
 | [Fat L'Fout](https://open.spotify.com/track/5mOm6cmu8BAqFFmmOclX8r) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Fat L'Fout](https://open.spotify.com/album/4DLLxADxhGyLs26CIjPaXk) | 2:26 | 2023-08-26 |  |
 | [Fin Ghadia Bia](https://open.spotify.com/track/3AidVpiTLO0ef8t9Ijfw6l) | [Rachid Goudi](https://open.spotify.com/artist/5hsP4094TnggYBrPxOvgUm) | [Fin Ghadia Bia](https://open.spotify.com/album/6xzNpEqdF2XulXSyt2dyQr) | 3:30 | 2022-06-22 | 2022-08-10 |
 | [Follow](https://open.spotify.com/track/09VlHQlBTWASlJMibldUFl) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6), [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [Follow](https://open.spotify.com/album/1tfaS0PrCsIVRMx0bhL5iP) | 3:25 | 2023-07-05 |  |
@@ -185,7 +186,7 @@
 | [Lbaroud](https://open.spotify.com/track/1gq11LOJxrQob0EsPRwAMm) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 2:56 | 2021-12-25 | 2022-02-04 |
 | [Lbechra](https://open.spotify.com/track/5zTSZWYD9bIhrpeJbt42sp) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ), [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp), [Momo Ryuk](https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE), [Salah Hammadi](https://open.spotify.com/artist/18GUnebbbqAkij3dkKCS2T) | [The Universe of Buddha Bar](https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm) | 5:55 | 2022-11-23 | 2022-12-05 |
 | [Lberra7](https://open.spotify.com/track/1d96Lyf6HTHDXTifQSYkqN) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Lberra7](https://open.spotify.com/album/3RYCCI7kZ8UxGmul4sockq) | 3:16 | 2022-09-12 | 2023-06-23 |
-| [LEHMAM \- الحمام](https://open.spotify.com/track/2t3xxs1AIrW9qKDte5JAVk) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [LEHMAM](https://open.spotify.com/album/1504ohugyt7GcqH1yz9dOn) | 2:41 | 2023-12-15 |  |
+| [LEHMAM \- الحمام](https://open.spotify.com/track/2t3xxs1AIrW9qKDte5JAVk) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [LEHMAM](https://open.spotify.com/album/1504ohugyt7GcqH1yz9dOn) | 2:41 | 2023-12-15 | 2024-03-05 |
 | [LGHERBAL](https://open.spotify.com/track/2qNvrq2gmzl7dwReVWLdpD) | [Tflow](https://open.spotify.com/artist/1gEQbGxdBq1vvCskS9qQBI) | [LGHERBAL](https://open.spotify.com/album/6TijljvrYcwq5G1SpJFev4) | 2:45 | 2023-10-24 | 2024-02-02 |
 | [Li fate](https://open.spotify.com/track/1J2zExGwx6NLQVG47KExDK) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Li fate](https://open.spotify.com/album/6buA2U8XHPKRsut3IDiBki) | 3:50 | 2022-02-02 | 2022-06-10 |
 | [Lili Nhari](https://open.spotify.com/track/3ukdQfWkGzNZN3gxB2us7O) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Lili Nhari](https://open.spotify.com/album/51VovH7Hj6uBGJiR4WG4cz) | 3:08 | 2023-02-21 | 2023-03-12 |
@@ -200,6 +201,7 @@
 | [Ma chérie](https://open.spotify.com/track/4eHeFewqpAJWg9Cc6W8jFj) | [DJ Sem](https://open.spotify.com/artist/6RXNoNfqGTqlCIwAvzo4Xp), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Ma chérie](https://open.spotify.com/album/78wXRLJtmhkwU1WuIxTn48) | 3:35 | 2022-10-12 | 2023-01-20 |
 | [Ma colombe \- Moroccan Remix](https://open.spotify.com/track/1MbHeoSYFMKzkbybU9FQtF) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Ma colombe \(Moroccan Remix\)](https://open.spotify.com/album/3Wrj1ika3KdChgr8UZFN09) | 3:09 | 2021-12-25 | 2022-08-06 |
 | [MA DENBI](https://open.spotify.com/track/447567rKGG5x3ZGHcIp2Cm) | [L7or](https://open.spotify.com/artist/5NIanI5i7BSxYhc7DKpGZr) | [MA DENBI](https://open.spotify.com/album/5JrL5ugsY0fkGmjeMlFnfh) | 3:11 | 2023-08-10 | 2023-12-22 |
+| [MA DOUCE](https://open.spotify.com/track/3G9yB5mhAfdq3toymB5Pug) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [MA DOUCE](https://open.spotify.com/album/2ySxKt2YEOhxUcF0Iw5X1R) | 3:36 | 2024-03-04 |  |
 | [Ma Jolie](https://open.spotify.com/track/7pktxOiANdgQnzJmp7vwON) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 2:24 | 2022-05-27 | 2023-01-14 |
 | [Ma muse](https://open.spotify.com/track/04Y0l7UQzs13uyKXzCYi2p) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Ma muse / Je t'haine](https://open.spotify.com/album/6GuWrATXQamfjDlQdion0H) | 2:58 | 2023-09-23 | 2023-10-04 |
 | [Ma Nabni](https://open.spotify.com/track/09L0R9oOyNyC6X8c2aKLtW) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Ma Nabni](https://open.spotify.com/album/0TlqqkCP5JzdgFHCJzuXwO) | 3:35 | 2021-12-25 | 2022-02-12 |
@@ -355,7 +357,7 @@
 | [بالهدى](https://open.spotify.com/track/0aDZlrKCeRuZSSg6SXDXMF) | [Ta Ha](https://open.spotify.com/artist/63gB2Rrr0fOcwBa4zEspU4) | [بالهدى](https://open.spotify.com/album/5k3Z3I40E3EXZSoVJgRZpc) | 3:57 | 2023-02-20 | 2023-08-31 |
 | [غبرتي عليا \- Cover libianca people \- 2023 \- nouveauté](https://open.spotify.com/track/1F4AZDDP7VW3DTDOBtaO39) | [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [غبرتي عليا \(Cover libianca people \- 2023 \- nouveauté\)](https://open.spotify.com/album/13ZU2TP06EzaUov71aLn5w) | 3:21 | 2023-02-24 |  |
 | [كيفاش نخليك](https://open.spotify.com/track/0oaCbb3lplo9YIjdlwLspn) | [Mohamed Rifai](https://open.spotify.com/artist/4wc2KdcoFnLiGN9dJgu89W), [Hind Sdassi](https://open.spotify.com/artist/2P8fLcz5pRfOH5gb6oYLSm) | [كيفاش نخليك](https://open.spotify.com/album/3gcdxxzWkBdzLL7fxkXopA) | 3:59 | 2021-12-25 | 2022-08-06 |
-| [ماما](https://open.spotify.com/track/02JOIeE385aLgrUrMvOjGh) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [ماما](https://open.spotify.com/album/3o1uJGm5FWz1nZThS1xB8o) | 3:46 | 2023-10-06 |  |
+| [ماما](https://open.spotify.com/track/02JOIeE385aLgrUrMvOjGh) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [ماما](https://open.spotify.com/album/3o1uJGm5FWz1nZThS1xB8o) | 3:46 | 2023-10-06 | 2024-03-05 |
 | [متبدلتش](https://open.spotify.com/track/7fp7N8fSO3v55h6830g971) | [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [متبدلتش](https://open.spotify.com/album/7DSFmkajyItK4wXNnOzlZV) | 3:45 | 2022-10-04 | 2022-10-26 |
 | [منامي](https://open.spotify.com/track/021nYBkotM08srtM5wfXKo) | [othmanouilki](https://open.spotify.com/artist/5tA7M2xqrIPJ0ax87b19w5) | [منامي](https://open.spotify.com/album/3Jol7FGrreOlSXzQp7sFo3) | 3:16 | 2022-02-17 | 2022-05-20 |
 

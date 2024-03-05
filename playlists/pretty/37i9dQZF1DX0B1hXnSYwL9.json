@@ -1,12 +1,12 @@
 {
   "description": "Canciones para sacarle brillo a la pista de baile.",
-  "num_followers": 97168,
+  "num_followers": 97185,
   "original_name": "Sal\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWI3MDg4MTIwNDM4ZWVlOGQ5NWVlYmY0NTg4YjA2NWQyM2RmNjMz",
+  "snapshot_id": "MCxlNmI1MjA0ODQ5ZjA3Njk0NDI3MDllZWJiNTE1MTRjZjRlZjVkZWJj",
   "tracks": [
     {
       "added_at": "2023-08-14 15:51:23",
@@ -295,6 +295,22 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
+        "name": "We Broke The Rules",
+        "url": "https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "duration_ms": 348826,
+      "name": "Ense\u00f1ame a Olvidar",
+      "url": "https://open.spotify.com/track/79MlVxKj43tDISSISiVHJM"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
         "name": "Grupo Ca\u00f1averal, Vol. 3",
         "url": "https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 238236,
       "name": "Tiene Espinas El Rosal",
       "url": "https://open.spotify.com/track/1JO6kEdXrxBq9QobefZg0H"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
-        "name": "Un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
-        }
-      ],
-      "duration_ms": 225360,
-      "name": "Un Sue\u00f1o",
-      "url": "https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -343,18 +343,18 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
-        "name": "We Broke The Rules",
-        "url": "https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd"
+        "name": "Un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp"
       },
       "artists": [
         {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
         }
       ],
-      "duration_ms": 348826,
-      "name": "Ense\u00f1ame a Olvidar",
-      "url": "https://open.spotify.com/track/79MlVxKj43tDISSISiVHJM"
+      "duration_ms": 225360,
+      "name": "Un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 354973,
+      "name": "Gotas De Lluvia",
+      "url": "https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
         "name": "Esto S\u00ed Es Cumbia",
         "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
       },
@@ -843,8 +859,8 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
-        "name": "20th Anniversary",
-        "url": "https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW"
+        "name": "No Hay Quinto Malo",
+        "url": "https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ"
       },
       "artists": [
         {
@@ -852,9 +868,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 354973,
-      "name": "Gotas De Lluvia",
-      "url": "https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx"
+      "duration_ms": 310360,
+      "name": "Cali Pachanguero",
+      "url": "https://open.spotify.com/track/6GsxCYC9UaL0J8b8MVrRqX"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -999,22 +1015,6 @@
       "duration_ms": 333226,
       "name": "Conciencia",
       "url": "https://open.spotify.com/track/5bccusEjEtnC5cDfWXQ8rf"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
-        "name": "No Hay Quinto Malo",
-        "url": "https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 310360,
-      "name": "Cali Pachanguero",
-      "url": "https://open.spotify.com/track/6GsxCYC9UaL0J8b8MVrRqX"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
+        "name": "Amor, Familia Y Respeto",
+        "url": "https://open.spotify.com/album/5XuNzqgx79H4Z2jhfdzFFQ"
+      },
+      "artists": [
+        {
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+        }
+      ],
+      "duration_ms": 194466,
+      "name": "Te Quiero A T\u00ed",
+      "url": "https://open.spotify.com/track/4v9dVYIvD3EFuzWiXngmDq"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
         "name": "A.B. Quintanilla III Presents Kumbia Kings Greatest Hits \"Album Versions\"",
         "url": "https://open.spotify.com/album/1RGWEZOK9E2fH75E6D3cqZ"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 227200,
       "name": "Sabes A Chocolate",
       "url": "https://open.spotify.com/track/4KCIR5WfyhPPeTy8KQzMXf"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
-        "name": "Amor, Familia Y Respeto",
-        "url": "https://open.spotify.com/album/5XuNzqgx79H4Z2jhfdzFFQ"
-      },
-      "artists": [
-        {
-          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
-          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "Te Quiero A T\u00ed",
-      "url": "https://open.spotify.com/track/4v9dVYIvD3EFuzWiXngmDq"
     },
     {
       "added_at": "2023-08-14 15:51:23",

@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 179794,
+  "num_followers": 179838,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTE5OTFkYTY2MGU1M2VmZWU0ODM3MGY1ODQ3OWYzMDA5MmU2ODY3",
+  "snapshot_id": "MCwyNTdkYWNhNWVkYzAwYzY1NDEwOGYzNzY1N2UwZTcxNDY1MWI4NjJj",
   "tracks": [
     {
       "added_at": "2022-08-27 05:04:45",
@@ -959,26 +959,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Si Tu No Estas",
-        "url": "https://open.spotify.com/album/4XlLSOigjYUbHcRR0dALRW"
-      },
-      "artists": [
-        {
-          "name": "Gabriel EMC",
-          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
-        },
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "Si T\u00fa No Estas",
-      "url": "https://open.spotify.com/track/3EnXQxzuk2aqhoy8loWQLv"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Palpitaciones (Remix)",
         "url": "https://open.spotify.com/album/7arSsVZ5zYOxQakXbw73cv"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 205706,
       "name": "Influencer",
       "url": "https://open.spotify.com/track/26pznrAZY7d4elD4rDbo1c"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Si Tu No Estas",
+        "url": "https://open.spotify.com/album/4XlLSOigjYUbHcRR0dALRW"
+      },
+      "artists": [
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        },
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 225400,
+      "name": "Si T\u00fa No Estas",
+      "url": "https://open.spotify.com/track/3EnXQxzuk2aqhoy8loWQLv"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Medicina",
-        "url": "https://open.spotify.com/album/5YA0A93iPTXk5poS3x49XF"
-      },
-      "artists": [
-        {
-          "name": "Omy Alka",
-          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
-        }
-      ],
-      "duration_ms": 186602,
-      "name": "Medicina",
-      "url": "https://open.spotify.com/track/0XYtuaH9Okgk4ukrea6a1J"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Todo Por Ti",
         "url": "https://open.spotify.com/album/5KHAGL0OxrGg86ZSivOMAh"
       },
@@ -1499,6 +1483,26 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Por un Momento",
+        "url": "https://open.spotify.com/album/0TWGfGBpb1Wf4yPho7QfJs"
+      },
+      "artists": [
+        {
+          "name": "The cXurch",
+          "url": "https://open.spotify.com/artist/3IFfOqFyWSpSqJ4mtL7NJL"
+        },
+        {
+          "name": "Villanova",
+          "url": "https://open.spotify.com/artist/4PwWDuBaJEmRwCBiMeXUsu"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Por un Momento",
+      "url": "https://open.spotify.com/track/67qiKkYxt1IAZnWpofkNpJ"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Sigo Aqui",
         "url": "https://open.spotify.com/album/36MMZx2vedP0khIxSOCOVV"
       },
@@ -1519,22 +1523,18 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Por un Momento",
-        "url": "https://open.spotify.com/album/0TWGfGBpb1Wf4yPho7QfJs"
+        "name": "Medicina",
+        "url": "https://open.spotify.com/album/5YA0A93iPTXk5poS3x49XF"
       },
       "artists": [
         {
-          "name": "The cXurch",
-          "url": "https://open.spotify.com/artist/3IFfOqFyWSpSqJ4mtL7NJL"
-        },
-        {
-          "name": "Villanova",
-          "url": "https://open.spotify.com/artist/4PwWDuBaJEmRwCBiMeXUsu"
+          "name": "Omy Alka",
+          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
         }
       ],
-      "duration_ms": 211600,
-      "name": "Por un Momento",
-      "url": "https://open.spotify.com/track/67qiKkYxt1IAZnWpofkNpJ"
+      "duration_ms": 186602,
+      "name": "Medicina",
+      "url": "https://open.spotify.com/track/0XYtuaH9Okgk4ukrea6a1J"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Noches Enteras",
-        "url": "https://open.spotify.com/album/5S7OdCYrsf0f3khUcp5bup"
-      },
-      "artists": [
-        {
-          "name": "Omy Alka",
-          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
-        },
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
-        }
-      ],
-      "duration_ms": 231008,
-      "name": "Noches Enteras",
-      "url": "https://open.spotify.com/track/3eBg8ZT1g8P6oSx34fe5Fm"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Firme Y Enfocado",
         "url": "https://open.spotify.com/album/5ZE3KBdyEiI41sXiw1BUZx"
       },
@@ -1671,6 +1651,42 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "No, No",
+        "url": "https://open.spotify.com/album/548RYuHGPoUtQ1FXlbRnRe"
+      },
+      "artists": [
+        {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        }
+      ],
+      "duration_ms": 176158,
+      "name": "No, No",
+      "url": "https://open.spotify.com/track/0CBo1PYkAlcpWUaQ0NsBgw"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Noches Enteras",
+        "url": "https://open.spotify.com/album/5S7OdCYrsf0f3khUcp5bup"
+      },
+      "artists": [
+        {
+          "name": "Omy Alka",
+          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "duration_ms": 231008,
+      "name": "Noches Enteras",
+      "url": "https://open.spotify.com/track/3eBg8ZT1g8P6oSx34fe5Fm"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Siempre Ha Estado Aqu\u00ed (Remix)",
         "url": "https://open.spotify.com/album/2hQULmsldbuwZrRTHC0Yzy"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 185361,
       "name": "Siempre Ha Estado Aqu\u00ed (Remix)",
       "url": "https://open.spotify.com/track/4eSTVukNr08v0IMbso7gCo"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Inmenso",
-        "url": "https://open.spotify.com/album/0UvCUnwqkdpSXIlW6gsJw3"
-      },
-      "artists": [
-        {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Inmenso",
-      "url": "https://open.spotify.com/track/4LWYsRTUmdO6gdR9ONCHLy"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1735,18 +1735,18 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "No, No",
-        "url": "https://open.spotify.com/album/548RYuHGPoUtQ1FXlbRnRe"
+        "name": "Inmenso",
+        "url": "https://open.spotify.com/album/0UvCUnwqkdpSXIlW6gsJw3"
       },
       "artists": [
         {
-          "name": "Vaes",
-          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
         }
       ],
-      "duration_ms": 176158,
-      "name": "No, No",
-      "url": "https://open.spotify.com/track/0CBo1PYkAlcpWUaQ0NsBgw"
+      "duration_ms": 157000,
+      "name": "Inmenso",
+      "url": "https://open.spotify.com/track/4LWYsRTUmdO6gdR9ONCHLy"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1835,6 +1835,30 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Soy Tan Feliz",
+        "url": "https://open.spotify.com/album/3xlOCuI8MHKetGn68YbQap"
+      },
+      "artists": [
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        },
+        {
+          "name": "DOMINICO GONZALEZ",
+          "url": "https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw"
+        },
+        {
+          "name": "Sion Naci\u00f3n Santa",
+          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
+        }
+      ],
+      "duration_ms": 266571,
+      "name": "Soy Tan Feliz",
+      "url": "https://open.spotify.com/track/3iBkvOdbJ6V1vhZjSnCoKW"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Relevantes",
         "url": "https://open.spotify.com/album/5WRL2HfV2nk8XaD9UC4yKF"
       },
@@ -1887,30 +1911,6 @@
       "duration_ms": 310574,
       "name": "Amor de Hermano",
       "url": "https://open.spotify.com/track/3E1ThoX0j8BvY09CmjlEsO"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Soy Tan Feliz",
-        "url": "https://open.spotify.com/album/3xlOCuI8MHKetGn68YbQap"
-      },
-      "artists": [
-        {
-          "name": "Lizzy Parra",
-          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
-        },
-        {
-          "name": "DOMINICO GONZALEZ",
-          "url": "https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw"
-        },
-        {
-          "name": "Sion Naci\u00f3n Santa",
-          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
-        }
-      ],
-      "duration_ms": 266571,
-      "name": "Soy Tan Feliz",
-      "url": "https://open.spotify.com/track/3iBkvOdbJ6V1vhZjSnCoKW"
     },
     {
       "added_at": "2022-08-27 05:04:45",

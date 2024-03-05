@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL?si=QOxAEPw5SfeFdIYUaljgEA">Christina Shusho</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,650 likes - 95 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,713 likes - 95 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 94 | [Umezungukwa Na Sifa](https://open.spotify.com/track/6vR5SlKDAVTPGVfgtxR0Qs) | [Paul Clement](https://open.spotify.com/artist/7fJIPDHIZxV1gm0LPYX46T) | [Usiyeshindwa](https://open.spotify.com/album/6ylay7Gxa7KZvitFvR5won) | 9:58 |
 | 95 | [Action](https://open.spotify.com/track/3Kw2ogHWEVOln1I0COwKpx) | [BeeJay](https://open.spotify.com/artist/0Cwe5u9RvI668c5MXkzqyQ) | [Action](https://open.spotify.com/album/3di0qx12IxzIgc0uFuRSbI) | 5:30 |
 
-Snapshot ID: `MCxlNWUyNzNkZjRmZmRmZWRjMGY2ZWZkMmRhNWNkYzkyNjgxMDFiNWZl`
+Snapshot ID: `MCxmNTYwM2JjZjllMWQ1MmZhNTM3OTlkOTlkZDdlZDI0ZTYyOTk0NTVm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。3月1日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,353 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,375 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [Gesture of the Waves](https://open.spotify.com/track/38X2tnfDn8eq2CpbJDGbVi) | [Yojiro Noda](https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY) | [The Parades \(Original Soundtrack\)](https://open.spotify.com/album/0DHG7ng7n1ozU9xbOVZSqE) | 4:48 |
 | 50 | [I Hate You \(2024\) \- Spotify Singles](https://open.spotify.com/track/2AZhHsWsunXGXKIWioeM6Y) | [SHOWNU X HYUNGWON \(MONSTA X\)](https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg) | [I Hate You \(2024\) \- Spotify Singles](https://open.spotify.com/album/1aF8lItq2Esu8pBHJoxXMA) | 2:44 |
 
-Snapshot ID: `MCxmYmRhZTdhZGEzMTI5YmM4ZTA3YzdlZjI2M2ZjZWZmNTFjYjcwM2Rm`
+Snapshot ID: `MCwyOTU4MDg4MGQ1ZWU3YmQyMzMwNmU4NDZhY2FlOWNjYjZlNjJkNTMx`

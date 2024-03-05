@@ -1,12 +1,12 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 84210,
+  "num_followers": 84233,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkN2EzYzlkNjhiODRhNWI2MDY1YmNmZmJiYTllYjBlOWE4N2U3NjI3",
+  "snapshot_id": "MCxlNjUxY2JlYzFiNDYzMzg0MmMyMGRlYTliZmM5MmUxYTAxZTY4ZWNm",
   "tracks": [
     {
       "added_at": "2024-02-29 22:13:03",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-02-29 22:13:03",
       "album": {
-        "name": "PEL\u00cdCULA",
-        "url": "https://open.spotify.com/album/0F5ZesfEwl0qPpjnaEzG1L"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 193206,
-      "name": "PEL\u00cdCULA",
-      "url": "https://open.spotify.com/track/0YkFznftrXHZnJIde7T5v2"
-    },
-    {
-      "added_at": "2024-02-29 22:13:03",
-      "album": {
         "name": "Algo Tiene Que Cambiar",
         "url": "https://open.spotify.com/album/2iKR4ZBb3NLJM0Zg8yhQvi"
       },
@@ -703,54 +687,6 @@
       "duration_ms": 265473,
       "name": "M\u00e1s Sencillo",
       "url": "https://open.spotify.com/track/7K5x3ONjTT1uJCR431ElKF"
-    },
-    {
-      "added_at": "2024-02-29 22:13:03",
-      "album": {
-        "name": "La Mexicana - Single",
-        "url": "https://open.spotify.com/album/4uJT1I6IOjTQoXRgvK5OQy"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 206738,
-      "name": "La Mexicana",
-      "url": "https://open.spotify.com/track/6a0pgQDztJ44FdNY9h0GfY"
-    },
-    {
-      "added_at": "2024-02-29 22:13:03",
-      "album": {
-        "name": "Mira Lo Que Me Hiciste Hacer",
-        "url": "https://open.spotify.com/album/56iVzGyiTDQU2wenZeIhXI"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 208430,
-      "name": "Cuando Quieras Llegar",
-      "url": "https://open.spotify.com/track/0VzlIcd7HVC1VDqwx4Ry9y"
-    },
-    {
-      "added_at": "2024-02-29 22:13:03",
-      "album": {
-        "name": "La isla del sol",
-        "url": "https://open.spotify.com/album/4uYpWUBe8DcmOsDhdwPIfr"
-      },
-      "artists": [
-        {
-          "name": "un muerto mas",
-          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
-        }
-      ],
-      "duration_ms": 131333,
-      "name": "La isla del sol",
-      "url": "https://open.spotify.com/track/0HBn23L8dzvkSnyeLhlsCD"
     },
     {
       "added_at": "2024-02-29 22:13:03",
@@ -771,6 +707,70 @@
       "duration_ms": 207163,
       "name": "Chica Acuario",
       "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
+    },
+    {
+      "added_at": "2024-02-29 22:13:03",
+      "album": {
+        "name": "PEL\u00cdCULA",
+        "url": "https://open.spotify.com/album/0F5ZesfEwl0qPpjnaEzG1L"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 193206,
+      "name": "PEL\u00cdCULA",
+      "url": "https://open.spotify.com/track/0YkFznftrXHZnJIde7T5v2"
+    },
+    {
+      "added_at": "2024-02-29 22:13:03",
+      "album": {
+        "name": "Mira Lo Que Me Hiciste Hacer",
+        "url": "https://open.spotify.com/album/56iVzGyiTDQU2wenZeIhXI"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 208430,
+      "name": "Cuando Quieras Llegar",
+      "url": "https://open.spotify.com/track/0VzlIcd7HVC1VDqwx4Ry9y"
+    },
+    {
+      "added_at": "2024-02-29 22:13:03",
+      "album": {
+        "name": "La Mexicana - Single",
+        "url": "https://open.spotify.com/album/4uJT1I6IOjTQoXRgvK5OQy"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 206738,
+      "name": "La Mexicana",
+      "url": "https://open.spotify.com/track/6a0pgQDztJ44FdNY9h0GfY"
+    },
+    {
+      "added_at": "2024-02-29 22:13:03",
+      "album": {
+        "name": "La isla del sol",
+        "url": "https://open.spotify.com/album/4uYpWUBe8DcmOsDhdwPIfr"
+      },
+      "artists": [
+        {
+          "name": "un muerto mas",
+          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
+        }
+      ],
+      "duration_ms": 131333,
+      "name": "La isla del sol",
+      "url": "https://open.spotify.com/track/0HBn23L8dzvkSnyeLhlsCD"
     },
     {
       "added_at": "2024-02-29 22:13:03",
@@ -935,26 +935,6 @@
     {
       "added_at": "2024-02-29 22:13:03",
       "album": {
-        "name": "Sue\u00f1o C\u00edtrico",
-        "url": "https://open.spotify.com/album/0K7TuMwi1SkiZylSx8vXDf"
-      },
-      "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 202538,
-      "name": "Vencimiento",
-      "url": "https://open.spotify.com/track/1zFeJhyNJOnzm0nS20t3HX"
-    },
-    {
-      "added_at": "2024-02-29 22:13:03",
-      "album": {
         "name": "Bailemos en la Sala",
         "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
       },
@@ -1047,6 +1027,26 @@
     {
       "added_at": "2024-02-29 22:13:03",
       "album": {
+        "name": "Sue\u00f1o C\u00edtrico",
+        "url": "https://open.spotify.com/album/0K7TuMwi1SkiZylSx8vXDf"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 202538,
+      "name": "Vencimiento",
+      "url": "https://open.spotify.com/track/1zFeJhyNJOnzm0nS20t3HX"
+    },
+    {
+      "added_at": "2024-02-29 22:13:03",
+      "album": {
         "name": "TE QUIERO",
         "url": "https://open.spotify.com/album/0wEYSJWNHI1blWJmwCRRfo"
       },
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-02-29 22:13:03",
       "album": {
-        "name": "Verano en Invierno",
-        "url": "https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5"
-      },
-      "artists": [
-        {
-          "name": "un muerto mas",
-          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
-        }
-      ],
-      "duration_ms": 228437,
-      "name": "Amor de Verano",
-      "url": "https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8"
-    },
-    {
-      "added_at": "2024-02-29 22:13:03",
-      "album": {
         "name": "EME",
         "url": "https://open.spotify.com/album/2iLF9iKotpW9QVlX2hJo2T"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 170192,
       "name": "Ojitos de Md - Remix",
       "url": "https://open.spotify.com/track/6otnCYlQqNYVZqNrSHn1AF"
+    },
+    {
+      "added_at": "2024-02-29 22:13:03",
+      "album": {
+        "name": "Verano en Invierno",
+        "url": "https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5"
+      },
+      "artists": [
+        {
+          "name": "un muerto mas",
+          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
+        }
+      ],
+      "duration_ms": 228437,
+      "name": "Amor de Verano",
+      "url": "https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8"
     },
     {
       "added_at": "2024-02-29 22:13:03",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-02-29 22:13:03",
       "album": {
-        "name": "El Momento Perfecto",
-        "url": "https://open.spotify.com/album/5tHjR6ANArX00z5PzAhOvS"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 201661,
-      "name": "El Momento Perfecto",
-      "url": "https://open.spotify.com/track/4OGw9dLKXsntDtdG1GLORh"
-    },
-    {
-      "added_at": "2024-02-29 22:13:03",
-      "album": {
         "name": "Ni\u00f1o Eterno",
         "url": "https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 161617,
       "name": "Nin\u0303o Eterno",
       "url": "https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I"
+    },
+    {
+      "added_at": "2024-02-29 22:13:03",
+      "album": {
+        "name": "El Momento Perfecto",
+        "url": "https://open.spotify.com/album/5tHjR6ANArX00z5PzAhOvS"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 201661,
+      "name": "El Momento Perfecto",
+      "url": "https://open.spotify.com/track/4OGw9dLKXsntDtdG1GLORh"
     },
     {
       "added_at": "2024-02-29 22:13:03",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-02-29 22:13:03",
       "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/1cCRSSDJY4LUhn5goRDHO5"
-      },
-      "artists": [
-        {
-          "name": "NAFTA",
-          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
-        }
-      ],
-      "duration_ms": 207809,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK"
-    },
-    {
-      "added_at": "2024-02-29 22:13:03",
-      "album": {
         "name": "Todo Lamento",
         "url": "https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 125156,
       "name": "El Mundo Siempre Estuvo Dividido en Dos",
       "url": "https://open.spotify.com/track/2mdZOkJvBqGaPmuqLLMp88"
+    },
+    {
+      "added_at": "2024-02-29 22:13:03",
+      "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/1cCRSSDJY4LUhn5goRDHO5"
+      },
+      "artists": [
+        {
+          "name": "NAFTA",
+          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
+        }
+      ],
+      "duration_ms": 207809,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK"
     },
     {
       "added_at": "2024-02-29 22:13:03",

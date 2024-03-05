@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 33704,
+  "num_followers": 33723,
   "original_name": "Duerme con Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTM5ZDA2NmY4MTQ0YTI2NWYwNjIyNzg2ZGVlNjdhOTAwNTk4ZTRh",
+  "snapshot_id": "MCxmNGUwOTU2ZjU1NDEzYjgyNjc0Y2Y5NzE2YzE2NmM4M2NhZjE1MTUx",
   "tracks": [
     {
       "added_at": "2024-01-05 00:01:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-01-05 00:01:00",
       "album": {
-        "name": "novak",
-        "url": "https://open.spotify.com/album/1ZLd1xk9RnVjL94hq4m3bM"
-      },
-      "artists": [
-        {
-          "name": "Linior",
-          "url": "https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw"
-        }
-      ],
-      "duration_ms": 130840,
-      "name": "novak",
-      "url": "https://open.spotify.com/track/3rZVAQpemoV95KJ7hvrSg8"
-    },
-    {
-      "added_at": "2024-01-05 00:01:00",
-      "album": {
         "name": "Love's Journey",
         "url": "https://open.spotify.com/album/4NKmB7swj6Fsg2xF2QIE1h"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 156880,
       "name": "Piece de resistance",
       "url": "https://open.spotify.com/track/4BqrjtDW2iF3Cqnm52eySR"
+    },
+    {
+      "added_at": "2024-01-05 00:01:00",
+      "album": {
+        "name": "novak",
+        "url": "https://open.spotify.com/album/1ZLd1xk9RnVjL94hq4m3bM"
+      },
+      "artists": [
+        {
+          "name": "Linior",
+          "url": "https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw"
+        }
+      ],
+      "duration_ms": 130840,
+      "name": "novak",
+      "url": "https://open.spotify.com/track/3rZVAQpemoV95KJ7hvrSg8"
     },
     {
       "added_at": "2024-01-05 00:01:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-01-05 00:01:00",
       "album": {
-        "name": "Social Call",
-        "url": "https://open.spotify.com/album/4rSYJQxfq50gNYLkPgrKbR"
-      },
-      "artists": [
-        {
-          "name": "Carl Dwight",
-          "url": "https://open.spotify.com/artist/3Vhd8Gg0oT6hpsl8bnxZ2Y"
-        }
-      ],
-      "duration_ms": 232941,
-      "name": "Social Call",
-      "url": "https://open.spotify.com/track/2ZGcva06g0MbxrJdSNtAjU"
-    },
-    {
-      "added_at": "2024-01-05 00:01:00",
-      "album": {
         "name": "Little Bossy",
         "url": "https://open.spotify.com/album/5IsaWRF8HEtro5Ajt2DYUV"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 160223,
       "name": "Rendezvous in Paris",
       "url": "https://open.spotify.com/track/6OIPUVNyFrn1kZ7GLVNweJ"
+    },
+    {
+      "added_at": "2024-01-05 00:01:00",
+      "album": {
+        "name": "Social Call",
+        "url": "https://open.spotify.com/album/4rSYJQxfq50gNYLkPgrKbR"
+      },
+      "artists": [
+        {
+          "name": "Carl Dwight",
+          "url": "https://open.spotify.com/artist/3Vhd8Gg0oT6hpsl8bnxZ2Y"
+        }
+      ],
+      "duration_ms": 232941,
+      "name": "Social Call",
+      "url": "https://open.spotify.com/track/2ZGcva06g0MbxrJdSNtAjU"
     },
     {
       "added_at": "2024-01-05 00:01:00",
@@ -2875,18 +2875,18 @@
     {
       "added_at": "2024-01-05 00:01:00",
       "album": {
-        "name": "Darn That Dream",
-        "url": "https://open.spotify.com/album/1Hs8Ia3HjN1JzaXNEwJ6Y3"
+        "name": "Last Summer",
+        "url": "https://open.spotify.com/album/0AnWKmlzLJbpm6K4FyMNT2"
       },
       "artists": [
         {
-          "name": "Ray Royston",
-          "url": "https://open.spotify.com/artist/4Z8ZqLJlYjb7gGt3eFWfFG"
+          "name": "Benjamine Hans",
+          "url": "https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr"
         }
       ],
-      "duration_ms": 232374,
-      "name": "Darn That Dream",
-      "url": "https://open.spotify.com/track/7wyqQSiefHCrYQ3xqAqfwJ"
+      "duration_ms": 147000,
+      "name": "Last Summer",
+      "url": "https://open.spotify.com/track/3ERr9IOEMrkEOLtyGWh4vX"
     },
     {
       "added_at": "2024-01-05 00:01:00",
@@ -2923,6 +2923,22 @@
     {
       "added_at": "2024-01-05 00:01:00",
       "album": {
+        "name": "Darn That Dream",
+        "url": "https://open.spotify.com/album/1Hs8Ia3HjN1JzaXNEwJ6Y3"
+      },
+      "artists": [
+        {
+          "name": "Ray Royston",
+          "url": "https://open.spotify.com/artist/4Z8ZqLJlYjb7gGt3eFWfFG"
+        }
+      ],
+      "duration_ms": 232374,
+      "name": "Darn That Dream",
+      "url": "https://open.spotify.com/track/7wyqQSiefHCrYQ3xqAqfwJ"
+    },
+    {
+      "added_at": "2024-01-05 00:01:00",
+      "album": {
         "name": "All The Things You Are",
         "url": "https://open.spotify.com/album/7kpHuQEwvXqC0bVVmax5TU"
       },
@@ -2935,22 +2951,6 @@
       "duration_ms": 174938,
       "name": "All The Things You Are",
       "url": "https://open.spotify.com/track/5fPAnIAbiZlIeBtEjJ30yU"
-    },
-    {
-      "added_at": "2024-01-05 00:01:00",
-      "album": {
-        "name": "Last Summer",
-        "url": "https://open.spotify.com/album/0AnWKmlzLJbpm6K4FyMNT2"
-      },
-      "artists": [
-        {
-          "name": "Benjamine Hans",
-          "url": "https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Last Summer",
-      "url": "https://open.spotify.com/track/3ERr9IOEMrkEOLtyGWh4vX"
     },
     {
       "added_at": "2024-01-05 00:01:00",
@@ -4603,22 +4603,6 @@
     {
       "added_at": "2024-01-05 00:01:00",
       "album": {
-        "name": "Time Will Tell",
-        "url": "https://open.spotify.com/album/1DR3K7na2wR32dBL2wNWdg"
-      },
-      "artists": [
-        {
-          "name": "Mannie Goldings",
-          "url": "https://open.spotify.com/artist/4h6ReOsJCzpNJl0e2u7OTY"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Time Will Tell",
-      "url": "https://open.spotify.com/track/5iLOx5BMblSA9Ge2goijPf"
-    },
-    {
-      "added_at": "2024-01-05 00:01:00",
-      "album": {
         "name": "On The Street Where You Live",
         "url": "https://open.spotify.com/album/5UvGpwpS3tYpZHbiQlonNp"
       },
@@ -4667,6 +4651,22 @@
     {
       "added_at": "2024-01-05 00:01:00",
       "album": {
+        "name": "Time Will Tell",
+        "url": "https://open.spotify.com/album/1DR3K7na2wR32dBL2wNWdg"
+      },
+      "artists": [
+        {
+          "name": "Mannie Goldings",
+          "url": "https://open.spotify.com/artist/4h6ReOsJCzpNJl0e2u7OTY"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Time Will Tell",
+      "url": "https://open.spotify.com/track/5iLOx5BMblSA9Ge2goijPf"
+    },
+    {
+      "added_at": "2024-01-05 00:01:00",
+      "album": {
         "name": "A Flower Is A Lovesome Thing",
         "url": "https://open.spotify.com/album/5x49ipf24HQSNzSoGQnGH6"
       },
@@ -4679,6 +4679,22 @@
       "duration_ms": 298000,
       "name": "A Flower Is A Lovesome Thing",
       "url": "https://open.spotify.com/track/5igO8dMEr3lvL5hnzP2RxR"
+    },
+    {
+      "added_at": "2024-01-05 00:01:00",
+      "album": {
+        "name": "God Bless the Child",
+        "url": "https://open.spotify.com/album/7s6iI12sBcdegRHmnmE1mn"
+      },
+      "artists": [
+        {
+          "name": "Alec Taylor",
+          "url": "https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd"
+        }
+      ],
+      "duration_ms": 254647,
+      "name": "God Bless the Child",
+      "url": "https://open.spotify.com/track/1CUlSxsssHNYP9DGrycKy2"
     },
     {
       "added_at": "2024-01-05 00:01:00",
@@ -4711,22 +4727,6 @@
       "duration_ms": 133500,
       "name": "Misty",
       "url": "https://open.spotify.com/track/0fGNaE47Hx1SO8kEKtkGxb"
-    },
-    {
-      "added_at": "2024-01-05 00:01:00",
-      "album": {
-        "name": "God Bless the Child",
-        "url": "https://open.spotify.com/album/7s6iI12sBcdegRHmnmE1mn"
-      },
-      "artists": [
-        {
-          "name": "Alec Taylor",
-          "url": "https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd"
-        }
-      ],
-      "duration_ms": 254647,
-      "name": "God Bless the Child",
-      "url": "https://open.spotify.com/track/1CUlSxsssHNYP9DGrycKy2"
     },
     {
       "added_at": "2024-01-05 00:01:00",
@@ -5019,22 +5019,6 @@
     {
       "added_at": "2024-01-05 00:01:00",
       "album": {
-        "name": "Dear Old Stockholm",
-        "url": "https://open.spotify.com/album/0OsqjFlBduMGeyZuh34U8b"
-      },
-      "artists": [
-        {
-          "name": "Matt Lingus",
-          "url": "https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Dear Old Stockholm",
-      "url": "https://open.spotify.com/track/33aKJ1s1QC94WW868ygr3p"
-    },
-    {
-      "added_at": "2024-01-05 00:01:00",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/617mBec4f2asE69pD1Tn5c"
       },
@@ -5063,6 +5047,22 @@
       "duration_ms": 210115,
       "name": "Sweet And Lovely",
       "url": "https://open.spotify.com/track/0M2JImhfpQDeIw08Auazxl"
+    },
+    {
+      "added_at": "2024-01-05 00:01:00",
+      "album": {
+        "name": "Dear Old Stockholm",
+        "url": "https://open.spotify.com/album/0OsqjFlBduMGeyZuh34U8b"
+      },
+      "artists": [
+        {
+          "name": "Matt Lingus",
+          "url": "https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Dear Old Stockholm",
+      "url": "https://open.spotify.com/track/33aKJ1s1QC94WW868ygr3p"
     },
     {
       "added_at": "2024-01-05 00:01:00",
@@ -5211,22 +5211,6 @@
     {
       "added_at": "2024-01-05 00:01:00",
       "album": {
-        "name": "P.S. I Love You",
-        "url": "https://open.spotify.com/album/3s81XUnnsE4TlY5zGJ0KBH"
-      },
-      "artists": [
-        {
-          "name": "Elvine Harley",
-          "url": "https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY"
-        }
-      ],
-      "duration_ms": 196250,
-      "name": "P.S. I Love You",
-      "url": "https://open.spotify.com/track/2pmeZ067WnFhjPc6zZS3xy"
-    },
-    {
-      "added_at": "2024-01-05 00:01:00",
-      "album": {
         "name": "Smoke Gets In Your Eyes",
         "url": "https://open.spotify.com/album/4ZY1K4JlzmoxdCJF6M18O5"
       },
@@ -5239,6 +5223,22 @@
       "duration_ms": 280124,
       "name": "Smoke Gets In Your Eyes",
       "url": "https://open.spotify.com/track/6LJWQLh4DaQqiYrimdO5Ep"
+    },
+    {
+      "added_at": "2024-01-05 00:01:00",
+      "album": {
+        "name": "P.S. I Love You",
+        "url": "https://open.spotify.com/album/3s81XUnnsE4TlY5zGJ0KBH"
+      },
+      "artists": [
+        {
+          "name": "Elvine Harley",
+          "url": "https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY"
+        }
+      ],
+      "duration_ms": 196250,
+      "name": "P.S. I Love You",
+      "url": "https://open.spotify.com/track/2pmeZ067WnFhjPc6zZS3xy"
     },
     {
       "added_at": "2024-01-05 00:01:00",
@@ -5303,22 +5303,6 @@
       "duration_ms": 142103,
       "name": "Strasbourg",
       "url": "https://open.spotify.com/track/3i4NoQWDcWEZ2q7TYqj5r1"
-    },
-    {
-      "added_at": "2024-01-05 00:01:00",
-      "album": {
-        "name": "The Way You Look Tonight",
-        "url": "https://open.spotify.com/album/4ICm9ovrQ3ytWtCDq6oU8L"
-      },
-      "artists": [
-        {
-          "name": "Elvine Harley",
-          "url": "https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "The Way You Look Tonight",
-      "url": "https://open.spotify.com/track/3j2pCB15qVRN5O78T2kTmV"
     },
     {
       "added_at": "2024-01-05 00:01:00",
@@ -5399,6 +5383,22 @@
       "duration_ms": 180266,
       "name": "After You've Gone",
       "url": "https://open.spotify.com/track/7L6SNhwfH1udIMpVztf9W6"
+    },
+    {
+      "added_at": "2024-01-05 00:01:00",
+      "album": {
+        "name": "The Way You Look Tonight",
+        "url": "https://open.spotify.com/album/4ICm9ovrQ3ytWtCDq6oU8L"
+      },
+      "artists": [
+        {
+          "name": "Elvine Harley",
+          "url": "https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/3j2pCB15qVRN5O78T2kTmV"
     },
     {
       "added_at": "2024-01-05 00:01:00",

@@ -4,7 +4,7 @@
 
 > The hottest tracks in Ghana\. Cover: KiDi
 
-247 songs - 12 hr 38 min
+248 songs - 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Obaa Hemaa](https://open.spotify.com/track/1k9V5yBlYFg0i7BruA6lux) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [O’Kenneth](https://open.spotify.com/artist/2IlZ9ELZSszoF3eDvj0uKe), [Reggie](https://open.spotify.com/artist/65ZsNUD4VR9tanQXJeMxt1), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Obaa Hemaa](https://open.spotify.com/album/6X8h5BH1oil6BW1JlVAytH) | 3:04 | 2023-05-11 | 2023-05-26 |
 | [Obiaa](https://open.spotify.com/track/3MEEjxaV8fg5BUpV66b86G) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y), [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO) | [Lighthouse EP](https://open.spotify.com/album/5x6h4sq7bNekBjnBoeGHaN) | 4:15 | 2022-02-17 | 2022-12-02 |
 | [Odo](https://open.spotify.com/track/08nMjhiq9eafvysZ4P5LU4) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [Odo](https://open.spotify.com/album/6qqytYEiJ6cQMhXNG1oV3G) | 3:02 | 2023-06-22 | 2023-11-14 |
+| [Odo Bi Ye Bad](https://open.spotify.com/track/0vKCeI0yetwp5BfBNihg3o) | [Rap Fada](https://open.spotify.com/artist/2B2GXzW2b4x6pohKQ5C40a), [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Odo Bi Ye Bad](https://open.spotify.com/album/2thtAFmA3VQWLZfuMi3LbV) | 3:56 | 2024-03-04 |  |
 | [Odo Dede](https://open.spotify.com/track/5JB0EcpkbUsyaU9EvzK3bw) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [L.I.T.A \(Deluxe Edition\)](https://open.spotify.com/album/3eSs5S46FxMXHK3bTaTeD1) | 3:56 | 2023-06-22 | 2023-07-21 |
 | [Oh Ma Linda](https://open.spotify.com/track/28aDl6G202ZZeynzYIZRDb) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Most High](https://open.spotify.com/album/505XBFuhnlK4GBsGq7old5) | 2:56 | 2023-07-14 | 2023-11-14 |
 | [Oh Ma Linda](https://open.spotify.com/track/0pUe1jK12D7nGf47QfEPK6) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Oh Ma Linda](https://open.spotify.com/album/7lsm82NrdAoXBWoOEucvMg) | 2:56 | 2023-04-14 | 2023-07-14 |
@@ -243,7 +244,7 @@
 | [Vero](https://open.spotify.com/track/0yjxAenLJwPCCcn19XSYG3) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Vero](https://open.spotify.com/album/7fshzXhS2s2VwC9bvzBFiC) | 2:04 | 2023-06-16 | 2023-07-14 |
 | [Wahala](https://open.spotify.com/track/6XVdYBT39Q4OBHgrRIOi6g) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw) | [Wahala](https://open.spotify.com/album/25OljjPyLcE3VQ7LWZ4RMY) | 3:17 | 2023-07-28 | 2023-09-15 |
 | [Wasteman](https://open.spotify.com/track/3jKFt4kXB8EjY9beWwdvOv) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 2:31 | 2023-02-23 | 2023-05-27 |
-| [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-09-27 |  |
+| [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-09-27 | 2024-03-05 |
 | [We Made It](https://open.spotify.com/track/39XhbcJa05wPLIEHid0ETX) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Planning & Plotting](https://open.spotify.com/album/5tzGN7v8ThskOevWZtZCUS) | 3:20 | 2023-10-13 | 2023-11-14 |
 | [Who Is Your Guy?](https://open.spotify.com/track/1kyYCsP2NRZEKkBg9wcF2c) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Who Is Your Guy?](https://open.spotify.com/album/48L6IyMWELE0HIz5JdhW34) | 2:40 | 2023-03-24 | 2023-08-08 |
 | [Who Is Your Guy?](https://open.spotify.com/track/50Fnn6VgRmPXcCKKBFUxm0) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Who Is Your Guy?](https://open.spotify.com/album/3l2DGZPCX1tkzV3O9tqiq4) | 2:40 | 2023-02-23 | 2023-03-29 |

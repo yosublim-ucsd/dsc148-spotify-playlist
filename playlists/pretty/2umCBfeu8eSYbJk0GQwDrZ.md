@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 
 > Stay current with the latest indie\-alt tracks.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 28,176 likes - 60 songs - 3 hr 12 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 28,174 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 | 5 | [Slug](https://open.spotify.com/track/0BnQ1jQWb6Th7e0jMQhB3F) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Slug](https://open.spotify.com/album/1KtfoFXpZEzixT8iPzCmmK) | 3:00 |
 | 6 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 |
 | 7 | [PAMPLEMOUSSE](https://open.spotify.com/track/2dyVjYAL6dpHuctqx7BRNY) | [Walter The Producer](https://open.spotify.com/artist/59QOcYlBSqJMi5rTHcwplJ) | [PAMPLEMOUSSE](https://open.spotify.com/album/67NpY9mLfUVlVpq4zw7kBo) | 2:19 |
-| 8 | [Hard dreams](https://open.spotify.com/track/1sJAQWkZdaJDsPifl1fvOd) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Hard dreams](https://open.spotify.com/album/15kCPeNnhlUuZfKyr1CJuy) | 2:50 |
+| 8 | [Hard dreams](https://open.spotify.com/track/1sJAQWkZdaJDsPifl1fvOd) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP), [Yan Wagner](https://open.spotify.com/artist/7JLtS4ASAUsAYrsShMerMc) | [Hard dreams](https://open.spotify.com/album/15kCPeNnhlUuZfKyr1CJuy) | 2:50 |
 | 9 | [Out Loud](https://open.spotify.com/track/6Yx5Cw2mVmx6LiVP2VXWEO) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Out Loud](https://open.spotify.com/album/2Yoh27G61AmIKH2ubk2RSb) | 3:20 |
 | 10 | [River](https://open.spotify.com/track/3UrmjZcjcYP3zFUdfWOy46) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [River](https://open.spotify.com/album/7jfhFHdRgOjyDAvIZ4WNL8) | 2:36 |
 | 11 | [The Glass](https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Glass](https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm) | 3:31 |

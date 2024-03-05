@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3702724,
+  "num_followers": 3703007,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjQzOWIyZmUyYmQxZDc4NzFhNDAyODljNThmYzRmY2QyZmQ5ZmNj",
+  "snapshot_id": "MCxjMDY3YjFhZWE1MWU0YWEzN2U0YWFjMTRlODRhNGU0OWZhOTgwNTg5",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -859,6 +859,26 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Talk It Over",
+        "url": "https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 209178,
+      "name": "Talk It Over",
+      "url": "https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "I Will Leave a Light On",
         "url": "https://open.spotify.com/album/2KSD7hHUDnXcgTO56Zhwi2"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 178604,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/56v1HwCZeldmJ82yViKQhZ"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Talk It Over",
-        "url": "https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 209178,
-      "name": "Talk It Over",
-      "url": "https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/3o2K9k9I6qN5U8VAD8vfVp"
-      },
-      "artists": [
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        },
-        {
-          "name": "Rae Morris",
-          "url": "https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst"
-        }
-      ],
-      "duration_ms": 250920,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/1FTrDODUS6bWx3eSCWu1Ym"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "In Another Lifetime",
         "url": "https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 284563,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/4Xz2mxHREzWiEr0AyCJuU6"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/3o2K9k9I6qN5U8VAD8vfVp"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        },
+        {
+          "name": "Rae Morris",
+          "url": "https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst"
+        }
+      ],
+      "duration_ms": 250920,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/1FTrDODUS6bWx3eSCWu1Ym"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1183,30 +1183,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Running In A Dream",
-        "url": "https://open.spotify.com/album/0QwLVfeowQtETeolwF7V5x"
-      },
-      "artists": [
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        },
-        {
-          "name": "Kasbo",
-          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
-        },
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        }
-      ],
-      "duration_ms": 269221,
-      "name": "Running In A Dream",
-      "url": "https://open.spotify.com/track/4wXTePdTVHsFKowOVLVCbs"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Do You Feel The Same? (OCULA Remix)",
         "url": "https://open.spotify.com/album/6dgppkSkxLiCrZG3O50Q7L"
       },
@@ -1239,6 +1215,30 @@
       "duration_ms": 193548,
       "name": "Waiting All My Life",
       "url": "https://open.spotify.com/track/0infcAnwAyF46VzYkXrlQi"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Running In A Dream",
+        "url": "https://open.spotify.com/album/0QwLVfeowQtETeolwF7V5x"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        },
+        {
+          "name": "Kasbo",
+          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
+        },
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "duration_ms": 269221,
+      "name": "Running In A Dream",
+      "url": "https://open.spotify.com/track/4wXTePdTVHsFKowOVLVCbs"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Assassin",
+        "url": "https://open.spotify.com/album/1K8RGioeHlH4DyaeSxnnrz"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        }
+      ],
+      "duration_ms": 326000,
+      "name": "Assassin",
+      "url": "https://open.spotify.com/track/1xjvIE3l0BACb24sF2TpPH"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/03JjqwDRiH4zqkIwyUTxKo"
       },
@@ -1515,38 +1531,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Assassin",
-        "url": "https://open.spotify.com/album/1K8RGioeHlH4DyaeSxnnrz"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        }
-      ],
-      "duration_ms": 326000,
-      "name": "Assassin",
-      "url": "https://open.spotify.com/track/1xjvIE3l0BACb24sF2TpPH"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "The Chase (Edit)",
-        "url": "https://open.spotify.com/album/56iwbPSWGAZk0V4ureAoBZ"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 170721,
-      "name": "The Chase (Edit)",
-      "url": "https://open.spotify.com/track/1vQ4ip1vF9VKRiBQjZ79n9"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "When The Light Breaks",
         "url": "https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h"
       },
@@ -1575,6 +1559,42 @@
       "duration_ms": 278880,
       "name": "Perfect World",
       "url": "https://open.spotify.com/track/3fPSulmetwSxRIQ8cfU8Yl"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Under The Surface",
+        "url": "https://open.spotify.com/album/57n89DMDCnJg2pY6uszUv1"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "duration_ms": 324590,
+      "name": "Under The Surface",
+      "url": "https://open.spotify.com/track/6u3h5vhjyNTkGziCxwJ3o1"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "The Chase (Edit)",
+        "url": "https://open.spotify.com/album/56iwbPSWGAZk0V4ureAoBZ"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 170721,
+      "name": "The Chase (Edit)",
+      "url": "https://open.spotify.com/track/1vQ4ip1vF9VKRiBQjZ79n9"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1647,6 +1667,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "All I've Ever Known",
+        "url": "https://open.spotify.com/album/4hFPQHIvNtt8c9pn1F25uK"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "All I've Ever Known",
+      "url": "https://open.spotify.com/track/2uBELhgylBRkmLI5B5yCbe"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Remedy",
         "url": "https://open.spotify.com/album/0kTUETKwjoj5x8iHJaOb4Y"
       },
@@ -1683,38 +1719,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Under The Surface",
-        "url": "https://open.spotify.com/album/57n89DMDCnJg2pY6uszUv1"
+        "name": "Holding Me Back",
+        "url": "https://open.spotify.com/album/0WxPw5ordrZJNMHhtzjAJ7"
       },
       "artists": [
         {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
         },
         {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+          "name": "The Kite String Tangle",
+          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
         }
       ],
-      "duration_ms": 324590,
-      "name": "Under The Surface",
-      "url": "https://open.spotify.com/track/6u3h5vhjyNTkGziCxwJ3o1"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "All I've Ever Known",
-        "url": "https://open.spotify.com/album/4hFPQHIvNtt8c9pn1F25uK"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "All I've Ever Known",
-      "url": "https://open.spotify.com/track/2uBELhgylBRkmLI5B5yCbe"
+      "duration_ms": 265849,
+      "name": "Holding Me Back",
+      "url": "https://open.spotify.com/track/7DtNdmtp4c12Wt0sdHVg3g"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1735,26 +1755,6 @@
       "duration_ms": 275958,
       "name": "Breaking Apart",
       "url": "https://open.spotify.com/track/6QSgJaGAs7EhyCXTYehkZd"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Holding Me Back",
-        "url": "https://open.spotify.com/album/0WxPw5ordrZJNMHhtzjAJ7"
-      },
-      "artists": [
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        },
-        {
-          "name": "The Kite String Tangle",
-          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
-        }
-      ],
-      "duration_ms": 265849,
-      "name": "Holding Me Back",
-      "url": "https://open.spotify.com/track/7DtNdmtp4c12Wt0sdHVg3g"
     },
     {
       "added_at": "2024-03-01 05:00:00",

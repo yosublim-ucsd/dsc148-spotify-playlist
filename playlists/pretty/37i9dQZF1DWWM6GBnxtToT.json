@@ -1,12 +1,12 @@
 {
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
-  "num_followers": 583743,
+  "num_followers": 583809,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTg5MDAzZWI4OWY4ZjExM2JmM2FhZWNjZDkwNmMwYzE4NTMyYjFj",
+  "snapshot_id": "MCxkOThkZWNkMzE0ZjIxNjcwNzA1Mzc0ZjMyNzdlZGY0MTA2ZGU3ZTdi",
   "tracks": [
     {
       "added_at": "2024-02-05 09:30:14",
@@ -123,6 +123,22 @@
     {
       "added_at": "2024-02-05 09:30:14",
       "album": {
+        "name": "Loving In Stereo",
+        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "All Of The Time",
+      "url": "https://open.spotify.com/track/2ezQq2qWhGO6J6q5JwC50d"
+    },
+    {
+      "added_at": "2024-02-05 09:30:14",
+      "album": {
         "name": "Feels Right",
         "url": "https://open.spotify.com/album/2p1ShoYCCYtOfyDXRS97Gn"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 203500,
       "name": "Tender love",
       "url": "https://open.spotify.com/track/1CM16VHSXw4CcvZUPsa8CU"
-    },
-    {
-      "added_at": "2024-02-05 09:30:14",
-      "album": {
-        "name": "Loving In Stereo",
-        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "All Of The Time",
-      "url": "https://open.spotify.com/track/2ezQq2qWhGO6J6q5JwC50d"
     },
     {
       "added_at": "2024-02-05 09:30:14",
@@ -299,6 +299,38 @@
     {
       "added_at": "2024-02-05 09:30:14",
       "album": {
+        "name": "How Have You Been?",
+        "url": "https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "duration_ms": 198973,
+      "name": "Bedroom Exile",
+      "url": "https://open.spotify.com/track/4qCgx9aDj13P06lgDDhUmk"
+    },
+    {
+      "added_at": "2024-02-05 09:30:14",
+      "album": {
+        "name": "Colorado",
+        "url": "https://open.spotify.com/album/0zOIu4cDkUdJPq1c5uQusO"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 174347,
+      "name": "Colorado",
+      "url": "https://open.spotify.com/track/0eZmBWVC1HYayrP2fqQ7nu"
+    },
+    {
+      "added_at": "2024-02-05 09:30:14",
+      "album": {
         "name": "Heartworks",
         "url": "https://open.spotify.com/album/0WBpc7PSDbgRZIHZ4mAY0q"
       },
@@ -327,38 +359,6 @@
       "duration_ms": 181800,
       "name": "in my mind",
       "url": "https://open.spotify.com/track/6HEJavNON4wd0cy1Hp6KV2"
-    },
-    {
-      "added_at": "2024-02-05 09:30:14",
-      "album": {
-        "name": "Colorado",
-        "url": "https://open.spotify.com/album/0zOIu4cDkUdJPq1c5uQusO"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 174347,
-      "name": "Colorado",
-      "url": "https://open.spotify.com/track/0eZmBWVC1HYayrP2fqQ7nu"
-    },
-    {
-      "added_at": "2024-02-05 09:30:14",
-      "album": {
-        "name": "How Have You Been?",
-        "url": "https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO"
-      },
-      "artists": [
-        {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
-        }
-      ],
-      "duration_ms": 198973,
-      "name": "Bedroom Exile",
-      "url": "https://open.spotify.com/track/4qCgx9aDj13P06lgDDhUmk"
     },
     {
       "added_at": "2024-02-05 09:30:14",
@@ -427,6 +427,22 @@
     {
       "added_at": "2024-02-05 09:30:14",
       "album": {
+        "name": "Synchronize",
+        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 164576,
+      "name": "Synchronize",
+      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
+    },
+    {
+      "added_at": "2024-02-05 09:30:14",
+      "album": {
         "name": "Only For A Moment",
         "url": "https://open.spotify.com/album/471pH6iOglOu5GlePOeUqV"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 175529,
       "name": "Little Paradise",
       "url": "https://open.spotify.com/track/0ULtZkQAnZEgGVRKFcMTe0"
-    },
-    {
-      "added_at": "2024-02-05 09:30:14",
-      "album": {
-        "name": "Synchronize",
-        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 164576,
-      "name": "Synchronize",
-      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
     },
     {
       "added_at": "2024-02-05 09:30:14",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-02-05 09:30:14",
       "album": {
+        "name": "Hotel Surrender",
+        "url": "https://open.spotify.com/album/1EvJl2nSEPBGnu0XqKAqbq"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 222936,
+      "name": "Get High",
+      "url": "https://open.spotify.com/track/3q8bVATKAOwjc8C0jY3DRd"
+    },
+    {
+      "added_at": "2024-02-05 09:30:14",
+      "album": {
         "name": "Odyssey",
         "url": "https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO"
       },
@@ -583,18 +599,22 @@
     {
       "added_at": "2024-02-05 09:30:14",
       "album": {
-        "name": "Hotel Surrender",
-        "url": "https://open.spotify.com/album/1EvJl2nSEPBGnu0XqKAqbq"
+        "name": "Don\u2019t Let Me Down",
+        "url": "https://open.spotify.com/album/427L6hniDKMN8kWwSI4uc8"
       },
       "artists": [
         {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        },
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/2i7oYx3jb0r7sQtKovIfNz"
         }
       ],
-      "duration_ms": 222936,
-      "name": "Get High",
-      "url": "https://open.spotify.com/track/3q8bVATKAOwjc8C0jY3DRd"
+      "duration_ms": 200391,
+      "name": "Don't Let Me Down",
+      "url": "https://open.spotify.com/track/5hsOIinKbxVIVIggR55OAQ"
     },
     {
       "added_at": "2024-02-05 09:30:14",
@@ -615,26 +635,6 @@
       "duration_ms": 246706,
       "name": "Tonight (feat. Ezra Koenig)",
       "url": "https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF"
-    },
-    {
-      "added_at": "2024-02-05 09:30:14",
-      "album": {
-        "name": "Don\u2019t Let Me Down",
-        "url": "https://open.spotify.com/album/427L6hniDKMN8kWwSI4uc8"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        },
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/2i7oYx3jb0r7sQtKovIfNz"
-        }
-      ],
-      "duration_ms": 200391,
-      "name": "Don't Let Me Down",
-      "url": "https://open.spotify.com/track/5hsOIinKbxVIVIggR55OAQ"
     },
     {
       "added_at": "2024-02-05 09:30:14",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-02-05 09:30:14",
       "album": {
-        "name": "To Feel Something At All",
-        "url": "https://open.spotify.com/album/46vIcaJA2Si8q22eFQkGEH"
-      },
-      "artists": [
-        {
-          "name": "KYTES",
-          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
-        }
-      ],
-      "duration_ms": 169533,
-      "name": "Out of Time",
-      "url": "https://open.spotify.com/track/2WPhVFDTP6OyrfT2Hwg75K"
-    },
-    {
-      "added_at": "2024-02-05 09:30:14",
-      "album": {
         "name": "More Than Happiness",
         "url": "https://open.spotify.com/album/0AEksbW3dMkEn4mjqmITM0"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 238186,
       "name": "More Than Happiness",
       "url": "https://open.spotify.com/track/3AosSVnv55KvhcpPaj5IO1"
+    },
+    {
+      "added_at": "2024-02-05 09:30:14",
+      "album": {
+        "name": "To Feel Something At All",
+        "url": "https://open.spotify.com/album/46vIcaJA2Si8q22eFQkGEH"
+      },
+      "artists": [
+        {
+          "name": "KYTES",
+          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
+        }
+      ],
+      "duration_ms": 169533,
+      "name": "Out of Time",
+      "url": "https://open.spotify.com/track/2WPhVFDTP6OyrfT2Hwg75K"
     },
     {
       "added_at": "2024-02-05 09:30:14",

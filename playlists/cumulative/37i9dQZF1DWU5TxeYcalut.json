@@ -903,6 +903,36 @@
     },
     {
       "album": {
+        "name": "Y'Y",
+        "url": "https://open.spotify.com/album/6uau7dao159A94pxtGIoMj"
+      },
+      "artists": [
+        {
+          "name": "Amaro Freitas",
+          "url": "https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679"
+        },
+        {
+          "name": "Hamid Drake",
+          "url": "https://open.spotify.com/artist/3UJfOrT4kZIoRtRfaCQgFp"
+        },
+        {
+          "name": "Shabaka",
+          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
+        },
+        {
+          "name": "Aniel Someillan",
+          "url": "https://open.spotify.com/artist/7sOXF3R6ECCpyeItRgqIAk"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 582304,
+      "name": "Encantados",
+      "url": "https://open.spotify.com/track/3J3mYjLiUHZPwLLe5YtvQo"
+    },
+    {
+      "album": {
         "name": "Encantados",
         "url": "https://open.spotify.com/album/2TgHSNAZ2hQgnjEOh2t9Bh"
       },
@@ -926,7 +956,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 582304,
       "name": "Encantados",
       "url": "https://open.spotify.com/track/4yTafI7wbjy1VtThovqmXF"

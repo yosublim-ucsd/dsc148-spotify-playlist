@@ -4,7 +4,7 @@
 
 > The best Dance and EDM tracks right now! Cover: The Banker Boys
 
-148 songs - 7 hr 40 min
+149 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [One Night/All Night](https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [One Night/All Night](https://open.spotify.com/album/3ISYaclw23kCz3IZtn7koK) | 4:36 | 2024-01-26 |  |
 | [Out Of My Head](https://open.spotify.com/track/3L7RqK0wfTfgRJbefYcKeM) | [The Banker Boys](https://open.spotify.com/artist/23ZQRnQKAovuLlXhc555tm), [Shawn Hook](https://open.spotify.com/artist/7blkMNJv8n9ceP9zlA4W2U) | [Out Of My Head](https://open.spotify.com/album/1fswBzR4WGga1p5UbI8tr7) | 2:16 | 2023-10-27 |  |
 | [Paradise](https://open.spotify.com/track/7s3uaWJcIvGMo0MswS3l5A) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl) | [Back To Life](https://open.spotify.com/album/1J3os6fg6lvIoEC6czG8EY) | 3:23 | 2023-10-27 |  |
+| [Party Girl](https://open.spotify.com/track/4yBCo06OTulX4uBdDtKYrr) | [Our Anthem](https://open.spotify.com/artist/0yvdg5HZnoTbaawqVloMZl) | [Party Girl](https://open.spotify.com/album/4SgOSWTYzsSA78jKqFIRpg) | 3:22 | 2024-03-04 |  |
 | [Past Life](https://open.spotify.com/track/4yc0wKwKXGkx9Vqc42MIFy) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Past Life](https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL) | 3:16 | 2023-10-27 | 2023-11-25 |
 | [Past Life \- Koven Remix](https://open.spotify.com/track/0vrM0WITqW7On94qLHfFrX) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Past Life \(Koven Remix\)](https://open.spotify.com/album/03TTEBdmcDUXW9PdTqo5dZ) | 2:30 | 2023-11-24 |  |
 | [Phone](https://open.spotify.com/track/0GTuyzPTs2G0wqFD1trSOw) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Phone](https://open.spotify.com/album/7ajeVOWfz9qfKlEXDBN5Uo) | 2:35 | 2023-10-27 |  |
@@ -133,7 +134,7 @@
 | [Stay](https://open.spotify.com/track/5RPb4BmoWmy1c6SxQb8rHC) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc) | [Stay](https://open.spotify.com/album/6XNlioBAdVOcTIzqeDNM3I) | 2:12 | 2024-01-26 |  |
 | [Still Fall](https://open.spotify.com/track/3JG1pGENyNtrVyPd1VPhN4) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Still Fall](https://open.spotify.com/album/74e6pSi6iXw7TMut1Utb0f) | 3:29 | 2023-12-01 |  |
 | [Suffer In Silence](https://open.spotify.com/track/6TMsLIRJQ7LkfFY3g0DGKS) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Suffer In Silence](https://open.spotify.com/album/7HS540iPPvyiOIwDbPGQGc) | 3:14 | 2023-10-27 | 2024-03-02 |
-| [Sumthin Crazy \(with Rochelle Jordan\)](https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [never worry](https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r) | 3:06 | 2023-10-27 |  |
+| [Sumthin Crazy \(with Rochelle Jordan\)](https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [never worry](https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r) | 3:06 | 2023-10-27 | 2024-03-05 |
 | [Sunglasses At Night](https://open.spotify.com/track/6eoY6XnhGFr3HInyECJdbx) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Sunglasses At Night](https://open.spotify.com/album/4hLi7mKyVQ3tL20otPQpk1) | 2:50 | 2023-10-27 |  |
 | [Sunshine \(My Girl\)](https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Sunshine \(My Girl\)](https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As) | 2:11 | 2024-02-20 |  |
 | [Take My Soul](https://open.spotify.com/track/2Qe6S4Xy5rS2Vidoaxp6b0) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [Days Before Grace](https://open.spotify.com/album/6Hkf54OpfrK7PGlab7OB1J) | 5:01 | 2023-10-27 |  |

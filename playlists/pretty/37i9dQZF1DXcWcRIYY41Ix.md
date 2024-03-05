@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Natalia Lafourcade y Kevin Johansen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,722 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,750 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 99 | [Casida de la Rosa](https://open.spotify.com/track/7Dpg9kyPOZDv5N5QWUW08J) | [Magalí Datzira](https://open.spotify.com/artist/4Wwktb7LI1OtXAWRO6Hln4) | [Casida de la Rosa](https://open.spotify.com/album/0qrGsG3sUTVCgYtNQI8LHI) | 5:31 |
 | 100 | [O Paxaro](https://open.spotify.com/track/4CR0roK6qbDCyXnP1hqSqy) | [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1) | [O Paxaro](https://open.spotify.com/album/7EfWpdupPgcYi4X3XHc9gR) | 3:41 |
 
-Snapshot ID: `MCxlMGRkYWUwMDQ1MDI1YjRiZDFhNjNmZDMxMDZhYTYzMjljNmJhZWIz`
+Snapshot ID: `MCwzNTk3NzRkNjBmNGYzYTY2YzViN2Y3OWMyMTFhNzhhZTRhYWY5Njli`

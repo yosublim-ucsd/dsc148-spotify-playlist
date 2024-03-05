@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11ghcIxjcjE.md) - [plain]
 
 ### [Grunge Forever](https://open.spotify.com/playlist/37i9dQZF1DX11ghcIxjcjE)
 
-> Grunge will live forever\. Cover: Kurt Cobain
+> Grunge will live forever\. Cover: Soundgarden
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,687,939 likes - 60 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,688,370 likes - 60 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,21 +31,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11ghcIxjcjE.md) - [plain]
 | 21 | [Daughter \- Remastered](https://open.spotify.com/track/53eJFr4Mfbw5PXJ01K6cFw) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vs.](https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV) | 3:54 |
 | 22 | [Down In A Hole \(2022 Remaster\)](https://open.spotify.com/track/7FRfYOql61DGDp9VPPe2qA) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt \(2022 Remaster\)](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 5:38 |
 | 23 | [River Of Deceit](https://open.spotify.com/track/3e2fDgC93LGc9Lbdvr6I9k) | [Mad Season](https://open.spotify.com/artist/0T7JQxpy1Li93vLNirbv0Z) | [Above](https://open.spotify.com/album/24eGklcEnMaVcGXzmJSeoD) | 5:02 |
-| 24 | [Outshined \- Remastered](https://open.spotify.com/track/4VwPsMcRt1HPVKIdcwY9Uj) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Badmotorfinger \(25th Anniversary Remaster\)](https://open.spotify.com/album/2W6MaUiInBkna5DfBES4E3) | 5:11 |
-| 25 | [Spoonman](https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(20th Anniversary\)](https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh) | 4:06 |
-| 26 | [No Rain](https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h) | 3:37 |
-| 27 | [All Apologies](https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 3:53 |
-| 28 | [Say Hello 2 Heaven \- 25th Anniversary Mix](https://open.spotify.com/track/6gpai6xL08vD5mQ4fXTwxL) | [Temple Of The Dog](https://open.spotify.com/artist/0iHb0mCbqZTYeb4y9Pirrd) | [Temple Of The Dog \(Deluxe Edition\)](https://open.spotify.com/album/1mMy79IOzwQyoD6dg8568p) | 6:24 |
-| 29 | [Seasons](https://open.spotify.com/track/4QglwXpVgc088RhQOp42vx) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Singles \- Original Motion Picture Soundtrack](https://open.spotify.com/album/58BEJ01sL8wK5LV3TPyngC) | 5:45 |
-| 30 | [Rusty Cage \- Remastered](https://open.spotify.com/track/6hqIXyo6GxydAnoI8XeIrV) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Badmotorfinger \(25th Anniversary Remaster\)](https://open.spotify.com/album/2W6MaUiInBkna5DfBES4E3) | 4:26 |
-| 31 | [Sex Type Thing \- 2017 Remaster](https://open.spotify.com/track/6skC0VsaOZE1kG4CwXI2Zj) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Core \(Super Deluxe Edition\)](https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC) | 3:37 |
-| 32 | [I'll Stick Around](https://open.spotify.com/track/4LGKzrdEeBwR9UHCGlDT0W) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Foo Fighters](https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY) | 3:52 |
-| 33 | [I Don't Know Anything](https://open.spotify.com/track/5DRUgJmwLvCHQjiFzb4LSQ) | [Mad Season](https://open.spotify.com/artist/0T7JQxpy1Li93vLNirbv0Z) | [Above \(Deluxe Edition\)](https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn) | 5:00 |
-| 34 | [Possum Kingdom](https://open.spotify.com/track/7geL2YhrXDr9tFjoNJMaSZ) | [Toadies](https://open.spotify.com/artist/2QMMktUMtwMSwUZATX1cRO) | [Heretics](https://open.spotify.com/album/6iLnTLBRtx064EEer404cr) | 5:54 |
-| 35 | [Pretend We're Dead](https://open.spotify.com/track/3z5ggGtcs4t8pizW521gW9) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Bricks Are Heavy](https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM) | 3:55 |
-| 36 | [Cut You In](https://open.spotify.com/track/0ecuZefr04QYl0cGpT53Nz) | [Jerry Cantrell](https://open.spotify.com/artist/5HUFo8AH9ZILmlyKFfEMNP) | [Boggy Depot](https://open.spotify.com/album/6AK1eIMwW1LxFNlqwiDED5) | 3:23 |
-| 37 | [This Is a Call](https://open.spotify.com/track/2wO8aOvN1ogLy1N8XT1WJE) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Foo Fighters](https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY) | 3:53 |
-| 38 | [Nearly Lost You](https://open.spotify.com/track/4EiLHuUSKTlaGmdR17J2tc) | [Screaming Trees](https://open.spotify.com/artist/3Ukr3Ufjg8ygRJv7Ww887f) | [Singles \- Original Motion Picture Soundtrack](https://open.spotify.com/album/58BEJ01sL8wK5LV3TPyngC) | 4:06 |
+| 24 | [Spoonman](https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(20th Anniversary\)](https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh) | 4:06 |
+| 25 | [No Rain](https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h) | 3:37 |
+| 26 | [All Apologies](https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 3:53 |
+| 27 | [Say Hello 2 Heaven \- 25th Anniversary Mix](https://open.spotify.com/track/6gpai6xL08vD5mQ4fXTwxL) | [Temple Of The Dog](https://open.spotify.com/artist/0iHb0mCbqZTYeb4y9Pirrd) | [Temple Of The Dog \(Deluxe Edition\)](https://open.spotify.com/album/1mMy79IOzwQyoD6dg8568p) | 6:24 |
+| 28 | [Seasons](https://open.spotify.com/track/4QglwXpVgc088RhQOp42vx) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Singles \- Original Motion Picture Soundtrack](https://open.spotify.com/album/58BEJ01sL8wK5LV3TPyngC) | 5:45 |
+| 29 | [Outshined \- Remastered](https://open.spotify.com/track/4VwPsMcRt1HPVKIdcwY9Uj) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Badmotorfinger \(25th Anniversary Remaster\)](https://open.spotify.com/album/2W6MaUiInBkna5DfBES4E3) | 5:11 |
+| 30 | [Sex Type Thing \- 2017 Remaster](https://open.spotify.com/track/6skC0VsaOZE1kG4CwXI2Zj) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Core \(Super Deluxe Edition\)](https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC) | 3:37 |
+| 31 | [I'll Stick Around](https://open.spotify.com/track/4LGKzrdEeBwR9UHCGlDT0W) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Foo Fighters](https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY) | 3:52 |
+| 32 | [I Don't Know Anything](https://open.spotify.com/track/5DRUgJmwLvCHQjiFzb4LSQ) | [Mad Season](https://open.spotify.com/artist/0T7JQxpy1Li93vLNirbv0Z) | [Above \(Deluxe Edition\)](https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn) | 5:00 |
+| 33 | [Possum Kingdom](https://open.spotify.com/track/7geL2YhrXDr9tFjoNJMaSZ) | [Toadies](https://open.spotify.com/artist/2QMMktUMtwMSwUZATX1cRO) | [Heretics](https://open.spotify.com/album/6iLnTLBRtx064EEer404cr) | 5:54 |
+| 34 | [Pretend We're Dead](https://open.spotify.com/track/3z5ggGtcs4t8pizW521gW9) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Bricks Are Heavy](https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM) | 3:55 |
+| 35 | [Cut You In](https://open.spotify.com/track/0ecuZefr04QYl0cGpT53Nz) | [Jerry Cantrell](https://open.spotify.com/artist/5HUFo8AH9ZILmlyKFfEMNP) | [Boggy Depot](https://open.spotify.com/album/6AK1eIMwW1LxFNlqwiDED5) | 3:23 |
+| 36 | [This Is a Call](https://open.spotify.com/track/2wO8aOvN1ogLy1N8XT1WJE) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Foo Fighters](https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY) | 3:53 |
+| 37 | [Nearly Lost You](https://open.spotify.com/track/4EiLHuUSKTlaGmdR17J2tc) | [Screaming Trees](https://open.spotify.com/artist/3Ukr3Ufjg8ygRJv7Ww887f) | [Singles \- Original Motion Picture Soundtrack](https://open.spotify.com/album/58BEJ01sL8wK5LV3TPyngC) | 4:06 |
+| 38 | [Rusty Cage \- Remastered](https://open.spotify.com/track/6hqIXyo6GxydAnoI8XeIrV) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Badmotorfinger \(25th Anniversary Remaster\)](https://open.spotify.com/album/2W6MaUiInBkna5DfBES4E3) | 4:26 |
 | 39 | [Plowed](https://open.spotify.com/track/3vaONhSGEscyYeYoGpMLW4) | [Sponge](https://open.spotify.com/artist/2JXDwIo5HsiwTcTPQytrZ8) | [Rotting Pinata](https://open.spotify.com/album/1V76gZ6Ln4ubw7aiok7Qoa) | 3:17 |
 | 40 | [Crown Of Thorns](https://open.spotify.com/track/3UhOnJHr4XYGgFLoQE9JFt) | [Mother Love Bone](https://open.spotify.com/artist/3XR64HmFo4OvexUUNW7TP0) | [Apple](https://open.spotify.com/album/29Z58CSd0WX6E03bRbhHAK) | 6:22 |
 | 41 | [Burn a Hole](https://open.spotify.com/track/7fJZisLc35j8EbIQxTFx8b) | [Skin Yard](https://open.spotify.com/artist/0sPa3yPonEuDbDhBzz7g4E) | [1000 Smiling Knuckles](https://open.spotify.com/album/6eEONt3JiPOcm8IoYRCtH0) | 4:54 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11ghcIxjcjE.md) - [plain]
 | 59 | [Swallow My Pride](https://open.spotify.com/track/1LvJ1PFobtIm5DwzRrK0jG) | [Green River](https://open.spotify.com/artist/1XIIxzmo6BNRR4QkImSdsX) | [Dry as a Bone/Rehab Doll](https://open.spotify.com/album/1yfs3jV84tLJf7i3dSHEDU) | 2:59 |
 | 60 | [Six Foot Under](https://open.spotify.com/track/6AZFTXEbrftYn5Ca0PaKru) | [Blood Circus](https://open.spotify.com/artist/3RJbkbBAHUe5EEw7dpDVUV) | [Dead Beats](https://open.spotify.com/album/4OocizHrG47twaG6A7KDGA) | 3:52 |
 
-Snapshot ID: `MCw5NTU0MjUxNTE4M2E1ZjNlMzEzNTZlNjVhZjhhY2Y3OTg0Mjk1ZjI5`
+Snapshot ID: `MCxmNWMxODIxNDU4YmVhZTFmZTY2OWI3ZjRkNzM2YjUwN2QzMDlmNzhk`

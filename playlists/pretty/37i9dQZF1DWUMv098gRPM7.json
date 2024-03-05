@@ -1,12 +1,12 @@
 {
   "description": "A playback of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624\">Mood Ring</a>\u2019s all-stars. Cover: Aqyila",
-  "num_followers": 9436,
+  "num_followers": 9439,
   "original_name": "R&B Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWI0YTA2MDU5MjcwZmFkMTY0YjVmNmEwOTM3OGY0N2QxNTdjMzMx",
+  "snapshot_id": "MCw5YmEyYTdmNmQ2ZDNkMTBhZjMwMDhiNTgyODM2ODVhZTk4NWNiNDBl",
   "tracks": [
     {
       "added_at": "2024-03-01 01:18:37",
@@ -295,42 +295,6 @@
     {
       "added_at": "2024-03-01 01:18:37",
       "album": {
-        "name": "Wildest Dreams",
-        "url": "https://open.spotify.com/album/2ZdYh11KscDPsVKtxQY0ev"
-      },
-      "artists": [
-        {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 260519,
-      "name": "Stars Align (with Drake)",
-      "url": "https://open.spotify.com/track/5hTl2uxJGd1sbLtovguuuk"
-    },
-    {
-      "added_at": "2024-03-01 01:18:37",
-      "album": {
-        "name": "PARTYNEXTDOOR",
-        "url": "https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 212880,
-      "name": "Wus Good / Curious",
-      "url": "https://open.spotify.com/track/0NHvTrD8Igke3fawcp3njY"
-    },
-    {
-      "added_at": "2024-03-01 01:18:37",
-      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -343,6 +307,26 @@
       "duration_ms": 214193,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV"
+    },
+    {
+      "added_at": "2024-03-01 01:18:37",
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 214588,
+      "name": "Spin Bout U",
+      "url": "https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC"
     },
     {
       "added_at": "2024-03-01 01:18:37",
@@ -367,6 +351,42 @@
     {
       "added_at": "2024-03-01 01:18:37",
       "album": {
+        "name": "PARTYNEXTDOOR",
+        "url": "https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 212880,
+      "name": "Wus Good / Curious",
+      "url": "https://open.spotify.com/track/0NHvTrD8Igke3fawcp3njY"
+    },
+    {
+      "added_at": "2024-03-01 01:18:37",
+      "album": {
+        "name": "Wildest Dreams",
+        "url": "https://open.spotify.com/album/2ZdYh11KscDPsVKtxQY0ev"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 260519,
+      "name": "Stars Align (with Drake)",
+      "url": "https://open.spotify.com/track/5hTl2uxJGd1sbLtovguuuk"
+    },
+    {
+      "added_at": "2024-03-01 01:18:37",
+      "album": {
         "name": "Kiddo",
         "url": "https://open.spotify.com/album/2q7EwuXduuQGDJrPYPVFyw"
       },
@@ -379,26 +399,6 @@
       "duration_ms": 240906,
       "name": "FIGURES",
       "url": "https://open.spotify.com/track/3U3J5v3rkx89WnFEQvAJD5"
-    },
-    {
-      "added_at": "2024-03-01 01:18:37",
-      "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 214588,
-      "name": "Spin Bout U",
-      "url": "https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC"
     },
     {
       "added_at": "2024-03-01 01:18:37",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-03-01 01:18:37",
       "album": {
+        "name": "If You're Reading This It's Too Late",
+        "url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 320400,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/7JXZq0JgG2zTrSOAgY8VMC"
+    },
+    {
+      "added_at": "2024-03-01 01:18:37",
+      "album": {
         "name": "House Of Balloons (Original)",
         "url": "https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd"
       },
@@ -495,18 +511,22 @@
     {
       "added_at": "2024-03-01 01:18:37",
       "album": {
-        "name": "Journals",
-        "url": "https://open.spotify.com/album/1rknZw4cyL9NInAqSwc8AA"
+        "name": "YESSIE",
+        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
         }
       ],
-      "duration_ms": 262840,
-      "name": "Heartbreaker",
-      "url": "https://open.spotify.com/track/2GCKWEsbb0Xo1oodTOKVi1"
+      "duration_ms": 223157,
+      "name": "FOREVER (with 6LACK)",
+      "url": "https://open.spotify.com/track/2lVYLiHGIX6GajMqYXF1Un"
     },
     {
       "added_at": "2024-03-01 01:18:37",
@@ -527,38 +547,38 @@
     {
       "added_at": "2024-03-01 01:18:37",
       "album": {
-        "name": "If You're Reading This It's Too Late",
-        "url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I"
+        "name": "Journals",
+        "url": "https://open.spotify.com/album/1rknZw4cyL9NInAqSwc8AA"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 320400,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/7JXZq0JgG2zTrSOAgY8VMC"
+      "duration_ms": 262840,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/2GCKWEsbb0Xo1oodTOKVi1"
     },
     {
       "added_at": "2024-03-01 01:18:37",
       "album": {
-        "name": "YESSIE",
-        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/7H23XdhKb4H4mSCRd6gpwU"
       },
       "artists": [
         {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+          "name": "River Tiber",
+          "url": "https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0"
         },
         {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 223157,
-      "name": "FOREVER (with 6LACK)",
-      "url": "https://open.spotify.com/track/2lVYLiHGIX6GajMqYXF1Un"
+      "duration_ms": 152250,
+      "name": "West",
+      "url": "https://open.spotify.com/track/2R5GzHdM4xdA8HNLIF8lOY"
     },
     {
       "added_at": "2024-03-01 01:18:37",
@@ -595,26 +615,6 @@
       "duration_ms": 130369,
       "name": "Start Over",
       "url": "https://open.spotify.com/track/7DvlNrYFvmZieL8GdhJuoy"
-    },
-    {
-      "added_at": "2024-03-01 01:18:37",
-      "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/7H23XdhKb4H4mSCRd6gpwU"
-      },
-      "artists": [
-        {
-          "name": "River Tiber",
-          "url": "https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0"
-        },
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 152250,
-      "name": "West",
-      "url": "https://open.spotify.com/track/2R5GzHdM4xdA8HNLIF8lOY"
     },
     {
       "added_at": "2024-03-01 01:18:37",
@@ -1163,6 +1163,26 @@
     {
       "added_at": "2024-03-01 01:18:37",
       "album": {
+        "name": "When It Blooms",
+        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        }
+      ],
+      "duration_ms": 191952,
+      "name": "Kilimanjaro (with BEAM)",
+      "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
+    },
+    {
+      "added_at": "2024-03-01 01:18:37",
+      "album": {
         "name": "Last One",
         "url": "https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq"
       },
@@ -1199,26 +1219,6 @@
       "duration_ms": 116571,
       "name": "By My Side (feat. Kaash Paige)",
       "url": "https://open.spotify.com/track/0OixmRL2iIbWyDH6rn77M7"
-    },
-    {
-      "added_at": "2024-03-01 01:18:37",
-      "album": {
-        "name": "When It Blooms",
-        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        },
-        {
-          "name": "BEAM",
-          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
-        }
-      ],
-      "duration_ms": 191952,
-      "name": "Kilimanjaro (with BEAM)",
-      "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
     },
     {
       "added_at": "2024-03-01 01:18:37",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2024-03-01 01:18:37",
       "album": {
-        "name": "Lost In You",
-        "url": "https://open.spotify.com/album/23kfRYglxsFBBSNQ0uEZOt"
+        "name": "Welcome to the Wildfire",
+        "url": "https://open.spotify.com/album/7hi77eGIFqKdpj5U71BhJM"
       },
       "artists": [
         {
-          "name": "JON VINYL",
-          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+          "name": "K. Forest",
+          "url": "https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol"
         }
       ],
-      "duration_ms": 153293,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/7N2r26B4SQ9YTjacvK03P1"
+      "duration_ms": 160052,
+      "name": "Bad Neighbors",
+      "url": "https://open.spotify.com/track/0lYElfgYvfNJfwevdPd3tY"
     }
   ],
   "unique_name": "R&B Rewind",

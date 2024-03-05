@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 
 > Les meilleures nouveautés de la scène rock française\. Photo : YEAHRS
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,204 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,205 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 | 49 | [Acting Real Nice](https://open.spotify.com/track/0OVxgI1b8dhbA0NK5m6DWv) | [Holydanger](https://open.spotify.com/artist/0DFV3qOyMWdIbKTbHbEqFh) | [The Ethereal Beauty](https://open.spotify.com/album/1cJNcIoEZmIWDQHfO7N3b9) | 3:53 |
 | 50 | [Waves](https://open.spotify.com/track/4WpUZBuBcn0hH030KXCiwC) | [Circles](https://open.spotify.com/artist/40vMufIdvhPS4VFosKdDGD) | [Still.](https://open.spotify.com/album/683xxhxOF8nzxm5Yk4koud) | 2:49 |
 
-Snapshot ID: `MCxkY2Q3NzEwNWM3NjBjMDE0YTZiNWRmYjJhYTY1ODYzNzU1ZTVmZjg5`
+Snapshot ID: `MCw5NTQwNzE0MzI1ZGE1NTYzOGYwNGFlOGNkZjA2NTA3YjE0ZjFkNTZi`

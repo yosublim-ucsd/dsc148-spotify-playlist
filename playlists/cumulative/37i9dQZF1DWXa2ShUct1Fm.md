@@ -4,7 +4,7 @@
 
 > Say the name, Seventeen! Carats, get ready to slip into the diamond life with your 13 shining diamonds.
 
-204 songs - 11 hr 25 min
+205 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [God of Light Music](https://open.spotify.com/track/0xZ4WU5UfctiSeETi6pMEo) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [God of Light Music](https://open.spotify.com/album/2tVPLB5F9IsgPn4mvLQ7RJ) | 1:31 | 2023-12-26 |  |
 | [God of Music](https://open.spotify.com/track/4MTNimMDRyFZv37Thcktwa) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN'](https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f) | 3:25 | 2023-11-03 |  |
 | [God of Music \(Inst.\)](https://open.spotify.com/track/0Qaw6haFnOnzDxQvXnxmGG) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN'](https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f) | 3:25 | 2023-11-03 |  |
+| [Goddess of Despair](https://open.spotify.com/track/1kMuSPY0CrZsrrUfbGTbnf) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [Goddess of Despair](https://open.spotify.com/album/2pF0taAwEGNMFRfAyvWGnv) | 3:39 | 2024-03-04 |  |
 | [Good to Me](https://open.spotify.com/track/4RWbyug0n12hOVHDxRAj5y) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 6th Mini Album 'YOU MADE MY DAWN'](https://open.spotify.com/album/2Ng7FzZoNzpj4z8VRDHyb5) | 3:09 | 2023-07-28 |  |
 | [Good to Me](https://open.spotify.com/track/2ujZatFh8uZMkiBTu2z7AH) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 6TH MINI ALBUM 'YOU MADE MY DAWN'](https://open.spotify.com/album/1Or4crj0DlitdTRp36TjnT) | 3:09 | 2022-05-27 | 2023-08-02 |
 | [Habit](https://open.spotify.com/track/0ePDb0b1tMQlqP9u58pmcg) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Mini Album ‘Al1’](https://open.spotify.com/album/2BNimvLLlD89e4Sb7ZVX6I) | 4:13 | 2022-05-27 |  |

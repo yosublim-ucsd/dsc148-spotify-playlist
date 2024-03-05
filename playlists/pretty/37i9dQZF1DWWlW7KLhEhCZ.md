@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Alee
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,030 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,045 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [DIOR](https://open.spotify.com/track/5DuoTr0y7FL2FDvn5YQQ3w) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [DIAS ANTES DO CAOS](https://open.spotify.com/album/2BFosqa97kxv0HBBeB02d8) | 2:53 |
+| 1 | [DIOR](https://open.spotify.com/track/5DuoTr0y7FL2FDvn5YQQ3w) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [oson](https://open.spotify.com/artist/6DNSSxc3DE7NDU1bZPafLH) | [DIAS ANTES DO CAOS](https://open.spotify.com/album/2BFosqa97kxv0HBBeB02d8) | 2:53 |
 | 2 | [After Party](https://open.spotify.com/track/39O5jUbXuRmtSLtW0t46yk) | [Japa](https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [JD On Tha Track](https://open.spotify.com/artist/399fRDjZglRcNLNEDobdt4), [Gabriel Lucchini](https://open.spotify.com/artist/4wm6Of8OD4MeU9AYpQ9Ocs) | [After Party](https://open.spotify.com/album/5OnEFLCrBXHykrmCWgMPTt) | 3:07 |
 | 3 | [Nega Doce](https://open.spotify.com/track/2IFsSIVR7eZlm9lB3tUzCR) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P) | [Nega Doce](https://open.spotify.com/album/0BMzLRaKY8LtPR2wEYuaAZ) | 2:16 |
 | 4 | [Imaginando Coisas](https://open.spotify.com/track/2coYmtA0EDUHS7P24CFzcW) | [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [icedmob](https://open.spotify.com/artist/2c6lGDjkOP3A9RsFP4DVrz), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [Imaginando Coisas](https://open.spotify.com/album/19fl2xItHFfkV3zzZtGYXf) | 3:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [Carta X](https://open.spotify.com/track/7dlHhlM1vLlOuxI3M0NqV5) | [Jackdi](https://open.spotify.com/artist/25pMy28xDC6P7ohFN8cTah), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [Carta X](https://open.spotify.com/album/244fqbsdp1NTS0sF3XPJn9) | 2:32 |
 | 75 | [Pique Faroeste](https://open.spotify.com/track/2PXgo8kyGDrvsrrxTpwWCj) | [Yamashita](https://open.spotify.com/artist/5aJKizHlj2VReayOZHmHFw), [Ventu075](https://open.spotify.com/artist/0CMaseo8fq9V9CKn0h2zqf) | [Pique Faroeste](https://open.spotify.com/album/1ineQBcXlsSHlwlC4jJwZN) | 2:26 |
 
-Snapshot ID: `MCxiYmFhMDgzNzUxZWYyOTM1ZjAwOGYyNGIxMDU4Y2RiODM3NDY4NTJl`
+Snapshot ID: `MCxhYjJiZWQyMDBiNjZkYTBlMzhlMjkzMTZjYzJiZTI4NjBmYWRkNjc1`

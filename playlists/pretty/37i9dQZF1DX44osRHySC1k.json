@@ -1,12 +1,12 @@
 {
   "description": "Sleep is the best Medicine",
-  "num_followers": 52511,
+  "num_followers": 52510,
   "original_name": "Nidra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTIxM2E3ZmYwNjVhNzdlMzU1ZDYwZGZlNjgyMzhkN2M4OTk1Y2Uz",
+  "snapshot_id": "MCxhNGU4ZGJjNWM2NTZiYmEyOWJkZjJiYWQ5MzIxZDQ4MzAwNzhkNmYw",
   "tracks": [
     {
       "added_at": "2021-06-24 10:58:44",
@@ -139,22 +139,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Happy",
-        "url": "https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ"
-      },
-      "artists": [
-        {
-          "name": "Devansh Tushar",
-          "url": "https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL"
-        }
-      ],
-      "duration_ms": 179191,
-      "name": "Dawn Dusk Divinity",
-      "url": "https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Atmospheres",
         "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 354973,
       "name": "Uno",
       "url": "https://open.spotify.com/track/6VoYnLiXIpKLg7j2Tnq95x"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ"
+      },
+      "artists": [
+        {
+          "name": "Devansh Tushar",
+          "url": "https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL"
+        }
+      ],
+      "duration_ms": 179191,
+      "name": "Dawn Dusk Divinity",
+      "url": "https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -267,6 +267,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Koyasan: Reiki Sound Healing",
+        "url": "https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 572853,
+      "name": "Sound of Invisible Waters",
+      "url": "https://open.spotify.com/track/2SIgGbcduNKHTFEFcvmUaS"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Endless Meditation",
         "url": "https://open.spotify.com/album/3Ac4Q4OMQYRrlYKl3j7iuK"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 175318,
       "name": "Sea Of Tranquility",
       "url": "https://open.spotify.com/track/5nzGBQeLesWrD0J8Ctz75z"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Koyasan: Reiki Sound Healing",
-        "url": "https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 572853,
-      "name": "Sound of Invisible Waters",
-      "url": "https://open.spotify.com/track/2SIgGbcduNKHTFEFcvmUaS"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -435,22 +435,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "A Clear Mind",
-        "url": "https://open.spotify.com/album/6HTDJSCj481qL4ruvh68IQ"
-      },
-      "artists": [
-        {
-          "name": "Julius Aston",
-          "url": "https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm"
-        }
-      ],
-      "duration_ms": 173696,
-      "name": "A Clear Mind",
-      "url": "https://open.spotify.com/track/2pypBNUUzViaP7Dswi9zpF"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "This night",
         "url": "https://open.spotify.com/album/4wEvwj51552ftkdHoXQm1G"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 190000,
       "name": "This night",
       "url": "https://open.spotify.com/track/7DtluO7XUoL5wf2imEgkXl"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "A Clear Mind",
+        "url": "https://open.spotify.com/album/6HTDJSCj481qL4ruvh68IQ"
+      },
+      "artists": [
+        {
+          "name": "Julius Aston",
+          "url": "https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm"
+        }
+      ],
+      "duration_ms": 173696,
+      "name": "A Clear Mind",
+      "url": "https://open.spotify.com/track/2pypBNUUzViaP7Dswi9zpF"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -955,22 +955,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Dulces Sue\u00f1os",
-        "url": "https://open.spotify.com/album/1QlQTmNJSAroXlf82gRaAA"
-      },
-      "artists": [
-        {
-          "name": "Josep Alba",
-          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
-        }
-      ],
-      "duration_ms": 245514,
-      "name": "Dulces Sue\u00f1os",
-      "url": "https://open.spotify.com/track/4xYu3ms4RRPwYjoZV7qEPl"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Floating, Always",
         "url": "https://open.spotify.com/album/6JeuzF0f5ALtSsXnXVBckB"
       },
@@ -1035,38 +1019,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "My Sleeping Rose",
-        "url": "https://open.spotify.com/album/7ApqGcvgxT7rQ5ukCqgh6w"
-      },
-      "artists": [
-        {
-          "name": "Havanna Chandri",
-          "url": "https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6"
-        }
-      ],
-      "duration_ms": 127865,
-      "name": "My Sleeping Rose",
-      "url": "https://open.spotify.com/track/7vfYsS34eZojVLXsknEj1J"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Sleep Well",
-        "url": "https://open.spotify.com/album/3dTunlZ8wSkLIT53kwCeAx"
-      },
-      "artists": [
-        {
-          "name": "Josep Alba",
-          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
-        }
-      ],
-      "duration_ms": 146624,
-      "name": "Violin Lullaby",
-      "url": "https://open.spotify.com/track/4j48DHJh8QgMeLJyScpRAd"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "The Ones Left Behind",
         "url": "https://open.spotify.com/album/6j0thUmUXxZmX8XFhFuudh"
       },
@@ -1079,6 +1031,38 @@
       "duration_ms": 148987,
       "name": "The Ones Left Behind",
       "url": "https://open.spotify.com/track/1pfOyfuKafxJXajfsnU731"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Dulces Sue\u00f1os",
+        "url": "https://open.spotify.com/album/1QlQTmNJSAroXlf82gRaAA"
+      },
+      "artists": [
+        {
+          "name": "Josep Alba",
+          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
+        }
+      ],
+      "duration_ms": 245514,
+      "name": "Dulces Sue\u00f1os",
+      "url": "https://open.spotify.com/track/4xYu3ms4RRPwYjoZV7qEPl"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "My Sleeping Rose",
+        "url": "https://open.spotify.com/album/7ApqGcvgxT7rQ5ukCqgh6w"
+      },
+      "artists": [
+        {
+          "name": "Havanna Chandri",
+          "url": "https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6"
+        }
+      ],
+      "duration_ms": 127865,
+      "name": "My Sleeping Rose",
+      "url": "https://open.spotify.com/track/7vfYsS34eZojVLXsknEj1J"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1127,6 +1111,22 @@
       "duration_ms": 224000,
       "name": "Your Peace",
       "url": "https://open.spotify.com/track/65AHFH7pRxxMrFDsFVH5Hv"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Sleep Well",
+        "url": "https://open.spotify.com/album/3dTunlZ8wSkLIT53kwCeAx"
+      },
+      "artists": [
+        {
+          "name": "Josep Alba",
+          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
+        }
+      ],
+      "duration_ms": 146624,
+      "name": "Violin Lullaby",
+      "url": "https://open.spotify.com/track/4j48DHJh8QgMeLJyScpRAd"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Anjali",
+        "url": "https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7"
+      },
+      "artists": [
+        {
+          "name": "Michael Mandrell and Benjy Wertheimer",
+          "url": "https://open.spotify.com/artist/0F6XbRSKV9dbY94XFhaAqD"
+        }
+      ],
+      "duration_ms": 258973,
+      "name": "Priya (Beloved)",
+      "url": "https://open.spotify.com/track/6aAtpmg6C6lriexmsT35R7"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Calm Moments Piano Music",
         "url": "https://open.spotify.com/album/7cLo3vzpHmCHghvtwtZoXn"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 152581,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/1OTHwPZtINBdYK4wAFyF4V"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Anjali",
-        "url": "https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7"
-      },
-      "artists": [
-        {
-          "name": "Michael Mandrell and Benjy Wertheimer",
-          "url": "https://open.spotify.com/artist/0F6XbRSKV9dbY94XFhaAqD"
-        }
-      ],
-      "duration_ms": 258973,
-      "name": "Priya (Beloved)",
-      "url": "https://open.spotify.com/track/6aAtpmg6C6lriexmsT35R7"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "New Romantic Classical Piano and Violin Duets",
+        "url": "https://open.spotify.com/album/7v6s1nucVtGQC0mfjShaax"
+      },
+      "artists": [
+        {
+          "name": "Violin Music",
+          "url": "https://open.spotify.com/artist/4jzPc3lvsP75j3CKWqacTt"
+        }
+      ],
+      "duration_ms": 272730,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/47yf6KungKlUDUJdfvIItH"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Destinazione Pianoforte New Age: Musica Relax Piano Collection, Musica Rilassante per Studio & Concentrazione, Meditazione, Dormire Bene & Yoga",
         "url": "https://open.spotify.com/album/0Fi6h7AcurDKDQaMi5xjA8"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 222916,
       "name": "Lorimar",
       "url": "https://open.spotify.com/track/45Of6RO7cx8xbYWKk2uyI7"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "New Romantic Classical Piano and Violin Duets",
-        "url": "https://open.spotify.com/album/7v6s1nucVtGQC0mfjShaax"
-      },
-      "artists": [
-        {
-          "name": "Violin Music",
-          "url": "https://open.spotify.com/artist/4jzPc3lvsP75j3CKWqacTt"
-        }
-      ],
-      "duration_ms": 272730,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/47yf6KungKlUDUJdfvIItH"
     }
   ],
   "unique_name": "Nidra",

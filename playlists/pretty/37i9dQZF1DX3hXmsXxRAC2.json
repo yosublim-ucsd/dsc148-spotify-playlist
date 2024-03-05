@@ -1,12 +1,12 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 321686,
+  "num_followers": 321744,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzZiYTNlZjkzMGY5OTRjNTI1OGNlMzk5ZjdiMzU0YTNjNWIwMWJl",
+  "snapshot_id": "MCxjODM1YzY0MGQ1ODNjNDVkYWU2NmM4NDZhYTBmMDgzYTljNjg2MmNl",
   "tracks": [
     {
       "added_at": "2023-05-05 18:26:22",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Canta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 201773,
-      "name": "Diferentes",
-      "url": "https://open.spotify.com/track/6tfPmubfNV4jjVwTT9X06A"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "Amanecida Con Todo y Con Todos",
         "url": "https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX"
       },
@@ -175,6 +159,22 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
+        "name": "Canta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 201773,
+      "name": "Diferentes",
+      "url": "https://open.spotify.com/track/6tfPmubfNV4jjVwTT9X06A"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
       },
@@ -187,26 +187,6 @@
       "duration_ms": 222333,
       "name": "Se Me Olvid\u00f3 Otra Vez - Unplugged",
       "url": "https://open.spotify.com/track/6k2AsDKvvip54F59DIn1Mv"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
-        "name": "Los D\u00fao",
-        "url": "https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 295280,
-      "name": "Querida",
-      "url": "https://open.spotify.com/track/7osHjFGYUmIMB6eAiU9HDs"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -239,6 +219,26 @@
       "duration_ms": 274680,
       "name": "Abr\u00e1zame Muy Fuerte",
       "url": "https://open.spotify.com/track/4gTxKZH5RERMhX9H8EnPAX"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "Los D\u00fao",
+        "url": "https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 295280,
+      "name": "Querida",
+      "url": "https://open.spotify.com/track/7osHjFGYUmIMB6eAiU9HDs"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Amor Eterno",
-        "url": "https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 408506,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/3K3wpXrbZYkXMxiA9QJwV1"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
         "url": "https://open.spotify.com/album/6HyjP6pRKQtfkeqHkuZD3T"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 280146,
       "name": "As\u00ed Fue",
       "url": "https://open.spotify.com/track/7xSLmRhD3zySGXlyO90LQn"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "Amor Eterno",
+        "url": "https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 408506,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/3K3wpXrbZYkXMxiA9QJwV1"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Cristian Castro En Primera Fila - D\u00eda 1",
-        "url": "https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 239733,
-      "name": "Ma\u00f1ana, Ma\u00f1ana - Primera Fila - Live Version",
-      "url": "https://open.spotify.com/track/72SShJccmTCXDqPf6J8h38"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "Los D\u00fao 2",
         "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 246520,
       "name": "Yo S\u00e9 Que Est\u00e1 En Tu Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0NaXrQAuxiWXpKDOPb40WM"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "Cristian Castro En Primera Fila - D\u00eda 1",
+        "url": "https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 239733,
+      "name": "Ma\u00f1ana, Ma\u00f1ana - Primera Fila - Live Version",
+      "url": "https://open.spotify.com/track/72SShJccmTCXDqPf6J8h38"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Mis \u00cdntimas Razones",
-        "url": "https://open.spotify.com/album/0NVKTnvoqBpIGJDgT8A7yr"
-      },
-      "artists": [
-        {
-          "name": "Luc\u00eda M\u00e9ndez",
-          "url": "https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN"
-        }
-      ],
-      "duration_ms": 220706,
-      "name": "Un Alma en Pena",
-      "url": "https://open.spotify.com/track/19a0LWL0uI0ggevU7QpzpG"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
         "url": "https://open.spotify.com/album/6HyjP6pRKQtfkeqHkuZD3T"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 284665,
       "name": "Costumbres",
       "url": "https://open.spotify.com/track/4DApBy8qaceW065vWHkh2k"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "Mis \u00cdntimas Razones",
+        "url": "https://open.spotify.com/album/0NVKTnvoqBpIGJDgT8A7yr"
+      },
+      "artists": [
+        {
+          "name": "Luc\u00eda M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN"
+        }
+      ],
+      "duration_ms": 220706,
+      "name": "Un Alma en Pena",
+      "url": "https://open.spotify.com/track/19a0LWL0uI0ggevU7QpzpG"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
+        "name": "Amor Eterno al Divo / Tributo de Rock",
+        "url": "https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z"
+      },
+      "artists": [
+        {
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+        }
+      ],
+      "duration_ms": 254986,
+      "name": "He Venido a Pedirte Perd\u00f3n",
+      "url": "https://open.spotify.com/track/7IjVM9hrpMF7Qrn15ZJYxN"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
         "name": "Interpreta A Juan Gabriel",
         "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
       },
@@ -703,18 +719,18 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Amor Eterno al Divo / Tributo de Rock",
-        "url": "https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z"
+        "name": "Ya No Insistas Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0zB6zjfl9caUE9UIy56I1Y"
       },
       "artists": [
         {
-          "name": "Aterciopelados",
-          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 254986,
-      "name": "He Venido a Pedirte Perd\u00f3n",
-      "url": "https://open.spotify.com/track/7IjVM9hrpMF7Qrn15ZJYxN"
+      "duration_ms": 204056,
+      "name": "Ya No Insistas Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4npHbgLuZu0afOnJj4gz1j"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -747,22 +763,6 @@
       "duration_ms": 180320,
       "name": "Fue un Placer Conocerte",
       "url": "https://open.spotify.com/track/6lDo6f5jT5b4lBRu8HAhQ9"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
-        "name": "Ya No Insistas Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0zB6zjfl9caUE9UIy56I1Y"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 204056,
-      "name": "Ya No Insistas Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4npHbgLuZu0afOnJj4gz1j"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
+        "name": "Las Rancheras De Juan Gabriel",
+        "url": "https://open.spotify.com/album/7D3jvm4H4nCIY9Fq7ERRUU"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 272106,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/6hn29Vpz4kRsVCnwpgmsty"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
         "name": "Homenaje A Las Grandes Canciones, Vol. II",
         "url": "https://open.spotify.com/album/2A03ukPh044CVuW70bSKeW"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 230693,
       "name": "He Venido a Pedirte Perd\u00f3n",
       "url": "https://open.spotify.com/track/7ebni0Sdf9dV2xzsQMSg7I"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
-        "name": "Las Rancheras De Juan Gabriel",
-        "url": "https://open.spotify.com/album/7D3jvm4H4nCIY9Fq7ERRUU"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 272106,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/6hn29Vpz4kRsVCnwpgmsty"
     },
     {
       "added_at": "2023-05-05 18:26:22",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,857 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,898 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Tropa Do Pisa](https://open.spotify.com/track/1mH3uSZus9IiMagMCJa4vB) | [TrapLaudo](https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [Tropa Do Pisa](https://open.spotify.com/album/55rdHEbpvgrl0ghYgRY4ZS) | 2:13 |
 | 50 | [Tá OK](https://open.spotify.com/track/0fABszUFNbNq9IW503Gj8v) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Tá OK](https://open.spotify.com/album/41iAYv4hU3BL86F0sOTvqp) | 1:32 |
 
-Snapshot ID: `NzYyODMwNDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzYyOTE2ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

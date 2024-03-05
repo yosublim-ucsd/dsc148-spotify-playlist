@@ -1,12 +1,12 @@
 {
   "description": "Dope, Asian, and Femme. Cover: REI AMI",
-  "num_followers": 83271,
+  "num_followers": 83485,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTY0N2MxMWIwODA2MTRjOWVhZGRlNDM0M2YzY2QzOTlhMDllOGVi",
+  "snapshot_id": "MCw2ZWVmYjA0YjdiNzllZGQ4MzJhNWM0YWI1OTgzYTc1YmYzNzM2Zjcy",
   "tracks": [
     {
       "added_at": "2024-03-01 05:01:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "good 4 u",
-      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
         "name": "Build a Bitch",
         "url": "https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o"
       },
@@ -335,18 +319,18 @@
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
-        "name": "Eyes Wide Open",
-        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 205493,
-      "name": "I CAN'T STOP ME",
-      "url": "https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn"
+      "duration_ms": 178146,
+      "name": "good 4 u",
+      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
     },
     {
       "added_at": "2024-03-01 05:01:00",
@@ -363,6 +347,22 @@
       "duration_ms": 200689,
       "name": "LALISA",
       "url": "https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 205493,
+      "name": "I CAN'T STOP ME",
+      "url": "https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn"
     },
     {
       "added_at": "2024-03-01 05:01:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
-        "name": "Dolls EP",
-        "url": "https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz"
-      },
-      "artists": [
-        {
-          "name": "Bella Poarch",
-          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
-        }
-      ],
-      "duration_ms": 174002,
-      "name": "Living Hell",
-      "url": "https://open.spotify.com/track/6bTbMMEShyGyrcuIwtBlpA"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
         "name": "Laurel Hell",
         "url": "https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 158617,
       "name": "Working for the Knife",
       "url": "https://open.spotify.com/track/2ORVHijyYA8bAOCVaIbmdS"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "Dolls EP",
+        "url": "https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz"
+      },
+      "artists": [
+        {
+          "name": "Bella Poarch",
+          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
+        }
+      ],
+      "duration_ms": 174002,
+      "name": "Living Hell",
+      "url": "https://open.spotify.com/track/6bTbMMEShyGyrcuIwtBlpA"
     },
     {
       "added_at": "2024-03-01 05:01:00",
@@ -551,26 +551,6 @@
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
-        "name": "Split",
-        "url": "https://open.spotify.com/album/7uAHGGN6s8u1BwkA3uKYiQ"
-      },
-      "artists": [
-        {
-          "name": "88rising",
-          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
-        },
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 207013,
-      "name": "Split",
-      "url": "https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
         "name": "Better Than the Boys",
         "url": "https://open.spotify.com/album/2CQMZOxrA5pmFlbwLtHQEy"
       },
@@ -603,6 +583,26 @@
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
+        "name": "Split",
+        "url": "https://open.spotify.com/album/7uAHGGN6s8u1BwkA3uKYiQ"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 207013,
+      "name": "Split",
+      "url": "https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
         "name": "Last Day On Earth",
         "url": "https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj"
       },
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
+        "name": "i hope u see this",
+        "url": "https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P"
+      },
+      "artists": [
+        {
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "figured u out",
+      "url": "https://open.spotify.com/track/31sZ3f4En15JbGW4uIEH7D"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
         "name": "Irresponsible",
         "url": "https://open.spotify.com/album/59S6Jtnow51dgkKl1pKBKd"
       },
@@ -631,6 +647,22 @@
       "duration_ms": 124751,
       "name": "Irresponsible",
       "url": "https://open.spotify.com/track/60SugyNV4FdewZfktXfXte"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "Querencia",
+        "url": "https://open.spotify.com/album/3ZifpmJjOEkpYCNSIq352p"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "duration_ms": 179156,
+      "name": "Bicycle",
+      "url": "https://open.spotify.com/track/1KcazK9joq1rbdQUlr4NBj"
     },
     {
       "added_at": "2024-03-01 05:01:00",
@@ -667,38 +699,6 @@
       "duration_ms": 311536,
       "name": "Headaches",
       "url": "https://open.spotify.com/track/4MNu1bSmyV3S4Y2MJMGrrP"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
-        "name": "i hope u see this",
-        "url": "https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P"
-      },
-      "artists": [
-        {
-          "name": "thuy",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "figured u out",
-      "url": "https://open.spotify.com/track/31sZ3f4En15JbGW4uIEH7D"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
-        "name": "Querencia",
-        "url": "https://open.spotify.com/album/3ZifpmJjOEkpYCNSIq352p"
-      },
-      "artists": [
-        {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
-        }
-      ],
-      "duration_ms": 179156,
-      "name": "Bicycle",
-      "url": "https://open.spotify.com/track/1KcazK9joq1rbdQUlr4NBj"
     },
     {
       "added_at": "2024-03-01 05:01:00",

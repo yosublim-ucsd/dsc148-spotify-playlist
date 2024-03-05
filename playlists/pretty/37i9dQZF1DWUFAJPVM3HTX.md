@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x?si=5\_F7XBVhSM2kctfMX\-7T7g"> Kali Claire </a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,524 likes - 165 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,593 likes - 165 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 164 | [Temporary Love](https://open.spotify.com/track/5eudX2aAKR0HtvN9I2TJIY) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [LOVE / HATE Pt\. 1](https://open.spotify.com/album/1Fv4ReFcbmh4P1tGe96lvC) | 2:36 |
 | 165 | [Pitaya](https://open.spotify.com/track/0dK7sdfUOkeqHlWOAtjTtf) | [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [Ceeopatra](https://open.spotify.com/artist/02XqprFjC8W9C6ie3v947A) | [Pitaya](https://open.spotify.com/album/2GZbFLOgJWgoUecKVhEIy1) | 2:42 |
 
-Snapshot ID: `MCw2NmZkNjIxYmUwNzA1ZGY5YWNjYmRjZmVlMzE2ZTUwNDUxZTUxYTZh`
+Snapshot ID: `MCxhYWQ1MDRlOTkyMTE0ODg1OGI3N2VlOGMzYmM5MzNjMDE4NjMwN2Q3`

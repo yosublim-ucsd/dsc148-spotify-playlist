@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 52556,
+  "2024-03-05": 52826,
   "date_first_scraped": "2023-04-15",
   "description": "all the stutter, all the feels.",
   "name": "Emotional Dance",
@@ -7855,6 +7855,24 @@
     {
       "album": {
         "name": "Trust Again",
+        "url": "https://open.spotify.com/album/7m8RhieJSh0apbpWfEx0dW"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230655,
+      "name": "Trust Again",
+      "url": "https://open.spotify.com/track/4jWmuRuc4O3I1VL5hjVb8u"
+    },
+    {
+      "album": {
+        "name": "Trust Again",
         "url": "https://open.spotify.com/album/2wLRd0zrL5bjo1gpDQ8VHP"
       },
       "artists": [
@@ -7865,7 +7883,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 230655,
       "name": "Trust Again",
       "url": "https://open.spotify.com/track/6UtNK0tycnvtCAPtCHxZ5b"

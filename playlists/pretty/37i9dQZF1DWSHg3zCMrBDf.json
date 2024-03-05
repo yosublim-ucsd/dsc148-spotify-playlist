@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks in Ghana. Cover: KiDi",
-  "num_followers": 49064,
+  "num_followers": 49093,
   "original_name": "Hot Hits Ghana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkN2E2ZDc2NWZiMjJjMjJkNTczYjI0NTU0N2E4ZjVkMDBlZjQ3Yjc2",
+  "snapshot_id": "MCwxMmY4NDA0YWRmZWQyODc0NzdlZDllOTZlZjkxN2ExNDAwZTczNmFi",
   "tracks": [
     {
       "added_at": "2024-03-01 00:01:00",
@@ -151,22 +151,6 @@
       "duration_ms": 182222,
       "name": "Asylum",
       "url": "https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 200255,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -495,6 +479,26 @@
       "duration_ms": 194040,
       "name": "KANTE (feat. Fave)",
       "url": "https://open.spotify.com/track/7vKXc90NT5WBm3UTT4iTVG"
+    },
+    {
+      "added_at": "2024-03-04 08:41:48",
+      "album": {
+        "name": "Odo Bi Ye Bad",
+        "url": "https://open.spotify.com/album/2thtAFmA3VQWLZfuMi3LbV"
+      },
+      "artists": [
+        {
+          "name": "Rap Fada",
+          "url": "https://open.spotify.com/artist/2B2GXzW2b4x6pohKQ5C40a"
+        },
+        {
+          "name": "King Paluta",
+          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Odo Bi Ye Bad",
+      "url": "https://open.spotify.com/track/0vKCeI0yetwp5BfBNihg3o"
     },
     {
       "added_at": "2024-03-01 00:01:00",

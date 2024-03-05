@@ -1,12 +1,12 @@
 {
   "description": "The sound of Summer 2024! ",
-  "num_followers": 99169,
+  "num_followers": 99175,
   "original_name": "Summer Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTU1YTRkYzI5ODBhYzBiNmIwNmZmOGE5ZjM4M2Y0ZGUwNDg1YmU1",
+  "snapshot_id": "MCwxNWY3OTY3NWEyNGQwYjY4MmYwNzEyYWYxNDAzNjI2MzVmM2I2OGQ4",
   "tracks": [
     {
       "added_at": "2024-01-04 02:49:10",
@@ -247,30 +247,6 @@
     {
       "added_at": "2024-01-04 02:49:10",
       "album": {
-        "name": "Popular (Music from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 215466,
-      "name": "Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)",
-      "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
-    },
-    {
-      "added_at": "2024-01-04 02:49:10",
-      "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
       },
@@ -319,22 +295,6 @@
     {
       "added_at": "2024-01-04 02:49:10",
       "album": {
-        "name": "Dance The Night (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 176579,
-      "name": "Dance The Night - From Barbie The Album",
-      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
-    },
-    {
-      "added_at": "2024-01-04 02:49:10",
-      "album": {
         "name": "THINK LATER",
         "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
       },
@@ -347,6 +307,46 @@
       "duration_ms": 159400,
       "name": "exes",
       "url": "https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8"
+    },
+    {
+      "added_at": "2024-01-04 02:49:10",
+      "album": {
+        "name": "Popular (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 215466,
+      "name": "Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)",
+      "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
+    },
+    {
+      "added_at": "2024-01-04 02:49:10",
+      "album": {
+        "name": "Dance The Night (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 176579,
+      "name": "Dance The Night - From Barbie The Album",
+      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
       "added_at": "2024-01-04 02:49:10",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-01-04 02:49:10",
       "album": {
-        "name": "You're Losing Me (From The Vault)",
-        "url": "https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 277831,
-      "name": "You\u2019re Losing Me (From The Vault)",
-      "url": "https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4"
-    },
-    {
-      "added_at": "2024-01-04 02:49:10",
-      "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 211141,
       "name": "get him back!",
       "url": "https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f"
+    },
+    {
+      "added_at": "2024-01-04 02:49:10",
+      "album": {
+        "name": "You're Losing Me (From The Vault)",
+        "url": "https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 277831,
+      "name": "You\u2019re Losing Me (From The Vault)",
+      "url": "https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4"
     },
     {
       "added_at": "2024-01-04 02:49:10",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-01-04 02:49:10",
       "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 181481,
-      "name": "One Of Your Girls",
-      "url": "https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY"
-    },
-    {
-      "added_at": "2024-01-04 02:49:10",
-      "album": {
         "name": "Me & U",
         "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 195373,
       "name": "Labios Mordidos (with KAROL G)",
       "url": "https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW"
+    },
+    {
+      "added_at": "2024-01-04 02:49:10",
+      "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 181481,
+      "name": "One Of Your Girls",
+      "url": "https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY"
     },
     {
       "added_at": "2024-01-04 02:49:10",
@@ -815,6 +815,22 @@
     {
       "added_at": "2024-01-04 02:49:10",
       "album": {
+        "name": "TRUSTFALL (Tour Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4hgincUyDza4A228fFQRiK"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 212306,
+      "name": "All Out Of Fight",
+      "url": "https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl"
+    },
+    {
+      "added_at": "2024-01-04 02:49:10",
+      "album": {
         "name": "ten",
         "url": "https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 181545,
       "name": "ten",
       "url": "https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB"
-    },
-    {
-      "added_at": "2024-01-04 02:49:10",
-      "album": {
-        "name": "TRUSTFALL (Tour Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4hgincUyDza4A228fFQRiK"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 212306,
-      "name": "All Out Of Fight",
-      "url": "https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl"
     },
     {
       "added_at": "2024-01-04 02:49:10",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-01-04 02:49:10",
       "album": {
-        "name": "THE FIRST TIME",
-        "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 169990,
-      "name": "BLEED",
-      "url": "https://open.spotify.com/track/2m6HgwjakjAXimujX8m4sk"
-    },
-    {
-      "added_at": "2024-01-04 02:49:10",
-      "album": {
         "name": "In The City",
         "url": "https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 188320,
       "name": "Stay High",
       "url": "https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu"
+    },
+    {
+      "added_at": "2024-01-04 02:49:10",
+      "album": {
+        "name": "THE FIRST TIME",
+        "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 169990,
+      "name": "BLEED",
+      "url": "https://open.spotify.com/track/2m6HgwjakjAXimujX8m4sk"
     },
     {
       "added_at": "2024-01-04 02:49:10",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2024-01-04 02:49:10",
       "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/58SF72zVryflAg0WvepRzb"
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/5DFNdBjKvIRlPl0i76yBSC"
       },
       "artists": [
         {
-          "name": "Budjerah",
-          "url": "https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE"
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
         }
       ],
-      "duration_ms": 192103,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1"
+      "duration_ms": 180527,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/3WzmwVmkRDTYroaLg0Klcb"
     }
   ],
   "unique_name": "Summer Hits (3)",

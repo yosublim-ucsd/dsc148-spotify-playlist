@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 22068,
+  "num_followers": 22074,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTE0MTEzNjFmMjU0OGUzZWExYWE1NjY4MzJjOGYzOTI2MDFhOWVm",
+  "snapshot_id": "MCxiY2NlNTMzMDAwOWYyOTFjMjU3NDUxOTkxMTI0OWZkZWZhMWE1YTVh",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -231,18 +231,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Threw Me to the Wolves (Revisited)",
-        "url": "https://open.spotify.com/album/3v4mvvhmpHsIHFARPcYHe6"
+        "name": "Spirit Rising",
+        "url": "https://open.spotify.com/album/3dQKiRCBLOnvRmfcTCJP0H"
       },
       "artists": [
         {
-          "name": "Jared James Nichols",
-          "url": "https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g"
+          "name": "Philip Sayce",
+          "url": "https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h"
         }
       ],
-      "duration_ms": 232088,
-      "name": "Threw Me to the Wolves",
-      "url": "https://open.spotify.com/track/2NyIqmxO95eMwULJLThPPu"
+      "duration_ms": 218088,
+      "name": "Spirit",
+      "url": "https://open.spotify.com/track/0G1p6qY60TM9fT3v9iHRdF"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -279,6 +279,22 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
+        "name": "Threw Me to the Wolves (Revisited)",
+        "url": "https://open.spotify.com/album/3v4mvvhmpHsIHFARPcYHe6"
+      },
+      "artists": [
+        {
+          "name": "Jared James Nichols",
+          "url": "https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g"
+        }
+      ],
+      "duration_ms": 232088,
+      "name": "Threw Me to the Wolves",
+      "url": "https://open.spotify.com/track/2NyIqmxO95eMwULJLThPPu"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
         "name": "Lay It On Down",
         "url": "https://open.spotify.com/album/4D8k0XAtsNjWmRWqjxaYIR"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 293506,
       "name": "Nothing But The Night",
       "url": "https://open.spotify.com/track/2sF93cCZuKgRLfWF6dNtfE"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Spirit Rising",
-        "url": "https://open.spotify.com/album/3dQKiRCBLOnvRmfcTCJP0H"
-      },
-      "artists": [
-        {
-          "name": "Philip Sayce",
-          "url": "https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h"
-        }
-      ],
-      "duration_ms": 218088,
-      "name": "Spirit",
-      "url": "https://open.spotify.com/track/0G1p6qY60TM9fT3v9iHRdF"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -391,6 +391,22 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
+        "name": "The Traveler",
+        "url": "https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "duration_ms": 387706,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/7LcaMnxskCb9tvxggOBR2O"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/0BfGpr0TSmGczrpxupv6yi"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 339000,
       "name": "Corporation",
       "url": "https://open.spotify.com/track/4J5YIM08RZ9SJCcCJeEv9z"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "The Traveler",
-        "url": "https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow"
-      },
-      "artists": [
-        {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        }
-      ],
-      "duration_ms": 387706,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/7LcaMnxskCb9tvxggOBR2O"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -691,18 +691,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Over Your Head",
-        "url": "https://open.spotify.com/album/34kZKs1BDLcPE4SHGKCT4c"
+        "name": "Reckless Heart",
+        "url": "https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG"
       },
       "artists": [
         {
-          "name": "Josh Smith",
-          "url": "https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB"
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
         }
       ],
-      "duration_ms": 388893,
-      "name": "Pusher",
-      "url": "https://open.spotify.com/track/6eN0XgXvdEr27mVjbodO9x"
+      "duration_ms": 221430,
+      "name": "Creepin'",
+      "url": "https://open.spotify.com/track/6Aag6dVH7JZtS8VkvGmofm"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -723,18 +723,34 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Reckless Heart",
-        "url": "https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG"
+        "name": "Over Your Head",
+        "url": "https://open.spotify.com/album/34kZKs1BDLcPE4SHGKCT4c"
       },
       "artists": [
         {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+          "name": "Josh Smith",
+          "url": "https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB"
         }
       ],
-      "duration_ms": 221430,
-      "name": "Creepin'",
-      "url": "https://open.spotify.com/track/6Aag6dVH7JZtS8VkvGmofm"
+      "duration_ms": 388893,
+      "name": "Pusher",
+      "url": "https://open.spotify.com/track/6eN0XgXvdEr27mVjbodO9x"
+    },
+    {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 63720,
+      "name": "Rattlin' Change",
+      "url": "https://open.spotify.com/track/7HAhsCREaTXjiQMxpNtXb1"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -753,20 +769,20 @@
       "url": "https://open.spotify.com/track/706ZgJOItrsyuJFLvh2JKl"
     },
     {
-      "added_at": "2022-01-28 05:00:00",
+      "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+        "name": "Unrepentant",
+        "url": "https://open.spotify.com/album/2rkB2Xplv6eQeEI2MhQVC1"
       },
       "artists": [
         {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+          "name": "Greg Koch",
+          "url": "https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC"
         }
       ],
-      "duration_ms": 63720,
-      "name": "Rattlin' Change",
-      "url": "https://open.spotify.com/track/7HAhsCREaTXjiQMxpNtXb1"
+      "duration_ms": 599678,
+      "name": "Sweet Tea",
+      "url": "https://open.spotify.com/track/6JojEmIb1NMNEGpAlDDKhj"
     },
     {
       "added_at": "2021-06-04 04:01:00",
@@ -815,22 +831,6 @@
       "duration_ms": 262536,
       "name": "Shufflin' West Coast",
       "url": "https://open.spotify.com/track/35znJMAm3GhjLwY9o3KiSG"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Unrepentant",
-        "url": "https://open.spotify.com/album/2rkB2Xplv6eQeEI2MhQVC1"
-      },
-      "artists": [
-        {
-          "name": "Greg Koch",
-          "url": "https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC"
-        }
-      ],
-      "duration_ms": 599678,
-      "name": "Sweet Tea",
-      "url": "https://open.spotify.com/track/6JojEmIb1NMNEGpAlDDKhj"
     },
     {
       "added_at": "2020-10-21 17:37:12",

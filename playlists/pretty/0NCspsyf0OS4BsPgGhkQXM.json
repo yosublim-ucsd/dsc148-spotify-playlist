@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2032968,
+  "num_followers": 2033062,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTQ1MjgsYjI3N2U4MmU0YzdlMWVlMWJkMDljNWRkZGQyMWVkZGRjZTU0YzUyZg==",
+  "snapshot_id": "MTQ1MzIsNTU0NDA1MWFkN2FjOGVmNmE2NWQ5MDViODQzNWM3Yzk0OTkwYjIzYw==",
   "tracks": [
     {
       "added_at": "2024-01-29 22:53:51",
@@ -679,6 +679,30 @@
       "duration_ms": 160235,
       "name": "LX-777 (Lunar Data)",
       "url": "https://open.spotify.com/track/2HYsPCvdZwBPT1FV7c8JGN"
+    },
+    {
+      "added_at": "2024-03-04 18:49:43",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/06lxDpivRf6gtBBFLTlAUp"
+      },
+      "artists": [
+        {
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        },
+        {
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+        },
+        {
+          "name": "Trella",
+          "url": "https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Stay - Afinity Remix",
+      "url": "https://open.spotify.com/track/4ua1RUmrzlORhk0TDfrTK6"
     },
     {
       "added_at": "2024-01-29 22:53:51",
@@ -1607,6 +1631,22 @@
       "duration_ms": 315483,
       "name": "The Gallows",
       "url": "https://open.spotify.com/track/5bMy00AZuGFqiWqps87HWB"
+    },
+    {
+      "added_at": "2024-03-04 23:30:44",
+      "album": {
+        "name": "Rockabye",
+        "url": "https://open.spotify.com/album/1YpW3FMGqQjZy5yXHZnbZ0"
+      },
+      "artists": [
+        {
+          "name": "jimmi paige",
+          "url": "https://open.spotify.com/artist/12N0LY0PTQdqISIXJFKok2"
+        }
+      ],
+      "duration_ms": 161714,
+      "name": "Rockabye",
+      "url": "https://open.spotify.com/track/1BhqZEEFaf4b2OcG5pgenG"
     },
     {
       "added_at": "2024-02-07 17:37:59",

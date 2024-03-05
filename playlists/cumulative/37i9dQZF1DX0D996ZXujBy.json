@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-06-15",
-  "description": "Listen to the surprise songs from each night of Taylor Swift | The Eras tour",
+  "description": "Listen to the surprise songs from each night of Taylor Swift | The Eras Tour - international edition",
   "name": "Surprise Song Era",
   "tracks": [
+    {
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180381,
+      "name": "\"Slut!\" (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq"
+    },
     {
       "album": {
         "name": "Taylor Swift",
@@ -16,10 +34,28 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 199200,
       "name": "A Place in this World",
       "url": "https://open.spotify.com/track/73OX8GdpOeGzKC6OvGSbsv"
+    },
+    {
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223293,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/1SymEzIT3H8UZfibCs3TYi"
     },
     {
       "album": {
@@ -34,7 +70,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 221407,
       "name": "All Of The Girls You Loved Before",
       "url": "https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy"
@@ -70,10 +106,28 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 193289,
       "name": "All You Had To Do Was Stay (Taylor's Version)",
       "url": "https://open.spotify.com/track/6GXgd1BPD9bUpqw5AntGV5"
+    },
+    {
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261922,
+      "name": "august",
+      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
     },
     {
       "album": {
@@ -88,7 +142,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 294189,
       "name": "Back To December (Taylor's Version)",
       "url": "https://open.spotify.com/track/79uDOz0zuuWS7HWxzMmTa2"
@@ -106,7 +160,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 238866,
       "name": "Begin Again (Taylor's Version)",
       "url": "https://open.spotify.com/track/38TSM6TDx1fzs7JnioMQXe"
@@ -124,10 +178,46 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 297013,
       "name": "Better Man (Taylor's Version) (From The Vault)",
       "url": "https://open.spotify.com/track/4OmFmE0fzcMG6g0Y8p4eSD"
+    },
+    {
+      "album": {
+        "name": "Speak Now (Taylor's Version)",
+        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220306,
+      "name": "Better Than Revenge (Taylor's Version)",
+      "url": "https://open.spotify.com/track/0NwGC0v03ysCYINtg6ns58"
+    },
+    {
+      "album": {
+        "name": "Midnights (3am Edition)",
+        "url": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218502,
+      "name": "Bigger Than The Whole Sky",
+      "url": "https://open.spotify.com/track/0BiqmkasE5FdrChwKfVp8X"
     },
     {
       "album": {
@@ -146,7 +236,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 263377,
       "name": "Breathe (feat. Colbie Caillat) (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/7HC7R2D8WjXVcUHJyEGjRs"
@@ -186,7 +276,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 306062,
       "name": "Castles Crumbling (feat. Hayley Williams) (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/4ABYxlb92WBIjHu7TIKmml"
@@ -240,10 +330,28 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 239013,
       "name": "Cold As You",
       "url": "https://open.spotify.com/track/7an1exwMnfYRcdVQm0yDev"
+    },
+    {
+      "album": {
+        "name": "Red (Taylor's Version)",
+        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223333,
+      "name": "Come Back...Be Here (Taylor's Version)",
+      "url": "https://open.spotify.com/track/4pNApnaUWAL2J4KO2eqokq"
     },
     {
       "album": {
@@ -258,10 +366,28 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 223333,
       "name": "Come Back...Be Here (Taylor's Version)",
       "url": "https://open.spotify.com/track/5XaLWURooWKZiraOWSTWjm"
+    },
+    {
+      "album": {
+        "name": "Fearless (Taylor's Version)",
+        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237338,
+      "name": "Come In With The Rain (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/1n2wszmJyVkw6FHqyLnQsY"
     },
     {
       "album": {
@@ -280,10 +406,50 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 275320,
       "name": "coney island (feat. The National)",
       "url": "https://open.spotify.com/track/2awNGIJHodfLZSClB3PYhz"
+    },
+    {
+      "album": {
+        "name": "evermore",
+        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275320,
+      "name": "coney island (feat. The National)",
+      "url": "https://open.spotify.com/track/3k7ne7VmH43ZPWxPdvPUgR"
+    },
+    {
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287266,
+      "name": "Cornelia Street",
+      "url": "https://open.spotify.com/track/12M5uqx0ZuwkpLp5rJim1a"
     },
     {
       "album": {
@@ -298,10 +464,28 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 275040,
       "name": "cowboy like me",
       "url": "https://open.spotify.com/track/1XjHRolIXL2M1EEOUsGGR4"
+    },
+    {
+      "album": {
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211506,
+      "name": "Dancing With Our Hands Tied",
+      "url": "https://open.spotify.com/track/7I7JbDv63ZJJsSi24DyJrz"
     },
     {
       "album": {
@@ -352,10 +536,28 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 405906,
       "name": "Dear John (Taylor's Version)",
       "url": "https://open.spotify.com/track/1zU8j1x3yi9xalMF96pzKp"
+    },
+    {
+      "album": {
+        "name": "Midnights (3am Edition)",
+        "url": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225194,
+      "name": "Dear Reader",
+      "url": "https://open.spotify.com/track/3QF5RsWzK1lCvf2o2cY65P"
     },
     {
       "album": {
@@ -370,7 +572,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 198533,
       "name": "Death By A Thousand Cuts",
       "url": "https://open.spotify.com/track/2dgFqt3w9xIQRjhPtwNk3D"
@@ -388,7 +590,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 225880,
       "name": "dorothea",
       "url": "https://open.spotify.com/track/670fUmXf4KQekzbEgaXyPA"
@@ -413,6 +615,54 @@
     },
     {
       "album": {
+        "name": "Speak Now (Taylor's Version)",
+        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266466,
+      "name": "Electric Touch (feat. Fall Out Boy) (Taylor\u2019s Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/4e3ZNTAV6PCrdYMUrUlMpQ"
+    },
+    {
+      "album": {
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244826,
+      "name": "End Game",
+      "url": "https://open.spotify.com/track/2x0WlnmfG39ZuDmstl9xfX"
+    },
+    {
+      "album": {
         "name": "evermore",
         "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
       },
@@ -428,10 +678,32 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 304106,
       "name": "evermore (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/3O5osWf1rSoKMwe6E9ZaXP"
+    },
+    {
+      "album": {
+        "name": "evermore (deluxe version)",
+        "url": "https://open.spotify.com/album/6AORtDjduMM3bupSWzbTSG"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304106,
+      "name": "evermore (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/6Wlq9rqkxrqj5Kls4Kw14H"
     },
     {
       "album": {
@@ -450,7 +722,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 245426,
       "name": "Everything Has Changed (feat. Ed Sheeran) (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/7qEUFOVcxRI19tbT68JcYK"
@@ -479,6 +751,24 @@
     },
     {
       "album": {
+        "name": "Eyes Open (Taylor's Version)",
+        "url": "https://open.spotify.com/album/6AeF9IkXFpHz5H3wUNX3L3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243264,
+      "name": "Eyes Open (Taylor's Version)",
+      "url": "https://open.spotify.com/track/2NIBaWXdjaTDmytjjwbEfP"
+    },
+    {
+      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
@@ -490,7 +780,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 200306,
       "name": "False God",
       "url": "https://open.spotify.com/track/5hQSXkFgbxjZo9uCwd11so"
@@ -508,10 +798,46 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 294419,
       "name": "Fifteen (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/2nqio0SfWg6gh2eCtfuMa5"
+    },
+    {
+      "album": {
+        "name": "Speak Now (Taylor's Version)",
+        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311765,
+      "name": "Foolish One (Taylor\u2019s Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/4s8BIKx4Zh6ryAEz8RTlaU"
+    },
+    {
+      "album": {
+        "name": "Fearless (Taylor's Version)",
+        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267833,
+      "name": "Forever & Always (Piano Version) (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/01QdEx6kFr78ZejhQtWR5m"
     },
     {
       "album": {
@@ -526,7 +852,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 225328,
       "name": "Forever & Always (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/1msEuwSBneBKpVCZQcFTsU"
@@ -562,7 +888,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 185320,
       "name": "gold rush",
       "url": "https://open.spotify.com/track/2ZTKWFG6OtHI3ewy9OGNOY"
@@ -580,7 +906,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 209680,
       "name": "Gorgeous",
       "url": "https://open.spotify.com/track/1ZY1PqizIl78geGM4xWlEA"
@@ -634,7 +960,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 254254,
       "name": "Hey Stephen (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/550erGcdD9n6PnwxrvYqZT"
@@ -652,7 +978,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 231475,
       "name": "High Infidelity",
       "url": "https://open.spotify.com/track/5kiZGSxgqPdv6rbqL9THdd"
@@ -670,10 +996,28 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 234466,
       "name": "Hits Different",
       "url": "https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby"
+    },
+    {
+      "album": {
+        "name": "Red (Taylor's Version)",
+        "url": "https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202960,
+      "name": "Holy Ground (Taylor's Version)",
+      "url": "https://open.spotify.com/track/661CJWXysgwKXI1dreYNBU"
     },
     {
       "album": {
@@ -688,7 +1032,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 202960,
       "name": "Holy Ground (Taylor's Version)",
       "url": "https://open.spotify.com/track/7J4b3LVCIGO4CMBDFLPoP6"
@@ -742,7 +1086,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 244586,
       "name": "I Almost Do (Taylor's Version)",
       "url": "https://open.spotify.com/track/2r9CbjYgFhtAmcFv1cSquB"
@@ -764,7 +1108,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 285106,
       "name": "I Bet You Think About Me (feat. Chris Stapleton) (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/4CkgMiMqZ5JzW9iYXSTMTL"
@@ -782,7 +1126,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 273186,
       "name": "I Can See You (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/5kHMfzgLZP95O9NBy0ku4v"
@@ -804,10 +1148,50 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 245653,
       "name": "I Don\u2019t Wanna Live Forever (Fifty Shades Darker)",
       "url": "https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe"
+    },
+    {
+      "album": {
+        "name": "reputation Stadium Tour Surprise Song Playlist",
+        "url": "https://open.spotify.com/album/1MPAXuTVL2Ej5x0JHiSPq8"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247160,
+      "name": "I Don\u2019t Wanna Live Forever (Fifty Shades Darker)",
+      "url": "https://open.spotify.com/track/55n9yjI6qqXh5F2mYvUc2y"
+    },
+    {
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170640,
+      "name": "I Forgot That You Existed",
+      "url": "https://open.spotify.com/track/43rA71bccXFGD4C8GOpIlN"
     },
     {
       "album": {
@@ -840,7 +1224,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 195700,
       "name": "I Know Places (Taylor's Version)",
       "url": "https://open.spotify.com/track/2f0GI2ZLUtbGqFx8t2Gk6A"
@@ -858,7 +1242,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 173386,
       "name": "I Think He Knows",
       "url": "https://open.spotify.com/track/2YWtcWi3a83pdEg3Gif4Pd"
@@ -912,7 +1296,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 213053,
       "name": "I'm Only Me When I'm With You",
       "url": "https://open.spotify.com/track/0JIdBrXGSJXS72zjF9ss9u"
@@ -930,10 +1314,28 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 237022,
       "name": "If This Was A Movie (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/0kAZ3H6G9Zac4PMpmobMkj"
+    },
+    {
+      "album": {
+        "name": "Speak Now (Taylor's Version)",
+        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301221,
+      "name": "Innocent (Taylor's Version)",
+      "url": "https://open.spotify.com/track/12nBPF4Rh4XLFJV0YLN7uj"
     },
     {
       "album": {
@@ -948,10 +1350,46 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 203226,
       "name": "Invisible",
       "url": "https://open.spotify.com/track/5OOd01o2YS1QFwdpVLds3r"
+    },
+    {
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229477,
+      "name": "Is It Over Now? (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz"
+    },
+    {
+      "album": {
+        "name": "evermore (deluxe version)",
+        "url": "https://open.spotify.com/album/6AORtDjduMM3bupSWzbTSG"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254640,
+      "name": "it\u2019s time to go - bonus track",
+      "url": "https://open.spotify.com/track/1kdWw77ZpYOkhxeuhzU1j6"
     },
     {
       "album": {
@@ -984,7 +1422,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 237580,
       "name": "Jump Then Fall (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/2m3ObD945KvpE5y9A1eUWm"
@@ -1002,10 +1440,28 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 214320,
       "name": "King Of My Heart",
       "url": "https://open.spotify.com/track/7HuBDWi18s4aJM8UFnNheH"
+    },
+    {
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247962,
+      "name": "Labyrinth",
+      "url": "https://open.spotify.com/track/0A1JLUlkZkp2EFrosoNQi0"
     },
     {
       "album": {
@@ -1020,10 +1476,28 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 369120,
       "name": "Last Kiss (Taylor's Version)",
       "url": "https://open.spotify.com/track/59KOoHFcw5XfICnO57holu"
+    },
+    {
+      "album": {
+        "name": "evermore",
+        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215920,
+      "name": "long story short",
+      "url": "https://open.spotify.com/track/2o2sgVJIgFXk8GQjWTgI6U"
     },
     {
       "album": {
@@ -1038,7 +1512,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 237258,
       "name": "mad woman",
       "url": "https://open.spotify.com/track/2QDyYdZyhlP2fp79KZX8Bi"
@@ -1060,6 +1534,32 @@
       "duration_ms": 218270,
       "name": "Maroon",
       "url": "https://open.spotify.com/track/3eX0NZfLtGzoLUxPNvRfqm"
+    },
+    {
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Brendon Urie",
+          "url": "https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ"
+        },
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "ME! (feat. Brendon Urie of Panic! At The Disco)",
+      "url": "https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45"
     },
     {
       "album": {
@@ -1092,7 +1592,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 238693,
       "name": "Mean (Taylor's Version)",
       "url": "https://open.spotify.com/track/30Y4CV7A6YqtQtTTo7Ue4j"
@@ -1110,7 +1610,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 225960,
       "name": "Message In A Bottle (Taylor's Version) (From The Vault)",
       "url": "https://open.spotify.com/track/3z6XUommYDWPHeFhmhhT6j"
@@ -1164,7 +1664,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 208977,
       "name": "mirrorball",
       "url": "https://open.spotify.com/track/0ZNU020wNYvgW84iljPkPP"
@@ -1182,7 +1682,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 277591,
       "name": "Mr. Perfectly Fine (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/7l2tmgUhV7Y2aJHjiszifg"
@@ -1200,7 +1700,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 292920,
       "name": "Never Grow Up (Taylor's Version)",
       "url": "https://open.spotify.com/track/2EFZ9emtKWEglWUQGEQ3P9"
@@ -1236,7 +1736,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 230177,
       "name": "New Romantics (Taylor's Version)",
       "url": "https://open.spotify.com/track/2vPMoMDXxu9uX1igWZmXSG"
@@ -1261,6 +1761,24 @@
     },
     {
       "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146436,
+      "name": "Now That We Don't Talk (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl"
+    },
+    {
+      "album": {
         "name": "Taylor Swift",
         "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
       },
@@ -1272,7 +1790,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 201106,
       "name": "Our Song",
       "url": "https://open.spotify.com/track/15DeqWWQB4dcEWzJg15VrN"
@@ -1308,7 +1826,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 235803,
       "name": "Ours (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/3yNJkriPzWjkkDAWHIAVUq"
@@ -1362,10 +1880,28 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 222400,
       "name": "Paper Rings",
       "url": "https://open.spotify.com/track/4y5bvROuBDPr5fuwXbIBZR"
+    },
+    {
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "peace",
+      "url": "https://open.spotify.com/track/7MbT4I8qGntX4fMdqMQgke"
     },
     {
       "album": {
@@ -1380,7 +1916,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 173066,
       "name": "Picture To Burn",
       "url": "https://open.spotify.com/track/32mVHdy0bi1XKgr0ajsBlG"
@@ -1398,7 +1934,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 210556,
       "name": "Question...?",
       "url": "https://open.spotify.com/track/4sC589n5FFW9jHOSUxnkd6"
@@ -1434,7 +1970,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 245026,
       "name": "right where you left me - bonus track",
       "url": "https://open.spotify.com/track/3zwMVvkBe2qIKDObWgXw4N"
@@ -1452,10 +1988,54 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 284773,
       "name": "Sad Beautiful Tragic (Taylor's Version)",
       "url": "https://open.spotify.com/track/73qMN9bXy7MSPwwGfH3wQr"
+    },
+    {
+      "album": {
+        "name": "Safe & Sound (Taylor's Version)",
+        "url": "https://open.spotify.com/album/4eZKjfeKPSwd6NYsmlKjuR"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        },
+        {
+          "name": "John Paul White",
+          "url": "https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239668,
+      "name": "Safe & Sound (feat. Joy Williams and John Paul White) (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/2RJnNdu4pb3MypbBroHU0T"
+    },
+    {
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279833,
+      "name": "Say Don't Go (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/4NioO5R9sHEZh4cGzMHyNt"
     },
     {
       "album": {
@@ -1470,7 +2050,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 208906,
       "name": "seven",
       "url": "https://open.spotify.com/track/6KJqZcs9XDgVck7Lg9QOTC"
@@ -1517,6 +2097,24 @@
     },
     {
       "album": {
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227906,
+      "name": "So It Goes...",
+      "url": "https://open.spotify.com/track/5PxFv9yJEg9dxvbZggykro"
+    },
+    {
+      "album": {
         "name": "Speak Now",
         "url": "https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy"
       },
@@ -1546,7 +2144,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 261230,
       "name": "Sparks Fly (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/3MytWN8L7shNYzGl4tAKRp"
@@ -1582,7 +2180,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 242473,
       "name": "Speak Now (Taylor's Version)",
       "url": "https://open.spotify.com/track/5xXqyjLicvEpch72qEryFT"
@@ -1618,10 +2216,28 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 295413,
       "name": "State Of Grace (Taylor's Version)",
       "url": "https://open.spotify.com/track/5lFDIbYMcFHPPgzMcnPqSz"
+    },
+    {
+      "album": {
+        "name": "Taylor Swift",
+        "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236053,
+      "name": "Stay Beautiful",
+      "url": "https://open.spotify.com/track/2ZoOmCSgj0ypVAmGd1ve4y"
     },
     {
       "album": {
@@ -1636,10 +2252,64 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 205786,
       "name": "Stay Stay Stay (Taylor's Version)",
       "url": "https://open.spotify.com/track/7eQj6r5PIdYKEIZjucBMcq"
+    },
+    {
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171818,
+      "name": "Suburban Legends (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/6T0sEnqjmHISIKwFETeeiP"
+    },
+    {
+      "album": {
+        "name": "Speak Now (Taylor's Version)",
+        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274945,
+      "name": "Superman (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/4evLyY5Ue1Wesc61t2KXAU"
+    },
+    {
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188496,
+      "name": "Sweet Nothing",
+      "url": "https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb"
     },
     {
       "album": {
@@ -1670,9 +2340,27 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "date_added": "2023-06-13",
+      "date_added": "2024-03-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 200575,
+      "name": "Tell Me Why (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/0k0vFacOHNuArLWMiH60p7"
+    },
+    {
+      "album": {
+        "name": "Fearless (Taylor's Version)",
+        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-05",
       "duration_ms": 245290,
       "name": "The Best Day (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/6ON9UuIq49xXY9GPmHIYRp"
@@ -1690,7 +2378,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 240355,
       "name": "The Great War",
       "url": "https://open.spotify.com/track/3UMrglJeju5yWyYIW6o99b"
@@ -1708,7 +2396,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 211813,
       "name": "the lakes - bonus track",
       "url": "https://open.spotify.com/track/0eFQWVz0qIxDOvhLpZ40P7"
@@ -1730,7 +2418,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 299080,
       "name": "The Last Time (feat. Gary Lightbody of Snow Patrol) (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/0y6kdSRCVQhSsHSpWvTUm7"
@@ -1748,7 +2436,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 240466,
       "name": "The Lucky One (Taylor's Version)",
       "url": "https://open.spotify.com/track/6Gr4KvawYKiZBHQWub9n7o"
@@ -1766,7 +2454,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 285280,
       "name": "The Moment I Knew (Taylor's Version)",
       "url": "https://open.spotify.com/track/19JrUNf5amGgM9Ui9kdkss"
@@ -1788,6 +2476,24 @@
       "duration_ms": 238443,
       "name": "The Other Side Of The Door (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/1cSFlSBdpT4F5vb1frQ231"
+    },
+    {
+      "album": {
+        "name": "Taylor Swift",
+        "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207106,
+      "name": "The Outside",
+      "url": "https://open.spotify.com/track/2QA3IixpRcKyOdG7XDzRgv"
     },
     {
       "album": {
@@ -1827,6 +2533,24 @@
     },
     {
       "album": {
+        "name": "Red (Taylor's Version)",
+        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200280,
+      "name": "The Very First Night (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/6pYNq0ZwpPVazKzsqpf0G8"
+    },
+    {
+      "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
@@ -1856,7 +2580,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 207133,
       "name": "This Is Why We Can't Have Nice Things",
       "url": "https://open.spotify.com/track/07NxDD1iKCHbAldceD7QLP"
@@ -1874,10 +2598,28 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 250100,
       "name": "This Love (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/4d1CG5ei1E2vGbvmgf5KKv"
+    },
+    {
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250100,
+      "name": "This Love (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/5QVVjX0ZItqlVpEuVCM9Yg"
     },
     {
       "album": {
@@ -1892,7 +2634,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 248106,
       "name": "Tied Together with a Smile",
       "url": "https://open.spotify.com/track/6K0CJLVXqbGMeJSmJ4ENKK"
@@ -1910,7 +2652,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 232106,
       "name": "Tim McGraw",
       "url": "https://open.spotify.com/track/0Om9WAB5RS09L80DyOfTNa"
@@ -1928,7 +2670,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 321396,
       "name": "Timeless (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/1HCdems7PQZRj42QDWLA0A"
@@ -1946,7 +2688,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 241822,
       "name": "Today Was A Fairytale (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/2JoJrsEV15OzbijS47lids"
@@ -1964,10 +2706,28 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 242720,
       "name": "Treacherous (Taylor's Version)",
       "url": "https://open.spotify.com/track/0YrMTMLpLq1UIkWgghNM6c"
+    },
+    {
+      "album": {
+        "name": "Fearless (Taylor's Version)",
+        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312107,
+      "name": "Untouchable (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/0tQ9vBYpldCuikPsbgOVKA"
     },
     {
       "album": {
@@ -2000,7 +2760,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 212600,
       "name": "Welcome To New York (Taylor's Version)",
       "url": "https://open.spotify.com/track/1hR8BSuEqPCCZfv93zzzz9"
@@ -2018,7 +2778,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 252385,
       "name": "When Emma Falls in Love (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/0zo975x58DlXbZllWvfYhg"
@@ -2072,7 +2832,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 245566,
       "name": "Wonderland (Taylor's Version)",
       "url": "https://open.spotify.com/track/2ve0kuaWUCt4Zx8x4bf1MR"
@@ -2112,7 +2872,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 220839,
       "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/5pcjystBtalYeqaiXCcgEY"
@@ -2148,7 +2908,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 267389,
       "name": "You Are In Love (Taylor's Version)",
       "url": "https://open.spotify.com/track/4UwqOWDpdeIDVQDuKT6iza"
@@ -2184,10 +2944,28 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 194206,
       "name": "You're On Your Own, Kid",
       "url": "https://open.spotify.com/track/6PQOU00xWNrGwCZzboriXy"
+    },
+    {
+      "album": {
+        "name": "You're Losing Me (From The Vault)",
+        "url": "https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277831,
+      "name": "You\u2019re Losing Me (From The Vault)",
+      "url": "https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4"
     },
     {
       "album": {

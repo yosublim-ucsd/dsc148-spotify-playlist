@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 
 > let the dj set u free
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,748 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,841 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 36 | [Never](https://open.spotify.com/track/2ToCF3zoUJoiOSVq7Mtaci) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [Never](https://open.spotify.com/album/1O9rQTdcptzUsQ40xO7C9b) | 3:29 |
 | 37 | [The Way It Goes](https://open.spotify.com/track/5aSo90L5qKIwdTDBO1YWJ2) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [The Way It Goes](https://open.spotify.com/album/1kQlSA0X2r5RRa4WPTGjdw) | 3:04 |
 | 38 | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx) | 3:06 |
-| 39 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 |
+| 39 | [Because You Move Me](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI) | 3:16 |
 | 40 | [High Tides](https://open.spotify.com/track/0cmcjHX4zHaqDE06f8JQ5R) | [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij), [James French](https://open.spotify.com/artist/1cyoaS6fUKVqileyv1iues) | [High Tides](https://open.spotify.com/album/6WB9aAmFJuG3AazXf7okw8) | 4:01 |
-| 41 | [Because You Move Me](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI) | 3:16 |
+| 41 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 |
 | 42 | [Hold Me](https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Hold Me](https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W) | 2:20 |
 | 43 | [Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 4:29 |
 | 44 | [Ocean Drive](https://open.spotify.com/track/4b93D55xv3YCH5mT4p6HPn) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [Duality](https://open.spotify.com/album/6AlOjPdNpM41lMVSjjsrUM) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 99 | [Hopeful](https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Hopeful](https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT) | 4:08 |
 | 100 | [Fading](https://open.spotify.com/track/7dGWQLlYtJszgqdSjxRgpL) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Fading](https://open.spotify.com/album/04HcvlMjZ3dGBkjvVrbSwf) | 4:27 |
 
-Snapshot ID: `MCxhZDYwMDM5M2Q0NjZlNzczNDYxNzFjMjc3NWJjYzk3ZDk2MDU3NjNk`
+Snapshot ID: `MCxlOGQzOTMwMjA3YTA4OWVkZGY2YTNiNTcwYmQ3NDg5M2Q3MmYzMmE4`

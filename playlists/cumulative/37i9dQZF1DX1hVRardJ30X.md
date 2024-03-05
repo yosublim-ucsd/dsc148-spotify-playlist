@@ -4,7 +4,7 @@
 
 > All\-new releases by Latin artists! Cover: Carin Leon & Kane Brown
 
-6,353 songs - 13 day 21 hr 48 min
+6,355 songs - 13 day 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1836,6 +1836,7 @@
 | [El Que Come Callao \- Remix](https://open.spotify.com/track/2IruSYx1j9Rksd7TBhwSFA) | [Snova](https://open.spotify.com/artist/5oOyEfGd8NxAKA41zGQhoj), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [Josh Milli](https://open.spotify.com/artist/3fndEtcwxV80TlJ82LXuGM), [Milo K](https://open.spotify.com/artist/4Ay2R2S9e7fW4QzLyBzkWi), [Luigui Bleand](https://open.spotify.com/artist/3s4iTKRp9wGJFYyn5Bo8Pq), [Yuno Music](https://open.spotify.com/artist/1Tdw8QBDJmltfrsUpxAE63) | [El Que Come Callao \(Remix\)](https://open.spotify.com/album/3l2FQXAG9cXXaDvE9uWKQd) | 5:04 | 2022-06-17 | 2022-06-25 |
 | [El Que Espera](https://open.spotify.com/track/2oNSHvGBGZIrZouRAA1eaX) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [El Que Espera](https://open.spotify.com/album/1iouSXg5RihFIXRvZFJyTa) | 2:50 | 2022-08-12 | 2022-08-20 |
 | [El Ramo](https://open.spotify.com/track/7oGCFNIUyiFp6P9CuNibvP) | [Mafi Rome](https://open.spotify.com/artist/3xdZdAqBd32KB8kD22g4PS) | [El Ramo](https://open.spotify.com/album/2Oa45iNE6zHfXO3Qbr1lfd) | 2:33 | 2022-08-19 | 2022-08-27 |
+| [El Ranchero](https://open.spotify.com/track/2LMF4sDKysFt18OJcJc6Sz) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [El Ranchero](https://open.spotify.com/album/1gMHDCpvHESeXVamqZyaEn) | 3:55 | 2024-03-04 |  |
 | [El Rayo Vallecano](https://open.spotify.com/track/5vfZy8DtOxmwsozEwmbAcd) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [El Rayo Vallecano](https://open.spotify.com/album/2cwftCb3SwCpNu1WILU6r5) | 2:50 | 2023-05-26 | 2023-06-03 |
 | [El Rebuleo](https://open.spotify.com/track/3YpzWAHRlZcjqObpzmLlQF) | [BM Legacy](https://open.spotify.com/artist/1ux3jQBNhz3EQwG8qgbb1q), [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP), [Ale Mix](https://open.spotify.com/artist/2uxoElzOZDIX9L5Dc7Oa2F) | [El Rebuleo](https://open.spotify.com/album/4oAMEhmKSRc8wD1GbXrjBx) | 2:48 | 2022-04-15 | 2022-04-23 |
 | [El Reemplazo](https://open.spotify.com/track/6mVWXZDsMguKrTHfiCyIVu) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [El Reemplazo](https://open.spotify.com/album/0QaYqMY1nTvvKzUOf4F0tu) | 3:55 | 2022-06-03 | 2022-06-11 |
@@ -2232,6 +2233,7 @@
 | [Frenchie](https://open.spotify.com/track/2soXGf9uZdIfDbI4so9m31) | [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3), [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F) | [Frenchie](https://open.spotify.com/album/27S9YVIO5sVs5RsxnWbb0w) | 2:54 | 2023-05-05 | 2023-05-13 |
 | [Freno](https://open.spotify.com/track/1Rl7Xag6yJM2SpLzeobBgb) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [Freno](https://open.spotify.com/album/6MVpiSxzyVjFd0IQLf7kMd) | 3:34 | 2022-09-30 | 2022-10-08 |
 | [Frente a una Copa de Vino](https://open.spotify.com/track/0Y9jbCa2gLEcQXGHZJM754) | [Andrw John](https://open.spotify.com/artist/2F1UtPwrswl2pB8crCifIm), [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Frente a una Copa de Vino](https://open.spotify.com/album/1OoYxpGU4rZBKWegsdz5gO) | 3:44 | 2022-08-05 | 2022-08-13 |
+| [Fresas de la Capital \- Remix](https://open.spotify.com/track/0YL4V7R077SARGTtJkBFLj) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Jaque Mate](https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew), [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V) | [Fresas de la Capital \(Remix\)](https://open.spotify.com/album/0KbEkXdXyUEscWEtJulK3M) | 3:14 | 2024-03-04 |  |
 | [Fresh](https://open.spotify.com/track/6sRfgwJVZZnMo92SaEAaY4) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Fresh](https://open.spotify.com/album/6RGWxCMX5GEKPgjP7gi6zD) | 2:45 | 2023-09-15 | 2023-09-23 |
 | [Fria](https://open.spotify.com/track/7iIREj4nlpvuDQqhj1DB4e) | [Milly](https://open.spotify.com/artist/7kXCcNRLEnblbTAppPraBp) | [Fria](https://open.spotify.com/album/1PSSRB5TtWj7MIKTyi98Zn) | 2:29 | 2023-12-08 | 2023-12-16 |
 | [Frio](https://open.spotify.com/track/0Upd1dGnqg5TtrFb8urWTb) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Frio](https://open.spotify.com/album/1gbBR68zEJvzpArT7UhsPh) | 2:35 | 2024-02-16 | 2024-02-24 |

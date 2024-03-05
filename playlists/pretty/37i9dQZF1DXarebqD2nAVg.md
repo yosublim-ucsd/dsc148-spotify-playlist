@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 
 > Raw, sentimental feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,370 likes - 75 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,430 likes - 75 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 45 | [Driftwood](https://open.spotify.com/track/7JVfIv0ymBzxJNGuWpHbWZ) | [Fujitsu](https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT) | [Corals](https://open.spotify.com/album/1o5iflLRe5yh0B8o9gbbF4) | 2:04 |
 | 46 | [Sick of This](https://open.spotify.com/track/3XKAwOCIYtttde7vLMD5Jo) | [Just Big Hills](https://open.spotify.com/artist/2ih5O9wwxSSYLe9Bnce309) | [When You Forgive](https://open.spotify.com/album/5xG0QYLqbR4dTJknfhYtlu) | 3:53 |
 | 47 | [Louie's Lullaby](https://open.spotify.com/track/7F8Xws8eSnpObHqUfbei71) | [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX) | [Pause](https://open.spotify.com/album/1SGKhtJ0H8iLa4Q9CKsjOP) | 2:51 |
-| 48 | [Free Trees](https://open.spotify.com/track/23xwWliB2C9ebh21I7kD0U) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Free Trees](https://open.spotify.com/album/377keRBbyFcp49RdaFw90Z) | 2:30 |
-| 49 | [No I'm Not](https://open.spotify.com/track/2QE6nuYctAHddZOupghtms) | [Imfinenow](https://open.spotify.com/artist/4VegDdugwCSdbyoHdObFEy) | [No I'm Not](https://open.spotify.com/album/2Zya2z365pr9vclFnyZ0jh) | 1:57 |
-| 50 | [Now, I See](https://open.spotify.com/track/7xCYaDqhAOs5TfeDvY9Dqn) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:43 |
+| 48 | [Now, I See](https://open.spotify.com/track/7xCYaDqhAOs5TfeDvY9Dqn) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:43 |
+| 49 | [Free Trees](https://open.spotify.com/track/23xwWliB2C9ebh21I7kD0U) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Free Trees](https://open.spotify.com/album/377keRBbyFcp49RdaFw90Z) | 2:30 |
+| 50 | [No I'm Not](https://open.spotify.com/track/2QE6nuYctAHddZOupghtms) | [Imfinenow](https://open.spotify.com/artist/4VegDdugwCSdbyoHdObFEy) | [No I'm Not](https://open.spotify.com/album/2Zya2z365pr9vclFnyZ0jh) | 1:57 |
 | 51 | [Anything Like Her \(feat\. Tiffi\)](https://open.spotify.com/track/1naqrWNoxyi6PEXz3NOXW0) | [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ), [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [Snow Rose](https://open.spotify.com/album/3RQQK5575LOEB9MS6UgNt9) | 3:11 |
 | 52 | [Blue](https://open.spotify.com/track/5jZeQRVMRWsSSYnp8tgrsq) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy) | [Clockwork](https://open.spotify.com/album/51EKtNFncEaNE3TCUR6m5i) | 2:03 |
 | 53 | [Hold on, Pt\. 2](https://open.spotify.com/track/5CiJgYqEopAiCRBOjMb5j0) | [Ok2222](https://open.spotify.com/artist/032KwgTrwjRFmANQ7R0oKX) | [Lonely](https://open.spotify.com/album/3GntHIEeqqemhISRVDjkl3) | 1:24 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 71 | [Gone](https://open.spotify.com/track/1s5sE20grtcHlIDOo0V883) | [jalowo](https://open.spotify.com/artist/2D78J8PPLKuEZqmArTFlQS) | [Cinemotional, Vol\. 2](https://open.spotify.com/album/46BBiaHMDLvG25ei4TUIdf) | 2:03 |
 | 72 | [Don't Give Up](https://open.spotify.com/track/4ng1XfVomFP5xGYna6FLpR) | [Madson Project.](https://open.spotify.com/artist/7dEFLdpxjmqhnv5ePvCTP7), [Jack Cates](https://open.spotify.com/artist/555ddcMCcd9HAWnP5HuklH) | [If You Want Me](https://open.spotify.com/album/6QCAulBTfwAfkXbJYkTf2D) | 2:51 |
 | 73 | [talk it out](https://open.spotify.com/track/2KCqN5JT7Q0acXwUj13UFP) | [Rob Smyles](https://open.spotify.com/artist/6KIclyZuF2o55kSUaiRe5P) | [Babymakers](https://open.spotify.com/album/3hFsnrRLJcA7a3uT0DaTip) | 3:31 |
-| 74 | [memories of u](https://open.spotify.com/track/64VWsh5helyoWopibmzXmf) | [drrreems](https://open.spotify.com/artist/5JaZBeFp8gpQZVR20WYQhc) | [memories of u](https://open.spotify.com/album/6rI3ZkZYNY8Sn2l0HL06c9) | 1:56 |
-| 75 | [Bloom](https://open.spotify.com/track/2e8imHlD10TXnYsL72zEe0) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Distant](https://open.spotify.com/album/75jB03qghdIosSpN3z8QSF) | 2:01 |
+| 74 | [Bloom](https://open.spotify.com/track/2e8imHlD10TXnYsL72zEe0) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Distant](https://open.spotify.com/album/75jB03qghdIosSpN3z8QSF) | 2:01 |
+| 75 | [memories of u](https://open.spotify.com/track/64VWsh5helyoWopibmzXmf) | [drrreems](https://open.spotify.com/artist/5JaZBeFp8gpQZVR20WYQhc) | [memories of u](https://open.spotify.com/album/6rI3ZkZYNY8Sn2l0HL06c9) | 1:56 |
 
-Snapshot ID: `MCw4MDUyODVlNjNkNTUzMGUyOWU4MmQwOTA0MDQ1ODkwOTU5Y2M4Mzhi`
+Snapshot ID: `MCwyZTMzNWU1MjE3ZmU4MjE2ZDc0ODc1MzdhZDk2NTlhZDcxNzZjMTQ2`

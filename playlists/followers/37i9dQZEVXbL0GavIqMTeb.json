@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 574362,
+  "2024-03-05": 574517,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Chile.",
   "name": "Top 50 - Chile",
@@ -331,7 +331,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 165318,
       "name": "333",
       "url": "https://open.spotify.com/track/49D0dUFzPxmOWWmn0FoR48"
@@ -3685,7 +3685,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 215000,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/2E9bJ7vsFylaYwLwf6dH4f"
@@ -4239,7 +4239,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 198594,
       "name": "Diablita",
       "url": "https://open.spotify.com/track/6BVh7E3RrGEbj5jcx0QksO"
@@ -7283,7 +7283,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 144444,
       "name": "High (Drama)",
       "url": "https://open.spotify.com/track/2POgkuOXuqw3LshOZZ6bw6"
@@ -8233,7 +8233,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 155514,
       "name": "La Fory, Heavy",
       "url": "https://open.spotify.com/track/2IQc7P5phkXztpft0zdBif"
@@ -14261,7 +14261,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 170400,
       "name": "Prend\u00eda",
       "url": "https://open.spotify.com/track/2dOIo2IwiauY5cAvRZzBln"
@@ -17067,7 +17067,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 207157,
       "name": "Tacos Gucci",
       "url": "https://open.spotify.com/track/1f9j6LO5166GQoE0CMA5tq"
@@ -18405,7 +18405,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 162500,
       "name": "Un Finde | CROSSOVER #2",
       "url": "https://open.spotify.com/track/3tiJUOfAEqIrLFRQgGgdoY"
@@ -18977,7 +18977,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 217840,
       "name": "Ven Aqu\u00ed",
       "url": "https://open.spotify.com/track/13eBG1b8pd7PxlEAAChfHO"
@@ -19557,7 +19557,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 200073,
       "name": "XQ TAN SOLA?",
       "url": "https://open.spotify.com/track/42wzqKYpAInONWmT0FtiIj"

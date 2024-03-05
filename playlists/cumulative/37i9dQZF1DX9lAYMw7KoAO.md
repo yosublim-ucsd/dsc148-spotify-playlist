@@ -2,7 +2,7 @@
 
 ### [African Gospel Hits](https://open.spotify.com/playlist/37i9dQZF1DX9lAYMw7KoAO)
 
-> The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM?si=C9\-23PBuSF2oV6zMlS553A">Ebuka Songs</a>
+> The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp?si=L5kMchupSyqaemFH\_JfsDA">Mercy Chinwo</a>
 
 411 songs - 1 day 11 hr 38 min
 

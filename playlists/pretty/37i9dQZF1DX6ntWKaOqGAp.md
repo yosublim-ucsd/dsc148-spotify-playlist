@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > The biggest Japanese rock hits right now\.  Cover: Teikoku Kissa\(帝国喫茶\)　日本ロックシーンの最新話題曲をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,719 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,791 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [Natural Sense](https://open.spotify.com/track/0vMiyLLjZvXFYlCaREHPKD) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Natural Sense](https://open.spotify.com/album/25lgonaEBfB4QRKzwH80bF) | 2:46 |
 | 100 | [Dawn](https://open.spotify.com/track/3xFka9Fj3vn299vIBqFUVu) | [KOTORI](https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL) | [Dawn](https://open.spotify.com/album/16a4yEozxkuenTZ2EZ9fkw) | 4:27 |
 
-Snapshot ID: `MCw2ZDg2NTU2MTU5ODRlODFlNTExMzY4ZDk5ODZkYzk3MDRlNjg1MDNm`
+Snapshot ID: `MCxjYTU0NGI3MzJkYjdlZjg3ZjlkZjdlZmI1MDFiMzRjZjBlMTUxNDU5`

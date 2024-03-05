@@ -1,12 +1,12 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. Slowdive on cover",
-  "num_followers": 587304,
+  "num_followers": 587547,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NmFiMGQ1MGYxOWZmMjc5M2QwNDk5NTIxYjQ1OTUyYzAyYTU2Yjc5",
+  "snapshot_id": "MCwzYjQwNzIxMTJkZWJkMjBmN2MwZGFmOTczMzVkNWRiNGQ5MzkyMzQy",
   "tracks": [
     {
       "added_at": "2023-12-08 16:49:10",
@@ -89,22 +89,6 @@
       "url": "https://open.spotify.com/track/0jmKzJmUEKNbC7eU8YfOiA"
     },
     {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Souvlaki",
-        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
-      },
-      "artists": [
-        {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
-        }
-      ],
-      "duration_ms": 285906,
-      "name": "When the Sun Hits",
-      "url": "https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44"
-    },
-    {
       "added_at": "2023-10-19 18:31:49",
       "album": {
         "name": "ok",
@@ -119,6 +103,22 @@
       "duration_ms": 75297,
       "name": "flower",
       "url": "https://open.spotify.com/track/01fudEnybVTbUfAbIsXz8q"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Souvlaki",
+        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "duration_ms": 285906,
+      "name": "When the Sun Hits",
+      "url": "https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -155,22 +155,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Loveless",
-        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 257519,
-      "name": "Only Shallow",
-      "url": "https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Psychocandy",
         "url": "https://open.spotify.com/album/0PnzJO3D4i85ALVJPaDpru"
       },
@@ -201,20 +185,20 @@
       "url": "https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08"
     },
     {
-      "added_at": "2023-10-19 18:31:49",
+      "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "return",
-        "url": "https://open.spotify.com/album/2wSCeijPFFOhlfvOQhgdss"
+        "name": "Slowdive",
+        "url": "https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa"
       },
       "artists": [
         {
-          "name": "Blue Smiley",
-          "url": "https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL"
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
         }
       ],
-      "duration_ms": 102421,
-      "name": "bird",
-      "url": "https://open.spotify.com/track/6aC2oJJirBozj0cT6E2g1t"
+      "duration_ms": 270918,
+      "name": "Sugar for the Pill",
+      "url": "https://open.spotify.com/track/0eVz3hV2xOXdneGpnWDFpb"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -235,6 +219,38 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 257519,
+      "name": "Only Shallow",
+      "url": "https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1"
+    },
+    {
+      "added_at": "2023-10-19 18:31:49",
+      "album": {
+        "name": "return",
+        "url": "https://open.spotify.com/album/2wSCeijPFFOhlfvOQhgdss"
+      },
+      "artists": [
+        {
+          "name": "Blue Smiley",
+          "url": "https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL"
+        }
+      ],
+      "duration_ms": 102421,
+      "name": "bird",
+      "url": "https://open.spotify.com/track/6aC2oJJirBozj0cT6E2g1t"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Siamese Dream (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo"
       },
@@ -251,22 +267,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Slowdive",
-        "url": "https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa"
-      },
-      "artists": [
-        {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
-        }
-      ],
-      "duration_ms": 270918,
-      "name": "Sugar for the Pill",
-      "url": "https://open.spotify.com/track/0eVz3hV2xOXdneGpnWDFpb"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Spiritual Instinct",
         "url": "https://open.spotify.com/album/6o13o3tlmwPYFnlIrVoRhh"
       },
@@ -279,22 +279,6 @@
       "duration_ms": 300503,
       "name": "Sapphire",
       "url": "https://open.spotify.com/track/5DFnmcshyxsonqTvanqZPY"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Loveless",
-        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 319226,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/5KBKqxYY263Tr0haAu3fMz"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -343,22 +327,6 @@
       "duration_ms": 338869,
       "name": "Star Roving",
       "url": "https://open.spotify.com/track/7nq6qpHhCJ3pNOa3KHi8fe"
-    },
-    {
-      "added_at": "2023-10-19 18:31:49",
-      "album": {
-        "name": "return",
-        "url": "https://open.spotify.com/album/2wSCeijPFFOhlfvOQhgdss"
-      },
-      "artists": [
-        {
-          "name": "Blue Smiley",
-          "url": "https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL"
-        }
-      ],
-      "duration_ms": 122752,
-      "name": "flip",
-      "url": "https://open.spotify.com/track/1HVgDSMFQIRHBRuhOs85fL"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -411,6 +379,38 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 319226,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/5KBKqxYY263Tr0haAu3fMz"
+    },
+    {
+      "added_at": "2023-10-19 18:31:49",
+      "album": {
+        "name": "return",
+        "url": "https://open.spotify.com/album/2wSCeijPFFOhlfvOQhgdss"
+      },
+      "artists": [
+        {
+          "name": "Blue Smiley",
+          "url": "https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL"
+        }
+      ],
+      "duration_ms": 122752,
+      "name": "flip",
+      "url": "https://open.spotify.com/track/1HVgDSMFQIRHBRuhOs85fL"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Going Blank Again (Expanded)",
         "url": "https://open.spotify.com/album/5l70cCHX1QzN680J68rblF"
       },
@@ -427,18 +427,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Loveless",
-        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+        "name": "Souvlaki",
+        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
       },
       "artists": [
         {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
         }
       ],
-      "duration_ms": 418706,
-      "name": "Soon",
-      "url": "https://open.spotify.com/track/7ITRNB9OckYIp2SW2iXU8U"
+      "duration_ms": 357373,
+      "name": "Souvlaki Space Station",
+      "url": "https://open.spotify.com/track/76JhicgPtW4zbN72tpnMyA"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -475,6 +475,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 418706,
+      "name": "Soon",
+      "url": "https://open.spotify.com/track/7ITRNB9OckYIp2SW2iXU8U"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Les voyages de l'\u00e2me",
         "url": "https://open.spotify.com/album/1yENAh14y99tcC6No2mXWl"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 350320,
       "name": "Autre temps",
       "url": "https://open.spotify.com/track/50dpeks48j0zMECIKVAGUG"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Souvlaki",
-        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
-      },
-      "artists": [
-        {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
-        }
-      ],
-      "duration_ms": 357373,
-      "name": "Souvlaki Space Station",
-      "url": "https://open.spotify.com/track/76JhicgPtW4zbN72tpnMyA"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -559,38 +559,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Glider",
-        "url": "https://open.spotify.com/album/3oSLMALBuos75AqBHPdLrJ"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 255426,
-      "name": "Off Your Face",
-      "url": "https://open.spotify.com/track/7hrQx8C3rT5R447bmNnq5Y"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Souvenirs d'un autre monde",
-        "url": "https://open.spotify.com/album/1zQQoViMwTIXwmidyqTXdF"
-      },
-      "artists": [
-        {
-          "name": "Alcest",
-          "url": "https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7"
-        }
-      ],
-      "duration_ms": 368626,
-      "name": "Souvenirs d'un autre monde",
-      "url": "https://open.spotify.com/track/1eD8fNbyfyXWrTLokilmEM"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Deceiver",
         "url": "https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS"
       },
@@ -623,6 +591,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Souvenirs d'un autre monde",
+        "url": "https://open.spotify.com/album/1zQQoViMwTIXwmidyqTXdF"
+      },
+      "artists": [
+        {
+          "name": "Alcest",
+          "url": "https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7"
+        }
+      ],
+      "duration_ms": 368626,
+      "name": "Souvenirs d'un autre monde",
+      "url": "https://open.spotify.com/track/1eD8fNbyfyXWrTLokilmEM"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/3aZ04o7EWxUYaJiQA1f9EE"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 314706,
       "name": "Pearl",
       "url": "https://open.spotify.com/track/19QGKOXTqmk1ezHQpiUIwA"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Glider",
+        "url": "https://open.spotify.com/album/3oSLMALBuos75AqBHPdLrJ"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 255426,
+      "name": "Off Your Face",
+      "url": "https://open.spotify.com/track/7hrQx8C3rT5R447bmNnq5Y"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -815,22 +815,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Methodrone",
-        "url": "https://open.spotify.com/album/1iTcRHmVM0lioMXy9EK7ka"
-      },
-      "artists": [
-        {
-          "name": "The Brian Jonestown Massacre",
-          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/4lfvvWKfZrC0VZcxOCp521"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "The Real Ramona",
         "url": "https://open.spotify.com/album/5ejnwNGskDCpNjBnBGw67h"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 238893,
       "name": "Walkabout (W/ Noah Lennox)",
       "url": "https://open.spotify.com/track/2e3KUBfcAwAyQtgbeUBKob"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Methodrone",
+        "url": "https://open.spotify.com/album/1iTcRHmVM0lioMXy9EK7ka"
+      },
+      "artists": [
+        {
+          "name": "The Brian Jonestown Massacre",
+          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/4lfvvWKfZrC0VZcxOCp521"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Whirlpool - The Original Recordings",
-        "url": "https://open.spotify.com/album/2eq2u7XWepjSNsf1YYUgb0"
-      },
-      "artists": [
-        {
-          "name": "Chapterhouse",
-          "url": "https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ"
-        }
-      ],
-      "duration_ms": 272373,
-      "name": "Breather",
-      "url": "https://open.spotify.com/track/0ZNj4TIIcZwrAI1l7GgZMT"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "A Gilded Eternity",
         "url": "https://open.spotify.com/album/6EnYB0SzDQeAUN7qLgCIPs"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 257068,
       "name": "Lovely Times",
       "url": "https://open.spotify.com/track/2qHgQxl7E25hozdKtfk0Kh"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Whirlpool - The Original Recordings",
+        "url": "https://open.spotify.com/album/2eq2u7XWepjSNsf1YYUgb0"
+      },
+      "artists": [
+        {
+          "name": "Chapterhouse",
+          "url": "https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ"
+        }
+      ],
+      "duration_ms": 272373,
+      "name": "Breather",
+      "url": "https://open.spotify.com/track/0ZNj4TIIcZwrAI1l7GgZMT"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Flying Saucer Attack",
-        "url": "https://open.spotify.com/album/19EG2Pg9TBTTmXsAYmrvsc"
-      },
-      "artists": [
-        {
-          "name": "Flying Saucer Attack",
-          "url": "https://open.spotify.com/artist/336fB3AJgK8AvHX5bD8d9A"
-        }
-      ],
-      "duration_ms": 372400,
-      "name": "My Dreaming Hill",
-      "url": "https://open.spotify.com/track/4xVb769QQHzWlGR9L9Flbl"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Sure (Robin Guthrie Remix)",
         "url": "https://open.spotify.com/album/4NYZyflURmFDah8baHKtye"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 249545,
       "name": "Sure - Robin Guthrie Remix",
       "url": "https://open.spotify.com/track/0zPpsKWrW2w5l3mqCsiOPy"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Flying Saucer Attack",
+        "url": "https://open.spotify.com/album/19EG2Pg9TBTTmXsAYmrvsc"
+      },
+      "artists": [
+        {
+          "name": "Flying Saucer Attack",
+          "url": "https://open.spotify.com/artist/336fB3AJgK8AvHX5bD8d9A"
+        }
+      ],
+      "duration_ms": 372400,
+      "name": "My Dreaming Hill",
+      "url": "https://open.spotify.com/track/4xVb769QQHzWlGR9L9Flbl"
     },
     {
       "added_at": "2023-04-12 01:14:16",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Splashdown: The Complete Creation Recordings 1990-1992",
-        "url": "https://open.spotify.com/album/2g4LXTfn5vxwW2nO1tt6FG"
-      },
-      "artists": [
-        {
-          "name": "The Telescopes",
-          "url": "https://open.spotify.com/artist/5MTQzge85m3QSefD2LdS1J"
-        }
-      ],
-      "duration_ms": 191146,
-      "name": "Splashdown",
-      "url": "https://open.spotify.com/track/2BikDWeXjSKJIZsaphX9JX"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "KIN",
         "url": "https://open.spotify.com/album/20VOMBfnJraeZ0BQ4aPuqd"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 383920,
       "name": "Donuts",
       "url": "https://open.spotify.com/track/5ClerqCRCZ4K7smUKYYg9e"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Splashdown: The Complete Creation Recordings 1990-1992",
+        "url": "https://open.spotify.com/album/2g4LXTfn5vxwW2nO1tt6FG"
+      },
+      "artists": [
+        {
+          "name": "The Telescopes",
+          "url": "https://open.spotify.com/artist/5MTQzge85m3QSefD2LdS1J"
+        }
+      ],
+      "duration_ms": 191146,
+      "name": "Splashdown",
+      "url": "https://open.spotify.com/track/2BikDWeXjSKJIZsaphX9JX"
     },
     {
       "added_at": "2021-06-03 02:39:04",

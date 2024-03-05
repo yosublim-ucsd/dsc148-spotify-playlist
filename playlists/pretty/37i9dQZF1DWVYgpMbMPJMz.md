@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  <a href="spotify:artist:6piIAIurGAryW5h1rqQC16">Passion</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 982,799 likes - 90 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 982,932 likes - 90 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 89 | [Live Again](https://open.spotify.com/track/1K2dxpyTXiR5xcwo0ZrjBI) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Kyle McHargh](https://open.spotify.com/artist/6pKGdTf8wPcOSzeNGN1Or3), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [Live Again](https://open.spotify.com/album/7N1EAGw0mr5jFoZ1acuPap) | 8:42 |
 | 90 | [Now To God \- Live](https://open.spotify.com/track/3VFfyjdeL14YNC6RgOWBhe) | [Stockholm Worship](https://open.spotify.com/artist/5BLAL4fBI3BB2ohYBPmCOH) | [Other Side](https://open.spotify.com/album/0wRQo1pAoe3b4mNdiQnbV4) | 4:46 |
 
-Snapshot ID: `MCxhMTgzYzhhMmMwNjBmNWNmMDlmZGQ4NzQ3ZmRiODFiMDQ4ODczNjlh`
+Snapshot ID: `MCw0MTU5Y2NjMWU1MDVmMDZlMjZhMWU2MzQxYjhmMDAzYjM5OGIyMjhk`

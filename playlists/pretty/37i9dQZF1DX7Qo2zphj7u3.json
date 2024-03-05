@@ -1,12 +1,12 @@
 {
   "description": "Las rom\u00e1nticas de hoy y de siempre. Foto: Luis Fonsi",
-  "num_followers": 2002121,
+  "num_followers": 2002148,
   "original_name": "Hits Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMThiZmYxNDU0N2UyZWM4MjZjYjk1NGM5NTk3N2M5ZjM0NWExZGJj",
+  "snapshot_id": "MCxiNDljZGE1Y2VjMGM0MWU2ZTRkZDA4ZjMzN2U5ZDE0NDFkMjA2MGY2",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "A Coraz\u00f3n Abierto",
-        "url": "https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 231773,
-      "name": "Me Dediqu\u00e9 a Perderte",
-      "url": "https://open.spotify.com/track/4NUt1fcnO9aQAELBgXq3Kr"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Aries",
         "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
       },
@@ -219,18 +203,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Dejarte De Amar",
-        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
+        "name": "A Coraz\u00f3n Abierto",
+        "url": "https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA"
       },
       "artists": [
         {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 205160,
-      "name": "Mientes",
-      "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
+      "duration_ms": 231773,
+      "name": "Me Dediqu\u00e9 a Perderte",
+      "url": "https://open.spotify.com/track/4NUt1fcnO9aQAELBgXq3Kr"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -263,6 +247,22 @@
       "duration_ms": 238160,
       "name": "T\u00fa de Qu\u00e9 Vas",
       "url": "https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Des/Amor",
+        "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 204173,
+      "name": "Ya Me Enter\u00e9",
+      "url": "https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -303,6 +303,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Dejarte De Amar",
+        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "Mientes",
+      "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Segundo Romance",
         "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
       },
@@ -319,18 +335,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Des/Amor",
-        "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
+        "name": "Sue\u00f1os L\u00edquidos",
+        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
       },
       "artists": [
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 204173,
-      "name": "Ya Me Enter\u00e9",
-      "url": "https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja"
+      "duration_ms": 352160,
+      "name": "En El Muelle de San Blas",
+      "url": "https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -351,22 +367,6 @@
       "duration_ms": 233895,
       "name": "D\u00f3nde est\u00e1 el amor (feat. Jesse & Joy)",
       "url": "https://open.spotify.com/track/0CjaLvAqN97KPVWgOJ1vbD"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Sue\u00f1os L\u00edquidos",
-        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 352160,
-      "name": "En El Muelle de San Blas",
-      "url": "https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -399,6 +399,38 @@
       "duration_ms": 250026,
       "name": "Mi Vida Eres T\u00fa",
       "url": "https://open.spotify.com/track/5mKwzq7UTXf1xwWcpPoteX"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Reik",
+        "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 217986,
+      "name": "Yo Quisiera",
+      "url": "https://open.spotify.com/track/2GSr8anleCXKLNjjjijoMZ"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 237240,
+      "name": "Culpable O No - Mi\u00e9nteme Como Siempre",
+      "url": "https://open.spotify.com/track/7BwxbmYFy0l3ROHDjV2c14"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -451,22 +483,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Busca Una Mujer",
-        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 237240,
-      "name": "Culpable O No - Mi\u00e9nteme Como Siempre",
-      "url": "https://open.spotify.com/track/7BwxbmYFy0l3ROHDjV2c14"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Para M\u00ed",
         "url": "https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 211373,
       "name": "Ya Te Olvid\u00e9",
       "url": "https://open.spotify.com/track/4FsVB8msXzmemjJdTKUoal"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Reik",
-        "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 217986,
-      "name": "Yo Quisiera",
-      "url": "https://open.spotify.com/track/2GSr8anleCXKLNjjjijoMZ"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -531,18 +531,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Tu \u00daltima Canci\u00f3n",
-        "url": "https://open.spotify.com/album/0uunEJN1BK7y3yg2GncXxa"
+        "name": "Reik",
+        "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
       },
       "artists": [
         {
-          "name": "Los Temerarios",
-          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
         }
       ],
-      "duration_ms": 242733,
-      "name": "Eres un Sue\u00f1o",
-      "url": "https://open.spotify.com/track/4gxzgTzA4MSLf5rje1rX65"
+      "duration_ms": 203226,
+      "name": "Noviembre Sin Ti",
+      "url": "https://open.spotify.com/track/2vCHDrXVN0k1GPTjSIZ69E"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -559,6 +559,22 @@
       "duration_ms": 229853,
       "name": "No S\u00e9 T\u00fa",
       "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Tu \u00daltima Canci\u00f3n",
+        "url": "https://open.spotify.com/album/0uunEJN1BK7y3yg2GncXxa"
+      },
+      "artists": [
+        {
+          "name": "Los Temerarios",
+          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
+        }
+      ],
+      "duration_ms": 242733,
+      "name": "Eres un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/4gxzgTzA4MSLf5rje1rX65"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -599,22 +615,6 @@
       "duration_ms": 188213,
       "name": "El Mismo Aire - con Pablo Albor\u00e1n",
       "url": "https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Reik",
-        "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 203226,
-      "name": "Noviembre Sin Ti",
-      "url": "https://open.spotify.com/track/2vCHDrXVN0k1GPTjSIZ69E"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -667,6 +667,22 @@
       "duration_ms": 209506,
       "name": "M\u00e1s Que Tu Amigo",
       "url": "https://open.spotify.com/track/1Vy7WUJubV9JEoebuJ9dfe"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Un Dia Mas (Edicion Especial)",
+        "url": "https://open.spotify.com/album/0DFhIlgm33q5dTFoz5uH1v"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 222986,
+      "name": "Inolvidable",
+      "url": "https://open.spotify.com/track/22seP38foydqUMp5Fvkcjm"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -751,22 +767,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Un Dia Mas (Edicion Especial)",
-        "url": "https://open.spotify.com/album/0DFhIlgm33q5dTFoz5uH1v"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 222986,
-      "name": "Inolvidable",
-      "url": "https://open.spotify.com/track/22seP38foydqUMp5Fvkcjm"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Guerra (+ Sessions Recorded at Abbey Road)",
         "url": "https://open.spotify.com/album/0sGgHg4QRIBACnetu6z45Z"
       },
@@ -779,6 +779,22 @@
       "duration_ms": 213493,
       "name": "Te Esperaba",
       "url": "https://open.spotify.com/track/22t10FTx8y3pC5fjLuKJ8K"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "En Total Plenitud",
+        "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 228920,
+      "name": "\u00bfA D\u00f3nde Vamos A Parar?",
+      "url": "https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -803,22 +819,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Revoluci\u00f3n De Amor (2020 Remasterizado)",
-        "url": "https://open.spotify.com/album/4bP1H8sP05Bvu4LB2RbyC2"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 262925,
-      "name": "Mariposa Traicionera - 2020 Remasterizado",
-      "url": "https://open.spotify.com/track/2zLLGT8WWT1dl73TlVL9qs"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Te Quiero",
         "url": "https://open.spotify.com/album/0YmzPJsNmuM10SAWwjhIBR"
       },
@@ -835,18 +835,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "En Total Plenitud",
-        "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
+        "name": "Revoluci\u00f3n De Amor (2020 Remasterizado)",
+        "url": "https://open.spotify.com/album/4bP1H8sP05Bvu4LB2RbyC2"
       },
       "artists": [
         {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 228920,
-      "name": "\u00bfA D\u00f3nde Vamos A Parar?",
-      "url": "https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv"
+      "duration_ms": 262925,
+      "name": "Mariposa Traicionera - 2020 Remasterizado",
+      "url": "https://open.spotify.com/track/2zLLGT8WWT1dl73TlVL9qs"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Drama Y Luz",
-        "url": "https://open.spotify.com/album/1sqgDb8MhdXgKAdGGLny9g"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 291866,
-      "name": "Amor Clandestino",
-      "url": "https://open.spotify.com/track/5etssK2rpk4SnHWWD1Q6xn"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Camilo",
         "url": "https://open.spotify.com/album/4AxRFDkSlRWzCpyaO107UJ"
       },
@@ -1015,6 +999,38 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Drama Y Luz",
+        "url": "https://open.spotify.com/album/1sqgDb8MhdXgKAdGGLny9g"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 291866,
+      "name": "Amor Clandestino",
+      "url": "https://open.spotify.com/track/5etssK2rpk4SnHWWD1Q6xn"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Primavera anticipada",
+        "url": "https://open.spotify.com/album/6zAy8yhXyey4JitXpszFh7"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 237440,
+      "name": "En cambio no",
+      "url": "https://open.spotify.com/track/6ea3gVkbrhghwfoio3NFpi"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
       },
@@ -1027,6 +1043,22 @@
       "duration_ms": 307866,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Reencuentro",
+        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 250200,
+      "name": "Gavil\u00e1n o Paloma",
+      "url": "https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1067,22 +1099,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Primavera anticipada",
-        "url": "https://open.spotify.com/album/6zAy8yhXyey4JitXpszFh7"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 237440,
-      "name": "En cambio no",
-      "url": "https://open.spotify.com/track/6ea3gVkbrhghwfoio3NFpi"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Pensamientos",
         "url": "https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl"
       },
@@ -1095,6 +1111,22 @@
       "duration_ms": 435493,
       "name": "Hasta Que Te Conoc\u00ed",
       "url": "https://open.spotify.com/track/6XLobzCdi98lFcxG3eGYNr"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Yo Creo",
+        "url": "https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 222826,
+      "name": "Que Lo Nuestro Se Quede Nuestro",
+      "url": "https://open.spotify.com/track/3rtxFFGZ10e2vYBo7PsPf2"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1115,22 +1147,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Reencuentro",
-        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 250200,
-      "name": "Gavil\u00e1n o Paloma",
-      "url": "https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Otra Vida",
         "url": "https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 190480,
       "name": "Mi Persona Favorita",
       "url": "https://open.spotify.com/track/70fVcEP5pRrxaIICY3DcPe"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Yo Creo",
-        "url": "https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 222826,
-      "name": "Que Lo Nuestro Se Quede Nuestro",
-      "url": "https://open.spotify.com/track/3rtxFFGZ10e2vYBo7PsPf2"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Terral",
-        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 234373,
-      "name": "Pasos de cero",
-      "url": "https://open.spotify.com/track/18mmN3VrFWRi6SsSBJf6WJ"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Paraiso Express",
         "url": "https://open.spotify.com/album/0WSmZjtSlfaMoJjrhj7R7z"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 235906,
       "name": "Desde cuando",
       "url": "https://open.spotify.com/track/38EI0NudWZT1qFuhEafIHh"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Terral",
+        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 234373,
+      "name": "Pasos de cero",
+      "url": "https://open.spotify.com/track/18mmN3VrFWRi6SsSBJf6WJ"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Simplemente",
+        "url": "https://open.spotify.com/album/5ktMfzQRYlQawZcnmIB1VW"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 288946,
+      "name": "Yo Te Amo",
+      "url": "https://open.spotify.com/track/2sKo5u6IppUEudIz265wYa"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Confidencias",
         "url": "https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 291106,
       "name": "Hoy Tengo Ganas De Ti",
       "url": "https://open.spotify.com/track/0qO4GfXADY9QfgcgtrasT9"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Simplemente",
-        "url": "https://open.spotify.com/album/5ktMfzQRYlQawZcnmIB1VW"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 288946,
-      "name": "Yo Te Amo",
-      "url": "https://open.spotify.com/track/2sKo5u6IppUEudIz265wYa"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1975,6 +1975,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Canto Por Ti",
+        "url": "https://open.spotify.com/album/0FhBt22SV28wg41ecDy1RO"
+      },
+      "artists": [
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+        }
+      ],
+      "duration_ms": 239995,
+      "name": "Si Me Ten\u00edas",
+      "url": "https://open.spotify.com/track/2wBhRmkGC098tLGo2dhWo2"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Una Muchacha y una Guitarra",
         "url": "https://open.spotify.com/album/12h6RCRmJ7mgOzl9h7uigs"
       },
@@ -1987,22 +2003,6 @@
       "duration_ms": 213333,
       "name": "Porque Yo Te Amo",
       "url": "https://open.spotify.com/track/2KuP2WnaXV7hiHn9KLq27E"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Una Noche En Madrid",
-        "url": "https://open.spotify.com/album/0rtsxbXUaH6OlDKiwwoMD8"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 263800,
-      "name": "Si Te Pudiera Mentir - Live Version",
-      "url": "https://open.spotify.com/track/239yEYlZWG7PYuUojNywXZ"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Canto Por Ti",
-        "url": "https://open.spotify.com/album/0FhBt22SV28wg41ecDy1RO"
-      },
-      "artists": [
-        {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
-        }
-      ],
-      "duration_ms": 239995,
-      "name": "Si Me Ten\u00edas",
-      "url": "https://open.spotify.com/track/2wBhRmkGC098tLGo2dhWo2"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Hecho En M\u00e9xico",
         "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
       },
@@ -2071,6 +2055,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Una Noche En Madrid",
+        "url": "https://open.spotify.com/album/0rtsxbXUaH6OlDKiwwoMD8"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 263800,
+      "name": "Si Te Pudiera Mentir - Live Version",
+      "url": "https://open.spotify.com/track/239yEYlZWG7PYuUojNywXZ"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Iconos",
         "url": "https://open.spotify.com/album/5SGUCNeCuGHbR73Iyh2F7g"
       },
@@ -2083,6 +2083,22 @@
       "duration_ms": 240733,
       "name": "Y C\u00f3mo Es El",
       "url": "https://open.spotify.com/track/3h8KGJn9UFX2cfjN78iMVF"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "El Privilegio De Amar",
+        "url": "https://open.spotify.com/album/6Gz4ADhuPTy6CeyL52Ks2f"
+      },
+      "artists": [
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+        }
+      ],
+      "duration_ms": 236493,
+      "name": "El Privilegio De Amar",
+      "url": "https://open.spotify.com/track/3NGG1do9lT815M5REcCzzm"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -2123,22 +2139,6 @@
       "duration_ms": 173560,
       "name": "Tu Pirata Soy Yo",
       "url": "https://open.spotify.com/track/2bHEObIToIMkdZRXsC04Kt"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "El Privilegio De Amar",
-        "url": "https://open.spotify.com/album/6Gz4ADhuPTy6CeyL52Ks2f"
-      },
-      "artists": [
-        {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
-        }
-      ],
-      "duration_ms": 236493,
-      "name": "El Privilegio De Amar",
-      "url": "https://open.spotify.com/track/3NGG1do9lT815M5REcCzzm"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Circo Soledad",
-        "url": "https://open.spotify.com/album/3MYtBNFvuGUSEIi2Sfwl2w"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/7hydwXc3IVJIItIif6ZuLH"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Mi Vida Sin Tu Amor",
         "url": "https://open.spotify.com/album/4b7x5wHqzZETVAPcGIG5nl"
       },
@@ -2307,6 +2291,38 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Pimpinela",
+        "url": "https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id"
+      },
+      "artists": [
+        {
+          "name": "Pimpinela",
+          "url": "https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo"
+        }
+      ],
+      "duration_ms": 156306,
+      "name": "D\u00edmelo Delante de Ella",
+      "url": "https://open.spotify.com/track/37amjDwMG9SQQ1xQETzBm9"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Circo Soledad",
+        "url": "https://open.spotify.com/album/3MYtBNFvuGUSEIi2Sfwl2w"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/7hydwXc3IVJIItIif6ZuLH"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Papitwo (Deluxe)",
         "url": "https://open.spotify.com/album/6mgs9ywhBqW5QSCMyYPC3g"
       },
@@ -2323,22 +2339,6 @@
       "duration_ms": 248049,
       "name": "Aire soy (feat. Ximena Sari\u00f1ana)",
       "url": "https://open.spotify.com/track/1ORb6uGvpjsFwZK8FUpzWy"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Pimpinela",
-        "url": "https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id"
-      },
-      "artists": [
-        {
-          "name": "Pimpinela",
-          "url": "https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo"
-        }
-      ],
-      "duration_ms": 156306,
-      "name": "D\u00edmelo Delante de Ella",
-      "url": "https://open.spotify.com/track/37amjDwMG9SQQ1xQETzBm9"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -2687,6 +2687,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "De Nina A Mujer",
+        "url": "https://open.spotify.com/album/79oKAi17dXJifpfz78vC7B"
+      },
+      "artists": [
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "De Ni\u00f1a a Mujer",
+      "url": "https://open.spotify.com/track/2YhVvYKpwAFM01pCAn0rTW"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Un Gato En La Oscuridad",
         "url": "https://open.spotify.com/album/6QehPjFB3Q8uH2btA35cQm"
       },
@@ -2699,6 +2715,22 @@
       "duration_ms": 260066,
       "name": "Amada Amante",
       "url": "https://open.spotify.com/track/1EjTQ72d5YuDI3yD3n5e4a"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Musica Es",
+        "url": "https://open.spotify.com/album/0I3z9Ye15qtOwzrvh9LWdh"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 242106,
+      "name": "Por Ti Me Casare",
+      "url": "https://open.spotify.com/track/7a551oQYN0mjS9Fiu2nQSp"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -2739,22 +2771,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "De Nina A Mujer",
-        "url": "https://open.spotify.com/album/79oKAi17dXJifpfz78vC7B"
-      },
-      "artists": [
-        {
-          "name": "Julio Iglesias",
-          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "De Ni\u00f1a a Mujer",
-      "url": "https://open.spotify.com/track/2YhVvYKpwAFM01pCAn0rTW"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Laura Pausini: 25 Aniversario (Spanish Version)",
         "url": "https://open.spotify.com/album/0EXcVDePo397i4Um4vGxGs"
       },
@@ -2767,22 +2783,6 @@
       "duration_ms": 280666,
       "name": "Se fu\u00e9",
       "url": "https://open.spotify.com/track/6LU8uRM2fPgaHKD18I0Azk"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Musica Es",
-        "url": "https://open.spotify.com/album/0I3z9Ye15qtOwzrvh9LWdh"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 242106,
-      "name": "Por Ti Me Casare",
-      "url": "https://open.spotify.com/track/7a551oQYN0mjS9Fiu2nQSp"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -2819,22 +2819,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "A Flor De Piel",
-        "url": "https://open.spotify.com/album/3YAtD5obf0a1E2NHjZ8A8K"
-      },
-      "artists": [
-        {
-          "name": "Julio Iglesias",
-          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
-        }
-      ],
-      "duration_ms": 229493,
-      "name": "Por El Amor De Una Mujer",
-      "url": "https://open.spotify.com/track/7010oiDHpfwrZoYNxqgfoI"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Dos Mundos",
         "url": "https://open.spotify.com/album/65go3XkEnCQoFByHvFLcDD"
       },
@@ -2863,6 +2847,22 @@
       "duration_ms": 224333,
       "name": "No Quer\u00edas Lastimarme",
       "url": "https://open.spotify.com/track/3Mebiofe2IvOakAD792K3j"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "A Flor De Piel",
+        "url": "https://open.spotify.com/album/3YAtD5obf0a1E2NHjZ8A8K"
+      },
+      "artists": [
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        }
+      ],
+      "duration_ms": 229493,
+      "name": "Por El Amor De Una Mujer",
+      "url": "https://open.spotify.com/track/7010oiDHpfwrZoYNxqgfoI"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -3035,22 +3035,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Alma, Coraz\u00f3n Y Vida",
-        "url": "https://open.spotify.com/album/7AyiKOqr5X1l1qRXQlUMAP"
-      },
-      "artists": [
-        {
-          "name": "Dyango",
-          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
-        }
-      ],
-      "duration_ms": 206840,
-      "name": "Cuando quieras, donde quieras (Cos\u00ec era e cos\u00ec sia)",
-      "url": "https://open.spotify.com/track/3akNntAza319MgjivWphIH"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "8",
         "url": "https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI"
       },
@@ -3083,6 +3067,22 @@
       "duration_ms": 248440,
       "name": "Y T\u00fa Te Vas (feat. Carlos Rivera) - Vuelve en Primera Fila - Live Version",
       "url": "https://open.spotify.com/track/6Q2xlkc1JvbmOlCOEXRNj8"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Alma, Coraz\u00f3n Y Vida",
+        "url": "https://open.spotify.com/album/7AyiKOqr5X1l1qRXQlUMAP"
+      },
+      "artists": [
+        {
+          "name": "Dyango",
+          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
+        }
+      ],
+      "duration_ms": 206840,
+      "name": "Cuando quieras, donde quieras (Cos\u00ec era e cos\u00ec sia)",
+      "url": "https://open.spotify.com/track/3akNntAza319MgjivWphIH"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -3635,22 +3635,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Colecci\u00f3n Definitiva",
-        "url": "https://open.spotify.com/album/0nEL8RK9TM7RD6oTzv27Zf"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 291440,
-      "name": "Morena m\u00eda",
-      "url": "https://open.spotify.com/track/0tSE3FNeqYVuTQIy1s67Az"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Iconos",
         "url": "https://open.spotify.com/album/5SGUCNeCuGHbR73Iyh2F7g"
       },
@@ -3667,18 +3651,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Esencial Roberto Carlos",
-        "url": "https://open.spotify.com/album/4TbDEyxlABxYoyanHe6oOR"
+        "name": "Colecci\u00f3n Definitiva",
+        "url": "https://open.spotify.com/album/0nEL8RK9TM7RD6oTzv27Zf"
       },
       "artists": [
         {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
         }
       ],
-      "duration_ms": 273160,
-      "name": "Ese Tipo Soy Yo (Esse Cara Sou Eu)",
-      "url": "https://open.spotify.com/track/1WoWBzHoXNLCWgUuYV2Ofb"
+      "duration_ms": 291440,
+      "name": "Morena m\u00eda",
+      "url": "https://open.spotify.com/track/0tSE3FNeqYVuTQIy1s67Az"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -3695,6 +3679,22 @@
       "duration_ms": 289293,
       "name": "Hoy Quiero Confesarme",
       "url": "https://open.spotify.com/track/5wI6PpGIGw25jewhrbnxWG"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Esencial Roberto Carlos",
+        "url": "https://open.spotify.com/album/4TbDEyxlABxYoyanHe6oOR"
+      },
+      "artists": [
+        {
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+        }
+      ],
+      "duration_ms": 273160,
+      "name": "Ese Tipo Soy Yo (Esse Cara Sou Eu)",
+      "url": "https://open.spotify.com/track/1WoWBzHoXNLCWgUuYV2Ofb"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -3747,6 +3747,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Iconos",
+        "url": "https://open.spotify.com/album/5SGUCNeCuGHbR73Iyh2F7g"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 318946,
+      "name": "El Triste",
+      "url": "https://open.spotify.com/track/56gsLSSdKzRZM0FHsISTNO"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Coleccion Suprema",
         "url": "https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx"
       },
@@ -3759,22 +3775,6 @@
       "duration_ms": 226333,
       "name": "Yo Te Pido Amor",
       "url": "https://open.spotify.com/track/6XX94OLURwLYyvh0kdHm6m"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "La Historia del Puma",
-        "url": "https://open.spotify.com/album/0a7n1tbZkr87slBdcFPFkY"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Luis Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV"
-        }
-      ],
-      "duration_ms": 313146,
-      "name": "Due\u00f1o de Nada",
-      "url": "https://open.spotify.com/track/1yYrWdoONx6UyXLH0A3QMW"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -3795,6 +3795,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "La Historia del Puma",
+        "url": "https://open.spotify.com/album/0a7n1tbZkr87slBdcFPFkY"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV"
+        }
+      ],
+      "duration_ms": 313146,
+      "name": "Due\u00f1o de Nada",
+      "url": "https://open.spotify.com/track/1yYrWdoONx6UyXLH0A3QMW"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/1PCiyADys8TTu8HrSFrTAl"
       },
@@ -3807,22 +3823,6 @@
       "duration_ms": 241173,
       "name": "Qui\u00e9n Te Cantar\u00e1?",
       "url": "https://open.spotify.com/track/0CUdrIZauextVse2hjLCH3"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Iconos",
-        "url": "https://open.spotify.com/album/5SGUCNeCuGHbR73Iyh2F7g"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 318946,
-      "name": "El Triste",
-      "url": "https://open.spotify.com/track/56gsLSSdKzRZM0FHsISTNO"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -4059,18 +4059,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "A Tu Lado",
-        "url": "https://open.spotify.com/album/4unZDGlQA29DS3atjhfUQJ"
+        "name": "La Historia del Puma",
+        "url": "https://open.spotify.com/album/0a7n1tbZkr87slBdcFPFkY"
       },
       "artists": [
         {
-          "name": "Paula Arenas",
-          "url": "https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2"
+          "name": "Jos\u00e9 Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV"
         }
       ],
-      "duration_ms": 244308,
-      "name": "A Tu Lado",
-      "url": "https://open.spotify.com/track/2sxGambjEMewIexGbpP089"
+      "duration_ms": 201600,
+      "name": "Culpable Soy Yo",
+      "url": "https://open.spotify.com/track/0FigZsXkqqKIcpUZTCeWqs"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -4091,22 +4091,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "La Historia del Puma",
-        "url": "https://open.spotify.com/album/0a7n1tbZkr87slBdcFPFkY"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Luis Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Culpable Soy Yo",
-      "url": "https://open.spotify.com/track/0FigZsXkqqKIcpUZTCeWqs"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Amore Mio (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1c02pV8A4VtKLRB5G1SLyV"
       },
@@ -4119,6 +4103,22 @@
       "duration_ms": 267413,
       "name": "S\u00f3lo Parec\u00eda Amor",
       "url": "https://open.spotify.com/track/4nfTQcmVWD8KF15ks4xMII"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "A Tu Lado",
+        "url": "https://open.spotify.com/album/4unZDGlQA29DS3atjhfUQJ"
+      },
+      "artists": [
+        {
+          "name": "Paula Arenas",
+          "url": "https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2"
+        }
+      ],
+      "duration_ms": 244308,
+      "name": "A Tu Lado",
+      "url": "https://open.spotify.com/track/2sxGambjEMewIexGbpP089"
     },
     {
       "added_at": "2024-02-09 05:00:00",

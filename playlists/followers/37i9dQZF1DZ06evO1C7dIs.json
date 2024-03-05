@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 240934,
+  "2024-03-05": 240966,
   "date_first_scraped": "2022-09-09",
   "description": "This is Nightwish. The essential tracks, all in one playlist.",
   "name": "This Is Nightwish",
@@ -525,6 +525,24 @@
       "duration_ms": 282933,
       "name": "Ever Dream",
       "url": "https://open.spotify.com/track/5SNDGulFALe3DpSbuYarl7"
+    },
+    {
+      "album": {
+        "name": "Dark Passion Play",
+        "url": "https://open.spotify.com/album/33knvUBRR5ekNBrtLqQVTD"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236016,
+      "name": "For the Heart I Once Had",
+      "url": "https://open.spotify.com/track/2FPkCIeZJ9SO3g606XLJA4"
     },
     {
       "album": {
@@ -1169,7 +1187,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 245000,
       "name": "Sleeping Sun",
       "url": "https://open.spotify.com/track/64v7AaXu9qmbefvFwOtbvm"

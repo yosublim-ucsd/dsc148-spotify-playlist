@@ -4,7 +4,7 @@
 
 > This is TOKiMONSTA\. The essential tracks, all in one playlist.
 
-110 songs - 6 hr 13 min
+111 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Go With It \(feat\. MNDR\)](https://open.spotify.com/track/1C13BdLulesH2g7TLWK5Yg) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [Half Shadows](https://open.spotify.com/album/3tzKDyxMnl0wznFY0WTdcA) | 4:23 | 2024-01-12 |  |
 | [Golden Years \- TOKiMONSTA Remix](https://open.spotify.com/track/6m4C4gtiienQVNSWJ1JuU8) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Golden Years \(TOKiMONSTA Remix\)](https://open.spotify.com/album/370rX8pnkJuSCFBNnUHQWp) | 3:01 | 2023-05-06 | 2023-06-04 |
 | [Green](https://open.spotify.com/track/0fhyPqMIwWmEMmScVOXk0H) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Half Shadows](https://open.spotify.com/album/048Y5hrjEH1z26wzWqModK) | 3:58 | 2023-05-29 | 2024-01-11 |
+| [Heart on the Ground](https://open.spotify.com/track/3GBpgtfVFfT2mX9sRNOlr7) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Kiya Lacey](https://open.spotify.com/artist/1Htc0eOZHfYwFGbydWI5Wb) | [FOVERE](https://open.spotify.com/album/1RP9ycGSR3PgUffaLibvh7) | 3:31 | 2024-03-04 |  |
 | [Heart on the Ground](https://open.spotify.com/track/4pSs3nGm22r5f43E5qKzoW) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Kiya Lacey](https://open.spotify.com/artist/1Htc0eOZHfYwFGbydWI5Wb) | [FOVERE](https://open.spotify.com/album/1L6lmqIsXeFTMakLAYp3hv) | 3:31 | 2023-05-02 | 2023-12-14 |
 | [House of Dal](https://open.spotify.com/track/4psFTXt6MSnrYTAiOYiwGg) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1) | 4:26 | 2023-05-02 | 2023-12-14 |
 | [I Wish I Could \(feat\. Selah Sue\)](https://open.spotify.com/track/4LEM9GuAIk6f78yVNI5Ngm) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Lune Rouge](https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z) | 4:26 | 2024-02-08 |  |
@@ -100,7 +101,7 @@
 | [Soul to Seoul](https://open.spotify.com/track/2WfrK7vN1C7ScEauF96AHb) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Half Shadows](https://open.spotify.com/album/048Y5hrjEH1z26wzWqModK) | 3:29 | 2023-05-02 | 2024-01-05 |
 | [Soul to Seoul](https://open.spotify.com/track/7pyPH0gIvrQIHYCG7bkaOn) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Half Shadows](https://open.spotify.com/album/3tzKDyxMnl0wznFY0WTdcA) | 3:29 | 2024-01-19 |  |
 | [Starlight Lace](https://open.spotify.com/track/6sB4yuAwsgiWSgOpheHtjI) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [FOVERE](https://open.spotify.com/album/1L6lmqIsXeFTMakLAYp3hv) | 3:15 | 2023-05-02 | 2023-06-09 |
-| [Starlight Lace](https://open.spotify.com/track/7rMbCJMPExhYBcmVqvZcLl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [FOVERE](https://open.spotify.com/album/1RP9ycGSR3PgUffaLibvh7) | 3:15 | 2024-03-03 |  |
+| [Starlight Lace](https://open.spotify.com/track/7rMbCJMPExhYBcmVqvZcLl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [FOVERE](https://open.spotify.com/album/1RP9ycGSR3PgUffaLibvh7) | 3:15 | 2024-03-03 | 2024-03-05 |
 | [Steal My Attention](https://open.spotify.com/track/0tbrfWifXRO0HVwfjUBYvF) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Desiderium](https://open.spotify.com/album/5F5I5bpS03YzEwBRH3vrGh) | 4:20 | 2024-02-08 |  |
 | [Steal My Attention](https://open.spotify.com/track/3F2Vq9ZHzNZmHMBuaf4LcP) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Desiderium](https://open.spotify.com/album/2mhTitMTzAO14t7oxcXvaC) | 4:20 | 2023-05-02 | 2024-02-09 |
 | [Stigmatizing Sex](https://open.spotify.com/track/02bnahS6YFurzZoNoRdXUj) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 2:58 | 2023-05-02 |  |

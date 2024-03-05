@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 
 > This is Arch Enemy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,457 likes - 48 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,468 likes - 48 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 | 47 | [The Last Enemy](https://open.spotify.com/track/2PZLY7ybYMSzbk5WjKGF35) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Rise of the Tyrant](https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl) | 4:15 |
 | 48 | [Snow Bound](https://open.spotify.com/track/7p6uOhkvp95bbp4bKmLGcn) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Wages of Sin](https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ) | 1:32 |
 
-Snapshot ID: `Mjg0OTExMzksMDAwMDAwMDAwZTg3NmQ0YzMzZDY0ZmI5MGRkMjgzMzVlZTQ1NzM1Yw==`
+Snapshot ID: `Mjg0OTI1NjksMDAwMDAwMDA3YWMxMGNjZDVhZGQ3ZDllYThiYjE0MTcxMzBjNGU3ZQ==`

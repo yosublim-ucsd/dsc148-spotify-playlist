@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-348 songs - 21 hr 55 min
+349 songs - 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,8 @@
 | [Joy To The World](https://open.spotify.com/track/0r4oEPAhF9s4CymumKpPnj) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Joy To The World](https://open.spotify.com/album/1DUIGPji7naIzvcAHZqrbf) | 3:55 | 2021-12-24 |  |
 | [Joy To The World](https://open.spotify.com/track/2soNiIWAQItFQjo4yIfipv) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [Christmas: The Peace Project](https://open.spotify.com/album/6f6C3n1O2O6z5wDvwVBG2o) | 3:45 | 2021-12-24 |  |
 | [Joy to the World](https://open.spotify.com/track/2joShyZgEVz2HvQPBObGMj) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Joy to the World](https://open.spotify.com/album/6RuGvirkwRj40pdLi2TvhW) | 3:56 | 2021-12-24 | 2022-11-24 |
-| [Joy to the World](https://open.spotify.com/track/1pOqWKECO0gJwtYFr0A8yt) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [Joy to the World](https://open.spotify.com/album/146kgp4189ssjlBoLqe1Sn) | 2:43 | 2023-12-02 |  |
+| [Joy to the World](https://open.spotify.com/track/1pOqWKECO0gJwtYFr0A8yt) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [Joy to the World](https://open.spotify.com/album/146kgp4189ssjlBoLqe1Sn) | 2:43 | 2023-12-02 | 2024-03-05 |
+| [Joy to the World](https://open.spotify.com/track/7AhwEVUiUmDADTezn2ekCF) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [Joy to the World](https://open.spotify.com/album/32MKTgKY4v7OwIrPG7qEnj) | 2:43 | 2023-12-15 |  |
 | [Joy to the World](https://open.spotify.com/track/739dYvWsVLOEV05GEepGgu) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [A Mostly Acoustic Christmas](https://open.spotify.com/album/5Wu7eVxaAAFeI1Cxvd1zqx) | 3:47 | 2021-12-24 | 2022-07-26 |
 | [Joy To The World](https://open.spotify.com/track/4MKqPqXAC2xHkCZ6F0yBtp) | [Mary Oz](https://open.spotify.com/artist/05w0yASPYbEZ05m1CWfF0p) | [Joy To The World](https://open.spotify.com/album/4DTBHrhG5hr5Kp6H9H5ffo) | 3:52 | 2021-12-24 | 2023-11-29 |
 | [Joy to the World](https://open.spotify.com/track/3VWSzm2YOlw5D9XxRGbsk4) | [Rivers Crossing Worship](https://open.spotify.com/artist/7xuM274nFelfNPgItlKbUs), [Cross Worship](https://open.spotify.com/artist/09uw68tTAf3gYSPAktJa7f) | [Joy to the World](https://open.spotify.com/album/3T3AP4wj8CD4PtTLPWhTk3) | 4:18 | 2023-11-27 | 2023-12-03 |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 9600,
+  "num_followers": 9610,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NGZlMzNjYTBlYzQ5Njk1MzI1NGFkNmRmNzcxYWQwYTc1ODAwNDE0",
+  "snapshot_id": "MCw2NTBiMjkxODc3ZjI2NGQ5OWJhZjIzODFmYTAxMDM2ZjVhZGRiYmI5",
   "tracks": [
     {
       "added_at": "2023-09-22 05:25:00",
@@ -183,6 +183,26 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
+        "name": "Qui\u00e9n Lo Dir\u00eda?",
+        "url": "https://open.spotify.com/album/7xRccUSF7yzBqHH0wEN3S9"
+      },
+      "artists": [
+        {
+          "name": "Motherflowers",
+          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+        },
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Qui\u00e9n Lo Dir\u00eda?",
+      "url": "https://open.spotify.com/track/452m5ztdx9eWHArqp7Bg5Z"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
         "name": "El Sonido Nuevo de",
         "url": "https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh"
       },
@@ -203,22 +223,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "Capul\u00ed",
-        "url": "https://open.spotify.com/album/2oAG4DUG1vIVMOgtWsoqxA"
-      },
-      "artists": [
-        {
-          "name": "Luz Pinos",
-          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
-        }
-      ],
-      "duration_ms": 202770,
-      "name": "Capul\u00ed",
-      "url": "https://open.spotify.com/track/5yoQCiZjwoAKqBzqKlDdh5"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "Dame Un Break",
         "url": "https://open.spotify.com/album/1FOZrLg79d0DCro3tsnRJq"
       },
@@ -235,22 +239,34 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "Qui\u00e9n Lo Dir\u00eda?",
-        "url": "https://open.spotify.com/album/7xRccUSF7yzBqHH0wEN3S9"
+        "name": "Capul\u00ed",
+        "url": "https://open.spotify.com/album/2oAG4DUG1vIVMOgtWsoqxA"
       },
       "artists": [
         {
-          "name": "Motherflowers",
-          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
-        },
-        {
-          "name": "Apache",
-          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+          "name": "Luz Pinos",
+          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Qui\u00e9n Lo Dir\u00eda?",
-      "url": "https://open.spotify.com/track/452m5ztdx9eWHArqp7Bg5Z"
+      "duration_ms": 202770,
+      "name": "Capul\u00ed",
+      "url": "https://open.spotify.com/track/5yoQCiZjwoAKqBzqKlDdh5"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "La Revancha del Burro",
+        "url": "https://open.spotify.com/album/6wcGpbAMUEAMiqNuVS8nbt"
+      },
+      "artists": [
+        {
+          "name": "Systema Solar",
+          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
+        }
+      ],
+      "duration_ms": 311981,
+      "name": "El Boton del Pantalon",
+      "url": "https://open.spotify.com/track/5buBommaU2Fky8bZGd6aLW"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -279,22 +295,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "La Revancha del Burro",
-        "url": "https://open.spotify.com/album/6wcGpbAMUEAMiqNuVS8nbt"
-      },
-      "artists": [
-        {
-          "name": "Systema Solar",
-          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
-        }
-      ],
-      "duration_ms": 311981,
-      "name": "El Boton del Pantalon",
-      "url": "https://open.spotify.com/track/5buBommaU2Fky8bZGd6aLW"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "ADN (Cap\u00edtulo N)",
         "url": "https://open.spotify.com/album/5dsGcOBv9D6MNQWEBkFbxX"
       },
@@ -311,42 +311,6 @@
       "duration_ms": 182233,
       "name": "Am\u00e9rica",
       "url": "https://open.spotify.com/track/4xwUANiwIWZ2UkKxXzSSSJ"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
-        "name": "Feriado",
-        "url": "https://open.spotify.com/album/4QiIMsHtpCmGdPYYlhiMet"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 166399,
-      "name": "Feriado",
-      "url": "https://open.spotify.com/track/1cSkkHgh9Ff8zcQpkW71nf"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
-        "name": "NINA",
-        "url": "https://open.spotify.com/album/3X5avTBhMfVYYyrUeX385j"
-      },
-      "artists": [
-        {
-          "name": "Motherflowers",
-          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
-        },
-        {
-          "name": "Lil Supa",
-          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
-        }
-      ],
-      "duration_ms": 299000,
-      "name": "NINA",
-      "url": "https://open.spotify.com/track/1TByEjVxNgxuhYE27PokOf"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -403,6 +367,42 @@
       "duration_ms": 160900,
       "name": "Quiero Saber Qui\u00e9n Es Tu Novi@",
       "url": "https://open.spotify.com/track/3rFT4nxLLLpABC29tvk6vO"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "NINA",
+        "url": "https://open.spotify.com/album/3X5avTBhMfVYYyrUeX385j"
+      },
+      "artists": [
+        {
+          "name": "Motherflowers",
+          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+        },
+        {
+          "name": "Lil Supa",
+          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
+        }
+      ],
+      "duration_ms": 299000,
+      "name": "NINA",
+      "url": "https://open.spotify.com/track/1TByEjVxNgxuhYE27PokOf"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "Feriado",
+        "url": "https://open.spotify.com/album/4QiIMsHtpCmGdPYYlhiMet"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 166399,
+      "name": "Feriado",
+      "url": "https://open.spotify.com/track/1cSkkHgh9Ff8zcQpkW71nf"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -483,26 +483,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "Besos Ricos",
-        "url": "https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
-        }
-      ],
-      "duration_ms": 187715,
-      "name": "Besos Ricos",
-      "url": "https://open.spotify.com/track/1AeVenKA9w42gepptaabsD"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "Casa en el \u00e1rbol",
         "url": "https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR"
       },
@@ -515,30 +495,6 @@
       "duration_ms": 219807,
       "name": "Casa en el \u00e1rbol",
       "url": "https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
-        "name": "Porrito y a Dormir",
-        "url": "https://open.spotify.com/album/7ztuaXnjW3EncPTBd8jrjx"
-      },
-      "artists": [
-        {
-          "name": "Motherflowers",
-          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
-        },
-        {
-          "name": "Xico",
-          "url": "https://open.spotify.com/artist/0WIiW8BkOZHyMTGOAwCCi9"
-        },
-        {
-          "name": "GOE",
-          "url": "https://open.spotify.com/artist/4SrGQeETnkwVwPiLg81ywM"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Porrito y a Dormir",
-      "url": "https://open.spotify.com/track/4PhdGGaXW1swPZzE5dsM1v"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -579,6 +535,50 @@
       "duration_ms": 222857,
       "name": "Juguito de Ma\u00f1ana",
       "url": "https://open.spotify.com/track/4MHm3r8p0ZqCC7wzr7uNJs"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "Besos Ricos",
+        "url": "https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        }
+      ],
+      "duration_ms": 187715,
+      "name": "Besos Ricos",
+      "url": "https://open.spotify.com/track/1AeVenKA9w42gepptaabsD"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "Porrito y a Dormir",
+        "url": "https://open.spotify.com/album/7ztuaXnjW3EncPTBd8jrjx"
+      },
+      "artists": [
+        {
+          "name": "Motherflowers",
+          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+        },
+        {
+          "name": "Xico",
+          "url": "https://open.spotify.com/artist/0WIiW8BkOZHyMTGOAwCCi9"
+        },
+        {
+          "name": "GOE",
+          "url": "https://open.spotify.com/artist/4SrGQeETnkwVwPiLg81ywM"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Porrito y a Dormir",
+      "url": "https://open.spotify.com/track/4PhdGGaXW1swPZzE5dsM1v"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "En el Caribe Tambi\u00e9n Pasa Esto",
-        "url": "https://open.spotify.com/album/5nasMHFwjeW93OHvHwDWCp"
-      },
-      "artists": [
-        {
-          "name": "Buendia",
-          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
-        }
-      ],
-      "duration_ms": 233613,
-      "name": "Goz\u00e1 Goz\u00e1",
-      "url": "https://open.spotify.com/track/1Mi4KFAuHfJKRORYYNEQ9B"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "All Inclusive",
         "url": "https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 202888,
       "name": "Azul",
       "url": "https://open.spotify.com/track/7sIE5XUDPjx7W0kygSwQUU"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "En el Caribe Tambi\u00e9n Pasa Esto",
+        "url": "https://open.spotify.com/album/5nasMHFwjeW93OHvHwDWCp"
+      },
+      "artists": [
+        {
+          "name": "Buendia",
+          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
+        }
+      ],
+      "duration_ms": 233613,
+      "name": "Goz\u00e1 Goz\u00e1",
+      "url": "https://open.spotify.com/track/1Mi4KFAuHfJKRORYYNEQ9B"
     },
     {
       "added_at": "2023-09-22 05:25:00",

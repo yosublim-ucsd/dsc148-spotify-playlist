@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > New and trending hip\-hop from around the world\. Cover: Malik Montana & Lil Tjay
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,098 likes - 90 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,412 likes - 90 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 89 | [Souvenir](https://open.spotify.com/track/6a20iVTnMEjuLKtOFSUms1) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Unleaded](https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun) | [Souvenir](https://open.spotify.com/album/6PaR3f33lA3iXdy59U7g2m) | 2:46 |
 | 90 | [Paganini](https://open.spotify.com/track/34XnlHqQzVeqXTMXc7SVo0) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Paganini](https://open.spotify.com/album/3kI8OpMHBcp6Fb56Z1uGeZ) | 2:54 |
 
-Snapshot ID: `MCxmYzBkNTFkN2Y3MDEwNDNlZjdmZjE0OGFjMmI4MmUyNzJlZjRlY2Vm`
+Snapshot ID: `MCwyNWZjODkyMzQwYThiYWUyNTliZGNhMzIxYmEyMTI5ZWY4OTAwMzgw`

@@ -1,12 +1,12 @@
 {
   "description": "b\u00f8gdebangers du kan spelle i kjerra! ",
-  "num_followers": 107671,
+  "num_followers": 107684,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTQxZmQ3YmRkYmRiY2E0NzYzZjQ5Y2VhNzc2YmQ0NjEzMGNmMDlj",
+  "snapshot_id": "MCw5YjI5YzhkNDgyZmZhOGVmMGZlMTI1YTdiN2MzN2RmNWRhZjI0NGM1",
   "tracks": [
     {
       "added_at": "2024-02-29 23:00:00",
@@ -195,6 +195,22 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
+        "name": "En birra har aldrig",
+        "url": "https://open.spotify.com/album/20VAPgTHaxS6EAEtqW1Y1r"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 147375,
+      "name": "En birra har aldrig",
+      "url": "https://open.spotify.com/track/5wuTwGMr8gBge0J6MOZzcu"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
         "name": "Ungkar med dobbelseng",
         "url": "https://open.spotify.com/album/4dDEQ9v3nGadYyz1ykuG8y"
       },
@@ -235,22 +251,6 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "En birra har aldrig",
-        "url": "https://open.spotify.com/album/20VAPgTHaxS6EAEtqW1Y1r"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 147375,
-      "name": "En birra har aldrig",
-      "url": "https://open.spotify.com/track/5wuTwGMr8gBge0J6MOZzcu"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
         "name": "Bygda v\u00e5r",
         "url": "https://open.spotify.com/album/0LLyHCTAT1jgF0cnOioJJk"
       },
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "Berre i natt",
-        "url": "https://open.spotify.com/album/0ozDhiimWIbVeYO0Pbbxgj"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 229433,
-      "name": "Berre i natt",
-      "url": "https://open.spotify.com/track/6zUYBBR8WX5Yi2dESzrsLR"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
         "name": "Best p\u00e5 fest",
         "url": "https://open.spotify.com/album/2r8sm8wyxDUz1Isu8VE5ZG"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 160868,
       "name": "Best p\u00e5 fest",
       "url": "https://open.spotify.com/track/3qeetNg8dmL3KwYXT9R7wT"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
+        "name": "Berre i natt",
+        "url": "https://open.spotify.com/album/0ozDhiimWIbVeYO0Pbbxgj"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 229433,
+      "name": "Berre i natt",
+      "url": "https://open.spotify.com/track/6zUYBBR8WX5Yi2dESzrsLR"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -355,6 +355,22 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
+        "name": "Sju Fjell",
+        "url": "https://open.spotify.com/album/6G4i1PIp6o7sFrLThlIilQ"
+      },
+      "artists": [
+        {
+          "name": "El Papi",
+          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
+        }
+      ],
+      "duration_ms": 178171,
+      "name": "Sju Fjell",
+      "url": "https://open.spotify.com/track/04k0QThdHEp7kg3FpXVh0Q"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
         "name": "Helg",
         "url": "https://open.spotify.com/album/4Dgeqd8AMBpeYz2UWYiphl"
       },
@@ -375,18 +391,18 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "Sju Fjell",
-        "url": "https://open.spotify.com/album/6G4i1PIp6o7sFrLThlIilQ"
+        "name": "Hald deg fast",
+        "url": "https://open.spotify.com/album/1g3bKt16foB6q1quIvBawh"
       },
       "artists": [
         {
-          "name": "El Papi",
-          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
         }
       ],
-      "duration_ms": 178171,
-      "name": "Sju Fjell",
-      "url": "https://open.spotify.com/track/04k0QThdHEp7kg3FpXVh0Q"
+      "duration_ms": 201178,
+      "name": "Hald deg fast",
+      "url": "https://open.spotify.com/track/3RCG0v2Z1sDvZLYdFtAPbQ"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -411,22 +427,6 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "Hald deg fast",
-        "url": "https://open.spotify.com/album/1g3bKt16foB6q1quIvBawh"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 201178,
-      "name": "Hald deg fast",
-      "url": "https://open.spotify.com/track/3RCG0v2Z1sDvZLYdFtAPbQ"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
         "name": "FREDAG",
         "url": "https://open.spotify.com/album/6zBuRXhywr33CSy1QXxd46"
       },
@@ -447,22 +447,6 @@
       "duration_ms": 168398,
       "name": "FREDAG",
       "url": "https://open.spotify.com/track/7CrzOLGSbr4PFi9F9PNcJ4"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "Ligga low",
-        "url": "https://open.spotify.com/album/4TzKEBkFQ2kfL41bn7fm0d"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 151411,
-      "name": "Ligga low",
-      "url": "https://open.spotify.com/track/507T2C0pVA8P4cElwhfEuV"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -523,22 +507,18 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "B\u00f8gda",
-        "url": "https://open.spotify.com/album/2FlHmlFjUImjvasA84suRu"
+        "name": "Ligga low",
+        "url": "https://open.spotify.com/album/4TzKEBkFQ2kfL41bn7fm0d"
       },
       "artists": [
         {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        },
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
         }
       ],
-      "duration_ms": 164127,
-      "name": "B\u00f8gda",
-      "url": "https://open.spotify.com/track/1MpCvOlkM8VbH50AL7mAUm"
+      "duration_ms": 151411,
+      "name": "Ligga low",
+      "url": "https://open.spotify.com/track/507T2C0pVA8P4cElwhfEuV"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -563,6 +543,38 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
+        "name": "Konge p\u00e5 b\u00f8gda",
+        "url": "https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 180393,
+      "name": "Konge p\u00e5 b\u00f8gda",
+      "url": "https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
+        "name": "Hardanger",
+        "url": "https://open.spotify.com/album/02ryizgagnxpEPbjcRuplt"
+      },
+      "artists": [
+        {
+          "name": "Gunslingers",
+          "url": "https://open.spotify.com/artist/22qynacaVX8ZxSwS2uTJkX"
+        }
+      ],
+      "duration_ms": 236387,
+      "name": "Hardanger",
+      "url": "https://open.spotify.com/track/40ZhguqieJZ0AJTHKQY6Q4"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
         "name": "Vakker og vill",
         "url": "https://open.spotify.com/album/3Cfg2JAQxBaLTMDfecHAGj"
       },
@@ -579,18 +591,22 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "Konge p\u00e5 b\u00f8gda",
-        "url": "https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb"
+        "name": "B\u00f8gda",
+        "url": "https://open.spotify.com/album/2FlHmlFjUImjvasA84suRu"
       },
       "artists": [
         {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
         }
       ],
-      "duration_ms": 180393,
-      "name": "Konge p\u00e5 b\u00f8gda",
-      "url": "https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3"
+      "duration_ms": 164127,
+      "name": "B\u00f8gda",
+      "url": "https://open.spotify.com/track/1MpCvOlkM8VbH50AL7mAUm"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -615,22 +631,6 @@
       "duration_ms": 185884,
       "name": "En Siste Gang",
       "url": "https://open.spotify.com/track/6tt3Na8Vjw1H2fCUcUivi5"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "Hardanger",
-        "url": "https://open.spotify.com/album/02ryizgagnxpEPbjcRuplt"
-      },
-      "artists": [
-        {
-          "name": "Gunslingers",
-          "url": "https://open.spotify.com/artist/22qynacaVX8ZxSwS2uTJkX"
-        }
-      ],
-      "duration_ms": 236387,
-      "name": "Hardanger",
-      "url": "https://open.spotify.com/track/40ZhguqieJZ0AJTHKQY6Q4"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "P\u00e5 vei",
-        "url": "https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 236520,
-      "name": "Ei runde til",
-      "url": "https://open.spotify.com/track/0xjKyw8MYQY33BlY9bvqCS"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
         "name": "Eventyr",
         "url": "https://open.spotify.com/album/3k1qxu2Poumv9vMlu3toNt"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 147600,
       "name": "Eventyr",
       "url": "https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
+        "name": "P\u00e5 vei",
+        "url": "https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 236520,
+      "name": "Ei runde til",
+      "url": "https://open.spotify.com/track/0xjKyw8MYQY33BlY9bvqCS"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "Kompis",
-        "url": "https://open.spotify.com/album/1VzzEbtAMX3anDMFlIWWeE"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 161493,
-      "name": "Kompis",
-      "url": "https://open.spotify.com/track/0S1czUi29BRmzhNHO84EHf"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
         "name": "Jag Vill Vara Din Margareta",
         "url": "https://open.spotify.com/album/6QJVx7H5M4barKMggXATqm"
       },
@@ -875,6 +859,22 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
+        "name": "Kompis",
+        "url": "https://open.spotify.com/album/1VzzEbtAMX3anDMFlIWWeE"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 161493,
+      "name": "Kompis",
+      "url": "https://open.spotify.com/track/0S1czUi29BRmzhNHO84EHf"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
         "name": "\u00c6rbesk\u00e6r",
         "url": "https://open.spotify.com/album/2Wq5na5n7xXDAjeybcS8Ds"
       },
@@ -903,22 +903,6 @@
       "duration_ms": 166297,
       "name": "En gammal Amazon",
       "url": "https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "V\u00e5rrull",
-        "url": "https://open.spotify.com/album/3weP2oF0T3NhFCDJqXGIbx"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 137774,
-      "name": "V\u00e5rrull",
-      "url": "https://open.spotify.com/track/4tE2ySKkRFJtT36q5ie1fv"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -1003,6 +987,22 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
+        "name": "V\u00e5rrull",
+        "url": "https://open.spotify.com/album/3weP2oF0T3NhFCDJqXGIbx"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 137774,
+      "name": "V\u00e5rrull",
+      "url": "https://open.spotify.com/track/4tE2ySKkRFJtT36q5ie1fv"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
         "name": "Svensk i kv\u00e4ll",
         "url": "https://open.spotify.com/album/4XdVxdRjQoooI2KSapG1YX"
       },
@@ -1019,6 +1019,22 @@
       "duration_ms": 124661,
       "name": "Svensk i kv\u00e4ll",
       "url": "https://open.spotify.com/track/0C2UfLRDNB0oOt8nYyJRYu"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
+        "name": "29 tonn",
+        "url": "https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv"
+      },
+      "artists": [
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        }
+      ],
+      "duration_ms": 198268,
+      "name": "29 tonn",
+      "url": "https://open.spotify.com/track/1pSEXjBnrgZiHHs45k6pEI"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -1055,22 +1071,6 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "29 tonn",
-        "url": "https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv"
-      },
-      "artists": [
-        {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
-        }
-      ],
-      "duration_ms": 198268,
-      "name": "29 tonn",
-      "url": "https://open.spotify.com/track/1pSEXjBnrgZiHHs45k6pEI"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
         "name": "Livet p\u00e5 b\u00f8gda",
         "url": "https://open.spotify.com/album/0ZOlf5ki6keYctTeoxR5tv"
       },
@@ -1087,22 +1087,6 @@
       "duration_ms": 153843,
       "name": "Livet p\u00e5 b\u00f8gda",
       "url": "https://open.spotify.com/track/5W1Aap840SZeiSyU2rK912"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "Besseggen",
-        "url": "https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 165612,
-      "name": "Besseggen",
-      "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -1139,6 +1123,22 @@
       "duration_ms": 148520,
       "name": "Kjerring i fra by\u2019n",
       "url": "https://open.spotify.com/track/6Wcu2LamzXhBOgDUn47g9u"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
+        "name": "Besseggen",
+        "url": "https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 165612,
+      "name": "Besseggen",
+      "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "Ja vi elsker (Typisk Norsk 2019)",
-        "url": "https://open.spotify.com/album/51IOa1Q0fzTyqCebspEkxV"
-      },
-      "artists": [
-        {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
-        }
-      ],
-      "duration_ms": 164905,
-      "name": "Ja vi elsker (Typisk Norsk 2019)",
-      "url": "https://open.spotify.com/track/57kBFnmwCPxjkaIWPnhhkl"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
         "name": "Bygdas Rebell",
         "url": "https://open.spotify.com/album/6YXW2dsokchMdhS7N7uvov"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 221833,
       "name": "Bygdas Rebell",
       "url": "https://open.spotify.com/track/5xyYHVflU5uGbxrTTurSkR"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
+        "name": "Bara vara med dig",
+        "url": "https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY"
+      },
+      "artists": [
+        {
+          "name": "Kevin Boine",
+          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+        }
+      ],
+      "duration_ms": 161267,
+      "name": "Bara vara med dig",
+      "url": "https://open.spotify.com/track/6XyttiDC9XtzILqteIADau"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

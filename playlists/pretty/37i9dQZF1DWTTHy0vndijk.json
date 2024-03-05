@@ -1,12 +1,12 @@
 {
   "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: ADORA x NATTY of KISS OF LIFE (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 525589,
+  "num_followers": 525632,
   "original_name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmU5MTEzNjUzNGEwZjc1NzA4YjlhYjc0NGE5NjU4ODZiOWUyMzNm",
+  "snapshot_id": "MCxlYmQ2N2U2NDU0OTk0NDg4MDI3ZDQzMDM1Yjc2NGEwYjg4ZjNlMzQ2",
   "tracks": [
     {
       "added_at": "2024-03-01 09:09:43",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-03-01 09:09:43",
       "album": {
-        "name": "Off The Record",
-        "url": "https://open.spotify.com/album/7qch1xWGWuU5VxZEYBF5KW"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 188733,
-      "name": "Off The Record",
-      "url": "https://open.spotify.com/track/3G7MgLuWLzUJQflWOCDZit"
-    },
-    {
-      "added_at": "2024-03-01 09:09:43",
-      "album": {
         "name": "Summer Nights",
         "url": "https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 208240,
       "name": "What is Love",
       "url": "https://open.spotify.com/track/3zhbXKFjUDw40pTYyCgt1Y"
+    },
+    {
+      "added_at": "2024-03-01 09:09:43",
+      "album": {
+        "name": "Off The Record",
+        "url": "https://open.spotify.com/album/7qch1xWGWuU5VxZEYBF5KW"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 188733,
+      "name": "Off The Record",
+      "url": "https://open.spotify.com/track/3G7MgLuWLzUJQflWOCDZit"
     },
     {
       "added_at": "2024-03-01 09:09:43",
@@ -223,38 +223,6 @@
     {
       "added_at": "2024-03-01 09:09:43",
       "album": {
-        "name": "We play",
-        "url": "https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9"
-      },
-      "artists": [
-        {
-          "name": "Weeekly",
-          "url": "https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "After School",
-      "url": "https://open.spotify.com/track/52CBUrIdyf8tbZaUY9iawE"
-    },
-    {
-      "added_at": "2024-03-01 09:09:43",
-      "album": {
-        "name": "FANCY YOU",
-        "url": "https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 213880,
-      "name": "FANCY",
-      "url": "https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt"
-    },
-    {
-      "added_at": "2024-03-01 09:09:43",
-      "album": {
         "name": "Ditto",
         "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
       },
@@ -267,6 +235,22 @@
       "duration_ms": 185506,
       "name": "Ditto",
       "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
+    },
+    {
+      "added_at": "2024-03-01 09:09:43",
+      "album": {
+        "name": "We play",
+        "url": "https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9"
+      },
+      "artists": [
+        {
+          "name": "Weeekly",
+          "url": "https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "After School",
+      "url": "https://open.spotify.com/track/52CBUrIdyf8tbZaUY9iawE"
     },
     {
       "added_at": "2024-03-01 09:09:43",
@@ -319,6 +303,22 @@
     {
       "added_at": "2024-03-01 09:09:43",
       "album": {
+        "name": "FANCY YOU",
+        "url": "https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 213880,
+      "name": "FANCY",
+      "url": "https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt"
+    },
+    {
+      "added_at": "2024-03-01 09:09:43",
+      "album": {
         "name": "One-reeler / Act IV",
         "url": "https://open.spotify.com/album/3gfl9D7cMW3K87YiMbqsWK"
       },
@@ -331,6 +331,38 @@
       "duration_ms": 222853,
       "name": "Panorama",
       "url": "https://open.spotify.com/track/0CnpSTdL9l5vQM4YnzXtyo"
+    },
+    {
+      "added_at": "2024-03-01 09:09:43",
+      "album": {
+        "name": "\u2018The ReVe Festival 2022 - Feel My Rhythm\u2019",
+        "url": "https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 210253,
+      "name": "Feel My Rhythm",
+      "url": "https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za"
+    },
+    {
+      "added_at": "2024-03-01 09:09:43",
+      "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 235562,
+      "name": "Cookie",
+      "url": "https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg"
     },
     {
       "added_at": "2024-03-01 09:09:43",
@@ -367,38 +399,6 @@
     {
       "added_at": "2024-03-01 09:09:43",
       "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 235562,
-      "name": "Cookie",
-      "url": "https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg"
-    },
-    {
-      "added_at": "2024-03-01 09:09:43",
-      "album": {
-        "name": "\u2018The ReVe Festival 2022 - Feel My Rhythm\u2019",
-        "url": "https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 210253,
-      "name": "Feel My Rhythm",
-      "url": "https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za"
-    },
-    {
-      "added_at": "2024-03-01 09:09:43",
-      "album": {
         "name": "GREAT!",
         "url": "https://open.spotify.com/album/5vt2sEP5J0VNbYXoA7h2k4"
       },
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-03-01 09:09:43",
       "album": {
+        "name": "The Red Summer - Summer Mini Album",
+        "url": "https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 191139,
+      "name": "Red Flavor",
+      "url": "https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO"
+    },
+    {
+      "added_at": "2024-03-01 09:09:43",
+      "album": {
         "name": "Roller Coaster",
         "url": "https://open.spotify.com/album/1brnEznuO5sOFwX5cgblYw"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 179373,
       "name": "Roller Coaster",
       "url": "https://open.spotify.com/track/1fP8o0lIaSIE5jEeblT8df"
-    },
-    {
-      "added_at": "2024-03-01 09:09:43",
-      "album": {
-        "name": "Twicecoaster: Lane 1",
-        "url": "https://open.spotify.com/album/5zQhaDNbiXHRqd8Y51I4vy"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 212986,
-      "name": "TT",
-      "url": "https://open.spotify.com/track/60jFaQV7Z4boGC4ob5B5c6"
     },
     {
       "added_at": "2024-03-01 09:09:43",
@@ -483,6 +483,22 @@
     {
       "added_at": "2024-03-01 09:09:43",
       "album": {
+        "name": "Twicecoaster: Lane 1",
+        "url": "https://open.spotify.com/album/5zQhaDNbiXHRqd8Y51I4vy"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 212986,
+      "name": "TT",
+      "url": "https://open.spotify.com/track/60jFaQV7Z4boGC4ob5B5c6"
+    },
+    {
+      "added_at": "2024-03-01 09:09:43",
+      "album": {
         "name": "STEREOTYPE",
         "url": "https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj"
       },
@@ -495,6 +511,22 @@
       "duration_ms": 191695,
       "name": "STEREOTYPE",
       "url": "https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd"
+    },
+    {
+      "added_at": "2024-03-01 09:09:43",
+      "album": {
+        "name": "Queendom - The 6th Mini Album",
+        "url": "https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 181760,
+      "name": "Queendom",
+      "url": "https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ"
     },
     {
       "added_at": "2024-03-01 09:09:43",
@@ -519,50 +551,18 @@
     {
       "added_at": "2024-03-01 09:09:43",
       "album": {
-        "name": "Midnight Guest",
-        "url": "https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR"
+        "name": "Young, Dumb, Stupid",
+        "url": "https://open.spotify.com/album/4OEXCY70MiuMJaenbxxRb2"
       },
       "artists": [
         {
-          "name": "fromis_9",
-          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
         }
       ],
-      "duration_ms": 204293,
-      "name": "DM",
-      "url": "https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8"
-    },
-    {
-      "added_at": "2024-03-01 09:09:43",
-      "album": {
-        "name": "The Red Summer - Summer Mini Album",
-        "url": "https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 191139,
-      "name": "Red Flavor",
-      "url": "https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO"
-    },
-    {
-      "added_at": "2024-03-01 09:09:43",
-      "album": {
-        "name": "GFRIEND 2nd Mini Album 'Flower Bud'",
-        "url": "https://open.spotify.com/album/2mou6C67yLJkKWjV0FuXg7"
-      },
-      "artists": [
-        {
-          "name": "GFRIEND",
-          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
-        }
-      ],
-      "duration_ms": 220745,
-      "name": "Me Gustas Tu",
-      "url": "https://open.spotify.com/track/6x7fux7bZEfnChKx3nhSZn"
+      "duration_ms": 190786,
+      "name": "Young, Dumb, Stupid",
+      "url": "https://open.spotify.com/track/09BWOhiJUaYufcOiKCA973"
     },
     {
       "added_at": "2024-03-01 09:09:43",
@@ -583,18 +583,34 @@
     {
       "added_at": "2024-03-01 09:09:43",
       "album": {
-        "name": "Young, Dumb, Stupid",
-        "url": "https://open.spotify.com/album/4OEXCY70MiuMJaenbxxRb2"
+        "name": "Midnight Guest",
+        "url": "https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR"
       },
       "artists": [
         {
-          "name": "NMIXX",
-          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+          "name": "fromis_9",
+          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
         }
       ],
-      "duration_ms": 190786,
-      "name": "Young, Dumb, Stupid",
-      "url": "https://open.spotify.com/track/09BWOhiJUaYufcOiKCA973"
+      "duration_ms": 204293,
+      "name": "DM",
+      "url": "https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8"
+    },
+    {
+      "added_at": "2024-03-01 09:09:43",
+      "album": {
+        "name": "GFRIEND 2nd Mini Album 'Flower Bud'",
+        "url": "https://open.spotify.com/album/2mou6C67yLJkKWjV0FuXg7"
+      },
+      "artists": [
+        {
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+        }
+      ],
+      "duration_ms": 220745,
+      "name": "Me Gustas Tu",
+      "url": "https://open.spotify.com/track/6x7fux7bZEfnChKx3nhSZn"
     },
     {
       "added_at": "2024-03-01 09:09:43",
@@ -631,22 +647,6 @@
     {
       "added_at": "2024-03-01 09:09:43",
       "album": {
-        "name": "SeVit (NEW LIGHT)",
-        "url": "https://open.spotify.com/album/61JnxeeeqpmJ6rVBrfq4ak"
-      },
-      "artists": [
-        {
-          "name": "VCHA",
-          "url": "https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s"
-        }
-      ],
-      "duration_ms": 154852,
-      "name": "Y.O.Universe",
-      "url": "https://open.spotify.com/track/0es6ZsB0mFqnCAAMCHjVUO"
-    },
-    {
-      "added_at": "2024-03-01 09:09:43",
-      "album": {
         "name": "TEENFRESH",
         "url": "https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x"
       },
@@ -659,6 +659,22 @@
       "duration_ms": 179275,
       "name": "Bubble",
       "url": "https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO"
+    },
+    {
+      "added_at": "2024-03-01 09:09:43",
+      "album": {
+        "name": "SeVit (NEW LIGHT)",
+        "url": "https://open.spotify.com/album/61JnxeeeqpmJ6rVBrfq4ak"
+      },
+      "artists": [
+        {
+          "name": "VCHA",
+          "url": "https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s"
+        }
+      ],
+      "duration_ms": 154852,
+      "name": "Y.O.Universe",
+      "url": "https://open.spotify.com/track/0es6ZsB0mFqnCAAMCHjVUO"
     },
     {
       "added_at": "2024-03-01 09:09:43",
@@ -679,38 +695,6 @@
     {
       "added_at": "2024-03-01 09:09:43",
       "album": {
-        "name": "GFRIEND 3rd Mini Album 'SNOWFLAKE'",
-        "url": "https://open.spotify.com/album/0COnSwFb5qOhABUyWNw6Kp"
-      },
-      "artists": [
-        {
-          "name": "GFRIEND",
-          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
-        }
-      ],
-      "duration_ms": 209104,
-      "name": "Rough",
-      "url": "https://open.spotify.com/track/3CVeGXpoPKJQ9JuhPp3mpL"
-    },
-    {
-      "added_at": "2024-03-01 09:09:43",
-      "album": {
-        "name": "Queendom - The 6th Mini Album",
-        "url": "https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 181760,
-      "name": "Queendom",
-      "url": "https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ"
-    },
-    {
-      "added_at": "2024-03-01 09:09:43",
-      "album": {
         "name": "THE THIRD SINGLE CATALLENA",
         "url": "https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY"
       },
@@ -727,18 +711,18 @@
     {
       "added_at": "2024-03-01 09:09:43",
       "album": {
-        "name": "YOUNG-LUV.COM",
-        "url": "https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o"
+        "name": "GFRIEND 3rd Mini Album 'SNOWFLAKE'",
+        "url": "https://open.spotify.com/album/0COnSwFb5qOhABUyWNw6Kp"
       },
       "artists": [
         {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
         }
       ],
-      "duration_ms": 213426,
-      "name": "RUN2U",
-      "url": "https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8"
+      "duration_ms": 209104,
+      "name": "Rough",
+      "url": "https://open.spotify.com/track/3CVeGXpoPKJQ9JuhPp3mpL"
     },
     {
       "added_at": "2024-03-01 09:09:43",
@@ -787,6 +771,22 @@
       "duration_ms": 214750,
       "name": "Mr. Chu",
       "url": "https://open.spotify.com/track/6fT9eZYgSvhu9v8wzrZkdG"
+    },
+    {
+      "added_at": "2024-03-01 09:09:43",
+      "album": {
+        "name": "YOUNG-LUV.COM",
+        "url": "https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 213426,
+      "name": "RUN2U",
+      "url": "https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8"
     },
     {
       "added_at": "2024-03-01 09:09:43",

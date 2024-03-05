@@ -1,12 +1,12 @@
 {
   "description": "Con licuachela en mano y perreando hasta el piso. Bellakath en portada ",
-  "num_followers": 17762,
+  "num_followers": 17780,
   "original_name": "CHAKAL\u00d3N ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWRhMTM2OWExYWI1N2M3NzI3MTYzOTZmNzdhOWI2M2U2NjY2NWVj",
+  "snapshot_id": "MCwxMjcwNzBiNzViYWMyYmYwYTVjOTFkNmQ1ZDgzYzdiODNjNTg4ODRl",
   "tracks": [
     {
       "added_at": "2024-02-26 15:42:39",
@@ -555,30 +555,6 @@
     {
       "added_at": "2024-02-26 15:42:39",
       "album": {
-        "name": "Y Yo Me Le Pego",
-        "url": "https://open.spotify.com/album/6iCJj6kFxBEoswtbzxxlBu"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        },
-        {
-          "name": "Profeta Yao Yao",
-          "url": "https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb"
-        },
-        {
-          "name": "Smi-Lee",
-          "url": "https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA"
-        }
-      ],
-      "duration_ms": 172806,
-      "name": "Y Yo Me Le Pego",
-      "url": "https://open.spotify.com/track/4PpktF1wMyXtNgADgcdgqT"
-    },
-    {
-      "added_at": "2024-02-26 15:42:39",
-      "album": {
         "name": "Espantan (Remix)",
         "url": "https://open.spotify.com/album/0JRUGOfvqo7A2l6NYPnjY5"
       },
@@ -607,6 +583,30 @@
       "duration_ms": 218019,
       "name": "Espantan - Remix",
       "url": "https://open.spotify.com/track/2EocM6oTLy6WUBTCipObqj"
+    },
+    {
+      "added_at": "2024-02-26 15:42:39",
+      "album": {
+        "name": "Y Yo Me Le Pego",
+        "url": "https://open.spotify.com/album/6iCJj6kFxBEoswtbzxxlBu"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Profeta Yao Yao",
+          "url": "https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb"
+        },
+        {
+          "name": "Smi-Lee",
+          "url": "https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA"
+        }
+      ],
+      "duration_ms": 172806,
+      "name": "Y Yo Me Le Pego",
+      "url": "https://open.spotify.com/track/4PpktF1wMyXtNgADgcdgqT"
     },
     {
       "added_at": "2024-02-26 15:42:39",
@@ -727,26 +727,6 @@
     {
       "added_at": "2024-02-26 15:42:39",
       "album": {
-        "name": "MAMI CHAKALOSA",
-        "url": "https://open.spotify.com/album/7qNA059vQm84DreXknnuHr"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        },
-        {
-          "name": "Yeyo",
-          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
-        }
-      ],
-      "duration_ms": 136843,
-      "name": "MAMI CHAKALOSA",
-      "url": "https://open.spotify.com/track/4fCyHWNFN6fOrPyoqVqezw"
-    },
-    {
-      "added_at": "2024-02-26 15:42:39",
-      "album": {
         "name": "Tra Tra Tra Remix",
         "url": "https://open.spotify.com/album/4TntWxJmNQSZJGcj3ewRBc"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 171000,
       "name": "Tra Tra Tra Remix - Remix",
       "url": "https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm"
+    },
+    {
+      "added_at": "2024-02-26 15:42:39",
+      "album": {
+        "name": "MAMI CHAKALOSA",
+        "url": "https://open.spotify.com/album/7qNA059vQm84DreXknnuHr"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
+        }
+      ],
+      "duration_ms": 136843,
+      "name": "MAMI CHAKALOSA",
+      "url": "https://open.spotify.com/track/4fCyHWNFN6fOrPyoqVqezw"
     },
     {
       "added_at": "2024-02-26 15:42:39",
@@ -915,6 +915,30 @@
     {
       "added_at": "2024-02-26 15:42:39",
       "album": {
+        "name": "\u00d1ero Session 5",
+        "url": "https://open.spotify.com/album/1b25E6COH3BjrqsLk7ee7n"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Tensec",
+          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
+        }
+      ],
+      "duration_ms": 147633,
+      "name": "\u00d1ero Session 5",
+      "url": "https://open.spotify.com/track/5co8AgOcUyEy0dxmIVWo45"
+    },
+    {
+      "added_at": "2024-02-26 15:42:39",
+      "album": {
         "name": "Azote",
         "url": "https://open.spotify.com/album/2IvC3pPmUw7QDAamPXP0i8"
       },
@@ -983,30 +1007,6 @@
       "duration_ms": 183040,
       "name": "Hora de Salir",
       "url": "https://open.spotify.com/track/6yv9it6siINSacVKHrgLmI"
-    },
-    {
-      "added_at": "2024-02-26 15:42:39",
-      "album": {
-        "name": "\u00d1ero Session 5",
-        "url": "https://open.spotify.com/album/1b25E6COH3BjrqsLk7ee7n"
-      },
-      "artists": [
-        {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
-        },
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        },
-        {
-          "name": "Tensec",
-          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
-        }
-      ],
-      "duration_ms": 147633,
-      "name": "\u00d1ero Session 5",
-      "url": "https://open.spotify.com/track/5co8AgOcUyEy0dxmIVWo45"
     },
     {
       "added_at": "2024-02-26 15:42:39",
@@ -1387,6 +1387,54 @@
     {
       "added_at": "2024-02-26 15:42:39",
       "album": {
+        "name": "Caramelo (feat. DJ Esli, Michael G & B&B)",
+        "url": "https://open.spotify.com/album/0tMYxu1s8sIInR538bQcz8"
+      },
+      "artists": [
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "B&b",
+          "url": "https://open.spotify.com/artist/7a62sLCBUNRLonwRpuO83Q"
+        },
+        {
+          "name": "Dj Esli",
+          "url": "https://open.spotify.com/artist/10qjZu7jW6R0cuqwY40SVd"
+        },
+        {
+          "name": "Michael G",
+          "url": "https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3"
+        }
+      ],
+      "duration_ms": 229125,
+      "name": "Caramelo (feat. DJ Esli, Michael G & B&B)",
+      "url": "https://open.spotify.com/track/6P84crmqVzt4685QoMnjb0"
+    },
+    {
+      "added_at": "2024-02-26 15:42:39",
+      "album": {
+        "name": "\u00d1ero Session 8",
+        "url": "https://open.spotify.com/album/0lBWP5l7mhQ4afnp8RVZ2C"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Jossie A",
+          "url": "https://open.spotify.com/artist/3wXd0N7IkY2bZ4KMbhmBJ5"
+        }
+      ],
+      "duration_ms": 144468,
+      "name": "\u00d1ero Session 8",
+      "url": "https://open.spotify.com/track/4K4d0aCB2G7oULFGnR8UYv"
+    },
+    {
+      "added_at": "2024-02-26 15:42:39",
+      "album": {
         "name": "Me Dice Daddy",
         "url": "https://open.spotify.com/album/2tGkd9dkjlnis2J1JDS0bs"
       },
@@ -1455,54 +1503,6 @@
     {
       "added_at": "2024-02-26 15:42:39",
       "album": {
-        "name": "Caramelo (feat. DJ Esli, Michael G & B&B)",
-        "url": "https://open.spotify.com/album/0tMYxu1s8sIInR538bQcz8"
-      },
-      "artists": [
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        },
-        {
-          "name": "B&b",
-          "url": "https://open.spotify.com/artist/7a62sLCBUNRLonwRpuO83Q"
-        },
-        {
-          "name": "Dj Esli",
-          "url": "https://open.spotify.com/artist/10qjZu7jW6R0cuqwY40SVd"
-        },
-        {
-          "name": "Michael G",
-          "url": "https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3"
-        }
-      ],
-      "duration_ms": 229125,
-      "name": "Caramelo (feat. DJ Esli, Michael G & B&B)",
-      "url": "https://open.spotify.com/track/6P84crmqVzt4685QoMnjb0"
-    },
-    {
-      "added_at": "2024-02-26 15:42:39",
-      "album": {
-        "name": "\u00d1ero Session 8",
-        "url": "https://open.spotify.com/album/0lBWP5l7mhQ4afnp8RVZ2C"
-      },
-      "artists": [
-        {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
-        },
-        {
-          "name": "Jossie A",
-          "url": "https://open.spotify.com/artist/3wXd0N7IkY2bZ4KMbhmBJ5"
-        }
-      ],
-      "duration_ms": 144468,
-      "name": "\u00d1ero Session 8",
-      "url": "https://open.spotify.com/track/4K4d0aCB2G7oULFGnR8UYv"
-    },
-    {
-      "added_at": "2024-02-26 15:42:39",
-      "album": {
         "name": "Peli-Culeo (Remix)",
         "url": "https://open.spotify.com/album/6r9E0ojkW7EHWBKLgznPME"
       },
@@ -1531,6 +1531,26 @@
       "duration_ms": 221646,
       "name": "Peli-Culeo - Remix",
       "url": "https://open.spotify.com/track/0fHpcRj2Jog7fHYB6DbOZF"
+    },
+    {
+      "added_at": "2024-02-26 15:42:39",
+      "album": {
+        "name": "\u00d1ero Session 7",
+        "url": "https://open.spotify.com/album/0kXgMtDQPGRvXY91yOOLZB"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Los Menores",
+          "url": "https://open.spotify.com/artist/51YrdVc67EHkCDRJMHxJal"
+        }
+      ],
+      "duration_ms": 183012,
+      "name": "\u00d1ero Session 7",
+      "url": "https://open.spotify.com/track/1tDpUBaXfL5mLqL4pHCxMu"
     },
     {
       "added_at": "2024-02-26 15:42:39",
@@ -1639,26 +1659,6 @@
       "duration_ms": 216032,
       "name": "Rompe La Discoteca",
       "url": "https://open.spotify.com/track/0eQWSNIz6EqM0DybEyOsJR"
-    },
-    {
-      "added_at": "2024-02-26 15:42:39",
-      "album": {
-        "name": "\u00d1ero Session 7",
-        "url": "https://open.spotify.com/album/0kXgMtDQPGRvXY91yOOLZB"
-      },
-      "artists": [
-        {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
-        },
-        {
-          "name": "Los Menores",
-          "url": "https://open.spotify.com/artist/51YrdVc67EHkCDRJMHxJal"
-        }
-      ],
-      "duration_ms": 183012,
-      "name": "\u00d1ero Session 7",
-      "url": "https://open.spotify.com/track/1tDpUBaXfL5mLqL4pHCxMu"
     },
     {
       "added_at": "2024-02-26 15:42:39",

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Monika Kruse
 
-[Spotify](https://open.spotify.com/user/spotify) - 631,939 likes - 80 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 632,048 likes - 80 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Flashback 98](https://open.spotify.com/track/2jfIBEjBw8aaWKXbouaMeV) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg) | [Flashback 98](https://open.spotify.com/album/4qL2gku5i5jFNLfLO9NvRP) | 3:31 |
 | 2 | [You're Not Alone](https://open.spotify.com/track/0WTtGE4UaKUDpAE4aouoa8) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [You're Not Alone](https://open.spotify.com/album/2lhXVnPLcvmPhexeNmV37m) | 3:34 |
 | 3 | [Fine Day](https://open.spotify.com/track/3HCl43sITVpqHnCwMHTNxk) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Fine Day](https://open.spotify.com/album/0CvSM3QZgTG0a1Z0PGSQ38) | 3:23 |
-| 4 | [Hard dreams](https://open.spotify.com/track/1sJAQWkZdaJDsPifl1fvOd) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Hard dreams](https://open.spotify.com/album/15kCPeNnhlUuZfKyr1CJuy) | 2:50 |
+| 4 | [Hard dreams](https://open.spotify.com/track/1sJAQWkZdaJDsPifl1fvOd) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP), [Yan Wagner](https://open.spotify.com/artist/7JLtS4ASAUsAYrsShMerMc) | [Hard dreams](https://open.spotify.com/album/15kCPeNnhlUuZfKyr1CJuy) | 2:50 |
 | 5 | [Costa](https://open.spotify.com/track/05GvOQ80VlYgXHuxw6fUN0) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a) | [Costa](https://open.spotify.com/album/4UcJqhrm2kvj0dWn8yr5B7) | 3:36 |
 | 6 | [Hope](https://open.spotify.com/track/4iS8MoiRasXKQ1uau1El4I) | [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5) | [Hope](https://open.spotify.com/album/7qkavs8CKR1qKKIisUa6GY) | 6:51 |
 | 7 | [Validate Yourself](https://open.spotify.com/track/249Y2brBzrAIOs1CTLwoyy) | [Hugo Cantarra](https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n), [ZAC](https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [Validate Yourself](https://open.spotify.com/album/1csBQaQhs68za8W5fH1jeD) | 3:55 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 79 | [Hold On](https://open.spotify.com/track/6gvOGuQckd1UoDU75WTnDx) | [Dave Seaman](https://open.spotify.com/artist/3TjRLW97EAU4w6knKVBl73), [Shola Phillips](https://open.spotify.com/artist/28sPI1wCY2agHaLPz2Y5O3) | [Hold On](https://open.spotify.com/album/2c9Yhje0VJyim3VwoBHmnr) | 4:04 |
 | 80 | [About Love \- Kadosh Remix](https://open.spotify.com/track/0RiBPTf94I0tATDNCmHf48) | [Captain Mustache](https://open.spotify.com/artist/4Rzze0ulVeq1o9r6Gsb4TF), [Speakwave](https://open.spotify.com/artist/2Rn9AHu76qqn3BTSEkdm9Y), [Kadosh \(IL\)](https://open.spotify.com/artist/3e1Dyl2ZhXliPe3Mls724W) | [About Love \(Kadosh Remix\)](https://open.spotify.com/album/5SW43YqROwX3lOhpPRFGZg) | 5:13 |
 
-Snapshot ID: `MCwzZjYxMDJmZmJiOWY1NzE2OGI4ZWUxODgyMWViMTlmODA2MjAwMmY4`
+Snapshot ID: `MCwwZmJlZTgzY2UzOTg0ZDAxZDIwMDY0NzEzZGY4YjhkMTYxMWQ2NGU5`

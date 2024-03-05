@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Charli XCX
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,346 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,062 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 30 | [We Groovin \(with Jazzy\)](https://open.spotify.com/track/6LiuMpZjyjjuXFP5Ljo9bv) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [We Groovin \(with Jazzy\)](https://open.spotify.com/album/21mqL1eOj7aRJQUwOQakcH) | 3:01 |
 | 31 | [Tony Montana](https://open.spotify.com/track/3mARtPEP8hi1LzMctEwVN4) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Tony Montana](https://open.spotify.com/album/2AInHQaDznimTKHL0m3M0h) | 3:27 |
 | 32 | [PRIMER AVISO](https://open.spotify.com/track/6EWPFLaVPVmuhmA7J3ASP8) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [PRIMER AVISO](https://open.spotify.com/album/5sB0kl214YdtiZau62Aepo) | 3:02 |
-| 33 | [Hard dreams](https://open.spotify.com/track/1sJAQWkZdaJDsPifl1fvOd) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Hard dreams](https://open.spotify.com/album/15kCPeNnhlUuZfKyr1CJuy) | 2:50 |
+| 33 | [Hard dreams](https://open.spotify.com/track/1sJAQWkZdaJDsPifl1fvOd) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP), [Yan Wagner](https://open.spotify.com/artist/7JLtS4ASAUsAYrsShMerMc) | [Hard dreams](https://open.spotify.com/album/15kCPeNnhlUuZfKyr1CJuy) | 2:50 |
 | 34 | [Out Loud](https://open.spotify.com/track/6Yx5Cw2mVmx6LiVP2VXWEO) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Out Loud](https://open.spotify.com/album/2Yoh27G61AmIKH2ubk2RSb) | 3:20 |
 | 35 | [hummingbird](https://open.spotify.com/track/5HAff5WrHbF6Z5OQ87xMYY) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [hummingbird](https://open.spotify.com/album/7uWRQGtSciziEDFxqcWNkS) | 4:27 |
 | 36 | [La Chica\-cá](https://open.spotify.com/track/4wWTiDyPTF63sfMM1n2vpS) | [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [La Chica\-cá](https://open.spotify.com/album/2vWpiroIhTQMfaKUCYsyhT) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Troublemaker](https://open.spotify.com/track/0qh5LnJ77G0YqtEFEFTBvc) | [Trey Lewis](https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO) | [Troublemaker](https://open.spotify.com/album/2yBRlclfDYwbPLWHUvuKoS) | 3:24 |
 | 100 | [Raise Your Hands](https://open.spotify.com/track/1WAgMzQu2hQcJlmRu3P6Cp) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9), [John Squire](https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ) | [Liam Gallagher & John Squire](https://open.spotify.com/album/3Neqbz02HyUyqoI5G3AS1K) | 4:20 |
 
-Snapshot ID: `MCwzODAwN2I5OWM3MzhhMjI3ZTNjNDZjNzQ2ZDE4ZTc1MDU0Nzc2ZGNi`
+Snapshot ID: `MCw1MTI4ZmRjNWRmZjkzZGE3ZGUxZTY2YTllM2QzOWZhODdhZDk2Mzcx`

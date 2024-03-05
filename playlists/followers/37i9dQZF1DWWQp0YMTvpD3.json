@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 2031,
+  "2024-03-05": 2031,
   "date_first_scraped": "2021-12-21",
   "description": "Uplifting, slow House music to work or relax to. ",
   "name": "Mellow House",
@@ -1196,6 +1196,24 @@
     },
     {
       "album": {
+        "name": "Coco Beach",
+        "url": "https://open.spotify.com/album/7gAtT1TV1JvMVQsHA1kHtt"
+      },
+      "artists": [
+        {
+          "name": "Narbonne",
+          "url": "https://open.spotify.com/artist/67YpdlqdEUGf3xJGIGudLr"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125630,
+      "name": "Coco Beach",
+      "url": "https://open.spotify.com/track/2Vj4oHCZ2i01a5hR6GgChq"
+    },
+    {
+      "album": {
         "name": "Cold Desert",
         "url": "https://open.spotify.com/album/7yYiEMCtoSYc8QenoAg1il"
       },
@@ -1211,6 +1229,24 @@
       "duration_ms": 264117,
       "name": "Cold Desert",
       "url": "https://open.spotify.com/track/0Fc8JaRVZWGmNQ3E0O8fgw"
+    },
+    {
+      "album": {
+        "name": "Costal Sunset",
+        "url": "https://open.spotify.com/album/5vGPfKclHVB1VaYOY36UDX"
+      },
+      "artists": [
+        {
+          "name": "8twenty",
+          "url": "https://open.spotify.com/artist/5jEjyjwDtaXITcEPJx7rWg"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "Costal Sunset",
+      "url": "https://open.spotify.com/track/3fvmkcEGSopCoehQj3BdQx"
     },
     {
       "album": {
@@ -1553,6 +1589,24 @@
       "duration_ms": 214738,
       "name": "EivissAA",
       "url": "https://open.spotify.com/track/3eigPuKcaYb8wCYjptn6wr"
+    },
+    {
+      "album": {
+        "name": "Elevate",
+        "url": "https://open.spotify.com/album/60JP4dV59LJPj1jZC6FwRq"
+      },
+      "artists": [
+        {
+          "name": "Molinerd",
+          "url": "https://open.spotify.com/artist/4BJxAbl4YewXwednS4pwHi"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158621,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/3UNkKybunQxyPE6y0PD74i"
     },
     {
       "album": {
@@ -2567,6 +2621,24 @@
       "duration_ms": 268124,
       "name": "I Wish We Had More Time",
       "url": "https://open.spotify.com/track/71F5R77kgxulxZTtgzli7j"
+    },
+    {
+      "album": {
+        "name": "Iconic",
+        "url": "https://open.spotify.com/album/6LqVXBp6RwTJC9drUmnJZp"
+      },
+      "artists": [
+        {
+          "name": "Monic",
+          "url": "https://open.spotify.com/artist/2dGAYuA2ivFR4BDhbQSIXv"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124909,
+      "name": "Iconic",
+      "url": "https://open.spotify.com/track/6mxI6aOzik55H23TKnBbzv"
     },
     {
       "album": {

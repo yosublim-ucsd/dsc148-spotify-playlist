@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Fred Again..
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,188 likes - 85 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,205 likes - 85 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 37 | [Up](https://open.spotify.com/track/3BFhDy5T7xB6F68pRlO971) | [LEE.](https://open.spotify.com/artist/4GCBx9G31irWT77xXxWrSA) | [Up](https://open.spotify.com/album/7c7tUV4WY9oGnexeq1SC51) | 2:03 |
 | 38 | [Somewhere Between](https://open.spotify.com/track/11N3xwyjdDK8WAWnkvYZO2) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Somewhere Between](https://open.spotify.com/album/4qXo28L1OSKzJIckZk1oej) | 3:39 |
 | 39 | [Underdressed at the Symphony](https://open.spotify.com/track/2WjEUnzuDhwlFpp9epgtrW) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Underdressed at the Symphony](https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny) | 3:33 |
-| 40 | [Hard dreams](https://open.spotify.com/track/1sJAQWkZdaJDsPifl1fvOd) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Hard dreams](https://open.spotify.com/album/15kCPeNnhlUuZfKyr1CJuy) | 2:50 |
+| 40 | [Hard dreams](https://open.spotify.com/track/1sJAQWkZdaJDsPifl1fvOd) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP), [Yan Wagner](https://open.spotify.com/artist/7JLtS4ASAUsAYrsShMerMc) | [Hard dreams](https://open.spotify.com/album/15kCPeNnhlUuZfKyr1CJuy) | 2:50 |
 | 41 | [Don't Let Me Down \(feat\. JVKE\)](https://open.spotify.com/track/046QZ0ociluzd0yjpY1tY4) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Don't Let Me Down \(feat\. JVKE\)](https://open.spotify.com/album/2m3RAFfpFPttHJIMBZKKCo) | 2:48 |
 | 42 | [ROCK N ROLL \(AJ Curtis & Scorey\)](https://open.spotify.com/track/6uTGvlGFc6baBvOBZFQmKk) | [AJ Curtis](https://open.spotify.com/artist/5wrtj0ptwZ8Z4ZL0w5YLYE), [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb) | [ROCK N ROLL \(AJ Curtis & Scorey\)](https://open.spotify.com/album/2T58BzlIIc7i3QaitHJghc) | 2:37 |
 | 43 | [I Hate You \(2024\) \- Spotify Singles](https://open.spotify.com/track/2AZhHsWsunXGXKIWioeM6Y) | [SHOWNU X HYUNGWON \(MONSTA X\)](https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg) | [I Hate You \(2024\) \- Spotify Singles](https://open.spotify.com/album/1aF8lItq2Esu8pBHJoxXMA) | 2:44 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 84 | [Don't Make No Sense](https://open.spotify.com/track/5zdQslM9L6djad729h1VuO) | [Juwan](https://open.spotify.com/artist/6XdWc6hDPzl8fpJnZvSo79) | [Don't Make No Sense](https://open.spotify.com/album/47u9MHGfvxU1MZ1N30uiWT) | 3:52 |
 | 85 | [Hello Again](https://open.spotify.com/track/5HpfpZWZnLoouRaL6NpRCX) | [Surf Trash](https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm) | [Hello Again](https://open.spotify.com/album/0tFkk5Zsszea1SXwLo6dn1) | 2:24 |
 
-Snapshot ID: `MCwzNTRlYzM1NmU2ZmUyMzk3MDg5NGE1NDQyYWQzYTUyZjU4N2U1OTM3`
+Snapshot ID: `MCw5NjJmMGU2MjIxMzE4MmUwZWI5NzNmYTRlZmZlNWI5NzUyY2UyYTJh`

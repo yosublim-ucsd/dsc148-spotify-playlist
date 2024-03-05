@@ -4,7 +4,7 @@
 
 > The best in house music
 
-393 songs - 1 day 3 hr 30 min
+394 songs - 1 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [So Good Today \- Yoruba Soul Remix](https://open.spotify.com/track/7mUYdPpOKMG9xYaks22yiP) | [Ben Westbeech](https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM), [Yoruba Soul](https://open.spotify.com/artist/1KoS8cnCKnhjqR4Smd2ZJC) | [Brownswood 10](https://open.spotify.com/album/3HbyvIxVRcuVMUdjrsNNPT) | 5:54 | 2022-04-20 | 2022-07-25 |
 | [So High](https://open.spotify.com/track/2eMLeXpn6gnx7EaDkcDnkS) | [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r) | [So High](https://open.spotify.com/album/3jVLJhpgIKlcMGx3YoKxRK) | 3:54 | 2022-08-25 | 2023-05-19 |
 | [Sometimes](https://open.spotify.com/track/0cTDPvlLlj1T3WwUMzX6Uq) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Sometimes](https://open.spotify.com/album/1H1vOkQfBS8XXPCN62GG2p) | 2:55 | 2023-06-22 |  |
+| [Soul](https://open.spotify.com/track/2bmQDLkG6Ws7p5qbaoe3Rl) | [Low Blow](https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ) | [Soul](https://open.spotify.com/album/3DgN8lFMK6cX8eJ5pIeUob) | 2:42 | 2024-03-04 |  |
 | [Souljack](https://open.spotify.com/track/0W3w9pPy0JvezOG96J2biy) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Souljack EP](https://open.spotify.com/album/4Wo7BhKv46vuyryLgrgJFK) | 3:44 | 2022-10-13 |  |
 | [Speed Up \- Menesix Remix](https://open.spotify.com/track/0DBnkbWalfo6TNjRcll0ui) | [Funkerman](https://open.spotify.com/artist/7ljL11SRgjkdqO8NqjJBVU), [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ) | [Speed Up \(Italobros & Menesix Remixes\)](https://open.spotify.com/album/2VpqHTQo5AC1y6nUrmp9FH) | 4:07 | 2022-04-14 | 2022-07-28 |
 | [Spells Of Yoruba \- Jamie Jones Watertight Mix](https://open.spotify.com/track/6OEVWRWJ0ZkGFOFSp3cNOR) | [Gel Abril](https://open.spotify.com/artist/3HH7PmnlxHcPClsKBuARwv) | [Defected In The House Radio Show: Episode 011 \(hosted by Sonny Fodera\)](https://open.spotify.com/album/2P9cJvQAgg0mHUz7wyCjjc) | 2:58 | 2022-04-20 | 2022-07-21 |
@@ -378,7 +379,7 @@
 | [We Groovin](https://open.spotify.com/track/1lzbOrmaBhueOQfwKCfi1J) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [We Groovin](https://open.spotify.com/album/6L9eNKfRONaBKym2BuXw64) | 3:01 | 2024-02-29 | 2024-03-02 |
 | [We Groovin \(with Jazzy\)](https://open.spotify.com/track/6LiuMpZjyjjuXFP5Ljo9bv) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [We Groovin \(with Jazzy\)](https://open.spotify.com/album/21mqL1eOj7aRJQUwOQakcH) | 3:01 | 2024-02-29 |  |
 | [Weak](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Tom Breu](https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h) | [Weak](https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn) | 3:22 | 2024-02-07 |  |
-| [What You Gonna Do](https://open.spotify.com/track/2e8DHrgHFGnaJ7rjLeVqbr) | [ELIA](https://open.spotify.com/artist/0t2RtejVOID76P2r4iqEzV), [Melissa de Kleine](https://open.spotify.com/artist/1ke8Nab14PYpjaW2OolICA) | [What You Gonna Do](https://open.spotify.com/album/7vdyYBkfJqXmnUzXsxECJK) | 4:07 | 2023-12-01 |  |
+| [What You Gonna Do](https://open.spotify.com/track/2e8DHrgHFGnaJ7rjLeVqbr) | [ELIA](https://open.spotify.com/artist/0t2RtejVOID76P2r4iqEzV), [Melissa de Kleine](https://open.spotify.com/artist/1ke8Nab14PYpjaW2OolICA) | [What You Gonna Do](https://open.spotify.com/album/7vdyYBkfJqXmnUzXsxECJK) | 4:07 | 2023-12-01 | 2024-03-05 |
 | [What You Say?](https://open.spotify.com/track/22quZFeltYbo325rn3ktTe) | [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [What You Say?](https://open.spotify.com/album/2yRIzD4GpnSNlGw5gt0Y1o) | 3:23 | 2023-01-12 | 2024-02-01 |
 | [When U Came into My Life](https://open.spotify.com/track/1hCh9vCBaH8cCGkq0ttvnT) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Fort Bellefleur](https://open.spotify.com/album/3uNzIQC7ndw7UmNPAd8okH) | 8:07 | 2022-04-14 | 2023-08-31 |
 | [When U Came Into My Life](https://open.spotify.com/track/3ZJuEVtiX9GCoJrhCD0WlQ) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Fort Bellefleur](https://open.spotify.com/album/2b1eij1R1tHppx4M5ZZTrF) | 8:07 | 2023-08-24 | 2024-03-01 |

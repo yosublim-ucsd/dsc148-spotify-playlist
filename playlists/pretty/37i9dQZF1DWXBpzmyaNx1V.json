@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nos vemos del 6 al 10 de Marzo! Cinco d\u00edas de m\u00fasica en recintos ic\u00f3nicos de la CDMX. Compra tus boletos <a href=\"https://lnk.bio/pitchforkcdmx\"> aqu\u00ed</a>. ",
-  "num_followers": 39635,
+  "num_followers": 39622,
   "original_name": "Pitchfork Music Festival CDMX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NWRjYzdjNzgyYzBiODNlM2ZlNTUwNDk5ZTk2Nzc5ZGI0NTZlM2Q5",
+  "snapshot_id": "MCxjMDRhYmY5NDZmNmVkN2E1ZTJmNmE3MzdhN2RmNTBkZTIwZTdlZTAw",
   "tracks": [
     {
       "added_at": "2024-02-16 18:40:38",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "The Party",
-        "url": "https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM"
-      },
-      "artists": [
-        {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
-        }
-      ],
-      "duration_ms": 197682,
-      "name": "Begin Again",
-      "url": "https://open.spotify.com/track/0IZVC7E8Vk0bx76cRu6Ql4"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
         "name": "Serotonin II",
         "url": "https://open.spotify.com/album/5HZHvhX5TpJJD6hTgn0j0D"
       },
@@ -263,26 +247,6 @@
       "duration_ms": 219331,
       "name": "Pixel Affection",
       "url": "https://open.spotify.com/track/2c5bFJ82YxgGprGjOq1OaO"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "SCARING THE HOES: DLC PACK",
-        "url": "https://open.spotify.com/album/20KXgVL9yHtkk6Its2bmpO"
-      },
-      "artists": [
-        {
-          "name": "JPEGMAFIA",
-          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
-        },
-        {
-          "name": "Danny Brown",
-          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
-        }
-      ],
-      "duration_ms": 178286,
-      "name": "Guess What Bitch, We Back Hoe!",
-      "url": "https://open.spotify.com/track/7uF9nK3u0OB1dWW5ee9qxC"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -323,6 +287,42 @@
       "duration_ms": 212147,
       "name": "FaceTime",
       "url": "https://open.spotify.com/track/0b2b3WzP0QxuA0R7mKg9CL"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "The Party",
+        "url": "https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "duration_ms": 197682,
+      "name": "Begin Again",
+      "url": "https://open.spotify.com/track/0IZVC7E8Vk0bx76cRu6Ql4"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "SCARING THE HOES: DLC PACK",
+        "url": "https://open.spotify.com/album/20KXgVL9yHtkk6Its2bmpO"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        },
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "duration_ms": 178286,
+      "name": "Guess What Bitch, We Back Hoe!",
+      "url": "https://open.spotify.com/track/7uF9nK3u0OB1dWW5ee9qxC"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -375,6 +375,30 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
+        "name": "Maps",
+        "url": "https://open.spotify.com/album/3VoX4iyvy7et6Qt47e2XwS"
+      },
+      "artists": [
+        {
+          "name": "billy woods",
+          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
+        },
+        {
+          "name": "Kenny Segal",
+          "url": "https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO"
+        },
+        {
+          "name": "Quelle Chris",
+          "url": "https://open.spotify.com/artist/2SlUrJAcTYbWR8GcmB9IEi"
+        }
+      ],
+      "duration_ms": 176460,
+      "name": "Soundcheck",
+      "url": "https://open.spotify.com/track/2l4VRzLQkfjdo4CGL9sh2V"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
         "name": "let u in",
         "url": "https://open.spotify.com/album/1KFa59MlWSYXHJnvtdQr5a"
       },
@@ -423,26 +447,6 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Barco",
-        "url": "https://open.spotify.com/album/4kBwg7WWtpNMnm4LfNYXkK"
-      },
-      "artists": [
-        {
-          "name": "Noa Sainz",
-          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
-        },
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Barco",
-      "url": "https://open.spotify.com/track/2x6pJL7zRMTT4GMLWcUTLL"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
         "name": "Take Me Apart",
         "url": "https://open.spotify.com/album/4mQ6UTM71F02O1jMVi625N"
       },
@@ -475,30 +479,6 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Maps",
-        "url": "https://open.spotify.com/album/3VoX4iyvy7et6Qt47e2XwS"
-      },
-      "artists": [
-        {
-          "name": "billy woods",
-          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
-        },
-        {
-          "name": "Kenny Segal",
-          "url": "https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO"
-        },
-        {
-          "name": "Quelle Chris",
-          "url": "https://open.spotify.com/artist/2SlUrJAcTYbWR8GcmB9IEi"
-        }
-      ],
-      "duration_ms": 176460,
-      "name": "Soundcheck",
-      "url": "https://open.spotify.com/track/2l4VRzLQkfjdo4CGL9sh2V"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
         "name": "Luciferian Towers",
         "url": "https://open.spotify.com/album/6NeicP84ZRNL2yMlWS6XzH"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 175945,
       "name": "Anthem for No State, Pt. II",
       "url": "https://open.spotify.com/track/60CD8gYJbH3VbsVWKA2jXB"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "Barco",
+        "url": "https://open.spotify.com/album/4kBwg7WWtpNMnm4LfNYXkK"
+      },
+      "artists": [
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        },
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Barco",
+      "url": "https://open.spotify.com/track/2x6pJL7zRMTT4GMLWcUTLL"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Venus & Blue",
-        "url": "https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 186113,
-      "name": "Tu Olor",
-      "url": "https://open.spotify.com/track/4z6iPe5AssQ0rF83oZDt71"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
         "name": "Ser\u00e1 Que Ahora Podremos Entendernos",
         "url": "https://open.spotify.com/album/0wNC9N8RpCvzCo8I3YQ8K4"
       },
@@ -691,22 +675,6 @@
       "duration_ms": 290713,
       "name": "Nadie Sabe",
       "url": "https://open.spotify.com/track/4xwWZDoe2rD5pVPnOE4rle"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "Interiors",
-        "url": "https://open.spotify.com/album/5XIkLswshaViwFERckpk0j"
-      },
-      "artists": [
-        {
-          "name": "Glasser",
-          "url": "https://open.spotify.com/artist/2M45qKMZX16QUyOiKyluI0"
-        }
-      ],
-      "duration_ms": 297093,
-      "name": "Shape",
-      "url": "https://open.spotify.com/track/1Tkm7LMbaqk4xDIEZT3oZj"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -735,6 +703,22 @@
       "duration_ms": 223350,
       "name": "I Keep A Mirror In My Pocket",
       "url": "https://open.spotify.com/track/763IJTeglBtae0KprFnzPG"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "Venus & Blue",
+        "url": "https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 186113,
+      "name": "Tu Olor",
+      "url": "https://open.spotify.com/track/4z6iPe5AssQ0rF83oZDt71"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -771,22 +755,6 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "FYT",
-        "url": "https://open.spotify.com/album/7GnxsWoQIn4gjwASblM82j"
-      },
-      "artists": [
-        {
-          "name": "Noa Sainz",
-          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
-        }
-      ],
-      "duration_ms": 147173,
-      "name": "FYT",
-      "url": "https://open.spotify.com/track/2yzQ3QoQKTTWdeweOCvZ2H"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
         "name": "Paper Dolls",
         "url": "https://open.spotify.com/album/6x5YIfaNRKfwaVhHjAWE4D"
       },
@@ -799,6 +767,22 @@
       "duration_ms": 120600,
       "name": "Hello Tarantino",
       "url": "https://open.spotify.com/track/2mVvltB6qGGx51fyvywVkD"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "Pies sobre la tierra",
+        "url": "https://open.spotify.com/album/6AwupPymKbGJBX6Tfat1UB"
+      },
+      "artists": [
+        {
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+        }
+      ],
+      "duration_ms": 271788,
+      "name": "Todo Lo Que Quer\u00edas Saber",
+      "url": "https://open.spotify.com/track/15crIgsqt1x5jkMmZ9hUE9"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -819,18 +803,50 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Pies sobre la tierra",
-        "url": "https://open.spotify.com/album/6AwupPymKbGJBX6Tfat1UB"
+        "name": "Interiors",
+        "url": "https://open.spotify.com/album/5XIkLswshaViwFERckpk0j"
       },
       "artists": [
         {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+          "name": "Glasser",
+          "url": "https://open.spotify.com/artist/2M45qKMZX16QUyOiKyluI0"
         }
       ],
-      "duration_ms": 271788,
-      "name": "Todo Lo Que Quer\u00edas Saber",
-      "url": "https://open.spotify.com/track/15crIgsqt1x5jkMmZ9hUE9"
+      "duration_ms": 297093,
+      "name": "Shape",
+      "url": "https://open.spotify.com/track/1Tkm7LMbaqk4xDIEZT3oZj"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "FYT",
+        "url": "https://open.spotify.com/album/7GnxsWoQIn4gjwASblM82j"
+      },
+      "artists": [
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        }
+      ],
+      "duration_ms": 147173,
+      "name": "FYT",
+      "url": "https://open.spotify.com/track/2yzQ3QoQKTTWdeweOCvZ2H"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "La Vida De Alguien M\u00e1s",
+        "url": "https://open.spotify.com/album/0ALFZgR22JpKMQps1lhfzm"
+      },
+      "artists": [
+        {
+          "name": "Diles que no me maten",
+          "url": "https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev"
+        }
+      ],
+      "duration_ms": 297910,
+      "name": "Wako",
+      "url": "https://open.spotify.com/track/5XxbL0FQ8PVTxkhO7NAg8s"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -867,22 +883,6 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "La Vida De Alguien M\u00e1s",
-        "url": "https://open.spotify.com/album/0ALFZgR22JpKMQps1lhfzm"
-      },
-      "artists": [
-        {
-          "name": "Diles que no me maten",
-          "url": "https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev"
-        }
-      ],
-      "duration_ms": 297910,
-      "name": "Wako",
-      "url": "https://open.spotify.com/track/5XxbL0FQ8PVTxkhO7NAg8s"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
         "name": "Parted Plains",
         "url": "https://open.spotify.com/album/2CY7iodG7q2mC8C6GbMeTq"
       },
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Ring",
-        "url": "https://open.spotify.com/album/67jSVxuCF5y7rPizT4mLP7"
-      },
-      "artists": [
-        {
-          "name": "Glasser",
-          "url": "https://open.spotify.com/artist/2M45qKMZX16QUyOiKyluI0"
-        }
-      ],
-      "duration_ms": 219440,
-      "name": "Mirrorage",
-      "url": "https://open.spotify.com/track/1DBJlY3yRIqaScNNnkZbUy"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
         "name": "Il Visore Lunatique",
         "url": "https://open.spotify.com/album/60D6qJWgHKFXYJ7gf8ZRtQ"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 186693,
       "name": "The Peter Pan Syndrome",
       "url": "https://open.spotify.com/track/4MYP2luuQPOoK4JPHnfMmR"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "Ring",
+        "url": "https://open.spotify.com/album/67jSVxuCF5y7rPizT4mLP7"
+      },
+      "artists": [
+        {
+          "name": "Glasser",
+          "url": "https://open.spotify.com/artist/2M45qKMZX16QUyOiKyluI0"
+        }
+      ],
+      "duration_ms": 219440,
+      "name": "Mirrorage",
+      "url": "https://open.spotify.com/track/1DBJlY3yRIqaScNNnkZbUy"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Crux",
-        "url": "https://open.spotify.com/album/2GvEyAvxiEyNu0Os14cZk7"
-      },
-      "artists": [
-        {
-          "name": "Glasser",
-          "url": "https://open.spotify.com/artist/2M45qKMZX16QUyOiKyluI0"
-        }
-      ],
-      "duration_ms": 242735,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/1kCj1xjrJSldhN6bSfkDLF"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
         "name": "Hallucinogen",
         "url": "https://open.spotify.com/album/5Olw4XubTcqIBtKt3U8poM"
       },
@@ -1051,22 +1035,6 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Parted Plains",
-        "url": "https://open.spotify.com/album/2CY7iodG7q2mC8C6GbMeTq"
-      },
-      "artists": [
-        {
-          "name": "Ami Dang",
-          "url": "https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig"
-        }
-      ],
-      "duration_ms": 224697,
-      "name": "Love-liesse",
-      "url": "https://open.spotify.com/track/6AODhOVcNWM2V92aINFwVM"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
         "name": "Ahora Veo M\u00e1s Claro",
         "url": "https://open.spotify.com/album/1ZOLew9YSk4dR2ZDi9poYD"
       },
@@ -1083,18 +1051,18 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "gisela",
-        "url": "https://open.spotify.com/album/2bAuw1nc2csrMfpTFeatCR"
+        "name": "Parted Plains",
+        "url": "https://open.spotify.com/album/2CY7iodG7q2mC8C6GbMeTq"
       },
       "artists": [
         {
-          "name": "NOIA",
-          "url": "https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA"
+          "name": "Ami Dang",
+          "url": "https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig"
         }
       ],
-      "duration_ms": 190293,
-      "name": "reveal yourself",
-      "url": "https://open.spotify.com/track/0YjRE5ut3J4exRx40kLtg6"
+      "duration_ms": 224697,
+      "name": "Love-liesse",
+      "url": "https://open.spotify.com/track/6AODhOVcNWM2V92aINFwVM"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -1115,6 +1083,22 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
+        "name": "Crux",
+        "url": "https://open.spotify.com/album/2GvEyAvxiEyNu0Os14cZk7"
+      },
+      "artists": [
+        {
+          "name": "Glasser",
+          "url": "https://open.spotify.com/artist/2M45qKMZX16QUyOiKyluI0"
+        }
+      ],
+      "duration_ms": 242735,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1kCj1xjrJSldhN6bSfkDLF"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
         "name": "GOLLY",
         "url": "https://open.spotify.com/album/06QqjEJoq3YWDdG0FJXKU3"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 325725,
       "name": "Pantitl\u00e1n",
       "url": "https://open.spotify.com/track/0d0HTxy6Exc4mzaDjdj8mh"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "gisela",
+        "url": "https://open.spotify.com/album/2bAuw1nc2csrMfpTFeatCR"
+      },
+      "artists": [
+        {
+          "name": "NOIA",
+          "url": "https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA"
+        }
+      ],
+      "duration_ms": 190293,
+      "name": "reveal yourself",
+      "url": "https://open.spotify.com/track/0YjRE5ut3J4exRx40kLtg6"
     }
   ],
   "unique_name": "Pitchfork Music Festival CDMX",

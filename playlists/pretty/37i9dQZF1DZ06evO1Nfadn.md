@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 
 > This is Banda Maguey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,257 likes - 49 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,272 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,5 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 | 47 | [La Culpable](https://open.spotify.com/track/1jThuw8Kx5lbEYEkZqsD1x) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Éxitos de Oro](https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq) | 2:56 |
 | 48 | [La Traicionera](https://open.spotify.com/track/1cHG4Z9p9qSwKVs8AetKAz) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Lagrimas De Sangre](https://open.spotify.com/album/5uxBBlqqir0VvbT72133WG) | 2:15 |
 | 49 | [Tu Precio](https://open.spotify.com/track/2pe9uTpq1nSkdOgRmCml8u) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña \(Serie Clásica\)](https://open.spotify.com/album/2pQaVwjXRlqHnQ0RD8cf4e) | 2:49 |
+| 50 | [Bikini Azul](https://open.spotify.com/track/1YvqhFsIxpy9yEzn9sWb0X) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes \- Los Éxitos](https://open.spotify.com/album/5T9zkm1BMSNqlPvu911c0n) | 2:33 |
 
-Snapshot ID: `Mjg0OTExMzgsMDAwMDAwMDA1OTAxYzcyODg4OTdjZTJjNjI0Nzk3M2FkZmJkOTNkMA==`
+Snapshot ID: `Mjg0OTI1NjksMDAwMDAwMDBmZjQyMDc5ZjljYzMxNTNmNmU1NWRmMWFjYzEzM2MwNQ==`

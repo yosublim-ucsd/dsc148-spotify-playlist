@@ -1,12 +1,12 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1335116,
+  "num_followers": 1335517,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjRhODFhYzMzYzZkMDg4NmY3MTdiNzE5ZGY1NThjODVlMTEzOTZi",
+  "snapshot_id": "MCxlMmNmYzNiOTJiMzZkMWEyNDViZWMzNjg5YmE1YjA3ZDA2NDg4Zjhi",
   "tracks": [
     {
       "added_at": "2024-01-02 10:36:29",
@@ -107,6 +107,22 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
+        "name": "Crazy World",
+        "url": "https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "duration_ms": 312360,
+      "name": "Wind Of Change",
+      "url": "https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM"
+    },
+    {
+      "added_at": "2024-01-02 10:36:29",
+      "album": {
         "name": "Results May Vary",
         "url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 269973,
       "name": "Behind Blue Eyes",
       "url": "https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj"
-    },
-    {
-      "added_at": "2024-01-02 10:36:29",
-      "album": {
-        "name": "Extreme II - Pornograffitti",
-        "url": "https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC"
-      },
-      "artists": [
-        {
-          "name": "Extreme",
-          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
-        }
-      ],
-      "duration_ms": 334106,
-      "name": "More Than Words",
-      "url": "https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -155,34 +155,18 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "Crazy World",
-        "url": "https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF"
+        "name": "Extreme II - Pornograffitti",
+        "url": "https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC"
       },
       "artists": [
         {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+          "name": "Extreme",
+          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
         }
       ],
-      "duration_ms": 312360,
-      "name": "Wind Of Change",
-      "url": "https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM"
-    },
-    {
-      "added_at": "2024-01-02 10:36:29",
-      "album": {
-        "name": "Disobey",
-        "url": "https://open.spotify.com/album/3jyiDkqTq16C8PHqAZu6oe"
-      },
-      "artists": [
-        {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
-        }
-      ],
-      "duration_ms": 254805,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n"
+      "duration_ms": 334106,
+      "name": "More Than Words",
+      "url": "https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -203,18 +187,18 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "Keep The Faith",
-        "url": "https://open.spotify.com/album/2FbviTPUjgJJUxsGM1sGDq"
+        "name": "Disobey",
+        "url": "https://open.spotify.com/album/3jyiDkqTq16C8PHqAZu6oe"
       },
       "artists": [
         {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
         }
       ],
-      "duration_ms": 394400,
-      "name": "Bed Of Roses",
-      "url": "https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw"
+      "duration_ms": 254805,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -267,6 +251,38 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
+        "name": "Keep The Faith",
+        "url": "https://open.spotify.com/album/2FbviTPUjgJJUxsGM1sGDq"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 394400,
+      "name": "Bed Of Roses",
+      "url": "https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw"
+    },
+    {
+      "added_at": "2024-01-02 10:36:29",
+      "album": {
+        "name": "Use Your Illusion II",
+        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 336000,
+      "name": "Knockin' On Heaven's Door",
+      "url": "https://open.spotify.com/track/4JiEyzf0Md7KEFFGWDDdCr"
+    },
+    {
+      "added_at": "2024-01-02 10:36:29",
+      "album": {
         "name": "Metallica (Remastered)",
         "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 273333,
       "name": "Send Me An Angel",
       "url": "https://open.spotify.com/track/1bKQ48M9onID2kbSpRy8kK"
-    },
-    {
-      "added_at": "2024-01-02 10:36:29",
-      "album": {
-        "name": "Use Your Illusion II",
-        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "Knockin' On Heaven's Door",
-      "url": "https://open.spotify.com/track/4JiEyzf0Md7KEFFGWDDdCr"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -359,6 +359,22 @@
       "duration_ms": 248466,
       "name": "The Sound of Silence",
       "url": "https://open.spotify.com/track/0eZBeB2xFIS65jQHerispi"
+    },
+    {
+      "added_at": "2024-01-02 10:36:29",
+      "album": {
+        "name": "Appetite For Destruction (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 354880,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/1OEoNpiyqBghuEUaT6Je6U"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -443,22 +459,6 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "Appetite For Destruction (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 354880,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/1OEoNpiyqBghuEUaT6Je6U"
-    },
-    {
-      "added_at": "2024-01-02 10:36:29",
-      "album": {
         "name": "Youthanasia (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
       },
@@ -471,22 +471,6 @@
       "duration_ms": 262133,
       "name": "A Tout Le Monde - Remastered 2004",
       "url": "https://open.spotify.com/track/6olS0TmHmsGr0hXtcBsiVM"
-    },
-    {
-      "added_at": "2024-01-02 10:36:29",
-      "album": {
-        "name": "Skid Row",
-        "url": "https://open.spotify.com/album/0L5J7BLU1AKDuSewTMpw7E"
-      },
-      "artists": [
-        {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
-        }
-      ],
-      "duration_ms": 229960,
-      "name": "18 and Life",
-      "url": "https://open.spotify.com/track/3620P9KJS2PDebJ9ABFitc"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -507,6 +491,22 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
+        "name": "Skid Row",
+        "url": "https://open.spotify.com/album/0L5J7BLU1AKDuSewTMpw7E"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "duration_ms": 229960,
+      "name": "18 and Life",
+      "url": "https://open.spotify.com/track/3620P9KJS2PDebJ9ABFitc"
+    },
+    {
+      "added_at": "2024-01-02 10:36:29",
+      "album": {
         "name": "Slippery When Wet",
         "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
       },
@@ -519,38 +519,6 @@
       "duration_ms": 288933,
       "name": "Never Say Goodbye",
       "url": "https://open.spotify.com/track/4AfsbRvvuN7nEHAhONdeEp"
-    },
-    {
-      "added_at": "2024-01-02 10:36:29",
-      "album": {
-        "name": "Get A Grip",
-        "url": "https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 355915,
-      "name": "Amazing",
-      "url": "https://open.spotify.com/track/60a5c4dDARPsksClcom0OD"
-    },
-    {
-      "added_at": "2024-01-02 10:36:29",
-      "album": {
-        "name": "Hysteria (Super Deluxe)",
-        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 346960,
-      "name": "Love Bites - Remastered 2017",
-      "url": "https://open.spotify.com/track/3Dfy8YIxq89i84t108TvMi"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -571,6 +539,38 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
+        "name": "Get A Grip",
+        "url": "https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 355915,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/60a5c4dDARPsksClcom0OD"
+    },
+    {
+      "added_at": "2024-01-02 10:36:29",
+      "album": {
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1",
+        "url": "https://open.spotify.com/album/1Z3JwX4HqsMcmlsNZqcIX7"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Wrong Side of Heaven",
+      "url": "https://open.spotify.com/track/0GQmBK4A5hFQdjhYCFCbtK"
+    },
+    {
+      "added_at": "2024-01-02 10:36:29",
+      "album": {
         "name": "Chinese Democracy",
         "url": "https://open.spotify.com/album/0suNLpB9xraAv1FcdlITjQ"
       },
@@ -583,6 +583,22 @@
       "duration_ms": 334373,
       "name": "This I Love",
       "url": "https://open.spotify.com/track/2FEWcWHnDmGD6WSqpW4VYu"
+    },
+    {
+      "added_at": "2024-01-02 10:36:29",
+      "album": {
+        "name": "Hysteria (Super Deluxe)",
+        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 346960,
+      "name": "Love Bites - Remastered 2017",
+      "url": "https://open.spotify.com/track/3Dfy8YIxq89i84t108TvMi"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -651,22 +667,6 @@
       "duration_ms": 237346,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/1WxF4gMsFXnKCyh48CW2RI"
-    },
-    {
-      "added_at": "2024-01-02 10:36:29",
-      "album": {
-        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1",
-        "url": "https://open.spotify.com/album/1Z3JwX4HqsMcmlsNZqcIX7"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Wrong Side of Heaven",
-      "url": "https://open.spotify.com/track/0GQmBK4A5hFQdjhYCFCbtK"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "Pyromania",
-        "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 266728,
-      "name": "Too Late For Love",
-      "url": "https://open.spotify.com/track/5vHyWEoEyIJT5RhR1fcN7y"
-    },
-    {
-      "added_at": "2024-01-02 10:36:29",
-      "album": {
         "name": "A Decade of Destruction",
         "url": "https://open.spotify.com/album/3jYRtHlssd7nxmOW0mY3l2"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 282013,
       "name": "The Temple Of The King",
       "url": "https://open.spotify.com/track/0gaMmmhGi5buPXpquSAfxg"
+    },
+    {
+      "added_at": "2024-01-02 10:36:29",
+      "album": {
+        "name": "Pyromania",
+        "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 266728,
+      "name": "Too Late For Love",
+      "url": "https://open.spotify.com/track/5vHyWEoEyIJT5RhR1fcN7y"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
+        "name": "Pride",
+        "url": "https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2"
+      },
+      "artists": [
+        {
+          "name": "White Lion",
+          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
+        }
+      ],
+      "duration_ms": 258600,
+      "name": "When the Children Cry",
+      "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
+    },
+    {
+      "added_at": "2024-01-02 10:36:29",
+      "album": {
         "name": "Reload",
         "url": "https://open.spotify.com/album/7KDqRmr937ylvGilPGWxfD"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 189893,
       "name": "The Bard's Song - In the Forest - Remastered 2007",
       "url": "https://open.spotify.com/track/7xPGvZaG9W7UOrCgEwbONe"
-    },
-    {
-      "added_at": "2024-01-02 10:36:29",
-      "album": {
-        "name": "Pride",
-        "url": "https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2"
-      },
-      "artists": [
-        {
-          "name": "White Lion",
-          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
-        }
-      ],
-      "duration_ms": 258600,
-      "name": "When the Children Cry",
-      "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "Kings of Metal",
-        "url": "https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB"
-      },
-      "artists": [
-        {
-          "name": "Manowar",
-          "url": "https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ"
-        }
-      ],
-      "duration_ms": 310733,
-      "name": "Heart of Steel",
-      "url": "https://open.spotify.com/track/4YXhOackOMOlQTMAwsDHo6"
-    },
-    {
-      "added_at": "2024-01-02 10:36:29",
-      "album": {
         "name": "Evolution (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 284293,
       "name": "A Reason to Fight",
       "url": "https://open.spotify.com/track/1IbaGRC0Yrovu3MP1ipf1u"
+    },
+    {
+      "added_at": "2024-01-02 10:36:29",
+      "album": {
+        "name": "Kings of Metal",
+        "url": "https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB"
+      },
+      "artists": [
+        {
+          "name": "Manowar",
+          "url": "https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ"
+        }
+      ],
+      "duration_ms": 310733,
+      "name": "Heart of Steel",
+      "url": "https://open.spotify.com/track/4YXhOackOMOlQTMAwsDHo6"
     },
     {
       "added_at": "2024-01-02 10:36:29",

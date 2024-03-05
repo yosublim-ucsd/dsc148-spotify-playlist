@@ -1,12 +1,12 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 159371,
+  "num_followers": 159451,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OGMwMWViMzgyYmUxMjE5MDJhZjNjNTQxODZhYmYxODQ1NmFjMzNk",
+  "snapshot_id": "MCxhZGQ2NTIyNmU2NzYxY2UyZjFjN2ZhNDBiYThmOGU0OGIyOTFhN2Uw",
   "tracks": [
     {
       "added_at": "2023-06-27 16:12:39",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
+        "name": "Joshua Tree",
+        "url": "https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw"
+      },
+      "artists": [
+        {
+          "name": "Rolig",
+          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Joshua Tree",
+      "url": "https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
         "name": "Swan Lake Story",
         "url": "https://open.spotify.com/album/4xV5TH4Vr5ujQadhFpoxNU"
       },
@@ -703,22 +719,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Joshua Tree",
-        "url": "https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw"
-      },
-      "artists": [
-        {
-          "name": "Rolig",
-          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Joshua Tree",
-      "url": "https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Reveries",
         "url": "https://open.spotify.com/album/6VXf0ZqeNciAwRPVJRL1b7"
       },
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Zerachiel",
-        "url": "https://open.spotify.com/album/2p6YgkjGx3GpY85QNQE3SF"
-      },
-      "artists": [
-        {
-          "name": "Igor Ferreira",
-          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
-        }
-      ],
-      "duration_ms": 191870,
-      "name": "Zerachiel",
-      "url": "https://open.spotify.com/track/75YWIrM2Veuz4Hlgnswhgp"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "K\u00e4rlek",
         "url": "https://open.spotify.com/album/5zlFzaQwZqdmwEJuFkVzX8"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 225053,
       "name": "How Time Works",
       "url": "https://open.spotify.com/track/4xqfOnP7Mue9j5JJVfLFyh"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Zerachiel",
+        "url": "https://open.spotify.com/album/2p6YgkjGx3GpY85QNQE3SF"
+      },
+      "artists": [
+        {
+          "name": "Igor Ferreira",
+          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
+        }
+      ],
+      "duration_ms": 191870,
+      "name": "Zerachiel",
+      "url": "https://open.spotify.com/track/75YWIrM2Veuz4Hlgnswhgp"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Be Here Now",
-        "url": "https://open.spotify.com/album/5uXs3lwuibE9vUFisIoGmH"
-      },
-      "artists": [
-        {
-          "name": "Norman D\u00fcck",
-          "url": "https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB"
-        }
-      ],
-      "duration_ms": 136932,
-      "name": "Be Here Now",
-      "url": "https://open.spotify.com/track/6FC7o2qC7oU1Aa6qJAnptQ"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "S\u00f3liton",
         "url": "https://open.spotify.com/album/0971hkOs6jrivjyQaAgdqE"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 122347,
       "name": "S\u00f3liton",
       "url": "https://open.spotify.com/track/5WstJ13vyaoD8EqpVbKB8v"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Be Here Now",
+        "url": "https://open.spotify.com/album/5uXs3lwuibE9vUFisIoGmH"
+      },
+      "artists": [
+        {
+          "name": "Norman D\u00fcck",
+          "url": "https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB"
+        }
+      ],
+      "duration_ms": 136932,
+      "name": "Be Here Now",
+      "url": "https://open.spotify.com/track/6FC7o2qC7oU1Aa6qJAnptQ"
     },
     {
       "added_at": "2023-06-27 16:12:39",

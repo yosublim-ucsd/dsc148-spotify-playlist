@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Joost
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,361 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,396 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 90 | [Best Days](https://open.spotify.com/track/18ZT8o8lcWCBQcVs3aK5fZ) | [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu), [Nømad](https://open.spotify.com/artist/1Aq4QRiRBz0ddMjbv7GDy5) | [Best Days](https://open.spotify.com/album/21weltfdc5SmIE2ogzT0FF) | 2:38 |
 | 91 | [Carefree](https://open.spotify.com/track/1hSQICDWszNYqqH3d6wBeb) | [Wyatt C\. Louis](https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB) | [Carefree](https://open.spotify.com/album/1wFREzOReu0HUeh1Ww9Z5J) | 4:16 |
 | 92 | [Don't Let Me Down \(feat\. JVKE\)](https://open.spotify.com/track/046QZ0ociluzd0yjpY1tY4) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Don't Let Me Down \(feat\. JVKE\)](https://open.spotify.com/album/2m3RAFfpFPttHJIMBZKKCo) | 2:48 |
-| 93 | [Hard dreams](https://open.spotify.com/track/1sJAQWkZdaJDsPifl1fvOd) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Hard dreams](https://open.spotify.com/album/15kCPeNnhlUuZfKyr1CJuy) | 2:50 |
+| 93 | [Hard dreams](https://open.spotify.com/track/1sJAQWkZdaJDsPifl1fvOd) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP), [Yan Wagner](https://open.spotify.com/artist/7JLtS4ASAUsAYrsShMerMc) | [Hard dreams](https://open.spotify.com/album/15kCPeNnhlUuZfKyr1CJuy) | 2:50 |
 | 94 | [Venus in Flames](https://open.spotify.com/track/1plbSV6IKjmMmyAx9XMEod) | [DOOL](https://open.spotify.com/artist/101HSR6JTJqe3DBh6rb8kz) | [Venus in Flames](https://open.spotify.com/album/05YyAiDVKS3HntWHOpk81U) | 7:06 |
 | 95 | [vaag](https://open.spotify.com/track/7fG54TztJDOwqKZvIBC0B9) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [vaag](https://open.spotify.com/album/1cT2x2EEHwGifBR3gPm12U) | 2:32 |
 | 96 | [Hartenbrekers](https://open.spotify.com/track/3pwM5b9SaAKTxrF4IjchIC) | [Maartje](https://open.spotify.com/artist/7fz2OzUjHRv2ih9aaXoBnA) | [De helft pas](https://open.spotify.com/album/7746uJWCfnqYzX2EXnSamV) | 2:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [alone](https://open.spotify.com/track/6wpOHVSrinXhKqF4EBbpuS) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [alone](https://open.spotify.com/album/29sXbgWHLAjGcshP5zHCpW) | 2:52 |
 | 100 | [DEKY](https://open.spotify.com/track/0Np68D600re65N0BavKeSX) | [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q) | [DEKY](https://open.spotify.com/album/2VwKL57BpBwbcEoNNNFPkU) | 3:21 |
 
-Snapshot ID: `MCw1MzRhNzBmNTI0ZmU2YjkxNDYwMGJhMGNkNDJiNzg5OWZmNjE1Nzlm`
+Snapshot ID: `MCxlZWVhNzU3OTk4ZGUzMzM1MTBmOWE0NmM2MTdiNTFkZGI4MzVhMDJl`

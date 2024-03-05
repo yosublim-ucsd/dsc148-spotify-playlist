@@ -2,7 +2,7 @@
 
 ### [RADAR Podcasters Brasil](https://open.spotify.com/playlist/37i9dQZF1DXdWgffwYAtHM)
 
-> Podcasts que você precisa ter no RADAR\. Capa: <a href="spotify:show:6bSPrd8qTvWFk6e2NtZBbR">Assustador, Bizarro e Misterioso</a>
+> Podcasts que você precisa ter no RADAR\. Capa: <a href="spotify:show:42CNqtkx9yd1cIg0E6E9rL">vibes em análise</a>
 
 0 song - 0 sec
 

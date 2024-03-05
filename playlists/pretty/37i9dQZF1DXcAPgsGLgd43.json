@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 3972,
+  "num_followers": 3977,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOThiZTk2ZWJhMzM1YTk1ODJiNGU5MDQ3OTZiMjAzYTYxOTU4ZGFk",
+  "snapshot_id": "MCwxNmY3YzkzZjc4MGFhYmJjY2ZhMjhmOGFiN2I0YzM5MTgzOTA1ZTE3",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -963,6 +963,26 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "T\u00f3cate",
+        "url": "https://open.spotify.com/album/45ErjEPHCNkHQrBaaUuvdX"
+      },
+      "artists": [
+        {
+          "name": "Cach House",
+          "url": "https://open.spotify.com/artist/4Ulkh8tuR73CcyXaJ5F8oc"
+        },
+        {
+          "name": "Conrado",
+          "url": "https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e"
+        }
+      ],
+      "duration_ms": 190393,
+      "name": "T\u00f3cate",
+      "url": "https://open.spotify.com/track/2ibLngG6Pl2imDQhw5B5Nq"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Chakachaka",
         "url": "https://open.spotify.com/album/3ZLiJSNwRdxYmm669cq1pv"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 160645,
       "name": "Chakachaka",
       "url": "https://open.spotify.com/track/5qQ9Hemq7CpsrDRnAgToVI"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "T\u00f3cate",
-        "url": "https://open.spotify.com/album/45ErjEPHCNkHQrBaaUuvdX"
-      },
-      "artists": [
-        {
-          "name": "Cach House",
-          "url": "https://open.spotify.com/artist/4Ulkh8tuR73CcyXaJ5F8oc"
-        },
-        {
-          "name": "Conrado",
-          "url": "https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e"
-        }
-      ],
-      "duration_ms": 190393,
-      "name": "T\u00f3cate",
-      "url": "https://open.spotify.com/track/2ibLngG6Pl2imDQhw5B5Nq"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Toma Que Toma",
+        "url": "https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "duration_ms": 227076,
+      "name": "Toma Que Toma",
+      "url": "https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Catuca",
         "url": "https://open.spotify.com/album/2erxOE5ZUFhe00qlGVEacP"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 398986,
       "name": "Catuca",
       "url": "https://open.spotify.com/track/5wo6GTB8QfMfCsCDAeFcZW"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Toma Que Toma",
-        "url": "https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        }
-      ],
-      "duration_ms": 227076,
-      "name": "Toma Que Toma",
-      "url": "https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "No Pares",
+        "url": "https://open.spotify.com/album/45O9tkZOE8dDkK3TWXD58Z"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Alexander Som",
+          "url": "https://open.spotify.com/artist/22tboof8TJ0m7PjeuRzQeW"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "No Pares",
+      "url": "https://open.spotify.com/track/0r2tv5UOCiSyXE0AG98lxQ"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Gringada",
         "url": "https://open.spotify.com/album/31IgBVgxGhUfMUGlA6wZAq"
       },
@@ -1279,26 +1299,6 @@
       "duration_ms": 323763,
       "name": "Toma Dale",
       "url": "https://open.spotify.com/track/3plaSBlILmcUoVBAHDca5c"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "No Pares",
-        "url": "https://open.spotify.com/album/45O9tkZOE8dDkK3TWXD58Z"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Alexander Som",
-          "url": "https://open.spotify.com/artist/22tboof8TJ0m7PjeuRzQeW"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "No Pares",
-      "url": "https://open.spotify.com/track/0r2tv5UOCiSyXE0AG98lxQ"
     },
     {
       "added_at": "2024-03-01 05:00:00",

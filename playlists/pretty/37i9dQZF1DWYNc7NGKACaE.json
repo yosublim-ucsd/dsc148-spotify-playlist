@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 77970,
+  "num_followers": 78002,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGE5Y2U1YTk1YzQzNzg1ZWQ0ZmI2NjBlZmE0MjhkODAxMWYxNTEy",
+  "snapshot_id": "MCwyMmZjOGI4N2I2YzczZTFlN2JkNmVhZWEwM2I5MzdjM2I3ZmQ3Y2M4",
   "tracks": [
     {
       "added_at": "2023-12-27 14:18:14",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
+        "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
+        "url": "https://open.spotify.com/album/3NMKPK8rfEoipLRik4fqwi"
+      },
+      "artists": [
+        {
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+        }
+      ],
+      "duration_ms": 176538,
+      "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
+      "url": "https://open.spotify.com/track/0s8402HaaJsq8IyzDFS7Cm"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
         "name": "TRABALHANDO MUITO, Quem \u00e9 Voc\u00ea Seu Com\u00e9dia",
         "url": "https://open.spotify.com/album/3xRQIsFyx99ERIDNL7T7eA"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 127011,
       "name": "Virgulado - Speed",
       "url": "https://open.spotify.com/track/2W9O45APFy8vqX5g2Rtfns"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
-        "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
-        "url": "https://open.spotify.com/album/3NMKPK8rfEoipLRik4fqwi"
-      },
-      "artists": [
-        {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
-        }
-      ],
-      "duration_ms": 176538,
-      "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
-      "url": "https://open.spotify.com/track/0s8402HaaJsq8IyzDFS7Cm"
     },
     {
       "added_at": "2023-12-27 14:18:14",

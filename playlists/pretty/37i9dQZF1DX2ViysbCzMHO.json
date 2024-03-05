@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 147706,
+  "num_followers": 147799,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzNmZTZjZDNmMDU4MTlhZWY3ZDQ0YjY4MTE5YTcyYzJmMGQxYjQ1",
+  "snapshot_id": "MCwyZmU3ZDczMGY1Njk4ODA4ZjU0MjdiMTc5ZDg0NzFhZDljZWNlY2I1",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -483,6 +483,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Fall In Love (Acoustic)",
+        "url": "https://open.spotify.com/album/41wEnrrFayiNyfyi8h0vjD"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 238676,
+      "name": "Fall In Love - Acoustic",
+      "url": "https://open.spotify.com/track/79aj4SR6l5FKOJqy1TdtSv"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "In His Arms",
         "url": "https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 191615,
       "name": "Pack My Hometown",
       "url": "https://open.spotify.com/track/7IAmh4baSztXaPd0gncWwK"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Fall In Love (Acoustic)",
-        "url": "https://open.spotify.com/album/41wEnrrFayiNyfyi8h0vjD"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 238676,
-      "name": "Fall In Love - Acoustic",
-      "url": "https://open.spotify.com/track/79aj4SR6l5FKOJqy1TdtSv"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -623,18 +623,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Come Back To Bed (Acoustic)",
-        "url": "https://open.spotify.com/album/1p2jMjlTEQs8jEPz1kbf1H"
+        "name": "You Don\u2019t Want That Smoke. (The Acoustic Version.)",
+        "url": "https://open.spotify.com/album/37YaXtCWpAZoQ3qxrvmu3D"
       },
       "artists": [
         {
-          "name": "Sean Stemaly",
-          "url": "https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb"
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 205375,
-      "name": "Come Back To Bed (Acoustic)",
-      "url": "https://open.spotify.com/track/2wHKUJvY7K86a9JUAvX4PC"
+      "duration_ms": 200506,
+      "name": "You Don\u2019t Want That Smoke. - The Acoustic Version.",
+      "url": "https://open.spotify.com/track/2Ca9OSwJhhxO8HbsnTTsqu"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -655,18 +655,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Under My Skin (Stripped)",
-        "url": "https://open.spotify.com/album/72w6lUDxPr3zwZTqaJsDpD"
+        "name": "Come Back To Bed (Acoustic)",
+        "url": "https://open.spotify.com/album/1p2jMjlTEQs8jEPz1kbf1H"
       },
       "artists": [
         {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+          "name": "Sean Stemaly",
+          "url": "https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb"
         }
       ],
-      "duration_ms": 185110,
-      "name": "Under My Skin - Stripped",
-      "url": "https://open.spotify.com/track/5Reu0JKQYq7DiOnBAqrWhg"
+      "duration_ms": 205375,
+      "name": "Come Back To Bed (Acoustic)",
+      "url": "https://open.spotify.com/track/2wHKUJvY7K86a9JUAvX4PC"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -691,18 +691,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "You Don\u2019t Want That Smoke. (The Acoustic Version.)",
-        "url": "https://open.spotify.com/album/37YaXtCWpAZoQ3qxrvmu3D"
+        "name": "Under My Skin (Stripped)",
+        "url": "https://open.spotify.com/album/72w6lUDxPr3zwZTqaJsDpD"
       },
       "artists": [
         {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
         }
       ],
-      "duration_ms": 200506,
-      "name": "You Don\u2019t Want That Smoke. - The Acoustic Version.",
-      "url": "https://open.spotify.com/track/2Ca9OSwJhhxO8HbsnTTsqu"
+      "duration_ms": 185110,
+      "name": "Under My Skin - Stripped",
+      "url": "https://open.spotify.com/track/5Reu0JKQYq7DiOnBAqrWhg"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -979,38 +979,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Slow Dance In A Parking Lot (Acoustic)",
-        "url": "https://open.spotify.com/album/7JG2UFjGvdHMQ6Zes4lclo"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Slow Dance In A Parking Lot - Acoustic",
-      "url": "https://open.spotify.com/track/2obDcF1vgEom76Mj3UZGxw"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "What He Didn't Do (Acoustic)",
-        "url": "https://open.spotify.com/album/59dYMGSh4qPQ9X0tvsTAG9"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 189555,
-      "name": "What He Didn't Do - Acoustic",
-      "url": "https://open.spotify.com/track/5Jvc5wJuQOBrRxV5JgGgSX"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "TWENTY SOMETHING (DELUXE)",
         "url": "https://open.spotify.com/album/5MoyIbsjnEHO2o6BNKjCpd"
       },
@@ -1031,6 +999,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "What He Didn't Do (Acoustic)",
+        "url": "https://open.spotify.com/album/59dYMGSh4qPQ9X0tvsTAG9"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 189555,
+      "name": "What He Didn't Do - Acoustic",
+      "url": "https://open.spotify.com/track/5Jvc5wJuQOBrRxV5JgGgSX"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Trouble (Piano Version)",
         "url": "https://open.spotify.com/album/21mY8GTvLZrjy3GT8HlazU"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 214640,
       "name": "Trouble - Piano Version",
       "url": "https://open.spotify.com/track/42TvKuLe8AtI0MKyvtnzz8"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Slow Dance In A Parking Lot (Acoustic)",
+        "url": "https://open.spotify.com/album/7JG2UFjGvdHMQ6Zes4lclo"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Slow Dance In A Parking Lot - Acoustic",
+      "url": "https://open.spotify.com/track/2obDcF1vgEom76Mj3UZGxw"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Buy Dirt",
-        "url": "https://open.spotify.com/album/3T9Iw4QrkSpiJnqN0ZpNTd"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 170755,
-      "name": "Buy Dirt - Alternate Version",
-      "url": "https://open.spotify.com/track/6dYs20Vw8S9pzf8gR7BN0c"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "All Out Acoustic Sessions",
         "url": "https://open.spotify.com/album/6gjHiXBlEdFs4WpBlV66KB"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 190190,
       "name": "Forever and Always (Acoustic)",
       "url": "https://open.spotify.com/track/6S6DhJXFPuA6CcfqCbAH31"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Buy Dirt",
+        "url": "https://open.spotify.com/album/3T9Iw4QrkSpiJnqN0ZpNTd"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 170755,
+      "name": "Buy Dirt - Alternate Version",
+      "url": "https://open.spotify.com/track/6dYs20Vw8S9pzf8gR7BN0c"
     },
     {
       "added_at": "2024-02-23 05:00:00",

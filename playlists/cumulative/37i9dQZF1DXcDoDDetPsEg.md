@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist.
 
-978 songs - 2 day 2 hr 14 min
+979 songs - 2 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Bounce](https://open.spotify.com/track/02FFVT1DXOxvAiKYQ0EWob) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Bounce](https://open.spotify.com/album/2N4OkjYnMQ5zfY8QiulKmm) | 2:47 | 2022-06-24 | 2022-08-05 |
 | [Bow Down](https://open.spotify.com/track/6ebhtRkgKISGDaHyIxGIR5) | [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd) | [Bow Down](https://open.spotify.com/album/2YddCSvbNRpQiQA3EujzpB) | 2:57 | 2022-02-25 | 2022-04-08 |
 | [bread & butter](https://open.spotify.com/track/6GoVUO5vla1JtUj2rq9Yl4) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [bread & butter](https://open.spotify.com/album/332Rucu5r475vGx2bntaPb) | 3:46 | 2023-06-08 | 2023-07-07 |
+| [Breathe](https://open.spotify.com/track/5NAOhPAZ57eFAXr3qatS6i) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:50 | 2024-03-04 |  |
 | [Brick by Brick](https://open.spotify.com/track/0UcYXBvTQH62tkGiJkhv5H) | [Suspect OTB](https://open.spotify.com/artist/6UmdRN4VAfN58ZCLYGGBDE) | [Brick by Brick](https://open.spotify.com/album/52BVM9BUXNS21xpZKLxB1z) | 2:16 | 2022-05-06 | 2022-05-20 |
 | [Brik Pan Brik](https://open.spotify.com/track/5HaRoqxb0Y4aMW347qhTPG) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Brik Pan Brik](https://open.spotify.com/album/3L6LtJCp5c3O3X7K2NMkDW) | 2:40 | 2022-08-23 | 2022-08-31 |
 | [Brilliant Mind II](https://open.spotify.com/track/1XOkwSEuFloCRyxQdTJS1h) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Brilliant Mind II](https://open.spotify.com/album/3fBsD931UHRVPRFJZD3MDF) | 2:49 | 2023-11-10 |  |

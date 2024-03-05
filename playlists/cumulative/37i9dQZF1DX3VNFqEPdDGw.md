@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Intense & G.Sidhu
 
-104 songs - 5 hr 28 min
+105 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [NachLai Goriye](https://open.spotify.com/track/4QrBpxWTjXHj7oYTO2EBBY) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Desi Frenzy](https://open.spotify.com/artist/50FBY7deOzEIM580Ui6SzA) | [NachLai Goriye](https://open.spotify.com/album/06oJfyr9qICC85o6zkYEff) | 3:50 | 2021-12-18 |  |
 | [Necklace](https://open.spotify.com/track/4QxtPnup1D3WbwTW2SvNr4) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Judaa 3 Chapter 1](https://open.spotify.com/album/1bad04WweZQ3f1BWaIHmqf) | 3:35 | 2021-12-18 | 2022-01-11 |
 | [Number 5](https://open.spotify.com/track/2WucLX3feWudkrM2MBtN3I) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Honsla Rakh \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3LqKRnd8VRJazkkjv8bl81) | 2:54 | 2023-07-31 | 2024-03-02 |
-| [Number 5 \(From "Honsla Rakh"\)](https://open.spotify.com/track/0hCy5T6jrYksYIsCK6YZ4z) | [Intense](https://open.spotify.com/artist/4RoQtkwhuRs1MivL5XuB4E), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Honsla Rakh](https://open.spotify.com/album/1EaqN5XE5dodm8BinBlKkl) | 2:54 | 2024-01-31 |  |
+| [Number 5 \(From "Honsla Rakh"\)](https://open.spotify.com/track/0hCy5T6jrYksYIsCK6YZ4z) | [Intense](https://open.spotify.com/artist/4RoQtkwhuRs1MivL5XuB4E), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Honsla Rakh](https://open.spotify.com/album/1EaqN5XE5dodm8BinBlKkl) | 2:54 | 2024-01-31 | 2024-03-05 |
+| [Number 5 \(From "Honsla Rakh"\)](https://open.spotify.com/track/2G9m5QkNvyLbzxwlIcA6hO) | [Intense](https://open.spotify.com/artist/4RoQtkwhuRs1MivL5XuB4E), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Number 5 \(From "Honsla Rakh"\)](https://open.spotify.com/album/2jVEauUlHUuHCpOd0fcXQI) | 2:54 | 2024-01-31 |  |
 | [Obsessed](https://open.spotify.com/track/6Z4rRhYZVQsYKmrxD40tru) | [Riar Saab](https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q), [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [Obsessed](https://open.spotify.com/album/3LyafXRRJVEfcjTMr1N8Mu) | 3:10 | 2023-07-26 | 2023-08-04 |
 | [Old Skool](https://open.spotify.com/track/4V9rQZOGILc4YfBnCDXgTz) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Old Skool](https://open.spotify.com/album/357wf3qJ5AukE3IfN4e1Am) | 4:13 | 2022-07-05 |  |
 | [Old Skool](https://open.spotify.com/track/2LVAUzihvCwORPtqFB910K) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Naseeb](https://open.spotify.com/artist/68utQf42HeyJUbU8X9W0uf) | [Old Skool](https://open.spotify.com/album/5cO3OUv1X0oS1pDHQjeLoC) | 4:13 | 2023-11-17 | 2023-11-30 |

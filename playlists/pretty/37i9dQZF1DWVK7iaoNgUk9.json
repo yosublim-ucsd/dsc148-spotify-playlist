@@ -1,12 +1,12 @@
 {
   "description": "se for pra sofrer, que seja com trilha sonora n\u00e9 n\u00e3o?? ",
-  "num_followers": 529645,
+  "num_followers": 529689,
   "original_name": "Cora\u00e7\u00e3o Partido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWJmYTQxZmFlN2M2M2VhMWI0ODlhNjA3ZjAyZDQwMjEwYzljNDE2",
+  "snapshot_id": "MCw2YjE0MzU4ZTUzMGVlZTc4NGY0NTY5NmU3MmY5OGQyZDA5YWI5Yjhi",
   "tracks": [
     {
       "added_at": "2024-02-22 17:49:18",
@@ -355,6 +355,22 @@
     {
       "added_at": "2024-02-22 17:49:18",
       "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 172723,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
+    },
+    {
+      "added_at": "2024-02-22 17:49:18",
+      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 272186,
       "name": "The Weekend",
       "url": "https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57"
-    },
-    {
-      "added_at": "2024-02-22 17:49:18",
-      "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 172723,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
     },
     {
       "added_at": "2024-02-22 17:49:18",

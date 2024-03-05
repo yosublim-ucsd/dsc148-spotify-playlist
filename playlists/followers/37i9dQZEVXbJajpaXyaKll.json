@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 127951,
+  "2024-03-05": 127949,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Argentina.",
   "name": "Viral 50 - Argentina",
@@ -219,7 +219,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 115846,
       "name": "Baby Eu Tava na Rua da \u00c1gua",
       "url": "https://open.spotify.com/track/4sAoshwHCmh4IHMQxZHwRD"
@@ -1905,7 +1905,7 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 299810,
       "name": "Nunca Lo Olvides",
       "url": "https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV"

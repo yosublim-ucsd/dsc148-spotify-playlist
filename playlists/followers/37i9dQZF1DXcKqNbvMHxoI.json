@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 47186,
+  "2024-03-05": 47311,
   "date_first_scraped": "2022-04-14",
   "description": "Songs so beautiful, made for the night",
   "name": "The Most Beautiful Songs of the Night",
@@ -281,10 +281,28 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 551135,
       "name": "Be With U",
       "url": "https://open.spotify.com/track/3FnwmpfawWTBIRGMAkDqnr"
+    },
+    {
+      "album": {
+        "name": "Romantic Gestures Vol. 1",
+        "url": "https://open.spotify.com/album/7ABsKekiDD77Xsqp19fu9h"
+      },
+      "artists": [
+        {
+          "name": "Fort Romeau",
+          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 551135,
+      "name": "Be With U",
+      "url": "https://open.spotify.com/track/3sPzf4La58r3TxjqdLnoJY"
     },
     {
       "album": {

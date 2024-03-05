@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 
 > We hear you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,185,650 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,185,781 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 38 | [homies](https://open.spotify.com/track/3ocupZmiN2ZqQjTVntVtLv) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [homies](https://open.spotify.com/album/7by5M1CXms39FAGvXTlB9X) | 3:45 |
 | 39 | [Cotton Candy](https://open.spotify.com/track/4FF0tP9mkoiFKLiXFeXm0q) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Cotton Candy](https://open.spotify.com/album/3XUxXmuRsKJAmzCUrBwKR4) | 1:33 |
 | 40 | [Say Goodbye](https://open.spotify.com/track/3xNIVmBIe839tAsoGe3A4b) | [Monty Datta](https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP) | [Say Goodbye](https://open.spotify.com/album/29gE3OIitSeBAcDEUvaDWp) | 2:30 |
-| 41 | [ALLERGIC](https://open.spotify.com/track/6DP8InyxdyYChHb2tcV6ia) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [ALLERGIC](https://open.spotify.com/album/2Ftd8lx8OfGra32bqFbu1f) | 2:35 |
-| 42 | [Hollow Prayers](https://open.spotify.com/track/08uumZhgj0kq2AbQUoONHm) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [The Lost Petals](https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC) | 2:46 |
+| 41 | [Hollow Prayers](https://open.spotify.com/track/08uumZhgj0kq2AbQUoONHm) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [The Lost Petals](https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC) | 2:46 |
+| 42 | [ALLERGIC](https://open.spotify.com/track/6DP8InyxdyYChHb2tcV6ia) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [ALLERGIC](https://open.spotify.com/album/2Ftd8lx8OfGra32bqFbu1f) | 2:35 |
 | 43 | [You Don't Want Me Anymore](https://open.spotify.com/track/0K4gxQ2u3545b0GAu85ObO) | [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP), [Teqkoi](https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD) | [You Don't Want Me Anymore](https://open.spotify.com/album/3fIR123EC4MJUYmPPAJ0Ss) | 2:45 |
 | 44 | [Home for the Summer](https://open.spotify.com/track/14ahZtLV5yKtqQATTfQta0) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Home for the Summer](https://open.spotify.com/album/38Bdsn6is11xS3sKPJsdNX) | 2:35 |
 | 45 | [Pictures of Us](https://open.spotify.com/track/2VL573wd9nlqXYHaQoFXfV) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 4:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 99 | [Emotionless](https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [Emotionless](https://open.spotify.com/album/1kYZYrM6n5Io70OGadcoxl) | 2:28 |
 | 100 | [Insane](https://open.spotify.com/track/3mLFCocZgUvih60frphM6l) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [Insane](https://open.spotify.com/album/21gi2LoATc1aYgKLD39uVy) | 2:46 |
 
-Snapshot ID: `MCw4MDBiNzQ2MzI2OTNjNWEwZmRjYmE0YjRlZjI1NTEzOWM5NGM0MzU4`
+Snapshot ID: `MCw1M2NjMTIwNGE2OGEzODExNmVjMzU2NzFkMzA2ZDAyZDFjYzgwNmIz`

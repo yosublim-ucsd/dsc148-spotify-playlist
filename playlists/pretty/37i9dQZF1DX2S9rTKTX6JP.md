@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 
 > killer rock & alternative covers\. Cover: Paramore
 
-[Spotify](https://open.spotify.com/user/spotify) - 671,417 likes - 150 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 671,499 likes - 150 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 18 | [The Sound of Silence](https://open.spotify.com/track/1Cj2vqUwlJVG27gJrun92y) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Immortalized](https://open.spotify.com/album/3qFQ4XNQ15alZrAaj5oGJK) | 4:08 |
 | 19 | [Last Kiss](https://open.spotify.com/track/0QnONzv3TvHAWk294h6DaQ) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Last Kiss](https://open.spotify.com/album/11BDZR6NRHwPiPy1WQr4Jf) | 3:15 |
 | 20 | [Hard To Handle](https://open.spotify.com/track/05NYcsjJwOYq4jIiKPVj9p) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Shake Your Money Maker](https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3) | 3:08 |
-| 21 | [Live And Let Die](https://open.spotify.com/track/0rFWuqFgHAfuzE8uSB9TWR) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 3:02 |
+| 21 | [Hallelujah](https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:53 |
 | 22 | [ARMY OF ME](https://open.spotify.com/track/2AVYRVgHgIhRPs8a1d4ynL) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [GODMODE](https://open.spotify.com/album/2c1e4GA90vn9Arbo4b8CU7) | 3:10 |
 | 23 | [Be Quiet and Drive \(Far Away\) – Spotify Singles](https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [Be Quiet and Drive \(Far Away\) – Spotify Singles](https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr) | 3:07 |
-| 24 | [Hallelujah](https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:53 |
+| 24 | [Live And Let Die](https://open.spotify.com/track/0rFWuqFgHAfuzE8uSB9TWR) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 3:02 |
 | 25 | [Love Buzz](https://open.spotify.com/track/5muVpPu8Fj9fXfDbbqDdrZ) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach](https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7) | 3:35 |
 | 26 | [You Really Got Me \- 2015 Remaster](https://open.spotify.com/track/0upLyFR8Rr52ZpMp5esQoq) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen \(Remastered\)](https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ) | 2:36 |
 | 27 | [Higher Ground \- Remastered 2003](https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Mother's Milk](https://open.spotify.com/album/1oOkcBu5bgkUzZTvKD1m8z) | 3:22 |
@@ -101,9 +101,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 91 | [Imagine](https://open.spotify.com/track/34tYgJ1vX0sRpjm4teNWVe) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [eMOTIVe](https://open.spotify.com/album/2UAin9VEGxiZRfe9Q7SKg4) | 4:48 |
 | 92 | [Stand By Me](https://open.spotify.com/track/4jpYBxEFpa1Rdw1yAXVSAZ) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Wild Card/A Word To The Wise](https://open.spotify.com/album/3YpA1wk8b1yLCYBDb8PS0r) | 3:07 |
 | 93 | [Addicted To Love](https://open.spotify.com/track/3fNuoybebaufvtFBo5TDWO) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 3:19 |
-| 94 | [Alive](https://open.spotify.com/track/1ip7DKU9LjT6aR4FdvD3Mv) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Alive](https://open.spotify.com/album/3I7151w5slYCNssX8nmUNL) | 4:22 |
-| 95 | [Just Like Heaven](https://open.spotify.com/track/69u4YVuqKoVp3nZmpyxC8I) | [Dinosaur Jr.](https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ) | [You're Living All Over Me](https://open.spotify.com/album/3peMqhMZ1HT8N4lvSS3GPu) | 2:53 |
-| 96 | [Skyfall](https://open.spotify.com/track/77WO0JSWRfhu0ek3Zp2amk) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Age Of Ignorance \(Deluxe Edition\)](https://open.spotify.com/album/2XGFVYNHi4z3zwd3e2kNO1) | 4:09 |
+| 94 | [Skyfall](https://open.spotify.com/track/77WO0JSWRfhu0ek3Zp2amk) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Age Of Ignorance \(Deluxe Edition\)](https://open.spotify.com/album/2XGFVYNHi4z3zwd3e2kNO1) | 4:09 |
+| 95 | [Alive](https://open.spotify.com/track/1ip7DKU9LjT6aR4FdvD3Mv) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Alive](https://open.spotify.com/album/3I7151w5slYCNssX8nmUNL) | 4:22 |
+| 96 | [Just Like Heaven](https://open.spotify.com/track/69u4YVuqKoVp3nZmpyxC8I) | [Dinosaur Jr.](https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ) | [You're Living All Over Me](https://open.spotify.com/album/3peMqhMZ1HT8N4lvSS3GPu) | 2:53 |
 | 97 | [Walk](https://open.spotify.com/track/3fDV1GHwjDNhWEMDKupa9Q) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Walk](https://open.spotify.com/album/0RRiEMw1qixO3fKbuD4iqT) | 5:21 |
 | 98 | [Rebel Yell](https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Rebels](https://open.spotify.com/album/1rtB3hzE9dbjJMP7dYy9rF) | 4:38 |
 | 99 | [Get Lucky](https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [ReAniMate 2.0: The CoVeRs eP](https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA) | 3:08 |
@@ -113,10 +113,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 103 | [Listen To Your Heart](https://open.spotify.com/track/6NxTKEfNa5DyhOIin6VWYP) | [Through Fire](https://open.spotify.com/artist/1SPVRGHIGb9TJxBKQ9O9XT) | [All Animal](https://open.spotify.com/album/5hDU20tlpRjeN2PJnmfiv6) | 3:35 |
 | 104 | [Royals](https://open.spotify.com/track/3RZxpy9ic7FhK3UPvxmPET) | [Youth in Revolt](https://open.spotify.com/artist/2bAEq3Pn4AHfpyffs2s8ai) | [Punk Goes Pop, Vol\. 6](https://open.spotify.com/album/1l6S45U20fiob98cV6siw8) | 3:24 |
 | 105 | [Wicked Game \- Acoustic; Live](https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[Special Edition\]](https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV) | 4:27 |
-| 106 | [...Baby One More Time](https://open.spotify.com/track/1wb2o0e5qrwSSoDUVIz6WM) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Goes to the Movies \(Expanded Edition\)](https://open.spotify.com/album/4ZgrTd5XdnWWwmfXGJMGAV) | 3:29 |
-| 107 | [Billie Jean](https://open.spotify.com/track/7sZD8tOmfRUObogGX8VzfZ) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Carry On](https://open.spotify.com/album/7DTYi2YCfQZGDyeedTdNGb) | 4:41 |
-| 108 | [I Think We're Alone Now](https://open.spotify.com/track/6h8QlZzBBnZhF4EkGi8JPr) | [Billie Joe Armstrong](https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [I Think We're Alone Now](https://open.spotify.com/album/2FYNBNvvPgrUYC87Lqvz6W) | 2:14 |
-| 109 | [Beat It \- Studio Version Featuring John Mayer](https://open.spotify.com/track/0BrgzTEWfI0QZLRJqzJbPa) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Live In Phoenix](https://open.spotify.com/album/5QFioUfHFxQFKULZli3BTF) | 3:50 |
+| 106 | [Beat It \- Studio Version Featuring John Mayer](https://open.spotify.com/track/0BrgzTEWfI0QZLRJqzJbPa) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Live In Phoenix](https://open.spotify.com/album/5QFioUfHFxQFKULZli3BTF) | 3:50 |
+| 107 | [...Baby One More Time](https://open.spotify.com/track/1wb2o0e5qrwSSoDUVIz6WM) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Goes to the Movies \(Expanded Edition\)](https://open.spotify.com/album/4ZgrTd5XdnWWwmfXGJMGAV) | 3:29 |
+| 108 | [Billie Jean](https://open.spotify.com/track/7sZD8tOmfRUObogGX8VzfZ) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Carry On](https://open.spotify.com/album/7DTYi2YCfQZGDyeedTdNGb) | 4:41 |
+| 109 | [I Think We're Alone Now](https://open.spotify.com/track/6h8QlZzBBnZhF4EkGi8JPr) | [Billie Joe Armstrong](https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [I Think We're Alone Now](https://open.spotify.com/album/2FYNBNvvPgrUYC87Lqvz6W) | 2:14 |
 | 110 | [Stairway to Heaven](https://open.spotify.com/track/0il7xIzXf94gNmYw2tnsUI) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Stairway to Nick John](https://open.spotify.com/album/1fifpfPsjplmA61cZcxN1e) | 8:05 |
 | 111 | [My Sharona \- Live Session from Abbey Road Studios, London, UK](https://open.spotify.com/track/361ef8N2HYBcKgiU11kkfH) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Spotify Singles](https://open.spotify.com/album/6WFgRdGLClgQWNNWgokbAD) | 2:32 |
 | 112 | [Numb \(Acoustic\)](https://open.spotify.com/track/4D6amyd3ONcv28VBe07xsk) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [Decade II: Rock & Acoustic](https://open.spotify.com/album/2KTwK7D7uge6M1x6PzKHfi) | 3:18 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 149 | [PSYCHO KILLER \(featuring Victoria De Angelis\)](https://open.spotify.com/track/6Kl9rabCEVbBpegNTQfFc6) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [DANSE MACABRE](https://open.spotify.com/album/0KisxbRkcWcpSLtjioptif) | 4:25 |
 | 150 | [I Don't Care Anymore \- Acoustic](https://open.spotify.com/track/5Je7sK7Fu1FteAEalxpQgv) | [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [I Don't Care Anymore \(Acoustic\)](https://open.spotify.com/album/5HaLKxgY6mP43Rs1JNYbt7) | 4:07 |
 
-Snapshot ID: `MCxiNThiMWRiMWJjYTRhZDE1NzQyZmM5NTAxMmVlY2Q0MWI2MGM4YTIw`
+Snapshot ID: `MCwxYzM0NDk5NWQzZGVkYjQzOTU5MDk4Mjg3ZDI5MjFkZDc1YTQ2N2Y1`

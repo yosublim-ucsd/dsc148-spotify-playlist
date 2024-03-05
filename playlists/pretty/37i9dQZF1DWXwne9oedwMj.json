@@ -1,12 +1,12 @@
 {
   "description": "Su\u00e9ltala que ella baila sola. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>  ",
-  "num_followers": 550396,
+  "num_followers": 550174,
   "original_name": "Con B de Bichota",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmU1YjcyMTEwZjAwYTVhMjc1NzY4NGI5NmNhNzZlZjQ3Y2ZiNjFi",
+  "snapshot_id": "MCw3YzJlODAzYTI3ZGY4NDhlNWYyZTkxMDM5ZTllYjcyZDc5OWFlNjRj",
   "tracks": [
     {
       "added_at": "2023-07-28 18:06:51",
@@ -155,42 +155,6 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
-        "name": "Timelezz",
-        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 263253,
-      "name": "Ley Seca",
-      "url": "https://open.spotify.com/track/3JCaq3KDSROg3TXhdiDa9n"
-    },
-    {
-      "added_at": "2023-07-28 18:06:51",
-      "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 163084,
-      "name": "La Dif\u00edcil",
-      "url": "https://open.spotify.com/track/6NfrH0ANGmgBXyxgV2PeXt"
-    },
-    {
-      "added_at": "2023-07-28 18:06:51",
-      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -211,18 +175,38 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
-        "name": "VICE VERSA",
-        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 214857,
-      "name": "La Old Skul",
-      "url": "https://open.spotify.com/track/4Z8HZSApeddaRM2ovivUj4"
+      "duration_ms": 163084,
+      "name": "La Dif\u00edcil",
+      "url": "https://open.spotify.com/track/6NfrH0ANGmgBXyxgV2PeXt"
+    },
+    {
+      "added_at": "2023-07-28 18:06:51",
+      "album": {
+        "name": "Timelezz",
+        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 263253,
+      "name": "Ley Seca",
+      "url": "https://open.spotify.com/track/3JCaq3KDSROg3TXhdiDa9n"
     },
     {
       "added_at": "2023-07-28 18:06:51",
@@ -247,6 +231,58 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
+        "name": "Envolver",
+        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
+    },
+    {
+      "added_at": "2023-07-28 18:06:51",
+      "album": {
+        "name": "VICE VERSA",
+        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 214857,
+      "name": "La Old Skul",
+      "url": "https://open.spotify.com/track/4Z8HZSApeddaRM2ovivUj4"
+    },
+    {
+      "added_at": "2023-07-28 18:06:51",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 198666,
+      "name": "CAIRO",
+      "url": "https://open.spotify.com/track/16dUQ4quIHDe4ZZ0wF1EMN"
+    },
+    {
+      "added_at": "2023-07-28 18:06:51",
+      "album": {
         "name": "MALA SANTA",
         "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
       },
@@ -263,22 +299,6 @@
       "duration_ms": 203186,
       "name": "Mayores",
       "url": "https://open.spotify.com/track/2AY1UAimvTqjJC8vDJsOyy"
-    },
-    {
-      "added_at": "2023-07-28 18:06:51",
-      "album": {
-        "name": "Envolver",
-        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
       "added_at": "2023-07-28 18:06:51",
@@ -307,22 +327,6 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 172127,
-      "name": "Yo Perreo Sola",
-      "url": "https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw"
-    },
-    {
-      "added_at": "2023-07-28 18:06:51",
-      "album": {
         "name": "Ella No Es Tuya (Remix)",
         "url": "https://open.spotify.com/album/5Jk2ROWL8a4RxmFNiT8pvA"
       },
@@ -347,6 +351,22 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 172127,
+      "name": "Yo Perreo Sola",
+      "url": "https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw"
+    },
+    {
+      "added_at": "2023-07-28 18:06:51",
+      "album": {
         "name": "Colores",
         "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
       },
@@ -359,6 +379,26 @@
       "duration_ms": 205933,
       "name": "Azul",
       "url": "https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1"
+    },
+    {
+      "added_at": "2023-07-28 18:06:51",
+      "album": {
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "EL MAKINON",
+      "url": "https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M"
     },
     {
       "added_at": "2023-07-28 18:06:51",
@@ -379,26 +419,6 @@
       "duration_ms": 143935,
       "name": "DISPARA ***",
       "url": "https://open.spotify.com/track/5y0zaOse4LHZ6ZowjpL0vW"
-    },
-    {
-      "added_at": "2023-07-28 18:06:51",
-      "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO",
-        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 198666,
-      "name": "CAIRO",
-      "url": "https://open.spotify.com/track/16dUQ4quIHDe4ZZ0wF1EMN"
     },
     {
       "added_at": "2023-07-28 18:06:51",
@@ -455,6 +475,22 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
+        "name": "S91",
+        "url": "https://open.spotify.com/album/0bgvd5Xd52TX61R8uhaISK"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 173005,
+      "name": "S91",
+      "url": "https://open.spotify.com/track/7EpOXgSRgnglRWr86pZfGU"
+    },
+    {
+      "added_at": "2023-07-28 18:06:51",
+      "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
       },
@@ -499,26 +535,6 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "EL MAKINON",
-      "url": "https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M"
-    },
-    {
-      "added_at": "2023-07-28 18:06:51",
-      "album": {
         "name": "PARA\u00cdSO",
         "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
       },
@@ -531,58 +547,6 @@
       "duration_ms": 202967,
       "name": "CALENT\u00d3N",
       "url": "https://open.spotify.com/track/3l9YiADzNmEvBfZVPEF49F"
-    },
-    {
-      "added_at": "2023-07-28 18:06:51",
-      "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 137533,
-      "name": "SAOKO",
-      "url": "https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG"
-    },
-    {
-      "added_at": "2023-07-28 18:06:51",
-      "album": {
-        "name": "Ptazeta: Bzrp Music Sessions, Vol. 45",
-        "url": "https://open.spotify.com/album/6lY3u461PHRz0PsO4KwzWU"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        }
-      ],
-      "duration_ms": 161485,
-      "name": "Ptazeta: Bzrp Music Sessions, Vol. 45",
-      "url": "https://open.spotify.com/track/4axxCbc4tWlpqHP5UbJMc3"
-    },
-    {
-      "added_at": "2023-07-28 18:06:51",
-      "album": {
-        "name": "La Triple T",
-        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 167674,
-      "name": "La Triple T",
-      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
     },
     {
       "added_at": "2023-07-28 18:06:51",
@@ -611,22 +575,6 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
-        "name": "S91",
-        "url": "https://open.spotify.com/album/0bgvd5Xd52TX61R8uhaISK"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 173005,
-      "name": "S91",
-      "url": "https://open.spotify.com/track/7EpOXgSRgnglRWr86pZfGU"
-    },
-    {
-      "added_at": "2023-07-28 18:06:51",
-      "album": {
         "name": "FRIKI",
         "url": "https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2"
       },
@@ -643,6 +591,42 @@
       "duration_ms": 144986,
       "name": "FRIKI",
       "url": "https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB"
+    },
+    {
+      "added_at": "2023-07-28 18:06:51",
+      "album": {
+        "name": "Ptazeta: Bzrp Music Sessions, Vol. 45",
+        "url": "https://open.spotify.com/album/6lY3u461PHRz0PsO4KwzWU"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        }
+      ],
+      "duration_ms": 161485,
+      "name": "Ptazeta: Bzrp Music Sessions, Vol. 45",
+      "url": "https://open.spotify.com/track/4axxCbc4tWlpqHP5UbJMc3"
+    },
+    {
+      "added_at": "2023-07-28 18:06:51",
+      "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 137533,
+      "name": "SAOKO",
+      "url": "https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG"
     },
     {
       "added_at": "2023-07-28 18:06:51",
@@ -667,26 +651,18 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
-        "name": "La Loto",
-        "url": "https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y"
+        "name": "La Triple T",
+        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
       },
       "artists": [
         {
           "name": "TINI",
           "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 190666,
-      "name": "La Loto",
-      "url": "https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk"
+      "duration_ms": 167674,
+      "name": "La Triple T",
+      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
     },
     {
       "added_at": "2023-07-28 18:06:51",
@@ -707,26 +683,6 @@
       "duration_ms": 150612,
       "name": "Te Cura",
       "url": "https://open.spotify.com/track/0RpL1pOALdN5E4Ci1tYG1y"
-    },
-    {
-      "added_at": "2023-07-28 18:06:51",
-      "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "LA COMBI VERSACE",
-      "url": "https://open.spotify.com/track/5gCNf9wMVrYuM2fvfgLTlF"
     },
     {
       "added_at": "2023-07-28 18:06:51",
@@ -791,6 +747,50 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
+        "name": "La Loto",
+        "url": "https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "La Loto",
+      "url": "https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk"
+    },
+    {
+      "added_at": "2023-07-28 18:06:51",
+      "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "LA COMBI VERSACE",
+      "url": "https://open.spotify.com/track/5gCNf9wMVrYuM2fvfgLTlF"
+    },
+    {
+      "added_at": "2023-07-28 18:06:51",
+      "album": {
         "name": "Colocao",
         "url": "https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm"
       },
@@ -843,22 +843,22 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
-        "name": "MOTOMAMI +",
-        "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
+        "name": "DISCOTEKA",
+        "url": "https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         },
         {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 204654,
-      "name": "CANDY - Remix",
-      "url": "https://open.spotify.com/track/3VjCEyc0bHfa4Ie34kbWyb"
+      "duration_ms": 174801,
+      "name": "DISCOTEKA",
+      "url": "https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC"
     },
     {
       "added_at": "2023-07-28 18:06:51",
@@ -875,6 +875,26 @@
       "duration_ms": 186120,
       "name": "Zorra",
       "url": "https://open.spotify.com/track/0OP1RzrglC008kj79Httv3"
+    },
+    {
+      "added_at": "2023-07-28 18:06:51",
+      "album": {
+        "name": "MOTOMAMI +",
+        "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 204654,
+      "name": "CANDY - Remix",
+      "url": "https://open.spotify.com/track/3VjCEyc0bHfa4Ie34kbWyb"
     },
     {
       "added_at": "2023-07-28 18:06:51",
@@ -915,26 +935,6 @@
       "duration_ms": 172621,
       "name": "te pongo mal(prendelo)",
       "url": "https://open.spotify.com/track/36Qi2bHMzLMQIHApHFytgv"
-    },
-    {
-      "added_at": "2023-07-28 18:06:51",
-      "album": {
-        "name": "DISCOTEKA",
-        "url": "https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 174801,
-      "name": "DISCOTEKA",
-      "url": "https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC"
     },
     {
       "added_at": "2023-07-28 18:06:51",

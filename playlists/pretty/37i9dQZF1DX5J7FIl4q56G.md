@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Ministry
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,856 likes - 56 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,922 likes - 56 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 55 | [Hateful Thing](https://open.spotify.com/track/2wX7Gg3OmC6FZ2Z19GeYiX) | [The Talon](https://open.spotify.com/artist/2Tjzc5qmjZitZGevgFdBQj) | [Hateful Thing](https://open.spotify.com/album/6vVqC6kfgbgCE0L6Uy0EAF) | 3:16 |
 | 56 | [E.X.I.T.](https://open.spotify.com/track/4f2hClEenwgWD0y3BPdBtu) | [While Oceans Burn](https://open.spotify.com/artist/4FKHhRVQJg6ya19DuFbrf7) | [E.X.I.T.](https://open.spotify.com/album/2hOqIZNiEjjeryQ617JhcO) | 3:18 |
 
-Snapshot ID: `MCwxYTg0ZjdmNWJhNzM4MTczNWJlMmQyNTBiZDhmNzgxNmE3ZjQ3NGE5`
+Snapshot ID: `MCwwYmJiODQyNDQ2OWQ4YTEyNTkxYzk5YzU0MzdhODYyOTc3MjJmYzA4`

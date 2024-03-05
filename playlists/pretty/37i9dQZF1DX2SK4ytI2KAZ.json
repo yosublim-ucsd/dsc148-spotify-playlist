@@ -1,12 +1,12 @@
 {
   "description": "have fun with it.",
-  "num_followers": 709954,
+  "num_followers": 710022,
   "original_name": "it's alt good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTBlNTAzNzM3MzYwM2I3OWFjODg2N2ZhMTViZjQ2ZWViMmFlODIw",
+  "snapshot_id": "MCxhMDI3ZjUyMDg4MzA5Y2IzYTExY2RiNGM2ODY4OGYxMDkzZDFhMzE0",
   "tracks": [
     {
       "added_at": "2024-02-16 17:02:19",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-02-16 17:02:19",
       "album": {
-        "name": "cough drops",
-        "url": "https://open.spotify.com/album/4gM0KEbTRLuejffBFA1kph"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 163990,
-      "name": "cough drops",
-      "url": "https://open.spotify.com/track/5Jpj3lCgX06bu6STIjUYKN"
-    },
-    {
-      "added_at": "2024-02-16 17:02:19",
-      "album": {
         "name": "All We Ever Do Is Talk",
         "url": "https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 226133,
       "name": "All We Ever Do Is Talk",
       "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
+    },
+    {
+      "added_at": "2024-02-16 17:02:19",
+      "album": {
+        "name": "cough drops",
+        "url": "https://open.spotify.com/album/4gM0KEbTRLuejffBFA1kph"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 163990,
+      "name": "cough drops",
+      "url": "https://open.spotify.com/track/5Jpj3lCgX06bu6STIjUYKN"
     },
     {
       "added_at": "2024-02-16 17:02:19",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-02-16 17:02:19",
       "album": {
-        "name": "only wanna dance",
-        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 144391,
-      "name": "only wanna dance",
-      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
-    },
-    {
-      "added_at": "2024-02-16 17:02:19",
-      "album": {
         "name": "The Dark",
         "url": "https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 195440,
       "name": "Devils Haircut",
       "url": "https://open.spotify.com/track/47OEl1PttAFxNEf9KRmx23"
+    },
+    {
+      "added_at": "2024-02-16 17:02:19",
+      "album": {
+        "name": "only wanna dance",
+        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 144391,
+      "name": "only wanna dance",
+      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
     },
     {
       "added_at": "2024-02-16 17:02:19",

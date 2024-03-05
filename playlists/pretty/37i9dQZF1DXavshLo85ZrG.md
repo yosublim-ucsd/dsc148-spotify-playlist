@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavshLo85ZrG.md) - [plain]
 
 > Featuring Mont, Eladio Carrion, Don Omar & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,522 likes - 25 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,524 likes - 25 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavshLo85ZrG.md) - [plain]
 | 18 | [SHERATON](https://open.spotify.com/track/6sOSd3PYqy3UnSXF5r0MvN) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [SHERATON](https://open.spotify.com/album/0kfpaS0fOMNNohtRbY7ZxI) | 2:22 |
 | 19 | [Todo Menso](https://open.spotify.com/track/7Cz1P6tmbAOqLrZMh5Z5T8) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [Todo Menso](https://open.spotify.com/album/3YlsvvJJGrV32DPTruOIyH) | 3:11 |
 | 20 | [Arcángel: Bzrp Music Sessions, Vol\. 54](https://open.spotify.com/track/7cQ0LAxT5HHCLGbxcjaxac) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Arcángel: Bzrp Music Sessions, Vol\. 54](https://open.spotify.com/album/3Bj4v1YmWsctoEsSkEPg63) | 3:43 |
-| 21 | [Sin Ropa](https://open.spotify.com/track/65zzffhSKrsRdFixsTKsyk) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Sin Ropa](https://open.spotify.com/album/2UUSErYubfINqZTcUaizo2) | 3:07 |
+| 21 | [Sin Ropa](https://open.spotify.com/track/6nNTr55sW80fqVvOs9mjas) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Millas](https://open.spotify.com/album/7MsDcsYC72Qjv6O5AzqUpf) | 3:07 |
 | 22 | [Problem Childs](https://open.spotify.com/track/23Fmq949U38V5WpSbNS1N7) | [Fresy Franklin](https://open.spotify.com/artist/0y5H4Nr7bNWfBINIh8671t), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Problem Childs](https://open.spotify.com/album/2eIy6Vxoqwv7cDZooUU65D) | 3:58 |
 | 23 | [Te He Querido, Te He Llorado](https://open.spotify.com/track/61HuVAedKGMO7jWl8ZyALQ) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Flashback](https://open.spotify.com/album/7tKeiurj0n5DmV57x7p6U4) | 4:13 |
 | 24 | [Baby Girl](https://open.spotify.com/track/3GHHqeqPmU7Aggw8yT9O3P) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Baby Girl](https://open.spotify.com/album/5H67cNp6Qd44ozdgupssXB) | 3:17 |
 | 25 | [Fendi & Valentino](https://open.spotify.com/track/6zfmaPzczHb0NiXglOxamn) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Sahir](https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh) | [Fendi & Valentino](https://open.spotify.com/album/2aXzhaV9TkNFsmUnkOUBy9) | 4:02 |
 
-Snapshot ID: `MCw4NTQ4MDM0OWJjZWU0YTRmYjAzYjlhZWU2YzI1ZTRkMjJkNWNmOTZi`
+Snapshot ID: `MCw1YTViNzZlZDIyZmQwNzlhMDBkOWMzMTcxZDU5Y2VhYTE4ZGQ3NTA5`

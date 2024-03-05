@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 
 > So smooth, so classic\. Cover: George Benson
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,458 likes - 60 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,525 likes - 60 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 | 7 | [After Hours \(The Antidote\)](https://open.spotify.com/track/2zAXsQFmNRcDQOSzuPrWTs) | [Ronny Jordan](https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9) | [The Antidote](https://open.spotify.com/album/5OKMEQpUvwvkr89q9xumdx) | 5:51 |
 | 8 | [Smooth Sensation](https://open.spotify.com/track/1jKOG02lqHnwYXHpyLF3Nd) | [Ken Navarro](https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a) | [Smooth Sensation](https://open.spotify.com/album/12tng68mKohYzlVWT1QRna) | 4:36 |
 | 9 | [Seventh Heaven \(feat\. Jeff Golub\)](https://open.spotify.com/track/2ZZ6st5XTa8wDNqsE1bHa7) | [Avenue Blue \(Featuring Jeff Golub\)](https://open.spotify.com/artist/2TQGAlirZ6ePbgec2TvLK9) | [Nightlife](https://open.spotify.com/album/2EnhcAGKSkoGRFiY6xd1ke) | 5:10 |
-| 10 | [Pleasure Seeker](https://open.spotify.com/track/5SvuXJKhqhw8jnQnqKegA5) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Pleasure Seeker](https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA) | 4:29 |
-| 11 | [That's The Way Love Goes](https://open.spotify.com/track/6UkHSbQcqBwWZr98OSELoL) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [After The Storm](https://open.spotify.com/album/5vhTq5K0zLlKHovFu7MpWj) | 4:45 |
+| 10 | [That's The Way Love Goes](https://open.spotify.com/track/6UkHSbQcqBwWZr98OSELoL) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [After The Storm](https://open.spotify.com/album/5vhTq5K0zLlKHovFu7MpWj) | 4:45 |
+| 11 | [Pleasure Seeker](https://open.spotify.com/track/5SvuXJKhqhw8jnQnqKegA5) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Pleasure Seeker](https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA) | 4:29 |
 | 12 | [After Midnight](https://open.spotify.com/track/3SLymEfGv5dc6gjCw3fMjL) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [From The Heart](https://open.spotify.com/album/4zruOfVUsfrvLZ9lkND7mW) | 5:13 |
 | 13 | [Walking In Rhythm](https://open.spotify.com/track/4gdFN6gHpjay9QRCtuGnAq) | [Joe McBride](https://open.spotify.com/artist/0fqABdgGiy0H0NLUb5GNWs) | [A Gift For Tomorrow](https://open.spotify.com/album/69AsVSIaoenj2pN7syJqHo) | 5:07 |
 | 14 | [Caravan of Dreams](https://open.spotify.com/track/6Uob2aJYqcqPv5Z2BigRg6) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Caravan Of Dreams](https://open.spotify.com/album/55QEhe7Ecp7yZLgaVobo4X) | 6:00 |
@@ -29,12 +29,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 | 19 | [101 Eastbound](https://open.spotify.com/track/44bwIGyn4u4e1ydT4Zm1B1) | [Fourplay](https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS) | [Fourplay](https://open.spotify.com/album/6k3c57IxYJVjP2shJa3TXy) | 5:56 |
 | 20 | [So Amazing](https://open.spotify.com/track/6vRfKcVF63Chfd63VQyqhT) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Just Between Us](https://open.spotify.com/album/6bwAkYAEZ8eA9rskEYtPoN) | 4:49 |
 | 21 | [Ascension](https://open.spotify.com/track/4qOSCREAKK2OnuDqzyTMzr) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [For You](https://open.spotify.com/album/6DnOL6zVqcQh1iJQiH1KhQ) | 5:14 |
-| 22 | [Day By Day](https://open.spotify.com/track/6wunt9r2WbTh0pacCFkSrK) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Day By Day](https://open.spotify.com/album/64WYFNY33qxTidADO4omGA) | 5:04 |
-| 23 | [Warm Weather \- 12" Version](https://open.spotify.com/track/27IMcFJ1lv1vFSoKu0qjEJ) | [Pieces Of A Dream](https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE) | [Pieces Of A Dream](https://open.spotify.com/album/5Klr007OlD9KfWR6miKTuC) | 4:06 |
-| 24 | [Nightfall](https://open.spotify.com/track/7fKo8Bl3VEm87tc70jx05r) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Full Stride](https://open.spotify.com/album/30r0DoPQxBqIz3RBoxpcSj) | 4:20 |
-| 25 | [Bridge Through Time](https://open.spotify.com/track/3WmH2tJbogJcrVSrtdlMPO) | [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK) | [Love Is The Answer \(Expanded\)](https://open.spotify.com/album/5tfEMJRMXkGeDAkg8tE6h8) | 4:01 |
-| 26 | [So Far From Home](https://open.spotify.com/track/1AjXzYmLg24sfQE0gy4Tmb) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Dave Koz](https://open.spotify.com/album/28dV8nGn5PWCWBvDX1SdIU) | 6:10 |
-| 27 | [Sunset Bay](https://open.spotify.com/track/41e8ef0fMSC0rBDfNjpuAi) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Steppin' Out](https://open.spotify.com/album/5QLCBr09jZYyJNm9OVP2fi) | 4:57 |
+| 22 | [Warm Weather \- 12" Version](https://open.spotify.com/track/27IMcFJ1lv1vFSoKu0qjEJ) | [Pieces Of A Dream](https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE) | [Pieces Of A Dream](https://open.spotify.com/album/5Klr007OlD9KfWR6miKTuC) | 4:06 |
+| 23 | [Nightfall](https://open.spotify.com/track/7fKo8Bl3VEm87tc70jx05r) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Full Stride](https://open.spotify.com/album/30r0DoPQxBqIz3RBoxpcSj) | 4:20 |
+| 24 | [Bridge Through Time](https://open.spotify.com/track/3WmH2tJbogJcrVSrtdlMPO) | [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK) | [Love Is The Answer \(Expanded\)](https://open.spotify.com/album/5tfEMJRMXkGeDAkg8tE6h8) | 4:01 |
+| 25 | [So Far From Home](https://open.spotify.com/track/1AjXzYmLg24sfQE0gy4Tmb) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Dave Koz](https://open.spotify.com/album/28dV8nGn5PWCWBvDX1SdIU) | 6:10 |
+| 26 | [Sunset Bay](https://open.spotify.com/track/41e8ef0fMSC0rBDfNjpuAi) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Steppin' Out](https://open.spotify.com/album/5QLCBr09jZYyJNm9OVP2fi) | 4:57 |
+| 27 | [Day By Day](https://open.spotify.com/track/6wunt9r2WbTh0pacCFkSrK) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Day By Day](https://open.spotify.com/album/64WYFNY33qxTidADO4omGA) | 5:04 |
 | 28 | [Fly Away \(Thinking Of You\)](https://open.spotify.com/track/2Cvg3IXEWWMTYTvd8HqpaG) | [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [Blue Touch](https://open.spotify.com/album/6oRxJn0ULf3TFGfqiFargV) | 3:50 |
 | 29 | [Creepin'](https://open.spotify.com/track/6B4h6RRIQWRgXALcOjYLPo) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Trust](https://open.spotify.com/album/0tg8rdfKdeKxucD3R6al9Q) | 3:40 |
 | 30 | [Smooth](https://open.spotify.com/track/5yUImzMKMFku3Kyj8CnD74) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [For The Love Of You](https://open.spotify.com/album/78YHzWODYDS9ak6GPXiyX7) | 4:35 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 | 59 | [Daydreamer](https://open.spotify.com/track/5JIxKHTZNGtlD809RTew19) | [Hiroshima](https://open.spotify.com/artist/5ZoVY6c0cokQrn448eRqSc) | [East](https://open.spotify.com/album/7Jaivw1fpoOhaCVQ9uHJKT) | 5:27 |
 | 60 | [Groovin' In Philly](https://open.spotify.com/track/4EWxGABVBAMcchzJPToJQz) | [Gail Jhonson](https://open.spotify.com/artist/4cJqqVAJDLFbCEFQDSrwcc), [Cliff Brown](https://open.spotify.com/artist/4lv9tkwkueOXLq58XG9OLp) | [It's About Time](https://open.spotify.com/album/4PXy69gcb1qTwEMJL0HW1d) | 4:36 |
 
-Snapshot ID: `MCwyMTBhMWNjZmM4ZTlmMWNjMzY3ZTQ5Yjc0NDBlNzczODkxZjUwNTdk`
+Snapshot ID: `MCxlMmNiYjMwNTJiZTMyZTcwYmNlZjUzYWQwZjc2ZGYwZWIyZWM3M2M3`

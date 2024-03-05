@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 529338,
+  "2024-03-05": 529421,
   "date_first_scraped": "2022-04-22",
   "description": "Los pr\u00f3ceres de la historia del rock nacional. El Novio de M\u00e9xico en portada.",
   "name": "Iconos del Rock Mexicano",
@@ -2370,6 +2370,24 @@
     },
     {
       "album": {
+        "name": "Kinky (Remastered)",
+        "url": "https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI"
+      },
+      "artists": [
+        {
+          "name": "Kinky",
+          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260426,
+      "name": "Mas - Remastered",
+      "url": "https://open.spotify.com/track/3BoIHWjO48jLcdFby2P8D3"
+    },
+    {
+      "album": {
         "name": "Me Da Miedo la Vida",
         "url": "https://open.spotify.com/album/7l1by7YctLfFDVoHZsc5Cg"
       },
@@ -4083,7 +4101,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 178400,
       "name": "Voto Latino",
       "url": "https://open.spotify.com/track/3w8eRp9mjGY48zpmIJ920R"

@@ -1,12 +1,12 @@
 {
   "description": "A mover el cucu con estas cadenciosas versiones cumbiatizadas.",
-  "num_followers": 108338,
+  "num_followers": 108348,
   "original_name": "Cumbia Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTNjOGE3MzAzMzc0NWJjYzE1MDgzYWI1NmM1OTVlODAxMjM4NTZh",
+  "snapshot_id": "MCw4MjA2MDg2YjBlZjg1MjBlZWIxYzQ4MDBkZWQwMWZjODZjZmJhM2Ey",
   "tracks": [
     {
       "added_at": "2023-01-25 00:22:47",
@@ -129,26 +129,6 @@
       "url": "https://open.spotify.com/track/4HjIiXDTRKEVXL6Jov3kCY"
     },
     {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "No Te Creas Tan Importante (En Vivo)",
-        "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
-        }
-      ],
-      "duration_ms": 239760,
-      "name": "No Te Creas Tan Importante - En Vivo",
-      "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
-    },
-    {
       "added_at": "2023-01-25 00:22:47",
       "album": {
         "name": "Lo Intentamos",
@@ -179,6 +159,26 @@
       "duration_ms": 209414,
       "name": "El Mismo Aire",
       "url": "https://open.spotify.com/track/5Y0hkLkzdrTuPGWYLvm6oO"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "No Te Creas Tan Importante (En Vivo)",
+        "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "duration_ms": 239760,
+      "name": "No Te Creas Tan Importante - En Vivo",
+      "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -223,26 +223,6 @@
       "duration_ms": 211268,
       "name": "Golpes en el Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5fXk93H1gUgNtZrDGiNLR4"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Me Vas a Extra\u00f1ar (En Vivo)",
-        "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
-        }
-      ],
-      "duration_ms": 238528,
-      "name": "Me Vas a Extra\u00f1ar - En Vivo",
-      "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -327,6 +307,26 @@
       "duration_ms": 164022,
       "name": "Yo Te Esperare",
       "url": "https://open.spotify.com/track/6WUr8ftmKH0HPAzwsehGXQ"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Me Vas a Extra\u00f1ar (En Vivo)",
+        "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "duration_ms": 238528,
+      "name": "Me Vas a Extra\u00f1ar - En Vivo",
+      "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -531,6 +531,22 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
+        "name": "El Color de Tus Ojos",
+        "url": "https://open.spotify.com/album/4nL0XYZSkhZZaFQvNvxbMO"
+      },
+      "artists": [
+        {
+          "name": "Agapornis",
+          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+        }
+      ],
+      "duration_ms": 156821,
+      "name": "El Color de Tus Ojos",
+      "url": "https://open.spotify.com/track/7nmV1InGzooNuPx6iSPwHz"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
         "name": "Cumbia villera - La Champions Liga",
         "url": "https://open.spotify.com/album/6pAKn3tYHVyPVjZzKwVruh"
       },
@@ -543,26 +559,6 @@
       "duration_ms": 230266,
       "name": "Tu sin mi",
       "url": "https://open.spotify.com/track/0rbBqsCqIfFhRtiFoNhtcL"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Traicionero",
-        "url": "https://open.spotify.com/album/1HspaBXnlgh97QO7eIBqpD"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        },
-        {
-          "name": "Media Naranja",
-          "url": "https://open.spotify.com/artist/1CPCudqABxMYzF2PFEfQme"
-        }
-      ],
-      "duration_ms": 204216,
-      "name": "Traicionero",
-      "url": "https://open.spotify.com/track/7dAO2xy0K5tUqax8LthAml"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -603,22 +599,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "El Color de Tus Ojos",
-        "url": "https://open.spotify.com/album/4nL0XYZSkhZZaFQvNvxbMO"
-      },
-      "artists": [
-        {
-          "name": "Agapornis",
-          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
-        }
-      ],
-      "duration_ms": 156821,
-      "name": "El Color de Tus Ojos",
-      "url": "https://open.spotify.com/track/7nmV1InGzooNuPx6iSPwHz"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Un Poco Locos (Edici\u00f3n De Lujo)",
         "url": "https://open.spotify.com/album/7e5WnX4OclEABi7QJfLj7v"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 199680,
       "name": "Coraz\u00f3n Part\u00edo",
       "url": "https://open.spotify.com/track/4CQZ8wD1fWAbeTvSKzBK4M"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Traicionero",
+        "url": "https://open.spotify.com/album/1HspaBXnlgh97QO7eIBqpD"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        },
+        {
+          "name": "Media Naranja",
+          "url": "https://open.spotify.com/artist/1CPCudqABxMYzF2PFEfQme"
+        }
+      ],
+      "duration_ms": 204216,
+      "name": "Traicionero",
+      "url": "https://open.spotify.com/track/7dAO2xy0K5tUqax8LthAml"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -707,22 +707,6 @@
       "duration_ms": 203059,
       "name": "Hotline Bling",
       "url": "https://open.spotify.com/track/6q3HqeduJaaZvoGkxcJEOb"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
-        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 197276,
-      "name": "Ji Ji Ji",
-      "url": "https://open.spotify.com/track/4RLSqaHzhfD8XWxL7wyLJR"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -835,6 +819,22 @@
       "duration_ms": 156000,
       "name": "La Incondicional - Version Cumbia",
       "url": "https://open.spotify.com/track/0AuHkLADfPOZ7OVkPaczoa"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
+        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 197276,
+      "name": "Ji Ji Ji",
+      "url": "https://open.spotify.com/track/4RLSqaHzhfD8XWxL7wyLJR"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
+        "name": "Lemonchamp",
+        "url": "https://open.spotify.com/album/4Ie3Z2Ss3MPXX0OVjAnT9y"
+      },
+      "artists": [
+        {
+          "name": "LemonChamp",
+          "url": "https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn"
+        }
+      ],
+      "duration_ms": 156211,
+      "name": "Reggaeton Lento",
+      "url": "https://open.spotify.com/track/5pT4ZI8pghpB294iQOds0E"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
         "name": "Puntos Suspensivos",
         "url": "https://open.spotify.com/album/0QyB4CmC5FdWCtdJiZ9h3K"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 180600,
       "name": "Ya No Tiene Novio - Version Cumbia",
       "url": "https://open.spotify.com/track/2akbizyZrFqGzUZzSUQiVq"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Lemonchamp",
-        "url": "https://open.spotify.com/album/4Ie3Z2Ss3MPXX0OVjAnT9y"
-      },
-      "artists": [
-        {
-          "name": "LemonChamp",
-          "url": "https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn"
-        }
-      ],
-      "duration_ms": 156211,
-      "name": "Reggaeton Lento",
-      "url": "https://open.spotify.com/track/5pT4ZI8pghpB294iQOds0E"
     },
     {
       "added_at": "2022-05-06 18:26:25",

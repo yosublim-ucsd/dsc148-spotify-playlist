@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2019. Cover: Daddy Yankee",
-  "num_followers": 56689,
+  "num_followers": 56725,
   "original_name": "Latin Hits 2019",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTg0MWMzZDdkMDk3NTZlM2EyZThlMTE4MDdkMTY0ZTUwNzY3MzBh",
+  "snapshot_id": "MCw2ZjQxYjE0MTY2Mjg1MGZjYzMzYTA2MDgxOTk1ZDE4MTZjMzhjZjJk",
   "tracks": [
     {
       "added_at": "2021-12-16 01:10:18",
@@ -339,6 +339,22 @@
     {
       "added_at": "2021-12-16 01:10:18",
       "album": {
+        "name": "OCEAN",
+        "url": "https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 155946,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/6qoIFQfdmaQF9A1gb67tR7"
+    },
+    {
+      "added_at": "2021-12-16 01:10:18",
+      "album": {
         "name": "Baila Baila Baila (Remix) [feat. Farruko, Anuel Aa]",
         "url": "https://open.spotify.com/album/2njbaonul4fuGOFmPchUgU"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 163813,
       "name": "Un A\u00f1o",
       "url": "https://open.spotify.com/track/2vrpcQNg6itmgVZWsNjWe0"
-    },
-    {
-      "added_at": "2021-12-16 01:10:18",
-      "album": {
-        "name": "OCEAN",
-        "url": "https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 155946,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/6qoIFQfdmaQF9A1gb67tR7"
     },
     {
       "added_at": "2021-12-16 01:10:18",
@@ -571,38 +571,6 @@
     {
       "added_at": "2021-12-16 01:10:18",
       "album": {
-        "name": "Hola (Remix)",
-        "url": "https://open.spotify.com/album/65Pp2tO1Ul66KcCmmkRGWZ"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        },
-        {
-          "name": "Juhn",
-          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
-        },
-        {
-          "name": "D\u00edmelo Flow",
-          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
-        }
-      ],
-      "duration_ms": 249520,
-      "name": "Hola - Remix",
-      "url": "https://open.spotify.com/track/5stPVcRqb4qixbafP9e8lt"
-    },
-    {
-      "added_at": "2021-12-16 01:10:18",
-      "album": {
         "name": "Verte Ir",
         "url": "https://open.spotify.com/album/76XsfdI0kGODDdhHAJKZi3"
       },
@@ -639,26 +607,6 @@
     {
       "added_at": "2021-12-16 01:10:18",
       "album": {
-        "name": "Yo x Ti, Tu x Mi",
-        "url": "https://open.spotify.com/album/3844bY26oeSkqd06th4EYp"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 201040,
-      "name": "Yo x Ti, Tu x Mi",
-      "url": "https://open.spotify.com/track/7BlBVFwvbWvcwNcUarQmjk"
-    },
-    {
-      "added_at": "2021-12-16 01:10:18",
-      "album": {
         "name": "FANTAS\u00cdA",
         "url": "https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31"
       },
@@ -671,6 +619,38 @@
       "duration_ms": 201626,
       "name": "Cristina",
       "url": "https://open.spotify.com/track/703iVQrfbQsXt7Uzgy1h8k"
+    },
+    {
+      "added_at": "2021-12-16 01:10:18",
+      "album": {
+        "name": "Hola (Remix)",
+        "url": "https://open.spotify.com/album/65Pp2tO1Ul66KcCmmkRGWZ"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+        },
+        {
+          "name": "D\u00edmelo Flow",
+          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
+        }
+      ],
+      "duration_ms": 249520,
+      "name": "Hola - Remix",
+      "url": "https://open.spotify.com/track/5stPVcRqb4qixbafP9e8lt"
     },
     {
       "added_at": "2021-12-16 01:10:18",
@@ -727,6 +707,26 @@
       "duration_ms": 182600,
       "name": "Mala Fama",
       "url": "https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj"
+    },
+    {
+      "added_at": "2021-12-16 01:10:18",
+      "album": {
+        "name": "Yo x Ti, Tu x Mi",
+        "url": "https://open.spotify.com/album/3844bY26oeSkqd06th4EYp"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 201040,
+      "name": "Yo x Ti, Tu x Mi",
+      "url": "https://open.spotify.com/track/7BlBVFwvbWvcwNcUarQmjk"
     },
     {
       "added_at": "2021-12-16 01:10:18",
@@ -791,42 +791,6 @@
     {
       "added_at": "2021-12-16 01:10:18",
       "album": {
-        "name": "M\u00edrame",
-        "url": "https://open.spotify.com/album/3YLXKSgU5SrzzkBbwzBQC2"
-      },
-      "artists": [
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 377580,
-      "name": "M\u00edrame - Remix",
-      "url": "https://open.spotify.com/track/53uKGbcMjEc2gIWbfmvpdS"
-    },
-    {
-      "added_at": "2021-12-16 01:10:18",
-      "album": {
         "name": "Climaxxx",
         "url": "https://open.spotify.com/album/6stPNzjz40FWTiwlOR98Lp"
       },
@@ -863,6 +827,42 @@
       "duration_ms": 286506,
       "name": "Cuaderno",
       "url": "https://open.spotify.com/track/7anSoGdgtmJTAPZBzcPhO6"
+    },
+    {
+      "added_at": "2021-12-16 01:10:18",
+      "album": {
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/3YLXKSgU5SrzzkBbwzBQC2"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 377580,
+      "name": "M\u00edrame - Remix",
+      "url": "https://open.spotify.com/track/53uKGbcMjEc2gIWbfmvpdS"
     },
     {
       "added_at": "2021-12-16 01:10:18",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2021-12-16 01:10:18",
       "album": {
-        "name": "LOST",
-        "url": "https://open.spotify.com/album/3bncOq9bM24eCefxlJvrtK"
-      },
-      "artists": [
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        },
-        {
-          "name": "Rafa Pab\u00f6n",
-          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
-        }
-      ],
-      "duration_ms": 259600,
-      "name": "Jangueo",
-      "url": "https://open.spotify.com/track/1bRpSCFv6P2OUhciByeRYR"
-    },
-    {
-      "added_at": "2021-12-16 01:10:18",
-      "album": {
         "name": "Sue\u00f1os",
         "url": "https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 305962,
       "name": "Que Mas Pues - Remix",
       "url": "https://open.spotify.com/track/7fODjB7BrQTGqh0hogW6XD"
+    },
+    {
+      "added_at": "2021-12-16 01:10:18",
+      "album": {
+        "name": "LOST",
+        "url": "https://open.spotify.com/album/3bncOq9bM24eCefxlJvrtK"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        },
+        {
+          "name": "Rafa Pab\u00f6n",
+          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
+        }
+      ],
+      "duration_ms": 259600,
+      "name": "Jangueo",
+      "url": "https://open.spotify.com/track/1bRpSCFv6P2OUhciByeRYR"
     },
     {
       "added_at": "2021-12-16 01:10:18",

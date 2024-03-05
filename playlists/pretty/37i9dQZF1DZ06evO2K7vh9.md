@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 
 > This is Lil Tecca\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,732 likes - 48 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,774 likes - 48 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,17 +44,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 | 34 | [Prada \(feat\. Lil Tecca\)](https://open.spotify.com/track/4wuMS7NGVbU7hdu94K5icd) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Prada \(feat\. Lil Tecca\)](https://open.spotify.com/album/2ut84dwAs20nDuTqnvKsDQ) | 2:31 |
 | 35 | [Dolly \(with Lil Uzi Vert\)](https://open.spotify.com/track/77Xwqkw7VrV8E5FCq9JhO8) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Virgo World](https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX) | 2:59 |
 | 36 | [NO DISCUSSION](https://open.spotify.com/track/1fU96l9s0oe6xwW4SQmcHn) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca 2](https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS) | 1:45 |
-| 37 | [prada \(Remix\) \(feat\. Lil Tecca\)](https://open.spotify.com/track/6W1aqjLCj3O4M1Pko8Bq6f) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [prada \(Remix\)](https://open.spotify.com/album/33mzi9tnIWkjOQYIi7b242) | 1:52 |
-| 38 | [GRAMMY \(Freestyle\)](https://open.spotify.com/track/5hzuO0DOsv3sJD2oCxk7Uy) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca 2 \(Deluxe\)](https://open.spotify.com/album/2ybRB5pXB2XCjLbvRQMrw9) | 2:11 |
-| 39 | [Good Life](https://open.spotify.com/track/4dQRw7ylWmjumuK5LQycqJ) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Ascension \(Deluxe\) – Virtual World 2](https://open.spotify.com/album/1s79D8PDeLsbpj7EYDzMBI) | 2:16 |
+| 37 | [Good Life](https://open.spotify.com/track/4dQRw7ylWmjumuK5LQycqJ) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Ascension \(Deluxe\) – Virtual World 2](https://open.spotify.com/album/1s79D8PDeLsbpj7EYDzMBI) | 2:16 |
+| 38 | [prada \(Remix\) \(feat\. Lil Tecca\)](https://open.spotify.com/track/6W1aqjLCj3O4M1Pko8Bq6f) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [prada \(Remix\)](https://open.spotify.com/album/33mzi9tnIWkjOQYIi7b242) | 1:52 |
+| 39 | [GRAMMY \(Freestyle\)](https://open.spotify.com/track/5hzuO0DOsv3sJD2oCxk7Uy) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca 2 \(Deluxe\)](https://open.spotify.com/album/2ybRB5pXB2XCjLbvRQMrw9) | 2:11 |
 | 40 | [MONEY ON ME](https://open.spotify.com/track/668vMRYpYfpLsOvWc73umT) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca 2](https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS) | 2:23 |
 | 41 | [Miss Me](https://open.spotify.com/track/4r98f87mBfMAfdQvUImksB) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Virgo World](https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX) | 1:58 |
-| 42 | [VIRGO](https://open.spotify.com/track/6pq1cvSNT9nuhvRPJ6UPE4) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca 2 \(Deluxe\)](https://open.spotify.com/album/2ybRB5pXB2XCjLbvRQMrw9) | 1:56 |
-| 43 | [Dime Pa Que](https://open.spotify.com/track/3qRv6M9TyPVTeeTSjXBj9C) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Trap Tumbado](https://open.spotify.com/album/6xO4H08B7Ps67z9wuPExZb) | 2:38 |
+| 42 | [Dime Pa Que](https://open.spotify.com/track/3qRv6M9TyPVTeeTSjXBj9C) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Trap Tumbado](https://open.spotify.com/album/6xO4H08B7Ps67z9wuPExZb) | 2:38 |
+| 43 | [VIRGO](https://open.spotify.com/track/6pq1cvSNT9nuhvRPJ6UPE4) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca 2 \(Deluxe\)](https://open.spotify.com/album/2ybRB5pXB2XCjLbvRQMrw9) | 1:56 |
 | 44 | [SHOOTERS](https://open.spotify.com/track/5Pm5aqS8l2fytzhix5Pucu) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca 2](https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS) | 2:05 |
 | 45 | [Fallin](https://open.spotify.com/track/4v3W97RqEN0kgaLAre1pbJ) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Fallin](https://open.spotify.com/album/3BNE2EslctMXmhiffyrVGt) | 2:01 |
 | 46 | [Head Doctor \(with Lil Tecca\)](https://open.spotify.com/track/2DcmnusqpMEEVTXQRNhuHc) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Head Doctor \(with Lil Tecca\)](https://open.spotify.com/album/2CjIwPjYtTO8KV3iT0i5DY) | 4:09 |
 | 47 | [She Want Some More \(feat\. Ken Carson\)](https://open.spotify.com/track/6MXlAZuSUsbKAN68ErtWj5) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Ken Carson](https://open.spotify.com/artist/6BURJsrwD35kYYZlpMw2Xs) | [She Want Some More \(feat\. Ken Carson\)](https://open.spotify.com/album/2MNgdTVRIyedTK7n3Ej46C) | 3:04 |
 | 48 | [Virgo World \(feat\. Lil Tecca\)](https://open.spotify.com/track/1jN7omTNonXiWogKpngUAj) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [BIRTHDAY MIX 6](https://open.spotify.com/album/33nkEur8beeeEcTA4nxapX) | 2:14 |
 
-Snapshot ID: `Mjg0OTExMzgsMDAwMDAwMDBhYTg2OWIwZjA2OTA3MmIzMTY4OGM3YzU4MjBhZWFmZQ==`
+Snapshot ID: `Mjg0OTI1NjksMDAwMDAwMDBkZDQzNDcwYzhhZDFkNjA3NmM1MDRkZDgyZGUyYWJhMw==`

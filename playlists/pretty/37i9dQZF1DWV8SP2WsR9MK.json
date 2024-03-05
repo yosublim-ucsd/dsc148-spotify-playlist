@@ -1,12 +1,12 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 85605,
+  "num_followers": 85671,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDJhMDhjNWRjODgwNzZlZjY4NGVhN2IyMWI5ZWI5ZTdiMmU2NmJl",
+  "snapshot_id": "MCw0OTIwYWZmZWUwMGExNzdlODcyNGJjMjBjMTVjOWUzNDBjNTY4MTQx",
   "tracks": [
     {
       "added_at": "2024-02-22 08:43:42",
@@ -151,38 +151,18 @@
     {
       "added_at": "2024-02-22 08:43:42",
       "album": {
-        "name": "Hello Herbie",
-        "url": "https://open.spotify.com/album/0aaUp9CN80QBCgtd792mly"
+        "name": "So Much Guitar!",
+        "url": "https://open.spotify.com/album/1sTp3ReToGw9Ds3ScQG6RD"
       },
       "artists": [
         {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        },
-        {
-          "name": "Herb Ellis",
-          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
         }
       ],
-      "duration_ms": 286378,
-      "name": "Exactly Like You",
-      "url": "https://open.spotify.com/track/1hqQD9G2qUMq3iiDhqhetT"
-    },
-    {
-      "added_at": "2024-02-22 08:43:42",
-      "album": {
-        "name": "A Go Go",
-        "url": "https://open.spotify.com/album/08JMKtDS0StcwDUgdxKIw3"
-      },
-      "artists": [
-        {
-          "name": "John Scofield",
-          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
-        }
-      ],
-      "duration_ms": 395933,
-      "name": "A Go Go",
-      "url": "https://open.spotify.com/track/4bcyZfaAWCN5SwJgYToxkN"
+      "duration_ms": 135240,
+      "name": "While We're Young",
+      "url": "https://open.spotify.com/track/6TYTG0Y8dZZHP8EluhrXel"
     },
     {
       "added_at": "2024-02-22 08:43:42",
@@ -207,38 +187,6 @@
     {
       "added_at": "2024-02-22 08:43:42",
       "album": {
-        "name": "Midnight Blue (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl"
-      },
-      "artists": [
-        {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
-        }
-      ],
-      "duration_ms": 163800,
-      "name": "Soul Lament - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/7xBpyAsYTgSxqOpMnMHNEt"
-    },
-    {
-      "added_at": "2024-02-22 08:43:42",
-      "album": {
-        "name": "So Much Guitar!",
-        "url": "https://open.spotify.com/album/1sTp3ReToGw9Ds3ScQG6RD"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 135240,
-      "name": "While We're Young",
-      "url": "https://open.spotify.com/track/6TYTG0Y8dZZHP8EluhrXel"
-    },
-    {
-      "added_at": "2024-02-22 08:43:42",
-      "album": {
         "name": "Djangologie Vol9 / 1939 - 1940",
         "url": "https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun"
       },
@@ -255,6 +203,74 @@
     {
       "added_at": "2024-02-22 08:43:42",
       "album": {
+        "name": "Midnight Blue (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        }
+      ],
+      "duration_ms": 163800,
+      "name": "Soul Lament - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/7xBpyAsYTgSxqOpMnMHNEt"
+    },
+    {
+      "added_at": "2024-02-22 08:43:42",
+      "album": {
+        "name": "Hello Herbie",
+        "url": "https://open.spotify.com/album/0aaUp9CN80QBCgtd792mly"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        },
+        {
+          "name": "Herb Ellis",
+          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
+        }
+      ],
+      "duration_ms": 286378,
+      "name": "Exactly Like You",
+      "url": "https://open.spotify.com/track/1hqQD9G2qUMq3iiDhqhetT"
+    },
+    {
+      "added_at": "2024-02-22 08:43:42",
+      "album": {
+        "name": "A Day In The Life",
+        "url": "https://open.spotify.com/album/5Z6DQMOjrC5DK1pQ3RBdZ5"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 349906,
+      "name": "A Day In The Life",
+      "url": "https://open.spotify.com/track/5FBf12F4ry9TXoZAvISu6F"
+    },
+    {
+      "added_at": "2024-02-22 08:43:42",
+      "album": {
+        "name": "A Go Go",
+        "url": "https://open.spotify.com/album/08JMKtDS0StcwDUgdxKIw3"
+      },
+      "artists": [
+        {
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        }
+      ],
+      "duration_ms": 395933,
+      "name": "A Go Go",
+      "url": "https://open.spotify.com/track/4bcyZfaAWCN5SwJgYToxkN"
+    },
+    {
+      "added_at": "2024-02-22 08:43:42",
+      "album": {
         "name": "Arclight",
         "url": "https://open.spotify.com/album/6sKJEBTRRuQhI696nyr1mD"
       },
@@ -267,6 +283,22 @@
       "duration_ms": 199015,
       "name": "Nocturne",
       "url": "https://open.spotify.com/track/7BQVhWw9GR1Up3eKQrYFlI"
+    },
+    {
+      "added_at": "2024-02-22 08:43:42",
+      "album": {
+        "name": "Bright Size Life",
+        "url": "https://open.spotify.com/album/1wyaHGxXkIGaLGSQTTgKzw"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny",
+          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
+        }
+      ],
+      "duration_ms": 285600,
+      "name": "Bright Size Life",
+      "url": "https://open.spotify.com/track/6UwTR0kjCtlT4FMNtIvLac"
     },
     {
       "added_at": "2024-02-22 08:43:42",
@@ -307,6 +339,38 @@
     {
       "added_at": "2024-02-22 08:43:42",
       "album": {
+        "name": "Incredible Jazz Guitar",
+        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 292093,
+      "name": "In Your Own Sweet Way",
+      "url": "https://open.spotify.com/track/5Y8XLhYm4ZeMU25Rg24YoH"
+    },
+    {
+      "added_at": "2024-02-22 08:43:42",
+      "album": {
+        "name": "Django Reinhardt: Legendary Recordings",
+        "url": "https://open.spotify.com/album/3RCsS8ichdIB9arRJFicaf"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 168720,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/3ctsORVoVEDUxLpQAL0zOC"
+    },
+    {
+      "added_at": "2024-02-22 08:43:42",
+      "album": {
         "name": "Unforgettable",
         "url": "https://open.spotify.com/album/6B7Oo2qWozbz9hz1s4S8Yi"
       },
@@ -319,6 +383,26 @@
       "duration_ms": 151506,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/2rFRXdxA9PupBVau54E3tl"
+    },
+    {
+      "added_at": "2024-02-22 08:43:42",
+      "album": {
+        "name": "Beyond The Missouri Sky",
+        "url": "https://open.spotify.com/album/2PULgzT2IHwYzfNxi4n3vY"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny",
+          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
+        },
+        {
+          "name": "Charlie Haden",
+          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
+        }
+      ],
+      "duration_ms": 244626,
+      "name": "The Moon Is A Harsh Mistress",
+      "url": "https://open.spotify.com/track/70JLN0ibjDTs5hlUFTmqGq"
     },
     {
       "added_at": "2024-02-22 08:43:42",
@@ -343,34 +427,18 @@
     {
       "added_at": "2024-02-22 08:43:42",
       "album": {
-        "name": "Bright Size Life",
-        "url": "https://open.spotify.com/album/1wyaHGxXkIGaLGSQTTgKzw"
+        "name": "Offramp",
+        "url": "https://open.spotify.com/album/1heeMC7VVWEDxdQKxesqQK"
       },
       "artists": [
         {
-          "name": "Pat Metheny",
-          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
+          "name": "Pat Metheny Group",
+          "url": "https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt"
         }
       ],
-      "duration_ms": 285600,
-      "name": "Bright Size Life",
-      "url": "https://open.spotify.com/track/6UwTR0kjCtlT4FMNtIvLac"
-    },
-    {
-      "added_at": "2024-02-22 08:43:42",
-      "album": {
-        "name": "Django Reinhardt: Legendary Recordings",
-        "url": "https://open.spotify.com/album/3RCsS8ichdIB9arRJFicaf"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 168720,
-      "name": "Brazil",
-      "url": "https://open.spotify.com/track/3ctsORVoVEDUxLpQAL0zOC"
+      "duration_ms": 508333,
+      "name": "Au Lait",
+      "url": "https://open.spotify.com/track/5qNUdnpg2b2Xj1ZCYFZxFr"
     },
     {
       "added_at": "2024-02-22 08:43:42",
@@ -391,8 +459,24 @@
     {
       "added_at": "2024-02-22 08:43:42",
       "album": {
-        "name": "A Day In The Life",
-        "url": "https://open.spotify.com/album/5Z6DQMOjrC5DK1pQ3RBdZ5"
+        "name": "Djangology 49",
+        "url": "https://open.spotify.com/album/7JHX9w5tOLvxZQDqXIaBlq"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Beyond The Sea (La Mer)",
+      "url": "https://open.spotify.com/track/1iqYqVkzPJAQ6Kgc0Kn2I5"
+    },
+    {
+      "added_at": "2024-02-22 08:43:42",
+      "album": {
+        "name": "Tequila (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7DGv1MKlPZrLkP0HCSDm8I"
       },
       "artists": [
         {
@@ -400,25 +484,25 @@
           "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
         }
       ],
-      "duration_ms": 349906,
-      "name": "A Day In The Life",
-      "url": "https://open.spotify.com/track/5FBf12F4ry9TXoZAvISu6F"
+      "duration_ms": 229173,
+      "name": "How Insensitive",
+      "url": "https://open.spotify.com/track/6XrRsEiP7KccIkRgqxcL70"
     },
     {
       "added_at": "2024-02-22 08:43:42",
       "album": {
-        "name": "Offramp",
-        "url": "https://open.spotify.com/album/1heeMC7VVWEDxdQKxesqQK"
+        "name": "Bright Size Life",
+        "url": "https://open.spotify.com/album/1wyaHGxXkIGaLGSQTTgKzw"
       },
       "artists": [
         {
-          "name": "Pat Metheny Group",
-          "url": "https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt"
+          "name": "Pat Metheny",
+          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
         }
       ],
-      "duration_ms": 508333,
-      "name": "Au Lait",
-      "url": "https://open.spotify.com/track/5qNUdnpg2b2Xj1ZCYFZxFr"
+      "duration_ms": 222733,
+      "name": "Unity Village",
+      "url": "https://open.spotify.com/track/7o56T3Ib6ZjVT6qFTCQFqP"
     },
     {
       "added_at": "2024-02-22 08:43:42",
@@ -435,26 +519,6 @@
       "duration_ms": 224962,
       "name": "Lil' Darlin'",
       "url": "https://open.spotify.com/track/6G9gDSV2reYifOmD4cwUSf"
-    },
-    {
-      "added_at": "2024-02-22 08:43:42",
-      "album": {
-        "name": "Beyond The Missouri Sky",
-        "url": "https://open.spotify.com/album/2PULgzT2IHwYzfNxi4n3vY"
-      },
-      "artists": [
-        {
-          "name": "Pat Metheny",
-          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
-        },
-        {
-          "name": "Charlie Haden",
-          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
-        }
-      ],
-      "duration_ms": 244626,
-      "name": "The Moon Is A Harsh Mistress",
-      "url": "https://open.spotify.com/track/70JLN0ibjDTs5hlUFTmqGq"
     },
     {
       "added_at": "2024-02-22 08:43:42",
@@ -491,38 +555,6 @@
     {
       "added_at": "2024-02-22 08:43:42",
       "album": {
-        "name": "Incredible Jazz Guitar",
-        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 292093,
-      "name": "In Your Own Sweet Way",
-      "url": "https://open.spotify.com/track/5Y8XLhYm4ZeMU25Rg24YoH"
-    },
-    {
-      "added_at": "2024-02-22 08:43:42",
-      "album": {
-        "name": "Djangology 49",
-        "url": "https://open.spotify.com/album/7JHX9w5tOLvxZQDqXIaBlq"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Beyond The Sea (La Mer)",
-      "url": "https://open.spotify.com/track/1iqYqVkzPJAQ6Kgc0Kn2I5"
-    },
-    {
-      "added_at": "2024-02-22 08:43:42",
-      "album": {
         "name": "Angular Blues",
         "url": "https://open.spotify.com/album/4wxLJpGmJetMtZHslJz3DR"
       },
@@ -547,22 +579,6 @@
     {
       "added_at": "2024-02-22 08:43:42",
       "album": {
-        "name": "Bright Size Life",
-        "url": "https://open.spotify.com/album/1wyaHGxXkIGaLGSQTTgKzw"
-      },
-      "artists": [
-        {
-          "name": "Pat Metheny",
-          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
-        }
-      ],
-      "duration_ms": 222733,
-      "name": "Unity Village",
-      "url": "https://open.spotify.com/track/7o56T3Ib6ZjVT6qFTCQFqP"
-    },
-    {
-      "added_at": "2024-02-22 08:43:42",
-      "album": {
         "name": "Intermodulation",
         "url": "https://open.spotify.com/album/2fdNshVv7KpFZJOy6qKpJS"
       },
@@ -579,6 +595,22 @@
       "duration_ms": 290000,
       "name": "All Across The City",
       "url": "https://open.spotify.com/track/4IHEsg1VgH9dZE4QswwhaE"
+    },
+    {
+      "added_at": "2024-02-22 08:43:42",
+      "album": {
+        "name": "Djangologie Vol15 / 1946 - 1947",
+        "url": "https://open.spotify.com/album/1sUg8G0j9lPHSQExj5Q797"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 158013,
+      "name": "Django's Tiger",
+      "url": "https://open.spotify.com/track/7D0Vzk7rZ6ncTFZj3AqT84"
     },
     {
       "added_at": "2024-02-22 08:43:42",
@@ -639,22 +671,6 @@
     {
       "added_at": "2024-02-22 08:43:42",
       "album": {
-        "name": "Djangologie Vol15 / 1946 - 1947",
-        "url": "https://open.spotify.com/album/1sUg8G0j9lPHSQExj5Q797"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 158013,
-      "name": "Django's Tiger",
-      "url": "https://open.spotify.com/track/7D0Vzk7rZ6ncTFZj3AqT84"
-    },
-    {
-      "added_at": "2024-02-22 08:43:42",
-      "album": {
         "name": "Alive! (Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000)",
         "url": "https://open.spotify.com/album/4NL6PN6GkMqI7Ztz4iGPU6"
       },
@@ -675,22 +691,6 @@
     {
       "added_at": "2024-02-22 08:43:42",
       "album": {
-        "name": "Tequila (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7DGv1MKlPZrLkP0HCSDm8I"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 229173,
-      "name": "How Insensitive",
-      "url": "https://open.spotify.com/track/6XrRsEiP7KccIkRgqxcL70"
-    },
-    {
-      "added_at": "2024-02-22 08:43:42",
-      "album": {
         "name": "For Django",
         "url": "https://open.spotify.com/album/52hlifh2FGBhx4BQVl2OJD"
       },
@@ -703,26 +703,6 @@
       "duration_ms": 200866,
       "name": "Django",
       "url": "https://open.spotify.com/track/1LgoYJ5IYe74pDyayo3QHH"
-    },
-    {
-      "added_at": "2024-02-22 08:43:42",
-      "album": {
-        "name": "Intermodulation",
-        "url": "https://open.spotify.com/album/2fdNshVv7KpFZJOy6qKpJS"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        },
-        {
-          "name": "Jim Hall",
-          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
-        }
-      ],
-      "duration_ms": 394333,
-      "name": "Angel Face",
-      "url": "https://open.spotify.com/track/2gePqIl6YIoKbDlATyIYgN"
     },
     {
       "added_at": "2024-02-22 08:43:42",
@@ -763,6 +743,26 @@
       "duration_ms": 277560,
       "name": "Father Time",
       "url": "https://open.spotify.com/track/4GuzBvxkGq1MHaeYVWO7dL"
+    },
+    {
+      "added_at": "2024-02-22 08:43:42",
+      "album": {
+        "name": "Intermodulation",
+        "url": "https://open.spotify.com/album/2fdNshVv7KpFZJOy6qKpJS"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        },
+        {
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+        }
+      ],
+      "duration_ms": 394333,
+      "name": "Angel Face",
+      "url": "https://open.spotify.com/track/2gePqIl6YIoKbDlATyIYgN"
     },
     {
       "added_at": "2024-02-22 08:43:42",
@@ -831,6 +831,26 @@
     {
       "added_at": "2024-02-22 08:43:42",
       "album": {
+        "name": "Chiaroscuro",
+        "url": "https://open.spotify.com/album/0lsINQ5eGOr4GBVfZYDqyI"
+      },
+      "artists": [
+        {
+          "name": "Ralph Towner",
+          "url": "https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535"
+        },
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        }
+      ],
+      "duration_ms": 253173,
+      "name": "Sacred Place",
+      "url": "https://open.spotify.com/track/0od5R0qVfDsWJKa3SL2wa9"
+    },
+    {
+      "added_at": "2024-02-22 08:43:42",
+      "album": {
         "name": "Idle Moments",
         "url": "https://open.spotify.com/album/1lDtUlOPGKp56gQ24MvmNG"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 431973,
       "name": "Samba Em Prel\u00f9dio",
       "url": "https://open.spotify.com/track/3eDTDeZHbCv9rWgT6HbysX"
-    },
-    {
-      "added_at": "2024-02-22 08:43:42",
-      "album": {
-        "name": "Chiaroscuro",
-        "url": "https://open.spotify.com/album/0lsINQ5eGOr4GBVfZYDqyI"
-      },
-      "artists": [
-        {
-          "name": "Ralph Towner",
-          "url": "https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535"
-        },
-        {
-          "name": "Paolo Fresu",
-          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
-        }
-      ],
-      "duration_ms": 253173,
-      "name": "Sacred Place",
-      "url": "https://open.spotify.com/track/0od5R0qVfDsWJKa3SL2wa9"
     },
     {
       "added_at": "2024-02-22 08:43:42",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-02-22 08:43:42",
       "album": {
-        "name": "Firefly",
-        "url": "https://open.spotify.com/album/60MOA021iZ4tJDSg0s78je"
-      },
-      "artists": [
-        {
-          "name": "Emily Remler",
-          "url": "https://open.spotify.com/artist/2KD1KC9SgUiYueJUmWTnNJ"
-        }
-      ],
-      "duration_ms": 469360,
-      "name": "In A Sentimental Mood",
-      "url": "https://open.spotify.com/track/1NaYmJphKpCQqW2nUIIClH"
-    },
-    {
-      "added_at": "2024-02-22 08:43:42",
-      "album": {
         "name": "Vital Techtones",
         "url": "https://open.spotify.com/album/6d7fOKSVvPBoTVIWPJB2Ed"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 354293,
       "name": "Minor Blues",
       "url": "https://open.spotify.com/track/7btfNlGGzQYLE13vUUChUt"
+    },
+    {
+      "added_at": "2024-02-22 08:43:42",
+      "album": {
+        "name": "Firefly",
+        "url": "https://open.spotify.com/album/60MOA021iZ4tJDSg0s78je"
+      },
+      "artists": [
+        {
+          "name": "Emily Remler",
+          "url": "https://open.spotify.com/artist/2KD1KC9SgUiYueJUmWTnNJ"
+        }
+      ],
+      "duration_ms": 469360,
+      "name": "In A Sentimental Mood",
+      "url": "https://open.spotify.com/track/1NaYmJphKpCQqW2nUIIClH"
     },
     {
       "added_at": "2024-02-22 08:43:42",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-02-22 08:43:42",
       "album": {
-        "name": "Rambler",
-        "url": "https://open.spotify.com/album/1vkLfWBiL2wHMxdGpDCbPC"
-      },
-      "artists": [
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        }
-      ],
-      "duration_ms": 492266,
-      "name": "Rambler",
-      "url": "https://open.spotify.com/track/09AbZLx0X2GsRSXFgEpLKA"
-    },
-    {
-      "added_at": "2024-02-22 08:43:42",
-      "album": {
         "name": "Deep Song",
         "url": "https://open.spotify.com/album/61ABrp2sjUlG2QhJr0LaZ8"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 502440,
       "name": "Brooklyn Sometimes",
       "url": "https://open.spotify.com/track/60AInuGWohJqz9VONqP8u2"
+    },
+    {
+      "added_at": "2024-02-22 08:43:42",
+      "album": {
+        "name": "Rambler",
+        "url": "https://open.spotify.com/album/1vkLfWBiL2wHMxdGpDCbPC"
+      },
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        }
+      ],
+      "duration_ms": 492266,
+      "name": "Rambler",
+      "url": "https://open.spotify.com/track/09AbZLx0X2GsRSXFgEpLKA"
     },
     {
       "added_at": "2024-02-22 08:43:42",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-02-22 08:43:42",
       "album": {
-        "name": "These Times",
-        "url": "https://open.spotify.com/album/0b0yP9HN3TrKfZ7llb0LwR"
-      },
-      "artists": [
-        {
-          "name": "Mike Stern",
-          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
-        }
-      ],
-      "duration_ms": 397106,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/5Pp8j3brmuE1m2ssreqFcN"
-    },
-    {
-      "added_at": "2024-02-22 08:43:42",
-      "album": {
         "name": "Concierto (CTI Records 40th Anniversary Edition)",
         "url": "https://open.spotify.com/album/7N3ZysMrLSuJAtPPCjCba0"
       },
@@ -1643,42 +1627,18 @@
     {
       "added_at": "2024-02-22 08:43:42",
       "album": {
-        "name": "Close Your Eyes",
-        "url": "https://open.spotify.com/album/4juJmyC6vE1k4KYZVSJYMQ"
+        "name": "These Times",
+        "url": "https://open.spotify.com/album/0b0yP9HN3TrKfZ7llb0LwR"
       },
       "artists": [
         {
-          "name": "Lionel Loueke",
-          "url": "https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig"
-        },
-        {
-          "name": "Reuben Rogers",
-          "url": "https://open.spotify.com/artist/4suPNNUCtzkjmLIQnCGNeL"
-        },
-        {
-          "name": "Eric Harland",
-          "url": "https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh"
+          "name": "Mike Stern",
+          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
         }
       ],
-      "duration_ms": 432093,
-      "name": "Skylark",
-      "url": "https://open.spotify.com/track/27ayGUimrPyUrjAriMYGZv"
-    },
-    {
-      "added_at": "2024-02-22 08:43:42",
-      "album": {
-        "name": "Heartcore",
-        "url": "https://open.spotify.com/album/0zVWcCYxijtR8JcX5bBJfZ"
-      },
-      "artists": [
-        {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
-        }
-      ],
-      "duration_ms": 371200,
-      "name": "Blue Line",
-      "url": "https://open.spotify.com/track/3IsWXJIIp1Z9T22rVDLLgk"
+      "duration_ms": 397106,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/5Pp8j3brmuE1m2ssreqFcN"
     },
     {
       "added_at": "2024-02-22 08:43:42",
@@ -1707,6 +1667,46 @@
       "duration_ms": 446493,
       "name": "Yesterdays",
       "url": "https://open.spotify.com/track/5BBTrBMjyifggEYMgzojET"
+    },
+    {
+      "added_at": "2024-02-22 08:43:42",
+      "album": {
+        "name": "Heartcore",
+        "url": "https://open.spotify.com/album/0zVWcCYxijtR8JcX5bBJfZ"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        }
+      ],
+      "duration_ms": 371200,
+      "name": "Blue Line",
+      "url": "https://open.spotify.com/track/3IsWXJIIp1Z9T22rVDLLgk"
+    },
+    {
+      "added_at": "2024-02-22 08:43:42",
+      "album": {
+        "name": "Close Your Eyes",
+        "url": "https://open.spotify.com/album/4juJmyC6vE1k4KYZVSJYMQ"
+      },
+      "artists": [
+        {
+          "name": "Lionel Loueke",
+          "url": "https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig"
+        },
+        {
+          "name": "Reuben Rogers",
+          "url": "https://open.spotify.com/artist/4suPNNUCtzkjmLIQnCGNeL"
+        },
+        {
+          "name": "Eric Harland",
+          "url": "https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh"
+        }
+      ],
+      "duration_ms": 432093,
+      "name": "Skylark",
+      "url": "https://open.spotify.com/track/27ayGUimrPyUrjAriMYGZv"
     },
     {
       "added_at": "2024-02-22 08:43:42",

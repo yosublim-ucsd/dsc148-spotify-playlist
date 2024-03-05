@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 55453,
+  "num_followers": 55476,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZWM4NTQ2NDhmYzVmYzg2YTE1NmNlMTQ3MDk1YWIyZGVjYjhiMmRh",
+  "snapshot_id": "MCw4NDM4NmZkMmZiN2QyNTg3ZmEyZmE2MWQxZGQwYTQ0MGJkNWU0NjA5",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -163,22 +163,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "In The Right Place",
-        "url": "https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 175240,
-      "name": "Right Place Wrong Time",
-      "url": "https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Superfly (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
       },
@@ -191,6 +175,38 @@
       "duration_ms": 233600,
       "name": "Superfly",
       "url": "https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Come Get It! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3fRI3fAHalHqqnKsW5btnP"
+      },
+      "artists": [
+        {
+          "name": "Rick James",
+          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
+        }
+      ],
+      "duration_ms": 297346,
+      "name": "Mary Jane",
+      "url": "https://open.spotify.com/track/5hWLHFSmomXmeTXEE478My"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "In The Right Place",
+        "url": "https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 175240,
+      "name": "Right Place Wrong Time",
+      "url": "https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -227,22 +243,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Come Get It! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3fRI3fAHalHqqnKsW5btnP"
-      },
-      "artists": [
-        {
-          "name": "Rick James",
-          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
-        }
-      ],
-      "duration_ms": 297346,
-      "name": "Mary Jane",
-      "url": "https://open.spotify.com/track/5hWLHFSmomXmeTXEE478My"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of The Dazz Band",
         "url": "https://open.spotify.com/album/3wT0A6ZVGve1QkFKQrafJG"
       },
@@ -259,22 +259,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "The Fearless Flyers",
-        "url": "https://open.spotify.com/album/2GEQWuTviG5lXO66aiOYqt"
-      },
-      "artists": [
-        {
-          "name": "The Fearless Flyers",
-          "url": "https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh"
-        }
-      ],
-      "duration_ms": 124565,
-      "name": "Ace of Aces",
-      "url": "https://open.spotify.com/track/1SlkhRMOEJp97Ho0BaIOkj"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Funkentelechy Vs. The Placebo Syndrome",
         "url": "https://open.spotify.com/album/7Kv0H0XMdIyRs41a6USzrd"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 346666,
       "name": "Flash Light",
       "url": "https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "The Fearless Flyers",
+        "url": "https://open.spotify.com/album/2GEQWuTviG5lXO66aiOYqt"
+      },
+      "artists": [
+        {
+          "name": "The Fearless Flyers",
+          "url": "https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh"
+        }
+      ],
+      "duration_ms": 124565,
+      "name": "Ace of Aces",
+      "url": "https://open.spotify.com/track/1SlkhRMOEJp97Ho0BaIOkj"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -435,6 +435,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Get On The Good Foot",
+        "url": "https://open.spotify.com/album/49ibE9W9vxZBPBV7wtZKFi"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 176973,
+      "name": "Cold Sweat",
+      "url": "https://open.spotify.com/track/3GWM2gYAWWBrrh1h9F8DEc"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Mothership Connection",
         "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2"
       },
@@ -515,22 +531,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Get On The Good Foot",
-        "url": "https://open.spotify.com/album/49ibE9W9vxZBPBV7wtZKFi"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 176973,
-      "name": "Cold Sweat",
-      "url": "https://open.spotify.com/track/3GWM2gYAWWBrrh1h9F8DEc"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/2AI6n3Nzxts19gax5K23bm"
       },
@@ -579,22 +579,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Mothership Connection",
-        "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2"
-      },
-      "artists": [
-        {
-          "name": "Parliament",
-          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
-        }
-      ],
-      "duration_ms": 461160,
-      "name": "P-Funk (Wants To Get Funked Up)",
-      "url": "https://open.spotify.com/track/0GIfaHgivfBCV67eYF996A"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "If It Ain't Funky Back It Up",
         "url": "https://open.spotify.com/album/7KAiS75Nn4mCt9BhWdR8W5"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 337680,
       "name": "Too Hot Ta Trot",
       "url": "https://open.spotify.com/track/7sP4EhJqFnud6mrG6VbjQx"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Mothership Connection",
+        "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2"
+      },
+      "artists": [
+        {
+          "name": "Parliament",
+          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
+        }
+      ],
+      "duration_ms": 461160,
+      "name": "P-Funk (Wants To Get Funked Up)",
+      "url": "https://open.spotify.com/track/0GIfaHgivfBCV67eYF996A"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -755,22 +755,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Everybody Want Sum",
-        "url": "https://open.spotify.com/album/14D2GvYb7WNfUuVA0nXjUD"
-      },
-      "artists": [
-        {
-          "name": "Dumpstaphunk",
-          "url": "https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC"
-        }
-      ],
-      "duration_ms": 288253,
-      "name": "Sheez Music",
-      "url": "https://open.spotify.com/track/6LKRuyVDn74fN6TemK7lyK"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Tuxedo II",
         "url": "https://open.spotify.com/album/6iDvvsXxNNCiwSUQhixa68"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 166590,
       "name": "Fux with the Tux",
       "url": "https://open.spotify.com/track/5pdyEWdUmpbxs9jkAagOMh"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Everybody Want Sum",
+        "url": "https://open.spotify.com/album/14D2GvYb7WNfUuVA0nXjUD"
+      },
+      "artists": [
+        {
+          "name": "Dumpstaphunk",
+          "url": "https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC"
+        }
+      ],
+      "duration_ms": 288253,
+      "name": "Sheez Music",
+      "url": "https://open.spotify.com/track/6LKRuyVDn74fN6TemK7lyK"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -957,6 +957,22 @@
       "url": "https://open.spotify.com/track/5NqRwz0rPh3aK4iWyJLXxy"
     },
     {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Controversy",
+        "url": "https://open.spotify.com/album/27fOQ2nbqOv460RSUFW7E4"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 234800,
+      "name": "Let's Work",
+      "url": "https://open.spotify.com/track/5WLn10VIb6L9Z7O7FkYA99"
+    },
+    {
       "added_at": "2019-09-20 18:33:34",
       "album": {
         "name": "Stay Good",
@@ -979,22 +995,6 @@
       "duration_ms": 231963,
       "name": "Funk Ain't Ova",
       "url": "https://open.spotify.com/track/5nBgM7vUM7w9bNKW2MFZhH"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Controversy",
-        "url": "https://open.spotify.com/album/27fOQ2nbqOv460RSUFW7E4"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 234800,
-      "name": "Let's Work",
-      "url": "https://open.spotify.com/track/5WLn10VIb6L9Z7O7FkYA99"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1077,6 +1077,38 @@
       "url": "https://open.spotify.com/track/3GkxeoalBCGvapPTX1nA0U"
     },
     {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Funk Ain't Ova",
+        "url": "https://open.spotify.com/album/090mBdNZpmAl9P2fhOpdmM"
+      },
+      "artists": [
+        {
+          "name": "Brooklyn Funk Essentials",
+          "url": "https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA"
+        },
+        {
+          "name": "Joi Cardwell",
+          "url": "https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ"
+        },
+        {
+          "name": "Papa Dee",
+          "url": "https://open.spotify.com/artist/5L8MV6qPlIIkmhw1DRTf3Y"
+        },
+        {
+          "name": "Desmond Foster",
+          "url": "https://open.spotify.com/artist/3qqFMYoELTj4g9yzuQEALf"
+        },
+        {
+          "name": "Anna Brooks",
+          "url": "https://open.spotify.com/artist/6bTX69msG9jlBTTFcwgtpV"
+        }
+      ],
+      "duration_ms": 296880,
+      "name": "Dance Or Die",
+      "url": "https://open.spotify.com/track/0hu9PvLPvTRPH30JsoPhPd"
+    },
+    {
       "added_at": "2019-09-20 18:17:51",
       "album": {
         "name": "Shake It",
@@ -1135,38 +1167,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Funk Ain't Ova",
-        "url": "https://open.spotify.com/album/090mBdNZpmAl9P2fhOpdmM"
-      },
-      "artists": [
-        {
-          "name": "Brooklyn Funk Essentials",
-          "url": "https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA"
-        },
-        {
-          "name": "Joi Cardwell",
-          "url": "https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ"
-        },
-        {
-          "name": "Papa Dee",
-          "url": "https://open.spotify.com/artist/5L8MV6qPlIIkmhw1DRTf3Y"
-        },
-        {
-          "name": "Desmond Foster",
-          "url": "https://open.spotify.com/artist/3qqFMYoELTj4g9yzuQEALf"
-        },
-        {
-          "name": "Anna Brooks",
-          "url": "https://open.spotify.com/artist/6bTX69msG9jlBTTFcwgtpV"
-        }
-      ],
-      "duration_ms": 296880,
-      "name": "Dance Or Die",
-      "url": "https://open.spotify.com/track/0hu9PvLPvTRPH30JsoPhPd"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Do Me Right",
         "url": "https://open.spotify.com/album/3acm84d09PzJGK9jXpJbk0"
       },
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Elevate",
-        "url": "https://open.spotify.com/album/5gk2psRxpCHdMXMhZ6prYf"
-      },
-      "artists": [
-        {
-          "name": "Lettuce",
-          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
-        }
-      ],
-      "duration_ms": 245686,
-      "name": "Ready to Live",
-      "url": "https://open.spotify.com/track/2m0SacHFJuQvyyB2fdNu5s"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Breaks from the Border",
         "url": "https://open.spotify.com/album/1ZwpOB2GRebtyEZgUjsjhH"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 191160,
       "name": "Take What You Need",
       "url": "https://open.spotify.com/track/6M9pnJ05Bdwv4jqfQS67YE"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Elevate",
+        "url": "https://open.spotify.com/album/5gk2psRxpCHdMXMhZ6prYf"
+      },
+      "artists": [
+        {
+          "name": "Lettuce",
+          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+        }
+      ],
+      "duration_ms": 245686,
+      "name": "Ready to Live",
+      "url": "https://open.spotify.com/track/2m0SacHFJuQvyyB2fdNu5s"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1367,38 +1367,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Dirty Word",
-        "url": "https://open.spotify.com/album/3hLGxazNwkFKTsaGAm3Jcj"
-      },
-      "artists": [
-        {
-          "name": "Dumpstaphunk",
-          "url": "https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC"
-        },
-        {
-          "name": "Grooveline Horns",
-          "url": "https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743"
-        },
-        {
-          "name": "Reggie Watkins",
-          "url": "https://open.spotify.com/artist/14Ou42tZvSnt2LaFXiMp3z"
-        },
-        {
-          "name": "carlos sosa",
-          "url": "https://open.spotify.com/artist/4FnOfgH6FgYXOLzbhok5eL"
-        },
-        {
-          "name": "Fernanco Castillo",
-          "url": "https://open.spotify.com/artist/6FBJesby0YNelqeM4Y4xSV"
-        }
-      ],
-      "duration_ms": 273880,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/1qB1AGK7AbUKkCgHi0AqrF"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Stay Good",
         "url": "https://open.spotify.com/album/7KFdFOJJF84VbZ5rJjbyK7"
       },
@@ -1459,18 +1427,34 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Life In The City",
-        "url": "https://open.spotify.com/album/1s5qOtWNafsjfEl9NlmWio"
+        "name": "Dirty Word",
+        "url": "https://open.spotify.com/album/3hLGxazNwkFKTsaGAm3Jcj"
       },
       "artists": [
         {
-          "name": "Turkuaz",
-          "url": "https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7"
+          "name": "Dumpstaphunk",
+          "url": "https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC"
+        },
+        {
+          "name": "Grooveline Horns",
+          "url": "https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743"
+        },
+        {
+          "name": "Reggie Watkins",
+          "url": "https://open.spotify.com/artist/14Ou42tZvSnt2LaFXiMp3z"
+        },
+        {
+          "name": "carlos sosa",
+          "url": "https://open.spotify.com/artist/4FnOfgH6FgYXOLzbhok5eL"
+        },
+        {
+          "name": "Fernanco Castillo",
+          "url": "https://open.spotify.com/artist/6FBJesby0YNelqeM4Y4xSV"
         }
       ],
-      "duration_ms": 245413,
-      "name": "Superstatic",
-      "url": "https://open.spotify.com/track/7DmAKZ07s3e2IYrqUVtUWF"
+      "duration_ms": 273880,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/1qB1AGK7AbUKkCgHi0AqrF"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1503,6 +1487,22 @@
       "duration_ms": 242840,
       "name": "Body Party",
       "url": "https://open.spotify.com/track/5H8ClXF0WMHASLLmqMyuLq"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Life In The City",
+        "url": "https://open.spotify.com/album/1s5qOtWNafsjfEl9NlmWio"
+      },
+      "artists": [
+        {
+          "name": "Turkuaz",
+          "url": "https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7"
+        }
+      ],
+      "duration_ms": 245413,
+      "name": "Superstatic",
+      "url": "https://open.spotify.com/track/7DmAKZ07s3e2IYrqUVtUWF"
     },
     {
       "added_at": "2019-08-22 14:26:16",

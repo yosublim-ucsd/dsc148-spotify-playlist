@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: dadá Joãozinho / Arte: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,192 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,195 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 | 23 | [Lágrima na Língua](https://open.spotify.com/track/1LpASqV05cNKzVc2wSrFBc) | [Pedro Fonte](https://open.spotify.com/artist/6ANqnotPsCkBCoo4lqXNpm), [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Luz Na Madrugada / Late Night Light](https://open.spotify.com/album/5SPqZ8SevS2ZEbgP7T1Haq) | 3:35 |
 | 24 | [Embalo](https://open.spotify.com/track/0v4oVq2rcPisPB7rVzl78c) | [TIRI](https://open.spotify.com/artist/2biikdsPdw63klSogoB5Ab) | [Embalo](https://open.spotify.com/album/624MHrTakiCB7vJ6hEFSnJ) | 3:21 |
 | 25 | [Mete o Pé](https://open.spotify.com/track/3Vl9ta4Cyr58nDn2XAJEjF) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Mete o Pé](https://open.spotify.com/album/1d9bZ6LXQ38biZ5U4ELM3n) | 2:22 |
-| 26 | [Repara](https://open.spotify.com/track/3KSBVHgj03KdPFQ4SMIizC) | [Maielle](https://open.spotify.com/artist/2vGvYgHGWdoDDdtplJlMjX) | [Repara](https://open.spotify.com/album/60lO1rsH63Nx57oB1uwfnk) | 2:34 |
-| 27 | [Talante](https://open.spotify.com/track/5P1WNHW4nUcBDFQPXHbSfR) | [Dani\-Vie](https://open.spotify.com/artist/2RrEvDsnA3z244bN2Z32iM), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Minha Cara](https://open.spotify.com/album/7asVGLUfBi2Fxwb818FCzs) | 3:19 |
+| 26 | [Talante](https://open.spotify.com/track/5P1WNHW4nUcBDFQPXHbSfR) | [Dani\-Vie](https://open.spotify.com/artist/2RrEvDsnA3z244bN2Z32iM), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Minha Cara](https://open.spotify.com/album/7asVGLUfBi2Fxwb818FCzs) | 3:19 |
+| 27 | [Repara](https://open.spotify.com/track/3KSBVHgj03KdPFQ4SMIizC) | [Maielle](https://open.spotify.com/artist/2vGvYgHGWdoDDdtplJlMjX) | [Repara](https://open.spotify.com/album/60lO1rsH63Nx57oB1uwfnk) | 2:34 |
 | 28 | [Sabotagem](https://open.spotify.com/track/1oKeFnoD4jIQ9EiUyW4msF) | [Mavi](https://open.spotify.com/artist/0eFYxhPPa43Kn72wtcAA7f), [Auler](https://open.spotify.com/artist/7hupw9FnkztTdeFxfgT72m) | [Sabotagem](https://open.spotify.com/album/0SbZxcv1ZTmPx3u5whGP3N) | 2:46 |
 | 29 | [Oxi \(Dio Mio!\)](https://open.spotify.com/track/7rNs5lk3spufNxHP2C8pjX) | [Belita](https://open.spotify.com/artist/2xlX2xlzRLg1y914U4acVR) | [Oxi \(Dio Mio!\)](https://open.spotify.com/album/34gsitMxdH7mewppzUB7F6) | 2:40 |
 | 30 | [Canal Laranja](https://open.spotify.com/track/4MxIs8Uf9ca58TZaU1Afpq) | [Joni](https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe), [meot](https://open.spotify.com/artist/20xtrfwLue7Sslipsez0NI), [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Canal Laranja](https://open.spotify.com/album/02C3OtPh10TYHuXsV8Qr2n) | 5:00 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 | 79 | [Alívio](https://open.spotify.com/track/0KnIk3stzRxOvb5LPLqmVt) | [Cronistas](https://open.spotify.com/artist/7L5dmHSm4H8cHne1itDWJq) | [Alívio](https://open.spotify.com/album/5zyqo7eSAZlcP6ecgZw4Lb) | 3:11 |
 | 80 | [Disfarça](https://open.spotify.com/track/15k0GNy0sK5l8W14UGX4dL) | [Silveriô](https://open.spotify.com/artist/2Sj8CPktStO7Fy4Ny2qbyg) | [Disfarça](https://open.spotify.com/album/19Z6YlIy7In820N5JN52EW) | 2:39 |
 
-Snapshot ID: `MCw1OWQzMDYwNjQ3NjY2OTg1ODYxMWUyMTQxM2I0OGI1OTVmNjc4ZWVm`
+Snapshot ID: `MCxkYTJjZjEyN2MwYjAyOTc0ZjA1MDU0MjM0YWVhYjUzMTY1NjRjNDA0`

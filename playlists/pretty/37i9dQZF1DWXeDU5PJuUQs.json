@@ -1,12 +1,12 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes.",
-  "num_followers": 140120,
+  "num_followers": 140167,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMmRjOGM3NTc3MWMxZTAyMTczMDc0ODViZThjN2UzNmYzMTljYjYx",
+  "snapshot_id": "MCxjZjMwYTVhZTZhMzVlY2I5OWNjZmE2ZTAwYjg5OTRhNWQyYzQ4ZTg0",
   "tracks": [
     {
       "added_at": "2023-12-29 03:00:00",
@@ -187,6 +187,22 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
+        "name": "Le Mandamos Cumbia Perro (En Vivo)",
+        "url": "https://open.spotify.com/album/7FhhJjQ9dez8uMOblDZ8Fm"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 71843,
+      "name": "Sobrio - En Vivo",
+      "url": "https://open.spotify.com/track/3HrvBkmU54RnjhHD09ddDk"
+    },
+    {
+      "added_at": "2023-12-29 03:00:00",
+      "album": {
         "name": "Un So\u00f1ador Eterno",
         "url": "https://open.spotify.com/album/0gDwcXu8hITigvMrZci4wo"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 173412,
       "name": "El Que Siempre Te Espera",
       "url": "https://open.spotify.com/track/7DamHboUtPW1M1K6EkIg4c"
-    },
-    {
-      "added_at": "2023-12-29 03:00:00",
-      "album": {
-        "name": "Le Mandamos Cumbia Perro (En Vivo)",
-        "url": "https://open.spotify.com/album/7FhhJjQ9dez8uMOblDZ8Fm"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 71843,
-      "name": "Sobrio - En Vivo",
-      "url": "https://open.spotify.com/track/3HrvBkmU54RnjhHD09ddDk"
     },
     {
       "added_at": "2023-12-29 03:00:00",
@@ -391,6 +391,26 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
+        "name": "Me Muero de Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/2QvyND4UnCt20ZvJAykc88"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "El Viejo Marquez",
+          "url": "https://open.spotify.com/artist/4EAV5xJot3hs1RICAsxSHA"
+        }
+      ],
+      "duration_ms": 208619,
+      "name": "Me Muero de Amor - En Vivo",
+      "url": "https://open.spotify.com/track/1vX3eIWSPr9EH3nSy1JhMN"
+    },
+    {
+      "added_at": "2023-12-29 03:00:00",
+      "album": {
         "name": "En Vivo en el Gran Rex",
         "url": "https://open.spotify.com/album/46mGVrvM2DljU2MH6xXzSx"
       },
@@ -423,42 +443,6 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "En Teatro del Huerto",
-        "url": "https://open.spotify.com/album/6lbMkAdjDpQL7Sx5oRAyrL"
-      },
-      "artists": [
-        {
-          "name": "La Liga",
-          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
-        }
-      ],
-      "duration_ms": 260755,
-      "name": "Entre el Cielo Vos y Yo - En Vivo",
-      "url": "https://open.spotify.com/track/5yruvWJs3mL00w4slpCVzN"
-    },
-    {
-      "added_at": "2023-12-29 03:00:00",
-      "album": {
-        "name": "Me Muero de Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/2QvyND4UnCt20ZvJAykc88"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "El Viejo Marquez",
-          "url": "https://open.spotify.com/artist/4EAV5xJot3hs1RICAsxSHA"
-        }
-      ],
-      "duration_ms": 208619,
-      "name": "Me Muero de Amor - En Vivo",
-      "url": "https://open.spotify.com/track/1vX3eIWSPr9EH3nSy1JhMN"
-    },
-    {
-      "added_at": "2023-12-29 03:00:00",
-      "album": {
         "name": "El Ni\u00f1o (En Vivo en el Luna Park)",
         "url": "https://open.spotify.com/album/2ZlaAvyAp0jI5k8zHglaSO"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 295778,
       "name": "El Ni\u00f1o - En Vivo en el Luna Park",
       "url": "https://open.spotify.com/track/3lwB6hwSgLec4z5SgoghHc"
+    },
+    {
+      "added_at": "2023-12-29 03:00:00",
+      "album": {
+        "name": "En Teatro del Huerto",
+        "url": "https://open.spotify.com/album/6lbMkAdjDpQL7Sx5oRAyrL"
+      },
+      "artists": [
+        {
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+        }
+      ],
+      "duration_ms": 260755,
+      "name": "Entre el Cielo Vos y Yo - En Vivo",
+      "url": "https://open.spotify.com/track/5yruvWJs3mL00w4slpCVzN"
     },
     {
       "added_at": "2023-12-29 03:00:00",
@@ -676,6 +676,22 @@
       "added_at": "2023-12-29 03:00:00",
       "album": {
         "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1m4nIhyZjhE5sQziBlHDzB"
+      },
+      "artists": [
+        {
+          "name": "Los Charros",
+          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
+        }
+      ],
+      "duration_ms": 281234,
+      "name": "Si No Te Hubieras Ido - En Vivo",
+      "url": "https://open.spotify.com/track/57qxHH0ICKbvykxgUkarIB"
+    },
+    {
+      "added_at": "2023-12-29 03:00:00",
+      "album": {
+        "name": "En Vivo",
         "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
       },
       "artists": [
@@ -707,22 +723,6 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1m4nIhyZjhE5sQziBlHDzB"
-      },
-      "artists": [
-        {
-          "name": "Los Charros",
-          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
-        }
-      ],
-      "duration_ms": 281234,
-      "name": "Si No Te Hubieras Ido - En Vivo",
-      "url": "https://open.spotify.com/track/57qxHH0ICKbvykxgUkarIB"
-    },
-    {
-      "added_at": "2023-12-29 03:00:00",
-      "album": {
         "name": "20 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/1y6ODDrdp8f3kFQ4GLCXS3"
       },
@@ -735,6 +735,22 @@
       "duration_ms": 457826,
       "name": "Pechos Calientes / Mojada por Dentro / Ando Buscando / El No Va a Venir / Voy a Morir Dentro Tuyo - En Vivo",
       "url": "https://open.spotify.com/track/4iy9NqDkaRndLAllVspQHy"
+    },
+    {
+      "added_at": "2023-12-29 03:00:00",
+      "album": {
+        "name": "En el Gran Rex (En Vivo)",
+        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "duration_ms": 158958,
+      "name": "Te So\u00f1\u00e9 una Vez Mas - En Vivo",
+      "url": "https://open.spotify.com/track/2O0Oi7fiNNpFN44QE2Ov7o"
     },
     {
       "added_at": "2023-12-29 03:00:00",
@@ -767,22 +783,6 @@
       "duration_ms": 278133,
       "name": "Como Podr\u00e9",
       "url": "https://open.spotify.com/track/3b1KrXLLqt9KbZvMdZ4fpN"
-    },
-    {
-      "added_at": "2023-12-29 03:00:00",
-      "album": {
-        "name": "En el Gran Rex (En Vivo)",
-        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        }
-      ],
-      "duration_ms": 158958,
-      "name": "Te So\u00f1\u00e9 una Vez Mas - En Vivo",
-      "url": "https://open.spotify.com/track/2O0Oi7fiNNpFN44QE2Ov7o"
     },
     {
       "added_at": "2023-12-29 03:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "En el Gran Rex (En Vivo)",
-        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        }
-      ],
-      "duration_ms": 175992,
-      "name": "Adios Amor Adios - En Vivo",
-      "url": "https://open.spotify.com/track/4u3XmK9ece4j7HYcdegsdh"
-    },
-    {
-      "added_at": "2023-12-29 03:00:00",
-      "album": {
         "name": "Show En Parque Recondo",
         "url": "https://open.spotify.com/album/5olJyfS4YAdQJk6wiNmLDG"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 131287,
       "name": "Decir Adi\u00f3s - En Vivo",
       "url": "https://open.spotify.com/track/3CBdi6o9Egg357jbpxBi60"
+    },
+    {
+      "added_at": "2023-12-29 03:00:00",
+      "album": {
+        "name": "En el Gran Rex (En Vivo)",
+        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "duration_ms": 175992,
+      "name": "Adios Amor Adios - En Vivo",
+      "url": "https://open.spotify.com/track/4u3XmK9ece4j7HYcdegsdh"
     },
     {
       "added_at": "2023-12-29 03:00:00",
@@ -915,38 +915,6 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "Mi Vida (En Vivo)",
-        "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
-      },
-      "artists": [
-        {
-          "name": "Daniel Agostini",
-          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
-        }
-      ],
-      "duration_ms": 439586,
-      "name": "Boquita De Caramelo / Una Copita Mas / Porque Yo / Otra Noche De Amor",
-      "url": "https://open.spotify.com/track/6AqhV2E7fO7tENpESQFhXv"
-    },
-    {
-      "added_at": "2023-12-29 03:00:00",
-      "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 64017,
-      "name": "Jurabas Tu - En Vivo",
-      "url": "https://open.spotify.com/track/1BFY2GhALH2uua588f0zkK"
-    },
-    {
-      "added_at": "2023-12-29 03:00:00",
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/2FCEskgKDeWbbi5RjX2nHv"
       },
@@ -963,6 +931,22 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
+        "name": "Mi Vida (En Vivo)",
+        "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
+      },
+      "artists": [
+        {
+          "name": "Daniel Agostini",
+          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
+        }
+      ],
+      "duration_ms": 439586,
+      "name": "Boquita De Caramelo / Una Copita Mas / Porque Yo / Otra Noche De Amor",
+      "url": "https://open.spotify.com/track/6AqhV2E7fO7tENpESQFhXv"
+    },
+    {
+      "added_at": "2023-12-29 03:00:00",
+      "album": {
         "name": "20 A\u00f1os Agitando el Avispero (En Vivo)",
         "url": "https://open.spotify.com/album/2vNZWsRlcCzRJevQ0v2Ip9"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 198245,
       "name": "Soy Mala Fama - En Vivo",
       "url": "https://open.spotify.com/track/6OgfQgwYmhqvmTPKPebPv4"
+    },
+    {
+      "added_at": "2023-12-29 03:00:00",
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 64017,
+      "name": "Jurabas Tu - En Vivo",
+      "url": "https://open.spotify.com/track/1BFY2GhALH2uua588f0zkK"
     },
     {
       "added_at": "2023-12-29 03:00:00",
@@ -1011,38 +1011,6 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "En Vivo en el Teatro",
-        "url": "https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW"
-      },
-      "artists": [
-        {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
-        }
-      ],
-      "duration_ms": 1189088,
-      "name": "Poco a Poco / La Chica Indicada / Un Sue\u00f1o / Separemonos / Fui Feliz / Amor, Amor / Ahora Regresas / En Este Mundo / La Pollera de Jimmy - En Vivo",
-      "url": "https://open.spotify.com/track/5biJmTVSy8a0rxgj0LbmF4"
-    },
-    {
-      "added_at": "2023-12-29 03:00:00",
-      "album": {
-        "name": "En Vivo 2019",
-        "url": "https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 147113,
-      "name": "Jurabas Tu - En Vivo",
-      "url": "https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ"
-    },
-    {
-      "added_at": "2023-12-29 03:00:00",
-      "album": {
         "name": "En el Gran Rex (En Vivo)",
         "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
       },
@@ -1063,18 +1031,18 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "Mi Vida (En Vivo)",
-        "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
+        "name": "En Vivo en el Teatro",
+        "url": "https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW"
       },
       "artists": [
         {
-          "name": "Daniel Agostini",
-          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
         }
       ],
-      "duration_ms": 483693,
-      "name": "La Ventanita / Beso a Beso",
-      "url": "https://open.spotify.com/track/3rs08x2D6DEQ5kgwZW82qq"
+      "duration_ms": 1189088,
+      "name": "Poco a Poco / La Chica Indicada / Un Sue\u00f1o / Separemonos / Fui Feliz / Amor, Amor / Ahora Regresas / En Este Mundo / La Pollera de Jimmy - En Vivo",
+      "url": "https://open.spotify.com/track/5biJmTVSy8a0rxgj0LbmF4"
     },
     {
       "added_at": "2023-12-29 03:00:00",
@@ -1095,6 +1063,22 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
+        "name": "En Vivo 2019",
+        "url": "https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 147113,
+      "name": "Jurabas Tu - En Vivo",
+      "url": "https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ"
+    },
+    {
+      "added_at": "2023-12-29 03:00:00",
+      "album": {
         "name": "Ay, Amor (En Vivo)",
         "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 193000,
       "name": "Quiero Yo Saber (Donde Esta El Amor)",
       "url": "https://open.spotify.com/track/7iwRxlSdAWVvpQGlx1yYmc"
+    },
+    {
+      "added_at": "2023-12-29 03:00:00",
+      "album": {
+        "name": "Mi Vida (En Vivo)",
+        "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
+      },
+      "artists": [
+        {
+          "name": "Daniel Agostini",
+          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
+        }
+      ],
+      "duration_ms": 483693,
+      "name": "La Ventanita / Beso a Beso",
+      "url": "https://open.spotify.com/track/3rs08x2D6DEQ5kgwZW82qq"
     },
     {
       "added_at": "2023-12-29 03:00:00",

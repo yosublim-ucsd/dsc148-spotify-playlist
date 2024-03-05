@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 6547,
+  "2024-03-05": 6550,
   "date_first_scraped": "2022-06-02",
   "description": "This is Banda Rafaga. The essential tracks, all in one playlist.",
   "name": "This Is Banda Rafaga",
@@ -1191,7 +1191,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 286950,
       "name": "Miel Amarga / Amigo - En Vivo",
       "url": "https://open.spotify.com/track/1XFm3pC9ppFaQJUG663K8k"
@@ -1573,6 +1573,24 @@
       "duration_ms": 157906,
       "name": "Porque Tu",
       "url": "https://open.spotify.com/track/6jYOXlxZGcJSGbIAfAtlG6"
+    },
+    {
+      "album": {
+        "name": "Al Ataque",
+        "url": "https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171003,
+      "name": "Prendido A Un Sentimiento",
+      "url": "https://open.spotify.com/track/0yqxtxTyNSvhx4P8klBWw0"
     },
     {
       "album": {

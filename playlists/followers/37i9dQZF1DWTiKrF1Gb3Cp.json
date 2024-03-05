@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 197027,
+  "2024-03-05": 197109,
   "date_first_scraped": "2023-04-07",
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
   "name": "Gaming Belic\u00f3n",
@@ -867,7 +867,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 217033,
       "name": "Chalineras",
       "url": "https://open.spotify.com/track/6y9kwY2Z6zOUmVymmj9P06"
@@ -1534,6 +1534,28 @@
     },
     {
       "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183797,
+      "name": "El Menos Visto",
+      "url": "https://open.spotify.com/track/6iC4fHzpEwug1iNFnNfhOy"
+    },
+    {
+      "album": {
         "name": "El Ni\u00f1o Malo",
         "url": "https://open.spotify.com/album/6OmiJphcmCFieKGQbR2R8Z"
       },
@@ -2166,6 +2188,32 @@
     },
     {
       "album": {
+        "name": "LA BESTIA",
+        "url": "https://open.spotify.com/album/5gvZo5yLEy0tyPGJLsDzoS"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        },
+        {
+          "name": "Rafael Amaya",
+          "url": "https://open.spotify.com/artist/4bforrvhv0YFDP83UQBbU8"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177106,
+      "name": "LA BESTIA",
+      "url": "https://open.spotify.com/track/58TiBzSkA8e4ex4crrFwg2"
+    },
+    {
+      "album": {
         "name": "La Diabla",
         "url": "https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v"
       },
@@ -2473,7 +2521,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 181765,
       "name": "Ll\u00e9vame",
       "url": "https://open.spotify.com/track/0eduCnvSAPlph82xkBOGsY"
@@ -3207,7 +3255,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 219452,
       "name": "No Te Metas",
       "url": "https://open.spotify.com/track/341IhTrfJQujky7ovX3hlV"
@@ -4003,7 +4051,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 228884,
       "name": "Soy De Barrio",
       "url": "https://open.spotify.com/track/0tY1L6nbATmY5caW68IkvN"

@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 74077,
+  "2024-03-05": 74100,
   "date_first_scraped": "2022-02-06",
   "description": "Essential new pop tracks. Cover: Cat Burns",
   "name": "New Pop Picks",
@@ -62421,7 +62421,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 173053,
       "name": "Over You",
       "url": "https://open.spotify.com/track/2k98PByaA4w3aEcFpmFsQe"
@@ -62443,6 +62443,32 @@
       "duration_ms": 196243,
       "name": "Over You",
       "url": "https://open.spotify.com/track/5sxaYBg4Om2jVNYiH1jbiS"
+    },
+    {
+      "album": {
+        "name": "Djesse Vol. 4",
+        "url": "https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Chris Martin",
+          "url": "https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173053,
+      "name": "Over You (feat. aespa & Chris Martin)",
+      "url": "https://open.spotify.com/track/7MSZg4Km8CM7NRXTeJoANZ"
     },
     {
       "album": {

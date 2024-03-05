@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 1002186,
+  "2024-03-05": 1002297,
   "date_first_scraped": "2022-02-09",
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Zo\u00e9 en portada. ",
   "name": "La + Chingona",
@@ -1043,7 +1043,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 242813,
       "name": "El \u00c1tico",
       "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
@@ -1731,7 +1731,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 241813,
       "name": "La Locomotora - MTV Unplugged",
       "url": "https://open.spotify.com/track/3W7ctGaVvHy2bIPQaNjKgA"

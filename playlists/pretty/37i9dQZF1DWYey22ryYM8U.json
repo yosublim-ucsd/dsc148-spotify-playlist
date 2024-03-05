@@ -1,12 +1,12 @@
 {
   "description": "Hits con sabor. Cover: Camilo & Evaluna Montaner",
-  "num_followers": 600452,
+  "num_followers": 600444,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDIzODE2YjRjMzYxODUyOTA1ZDliMThhYmViZmZiZjc1MWJlNzBk",
+  "snapshot_id": "MCwxY2FmN2U0ZDdmMTkxYjMxYTI4NmNmYjI0MmVmNTJmYmJjZThhODI4",
   "tracks": [
     {
       "added_at": "2024-02-29 21:51:06",
@@ -439,26 +439,6 @@
     {
       "added_at": "2024-02-29 21:51:06",
       "album": {
-        "name": "Ateo",
-        "url": "https://open.spotify.com/album/6Re7sviVustR53KeArspwK"
-      },
-      "artists": [
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        },
-        {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
-        }
-      ],
-      "duration_ms": 239925,
-      "name": "Ateo",
-      "url": "https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11"
-    },
-    {
-      "added_at": "2024-02-29 21:51:06",
-      "album": {
         "name": "F\u00f3rmula, Vol. 3",
         "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 161897,
       "name": "Cosas de la Peda (feat. Gabito Ballesteros)",
       "url": "https://open.spotify.com/track/1RzNRKntEk0KiQE4NFBKmc"
+    },
+    {
+      "added_at": "2024-02-29 21:51:06",
+      "album": {
+        "name": "Ateo",
+        "url": "https://open.spotify.com/album/6Re7sviVustR53KeArspwK"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        },
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "duration_ms": 239925,
+      "name": "Ateo",
+      "url": "https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11"
     },
     {
       "added_at": "2024-02-29 21:51:06",
@@ -575,26 +575,6 @@
     {
       "added_at": "2024-02-29 21:51:06",
       "album": {
-        "name": "Te Espero (feat. Maria Becerra)",
-        "url": "https://open.spotify.com/album/6vBJJJEUCqmzaBnzwtRgPK"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 246850,
-      "name": "Te Espero - feat. Maria Becerra",
-      "url": "https://open.spotify.com/track/46GsFW8AFIvi8TUDlYRlXR"
-    },
-    {
-      "added_at": "2024-02-29 21:51:06",
-      "album": {
         "name": "Utopia",
         "url": "https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 256252,
       "name": "Ayer Me Llam\u00f3 Mi Ex (Remix)",
       "url": "https://open.spotify.com/track/1PWEqRVXqXhRDeS4OznL01"
+    },
+    {
+      "added_at": "2024-02-29 21:51:06",
+      "album": {
+        "name": "Te Espero (feat. Maria Becerra)",
+        "url": "https://open.spotify.com/album/6vBJJJEUCqmzaBnzwtRgPK"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 246850,
+      "name": "Te Espero - feat. Maria Becerra",
+      "url": "https://open.spotify.com/track/46GsFW8AFIvi8TUDlYRlXR"
     },
     {
       "added_at": "2024-02-29 21:51:06",
@@ -723,6 +723,26 @@
     {
       "added_at": "2024-02-29 21:51:06",
       "album": {
+        "name": "F\u00f3rmula, Vol. 3",
+        "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "Sin Fin",
+      "url": "https://open.spotify.com/track/4BBTalxG6c1Aoai1x1EA5g"
+    },
+    {
+      "added_at": "2024-02-29 21:51:06",
+      "album": {
         "name": "Kitipun",
         "url": "https://open.spotify.com/album/7Hp43M9ZedO6dhIOa3O3fN"
       },
@@ -735,30 +755,6 @@
       "duration_ms": 216946,
       "name": "Kitipun",
       "url": "https://open.spotify.com/track/04elniHFWwwFHxi3SZlGI6"
-    },
-    {
-      "added_at": "2024-02-29 21:51:06",
-      "album": {
-        "name": "Si Te Preguntan... (feat. Nicky Jam & Jay Wheeler)",
-        "url": "https://open.spotify.com/album/4UDVt5eerRMk5hCMF1qek9"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 223073,
-      "name": "Si Te Preguntan... - feat. Nicky Jam & Jay Wheeler",
-      "url": "https://open.spotify.com/track/20yLo8tCAM1LXixAdBf3f2"
     },
     {
       "added_at": "2024-02-29 21:51:06",
@@ -783,26 +779,6 @@
     {
       "added_at": "2024-02-29 21:51:06",
       "album": {
-        "name": "F\u00f3rmula, Vol. 3",
-        "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        },
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "Sin Fin",
-      "url": "https://open.spotify.com/track/4BBTalxG6c1Aoai1x1EA5g"
-    },
-    {
-      "added_at": "2024-02-29 21:51:06",
-      "album": {
         "name": "Cumbia A La Gente",
         "url": "https://open.spotify.com/album/3eT1FV4qZ43hRNUBO5yf12"
       },
@@ -819,6 +795,30 @@
       "duration_ms": 208400,
       "name": "Cumbia A La Gente",
       "url": "https://open.spotify.com/track/2a1oufthlxOkH8yjhYAvgH"
+    },
+    {
+      "added_at": "2024-02-29 21:51:06",
+      "album": {
+        "name": "Si Te Preguntan... (feat. Nicky Jam & Jay Wheeler)",
+        "url": "https://open.spotify.com/album/4UDVt5eerRMk5hCMF1qek9"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 223073,
+      "name": "Si Te Preguntan... - feat. Nicky Jam & Jay Wheeler",
+      "url": "https://open.spotify.com/track/20yLo8tCAM1LXixAdBf3f2"
     },
     {
       "added_at": "2024-02-29 21:51:06",
@@ -887,22 +887,6 @@
       "duration_ms": 276433,
       "name": "No Te Contaron Mal",
       "url": "https://open.spotify.com/track/0jLNtXSoXNQ09T3zyhBPDl"
-    },
-    {
-      "added_at": "2024-02-29 21:51:06",
-      "album": {
-        "name": "ALTER EGO",
-        "url": "https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 191209,
-      "name": "Carita de Inocente",
-      "url": "https://open.spotify.com/track/30oZjF87SHCd0CE0ttGm5U"
     },
     {
       "added_at": "2024-02-29 21:51:06",
@@ -991,6 +975,22 @@
       "duration_ms": 241760,
       "name": "Lo Que Te Di",
       "url": "https://open.spotify.com/track/0W8NvcMsIuygeFnfNz2KnC"
+    },
+    {
+      "added_at": "2024-02-29 21:51:06",
+      "album": {
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 191209,
+      "name": "Carita de Inocente",
+      "url": "https://open.spotify.com/track/30oZjF87SHCd0CE0ttGm5U"
     },
     {
       "added_at": "2024-02-29 21:51:06",
@@ -1479,6 +1479,38 @@
     {
       "added_at": "2024-02-29 21:51:06",
       "album": {
+        "name": "Lado A Lado B",
+        "url": "https://open.spotify.com/album/2nPt3BGpcWAt2pU6FjQC5n"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 276726,
+      "name": "Decid\u00ed Tener Pantalones",
+      "url": "https://open.spotify.com/track/60AjFqriLK9hYqSF4BUgRL"
+    },
+    {
+      "added_at": "2024-02-29 21:51:06",
+      "album": {
+        "name": "No Te Vayas",
+        "url": "https://open.spotify.com/album/5LWzkXfz3kWsZ6mAc122X9"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 226128,
+      "name": "No Te Vayas",
+      "url": "https://open.spotify.com/track/587xp1Yt8CAPzbHsAuN5nD"
+    },
+    {
+      "added_at": "2024-02-29 21:51:06",
+      "album": {
         "name": "Aventurero",
         "url": "https://open.spotify.com/album/4PWYXJGUP9s8qNWJMCRl4s"
       },
@@ -1511,38 +1543,6 @@
       "duration_ms": 206442,
       "name": "Sopita",
       "url": "https://open.spotify.com/track/4eXzQyAZ4jow5Hh41vqfgb"
-    },
-    {
-      "added_at": "2024-02-29 21:51:06",
-      "album": {
-        "name": "No Te Vayas",
-        "url": "https://open.spotify.com/album/5LWzkXfz3kWsZ6mAc122X9"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 226128,
-      "name": "No Te Vayas",
-      "url": "https://open.spotify.com/track/587xp1Yt8CAPzbHsAuN5nD"
-    },
-    {
-      "added_at": "2024-02-29 21:51:06",
-      "album": {
-        "name": "Lado A Lado B",
-        "url": "https://open.spotify.com/album/2nPt3BGpcWAt2pU6FjQC5n"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 276726,
-      "name": "Decid\u00ed Tener Pantalones",
-      "url": "https://open.spotify.com/track/60AjFqriLK9hYqSF4BUgRL"
     },
     {
       "added_at": "2024-02-29 21:51:06",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-02-29 21:51:06",
       "album": {
-        "name": "Hasta el Sol de Hoy",
-        "url": "https://open.spotify.com/album/58nQPTGt7vE4aNcaxCTLjp"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 236611,
-      "name": "Hasta el Sol de Hoy - Versi\u00f3n Salsa",
-      "url": "https://open.spotify.com/track/7064YUYdHypgqgH7mKlAgw"
-    },
-    {
-      "added_at": "2024-02-29 21:51:06",
-      "album": {
         "name": "De Camino A Palomino, Vol. 1",
         "url": "https://open.spotify.com/album/0B88UTbmGoAUh44gsfo92M"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 210446,
       "name": "Se Le Nota",
       "url": "https://open.spotify.com/track/6l1CD1Raf4AtgQOJLXwiwt"
+    },
+    {
+      "added_at": "2024-02-29 21:51:06",
+      "album": {
+        "name": "Hasta el Sol de Hoy",
+        "url": "https://open.spotify.com/album/58nQPTGt7vE4aNcaxCTLjp"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 236611,
+      "name": "Hasta el Sol de Hoy - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/7064YUYdHypgqgH7mKlAgw"
     },
     {
       "added_at": "2024-02-29 21:51:06",
@@ -1859,6 +1859,34 @@
     {
       "added_at": "2024-02-29 21:51:06",
       "album": {
+        "name": "Sin Fronteras (feat. Haila)",
+        "url": "https://open.spotify.com/album/5qgoLsJKKnbHtVpqO4FD4C"
+      },
+      "artists": [
+        {
+          "name": "Tony Succar",
+          "url": "https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk"
+        },
+        {
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+        },
+        {
+          "name": "Mimy Succar",
+          "url": "https://open.spotify.com/artist/1hOnt6Sw9sCHTUbljZwayv"
+        },
+        {
+          "name": "Haila",
+          "url": "https://open.spotify.com/artist/4qaVBTUcoHpMlgf5NpQY7P"
+        }
+      ],
+      "duration_ms": 301388,
+      "name": "Sin Fronteras",
+      "url": "https://open.spotify.com/track/0EjGZf0b32jCa43xMkEt13"
+    },
+    {
+      "added_at": "2024-02-29 21:51:06",
+      "album": {
         "name": "Abrete",
         "url": "https://open.spotify.com/album/06PuNPUtn9QmMWuSgmMAz5"
       },
@@ -1879,26 +1907,6 @@
       "duration_ms": 254290,
       "name": "Abrete",
       "url": "https://open.spotify.com/track/2JT09i9gxPolHFrliKbxsD"
-    },
-    {
-      "added_at": "2024-02-29 21:51:06",
-      "album": {
-        "name": "Ojal\u00e1 (Remix)",
-        "url": "https://open.spotify.com/album/7sNRUbrS9DLbbZTtP40KgH"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        },
-        {
-          "name": "Nacho",
-          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
-        }
-      ],
-      "duration_ms": 219718,
-      "name": "Ojal\u00e1 - Remix",
-      "url": "https://open.spotify.com/track/1gkf7yielXnNYK1BqHPkHj"
     }
   ],
   "unique_name": "Tropical Hits",

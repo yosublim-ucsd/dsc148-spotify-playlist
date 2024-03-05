@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 20150,
+  "2024-03-05": 20154,
   "date_first_scraped": "2022-12-01",
   "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: Smallgod",
   "name": "Ghana Party",
@@ -2469,7 +2469,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 140339,
       "name": "GoodSin",
       "url": "https://open.spotify.com/track/4lkI6BidQ1dC19KaCb0SUn"
@@ -2491,6 +2491,24 @@
       "duration_ms": 140339,
       "name": "GoodSin",
       "url": "https://open.spotify.com/track/5tlvXfI4aqoSh0oRghr7UT"
+    },
+    {
+      "album": {
+        "name": "Avana (Deluxe)",
+        "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
+      },
+      "artists": [
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140339,
+      "name": "GoodSin",
+      "url": "https://open.spotify.com/track/6JTpnAzRctuyc6qhUimpMW"
     },
     {
       "album": {

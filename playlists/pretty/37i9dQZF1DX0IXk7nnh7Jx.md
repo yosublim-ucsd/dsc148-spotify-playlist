@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="spotify:artist:19TPpTWkgX13Qc2stbqVoP">Terrian</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,468 likes - 150 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,519 likes - 150 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,12 +14,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 4 | [Altar](https://open.spotify.com/track/7MwkYzOeTZG3rtNWo6D7kK) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Altar](https://open.spotify.com/album/1T43dJrSpIutVfxgb6PzEd) | 3:34 |
 | 5 | [My Promised Land](https://open.spotify.com/track/0yPcVoe1j2MI9wG2iDZftN) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [My Promised Land](https://open.spotify.com/album/23iqDTAow5YznUCNHhEThb) | 3:14 |
 | 6 | [Twenty\-Four \(Tyler Joseph from Twenty One Pilots Version\)](https://open.spotify.com/track/3KhUUinfojt0DbzvXwfxW8) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Beautiful Letdown \(Our Version\) \[Deluxe Edition\]](https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT) | 4:42 |
-| 7 | [Thank You](https://open.spotify.com/track/28utdkpekXSsk9LSVjxnoh) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Thank You](https://open.spotify.com/album/4JxaMl4zCyktWBBMPW2vod) | 2:24 |
-| 8 | [Down In My Heart \(Joy\)](https://open.spotify.com/track/53P88AP6l1f8I9IikB55Ex) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Down In My Heart \(Joy\)](https://open.spotify.com/album/0vAd51CBFDJXarTCGnTDGK) | 2:57 |
-| 9 | [A New Thing](https://open.spotify.com/track/1lzFtxdNGEUf3mWeqb6aBi) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [A New Thing](https://open.spotify.com/album/5e2Kuvl2v660idmQZMzXVz) | 3:37 |
+| 7 | [Down In My Heart \(Joy\)](https://open.spotify.com/track/53P88AP6l1f8I9IikB55Ex) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Down In My Heart \(Joy\)](https://open.spotify.com/album/0vAd51CBFDJXarTCGnTDGK) | 2:57 |
+| 8 | [A New Thing](https://open.spotify.com/track/1lzFtxdNGEUf3mWeqb6aBi) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [A New Thing](https://open.spotify.com/album/5e2Kuvl2v660idmQZMzXVz) | 3:37 |
+| 9 | [More](https://open.spotify.com/track/0gXTRiC1YckfXlxP8KexYk) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [More](https://open.spotify.com/album/04jYznyMPGDRW0SxmsvywD) | 4:05 |
 | 10 | [Leaning on the Everlasting Arms](https://open.spotify.com/track/0Zs4yEcEo9AIiGZcCiZM7n) | [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3) | [MATIN: Rest](https://open.spotify.com/album/12cExcrLvFwR8xc7TjyIwG) | 5:29 |
-| 11 | [More](https://open.spotify.com/track/0gXTRiC1YckfXlxP8KexYk) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [More](https://open.spotify.com/album/04jYznyMPGDRW0SxmsvywD) | 4:05 |
-| 12 | [Desire Pt\. 2](https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Desire Pt\. 2](https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne) | 2:40 |
+| 11 | [Desire Pt\. 2](https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Desire Pt\. 2](https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne) | 2:40 |
+| 12 | [Thank You](https://open.spotify.com/track/28utdkpekXSsk9LSVjxnoh) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Thank You](https://open.spotify.com/album/4JxaMl4zCyktWBBMPW2vod) | 2:24 |
 | 13 | [LIGHTER FLUID](https://open.spotify.com/track/6ZRC56ykoaYLnncqvSwKWR) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [LIGHTER FLUID](https://open.spotify.com/album/6qm4XXccJz12KfaFyKkcwJ) | 2:13 |
 | 14 | [in the cool of the day](https://open.spotify.com/track/4D34sCvcCCugcknWUsOXJk) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [Moflo](https://open.spotify.com/artist/3l4DNYCciNLDKnkKO2u8wP) | [Diary Entry](https://open.spotify.com/album/0BXbBx3KrFJHWxBEGJqUBf) | 3:00 |
 | 15 | [Surrender](https://open.spotify.com/track/6KYCrxiSpcGc4OrL5tEuwb) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Deyah](https://open.spotify.com/artist/7FVYHSqy6wB2PCifeS81fb), [Joel Baker](https://open.spotify.com/artist/02Ok0rA4DUmpWuALgD54iY), [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Surrender](https://open.spotify.com/album/4d7wBapxvrLYS1OzPQ7WL4) | 3:54 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 149 | [Candlelight](https://open.spotify.com/track/3aIEDekEyK5BOOoLuJNo4C) | [Praise Lubangu](https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ), [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Candlelight](https://open.spotify.com/album/5TaylRZLl8LZJ9SAccvHQe) | 3:54 |
 | 150 | [In Control](https://open.spotify.com/track/0gwupaJdsfzEqKGe4sKDzy) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [In Control](https://open.spotify.com/album/6QzEa12UN5OJ0SM8p0tfKW) | 2:00 |
 
-Snapshot ID: `MCxlYjdmZjBhZWQ1NzQ3MDU0NWJkZTBmY2MzMTRlMDhlYmFjMDcyN2I3`
+Snapshot ID: `MCxmZjVlNjg2MzUwNWI0M2RhZTFlOWFlMDJjMGI2NTExOWFmNzFjMWE2`

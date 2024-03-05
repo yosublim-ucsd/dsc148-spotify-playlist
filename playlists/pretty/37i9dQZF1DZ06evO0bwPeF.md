@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 
 > This is Helmet\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,681 likes - 41 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,682 likes - 41 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,18 +36,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 | 26 | [NYC Tough Guy](https://open.spotify.com/track/69hbQdjcPhITOxVBuIApkL) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Left](https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL) | 2:34 |
 | 27 | [Broadcast Emotion](https://open.spotify.com/track/1lfPYmFzLJzkrAo8J8bBtz) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Aftertaste](https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ) | 2:44 |
 | 28 | [Repetition](https://open.spotify.com/track/0SN6a4K3SSIDhAMVkN23El) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 2:59 |
-| 29 | [Unwound](https://open.spotify.com/track/0o1wHHECTAVzBojwmXBAmj) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Size Matters](https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er) | 4:12 |
+| 29 | [Throwing Punches](https://open.spotify.com/track/63wk2Du2oE4sXb2fpg0mfE) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Size Matters](https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er) | 3:44 |
 | 30 | [Bombastic](https://open.spotify.com/track/4RssOVgoIlIeiEntLWc4fS) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Left](https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL) | 3:11 |
 | 31 | [Monochrome](https://open.spotify.com/track/25vfrUh0jT6gPNoXwGwQwy) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Monochrome](https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx) | 3:50 |
 | 32 | [FBLA](https://open.spotify.com/track/1JfrCAoYpQKNdzefAvI1OS) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 2:39 |
-| 33 | [Throwing Punches](https://open.spotify.com/track/63wk2Du2oE4sXb2fpg0mfE) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Size Matters](https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er) | 3:44 |
+| 33 | [Unwound](https://open.spotify.com/track/0o1wHHECTAVzBojwmXBAmj) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Size Matters](https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er) | 4:12 |
 | 34 | [Big Shot](https://open.spotify.com/track/02AudzNTg5zFxTlhXx1cYG) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Left](https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL) | 2:43 |
 | 35 | [No Nicky No](https://open.spotify.com/track/1dRcNdzwEsHmAqYTiSedpl) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Born Annoying](https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X) | 2:17 |
 | 36 | [Sinatra](https://open.spotify.com/track/5n4HiXIkGjxlBlbeUbbBsv) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 4:23 |
 | 37 | [Reprise](https://open.spotify.com/track/5nzkV1JORVZoWpRudZ3BAr) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [LEFT](https://open.spotify.com/album/5pHjmGCNpDjFcpGFXSTngH) | 1:41 |
 | 38 | [Taken](https://open.spotify.com/track/7y9WJn0mVfvxo16tZNFmoJ) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Born Annoying](https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X) | 1:53 |
 | 39 | [Make Room](https://open.spotify.com/track/047rc63FPRYjXWq7iLhrzg) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 3:26 |
-| 40 | [Make\-Up](https://open.spotify.com/track/09U3w7A1bWNtQ86p5opFcK) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [LEFT](https://open.spotify.com/album/5pHjmGCNpDjFcpGFXSTngH) | 2:48 |
-| 41 | [Dislocated](https://open.spotify.com/track/6NoPsV2kLjSrEM24YO7xtA) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Left](https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL) | 3:19 |
+| 40 | [Powder Puff](https://open.spotify.com/track/2o1sbJtl8qV6a9FGpOAQ6g) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Left](https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL) | 3:41 |
+| 41 | [Make\-Up](https://open.spotify.com/track/09U3w7A1bWNtQ86p5opFcK) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [LEFT](https://open.spotify.com/album/5pHjmGCNpDjFcpGFXSTngH) | 2:48 |
 
-Snapshot ID: `Mjg0OTExMzgsMDAwMDAwMDBlMTZhMjg4NjJjOGVlZmQzMjZhNTIxZTUwZmJkM2MwNQ==`
+Snapshot ID: `Mjg0OTI1NjksMDAwMDAwMDA0MjFmOWY5MWEwNTAxZDAwNzg0NmE1MjgxNWIwYmNmYQ==`

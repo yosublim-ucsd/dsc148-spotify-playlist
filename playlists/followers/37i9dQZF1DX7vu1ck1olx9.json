@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 74347,
+  "2024-03-05": 74423,
   "date_first_scraped": "2022-05-26",
   "description": "Cool down with these chill beats",
   "name": "lofi cool down",
@@ -1383,6 +1383,24 @@
       "duration_ms": 165680,
       "name": "Doppelg\u00e4nger",
       "url": "https://open.spotify.com/track/6VoVVf6a2qnPehCRv5UXmK"
+    },
+    {
+      "album": {
+        "name": "dozen",
+        "url": "https://open.spotify.com/album/0dizKykE5UNTDJ3qgAHjPw"
+      },
+      "artists": [
+        {
+          "name": "Parelo",
+          "url": "https://open.spotify.com/artist/5x2rKBeovdxVizxphumkD0"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122422,
+      "name": "dozen",
+      "url": "https://open.spotify.com/track/5kfiW0zjkX0ykCCphv3KpG"
     },
     {
       "album": {
@@ -4501,7 +4519,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 120000,
       "name": "Soul Sista",
       "url": "https://open.spotify.com/track/6tun0i4mdf8qgNXVYxRZRe"

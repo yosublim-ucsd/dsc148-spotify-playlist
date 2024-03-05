@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AwGpzjEwc0.md) - [plain]
 
 > Un suave trasfondo musical para mantener el foco en tus tareas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,147 likes - 244 songs - 10 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,162 likes - 244 songs - 10 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AwGpzjEwc0.md) - [plain]
 | 70 | [Sailing Away](https://open.spotify.com/track/0Kw8lbzKpIsKDwfQbXUchk) | [Anthony Jacobus](https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi) | [Sailing Away](https://open.spotify.com/album/3YaN7okyKD5CrY79uPcUE7) | 2:23 |
 | 71 | [Rest](https://open.spotify.com/track/634pdMJ4hY7Ttaf8B45C0C) | [Algot Brooke](https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC) | [Rest](https://open.spotify.com/album/5PyoVVil8AmVxpN8Gxzitj) | 2:54 |
 | 72 | [Along dammed rivers](https://open.spotify.com/track/74kSL8wn4qNOURsSpye78o) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Along dammed rivers](https://open.spotify.com/album/4p7zwsvBIehxETxwBLgRSK) | 2:15 |
-| 73 | [Morning Dance](https://open.spotify.com/track/1HNWHlc0OfRnCCeoLAwKzJ) | [Don Sisley](https://open.spotify.com/artist/7uIga0e3GsnHK7VO4IqHq3) | [Morning Dance](https://open.spotify.com/album/3DD7atkh8NCnmAkRff4Qlt) | 2:25 |
-| 74 | [Early Memories](https://open.spotify.com/track/0yAgdDXxal3Em3W4X1bkGq) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Early Memories](https://open.spotify.com/album/0jFxPV4j7bMwugDCJsMt7g) | 2:33 |
+| 73 | [Early Memories](https://open.spotify.com/track/0yAgdDXxal3Em3W4X1bkGq) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Early Memories](https://open.spotify.com/album/0jFxPV4j7bMwugDCJsMt7g) | 2:33 |
+| 74 | [Morning Dance](https://open.spotify.com/track/1HNWHlc0OfRnCCeoLAwKzJ) | [Don Sisley](https://open.spotify.com/artist/7uIga0e3GsnHK7VO4IqHq3) | [Morning Dance](https://open.spotify.com/album/3DD7atkh8NCnmAkRff4Qlt) | 2:25 |
 | 75 | [Silver Lining](https://open.spotify.com/track/6dfDHPTRAVzPRlpB299l24) | [Emma Richter](https://open.spotify.com/artist/2Q8IvwzxquzBgeiMdBQJKR) | [Silver Lining](https://open.spotify.com/album/1jB2I6tTdCtzwOa6wmq1lE) | 2:36 |
 | 76 | [Thirst](https://open.spotify.com/track/6C1203q8GhYKuu2U6Qqpnp) | [Tales of Vibrations](https://open.spotify.com/artist/0Sxja6JbepbdS1Dw2nMDeG) | [Thirst](https://open.spotify.com/album/7KeiTF4P3CdFZyO13kfWSk) | 2:37 |
 | 77 | [Fleurs Séchées](https://open.spotify.com/track/70oTgyGPmB9ZtU2lrjbZfj) | [Projet Calmant](https://open.spotify.com/artist/7co0izocnlz4PPcuxN9dwJ) | [Fleurs Séchées](https://open.spotify.com/album/7LeBN7j9XjqfRoxtUKIvV2) | 2:06 |
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AwGpzjEwc0.md) - [plain]
 | 107 | [Summer](https://open.spotify.com/track/3LVfGCqen57RXIKj8Baen5) | [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [Summer](https://open.spotify.com/album/7elTnjhpbDAbtO2LYKdd1f) | 2:47 |
 | 108 | [Lugn](https://open.spotify.com/track/1ClMqo1ZdAfFu5QMgF7hPB) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lugn](https://open.spotify.com/album/32Di3Yyg05ysztLJV02oYh) | 2:18 |
 | 109 | [Flock of birds](https://open.spotify.com/track/1IX1OcHSP4orBnAijqa7gT) | [Skye High](https://open.spotify.com/artist/3DGbJwTEqE5CuLnxk0KI5l) | [Flock of birds](https://open.spotify.com/album/05KODFYK497NNmTs0ZW9xx) | 3:02 |
-| 110 | [Danse avec moi](https://open.spotify.com/track/6EJ1ZUorVQzjUIq2kaIBur) | [Hector VallÇe](https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M) | [Danse avec moi](https://open.spotify.com/album/1dGrCWi0hfpYTTSFKE6PQr) | 2:26 |
-| 111 | [Feuille](https://open.spotify.com/track/5n3wnLgfqGMMCAvx4dxZxO) | [Elijah Reeves](https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8) | [Feuille](https://open.spotify.com/album/5k7Np39Dg8TY4fU2ogaPjX) | 2:33 |
+| 110 | [Feuille](https://open.spotify.com/track/5n3wnLgfqGMMCAvx4dxZxO) | [Elijah Reeves](https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8) | [Feuille](https://open.spotify.com/album/5k7Np39Dg8TY4fU2ogaPjX) | 2:33 |
+| 111 | [Danse avec moi](https://open.spotify.com/track/6EJ1ZUorVQzjUIq2kaIBur) | [Hector VallÇe](https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M) | [Danse avec moi](https://open.spotify.com/album/1dGrCWi0hfpYTTSFKE6PQr) | 2:26 |
 | 112 | [Kalopsia](https://open.spotify.com/track/3XebcloY8ola1VTGRm6aLP) | [Taganema](https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d) | [Kalopsia](https://open.spotify.com/album/3kJJgfrEqoVMQkR9cHRsm8) | 2:58 |
 | 113 | [In Reform](https://open.spotify.com/track/4Z3FuHB9SiTfOENBGlSxvI) | [Phileas Galle](https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68) | [In Reform](https://open.spotify.com/album/4anNfpO1diBCnuNgmNL1uL) | 2:35 |
 | 114 | [Remembrance](https://open.spotify.com/track/3yZHqhElpkIWaHA1yUFCIH) | [Maybelle Watson](https://open.spotify.com/artist/0r0MT1SFBOA04mUgXA5PzX) | [Remembrance](https://open.spotify.com/album/5QEo0jbi1JBt4ghGJ0qIHz) | 2:16 |
@@ -228,11 +228,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AwGpzjEwc0.md) - [plain]
 | 218 | [Tannheimer Tal](https://open.spotify.com/track/1amrAsnnNF1T3asupLTlyu) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [Allgäuer Winter](https://open.spotify.com/album/3TteT6GzxNbGON4e6L2D1m) | 2:27 |
 | 219 | [Voyager](https://open.spotify.com/track/6zplwArWlq8WOjRGVZIPii) | [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Voyager](https://open.spotify.com/album/2XnDUF444KioNZsTWIxBWX) | 2:12 |
 | 220 | [Rianmarsi](https://open.spotify.com/track/3DG5USrBXKc74Hf8T1H2jn) | [Emiliano Nucci](https://open.spotify.com/artist/4EuYecPOxU6sd7XQzkzYRp) | [Rianmarsi](https://open.spotify.com/album/1pIIVUNVmiMvRBJbyNDt0J) | 2:16 |
-| 221 | [Sunday Hour](https://open.spotify.com/track/2xnpQjGerUpem80YNQq8My) | [Juno Celeste](https://open.spotify.com/artist/1RqdsPi4YD3hR1bnKkMAnz) | [Sunday Hour](https://open.spotify.com/album/2637sHeBWYBvH8sx7sLISA) | 2:22 |
-| 222 | [Say Goodbye](https://open.spotify.com/track/1j13HkUceNuucwQjJNIWxe) | [Sigmund Thorne](https://open.spotify.com/artist/5XZMvbqpb45vxwBRHQQ2sR) | [Say Goodbye](https://open.spotify.com/album/5aKjif3nihiPDJ119Bjlzs) | 2:51 |
-| 223 | [Empty Pews](https://open.spotify.com/track/4RnRAj8j9eLv4ksbuhjk78) | [John Thomas Remington](https://open.spotify.com/artist/4IjrAYpXscdCP4Twuor1f3) | [Empty Pews](https://open.spotify.com/album/2KzoXF3GQ7XnqyUIcpPBwf) | 2:36 |
-| 224 | [Stars above Andorra](https://open.spotify.com/track/6sRiCZOtYsQn8aBeZEVZcF) | [Sven Frisch](https://open.spotify.com/artist/0J6D8qVOXsoS5y5B3nX5RX) | [Stars above Andorra](https://open.spotify.com/album/0VkZDvfXjn9nORRg0sfvNq) | 3:03 |
-| 225 | [Semele](https://open.spotify.com/track/7xDJKwrqDHATq89aKu8E2Q) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Cuaderna Vía](https://open.spotify.com/album/5xyUHwD6UW7hoeS0N1A29o) | 2:46 |
+| 221 | [Semele](https://open.spotify.com/track/7xDJKwrqDHATq89aKu8E2Q) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Cuaderna Vía](https://open.spotify.com/album/5xyUHwD6UW7hoeS0N1A29o) | 2:46 |
+| 222 | [Sunday Hour](https://open.spotify.com/track/2xnpQjGerUpem80YNQq8My) | [Juno Celeste](https://open.spotify.com/artist/1RqdsPi4YD3hR1bnKkMAnz) | [Sunday Hour](https://open.spotify.com/album/2637sHeBWYBvH8sx7sLISA) | 2:22 |
+| 223 | [Say Goodbye](https://open.spotify.com/track/1j13HkUceNuucwQjJNIWxe) | [Sigmund Thorne](https://open.spotify.com/artist/5XZMvbqpb45vxwBRHQQ2sR) | [Say Goodbye](https://open.spotify.com/album/5aKjif3nihiPDJ119Bjlzs) | 2:51 |
+| 224 | [Empty Pews](https://open.spotify.com/track/4RnRAj8j9eLv4ksbuhjk78) | [John Thomas Remington](https://open.spotify.com/artist/4IjrAYpXscdCP4Twuor1f3) | [Empty Pews](https://open.spotify.com/album/2KzoXF3GQ7XnqyUIcpPBwf) | 2:36 |
+| 225 | [Stars above Andorra](https://open.spotify.com/track/6sRiCZOtYsQn8aBeZEVZcF) | [Sven Frisch](https://open.spotify.com/artist/0J6D8qVOXsoS5y5B3nX5RX) | [Stars above Andorra](https://open.spotify.com/album/0VkZDvfXjn9nORRg0sfvNq) | 3:03 |
 | 226 | [Little House](https://open.spotify.com/track/1du82wujEl1RLyjyRZujhJ) | [April Baxter](https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec) | [Little House](https://open.spotify.com/album/4C3JuSNctoAqBbFKKBxH4F) | 2:57 |
 | 227 | [Journey](https://open.spotify.com/track/2cTUL54dd9dHbsxkio7Wtz) | [Emil Bodén](https://open.spotify.com/artist/1BFjNsvyM2EWLPwcHoNBUn) | [Journey](https://open.spotify.com/album/0ERw99NkSbEIhUP7Wk8fFH) | 2:25 |
 | 228 | [Fine](https://open.spotify.com/track/2jv5hratv7APL7BbvAKpI7) | [Kristian Kamp](https://open.spotify.com/artist/2RojpFYmQCs2e8SNQAXah2) | [Fine](https://open.spotify.com/album/4FrtT3wUV6uJuUNVl9ep2V) | 2:51 |
@@ -253,4 +253,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AwGpzjEwc0.md) - [plain]
 | 243 | [You Are That](https://open.spotify.com/track/6Rm2rBWk3flMMGPdxASdaU) | [Léonie Deval](https://open.spotify.com/artist/7bryNa0PlcBGmHpXFEJxni) | [You Are That](https://open.spotify.com/album/47MXSKI7ymjqPcRrlSWJSi) | 2:52 |
 | 244 | [Sonder](https://open.spotify.com/track/3piXN9w4wKQGll4ryYpVl5) | [Eugene Goh](https://open.spotify.com/artist/2xWyi5H9hUsrq5V7wZVdNI) | [Sonder](https://open.spotify.com/album/5kJ4JlLmhkJiMnzkMSStON) | 2:55 |
 
-Snapshot ID: `MCxjYzA2YzE4ZTc4YTJjODkzNzliNTk2MjM0ODFjNWRkODUzMzhkYjZh`
+Snapshot ID: `MCxhMDBlYWM3NTVhZjM4ZWMzNGNlOTIzZDJhMWNmYjBkNmZjNDY0ZGRm`

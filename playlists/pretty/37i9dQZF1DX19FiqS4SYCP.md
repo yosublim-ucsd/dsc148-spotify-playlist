@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 
 > Tejano's new wave! La nueva ola de música tejana\. Cover: Gary Hobbs
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,929 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,932 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 48 | [Porque Te Amo](https://open.spotify.com/track/7zHFYAKZG0yBG2yqTYYmKB) | [Boyz of Kumbia](https://open.spotify.com/artist/2HeR4Dpca4cva6SUlEHuEA) | [Porque Te Amo](https://open.spotify.com/album/0drmVwgibymg1PiFUMnyhe) | 3:07 |
 | 49 | [No Olvides Nuestro Amor](https://open.spotify.com/track/1Ta3yiAmE3pwV0PTHh7aQi) | [Savannah V.](https://open.spotify.com/artist/4tIM2vdL2VzMLAG4HjvcCo) | [No Olvides Nuestro Amor](https://open.spotify.com/album/3n0v17UcuyufwjmzRz4jFg) | 3:05 |
 | 50 | [Infraganti](https://open.spotify.com/track/5nXpvGtAZJfVtkeJgxhwbN) | [Monica Saldivar](https://open.spotify.com/artist/6DsEG8AZVx2LpveCIwzkMw) | [Soy Mas Fuerte \(Deluxe\)](https://open.spotify.com/album/2BwD5INs8kHprriWKDmbP6) | 3:49 |
-| 51 | [Sedúceme](https://open.spotify.com/track/29Rhx1cGgyB3jtBSx6SkoL) | [Juan Treviño](https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG) | [Sedúceme](https://open.spotify.com/album/0G49TBSDw4AQAuf6heH1U4) | 3:29 |
-| 52 | [Herida](https://open.spotify.com/track/3KTAfNLPmnt5CTBc3bfqeG) | [Miguel Hernandez](https://open.spotify.com/artist/7BMCqnzzxaHokaimfVVzBF), [Karla Christina](https://open.spotify.com/artist/6oqN5DUzIm9sGSX3KpFQBP) | [Herida](https://open.spotify.com/album/39sTwUCraohQZVkBTQaoTj) | 4:17 |
-| 53 | [Super Heroe](https://open.spotify.com/track/1JG96INBN360PdDZnWztog) | [David Lee Garza Y Los Musicales](https://open.spotify.com/artist/6BeHKwIrRR7n4U3QDKpxvR) | [Solamente Tu](https://open.spotify.com/album/1siVRqGXvQK3vQY1Ps3rD2) | 3:26 |
+| 51 | [Herida](https://open.spotify.com/track/3KTAfNLPmnt5CTBc3bfqeG) | [Miguel Hernandez](https://open.spotify.com/artist/7BMCqnzzxaHokaimfVVzBF), [Karla Christina](https://open.spotify.com/artist/6oqN5DUzIm9sGSX3KpFQBP) | [Herida](https://open.spotify.com/album/39sTwUCraohQZVkBTQaoTj) | 4:17 |
+| 52 | [Super Heroe](https://open.spotify.com/track/1JG96INBN360PdDZnWztog) | [David Lee Garza Y Los Musicales](https://open.spotify.com/artist/6BeHKwIrRR7n4U3QDKpxvR) | [Solamente Tu](https://open.spotify.com/album/1siVRqGXvQK3vQY1Ps3rD2) | 3:26 |
+| 53 | [Sedúceme](https://open.spotify.com/track/29Rhx1cGgyB3jtBSx6SkoL) | [Juan Treviño](https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG) | [Sedúceme](https://open.spotify.com/album/0G49TBSDw4AQAuf6heH1U4) | 3:29 |
 | 54 | [Contigo Corazon](https://open.spotify.com/track/4WGMtadfZnohsK7WDJpryN) | [Jr Aldaco and the Midwest Allstars](https://open.spotify.com/artist/7rAM8fU5taC56FR29Itqdy) | [Contigo Corazon](https://open.spotify.com/album/7ymlEj6NfzuNw2CYa2ZrJj) | 3:15 |
 | 55 | [No Te Voy A Perder](https://open.spotify.com/track/2xZGtw6RW6qBUCeHCzaVQW) | [Rebecca Valadez](https://open.spotify.com/artist/6tdZAJLugGpySw6MoKxaet) | [No Te Voy A Perder](https://open.spotify.com/album/0kBhiiQahCqllcbv1vbqRA) | 4:02 |
 | 56 | [Necesito Borrarte](https://open.spotify.com/track/4z9yJA8koT5fwoTma6E8K4) | [G5](https://open.spotify.com/artist/2H8HtciXlTYidtcVuh7jpA) | [Necesito Borrarte](https://open.spotify.com/album/5aQ0e23H4UD9BrXFrUwnGe) | 4:14 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 69 | [La Buena Vida](https://open.spotify.com/track/6pQIozvtUk94Ov0TQO1dNz) | [Rose Elva & the Crew](https://open.spotify.com/artist/3DZ3z0HmuuNFD5JiIukSKn) | [La Buena Vida](https://open.spotify.com/album/52gAwlY9atQCXP0q57ECAk) | 3:42 |
 | 70 | [Quebrando Cadenas](https://open.spotify.com/track/6EftRXMyuDZaM4vtgJ6dQn) | [Lupe Saenz Jr](https://open.spotify.com/artist/4RWevluXFUV07zMC2nCBiI), [Margarita Fender](https://open.spotify.com/artist/0QPwRlpG3rvMfqIwRNuoJb) | [Quebrando Cadenas](https://open.spotify.com/album/7qDDCuy8R1ak1va6myxUkm) | 4:00 |
 | 71 | [Simplemente Por Quererte a Ti](https://open.spotify.com/track/5q9iOkz3KTsVXNlzayRBAo) | [Madison Pulido](https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz) | [Simplemente Por Quererte a Ti](https://open.spotify.com/album/0NCdwCBWeZH56camK5IkkZ) | 3:18 |
-| 72 | [Si Esto No Es Amor](https://open.spotify.com/track/2XPIUhrtYTB6mFdQSpZUOI) | [Liz Garcia](https://open.spotify.com/artist/2JcqJQOf7QQbFgFAzf8mDX) | [Si Esto No Es Amor](https://open.spotify.com/album/0KKjJ7j7oWVv79T2IvY0hP) | 3:38 |
-| 73 | [Dime Por Qué](https://open.spotify.com/track/65aD4EiPVKUyEXLotKIMQs) | [Crystal Torres](https://open.spotify.com/artist/2uWXFCclgN0fNce3lhg64u) | [Dime Por Qué](https://open.spotify.com/album/5DggVFW7Fcz3b3gsRkKUW8) | 3:11 |
+| 72 | [Dime Por Qué](https://open.spotify.com/track/65aD4EiPVKUyEXLotKIMQs) | [Crystal Torres](https://open.spotify.com/artist/2uWXFCclgN0fNce3lhg64u) | [Dime Por Qué](https://open.spotify.com/album/5DggVFW7Fcz3b3gsRkKUW8) | 3:11 |
+| 73 | [Si Esto No Es Amor](https://open.spotify.com/track/2XPIUhrtYTB6mFdQSpZUOI) | [Liz Garcia](https://open.spotify.com/artist/2JcqJQOf7QQbFgFAzf8mDX) | [Si Esto No Es Amor](https://open.spotify.com/album/0KKjJ7j7oWVv79T2IvY0hP) | 3:38 |
 | 74 | [NADIE](https://open.spotify.com/track/1wML61KAX8TTp70dVqqa9V) | [Esmeralda G](https://open.spotify.com/artist/6icgyIXLRejVRb3MiJpyrJ) | [NADIE](https://open.spotify.com/album/3YqlDwjNBkHNRko6zm7jeA) | 2:41 |
 | 75 | [Como Te Voy a Olvidar](https://open.spotify.com/track/3s4ig5wIjAyVkPmIR6wsND) | [Genyva](https://open.spotify.com/artist/1glGEhKiGfk7tzbJVWnyke) | [Como Te Voy a Olvidar](https://open.spotify.com/album/4HA6mvbNs4KHJAF5j0WYxl) | 3:08 |
 | 76 | [Acércate](https://open.spotify.com/track/5tGsIfgtxm864ScDT6loZi) | [Erika Renée](https://open.spotify.com/artist/42MtvRYX0wZ5B00nbK2Jpw), [Alizé Niño](https://open.spotify.com/artist/1MWIy3obn0cy1w2HPcCcNd) | [Acércate](https://open.spotify.com/album/55H74KaK5knXlO72MFajfT) | 3:22 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 79 | [Ilusiones](https://open.spotify.com/track/2ppb8UJGd46K2s3amo3Tdf) | [Inspirazion](https://open.spotify.com/artist/0VsDIktkT2MwCO9U48QBvZ) | [Ilusiones](https://open.spotify.com/album/3RuGEPSv2fjAkSAZ3zi06i) | 3:17 |
 | 80 | [Los Laureles](https://open.spotify.com/track/4X934GVbVTB738dLh2fsDG) | [Grupo Rumores](https://open.spotify.com/artist/7yTayx79xvmK2D61aPGprO) | [La Faldita](https://open.spotify.com/album/3PloZ7lDWnocn5J8b8qIYd) | 3:12 |
 
-Snapshot ID: `MCxhMDdlOWYzYWYzZjI0NjQ1NjY5NDc0ZDZlYmQzYjc1NWZlNTYxYzM5`
+Snapshot ID: `MCw2M2NlYzY1NGY3YjMyZGVmYzc0MTNiM2U2YjAzNTMyMGIwYzlkY2Ew`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,513 likes - 150 songs - 13 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,539 likes - 150 songs - 13 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 | 149 | [Autumn Serenade](https://open.spotify.com/track/5D6txukvhKoFg4haYFtvUz) | [Bill Mays Trio](https://open.spotify.com/artist/0u0kF8FSLbjeCbwzf9rSL9) | [Autumn Serenade](https://open.spotify.com/album/1BHLjtsqNrZg2YbkSEPcaA) | 4:33 |
 | 150 | [Divergence](https://open.spotify.com/track/4SsYc7rzyUhEbXW0OPTDJf) | [Alistair Martin](https://open.spotify.com/artist/2fDpiP8x5yGXehZ6WrZFig) | [Oblivion](https://open.spotify.com/album/0ZmP5V1EPnCEVcyy1tV7pF) | 5:43 |
 
-Snapshot ID: `MCw4YjhjYWMxODU1OGQ5MzZkYmU0ODQ1NjI4YTc0NGZlMDBiZTY3YTJj`
+Snapshot ID: `MCxhNzE5NDNjMGUzNjlkYWVmY2E1NDdkYjI1ZWU5ZWE4MTM3ZjdhMzg1`

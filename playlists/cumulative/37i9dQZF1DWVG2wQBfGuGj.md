@@ -4,7 +4,7 @@
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-217 songs - 11 hr 2 min
+222 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Give It All Now](https://open.spotify.com/track/0DagTSqkS7UIYWJFBN1Up1) | [Red Leopard](https://open.spotify.com/artist/5h24ruFrsYkrOrEA6PXq47) | [Give It All Now](https://open.spotify.com/album/70R5M4X86EDmrRL9jkSEhB) | 3:16 | 2023-05-05 |  |
 | [Give It To U](https://open.spotify.com/track/55UOGvAkteFSxr3OiMRXWC) | [dtktd](https://open.spotify.com/artist/7xDx9PMuogC7WSGSK0bVnd) | [Give It To U](https://open.spotify.com/album/3S0bQ0E9LalW3Tt8Wxf4RH) | 2:28 | 2023-05-05 |  |
 | [Got It on the Dancefloor](https://open.spotify.com/track/4mDOnClTAS2DEsNethKG6l) | [Lemongrass](https://open.spotify.com/artist/6T4sT6axXOoIXP4cpaQtNk) | [Papillon](https://open.spotify.com/album/5ozdhQJTvuTV0QlmgbEwUD) | 4:52 | 2023-05-05 |  |
+| [Grapes](https://open.spotify.com/track/3iFeU8H1OiqZIxhBIBYQZp) | [Green Gold](https://open.spotify.com/artist/709cr7wm8P2ybOfAxCj9Fm) | [Grapes](https://open.spotify.com/album/5txnfjWztQ0j57Any96K1u) | 2:06 | 2024-03-04 |  |
 | [Grow Away](https://open.spotify.com/track/2rIkSUZAqGVWZDV8mTXSVg) | [Funky Feels](https://open.spotify.com/artist/73bsuepJlmtW9xPn5zytKd) | [Grow Away](https://open.spotify.com/album/00BOkvgLDNg79ANA93aecL) | 2:20 | 2023-05-05 |  |
 | [Half Crazy](https://open.spotify.com/track/7aTxeg2uMJmshTOlm9GwiP) | [SGT DUST](https://open.spotify.com/artist/5UAKUy49oVsSw65Bbg14r6) | [Half Crazy](https://open.spotify.com/album/2Vqm4tIyaEeET9IMnXHq4s) | 2:49 | 2023-05-05 |  |
 | [Half Moon Bay](https://open.spotify.com/track/0Yyju4keNO7Z16ZFneGWme) | [Tekkla](https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz) | [Fragments](https://open.spotify.com/album/3qTvhqa8UtrfAuK8NhWZgT) | 4:52 | 2023-05-05 |  |
@@ -170,13 +171,16 @@
 | [Shadowdoom](https://open.spotify.com/track/0AGSlvLptBUmNxqo2HBTdC) | [Soul to Speak](https://open.spotify.com/artist/0uYPjw4NSVY5IiZZd6kHdd) | [Shadowdoom](https://open.spotify.com/album/5KOlOg5drL7dCfcqGt9ftV) | 2:25 | 2023-05-05 |  |
 | [Shizaru](https://open.spotify.com/track/2vi8nrpy6kb7rJ1ZMN3Ces) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Shizaru](https://open.spotify.com/album/6lITOJOFvq5HUGwWIBIe3r) | 2:22 | 2023-05-05 | 2023-12-02 |
 | [Silent Disco](https://open.spotify.com/track/6H3SzstyOzWqARoQZlasw8) | [bombergirl](https://open.spotify.com/artist/79pr8Jy2Fxo9u6EaOxbCAQ) | [Silent Disco](https://open.spotify.com/album/3w9dVgv92GiOLGbOS7QqyS) | 2:45 | 2023-05-22 | 2023-07-07 |
+| [Sizzle](https://open.spotify.com/track/15CCADMXfDMgtokv8cfZOJ) | [steffiii](https://open.spotify.com/artist/4P5bx26MI0LodfI3kJkmpT) | [Sizzle](https://open.spotify.com/album/3hpRo30iEqEC203e11edDV) | 2:23 | 2024-03-04 |  |
 | [Skinny Dipping](https://open.spotify.com/track/77q1BdpiRYAByg8GonYX77) | [Dentity](https://open.spotify.com/artist/7nOhCBrrYam26cWsDpM3t1) | [Skinny Dipping](https://open.spotify.com/album/1YuR5tcmMmKP2GuqW0iyYM) | 2:23 | 2023-06-23 |  |
 | [Sleepless](https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb), [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [YUMA](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0) | [Sleepless](https://open.spotify.com/album/2d5mKkSWO8rz96HFrdLPZ9) | 2:45 | 2023-05-05 | 2023-11-25 |
 | [Snap To Your Beat](https://open.spotify.com/track/2apcf7znOGO6gMjVtaatQv) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Princess King](https://open.spotify.com/album/3FbV4oMCVanCAOTSm9WhBV) | 3:07 | 2023-05-05 |  |
+| [So Easy](https://open.spotify.com/track/2dTpPLVwQq9zA5IRxWID2T) | [Hallman](https://open.spotify.com/artist/6lQbKezHkug0aJSkAjYYO5) | [So Easy](https://open.spotify.com/album/4lA1Yogz5kXCqSoYZu9S31) | 2:40 | 2024-03-04 |  |
 | [SoHo](https://open.spotify.com/track/3cKaYYc6998KpaDoxjUumR) | [Mode Donna](https://open.spotify.com/artist/4EVClNgwLk38PorSOhui9R) | [SoHo](https://open.spotify.com/album/3dZBiHAg8DsRtljFIcPTfe) | 2:56 | 2023-05-26 |  |
 | [Soundscapes](https://open.spotify.com/track/3uOnTeQvOkgzthPlieXyDI) | [Fresh Journal](https://open.spotify.com/artist/4lGE0DmLpRahdzM9IpiYkx) | [Deep House Way](https://open.spotify.com/album/1M4iZ0CarlLmHoOWQPMUUE) | 3:59 | 2023-05-05 | 2023-08-19 |
 | [Souvenirs](https://open.spotify.com/track/2TJXryzOQ5UestW8w3DNSU) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Souvenirs](https://open.spotify.com/album/1wAXvwqX3yl6RN6vNx84Tp) | 2:06 | 2023-05-05 |  |
 | [Sparkling](https://open.spotify.com/track/0zinWIi33Y0HY9FzAjoQP7) | [Reese Straut](https://open.spotify.com/artist/7aAhTDn0TyolcU68PAYULR) | [Sparkling](https://open.spotify.com/album/4CTAiLbbQkgMrSrcijELPH) | 2:05 | 2024-01-23 |  |
+| [Spectral Motion](https://open.spotify.com/track/4dedu45dlthX78olBg9zza) | [Hans Blu](https://open.spotify.com/artist/3EREyIqFqpNOLCxa98i5k5) | [Spectral Motion](https://open.spotify.com/album/67RAdrTGOgdSNgZNHHXK9h) | 2:52 | 2024-03-04 |  |
 | [Staff Picks](https://open.spotify.com/track/62xIvs75XUHtoFt3u6P5Lf) | [Phoenix Rouge](https://open.spotify.com/artist/2TDqzjJabNAMFL4CCH4WiM) | [Staff Picks](https://open.spotify.com/album/4m23AzN8nbxwe9DUOxtaWT) | 2:56 | 2023-05-05 |  |
 | [Started Falling](https://open.spotify.com/track/2IDgkQbGyhikvTVzbRpxPX) | [Jac AM](https://open.spotify.com/artist/4MWA9zijHY5jZIbhaxmV6I), [JAYNIE](https://open.spotify.com/artist/674xBGb2z8bRev3dsZ7PPc) | [Started Falling](https://open.spotify.com/album/6ZaxmDIcC9EoHObfvCow09) | 2:12 | 2023-07-07 | 2023-11-16 |
 | [Stella Marina](https://open.spotify.com/track/41t2H4SSr8XZxkFiv8iHhw) | [Sunset\-buff](https://open.spotify.com/artist/4vwwK0iaZVthftLEr8As6W) | [Stella Marina](https://open.spotify.com/album/1I6Z3FD9O4pYQnzTyCUGMp) | 2:48 | 2023-09-15 |  |
@@ -212,6 +216,7 @@
 | [Unmistakable](https://open.spotify.com/track/6K4L9S8gnO3tXmlghu58Wf) | [Mauro Bocci](https://open.spotify.com/artist/5AjW1zukyf8YxUHVWOyd8s) | [Unmistakable](https://open.spotify.com/album/2aeyKiQSO6Ja0pq9WVP6IL) | 3:49 | 2023-05-05 | 2023-07-14 |
 | [Vanish](https://open.spotify.com/track/13jIeCeq46x2m3MpPtyPMw) | [GRNY](https://open.spotify.com/artist/0QAkOxdHSnNUsk1WlTXKOu) | [Vanish](https://open.spotify.com/album/2OWYqHwY0ubmXRz7lxjHNR) | 2:21 | 2023-05-05 |  |
 | [Veer](https://open.spotify.com/track/3xWDXzVKWa86Sborahr3IE) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Veer](https://open.spotify.com/album/2VvYQJiMO9zCDPsxKCSp7W) | 2:59 | 2023-05-05 | 2023-10-05 |
+| [Vibes for Days](https://open.spotify.com/track/4V0mXIbacFOCbpbbREQYe0) | [Venus Bay](https://open.spotify.com/artist/6LUI0R17HWaZZPh7xDYzNp) | [Vibes for Days](https://open.spotify.com/album/6dKgZ9fsuVqboP7susoYUY) | 3:03 | 2024-03-04 |  |
 | [Vibrant Presence](https://open.spotify.com/track/3rvXYpm4BncYG1iZd2EDUk) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Vibrant Presence](https://open.spotify.com/album/25yfnORQ9evqQ3bdd0UpnL) | 3:35 | 2023-05-05 |  |
 | [Wanderer](https://open.spotify.com/track/094OMEwMng6XcwsSMFUKWi) | [Contrapad](https://open.spotify.com/artist/71Zfyo2kB4HlEexwmxQMv3) | [Wanderer](https://open.spotify.com/album/5859wmoAVfWKUfz6wtaVol) | 3:41 | 2023-05-05 |  |
 | [Wanderlust](https://open.spotify.com/track/59eV8EcCcz6TcTxhPKqfUb) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Wanderlust](https://open.spotify.com/album/4K9NFfOF2AfatXDGTmF56W) | 2:27 | 2023-05-05 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h2FURikZpd.md) - [plain]
 
 > Latin gems you absolutely need to hear\. Save them before they're gone!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,736 likes - 30 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,740 likes - 30 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h2FURikZpd.md) - [plain]
 | 29 | [Que putas le pasa al destino](https://open.spotify.com/track/2f845lg1LiI25lAGWRLbwr) | [Sebas Barcenas](https://open.spotify.com/artist/5RqAWnmZhPvkC2zZgpfczk) | [Que putas le pasa al destino](https://open.spotify.com/album/0WBzU8hZCmc1WI1pSLdCsd) | 3:09 |
 | 30 | [no sé de amor \(feat\. Leo Rizzi\)](https://open.spotify.com/track/6noc267JUC9heNPuOCCjW0) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [LUNA 18](https://open.spotify.com/album/2lkLkEzDpDpGjIUHH7kavU) | 3:15 |
 
-Snapshot ID: `MCw1ZmQ1ODQ2MGRhODBlZDE2YzA5OTdhMTk2MGYzOTJjZTU5YjE4ZTQ5`
+Snapshot ID: `MCxlNWMxNjM0ZmViNGFlYTEwYTZkYjA0MTYyNjg0Mjg5YzdiN2ExZmQ5`

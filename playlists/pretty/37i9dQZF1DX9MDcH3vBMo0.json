@@ -1,12 +1,12 @@
 {
   "description": "Una bella banda sonora que acompa\u00f1ar\u00e1 tu tiempo de lectura.",
-  "num_followers": 252038,
+  "num_followers": 252203,
   "original_name": "M\u00fasica para Leer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTlkODY1YTY0NmY2NTMyOGMyOTk1NDk2YzA2MzI3NjdlODkxN2Zi",
+  "snapshot_id": "MCxlYjQ1ZjA5Y2Y3ODQ0YmNjOThmZmU3YjU0YmUzNWRkMjJjMWYwMGQx",
   "tracks": [
     {
       "added_at": "2024-02-27 15:30:04",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-02-27 15:30:04",
       "album": {
-        "name": "Light of wintertime",
-        "url": "https://open.spotify.com/album/5BmL3qmVWwq9ErKKZP0SoD"
-      },
-      "artists": [
-        {
-          "name": "Josephe Burke",
-          "url": "https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi"
-        }
-      ],
-      "duration_ms": 131295,
-      "name": "Light of wintertime",
-      "url": "https://open.spotify.com/track/3Q1HOPyyOPygEkiF5j8TDL"
-    },
-    {
-      "added_at": "2024-02-27 15:30:04",
-      "album": {
         "name": "Release from silence",
         "url": "https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 146079,
       "name": "Eclipsis",
       "url": "https://open.spotify.com/track/2vcdqUMFMbKYvqzBYsVZDn"
+    },
+    {
+      "added_at": "2024-02-27 15:30:04",
+      "album": {
+        "name": "Light of wintertime",
+        "url": "https://open.spotify.com/album/5BmL3qmVWwq9ErKKZP0SoD"
+      },
+      "artists": [
+        {
+          "name": "Josephe Burke",
+          "url": "https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi"
+        }
+      ],
+      "duration_ms": 131295,
+      "name": "Light of wintertime",
+      "url": "https://open.spotify.com/track/3Q1HOPyyOPygEkiF5j8TDL"
     },
     {
       "added_at": "2024-02-27 15:30:04",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-02-27 15:30:04",
       "album": {
-        "name": "Early Memories",
-        "url": "https://open.spotify.com/album/0jFxPV4j7bMwugDCJsMt7g"
-      },
-      "artists": [
-        {
-          "name": "Anna Landstr\u00f6m",
-          "url": "https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw"
-        }
-      ],
-      "duration_ms": 153524,
-      "name": "Early Memories",
-      "url": "https://open.spotify.com/track/0yAgdDXxal3Em3W4X1bkGq"
-    },
-    {
-      "added_at": "2024-02-27 15:30:04",
-      "album": {
         "name": "Zephyr",
         "url": "https://open.spotify.com/album/4TR4dko5W6NIFmA4AR4yU4"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 169374,
       "name": "Volga",
       "url": "https://open.spotify.com/track/5GVo7iQPoQUDOX1xUadS1p"
+    },
+    {
+      "added_at": "2024-02-27 15:30:04",
+      "album": {
+        "name": "Early Memories",
+        "url": "https://open.spotify.com/album/0jFxPV4j7bMwugDCJsMt7g"
+      },
+      "artists": [
+        {
+          "name": "Anna Landstr\u00f6m",
+          "url": "https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw"
+        }
+      ],
+      "duration_ms": 153524,
+      "name": "Early Memories",
+      "url": "https://open.spotify.com/track/0yAgdDXxal3Em3W4X1bkGq"
     },
     {
       "added_at": "2024-02-27 15:30:04",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2024-02-27 15:30:04",
       "album": {
-        "name": "Primrose Hill",
-        "url": "https://open.spotify.com/album/7HfmF0KuzcMYURt7mhN1sa"
-      },
-      "artists": [
-        {
-          "name": "Elliott Jack Sansom",
-          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
-        }
-      ],
-      "duration_ms": 172582,
-      "name": "Primrose Hill",
-      "url": "https://open.spotify.com/track/1at46An3uytKsd32hqQkpw"
-    },
-    {
-      "added_at": "2024-02-27 15:30:04",
-      "album": {
         "name": "Maurice",
         "url": "https://open.spotify.com/album/6bSnjwj5vMGVwxfjOJkBt3"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 164000,
       "name": "Nirha",
       "url": "https://open.spotify.com/track/0SK8aridaHO485I2iJD35e"
+    },
+    {
+      "added_at": "2024-02-27 15:30:04",
+      "album": {
+        "name": "Primrose Hill",
+        "url": "https://open.spotify.com/album/7HfmF0KuzcMYURt7mhN1sa"
+      },
+      "artists": [
+        {
+          "name": "Elliott Jack Sansom",
+          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
+        }
+      ],
+      "duration_ms": 172582,
+      "name": "Primrose Hill",
+      "url": "https://open.spotify.com/track/1at46An3uytKsd32hqQkpw"
     },
     {
       "added_at": "2024-02-27 15:30:04",

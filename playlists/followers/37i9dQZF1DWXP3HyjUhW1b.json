@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 330229,
+  "2024-03-05": 330254,
   "date_first_scraped": "2022-06-02",
   "description": "Aqu\u00ed est\u00e1n las meras-meras de nuestro cancionero. Pedro Infante en portada.",
   "name": "Cancionero Mexicano",
@@ -1071,7 +1071,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 179000,
       "name": "El son de la negra",
       "url": "https://open.spotify.com/track/1kjMKI2xugTJvBFPZT140r"
@@ -3961,7 +3961,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 182266,
       "name": "Ya No Me Interesas",
       "url": "https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS"

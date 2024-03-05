@@ -41,6 +41,42 @@
     },
     {
       "album": {
+        "name": "Nubes",
+        "url": "https://open.spotify.com/album/7t0vBigNHXs9SuwH1AaJXd"
+      },
+      "artists": [
+        {
+          "name": "Policias y Ladrones",
+          "url": "https://open.spotify.com/artist/6Y9quCNVfxgIE308HSMpEd"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155760,
+      "name": ":)",
+      "url": "https://open.spotify.com/track/5wYliyZ7Zf59vy1RJW6enS"
+    },
+    {
+      "album": {
+        "name": "Where You Want To Be",
+        "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247760,
+      "name": "A Decade Under The Influence",
+      "url": "https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI"
+    },
+    {
+      "album": {
         "name": "Imaginations from the Other Side (Remastered 2007)",
         "url": "https://open.spotify.com/album/2Nvba6vKO2BjSBwJUFituv"
       },
@@ -383,6 +419,42 @@
     },
     {
       "album": {
+        "name": "La Velocidad de la Luz",
+        "url": "https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267826,
+      "name": "Bailando Solo",
+      "url": "https://open.spotify.com/track/1wGNjZQoO4Ac5zotF3aZTb"
+    },
+    {
+      "album": {
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/4adqftIYavKgrnLyOD5gxZ"
+      },
+      "artists": [
+        {
+          "name": "La Bouche",
+          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240266,
+      "name": "Be My Lover",
+      "url": "https://open.spotify.com/track/7FoUzKTSQp25oe32pY9z5p"
+    },
+    {
+      "album": {
         "name": "Beyond The Sea",
         "url": "https://open.spotify.com/album/6kBY3AkEPLE4sZ1ULhYhAS"
       },
@@ -484,7 +556,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 164760,
       "name": "Bleed It Out",
       "url": "https://open.spotify.com/track/3yT0WjcKrZnJkTv2sjIQaB"
@@ -700,7 +772,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 316693,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/74irxdVWstNlEQjsvArITq"
@@ -718,7 +790,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 243080,
       "name": "Crazy - LP Edit",
       "url": "https://open.spotify.com/track/4kPtKY0eOZcxfehet2aiYK"
@@ -740,6 +812,24 @@
       "duration_ms": 276986,
       "name": "Crucified",
       "url": "https://open.spotify.com/track/0aKgId5lkNpNyGWQuwyvDn"
+    },
+    {
+      "album": {
+        "name": "Dead Plants",
+        "url": "https://open.spotify.com/album/0ieQOpcO7YmOpVpvV6WHDl"
+      },
+      "artists": [
+        {
+          "name": "Better Joy",
+          "url": "https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212355,
+      "name": "Dead Plants",
+      "url": "https://open.spotify.com/track/3Q8WLratqyNqJxsJPyHLIC"
     },
     {
       "album": {
@@ -887,6 +977,24 @@
     },
     {
       "album": {
+        "name": "Sehnsucht",
+        "url": "https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234226,
+      "name": "Du hast",
+      "url": "https://open.spotify.com/track/5awDvzxWfd53SSrsRZ8pXO"
+    },
+    {
+      "album": {
         "name": "Dalt\u00f3nico",
         "url": "https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy"
       },
@@ -945,6 +1053,24 @@
     },
     {
       "album": {
+        "name": "Restoring Force",
+        "url": "https://open.spotify.com/album/4cntNMQjpROMQmevKb8H9f"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193493,
+      "name": "Feels Like Forever",
+      "url": "https://open.spotify.com/track/3iPMVDlzpkXuYkvsa1PRQj"
+    },
+    {
+      "album": {
         "name": "Fibbs",
         "url": "https://open.spotify.com/album/5luLw5YlLKlA2P8WR30b9l"
       },
@@ -956,7 +1082,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 208042,
       "name": "Fibbs",
       "url": "https://open.spotify.com/track/4WySzY2FX8WtsElUwxyagE"
@@ -992,7 +1118,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 209746,
       "name": "Fotos y Aut\u00f3grafos",
       "url": "https://open.spotify.com/track/4cH9m3wxUWgkIzbLPByL24"
@@ -1028,7 +1154,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 223173,
       "name": "Generation Dead",
       "url": "https://open.spotify.com/track/67cxl7KB5IG6dsWAZvmWJ2"
@@ -1262,7 +1388,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 374440,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/4HbVVd2D3HKYe7PR0uEn1q"
@@ -1521,6 +1647,24 @@
     },
     {
       "album": {
+        "name": "La Diabla (Electro Remix)",
+        "url": "https://open.spotify.com/album/0Sf5WOcZk8n9NIgp2LmrKa"
+      },
+      "artists": [
+        {
+          "name": "8onthebeat",
+          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136477,
+      "name": "La Diabla (Electro Remix)",
+      "url": "https://open.spotify.com/track/6ZZ4I66vS4x4arMNwBht2m"
+    },
+    {
+      "album": {
         "name": "Los Tres MTV Unplugged",
         "url": "https://open.spotify.com/album/5gbgCfKWGatY7WWDKcoGnW"
       },
@@ -1608,6 +1752,24 @@
       "duration_ms": 197093,
       "name": "Life to Lifeless",
       "url": "https://open.spotify.com/track/1Xp4ErFLJWvbwD4nl1cr98"
+    },
+    {
+      "album": {
+        "name": "Like a Prayer",
+        "url": "https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340866,
+      "name": "Like a Prayer",
+      "url": "https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV"
     },
     {
       "album": {
@@ -2040,7 +2202,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 92186,
       "name": "Partita in C Major: Gigue",
       "url": "https://open.spotify.com/track/3nWbL8WpxaoJxfBxcCnFms"
@@ -2274,7 +2436,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 263333,
       "name": "Ramble On - 1990 Remaster",
       "url": "https://open.spotify.com/track/3MODES4TNtygekLl146Dxd"
@@ -2436,7 +2598,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 204186,
       "name": "Seven Days",
       "url": "https://open.spotify.com/track/2j55B9EwLrsYZDlTJIXrDU"
@@ -2620,7 +2782,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 287386,
       "name": "Sube a Nacer Conmigo Hermano",
       "url": "https://open.spotify.com/track/4fvBHLNI8Ssmzll6uXdaOr"
@@ -2797,6 +2959,24 @@
     },
     {
       "album": {
+        "name": "Deep Cuts (Vol 1. / 1973-1976)",
+        "url": "https://open.spotify.com/album/5SVkLrV4I4cft9E0YI8RmI"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398906,
+      "name": "The March Of The Black Queen - 2011 Remaster",
+      "url": "https://open.spotify.com/track/3EjmOndmysmwooYyictOm3"
+    },
+    {
+      "album": {
         "name": ".5: The Gray Chapter (Special Edition)",
         "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
       },
@@ -2898,10 +3078,46 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 235482,
       "name": "tnteen",
       "url": "https://open.spotify.com/track/4jMfntwDOIdSRz7kmeCgpG"
+    },
+    {
+      "album": {
+        "name": "loveless",
+        "url": "https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331000,
+      "name": "to here knows when",
+      "url": "https://open.spotify.com/track/2Qt7TmKGuet6bKJzhNM0YA"
+    },
+    {
+      "album": {
+        "name": "loveless",
+        "url": "https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56626,
+      "name": "touched",
+      "url": "https://open.spotify.com/track/0NH8wNkvyxJpiNdT1qQrl1"
     },
     {
       "album": {

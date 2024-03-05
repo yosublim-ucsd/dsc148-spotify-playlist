@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 
 > Music from "THE IDOLM@STER MILLION LIVE!"\. アイドルマスター ミリオンライブ！の楽曲を1つのプレイリストで。<br/>THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,574 likes - 75 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,577 likes - 75 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 | 74 | [Raise the FLAG](https://open.spotify.com/track/3saiWeXAqXZaNn5pZokpNY) | [Sagittarius](https://open.spotify.com/artist/7FGjwJ12PrXdXtwPiVn25f), [Megumi Tokoro \(CV: Yukiyo Fujii\)](https://open.spotify.com/artist/5xRVfZ3FGcLVFE2lMlTmxS), [Ayumu Maihama \(CV: Megumi Toda\)](https://open.spotify.com/artist/76b3vdXkfXuar9vWeOF0Z9), [Mizuki Makabe \(CV: Rika Abe\)](https://open.spotify.com/artist/7ziIYbwnpeaMZzmmAiEMKs) | [THE IDOLM@STER LIVE THE@TER FORWARD 02 BlueMoon Harmony](https://open.spotify.com/album/0HeYRJu4ii8PbAU7xFuVQI) | 3:30 |
 | 75 | [KING of SPADE](https://open.spotify.com/track/7JF3uoDGejWrw6ypzBh5Cf) | [Tsumugi Shiraishi \(CV: Saki Minami\)](https://open.spotify.com/artist/3XapQeYIT9vl10CnAAZGxD), [Hibiki Ganaha \(CV: Manami Numakura\)](https://open.spotify.com/artist/2BoTUCgw9GuJy5OAwCsfmn), [Fuka Toyokawa \(CV: Rie Suegara\)](https://open.spotify.com/artist/7IFPSph621cFElVwhbhdlA), [Akane Nonohara \(CV: Saki Ogasawara\)](https://open.spotify.com/artist/5OPLU2q1IdrBalJYL23Oa6) | [THE IDOLM@STER MILLION THE@TER SEASON SHADE OF SPADE](https://open.spotify.com/album/1ozOBPkE6vTVKrNuIIRtyn) | 3:10 |
 
-Snapshot ID: `MCxkNGQ4NjllNGYwNzJmOWNlZTFhMzM3MDdjZjJlNTNkMjBhOGJjZTUy`
+Snapshot ID: `MCwzMWJiMjkxYWMzYzZiNGE0OWQyMTY1NmIzY2I2MTE0N2VmNzk4OGQ0`

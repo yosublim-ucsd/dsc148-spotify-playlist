@@ -1,12 +1,12 @@
 {
   "description": "The songs of the 1990s that will make you dance all summer long!",
-  "num_followers": 562418,
+  "num_followers": 562530,
   "original_name": "Summer Hits of the 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGM5MmI2MGZlZjFlMTYwYjNjOWIxMTk5ZDJkNDdkMzcyYjNlOGJi",
+  "snapshot_id": "MCxhOGFjMzgxNDllZDQ4Mjc3NWFjOGU4MzAzYWZmOGI4ZjRmMzk4NmQz",
   "tracks": [
     {
       "added_at": "2023-06-16 18:37:43",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "On The 6",
-        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "If You Had My Love",
-      "url": "https://open.spotify.com/track/3x4yV0hW5Ve3TKhFkXSqFn"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "5",
         "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 264560,
       "name": "American Woman",
       "url": "https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "If You Had My Love",
+      "url": "https://open.spotify.com/track/3x4yV0hW5Ve3TKhFkXSqFn"
     },
     {
       "added_at": "2023-06-16 18:37:43",

@@ -4,7 +4,7 @@
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. Toño y Freddy en portada.
 
-137 songs - 7 hr 41 min
+138 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [400 Mil Veinte Años](https://open.spotify.com/track/4VGUCIgdO6i6oYE6NyefYT) | [Tierra Cali](https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv) | [Evolucion](https://open.spotify.com/album/779LWwiN1DzQslUNywZvaZ) | 3:28 | 2023-10-12 |  |
 | [5 Minutos](https://open.spotify.com/track/6t97cNUEjx4TafoovNr8tb) | [Arkangel Musical de Tierra Caliente](https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k) | [Por Qué Me Gustas](https://open.spotify.com/album/2yKTWWEt3PCKTAbqCxTxAP) | 3:41 | 2023-10-12 |  |
 | [A Toda Ley](https://open.spotify.com/track/1oKVaMt36y9ExZYXbNIRMV) | [Isma Ortiz & Sierreños M.O.](https://open.spotify.com/artist/3LzI4xUdzCw0OkdWT1phSa), [Dueto Los Armadillos](https://open.spotify.com/artist/7bpwAaudm06jhepHxDifV4) | [Conquistando](https://open.spotify.com/album/3Kpbz6Oa0pvG5E2IZAFjjX) | 2:31 | 2023-10-12 |  |
+| [Aguilar](https://open.spotify.com/track/6tHi4fd8R9248pT7w050Un) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD) | [Aguilar](https://open.spotify.com/album/4g8YPdnxDXOkpXXvrLyVhx) | 3:22 | 2024-02-23 |  |
 | [Alta y Delgadita](https://open.spotify.com/track/2Wz7F8J859cz1llKBwWune) | [HNOS\. SANTAMARIA DE TIERRA CALIENTE](https://open.spotify.com/artist/0sn5awme5aIW1SefU6ziCW) | [Nadie Sabe Lo Que Tiene](https://open.spotify.com/album/3WHMGAj0LPWPM5jJxAMO3y) | 3:23 | 2023-10-12 |  |
 | [Aléjate](https://open.spotify.com/track/2EnsWGWtOUonOxo1DKdO9a) | [Freddy Cárdenas y su Grupo Brebaje](https://open.spotify.com/artist/0MZxSUM0Xqv7xipDHmvUlm) | [Aléjate](https://open.spotify.com/album/0j5CtCEF5m3SI6rzkHVRvZ) | 3:45 | 2023-10-12 |  |
 | [Amor a la Ligera](https://open.spotify.com/track/5Bl6vhECx1VXl7sJqcbWV2) | [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn) | [Quisiera Ser Una Lágrima](https://open.spotify.com/album/1RqBeee5es5MmTvDbqwwfu) | 2:29 | 2023-10-12 |  |
@@ -142,7 +143,7 @@
 | [Un Día De Rey Otro De Wey](https://open.spotify.com/track/4y4uSKStw3oFDdRyekS4QM) | [Banda Los Costeños de Zirandaro, Gro.](https://open.spotify.com/artist/6RZ6RbJO8Lit2j9oM5621E) | [Monarcas 2018](https://open.spotify.com/album/0IqCo80fVf8UA7bp3XXD1m) | 3:16 | 2023-10-12 |  |
 | [Una Más A Tu Salud](https://open.spotify.com/track/3x7n2lCeBcOgPmxFetD17y) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Una Más A Tu Salud](https://open.spotify.com/album/0r6B4xfvgqORk5tBe7Klru) | 3:01 | 2024-02-23 |  |
 | [Veinte Mujeres de Negro](https://open.spotify.com/track/0UP5BDqgYBhsSK8ZndGMM6) | [Los Pajaritos De Tacupa](https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT) | [18 Kilates](https://open.spotify.com/album/42JRfQBP8DhodYhlN1396h) | 3:10 | 2023-10-12 |  |
-| [Vida de Rancho \(Zapateado\)](https://open.spotify.com/track/55uFAzIYdRCFGnNeHny2Xm) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Como Diablos Te Olvido](https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy) | 2:54 | 2023-10-12 |  |
+| [Vida de Rancho \(Zapateado\)](https://open.spotify.com/track/55uFAzIYdRCFGnNeHny2Xm) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Como Diablos Te Olvido](https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy) | 2:54 | 2023-10-12 | 2024-03-05 |
 | [Yo Soy de la Sierra](https://open.spotify.com/track/39atHdsK4HUVLjQzg8Zwvn) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp), [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Yo Soy de la Sierra](https://open.spotify.com/album/70MQXaxxkRlWUKcuYXgA9j) | 3:19 | 2023-10-12 |  |
 | [¿Como Le Hiciste?](https://open.spotify.com/track/294gOGmqpmv4u0L9myG9Er) | [Banda Los Costeños de Zirandaro, Gro.](https://open.spotify.com/artist/6RZ6RbJO8Lit2j9oM5621E) | [¿Como Le Hiciste?](https://open.spotify.com/album/37WUMQlxFObygrsZAjwvg6) | 3:27 | 2024-02-23 |  |
 

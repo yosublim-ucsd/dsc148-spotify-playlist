@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 752 songs - 1 day 14 hr 23 min
+[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 755 songs - 1 day 14 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -760,5 +760,8 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 750 | [I'M DAT N\*\*\*\*](https://open.spotify.com/track/0AAVJIN4plafvmNKqRCltG) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 4:31 |
 | 751 | [Praise God](https://open.spotify.com/track/0g4PNSR6DXV9x2XNNM41Qo) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Praise God](https://open.spotify.com/album/4L3S83ZH3kvdu6VN8njZ29) | 3:14 |
 | 752 | [Okay](https://open.spotify.com/track/7aL51Oe4h8Mk8GPJHfDzZB) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [Mac & Cheese 5](https://open.spotify.com/album/5eNbrlazXci6OR5uQeFfV3) | 3:12 |
+| 753 | [Giving Chanel](https://open.spotify.com/track/1wMxLpODBBQMC6CiIBIV8e) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [HEATHENISM](https://open.spotify.com/album/10OuYNhsZyIip13lZe6dzG) | 3:27 |
+| 754 | [Came from the Bottom](https://open.spotify.com/track/35HJyOEmGpxMcahSS3D9Fj) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [HEATHENISM](https://open.spotify.com/album/10OuYNhsZyIip13lZe6dzG) | 3:31 |
+| 755 | [Big Boy](https://open.spotify.com/track/4rznnFpPIGET8lWpR5wZJ5) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [HEATHENISM](https://open.spotify.com/album/10OuYNhsZyIip13lZe6dzG) | 2:32 |
 
-Snapshot ID: `OTE5LDZlYjAzMDMzZjYzYzAxMjkxYzVkZmNmMDhlMWQ1ZTJjYjJlYTUxNjU=`
+Snapshot ID: `OTIyLDdiYmNmNmNhMmM3YzMwZDkxODg3YWJiZDhmYTUwNjA2ODk3NjhkNjg=`

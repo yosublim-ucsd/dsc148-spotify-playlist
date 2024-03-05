@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 
 > como en una nube\. Bedroom pop vibes featuring ke onda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,374 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,377 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 6 | [Paradisco](https://open.spotify.com/track/5I1D6tt50g9X57gpaKt8sH) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Paradisco](https://open.spotify.com/album/1qkLcWIHTqlAFFS9TsVt7h) | 3:53 |
 | 7 | [Enculado \- feat\. Nsqk](https://open.spotify.com/track/1ZebsbrSZGn8IopE1g1R0e) | [Yukun](https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [2 A.M.](https://open.spotify.com/album/5UxKx8bkxhP4TN9upxrQjU) | 2:21 |
 | 8 | [El Suspiro Cambia Todo](https://open.spotify.com/track/0ltGkvDWVNK5Jw4u30PiPM) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [El Suspiro Cambia Todo](https://open.spotify.com/album/1n7AgJ3P3LuYhGo1vatvyO) | 2:34 |
-| 9 | [Si Me Voy \(with The Marías\)](https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Si Me Voy \(with The Marías\)](https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq) | 3:23 |
+| 9 | [Heartquake](https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Heartquake](https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R) | 3:38 |
 | 10 | [lalalala](https://open.spotify.com/track/4dMVCg7imGhzLHazEskCBQ) | [Masta Roi](https://open.spotify.com/artist/1uEU1I3gUtxUv4tlcpsInS), [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [lalalala](https://open.spotify.com/album/3z4vVK3Og3nwyup77oC2ex) | 4:04 |
-| 11 | [Heartquake](https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Heartquake](https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R) | 3:38 |
+| 11 | [Si Me Voy \(with The Marías\)](https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Si Me Voy \(with The Marías\)](https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq) | 3:23 |
 | 12 | [Mandala](https://open.spotify.com/track/3Lebs7ERP0ILzr80u9UReL) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Jardín de las Almas](https://open.spotify.com/album/6qNDuK7TXMUK0aTKsyevYT) | 3:44 |
 | 13 | [Míralo](https://open.spotify.com/track/4IKSehYf4e9tjijDSZHQF2) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Míralo](https://open.spotify.com/album/6UIHKXjD19ZHRbkRE8BFtl) | 2:13 |
 | 14 | [Con otra cabeza](https://open.spotify.com/track/5KdVewdmh5VWkCSxXBcl8o) | [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [Con otra cabeza](https://open.spotify.com/album/1XhcGwZwWx0cZ6Fi62gAVV) | 2:29 |
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 24 | [Gotas](https://open.spotify.com/track/3RPVMsjKwcPb4M9BsqeYhd) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Gotas](https://open.spotify.com/album/76YyNZPRiXT5cyULAqajlB) | 3:35 |
 | 25 | [Acapulco](https://open.spotify.com/track/6Fs98ySM5epAAUtD69jC1o) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Música Para Adultos](https://open.spotify.com/album/00ccg0F2r512qr09ahK46C) | 2:46 |
 | 26 | [Aura](https://open.spotify.com/track/3FcNx0xneevygzqjZaSDIo) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Aura](https://open.spotify.com/album/1i3MA9Eamgjk3SKYFo0zdn) | 3:27 |
-| 27 | [Todo Lamento](https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Todo Lamento](https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm) | 2:35 |
-| 28 | [DE REVERSA](https://open.spotify.com/track/6w8cIvWOmJYE0RPXs6iySp) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj), [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [DE REVERSA](https://open.spotify.com/album/1Dcw9KQLD2KqrDENrUtjbR) | 3:04 |
-| 29 | [Idiota](https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [Idiota](https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT) | 2:59 |
+| 27 | [DE REVERSA](https://open.spotify.com/track/6w8cIvWOmJYE0RPXs6iySp) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj), [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [DE REVERSA](https://open.spotify.com/album/1Dcw9KQLD2KqrDENrUtjbR) | 3:04 |
+| 28 | [Idiota](https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [Idiota](https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT) | 2:59 |
+| 29 | [Todo Lamento](https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Todo Lamento](https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm) | 2:35 |
 | 30 | [las calles de mi ciudad](https://open.spotify.com/track/5wPC3oJqHkrFqnpO5Hk2q9) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT), [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [las calles de mi ciudad](https://open.spotify.com/album/2UA7eyMtgoFEqkR4U3eQ1S) | 3:09 |
 | 31 | [Volver A Empezar](https://open.spotify.com/track/2UuR56kahTzNGArpn3PWEF) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Volver A Empezar](https://open.spotify.com/album/2u7Y1Qyval9xBgqWo26ivN) | 2:55 |
 | 32 | [Alta Joya](https://open.spotify.com/track/1mcW8W3MAKP1daibEnOlRv) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Alta Joya](https://open.spotify.com/album/2WH2HCRoqqL7Vag4wRsSva) | 3:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 74 | [Al Cien](https://open.spotify.com/track/1vxa13KTCbsGFavA6WFywz) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Al Cien](https://open.spotify.com/album/0APusMWyvY7kRnM3ROoOBm) | 2:57 |
 | 75 | [En Todas Partes](https://open.spotify.com/track/3e0oTmzpggchmvDpUgEgbL) | [Micaela Salaverry](https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo), [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [En Todas Partes](https://open.spotify.com/album/5jV6AmV4Gpg8GSe3WhSjof) | 3:37 |
 
-Snapshot ID: `MCw3MWU1NjVmMTEzODI5MzI5ZDdkNDc5ZDNhMTg2ODI3NWRlNDNjZTU4`
+Snapshot ID: `MCwyMzgwZWEwNGZiZDMxNTEzOGI4NzUwMmQ4NDg3ZWRhNmM4NDk3YTBk`

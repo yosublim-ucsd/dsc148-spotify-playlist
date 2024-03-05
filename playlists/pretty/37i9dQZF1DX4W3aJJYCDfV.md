@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music Charli XCX \(pictured\), Fred again.., Skepta and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 847,485 likes - 123 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 847,558 likes - 123 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 122 | [Attention](https://open.spotify.com/track/7a97WHddocTnhagUJEfTFb) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Attention](https://open.spotify.com/album/7hE5oYhRUricYUex3QE5NH) | 4:11 |
 | 123 | [The State](https://open.spotify.com/track/2z8W8Wyfy2XMU7kSnDTPNF) | [Fynch](https://open.spotify.com/artist/0IKMnBuBLJuHcrTejKmrtx) | [Youngfella](https://open.spotify.com/album/1RRioAfHKB6wujcoO1Zi3p) | 3:07 |
 
-Snapshot ID: `MCw0NDMzZmVhYWZmZDNhMDZlODdlYTI2ZmYwNGNkNGI0ZDk1NzEwOTQx`
+Snapshot ID: `MCxhZGIxZTgxNzRhNDM3NTZkODVlMTk5YzVhMzE0YTk4ZDY2ZDU3YTVh`

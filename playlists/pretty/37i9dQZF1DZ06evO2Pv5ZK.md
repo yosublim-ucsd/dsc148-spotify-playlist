@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 
 > This is Vangelis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,922 likes - 42 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,931 likes - 42 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 | 16 | [P.S.](https://open.spotify.com/track/5RMXXGILiMtXMkZb8jxdZ9) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Voices](https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f) | 2:06 |
 | 17 | [Twenty Eighth Parallel](https://open.spotify.com/track/15I4SzvLAI1mguGr9mgIUq) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [1492: Conquest of Paradise](https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0) | 5:14 |
 | 18 | [Songs of the Seas](https://open.spotify.com/track/0arhGtmkHcZTlwhAurRUF2) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 6:12 |
-| 19 | [Tears in Rain](https://open.spotify.com/track/2LxEIWrZkzfc55c3rk05DH) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 3:00 |
+| 19 | [One More Kiss, Dear](https://open.spotify.com/track/7CKz0xDkXuPdW3xEQ4NUS9) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 3:59 |
 | 20 | [Prelude](https://open.spotify.com/track/5DmruZakADX1JhSPZlijNz) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Voices](https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f) | 4:25 |
 | 21 | [Eternity](https://open.spotify.com/track/0X6SplektlOd1CwtwuOOaM) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [1492: Conquest of Paradise](https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0) | 1:58 |
 | 22 | [The Tao Of Love](https://open.spotify.com/track/1pbqHRbjsZPqXx0XiDLstV) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [China](https://open.spotify.com/album/0GPvraFrPjbXzY0H3fcudk) | 2:44 |
-| 23 | [One More Kiss, Dear](https://open.spotify.com/track/7CKz0xDkXuPdW3xEQ4NUS9) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 3:59 |
+| 23 | [Tears in Rain](https://open.spotify.com/track/2LxEIWrZkzfc55c3rk05DH) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 3:00 |
 | 24 | [Theme From Antarctica \- Remastered](https://open.spotify.com/track/6NSVAJKZJnEO8DDYBKHHQo) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Antarctica \(Remastered\)](https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0) | 7:25 |
 | 25 | [Aquatic Dance](https://open.spotify.com/track/3FqkOf0gZvWbUmmAUA9Ao8) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 3:43 |
 | 26 | [L'enfant \- Remastered](https://open.spotify.com/track/6u6CKQx7QIiH4krd3MWfTa) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Opera sauvage \(Remastered\)](https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8) | 5:00 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 | 41 | [Vangelis: Through the Night Mist](https://open.spotify.com/track/1krI0NrRwDykPwXnliC4mx) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Ambient & Relax](https://open.spotify.com/album/4E6iTDSE9Ix7eQCLh6daW5) | 5:12 |
 | 42 | [Titans](https://open.spotify.com/track/0VXRPy0D20PsuV35XIiJ1j) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Alexander \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0) | 3:59 |
 
-Snapshot ID: `Mjg0OTExMzksMDAwMDAwMDAzOTY0M2Y0OWU3N2ZmOThmMWY5M2ZiMzM5YzU0MGUzYw==`
+Snapshot ID: `Mjg0OTI1NjksMDAwMDAwMDAzN2QxYjI4MDMyODIyOWFhMGE2ODhhZGU5ZWY4OTIxMA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,579 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,728 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 99 | [Mukwano Gwo](https://open.spotify.com/track/0AiGL3SmHr50RTF5rFaHTN) | [Kenneth Mugabi](https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF), [Angela Kalule](https://open.spotify.com/artist/5Avt6RWKqAxYiadur6sxYi) | [Ugandan](https://open.spotify.com/album/5lZptP1kXQTGku9irUVhcD) | 2:54 |
 | 100 | [Real Love](https://open.spotify.com/track/1de0B7PogPYdil6GbJNC5y) | [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [We're Gonna Be Just Fine](https://open.spotify.com/album/4n0an2l1BBvhFglpv1JTkM) | 3:09 |
 
-Snapshot ID: `MCxlNGNkMjBmYjVmYzRlNjc3MWUxOTY4MGZmZWM5YThlODNjZjkwNDJj`
+Snapshot ID: `MCxiODNkMmY1Nzg5NzRjZDY2MWIyNGIwMmE0YTVjMDc5YWQzZDE4MTZk`

@@ -1,12 +1,12 @@
 {
   "description": "Hit dance per l'estate 2023, anche in autunno \ud83d\udc40",
-  "num_followers": 102677,
+  "num_followers": 102679,
   "original_name": "Estate Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTU0ZTA1YzM0ZWZlYThhNDhlYWVmYTE5Mjg2ODJlNWQyMzUxNTkw",
+  "snapshot_id": "MCwyODViZWE5Y2EyYzYyOWJmMGYzNzlhMzM0OWYyNDU1OWRlODMyM2Mw",
   "tracks": [
     {
       "added_at": "2023-11-10 00:01:00",
@@ -339,26 +339,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Relax My Eyes",
-        "url": "https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "Abel Balder",
-          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
-        }
-      ],
-      "duration_ms": 192150,
-      "name": "Relax My Eyes",
-      "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "Car Keys (Ayla)",
         "url": "https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 147211,
       "name": "Car Keys (Ayla)",
       "url": "https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "Relax My Eyes",
+        "url": "https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Abel Balder",
+          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
+        }
+      ],
+      "duration_ms": 192150,
+      "name": "Relax My Eyes",
+      "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
+        "name": "Madan (King)",
+        "url": "https://open.spotify.com/album/17nQWgqiyuKwi5Oku7BDAl"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        }
+      ],
+      "duration_ms": 183609,
+      "name": "Madan (King)",
+      "url": "https://open.spotify.com/track/5EGAY1Txvi5A3hFkYYGsXx"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
         "name": "When The Light Breaks",
         "url": "https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 165483,
       "name": "Ritmo - HUGEL Edit",
       "url": "https://open.spotify.com/track/17lDd5hXfSr86GTUq2k7Wh"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
-        "name": "Madan (King)",
-        "url": "https://open.spotify.com/album/17nQWgqiyuKwi5Oku7BDAl"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        }
-      ],
-      "duration_ms": 183609,
-      "name": "Madan (King)",
-      "url": "https://open.spotify.com/track/5EGAY1Txvi5A3hFkYYGsXx"
     },
     {
       "added_at": "2023-11-10 00:01:00",

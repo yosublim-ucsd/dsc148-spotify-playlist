@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 
 > Swinging jazz for relaxing and unwinding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,374 likes - 150 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,439 likes - 150 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 | 43 | [Fool For Your Love](https://open.spotify.com/track/0TZvBsGCrJFg27QAKkScIg) | [Paddington St\. Group](https://open.spotify.com/artist/2wgAdNr1UerjSdYbhcagSO) | [Fool For Your Love](https://open.spotify.com/album/5CJpGX6qbkzTpZ6PQxfbdj) | 3:50 |
 | 44 | [On Repeat](https://open.spotify.com/track/0DH1r35QPYQGWSVWiPb8nC) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [On Repeat](https://open.spotify.com/album/4vKULVroJWpWyQ6KnlxZSd) | 3:24 |
 | 45 | [Out of Wilma](https://open.spotify.com/track/3al4xzBnTjTpcnZsfRiE0y) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [Out of Wilma](https://open.spotify.com/album/1xHX7TFDWntXbStEw02s5Y) | 2:49 |
-| 46 | [Muddy Trail](https://open.spotify.com/track/7xi4NE5HjjIU4sjk2OP466) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Muddy Trail](https://open.spotify.com/album/0mQjoCyVFtEqpTbNjahd8J) | 3:40 |
-| 47 | [Love To Be Happy](https://open.spotify.com/track/3wMe1lySKxJeH9iMWXDqgx) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Love To Be Happy](https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60) | 3:15 |
+| 46 | [Love To Be Happy](https://open.spotify.com/track/3wMe1lySKxJeH9iMWXDqgx) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Love To Be Happy](https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60) | 3:15 |
+| 47 | [Muddy Trail](https://open.spotify.com/track/7xi4NE5HjjIU4sjk2OP466) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Muddy Trail](https://open.spotify.com/album/0mQjoCyVFtEqpTbNjahd8J) | 3:40 |
 | 48 | [Soft Lad](https://open.spotify.com/track/2D5WUT4UAYqceSBUmwstDf) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [Soft Lad](https://open.spotify.com/album/4y9M38huG2kr1sOGZnqzYw) | 2:54 |
 | 49 | [Cool Breeze](https://open.spotify.com/track/0dzh53o5y3EqVcjicXRcGN) | [Mino Conte & Co](https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi) | [Cool Breeze](https://open.spotify.com/album/2onbyBVdickYJ8OAZfqJPa) | 4:13 |
 | 50 | [You Never Say You're Sorry](https://open.spotify.com/track/1bB1538FOBYVUs2z06ssQ3) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Lazy Art](https://open.spotify.com/album/0nwE46ZJn2ggRiBKmrN7Vi) | 4:18 |
@@ -63,11 +63,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 | 53 | [Something about him](https://open.spotify.com/track/18L4SUEMJ0jJKmajWCCRP7) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Something about him](https://open.spotify.com/album/091PRS9X1pT5pEVDFAd7Vx) | 2:40 |
 | 54 | [Clowns And Crowns](https://open.spotify.com/track/2xQWfbb9oAoPpeLNNIyOoR) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Clowns And Crowns](https://open.spotify.com/album/4LECNBb5hlVQolcsuoNt0p) | 4:01 |
 | 55 | [Sweet Smile](https://open.spotify.com/track/5DghAA2I1vE1jqFOaJRIsv) | [Velvet Groove](https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia) | [Sweet Smile](https://open.spotify.com/album/0z6Bmefx4SMCYqfRqZfJcH) | 3:54 |
-| 56 | [This Lullaby](https://open.spotify.com/track/0XvOa8OJrBwVXG77AMkzN6) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [This Lullaby](https://open.spotify.com/album/0qqrXJ63GT7I1PKoVVpQY4) | 2:27 |
-| 57 | [Journeying](https://open.spotify.com/track/0rxrNlowteTww0qD51gmJC) | [The Don Mason Trio](https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf) | [Journeying](https://open.spotify.com/album/3P9JiFggKtxEEdi9l67JRp) | 3:51 |
-| 58 | [Vine Street](https://open.spotify.com/track/4W4PZdDzTUa06u4iXCKRxI) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Vine Street](https://open.spotify.com/album/01zZ8pxxgCzAG2ETwIojD1) | 2:26 |
-| 59 | [What's Life Without You](https://open.spotify.com/track/4bb1bddVF7iDn4Db0bY4Ic) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [In My Own Small World](https://open.spotify.com/album/1nEShi0S3yWyDvXW6evjgl) | 4:18 |
-| 60 | [Maze of Tranquility](https://open.spotify.com/track/06henIQqvVk2vAKj1yQtTp) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Maze of Tranquility](https://open.spotify.com/album/3xOT2GRM03MGNTRMQFSPZS) | 4:22 |
+| 56 | [Maze of Tranquility](https://open.spotify.com/track/06henIQqvVk2vAKj1yQtTp) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Maze of Tranquility](https://open.spotify.com/album/3xOT2GRM03MGNTRMQFSPZS) | 4:22 |
+| 57 | [This Lullaby](https://open.spotify.com/track/0XvOa8OJrBwVXG77AMkzN6) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [This Lullaby](https://open.spotify.com/album/0qqrXJ63GT7I1PKoVVpQY4) | 2:27 |
+| 58 | [Journeying](https://open.spotify.com/track/0rxrNlowteTww0qD51gmJC) | [The Don Mason Trio](https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf) | [Journeying](https://open.spotify.com/album/3P9JiFggKtxEEdi9l67JRp) | 3:51 |
+| 59 | [Vine Street](https://open.spotify.com/track/4W4PZdDzTUa06u4iXCKRxI) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Vine Street](https://open.spotify.com/album/01zZ8pxxgCzAG2ETwIojD1) | 2:26 |
+| 60 | [What's Life Without You](https://open.spotify.com/track/4bb1bddVF7iDn4Db0bY4Ic) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [In My Own Small World](https://open.spotify.com/album/1nEShi0S3yWyDvXW6evjgl) | 4:18 |
 | 61 | [I Saw The Sun](https://open.spotify.com/track/3CpRRIHLxKHSBSvnCgGeD1) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [I Saw The Sun](https://open.spotify.com/album/78uwjFsCIcHxqxxOWmx8kM) | 4:20 |
 | 62 | [Silky Smooth](https://open.spotify.com/track/71m0kBDhVhtjFcBCJLFTKc) | [Eira Eld](https://open.spotify.com/artist/1Ry53E1vatWPQYpL9DXlQn) | [Silky Smooth](https://open.spotify.com/album/1yvVjaJnkvezldKwO31Y5C) | 2:44 |
 | 63 | [Autumn Once Again](https://open.spotify.com/track/3FFYuymUtI8DihGhLMHggW) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Autumn Once Again](https://open.spotify.com/album/3XWIqHBr7g3vkRKOx94SFk) | 4:44 |
@@ -89,11 +89,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 | 79 | [Love In Your Arms](https://open.spotify.com/track/4tmD3aQkmBEO9JOR1hEAdY) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 3:22 |
 | 80 | [Blame It On My Youth](https://open.spotify.com/track/7iY29GCGYy8mSaY22eM8NY) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [Blame It On My Youth](https://open.spotify.com/album/0RYhx1VMQSMnmawwALlTCE) | 3:13 |
 | 81 | [February Brings The Rain](https://open.spotify.com/track/5u795XTEp5nJdQOfGJyi1i) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [February Brings The Rain](https://open.spotify.com/album/3HuZSjtGmUndStly4pKiLv) | 3:41 |
-| 82 | [Cherry Stone](https://open.spotify.com/track/0KZfDnUWPFIHWUZwI1I9sR) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Cherry Stone](https://open.spotify.com/album/1tHbVA6rLJnO4db208ZLSA) | 3:23 |
-| 83 | [Love Will Last Forever](https://open.spotify.com/track/3AqqDd9zm7ZG8AFaveWYIm) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Love Will Last Forever](https://open.spotify.com/album/4usW1UlwKnmOuqsChtx2Xa) | 3:35 |
-| 84 | [Mancuso's Joint](https://open.spotify.com/track/5bVT6a3fLBhW0969fn40lo) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Mancuso's Joint](https://open.spotify.com/album/4lNWtfpQzNsLIVvYy8kSgF) | 4:18 |
+| 82 | [Love Will Last Forever](https://open.spotify.com/track/3AqqDd9zm7ZG8AFaveWYIm) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Love Will Last Forever](https://open.spotify.com/album/4usW1UlwKnmOuqsChtx2Xa) | 3:35 |
+| 83 | [Mancuso's Joint](https://open.spotify.com/track/5bVT6a3fLBhW0969fn40lo) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Mancuso's Joint](https://open.spotify.com/album/4lNWtfpQzNsLIVvYy8kSgF) | 4:18 |
+| 84 | [The Meadows](https://open.spotify.com/track/120GHgxD1qLdNpnz2NT7Je) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [The Meadows](https://open.spotify.com/album/6PosHibdf6McSbAZLgZAg6) | 3:15 |
 | 85 | [Come on..\. Lucky!](https://open.spotify.com/track/0gyjqALKXPICWiV5j7Bddn) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Come on..\. Lucky!](https://open.spotify.com/album/29N1R6VjY2ynfNJwAXROnX) | 2:44 |
-| 86 | [The Meadows](https://open.spotify.com/track/120GHgxD1qLdNpnz2NT7Je) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [The Meadows](https://open.spotify.com/album/6PosHibdf6McSbAZLgZAg6) | 3:15 |
+| 86 | [Cherry Stone](https://open.spotify.com/track/0KZfDnUWPFIHWUZwI1I9sR) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Cherry Stone](https://open.spotify.com/album/1tHbVA6rLJnO4db208ZLSA) | 3:23 |
 | 87 | [Memories Of Her Music](https://open.spotify.com/track/11Ya486KvEdIaYgsT8cwsw) | [Songbird Trio](https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh) | [Memories Of Her Music](https://open.spotify.com/album/0ae4cJFhCtFf2ZSO4UMewV) | 3:33 |
 | 88 | [Like a Starfish in the Sea](https://open.spotify.com/track/3BoZ25lh3CE3wkrkVl49qT) | [Prism Trio](https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE) | [Beauty Becomes You](https://open.spotify.com/album/4sBnW9DTjFjoZQQtVRedpm) | 3:07 |
 | 89 | [Candy](https://open.spotify.com/track/1Eh0sGvTxDYx13pE2PBpEn) | [Irvin Smith Group](https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ) | [Candy](https://open.spotify.com/album/0YBqRnGxHoCnuEcgdtNLs1) | 3:24 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 | 149 | [Soft Moments](https://open.spotify.com/track/0cGUiaeg4Ty9MxXIttAnQB) | [Alec Taylor Trio](https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J) | [Soft Moments](https://open.spotify.com/album/2jqAwZGJu7ymVMmo3qYTKD) | 3:22 |
 | 150 | [Swedish sauce](https://open.spotify.com/track/17EQIcoPaLULq6gpDVwRWM) | [Sodermalm Strand](https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp) | [Swedish sauce](https://open.spotify.com/album/1obVmVYjVAIRiWOo97UNVc) | 3:21 |
 
-Snapshot ID: `MCw1YjFiYWY2MzY4Y2QwMzUzMDg3ODQ1YTk4ZjM0ZGZiMzg5NGZhMjRl`
+Snapshot ID: `MCxjYmEzN2Y3NGM2NWFkOGNmMzU1YWNmNWQxYTE2ZDRlZDkwYzAyNDQ4`

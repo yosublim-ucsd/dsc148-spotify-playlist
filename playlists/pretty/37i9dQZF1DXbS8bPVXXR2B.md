@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 
 > We just wanna rock you all night long.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,302 likes - 100 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,343 likes - 100 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,10 +22,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 12 | [Just an Illusion](https://open.spotify.com/track/4QT3YKobBj4BI7xCYRLr9u) | [Imagination](https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m) | [In the Heat of the Night](https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6) | 6:27 |
 | 13 | [You Make Me Feel \(Mighty Real\)](https://open.spotify.com/track/0RnCUYXa7jhgTXtiMXF2PQ) | [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [Step II](https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo) | 6:40 |
 | 14 | [Outstanding \- Original 12" Mix](https://open.spotify.com/track/6korvxtUEyt590jUFOfADm) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [The 12" Collection And More \(Funk Essentials\)](https://open.spotify.com/album/2RBgodUUn2EzbMDSq0shGH) | 6:15 |
-| 15 | [Remind Me \- Remastered](https://open.spotify.com/track/4nFtNdjJtuRXmThiJo7Z5t) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight from the Heart \(Remastered\)](https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g) | 5:19 |
-| 16 | [He's the Greatest Dancer \- 1995 Remaster](https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 6:15 |
-| 17 | [I Feel Love \- 12" Version](https://open.spotify.com/track/7B7lf3sIze5VR2WuYttn18) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls \(Deluxe Edition\)](https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6) | 8:15 |
-| 18 | [Rapture](https://open.spotify.com/track/6F2vo4sxRNQ58VYe3pdiaL) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 4:59 |
+| 15 | [He's the Greatest Dancer \- 1995 Remaster](https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 6:15 |
+| 16 | [Remind Me \- Remastered](https://open.spotify.com/track/4nFtNdjJtuRXmThiJo7Z5t) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight from the Heart \(Remastered\)](https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g) | 5:19 |
+| 17 | [Rapture](https://open.spotify.com/track/6F2vo4sxRNQ58VYe3pdiaL) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 4:59 |
+| 18 | [I Feel Love \- 12" Version](https://open.spotify.com/track/7B7lf3sIze5VR2WuYttn18) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls \(Deluxe Edition\)](https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6) | 8:15 |
 | 19 | [You and I](https://open.spotify.com/track/1uGFGhxJ9ISGcy7iDffP7V) | [Delegation](https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf) | [The Best of Delegation](https://open.spotify.com/album/1um0JgV0FOnEg3UA0IF2hc) | 5:16 |
 | 20 | [Promised Land](https://open.spotify.com/track/796T2ROxTNibXRjVhjSzCa) | [Joe Smooth](https://open.spotify.com/artist/4BIamAD25vwYldaOWTEsXd) | [Promised Land](https://open.spotify.com/album/1oyrymxXmhE2NaYczhS6NR) | 5:31 |
 | 21 | [Could Heaven Ever Be Like This](https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS) | [Idris Muhammad](https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN) | [Turn This Mutha Out](https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I) | 8:36 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 78 | [Disco Illusion](https://open.spotify.com/track/1ROPlnnzLFGZBD4NELKZoa) | [Stephen Encinas](https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5) | [Disco Illusion](https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9) | 6:44 |
 | 79 | [Hold Tight \- Full Length Album Mix](https://open.spotify.com/track/3HmU74RIPV2LgkjJUeU7Cd) | [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE) | [Magical Night \(Greatest Hits Special Price\)](https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f) | 4:28 |
 | 80 | [Heartbeat \(Club Mix\) \(2012 \- Remaster\)](https://open.spotify.com/track/281WOsKoaGN9lMttUL7tjs) | [Taana Gardner](https://open.spotify.com/artist/4kkfqDFX2t4QBOwuHqAROF) | [Taana Gardner](https://open.spotify.com/album/3Cry53QsMK0kF7Z59FUml0) | 9:47 |
-| 81 | [Groovin' You \- 12" Version](https://open.spotify.com/track/7Flx0S453i52pgZxpin1Qg) | [Harvey Mason](https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT) | [Groovin' You \(Expanded Edition\)](https://open.spotify.com/album/1kcDt7lJdpED4jKuo1PNq9) | 6:16 |
-| 82 | [Today Is the Day \- Linkwood Chop](https://open.spotify.com/track/02fPKhvSJZecPhfkguNJan) | [Frazelle](https://open.spotify.com/artist/7vKUK1CA6c4CgeFtAIDtnn) | [Watchin Out](https://open.spotify.com/album/25IbgmgW9oZb0jXH7oGBtf) | 5:20 |
+| 81 | [Today Is the Day \- Linkwood Chop](https://open.spotify.com/track/02fPKhvSJZecPhfkguNJan) | [Frazelle](https://open.spotify.com/artist/7vKUK1CA6c4CgeFtAIDtnn) | [Watchin Out](https://open.spotify.com/album/25IbgmgW9oZb0jXH7oGBtf) | 5:20 |
+| 82 | [Groovin' You \- 12" Version](https://open.spotify.com/track/7Flx0S453i52pgZxpin1Qg) | [Harvey Mason](https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT) | [Groovin' You \(Expanded Edition\)](https://open.spotify.com/album/1kcDt7lJdpED4jKuo1PNq9) | 6:16 |
 | 83 | [Get It Right \- Single Version](https://open.spotify.com/track/6IKMa77w7i9BAs64sTZqKZ) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Get It Right \(Expanded Edition\)](https://open.spotify.com/album/1P5mbihG8FF4vfu3hhiMVH) | 4:19 |
 | 84 | [You're a Melody \- Extended Disco Version](https://open.spotify.com/track/0BnavfaSvNQXxg5sBfxTxX) | [Aged In Harmony](https://open.spotify.com/artist/5hABGCgIH57T4NTNpp0gCL) | [You're a Melody](https://open.spotify.com/album/3XcLLEYjyx5KpYwAxLhBYt) | 4:19 |
 | 85 | [On the Beat \- Full Length Mix](https://open.spotify.com/track/5tdMJa2vdkSoONkzlZVD0o) | [The B\. B\. & Q\. Band](https://open.spotify.com/artist/0daNFtsGDQpGNgj9ZbH5Lb) | [The Brooklyn, Bronx & Queens Band](https://open.spotify.com/album/6SHMsBY50BGH9q3JDVVXMy) | 5:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 99 | [Dancing in Outer Space](https://open.spotify.com/track/0OYKPDicsx5rFpScHnWIoH) | [Atmosfear](https://open.spotify.com/artist/1DqpAdUZXDlOEUHdiawMJF) | [Dancing in Outer Space](https://open.spotify.com/album/4MF1H26SPWJ74EcEpkg11r) | 9:37 |
 | 100 | [Lypso Illusion](https://open.spotify.com/track/39A5QHG41wrR0cahFX5Y7N) | [Stephen Encinas](https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5) | [Disco Illusion](https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9) | 4:44 |
 
-Snapshot ID: `MCw0MzNhMGVkMGNiYTNhODEwNjQzMDgyMmIxYTI5Mzc4MzUwZDljY2Uy`
+Snapshot ID: `MCxmNzY4ZDcwZGQ0ZTFmOWI5M2JlMTFmZjZiNmI4MDAzMGY5OTRhNTkw`

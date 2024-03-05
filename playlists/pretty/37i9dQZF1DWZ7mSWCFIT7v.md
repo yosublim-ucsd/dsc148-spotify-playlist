@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 
 > time\-stretching granular synthesis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,091 likes - 100 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,141 likes - 100 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 | 17 | [Time to Find Me \- AFX Fast Mix](https://open.spotify.com/track/4JT4orneDAvaWkjUTuwShZ) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f), [AFX](https://open.spotify.com/artist/6ULjGlnhcCwHIJigN47K5U) | [Pure, Impure](https://open.spotify.com/album/7C3flv2nzeBoNHVrptYz6o) | 7:37 |
 | 18 | [Deipkier](https://open.spotify.com/track/1XqNsMxAq5hHpr35djllcJ) | [Craven Faults](https://open.spotify.com/artist/3pAxHOmaTLiUnC9WoXdsyN) | [Erratics & Unconformities](https://open.spotify.com/album/3froV8878RfT1ClZYjyxBI) | 7:55 |
 | 19 | [Melodica](https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Articulation](https://open.spotify.com/album/6gcAUc2LUZfbHwZZJLgvtm) | 3:39 |
-| 20 | [The Trembling of Glass](https://open.spotify.com/track/3xcZhz8x7ZV2PrREmSav89) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [Our Hands Against the Dusk](https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9) | 3:28 |
-| 21 | [Treat Em Right \- Boards of Canada Remix Instrumental](https://open.spotify.com/track/3AETAMXWqZTE1ezv2G8bzG) | [Nevermen](https://open.spotify.com/artist/09P3wPH0MvtLnhwfbtzrRq), [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Treat Em Right \(Boards Of Canada Remix\)](https://open.spotify.com/album/3biP5TpmbP1eQBjnMVo2cm) | 4:29 |
-| 22 | [Yulquen](https://open.spotify.com/track/7oZwhOIxuFxRzqKmOKDgiO) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32) | 6:37 |
+| 20 | [Yulquen](https://open.spotify.com/track/7oZwhOIxuFxRzqKmOKDgiO) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32) | 6:37 |
+| 21 | [The Trembling of Glass](https://open.spotify.com/track/3xcZhz8x7ZV2PrREmSav89) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [Our Hands Against the Dusk](https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9) | 3:28 |
+| 22 | [Treat Em Right \- Boards of Canada Remix Instrumental](https://open.spotify.com/track/3AETAMXWqZTE1ezv2G8bzG) | [Nevermen](https://open.spotify.com/artist/09P3wPH0MvtLnhwfbtzrRq), [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Treat Em Right \(Boards Of Canada Remix\)](https://open.spotify.com/album/3biP5TpmbP1eQBjnMVo2cm) | 4:29 |
 | 23 | [Familiar Flavours](https://open.spotify.com/track/5DahiVparbFG67nqloWPSL) | [700 Feel](https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV) | [Familiar Flavours](https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU) | 4:20 |
 | 24 | [S.O](https://open.spotify.com/track/1rPVwDsOQngRvmfkFgXLjn) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Kelly Lee Owens](https://open.spotify.com/album/0aol42apbylFf2POjiAOeP) | 3:12 |
 | 25 | [10°C](https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 4:22 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 | 70 | [The Star Compass](https://open.spotify.com/track/6eiKdoO7ZwZbQt99QIj5Qh) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 4:49 |
 | 71 | [Street Talk](https://open.spotify.com/track/0fTYyY4Egxd86l8Yvvo2Ag) | [Holodec](https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3) | [Street Talk](https://open.spotify.com/album/5vR8ut78J1NdClW40QmtuT) | 3:49 |
 | 72 | [Amygdala](https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Amygdala](https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ) | 5:19 |
-| 73 | [Coral Jazz](https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Coral Jazz](https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi) | 3:03 |
-| 74 | [The Clearing Pt\. 2](https://open.spotify.com/track/1QWahKnQpMZpnOX5igsFVe) | [Hans Berg](https://open.spotify.com/artist/3HtBPJEDYVtAbTGSpaJ3Hk) | [Waypoints](https://open.spotify.com/album/7mPnhyfo0PHMmCM8d2nuyA) | 5:54 |
+| 73 | [The Clearing Pt\. 2](https://open.spotify.com/track/1QWahKnQpMZpnOX5igsFVe) | [Hans Berg](https://open.spotify.com/artist/3HtBPJEDYVtAbTGSpaJ3Hk) | [Waypoints](https://open.spotify.com/album/7mPnhyfo0PHMmCM8d2nuyA) | 5:54 |
+| 74 | [Coral Jazz](https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Coral Jazz](https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi) | 3:03 |
 | 75 | [Quakenbrück \- version](https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu) | [Bitchin Bajas](https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I) | [QUAKENBRÜCK \[Version\]](https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7) | 4:39 |
 | 76 | [Wiegenmusik](https://open.spotify.com/track/2iiaNKiT2UG0cKMJ6OiwCA) | [Simon Lovermann](https://open.spotify.com/artist/2nWefmRaZ5x1QNWjbPD7xr) | [Wiegenmusik / Constant Structure](https://open.spotify.com/album/4FGpW60vq60Y4K8CFF9tKJ) | 2:32 |
 | 77 | [Creatura](https://open.spotify.com/track/4t2rtg8xGq6hKgXmDJzq3k) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Natura](https://open.spotify.com/album/7iKvcnzcqiPHlyvXKvs0d3) | 4:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 | 99 | [Dub Protection](https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf) | [The Diabolical Liberties](https://open.spotify.com/artist/6JZINtp2iR8WoSGngVwsrb), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Dub Protection & The Sportswear Mystics](https://open.spotify.com/album/3Aiy2F3rmjJvgEmbOyDf3e) | 5:11 |
 | 100 | [Give It Your Choir \- Instrumental](https://open.spotify.com/track/2lsUYy3qMvswbX3rfbZUiI) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK) | [Under The Sun \(Expanded Vol\. 1\)](https://open.spotify.com/album/7oCVk3zWkNB6ByYbjkxYk2) | 4:30 |
 
-Snapshot ID: `MCw4YjEwNTBlZjk3YmZiNWYzYWY1NjMyNjViN2EzYzYwYWVkODJlYTcx`
+Snapshot ID: `MCw0OTJiMTUzMzI2NTI3ZmM4YTI2MGMwOTk3ZGQ4YzU4OWEyNzU1MTE5`

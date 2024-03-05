@@ -1,12 +1,12 @@
 {
   "description": "Cumbia pa' volar la chapa con Papichamp, The la Planta, El negro tecla, Lolo OG & Locura Mix.",
-  "num_followers": 567784,
+  "num_followers": 567851,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGRkNThkY2EwZmZjNzczNDRlYmRiMjlhNDNmMjEyYTNkNDNkNGNk",
+  "snapshot_id": "MCw2NTRlYTI0NzRjYWI4NjFiNzM1M2UyNWZmZDIzZmIxOTc3MDU4ZjRm",
   "tracks": [
     {
       "added_at": "2024-02-23 03:00:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-02-23 03:00:00",
       "album": {
+        "name": "En Otra",
+        "url": "https://open.spotify.com/album/2LfZrUypchm1xCe73gDMsU"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 131697,
+      "name": "En Otra",
+      "url": "https://open.spotify.com/track/26XTUfkLRnLR1W2XbjM9pf"
+    },
+    {
+      "added_at": "2024-02-23 03:00:00",
+      "album": {
         "name": "Me Vas a Extra\u00f1ar (En Vivo)",
         "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
       },
@@ -595,38 +611,6 @@
       "duration_ms": 238528,
       "name": "Me Vas a Extra\u00f1ar - En Vivo",
       "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
-    },
-    {
-      "added_at": "2024-02-23 03:00:00",
-      "album": {
-        "name": "Cumbia Villera",
-        "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
-      },
-      "artists": [
-        {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
-        }
-      ],
-      "duration_ms": 218680,
-      "name": "Pibe Cantina",
-      "url": "https://open.spotify.com/track/3d7pveUZGAg7wSSeL5nwNG"
-    },
-    {
-      "added_at": "2024-02-23 03:00:00",
-      "album": {
-        "name": "En Otra",
-        "url": "https://open.spotify.com/album/2LfZrUypchm1xCe73gDMsU"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 131697,
-      "name": "En Otra",
-      "url": "https://open.spotify.com/track/26XTUfkLRnLR1W2XbjM9pf"
     },
     {
       "added_at": "2024-02-23 03:00:00",
@@ -667,22 +651,6 @@
     {
       "added_at": "2024-02-23 03:00:00",
       "album": {
-        "name": "Me Declaro Culpable",
-        "url": "https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn"
-      },
-      "artists": [
-        {
-          "name": "Nene Malo",
-          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
-        }
-      ],
-      "duration_ms": 178573,
-      "name": "Bailan Rochas y Chetas",
-      "url": "https://open.spotify.com/track/3lC4mM6NiSLttfYTv1HTNQ"
-    },
-    {
-      "added_at": "2024-02-23 03:00:00",
-      "album": {
         "name": "Parulo",
         "url": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
       },
@@ -695,6 +663,22 @@
       "duration_ms": 174053,
       "name": "Sabros\u00f3n",
       "url": "https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS"
+    },
+    {
+      "added_at": "2024-02-23 03:00:00",
+      "album": {
+        "name": "Cumbia Villera",
+        "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "duration_ms": 218680,
+      "name": "Pibe Cantina",
+      "url": "https://open.spotify.com/track/3d7pveUZGAg7wSSeL5nwNG"
     },
     {
       "added_at": "2024-02-23 03:00:00",
@@ -715,6 +699,22 @@
       "duration_ms": 208619,
       "name": "Me Muero de Amor - En Vivo",
       "url": "https://open.spotify.com/track/1vX3eIWSPr9EH3nSy1JhMN"
+    },
+    {
+      "added_at": "2024-02-23 03:00:00",
+      "album": {
+        "name": "Me Declaro Culpable",
+        "url": "https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn"
+      },
+      "artists": [
+        {
+          "name": "Nene Malo",
+          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
+        }
+      ],
+      "duration_ms": 178573,
+      "name": "Bailan Rochas y Chetas",
+      "url": "https://open.spotify.com/track/3lC4mM6NiSLttfYTv1HTNQ"
     },
     {
       "added_at": "2024-02-23 03:00:00",
@@ -767,6 +767,30 @@
       "duration_ms": 140109,
       "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
       "url": "https://open.spotify.com/track/06lBXefqaA4ZUhJCNKkhIv"
+    },
+    {
+      "added_at": "2024-02-23 03:00:00",
+      "album": {
+        "name": "Perrito Malvado",
+        "url": "https://open.spotify.com/album/2rnOLCz5J5YHo2zVM0sJdQ"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "Marita",
+          "url": "https://open.spotify.com/artist/0W2GTHZvmVrIbQReJ9L0EJ"
+        }
+      ],
+      "duration_ms": 280895,
+      "name": "Perrito Malvado",
+      "url": "https://open.spotify.com/track/1sZ39ZxvFo8FyMz4s7iVlf"
     },
     {
       "added_at": "2024-02-23 03:00:00",
@@ -911,30 +935,6 @@
     {
       "added_at": "2024-02-23 03:00:00",
       "album": {
-        "name": "Perrito Malvado",
-        "url": "https://open.spotify.com/album/2rnOLCz5J5YHo2zVM0sJdQ"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "Marita",
-          "url": "https://open.spotify.com/artist/0W2GTHZvmVrIbQReJ9L0EJ"
-        }
-      ],
-      "duration_ms": 280895,
-      "name": "Perrito Malvado",
-      "url": "https://open.spotify.com/track/1sZ39ZxvFo8FyMz4s7iVlf"
-    },
-    {
-      "added_at": "2024-02-23 03:00:00",
-      "album": {
         "name": "GUSTY DJ I Alejo Isakk Session en el Barrio #5",
         "url": "https://open.spotify.com/album/4jeXKUAhhCVQm5qefqqjfT"
       },
@@ -987,6 +987,22 @@
       "duration_ms": 165756,
       "name": "Fua Mi Amor",
       "url": "https://open.spotify.com/track/2QT316zZ7jBNQ74eUsIuI0"
+    },
+    {
+      "added_at": "2024-02-23 03:00:00",
+      "album": {
+        "name": "100% Negro Cumbiero",
+        "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "duration_ms": 212253,
+      "name": "El humo de mi fasito",
+      "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
     },
     {
       "added_at": "2024-02-23 03:00:00",
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2024-02-23 03:00:00",
       "album": {
-        "name": "100% Negro Cumbiero",
-        "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        }
-      ],
-      "duration_ms": 212253,
-      "name": "El humo de mi fasito",
-      "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
-    },
-    {
-      "added_at": "2024-02-23 03:00:00",
-      "album": {
         "name": "Cumbia Callejera",
         "url": "https://open.spotify.com/album/4a8IlEXVXvZCTp9q1YwZGy"
       },
@@ -1135,22 +1135,6 @@
       "duration_ms": 243957,
       "name": "De Regreso Al Penal",
       "url": "https://open.spotify.com/track/2PpnjTOCtpBjAmEDu10Vr8"
-    },
-    {
-      "added_at": "2024-02-23 03:00:00",
-      "album": {
-        "name": "Los Maleantes",
-        "url": "https://open.spotify.com/album/4Qjy0jhjBUFH1btd8lmg6Q"
-      },
-      "artists": [
-        {
-          "name": "La Piedra Urbana",
-          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
-        }
-      ],
-      "duration_ms": 164780,
-      "name": "Sentado en la Esquina",
-      "url": "https://open.spotify.com/track/2KTrV1P4FIooFm8wFRcUBQ"
     },
     {
       "added_at": "2024-02-23 03:00:00",
@@ -1175,6 +1159,22 @@
       "duration_ms": 204146,
       "name": "LATI2",
       "url": "https://open.spotify.com/track/3s0CTts1TlRgJztG3gErvJ"
+    },
+    {
+      "added_at": "2024-02-23 03:00:00",
+      "album": {
+        "name": "Los Maleantes",
+        "url": "https://open.spotify.com/album/4Qjy0jhjBUFH1btd8lmg6Q"
+      },
+      "artists": [
+        {
+          "name": "La Piedra Urbana",
+          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
+        }
+      ],
+      "duration_ms": 164780,
+      "name": "Sentado en la Esquina",
+      "url": "https://open.spotify.com/track/2KTrV1P4FIooFm8wFRcUBQ"
     },
     {
       "added_at": "2024-02-23 03:00:00",
@@ -1335,38 +1335,6 @@
     {
       "added_at": "2024-02-23 03:00:00",
       "album": {
-        "name": "Pibes Chorros:Discograf\u00eda Completa Vol.1",
-        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 313190,
-      "name": "Sentimiento Villero",
-      "url": "https://open.spotify.com/track/77UtrgTACiQ5ziErPh7fKe"
-    },
-    {
-      "added_at": "2024-02-23 03:00:00",
-      "album": {
-        "name": "Es Corta la Bocha",
-        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
-      },
-      "artists": [
-        {
-          "name": "Eh!!! Guacho",
-          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
-        }
-      ],
-      "duration_ms": 187693,
-      "name": "Orgullosa",
-      "url": "https://open.spotify.com/track/7bgzGkSLclStkyn3WAUGv0"
-    },
-    {
-      "added_at": "2024-02-23 03:00:00",
-      "album": {
         "name": "PICA",
         "url": "https://open.spotify.com/album/1vyX43WgFXa8BLmIG3DlnN"
       },
@@ -1387,6 +1355,38 @@
       "duration_ms": 164531,
       "name": "PICA",
       "url": "https://open.spotify.com/track/5FKeJ9Z6W4mgG5aUOok3Qn"
+    },
+    {
+      "added_at": "2024-02-23 03:00:00",
+      "album": {
+        "name": "Es Corta la Bocha",
+        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
+      },
+      "artists": [
+        {
+          "name": "Eh!!! Guacho",
+          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
+        }
+      ],
+      "duration_ms": 187693,
+      "name": "Orgullosa",
+      "url": "https://open.spotify.com/track/7bgzGkSLclStkyn3WAUGv0"
+    },
+    {
+      "added_at": "2024-02-23 03:00:00",
+      "album": {
+        "name": "Pibes Chorros:Discograf\u00eda Completa Vol.1",
+        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 313190,
+      "name": "Sentimiento Villero",
+      "url": "https://open.spotify.com/track/77UtrgTACiQ5ziErPh7fKe"
     },
     {
       "added_at": "2024-02-23 03:00:00",
@@ -1483,6 +1483,38 @@
     {
       "added_at": "2024-02-23 03:00:00",
       "album": {
+        "name": "En Este Futuro Brillante, No Puedes Olvidar Tu Pasado",
+        "url": "https://open.spotify.com/album/2IjvMrgOdotCUq7lbWjt7H"
+      },
+      "artists": [
+        {
+          "name": "Los Turros",
+          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
+        }
+      ],
+      "duration_ms": 180662,
+      "name": "Hasta Que Salga el Sol",
+      "url": "https://open.spotify.com/track/03nTCsN43CgGyIhR9A3US2"
+    },
+    {
+      "added_at": "2024-02-23 03:00:00",
+      "album": {
+        "name": "Cumbia Callejera",
+        "url": "https://open.spotify.com/album/4a8IlEXVXvZCTp9q1YwZGy"
+      },
+      "artists": [
+        {
+          "name": "Pala Ancha",
+          "url": "https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ"
+        }
+      ],
+      "duration_ms": 233247,
+      "name": "Coraz\u00f3n de Madre (Destapate Una Cerveza)",
+      "url": "https://open.spotify.com/track/3ZLU1OKjiCyM2Ka7vcjT5f"
+    },
+    {
+      "added_at": "2024-02-23 03:00:00",
+      "album": {
         "name": "Tamo Chelo (Remix)",
         "url": "https://open.spotify.com/album/7mFkiXqQqnWYveSQeA9GXE"
       },
@@ -1523,22 +1555,6 @@
     {
       "added_at": "2024-02-23 03:00:00",
       "album": {
-        "name": "En Este Futuro Brillante, No Puedes Olvidar Tu Pasado",
-        "url": "https://open.spotify.com/album/2IjvMrgOdotCUq7lbWjt7H"
-      },
-      "artists": [
-        {
-          "name": "Los Turros",
-          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
-        }
-      ],
-      "duration_ms": 180662,
-      "name": "Hasta Que Salga el Sol",
-      "url": "https://open.spotify.com/track/03nTCsN43CgGyIhR9A3US2"
-    },
-    {
-      "added_at": "2024-02-23 03:00:00",
-      "album": {
         "name": "Pibes Chorros - Criando Cuervos",
         "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 224093,
       "name": "Una copa mas",
       "url": "https://open.spotify.com/track/0tAKVEBAQnXc8LrWuSZOdv"
-    },
-    {
-      "added_at": "2024-02-23 03:00:00",
-      "album": {
-        "name": "Cumbia Callejera",
-        "url": "https://open.spotify.com/album/4a8IlEXVXvZCTp9q1YwZGy"
-      },
-      "artists": [
-        {
-          "name": "Pala Ancha",
-          "url": "https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ"
-        }
-      ],
-      "duration_ms": 233247,
-      "name": "Coraz\u00f3n de Madre (Destapate Una Cerveza)",
-      "url": "https://open.spotify.com/track/3ZLU1OKjiCyM2Ka7vcjT5f"
     },
     {
       "added_at": "2024-02-23 03:00:00",
@@ -1795,26 +1795,6 @@
     {
       "added_at": "2024-02-23 03:00:00",
       "album": {
-        "name": "Close de Ort!",
-        "url": "https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f"
-      },
-      "artists": [
-        {
-          "name": "El Dipy",
-          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
-        },
-        {
-          "name": "Los Turros",
-          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
-        }
-      ],
-      "duration_ms": 275200,
-      "name": "Lejos de Ti",
-      "url": "https://open.spotify.com/track/5pvUrWYANWIKQYz89fwFJ1"
-    },
-    {
-      "added_at": "2024-02-23 03:00:00",
-      "album": {
         "name": "Parulo",
         "url": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
       },
@@ -1899,26 +1879,22 @@
     {
       "added_at": "2024-02-23 03:00:00",
       "album": {
-        "name": "LOGI",
-        "url": "https://open.spotify.com/album/273WUOLBoPxnNIPld4cmkA"
+        "name": "Close de Ort!",
+        "url": "https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f"
       },
       "artists": [
         {
-          "name": "Perro Primo",
-          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+          "name": "El Dipy",
+          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
         },
         {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "Homer El Mero Mero",
-          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+          "name": "Los Turros",
+          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
         }
       ],
-      "duration_ms": 234000,
-      "name": "LOGI",
-      "url": "https://open.spotify.com/track/539LAQobYbCmWNyEhy1ywq"
+      "duration_ms": 275200,
+      "name": "Lejos de Ti",
+      "url": "https://open.spotify.com/track/5pvUrWYANWIKQYz89fwFJ1"
     },
     {
       "added_at": "2024-02-23 03:00:00",
@@ -1943,6 +1919,30 @@
       "duration_ms": 239036,
       "name": "Mujer yo te amo - Remix",
       "url": "https://open.spotify.com/track/6lZVRLyjzx6SbBMbyMv5I4"
+    },
+    {
+      "added_at": "2024-02-23 03:00:00",
+      "album": {
+        "name": "LOGI",
+        "url": "https://open.spotify.com/album/273WUOLBoPxnNIPld4cmkA"
+      },
+      "artists": [
+        {
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "LOGI",
+      "url": "https://open.spotify.com/track/539LAQobYbCmWNyEhy1ywq"
     },
     {
       "added_at": "2024-02-23 03:00:00",
@@ -2179,6 +2179,22 @@
     {
       "added_at": "2024-02-23 03:00:00",
       "album": {
+        "name": "Alta Gira",
+        "url": "https://open.spotify.com/album/1tlUQn78wbsFerurcSe8Hy"
+      },
+      "artists": [
+        {
+          "name": "Los Gedes",
+          "url": "https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf"
+        }
+      ],
+      "duration_ms": 247144,
+      "name": "Vos de Bebe",
+      "url": "https://open.spotify.com/track/2mVBkHUzTGdHZsZ90F77bF"
+    },
+    {
+      "added_at": "2024-02-23 03:00:00",
+      "album": {
         "name": "Los Dos Fallamos",
         "url": "https://open.spotify.com/album/0oMFwEMTOKAE1RdDh3bKqz"
       },
@@ -2195,22 +2211,6 @@
       "duration_ms": 160988,
       "name": "Los Dos Fallamos",
       "url": "https://open.spotify.com/track/54cM6oKMmHbhrzTV6Qj0KQ"
-    },
-    {
-      "added_at": "2024-02-23 03:00:00",
-      "album": {
-        "name": "Alta Gira",
-        "url": "https://open.spotify.com/album/1tlUQn78wbsFerurcSe8Hy"
-      },
-      "artists": [
-        {
-          "name": "Los Gedes",
-          "url": "https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf"
-        }
-      ],
-      "duration_ms": 247144,
-      "name": "Vos de Bebe",
-      "url": "https://open.spotify.com/track/2mVBkHUzTGdHZsZ90F77bF"
     },
     {
       "added_at": "2024-02-23 03:00:00",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2024-02-23 03:00:00",
       "album": {
-        "name": "Podran Imitarnos, Jam\u00e1s Igualarnos",
-        "url": "https://open.spotify.com/album/6219k00SRfp4PcsgTv2BCX"
-      },
-      "artists": [
-        {
-          "name": "Supermerk2",
-          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
-        }
-      ],
-      "duration_ms": 170319,
-      "name": "El Fog\u00f3n",
-      "url": "https://open.spotify.com/track/3y8Pe96NSEaReDgrRYPSaO"
-    },
-    {
-      "added_at": "2024-02-23 03:00:00",
-      "album": {
         "name": "El Barrio",
         "url": "https://open.spotify.com/album/74nNhOfUeGDK98WrqaOlGd"
       },
@@ -2319,6 +2303,22 @@
       "duration_ms": 158145,
       "name": "No Te Aguanto M\u00e1s",
       "url": "https://open.spotify.com/track/4f8bTxlLhCK8DgpLrdVGfF"
+    },
+    {
+      "added_at": "2024-02-23 03:00:00",
+      "album": {
+        "name": "Podran Imitarnos, Jam\u00e1s Igualarnos",
+        "url": "https://open.spotify.com/album/6219k00SRfp4PcsgTv2BCX"
+      },
+      "artists": [
+        {
+          "name": "Supermerk2",
+          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
+        }
+      ],
+      "duration_ms": 170319,
+      "name": "El Fog\u00f3n",
+      "url": "https://open.spotify.com/track/3y8Pe96NSEaReDgrRYPSaO"
     },
     {
       "added_at": "2024-02-23 03:00:00",

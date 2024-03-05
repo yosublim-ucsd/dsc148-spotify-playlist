@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 
 > Rock independiente, pop alternativo y golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,801 likes - 90 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,810 likes - 90 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,15 +16,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 | 6 | [Máquina del Tiempo](https://open.spotify.com/track/4WSXSCey336mwrz9e9qt1E) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [La Danza de los Principiantes](https://open.spotify.com/album/1X4eZWyp8zYdzdK1W2aPN1) | 4:23 |
 | 7 | [Trampas](https://open.spotify.com/track/5IxfOWrIQmioHViXiRq6Bv) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 3:08 |
 | 8 | [La Montaña](https://open.spotify.com/track/2exvnYffejv4xKrafboFq1) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [La Montaña](https://open.spotify.com/album/1kJEPy20AkL9lccVH8oTpC) | 5:03 |
-| 9 | [Las Flores Sangran](https://open.spotify.com/track/2sg8oaHUISzxswco8S5yZU) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Las Flores Sangran](https://open.spotify.com/album/5qUgzq7T3JlqS8EStNt6GV) | 3:18 |
-| 10 | [Pagando de Más](https://open.spotify.com/track/4BMyL8QxN9W5jE4ia12l2G) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Barato Ideal](https://open.spotify.com/album/3vHJZa6kVgGjot5mgsjOUg) | 2:51 |
-| 11 | [Cangrejal](https://open.spotify.com/track/4DNSjR34NzyowHIiNBpdrr) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Vamos a Destruir](https://open.spotify.com/album/0D04Gwef4aeN5bEGzsvenm) | 4:10 |
-| 12 | [Sole](https://open.spotify.com/track/5CZQ77K8uZ6N2uEIUVY8fx) | [boom boom kid](https://open.spotify.com/artist/2h2frsYL6pssri5AZdlMUU) | [Sole](https://open.spotify.com/album/3lQsuXtmeNGhWxezsxSbBR) | 4:03 |
+| 9 | [Pagando de Más](https://open.spotify.com/track/4BMyL8QxN9W5jE4ia12l2G) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Barato Ideal](https://open.spotify.com/album/3vHJZa6kVgGjot5mgsjOUg) | 2:51 |
+| 10 | [Cangrejal](https://open.spotify.com/track/4DNSjR34NzyowHIiNBpdrr) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Vamos a Destruir](https://open.spotify.com/album/0D04Gwef4aeN5bEGzsvenm) | 4:10 |
+| 11 | [Sole](https://open.spotify.com/track/5CZQ77K8uZ6N2uEIUVY8fx) | [boom boom kid](https://open.spotify.com/artist/2h2frsYL6pssri5AZdlMUU) | [Sole](https://open.spotify.com/album/3lQsuXtmeNGhWxezsxSbBR) | 4:03 |
+| 12 | [Las Flores Sangran](https://open.spotify.com/track/2sg8oaHUISzxswco8S5yZU) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Las Flores Sangran](https://open.spotify.com/album/5qUgzq7T3JlqS8EStNt6GV) | 3:18 |
 | 13 | [Claro Ma](https://open.spotify.com/track/5CNOgr8gVOGIpFNKIG5NRX) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Mojigata](https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS) | 3:02 |
 | 14 | [El Tiempo](https://open.spotify.com/track/6vUWrdWq0oCNuSVuvkWSO0) | [Perras on the beach](https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3) | [El Tiempo](https://open.spotify.com/album/4x58tGZD6fe6qKQiQPacK7) | 3:56 |
-| 15 | [Perla](https://open.spotify.com/track/73A39Bh59zZbSuYxsKduVk) | [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [Ahora](https://open.spotify.com/album/1MO1AHHmmTcd3LY40a15Xs) | 3:26 |
-| 16 | [Arariyo](https://open.spotify.com/track/14WX41twek7T3yKsLUA6JN) | [Eté & Los Problems](https://open.spotify.com/artist/708Cl7fLtLt0QkD1sFOTZk) | [Arariyo](https://open.spotify.com/album/6r3fduiWdDrWIvjdpewheP) | 4:30 |
-| 17 | [Semillas de Luz](https://open.spotify.com/track/2ARsdraBKtezi5UBCmzXnW) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Caldero](https://open.spotify.com/album/0WD2XbzYbyiWWhOzTtzmW8) | 4:11 |
+| 15 | [Semillas de Luz](https://open.spotify.com/track/2ARsdraBKtezi5UBCmzXnW) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Caldero](https://open.spotify.com/album/0WD2XbzYbyiWWhOzTtzmW8) | 4:11 |
+| 16 | [Perla](https://open.spotify.com/track/73A39Bh59zZbSuYxsKduVk) | [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [Ahora](https://open.spotify.com/album/1MO1AHHmmTcd3LY40a15Xs) | 3:26 |
+| 17 | [Arariyo](https://open.spotify.com/track/14WX41twek7T3yKsLUA6JN) | [Eté & Los Problems](https://open.spotify.com/artist/708Cl7fLtLt0QkD1sFOTZk) | [Arariyo](https://open.spotify.com/album/6r3fduiWdDrWIvjdpewheP) | 4:30 |
 | 18 | [Boca Seca](https://open.spotify.com/track/7IunvqW7OiT60hZBxcuTaQ) | [Pow](https://open.spotify.com/artist/2dSudyzJnqfrIA4ymWjNqB) | [Boca Seca](https://open.spotify.com/album/5IjUVrNB5VrrI9aa5jLLqn) | 1:47 |
 | 19 | [Una Propuesta](https://open.spotify.com/track/6to1I40BuW2fNRIustdnKa) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Una Propuesta](https://open.spotify.com/album/4h2KVzlBshF1hmiHNSgxPL) | 3:15 |
 | 20 | [Olas Negras](https://open.spotify.com/track/51JSkV0wKdoFYR8Cn2PBjT) | [Onda Vaga](https://open.spotify.com/artist/3cBb4A9AZeZhcq781P3wCZ) | [Rojo](https://open.spotify.com/album/0cZEg5Ydxxr2bea2LRY3tu) | 3:16 |
@@ -50,11 +50,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 | 40 | [CABEZAS DEL TIEMPO](https://open.spotify.com/track/4FjmttGB9sxrxY3UY0gDG9) | [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ), [Tomy Sainz](https://open.spotify.com/artist/07mfD3Txop0KJIEHoQRFZZ) | [333](https://open.spotify.com/album/7wepZzZxhVV8M5eM9u8StC) | 3:12 |
 | 41 | [Mariposas](https://open.spotify.com/track/0sINp2DnE4lC3LXVP3U7OD) | [Echega](https://open.spotify.com/artist/2Li2QjHBJr15McMHdQSPJc), [Mariana Päraway](https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja) | [Mariposas](https://open.spotify.com/album/0jt2HG9su1FciUJ2BgBJ30) | 3:12 |
 | 42 | [Corriendo](https://open.spotify.com/track/4RKs3I15fRANzpyAr36zfx) | [TELESCOPIOS](https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG) | [Corriendo](https://open.spotify.com/album/5U18YE0iw5uEiTB8OorYLb) | 2:39 |
-| 43 | [Mala Influencia](https://open.spotify.com/track/0l9VKy6AbaCk2mfvD85reL) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS), [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Mala Influencia](https://open.spotify.com/album/5cLzpXDcunNag0msGWI67P) | 2:13 |
-| 44 | [Humo y Menta](https://open.spotify.com/track/7EMBexYQA1lrH1DhoQSnrP) | [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u), [Charlie Desidney](https://open.spotify.com/artist/3917O9DQNLgjxTSYOly6Uu) | [Humo y Menta](https://open.spotify.com/album/6OBbs5S884aHFo58MDOUsZ) | 3:03 |
-| 45 | [800 Vueltas Envolventes](https://open.spotify.com/track/7zG3NeQXpREreAzY1jM0I7) | [Juan Mango](https://open.spotify.com/artist/6a1LEawOSKjIoixesjSI0I) | [Ochocientos Envolventes al Sol](https://open.spotify.com/album/0cX5CB6zbNgLsmNMZqX8po) | 4:10 |
-| 46 | [Vamos a destruir](https://open.spotify.com/track/4weHbH9867dP8O8IkQfywd) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Vamos a destruir](https://open.spotify.com/album/1S92pCSLfw4Fbh6I6VCrFV) | 3:41 |
-| 47 | [Entre Líneas](https://open.spotify.com/track/3jPgaRBb1VXKr3nt4pLvFp) | [Cerro Dublín](https://open.spotify.com/artist/1ZOH6fmb1eW0dHZgLCGui7) | [Entre Líneas](https://open.spotify.com/album/1bABFsJ5fcgwxnaimzmJxe) | 3:16 |
+| 43 | [Humo y Menta](https://open.spotify.com/track/7EMBexYQA1lrH1DhoQSnrP) | [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u), [Charlie Desidney](https://open.spotify.com/artist/3917O9DQNLgjxTSYOly6Uu) | [Humo y Menta](https://open.spotify.com/album/6OBbs5S884aHFo58MDOUsZ) | 3:03 |
+| 44 | [800 Vueltas Envolventes](https://open.spotify.com/track/7zG3NeQXpREreAzY1jM0I7) | [Juan Mango](https://open.spotify.com/artist/6a1LEawOSKjIoixesjSI0I) | [Ochocientos Envolventes al Sol](https://open.spotify.com/album/0cX5CB6zbNgLsmNMZqX8po) | 4:10 |
+| 45 | [Vamos a destruir](https://open.spotify.com/track/4weHbH9867dP8O8IkQfywd) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Vamos a destruir](https://open.spotify.com/album/1S92pCSLfw4Fbh6I6VCrFV) | 3:41 |
+| 46 | [Entre Líneas](https://open.spotify.com/track/3jPgaRBb1VXKr3nt4pLvFp) | [Cerro Dublín](https://open.spotify.com/artist/1ZOH6fmb1eW0dHZgLCGui7) | [Entre Líneas](https://open.spotify.com/album/1bABFsJ5fcgwxnaimzmJxe) | 3:16 |
+| 47 | [Mala Influencia](https://open.spotify.com/track/0l9VKy6AbaCk2mfvD85reL) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS), [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Mala Influencia](https://open.spotify.com/album/5cLzpXDcunNag0msGWI67P) | 2:13 |
 | 48 | [Frutillas con Crema](https://open.spotify.com/track/5DTDzZkWhNVBs30SR2C4dX) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0) | [Frutillas con Crema](https://open.spotify.com/album/01kd8mR6HRA6AxvvyXQ8i1) | 2:42 |
 | 49 | [Polvo](https://open.spotify.com/track/1qvKGVivhRg6Mmw1ARSFF7) | [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Polvo](https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY) | 3:56 |
 | 50 | [Canciones de Amor](https://open.spotify.com/track/1RjmeNxL0KNM0KTH8aySAO) | [Lesbiandrama](https://open.spotify.com/artist/0LZwj8XbxIwTjaDX478RXl), [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Canciones de Amor](https://open.spotify.com/album/1xyRm4Ti9USkm9sVTwVfXU) | 3:14 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 | 89 | [Habladurías](https://open.spotify.com/track/2NrbopmQukNS8fOp5n8QkO) | [Ficción](https://open.spotify.com/artist/2JpGzW7UoWhl2OSlSM2GJD) | [Habladurías](https://open.spotify.com/album/2mPMj1gsZUH85grueUV75W) | 3:09 |
 | 90 | [Subiendo](https://open.spotify.com/track/2kGHeQIYbEStvCA64yKauG) | [Koyi](https://open.spotify.com/artist/26kdmWEHUotjdBzNWJv5JD) | [Subiendo](https://open.spotify.com/album/0zdCOOgW9DBNKJ1tuIiIjb) | 3:01 |
 
-Snapshot ID: `MCw3MzhjODgxMzVlNjM1MGYwMzgxNWEyN2YwOGYxMjRlMzk5M2FmODc0`
+Snapshot ID: `MCxlOWE3MTZhMjBjNjYxOWY3NDhhMzgzNmM1YjRlODYzYzkzZDIwZWE1`

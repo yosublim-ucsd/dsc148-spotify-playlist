@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 539036,
+  "2024-03-05": 539062,
   "date_first_scraped": "2023-07-22",
   "description": "nothing but bangers to help you with the grind ",
   "name": "Homework motivation",
@@ -2835,7 +2835,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 164131,
       "name": "My Bed",
       "url": "https://open.spotify.com/track/7BZ2xgtqnvle8d5EiR3xcy"
@@ -2991,6 +2991,24 @@
       "duration_ms": 222786,
       "name": "No Promises (feat. Demi Lovato)",
       "url": "https://open.spotify.com/track/5lNuqFVMca4vPupY10cH0J"
+    },
+    {
+      "album": {
+        "name": "Not The 1975",
+        "url": "https://open.spotify.com/album/1HVxIc8XOtdFhuIQZdTPx9"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198022,
+      "name": "Not The 1975",
+      "url": "https://open.spotify.com/track/0tireFhMGfLWtbelX0EBqd"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V?si=oRbONBJKT4CS5LWEmKqKQA">KiDi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,500 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,533 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 49 | [Narcos](https://open.spotify.com/track/0bXnjLwjvFJqQE1MB4Wd1M) | [DJ Kwamzy](https://open.spotify.com/artist/3hiqYAXIosBBDG9Uqxt37h), [J Slayz](https://open.spotify.com/artist/0NV4GLGLjuLWL7Il9IOOdj) | [Narcos](https://open.spotify.com/album/1QhZ3sBP8SEGIcYcO5Af5C) | 8:00 |
 | 50 | [Kool Sana](https://open.spotify.com/track/0OPojykcf3Ob8loFvWPcTe) | [Flomine](https://open.spotify.com/artist/4ftrhn6reSyzhgXgCYb9qs), [L5VAV](https://open.spotify.com/artist/7iriVfN6kftRpKDqdm492u) | [Kool Sana](https://open.spotify.com/album/7mrv6lThitzSW3QQ5ABEnh) | 2:42 |
 
-Snapshot ID: `MCw2NzllZmE4YTQ5OTBhNWE0MmE0NTA5YzljNDU2ZmZhNjRlMjk1YmU4`
+Snapshot ID: `MCwxNDEyMzc4N2MwMDE0Y2IzZDBmODBkMTMyNTgxYjY4ZjI1MjQyNmY0`

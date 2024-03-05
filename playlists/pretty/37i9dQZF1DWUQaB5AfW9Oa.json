@@ -1,12 +1,12 @@
 {
   "description": "Soul classics to keep you company in the kitchen.",
-  "num_followers": 36900,
+  "num_followers": 36919,
   "original_name": "Cooking with Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzllZTU1MTI0ZWY1NzFhNzFmMDcyYTg4ZjkxZjdhMzdiOTUzYjBk",
+  "snapshot_id": "MCw0Yjg5ZDgxMmYyYzI2YWI3OWYzMzI0ZWRjNmEyNDQ1NjQyOWY0MDZh",
   "tracks": [
     {
       "added_at": "2022-03-28 20:22:14",
@@ -139,6 +139,22 @@
     {
       "added_at": "2022-03-28 20:22:14",
       "album": {
+        "name": "Where Did Our Love Go",
+        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 158040,
+      "name": "Baby Love",
+      "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
+    },
+    {
+      "added_at": "2022-03-28 20:22:14",
+      "album": {
         "name": "Soul Men",
         "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 171026,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/1GY8zOFi8rC39xXnD0tKO8"
-    },
-    {
-      "added_at": "2022-03-28 20:22:14",
-      "album": {
-        "name": "Where Did Our Love Go",
-        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 158040,
-      "name": "Baby Love",
-      "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
     },
     {
       "added_at": "2022-03-28 20:22:14",

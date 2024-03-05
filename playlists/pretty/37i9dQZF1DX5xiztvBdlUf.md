@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 
 > Deep House in all its shapes and colours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 621,795 likes - 80 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 621,945 likes - 80 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 50 | [I WON'T STAY](https://open.spotify.com/track/16Xp4KpTyFJc4jKXpNFFyE) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [I WON'T STAY](https://open.spotify.com/album/1zwBTT49NegfvTuQ2k883O) | 4:46 |
 | 51 | [Be Here and Now](https://open.spotify.com/track/3uvfxpOixHqWdwpFfJb48F) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Be Here and Now](https://open.spotify.com/album/3pcwig8qvCceUoeo4xhLD7) | 3:29 |
 | 52 | [Cold Shoulder \- Helsloot Remix](https://open.spotify.com/track/2Y9yBWz14WmHO8xrCZUORP) | [Words of Niō](https://open.spotify.com/artist/7c3dmSLhJKpO6UQLWYJdPq), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Cold Shoulder \(Helsloot Remix\)](https://open.spotify.com/album/4qInKgA6JFPScaE58BR7st) | 4:06 |
-| 53 | [Petit Matin](https://open.spotify.com/track/0MOwzHYBsXeVkb98ewMMZP) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Petit Matin](https://open.spotify.com/album/0P57bvDYTfxQt9V4ChSvDi) | 7:27 |
-| 54 | [Far Behind](https://open.spotify.com/track/03nv4DOcmJMYdlJuKEO2x8) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Far Behind](https://open.spotify.com/album/3k2AgNEkdykDDtt24qH9qP) | 3:54 |
-| 55 | [Copal \- Super Flu Remix](https://open.spotify.com/track/2Eu5IxBvLxCd1HFVR4JbR4) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Made of Wood Remixed](https://open.spotify.com/album/17vbriNfPim1tG9mGO6GGA) | 6:37 |
-| 56 | [Sign of the Times](https://open.spotify.com/track/2UOtnKZNppcZ5dC8v2FS41) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Sign of the Times](https://open.spotify.com/album/0nHKigA43sDSCs38xf1tnB) | 3:13 |
+| 53 | [Sign of the Times](https://open.spotify.com/track/2UOtnKZNppcZ5dC8v2FS41) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Sign of the Times](https://open.spotify.com/album/0nHKigA43sDSCs38xf1tnB) | 3:13 |
+| 54 | [Petit Matin](https://open.spotify.com/track/0MOwzHYBsXeVkb98ewMMZP) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Petit Matin](https://open.spotify.com/album/0P57bvDYTfxQt9V4ChSvDi) | 7:27 |
+| 55 | [Far Behind](https://open.spotify.com/track/03nv4DOcmJMYdlJuKEO2x8) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Far Behind](https://open.spotify.com/album/3k2AgNEkdykDDtt24qH9qP) | 3:54 |
+| 56 | [Copal \- Super Flu Remix](https://open.spotify.com/track/2Eu5IxBvLxCd1HFVR4JbR4) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Made of Wood Remixed](https://open.spotify.com/album/17vbriNfPim1tG9mGO6GGA) | 6:37 |
 | 57 | [Estación Esperanza](https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Estación Esperanza](https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ) | 5:16 |
 | 58 | [Kilian](https://open.spotify.com/track/3q0bx1u5sP4KYE3XldP0PP) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Kilian](https://open.spotify.com/album/6Yxa8CBEMR8SQfeBxgObf3) | 7:00 |
 | 59 | [NOSTALGIA\*](https://open.spotify.com/track/4AFWYfIxLAiEL3G3KwEhQR) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [NOSTALGIA\*](https://open.spotify.com/album/5SSB8c7AeeF66wKMJ7cUBl) | 2:25 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 79 | [Roads Of Gold \- Edit](https://open.spotify.com/track/1M1g0SAJavX4mMLqEqKTDn) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Redward Martin](https://open.spotify.com/artist/2WnWBVe8DzF0qpstAxddn2) | [Roads Of Gold](https://open.spotify.com/album/5j2ZsWodikhixJNHhUCGKq) | 5:10 |
 | 80 | [Restless](https://open.spotify.com/track/0xQCYPOdNabGkm4pEBn0Nb) | [ASHER SWISSA](https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM), [Ahmet Kilic](https://open.spotify.com/artist/5OyOddK42Hm0pENFDWxn39), [Lynn](https://open.spotify.com/artist/7nzbcK2bzEtoMgTQAwHQVl) | [Restless & Wild](https://open.spotify.com/album/47XQrAPZL4Ez2RGs3nkXHX) | 6:43 |
 
-Snapshot ID: `MCwzY2Y3OGI3ODM3N2ZjZThkZmRmMGY2NTI4MTg5NTYxMTViNmEwZWMz`
+Snapshot ID: `MCxkZjZiZjIyZjU3YTYyNTI4OGVjYTZiODQyZWEzNjYwMjZkMjJkMTRl`

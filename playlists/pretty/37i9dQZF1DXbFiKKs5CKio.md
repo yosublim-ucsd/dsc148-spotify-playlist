@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,510 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,539 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 18 | [Aeroporto](https://open.spotify.com/track/1GHgaj9wk3SjRwmwr1fReW) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Aeroporto](https://open.spotify.com/album/5Iz6x9d8U6UNsM4T7wfQzq) | 3:29 |
 | 19 | [Me Faz Sentir](https://open.spotify.com/track/1wBQy5qESa8KhMMAWmJAOh) | [Aya](https://open.spotify.com/artist/1TkGUsWOcpAEpnhoOZ4kDm), [Dj Will](https://open.spotify.com/artist/0AMRCdhTSFfEFiu4UgOCwX), [Diego Amani](https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu) | [Me Faz Sentir](https://open.spotify.com/album/2Bpby9CAKbp5H9aSndSTs2) | 3:51 |
 | 20 | [Pânico](https://open.spotify.com/track/6XqlM74zaJcniZAFLPDUYx) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Pânico](https://open.spotify.com/album/2PuVe8oGQB0VagYiO68qg5) | 3:03 |
-| 21 | [Se Foi](https://open.spotify.com/track/4vmSWLtbmDu1jGG13EeCis) | [Leo Gandelman](https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW), [Machine Series](https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG), [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Hip Hop Machine \#18](https://open.spotify.com/album/0piuFU4SnOxlIQ6izGufoS) | 5:57 |
-| 22 | [Índigo \(Te Venero\)](https://open.spotify.com/track/3AV0jc5PIqCHIjxeGsojhO) | [Aydan](https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU) | [Índigo \(Te Venero\)](https://open.spotify.com/album/31GNuBi7EX93NbUToTnnlQ) | 3:14 |
-| 23 | [Doses](https://open.spotify.com/track/2hNimeRJSfXUunq4gEsQGa) | [Kanda Ent](https://open.spotify.com/artist/64cxiqdS6yO0t11U99Lpze), [Diego Amani](https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu) | [Ouroboros](https://open.spotify.com/album/32oVldbmEaDm7yGBqlqtLU) | 2:32 |
-| 24 | [Pulando](https://open.spotify.com/track/4zEKANXr86uqH5tPyhGSnT) | [Kélanie](https://open.spotify.com/artist/6B62E3pQWPaGQsS8YWQl3c) | [Pulando](https://open.spotify.com/album/1Q6GcZEN6IU3l0j8b49CrN) | 2:44 |
+| 21 | [Índigo \(Te Venero\)](https://open.spotify.com/track/3AV0jc5PIqCHIjxeGsojhO) | [Aydan](https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU) | [Índigo \(Te Venero\)](https://open.spotify.com/album/31GNuBi7EX93NbUToTnnlQ) | 3:14 |
+| 22 | [Doses](https://open.spotify.com/track/2hNimeRJSfXUunq4gEsQGa) | [Kanda Ent](https://open.spotify.com/artist/64cxiqdS6yO0t11U99Lpze), [Diego Amani](https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu) | [Ouroboros](https://open.spotify.com/album/32oVldbmEaDm7yGBqlqtLU) | 2:32 |
+| 23 | [Pulando](https://open.spotify.com/track/4zEKANXr86uqH5tPyhGSnT) | [Kélanie](https://open.spotify.com/artist/6B62E3pQWPaGQsS8YWQl3c) | [Pulando](https://open.spotify.com/album/1Q6GcZEN6IU3l0j8b49CrN) | 2:44 |
+| 24 | [Se Foi](https://open.spotify.com/track/4vmSWLtbmDu1jGG13EeCis) | [Leo Gandelman](https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW), [Machine Series](https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG), [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Hip Hop Machine \#18](https://open.spotify.com/album/0piuFU4SnOxlIQ6izGufoS) | 5:57 |
 | 25 | [Ondina](https://open.spotify.com/track/2SahXyHV5pmsJD94jzmQ9n) | [Jadidi](https://open.spotify.com/artist/7yPkvzo4E7WYddcfECrK7f) | [Ondina](https://open.spotify.com/album/4Qoxe36lExqIFHvtVkFASK) | 4:04 |
 | 26 | [SHAWTY](https://open.spotify.com/track/27WkGbGW5pZ03Gm8Ly4r4b) | [Diego Amani](https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu) | [SHAWTY](https://open.spotify.com/album/3iXjMKLo5yW4siR1I69G5k) | 2:53 |
 | 27 | [Noite em Febre](https://open.spotify.com/track/46T1WRW3KTm0kReMW0cCJZ) | [Sarah Soul](https://open.spotify.com/artist/1V1MSClQaA45C4QG3my6Xv), [Carol Terra](https://open.spotify.com/artist/322TdXC5aJjj4jFTtmFiJp) | [Correria](https://open.spotify.com/album/6IapQS07s6lMRIX0MTMEjQ) | 2:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 49 | [PORTAIS](https://open.spotify.com/track/2XzZ08u2wNL6TjTWGKa70q) | [2:22](https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4), [Amanda Magno](https://open.spotify.com/artist/3oJrSk88w8dtDFRKjcMH0R) | [30ºC](https://open.spotify.com/album/2iDk6lzRhjYuJNt8sKO0yE) | 2:40 |
 | 50 | [Flor](https://open.spotify.com/track/6rJv6Yb3XR9JLSjaCIFxbK) | [DROKI](https://open.spotify.com/artist/3XQEA55qckI5NVM65Dq2Op) | [Flor](https://open.spotify.com/album/5uNnbYqGQfKjc4dYlOrQ5N) | 2:34 |
 
-Snapshot ID: `MCwyY2Y1MjQxN2JkMzRiNGUwNjYzMzQ4MzYwYjBlZGYwNWZkOGRjNWEz`
+Snapshot ID: `MCxlZjFjYzUzMmQ5NzAzNmVjNmM4OTJjNzY1YmEzMGY1ZmRmZDU3Y2Q5`

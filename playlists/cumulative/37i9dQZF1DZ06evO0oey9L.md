@@ -4,7 +4,7 @@
 
 > This is El de La Guitarra\. The essential tracks, all in one playlist.
 
-95 songs - 4 hr 46 min
+96 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Lo Que Me Distingue](https://open.spotify.com/track/2evqVdCxI2wKa5G0fjnEgB) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.2](https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS) | 3:16 | 2022-06-01 |  |
 | [Loco Malandro](https://open.spotify.com/track/0idKybdhXgh5O94UhJCufA) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Loco Malandro](https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ) | 2:41 | 2022-06-01 |  |
 | [Me Prendo Un Gallito](https://open.spotify.com/track/5VE64Tvg3eS8eBhL1kKMqH) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.4\)](https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71) | 3:08 | 2023-10-01 |  |
-| [Me Pueden Juzgar](https://open.spotify.com/track/1jtw4JaOsoFCWflmycd1fD) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Me Pueden Juzgar](https://open.spotify.com/album/3QDHcul1zZ2aZZQo860HMI) | 3:37 | 2022-06-01 |  |
+| [Me Pueden Juzgar](https://open.spotify.com/track/1jtw4JaOsoFCWflmycd1fD) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Me Pueden Juzgar](https://open.spotify.com/album/3QDHcul1zZ2aZZQo860HMI) | 3:37 | 2022-06-01 | 2024-03-05 |
 | [Millonario y Me Retiro](https://open.spotify.com/track/5TS8Q5BGgq3PlqfySprCB4) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1) | 2:59 | 2022-08-10 | 2022-10-13 |
 | [Millonario y Me Retiro](https://open.spotify.com/track/6u9KQvTQBGQ6uQ5PbqPItd) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/7KlLuBZiwOzCTL7Q3J26cq) | 2:59 | 2022-07-26 | 2022-08-03 |
 | [Miran La Apariencia](https://open.spotify.com/track/3FhARguQQiWEunemrkl3Yh) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Con Los Pies En La Tierra Y La Mirada En El Cielo](https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T) | 3:16 | 2022-06-01 |  |
@@ -81,6 +81,7 @@
 | [Peter King Kong](https://open.spotify.com/track/3gv9PZLhs2c87MEcy6zOfu) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1) | 2:43 | 2022-08-12 | 2024-03-01 |
 | [Peter King Kong](https://open.spotify.com/track/4CJGVxXvB3PIqRgnmFBIo8) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/7KlLuBZiwOzCTL7Q3J26cq) | 2:43 | 2022-07-23 | 2022-08-13 |
 | [Polvo De Angel](https://open.spotify.com/track/0AprGMXtG62kJk1gMwnk4Q) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Polvo de Angel](https://open.spotify.com/album/0oFAjjQ2LwtJuO17g9YEvM) | 3:15 | 2022-06-01 | 2023-10-06 |
+| [Por Las Calles](https://open.spotify.com/track/4nGiX1q909OD6ewChFFiB1) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Dani G](https://open.spotify.com/artist/5VF5P0WpOEvfNmSVYRaSqq) | [Por Las Calles](https://open.spotify.com/album/4sqxfNeqy1wpAJgk8Xuz1e) | 2:29 | 2024-03-04 |  |
 | [Que Linda Se Le Ve](https://open.spotify.com/track/2OqxU44QdNmVanpNxqHBbe) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Que Linda Se Le Ve](https://open.spotify.com/album/7Jjms4SHlgcXgiK9aZKO2O) | 3:12 | 2023-09-25 | 2023-12-14 |
 | [Que Linda Se Le Ve](https://open.spotify.com/track/4M2GA9Lb86oxivtlSfiAx9) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.4\)](https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71) | 3:12 | 2023-12-13 |  |
 | [Que Me Va Mal](https://open.spotify.com/track/0fvu7lFdHrY4JTENYgSeoK) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 3:05 | 2022-06-01 |  |

@@ -2,7 +2,7 @@
 
 ### [Génération Rock Français](https://open.spotify.com/playlist/37i9dQZF1DX2xKCIjknUoQ)
 
-> Le meilleur du rock français moderne\. Photo : Skip The Use
+> Le meilleur du rock français moderne\. Photo : Shaka Ponk
 
 54 songs - 3 hr 13 min
 

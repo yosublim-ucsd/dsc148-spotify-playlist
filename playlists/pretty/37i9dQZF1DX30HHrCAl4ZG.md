@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from STRFKR
 
-[Spotify](https://open.spotify.com/user/spotify) - 833,788 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 833,799 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,20 +30,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 20 | [Brown Paper Bag](https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Brown Paper Bag](https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY) | 4:25 |
 | 21 | [Murder on the Dance Floor \- triple j Like A Version](https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Murder on the Dancefloor \(triple j Like A Version\)](https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP) | 3:00 |
 | 22 | [Mother Nature](https://open.spotify.com/track/3kC6EmjBbLcnv1aAsAEGPP) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Mother Nature](https://open.spotify.com/album/0wnCqHJiAp8c2XWK0yuFA1) | 3:56 |
-| 23 | [Foam](https://open.spotify.com/track/4lfuRRTLD4UFkSVVArVVaK) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa) | 3:05 |
-| 24 | [Collateral Damage](https://open.spotify.com/track/32G0XbpBnYGUhUdkOp8tJh) | [Kristiane](https://open.spotify.com/artist/2DBFAP6nXms5yPochyh2sZ) | [Collateral Damage](https://open.spotify.com/album/2HF8zmOrCOTGqQCbR4dJ8D) | 2:50 |
-| 25 | [Missing Out](https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Missing Out](https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH) | 3:37 |
-| 26 | [MONKI](https://open.spotify.com/track/30eZI7pnpdWKgk1UmUAxoF) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [MONKI](https://open.spotify.com/album/25qSW0rOBp95ioiWhiAlTm) | 2:44 |
-| 27 | [All the Same](https://open.spotify.com/track/2OPoTZy4WtLZeBuJpwmqh4) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [All the Same](https://open.spotify.com/album/0S2YEpV52VFK78Gq1ynuz2) | 5:36 |
-| 28 | [Weird](https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC) | [Hana Eid](https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr) | [Weird](https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk) | 3:36 |
-| 29 | [Brain Damage](https://open.spotify.com/track/0HKnAO33C9ScjOzTZzqEVb) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [Brain Damage](https://open.spotify.com/album/6mOOrpYBo204Mkki7UadkF) | 3:13 |
-| 30 | [Get Numb To It!](https://open.spotify.com/track/0ra240JuO5Hu2qgHnLl3FB) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Where we've been, Where we go from here](https://open.spotify.com/album/2ci8WTUkswu4PgtLVPJFeU) | 4:52 |
-| 31 | [Bored](https://open.spotify.com/track/7HyJAC5Z0JDS7rq7gbK7EW) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Bored](https://open.spotify.com/album/5hkpKoYQ8CE93Uv9zbHXFf) | 2:55 |
-| 32 | [Give It Back to Me](https://open.spotify.com/track/5XdQJhxNoH6XCKMqjp8ibG) | [Francis of Delirium](https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif) | [Give It Back to Me](https://open.spotify.com/album/0YRdgQKM1I5xEThuYDMPq0) | 4:22 |
-| 33 | [Common Blue](https://open.spotify.com/track/4ywML3rFjamKeKg1GE689X) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Common Blue](https://open.spotify.com/album/2eA9i4PruYA1J16gpAFgra) | 3:51 |
-| 34 | [Feeling Grey](https://open.spotify.com/track/5DaqBBrzz9cenJsBACDz2S) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [i'll remember you for the same feeling you gave me as i slept](https://open.spotify.com/album/300GyQbkryd3NF4gAngXZm) | 4:32 |
-| 35 | [The Feminine Urge](https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/6ltU3hJQLHM29KJkEfBiwT) | 3:26 |
-| 36 | [I'm in Love](https://open.spotify.com/track/1dIFbYpiDnHMz5JPGuNAV1) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [I'm in Love](https://open.spotify.com/album/19QjNvVQ9PQA5h3jemnLeH) | 3:16 |
+| 23 | [Collateral Damage](https://open.spotify.com/track/32G0XbpBnYGUhUdkOp8tJh) | [Kristiane](https://open.spotify.com/artist/2DBFAP6nXms5yPochyh2sZ) | [Collateral Damage](https://open.spotify.com/album/2HF8zmOrCOTGqQCbR4dJ8D) | 2:50 |
+| 24 | [Missing Out](https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Missing Out](https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH) | 3:37 |
+| 25 | [MONKI](https://open.spotify.com/track/30eZI7pnpdWKgk1UmUAxoF) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [MONKI](https://open.spotify.com/album/25qSW0rOBp95ioiWhiAlTm) | 2:44 |
+| 26 | [All the Same](https://open.spotify.com/track/2OPoTZy4WtLZeBuJpwmqh4) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [All the Same](https://open.spotify.com/album/0S2YEpV52VFK78Gq1ynuz2) | 5:36 |
+| 27 | [Weird](https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC) | [Hana Eid](https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr) | [Weird](https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk) | 3:36 |
+| 28 | [Brain Damage](https://open.spotify.com/track/0HKnAO33C9ScjOzTZzqEVb) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [Brain Damage](https://open.spotify.com/album/6mOOrpYBo204Mkki7UadkF) | 3:13 |
+| 29 | [Get Numb To It!](https://open.spotify.com/track/0ra240JuO5Hu2qgHnLl3FB) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Where we've been, Where we go from here](https://open.spotify.com/album/2ci8WTUkswu4PgtLVPJFeU) | 4:52 |
+| 30 | [Bored](https://open.spotify.com/track/7HyJAC5Z0JDS7rq7gbK7EW) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Bored](https://open.spotify.com/album/5hkpKoYQ8CE93Uv9zbHXFf) | 2:55 |
+| 31 | [Give It Back to Me](https://open.spotify.com/track/5XdQJhxNoH6XCKMqjp8ibG) | [Francis of Delirium](https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif) | [Give It Back to Me](https://open.spotify.com/album/0YRdgQKM1I5xEThuYDMPq0) | 4:22 |
+| 32 | [Common Blue](https://open.spotify.com/track/4ywML3rFjamKeKg1GE689X) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Common Blue](https://open.spotify.com/album/2eA9i4PruYA1J16gpAFgra) | 3:51 |
+| 33 | [Feeling Grey](https://open.spotify.com/track/5DaqBBrzz9cenJsBACDz2S) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [i'll remember you for the same feeling you gave me as i slept](https://open.spotify.com/album/300GyQbkryd3NF4gAngXZm) | 4:32 |
+| 34 | [The Feminine Urge](https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/6ltU3hJQLHM29KJkEfBiwT) | 3:26 |
+| 35 | [I'm in Love](https://open.spotify.com/track/1dIFbYpiDnHMz5JPGuNAV1) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [I'm in Love](https://open.spotify.com/album/19QjNvVQ9PQA5h3jemnLeH) | 3:16 |
+| 36 | [Foam](https://open.spotify.com/track/4lfuRRTLD4UFkSVVArVVaK) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa) | 3:05 |
 | 37 | [If I Could](https://open.spotify.com/track/2alNQB6dlVQdoNdUAVqPoy) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [If I Could](https://open.spotify.com/album/0CpMEOHxuYkOP3Z9TTsdqO) | 2:53 |
 | 38 | [Obsessive Thoughts](https://open.spotify.com/track/0lavlWToofi8DpSeC2DplP) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Weird Faith](https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv) | 3:19 |
 | 39 | [My Peace](https://open.spotify.com/track/4ftPxD0WFVI6VoySxh05Gd) | [Voxtrot](https://open.spotify.com/artist/7b697TI9p2abLzSo3eJTKW) | [My Peace](https://open.spotify.com/album/4MdYusrGiv5mLQ6ERXrPdv) | 3:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [Helmet](https://open.spotify.com/track/0DmkBOGgEWMbUJlL6VwwF2) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:21 |
 | 100 | [Call Me What You Like](https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Call Me What You Like](https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc) | 3:46 |
 
-Snapshot ID: `MCw0N2QyY2VjYzk3ZGU5MDYyZGRlMDhmYzRkOGFjYzZlYjEwY2JmNDdj`
+Snapshot ID: `MCw2YTRkZmJkNWIyMmRhNTNlMWFjOWFmYzI2ZDYyY2U3YTc5Nzg4ZDY0`

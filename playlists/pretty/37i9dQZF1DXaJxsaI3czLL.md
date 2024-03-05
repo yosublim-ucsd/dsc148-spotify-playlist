@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,693 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,723 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,29 +33,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 | 23 | [何もない日](https://open.spotify.com/track/6FCZwarxha0XHi78yj46SK) | [波のよう](https://open.spotify.com/artist/6NJMPhL4Va9u2RWjymGYhZ) | [何もない日](https://open.spotify.com/album/6O06OGRhVQc2toEcc4ifQC) | 3:54 |
 | 24 | [クロノスタシス](https://open.spotify.com/track/6Mavd9uk89Y9OTdvcDTfGG) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [フェイクワールドワンダーランド](https://open.spotify.com/album/13xXU66oGXokggAEHnUcfR) | 3:47 |
 | 25 | [キャンディ](https://open.spotify.com/track/5nP9OI4hFkkZ9WMEUeGNIB) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E), [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [Trio & Charm](https://open.spotify.com/album/3SiofApkAxUnDhpEFzLB87) | 3:46 |
-| 26 | [meringue doll](https://open.spotify.com/track/1iPAcVXxspQM3aP8f3JtBQ) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [meringue doll](https://open.spotify.com/album/7qeJaFdCP3hCLm2KFp96Ts) | 4:13 |
+| 26 | [眠れぬ夜は君のせい](https://open.spotify.com/track/3pIbaGD2BPo1DTUj8Ujlct) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [KISS IN THE SKY](https://open.spotify.com/album/7BMTvf0xLj0pnzG4FCvFUD) | 5:22 |
 | 27 | [眠れない夜に](https://open.spotify.com/track/1eBeSpdQRvARloHq0fTVzK) | [Sano ibuki](https://open.spotify.com/artist/5QTiwZndpc1mObGXkDKry3) | [眠れない夜に](https://open.spotify.com/album/5ra5TqcJsRzIgoGvtcAMvw) | 3:28 |
-| 28 | [眠れぬ夜は君のせい](https://open.spotify.com/track/3pIbaGD2BPo1DTUj8Ujlct) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [KISS IN THE SKY](https://open.spotify.com/album/7BMTvf0xLj0pnzG4FCvFUD) | 5:22 |
+| 28 | [meringue doll](https://open.spotify.com/track/1iPAcVXxspQM3aP8f3JtBQ) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [meringue doll](https://open.spotify.com/album/7qeJaFdCP3hCLm2KFp96Ts) | 4:13 |
 | 29 | [December](https://open.spotify.com/track/6OTYbrTn8BUb1WViI9HaAS) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [5am](https://open.spotify.com/album/1dLcTY0iMPyX7i6yrz5KjP) | 4:15 |
 | 30 | [Higashi Yoshino](https://open.spotify.com/track/5GbFjiN7n8UinsQG27YQVP) | [Oh Shu](https://open.spotify.com/artist/75XDEXxePvX7Hx4T3rUlVS), [Bioman](https://open.spotify.com/artist/5X9XmfNxSM6lP2QXQyYAWM) | [Villa Tereze](https://open.spotify.com/album/4OuUigPkJ1U6fB7k4X5GfV) | 1:18 |
 | 31 | [Grapefruit Moon](https://open.spotify.com/track/2PE3kNSKy56QkLZmO3Sb5w) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Two Moon](https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa) | 3:16 |
-| 32 | [Porcelain](https://open.spotify.com/track/1IEN6uB8gSG7DAoqZV8cNg) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Windswept Adan](https://open.spotify.com/album/0LxeUCxtPfUtnHTKbW52MB) | 4:29 |
+| 32 | [Sentimental](https://open.spotify.com/track/5zQraIoPAXGCBRx9spNtCn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Sentimental](https://open.spotify.com/album/7vcX2nndbcQzkpqJbatqM2) | 3:38 |
 | 33 | [夜の歯車](https://open.spotify.com/track/4qof5qVArYf5hD1cfIQAhu) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [劇場](https://open.spotify.com/album/2bazvx0V9FTIKmJ9biVQtc) | 5:53 |
-| 34 | [Sentimental](https://open.spotify.com/track/5zQraIoPAXGCBRx9spNtCn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Sentimental](https://open.spotify.com/album/7vcX2nndbcQzkpqJbatqM2) | 3:38 |
+| 34 | [心のそばに](https://open.spotify.com/track/3VXkaNgYFHOxbuOmKejypT) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [Belle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp) | 5:03 |
 | 35 | [bless](https://open.spotify.com/track/5jHrTGJQ7Nw7XDOfd5N4CF) | [Tainaka Sachi](https://open.spotify.com/artist/5rY2Eeg72edCtV9S35mAhY), [YUKA](https://open.spotify.com/artist/6lzdZtpppU6ERZwqfhq1NJ) | [bless](https://open.spotify.com/album/3R2OcOFPS54VirGmQaTB3D) | 5:11 |
-| 36 | [心のそばに](https://open.spotify.com/track/3VXkaNgYFHOxbuOmKejypT) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [Belle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp) | 5:03 |
+| 36 | [Porcelain](https://open.spotify.com/track/1IEN6uB8gSG7DAoqZV8cNg) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Windswept Adan](https://open.spotify.com/album/0LxeUCxtPfUtnHTKbW52MB) | 4:29 |
 | 37 | [Brilliant Blue Nemuru Song](https://open.spotify.com/track/1juCMseyk7vT9AZ8XsoaA0) | [ayaradio727](https://open.spotify.com/artist/6oDaogGBeKTfFX1sYjYI7y), [Like This Parade](https://open.spotify.com/artist/7d0aA6wBoiGPvDbso2Jb6o) | [Brilliant Blue Nemuru Diary](https://open.spotify.com/album/2Pd9XVDRZ71ngTjzqxlVQh) | 2:44 |
-| 38 | [hello](https://open.spotify.com/track/795bHfsDk7EC34IsLqaXfp) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Amiko \(Original Soundtrack\)](https://open.spotify.com/album/229nsZcyvUQGLn30FP3ngu) | 4:00 |
+| 38 | [Around the Corner](https://open.spotify.com/track/5lh9ngWl6clqFCCQTMf8vp) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Dusk to Dawn](https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be) | 3:46 |
 | 39 | [ドレミ](https://open.spotify.com/track/7GtfuAf9L1zSNgm7AOve9Q) | [sleepy.ab](https://open.spotify.com/artist/6K5m40eGoEYPBOg7hSLjwy) | [paratroop\(通常盤\)](https://open.spotify.com/album/6tmqRQRqrU9lrOd5EzjsYx) | 5:13 |
-| 40 | [Around the Corner](https://open.spotify.com/track/5lh9ngWl6clqFCCQTMf8vp) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Dusk to Dawn](https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be) | 3:46 |
+| 40 | [Sympathy](https://open.spotify.com/track/23Mcmg5O8rBKAOzxvrTjnD) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Hikare Inochi](https://open.spotify.com/album/6UoFSfFtSDp97egQC3Vnas) | 3:30 |
 | 41 | [Re\-魔法](https://open.spotify.com/track/2kHaJVeDjowAU73DnJBcQW) | [岡村匡紘](https://open.spotify.com/artist/5p3ewYLB0R0cbicCOyFFMR) | [Re\-魔法](https://open.spotify.com/album/1CdAvRqfAl2I8kPezmHyHo) | 4:38 |
-| 42 | [Sympathy](https://open.spotify.com/track/23Mcmg5O8rBKAOzxvrTjnD) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Hikare Inochi](https://open.spotify.com/album/6UoFSfFtSDp97egQC3Vnas) | 3:30 |
+| 42 | [Yellow Moon](https://open.spotify.com/track/3nPTeT1tp6GmHjmBFnCSzF) | [明星 <Akeboshi>](https://open.spotify.com/artist/5STm6pQxk2nHd7JVcQCBoa) | [Roundabout](https://open.spotify.com/album/07b8jFWroRWTpEWF8SrDLe) | 5:08 |
 | 43 | [手紙](https://open.spotify.com/track/7jptw3DENO2pWmrfzE1TZs) | [Misako Odani](https://open.spotify.com/artist/1qyvDpymTYPpF5iguflCMT) | [MONSTER](https://open.spotify.com/album/0yWVWwqwms3GuJTfnWWIhO) | 7:15 |
-| 44 | [Yellow Moon](https://open.spotify.com/track/3nPTeT1tp6GmHjmBFnCSzF) | [明星 <Akeboshi>](https://open.spotify.com/artist/5STm6pQxk2nHd7JVcQCBoa) | [Roundabout](https://open.spotify.com/album/07b8jFWroRWTpEWF8SrDLe) | 5:08 |
+| 44 | [I Wish You Love](https://open.spotify.com/track/5Uc0WlK2e5B5NYvS72fCHp) | [Ann Sally](https://open.spotify.com/artist/1g9zG323vBvafWMplgUEQx) | [Voices Of Love](https://open.spotify.com/album/3vyGVRUQaAS4g2ztBZX9t9) | 4:18 |
 | 45 | [丘](https://open.spotify.com/track/5YTiEQOoG3PqoKj7IeyDfS) | [MIZ](https://open.spotify.com/artist/1T4OKi8vYcs2gNv98KglRq) | [丘](https://open.spotify.com/album/2qWjqMRDMNfS570rMUrhbJ) | 4:10 |
-| 46 | [Tameiki no Yukue](https://open.spotify.com/track/1MEikw4Wldu4j4EmLV21Bq) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Yume](https://open.spotify.com/album/0snrpSOntTb03Sd8XDPn78) | 4:28 |
+| 46 | [hello](https://open.spotify.com/track/795bHfsDk7EC34IsLqaXfp) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Amiko \(Original Soundtrack\)](https://open.spotify.com/album/229nsZcyvUQGLn30FP3ngu) | 4:00 |
 | 47 | [胎盤 \-Waterbird Habitat\-](https://open.spotify.com/track/0hYBCjw2jA7KpDKABLzqJN) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [あなたの骨が、オパールにかわる頃](https://open.spotify.com/album/4tYdfajjjVCRxPWGZSnSOY) | 3:41 |
-| 48 | [I Wish You Love](https://open.spotify.com/track/5Uc0WlK2e5B5NYvS72fCHp) | [Ann Sally](https://open.spotify.com/artist/1g9zG323vBvafWMplgUEQx) | [Voices Of Love](https://open.spotify.com/album/3vyGVRUQaAS4g2ztBZX9t9) | 4:18 |
+| 48 | [Tameiki no Yukue](https://open.spotify.com/track/1MEikw4Wldu4j4EmLV21Bq) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Yume](https://open.spotify.com/album/0snrpSOntTb03Sd8XDPn78) | 4:28 |
 | 49 | [いつものこと](https://open.spotify.com/track/2dguw4nUUpg0Lxu9pd2w3L) | [小野雄大](https://open.spotify.com/artist/0e20MJY2rEAHyJN6CNBkzr) | [いつものこと](https://open.spotify.com/album/3Vb5JKrWeF9pGhSIHmCcmO) | 4:00 |
 | 50 | [Love \(feat\. Skaai\)](https://open.spotify.com/track/33WmukupZpPsnobClDyZzs) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Love \(feat\. Skaai\)](https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd) | 4:18 |
 | 51 | [Sigh Sigh](https://open.spotify.com/track/3oLQs6Bx1JkaUqaIfmlu04) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Sigh Sigh](https://open.spotify.com/album/3d9wGYzlFwAaJaQNsponSk) | 12:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 | 99 | [まなざし](https://open.spotify.com/track/3r4cXJvkEStMje809wYpyf) | [Humbert Humbert](https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY) | [FOLK 3](https://open.spotify.com/album/6F8kYlow42WYPCTqDCgWRE) | 3:51 |
 | 100 | [虹とカイト](https://open.spotify.com/track/6wKvOYzi6WBbF4WXC9J7Ey) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [ohashiTrio best Too](https://open.spotify.com/album/7370BLhXSYfiIJ1S26expM) | 5:37 |
 
-Snapshot ID: `MCw5MzE1MTkxMzcwZmJhNTU5MzlkNWJjNWQ0NWY0YmY3YTE3Yzk3ZWY4`
+Snapshot ID: `MCxkMzFkMjkyZTkxMWRhYzJkOTRlZTBhODI1MzU3NWE1YTQ0OGJmOTBh`

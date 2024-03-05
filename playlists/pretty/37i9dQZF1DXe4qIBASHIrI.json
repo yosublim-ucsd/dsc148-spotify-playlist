@@ -1,12 +1,12 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
-  "num_followers": 147119,
+  "num_followers": 147179,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTcwOTgzYzA3OGI3MDEyNWExZGNhYWNmMjU0MmY3YjM4OWRjMjYy",
+  "snapshot_id": "MCw2Yjc4NDQ5YWRlYTkxNjYzZGMwMDY3Yzg2NjQwNWI0NjYzY2ZjYzQ1",
   "tracks": [
     {
       "added_at": "2023-09-01 16:42:45",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "B\u00e1lsamo",
-        "url": "https://open.spotify.com/album/7av9VVRYT6rgVRshaVDEPQ"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 196266,
-      "name": "Brillo Mio",
-      "url": "https://open.spotify.com/track/7eCDfoEl8UGeWqcpRO5lgz"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Si",
         "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 239226,
       "name": "Lento",
       "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "B\u00e1lsamo",
+        "url": "https://open.spotify.com/album/7av9VVRYT6rgVRshaVDEPQ"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 196266,
+      "name": "Brillo Mio",
+      "url": "https://open.spotify.com/track/7eCDfoEl8UGeWqcpRO5lgz"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Solstis - De Le\u00f3n Larregui",
-        "url": "https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Brillas",
-      "url": "https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Si",
         "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
       },
@@ -339,6 +323,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "Solstis - De Le\u00f3n Larregui",
+        "url": "https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Brillas",
+      "url": "https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "All U Need Is Mosh",
         "url": "https://open.spotify.com/album/4rVRjklAbBsRF2rOJEL8nA"
       },
@@ -351,26 +351,6 @@
       "duration_ms": 244280,
       "name": "Pervert Pop Song (Castigame)",
       "url": "https://open.spotify.com/track/1ZzXHQ5ZAq46qZl5ifvMnn"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "El Segundo Es Felino",
-        "url": "https://open.spotify.com/album/6MKWjtAaCgbK3AXFr8FMUe"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        },
-        {
-          "name": "Lo Blondo",
-          "url": "https://open.spotify.com/artist/7L05sfIkvxhvoCxALFHGwt"
-        }
-      ],
-      "duration_ms": 236266,
-      "name": "Impacto",
-      "url": "https://open.spotify.com/track/5agpMV7rvg7Hf8IiX5kQXe"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -395,22 +375,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "MEMORIA FUTURO",
-        "url": "https://open.spotify.com/album/4XFeZO8Do9fdappVKRzbcH"
+        "name": "El Segundo Es Felino",
+        "url": "https://open.spotify.com/album/6MKWjtAaCgbK3AXFr8FMUe"
       },
       "artists": [
         {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
         },
         {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+          "name": "Lo Blondo",
+          "url": "https://open.spotify.com/artist/7L05sfIkvxhvoCxALFHGwt"
         }
       ],
-      "duration_ms": 221390,
-      "name": "Respiro (Cap. 8)",
-      "url": "https://open.spotify.com/track/5O612Iau2nHDR3yv8jAFXs"
+      "duration_ms": 236266,
+      "name": "Impacto",
+      "url": "https://open.spotify.com/track/5agpMV7rvg7Hf8IiX5kQXe"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -447,18 +427,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Norte",
-        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
+        "name": "MEMORIA FUTURO",
+        "url": "https://open.spotify.com/album/4XFeZO8Do9fdappVKRzbcH"
       },
       "artists": [
         {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 254993,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/3V4TnrGeVCxB2TLZ2pZQYO"
+      "duration_ms": 221390,
+      "name": "Respiro (Cap. 8)",
+      "url": "https://open.spotify.com/track/5O612Iau2nHDR3yv8jAFXs"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -475,6 +459,22 @@
       "duration_ms": 262613,
       "name": "Mr. P-Mosh",
       "url": "https://open.spotify.com/track/12Q3hN5YwbjZ0jkcHmuABo"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Norte",
+        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 254993,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/3V4TnrGeVCxB2TLZ2pZQYO"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "Tiempos Mejores",
+        "url": "https://open.spotify.com/album/5oRx5C2DfRJY8QoIKRM5F9"
+      },
+      "artists": [
+        {
+          "name": "Comisario Pantera",
+          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
+        }
+      ],
+      "duration_ms": 203320,
+      "name": "Amiga - Bonus Track",
+      "url": "https://open.spotify.com/track/7D6QJCylSzF7XGz2BzcOYI"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "S\u00ed, Yo Soy",
         "url": "https://open.spotify.com/album/55xfAVi9VsvzxmZBTwCBUe"
       },
@@ -559,34 +575,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Tiempos Mejores",
-        "url": "https://open.spotify.com/album/5oRx5C2DfRJY8QoIKRM5F9"
+        "name": "Atemahawke",
+        "url": "https://open.spotify.com/album/1GMQtHzZ4lpTYmJgNzALHh"
       },
       "artists": [
         {
-          "name": "Comisario Pantera",
-          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
+          "name": "Porter",
+          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
         }
       ],
-      "duration_ms": 203320,
-      "name": "Amiga - Bonus Track",
-      "url": "https://open.spotify.com/track/7D6QJCylSzF7XGz2BzcOYI"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "\u00d3leos",
-        "url": "https://open.spotify.com/album/1NZAyCK3PcS200TsNhSA4z"
-      },
-      "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        }
-      ],
-      "duration_ms": 230640,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/0GD3HmHYuyW2h1XS6Gdzt3"
+      "duration_ms": 260466,
+      "name": "Host of a Ghost",
+      "url": "https://open.spotify.com/track/0HTFDQQb7auJ2dZwXtPK5e"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -623,18 +623,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Atemahawke",
-        "url": "https://open.spotify.com/album/1GMQtHzZ4lpTYmJgNzALHh"
+        "name": "\u00d3leos",
+        "url": "https://open.spotify.com/album/1NZAyCK3PcS200TsNhSA4z"
       },
       "artists": [
         {
-          "name": "Porter",
-          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
         }
       ],
-      "duration_ms": 260466,
-      "name": "Host of a Ghost",
-      "url": "https://open.spotify.com/track/0HTFDQQb7auJ2dZwXtPK5e"
+      "duration_ms": 230640,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/0GD3HmHYuyW2h1XS6Gdzt3"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -751,38 +751,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "The Room",
-        "url": "https://open.spotify.com/album/3Ts9hy3YbTeBDqNL9ItCJj"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 286573,
-      "name": "Dead",
-      "url": "https://open.spotify.com/track/0qy3tNhBzyxKxcOqCczcVX"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "Blanco F\u00e1cil",
-        "url": "https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt"
-      },
-      "artists": [
-        {
-          "name": "Chetes",
-          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
-        }
-      ],
-      "duration_ms": 263838,
-      "name": "Completamente",
-      "url": "https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Destellos",
         "url": "https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k"
       },
@@ -795,6 +763,22 @@
       "duration_ms": 237786,
       "name": "Popscuro",
       "url": "https://open.spotify.com/track/3N0lemfma0XQAlkueBbwev"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "The Room",
+        "url": "https://open.spotify.com/album/3Ts9hy3YbTeBDqNL9ItCJj"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 286573,
+      "name": "Dead",
+      "url": "https://open.spotify.com/track/0qy3tNhBzyxKxcOqCczcVX"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -831,6 +815,38 @@
       "duration_ms": 248939,
       "name": "Bestia",
       "url": "https://open.spotify.com/track/1r3L5Aze7FgPc0ck828XFz"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Blanco F\u00e1cil",
+        "url": "https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt"
+      },
+      "artists": [
+        {
+          "name": "Chetes",
+          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
+        }
+      ],
+      "duration_ms": 263838,
+      "name": "Completamente",
+      "url": "https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "\u00c9pocas",
+        "url": "https://open.spotify.com/album/5K42C7VGWtFP2MtH5wwP7M"
+      },
+      "artists": [
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        }
+      ],
+      "duration_ms": 221853,
+      "name": "\u00c9pocas",
+      "url": "https://open.spotify.com/track/3izZ5EFLybEdk8q5dCh1eD"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -951,22 +967,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "\u00c9pocas",
-        "url": "https://open.spotify.com/album/5K42C7VGWtFP2MtH5wwP7M"
-      },
-      "artists": [
-        {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
-        }
-      ],
-      "duration_ms": 221853,
-      "name": "\u00c9pocas",
-      "url": "https://open.spotify.com/track/3izZ5EFLybEdk8q5dCh1eD"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Arunima",
         "url": "https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT"
       },
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Kiosko",
-        "url": "https://open.spotify.com/album/3pTfNraLlf2tDpMQsrJgxY"
-      },
-      "artists": [
-        {
-          "name": "Porter",
-          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
-        }
-      ],
-      "duration_ms": 253501,
-      "name": "Kiosko",
-      "url": "https://open.spotify.com/track/7qix8lqLAvHAInf3Xq1TU3"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Pi\u00f1ata",
         "url": "https://open.spotify.com/album/4NNsCRL4LuWbspwc4F0RRu"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 196941,
       "name": "Amor Prohibido II",
       "url": "https://open.spotify.com/track/6e0R0ZhqkRvh0yVXM0LUxq"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Kiosko",
+        "url": "https://open.spotify.com/album/3pTfNraLlf2tDpMQsrJgxY"
+      },
+      "artists": [
+        {
+          "name": "Porter",
+          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
+        }
+      ],
+      "duration_ms": 253501,
+      "name": "Kiosko",
+      "url": "https://open.spotify.com/track/7qix8lqLAvHAInf3Xq1TU3"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "LeBaron",
+        "url": "https://open.spotify.com/album/1ZROHNWumhnNlEzo69ubgb"
+      },
+      "artists": [
+        {
+          "name": "LeBaron",
+          "url": "https://open.spotify.com/artist/6mAJLm084B2XPYIqkt1gj1"
+        }
+      ],
+      "duration_ms": 214280,
+      "name": "Exilio",
+      "url": "https://open.spotify.com/track/1H93RYiJu5nE7YAfGgO3yJ"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "All U Need Is Mosh",
         "url": "https://open.spotify.com/album/4rVRjklAbBsRF2rOJEL8nA"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 369866,
       "name": "Paso Fino",
       "url": "https://open.spotify.com/track/7wt8zQKmeiRadOqWci0q7p"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "Dulce Mal",
-        "url": "https://open.spotify.com/album/7u7PYKzkFojFmGAj0JI37Y"
-      },
-      "artists": [
-        {
-          "name": "The Chamanas",
-          "url": "https://open.spotify.com/artist/4QUnWR26plj0oHiQgRyhvk"
-        }
-      ],
-      "duration_ms": 242046,
-      "name": "Dulce Mal",
-      "url": "https://open.spotify.com/track/4bVaYbaxhHaxeCLGyERNfT"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "LeBaron",
-        "url": "https://open.spotify.com/album/1ZROHNWumhnNlEzo69ubgb"
+        "name": "Dulce Mal",
+        "url": "https://open.spotify.com/album/7u7PYKzkFojFmGAj0JI37Y"
       },
       "artists": [
         {
-          "name": "LeBaron",
-          "url": "https://open.spotify.com/artist/6mAJLm084B2XPYIqkt1gj1"
+          "name": "The Chamanas",
+          "url": "https://open.spotify.com/artist/4QUnWR26plj0oHiQgRyhvk"
         }
       ],
-      "duration_ms": 214280,
-      "name": "Exilio",
-      "url": "https://open.spotify.com/track/1H93RYiJu5nE7YAfGgO3yJ"
+      "duration_ms": 242046,
+      "name": "Dulce Mal",
+      "url": "https://open.spotify.com/track/4bVaYbaxhHaxeCLGyERNfT"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Hola Chicuelos",
-        "url": "https://open.spotify.com/album/3MecKdIIiFxEOX9HZNmyZf"
-      },
-      "artists": [
-        {
-          "name": "Plastilina Mosh",
-          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
-        }
-      ],
-      "duration_ms": 244933,
-      "name": "Al\u00f3",
-      "url": "https://open.spotify.com/track/1bBO92RtVTlJlfxuVaLek8"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "No Es un Adi\u00f3s",
         "url": "https://open.spotify.com/album/7l8QCiQTA97JflmEp8xYAn"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 200173,
       "name": "Si",
       "url": "https://open.spotify.com/track/1LN0Ut0IBHSrx4Urexq8xb"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Hola Chicuelos",
+        "url": "https://open.spotify.com/album/3MecKdIIiFxEOX9HZNmyZf"
+      },
+      "artists": [
+        {
+          "name": "Plastilina Mosh",
+          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
+        }
+      ],
+      "duration_ms": 244933,
+      "name": "Al\u00f3",
+      "url": "https://open.spotify.com/track/1bBO92RtVTlJlfxuVaLek8"
     },
     {
       "added_at": "2023-09-01 16:42:45",

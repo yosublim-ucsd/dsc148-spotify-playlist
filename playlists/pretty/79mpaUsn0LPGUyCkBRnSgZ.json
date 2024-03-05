@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "MTQwNSw5ZTUyYzMzY2U5MzJiMzYyZGZlNTEzZmNkYWEzOWMxMDgxZDg2NmRi",
+  "snapshot_id": "MTQxMCxiNzhmZjNkNzI4YzQ1MjUxMDMwYjFlOWEwNmMxMWQxZmY5YmRlNzY4",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -7501,22 +7501,6 @@
       "url": "https://open.spotify.com/track/45Btn0Un5R5yRfWsrYoDii"
     },
     {
-      "added_at": "2024-02-24 03:51:53",
-      "album": {
-        "name": "comfortably in pain",
-        "url": "https://open.spotify.com/album/39vpTiloqw4kytVLU29AxS"
-      },
-      "artists": [
-        {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
-        }
-      ],
-      "duration_ms": 144360,
-      "name": "It's Random",
-      "url": "https://open.spotify.com/track/6Sj5jAdiIWAAAYZc9dn9ZM"
-    },
-    {
       "added_at": "2024-02-24 03:53:36",
       "album": {
         "name": "Repeater + 3 Songs",
@@ -7725,20 +7709,64 @@
       "url": "https://open.spotify.com/track/4C6EPbxGiGSX95nJY3z9ZG"
     },
     {
-      "added_at": "2024-03-03 19:33:55",
+      "added_at": "2024-03-04 06:08:49",
       "album": {
-        "name": "Blue Raspberry",
-        "url": "https://open.spotify.com/album/3ue5JrkSudbuHwQOEvZwHj"
+        "name": "Birthday",
+        "url": "https://open.spotify.com/album/2KgYcD8b9rxkROAPeYEnjh"
       },
       "artists": [
         {
-          "name": "Katy Kirby",
-          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
+          "name": "Pom Poko",
+          "url": "https://open.spotify.com/artist/4RkC3KmYWnr6PM1FM5Shwz"
         }
       ],
-      "duration_ms": 201675,
-      "name": "Redemption Arc",
-      "url": "https://open.spotify.com/track/5P2xjOkykDrAHcLxCLyBDi"
+      "duration_ms": 252093,
+      "name": "Follow The Lights",
+      "url": "https://open.spotify.com/track/0iHClWd9kbQEvcCsriEHJS"
+    },
+    {
+      "added_at": "2024-03-04 06:14:19",
+      "album": {
+        "name": "Roxy Music",
+        "url": "https://open.spotify.com/album/4KjUgJn22cmBRQC0AHcjI3"
+      },
+      "artists": [
+        {
+          "name": "Roxy Music",
+          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
+        }
+      ],
+      "duration_ms": 314426,
+      "name": "Re-Make/Re-Model",
+      "url": "https://open.spotify.com/track/6pUfi8uawZnCK2T0hatNwR"
+    },
+    {
+      "added_at": "2024-03-04 20:37:55",
+      "album": {
+        "name": "Exquisite Corpse",
+        "url": "https://open.spotify.com/album/11aSgmA8YPBrEfJ536AcsA"
+      },
+      "artists": [
+        {
+          "name": "Pedro The Lion",
+          "url": "https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr"
+        },
+        {
+          "name": "American Football",
+          "url": "https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4"
+        },
+        {
+          "name": "Nick Wilkerson",
+          "url": "https://open.spotify.com/artist/3QiX2OujsOt08Qx3ZbzNbp"
+        },
+        {
+          "name": "Dragon Inn 3",
+          "url": "https://open.spotify.com/artist/4R9OjGQDdKY8sjNSEG5CiR"
+        }
+      ],
+      "duration_ms": 122096,
+      "name": "Yer Brothers",
+      "url": "https://open.spotify.com/track/7MQjOPsj0Mfi8HLUUC0mEP"
     }
   ],
   "unique_name": "Zacklog",

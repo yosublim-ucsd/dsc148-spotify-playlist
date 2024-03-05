@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favorite electronic songs from around the world this year\. Cover: Anyma
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,928 likes - 75 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,955 likes - 75 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 74 | [The Good, the Bad & the Acid](https://open.spotify.com/track/3ikwLYbhR3cq8Wej3RXETZ) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [The Good, the Bad & the Acid](https://open.spotify.com/album/38nTiPUbeQQPMiEd0ITxGi) | 5:49 |
 | 75 | [Monica Vitti](https://open.spotify.com/track/7bIqHtObwmyE16EazeXHWa) | [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3) | [Vista Mare Forever](https://open.spotify.com/album/6s7TqgQdz4A8Ghx0dXsxqW) | 4:34 |
 
-Snapshot ID: `MCw3MzJhMTIzODkwZDU1OWNmNDZmOTgzZjEzYTEyMDkyMmYwYmMwMjM5`
+Snapshot ID: `MCxmZjc2YmU2NGQwMWJkMWFlMjNjZWM3ZjMxM2E5ZjIyZDQwOWRmOGVh`

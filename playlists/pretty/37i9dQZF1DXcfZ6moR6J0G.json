@@ -1,12 +1,12 @@
 {
   "description": "You know what time it is.",
-  "num_followers": 1858306,
+  "num_followers": 1858627,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmQ3NGMyZGRlNTM1ZmY2ZGIwYWE3N2YyODY4MWZmNzVkNDQwYzk0",
+  "snapshot_id": "MCwxYTA3OWIzNTViY2M2NWM0ZTVlMzkzYWRmNGEwYzE5OTVmOGIyNGYx",
   "tracks": [
     {
       "added_at": "2023-05-16 09:14:45",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
+        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
+        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 272973,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/2gSVKxPDww9Eep5rdvtdem"
+    },
+    {
+      "added_at": "2023-05-16 09:14:45",
+      "album": {
         "name": "Vol. 3: The Subliminal Verses",
         "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
       },
@@ -523,18 +539,18 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
-        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
-        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
+        "name": "Trapt",
+        "url": "https://open.spotify.com/album/4jd0qgZ4gaHW6b0lgpZKWk"
       },
       "artists": [
         {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+          "name": "Trapt",
+          "url": "https://open.spotify.com/artist/1UdQqCUR7RwB9YYJONwbdM"
         }
       ],
-      "duration_ms": 272973,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/2gSVKxPDww9Eep5rdvtdem"
+      "duration_ms": 285569,
+      "name": "Headstrong",
+      "url": "https://open.spotify.com/track/1AEYT6VxrxXPMoQUxsY0E4"
     },
     {
       "added_at": "2023-05-16 09:14:45",
@@ -555,18 +571,18 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
-        "name": "Trapt",
-        "url": "https://open.spotify.com/album/4jd0qgZ4gaHW6b0lgpZKWk"
+        "name": "Minutes to Midnight",
+        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
       },
       "artists": [
         {
-          "name": "Trapt",
-          "url": "https://open.spotify.com/artist/1UdQqCUR7RwB9YYJONwbdM"
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 285569,
-      "name": "Headstrong",
-      "url": "https://open.spotify.com/track/1AEYT6VxrxXPMoQUxsY0E4"
+      "duration_ms": 205226,
+      "name": "What I've Done",
+      "url": "https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU"
     },
     {
       "added_at": "2023-05-16 09:14:45",
@@ -619,22 +635,6 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
-        "name": "Minutes to Midnight",
-        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 205226,
-      "name": "What I've Done",
-      "url": "https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU"
-    },
-    {
-      "added_at": "2023-05-16 09:14:45",
-      "album": {
         "name": "Adrenaline",
         "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
       },
@@ -647,6 +647,22 @@
       "duration_ms": 223893,
       "name": "7 Words",
       "url": "https://open.spotify.com/track/6DoXuH326aAYEN8CnlLmhP"
+    },
+    {
+      "added_at": "2023-05-16 09:14:45",
+      "album": {
+        "name": "Korn",
+        "url": "https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 258266,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/1pr9TZGOXeJUggIal1Wq3R"
     },
     {
       "added_at": "2023-05-16 09:14:45",
@@ -683,6 +699,38 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
+        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
+        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "My Generation",
+      "url": "https://open.spotify.com/track/6holGuk1jKHTdWyWBOZi8l"
+    },
+    {
+      "added_at": "2023-05-16 09:14:45",
+      "album": {
+        "name": "Hybrid Theory (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 184866,
+      "name": "Papercut",
+      "url": "https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1"
+    },
+    {
+      "added_at": "2023-05-16 09:14:45",
+      "album": {
         "name": "Flyleaf",
         "url": "https://open.spotify.com/album/4Hv9JeNCe9bMyTrgt9NjXt"
       },
@@ -695,22 +743,6 @@
       "duration_ms": 175880,
       "name": "I'm So Sick",
       "url": "https://open.spotify.com/track/3FP8A246XpuafFofRhDlWG"
-    },
-    {
-      "added_at": "2023-05-16 09:14:45",
-      "album": {
-        "name": "Korn",
-        "url": "https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 258266,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/1pr9TZGOXeJUggIal1Wq3R"
     },
     {
       "added_at": "2023-05-16 09:14:45",
@@ -747,6 +779,38 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
+        "name": "Untouchables",
+        "url": "https://open.spotify.com/album/1MqmDK2xw4isOPhiUb9eXO"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 270960,
+      "name": "Here to Stay",
+      "url": "https://open.spotify.com/track/5NHTtXGCdO7ul16xr0q93w"
+    },
+    {
+      "added_at": "2023-05-16 09:14:45",
+      "album": {
+        "name": "Three Dollar Bill, Y'all $",
+        "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 146480,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/5MYsvAONqcsIVOwu2HTQ3p"
+    },
+    {
+      "added_at": "2023-05-16 09:14:45",
+      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx"
       },
@@ -759,38 +823,6 @@
       "duration_ms": 186066,
       "name": "Die MF Die",
       "url": "https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh"
-    },
-    {
-      "added_at": "2023-05-16 09:14:45",
-      "album": {
-        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
-        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "My Generation",
-      "url": "https://open.spotify.com/track/6holGuk1jKHTdWyWBOZi8l"
-    },
-    {
-      "added_at": "2023-05-16 09:14:45",
-      "album": {
-        "name": "Hybrid Theory (Bonus Edition)",
-        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 184866,
-      "name": "Papercut",
-      "url": "https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1"
     },
     {
       "added_at": "2023-05-16 09:14:45",
@@ -855,38 +887,6 @@
       "duration_ms": 209572,
       "name": "She Loves Me Not",
       "url": "https://open.spotify.com/track/1eRgyfyizDWISeS99kwLNC"
-    },
-    {
-      "added_at": "2023-05-16 09:14:45",
-      "album": {
-        "name": "Three Dollar Bill, Y'all $",
-        "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 146480,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/5MYsvAONqcsIVOwu2HTQ3p"
-    },
-    {
-      "added_at": "2023-05-16 09:14:45",
-      "album": {
-        "name": "Untouchables",
-        "url": "https://open.spotify.com/album/1MqmDK2xw4isOPhiUb9eXO"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 270960,
-      "name": "Here to Stay",
-      "url": "https://open.spotify.com/track/5NHTtXGCdO7ul16xr0q93w"
     },
     {
       "added_at": "2023-05-16 09:14:45",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
-        "name": "Coal Chamber",
-        "url": "https://open.spotify.com/album/7FsGGAksuLOCvI2ivXh4Jd"
-      },
-      "artists": [
-        {
-          "name": "Coal Chamber",
-          "url": "https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ"
-        }
-      ],
-      "duration_ms": 215133,
-      "name": "Sway",
-      "url": "https://open.spotify.com/track/19bAcl8m0DEUzteLSBDnzH"
-    },
-    {
-      "added_at": "2023-05-16 09:14:45",
-      "album": {
         "name": "Animosity",
         "url": "https://open.spotify.com/album/6csmoeDVSefHvffDtIgCw1"
       },
@@ -1275,18 +1259,34 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
-        "name": "Confession [Special Edition]",
-        "url": "https://open.spotify.com/album/24xOhyTbtUHw0NTWemb1md"
+        "name": "Coal Chamber",
+        "url": "https://open.spotify.com/album/7FsGGAksuLOCvI2ivXh4Jd"
       },
       "artists": [
         {
-          "name": "Ill Ni\u00f1o",
-          "url": "https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF"
+          "name": "Coal Chamber",
+          "url": "https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ"
         }
       ],
-      "duration_ms": 196853,
-      "name": "How Can I Live",
-      "url": "https://open.spotify.com/track/4dSAuM3CkN1a9mhqn1xB4J"
+      "duration_ms": 215133,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/19bAcl8m0DEUzteLSBDnzH"
+    },
+    {
+      "added_at": "2023-05-16 09:14:45",
+      "album": {
+        "name": "The Height of Callousness",
+        "url": "https://open.spotify.com/album/5EdPM4V1kWFrFPniEvS5LL"
+      },
+      "artists": [
+        {
+          "name": "Spineshank",
+          "url": "https://open.spotify.com/artist/6fmbbxNvgHkglIakp1Wrv4"
+        }
+      ],
+      "duration_ms": 194733,
+      "name": "New Disease",
+      "url": "https://open.spotify.com/track/5xqi4X6J5PHwndSJc7YLYH"
     }
   ],
   "unique_name": "Nu Metal Era",

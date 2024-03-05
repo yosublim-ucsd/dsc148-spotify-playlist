@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K\-Anthony
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,504 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,570 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,12 +22,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 12 | [For the Love of God](https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [For the Love of God](https://open.spotify.com/album/0PXAm9ob71rL4Cyi4gQTq2) | 3:48 |
 | 13 | [I See Grace](https://open.spotify.com/track/3QT7ruZDodBTndp0q0EpW5) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [I See Grace](https://open.spotify.com/album/7LFddJR03IFXK5AY3qV2Il) | 3:13 |
 | 14 | [First Things First](https://open.spotify.com/track/4E4JkkNvwl2EzZWIm0VJig) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [First Things First](https://open.spotify.com/album/06eEaL5af1KAXPZY8pinIj) | 4:11 |
-| 15 | [Be Alright \- Remix](https://open.spotify.com/track/1Uj2EIkCWdfe6XMOscRqBr) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Be Alright \(Remix\)](https://open.spotify.com/album/5CZSvhDtNjRA7kU0FFHxY7) | 3:42 |
-| 16 | [I Cry Jesus](https://open.spotify.com/track/0FOa9XhfjDffuC270lfFOG) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [I Cry Jesus](https://open.spotify.com/album/4oaP3NFBWzVfEBlOGm05xo) | 3:38 |
-| 17 | [I Speak Jesus](https://open.spotify.com/track/4eniDccFw5yQ1eckEM32Ex) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [I Speak Jesus](https://open.spotify.com/album/1lsIg61cq8FAgmkY1tPgDo) | 3:53 |
-| 18 | [The Lord's Prayer \(It's Yours\)](https://open.spotify.com/track/4x2z65CsWpM2Kuxt2RQ8rj) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Lord's Prayer \(It's Yours\)](https://open.spotify.com/album/2p61gKnDqDezHXQZC92oU5) | 3:23 |
-| 19 | [Fear Is Not My Future \(feat\. Brandon Lake\)](https://open.spotify.com/track/1AlIF7Ndgztmris8fLgytr) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Kingdom Book One](https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3) | 10:25 |
-| 20 | [Fill My Cup](https://open.spotify.com/track/7FYMyfcZtTnNbv5pVK0YbD) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Fill My Cup](https://open.spotify.com/album/3EcsslHYdm8UlzuwnvaA9O) | 3:27 |
+| 15 | [Fear Is Not My Future \(feat\. Brandon Lake\)](https://open.spotify.com/track/1AlIF7Ndgztmris8fLgytr) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Kingdom Book One](https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3) | 10:25 |
+| 16 | [Be Alright \- Remix](https://open.spotify.com/track/1Uj2EIkCWdfe6XMOscRqBr) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Be Alright \(Remix\)](https://open.spotify.com/album/5CZSvhDtNjRA7kU0FFHxY7) | 3:42 |
+| 17 | [I Cry Jesus](https://open.spotify.com/track/0FOa9XhfjDffuC270lfFOG) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [I Cry Jesus](https://open.spotify.com/album/4oaP3NFBWzVfEBlOGm05xo) | 3:38 |
+| 18 | [Fill My Cup](https://open.spotify.com/track/7FYMyfcZtTnNbv5pVK0YbD) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Fill My Cup](https://open.spotify.com/album/3EcsslHYdm8UlzuwnvaA9O) | 3:27 |
+| 19 | [I Speak Jesus](https://open.spotify.com/track/4eniDccFw5yQ1eckEM32Ex) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [I Speak Jesus](https://open.spotify.com/album/1lsIg61cq8FAgmkY1tPgDo) | 3:53 |
+| 20 | [The Lord's Prayer \(It's Yours\)](https://open.spotify.com/track/4x2z65CsWpM2Kuxt2RQ8rj) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Lord's Prayer \(It's Yours\)](https://open.spotify.com/album/2p61gKnDqDezHXQZC92oU5) | 3:23 |
 | 21 | [Soul Worth Saving](https://open.spotify.com/track/5qzTeetyjgqMLV3CWOFqiD) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Soul Worth Saving](https://open.spotify.com/album/252KuqNw7Z2Q1Otew5IySn) | 3:46 |
 | 22 | [Take It To Jesus](https://open.spotify.com/track/2FZzdRlfiXtYnimrqU1OAR) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Take It To Jesus](https://open.spotify.com/album/0QFqjo7ISOxM1x4U4DwEg2) | 4:28 |
 | 23 | [The Goodness \(feat\. Blessing Offor\)](https://open.spotify.com/track/5DNwRUi8xJW6CWiqOBCVu7) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [The Goodness](https://open.spotify.com/album/5XsasuGU1Zv69IRGIneakR) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 99 | [Plans](https://open.spotify.com/track/7ylUm6UwDblnxBNFq1E0nh) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Plans](https://open.spotify.com/album/5p3ZxGjxM3xnGi8gzHLU6f) | 3:42 |
 | 100 | [Revival](https://open.spotify.com/track/5UC1B9KaUWKFUYNFrklGxQ) | [Daniel Doss](https://open.spotify.com/artist/5KUNK8C0taPJnUD0xvPQaC) | [Revival](https://open.spotify.com/album/350DvgUbR83wdpqAIEAUeU) | 3:29 |
 
-Snapshot ID: `MCw3ZjRjZGEwZDAyOTgwZGJjZTg5OTdlZmJkYTc2NjYzNWM3YzU5NzUy`
+Snapshot ID: `MCxkOGRiZDc1NjM1ZTIwZmZhMzMxNjVmYmUwMDJjMDJkMzNiMWMxZTQx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Alycia Lang
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,626 likes - 101 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,685 likes - 101 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 100 | [Die Slower](https://open.spotify.com/track/7lwqr6NGpzsYVZK5ovcyRr) | [Brendan Abernathy](https://open.spotify.com/artist/39ETOzAilLp4bcJAUU8mmW), [Annie Omalley](https://open.spotify.com/artist/0TEaL7Y50jr7N3mjxqFGBK) | [die slower](https://open.spotify.com/album/2fGiVuDMhTGQNSjhKjc0zE) | 3:15 |
 | 101 | [London](https://open.spotify.com/track/6ffvsCiyxNdxPzsjxP5q16) | [Devan](https://open.spotify.com/artist/5w2ZZrN4yX50qOLk9I8aI2) | [London](https://open.spotify.com/album/6ztopxq8V8PtZpwULj1tss) | 3:16 |
 
-Snapshot ID: `MCw5ODgyNTMwNGMwYjBmZjE0ZTI2MzQyYjNkNzdjOTBlOTgzZTE5MWEw`
+Snapshot ID: `MCxlMTgwZTk4NTkxODdlNTE1Yjk1YTM1NmQ0ODQ4ZWRiNTRhYzc1Nzdm`

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-671 songs - 1 day 14 hr 47 min
+672 songs - 1 day 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Eagle Rock](https://open.spotify.com/track/04XcibbkTGfV5dbUZ1e2FJ) | [Alex H](https://open.spotify.com/artist/3VJS76xe6UUj7Qo2S9gxvB) | [Eagle Rock](https://open.spotify.com/album/6uvex7L4oOshBeTbgtlzQN) | 4:04 | 2022-11-19 | 2022-11-22 |
 | [easier](https://open.spotify.com/track/6Nq8uEVMd328QWCXQoSuuM) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [clouds in my basement](https://open.spotify.com/album/5Vdqlk72QXWQSDMMrUaYTJ) | 2:44 | 2022-08-26 | 2022-11-02 |
 | [EAT SLEEP RAGE](https://open.spotify.com/track/2s7F8qjzm1XcMKG7O4GzCY) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [EAT SLEEP RAGE](https://open.spotify.com/album/3ACwIVqUsWkj9An9umbKmF) | 3:36 | 2023-07-20 | 2023-12-14 |
-| [Echoes In My Head](https://open.spotify.com/track/54ASGJSgIJqBCUnvLRQsPg) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Echoes In My Head](https://open.spotify.com/album/6BvhFE7TcTiuMaIVRfNp8o) | 4:13 | 2023-11-21 |  |
+| [Echoes In My Head](https://open.spotify.com/track/54ASGJSgIJqBCUnvLRQsPg) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Echoes In My Head](https://open.spotify.com/album/6BvhFE7TcTiuMaIVRfNp8o) | 4:13 | 2023-11-21 | 2024-03-05 |
 | [Echoes Of Silence](https://open.spotify.com/track/1MgjRb4bfIktunmJS6rqBN) | [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg), [Ra5im](https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk) | [Echoes Of Silence](https://open.spotify.com/album/3bAbk8cVmDJ5Q7J1IT6lVU) | 3:53 | 2022-07-15 | 2022-09-27 |
 | [El Refugio](https://open.spotify.com/track/6T8y2QBWEsOVjyRiJ45yVp) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K) | [El Refugio](https://open.spotify.com/album/7wu2zrPp9sRtA3iGbIExrf) | 2:49 | 2023-06-26 | 2023-09-26 |
 | [Electric](https://open.spotify.com/track/28GNhpM0YCDZcsvK5N0kSh) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk), [Raymond Revel](https://open.spotify.com/artist/17gtjCjxCPFSXyva6MAYts), [Marcus McGarity](https://open.spotify.com/artist/5aWpxrOUPNG6JcpqGB7GTB) | [Electric](https://open.spotify.com/album/7l23aPgNZeWypuV57vLRo6) | 2:09 | 2023-10-12 | 2024-01-26 |
@@ -303,6 +303,7 @@
 | [IT ISN'T ME](https://open.spotify.com/track/7KJ4sdjdKQdXgM47Ifd5RK) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [VOLPETRON ASCENDS EP](https://open.spotify.com/album/3KspUuYZY7CFg2BF72Tt03) | 3:07 | 2023-08-24 | 2023-12-14 |
 | [It's Not Love](https://open.spotify.com/track/7mv9t5XQUSHa4akJAwdmiZ) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Roee Yeger](https://open.spotify.com/artist/532H5OS6W0NQak3xMOp7fz), [Meggie York](https://open.spotify.com/artist/0ydORocQawKL2QaPiGG8fZ) | [It's Not Love](https://open.spotify.com/album/3jUr6DL5fNek9PGfdKwxiE) | 4:49 | 2023-01-09 | 2023-03-23 |
 | [it’s not easy when you’re alone](https://open.spotify.com/track/1T44fRUBJqwWjZDttsMbJv) | [Scarr.](https://open.spotify.com/artist/2GmwYytxKfiAubo141R0tV), [Finding Mero](https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs) | [this feeling that never ends](https://open.spotify.com/album/3PKuwfjGrZmyjcPykCLjJv) | 2:09 | 2022-12-03 | 2023-02-25 |
+| [Johera](https://open.spotify.com/track/15fgmFhr5x3ZoPojV1IRuj) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [Johera](https://open.spotify.com/album/6YRv6DbwXQfCQGsWHAnukJ) | 4:09 | 2024-03-04 |  |
 | [Journey](https://open.spotify.com/track/62MxAFvT4ro5MWT9QkS507) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp) | [Journey](https://open.spotify.com/album/6mmKc4M94vTYr2lKAZo2dD) | 3:06 | 2022-09-27 | 2022-11-30 |
 | [Journey To Ascendance](https://open.spotify.com/track/7vtQedqaDBjJqg2QA6aDfd) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Journey To Ascendance](https://open.spotify.com/album/6RRsIYwEOfoLA4pgcIzOiL) | 4:21 | 2022-11-19 | 2022-11-22 |
 | [Jupiter & Saturn](https://open.spotify.com/track/5kihqmQ7LLDHK3nEbqyyqm) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Jupiter & Saturn](https://open.spotify.com/album/5RqTuhUL1aoro59s9CKyqW) | 3:13 | 2022-06-17 | 2022-08-31 |

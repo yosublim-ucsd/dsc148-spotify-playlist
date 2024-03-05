@@ -4,7 +4,7 @@
 
 > Les hits algériens du moment\. Cover: Lyna Mahyem, Numidia Lezoul
 
-194 songs - 11 hr 50 min
+195 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,8 +26,8 @@
 | [Adieu El Ouzoubia](https://open.spotify.com/track/141wlkya3OgLeIgPZNJat1) | [Bilal Sghir](https://open.spotify.com/artist/4iCrZzxACYPYcoS71DgjWW) | [Adieu El Ouzoubia](https://open.spotify.com/album/6TcDR4UqwJcPiXPThtA8pZ) | 4:02 | 2023-04-14 | 2023-05-28 |
 | [Alawah](https://open.spotify.com/track/2JcmtY1DEykgIxGJNSZtTB) | [Ihan](https://open.spotify.com/artist/0RVR0TMGf3tNszGwldUu6O), [Twelve](https://open.spotify.com/artist/5zQrcUTf7m5hTwoOdXuk6E), [Djam](https://open.spotify.com/artist/4MRARYtjkmg8TZRdtpLdPD) | [Alawah](https://open.spotify.com/album/2bkMtsolIrPNjjElDlsHgu) | 2:49 | 2023-08-16 |  |
 | [Allo](https://open.spotify.com/track/3aeCyLTeN6ypImKPtdjYjZ) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Allo](https://open.spotify.com/album/1JcEpcqvv3IMdtcupUh0yD) | 3:15 | 2023-10-17 |  |
-| [Allo Oui](https://open.spotify.com/track/06r1Ea7fbuDdbNZewcySTy) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [Allo Oui](https://open.spotify.com/album/4VlMF9KxBExY0QXUXbtZwn) | 3:17 | 2024-02-19 |  |
-| [Allo Oui](https://open.spotify.com/track/0FvnIUp3c3YRawAkprTCp6) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [Allo Oui](https://open.spotify.com/album/0Y98q8LciCVvefjIvkCZlR) | 3:20 | 2023-11-30 | 2024-02-23 |
+| [Allo Oui](https://open.spotify.com/track/06r1Ea7fbuDdbNZewcySTy) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [Allo Oui](https://open.spotify.com/album/4VlMF9KxBExY0QXUXbtZwn) | 3:17 | 2024-02-19 | 2024-03-05 |
+| [Allo Oui](https://open.spotify.com/track/0FvnIUp3c3YRawAkprTCp6) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [Allo Oui](https://open.spotify.com/album/0Y98q8LciCVvefjIvkCZlR) | 3:20 | 2023-11-30 |  |
 | [Amazone](https://open.spotify.com/track/2MYKMHhMFIlmYKn05C9cV2) | [Kafon](https://open.spotify.com/artist/1g7CL458gLNv8UY3W2IFBw), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Amazone](https://open.spotify.com/album/42rj17QXfTKr8YjAhUKZ28) | 3:20 | 2021-12-09 | 2023-02-07 |
 | [Ana & Rasi](https://open.spotify.com/track/5lEg43432gVU8BzwIJULVO) | [Islem\-23](https://open.spotify.com/artist/4fdscmamdruNB8lZ1nWrTd) | [Ana & Rasi](https://open.spotify.com/album/7F94Bil1ZSQviELlNzBtty) | 3:27 | 2021-12-09 | 2022-05-27 |
 | [Anta](https://open.spotify.com/track/3SaJambg6zRQ6MWf2pOAC9) | [Rima Yussef](https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl), [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7) | [Anta](https://open.spotify.com/album/4vPYDw5xJNhJwqFDDJXyfY) | 2:43 | 2022-09-01 | 2022-09-09 |
@@ -56,6 +56,7 @@
 | [Courage](https://open.spotify.com/track/2A17I9810aeJa9BHIvHYxp) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Courage](https://open.spotify.com/album/3fesoj7qmSWTa6U5vQFqFV) | 4:00 | 2021-12-09 | 2022-08-23 |
 | [Dawama](https://open.spotify.com/track/0DW1FQLgauly0anz5SO4bp) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv), [Phobia Isaac](https://open.spotify.com/artist/2blJ4Vh2V1STdZzcY72Nch) | [Dawama](https://open.spotify.com/album/1meUVcj9RkoWV0gFcQDeJW) | 3:06 | 2021-12-09 | 2022-05-27 |
 | [Dbayli Ana \- Fransa Daretha Biya](https://open.spotify.com/track/311Jnoa5h8dGNb1MphFeBu) | [Mohamed Khassani](https://open.spotify.com/artist/32d1Iok2R1iGEbsj4zXgOC) | [Dbayli Ana \(Fransa Daretha Biya\)](https://open.spotify.com/album/3V1yNsmV6eDPsCH6QyNhRH) | 2:42 | 2023-03-30 | 2023-07-30 |
+| [Deira](https://open.spotify.com/track/3mitUVB1ZpgpGYOEfbbQ33) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [Deira](https://open.spotify.com/album/3DA0pd6Fz2sFusyrBJ8R5F) | 2:49 | 2024-03-04 |  |
 | [Demain](https://open.spotify.com/track/1Msk9wZdpAWCTtMy6OSbTj) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Femme forte](https://open.spotify.com/album/1yvh0jrG804Om3izynaGKa) | 3:12 | 2023-09-02 | 2023-11-03 |
 | [Demain](https://open.spotify.com/track/6eJ04i64i90cgfsQpHXZpK) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Femme forte](https://open.spotify.com/album/1CbvtjDKMJDU7jSxXFHfhM) | 3:12 | 2023-10-17 |  |
 | [Derti Rayek](https://open.spotify.com/track/1Vck33iJiUs7ccjGuRSRj9) | [Farid Kalamity](https://open.spotify.com/artist/39yugFhJbttHghij5dle5M), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Derti Rayek](https://open.spotify.com/album/0RYe21LKFQebUgtTyrk7Iq) | 4:12 | 2021-12-09 | 2022-04-22 |
@@ -199,7 +200,7 @@
 | [درجة درجة](https://open.spotify.com/track/4NNRo1LtV9ndhNbCFohprQ) | [Fares LÜNN](https://open.spotify.com/artist/0LsY50DXw2einabxwLuMKe) | [درجة درجة](https://open.spotify.com/album/7igRk3HV35Tnx4HKg6Hkot) | 3:12 | 2024-02-28 |  |
 | [راني متوحشها](https://open.spotify.com/track/5eKSdvnmJ37bmmx6Fc0roG) | [Bilal Sghir](https://open.spotify.com/artist/4iCrZzxACYPYcoS71DgjWW) | [راني متوحشها](https://open.spotify.com/album/2SOLAAC856WVMRVBI8RGzD) | 4:38 | 2023-02-24 | 2023-03-21 |
 | [شوفو لامور مادار فيا](https://open.spotify.com/track/0yvcSDx1WMdxnUHhqG7PEh) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [شوفو لامور مادار فيا](https://open.spotify.com/album/6DAw2PoGBVo2lggm87EgG6) | 3:06 | 2024-02-12 |  |
-| [عمي صالح](https://open.spotify.com/track/2WS40EKnfgsLAO7iTtDkCi) | [Bilal Sghir](https://open.spotify.com/artist/4iCrZzxACYPYcoS71DgjWW) | [عمي صالح](https://open.spotify.com/album/5bAfcA4BaWRBTU8kTqYBKv) | 4:24 | 2023-08-14 |  |
+| [عمي صالح](https://open.spotify.com/track/2WS40EKnfgsLAO7iTtDkCi) | [Bilal Sghir](https://open.spotify.com/artist/4iCrZzxACYPYcoS71DgjWW) | [عمي صالح](https://open.spotify.com/album/5bAfcA4BaWRBTU8kTqYBKv) | 4:24 | 2023-08-14 | 2024-03-05 |
 | [لحلال جمعنا](https://open.spotify.com/track/2kP8PzbINPBc5gYKqpJcJQ) | [Zineb Aouidad](https://open.spotify.com/artist/78Qw8xXeN0GKy3jhoY6Pi5), [Housseyn Benguerna](https://open.spotify.com/artist/2wPhldxEvEyBg9ApxTRkXy) | [لحلال جمعنا](https://open.spotify.com/album/4Th8gswTYR772wTyyOrmWZ) | 3:48 | 2023-02-21 | 2023-03-04 |
 | [نصابة](https://open.spotify.com/track/4wwKW2VSUbLAkUA53Al0iZ) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [نصابة](https://open.spotify.com/album/6HiHRHRuP8AbVYJe2kASYs) | 2:58 | 2023-02-03 | 2023-03-09 |
 

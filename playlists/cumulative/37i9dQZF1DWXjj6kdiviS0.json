@@ -949,6 +949,32 @@
     },
     {
       "album": {
+        "name": "Vivaldi: The Four Seasons",
+        "url": "https://open.spotify.com/album/1BxxmokA4eBg1EBpfYP1fC"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Joshua Bell",
+          "url": "https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204146,
+      "name": "I. Allegro non molto",
+      "url": "https://open.spotify.com/track/64ZxBE1ZgK4C0lGljXzDcG"
+    },
+    {
+      "album": {
         "name": "W.F. Bach: Piano Works",
         "url": "https://open.spotify.com/album/6cxrMdnJcMkQwxws9Ao0Ek"
       },
@@ -1806,32 +1832,6 @@
       "duration_ms": 285442,
       "name": "The Arts and the Hours",
       "url": "https://open.spotify.com/track/1G3QPQkoXvpChjNUhd6Tfs"
-    },
-    {
-      "album": {
-        "name": "Vivaldi: The Four Seasons",
-        "url": "https://open.spotify.com/album/1BxxmokA4eBg1EBpfYP1fC"
-      },
-      "artists": [
-        {
-          "name": "Antonio Vivaldi",
-          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
-        },
-        {
-          "name": "Joshua Bell",
-          "url": "https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom"
-        },
-        {
-          "name": "Academy of St. Martin in the Fields",
-          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
-        }
-      ],
-      "date_added": "2021-06-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 204146,
-      "name": "The Four Seasons - Violin Concerto in F Minor, Op. 8 No. 4, RV 297 \"Winter\": I. Allegro non molto",
-      "url": "https://open.spotify.com/track/64ZxBE1ZgK4C0lGljXzDcG"
     },
     {
       "album": {

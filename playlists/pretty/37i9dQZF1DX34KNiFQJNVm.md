@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Israel & Rodolffo, Simone Mendes, MC Hariel e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,916,481 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,916,788 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 74 | [011](https://open.spotify.com/track/6vzfS8S7UQxvUfevpfJmEh) | [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN) | [011](https://open.spotify.com/album/0luKo86kXd3Iy4IR6DYCXh) | 2:15 |
 | 75 | [Amor Todinho](https://open.spotify.com/track/2N4mZBmWI75yROTcGZwnux) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [Amor Todinho](https://open.spotify.com/album/6twToesubSRehurAORMXrC) | 2:37 |
 
-Snapshot ID: `MCw4YmIyYjhlNmIyMzYyMzY4ZTZkNDExZDNiMmMyODczZmVjZWQyMDhj`
+Snapshot ID: `MCw4NGU0OGUxZDM5MDNlZWI4NzNlZDQ1NmIwMjY0MzA4ZjU4MWU3NGFk`

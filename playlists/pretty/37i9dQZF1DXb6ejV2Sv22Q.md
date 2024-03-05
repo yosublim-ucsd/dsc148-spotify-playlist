@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 
 > we ps xd
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,319 likes - 60 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,354 likes - 60 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,14 +35,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 | 25 | [Automotivo Bibi Fogosa](https://open.spotify.com/track/2JIzOc3HHo4MhiyZzhpBUV) | [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV), [Dj Brunin XM](https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3), [KZA Produções](https://open.spotify.com/artist/1rRhJIu1ufxCjbmMWon6ax) | [Automotivo Bibi Fogosa](https://open.spotify.com/album/5YHGz0NvgBlhKefmyhP9zO) | 2:09 |
 | 26 | [RAPTURE](https://open.spotify.com/track/3thB8qaxyKtLJ7ao1NpkRB) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [RAPTURE](https://open.spotify.com/album/6OpEcUBwj9Sp4rY5xcnC8g) | 2:44 |
 | 27 | [all I want is you](https://open.spotify.com/track/7lOvJBqH38ZY59eLU7bioq) | [Rebzyyx](https://open.spotify.com/artist/6FfFBKjNgYYhHBiot04z1I), [hoshie star](https://open.spotify.com/artist/0LWHFUzXPTl9BDdJHDE001) | [all I want is you](https://open.spotify.com/album/4aGM4L8ks2bc51kAKcVA9V) | 2:31 |
-| 28 | [La Curiosidad](https://open.spotify.com/track/0hnvQLkV7yOjslEzflJSK4) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Dañado](https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh) | 3:36 |
-| 29 | [SHADOW](https://open.spotify.com/track/0wGbyS1tExQSwOYu6UceyE) | [ONIMXRU](https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw), [SMITHMANE](https://open.spotify.com/artist/5WOke44Ea57bHmJ3X0qluG) | [SHADOW](https://open.spotify.com/album/4w0uRvtIjqipuoZ7ngqqcV) | 2:42 |
-| 30 | [Los Collares](https://open.spotify.com/track/46FdwGMcgz6gik4RCpWBAW) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Los Collares](https://open.spotify.com/album/1JKGaS4Mr4ZjFRlbDbAFzf) | 2:28 |
+| 28 | [Los Collares](https://open.spotify.com/track/46FdwGMcgz6gik4RCpWBAW) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Los Collares](https://open.spotify.com/album/1JKGaS4Mr4ZjFRlbDbAFzf) | 2:28 |
+| 29 | [La Curiosidad](https://open.spotify.com/track/0hnvQLkV7yOjslEzflJSK4) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Dañado](https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh) | 3:36 |
+| 30 | [SHADOW](https://open.spotify.com/track/0wGbyS1tExQSwOYu6UceyE) | [ONIMXRU](https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw), [SMITHMANE](https://open.spotify.com/artist/5WOke44Ea57bHmJ3X0qluG) | [SHADOW](https://open.spotify.com/album/4w0uRvtIjqipuoZ7ngqqcV) | 2:42 |
 | 31 | [Young Girl A](https://open.spotify.com/track/5sPKAEb7afrIMtdqEnI6H6) | [Siinamota](https://open.spotify.com/artist/4qfQTMwNNuBKJ4rF9Lo4bD) | [Alive](https://open.spotify.com/album/0JzdeLGqbDXPBlDbV4Y0c3) | 3:41 |
 | 32 | [RITMADINHA DANÇANTE](https://open.spotify.com/track/4sVrOA0sytAzv102tnQmr7) | [DJ GUDOG](https://open.spotify.com/artist/2tqbdiza6tmlpAtKUZwhnE) | [RITMADINHA DANÇANTE](https://open.spotify.com/album/0QHgS2V9X2lZfMoi09Hsdu) | 2:05 |
 | 33 | [NIGHT DANCER](https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [NIGHT DANCER](https://open.spotify.com/album/0qbkekB04QYsLqCX68e8Oy) | 3:30 |
-| 34 | [J.](https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado](https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh) | 3:54 |
-| 35 | [Point Em Out \(with DaBaby\)](https://open.spotify.com/track/1oaV97SzklGWVLi9LdW4Hf) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Point Em Out \(with DaBaby\)](https://open.spotify.com/album/4OokZs4MaEgyCHN35wJtew) | 2:13 |
+| 34 | [Point Em Out \(with DaBaby\)](https://open.spotify.com/track/1oaV97SzklGWVLi9LdW4Hf) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Point Em Out \(with DaBaby\)](https://open.spotify.com/album/4OokZs4MaEgyCHN35wJtew) | 2:13 |
+| 35 | [J.](https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado](https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh) | 3:54 |
 | 36 | [METAMORPHOSIS \- Sped Up](https://open.spotify.com/track/6MlIIJwO4FxnOlrpOrS4hU) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS \(Sped Up\)](https://open.spotify.com/album/13WLopNIcmZjic5PtYK6Hh) | 1:50 |
 | 37 | [Below the Surface](https://open.spotify.com/track/5f1j3h5DBkLpGfb90QGFvR) | [Griffinilla](https://open.spotify.com/artist/4YbLu4l7vHlJPD9yGjCkRu) | [Below the Surface](https://open.spotify.com/album/776QoK5YUYcf3dib5mUqeE) | 2:14 |
 | 38 | [VITALICIO](https://open.spotify.com/track/3XDms8gGxWCMmwpSDzwGPy) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [VITALICIO](https://open.spotify.com/album/3oTtPK9gUgOnHznnjNo161) | 2:00 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 | 59 | [Tu Si Eres Real](https://open.spotify.com/track/201ssZsPpsLtX96LLGgPwQ) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 3:30 |
 | 60 | [Que Se Yo](https://open.spotify.com/track/3rKZuDrVxEcHLcHwIp2I2z) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Que Se Yo](https://open.spotify.com/album/29GPy18nuDwaIBrlwxZsGK) | 3:25 |
 
-Snapshot ID: `MCw1ODA2NzQ1ZWY1ODFjMWU1ZmQ4ZGQxNjExZTAzNTQxMzMzOTllZTU0`
+Snapshot ID: `MCxjMjY1ODhmYWIwMmYyMTA4OWI0ZDcwOWM5YWNkODgzMGEyZjI5NmYz`

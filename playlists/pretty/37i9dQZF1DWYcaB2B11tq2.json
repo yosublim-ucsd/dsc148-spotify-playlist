@@ -1,12 +1,12 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 404851,
+  "num_followers": 405013,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzdjMzVjMzFjMDgyMjVjNTZhOGZmYjU3MjIxODMzNmQ2MTgxMWMw",
+  "snapshot_id": "MCw2MmJlMDk4YzQ3ZDJjNDgxMzdlZTM3ZjdlYTA1NTRkM2Y0OTZlM2Ni",
   "tracks": [
     {
       "added_at": "2021-05-21 19:19:27",
@@ -111,6 +111,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Ayer Te Vi...Fue M\u00e1s Claro Que La Luna",
+        "url": "https://open.spotify.com/album/2HRHQ7kJBdwXLR2dDe0qAV"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 232853,
+      "name": "Ayer Te Vi... Fue Mas Claro Que La Luna",
+      "url": "https://open.spotify.com/track/636y223sbqgNNVeH7s5qkp"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Gente Comun Sue\u00f1os Extraordinarios",
         "url": "https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI"
       },
@@ -175,38 +191,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Ayer Te Vi...Fue M\u00e1s Claro Que La Luna",
-        "url": "https://open.spotify.com/album/2HRHQ7kJBdwXLR2dDe0qAV"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 232853,
-      "name": "Ayer Te Vi... Fue Mas Claro Que La Luna",
-      "url": "https://open.spotify.com/track/636y223sbqgNNVeH7s5qkp"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Sin Miedo a Nada",
-        "url": "https://open.spotify.com/album/6bE37X0KW4GckXJaD2GQb8"
-      },
-      "artists": [
-        {
-          "name": "Lilly Goodman",
-          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
-        }
-      ],
-      "duration_ms": 243066,
-      "name": "Al Final",
-      "url": "https://open.spotify.com/track/5qM3CXQgoHVdzTMCIPb1xK"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "25 Concierto Conmemorativo (En Vivo)",
         "url": "https://open.spotify.com/album/5O2UfFue2c9yfcbMPHHVSe"
       },
@@ -243,6 +227,58 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "El Aire De Tu Casa",
+        "url": "https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 202480,
+      "name": "Es Por Tu Gracia",
+      "url": "https://open.spotify.com/track/2eraB6aW3YLpAJO22mO4GW"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Sin Miedo a Nada",
+        "url": "https://open.spotify.com/album/6bE37X0KW4GckXJaD2GQb8"
+      },
+      "artists": [
+        {
+          "name": "Lilly Goodman",
+          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
+        }
+      ],
+      "duration_ms": 243066,
+      "name": "Al Final",
+      "url": "https://open.spotify.com/track/5qM3CXQgoHVdzTMCIPb1xK"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "El Dios de Lo Extraordinario",
+        "url": "https://open.spotify.com/album/5ReLj0agmusq7c3NnTgYC0"
+      },
+      "artists": [
+        {
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+        },
+        {
+          "name": "Inlight",
+          "url": "https://open.spotify.com/artist/58j6JUyjaD09A7mRuF1Gcc"
+        }
+      ],
+      "duration_ms": 244163,
+      "name": "El Dios de Lo Extraordinario",
+      "url": "https://open.spotify.com/track/618hoNBgdlXbXjQrylwapR"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Generacion Radical",
         "url": "https://open.spotify.com/album/37hs4ExtExEwQeuVsfdxfT"
       },
@@ -275,42 +311,6 @@
       "duration_ms": 270186,
       "name": "El Nombre De Jes\u00fas",
       "url": "https://open.spotify.com/track/1T2Q9IzgGK3eyPUWFD4C1U"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "El Dios de Lo Extraordinario",
-        "url": "https://open.spotify.com/album/5ReLj0agmusq7c3NnTgYC0"
-      },
-      "artists": [
-        {
-          "name": "Tercer Cielo",
-          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
-        },
-        {
-          "name": "Inlight",
-          "url": "https://open.spotify.com/artist/58j6JUyjaD09A7mRuF1Gcc"
-        }
-      ],
-      "duration_ms": 244163,
-      "name": "El Dios de Lo Extraordinario",
-      "url": "https://open.spotify.com/track/618hoNBgdlXbXjQrylwapR"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "El Aire De Tu Casa",
-        "url": "https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 202480,
-      "name": "Es Por Tu Gracia",
-      "url": "https://open.spotify.com/track/2eraB6aW3YLpAJO22mO4GW"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -435,38 +435,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Como En El Cielo (En Vivo)",
-        "url": "https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5"
-      },
-      "artists": [
-        {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        }
-      ],
-      "duration_ms": 395320,
-      "name": "Incre\u00edble (En Vivo)",
-      "url": "https://open.spotify.com/track/4hcRAkZDzCTCH9qGQwls8e"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Me sostendr\u00e1",
-        "url": "https://open.spotify.com/album/5Tzxd9msntOlKgLeXMlwbS"
-      },
-      "artists": [
-        {
-          "name": "Majo y Dan",
-          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
-        }
-      ],
-      "duration_ms": 325198,
-      "name": "Me sostendr\u00e1",
-      "url": "https://open.spotify.com/track/7zxuPZFuueFBEj8HkqQSSY"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Kingdom Come",
         "url": "https://open.spotify.com/album/1wnfwokJAwNET0FZ4X2KCH"
       },
@@ -495,6 +463,38 @@
       "duration_ms": 274106,
       "name": "Tu Poeta",
       "url": "https://open.spotify.com/track/4yatXJP2xfGvVpEQOthgqV"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Me sostendr\u00e1",
+        "url": "https://open.spotify.com/album/5Tzxd9msntOlKgLeXMlwbS"
+      },
+      "artists": [
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        }
+      ],
+      "duration_ms": 325198,
+      "name": "Me sostendr\u00e1",
+      "url": "https://open.spotify.com/track/7zxuPZFuueFBEj8HkqQSSY"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Como En El Cielo (En Vivo)",
+        "url": "https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "duration_ms": 395320,
+      "name": "Incre\u00edble (En Vivo)",
+      "url": "https://open.spotify.com/track/4hcRAkZDzCTCH9qGQwls8e"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -551,22 +551,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Comenzar de Cero",
-        "url": "https://open.spotify.com/album/3aAURLKBcjNlwKtyQ5wiMS"
-      },
-      "artists": [
-        {
-          "name": "Tercer Cielo",
-          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
-        }
-      ],
-      "duration_ms": 230791,
-      "name": "Comenzar de Cero",
-      "url": "https://open.spotify.com/track/2qXnPsj2I6hFMU7KL2E8m2"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Himnos",
         "url": "https://open.spotify.com/album/5kjjUMt0GGhCEl9uiVB6c0"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 438519,
       "name": "Yo Tambi\u00e9n (Un Bill\u00f3n De Veces)",
       "url": "https://open.spotify.com/track/22H9y1qkAXg4jhrXM3xo3U"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Comenzar de Cero",
+        "url": "https://open.spotify.com/album/3aAURLKBcjNlwKtyQ5wiMS"
+      },
+      "artists": [
+        {
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+        }
+      ],
+      "duration_ms": 230791,
+      "name": "Comenzar de Cero",
+      "url": "https://open.spotify.com/track/2qXnPsj2I6hFMU7KL2E8m2"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -723,22 +723,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Alumbras Mi Vida",
-        "url": "https://open.spotify.com/album/2ioiX3BKpvY8wj5uIGQbBH"
-      },
-      "artists": [
-        {
-          "name": "Rojo",
-          "url": "https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "T\u00fa Eres Mi Gozo",
-      "url": "https://open.spotify.com/track/2SVhGun9Yxilg54n0r6MVb"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Cerca Est\u00e1s",
         "url": "https://open.spotify.com/album/2YW7RI9hOb9hiDzUWeCRVz"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 212523,
       "name": "Cerca Est\u00e1s",
       "url": "https://open.spotify.com/track/7j4GJDmCiUEPZSu420sNul"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Alumbras Mi Vida",
+        "url": "https://open.spotify.com/album/2ioiX3BKpvY8wj5uIGQbBH"
+      },
+      "artists": [
+        {
+          "name": "Rojo",
+          "url": "https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "T\u00fa Eres Mi Gozo",
+      "url": "https://open.spotify.com/track/2SVhGun9Yxilg54n0r6MVb"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -859,22 +859,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Jes\u00fas en el Centro (En Vivo)",
-        "url": "https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK"
-      },
-      "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        }
-      ],
-      "duration_ms": 402626,
-      "name": "Jesus En El Centro - Live",
-      "url": "https://open.spotify.com/track/1Nrx8iiWCJWxn6OrVuREz3"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "\u00bfQui\u00e9n Contra Nosotros?",
         "url": "https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4"
       },
@@ -895,6 +879,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Jes\u00fas en el Centro (En Vivo)",
+        "url": "https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        }
+      ],
+      "duration_ms": 402626,
+      "name": "Jesus En El Centro - Live",
+      "url": "https://open.spotify.com/track/1Nrx8iiWCJWxn6OrVuREz3"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Unidos Somos M\u00e1s Fuertes",
         "url": "https://open.spotify.com/album/5CaiOljtlmZvIOcKyyFIZ8"
       },
@@ -911,6 +911,26 @@
       "duration_ms": 256305,
       "name": "Unidos Somos M\u00e1s Fuertes",
       "url": "https://open.spotify.com/track/50OAZ16SOAKSfp8ksaDOZF"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Construir\u00e9 Mi Vida",
+        "url": "https://open.spotify.com/album/3GQO2bUHJC7Gv29h4GNQm8"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        },
+        {
+          "name": "Living",
+          "url": "https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9"
+        }
+      ],
+      "duration_ms": 343616,
+      "name": "Construir\u00e9 Mi Vida",
+      "url": "https://open.spotify.com/track/6GfDI3t6u8x0ELrbV315fT"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -967,26 +987,6 @@
       "duration_ms": 222186,
       "name": "Fierce - Studio Version",
       "url": "https://open.spotify.com/track/35jVid0Qi789ypoem4KMrs"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Construir\u00e9 Mi Vida",
-        "url": "https://open.spotify.com/album/3GQO2bUHJC7Gv29h4GNQm8"
-      },
-      "artists": [
-        {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
-        },
-        {
-          "name": "Living",
-          "url": "https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9"
-        }
-      ],
-      "duration_ms": 343616,
-      "name": "Construir\u00e9 Mi Vida",
-      "url": "https://open.spotify.com/track/6GfDI3t6u8x0ELrbV315fT"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1051,22 +1051,6 @@
       "duration_ms": 210364,
       "name": "Grito de Jubilo",
       "url": "https://open.spotify.com/track/6MWNjHcrwB14NeiHbdY2hO"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Indestructible",
-        "url": "https://open.spotify.com/album/01DU4Brb6WmObvkqdsVWiN"
-      },
-      "artists": [
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        }
-      ],
-      "duration_ms": 256464,
-      "name": "Se Nota En Tus Ojos",
-      "url": "https://open.spotify.com/track/3sJ7NkecvtR9razQi5ZjQF"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1147,6 +1131,22 @@
       "duration_ms": 305981,
       "name": "Jes\u00fas (feat. Marcos Witt)",
       "url": "https://open.spotify.com/track/4NrlfdOywCSFKlC1XDvZoR"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/01DU4Brb6WmObvkqdsVWiN"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "duration_ms": 256464,
+      "name": "Se Nota En Tus Ojos",
+      "url": "https://open.spotify.com/track/3sJ7NkecvtR9razQi5ZjQF"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "El Eco De Su Voz",
-        "url": "https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7"
-      },
-      "artists": [
-        {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
-        }
-      ],
-      "duration_ms": 299013,
-      "name": "Amor Sin Comparaci\u00f3n",
-      "url": "https://open.spotify.com/track/78UnexCmrxXnAJNCKlGQ5Y"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Fragmentos del Cielo",
         "url": "https://open.spotify.com/album/47nheKMpP7EvxAVTaUz7mR"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 212806,
       "name": "Mi Roca",
       "url": "https://open.spotify.com/track/5dkURjvtypDtBrGGRetOlQ"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "El Eco De Su Voz",
+        "url": "https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7"
+      },
+      "artists": [
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+        }
+      ],
+      "duration_ms": 299013,
+      "name": "Amor Sin Comparaci\u00f3n",
+      "url": "https://open.spotify.com/track/78UnexCmrxXnAJNCKlGQ5Y"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1287,26 +1287,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Ama A Dios Y A Tu Vecino",
-        "url": "https://open.spotify.com/album/7cIlbOk2EXPl3ZBkuYDSnG"
+        "name": "Jes\u00fas Salva",
+        "url": "https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw"
       },
       "artists": [
         {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         },
         {
           "name": "Evan Craft",
           "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
-        },
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
         }
       ],
-      "duration_ms": 206133,
-      "name": "Ama A Dios Y A Tu Vecino",
-      "url": "https://open.spotify.com/track/0ZIzGwc3j4lVacHR1c5DKb"
+      "duration_ms": 308253,
+      "name": "Abre hoy los cielos",
+      "url": "https://open.spotify.com/track/63FhFLxr19VoiJnVH7QnEG"
     }
   ],
   "unique_name": "Creo En Ti",

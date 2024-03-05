@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 
 > Die schönsten deutschsprachigen Liebeslieder in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,675 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,789 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,20 +18,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 8 | [Falle Für Dich](https://open.spotify.com/track/1RUp6d887zj0N9CrTwYb1j) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Falle Für Dich](https://open.spotify.com/album/0P5Ge8SdDUCZRmaLPNUeNH) | 2:30 |
 | 9 | [Ein Kompliment](https://open.spotify.com/track/5QRkWkMabF6HJmQQm2HBVX) | [Sportfreunde Stiller](https://open.spotify.com/artist/5PwcOudItUhq3ciF9QwaXZ) | [Die gute Seite \(Die lange Seite\)](https://open.spotify.com/album/5WHyZMn0FK1eXOMzGTp4Pq) | 3:18 |
 | 10 | [Weißes Kleid](https://open.spotify.com/track/0T7RSwG8Jr4E5CFpgkDkCu) | [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv) | [Weißes Kleid](https://open.spotify.com/album/5VNsTnVG0vqvQRWLg7fbaQ) | 2:27 |
-| 11 | [Nur für Dich](https://open.spotify.com/track/7gK3S5NIkw1KdvdnUU1O5z) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Für den Himmel durch die Hölle \(Deluxe Edition\)](https://open.spotify.com/album/5HeOz6InVkwkXkacIGgHRa) | 3:12 |
-| 12 | [Ohne Dich \(schlaf' ich heut Nacht nicht ein\)](https://open.spotify.com/track/7JM1dFLOa1kI5MqGnDufiY) | [Münchener Freiheit](https://open.spotify.com/artist/353KPo8gVAfcZfwF7BPZDy) | [Von Anfang An](https://open.spotify.com/album/5ukgNJrp4K2uflZKVTzG1c) | 4:07 |
-| 13 | [Traum](https://open.spotify.com/track/6Mw1NYkSkqrX1HtzDdTdAZ) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Melodie](https://open.spotify.com/album/1JR6UkErYirK1yiwTf1fwj) | 3:15 |
+| 11 | [Traum](https://open.spotify.com/track/6Mw1NYkSkqrX1HtzDdTdAZ) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Melodie](https://open.spotify.com/album/1JR6UkErYirK1yiwTf1fwj) | 3:15 |
+| 12 | [Nur für Dich](https://open.spotify.com/track/7gK3S5NIkw1KdvdnUU1O5z) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Für den Himmel durch die Hölle \(Deluxe Edition\)](https://open.spotify.com/album/5HeOz6InVkwkXkacIGgHRa) | 3:12 |
+| 13 | [Ohne Dich \(schlaf' ich heut Nacht nicht ein\)](https://open.spotify.com/track/7JM1dFLOa1kI5MqGnDufiY) | [Münchener Freiheit](https://open.spotify.com/artist/353KPo8gVAfcZfwF7BPZDy) | [Von Anfang An](https://open.spotify.com/album/5ukgNJrp4K2uflZKVTzG1c) | 4:07 |
 | 14 | [Was du Liebe nennst](https://open.spotify.com/track/2hIY4sjfMeKwXXh2LvhrMo) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV) | [Powerbausa](https://open.spotify.com/album/5VJCtm8ZQuCiOfiiZqjEJa) | 3:23 |
 | 15 | [Endorphine](https://open.spotify.com/track/7uuE9r7VhxFm4YuxAHlD4K) | [TheDoDo](https://open.spotify.com/artist/1YQg0jqLV5RT98HjMXxzaO), [Pbb Yea](https://open.spotify.com/artist/0LMiaB3r5vBn8zYpfZWeg9) | [Endorphine](https://open.spotify.com/album/6NXTCMg4iFotpfmxp7Cf8S) | 2:52 |
 | 16 | [Mit Dir](https://open.spotify.com/track/2xFMvrqk99biaLQavjufta) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Mit Dir](https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo) | 2:49 |
 | 17 | [Bei Dir](https://open.spotify.com/track/3XpEKPj7KZt0yYWd7PQf5d) | [KUMMER](https://open.spotify.com/artist/2TiXt00aPsggbxZxL1RaG7) | [KIOX](https://open.spotify.com/album/4E7HxVevq5O1XmvWhCEKXS) | 3:42 |
 | 18 | [Jeden Tag mehr](https://open.spotify.com/track/2EOJi8TfW5kQ3NM2pk0y7p) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [LIEBE IN GEFAHR](https://open.spotify.com/album/1BDhpkMlQdbi4AAQlXKpHe) | 2:44 |
 | 19 | [Morgen](https://open.spotify.com/track/53x25WE2X6nOsHJ23mu1gv) | [EstA](https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG), [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Morgen](https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv) | 2:15 |
-| 20 | [Du](https://open.spotify.com/track/27iPwB996qUnv5oVq6QyjN) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Raop](https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV) | 2:54 |
-| 21 | [Ich lass für dich das Licht an](https://open.spotify.com/track/55VQvOY6dT63vHmYlWJDpG) | [Revolverheld](https://open.spotify.com/artist/5FYfIAuN8mV5KgVtugwfc0) | [Immer in Bewegung](https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0) | 3:32 |
-| 22 | [Nur geträumt](https://open.spotify.com/track/0ukySDr4uEzZE36s7t7X8E) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Nena](https://open.spotify.com/album/4uHwcjASOWAKw4P4wveKRb) | 3:42 |
-| 23 | [Lieblingsmensch](https://open.spotify.com/track/6oHDvarQSp0mf5AD1SyNH0) | [Namika](https://open.spotify.com/artist/0HSc7yUdNSosxRb2UJnXlz) | [Nador](https://open.spotify.com/album/2u6q5sBh8VigLzYghKk5r0) | 3:10 |
-| 24 | [Liebe](https://open.spotify.com/track/5cBx2v7XJSErfesDmgNtr2) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [30\-11\-80](https://open.spotify.com/album/5SyLIeBzGDJ4YzGDNqVVB2) | 3:15 |
+| 20 | [Ich lass für dich das Licht an](https://open.spotify.com/track/55VQvOY6dT63vHmYlWJDpG) | [Revolverheld](https://open.spotify.com/artist/5FYfIAuN8mV5KgVtugwfc0) | [Immer in Bewegung](https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0) | 3:32 |
+| 21 | [Liebe](https://open.spotify.com/track/5cBx2v7XJSErfesDmgNtr2) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [30\-11\-80](https://open.spotify.com/album/5SyLIeBzGDJ4YzGDNqVVB2) | 3:15 |
+| 22 | [Du](https://open.spotify.com/track/27iPwB996qUnv5oVq6QyjN) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Raop](https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV) | 2:54 |
+| 23 | [Nur geträumt](https://open.spotify.com/track/0ukySDr4uEzZE36s7t7X8E) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Nena](https://open.spotify.com/album/4uHwcjASOWAKw4P4wveKRb) | 3:42 |
+| 24 | [Lieblingsmensch](https://open.spotify.com/track/6oHDvarQSp0mf5AD1SyNH0) | [Namika](https://open.spotify.com/artist/0HSc7yUdNSosxRb2UJnXlz) | [Nador](https://open.spotify.com/album/2u6q5sBh8VigLzYghKk5r0) | 3:10 |
 | 25 | [Kleiner Finger Schwur](https://open.spotify.com/track/3PBPLps3EbPjBSSOpKmJ8J) | [Florian Künstler](https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE) | [Kleiner Finger Schwur](https://open.spotify.com/album/4ZntzEwvOddrjI2omwBzqn) | 2:48 |
 | 26 | [1000 und 1 Nacht \(Zoom!\) \- Remastered 2011](https://open.spotify.com/track/50brQMN8OxkmYUb1LyOsnQ) | [Klaus Lage](https://open.spotify.com/artist/2gMAioN7m2k5XulfNClMRB) | [Schweißperlen](https://open.spotify.com/album/6ON8j7fH7Sxr51rYpMb7cm) | 3:20 |
 | 27 | [Wie schön du bist](https://open.spotify.com/track/2xtnnO9bHKXEmsfetO3ldK) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Muttersprache \(Deluxe Version\)](https://open.spotify.com/album/3ZpOEFd7RgKIcdWOqrzOAc) | 3:38 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 59 | [Weil ich dich liebe \- Remastered](https://open.spotify.com/track/6J4IzVtA7Uk6heQqcKGwy8) | [Westernhagen](https://open.spotify.com/artist/6El2bDJ8PlTKVYyEPWxfAS) | [Halleluja \(Remastered\)](https://open.spotify.com/album/12hxaOkQlSGpmhcj1EwL48) | 4:46 |
 | 60 | [2012](https://open.spotify.com/track/6bM4daGlfZHtKMQp8tEqVz) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [2012](https://open.spotify.com/album/4JgV7DMC1wFGGdgttRtETz) | 2:50 |
 
-Snapshot ID: `MCw3ZGRmYjU4NDAzYmM5OTIzZWExNDMxZTgzNjVmZThlN2ZhMWJiNjk4`
+Snapshot ID: `MCw3MGNjNTE5NzExMDQwNjZkYTY5NzFjMzA1ZThkZmIzNGM3YjJjZjk1`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDY3MjA5NWUzMTg1ZjJiMDJiN2U0NjExYTM4ZjhlYTBhYTc2NzE5",
+  "snapshot_id": "MCw2NzhkMWNkNzcxM2NhNDhlYzY2MTA3ZjRlM2M0ZmZlNDVkNzJlNTA2",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Middle of the Road",
-        "url": "https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/41PprdpECRjIzJJX5BKd07"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Stronger For It",
         "url": "https://open.spotify.com/album/1sCv9I6R8QMWsjSG9yxJcA"
       },
@@ -723,6 +707,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Middle of the Road",
+        "url": "https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/41PprdpECRjIzJJX5BKd07"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Girls With Guitars",
         "url": "https://open.spotify.com/album/4lSq7OFkNp2R3xIdjNgewS"
       },
@@ -755,6 +755,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "The Son Of A Bluesman",
+        "url": "https://open.spotify.com/album/4ncErgtor51fjBYPYQ7hk9"
+      },
+      "artists": [
+        {
+          "name": "Lucky Peterson",
+          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
+        }
+      ],
+      "duration_ms": 281013,
+      "name": "Funky Broadway",
+      "url": "https://open.spotify.com/track/6PiG0h2rJuBodPoHcqiwZs"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Times Have Changed",
         "url": "https://open.spotify.com/album/5CjUUKNjZj3rjOIrph5xxx"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 233560,
       "name": "Come On Up",
       "url": "https://open.spotify.com/track/2w34s0Ym9EmBrOChohADgW"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "The Son Of A Bluesman",
-        "url": "https://open.spotify.com/album/4ncErgtor51fjBYPYQ7hk9"
-      },
-      "artists": [
-        {
-          "name": "Lucky Peterson",
-          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
-        }
-      ],
-      "duration_ms": 281013,
-      "name": "Funky Broadway",
-      "url": "https://open.spotify.com/track/6PiG0h2rJuBodPoHcqiwZs"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Girls With Guitars",
-        "url": "https://open.spotify.com/album/4lSq7OFkNp2R3xIdjNgewS"
-      },
-      "artists": [
-        {
-          "name": "Cassie Taylor / Dani Wilde / Samantha Fish",
-          "url": "https://open.spotify.com/artist/2lL46Pd4sRMERjkg0GbdDc"
-        }
-      ],
-      "duration_ms": 214133,
-      "name": "Mr. Loving Man",
-      "url": "https://open.spotify.com/track/7e6WgLvvZh7fWp0lYfdVm7"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Show Of Strength",
         "url": "https://open.spotify.com/album/3ud6I5e1AGFRbBYb0UvZO3"
       },
@@ -859,6 +843,30 @@
       "duration_ms": 360146,
       "name": "Little Juke Joint",
       "url": "https://open.spotify.com/track/6XgNLPqmKIo9HUwtwngAJc"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "50 - Just warming up !",
+        "url": "https://open.spotify.com/album/25DudAOE7STeKctgnHdrvt"
+      },
+      "artists": [
+        {
+          "name": "Lucky Peterson",
+          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
+        },
+        {
+          "name": "Danielia Cotton",
+          "url": "https://open.spotify.com/artist/50miJwBy3aOhmUFpyewX5t"
+        },
+        {
+          "name": "Sugar Blue",
+          "url": "https://open.spotify.com/artist/3HojqGF4FshKki7Ku6gPqE"
+        }
+      ],
+      "duration_ms": 275226,
+      "name": "Let The Good Time Party Begin",
+      "url": "https://open.spotify.com/track/0IISDvjnvAI30eXFhRzKQ6"
     }
   ],
   "unique_name": "Blues Party",

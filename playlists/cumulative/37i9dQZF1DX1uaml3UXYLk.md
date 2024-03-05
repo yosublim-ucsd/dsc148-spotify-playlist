@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-582 songs - 1 day 12 hr 18 min
+585 songs - 1 day 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [guidance](https://open.spotify.com/track/0CQ9nsxVPYnPV0AsOnSKFD) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [guidance](https://open.spotify.com/album/3LAbfKYJjzKVbHvnbwp9ih) | 3:22 | 2023-10-02 |  |
 | [Guybrush](https://open.spotify.com/track/5Uk37TLnoOQzOh5tH6iaDb) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Moves EP](https://open.spotify.com/album/5zW05MYM8hD6pBbhbyjQlC) | 3:57 | 2021-08-25 | 2022-05-20 |
 | [Hands Together](https://open.spotify.com/track/0iF45VLtixkCC2X2EcJSwn) | [SOL LOS](https://open.spotify.com/artist/7kVyiWLcDMgRtgVbkXhnF8) | [Hands Together](https://open.spotify.com/album/5HYOtc2HyXAgComHOL981p) | 3:09 | 2022-01-21 | 2023-04-07 |
+| [Haven](https://open.spotify.com/track/7dFxH93eSYwUvhhXRv2yoM) | [Edward The Eagle](https://open.spotify.com/artist/2Un95yxT6GCP6qwydEfQ4d) | [Haven](https://open.spotify.com/album/1I9Zboat8AKj4GPAd5zado) | 2:11 | 2024-03-04 |  |
 | [Heads Up](https://open.spotify.com/track/2FTO3XZkp89p0CgbGYzwZf) | [Ori Kul](https://open.spotify.com/artist/5z8cjgepcL6KMXRzOJXVf5) | [Heads Up](https://open.spotify.com/album/0GBz9hb37EU9qvSJirMXm9) | 2:24 | 2021-08-25 |  |
 | [Heal](https://open.spotify.com/track/4dG60HVfXLp8W8CNch9ud8) | [Jaanuh](https://open.spotify.com/artist/5wIBCDHMckvUu66NesX0yP) | [Heal](https://open.spotify.com/album/2P1z11aXo2N9vOynBf2jfW) | 2:55 | 2020-10-20\* | 2020-11-28 |
 | [Healing](https://open.spotify.com/track/6OjGH6sqM6q8MGnrZTk0c9) | [Carinth](https://open.spotify.com/artist/330FPb6pKzidkaSS968Ezm) | [Healing](https://open.spotify.com/album/7EQcniYCOpy5esxmUCO8pI) | 2:14 | 2024-01-23 |  |
@@ -337,6 +338,7 @@
 | [Natural High](https://open.spotify.com/track/0yxyUSZkaQUtIMPoFRo93R) | [Second Act](https://open.spotify.com/artist/7vf7XkMalUVtZK11FcOvU1) | [Natural High](https://open.spotify.com/album/5j7iIwdKPce2lPRAdmlmVS) | 7:16 | 2020-10-20\* | 2020-12-24 |
 | [Neon Love](https://open.spotify.com/track/0c1hYWkQFcp1ZaGvZEQOju) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [Neon Love](https://open.spotify.com/album/0QCuvZuYN0e13rpWQlOlbd) | 2:50 | 2023-02-17 |  |
 | [Neptunus](https://open.spotify.com/track/6lXmtXT47uFZ4CQndLQWnO) | [Joel Forsberg](https://open.spotify.com/artist/5L3kqpAo1Qmae2kEmBRU8R) | [Neptunus](https://open.spotify.com/album/4yrK6AaPtUWPAcrwT7fAyh) | 6:43 | 2021-02-24 | 2021-03-25 |
+| [Nest](https://open.spotify.com/track/2ijfMAJhIbZzsEvpZTywIX) | [Gloster Gladiator](https://open.spotify.com/artist/1qwnni8v2EwPmnotgdJWBg) | [Nest](https://open.spotify.com/album/2Pzb9MdNOXTcPI1yrqUTvt) | 2:05 | 2024-03-04 |  |
 | [never ever ever](https://open.spotify.com/track/2MnxU9rlvV1MLATXGPB6xo) | [Ollton](https://open.spotify.com/artist/6LCyJL9b14HUBcAt8A3Wbk) | [never ever ever](https://open.spotify.com/album/79jO39cMwRC9P5BnJagqTF) | 3:25 | 2023-08-04 |  |
 | [New Angeles](https://open.spotify.com/track/5y0tN7T4fu7fNnHp4RYcpH) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [New Angeles](https://open.spotify.com/album/4cSf0FF9F9yqMVwmV9vY1A) | 2:21 | 2023-06-23 |  |
 | [New Frontier](https://open.spotify.com/track/6hkZ974ZJcWY6NorsnIFIV) | [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek) | [New Frontier](https://open.spotify.com/album/3cSuL271dmIfPhrzwbcCvE) | 3:30 | 2020-10-20\* | 2021-03-25 |
@@ -482,6 +484,7 @@
 | [SPF](https://open.spotify.com/track/1tqvyTyYlfi3CMH5dnaySS) | [Jasise](https://open.spotify.com/artist/1Q8mBvNTwlCJWrpyp4zwHt) | [SPF](https://open.spotify.com/album/6G2WsFZ9YKQhXyJZUc1UJ8) | 2:59 | 2021-07-09 |  |
 | [Spicy \- Disco Edit](https://open.spotify.com/track/01b16Z7WnxoK8EkZmj8yF6) | [Curacado](https://open.spotify.com/artist/3MnwSIICaUw2aBQiOklr1b) | [Spicy \- Disco Edit](https://open.spotify.com/album/5EVKank3vCy7E0ZW7Bo6XU) | 2:57 | 2021-11-10 |  |
 | [Spinn](https://open.spotify.com/track/0fyQrTaCAbbbTmRBbMxICv) | [Off Grand](https://open.spotify.com/artist/1O3Vddh08h7H2GWTqxbZ77) | [Spinn](https://open.spotify.com/album/46UKdbMr79aySMIiL5wXqd) | 2:52 | 2021-07-09 |  |
+| [spring](https://open.spotify.com/track/1E1Ml4DgQZ2QVp2UztwyvD) | [eights signs](https://open.spotify.com/artist/1g4nMMWi74Aku7ZDd6Yjtx) | [spring](https://open.spotify.com/album/2eUkNLaVHEjGtMPopULYoA) | 3:02 | 2024-03-04 |  |
 | [Spring](https://open.spotify.com/track/2yj0VKQl5QnhFZxtWIwm5r) | [Miname](https://open.spotify.com/artist/53GW0WvN934yhgq2Nng7mI) | [Spring](https://open.spotify.com/album/15CSKkPD5wJL7IYNC2iW4S) | 7:23 | 2021-01-29 | 2021-02-20 |
 | [Start With a Boost](https://open.spotify.com/track/1p9m16MnsFkWy6Se1OJXSV) | [Harvio](https://open.spotify.com/artist/0VCoyPtLDeOvxwvHeCX7Jx) | [Start With a Boost](https://open.spotify.com/album/6x1dPqsscs9JXFcADmn7Ik) | 3:36 | 2021-04-15 | 2021-05-13 |
 | [Stay Hazy](https://open.spotify.com/track/6kO1RFWTIgletNVPVj9H5S) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Stay Hazy / Insomnia](https://open.spotify.com/album/6jiv6wvCNTN6bHiloaS8mt) | 4:44 | 2021-11-10 | 2022-02-11 |

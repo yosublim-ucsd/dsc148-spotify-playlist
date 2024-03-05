@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Oo4IE.md) - [plain]
 
 > This is Janis Joplin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,693 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,717 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Oo4IE.md) - [plain]
 | 32 | [Call On Me \- Live](https://open.spotify.com/track/2sUUxw9YpOxVqsoehLkwqd) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Raw Velvet \(Live '66\)](https://open.spotify.com/album/3lLyZCP5HXuu8O0UKMm1TU) | 3:51 |
 | 33 | ["How 'Bout This?"](https://open.spotify.com/track/2cLeyjgYro18QHgJA6N36h) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC), [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [The Legendary Typewriter Tape: 6/25/64 Jorma's House](https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF) | 1:10 |
 | 34 | [Piece Of My Heart \- Live at The Woodstock Music & Art Fair, August 17, 1969](https://open.spotify.com/track/6vP58GXFuniePZLJkJzk0g) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Janis Joplin: The Woodstock Experience](https://open.spotify.com/album/6U1PifBvvskUGjsJGeKGp4) | 4:57 |
-| 35 | [Me \- Live 1969](https://open.spotify.com/track/56w8vxskZpVGphNxBfkUoS) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Livin' Is Easy \(Live 1969\)](https://open.spotify.com/album/3BWz5OCpDXmYfCN3ggRUwi) | 1:50 |
-| 36 | [To Love Someboy \(Live The Dick Cavett TV Show 8th July 1969\]](https://open.spotify.com/track/5oZKxXSTGwt769hWxadMLo) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [The Television Broadcast Sessions 1968 \-1970](https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz) | 3:16 |
+| 35 | [To Love Someboy \(Live The Dick Cavett TV Show 8th July 1969\]](https://open.spotify.com/track/5oZKxXSTGwt769hWxadMLo) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [The Television Broadcast Sessions 1968 \-1970](https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz) | 3:16 |
+| 36 | [Me \- Live 1969](https://open.spotify.com/track/56w8vxskZpVGphNxBfkUoS) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Livin' Is Easy \(Live 1969\)](https://open.spotify.com/album/3BWz5OCpDXmYfCN3ggRUwi) | 1:50 |
 | 37 | [Long Black Train](https://open.spotify.com/track/4kOb2Bu8UPRHpEJpza4hd5) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC), [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [The Legendary Typewriter Tape: 6/25/64 Jorma's House](https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF) | 3:54 |
 | 38 | [Raise Your Hand \- Live at Jahrhunderthalle, Frankfurt, Germany](https://open.spotify.com/track/6grR9jNzUcXpE8aq80Nqtg) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Janis: Little Girl Blue \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5F6Th386ar5HNmOkcA0QrK) | 3:44 |
 | 39 | [Flower In the Sun \- Live at the Winterland Ballroom, San Francisco, CA \- April 1968](https://open.spotify.com/track/5BrrkvuqvPz3kvdHNRsTCi) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Janis Joplin Live At Winterland '68](https://open.spotify.com/album/4V0cCuHywHvFeYTptF1GmT) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Oo4IE.md) - [plain]
 | 49 | [Overheard In The Studio...](https://open.spotify.com/track/0rB1ACV8tKm8lDGtsgMfIO) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [The Pearl Sessions](https://open.spotify.com/album/2wkjA7zJrCFQcBJpD4tHA7) | 1:39 |
 | 50 | [I Know You Rider](https://open.spotify.com/track/6GDpRUjZ4v6pQ4jK121ePG) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [I Know You Rider](https://open.spotify.com/album/2hOmBtJar9W2AQnENrBcLx) | 3:13 |
 
-Snapshot ID: `Mjg0OTExMzksMDAwMDAwMDA4OTkxNWE1ZWFlYzFlNzZiMjdkYmQ1OTcxNWZlMGM1NA==`
+Snapshot ID: `Mjg0OTI1NjksMDAwMDAwMDA3MTQwNDNmNTdhMmU3ZTBlZmI3ZGYyNGQ2NGVmNWUwNg==`

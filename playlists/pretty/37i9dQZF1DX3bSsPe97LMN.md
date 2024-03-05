@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. El Guero MP, Galvancillo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,477 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,515 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 46 | [Llegar A La Luna](https://open.spotify.com/track/56Ya7Vj9jcXY2rghRfVB1R) | [Jassiel Gutierrez](https://open.spotify.com/artist/0R9UUAXkhio5Vdj76xDKzv) | [Llegar A La Luna](https://open.spotify.com/album/68OaTF0C5uLmD2FtXbxAPK) | 3:34 |
 | 47 | [CELOSO](https://open.spotify.com/track/2M9bbvrClHRNUvipXTFxK7) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [CELOSO](https://open.spotify.com/album/4OWLOru17aWeqTWg7TSxKb) | 3:05 |
 | 48 | [Alta Joya](https://open.spotify.com/track/1mcW8W3MAKP1daibEnOlRv) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Alta Joya](https://open.spotify.com/album/2WH2HCRoqqL7Vag4wRsSva) | 3:21 |
-| 49 | [Gallo y Mi Cuerno](https://open.spotify.com/track/5spGDsdSSflFVnhSzIRAnS) | [Angel Tumbado](https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq) | [Gallo y Mi Cuerno](https://open.spotify.com/album/76uSaPvd5aVD1TBzrQG39S) | 2:32 |
-| 50 | [Bolsita Rosita](https://open.spotify.com/track/6hxn7RsbsxqwuZCHqzKSUV) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Bolsita Rosita](https://open.spotify.com/album/3unMmtTDq5aauuwk3cfUvK) | 2:48 |
-| 51 | [Rápido](https://open.spotify.com/track/59wfN7Wrwy48cADOItTXjY) | [Diego Coss](https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O) | [Rápido](https://open.spotify.com/album/1oyD2MCtu40tDL41zsHsOS) | 3:14 |
+| 49 | [Rápido](https://open.spotify.com/track/59wfN7Wrwy48cADOItTXjY) | [Diego Coss](https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O) | [Rápido](https://open.spotify.com/album/1oyD2MCtu40tDL41zsHsOS) | 3:14 |
+| 50 | [Gallo y Mi Cuerno](https://open.spotify.com/track/5spGDsdSSflFVnhSzIRAnS) | [Angel Tumbado](https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq) | [Gallo y Mi Cuerno](https://open.spotify.com/album/76uSaPvd5aVD1TBzrQG39S) | 2:32 |
+| 51 | [Bolsita Rosita](https://open.spotify.com/track/6hxn7RsbsxqwuZCHqzKSUV) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Bolsita Rosita](https://open.spotify.com/album/3unMmtTDq5aauuwk3cfUvK) | 2:48 |
 | 52 | [Space](https://open.spotify.com/track/2Boxlcvc6NrhxRXFK2j8HV) | [Geru y Su Legion 7](https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch) | [Space](https://open.spotify.com/album/1GROt8IvJozOdYhxPyx1cU) | 3:22 |
 | 53 | [Fueguito](https://open.spotify.com/track/7gZmD2haWuRtF7xeNZx4Qy) | [Misael Gutiérrez](https://open.spotify.com/artist/4TAlMkVgr4FK7INJXQLzfS) | [Fueguito](https://open.spotify.com/album/6yGahk3lx0jzN0f90KJBP1) | 3:15 |
 | 54 | [En La Lumbre \- En Vivo, Sonora, México, 2023](https://open.spotify.com/track/2ZnQIKPgq3SptPgG4XTnYU) | [Jessy Castillo](https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61) | [En La Lumbre \(En Vivo, Sonora, México, 2023\)](https://open.spotify.com/album/0xroiBY5yESM9Rp7qh1dFM) | 2:42 |
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 61 | [Lo Elegiste A Él](https://open.spotify.com/track/5aV72PbCRUDikF8lGS14Sf) | [Los Nietos De Terán](https://open.spotify.com/artist/2aRlqEM3PhwgKtXmYOWhFf) | [Lo Elegiste A Él](https://open.spotify.com/album/6JywXnLcBu3X2WEgDJKPs8) | 2:50 |
 | 62 | [Ex De Verdad](https://open.spotify.com/track/48ijjRNk7QxR8c9HEs9Tne) | [Angel Montoya](https://open.spotify.com/artist/2z176UA0TCYX0tghkNY5rH) | [Ex De Verdad](https://open.spotify.com/album/3D3mdCug3XqLRkrII8L5yh) | 2:59 |
 | 63 | [Al Ladito Mío](https://open.spotify.com/track/4e9lspYSMSTPfxGh6gSoPp) | [Brianda](https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf) | [Al Ladito Mío](https://open.spotify.com/album/6rpbmmLpAIrjkO8r4ZwyHQ) | 2:42 |
-| 64 | [Lo Obvio](https://open.spotify.com/track/4gLsJ73b2gHw5Zc9YZgZjz) | [Reflejo Nuevo](https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8) | [Lo Obvio](https://open.spotify.com/album/69WQe5IHTQR4Jxo6sCmqRi) | 2:20 |
-| 65 | [La Tostada](https://open.spotify.com/track/1iHDT9mosEvwDMHgROl0Vp) | [Los del roble](https://open.spotify.com/artist/4GP79lfzsxYXZn1HNu31Dj) | [La Tostada](https://open.spotify.com/album/0p0bDZxCPtc2NKmlnQin5j) | 3:35 |
-| 66 | [Tranquilo Y Sencillo](https://open.spotify.com/track/0ON5YTUgh0gMtSzIThCsR2) | [Ruben Figueroa](https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg), [El Nuevo Equipo](https://open.spotify.com/artist/4HX57pJhKXFXfUTbJZrXxb) | [Tranquilo Y Sencillo](https://open.spotify.com/album/1Qxk4L0BCfokCm1k3HYMeJ) | 3:07 |
+| 64 | [La Tostada](https://open.spotify.com/track/1iHDT9mosEvwDMHgROl0Vp) | [Los del roble](https://open.spotify.com/artist/4GP79lfzsxYXZn1HNu31Dj) | [La Tostada](https://open.spotify.com/album/0p0bDZxCPtc2NKmlnQin5j) | 3:35 |
+| 65 | [Tranquilo Y Sencillo](https://open.spotify.com/track/0ON5YTUgh0gMtSzIThCsR2) | [Ruben Figueroa](https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg), [El Nuevo Equipo](https://open.spotify.com/artist/4HX57pJhKXFXfUTbJZrXxb) | [Tranquilo Y Sencillo](https://open.spotify.com/album/1Qxk4L0BCfokCm1k3HYMeJ) | 3:07 |
+| 66 | [Lo Obvio](https://open.spotify.com/track/4gLsJ73b2gHw5Zc9YZgZjz) | [Reflejo Nuevo](https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8) | [Lo Obvio](https://open.spotify.com/album/69WQe5IHTQR4Jxo6sCmqRi) | 2:20 |
 | 67 | [Quiero Decirte Que Te Amo](https://open.spotify.com/track/2l6eC3vq84kjH84J9fTsj9) | [Franco Rey](https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3), [LP Norteño](https://open.spotify.com/artist/7k3P0gw7SZwWZ718CsDpy5) | [Quiero Decirte Que Te Amo](https://open.spotify.com/album/5gJXHX6LzFFlFpewqOzu4x) | 3:14 |
 | 68 | [Dejémoslo Así](https://open.spotify.com/track/5MKzsXx4mJiVeRoifOyDpg) | [Sherlyn Sánchez](https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl) | [Dejémoslo Así](https://open.spotify.com/album/68uoaAVX3lfeKD2igm1SX1) | 3:29 |
 | 69 | [Truena La Radio](https://open.spotify.com/track/789lqu9CSLfu5JlqrUAbxm) | [Pródigo Secreto](https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC) | [Truena La Radio](https://open.spotify.com/album/6X79Up0ztIAIsxyfstMl37) | 2:26 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 75 | [Diré](https://open.spotify.com/track/69ITm1oTZq5xmdPou7oj2r) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [Diré](https://open.spotify.com/album/4QY1LkigIlmlEato54hQxe) | 3:17 |
 | 76 | [Los Chismes](https://open.spotify.com/track/39DEc4b2WcKd9aNAM37Xa0) | [Lilo Bermudez](https://open.spotify.com/artist/5bES419H93yPwH6fzmrlDa) | [Los Chismes](https://open.spotify.com/album/1b3pThADFDTmQITRpwRqzI) | 2:34 |
 | 77 | [Tal Vez](https://open.spotify.com/track/4KCGkBwcME4GUR96jGvR4s) | [Gabo Ponce](https://open.spotify.com/artist/2Cby4NWU4TyYUK8Lx2LViY) | [Tal Vez](https://open.spotify.com/album/3dKFFChE0pV72EGw3Hhgly) | 5:23 |
-| 78 | [28 Abriles](https://open.spotify.com/track/7t9HSfRTyM6F3Vp94cK5Gl) | [Ricardo Murillo](https://open.spotify.com/artist/0IJGy4mM0W1uOTWQGVsrzx) | [Gracias Por Seguir Mis Pasos \(Deluxe\)](https://open.spotify.com/album/3f92Qny9CpoMlV7PWxeh1I) | 2:33 |
-| 79 | [El Bato Gacho](https://open.spotify.com/track/4zFxX8QAOcoqkCm9QWT7cq) | [Evelyn Ozuna](https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr) | [El Bato Gacho](https://open.spotify.com/album/0UcVh7asl3iQRivR9TSwbH) | 2:25 |
+| 78 | [El Bato Gacho](https://open.spotify.com/track/4zFxX8QAOcoqkCm9QWT7cq) | [Evelyn Ozuna](https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr) | [El Bato Gacho](https://open.spotify.com/album/0UcVh7asl3iQRivR9TSwbH) | 2:25 |
+| 79 | [28 Abriles](https://open.spotify.com/track/7t9HSfRTyM6F3Vp94cK5Gl) | [Ricardo Murillo](https://open.spotify.com/artist/0IJGy4mM0W1uOTWQGVsrzx) | [Gracias Por Seguir Mis Pasos \(Deluxe\)](https://open.spotify.com/album/3f92Qny9CpoMlV7PWxeh1I) | 2:33 |
 | 80 | [EL CHAPULÍN](https://open.spotify.com/track/2Bk7TqMfkc0ihSBapbZKel) | [ARRIOLA](https://open.spotify.com/artist/40C6ypaqw5koNMf06hVked) | [NO HAY NADA MÁS](https://open.spotify.com/album/06JBns9E0YypUBapj5kuQC) | 2:30 |
 | 81 | [x el 215](https://open.spotify.com/track/3KpxZy5MCs8lJlgIAqdtRc) | [Niño Armado](https://open.spotify.com/artist/1iXmwjgoA59F6JIkc8RAJJ) | [x el 215](https://open.spotify.com/album/0JYxLMZ6fgDayKM04oTGlB) | 3:11 |
 | 82 | [La Puerta](https://open.spotify.com/track/2Hu0fh3w7egXqK2M1KkLbU) | [Misael Gutiérrez](https://open.spotify.com/artist/4TAlMkVgr4FK7INJXQLzfS), [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [Mi Clave Eres Tú](https://open.spotify.com/album/39xXaw5d6nJHNcMISNJNuI) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 99 | [Me Gusta Tener de a Dos \(En Vivo\)](https://open.spotify.com/track/47cvF8B8o2U7ee45E8Q0ZI) | [Evelyn Ozuna](https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr) | [En Vivo Desde Houston](https://open.spotify.com/album/0Q9SH5cq1hJq3cpSN995UL) | 2:59 |
 | 100 | [Pregúntale al Diablo](https://open.spotify.com/track/34dr8fWOjiYQlI2mGXeBVH) | [Hendry El Mero Mero](https://open.spotify.com/artist/2dnVGtPJ6ZLyyzahVpPkWP) | [Pregúntale al Diablo](https://open.spotify.com/album/4hdLVZh2WslvvQ3upe1zt5) | 3:42 |
 
-Snapshot ID: `MCxkNThjMWU0NTdhYjhkNTA3NzE2NDFmOWJhMTFhOTdjMTlhNzRjNzM5`
+Snapshot ID: `MCw2ZjkyZDMyOGJhYzJlNWNmMTBiYmNhZWJlODE0MjBiNDZjODc1YTIw`

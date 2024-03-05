@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 
 > Chill tunes for mellow moods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,247 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,259 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 | 6 | [Young](https://open.spotify.com/track/0ad87RTfHWmC2Syh1nOxEd) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Vallis Alps](https://open.spotify.com/album/5mLmU1wyeAM453ysZZozm2) | 5:24 |
 | 7 | [You](https://open.spotify.com/track/4gRuC34ZpRcpVXxMXM1csQ) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [You](https://open.spotify.com/album/4Fzw1NdiDb9pGJPRAVlKXv) | 3:51 |
 | 8 | [Swell \- I'm Sorry](https://open.spotify.com/track/2k17VNNGHPmnGwXZ8KdfPt) | [glophia](https://open.spotify.com/artist/7lcdFVqeMSCGdl2qTHaNJY), [Shiloh](https://open.spotify.com/artist/5r6AkaWwQMMkRBEaaM8AFS) | [Swell \- I'm Sorry](https://open.spotify.com/album/2x6NNjyxtvDBDOv0ywIISX) | 2:37 |
-| 9 | [Besidju](https://open.spotify.com/track/3nUyfV0XhG8sysUfgEDmdI) | [shamana](https://open.spotify.com/artist/79idWEjZLtkCkJ37uHo7Av), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Besidju](https://open.spotify.com/album/07vja1cbDBcvT9CpJAnf0c) | 1:47 |
-| 10 | [We've Never Met but Can We Have a Cup of Coffee or Something](https://open.spotify.com/track/5cvbog6wen3r3bBbcwL16U) | [In Love With a Ghost](https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O) | [Let's Go](https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R) | 3:19 |
+| 9 | [We've Never Met but Can We Have a Cup of Coffee or Something](https://open.spotify.com/track/5cvbog6wen3r3bBbcwL16U) | [In Love With a Ghost](https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O) | [Let's Go](https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R) | 3:19 |
+| 10 | [Besidju](https://open.spotify.com/track/3nUyfV0XhG8sysUfgEDmdI) | [shamana](https://open.spotify.com/artist/79idWEjZLtkCkJ37uHo7Av), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Besidju](https://open.spotify.com/album/07vja1cbDBcvT9CpJAnf0c) | 1:47 |
 | 11 | [Feel It Still \- Medasin Remix](https://open.spotify.com/track/4RVRgJXr8rPcHJqE7WLIcQ) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Woodstock \(Deluxe Edition\)](https://open.spotify.com/album/2mCNJ90uPdrORywFGSxQfX) | 3:14 |
 | 12 | [Waiting for You](https://open.spotify.com/track/1olz3HctPa2yXmSniaCNLN) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T), [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez) | [D97](https://open.spotify.com/album/1mE4mVb9LnzCHVBXKrVTD3) | 3:50 |
 | 13 | [Vibe](https://open.spotify.com/track/3WbkPwphjmI2nMKFyRfbjy) | [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d) | [Vibe](https://open.spotify.com/album/2qTYTA1clU0UK3Ai5hhvRy) | 2:24 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 | 43 | [Surf](https://open.spotify.com/track/162IXWKNMaTHQSnXdT2yPP) | [Common Tiger](https://open.spotify.com/artist/3cFbMn6PWzK9ukWYrObGDi) | [Boom Boom On The Roof, Boom Boom In Your Ears](https://open.spotify.com/album/25Fs92K1G6mixptN7UgNqP) | 2:55 |
 | 44 | [Your Own Truth](https://open.spotify.com/track/2wfqHxQtKQxHrsscsJRNrM) | [James Forest](https://open.spotify.com/artist/6TWuwqkarDY2IXyFaGAQd4) | [Your Own Truth](https://open.spotify.com/album/4vwKFcNLE0kUe8tsb7M4I7) | 4:53 |
 | 45 | [After the Tone with Lossapardo](https://open.spotify.com/track/6fKX7zoYa5nfpHnnmcKg6t) | [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh), [Lossapardo](https://open.spotify.com/artist/6amhIkFAweDp9aQ8FKQ606) | [After the Tone with Lossapardo](https://open.spotify.com/album/4O6xAkwEEunTtOIv05VpOm) | 2:33 |
-| 46 | [Fleur](https://open.spotify.com/track/3xSZxEmRIZAZT7pgzT0Ik0) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC), [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Fleur](https://open.spotify.com/album/03TbEEt7j2I4NnSqOa2F44) | 4:19 |
-| 47 | [White Gemini](https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te) | [Beshken](https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB) | [Aisle of Palm](https://open.spotify.com/album/7GIqa5FgfcxOztfGL48KDr) | 3:38 |
-| 48 | [Yellow Dust](https://open.spotify.com/track/01JqaZsSE7IaIdxtI1FSvM) | [Miink](https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg) | [Small Clan](https://open.spotify.com/album/0b8dYZrXDD65hMekrzie9J) | 3:52 |
+| 46 | [White Gemini](https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te) | [Beshken](https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB) | [Aisle of Palm](https://open.spotify.com/album/7GIqa5FgfcxOztfGL48KDr) | 3:38 |
+| 47 | [Yellow Dust](https://open.spotify.com/track/01JqaZsSE7IaIdxtI1FSvM) | [Miink](https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg) | [Small Clan](https://open.spotify.com/album/0b8dYZrXDD65hMekrzie9J) | 3:52 |
+| 48 | [Fleur](https://open.spotify.com/track/3xSZxEmRIZAZT7pgzT0Ik0) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC), [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Fleur](https://open.spotify.com/album/03TbEEt7j2I4NnSqOa2F44) | 4:19 |
 | 49 | [Brother](https://open.spotify.com/track/6gtZgL7jUHYUQa3JvFJT90) | [mAsis](https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw) | [Brother](https://open.spotify.com/album/2EY8U8KLgvUn5f7eUNxVN5) | 3:38 |
 | 50 | [Echo Park](https://open.spotify.com/track/79nZqX37kRq35LKbiJxUW0) | [Reptaliens](https://open.spotify.com/artist/0CbJ7vhSBVagdeLhNcf9v1) | [VALIS](https://open.spotify.com/album/5JhPxcOnJBO2tnypyuellA) | 3:18 |
 | 51 | [Glow](https://open.spotify.com/track/4B7XzgVjcNfoF8tIKgYhXE) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Wave001](https://open.spotify.com/album/35oHamcgtC5WELUtHUGJQk) | 3:02 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 | 59 | [Words I Don't Remember](https://open.spotify.com/track/69tms8bn7pYZck6hJw6X1e) | [How To Dress Well](https://open.spotify.com/artist/4jLcgJjDGmW0HmvbSf6lEI) | ["What Is This Heart?" \(Deluxe Edition\)](https://open.spotify.com/album/54E5JvQWalx8xQ7TAeBGvf) | 6:18 |
 | 60 | [They Came Along](https://open.spotify.com/track/2pHmVgvvl7IJdxaofJ88YX) | [Haulm](https://open.spotify.com/artist/6a0Kn7yto6kNqngYq9fC21) | [They Came Along](https://open.spotify.com/album/5xpYPGDdWhSsP6DuRwYub5) | 5:57 |
 
-Snapshot ID: `MCwwMzM4MzNhN2RiZWY2MDgyYTdhYThjMWQ0ODBhNTE3ODE0OTU3Mzgx`
+Snapshot ID: `MCxhYjYxZTQyMDM4MmNiODcyZmUwYjJhOGYzYTdiYzFiMGUxYzUxOTUx`

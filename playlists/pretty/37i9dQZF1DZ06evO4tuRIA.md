@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 
 > This is LEGADO 7\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,876 likes - 52 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,899 likes - 52 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 | 22 | [El Gori](https://open.spotify.com/track/1HKCPYUanIF67N6vWknABj) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [El Gori](https://open.spotify.com/album/22J5eVxDiCkMMalHqT2jzK) | 2:17 |
 | 23 | [Cupcake Quemando](https://open.spotify.com/track/2AEIwBU42xkLwkCj7i7USv) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Cupcake Quemando](https://open.spotify.com/album/4jRTPn5owoTaIbmrIgxLjp) | 3:17 |
 | 24 | [Soy Lo Que Soy](https://open.spotify.com/track/1l3pEeeJygmbS1yVnrd7Cq) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [4\-20\-20](https://open.spotify.com/album/2kdiYl2mgBwY3cvEmIeSgD) | 3:00 |
-| 25 | [Fruta Prohibida](https://open.spotify.com/track/39MVkJ39r1JoBUPVQnlTfa) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [En Vivo Con Tololoche Vol\. 3](https://open.spotify.com/album/6EW70R9qB26IFFg4vXjcx9) | 2:48 |
-| 26 | [Brindo](https://open.spotify.com/track/2kDspygoquCoFkJDEc7boN) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Galvancillo](https://open.spotify.com/artist/1CoKmNxIr7haxlqBCzVnMV), [Juan De Ron](https://open.spotify.com/artist/3yrMnFLhmMGBW37Nse1VQl) | [Brindo](https://open.spotify.com/album/6QTQycuYjE89y8NaYIr6Nt) | 2:48 |
+| 25 | [Brindo](https://open.spotify.com/track/2kDspygoquCoFkJDEc7boN) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Galvancillo](https://open.spotify.com/artist/1CoKmNxIr7haxlqBCzVnMV), [Juan De Ron](https://open.spotify.com/artist/3yrMnFLhmMGBW37Nse1VQl) | [Brindo](https://open.spotify.com/album/6QTQycuYjE89y8NaYIr6Nt) | 2:48 |
+| 26 | [Fruta Prohibida](https://open.spotify.com/track/39MVkJ39r1JoBUPVQnlTfa) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [En Vivo Con Tololoche Vol\. 3](https://open.spotify.com/album/6EW70R9qB26IFFg4vXjcx9) | 2:48 |
 | 27 | [The Bank Robbery](https://open.spotify.com/track/5xlAr5fNDmI38RlPBpVwvS) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [The Bank Robbery \(feat\. Herencia de Patrones\)](https://open.spotify.com/album/5neNi0izz26mhmGuyJ0U5C) | 2:38 |
 | 28 | [El Amor No Va Conmigo](https://open.spotify.com/track/5BC3WcsvtWm3d7nVuyAGMe) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Un Chamaco Sin Futuro](https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI) | 2:21 |
 | 29 | [Paso En Culiacan \(En Vivo\)](https://open.spotify.com/track/0PXsTgZLZkpEJepjyZAGTS) | [Jaime Y Fernando](https://open.spotify.com/artist/6hd4yoO98vmwUq150wB5gm), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Paso En Culiacan \(En Vivo\)](https://open.spotify.com/album/6dWQ03bpI9ODThTAlqKWbP) | 4:00 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 | 51 | [En El Calorón](https://open.spotify.com/track/6N7TWCgpK7kRfpnyQ6yt5B) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ) | [En El Calorón](https://open.spotify.com/album/7gPpeOQQNtZn90O5YvA7Ai) | 2:39 |
 | 52 | [Olor a Kush](https://open.spotify.com/track/2MUyOgaUmr77dHeqPoZhAc) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [100% Corridos Verdes](https://open.spotify.com/album/1DUb3GFpaTgNkxkCjdoc2i) | 2:36 |
 
-Snapshot ID: `Mjg0OTExMzksMDAwMDAwMDBjZjc5ZDQ2MmU4ODJlZmM3MjI1OWEwZDU0NDE1NDMyOA==`
+Snapshot ID: `Mjg0OTI1NjksMDAwMDAwMDA4MjZkMzY0MTA5NGU0YTEwNWM0YTU0NGU1NDhiYTY5MA==`

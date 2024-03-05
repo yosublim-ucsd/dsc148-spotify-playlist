@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 68146,
+  "num_followers": 68282,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWYxNGRmMGU0NTgyMjRjYzlmYTg2ZTUyMmMwNTI2ZjQyNTNkYjhl",
+  "snapshot_id": "MCxiZDE0MzQ2NGU3NzJlMzUzYmU4NWFlMzEyM2QxMjdjMTA0YzAyZjk1",
   "tracks": [
     {
       "added_at": "2024-03-01 04:00:00",
@@ -135,6 +135,22 @@
     {
       "added_at": "2024-03-01 04:00:00",
       "album": {
+        "name": "Cloud Memory",
+        "url": "https://open.spotify.com/album/1uu3zbo7cvj4NM2U15fCOU"
+      },
+      "artists": [
+        {
+          "name": "Jim Perkins",
+          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
+        }
+      ],
+      "duration_ms": 117585,
+      "name": "Cloud Memory",
+      "url": "https://open.spotify.com/track/2dUIvQRy9wfxNVcm0JLwNm"
+    },
+    {
+      "added_at": "2024-03-01 04:00:00",
+      "album": {
         "name": "Frost",
         "url": "https://open.spotify.com/album/4gn0GVFZ6ckwtHYuu6SKpH"
       },
@@ -207,18 +223,22 @@
     {
       "added_at": "2024-03-01 04:00:00",
       "album": {
-        "name": "Cloud Memory",
-        "url": "https://open.spotify.com/album/1uu3zbo7cvj4NM2U15fCOU"
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/2nxnCjbaiAEJ4yBDMnQhJ8"
       },
       "artists": [
         {
-          "name": "Jim Perkins",
-          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         }
       ],
-      "duration_ms": 117585,
-      "name": "Cloud Memory",
-      "url": "https://open.spotify.com/track/2dUIvQRy9wfxNVcm0JLwNm"
+      "duration_ms": 292880,
+      "name": "Whispering House",
+      "url": "https://open.spotify.com/track/3Rp6QRg26D55gGRFlfHltm"
     },
     {
       "added_at": "2024-03-01 04:00:00",
@@ -263,26 +283,6 @@
     {
       "added_at": "2024-03-01 04:00:00",
       "album": {
-        "name": "Ghosts",
-        "url": "https://open.spotify.com/album/2nxnCjbaiAEJ4yBDMnQhJ8"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        },
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 292880,
-      "name": "Whispering House",
-      "url": "https://open.spotify.com/track/3Rp6QRg26D55gGRFlfHltm"
-    },
-    {
-      "added_at": "2024-03-01 04:00:00",
-      "album": {
         "name": "Modulations: EP2",
         "url": "https://open.spotify.com/album/7fNhlZ4KOktVAWHggoaLut"
       },
@@ -295,6 +295,30 @@
       "duration_ms": 201335,
       "name": "Glimmer",
       "url": "https://open.spotify.com/track/5iqdZaQrlC4RoGunG5TgHM"
+    },
+    {
+      "added_at": "2024-03-01 04:00:00",
+      "album": {
+        "name": "Delicately",
+        "url": "https://open.spotify.com/album/7yh6bUD0zf7uDGeufUHh85"
+      },
+      "artists": [
+        {
+          "name": "Jim Perkins",
+          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
+        },
+        {
+          "name": "Javi Lobe",
+          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
+        },
+        {
+          "name": "Anna De Bruin",
+          "url": "https://open.spotify.com/artist/1VE5Yi7cxQZsCF044htLO4"
+        }
+      ],
+      "duration_ms": 123251,
+      "name": "Delicately",
+      "url": "https://open.spotify.com/track/4hL2tCFmEkRBfaVsZ8G7lC"
     },
     {
       "added_at": "2024-03-01 04:00:00",
@@ -347,30 +371,6 @@
       "duration_ms": 278400,
       "name": "TREE",
       "url": "https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d"
-    },
-    {
-      "added_at": "2024-03-01 04:00:00",
-      "album": {
-        "name": "Delicately",
-        "url": "https://open.spotify.com/album/7yh6bUD0zf7uDGeufUHh85"
-      },
-      "artists": [
-        {
-          "name": "Jim Perkins",
-          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
-        },
-        {
-          "name": "Javi Lobe",
-          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
-        },
-        {
-          "name": "Anna De Bruin",
-          "url": "https://open.spotify.com/artist/1VE5Yi7cxQZsCF044htLO4"
-        }
-      ],
-      "duration_ms": 123251,
-      "name": "Delicately",
-      "url": "https://open.spotify.com/track/4hL2tCFmEkRBfaVsZ8G7lC"
     },
     {
       "added_at": "2024-03-01 04:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-03-01 04:00:00",
       "album": {
+        "name": "Somnia",
+        "url": "https://open.spotify.com/album/7dtv2mPeog1e4VssWa3zh4"
+      },
+      "artists": [
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        }
+      ],
+      "duration_ms": 198323,
+      "name": "Somnia",
+      "url": "https://open.spotify.com/track/3Q1jt1WHNwsszyEAJmyaRL"
+    },
+    {
+      "added_at": "2024-03-01 04:00:00",
+      "album": {
         "name": "The Invisible EP",
         "url": "https://open.spotify.com/album/2YlB5eElaicdKaMYZVUHsO"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 168085,
       "name": "The Drifter",
       "url": "https://open.spotify.com/track/4u2Kn8DaYBEuB19AjWcMDn"
-    },
-    {
-      "added_at": "2024-03-01 04:00:00",
-      "album": {
-        "name": "Somnia",
-        "url": "https://open.spotify.com/album/7dtv2mPeog1e4VssWa3zh4"
-      },
-      "artists": [
-        {
-          "name": "Peter Gregson",
-          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
-        }
-      ],
-      "duration_ms": 198323,
-      "name": "Somnia",
-      "url": "https://open.spotify.com/track/3Q1jt1WHNwsszyEAJmyaRL"
     },
     {
       "added_at": "2024-03-01 04:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-03-01 04:00:00",
       "album": {
-        "name": "Tripping with Nils Frahm",
-        "url": "https://open.spotify.com/album/1NbOBXUF862DsBNF5byxzh"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 368668,
-      "name": "My Friend the Forest",
-      "url": "https://open.spotify.com/track/6Rkp6fEsvOTR7YxsW5uNyR"
-    },
-    {
-      "added_at": "2024-03-01 04:00:00",
-      "album": {
         "name": "The Swimmer",
         "url": "https://open.spotify.com/album/4pTmusoi7JcIyJFTFdTPek"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 252000,
       "name": "The Swimmer",
       "url": "https://open.spotify.com/track/1xaWQ8IKeg0cJxqhs7RIF4"
+    },
+    {
+      "added_at": "2024-03-01 04:00:00",
+      "album": {
+        "name": "Tripping with Nils Frahm",
+        "url": "https://open.spotify.com/album/1NbOBXUF862DsBNF5byxzh"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 368668,
+      "name": "My Friend the Forest",
+      "url": "https://open.spotify.com/track/6Rkp6fEsvOTR7YxsW5uNyR"
     },
     {
       "added_at": "2024-03-01 04:00:00",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2024-03-01 04:00:00",
       "album": {
-        "name": "Nomadland (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3gd5jLNJnFB2eKn2qQHHZq"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 246257,
-      "name": "Epilogue",
-      "url": "https://open.spotify.com/track/5LqyJJiZ3X74giX7n0QxjF"
-    },
-    {
-      "added_at": "2024-03-01 04:00:00",
-      "album": {
         "name": "Where Do We Go From Here",
         "url": "https://open.spotify.com/album/09d4nYKC7KPz24j1poojCU"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 127147,
       "name": "Berceuse",
       "url": "https://open.spotify.com/track/4xVyVtz7RnAlmlbBh2lJO2"
+    },
+    {
+      "added_at": "2024-03-01 04:00:00",
+      "album": {
+        "name": "Nomadland (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3gd5jLNJnFB2eKn2qQHHZq"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 246257,
+      "name": "Epilogue",
+      "url": "https://open.spotify.com/track/5LqyJJiZ3X74giX7n0QxjF"
     },
     {
       "added_at": "2024-03-01 04:00:00",

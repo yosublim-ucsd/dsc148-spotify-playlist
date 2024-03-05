@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 
 > Our editors' picks of best tracks of 2023 by independent, developing artists from around the world\. Cover: Searows
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,113 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,163 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 99 | [rocketship](https://open.spotify.com/track/76DunIkk8KTicv9fX4iqTc) | [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N), [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [rocketship](https://open.spotify.com/album/5y40MyatlF2aCaMsFTRJDE) | 2:39 |
 | 100 | [Love Language](https://open.spotify.com/track/2hn11FTEwM9YrJyz3XnU5M) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Love Language](https://open.spotify.com/album/5N8NVRBbCenIoCO2QMjdNT) | 3:28 |
 
-Snapshot ID: `MCw4NDllMWY2NzQ5ZTMyOGEyMTcyOTc3OTc3NTUzNTI4MDQ4MWYxNmY0`
+Snapshot ID: `MCwzYzZhMTdiMmQyOTM5NGUxYWYxYjczNjc4OTI0OGZiNjdiZjAzNjQ2`

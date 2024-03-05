@@ -1,12 +1,12 @@
 {
   "description": "Todo el sonido indie de Chile. Foto: Charly Benavente",
-  "num_followers": 124228,
+  "num_followers": 124229,
   "original_name": "Indie Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTk5NTQ5MTJkNWMzZWI1ZTcwNmQ5ZDA2MjhkODJiZDhmODZiZmRj",
+  "snapshot_id": "MCxlYzI2NTNiNzY2NGJkNjYyYjUxZmFlMjA1NTExYzViNjQ0NDZiNzNl",
   "tracks": [
     {
       "added_at": "2024-03-01 03:00:00",
@@ -195,26 +195,6 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
-        "name": "Quer\u00eda Olvidarte",
-        "url": "https://open.spotify.com/album/1epND6FkZBn8fueQXMX32w"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Walker",
-          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
-        },
-        {
-          "name": "F\u00e1rmacos",
-          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
-        }
-      ],
-      "duration_ms": 166058,
-      "name": "Quer\u00eda Olvidarte",
-      "url": "https://open.spotify.com/track/41nuVhzxlAevKkhjthnpU5"
-    },
-    {
-      "added_at": "2024-03-01 03:00:00",
-      "album": {
         "name": "Venus & Blue",
         "url": "https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1"
       },
@@ -243,22 +223,6 @@
       "duration_ms": 139688,
       "name": "Ganas de Dejarte",
       "url": "https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT"
-    },
-    {
-      "added_at": "2024-03-01 03:00:00",
-      "album": {
-        "name": "Un X100To",
-        "url": "https://open.spotify.com/album/3qFH6xUlirc58HvKzoaQnU"
-      },
-      "artists": [
-        {
-          "name": "FrioLento",
-          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
-        }
-      ],
-      "duration_ms": 167673,
-      "name": "Un X100To",
-      "url": "https://open.spotify.com/track/3qqpcNOdikbvhBHfuNmNv0"
     },
     {
       "added_at": "2024-03-01 03:00:00",
@@ -319,6 +283,42 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
+        "name": "Quer\u00eda Olvidarte",
+        "url": "https://open.spotify.com/album/1epND6FkZBn8fueQXMX32w"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        },
+        {
+          "name": "F\u00e1rmacos",
+          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
+        }
+      ],
+      "duration_ms": 166058,
+      "name": "Quer\u00eda Olvidarte",
+      "url": "https://open.spotify.com/track/41nuVhzxlAevKkhjthnpU5"
+    },
+    {
+      "added_at": "2024-03-01 03:00:00",
+      "album": {
+        "name": "Un X100To",
+        "url": "https://open.spotify.com/album/3qFH6xUlirc58HvKzoaQnU"
+      },
+      "artists": [
+        {
+          "name": "FrioLento",
+          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
+        }
+      ],
+      "duration_ms": 167673,
+      "name": "Un X100To",
+      "url": "https://open.spotify.com/track/3qqpcNOdikbvhBHfuNmNv0"
+    },
+    {
+      "added_at": "2024-03-01 03:00:00",
+      "album": {
         "name": "tu voz en mis aud\u00edfonos",
         "url": "https://open.spotify.com/album/6rHOYthUpZN3ZaHnwqNgQS"
       },
@@ -371,6 +371,22 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
+        "name": "Que Nunca Pare",
+        "url": "https://open.spotify.com/album/3u793IkGzcD8JhdcIyvL6v"
+      },
+      "artists": [
+        {
+          "name": "F\u00e1rmacos",
+          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
+        }
+      ],
+      "duration_ms": 204133,
+      "name": "Que Nunca Pare",
+      "url": "https://open.spotify.com/track/2NxkEcNyNzRJHFDexivH7E"
+    },
+    {
+      "added_at": "2024-03-01 03:00:00",
+      "album": {
         "name": "Suave Pendiente",
         "url": "https://open.spotify.com/album/33H62Vxr3nX4jQCvbfHP54"
       },
@@ -407,42 +423,6 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
-        "name": "Que Nunca Pare",
-        "url": "https://open.spotify.com/album/3u793IkGzcD8JhdcIyvL6v"
-      },
-      "artists": [
-        {
-          "name": "F\u00e1rmacos",
-          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
-        }
-      ],
-      "duration_ms": 204133,
-      "name": "Que Nunca Pare",
-      "url": "https://open.spotify.com/track/2NxkEcNyNzRJHFDexivH7E"
-    },
-    {
-      "added_at": "2024-03-01 03:00:00",
-      "album": {
-        "name": "D\u00edas Que No Lloro",
-        "url": "https://open.spotify.com/album/5kmZJiLAcepWRBg6sDWH14"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Walker",
-          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
-        },
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "D\u00edas Que No Lloro",
-      "url": "https://open.spotify.com/track/31Dmo6pBMAWANUuM5i81zc"
-    },
-    {
-      "added_at": "2024-03-01 03:00:00",
-      "album": {
         "name": "Instintos",
         "url": "https://open.spotify.com/album/7sQaOy9wPUgiq2KM94RbES"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 180500,
       "name": "Retazos de Diciembre",
       "url": "https://open.spotify.com/track/0z0emm8aLLdj2Ds3OuT9Kl"
+    },
+    {
+      "added_at": "2024-03-01 03:00:00",
+      "album": {
+        "name": "D\u00edas Que No Lloro",
+        "url": "https://open.spotify.com/album/5kmZJiLAcepWRBg6sDWH14"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        },
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "D\u00edas Que No Lloro",
+      "url": "https://open.spotify.com/track/31Dmo6pBMAWANUuM5i81zc"
     },
     {
       "added_at": "2024-03-01 03:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
-        "name": "Avena",
-        "url": "https://open.spotify.com/album/3y2tTCdRWCM3VqKQpKEsVt"
-      },
-      "artists": [
-        {
-          "name": "ataquemos",
-          "url": "https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E"
-        }
-      ],
-      "duration_ms": 140428,
-      "name": "Piedad",
-      "url": "https://open.spotify.com/track/4vYFrN4yxgUF3mzccFYAIs"
-    },
-    {
-      "added_at": "2024-03-01 03:00:00",
-      "album": {
         "name": "Bailar en la Cuerda Floja",
         "url": "https://open.spotify.com/album/2agLg7JdXzVDGYIJBjuUMU"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 174520,
       "name": "A la Distancia",
       "url": "https://open.spotify.com/track/0KH6xMLizlGJe0VXSjXYBn"
+    },
+    {
+      "added_at": "2024-03-01 03:00:00",
+      "album": {
+        "name": "Avena",
+        "url": "https://open.spotify.com/album/3y2tTCdRWCM3VqKQpKEsVt"
+      },
+      "artists": [
+        {
+          "name": "ataquemos",
+          "url": "https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E"
+        }
+      ],
+      "duration_ms": 140428,
+      "name": "Piedad",
+      "url": "https://open.spotify.com/track/4vYFrN4yxgUF3mzccFYAIs"
     },
     {
       "added_at": "2024-03-01 03:00:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
+        "name": "Al Norte",
+        "url": "https://open.spotify.com/album/4JujA1bT5q4BGZXqfsbFQ8"
+      },
+      "artists": [
+        {
+          "name": "Los Animales Tambi\u00e9n Se Suicidan",
+          "url": "https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T"
+        }
+      ],
+      "duration_ms": 173336,
+      "name": "Al Norte",
+      "url": "https://open.spotify.com/track/34ztqmhrKX3aaARaXKr8vP"
+    },
+    {
+      "added_at": "2024-03-01 03:00:00",
+      "album": {
         "name": "Rapapapaum",
         "url": "https://open.spotify.com/album/2rXJTy0So75AGP4XV1mAxw"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 170057,
       "name": "Rapapapaum",
       "url": "https://open.spotify.com/track/3dvjfnYJUh6ZWKX4ZAxsgT"
-    },
-    {
-      "added_at": "2024-03-01 03:00:00",
-      "album": {
-        "name": "Al Norte",
-        "url": "https://open.spotify.com/album/4JujA1bT5q4BGZXqfsbFQ8"
-      },
-      "artists": [
-        {
-          "name": "Los Animales Tambi\u00e9n Se Suicidan",
-          "url": "https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T"
-        }
-      ],
-      "duration_ms": 173336,
-      "name": "Al Norte",
-      "url": "https://open.spotify.com/track/34ztqmhrKX3aaARaXKr8vP"
     },
     {
       "added_at": "2024-03-01 03:00:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
+        "name": "Hace 10 A\u00f1os",
+        "url": "https://open.spotify.com/album/71f277kinxputEU6wff8To"
+      },
+      "artists": [
+        {
+          "name": "Patio Solar",
+          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
+        }
+      ],
+      "duration_ms": 184250,
+      "name": "Hace 10 A\u00f1os",
+      "url": "https://open.spotify.com/track/1arOrwTLZS2qcUprYTBomD"
+    },
+    {
+      "added_at": "2024-03-01 03:00:00",
+      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/1T0ZC5gGVRUWxCXhAraJ1J"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 200238,
       "name": "Peque\u00f1as Esperanzas",
       "url": "https://open.spotify.com/track/4uEpJGZaCOtjNtz4VEUpPr"
-    },
-    {
-      "added_at": "2024-03-01 03:00:00",
-      "album": {
-        "name": "Hace 10 A\u00f1os",
-        "url": "https://open.spotify.com/album/71f277kinxputEU6wff8To"
-      },
-      "artists": [
-        {
-          "name": "Patio Solar",
-          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
-        }
-      ],
-      "duration_ms": 184250,
-      "name": "Hace 10 A\u00f1os",
-      "url": "https://open.spotify.com/track/1arOrwTLZS2qcUprYTBomD"
     },
     {
       "added_at": "2024-03-01 03:00:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
+        "name": "Tu Olor",
+        "url": "https://open.spotify.com/album/0zUXB3xuiKMQRlY8xHyyH3"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 186459,
+      "name": "Tu Olor",
+      "url": "https://open.spotify.com/track/3cNzf5t9uQbLIwfWEOfpTF"
+    },
+    {
+      "added_at": "2024-03-01 03:00:00",
+      "album": {
         "name": "Pantallas y Desiertos",
         "url": "https://open.spotify.com/album/40qq0w8Z2vP1qqXVMQJ5jb"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 212812,
       "name": "Pantallas y Desiertos",
       "url": "https://open.spotify.com/track/5TooZOGWPmbP8aS2ISwTKA"
-    },
-    {
-      "added_at": "2024-03-01 03:00:00",
-      "album": {
-        "name": "Tu Olor",
-        "url": "https://open.spotify.com/album/0zUXB3xuiKMQRlY8xHyyH3"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 186459,
-      "name": "Tu Olor",
-      "url": "https://open.spotify.com/track/3cNzf5t9uQbLIwfWEOfpTF"
     },
     {
       "added_at": "2024-03-01 03:00:00",
@@ -1247,6 +1247,26 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
+        "name": "Un Espejismo",
+        "url": "https://open.spotify.com/album/09t2QufWnwK3qqAyojkkis"
+      },
+      "artists": [
+        {
+          "name": "Mec\u00e1nico",
+          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
+        },
+        {
+          "name": "TELESCOPIOS",
+          "url": "https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG"
+        }
+      ],
+      "duration_ms": 214736,
+      "name": "Un Espejismo",
+      "url": "https://open.spotify.com/track/2Ge2F0SEtRF85xYenNxgaj"
+    },
+    {
+      "added_at": "2024-03-01 03:00:00",
+      "album": {
         "name": "p\u00e9talos",
         "url": "https://open.spotify.com/album/1z0XIoA6KwsJo7zPoopLqI"
       },
@@ -1319,26 +1339,6 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
-        "name": "Un Espejismo",
-        "url": "https://open.spotify.com/album/09t2QufWnwK3qqAyojkkis"
-      },
-      "artists": [
-        {
-          "name": "Mec\u00e1nico",
-          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
-        },
-        {
-          "name": "TELESCOPIOS",
-          "url": "https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG"
-        }
-      ],
-      "duration_ms": 214736,
-      "name": "Un Espejismo",
-      "url": "https://open.spotify.com/track/2Ge2F0SEtRF85xYenNxgaj"
-    },
-    {
-      "added_at": "2024-03-01 03:00:00",
-      "album": {
         "name": "Frenes\u00ed (Te Perd\u00ed)",
         "url": "https://open.spotify.com/album/0l6tqre46Ufm049zR5vQUC"
       },
@@ -1371,6 +1371,30 @@
       "duration_ms": 225641,
       "name": "Verte",
       "url": "https://open.spotify.com/track/2aQCNOBuD81IsgT3goC56A"
+    },
+    {
+      "added_at": "2024-03-01 03:00:00",
+      "album": {
+        "name": "\u00daltimo Adi\u00f3s",
+        "url": "https://open.spotify.com/album/3NypapKHKGVY92ONbBSy3M"
+      },
+      "artists": [
+        {
+          "name": "Mec\u00e1nico",
+          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
+        },
+        {
+          "name": "Goyo Degano",
+          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
+        },
+        {
+          "name": "Baltazar Clusellas",
+          "url": "https://open.spotify.com/artist/37hRvfW8T7lfdU7XdpZ6nX"
+        }
+      ],
+      "duration_ms": 237750,
+      "name": "\u00daltimo Adi\u00f3s",
+      "url": "https://open.spotify.com/track/7lBhTIVEhFmuptaX7Cs1vD"
     },
     {
       "added_at": "2024-03-01 03:00:00",
@@ -1427,30 +1451,6 @@
       "duration_ms": 213112,
       "name": "Tur Blues",
       "url": "https://open.spotify.com/track/1uiNMtfqJh6pzOXUsSiWOu"
-    },
-    {
-      "added_at": "2024-03-01 03:00:00",
-      "album": {
-        "name": "\u00daltimo Adi\u00f3s",
-        "url": "https://open.spotify.com/album/3NypapKHKGVY92ONbBSy3M"
-      },
-      "artists": [
-        {
-          "name": "Mec\u00e1nico",
-          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
-        },
-        {
-          "name": "Goyo Degano",
-          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
-        },
-        {
-          "name": "Baltazar Clusellas",
-          "url": "https://open.spotify.com/artist/37hRvfW8T7lfdU7XdpZ6nX"
-        }
-      ],
-      "duration_ms": 237750,
-      "name": "\u00daltimo Adi\u00f3s",
-      "url": "https://open.spotify.com/track/7lBhTIVEhFmuptaX7Cs1vD"
     },
     {
       "added_at": "2024-03-01 03:00:00",

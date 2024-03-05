@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 
 > Hypnotic bliss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 776,601 likes - 150 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 776,672 likes - 150 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 | 149 | [Sphere](https://open.spotify.com/track/7E9TD2kl65jwvFGnRn7wgK) | [Osterous](https://open.spotify.com/artist/5hWATAqtCxxnFEVmU268YR) | [Sphere](https://open.spotify.com/album/3FMdumsEZZbW3pEUwL9k5m) | 3:15 |
 | 150 | [Incondizionatamente](https://open.spotify.com/track/5BRRlNwuYhMILuP59sqruv) | [Miravaldini](https://open.spotify.com/artist/4d9BQaG3cZzT7KpDU7hj17) | [Incondizionatamente](https://open.spotify.com/album/2W0VmuykAhepZvdTojs1IB) | 2:50 |
 
-Snapshot ID: `MCxiZGY4Nzc2YjBiZmUxNzk1YmUzMjVjNmNkNTI4ODA4NGY4M2FiYTcx`
+Snapshot ID: `MCwwM2Y4ZjA3ODgyNjY4MjhkZDYwYTU4Y2UzMTIxZDM3ZmZhNmZkNTE3`

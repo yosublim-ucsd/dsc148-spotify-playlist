@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 428094,
+  "2024-03-05": 428260,
   "date_first_scraped": "2022-01-24",
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
   "name": "Trap Rewind",
@@ -209,7 +209,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-15",
+      "date_removed": null,
       "duration_ms": 243275,
       "name": "25/8",
       "url": "https://open.spotify.com/track/4NqQaovM14WR2hNPMFxgjb"
@@ -1547,7 +1547,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 300187,
       "name": "Caile",
       "url": "https://open.spotify.com/track/5lr877wwUsB8inLGywHKxa"

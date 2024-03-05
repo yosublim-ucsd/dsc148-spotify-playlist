@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Miley Cyrus, Pharell
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,286 likes - 116 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,324 likes - 116 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 37 | [Selamat Ulang Tahun Sayang](https://open.spotify.com/track/02zWVBER6SqB3DA8rvsG5q) | [Langit Sore](https://open.spotify.com/artist/2p8EGJCCavN09PyTOKY9Lj) | [Selamat Ulang Tahun Sayang](https://open.spotify.com/album/79ItTTQTPZfgGfmUBfEQnC) | 3:15 |
 | 38 | [Kesupen](https://open.spotify.com/track/0vT8hjKUgnk3s1CiY2Khbl) | [Brindil Kurus](https://open.spotify.com/artist/79nzELBdfcyh5rh8rRfyOb), [Arman Harjo](https://open.spotify.com/artist/7IjOlGJhqTylWA6mf0PYfb) | [Kesupen](https://open.spotify.com/album/0SrIjGKjPvQtGCjndXHVCa) | 4:16 |
 | 39 | [My Nature](https://open.spotify.com/track/3FggIxYORMVsvvKT1nT1Xa) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y), [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC) | [A Cheetah Hunting In Slow Motion](https://open.spotify.com/album/1aUHNQpRl05kj8WrokDDPl) | 2:50 |
-| 40 | [Hard dreams](https://open.spotify.com/track/1sJAQWkZdaJDsPifl1fvOd) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Hard dreams](https://open.spotify.com/album/15kCPeNnhlUuZfKyr1CJuy) | 2:50 |
+| 40 | [Hard dreams](https://open.spotify.com/track/1sJAQWkZdaJDsPifl1fvOd) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP), [Yan Wagner](https://open.spotify.com/artist/7JLtS4ASAUsAYrsShMerMc) | [Hard dreams](https://open.spotify.com/album/15kCPeNnhlUuZfKyr1CJuy) | 2:50 |
 | 41 | [Out Loud](https://open.spotify.com/track/6Yx5Cw2mVmx6LiVP2VXWEO) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Out Loud](https://open.spotify.com/album/2Yoh27G61AmIKH2ubk2RSb) | 3:20 |
 | 42 | [Love Me](https://open.spotify.com/track/5TZnCu5vibZW8AqEFgsqgY) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Everything Or Nothing \#DQH1](https://open.spotify.com/album/0Qqcg8QRranPHtp3IkGN1v) | 2:29 |
 | 43 | [Doing Better](https://open.spotify.com/track/6sMEb3eNrQiW2mxrvURMGc) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Doing Better](https://open.spotify.com/album/64WbXlIjvrqkf5AI019x0L) | 2:33 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 115 | [ペアリング](https://open.spotify.com/track/2vznAtq5wtn4D7U6WCwu5l) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [ペアリング](https://open.spotify.com/album/78HHdtzcQk4AVf5d46foLP) | 3:09 |
 | 116 | [Electric Blue](https://open.spotify.com/track/3vqMSB50nUqjw5dlVKuYlF) | [Tash Wolf](https://open.spotify.com/artist/10EGVgMvnFkNlI3BF2LhV3) | [Electric Blue](https://open.spotify.com/album/0gZrh2whTmhOttHSoHe7Cz) | 2:16 |
 
-Snapshot ID: `MCw0MmNhODAxNzY0ZjUwMDI1NzkzMmEyNjlmMTI4YTI5NThlNWJjZDY5`
+Snapshot ID: `MCwwZDE3MzUxMjUxYTc4MGEzOTJjNTRjMDNhZjk3Nzg1YTAyZDZmYmIw`

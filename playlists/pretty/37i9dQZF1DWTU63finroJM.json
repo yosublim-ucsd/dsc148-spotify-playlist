@@ -1,12 +1,12 @@
 {
   "description": "Meet the future. New artists on the horizon. Cover: Blusher.",
-  "num_followers": 59232,
+  "num_followers": 59246,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWRlOGQ5YWNlNWRjMTJiZDcxYjMzNjMwYTBhYjJiMzRlMDZmMDI5",
+  "snapshot_id": "MCw4YzU2M2ViMjA2MzljMWQ1MTE1NzU5ZGQ1Yzc5NmRiOWMzODYwMGM1",
   "tracks": [
     {
       "added_at": "2024-01-19 06:00:00",
@@ -717,6 +717,22 @@
       "url": "https://open.spotify.com/track/0HoW6vYSTE9eutD16ZpXv0"
     },
     {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "F\u00fchrerschein",
+        "url": "https://open.spotify.com/album/2x7ou8ctS719LdjHz2DoBp"
+      },
+      "artists": [
+        {
+          "name": "Dilla",
+          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
+        }
+      ],
+      "duration_ms": 242671,
+      "name": "F\u00fchrerschein",
+      "url": "https://open.spotify.com/track/0TU7YkMOLBxrUIOo7SnpIV"
+    },
+    {
       "added_at": "2023-10-13 06:00:00",
       "album": {
         "name": "\u5931\u7d04\u5df4\u9ece",
@@ -751,22 +767,6 @@
       "duration_ms": 164138,
       "name": "El Disfraz",
       "url": "https://open.spotify.com/track/0bp6nK8rHiJ1nqcjiRDRe2"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
-        "name": "F\u00fchrerschein",
-        "url": "https://open.spotify.com/album/2x7ou8ctS719LdjHz2DoBp"
-      },
-      "artists": [
-        {
-          "name": "Dilla",
-          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
-        }
-      ],
-      "duration_ms": 242671,
-      "name": "F\u00fchrerschein",
-      "url": "https://open.spotify.com/track/0TU7YkMOLBxrUIOo7SnpIV"
     },
     {
       "added_at": "2023-09-08 07:14:00",

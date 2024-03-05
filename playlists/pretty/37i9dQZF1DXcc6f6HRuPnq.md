@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 
 > Late night cool and the sound of smooth blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,939 likes - 80 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,988 likes - 80 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,19 +24,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 14 | [Since I Fell for You](https://open.spotify.com/track/0S8wQT9YkE41gHIGwXvgep) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 2:50 |
 | 15 | [Lenny](https://open.spotify.com/track/1MIDCw2NTW3Dtn9c6ohSC8) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 4:57 |
 | 16 | [As The Years Go Passing By](https://open.spotify.com/track/2NdRldi1OaTHDdTOnTS1Z8) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT) | [I Hear Some Blues Downstairs](https://open.spotify.com/album/7CkWl64PEkQmkzr04Nnda3) | 4:48 |
-| 17 | [Ghetto Woman](https://open.spotify.com/track/3XEQc61AX64t3X4dQvtU2s) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [In London](https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78) | 5:13 |
-| 18 | [Blues Prisoner](https://open.spotify.com/track/45i73H5FvrR0jbwvG8mVSS) | [Tommy Castro](https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165) | [Tommy Castro Presents A Bluesman Came To Town](https://open.spotify.com/album/5GDDpef4syUsjIiZ03Byj8) | 5:16 |
-| 19 | [That's Why I Play the Blues](https://open.spotify.com/track/3wOblrCpqJoMd38NW9qF8i) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Power of the Blues](https://open.spotify.com/album/6IDAk9jqeYwhL1mYEjcRnr) | 4:04 |
-| 20 | [How Long Blues](https://open.spotify.com/track/1qHFxjvmKpmwZUcXckLkYc) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 5:17 |
+| 17 | [Blues Prisoner](https://open.spotify.com/track/45i73H5FvrR0jbwvG8mVSS) | [Tommy Castro](https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165) | [Tommy Castro Presents A Bluesman Came To Town](https://open.spotify.com/album/5GDDpef4syUsjIiZ03Byj8) | 5:16 |
+| 18 | [That's Why I Play the Blues](https://open.spotify.com/track/3wOblrCpqJoMd38NW9qF8i) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Power of the Blues](https://open.spotify.com/album/6IDAk9jqeYwhL1mYEjcRnr) | 4:04 |
+| 19 | [How Long Blues](https://open.spotify.com/track/1qHFxjvmKpmwZUcXckLkYc) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 5:17 |
+| 20 | [Ghetto Woman](https://open.spotify.com/track/3XEQc61AX64t3X4dQvtU2s) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [In London](https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78) | 5:13 |
 | 21 | [Rememberin' Stevie](https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Damn Right, I've Got The Blues](https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj) | 6:58 |
 | 22 | [Struggle for Grace](https://open.spotify.com/track/4HmUiFK5bCcKR188c63FIJ) | [Kirk Fletcher](https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq) | [My Blues Pathway](https://open.spotify.com/album/0zCpvm0o4ZWiBPDDW9Laxz) | 5:13 |
 | 23 | [Ships On The Ocean](https://open.spotify.com/track/28fsOjMzmiw6iphB2ty19x) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 4:09 |
 | 24 | [People Get Ready](https://open.spotify.com/track/1nUtE7LNXLGFEJk8kG8gE6) | [Joe Robinson](https://open.spotify.com/artist/73V471Pu2mWBqqodpLh6PV) | [People Get Ready](https://open.spotify.com/album/5wlHOc1Ek2knIEu5D662MV) | 4:34 |
 | 25 | [Gotta Leave](https://open.spotify.com/track/6Wz65CyzyH5lY3AjJNIqZZ) | [Back Door Slam](https://open.spotify.com/artist/7jWpE4ZlClMpc0Kr5xSX34), [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [Roll Away \(Deluxe Edition\)](https://open.spotify.com/album/0IShhCcX0GjjkTGGq6BoCa) | 5:49 |
-| 26 | [You're Still My Woman](https://open.spotify.com/track/3DbVBS8JojEGfuLOZRGgWX) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Indianola Mississippi Seeds](https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l) | 6:04 |
-| 27 | [The Moon is Rising](https://open.spotify.com/track/736frSQjibzIkMg2byvPoW) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [That's All Right \(Mama\) \- the Fire Sessions](https://open.spotify.com/album/0FunGD7FQtlCKOwavfZAbD) | 2:13 |
-| 28 | [Without You \- 2013 Remaster](https://open.spotify.com/track/7JS6aAiymUcmAqEYEnCrlX) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Then Play On \(2013 Remaster; Expanded Edition\)](https://open.spotify.com/album/4Ji83LjzvEzFoCpN85m5lW) | 4:35 |
-| 29 | [Love That Burns](https://open.spotify.com/track/6mwt41UPKso9N0Kkkd44Hw) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Blues For Greeny](https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU) | 6:29 |
+| 26 | [Love That Burns](https://open.spotify.com/track/6mwt41UPKso9N0Kkkd44Hw) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Blues For Greeny](https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU) | 6:29 |
+| 27 | [You're Still My Woman](https://open.spotify.com/track/3DbVBS8JojEGfuLOZRGgWX) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Indianola Mississippi Seeds](https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l) | 6:04 |
+| 28 | [The Moon is Rising](https://open.spotify.com/track/736frSQjibzIkMg2byvPoW) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [That's All Right \(Mama\) \- the Fire Sessions](https://open.spotify.com/album/0FunGD7FQtlCKOwavfZAbD) | 2:13 |
+| 29 | [Without You \- 2013 Remaster](https://open.spotify.com/track/7JS6aAiymUcmAqEYEnCrlX) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Then Play On \(2013 Remaster; Expanded Edition\)](https://open.spotify.com/album/4Ji83LjzvEzFoCpN85m5lW) | 4:35 |
 | 30 | [Ain’t No Love In The Heart Of The City](https://open.spotify.com/track/2h8nq99nTZQk9H4B63QjVn) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues](https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan) | 5:36 |
 | 31 | [She Puts Me In The Mood](https://open.spotify.com/track/0t0CvqbxqwtETTajrzqKoW) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Big Fun](https://open.spotify.com/album/2Tkar3J9w5aUbxfE4ItKmV) | 3:34 |
 | 32 | [Same Old Blues Again \(2007 \- Remaster\)](https://open.spotify.com/track/7kiAAOa7TgKXQFDJxWxDwb) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Boom Boom](https://open.spotify.com/album/0keiVYLEe5RKFslw9X9veN) | 6:13 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 79 | [Suffering The Blues](https://open.spotify.com/track/0PEIlMSRprXJM0jKhGHOtZ) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Ike & Tina Turner \- The Complete Collection](https://open.spotify.com/album/0Y8QtwYhF7RhMNRyHx3CL2) | 2:22 |
 | 80 | [Twenty\-Four Hours \- Digitally Remastered Version](https://open.spotify.com/track/1zdnfGx2EBPs6WBIAOqGjY) | [Steamhammer](https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj) | [Reflection \(Digitally Remastered Version\)](https://open.spotify.com/album/63rMIZKgABeXOmbnA7aSTR) | 7:27 |
 
-Snapshot ID: `MCwyYjZlMzQ3MjE4MWUwZGU4ODJmMGU1MDc4YThhYTRhNGI4ODMyN2Nk`
+Snapshot ID: `MCxmNTI0ZTczYTU1M2MyNzNhMmMxYjA3NDZhNzQyNDkwOTBhMmQwNzYz`

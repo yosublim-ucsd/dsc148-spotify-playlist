@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,006 likes - 278 songs - 15 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,007 likes - 278 songs - 15 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 25 | [Tattoos Together](https://open.spotify.com/track/3pTHZHX0MRE7xYeiTEWlaM) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 3:06 |
 | 26 | [Superhero](https://open.spotify.com/track/6mipiX3H43Lz4vIJTG6cdO) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Superhero](https://open.spotify.com/album/3CzwQEWpViOABDuwIPmlNW) | 2:59 |
 | 27 | [So Will I \(100 Billion X\)](https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Wonder](https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2) | 6:51 |
-| 28 | [Insomnia](https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Insomnia](https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa) | 2:59 |
-| 29 | [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 |
+| 28 | [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 |
+| 29 | [Insomnia](https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Insomnia](https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa) | 2:59 |
 | 30 | [The Story Never Ends](https://open.spotify.com/track/2hTcD5aTYlQoTT76KofQam) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR) | 3:49 |
 | 31 | [Let Me Down Slowly \(feat\. Alessia Cara\)](https://open.spotify.com/track/1roCmBlcpV7LzsmB7pmCyt) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Let Me Down Slowly \(feat\. Alessia Cara\)](https://open.spotify.com/album/30NnJW4urmnnaExzLLMuy6) | 2:49 |
 | 32 | [Chasing Fire](https://open.spotify.com/track/0wCiZgPLKt7M2aoPMBB6Tx) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR) | 3:25 |
@@ -143,10 +143,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 133 | [Don't Mind](https://open.spotify.com/track/5vYQLmvEV74DLLqUmOyiFh) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [Here For Now](https://open.spotify.com/album/4aBLjtEUUg1424XB5WQgKP) | 2:54 |
 | 134 | [Birthday Girl](https://open.spotify.com/track/7IoLdpqB5igE13t12SKV8g) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 |
 | 135 | [Teary Eyes](https://open.spotify.com/track/3i0uu4DEpcmEAudChpVDBh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 3:02 |
-| 136 | [Rule The World](https://open.spotify.com/track/44sjRqAOKmsUkUiVdAjUWA) | [The Wanted](https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1) | [Most Wanted: The Greatest Hits \(Deluxe\)](https://open.spotify.com/album/7JrRph3NlBQciLSN1WBRfQ) | 3:18 |
-| 137 | [Hold You 'Til We’re Old](https://open.spotify.com/track/5aT0NEQAFMbX5RXe6DYJQK) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Hold You 'Til We’re Old](https://open.spotify.com/album/3Uy0TTHUOKQYCvEU0gLVkd) | 3:02 |
-| 138 | [Elephant In The Room](https://open.spotify.com/track/3WZyXUHTqffITfNniSJyKD) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Dear Ella,](https://open.spotify.com/album/1NnDilXBFyACjOuXOvY7Z7) | 2:41 |
-| 139 | [Love On](https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Love On](https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL) | 3:01 |
+| 136 | [Love On](https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Love On](https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL) | 3:01 |
+| 137 | [Rule The World](https://open.spotify.com/track/44sjRqAOKmsUkUiVdAjUWA) | [The Wanted](https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1) | [Most Wanted: The Greatest Hits \(Deluxe\)](https://open.spotify.com/album/7JrRph3NlBQciLSN1WBRfQ) | 3:18 |
+| 138 | [Hold You 'Til We’re Old](https://open.spotify.com/track/5aT0NEQAFMbX5RXe6DYJQK) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Hold You 'Til We’re Old](https://open.spotify.com/album/3Uy0TTHUOKQYCvEU0gLVkd) | 3:02 |
+| 139 | [Elephant In The Room](https://open.spotify.com/track/3WZyXUHTqffITfNniSJyKD) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Dear Ella,](https://open.spotify.com/album/1NnDilXBFyACjOuXOvY7Z7) | 2:41 |
 | 140 | [It Takes Two](https://open.spotify.com/track/21vLEEtCTBS6fxw1TuPJAy) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Eric Andre](https://open.spotify.com/artist/65b4bZsoMS43PhlilVEzke), [Daveed Diggs](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [It Takes Two \(feat\. Eric Andre, Daveed Diggs, Kid Cudi & Trolls\)](https://open.spotify.com/album/7oGTxPAGX6htcQblSqWo0r) | 3:39 |
 | 141 | [Diamonds & Dancefloors](https://open.spotify.com/track/4fVxlf4IxJNJl8OmPsQ2C1) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 2:35 |
 | 142 | [Chateau](https://open.spotify.com/track/2yedRoI0ixMxQSyHE0q1Jq) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [DNA](https://open.spotify.com/album/02FX4aLHDNacfV4bMnO9Kv) | 3:08 |
@@ -287,4 +287,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 277 | [Aliens](https://open.spotify.com/track/3n5lE0vC4SOb3tKP1h1fVD) | [The Dudley Corporation](https://open.spotify.com/artist/7Ch6Iyny8xZOqGcKbg1TEd) | [What a Human Does](https://open.spotify.com/album/3QdQhjtaMNBpwNgK1VwAR4) | 2:19 |
 | 278 | [Ghost Town](https://open.spotify.com/track/3psN2n0AqdpDY2pyY3P6uW) | [David Michael Ross](https://open.spotify.com/artist/2irkthky57ha2MXa6Owuwu) | [Guitaro](https://open.spotify.com/album/1AmQN4zcNgNBlSaSYWa3QC) | 4:07 |
 
-Snapshot ID: `Mjg0OTE5NzAsMDAwMDAwMDBhMGQzMDY2MjY5MWRiZjBhMzkxZWNkYTM4MjllMzJkYw==`
+Snapshot ID: `Mjg0OTM0MTEsMDAwMDAwMDBhY2RmYTE0ODU3ODhkNzY0MjRjZjdmZmMyNDQ4MjNhMg==`

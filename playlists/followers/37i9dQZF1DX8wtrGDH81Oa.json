@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 270539,
+  "2024-03-05": 270709,
   "date_first_scraped": "2022-04-20",
   "description": "Instrumental house for when you need to focus!",
   "name": "House Focus",
@@ -2656,6 +2656,42 @@
     },
     {
       "album": {
+        "name": "No Worries",
+        "url": "https://open.spotify.com/album/7CyK3KnC1hGf0hmIC3wFYj"
+      },
+      "artists": [
+        {
+          "name": "Bear Frantz",
+          "url": "https://open.spotify.com/artist/1nEOXCXHk8zFrNecfXhgrr"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126055,
+      "name": "No Worries",
+      "url": "https://open.spotify.com/track/6Jok0mHBq3efCQv3QhdZtY"
+    },
+    {
+      "album": {
+        "name": "Oh My",
+        "url": "https://open.spotify.com/album/5QRABFRfam3KEgxW1Ci299"
+      },
+      "artists": [
+        {
+          "name": "Larry Poppinz",
+          "url": "https://open.spotify.com/artist/16CYOuSOMLdhvKDWr5f65A"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199285,
+      "name": "Oh My",
+      "url": "https://open.spotify.com/track/5pAmBhagFy54lP28gwANXz"
+    },
+    {
+      "album": {
         "name": "On My Way",
         "url": "https://open.spotify.com/album/62gm87KgQEdnTeZNJ129os"
       },
@@ -2689,6 +2725,24 @@
       "duration_ms": 182094,
       "name": "One Day",
       "url": "https://open.spotify.com/track/23xtj6sfcsi2pZjmLM0m6L"
+    },
+    {
+      "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/1zuoG7VZotS8HuC5E7ivAJ"
+      },
+      "artists": [
+        {
+          "name": "bonaira",
+          "url": "https://open.spotify.com/artist/0DSl0jXUEASDzduwv7VOgQ"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127636,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/2n5GoJZQ1mfCvtAuUe0gyk"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 3655916,
+  "2024-03-05": 3656078,
   "date_first_scraped": "2019-05-26",
   "description": "<a href=\"spotify:genre:space:electronica_chill\">Hypnotic electronic</a> for studies and a relax.",
   "name": "Brain Food",
@@ -15272,6 +15272,24 @@
     },
     {
       "album": {
+        "name": "when the quiet comes",
+        "url": "https://open.spotify.com/album/4Dx6ghUqKDjLa6xJHpHQor"
+      },
+      "artists": [
+        {
+          "name": "Leaving Laurel",
+          "url": "https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327863,
+      "name": "there is beauty when you allow yourself to see",
+      "url": "https://open.spotify.com/track/73BtAeBHPCA1IMGoVPXEHN"
+    },
+    {
+      "album": {
         "name": "Black Blood",
         "url": "https://open.spotify.com/album/3t6EKSoRByx4yvbavuYBsB"
       },
@@ -16093,7 +16111,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 200751,
       "name": "Universal Intimacy",
       "url": "https://open.spotify.com/track/54yAYWaPxtoashe2VHADMh"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto: Azzy, Luiz Lins, MC Cabelinho, Slipmami, Mc Poze do Rodo, Chefin, Oruam, MC Hariel, JayA Luuck
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,199 likes - 75 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,425 likes - 75 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 | 74 | [Relação \- Ao Vivo](https://open.spotify.com/track/1ujkoBjVjQrg00EShTjvXt) | [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Showlivre](https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U) | [Pelé Milflows no Estúdio Showlivre, Vol 2 \(Ao Vivo\)](https://open.spotify.com/album/32Odr1M4EmJjc6I64DuNOK) | 3:19 |
 | 75 | [Problemático](https://open.spotify.com/track/75WrYPysR6c7VcLjE9yrlM) | [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T) | [Problemático](https://open.spotify.com/album/6AvS0b0wY54EFDpdh6mVYm) | 2:51 |
 
-Snapshot ID: `MCwxZGQyOTk2ODUyMTg1ZmMxNjM5MTQ3MTdkNjZhOTIyNzQwOWQ3ZTQz`
+Snapshot ID: `MCxlNTRmYWYxMDFjMmIyYzE2ZTIzZjYwZmEyZDdlMDkzZDRhZTNiZTFh`

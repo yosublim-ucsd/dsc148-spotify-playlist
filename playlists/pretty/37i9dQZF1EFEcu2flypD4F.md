@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,689 likes - 312 songs - 19 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,690 likes - 312 songs - 19 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 50 | [Candy Cane Lane](https://open.spotify.com/track/4KevTcBXEIYxXVyPE78XXm) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:32 |
 | 51 | [Champion](https://open.spotify.com/track/1DRUwJSt2YOUUEz965OJ66) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [MANIA](https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG) | 3:12 |
 | 52 | [Helium \(Sia vs\. David Guetta & Afrojack\)](https://open.spotify.com/track/2ludbmtPoyCPe2K08fAlFl) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Helium \(Sia vs\. David Guetta & Afrojack\)](https://open.spotify.com/album/0daLYYl9X1oTURdFNjRf1I) | 3:57 |
-| 53 | [My Heart Is Open](https://open.spotify.com/track/5AnZXEB5IVhU57cJdOtJeX) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:56 |
-| 54 | [Hass Hass](https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Hass Hass](https://open.spotify.com/album/7F8VISoJUWFEY57b66QZxC) | 2:33 |
+| 53 | [Hass Hass](https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Hass Hass](https://open.spotify.com/album/7F8VISoJUWFEY57b66QZxC) | 2:33 |
+| 54 | [My Heart Is Open](https://open.spotify.com/track/5AnZXEB5IVhU57cJdOtJeX) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:56 |
 | 55 | [Titans \(feat\. Sia & Labrinth\)](https://open.spotify.com/track/2nYPVp7BJuoaJ4rQmg5FM5) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Music Is The Weapon \(Reloaded\)](https://open.spotify.com/album/5pmiFuzEtKlwWQhy5irJIJ) | 3:19 |
 | 56 | [Eye of the Needle](https://open.spotify.com/track/2ejeiQQcxOONtMDgV2GXSu) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 4:08 |
 | 57 | [I'm Still Here](https://open.spotify.com/track/5KGTKwOePys7aH4o6EzXEP) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [I'm Still Here](https://open.spotify.com/album/61rbnX1w8qupnV0CyNH1Or) | 4:01 |
@@ -321,4 +321,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 311 | [How To Breathe](https://open.spotify.com/track/25NMllQ3Ww9gVZ0BvQUisZ) | [Christine Grünert](https://open.spotify.com/artist/6O3FOxYpUH7Hs6h3QWdGmE) | [How To Breathe](https://open.spotify.com/album/1w6AR2pem7fuleqHhaJSE7) | 3:29 |
 | 312 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 
-Snapshot ID: `Mjg0OTE5NzAsMDAwMDAwMDBlNWFlYjFkNjhmYTAyNmZhY2Q2MjA5NzFjOTVjNDk0Yw==`
+Snapshot ID: `Mjg0OTM0MTAsMDAwMDAwMDBhMjQ1ZTJiNjVkNTY1YzljZDAxNWEzMDA4NThmMGMwZQ==`

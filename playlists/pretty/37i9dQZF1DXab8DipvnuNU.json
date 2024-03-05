@@ -1,12 +1,12 @@
 {
   "description": "Essential tunes for time with the family.",
-  "num_followers": 26908,
+  "num_followers": 26927,
   "original_name": "The Cookout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjFkZjZjYzNjMDI0ZjcxMjBhOWIyY2RkNWNiNDBmZWQ2M2FkYmY4",
+  "snapshot_id": "MCw0ZDQ0ZTU0ZDI0ZjVjM2Q3MDYyNmZiNWExNzFiMjY2MWJhZGM1Zjgz",
   "tracks": [
     {
       "added_at": "2020-07-23 21:45:59",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-06-16 17:58:31",
       "album": {
-        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
-        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
-    },
-    {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
         "name": "Raise!",
         "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 339320,
       "name": "Let's Groove",
       "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
+        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
+        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -347,6 +347,26 @@
     {
       "added_at": "2023-06-16 17:58:31",
       "album": {
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        },
+        {
+          "name": "The Emotions",
+          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
+        }
+      ],
+      "duration_ms": 288293,
+      "name": "Boogie Wonderland",
+      "url": "https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
       },
@@ -379,26 +399,6 @@
     {
       "added_at": "2023-06-16 17:58:31",
       "album": {
-        "name": "I Am",
-        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        },
-        {
-          "name": "The Emotions",
-          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
-        }
-      ],
-      "duration_ms": 288293,
-      "name": "Boogie Wonderland",
-      "url": "https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD"
-    },
-    {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
         "name": "Can't Get Enough",
         "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
       },
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-06-16 17:58:31",
       "album": {
-        "name": "Kaleidoscope Dream",
-        "url": "https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 193146,
-      "name": "Adorn",
-      "url": "https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3"
-    },
-    {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
         "name": "Purple Rain",
         "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 352906,
       "name": "When Doves Cry",
       "url": "https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
+        "name": "Kaleidoscope Dream",
+        "url": "https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 193146,
+      "name": "Adorn",
+      "url": "https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -481,22 +481,6 @@
       "url": "https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG"
     },
     {
-      "added_at": "2020-07-23 21:45:59",
-      "album": {
-        "name": "The Very Best Of The Staple Singers",
-        "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
-      },
-      "artists": [
-        {
-          "name": "The Staple Singers",
-          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "I'll Take You There",
-      "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
-    },
-    {
       "added_at": "2023-06-16 17:58:31",
       "album": {
         "name": "Thriller",
@@ -511,6 +495,22 @@
       "duration_ms": 239026,
       "name": "P.Y.T. (Pretty Young Thing)",
       "url": "https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k"
+    },
+    {
+      "added_at": "2020-07-23 21:45:59",
+      "album": {
+        "name": "The Very Best Of The Staple Singers",
+        "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
+      },
+      "artists": [
+        {
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "I'll Take You There",
+      "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -913,6 +913,22 @@
       "url": "https://open.spotify.com/track/33vzOPcd9FRirYGlCu32x4"
     },
     {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
+        "name": "Between the Sheets",
+        "url": "https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 340013,
+      "name": "Between the Sheets",
+      "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
+    },
+    {
       "added_at": "2020-07-23 21:45:59",
       "album": {
         "name": "I Feel for You",
@@ -991,22 +1007,6 @@
       "duration_ms": 251426,
       "name": "Just Friends (Sunny)",
       "url": "https://open.spotify.com/track/5jgEJXjECdlhzNgfITSTVm"
-    },
-    {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
-        "name": "Between the Sheets",
-        "url": "https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 340013,
-      "name": "Between the Sheets",
-      "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
     },
     {
       "added_at": "2020-07-23 21:45:59",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2020-07-23 21:45:59",
       "album": {
+        "name": "The 12\" Collection And More (Funk Essentials)",
+        "url": "https://open.spotify.com/album/2RBgodUUn2EzbMDSq0shGH"
+      },
+      "artists": [
+        {
+          "name": "The Gap Band",
+          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
+        }
+      ],
+      "duration_ms": 375400,
+      "name": "Outstanding - Original 12\" Mix",
+      "url": "https://open.spotify.com/track/6korvxtUEyt590jUFOfADm"
+    },
+    {
+      "added_at": "2020-07-23 21:45:59",
+      "album": {
         "name": "Heart Break",
         "url": "https://open.spotify.com/album/1bTjSqotSDtUjcwFfukTQP"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 346666,
       "name": "Flash Light",
       "url": "https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO"
-    },
-    {
-      "added_at": "2020-07-23 21:45:59",
-      "album": {
-        "name": "The 12\" Collection And More (Funk Essentials)",
-        "url": "https://open.spotify.com/album/2RBgodUUn2EzbMDSq0shGH"
-      },
-      "artists": [
-        {
-          "name": "The Gap Band",
-          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
-        }
-      ],
-      "duration_ms": 375400,
-      "name": "Outstanding - Original 12\" Mix",
-      "url": "https://open.spotify.com/track/6korvxtUEyt590jUFOfADm"
     },
     {
       "added_at": "2023-06-16 17:58:31",

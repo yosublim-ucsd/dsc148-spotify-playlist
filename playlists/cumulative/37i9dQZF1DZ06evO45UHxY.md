@@ -4,7 +4,7 @@
 
 > This is Banda Zeta\. The essential tracks, all in one playlist.
 
-91 songs - 4 hr 35 min
+92 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Aerobics De Señoritas](https://open.spotify.com/track/4NcU6kxxr3KnDeQhR2yEVC) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 2:46 | 2022-10-12 |  |
 | [Agua Helada](https://open.spotify.com/track/7lRfKTQ0wVYEvkPHfn0qws) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Lo Más Caliente...La Niña Fresa](https://open.spotify.com/album/6aEj3pDjQ8MfWnoyarOdCZ) | 3:18 | 2023-12-14 | 2023-12-16 |
 | [Allá en el oeste](https://open.spotify.com/track/2M7a8eODNHtBwtmi69yCa8) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [La Chispa](https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v) | 2:31 | 2022-10-16 |  |
-| [Balada del Parque Frio](https://open.spotify.com/track/56dBjIziLEPZmsJAZjznBM) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Balada del Parque Frio](https://open.spotify.com/album/5pIDCQUgI7NOfCl3HCPSZY) | 2:43 | 2022-06-01 |  |
+| [Balada del Parque Frio](https://open.spotify.com/track/56dBjIziLEPZmsJAZjznBM) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Balada del Parque Frio](https://open.spotify.com/album/5pIDCQUgI7NOfCl3HCPSZY) | 2:43 | 2022-06-01 | 2024-03-05 |
+| [Balada Del Parque Frío](https://open.spotify.com/track/0IhM4cYDTuD5CN9EnW5uFo) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 2:57 | 2024-03-04 |  |
 | [Bandrobic](https://open.spotify.com/track/3Y8loiuepocdaDVRthERRL) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [A Pesar de Todo](https://open.spotify.com/album/5EAh7WUPKJAqw2fwGZ2M8N) | 3:40 | 2022-06-01 |  |
 | [Bandrobic's](https://open.spotify.com/track/26a5Wt3kbRA7bt64czqupC) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Mi Regreso Es Por Ti](https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi) | 3:40 | 2022-06-01 |  |
 | [Borracho y Loco](https://open.spotify.com/track/2EpO1NIjQl9ICdA27YMKRH) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Borracho Y Loco](https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k) | 4:01 | 2022-06-01 | 2024-01-28 |
@@ -34,7 +35,7 @@
 | [Déjenme Si Estoy Llorando](https://open.spotify.com/track/5XuM8DbECxEgXSt1V0Bkhb) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Lo Más Caliente...La Niña Fresa](https://open.spotify.com/album/6aEj3pDjQ8MfWnoyarOdCZ) | 2:51 | 2022-06-07 | 2022-06-09 |
 | [Donde Estas Corazon](https://open.spotify.com/track/0wGucLJrFq4NVPRIXO8JVA) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Donde Estas Corazon](https://open.spotify.com/album/4KeWgca4KdauXP0g26aFRM) | 3:16 | 2024-02-29 |  |
 | [Déjenme Si Estoy Llorando](https://open.spotify.com/track/327zGhS8S9gjmdgqCfggiA) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 3:03 | 2022-11-27 | 2022-12-08 |
-| [Echando Los Perros](https://open.spotify.com/track/4xd0redqKCAtHlwZbozZTc) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 2:18 | 2022-12-07 |  |
+| [Echando Los Perros](https://open.spotify.com/track/4xd0redqKCAtHlwZbozZTc) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 2:18 | 2022-12-07 | 2024-03-05 |
 | [El amor que soñaba](https://open.spotify.com/track/3PwEtxAKmWQHexgtwtVI4o) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [La Chispa](https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v) | 2:52 | 2022-07-07 | 2022-10-17 |
 | [El esdrújulo](https://open.spotify.com/track/595aNIZhkh4pjBGPiigqwW) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Festival Grupero Vol\. I](https://open.spotify.com/album/6YoH7XzcfCh5szR3sOC9Jc) | 2:25 | 2022-06-01 |  |
 | [El Fon](https://open.spotify.com/track/5JffgIpQLuPXnE0kx8aEy4) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Mi Regreso Es Por Ti](https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi) | 3:14 | 2022-06-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 466 songs - 1 day 5 hr 56 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 467 songs - 1 day 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -459,20 +459,21 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 449 | [Be Quiet and Drive \(Far Away\)](https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 4:59 |
 | 450 | [Sextape](https://open.spotify.com/track/1EryAkZ0VHstC6haIxVBiE) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Diamond Eyes](https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e) | 4:01 |
 | 451 | [An Endless Cycle \(Wayne’s Theme\)](https://open.spotify.com/track/45Btn0Un5R5yRfWsrYoDii) | [Chuck Salamone](https://open.spotify.com/artist/1FMH8oRVo9NPn2rDzhRW2Z), [Mason Lindroth](https://open.spotify.com/artist/351QVu3AeeqlLWDqy2CBIH) | [Moonage Lobotomy \- A Hylics 2 Musical Expansion](https://open.spotify.com/album/2Cl3Bk4c2oUCapf8yQuFXb) | 6:00 |
-| 452 | [It's Random](https://open.spotify.com/track/6Sj5jAdiIWAAAYZc9dn9ZM) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [comfortably in pain](https://open.spotify.com/album/39vpTiloqw4kytVLU29AxS) | 2:24 |
-| 453 | [Turnover](https://open.spotify.com/track/3GzrbXN9lIE6kmycaX5xzt) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [Repeater + 3 Songs](https://open.spotify.com/album/6JbGZGta38AArBgflt024C) | 4:15 |
-| 454 | [ta1lsd001](https://open.spotify.com/track/3TInK6YpLRQ7Dt2Vn12Y3u) | [ta1lsd0ll](https://open.spotify.com/artist/6hGItsib0tmvh4cCE5LRQe) | [cursed001](https://open.spotify.com/album/6q6e64QrmXmrfcn19hI9t9) | 1:38 |
-| 455 | [Only When I](https://open.spotify.com/track/0ZzElIB9iulNYwycFVPXdl) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 3:51 |
-| 456 | [Psychos](https://open.spotify.com/track/6y05BbUtOsNVmaJqVF1k6M) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Joy'All](https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1) | 3:05 |
-| 457 | [Scaling](https://open.spotify.com/track/5o08n5VwVfToX9qQfLH0hS) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Royal Astronomy](https://open.spotify.com/album/6wderqhoGndjyEC1rODumX) | 4:14 |
-| 458 | [Where We've Been](https://open.spotify.com/track/24TyIHRNtcNihfFoWKkqzP) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Where we've been, Where we go from here](https://open.spotify.com/album/2ci8WTUkswu4PgtLVPJFeU) | 5:15 |
-| 459 | [DUSTCUTTER](https://open.spotify.com/track/1BJjqtZir1VxnFMe4E668u) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [SCRAPYARD](https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6) | 2:44 |
-| 460 | [Prelude To Ecstasy](https://open.spotify.com/track/1Bkv3iK8eRU6vu6uCspHuu) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 1:36 |
-| 461 | [Banana \- Skit](https://open.spotify.com/track/5Rc0ZtPwdP2P8wXTq7EamM) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Arular](https://open.spotify.com/album/7CzEknt9gJwe0QC89ir1JX) | 0:36 |
-| 462 | [100,000 Voices](https://open.spotify.com/track/4RenR9s7VhyzHVHMdTmjx2) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Djesse Vol\. 4](https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1) | 4:44 |
-| 463 | [Message In A Bottle](https://open.spotify.com/track/1oYYd2gnWZYrt89EBXdFiO) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Reggatta De Blanc \(Remastered 2003\)](https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6) | 4:50 |
-| 464 | [S&M](https://open.spotify.com/track/2u02eLj96Atd6TBxkH9YvN) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud](https://open.spotify.com/album/35dJsQDEr549O5DTFUy3uM) | 4:03 |
-| 465 | [I Got Heaven](https://open.spotify.com/track/4C6EPbxGiGSX95nJY3z9ZG) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp) | 2:58 |
-| 466 | [Redemption Arc](https://open.spotify.com/track/5P2xjOkykDrAHcLxCLyBDi) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Blue Raspberry](https://open.spotify.com/album/3ue5JrkSudbuHwQOEvZwHj) | 3:21 |
+| 452 | [Turnover](https://open.spotify.com/track/3GzrbXN9lIE6kmycaX5xzt) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [Repeater + 3 Songs](https://open.spotify.com/album/6JbGZGta38AArBgflt024C) | 4:15 |
+| 453 | [ta1lsd001](https://open.spotify.com/track/3TInK6YpLRQ7Dt2Vn12Y3u) | [ta1lsd0ll](https://open.spotify.com/artist/6hGItsib0tmvh4cCE5LRQe) | [cursed001](https://open.spotify.com/album/6q6e64QrmXmrfcn19hI9t9) | 1:38 |
+| 454 | [Only When I](https://open.spotify.com/track/0ZzElIB9iulNYwycFVPXdl) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 3:51 |
+| 455 | [Psychos](https://open.spotify.com/track/6y05BbUtOsNVmaJqVF1k6M) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Joy'All](https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1) | 3:05 |
+| 456 | [Scaling](https://open.spotify.com/track/5o08n5VwVfToX9qQfLH0hS) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Royal Astronomy](https://open.spotify.com/album/6wderqhoGndjyEC1rODumX) | 4:14 |
+| 457 | [Where We've Been](https://open.spotify.com/track/24TyIHRNtcNihfFoWKkqzP) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Where we've been, Where we go from here](https://open.spotify.com/album/2ci8WTUkswu4PgtLVPJFeU) | 5:15 |
+| 458 | [DUSTCUTTER](https://open.spotify.com/track/1BJjqtZir1VxnFMe4E668u) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [SCRAPYARD](https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6) | 2:44 |
+| 459 | [Prelude To Ecstasy](https://open.spotify.com/track/1Bkv3iK8eRU6vu6uCspHuu) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 1:36 |
+| 460 | [Banana \- Skit](https://open.spotify.com/track/5Rc0ZtPwdP2P8wXTq7EamM) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Arular](https://open.spotify.com/album/7CzEknt9gJwe0QC89ir1JX) | 0:36 |
+| 461 | [100,000 Voices](https://open.spotify.com/track/4RenR9s7VhyzHVHMdTmjx2) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Djesse Vol\. 4](https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1) | 4:44 |
+| 462 | [Message In A Bottle](https://open.spotify.com/track/1oYYd2gnWZYrt89EBXdFiO) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Reggatta De Blanc \(Remastered 2003\)](https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6) | 4:50 |
+| 463 | [S&M](https://open.spotify.com/track/2u02eLj96Atd6TBxkH9YvN) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud](https://open.spotify.com/album/35dJsQDEr549O5DTFUy3uM) | 4:03 |
+| 464 | [I Got Heaven](https://open.spotify.com/track/4C6EPbxGiGSX95nJY3z9ZG) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp) | 2:58 |
+| 465 | [Follow The Lights](https://open.spotify.com/track/0iHClWd9kbQEvcCsriEHJS) | [Pom Poko](https://open.spotify.com/artist/4RkC3KmYWnr6PM1FM5Shwz) | [Birthday](https://open.spotify.com/album/2KgYcD8b9rxkROAPeYEnjh) | 4:12 |
+| 466 | [Re\-Make/Re\-Model](https://open.spotify.com/track/6pUfi8uawZnCK2T0hatNwR) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Roxy Music](https://open.spotify.com/album/4KjUgJn22cmBRQC0AHcjI3) | 5:14 |
+| 467 | [Yer Brothers](https://open.spotify.com/track/7MQjOPsj0Mfi8HLUUC0mEP) | [Pedro The Lion](https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr), [American Football](https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4), [Nick Wilkerson](https://open.spotify.com/artist/3QiX2OujsOt08Qx3ZbzNbp), [Dragon Inn 3](https://open.spotify.com/artist/4R9OjGQDdKY8sjNSEG5CiR) | [Exquisite Corpse](https://open.spotify.com/album/11aSgmA8YPBrEfJ536AcsA) | 2:02 |
 
-Snapshot ID: `MTQwNSw5ZTUyYzMzY2U5MzJiMzYyZGZlNTEzZmNkYWEzOWMxMDgxZDg2NmRi`
+Snapshot ID: `MTQxMCxiNzhmZjNkNzI4YzQ1MjUxMDMwYjFlOWEwNmMxMWQxZmY5YmRlNzY4`

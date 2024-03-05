@@ -1,12 +1,12 @@
 {
   "description": "A soft and slow soundtrack to play in the background to all your activities.",
-  "num_followers": 144234,
+  "num_followers": 144385,
   "original_name": "Soft Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmExZjU5NmJkNmI2NmE0OTcwYmVlOGU1ZDgwYzg4ZjI5NDE4ZDRl",
+  "snapshot_id": "MCw0N2E4YTgxOTAzNzEwMGQyMzI4ZDExY2Y0MGM1MTM1ZTBkZGQyY2Zk",
   "tracks": [
     {
       "added_at": "2024-02-23 00:01:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Nocturnal Whispers",
-        "url": "https://open.spotify.com/album/05VITsYb1YmKoBQuZCoGr9"
-      },
-      "artists": [
-        {
-          "name": "Dan Evans-Parker",
-          "url": "https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4"
-        }
-      ],
-      "duration_ms": 267688,
-      "name": "Nocturnal Whispers",
-      "url": "https://open.spotify.com/track/5fhMizFsBXmXcSeJKVNvrt"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Emerald Dreamscape",
         "url": "https://open.spotify.com/album/5QKH9vfQVg0WzHc9vZBd6k"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 276828,
       "name": "Cloudy Days",
       "url": "https://open.spotify.com/track/1pODhqs4Aha6fD3Suxfv0d"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Nocturnal Whispers",
+        "url": "https://open.spotify.com/album/05VITsYb1YmKoBQuZCoGr9"
+      },
+      "artists": [
+        {
+          "name": "Dan Evans-Parker",
+          "url": "https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4"
+        }
+      ],
+      "duration_ms": 267688,
+      "name": "Nocturnal Whispers",
+      "url": "https://open.spotify.com/track/5fhMizFsBXmXcSeJKVNvrt"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -3743,22 +3743,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "A place I knew",
-        "url": "https://open.spotify.com/album/6LVKVtWLCpQ8LU0sf5miQZ"
-      },
-      "artists": [
-        {
-          "name": "The Sweetgreens",
-          "url": "https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N"
-        }
-      ],
-      "duration_ms": 160866,
-      "name": "A place I knew",
-      "url": "https://open.spotify.com/track/08Y2U1Z3FuXOYNRZgUHXHk"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "The Meadows",
         "url": "https://open.spotify.com/album/6PosHibdf6McSbAZLgZAg6"
       },
@@ -3771,6 +3755,22 @@
       "duration_ms": 195587,
       "name": "The Meadows",
       "url": "https://open.spotify.com/track/120GHgxD1qLdNpnz2NT7Je"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "A place I knew",
+        "url": "https://open.spotify.com/album/6LVKVtWLCpQ8LU0sf5miQZ"
+      },
+      "artists": [
+        {
+          "name": "The Sweetgreens",
+          "url": "https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N"
+        }
+      ],
+      "duration_ms": 160866,
+      "name": "A place I knew",
+      "url": "https://open.spotify.com/track/08Y2U1Z3FuXOYNRZgUHXHk"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -4607,22 +4607,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Midnight Serenade",
-        "url": "https://open.spotify.com/album/3wIeHoxZk52kgKVI4IjeQh"
-      },
-      "artists": [
-        {
-          "name": "Anita Rosswell",
-          "url": "https://open.spotify.com/artist/6Qer09QopgWLGMd601P0Zk"
-        }
-      ],
-      "duration_ms": 259173,
-      "name": "Midnight Serenade",
-      "url": "https://open.spotify.com/track/20mQhw06M8Hb6859ZuyLeh"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "All Kinds Of Weather",
         "url": "https://open.spotify.com/album/1cq8v5c8Y6KuvPtwPi3aWT"
       },
@@ -4635,6 +4619,22 @@
       "duration_ms": 635266,
       "name": "Stormy Weather",
       "url": "https://open.spotify.com/track/32pQP3XD7rIYraHKMVq9pu"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Midnight Serenade",
+        "url": "https://open.spotify.com/album/3wIeHoxZk52kgKVI4IjeQh"
+      },
+      "artists": [
+        {
+          "name": "Anita Rosswell",
+          "url": "https://open.spotify.com/artist/6Qer09QopgWLGMd601P0Zk"
+        }
+      ],
+      "duration_ms": 259173,
+      "name": "Midnight Serenade",
+      "url": "https://open.spotify.com/track/20mQhw06M8Hb6859ZuyLeh"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -5503,22 +5503,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "A Real Show",
-        "url": "https://open.spotify.com/album/0NyYKacgfxr3CgJcVX484z"
-      },
-      "artists": [
-        {
-          "name": "Motor City Trio",
-          "url": "https://open.spotify.com/artist/3hu0bCz2XTFEEL3WYjo0fs"
-        }
-      ],
-      "duration_ms": 174091,
-      "name": "A Real Show",
-      "url": "https://open.spotify.com/track/7F8Hn4PBfwWPr6eK6ow1lp"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Late Reflections",
         "url": "https://open.spotify.com/album/2iJH0ujIwbtlQ41b3CBcaO"
       },
@@ -5531,6 +5515,22 @@
       "duration_ms": 221269,
       "name": "Late Reflections",
       "url": "https://open.spotify.com/track/76RWGx3zZ46aIY4WPjsLuo"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "A Real Show",
+        "url": "https://open.spotify.com/album/0NyYKacgfxr3CgJcVX484z"
+      },
+      "artists": [
+        {
+          "name": "Motor City Trio",
+          "url": "https://open.spotify.com/artist/3hu0bCz2XTFEEL3WYjo0fs"
+        }
+      ],
+      "duration_ms": 174091,
+      "name": "A Real Show",
+      "url": "https://open.spotify.com/track/7F8Hn4PBfwWPr6eK6ow1lp"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -5871,22 +5871,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Midnight Fairytale",
-        "url": "https://open.spotify.com/album/3buXxoeXLMcwS9LQbzRGev"
-      },
-      "artists": [
-        {
-          "name": "Tanner King Trio",
-          "url": "https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8"
-        }
-      ],
-      "duration_ms": 129414,
-      "name": "Midnight Fairytale",
-      "url": "https://open.spotify.com/track/7cZxQ0m9bK0TLsaUD2UoQd"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Maia Oh Maia",
         "url": "https://open.spotify.com/album/2dDG5MRroFXo6i60i5MnPQ"
       },
@@ -5899,6 +5883,22 @@
       "duration_ms": 235575,
       "name": "Maia Oh Maia",
       "url": "https://open.spotify.com/track/3VnChEq3PRsTQ3JPA7Gsh4"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Midnight Fairytale",
+        "url": "https://open.spotify.com/album/3buXxoeXLMcwS9LQbzRGev"
+      },
+      "artists": [
+        {
+          "name": "Tanner King Trio",
+          "url": "https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8"
+        }
+      ],
+      "duration_ms": 129414,
+      "name": "Midnight Fairytale",
+      "url": "https://open.spotify.com/track/7cZxQ0m9bK0TLsaUD2UoQd"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -8011,22 +8011,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Numbers",
-        "url": "https://open.spotify.com/album/1O4evJabwDBsEixzbR0eRO"
-      },
-      "artists": [
-        {
-          "name": "Andreas Gidlund",
-          "url": "https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO"
-        }
-      ],
-      "duration_ms": 206750,
-      "name": "Numbers",
-      "url": "https://open.spotify.com/track/6SDA08SDIvOubZQXGsNBRo"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Lover For The Day",
         "url": "https://open.spotify.com/album/0kFGMriy7x1Kxdx5aTCGtq"
       },
@@ -8039,6 +8023,22 @@
       "duration_ms": 288368,
       "name": "Living In Paradise",
       "url": "https://open.spotify.com/track/4wKOWUjEmHH3CqTvKFNjkm"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Numbers",
+        "url": "https://open.spotify.com/album/1O4evJabwDBsEixzbR0eRO"
+      },
+      "artists": [
+        {
+          "name": "Andreas Gidlund",
+          "url": "https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO"
+        }
+      ],
+      "duration_ms": 206750,
+      "name": "Numbers",
+      "url": "https://open.spotify.com/track/6SDA08SDIvOubZQXGsNBRo"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -8091,22 +8091,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Last Time",
-        "url": "https://open.spotify.com/album/0jagdC0GzcXXZ3K8K7pubH"
-      },
-      "artists": [
-        {
-          "name": "Ray Horne Trio",
-          "url": "https://open.spotify.com/artist/51XvvMJ1TNAQpuGnDlwmUT"
-        }
-      ],
-      "duration_ms": 211668,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/1hJDVrOqH92eenr4R1xDge"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Midday Walk",
         "url": "https://open.spotify.com/album/47WU0DqHlyUmr3LYNiXdEp"
       },
@@ -8119,6 +8103,22 @@
       "duration_ms": 211347,
       "name": "Midday Walk",
       "url": "https://open.spotify.com/track/1rgG63Kci1aVlCCxFjQ4ci"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Last Time",
+        "url": "https://open.spotify.com/album/0jagdC0GzcXXZ3K8K7pubH"
+      },
+      "artists": [
+        {
+          "name": "Ray Horne Trio",
+          "url": "https://open.spotify.com/artist/51XvvMJ1TNAQpuGnDlwmUT"
+        }
+      ],
+      "duration_ms": 211668,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/1hJDVrOqH92eenr4R1xDge"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -9143,22 +9143,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Clowns & Crowns",
-        "url": "https://open.spotify.com/album/0nKJipBwoZ5X773jRZDrWY"
-      },
-      "artists": [
-        {
-          "name": "The Vanguard Trio",
-          "url": "https://open.spotify.com/artist/7fzpXWzhf95kuCoXrJuhoy"
-        }
-      ],
-      "duration_ms": 246750,
-      "name": "Clowns & Crowns",
-      "url": "https://open.spotify.com/track/1TV8vnzvi3uFwPMigQ5jua"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Only Way To Play Is All In",
         "url": "https://open.spotify.com/album/4PzO4qn8WkZtHL6Fx6z65h"
       },
@@ -9171,6 +9155,22 @@
       "duration_ms": 198553,
       "name": "Only Way To Play Is All In",
       "url": "https://open.spotify.com/track/5nEXgS8wX0y4dVqe3GUPHI"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Clowns & Crowns",
+        "url": "https://open.spotify.com/album/0nKJipBwoZ5X773jRZDrWY"
+      },
+      "artists": [
+        {
+          "name": "The Vanguard Trio",
+          "url": "https://open.spotify.com/artist/7fzpXWzhf95kuCoXrJuhoy"
+        }
+      ],
+      "duration_ms": 246750,
+      "name": "Clowns & Crowns",
+      "url": "https://open.spotify.com/track/1TV8vnzvi3uFwPMigQ5jua"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -9583,6 +9583,22 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
+        "name": "Sometimes We Do",
+        "url": "https://open.spotify.com/album/7cr2yeKvQHEpvvTPcl29zs"
+      },
+      "artists": [
+        {
+          "name": "Bernhard Cohen",
+          "url": "https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f"
+        }
+      ],
+      "duration_ms": 204162,
+      "name": "Sometimes We Do",
+      "url": "https://open.spotify.com/track/4iWhQq5tD1XZVRhhpFdIS4"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
         "name": "You Don't Know What Love Is",
         "url": "https://open.spotify.com/album/42jzQMDBQFqwr245siPsBH"
       },
@@ -9603,22 +9619,6 @@
       "duration_ms": 285549,
       "name": "You Don't Know What Love Is",
       "url": "https://open.spotify.com/track/6Ybo0q6qQkKOZ3zRN59GnM"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "Sometimes We Do",
-        "url": "https://open.spotify.com/album/7cr2yeKvQHEpvvTPcl29zs"
-      },
-      "artists": [
-        {
-          "name": "Bernhard Cohen",
-          "url": "https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f"
-        }
-      ],
-      "duration_ms": 204162,
-      "name": "Sometimes We Do",
-      "url": "https://open.spotify.com/track/4iWhQq5tD1XZVRhhpFdIS4"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -9875,6 +9875,22 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
+        "name": "Chet (Mono)",
+        "url": "https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 321243,
+      "name": "'Tis Autumn - Mono",
+      "url": "https://open.spotify.com/track/77eyTozd749OwrD7cQAQ5H"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
         "name": "Everything To Me",
         "url": "https://open.spotify.com/album/5gKlIc5h9S3NigmdtLUwjI"
       },
@@ -9903,22 +9919,6 @@
       "duration_ms": 170970,
       "name": "A Two Way Love",
       "url": "https://open.spotify.com/track/4vboPyW29H2sAjUWUrOvnh"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "Chet (Mono)",
-        "url": "https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 321243,
-      "name": "'Tis Autumn - Mono",
-      "url": "https://open.spotify.com/track/77eyTozd749OwrD7cQAQ5H"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -12363,6 +12363,22 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
+        "name": "There's Always A Way",
+        "url": "https://open.spotify.com/album/6i64NI6yiadQVZpDcljiqU"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9o Freire",
+          "url": "https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3"
+        }
+      ],
+      "duration_ms": 174192,
+      "name": "There's Always A Way",
+      "url": "https://open.spotify.com/track/1kILTrdSQFgpOSAeycMPAe"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
         "name": "At The Blue Note",
         "url": "https://open.spotify.com/album/6sJLTN1J3PhPQ0OybVsqVz"
       },
@@ -12391,22 +12407,6 @@
       "duration_ms": 284407,
       "name": "Bright Drops",
       "url": "https://open.spotify.com/track/6TgUk5sdJegSlgSqxsvqyf"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "There's Always A Way",
-        "url": "https://open.spotify.com/album/6i64NI6yiadQVZpDcljiqU"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9o Freire",
-          "url": "https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3"
-        }
-      ],
-      "duration_ms": 174192,
-      "name": "There's Always A Way",
-      "url": "https://open.spotify.com/track/1kILTrdSQFgpOSAeycMPAe"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -12483,26 +12483,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Last Dance",
-        "url": "https://open.spotify.com/album/6SeF9urdp6Cw8aL11XwVEa"
-      },
-      "artists": [
-        {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
-        },
-        {
-          "name": "Charlie Haden",
-          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
-        }
-      ],
-      "duration_ms": 618733,
-      "name": "My Old Flame",
-      "url": "https://open.spotify.com/track/5yZSSjUOsrp36P5uKdvuj8"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Mingus Ah Um",
         "url": "https://open.spotify.com/album/4Z8nWz3dGybOP7lhMZpcOo"
       },
@@ -12535,6 +12515,26 @@
       "duration_ms": 365066,
       "name": "Social Call",
       "url": "https://open.spotify.com/track/2BiFCCFFXt9iIzEo4hnuoy"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Last Dance",
+        "url": "https://open.spotify.com/album/6SeF9urdp6Cw8aL11XwVEa"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        },
+        {
+          "name": "Charlie Haden",
+          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
+        }
+      ],
+      "duration_ms": 618733,
+      "name": "My Old Flame",
+      "url": "https://open.spotify.com/track/5yZSSjUOsrp36P5uKdvuj8"
     },
     {
       "added_at": "2024-02-23 00:01:00",

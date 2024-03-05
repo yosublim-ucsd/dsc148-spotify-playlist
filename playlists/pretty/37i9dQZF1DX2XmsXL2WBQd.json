@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 385621,
+  "num_followers": 385708,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzkwMGM2NzQ3YzhmZGJmMWExMzM2M2FiMmZjY2EwMmNlNDM4MDQ2",
+  "snapshot_id": "MCw3OTI1ODgwYzY5ZTAzZjFlYjZmNDgwNjU4NTkxZGIxYTgwNDgyODE3",
   "tracks": [
     {
       "added_at": "2024-01-26 08:36:38",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-01-26 08:36:38",
       "album": {
-        "name": "Paid In Full",
-        "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
-      },
-      "artists": [
-        {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
-        }
-      ],
-      "duration_ms": 232760,
-      "name": "I Ain't No Joke",
-      "url": "https://open.spotify.com/track/0SwuCcwpFM6x4cu5zOvmi0"
-    },
-    {
-      "added_at": "2024-01-26 08:36:38",
-      "album": {
         "name": "Paul's Boutique (20th Anniversary Edition / Remastered)",
         "url": "https://open.spotify.com/album/1kmyirVya5fRxdjsPFDM05"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 198253,
       "name": "Shake Your Rump",
       "url": "https://open.spotify.com/track/2qq0RYYIuQxXcOxQKN0drC"
+    },
+    {
+      "added_at": "2024-01-26 08:36:38",
+      "album": {
+        "name": "Paid In Full",
+        "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
+      },
+      "artists": [
+        {
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+        }
+      ],
+      "duration_ms": 232760,
+      "name": "I Ain't No Joke",
+      "url": "https://open.spotify.com/track/0SwuCcwpFM6x4cu5zOvmi0"
     },
     {
       "added_at": "2024-01-26 08:36:38",
@@ -359,38 +359,6 @@
     {
       "added_at": "2024-01-26 08:36:38",
       "album": {
-        "name": "Long Live The Kane",
-        "url": "https://open.spotify.com/album/5STvD2F7IQ51f4Cd2y5r3z"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Kane",
-          "url": "https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W"
-        }
-      ],
-      "duration_ms": 319906,
-      "name": "Ain't No Half-Steppin'",
-      "url": "https://open.spotify.com/track/0dNiLb9FEHrRK7VFDJctiR"
-    },
-    {
-      "added_at": "2024-01-26 08:36:38",
-      "album": {
-        "name": "RUN-DMC (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 290280,
-      "name": "It's Like That",
-      "url": "https://open.spotify.com/track/2J6QnTjHIWwXErNWyF0RUC"
-    },
-    {
-      "added_at": "2024-01-26 08:36:38",
-      "album": {
         "name": "Paid In Full",
         "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
       },
@@ -411,6 +379,22 @@
     {
       "added_at": "2024-01-26 08:36:38",
       "album": {
+        "name": "Long Live The Kane",
+        "url": "https://open.spotify.com/album/5STvD2F7IQ51f4Cd2y5r3z"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Kane",
+          "url": "https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W"
+        }
+      ],
+      "duration_ms": 319906,
+      "name": "Ain't No Half-Steppin'",
+      "url": "https://open.spotify.com/track/0dNiLb9FEHrRK7VFDJctiR"
+    },
+    {
+      "added_at": "2024-01-26 08:36:38",
+      "album": {
         "name": "Future Shock",
         "url": "https://open.spotify.com/album/108uNBYGawRo3aQiaA7lQY"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 325133,
       "name": "Rockit",
       "url": "https://open.spotify.com/track/2nWHzbBWBOePUvAImQv2So"
+    },
+    {
+      "added_at": "2024-01-26 08:36:38",
+      "album": {
+        "name": "RUN-DMC (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 290280,
+      "name": "It's Like That",
+      "url": "https://open.spotify.com/track/2J6QnTjHIWwXErNWyF0RUC"
     },
     {
       "added_at": "2024-01-26 08:36:38",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-01-26 08:36:38",
       "album": {
-        "name": "Follow The Leader (Expanded Edition)",
-        "url": "https://open.spotify.com/album/42p4dRDB24b9mvBmMb0QR9"
-      },
-      "artists": [
-        {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
-        }
-      ],
-      "duration_ms": 314600,
-      "name": "Microphone Fiend",
-      "url": "https://open.spotify.com/track/0cSJGFChou7M6u2ju9SWN1"
-    },
-    {
-      "added_at": "2024-01-26 08:36:38",
-      "album": {
         "name": "Rhyme Pays",
         "url": "https://open.spotify.com/album/267xiIVnif2CUxhbRQk115"
       },
@@ -519,6 +503,38 @@
       "duration_ms": 224866,
       "name": "6 'N the Mornin'",
       "url": "https://open.spotify.com/track/2cBOh97kgDenDOdtKhwU9O"
+    },
+    {
+      "added_at": "2024-01-26 08:36:38",
+      "album": {
+        "name": "Raising Hell",
+        "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 167880,
+      "name": "My Adidas",
+      "url": "https://open.spotify.com/track/6LdpVTJzigyi2vbKe8mZAr"
+    },
+    {
+      "added_at": "2024-01-26 08:36:38",
+      "album": {
+        "name": "Follow The Leader (Expanded Edition)",
+        "url": "https://open.spotify.com/album/42p4dRDB24b9mvBmMb0QR9"
+      },
+      "artists": [
+        {
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+        }
+      ],
+      "duration_ms": 314600,
+      "name": "Microphone Fiend",
+      "url": "https://open.spotify.com/track/0cSJGFChou7M6u2ju9SWN1"
     },
     {
       "added_at": "2024-01-26 08:36:38",
@@ -539,18 +555,18 @@
     {
       "added_at": "2024-01-26 08:36:38",
       "album": {
-        "name": "Raising Hell",
-        "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
+        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
       },
       "artists": [
         {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
         }
       ],
-      "duration_ms": 167880,
-      "name": "My Adidas",
-      "url": "https://open.spotify.com/track/6LdpVTJzigyi2vbKe8mZAr"
+      "duration_ms": 226040,
+      "name": "Bring The Noise",
+      "url": "https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv"
     },
     {
       "added_at": "2024-01-26 08:36:38",
@@ -603,54 +619,6 @@
     {
       "added_at": "2024-01-26 08:36:38",
       "album": {
-        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
-      },
-      "artists": [
-        {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
-        }
-      ],
-      "duration_ms": 226040,
-      "name": "Bring The Noise",
-      "url": "https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv"
-    },
-    {
-      "added_at": "2024-01-26 08:36:38",
-      "album": {
-        "name": "King Of Rock (Expanded Edition)",
-        "url": "https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 314146,
-      "name": "King of Rock",
-      "url": "https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV"
-    },
-    {
-      "added_at": "2024-01-26 08:36:38",
-      "album": {
-        "name": "Paid In Full",
-        "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
-      },
-      "artists": [
-        {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
-        }
-      ],
-      "duration_ms": 284466,
-      "name": "I Know You Got Soul",
-      "url": "https://open.spotify.com/track/5D2lp16FQ0VIfLGRDn5jcG"
-    },
-    {
-      "added_at": "2024-01-26 08:36:38",
-      "album": {
         "name": "Planet Rock: The Album",
         "url": "https://open.spotify.com/album/3qX0GugLujpIodkT6r06hf"
       },
@@ -671,6 +639,22 @@
     {
       "added_at": "2024-01-26 08:36:38",
       "album": {
+        "name": "King Of Rock (Expanded Edition)",
+        "url": "https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 314146,
+      "name": "King of Rock",
+      "url": "https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV"
+    },
+    {
+      "added_at": "2024-01-26 08:36:38",
+      "album": {
         "name": "Strictly Business",
         "url": "https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 285413,
       "name": "Strictly Business",
       "url": "https://open.spotify.com/track/1xZdjsAGrY4BUIbIlYy3EX"
+    },
+    {
+      "added_at": "2024-01-26 08:36:38",
+      "album": {
+        "name": "Paid In Full",
+        "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
+      },
+      "artists": [
+        {
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+        }
+      ],
+      "duration_ms": 284466,
+      "name": "I Know You Got Soul",
+      "url": "https://open.spotify.com/track/5D2lp16FQ0VIfLGRDn5jcG"
     },
     {
       "added_at": "2024-01-26 08:36:38",
@@ -735,6 +735,38 @@
     {
       "added_at": "2024-01-26 08:36:38",
       "album": {
+        "name": "Criminal Minded (Deluxe)",
+        "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
+      },
+      "artists": [
+        {
+          "name": "Boogie Down Productions",
+          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
+        }
+      ],
+      "duration_ms": 204601,
+      "name": "The Bridge Is Over",
+      "url": "https://open.spotify.com/track/5jkjpSsMOfsxgdGScPZVq2"
+    },
+    {
+      "added_at": "2024-01-26 08:36:38",
+      "album": {
+        "name": "Hey DJ",
+        "url": "https://open.spotify.com/album/06c1nSdZa3jT2UCn024dV2"
+      },
+      "artists": [
+        {
+          "name": "Worlds Famous Supreme Team",
+          "url": "https://open.spotify.com/artist/01VXEpueAsBp3I5CAFUnti"
+        }
+      ],
+      "duration_ms": 206081,
+      "name": "Hey DJ",
+      "url": "https://open.spotify.com/track/7tW7kmX6o8avIUxN8yBUEo"
+    },
+    {
+      "added_at": "2024-01-26 08:36:38",
+      "album": {
         "name": "Planet Rock: The Album",
         "url": "https://open.spotify.com/album/3qX0GugLujpIodkT6r06hf"
       },
@@ -755,22 +787,6 @@
     {
       "added_at": "2024-01-26 08:36:38",
       "album": {
-        "name": "Criminal Minded (Deluxe)",
-        "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
-      },
-      "artists": [
-        {
-          "name": "Boogie Down Productions",
-          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
-        }
-      ],
-      "duration_ms": 204601,
-      "name": "The Bridge Is Over",
-      "url": "https://open.spotify.com/track/5jkjpSsMOfsxgdGScPZVq2"
-    },
-    {
-      "added_at": "2024-01-26 08:36:38",
-      "album": {
         "name": "Follow The Leader",
         "url": "https://open.spotify.com/album/3kaiwH8r6Wg62D2CxOr0QH"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 336866,
       "name": "Follow The Leader",
       "url": "https://open.spotify.com/track/1p80AptLonBW0VilSi6xFj"
-    },
-    {
-      "added_at": "2024-01-26 08:36:38",
-      "album": {
-        "name": "Hey DJ",
-        "url": "https://open.spotify.com/album/06c1nSdZa3jT2UCn024dV2"
-      },
-      "artists": [
-        {
-          "name": "Worlds Famous Supreme Team",
-          "url": "https://open.spotify.com/artist/01VXEpueAsBp3I5CAFUnti"
-        }
-      ],
-      "duration_ms": 206081,
-      "name": "Hey DJ",
-      "url": "https://open.spotify.com/track/7tW7kmX6o8avIUxN8yBUEo"
     },
     {
       "added_at": "2024-01-26 08:36:38",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-01-26 08:36:38",
       "album": {
-        "name": "By All Means Necessary (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1ucCcn3bSPePeI67kUapwB"
-      },
-      "artists": [
-        {
-          "name": "Boogie Down Productions",
-          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
-        }
-      ],
-      "duration_ms": 340133,
-      "name": "My Philosophy",
-      "url": "https://open.spotify.com/track/2P8KBF5BtraQiGpxDXrCnF"
-    },
-    {
-      "added_at": "2024-01-26 08:36:38",
-      "album": {
         "name": "What More Can I Say",
         "url": "https://open.spotify.com/album/4ULe1bx6XkffNvsbB9DHr6"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 362293,
       "name": "Vapors",
       "url": "https://open.spotify.com/track/73lzOeqHJSH8ddRls5GonC"
+    },
+    {
+      "added_at": "2024-01-26 08:36:38",
+      "album": {
+        "name": "By All Means Necessary (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1ucCcn3bSPePeI67kUapwB"
+      },
+      "artists": [
+        {
+          "name": "Boogie Down Productions",
+          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
+        }
+      ],
+      "duration_ms": 340133,
+      "name": "My Philosophy",
+      "url": "https://open.spotify.com/track/2P8KBF5BtraQiGpxDXrCnF"
     },
     {
       "added_at": "2024-01-26 08:36:38",

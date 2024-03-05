@@ -4,7 +4,7 @@
 
 > 100% ska en español\. Las Víctimas del Dr\. Caligaris/El Gábinete del Dr\. Cerebro en portada.
 
-319 songs - 19 hr 21 min
+320 songs - 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Entre Vos y Yo](https://open.spotify.com/track/3H7wULYr0I5lTucP1hS3Wt) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Bailarín Apocalíptico](https://open.spotify.com/album/1wLDlwN9FfneiyC5ZuJIeQ) | 4:38 | 2021-12-21 |  |
 | [Envenenen a Mis Labios](https://open.spotify.com/track/0g6fuc3xiIsYVVkfqUNua6) | [La Parranda Magna](https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH) | [Nunca Nos Compusimos](https://open.spotify.com/album/6I9M5LkuP3I8ZlxFTQU4Up) | 3:50 | 2021-12-21 |  |
 | [Es Por Ti](https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:35 | 2021-12-21 | 2024-02-17 |
-| [Escápate conmigo](https://open.spotify.com/track/03o4ypJBzm4LS5Fv6Zc5Gt) | [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF), [Percance](https://open.spotify.com/artist/4Q8gIPN30yQkI8cs2xwqmY) | [El ataque de la nueva ola](https://open.spotify.com/album/3MQaTzbx6u7KwbAmqEMGdy) | 3:40 | 2021-12-21 |  |
+| [Escápate conmigo](https://open.spotify.com/track/03o4ypJBzm4LS5Fv6Zc5Gt) | [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF), [Percance](https://open.spotify.com/artist/4Q8gIPN30yQkI8cs2xwqmY) | [El ataque de la nueva ola](https://open.spotify.com/album/3MQaTzbx6u7KwbAmqEMGdy) | 3:40 | 2021-12-21 | 2024-03-05 |
 | [Esta es Mi Vida](https://open.spotify.com/track/4dr0yrw0TkRigczw9nXjx4) | [Juantxo Skalari & La Rude Band](https://open.spotify.com/artist/0qreoKgxsV67sXRXJSYFPb), [Los De Marras](https://open.spotify.com/artist/0E1P5uNgbD11POIDxFROHh) | [Radical Park \- Episodio 1](https://open.spotify.com/album/4FrZeUF3cWGyZ4HAwhQ79a) | 2:59 | 2024-02-16 |  |
 | [Esta Noche](https://open.spotify.com/track/3k7QtSyXq3lbv51kaFwzMB) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/6che3OFwfIG8KzJQ7IkwXc) | 3:25 | 2021-12-21 | 2023-06-03 |
 | [Este Ritmo](https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW) | [Este Ritmo](https://open.spotify.com/album/4e1fIYgX0uRHAoq7Fl0kQp) | 2:47 | 2021-12-21 |  |
@@ -314,6 +314,7 @@
 | [Una buena noche](https://open.spotify.com/track/4g2c6CYEWKLeGhwZPOkaj6) | [Staya Staya](https://open.spotify.com/artist/7mjXsxiQz6X6LS6SxGmCQf) | [Ya Suena](https://open.spotify.com/album/6kniUnB793nb2Fav2huCdm) | 2:57 | 2022-09-03 | 2023-05-06 |
 | [Una Lagrima Por Ti 2005](https://open.spotify.com/track/2bYf9Popw7l8tdffqeFj4v) | [Jamaica 69](https://open.spotify.com/artist/5WR89QzeMWyvWN9l4thUHM) | [The Rough and Tough Anthology](https://open.spotify.com/album/0btV40JfMq3w7X1YY7Oqhu) | 3:23 | 2021-12-21 | 2022-07-29 |
 | [Vendedora de Caricias](https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:45 | 2021-12-21 |  |
+| [Vete Por Donde Viniste](https://open.spotify.com/track/5Wn97vM7JaTNyp8DQIM60d) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Vete Por Donde Viniste](https://open.spotify.com/album/3u0gAPe5il3ljfI9wUWP0n) | 3:07 | 2024-03-04 |  |
 | [Vicio](https://open.spotify.com/track/6g9hULFpG1pEyEH6HRMHaE) | [Sonora de Llegar](https://open.spotify.com/artist/6Zvh0z6M1QFVEvy1i8mTYV) | [Sonora de Llegar](https://open.spotify.com/album/1giTHiLOSaaB8TqchemtJf) | 2:46 | 2021-12-21 | 2023-03-02 |
 | [Vira\-Lata](https://open.spotify.com/track/0qrWq5QicfLTefnLMuxUPz) | [Buena Onda Reggae Club](https://open.spotify.com/artist/2fuv23bY4oSgxNKH7TdUZz) | [Vira\-Lata](https://open.spotify.com/album/4Wy6qLOygnSQ6MGKHqNC0Z) | 3:30 | 2023-09-29 | 2024-02-13 |
 | [Viviendo en Otro Lugar](https://open.spotify.com/track/6MfLxPLAUvcUsghmk8NRej) | [Negros Vivos](https://open.spotify.com/artist/72QOOwPYcqNkXXG5XHo0cJ) | [Viviendo en Otro Lugar](https://open.spotify.com/album/6LvML7neTPNAsS5LakMI2h) | 3:39 | 2023-09-08 | 2024-01-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,813 likes - 160 songs - 9 hr 2 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,813 likes - 161 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -168,5 +168,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 158 | [Ride Or Die](https://open.spotify.com/track/4cwmGynF3SKhjq4vlGBVTi) | [AK SPORTS](https://open.spotify.com/artist/7qiOBa5jCbTeyLY2Chw9ju) | [Ride Or Die](https://open.spotify.com/album/6POFris69rMrOUVviVE9Ls) | 3:14 |
 | 159 | [rainonmyparade](https://open.spotify.com/track/7IQPEaJi04YGb0NrZnHMqh) | [cln](https://open.spotify.com/artist/57JUsZcuNTR0ocGCfrnse1) | [rainonmyparade](https://open.spotify.com/album/5kw8ltCF2M15RLZSMBqAjh) | 2:34 |
 | 160 | [Another Night \(with Fi Sullivan\)](https://open.spotify.com/track/3mSM5Tm2eDOQOwALWS9OxD) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Fi Sullivan](https://open.spotify.com/artist/4Wvsgumh32s2wSMTZW7FMa) | [Another Night \(with Fi Sullivan\)](https://open.spotify.com/album/3kyUWWFiVBDDFkkjVeMqyA) | 2:31 |
+| 161 | [How Deep Is Your Love](https://open.spotify.com/track/4YlwsCI4O2sdJN55gRF9pV) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [hermixalot](https://open.spotify.com/artist/6hdb3ZH5gpJxqFPdXRGmdC) | [LP Giobbi x Insomniac Records Presents Femme House Vol\. 2](https://open.spotify.com/album/27PjvXPnBZ9wMEITi1MZd7) | 5:16 |
 
-Snapshot ID: `MTA1ODYsNjhiYWNjZjE2OTQzMjA4YmJhMjkwYTY4ZjNjZDIyOTUzZmI1Y2ZmMw==`
+Snapshot ID: `MTA1ODcsZWE2ZDJkNWIxNmE3ZDQyNGViN2I5OTY0ZWMxNGQxNGFiNTkxYmQ1ZA==`

@@ -1,12 +1,12 @@
 {
   "description": "The sound of the new era of Jazz. Cover: Esperanza Spalding",
-  "num_followers": 108719,
+  "num_followers": 108787,
   "original_name": "21st Century Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMWFmYTQyNTRjZmEwMDg3MmM5MmIzNzY2MjlhOGZmOWY2MDkzODEz",
+  "snapshot_id": "MCw4ZWVjN2MwOGMxZTMwNWJhZmYzMTExZDExZWM2YmIyZGI2M2Y1MWRm",
   "tracks": [
     {
       "added_at": "2022-04-01 04:01:00",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-02-10 23:00:00",
       "album": {
-        "name": "Comedown",
-        "url": "https://open.spotify.com/album/1Lj3VaMOtFFF1RmBGUr7hk"
-      },
-      "artists": [
-        {
-          "name": "Jazzbois",
-          "url": "https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul"
-        }
-      ],
-      "duration_ms": 159228,
-      "name": "Comedown",
-      "url": "https://open.spotify.com/track/62ymRuQmaETCv6wasnQ8Qr"
-    },
-    {
-      "added_at": "2022-02-10 23:00:00",
-      "album": {
         "name": "Portico Quartet / Hania Rani",
         "url": "https://open.spotify.com/album/2Lui1DlRgQ8mbS6AY7urrR"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 218360,
       "name": "Nest - Portico Quartet Remix",
       "url": "https://open.spotify.com/track/0P0nTzEQLl64GFktnOlZL6"
+    },
+    {
+      "added_at": "2022-02-10 23:00:00",
+      "album": {
+        "name": "Comedown",
+        "url": "https://open.spotify.com/album/1Lj3VaMOtFFF1RmBGUr7hk"
+      },
+      "artists": [
+        {
+          "name": "Jazzbois",
+          "url": "https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul"
+        }
+      ],
+      "duration_ms": 159228,
+      "name": "Comedown",
+      "url": "https://open.spotify.com/track/62ymRuQmaETCv6wasnQ8Qr"
     },
     {
       "added_at": "2022-04-01 04:01:00",
@@ -707,6 +707,22 @@
     {
       "added_at": "2022-02-10 23:00:00",
       "album": {
+        "name": "GoGo Penguin",
+        "url": "https://open.spotify.com/album/5dNyGCWbvGFcR2Zgad3cse"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "duration_ms": 219285,
+      "name": "Don\u2019t Go",
+      "url": "https://open.spotify.com/track/0pcxvYCWcYn4FOlRM5aoW9"
+    },
+    {
+      "added_at": "2022-02-10 23:00:00",
+      "album": {
         "name": "Could We Be More",
         "url": "https://open.spotify.com/album/48e8LFqiVUxumlXDIVyNYl"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 290826,
       "name": "Redenci\u00f3n (feat. Ang\u00e1 D\u00edaz, Amadito Vald\u00e9s, Carlos Gonz\u00e1lez & Manuel Galb\u00e1n)",
       "url": "https://open.spotify.com/track/4NN5IrRr7sji3QimhwzZcr"
-    },
-    {
-      "added_at": "2022-02-10 23:00:00",
-      "album": {
-        "name": "GoGo Penguin",
-        "url": "https://open.spotify.com/album/5dNyGCWbvGFcR2Zgad3cse"
-      },
-      "artists": [
-        {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
-        }
-      ],
-      "duration_ms": 219285,
-      "name": "Don\u2019t Go",
-      "url": "https://open.spotify.com/track/0pcxvYCWcYn4FOlRM5aoW9"
     },
     {
       "added_at": "2022-02-10 23:00:00",
@@ -2031,6 +2031,22 @@
     {
       "added_at": "2022-02-10 23:00:00",
       "album": {
+        "name": "Autumn In New York",
+        "url": "https://open.spotify.com/album/3zz4UhdfebKaIeXKdIKKk0"
+      },
+      "artists": [
+        {
+          "name": "Makaya McCraven",
+          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
+        }
+      ],
+      "duration_ms": 355880,
+      "name": "Autumn In New York",
+      "url": "https://open.spotify.com/track/6nQocCdBEDoy6aGxk1vGwt"
+    },
+    {
+      "added_at": "2022-02-10 23:00:00",
+      "album": {
         "name": "mazes",
         "url": "https://open.spotify.com/album/6PXBe83s89cMbI1vtBegzg"
       },
@@ -2059,22 +2075,6 @@
       "duration_ms": 278520,
       "name": "prisner",
       "url": "https://open.spotify.com/track/1f5w6SKCFnvTf68De7JgMR"
-    },
-    {
-      "added_at": "2022-02-10 23:00:00",
-      "album": {
-        "name": "Autumn In New York",
-        "url": "https://open.spotify.com/album/3zz4UhdfebKaIeXKdIKKk0"
-      },
-      "artists": [
-        {
-          "name": "Makaya McCraven",
-          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
-        }
-      ],
-      "duration_ms": 355880,
-      "name": "Autumn In New York",
-      "url": "https://open.spotify.com/track/6nQocCdBEDoy6aGxk1vGwt"
     },
     {
       "added_at": "2022-02-10 23:00:00",
@@ -3663,34 +3663,6 @@
     {
       "added_at": "2022-02-10 23:00:00",
       "album": {
-        "name": "City Dreams",
-        "url": "https://open.spotify.com/album/6FtVuIjXMLrskjf3xZfCMv"
-      },
-      "artists": [
-        {
-          "name": "Telemakus",
-          "url": "https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6"
-        },
-        {
-          "name": "Ph\u00f8n",
-          "url": "https://open.spotify.com/artist/6v2EgPbnVH1tpRh4GXAejH"
-        },
-        {
-          "name": "Javier Santiago",
-          "url": "https://open.spotify.com/artist/3L3oWS9VsgTRBF7HFHdOEz"
-        },
-        {
-          "name": "Tamuz",
-          "url": "https://open.spotify.com/artist/0PeJXwNht5Ty961mmQWJuA"
-        }
-      ],
-      "duration_ms": 298067,
-      "name": "City Dreams",
-      "url": "https://open.spotify.com/track/1npn7uPiSxUr5oKJIkGq04"
-    },
-    {
-      "added_at": "2022-02-10 23:00:00",
-      "album": {
         "name": "Shift",
         "url": "https://open.spotify.com/album/1U1QWW5cr5tXERAibHziGc"
       },
@@ -3727,6 +3699,34 @@
       "duration_ms": 186246,
       "name": "Manaas",
       "url": "https://open.spotify.com/track/1OE4B8FrROIWwjQedbQGEy"
+    },
+    {
+      "added_at": "2022-02-10 23:00:00",
+      "album": {
+        "name": "City Dreams",
+        "url": "https://open.spotify.com/album/6FtVuIjXMLrskjf3xZfCMv"
+      },
+      "artists": [
+        {
+          "name": "Telemakus",
+          "url": "https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6"
+        },
+        {
+          "name": "Ph\u00f8n",
+          "url": "https://open.spotify.com/artist/6v2EgPbnVH1tpRh4GXAejH"
+        },
+        {
+          "name": "Javier Santiago",
+          "url": "https://open.spotify.com/artist/3L3oWS9VsgTRBF7HFHdOEz"
+        },
+        {
+          "name": "Tamuz",
+          "url": "https://open.spotify.com/artist/0PeJXwNht5Ty961mmQWJuA"
+        }
+      ],
+      "duration_ms": 298067,
+      "name": "City Dreams",
+      "url": "https://open.spotify.com/track/1npn7uPiSxUr5oKJIkGq04"
     },
     {
       "added_at": "2022-02-10 23:00:00",
@@ -4001,6 +4001,38 @@
       "url": "https://open.spotify.com/track/6R1R6czIpUXR6vhWWqfgC2"
     },
     {
+      "added_at": "2022-02-10 23:00:00",
+      "album": {
+        "name": "Two Chords & the Truth",
+        "url": "https://open.spotify.com/album/4kSahQsRnashhQ1tY52M2Z"
+      },
+      "artists": [
+        {
+          "name": "Myele Manzanza",
+          "url": "https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd"
+        },
+        {
+          "name": "Matt Dal Din",
+          "url": "https://open.spotify.com/artist/7M4LaKk6OEcNxF4cKKhEsX"
+        },
+        {
+          "name": "Ashton Sellars",
+          "url": "https://open.spotify.com/artist/0yihh2mdPS2cIc1DoCktHm"
+        },
+        {
+          "name": "Aron Ottignon",
+          "url": "https://open.spotify.com/artist/6iRKnXGoDegUsRqRZ5SBlK"
+        },
+        {
+          "name": "Andr\u00e9 Marmot",
+          "url": "https://open.spotify.com/artist/3FkkCxQQjf6NiXcX8vEQ1G"
+        }
+      ],
+      "duration_ms": 180551,
+      "name": "Two Chords & the Truth",
+      "url": "https://open.spotify.com/track/0ZIfu4ZduQ9kIa5KgKOuIO"
+    },
+    {
       "added_at": "2022-04-01 04:01:00",
       "album": {
         "name": "Black Stars",
@@ -4043,38 +4075,6 @@
       "duration_ms": 188266,
       "name": "Ice-free",
       "url": "https://open.spotify.com/track/60xyKm58pAqYg5HJ5pApWJ"
-    },
-    {
-      "added_at": "2022-02-10 23:00:00",
-      "album": {
-        "name": "Two Chords & the Truth",
-        "url": "https://open.spotify.com/album/4kSahQsRnashhQ1tY52M2Z"
-      },
-      "artists": [
-        {
-          "name": "Myele Manzanza",
-          "url": "https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd"
-        },
-        {
-          "name": "Matt Dal Din",
-          "url": "https://open.spotify.com/artist/7M4LaKk6OEcNxF4cKKhEsX"
-        },
-        {
-          "name": "Ashton Sellars",
-          "url": "https://open.spotify.com/artist/0yihh2mdPS2cIc1DoCktHm"
-        },
-        {
-          "name": "Aron Ottignon",
-          "url": "https://open.spotify.com/artist/6iRKnXGoDegUsRqRZ5SBlK"
-        },
-        {
-          "name": "Andr\u00e9 Marmot",
-          "url": "https://open.spotify.com/artist/3FkkCxQQjf6NiXcX8vEQ1G"
-        }
-      ],
-      "duration_ms": 180551,
-      "name": "Two Chords & the Truth",
-      "url": "https://open.spotify.com/track/0ZIfu4ZduQ9kIa5KgKOuIO"
     },
     {
       "added_at": "2022-02-10 23:00:00",

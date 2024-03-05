@@ -489,6 +489,24 @@
     },
     {
       "album": {
+        "name": "IN LOVING MEMORY",
+        "url": "https://open.spotify.com/album/5yjvJzb9DJRtgArZhPs6uk"
+      },
+      "artists": [
+        {
+          "name": "Sean Leon",
+          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403948,
+      "name": "EQUINOX",
+      "url": "https://open.spotify.com/track/3hB80p4bHJMUEF50droDWh"
+    },
+    {
+      "album": {
         "name": "Pretty In Black (Deluxe)",
         "url": "https://open.spotify.com/album/0mYQnhiqwscLVlk0LgVia1"
       },

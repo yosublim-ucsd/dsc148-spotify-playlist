@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 
 > All the indie gems from 2023 that may have flown under your radar! Cover: The Last Dinner Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,210 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,215 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 58 | [How I Love](https://open.spotify.com/track/2XBmrWOsPavSy6YnwbG7f8) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Smalltown Stardust](https://open.spotify.com/album/6tvYZyoxDRTIOVUwWH6ttG) | 4:48 |
 | 59 | [Barley](https://open.spotify.com/track/1kccKNibPNlyCVqhdg8NYE) | [Water From Your Eyes](https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0) | [Everyone's Crushed](https://open.spotify.com/album/0IzgQa9rNXzaEdj0bmHvpr) | 3:29 |
 | 60 | [LOO SONG](https://open.spotify.com/track/3F0z2ffuQuc3aTHPI0l2Ku) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [LOO SONG](https://open.spotify.com/album/5WSTzOHLT79yFmXvuh7jZ8) | 2:27 |
-| 61 | [Clovers](https://open.spotify.com/track/5k8oU9p71fIhYiTCPudwdh) | [Mali Velasquez](https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP) | [I'm Green](https://open.spotify.com/album/1upKvbsQau0k852Ol079dD) | 4:51 |
-| 62 | [Mosquito](https://open.spotify.com/track/2aIEqZvD0MNvXVPamBkbif) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Dogsbody](https://open.spotify.com/album/1DWLFwBZxTSBWw7G9uhpok) | 3:12 |
+| 61 | [Mosquito](https://open.spotify.com/track/2aIEqZvD0MNvXVPamBkbif) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Dogsbody](https://open.spotify.com/album/1DWLFwBZxTSBWw7G9uhpok) | 3:12 |
+| 62 | [Clovers](https://open.spotify.com/track/5k8oU9p71fIhYiTCPudwdh) | [Mali Velasquez](https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP) | [I'm Green](https://open.spotify.com/album/1upKvbsQau0k852Ol079dD) | 4:51 |
 | 63 | [DON'T YOU THINK IT'D BE NICE ?](https://open.spotify.com/track/6r68X3hgYXylvAyM5yRy3D) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [DON'T YOU THINK IT'D BE NICE ?](https://open.spotify.com/album/4VMu7bXjIkQngtN1D5kAsw) | 3:10 |
 | 64 | [Don Lemon](https://open.spotify.com/track/0gZuzrQU7pLpcZf7JYqXiJ) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Don Lemon](https://open.spotify.com/album/10llpGOIEohzO6V2awCypr) | 3:41 |
 | 65 | [Slow Down](https://open.spotify.com/track/3Tjkpr0qy6oi1GP8kjQNDH) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [Slow Down](https://open.spotify.com/album/4W0eSdwEKYKRZH99zoeSSA) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 99 | [IKWYDLS](https://open.spotify.com/track/1zjorGk3YpcdFRYRRuPzpO) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [baby, I do / IKWYDLS](https://open.spotify.com/album/4kgpigDu7eU9jUEUBYehmX) | 2:31 |
 | 100 | [ifshitfuq](https://open.spotify.com/track/73YDopbDooUCO4WUKwI4zL) | [meg elsier](https://open.spotify.com/artist/4rkAMhebcdsLwZKBriNerT) | [ifshitfuq](https://open.spotify.com/album/4rpHu4Ca3tl9ju3UYzodja) | 3:50 |
 
-Snapshot ID: `MCxlN2E4OWZhZTMxNTcxNTc0MWY3ZmQ2MTIzODRhN2FjM2NkYzI2MTJh`
+Snapshot ID: `MCw5MWZjMDY0OTA0NjhiZDc4MGYyMTM1YTNkM2NmMTBmZTZiYjlmYTQ5`

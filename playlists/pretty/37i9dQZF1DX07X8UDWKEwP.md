@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 
 > Lo nuevo del mundo tropical\. Cover: Sergio George & Jay Wheeler
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,561 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,568 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 27 | [Si Tú Me Quieres](https://open.spotify.com/track/6EjZfW6C5msXQNaf1kquu7) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Si Tú Me Quieres](https://open.spotify.com/album/74rEKU2G8oF2VRMjd14IcY) | 3:24 |
 | 28 | [COBARDE](https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [COBARDE](https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6) | 2:46 |
 | 29 | [Procura](https://open.spotify.com/track/2RXrX4BuyEPmmRCNzIJsYQ) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Don Juan](https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA) | 3:05 |
-| 30 | [Una Vida Buena](https://open.spotify.com/track/6eMKYBh6GKb8QTjVmbpJJC) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Una Vida Buena](https://open.spotify.com/album/5Ol57xPflnNabnALfZehpW) | 2:10 |
-| 31 | [Me EnRD](https://open.spotify.com/track/3GkctxmZmeGmW4K5Oya0Z1) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Me EnRD](https://open.spotify.com/album/3BumcT1ophGlEOHCi1fzoW) | 3:05 |
+| 30 | [Me EnRD](https://open.spotify.com/track/3GkctxmZmeGmW4K5Oya0Z1) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Me EnRD](https://open.spotify.com/album/3BumcT1ophGlEOHCi1fzoW) | 3:05 |
+| 31 | [Una Vida Buena](https://open.spotify.com/track/6eMKYBh6GKb8QTjVmbpJJC) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Una Vida Buena](https://open.spotify.com/album/5Ol57xPflnNabnALfZehpW) | 2:10 |
 | 32 | [La Noche Perfecta](https://open.spotify.com/track/7H5YFDcDPy7viAoyVhYwNa) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [La Noche Perfecta](https://open.spotify.com/album/68WN58KU9vJg23y9P15Rwa) | 2:45 |
 | 33 | [COMO YO TE QUIERO \(DELUXE\)](https://open.spotify.com/track/0scExGzOWnDaq2ExI3HRQx) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [SEROTONINA \(DELUXE\)](https://open.spotify.com/album/77PfUu2wLVGjkkJ6uxL8vY) | 3:31 |
 | 34 | [Fue Culpa De Usted](https://open.spotify.com/track/38WoHatz30sMtk0JvZUIpO) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Fue Culpa De Usted](https://open.spotify.com/album/25DTevb3waLjeothJ0ADfZ) | 3:27 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 43 | [Tu Cepillo](https://open.spotify.com/track/1dLTxHGSlLtB5OEjVHCWWo) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Tu Cepillo](https://open.spotify.com/album/0e1Iu9QVXL9mgOimmGEDXr) | 3:04 |
 | 44 | [Hipnotizados](https://open.spotify.com/track/2t88IEEgCkZr9OQHOrOr3j) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [La China](https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO) | [Hipnotizados](https://open.spotify.com/album/0vucmhfLxNOc87TDZydaI7) | 2:22 |
 | 45 | [ORGULLO](https://open.spotify.com/track/6FChr93F3ECYRaIKwL7DOa) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [DESAHOGO](https://open.spotify.com/album/1mMPzNKVMKcgux2WtZx5ak) | 3:22 |
-| 46 | [Ay, Ay, Ay](https://open.spotify.com/track/1K3dJsDTQouwqmTC5tfpzg) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Ay, Ay, Ay](https://open.spotify.com/album/46s563q4qhwESZBJ4GI5yD) | 3:28 |
-| 47 | [Dime Cómo Se Siente](https://open.spotify.com/track/3EJ6TrlfKKiP1PMZhjuT2r) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Dime Cómo Se Siente](https://open.spotify.com/album/4wMRyvWczYmzYRBU6cacKJ) | 2:40 |
+| 46 | [Dime Cómo Se Siente](https://open.spotify.com/track/3EJ6TrlfKKiP1PMZhjuT2r) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Dime Cómo Se Siente](https://open.spotify.com/album/4wMRyvWczYmzYRBU6cacKJ) | 2:40 |
+| 47 | [Ay, Ay, Ay](https://open.spotify.com/track/1K3dJsDTQouwqmTC5tfpzg) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Ay, Ay, Ay](https://open.spotify.com/album/46s563q4qhwESZBJ4GI5yD) | 3:28 |
 | 48 | [La Depre](https://open.spotify.com/track/0YUH9q1hmcW9QbTYWElH6t) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [La Depre](https://open.spotify.com/album/4LjAsqNOhbLgWRmwbEYrA4) | 2:03 |
 | 49 | [Bendecido](https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB) | [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Bendecido](https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00) | 3:23 |
 | 50 | [La Cumbia Triste](https://open.spotify.com/track/5tsZWdsk2emPhUXNYs5Jnr) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [La Cumbia Triste](https://open.spotify.com/album/2GKBfuu1ab0QKzOpyrvMva) | 3:30 |
 
-Snapshot ID: `MCw0MTJhYTk2ZjAxN2U1NGVlNjkxYjJlZWU1M2MxODg5ZjRlZmRhYTIx`
+Snapshot ID: `MCxkYjgyNjc5MjY1MDgzOTFmNDY4MjhkOTAwZjMzNDc0MjRjYzFhYjk4`

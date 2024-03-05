@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 
 > This is Los Dareyes De La Sierra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,841 likes - 51 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,862 likes - 51 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 | 50 | [El jefe Daniel](https://open.spotify.com/track/4zaS7fP43vAvNBxSIw18N6) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Aunque Digan](https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng) | 2:54 |
 | 51 | [La Neta \- En Vivo](https://open.spotify.com/track/2IKNbUKTFTaN5Tflyg9wTm) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [De Parranda Con Darey \(En Vivo\)](https://open.spotify.com/album/3oIBYT7NlLS89k4yu80Mj2) | 3:23 |
 
-Snapshot ID: `Mjg0OTExMzksMDAwMDAwMDBlZmQ3MmJmY2Y1OTg5YzA1NTI3MjJlMGYyYzU2MmQ3NQ==`
+Snapshot ID: `Mjg0OTI1NjksMDAwMDAwMDBlNTFjMDI0NWRmZGU1NDA4OWQxNGFlNGVlYTU0ZTJjOQ==`

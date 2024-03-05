@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 
 > Learn more at <a href="https://folk.org/programs/conference/">folk.org</a>\.  Cover: Rainbow Girls
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,795 likes - 140 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,805 likes - 140 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 | 52 | [New York's Arms](https://open.spotify.com/track/2VVXIOwidW4efrECnpajdU) | [Liv Greene](https://open.spotify.com/artist/2UltodJ8HNFM8hNpVyD5Ae) | [Every Bright Penny](https://open.spotify.com/album/0kKqzflBXUOq1IahBXzwB2) | 3:34 |
 | 53 | [Seileach](https://open.spotify.com/track/0QygANVyTJAIhSU32X6Cqz) | [Cassie and Maggie](https://open.spotify.com/artist/2A7ZtTC1bMYuE8jxpxBS9v) | [The Willow Collection](https://open.spotify.com/album/1RW1ZwwHbVvkB7uT6FYhwj) | 3:17 |
 | 54 | [All the Stars \(Radio Edit\)](https://open.spotify.com/track/3W9IyoqItFEGDZ0a4BAb3I) | [Violet Bell](https://open.spotify.com/artist/2oIi5WqUQeW84eOt1rxDt8) | [Shapeshifter](https://open.spotify.com/album/0yGem84XQFLUPquXiLV0lQ) | 3:48 |
-| 55 | [Mona Lisa](https://open.spotify.com/track/5gjQL2l6bPnWLPSSLErDev) | [Minor Gold](https://open.spotify.com/artist/2lirdoVpJHkqTyXzIpS8nI) | [Minor Gold](https://open.spotify.com/album/2pwhfKM3O7V8CQha9WlWJR) | 3:35 |
-| 56 | [Tv On The Street](https://open.spotify.com/track/5EyFWOkQ6Ekl2xrhAxGJuo) | [Puuluup](https://open.spotify.com/artist/7ifYVN4V3DErjxbHDfI0Yx) | [Viimane Suusataja](https://open.spotify.com/album/02qkdAo01dC6zW122pmr8N) | 3:00 |
+| 55 | [Tv On The Street](https://open.spotify.com/track/5EyFWOkQ6Ekl2xrhAxGJuo) | [Puuluup](https://open.spotify.com/artist/7ifYVN4V3DErjxbHDfI0Yx) | [Viimane Suusataja](https://open.spotify.com/album/02qkdAo01dC6zW122pmr8N) | 3:00 |
+| 56 | [Mona Lisa](https://open.spotify.com/track/5gjQL2l6bPnWLPSSLErDev) | [Minor Gold](https://open.spotify.com/artist/2lirdoVpJHkqTyXzIpS8nI) | [Minor Gold](https://open.spotify.com/album/2pwhfKM3O7V8CQha9WlWJR) | 3:35 |
 | 57 | [SKODEN](https://open.spotify.com/track/1nhcsAm554MdmY79NrLlhl) | [Digging Roots](https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj) | [Zhawenim](https://open.spotify.com/album/4cktud6ZSAorujL3Ft3Bnw) | 3:33 |
 | 58 | [Neverk](https://open.spotify.com/track/4wBxavOm3tcmVMroPRM2iz) | [Giriu Dvasios](https://open.spotify.com/artist/0TW3Kr7qVPFc5fBQz9Q3WV), [Jausmė](https://open.spotify.com/artist/5zu8H4DMzOHQKS4Vp4clm6) | [Neverk](https://open.spotify.com/album/6zCu8nwJWQYUwfN4HNxyaH) | 3:52 |
 | 59 | [Slow on the Gulf](https://open.spotify.com/track/49uZo2ai1Cum38ydfaZKCp) | [Tony Kamel](https://open.spotify.com/artist/5C2sPto6jrVHVlkiVl2GvH) | [Back Down Home](https://open.spotify.com/album/5XXg1B8ODKe3udultRZQ6w) | 3:47 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 | 139 | [City & Skies](https://open.spotify.com/track/6jFHZXPpMan2keglvAcx97) | [Suzie Vinnick](https://open.spotify.com/artist/2sMmcyVPI1JbcagQFS4dZg) | [Fall Back Home](https://open.spotify.com/album/0hazYCtrspFLY8TLZFb0TU) | 4:27 |
 | 140 | [King Brewster](https://open.spotify.com/track/0hpDuI1fnzN56YKXzyCasu) | [Paula Boggs Band](https://open.spotify.com/artist/00vtUBkRansXWuoZ8XBTjv), [Dom Flemons](https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb) | [Janus](https://open.spotify.com/album/4EVW0pVOwwPd5Koc1QHjLe) | 3:09 |
 
-Snapshot ID: `MCxjNDk4Mjc0YWNkMjczMTUxOWE0MDUwNmFkMzdlYTBiZDAxNzQ3ZjU2`
+Snapshot ID: `MCwyYTQyYjEwYjA2Y2Q0OWFjMjg1YjM0MTdiYTc3Yjk5ZGZhZTA2MTk0`

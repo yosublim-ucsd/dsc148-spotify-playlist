@@ -1,12 +1,12 @@
 {
   "description": "S\u00f3lo cl\u00e1sicos tropicales.",
-  "num_followers": 15402,
+  "num_followers": 15401,
   "original_name": "Salsa, Vallenato & Merengue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjRjMTRlMWRjYWRjODNlYjMxZDgxZTQ1OWRlZDk3NjVmNDE2MWYy",
+  "snapshot_id": "MCxlYmZmZWY5Njg0MTc4YzIwZDk2MmMwZWNlZWY0OWM1Y2U3YTM5MmU1",
   "tracks": [
     {
       "added_at": "2023-04-12 20:17:27",
@@ -303,18 +303,22 @@
     {
       "added_at": "2023-04-12 20:17:27",
       "album": {
-        "name": "En Tiempo De Amor",
-        "url": "https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl"
+        "name": "Oro Salsero (20 \u00c9xitos)",
+        "url": "https://open.spotify.com/album/0xpohAmHs1FIAlWliG4IDz"
       },
       "artists": [
         {
-          "name": "Maelo Ruiz",
-          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+          "name": "Edgar Joel",
+          "url": "https://open.spotify.com/artist/2Q6zKMFyq67L6fBml9cn4A"
+        },
+        {
+          "name": "Anthony Colon",
+          "url": "https://open.spotify.com/artist/0tc7v6aUc2MuA3qdjwVQir"
         }
       ],
-      "duration_ms": 290706,
-      "name": "Si Volvieras A Mi",
-      "url": "https://open.spotify.com/track/7FntdQdzMcHcD4QhItlq9s"
+      "duration_ms": 294026,
+      "name": "Hechizo De Luna",
+      "url": "https://open.spotify.com/track/5qjSPrKTBqYpgVJSTcgKTd"
     },
     {
       "added_at": "2023-04-12 20:17:27",
@@ -335,22 +339,18 @@
     {
       "added_at": "2023-04-12 20:17:27",
       "album": {
-        "name": "Oro Salsero (20 \u00c9xitos)",
-        "url": "https://open.spotify.com/album/0xpohAmHs1FIAlWliG4IDz"
+        "name": "En Tiempo De Amor",
+        "url": "https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl"
       },
       "artists": [
         {
-          "name": "Edgar Joel",
-          "url": "https://open.spotify.com/artist/2Q6zKMFyq67L6fBml9cn4A"
-        },
-        {
-          "name": "Anthony Colon",
-          "url": "https://open.spotify.com/artist/0tc7v6aUc2MuA3qdjwVQir"
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
         }
       ],
-      "duration_ms": 294026,
-      "name": "Hechizo De Luna",
-      "url": "https://open.spotify.com/track/5qjSPrKTBqYpgVJSTcgKTd"
+      "duration_ms": 290706,
+      "name": "Si Volvieras A Mi",
+      "url": "https://open.spotify.com/track/7FntdQdzMcHcD4QhItlq9s"
     },
     {
       "added_at": "2023-04-12 20:17:27",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-04-12 20:17:27",
       "album": {
-        "name": "Internacional",
-        "url": "https://open.spotify.com/album/5jr3mCoNe2N4vTRrUlwxT3"
-      },
-      "artists": [
-        {
-          "name": "Oro Solido",
-          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
-        }
-      ],
-      "duration_ms": 267733,
-      "name": "La Tanga",
-      "url": "https://open.spotify.com/track/0c27iEtApUClcQ44aZ4BIP"
-    },
-    {
-      "added_at": "2023-04-12 20:17:27",
-      "album": {
         "name": "Alex Bueno",
         "url": "https://open.spotify.com/album/6MCkKGtuyBZRfS1xvH3mvr"
       },
@@ -531,6 +515,22 @@
     {
       "added_at": "2023-04-12 20:17:27",
       "album": {
+        "name": "Internacional",
+        "url": "https://open.spotify.com/album/5jr3mCoNe2N4vTRrUlwxT3"
+      },
+      "artists": [
+        {
+          "name": "Oro Solido",
+          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
+        }
+      ],
+      "duration_ms": 267733,
+      "name": "La Tanga",
+      "url": "https://open.spotify.com/track/0c27iEtApUClcQ44aZ4BIP"
+    },
+    {
+      "added_at": "2023-04-12 20:17:27",
+      "album": {
         "name": "Homenaje",
         "url": "https://open.spotify.com/album/4CCxY26bO2H9QJe0Y71l1u"
       },
@@ -547,22 +547,6 @@
       "duration_ms": 214346,
       "name": "Obsesi\u00f3n (feat. Ramiro Better)",
       "url": "https://open.spotify.com/track/4yc290Q5nIELODhKyntBhP"
-    },
-    {
-      "added_at": "2023-04-12 20:17:27",
-      "album": {
-        "name": "Pintame",
-        "url": "https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 259066,
-      "name": "P\u00edntame",
-      "url": "https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7"
     },
     {
       "added_at": "2023-04-12 20:17:27",
@@ -631,6 +615,22 @@
       "duration_ms": 279266,
       "name": "Era Mentira",
       "url": "https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3"
+    },
+    {
+      "added_at": "2023-04-12 20:17:27",
+      "album": {
+        "name": "Pintame",
+        "url": "https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 259066,
+      "name": "P\u00edntame",
+      "url": "https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7"
     },
     {
       "added_at": "2023-04-12 20:17:27",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-04-12 20:17:27",
       "album": {
-        "name": "De Cach\u00e9",
-        "url": "https://open.spotify.com/album/3GX1tHN5YaqV4xxqTdKzXs"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 264720,
-      "name": "Sombra Perdida",
-      "url": "https://open.spotify.com/track/1iLUNt0JQR8FOohEGHE22z"
-    },
-    {
-      "added_at": "2023-04-12 20:17:27",
-      "album": {
         "name": "Mi Propuesta 1996",
         "url": "https://open.spotify.com/album/22hNAaD6Cak0gcrvCfRbaT"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 279680,
       "name": "Ni Tu Ni Yo",
       "url": "https://open.spotify.com/track/7fLBzA1v6P0CXQ52OOLZdO"
+    },
+    {
+      "added_at": "2023-04-12 20:17:27",
+      "album": {
+        "name": "De Cach\u00e9",
+        "url": "https://open.spotify.com/album/3GX1tHN5YaqV4xxqTdKzXs"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 264720,
+      "name": "Sombra Perdida",
+      "url": "https://open.spotify.com/track/1iLUNt0JQR8FOohEGHE22z"
     },
     {
       "added_at": "2023-04-12 20:17:27",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-04-12 20:17:27",
       "album": {
-        "name": "Leyenda",
-        "url": "https://open.spotify.com/album/4AgLTHJbge9qFG9EMDMulF"
-      },
-      "artists": [
-        {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
-        }
-      ],
-      "duration_ms": 251761,
-      "name": "Me Toco Perderte",
-      "url": "https://open.spotify.com/track/1VoveNo9iBKzHb56a6CbbN"
-    },
-    {
-      "added_at": "2023-04-12 20:17:27",
-      "album": {
         "name": "La Sensaci\u00f3n Vallenata",
         "url": "https://open.spotify.com/album/3GFgxHXId6NxklnTHL6lwo"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 304738,
       "name": "Tatuaje en el Alma",
       "url": "https://open.spotify.com/track/2GtVW9cZuHlWRUEqzwoqcx"
+    },
+    {
+      "added_at": "2023-04-12 20:17:27",
+      "album": {
+        "name": "Leyenda",
+        "url": "https://open.spotify.com/album/4AgLTHJbge9qFG9EMDMulF"
+      },
+      "artists": [
+        {
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+        }
+      ],
+      "duration_ms": 251761,
+      "name": "Me Toco Perderte",
+      "url": "https://open.spotify.com/track/1VoveNo9iBKzHb56a6CbbN"
     },
     {
       "added_at": "2023-04-12 20:17:27",

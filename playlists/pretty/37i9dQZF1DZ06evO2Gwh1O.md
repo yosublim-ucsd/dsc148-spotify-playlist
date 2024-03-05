@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Gwh1O.md) - [plain]
 
 > This is Funeral For A Friend\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,590 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,594 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,13 +39,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Gwh1O.md) - [plain]
 | 29 | [Front Row Seats to the End of the World](https://open.spotify.com/track/5ROKGTh0NHbnisRp4eLfVg) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Welcome Home Armageddon](https://open.spotify.com/album/1M3wItLuBL9ZFvTiR5UewU) | 3:30 |
 | 30 | [Best Friends and Hospital Beds](https://open.spotify.com/track/6B1XIYrH0g7uuf9yNeDsue) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/1kZNKmHgyUJxBrC7tqQIkT) | 2:45 |
 | 31 | [1%](https://open.spotify.com/track/7g0ZRgrt1YqRxZPpn6gKBT) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Chapter and Verse](https://open.spotify.com/album/146lsgsoDkI9Dz06nnO2Sw) | 3:43 |
-| 32 | [Beneath the Burning Tree](https://open.spotify.com/track/5wsw7wzq89oQLc6nzSXbEJ) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Memory and Humanity](https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP) | 3:34 |
+| 32 | [Kicking and Screaming](https://open.spotify.com/track/08cLLBd38THUBwBEQ4ZIn8) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Your History Is Mine: 2002\-2009](https://open.spotify.com/album/7eLjvOgusZTUPHeg35TUwe) | 3:22 |
 | 33 | [Aftertaste](https://open.spotify.com/track/7gHhVtSQo4G8uWdk51v35m) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Welcome Home Armageddon](https://open.spotify.com/album/1M3wItLuBL9ZFvTiR5UewU) | 3:37 |
-| 34 | [Conduit](https://open.spotify.com/track/66uvCO0JFHfaGqpyoeaTM5) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/1kZNKmHgyUJxBrC7tqQIkT) | 2:17 |
-| 35 | [Kicking and Screaming](https://open.spotify.com/track/08cLLBd38THUBwBEQ4ZIn8) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Your History Is Mine: 2002\-2009](https://open.spotify.com/album/7eLjvOgusZTUPHeg35TUwe) | 3:22 |
+| 34 | [Death Comes to Us All](https://open.spotify.com/track/4n4JSCL8UnjRtte7p7obld) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/1kZNKmHgyUJxBrC7tqQIkT) | 3:15 |
+| 35 | [Beneath the Burning Tree](https://open.spotify.com/track/5wsw7wzq89oQLc6nzSXbEJ) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Memory and Humanity](https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP) | 3:34 |
 | 36 | [The Getaway Plan](https://open.spotify.com/track/024SKJQWI46Wcs2vrE1cH7) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Between Order and Model](https://open.spotify.com/album/09pyNkO8GT3vvGgiIJEiDU) | 4:15 |
 | 37 | [Broken Foundation](https://open.spotify.com/track/0jzH91ZIVQM9RFuGrB4BgB) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Welcome Home Armageddon](https://open.spotify.com/album/1M3wItLuBL9ZFvTiR5UewU) | 3:29 |
-| 38 | [Death Comes to Us All](https://open.spotify.com/track/4n4JSCL8UnjRtte7p7obld) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/1kZNKmHgyUJxBrC7tqQIkT) | 3:15 |
+| 38 | [Conduit](https://open.spotify.com/track/66uvCO0JFHfaGqpyoeaTM5) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/1kZNKmHgyUJxBrC7tqQIkT) | 2:17 |
 | 39 | [You've Got a Bad Case of the Religions](https://open.spotify.com/track/7oW1NontbB6FPayssJi0V3) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Chapter and Verse](https://open.spotify.com/album/146lsgsoDkI9Dz06nnO2Sw) | 2:38 |
 | 40 | [Kiss And Makeup \(All Bets Are Off\) \- Radio One Rock Show](https://open.spotify.com/track/0kW8jLewouNxnXogAJAG7Q) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Juneau](https://open.spotify.com/album/7vmCr91Hlwofzj7tVZqg81) | 2:52 |
 | 41 | [This Side of Brightness](https://open.spotify.com/track/0cNZvYWp9jNe3dDqkKHDVv) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Welcome Home Armageddon](https://open.spotify.com/album/1M3wItLuBL9ZFvTiR5UewU) | 0:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Gwh1O.md) - [plain]
 | 49 | [Rules and Games](https://open.spotify.com/track/23YYBsifiIFoW4ifveAd2m) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Memory and Humanity](https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP) | 2:50 |
 | 50 | [Wrench](https://open.spotify.com/track/3pMrnjdNTIcT5thhMVazS5) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Your History Is Mine: 2002\-2009](https://open.spotify.com/album/7eLjvOgusZTUPHeg35TUwe) | 2:31 |
 
-Snapshot ID: `Mjg0OTExMzksMDAwMDAwMDAzMTMyODJlNmNhYmY2NDg4ZTVlNGUzZWU1Y2RmZmYwMw==`
+Snapshot ID: `Mjg0OTI1NjksMDAwMDAwMDBlZjM3YTk0YWUzZGQ2NjVjMGVkNGM4NGQ1YjFmMDQ1Nw==`

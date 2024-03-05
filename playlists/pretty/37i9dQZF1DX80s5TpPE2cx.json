@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Amaarae",
-  "num_followers": 8870,
+  "num_followers": 8886,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmQ3Njc4YTQ4MWJkZWJmZTY3YWQ1MzQ3ODFiODY5NDUzNTFiMDVj",
+  "snapshot_id": "MCwwODJhMDA0MTIyZmU1ZWM5MjkzYzc5NDJhZDlhYzZjN2NkZDA0MWQ1",
   "tracks": [
     {
       "added_at": "2024-03-01 00:01:00",
@@ -171,54 +171,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Mandy & The Jungle",
-        "url": "https://open.spotify.com/album/4IMFZY59ree679oXQS36xM"
-      },
-      "artists": [
-        {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
-        },
-        {
-          "name": "Shane Eagle",
-          "url": "https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV"
-        },
-        {
-          "name": "Tomi Agape",
-          "url": "https://open.spotify.com/artist/3GCTrzNZwN4H4YnQJzsWrd"
-        },
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Rapid Fire",
-      "url": "https://open.spotify.com/track/1RHFgbaMxkM3dVYHBrg7Me"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "When It Blooms",
-        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        },
-        {
-          "name": "BEAM",
-          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
-        }
-      ],
-      "duration_ms": 191952,
-      "name": "Kilimanjaro (with BEAM)",
-      "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "Palmwine Music 2",
         "url": "https://open.spotify.com/album/40nNC1WqyKr4IHIJH0cxS5"
       },
@@ -255,18 +207,30 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Reckless & Sweet",
-        "url": "https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz"
+        "name": "Mandy & The Jungle",
+        "url": "https://open.spotify.com/album/4IMFZY59ree679oXQS36xM"
       },
       "artists": [
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        },
+        {
+          "name": "Shane Eagle",
+          "url": "https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV"
+        },
+        {
+          "name": "Tomi Agape",
+          "url": "https://open.spotify.com/artist/3GCTrzNZwN4H4YnQJzsWrd"
+        },
         {
           "name": "Amaarae",
           "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
         }
       ],
-      "duration_ms": 159680,
-      "name": "Reckless & Sweet",
-      "url": "https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj"
+      "duration_ms": 192000,
+      "name": "Rapid Fire",
+      "url": "https://open.spotify.com/track/1RHFgbaMxkM3dVYHBrg7Me"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -287,6 +251,26 @@
       "duration_ms": 204573,
       "name": "come close (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/2u5dBIBam2FTwYsgsptJyj"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "When It Blooms",
+        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        }
+      ],
+      "duration_ms": 191952,
+      "name": "Kilimanjaro (with BEAM)",
+      "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -323,6 +307,22 @@
       "duration_ms": 165333,
       "name": "wys?",
       "url": "https://open.spotify.com/track/0PXu0fcklo07iGE597wEUw"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "Reckless & Sweet",
+        "url": "https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 159680,
+      "name": "Reckless & Sweet",
+      "url": "https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
+        "name": "Better Days / Wetin Dey",
+        "url": "https://open.spotify.com/album/2iiLSjMEVjkUnpWrNQ8Qun"
+      },
+      "artists": [
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        }
+      ],
+      "duration_ms": 146447,
+      "name": "Wetin Dey",
+      "url": "https://open.spotify.com/track/6rB1KkvMlXl5hPB7EbTWw5"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/2fnclztAsDqRkHYH5RXKp0"
       },
@@ -499,6 +515,30 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
+        "name": "ULTRALIGHT",
+        "url": "https://open.spotify.com/album/555u9I3MowqYOghGFSAR7U"
+      },
+      "artists": [
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Lex Amor",
+          "url": "https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14"
+        }
+      ],
+      "duration_ms": 237346,
+      "name": "MEDITATE",
+      "url": "https://open.spotify.com/track/3luCfdUPwws6omTEmIUKXX"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
         "name": "Mandy & The Jungle",
         "url": "https://open.spotify.com/album/4IMFZY59ree679oXQS36xM"
       },
@@ -523,42 +563,26 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Better Days / Wetin Dey",
-        "url": "https://open.spotify.com/album/2iiLSjMEVjkUnpWrNQ8Qun"
+        "name": "rare.",
+        "url": "https://open.spotify.com/album/2rCQfEwg1KO3gksFF2Wq48"
       },
       "artists": [
         {
           "name": "Odunsi (The Engine)",
           "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
-        }
-      ],
-      "duration_ms": 146447,
-      "name": "Wetin Dey",
-      "url": "https://open.spotify.com/track/6rB1KkvMlXl5hPB7EbTWw5"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "ULTRALIGHT",
-        "url": "https://open.spotify.com/album/555u9I3MowqYOghGFSAR7U"
-      },
-      "artists": [
-        {
-          "name": "Sut\u00e9 Iwar",
-          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
         },
         {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
         },
         {
-          "name": "Lex Amor",
-          "url": "https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14"
+          "name": "Zamir",
+          "url": "https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q"
         }
       ],
-      "duration_ms": 237346,
-      "name": "MEDITATE",
-      "url": "https://open.spotify.com/track/3luCfdUPwws6omTEmIUKXX"
+      "duration_ms": 192309,
+      "name": "Alt\u00e9 Cruise",
+      "url": "https://open.spotify.com/track/6vdhXHNT6yKhheq7pxw68E"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -599,22 +623,6 @@
       "duration_ms": 240000,
       "name": "Popping",
       "url": "https://open.spotify.com/track/7b9QrJwaTRQYAbs0fnoilW"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Subaru Boys : FINAL HEAVEN",
-        "url": "https://open.spotify.com/album/0t69hftoCPq776cXlSpqFl"
-      },
-      "artists": [
-        {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
-        }
-      ],
-      "duration_ms": 187307,
-      "name": "FINAL CHAMPION",
-      "url": "https://open.spotify.com/track/3glpc7pE2ARlH1rnCxNohE"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -675,26 +683,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Palmwine Music",
-        "url": "https://open.spotify.com/album/4reE9Z0ffJqJA37fUlmQjW"
-      },
-      "artists": [
-        {
-          "name": "Show Dem Camp",
-          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
-        },
-        {
-          "name": "Funbi",
-          "url": "https://open.spotify.com/artist/2ZvhA3s4Jwbcce62lzGEGX"
-        }
-      ],
-      "duration_ms": 264138,
-      "name": "Up To You - Ikon Mix",
-      "url": "https://open.spotify.com/track/3I3tClYQhS7kh9qf0L2IKr"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "MINISKIRT",
         "url": "https://open.spotify.com/album/3OgE1xXu2rY3uXj3MWJxIo"
       },
@@ -715,30 +703,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "rare.",
-        "url": "https://open.spotify.com/album/2rCQfEwg1KO3gksFF2Wq48"
-      },
-      "artists": [
-        {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
-        },
-        {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
-        },
-        {
-          "name": "Zamir",
-          "url": "https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q"
-        }
-      ],
-      "duration_ms": 192309,
-      "name": "Alt\u00e9 Cruise",
-      "url": "https://open.spotify.com/track/6vdhXHNT6yKhheq7pxw68E"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "Enjoy Your Life",
         "url": "https://open.spotify.com/album/0NZAQrwyssJG5y6CfGR7eL"
       },
@@ -751,6 +715,58 @@
       "duration_ms": 187714,
       "name": "Cash",
       "url": "https://open.spotify.com/track/5j6dGDbLUnPE5UbPOtpJAX"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "Subaru Boys : FINAL HEAVEN",
+        "url": "https://open.spotify.com/album/0t69hftoCPq776cXlSpqFl"
+      },
+      "artists": [
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        }
+      ],
+      "duration_ms": 187307,
+      "name": "FINAL CHAMPION",
+      "url": "https://open.spotify.com/track/3glpc7pE2ARlH1rnCxNohE"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "In The Morning",
+        "url": "https://open.spotify.com/album/7FcUaQQ171IYWM4H6C2UvW"
+      },
+      "artists": [
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        }
+      ],
+      "duration_ms": 187206,
+      "name": "In The Morning",
+      "url": "https://open.spotify.com/track/6ujpgpRiy9MKpae941OGrq"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "Palmwine Music",
+        "url": "https://open.spotify.com/album/4reE9Z0ffJqJA37fUlmQjW"
+      },
+      "artists": [
+        {
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        },
+        {
+          "name": "Funbi",
+          "url": "https://open.spotify.com/artist/2ZvhA3s4Jwbcce62lzGEGX"
+        }
+      ],
+      "duration_ms": 264138,
+      "name": "Up To You - Ikon Mix",
+      "url": "https://open.spotify.com/track/3I3tClYQhS7kh9qf0L2IKr"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -811,6 +827,26 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
+        "name": "Enjoy Your Life",
+        "url": "https://open.spotify.com/album/0NZAQrwyssJG5y6CfGR7eL"
+      },
+      "artists": [
+        {
+          "name": "Lady Donli",
+          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
+        },
+        {
+          "name": "BenjiFlow",
+          "url": "https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/4XRXPj54gXpXQjJ2nckf47"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/25ReKrxbR8qbwhzO3LiU9A"
       },
@@ -863,22 +899,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "In The Morning",
-        "url": "https://open.spotify.com/album/7FcUaQQ171IYWM4H6C2UvW"
-      },
-      "artists": [
-        {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
-        }
-      ],
-      "duration_ms": 187206,
-      "name": "In The Morning",
-      "url": "https://open.spotify.com/track/6ujpgpRiy9MKpae941OGrq"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "Shaken",
         "url": "https://open.spotify.com/album/2teAt8iFXCBkjdiEuNqJgF"
       },
@@ -895,42 +915,30 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Summer Breeze",
-        "url": "https://open.spotify.com/album/2YZpIbvbQ8XSJbak4KeocR"
+        "name": "Desire (feat. Funbi & Tay Iwar)",
+        "url": "https://open.spotify.com/album/4MHuKMcLChLqDdbLtwlmqm"
       },
       "artists": [
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        },
+        {
+          "name": "Higo",
+          "url": "https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0"
+        },
+        {
+          "name": "Funbi",
+          "url": "https://open.spotify.com/artist/2ZvhA3s4Jwbcce62lzGEGX"
+        },
         {
           "name": "Tay Iwar",
           "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        },
-        {
-          "name": "Kojey Radical",
-          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
         }
       ],
-      "duration_ms": 191898,
-      "name": "Broken Promises",
-      "url": "https://open.spotify.com/track/0Pt9qTpPhwNV8qmbYWYv4V"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Enjoy Your Life",
-        "url": "https://open.spotify.com/album/0NZAQrwyssJG5y6CfGR7eL"
-      },
-      "artists": [
-        {
-          "name": "Lady Donli",
-          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
-        },
-        {
-          "name": "BenjiFlow",
-          "url": "https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/4XRXPj54gXpXQjJ2nckf47"
+      "duration_ms": 245655,
+      "name": "Desire (feat. Funbi & Tay Iwar)",
+      "url": "https://open.spotify.com/track/1MJJ9lXWKHjRdWxSk3BpTo"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -971,6 +979,26 @@
       "duration_ms": 179915,
       "name": "Maame Water",
       "url": "https://open.spotify.com/track/63jrtMT19fAZsOfEz0sdAU"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/2YZpIbvbQ8XSJbak4KeocR"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+        }
+      ],
+      "duration_ms": 191898,
+      "name": "Broken Promises",
+      "url": "https://open.spotify.com/track/0Pt9qTpPhwNV8qmbYWYv4V"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -1043,34 +1071,6 @@
       "duration_ms": 259134,
       "name": "My Wave",
       "url": "https://open.spotify.com/track/7FbmKPvnVKpyd45jDsRhlF"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Desire (feat. Funbi & Tay Iwar)",
-        "url": "https://open.spotify.com/album/4MHuKMcLChLqDdbLtwlmqm"
-      },
-      "artists": [
-        {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
-        },
-        {
-          "name": "Higo",
-          "url": "https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0"
-        },
-        {
-          "name": "Funbi",
-          "url": "https://open.spotify.com/artist/2ZvhA3s4Jwbcce62lzGEGX"
-        },
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 245655,
-      "name": "Desire (feat. Funbi & Tay Iwar)",
-      "url": "https://open.spotify.com/track/1MJJ9lXWKHjRdWxSk3BpTo"
     },
     {
       "added_at": "2024-03-01 00:01:00",

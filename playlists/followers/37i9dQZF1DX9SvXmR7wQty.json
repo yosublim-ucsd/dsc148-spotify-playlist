@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 39834,
+  "2024-03-05": 39837,
   "date_first_scraped": "2022-01-01",
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Marie-Mai",
   "name": "Nouveaut\u00e9s francophones",
@@ -25140,6 +25140,28 @@
     },
     {
       "album": {
+        "name": "SOLSAD",
+        "url": "https://open.spotify.com/album/6KaCLPY4dFCMiaWGl0EjCn"
+      },
+      "artists": [
+        {
+          "name": "Zamdane",
+          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203720,
+      "name": "Loin d'ici",
+      "url": "https://open.spotify.com/track/0yvtWcKzMjrMfwBwQYXAi1"
+    },
+    {
+      "album": {
         "name": "Loin de la guenille",
         "url": "https://open.spotify.com/album/41oj3WILNBUCB5nZLLjPwT"
       },
@@ -32369,7 +32391,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 189883,
       "name": "Picoler",
       "url": "https://open.spotify.com/track/3MmOIpXW9jZLCcqNRzR0gJ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2024\. La Ventaja en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 811,597 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 811,800 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [La Patrona \- Versión tumbada](https://open.spotify.com/track/484ZCMVwR1d6RB2Ld6FEUk) | [Los Gfez](https://open.spotify.com/artist/21oKCrUHWbio1GrIP6zpcF) | [La Patrona \(Versión tumbada\)](https://open.spotify.com/album/2qQozPHFQnkBOVHZDLCaCg) | 2:55 |
 | 75 | [Los Consejos](https://open.spotify.com/track/79svXirLbrP765DNZ98fOS) | [Alfonso Payan y Asociados](https://open.spotify.com/artist/18zpXbLiUltDfI9Nmvs62k) | [Los Consejos](https://open.spotify.com/album/0xDsZom72TImPgWbpf4JYa) | 2:45 |
 
-Snapshot ID: `MCxiYWFjZDhhNjM1MmVjYjM3YWNhNWRkZDMzZDlkMDljNWIxNmM5ZTAw`
+Snapshot ID: `MCwzNTUzMzZiNmYxYjlhODU3MGVkMTY3MzA3ODliYjlmYjQyMWRkZmYz`

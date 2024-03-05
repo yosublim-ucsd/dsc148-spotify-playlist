@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 DannyLux en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 806,366 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 806,908 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 49 | [Una Noche En Miami](https://open.spotify.com/track/5TM1G08OEZjLu70YaSbYe2) | [Martinsito](https://open.spotify.com/artist/0lGwR7cZwTuIOpeiagR5uf), [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Una Noche En Miami](https://open.spotify.com/album/0H0QKdt4RkDRRPi4EYofRp) | 2:42 |
 | 50 | [Perdon Mi Amor](https://open.spotify.com/track/41YKdTzwqHlBiR244FTccB) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [Perdon Mi Amor](https://open.spotify.com/album/6JPNa1R21McyMnP6rjtpks) | 2:38 |
 
-Snapshot ID: `MCxiYWFhODY3ZmU0M2I0ODk1M2E5NDI1OTVmZTZlNDE5YjE2ZDBmMTY4`
+Snapshot ID: `MCwwMzM5NGZiNTZlNjg3YzlhOTAxMWViNGZhNTQ3ZDhlN2IzOTkwYzI2`

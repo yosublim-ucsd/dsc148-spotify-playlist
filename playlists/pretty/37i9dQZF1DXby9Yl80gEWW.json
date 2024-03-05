@@ -1,12 +1,12 @@
 {
   "description": "A taste of the very best bluegrass instrumentals, classic and new.",
-  "num_followers": 47477,
+  "num_followers": 47503,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODg2MDI5MmYzZTE0ODgwZjBkY2YzMGRmNWEzMGJlNDFlNzNjM2Y5",
+  "snapshot_id": "MCw5M2M3ODQyMzgwOTYyMGM5ZWE4N2I0YWUwZDY4NWUyYzY2OGM4NGNj",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -451,6 +451,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Nickel Creek",
+        "url": "https://open.spotify.com/album/5SGG7graQOU3OnK3cZZCNd"
+      },
+      "artists": [
+        {
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+        }
+      ],
+      "duration_ms": 233093,
+      "name": "Pastures New",
+      "url": "https://open.spotify.com/track/0FngZC9wJx2CPJIusVNYPh"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "The Harmonic Tone Revealers",
         "url": "https://open.spotify.com/album/12hPjsQFMQxay87boAV9jd"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 251600,
       "name": "In the Kitchen",
       "url": "https://open.spotify.com/track/4Tph814aNVXbhanWoJiwit"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Nickel Creek",
-        "url": "https://open.spotify.com/album/5SGG7graQOU3OnK3cZZCNd"
-      },
-      "artists": [
-        {
-          "name": "Nickel Creek",
-          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
-        }
-      ],
-      "duration_ms": 233093,
-      "name": "Pastures New",
-      "url": "https://open.spotify.com/track/0FngZC9wJx2CPJIusVNYPh"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -771,26 +771,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "B\u00e9la Fleck & Abigail Washburn",
-        "url": "https://open.spotify.com/album/18Kf1ocHyxnqJ2VCuS6Utm"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        },
-        {
-          "name": "Abigail Washburn",
-          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
-        }
-      ],
-      "duration_ms": 273746,
-      "name": "New South Africa",
-      "url": "https://open.spotify.com/track/4iLDm89exSxhdjEtzQ4Ctq"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Squareneck Soul",
         "url": "https://open.spotify.com/album/7xsg8EUd4x66zZbn8Z6hLY"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 154946,
       "name": "Peace Behind the Bridge",
       "url": "https://open.spotify.com/track/2zPgQOAfxCdfINZFtnPrHc"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "B\u00e9la Fleck & Abigail Washburn",
+        "url": "https://open.spotify.com/album/18Kf1ocHyxnqJ2VCuS6Utm"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        },
+        {
+          "name": "Abigail Washburn",
+          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
+        }
+      ],
+      "duration_ms": 273746,
+      "name": "New South Africa",
+      "url": "https://open.spotify.com/track/4iLDm89exSxhdjEtzQ4Ctq"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Place of Growth",
+        "url": "https://open.spotify.com/album/2DZl2dzLBAGWu6H9wNyQyR"
+      },
+      "artists": [
+        {
+          "name": "Hawktail",
+          "url": "https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm"
+        }
+      ],
+      "duration_ms": 356561,
+      "name": "Updraft",
+      "url": "https://open.spotify.com/track/1HKT1t2qsl8Z76suZOGBRD"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "How To Grow A Woman From The Ground",
         "url": "https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 179140,
       "name": "Graveyard Fields",
       "url": "https://open.spotify.com/track/1ONtkZXZZQSluHq68xq90p"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Place of Growth",
-        "url": "https://open.spotify.com/album/2DZl2dzLBAGWu6H9wNyQyR"
-      },
-      "artists": [
-        {
-          "name": "Hawktail",
-          "url": "https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm"
-        }
-      ],
-      "duration_ms": 356561,
-      "name": "Updraft",
-      "url": "https://open.spotify.com/track/1HKT1t2qsl8Z76suZOGBRD"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Fiddler's Dream",
-        "url": "https://open.spotify.com/album/5uxzNJhQaIvtl37aeSRJNG"
-      },
-      "artists": [
-        {
-          "name": "Michael Cleveland",
-          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
-        }
-      ],
-      "duration_ms": 217946,
-      "name": "Fiddler's Dream",
-      "url": "https://open.spotify.com/track/7qOf0MZAFj4WP0PQVOpVeL"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Best Of The Vanguard Years",
         "url": "https://open.spotify.com/album/0WEd2PpiPxuD8RX576wiWK"
       },
@@ -1355,26 +1339,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Lonesome Whistle",
-        "url": "https://open.spotify.com/album/70j39BrYZ8wglzYVvpPflz"
+        "name": "Fiddler's Dream",
+        "url": "https://open.spotify.com/album/5uxzNJhQaIvtl37aeSRJNG"
       },
       "artists": [
         {
-          "name": "Mark Howard",
-          "url": "https://open.spotify.com/artist/7xn0dNayS3daHN5MrgmIrc"
-        },
-        {
-          "name": "Stuart Duncan",
-          "url": "https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2"
-        },
-        {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
         }
       ],
-      "duration_ms": 166720,
-      "name": "City Of New Orleans - Instrumental",
-      "url": "https://open.spotify.com/track/2rrPQlivP17rTDAaRopUsE"
+      "duration_ms": 217946,
+      "name": "Fiddler's Dream",
+      "url": "https://open.spotify.com/track/7qOf0MZAFj4WP0PQVOpVeL"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1411,6 +1387,30 @@
       "duration_ms": 243973,
       "name": "See Rock City",
       "url": "https://open.spotify.com/track/7k0NSUvHpFNcAaMff6ZdXu"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Lonesome Whistle",
+        "url": "https://open.spotify.com/album/70j39BrYZ8wglzYVvpPflz"
+      },
+      "artists": [
+        {
+          "name": "Mark Howard",
+          "url": "https://open.spotify.com/artist/7xn0dNayS3daHN5MrgmIrc"
+        },
+        {
+          "name": "Stuart Duncan",
+          "url": "https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2"
+        },
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        }
+      ],
+      "duration_ms": 166720,
+      "name": "City Of New Orleans - Instrumental",
+      "url": "https://open.spotify.com/track/2rrPQlivP17rTDAaRopUsE"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1627,6 +1627,42 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Bluegrass 96",
+        "url": "https://open.spotify.com/album/48Cca2zPFlp4SRRYrHOHNZ"
+      },
+      "artists": [
+        {
+          "name": "Scott Vestal",
+          "url": "https://open.spotify.com/artist/6dnbsL19QVqDqacfrak5IC"
+        },
+        {
+          "name": "Aubrey Haynie",
+          "url": "https://open.spotify.com/artist/0z4IT2s3fD9BWMUE52fU9S"
+        },
+        {
+          "name": "Jeff Autry",
+          "url": "https://open.spotify.com/artist/5APpALqCaBOaYcYYnIu72X"
+        },
+        {
+          "name": "Mark Schatz",
+          "url": "https://open.spotify.com/artist/6PyV5uHz86osOJqwSYOpx6"
+        },
+        {
+          "name": "Rob Ickes",
+          "url": "https://open.spotify.com/artist/484t62XnzdAjOXvx7IQWDd"
+        },
+        {
+          "name": "Wayne Benson",
+          "url": "https://open.spotify.com/artist/64RUphSmKMjOuGBDbTs3Ac"
+        }
+      ],
+      "duration_ms": 186333,
+      "name": "Clinch Mountain Backstep",
+      "url": "https://open.spotify.com/track/2cuiVudXWJarK8wGVWCOVQ"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Live from Bristol",
         "url": "https://open.spotify.com/album/731zEInCmBczQ35Tn2kjZN"
       },
@@ -1679,58 +1715,6 @@
       "duration_ms": 196875,
       "name": "Cellopickin'",
       "url": "https://open.spotify.com/track/656nmSiyqb2Y5Hv1M795ux"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Bluegrass 96",
-        "url": "https://open.spotify.com/album/48Cca2zPFlp4SRRYrHOHNZ"
-      },
-      "artists": [
-        {
-          "name": "Scott Vestal",
-          "url": "https://open.spotify.com/artist/6dnbsL19QVqDqacfrak5IC"
-        },
-        {
-          "name": "Aubrey Haynie",
-          "url": "https://open.spotify.com/artist/0z4IT2s3fD9BWMUE52fU9S"
-        },
-        {
-          "name": "Jeff Autry",
-          "url": "https://open.spotify.com/artist/5APpALqCaBOaYcYYnIu72X"
-        },
-        {
-          "name": "Mark Schatz",
-          "url": "https://open.spotify.com/artist/6PyV5uHz86osOJqwSYOpx6"
-        },
-        {
-          "name": "Rob Ickes",
-          "url": "https://open.spotify.com/artist/484t62XnzdAjOXvx7IQWDd"
-        },
-        {
-          "name": "Wayne Benson",
-          "url": "https://open.spotify.com/artist/64RUphSmKMjOuGBDbTs3Ac"
-        }
-      ],
-      "duration_ms": 186333,
-      "name": "Clinch Mountain Backstep",
-      "url": "https://open.spotify.com/track/2cuiVudXWJarK8wGVWCOVQ"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Decembering",
-        "url": "https://open.spotify.com/album/7jZAxQsEbJim05XnecJ45E"
-      },
-      "artists": [
-        {
-          "name": "Tony Furtado",
-          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "Icebound",
-      "url": "https://open.spotify.com/track/1aE1jtShWdjd5XZfaXnOyF"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1815,6 +1799,22 @@
       "duration_ms": 257939,
       "name": "Battersea Skillet Liquor",
       "url": "https://open.spotify.com/track/5qHFrx1gHuDt7Mrdzq5f8F"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Decembering",
+        "url": "https://open.spotify.com/album/7jZAxQsEbJim05XnecJ45E"
+      },
+      "artists": [
+        {
+          "name": "Tony Furtado",
+          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
+        }
+      ],
+      "duration_ms": 213400,
+      "name": "Icebound",
+      "url": "https://open.spotify.com/track/1aE1jtShWdjd5XZfaXnOyF"
     },
     {
       "added_at": "2024-02-09 05:00:00",

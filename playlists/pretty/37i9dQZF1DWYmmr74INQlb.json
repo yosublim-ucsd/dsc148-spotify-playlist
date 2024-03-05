@@ -1,12 +1,12 @@
 {
   "description": "The most essential R&B songs from the '00s. Cover: Keyshia Cole",
-  "num_followers": 4639278,
+  "num_followers": 4640595,
   "original_name": "I Love My '00s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWI2ODVhYTdlZDUyZTdkNjY1MWE5Yzk2NGM1OTFjNDIyOTliYzMx",
+  "snapshot_id": "MCw2MzRiNjQzYTk1MjljZmNiYjU2NWE4NmVmZWQ2ZGQ3OWUzZjgxNTFm",
   "tracks": [
     {
       "added_at": "2022-02-11 05:00:00",
@@ -213,6 +213,22 @@
       "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
     },
     {
+      "added_at": "2023-09-14 14:32:45",
+      "album": {
+        "name": "Because Of You",
+        "url": "https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 266840,
+      "name": "Because Of You",
+      "url": "https://open.spotify.com/track/6CFPFnS9EcLs2I0nWqtWci"
+    },
+    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Justified",
@@ -245,22 +261,6 @@
       "url": "https://open.spotify.com/track/6zMUIb4uce1CzpbjR3vMdN"
     },
     {
-      "added_at": "2023-09-14 14:32:45",
-      "album": {
-        "name": "Because Of You",
-        "url": "https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 266840,
-      "name": "Because Of You",
-      "url": "https://open.spotify.com/track/6CFPFnS9EcLs2I0nWqtWci"
-    },
-    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Songs In A Minor",
@@ -275,6 +275,22 @@
       "duration_ms": 210200,
       "name": "Fallin'",
       "url": "https://open.spotify.com/track/0KQx6HOpJueiSkztcS0r7D"
+    },
+    {
+      "added_at": "2022-08-22 09:03:37",
+      "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 231933,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH"
     },
     {
       "added_at": "2023-09-14 14:32:45",
@@ -351,6 +367,22 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
+        "name": "8701",
+        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 266893,
+      "name": "U Remind Me",
+      "url": "https://open.spotify.com/track/2QsZVnbWVSjKMXK6K3uRBL"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
         "name": "Chris Brown (Expanded Edition)",
         "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
       },
@@ -363,22 +395,6 @@
       "duration_ms": 229040,
       "name": "Yo (Excuse Me Miss)",
       "url": "https://open.spotify.com/track/7DFnq8FYhHMCylykf6ZCxA"
-    },
-    {
-      "added_at": "2022-08-22 09:03:37",
-      "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 231933,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -445,10 +461,10 @@
       "url": "https://open.spotify.com/track/4x2rgtSFOI4hRvEvDj02KP"
     },
     {
-      "added_at": "2022-02-11 05:00:00",
+      "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "8701",
-        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
       "artists": [
         {
@@ -456,9 +472,9 @@
           "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 266893,
-      "name": "U Remind Me",
-      "url": "https://open.spotify.com/track/2QsZVnbWVSjKMXK6K3uRBL"
+      "duration_ms": 211200,
+      "name": "Confessions Part II",
+      "url": "https://open.spotify.com/track/7wBThXx7BGZHJJ3aN3OPvv"
     },
     {
       "added_at": "2023-09-14 14:32:45",
@@ -545,22 +561,6 @@
       "url": "https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW"
     },
     {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Confessions Part II",
-      "url": "https://open.spotify.com/track/7wBThXx7BGZHJJ3aN3OPvv"
-    },
-    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Go",
@@ -575,6 +575,22 @@
       "duration_ms": 216893,
       "name": "How Do I Breathe",
       "url": "https://open.spotify.com/track/174rZBKJAqD10VBnOjlQQ3"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "8701",
+        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 269400,
+      "name": "U Don't Have to Call",
+      "url": "https://open.spotify.com/track/5PCJldueshnwqQVjS16543"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -659,22 +675,6 @@
       "duration_ms": 296693,
       "name": "I Wanna Know",
       "url": "https://open.spotify.com/track/1m2xMsxbtxv21Brome189p"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "8701",
-        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 269400,
-      "name": "U Don't Have to Call",
-      "url": "https://open.spotify.com/track/5PCJldueshnwqQVjS16543"
     },
     {
       "added_at": "2022-08-21 19:36:42",
@@ -977,6 +977,22 @@
       "url": "https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk"
     },
     {
+      "added_at": "2023-06-20 16:00:00",
+      "album": {
+        "name": "Dangerously In Love",
+        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 293133,
+      "name": "Dangerously In Love",
+      "url": "https://open.spotify.com/track/0KFuXEdOp5QfIfxHR6TJSm"
+    },
+    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Bad Boy 20th Anniversary Box Set Edition",
@@ -1031,22 +1047,6 @@
       "duration_ms": 221280,
       "name": "Dance Tonight",
       "url": "https://open.spotify.com/track/1TwVcKR6JojvPwBGbWZT36"
-    },
-    {
-      "added_at": "2023-06-20 16:00:00",
-      "album": {
-        "name": "Dangerously In Love",
-        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 293133,
-      "name": "Dangerously In Love",
-      "url": "https://open.spotify.com/track/0KFuXEdOp5QfIfxHR6TJSm"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1345,22 +1345,6 @@
       "url": "https://open.spotify.com/track/0rT9f5BSZrZ6DvzfBEckG0"
     },
     {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "BLACKsummers'night (2009)",
-        "url": "https://open.spotify.com/album/1cXFSOdjxmS13cOTtnNQAo"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 310520,
-      "name": "Pretty Wings - uncut",
-      "url": "https://open.spotify.com/track/22NLm3IIR9NLG0cUYtmHMW"
-    },
-    {
       "added_at": "2022-08-21 11:22:08",
       "album": {
         "name": "Love/Hate",
@@ -1379,6 +1363,22 @@
       "duration_ms": 262773,
       "name": "Shawty Is Da Shit",
       "url": "https://open.spotify.com/track/5RC9YDHON0nXKmcQrL6WV6"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "BLACKsummers'night (2009)",
+        "url": "https://open.spotify.com/album/1cXFSOdjxmS13cOTtnNQAo"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 310520,
+      "name": "Pretty Wings - uncut",
+      "url": "https://open.spotify.com/track/22NLm3IIR9NLG0cUYtmHMW"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1481,6 +1481,22 @@
       "url": "https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966"
     },
     {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Aijuswanaseing",
+        "url": "https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c"
+      },
+      "artists": [
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "duration_ms": 251426,
+      "name": "Just Friends (Sunny)",
+      "url": "https://open.spotify.com/track/5jgEJXjECdlhzNgfITSTVm"
+    },
+    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Southern Hummingbird",
@@ -1551,22 +1567,6 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Aijuswanaseing",
-        "url": "https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c"
-      },
-      "artists": [
-        {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
-        }
-      ],
-      "duration_ms": 251426,
-      "name": "Just Friends (Sunny)",
-      "url": "https://open.spotify.com/track/5jgEJXjECdlhzNgfITSTVm"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
         "name": "Mama's Gun",
         "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
       },
@@ -1627,6 +1627,22 @@
       "duration_ms": 238866,
       "name": "It's A Wrap",
       "url": "https://open.spotify.com/track/0SgbP5ZZOsUiHlE8EfeHma"
+    },
+    {
+      "added_at": "2023-09-14 14:32:45",
+      "album": {
+        "name": "Aijuswanaseing",
+        "url": "https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c"
+      },
+      "artists": [
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "duration_ms": 304666,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/6uSa5iCMwPr10Ftpz8w09b"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1691,22 +1707,6 @@
       "duration_ms": 224146,
       "name": "Girl",
       "url": "https://open.spotify.com/track/3s2MyU2YCwNNwcSokt0jXD"
-    },
-    {
-      "added_at": "2023-09-14 14:32:45",
-      "album": {
-        "name": "Aijuswanaseing",
-        "url": "https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c"
-      },
-      "artists": [
-        {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
-        }
-      ],
-      "duration_ms": 304666,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/6uSa5iCMwPr10Ftpz8w09b"
     }
   ],
   "unique_name": "I Love My '00s R&B",

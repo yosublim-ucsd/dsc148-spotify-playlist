@@ -1,12 +1,12 @@
 {
   "description": "A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 - Possible Musics'.",
-  "num_followers": 18094,
+  "num_followers": 18104,
   "original_name": "Planetary Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzU3NzQ2N2RlNjQxZjZhOGM0NWQ1ZDMyMDUxNzQzZTYxMDMwYzM2",
+  "snapshot_id": "MCw1YjM2NzQ5ZWJkODUwOTE1ZDAwZmQ3NzRiNGE3OTQ2NWYxOWM2ZWI2",
   "tracks": [
     {
       "added_at": "2021-10-20 18:30:26",
@@ -639,22 +639,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Aftertouches",
-        "url": "https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Touch me & die",
-      "url": "https://open.spotify.com/track/4fUyRdOqocwHCabG7gT71J"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "Tomorrow's Harvest",
         "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
       },
@@ -671,22 +655,18 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Fourth World Vol 1 Possible Musics",
-        "url": "https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9"
+        "name": "Aftertouches",
+        "url": "https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN"
       },
       "artists": [
         {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 209040,
-      "name": "Delta Rain Dream",
-      "url": "https://open.spotify.com/track/1mMMpiuaPQe9I6RIqtFWql"
+      "duration_ms": 210000,
+      "name": "Touch me & die",
+      "url": "https://open.spotify.com/track/4fUyRdOqocwHCabG7gT71J"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -709,6 +689,26 @@
       "url": "https://open.spotify.com/track/2d7FoK7amJiLOk6S0IT8AS"
     },
     {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Fourth World Vol 1 Possible Musics",
+        "url": "https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Delta Rain Dream",
+      "url": "https://open.spotify.com/track/1mMMpiuaPQe9I6RIqtFWql"
+    },
+    {
       "added_at": "2022-03-30 02:52:41",
       "album": {
         "name": "Point Zero",
@@ -727,26 +727,6 @@
       "duration_ms": 191746,
       "name": "Dear Ko (To Ko the Regt)",
       "url": "https://open.spotify.com/track/0GjLTIe2YZDqf7qm1hmEhD"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Reassemblage",
-        "url": "https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK"
-      },
-      "artists": [
-        {
-          "name": "Visible Cloaks",
-          "url": "https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG"
-        },
-        {
-          "name": "Motion Graphics",
-          "url": "https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Terrazzo",
-      "url": "https://open.spotify.com/track/6zH4JhuFvC8Fe6DSGv61cC"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -779,6 +759,26 @@
       "duration_ms": 356520,
       "name": "Glass Chattering",
       "url": "https://open.spotify.com/track/6lGHPfFmZGcjNv7tmTYzZ0"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Reassemblage",
+        "url": "https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK"
+      },
+      "artists": [
+        {
+          "name": "Visible Cloaks",
+          "url": "https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG"
+        },
+        {
+          "name": "Motion Graphics",
+          "url": "https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Terrazzo",
+      "url": "https://open.spotify.com/track/6zH4JhuFvC8Fe6DSGv61cC"
     },
     {
       "added_at": "2023-06-07 02:20:45",
@@ -949,22 +949,6 @@
       "url": "https://open.spotify.com/track/6kVv525s4LlVtZ75f74Bc1"
     },
     {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Sketch for Winter IX: Perlita",
-        "url": "https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8"
-      },
-      "artists": [
-        {
-          "name": "Carmen Villain",
-          "url": "https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l"
-        }
-      ],
-      "duration_ms": 316214,
-      "name": "Agua Azul",
-      "url": "https://open.spotify.com/track/6ltgJwPbkprpKTUaysPS0i"
-    },
-    {
       "added_at": "2022-02-12 01:31:39",
       "album": {
         "name": "Sequences",
@@ -1011,6 +995,22 @@
       "duration_ms": 160000,
       "name": "Omprovo",
       "url": "https://open.spotify.com/track/2IGlsC51UCUtQLIaDJuVPg"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Sketch for Winter IX: Perlita",
+        "url": "https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8"
+      },
+      "artists": [
+        {
+          "name": "Carmen Villain",
+          "url": "https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l"
+        }
+      ],
+      "duration_ms": 316214,
+      "name": "Agua Azul",
+      "url": "https://open.spotify.com/track/6ltgJwPbkprpKTUaysPS0i"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -1185,20 +1185,24 @@
       "url": "https://open.spotify.com/track/4Ko0SCeXU64R5kCpD4q8al"
     },
     {
-      "added_at": "2021-10-20 18:30:26",
+      "added_at": "2022-03-17 01:20:50",
       "album": {
-        "name": "Our Hands Against the Dusk",
-        "url": "https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9"
+        "name": "Skyline - Instant Composition Vol. 2",
+        "url": "https://open.spotify.com/album/6XB7R05FqrtyCLQBQOw00K"
       },
       "artists": [
         {
-          "name": "Rachika Nayar",
-          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        },
+        {
+          "name": "Henrik Jespersen",
+          "url": "https://open.spotify.com/artist/6ec9qybPAfeFylOZWEkbPy"
         }
       ],
-      "duration_ms": 487715,
-      "name": "Aurobindo",
-      "url": "https://open.spotify.com/track/1C7RELF3UfbZzyb7eQ2KZg"
+      "duration_ms": 257000,
+      "name": "Time Changes",
+      "url": "https://open.spotify.com/track/5hGQQu04tYHWt0zzDpYA1D"
     }
   ],
   "unique_name": "Planetary Soul",

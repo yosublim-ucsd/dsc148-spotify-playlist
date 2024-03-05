@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 613400,
+  "2024-03-05": 613564,
   "date_first_scraped": "2022-01-02",
   "description": "Walk down memory lane with the biggest rock anthems.",
   "name": "Songs We Rocked Out To",
@@ -1873,7 +1873,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 244804,
       "name": "Mary On A Cross",
       "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
@@ -3573,7 +3573,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"

@@ -4,7 +4,7 @@
 
 > Acoustic and roots music gems\. Cover: Trousdale
 
-377 songs - 23 hr 26 min
+378 songs - 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [B61](https://open.spotify.com/track/48I5zrBAbKfGp7lqfBZ0Ll) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Age of Apathy](https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo) | 3:41 | 2023-04-28 |  |
 | [B61](https://open.spotify.com/track/6KbnuJlqf7xp0QUClw8ben) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Age of Apathy](https://open.spotify.com/album/69fyrHncvxDoWtZDuqKAKC) | 3:41 | 2022-01-21 | 2023-04-30 |
 | [Back to Tennessee](https://open.spotify.com/track/6yVZtPADFaHeYpeAS45Gz2) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Back to Tennessee](https://open.spotify.com/album/6wXcYqIiXETdVMD0GwnI4G) | 3:36 | 2021-12-10 | 2022-05-18 |
+| [Be \- Acoustic](https://open.spotify.com/track/6qHRE7BuCC1SarVEmS7pLa) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Be \(Acoustic\)](https://open.spotify.com/album/1HkykM5BnuW8KLN3QVoZ2f) | 3:55 | 2024-03-04 |  |
 | [Been Worryin'](https://open.spotify.com/track/088kWm2bfPw22I3jIa6Yll) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk), [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Been Worryin'](https://open.spotify.com/album/0wqmYZL5CugLyro5p73EtD) | 3:02 | 2021-12-10 | 2022-07-29 |
 | [Before You](https://open.spotify.com/track/60GSDg8mVq5lIwBdQ8Fdgv) | [Fortunate Ones](https://open.spotify.com/artist/69sHd7jjEkbKxn91qUB60L) | [Before You](https://open.spotify.com/album/3Cm5kXIKNv7VmgvYcotCQC) | 2:47 | 2021-12-10 | 2022-07-27 |
 | [Before You](https://open.spotify.com/track/6d8q33UrhmaumDVf0WaB9t) | [Fortunate Ones](https://open.spotify.com/artist/69sHd7jjEkbKxn91qUB60L) | [Hold Fast](https://open.spotify.com/album/0MCYFxmEbnjXs8GduUuWtF) | 2:47 | 2022-06-08 | 2023-04-07 |
@@ -107,7 +108,7 @@
 | [Fortune](https://open.spotify.com/track/2UfQTKA8Rydw8bFvIO64yM) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Song For Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu) | 3:55 | 2021-12-10 | 2022-07-06 |
 | [Front Porch](https://open.spotify.com/track/5sVyefkGgQeYCgnqr4KslQ) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:51 | 2021-12-10 |  |
 | [Glass](https://open.spotify.com/track/67n7BReUXzA0A499f2wEoh) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Pieces EP](https://open.spotify.com/album/3N5G5x5hRAnJ1V1BQTOJaB) | 3:19 | 2021-12-10 | 2023-06-25 |
-| [Glass](https://open.spotify.com/track/6S4FuoZrCc8ORTyb41Kyg2) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Pieces EP](https://open.spotify.com/album/5t18DCrdYQV5fnKV3MJoZb) | 3:19 | 2023-09-29 |  |
+| [Glass](https://open.spotify.com/track/6S4FuoZrCc8ORTyb41Kyg2) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Pieces EP](https://open.spotify.com/album/5t18DCrdYQV5fnKV3MJoZb) | 3:19 | 2023-09-29 | 2024-03-05 |
 | [Go Tell a Bird](https://open.spotify.com/track/2soMAWI1jlM8O1YUF4e1LB) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Adaptations](https://open.spotify.com/album/75KCEmU9IxlwClwPnM4KEC) | 3:52 | 2021-12-10 | 2022-07-11 |
 | [Golden \(Acoustic\)](https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Golden \(Acoustic\)](https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br) | 5:07 | 2021-12-10 |  |
 | [Great Divide](https://open.spotify.com/track/2n0UqC7DiRhelPWPkhviUH) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [The Closest Thing to Home](https://open.spotify.com/album/7uhQv7Y3Po14oCgtrL7W3N) | 4:01 | 2021-12-10 | 2023-03-01 |

@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 189,
+  "2024-03-05": 190,
   "date_first_scraped": "2023-08-22",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/34ez51Qa142eo2zewgoonx\">Mbryo</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Mbryo",
@@ -143,6 +143,24 @@
       "duration_ms": 170504,
       "name": "GODFATHER",
       "url": "https://open.spotify.com/track/6Tf5WfhWbg8wRkox9bXHPd"
+    },
+    {
+      "album": {
+        "name": "Trench to Triumph",
+        "url": "https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal"
+      },
+      "artists": [
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Good Day",
+      "url": "https://open.spotify.com/track/2Zq282fLES8t82cDBjxyi6"
     },
     {
       "album": {

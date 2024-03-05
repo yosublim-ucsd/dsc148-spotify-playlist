@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEKFjZJYZcc.md) - [plain]
 
 > Positive, uplifting piano to make you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,744 likes - 196 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,786 likes - 196 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -205,4 +205,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEKFjZJYZcc.md) - [plain]
 | 195 | [Pour tous les cœurs du monde](https://open.spotify.com/track/54UQ3Jzm53YkAHpj3BGOQa) | [Olivier Mournier](https://open.spotify.com/artist/7wnpAk4GIaM7dyBnl1bRB7) | [Pour tous les cœurs du monde](https://open.spotify.com/album/4taqzXzFoQJJYhy93v8q2h) | 2:09 |
 | 196 | [Without You](https://open.spotify.com/track/6BAlDSUzVokKprjwGFE3d3) | [April Baxter](https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec) | [Without You](https://open.spotify.com/album/1cEiIlbGm5vs7RHf7rwSnR) | 2:37 |
 
-Snapshot ID: `MCw2MjUwYjIzMGZiNzNjYWMxZGUzYTJkYmE1NzgzOTcxNDA4YzlhODA0`
+Snapshot ID: `MCwxZWU3OTIyMTZkZWUzOWMyOWE2MDBmYTUxY2QwYzk1ZGZhYTVmMmYw`

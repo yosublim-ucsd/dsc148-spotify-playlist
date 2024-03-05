@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 
 > This is Lola Indigo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,095 likes - 51 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,114 likes - 51 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 | 50 | [Spinelli \[From The Series La Niña \(Amazon Original\)\]](https://open.spotify.com/track/6cvS7yVjST2bkal2hIIK1I) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [La Niña XXL](https://open.spotify.com/album/3EcUGvI4ePuIEzzBg1GUSC) | 2:25 |
 | 51 | [CALLE](https://open.spotify.com/track/53X5FmHdNxcnZuY8YhOkgJ) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Cauty](https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas) | [CALLE](https://open.spotify.com/album/3tmWYrXOkrEF0MjxCSbZc5) | 3:42 |
 
-Snapshot ID: `Mjg0OTExMzksMDAwMDAwMDA1Y2M2MWEwNmI4OGJhZjQyNmEwNzU4ZDA0OWU0NjI4Mg==`
+Snapshot ID: `Mjg0OTI1NjksMDAwMDAwMDBiYzhiYzNiYzA3NGQ1NmUxMmU4ZTkzYjA3MWQ2MThjMg==`

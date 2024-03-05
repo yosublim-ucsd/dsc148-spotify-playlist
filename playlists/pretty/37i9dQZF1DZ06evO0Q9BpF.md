@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 
 > This is Generación 12\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,585 likes - 46 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,609 likes - 46 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 40 | [Hasta el Final](https://open.spotify.com/track/1fW7mEEXN4UrG6ZbQXsbjT) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Esto Es un Avivamiento](https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T) | 4:47 |
 | 41 | [Encuentro Glorioso](https://open.spotify.com/track/5QWVPkQkHwYYSJJiFaUt6V) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Mientras Viva \(En Vivo Desde Sudamérica\)](https://open.spotify.com/album/43bUwgrcpN0i8nfqxAYwXM) | 5:49 |
 | 42 | [Sonido de Amor \- \(Espontáneo\)](https://open.spotify.com/track/5Hy5SnsgoJiSseiNZL3TjR) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Anthony Catacoli](https://open.spotify.com/artist/56t1x0Jm7IiTEqpKvtY6Q7), [Antonio & Allison](https://open.spotify.com/artist/25zvOZBB4XlEB4R4xwqjD9) | [Obra de Tu Amor](https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV) | 2:31 |
-| 43 | [Tu Gracia](https://open.spotify.com/track/4pnVqsh2SpbKBKVR0wOVJd) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lorena Castellanos](https://open.spotify.com/artist/3pWyUBWZFiiTfuLHl0LzqJ), [Daniel Berrios](https://open.spotify.com/artist/3fODCvQm2gOnXydNhVdFDt), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Sana Nuestra Nación](https://open.spotify.com/album/4TfOypp18c3CALG8DpZX2y) | 8:11 |
+| 43 | [Es por Fe](https://open.spotify.com/track/08TSCtVrDwbShoX72DOG23) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Stefy Espinosa](https://open.spotify.com/artist/7aKFNdsCUdhI3JKByk8Gm8) | [Sana Nuestra Nación](https://open.spotify.com/album/4TfOypp18c3CALG8DpZX2y) | 5:41 |
 | 44 | [Nada Más](https://open.spotify.com/track/0m8kH2fAxNRxFlnzURAZEf) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Esto Es un Avivamiento](https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T) | 5:45 |
 | 45 | [Milagros](https://open.spotify.com/track/2kiERVFwmFf2XblqWAaBPG) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Seamos Luz](https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS) | 6:28 |
 | 46 | [Cantar de Tu Amor](https://open.spotify.com/track/2nFGPjnTmncOxR78FEb0YV) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Sofía Mancipe](https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ), [Daniela Quintero](https://open.spotify.com/artist/3Oiu7Wp2lqFqkoRkcZCcWi), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Obra de Tu Amor](https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV) | 4:36 |
 
-Snapshot ID: `Mjg0OTExMzksMDAwMDAwMDAzNTZmZWUxNjYxNzlkMTJmNDU2ZmE3MDc5MGNmNzI0ZQ==`
+Snapshot ID: `Mjg0OTI1NjksMDAwMDAwMDBmYzcxYjE4MmIyYzUzOTg1ODUyNmNlOGUwZTJmOGY3Nw==`

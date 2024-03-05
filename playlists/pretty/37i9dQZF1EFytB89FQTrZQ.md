@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,446 likes - 301 songs - 16 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,447 likes - 301 songs - 16 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 86 | [Loneliest Time Of Year](https://open.spotify.com/track/7dfWGm8f6joB6tLnZN2avh) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Loneliest Time Of Year](https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ) | 3:22 |
 | 87 | [Immature](https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Immature](https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9) | 2:53 |
 | 88 | [More Than Words \(feat\. MNEK\)](https://open.spotify.com/track/36h65e9IteCo7PPvkBZUyl) | [Sleepwalkrs](https://open.spotify.com/artist/6yVrZt8f3TB1NXP5fIT193), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [More Than Words \(feat\. MNEK\)](https://open.spotify.com/album/3Yv1WJDoIjO4zI1y3Ypr92) | 2:47 |
-| 89 | [Throwback \(with Crazy Cousinz\)](https://open.spotify.com/track/2iBm8zv7d3qUKphL0FgVog) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr) | [Throwback \(with Crazy Cousinz\)](https://open.spotify.com/album/28yED9i2j4hJHx4NPlRSXP) | 3:07 |
-| 90 | [You Love Who You Love](https://open.spotify.com/track/5Uom0F46SsPyBQSWdZUCRB) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/6KkK5K7fLrkZ8VWeZo2pY4) | 3:05 |
+| 89 | [You Love Who You Love](https://open.spotify.com/track/5Uom0F46SsPyBQSWdZUCRB) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/6KkK5K7fLrkZ8VWeZo2pY4) | 3:05 |
+| 90 | [Throwback \(with Crazy Cousinz\)](https://open.spotify.com/track/2iBm8zv7d3qUKphL0FgVog) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr) | [Throwback \(with Crazy Cousinz\)](https://open.spotify.com/album/28yED9i2j4hJHx4NPlRSXP) | 3:07 |
 | 91 | [Sweet Lies](https://open.spotify.com/track/1ciemDCppxQbYhXzqMoBV0) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [Sweet Lies](https://open.spotify.com/album/0Uf9BYVnE9KkSZMPSf4RJN) | 2:01 |
 | 92 | [Bloody Samaritan \(with Kelly Rowland\) \- Remix](https://open.spotify.com/track/6pz1iqWlBwYXiAzJB7OAZY) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Loud Urban Choir](https://open.spotify.com/artist/517Fqr6JP4GjULEtTW8TOC) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 3:09 |
 | 93 | [Not My Job](https://open.spotify.com/track/2W7LjZ16NzpnWaUCBsU7Wp) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Not My Job](https://open.spotify.com/album/4zOm1Hp4dZixYzNgYOYAf3) | 2:54 |
@@ -310,4 +310,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 300 | [Bullshit](https://open.spotify.com/track/5vzmTUxuc6lnKXGfLX4AEY) | [Rose](https://open.spotify.com/artist/5l0hyotPty3d58l3w8x6EW) | [Bullshit](https://open.spotify.com/album/72cq4PGo2UgBCNMkZ7ma5F) | 2:34 |
 | 301 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 
-Snapshot ID: `Mjg0OTE5NzAsMDAwMDAwMDA5MTRhZjgwNDY4YjBkODIyYmQ2Y2E0ZGMwOGIyNjA4Ng==`
+Snapshot ID: `Mjg0OTM0MTEsMDAwMDAwMDBjOTlhZDQ2NzIwYThhNWJhNmU2NjQzNWY5NTgyNjRiZQ==`

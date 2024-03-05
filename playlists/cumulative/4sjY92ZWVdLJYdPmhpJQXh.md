@@ -4,7 +4,7 @@
 
 > Atlantic Records Presents the hottest tracks in hip\-hop, pop, rock, R&amp;B, indie and more! Updated every Friday.
 
-613 songs - 1 day 6 hr 13 min
+618 songs - 1 day 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [BIRTHDAY DANCE](https://open.spotify.com/track/0WkfQ4SJqsKrixNQNYSMsq) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [DISC TWO \(SCRATCHED UP\)](https://open.spotify.com/album/2Dl2fPxFNqw7d3oFhHqHc3) | 2:24 | 2024-02-08 |  |
 | [blah blah blah](https://open.spotify.com/track/14DUyQybUWcWgZAxmVnWUJ) | [Reiley](https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8) | [blah blah blah](https://open.spotify.com/album/26Bub5fNcLKdDVgfRAlEei) | 2:37 | 2022-04-15 | 2022-11-23 |
 | [Blood Runs Red](https://open.spotify.com/track/5MB6L6NwNqKCGpWhNdI5xT) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Problems](https://open.spotify.com/album/4skT3DZlIgTVd14BBLihrz) | 3:39 | 2022-07-29 | 2022-11-25 |
+| [Blue Over You](https://open.spotify.com/track/6ymafuSC9VWoGRPquZkQKV) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [Blue Over You](https://open.spotify.com/album/1DAz6NgojMSptSktSRV8oA) | 4:05 | 2024-03-04 |  |
 | [Body 4 Body](https://open.spotify.com/track/4vwdL2BDxtMLqW8H9cgZmU) | [Foogiano](https://open.spotify.com/artist/5iyTbismzdvyjpjIuhKRvX) | [Gutta Baby: Reloaded](https://open.spotify.com/album/1u8CUSOX8yKc0GOSi7hTN1) | 3:09 | 2022-11-18 | 2023-03-11 |
 | [Bodybag](https://open.spotify.com/track/0n7G59orkm7Sh7rvOXAopY) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Bodybag](https://open.spotify.com/album/2es7bY8oRAtSLFTdbr7A2l) | 3:33 | 2023-04-10 | 2023-05-06 |
 | [Bond Hold](https://open.spotify.com/track/3Oxw2qz5ecBwc9ZUeaSl6L) | [DCG BROTHERS](https://open.spotify.com/artist/7MP0JM4me8DNocS55hbd2J), [DCG Shun](https://open.spotify.com/artist/7okkZ7wwW0Jkh3N8FHOR11), [DCG Bsavv](https://open.spotify.com/artist/1mU5tzu4Oi1c7pq0WPqMOL) | [Bond Hold](https://open.spotify.com/album/5kgsvtyOV9CuKzyT5hrz90) | 3:10 | 2022-12-16 | 2023-03-11 |
@@ -337,6 +338,8 @@
 | [Let Me Know \(feat\. Denaun\)](https://open.spotify.com/track/1YLu1GZtNv1j7PkbvRxz1Q) | [NCognita](https://open.spotify.com/artist/5cbFRX9vfBg6rtjN1V0VTI), [Denaun](https://open.spotify.com/artist/4NhyK1Uoo8ScQOSl8x0jqI) | [The Playbook](https://open.spotify.com/album/4CT6nY5XxTTrhEDFinV3mH) | 4:01 | 2022-04-15 | 2022-11-23 |
 | [Letter to Takeoff](https://open.spotify.com/track/7B09THlbQE2RndpgXeXQYE) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Letter to Takeoff](https://open.spotify.com/album/4yrzsGF0xjnXP5oWNvMNqX) | 3:37 | 2022-11-18 | 2023-03-11 |
 | [Letter To Ur N\(ex\)t](https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Letter To Ur Ex](https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY) | 2:14 | 2022-05-20 | 2022-11-23 |
+| [Lighter](https://open.spotify.com/track/7hdNTegC0TCKKoxB6GTFH3) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Lighter](https://open.spotify.com/album/2cmZbWwfMq8VCGN4gqCZn7) | 2:52 | 2024-03-04 |  |
+| [Like What \(Freestyle\)](https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Like What \(Freestyle\)](https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv) | 2:16 | 2024-03-04 |  |
 | [Lil Yea](https://open.spotify.com/track/1MLZBL9ZTB4PiPmfjtkMda) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [The Ceremony](https://open.spotify.com/album/3GTWAs19Lb1OVnPeFxc3l4) | 3:24 | 2024-02-08 |  |
 | [Lionheart \(Acoustic\)](https://open.spotify.com/track/3jY5rJm6xeBgnTca9LDr21) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Lionheart \(Acoustic\)](https://open.spotify.com/album/5KqjXO5SQk6POwCsd4xxCH) | 2:24 | 2022-12-02 | 2023-03-11 |
 | [Lipstick Lover](https://open.spotify.com/track/6IhkXHtj7tJg5waF4utfX0) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Lipstick Lover](https://open.spotify.com/album/6eg7CJ9fJAeLJ5PGB1Vf7T) | 2:49 | 2023-06-07 |  |
@@ -586,6 +589,7 @@
 | [Victoria's Secret](https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Victoria’s Secret](https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg) | 2:56 | 2022-07-08 | 2022-11-25 |
 | [Voices \(feat\. Oliver Tree\)](https://open.spotify.com/track/2LWJ0zNei0z2WjHHwSNUkx) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Voices \(feat\. Oliver Tree\)](https://open.spotify.com/album/3oFZmnzIemQRpB0JOLzXRe) | 3:08 | 2023-02-03 | 2023-03-11 |
 | [VOID](https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [VOID](https://open.spotify.com/album/5Zcbn14eQzkC78jEejObL2) | 4:07 | 2023-04-10 |  |
+| [Von dutch](https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Von dutch](https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw) | 2:44 | 2024-03-04 |  |
 | [Waiting](https://open.spotify.com/track/1vzInuUvpmqKFwe289blUH) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Waiting](https://open.spotify.com/album/13az638Bzrvi5f9zw9JpTt) | 3:11 | 2023-04-10 | 2023-05-06 |
 | [Walk](https://open.spotify.com/track/7kZKCghLgg9t0vvugqPXDV) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kutthroat Bill: Vol\. 1](https://open.spotify.com/album/3QA68hsAUFPxoys8NGNtjs) | 2:46 | 2022-10-28 | 2023-03-11 |
 | [Wasted](https://open.spotify.com/track/01NxZVzbRZrRNzpoBJLh5p) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt) | [Wasted](https://open.spotify.com/album/7DQCcFWk5VzoSCLBJ7ZsUU) | 2:35 | 2022-07-29 | 2022-11-25 |
@@ -620,6 +624,7 @@
 | [You Wish](https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [You Wish + Trashboi](https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv) | 2:00 | 2023-06-26 | 2023-09-26 |
 | [You Wish \(with Missy Elliott & Kaliii\) – Remix](https://open.spotify.com/track/1bUhj0j6akbGxinxsVe6PR) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [You Wish \(with Missy Elliott & Kaliii\) – Remix](https://open.spotify.com/album/5VUeDa4FENhqT8o2fuFdjK) | 2:37 | 2023-09-11 |  |
 | [You're Hired \(feat\. Ayra Starr\)](https://open.spotify.com/track/17oeeAxAbZaHIqKpt402KI) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [You're Hired \(feat\. Ayra Starr\)](https://open.spotify.com/album/0onUf9J8FxwJCpPdNyhVZe) | 2:59 | 2023-10-10 |  |
+| [Your Apartment](https://open.spotify.com/track/2F8GiqfSE1JSjLGHlHMmQa) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Your Apartment](https://open.spotify.com/album/4bchmgK2VJWV9fHapF5nms) | 3:18 | 2024-03-04 |  |
 | [Zoom](https://open.spotify.com/track/1FDunczi3BhyBOicyAXGCq) | [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Zoom](https://open.spotify.com/album/2oAXMZTO9ClrJMESeTYQsC) | 2:00 | 2022-09-02 | 2023-03-11 |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

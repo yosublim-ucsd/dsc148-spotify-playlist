@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. <br/> Cover:  <a href="spotify:artist:68ra9ISZg5HZYwKaPtKvMp">Mercy Chinwo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,585,954 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,586,045 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 99 | [Holy Forever](https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Forever](https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22) | 5:08 |
 | 100 | [The Lord's Prayer \(It's Yours\) \- Acoustic](https://open.spotify.com/track/1baVBBJwh3e2EMvRTDI8WH) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Lord's Prayer \(It's Yours\) \[Acoustic\]](https://open.spotify.com/album/6smqQyvINcOFg13yRysvx6) | 3:44 |
 
-Snapshot ID: `MCxiOGQyYzQ3NGRlYTljZTJiYTJiN2RhN2U1ZGUzMzdmZWVjOTZjNGY4`
+Snapshot ID: `MCxjODlkYWJjNDcxMWNlNzdiY2I2Y2E4MGQ4NmYwY2FmOWJjZjRmMTIz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLgt88NcLXo.md) - [plain]
 
 > Guitarra cálida e instrumental para un agradable inicio de día.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,062 likes - 150 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,065 likes - 150 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLgt88NcLXo.md) - [plain]
 | 28 | [Harvest Time](https://open.spotify.com/track/5YdzD8A9GAe51MFscLAfVq) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Harvest Time](https://open.spotify.com/album/1OxQ8lUawMgaxAxu5oYbJN) | 2:23 |
 | 29 | [Broader Perspective](https://open.spotify.com/track/4FFQNhG63aCcAVGSOkTEeR) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [Broader Perspective](https://open.spotify.com/album/634j9Sa1Mc5dCBqtYsdjdQ) | 2:24 |
 | 30 | [Last Dance](https://open.spotify.com/track/4CLVSuWpDxHuUXyIuGTVQ0) | [Taylor Ellis](https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY) | [Last Dance](https://open.spotify.com/album/1LLh6WHQyFxRJSvMAw1kav) | 2:31 |
-| 31 | [You're Not Alone](https://open.spotify.com/track/4ROmwACfJCiGMBioN6k0m5) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [You're Not Alone](https://open.spotify.com/album/0xDfnkhHwktefc4MmHrXuR) | 2:23 |
-| 32 | [Coming home to someone](https://open.spotify.com/track/33jEJgoSbewTinFfmhsBLZ) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [Coming home to someone](https://open.spotify.com/album/6GSi2ihzkIvHQggLoUxvzp) | 2:45 |
-| 33 | [Lovely Secrets](https://open.spotify.com/track/4I7btOSG6pDNBxptBTrKQG) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [Lovely Secrets](https://open.spotify.com/album/7tKiOXcCi7lsyzrdsH56qi) | 2:22 |
-| 34 | [Strawberry Dreams](https://open.spotify.com/track/6WWPhYyJVAZV4gA38GXmcF) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Strawberry Dreams](https://open.spotify.com/album/1MOCesaJVnxOgVz3iyIzvp) | 2:35 |
+| 31 | [Coming home to someone](https://open.spotify.com/track/33jEJgoSbewTinFfmhsBLZ) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [Coming home to someone](https://open.spotify.com/album/6GSi2ihzkIvHQggLoUxvzp) | 2:45 |
+| 32 | [Lovely Secrets](https://open.spotify.com/track/4I7btOSG6pDNBxptBTrKQG) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [Lovely Secrets](https://open.spotify.com/album/7tKiOXcCi7lsyzrdsH56qi) | 2:22 |
+| 33 | [Strawberry Dreams](https://open.spotify.com/track/6WWPhYyJVAZV4gA38GXmcF) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Strawberry Dreams](https://open.spotify.com/album/1MOCesaJVnxOgVz3iyIzvp) | 2:35 |
+| 34 | [You're Not Alone](https://open.spotify.com/track/4ROmwACfJCiGMBioN6k0m5) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [You're Not Alone](https://open.spotify.com/album/0xDfnkhHwktefc4MmHrXuR) | 2:23 |
 | 35 | [Dandelion wishes](https://open.spotify.com/track/5CstzwIEFQn2Rz6K8Ww1B4) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Dandelion wishes](https://open.spotify.com/album/0y2WWgiF0SnUS7GrLkbaxq) | 2:29 |
 | 36 | [Fallen Apples’ Scent](https://open.spotify.com/track/0kXnPmPo443VeP7XOi2Mai) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Fallen Apples’ Scent](https://open.spotify.com/album/7y4unim8M3o09r7QjegH8p) | 2:32 |
 | 37 | [Ciudad nueva](https://open.spotify.com/track/2tOy5Z4ECTD5AaEDqR4Khb) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [Ciudad nueva](https://open.spotify.com/album/5hEsUfEEb8BtmGvo0iJgFp) | 2:36 |
@@ -99,13 +99,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLgt88NcLXo.md) - [plain]
 | 89 | [Laguna](https://open.spotify.com/track/6v7vnohTh1WrGJznocVGdg) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Laguna](https://open.spotify.com/album/7lBsRkafxyp9aUhvuiD1hF) | 3:11 |
 | 90 | [Eternity](https://open.spotify.com/track/2cyNPCRZwqmfZNSgb6K2d6) | [Anshul Karn](https://open.spotify.com/artist/2XFT2RKEFS3T9h3Zsq9xsR) | [Eternity](https://open.spotify.com/album/0CsQkznGI4zvjVm9hWvir1) | 2:16 |
 | 91 | [Unforced](https://open.spotify.com/track/56hk6GkYuk8AmUOdjPEYDb) | [Toledo Heights](https://open.spotify.com/artist/1nxXdVa0LIKGjk0eLLRM6q) | [Unforced](https://open.spotify.com/album/1ID1Z4DCgMELtWTnLyscGQ) | 2:21 |
-| 92 | [Treasures](https://open.spotify.com/track/1RByCxHaCocuHZtSjItbDl) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Treasures](https://open.spotify.com/album/5Z7o5BPIvdd8tMSHMMObQ7) | 2:19 |
-| 93 | [Viajando Solo](https://open.spotify.com/track/6zKkOpnyYB8sFhjK6NQRgX) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [Viajando Solo](https://open.spotify.com/album/4H7MijgiJFlbsVpP2vd1Ij) | 2:43 |
-| 94 | [Costa del Azahar](https://open.spotify.com/track/0vR5LtNZNWdZDoy2qDvZ6Y) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ), [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Costa del Azahar](https://open.spotify.com/album/6bu11bayfc1ZUlF8fDUhSM) | 2:54 |
-| 95 | [Valentine](https://open.spotify.com/track/533SnCwxVytF3viTF5kYql) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [Valentine](https://open.spotify.com/album/18wiVGkktOzfti1YGrhL9W) | 2:30 |
-| 96 | [Easy On The Road Ahead](https://open.spotify.com/track/1bEeNRyUZ236ES8UyPSJxF) | [Woodfray](https://open.spotify.com/artist/1oMo7wloYRSjSQNKgnJlRc) | [Waitwall Mountain](https://open.spotify.com/album/1PSaMx8sT3d1hVK7nUz9tX) | 2:30 |
-| 97 | [Evenings at Point Reyes](https://open.spotify.com/track/2OZrAhYxb2v5ZCFGb7QrD6) | [Riverkin](https://open.spotify.com/artist/4xsqwbF6mpNckpRPn4AEBr) | [Two Trees](https://open.spotify.com/album/2qNkOL7MgmDaFpTGCiqUZd) | 2:54 |
-| 98 | [Archetype](https://open.spotify.com/track/3i47adxdexT9O3A6o8VO9Z) | [Amine Ortega](https://open.spotify.com/artist/1LtfdXtx0vZJG76Ggr6NJc) | [Follow Me](https://open.spotify.com/album/0uWeeD2szjk9swnC0elm0e) | 3:12 |
+| 92 | [Viajando Solo](https://open.spotify.com/track/6zKkOpnyYB8sFhjK6NQRgX) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [Viajando Solo](https://open.spotify.com/album/4H7MijgiJFlbsVpP2vd1Ij) | 2:43 |
+| 93 | [Valentine](https://open.spotify.com/track/533SnCwxVytF3viTF5kYql) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [Valentine](https://open.spotify.com/album/18wiVGkktOzfti1YGrhL9W) | 2:30 |
+| 94 | [Treasures](https://open.spotify.com/track/1RByCxHaCocuHZtSjItbDl) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Treasures](https://open.spotify.com/album/5Z7o5BPIvdd8tMSHMMObQ7) | 2:19 |
+| 95 | [Easy On The Road Ahead](https://open.spotify.com/track/1bEeNRyUZ236ES8UyPSJxF) | [Woodfray](https://open.spotify.com/artist/1oMo7wloYRSjSQNKgnJlRc) | [Waitwall Mountain](https://open.spotify.com/album/1PSaMx8sT3d1hVK7nUz9tX) | 2:30 |
+| 96 | [Evenings at Point Reyes](https://open.spotify.com/track/2OZrAhYxb2v5ZCFGb7QrD6) | [Riverkin](https://open.spotify.com/artist/4xsqwbF6mpNckpRPn4AEBr) | [Two Trees](https://open.spotify.com/album/2qNkOL7MgmDaFpTGCiqUZd) | 2:54 |
+| 97 | [Archetype](https://open.spotify.com/track/3i47adxdexT9O3A6o8VO9Z) | [Amine Ortega](https://open.spotify.com/artist/1LtfdXtx0vZJG76Ggr6NJc) | [Follow Me](https://open.spotify.com/album/0uWeeD2szjk9swnC0elm0e) | 3:12 |
+| 98 | [Costa del Azahar](https://open.spotify.com/track/0vR5LtNZNWdZDoy2qDvZ6Y) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ), [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Costa del Azahar](https://open.spotify.com/album/6bu11bayfc1ZUlF8fDUhSM) | 2:54 |
 | 99 | [Only Wanna Be With You](https://open.spotify.com/track/0rNgJ3RXJEQKJBCv3NPfdp) | [Arturo Jimenes](https://open.spotify.com/artist/5YTMkCli769bhvfuUrjKbr) | [Only Wanna Be With You](https://open.spotify.com/album/39liycElEFslWeDOpDrwt8) | 3:27 |
 | 100 | [Seven Hills of Rome](https://open.spotify.com/track/6X57NpjrTZmKqzT0tnJPF0) | [Carol Maddox](https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb) | [Seven Hills of Rome](https://open.spotify.com/album/5oUkh52zA4MoZQ5G1Zw6y1) | 2:12 |
 | 101 | [Appalachian Hike](https://open.spotify.com/track/7bvwShGPBpiojWB5SdI8Dh) | [Paolo Capello](https://open.spotify.com/artist/3RsJfN4McPUPnLMecUGhik) | [Appalachian Hike](https://open.spotify.com/album/1gkHmZmkrqGiP1X6Gso7WX) | 2:16 |
@@ -149,8 +149,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLgt88NcLXo.md) - [plain]
 | 139 | [Objects In The Mirror](https://open.spotify.com/track/5XrP5bTKvbFSOUiF7oRWwy) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Objects In The Mirror](https://open.spotify.com/album/3Mt8dK78eAAHcK4xcXbyIk) | 2:50 |
 | 140 | [Mirabella](https://open.spotify.com/track/7aRXzPNyUh0hLLJJ3oA1ry) | [Oleks Rudenko](https://open.spotify.com/artist/32r7SszS0EjJeiaeue1Fnc) | [Mirabella](https://open.spotify.com/album/1r9ghXZTQnM5TncbR8iCJU) | 3:19 |
 | 141 | [Shimmering](https://open.spotify.com/track/0V9hBI4lEPGj4oXB1Sxr2b) | [Charles Theodore](https://open.spotify.com/artist/2hfHg46WyBCls0ZixeNtMq) | [Shimmering](https://open.spotify.com/album/5QlqAMPDmZlNYGtb14cgdt) | 2:53 |
-| 142 | [Senderos](https://open.spotify.com/track/0Tac24wJITYhVNDgN6o5iC) | [Julia Quirós](https://open.spotify.com/artist/1WxwRcRO4zK1lfqC5qFsZF) | [Senderos](https://open.spotify.com/album/5b2Qf2d0ca4auxwQGQ3icv) | 2:09 |
-| 143 | [Borealis](https://open.spotify.com/track/2ysFggjX4SCyNJET0h7d7r) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Borealis](https://open.spotify.com/album/0k1jQLyYEcR3mNhzhusrdd) | 4:30 |
+| 142 | [Borealis](https://open.spotify.com/track/2ysFggjX4SCyNJET0h7d7r) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Borealis](https://open.spotify.com/album/0k1jQLyYEcR3mNhzhusrdd) | 4:30 |
+| 143 | [Senderos](https://open.spotify.com/track/0Tac24wJITYhVNDgN6o5iC) | [Julia Quirós](https://open.spotify.com/artist/1WxwRcRO4zK1lfqC5qFsZF) | [Senderos](https://open.spotify.com/album/5b2Qf2d0ca4auxwQGQ3icv) | 2:09 |
 | 144 | [El Antiguo Camino](https://open.spotify.com/track/6c7m8DqA9iH8R1PrA3DzVn) | [Atacustico](https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk) | [El Antiguo Camino](https://open.spotify.com/album/092tdrmx3Ot8b75qGeZg0q) | 2:36 |
 | 145 | [Assanhado \(Arr\. for Guitar by Sérgio Assad\)](https://open.spotify.com/track/4FARlXrPrKEeEM33ZPXMVG) | [Jacob Bittencourt](https://open.spotify.com/artist/20GlgY0ecLeDxKcoLfwtKj), [Plínio Fernandes](https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8) | [Assanhado \(Arr\. for Guitar by Sérgio Assad\)](https://open.spotify.com/album/0Ozz2x6Ibmduz6OBTQeogr) | 4:00 |
 | 146 | [Hispanoamerica](https://open.spotify.com/track/6c8Ma1htTLtiHXShaYwYDu) | [Chico Getz](https://open.spotify.com/artist/2PDfdIdjY7tHMa20yxpBhW) | [Hispanoamerica](https://open.spotify.com/album/1DKEdUrzxF0LOFSjFjQpY1) | 3:24 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLgt88NcLXo.md) - [plain]
 | 149 | [Flamingos in solitude](https://open.spotify.com/track/2NjiOmgtfXhx2S0snRhKFE) | [Marta Fiscovich](https://open.spotify.com/artist/6B7cCKWOKNqdjU5bqeZAS7) | [Flamingos in solitude](https://open.spotify.com/album/4hDqjsdljJMqgDniYFJzHf) | 2:12 |
 | 150 | [En Mis Brazos](https://open.spotify.com/track/5IRsN77ZPXy0YmY3cvVFuX) | [Juliana Gonsales](https://open.spotify.com/artist/0rASXzSswkFvGnrpmKIR8D) | [En Mis Brazos](https://open.spotify.com/album/3wd6e9BvUxKEVZf0LCj56t) | 2:02 |
 
-Snapshot ID: `MCw5ZGQwZTAwNDdiZTgyYWI4NDJiMWNjYjkwYjM3NmE5NDhhMjFkYmRm`
+Snapshot ID: `MCwwMGY4ODMyZThkNjk4Y2Y5Zjc5ZGY0YTU2OGVmOTkwYzcyNWM5MDdm`

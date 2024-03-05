@@ -1,12 +1,12 @@
 {
   "description": "Feel on top of the world with these uplifting anthems of the 80s",
-  "num_followers": 113309,
+  "num_followers": 113330,
   "original_name": "Good Feeling 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGYzMTAzZGYwOTM0YjZkNTI1N2MxYTljOTNmMTM2MGM1ZjFhODdm",
+  "snapshot_id": "MCw2YzJkNDQyNDVjODAyYTVlNTA1OGU2YTI3Y2ViMTAzOThlNDU2Y2Ew",
   "tracks": [
     {
       "added_at": "2022-06-08 06:25:05",
@@ -923,26 +923,6 @@
     {
       "added_at": "2022-06-08 06:25:05",
       "album": {
-        "name": "Hot Space (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        },
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 248440,
-      "name": "Under Pressure - Remastered 2011",
-      "url": "https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw"
-    },
-    {
-      "added_at": "2022-06-08 06:25:05",
-      "album": {
         "name": "Foreign Affair",
         "url": "https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 216533,
       "name": "Centerfold",
       "url": "https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt"
+    },
+    {
+      "added_at": "2022-06-08 06:25:05",
+      "album": {
+        "name": "Hot Space (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 248440,
+      "name": "Under Pressure - Remastered 2011",
+      "url": "https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw"
     }
   ],
   "unique_name": "Good Feeling 80s",

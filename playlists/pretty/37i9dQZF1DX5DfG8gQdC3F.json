@@ -1,12 +1,12 @@
 {
   "description": "New music from Charli XCX, Pharrell Williams & Miley Cyrus, Cardi B, Abby Sage and more. ",
-  "num_followers": 353154,
+  "num_followers": 353171,
   "original_name": "New Music Friday Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjU4MDlhYzM5ODJmMjk0YzQ0YmFiMWIxZjRmMzE1OGUyNGM4Yzkz",
+  "snapshot_id": "MCxmYzNlNmM5NWMwNWMxOGVjYmYwZGI3MTJiOWJkOGU1N2JjZDczZmQ5",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -514,6 +514,10 @@
         {
           "name": "Gesaffelstein",
           "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        },
+        {
+          "name": "Yan Wagner",
+          "url": "https://open.spotify.com/artist/7JLtS4ASAUsAYrsShMerMc"
         }
       ],
       "duration_ms": 170466,

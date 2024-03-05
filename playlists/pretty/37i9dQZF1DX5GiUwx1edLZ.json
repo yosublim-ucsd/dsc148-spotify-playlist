@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 276414,
+  "num_followers": 276413,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjQ3NGEwYTU5MzY3NWIyOTZlMjVlNzdmMGNmZjhiODdiNmM4NGY2",
+  "snapshot_id": "MCwwZGM2MjRjMmRlNzNhZjUyOWMwYjA0MTk0ZmVmMGI2NjZlNjI4NjUy",
   "tracks": [
     {
       "added_at": "2023-10-06 04:01:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Acoustic",
-        "url": "https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        }
-      ],
-      "duration_ms": 304983,
-      "name": "Satellite / Stealing Time",
-      "url": "https://open.spotify.com/track/1zZEeO528oaVVBixuEgX7K"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "You Don't Know Me (Acoustic Version)",
         "url": "https://open.spotify.com/album/3YHoJsSAzBoaDDPWzLc6iA"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 177656,
       "name": "Drink About - Acoustic Version",
       "url": "https://open.spotify.com/track/7ByRm8QpSxn2uK3Exa23yV"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Acoustic",
+        "url": "https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "duration_ms": 304983,
+      "name": "Satellite / Stealing Time",
+      "url": "https://open.spotify.com/track/1zZEeO528oaVVBixuEgX7K"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Acoustic",
-        "url": "https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        }
-      ],
-      "duration_ms": 288026,
-      "name": "Sun & Moon",
-      "url": "https://open.spotify.com/track/072qkZtviQdaPDhfHPtnZi"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Head & Heart (feat. MNEK) [Acoustic]",
         "url": "https://open.spotify.com/album/71LvRT11O1syL5E8BRBwmj"
       },
@@ -959,6 +943,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Acoustic",
+        "url": "https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "duration_ms": 288026,
+      "name": "Sun & Moon",
+      "url": "https://open.spotify.com/track/072qkZtviQdaPDhfHPtnZi"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Clarity (Remixes)",
         "url": "https://open.spotify.com/album/2BgayRsdVhn6knKI5cgUFS"
       },
@@ -975,22 +975,6 @@
       "duration_ms": 207960,
       "name": "Clarity - Zedd Union Mix",
       "url": "https://open.spotify.com/track/2Nf0RbvVIKcL0SbEziqArb"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "We Are All We Need",
-        "url": "https://open.spotify.com/album/6coJxgM3dkzZbbuPBVVcOW"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        }
-      ],
-      "duration_ms": 117506,
-      "name": "Quieter Is Louder",
-      "url": "https://open.spotify.com/track/5kayymwaZyTtdGilvwJQw5"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1143,6 +1127,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "We Are All We Need",
+        "url": "https://open.spotify.com/album/6coJxgM3dkzZbbuPBVVcOW"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "duration_ms": 117506,
+      "name": "Quieter Is Louder",
+      "url": "https://open.spotify.com/track/5kayymwaZyTtdGilvwJQw5"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Shed a Light (The Remixes Part 2)",
         "url": "https://open.spotify.com/album/65h91TpH6k56OdninmMeov"
       },
@@ -1167,22 +1167,26 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Acoustic",
-        "url": "https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3"
+        "name": "Where Are \u00dc Now Live (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/4ZnjWNmJbuN2DKc5HLNA8b"
       },
       "artists": [
         {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
         },
         {
-          "name": "Richard Bedford",
-          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 260839,
-      "name": "Thing Called Love",
-      "url": "https://open.spotify.com/track/04dOtnqQD8Sn8RJ8DJZFZb"
+      "duration_ms": 216339,
+      "name": "Where Are \u00dc Now LIVE (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/1CjiAOoegmUDgbhKzAqSkl"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1207,30 +1211,6 @@
       "duration_ms": 239772,
       "name": "Feel Good (with Daya) - Acoustic",
       "url": "https://open.spotify.com/track/3VuLFnOmk8EjVyehCJfzhT"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Where Are \u00dc Now Live (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/4ZnjWNmJbuN2DKc5HLNA8b"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 216339,
-      "name": "Where Are \u00dc Now LIVE (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/1CjiAOoegmUDgbhKzAqSkl"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1359,6 +1339,26 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Acoustic",
+        "url": "https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Richard Bedford",
+          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
+        }
+      ],
+      "duration_ms": 260839,
+      "name": "Thing Called Love",
+      "url": "https://open.spotify.com/track/04dOtnqQD8Sn8RJ8DJZFZb"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "The Acoustics",
         "url": "https://open.spotify.com/album/5fTKBGwZbOLj9uNirwqFP7"
       },
@@ -1419,6 +1419,26 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Better Half Of Me",
+        "url": "https://open.spotify.com/album/79kh6SAXvgQk0GCtpTRSGG"
+      },
+      "artists": [
+        {
+          "name": "Dash Berlin",
+          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+        },
+        {
+          "name": "Jonathan Mendelsohn",
+          "url": "https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm"
+        }
+      ],
+      "duration_ms": 212846,
+      "name": "Better Half Of Me - Acoustic Mix",
+      "url": "https://open.spotify.com/track/1m5ZEyOd6b6RU6wJbdh6u1"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Better Days (NEIKED x Mae Muller) [Acoustic]",
         "url": "https://open.spotify.com/album/0gxFT2phYifzYo74xqx5q0"
       },
@@ -1455,26 +1475,6 @@
       "duration_ms": 169466,
       "name": "Recognise - Acoustic Version",
       "url": "https://open.spotify.com/track/1xgAlkJVfaLJmN3Fv5yM6H"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Better Half Of Me",
-        "url": "https://open.spotify.com/album/79kh6SAXvgQk0GCtpTRSGG"
-      },
-      "artists": [
-        {
-          "name": "Dash Berlin",
-          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
-        },
-        {
-          "name": "Jonathan Mendelsohn",
-          "url": "https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm"
-        }
-      ],
-      "duration_ms": 212846,
-      "name": "Better Half Of Me - Acoustic Mix",
-      "url": "https://open.spotify.com/track/1m5ZEyOd6b6RU6wJbdh6u1"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1579,6 +1579,30 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Here Tonight (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3riI0LyX9QUpboMEgjGgju"
+      },
+      "artists": [
+        {
+          "name": "Dash Berlin",
+          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+        },
+        {
+          "name": "Jay Cosmic",
+          "url": "https://open.spotify.com/artist/0p7L2MImTqtWEAlMN9qHYx"
+        },
+        {
+          "name": "Collin McLoughlin",
+          "url": "https://open.spotify.com/artist/6oKeE1UH8FizqNPScqM1NE"
+        }
+      ],
+      "duration_ms": 167619,
+      "name": "Here Tonight - Acoustic Version",
+      "url": "https://open.spotify.com/track/6EJAP09tSNsp7kBhtC8Fcg"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Used To Have It All (Acoustic Version)",
         "url": "https://open.spotify.com/album/62tzkQeijTanN4Uuz4UgfJ"
       },
@@ -1647,30 +1671,6 @@
       "duration_ms": 201468,
       "name": "How to Love (feat. Sofia Reyes) - Acoustic",
       "url": "https://open.spotify.com/track/52B2TNxEZ7z7ytwLdA99pG"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Here Tonight (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3riI0LyX9QUpboMEgjGgju"
-      },
-      "artists": [
-        {
-          "name": "Dash Berlin",
-          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
-        },
-        {
-          "name": "Jay Cosmic",
-          "url": "https://open.spotify.com/artist/0p7L2MImTqtWEAlMN9qHYx"
-        },
-        {
-          "name": "Collin McLoughlin",
-          "url": "https://open.spotify.com/artist/6oKeE1UH8FizqNPScqM1NE"
-        }
-      ],
-      "duration_ms": 167619,
-      "name": "Here Tonight - Acoustic Version",
-      "url": "https://open.spotify.com/track/6EJAP09tSNsp7kBhtC8Fcg"
     },
     {
       "added_at": "2023-10-06 04:01:00",

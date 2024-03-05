@@ -1,12 +1,12 @@
 {
   "description": "We're celebrating the 10th anniversary of Eric Church's hit album \"The Outsiders\" on 2010s Country! ",
-  "num_followers": 576530,
+  "num_followers": 576738,
   "original_name": "2010s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDVjMmEyZDZmNWNjNDBhOWViMTcyZTQ0MzE2M2Q3YWQzOGRiMGEw",
+  "snapshot_id": "MCwwZTk2Y2U5NjllN2ZlNDAzZmVlOTY0NjljZTI4NjQ3MmIyZGMzZThi",
   "tracks": [
     {
       "added_at": "2024-02-02 21:45:53",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "This One's for You",
-        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 240760,
-      "name": "When It Rains It Pours",
-      "url": "https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l"
-    },
-    {
-      "added_at": "2024-02-02 21:45:53",
-      "album": {
         "name": "If I Know Me",
         "url": "https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 205453,
       "name": "Chasin' You",
       "url": "https://open.spotify.com/track/5MwynWK9s4hlyKHqhkNn4A"
+    },
+    {
+      "added_at": "2024-02-02 21:45:53",
+      "album": {
+        "name": "This One's for You",
+        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 240760,
+      "name": "When It Rains It Pours",
+      "url": "https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -239,18 +239,18 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "Chief",
-        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
       },
       "artists": [
         {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 263386,
-      "name": "Springsteen",
-      "url": "https://open.spotify.com/track/05ZACkzW8YbRq3eFgIfSNB"
+      "duration_ms": 201893,
+      "name": "Dirt On My Boots",
+      "url": "https://open.spotify.com/track/7f08qp3HROTkfrtNpiYGGo"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -275,34 +275,18 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+        "name": "Chief",
+        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
       },
       "artists": [
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 201893,
-      "name": "Dirt On My Boots",
-      "url": "https://open.spotify.com/track/7f08qp3HROTkfrtNpiYGGo"
-    },
-    {
-      "added_at": "2024-02-02 21:45:53",
-      "album": {
-        "name": "This One's for You Too (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 183160,
-      "name": "She Got the Best of Me",
-      "url": "https://open.spotify.com/track/698eQRku24PIYPQPHItKlA"
+      "duration_ms": 263386,
+      "name": "Springsteen",
+      "url": "https://open.spotify.com/track/05ZACkzW8YbRq3eFgIfSNB"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -323,18 +307,18 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "Tailgates & Tanlines",
-        "url": "https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe"
+        "name": "This One's for You Too (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
       },
       "artists": [
         {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 225560,
-      "name": "Country Girl (Shake It For Me)",
-      "url": "https://open.spotify.com/track/0JbSghVDghtFEurrSO8JrC"
+      "duration_ms": 183160,
+      "name": "She Got the Best of Me",
+      "url": "https://open.spotify.com/track/698eQRku24PIYPQPHItKlA"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -351,6 +335,22 @@
       "duration_ms": 253200,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/5jROdl6MhcmP3O7h2sVgtw"
+    },
+    {
+      "added_at": "2024-02-02 21:45:53",
+      "album": {
+        "name": "Tailgates & Tanlines",
+        "url": "https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 225560,
+      "name": "Country Girl (Shake It For Me)",
+      "url": "https://open.spotify.com/track/0JbSghVDghtFEurrSO8JrC"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -387,18 +387,18 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "The Big Revival",
-        "url": "https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam"
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
       },
       "artists": [
         {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 182960,
-      "name": "American Kids",
-      "url": "https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV"
+      "duration_ms": 202346,
+      "name": "Head Over Boots",
+      "url": "https://open.spotify.com/track/4ly1QBXEwYoDmje9rmEgC4"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -435,18 +435,18 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+        "name": "The Big Revival",
+        "url": "https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam"
       },
       "artists": [
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
         }
       ],
-      "duration_ms": 202346,
-      "name": "Head Over Boots",
-      "url": "https://open.spotify.com/track/4ly1QBXEwYoDmje9rmEgC4"
+      "duration_ms": 182960,
+      "name": "American Kids",
+      "url": "https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -471,6 +471,22 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
+        "name": "Rearview Town",
+        "url": "https://open.spotify.com/album/0m3ZCK4dSvyq6KUzEWdMhE"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 193226,
+      "name": "You Make It Easy",
+      "url": "https://open.spotify.com/track/2TXtN9MoV308Y0z1HvyTfV"
+    },
+    {
+      "added_at": "2024-02-02 21:45:53",
+      "album": {
         "name": "Crash My Party",
         "url": "https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB"
       },
@@ -487,18 +503,18 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "Rearview Town",
-        "url": "https://open.spotify.com/album/0m3ZCK4dSvyq6KUzEWdMhE"
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
       },
       "artists": [
         {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 193226,
-      "name": "You Make It Easy",
-      "url": "https://open.spotify.com/track/2TXtN9MoV308Y0z1HvyTfV"
+      "duration_ms": 186733,
+      "name": "Beer Never Broke My Heart",
+      "url": "https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -519,26 +535,6 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "All Your Fault: Pt. 2",
-        "url": "https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        }
-      ],
-      "duration_ms": 163870,
-      "name": "Meant to Be (feat. Florida Georgia Line)",
-      "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
-    },
-    {
-      "added_at": "2024-02-02 21:45:53",
-      "album": {
         "name": "Start Here",
         "url": "https://open.spotify.com/album/3MpmJPwKgMQ6hkGVlRwOpj"
       },
@@ -555,18 +551,22 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "What You See Is What You Get",
-        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+        "name": "All Your Fault: Pt. 2",
+        "url": "https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
         }
       ],
-      "duration_ms": 186733,
-      "name": "Beer Never Broke My Heart",
-      "url": "https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx"
+      "duration_ms": 163870,
+      "name": "Meant to Be (feat. Florida Georgia Line)",
+      "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
+        "name": "Kane Brown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 179506,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7"
+    },
+    {
+      "added_at": "2024-02-02 21:45:53",
+      "album": {
         "name": "Need You Now",
         "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 277573,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/11EX5yhxr9Ihl3IN1asrfK"
-    },
-    {
-      "added_at": "2024-02-02 21:45:53",
-      "album": {
-        "name": "Lee Brice",
-        "url": "https://open.spotify.com/album/3GyH4lUfzEkbxlaW5xTYYL"
-      },
-      "artists": [
-        {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
-        }
-      ],
-      "duration_ms": 198440,
-      "name": "Rumor",
-      "url": "https://open.spotify.com/track/56eGOeSsqdg3FLxdo83TwV"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -707,18 +707,18 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "Kane Brown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
+        "name": "Lee Brice",
+        "url": "https://open.spotify.com/album/3GyH4lUfzEkbxlaW5xTYYL"
       },
       "artists": [
         {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
         }
       ],
-      "duration_ms": 179506,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7"
+      "duration_ms": 198440,
+      "name": "Rumor",
+      "url": "https://open.spotify.com/track/56eGOeSsqdg3FLxdo83TwV"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -887,6 +887,26 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
+        "name": "Here's To The Good Times...This Is How We Roll",
+        "url": "https://open.spotify.com/album/0uqAyKT7oMZDFMyteJOJWI"
+      },
+      "artists": [
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        },
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 220906,
+      "name": "This Is How We Roll",
+      "url": "https://open.spotify.com/track/2TR7A4ulH9R1PNwMyd8o8U"
+    },
+    {
+      "added_at": "2024-02-02 21:45:53",
+      "album": {
         "name": "Clancy's Tavern",
         "url": "https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C"
       },
@@ -935,22 +955,6 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu"
-      },
-      "artists": [
-        {
-          "name": "Kip Moore",
-          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
-        }
-      ],
-      "duration_ms": 213826,
-      "name": "Somethin' 'Bout A Truck",
-      "url": "https://open.spotify.com/track/6Ymvlzom4TQeoKqAWsZRD8"
-    },
-    {
-      "added_at": "2024-02-02 21:45:53",
-      "album": {
         "name": "HERO (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
       },
@@ -967,8 +971,8 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "Here's To The Good Times...This Is How We Roll",
-        "url": "https://open.spotify.com/album/0uqAyKT7oMZDFMyteJOJWI"
+        "name": "Dig Your Roots",
+        "url": "https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC"
       },
       "artists": [
         {
@@ -976,29 +980,29 @@
           "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
         },
         {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
         }
       ],
-      "duration_ms": 220906,
-      "name": "This Is How We Roll",
-      "url": "https://open.spotify.com/track/2TR7A4ulH9R1PNwMyd8o8U"
+      "duration_ms": 226173,
+      "name": "May We All",
+      "url": "https://open.spotify.com/track/498ZVInMGDkmmNVpSWqHiZ"
     },
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "Pain Killer",
-        "url": "https://open.spotify.com/album/49lwR8y1i51wrQRnhw5C3H"
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu"
       },
       "artists": [
         {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+          "name": "Kip Moore",
+          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
         }
       ],
-      "duration_ms": 193320,
-      "name": "Girl Crush",
-      "url": "https://open.spotify.com/track/11qh54D0PKkBwelpDxxiEU"
+      "duration_ms": 213826,
+      "name": "Somethin' 'Bout A Truck",
+      "url": "https://open.spotify.com/track/6Ymvlzom4TQeoKqAWsZRD8"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -1015,6 +1019,22 @@
       "duration_ms": 200026,
       "name": "Love Me Like You Mean It",
       "url": "https://open.spotify.com/track/0knbW9EwgSLfNFMWys1mQm"
+    },
+    {
+      "added_at": "2024-02-02 21:45:53",
+      "album": {
+        "name": "Pain Killer",
+        "url": "https://open.spotify.com/album/49lwR8y1i51wrQRnhw5C3H"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 193320,
+      "name": "Girl Crush",
+      "url": "https://open.spotify.com/track/11qh54D0PKkBwelpDxxiEU"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -1051,22 +1071,6 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "Seasons Change",
-        "url": "https://open.spotify.com/album/2DFoTBlnZYCW4FuHAZxJMj"
-      },
-      "artists": [
-        {
-          "name": "Scotty McCreery",
-          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
-        }
-      ],
-      "duration_ms": 241146,
-      "name": "Five More Minutes",
-      "url": "https://open.spotify.com/track/3qTmB5HxP9ilJaiM6B1yuk"
-    },
-    {
-      "added_at": "2024-02-02 21:45:53",
-      "album": {
         "name": "The Weight of These Wings",
         "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
       },
@@ -1083,6 +1087,22 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
+        "name": "Seasons Change",
+        "url": "https://open.spotify.com/album/2DFoTBlnZYCW4FuHAZxJMj"
+      },
+      "artists": [
+        {
+          "name": "Scotty McCreery",
+          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
+        }
+      ],
+      "duration_ms": 241146,
+      "name": "Five More Minutes",
+      "url": "https://open.spotify.com/track/3qTmB5HxP9ilJaiM6B1yuk"
+    },
+    {
+      "added_at": "2024-02-02 21:45:53",
+      "album": {
         "name": "Ripcord",
         "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
       },
@@ -1095,26 +1115,6 @@
       "duration_ms": 230600,
       "name": "Blue Ain't Your Color",
       "url": "https://open.spotify.com/track/6wycnu8FWXsj68ig7BEot9"
-    },
-    {
-      "added_at": "2024-02-02 21:45:53",
-      "album": {
-        "name": "Dig Your Roots",
-        "url": "https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC"
-      },
-      "artists": [
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        },
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 226173,
-      "name": "May We All",
-      "url": "https://open.spotify.com/track/498ZVInMGDkmmNVpSWqHiZ"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "The Outsiders",
-        "url": "https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 198906,
-      "name": "Like A Wrecking Ball",
-      "url": "https://open.spotify.com/track/6hr4weuSidHy2LNMw8UVJ2"
-    },
-    {
-      "added_at": "2024-02-02 21:45:53",
-      "album": {
         "name": "Take A Back Road",
         "url": "https://open.spotify.com/album/2qLz69eIC6A7GggjGvxEMp"
       },
@@ -1559,6 +1543,22 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
+        "name": "The Outsiders",
+        "url": "https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 198906,
+      "name": "Like A Wrecking Ball",
+      "url": "https://open.spotify.com/track/6hr4weuSidHy2LNMw8UVJ2"
+    },
+    {
+      "added_at": "2024-02-02 21:45:53",
+      "album": {
         "name": "It Goes Like This",
         "url": "https://open.spotify.com/album/2ZHYOFW5giX6a4n5eqTnUB"
       },
@@ -1571,6 +1571,22 @@
       "duration_ms": 187400,
       "name": "Get Me Some Of That",
       "url": "https://open.spotify.com/track/4O1CExxinEpKZi3861NlTK"
+    },
+    {
+      "added_at": "2024-02-02 21:45:53",
+      "album": {
+        "name": "I'm Comin' Over",
+        "url": "https://open.spotify.com/album/7IOSachS7KZNuqRZrPcdD0"
+      },
+      "artists": [
+        {
+          "name": "Chris Young",
+          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
+        }
+      ],
+      "duration_ms": 197280,
+      "name": "I'm Comin' Over",
+      "url": "https://open.spotify.com/track/0H04yVa3DJxoXbLBpAb7iV"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -1603,22 +1619,6 @@
       "duration_ms": 166573,
       "name": "Hotel Key",
       "url": "https://open.spotify.com/track/33471tzU1VghDg9zNgGRpz"
-    },
-    {
-      "added_at": "2024-02-02 21:45:53",
-      "album": {
-        "name": "I'm Comin' Over",
-        "url": "https://open.spotify.com/album/7IOSachS7KZNuqRZrPcdD0"
-      },
-      "artists": [
-        {
-          "name": "Chris Young",
-          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
-        }
-      ],
-      "duration_ms": 197280,
-      "name": "I'm Comin' Over",
-      "url": "https://open.spotify.com/track/0H04yVa3DJxoXbLBpAb7iV"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
+        "name": "It Goes Like This",
+        "url": "https://open.spotify.com/album/2ZHYOFW5giX6a4n5eqTnUB"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 186080,
+      "name": "It Goes Like This",
+      "url": "https://open.spotify.com/track/6GsAD8PgHxmEuIPTG8GP3M"
+    },
+    {
+      "added_at": "2024-02-02 21:45:53",
+      "album": {
         "name": "Need You Now",
         "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 184920,
       "name": "Are You Gonna Kiss Me Or Not",
       "url": "https://open.spotify.com/track/2oyJMZrw1DGvvkT2NbCZ0Y"
-    },
-    {
-      "added_at": "2024-02-02 21:45:53",
-      "album": {
-        "name": "It Goes Like This",
-        "url": "https://open.spotify.com/album/2ZHYOFW5giX6a4n5eqTnUB"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 186080,
-      "name": "It Goes Like This",
-      "url": "https://open.spotify.com/track/6GsAD8PgHxmEuIPTG8GP3M"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
+        "name": "Summer Forever",
+        "url": "https://open.spotify.com/album/3OkqAak6KhIQExElXif7UW"
+      },
+      "artists": [
+        {
+          "name": "Billy Currington",
+          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
+        }
+      ],
+      "duration_ms": 184506,
+      "name": "It Don't Hurt Like It Used To",
+      "url": "https://open.spotify.com/track/0iA1unTbTbDOWUSlbwJ1pS"
+    },
+    {
+      "added_at": "2024-02-02 21:45:53",
+      "album": {
         "name": "My Kinda Party",
         "url": "https://open.spotify.com/album/4DDsvEKPW32jeMEAqmOdjv"
       },
@@ -1915,22 +1931,6 @@
       "duration_ms": 211767,
       "name": "Drunk Me",
       "url": "https://open.spotify.com/track/1G4cdOtF36ZCs6i2dZoC87"
-    },
-    {
-      "added_at": "2024-02-02 21:45:53",
-      "album": {
-        "name": "Summer Forever",
-        "url": "https://open.spotify.com/album/3OkqAak6KhIQExElXif7UW"
-      },
-      "artists": [
-        {
-          "name": "Billy Currington",
-          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
-        }
-      ],
-      "duration_ms": 184506,
-      "name": "It Don't Hurt Like It Used To",
-      "url": "https://open.spotify.com/track/0iA1unTbTbDOWUSlbwJ1pS"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "Night Train",
-        "url": "https://open.spotify.com/album/1WYrLHpLwOSCQ4n5kNeZa6"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 171120,
-      "name": "When She Says Baby",
-      "url": "https://open.spotify.com/track/7bQKR4QQCIlX0RoHlaKiIn"
-    },
-    {
-      "added_at": "2024-02-02 21:45:53",
-      "album": {
         "name": "Yours",
         "url": "https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 212066,
       "name": "Blue Tacoma",
       "url": "https://open.spotify.com/track/5PBx0zFfehUMyv5H4YXVAU"
+    },
+    {
+      "added_at": "2024-02-02 21:45:53",
+      "album": {
+        "name": "Night Train",
+        "url": "https://open.spotify.com/album/1WYrLHpLwOSCQ4n5kNeZa6"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 171120,
+      "name": "When She Says Baby",
+      "url": "https://open.spotify.com/track/7bQKR4QQCIlX0RoHlaKiIn"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "Dan + Shay",
-        "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 169920,
-      "name": "All To Myself",
-      "url": "https://open.spotify.com/track/08tq1XcHwVt5PHXUo87i0D"
-    },
-    {
-      "added_at": "2024-02-02 21:45:53",
-      "album": {
         "name": "A.M.",
         "url": "https://open.spotify.com/album/3cyLH6iUGPjEsZIUFnJfd3"
       },
@@ -2191,6 +2175,38 @@
       "duration_ms": 188706,
       "name": "Aw Naw",
       "url": "https://open.spotify.com/track/53Dj5PCDhb22qWqmre3YQs"
+    },
+    {
+      "added_at": "2024-02-02 21:45:53",
+      "album": {
+        "name": "BRINGING BACK THE SUNSHINE",
+        "url": "https://open.spotify.com/album/0daIqjuhsQqXoeII3pBSeT"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 233480,
+      "name": "Sangria",
+      "url": "https://open.spotify.com/track/0p1HtkrNYxv0iDfEKwXSTp"
+    },
+    {
+      "added_at": "2024-02-02 21:45:53",
+      "album": {
+        "name": "Dan + Shay",
+        "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 169920,
+      "name": "All To Myself",
+      "url": "https://open.spotify.com/track/08tq1XcHwVt5PHXUo87i0D"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -2227,22 +2243,6 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "BRINGING BACK THE SUNSHINE",
-        "url": "https://open.spotify.com/album/0daIqjuhsQqXoeII3pBSeT"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 233480,
-      "name": "Sangria",
-      "url": "https://open.spotify.com/track/0p1HtkrNYxv0iDfEKwXSTp"
-    },
-    {
-      "added_at": "2024-02-02 21:45:53",
-      "album": {
         "name": "Play On",
         "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
       },
@@ -2255,22 +2255,6 @@
       "duration_ms": 236786,
       "name": "Cowboy Casanova",
       "url": "https://open.spotify.com/track/6OqdF0vHI9xkqswI7EK0cD"
-    },
-    {
-      "added_at": "2024-02-02 21:45:53",
-      "album": {
-        "name": "Montevallo",
-        "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 192160,
-      "name": "Leave The Night On",
-      "url": "https://open.spotify.com/track/3wx2kQWPn9p5UppQbNhPAk"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -2291,6 +2275,22 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
+        "name": "Montevallo",
+        "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 192160,
+      "name": "Leave The Night On",
+      "url": "https://open.spotify.com/track/3wx2kQWPn9p5UppQbNhPAk"
+    },
+    {
+      "added_at": "2024-02-02 21:45:53",
+      "album": {
         "name": "Yours",
         "url": "https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE"
       },
@@ -2303,22 +2303,6 @@
       "duration_ms": 190640,
       "name": "Every Little Thing",
       "url": "https://open.spotify.com/track/3kgCJPXDlnL5bl1HFesHUi"
-    },
-    {
-      "added_at": "2024-02-02 21:45:53",
-      "album": {
-        "name": "Black",
-        "url": "https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        }
-      ],
-      "duration_ms": 211160,
-      "name": "Black",
-      "url": "https://open.spotify.com/track/2lFtnEmkIPm2ClN55e2chV"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -2339,6 +2323,22 @@
       "duration_ms": 218946,
       "name": "Think of You",
       "url": "https://open.spotify.com/track/6W9W8dSswA8KNegvl3W97V"
+    },
+    {
+      "added_at": "2024-02-02 21:45:53",
+      "album": {
+        "name": "Black",
+        "url": "https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "duration_ms": 211160,
+      "name": "Black",
+      "url": "https://open.spotify.com/track/2lFtnEmkIPm2ClN55e2chV"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -2507,6 +2507,26 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
+        "name": "Ripcord",
+        "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        },
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 184040,
+      "name": "The Fighter",
+      "url": "https://open.spotify.com/track/5OUSPcqhYTOzpbXzoEvKim"
+    },
+    {
+      "added_at": "2024-02-02 21:45:53",
+      "album": {
         "name": "Dig Your Roots",
         "url": "https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC"
       },
@@ -2555,26 +2575,6 @@
       "duration_ms": 179293,
       "name": "Beat of the Music",
       "url": "https://open.spotify.com/track/3un2KQUaQ2brEpd8dK93wI"
-    },
-    {
-      "added_at": "2024-02-02 21:45:53",
-      "album": {
-        "name": "Ripcord",
-        "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        },
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 184040,
-      "name": "The Fighter",
-      "url": "https://open.spotify.com/track/5OUSPcqhYTOzpbXzoEvKim"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -2923,22 +2923,6 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "Illinois",
-        "url": "https://open.spotify.com/album/5Og3UBs6tCL47yee1ukYgw"
-      },
-      "artists": [
-        {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        }
-      ],
-      "duration_ms": 173960,
-      "name": "Drunk on Your Love",
-      "url": "https://open.spotify.com/track/1jNNHFZmRGXZFHlil5uhei"
-    },
-    {
-      "added_at": "2024-02-02 21:45:53",
-      "album": {
         "name": "This Is Country Music",
         "url": "https://open.spotify.com/album/3krMgq4qNrE8SvW5rRg50V"
       },
@@ -2971,6 +2955,22 @@
       "duration_ms": 215920,
       "name": "Hey Pretty Girl",
       "url": "https://open.spotify.com/track/75p6fgACKYIyIhsoG411SZ"
+    },
+    {
+      "added_at": "2024-02-02 21:45:53",
+      "album": {
+        "name": "Illinois",
+        "url": "https://open.spotify.com/album/5Og3UBs6tCL47yee1ukYgw"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "duration_ms": 173960,
+      "name": "Drunk on Your Love",
+      "url": "https://open.spotify.com/track/1jNNHFZmRGXZFHlil5uhei"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -3275,22 +3275,6 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "Fuse",
-        "url": "https://open.spotify.com/album/5rESCws46ubPJlqOeb30Rv"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "Somewhere In My Car",
-      "url": "https://open.spotify.com/track/50nzorQ9gi2md8UpFi8aJT"
-    },
-    {
-      "added_at": "2024-02-02 21:45:53",
-      "album": {
         "name": "Brett Eldredge",
         "url": "https://open.spotify.com/album/1NUKNYLtePSiZnQj0QeZlo"
       },
@@ -3303,6 +3287,22 @@
       "duration_ms": 208720,
       "name": "The Long Way",
       "url": "https://open.spotify.com/track/5vuMtXS5kQ7F0o9V9rG1dG"
+    },
+    {
+      "added_at": "2024-02-02 21:45:53",
+      "album": {
+        "name": "Rebels on the Run",
+        "url": "https://open.spotify.com/album/5Fyd02GgT2LAvd812dZ0Lm"
+      },
+      "artists": [
+        {
+          "name": "Montgomery Gentry",
+          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
+        }
+      ],
+      "duration_ms": 201840,
+      "name": "Where I Come From",
+      "url": "https://open.spotify.com/track/10ps1I1sIMRNZW11eceN7W"
     }
   ],
   "unique_name": "2010s Country",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,857 likes - 50 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,904 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,13 +25,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 15 | [Tide Pool Portals to Another World](https://open.spotify.com/track/5dt8T63KNSg3NHqBDvQAKq) | [Signal Quest](https://open.spotify.com/artist/4yv67wG6XrMRwgphaW6nwC), [Lynn Avery](https://open.spotify.com/artist/1sniKBvInfBWCIkzFMUshP), [Cole Pulice](https://open.spotify.com/artist/7JUWlvLs6PzPMLryj6sdCh), [Mitch Stahlmann](https://open.spotify.com/artist/4bFkPBikiARS6thM04w2Pe) | [Hypermyth](https://open.spotify.com/album/1UKcHlLvCZxRgVjeK8ZouF) | 5:57 |
 | 16 | [A Shimmer](https://open.spotify.com/track/09F0zRNSUa0qAWYUksXtXt) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Empty](https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI) | 6:36 |
 | 17 | [A1 \- It's just a burning memory](https://open.spotify.com/track/0uEec9a0RsYeQiaeyJapjY) | [The Caretaker](https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP) | [Everywhere at the End of Time \(Stage 1\)](https://open.spotify.com/album/0BE7TLLZoUhr9M8RlmFY3T) | 3:32 |
-| 18 | [\#20](https://open.spotify.com/track/0Pg0frSTti7d8Ck1OmOYkz) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 4:15 |
-| 19 | [Space 1](https://open.spotify.com/track/5xYR2G6YOEzX2X9asFUrOE) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8) | 4:08 |
+| 18 | [Space 1](https://open.spotify.com/track/5xYR2G6YOEzX2X9asFUrOE) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8) | 4:08 |
+| 19 | [I Can Almost See You](https://open.spotify.com/track/11n8LudggXuZXmldSlAadR) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Raising Your Voice..\. Trying to Stop an Echo \(Deluxe Edition\)](https://open.spotify.com/album/2AbCfihy80zuR1mPwN5yLl) | 4:15 |
 | 20 | [Planeta Océano](https://open.spotify.com/track/2DgsIFDMthDkK5WQXnFeAF) | [Radiotrónica](https://open.spotify.com/artist/0BBRvMCMiGIJBI3dn5vySN) | [Nodos](https://open.spotify.com/album/6Ja5JJOhoIkI7hf0r5pNlf) | 1:51 |
-| 21 | [I Can Almost See You](https://open.spotify.com/track/11n8LudggXuZXmldSlAadR) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Raising Your Voice..\. Trying to Stop an Echo \(Deluxe Edition\)](https://open.spotify.com/album/2AbCfihy80zuR1mPwN5yLl) | 4:15 |
-| 22 | [People On Sunday](https://open.spotify.com/track/5GY0OnbXEa7rMivlDo13Xl) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [People On Sunday](https://open.spotify.com/album/28FDXQ7lbkhDQBN7fhxbh4) | 3:45 |
+| 21 | [People On Sunday](https://open.spotify.com/track/5GY0OnbXEa7rMivlDo13Xl) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [People On Sunday](https://open.spotify.com/album/28FDXQ7lbkhDQBN7fhxbh4) | 3:45 |
+| 22 | [Looking You In Silence](https://open.spotify.com/track/6nIVSeN1LtdGW7pngh7lrq) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Resonant Bodies](https://open.spotify.com/album/4ysdhWlJQEhsCJDzkeixpz) | 2:24 |
 | 23 | [Ciutat de sorra \- Instrumental](https://open.spotify.com/track/43mIM61mitnuRzxRgttpek) | [Hidrogenesse](https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY) | [Ciutat de sorra](https://open.spotify.com/album/13kC4ZFHI7cl31iBomSpEA) | 11:44 |
-| 24 | [Looking You In Silence](https://open.spotify.com/track/6nIVSeN1LtdGW7pngh7lrq) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Resonant Bodies](https://open.spotify.com/album/4ysdhWlJQEhsCJDzkeixpz) | 2:24 |
+| 24 | [\#20](https://open.spotify.com/track/0Pg0frSTti7d8Ck1OmOYkz) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 4:15 |
 | 25 | [Killswitch Lullaby](https://open.spotify.com/track/7g3g00RKlqSIe2G8KKCgsE) | [Flawed Mangoes](https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG) | [Killswitch Lullaby](https://open.spotify.com/album/6vumqEmQE0Sxag2dWwhe3E) | 2:27 |
 | 26 | [B4 \- The loves of my entire life](https://open.spotify.com/track/6806PuNd2YyEuzjtBo1yMv) | [The Caretaker](https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP) | [Everywhere at the End of Time \(Stage 1\)](https://open.spotify.com/album/0BE7TLLZoUhr9M8RlmFY3T) | 4:04 |
 | 27 | [cycli infini \(excerpt\)](https://open.spotify.com/track/7olE9v1QglnH1yH4EriS01) | [Felbm](https://open.spotify.com/artist/2kjrM4RpZVRBHy3hjgJCr7) | [cycli infini \(excerpt\)](https://open.spotify.com/album/49GDUKaS83Vmq5OatrPvKc) | 3:56 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 45 | [Angel's Flight](https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR) | 5:52 |
 | 46 | [Space 8](https://open.spotify.com/track/6kpoN7Z1mahkMePKztQdHt) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8) | 17:32 |
 | 47 | [Broken Hearted Kota](https://open.spotify.com/track/2nP8BQtLMXpaUWjUGWAwhy) | [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS) | [Broken Hearted Kota](https://open.spotify.com/album/1Wmrt4ojrx2y7NRHVvuoMv) | 5:11 |
-| 48 | [Requiem for CS70 and Strings](https://open.spotify.com/track/5tJZSE0l9xTnRrccjBZZXg) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Crush](https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z) | 2:23 |
-| 49 | [Briefly](https://open.spotify.com/track/0qSjSC6I0puPWQbyQXOIAf) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for Animals](https://open.spotify.com/album/0w4P2GvCEY7rVxdU1rrnxJ) | 27:02 |
-| 50 | [Atlas](https://open.spotify.com/track/6i7i1fNug2GXwJXKbLTUDr) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Atlas](https://open.spotify.com/album/54yPuui7BKEJsys2JgMs7w) | 6:53 |
+| 48 | [Atlas](https://open.spotify.com/track/6i7i1fNug2GXwJXKbLTUDr) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Atlas](https://open.spotify.com/album/54yPuui7BKEJsys2JgMs7w) | 6:53 |
+| 49 | [Winter's Lament](https://open.spotify.com/track/6SeSesTsbZgtyoY6GTyrEd) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Winter's Lament](https://open.spotify.com/album/46HYCYxZJjjl2DYPnWBCIC) | 2:50 |
+| 50 | [25°C](https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 7:27 |
 
-Snapshot ID: `MCw4OTVhY2RkMjY1YTM5ODNmZmU0YTg3NDE2ZjIxNzQ5M2FkOWYzZGQ0`
+Snapshot ID: `MCxjOWYyNzMzNWE3OTE1Mzk0NmQ1MmI0OTFkYTAyYzE1N2NiN2FkYTMx`

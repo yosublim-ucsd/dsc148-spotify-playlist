@@ -4,7 +4,7 @@
 
 > This is Edgardo Nuñez\. The essential tracks, all in one playlist.
 
-52 songs - 2 hr 44 min
+53 songs - 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Billete Grande \(En Vivo\)](https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Billete Grande \(En Vivo\)](https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip) | 2:43 | 2024-01-29 |  |
 | [Chavo Félix](https://open.spotify.com/track/06TSCYrOx9iNPv0TqcQo8W) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 2:54 | 2024-01-29 |  |
 | [Ciudad Peligrosa](https://open.spotify.com/track/3AzpG3c25sZQNaQi8qTTDQ) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Ciudad Peligrosa](https://open.spotify.com/album/2FAmIkxoyJ4VMjrY2M6nV3) | 3:46 | 2024-01-29 |  |
-| [Con Muchas Ganas \(En Vivo\)](https://open.spotify.com/track/1oTk6S6kcUuekg3SmrLpG5) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Con Muchas Ganas \(En Vivo\)](https://open.spotify.com/album/2a8WVnHLCJ1UJLKI1xNz0S) | 4:31 | 2024-01-29 |  |
+| [Con Muchas Ganas \(En Vivo\)](https://open.spotify.com/track/1oTk6S6kcUuekg3SmrLpG5) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Con Muchas Ganas \(En Vivo\)](https://open.spotify.com/album/2a8WVnHLCJ1UJLKI1xNz0S) | 4:31 | 2024-01-29 | 2024-03-05 |
+| [Con Muchas Ganas \(En Vivo\)](https://open.spotify.com/track/53B9dnw7V6p6ZVzvpK4BUl) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Con Muchas Ganas \(En Vivo\)](https://open.spotify.com/album/0d68E5jkALGrFEUUL2deEX) | 4:31 | 2024-03-04 |  |
 | [De Fresa y Coco](https://open.spotify.com/track/46XNO42jaQNr5DdEWINdpL) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [De Fresa y Coco](https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM) | 2:45 | 2024-01-29 |  |
 | [De Negra a Negra](https://open.spotify.com/track/4kEZ3UBvd3RnCKQSj5BkdT) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 2:52 | 2024-01-29 |  |
 | [Demonio Dormido \- En Vivo](https://open.spotify.com/track/2SANdIdArza7A5wfat0eLM) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.3 \(En Vivo\)](https://open.spotify.com/album/3138cEr6EhvN39pNSjJwV7) | 2:57 | 2024-01-29 |  |

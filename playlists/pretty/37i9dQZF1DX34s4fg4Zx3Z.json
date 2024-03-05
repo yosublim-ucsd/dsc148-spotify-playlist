@@ -1,32 +1,96 @@
 {
-  "description": "Nh\u01b0 thanh long trong m\u00ec t\u00f4m, \u0111\u00e2y l\u00e0 nh\u1eefng \ud83c\udfb6 c\u00f3 th\u1ec3 l\u1ea7n \u0111\u1ea7u nghe \u0111\u1ebfn. \u1ea2nh b\u00eca: Em Ellata",
-  "num_followers": 21938,
+  "description": "Nh\u01b0 thanh long trong m\u00ec t\u00f4m, \u0111\u00e2y l\u00e0 nh\u1eefng \ud83c\udfb6 c\u00f3 th\u1ec3 l\u1ea7n \u0111\u1ea7u nghe \u0111\u1ebfn. \u1ea2nh b\u00eca: m t\u00fa",
+  "num_followers": 21951,
   "original_name": "Fresh Finds Vietnam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjczZjgyNzE1MWZjOTFlNTU2MGFhZDRmZDYzYmQ5MzMyY2IxMGM0",
+  "snapshot_id": "MCxiYjJjZTg2ZTg4ODVlODg3YTc0M2E0OWIxMjJmMmJiYjEwM2ZiZGFk",
   "tracks": [
     {
       "added_at": "2024-02-29 06:58:18",
       "album": {
-        "name": "B\u1eadn L\u00f2ng",
-        "url": "https://open.spotify.com/album/47s9DxATUVI8vmpMKDy7zx"
+        "name": "c\u00f3 th\u1ec3 kh\u00f4ng",
+        "url": "https://open.spotify.com/album/2F4FZU5TxUThjV1mmdM76e"
       },
       "artists": [
         {
-          "name": "Pay",
-          "url": "https://open.spotify.com/artist/0LzKYyu8mwHXfMih4lnMXY"
-        },
-        {
-          "name": "Phongkhin",
-          "url": "https://open.spotify.com/artist/7qHgn5ADOzPBlcWcXfM6iA"
+          "name": "Duniverse",
+          "url": "https://open.spotify.com/artist/3h1HA6owjEkAHnIkMzYXoZ"
         }
       ],
-      "duration_ms": 202500,
-      "name": "B\u1eadn L\u00f2ng",
-      "url": "https://open.spotify.com/track/3q5U9H4GzUPnJ6USUKH6h1"
+      "duration_ms": 200466,
+      "name": "c\u00f3 th\u1ec3 kh\u00f4ng",
+      "url": "https://open.spotify.com/track/2u3OhkXik6ttV4wQoNWjup"
+    },
+    {
+      "added_at": "2024-02-29 06:58:18",
+      "album": {
+        "name": "Th\u1ebf L\u00e0 N\u00ean \u0110\u00f4i",
+        "url": "https://open.spotify.com/album/7kYQstIavwNE1uQ0894j1R"
+      },
+      "artists": [
+        {
+          "name": "thaolinh",
+          "url": "https://open.spotify.com/artist/6s6NVtjbeh4vUMCIv3rCAS"
+        }
+      ],
+      "duration_ms": 158312,
+      "name": "Th\u1ebf L\u00e0 N\u00ean \u0110\u00f4i",
+      "url": "https://open.spotify.com/track/2V74314Ad3e6obTjhbJsuy"
+    },
+    {
+      "added_at": "2024-02-29 06:58:18",
+      "album": {
+        "name": "\u00d4m em l\u1ea7n cu\u1ed1i",
+        "url": "https://open.spotify.com/album/0d5d4qUuA0Glw25a65V9jj"
+      },
+      "artists": [
+        {
+          "name": "NIT",
+          "url": "https://open.spotify.com/artist/1MTANbmLhUqJXlLuqADGE7"
+        },
+        {
+          "name": "Sing",
+          "url": "https://open.spotify.com/artist/79RTt4imwk0NaxS5lCnm29"
+        }
+      ],
+      "duration_ms": 243692,
+      "name": "\u00d4m em l\u1ea7n cu\u1ed1i",
+      "url": "https://open.spotify.com/track/0PcydKNpMjC1Yygy6CdQhr"
+    },
+    {
+      "added_at": "2024-02-29 06:58:18",
+      "album": {
+        "name": "Ng\u00e0y \u1ea5y (Yesterday)",
+        "url": "https://open.spotify.com/album/7wOolBP1mfgb26u9YqC5Y9"
+      },
+      "artists": [
+        {
+          "name": "Em Ellata",
+          "url": "https://open.spotify.com/artist/2gHZhGddcfiD6ASs7pK1iD"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Ng\u00e0y \u1ea5y (Yesterday)",
+      "url": "https://open.spotify.com/track/1vshOAKaZpnnrJF9QvcKd1"
+    },
+    {
+      "added_at": "2024-03-04 09:55:24",
+      "album": {
+        "name": "ch\u01a1i tr\u00f2 y\u00eau",
+        "url": "https://open.spotify.com/album/5ojdqidRsbjusXhT3oEir2"
+      },
+      "artists": [
+        {
+          "name": "m t\u00fa",
+          "url": "https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6"
+        }
+      ],
+      "duration_ms": 221400,
+      "name": "k\u00e9o co",
+      "url": "https://open.spotify.com/track/2lrj41EvgG4vBjQfZ2gH19"
     },
     {
       "added_at": "2024-02-29 06:58:18",
@@ -135,22 +199,6 @@
     {
       "added_at": "2024-02-29 06:58:18",
       "album": {
-        "name": "Ng\u00e0y \u1ea5y (Yesterday)",
-        "url": "https://open.spotify.com/album/7wOolBP1mfgb26u9YqC5Y9"
-      },
-      "artists": [
-        {
-          "name": "Em Ellata",
-          "url": "https://open.spotify.com/artist/2gHZhGddcfiD6ASs7pK1iD"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Ng\u00e0y \u1ea5y (Yesterday)",
-      "url": "https://open.spotify.com/track/1vshOAKaZpnnrJF9QvcKd1"
-    },
-    {
-      "added_at": "2024-02-29 06:58:18",
-      "album": {
         "name": "Bi\u1ebft \u0110\u00e2u S\u1ebd M\u1ea5t",
         "url": "https://open.spotify.com/album/7v69iNsJLWZ35qxsMH8bJe"
       },
@@ -163,6 +211,26 @@
       "duration_ms": 184624,
       "name": "Bi\u1ebft \u0110\u00e2u S\u1ebd M\u1ea5t",
       "url": "https://open.spotify.com/track/4tiTkoIBdra4zCsqr58od9"
+    },
+    {
+      "added_at": "2024-02-29 06:58:18",
+      "album": {
+        "name": "B\u1eadn L\u00f2ng",
+        "url": "https://open.spotify.com/album/47s9DxATUVI8vmpMKDy7zx"
+      },
+      "artists": [
+        {
+          "name": "Pay",
+          "url": "https://open.spotify.com/artist/0LzKYyu8mwHXfMih4lnMXY"
+        },
+        {
+          "name": "Phongkhin",
+          "url": "https://open.spotify.com/artist/7qHgn5ADOzPBlcWcXfM6iA"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "B\u1eadn L\u00f2ng",
+      "url": "https://open.spotify.com/track/3q5U9H4GzUPnJ6USUKH6h1"
     },
     {
       "added_at": "2024-02-29 06:58:18",
@@ -291,30 +359,6 @@
     {
       "added_at": "2024-02-29 06:58:18",
       "album": {
-        "name": "Kh\u00f4ng N\u00f3i Nhi\u1ec1u",
-        "url": "https://open.spotify.com/album/2NdpTozJ2nKXdEFvx4pk0u"
-      },
-      "artists": [
-        {
-          "name": "T00n",
-          "url": "https://open.spotify.com/artist/78HFiqRqptzoqqjvM2JWfa"
-        },
-        {
-          "name": "Tony D.",
-          "url": "https://open.spotify.com/artist/0XqppHVqDhLwMDOUmE4rRK"
-        },
-        {
-          "name": "JBEE7",
-          "url": "https://open.spotify.com/artist/4b0il49i8iJcspFGvde130"
-        }
-      ],
-      "duration_ms": 198879,
-      "name": "Kh\u00f4ng N\u00f3i Nhi\u1ec1u",
-      "url": "https://open.spotify.com/track/5zjHibYKTQ8eMsjVKGiwnd"
-    },
-    {
-      "added_at": "2024-02-29 06:58:18",
-      "album": {
         "name": "Ng\u00f4i Nh\u00e0 Kh\u00f4ng M\u00e0u",
         "url": "https://open.spotify.com/album/1ZkT5jyfeFpeGpIRIY2ukv"
       },
@@ -327,6 +371,22 @@
       "duration_ms": 260000,
       "name": "Ng\u00f4i Nh\u00e0 Kh\u00f4ng M\u00e0u",
       "url": "https://open.spotify.com/track/5PHTLs1B958iEIiNn0g2nJ"
+    },
+    {
+      "added_at": "2024-03-04 09:55:24",
+      "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/6MOKWwKLGBoG56fBf8YnuL"
+      },
+      "artists": [
+        {
+          "name": "Lynk Nguyen",
+          "url": "https://open.spotify.com/artist/4NkJ2ST54TN8b1Mpp1d0Kh"
+        }
+      ],
+      "duration_ms": 325144,
+      "name": "Hoa Trong S\u01b0\u01a1ng",
+      "url": "https://open.spotify.com/track/5PMRzTjjiBQTN4eq6PHCAY"
     },
     {
       "added_at": "2024-02-29 06:58:18",
@@ -543,22 +603,6 @@
     {
       "added_at": "2024-02-29 06:58:18",
       "album": {
-        "name": "c\u00f3 th\u1ec3 kh\u00f4ng",
-        "url": "https://open.spotify.com/album/2F4FZU5TxUThjV1mmdM76e"
-      },
-      "artists": [
-        {
-          "name": "Duniverse",
-          "url": "https://open.spotify.com/artist/3h1HA6owjEkAHnIkMzYXoZ"
-        }
-      ],
-      "duration_ms": 200466,
-      "name": "c\u00f3 th\u1ec3 kh\u00f4ng",
-      "url": "https://open.spotify.com/track/2u3OhkXik6ttV4wQoNWjup"
-    },
-    {
-      "added_at": "2024-02-29 06:58:18",
-      "album": {
         "name": "Gi\u1eefa Nh\u1eefng \u0110\u00e1m M\u00e2y",
         "url": "https://open.spotify.com/album/6VWGH0wslx1tZS9SZhF3AB"
       },
@@ -627,26 +671,6 @@
       "duration_ms": 216220,
       "name": "Lan Man",
       "url": "https://open.spotify.com/track/3hqOrxH5qPlvrApcb7Ac8c"
-    },
-    {
-      "added_at": "2024-02-29 06:58:18",
-      "album": {
-        "name": "\u00d4m em l\u1ea7n cu\u1ed1i",
-        "url": "https://open.spotify.com/album/0d5d4qUuA0Glw25a65V9jj"
-      },
-      "artists": [
-        {
-          "name": "NIT",
-          "url": "https://open.spotify.com/artist/1MTANbmLhUqJXlLuqADGE7"
-        },
-        {
-          "name": "Sing",
-          "url": "https://open.spotify.com/artist/79RTt4imwk0NaxS5lCnm29"
-        }
-      ],
-      "duration_ms": 243692,
-      "name": "\u00d4m em l\u1ea7n cu\u1ed1i",
-      "url": "https://open.spotify.com/track/0PcydKNpMjC1Yygy6CdQhr"
     },
     {
       "added_at": "2024-02-29 06:58:18",
@@ -1119,22 +1143,6 @@
       "duration_ms": 185324,
       "name": "Th\u00e2n M\u1eadt",
       "url": "https://open.spotify.com/track/1uHrEy6Y2MCso5IHQTCJgA"
-    },
-    {
-      "added_at": "2024-02-29 06:58:18",
-      "album": {
-        "name": "Th\u1ebf L\u00e0 N\u00ean \u0110\u00f4i",
-        "url": "https://open.spotify.com/album/7kYQstIavwNE1uQ0894j1R"
-      },
-      "artists": [
-        {
-          "name": "thaolinh",
-          "url": "https://open.spotify.com/artist/6s6NVtjbeh4vUMCIv3rCAS"
-        }
-      ],
-      "duration_ms": 158312,
-      "name": "Th\u1ebf L\u00e0 N\u00ean \u0110\u00f4i",
-      "url": "https://open.spotify.com/track/2V74314Ad3e6obTjhbJsuy"
     },
     {
       "added_at": "2024-02-29 06:58:18",
@@ -1819,22 +1827,6 @@
       "duration_ms": 203921,
       "name": "37 \u0110\u00c2Y N\u00c0Y",
       "url": "https://open.spotify.com/track/55YUXoRrspJq8Az7liAxNm"
-    },
-    {
-      "added_at": "2024-02-29 06:58:18",
-      "album": {
-        "name": "L\u00e1i Xe M\u1ed9t M\u00ecnh (Joy)",
-        "url": "https://open.spotify.com/album/5L3QslaUYOrzI1XRDIHUFT"
-      },
-      "artists": [
-        {
-          "name": "Em Ellata",
-          "url": "https://open.spotify.com/artist/2gHZhGddcfiD6ASs7pK1iD"
-        }
-      ],
-      "duration_ms": 259384,
-      "name": "L\u00e1i Xe M\u1ed9t M\u00ecnh (Joy)",
-      "url": "https://open.spotify.com/track/2hjf9rtmB1lajYg7QTnpVy"
     },
     {
       "added_at": "2024-02-29 06:58:18",

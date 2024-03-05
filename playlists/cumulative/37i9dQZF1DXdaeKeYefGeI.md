@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: MEAU
 
-143 songs - 8 hr 52 min
+146 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Alles Stil](https://open.spotify.com/track/4g1c9gwebd9Pvg3zuDA14v) | [Ricky Koole](https://open.spotify.com/artist/5fBVM70bd9z2d70XwIgKyS) | [Alles Stil](https://open.spotify.com/album/79VGEKw3ugGM7qHo5BaYRf) | 4:05 | 2023-02-10 | 2023-09-09 |
 | [Als De Dag Van Toen](https://open.spotify.com/track/6HFGuidrK5g7QpMrBdJaBt) | [Reinhard Mey](https://open.spotify.com/artist/119CgQj02xyMpOobWjdb3C) | [! Ich Kann](https://open.spotify.com/album/28WDaaO5SVwnUJ727nZ62Q) | 5:15 | 2023-02-10 |  |
 | [Als ik ooit wil gaan](https://open.spotify.com/track/1LVfKIpNTPgQknWN7TTsWM) | [Sjors Van Der Panne](https://open.spotify.com/artist/73VtXHJjAxyr9p5NsHxTLO) | [Als ik ooit wil gaan](https://open.spotify.com/album/2mSuGoBYlFj2pIjgHqG2vd) | 3:28 | 2023-06-01 | 2023-11-11 |
+| [Als Water](https://open.spotify.com/track/6Crw1yc2A4W6L5LgOPnolS) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Spuug van God](https://open.spotify.com/album/1aAim07lpl5ARWVls0wKqM) | 2:34 | 2024-03-04 |  |
 | [Alsof](https://open.spotify.com/track/5BM1VtsHL1HxUsF2xQVz2G) | [Thijs Borsten](https://open.spotify.com/artist/2rXcix5yePOodUVqDUiRKh), [Fay Lovsky](https://open.spotify.com/artist/2NEeqYen2FsMivq7JBIJiv) | [Alsof](https://open.spotify.com/album/38XTEhm8maA44fEQdvjcnF) | 3:23 | 2023-02-10 | 2023-03-18 |
 | [Altijd Dorst](https://open.spotify.com/track/3HyWVDESd05MxK1S23eMm3) | [Youp van 't Hek](https://open.spotify.com/artist/5KZPlP5jQGBF3Z1kUq2ZUP), [Ton Scherpenzeel](https://open.spotify.com/artist/17a49nqhcCd0kvqHwxbVhP), [Matangi Quartet](https://open.spotify.com/artist/24NmIo95ZKPV5DKMKCXgaL) | [Huisje aan C](https://open.spotify.com/album/3xOBDqh78LgGXFMZDJDl0l) | 4:10 | 2023-02-10 | 2023-05-16 |
 | [Altijd iemand](https://open.spotify.com/track/3LsZn1eGywgz7llFGZId7h) | [Ricky Koole](https://open.spotify.com/artist/5fBVM70bd9z2d70XwIgKyS) | [Altijd Iemand](https://open.spotify.com/album/76ecoEvQrwYITnL3Vrq5Pk) | 5:50 | 2023-09-14 |  |
@@ -63,6 +64,7 @@
 | [Het Regende Zon](https://open.spotify.com/track/6SDQYfdsaLlOoRRUPyv3Ix) | [Ellen Ten Damme](https://open.spotify.com/artist/3DbOvEIWluNeH6rhPuFexv) | [Het Regende Zon](https://open.spotify.com/album/7HA5p6GD27rnBOxb06MtfG) | 3:23 | 2023-02-10 | 2023-03-09 |
 | [Het Werd Zomer](https://open.spotify.com/track/7J7fNdedcP2urV48omGkHu) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Tussen Zomer En Winter \(Expanded Edition\)](https://open.spotify.com/album/6C1i4zs6YQtinLbZh9pz9u) | 4:07 | 2023-02-10 | 2023-09-15 |
 | [Hou Van Mij](https://open.spotify.com/track/0p8NKK6n6wrvgPf0AUho6h) | [Bökkers](https://open.spotify.com/artist/4r9YVlVbFPpqo0vcCaKIE6), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Hou Van Mij](https://open.spotify.com/album/4FnEHt85qGmedL41l7zErJ) | 3:13 | 2023-02-10 |  |
+| [Houten Pak](https://open.spotify.com/track/2E2Uc9dF8dlsRmM6EA51hj) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Man In Nood](https://open.spotify.com/album/4shvyUUcdrdIwd0lIlIXCU) | 3:03 | 2024-03-04 |  |
 | [Ik Doe Het Al](https://open.spotify.com/track/5lwAw6HWkieGDGd0bkIBgu) | [Iris Penning](https://open.spotify.com/artist/44MTZ4Gl4TGilst3cCDq9G) | [Ik Doe Het Al](https://open.spotify.com/album/5cGRwq3Nb0FwdIAZxOV3as) | 2:45 | 2024-01-25 |  |
 | [Ik heb je vergeven](https://open.spotify.com/track/5eGNTkEgie3bPoQpuw07PE) | [Myra Pilar](https://open.spotify.com/artist/0XGEZus6caWFUFpPGYotPX) | [Ik heb je vergeven](https://open.spotify.com/album/0aEpho7U0oTDSQmophOKuH) | 3:32 | 2023-02-10 | 2023-04-07 |
 | [Ik Hobbel](https://open.spotify.com/track/6tpeejrVeDYkU8WhLpmWuV) | [Theun met een h](https://open.spotify.com/artist/0gPKa3T9bOhyyUkGeYcf2I) | [Ik Hobbel](https://open.spotify.com/album/4Dp6OZeo6qDXlRWm3YRPhK) | 3:02 | 2023-03-23 |  |
@@ -71,6 +73,7 @@
 | [Ik zou iets willen zeggen](https://open.spotify.com/track/5xnKi7AA2XY0oj1t6aXljJ) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Ik zou iets willen zeggen](https://open.spotify.com/album/5QpPrVWPuqnY7EnIboBkQI) | 3:48 | 2023-02-10 | 2023-04-07 |
 | [In De Wolken](https://open.spotify.com/track/1Km2FZBYTywUP04iPfLC0Q) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS), [De Troubadours](https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq) | [In De Wolken](https://open.spotify.com/album/2ofvL42TbMchm7UhUzy1XK) | 4:31 | 2023-11-09 |  |
 | [Je leeft maar 1 keer](https://open.spotify.com/track/6Q2TJRM3fR7E6uZfhmcUvw) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [Je leeft maar 1 keer](https://open.spotify.com/album/1EgjIzMkAbsoxMdaYKq5xz) | 2:54 | 2023-03-08 | 2024-01-26 |
+| [Jij voorbij](https://open.spotify.com/track/4VaQVB3zJdMAB7jjCpgzvn) | [Esther Groenenberg](https://open.spotify.com/artist/6YtD1HaVfNdkr0RAnjPfzs) | [Ik heb het licht nog aan](https://open.spotify.com/album/0vvi9TiyQgtvo3ca91HpQ9) | 3:20 | 2024-03-04 |  |
 | [Jouw Ogen](https://open.spotify.com/track/54MtBoHYiT2c3NyJswx2xw) | [Sjors Van Der Panne](https://open.spotify.com/artist/73VtXHJjAxyr9p5NsHxTLO) | [Jouw Ogen](https://open.spotify.com/album/4dkc4FlkKVgUHtnPEc8RMe) | 3:30 | 2023-09-14 |  |
 | [Ken Je Mij \- Live From De Rode Hoed, Amsterdam, Netherlands / 2008](https://open.spotify.com/track/3oGJr5fuofoNfO5CrrbLB6) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [Ken Je Mij](https://open.spotify.com/album/2wyfmgzMM1RSBgQVUsvJKS) | 5:41 | 2023-02-10 |  |
 | [Kijk Niet Achterom](https://open.spotify.com/track/0QL7jSoLircjh2hLC0SYAi) | [Paul de Munnik](https://open.spotify.com/artist/1HFg9B0Jvwqzqiuqg9cASk) | [Kijk Niet Achterom](https://open.spotify.com/album/53sBljvd4P6foQ3p9RZZ46) | 3:49 | 2023-02-10 | 2023-09-15 |
@@ -83,7 +86,7 @@
 | [Lente '22](https://open.spotify.com/track/2XIp445YfKTy3VuHBpMkaj) | [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [Lente '22](https://open.spotify.com/album/2wcWvAKYo3psSLnnMy78zi) | 4:35 | 2023-04-06 | 2023-09-15 |
 | [Lente Me](https://open.spotify.com/track/1JSrkd77iGJMYwTUBdX5Xs) | [Toon Hermans](https://open.spotify.com/artist/3Uo8Ydn4TQ6Xq3W1oN4z0h) | [One Man Show 1993](https://open.spotify.com/album/0WK6NTWtpvHLBovgYFbdsS) | 4:54 | 2023-02-10 |  |
 | [Lied Van De Zevende Dag](https://open.spotify.com/track/6e50pXxK6eUgcH5wc3Z06W) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb), [Tjeerd Oosterhuis](https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi) | [Lied Van De Zevende Dag](https://open.spotify.com/album/0qZ53110VSvZHsHSYtk0vn) | 2:59 | 2023-04-20 | 2024-02-09 |
-| [Los](https://open.spotify.com/track/35LMuMdS0uonMULXeGfQcV) | [Meis](https://open.spotify.com/artist/5F2t3lvOUglnG8ZqUUWDKW), [Klangstof](https://open.spotify.com/artist/25lIYhqIj0R1AnnmqsTrtO) | [Los](https://open.spotify.com/album/7tzQmiWfCA5vCFaaYMpBog) | 4:02 | 2023-07-20 |  |
+| [Los](https://open.spotify.com/track/35LMuMdS0uonMULXeGfQcV) | [Meis](https://open.spotify.com/artist/5F2t3lvOUglnG8ZqUUWDKW), [Klangstof](https://open.spotify.com/artist/25lIYhqIj0R1AnnmqsTrtO) | [Los](https://open.spotify.com/album/7tzQmiWfCA5vCFaaYMpBog) | 4:02 | 2023-07-20 | 2024-03-05 |
 | [Luie Liefde](https://open.spotify.com/track/4afcjiDL53xe9M7eU4r74E) | [Vreemde Kostgangers](https://open.spotify.com/artist/5uLY3PL1Mrj4kusy2LOXMd) | [Luie Liefde](https://open.spotify.com/album/2zMMiH7rxlW1WbSqT2gsvn) | 3:02 | 2023-02-10 | 2023-04-26 |
 | [Mag ik dan bij jou \- Single Version](https://open.spotify.com/track/6jXoII9HpQpBvs4mxA7EGT) | [Claudia De Breij](https://open.spotify.com/artist/30bxeFCSr3KfbhE4KO5H2o) | [Mag ik dan bij jou](https://open.spotify.com/album/6YdAR6x5rHf846m5ZqZscr) | 3:23 | 2023-02-10 |  |
 | [Mama Kijk Ik Kan Het Zelf](https://open.spotify.com/track/2V3C6CtUJ9kyHuTXKOxSe9) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Mama Kijk Ik Kan Het Zelf](https://open.spotify.com/album/0Q5LstDM9e8UuDhAARTs3H) | 3:38 | 2023-11-09 |  |

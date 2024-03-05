@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bom9R0tCgx.md) - [plain]
 
 > All the stuff that will blow your speakers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,257 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,409 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bom9R0tCgx.md) - [plain]
 | 97 | [Get the Party Started](https://open.spotify.com/track/2soGRhK6QtiyYsgHiud8qA) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [Robbe](https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA), [HYPER DEMON](https://open.spotify.com/artist/0FANj0502DHdbObVXrNYeM) | [Get the Party Started](https://open.spotify.com/album/38XZcrI92sDBgk4aguUcRO) | 1:59 |
 | 98 | [Chasing Highs \- LIZOT Remix](https://open.spotify.com/track/5uISqR4lyfgJ0snckYmQpJ) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Chasing Highs \(LIZOT Remix\)](https://open.spotify.com/album/7JVvbZAInkbZ33BxWWT4yp) | 2:13 |
 | 99 | [Live Until I Die](https://open.spotify.com/track/4JjHBHKIBCuojHrL5wyMow) | [Refuzion](https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1) | [Live Until I Die](https://open.spotify.com/album/0rKojF4WQPUshCkKwafY2S) | 2:33 |
-| 100 | [No Tomorrow](https://open.spotify.com/track/2d390UHjBS2TIY27DGFajM) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [Brandyn Burnette](https://open.spotify.com/artist/14mErTJ0ubFVjx2zBAwjkE) | [No Tomorrow](https://open.spotify.com/album/1swqPWfvWrpOON97OKZ6Bx) | 3:31 |
+| 100 | [Insomnia \- Rework](https://open.spotify.com/track/6uRUfq1y0VayUjh2M935g7) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9), [Jack Holiday](https://open.spotify.com/artist/64yON9pK0j392YkionGKAF) | [Insomnia \(Rework\)](https://open.spotify.com/album/3O4Td8QTtXYMfbj8d4h7P6) | 3:00 |
 
-Snapshot ID: `MCw4NjFhZTQxYTBlODdjYzlhOWJiZWQwNGI1NmQzMGQ0YzM0N2Y5ZDM5`
+Snapshot ID: `MCxmYWI1NmQ1MzkwMTQ3MzhhOGQ4ZjhiNmRiMDI2MTFiNWVkZjM0MTI5`

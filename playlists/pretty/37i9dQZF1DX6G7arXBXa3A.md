@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 
 > Big bands, big sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,907 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,941 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 | 8 | [Polka Dots and Moonbeams](https://open.spotify.com/track/0HFWS5C6ThNeuOr10Xz21U) | [Tommy Dorsey](https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [The Essential Frank Sinatra with the Tommy Dorsey Orchestra \(with Frank Sinatra\)](https://open.spotify.com/album/6mcP2ZPyrpMIOrXvSDNQ3g) | 3:19 |
 | 9 | [You Make Me Feel so Young](https://open.spotify.com/track/1B8RSIxmwcjad7XUJjeCK2) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [To Be Loved](https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07) | 3:05 |
 | 10 | [Begin the Beguine](https://open.spotify.com/track/0YJAz1QqMNrPhJ2vhHupcZ) | [Artie Shaw](https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF) | [Begin The Beguine](https://open.spotify.com/album/3uXjIDVSLPp8niomuVDd5h) | 3:16 |
-| 11 | [In the Mood](https://open.spotify.com/track/1xsY8IFXUrxeet1Fcmk4oC) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc) | [Ultimate Big Band Collection: Glenn Miller](https://open.spotify.com/album/4dkdsQFiMF2Ok0AczTiVBR) | 3:36 |
-| 12 | [Sing, Sing, Sing](https://open.spotify.com/track/5L8ta4ECl5zeA6bGqY7G38) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [The Essential Benny Goodman](https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK) | 8:40 |
-| 13 | [Perhaps](https://open.spotify.com/track/5crzhw9xiWFMF2NDZzk6eb) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Big Band Classics](https://open.spotify.com/album/5eoOfLW71UCbeNNNzA9Pcm) | 2:29 |
-| 14 | [I Could Write a Book](https://open.spotify.com/track/2zSnnXvex1yMcPUn4mg27H) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When Harry Met Sally..\. Music From The Motion Picture](https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv) | 2:27 |
+| 11 | [Sing, Sing, Sing](https://open.spotify.com/track/5L8ta4ECl5zeA6bGqY7G38) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [The Essential Benny Goodman](https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK) | 8:40 |
+| 12 | [I Could Write a Book](https://open.spotify.com/track/2zSnnXvex1yMcPUn4mg27H) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When Harry Met Sally..\. Music From The Motion Picture](https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv) | 2:27 |
+| 13 | [In the Mood](https://open.spotify.com/track/1xsY8IFXUrxeet1Fcmk4oC) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc) | [Ultimate Big Band Collection: Glenn Miller](https://open.spotify.com/album/4dkdsQFiMF2Ok0AczTiVBR) | 3:36 |
+| 14 | [Perhaps](https://open.spotify.com/track/5crzhw9xiWFMF2NDZzk6eb) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Big Band Classics](https://open.spotify.com/album/5eoOfLW71UCbeNNNzA9Pcm) | 2:29 |
 | 15 | [Four Brothers](https://open.spotify.com/track/2cOSF20k8VkEoXllO0PsbG) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper + Eleven: Modern Jazz Classics](https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ) | 2:58 |
 | 16 | [Pistol Packin' Mama \- Single Version](https://open.spotify.com/track/2Pn1HP6ZTVpBaew1jHcs87) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM), [Vic Schoen & His Orchestra](https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42) | [Bing\-His Legendary Years 1931\-1957](https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw) | 3:03 |
 | 17 | [It Don't Mean A Thing \(If It Ain't Got That Swing\)](https://open.spotify.com/track/1GERVZcph8qx09OR7Wo1UV) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Cheek To Cheek \(Deluxe\)](https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu) | 2:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 | 49 | [Just One Of Those Things](https://open.spotify.com/track/6QZ4ZhD8hGVTfwoN2Ypl4Z) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Inspiration \(A Tribute To Nat King Cole\)](https://open.spotify.com/album/7CVBlFmDZnYjHyP6G0aj0m) | 2:42 |
 | 50 | [Luck Be a Lady](https://open.spotify.com/track/5HiCP97aBMKcaNJdp8CAPq) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [That's Life](https://open.spotify.com/album/3i0UVz6teoPDfy3JhK74Tr) | 3:04 |
 
-Snapshot ID: `MCxjMTRiNzA0YzNkYzc3YmFhMjcwN2ZhOGIzNzA3YjcwOTFmMWI2NzY1`
+Snapshot ID: `MCxmODYwMGRkNzVmMzEyZjFkYzJlOWJhZmRmYTg3YmJjMTkzNDIzYTgy`

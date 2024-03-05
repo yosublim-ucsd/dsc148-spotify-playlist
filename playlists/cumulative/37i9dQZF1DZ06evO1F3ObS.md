@@ -4,7 +4,7 @@
 
 > This is ReoNa\. The essential tracks, all in one playlist.
 
-86 songs - 6 hr 32 min
+87 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [まっさら](https://open.spotify.com/track/6gJ5wPcapcwS4nCN5aOBDW) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ないない \(Special Edition\)](https://open.spotify.com/album/6HD7Zt2IlhBzbOankRvipw) | 4:12 | 2022-06-09 |  |
 | [カナリア](https://open.spotify.com/track/4vn0eCi3dRwGDHdyskh3Oy) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [SWEET HURT](https://open.spotify.com/album/5wcOB0FItV2G8a4EGVUZEm) | 4:47 | 2022-06-09 |  |
 | [ガジュマル ～Heaven in the Rain～](https://open.spotify.com/track/0eiwO4ew5VzzjL9fsrUE1N) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ガジュマル ～Heaven in the Rain～](https://open.spotify.com/album/7DeRNe0Pzmyb07YCsTjjC1) | 4:59 | 2024-01-09 |  |
+| [ガジュマル ～Heaven in the Rain～ \-TV size\-](https://open.spotify.com/track/1SSFwlcRoRb9dUVKd6PjM3) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ガジュマル ～Heaven in the Rain～\(Special Edition\)](https://open.spotify.com/album/2pD99uEeXY3dmF9nFqhCFU) | 1:35 | 2024-03-04 |  |
 | [シャル・ウィ・ダンス?](https://open.spotify.com/track/3scQcXcg9nOfWVQDQTeDXF) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [シャル・ウィ・ダンス?](https://open.spotify.com/album/0bJE38pebBIRov35fJG5jZ) | 4:26 | 2022-07-10 |  |
 | [シャル・ウィ・ダンス？（ReoNa ONE\-MAN Concert 2023「ピルグリム」～3.6 day 逃げて逢おうね～）](https://open.spotify.com/track/0jMS7S4by55KgUdyvtebyh) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ReoNa ONE\-MAN Concert 2023「ピルグリム」～3.6 day 逃げて逢おうね～](https://open.spotify.com/album/4pihhDAaMalT3QVUOnk1Na) | 4:31 | 2023-09-18 | 2023-12-14 |
 | [ジュブナイル](https://open.spotify.com/track/0aNo5AAvXdaY2bFUQ0OedX) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [月姫 \-A piece of blue glass moon\- THEME SONG E.P.](https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi) | 4:23 | 2022-06-09 |  |
@@ -85,7 +86,7 @@
 | [生命線](https://open.spotify.com/track/0xWl3d2OOeKJvbebz5lUlm) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [生命線](https://open.spotify.com/album/3SwHgKMcPcYO2KIFOSILxx) | 4:15 | 2022-06-11 | 2023-05-19 |
 | [生命線](https://open.spotify.com/track/4Ut1yVtaTsq0Mp6F2V2yJC) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [月姫 \-A piece of blue glass moon\- THEME SONG E.P.](https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi) | 4:15 | 2022-06-09 | 2022-07-07 |
 | [生命線](https://open.spotify.com/track/2fgAVfnav5XAEwKi19PVxC) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HUMAN](https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic) | 4:15 | 2023-05-18 |  |
-| [生命線 \-Game size\-](https://open.spotify.com/track/48HR0RKVyUbjctXPbI4y4r) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [月姫 \-A piece of blue glass moon\- Original Soundtrack](https://open.spotify.com/album/1vbPDL5Hm1PcjUrbcw5Ulo) | 1:39 | 2022-06-09 |  |
+| [生命線 \-Game size\-](https://open.spotify.com/track/48HR0RKVyUbjctXPbI4y4r) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [月姫 \-A piece of blue glass moon\- Original Soundtrack](https://open.spotify.com/album/1vbPDL5Hm1PcjUrbcw5Ulo) | 1:39 | 2022-06-09 | 2024-03-05 |
 | [生命線（ReoNa ONE\-MAN Concert 2023「ピルグリム」～3.6 day 逃げて逢おうね～）](https://open.spotify.com/track/1XnoPCzkfnHOLjApDFIMPb) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ReoNa ONE\-MAN Concert 2023「ピルグリム」～3.6 day 逃げて逢おうね～](https://open.spotify.com/album/4pihhDAaMalT3QVUOnk1Na) | 4:34 | 2023-09-25 | 2024-03-02 |
 | [葬送の儀](https://open.spotify.com/track/4pLF9u0jEuO6jIeaydBkRW) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Prologue](https://open.spotify.com/album/3zGbre3z1scVAZcRyRfTpw) | 4:02 | 2022-08-14 | 2022-09-22 |
 | [葬送の儀](https://open.spotify.com/track/54Wn2RQDn1tKIcFhpwVMSZ) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Prologue](https://open.spotify.com/album/4nvlGw1x1DAg3hm3GXypgj) | 4:02 | 2022-06-09 |  |

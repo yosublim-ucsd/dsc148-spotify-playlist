@@ -4,7 +4,7 @@
 
 > Canciones para emocionarnos, reflexionar y celebrar, elegidas por <a href="spotify:show:5GfRxX2kl2BJVB1e7AgcDh"> Marco Antonio Regil</a>
 
-366 songs - 23 hr 26 min
+367 songs - 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,9 +251,10 @@
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/1ZrpvgLUBHozH2PLbc4SrO) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD) | 3:18 | 2023-08-09 | 2023-10-11 |
 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 | 2023-10-26 | 2024-01-17 |
 | [Perdí Mi Ojo de Venado](https://open.spotify.com/track/4YKBYzHTtBZA2P12N5VomO) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Caifanes](https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr) | 4:31 | 2023-10-11 | 2023-10-27 |
-| [Perdóname](https://open.spotify.com/track/3gO8mvkxIcyF9N7Vd1WM2i) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Camilo Superstar](https://open.spotify.com/album/1l6lAa8r9wh4s5TQbrG4RS) | 3:52 | 2024-01-16 |  |
+| [Perdóname](https://open.spotify.com/track/3gO8mvkxIcyF9N7Vd1WM2i) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Camilo Superstar](https://open.spotify.com/album/1l6lAa8r9wh4s5TQbrG4RS) | 3:52 | 2024-01-16 | 2024-03-05 |
 | [Perfecta](https://open.spotify.com/track/09QfIIP4NUx4A3thmovb2o) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [El Templo del Pop](https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY) | 3:45 | 2021-12-26 | 2023-03-16 |
 | [Pero Me Acuerdo de Tí](https://open.spotify.com/track/4B1sb2YVO03sBmyR8bvzEB) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 4:25 | 2021-12-26 | 2023-03-16 |
+| [Persiana Americana](https://open.spotify.com/track/4iPA2yB8bK7T770EkkOi7s) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Obras Cumbres](https://open.spotify.com/album/7MqDgagaBfm7Cjlg7uzlAa) | 4:55 | 2024-01-16 |  |
 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 | 2023-10-11 | 2023-10-27 |
 | [Planeando El Tiempo](https://open.spotify.com/track/0yrPBI6TUysAU0OQbbd7IH) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Rey](https://open.spotify.com/album/4Zz44QAJk0eMkEZfHZ4HJN) | 2:35 | 2023-03-16 | 2023-08-10 |
 | [Poker Face](https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) | 3:57 | 2021-12-26 | 2023-03-16 |

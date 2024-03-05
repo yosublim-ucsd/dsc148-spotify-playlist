@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,038 likes - 280 songs - 12 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,203 likes - 280 songs - 12 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 | 17 | [Le Recueillement](https://open.spotify.com/track/6fHq66kBS2OJiWu3ZGNZj9) | [Abelin Lagarde](https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD) | [Le Recueillement](https://open.spotify.com/album/28bPi73lPKGOd8x9AeYFm6) | 2:27 |
 | 18 | [Luce](https://open.spotify.com/track/3eGygw8GYEYWknt1JeZAQ1) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Luce](https://open.spotify.com/album/00EHlFdUT07StJKAk4al8H) | 2:10 |
 | 19 | [The Way Home](https://open.spotify.com/track/4QB9QRh9xUuqKTXX9JBqyZ) | [Wendie Solomon](https://open.spotify.com/artist/002TmsLOEGkMqhkbb2zWfs) | [The Way Home](https://open.spotify.com/album/089vc1XdbczEThiYnD6AJB) | 2:27 |
-| 20 | [Light of wintertime](https://open.spotify.com/track/3Q1HOPyyOPygEkiF5j8TDL) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Light of wintertime](https://open.spotify.com/album/5BmL3qmVWwq9ErKKZP0SoD) | 2:11 |
-| 21 | [Release from silence](https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9) | [Patrick Buote](https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74) | [Release from silence](https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ) | 2:17 |
-| 22 | [Eclipsis](https://open.spotify.com/track/2vcdqUMFMbKYvqzBYsVZDn) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [Eclipsis](https://open.spotify.com/album/58AH9ExVBQglcFuAUpIl4t) | 2:26 |
+| 20 | [Release from silence](https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9) | [Patrick Buote](https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74) | [Release from silence](https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ) | 2:17 |
+| 21 | [Eclipsis](https://open.spotify.com/track/2vcdqUMFMbKYvqzBYsVZDn) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [Eclipsis](https://open.spotify.com/album/58AH9ExVBQglcFuAUpIl4t) | 2:26 |
+| 22 | [Light of wintertime](https://open.spotify.com/track/3Q1HOPyyOPygEkiF5j8TDL) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Light of wintertime](https://open.spotify.com/album/5BmL3qmVWwq9ErKKZP0SoD) | 2:11 |
 | 23 | [Tôt le matin](https://open.spotify.com/track/5TRzmeTTbtVrsblB0HTZn7) | [Alonzo Gautier](https://open.spotify.com/artist/0f21lXm0HIIrfEBSJz2Oy3) | [Tôt le matin](https://open.spotify.com/album/2B1QcyRTxAJZiF9pwln7jR) | 2:10 |
 | 24 | [November Birdie](https://open.spotify.com/track/3N79AZhe7FiBgF7leqGhHt) | [El Pianista Manco](https://open.spotify.com/artist/01E7DBTYoklq6FeDxgRk36) | [November Birdie](https://open.spotify.com/album/3Fm1JbS2MGWoABmIZV6KJZ) | 2:42 |
 | 25 | [Ruiseñor](https://open.spotify.com/track/0ECmXrwUI8YqLnKKom8jq1) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Khione](https://open.spotify.com/album/6nkSfwqiUqpcDcr3i5Ep51) | 2:59 |
@@ -84,10 +84,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 | 74 | [Lifted By Clouds](https://open.spotify.com/track/5EGuIIQNERZqGKEUbynsqu) | [Nolan Khan](https://open.spotify.com/artist/6GpEjquDluNZrINNY0cS3H) | [Otherworldly](https://open.spotify.com/album/4firwTZqPeb61lvSPqDdx3) | 2:07 |
 | 75 | [Sunnebovals](https://open.spotify.com/track/0ob3wzPe3R3NpJtUEz0wUQ) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Sunnebovals](https://open.spotify.com/album/7HFD5GTgPyDOGNaFZKdecx) | 2:53 |
 | 76 | [Home full of solipsism](https://open.spotify.com/track/0i5RkqFU2XfihIcxTxG3h1) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Home full of solipsism](https://open.spotify.com/album/6lO17gFILD6VAk71WT29dA) | 2:57 |
-| 77 | [Early Memories](https://open.spotify.com/track/0yAgdDXxal3Em3W4X1bkGq) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Early Memories](https://open.spotify.com/album/0jFxPV4j7bMwugDCJsMt7g) | 2:33 |
-| 78 | [Zephyr](https://open.spotify.com/track/0CNhH6mjashU1e7z0j1LXl) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Zephyr](https://open.spotify.com/album/4TR4dko5W6NIFmA4AR4yU4) | 2:40 |
-| 79 | [Coelicolor](https://open.spotify.com/track/59uTTjYZrhemOxdwht85fA) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Coelicolor](https://open.spotify.com/album/2u28DhrSjoAAtn6sVudqYI) | 2:42 |
-| 80 | [Volga](https://open.spotify.com/track/5GVo7iQPoQUDOX1xUadS1p) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Volga](https://open.spotify.com/album/4E7hFmTDF1eyBIxdXyREiF) | 2:49 |
+| 77 | [Zephyr](https://open.spotify.com/track/0CNhH6mjashU1e7z0j1LXl) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Zephyr](https://open.spotify.com/album/4TR4dko5W6NIFmA4AR4yU4) | 2:40 |
+| 78 | [Coelicolor](https://open.spotify.com/track/59uTTjYZrhemOxdwht85fA) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Coelicolor](https://open.spotify.com/album/2u28DhrSjoAAtn6sVudqYI) | 2:42 |
+| 79 | [Volga](https://open.spotify.com/track/5GVo7iQPoQUDOX1xUadS1p) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Volga](https://open.spotify.com/album/4E7hFmTDF1eyBIxdXyREiF) | 2:49 |
+| 80 | [Early Memories](https://open.spotify.com/track/0yAgdDXxal3Em3W4X1bkGq) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Early Memories](https://open.spotify.com/album/0jFxPV4j7bMwugDCJsMt7g) | 2:33 |
 | 81 | [Paseo](https://open.spotify.com/track/3z34o6Tz0nEHd6rPjIcyTN) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [Paseo](https://open.spotify.com/album/11v1XsFDWHyGfF8FKizm6P) | 2:22 |
 | 82 | [Feathers](https://open.spotify.com/track/1CWes1ypvDpEAfpDpB5uWy) | [Kye Wood](https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II) | [Feathers](https://open.spotify.com/album/7jM0M6ag5Kcg2nK4sPWAl9) | 2:38 |
 | 83 | [The Song Within](https://open.spotify.com/track/725oGRYkD3w6Fo1sp3rcG2) | [George Agate](https://open.spotify.com/artist/6ttrQpo8aOzfGeIBUAwEAO) | [The Song Within](https://open.spotify.com/album/3D8JLUtWZJNstoThwui66A) | 2:52 |
@@ -136,9 +136,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 | 126 | [Saving Daylight \(Revisited\)](https://open.spotify.com/track/0A3qYD4HtfUkL4mMytek2m) | [Lake Isabel](https://open.spotify.com/artist/1O7IHNwUuOSOnMIS1ueGEJ) | [Saving Daylight \(Revisited\)](https://open.spotify.com/album/6iPFhGhZDGywqm8J8jqiXr) | 2:58 |
 | 127 | [Breakfast With Chopin](https://open.spotify.com/track/3lHjOedwwnVrhoOayeFdTI) | [Louis Mercier](https://open.spotify.com/artist/3Pew2vdzxrnyQjjs7wsOa2) | [Breakfast with Chopin](https://open.spotify.com/album/6c61W7333vPNTC077Ne0Sm) | 2:06 |
 | 128 | [Tokyo](https://open.spotify.com/track/44pzUcTMHrjZnBQTqgjWf0) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [Tokyo](https://open.spotify.com/album/3ywyIfP5x1jjosZDJpxzjT) | 2:19 |
-| 129 | [Primrose Hill](https://open.spotify.com/track/1at46An3uytKsd32hqQkpw) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Primrose Hill](https://open.spotify.com/album/7HfmF0KuzcMYURt7mhN1sa) | 2:52 |
-| 130 | [Maurice](https://open.spotify.com/track/7l92bhAAWWCnRrbmekFSor) | [Oscar Sergel](https://open.spotify.com/artist/0di12xR3Qca66XeRGBn1z8) | [Maurice](https://open.spotify.com/album/6bSnjwj5vMGVwxfjOJkBt3) | 2:47 |
-| 131 | [Nirha](https://open.spotify.com/track/0SK8aridaHO485I2iJD35e) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [Nirha](https://open.spotify.com/album/3AEGuqW6eS9efDAYOpfBjH) | 2:44 |
+| 129 | [Maurice](https://open.spotify.com/track/7l92bhAAWWCnRrbmekFSor) | [Oscar Sergel](https://open.spotify.com/artist/0di12xR3Qca66XeRGBn1z8) | [Maurice](https://open.spotify.com/album/6bSnjwj5vMGVwxfjOJkBt3) | 2:47 |
+| 130 | [Nirha](https://open.spotify.com/track/0SK8aridaHO485I2iJD35e) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [Nirha](https://open.spotify.com/album/3AEGuqW6eS9efDAYOpfBjH) | 2:44 |
+| 131 | [Primrose Hill](https://open.spotify.com/track/1at46An3uytKsd32hqQkpw) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Primrose Hill](https://open.spotify.com/album/7HfmF0KuzcMYURt7mhN1sa) | 2:52 |
 | 132 | [Ornaments](https://open.spotify.com/track/4LgzLdKvlp9PxacJFVdwNI) | [John Crome](https://open.spotify.com/artist/5HCXtWcqdFJhJQYgevKCA5) | [Ornaments](https://open.spotify.com/album/34yhdzESZ5n9tyWLgJVo6j) | 3:34 |
 | 133 | [Somersault \- Revisited](https://open.spotify.com/track/1hpZuDKO80t1lR5BR0BaKP) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Somersault \(lO\)](https://open.spotify.com/album/33YGKrv3mjwVhAlFhz9vyQ) | 2:07 |
 | 134 | [Becoming](https://open.spotify.com/track/2wPHCAgYiIIfEMt4Lj1xMg) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Becoming](https://open.spotify.com/album/1XDp0E8TtyTWFlniXqkV1C) | 2:43 |
@@ -289,4 +289,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 | 279 | [Irremplaçable](https://open.spotify.com/track/00MXTIsUxrN8hf6CgN1d2E) | [Astride Perrot](https://open.spotify.com/artist/1zefY5hiDGobvYnnl9ZxVc) | [Irremplaçable](https://open.spotify.com/album/4hvXCMXb75K5bhfagyLpcW) | 3:04 |
 | 280 | [Eternal Sunshine](https://open.spotify.com/track/73VevVSRPsGB4FFIasDEB2) | [Jean Lucas](https://open.spotify.com/artist/43nGYUDNoXAdaOc7sOI7SJ) | [Eternal Sunshine](https://open.spotify.com/album/5TvrJAZpjUqTATvZXDxCFr) | 2:27 |
 
-Snapshot ID: `MCw0ZTlkODY1YTY0NmY2NTMyOGMyOTk1NDk2YzA2MzI3NjdlODkxN2Zi`
+Snapshot ID: `MCxlYjQ1ZjA5Y2Y3ODQ0YmNjOThmZmU3YjU0YmUzNWRkMjJjMWYwMGQx`

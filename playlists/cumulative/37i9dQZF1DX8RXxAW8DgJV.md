@@ -4,12 +4,13 @@
 
 > Come on Girls, it's Time to get Ready and Glow!<br/>Cover : Rashi Khanna
 
-142 songs - 10 hr 54 min
+143 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aaha Thmizhamma](https://open.spotify.com/track/6iSH7oDT8fLiNFwFvOb84U) | [Balaji](https://open.spotify.com/artist/2K9nbaz5q8FpSEajKMlVeH), [Mathangi](https://open.spotify.com/artist/1FLKLH0gwcm3HOkQopsn9t) | [Kangalal Kaidhu Sei \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6RxE8OCOo4wkBI4QjHLevz) | 5:21 | 2022-10-18 | 2022-11-06 |
-| [Aga Naga \(From "Ponniyin Selvan Part\-2"\)](https://open.spotify.com/track/2vlR5QFDv26aIctbUDK6jj) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Ilango Krishnan](https://open.spotify.com/artist/58SpQmXPEzBZ5edRGCj8xo), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Ponniyin Selvan Part \- 2](https://open.spotify.com/album/49suOMXRb3AJIseI97Qu1J) | 4:03 | 2023-05-19 |  |
+| [Aga Naga \(From "Ponniyin Selvan Part\-2"\)](https://open.spotify.com/track/2AU6aT9op6YzjOmsHOGOo0) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Ilango Krishnan](https://open.spotify.com/artist/58SpQmXPEzBZ5edRGCj8xo), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Aga Naga \(From "Ponniyin Selvan Part\-2"\)](https://open.spotify.com/album/4HEACUVhQAahmsz9n5q3yn) | 4:03 | 2023-05-19 |  |
+| [Aga Naga \(From "Ponniyin Selvan Part\-2"\)](https://open.spotify.com/track/2vlR5QFDv26aIctbUDK6jj) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Ilango Krishnan](https://open.spotify.com/artist/58SpQmXPEzBZ5edRGCj8xo), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Ponniyin Selvan Part \- 2](https://open.spotify.com/album/49suOMXRb3AJIseI97Qu1J) | 4:03 | 2023-05-19 | 2024-03-05 |
 | [Aga Naga \(From “Ponniyin Selvan Part\-2”\)](https://open.spotify.com/track/4oUn3DozNxFnjxegR1GlkZ) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Aga Naga \(From “Ponniyin Selvan Part\-2”\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/5A576slaUQhlCvNZtWynEX) | 4:03 | 2023-05-19 | 2024-03-02 |
 | [Agalaathey](https://open.spotify.com/track/3KD82UwQKkD3wg1uwH9Y3L) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Prithivee](https://open.spotify.com/artist/2C4HzkDtpEuDwxiqsy5nj7) | [Agalaathey \(From "Nerkonda Paarvai"\)](https://open.spotify.com/album/1qO8jUPcxBlF06wf0xGnum) | 4:36 | 2021-06-24 | 2022-10-18 |
 | [Alagiya Sirukki \(From "Ka Pae Ranasingam"\)](https://open.spotify.com/track/3MAc337n7ky2L7BJNTEyBQ) | [Gold Devaraj](https://open.spotify.com/artist/2Daf4nkCTn4wwE3ckhBVRn), [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ) | [Alagiya Sirukki \(From "Ka Pae Ranasingam"\)](https://open.spotify.com/album/64y7c9dTEYYUcswyDaRicf) | 5:01 | 2021-06-24 | 2022-10-19 |

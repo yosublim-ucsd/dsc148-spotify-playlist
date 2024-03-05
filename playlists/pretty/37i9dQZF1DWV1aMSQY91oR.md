@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Meek Mill
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,340 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,351 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [MAUVAIS PAYEUR](https://open.spotify.com/track/6O305YQaWEWfaU1S0nTcx6) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [P.M.R.](https://open.spotify.com/album/7lRwTBtOa4iiN9jOXfwKxR) | 3:41 |
 | 50 | [What We Doing!? / Qu'est\-ce qu'on fait!?](https://open.spotify.com/track/7CaX4KsgLcmhwkcwsensvn) | [BU$HI](https://open.spotify.com/artist/2GIoAorOnT0Yp1jKyTzW7K), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [What We Doing!? / Qu'est\-ce qu'on fait!?](https://open.spotify.com/album/7IWx54OEov6VaGLamUs43C) | 3:03 |
 
-Snapshot ID: `MCxiODBiYzFiMzIyOTNmYzA3NTZhMTY5MjNhNTk3NDc1ZjVlMTQ2YTZl`
+Snapshot ID: `MCwzY2M1MmJiMjAxMDliZmUxZDgyMjFmMmU4YjIzMjg5Y2Y0YmFmODdj`

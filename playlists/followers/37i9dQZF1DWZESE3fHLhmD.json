@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 1279306,
+  "2024-03-05": 1279714,
   "date_first_scraped": "2023-07-28",
   "description": "Endlich Fr\u00fchling!",
   "name": "Fr\u00fchlingsgef\u00fchle",
@@ -563,6 +563,28 @@
       "duration_ms": 265360,
       "name": "Don't Forget Me",
       "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
+    },
+    {
+      "album": {
+        "name": "Don't Let Me Down (feat. JVKE)",
+        "url": "https://open.spotify.com/album/2m3RAFfpFPttHJIMBZKKCo"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168742,
+      "name": "Don't Let Me Down (feat. JVKE)",
+      "url": "https://open.spotify.com/track/046QZ0ociluzd0yjpY1tY4"
     },
     {
       "album": {
@@ -2819,7 +2841,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 140083,
       "name": "Wet Dream",
       "url": "https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u"

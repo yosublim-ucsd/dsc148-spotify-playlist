@@ -1,12 +1,12 @@
 {
   "description": "Kick back with the perfect mix of covers.",
-  "num_followers": 1183296,
+  "num_followers": 1183396,
   "original_name": "Ultimate Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDgzMzFjMGI0YzI3ZTJlYmI3NTk2NTdlZWM5Y2EwMjM1M2JkYzZj",
+  "snapshot_id": "MCxhNjRmY2Q2MTkxN2NlM2M5ODNlYzI4Zjc3YmQ1MmEyYjliMDMzOWYz",
   "tracks": [
     {
       "added_at": "2023-10-23 17:16:16",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "XO",
-        "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "XO",
-      "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "Complicated",
         "url": "https://open.spotify.com/album/7FqJvfHEUv3vbv9FZhpsgW"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 201933,
       "name": "Can't Help Falling In Love",
       "url": "https://open.spotify.com/track/6lfxq3CG4xtTiEg7opyCyx"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "XO",
+        "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -747,26 +747,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Cover Sessions, Vol. 3",
-        "url": "https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4"
-      },
-      "artists": [
-        {
-          "name": "Boyce Avenue",
-          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
-        },
-        {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
-        }
-      ],
-      "duration_ms": 222146,
-      "name": "We Can't Stop",
-      "url": "https://open.spotify.com/track/6owKuyHxUqidcAA6fPKSyy"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "With The Beatles (Remastered)",
         "url": "https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 177214,
       "name": "Baby One More Time - Recorded at Spotify Studios New York City",
       "url": "https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "Cover Sessions, Vol. 3",
+        "url": "https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4"
+      },
+      "artists": [
+        {
+          "name": "Boyce Avenue",
+          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
+        },
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+        }
+      ],
+      "duration_ms": 222146,
+      "name": "We Can't Stop",
+      "url": "https://open.spotify.com/track/6owKuyHxUqidcAA6fPKSyy"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -2811,6 +2811,22 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
+        "name": "Another Bundle of Tantrums",
+        "url": "https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 167296,
+      "name": "Everybody Hurts",
+      "url": "https://open.spotify.com/track/60DpmSyB1N1NfPrZnUSslG"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
         "name": "Stitches",
         "url": "https://open.spotify.com/album/0SHdoaGuQV2EjhQ6HEX9K2"
       },
@@ -2823,6 +2839,26 @@
       "duration_ms": 246000,
       "name": "Stitches",
       "url": "https://open.spotify.com/track/3Jy394MtpM2xciRBTzxBlg"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "Cold Water",
+        "url": "https://open.spotify.com/album/0MVvWDGTxhdNV1KcwmUoyO"
+      },
+      "artists": [
+        {
+          "name": "Megan Davies",
+          "url": "https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5"
+        },
+        {
+          "name": "Kyle Nachtigal",
+          "url": "https://open.spotify.com/artist/55dWGlPHFYuBbQYZQlSaKY"
+        }
+      ],
+      "duration_ms": 181595,
+      "name": "Cold Water",
+      "url": "https://open.spotify.com/track/4esmMZzUcSw6cgd8WbSOgi"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -2847,22 +2883,6 @@
       "duration_ms": 218285,
       "name": "How Deep is Your Love",
       "url": "https://open.spotify.com/track/1HIj1pIcx7lLPojZwl621A"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
-        "name": "Another Bundle of Tantrums",
-        "url": "https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 167296,
-      "name": "Everybody Hurts",
-      "url": "https://open.spotify.com/track/60DpmSyB1N1NfPrZnUSslG"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -2915,22 +2935,18 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Cold Water",
-        "url": "https://open.spotify.com/album/0MVvWDGTxhdNV1KcwmUoyO"
+        "name": "Bundle of Tantrums",
+        "url": "https://open.spotify.com/album/4yJzEyjDPwhSzZsn5ShGZI"
       },
       "artists": [
         {
-          "name": "Megan Davies",
-          "url": "https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5"
-        },
-        {
-          "name": "Kyle Nachtigal",
-          "url": "https://open.spotify.com/artist/55dWGlPHFYuBbQYZQlSaKY"
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
         }
       ],
-      "duration_ms": 181595,
-      "name": "Cold Water",
-      "url": "https://open.spotify.com/track/4esmMZzUcSw6cgd8WbSOgi"
+      "duration_ms": 159000,
+      "name": "Titanium",
+      "url": "https://open.spotify.com/track/6z6Kn5smHm9RzcQuyFxoWh"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -2995,22 +3011,6 @@
       "duration_ms": 193280,
       "name": "Take on Me",
       "url": "https://open.spotify.com/track/4GkELkyI3VJstSugqnP39K"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
-        "name": "Bundle of Tantrums",
-        "url": "https://open.spotify.com/album/4yJzEyjDPwhSzZsn5ShGZI"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Titanium",
-      "url": "https://open.spotify.com/track/6z6Kn5smHm9RzcQuyFxoWh"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -3323,22 +3323,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/4kAAzBoHtNQaOYTTQGQ5YH"
-      },
-      "artists": [
-        {
-          "name": "Ysabelle Cuevas",
-          "url": "https://open.spotify.com/artist/323nxrsc0C5JSsmlN2srN8"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/5H6Bc7oEWYuKrwb1pUZWhh"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "Tree",
         "url": "https://open.spotify.com/album/3pALJvtTxIm5i1aYlaZDnA"
       },
@@ -3351,6 +3335,22 @@
       "duration_ms": 235906,
       "name": "XO",
       "url": "https://open.spotify.com/track/0oa6d6Nz5BmP7jquxEoyMm"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/4kAAzBoHtNQaOYTTQGQ5YH"
+      },
+      "artists": [
+        {
+          "name": "Ysabelle Cuevas",
+          "url": "https://open.spotify.com/artist/323nxrsc0C5JSsmlN2srN8"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/5H6Bc7oEWYuKrwb1pUZWhh"
     },
     {
       "added_at": "2023-10-23 17:16:16",

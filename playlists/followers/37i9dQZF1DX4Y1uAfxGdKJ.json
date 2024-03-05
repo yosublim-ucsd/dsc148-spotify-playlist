@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 143713,
+  "2024-03-05": 143793,
   "date_first_scraped": "2022-09-23",
   "description": "Driving electronic grooves for improved motivation and performance.",
   "name": "Electronic Running",
@@ -1311,6 +1311,24 @@
       "duration_ms": 152903,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/3cBsoWySE5misjwiHXpe4h"
+    },
+    {
+      "album": {
+        "name": "How I Follow",
+        "url": "https://open.spotify.com/album/6GZ0NGOgrTbQVbDfXF2yD9"
+      },
+      "artists": [
+        {
+          "name": "Chelle Ives",
+          "url": "https://open.spotify.com/artist/7birWEa67r8nIby8rV64EJ"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415055,
+      "name": "How I Follow",
+      "url": "https://open.spotify.com/track/2JEGk8aWyAenSptDVIuRGh"
     },
     {
       "album": {

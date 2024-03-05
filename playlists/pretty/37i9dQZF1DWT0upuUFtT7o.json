@@ -1,12 +1,12 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: Chezile",
-  "num_followers": 208096,
+  "num_followers": 208129,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Y2NlMTQ0OTFkNDc1YjdjZmIzNjhjMDVlZGIwYmRhNTM2Y2RjZTJk",
+  "snapshot_id": "MCwwYzY1M2UwYTA4N2Q2YzE3YjRlMjhhZWJkNzQxYTE0MjhkYzBjY2Ew",
   "tracks": [
     {
       "added_at": "2024-02-28 05:00:00",
@@ -127,6 +127,26 @@
       "duration_ms": 233573,
       "name": "Glory",
       "url": "https://open.spotify.com/track/4kjQHsISSXI4pnIVH4WvPn"
+    },
+    {
+      "added_at": "2024-03-04 18:43:01",
+      "album": {
+        "name": "Neverrr Everrr",
+        "url": "https://open.spotify.com/album/2IdctfxFPSYLUzPwFDRAhs"
+      },
+      "artists": [
+        {
+          "name": "villagerrr",
+          "url": "https://open.spotify.com/artist/1vQ5CUq3dcQkRRCGd94UD5"
+        },
+        {
+          "name": "Merce Lemon",
+          "url": "https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH"
+        }
+      ],
+      "duration_ms": 221912,
+      "name": "Neverrr Everrr",
+      "url": "https://open.spotify.com/track/1AEydsGON0N56XlkTR0N2U"
     },
     {
       "added_at": "2024-02-14 05:00:00",

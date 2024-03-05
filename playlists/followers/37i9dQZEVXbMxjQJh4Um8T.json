@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 6574,
+  "2024-03-05": 6573,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Andorra.",
   "name": "Viral 50 - Andorra",
@@ -61,7 +61,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 177338,
       "name": "Algo Sencillito",
       "url": "https://open.spotify.com/track/3cHYqc8Wc2SNWjzxy2A1FS"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 172095,
       "name": "ASI ES LA VIDA",
       "url": "https://open.spotify.com/track/0Me3GyNuLOa1YTIxhJPyCn"
@@ -873,7 +873,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 191414,
       "name": "Falsos Recuerdos",
       "url": "https://open.spotify.com/track/4snJ71Uz5KvX1CW0SaUiZY"
@@ -1109,7 +1109,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 260370,
       "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
       "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
@@ -1223,7 +1223,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 172264,
       "name": "La Diabla",
       "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
@@ -1259,7 +1259,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 201044,
       "name": "La Fiesta",
       "url": "https://open.spotify.com/track/2o6pi3nx1UAYxuBccabCMQ"
@@ -1303,7 +1303,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 134144,
       "name": "La Morocha",
       "url": "https://open.spotify.com/track/6vRQqxOhUFd78p5tL8jXr7"
@@ -2004,6 +2004,28 @@
     },
     {
       "album": {
+        "name": "Piel",
+        "url": "https://open.spotify.com/album/4HB0tHV2edhM1QJXFYeKLy"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141079,
+      "name": "Piel",
+      "url": "https://open.spotify.com/track/4wS0TnQzVkY9ML1BPKpOk1"
+    },
+    {
+      "album": {
         "name": "PLIS",
         "url": "https://open.spotify.com/album/1Zbxfjz8ovbTb2mMX5kYCX"
       },
@@ -2457,7 +2479,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 236160,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg"
@@ -2629,7 +2651,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -2815,7 +2837,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 157846,
       "name": "UNA BACHATA",
       "url": "https://open.spotify.com/track/4SmMe198ot30paOyvuTH5w"
@@ -2867,7 +2889,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-26",
+      "date_removed": null,
       "duration_ms": 243898,
       "name": "Una Foto Remix (feat. Emilia)",
       "url": "https://open.spotify.com/track/1kqH58eGh2ZTOHwqBIB2tM"

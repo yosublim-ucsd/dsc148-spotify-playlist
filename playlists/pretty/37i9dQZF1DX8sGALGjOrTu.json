@@ -1,12 +1,12 @@
 {
   "description": "Back to the golden age of the scene. Cover: Underoath",
-  "num_followers": 463989,
+  "num_followers": 464185,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZmVkY2RlZjhkNzU4YmViZDYxMDJjMDFlOTExZmY4MjBiOTQyMmZm",
+  "snapshot_id": "MCwzZDE3N2MwNzJiMDRjYWJmMDdhYmI2YWI1ZTQxODQ4ZjNjYTkzZmM5",
   "tracks": [
     {
       "added_at": "2023-03-28 16:00:32",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "What Separates Me From You",
-        "url": "https://open.spotify.com/album/6I2SUr0MolRUiDEcZAbSWm"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 202640,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/4JsDHMv5PVO8N07DbDq33r"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "Dying Is Your Latest Fashion",
         "url": "https://open.spotify.com/album/01ufkmZ5R6UvEqKWfuNotw"
       },
@@ -319,18 +303,18 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "Good Apollo I'm Burning Star IV Volume One: From Fear Through The Eyes Of Madness",
-        "url": "https://open.spotify.com/album/4nYsnQpTAQaPzrPc6rOsBN"
+        "name": "What Separates Me From You",
+        "url": "https://open.spotify.com/album/6I2SUr0MolRUiDEcZAbSWm"
       },
       "artists": [
         {
-          "name": "Coheed and Cambria",
-          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
         }
       ],
-      "duration_ms": 374973,
-      "name": "Welcome Home",
-      "url": "https://open.spotify.com/track/42GP0xKtkolBnmqQRvSllO"
+      "duration_ms": 202640,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/4JsDHMv5PVO8N07DbDq33r"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -347,6 +331,22 @@
       "duration_ms": 219106,
       "name": "If I'm James Dean, You're Audrey Hepburn",
       "url": "https://open.spotify.com/track/2D4LEUzvLRCQOLMxnajH72"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "Good Apollo I'm Burning Star IV Volume One: From Fear Through The Eyes Of Madness",
+        "url": "https://open.spotify.com/album/4nYsnQpTAQaPzrPc6rOsBN"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "duration_ms": 374973,
+      "name": "Welcome Home",
+      "url": "https://open.spotify.com/track/42GP0xKtkolBnmqQRvSllO"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -527,38 +527,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "The Used",
-        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 242133,
-      "name": "Buried Myself Alive",
-      "url": "https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
-        "name": "This War Is Ours (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/56a9Tuww0ddc52DHYG61Ai"
-      },
-      "artists": [
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        }
-      ],
-      "duration_ms": 266733,
-      "name": "This War Is Ours (The Guillotine II)",
-      "url": "https://open.spotify.com/track/1z33QOn2Hcq9SfI5pES25L"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "I Brought You My Bullets, You Brought Me Your Love",
         "url": "https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605"
       },
@@ -575,6 +543,22 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 242133,
+      "name": "Buried Myself Alive",
+      "url": "https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
         "name": "Define The Great Line",
         "url": "https://open.spotify.com/album/6YQu7tXYfN1r2NLx8tfEI6"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 242413,
       "name": "Writing On The Walls",
       "url": "https://open.spotify.com/track/313yF0VXTCmFFoYEJF7nBQ"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "This War Is Ours (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/56a9Tuww0ddc52DHYG61Ai"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "duration_ms": 266733,
+      "name": "This War Is Ours (The Guillotine II)",
+      "url": "https://open.spotify.com/track/1z33QOn2Hcq9SfI5pES25L"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -635,6 +635,22 @@
       "duration_ms": 237680,
       "name": "F.C.P.R.E.M.I.X.",
       "url": "https://open.spotify.com/track/4OsLDuaH0bWR6xM6nj66F8"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "They're Only Chasing Safety",
+        "url": "https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "duration_ms": 262573,
+      "name": "Reinventing Your Exit",
+      "url": "https://open.spotify.com/track/591vJuuep0gfPhx9p8WPD5"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -719,38 +735,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "The Silence In Black And White (Re-Issue)",
-        "url": "https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 239520,
-      "name": "Niki Fm",
-      "url": "https://open.spotify.com/track/3eFx554nKpVNe4otynSsK0"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
-        "name": "They're Only Chasing Safety",
-        "url": "https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19"
-      },
-      "artists": [
-        {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        }
-      ],
-      "duration_ms": 262573,
-      "name": "Reinventing Your Exit",
-      "url": "https://open.spotify.com/track/591vJuuep0gfPhx9p8WPD5"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "The Artist In The Ambulance",
         "url": "https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA"
       },
@@ -783,18 +767,18 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "Let It Enfold You",
-        "url": "https://open.spotify.com/album/1dnNjLBeisuc0bUp3wwPR1"
+        "name": "The Silence In Black And White (Re-Issue)",
+        "url": "https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z"
       },
       "artists": [
         {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 179986,
-      "name": "Buried a Lie",
-      "url": "https://open.spotify.com/track/5sDwxoaXxrffN65UfWPfRR"
+      "duration_ms": 239520,
+      "name": "Niki Fm",
+      "url": "https://open.spotify.com/track/3eFx554nKpVNe4otynSsK0"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -859,6 +843,22 @@
       "duration_ms": 216293,
       "name": "The Words \"Best Friend\" Become Redefined",
       "url": "https://open.spotify.com/track/6GKhlcZeyEW9Y5ZLZ37HZ3"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "Let It Enfold You",
+        "url": "https://open.spotify.com/album/1dnNjLBeisuc0bUp3wwPR1"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 179986,
+      "name": "Buried a Lie",
+      "url": "https://open.spotify.com/track/5sDwxoaXxrffN65UfWPfRR"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "The Emptiness",
-        "url": "https://open.spotify.com/album/4HOobzcnXNTNaKxP2MIBrg"
-      },
-      "artists": [
-        {
-          "name": "Alesana",
-          "url": "https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg"
-        }
-      ],
-      "duration_ms": 237840,
-      "name": "The Thespian",
-      "url": "https://open.spotify.com/track/2JPe6EP1iDsVwiPHwvhik0"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "The Art Of Drowning",
         "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 207693,
       "name": "The Days Of The Phoenix",
       "url": "https://open.spotify.com/track/7oSQG8KgYbrcR2kgwUD9SU"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "The Emptiness",
+        "url": "https://open.spotify.com/album/4HOobzcnXNTNaKxP2MIBrg"
+      },
+      "artists": [
+        {
+          "name": "Alesana",
+          "url": "https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg"
+        }
+      ],
+      "duration_ms": 237840,
+      "name": "The Thespian",
+      "url": "https://open.spotify.com/track/2JPe6EP1iDsVwiPHwvhik0"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
+        "name": "On Frail Wings Of Vanity And Wax",
+        "url": "https://open.spotify.com/album/137oCE2bto6cK6EKMzhCGa"
+      },
+      "artists": [
+        {
+          "name": "Alesana",
+          "url": "https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "Ambrosia",
+      "url": "https://open.spotify.com/track/0CsngWR4MiYHiDbBebVxql"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
         "name": "Bone Palace Ballet: Grand Coda",
         "url": "https://open.spotify.com/album/6hRCJsYR4b3S2WAtrV29Hk"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 261240,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/48H6uWuBYeeZUiXwb5f69K"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
-        "name": "On Frail Wings Of Vanity And Wax",
-        "url": "https://open.spotify.com/album/137oCE2bto6cK6EKMzhCGa"
-      },
-      "artists": [
-        {
-          "name": "Alesana",
-          "url": "https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg"
-        }
-      ],
-      "duration_ms": 185333,
-      "name": "Ambrosia",
-      "url": "https://open.spotify.com/track/0CsngWR4MiYHiDbBebVxql"
     },
     {
       "added_at": "2023-03-28 16:00:32",

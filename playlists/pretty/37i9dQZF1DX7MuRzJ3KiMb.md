@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 
 > el amor es <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,596 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,624 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 43 | [radar](https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [radar](https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei) | 2:40 |
 | 44 | [Amantes](https://open.spotify.com/track/7fsk4uHED00HfG2z5Hpq5h) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Amantes \- Su Majestad La Eternidad](https://open.spotify.com/album/7HvthDR7lGp5JNua540inw) | 3:52 |
 | 45 | [Te Encontré](https://open.spotify.com/track/1LlyK223zyuDRCRjJbWPue) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Tu Historia](https://open.spotify.com/album/37hygnVgTNDZxFQ9FJMLII) | 3:32 |
-| 46 | [Florecer](https://open.spotify.com/track/0uEwlYeHAiVNUCcXbx6ntR) | [valeria dávila](https://open.spotify.com/artist/2CoZrPsp90NW3x0jvWKmbj) | [Florecer](https://open.spotify.com/album/3KvbOKpjZB95IwRwnW0TZk) | 3:34 |
-| 47 | [Tu Pirata Soy Yo](https://open.spotify.com/track/6O1o9VfjMgZEZeir5Ws6pF) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Tu Pirata Soy Yo](https://open.spotify.com/album/3CK1MWQvuf8LVJWhmldkUU) | 2:47 |
+| 46 | [Tu Pirata Soy Yo](https://open.spotify.com/track/6O1o9VfjMgZEZeir5Ws6pF) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Tu Pirata Soy Yo](https://open.spotify.com/album/3CK1MWQvuf8LVJWhmldkUU) | 2:47 |
+| 47 | [Florecer](https://open.spotify.com/track/0uEwlYeHAiVNUCcXbx6ntR) | [valeria dávila](https://open.spotify.com/artist/2CoZrPsp90NW3x0jvWKmbj) | [Florecer](https://open.spotify.com/album/3KvbOKpjZB95IwRwnW0TZk) | 3:34 |
 | 48 | [Flecha](https://open.spotify.com/track/6XtOM0xVBmhjX8mRkrWo9z) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Flecha](https://open.spotify.com/album/6ppWzVBtrtH6Pfzkz1gx9V) | 3:53 |
 | 49 | [Bolero Estelar](https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Bolero Estelar](https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E) | 3:58 |
 | 50 | [De Verdad](https://open.spotify.com/track/1afwnLVsqusPl2cAUQ94ky) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [De Verdad](https://open.spotify.com/album/3yMBrg5Xa9WdumtUJlE1gW) | 3:26 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 64 | [Hubo Algo](https://open.spotify.com/track/2mjfefMcjK9w6cN6oE5xV4) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hubo Algo](https://open.spotify.com/album/5pJYHPBXmibLJSFDSUYeaM) | 5:11 |
 | 65 | [TQM](https://open.spotify.com/track/0fEnop5LLsiuKZXyl8ZU48) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Recuerdos de un amor](https://open.spotify.com/album/2lx1EgWOAJDBeX67kIArlP) | 3:30 |
 | 66 | [Ir por un Café](https://open.spotify.com/track/0oYWgghilCHzscMzQOVONP) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF) | [Ir por un Café](https://open.spotify.com/album/56uFQSAHC1c2PwWux1GeaD) | 3:20 |
-| 67 | [Alguien Como Tú](https://open.spotify.com/track/29c3Pm5ChGMesIzZFUsCpE) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Alguien Como Tú](https://open.spotify.com/album/1iTbNUit81UbxYbMRteBlL) | 3:57 |
-| 68 | [capturas de pantalla](https://open.spotify.com/track/6HnW2csrZ7MKRoqnVJpjHR) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [capturas de pantalla](https://open.spotify.com/album/0Tq8ZFYOAcHmAnnKn3kBNL) | 3:26 |
-| 69 | [Para Verte](https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Para Verte](https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk) | 3:02 |
-| 70 | [Caguamita Banquetera](https://open.spotify.com/track/20CVdUmIYyPy5Qcqr7uzrj) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Caguamita Banquetera](https://open.spotify.com/album/4IoOjS1QllQtS7JV6ltzLG) | 2:35 |
-| 71 | [Automático](https://open.spotify.com/track/6Yr96hQHVxOsysOEiAxaUl) | [Juan Solo](https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV) | [Automático](https://open.spotify.com/album/6MQEA52oQyxgPLiZ0B3lDI) | 3:06 |
-| 72 | [Café Helado](https://open.spotify.com/track/2ccYWOxUJX6mA5Lxg6Sxk9) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Café Helado](https://open.spotify.com/album/4i3R4de1ZcFsCfjkW5LL9Q) | 3:12 |
+| 67 | [capturas de pantalla](https://open.spotify.com/track/6HnW2csrZ7MKRoqnVJpjHR) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [capturas de pantalla](https://open.spotify.com/album/0Tq8ZFYOAcHmAnnKn3kBNL) | 3:26 |
+| 68 | [Automático](https://open.spotify.com/track/6Yr96hQHVxOsysOEiAxaUl) | [Juan Solo](https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV) | [Automático](https://open.spotify.com/album/6MQEA52oQyxgPLiZ0B3lDI) | 3:06 |
+| 69 | [Alguien Como Tú](https://open.spotify.com/track/29c3Pm5ChGMesIzZFUsCpE) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Alguien Como Tú](https://open.spotify.com/album/1iTbNUit81UbxYbMRteBlL) | 3:57 |
+| 70 | [Para Verte](https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Para Verte](https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk) | 3:02 |
+| 71 | [Café Helado](https://open.spotify.com/track/2ccYWOxUJX6mA5Lxg6Sxk9) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Café Helado](https://open.spotify.com/album/4i3R4de1ZcFsCfjkW5LL9Q) | 3:12 |
+| 72 | [Caguamita Banquetera](https://open.spotify.com/track/20CVdUmIYyPy5Qcqr7uzrj) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Caguamita Banquetera](https://open.spotify.com/album/4IoOjS1QllQtS7JV6ltzLG) | 2:35 |
 | 73 | [Como una Flecha](https://open.spotify.com/track/51HF59FrEDRz9NTVvcXhG6) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [En Lo Que Llega La Primavera](https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig) | 4:11 |
 | 74 | [Contigo Me Quedo](https://open.spotify.com/track/3iwURMcbfTjtOZcBrVwQh5) | [Tufic](https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV) | [Contigo Me Quedo](https://open.spotify.com/album/7LOGZuxzTIwBT4XnuwOxDV) | 3:16 |
 | 75 | [Línea Bonita](https://open.spotify.com/track/3SklsfsyuCjp4Ncn6llxdN) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Línea Bonita](https://open.spotify.com/album/0HTsBpLOhXNyjKl3Urt4Sb) | 4:07 |
 
-Snapshot ID: `MCxkMDRjNzIzNTk2MWEzN2NhYWZiMWI0YzcwY2M2OTQ2ZjM0MTM1ZjJl`
+Snapshot ID: `MCw3ZTc2ZDNjMmM2MGIwZjEyNmMxY2EwOTM0ZjIyNjZiNDY1YzMyNjQy`

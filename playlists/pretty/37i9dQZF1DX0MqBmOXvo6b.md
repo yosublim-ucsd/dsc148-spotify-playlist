@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MqBmOXvo6b.md) - [plain]
 
 > Concéntrate al máximo, sin distracciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,321 likes - 250 songs - 10 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,372 likes - 250 songs - 10 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MqBmOXvo6b.md) - [plain]
 | 30 | [In the clouds](https://open.spotify.com/track/3hnm4zvIqFhz6FsWK2O6HM) | [Lydia Barnes](https://open.spotify.com/artist/6AoY3GD7zFJmvpJNKRwvqN) | [In the clouds](https://open.spotify.com/album/5LXcMPLisz4OwQgaAkuwSD) | 2:03 |
 | 31 | [Sogni di Positano](https://open.spotify.com/track/3tRkhS5byc7Dt4zjwliaWY) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Sogni di Positano](https://open.spotify.com/album/3mdlYi31wx0txhBSKaSP6x) | 3:27 |
 | 32 | [Warm Embrace](https://open.spotify.com/track/6vmSs1vZTUYACBCW7udcnp) | [Ann Hildering](https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx) | [Warm Embrace](https://open.spotify.com/album/5TY47fQyAFrMzWLcsl08UY) | 2:43 |
-| 33 | [Daffodils](https://open.spotify.com/track/4JHlWtvac2EIxLMa8mMyQc) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Daffodils](https://open.spotify.com/album/2McYGbue7ucLoac2dHLYWs) | 3:12 |
-| 34 | [Hammock](https://open.spotify.com/track/7LTVGmS15JBwO11pTS4ykt) | [Vaughn Harrison](https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8) | [Hammock](https://open.spotify.com/album/02duehzy4k0kc3iDwoLVkr) | 2:06 |
+| 33 | [Hammock](https://open.spotify.com/track/7LTVGmS15JBwO11pTS4ykt) | [Vaughn Harrison](https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8) | [Hammock](https://open.spotify.com/album/02duehzy4k0kc3iDwoLVkr) | 2:06 |
+| 34 | [Daffodils](https://open.spotify.com/track/4JHlWtvac2EIxLMa8mMyQc) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Daffodils](https://open.spotify.com/album/2McYGbue7ucLoac2dHLYWs) | 3:12 |
 | 35 | [Lost to memories](https://open.spotify.com/track/6ISg0RvvHZ2qq1wE8Mhyyx) | [Aimon Cour](https://open.spotify.com/artist/3LkHg6D2NUGLLrqpnp1HTt) | [Lost to memories](https://open.spotify.com/album/4GAsrXkkHDnxSEdtzU63Xj) | 2:14 |
 | 36 | [somewhere else, together](https://open.spotify.com/track/4Pl37bufUvxJOhLJIfLCcl) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [somewhere else, together](https://open.spotify.com/album/1qLrUd6oXUZoNGZAVY8mDX) | 3:09 |
 | 37 | [There Is Light](https://open.spotify.com/track/4ZdgNKRy8OJcuUEAfErHfZ) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [There Is Light](https://open.spotify.com/album/6AcZrFuuDEO6AJAOTNM6Jg) | 2:58 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MqBmOXvo6b.md) - [plain]
 | 67 | [The hills](https://open.spotify.com/track/2wbG3Ma6mHGHI1cJv7r67u) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [The hills](https://open.spotify.com/album/1Hcu386OoNkU3xHgoTwmid) | 2:52 |
 | 68 | [Felt Improv No\. 10](https://open.spotify.com/track/67821VRXVngHwGDcs2IKy3) | [Elias Kiefer](https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB) | [Felt Improvisations](https://open.spotify.com/album/4hjtToG3IRrxVpfo6BiQaX) | 2:43 |
 | 69 | [Når du er nær](https://open.spotify.com/track/5sRJUBDi77h3eJlhS2O7tY) | [Leah Dreyer](https://open.spotify.com/artist/7EcrBxXyI6KATCPVNE6GCU) | [Når du er nær](https://open.spotify.com/album/5O8GtiNzgfsJxp7eC8w8hC) | 2:04 |
-| 70 | [Plum Coulee](https://open.spotify.com/track/3xfiHpIjVN3pN9wfD6BYMD) | [Michael Janzen](https://open.spotify.com/artist/2Vx2Zfx7Gxu6A6xbwbbtFg) | [Plum Coulee](https://open.spotify.com/album/4sfvTd6E3B6Ta0843XB9WT) | 2:53 |
-| 71 | [Inmersion](https://open.spotify.com/track/2U5SDqmvtVPPV1RBKyaZH9) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Inmersion](https://open.spotify.com/album/4UKB7Z0S4Qwy6SjYddkmk1) | 2:19 |
+| 70 | [Inmersion](https://open.spotify.com/track/2U5SDqmvtVPPV1RBKyaZH9) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Inmersion](https://open.spotify.com/album/4UKB7Z0S4Qwy6SjYddkmk1) | 2:19 |
+| 71 | [Plum Coulee](https://open.spotify.com/track/3xfiHpIjVN3pN9wfD6BYMD) | [Michael Janzen](https://open.spotify.com/artist/2Vx2Zfx7Gxu6A6xbwbbtFg) | [Plum Coulee](https://open.spotify.com/album/4sfvTd6E3B6Ta0843XB9WT) | 2:53 |
 | 72 | [Lik Eit Tre \- Ps.1](https://open.spotify.com/track/57ps5B261JySHVUUcvwrc3) | [John Vegard Schow](https://open.spotify.com/artist/00bOFN0VJ7IQqtK3TdRcsN) | [Lik Eit Tre \(Ps.1\)](https://open.spotify.com/album/7zLJpFboXTbU17vDakcROE) | 2:34 |
 | 73 | [Wisteria Blue](https://open.spotify.com/track/2uDpyb11bwgMOqLQ1ZQ9E9) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Wisteria Blue](https://open.spotify.com/album/53Dsdz4bBI6oIzsRBNSTh0) | 2:27 |
 | 74 | [Autumn Night](https://open.spotify.com/track/7lbdEiLUZS41yFbWuMCEGj) | [Joy Meyer\-Williams](https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU) | [Autumn Night](https://open.spotify.com/album/3eY3REfE9d7iRNLQucvcE2) | 2:54 |
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MqBmOXvo6b.md) - [plain]
 | 83 | [Early Memories](https://open.spotify.com/track/0yAgdDXxal3Em3W4X1bkGq) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Early Memories](https://open.spotify.com/album/0jFxPV4j7bMwugDCJsMt7g) | 2:33 |
 | 84 | [The Seventh Wave](https://open.spotify.com/track/4rRjQydi87TheoZVntdiER) | [Colias Fieldii](https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v) | [The Seventh Wave](https://open.spotify.com/album/2fuIB47RUiieeW834wdide) | 2:08 |
 | 85 | [Forsaken Land](https://open.spotify.com/track/3pWlQdfMNp4NabYbPAQcje) | [Lorenzo Balzotti](https://open.spotify.com/artist/3hHeHet790nZ3x8ulsu6tC) | [Forsaken Land](https://open.spotify.com/album/2GrqPpnPembHDXm1cWE4oY) | 3:02 |
-| 86 | [Letter Of Fervid](https://open.spotify.com/track/6Zn3YUW28L4M2Smxz7tyIB) | [Sula Black](https://open.spotify.com/artist/2uzZ9S1yshc7xkAzbga5X0) | [Letter Of Fervid](https://open.spotify.com/album/7erSjN1YTxq2JTs8w90lGg) | 3:08 |
-| 87 | [Rondel](https://open.spotify.com/track/7lE18SWzAxh5SfMbie92jN) | [Lydia Webber](https://open.spotify.com/artist/0lwFe0MGAOei9D2rl5jALq) | [Beija\-flor](https://open.spotify.com/album/5iEY08mWgZExTAqd9oxXJx) | 2:51 |
-| 88 | [Mol allena](https://open.spotify.com/track/7J1KmTQJFGhkyKHNZBbmc0) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Apelblom](https://open.spotify.com/album/6uJkw3rmz4nuIcoMxVRBY1) | 2:26 |
+| 86 | [Mol allena](https://open.spotify.com/track/7J1KmTQJFGhkyKHNZBbmc0) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Apelblom](https://open.spotify.com/album/6uJkw3rmz4nuIcoMxVRBY1) | 2:26 |
+| 87 | [Letter Of Fervid](https://open.spotify.com/track/6Zn3YUW28L4M2Smxz7tyIB) | [Sula Black](https://open.spotify.com/artist/2uzZ9S1yshc7xkAzbga5X0) | [Letter Of Fervid](https://open.spotify.com/album/7erSjN1YTxq2JTs8w90lGg) | 3:08 |
+| 88 | [Rondel](https://open.spotify.com/track/7lE18SWzAxh5SfMbie92jN) | [Lydia Webber](https://open.spotify.com/artist/0lwFe0MGAOei9D2rl5jALq) | [Beija\-flor](https://open.spotify.com/album/5iEY08mWgZExTAqd9oxXJx) | 2:51 |
 | 89 | [Metanoia](https://open.spotify.com/track/5fRCo9FZmnE92j7BnY3Win) | [Constance Lucas](https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq) | [Metanoia](https://open.spotify.com/album/1CiQYlksvhi8cgPaFno6kl) | 2:21 |
 | 90 | [Rest](https://open.spotify.com/track/6qetTUm5h5LvvHCsALacJt) | [Leona Boyd](https://open.spotify.com/artist/7jEJ0zKV57ryzZm5tEVGJe) | [Rest](https://open.spotify.com/album/0xawmcCxkH1qHBiFYwyVYU) | 2:47 |
 | 91 | [Barren Lands](https://open.spotify.com/track/0o56FySlmk0hN1FoVqfnue) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Barren Lands](https://open.spotify.com/album/0ZQ69ATAPr87F8ZQV40CbQ) | 2:19 |
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MqBmOXvo6b.md) - [plain]
 | 249 | [Erinnerungen](https://open.spotify.com/track/0mXVKfTSOA5wdLx1COKyLc) | [Agnes Klein](https://open.spotify.com/artist/5ZxksGDvjeNLxyy7t4NSpV) | [Erinnerungen](https://open.spotify.com/album/52JKRxmZf174HBImkvwN2q) | 3:10 |
 | 250 | [Slow Voltage](https://open.spotify.com/track/58AYQMGOeuVJn7JppQU7Yd) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Slow Voltage](https://open.spotify.com/album/6MeUn1jRWdr2LAqA2pivVX) | 2:58 |
 
-Snapshot ID: `MCxhMjhlNzlhZDcxZWFhNjAyM2Y5ZWZhNmNkYTJkOWJkZGMwN2RjNWZl`
+Snapshot ID: `MCw5Njk3YTk4NGMyNGU0NDc5ZjEzYTc5MmViOTc2M2FiYzBkYmVhOTc5`

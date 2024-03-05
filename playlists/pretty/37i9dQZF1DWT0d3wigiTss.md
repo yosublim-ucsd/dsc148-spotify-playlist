@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0d3wigiTss.md) - [plain]
 
 > Adormecer ao som relaxante da chuva.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,600 likes - 300 songs - 13 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,723 likes - 300 songs - 13 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,13 +101,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0d3wigiTss.md) - [plain]
 | 91 | [Wellness Rain](https://open.spotify.com/track/4rKp4sdH20PMMy6XBNARZt) | [The Mist](https://open.spotify.com/artist/5fsQWVVg6dLqhbuKcvroor) | [Grey Skies](https://open.spotify.com/album/6QnNHHgbQ8g9Mk7PEbwKj1) | 3:28 |
 | 92 | [Perfect Rainy Green Noise](https://open.spotify.com/track/7vfumRcj1Ga69SEulVaFQJ) | [JBE Noise Factory](https://open.spotify.com/artist/42f8Y2VsCZeUEdkbWxQejb) | [Green Noise Vol\. 1](https://open.spotify.com/album/5ZSsHlWLo7Zginr7ig47Pw) | 2:38 |
 | 93 | [Stormy Road](https://open.spotify.com/track/5LOUGQmqx2GCTUt0oaQcFc) | [April Shower](https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD) | [Countryside Storm](https://open.spotify.com/album/3sQS3qy5lYAOuzuBoxw2eY) | 3:28 |
-| 94 | [Graue Wolken](https://open.spotify.com/track/1SVyDxMo3VtdWz1fzegvDy) | [BLITZ](https://open.spotify.com/artist/0Mh5A7teUHad8RrOy9TvkH) | [Graue Wolken](https://open.spotify.com/album/6rCYUB4w56TeN96r9qdjK1) | 3:28 |
-| 95 | [Rain On The Autumn Leaves](https://open.spotify.com/track/4Uclrcxkq2wCWX5ieA0LfN) | [Northerly Nature](https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1) | [Natural Serenity](https://open.spotify.com/album/3pJL4HWm5phcV0FEvFd7Iz) | 3:29 |
-| 96 | [Rainy Hour](https://open.spotify.com/track/7GO0aybLNh8Rd7gcfZIuT0) | [Skyyy](https://open.spotify.com/artist/1d1rh6BlGzeXaj67hVeDXe) | [Tears](https://open.spotify.com/album/1EuUFN58BKOLkYDMru8kVh) | 2:35 |
-| 97 | [Droplet Drift](https://open.spotify.com/track/5L7KXB9VytvwVTz7qcuCL9) | [Instant Recuperate](https://open.spotify.com/artist/38y9kFWR4BFY9lhR6dXMBV) | [Droplet Drift](https://open.spotify.com/album/280YFBsxQ3p9XvxZ94RtVy) | 3:08 |
-| 98 | [Noise Rain](https://open.spotify.com/track/1Vxx4lP5fRdm4A18AwNGBu) | [Natures Orchestra](https://open.spotify.com/artist/4lpovYMDiersW7wuJ3P5Ep) | [Noise Rain](https://open.spotify.com/album/0gQvJtixPCxHTn9GGogXEy) | 2:44 |
-| 99 | [Sleeping To Thunder](https://open.spotify.com/track/3caqSbL4x6qyteDy6H4uor) | [Mahesh](https://open.spotify.com/artist/7Az24KnLGP3r8FUttk9uXm) | [Storm Over The City](https://open.spotify.com/album/4bZje15jMExvB0vg0ZSqtt) | 2:39 |
-| 100 | [Sleepy Raindrops](https://open.spotify.com/track/01Mgf3GGm5oEzUcwPRHROa) | [Rain Rec.](https://open.spotify.com/artist/0EUOUMWVFwBTkjzcJrgQJQ) | [Reclining Rain](https://open.spotify.com/album/09GQWPwVu5vnqtis8Sm9Zv) | 3:28 |
+| 94 | [Rainy Hour](https://open.spotify.com/track/7GO0aybLNh8Rd7gcfZIuT0) | [Skyyy](https://open.spotify.com/artist/1d1rh6BlGzeXaj67hVeDXe) | [Tears](https://open.spotify.com/album/1EuUFN58BKOLkYDMru8kVh) | 2:35 |
+| 95 | [Graue Wolken](https://open.spotify.com/track/1SVyDxMo3VtdWz1fzegvDy) | [BLITZ](https://open.spotify.com/artist/0Mh5A7teUHad8RrOy9TvkH) | [Graue Wolken](https://open.spotify.com/album/6rCYUB4w56TeN96r9qdjK1) | 3:28 |
+| 96 | [Sleepy Raindrops](https://open.spotify.com/track/01Mgf3GGm5oEzUcwPRHROa) | [Rain Rec.](https://open.spotify.com/artist/0EUOUMWVFwBTkjzcJrgQJQ) | [Reclining Rain](https://open.spotify.com/album/09GQWPwVu5vnqtis8Sm9Zv) | 3:28 |
+| 97 | [Rain On The Autumn Leaves](https://open.spotify.com/track/4Uclrcxkq2wCWX5ieA0LfN) | [Northerly Nature](https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1) | [Natural Serenity](https://open.spotify.com/album/3pJL4HWm5phcV0FEvFd7Iz) | 3:29 |
+| 98 | [Droplet Drift](https://open.spotify.com/track/5L7KXB9VytvwVTz7qcuCL9) | [Instant Recuperate](https://open.spotify.com/artist/38y9kFWR4BFY9lhR6dXMBV) | [Droplet Drift](https://open.spotify.com/album/280YFBsxQ3p9XvxZ94RtVy) | 3:08 |
+| 99 | [Noise Rain](https://open.spotify.com/track/1Vxx4lP5fRdm4A18AwNGBu) | [Natures Orchestra](https://open.spotify.com/artist/4lpovYMDiersW7wuJ3P5Ep) | [Noise Rain](https://open.spotify.com/album/0gQvJtixPCxHTn9GGogXEy) | 2:44 |
+| 100 | [Sleeping To Thunder](https://open.spotify.com/track/3caqSbL4x6qyteDy6H4uor) | [Mahesh](https://open.spotify.com/artist/7Az24KnLGP3r8FUttk9uXm) | [Storm Over The City](https://open.spotify.com/album/4bZje15jMExvB0vg0ZSqtt) | 2:39 |
 | 101 | [On This Rainy Night](https://open.spotify.com/track/6sXo2YImpCkfEH9XIOzc6X) | [lumen](https://open.spotify.com/artist/6wtLDIGKKFNj1SgEJgkfVu) | [On This Rainy Night](https://open.spotify.com/album/1GAf7Y6fak1aqaOEPLD8Lj) | 3:36 |
 | 102 | [Dripping Rain](https://open.spotify.com/track/0Of6J0VrkGeNm8YRpTYby9) | [Golden Drops](https://open.spotify.com/artist/75zbTyxmkNUkQuygPB6fUQ) | [Dripping Rain](https://open.spotify.com/album/2B2IvBr9t2Qy0w5fjall3b) | 2:39 |
 | 103 | [Contemplate](https://open.spotify.com/track/3vHt6dOIG28NFiyJzX3HmG) | [Pluviocity](https://open.spotify.com/artist/4Gz0cPOPMpeQFqHTwr4n2c) | [Through the Window](https://open.spotify.com/album/12CtAspNlYXG825pZxxuT9) | 2:12 |
@@ -237,9 +237,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0d3wigiTss.md) - [plain]
 | 227 | [Rain Falling From the Sky](https://open.spotify.com/track/0Kr0ljSjAljErScOrZE3mI) | [Forest Rain FX](https://open.spotify.com/artist/30YnRKAUATK78mSbUM4qK6) | [Rain Showers](https://open.spotify.com/album/1TnQjALX3mSWRVORqYv0Ee) | 2:15 |
 | 228 | [Gentle Rainfall](https://open.spotify.com/track/0VXm3lekdKs2OriLvog6qz) | [Harmonious Nature](https://open.spotify.com/artist/334v3jkZ2T1J40I0QGT3rZ) | [Gentle Rainfall](https://open.spotify.com/album/6SUjsYkcWYBOTylI6aSsCA) | 2:06 |
 | 229 | [It's gonna rain all night](https://open.spotify.com/track/1G0eLrad9sztISHG75a5cv) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Storm](https://open.spotify.com/album/0X0aO8gxJeV2xHf53J8gFI) | 3:00 |
-| 230 | [Alcance](https://open.spotify.com/track/5ztAcoTCCDKvkdGnAjqNM5) | [Radio Pluvialis](https://open.spotify.com/artist/55ZWeI199GqB3xiSig23pa) | [En Sintonía](https://open.spotify.com/album/3fnaCxg6msIv9Pmtv5haC3) | 2:26 |
-| 231 | [It's Gonna Rain Tonight](https://open.spotify.com/track/2Ei6wXJdIcrKxIQ11v8OhW) | [Attono](https://open.spotify.com/artist/4t29lXsw1uTqtI0Gzj00Cu) | [Storm Lures](https://open.spotify.com/album/4qXurMTFdoRNa9AcYnH7V6) | 3:36 |
-| 232 | [Rain Detox](https://open.spotify.com/track/1zoGKbKztF6Haw2rPpCCVj) | [R\. Guru](https://open.spotify.com/artist/1J6XFH9yaFImOmbaAWAx48) | [Don't Mind The Rain](https://open.spotify.com/album/3YIFklxeh8I6NljMqk1CEP) | 3:12 |
+| 230 | [It's Gonna Rain Tonight](https://open.spotify.com/track/2Ei6wXJdIcrKxIQ11v8OhW) | [Attono](https://open.spotify.com/artist/4t29lXsw1uTqtI0Gzj00Cu) | [Storm Lures](https://open.spotify.com/album/4qXurMTFdoRNa9AcYnH7V6) | 3:36 |
+| 231 | [Rain Detox](https://open.spotify.com/track/1zoGKbKztF6Haw2rPpCCVj) | [R\. Guru](https://open.spotify.com/artist/1J6XFH9yaFImOmbaAWAx48) | [Don't Mind The Rain](https://open.spotify.com/album/3YIFklxeh8I6NljMqk1CEP) | 3:12 |
+| 232 | [Alcance](https://open.spotify.com/track/5ztAcoTCCDKvkdGnAjqNM5) | [Radio Pluvialis](https://open.spotify.com/artist/55ZWeI199GqB3xiSig23pa) | [En Sintonía](https://open.spotify.com/album/3fnaCxg6msIv9Pmtv5haC3) | 2:26 |
 | 233 | [Under Roof \- Rain/Thunder](https://open.spotify.com/track/3k5VRh1H1Khp7PN8Yp8fB8) | [Lavinium](https://open.spotify.com/artist/5Z6GzR42Br7G8wOmu5lRuS) | [Weather FX](https://open.spotify.com/album/58ZclxW2fvqS4OW88fY7YJ) | 2:08 |
 | 234 | [Frühlingsregen](https://open.spotify.com/track/33bk0r7RYQehNRq89NHmfQ) | [Schlafregengeräusche](https://open.spotify.com/artist/4odKaNPSbifXARPmQ2fu28) | [Frühlingsregen](https://open.spotify.com/album/1DLMqxmEADF4yccqDGGVXR) | 3:22 |
 | 235 | [Rainable](https://open.spotify.com/track/2w3HZGGOknK3juCyLzGBr0) | [Splash n' Dash](https://open.spotify.com/artist/3H8JEgORKc06mYrKIaFMPa) | [Rainable](https://open.spotify.com/album/30ryu3DbZyLyI81WnELdfQ) | 2:50 |
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0d3wigiTss.md) - [plain]
 | 299 | [Peaceful Weather](https://open.spotify.com/track/7oSBHzA5J69kqhFp4anTNy) | [Exclusive Nature](https://open.spotify.com/artist/0hc7iYm9MFl0ST7NrCXeDt) | [Exclusive Nature](https://open.spotify.com/album/6MwRMdOHG26JL8ZdZpCjow) | 2:17 |
 | 300 | [Infinite Rain Clouds](https://open.spotify.com/track/0pPMBiWpbShtUwpjuVsXs9) | [Sleep Waves](https://open.spotify.com/artist/5YwgJh6Sx2jIZ0NTqzYCDW) | [Infinite Rain Clouds](https://open.spotify.com/album/14YL0Xbet4gFMtMsAkjJNF) | 2:36 |
 
-Snapshot ID: `MCw3ZGViMDc0M2ZiMmM5YzkzNTVhNTAwMTA5NTc5Mzg5YTk3MWYxNWMx`
+Snapshot ID: `MCwzYWJiM2YwZDM4Zjk2NzU0NDE1MmJjM2NhM2RmYWYyYTRkZWUwMzlm`

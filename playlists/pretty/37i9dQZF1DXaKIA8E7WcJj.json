@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs of the 1960s. Cover: Aretha Franklin\n",
-  "num_followers": 3073413,
+  "num_followers": 3073729,
   "original_name": "All Out 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWQwZDQ5NjMxZTYyMjkxNjI5NTE2MmEwMmJlZjk4ZDExMDY5ZWM0",
+  "snapshot_id": "MCxlMzA2MTM0MDZiNmQyYTVjZDhkMzJkMjFkZWEyZDgxNzFhMGZkYjgw",
   "tracks": [
     {
       "added_at": "2022-08-12 11:06:50",
@@ -291,22 +291,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Green River (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 141600,
-      "name": "Bad Moon Rising",
-      "url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "If You Can Believe Your Eyes & Ears",
         "url": "https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 162493,
       "name": "Somethin' Stupid",
       "url": "https://open.spotify.com/track/4feXcsElKIVsGwkbnTHAfV"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Green River (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 141600,
+      "name": "Bad Moon Rising",
+      "url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -471,6 +471,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "Please Please Me (Remastered)",
+        "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 155226,
+      "name": "Twist And Shout - Remastered 2009",
+      "url": "https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "Bayou Country (Expanded Edition)",
         "url": "https://open.spotify.com/album/5pCRW9AT4BgoMOS52pRoJq"
       },
@@ -535,22 +551,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Please Please Me (Remastered)",
-        "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 155226,
-      "name": "Twist And Shout - Remastered 2009",
-      "url": "https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "For Once In My Life",
         "url": "https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ"
       },
@@ -563,6 +563,22 @@
       "duration_ms": 169800,
       "name": "For Once In My Life",
       "url": "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Abbey Road (Remastered)",
+        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 259946,
+      "name": "Come Together - Remastered 2009",
+      "url": "https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -599,22 +615,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Green River (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 154120,
-      "name": "Green River",
-      "url": "https://open.spotify.com/track/11DjZQEZ69EXLo77HVj6yW"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Bookends",
         "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
       },
@@ -643,6 +643,22 @@
       "duration_ms": 167373,
       "name": "I'm a Believer - 2006 Remaster",
       "url": "https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Green River (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 154120,
+      "name": "Green River",
+      "url": "https://open.spotify.com/track/11DjZQEZ69EXLo77HVj6yW"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -679,6 +695,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "Wednesday Morning, 3 A.M.",
+        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 185413,
+      "name": "The Sound of Silence - Acoustic Version",
+      "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "Beggars Banquet (50th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd"
       },
@@ -695,22 +727,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Abbey Road (Remastered)",
-        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 259946,
-      "name": "Come Together - Remastered 2009",
-      "url": "https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "In The Groove",
         "url": "https://open.spotify.com/album/36VMWZPLjg9rucvMxdA2Pz"
       },
@@ -723,38 +739,6 @@
       "duration_ms": 194293,
       "name": "I Heard It Through The Grapevine",
       "url": "https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "Willy And The Poor Boys (Expanded Edition)",
-        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 166280,
-      "name": "Down On The Corner",
-      "url": "https://open.spotify.com/track/2gE95JskwQ1pCACTpGe1Db"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "Wednesday Morning, 3 A.M.",
-        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 185413,
-      "name": "The Sound of Silence - Acoustic Version",
-      "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -811,6 +795,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "Willy And The Poor Boys (Expanded Edition)",
+        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 166280,
+      "name": "Down On The Corner",
+      "url": "https://open.spotify.com/track/2gE95JskwQ1pCACTpGe1Db"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "Kinks (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6HrqKlhAQiv4GjFjwmuxDQ"
       },
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "My Way (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 276800,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/3spdoTYpuCpmq19tuD0bOe"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "David Bowie (aka Space Oddity) [2015 Remaster]",
         "url": "https://open.spotify.com/album/1ay9Z4R5ZYI2TY7WiDhNYQ"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 318026,
       "name": "Space Oddity - 2015 Remaster",
       "url": "https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "My Way (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 276800,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/3spdoTYpuCpmq19tuD0bOe"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -939,6 +939,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "Strangers In The Night (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1kyb5tomEXcA106V57puFW"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 157866,
+      "name": "Strangers In The Night",
+      "url": "https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "Surfin' USA (Remastered)",
         "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
       },
@@ -1003,22 +1019,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Strangers In The Night (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1kyb5tomEXcA106V57puFW"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "Strangers In The Night",
-      "url": "https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Wheels Of Fire",
         "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
       },
@@ -1031,22 +1031,6 @@
       "duration_ms": 298333,
       "name": "White Room",
       "url": "https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "Are You Experienced",
-        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 170813,
-      "name": "Purple Haze",
-      "url": "https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1079,6 +1063,22 @@
       "duration_ms": 119880,
       "name": "Hit the Road Jack",
       "url": "https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Are You Experienced",
+        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 170813,
+      "name": "Purple Haze",
+      "url": "https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Surrealistic Pillow",
-        "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
-      },
-      "artists": [
-        {
-          "name": "Jefferson Airplane",
-          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
-        }
-      ],
-      "duration_ms": 174840,
-      "name": "Somebody to Love",
-      "url": "https://open.spotify.com/track/4uGIJG1jYFonGc4LGp5uQL"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Are You Experienced",
         "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 210160,
       "name": "Hey Joe",
       "url": "https://open.spotify.com/track/0NWPxcsf5vdjdiFUI8NgkP"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Surrealistic Pillow",
+        "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
+      },
+      "artists": [
+        {
+          "name": "Jefferson Airplane",
+          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+        }
+      ],
+      "duration_ms": 174840,
+      "name": "Somebody to Love",
+      "url": "https://open.spotify.com/track/4uGIJG1jYFonGc4LGp5uQL"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Led Zeppelin II (1994 Remaster)",
-        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 263333,
-      "name": "Ramble On - 1990 Remaster",
-      "url": "https://open.spotify.com/track/3MODES4TNtygekLl146Dxd"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Where Did Our Love Go",
         "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 158040,
       "name": "Baby Love",
       "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Led Zeppelin II (1994 Remaster)",
+        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 263333,
+      "name": "Ramble On - 1990 Remaster",
+      "url": "https://open.spotify.com/track/3MODES4TNtygekLl146Dxd"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "The Second",
+        "url": "https://open.spotify.com/album/2Y5GORWYwVAZ8msuEuh5FN"
+      },
+      "artists": [
+        {
+          "name": "Steppenwolf",
+          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
+        }
+      ],
+      "duration_ms": 271573,
+      "name": "Magic Carpet Ride",
+      "url": "https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "Tommy",
         "url": "https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 448720,
       "name": "You Can't Always Get What You Want",
       "url": "https://open.spotify.com/track/6lFZbCc7pn6Lme1NP7qQqQ"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "The Second",
-        "url": "https://open.spotify.com/album/2Y5GORWYwVAZ8msuEuh5FN"
-      },
-      "artists": [
-        {
-          "name": "Steppenwolf",
-          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
-        }
-      ],
-      "duration_ms": 271573,
-      "name": "Magic Carpet Ride",
-      "url": "https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2115,6 +2115,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "Something Else (Deluxe)",
+        "url": "https://open.spotify.com/album/3n0mKh1yuR5QjX6Vm0GKj2"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "duration_ms": 194520,
+      "name": "Waterloo Sunset",
+      "url": "https://open.spotify.com/track/3G0EALIIp5DAeIERxXBHmo"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "Nashville Skyline",
         "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
       },
@@ -2131,22 +2147,6 @@
       "duration_ms": 220400,
       "name": "Girl from the North Country",
       "url": "https://open.spotify.com/track/4K1imZQQ0yKtJ40vGmUajS"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "Something Else (Deluxe)",
-        "url": "https://open.spotify.com/album/3n0mKh1yuR5QjX6Vm0GKj2"
-      },
-      "artists": [
-        {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
-        }
-      ],
-      "duration_ms": 194520,
-      "name": "Waterloo Sunset",
-      "url": "https://open.spotify.com/track/3G0EALIIp5DAeIERxXBHmo"
     },
     {
       "added_at": "2022-08-12 11:06:50",

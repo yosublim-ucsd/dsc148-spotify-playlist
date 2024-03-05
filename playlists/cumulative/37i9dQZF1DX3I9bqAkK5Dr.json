@@ -2073,6 +2073,24 @@
     },
     {
       "album": {
+        "name": "Manase",
+        "url": "https://open.spotify.com/album/06O7XZkts4Ed81WbuH1SYu"
+      },
+      "artists": [
+        {
+          "name": "Pragathi Kanadamane",
+          "url": "https://open.spotify.com/artist/1hw5AMlFZLM4aLkPl8v7zl"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309217,
+      "name": "Manase",
+      "url": "https://open.spotify.com/track/3uwvZrFaVb96Fd0wjY0S80"
+    },
+    {
+      "album": {
         "name": "Maninchave",
         "url": "https://open.spotify.com/album/38YnBMJMBy9kfTLeHKyrzc"
       },

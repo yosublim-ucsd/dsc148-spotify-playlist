@@ -1,12 +1,12 @@
 {
   "description": "indie tunes to make you shine bby :)",
-  "num_followers": 446811,
+  "num_followers": 446825,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YThlMjkwOTFjMmQyZmU3MjNhYTJkM2QyYjZkYzc2N2IyNzJlMDZi",
+  "snapshot_id": "MCwzY2YwY2I4MDI0NTMwNTRhYjljZWY3MTc3ZmQzNTBjMjczY2Q4NzQ4",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Versos de Placer",
-        "url": "https://open.spotify.com/album/3rJcFj3XgniFRAUpgEbcX0"
-      },
-      "artists": [
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 168095,
-      "name": "Versos de Placer",
-      "url": "https://open.spotify.com/track/4z11brnmIkePDnP3L1siz5"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Fresh",
         "url": "https://open.spotify.com/album/6RGWxCMX5GEKPgjP7gi6zD"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 165120,
       "name": "Fresh",
       "url": "https://open.spotify.com/track/6sRfgwJVZZnMo92SaEAaY4"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Versos de Placer",
+        "url": "https://open.spotify.com/album/3rJcFj3XgniFRAUpgEbcX0"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 168095,
+      "name": "Versos de Placer",
+      "url": "https://open.spotify.com/track/4z11brnmIkePDnP3L1siz5"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -255,6 +255,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Puro Teatro",
+        "url": "https://open.spotify.com/album/0omCx2FvDNSj9i6J0KHp3P"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Provincia",
+      "url": "https://open.spotify.com/track/5L0h6EbHsxXJG8YLrknKqY"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Gardenia",
         "url": "https://open.spotify.com/album/1aUCzIb8C1558x8qlo2gjM"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 212052,
       "name": "Cartagena",
       "url": "https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Puro Teatro",
-        "url": "https://open.spotify.com/album/0omCx2FvDNSj9i6J0KHp3P"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Provincia",
-      "url": "https://open.spotify.com/track/5L0h6EbHsxXJG8YLrknKqY"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -395,26 +395,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Morrita Linda",
-        "url": "https://open.spotify.com/album/78UajKhF9uS5GjWGCtxxJA"
-      },
-      "artists": [
-        {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
-        },
-        {
-          "name": "Melissa Robles",
-          "url": "https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs"
-        }
-      ],
-      "duration_ms": 189650,
-      "name": "Morrita Linda",
-      "url": "https://open.spotify.com/track/0WzQEF4gBDGZLoobU7oX0t"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "ojitos caramelo (Remix)",
         "url": "https://open.spotify.com/album/0TSnNs3JqtmICglBkojDID"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 208614,
       "name": "PRONTO!",
       "url": "https://open.spotify.com/track/1V1S26dHvmZXbwB6TvwXQb"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Morrita Linda",
+        "url": "https://open.spotify.com/album/78UajKhF9uS5GjWGCtxxJA"
+      },
+      "artists": [
+        {
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+        },
+        {
+          "name": "Melissa Robles",
+          "url": "https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs"
+        }
+      ],
+      "duration_ms": 189650,
+      "name": "Morrita Linda",
+      "url": "https://open.spotify.com/track/0WzQEF4gBDGZLoobU7oX0t"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "CARISMA",
+        "url": "https://open.spotify.com/album/360aJ4E4087KXU6ESyvjL3"
+      },
+      "artists": [
+        {
+          "name": "Salt Cathedral",
+          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+        }
+      ],
+      "duration_ms": 202519,
+      "name": "Te Quiero Olvidar",
+      "url": "https://open.spotify.com/track/2u1UkcNp5l0NgTGjfl7fmZ"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "muero x ti",
         "url": "https://open.spotify.com/album/0PEkrVYDzkhAU5xk0gOqu4"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 237564,
       "name": "muero x ti",
       "url": "https://open.spotify.com/track/0VDvDixlnaJFUYYEhE6tDp"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "CARISMA",
-        "url": "https://open.spotify.com/album/360aJ4E4087KXU6ESyvjL3"
-      },
-      "artists": [
-        {
-          "name": "Salt Cathedral",
-          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
-        }
-      ],
-      "duration_ms": 202519,
-      "name": "Te Quiero Olvidar",
-      "url": "https://open.spotify.com/track/2u1UkcNp5l0NgTGjfl7fmZ"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Get Lost In The Music",
+        "url": "https://open.spotify.com/album/5FBk0BFXqwMrtdrxxfa21B"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 229566,
+      "name": "Get Lost In The Music",
+      "url": "https://open.spotify.com/track/09z2LpPORefMOJKYyJQShL"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Ritmo Natural",
         "url": "https://open.spotify.com/album/7c4DjcusI5Vv9AjQM2OhXu"
       },
@@ -1279,22 +1295,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Get Lost In The Music",
-        "url": "https://open.spotify.com/album/5FBk0BFXqwMrtdrxxfa21B"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 229566,
-      "name": "Get Lost In The Music",
-      "url": "https://open.spotify.com/track/09z2LpPORefMOJKYyJQShL"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "555",
         "url": "https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP"
       },
@@ -1307,26 +1307,6 @@
       "duration_ms": 148538,
       "name": "Easy",
       "url": "https://open.spotify.com/track/5idNzLXuETCpAYsrtHkl7g"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Una Noche M\u00e1s",
-        "url": "https://open.spotify.com/album/1uzsloGLr9bFGr6SguBgZZ"
-      },
-      "artists": [
-        {
-          "name": "Adrian Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 211400,
-      "name": "Una Noche M\u00e1s",
-      "url": "https://open.spotify.com/track/6h5Y9eJqzgiunuQICVkQb6"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1391,6 +1371,26 @@
       "duration_ms": 199173,
       "name": "tdbn",
       "url": "https://open.spotify.com/track/3fLmwbhdw0dgBYYSTvT3v5"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Una Noche M\u00e1s",
+        "url": "https://open.spotify.com/album/1uzsloGLr9bFGr6SguBgZZ"
+      },
+      "artists": [
+        {
+          "name": "Adrian Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 211400,
+      "name": "Una Noche M\u00e1s",
+      "url": "https://open.spotify.com/track/6h5Y9eJqzgiunuQICVkQb6"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "L\u00ednea Recta",
-        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 182760,
-      "name": "Pasatiempo",
-      "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Todav\u00eda",
         "url": "https://open.spotify.com/album/4vmovQuSBbCyAgdVOGGgRJ"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 162954,
       "name": "Todav\u00eda",
       "url": "https://open.spotify.com/track/4GmJwnvrPhZXkk8JpNhxEC"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "L\u00ednea Recta",
+        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 182760,
+      "name": "Pasatiempo",
+      "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
     },
     {
       "added_at": "2024-02-23 05:00:00",

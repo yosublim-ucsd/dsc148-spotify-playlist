@@ -1,12 +1,12 @@
 {
   "description": "Songs you love with an indie spin on it. Cover: Arlo Parks",
-  "num_followers": 288971,
+  "num_followers": 289008,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2E5NDk1OTkyMTg5N2M5ZTNlYzBlZjVjNmNkMzdiZGFjMDhmOTQx",
+  "snapshot_id": "MCw2ZjJlMDk0MjMwMjI4YzhhY2YyZjFmMTYwZDQ1NDAyMTc2ZmFjODgz",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1327,30 +1327,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Yellow",
-        "url": "https://open.spotify.com/album/3pC14s49yUVj2VJskAshde"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        },
-        {
-          "name": "Pop Goes Ambient",
-          "url": "https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP"
-        },
-        {
-          "name": "Amelia Magdalena",
-          "url": "https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu"
-        }
-      ],
-      "duration_ms": 262714,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/34Jfxprxev4z3iF3R0wG0b"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Pumped Up Kicks (Gus Dapperton Version)",
         "url": "https://open.spotify.com/album/3N6JDO9GBMR7sZHpgxY1OS"
       },
@@ -1399,6 +1375,30 @@
       "duration_ms": 171315,
       "name": "Cooking",
       "url": "https://open.spotify.com/track/6QS1OLPLLjKiZsdIs9GUdi"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/3pC14s49yUVj2VJskAshde"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        },
+        {
+          "name": "Pop Goes Ambient",
+          "url": "https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP"
+        },
+        {
+          "name": "Amelia Magdalena",
+          "url": "https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu"
+        }
+      ],
+      "duration_ms": 262714,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/34Jfxprxev4z3iF3R0wG0b"
     },
     {
       "added_at": "2023-10-13 04:00:00",

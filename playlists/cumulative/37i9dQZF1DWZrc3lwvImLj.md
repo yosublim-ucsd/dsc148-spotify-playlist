@@ -4,7 +4,7 @@
 
 > lowkey crying.
 
-401 songs - 17 hr 32 min
+405 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Gradational](https://open.spotify.com/track/7uam2Tyu6KZjGLauONQLk7) | [Martha Stone](https://open.spotify.com/artist/3Jk5F5o75NTajdLCYSYlbw) | [Gradational](https://open.spotify.com/album/1BNVlgLGu0gcQEroSXMhal) | 2:47 | 2022-03-30 |  |
 | [heart pieces](https://open.spotify.com/track/0vQIs6UM5iNmIEtazl28za) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [heart pieces](https://open.spotify.com/album/5HrBAQJ2gvG43Ce8B9zPwj) | 2:29 | 2021-12-14 | 2023-10-11 |
 | [Heartsease](https://open.spotify.com/track/2VqdRIXLDBYtDHLBvWw0p4) | [Nadia Oak](https://open.spotify.com/artist/69kmTV1Yq4nmkwlrYSYeMa) | [Heartsease](https://open.spotify.com/album/2jVOyTHvkQHSQ0Y19arpqE) | 2:25 | 2022-09-13 |  |
+| [Her Peaceful Echoes](https://open.spotify.com/track/5e5AZb36vSAdEXABa0oNIh) | [Flóki](https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT) | [Her Peaceful Echoes](https://open.spotify.com/album/4QS7rFRIdgtuXexBMyZJdc) | 2:21 | 2024-03-04 |  |
 | [Hidden poetry](https://open.spotify.com/track/3KlDABftWLOMxlQUTkRmJI) | [Liu Ju](https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk) | [Hidden poetry](https://open.spotify.com/album/3hn4kKodyid2wx4agXY3rM) | 2:19 | 2023-10-24 |  |
 | [Home](https://open.spotify.com/track/7xYFoMTtdlx2GmK0sopL0T) | [Adrian Kuipers](https://open.spotify.com/artist/4qA8zZoA4L4YLpJTjgpIwi) | [Home](https://open.spotify.com/album/0v8ArMlSc9QCkB9rTfKPOs) | 3:57 | 2021-12-14 |  |
 | [Honeysuckle](https://open.spotify.com/track/2GlFrUTfhuFulESOkHcmFf) | [Sam Sapphire](https://open.spotify.com/artist/7eMKNdNPKSpP3WeulzX4fz) | [Honeysuckle](https://open.spotify.com/album/2Zjx4mvRk8p2IezpTxgjak) | 1:59 | 2023-08-07 | 2023-11-16 |
@@ -160,11 +161,13 @@
 | [Into the Dark](https://open.spotify.com/track/1AIlPogcpB2XdSk9DdtPnn) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Into the Dark](https://open.spotify.com/album/3UMEUeoWsQn6DYTDIRCTSj) | 3:28 | 2023-02-28 | 2023-11-16 |
 | [Isle of Arran](https://open.spotify.com/track/2VKWrVYPGgJzBmRGc8LWkh) | [Quinn MacKenzie](https://open.spotify.com/artist/0smsvjiRdPUrd3bDPIinyn) | [Isle of Arran](https://open.spotify.com/album/67HkNTwNvY9he8hu5lyg6R) | 2:50 | 2021-12-14 | 2023-11-08 |
 | [Juanita](https://open.spotify.com/track/2SxQiQXujf3D29LxFeWm9Z) | [Boone River](https://open.spotify.com/artist/5hnP6B3XX1yAvhQWHifkxx) | [Juanita](https://open.spotify.com/album/6IOVPJjXKlofAsOkb0ircw) | 2:44 | 2021-12-14 | 2023-11-16 |
+| [Kaiho](https://open.spotify.com/track/2JMWJkY1aQhNASkIuDUnI5) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Kaiho](https://open.spotify.com/album/6hF22qlhOYHaIQLIOP50fU) | 3:17 | 2024-03-04 |  |
 | [Kaleidoscope](https://open.spotify.com/track/3WiissyVFRpCVrqbyPKZxZ) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Kaleidoscope](https://open.spotify.com/album/0eVw8w35dO9VuGLy4vOprZ) | 2:01 | 2021-12-14 | 2023-10-11 |
 | [Kay's Recovery](https://open.spotify.com/track/6heseVBVY5E1zh6z4FyMDA) | [Joaquin Conor](https://open.spotify.com/artist/09O6u1o77QVzr1RI6zyZv7) | [Kay's Recovery](https://open.spotify.com/album/2Ugt7X6hGDE0C722Tpgot4) | 1:54 | 2023-05-09 | 2023-11-16 |
 | [Komorebi](https://open.spotify.com/track/4e8dECQ4wRfLn2nXfkOuqC) | [Kyūka](https://open.spotify.com/artist/2HcZQwoaSF9tSiQ3zvuqz7) | [Komorebi](https://open.spotify.com/album/3tKvJOGY06DHfqtbXHO2CS) | 2:06 | 2021-12-14 | 2022-04-23 |
 | [L'âme rêvée](https://open.spotify.com/track/5ehQEnyRaMM9qmFtIpCJlW) | [Zoé Gaspard](https://open.spotify.com/artist/1Yl2JFN0X1iXATUTTgTbZ5) | [L'âme rêvée](https://open.spotify.com/album/4975TNrfqVqaxdVmWtKVR8) | 1:47 | 2023-01-09 | 2023-11-16 |
 | [La Belle Epoque](https://open.spotify.com/track/7bk5U14iArhfEeazvoP3L5) | [Isaac Cassidy](https://open.spotify.com/artist/3QoWofhE474wVe9XdvQrHJ) | [La Belle Epoque](https://open.spotify.com/album/7hiSVCKLapC4UIqtKv6yYi) | 2:43 | 2022-01-05 |  |
+| [La Douleur](https://open.spotify.com/track/2UtXY2slbr0K9xxOU2XidX) | [Charles Faure](https://open.spotify.com/artist/3ONJjReGP3f6w68Gj7H1Im) | [La Douleur](https://open.spotify.com/album/1kqivGfhh7rfux9LA5QCUv) | 2:09 | 2024-03-04 |  |
 | [La lune](https://open.spotify.com/track/4vuX4bbfayOyWpOYswDBGo) | [Remko Kühne](https://open.spotify.com/artist/6LNkjwPSnLW93YeQz777zC) | [La lune](https://open.spotify.com/album/2xLVugO9GUd9UerwgD5ABB) | 4:27 | 2022-06-06 | 2023-11-16 |
 | [La rue de montmartre](https://open.spotify.com/track/4m6OniLUajvVowVSOtyi5J) | [Aleron Lapointe](https://open.spotify.com/artist/4hPVbHC8a8qIxDeYH1isFc) | [La rue de montmartre](https://open.spotify.com/album/3z86dneZ2m3ZtoUNQBOtCB) | 2:03 | 2023-01-19 |  |
 | [La vérité](https://open.spotify.com/track/3hqCeRRTNreQ9CFtpk19JR) | [Mano Vecina](https://open.spotify.com/artist/1II3YMefTHllayrOSkbwRf) | [La vérité](https://open.spotify.com/album/6z9YiFp74ziLOCjGQDnEe5) | 2:27 | 2021-12-14 | 2023-11-16 |
@@ -287,7 +290,7 @@
 | [Seagull's Feathers](https://open.spotify.com/track/1UzBL7zD1kxJW2B2H3eaCf) | [Antoine Di Luzio](https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv) | [Seagull's Feathers](https://open.spotify.com/album/2OHdNwIAbyMWBAt3hGh81r) | 2:09 | 2023-07-04 | 2023-11-16 |
 | [Secret Garden](https://open.spotify.com/track/3yYGXW4XlXXqSRYNIC2YNH) | [Anna Kúsmierska](https://open.spotify.com/artist/7KSL6D4AfN958LTmv0jyXd) | [Secret Garden](https://open.spotify.com/album/36tCR1GpEOq3oftaSTyIKx) | 2:15 | 2023-02-28 |  |
 | [Seichtes Wasser](https://open.spotify.com/track/1F6M5OxEBzMTpcTX64ie9m) | [Claudio Polle](https://open.spotify.com/artist/3rY7PNIAjKRRzRyZvwFLBv) | [Madeira](https://open.spotify.com/album/0CPuRuX14OrSlgv2eYdjvB) | 2:18 | 2021-12-14 | 2022-06-07 |
-| [Semplice](https://open.spotify.com/track/7nvmbWRwKohWwRnp5vmbzU) | [Simone Scarda](https://open.spotify.com/artist/7hSXYgXfuNG4YsQPout5VG) | [Semplice](https://open.spotify.com/album/4rHM6zmyde1MECxLPHw3vW) | 2:21 | 2022-03-17 |  |
+| [Semplice](https://open.spotify.com/track/7nvmbWRwKohWwRnp5vmbzU) | [Simone Scarda](https://open.spotify.com/artist/7hSXYgXfuNG4YsQPout5VG) | [Semplice](https://open.spotify.com/album/4rHM6zmyde1MECxLPHw3vW) | 2:21 | 2022-03-17 | 2024-03-05 |
 | [Serendipitous Moments](https://open.spotify.com/track/4U5cOQybpKtE5UU3uanEPi) | [Jack Allenson](https://open.spotify.com/artist/3xmdKBMDTE4t48Il54UmBb) | [Serendipitous Moments](https://open.spotify.com/album/5gPa0qiVCOINiP66aBGGie) | 2:55 | 2023-09-05 |  |
 | [Serpentéa](https://open.spotify.com/track/5GyjHp84kMfV0ecHLNd8WD) | [Sophie Reubke](https://open.spotify.com/artist/1hRJhDiDX1SEUpnGH7rrKZ) | [Serpentéa](https://open.spotify.com/album/7JxFbGeswuSp6j03f2hpRM) | 2:30 | 2021-12-14 | 2023-05-10 |
 | [Shadow Lake](https://open.spotify.com/track/670ju7vreYMZdh22AfhQ9N) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Shadow Lake](https://open.spotify.com/album/5ERM8QWfXBDp2ohI01V0Xz) | 2:31 | 2023-12-12 |  |
@@ -333,6 +336,7 @@
 | [The Owl](https://open.spotify.com/track/0YFMpvuxexjjj8lZKYRCrD) | [Valérie Beaumont](https://open.spotify.com/artist/1MB6Pvf8JF8zGKtI1LSVjD) | [The Owl](https://open.spotify.com/album/4D5mDIlOrgRAXMO4hOhYXo) | 2:59 | 2021-12-14 |  |
 | [The Perfect Two](https://open.spotify.com/track/6ybvlo7BzMqEChtAwWoAew) | [Lílian Pinto](https://open.spotify.com/artist/6zo4rHxIGBohn7OaoTS1qa) | [The Perfect Two](https://open.spotify.com/album/2WE9WtMlbnh12kSbdJWA09) | 2:09 | 2022-12-21 |  |
 | [The Persistence of Memory](https://open.spotify.com/track/3QSKmjKCMCc8halbvPmwkl) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [The Persistence of Memory](https://open.spotify.com/album/6Bk0HhWSAZfMAioQEc1dl0) | 2:30 | 2021-12-14 | 2023-11-16 |
+| [The Reason Why](https://open.spotify.com/track/76vpZBWYGm4BZLgoap5FIy) | [Scott Laudier](https://open.spotify.com/artist/51hN2Ma4SwEZOoxr0SIqQK) | [The Reason Why](https://open.spotify.com/album/6Mn1AgMY3Wdm6rzumdKURw) | 2:51 | 2024-03-04 |  |
 | [The Room Upstairs](https://open.spotify.com/track/2TOXQ1L2NjnKYAwrHbzDgZ) | [Alstad](https://open.spotify.com/artist/3WPVCzLStWkPPaGQKJMVkr) | [The Room Upstairs](https://open.spotify.com/album/2nroqN7kkTUrFfw8K55wP1) | 2:20 | 2021-12-14 | 2023-10-11 |
 | [The Tree](https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Tree](https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij) | 3:19 | 2023-01-09 |  |
 | [The Watchtower](https://open.spotify.com/track/504NLPDUBRylbZUUQR97XX) | [Sigimund](https://open.spotify.com/artist/10Sk8d2pdmvQ7JMZcPQDOU) | [The Watchtower](https://open.spotify.com/album/0Pal5VkkxKbiGZZJHsgTHp) | 3:25 | 2021-12-14 | 2022-04-15 |

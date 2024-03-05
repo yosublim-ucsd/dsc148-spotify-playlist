@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 
 > Its time to travel inwards & feel the bliss!
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,791 likes - 75 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,810 likes - 75 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 | 67 | [Om Asatoma \(Yoga Mantra\) \[feat\. Deva Premal & Miten\]](https://open.spotify.com/track/40391iHE1dYzQmOby5SFf7) | [The Yoga Mantra and Chant Music Project](https://open.spotify.com/artist/0zjett5LduAKxk0NfLC3NZ) | [Yoga Music Mantras & Chants](https://open.spotify.com/album/55qbMjcJd92Po54nkLmukm) | 7:16 |
 | 68 | [Mirage](https://open.spotify.com/track/6iM0Fhzfc9mT3IY2PZbT65) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Mirage](https://open.spotify.com/album/5GCUS3VW202Gj5yRrN0Iwc) | 8:38 |
 | 69 | [Deep Meditation](https://open.spotify.com/track/2EwfFUQNTUsf8nqJHUiBcM) | [Dharma Frequency](https://open.spotify.com/artist/3TTdwdIf7UUyeTnG9QWXfI) | [Yoga Retreat](https://open.spotify.com/album/0eAjruWl2AJFaEGFSZ9IR8) | 2:38 |
-| 70 | [Music for Inner Peace and Meditation \(Okinawa Inspired Music\)](https://open.spotify.com/track/2ElXIde9edGAyNjPaXgIHW) | [Wellness](https://open.spotify.com/artist/1EbHNLhZfVqNhmthBWUdLg) | [Wellness Spa Sounds \- Nature Music for Relaxation, Peaceful Sleep with New Age Music & Relaxing Sounds](https://open.spotify.com/album/6LKUqXc4Z1V93EdaclLKa1) | 5:20 |
-| 71 | [Venu](https://open.spotify.com/track/1jTpn2kEJNkajWSx7zng9x) | [H S Venugopal](https://open.spotify.com/artist/5G06dFniw81EaR7vZrs5Cx), [Sandeep Chowta](https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy), [Shashank Jodidar](https://open.spotify.com/artist/26VFhqyzYKDMH5Eqiipo9L) | [Venu](https://open.spotify.com/album/3pfkWvBU3Y1EAUl4WMpu3c) | 3:26 |
-| 72 | [Indian Mindfulness Song \- Mindfulness Tune Performed on Tabla, Sitar, Vocals and Shehnai](https://open.spotify.com/track/3RT0HkF9CO1okW2zoS1Vbq) | [TCO](https://open.spotify.com/artist/43l4vCSiImV9sIB8mEoB5j) | [Indian Healing Music, Vol\. 2 \(Indian Music for Yoga, Meditation and Chill out, Performed on Indian Flutes, Tabla, Sitar, Drums and Chants\)](https://open.spotify.com/album/2dvyxsxTM4z7HtvUAiR7FR) | 8:02 |
+| 70 | [Indian Mindfulness Song \- Mindfulness Tune Performed on Tabla, Sitar, Vocals and Shehnai](https://open.spotify.com/track/3RT0HkF9CO1okW2zoS1Vbq) | [TCO](https://open.spotify.com/artist/43l4vCSiImV9sIB8mEoB5j) | [Indian Healing Music, Vol\. 2 \(Indian Music for Yoga, Meditation and Chill out, Performed on Indian Flutes, Tabla, Sitar, Drums and Chants\)](https://open.spotify.com/album/2dvyxsxTM4z7HtvUAiR7FR) | 8:02 |
+| 71 | [Music for Inner Peace and Meditation \(Okinawa Inspired Music\)](https://open.spotify.com/track/2ElXIde9edGAyNjPaXgIHW) | [Wellness](https://open.spotify.com/artist/1EbHNLhZfVqNhmthBWUdLg) | [Wellness Spa Sounds \- Nature Music for Relaxation, Peaceful Sleep with New Age Music & Relaxing Sounds](https://open.spotify.com/album/6LKUqXc4Z1V93EdaclLKa1) | 5:20 |
+| 72 | [Venu](https://open.spotify.com/track/1jTpn2kEJNkajWSx7zng9x) | [H S Venugopal](https://open.spotify.com/artist/5G06dFniw81EaR7vZrs5Cx), [Sandeep Chowta](https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy), [Shashank Jodidar](https://open.spotify.com/artist/26VFhqyzYKDMH5Eqiipo9L) | [Venu](https://open.spotify.com/album/3pfkWvBU3Y1EAUl4WMpu3c) | 3:26 |
 | 73 | [Ajna \(Third Eye/Pineal Gland\) \[Chakra\]](https://open.spotify.com/track/5mnLT8Ze4ugZxUSt4FkDeq) | [Air With Air Rising](https://open.spotify.com/artist/5YZaXFoZZsyjaxoy029RYD) | [7 Om Chanting Meditations](https://open.spotify.com/album/4HOj7igZ84vM6pNfLgJNuX) | 5:40 |
 | 74 | [Om Zone 2.0 \- XIV](https://open.spotify.com/track/3tOpCsBzhi5I2ZyZpk1Ven) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k) | [In the Om Zone 2.0](https://open.spotify.com/album/5GHnyBPAznBKbWccswmDKb) | 4:07 |
 | 75 | [Mindstiller](https://open.spotify.com/track/2IA4wO7fwVunvFQuWeksm8) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [Sleeper](https://open.spotify.com/album/6IoRGJxNt4XSc7DbpSnMvm) | 3:36 |
 
-Snapshot ID: `MCw0YWZiNTY1YjFmYzExMDNkYzM0NjU0ZDIwMjBmODczOWJkOTNiNTFj`
+Snapshot ID: `MCwyNTRjYzkwOTdlZmY2NjM4ZWQwZjdhZmZjMWI0NDJlZGQwZmI2OTM4`

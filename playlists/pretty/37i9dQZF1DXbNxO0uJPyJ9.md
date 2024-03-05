@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 674,279 likes - 80 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 674,415 likes - 80 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 76 | [Thought You Were On My Side \- Extended Remix/European](https://open.spotify.com/track/2Ke6mshSdHeJ0AedHF0jmm) | [Cock Robin](https://open.spotify.com/artist/1MOoTIFOvJ60ATvyRXPPXg) | [Open Book \- The Best Of...](https://open.spotify.com/album/1A95sUd7nLfGX5tI1RuwRN) | 5:22 |
 | 77 | [Running In The Family \- Extended Version](https://open.spotify.com/track/5vTKn6MszumvJHpobYCcEq) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5) | [Running In The Family \(Super Deluxe Edition\)](https://open.spotify.com/album/0ocLcPbY6DKLkAiVyHvipJ) | 6:14 |
 | 78 | [Rockit](https://open.spotify.com/track/2imFIZ1WcOHrA5IPFhVLJY) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [The Best Of Herbie Hancock \- The Hits!](https://open.spotify.com/album/4zZHvc3I4GrfPIUS0UkQb3) | 5:25 |
-| 79 | [Like a Virgin \- Extended Dance Remix](https://open.spotify.com/track/17WvhmXF06yquUwZjtjHsc) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 6:09 |
-| 80 | [Extended Souvenir \- 2003 Digital Remaster](https://open.spotify.com/track/3R14PSng7wtMo81cNG67Q6) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Architecture And Morality](https://open.spotify.com/album/6bR98XzGnklTORDvZ7Oc2i) | 4:16 |
+| 79 | [Extended Souvenir \- 2003 Digital Remaster](https://open.spotify.com/track/3R14PSng7wtMo81cNG67Q6) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Architecture And Morality](https://open.spotify.com/album/6bR98XzGnklTORDvZ7Oc2i) | 4:16 |
+| 80 | [Like a Virgin \- Extended Dance Remix](https://open.spotify.com/track/17WvhmXF06yquUwZjtjHsc) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 6:09 |
 
-Snapshot ID: `MCxkNjJkZWRjOWU3MWZkMTAwNTA0MjY2YjkwNTNlMTJlMDQyODg4NDlm`
+Snapshot ID: `MCxhMDA4ZWQ4MTYxNDc5YTA3NTkzYWM5YmZlMzFhZmIxYzg2Zjg4ZGY3`

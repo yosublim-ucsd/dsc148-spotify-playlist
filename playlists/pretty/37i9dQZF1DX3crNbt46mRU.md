@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Leony
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,419 likes - 99 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,412 likes - 99 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 98 | [Alles vorbei](https://open.spotify.com/track/6ClrnkqYt9NSC4sXiTogZb) | [LVLV](https://open.spotify.com/artist/4f1nPBKEn1GBmx64v3r4uc) | [Alles vorbei](https://open.spotify.com/album/4EgBZMsRsTq6Kcz3HuogYq) | 2:00 |
 | 99 | [remember \(my name\)](https://open.spotify.com/track/5pXJ82WRuuoizkkW1RJZuz) | [multiplayer](https://open.spotify.com/artist/3s5XnLtcMr2F9CiOBlgbed) | [remember \(my name\)](https://open.spotify.com/album/5HWldIPagbJh75wIJ876ie) | 2:13 |
 
-Snapshot ID: `MCw2M2RmZWQ3NTI5NDkzYzYwYWQ4OGM4YmQzMzI2NWNlZjhiNzg2MTZk`
+Snapshot ID: `MCw4YzNiN2I5MjJiNzM2Zjk2YTAzZjZmZTg4ZWQxNjJmMTk1NzcwNDRi`

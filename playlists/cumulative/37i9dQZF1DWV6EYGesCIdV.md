@@ -4,7 +4,7 @@
 
 > Aidez votre bébé à s'endormir avec ces classiques Disney en version berceuse.
 
-86 songs - 4 hr 9 min
+88 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Spoonful of Sugar \- Instrumental](https://open.spotify.com/track/0oXdn2riVPxRYTl0IYpMSi) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney Baby Sweet Dreams and Lullabies](https://open.spotify.com/album/16pvzqs551DZy6VrUVkLDg) | 1:33 | 2021-05-18 |  |
 | [A Whole New World](https://open.spotify.com/track/4PMQ9IidXtvDdhmlH4IBPD) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Breathe](https://open.spotify.com/album/1BkRLMg1PwegXipKVRXeiI) | 2:47 | 2021-05-18 |  |
 | [A Whole New World](https://open.spotify.com/track/4BchPWoixASi7GfFompkIJ) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Princess Lullaby: Soothing Instrumental Lullabies For Little Princesses](https://open.spotify.com/album/3diwNCScanKXsiDgO1Etxn) | 4:03 | 2021-05-18 |  |
+| [A Wish Worth Making \- Instrumental](https://open.spotify.com/track/5dDiJ7cbWbIBlRBMqqRJsS) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Benjamin Rice](https://open.spotify.com/artist/4aXYXCnJR6Aweo8GnWoSTD) | [Wish \(Banda Sonora Original en Español\)](https://open.spotify.com/album/17sSfXuykvQcFrW4QpxuF0) | 2:53 | 2024-03-04 |  |
 | [Alice in Wonderland](https://open.spotify.com/track/5evAAnTbHb8aLiEnusTfS3) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Calm](https://open.spotify.com/album/156mQC6K3aOBBoPRJnURCX) | 2:54 | 2021-05-18 |  |
 | [All I Want](https://open.spotify.com/track/6XKcnUKj4267lBDYqZWIqS) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Love](https://open.spotify.com/album/0cDO2axPuP9qdavq42rMug) | 2:14 | 2021-05-18 |  |
 | [All Is Found](https://open.spotify.com/track/0SdFIDXpGJnd7rIWbXQxIv) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Chill](https://open.spotify.com/album/05m44Fs7YqGLIbsxK3EiqA) | 2:23 | 2021-05-18 |  |
@@ -50,6 +51,7 @@
 | [Kiss the Girl](https://open.spotify.com/track/2huXICYr99NnodThC8me1m) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Chill](https://open.spotify.com/album/3NLf3vFNYqC2idExmdILPP) | 2:53 | 2021-05-18 |  |
 | [La berceuse d'Ahtohallan](https://open.spotify.com/track/70t6ELOe4D8lW0r9Sx68xv) | [Prisca Demarez](https://open.spotify.com/artist/1ZNeSXTk2u7tVWmUpZPI2r) | [La Reine des Neiges 2 \(Bande Originale Française du Film/Deluxe Edition\)](https://open.spotify.com/album/4TjH6kPf6mpsrvVALdPFwT) | 2:05 | 2021-05-18 |  |
 | [Lavender Blue \(Dilly Dilly\) \- Instrumental](https://open.spotify.com/track/7JRHI0vNElkfVjPxhfNnb6) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney's Lullaby Album Vol\. 2](https://open.spotify.com/album/3EV5xeChXvPoPh1lriE8sd) | 3:17 | 2021-05-18 |  |
+| [Le vœu parfait](https://open.spotify.com/track/6KE9FwyaFVmNhPFMotqiP0) | [Océane Demontis](https://open.spotify.com/artist/5hq8TtVzFt7DOL4j5zWrHs) | [Wish: Asha et la bonne étoile \(Bande Originale Française du Film\)](https://open.spotify.com/album/1LhuHxg33x4ZnyIpF702GQ) | 2:52 | 2024-03-04 |  |
 | [Let It Go](https://open.spotify.com/track/1rn2BdSE3eMh5UagUT91Ia) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Motivation](https://open.spotify.com/album/5Kw2dnoZorNMGsW31AvbNh) | 4:01 | 2021-05-18 |  |
 | [Let's Go Fly a Kite](https://open.spotify.com/track/5ctixYZanoJiK4q32wAE2e) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Happy](https://open.spotify.com/album/2AuDIqmMrSkbWL22vgsMpm) | 2:26 | 2021-05-18 |  |
 | [Love Is an Open Door](https://open.spotify.com/track/61rwlSKGf9nB2A0eWalrHA) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Calm](https://open.spotify.com/album/6NrUAostaKMBvKjI9Oc7jj) | 2:24 | 2021-05-18 |  |

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Chile.",
-  "num_followers": 70829,
+  "num_followers": 70830,
   "original_name": "Viral 50 - Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzYyODMwNDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzYyOTE2ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2024-03-03 14:28:25",
+      "added_at": "2024-03-04 14:23:21",
       "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2024-03-03 14:28:25",
+      "added_at": "2024-03-04 14:23:21",
       "album": {
         "name": "Gata Only",
         "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
@@ -45,23 +45,7 @@
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
     },
     {
-      "added_at": "2024-03-03 14:28:25",
-      "album": {
-        "name": "Praise Jah In The Moonlight",
-        "url": "https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd"
-      },
-      "artists": [
-        {
-          "name": "YG Marley",
-          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
-        }
-      ],
-      "duration_ms": 263040,
-      "name": "Praise Jah In The Moonlight",
-      "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
-    },
-    {
-      "added_at": "2024-03-03 14:28:25",
+      "added_at": "2024-03-04 14:23:21",
       "album": {
         "name": "Las Ligas Menores",
         "url": "https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g"
@@ -77,7 +61,39 @@
       "url": "https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm"
     },
     {
-      "added_at": "2024-03-03 14:28:25",
+      "added_at": "2024-03-04 14:23:21",
+      "album": {
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
+    },
+    {
+      "added_at": "2024-03-04 14:23:21",
+      "album": {
+        "name": "Bocelli (Remastered)",
+        "url": "https://open.spotify.com/album/3uARqNN4bYqts3Ltg5Jku3"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        }
+      ],
+      "duration_ms": 250983,
+      "name": "Con te partir\u00f2",
+      "url": "https://open.spotify.com/track/7zrpoAJte9o12TzawqgdD0"
+    },
+    {
+      "added_at": "2024-03-04 14:23:21",
       "album": {
         "name": "arreglo floral",
         "url": "https://open.spotify.com/album/0PHKtBh4te1tCWuTUPd6EZ"
@@ -97,39 +113,23 @@
       "url": "https://open.spotify.com/track/4Qm4cTIPYTPKL0VHcKy0tm"
     },
     {
-      "added_at": "2024-03-03 14:28:25",
+      "added_at": "2024-03-04 14:23:21",
       "album": {
-        "name": "Beautiful Things",
-        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
+        "name": "Praise Jah In The Moonlight",
+        "url": "https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd"
       },
       "artists": [
         {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          "name": "YG Marley",
+          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
         }
       ],
-      "duration_ms": 180304,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
+      "duration_ms": 263040,
+      "name": "Praise Jah In The Moonlight",
+      "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
     },
     {
-      "added_at": "2024-03-03 14:28:25",
-      "album": {
-        "name": "Bocelli (Remastered)",
-        "url": "https://open.spotify.com/album/3uARqNN4bYqts3Ltg5Jku3"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bocelli",
-          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
-        }
-      ],
-      "duration_ms": 250983,
-      "name": "Con te partir\u00f2",
-      "url": "https://open.spotify.com/track/7zrpoAJte9o12TzawqgdD0"
-    },
-    {
-      "added_at": "2024-03-03 14:28:25",
+      "added_at": "2024-03-04 14:23:21",
       "album": {
         "name": "Atrevido",
         "url": "https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC"
@@ -161,23 +161,7 @@
       "url": "https://open.spotify.com/track/0TUW9faHNaBmi89wsYGp9y"
     },
     {
-      "added_at": "2024-03-03 14:28:25",
-      "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 184027,
-      "name": "M.A.I",
-      "url": "https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7"
-    },
-    {
-      "added_at": "2024-03-03 14:28:25",
+      "added_at": "2024-03-04 14:23:21",
       "album": {
         "name": "Dance You Outta My Head",
         "url": "https://open.spotify.com/album/1fyTcCoTKXM35bFpEJlAyG"
@@ -193,7 +177,7 @@
       "url": "https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf"
     },
     {
-      "added_at": "2024-03-03 14:28:25",
+      "added_at": "2024-03-04 14:23:21",
       "album": {
         "name": "El Tiempo Lo Cura Todo",
         "url": "https://open.spotify.com/album/387DNleuXBXaCuGD9d1eUd"
@@ -241,7 +225,23 @@
       "url": "https://open.spotify.com/track/4yvTAGLY2MnZDTo7tFkkmu"
     },
     {
-      "added_at": "2024-03-03 14:28:25",
+      "added_at": "2024-03-04 14:23:21",
+      "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 184027,
+      "name": "M.A.I",
+      "url": "https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7"
+    },
+    {
+      "added_at": "2024-03-04 14:23:21",
       "album": {
         "name": "Babylon (Revised Online Music)",
         "url": "https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg"
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/581mukhDjta60CCwpvnjL9"
     },
     {
-      "added_at": "2024-03-03 14:28:25",
+      "added_at": "2024-03-04 14:23:21",
       "album": {
         "name": "Piel",
         "url": "https://open.spotify.com/album/4HB0tHV2edhM1QJXFYeKLy"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/4wS0TnQzVkY9ML1BPKpOk1"
     },
     {
-      "added_at": "2024-03-03 14:28:25",
+      "added_at": "2024-03-04 14:23:21",
       "album": {
         "name": "Romanza (Spanish Version)",
         "url": "https://open.spotify.com/album/3bqaZBUz92ypc2bCLinACW"
@@ -293,43 +293,7 @@
       "url": "https://open.spotify.com/track/71euJYgH9L0f42i09ssMN9"
     },
     {
-      "added_at": "2024-03-03 14:28:25",
-      "album": {
-        "name": "Oye mujer giuliano yankees ia",
-        "url": "https://open.spotify.com/album/5xwgjNPNZ79QM2FDAJiqh1"
-      },
-      "artists": [
-        {
-          "name": "Muzi El Muzikario",
-          "url": "https://open.spotify.com/artist/540zNMfKkWbJKVuVEBUSQq"
-        }
-      ],
-      "duration_ms": 106762,
-      "name": "Oye mujer giuliano yankees ia",
-      "url": "https://open.spotify.com/track/1LpDtRiOOnq9AbpRHyCDxw"
-    },
-    {
-      "added_at": "2024-03-03 14:28:25",
-      "album": {
-        "name": "ESA NENA REMIX",
-        "url": "https://open.spotify.com/album/3XrEY7xDGiGa3XjsZ6TOAv"
-      },
-      "artists": [
-        {
-          "name": "NEMJ",
-          "url": "https://open.spotify.com/artist/1djP5LHPEF9KvmoKJI0QPX"
-        },
-        {
-          "name": "Martinwhite",
-          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
-        }
-      ],
-      "duration_ms": 134524,
-      "name": "ESA NENA RMX",
-      "url": "https://open.spotify.com/track/7Eu9DsHBldOztErSo7erCq"
-    },
-    {
-      "added_at": "2024-03-03 14:28:25",
+      "added_at": "2024-03-04 14:23:21",
       "album": {
         "name": "Los Rompecorazones, Vol. 2",
         "url": "https://open.spotify.com/album/12vHml9HiOBynzmSzcg4i1"
@@ -349,23 +313,43 @@
       "url": "https://open.spotify.com/track/1DFLbi4TVAwgYWcV76Rcwa"
     },
     {
-      "added_at": "2024-03-03 14:28:25",
+      "added_at": "2024-03-04 14:23:21",
       "album": {
-        "name": "HAMI",
-        "url": "https://open.spotify.com/album/2jmriRWCXTXMwlrF7vVOyT"
+        "name": "ESA NENA REMIX",
+        "url": "https://open.spotify.com/album/3XrEY7xDGiGa3XjsZ6TOAv"
       },
       "artists": [
         {
-          "name": "Jorge Tomas",
-          "url": "https://open.spotify.com/artist/3ZvxjVof3XtOsajb8wI6PH"
+          "name": "NEMJ",
+          "url": "https://open.spotify.com/artist/1djP5LHPEF9KvmoKJI0QPX"
+        },
+        {
+          "name": "Martinwhite",
+          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
         }
       ],
-      "duration_ms": 136923,
-      "name": "HAMI",
-      "url": "https://open.spotify.com/track/44K0rxxJXiH0lPwT87gOZm"
+      "duration_ms": 134524,
+      "name": "ESA NENA RMX",
+      "url": "https://open.spotify.com/track/7Eu9DsHBldOztErSo7erCq"
     },
     {
-      "added_at": "2024-03-03 14:28:25",
+      "added_at": "2024-03-04 14:23:21",
+      "album": {
+        "name": "Oye mujer giuliano yankees ia",
+        "url": "https://open.spotify.com/album/5xwgjNPNZ79QM2FDAJiqh1"
+      },
+      "artists": [
+        {
+          "name": "Muzi El Muzikario",
+          "url": "https://open.spotify.com/artist/540zNMfKkWbJKVuVEBUSQq"
+        }
+      ],
+      "duration_ms": 106762,
+      "name": "Oye mujer giuliano yankees ia",
+      "url": "https://open.spotify.com/track/1LpDtRiOOnq9AbpRHyCDxw"
+    },
+    {
+      "added_at": "2024-03-04 14:23:21",
       "album": {
         "name": "Romanza (Spanish Version)",
         "url": "https://open.spotify.com/album/3bqaZBUz92ypc2bCLinACW"
@@ -385,7 +369,23 @@
       "url": "https://open.spotify.com/track/6yIG5p2mWPEUKPQuJW2yxk"
     },
     {
-      "added_at": "2024-03-03 14:28:25",
+      "added_at": "2024-03-04 14:23:21",
+      "album": {
+        "name": "HAMI",
+        "url": "https://open.spotify.com/album/2jmriRWCXTXMwlrF7vVOyT"
+      },
+      "artists": [
+        {
+          "name": "Jorge Tomas",
+          "url": "https://open.spotify.com/artist/3ZvxjVof3XtOsajb8wI6PH"
+        }
+      ],
+      "duration_ms": 136923,
+      "name": "HAMI",
+      "url": "https://open.spotify.com/track/44K0rxxJXiH0lPwT87gOZm"
+    },
+    {
+      "added_at": "2024-03-04 14:23:21",
       "album": {
         "name": "S\u00ec (Deluxe)",
         "url": "https://open.spotify.com/album/68ic1ZsRo0DIodoDYZXcM5"
@@ -405,7 +405,7 @@
       "url": "https://open.spotify.com/track/3iOqivy61CFqjcvAbcAU9u"
     },
     {
-      "added_at": "2024-03-03 14:28:25",
+      "added_at": "2024-03-04 14:23:21",
       "album": {
         "name": "Perfect Symphony (Ed Sheeran & Andrea Bocelli)",
         "url": "https://open.spotify.com/album/2MOs2gBy14kW9jYXbv2A3O"
@@ -425,7 +425,23 @@
       "url": "https://open.spotify.com/track/3zl7j5ua8mF4JDYuxrfo01"
     },
     {
-      "added_at": "2024-03-03 14:28:25",
+      "added_at": "2024-03-04 14:23:21",
+      "album": {
+        "name": "La Velocidad de la Luz",
+        "url": "https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "La Velocidad de la Luz",
+      "url": "https://open.spotify.com/track/4zaLmlOC7t1QJSCZHq9IfJ"
+    },
+    {
+      "added_at": "2024-03-04 14:23:21",
       "album": {
         "name": "Casi Angeles",
         "url": "https://open.spotify.com/album/6q1HM0kjnKUsyvEzSfrDsw"
@@ -453,7 +469,7 @@
       "url": "https://open.spotify.com/track/1tMG67mMQCsculYUqJR5RC"
     },
     {
-      "added_at": "2024-03-03 14:28:25",
+      "added_at": "2024-03-04 14:23:21",
       "album": {
         "name": "S\u00ec (Spanish Deluxe)",
         "url": "https://open.spotify.com/album/2mq8XrgsRgUgUIynVForGT"
@@ -473,39 +489,7 @@
       "url": "https://open.spotify.com/track/0Em77OXihU30jdcIuCSvm8"
     },
     {
-      "added_at": "2024-03-03 14:28:25",
-      "album": {
-        "name": "Vida Peligrosa",
-        "url": "https://open.spotify.com/album/4rcHPUrI45fiiI02zqUZXa"
-      },
-      "artists": [
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        }
-      ],
-      "duration_ms": 166736,
-      "name": "Vida Peligrosa",
-      "url": "https://open.spotify.com/track/5b0lXK1WJTKkDGbWlImwSb"
-    },
-    {
-      "added_at": "2024-03-03 14:28:25",
-      "album": {
-        "name": "De Ti Soy Adicto",
-        "url": "https://open.spotify.com/album/6k8UX3eTnjyzHMJh46t0pL"
-      },
-      "artists": [
-        {
-          "name": "MJ La Banda",
-          "url": "https://open.spotify.com/artist/4MSFIARyrVVwioMVuQHaUd"
-        }
-      ],
-      "duration_ms": 208065,
-      "name": "De Ti Soy Adicto",
-      "url": "https://open.spotify.com/track/5nXeiCGedneY3Me90nYu1H"
-    },
-    {
-      "added_at": "2024-03-03 14:28:25",
+      "added_at": "2024-03-04 14:23:21",
       "album": {
         "name": "Confortas Pero Da\u00f1as",
         "url": "https://open.spotify.com/album/0XnGw8WHcmD8E5PAec44ip"
@@ -525,43 +509,7 @@
       "url": "https://open.spotify.com/track/1XhoqOuon1mUaZpDSjRiaD"
     },
     {
-      "added_at": "2024-03-03 14:28:25",
-      "album": {
-        "name": "Buscando Money",
-        "url": "https://open.spotify.com/album/2dJSAvaObagSOskW5umnny"
-      },
-      "artists": [
-        {
-          "name": "TWENTY SIX",
-          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
-        },
-        {
-          "name": "Tayson Kryss",
-          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Buscando Money",
-      "url": "https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ"
-    },
-    {
-      "added_at": "2024-03-03 14:28:25",
-      "album": {
-        "name": "La Velocidad de la Luz",
-        "url": "https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "La Velocidad de la Luz",
-      "url": "https://open.spotify.com/track/4zaLmlOC7t1QJSCZHq9IfJ"
-    },
-    {
-      "added_at": "2024-03-03 14:28:25",
+      "added_at": "2024-03-04 14:23:21",
       "album": {
         "name": "Del Hampa Pal Mundo",
         "url": "https://open.spotify.com/album/6ZdWC2vUfPCCtOWqPzc2NP"
@@ -585,7 +533,23 @@
       "url": "https://open.spotify.com/track/0ex09B5au6UHlujRSjAolE"
     },
     {
-      "added_at": "2024-03-03 14:28:25",
+      "added_at": "2024-03-04 14:23:21",
+      "album": {
+        "name": "Vida Peligrosa",
+        "url": "https://open.spotify.com/album/4rcHPUrI45fiiI02zqUZXa"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        }
+      ],
+      "duration_ms": 166736,
+      "name": "Vida Peligrosa",
+      "url": "https://open.spotify.com/track/5b0lXK1WJTKkDGbWlImwSb"
+    },
+    {
+      "added_at": "2024-03-04 14:23:21",
       "album": {
         "name": "Sobre El Amor Y Sus Efectos Secundarios",
         "url": "https://open.spotify.com/album/50eHcXc4qede9mUKCYOuoz"
@@ -601,47 +565,63 @@
       "url": "https://open.spotify.com/track/7M6CFruBrM5x7u0lTMtm6r"
     },
     {
-      "added_at": "2024-03-03 14:28:25",
+      "added_at": "2024-03-04 14:23:21",
       "album": {
-        "name": "Poison (Hazbin Hotel Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6dB85sDBpcpU4s5kwU7etB"
+        "name": "De Ti Soy Adicto",
+        "url": "https://open.spotify.com/album/6k8UX3eTnjyzHMJh46t0pL"
       },
       "artists": [
         {
-          "name": "Blake Roman",
-          "url": "https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej"
-        },
-        {
-          "name": "Sam Haft",
-          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
-        },
-        {
-          "name": "Andrew Underberg",
-          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+          "name": "MJ La Banda",
+          "url": "https://open.spotify.com/artist/4MSFIARyrVVwioMVuQHaUd"
         }
       ],
-      "duration_ms": 127689,
-      "name": "Poison - Hazbin Hotel Original Soundtrack",
-      "url": "https://open.spotify.com/track/6ZXL1A1BVshe1JZ1IY734k"
+      "duration_ms": 208065,
+      "name": "De Ti Soy Adicto",
+      "url": "https://open.spotify.com/track/5nXeiCGedneY3Me90nYu1H"
     },
     {
-      "added_at": "2024-03-03 14:28:25",
+      "added_at": "2024-03-04 14:23:21",
       "album": {
-        "name": "Bling-Bang-Bang-Born",
-        "url": "https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6"
+        "name": "Los Rompecorazones, Vol. 2",
+        "url": "https://open.spotify.com/album/12vHml9HiOBynzmSzcg4i1"
       },
       "artists": [
         {
-          "name": "Creepy Nuts",
-          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Daiko 02",
+          "url": "https://open.spotify.com/artist/7HyrZUMEfu8eTF2iN5iP7T"
         }
       ],
-      "duration_ms": 168135,
-      "name": "Bling-Bang-Bang-Born",
-      "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
+      "duration_ms": 232653,
+      "name": "Minnie <3",
+      "url": "https://open.spotify.com/track/4awSm1QqlLxMW58vi428bq"
     },
     {
-      "added_at": "2024-03-03 14:28:25",
+      "added_at": "2024-03-04 14:23:21",
+      "album": {
+        "name": "Bocelli (Remastered)",
+        "url": "https://open.spotify.com/album/3uARqNN4bYqts3Ltg5Jku3"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Giorgia",
+          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
+        }
+      ],
+      "duration_ms": 265584,
+      "name": "Vivo per lei",
+      "url": "https://open.spotify.com/track/6cPLCU7hKjgjvLWzCevl7R"
+    },
+    {
+      "added_at": "2024-03-04 14:23:21",
       "album": {
         "name": "Lola",
         "url": "https://open.spotify.com/album/0zTDg24VVw7fQerm0Y7Vua"
@@ -665,79 +645,91 @@
       "url": "https://open.spotify.com/track/6x5wWTNpTWuWrFmqxKAmOs"
     },
     {
-      "added_at": "2024-03-03 14:28:25",
+      "added_at": "2024-03-04 14:23:21",
       "album": {
-        "name": "Bocelli (Remastered)",
-        "url": "https://open.spotify.com/album/3uARqNN4bYqts3Ltg5Jku3"
+        "name": "Poison (Hazbin Hotel Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6dB85sDBpcpU4s5kwU7etB"
       },
       "artists": [
         {
-          "name": "Andrea Bocelli",
-          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+          "name": "Blake Roman",
+          "url": "https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej"
         },
         {
-          "name": "Giorgia",
-          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
-        }
-      ],
-      "duration_ms": 265584,
-      "name": "Vivo per lei",
-      "url": "https://open.spotify.com/track/6cPLCU7hKjgjvLWzCevl7R"
-    },
-    {
-      "added_at": "2024-03-03 14:28:25",
-      "album": {
-        "name": "Los Rompecorazones, Vol. 2",
-        "url": "https://open.spotify.com/album/12vHml9HiOBynzmSzcg4i1"
-      },
-      "artists": [
-        {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
         },
         {
-          "name": "Daiko 02",
-          "url": "https://open.spotify.com/artist/7HyrZUMEfu8eTF2iN5iP7T"
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
         }
       ],
-      "duration_ms": 232653,
-      "name": "Minnie <3",
-      "url": "https://open.spotify.com/track/4awSm1QqlLxMW58vi428bq"
+      "duration_ms": 127689,
+      "name": "Poison - Hazbin Hotel Original Soundtrack",
+      "url": "https://open.spotify.com/track/6ZXL1A1BVshe1JZ1IY734k"
     },
     {
-      "added_at": "2024-03-03 14:28:25",
+      "added_at": "2024-03-04 14:23:21",
       "album": {
-        "name": "Alma de Guitarra",
-        "url": "https://open.spotify.com/album/7zgIyogXejgd7hHHu4DIoq"
+        "name": "Bling-Bang-Bang-Born",
+        "url": "https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6"
       },
       "artists": [
         {
-          "name": "Banderas",
-          "url": "https://open.spotify.com/artist/7wABlpxXQof52AfHIgXdbA"
+          "name": "Creepy Nuts",
+          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
         }
       ],
-      "duration_ms": 125493,
-      "name": "Alma de Guitarra",
-      "url": "https://open.spotify.com/track/15rItEDtByw9rSzbG2umJ0"
+      "duration_ms": 168135,
+      "name": "Bling-Bang-Bang-Born",
+      "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
     },
     {
-      "added_at": "2024-03-03 14:28:25",
+      "added_at": "2024-03-04 14:23:21",
       "album": {
-        "name": "Soaked",
-        "url": "https://open.spotify.com/album/6cd80qsoUsGCmHasCswGhW"
+        "name": "Buscando Money",
+        "url": "https://open.spotify.com/album/2dJSAvaObagSOskW5umnny"
       },
       "artists": [
         {
-          "name": "Shy Smith",
-          "url": "https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb"
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        },
+        {
+          "name": "Tayson Kryss",
+          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
         }
       ],
-      "duration_ms": 179449,
-      "name": "Soaked",
-      "url": "https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA"
+      "duration_ms": 150000,
+      "name": "Buscando Money",
+      "url": "https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ"
     },
     {
-      "added_at": "2024-03-03 14:28:25",
+      "added_at": "2024-03-04 14:23:21",
+      "album": {
+        "name": "Encima De Mi",
+        "url": "https://open.spotify.com/album/1Xj4dSNkUuUzSG8YegWfEf"
+      },
+      "artists": [
+        {
+          "name": "filtragvspi",
+          "url": "https://open.spotify.com/artist/4dHVl8Dfhcl6eVA1IZRxso"
+        },
+        {
+          "name": "jere kleinn",
+          "url": "https://open.spotify.com/artist/5Teh54XshOsA9VFAysh5KW"
+        },
+        {
+          "name": "lucky broown",
+          "url": "https://open.spotify.com/artist/7EzJFjb21kpWdvzmj5TKte"
+        }
+      ],
+      "duration_ms": 115538,
+      "name": "Encima De Mi",
+      "url": "https://open.spotify.com/track/5ul8goxRfS5qh1JBEUbICd"
+    },
+    {
+      "added_at": "2024-03-04 14:23:21",
       "album": {
         "name": "Matteo",
         "url": "https://open.spotify.com/album/5VeLRPwjs2yLnNklcluzlc"
@@ -753,23 +745,75 @@
       "url": "https://open.spotify.com/track/7sNXjFbzb7ieyqISKsal88"
     },
     {
-      "added_at": "2024-03-03 14:28:25",
+      "added_at": "2024-03-04 14:23:21",
       "album": {
-        "name": "Bendito (Soundtrack Baby Bandito: La Serie)",
-        "url": "https://open.spotify.com/album/1ji1ML1G1fSvQDckKxSajC"
+        "name": "Barrio Estaci\u00f3n",
+        "url": "https://open.spotify.com/album/28VjwDx4sL5GJRBUgOlJ7v"
       },
       "artists": [
         {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
         }
       ],
-      "duration_ms": 159583,
-      "name": "Bendito (Soundtrack Baby Bandito: La Serie)",
-      "url": "https://open.spotify.com/track/0sX1JCSfCemDJe8qK6CGeL"
+      "duration_ms": 286106,
+      "name": "Nada Nuevo Bajo El Sol",
+      "url": "https://open.spotify.com/track/6hBfF54vgIAdtb5kbbvt75"
     },
     {
-      "added_at": "2024-03-03 14:28:25",
+      "added_at": "2024-03-04 14:23:21",
+      "album": {
+        "name": "Alma de Guitarra",
+        "url": "https://open.spotify.com/album/7zgIyogXejgd7hHHu4DIoq"
+      },
+      "artists": [
+        {
+          "name": "Banderas",
+          "url": "https://open.spotify.com/artist/7wABlpxXQof52AfHIgXdbA"
+        }
+      ],
+      "duration_ms": 125493,
+      "name": "Alma de Guitarra",
+      "url": "https://open.spotify.com/track/15rItEDtByw9rSzbG2umJ0"
+    },
+    {
+      "added_at": "2024-03-04 14:23:21",
+      "album": {
+        "name": "Soaked",
+        "url": "https://open.spotify.com/album/6cd80qsoUsGCmHasCswGhW"
+      },
+      "artists": [
+        {
+          "name": "Shy Smith",
+          "url": "https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb"
+        }
+      ],
+      "duration_ms": 179449,
+      "name": "Soaked",
+      "url": "https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA"
+    },
+    {
+      "added_at": "2024-03-04 14:23:21",
+      "album": {
+        "name": "Fashion Girl (Remix)",
+        "url": "https://open.spotify.com/album/21sLFYA7VmVpCadRw7Z1sq"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        }
+      ],
+      "duration_ms": 191020,
+      "name": "Fashion Girl - Remix",
+      "url": "https://open.spotify.com/track/6ECqgyhDZcf6fqlJhSTRhP"
+    },
+    {
+      "added_at": "2024-03-04 14:23:21",
       "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
@@ -801,7 +845,59 @@
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
     },
     {
-      "added_at": "2024-03-03 14:28:25",
+      "added_at": "2024-03-04 14:23:21",
+      "album": {
+        "name": "Casi Amor De Verano",
+        "url": "https://open.spotify.com/album/1wiaYWxg54mycc3A5cGRI0"
+      },
+      "artists": [
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        }
+      ],
+      "duration_ms": 210829,
+      "name": "Casi Amor De Verano",
+      "url": "https://open.spotify.com/track/3HSVuIkPGY4rdtifvEU3xz"
+    },
+    {
+      "added_at": "2024-03-04 14:23:21",
+      "album": {
+        "name": "Bendito (Soundtrack Baby Bandito: La Serie)",
+        "url": "https://open.spotify.com/album/1ji1ML1G1fSvQDckKxSajC"
+      },
+      "artists": [
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        }
+      ],
+      "duration_ms": 159583,
+      "name": "Bendito (Soundtrack Baby Bandito: La Serie)",
+      "url": "https://open.spotify.com/track/0sX1JCSfCemDJe8qK6CGeL"
+    },
+    {
+      "added_at": "2024-03-04 14:23:21",
+      "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/1svYzadjdS9RrR2E2EPEhj"
+      },
+      "artists": [
+        {
+          "name": "Carrion GodBle$$",
+          "url": "https://open.spotify.com/artist/7we8fCds6Fc36UjH1oq4OU"
+        },
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/3i9eOUfw6q0d4MTxIXASZW"
+        }
+      ],
+      "duration_ms": 358000,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/2PZuFDO3jh5RHLX6CGEpsW"
+    },
+    {
+      "added_at": "2024-03-04 14:23:21",
       "album": {
         "name": "VVS Switch",
         "url": "https://open.spotify.com/album/7EEtDPmhHgyY5aNq62IaGg"
@@ -817,39 +913,7 @@
       "url": "https://open.spotify.com/track/3pEP9sPglz2hVxA8BUsB7S"
     },
     {
-      "added_at": "2024-03-03 14:28:25",
-      "album": {
-        "name": "Barrio Estaci\u00f3n",
-        "url": "https://open.spotify.com/album/28VjwDx4sL5GJRBUgOlJ7v"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 286106,
-      "name": "Nada Nuevo Bajo El Sol",
-      "url": "https://open.spotify.com/track/6hBfF54vgIAdtb5kbbvt75"
-    },
-    {
-      "added_at": "2024-03-03 14:28:25",
-      "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/0j5oHHGTmEo3CzLt0wYTya"
-      },
-      "artists": [
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 124374,
-      "name": "Emociones",
-      "url": "https://open.spotify.com/track/4M4Tc6Mx3IZhOXD8H7Iziq"
-    },
-    {
-      "added_at": "2024-03-03 14:28:25",
+      "added_at": "2024-03-04 14:23:21",
       "album": {
         "name": "Business As Usual",
         "url": "https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84"
@@ -865,7 +929,23 @@
       "url": "https://open.spotify.com/track/3ZZq9396zv8pcn5GYVhxUi"
     },
     {
-      "added_at": "2024-03-03 14:28:25",
+      "added_at": "2024-03-04 14:23:21",
+      "album": {
+        "name": "No Paro De Pensar",
+        "url": "https://open.spotify.com/album/4qhJYga4cbKhVfg5tnTR6X"
+      },
+      "artists": [
+        {
+          "name": "FiltraMusic",
+          "url": "https://open.spotify.com/artist/7qddYkcdROJ86rWpsmls7I"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "No Paro De Pensar",
+      "url": "https://open.spotify.com/track/1TktG2NVvJRAE1ng8kcYHg"
+    },
+    {
+      "added_at": "2024-03-04 14:23:21",
       "album": {
         "name": "\u00danica",
         "url": "https://open.spotify.com/album/4bQ9GyarxTLhDS1FE7AX6p"
@@ -889,92 +969,20 @@
       "url": "https://open.spotify.com/track/1La211jIrwNK1D5s20yGMq"
     },
     {
-      "added_at": "2024-03-03 14:28:25",
+      "added_at": "2024-03-04 14:23:21",
       "album": {
-        "name": "Fashion Girl (Remix)",
-        "url": "https://open.spotify.com/album/21sLFYA7VmVpCadRw7Z1sq"
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/0j5oHHGTmEo3CzLt0wYTya"
       },
       "artists": [
         {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        },
-        {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
         }
       ],
-      "duration_ms": 191020,
-      "name": "Fashion Girl - Remix",
-      "url": "https://open.spotify.com/track/6ECqgyhDZcf6fqlJhSTRhP"
-    },
-    {
-      "added_at": "2024-03-03 14:28:25",
-      "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/1svYzadjdS9RrR2E2EPEhj"
-      },
-      "artists": [
-        {
-          "name": "Carrion GodBle$$",
-          "url": "https://open.spotify.com/artist/7we8fCds6Fc36UjH1oq4OU"
-        },
-        {
-          "name": "Saske",
-          "url": "https://open.spotify.com/artist/3i9eOUfw6q0d4MTxIXASZW"
-        }
-      ],
-      "duration_ms": 358000,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/2PZuFDO3jh5RHLX6CGEpsW"
-    },
-    {
-      "added_at": "2024-03-03 14:28:25",
-      "album": {
-        "name": "Casi Amor De Verano",
-        "url": "https://open.spotify.com/album/1wiaYWxg54mycc3A5cGRI0"
-      },
-      "artists": [
-        {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
-        }
-      ],
-      "duration_ms": 210829,
-      "name": "Casi Amor De Verano",
-      "url": "https://open.spotify.com/track/3HSVuIkPGY4rdtifvEU3xz"
-    },
-    {
-      "added_at": "2024-03-03 14:28:25",
-      "album": {
-        "name": "No Paro De Pensar",
-        "url": "https://open.spotify.com/album/4qhJYga4cbKhVfg5tnTR6X"
-      },
-      "artists": [
-        {
-          "name": "FiltraMusic",
-          "url": "https://open.spotify.com/artist/7qddYkcdROJ86rWpsmls7I"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "No Paro De Pensar",
-      "url": "https://open.spotify.com/track/1TktG2NVvJRAE1ng8kcYHg"
-    },
-    {
-      "added_at": "2024-03-03 14:28:25",
-      "album": {
-        "name": "Unwritten",
-        "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
-      },
-      "artists": [
-        {
-          "name": "Natasha Bedingfield",
-          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
-        }
-      ],
-      "duration_ms": 259333,
-      "name": "Unwritten",
-      "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
+      "duration_ms": 124374,
+      "name": "Emociones",
+      "url": "https://open.spotify.com/track/4M4Tc6Mx3IZhOXD8H7Iziq"
     }
   ],
   "unique_name": "Viral 50 - Chile",

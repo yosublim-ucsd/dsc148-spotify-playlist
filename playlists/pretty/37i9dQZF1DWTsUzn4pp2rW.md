@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,681 likes - 140 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,730 likes - 140 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 6 | [I Touch Myself](https://open.spotify.com/track/5Lk2DCQqa0peKaqLCv5uyW) | [Anekka](https://open.spotify.com/artist/2GWp5uc48WTM1nnqqUbJQd), [Brazilian Jazz Cuts](https://open.spotify.com/artist/4KVWjWPXzulIkmjlk8P05o) | [I Touch Myself](https://open.spotify.com/album/5vgUrCbyURSaDhnJXlmSDu) | 3:20 |
 | 7 | [They Can’t Take That Away From Me](https://open.spotify.com/track/0dSPznKUTcxm3WZUURVjiI) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Fifty Shades Darker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi) | 2:04 |
 | 8 | [You Belong To My Heart \- Solamente una Vez](https://open.spotify.com/track/6s4lefaSddnWhOiT1hBre5) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Flores para Frida](https://open.spotify.com/album/2RnkhkkMf3ohTkeynGNfMq) | 2:43 |
-| 9 | [We Might As Well Dance](https://open.spotify.com/track/0kPWIQGElJzq2p4BxvFdai) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Anthem](https://open.spotify.com/album/3a6ln2VwpNL5Nve4QDyzRo) | 3:14 |
-| 10 | [Help Me Make It Through the Night \(feat\. Loren Allred\)](https://open.spotify.com/track/6f6jBn29HU6pbvy99NYXF3) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Loren Allred](https://open.spotify.com/artist/0LyOADBjj28cbvJWTXUEGA) | [love \(Deluxe Edition\)](https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY) | 3:42 |
-| 11 | [It Was You](https://open.spotify.com/track/11F7j5xGRbsajmUPrwkqDP) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Begin Again](https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj) | 5:30 |
+| 9 | [Help Me Make It Through the Night \(feat\. Loren Allred\)](https://open.spotify.com/track/6f6jBn29HU6pbvy99NYXF3) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Loren Allred](https://open.spotify.com/artist/0LyOADBjj28cbvJWTXUEGA) | [love \(Deluxe Edition\)](https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY) | 3:42 |
+| 10 | [It Was You](https://open.spotify.com/track/11F7j5xGRbsajmUPrwkqDP) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Begin Again](https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj) | 5:30 |
+| 11 | [We Might As Well Dance](https://open.spotify.com/track/0kPWIQGElJzq2p4BxvFdai) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Anthem](https://open.spotify.com/album/3a6ln2VwpNL5Nve4QDyzRo) | 3:14 |
 | 12 | [I Ran \(So Far Away\)](https://open.spotify.com/track/37JRb6cexDkgxVPqcuFivc) | [Dinah Eastwood](https://open.spotify.com/artist/0fEmrjJq8kgO5Vuomz0FJ9) | [I Ran \(So Far Away\)](https://open.spotify.com/album/7qhixjUIoIgMYA2Q3yjJi0) | 4:02 |
 | 13 | [Everywhere](https://open.spotify.com/track/5UffJ6fz0ikQ0ze8bqRyHQ) | [Eve St\. Jones](https://open.spotify.com/artist/6NP40ldgw4kYtspZOziuii) | [Everywhere](https://open.spotify.com/album/1cOMb8F5PoPBgF79sKxO11) | 3:01 |
 | 14 | [Do Friends Fall in Love?](https://open.spotify.com/track/52Bvu2IqOZuq77KRkDcLzS) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [Rachael & Vilray](https://open.spotify.com/album/7aE5YTsCLl2kMhlZM2FtKm) | 2:55 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 94 | [At the End of the Day](https://open.spotify.com/track/1DBy8RZnRDSHfiOCvGeRRm) | [Caleb Dinger](https://open.spotify.com/artist/5KyVVR3mKmRk3gKEDXhnVs) | [At the End of the Day](https://open.spotify.com/album/7fnwEYlBFVtBqxrBK38m6O) | 3:36 |
 | 95 | [Sugilite](https://open.spotify.com/track/4ifnTPPw3EQX0CBLRyo6cT) | [Jeanne Newhall](https://open.spotify.com/artist/2H0uuUfIaOJs65CXtlNa9t) | [Sugilite](https://open.spotify.com/album/5oiFCRXohoBQcIKRZf49TN) | 4:38 |
 | 96 | [I'd Run to the Moon](https://open.spotify.com/track/1y4g7ZmRG18Yxckjf4fXfP) | [Meryl Rudy](https://open.spotify.com/artist/5D0fFHHBDqY6PuxnZgbcMc), [Sophie Wellington](https://open.spotify.com/artist/2QsDhtqBdhs5RAyMnKye7C) | [Featuring EP](https://open.spotify.com/album/6HIiwDEN449szjTsa2SwDC) | 2:56 |
-| 97 | [Let's Go to Bed](https://open.spotify.com/track/5IOpRI9B5AdsM27NRoxFBN) | [Apollinare Rossi](https://open.spotify.com/artist/48eBlQXonG4CHpDSshfblU), [Jules Renauld](https://open.spotify.com/artist/1Y9ahZoSEtmas0uiZLNFbM) | [Collusion](https://open.spotify.com/album/06hyQYD4HmLpKPhtG0BaJD) | 4:27 |
-| 98 | [Okay Far Away](https://open.spotify.com/track/71pCUljdEvSTyXAshOr04o) | [Alan Hsiao](https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG) | [Little Songs](https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC) | 3:31 |
+| 97 | [Okay Far Away](https://open.spotify.com/track/71pCUljdEvSTyXAshOr04o) | [Alan Hsiao](https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG) | [Little Songs](https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC) | 3:31 |
+| 98 | [Let's Go to Bed](https://open.spotify.com/track/5IOpRI9B5AdsM27NRoxFBN) | [Apollinare Rossi](https://open.spotify.com/artist/48eBlQXonG4CHpDSshfblU), [Jules Renauld](https://open.spotify.com/artist/1Y9ahZoSEtmas0uiZLNFbM) | [Collusion](https://open.spotify.com/album/06hyQYD4HmLpKPhtG0BaJD) | 4:27 |
 | 99 | [Sunshine & Lullaby](https://open.spotify.com/track/67qv5GoZCaVf5Z8613r5bY) | [Matthew Hermosura](https://open.spotify.com/artist/6lTUjzrkveIemv9jnBVMfy) | [Sunshine & Lullaby](https://open.spotify.com/album/5KBuxVQaHTEobBxlMPglhT) | 4:07 |
 | 100 | [Take Me Off to Dreamland](https://open.spotify.com/track/1oMnqVt779JEPlsLPZyql7) | [Imajjine](https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL) | [Take Me Off to Dreamland](https://open.spotify.com/album/0EmfCjSWHg8evy7OS31JGC) | 4:48 |
 | 101 | [Thinking of You](https://open.spotify.com/track/4pUe0F3de1wLLGYFkbhmmn) | [Wilson's Prom](https://open.spotify.com/artist/0bOBdnpYotkdGUEdcFoa9M), [Feelds](https://open.spotify.com/artist/74W4mKE9RR576xVZiMGE8W), [Merpire](https://open.spotify.com/artist/453zlrMQd9y8WApAIe9tkV) | [Thinking of You](https://open.spotify.com/album/2YrxQ8cVq9Rcw0vLOKx2cy) | 3:04 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 139 | [Sunny Days](https://open.spotify.com/track/0e9Etx1cLy20DjH7q4t0T0) | [Ginne Marker](https://open.spotify.com/artist/0NShpiolVrABxF4nKiSL39) | [Sunny Days](https://open.spotify.com/album/0v7xpgCyoHfeLFzsgl1fBE) | 4:00 |
 | 140 | [Follow](https://open.spotify.com/track/17BdO3lx1ovJHyELPJxIYa) | [Ragnar H](https://open.spotify.com/artist/7cU7WCvR7gGHnxaNx7unOT) | [Follow](https://open.spotify.com/album/0qcy7sm9UaA9qKFSOHVlvD) | 3:52 |
 
-Snapshot ID: `MCw5ZWU2M2Q2MGRhOGIyNGZiNzJmNWY5N2NiMjdhOWNmYWY0NDI5ZDNm`
+Snapshot ID: `MCxiNzYxMzZiM2ZkMjhiMmQwZGU4ZmVmZDRkYTRjYmZlOTI4MDgxNmRh`

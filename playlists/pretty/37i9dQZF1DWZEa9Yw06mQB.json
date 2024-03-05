@@ -1,12 +1,12 @@
 {
   "description": "Los cl\u00e1sicos de hoy y siempre.",
-  "num_followers": 379490,
+  "num_followers": 379550,
   "original_name": "Mix Universal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDUzMDZkMmQwYjdkZDEzMWEzZmFkNzE5NjUxOWUzNzhiM2NjNmRi",
+  "snapshot_id": "MCwzOTg2MTdlYTE5ODViZDMxOWZhMTk2NDcwYzIxNmEyOTQ4OGY4OTA1",
   "tracks": [
     {
       "added_at": "2021-08-31 21:15:04",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2021-08-31 21:15:04",
       "album": {
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 197213,
+      "name": "More Than A Woman",
+      "url": "https://open.spotify.com/track/49OMJ1prsRA7ZYgrAjz70c"
+    },
+    {
+      "added_at": "2021-08-31 21:15:04",
+      "album": {
         "name": "Madman Across The Water",
         "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 216466,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/0WoFs3EdGOx58yX5BtXvOa"
-    },
-    {
-      "added_at": "2021-08-31 21:15:04",
-      "album": {
-        "name": "Greatest",
-        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 197213,
-      "name": "More Than A Woman",
-      "url": "https://open.spotify.com/track/49OMJ1prsRA7ZYgrAjz70c"
     },
     {
       "added_at": "2021-08-31 21:15:04",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2021-08-31 21:15:04",
       "album": {
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 285373,
+      "name": "Stayin' Alive",
+      "url": "https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH"
+    },
+    {
+      "added_at": "2021-08-31 21:15:04",
+      "album": {
         "name": "The Final Countdown (Expanded Edition)",
         "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 258040,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj"
-    },
-    {
-      "added_at": "2021-08-31 21:15:04",
-      "album": {
-        "name": "Greatest",
-        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 285373,
-      "name": "Stayin' Alive",
-      "url": "https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH"
     },
     {
       "added_at": "2021-08-31 21:15:04",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2021-08-31 21:15:04",
       "album": {
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Respect",
+      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
+    },
+    {
+      "added_at": "2021-08-31 21:15:04",
+      "album": {
         "name": "The Wall",
         "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 169800,
       "name": "For Once In My Life",
       "url": "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK"
-    },
-    {
-      "added_at": "2021-08-31 21:15:04",
-      "album": {
-        "name": "I Never Loved a Man the Way I Love You",
-        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Respect",
-      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
     },
     {
       "added_at": "2021-08-31 21:15:04",

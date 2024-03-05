@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,476 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,504 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 29 | [Caffeine](https://open.spotify.com/track/5JbbvaybLOHy7xzRDfW5lC) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Caffeine](https://open.spotify.com/album/7gvil4YLPC0BHyB2GXg8aJ) | 3:05 |
 | 30 | [Ndokulandela](https://open.spotify.com/track/1kQjyyI3xZixtByFizxlXE) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Mangaliso](https://open.spotify.com/album/1fXiO7h7dDB3RBG13jLh8A) | 3:51 |
 | 31 | [Giving In To The Love](https://open.spotify.com/track/1YKRI4Uqw9HNEqMoQvhQom) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX) | 3:01 |
-| 32 | [Dionne \(feat\. Justin Vernon\)](https://open.spotify.com/track/15gL4n95OG5KEQLCMXPQzp) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u), [Justin Vernon](https://open.spotify.com/artist/13rHmjtJmlIJ2aDyJc7CLV) | [Chewing Cotton Wool](https://open.spotify.com/album/1OlByJ5jsP9Eklfp03Xn8z) | 4:44 |
-| 33 | [Chemicals](https://open.spotify.com/track/4xnaRQjBsHrJY5hmxBlMel) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Chemicals](https://open.spotify.com/album/2rKMATGYJneoAvdd6ZJrIB) | 4:14 |
+| 32 | [Chemicals](https://open.spotify.com/track/4xnaRQjBsHrJY5hmxBlMel) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Chemicals](https://open.spotify.com/album/2rKMATGYJneoAvdd6ZJrIB) | 4:14 |
+| 33 | [Dionne \(feat\. Justin Vernon\)](https://open.spotify.com/track/15gL4n95OG5KEQLCMXPQzp) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u), [Justin Vernon](https://open.spotify.com/artist/13rHmjtJmlIJ2aDyJc7CLV) | [Chewing Cotton Wool](https://open.spotify.com/album/1OlByJ5jsP9Eklfp03Xn8z) | 4:44 |
 | 34 | [Surprise Yourself](https://open.spotify.com/track/6YaC65M3ujeROidG3b09J0) | [Jack Garratt](https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA) | [Phase \(Deluxe\)](https://open.spotify.com/album/5NvSqYFMTXEkp2jAc3tFYR) | 4:20 |
 | 35 | [Free In The Knowledge](https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 4:12 |
 | 36 | [Thin](https://open.spotify.com/track/7swTZr50nSpeq9469IJ9LI) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [ii](https://open.spotify.com/album/7MRes84TxvKPqlTbp3FDUN) | 2:58 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 47 | [My Love](https://open.spotify.com/track/398CKeawsPHfonnxsimsPe) | [MVCA](https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Cairo](https://open.spotify.com/artist/4vNlfhvPPRLOvmveTD7uQ0), [Fake ID](https://open.spotify.com/artist/3O6FybT51NR578KVOXe5b3) | [My Love](https://open.spotify.com/album/2jTldfzmnGTfwNKQqJ1Wgb) | 2:40 |
 | 48 | [Oasis](https://open.spotify.com/track/3jlFMDKI3hjKvqzXry1Yq1) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Oasis](https://open.spotify.com/album/7BCdGiEPeZ3ysc0rF8PSsj) | 3:22 |
 | 49 | [Edge of the Dark](https://open.spotify.com/track/4RE36XFP3a20pBSV9GdMAE) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Far From Here](https://open.spotify.com/album/3y1HiZb2e8rIP4nWMKJRFi) | 4:20 |
-| 50 | [The Pines](https://open.spotify.com/track/78YCcccbjHCFBFnboEBtpg) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l) | [Roses & Revolutions](https://open.spotify.com/album/4OfwTpLOdw2arj9V8rN1zi) | 3:07 |
-| 51 | [Corners Of My Mind](https://open.spotify.com/track/0wdMcK7ejJRdi2AiY2wLGk) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. I](https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ) | 3:32 |
+| 50 | [Corners Of My Mind](https://open.spotify.com/track/0wdMcK7ejJRdi2AiY2wLGk) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. I](https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ) | 3:32 |
+| 51 | [The Pines](https://open.spotify.com/track/78YCcccbjHCFBFnboEBtpg) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l) | [Roses & Revolutions](https://open.spotify.com/album/4OfwTpLOdw2arj9V8rN1zi) | 3:07 |
 | 52 | [Trouble](https://open.spotify.com/track/3JqthBGrJH1BeV76QAq9BD) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:04 |
 | 53 | [Artifice](https://open.spotify.com/track/7mp7xiw8cUpLPDTSZ1v5BS) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Tremors](https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp) | 3:17 |
 | 54 | [Awaken \(Feel Alive\)](https://open.spotify.com/track/2qTWIlRARiTrE5MIO1Q0HE) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Awaken \(Feel Alive\)](https://open.spotify.com/album/3LjP2mnsPooNbNG5faylZH) | 3:00 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 91 | [On Your Side](https://open.spotify.com/track/1wAclvl2eW3uuTQtWGXP2M) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Letter Blue](https://open.spotify.com/album/73JjCWpjzmp1alhxVtywvF) | 4:08 |
 | 92 | [Tunnels and Planes](https://open.spotify.com/track/2ymKOhF3LMfqJSeMox9Y5g) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [Tunnels & Planes](https://open.spotify.com/album/2FJbfnxj4NgTOkF6O4EI9I) | 4:11 |
 | 93 | [Heart \- Alternative Version](https://open.spotify.com/track/44EPCM1s8YWZKGUTTcbxOB) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heart \(Alternative Version\)](https://open.spotify.com/album/3raFKyVQMl05qPHSDUUjcS) | 2:55 |
-| 94 | [Santa Monica](https://open.spotify.com/track/07DU8dRQofaACseJ4MF1AF) | [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Iridescent](https://open.spotify.com/album/5aeiWEPlbYxCydWtK1Jx3e) | 3:22 |
-| 95 | [Avery](https://open.spotify.com/track/31DUl7XE3OzX1IcnVG94g4) | [Oscar Welsh](https://open.spotify.com/artist/5h7aN3xfMdLwyuopfgvtST) | [Avery](https://open.spotify.com/album/643Gnd42azlZukIkuTucy6) | 3:14 |
-| 96 | [Sweet Summer Sweat](https://open.spotify.com/track/2rF0SIGlQLyU2Vg3Vxlxn5) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [EPHEMERA](https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m) | 3:03 |
+| 94 | [Sweet Summer Sweat](https://open.spotify.com/track/2rF0SIGlQLyU2Vg3Vxlxn5) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [EPHEMERA](https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m) | 3:03 |
+| 95 | [Santa Monica](https://open.spotify.com/track/07DU8dRQofaACseJ4MF1AF) | [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Iridescent](https://open.spotify.com/album/5aeiWEPlbYxCydWtK1Jx3e) | 3:22 |
+| 96 | [Avery](https://open.spotify.com/track/31DUl7XE3OzX1IcnVG94g4) | [Oscar Welsh](https://open.spotify.com/artist/5h7aN3xfMdLwyuopfgvtST) | [Avery](https://open.spotify.com/album/643Gnd42azlZukIkuTucy6) | 3:14 |
 | 97 | [WONDER \- PVRIS Remix](https://open.spotify.com/track/45Lipcl84LsBSjNu9HLvd7) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [WONDER \(reimagined\)](https://open.spotify.com/album/7tnVzkSZO9tTv9EGhxQ5d8) | 4:15 |
 | 98 | [Hold On](https://open.spotify.com/track/2AWmbsux3PUazslAJ1L0ML) | [ford.](https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [The Color of Nothing](https://open.spotify.com/album/3T1U4lbkboCmPLvXf8iPLF) | 3:23 |
 | 99 | [Fallss](https://open.spotify.com/track/4dnCJWVYhPfeNefWrIlYaX) | [Bayonne](https://open.spotify.com/artist/6BbqU3r1G2mwkRIfIbkCek) | [Fallss](https://open.spotify.com/album/3HRkXiL4cUfZCV7AGp01Vr) | 4:00 |
 | 100 | [Interstellar Love \(feat\. Leon Bridges\)](https://open.spotify.com/track/59lpmLRHEkHxufzKdOFRRA) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Interstellar Love \(feat\. Leon Bridges\)](https://open.spotify.com/album/4SLthaJgVwyX4yZDwLq6bS) | 3:38 |
 
-Snapshot ID: `MCw5NDg4YmQ4NTY1N2FiOTFkMDYxMmM2ZGIyMzExNjY5OWE0YTlkZTQ3`
+Snapshot ID: `MCxjZDA0N2M2NDE3ZmNhMTkxY2UyMDg2ZGFmMTdlYTM2OGFhNmJiYTY4`

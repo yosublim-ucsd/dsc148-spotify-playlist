@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Tiny Habits
 
-[Spotify](https://open.spotify.com/user/spotify) - 791,714 likes - 150 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 791,820 likes - 150 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Cold Hand](https://open.spotify.com/track/4SPd7Gg0ZZA2MyuuVG8yfq) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [Cold Hand](https://open.spotify.com/album/6KjFQ3qeJABjuDEuQGTenA) | 3:08 |
 | 150 | [I Promise](https://open.spotify.com/track/02UnxTJJJYS0yGNOIGdjOF) | [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [I Promise](https://open.spotify.com/album/5Amy4k4ccGfO2pA9wFCPLs) | 3:41 |
 
-Snapshot ID: `MCwyMzhmMDNkZmJjNGUyZGFhMTY5NDc4Y2Y1NmNmMDM0NGE1MjlmMzhi`
+Snapshot ID: `MCxlMTA0YTczNzhhZjFmMTNmMjlkMDVlMjdjNGE5Mzk1NTczNWQ0MjYy`

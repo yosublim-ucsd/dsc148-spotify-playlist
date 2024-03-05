@@ -1,12 +1,12 @@
 {
   "description": "The best new electronic music. Cover: Monika Kruse",
-  "num_followers": 631939,
+  "num_followers": 632048,
   "original_name": "Electronic Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjYxMDJmZmJiOWY1NzE2OGI4ZWUxODgyMWViMTlmODA2MjAwMmY4",
+  "snapshot_id": "MCwwZmJlZTgzY2UzOTg0ZDAxZDIwMDY0NzEzZGY4YjhkMTYxMWQ2NGU5",
   "tracks": [
     {
       "added_at": "2024-02-29 23:00:00",
@@ -66,6 +66,10 @@
         {
           "name": "Gesaffelstein",
           "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        },
+        {
+          "name": "Yan Wagner",
+          "url": "https://open.spotify.com/artist/7JLtS4ASAUsAYrsShMerMc"
         }
       ],
       "duration_ms": 170466,

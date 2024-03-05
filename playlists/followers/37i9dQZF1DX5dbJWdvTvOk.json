@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 134200,
+  "2024-03-05": 134198,
   "date_first_scraped": "2022-07-19",
   "description": "Canciones instrumentales de guitarra.",
   "name": "Guitarra Tranquila",
@@ -2679,7 +2679,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 139625,
       "name": "Deep Waters",
       "url": "https://open.spotify.com/track/2OhWtf18hW60rqXpCxhCLL"
@@ -2755,6 +2755,24 @@
       "duration_ms": 196050,
       "name": "der Olivenbaum",
       "url": "https://open.spotify.com/track/6YnWik8jXPsHsqQyY9YuUY"
+    },
+    {
+      "album": {
+        "name": "Desencontros",
+        "url": "https://open.spotify.com/album/5Ysc8jx2jpcgbuB5U5Azp9"
+      },
+      "artists": [
+        {
+          "name": "Hanni Licht",
+          "url": "https://open.spotify.com/artist/1RWNLVpTjMKl8MCFV4SUma"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161770,
+      "name": "Desencontros",
+      "url": "https://open.spotify.com/track/6vbpxDK5U8xRv73qgGOnj4"
     },
     {
       "album": {

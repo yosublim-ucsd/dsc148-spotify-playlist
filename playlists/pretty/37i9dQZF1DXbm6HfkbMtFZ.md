@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 711,054 likes - 115 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 711,143 likes - 115 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,16 +24,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 14 | [Only A Fool Would Say That](https://open.spotify.com/track/7GVvj4zJNVuBJSl6StEfn5) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p) | 2:55 |
 | 15 | [Say You Love Me](https://open.spotify.com/track/6lrQo6KAYvb92MGk6ZuZlt) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 4:09 |
 | 16 | [If You Want Me to Stay](https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Fresh](https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD) | 3:00 |
-| 17 | [Dumb Love](https://open.spotify.com/track/2Al2n6ziP5XjIMZEL4laQj) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Dumb Love](https://open.spotify.com/album/6cJ55YHXdJ5RHeRQNjXFLO) | 4:42 |
-| 18 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4) | 4:03 |
+| 17 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4) | 4:03 |
+| 18 | [Dumb Love](https://open.spotify.com/track/2Al2n6ziP5XjIMZEL4laQj) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Dumb Love](https://open.spotify.com/album/6cJ55YHXdJ5RHeRQNjXFLO) | 4:42 |
 | 19 | [Summer's Over](https://open.spotify.com/track/4E5N0mYyYFf0QZs3XDeSIj) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Summer's Over](https://open.spotify.com/album/60EzsIzS77S9MWHT0Tm37s) | 2:53 |
 | 20 | [Love Is The Way](https://open.spotify.com/track/1CKfCj9izL24zGTrO6QTFE) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Love Is The Way](https://open.spotify.com/album/63VRCc7KmT6zhL9BiGluQ0) | 2:59 |
 | 21 | [Lowdown \(2023 Remaster\)](https://open.spotify.com/track/5QhikAUv91oMAaFnfKz22u) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Silk Degrees \(2023 Remaster\)](https://open.spotify.com/album/1iIyo1JkpnNz83Mf4I9AiI) | 5:17 |
 | 22 | [Spooky \(Single Version\)](https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Love Songs](https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA) | 2:44 |
 | 23 | [Passion](https://open.spotify.com/track/3yydZof4pq6N4zeyTzLwQk) | [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [BOY](https://open.spotify.com/album/4ZpCZs3zu8tFnJL0vrQIh1) | 2:12 |
 | 24 | [Can You Get To That](https://open.spotify.com/track/5lc9L9FeLBwlJPgEbq9uEw) | [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Maggot Brain](https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm) | 2:49 |
-| 25 | [Love Survive](https://open.spotify.com/track/50Hylr3XgpE10oDIahc6Cm) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [Love Survive](https://open.spotify.com/album/2xdoZZGPjIn7atH79XSSvS) | 2:48 |
-| 26 | [Running Away](https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Running Away](https://open.spotify.com/album/6cV7QYmHkPFCJaoRCQscpE) | 3:15 |
+| 25 | [Running Away](https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Running Away](https://open.spotify.com/album/6cV7QYmHkPFCJaoRCQscpE) | 3:15 |
+| 26 | [Love Survive](https://open.spotify.com/track/50Hylr3XgpE10oDIahc6Cm) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [Love Survive](https://open.spotify.com/album/2xdoZZGPjIn7atH79XSSvS) | 2:48 |
 | 27 | [Give Up Baby Go](https://open.spotify.com/track/6DIMM15oo3kxnCuVypaYGy) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [From 2 to 3](https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY) | 4:17 |
 | 28 | [If Not for You \(2014 Remaster\)](https://open.spotify.com/track/04meQOdHsGUMmlgLHmq0Is) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/7j7lsExGJtBHLgDYzjclwk) | 3:30 |
 | 29 | [Too Good](https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:41 |
@@ -115,13 +115,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 105 | [Obvious Guy](https://open.spotify.com/track/0LZbOlYdwrFbe0unSOBkVX) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness in Liquid Form](https://open.spotify.com/album/4ljntV811kHlKHhtIctvcG) | 3:21 |
 | 106 | [This Is My Story](https://open.spotify.com/track/44PXZKO9CfbWrHosfe9j3a) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw) | [Big Crown Vaults Vol\. 3 \- Holy Hive](https://open.spotify.com/album/2WJTqjkxctm9tTax0zAq46) | 2:12 |
 | 107 | [Go Down River](https://open.spotify.com/track/4V4wsqkdFEQ4weme7FlnNC) | [The Heavy Heavy](https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q) | [Life and Life Only](https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr) | 4:26 |
-| 108 | [The Way That I Do](https://open.spotify.com/track/6Zx618hMvnGqGnQCSLXVbY) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [The Way That I Do](https://open.spotify.com/album/0zaFZVRFQoYDlrIwjzrJbz) | 3:30 |
-| 109 | [Smoke Machine](https://open.spotify.com/track/0YwaIqzVJcWsFHqT7oaiVq) | [Jesse Woods](https://open.spotify.com/artist/0yCYrNUvVe4VVz7xSZ1xei) | [Autoflower](https://open.spotify.com/album/2qqhR0nwfpeIM5TX4h3bAJ) | 3:04 |
-| 110 | [Gold Past Life](https://open.spotify.com/track/0IN0ST4OUeSCWASMGa8DyP) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Gold Past Life](https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp) | 3:29 |
+| 108 | [Smoke Machine](https://open.spotify.com/track/0YwaIqzVJcWsFHqT7oaiVq) | [Jesse Woods](https://open.spotify.com/artist/0yCYrNUvVe4VVz7xSZ1xei) | [Autoflower](https://open.spotify.com/album/2qqhR0nwfpeIM5TX4h3bAJ) | 3:04 |
+| 109 | [Gold Past Life](https://open.spotify.com/track/0IN0ST4OUeSCWASMGa8DyP) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Gold Past Life](https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp) | 3:29 |
+| 110 | [The Way That I Do](https://open.spotify.com/track/6Zx618hMvnGqGnQCSLXVbY) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [The Way That I Do](https://open.spotify.com/album/0zaFZVRFQoYDlrIwjzrJbz) | 3:30 |
 | 111 | [Losing Touch](https://open.spotify.com/track/6EshmnAdZGBCA2LYCCX2Uy) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [House of FM](https://open.spotify.com/album/4WilCpAY0oHk9Gxmki8wOI) | 3:55 |
 | 112 | [Always Afternoon](https://open.spotify.com/track/6GMaQmdpwGolGyuW6ZJ9X9) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T), [Kathleen](https://open.spotify.com/artist/6UqUYZ8pMGiYhuyIcsH61y) | [Always Afternoon](https://open.spotify.com/album/5DaHMJFjoslPtN7m9xDNYi) | 3:03 |
 | 113 | [The Sun](https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv) | [Kowloon](https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE) | [The Sun](https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ) | 4:08 |
 | 114 | [Just Ain't Gonna Work Out](https://open.spotify.com/track/6Tdkn9doJ1eiWLH2njMN5X) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [A Strange Arrangement](https://open.spotify.com/album/0kI88dzVn3VuvjfNS2JElU) | 2:30 |
 | 115 | [Mambo Sun \- 2003 Remaster](https://open.spotify.com/track/79dQwpXjJ4t3pILysdqFyB) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior \[Expanded & Remastered\]](https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt) | 3:40 |
 
-Snapshot ID: `MCxkNTkxODMxOTIxMjMxYjc2ZDQzOWEzNGZjZmUwZWE1N2NkNjQ1MzY5`
+Snapshot ID: `MCw2NzcwY2VmYmNmYmU2ZTdiMTg1ZWRjNzc4MWI4MDlkYjAyNWIyYzhi`

@@ -2,9 +2,9 @@
 
 ### [magmuni\-muni](https://open.spotify.com/playlist/37i9dQZF1DX0DrBh4sbMhw)
 
-> umuulan nanaman?
+> 🧊
 
-130 songs - 8 hr 14 min
+131 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Empty Room](https://open.spotify.com/track/3rhWu9LLv0LleWbO9LuQrO) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [The Things I Left Unsaid](https://open.spotify.com/album/2MbohPX2P1ms4RjAo9X0iW) | 3:04 | 2023-10-18 | 2023-11-18 |
 | [Empty Room](https://open.spotify.com/track/56s9OQ9s0YX3U0JncipqLU) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [The Things I Left Unsaid](https://open.spotify.com/album/0x68nTDfyciGgU7UXNmm44) | 3:04 | 2023-11-10 |  |
 | [end credits](https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [end credits](https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2) | 4:08 | 2023-10-18 | 2024-02-08 |
+| [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-03-04 |  |
 | [Enough](https://open.spotify.com/track/4DbMD2jP3U2WgbFUXsPJfI) | [CRIMASON](https://open.spotify.com/artist/2omAS3u3ZQaxiWXA9OmiWj) | [Enough](https://open.spotify.com/album/4eQzghocpwFS9NJRvDidu5) | 4:46 | 2024-02-19 |  |
 | [Entablado](https://open.spotify.com/track/4LlcehDkplP0BIimgnUBHY) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Entablado](https://open.spotify.com/album/7G31hhcREMlt0NW3Tt4Uhb) | 3:23 | 2023-10-18 |  |
 | [favorite lesson](https://open.spotify.com/track/4sclvawl5PVjt5oXRcPbF2) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [favorite lesson](https://open.spotify.com/album/4c6mzbbKDCZWc4WUbTHqKG) | 3:25 | 2023-10-18 |  |
@@ -79,7 +80,7 @@
 | [light](https://open.spotify.com/track/4i2T7Nm4Q72sNnSlGADSm6) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [light](https://open.spotify.com/album/1eSyRapMqJE70YPpjuzbvP) | 3:45 | 2023-10-18 |  |
 | [Look At Us Now \(Honeycomb\)](https://open.spotify.com/track/7bSlafYF33JHLoB9NtsL9V) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [AURORA](https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo) | 5:32 | 2023-10-18 | 2024-02-20 |
 | [Love In The Dark](https://open.spotify.com/track/7B5Npv8NjjTCzk8PLpU66h) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:45 | 2024-02-07 |  |
-| [Medisina](https://open.spotify.com/track/0pFWRoaSuxR0GmkF9NxxV0) | [Zild](https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s) | [Medisina](https://open.spotify.com/album/7sAp0E6Q4dqnrwWkpytEaN) | 5:12 | 2023-10-18 |  |
+| [Medisina](https://open.spotify.com/track/0pFWRoaSuxR0GmkF9NxxV0) | [Zild](https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s) | [Medisina](https://open.spotify.com/album/7sAp0E6Q4dqnrwWkpytEaN) | 5:12 | 2023-10-18 | 2024-03-05 |
 | [Melody of Memories](https://open.spotify.com/track/1TprOS6FVP62BcP1c62eRC) | [Joelmusicbox](https://open.spotify.com/artist/0Aia8R6uvFjqwoc9KkHKJI) | [Melody of Memories](https://open.spotify.com/album/4CYQ28ISGyGs8xsgEf8G0E) | 4:14 | 2023-10-18 |  |
 | [Melting](https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Por Vida](https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5) | 3:28 | 2023-11-10 | 2024-02-08 |
 | [Mina\(mahal ko\)](https://open.spotify.com/track/7lLzAoAmxEKKAIovgzGP2D) | [rhodessa](https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD) | [Mina\(mahal ko\)](https://open.spotify.com/album/2I5JcZl4k1379f2kJd1wOb) | 4:42 | 2023-10-18 |  |

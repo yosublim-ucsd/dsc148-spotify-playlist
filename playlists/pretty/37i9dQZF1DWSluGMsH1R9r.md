@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluGMsH1R9r.md) - [plain]
 
 > Calm piano music for enhanced concentration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 704,684 likes - 300 songs - 12 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 704,855 likes - 300 songs - 12 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -243,9 +243,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluGMsH1R9r.md) - [plain]
 | 233 | [Waltz in a Dream](https://open.spotify.com/track/7fFC24ppNibtsubi84bSwH) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Waltz in a Dream](https://open.spotify.com/album/2CcupVOPa2cwYlzWWbd4OE) | 2:29 |
 | 234 | [Jalousie](https://open.spotify.com/track/0EhY59G3z36qhZvRf4JLWi) | [Amy\-Leigh Williamson](https://open.spotify.com/artist/5rc29ZWhATx7oy7gk525xx) | [Jalousie](https://open.spotify.com/album/38V6f82x9xE1Tet8pItNnj) | 2:00 |
 | 235 | [The Field](https://open.spotify.com/track/7Mas670FmorgBqp0GnZOHb) | [Leonard Gambrell](https://open.spotify.com/artist/3UjODKnwbU318wOJhcuxSG) | [The Field](https://open.spotify.com/album/3IboYSaQu2t0zoFU7BkG6Z) | 2:36 |
-| 236 | [The Emotion of Light \- Revisited](https://open.spotify.com/track/1YOgykOfaRddTMVSxVyESp) | [Lemos](https://open.spotify.com/artist/5nXvkyQwcA3mf2B9Wsd3Lh) | [The Emotion Of Light \(Revisited\)](https://open.spotify.com/album/4bFCPQNJbkSJGVWogzUnVw) | 2:13 |
-| 237 | [Mitternacht](https://open.spotify.com/track/61LRf67gHGilGO4DbIecZz) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Mitternacht](https://open.spotify.com/album/0LZwgyNIT6ZFHBSUGwAz39) | 2:35 |
-| 238 | [Sunday](https://open.spotify.com/track/4jOQwNjLa0oejVoopzY7Gx) | [Levi Jacob](https://open.spotify.com/artist/2dv3nI6plW2rvqyOelBUAa) | [Roundabout](https://open.spotify.com/album/6b53thMzbMzq31mspTVAQW) | 2:25 |
+| 236 | [Sunday](https://open.spotify.com/track/4jOQwNjLa0oejVoopzY7Gx) | [Levi Jacob](https://open.spotify.com/artist/2dv3nI6plW2rvqyOelBUAa) | [Roundabout](https://open.spotify.com/album/6b53thMzbMzq31mspTVAQW) | 2:25 |
+| 237 | [The Emotion of Light \- Revisited](https://open.spotify.com/track/1YOgykOfaRddTMVSxVyESp) | [Lemos](https://open.spotify.com/artist/5nXvkyQwcA3mf2B9Wsd3Lh) | [The Emotion Of Light \(Revisited\)](https://open.spotify.com/album/4bFCPQNJbkSJGVWogzUnVw) | 2:13 |
+| 238 | [Mitternacht](https://open.spotify.com/track/61LRf67gHGilGO4DbIecZz) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Mitternacht](https://open.spotify.com/album/0LZwgyNIT6ZFHBSUGwAz39) | 2:35 |
 | 239 | [Rana Tranquiliana](https://open.spotify.com/track/5ZSy4yLpajuh1eOjM2Rsdf) | [Gioia Pisano](https://open.spotify.com/artist/5WMvjE5qJNLR5FMPdQfic8) | [Rana Tranquiliana](https://open.spotify.com/album/4FU3mPjMgdpaNVMwofKqow) | 2:59 |
 | 240 | [Traces](https://open.spotify.com/track/0JdJYYA2fjAGplb5VLYL07) | [Leyland Moore](https://open.spotify.com/artist/6B68z24fHjW2BFiwzthkzO) | [Traces](https://open.spotify.com/album/4lzXcaZXKBzk0aaX6fFzlE) | 3:13 |
 | 241 | [La Storia](https://open.spotify.com/track/3U5RTSxDKkhA6rtHEXpI6H) | [Alexander Descartes](https://open.spotify.com/artist/0eDPH1f3HFDuveG1kKeOKK) | [La Storia](https://open.spotify.com/album/0c7N8i0rJZjFJmNn1dkMOe) | 2:44 |
@@ -306,7 +306,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluGMsH1R9r.md) - [plain]
 | 296 | [Them](https://open.spotify.com/track/1cXTuVkGdqa3anVZWWDGm0) | [R\. York](https://open.spotify.com/artist/4CqaNfV0FxkPOMcQAiyw71) | [Life Stories](https://open.spotify.com/album/0sAjpgFwwWx4EzSx0mq4g7) | 2:02 |
 | 297 | [The Orchard \(I\)](https://open.spotify.com/track/2Wcv1iL7U75j0yAUuQq4Qz) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [The Orchard \(I\)](https://open.spotify.com/album/7r3fBLzgZjxVXqRyUU2tPt) | 2:47 |
 | 298 | [Antique Clock](https://open.spotify.com/track/0LenKLAcx2fIHmPGBbLWpn) | [Vox Pacis](https://open.spotify.com/artist/5gu1Bq9TsFRfNLweos0T1Z) | [Antique Clock](https://open.spotify.com/album/1Pbl3p0NMDIm4LQXISV7WB) | 2:20 |
-| 299 | [Little Waltz](https://open.spotify.com/track/7wjFJYxBZgZE643XFyExK1) | [Landegren](https://open.spotify.com/artist/60De3BUZl4OerbDL1pOCqd) | [Little Waltz](https://open.spotify.com/album/2ZcIAV2uiIPCAcYKG9d30C) | 2:45 |
-| 300 | [Trails In The Sand](https://open.spotify.com/track/2kNdebYESPkIXVcTxlNWMi) | [Marius Notar](https://open.spotify.com/artist/2XBVOEAwFri2h8RpBa2nqT) | [Trails In The Sand](https://open.spotify.com/album/3JDPEQbjLKJy86z3OkKk3H) | 2:31 |
+| 299 | [Fils Du Soleil](https://open.spotify.com/track/67np71K50CRwUfpXqlsXJV) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Dreamweaver](https://open.spotify.com/album/6dSfSgGrlFwRU7Rcjnvsrf) | 4:19 |
+| 300 | [Little Waltz](https://open.spotify.com/track/7wjFJYxBZgZE643XFyExK1) | [Landegren](https://open.spotify.com/artist/60De3BUZl4OerbDL1pOCqd) | [Little Waltz](https://open.spotify.com/album/2ZcIAV2uiIPCAcYKG9d30C) | 2:45 |
 
-Snapshot ID: `MCwwNGViZmE0MDViNzgwYTM2OGIyODIzZWQ1NmVlZGU2MDVhMjc2NDQx`
+Snapshot ID: `MCwyMjUwOTcxYmEzZTdjNjNlYmMyZTljMGI4NDYxMTZkMjdmYWI5ZDgz`

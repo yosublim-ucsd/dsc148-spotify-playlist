@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the '60s. Cover: Jimi Hendrix",
-  "num_followers": 894903,
+  "num_followers": 895061,
   "original_name": "60s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTlmN2U4OWM4MDc4OWFkNWI3ZjA2ODI1YmZkNTE1MmZlNTNlNzM1",
+  "snapshot_id": "MCwyZjY5NTRmZGE5ZGYyMWI4MWZhNjI5N2M0YTlmOWU1OGQ5Yjk0MjJl",
   "tracks": [
     {
       "added_at": "2023-01-18 21:00:56",
@@ -139,6 +139,22 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
+        "name": "Green River (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 141600,
+      "name": "Bad Moon Rising",
+      "url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
         "name": "Strange Days",
         "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 240800,
       "name": "All Along the Watchtower",
       "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
-        "name": "Green River (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 141600,
-      "name": "Bad Moon Rising",
-      "url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -235,18 +235,18 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "Beggars Banquet (50th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd"
+        "name": "Bayou Country (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5pCRW9AT4BgoMOS52pRoJq"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
         }
       ],
-      "duration_ms": 378146,
-      "name": "Sympathy For The Devil - 50th Anniversary Edition",
-      "url": "https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0"
+      "duration_ms": 187213,
+      "name": "Proud Mary",
+      "url": "https://open.spotify.com/track/6pxWv6GV35VGmcPf5dh6CH"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -283,18 +283,18 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "Bayou Country (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5pCRW9AT4BgoMOS52pRoJq"
+        "name": "Beggars Banquet (50th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd"
       },
       "artists": [
         {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 187213,
-      "name": "Proud Mary",
-      "url": "https://open.spotify.com/track/6pxWv6GV35VGmcPf5dh6CH"
+      "duration_ms": 378146,
+      "name": "Sympathy For The Devil - 50th Anniversary Edition",
+      "url": "https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
+        "name": "Green River (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 154120,
+      "name": "Green River",
+      "url": "https://open.spotify.com/track/11DjZQEZ69EXLo77HVj6yW"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
         "name": "Are You Experienced",
         "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
       },
@@ -395,6 +411,22 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
+        "name": "1 (Remastered)",
+        "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 425653,
+      "name": "Hey Jude - Remastered 2015",
+      "url": "https://open.spotify.com/track/0aym2LBJBk9DAYuHHutrIl"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
         "name": "Surrealistic Pillow",
         "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
       },
@@ -411,18 +443,18 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "Green River (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG"
+        "name": "The Doors",
+        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
       },
       "artists": [
         {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 154120,
-      "name": "Green River",
-      "url": "https://open.spotify.com/track/11DjZQEZ69EXLo77HVj6yW"
+      "duration_ms": 429760,
+      "name": "Light My Fire",
+      "url": "https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -459,24 +491,8 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "The Doors",
-        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 429760,
-      "name": "Light My Fire",
-      "url": "https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
-        "name": "1 (Remastered)",
-        "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
+        "name": "The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
       },
       "artists": [
         {
@@ -484,25 +500,9 @@
           "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 425653,
-      "name": "Hey Jude - Remastered 2015",
-      "url": "https://open.spotify.com/track/0aym2LBJBk9DAYuHHutrIl"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
-        "name": "Surrealistic Pillow",
-        "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
-      },
-      "artists": [
-        {
-          "name": "Jefferson Airplane",
-          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
-        }
-      ],
-      "duration_ms": 174840,
-      "name": "Somebody to Love",
-      "url": "https://open.spotify.com/track/4uGIJG1jYFonGc4LGp5uQL"
+      "duration_ms": 285000,
+      "name": "While My Guitar Gently Weeps - Remastered 2009",
+      "url": "https://open.spotify.com/track/389QX9Q1eUOEZ19vtzzI9O"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "Do you Believe In Magic",
-        "url": "https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030"
-      },
-      "artists": [
-        {
-          "name": "The Lovin' Spoonful",
-          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
-        }
-      ],
-      "duration_ms": 125826,
-      "name": "Do You Believe in Magic?",
-      "url": "https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
         "name": "Willy And The Poor Boys (Expanded Edition)",
         "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 166280,
       "name": "Down On The Corner",
       "url": "https://open.spotify.com/track/2gE95JskwQ1pCACTpGe1Db"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
+        "name": "Do you Believe In Magic",
+        "url": "https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030"
+      },
+      "artists": [
+        {
+          "name": "The Lovin' Spoonful",
+          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
+        }
+      ],
+      "duration_ms": 125826,
+      "name": "Do You Believe in Magic?",
+      "url": "https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -571,18 +571,18 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "The Beatles (Remastered)",
-        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
+        "name": "Surrealistic Pillow",
+        "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "Jefferson Airplane",
+          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
         }
       ],
-      "duration_ms": 285000,
-      "name": "While My Guitar Gently Weeps - Remastered 2009",
-      "url": "https://open.spotify.com/track/389QX9Q1eUOEZ19vtzzI9O"
+      "duration_ms": 174840,
+      "name": "Somebody to Love",
+      "url": "https://open.spotify.com/track/4uGIJG1jYFonGc4LGp5uQL"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -603,18 +603,18 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "The Freewheelin' Bob Dylan",
-        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+        "name": "A Hard Day's Night (Remastered)",
+        "url": "https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV"
       },
       "artists": [
         {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 165426,
-      "name": "Blowin' in the Wind",
-      "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
+      "duration_ms": 154200,
+      "name": "A Hard Day's Night - Remastered 2009",
+      "url": "https://open.spotify.com/track/5J2CHimS7dWYMImCHkEFaJ"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 165426,
+      "name": "Blowin' in the Wind",
+      "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
         "name": "Electric Ladyland",
         "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
       },
@@ -715,22 +731,6 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "A Hard Day's Night (Remastered)",
-        "url": "https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 154200,
-      "name": "A Hard Day's Night - Remastered 2009",
-      "url": "https://open.spotify.com/track/5J2CHimS7dWYMImCHkEFaJ"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
         "name": "Face to Face (Deluxe)",
         "url": "https://open.spotify.com/album/44tcGfOAI8iZc1U5BAgLkT"
       },
@@ -743,38 +743,6 @@
       "duration_ms": 212946,
       "name": "Sunny Afternoon",
       "url": "https://open.spotify.com/track/09Plbz3Ja2gxU9xCsqA5KY"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
-        "name": "Aftermath",
-        "url": "https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 221533,
-      "name": "Under My Thumb",
-      "url": "https://open.spotify.com/track/5lmGgOaixbwKHtpTzjJoqx"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
-        "name": "The Times They Are A-Changin'",
-        "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 192053,
-      "name": "The Times They Are A-Changin'",
-      "url": "https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -811,6 +779,38 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
+        "name": "The Times They Are A-Changin'",
+        "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 192053,
+      "name": "The Times They Are A-Changin'",
+      "url": "https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
+        "name": "Aftermath",
+        "url": "https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 221533,
+      "name": "Under My Thumb",
+      "url": "https://open.spotify.com/track/5lmGgOaixbwKHtpTzjJoqx"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
         "name": "The Soft Parade",
         "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
       },
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
+        "name": "Something Else (Deluxe)",
+        "url": "https://open.spotify.com/album/3n0mKh1yuR5QjX6Vm0GKj2"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "duration_ms": 194520,
+      "name": "Waterloo Sunset",
+      "url": "https://open.spotify.com/track/3G0EALIIp5DAeIERxXBHmo"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
         "name": "Led Zeppelin II (1994 Remaster)",
         "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
       },
@@ -871,38 +887,6 @@
       "duration_ms": 155333,
       "name": "Wild Thing",
       "url": "https://open.spotify.com/track/7jGzYUZ2Bgg8BDfYlQRfn8"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
-        "name": "Between The Buttons",
-        "url": "https://open.spotify.com/album/36BIYdP4WtviD9Ngqc4SK5"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 196493,
-      "name": "Ruby Tuesday",
-      "url": "https://open.spotify.com/track/4hupcimlg3UBbW1kAQ6vrT"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
-        "name": "Something Else (Deluxe)",
-        "url": "https://open.spotify.com/album/3n0mKh1yuR5QjX6Vm0GKj2"
-      },
-      "artists": [
-        {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
-        }
-      ],
-      "duration_ms": 194520,
-      "name": "Waterloo Sunset",
-      "url": "https://open.spotify.com/track/3G0EALIIp5DAeIERxXBHmo"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -951,6 +935,22 @@
       "duration_ms": 180253,
       "name": "Girl, You'll Be A Woman Soon",
       "url": "https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
+        "name": "Between The Buttons",
+        "url": "https://open.spotify.com/album/36BIYdP4WtviD9Ngqc4SK5"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 196493,
+      "name": "Ruby Tuesday",
+      "url": "https://open.spotify.com/track/4hupcimlg3UBbW1kAQ6vrT"
     },
     {
       "added_at": "2023-01-18 21:00:56",

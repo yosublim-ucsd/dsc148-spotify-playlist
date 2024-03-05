@@ -1,12 +1,12 @@
 {
   "description": "Los abanderados del rock argentino y sus himnos con Fito Paez.",
-  "num_followers": 1147425,
+  "num_followers": 1147509,
   "original_name": "Iconos del Rock Argentino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjQ2MzM3NDhlODg1YjRkMDQyNmUyYzFmNDYyOTMzMmRhZjI5M2Y4",
+  "snapshot_id": "MCwzZjM3ZjA3ZjU5OGYzNjE4NjQ2YWUwMjkyNzI1NjAwMmIwNGY3MGQx",
   "tracks": [
     {
       "added_at": "2023-05-03 13:45:22",
@@ -123,6 +123,22 @@
     {
       "added_at": "2023-05-03 13:45:22",
       "album": {
+        "name": "Signos (Remastered)",
+        "url": "https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 292266,
+      "name": "Persiana Americana - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL"
+    },
+    {
+      "added_at": "2023-05-03 13:45:22",
+      "album": {
         "name": "Infame",
         "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 313000,
       "name": "Loco (Tu Forma De Ser)",
       "url": "https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u"
-    },
-    {
-      "added_at": "2023-05-03 13:45:22",
-      "album": {
-        "name": "Signos (Remastered)",
-        "url": "https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 292266,
-      "name": "Persiana Americana - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL"
     },
     {
       "added_at": "2023-05-03 13:45:22",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-05-03 13:45:22",
       "album": {
+        "name": "Doble Vida (Remastered)",
+        "url": "https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 346053,
+      "name": "En La Ciudad De La Furia - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/7J2885UBOaG6x3LLkp2YGf"
+    },
+    {
+      "added_at": "2023-05-03 13:45:22",
+      "album": {
         "name": "Honestidad Brutal",
         "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
       },
@@ -315,8 +331,24 @@
     {
       "added_at": "2023-05-03 13:45:22",
       "album": {
-        "name": "Doble Vida (Remastered)",
-        "url": "https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4"
+        "name": "Piano Bar",
+        "url": "https://open.spotify.com/album/17utekM9a95MchXbkbh47k"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 135973,
+      "name": "Demoliendo Hoteles",
+      "url": "https://open.spotify.com/track/29iIRrSuANyjnwag69PHOJ"
+    },
+    {
+      "added_at": "2023-05-03 13:45:22",
+      "album": {
+        "name": "Signos (Remastered)",
+        "url": "https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi"
       },
       "artists": [
         {
@@ -324,41 +356,9 @@
           "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 346053,
-      "name": "En La Ciudad De La Furia - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/7J2885UBOaG6x3LLkp2YGf"
-    },
-    {
-      "added_at": "2023-05-03 13:45:22",
-      "album": {
-        "name": "Lobo Suelto",
-        "url": "https://open.spotify.com/album/1cvN5QA28nC5QYpjoksMGe"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 231533,
-      "name": "Un \u00c1ngel para Tu Soledad",
-      "url": "https://open.spotify.com/track/6kUopck7LHVadAjAFcXiTj"
-    },
-    {
-      "added_at": "2023-05-03 13:45:22",
-      "album": {
-        "name": "Honestidad Brutal",
-        "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 261626,
-      "name": "La parte de adelante",
-      "url": "https://open.spotify.com/track/0fHTVPRRKmWaRuIwrsNTMp"
+      "duration_ms": 317613,
+      "name": "Pr\u00f3fugos - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/1Tja3miBbbENpqIOAqGWXa"
     },
     {
       "added_at": "2023-05-03 13:45:22",
@@ -379,18 +379,18 @@
     {
       "added_at": "2023-05-03 13:45:22",
       "album": {
-        "name": "Piano Bar",
-        "url": "https://open.spotify.com/album/17utekM9a95MchXbkbh47k"
+        "name": "Lobo Suelto",
+        "url": "https://open.spotify.com/album/1cvN5QA28nC5QYpjoksMGe"
       },
       "artists": [
         {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
         }
       ],
-      "duration_ms": 135973,
-      "name": "Demoliendo Hoteles",
-      "url": "https://open.spotify.com/track/29iIRrSuANyjnwag69PHOJ"
+      "duration_ms": 231533,
+      "name": "Un \u00c1ngel para Tu Soledad",
+      "url": "https://open.spotify.com/track/6kUopck7LHVadAjAFcXiTj"
     },
     {
       "added_at": "2023-05-03 13:45:22",
@@ -427,18 +427,18 @@
     {
       "added_at": "2023-05-03 13:45:22",
       "album": {
-        "name": "Buscando un Amor",
-        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
+        "name": "Honestidad Brutal",
+        "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
       },
       "artists": [
         {
-          "name": "Pappo",
-          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 161133,
-      "name": "Juntos a la Par",
-      "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
+      "duration_ms": 261626,
+      "name": "La parte de adelante",
+      "url": "https://open.spotify.com/track/0fHTVPRRKmWaRuIwrsNTMp"
     },
     {
       "added_at": "2023-05-03 13:45:22",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-05-03 13:45:22",
       "album": {
-        "name": "Signos (Remastered)",
-        "url": "https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 317613,
-      "name": "Pr\u00f3fugos - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/1Tja3miBbbENpqIOAqGWXa"
-    },
-    {
-      "added_at": "2023-05-03 13:45:22",
-      "album": {
         "name": "Locura",
         "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 273306,
       "name": "Pronta Entrega",
       "url": "https://open.spotify.com/track/4UXE0ZLGIoLUOFqTECzoQe"
+    },
+    {
+      "added_at": "2023-05-03 13:45:22",
+      "album": {
+        "name": "Buscando un Amor",
+        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
+      },
+      "artists": [
+        {
+          "name": "Pappo",
+          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
+        }
+      ],
+      "duration_ms": 161133,
+      "name": "Juntos a la Par",
+      "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
     },
     {
       "added_at": "2023-05-03 13:45:22",
@@ -519,22 +519,6 @@
       "duration_ms": 240013,
       "name": "Tan Solo",
       "url": "https://open.spotify.com/track/6Soxxi73U6SO4rOGJwYYxI"
-    },
-    {
-      "added_at": "2023-05-03 13:45:22",
-      "album": {
-        "name": "Ah\u00ed Vamos",
-        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 308946,
-      "name": "Lago en el Cielo",
-      "url": "https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2"
     },
     {
       "added_at": "2023-05-03 13:45:22",
@@ -619,6 +603,22 @@
     {
       "added_at": "2023-05-03 13:45:22",
       "album": {
+        "name": "Ah\u00ed Vamos",
+        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 308946,
+      "name": "Lago en el Cielo",
+      "url": "https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2"
+    },
+    {
+      "added_at": "2023-05-03 13:45:22",
+      "album": {
         "name": "La Mosca y la Sopa",
         "url": "https://open.spotify.com/album/1JZBc7tWO3m3ryyToiLTdj"
       },
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-05-03 13:45:22",
       "album": {
-        "name": "La Argentinidad Al Palo",
-        "url": "https://open.spotify.com/album/2jc4dbkhewS896fajyR7hZ"
-      },
-      "artists": [
-        {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
-        }
-      ],
-      "duration_ms": 263933,
-      "name": "La Soledad",
-      "url": "https://open.spotify.com/track/56mbNpJVn5WQhOlsOvb2A0"
-    },
-    {
-      "added_at": "2023-05-03 13:45:22",
-      "album": {
         "name": "Sue\u00f1o Stereo (Remastered)",
         "url": "https://open.spotify.com/album/1A3VRbn7Kto2ov0LkSY0eg"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 269760,
       "name": "Ella Us\u00f3 Mi Cabeza Como Un Rev\u00f3lver - Remasterizado 2007",
       "url": "https://open.spotify.com/track/5RzXSxR7BUhEtpqh77lMbR"
+    },
+    {
+      "added_at": "2023-05-03 13:45:22",
+      "album": {
+        "name": "La Argentinidad Al Palo",
+        "url": "https://open.spotify.com/album/2jc4dbkhewS896fajyR7hZ"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "duration_ms": 263933,
+      "name": "La Soledad",
+      "url": "https://open.spotify.com/track/56mbNpJVn5WQhOlsOvb2A0"
     },
     {
       "added_at": "2023-05-03 13:45:22",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-05-03 13:45:22",
       "album": {
-        "name": "Artaud",
-        "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
-      },
-      "artists": [
-        {
-          "name": "Pescado Rabioso",
-          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
-        }
-      ],
-      "duration_ms": 204466,
-      "name": "Bajan",
-      "url": "https://open.spotify.com/track/6hmYi0E6EBEmDeztQHaH0C"
-    },
-    {
-      "added_at": "2023-05-03 13:45:22",
-      "album": {
         "name": "Un Bai\u00f3n para el Ojo Idiota",
         "url": "https://open.spotify.com/album/6ETDkXNvthotL4pKkXFg4L"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 208400,
       "name": "Vencedores Vencidos",
       "url": "https://open.spotify.com/track/1nYD14iq9R9CBUK8UvBjkK"
+    },
+    {
+      "added_at": "2023-05-03 13:45:22",
+      "album": {
+        "name": "Artaud",
+        "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
+      },
+      "artists": [
+        {
+          "name": "Pescado Rabioso",
+          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
+        }
+      ],
+      "duration_ms": 204466,
+      "name": "Bajan",
+      "url": "https://open.spotify.com/track/6hmYi0E6EBEmDeztQHaH0C"
     },
     {
       "added_at": "2023-05-03 13:45:22",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-05-03 13:45:22",
       "album": {
-        "name": "La Mosca y la Sopa",
-        "url": "https://open.spotify.com/album/1JZBc7tWO3m3ryyToiLTdj"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 212400,
-      "name": "El Pibe de los Astilleros",
-      "url": "https://open.spotify.com/track/2aWd3hLrewRnRA9gYcl9WS"
-    },
-    {
-      "added_at": "2023-05-03 13:45:22",
-      "album": {
         "name": "Furtivos",
         "url": "https://open.spotify.com/album/7ICXWFt2A3KeYgKLbvOmsl"
       },
@@ -911,6 +895,22 @@
     {
       "added_at": "2023-05-03 13:45:22",
       "album": {
+        "name": "La Mosca y la Sopa",
+        "url": "https://open.spotify.com/album/1JZBc7tWO3m3ryyToiLTdj"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 212400,
+      "name": "El Pibe de los Astilleros",
+      "url": "https://open.spotify.com/track/2aWd3hLrewRnRA9gYcl9WS"
+    },
+    {
+      "added_at": "2023-05-03 13:45:22",
+      "album": {
         "name": "Los Fabulosos Cadillacs - Vol. V",
         "url": "https://open.spotify.com/album/5yv3ZFKygQ7PtOe91V8H1L"
       },
@@ -939,22 +939,6 @@
       "duration_ms": 211653,
       "name": "Como Al\u00ed",
       "url": "https://open.spotify.com/track/3yJKzKUDLo65qDDBDZm9im"
-    },
-    {
-      "added_at": "2023-05-03 13:45:22",
-      "album": {
-        "name": "Cordero Atado",
-        "url": "https://open.spotify.com/album/3zUMPvVgeOb3Fx9SmTCU4m"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 176840,
-      "name": "Yo Can\u00edbal",
-      "url": "https://open.spotify.com/track/4RqTK17MElLFiriBi9ysyU"
     },
     {
       "added_at": "2023-05-03 13:45:22",
@@ -1007,6 +991,22 @@
     {
       "added_at": "2023-05-03 13:45:22",
       "album": {
+        "name": "Cordero Atado",
+        "url": "https://open.spotify.com/album/3zUMPvVgeOb3Fx9SmTCU4m"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 176840,
+      "name": "Yo Can\u00edbal",
+      "url": "https://open.spotify.com/track/4RqTK17MElLFiriBi9ysyU"
+    },
+    {
+      "added_at": "2023-05-03 13:45:22",
+      "album": {
         "name": "Girando",
         "url": "https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B"
       },
@@ -1019,6 +1019,22 @@
       "duration_ms": 238506,
       "name": "Sigue Girando",
       "url": "https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa"
+    },
+    {
+      "added_at": "2023-05-03 13:45:22",
+      "album": {
+        "name": "Llegando Los Monos",
+        "url": "https://open.spotify.com/album/2kn0EF90FuahMHtPpwVsX4"
+      },
+      "artists": [
+        {
+          "name": "Sumo",
+          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
+        }
+      ],
+      "duration_ms": 197266,
+      "name": "Los Viejos Vinagres",
+      "url": "https://open.spotify.com/track/587HW7legSOEetkhw2RoO2"
     },
     {
       "added_at": "2023-05-03 13:45:22",
@@ -1043,22 +1059,6 @@
       "duration_ms": 316626,
       "name": "Angel de los Perdedores",
       "url": "https://open.spotify.com/track/2WE7vQVhCBf8E9COHIK7uP"
-    },
-    {
-      "added_at": "2023-05-03 13:45:22",
-      "album": {
-        "name": "Verde Paisaje del Infierno",
-        "url": "https://open.spotify.com/album/0i2Y8YNiC3oQDFIsgWI3cP"
-      },
-      "artists": [
-        {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        }
-      ],
-      "duration_ms": 256385,
-      "name": "Ruleta",
-      "url": "https://open.spotify.com/track/2tWlLCwEN7slVfcPjemDYJ"
     },
     {
       "added_at": "2023-05-03 13:45:22",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-05-03 13:45:22",
       "album": {
+        "name": "Verde Paisaje del Infierno",
+        "url": "https://open.spotify.com/album/0i2Y8YNiC3oQDFIsgWI3cP"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "duration_ms": 256385,
+      "name": "Ruleta",
+      "url": "https://open.spotify.com/track/2tWlLCwEN7slVfcPjemDYJ"
+    },
+    {
+      "added_at": "2023-05-03 13:45:22",
+      "album": {
         "name": "Piano Bar",
         "url": "https://open.spotify.com/album/17utekM9a95MchXbkbh47k"
       },
@@ -1107,6 +1123,22 @@
       "duration_ms": 280546,
       "name": "Cerca De La Revolucion",
       "url": "https://open.spotify.com/track/66grIvFLGrI4tNhggO2DAd"
+    },
+    {
+      "added_at": "2023-05-03 13:45:22",
+      "album": {
+        "name": "GIT, El Album",
+        "url": "https://open.spotify.com/album/7Hg6EdwBShAdwAfUy4fFDN"
+      },
+      "artists": [
+        {
+          "name": "GIT",
+          "url": "https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM"
+        }
+      ],
+      "duration_ms": 313840,
+      "name": "Es Por Amor",
+      "url": "https://open.spotify.com/track/7cwtDwkH0PHHQmfbkZM8Ox"
     },
     {
       "added_at": "2023-05-03 13:45:22",
@@ -1127,22 +1159,6 @@
     {
       "added_at": "2023-05-03 13:45:22",
       "album": {
-        "name": "Llegando Los Monos",
-        "url": "https://open.spotify.com/album/2kn0EF90FuahMHtPpwVsX4"
-      },
-      "artists": [
-        {
-          "name": "Sumo",
-          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
-        }
-      ],
-      "duration_ms": 197266,
-      "name": "Los Viejos Vinagres",
-      "url": "https://open.spotify.com/track/587HW7legSOEetkhw2RoO2"
-    },
-    {
-      "added_at": "2023-05-03 13:45:22",
-      "album": {
         "name": "Alta Suciedad",
         "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 267733,
       "name": "Alta suciedad",
       "url": "https://open.spotify.com/track/55XrKecG9mBBLI3PL3KzXU"
-    },
-    {
-      "added_at": "2023-05-03 13:45:22",
-      "album": {
-        "name": "GIT, El Album",
-        "url": "https://open.spotify.com/album/7Hg6EdwBShAdwAfUy4fFDN"
-      },
-      "artists": [
-        {
-          "name": "GIT",
-          "url": "https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM"
-        }
-      ],
-      "duration_ms": 313840,
-      "name": "Es Por Amor",
-      "url": "https://open.spotify.com/track/7cwtDwkH0PHHQmfbkZM8Ox"
     },
     {
       "added_at": "2023-05-03 13:45:22",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-05-03 13:45:22",
       "album": {
-        "name": "Devorador De Corazones",
-        "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
-      },
-      "artists": [
-        {
-          "name": "La Portuaria",
-          "url": "https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7"
-        }
-      ],
-      "duration_ms": 248706,
-      "name": "Selva",
-      "url": "https://open.spotify.com/track/2En6fFzzlzPLcV8sXwrx7X"
-    },
-    {
-      "added_at": "2023-05-03 13:45:22",
-      "album": {
         "name": "Divididos Por La Felicidad",
         "url": "https://open.spotify.com/album/0iMPnRq7PL82Zrah0gTQBR"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 286813,
       "name": "Mejor No Hablar de Ciertas Cosas",
       "url": "https://open.spotify.com/track/0FHpUs8anxUWl3pMXMhmXj"
+    },
+    {
+      "added_at": "2023-05-03 13:45:22",
+      "album": {
+        "name": "Devorador De Corazones",
+        "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
+      },
+      "artists": [
+        {
+          "name": "La Portuaria",
+          "url": "https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7"
+        }
+      ],
+      "duration_ms": 248706,
+      "name": "Selva",
+      "url": "https://open.spotify.com/track/2En6fFzzlzPLcV8sXwrx7X"
     },
     {
       "added_at": "2023-05-03 13:45:22",

@@ -1,12 +1,12 @@
 {
   "description": "Lo que necesita cualquier verbena veraniega.",
-  "num_followers": 347501,
+  "num_followers": 347499,
   "original_name": "Cl\u00e1sicos del Verano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjllYjQ1NTVlYzUzZWNmNDEyNzU1YjgyNWI1Y2VlYjQ3Njg1YjVk",
+  "snapshot_id": "MCw3N2YyYTIwZTlkYzFkYzM0ZTQ3MjMyM2EyZmEwZmRkNDhjZGQyZmJi",
   "tracks": [
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "La Dura Vida del Joven Rapero",
-        "url": "https://open.spotify.com/album/507EX6i0GGn2b4l2DGcl2y"
-      },
-      "artists": [
-        {
-          "name": "Don Patricio",
-          "url": "https://open.spotify.com/artist/6vPXtLmNd3mW0dd1Rb9eQ9"
-        },
-        {
-          "name": "Cruz Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "Contando Lunares (feat. Cruz Cafun\u00e9)",
-      "url": "https://open.spotify.com/track/6uW0PIRcyZLvkoonm763xD"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "SEX AND LOVE (Deluxe)",
         "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 243413,
       "name": "Bailando - Spanish Version",
       "url": "https://open.spotify.com/track/32lm3769IRfcnrQV11LO4E"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "La Dura Vida del Joven Rapero",
+        "url": "https://open.spotify.com/album/507EX6i0GGn2b4l2DGcl2y"
+      },
+      "artists": [
+        {
+          "name": "Don Patricio",
+          "url": "https://open.spotify.com/artist/6vPXtLmNd3mW0dd1Rb9eQ9"
+        },
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        }
+      ],
+      "duration_ms": 219666,
+      "name": "Contando Lunares (feat. Cruz Cafun\u00e9)",
+      "url": "https://open.spotify.com/track/6uW0PIRcyZLvkoonm763xD"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Verano Azul",
-        "url": "https://open.spotify.com/album/687yvcM8ZmPohOsrrXh8Zu"
-      },
-      "artists": [
-        {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        }
-      ],
-      "duration_ms": 190560,
-      "name": "Verano Azul",
-      "url": "https://open.spotify.com/track/0dgwWXkfcWyB2a2qTgEc0F"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "M.I.A.M.I.",
         "url": "https://open.spotify.com/album/76N6imyjQ9h5p2NzakHT32"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 219080,
       "name": "Culo",
       "url": "https://open.spotify.com/track/4tAru66VGVLWYjg90UV4vJ"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Verano Azul",
+        "url": "https://open.spotify.com/album/687yvcM8ZmPohOsrrXh8Zu"
+      },
+      "artists": [
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        }
+      ],
+      "duration_ms": 190560,
+      "name": "Verano Azul",
+      "url": "https://open.spotify.com/track/0dgwWXkfcWyB2a2qTgEc0F"
     },
     {
       "added_at": "2023-06-09 09:38:51",

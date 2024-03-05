@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James.",
-  "num_followers": 290996,
+  "num_followers": 291128,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTk2YTRlYjFmNGI0MTczOWMyOTdiZGQwYmVkYzljYmYzZDM4MjY1",
+  "snapshot_id": "MCw0MGFmNzZmMmRhN2E5Zjk5NWZkMTI3NDVlNDdmNGI5ZGIwYzA1ZTQz",
   "tracks": [
     {
       "added_at": "2022-05-30 13:00:37",
@@ -111,22 +111,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 179693,
-      "name": "At Last",
-      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Help! (Remastered)",
         "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 125666,
       "name": "Yesterday - Remastered 2009",
       "url": "https://open.spotify.com/track/3BQHpFgAp4l80e1XslIjNI"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 179693,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -191,38 +191,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "The Very Best of Frankie Valli & The 4 Seasons",
-        "url": "https://open.spotify.com/album/0NUEQILaBzavnzcMEs4buZ"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli",
-          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
-        }
-      ],
-      "duration_ms": 203240,
-      "name": "Can't Take My Eyes off You",
-      "url": "https://open.spotify.com/track/6ft9PAgNOjmZ2kFVP7LGqb"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "Strangers In The Night (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1kyb5tomEXcA106V57puFW"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "Strangers In The Night",
-      "url": "https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Abbey Road (Remastered)",
         "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
       },
@@ -235,22 +203,6 @@
       "duration_ms": 259946,
       "name": "Come Together - Remastered 2009",
       "url": "https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "A Valentine For You",
-        "url": "https://open.spotify.com/album/5FKeAFzL4NPXdiySDoUyel"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 127186,
-      "name": "(What A) Wonderful World",
-      "url": "https://open.spotify.com/track/7jVBSPLSbL1jKVBDMXlRCx"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -271,6 +223,54 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "Strangers In The Night (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1kyb5tomEXcA106V57puFW"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 157866,
+      "name": "Strangers In The Night",
+      "url": "https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "The Very Best of Frankie Valli & The 4 Seasons",
+        "url": "https://open.spotify.com/album/0NUEQILaBzavnzcMEs4buZ"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli",
+          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
+        }
+      ],
+      "duration_ms": 203240,
+      "name": "Can't Take My Eyes off You",
+      "url": "https://open.spotify.com/track/6ft9PAgNOjmZ2kFVP7LGqb"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "A Valentine For You",
+        "url": "https://open.spotify.com/album/5FKeAFzL4NPXdiySDoUyel"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 127186,
+      "name": "(What A) Wonderful World",
+      "url": "https://open.spotify.com/track/7jVBSPLSbL1jKVBDMXlRCx"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "Lady Soul (With Bonus Selections)",
         "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
       },
@@ -287,6 +287,22 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "Rubber Soul (Remastered)",
+        "url": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 146333,
+      "name": "In My Life - Remastered 2009",
+      "url": "https://open.spotify.com/track/3KfbEIOC7YIv90FIfNSZpo"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "Bee Gees' 1st",
         "url": "https://open.spotify.com/album/2ESenDgBlvBFn6G1SfVZIw"
       },
@@ -299,6 +315,22 @@
       "duration_ms": 182000,
       "name": "To Love Somebody",
       "url": "https://open.spotify.com/track/0mbS3VwRbO6HVBMPXnzOGA"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 196133,
+      "name": "A Sunday Kind Of Love",
+      "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -383,38 +415,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Rubber Soul (Remastered)",
-        "url": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 146333,
-      "name": "In My Life - Remastered 2009",
-      "url": "https://open.spotify.com/track/3KfbEIOC7YIv90FIfNSZpo"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 196133,
-      "name": "A Sunday Kind Of Love",
-      "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Showcase",
         "url": "https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh"
       },
@@ -447,6 +447,38 @@
       "duration_ms": 173306,
       "name": "My Cherie Amour",
       "url": "https://open.spotify.com/track/5ZoDwIP1ntHwciLjydJ8X2"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 138386,
+      "name": "Blackbird - Remastered 2009",
+      "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "Stormy Weather",
+      "url": "https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -511,38 +543,6 @@
       "duration_ms": 145533,
       "name": "Only the Lonely",
       "url": "https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "The Beatles (Remastered)",
-        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 138386,
-      "name": "Blackbird - Remastered 2009",
-      "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "Stormy Weather",
-      "url": "https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "The Golden Hits of The Everly Brothers",
+        "url": "https://open.spotify.com/album/3wWjXsqngYcPmd4hQzjNAD"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 120306,
+      "name": "Crying in the Rain",
+      "url": "https://open.spotify.com/track/3lWuagNhAzcqOikD5KnBku"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "Stay Awhile / I Only Want To Be With You",
         "url": "https://open.spotify.com/album/2coXvs2zYk60U9Dd2hm6St"
       },
@@ -1599,22 +1615,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "The Golden Hits of The Everly Brothers",
-        "url": "https://open.spotify.com/album/3wWjXsqngYcPmd4hQzjNAD"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 120306,
-      "name": "Crying in the Rain",
-      "url": "https://open.spotify.com/track/3lWuagNhAzcqOikD5KnBku"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
       },
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/3AGszO88qhYdEvhs6pjsHW"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 174800,
-      "name": "The Tracks Of My Tears",
-      "url": "https://open.spotify.com/track/7FwkoTz8Ic8C5YaE9XXGIU"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "The Best of Sam & Dave",
         "url": "https://open.spotify.com/album/4IDa38FYTYlqHFbZM6rb5I"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 194106,
       "name": "When Something Is Wrong with My Baby",
       "url": "https://open.spotify.com/track/056rtilqF4cqLOgDQGqYqv"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "A Date with The Everly Brothers",
+        "url": "https://open.spotify.com/album/4Nro0nGcWVybv8cZXmSU4P"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 142306,
+      "name": "Love Hurts - 2007 Remaster",
+      "url": "https://open.spotify.com/track/6hgY1l6EqrfrHRNrxwKRiK"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "A Date with The Everly Brothers",
-        "url": "https://open.spotify.com/album/4Nro0nGcWVybv8cZXmSU4P"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 142306,
-      "name": "Love Hurts - 2007 Remaster",
-      "url": "https://open.spotify.com/track/6hgY1l6EqrfrHRNrxwKRiK"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Gary Puckett & The Union Gap Featuring \"Young Girl\"",
         "url": "https://open.spotify.com/album/3Q83WkHiw4oRcmjuRbHJ8M"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 252146,
       "name": "Honey (I Miss You)",
       "url": "https://open.spotify.com/track/7eErg4xYy85zjy10xsZop6"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/3AGszO88qhYdEvhs6pjsHW"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "duration_ms": 174800,
+      "name": "The Tracks Of My Tears",
+      "url": "https://open.spotify.com/track/7FwkoTz8Ic8C5YaE9XXGIU"
     },
     {
       "added_at": "2022-05-30 13:00:37",

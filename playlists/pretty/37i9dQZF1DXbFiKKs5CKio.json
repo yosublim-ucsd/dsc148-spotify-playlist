@@ -1,12 +1,12 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 55510,
+  "num_followers": 55539,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2Y1MjQxN2JkMzRiNGUwNjYzMzQ4MzYwYjBlZGYwNWZkOGRjNWEz",
+  "snapshot_id": "MCxlZjFjYzUzMmQ5NzAzNmVjNmM4OTJjNzY1YmEzMGY1ZmRmZDU3Y2Q5",
   "tracks": [
     {
       "added_at": "2024-03-01 03:01:00",
@@ -403,30 +403,6 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
-        "name": "Hip Hop Machine #18",
-        "url": "https://open.spotify.com/album/0piuFU4SnOxlIQ6izGufoS"
-      },
-      "artists": [
-        {
-          "name": "Leo Gandelman",
-          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
-        },
-        {
-          "name": "Machine Series",
-          "url": "https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG"
-        },
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        }
-      ],
-      "duration_ms": 357248,
-      "name": "Se Foi",
-      "url": "https://open.spotify.com/track/4vmSWLtbmDu1jGG13EeCis"
-    },
-    {
-      "added_at": "2024-03-01 03:01:00",
-      "album": {
         "name": "\u00cdndigo (Te Venero)",
         "url": "https://open.spotify.com/album/31GNuBi7EX93NbUToTnnlQ"
       },
@@ -475,6 +451,30 @@
       "duration_ms": 164000,
       "name": "Pulando",
       "url": "https://open.spotify.com/track/4zEKANXr86uqH5tPyhGSnT"
+    },
+    {
+      "added_at": "2024-03-01 03:01:00",
+      "album": {
+        "name": "Hip Hop Machine #18",
+        "url": "https://open.spotify.com/album/0piuFU4SnOxlIQ6izGufoS"
+      },
+      "artists": [
+        {
+          "name": "Leo Gandelman",
+          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
+        },
+        {
+          "name": "Machine Series",
+          "url": "https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG"
+        },
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        }
+      ],
+      "duration_ms": 357248,
+      "name": "Se Foi",
+      "url": "https://open.spotify.com/track/4vmSWLtbmDu1jGG13EeCis"
     },
     {
       "added_at": "2024-03-01 03:01:00",

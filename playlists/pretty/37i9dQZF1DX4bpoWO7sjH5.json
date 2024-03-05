@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica navide\u00f1a para celebrar el nacimiento de nuestro Salvador.",
-  "num_followers": 35460,
+  "num_followers": 35457,
   "original_name": "Navidad Cristiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2E5M2EyM2MxYzQ4M2FmZWFhNzc3YTA1M2UwZmQ3MWNjMmY1OTFm",
+  "snapshot_id": "MCxiYjAwN2NkYTAxNTFkNmJjZDFlMTIxMDc5YzQzNmY4ZDRmZmEzN2Q0",
   "tracks": [
     {
       "added_at": "2023-12-15 17:10:08",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-12-15 17:10:08",
       "album": {
+        "name": "Navidad Entre Nosotros",
+        "url": "https://open.spotify.com/album/6AVmQObJK3ODN5oWhxwTHH"
+      },
+      "artists": [
+        {
+          "name": "Marcela Gandara",
+          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+        }
+      ],
+      "duration_ms": 190250,
+      "name": "El Ni\u00f1o Del Tambor",
+      "url": "https://open.spotify.com/track/5aMeIzu5mbYkPdkMtkkZzo"
+    },
+    {
+      "added_at": "2023-12-15 17:10:08",
+      "album": {
         "name": "Navidad Con V\u00e1stago, Vol. 2",
         "url": "https://open.spotify.com/album/7picko9RD3JTYbdZkpNzz2"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 208600,
       "name": "Luces De Colores",
       "url": "https://open.spotify.com/track/4mxI2rhPv3NiahgN0DGOxW"
-    },
-    {
-      "added_at": "2023-12-15 17:10:08",
-      "album": {
-        "name": "Joy To Our World",
-        "url": "https://open.spotify.com/album/6rwwb34IZFoebbkLoMNwn4"
-      },
-      "artists": [
-        {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
-        }
-      ],
-      "duration_ms": 198276,
-      "name": "Feliz Navidad",
-      "url": "https://open.spotify.com/track/23yXE7auYQ93grOZn0PHn9"
     },
     {
       "added_at": "2023-12-15 17:10:08",
@@ -603,18 +603,18 @@
     {
       "added_at": "2023-12-15 17:10:08",
       "album": {
-        "name": "Navidad Entre Nosotros",
-        "url": "https://open.spotify.com/album/6AVmQObJK3ODN5oWhxwTHH"
+        "name": "Joy To Our World",
+        "url": "https://open.spotify.com/album/6rwwb34IZFoebbkLoMNwn4"
       },
       "artists": [
         {
-          "name": "Marcela Gandara",
-          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
         }
       ],
-      "duration_ms": 190250,
-      "name": "El Ni\u00f1o Del Tambor",
-      "url": "https://open.spotify.com/track/5aMeIzu5mbYkPdkMtkkZzo"
+      "duration_ms": 198276,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/23yXE7auYQ93grOZn0PHn9"
     },
     {
       "added_at": "2023-12-15 17:10:08",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-12-15 17:10:08",
       "album": {
-        "name": "Navidad Con V\u00e1stago",
-        "url": "https://open.spotify.com/album/5iaOASNSIW1UQxZstdIUrt"
+        "name": "La Navidad es para Compartir (Por Caminos)",
+        "url": "https://open.spotify.com/album/1Egmb6O2baoibe4iTLfIVn"
       },
       "artists": [
         {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+          "name": "Raya Real",
+          "url": "https://open.spotify.com/artist/6B0tiYh9aXjEkmNp6LhGjk"
         }
       ],
-      "duration_ms": 203440,
-      "name": "Nadie Se Lo Imagin\u00f3",
-      "url": "https://open.spotify.com/track/1hjpA2QecgiBKX8JB8I38V"
+      "duration_ms": 194026,
+      "name": "La Navidad es para Compartir - Por Caminos",
+      "url": "https://open.spotify.com/track/6QPuWOvJztTktxDwkBaFSG"
     },
     {
       "added_at": "2023-12-15 17:10:08",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-12-15 17:10:08",
       "album": {
-        "name": "La Navidad es para Compartir (Por Caminos)",
-        "url": "https://open.spotify.com/album/1Egmb6O2baoibe4iTLfIVn"
-      },
-      "artists": [
-        {
-          "name": "Raya Real",
-          "url": "https://open.spotify.com/artist/6B0tiYh9aXjEkmNp6LhGjk"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "La Navidad es para Compartir - Por Caminos",
-      "url": "https://open.spotify.com/track/6QPuWOvJztTktxDwkBaFSG"
-    },
-    {
-      "added_at": "2023-12-15 17:10:08",
-      "album": {
         "name": "Es Navidad",
         "url": "https://open.spotify.com/album/6qmgIAF2ZmcFfRLfLnvZ9H"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 251951,
       "name": "Es Navidad",
       "url": "https://open.spotify.com/track/0rRdEddErYghJMBrrIeGGp"
+    },
+    {
+      "added_at": "2023-12-15 17:10:08",
+      "album": {
+        "name": "Navidad Con V\u00e1stago",
+        "url": "https://open.spotify.com/album/5iaOASNSIW1UQxZstdIUrt"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 203440,
+      "name": "Nadie Se Lo Imagin\u00f3",
+      "url": "https://open.spotify.com/track/1hjpA2QecgiBKX8JB8I38V"
     },
     {
       "added_at": "2023-12-15 17:10:08",
@@ -783,6 +783,30 @@
     {
       "added_at": "2023-12-15 17:10:08",
       "album": {
+        "name": "Navidad Con V\u00e1stago, Vol. 2",
+        "url": "https://open.spotify.com/album/7picko9RD3JTYbdZkpNzz2"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/07C86B0m9AJsysuDz8rEgV"
+        },
+        {
+          "name": "Melissa Romero",
+          "url": "https://open.spotify.com/artist/4SdbDEZNjyPme83PlLVilY"
+        },
+        {
+          "name": "Daniel Fraire",
+          "url": "https://open.spotify.com/artist/1tzaPcz7mhxdgFMlgvWdqF"
+        }
+      ],
+      "duration_ms": 217040,
+      "name": "Un Cuento De Navidad",
+      "url": "https://open.spotify.com/track/5xbCClguvpKvtwp03NIIsh"
+    },
+    {
+      "added_at": "2023-12-15 17:10:08",
+      "album": {
         "name": "A Bel\u00e9n Yo Voy (Remix)",
         "url": "https://open.spotify.com/album/0CxYH0xmDOfL0VmjNqWNVb"
       },
@@ -815,30 +839,6 @@
       "duration_ms": 236146,
       "name": "Venid y Adoremos",
       "url": "https://open.spotify.com/track/6gps28rean6thHxcURGTg1"
-    },
-    {
-      "added_at": "2023-12-15 17:10:08",
-      "album": {
-        "name": "Navidad Con V\u00e1stago, Vol. 2",
-        "url": "https://open.spotify.com/album/7picko9RD3JTYbdZkpNzz2"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/07C86B0m9AJsysuDz8rEgV"
-        },
-        {
-          "name": "Melissa Romero",
-          "url": "https://open.spotify.com/artist/4SdbDEZNjyPme83PlLVilY"
-        },
-        {
-          "name": "Daniel Fraire",
-          "url": "https://open.spotify.com/artist/1tzaPcz7mhxdgFMlgvWdqF"
-        }
-      ],
-      "duration_ms": 217040,
-      "name": "Un Cuento De Navidad",
-      "url": "https://open.spotify.com/track/5xbCClguvpKvtwp03NIIsh"
     },
     {
       "added_at": "2023-12-15 17:10:08",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-12-15 17:10:08",
       "album": {
-        "name": "Navidad Con V\u00e1stago",
-        "url": "https://open.spotify.com/album/5iaOASNSIW1UQxZstdIUrt"
-      },
-      "artists": [
-        {
-          "name": "Lilly Goodman",
-          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
-        }
-      ],
-      "duration_ms": 221493,
-      "name": "Solo T\u00fa",
-      "url": "https://open.spotify.com/track/2g5V0AzN97VdlSEjavoru4"
-    },
-    {
-      "added_at": "2023-12-15 17:10:08",
-      "album": {
         "name": "Ella Dijo S\u00ed",
         "url": "https://open.spotify.com/album/4JlriW0TmjbPeoGwfXMhRv"
       },
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2023-12-15 17:10:08",
       "album": {
+        "name": "Navidad Con V\u00e1stago",
+        "url": "https://open.spotify.com/album/5iaOASNSIW1UQxZstdIUrt"
+      },
+      "artists": [
+        {
+          "name": "Lilly Goodman",
+          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
+        }
+      ],
+      "duration_ms": 221493,
+      "name": "Solo T\u00fa",
+      "url": "https://open.spotify.com/track/2g5V0AzN97VdlSEjavoru4"
+    },
+    {
+      "added_at": "2023-12-15 17:10:08",
+      "album": {
         "name": "Jes\u00fas Naci\u00f3",
         "url": "https://open.spotify.com/album/4a9bQgsXGA1MA6iEHF8lPR"
       },
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2023-12-15 17:10:08",
       "album": {
-        "name": "Dios Anduvo en Pa\u00f1ales",
-        "url": "https://open.spotify.com/album/1XLOzbZqYkWelLKKTQUTCh"
-      },
-      "artists": [
-        {
-          "name": "Pablo Martinez",
-          "url": "https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz"
-        },
-        {
-          "name": "Paola Pablo",
-          "url": "https://open.spotify.com/artist/4OgKEU8REaur4PyaUb7Guu"
-        }
-      ],
-      "duration_ms": 186712,
-      "name": "Dios Anduvo en Pa\u00f1ales",
-      "url": "https://open.spotify.com/track/0c5eFeiDpsu7s40DSRbU78"
-    },
-    {
-      "added_at": "2023-12-15 17:10:08",
-      "album": {
         "name": "Oh ven, Emanuel",
         "url": "https://open.spotify.com/album/0QHibQsKvZz76UCLpNR9gV"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 228866,
       "name": "Hoy Es Navidad",
       "url": "https://open.spotify.com/track/5GTAhTQ8vZUGVrdsDsIAjv"
+    },
+    {
+      "added_at": "2023-12-15 17:10:08",
+      "album": {
+        "name": "Dios Anduvo en Pa\u00f1ales",
+        "url": "https://open.spotify.com/album/1XLOzbZqYkWelLKKTQUTCh"
+      },
+      "artists": [
+        {
+          "name": "Pablo Martinez",
+          "url": "https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz"
+        },
+        {
+          "name": "Paola Pablo",
+          "url": "https://open.spotify.com/artist/4OgKEU8REaur4PyaUb7Guu"
+        }
+      ],
+      "duration_ms": 186712,
+      "name": "Dios Anduvo en Pa\u00f1ales",
+      "url": "https://open.spotify.com/track/0c5eFeiDpsu7s40DSRbU78"
     },
     {
       "added_at": "2023-12-15 17:10:08",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2023-12-15 17:10:08",
       "album": {
-        "name": "Emanuel",
-        "url": "https://open.spotify.com/album/1xuNhRxoVHFRXRG8ZKNW45"
-      },
-      "artists": [
-        {
-          "name": "Lourdes Toledo",
-          "url": "https://open.spotify.com/artist/1l0tusoe8gcXNkoA5r5jA3"
-        }
-      ],
-      "duration_ms": 250400,
-      "name": "Navidad En Mi Pa\u00eds",
-      "url": "https://open.spotify.com/track/4DOZ3elu3RrKly1XeEqTh2"
-    },
-    {
-      "added_at": "2023-12-15 17:10:08",
-      "album": {
         "name": "La Navidad es Jes\u00fas",
         "url": "https://open.spotify.com/album/6XqJivuGFhVC9DYXdFq6JP"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 99632,
       "name": "Venid Adoremos",
       "url": "https://open.spotify.com/track/2iOTC85KkWjQG6HwEr7fCh"
+    },
+    {
+      "added_at": "2023-12-15 17:10:08",
+      "album": {
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/1xuNhRxoVHFRXRG8ZKNW45"
+      },
+      "artists": [
+        {
+          "name": "Lourdes Toledo",
+          "url": "https://open.spotify.com/artist/1l0tusoe8gcXNkoA5r5jA3"
+        }
+      ],
+      "duration_ms": 250400,
+      "name": "Navidad En Mi Pa\u00eds",
+      "url": "https://open.spotify.com/track/4DOZ3elu3RrKly1XeEqTh2"
     },
     {
       "added_at": "2023-12-15 17:10:08",
@@ -2003,6 +2003,22 @@
     {
       "added_at": "2023-12-15 17:10:08",
       "album": {
+        "name": "Naci\u00f3 en Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4J20m0CLlK0XdEPmM0Dj18"
+      },
+      "artists": [
+        {
+          "name": "Julissa",
+          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
+        }
+      ],
+      "duration_ms": 257346,
+      "name": "Naciste en Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6Emxozbb1RmuF1UiSxJikp"
+    },
+    {
+      "added_at": "2023-12-15 17:10:08",
+      "album": {
         "name": "El Primer Noel",
         "url": "https://open.spotify.com/album/1WyAyfFCEueRiYIMQHD1LF"
       },
@@ -2071,22 +2087,6 @@
       "duration_ms": 202674,
       "name": "Rey de Gloria",
       "url": "https://open.spotify.com/track/6lb6QojMr4vItM2sUPbpaM"
-    },
-    {
-      "added_at": "2023-12-15 17:10:08",
-      "album": {
-        "name": "Naci\u00f3 en Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4J20m0CLlK0XdEPmM0Dj18"
-      },
-      "artists": [
-        {
-          "name": "Julissa",
-          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
-        }
-      ],
-      "duration_ms": 257346,
-      "name": "Naciste en Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6Emxozbb1RmuF1UiSxJikp"
     },
     {
       "added_at": "2023-12-15 17:10:08",

@@ -1,12 +1,12 @@
 {
   "description": "Press play and enjoy a relaxing meal. Easy!",
-  "num_followers": 259777,
+  "num_followers": 259782,
   "original_name": "Chill Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDBmNTFjZjY2ZjYwMWM3NzM2MGViNWRkY2FmNGVlYzA2ODExODlm",
+  "snapshot_id": "MCwwYjRkMDY0YTQxZmYwMzE1YTAzMzgzMGMzZWU4NjYxZTA5NTQ4ZDBk",
   "tracks": [
     {
       "added_at": "2024-02-09 05:49:59",
@@ -99,22 +99,6 @@
     {
       "added_at": "2024-02-09 05:49:59",
       "album": {
-        "name": "Something in the Orange",
-        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 228013,
-      "name": "Something in the Orange",
-      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
-    },
-    {
-      "added_at": "2024-02-09 05:49:59",
-      "album": {
         "name": "Gettin' Old",
         "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
       },
@@ -179,22 +163,6 @@
     {
       "added_at": "2024-02-09 05:49:59",
       "album": {
-        "name": "Tracy Chapman",
-        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
-      },
-      "artists": [
-        {
-          "name": "Tracy Chapman",
-          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
-        }
-      ],
-      "duration_ms": 296800,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
-    },
-    {
-      "added_at": "2024-02-09 05:49:59",
-      "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
@@ -207,6 +175,38 @@
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
+    },
+    {
+      "added_at": "2024-02-09 05:49:59",
+      "album": {
+        "name": "Something in the Orange",
+        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 228013,
+      "name": "Something in the Orange",
+      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
+    },
+    {
+      "added_at": "2024-02-09 05:49:59",
+      "album": {
+        "name": "Tracy Chapman",
+        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
+      },
+      "artists": [
+        {
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+        }
+      ],
+      "duration_ms": 296800,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
     },
     {
       "added_at": "2024-02-09 05:49:59",
@@ -707,6 +707,22 @@
     {
       "added_at": "2024-02-09 05:49:59",
       "album": {
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 206386,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
+    },
+    {
+      "added_at": "2024-02-09 05:49:59",
+      "album": {
         "name": "Stick Season",
         "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 224585,
       "name": "Put A Little Love On Me",
       "url": "https://open.spotify.com/track/7LyBwug9tJgbaEzRCqtY78"
-    },
-    {
-      "added_at": "2024-02-09 05:49:59",
-      "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 206386,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
     },
     {
       "added_at": "2024-02-09 05:49:59",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-02-09 05:49:59",
       "album": {
-        "name": "Bewitched",
-        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "Haunted",
-      "url": "https://open.spotify.com/track/1bx9j48IeWnDnPqcTTqT8Q"
-    },
-    {
-      "added_at": "2024-02-09 05:49:59",
-      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2024-02-09 05:49:59",
       "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/1bx9j48IeWnDnPqcTTqT8Q"
+    },
+    {
+      "added_at": "2024-02-09 05:49:59",
+      "album": {
         "name": "For Tonight",
         "url": "https://open.spotify.com/album/5cAd6WOG1zVNQ2KDCOLtuf"
       },
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-02-09 05:49:59",
       "album": {
+        "name": "Three Little Birds (Bob Marley: One Love - Music Inspired By The Film)",
+        "url": "https://open.spotify.com/album/3EXlQV6JszrelQzPg0i78u"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 241600,
+      "name": "Three Little Birds - Bob Marley: One Love - Music Inspired By The Film",
+      "url": "https://open.spotify.com/track/1xfF8Y370KZujtqcbOAwEE"
+    },
+    {
+      "added_at": "2024-02-09 05:49:59",
+      "album": {
         "name": "There's No Way (feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/0fZ8R5krm1zAkzUFjqwtpU"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 296386,
       "name": "Such A Simple Thing",
       "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
-    },
-    {
-      "added_at": "2024-02-09 05:49:59",
-      "album": {
-        "name": "Three Little Birds (Bob Marley: One Love - Music Inspired By The Film)",
-        "url": "https://open.spotify.com/album/3EXlQV6JszrelQzPg0i78u"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 241600,
-      "name": "Three Little Birds - Bob Marley: One Love - Music Inspired By The Film",
-      "url": "https://open.spotify.com/track/1xfF8Y370KZujtqcbOAwEE"
     },
     {
       "added_at": "2024-02-09 05:49:59",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-02-09 05:49:59",
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 198453,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
-    },
-    {
-      "added_at": "2024-02-09 05:49:59",
-      "album": {
         "name": "Persuasion (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/4ZIW3ma2l44g1HhiyxNagv"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 234156,
       "name": "Quietly Yours",
       "url": "https://open.spotify.com/track/7wRijQK8vRmGLK0RYW7Vr1"
+    },
+    {
+      "added_at": "2024-02-09 05:49:59",
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 198453,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
     },
     {
       "added_at": "2024-02-09 05:49:59",

@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 136638,
+  "2024-03-05": 136806,
   "date_first_scraped": "2023-01-03",
   "description": "Is \"indie sleaze\" in the room with us? ft. The Strokes ",
   "name": "Indie Sleaze",
@@ -1659,7 +1659,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 188080,
       "name": "Ice Cream",
       "url": "https://open.spotify.com/track/02ISLTUYF5GUjKrL7zvRb9"
@@ -2675,6 +2675,24 @@
       "duration_ms": 284799,
       "name": "Play Your Part (Pt. 1)",
       "url": "https://open.spotify.com/track/5udnrY00yVUOAzupil2H56"
+    },
+    {
+      "album": {
+        "name": "Era Extra\u00f1a",
+        "url": "https://open.spotify.com/album/4CdHUVyWF9VvYZa4GFqDLb"
+      },
+      "artists": [
+        {
+          "name": "Neon Indian",
+          "url": "https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Polish Girl",
+      "url": "https://open.spotify.com/track/5K10oTBp9GEcLAQ2TC8wsf"
     },
     {
       "album": {

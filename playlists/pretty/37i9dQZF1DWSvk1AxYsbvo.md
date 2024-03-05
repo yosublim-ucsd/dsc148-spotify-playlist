@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,465 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,466 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,13 +22,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 12 | [Winded](https://open.spotify.com/track/71zJMsNpZIJGnN8fibrPxg) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Winded](https://open.spotify.com/album/6KYXpHhFNyXL3L4JgGsD1p) | 3:03 |
 | 13 | [Think About You](https://open.spotify.com/track/0cjBJptR0O4Y0ESQoXXzFH) | [Acoustic Collabo](https://open.spotify.com/artist/0rMd7FdvwwxKrFEsQ1hC7G) | [Think About You](https://open.spotify.com/album/2NunoRHmbtwi6dJ98e0qAp) | 3:44 |
 | 14 | [It will be all fine](https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri) | [Hoyeon Kim](https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m) | [Lean On Me \(Original Television Soundtrack\)](https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR) | 2:33 |
-| 15 | [내 사랑 내 곁에](https://open.spotify.com/track/77odrU6Z94fsXryPiPf7P7) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [기막힌 유산 \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/0gSEdT5M23E5utrxIofSBY) | 3:53 |
-| 16 | [Falling In Love \(feat\. 10cm\)](https://open.spotify.com/track/5dPYuKs7KoMjR1DQU2mpOX) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [CAKE](https://open.spotify.com/album/1kh0R6MwB7zY10hWurPwX8) | 3:28 |
-| 17 | [sleepless nights \(My Sweden Laundry \#1\)](https://open.spotify.com/track/4gOx9XctmKHQ42ytfKNbiC) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [sleepless nights \(My Sweden Laundry \#1\)](https://open.spotify.com/album/4U33ucPMfJMmaMo0SA6kqd) | 3:40 |
+| 15 | [sleepless nights \(My Sweden Laundry \#1\)](https://open.spotify.com/track/4gOx9XctmKHQ42ytfKNbiC) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [sleepless nights \(My Sweden Laundry \#1\)](https://open.spotify.com/album/4U33ucPMfJMmaMo0SA6kqd) | 3:40 |
+| 16 | [내 사랑 내 곁에](https://open.spotify.com/track/77odrU6Z94fsXryPiPf7P7) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [기막힌 유산 \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/0gSEdT5M23E5utrxIofSBY) | 3:53 |
+| 17 | [Falling In Love \(feat\. 10cm\)](https://open.spotify.com/track/5dPYuKs7KoMjR1DQU2mpOX) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [CAKE](https://open.spotify.com/album/1kh0R6MwB7zY10hWurPwX8) | 3:28 |
 | 18 | [All My Love \- Korean Ver.](https://open.spotify.com/track/7tBopxC7AwomZnU7KuKF9u) | [PARK BO GUM](https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv) | [All My Love](https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat) | 3:23 |
 | 19 | [너는 어떻게 How Did You \(feat\. Yerin Baek\)](https://open.spotify.com/track/3rkH2oQnehYxTA0Vk50D1Z) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [너는 어떻게 How Did You](https://open.spotify.com/album/1s3RA9wdbVXkSVHYPBIk8E) | 4:09 |
-| 20 | [안녕 Bye \(feat\. LeeHi\)](https://open.spotify.com/track/4jZ17ywLPwRyu0B0gkCPiV) | [Kim Oki](https://open.spotify.com/artist/1Z8Khxem5wcnSoH3WpwMbF), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [안부 Greeting](https://open.spotify.com/album/1RLEVogJMDuU5CJgfaj371) | 6:40 |
-| 21 | [You are My Night](https://open.spotify.com/track/3PJBhDdXm8Ew3zAx6zmWnZ) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Someone's playlist \#7](https://open.spotify.com/album/0Su2ElnouXgBIHYvbDr7em) | 2:35 |
+| 20 | [You are My Night](https://open.spotify.com/track/3PJBhDdXm8Ew3zAx6zmWnZ) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Someone's playlist \#7](https://open.spotify.com/album/0Su2ElnouXgBIHYvbDr7em) | 2:35 |
+| 21 | [안녕 Bye \(feat\. LeeHi\)](https://open.spotify.com/track/4jZ17ywLPwRyu0B0gkCPiV) | [Kim Oki](https://open.spotify.com/artist/1Z8Khxem5wcnSoH3WpwMbF), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [안부 Greeting](https://open.spotify.com/album/1RLEVogJMDuU5CJgfaj371) | 6:40 |
 | 22 | [Olive](https://open.spotify.com/track/2sWmwFczvN8pglDFCNEdOv) | [Artinb](https://open.spotify.com/artist/5t7WiBzx4KeS4VZg9dZ6Kp) | [Olive](https://open.spotify.com/album/0lHVbBbazLwjjE3yYnJoDL) | 2:09 |
 | 23 | [If](https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [If](https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5) | 4:11 |
 | 24 | [The Film](https://open.spotify.com/track/4KYzR5AKCyoargIQFOYWxZ) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [The Film](https://open.spotify.com/album/5C43D5TjB15GoKHogFTNEq) | 3:16 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 44 | [You don't have to say anything \(I already know\)](https://open.spotify.com/track/1uJbJ78IbBgmntxPk5bptX) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [You don't have to say anything \(I already know\)](https://open.spotify.com/album/6EloN2Ba66hvq5yLrueBrC) | 4:25 |
 | 45 | [a story to tell \(Original Ver.\)](https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH) | [Betty](https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW) | [Beautiful GunbarI OST](https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5) | 2:51 |
 | 46 | [지쳤어 Burned out](https://open.spotify.com/track/2BeiC0SEmQ91m0kSCbG8s2) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [건강하세모 Take care](https://open.spotify.com/album/0Sn3xiwF8oyjTvZsvR1ekM) | 3:06 |
-| 47 | [Monologue](https://open.spotify.com/track/7fNmFxnGqipleYaNDnnVHj) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Don't Know](https://open.spotify.com/album/5jnvJERFgLcdXTtlaY8yMI) | 3:30 |
-| 48 | [moon river \(2021\)](https://open.spotify.com/track/3PdER8czrfvUUjtEbvynjp) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [A story that will turn into a poem](https://open.spotify.com/album/4pwFaLkL7sfjhD1O6IZPqF) | 3:13 |
+| 47 | [moon river \(2021\)](https://open.spotify.com/track/3PdER8czrfvUUjtEbvynjp) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [A story that will turn into a poem](https://open.spotify.com/album/4pwFaLkL7sfjhD1O6IZPqF) | 3:13 |
+| 48 | [Monologue](https://open.spotify.com/track/7fNmFxnGqipleYaNDnnVHj) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Don't Know](https://open.spotify.com/album/5jnvJERFgLcdXTtlaY8yMI) | 3:30 |
 | 49 | [Lost Stars](https://open.spotify.com/track/7DljYOk60TzF33yBL9fdnn) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Lonely night](https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA) | 3:07 |
 | 50 | [Going home](https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq) | 3:33 |
 
-Snapshot ID: `MCw2MjYzOTU2YWRmYzExMTliMmIxNTNjNTg5OGM3NTJkMmIxZTdhMWRm`
+Snapshot ID: `MCxlZTA0OGExNTc3MDhjOGNlZWZlOTk3MGQ3NDFkNmZmZTljNzQ4NzA1`

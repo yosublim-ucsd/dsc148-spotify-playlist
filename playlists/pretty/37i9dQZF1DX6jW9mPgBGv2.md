@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jW9mPgBGv2.md) - [plain]
 
 ### [FRONTEO](https://open.spotify.com/playlist/37i9dQZF1DX6jW9mPgBGv2)
 
-> El rango más alto\. Ellos lo tienen y lo saben\. Eladio Carrion plantando cara.
+> El rango más alto\. Ellos lo tienen y lo saben\. Anuel AA plantando cara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,905 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,040 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [RKO](https://open.spotify.com/track/4KglpGG1pPLuXmO4lxrIaQ) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 1:46 |
-| 2 | [A2P](https://open.spotify.com/track/0IPD4hNAGIjVDBTHfVdv8o) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Foreign Teck](https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv) | [SI SABE](https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF) | 6:47 |
-| 3 | [Narcan](https://open.spotify.com/track/0ADkl2GoQ2JnoFV7PfZL0n) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Narcan](https://open.spotify.com/album/1QbX68oq0TMFqKuYu84XJI) | 5:32 |
-| 4 | [Glock, Glock, Glock](https://open.spotify.com/track/5PbpNGnbwHITnemc1Rkcsk) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Glock, Glock, Glock](https://open.spotify.com/album/1ay4gATBfT4cZjc9ob2ADB) | 10:03 |
-| 5 | [Feliz Navidad 8](https://open.spotify.com/track/6XYELfFtZ2SQniDqXcTHFV) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Feliz Navidad 8](https://open.spotify.com/album/5Wa0plC0QxJjgj9p4yunLE) | 10:55 |
-| 6 | [El Palo](https://open.spotify.com/track/64Gag4P7kkhhHRRj3w9pvQ) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Sentimiento, Elegancia y Más Maldad](https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY) | 3:34 |
-| 7 | [TLD](https://open.spotify.com/track/2YyPxb5eGbmqi8rEwoxZe4) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [El Principe 2](https://open.spotify.com/album/5U3A4CCnKzp3vtWbIqAzNO) | 3:59 |
-| 8 | [MERCEDES CAROTA](https://open.spotify.com/track/3TYOH7ta0101NYssoH5GlU) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:22 |
+| 1 | [RIOT](https://open.spotify.com/track/54d7bwkLmK32XFQA3ARQmn) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [RONNY J](https://open.spotify.com/artist/3TKCdsX8yNNoiC1gesn6or) | [DE CAMINO A HERMES \(Deluxe\)](https://open.spotify.com/album/4EwN5HXrC6QXxgDqLgdS1m) | 2:36 |
+| 2 | [MERCEDES CAROTA](https://open.spotify.com/track/3TYOH7ta0101NYssoH5GlU) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:22 |
+| 3 | [Arcangel Es Chota](https://open.spotify.com/track/46m8JcNZIhmJV2Shpd9lqm) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Arcangel Es Chota](https://open.spotify.com/album/03eugibzqHk8cG6QanDICw) | 10:00 |
+| 4 | [RKO](https://open.spotify.com/track/4KglpGG1pPLuXmO4lxrIaQ) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 1:46 |
+| 5 | [A2P](https://open.spotify.com/track/0IPD4hNAGIjVDBTHfVdv8o) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Foreign Teck](https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv) | [SI SABE](https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF) | 6:47 |
+| 6 | [Narcan](https://open.spotify.com/track/0ADkl2GoQ2JnoFV7PfZL0n) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Narcan](https://open.spotify.com/album/1QbX68oq0TMFqKuYu84XJI) | 5:32 |
+| 7 | [El Palo](https://open.spotify.com/track/64Gag4P7kkhhHRRj3w9pvQ) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Sentimiento, Elegancia y Más Maldad](https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY) | 3:34 |
+| 8 | [TLD](https://open.spotify.com/track/2YyPxb5eGbmqi8rEwoxZe4) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [El Principe 2](https://open.spotify.com/album/5U3A4CCnKzp3vtWbIqAzNO) | 3:59 |
 | 9 | [Al Costo](https://open.spotify.com/track/0GEsx6S00XYMLpoZERJsEo) | [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs) | [Al Costo](https://open.spotify.com/album/5wYOBxAQAbTqi6xbbRsuIE) | 2:44 |
 | 10 | [Switch \(with Bryant Myers & Hydro\)](https://open.spotify.com/track/7G9xNjanJp0oX4KxBl57NW) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [Switch \(with Bryant Myers & Hydro\)](https://open.spotify.com/album/1Hno34lfN0uOhkeqHx151S) | 2:33 |
 | 11 | [NOVATO](https://open.spotify.com/track/2bcBQUFjbrsS8rq0u5PK6O) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jW9mPgBGv2.md) - [plain]
 | 99 | [ENCHULETIAO](https://open.spotify.com/track/5Q9h2r0aU17WD8nn0HkSg9) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:09 |
 | 100 | [King Kong](https://open.spotify.com/track/6B1FxvvzfZASAwZHvukJsS) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [DEMBO$$](https://open.spotify.com/album/7bp8TEGxs1Q8bCB3HbzghV) | 3:12 |
 
-Snapshot ID: `MCxiZTI3OTNjMDJkMjg0YWIyNGJjZGQ5MDVkNGM4Nzg1OTYxNGZlZTM1`
+Snapshot ID: `MCxhY2IyMWMxMTQyNDRlMWY5Y2RkMjBhNDNiM2M5Y2Y5YmYwNmZlZmY4`

@@ -1,12 +1,12 @@
 {
   "description": "Se acab\u00f3 el amor. La m\u00fasica contin\u00faa.",
-  "num_followers": 1699774,
+  "num_followers": 1699862,
   "original_name": "Sin Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzFkMmI1NTEzNzlkMDAwYmI2YjczMGZiNmFmYzBlNzE5NGMzZTgx",
+  "snapshot_id": "MCxhZTQ0OGE0NDk5NDQyYjczM2VlMjU0MDdhYmY5OWUyYjQ0ZTFkNzgw",
   "tracks": [
     {
       "added_at": "2024-02-16 05:01:00",
@@ -479,30 +479,6 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "Ricky Martin MTV Unplugged",
-        "url": "https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        },
-        {
-          "name": "Lamari",
-          "url": "https://open.spotify.com/artist/1Rv4Ogfu7pg6QMo09XWtWK"
-        },
-        {
-          "name": "Tommy Torres",
-          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
-        }
-      ],
-      "duration_ms": 247866,
-      "name": "Tu Recuerdo (feat. La Mari De Chambao & Tommy Torres) - MTV Unplugged Version",
-      "url": "https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
         "name": "Donde Estan Los Ladrones",
         "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
@@ -535,6 +511,30 @@
       "duration_ms": 198280,
       "name": "Todav\u00eda No",
       "url": "https://open.spotify.com/track/2cYqMVc4sVem0FsuwArxD2"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
+        "name": "Ricky Martin MTV Unplugged",
+        "url": "https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Lamari",
+          "url": "https://open.spotify.com/artist/1Rv4Ogfu7pg6QMo09XWtWK"
+        },
+        {
+          "name": "Tommy Torres",
+          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
+        }
+      ],
+      "duration_ms": 247866,
+      "name": "Tu Recuerdo (feat. La Mari De Chambao & Tommy Torres) - MTV Unplugged Version",
+      "url": "https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "Cristina",
-        "url": "https://open.spotify.com/album/5lhQfarxkGkFATjitVSHC6"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 202040,
-      "name": "Cristina",
-      "url": "https://open.spotify.com/track/1Kjer1JoWuJGNwGV6Pbgv1"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
         "name": "ya no somos los mismos",
         "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 231951,
       "name": "amantes y amigos",
       "url": "https://open.spotify.com/track/2Ye3wsl794JOx6Miklej48"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
+        "name": "Cristina",
+        "url": "https://open.spotify.com/album/5lhQfarxkGkFATjitVSHC6"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 202040,
+      "name": "Cristina",
+      "url": "https://open.spotify.com/track/1Kjer1JoWuJGNwGV6Pbgv1"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
+        "name": "ya no somos los mismos",
+        "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 224337,
+      "name": "c\u00f3mo acaba",
+      "url": "https://open.spotify.com/track/4PbKNrqL6I3jzUrwWgzinP"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
         "name": "Colecci\u00f3n Definitiva",
         "url": "https://open.spotify.com/album/0nEL8RK9TM7RD6oTzv27Zf"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 194836,
       "name": "Te Olvidar\u00e9",
       "url": "https://open.spotify.com/track/3mCsFR4vkkg6az76rXMZu6"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
-        "name": "ya no somos los mismos",
-        "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 224337,
-      "name": "c\u00f3mo acaba",
-      "url": "https://open.spotify.com/track/4PbKNrqL6I3jzUrwWgzinP"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "Adi\u00f3s",
-        "url": "https://open.spotify.com/album/4Ir9tMgz5BSmUYljvn6pR3"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 182413,
-      "name": "Adi\u00f3s",
-      "url": "https://open.spotify.com/track/7JlkxvPt4HQSzr4XT5Plsl"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
         "name": "CU4TRO",
         "url": "https://open.spotify.com/album/7tYKnQqP7OCQC8iV5hyCq1"
       },
@@ -1467,22 +1451,6 @@
       "duration_ms": 187533,
       "name": "Fue Lo Mejor",
       "url": "https://open.spotify.com/track/5EMc0D7ColnFc9t21jF6PD"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
-        "name": "V\u00e9rtigo",
-        "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 209221,
-      "name": "Hablemos de amor",
-      "url": "https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -1515,6 +1483,38 @@
       "duration_ms": 202867,
       "name": "Adi\u00f3s Amor - Recorded at Panoram Studios, Mexico",
       "url": "https://open.spotify.com/track/00yK9fIjWQfF5g70TK9vdj"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
+        "name": "Adi\u00f3s",
+        "url": "https://open.spotify.com/album/4Ir9tMgz5BSmUYljvn6pR3"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 182413,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/7JlkxvPt4HQSzr4XT5Plsl"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
+        "name": "V\u00e9rtigo",
+        "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 209221,
+      "name": "Hablemos de amor",
+      "url": "https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "Me vas a ver",
-        "url": "https://open.spotify.com/album/2fQQrxHLh19ZQGFLOGBc2X"
-      },
-      "artists": [
-        {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
-        }
-      ],
-      "duration_ms": 135739,
-      "name": "Me vas a ver",
-      "url": "https://open.spotify.com/track/5BhSZWrUa5xkZ2K7Ze5fVT"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/05ZaKm4eYlGXsesyzD1fZK"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 224013,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/6WSAPEkvEfcEUgSTAo1D3S"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
+        "name": "Me vas a ver",
+        "url": "https://open.spotify.com/album/2fQQrxHLh19ZQGFLOGBc2X"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        }
+      ],
+      "duration_ms": 135739,
+      "name": "Me vas a ver",
+      "url": "https://open.spotify.com/track/5BhSZWrUa5xkZ2K7Ze5fVT"
     },
     {
       "added_at": "2024-02-16 05:01:00",

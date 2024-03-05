@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best in modern punk rock music\. Cover: Lambrini Girls
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,204 likes - 80 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,162 likes - 80 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,20 +32,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 22 | [Honda Civic](https://open.spotify.com/track/0JHjsGwxzK7xzpceRcoMbB) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Honda Civic](https://open.spotify.com/album/0VDkmKaedGsW1Eots7DEJM) | 2:50 |
 | 23 | [worlds greatest emoter](https://open.spotify.com/track/1eUnBxdddaPlWDVqVjC8bO) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [The Twits](https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0) | 2:54 |
 | 24 | [USA](https://open.spotify.com/track/0AihTbYalIjezZGELo93Wd) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [USA](https://open.spotify.com/album/27CZrOIvlYB9w1a9ZVyMQG) | 1:38 |
-| 25 | [FTS \(KYS\)](https://open.spotify.com/track/4tPMDn5syMqjI7vhWhoqLR) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [LIVING PROOF](https://open.spotify.com/album/035ul2Le143j2WBozMShrW) | 2:19 |
-| 26 | [Up and Comer](https://open.spotify.com/track/469d5BNae99knRggeaqA0n) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:46 |
+| 25 | [Up and Comer](https://open.spotify.com/track/469d5BNae99knRggeaqA0n) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:46 |
+| 26 | [FTS \(KYS\)](https://open.spotify.com/track/4tPMDn5syMqjI7vhWhoqLR) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [LIVING PROOF](https://open.spotify.com/album/035ul2Le143j2WBozMShrW) | 2:19 |
 | 27 | [Ready](https://open.spotify.com/track/0ApetCfTrTByDIMGZWJW48) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Ready](https://open.spotify.com/album/2Ov3hZe30CUzA8N4KkL76i) | 1:47 |
 | 28 | [You're My Medicine](https://open.spotify.com/track/1gXk7JzeRTPJn9ugLErbNb) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [You're My Medicine](https://open.spotify.com/album/3DuCbWlWRyCwqctRcICOiZ) | 3:12 |
 | 29 | [UK GRIM](https://open.spotify.com/track/60wO5lvhLRTJnPfV3r3rMR) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [UK GRIM](https://open.spotify.com/album/5CsLGo6H7h3de8VoSCiaD0) | 3:18 |
 | 30 | [Facedown](https://open.spotify.com/track/6Wp3jfr652P18XUIhLiNLA) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Baku's Revenge \(Deluxe Edition\)](https://open.spotify.com/album/6ZA9jvu4Jwwqh5EmEUhBfv) | 2:31 |
 | 31 | [Dream Big](https://open.spotify.com/track/0xvXVHHSdl0EjXFobmL6Ip) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Dream Big](https://open.spotify.com/album/2weh9z7FGE4gchkThSgK8c) | 3:05 |
 | 32 | [Boys in the Band](https://open.spotify.com/track/3BtMOmGUe3VEFz4uXGzqlT) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [You're Welcome](https://open.spotify.com/album/0mmHl5Z8DhJvbtQVQ3Irc9) | 2:35 |
-| 33 | [Cry To Heaven](https://open.spotify.com/track/1iNKQ8LIG4OVFK3o9vmmUY) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Sanguivore](https://open.spotify.com/album/1tpzmjEeH5oO5Ninfxqer2) | 4:27 |
-| 34 | [feel something \(feat\. Izzy Spears\)](https://open.spotify.com/track/4br7MnQcFs0b22YBvDAVZC) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q), [Izzy Spears](https://open.spotify.com/artist/1CtOGEEFiGo6e2s6ySsY9P) | [feel something \(feat\. Izzy Spears\)](https://open.spotify.com/album/44bpmgQrpyXxTCR8ZWtRcH) | 2:13 |
-| 35 | [New York Transit Queen](https://open.spotify.com/track/6CjJtGi2x7xiBghJ4E8YIN) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [New York Transit Queen](https://open.spotify.com/album/3iP85a7yaqMQxtSs4bBvZm) | 1:49 |
-| 36 | [Resolution/Revolution](https://open.spotify.com/track/4Eu55UEC15GIYXr2CvISI5) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Resolution/Revolution](https://open.spotify.com/album/0vevdASAFEvU6TwqXFdZ9m) | 3:22 |
-| 37 | [How To Live With Yourself](https://open.spotify.com/track/2MfVLc5DOoOYxPhlvd7afG) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [How To Live With Yourself / Smoke Screen](https://open.spotify.com/album/2IvgPVP1I1BDZwsWe8EaZU) | 2:45 |
-| 38 | [Antidote](https://open.spotify.com/track/207bcqHODbUfxAsyhi1fkR) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Antidote](https://open.spotify.com/album/5BtsIlGeClmz7o8B4aq6MK) | 2:45 |
+| 33 | [Antidote](https://open.spotify.com/track/207bcqHODbUfxAsyhi1fkR) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Antidote](https://open.spotify.com/album/5BtsIlGeClmz7o8B4aq6MK) | 2:45 |
+| 34 | [Cry To Heaven](https://open.spotify.com/track/1iNKQ8LIG4OVFK3o9vmmUY) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Sanguivore](https://open.spotify.com/album/1tpzmjEeH5oO5Ninfxqer2) | 4:27 |
+| 35 | [feel something \(feat\. Izzy Spears\)](https://open.spotify.com/track/4br7MnQcFs0b22YBvDAVZC) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q), [Izzy Spears](https://open.spotify.com/artist/1CtOGEEFiGo6e2s6ySsY9P) | [feel something \(feat\. Izzy Spears\)](https://open.spotify.com/album/44bpmgQrpyXxTCR8ZWtRcH) | 2:13 |
+| 36 | [New York Transit Queen](https://open.spotify.com/track/6CjJtGi2x7xiBghJ4E8YIN) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [New York Transit Queen](https://open.spotify.com/album/3iP85a7yaqMQxtSs4bBvZm) | 1:49 |
+| 37 | [Resolution/Revolution](https://open.spotify.com/track/4Eu55UEC15GIYXr2CvISI5) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Resolution/Revolution](https://open.spotify.com/album/0vevdASAFEvU6TwqXFdZ9m) | 3:22 |
+| 38 | [How To Live With Yourself](https://open.spotify.com/track/2MfVLc5DOoOYxPhlvd7afG) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [How To Live With Yourself / Smoke Screen](https://open.spotify.com/album/2IvgPVP1I1BDZwsWe8EaZU) | 2:45 |
 | 39 | [All The Problems](https://open.spotify.com/track/0yMBgZk0AkUKBqx4noEW19) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [All The Problems](https://open.spotify.com/album/5tApkeDzogxfZB7DOoukd2) | 2:56 |
 | 40 | [3 Days Sober](https://open.spotify.com/track/2TAugpQe6ZDChiYNEUzQcA) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [3 Days Sober](https://open.spotify.com/album/1TkrPcGZLCyzMcjIpiCUop) | 2:57 |
 | 41 | [Cuts Like A Knife](https://open.spotify.com/track/3pUqK7qA2p51M1of9KiIrp) | [The Chisel](https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx) | [What A Fucking Nightmare](https://open.spotify.com/album/7zLyYaOIilCtSBIrexqQ55) | 3:36 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 48 | [Claw](https://open.spotify.com/track/3kQol8CHBOFzGGd9dzW8Ee) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Claw](https://open.spotify.com/album/6YZCABW3FLh1IiHc5ESNVQ) | 3:15 |
 | 49 | [Kids Wanna Dance](https://open.spotify.com/track/3elBHbeIPKuWTuflsA8tFw) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [Kids Wanna Dance](https://open.spotify.com/album/4yh3NxpgLVxDac62H6sGDS) | 3:24 |
 | 50 | [Make Way](https://open.spotify.com/track/48Yot7kQ20olfnkT3TZKqv) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ) | [Formal Growth In The Desert](https://open.spotify.com/album/4zvDpKZOVNq4m6OfsM6hbB) | 2:57 |
-| 51 | [DBSAC](https://open.spotify.com/track/7GqLhyaR3Cn4w61QOP2kRX) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [DBSAC](https://open.spotify.com/album/6JVhdb3XjSmppHRDNagN1y) | 2:27 |
-| 52 | [It Ain't Enough](https://open.spotify.com/track/2hMbqPnyTbBANdiJ8s4pXI) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Cave World \(Deluxe\)](https://open.spotify.com/album/4ArZgbWxYS8C4O1jdTrBZ8) | 4:43 |
+| 51 | [It Ain't Enough](https://open.spotify.com/track/2hMbqPnyTbBANdiJ8s4pXI) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Cave World \(Deluxe\)](https://open.spotify.com/album/4ArZgbWxYS8C4O1jdTrBZ8) | 4:43 |
+| 52 | [DBSAC](https://open.spotify.com/track/7GqLhyaR3Cn4w61QOP2kRX) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [DBSAC](https://open.spotify.com/album/6JVhdb3XjSmppHRDNagN1y) | 2:27 |
 | 53 | [Tequila](https://open.spotify.com/track/1PzliOzk22FS6GOOLQF9Sy) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Pah!](https://open.spotify.com/album/04E7cqmIEyxjJRpWrTPS1R) | 1:45 |
 | 54 | [Phone Machine](https://open.spotify.com/track/5zTi9uSGOjdjN5N9bB56tI) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Phone Machine](https://open.spotify.com/album/7gP0mw9vv2bouxi3a5pgI5) | 2:37 |
 | 55 | [Roll With It](https://open.spotify.com/track/3xHgszDlff5N2EOZWWWcAy) | [Cold Years](https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp) | [Roll With It](https://open.spotify.com/album/4CpQRht0zS8BLLNk78dr0W) | 3:35 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 76 | [Unlike Me](https://open.spotify.com/track/20u6KgvQdfV3gnQDJ8ilMw) | [Calling All Captains](https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG) | [Unlike Me](https://open.spotify.com/album/1LALYYvk8uXVpWZiDMz1kT) | 3:08 |
 | 77 | [Sink Or Swim](https://open.spotify.com/track/00FSOP3RZcF20UK4t6wKQt) | [SNAYX](https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0) | [Sink Or Swim](https://open.spotify.com/album/3aTuERruHynGl1FD2f5psx) | 3:12 |
 | 78 | [Those Days](https://open.spotify.com/track/4L7f6oFx9U2UmqRgQRPgJL) | [The Chisel](https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx) | [Those Days](https://open.spotify.com/album/78hW2ZaZlq3XYQXYcUvaJN) | 2:26 |
-| 79 | [my little tony](https://open.spotify.com/track/6YCCcnypkr23mpPrGiztPo) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [my little tony](https://open.spotify.com/album/0KFnuSRyar4w08X7ZJYOGX) | 2:59 |
-| 80 | [Stop Living & Don't Dream](https://open.spotify.com/track/70xKZgV2e8oA6ww1CFb0f6) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [The Prius Diaries: A Hybrid Story](https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU) | 2:22 |
+| 79 | [Stop Living & Don't Dream](https://open.spotify.com/track/70xKZgV2e8oA6ww1CFb0f6) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [The Prius Diaries: A Hybrid Story](https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU) | 2:22 |
+| 80 | [my little tony](https://open.spotify.com/track/6YCCcnypkr23mpPrGiztPo) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [my little tony](https://open.spotify.com/album/0KFnuSRyar4w08X7ZJYOGX) | 2:59 |
 
-Snapshot ID: `MCwwMTI5MGFkODhmZjUxMjFjMmY0MGMzNzY4MDM0MWJhZDUzYjhkODVm`
+Snapshot ID: `MCxhM2QxZmFhZTk1ZmNmMGNiOTkwNDNlMWRjMjhlNTk5ODcxNDhiY2Y2`

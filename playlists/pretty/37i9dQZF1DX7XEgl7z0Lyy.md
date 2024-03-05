@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 
 > music from the underworld
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,825 likes - 93 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,363 likes - 93 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 | 92 | [corpse](https://open.spotify.com/track/0V6nYXxQCghLMQYtxLu5al) | [kyszenn](https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY) | [corpse](https://open.spotify.com/album/6vpoUI1PgvmE4zDIiUfg8L) | 1:52 |
 | 93 | [Cycle mix \(crea x creon\)](https://open.spotify.com/track/0Be7vipfSZvIaV8fuF68yc) | [Nuvfr](https://open.spotify.com/artist/2fWukyNksCO4foi0KYnRJy) | [Cycle mix \(crea x creon\)](https://open.spotify.com/album/5SdCyzEI6C6oCazIClXQTo) | 3:39 |
 
-Snapshot ID: `MCw4MjcwNDg1NzM2NGIwMjlmYjVkNTkyNjI1MzhkMzk2MmZiNzFhZjQz`
+Snapshot ID: `MCwwYWRiMmY4ZTNjNWM0MGY1NzRiZDc3MGYyMjY1OGM2YTczMGFjNjk4`

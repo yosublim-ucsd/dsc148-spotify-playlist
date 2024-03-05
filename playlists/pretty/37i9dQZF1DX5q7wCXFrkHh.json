@@ -1,12 +1,12 @@
 {
   "description": "The classic piano recordings in Jazz. Cover: Oscar Peterson",
-  "num_followers": 89363,
+  "num_followers": 89451,
   "original_name": "Jazz Piano Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2FjNDE0MDgzYmZhZmQ3YWIxZTJhNGQwMTM5NzJmYTNhYjkxZTdl",
+  "snapshot_id": "MCw2YTU3ZjBmZmJlOGMwNWNjYWI0ZGNlNjg4NjJjMTk3MTQ3Yjg4Y2Iz",
   "tracks": [
     {
       "added_at": "2024-02-21 15:20:56",
@@ -115,22 +115,6 @@
     {
       "added_at": "2024-02-21 15:20:56",
       "album": {
-        "name": "Takin' Off (Expanded Edition)",
-        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 429266,
-      "name": "Watermelon Man - Remastered",
-      "url": "https://open.spotify.com/track/38xcUjiTP1ivfb7ObwjyGA"
-    },
-    {
-      "added_at": "2024-02-21 15:20:56",
-      "album": {
         "name": "A Jazz Portrait Of Frank Sinatra",
         "url": "https://open.spotify.com/album/5JXjrJw1ziAWR0AczH5SfM"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 202133,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/7pCcxxrnJt55nwbhpaTQDX"
+    },
+    {
+      "added_at": "2024-02-21 15:20:56",
+      "album": {
+        "name": "Takin' Off (Expanded Edition)",
+        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 429266,
+      "name": "Watermelon Man - Remastered",
+      "url": "https://open.spotify.com/track/38xcUjiTP1ivfb7ObwjyGA"
     },
     {
       "added_at": "2024-02-21 15:20:56",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-02-21 15:20:56",
       "album": {
-        "name": "Plays Misty",
-        "url": "https://open.spotify.com/album/5sJxY1pjo8qSUG5pgiMcI9"
-      },
-      "artists": [
-        {
-          "name": "Erroll Garner",
-          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/6oanIhkNbxXnX19RTtkpEL"
-    },
-    {
-      "added_at": "2024-02-21 15:20:56",
-      "album": {
         "name": "Time Out",
         "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 282600,
       "name": "Take The Coltrane",
       "url": "https://open.spotify.com/track/6aNnVdpAQu8R0qGq5NMXyZ"
+    },
+    {
+      "added_at": "2024-02-21 15:20:56",
+      "album": {
+        "name": "Plays Misty",
+        "url": "https://open.spotify.com/album/5sJxY1pjo8qSUG5pgiMcI9"
+      },
+      "artists": [
+        {
+          "name": "Erroll Garner",
+          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/6oanIhkNbxXnX19RTtkpEL"
     },
     {
       "added_at": "2024-02-21 15:20:56",
@@ -423,58 +423,18 @@
     {
       "added_at": "2024-02-21 15:20:56",
       "album": {
-        "name": "The K\u00f6ln Concert",
-        "url": "https://open.spotify.com/album/0I8vpSE1bSmysN2PhmHoQg"
+        "name": "The Ellington Suites",
+        "url": "https://open.spotify.com/album/2xjUTAmc4gI76Js8T6Aj0s"
       },
       "artists": [
         {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
         }
       ],
-      "duration_ms": 894733,
-      "name": "K\u00f6ln, January 24, 1975, Pt. II A - Live",
-      "url": "https://open.spotify.com/track/3hrt1fLgEZIZPONUbcDY0c"
-    },
-    {
-      "added_at": "2024-02-21 15:20:56",
-      "album": {
-        "name": "This Here Is Bobby Timmons",
-        "url": "https://open.spotify.com/album/2kWl3HOLorETEmR8GBWrHX"
-      },
-      "artists": [
-        {
-          "name": "Bobby Timmons",
-          "url": "https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC"
-        }
-      ],
-      "duration_ms": 306600,
-      "name": "Moanin'",
-      "url": "https://open.spotify.com/track/1qLlkVWv58M8mcoRZPHD3I"
-    },
-    {
-      "added_at": "2024-02-21 15:20:56",
-      "album": {
-        "name": "Master Trio",
-        "url": "https://open.spotify.com/album/0O6FZJtO0RcQEDu3t55vF4"
-      },
-      "artists": [
-        {
-          "name": "Tommy Flanagan",
-          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
-        },
-        {
-          "name": "Ron Carter",
-          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
-        },
-        {
-          "name": "Tony Williams",
-          "url": "https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe"
-        }
-      ],
-      "duration_ms": 349600,
-      "name": "Angel Eyes - Studio",
-      "url": "https://open.spotify.com/track/4d3XHYFFuYYzxWr2cJ6yQl"
+      "duration_ms": 244933,
+      "name": "The Single Petal Of A Rose - The Queen's Suite",
+      "url": "https://open.spotify.com/track/1PoaSCeoBUCPg25k7XTvNN"
     },
     {
       "added_at": "2024-02-21 15:20:56",
@@ -511,18 +471,34 @@
     {
       "added_at": "2024-02-21 15:20:56",
       "album": {
-        "name": "The Ellington Suites",
-        "url": "https://open.spotify.com/album/2xjUTAmc4gI76Js8T6Aj0s"
+        "name": "The K\u00f6ln Concert",
+        "url": "https://open.spotify.com/album/0I8vpSE1bSmysN2PhmHoQg"
       },
       "artists": [
         {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
         }
       ],
-      "duration_ms": 244933,
-      "name": "The Single Petal Of A Rose - The Queen's Suite",
-      "url": "https://open.spotify.com/track/1PoaSCeoBUCPg25k7XTvNN"
+      "duration_ms": 894733,
+      "name": "K\u00f6ln, January 24, 1975, Pt. II A - Live",
+      "url": "https://open.spotify.com/track/3hrt1fLgEZIZPONUbcDY0c"
+    },
+    {
+      "added_at": "2024-02-21 15:20:56",
+      "album": {
+        "name": "This Here Is Bobby Timmons",
+        "url": "https://open.spotify.com/album/2kWl3HOLorETEmR8GBWrHX"
+      },
+      "artists": [
+        {
+          "name": "Bobby Timmons",
+          "url": "https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC"
+        }
+      ],
+      "duration_ms": 306600,
+      "name": "Moanin'",
+      "url": "https://open.spotify.com/track/1qLlkVWv58M8mcoRZPHD3I"
     },
     {
       "added_at": "2024-02-21 15:20:56",
@@ -539,6 +515,30 @@
       "duration_ms": 232506,
       "name": "Volga Boatman",
       "url": "https://open.spotify.com/track/4qnvL2jtPBFzQ3W3u8JphU"
+    },
+    {
+      "added_at": "2024-02-21 15:20:56",
+      "album": {
+        "name": "Master Trio",
+        "url": "https://open.spotify.com/album/0O6FZJtO0RcQEDu3t55vF4"
+      },
+      "artists": [
+        {
+          "name": "Tommy Flanagan",
+          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
+        },
+        {
+          "name": "Ron Carter",
+          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
+        },
+        {
+          "name": "Tony Williams",
+          "url": "https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe"
+        }
+      ],
+      "duration_ms": 349600,
+      "name": "Angel Eyes - Studio",
+      "url": "https://open.spotify.com/track/4d3XHYFFuYYzxWr2cJ6yQl"
     },
     {
       "added_at": "2024-02-21 15:20:56",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-02-21 15:20:56",
       "album": {
-        "name": "Night Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 340333,
-      "name": "Bag's Groove",
-      "url": "https://open.spotify.com/track/0ZK55vvr1yrm6HXMoUhugy"
-    },
-    {
-      "added_at": "2024-02-21 15:20:56",
-      "album": {
         "name": "Everybody Digs Bill Evans",
         "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
       },
@@ -719,6 +703,22 @@
     {
       "added_at": "2024-02-21 15:20:56",
       "album": {
+        "name": "Night Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 340333,
+      "name": "Bag's Groove",
+      "url": "https://open.spotify.com/track/0ZK55vvr1yrm6HXMoUhugy"
+    },
+    {
+      "added_at": "2024-02-21 15:20:56",
+      "album": {
         "name": "Someday My Prince Will Come",
         "url": "https://open.spotify.com/album/6BhGuQjC5OwiqLEaMIWFFA"
       },
@@ -751,18 +751,18 @@
     {
       "added_at": "2024-02-21 15:20:56",
       "album": {
-        "name": "Oscar Peterson: Hits & Rarities",
-        "url": "https://open.spotify.com/album/1STwUIMVbwDRey6aEYvXec"
+        "name": "You Must Believe In Spring (Remastered Version)",
+        "url": "https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI"
       },
       "artists": [
         {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 162717,
-      "name": "Days Of Wine And Roses",
-      "url": "https://open.spotify.com/track/4gsNHQt1OiVlGHDarFocYP"
+      "duration_ms": 273706,
+      "name": "Sometime Ago - Remastered",
+      "url": "https://open.spotify.com/track/7fmhH8sQPLwiGPMOkFr7eU"
     },
     {
       "added_at": "2024-02-21 15:20:56",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-02-21 15:20:56",
       "album": {
-        "name": "You Must Believe In Spring (Remastered Version)",
-        "url": "https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 273706,
-      "name": "Sometime Ago - Remastered",
-      "url": "https://open.spotify.com/track/7fmhH8sQPLwiGPMOkFr7eU"
-    },
-    {
-      "added_at": "2024-02-21 15:20:56",
-      "album": {
         "name": "Explorations [Original Jazz Classics Remasters]",
         "url": "https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw"
       },
@@ -827,22 +811,6 @@
       "duration_ms": 213720,
       "name": "How Deep Is The Ocean",
       "url": "https://open.spotify.com/track/3Cx9inYYVQw4VEUrwKgPuX"
-    },
-    {
-      "added_at": "2024-02-21 15:20:56",
-      "album": {
-        "name": "Kelly Blue (Keepnews Collection)",
-        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
-      },
-      "artists": [
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        }
-      ],
-      "duration_ms": 284400,
-      "name": "On Green Dolphin Street",
-      "url": "https://open.spotify.com/track/6sq2n7GBZHX3Z7MtdwYrlI"
     },
     {
       "added_at": "2024-02-21 15:20:56",
@@ -863,6 +831,22 @@
     {
       "added_at": "2024-02-21 15:20:56",
       "album": {
+        "name": "Kelly Blue (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
+      },
+      "artists": [
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        }
+      ],
+      "duration_ms": 284400,
+      "name": "On Green Dolphin Street",
+      "url": "https://open.spotify.com/track/6sq2n7GBZHX3Z7MtdwYrlI"
+    },
+    {
+      "added_at": "2024-02-21 15:20:56",
+      "album": {
         "name": "Monk's Dream",
         "url": "https://open.spotify.com/album/5VTlqV8lZH3YspQ1cDcjrL"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 268400,
       "name": "Body and Soul",
       "url": "https://open.spotify.com/track/7IAFc5iQti2tzob7Uo7N1Y"
+    },
+    {
+      "added_at": "2024-02-21 15:20:56",
+      "album": {
+        "name": "Oscar Peterson: Hits & Rarities",
+        "url": "https://open.spotify.com/album/1STwUIMVbwDRey6aEYvXec"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 162717,
+      "name": "Days Of Wine And Roses",
+      "url": "https://open.spotify.com/track/4gsNHQt1OiVlGHDarFocYP"
     },
     {
       "added_at": "2024-02-21 15:20:56",
@@ -907,6 +907,22 @@
       "duration_ms": 319066,
       "name": "Armando's Rhumba",
       "url": "https://open.spotify.com/track/4wpZadyjV07oPn5RyHqkRl"
+    },
+    {
+      "added_at": "2024-02-21 15:20:56",
+      "album": {
+        "name": "Explorations",
+        "url": "https://open.spotify.com/album/5MuOxoJbvmGGIQxo6Pudu9"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+        }
+      ],
+      "duration_ms": 205840,
+      "name": "Haunted Heart",
+      "url": "https://open.spotify.com/track/7d4JNWqXjsa4iNv9v9Nf8H"
     },
     {
       "added_at": "2024-02-21 15:20:56",
@@ -975,22 +991,6 @@
     {
       "added_at": "2024-02-21 15:20:56",
       "album": {
-        "name": "Explorations",
-        "url": "https://open.spotify.com/album/5MuOxoJbvmGGIQxo6Pudu9"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
-        }
-      ],
-      "duration_ms": 205840,
-      "name": "Haunted Heart",
-      "url": "https://open.spotify.com/track/7d4JNWqXjsa4iNv9v9Nf8H"
-    },
-    {
-      "added_at": "2024-02-21 15:20:56",
-      "album": {
         "name": "Jazz Impressions Of New York",
         "url": "https://open.spotify.com/album/595TGZHxJLd3Zwu1Rlz5RH"
       },
@@ -1023,30 +1023,6 @@
     {
       "added_at": "2024-02-21 15:20:56",
       "album": {
-        "name": "Lemuria-Seascape (Remastered)",
-        "url": "https://open.spotify.com/album/5VPAg2cD1q7aVpdUYYuYhx"
-      },
-      "artists": [
-        {
-          "name": "Kenny Barron",
-          "url": "https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3"
-        },
-        {
-          "name": "Ray Drummond",
-          "url": "https://open.spotify.com/artist/06zGDdseDUlrQgqogXA3mP"
-        },
-        {
-          "name": "Ben Riley",
-          "url": "https://open.spotify.com/artist/5kJE3cE2n7nsTy9LP7KPnj"
-        }
-      ],
-      "duration_ms": 344044,
-      "name": "Fungii Mama - Remastered",
-      "url": "https://open.spotify.com/track/55hl0N5Fb8SaQwSAAku2Wy"
-    },
-    {
-      "added_at": "2024-02-21 15:20:56",
-      "album": {
         "name": "The Best Of Art Tatum",
         "url": "https://open.spotify.com/album/6afOGm8oEosuPK4GweTwms"
       },
@@ -1071,6 +1047,46 @@
       "duration_ms": 367600,
       "name": "Night And Day",
       "url": "https://open.spotify.com/track/4kutk0onBpr8xcwfXItJDJ"
+    },
+    {
+      "added_at": "2024-02-21 15:20:56",
+      "album": {
+        "name": "Moon Beams",
+        "url": "https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+        }
+      ],
+      "duration_ms": 343826,
+      "name": "Re: Person I Knew",
+      "url": "https://open.spotify.com/track/3V33ldRN2gRQyzojTwjlWP"
+    },
+    {
+      "added_at": "2024-02-21 15:20:56",
+      "album": {
+        "name": "Lemuria-Seascape (Remastered)",
+        "url": "https://open.spotify.com/album/5VPAg2cD1q7aVpdUYYuYhx"
+      },
+      "artists": [
+        {
+          "name": "Kenny Barron",
+          "url": "https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3"
+        },
+        {
+          "name": "Ray Drummond",
+          "url": "https://open.spotify.com/artist/06zGDdseDUlrQgqogXA3mP"
+        },
+        {
+          "name": "Ben Riley",
+          "url": "https://open.spotify.com/artist/5kJE3cE2n7nsTy9LP7KPnj"
+        }
+      ],
+      "duration_ms": 344044,
+      "name": "Fungii Mama - Remastered",
+      "url": "https://open.spotify.com/track/55hl0N5Fb8SaQwSAAku2Wy"
     },
     {
       "added_at": "2024-02-21 15:20:56",
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2024-02-21 15:20:56",
       "album": {
-        "name": "Moon Beams",
-        "url": "https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
-        }
-      ],
-      "duration_ms": 343826,
-      "name": "Re: Person I Knew",
-      "url": "https://open.spotify.com/track/3V33ldRN2gRQyzojTwjlWP"
-    },
-    {
-      "added_at": "2024-02-21 15:20:56",
-      "album": {
         "name": "Bye Bye Blackbird",
         "url": "https://open.spotify.com/album/16djDDgFboJJaZqw59XTcI"
       },
@@ -1167,22 +1167,6 @@
       "duration_ms": 671866,
       "name": "Bye Bye Blackbird",
       "url": "https://open.spotify.com/track/1uO2eaMymZQU82tV5eSXZZ"
-    },
-    {
-      "added_at": "2024-02-21 15:20:56",
-      "album": {
-        "name": "The Art Tatum Solo Masterpieces, Vol. 1 [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/6u03wnGbicx8NYZ38R1hOW"
-      },
-      "artists": [
-        {
-          "name": "Art Tatum",
-          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
-        }
-      ],
-      "duration_ms": 178120,
-      "name": "Moonglow",
-      "url": "https://open.spotify.com/track/4a7SbqcOes5LFRYYSUuh4f"
     },
     {
       "added_at": "2024-02-21 15:20:56",
@@ -1207,6 +1191,38 @@
       "duration_ms": 301773,
       "name": "I Can't Give You Anything But Love",
       "url": "https://open.spotify.com/track/04md2B5nmsojIkTSUWff2C"
+    },
+    {
+      "added_at": "2024-02-21 15:20:56",
+      "album": {
+        "name": "The Art Tatum Solo Masterpieces, Vol. 1 [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/6u03wnGbicx8NYZ38R1hOW"
+      },
+      "artists": [
+        {
+          "name": "Art Tatum",
+          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+        }
+      ],
+      "duration_ms": 178120,
+      "name": "Moonglow",
+      "url": "https://open.spotify.com/track/4a7SbqcOes5LFRYYSUuh4f"
+    },
+    {
+      "added_at": "2024-02-21 15:20:56",
+      "album": {
+        "name": "Waltz For Debby (Original Jazz Classics Remaster 2010)",
+        "url": "https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+        }
+      ],
+      "duration_ms": 392840,
+      "name": "Milestones",
+      "url": "https://open.spotify.com/track/1FSf2JmNY7qCq5GK8ZB67w"
     },
     {
       "added_at": "2024-02-21 15:20:56",
@@ -1243,38 +1259,6 @@
       "duration_ms": 447813,
       "name": "When I Fall in Love",
       "url": "https://open.spotify.com/track/0LtLxQA6lkxOgCE4iCIThe"
-    },
-    {
-      "added_at": "2024-02-21 15:20:56",
-      "album": {
-        "name": "Waltz For Debby (Original Jazz Classics Remaster 2010)",
-        "url": "https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
-        }
-      ],
-      "duration_ms": 392840,
-      "name": "Milestones",
-      "url": "https://open.spotify.com/track/1FSf2JmNY7qCq5GK8ZB67w"
-    },
-    {
-      "added_at": "2024-02-21 15:20:56",
-      "album": {
-        "name": "Piano Starts Here",
-        "url": "https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr"
-      },
-      "artists": [
-        {
-          "name": "Art Tatum",
-          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Sophisticated Lady",
-      "url": "https://open.spotify.com/track/0eCJ74qKvTcqA3oWzBlzPx"
     },
     {
       "added_at": "2024-02-21 15:20:56",
@@ -1339,6 +1323,22 @@
       "duration_ms": 363179,
       "name": "How High The Moon",
       "url": "https://open.spotify.com/track/6NaOd4T2RdzU92CBTcTPQn"
+    },
+    {
+      "added_at": "2024-02-21 15:20:56",
+      "album": {
+        "name": "Piano Starts Here",
+        "url": "https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr"
+      },
+      "artists": [
+        {
+          "name": "Art Tatum",
+          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Sophisticated Lady",
+      "url": "https://open.spotify.com/track/0eCJ74qKvTcqA3oWzBlzPx"
     },
     {
       "added_at": "2024-02-21 15:20:56",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-02-21 15:20:56",
       "album": {
-        "name": "Nightconcert",
-        "url": "https://open.spotify.com/album/784DdGI83hMQqhFsfjwf96"
-      },
-      "artists": [
-        {
-          "name": "Erroll Garner",
-          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
-        }
-      ],
-      "duration_ms": 333581,
-      "name": "No More Shadows",
-      "url": "https://open.spotify.com/track/1cSvJkzOWAyZZKQSWWdNo9"
-    },
-    {
-      "added_at": "2024-02-21 15:20:56",
-      "album": {
         "name": "The Art of the Trio, Vol. 1",
         "url": "https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 391426,
       "name": "I Didn't Know What Time It Was",
       "url": "https://open.spotify.com/track/7CYu93j5AsYDEhY7apdKvw"
+    },
+    {
+      "added_at": "2024-02-21 15:20:56",
+      "album": {
+        "name": "Nightconcert",
+        "url": "https://open.spotify.com/album/784DdGI83hMQqhFsfjwf96"
+      },
+      "artists": [
+        {
+          "name": "Erroll Garner",
+          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
+        }
+      ],
+      "duration_ms": 333581,
+      "name": "No More Shadows",
+      "url": "https://open.spotify.com/track/1cSvJkzOWAyZZKQSWWdNo9"
     },
     {
       "added_at": "2024-02-21 15:20:56",

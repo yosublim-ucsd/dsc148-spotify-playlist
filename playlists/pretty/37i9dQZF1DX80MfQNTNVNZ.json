@@ -1,12 +1,12 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul and R&B",
-  "num_followers": 175047,
+  "num_followers": 175152,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjg1NzRkMjQ3Y2FiZmMyZTY5Y2YzNjM3MjEzMzc5NWI3Mzg5MTA4",
+  "snapshot_id": "MCw1NjU5ZDhjYjIxMjc5ZjExZTI1MDI1MDZkMTk1Y2NlN2NlYmZkYzI1",
   "tracks": [
     {
       "added_at": "2024-02-29 15:54:26",
@@ -639,22 +639,18 @@
     {
       "added_at": "2024-02-29 15:54:26",
       "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+        "name": "Sunsetter",
+        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
       },
       "artists": [
         {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
         }
       ],
-      "duration_ms": 185600,
-      "name": "Point and Kill",
-      "url": "https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP"
+      "duration_ms": 228853,
+      "name": "Take You Higher",
+      "url": "https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP"
     },
     {
       "added_at": "2024-02-29 15:54:26",
@@ -675,18 +671,22 @@
     {
       "added_at": "2024-02-29 15:54:26",
       "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
       "artists": [
         {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
         }
       ],
-      "duration_ms": 228853,
-      "name": "Take You Higher",
-      "url": "https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP"
+      "duration_ms": 185600,
+      "name": "Point and Kill",
+      "url": "https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP"
     },
     {
       "added_at": "2024-02-29 15:54:26",

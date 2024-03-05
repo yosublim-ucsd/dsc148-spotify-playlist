@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 
 > Get ready, to do, do rocksteady
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,255 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,339 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 | 33 | [Love Is a Treasure](https://open.spotify.com/track/7JLut7wHBQtkfOXNCX6wnd) | [Lizzy](https://open.spotify.com/artist/2ALKeoNm5gPzmKLsILFwvx) | [Barry Myers Presents Scratchy Sounds \(Ska, Dub, Roots & Reggae Nuggets\)](https://open.spotify.com/album/1LREwTyPObrP14E7KEKvKk) | 2:38 |
 | 34 | [To Sir with Love](https://open.spotify.com/track/0g2ommIQUwilxSkTNrEmMZ) | [Lynn Taitt](https://open.spotify.com/artist/2AOn8ToM1vaab3wtU74ldy), [The Jets](https://open.spotify.com/artist/3AHq6rutf72JF0ul8GB6G2) | [Rock Steady Greatest Hits](https://open.spotify.com/album/1wFh18B1EcUfc6CHFZ1cta) | 2:40 |
 | 35 | [Hold Them](https://open.spotify.com/track/5iyyttRc4xFRhKzAu02mtw) | [Roy Shirley](https://open.spotify.com/artist/20SfytGDGLIt4yklvZ38wk) | [Unearthed Gold of Rocksteady Vol\. 2](https://open.spotify.com/album/52WLwJ8y3rQypxuB8z0J5t) | 2:47 |
-| 36 | [Only a Smile](https://open.spotify.com/track/67WdcR9xldpJuH7BVLNlt5) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [Original Paragons At Treasure Isle](https://open.spotify.com/album/2LekDlww2q2hr2HuKJeww1) | 2:59 |
-| 37 | [Everybody Needs Love](https://open.spotify.com/track/5H0CQe9x3iuI4cTPwMfASQ) | [Slim Smith](https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41) | [Unearthed Gold of Rocksteady Vol\. 2](https://open.spotify.com/album/52WLwJ8y3rQypxuB8z0J5t) | 2:15 |
+| 36 | [Everybody Needs Love](https://open.spotify.com/track/5H0CQe9x3iuI4cTPwMfASQ) | [Slim Smith](https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41) | [Unearthed Gold of Rocksteady Vol\. 2](https://open.spotify.com/album/52WLwJ8y3rQypxuB8z0J5t) | 2:15 |
+| 37 | [Only a Smile](https://open.spotify.com/track/67WdcR9xldpJuH7BVLNlt5) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [Original Paragons At Treasure Isle](https://open.spotify.com/album/2LekDlww2q2hr2HuKJeww1) | 2:59 |
 | 38 | [Bye, Bye, Bye](https://open.spotify.com/track/4OH81njfQUHI0cUelNICwA) | [The Clarendonians](https://open.spotify.com/artist/4GJL3Iwg1JKo6VembsjOS5) | [A Day Will Come \(Reggae Fever Picks 1963\-72\)](https://open.spotify.com/album/6errP0q4AbDH2Qw8nOhrJ6) | 2:47 |
 | 39 | [Baba Boom Time](https://open.spotify.com/track/7aPjIs1vrygEAGgODAo6Ca) | [The Jamaicans](https://open.spotify.com/artist/1EBXhaDx1Mhu3iZ5oC3PJ5) | [Celebrating Jamaica 50: The History of Reggae](https://open.spotify.com/album/5EeBMrKxZEkVcr00cNgZM2) | 3:00 |
 | 40 | [That Wonderful Sound](https://open.spotify.com/track/46JFegy0KkJNXhZK4BPOrB) | [Dobby Dobson](https://open.spotify.com/artist/5xYXtdpxl2wwzMBSqvgpM0) | [The Vintage Series: Dobby Dobson](https://open.spotify.com/album/3D66zjhBWUvpoYGiBjZrm0) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 | 49 | [Never Found a Girl](https://open.spotify.com/track/7JeKEYyHe1D7IseeOrPSeH) | [Cornell Campbell](https://open.spotify.com/artist/1FOvLj8sNCGHjgueUOVvJi) | [Trojan Lovers Collection](https://open.spotify.com/album/0dqxC81crojSFb0MHjagaQ) | 3:53 |
 | 50 | [Lost Without You](https://open.spotify.com/track/6vGhyZvt0jbLb06wrFnB3K) | [Lloyd Charmers](https://open.spotify.com/artist/3mSM2ALYf2unI6Hk6NGBmD) | [Jamaican Rock Steady Party](https://open.spotify.com/album/3b5MkzDcKc935xC3JR1aVI) | 2:02 |
 
-Snapshot ID: `MCwzNThiNjI3ODU1YmZkM2NkMWY0NmFiZjM3YWFjMGFmZDJhZDNiYTQ1`
+Snapshot ID: `MCw4YjE0NjQwYjY3YTVlNzAyNGNkMWVhNzBiNGEzNjNhOTJmNDE1Zjll`

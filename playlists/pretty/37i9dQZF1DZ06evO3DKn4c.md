@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 
 > This is Black Alien\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,646 likes - 41 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,662 likes - 41 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 | 7 | [Real Gold](https://open.spotify.com/track/4qQm3DuFEVsqp2GWjkNFli) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Real Gold](https://open.spotify.com/album/5PRS6zL5id8VsFjesEsaw3) | 3:17 |
 | 8 | [Babylon By Gus](https://open.spotify.com/track/4kDzgYkIVT1JHFpKZOPxGW) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 4:16 |
 | 9 | [Aniversário de Sobriedade](https://open.spotify.com/track/786H6CRL3H5WNPnkqTfnNX) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Abaixo de Zero: Hello Hell](https://open.spotify.com/album/0d9km1VogLi6sN6S95ilyT) | 2:44 |
-| 10 | [Fica Até Umas Hora](https://open.spotify.com/track/7xga0gWCTSUpU7Uz5pldQS) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Fica Até Umas Hora](https://open.spotify.com/album/76mwd2KXWLCHumse2wW7Eq) | 3:48 |
-| 11 | [Meu Bem Querer \- JAH\-VAN](https://open.spotify.com/track/2FlIG6qvcKd73lqqedlgEX) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [BiD](https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm), [Fernando Nunes](https://open.spotify.com/artist/3JkbXt88UMxAQouuL7QwI9) | [JAH\-VAN](https://open.spotify.com/album/6jPDVtAx9fIrwS6KKTWYDO) | 4:44 |
+| 10 | [Meu Bem Querer \- JAH\-VAN](https://open.spotify.com/track/2FlIG6qvcKd73lqqedlgEX) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [BiD](https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm), [Fernando Nunes](https://open.spotify.com/artist/3JkbXt88UMxAQouuL7QwI9) | [JAH\-VAN](https://open.spotify.com/album/6jPDVtAx9fIrwS6KKTWYDO) | 4:44 |
+| 11 | [Fica Até Umas Hora](https://open.spotify.com/track/7xga0gWCTSUpU7Uz5pldQS) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Fica Até Umas Hora](https://open.spotify.com/album/76mwd2KXWLCHumse2wW7Eq) | 3:48 |
 | 12 | [Mister Niterói](https://open.spotify.com/track/6eQjwvQmfY4vBs4c9IKiuW) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 3:57 |
 | 13 | [Que Nem o Meu Cachorro](https://open.spotify.com/track/6EHOyqVSyd8JRmQniT721T) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Abaixo de Zero: Hello Hell](https://open.spotify.com/album/0d9km1VogLi6sN6S95ilyT) | 3:31 |
 | 14 | [Pique Peaky Blinders](https://open.spotify.com/track/3PbWQTnOxpbZCyGjZuWUhk) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Pique Peaky Blinders](https://open.spotify.com/album/5PYCa2wn42rxBgKKdg8HhD) | 3:05 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 | 40 | [Mic Masters](https://open.spotify.com/track/5mVvDreTJ956BQHYBQ0b3E) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Ogi](https://open.spotify.com/artist/5tQCsrqxW41tECpfMWbm4j) | [Bendito](https://open.spotify.com/album/7K34wocIiDx0k9ptLTwCaC) | 4:20 |
 | 41 | [U\-Informe \(Ao Vivo\)](https://open.spotify.com/track/7hEuT00TQjRqhalX1uIOav) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon by Gus Vol\. 1 \- O Ano do Macaco \(Ao Vivo\)](https://open.spotify.com/album/6N3dbZ1njWxuZSV3gQrVna) | 3:58 |
 
-Snapshot ID: `Mjg0OTExMzksMDAwMDAwMDA3Zjc3OWEzN2Q5YzE3OTE3NDhiZDkxNmE3ZDcyMjAyNQ==`
+Snapshot ID: `Mjg0OTI1NjksMDAwMDAwMDBlNWI4OGVjM2RmNzFjNGMwYmVlZGQyMmRiNjU1YjhlNQ==`

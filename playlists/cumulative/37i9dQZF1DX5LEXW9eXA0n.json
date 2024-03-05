@@ -12255,6 +12255,24 @@
     },
     {
       "album": {
+        "name": "My Truth",
+        "url": "https://open.spotify.com/album/4hWowddLPh8DwymAp0IdUU"
+      },
+      "artists": [
+        {
+          "name": "BYUL",
+          "url": "https://open.spotify.com/artist/2uoSZGvqrwdjVgn9fOUjQp"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231506,
+      "name": "My Truth",
+      "url": "https://open.spotify.com/track/3GMxvRvHhIM6jMvJE2vRMk"
+    },
+    {
+      "album": {
         "name": "Love Interference 2023 (Original Television Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/3o99FUu2LCEaRAQ7qOPZE7"
       },
@@ -13704,6 +13722,24 @@
       "duration_ms": 197040,
       "name": "Please don`t happy without me",
       "url": "https://open.spotify.com/track/4CDUbmbzqgBnVQqSbDzKNF"
+    },
+    {
+      "album": {
+        "name": "Please Forget Me",
+        "url": "https://open.spotify.com/album/4U5CaXlqvjccAJlP5vP5uT"
+      },
+      "artists": [
+        {
+          "name": "MAKTUB",
+          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271213,
+      "name": "Please Forget Me",
+      "url": "https://open.spotify.com/track/6wsPqzuErrbr6ZmnQiT8cG"
     },
     {
       "album": {

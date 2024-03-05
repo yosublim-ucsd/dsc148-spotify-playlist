@@ -1,12 +1,12 @@
 {
   "description": "The biggest hits from country artists around the globe. Cover: Riaan Benade\u0301",
-  "num_followers": 55737,
+  "num_followers": 55828,
   "original_name": "Country Worldwide",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzRlYTNiYTczNzZlYzNmNzRmYmZkMDUyYTBkYmZkMTRlMDUxY2Ji",
+  "snapshot_id": "MCwxMGIzNWVlYWE4NzhiMTk2ODg3MmJjOWI0NzVmZmYzMTM3OTQ0MjBj",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -291,18 +291,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Heading South",
-        "url": "https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP"
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 171692,
-      "name": "Heading South",
-      "url": "https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd"
+      "duration_ms": 213493,
+      "name": "You Should Probably Leave",
+      "url": "https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -323,18 +323,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
+        "name": "Coal",
+        "url": "https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
         }
       ],
-      "duration_ms": 213493,
-      "name": "You Should Probably Leave",
-      "url": "https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt"
+      "duration_ms": 194440,
+      "name": "Coal",
+      "url": "https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -371,18 +371,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Coal",
-        "url": "https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ"
+        "name": "Heading South",
+        "url": "https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP"
       },
       "artists": [
         {
-          "name": "Dylan Gossett",
-          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 194440,
-      "name": "Coal",
-      "url": "https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g"
+      "duration_ms": 171692,
+      "name": "Heading South",
+      "url": "https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -467,42 +467,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "The War And Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "duration_ms": 227466,
-      "name": "Hey Driver (feat. The War and Treaty)",
-      "url": "https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "First Taste of Gone",
-        "url": "https://open.spotify.com/album/3K8GylZf6YCpFCUVG6UCJg"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 172782,
-      "name": "First Taste of Gone",
-      "url": "https://open.spotify.com/track/1ynN7dkkujotC2rL31qX48"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Buy Dirt",
         "url": "https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO"
       },
@@ -523,6 +487,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "First Taste of Gone",
+        "url": "https://open.spotify.com/album/3K8GylZf6YCpFCUVG6UCJg"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 172782,
+      "name": "First Taste of Gone",
+      "url": "https://open.spotify.com/track/1ynN7dkkujotC2rL31qX48"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "This One's for You Too (Deluxe Edition)",
         "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 193200,
       "name": "Beautiful Crazy",
       "url": "https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 227466,
+      "name": "Hey Driver (feat. The War and Treaty)",
+      "url": "https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -559,18 +559,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+        "name": "Religiously. The Album.",
+        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 189053,
-      "name": "Tourniquet",
-      "url": "https://open.spotify.com/track/3EvZ03hGAFwGZ2Ebcu86YH"
+      "duration_ms": 207540,
+      "name": "Rock and A Hard Place",
+      "url": "https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -591,38 +591,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Religiously. The Album.",
-        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 207540,
-      "name": "Rock and A Hard Place",
-      "url": "https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "This One's for You",
-        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 240760,
-      "name": "When It Rains It Pours",
-      "url": "https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Rich Men North of Richmond",
         "url": "https://open.spotify.com/album/02X1cQOUcwYPxgFfqHeitI"
       },
@@ -635,6 +603,38 @@
       "duration_ms": 187244,
       "name": "Rich Men North of Richmond",
       "url": "https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 189053,
+      "name": "Tourniquet",
+      "url": "https://open.spotify.com/track/3EvZ03hGAFwGZ2Ebcu86YH"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Poets & Old Souls",
+        "url": "https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss"
+      },
+      "artists": [
+        {
+          "name": "Bryan Martin",
+          "url": "https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U"
+        }
+      ],
+      "duration_ms": 188482,
+      "name": "We Ride",
+      "url": "https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -675,18 +675,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Poets & Old Souls",
-        "url": "https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss"
+        "name": "This One's for You",
+        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
       },
       "artists": [
         {
-          "name": "Bryan Martin",
-          "url": "https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 188482,
-      "name": "We Ride",
-      "url": "https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO"
+      "duration_ms": 240760,
+      "name": "When It Rains It Pours",
+      "url": "https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Purgatory",
-        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 224946,
-      "name": "Feathered Indians",
-      "url": "https://open.spotify.com/track/2tgQaL85WoRfgEa4hFQgrE"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Religiously. The Album.",
         "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 232058,
       "name": "Fall In Love",
       "url": "https://open.spotify.com/track/0rCFRyEy4WXjRXNpO80Dzs"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Purgatory",
+        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 224946,
+      "name": "Feathered Indians",
+      "url": "https://open.spotify.com/track/2tgQaL85WoRfgEa4hFQgrE"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -967,18 +967,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Purgatory",
-        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
+        "name": "What You See Ain't Always What You Get (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
       },
       "artists": [
         {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 183533,
-      "name": "Lady May",
-      "url": "https://open.spotify.com/track/3t5OV1asJHmOlf23T08CLv"
+      "duration_ms": 232533,
+      "name": "Forever After All",
+      "url": "https://open.spotify.com/track/6IBcOGPsniK3Pso1wHIhew"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "What You See Ain't Always What You Get (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
+        "name": "Purgatory",
+        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
         }
       ],
-      "duration_ms": 232533,
-      "name": "Forever After All",
-      "url": "https://open.spotify.com/track/6IBcOGPsniK3Pso1wHIhew"
+      "duration_ms": 183533,
+      "name": "Lady May",
+      "url": "https://open.spotify.com/track/3t5OV1asJHmOlf23T08CLv"
     },
     {
       "added_at": "2024-02-16 05:00:00",

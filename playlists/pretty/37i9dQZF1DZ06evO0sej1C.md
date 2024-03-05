@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 
 > This is Yoss Bones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,123 likes - 51 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,140 likes - 51 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 50 | [Ámame](https://open.spotify.com/track/5908gatfcY7nK2xJt75zGx) | [La Inolvidable Banda Agua De La Llave](https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ámame](https://open.spotify.com/album/0U36RN0P9awTfozisaj49A) | 3:19 |
 | 51 | [Chip S \(Metal Version\)](https://open.spotify.com/track/1CgPXNuxT2ZPQkE073ckQa) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Ladrones](https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6) | [Chip S \(Metal Version\)](https://open.spotify.com/album/0eE73v8SPdXJyIVtwL5DG2) | 3:13 |
 
-Snapshot ID: `Mjg0OTExMzksMDAwMDAwMDA3OWM0MjU0MzllYjlhMWFjOTA0OGE5ZDFhNDhkMWZiZQ==`
+Snapshot ID: `Mjg0OTI1NjksMDAwMDAwMDA1M2ZlOTMzY2RmZGY3MWQxNzU0NTAwNmRlMjdkNDA4NQ==`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 94412,
+  "num_followers": 94457,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWRjOGQyMDc1YjMxZDdlYmI2MmNhYzU2MDdhM2EzYWQ3ODM2MTIy",
+  "snapshot_id": "MCwxMmY3YWM4YjBhNGVkMDE1NWIxY2M4NTE3NzIxOGE2ODFmMTU4ZTdh",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:55",
@@ -147,62 +147,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Coraz\u00f3n Abierto",
-        "url": "https://open.spotify.com/album/1RcCNA4HKQZ7i8jVglRlW0"
-      },
-      "artists": [
-        {
-          "name": "Manny Montes",
-          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
-        },
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 198008,
-      "name": "De Fiesta",
-      "url": "https://open.spotify.com/track/1rDfPvexeMOw83apb0f1S2"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Tercer Cielo",
-        "url": "https://open.spotify.com/album/23Zl6ea0vcawpR43mV6Ua0"
-      },
-      "artists": [
-        {
-          "name": "Tercer Cielo",
-          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
-        }
-      ],
-      "duration_ms": 219271,
-      "name": "Agua viva",
-      "url": "https://open.spotify.com/track/3wtOB6JSbO5clIrbSNjTCm"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Alex Campos y Sus Amigos (En Vivo)",
-        "url": "https://open.spotify.com/album/1XEQDxwovn8C0l6qb2NSnz"
-      },
-      "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        },
-        {
-          "name": "Barak",
-          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
-        }
-      ],
-      "duration_ms": 251013,
-      "name": "Si Estoy Contigo - En Vivo",
-      "url": "https://open.spotify.com/track/1ZAqiTFbsiv9OYSiDQsIv8"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Una Nueva Canci\u00f3n (feat. Kike Pav\u00f3n)",
         "url": "https://open.spotify.com/album/0ZuChxTZJfnV2rxfyweF8a"
       },
@@ -235,6 +179,62 @@
       "duration_ms": 207360,
       "name": "Voy a Amarte",
       "url": "https://open.spotify.com/track/5bbOzB0tnW6aNPjt3gvFGi"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Alex Campos y Sus Amigos (En Vivo)",
+        "url": "https://open.spotify.com/album/1XEQDxwovn8C0l6qb2NSnz"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        },
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
+        }
+      ],
+      "duration_ms": 251013,
+      "name": "Si Estoy Contigo - En Vivo",
+      "url": "https://open.spotify.com/track/1ZAqiTFbsiv9OYSiDQsIv8"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Coraz\u00f3n Abierto",
+        "url": "https://open.spotify.com/album/1RcCNA4HKQZ7i8jVglRlW0"
+      },
+      "artists": [
+        {
+          "name": "Manny Montes",
+          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
+        },
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 198008,
+      "name": "De Fiesta",
+      "url": "https://open.spotify.com/track/1rDfPvexeMOw83apb0f1S2"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Tercer Cielo",
+        "url": "https://open.spotify.com/album/23Zl6ea0vcawpR43mV6Ua0"
+      },
+      "artists": [
+        {
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+        }
+      ],
+      "duration_ms": 219271,
+      "name": "Agua viva",
+      "url": "https://open.spotify.com/track/3wtOB6JSbO5clIrbSNjTCm"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -315,6 +315,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Sin Ti",
+        "url": "https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 264800,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Enamorarme Mas",
         "url": "https://open.spotify.com/album/3wkaAjJkem9YQO9l7SGmQa"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 283317,
       "name": "TRAPCHATA",
       "url": "https://open.spotify.com/track/0sFvANVCB08GDLjjUx7NDm"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Sin Ti",
-        "url": "https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 264800,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -695,22 +695,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Diez Mil Razones",
-        "url": "https://open.spotify.com/album/1z18dSxKVxkeRZeK9Jp37H"
-      },
-      "artists": [
-        {
-          "name": "Zander",
-          "url": "https://open.spotify.com/artist/0gMR4IlYgNQHl7smugxuWN"
-        }
-      ],
-      "duration_ms": 180069,
-      "name": "Diez Mil Razones",
-      "url": "https://open.spotify.com/track/6ZTC7BGLtPgjz8pcRDG88b"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Tu Amor",
         "url": "https://open.spotify.com/album/1TbMgpLI7P6CCq1mqVff90"
       },
@@ -735,18 +719,18 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "This Is My Time",
-        "url": "https://open.spotify.com/album/2sX0kaEYZmGfkbvmFVFvwg"
+        "name": "Diez Mil Razones",
+        "url": "https://open.spotify.com/album/1z18dSxKVxkeRZeK9Jp37H"
       },
       "artists": [
         {
-          "name": "Mr. Don",
-          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
+          "name": "Zander",
+          "url": "https://open.spotify.com/artist/0gMR4IlYgNQHl7smugxuWN"
         }
       ],
-      "duration_ms": 228111,
-      "name": "La Misma Mentira",
-      "url": "https://open.spotify.com/track/27bMe7oK95bEzjG55IbB5K"
+      "duration_ms": 180069,
+      "name": "Diez Mil Razones",
+      "url": "https://open.spotify.com/track/6ZTC7BGLtPgjz8pcRDG88b"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -779,6 +763,22 @@
       "duration_ms": 349909,
       "name": "Hermoso Nombre",
       "url": "https://open.spotify.com/track/2xz5VHm0Wa0YKVlbIwtOU5"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "This Is My Time",
+        "url": "https://open.spotify.com/album/2sX0kaEYZmGfkbvmFVFvwg"
+      },
+      "artists": [
+        {
+          "name": "Mr. Don",
+          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
+        }
+      ],
+      "duration_ms": 228111,
+      "name": "La Misma Mentira",
+      "url": "https://open.spotify.com/track/27bMe7oK95bEzjG55IbB5K"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -851,6 +851,26 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0j2n0aqjlCAK2Ym6dt2TOr"
+      },
+      "artists": [
+        {
+          "name": "Mr. Don",
+          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
+        },
+        {
+          "name": "Niko La F\u00e1brica",
+          "url": "https://open.spotify.com/artist/77gpdl9ket58wQczszbrno"
+        }
+      ],
+      "duration_ms": 224783,
+      "name": "Yo Te Prometo",
+      "url": "https://open.spotify.com/track/3BmjG2rfCuZcgJ4szVLFHO"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Quinto Elemento",
         "url": "https://open.spotify.com/album/73QDJ8kDJT0SbWQJJab2Zf"
       },
@@ -863,22 +883,6 @@
       "duration_ms": 190611,
       "name": "Va Cae",
       "url": "https://open.spotify.com/track/6VnM8awfWWcXF37qbU2DHF"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "No Vaya a Ser",
-        "url": "https://open.spotify.com/album/4LUCoUs4hhd16D350FiZ6G"
-      },
-      "artists": [
-        {
-          "name": "Britt",
-          "url": "https://open.spotify.com/artist/0HwCaUS8htBIGIlRABaZIv"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "No Vaya a Ser",
-      "url": "https://open.spotify.com/track/4cxZYv0KJvw6MNHjuz8tOk"
     }
   ],
   "unique_name": "Inspiraci\u00f3n Tropical",

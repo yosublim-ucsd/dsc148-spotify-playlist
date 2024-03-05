@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1recTqXhf.md) - [plain]
 
 > Guided meditations for a variety of needs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,190 likes - 83 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,405 likes - 83 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1recTqXhf.md) - [plain]
 | 82 | [Guided Sleep Meditation Part 1](https://open.spotify.com/track/5uoJfHp1C2jjyr4nVPKKWG) | [Anders Rhedin](https://open.spotify.com/artist/4ywbRnYCXjL7Jnb0RVwJmM) | [Guided Sleep Meditation](https://open.spotify.com/album/1I9gIM27EJx8hSdpCsiaEI) | 2:43 |
 | 83 | [Anytime, Anywhere](https://open.spotify.com/track/5iw3xnWclMJW4VJdyAweRH) | [Kate Harding](https://open.spotify.com/artist/14JxP2DWfGKgBB9LE6xfob) | [Relax and Breathe, Vol\. 2](https://open.spotify.com/album/3N4Nl8ETa1ftKAVRd2uA4m) | 1:07 |
 
-Snapshot ID: `MCw2YjFlY2UwMGNkNThlNGY4MWZiMjAyNzM0Zjk3OWI5Y2Y1NDI5NjVh`
+Snapshot ID: `MCw4YTA2YTBiMGUwYTU0OGIzNTI0MTUzNjIyYTBjMjMxZDAxMDUxNGJk`

@@ -1,12 +1,12 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 663441,
+  "num_followers": 663498,
   "original_name": "chill latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGFmMjM4ZDIyZjhmYTZmOTUzYTRjOTg0ZTZiMzQ4NDAxZjNhZTVi",
+  "snapshot_id": "MCwyZTM4NDVjMmIxZDQ4ZTFlNDUxYzM4MzI0YjQ4YTRhMmVlMzFiN2Qw",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -531,26 +531,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Intenciones",
-        "url": "https://open.spotify.com/album/6UInVEPu90rc9kk8ijJux3"
-      },
-      "artists": [
-        {
-          "name": "Mario Puglia",
-          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 163600,
-      "name": "Intenciones",
-      "url": "https://open.spotify.com/track/5S9qL73dCtClMT4yUsiO8u"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/7u2qRcWGqQIi8ifEuuefdh"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 172108,
       "name": "Ma\u00f1ana",
       "url": "https://open.spotify.com/track/6Rzk7iqpQRMZALiC9yr9Zr"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Intenciones",
+        "url": "https://open.spotify.com/album/6UInVEPu90rc9kk8ijJux3"
+      },
+      "artists": [
+        {
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 163600,
+      "name": "Intenciones",
+      "url": "https://open.spotify.com/track/5S9qL73dCtClMT4yUsiO8u"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Cardenal Cisneros",
+        "url": "https://open.spotify.com/album/6RBKGZxneqj8Ygzpn7POMc"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 252973,
+      "name": "Cardenal Cisneros",
+      "url": "https://open.spotify.com/track/5O4mnBvus90sZA1g5IMFXE"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Delorean",
         "url": "https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 160722,
       "name": "17 (feat. Giulia Be)",
       "url": "https://open.spotify.com/track/6HzoyVSUu5MSYZikhYQ8u7"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Cardenal Cisneros",
-        "url": "https://open.spotify.com/album/6RBKGZxneqj8Ygzpn7POMc"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 252973,
-      "name": "Cardenal Cisneros",
-      "url": "https://open.spotify.com/track/5O4mnBvus90sZA1g5IMFXE"
     },
     {
       "added_at": "2024-03-01 05:00:00",

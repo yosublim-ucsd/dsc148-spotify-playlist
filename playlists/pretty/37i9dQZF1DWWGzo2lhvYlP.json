@@ -1,12 +1,12 @@
 {
   "description": "nothing but bangers to help you with the grind ",
-  "num_followers": 539036,
+  "num_followers": 539062,
   "original_name": "Homework motivation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjNhNTI0NjJkYjNlNDA3ODExOGQxZWM0YjIyOWIxOGY2NzM2ZTJm",
+  "snapshot_id": "MCwzNTI0MTEwNDljODI4YmZlM2I2YzdmNjkxZDAzMzhlZDFmMDZhNGY4",
   "tracks": [
     {
       "added_at": "2024-02-23 05:01:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-02-23 05:01:00",
       "album": {
-        "name": "NewJeans 'Super Shy'",
-        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Super Shy",
-      "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
-    },
-    {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
         "name": "Dance The Night (From Barbie The Album)",
         "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 176579,
       "name": "Dance The Night - From Barbie The Album",
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
+    },
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "NewJeans 'Super Shy'",
+        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Super Shy",
+      "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
     },
     {
       "added_at": "2024-02-23 05:01:00",
@@ -875,26 +875,6 @@
     {
       "added_at": "2024-02-23 05:01:00",
       "album": {
-        "name": "The Motto",
-        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 164818,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
-    },
-    {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 155588,
       "name": "Numb",
       "url": "https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL"
+    },
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "The Motto",
+        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
       "added_at": "2024-02-23 05:01:00",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2024-02-23 05:01:00",
       "album": {
-        "name": "5SOS5",
-        "url": "https://open.spotify.com/album/6aPyqaE53xagYyLIYZjB1e"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 215734,
-      "name": "Bad Omens",
-      "url": "https://open.spotify.com/track/6QcOEPC0bX799hITIgj3vU"
-    },
-    {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
         "name": "Skyline",
         "url": "https://open.spotify.com/album/7CrDnyaqZVhO6UupmkQiHe"
       },
@@ -2355,6 +2339,22 @@
     {
       "added_at": "2024-02-23 05:01:00",
       "album": {
+        "name": "5SOS5",
+        "url": "https://open.spotify.com/album/6aPyqaE53xagYyLIYZjB1e"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 215734,
+      "name": "Bad Omens",
+      "url": "https://open.spotify.com/track/6QcOEPC0bX799hITIgj3vU"
+    },
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
         "name": "I'll Be There",
         "url": "https://open.spotify.com/album/7o6j8wph7fvEcAL67jLVGN"
       },
@@ -2367,22 +2367,6 @@
       "duration_ms": 193923,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/083Qf6hn6sFL6xiOHlZUyn"
-    },
-    {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
-        "name": "Dirt Femme",
-        "url": "https://open.spotify.com/album/0HO9NtwyP7ZqB1jZ70MJL6"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 185875,
-      "name": "2 Die 4",
-      "url": "https://open.spotify.com/track/1VYlIU9IpVa4MHUqzKHyOb"
     },
     {
       "added_at": "2024-02-23 05:01:00",
@@ -2419,6 +2403,22 @@
       "duration_ms": 188731,
       "name": "Run",
       "url": "https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ"
+    },
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "Dirt Femme",
+        "url": "https://open.spotify.com/album/0HO9NtwyP7ZqB1jZ70MJL6"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 185875,
+      "name": "2 Die 4",
+      "url": "https://open.spotify.com/track/1VYlIU9IpVa4MHUqzKHyOb"
     },
     {
       "added_at": "2024-02-23 05:01:00",

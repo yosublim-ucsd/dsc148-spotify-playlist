@@ -652,7 +652,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 283963,
       "name": "Cerca",
       "url": "https://open.spotify.com/track/2qZ146aMtXEx3mQ4qLijol"
@@ -902,6 +902,28 @@
       "duration_ms": 197200,
       "name": "DE ESTE SUE\u00d1O NO ME DESPIERTO",
       "url": "https://open.spotify.com/track/7jNBgXRCQ8HWnSIX19vho7"
+    },
+    {
+      "album": {
+        "name": "DLUX",
+        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228450,
+      "name": "DECIR ADIOS \"OYE NARRADOR\" (with Cuco)",
+      "url": "https://open.spotify.com/track/4AZrS6z6r4T7vpBRE7doUG"
     },
     {
       "album": {
@@ -1336,6 +1358,24 @@
       "duration_ms": 219130,
       "name": "Encrucijada",
       "url": "https://open.spotify.com/track/3MXTKZwrprNX41kNc8WmRp"
+    },
+    {
+      "album": {
+        "name": "Era Primavera",
+        "url": "https://open.spotify.com/album/6neGV0F44OSV979QtmColK"
+      },
+      "artists": [
+        {
+          "name": "Chicano Batman",
+          "url": "https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251080,
+      "name": "Era Primavera",
+      "url": "https://open.spotify.com/track/78uQdQG1eaqC78z8g5Lecj"
     },
     {
       "album": {
@@ -2582,7 +2622,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 194148,
       "name": "M\u00e1scara de Ni\u00f1a",
       "url": "https://open.spotify.com/track/14RubZ8E6S34PohWgJq21G"
@@ -3033,6 +3073,28 @@
     },
     {
       "album": {
+        "name": "Polvo De Estrellas",
+        "url": "https://open.spotify.com/album/1dp8qyTLNa95cJE09TBOxR"
+      },
+      "artists": [
+        {
+          "name": "Chetes",
+          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
+        },
+        {
+          "name": "Calexico",
+          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239533,
+      "name": "Polvo De Estrellas",
+      "url": "https://open.spotify.com/track/0tjqKnpDhZ7cjj8I0Gd2SX"
+    },
+    {
+      "album": {
         "name": "Sonidos De Karm\u00e1tica Resonancia",
         "url": "https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO"
       },
@@ -3444,7 +3506,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 204608,
       "name": "Soy Vertical",
       "url": "https://open.spotify.com/track/5JHvSr5jry0K2miFIJ5whI"

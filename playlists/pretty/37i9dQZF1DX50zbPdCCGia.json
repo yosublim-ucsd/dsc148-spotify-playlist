@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1970s. Cover: Styx",
-  "num_followers": 237322,
+  "num_followers": 237397,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZWQ3YTExNzljOWQ4ZWI5ODMzZTZhYWEzNmI4MDBiMmVlMzcxZDEy",
+  "snapshot_id": "MCxjOTlhMDg0MDI1MTA0ZjQ3ZDI1Mzc4YTBiMzE1YTcyYTg3NDk1ZTVm",
   "tracks": [
     {
       "added_at": "2023-03-29 17:34:27",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Desperado (2013 Remaster)",
-        "url": "https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 173056,
-      "name": "Tequila Sunrise - 2013 Remaster",
-      "url": "https://open.spotify.com/track/1WYokrkFOb9TFVuTrmxTTt"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Mud Slide Slim and the Blue Horizon (2019 Remaster)",
         "url": "https://open.spotify.com/album/3ahHxtwRwMIdHcAo0MEXxX"
       },
@@ -351,8 +335,8 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Eagles (2013 Remaster)",
-        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
+        "name": "Desperado (2013 Remaster)",
+        "url": "https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM"
       },
       "artists": [
         {
@@ -360,9 +344,9 @@
           "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
         }
       ],
-      "duration_ms": 257962,
-      "name": "Peaceful Easy Feeling - 2013 Remaster",
-      "url": "https://open.spotify.com/track/40h65HAR8COEoqkMwUUQHu"
+      "duration_ms": 173056,
+      "name": "Tequila Sunrise - 2013 Remaster",
+      "url": "https://open.spotify.com/track/1WYokrkFOb9TFVuTrmxTTt"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -463,38 +447,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "One of These Nights (2013 Remaster)",
-        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 381998,
-      "name": "Lyin' Eyes - 2013 Remaster",
-      "url": "https://open.spotify.com/track/5lQKRR3MdJLtAwNBiT8Cq0"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
-        "name": "I Got a Name",
-        "url": "https://open.spotify.com/album/64dufEP8npd2jYoPfdzWPJ"
-      },
-      "artists": [
-        {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
-        }
-      ],
-      "duration_ms": 154626,
-      "name": "I\u2019ll Have to Say I Love You in a Song",
-      "url": "https://open.spotify.com/track/7kWPh7dvoyJ0frnnZzxZPj"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Deceptive Bends",
         "url": "https://open.spotify.com/album/6D3RQD5AQZ4P2aDzsZmBI4"
       },
@@ -523,6 +475,38 @@
       "duration_ms": 216386,
       "name": "How Sweet It Is (To Be Loved By You) - 2019 Remaster",
       "url": "https://open.spotify.com/track/75Nlnd9AJ4CYrLXgWGsuTF"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "I Got a Name",
+        "url": "https://open.spotify.com/album/64dufEP8npd2jYoPfdzWPJ"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "duration_ms": 154626,
+      "name": "I\u2019ll Have to Say I Love You in a Song",
+      "url": "https://open.spotify.com/track/7kWPh7dvoyJ0frnnZzxZPj"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 257962,
+      "name": "Peaceful Easy Feeling - 2013 Remaster",
+      "url": "https://open.spotify.com/track/40h65HAR8COEoqkMwUUQHu"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -605,6 +589,22 @@
       "url": "https://open.spotify.com/track/5TDZyWDfbQFQJabbPwImVY"
     },
     {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "The Michael Johnson Album",
+        "url": "https://open.spotify.com/album/5VKyy4iNK1F6aS5bohAMb4"
+      },
+      "artists": [
+        {
+          "name": "Michael Johnson",
+          "url": "https://open.spotify.com/artist/2XKBOnP3qXHP2FpzKplAYh"
+        }
+      ],
+      "duration_ms": 179666,
+      "name": "Bluer Than Blue",
+      "url": "https://open.spotify.com/track/1cAHI9tJN6oHMdG4ghlQKY"
+    },
+    {
       "added_at": "2023-11-03 04:00:00",
       "album": {
         "name": "Now And Then",
@@ -623,18 +623,18 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "The Michael Johnson Album",
-        "url": "https://open.spotify.com/album/5VKyy4iNK1F6aS5bohAMb4"
+        "name": "One of These Nights (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
       },
       "artists": [
         {
-          "name": "Michael Johnson",
-          "url": "https://open.spotify.com/artist/2XKBOnP3qXHP2FpzKplAYh"
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
         }
       ],
-      "duration_ms": 179666,
-      "name": "Bluer Than Blue",
-      "url": "https://open.spotify.com/track/1cAHI9tJN6oHMdG4ghlQKY"
+      "duration_ms": 381998,
+      "name": "Lyin' Eyes - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5lQKRR3MdJLtAwNBiT8Cq0"
     },
     {
       "added_at": "2023-03-29 20:20:24",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
+        "name": "Waking & Dreaming",
+        "url": "https://open.spotify.com/album/47YQQPzYY32yZbWC40mlku"
+      },
+      "artists": [
+        {
+          "name": "Orleans",
+          "url": "https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c"
+        }
+      ],
+      "duration_ms": 234040,
+      "name": "Still the One",
+      "url": "https://open.spotify.com/track/2dtK02TSAuTvVYU2wGAVG0"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
         "name": "Some Things Don't Come Easy",
         "url": "https://open.spotify.com/album/3e01nCW3aisPnPOkePoUGW"
       },
@@ -815,22 +831,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Waking & Dreaming",
-        "url": "https://open.spotify.com/album/47YQQPzYY32yZbWC40mlku"
-      },
-      "artists": [
-        {
-          "name": "Orleans",
-          "url": "https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c"
-        }
-      ],
-      "duration_ms": 234040,
-      "name": "Still the One",
-      "url": "https://open.spotify.com/track/2dtK02TSAuTvVYU2wGAVG0"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Dreamboat Annie",
         "url": "https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH"
       },
@@ -843,22 +843,6 @@
       "duration_ms": 121706,
       "name": "Dreamboat Annie",
       "url": "https://open.spotify.com/track/7IyuwRPPNq6gYI1vzqKsrU"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
-        "name": "Sleeper Catcher (Remastered 2022)",
-        "url": "https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ"
-      },
-      "artists": [
-        {
-          "name": "Little River Band",
-          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
-        }
-      ],
-      "duration_ms": 289981,
-      "name": "Lady - Remastered 2022",
-      "url": "https://open.spotify.com/track/23TrwDkYnBPea6i6FPd6Wd"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -939,6 +923,22 @@
       "duration_ms": 176800,
       "name": "Crazy Love",
       "url": "https://open.spotify.com/track/4l6uTQ4A2eWZrOzjgm1bey"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Sleeper Catcher (Remastered 2022)",
+        "url": "https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ"
+      },
+      "artists": [
+        {
+          "name": "Little River Band",
+          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
+        }
+      ],
+      "duration_ms": 289981,
+      "name": "Lady - Remastered 2022",
+      "url": "https://open.spotify.com/track/23TrwDkYnBPea6i6FPd6Wd"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "What Were Once Vices Are Now Habits",
-        "url": "https://open.spotify.com/album/6Jnw1MZ5lrICgurtzc3WqB"
-      },
-      "artists": [
-        {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
-        }
-      ],
-      "duration_ms": 267800,
-      "name": "Another Park, Another Sunday",
-      "url": "https://open.spotify.com/track/6K1Wr66UPDkfsS4lrNdY9e"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "The Stranger",
         "url": "https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 214240,
       "name": "Vienna",
       "url": "https://open.spotify.com/track/7gREIuHognJFspylIDJ94p"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "What Were Once Vices Are Now Habits",
+        "url": "https://open.spotify.com/album/6Jnw1MZ5lrICgurtzc3WqB"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "duration_ms": 267800,
+      "name": "Another Park, Another Sunday",
+      "url": "https://open.spotify.com/track/6K1Wr66UPDkfsS4lrNdY9e"
     },
     {
       "added_at": "2023-03-29 17:34:27",

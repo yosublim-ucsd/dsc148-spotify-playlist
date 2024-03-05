@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,864 songs - 4 day 4 hr 42 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,865 songs - 4 day 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1872,5 +1872,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1862 | [Avalon](https://open.spotify.com/track/7CxFWAnQ8eqiRL4W12Xzb6) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Avalon](https://open.spotify.com/album/6mSqysiE0NE7TbFosoJGTv) | 2:20 |
 | 1863 | [Venom](https://open.spotify.com/track/4RYhSQFFlquCTb8XRMJgFU) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB) | [KILL YOURSELF Part XIV: The Vulture Saga](https://open.spotify.com/album/4shih0Tkjmn2JWJHSHlF2s) | 2:03 |
 | 1864 | [Von dutch](https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Von dutch](https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw) | 2:44 |
+| 1865 | [Pretty Girl Vamp](https://open.spotify.com/track/3CeoqupTfHWakwrxdlifjQ) | [Xtick Man](https://open.spotify.com/artist/6lPMmlVmdWSQC0ZlCexBc3), [ODECORE](https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7) | [Pretty Girl Vamp](https://open.spotify.com/album/4GjgVQ101KFLFtFTbt23MD) | 2:27 |
 
-Snapshot ID: `NzE1LDJhYmVjZjAwODM5NTc3ODZlYzU3ZWYxOGU5MDY5Mjg4ZGU2MTkwNjY=`
+Snapshot ID: `NzE2LGM0NzczNmIwOWRkYTQ0OWYxNzA2MGMyYzk5NTRiYTE5ZWU4NDJjNzk=`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,815,481 likes - 51 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,816,001 likes - 51 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 38 | [Innuendo \- Remastered 2011](https://open.spotify.com/track/0BzhS74ByIVlyz8BedHaYi) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo \(2011 Remaster\)](https://open.spotify.com/album/5kffKW0sSLo6tkLg1veUGC) | 6:33 |
 | 39 | [We Are The Champions \- Live Aid](https://open.spotify.com/track/4XaG9IpCXklOcuau1sIrUX) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE) | 3:57 |
 | 40 | [Stone Cold Crazy \- Remastered 2011](https://open.spotify.com/track/6d2UQWWWZj3k4BE6WcN4IT) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/1Gnrd76EubInPV4KjOJ1Zr) | 2:13 |
-| 41 | [Face It Alone](https://open.spotify.com/track/1qr9bymNcBLy71PnO15jWi) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Face It Alone](https://open.spotify.com/album/1IZF5Dv3NXSwZPifWMOsIT) | 4:07 |
-| 42 | [Don't Try Suicide \- Remastered 2011](https://open.spotify.com/track/0V7AVcMTaQqLKzxVloxWHj) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 3:52 |
+| 41 | [Don't Try Suicide \- Remastered 2011](https://open.spotify.com/track/0V7AVcMTaQqLKzxVloxWHj) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 3:52 |
+| 42 | [Face It Alone](https://open.spotify.com/track/1qr9bymNcBLy71PnO15jWi) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Face It Alone](https://open.spotify.com/album/1IZF5Dv3NXSwZPifWMOsIT) | 4:07 |
 | 43 | [Headlong \- Remastered 2011](https://open.spotify.com/track/6goUTcMn0V30hWtKFIj6Kh) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo \(2011 Remaster\)](https://open.spotify.com/album/5kffKW0sSLo6tkLg1veUGC) | 4:37 |
 | 44 | [Spread Your Wings \- Remastered 2011](https://open.spotify.com/track/0nUCaKwNqO5whVAhEX1A1R) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World \(2011 Remaster\)](https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt) | 4:34 |
 | 45 | [You Don't Fool Me \- Remastered 2011](https://open.spotify.com/track/1chxAv59LZcOE5FyrlUze2) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made In Heaven \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/274tWwrhGJy0IFeMENjWi7) | 5:24 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 50 | [Heaven For Everyone \- Remastered 2011](https://open.spotify.com/track/3Klfd4rsRO53fYpxmdQmYV) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made In Heaven \(2011 Remaster\)](https://open.spotify.com/album/391ScNR3xKywWSpfDwP3n0) | 5:36 |
 | 51 | [God Save The Queen \- Remastered 2011](https://open.spotify.com/track/2ISPUUp4pzssWuR2Ic09vR) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(2011 Remaster\)](https://open.spotify.com/album/1GbtB4zTqAsyfZEsm1RZfx) | 1:15 |
 
-Snapshot ID: `Mjg0OTExMzksMDAwMDAwMDBjN2M0ZjBjMDE3ODcwYjE4ZjYzOGY0NTQ3YWYxNDQzMA==`
+Snapshot ID: `Mjg0OTI1NjksMDAwMDAwMDAxNTVhZDFhMDcxMTlhYjc4Mjg5ZDc3ZTExYzRiYTE2Yg==`

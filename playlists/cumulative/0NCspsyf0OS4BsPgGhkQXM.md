@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-1,027 songs - 2 day 5 hr 49 min
+1,029 songs - 2 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -750,6 +750,7 @@
 | [Rise](https://open.spotify.com/track/7IdiMAXXM6PgTQkoAdGycw) | [Far Out](https://open.spotify.com/artist/7aB2KbM3pphL9mU3dXbyh2) | [Rise](https://open.spotify.com/album/6806Cvd9SUcwRPiRu0blqt) | 3:25 | 2023-02-21 | 2023-07-29 |
 | [RIVAL](https://open.spotify.com/track/4E9t8I4Zi90aWXpiwu0GJu) | [Yung Zime](https://open.spotify.com/artist/3iG3DOwDRNNcU4SD26P0qp), [509 $icario](https://open.spotify.com/artist/6Wx2VVhGDwD4RTwJ4yyip2) | [RIVAL](https://open.spotify.com/album/6qHbo1SbHgL8RSJjiQCI70) | 2:06 | 2023-11-03 | 2023-12-19 |
 | [ROCK RN!](https://open.spotify.com/track/70pbugu4TKU6GSpLOfCxCE) | [FXRCE](https://open.spotify.com/artist/5UKXrvmyouEgmvon7DwwzA), [YXUNGXROTICA](https://open.spotify.com/artist/7gyc1wWTGmRwZpYtiFwH1D), [fkbambam](https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6) | [ROCK RN!](https://open.spotify.com/album/61GQReFPkwPCAuc7VTjPne) | 1:17 | 2023-10-20 | 2023-11-18 |
+| [Rockabye](https://open.spotify.com/track/1BhqZEEFaf4b2OcG5pgenG) | [jimmi paige](https://open.spotify.com/artist/12N0LY0PTQdqISIXJFKok2) | [Rockabye](https://open.spotify.com/album/1YpW3FMGqQjZy5yXHZnbZ0) | 2:41 | 2024-03-04 |  |
 | [Roof Down](https://open.spotify.com/track/2hRm3384vOFLfMnX06WxYC) | [NOMIS.K](https://open.spotify.com/artist/36hPgyntcoyEcgYDkaKrBc) | [Fragments EP](https://open.spotify.com/album/28gU1VbzdzjgET7fpwgbtv) | 2:54 | 2022-04-22 | 2022-06-04 |
 | [Rumor](https://open.spotify.com/track/2QC2PTvF3yONXlvih301aR) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [WYN](https://open.spotify.com/artist/1mFo3mR5ZWTQbNg1RgWj2D) | [Rumor](https://open.spotify.com/album/2vEarBohKW4xTClQB24GHh) | 4:38 | 2022-01-14 | 2022-03-19 |
 | [RUN](https://open.spotify.com/track/2HLAnzeY4r794YnCq2JlgN) | [Lektrique](https://open.spotify.com/artist/2ZZE8SPVWBysGWL1pRDHEy) | [RUN](https://open.spotify.com/album/4hgySpGDjputCw0tgHD96d) | 2:40 | 2023-11-17 | 2024-01-30 |
@@ -841,6 +842,7 @@
 | [Stay](https://open.spotify.com/track/6w11tS0KUmo44Pwc3X4xc7) | [Jey Vazz](https://open.spotify.com/artist/3UUa5nO3gumI0Ld4bapvhu), [Lauren Martinez](https://open.spotify.com/artist/1GPbduE3IroBXfCr6BorOS), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [The Blueprint \(Deluxe\)](https://open.spotify.com/album/3Fg0InS5WK4GhPWFWkXbxy) | 3:18 | 2022-11-18 | 2023-02-22 |
 | [Stay](https://open.spotify.com/track/1GHu55MRD4NyMhVDpaLADT) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry) | [Sentiment](https://open.spotify.com/album/2NRBI2mvyZIYpHMEcDmN6A) | 3:42 | 2022-02-18 | 2022-06-04 |
 | [Stay \- Afinity Remix](https://open.spotify.com/track/1BTc2Jtvi0xXbuew9QsQXs) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry), [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf) | [Sentiment \(The Remixes\)](https://open.spotify.com/album/50LvtJUOXQqb4EVM2mij0V) | 3:40 | 2022-07-29 | 2022-11-24 |
+| [Stay \- Afinity Remix](https://open.spotify.com/track/4ua1RUmrzlORhk0TDfrTK6) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [Stay](https://open.spotify.com/album/06lxDpivRf6gtBBFLTlAUp) | 3:44 | 2024-03-04 |  |
 | [Stay High \- Habits Remix](https://open.spotify.com/track/1a3bby8QWg5R2MQMPejXRJ) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Hippie Sabotage](https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE) | [Spring Break Essentials](https://open.spotify.com/album/1cG3G3xYzf6deXeAulQw5v) | 4:18 | 2023-05-02 | 2023-08-19 |
 | [Stay The Night](https://open.spotify.com/track/45ZGq5V2xy1CV8uVkvxt8t) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [Dyson](https://open.spotify.com/artist/5LWQLBPNcQrzUtg5imjz67) | [Stay The Night](https://open.spotify.com/album/1eMdAJDIE94nXFxI56HkFZ) | 3:50 | 2023-03-20 | 2023-08-19 |
 | [stay the night pluggnb](https://open.spotify.com/track/0MpbU5LCgRgyeqQei3B6zp) | [cadenkala](https://open.spotify.com/artist/2rzk5yjCatuGzQLDawKsXe), [tabris](https://open.spotify.com/artist/4lGxmCxpRK0pHo7EuakiFH) | [stay the night pluggnb](https://open.spotify.com/album/6FX5IkoEKeYWhpTk1mDZKC) | 2:07 | 2023-11-03 | 2023-12-19 |

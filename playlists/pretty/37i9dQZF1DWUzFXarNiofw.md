@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: 4Batz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,035,557 likes - 171 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,035,666 likes - 171 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 170 | [Something Else](https://open.spotify.com/track/0Yv1nN87g1tv2Dynp5en04) | [Jabari](https://open.spotify.com/artist/1KxiW7WB29InuGgNca2XHW) | [Something Else](https://open.spotify.com/album/3N3r6m3PGAj3D4u76cgvjW) | 3:02 |
 | 171 | [Where R U Now \- Acoustic](https://open.spotify.com/track/0nChB3pqbznFzQKiAlb9gu) | [Storm Ford](https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2) | [Where R U Now \(Acoustic\)](https://open.spotify.com/album/2NeC3shfWGxCcfAhdO69di) | 2:46 |
 
-Snapshot ID: `MCw2MzcyMmRiZTQ4NzBhODdmMGNmZTNmZWM2ZDk5YTgyMDY5ZGRkYjQ3`
+Snapshot ID: `MCw2MTAyZjQxY2U5YTBhNjAwNjdlYTVlODBkMjk2NDAxODZmYmFiMTM5`

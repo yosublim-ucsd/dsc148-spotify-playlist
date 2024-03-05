@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 
 > The most iconic piano style in Blues; all the greatest Boogie\-woogie pianists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,257 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,283 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,13 +15,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 5 | [Pauly's Birthday Boogie](https://open.spotify.com/track/088NmJPi9Tnn6BKn6xyo9r) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [Deuces Wild](https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV) | 3:38 |
 | 6 | [Boogie Woogie Country Girl](https://open.spotify.com/track/28hAbUS1ml3FK4fOyshS99) | [Roomful Of Blues](https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L) | [Raisin' A Ruckus](https://open.spotify.com/album/35Sf6tKVBsBvRcdJhDVkoo) | 3:19 |
 | 7 | [Boogie\-Woogie Man](https://open.spotify.com/track/0C9052f6xUxR4EDOjAJclV) | [Piano Connection](https://open.spotify.com/artist/4Zi01wuCkRLBOOwg2cjQtp), [Marcs Boogie](https://open.spotify.com/artist/2WzEFvuOPW5vOXX1RaBEBm) | [Boogie Woogie & Blues](https://open.spotify.com/album/4YrU3QBn4Gcf5OkLbTM5jk) | 2:08 |
-| 8 | [I Got It \- Remastered](https://open.spotify.com/track/10AUTRYAZyhFkC0TpkZlsC) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [The Essential Little Richard](https://open.spotify.com/album/7tmbNQrDZHuLYKXFiEWlwf) | 2:18 |
-| 9 | [Boogie Woogie Country Man](https://open.spotify.com/track/2mdnLpoDVfuTVPoBVOAMjl) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Boogie Woogie Country Man](https://open.spotify.com/album/2hQVYtzEpTQ1FOhTkO6NfB) | 3:44 |
-| 10 | [Two\-Fisted Mama](https://open.spotify.com/track/7cUsW9mL1lf2a7rACOS5dA) | [Katie Webster](https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe) | [Two\-Fisted Mama!](https://open.spotify.com/album/5cxMmYGtXmBefadP7GdBQt) | 3:23 |
-| 11 | [Caldonia \- Single Version](https://open.spotify.com/track/3DY0fbOGsg1F1wdoqJFRig) | [Louis Jordan & His Tympany Five](https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh) | [Let The Good Times Roll: The Anthology 1938 \- 1953](https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK) | 2:41 |
-| 12 | [Stompin' At the 'subway'](https://open.spotify.com/track/4bGflDbniZ9ja3qveYItnZ) | [Christian Bleiming](https://open.spotify.com/artist/2mDLUZu61ccNXT5HrNAbOK) | [Piano\-Blues & Boogie\-Woogie](https://open.spotify.com/album/4pvNWYFUBsBEnyNnn7VPD9) | 2:20 |
-| 13 | [Boogie In "G"](https://open.spotify.com/track/3yY7zC0l6XJTub645Wa6uZ) | [Camille Howard](https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX) | [Rock Me Daddy, Vol\. 1](https://open.spotify.com/album/1sz7BU4ZYeAJwQTfNzyxQD) | 2:34 |
-| 14 | [Roll 'Em](https://open.spotify.com/track/0HTkU7FYXrtuBJnbh6MJvb) | [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [Piano](https://open.spotify.com/album/0VafiJdDMi3vB2H40Xrwvv) | 2:53 |
+| 8 | [Caldonia \- Single Version](https://open.spotify.com/track/3DY0fbOGsg1F1wdoqJFRig) | [Louis Jordan & His Tympany Five](https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh) | [Let The Good Times Roll: The Anthology 1938 \- 1953](https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK) | 2:41 |
+| 9 | [Stompin' At the 'subway'](https://open.spotify.com/track/4bGflDbniZ9ja3qveYItnZ) | [Christian Bleiming](https://open.spotify.com/artist/2mDLUZu61ccNXT5HrNAbOK) | [Piano\-Blues & Boogie\-Woogie](https://open.spotify.com/album/4pvNWYFUBsBEnyNnn7VPD9) | 2:20 |
+| 10 | [I Got It \- Remastered](https://open.spotify.com/track/10AUTRYAZyhFkC0TpkZlsC) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [The Essential Little Richard](https://open.spotify.com/album/7tmbNQrDZHuLYKXFiEWlwf) | 2:18 |
+| 11 | [Boogie Woogie Country Man](https://open.spotify.com/track/2mdnLpoDVfuTVPoBVOAMjl) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Boogie Woogie Country Man](https://open.spotify.com/album/2hQVYtzEpTQ1FOhTkO6NfB) | 3:44 |
+| 12 | [Boogie In "G"](https://open.spotify.com/track/3yY7zC0l6XJTub645Wa6uZ) | [Camille Howard](https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX) | [Rock Me Daddy, Vol\. 1](https://open.spotify.com/album/1sz7BU4ZYeAJwQTfNzyxQD) | 2:34 |
+| 13 | [Roll 'Em](https://open.spotify.com/track/0HTkU7FYXrtuBJnbh6MJvb) | [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [Piano](https://open.spotify.com/album/0VafiJdDMi3vB2H40Xrwvv) | 2:53 |
+| 14 | [Two\-Fisted Mama](https://open.spotify.com/track/7cUsW9mL1lf2a7rACOS5dA) | [Katie Webster](https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe) | [Two\-Fisted Mama!](https://open.spotify.com/album/5cxMmYGtXmBefadP7GdBQt) | 3:23 |
 | 15 | [Pinetop Boogie woogie](https://open.spotify.com/track/4Hy8MYtJn2imFljdOKQkHm) | [Pinetop Perkins](https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55) | [Pïnetop Is Just Top \[Blues Reference \(recorded in Switzerland 1976\)\]](https://open.spotify.com/album/1anNQaXN296NDnZm8fA3Va) | 4:34 |
 | 16 | [Boogie Woogie Blues](https://open.spotify.com/track/3yJ1aTo6qNkCNfDHiQ2vfX) | [Jean\-Pierre Bertrand](https://open.spotify.com/artist/77PBFv21ChvCL07tXkoP3x), [Frank Muschalle](https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD), [Dani Gugolz](https://open.spotify.com/artist/2PVYlFb0RH1qflbHCe3MyW), [Peter Müller](https://open.spotify.com/artist/7lQJmgdxJyKDhOqQIz3ZgE) | [Piano Brotherhood \(feat\. Dani Gugolz, Peter Müller\)](https://open.spotify.com/album/2CNgsFsRSxb6Yoo0PaRowl) | 3:41 |
 | 17 | [Junco Partner](https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK) | [James Booker](https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF) | [Junco Partner](https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV) | 5:10 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 74 | [Okay](https://open.spotify.com/track/416aAh5pHiWiluFlP6aGEb) | [Kjell Sønksen](https://open.spotify.com/artist/3t5a0vTiZcxZZAYGCjiTWW) | [Okay](https://open.spotify.com/album/4SdSQl6XnCNn9jgkPlkmMc) | 3:18 |
 | 75 | [Chicago Breakdown](https://open.spotify.com/track/6AKFwQSfIA97Dq8N2YeJkN) | [Big Maceo](https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve) | [The Very Best Of Boogie Woogie](https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2) | 2:57 |
 
-Snapshot ID: `MCw5MDU3ZjVlNzYwODFjZWM1NDVkNDRmMWU0MmEzZTBhMDQ2MWFhN2Fi`
+Snapshot ID: `MCxkMWMwYjEwZmZhMjNkZTAzYTI1M2JjOWY4NTM5MTc4NmVkODE4NzM1`

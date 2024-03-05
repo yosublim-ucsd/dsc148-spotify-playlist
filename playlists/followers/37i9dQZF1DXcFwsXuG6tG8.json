@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 10630,
+  "2024-03-05": 10652,
   "date_first_scraped": "2023-08-01",
   "description": "y el soundtrack suena as\u00ed...",
   "name": "mi vida es una peli",
@@ -1489,7 +1489,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 93106,
       "name": "superman",
       "url": "https://open.spotify.com/track/3mK0PbFWTRg6lJrrFoF93t"
@@ -1591,6 +1591,28 @@
       "duration_ms": 188013,
       "name": "Trampas",
       "url": "https://open.spotify.com/track/5IxfOWrIQmioHViXiRq6Bv"
+    },
+    {
+      "album": {
+        "name": "tu fan (with salem ilese)",
+        "url": "https://open.spotify.com/album/248tuXXYvIE268RIT0rYxJ"
+      },
+      "artists": [
+        {
+          "name": "mafalda cardenal",
+          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
+        },
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234352,
+      "name": "tu fan (with salem ilese)",
+      "url": "https://open.spotify.com/track/1xW2DTaGSxrLCiequZitXQ"
     },
     {
       "album": {

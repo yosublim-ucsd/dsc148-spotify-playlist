@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NvsfzYNmmz.md) - [plain]
 
 > Only the tastiest Christmas jams\. Cover: Paul Simon
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,010 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,008 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NvsfzYNmmz.md) - [plain]
 | 41 | [Angels We Have Heard On High](https://open.spotify.com/track/5TICk0rfgLn67MEIHWjur2) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [This Christmas](https://open.spotify.com/album/3r8Q53TiFAKYR19SBLYL75) | 5:25 |
 | 42 | [Home for Christmas](https://open.spotify.com/track/1A61cJRd7Z78OPAKBq0OJy) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Home for Christmas](https://open.spotify.com/album/2zctWsSDRj6fZgQnxr9ktX) | 5:09 |
 | 43 | [O Holy Night](https://open.spotify.com/track/5fwRLFKs4loRZ0r4BUcaLd) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Feels Like Christmas](https://open.spotify.com/album/4MThObrjfbwqQuvQU5bu9U) | 3:44 |
-| 44 | [Listen, The Snow Is Falling](https://open.spotify.com/track/0CNRErTWnDGVWnRUhPMaZf) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Losst And Founnd](https://open.spotify.com/album/6B446h8aVE0zi9NcIHu1CG) | 4:00 |
-| 45 | [Santa Claus Is Comin' to Town \- Live at C.W\. Post College, Greenvale, NY \- December 1975](https://open.spotify.com/track/3VGzoSo6S4JcCRPQTqeT9W) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Caroling at Christmas](https://open.spotify.com/album/4M1iQdniPtcweGDfem5yS1) | 4:27 |
-| 46 | [Go Tell It On the Mountain](https://open.spotify.com/track/6EXMLtiFCnJT4TmONRRBH3) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Christmas Cafe](https://open.spotify.com/album/60o7io2Q1sgIv0psxcfsDQ) | 2:03 |
-| 47 | [Go Tell It On The Mountain](https://open.spotify.com/track/2KcdIIkNsOWAP7XhLqfJqK) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [20th Century Masters \- The Best of Smokey Robinson & The Miracles: The Christmas Collection](https://open.spotify.com/album/3R4NS486mXBcQ9CrLUmDhQ) | 3:47 |
+| 44 | [Santa Claus Is Comin' to Town \- Live at C.W\. Post College, Greenvale, NY \- December 1975](https://open.spotify.com/track/3VGzoSo6S4JcCRPQTqeT9W) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Caroling at Christmas](https://open.spotify.com/album/4M1iQdniPtcweGDfem5yS1) | 4:27 |
+| 45 | [Go Tell It On the Mountain](https://open.spotify.com/track/6EXMLtiFCnJT4TmONRRBH3) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Christmas Cafe](https://open.spotify.com/album/60o7io2Q1sgIv0psxcfsDQ) | 2:03 |
+| 46 | [Go Tell It On The Mountain](https://open.spotify.com/track/2KcdIIkNsOWAP7XhLqfJqK) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [20th Century Masters \- The Best of Smokey Robinson & The Miracles: The Christmas Collection](https://open.spotify.com/album/3R4NS486mXBcQ9CrLUmDhQ) | 3:47 |
+| 47 | [Listen, The Snow Is Falling](https://open.spotify.com/track/0CNRErTWnDGVWnRUhPMaZf) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Losst And Founnd](https://open.spotify.com/album/6B446h8aVE0zi9NcIHu1CG) | 4:00 |
 | 48 | [Little Christmas Tree](https://open.spotify.com/track/2xBJS5zxvaTjoDoFT9oNOb) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Christmas with The Jackson 5](https://open.spotify.com/album/0BRTKpudDZbBrZzqPHfijR) | 3:36 |
-| 49 | [My Grown\-Up Christmas List](https://open.spotify.com/track/0i4l97vplepWtxmJfPdcDn) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [This Christmas](https://open.spotify.com/album/3r8Q53TiFAKYR19SBLYL75) | 5:14 |
-| 50 | [It Won't Be Long 'Til Christmas \- Bonus Track / 2015 Mix](https://open.spotify.com/track/0d8JxzRzUgTN6aUu7Aii0I) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Merry Christmas \(Expanded Edition\)](https://open.spotify.com/album/3mKxD3slkstGtfDxBI8p62) | 2:41 |
+| 49 | [It Won't Be Long 'Til Christmas \- Bonus Track / 2015 Mix](https://open.spotify.com/track/0d8JxzRzUgTN6aUu7Aii0I) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Merry Christmas \(Expanded Edition\)](https://open.spotify.com/album/3mKxD3slkstGtfDxBI8p62) | 2:41 |
+| 50 | [My Grown\-Up Christmas List](https://open.spotify.com/track/0i4l97vplepWtxmJfPdcDn) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [This Christmas](https://open.spotify.com/album/3r8Q53TiFAKYR19SBLYL75) | 5:14 |
 
-Snapshot ID: `MCwyMzUzZTQzODdlOGRmMDUyZDY1NmFiYTc3M2Q2M2EwNmVlMDg2ZDAy`
+Snapshot ID: `MCwzNGVhMGFkMGQzM2MwY2U5ODdkNGJhODEyZmY5ZWU1ZjcwZjg3Yzg5`

@@ -1,12 +1,12 @@
 {
   "description": "The best Dance and EDM tracks right now! Cover: The Banker Boys",
-  "num_followers": 20275,
+  "num_followers": 20278,
   "original_name": "New Dance Hits 2024",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "NzU0MSwxNGU1YmJhYWRjMjk2NzM2MTE0ZGYyNmZkZDVkMzNiYmZiZjdkNWIy",
+  "snapshot_id": "NzU0NSw1Nzc3MGRiZjYxNjdjOTEwOTg5ZmRiZjM4YTg2MmEwNGFjNjE2MTE1",
   "tracks": [
     {
       "added_at": "2024-03-01 20:43:20",
@@ -1013,6 +1013,22 @@
       "url": "https://open.spotify.com/track/3zeuhnui45bIw0rZCCZuTu"
     },
     {
+      "added_at": "2024-03-04 14:17:34",
+      "album": {
+        "name": "Party Girl",
+        "url": "https://open.spotify.com/album/4SgOSWTYzsSA78jKqFIRpg"
+      },
+      "artists": [
+        {
+          "name": "Our Anthem",
+          "url": "https://open.spotify.com/artist/0yvdg5HZnoTbaawqVloMZl"
+        }
+      ],
+      "duration_ms": 202812,
+      "name": "Party Girl",
+      "url": "https://open.spotify.com/track/4yBCo06OTulX4uBdDtKYrr"
+    },
+    {
       "added_at": "2024-03-01 20:43:20",
       "album": {
         "name": "Round & Round",
@@ -1667,26 +1683,6 @@
       "duration_ms": 171562,
       "name": "Lavender Haze - Felix Jaehn Remix",
       "url": "https://open.spotify.com/track/5KxZfCXXmVvKhPo8hQz2pS"
-    },
-    {
-      "added_at": "2024-03-01 20:43:20",
-      "album": {
-        "name": "never worry",
-        "url": "https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r"
-      },
-      "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 186123,
-      "name": "Sumthin Crazy (with Rochelle Jordan)",
-      "url": "https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl"
     },
     {
       "added_at": "2024-03-01 20:43:20",

@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 1858306,
+  "2024-03-05": 1858627,
   "date_first_scraped": "2021-12-21",
   "description": "You know what time it is.",
   "name": "Nu Metal Era",
@@ -197,7 +197,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 265840,
       "name": "Bawitdaba",
       "url": "https://open.spotify.com/track/0f37VQs969vZUL4gVfHRV9"
@@ -215,7 +215,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 267866,
       "name": "Bawitdaba - 2018 Remaster",
       "url": "https://open.spotify.com/track/0T3odPQ4qqKOqvQEtMcPWM"
@@ -1855,7 +1855,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 194733,
       "name": "New Disease",
       "url": "https://open.spotify.com/track/5xqi4X6J5PHwndSJc7YLYH"
@@ -2161,7 +2161,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 218933,
       "name": "Praise",
       "url": "https://open.spotify.com/track/3fXY1GLVF8QmzbTfNTTaFr"

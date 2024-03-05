@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 1359078,
+  "2024-03-05": 1359590,
   "date_first_scraped": "2022-04-20",
   "description": "The perfect study beats. Find your focus, crush your productivity. ",
   "name": "chill lofi study beats",
@@ -6821,6 +6821,24 @@
       "duration_ms": 140800,
       "name": "Costa Calma",
       "url": "https://open.spotify.com/track/24NZxpbfzt63NTDghVS43j"
+    },
+    {
+      "album": {
+        "name": "Couch Vibes",
+        "url": "https://open.spotify.com/album/2ybbG29HdBzYcwnzcf6xP5"
+      },
+      "artists": [
+        {
+          "name": "Tune in with Chewie",
+          "url": "https://open.spotify.com/artist/4M4gexhCyv12RmbowD8xjS"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154330,
+      "name": "Couch Vibes",
+      "url": "https://open.spotify.com/track/2xJKFoxhnWsG2vPxqZJxFL"
     },
     {
       "album": {
@@ -22657,7 +22675,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 138593,
       "name": "Pacific Coast",
       "url": "https://open.spotify.com/track/623KYMExfxDEn0zF1XtmF5"
@@ -24493,6 +24511,24 @@
       "duration_ms": 151223,
       "name": "Purple Hue",
       "url": "https://open.spotify.com/track/0LiN7h1mBp9kCbbCpZs3Ii"
+    },
+    {
+      "album": {
+        "name": "purpose",
+        "url": "https://open.spotify.com/album/3zKixwSv83Sho0KtDRteju"
+      },
+      "artists": [
+        {
+          "name": "rollinsmpls",
+          "url": "https://open.spotify.com/artist/2IQUECU4moSgtL1qqJuois"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144102,
+      "name": "purpose",
+      "url": "https://open.spotify.com/track/3PTOLEY1ePZC1jEIXVsKUF"
     },
     {
       "album": {
@@ -27775,7 +27811,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 158000,
       "name": "Soft Light",
       "url": "https://open.spotify.com/track/2Wsb2fbA8no8F1Xe6BJiTT"

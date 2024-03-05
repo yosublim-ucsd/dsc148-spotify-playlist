@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 124913,
+  "num_followers": 124941,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjMxOTgwMWRiZGM0Mjg2NWIwYzIzZjY1ZjI4MmQ1NzY5YjM4ZmFh",
+  "snapshot_id": "MCwxYjAxODhiNjhlMWY5ZjVjY2FiNzAwY2MxNjhhMDMzYzZlNGRiYjEx",
   "tracks": [
     {
       "added_at": "2023-12-26 03:01:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
+        "name": "Te Amo L\u00e1 Fora",
+        "url": "https://open.spotify.com/album/5o6MJpi6Y4fQwI8gmv0oZc"
+      },
+      "artists": [
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "duration_ms": 246346,
+      "name": "Decis\u00e3o de Te Amar",
+      "url": "https://open.spotify.com/track/6iyBtf6dboO5YVYS3XUbVC"
+    },
+    {
+      "added_at": "2023-12-26 03:01:00",
+      "album": {
         "name": "Areia Fina",
         "url": "https://open.spotify.com/album/5u12FbXvV6Fs2fqGPngRbg"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 186400,
       "name": "Calma",
       "url": "https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz"
-    },
-    {
-      "added_at": "2023-12-26 03:01:00",
-      "album": {
-        "name": "Te Amo L\u00e1 Fora",
-        "url": "https://open.spotify.com/album/5o6MJpi6Y4fQwI8gmv0oZc"
-      },
-      "artists": [
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 246346,
-      "name": "Decis\u00e3o de Te Amar",
-      "url": "https://open.spotify.com/track/6iyBtf6dboO5YVYS3XUbVC"
     },
     {
       "added_at": "2023-12-26 03:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Keith Urban, Kacey Musgraves, Kenny Chesney and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,196 likes - 63 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,340 likes - 63 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 62 | [Spinning Out](https://open.spotify.com/track/2GSxbRHmZEcGkxfU10HcPR) | [Camille Parker](https://open.spotify.com/artist/3u1V5YbyG4zthBujlpdFE5) | [Spinning Out](https://open.spotify.com/album/1lC44N822Nzv2NjwpoyzfT) | 2:24 |
 | 63 | [Two Wheel Drive Cowboy](https://open.spotify.com/track/5P50sBnHTqfbA6ciFs0cBY) | [Eli Winders](https://open.spotify.com/artist/1FrotTX0L8LcXNxuigzB0w) | [Two Wheel Drive Cowboy](https://open.spotify.com/album/7dLzLHc2JEWefwat5ZoSWm) | 2:37 |
 
-Snapshot ID: `MCxhOTMwYmM4ZTllODdiMWY3NzQwZThlOTJmMGJkOGJjMDAzN2Q2ODU4`
+Snapshot ID: `MCxiZjdmNDdmODhkY2Q5ZTZmYWQ5OWMzODc0NDc4N2RiYjZiODY2N2Fj`

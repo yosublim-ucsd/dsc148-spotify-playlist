@@ -1,12 +1,12 @@
 {
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: bohemianvoodoo",
-  "num_followers": 27219,
+  "num_followers": 27237,
   "original_name": "Jazz Fusion Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjBhM2UzYzA0MTFjZjViODA2MmFjNTM4ZTZkMzM5YmQ5ZDNhOTgx",
+  "snapshot_id": "MCxmYWRjYWM4ODEzZTYwNTE0MTAyOWI5ODM0MjMzY2EzMzhhYjBhNjRi",
   "tracks": [
     {
       "added_at": "2024-02-27 15:00:00",
@@ -455,18 +455,18 @@
     {
       "added_at": "2024-02-27 15:00:00",
       "album": {
-        "name": "Butterfly",
-        "url": "https://open.spotify.com/album/14bAA1BAUwfw6N2bFvtP4x"
+        "name": "Spectrum",
+        "url": "https://open.spotify.com/album/6nWNBeeFpGrFEu9CDeZJbH"
       },
       "artists": [
         {
-          "name": "fox capture plan",
-          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+          "name": "Hiromi",
+          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
         }
       ],
-      "duration_ms": 294560,
-      "name": "Butterfly Effect",
-      "url": "https://open.spotify.com/track/3A0idGLImgS8V6oxkBA0d4"
+      "duration_ms": 321346,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/1NpTkYFGPrYb9FRNGjLVyJ"
     },
     {
       "added_at": "2024-02-27 15:00:00",
@@ -491,18 +491,18 @@
     {
       "added_at": "2024-02-27 15:00:00",
       "album": {
-        "name": "Spectrum",
-        "url": "https://open.spotify.com/album/6nWNBeeFpGrFEu9CDeZJbH"
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/14bAA1BAUwfw6N2bFvtP4x"
       },
       "artists": [
         {
-          "name": "Hiromi",
-          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
         }
       ],
-      "duration_ms": 321346,
-      "name": "Blackbird",
-      "url": "https://open.spotify.com/track/1NpTkYFGPrYb9FRNGjLVyJ"
+      "duration_ms": 294560,
+      "name": "Butterfly Effect",
+      "url": "https://open.spotify.com/track/3A0idGLImgS8V6oxkBA0d4"
     },
     {
       "added_at": "2024-02-27 15:00:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-02-27 15:00:00",
       "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/67ygKtkMebXurAs2ihwzAg"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        }
+      ],
+      "duration_ms": 236785,
+      "name": "\u591c\u9593\u822a\u8def - Album Mix",
+      "url": "https://open.spotify.com/track/4KvnG2uCuv6vkirDtt3mA5"
+    },
+    {
+      "added_at": "2024-02-27 15:00:00",
+      "album": {
         "name": "\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
         "url": "https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 247404,
       "name": "Flowery Flat",
       "url": "https://open.spotify.com/track/4E0VtFTgj5AlpWMlzmyJYq"
-    },
-    {
-      "added_at": "2024-02-27 15:00:00",
-      "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/67ygKtkMebXurAs2ihwzAg"
-      },
-      "artists": [
-        {
-          "name": "fox capture plan",
-          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
-        }
-      ],
-      "duration_ms": 236785,
-      "name": "\u591c\u9593\u822a\u8def - Album Mix",
-      "url": "https://open.spotify.com/track/4KvnG2uCuv6vkirDtt3mA5"
     },
     {
       "added_at": "2024-02-27 15:00:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-02-27 15:00:00",
       "album": {
+        "name": "NEWTOWN",
+        "url": "https://open.spotify.com/album/2lveEbqQBRgGNrik6K2ZwS"
+      },
+      "artists": [
+        {
+          "name": "toconoma",
+          "url": "https://open.spotify.com/artist/3XKBSRkQeskeHIpRvA5XaS"
+        }
+      ],
+      "duration_ms": 298200,
+      "name": "N\u00b09",
+      "url": "https://open.spotify.com/track/1MaU3Y6P7j95oINCv6cmmR"
+    },
+    {
+      "added_at": "2024-02-27 15:00:00",
+      "album": {
         "name": "C",
         "url": "https://open.spotify.com/album/4rQJ0xVXD7OKZmV5hXL4tW"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 327160,
       "name": "The bell tolls",
       "url": "https://open.spotify.com/track/0cwy8I1xQFXDZ0bMR5BHLp"
-    },
-    {
-      "added_at": "2024-02-27 15:00:00",
-      "album": {
-        "name": "Satisfaction",
-        "url": "https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV"
-      },
-      "artists": [
-        {
-          "name": "Hidefumi Ino",
-          "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
-        }
-      ],
-      "duration_ms": 247800,
-      "name": "Spartacus",
-      "url": "https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB"
     },
     {
       "added_at": "2024-02-27 15:00:00",

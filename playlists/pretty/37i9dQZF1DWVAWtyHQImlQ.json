@@ -1,12 +1,12 @@
 {
   "description": "All 60s, all ballads. Cover: Etta James",
-  "num_followers": 143490,
+  "num_followers": 143530,
   "original_name": "60s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDM2MjBkN2QxOTBmYzRhZTFiOTZkZmNkYzY2OWVkYThiNTY2MzE5",
+  "snapshot_id": "MCxmZTY2YmVhOTBiYjYzZjg5MmUxZDVlZmI4MTcwNjVhMWRhOWI1YWVm",
   "tracks": [
     {
       "added_at": "2023-01-02 17:54:36",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-01-02 17:54:36",
       "album": {
+        "name": "And Then...Along Comes",
+        "url": "https://open.spotify.com/album/6NDt4G1QiGzMNnri4kxq6f"
+      },
+      "artists": [
+        {
+          "name": "The Association",
+          "url": "https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS"
+        }
+      ],
+      "duration_ms": 207133,
+      "name": "Cherish",
+      "url": "https://open.spotify.com/track/7uGeDI6nJEdUYMsMd7mQyl"
+    },
+    {
+      "added_at": "2023-01-02 17:54:36",
+      "album": {
         "name": "Singles 1965-1967",
         "url": "https://open.spotify.com/album/1IeXdR2ptc5Jhxmko89CgE"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 171373,
       "name": "Anyone Who Had a Heart - 2003 Remaster",
       "url": "https://open.spotify.com/track/28Y2taEFmHofu2EsU04ILf"
-    },
-    {
-      "added_at": "2023-01-02 17:54:36",
-      "album": {
-        "name": "And Then...Along Comes",
-        "url": "https://open.spotify.com/album/6NDt4G1QiGzMNnri4kxq6f"
-      },
-      "artists": [
-        {
-          "name": "The Association",
-          "url": "https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS"
-        }
-      ],
-      "duration_ms": 207133,
-      "name": "Cherish",
-      "url": "https://open.spotify.com/track/7uGeDI6nJEdUYMsMd7mQyl"
     },
     {
       "added_at": "2023-01-02 17:54:36",

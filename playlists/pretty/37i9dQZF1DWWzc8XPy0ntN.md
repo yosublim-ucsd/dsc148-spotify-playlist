@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 
 > Productores latinos underground para bailar con audífonos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,853 likes - 50 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,852 likes - 50 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 | 20 | [Land III \- Vocal Mix](https://open.spotify.com/track/6UzWlTYOrLyRrBWjpwrehP) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4), [Carmen Ruiz](https://open.spotify.com/artist/6lT6X7ff95ucDbUfPkyZWB) | [Land III](https://open.spotify.com/album/5HzaGyiK0jjF0zGILrZhmG) | 4:44 |
 | 21 | [Hurt](https://open.spotify.com/track/7nZfJZknW5vyEU2uWJhmiI) | [Sangre Nueva](https://open.spotify.com/artist/0YmokPIhVketCTSXBRp20R), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44), [Kelman Duran](https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd) | [Goteo](https://open.spotify.com/album/0bSLm9NcV2xx1cXNyQpy24) | 5:00 |
 | 22 | [Minena](https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa) | [Ranma Entero](https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB) | [Minena](https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H) | 4:35 |
-| 23 | [Koro Kemboro](https://open.spotify.com/track/0WpeystVcDypHRUhfrRBuz) | [Miki Gonzalez](https://open.spotify.com/artist/0ifCMWK5i03zLZL2N5hmWy), [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Koro Kemboro](https://open.spotify.com/album/2a99LCBq1HLVEym4R7iHYF) | 5:03 |
-| 24 | [Esta Noche](https://open.spotify.com/track/2nPpXPgqCAUlmMxjnaaoMG) | [Rodion](https://open.spotify.com/artist/4G12bh08cCVQXa9pO4iIRe), [Alejandro Paz](https://open.spotify.com/artist/58JUcJgPMahuJHcVQM5CNL) | [Esta Noche](https://open.spotify.com/album/4otyeBB3oeu6L7M7tYD1It) | 5:11 |
-| 25 | [Give It To The Music](https://open.spotify.com/track/4lzBK0eegI0rCCEIPg0sVI) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Give It To The Music](https://open.spotify.com/album/7KNJCJsDEnAdLt9WbJD0Th) | 4:54 |
+| 23 | [Give It To The Music](https://open.spotify.com/track/4lzBK0eegI0rCCEIPg0sVI) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Give It To The Music](https://open.spotify.com/album/7KNJCJsDEnAdLt9WbJD0Th) | 4:54 |
+| 24 | [Koro Kemboro](https://open.spotify.com/track/0WpeystVcDypHRUhfrRBuz) | [Miki Gonzalez](https://open.spotify.com/artist/0ifCMWK5i03zLZL2N5hmWy), [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Koro Kemboro](https://open.spotify.com/album/2a99LCBq1HLVEym4R7iHYF) | 5:03 |
+| 25 | [Esta Noche](https://open.spotify.com/track/2nPpXPgqCAUlmMxjnaaoMG) | [Rodion](https://open.spotify.com/artist/4G12bh08cCVQXa9pO4iIRe), [Alejandro Paz](https://open.spotify.com/artist/58JUcJgPMahuJHcVQM5CNL) | [Esta Noche](https://open.spotify.com/album/4otyeBB3oeu6L7M7tYD1It) | 5:11 |
 | 26 | [Jungla](https://open.spotify.com/track/4iS3nysui6BO2ljE6Z00yu) | [Monte](https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG) | [Mirla](https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7) | 3:58 |
 | 27 | [Los muertos no lloran](https://open.spotify.com/track/1XrNKhqFjetXTmVbWXbQNS) | [issuesonissues](https://open.spotify.com/artist/2dzJGWoV8Hdmq2ZnpbTGG0) | [Los muertos no lloran](https://open.spotify.com/album/4Vi8kmWAJAl6SgYXCX7IqG) | 5:40 |
 | 28 | [In Your Head \- Subxet Remix](https://open.spotify.com/track/50mIPnnh5NYXF3I6HapVjq) | [Arhkota](https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ), [Lubna Maher](https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb), [SUBXET](https://open.spotify.com/artist/2qhMUAZvXDDWWpukApVXwX) | [Dreamy Hamilton \(Remixes\)](https://open.spotify.com/album/4X40gozRTAuJrosoKxf9M6) | 4:47 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 | 45 | [Collateral](https://open.spotify.com/track/4DZRbYzbMCMpGZMgZDh3Yz) | [Dr Honey](https://open.spotify.com/artist/2ancfz442teYM3RI1zUcNr) | [Collateral](https://open.spotify.com/album/3ZAvSUMAFSxvb9nRekwxQH) | 4:31 |
 | 46 | [Pebbles Mind Horrors](https://open.spotify.com/track/3FJQL59dUXL0Xq6dJTMXXL) | [Theus Mago](https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3), [Mijo](https://open.spotify.com/artist/4cLXwxOqso1lUoR0SIk0jl), [Rocco Desentis](https://open.spotify.com/artist/6VhNyPvKFaJAzTe5sqPz89) | [Pebbles Mind Horrors](https://open.spotify.com/album/2IwGCkhGFRnn0ojOZRyESl) | 6:10 |
 | 47 | [Forerunner](https://open.spotify.com/track/34S6ZJ8rZqheHQxkQMwjde) | [Bertoldi](https://open.spotify.com/artist/4Li9gBuTUcIRons5AtN4yE) | [Ancient Astronauts](https://open.spotify.com/album/5H71MGGEYaVtTOCtHWZvDq) | 6:55 |
-| 48 | [Resistencia](https://open.spotify.com/track/57JZk6IzsVOdSx7U3iAX58) | [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Resistencia](https://open.spotify.com/album/3TG0EIcV4lRzXY6NQEZD1O) | 4:25 |
-| 49 | [La Nueva Mortalidad](https://open.spotify.com/track/0Mrl7x8w70d4eTm5aaFDMW) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [La Nueva Mortalidad \(Remaster 2021\)](https://open.spotify.com/album/7a2G1S8B3foJ9Ai6U6hOkO) | 5:51 |
+| 48 | [La Nueva Mortalidad](https://open.spotify.com/track/0Mrl7x8w70d4eTm5aaFDMW) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [La Nueva Mortalidad \(Remaster 2021\)](https://open.spotify.com/album/7a2G1S8B3foJ9Ai6U6hOkO) | 5:51 |
+| 49 | [Resistencia](https://open.spotify.com/track/57JZk6IzsVOdSx7U3iAX58) | [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Resistencia](https://open.spotify.com/album/3TG0EIcV4lRzXY6NQEZD1O) | 4:25 |
 | 50 | [Ananda](https://open.spotify.com/track/4OM2bUjoj6mciwhLxwJG2j) | [Akkan](https://open.spotify.com/artist/2CA2ypghZh6RCxJdPOQ4Ze), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Ananda](https://open.spotify.com/album/458iq3ckasP86d5CoLlyJb) | 4:12 |
 
-Snapshot ID: `MCxjZTVlMmVjN2JkYjI3MDllMDA3ODc4NWMxNWVkNDZkZGY2OGYyNWM0`
+Snapshot ID: `MCw2MWFhZWQ4NjQ0NjEyOWI2YWMzZjBiYWZiNWNhZDcwY2EyN2NmODZm`

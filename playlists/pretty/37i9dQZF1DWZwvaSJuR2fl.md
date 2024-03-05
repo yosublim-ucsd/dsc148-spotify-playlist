@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwvaSJuR2fl.md) - [plain]
 
 > Dvorak was deeply passionate about his homeland, traditional folk music, pigeons and train spotting; immerse yourself in his extraordinary world with this essential playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,321 likes - 75 songs - 10 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,357 likes - 75 songs - 10 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwvaSJuR2fl.md) - [plain]
 | 74 | [3 Slavonic Rhapsodies, Op\. 45, B\. 86: No\. 3](https://open.spotify.com/track/25fx6WswOqJVX4rpOZOSUr) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Slovak Philharmonic](https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd), [Zdeněk Košler](https://open.spotify.com/artist/2IpitDGspEKl8VaB3qd4ya) | [Dvorak : Slavonic Dances](https://open.spotify.com/album/03WlnckxEQxcM46jrd3mMZ) | 13:45 |
 | 75 | [Violin Concerto in A minor, Op\. 53: 3\. Finale \(Allegro giocoso, ma non troppo\)](https://open.spotify.com/track/2w1Cl2jswZvdNOC0eVlbZo) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Julia Fischer](https://open.spotify.com/artist/7k2OVLYjYoFDAxfVOl6ZD2), [Tonhalle\-Orchester Zürich](https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg), [David Zinman](https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT) | [Bruch & Dvorak Violin Concertos](https://open.spotify.com/album/76LRTyT5kzhVZ7VMDi3Wbg) | 10:11 |
 
-Snapshot ID: `MCxhMmMwOWM2NDJhOTY1YWM1N2U4ODA3ZjY0NDE2Mjg3YmYzZTExM2Rm`
+Snapshot ID: `MCxmMzc1NzlhMmUyMjk2YzU3YjdhODg4OWRmZmYzMjNhY2YwNGQ0Nzll`

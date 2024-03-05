@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Aswell
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,039 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,055 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [Chicago](https://open.spotify.com/track/3WZhrxWOX9morcWAKhljSi) | [Izuku](https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8) | [Le Roi](https://open.spotify.com/album/1vupLW3SxaTTqGyZ5m449q) | 2:36 |
 | 75 | [Hors\-d'œuvre](https://open.spotify.com/track/5H5oQLVhNRsOHM78KSsykD) | [Or Bleu](https://open.spotify.com/artist/1UZOfkZHdPNjus7591XY2G), [Lary Kidd](https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX) | [Hors\-d'œuvre](https://open.spotify.com/album/5PKOqlxt0khar45jGNunaz) | 3:14 |
 
-Snapshot ID: `MCxiYTgxNzI0ZDcyMzliNWU4ZWYyZmNkYWY0YmYyZTgzYjIwZjI5MTcw`
+Snapshot ID: `MCw0ZWY5ZGFjNDEwMjg5YzIxNmFmN2NiYmJmMDcyYWYxNmI4YTAxZjAy`

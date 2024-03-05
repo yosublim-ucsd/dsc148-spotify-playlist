@@ -1,12 +1,12 @@
 {
   "description": "Our editor\u2019s picks for best Jersey Club songs of the year. Cover: kanii",
-  "num_followers": 7540,
+  "num_followers": 7559,
   "original_name": "Jersey Club Heat Presents Best Songs of 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjJiNGU0MTNjOTNlNzZlNmI5ZmQ2NTRhMjdiODc5MDk1ODYxNzll",
+  "snapshot_id": "MCxmNDY1MmM2NjQzMTdlODBkNjk0OWI0MTJkMzU4NmQ0MGU4MDdkODRm",
   "tracks": [
     {
       "added_at": "2023-12-01 14:44:59",
@@ -115,6 +115,22 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
+        "name": "sins (let me in)",
+        "url": "https://open.spotify.com/album/67sbzjPbujx9SQwLyOetYg"
+      },
+      "artists": [
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        }
+      ],
+      "duration_ms": 128326,
+      "name": "sins (let me in)",
+      "url": "https://open.spotify.com/track/6EQLN1Fl8oy46k4FMwhxug"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
         "name": "jersey luv",
         "url": "https://open.spotify.com/album/6z30pC8bxK3JIWRhLLbXwr"
       },
@@ -175,38 +191,6 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
-        "name": "sins (let me in)",
-        "url": "https://open.spotify.com/album/67sbzjPbujx9SQwLyOetYg"
-      },
-      "artists": [
-        {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
-        }
-      ],
-      "duration_ms": 128326,
-      "name": "sins (let me in)",
-      "url": "https://open.spotify.com/track/6EQLN1Fl8oy46k4FMwhxug"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
-        "name": "Just Wanna Rock",
-        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 123890,
-      "name": "Just Wanna Rock",
-      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
         "name": "nadie sabe lo que va a pasar ma\u00f1ana",
         "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
       },
@@ -243,6 +227,38 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
+        "name": "Just Wanna Rock",
+        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 123890,
+      "name": "Just Wanna Rock",
+      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
+        "name": "Na Na Na",
+        "url": "https://open.spotify.com/album/1jMAUsspY3NLUXvnSDxGd0"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "duration_ms": 100122,
+      "name": "Na Na Na",
+      "url": "https://open.spotify.com/track/6G4ICKUrsPb117ULGyrQ5N"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
         "name": "NO L\u00c8CHE \ud83d\udeab\ud83d\udc45 (feat. Fav\u00e9, Kerchak & Leto)",
         "url": "https://open.spotify.com/album/6HGMONyziFfUCEpMdwbzZn"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 194201,
       "name": "NO L\u00c8CHE",
       "url": "https://open.spotify.com/track/6D1HiF2e3Z0F8FwQ5uLxwn"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
-        "name": "Na Na Na",
-        "url": "https://open.spotify.com/album/1jMAUsspY3NLUXvnSDxGd0"
-      },
-      "artists": [
-        {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
-        }
-      ],
-      "duration_ms": 100122,
-      "name": "Na Na Na",
-      "url": "https://open.spotify.com/track/6G4ICKUrsPb117ULGyrQ5N"
     },
     {
       "added_at": "2023-12-01 14:44:59",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
-        "name": "4AM",
-        "url": "https://open.spotify.com/album/06JTrhAWJhBVIOi8pztqz7"
-      },
-      "artists": [
-        {
-          "name": "DJ Smallz 732",
-          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
-        },
-        {
-          "name": "Jaye EL",
-          "url": "https://open.spotify.com/artist/2TkvSdhtw1VYkBTnZMiDqz"
-        }
-      ],
-      "duration_ms": 114477,
-      "name": "4AM",
-      "url": "https://open.spotify.com/track/12Z3KFQ1OVp732J0xdZpCM"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
         "name": "Real Hips 2",
         "url": "https://open.spotify.com/album/25MTp5gwjXq9Y1iVzpWUth"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 131200,
       "name": "Real Hips 2",
       "url": "https://open.spotify.com/track/740rzQXrAE1qwhQ7UqZPzN"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
+        "name": "4AM",
+        "url": "https://open.spotify.com/album/06JTrhAWJhBVIOi8pztqz7"
+      },
+      "artists": [
+        {
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+        },
+        {
+          "name": "Jaye EL",
+          "url": "https://open.spotify.com/artist/2TkvSdhtw1VYkBTnZMiDqz"
+        }
+      ],
+      "duration_ms": 114477,
+      "name": "4AM",
+      "url": "https://open.spotify.com/track/12Z3KFQ1OVp732J0xdZpCM"
     },
     {
       "added_at": "2023-12-01 14:44:59",

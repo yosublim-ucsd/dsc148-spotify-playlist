@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9SZ5G67Azy.md) - [plain]
 
 > un poquito de esto, un poquito de lo otro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,542 likes - 74 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,633 likes - 74 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9SZ5G67Azy.md) - [plain]
 | 73 | [Wiggy \(Tech House\) \- Remix](https://open.spotify.com/track/2hIaOBZSyIR3KPaocklaRS) | [Chiky Dee Jay](https://open.spotify.com/artist/4z5uBsnmFPLFsGa5hQvLGO) | [Wiggy \(Tech House Remix\)](https://open.spotify.com/album/3eoRq7cc1OScB2ksF7qHoM) | 2:43 |
 | 74 | [Ciudad Mágica \(Techengue\) \- Remix](https://open.spotify.com/track/7k3qyk6QbfxZpsu9WHbvpC) | [Nicolas Maulen](https://open.spotify.com/artist/533fdqxB2K5xhGKWarfXHO), [Nico Morini](https://open.spotify.com/artist/5O9Vy2Uc5xGykqvy6xKn9s) | [Ciudad Mágica \(Techengue Remix\)](https://open.spotify.com/album/03sk7spbSLeA4N3OtuwOE1) | 2:50 |
 
-Snapshot ID: `MCxlMjcxMDQwNzI1MzM5YWNhZGM0MTRmZmVkYWJhMmY3NWI0Mzg0NzVm`
+Snapshot ID: `MCw2NTY5OTFmM2RlNWM5NDk4YjhmYWI1OTI2MDljZjkxNWJjYTdkOTYz`

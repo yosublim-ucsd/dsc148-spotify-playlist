@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 
 > This is Carlos Rafael Rivera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 427 likes - 27 songs - 44 min 20 sec
+[Spotify](https://open.spotify.com/user/spotify) - 428 likes - 27 songs - 44 min 20 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 | 21 | [First Day At School](https://open.spotify.com/track/1qBXkDmnMZXaumaaxwmdYu) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [The Queen's Gambit \(Music from the Netflix Limited Series\)](https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9) | 1:12 |
 | 22 | [A Perfect Dinner](https://open.spotify.com/track/5nYsEif2J6p4qhKzBHBVS7) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 1:33 |
 | 23 | [Welcome To LaBelle](https://open.spotify.com/track/39ymvR1OhXUe0qt7YeFA7y) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 2:15 |
-| 24 | [The Old Mill](https://open.spotify.com/track/0ReMdMIsV9wkI4YHGx6dP7) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Monsieur Spade \(Original Series Soundtrack\)](https://open.spotify.com/album/4xHv6i545xZKmZR2J5ui1u) | 2:25 |
-| 25 | [Arrival to School](https://open.spotify.com/track/0uyHHhKlmYgwmUiEFi0Puk) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Just Beyond \(Original Soundtrack\)](https://open.spotify.com/album/4KXlP5OHXybdqq7ul913r1) | 1:18 |
+| 24 | [Arrival to School](https://open.spotify.com/track/0uyHHhKlmYgwmUiEFi0Puk) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Just Beyond \(Original Soundtrack\)](https://open.spotify.com/album/4KXlP5OHXybdqq7ul913r1) | 1:18 |
+| 25 | [The Old Mill](https://open.spotify.com/track/0ReMdMIsV9wkI4YHGx6dP7) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Monsieur Spade \(Original Series Soundtrack\)](https://open.spotify.com/album/4xHv6i545xZKmZR2J5ui1u) | 2:25 |
 | 26 | [Quinn Persiste](https://open.spotify.com/track/1VzTxjZoXavQIzjt299tQE) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Chupa \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6GGqqXXRUwPfbkLaUD65mm) | 1:03 |
 | 27 | [Sam Spade](https://open.spotify.com/track/27vtIAcLqCDrwQ5jkyDDrY) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Monsieur Spade \(Original Series Soundtrack\)](https://open.spotify.com/album/4xHv6i545xZKmZR2J5ui1u) | 2:27 |
 
-Snapshot ID: `Mjg0OTExMzksMDAwMDAwMDAwNjVjZjcxN2QyMTg5ZGNhN2M5YjZkNDg1YzZmMjFlZQ==`
+Snapshot ID: `Mjg0OTI1NjksMDAwMDAwMDAyY2ViOTUzMDE1YmUxYWFhYzcwMjFhZTA3YmQ5OGZhNw==`

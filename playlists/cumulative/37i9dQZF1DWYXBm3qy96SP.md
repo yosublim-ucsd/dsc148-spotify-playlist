@@ -4,7 +4,7 @@
 
 > 話題のロックヒットをVolume上げて爆音で。Cover: Twenty One Pilots
 
-1,154 songs - 2 day 18 hr 19 min
+1,155 songs - 2 day 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -702,6 +702,7 @@
 | [No Strings](https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [No Strings](https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb) | 3:33 | 2024-01-18 | 2024-03-01 |
 | [No Thank You For The Music](https://open.spotify.com/track/02KgdbM5JkhtBUBIkjFaaA) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [No Thank You For The Music](https://open.spotify.com/album/5BtpS9O9Z6wGYb8RKMime5) | 3:49 | 2024-01-04 | 2024-01-12 |
 | [Nobody](https://open.spotify.com/track/4Rs2N7ewIjanXUNYtMKK3j) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Life Is But a Dream…](https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa) | 5:53 | 2023-06-22 | 2023-11-16 |
+| [Nobody](https://open.spotify.com/track/581mukhDjta60CCwpvnjL9) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Babylon \(Revised Online Music\)](https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg) | 3:56 | 2024-03-04 |  |
 | [Noel Groove](https://open.spotify.com/track/3N9L15JK1SEhBvCPQfqRo8) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Kaiser Chiefs' Easy Eighth Album](https://open.spotify.com/album/5dkbWYrgm2ysC8bObtnjON) | 3:02 | 2024-02-29 |  |
 | [Normal People Things](https://open.spotify.com/track/1vJmd8YIIAz6XQ9GHlUr5p) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Normal People Things](https://open.spotify.com/album/2fzxvtlp5mqgJktyPAt5UC) | 2:44 | 2023-10-05 | 2024-01-19 |
 | [Normalize \- Slowed Down](https://open.spotify.com/track/7EjR7vAcS4cF5sxnWKxIEN) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Normalize \(Slowed Down\)](https://open.spotify.com/album/3s5LZva6p515SYCNuEch3w) | 5:08 | 2023-07-27 | 2023-08-04 |
@@ -790,7 +791,7 @@
 | [Poison](https://open.spotify.com/track/0qR6TJycrghAFM2yl3copn) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j) | [5 Parts of a Heartbreak](https://open.spotify.com/album/6Iw3lron5fAOVcGJbGno1t) | 3:30 | 2023-11-30 | 2023-12-08 |
 | [Poison Pill](https://open.spotify.com/track/7u0uisz8AVu8vTeEYyq4XM) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Poison Pill](https://open.spotify.com/album/3BGvaxQ6xxWxTM9sJYTvca) | 3:17 | 2023-03-23 | 2023-03-31 |
 | [POP POP POP](https://open.spotify.com/track/228SlXXnL6q20pOGSW4tFl) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [TANGK](https://open.spotify.com/album/6JBHYSMp3KYqiTTjmn26BU) | 4:16 | 2024-02-15 | 2024-02-17 |
-| [POP POP POP](https://open.spotify.com/track/7f4azWcTVEDHZ7DSc5eh5a) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [TANGK](https://open.spotify.com/album/6U11VNHZAfYY3E9V4oFB2p) | 4:16 | 2024-02-15 |  |
+| [POP POP POP](https://open.spotify.com/track/7f4azWcTVEDHZ7DSc5eh5a) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [TANGK](https://open.spotify.com/album/6U11VNHZAfYY3E9V4oFB2p) | 4:16 | 2024-02-15 | 2024-03-05 |
 | [PORN ACTING\*\[FLIP\] \- Spotify Singles](https://open.spotify.com/track/01HlFHMzbPwNv7gbPVufH1) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Spotify Singles](https://open.spotify.com/album/5LXycmANKuQOmsJK2ddbwi) | 3:06 | 2023-06-15 | 2023-06-23 |
 | [Portrait of a Blank Slate](https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Wake Up & It's Over](https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr) | 3:47 | 2023-05-11 | 2024-01-19 |
 | [POS](https://open.spotify.com/track/2dGj0K0iIrgb3ie1QSLtSL) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [POS](https://open.spotify.com/album/0zS7Tn6JbtibKKAHabrjA5) | 2:13 | 2023-04-14 | 2023-09-01 |

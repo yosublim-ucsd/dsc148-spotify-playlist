@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 47 min 2 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 46 min 55 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Generation Dead](https://open.spotify.com/track/67cxl7KB5IG6dsWAZvmWJ2) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist](https://open.spotify.com/album/3QGWtX1z0GAuAVIFAFcGUM) | 3:43 |
-| 2 | [Crazy \- LP Edit](https://open.spotify.com/track/4kPtKY0eOZcxfehet2aiYK) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [The Very Best of Aerosmith: Devil's Got a New Disguise](https://open.spotify.com/album/4kxrUUfNn4zgpSIchf06EP) | 4:03 |
-| 3 | [Fotos y Autógrafos](https://open.spotify.com/track/4cH9m3wxUWgkIzbLPByL24) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Ni por la Razon, Ni por la Fuerza \- Antologia](https://open.spotify.com/album/3lw3Fh1bzFCGQaDRE1AguX) | 3:29 |
-| 4 | [Crazy](https://open.spotify.com/track/74irxdVWstNlEQjsvArITq) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79) | 5:16 |
-| 5 | [Bleed It Out](https://open.spotify.com/track/3yT0WjcKrZnJkTv2sjIQaB) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes To Midnight](https://open.spotify.com/album/5Lct07PzJt9QJGsY7JOrPX) | 2:44 |
-| 6 | [Partita in C Major: Gigue](https://open.spotify.com/track/3nWbL8WpxaoJxfBxcCnFms) | [Tyler Hawkins](https://open.spotify.com/artist/6UVaQ6rZvJoKnDMlEXyonx), [Christopher Irvine](https://open.spotify.com/artist/4h0HfIayKkogqCic5PUKrx) | [Georg Philipp Telemann Lute Duets for Classical Guitar](https://open.spotify.com/album/233eqIMGit9gAegpmLg7r6) | 1:32 |
-| 7 | [tnteen](https://open.spotify.com/track/4jMfntwDOIdSRz7kmeCgpG) | [feeo](https://open.spotify.com/artist/03aiitie1Nvoq2vvHF3kLR) | [tnteen](https://open.spotify.com/album/73iDgH6wMxJbKUC6UPt7G4) | 3:55 |
-| 8 | [Hurt](https://open.spotify.com/track/4HbVVd2D3HKYe7PR0uEn1q) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral](https://open.spotify.com/album/4zvKUPP4GO4Q6GcAlhtvfF) | 6:14 |
-| 9 | [Fibbs](https://open.spotify.com/track/4WySzY2FX8WtsElUwxyagE) | [No Windows](https://open.spotify.com/artist/2UgDlLTqaZiPL107iNQSOr) | [Fibbs](https://open.spotify.com/album/5luLw5YlLKlA2P8WR30b9l) | 3:28 |
-| 10 | [Sube a Nacer Conmigo Hermano](https://open.spotify.com/track/4fvBHLNI8Ssmzll6uXdaOr) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Alturas De Macchu Picchu](https://open.spotify.com/album/454rwJ7uRe7q5VW7dUj1XH) | 4:47 |
-| 11 | [Seven Days](https://open.spotify.com/track/2j55B9EwLrsYZDlTJIXrDU) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison \(Deluxe Version\)](https://open.spotify.com/album/4uNzDULQ9RAy0nxGaPbCDn) | 3:24 |
-| 12 | [Ramble On \- 1990 Remaster](https://open.spotify.com/track/3MODES4TNtygekLl146Dxd) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 4:23 |
+| 1 | [:\)](https://open.spotify.com/track/5wYliyZ7Zf59vy1RJW6enS) | [Policias y Ladrones](https://open.spotify.com/artist/6Y9quCNVfxgIE308HSMpEd) | [Nubes](https://open.spotify.com/album/7t0vBigNHXs9SuwH1AaJXd) | 2:35 |
+| 2 | [Bailando Solo](https://open.spotify.com/track/1wGNjZQoO4Ac5zotF3aZTb) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [La Velocidad de la Luz](https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG) | 4:27 |
+| 3 | [Be My Lover](https://open.spotify.com/track/7FoUzKTSQp25oe32pY9z5p) | [La Bouche](https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie) | [Sweet Dreams](https://open.spotify.com/album/4adqftIYavKgrnLyOD5gxZ) | 4:00 |
+| 4 | [touched](https://open.spotify.com/track/0NH8wNkvyxJpiNdT1qQrl1) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [loveless](https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb) | 0:56 |
+| 5 | [to here knows when](https://open.spotify.com/track/2Qt7TmKGuet6bKJzhNM0YA) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [loveless](https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb) | 5:31 |
+| 6 | [Feels Like Forever](https://open.spotify.com/track/3iPMVDlzpkXuYkvsa1PRQj) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Restoring Force](https://open.spotify.com/album/4cntNMQjpROMQmevKb8H9f) | 3:13 |
+| 7 | [A Decade Under The Influence](https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Where You Want To Be](https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9) | 4:07 |
+| 8 | [Du hast](https://open.spotify.com/track/5awDvzxWfd53SSrsRZ8pXO) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 3:54 |
+| 9 | [La Diabla \(Electro Remix\)](https://open.spotify.com/track/6ZZ4I66vS4x4arMNwBht2m) | [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473) | [La Diabla \(Electro Remix\)](https://open.spotify.com/album/0Sf5WOcZk8n9NIgp2LmrKa) | 2:16 |
+| 10 | [Like a Prayer](https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Prayer](https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV) | 5:40 |
+| 11 | [The March Of The Black Queen \- 2011 Remaster](https://open.spotify.com/track/3EjmOndmysmwooYyictOm3) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Deep Cuts \(Vol 1\. / 1973\-1976\)](https://open.spotify.com/album/5SVkLrV4I4cft9E0YI8RmI) | 6:38 |
+| 12 | [Dead Plants](https://open.spotify.com/track/3Q8WLratqyNqJxsJPyHLIC) | [Better Joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [Dead Plants](https://open.spotify.com/album/0ieQOpcO7YmOpVpvV6WHDl) | 3:32 |
 
-Snapshot ID: `NDYsZTAzOGUwNjE0ZWU0ZjdhYjZkYzZlOWQ1OGI4Y2I2NWU5YjlmYWRjYg==`
+Snapshot ID: `NDcsZThhN2UxYjRjYzUwMzQ4ZjcxYWJlY2ZiMzZjYWYyODA1NjgzMmJlYw==`

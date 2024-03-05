@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 2113,
+  "2024-03-05": 2163,
   "date_first_scraped": "2024-01-11",
   "description": "Our editors' picks of best tracks of 2023 by independent, developing artists from around the world. Cover: Searows\n",
   "name": "Fresh Finds: Class of 2023",
@@ -309,7 +309,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 210315,
       "name": "Black Sheep",
       "url": "https://open.spotify.com/track/1mhvJmzZDow4Nfcb2tSG6k"
@@ -1151,6 +1151,24 @@
       "duration_ms": 199454,
       "name": "Lose You - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3QfI3tTncp1CjYLMypO2vA"
+    },
+    {
+      "album": {
+        "name": "Love Language",
+        "url": "https://open.spotify.com/album/5N8NVRBbCenIoCO2QMjdNT"
+      },
+      "artists": [
+        {
+          "name": "Zinadelphia",
+          "url": "https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208965,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/2hn11FTEwM9YrJyz3XnU5M"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 
 > Soft songs that gives you a gentle start of the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,771 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,783 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 9 | [Collide \- Acoustic Version](https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg) | [Howie Day](https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer) | [Stop All the World Now \(Special Edition\)](https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y) | 4:37 |
 | 10 | [Too Good At Goodbyes \- Acoustic](https://open.spotify.com/track/1JhuXhMiTBavuRXQTsGOdV) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Too Good At Goodbyes \(Acoustic\)](https://open.spotify.com/album/33wYkcgcs44wHh8QCO6G7p) | 3:40 |
 | 11 | [Crazier](https://open.spotify.com/track/0PQ84nbR1Owkr7RtGBmZI7) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Crazier](https://open.spotify.com/album/1RKdiat44rgOshOsNdgSXf) | 3:53 |
-| 12 | [Such A Simple Thing](https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Part Of The Light](https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f) | 4:56 |
-| 13 | [Wild Love \- Acoustic](https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Wild Love \(Acoustic\)](https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk) | 3:09 |
+| 12 | [Wild Love \- Acoustic](https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Wild Love \(Acoustic\)](https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk) | 3:09 |
+| 13 | [Such A Simple Thing](https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Part Of The Light](https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f) | 4:56 |
 | 14 | [Light Years](https://open.spotify.com/track/2GNj9KRwpxBWgEiPQc3jEj) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:33 |
 | 15 | [Amelie](https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:19 |
 | 16 | [Bad Liar – Stripped](https://open.spotify.com/track/6hFi0gXP8KItwMqfBgf44b) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Bad Liar – Stripped](https://open.spotify.com/album/58401eNNELkIVx3xiwzJFy) | 4:13 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 19 | [Just You and I \- Acoustic](https://open.spotify.com/track/1vkUmedJVhScV9MmRsLGSY) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [What a Time To Be Alive](https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC) | 3:18 |
 | 20 | [When You Love Someone \- Acoustic](https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [When You Love Someone \(Acoustic\)](https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl) | 3:30 |
 | 21 | [Such Great Heights](https://open.spotify.com/track/6dDxgfvM8pJm7AzmLZB1nN) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Around the Well](https://open.spotify.com/album/5tOzXq44rU4yCCVY94f6m7) | 4:11 |
-| 22 | [Mean It](https://open.spotify.com/track/5IyuGEmlFsnp1TN1M9OSd8) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Mean It](https://open.spotify.com/album/0vBpaPYo5I3s90tEmgeacl) | 2:51 |
-| 23 | [Funeral](https://open.spotify.com/track/4GvdsVns332wQ3JsWAg2OV) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 3:52 |
+| 22 | [Funeral](https://open.spotify.com/track/4GvdsVns332wQ3JsWAg2OV) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 3:52 |
+| 23 | [Mean It](https://open.spotify.com/track/5IyuGEmlFsnp1TN1M9OSd8) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Mean It](https://open.spotify.com/album/0vBpaPYo5I3s90tEmgeacl) | 2:51 |
 | 24 | [Front Porch](https://open.spotify.com/track/5sVyefkGgQeYCgnqr4KslQ) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:51 |
 | 25 | [Issues \- Acoustic](https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Issues \(Acoustic\)](https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC) | 2:55 |
 | 26 | [Naked \- Acoustic Version](https://open.spotify.com/track/77vv9vprh6SazfOXIJgYpx) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Naked \(Acoustic Version\)](https://open.spotify.com/album/2aOYprwJcCTSVk3ARMlOMO) | 3:50 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 95 | [Fine On Your Own](https://open.spotify.com/track/5GieMXCbY0rFATTrwyMqS2) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [God Save The Dream](https://open.spotify.com/album/4OX4R0SPj4MkfLcQqsMcY5) | 3:42 |
 | 96 | [I'm Not The Only One \- Acoustic Version](https://open.spotify.com/track/4CtKNyoQqS7Tm2fsftrNy9) | [Hamilton](https://open.spotify.com/artist/0djOiFh4VBdH2zXqJOvEnn) | [I'm Not The Only One \(Acoustic Version\)](https://open.spotify.com/album/6QDUsAAMMBkqX8y2S5N884) | 3:33 |
 | 97 | [Hailey \- Acoustic](https://open.spotify.com/track/5q529aJou2KbRCzDj5TYtI) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Hailey \(Acoustic\)](https://open.spotify.com/album/4xEYNfrEr2Jz9e52KevWRm) | 3:28 |
-| 98 | [Hold On To Happiness](https://open.spotify.com/track/2GpHwqp9mNHyma8C3HliD8) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Hold On To Happiness](https://open.spotify.com/album/69cdPGw9UxCq2aoO4yiEjZ) | 3:37 |
-| 99 | [Used To Be Friends](https://open.spotify.com/track/4fbeu4wV0MOBukfwLpj9gB) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Used To Be Friends](https://open.spotify.com/album/79akwCBsh45bYm4j5Gumix) | 5:35 |
-| 100 | [Heaven Knows, Right?](https://open.spotify.com/track/4XJES8gXvP1HrkAfXWa97O) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Dear Earth, I’m Lost](https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE) | 4:20 |
+| 98 | [Used To Be Friends](https://open.spotify.com/track/4fbeu4wV0MOBukfwLpj9gB) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Used To Be Friends](https://open.spotify.com/album/79akwCBsh45bYm4j5Gumix) | 5:35 |
+| 99 | [Heaven Knows, Right?](https://open.spotify.com/track/4XJES8gXvP1HrkAfXWa97O) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Dear Earth, I’m Lost](https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE) | 4:20 |
+| 100 | [With Or Without You \(Acoustic\)](https://open.spotify.com/track/1691RkrJC65WAaLJhJryKS) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [With Or Without You \(Acoustic\)](https://open.spotify.com/album/1PSL58r4ZGDdNtJ2MiXclC) | 3:26 |
 
-Snapshot ID: `MCw0NjMzMGYzYjg5ZTA1YjQxZjkwMzU2YjI0OWU5MzE1YjQ1NDVkNjQw`
+Snapshot ID: `MCw0MWY1YjA0MTY4YzRiMGM0ZDgzNDNjOTU0ZDc2ZDM1NDlkZDBlYWRk`

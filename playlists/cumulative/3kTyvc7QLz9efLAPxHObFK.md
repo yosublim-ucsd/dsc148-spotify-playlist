@@ -4,7 +4,7 @@
 
 > 
 
-1,157 songs - 2 day 16 hr 45 min
+1,158 songs - 2 day 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -979,6 +979,7 @@
 | [The Darkness](https://open.spotify.com/track/3P3GzjEuDc43vUT3Qu5E9j) | [illuszion](https://open.spotify.com/artist/1SxMLa74v5XKzGwdxWNhgp), [Opgekonkerd](https://open.spotify.com/artist/4wCyv0VP2QBapdMQvXrCFN) | [The Darkness](https://open.spotify.com/album/4WxycQThoIKv3azNyIgXE8) | 2:55 | 2023-12-30 |  |
 | [The Edge](https://open.spotify.com/track/5YPd2V6hHNZq07I7Wd5xfO) | [Matduke](https://open.spotify.com/artist/2iTdqBeEWz0QriMt81o9CN) | [The Edge](https://open.spotify.com/album/7cHRhRltUf745mCr0Ir5Wy) | 3:44 | 2022-11-29 |  |
 | [The Edge \- Extended Mix](https://open.spotify.com/track/5F9oD4zOPEIp3FMvGU3g4E) | [Spearbreak](https://open.spotify.com/artist/4Ek1LKLop7zR9278Wg1FVE) | [The Edge](https://open.spotify.com/album/4KBaTGxcxGryOh05wtF61G) | 4:25 | 2023-04-10 |  |
+| [The Energy](https://open.spotify.com/track/6KQyU88XaFtoKFlmM4TnM6) | [Unlocked](https://open.spotify.com/artist/1MpKBwjaYMkO0iNWcEsRmj) | [The Energy](https://open.spotify.com/album/0sPh3CchjdSmNssPi4qVUy) | 2:21 | 2024-03-04 |  |
 | [The Fallout](https://open.spotify.com/track/6gQN8T6FQdzXOnHMNRSOwT) | [E\-Force](https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C), [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [The Fallout](https://open.spotify.com/album/73xvvycqNUu0WBmVF0AlEz) | 3:29 | 2023-09-22 |  |
 | [The Fist And The Hammer](https://open.spotify.com/track/1WqPj6LF4DlGyi60JhJ9Bs) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7) | [The Fist And The Hammer](https://open.spotify.com/album/1VqVbRpmGbjx9YUbsjsKvU) | 3:50 | 2023-06-24 |  |
 | [The Fist And The Hammer](https://open.spotify.com/track/1r4sVxB9x95LE028g9exm1) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7) | [The Wreckoning](https://open.spotify.com/album/18Mnzx0terGHSvFhPyzaCB) | 3:50 | 2023-07-14 |  |

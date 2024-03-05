@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 210367,
+  "2024-03-05": 210513,
   "date_first_scraped": "2023-11-11",
   "description": "This is La Santa Grifa. The essential tracks, all in one playlist.",
   "name": "This Is La Santa Grifa",
@@ -637,7 +637,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 190333,
       "name": "Muerto En Vida",
       "url": "https://open.spotify.com/track/6fUvI9lKWniwvioNewRWOr"
@@ -1065,6 +1065,24 @@
       "duration_ms": 233064,
       "name": "Tocame",
       "url": "https://open.spotify.com/track/4dWY6RpM9zmYvwqxrNvwtV"
+    },
+    {
+      "album": {
+        "name": "Un Minuto",
+        "url": "https://open.spotify.com/album/0dbSRcAFzkMLHDu5WtQhZ9"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60116,
+      "name": "Un Minuto",
+      "url": "https://open.spotify.com/track/1bteISG6lnlop62KsGT6CL"
     },
     {
       "album": {

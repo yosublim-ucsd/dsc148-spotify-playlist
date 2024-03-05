@@ -1,12 +1,12 @@
 {
   "description": "80s jams for the road",
-  "num_followers": 138889,
+  "num_followers": 139415,
   "original_name": "80s Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjM4ZTEyNzRkODM0M2I4MzRkNmNjYWU2M2JkNjVkOWRiNThiYTMz",
+  "snapshot_id": "MCwxODA3MDVhZGVhN2QzOTkwM2RiMjc1ZjNlMTk0YzI0YzU2MzYxMTU4",
   "tracks": [
     {
       "added_at": "2023-06-22 12:53:02",
@@ -816,12 +816,8 @@
       },
       "artists": [
         {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        },
-        {
-          "name": "Miami Sound Machine",
-          "url": "https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F"
+          "name": "Gloria Estefan And Miami Sound Machine",
+          "url": "https://open.spotify.com/artist/2Gop8SbSVt5SaJzuaRFa7D"
         }
       ],
       "duration_ms": 255760,

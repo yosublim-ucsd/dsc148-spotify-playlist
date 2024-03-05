@@ -1,12 +1,12 @@
 {
   "description": "GUTS ON TOUR!!!",
-  "num_followers": 2165852,
+  "num_followers": 2165775,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDhmNGE3Y2Y0NmQ3MmNiN2U3Yjk0YThhOGVlMWU5YTU1Yjk5MmVl",
+  "snapshot_id": "MCw5ZmVjM2FiM2Y1N2IxOTJhNTA0OGE5OWQzMjE1NzcxODQ2MDk0M2Mz",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -555,6 +555,22 @@
       "duration_ms": 175057,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj"
+    },
+    {
+      "added_at": "2024-03-04 16:07:49",
+      "album": {
+        "name": "in your arms",
+        "url": "https://open.spotify.com/album/27xZcpqdPn1ZBvsdnRJuvQ"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 199786,
+      "name": "in your arms",
+      "url": "https://open.spotify.com/track/2CPDwUoC69q6ric0kjUf72"
     },
     {
       "added_at": "2024-02-14 22:36:40",
@@ -1145,54 +1161,6 @@
       "url": "https://open.spotify.com/track/5rzxppLxFWvtwzjmyppcqk"
     },
     {
-      "added_at": "2024-02-05 03:39:20",
-      "album": {
-        "name": "Constellations (Piano Version)",
-        "url": "https://open.spotify.com/album/4hv9qLSPvzL09HaIlL8JnP"
-      },
-      "artists": [
-        {
-          "name": "Jade LeMac",
-          "url": "https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63"
-        }
-      ],
-      "duration_ms": 230073,
-      "name": "Constellations - Piano Version",
-      "url": "https://open.spotify.com/track/4uTeAvKMQMqgIneew9Ic7X"
-    },
-    {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
-        "name": "One Man Show",
-        "url": "https://open.spotify.com/album/58GUyjbezG6kYGisHTNcBy"
-      },
-      "artists": [
-        {
-          "name": "Andi",
-          "url": "https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V"
-        }
-      ],
-      "duration_ms": 178068,
-      "name": "One Man Show",
-      "url": "https://open.spotify.com/track/3cv94ffVsAqitFcbwlr2CV"
-    },
-    {
-      "added_at": "2024-02-05 03:39:20",
-      "album": {
-        "name": "HEAVEN",
-        "url": "https://open.spotify.com/album/3oM4p4ItqZZnvLXgzPkJ4h"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 174595,
-      "name": "HEAVEN",
-      "url": "https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD"
-    },
-    {
       "added_at": "2024-02-16 05:00:32",
       "album": {
         "name": "Middle Of The Night",
@@ -1223,22 +1191,6 @@
       "duration_ms": 159400,
       "name": "exes",
       "url": "https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8"
-    },
-    {
-      "added_at": "2024-02-09 05:01:00",
-      "album": {
-        "name": "Maybe Life Is Good",
-        "url": "https://open.spotify.com/album/3JrelA49G1d8BdKIaJ64YO"
-      },
-      "artists": [
-        {
-          "name": "Em Beihold",
-          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
-        }
-      ],
-      "duration_ms": 190853,
-      "name": "Maybe Life Is Good",
-      "url": "https://open.spotify.com/track/1Yg1vxpbL10eBFoKXHrFMn"
     },
     {
       "added_at": "2024-02-16 05:00:32",
@@ -1341,22 +1293,6 @@
       "url": "https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4"
     },
     {
-      "added_at": "2024-02-09 05:38:32",
-      "album": {
-        "name": "Love Me Better",
-        "url": "https://open.spotify.com/album/5DQxMNtoUPlBMDrCMvasaO"
-      },
-      "artists": [
-        {
-          "name": "Corbyn Besson",
-          "url": "https://open.spotify.com/artist/1bWUA5b7GHPymK5dZrf7tj"
-        }
-      ],
-      "duration_ms": 151544,
-      "name": "Love Me Better",
-      "url": "https://open.spotify.com/track/60JBgHmNQ437PrKp0eWFDn"
-    },
-    {
       "added_at": "2024-02-05 03:39:20",
       "album": {
         "name": "Bad Feeling (Oompa Loompa)",
@@ -1371,22 +1307,6 @@
       "duration_ms": 133754,
       "name": "Bad Feeling (Oompa Loompa)",
       "url": "https://open.spotify.com/track/535x8FTM99UR6ZhZN8BM4A"
-    },
-    {
-      "added_at": "2024-02-05 03:39:20",
-      "album": {
-        "name": "Enough of Me",
-        "url": "https://open.spotify.com/album/0M9JDqqqxKkFyd2WWRsd8C"
-      },
-      "artists": [
-        {
-          "name": "Rachel Grae",
-          "url": "https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn"
-        }
-      ],
-      "duration_ms": 148978,
-      "name": "Enough of Me",
-      "url": "https://open.spotify.com/track/5ypUyCDoZp66D7TagjnJhq"
     },
     {
       "added_at": "2024-02-05 03:39:20",
@@ -1415,38 +1335,6 @@
       "duration_ms": 187555,
       "name": "Popular (Sped Up) (with Playboi Carti & Madonna)",
       "url": "https://open.spotify.com/track/7H3cuCPaX9WHZXQ0Q9RlxH"
-    },
-    {
-      "added_at": "2024-02-05 03:39:20",
-      "album": {
-        "name": "Skin and Bones",
-        "url": "https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 214632,
-      "name": "Skin and Bones",
-      "url": "https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91"
-    },
-    {
-      "added_at": "2024-02-05 03:39:20",
-      "album": {
-        "name": "The Good Witch",
-        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 208280,
-      "name": "History Of Man",
-      "url": "https://open.spotify.com/track/7ijN634pExtKjNIm7vvvAa"
     },
     {
       "added_at": "2024-02-05 03:39:20",
@@ -1711,22 +1599,6 @@
       "duration_ms": 200255,
       "name": "Water",
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
-    },
-    {
-      "added_at": "2024-02-05 03:39:20",
-      "album": {
-        "name": "Show Me How",
-        "url": "https://open.spotify.com/album/7mUYDBqNiddmKxuKrnBEKQ"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 215110,
-      "name": "Show Me How",
-      "url": "https://open.spotify.com/track/75IQVo8hqI1iwVZyvkN2VT"
     },
     {
       "added_at": "2024-02-05 03:39:20",

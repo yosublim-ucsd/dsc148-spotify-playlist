@@ -1,12 +1,12 @@
 {
   "description": "Spain without the S ",
-  "num_followers": 471314,
+  "num_followers": 471514,
   "original_name": "teen angst",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZmZjOGYzNjBlMDQ4MDlmYjI1YTczMzE5MzExNjU4MzZiYjBkNjBi",
+  "snapshot_id": "MCxhNmZkMzVkZTM0OGJiMmQ4NzQ5YzY0YWE1Mjc2YTAxMzY0NzU0ODg2",
   "tracks": [
     {
       "added_at": "2024-01-23 17:57:44",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-01-23 17:57:44",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 143746,
-      "name": "brutal",
-      "url": "https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC"
-    },
-    {
-      "added_at": "2024-01-23 17:57:44",
-      "album": {
         "name": "Don't You Fake It",
         "url": "https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2"
       },
@@ -387,18 +371,18 @@
     {
       "added_at": "2024-01-23 17:57:44",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
       "artists": [
         {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Sk8er Boi",
-      "url": "https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU"
+      "duration_ms": 143746,
+      "name": "brutal",
+      "url": "https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC"
     },
     {
       "added_at": "2024-01-23 17:57:44",
@@ -415,6 +399,22 @@
       "duration_ms": 229093,
       "name": "Sugar, We're Goin Down",
       "url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"
+    },
+    {
+      "added_at": "2024-01-23 17:57:44",
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Sk8er Boi",
+      "url": "https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU"
     },
     {
       "added_at": "2024-01-23 17:57:44",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-01-23 17:57:44",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 218920,
-      "name": "Come As You Are",
-      "url": "https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV"
-    },
-    {
-      "added_at": "2024-01-23 17:57:44",
-      "album": {
         "name": "Collide With The Sky",
         "url": "https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk"
       },
@@ -503,6 +487,22 @@
     {
       "added_at": "2024-01-23 17:57:44",
       "album": {
+        "name": "All Killer, No Filler",
+        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 207093,
+      "name": "In Too Deep",
+      "url": "https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL"
+    },
+    {
+      "added_at": "2024-01-23 17:57:44",
+      "album": {
         "name": "The Young and The Hopeless",
         "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
       },
@@ -519,18 +519,18 @@
     {
       "added_at": "2024-01-23 17:57:44",
       "album": {
-        "name": "All Killer, No Filler",
-        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
       "artists": [
         {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 207093,
-      "name": "In Too Deep",
-      "url": "https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL"
+      "duration_ms": 218920,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV"
     },
     {
       "added_at": "2024-01-23 17:57:44",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-01-23 17:57:44",
       "album": {
-        "name": "Now You See Inside",
-        "url": "https://open.spotify.com/album/1eDNzJLCxus27R8ZC2hS3z"
-      },
-      "artists": [
-        {
-          "name": "SR-71",
-          "url": "https://open.spotify.com/artist/7fTcs8dn9y6XuB2IqZMzBq"
-        }
-      ],
-      "duration_ms": 167200,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/3iwsyTZzOWHZbHffBEyi1N"
-    },
-    {
-      "added_at": "2024-01-23 17:57:44",
-      "album": {
         "name": "FANDOM",
         "url": "https://open.spotify.com/album/6W5NAcsq5dV2vMcxPFWXTb"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 162577,
       "name": "Turbulent",
       "url": "https://open.spotify.com/track/4ig3DcNoj3UfPdhL2Rw9J1"
+    },
+    {
+      "added_at": "2024-01-23 17:57:44",
+      "album": {
+        "name": "Now You See Inside",
+        "url": "https://open.spotify.com/album/1eDNzJLCxus27R8ZC2hS3z"
+      },
+      "artists": [
+        {
+          "name": "SR-71",
+          "url": "https://open.spotify.com/artist/7fTcs8dn9y6XuB2IqZMzBq"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/3iwsyTZzOWHZbHffBEyi1N"
     },
     {
       "added_at": "2024-01-23 17:57:44",

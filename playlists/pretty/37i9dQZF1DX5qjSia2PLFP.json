@@ -1,12 +1,12 @@
 {
   "description": "New music breaking waves. Cover: <a href=\"spotify:artist:5fi7lIgJGH3RgUpJYcffQ7\">4batz</a> ",
-  "num_followers": 96483,
+  "num_followers": 96634,
   "original_name": "Ripple Effect",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzA5MTk4YmEyZTM5N2M3Yzk4Zjc3YWZmNDc5M2NiZmY0Mjk5OGU2",
+  "snapshot_id": "MCwyMjM3ZjYwYzYyY2NlZDVjYWNlNTc0ZjczMTRmNjdmYTBjYTcyOWM4",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Change My Wayz",
-        "url": "https://open.spotify.com/album/0TwgVRH8pQ5tN2j7b8M0eB"
-      },
-      "artists": [
-        {
-          "name": "Luh Tyler",
-          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
-        }
-      ],
-      "duration_ms": 115013,
-      "name": "Change My Wayz",
-      "url": "https://open.spotify.com/track/0x8vQaiUn7BZ37Wpxd4Mms"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Lost Without U",
         "url": "https://open.spotify.com/album/68BKLPF3wZi6NeV9qT7Ob2"
       },
@@ -1239,6 +1223,30 @@
       "duration_ms": 178909,
       "name": "SAME MISTAKE",
       "url": "https://open.spotify.com/track/3VQ5lMMpas43wu1xIQuu0s"
+    },
+    {
+      "added_at": "2024-03-04 21:12:54",
+      "album": {
+        "name": "Get Jiggy",
+        "url": "https://open.spotify.com/album/5Wu2Yq8gvAUn7wozWctQxN"
+      },
+      "artists": [
+        {
+          "name": "Baby Kia",
+          "url": "https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L"
+        },
+        {
+          "name": "Lil Slixk",
+          "url": "https://open.spotify.com/artist/30r98xL28PIfjUG4JwyWaM"
+        },
+        {
+          "name": "Lil Reaper",
+          "url": "https://open.spotify.com/artist/0pXg9udRX8G5ra0m4xllGv"
+        }
+      ],
+      "duration_ms": 144348,
+      "name": "Get Jiggy",
+      "url": "https://open.spotify.com/track/3ShDW3FYg06Cc5BJV94sEj"
     }
   ],
   "unique_name": "Ripple Effect",

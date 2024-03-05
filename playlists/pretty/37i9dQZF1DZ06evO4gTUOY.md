@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gTUOY.md) - [plain]
 
 > This is Eminem\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,640,377 likes - 52 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,640,892 likes - 52 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gTUOY.md) - [plain]
 | 18 | [What's The Difference](https://open.spotify.com/track/1SWVDBtw6h3tm9OehOkDhv) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Xzibit](https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 4:04 |
 | 19 | [Rap God](https://open.spotify.com/track/6or1bKJiZ06IlK0vFvY75k) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP2 \(Deluxe\)](https://open.spotify.com/album/6DN7GcZF1HywzrkGN6Eeqk) | 6:03 |
 | 20 | [Never Enough](https://open.spotify.com/track/5CsDo9j3N4yFZNCN1h9loS) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 2:39 |
-| 21 | [Doomsday Pt\. 2 \(with Eminem\)](https://open.spotify.com/track/4QbCUutUlQDSBS4mtVOuZI) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [All Is Yellow](https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe) | 1:50 |
-| 22 | [River \(feat\. Ed Sheeran\)](https://open.spotify.com/track/1cS0TgbR263ey9jn0MwD2s) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Revival](https://open.spotify.com/album/0U6ldwLBEMkwgfQRY4V6D2) | 3:41 |
+| 21 | [River \(feat\. Ed Sheeran\)](https://open.spotify.com/track/1cS0TgbR263ey9jn0MwD2s) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Revival](https://open.spotify.com/album/0U6ldwLBEMkwgfQRY4V6D2) | 3:41 |
+| 22 | [Doomsday Pt\. 2 \(with Eminem\)](https://open.spotify.com/track/4QbCUutUlQDSBS4mtVOuZI) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [All Is Yellow](https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe) | 1:50 |
 | 23 | [The Way I Am](https://open.spotify.com/track/23wfXwnsPZYe5A1xXRHb3J) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 4:50 |
 | 24 | [Venom \- Music From The Motion Picture](https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Kamikaze](https://open.spotify.com/album/3HNnxK7NgLXbDoxRZxNWiR) | 4:29 |
 | 25 | [Cleanin' Out My Closet](https://open.spotify.com/track/7BMO7O7ImjV8HNTH74Tshv) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 4:57 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gTUOY.md) - [plain]
 | 51 | [Bump Heads](https://open.spotify.com/track/4OYGHze5MiMkgozardIRxU) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Tony Yayo](https://open.spotify.com/artist/50UMTib697JJ44le8DO2Va), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi) | [The Eminem Show \(Expanded Edition\)](https://open.spotify.com/album/6EzbFdrwvWpnpUjzrR57aU) | 4:41 |
 | 52 | [Love The Way You Lie \(Part II\) \- Pt\. 2](https://open.spotify.com/track/6M6lsQB4OhqL41eld29PeC) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Loud](https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp) | 4:56 |
 
-Snapshot ID: `Mjg0OTExMzksMDAwMDAwMDAyMGRmOTAxZGUyODFkYjk4ZDZkODFiODc2OTY5YmQ0OQ==`
+Snapshot ID: `Mjg0OTI1NjksMDAwMDAwMDA4YWNmYjJkOWJiNjVlOGJlOTA4MzI0ZDQ3NTIyOGM4Ng==`

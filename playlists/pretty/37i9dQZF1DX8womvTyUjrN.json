@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Humbe",
-  "num_followers": 283864,
+  "num_followers": 283878,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGU4NzAwMWMyOGQ5NGRlZWU1ZTBkMTE5MjdkYTM3ODhiNDczMmMy",
+  "snapshot_id": "MCw1OGU3OGNjYmU4MzcyODU1MzZkOGZhMTQxZmFmOGNmNjE4ZWUzMDZh",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -151,22 +151,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Bobo",
-        "url": "https://open.spotify.com/album/2xeKzAeesJsiqhN9MfP21f"
+        "name": "fantasmas",
+        "url": "https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3"
       },
       "artists": [
         {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 180573,
-      "name": "Bobo",
-      "url": "https://open.spotify.com/track/4kFK6SkNXA7bBQgTzvFSWz"
+      "duration_ms": 287248,
+      "name": "fantasmas",
+      "url": "https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -191,22 +187,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Fr\u00eda",
-        "url": "https://open.spotify.com/album/77OtfyQRt7k1nPFa9FqqlJ"
+        "name": "Bobo",
+        "url": "https://open.spotify.com/album/2xeKzAeesJsiqhN9MfP21f"
       },
       "artists": [
         {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         },
         {
-          "name": "Yotuel",
-          "url": "https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8"
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
         }
       ],
-      "duration_ms": 176606,
-      "name": "Fr\u00eda",
-      "url": "https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL"
+      "duration_ms": 180573,
+      "name": "Bobo",
+      "url": "https://open.spotify.com/track/4kFK6SkNXA7bBQgTzvFSWz"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -227,18 +223,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "fantasmas",
-        "url": "https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3"
+        "name": "Fr\u00eda",
+        "url": "https://open.spotify.com/album/77OtfyQRt7k1nPFa9FqqlJ"
       },
       "artists": [
         {
-          "name": "Humbe",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Yotuel",
+          "url": "https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8"
         }
       ],
-      "duration_ms": 287248,
-      "name": "fantasmas",
-      "url": "https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR"
+      "duration_ms": 176606,
+      "name": "Fr\u00eda",
+      "url": "https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -767,6 +767,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "El Disfraz",
+        "url": "https://open.spotify.com/album/2MTpCSuWzi4Lfv2gBU0Wkb"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 168426,
+      "name": "El Disfraz",
+      "url": "https://open.spotify.com/track/6ktPBO8Otumx59kpmKXlls"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Que La Detengan",
         "url": "https://open.spotify.com/album/4Ojro0SE46qoa50JqvpOj8"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 149741,
       "name": "La Mexicana",
       "url": "https://open.spotify.com/track/09d92ol4KHLqTx0nu9vbxZ"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "El Disfraz",
-        "url": "https://open.spotify.com/album/2MTpCSuWzi4Lfv2gBU0Wkb"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 168426,
-      "name": "El Disfraz",
-      "url": "https://open.spotify.com/track/6ktPBO8Otumx59kpmKXlls"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Enemigos",
-        "url": "https://open.spotify.com/album/4zAbx6Zpe8YoXezMynqlfv"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Llosa",
-          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
-        }
-      ],
-      "duration_ms": 157375,
-      "name": "Enemigos",
-      "url": "https://open.spotify.com/track/0sbfZT6Wl6nTpxdomThgD7"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Introspecci\u00f3n",
         "url": "https://open.spotify.com/album/33tRyIKhIzBW2Y8eufDMFx"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 247015,
       "name": "Las Cosas Simples",
       "url": "https://open.spotify.com/track/3nO0c6dxcZqrDW4WTEtKUr"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Enemigos",
+        "url": "https://open.spotify.com/album/4zAbx6Zpe8YoXezMynqlfv"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Llosa",
+          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
+        }
+      ],
+      "duration_ms": 157375,
+      "name": "Enemigos",
+      "url": "https://open.spotify.com/track/0sbfZT6Wl6nTpxdomThgD7"
     },
     {
       "added_at": "2024-03-01 05:00:00",

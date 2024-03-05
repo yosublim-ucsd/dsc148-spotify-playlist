@@ -1,12 +1,12 @@
 {
   "description": "Tu karaoke personal para darlo todo cantando.",
-  "num_followers": 1733278,
+  "num_followers": 1733234,
   "original_name": "Karaoke 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWIxMDM1ZGY4Zjg0ZTkwZDgyMWU5OThjOTY5YjNmZTcwODQyMmVj",
+  "snapshot_id": "MCxkMzA5NzAzMGFmMmI4MDgzNDA4MTlhYmIwMDJiZmZmZjhiMDkxMTMx",
   "tracks": [
     {
       "added_at": "2024-02-09 16:39:41",
@@ -171,6 +171,22 @@
     {
       "added_at": "2024-02-09 16:39:41",
       "album": {
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 309600,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
+    },
+    {
+      "added_at": "2024-02-09 16:39:41",
+      "album": {
         "name": "Elephant",
         "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 240693,
       "name": "Gangsta's Paradise",
       "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"
-    },
-    {
-      "added_at": "2024-02-09 16:39:41",
-      "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 309600,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
     },
     {
       "added_at": "2024-02-09 16:39:41",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-02-09 16:39:41",
       "album": {
+        "name": "Let It Be (Remastered)",
+        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 243026,
+      "name": "Let It Be - Remastered 2009",
+      "url": "https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48"
+    },
+    {
+      "added_at": "2024-02-09 16:39:41",
+      "album": {
         "name": "It Must Have Been Love",
         "url": "https://open.spotify.com/album/3dWX1xFUaalRlaaVpe4EPF"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 271093,
       "name": "I Will Always Love You",
       "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
-    },
-    {
-      "added_at": "2024-02-09 16:39:41",
-      "album": {
-        "name": "Let It Be (Remastered)",
-        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 243026,
-      "name": "Let It Be - Remastered 2009",
-      "url": "https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48"
     },
     {
       "added_at": "2024-02-09 16:39:41",
@@ -2683,22 +2683,6 @@
     {
       "added_at": "2024-02-09 16:39:41",
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Friday I'm in Love",
-      "url": "https://open.spotify.com/track/263aNAQCeFSWipk896byo6"
-    },
-    {
-      "added_at": "2024-02-09 16:39:41",
-      "album": {
         "name": "Lady Marmalade",
         "url": "https://open.spotify.com/album/5rlAvknHpWuF6m4VMS3vnJ"
       },
@@ -2723,6 +2707,22 @@
       "duration_ms": 267960,
       "name": "Lady Marmalade - Single Edit",
       "url": "https://open.spotify.com/track/0PSZ9G584Ve27GK6ThlY6P"
+    },
+    {
+      "added_at": "2024-02-09 16:39:41",
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Friday I'm in Love",
+      "url": "https://open.spotify.com/track/263aNAQCeFSWipk896byo6"
     },
     {
       "added_at": "2024-02-09 16:39:41",
@@ -2851,6 +2851,30 @@
     {
       "added_at": "2024-02-09 16:39:41",
       "album": {
+        "name": "SEX AND LOVE (Deluxe)",
+        "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Descemer Bueno",
+          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "duration_ms": 243413,
+      "name": "Bailando - Spanish Version",
+      "url": "https://open.spotify.com/track/32lm3769IRfcnrQV11LO4E"
+    },
+    {
+      "added_at": "2024-02-09 16:39:41",
+      "album": {
         "name": "Laundry Service",
         "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
       },
@@ -2895,30 +2919,6 @@
       "duration_ms": 249500,
       "name": "Live Is Life (Digitally Remastered) (Single Version)",
       "url": "https://open.spotify.com/track/5luOvrlnzfvJQdQjrScVj4"
-    },
-    {
-      "added_at": "2024-02-09 16:39:41",
-      "album": {
-        "name": "SEX AND LOVE (Deluxe)",
-        "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Descemer Bueno",
-          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
-        },
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        }
-      ],
-      "duration_ms": 243413,
-      "name": "Bailando - Spanish Version",
-      "url": "https://open.spotify.com/track/32lm3769IRfcnrQV11LO4E"
     },
     {
       "added_at": "2024-02-09 16:39:41",
@@ -3003,22 +3003,6 @@
     {
       "added_at": "2024-02-09 16:39:41",
       "album": {
-        "name": "Live!",
-        "url": "https://open.spotify.com/album/5mvQHYARofQRsOE2cqBzik"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 427800,
-      "name": "No Woman, No Cry - Live At The Lyceum, London/1975",
-      "url": "https://open.spotify.com/track/423hwXFgoN8RYmqLoLuVvY"
-    },
-    {
-      "added_at": "2024-02-09 16:39:41",
-      "album": {
         "name": "Estopa",
         "url": "https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs"
       },
@@ -3031,6 +3015,22 @@
       "duration_ms": 202826,
       "name": "Por la Raja de Tu Falda",
       "url": "https://open.spotify.com/track/5OaqffbeQyVVqtnA71Ci7K"
+    },
+    {
+      "added_at": "2024-02-09 16:39:41",
+      "album": {
+        "name": "Live!",
+        "url": "https://open.spotify.com/album/5mvQHYARofQRsOE2cqBzik"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 427800,
+      "name": "No Woman, No Cry - Live At The Lyceum, London/1975",
+      "url": "https://open.spotify.com/track/423hwXFgoN8RYmqLoLuVvY"
     },
     {
       "added_at": "2024-02-09 16:39:41",
@@ -3299,22 +3299,6 @@
     {
       "added_at": "2024-02-09 16:39:41",
       "album": {
-        "name": "P\u00e1jaros En La Cabeza",
-        "url": "https://open.spotify.com/album/6DCFKUUTjEANNG889DLYaW"
-      },
-      "artists": [
-        {
-          "name": "Amaral",
-          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
-        }
-      ],
-      "duration_ms": 223186,
-      "name": "Marta, Sebas, Guille y los dem\u00e1s",
-      "url": "https://open.spotify.com/track/30ddpolNHwXlrS5XO8MiiO"
-    },
-    {
-      "added_at": "2024-02-09 16:39:41",
-      "album": {
         "name": "Zapatillas",
         "url": "https://open.spotify.com/album/3dToFs6qDSWkR1HttqgpnF"
       },
@@ -3327,6 +3311,22 @@
       "duration_ms": 145826,
       "name": "Besos",
       "url": "https://open.spotify.com/track/7MKO7rUZzjw8p87zdZDgqa"
+    },
+    {
+      "added_at": "2024-02-09 16:39:41",
+      "album": {
+        "name": "P\u00e1jaros En La Cabeza",
+        "url": "https://open.spotify.com/album/6DCFKUUTjEANNG889DLYaW"
+      },
+      "artists": [
+        {
+          "name": "Amaral",
+          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+        }
+      ],
+      "duration_ms": 223186,
+      "name": "Marta, Sebas, Guille y los dem\u00e1s",
+      "url": "https://open.spotify.com/track/30ddpolNHwXlrS5XO8MiiO"
     },
     {
       "added_at": "2024-02-09 16:39:41",

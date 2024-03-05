@@ -1,12 +1,12 @@
 {
   "description": "s\u00f3 faixa rosa, tem disposi\u00e7\u00e3o? \ud83c\udf80 Foto: Torya",
-  "num_followers": 48150,
+  "num_followers": 48164,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjU3Yjk0OTM4ODdlNTY5MzNmOTRjNmY5NTZiYTk2MTc2YmE3M2U5",
+  "snapshot_id": "MCxmM2I1ZWJiZmJkNzJiNGM3NmQ5NTg5MmJhNGYwNTY1ZjFmYmZlMjE3",
   "tracks": [
     {
       "added_at": "2024-03-01 03:01:00",
@@ -231,6 +231,26 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
+        "name": "Espero Que Entendam (Freestyle)",
+        "url": "https://open.spotify.com/album/2omPP6U3sAgy10Q4wZtswu"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "duration_ms": 211859,
+      "name": "Espero Que Entendam - Freestyle",
+      "url": "https://open.spotify.com/track/3MEMW13ORJh94KnERm44JM"
+    },
+    {
+      "added_at": "2024-03-01 03:01:00",
+      "album": {
         "name": "Olhar HD",
         "url": "https://open.spotify.com/album/5eAdKrXdGOxJEMmL1gucTv"
       },
@@ -251,26 +271,6 @@
       "duration_ms": 167741,
       "name": "OLHAR HD",
       "url": "https://open.spotify.com/track/0MKn146xdKs9Gnwtkfl0fB"
-    },
-    {
-      "added_at": "2024-03-01 03:01:00",
-      "album": {
-        "name": "Espero Que Entendam (Freestyle)",
-        "url": "https://open.spotify.com/album/2omPP6U3sAgy10Q4wZtswu"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        }
-      ],
-      "duration_ms": 211859,
-      "name": "Espero Que Entendam - Freestyle",
-      "url": "https://open.spotify.com/track/3MEMW13ORJh94KnERm44JM"
     },
     {
       "added_at": "2024-03-01 03:01:00",
@@ -375,26 +375,6 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
-        "name": "100 Mili",
-        "url": "https://open.spotify.com/album/1BwTcopCPLmipd6iCOVXFi"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "100 Mili",
-      "url": "https://open.spotify.com/track/4eolUWC5VizUx1YMHMeagu"
-    },
-    {
-      "added_at": "2024-03-01 03:01:00",
-      "album": {
         "name": "TAURUS/ \u00daNICA",
         "url": "https://open.spotify.com/album/3y0Mjfqb8h1wLITswMNri3"
       },
@@ -435,6 +415,26 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
+        "name": "AJU",
+        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
+      },
+      "artists": [
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Dj Victor",
+          "url": "https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC"
+        }
+      ],
+      "duration_ms": 190722,
+      "name": "Homens Como Voc\u00ea",
+      "url": "https://open.spotify.com/track/1M6VDhgs95sHQSnsSOocIj"
+    },
+    {
+      "added_at": "2024-03-01 03:01:00",
+      "album": {
         "name": "ELAS PINTAM",
         "url": "https://open.spotify.com/album/7ehwNnbvptTziab8QZkXV7"
       },
@@ -459,46 +459,22 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
-        "name": "Tropa do Mant\u00e9m",
-        "url": "https://open.spotify.com/album/68wHxRNVAr8OqV9ZiyoCDQ"
+        "name": "100 Mili",
+        "url": "https://open.spotify.com/album/1BwTcopCPLmipd6iCOVXFi"
       },
       "artists": [
         {
-          "name": "Maru2D",
-          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         },
         {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Tropa do Mant\u00e9m",
-      "url": "https://open.spotify.com/track/4DbUD96eZfP9zVca7vgqgD"
-    },
-    {
-      "added_at": "2024-03-01 03:01:00",
-      "album": {
-        "name": "AJU",
-        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
-      },
-      "artists": [
-        {
-          "name": "Ajuliacosta",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Dj Victor",
-          "url": "https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC"
-        }
-      ],
-      "duration_ms": 190722,
-      "name": "Homens Como Voc\u00ea",
-      "url": "https://open.spotify.com/track/1M6VDhgs95sHQSnsSOocIj"
+      "duration_ms": 142153,
+      "name": "100 Mili",
+      "url": "https://open.spotify.com/track/4eolUWC5VizUx1YMHMeagu"
     },
     {
       "added_at": "2024-03-01 03:01:00",
@@ -527,30 +503,26 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
-        "name": "5min",
-        "url": "https://open.spotify.com/album/0TMUGXzv71hCms04QO2b8b"
+        "name": "Tropa do Mant\u00e9m",
+        "url": "https://open.spotify.com/album/68wHxRNVAr8OqV9ZiyoCDQ"
       },
       "artists": [
         {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
         },
         {
-          "name": "Heavy Baile",
-          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
         },
         {
-          "name": "Leo Justi",
-          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
-        },
-        {
-          "name": "AG Beatz",
-          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
         }
       ],
-      "duration_ms": 128181,
-      "name": "5min",
-      "url": "https://open.spotify.com/track/27AJfxwJCs8T2BxeVNbniw"
+      "duration_ms": 164000,
+      "name": "Tropa do Mant\u00e9m",
+      "url": "https://open.spotify.com/track/4DbUD96eZfP9zVca7vgqgD"
     },
     {
       "added_at": "2024-03-01 03:01:00",
@@ -603,6 +575,34 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
+        "name": "5min",
+        "url": "https://open.spotify.com/album/0TMUGXzv71hCms04QO2b8b"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Heavy Baile",
+          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
+        },
+        {
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+        },
+        {
+          "name": "AG Beatz",
+          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
+        }
+      ],
+      "duration_ms": 128181,
+      "name": "5min",
+      "url": "https://open.spotify.com/track/27AJfxwJCs8T2BxeVNbniw"
+    },
+    {
+      "added_at": "2024-03-01 03:01:00",
+      "album": {
         "name": "Splash",
         "url": "https://open.spotify.com/album/4SWhKicqhmRaAICmYGfzsM"
       },
@@ -619,42 +619,6 @@
       "duration_ms": 168979,
       "name": "Splash",
       "url": "https://open.spotify.com/track/0MiKYMb1Xl8IKdPhX7FY42"
-    },
-    {
-      "added_at": "2024-03-01 03:01:00",
-      "album": {
-        "name": "44",
-        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 187350,
-      "name": "Maldita",
-      "url": "https://open.spotify.com/track/3MSsAKcyLjiMJz0Hq4kZos"
-    },
-    {
-      "added_at": "2024-03-01 03:01:00",
-      "album": {
-        "name": "Glossy",
-        "url": "https://open.spotify.com/album/39WCvdoXW7iqdXCDP7hAcp"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 151596,
-      "name": "Glossy",
-      "url": "https://open.spotify.com/track/3S30QGvGK7YPhVPM6GC0N6"
     },
     {
       "added_at": "2024-03-01 03:01:00",
@@ -679,6 +643,26 @@
       "duration_ms": 115275,
       "name": "Outro Som de Sacanagem",
       "url": "https://open.spotify.com/track/4PylJL83J3Pl6m4NN2tmhm"
+    },
+    {
+      "added_at": "2024-03-01 03:01:00",
+      "album": {
+        "name": "Faz Assim",
+        "url": "https://open.spotify.com/album/1qmvJynSDGx7sHhH0JO6Gf"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        }
+      ],
+      "duration_ms": 217263,
+      "name": "Faz Assim",
+      "url": "https://open.spotify.com/track/2qCSK0uuTnTBYa18SlSzyM"
     },
     {
       "added_at": "2024-03-01 03:01:00",
@@ -727,8 +711,8 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
-        "name": "Maldita",
-        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
+        "name": "44",
+        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
       },
       "artists": [
         {
@@ -740,29 +724,25 @@
           "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
         }
       ],
-      "duration_ms": 199986,
-      "name": "Seu Particular",
-      "url": "https://open.spotify.com/track/7FbeeyMWZsJw36SaRbFNMk"
+      "duration_ms": 187350,
+      "name": "Maldita",
+      "url": "https://open.spotify.com/track/3MSsAKcyLjiMJz0Hq4kZos"
     },
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
-        "name": "Faz Assim",
-        "url": "https://open.spotify.com/album/1qmvJynSDGx7sHhH0JO6Gf"
+        "name": "Glossy",
+        "url": "https://open.spotify.com/album/39WCvdoXW7iqdXCDP7hAcp"
       },
       "artists": [
         {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         }
       ],
-      "duration_ms": 217263,
-      "name": "Faz Assim",
-      "url": "https://open.spotify.com/track/2qCSK0uuTnTBYa18SlSzyM"
+      "duration_ms": 151596,
+      "name": "Glossy",
+      "url": "https://open.spotify.com/track/3S30QGvGK7YPhVPM6GC0N6"
     },
     {
       "added_at": "2024-03-01 03:01:00",
@@ -847,6 +827,26 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
+        "name": "Maldita",
+        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 199986,
+      "name": "Seu Particular",
+      "url": "https://open.spotify.com/track/7FbeeyMWZsJw36SaRbFNMk"
+    },
+    {
+      "added_at": "2024-03-01 03:01:00",
+      "album": {
         "name": "Ashley Banks",
         "url": "https://open.spotify.com/album/6CDE1Mgxb05mEbjI9LdyQY"
       },
@@ -891,26 +891,6 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
-        "name": "Por Que os Homens Amam as Vadias?",
-        "url": "https://open.spotify.com/album/7qpP3amvqMAqMZInViXcFS"
-      },
-      "artists": [
-        {
-          "name": "LAI$ROSA",
-          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
-        },
-        {
-          "name": "otrashy",
-          "url": "https://open.spotify.com/artist/7z0MVnhMYi2JMaFlmkIICD"
-        }
-      ],
-      "duration_ms": 154206,
-      "name": "Negra Tipo A",
-      "url": "https://open.spotify.com/track/0BGTRgMKPa0L6Z4YH9q7wU"
-    },
-    {
-      "added_at": "2024-03-01 03:01:00",
-      "album": {
         "name": "PELE",
         "url": "https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 224841,
       "name": "N.I.N.A",
       "url": "https://open.spotify.com/track/0ZVW6vKav9Jp9AunMFmulJ"
+    },
+    {
+      "added_at": "2024-03-01 03:01:00",
+      "album": {
+        "name": "Por Que os Homens Amam as Vadias?",
+        "url": "https://open.spotify.com/album/7qpP3amvqMAqMZInViXcFS"
+      },
+      "artists": [
+        {
+          "name": "LAI$ROSA",
+          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
+        },
+        {
+          "name": "otrashy",
+          "url": "https://open.spotify.com/artist/7z0MVnhMYi2JMaFlmkIICD"
+        }
+      ],
+      "duration_ms": 154206,
+      "name": "Negra Tipo A",
+      "url": "https://open.spotify.com/track/0BGTRgMKPa0L6Z4YH9q7wU"
     },
     {
       "added_at": "2024-03-01 03:01:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
+        "name": "A Fonte",
+        "url": "https://open.spotify.com/album/1mZe2ARdUySxF6a6ATs09y"
+      },
+      "artists": [
+        {
+          "name": "MC Taya",
+          "url": "https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i"
+        }
+      ],
+      "duration_ms": 173983,
+      "name": "A Fonte",
+      "url": "https://open.spotify.com/track/56fvmF7BztWocJ95kXmz1h"
+    },
+    {
+      "added_at": "2024-03-01 03:01:00",
+      "album": {
         "name": "Por Que os Homens Amam as Vadias?",
         "url": "https://open.spotify.com/album/7qpP3amvqMAqMZInViXcFS"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 115582,
       "name": "50%",
       "url": "https://open.spotify.com/track/71YY4sRKzRchfdVlEvK0fx"
-    },
-    {
-      "added_at": "2024-03-01 03:01:00",
-      "album": {
-        "name": "A Fonte",
-        "url": "https://open.spotify.com/album/1mZe2ARdUySxF6a6ATs09y"
-      },
-      "artists": [
-        {
-          "name": "MC Taya",
-          "url": "https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i"
-        }
-      ],
-      "duration_ms": 173983,
-      "name": "A Fonte",
-      "url": "https://open.spotify.com/track/56fvmF7BztWocJ95kXmz1h"
     },
     {
       "added_at": "2024-03-01 03:01:00",

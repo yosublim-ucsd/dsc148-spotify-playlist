@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Gwl5uG0dwX.md) - [plain]
 
 > Indie and alternative favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,594 likes - 75 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,610 likes - 75 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Gwl5uG0dwX.md) - [plain]
 | 74 | [Loser](https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8) | 3:55 |
 | 75 | [Dance Yrself Clean](https://open.spotify.com/track/2cmRpmO04TLaKPzmAzySYZ) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 8:56 |
 
-Snapshot ID: `MCw0NjhjYTk3ZTY5NjE0ODEzZGQzYzkzMGM5N2FiYWU1NzY3ZGMyMTdl`
+Snapshot ID: `MCw1NmQ1MmFmODI2OTZmY2Q4NWRhMmU1NjEyNDZmMDRiMWJjMWNiNDgz`

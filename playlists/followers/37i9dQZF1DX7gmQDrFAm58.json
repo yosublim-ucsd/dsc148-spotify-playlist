@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 87618,
+  "2024-03-05": 87615,
   "date_first_scraped": "2023-12-08",
   "description": "Sons para seu beb\u00ea dormir e relaxar / Sonidos para relajar a tu beb\u00e9",
   "name": "Nana Nen\u00ea",
@@ -1533,6 +1533,24 @@
       "duration_ms": 140384,
       "name": "Dream Time",
       "url": "https://open.spotify.com/track/4ZRCedGgRihP3QkJuqDMOW"
+    },
+    {
+      "album": {
+        "name": "Dreamland Promenade",
+        "url": "https://open.spotify.com/album/4IWC0KSY2PBDf8UFCScMo4"
+      },
+      "artists": [
+        {
+          "name": "Teddy Gorbella",
+          "url": "https://open.spotify.com/artist/2yGkgsGKykkoiPO0xK6mB3"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90000,
+      "name": "Dreamland Promenade",
+      "url": "https://open.spotify.com/track/03Qc20BWJ7ivcl3LMLEIeN"
     },
     {
       "album": {
@@ -5425,7 +5443,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 109790,
       "name": "Sleep Till Morning Comes",
       "url": "https://open.spotify.com/track/4IMICTKWbU1K6IWHoXibyP"

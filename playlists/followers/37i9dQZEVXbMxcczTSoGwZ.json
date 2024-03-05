@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 152342,
+  "2024-03-05": 152406,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Finland.",
   "name": "Top 50 - Finland",
@@ -2857,7 +2857,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 195204,
       "name": "BISNESMIES",
       "url": "https://open.spotify.com/track/30lI16LmESm66IZJ7MPIGl"
@@ -13715,7 +13715,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 232916,
       "name": "Kaikki hyv\u00e4ks k\u00e4\u00e4ntyy",
       "url": "https://open.spotify.com/track/0oyDPNPFFjQXibzBhIoG75"

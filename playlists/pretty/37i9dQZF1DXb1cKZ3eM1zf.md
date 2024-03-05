@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1cKZ3eM1zf.md) - [plain]
 
 > Het beste van Pinkpop en een greep uit de line\-up van 2024
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,828 likes - 150 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,830 likes - 150 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1cKZ3eM1zf.md) - [plain]
 | 149 | [Glycerine](https://open.spotify.com/track/7wpYSigAhQeZp3cdsMQ3Af) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Sixteen Stone \(Remastered\)](https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y) | 4:26 |
 | 150 | [Let Me Entertain You](https://open.spotify.com/track/0SLtqCrXBRrnkxSOMA3X4W) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Life Thru A Lens](https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN) | 4:22 |
 
-Snapshot ID: `MCxkMDgzMTYzMmIwYWE4MGJlNTQ5MGMwNjdkNjkxNGY4Y2RlNWE0NGIy`
+Snapshot ID: `MCxjNTY1MmQ3MzQ2YjNhMTBlMDE3Y2NhMTdkYWE0MTNmMTMwZTZiNGQ0`

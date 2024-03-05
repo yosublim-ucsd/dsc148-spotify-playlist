@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 
 > A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.
 
-[Spotify](https://open.spotify.com/user/spotify) - 755,373 likes - 75 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 755,509 likes - 75 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 8 | [Secreto](https://open.spotify.com/track/5KjqHWEssr7QRnRnTZfOQN) | [Saive](https://open.spotify.com/artist/66sSc9LMhJkUdiEu7LTytJ), [MUTA](https://open.spotify.com/artist/62LBdSPU8iqcGV4tSKruO9) | [Secreto](https://open.spotify.com/album/5FmgMaL2u61aYGCp9E7PwT) | 5:21 |
 | 9 | [Star Tripper](https://open.spotify.com/track/2y1VCMCb4brGaqlnH0WFH3) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Star Tripper](https://open.spotify.com/album/4acnlgRObU8twYND7ktUc3) | 4:53 |
 | 10 | [Feather \- Iorie & Madmotormiquel Remix](https://open.spotify.com/track/5cPkKWedtNGlXW4sUdAgvz) | [Nhii](https://open.spotify.com/artist/6doAywRfMwvRw4N6e3LR7X), [Pippermint](https://open.spotify.com/artist/3U05nJox1ck1J6Cgvu9ANF), [Madmotormiquel](https://open.spotify.com/artist/0aiPokyV5CIqT8kmoYoHg1), [Iorie](https://open.spotify.com/artist/1ruewEJphCPPAOSjowo9AH) | [Feather \(The Remixes\)](https://open.spotify.com/album/3aWgeXUCtaij7yq0C9bY2h) | 7:07 |
-| 11 | [Bahar](https://open.spotify.com/track/7FoNzgmqNTSotUSVemCsrj) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [Bahar](https://open.spotify.com/album/2SAvFfuR31LlVxBl8MVErT) | 3:52 |
-| 12 | [Agua e pipa](https://open.spotify.com/track/2yDNk5tWLRwvpYuRrrV56V) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ), [Jose Solano](https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc) | [Agua e pipa](https://open.spotify.com/album/74SPKWn69S4RQ0Hg1Pz83b) | 3:22 |
-| 13 | [Before the Storm](https://open.spotify.com/track/4HFO4JUkrkqNIKh4kwgQpR) | [Santi & Tuğçe](https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC) | [Before the Storm](https://open.spotify.com/album/1anaTK4HBkYkwEp5q3jM3j) | 7:25 |
+| 11 | [Agua e pipa](https://open.spotify.com/track/2yDNk5tWLRwvpYuRrrV56V) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ), [Jose Solano](https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc) | [Agua e pipa](https://open.spotify.com/album/74SPKWn69S4RQ0Hg1Pz83b) | 3:22 |
+| 12 | [Before the Storm](https://open.spotify.com/track/4HFO4JUkrkqNIKh4kwgQpR) | [Santi & Tuğçe](https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC) | [Before the Storm](https://open.spotify.com/album/1anaTK4HBkYkwEp5q3jM3j) | 7:25 |
+| 13 | [Bahar](https://open.spotify.com/track/7FoNzgmqNTSotUSVemCsrj) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [Bahar](https://open.spotify.com/album/2SAvFfuR31LlVxBl8MVErT) | 3:52 |
 | 14 | [Luv Machine](https://open.spotify.com/track/3dZkhrOzJGbRRl3dBfJNkp) | [Zoe Reijue](https://open.spotify.com/artist/1u2Q2N54HeeqBWncVUrqtF) | [Luv Machine](https://open.spotify.com/album/5cWSMyNz7Klrqatz2j5Ln3) | 6:11 |
 | 15 | [Ormila](https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91) | [Majed Zane](https://open.spotify.com/artist/5SljHlYjnAMXC7STkgFFPR), [Sam Abdullah](https://open.spotify.com/artist/1YtxjhyMpU9EZS4tancyeq) | [Ormila](https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX) | 4:58 |
 | 16 | [Aruna Chandra](https://open.spotify.com/track/20qCEmcOcBQC7DS2T70Pz4) | [Mashti](https://open.spotify.com/artist/0c2kLTUTikqUpkRjJOerzf), [Deep Dive Corp.](https://open.spotify.com/artist/2Xn8Gef5Hv2QOWYlXs2gTb), [David Devanagari](https://open.spotify.com/artist/5ht478srSMpYGDtKWMLQO3) | [Aruna Chandra](https://open.spotify.com/album/09jd5geuKV6itKwcvamNEn) | 8:58 |
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 51 | [Ciclos](https://open.spotify.com/track/6G6SAy7BwNGKttAFGjADmQ) | [Antaares](https://open.spotify.com/artist/4a6SWpboKXeExMh2XbSHC3) | [Ciclos](https://open.spotify.com/album/5LlS93cEkVy5VermCbVEp4) | 6:36 |
 | 52 | [Eternal Road \- Edit](https://open.spotify.com/track/0xYVFbpiJ4wl9lGPzvgEie) | [Rapossa](https://open.spotify.com/artist/0FtVISUJUZSWPU4LGeovTM), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Eternal Road](https://open.spotify.com/album/47ux4aY4iFXBN6XwwNtSkc) | 3:05 |
 | 53 | [Patika](https://open.spotify.com/track/0enM3iefQE7ad53N2wLnl5) | [Hezarfen](https://open.spotify.com/artist/0dPdqLZLFoyW8btQ3Z9vZx) | [Patika](https://open.spotify.com/album/0TG92bm0MKdGNIsuPWNwzJ) | 5:33 |
-| 54 | [Karanfilce Devojce \- PACHIRA Remix](https://open.spotify.com/track/7f6bzmieDjJiGr6x0Vl2ps) | [Laboratorium Pieśni](https://open.spotify.com/artist/0dJ5KNObzuV2aK76ucVV1l), [PACHIRA](https://open.spotify.com/artist/7xYPxh4TBh0bkCQwg1YoT0) | [Karanfilce Devojce \(PACHIRA Remix\)](https://open.spotify.com/album/2Jr3whqNucBLcaJl096Ut5) | 5:42 |
-| 55 | [Chaghaf](https://open.spotify.com/track/4fa6c1O01U9UEodp1Bj22A) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Chaghaf](https://open.spotify.com/album/0nNXlfoPUjAvvlqvbi3qDB) | 7:07 |
-| 56 | [Terra](https://open.spotify.com/track/13JC5nvIbCbxTrHqFLvwPM) | [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Ritmo](https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB) | 1:55 |
+| 54 | [Chaghaf](https://open.spotify.com/track/4fa6c1O01U9UEodp1Bj22A) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Chaghaf](https://open.spotify.com/album/0nNXlfoPUjAvvlqvbi3qDB) | 7:07 |
+| 55 | [Terra](https://open.spotify.com/track/13JC5nvIbCbxTrHqFLvwPM) | [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Ritmo](https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB) | 1:55 |
+| 56 | [Karanfilce Devojce \- PACHIRA Remix](https://open.spotify.com/track/7f6bzmieDjJiGr6x0Vl2ps) | [Laboratorium Pieśni](https://open.spotify.com/artist/0dJ5KNObzuV2aK76ucVV1l), [PACHIRA](https://open.spotify.com/artist/7xYPxh4TBh0bkCQwg1YoT0) | [Karanfilce Devojce \(PACHIRA Remix\)](https://open.spotify.com/album/2Jr3whqNucBLcaJl096Ut5) | 5:42 |
 | 57 | [Running After Dark](https://open.spotify.com/track/5D8LgrSdHF2zpUU123Y57i) | [Coss](https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74) | [WannaCry](https://open.spotify.com/album/0gynnFOvGURjtAO1hpvPWl) | 6:23 |
 | 58 | [Wawanko](https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW) | [Kermesse](https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw) | [Limbo EP](https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m) | 6:41 |
 | 59 | [Unsichtbar \- Behrooz Zandi Remix](https://open.spotify.com/track/6eOmmUyJYl6RrRTT7P0M4S) | [Tiefe Wasser Berlin](https://open.spotify.com/artist/1CB3IMXIZ0RJXC9JRrC7x3), [Behrooz Zandi](https://open.spotify.com/artist/3wDZlcLsCTvZ5e6OaPSQP0) | [Unsichtbar \(Behrooz Zandi Remix\)](https://open.spotify.com/album/0XqcOaBaLYzrYZllSfU2Rr) | 6:10 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 74 | [Persian Nights](https://open.spotify.com/track/5pRfsRKRDsAAkYvQ7262YH) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Arya Noble](https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50) | [Persian Nights](https://open.spotify.com/album/4JtiXGmWyNUB8uNaM2BsWP) | 3:18 |
 | 75 | [Caminata](https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9) | [Montezuma](https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU) | [Caminata](https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl) | 6:56 |
 
-Snapshot ID: `MCxlN2E4YWFkYWFjN2Q1ODUzMTdmZTk4OWU3YzA4MTE0OWM3NTc3ZjY0`
+Snapshot ID: `MCxiNDQ4ZDhiODMzNzBlYTg3YTk3MDM5Yzk4MzM4ZTZkMGYyOWY1YmM2`

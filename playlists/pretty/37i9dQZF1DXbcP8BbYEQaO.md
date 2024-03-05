@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 
 > sparkling, shimmery synth pop ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,910 likes - 90 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,989 likes - 90 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 | 89 | [A Driver Saved My Night](https://open.spotify.com/track/4e64oQwdgwUUADrC26DCdI) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [How To Let Go](https://open.spotify.com/album/4V714KyABj469FBI9Dao8T) | 2:47 |
 | 90 | [Treat Me Right](https://open.spotify.com/track/6NkOdTkgyQk5fSEtwGYpE6) | [TATYANA](https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP) | [Treat Me Right](https://open.spotify.com/album/03hafzXxELqD67fD1siVhS) | 3:08 |
 
-Snapshot ID: `MCw5OGI3YzdhNmUyZDFiYmE5NGVhNmQ5ZTg3MDFhOThkNDI3Y2Y5MDU0`
+Snapshot ID: `MCxhYmJlMDdmMzY3NTE0Y2Q2NTdiNWZiYjljMjIyMzU2NWFlODc1MTU0`

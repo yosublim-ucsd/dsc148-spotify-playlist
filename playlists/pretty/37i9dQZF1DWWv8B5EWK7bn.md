@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,087 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,159 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 96 | [A Liberdade é Cara](https://open.spotify.com/track/5ZRDV496C5qfNwfrC5yUQb) | [Flak](https://open.spotify.com/artist/4wVjp7gqPZ71EFJ16cqlV4), [Cachupa Psicadelica](https://open.spotify.com/artist/1cbsi2uimYgbyBiEssBoLO) | [A Liberdade é Cara](https://open.spotify.com/album/7dFapTJEEOuFLt3tQKbQCq) | 6:20 |
 | 97 | [Hasta Mañana](https://open.spotify.com/track/52FOa3LKl18XqXzQQCIaXG) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [P.O.N](https://open.spotify.com/album/716BZhl3283diYxQJZCSyF) | 2:54 |
 | 98 | [Windows Open](https://open.spotify.com/track/2gbExwEbhJtlrL9q1d7k9T) | [Maps](https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2) | [Counter Melodies](https://open.spotify.com/album/4LWyrJebQ4M0oL9OVDH1ot) | 5:18 |
-| 99 | [r\(EMOTE\)](https://open.spotify.com/track/3iOMiZlt4gEeQsEgnW0MeQ) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [r\(EMOTE\)](https://open.spotify.com/album/4gYQKBqHDABqdmJuTnSjvS) | 3:41 |
-| 100 | [Sekwar](https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd) | [Liars](https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z) | [The Apple Drop](https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ) | 4:34 |
+| 99 | [Sekwar](https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd) | [Liars](https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z) | [The Apple Drop](https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ) | 4:34 |
+| 100 | [r\(EMOTE\)](https://open.spotify.com/track/3iOMiZlt4gEeQsEgnW0MeQ) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [r\(EMOTE\)](https://open.spotify.com/album/4gYQKBqHDABqdmJuTnSjvS) | 3:41 |
 
-Snapshot ID: `MCxmN2E3MmRhM2EwY2U5NmE2MGUzOTI0NTFkOWU2MjcyZjczNWEwYzJk`
+Snapshot ID: `MCxhZDE3MzhmM2EzMWM4ZmY3MDI2ZWQzYjIyMTYyZWQxMzI3YzM4N2Jh`

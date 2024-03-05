@@ -2,9 +2,9 @@
 
 ### [Indie Favourites](https://open.spotify.com/playlist/37i9dQZF1DXcZ6y0ulQ9Gz)
 
-> An eclectic mix of past & current indie favourites\. Cover: The Last Dinner Party
+> An eclectic mix of past & current indie favourites\. Cover: Caroline Polachek
 
-714 songs - 1 day 19 hr 26 min
+716 songs - 1 day 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [AUATC](https://open.spotify.com/track/2X1PJ3l0wM4D42EiEdVh5W) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [AUATC](https://open.spotify.com/album/22PYhoWaopcOplvKR6o5BA) | 2:22 | 2021-02-22 | 2022-07-28 |
 | [B\-Side](https://open.spotify.com/track/0Hm61sSVBycsO5Se5mbKdu) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [B\-Side](https://open.spotify.com/album/0JxSewL4a7vp10TzeQVDvo) | 4:34 | 2022-02-18 | 2022-07-29 |
 | [B\-Side](https://open.spotify.com/track/2DccHqTquzubziHAPZRdct) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 4:34 | 2022-05-03 | 2022-08-24 |
+| [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2024-03-04 |  |
 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 | 2023-12-08 |  |
 | [Back to You](https://open.spotify.com/track/7yrUiuQjjDqeFjY4Ng10em) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [Back to You](https://open.spotify.com/album/58fzuYGvgMaZ0TrZsi7P5e) | 3:22 | 2022-04-01 | 2022-04-12 |
 | [Bad Boy](https://open.spotify.com/track/2uPHU2QlLczjkOnfQKH7Qn) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Billy Marchiafava](https://open.spotify.com/artist/27foDL8SBDLivhZNlDsAza) | [Bae 5](https://open.spotify.com/album/6UJAG0MN18jejyZTf4oDQj) | 3:07 | 2020-10-29\* | 2022-04-16 |
@@ -166,6 +167,7 @@
 | [damn](https://open.spotify.com/track/5mgWktGBliaIdAaBtZ8ff3) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [one hand on the steering wheel the other sewing a garden](https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF) | 4:21 | 2022-08-23 | 2023-02-11 |
 | [Dance with You](https://open.spotify.com/track/5XFEsmU9fTFfOad3PQzPCm) | [Sara\-Danielle](https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO), [Reno McCarthy](https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS) | [Dance with You](https://open.spotify.com/album/72RKZOmqEeTzWyZ5mqZWzk) | 3:57 | 2021-05-31 | 2022-07-29 |
 | [dancing](https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [There is no Neil Frances](https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M) | 2:54 | 2022-08-23 |  |
+| [Dang](https://open.spotify.com/track/7ddHGUPt5bOpVFAtX6TJN8) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Dang](https://open.spotify.com/album/3DZodwqZN2YkjgI0NAwyS8) | 2:44 | 2024-03-04 |  |
 | [Darjeeling](https://open.spotify.com/track/04zqwGKyCI0LxpC9ycUwsZ) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Darjeeling](https://open.spotify.com/album/2rBaSZCFbNWwzVcJmOEvMx) | 3:19 | 2021-01-15 | 2022-07-29 |
 | [Dark Red](https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ) | 2:53 | 2022-03-25 | 2022-08-24 |
 | [Dark Red](https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/7vrsFZNVhrriKh0SZKJW41) | 2:53 | 2023-02-10 |  |
@@ -232,7 +234,7 @@
 | [Free Animal](https://open.spotify.com/track/6mbg2IS3Lak9kp8qD8O3d6) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [For the Light](https://open.spotify.com/album/6qO0Vs8Mbx35dZiGkZGXjM) | 3:00 | 2021-03-06 | 2022-04-12 |
 | [French Riviera](https://open.spotify.com/track/78Pn6NfbmrgRLKCnxCPZ66) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [RESONANCE](https://open.spotify.com/album/75bzjoYDBOHkkAfd7hwQ57) | 3:50 | 2021-02-25 | 2022-04-07 |
 | [Friend of a Friend](https://open.spotify.com/track/31ETL8gxaIFLhPWdtZ5god) | [Teen Ravine](https://open.spotify.com/artist/47r9votioiOOvwB9n6grXp) | [Teen Ravine](https://open.spotify.com/album/4nE73Z9RIOYrKLicCmVmYh) | 3:48 | 2021-01-16 | 2022-05-23 |
-| [Friends In Secret](https://open.spotify.com/track/6k92XAMEfiEPoslrJ9PkjY) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Juvenile](https://open.spotify.com/album/2oopzm9cOcnL5H4iYRMKlR) | 6:08 | 2024-01-08 |  |
+| [Friends In Secret](https://open.spotify.com/track/6k92XAMEfiEPoslrJ9PkjY) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Juvenile](https://open.spotify.com/album/2oopzm9cOcnL5H4iYRMKlR) | 6:08 | 2024-01-08 | 2024-03-05 |
 | [Friends In Secret](https://open.spotify.com/track/7LMn9rFcRyxRSn59jzITh1) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Juvenile](https://open.spotify.com/album/0XgNTaWLxBBaZHJ2Kog2N0) | 6:08 | 2021-02-24 | 2022-07-28 |
 | [Fruits of My Labor](https://open.spotify.com/track/6qWQRmO2za1TpP0tHYLhXw) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud +3](https://open.spotify.com/album/7kIdOOz6yIvEP6Z5RjhrCw) | 5:05 | 2021-06-01 | 2022-07-29 |
 | [Fun Guy](https://open.spotify.com/track/2FZVsjLFw4ePzyYp4cYNst) | [Brad Sucks](https://open.spotify.com/artist/13yy1c4aDXIWu2zfvtvGLn) | [Fun Guy](https://open.spotify.com/album/5DKgXfHdjWqryDLVfmBjpk) | 4:26 | 2021-10-09 | 2022-04-08 |
@@ -426,7 +428,7 @@
 | [neon](https://open.spotify.com/track/6OowiqIzUaMErs7eKAL9o8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [still sad still sexy](https://open.spotify.com/album/40lqihqmkBdwM0QczKnoME) | 3:25 | 2021-01-18 | 2022-04-14 |
 | [nervous](https://open.spotify.com/track/3zorFzOo3SA8VkV89FgRnu) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [nervous](https://open.spotify.com/album/0SRx4QsNCcQcEFrDuwLvGi) | 3:16 | 2020-10-29\* | 2022-04-14 |
 | [Next to You](https://open.spotify.com/track/6KCwPQApuQNQEV0hw93duq) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Next to You](https://open.spotify.com/album/1TdEFwpJ5LAmfdFNSjdok3) | 3:52 | 2020-10-29\* | 2022-07-27 |
-| [NFU](https://open.spotify.com/track/1RG9wGYVd6YyrYDDUqz2LU) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [NFU](https://open.spotify.com/album/6e5xluOlHaZPnI1ORf483L) | 3:41 | 2024-01-08 |  |
+| [NFU](https://open.spotify.com/track/1RG9wGYVd6YyrYDDUqz2LU) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [NFU](https://open.spotify.com/album/6e5xluOlHaZPnI1ORf483L) | 3:41 | 2024-01-08 | 2024-03-05 |
 | [Night Running](https://open.spotify.com/track/1moShKo1RrxZ8PCrhSIf8Q) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Night Running](https://open.spotify.com/album/7gaGQp9ZgV1OdSOnNkyHzB) | 3:28 | 2020-10-29\* | 2022-04-14 |
 | [Night Shift](https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu) | 6:31 | 2023-02-10 |  |
 | [Nights](https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 5:07 | 2023-02-10 |  |

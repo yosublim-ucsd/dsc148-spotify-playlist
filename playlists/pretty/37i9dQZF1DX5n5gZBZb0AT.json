@@ -1,12 +1,12 @@
 {
   "description": "all gains",
-  "num_followers": 382112,
+  "num_followers": 382834,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTQyZjMxM2ZlN2Y5NzAxYzhiYzcxOWZiYjA2NjFhNDE3ZGVlMGM3",
+  "snapshot_id": "MCxmYjRiMDBkNTNhZGVmNjIyNGRiN2RhNDY1MWFkNWI4YjI0ODFmYWI4",
   "tracks": [
     {
       "added_at": "2024-02-13 14:13:34",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-02-13 14:13:34",
       "album": {
-        "name": "Override",
-        "url": "https://open.spotify.com/album/3IivT4yfr3wvtbo1PTgzCP"
-      },
-      "artists": [
-        {
-          "name": "KSLV Noh",
-          "url": "https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627"
-        }
-      ],
-      "duration_ms": 114624,
-      "name": "Override",
-      "url": "https://open.spotify.com/track/6O4oKV3btLiEtOgEuplIUn"
-    },
-    {
-      "added_at": "2024-02-13 14:13:34",
-      "album": {
         "name": "EMPTY DREAMS",
         "url": "https://open.spotify.com/album/6F2YyORz7NH8jzGutSh4q2"
       },
@@ -731,6 +715,26 @@
       "duration_ms": 135000,
       "name": "EMPTY DREAMS",
       "url": "https://open.spotify.com/track/2HhzV3FY4eZGueF0KpXZUo"
+    },
+    {
+      "added_at": "2024-02-22 21:19:13",
+      "album": {
+        "name": "We Fell Apart",
+        "url": "https://open.spotify.com/album/3JyuOXGEoGuRSgJDDxwOCO"
+      },
+      "artists": [
+        {
+          "name": "overrated",
+          "url": "https://open.spotify.com/artist/5eZ9mxslGvxjRBTWbRfMfV"
+        },
+        {
+          "name": "Akucum",
+          "url": "https://open.spotify.com/artist/4iNoUF5jEZLr28VHuxHN9y"
+        }
+      ],
+      "duration_ms": 155480,
+      "name": "We Fell Apart - Slowed",
+      "url": "https://open.spotify.com/track/4oExAGoqR0JWK628dYaQ2f"
     }
   ],
   "unique_name": "gymcore",

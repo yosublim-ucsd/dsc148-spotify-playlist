@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 
 > Sweet gems to help you slow down and savor your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,107 likes - 125 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,242 likes - 125 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 | 35 | [If You Need To, Keep Time on Me](https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Crack\-Up](https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v) | 3:30 |
 | 36 | [The Barrel](https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI) | 4:59 |
 | 37 | [Hey Mama](https://open.spotify.com/track/71DxoKxpHcW8iaYNczwGi3) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Tearing At The Seams](https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp) | 4:00 |
-| 38 | [Colder Heavens](https://open.spotify.com/track/6Z2pu5Gq0uWJoaYWeWbQpX) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Colder Heavens \- EP](https://open.spotify.com/album/2Vtm2UF5puIkoaPl6CFdxA) | 4:33 |
-| 39 | [The Trouble with Wanting](https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:55 |
-| 40 | [I Just Love You](https://open.spotify.com/track/5fRXEJpIZKaDxsHOGpXXuS) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [The Summer Isles](https://open.spotify.com/album/05HEBowDsH1MMkERUsn6Tl) | 3:12 |
+| 38 | [I Just Love You](https://open.spotify.com/track/5fRXEJpIZKaDxsHOGpXXuS) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [The Summer Isles](https://open.spotify.com/album/05HEBowDsH1MMkERUsn6Tl) | 3:12 |
+| 39 | [Colder Heavens](https://open.spotify.com/track/6Z2pu5Gq0uWJoaYWeWbQpX) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Colder Heavens \- EP](https://open.spotify.com/album/2Vtm2UF5puIkoaPl6CFdxA) | 4:33 |
+| 40 | [The Trouble with Wanting](https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:55 |
 | 41 | [You Never Know](https://open.spotify.com/track/3BOU0eJQjfmhbZsQ76OJi9) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [You Never Know](https://open.spotify.com/album/5FecyVN6cTbuI1UnwvaYcD) | 4:50 |
 | 42 | [I have more than enough](https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [I have more than enough](https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6) | 5:28 |
 | 43 | [Poison & Wine](https://open.spotify.com/track/4BFudy2Zbryi9a1KFad66B) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:39 |
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 | 66 | [Fade Into You](https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Falling In](https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU) | 5:15 |
 | 67 | [Whiskey Whiskey](https://open.spotify.com/track/0c1rlIZao3TFvRWKBig16H) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Into the Depths of Hell](https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c) | 2:51 |
 | 68 | [Top to Toe](https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ) | 3:36 |
-| 69 | [Spirit Cold](https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 3:42 |
-| 70 | [Such A Simple Thing \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Spotify Singles](https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu) | 5:07 |
-| 71 | [Just Like That](https://open.spotify.com/track/4yYi79a3MEQ0pCRCvuxcuU) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 5:05 |
+| 69 | [Such A Simple Thing \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Spotify Singles](https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu) | 5:07 |
+| 70 | [Just Like That](https://open.spotify.com/track/4yYi79a3MEQ0pCRCvuxcuU) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 5:05 |
+| 71 | [Spirit Cold](https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 3:42 |
 | 72 | [The Swimmer \(To Be an Old Man\)](https://open.spotify.com/track/5YebJFFiYKBXYQYASFUuoD) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Bravado](https://open.spotify.com/album/1OOpLsjYm20UGottxYTusF) | 4:07 |
 | 73 | [Our Remains \- Acoustic](https://open.spotify.com/track/2ojNyfX7ioBiExsxKlDC7M) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [All Remains](https://open.spotify.com/album/6duXVbHPuAjgyR5kHyoyLw) | 3:47 |
 | 74 | [Cairo, IL](https://open.spotify.com/track/36S4cmtCiqFx3ywMpfSBDT) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Puxico](https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA) | 2:59 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 | 86 | [Astral Plane](https://open.spotify.com/track/1ISGSSgVnZhyiOGSI8itNa) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 3:38 |
 | 87 | [Easy Rider](https://open.spotify.com/track/16bjzffqGoXKFQ5DYJlsxU) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Before the Bridge](https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj) | 3:49 |
 | 88 | [Any Light](https://open.spotify.com/track/0M6t7xgQNc0EMIN6rJ4xJO) | [Loving](https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq) | [Any Light](https://open.spotify.com/album/14IfM9MyHqdo2523Lk0Szo) | 3:00 |
-| 89 | [Breakers Roar](https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [A Sailor's Guide to Earth](https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4) | 3:32 |
-| 90 | [Traveling Alone](https://open.spotify.com/track/4LJIX18V7BHO9k44yn7vfk) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Traveling Alone](https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R) | 4:44 |
+| 89 | [Traveling Alone](https://open.spotify.com/track/4LJIX18V7BHO9k44yn7vfk) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Traveling Alone](https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R) | 4:44 |
+| 90 | [Breakers Roar](https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [A Sailor's Guide to Earth](https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4) | 3:32 |
 | 91 | [Never Be Ourselves](https://open.spotify.com/track/4HsypsmwrhfF1hFj9xKh4o) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Twenty\-Twenty](https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO) | 3:40 |
 | 92 | [Coming Down the Mountain](https://open.spotify.com/track/3ogA3HTz2gSGTX8f135LJ5) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Coming Down the Mountain](https://open.spotify.com/album/6OfyzpeBx3DGxRxPTPHc5g) | 4:33 |
 | 93 | [First Defeat](https://open.spotify.com/track/32R0JVo7IU4UlhkU3yNvEc) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Ledges](https://open.spotify.com/album/1JwNRXyWu4PxK13mp51p8y) | 4:03 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 | 124 | [The West Coast of Clare](https://open.spotify.com/track/3mTkN13P0kiUtKWhAtbAP0) | [Dervish](https://open.spotify.com/artist/08DRTASY1wyduMevINkClA), [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [The Great Irish Songbook](https://open.spotify.com/album/7ngRumkLaxTRd7vNsirCns) | 5:26 |
 | 125 | [Belly of the Beast](https://open.spotify.com/track/288CVb86JcfAiuk9ZL6IDW) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Belly of the Beast / Paper Mountain](https://open.spotify.com/album/6GTreUmTaYdDIkWzS6F3GI) | 3:15 |
 
-Snapshot ID: `MCwwMmIyMGFlODY5MGRmNDllNjM1ZmEzMGNhMWIwNDQ0YzUyYTNkZjkw`
+Snapshot ID: `MCxhM2QxYTlkODhhZDE3ZjFmMWU0ZTc2Y2M5OGM1OWNiY2QzNWY2NTQ4`

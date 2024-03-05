@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 
 > This is Dharius\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,564 likes - 45 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,629 likes - 45 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 | 30 | [16 Toneladas](https://open.spotify.com/track/2zbrhonzYrXKiUbVx2czQt) | [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [16 Toneladas](https://open.spotify.com/album/38IwbkRgxq4eMIAR6MLU8j) | 3:26 |
 | 31 | [Estilo Malandro](https://open.spotify.com/track/5wLF7rGxYDi8qy4ch1IKGh) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Directo Hasta Arriba](https://open.spotify.com/album/15StyDArmT6s2A3zaiI552) | 3:32 |
 | 32 | [Hey Morra](https://open.spotify.com/track/0q7l3V8Hlbwvs2u9UN6w6P) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 3:53 |
-| 33 | [WARZONE FREESTYLE](https://open.spotify.com/track/18nOndaCCg6hx4OfzbiBXm) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Canciones Mamalonas 2](https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX) | 3:16 |
-| 34 | [La Mision 3](https://open.spotify.com/track/11cBc7p39GKbAzpN8izhbh) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Fermin IV](https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm) | [La Mision 3](https://open.spotify.com/album/5gA4AFEjzYhqv1OxixVOK6) | 4:42 |
+| 33 | [La Mision 3](https://open.spotify.com/track/11cBc7p39GKbAzpN8izhbh) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Fermin IV](https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm) | [La Mision 3](https://open.spotify.com/album/5gA4AFEjzYhqv1OxixVOK6) | 4:42 |
+| 34 | [WARZONE FREESTYLE](https://open.spotify.com/track/18nOndaCCg6hx4OfzbiBXm) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Canciones Mamalonas 2](https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX) | 3:16 |
 | 35 | [Inhala](https://open.spotify.com/track/19U70d6IpR3x8XRBfGMXXI) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Yayo](https://open.spotify.com/artist/74ygGK6cTqo0Q7UadJytEJ) | [Inhala](https://open.spotify.com/album/5BC1qGaUadJLd5y4QIhhJS) | 4:05 |
 | 36 | [Te Gustan Malos](https://open.spotify.com/track/6VexUh4HjrQOBEGhLKspoS) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:06 |
 | 37 | [\#LQMQ](https://open.spotify.com/track/2U05xDmQBWf3nY01ZUTLPp) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [\#LQMQ](https://open.spotify.com/album/2wlQGKcIoJ2rm7dvgmTanP) | 3:31 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 | 44 | [Te Enganchaste Mal \- Radio Edit](https://open.spotify.com/track/0LU0C4fZDavfWtUN4PhRr9) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Bakles](https://open.spotify.com/artist/1pJjYafqmpogl5o0OzkaP4), [Sebastian Llapur](https://open.spotify.com/artist/1TELtuCpDL3sbZnxXQApD0) | [Te Enganchaste Mal \(Radio Edit\)](https://open.spotify.com/album/2Ig1ZdiAEwjyubp9YBWiqZ) | 3:28 |
 | 45 | [El After Porky](https://open.spotify.com/track/0floU1nPyzIRi2QaEvm4Bu) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Directo Hasta Arriba](https://open.spotify.com/album/15StyDArmT6s2A3zaiI552) | 3:43 |
 
-Snapshot ID: `Mjg0OTExMzksMDAwMDAwMDAxMjYyYTg3ZTA2YjliZTYwOWNlODUyZTY5Y2JmNjY2Zg==`
+Snapshot ID: `Mjg0OTI1NjksMDAwMDAwMDAwMjM3YWU1YTViOGQ1NTMxOGY4MDdjMTQwOGExMWUxNw==`

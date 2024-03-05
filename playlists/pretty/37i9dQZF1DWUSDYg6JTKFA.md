@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 
 > In the storms of life, hold onto the promise of hope and love with this playlist and bring Him glory.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,887 likes - 65 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,981 likes - 65 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 34 | [Home](https://open.spotify.com/track/2aMb1asq5acm7cDYlFsYhY) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Never Lose Sight \(Deluxe Edition\)](https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F) | 3:39 |
 | 35 | [Hope in Front of Me](https://open.spotify.com/track/520DLGbk0HtjYAkcTVjuaq) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Hope In Front of Me](https://open.spotify.com/album/58MAD1NrlMznn1k5C4up8M) | 3:37 |
 | 36 | [Hills and Valleys](https://open.spotify.com/track/3jWo2yhB8vq8c2OMgPg25D) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 3:55 |
-| 37 | [Jesus We Love You \- Live](https://open.spotify.com/track/1saXUvvFlAQaefZUFVmhCn) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz) | [We Will Not Be Shaken \(Live\)](https://open.spotify.com/album/2e3CuXNmlLd5d8OoI2naop) | 6:55 |
-| 38 | [Touch The Sky](https://open.spotify.com/track/58yhHre6kOePZPD15hZWgP) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Empires](https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD) | 4:22 |
-| 39 | [Give Me Your Eyes](https://open.spotify.com/track/7HQn99HBIBHWkZfTMR8Kki) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [What If We](https://open.spotify.com/album/69d6G8jlDQXmnpP4aV3azk) | 3:52 |
-| 40 | [Bleed The Same](https://open.spotify.com/track/5c1gWcamTmYP1t3UwN6caS) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Out Of The Dark](https://open.spotify.com/album/0HXOO7P7QQHPzUHDbSGKMF) | 4:04 |
-| 41 | [Fight On, Fighter](https://open.spotify.com/track/7lPM8uXuIO5MDWv6L0TPaZ) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Burn The Ships](https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh) | 3:38 |
+| 37 | [Give Me Your Eyes](https://open.spotify.com/track/7HQn99HBIBHWkZfTMR8Kki) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [What If We](https://open.spotify.com/album/69d6G8jlDQXmnpP4aV3azk) | 3:52 |
+| 38 | [Jesus We Love You \- Live](https://open.spotify.com/track/1saXUvvFlAQaefZUFVmhCn) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz) | [We Will Not Be Shaken \(Live\)](https://open.spotify.com/album/2e3CuXNmlLd5d8OoI2naop) | 6:55 |
+| 39 | [Bleed The Same](https://open.spotify.com/track/5c1gWcamTmYP1t3UwN6caS) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Out Of The Dark](https://open.spotify.com/album/0HXOO7P7QQHPzUHDbSGKMF) | 4:04 |
+| 40 | [Fight On, Fighter](https://open.spotify.com/track/7lPM8uXuIO5MDWv6L0TPaZ) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Burn The Ships](https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh) | 3:38 |
+| 41 | [Touch The Sky](https://open.spotify.com/track/58yhHre6kOePZPD15hZWgP) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Empires](https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD) | 4:22 |
 | 42 | [Born Again](https://open.spotify.com/track/6UPzYldiFNx9jssIxwuyYv) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Wide Open](https://open.spotify.com/album/55oYFRbA2tOa7q0YRH4K8B) | 2:55 |
 | 43 | [I Need A Miracle](https://open.spotify.com/track/2gXwMixw0voLNVxPr4Ja6v) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch) | [Miracle](https://open.spotify.com/album/2Ucfsu0BFP0UMEuHcLjzH3) | 3:42 |
 | 44 | [He Knows](https://open.spotify.com/track/1sglby2dgYxUyca0wcBRhw) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [I Will Follow](https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V) | 3:28 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 64 | [Who You Say I Am \- Live](https://open.spotify.com/track/6nkJ6jerrO6S4V0kdc4KRp) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Reuben Morgan](https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05) | [Who You Say I Am \(Live\)](https://open.spotify.com/album/6AwxNZobkuWGt3PFL5wFVc) | 5:29 |
 | 65 | [Good Good Father](https://open.spotify.com/track/2tMjhETPLkWILXN3NnmDt3) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Good Good Father](https://open.spotify.com/album/5CHkSTtxezt4A1bqDnzoJW) | 4:57 |
 
-Snapshot ID: `MCw1MDdlYjY1OGJhN2ViYzI2ZTU5OTIxODVmYzFlZTVmZDMyZjg2NDJl`
+Snapshot ID: `MCw3MzQ0ZjVkN2Q2NTEzNjcwZjRkM2U2ZWU1NWIzNjg0N2U3ZjBhMGNk`

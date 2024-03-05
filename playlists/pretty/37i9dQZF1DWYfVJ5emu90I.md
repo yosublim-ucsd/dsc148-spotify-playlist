@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,995 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,013 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,12 +15,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 5 | [DOSHABURI \- Remix](https://open.spotify.com/track/1C0685pFZ12nvdKbKzQ6Of) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [DOSHABURI \(Remix\)](https://open.spotify.com/album/1niQ3Lv07r3c1hJiixXKKp) | 4:00 |
 | 6 | [FFNM](https://open.spotify.com/track/3EPKoSpFOUULrkUEQRcrMF) | [Bank.Somsaart](https://open.spotify.com/artist/5sBMNCNuKL52Z5gS066PJT) | [Who ride wit us](https://open.spotify.com/album/1uJQ4jsQqIJb7EaWwhtvA8) | 2:44 |
 | 7 | [FLY](https://open.spotify.com/track/6BkXrlhT0eJYc6ingXKM0P) | [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3), [BLAISE](https://open.spotify.com/artist/3qNQdzi0cdAEz9p64r41Xb), [S TILL I DIE](https://open.spotify.com/artist/1ICd95tL6iZcEKFEQpuWaW) | [FLY](https://open.spotify.com/album/0jVGbk26C3NaEdLRO7SIyA) | 3:00 |
-| 8 | [Swervin](https://open.spotify.com/track/1qveERsaCbg1nvPfvnPsyt) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [Swervin](https://open.spotify.com/album/3lnRrmdoFss71XpNS5j6d9) | 2:51 |
+| 8 | [RASEN in OKINAWA](https://open.spotify.com/track/0fMmPHi9En7OQBH08Zqxq9) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [Tsubaki](https://open.spotify.com/artist/1kTgsTapNxgD7vcgcBoxMx), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [THE UNION](https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp) | 4:49 |
 | 9 | [Rental Gold Tesla](https://open.spotify.com/track/57c39ZELVgjZ3BavaMMTgS) | [SHO](https://open.spotify.com/artist/5LB9PUYILc91y1BHtqJL4d) | [Rental Gold Tesla](https://open.spotify.com/album/0pfyM76zqYelvBcfKQQ6Zz) | 2:44 |
 | 10 | [X RIOT](https://open.spotify.com/track/5yPK6NNA4nC2ELMrBvnXQC) | [XLARGE](https://open.spotify.com/artist/6J2XZJTbKOXfS2UJKjy3Hv), [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [X RIOT](https://open.spotify.com/album/4qB6NgvgbFxqwxYW56s1xk) | 3:08 |
-| 11 | [OKE](https://open.spotify.com/track/6y2q7bLJT6pHcrFzhKEE1Y) | [Maddy Soma](https://open.spotify.com/artist/1wFTlSSnvzNxs7FpbTyEuO) | [Cultural Reset](https://open.spotify.com/album/79AFzidiqcGb2KEmrajhos) | 2:26 |
+| 11 | [Swervin](https://open.spotify.com/track/1qveERsaCbg1nvPfvnPsyt) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [Swervin](https://open.spotify.com/album/3lnRrmdoFss71XpNS5j6d9) | 2:51 |
 | 12 | [UNSHAKABLE \- DRIFT](https://open.spotify.com/track/7xWTPOJKvYPpS1w0mqRFQ2) | [D\-SETO](https://open.spotify.com/artist/5elaXaxdLd2cN5x2H7N8YG), [FULLMATIC](https://open.spotify.com/artist/2QQLXRKZTRHWgbzfCz5ZSU) | [UNSHAKABLE \(DRIFT\)](https://open.spotify.com/album/3DMtemZpCuCt4VQmGeNJvC) | 2:31 |
-| 13 | [RASEN in OKINAWA](https://open.spotify.com/track/0fMmPHi9En7OQBH08Zqxq9) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [Tsubaki](https://open.spotify.com/artist/1kTgsTapNxgD7vcgcBoxMx), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [THE UNION](https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp) | 4:49 |
+| 13 | [OKE](https://open.spotify.com/track/6y2q7bLJT6pHcrFzhKEE1Y) | [Maddy Soma](https://open.spotify.com/artist/1wFTlSSnvzNxs7FpbTyEuO) | [Cultural Reset](https://open.spotify.com/album/79AFzidiqcGb2KEmrajhos) | 2:26 |
 | 14 | [Get Back](https://open.spotify.com/track/0lxWZTQh1QLGH0mKHfMcip) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [Get Back](https://open.spotify.com/album/5n3LWRLAo23gemhWfTB4Mc) | 3:27 |
 | 15 | [Trigger Warning \(feat\. Wolftyla & MIYACHI\)](https://open.spotify.com/track/3NR2iPVXDninKefAV2uGpz) | [Shawn Wasabi](https://open.spotify.com/artist/1DLKitfb8fshL0DtCecRpY), [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb), [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [Trigger Warning \(feat\. Wolftyla & MIYACHI\)](https://open.spotify.com/album/3UapHPsXKIV6JEhpMwiAfH) | 2:31 |
 | 16 | [4 MY CULT](https://open.spotify.com/track/1fKeLutFtUHBleFW010cNp) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [4 MY CULT](https://open.spotify.com/album/2jk9bSrhkHp2XAVXi22BDz) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 49 | [Stoic](https://open.spotify.com/track/4cmqpvqVlJxPMPiQYLEQXX) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [Minchanbaby](https://open.spotify.com/artist/1gbTvzWZ32tJXVmjgYPK2f), [KLOOZ](https://open.spotify.com/artist/35uGJqYaiI3VvbKh5XeKx4), [BACHLOGIC](https://open.spotify.com/artist/2ywZEDFSCGI0zuycGdCwQ9) | [19](https://open.spotify.com/album/50eJphAb6hdTsV26JrjsGW) | 2:49 |
 | 50 | [SUSUME](https://open.spotify.com/track/5IMqWUA7WsgPpDkx7g21pZ) | [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [MONIBUM](https://open.spotify.com/album/6AAt2CGe0l0eH4Z3cwZyc8) | 3:18 |
 
-Snapshot ID: `MCw2NzYxMTEwZTUwMTg2ODRmOTgyOTdjZDViN2VhYTE3Mjc4ZGI0OTI3`
+Snapshot ID: `MCxjOTliMzViYzc5YjQ2YmM3NTQ0ZjQ2MWM3ZTIyNGViY2JiYTZkMDM5`

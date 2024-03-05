@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 
 > soundtrack those long, dark days with warm indie favourites
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,271 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,298 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 | 99 | [LOVE IN THE DARK](https://open.spotify.com/track/5x2lZUtUdC4OifINwav94P) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 3:59 |
 | 100 | [homebody](https://open.spotify.com/track/4By9kkp1R1TSmAMckSM3KO) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [sucks to see you doing better \(extended\)](https://open.spotify.com/album/2W8nO4x2KlHc3z3xxe23PW) | 3:11 |
 
-Snapshot ID: `MCwwY2I1ZGU2NTQzYjM0YjBkZTk1ZDRjMjk3ZmVjOGEzMzkxZmEyNWYw`
+Snapshot ID: `MCwxYjFjYTNmMTA5OWI3YTI4N2M4ZmEwM2Y3MTJmYzYwOTg3NWYzZjdl`

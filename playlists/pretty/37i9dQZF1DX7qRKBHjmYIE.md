@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con YoSoyMatt.
 
-[Spotify](https://open.spotify.com/user/spotify) - 751,824 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 751,812 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,12 +58,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 48 | [Kafka](https://open.spotify.com/track/0dPMYriM07Lu8Md86ZEiIf) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [Kafka](https://open.spotify.com/album/0gptfIY6g3e1xTrb9019J7) | 2:33 |
 | 49 | [Lindo Lindo](https://open.spotify.com/track/3Hvva8vE6RffJZRozTBJ9r) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Lindo Lindo](https://open.spotify.com/album/2SDuXDfdmj1HNuiovoCOdZ) | 3:43 |
 | 50 | [low key](https://open.spotify.com/track/3bCRdEmYFPFQXQuw4kVKab) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [low key](https://open.spotify.com/album/7C0ZJIs2Xe4VdwyhENJSQF) | 4:14 |
-| 51 | [Rayo de Sol](https://open.spotify.com/track/4drV7E6Js7fUFi9DPytzFP) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky) | [Mamá Flor](https://open.spotify.com/album/2Kh4wcnhEPSbbrExSSpOOz) | 3:20 |
-| 52 | [Blockbuster \(90's R&B\)](https://open.spotify.com/track/5wa8q4KYRxU5Ch8KhPIrJu) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Blockbuster \(90's R&B\)](https://open.spotify.com/album/55M9YK89rE00TLo6TY8Cdk) | 3:27 |
-| 53 | [Nervios de Acero](https://open.spotify.com/track/5AtOFc69R8iYQlShJoXB3n) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Nervios de Acero](https://open.spotify.com/album/0Q1CgNC7kxF5R1Ln5LfTO2) | 3:07 |
+| 51 | [Nervios de Acero](https://open.spotify.com/track/5AtOFc69R8iYQlShJoXB3n) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Nervios de Acero](https://open.spotify.com/album/0Q1CgNC7kxF5R1Ln5LfTO2) | 3:07 |
+| 52 | [Rayo de Sol](https://open.spotify.com/track/4drV7E6Js7fUFi9DPytzFP) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky) | [Mamá Flor](https://open.spotify.com/album/2Kh4wcnhEPSbbrExSSpOOz) | 3:20 |
+| 53 | [Blockbuster \(90's R&B\)](https://open.spotify.com/track/5wa8q4KYRxU5Ch8KhPIrJu) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Blockbuster \(90's R&B\)](https://open.spotify.com/album/55M9YK89rE00TLo6TY8Cdk) | 3:27 |
 | 54 | [Tu Camisa](https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ), [Shantty](https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd) | [Tu Camisa](https://open.spotify.com/album/6fYQvDMkyLG4g0WruzRBbV) | 3:08 |
-| 55 | [VUELTIANDO](https://open.spotify.com/track/6P7pVqYGeMPmH7EjRFO7Un) | [OMGisNEFF](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g), [Neverknwn](https://open.spotify.com/artist/3h83Vh5q1KWo8KkvvV1kPa) | [VUELTIANDO](https://open.spotify.com/album/0ROCZQoKTnW6IcVw1vgmIh) | 2:54 |
-| 56 | [Tengo Miedo](https://open.spotify.com/track/75ApJOCeGeraJfxIl4qAlI) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Tengo Miedo](https://open.spotify.com/album/63NmYmkeAvkVvSezKDKYxp) | 3:03 |
+| 55 | [Tengo Miedo](https://open.spotify.com/track/75ApJOCeGeraJfxIl4qAlI) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Tengo Miedo](https://open.spotify.com/album/63NmYmkeAvkVvSezKDKYxp) | 3:03 |
+| 56 | [VUELTIANDO](https://open.spotify.com/track/6P7pVqYGeMPmH7EjRFO7Un) | [OMGisNEFF](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g), [Neverknwn](https://open.spotify.com/artist/3h83Vh5q1KWo8KkvvV1kPa) | [VUELTIANDO](https://open.spotify.com/album/0ROCZQoKTnW6IcVw1vgmIh) | 2:54 |
 | 57 | [Dos Extraños](https://open.spotify.com/track/2InhKV1mZAkERacOHu7Shb) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Esta vida que elegí](https://open.spotify.com/album/0alnRc5CatL1is7bUqJ1j9) | 3:07 |
 | 58 | [Y Qué](https://open.spotify.com/track/1Dd6CuCiuoTj0eiBnGnx4X) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r), [Lena Dardelet](https://open.spotify.com/artist/37orxD8Q5PDm53FazTRpP7) | [Y Qué](https://open.spotify.com/album/2ZkVwLuSNV8589HxndjDgZ) | 2:48 |
 | 59 | [NO ME QUIERO PEGAR](https://open.spotify.com/track/2qr5SkLknb2hb9M94PZF1i) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [NO ME QUIERO PEGAR](https://open.spotify.com/album/6s15SoE9vTGRftxRb8SJs0) | 2:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 74 | [DEMONIO](https://open.spotify.com/track/6FQ4GVuaq7hTsFcSh7mqMZ) | [Maria Blaya](https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75) | [GRANDE](https://open.spotify.com/album/6cV5ziMH2KfyIxxooKNA4L) | 2:28 |
 | 75 | [NEFERTITI](https://open.spotify.com/track/7lzPfB1olio7eZQrWzwiao) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [NEFERTITI](https://open.spotify.com/album/2rzX7Khx99btvr94q2aXNE) | 2:36 |
 
-Snapshot ID: `MCw5NmFjODMxMmU4OGJjM2U3OTA0NGRiZjQzNzcxYTVkODljYmU1NWNl`
+Snapshot ID: `MCxlMzk4MTkzYmNiMGVkNzk1YjhjNzRlMDU5OGY5ZDMxY2M0Y2JhMzkz`

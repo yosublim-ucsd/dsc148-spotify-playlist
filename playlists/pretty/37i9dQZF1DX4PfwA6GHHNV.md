@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > pra curtir o puro afrobeats feito no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,998 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,005 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 43 | [Desacelera](https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Emiká](https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB) | [Desacelera](https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo) | 2:44 |
 | 44 | [O Que Ela Tem?](https://open.spotify.com/track/68csPARkvDN7lXPnqJJFja) | [Volpato](https://open.spotify.com/artist/2oRKjDzl0iaeEyk8SO2pWl), [BETINHO](https://open.spotify.com/artist/51CZxgpuuYyBfyM99WEnWa), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym) | [O Que Ela Tem?](https://open.spotify.com/album/2VzqF8GFXe6zF6xho5ZBJ7) | 2:13 |
 | 45 | [Tô Aqui de Novo](https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo) | [Vinijoe](https://open.spotify.com/artist/3WpBCx2iY4izkCdALJW2Tg), [Pedrin 31](https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx) | [Tô Aqui de Novo](https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp) | 3:35 |
-| 46 | [Enquanto o tempo passa](https://open.spotify.com/track/7DtF6vbzhFwlxI4eDWsB06) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Enquanto o tempo passa](https://open.spotify.com/album/3Z25lZgzdpM0Zd1LE3g6u0) | 2:11 |
-| 47 | [Veneno](https://open.spotify.com/track/3mdQSQI8aYJbYmFnod2ErL) | [Tito JV](https://open.spotify.com/artist/1TFFn6Fd2tbXhemafsPdao), [Dj Leopoldo](https://open.spotify.com/artist/2M52eKgaUDTtOV11sxXk1o) | [Veneno](https://open.spotify.com/album/3sQK9FAmoPBct69Clj6TB5) | 2:46 |
-| 48 | [Águas Passadas](https://open.spotify.com/track/79GwP7SMbG7EESOvQ6Toaj) | [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Águas Passadas](https://open.spotify.com/album/5Vwbvq1tNraNK5OAbrD1xc) | 2:38 |
-| 49 | [Natureza](https://open.spotify.com/track/7HUgyJJ6xMLA3Y0kQaNPub) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [Natureza](https://open.spotify.com/album/19DOtV64ZPswRZNDJqeGVd) | 2:24 |
+| 46 | [Veneno](https://open.spotify.com/track/3mdQSQI8aYJbYmFnod2ErL) | [Tito JV](https://open.spotify.com/artist/1TFFn6Fd2tbXhemafsPdao), [Dj Leopoldo](https://open.spotify.com/artist/2M52eKgaUDTtOV11sxXk1o) | [Veneno](https://open.spotify.com/album/3sQK9FAmoPBct69Clj6TB5) | 2:46 |
+| 47 | [Águas Passadas](https://open.spotify.com/track/79GwP7SMbG7EESOvQ6Toaj) | [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Águas Passadas](https://open.spotify.com/album/5Vwbvq1tNraNK5OAbrD1xc) | 2:38 |
+| 48 | [Natureza](https://open.spotify.com/track/7HUgyJJ6xMLA3Y0kQaNPub) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [Natureza](https://open.spotify.com/album/19DOtV64ZPswRZNDJqeGVd) | 2:24 |
+| 49 | [Enquanto o tempo passa](https://open.spotify.com/track/7DtF6vbzhFwlxI4eDWsB06) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Enquanto o tempo passa](https://open.spotify.com/album/3Z25lZgzdpM0Zd1LE3g6u0) | 2:11 |
 | 50 | [MAIS VERDE](https://open.spotify.com/track/2BxKBFEeOfpeQOpV8bNbFR) | [2:22](https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4) | [MAIS VERDE](https://open.spotify.com/album/03hQA7A54xkG4W8za0H4Yl) | 3:28 |
 
-Snapshot ID: `MCw5MGYwMGEyM2M0MzdkNjIxOTg1MDA5Mjg1MDExYTlkZjVjNzQ5NDZk`
+Snapshot ID: `MCw0ODRkYzUxOTBmNzU0MjZhNDdjNzk4NzE5YTdjOGIxMWQ0OTk2MmQ4`

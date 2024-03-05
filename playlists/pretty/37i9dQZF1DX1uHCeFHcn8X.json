@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 2010s. ",
-  "num_followers": 1105099,
+  "num_followers": 1105436,
   "original_name": "Soft 10s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWRmZmFjZTZhOWI2NDViODhlNTkwYjY2MTVhODYzM2NiMDA3Zjhl",
+  "snapshot_id": "MCw4ODY1OWVjMTYzMjgxMmQ0YWU3YTFhMzU3ZmE4N2VhOGUyMjVlMjY1",
   "tracks": [
     {
       "added_at": "2023-04-05 17:26:45",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 220734,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
         "name": "My Dear Melancholy,",
         "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 236053,
       "name": "Young And Beautiful",
       "url": "https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 220734,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 172723,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
         "name": "Freudian",
         "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
       },
@@ -491,6 +475,22 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 172723,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
         "name": "x (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
       },
@@ -503,6 +503,22 @@
       "duration_ms": 258986,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 233626,
+      "name": "Getaway Car",
+      "url": "https://open.spotify.com/track/0VE4kBnHJUgtMf0dy6DRmW"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -535,22 +551,6 @@
       "duration_ms": 237300,
       "name": "7 Years",
       "url": "https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
-        "name": "reputation",
-        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 233626,
-      "name": "Getaway Car",
-      "url": "https://open.spotify.com/track/0VE4kBnHJUgtMf0dy6DRmW"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 240133,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
         "name": "Bored",
         "url": "https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 260252,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 240133,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "thank u, next",
-        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 207320,
-      "name": "thank u, next",
-      "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
         "name": "Fine Line",
         "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 207133,
       "name": "Adore You",
       "url": "https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 207320,
+      "name": "thank u, next",
+      "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 290900,
-      "name": "When We Were Young",
-      "url": "https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
         "name": "Jealous - EP",
         "url": "https://open.spotify.com/album/6bsCl6iS6dvC4xaiBlecPv"
       },
@@ -1787,6 +1771,22 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 290900,
+      "name": "When We Were Young",
+      "url": "https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
         "name": "Harry Styles",
         "url": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV"
       },
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 295502,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/62PaSfnXSMyLshYJrlTuL3"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
         "name": "Doo-Wops & Hooligans",
         "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 189109,
       "name": "The Lazy Song",
       "url": "https://open.spotify.com/track/1ExfPZEiahqhLyajhybFeS"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 295502,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/62PaSfnXSMyLshYJrlTuL3"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -3819,18 +3819,18 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
+        "name": "GALLERY",
+        "url": "https://open.spotify.com/album/2FNk380jCQyICbwtkOdEHE"
       },
       "artists": [
         {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+          "name": "A R I Z O N A",
+          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
         }
       ],
-      "duration_ms": 246320,
-      "name": "Incredible",
-      "url": "https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4"
+      "duration_ms": 194013,
+      "name": "Oceans Away",
+      "url": "https://open.spotify.com/track/6A8dnC0xkiuWN4BshmTB2I"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -3851,22 +3851,6 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "GALLERY",
-        "url": "https://open.spotify.com/album/2FNk380jCQyICbwtkOdEHE"
-      },
-      "artists": [
-        {
-          "name": "A R I Z O N A",
-          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
-        }
-      ],
-      "duration_ms": 194013,
-      "name": "Oceans Away",
-      "url": "https://open.spotify.com/track/6A8dnC0xkiuWN4BshmTB2I"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
         "name": "Let You Love Me",
         "url": "https://open.spotify.com/album/4INRJMYMJrSPsf5mbW26Fm"
       },
@@ -3879,6 +3863,22 @@
       "duration_ms": 190000,
       "name": "Let You Love Me",
       "url": "https://open.spotify.com/track/6xtcFXSo8H9BZN637BMVKS"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 246320,
+      "name": "Incredible",
+      "url": "https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -3947,6 +3947,22 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
+        "name": "Robin Hood",
+        "url": "https://open.spotify.com/album/0mVaxvFtKPMSLCNmyEmh6l"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Robin Hood",
+      "url": "https://open.spotify.com/track/5dyihZecYMcEPq09Bk2OL2"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
         "name": "1989 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/34OkZVpuzBa9y40DCy0LPR"
       },
@@ -3975,22 +3991,6 @@
       "duration_ms": 201694,
       "name": "Favourite Ex",
       "url": "https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
-        "name": "Robin Hood",
-        "url": "https://open.spotify.com/album/0mVaxvFtKPMSLCNmyEmh6l"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Robin Hood",
-      "url": "https://open.spotify.com/track/5dyihZecYMcEPq09Bk2OL2"
     },
     {
       "added_at": "2023-04-05 17:26:45",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Shaina Hayes
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,604 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,631 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [Everyday Life](https://open.spotify.com/track/33nIBZLkbps2iecMwXKCFs) | [Honas](https://open.spotify.com/artist/6NqnUmcBfI4tWK56ZC1Nkw) | [Everyday Life](https://open.spotify.com/album/39c9kw2EIAHmMS5PcieAuJ) | 2:34 |
 | 100 | [dopamine](https://open.spotify.com/track/2A7fgpVBSDrXKkJxt0MvYv) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [dopamine](https://open.spotify.com/album/38DO8HcSkiWtDXPmSLk6gx) | 2:38 |
 
-Snapshot ID: `MCwwYWNkZDM4ZGI0YzU5ODkzOTFkZTNkNjFhYTc1ZDNhYzc0ZDNlMGE1`
+Snapshot ID: `MCw1YzRkNmVhMjUwNDllODkzZDkxZjVlNDYwZGYyNDg3Yjc3NzlhZTE1`

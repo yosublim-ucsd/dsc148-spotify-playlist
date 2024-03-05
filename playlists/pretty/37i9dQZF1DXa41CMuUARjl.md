@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from LP Giobbi
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,814 likes - 105 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,900 likes - 105 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [stayinit](https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [stayinit](https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF) | 4:34 |
 | 2 | [How Deep Is Your Love](https://open.spotify.com/track/6HdbvXwjglsjSnV9H4XTEX) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [hermixalot](https://open.spotify.com/artist/6hdb3ZH5gpJxqFPdXRGmdC) | [How Deep Is Your Love](https://open.spotify.com/album/2CqDu15PFUQlGmpjWUPATE) | 5:16 |
 | 3 | [Von dutch](https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Von dutch](https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw) | 2:44 |
-| 4 | [Hard dreams](https://open.spotify.com/track/1sJAQWkZdaJDsPifl1fvOd) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Hard dreams](https://open.spotify.com/album/15kCPeNnhlUuZfKyr1CJuy) | 2:50 |
+| 4 | [Hard dreams](https://open.spotify.com/track/1sJAQWkZdaJDsPifl1fvOd) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP), [Yan Wagner](https://open.spotify.com/artist/7JLtS4ASAUsAYrsShMerMc) | [Hard dreams](https://open.spotify.com/album/15kCPeNnhlUuZfKyr1CJuy) | 2:50 |
 | 5 | [We Groovin \(with Jazzy\)](https://open.spotify.com/track/6LiuMpZjyjjuXFP5Ljo9bv) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [We Groovin \(with Jazzy\)](https://open.spotify.com/album/21mqL1eOj7aRJQUwOQakcH) | 3:01 |
 | 6 | [Anthem](https://open.spotify.com/track/3JdZapCja0ufmNY9Vqi1ia) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sharam](https://open.spotify.com/artist/7rVEQZBDtYmToQaYOQJCm2), [Pony](https://open.spotify.com/artist/5YVzHQeLnRkEYK5T5XFQ0q) | [Anthem](https://open.spotify.com/album/6Syz5BAAt7sDWPKUSRVP7T) | 3:26 |
 | 7 | [Lighter](https://open.spotify.com/track/7hdNTegC0TCKKoxB6GTFH3) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Lighter](https://open.spotify.com/album/2cmZbWwfMq8VCGN4gqCZn7) | 2:52 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 104 | [Elevator](https://open.spotify.com/track/6fDRfO9Llh64gJSPDgiig0) | [Dafne](https://open.spotify.com/artist/54xPMIEeUNucXIoW23jWoH), [Unusual Magic](https://open.spotify.com/artist/4AHUy6q8kZWNyBoxtyCzjZ) | [Elevator](https://open.spotify.com/album/6Tqp8IcuQCznRPiPfy3ejz) | 2:03 |
 | 105 | [Hold Me](https://open.spotify.com/track/3RVPa3rkop38ApKJP1069H) | [Azooland](https://open.spotify.com/artist/57Vi4e6NaX8OZqeYCJq4kQ), [Nickobella](https://open.spotify.com/artist/4Bhe7FjSfLHTbUPIm5EnQt) | [Hold Me](https://open.spotify.com/album/6dfM99gnfc9wTmLux8HP9p) | 2:47 |
 
-Snapshot ID: `MCxjYzJjMjVjZjk4ZDk4MjFiNmFiN2FjZmQ3NjcxYzE4YTBkOTQ4MDZm`
+Snapshot ID: `MCw2MWYxZThjMmYwNmJiMmVmMTdkN2RhNzAyY2VjYjEzMTE4ODIxMWZl`

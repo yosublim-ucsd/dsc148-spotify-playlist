@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลง T\-Pop โดนใจ อัปเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: ATLAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,451 likes - 65 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,482 likes - 65 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 64 | [ข้อยกเว้น \(Exceptional\)](https://open.spotify.com/track/0T7uw5pfozE3gvom4ALE8D) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [ข้อยกเว้น \(Exceptional\)](https://open.spotify.com/album/6B21RxfWjt5eiNo9QchBIv) | 3:03 |
 | 65 | [คุยแก้เหงา \(MR\. LONELY\)](https://open.spotify.com/track/2vQjt6vAghkAHa5WObuF2W) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [คุยแก้เหงา \(MR\. LONELY\)](https://open.spotify.com/album/1XtKXmvNFMiuGJZ4vsxmVZ) | 3:43 |
 
-Snapshot ID: `MCw2NTMxY2JlOGIxN2Y0Y2UzNWYyMGQwODhkZDJiYmYyMTk3NmI0YTk0`
+Snapshot ID: `MCxmM2I0MzQ0MTIxMmU0NDNiMTE4OWZmMGRiNTgzOTEwMjM5MmM4ZTY0`

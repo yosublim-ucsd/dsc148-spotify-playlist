@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 802343,
+  "2024-03-05": 802403,
   "date_first_scraped": "2021-12-21",
   "description": "Repeat-free hours of new and beloved indie folk. Cover: Marika Hackman",
   "name": "Infinite Indie Folk",
@@ -6468,6 +6468,24 @@
     },
     {
       "album": {
+        "name": "Nothing to Lose",
+        "url": "https://open.spotify.com/album/3MLs9OSTBURXZ87o8ItJSp"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237666,
+      "name": "Nothing to Lose",
+      "url": "https://open.spotify.com/track/434io34sIbKCD3KzuoJCg5"
+    },
+    {
+      "album": {
         "name": "notre dame",
         "url": "https://open.spotify.com/album/6FG85HWGBfk6AbHszOjuSN"
       },
@@ -6979,7 +6997,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 265962,
       "name": "Purple",
       "url": "https://open.spotify.com/track/5zzbToGMuEli0E7RVFIhDA"

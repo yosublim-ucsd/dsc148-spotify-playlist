@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaipYDJRIDH9.md) - [plain]
 
 > Piano instrumental para ajudar sua concentração na hora de ler e estudar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,589 likes - 100 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,607 likes - 100 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaipYDJRIDH9.md) - [plain]
 | 20 | [Mélange Weaved](https://open.spotify.com/track/4xmr3ICJGqZFJAOTWWo5ZV) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Mélange Weaved](https://open.spotify.com/album/1h991c5WZCjEVDxBsdF8Rq) | 2:06 |
 | 21 | [The Old Chapel](https://open.spotify.com/track/47tqkzmEb9HmxGYXA0HERN) | [Max Goethe](https://open.spotify.com/artist/2nZU81jrG7xjPA8a3pZZmf) | [The Old Chapel](https://open.spotify.com/album/4WdLOyBKFk1KV6lANVXvOL) | 2:09 |
 | 22 | [There Is Light](https://open.spotify.com/track/4ZdgNKRy8OJcuUEAfErHfZ) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [There Is Light](https://open.spotify.com/album/6AcZrFuuDEO6AJAOTNM6Jg) | 2:58 |
-| 23 | [Smile in the wind](https://open.spotify.com/track/1qb6AsW7Y4kXTQpExCW2xm) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Smile in the wind](https://open.spotify.com/album/0uQE309NUZTFs9jfLV4KSp) | 2:05 |
-| 24 | [Countless](https://open.spotify.com/track/2D81ZsdcSyofVfZULWD2rI) | [Lynn Kay](https://open.spotify.com/artist/1y2zzoYNLRN6jCwiUzcKgE) | [Countless](https://open.spotify.com/album/2YFHlVbfyfXwHtLJnAX0o3) | 2:26 |
-| 25 | [No Goodbye](https://open.spotify.com/track/6wnhi4gipABWBE4JNHp7lm) | [Jules Dubois](https://open.spotify.com/artist/7MNh5HtGFSXQ77Tqhiz4WY) | [No Goodbye](https://open.spotify.com/album/2y7M4RgG4hQsa3BP3zpjLL) | 2:24 |
+| 23 | [Countless](https://open.spotify.com/track/2D81ZsdcSyofVfZULWD2rI) | [Lynn Kay](https://open.spotify.com/artist/1y2zzoYNLRN6jCwiUzcKgE) | [Countless](https://open.spotify.com/album/2YFHlVbfyfXwHtLJnAX0o3) | 2:26 |
+| 24 | [No Goodbye](https://open.spotify.com/track/6wnhi4gipABWBE4JNHp7lm) | [Jules Dubois](https://open.spotify.com/artist/7MNh5HtGFSXQ77Tqhiz4WY) | [No Goodbye](https://open.spotify.com/album/2y7M4RgG4hQsa3BP3zpjLL) | 2:24 |
+| 25 | [Smile in the wind](https://open.spotify.com/track/1qb6AsW7Y4kXTQpExCW2xm) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Smile in the wind](https://open.spotify.com/album/0uQE309NUZTFs9jfLV4KSp) | 2:05 |
 | 26 | [Sapphire Tears](https://open.spotify.com/track/2dlIVDvA7Otn950xPFBNYM) | [Joy Meyer\-Williams](https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU) | [Sapphire Tears](https://open.spotify.com/album/7xvdOP2uv8hjwjkNzojjDc) | 2:47 |
 | 27 | [Emerald](https://open.spotify.com/track/0OpKRZqOmoSCtjfpkOa6Ew) | [Agatha Messina](https://open.spotify.com/artist/286xUM2HNGoiq5B1ym9cMI) | [Emerald](https://open.spotify.com/album/68F0SS9ueRjE4NUhAReYDE) | 2:17 |
 | 28 | [An Inward Stillness](https://open.spotify.com/track/2uz5jMm6bt6UkoLtj6eaug) | [Augustino](https://open.spotify.com/artist/2hl8fayyJZBI8s07wgRbhC) | [An Inward Stillness](https://open.spotify.com/album/1DCzbv2wKumot4uzhCFAdW) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaipYDJRIDH9.md) - [plain]
 | 99 | [Morning\-Star](https://open.spotify.com/track/7x29ikGEInCzC5IrN3zMhI) | [Avi Mehta](https://open.spotify.com/artist/6IVlVzl5f2aKF9GORwMkoi) | [Morning\-Star](https://open.spotify.com/album/1Rl1DJxb2b5XCWOVD1xrBo) | 3:00 |
 | 100 | [Fictional Reality](https://open.spotify.com/track/3Ro52fuPSWBfMqhbu9NTX8) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Fictional Reality](https://open.spotify.com/album/4pii8aE4Kr2mC3x8QxdXU6) | 2:20 |
 
-Snapshot ID: `MCw3MmRlZTY2ZjFiNjYwZDg0MWNmNzk2YTgyNTg3OWM4ZGJjODk5NGRh`
+Snapshot ID: `MCxjYTViMmIxM2UxZjM1MTQwOTliNjgxNzY1Y2Y3MDVlZTQ3YTU2YmYx`

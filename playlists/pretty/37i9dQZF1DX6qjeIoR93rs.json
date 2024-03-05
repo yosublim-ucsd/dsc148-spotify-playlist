@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Palestine.",
-  "num_followers": 61067,
+  "num_followers": 61133,
   "original_name": "Palestine Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzUxODZjNmQ4ZGQwNjkyZmMyZTMyZDY3MGUwZDQ0MmMzYmIxMzUy",
+  "snapshot_id": "MCw0YjhkYjhhNGZjNDg3OWU5MGVlODY4YjM4MzFiZWI4NDdmNDkzNjI5",
   "tracks": [
     {
       "added_at": "2023-11-11 14:44:03",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-11-11 14:44:03",
       "album": {
-        "name": "Nirvana in Gaza",
-        "url": "https://open.spotify.com/album/21GUygV8B9lQPtJiM0FP8k"
-      },
-      "artists": [
-        {
-          "name": "Saint Levant",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
-        }
-      ],
-      "duration_ms": 183870,
-      "name": "Nirvana in Gaza",
-      "url": "https://open.spotify.com/track/0wm6nHRoJig31gpq8oylzw"
-    },
-    {
-      "added_at": "2023-11-11 14:44:03",
-      "album": {
         "name": "Soundtrack to the Struggle 2",
         "url": "https://open.spotify.com/album/5gIwjf2qT4BdIt6REFXFcu"
       },
@@ -351,6 +335,22 @@
     {
       "added_at": "2023-11-11 14:44:03",
       "album": {
+        "name": "Nirvana in Gaza",
+        "url": "https://open.spotify.com/album/21GUygV8B9lQPtJiM0FP8k"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        }
+      ],
+      "duration_ms": 183870,
+      "name": "Nirvana in Gaza",
+      "url": "https://open.spotify.com/track/0wm6nHRoJig31gpq8oylzw"
+    },
+    {
+      "added_at": "2023-11-11 14:44:03",
+      "album": {
         "name": "Weino",
         "url": "https://open.spotify.com/album/4Aq2uHcgC4Sk13QlrzKicj"
       },
@@ -363,6 +363,22 @@
       "duration_ms": 145871,
       "name": "Weino",
       "url": "https://open.spotify.com/track/1feYc8vSa3y6EodevhkzYB"
+    },
+    {
+      "added_at": "2023-11-11 14:44:03",
+      "album": {
+        "name": "Elyanna 2",
+        "url": "https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "duration_ms": 139288,
+      "name": "Ala Bali",
+      "url": "https://open.spotify.com/track/0MxeOx5YwpkXIlCmr6xOjP"
     },
     {
       "added_at": "2023-11-11 14:44:03",
@@ -395,38 +411,6 @@
       "duration_ms": 175181,
       "name": "The Pen & The Sword",
       "url": "https://open.spotify.com/track/1VgwKZoRyDjkOvVWlBs0Y9"
-    },
-    {
-      "added_at": "2023-11-11 14:44:03",
-      "album": {
-        "name": "Elyanna 2",
-        "url": "https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A"
-      },
-      "artists": [
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        }
-      ],
-      "duration_ms": 139288,
-      "name": "Ala Bali",
-      "url": "https://open.spotify.com/track/0MxeOx5YwpkXIlCmr6xOjP"
-    },
-    {
-      "added_at": "2023-11-11 14:44:03",
-      "album": {
-        "name": "Haifa in a Tesla",
-        "url": "https://open.spotify.com/album/2lsDApvI0m7LYcwsaNTfZ4"
-      },
-      "artists": [
-        {
-          "name": "Saint Levant",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
-        }
-      ],
-      "duration_ms": 165591,
-      "name": "Haifa in a Tesla",
-      "url": "https://open.spotify.com/track/7v7bIFnCNg3lS7Lp1yTHig"
     },
     {
       "added_at": "2023-11-11 14:44:03",
@@ -467,6 +451,42 @@
       "duration_ms": 199334,
       "name": "Dalaa Dalouna",
       "url": "https://open.spotify.com/track/70jZJbVFJrnOcCvYAOmKKI"
+    },
+    {
+      "added_at": "2023-11-11 14:44:03",
+      "album": {
+        "name": "Ghareeb Alay",
+        "url": "https://open.spotify.com/album/5c7qiyYcpJO6niBfAyjZYl"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        },
+        {
+          "name": "Balti",
+          "url": "https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR"
+        }
+      ],
+      "duration_ms": 175506,
+      "name": "Ghareeb Alay",
+      "url": "https://open.spotify.com/track/7gJqw9Ogef35nMOzHY8E3v"
+    },
+    {
+      "added_at": "2023-11-11 14:44:03",
+      "album": {
+        "name": "Haifa in a Tesla",
+        "url": "https://open.spotify.com/album/2lsDApvI0m7LYcwsaNTfZ4"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        }
+      ],
+      "duration_ms": 165591,
+      "name": "Haifa in a Tesla",
+      "url": "https://open.spotify.com/track/7v7bIFnCNg3lS7Lp1yTHig"
     },
     {
       "added_at": "2023-11-11 14:44:03",
@@ -547,26 +567,6 @@
       "duration_ms": 175626,
       "name": "Kounili El Musica",
       "url": "https://open.spotify.com/track/4UcpiWGup7TKr1NkqaBrQ7"
-    },
-    {
-      "added_at": "2023-11-11 14:44:03",
-      "album": {
-        "name": "Ghareeb Alay",
-        "url": "https://open.spotify.com/album/5c7qiyYcpJO6niBfAyjZYl"
-      },
-      "artists": [
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        },
-        {
-          "name": "Balti",
-          "url": "https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR"
-        }
-      ],
-      "duration_ms": 175506,
-      "name": "Ghareeb Alay",
-      "url": "https://open.spotify.com/track/7gJqw9Ogef35nMOzHY8E3v"
     },
     {
       "added_at": "2023-11-11 14:44:03",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-11-11 14:44:03",
       "album": {
-        "name": "Nai 1",
-        "url": "https://open.spotify.com/album/3Ly05TtwGi1AfvYiRKtwwp"
-      },
-      "artists": [
-        {
-          "name": "Nai Barghouti",
-          "url": "https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg"
-        }
-      ],
-      "duration_ms": 328773,
-      "name": "Ghandara Medley : Shorabanna / Sabbal Oyounou / Ya Bou Gh'thele / Shayyiou / Ya Dae'sa / Ya Thareef / Oulou La Immo",
-      "url": "https://open.spotify.com/track/61ZEVlG3xMptIGAm0wpLgc"
-    },
-    {
-      "added_at": "2023-11-11 14:44:03",
-      "album": {
         "name": "Dabke System",
         "url": "https://open.spotify.com/album/0WKmc7uvbK5VlKFTZ1bJ7G"
       },
@@ -1019,6 +1003,22 @@
     {
       "added_at": "2023-11-11 14:44:03",
       "album": {
+        "name": "Nai 1",
+        "url": "https://open.spotify.com/album/3Ly05TtwGi1AfvYiRKtwwp"
+      },
+      "artists": [
+        {
+          "name": "Nai Barghouti",
+          "url": "https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg"
+        }
+      ],
+      "duration_ms": 328773,
+      "name": "Ghandara Medley : Shorabanna / Sabbal Oyounou / Ya Bou Gh'thele / Shayyiou / Ya Dae'sa / Ya Thareef / Oulou La Immo",
+      "url": "https://open.spotify.com/track/61ZEVlG3xMptIGAm0wpLgc"
+    },
+    {
+      "added_at": "2023-11-11 14:44:03",
+      "album": {
         "name": "Today Is the day",
         "url": "https://open.spotify.com/album/5pY94XM2JmmrY71Ck3aTMA"
       },
@@ -1031,6 +1031,22 @@
       "duration_ms": 151058,
       "name": "Today is the day",
       "url": "https://open.spotify.com/track/3W4P1ay0wX7Rz1FIdwFfB3"
+    },
+    {
+      "added_at": "2023-11-11 14:44:03",
+      "album": {
+        "name": "Dedication",
+        "url": "https://open.spotify.com/album/0Z8CBkZ8nZI2mPeuClzghO"
+      },
+      "artists": [
+        {
+          "name": "DAM",
+          "url": "https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz"
+        }
+      ],
+      "duration_ms": 225880,
+      "name": "G'areeb Fi Bladi (Stranger In My Own Country)",
+      "url": "https://open.spotify.com/track/0BqIeIEdNQuYqj2js8BA27"
     },
     {
       "added_at": "2023-11-11 14:44:03",
@@ -1111,22 +1127,6 @@
       "duration_ms": 169970,
       "name": "\u0627\u0644\u0642\u0636\u064a\u0629 \u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0629",
       "url": "https://open.spotify.com/track/7KaT8J7igAsn5Xof9ccu7q"
-    },
-    {
-      "added_at": "2023-11-11 14:44:03",
-      "album": {
-        "name": "Dedication",
-        "url": "https://open.spotify.com/album/0Z8CBkZ8nZI2mPeuClzghO"
-      },
-      "artists": [
-        {
-          "name": "DAM",
-          "url": "https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz"
-        }
-      ],
-      "duration_ms": 225880,
-      "name": "G'areeb Fi Bladi (Stranger In My Own Country)",
-      "url": "https://open.spotify.com/track/0BqIeIEdNQuYqj2js8BA27"
     },
     {
       "added_at": "2023-11-11 14:44:03",

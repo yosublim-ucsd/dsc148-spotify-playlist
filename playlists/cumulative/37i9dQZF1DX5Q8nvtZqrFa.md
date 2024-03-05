@@ -79,8 +79,8 @@
 | [くすぶってばっかいられない](https://open.spotify.com/track/64AL4hgGyaUofamFJ19Wc4) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [306](https://open.spotify.com/album/4xDPpqsq8PLPtDRXGpKEPF) | 2:40 | 2023-11-23 | 2024-01-17 |
 | [こがれ](https://open.spotify.com/track/1UpRK1N1DGTYSLaLmpdZw2) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [音生 \-onsei\-](https://open.spotify.com/album/684jExc4XxRfjR7na7l7sr) | 3:49 | 2024-01-30 | 2024-02-01 |
 | [このまま僕らが大人になっても](https://open.spotify.com/track/5jQk8XgAfBHZpczOO5hJyc) | [Blue Mash](https://open.spotify.com/artist/1qG4m6PAWqUuJ2b3Ahfr07) | [大都会に告ぐ](https://open.spotify.com/album/65kozKwrc7PWlfM2ylbdO0) | 1:28 | 2024-01-16 | 2024-01-24 |
-| [ごめんね](https://open.spotify.com/track/2IO8EYYxhOVbvgCFlOq3ol) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [ごめんね](https://open.spotify.com/album/3TciDpDFjXBuUBD2wxkdDj) | 2:55 | 2024-02-22 |  |
-| [しわあわせ](https://open.spotify.com/track/4GvJskA0Jn4NorP2YWxuaf) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:33 | 2024-01-16 | 2024-02-21 |
+| [ごめんね](https://open.spotify.com/track/2IO8EYYxhOVbvgCFlOq3ol) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [ごめんね](https://open.spotify.com/album/3TciDpDFjXBuUBD2wxkdDj) | 2:55 | 2024-02-22 | 2024-03-05 |
+| [しわあわせ](https://open.spotify.com/track/4GvJskA0Jn4NorP2YWxuaf) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:33 | 2024-01-16 |  |
 | [だから僕は音楽を辞めた](https://open.spotify.com/track/5j7ixaLeGTGSv4DzKs0pCM) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [だから僕は音楽を辞めた](https://open.spotify.com/album/4b9nOSXSf1LROzgfYFxdxI) | 4:02 | 2023-11-27 |  |
 | [だった人](https://open.spotify.com/track/7BwCfvszj0b3WFkDqBPaXl) | [ちゃくら](https://open.spotify.com/artist/4y8KqtQgzRVDnQ072O7Vqr) | [だった人](https://open.spotify.com/album/2wkWg7n0lcz8jP2RNImoFW) | 3:19 | 2023-12-26 | 2024-02-21 |
 | [ですとらくしょん!!](https://open.spotify.com/track/54krDxm0tOxeZy36AKT3Bj) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [Chevon](https://open.spotify.com/album/5zpDo1cOOtnbzrRjKdCqA8) | 4:01 | 2024-02-20 |  |
@@ -92,7 +92,7 @@
 | [キラーワード](https://open.spotify.com/track/6lOrtgsvN9QKtN4h7S1Y5j) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [キラーワード](https://open.spotify.com/album/0hTDFgya1BSBjCucfBfaTQ) | 4:01 | 2023-11-30 | 2023-12-02 |
 | [キリギリス](https://open.spotify.com/track/6LC9dlvX2pTpw30x8TW5uN) | [berry meet](https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m) | [キリギリス](https://open.spotify.com/album/2Y8fvG4o9o4BDt7HPASZrr) | 3:38 | 2024-01-16 | 2024-02-07 |
 | [クロノスタシス](https://open.spotify.com/track/6Pd73yNBtoVpTRM6xLwOGp) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [クロノスタシス](https://open.spotify.com/album/4upctURy2F1F2rVfltc2P6) | 5:39 | 2023-11-23 |  |
-| [グッドな音楽を](https://open.spotify.com/track/2vAtN2fB1zqTzfPGxqHmyO) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [グッドな音楽を](https://open.spotify.com/album/3yp1DVS4dSKvkgJqcxXfcA) | 3:35 | 2023-11-23 |  |
+| [グッドな音楽を](https://open.spotify.com/track/2vAtN2fB1zqTzfPGxqHmyO) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [グッドな音楽を](https://open.spotify.com/album/3yp1DVS4dSKvkgJqcxXfcA) | 3:35 | 2023-11-23 | 2024-03-05 |
 | [コンパクトミラー](https://open.spotify.com/track/0OjN6CZMsjEFBAIUeN3J7R) | [kiwano](https://open.spotify.com/artist/2gWOEyfr0ms1TzCQmIQ2IS) | [コンパクトミラー](https://open.spotify.com/album/1KSdaSWekXgtyjrtIlTfcX) | 3:21 | 2023-12-26 | 2024-01-05 |
 | [サクラキミワタシ](https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [サクラキミワタシ](https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd) | 3:22 | 2024-01-09 |  |
 | [サルバドルサーガ](https://open.spotify.com/track/1WZI1YpskgHrl7bEsNcfFB) | [粗品](https://open.spotify.com/artist/7xqEtCgCQWtiuvlkM5Wigc) | [サルバドルサーガ](https://open.spotify.com/album/16nWKbGApwXiwjXK2JtkGY) | 3:15 | 2024-02-29 |  |
@@ -138,7 +138,7 @@
 | [私が明日死ぬなら](https://open.spotify.com/track/29KOSOrduu8U6Pz6ZZtuEj) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ROUNDABOUT](https://open.spotify.com/album/1N3qm3w4YsYgXh6XxBjkay) | 4:13 | 2024-01-18 |  |
 | [精神ロック](https://open.spotify.com/track/5H3po4kcJFSyiz2tv2iFdz) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [精神ロック](https://open.spotify.com/album/1VMeEQKCxiGnloMZvdqVvS) | 2:53 | 2023-12-12 | 2023-12-14 |
 | [花束が似合う君へ \- fantastic ver.](https://open.spotify.com/track/2vVaTLbzFN5TPIayqJDxv7) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [花束が似合う君へ \(fantastic ver.\)](https://open.spotify.com/album/3BVTAz0ufqnsdPBuvQk6tx) | 4:54 | 2024-01-30 |  |
-| [負け犬にアンコールはいらない](https://open.spotify.com/track/1fooGB6yJLKiOk8jW3thn6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:54 | 2023-11-27 | 2024-02-23 |
+| [負け犬にアンコールはいらない](https://open.spotify.com/track/1fooGB6yJLKiOk8jW3thn6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:54 | 2023-11-27 |  |
 | [金木犀](https://open.spotify.com/track/6lJ31xE2jGeRqapTygwRGm) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [金木犀](https://open.spotify.com/album/7kYA3MEiquoNZVZgzWhJJX) | 4:35 | 2023-11-23 | 2024-01-22 |
 
 \*This playlist was first scraped on 2023-11-24. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 
 > A selection of the finest Hip\-Hop tracks from the illest Arab Rappers\. Cover: Stormy
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,875 likes - 51 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,913 likes - 51 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 7 | [شنو يا صاحبي](https://open.spotify.com/track/1sbLYOyEE4U6Zxmv7XtTj0) | [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN), [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI) | [شنو يا صاحبي](https://open.spotify.com/album/5aLLdNRnwoEUalcoiyzK2a) | 2:41 |
 | 8 | [Matafetch](https://open.spotify.com/track/0ZGmHDAUSgGV5mCUbtYFe7) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [آخر قطعة فنية](https://open.spotify.com/album/5YxBzNI1LIAI86UHm1kTrS) | 2:36 |
 | 9 | [TRAP ROUMI V5](https://open.spotify.com/track/5lLOq77WKo2UMY4Y7w22oL) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [TRAP ROUMI V5](https://open.spotify.com/album/0pMUVXedchr9B1aGmXruEj) | 4:04 |
-| 10 | [MARADONA](https://open.spotify.com/track/1GxUG5xWcY2R9hQ3NcE5ya) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 2:40 |
-| 11 | [SULTAN](https://open.spotify.com/track/7AghOMSZrtR7DkfWxLuRDs) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:24 |
+| 10 | [SULTAN](https://open.spotify.com/track/7AghOMSZrtR7DkfWxLuRDs) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:24 |
+| 11 | [MARADONA](https://open.spotify.com/track/1GxUG5xWcY2R9hQ3NcE5ya) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 2:40 |
 | 12 | [Échec \- Spotify Singles](https://open.spotify.com/track/7bpuBTsNwlWnBABYbCZAkN) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4), [Sipo](https://open.spotify.com/artist/3oMj4UHfEpUEtClL0pcT8o) | [Échec \(Spotify Singles\)](https://open.spotify.com/album/1wnHxsDjULbyppLwnAYsPt) | 3:23 |
 | 13 | [Machi Lkhatri](https://open.spotify.com/track/5BSg7yE6EmP6hSdhjPy0J0) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS), [Norfafrica](https://open.spotify.com/artist/3UGUD4F6kDvesqDwOzXl8y) | [Machi Lkhatri](https://open.spotify.com/album/6dAhHPgc12Cq9ZdyON9fVU) | 3:29 |
 | 14 | [Nfss Lhala](https://open.spotify.com/track/4Sf0D2p1XLbfnVAAFFLl0E) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Nfss Lhala](https://open.spotify.com/album/4UPtx2VWPSsMIVPThB2cW7) | 3:20 |
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 25 | [المكتوب](https://open.spotify.com/track/5GFxMEv0vSTt0OsZ2dt9br) | [Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv) | [المكتوب](https://open.spotify.com/album/10EkLcK0m7rpoThtN23D3d) | 2:56 |
 | 26 | [Unplugged \- Spotify Singles](https://open.spotify.com/track/5Gk7ZvxmrBbRonwlFh9STN) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS), [VALEN](https://open.spotify.com/artist/32W9lYj8vdjc0TsHaQs1vz) | [Unplugged \(Spotify Singles\)](https://open.spotify.com/album/157sF3l27tLvkrIJzqFUeg) | 2:56 |
 | 27 | [Vida Loca](https://open.spotify.com/track/4WKcS5bpZNwg31wcGpO2o0) | [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W) | [Mangesto](https://open.spotify.com/album/3t3dNFtSlwC5UBg9fRgKi5) | 1:59 |
-| 28 | [M3 3DM E7TRAMY](https://open.spotify.com/track/0qql8zT1LEoL8NmbD4mtQ9) | [TURK](https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM), [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [2000GEN](https://open.spotify.com/album/7LJMEIJvoJMwq2dXQDEAwk) | 2:32 |
-| 29 | [1](https://open.spotify.com/track/27cKUc5nNI6uI5dpGlB1UF) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [1](https://open.spotify.com/album/6ybWRd5mQpRno5JtrxMkcZ) | 2:13 |
-| 30 | [Docteur \- Spotify Singles](https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [Docteur \(Spotify Singles\)](https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig) | 3:16 |
+| 28 | [Docteur \- Spotify Singles](https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [Docteur \(Spotify Singles\)](https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig) | 3:16 |
+| 29 | [M3 3DM E7TRAMY](https://open.spotify.com/track/0qql8zT1LEoL8NmbD4mtQ9) | [TURK](https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM), [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [2000GEN](https://open.spotify.com/album/7LJMEIJvoJMwq2dXQDEAwk) | 2:32 |
+| 30 | [1](https://open.spotify.com/track/27cKUc5nNI6uI5dpGlB1UF) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [1](https://open.spotify.com/album/6ybWRd5mQpRno5JtrxMkcZ) | 2:13 |
 | 31 | [Baby](https://open.spotify.com/track/4TwTditvJMYwrziGh8lie2) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Nemshy Men Hena](https://open.spotify.com/album/5pR4Pul9p5vc41ZYUfcWfK) | 3:06 |
 | 32 | [POUFA](https://open.spotify.com/track/7MuRSU9xnerubuGi5N3z0B) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [POUFA](https://open.spotify.com/album/3w9oMrzeFfETRFpKyHlmhf) | 2:31 |
 | 33 | [Tripod](https://open.spotify.com/track/4nydbqIi7U7DMM3ZGQEjtE) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Placebo](https://open.spotify.com/album/5T113asZkXnBZ3820ie2fa) | 3:48 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 46 | [6G](https://open.spotify.com/track/5cDw3Icnxb1hB5XGBRzKer) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [6G](https://open.spotify.com/album/6myOlMXXWjwlOrz7xugqnj) | 2:56 |
 | 47 | [3arabawy](https://open.spotify.com/track/08b9YG42AnVIh70EwEeLpX) | [Tommy Gun](https://open.spotify.com/artist/40zCGXzhrnG6Lz4hQ7XK0l) | [EL 3ARAB](https://open.spotify.com/album/5sgTY990OE2XMzxrn3Ob5I) | 2:09 |
 | 48 | [Saye2 Souq](https://open.spotify.com/track/3qtXvNZ8bNIRfN6aYamUor) | [Eldab3](https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh) | [3awdet Eldab3](https://open.spotify.com/album/3JtWRyNJQGsi9naZlMrOQv) | 2:14 |
-| 49 | [W Bashot](https://open.spotify.com/track/3bhQZfZf8NEiZDkwAafdpe) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [7abba Fo2 // 7abba Ta7t](https://open.spotify.com/album/1o6axxoJca4D2hO5l288gi) | 2:34 |
-| 50 | [Gezira](https://open.spotify.com/track/2ieg6nYrdrI4Em8nDV3Ddh) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Gezira](https://open.spotify.com/album/7mt8YfjiZViWN7hSqAOEMk) | 3:13 |
+| 49 | [Gezira](https://open.spotify.com/track/2ieg6nYrdrI4Em8nDV3Ddh) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Gezira](https://open.spotify.com/album/7mt8YfjiZViWN7hSqAOEMk) | 3:13 |
+| 50 | [W Bashot](https://open.spotify.com/track/3bhQZfZf8NEiZDkwAafdpe) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [7abba Fo2 // 7abba Ta7t](https://open.spotify.com/album/1o6axxoJca4D2hO5l288gi) | 2:34 |
 | 51 | [Ronaldo](https://open.spotify.com/track/4VFOroA9oZTguLwg7dKDLL) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN) | [Deja Vu](https://open.spotify.com/album/5kYZncxSpmU0nldbzyHw6q) | 1:53 |
 
-Snapshot ID: `MCxkMjcwOTNhYWFiODZjMWEzZDc1NmZjNWMzMWE3NzVkZjdkOTUyYTcw`
+Snapshot ID: `MCw0OTljZTY3OWYyYmQwN2YzN2Y4NzgwMzRiZWJjNjVlOTM4N2NjNTJj`

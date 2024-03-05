@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 743,391 likes - 120 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 743,428 likes - 120 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 119 | [Reversoothes](https://open.spotify.com/track/61JqDmHZeYLK2RclRBSr9F) | [Selma Moore](https://open.spotify.com/artist/2JMWh2t6eo5FgtnVUTX7Im) | [Reversoothes](https://open.spotify.com/album/2RNjKIjMIo0FXWk71vzadZ) | 3:07 |
 | 120 | [Clear moment](https://open.spotify.com/track/5khfKdJXTPsqK6PviRofGE) | [Paulo May](https://open.spotify.com/artist/1S2SOdkafLlGG0LrdubJz8) | [Elevate](https://open.spotify.com/album/1MWyqip0t6nGrWIg1G1yyh) | 3:44 |
 
-Snapshot ID: `MCw2MmYzMWYwNDc0ZTNiNDQ5ODA3ODY5N2JiNzBiYmNiMWVkZjFiYjNl`
+Snapshot ID: `MCwwZmE5Y2NhMWQxMDAzZDY0MTU4MTk5ZTM1Y2RhMDFkZGI4NjgyMzI4`

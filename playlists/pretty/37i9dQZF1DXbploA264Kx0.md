@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Fire EX\. x Mong Tong x Chih Siou x The Dinosaur’s Skin x Gummy B x Majin \(滅火器 x Mong Tong x 持修 x 恐龍的皮 x Gummy B x Majin\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,209 likes - 48 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,231 likes - 48 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 | 47 | [樹屋](https://open.spotify.com/track/5DQ9dDCBnWAiqf9NVL3XFB) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Real Love Is...](https://open.spotify.com/album/1HuMI9YQymF8NWBn2D8BdK) | 3:33 |
 | 48 | [CLOUD 9](https://open.spotify.com/track/53QI2tEUs5dh0oVWUIHTeF) | [SiNNER MOON](https://open.spotify.com/artist/7uNmdZ8FJkmZjsHEQWM5Xw) | [CLOUD 9](https://open.spotify.com/album/7iDLISX1nf2helOPlrwouj) | 3:05 |
 
-Snapshot ID: `MCwzM2U1ZjQwMzY0MTI3OGJjYzFkOWI5YzA1MmE5ZGFjMTIzYTdjNDE1`
+Snapshot ID: `MCwzMGUyYjY4NDUyMzU2MTU1YWZkNGFiNWQwYzdjZDhiODJlYmNmMTdi`

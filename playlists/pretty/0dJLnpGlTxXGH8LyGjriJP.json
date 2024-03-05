@@ -6,7 +6,7 @@
     "name": "skillstreet",
     "url": "https://open.spotify.com/user/skillstreet"
   },
-  "snapshot_id": "OTE5LDZlYjAzMDMzZjYzYzAxMjkxYzVkZmNmMDhlMWQ1ZTJjYjJlYTUxNjU=",
+  "snapshot_id": "OTIyLDdiYmNmNmNhMmM3YzMwZDkxODg3YWJiZDhmYTUwNjA2ODk3NjhkNjg=",
   "tracks": [
     {
       "added_at": "2022-05-25 21:35:35",
@@ -14287,6 +14287,58 @@
       "duration_ms": 192195,
       "name": "Okay",
       "url": "https://open.spotify.com/track/7aL51Oe4h8Mk8GPJHfDzZB"
+    },
+    {
+      "added_at": "2024-03-04 05:15:39",
+      "album": {
+        "name": "HEATHENISM",
+        "url": "https://open.spotify.com/album/10OuYNhsZyIip13lZe6dzG"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 207567,
+      "name": "Giving Chanel",
+      "url": "https://open.spotify.com/track/1wMxLpODBBQMC6CiIBIV8e"
+    },
+    {
+      "added_at": "2024-03-04 22:07:38",
+      "album": {
+        "name": "HEATHENISM",
+        "url": "https://open.spotify.com/album/10OuYNhsZyIip13lZe6dzG"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "duration_ms": 211043,
+      "name": "Came from the Bottom",
+      "url": "https://open.spotify.com/track/35HJyOEmGpxMcahSS3D9Fj"
+    },
+    {
+      "added_at": "2024-03-05 00:24:12",
+      "album": {
+        "name": "HEATHENISM",
+        "url": "https://open.spotify.com/album/10OuYNhsZyIip13lZe6dzG"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "duration_ms": 152967,
+      "name": "Big Boy",
+      "url": "https://open.spotify.com/track/4rznnFpPIGET8lWpR5wZJ5"
     }
   ],
   "unique_name": "locked tf in\ud83d\udd12",

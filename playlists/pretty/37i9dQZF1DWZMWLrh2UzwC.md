@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Misha Omar
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,513 likes - 92 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,515 likes - 92 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 32 | [My Nature](https://open.spotify.com/track/3FggIxYORMVsvvKT1nT1Xa) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y), [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC) | [A Cheetah Hunting In Slow Motion](https://open.spotify.com/album/1aUHNQpRl05kj8WrokDDPl) | 2:50 |
 | 33 | [OKIE](https://open.spotify.com/track/4mjWTBR4OsQwO3aow5ysrF) | [Sio Lubis](https://open.spotify.com/artist/6fzB3myUVKUDnUriIReh26) | [OKIE](https://open.spotify.com/album/7DtVUzWsPS0MfT1WokA0Nv) | 2:18 |
 | 34 | [Thunder & Lightning](https://open.spotify.com/track/12GKiRkLkrsITNZfxEHoxF) | [Danesh Leonadi](https://open.spotify.com/artist/1k0wAlKAGHhKN6W3QeC52J) | [I'm Just Being Human](https://open.spotify.com/album/4nje0CqNDwIdPbhfuNbogN) | 4:10 |
-| 35 | [Hard dreams](https://open.spotify.com/track/1sJAQWkZdaJDsPifl1fvOd) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Hard dreams](https://open.spotify.com/album/15kCPeNnhlUuZfKyr1CJuy) | 2:50 |
+| 35 | [Hard dreams](https://open.spotify.com/track/1sJAQWkZdaJDsPifl1fvOd) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP), [Yan Wagner](https://open.spotify.com/artist/7JLtS4ASAUsAYrsShMerMc) | [Hard dreams](https://open.spotify.com/album/15kCPeNnhlUuZfKyr1CJuy) | 2:50 |
 | 36 | [Out Loud](https://open.spotify.com/track/6Yx5Cw2mVmx6LiVP2VXWEO) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Out Loud](https://open.spotify.com/album/2Yoh27G61AmIKH2ubk2RSb) | 3:20 |
 | 37 | [Love Me](https://open.spotify.com/track/5TZnCu5vibZW8AqEFgsqgY) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Everything Or Nothing \#DQH1](https://open.spotify.com/album/0Qqcg8QRranPHtp3IkGN1v) | 2:29 |
 | 38 | [Doing Better](https://open.spotify.com/track/6sMEb3eNrQiW2mxrvURMGc) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Doing Better](https://open.spotify.com/album/64WbXlIjvrqkf5AI019x0L) | 2:33 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 91 | [ペアリング](https://open.spotify.com/track/2vznAtq5wtn4D7U6WCwu5l) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [ペアリング](https://open.spotify.com/album/78HHdtzcQk4AVf5d46foLP) | 3:09 |
 | 92 | [Any angle \- Korean Ver.](https://open.spotify.com/track/4uVC5yvMdjVvkbIR0gjhgm) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [Any angle \(Korean Ver.\)](https://open.spotify.com/album/5Xf8aBnQyczf3qtDi0q7qV) | 2:07 |
 
-Snapshot ID: `MCwyMDhkMjhjZWYwZDBmY2M4YTg1NjBlZGE5MGUzZmI0OGQ1OTgyNmVh`
+Snapshot ID: `MCw2YmVhMzk1MzkyZGU3ZTQ4Yjk4ZDgxZDI5ZmRhODQ1NWM0MjU5MzI0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 
 > This is City Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,004 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,006 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 12 | [Throat Baby \(Go Baby\) \(with DaBaby & City Girls\) \- Remix](https://open.spotify.com/track/15C4TnrrVdym7UykxQIOTZ) | [BRS Kash](https://open.spotify.com/artist/5jJjvmEwRr8epuGZq4eUUa), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Throat Baby \(Go Baby\) \(with DaBaby & City Girls\) \[Remix\]](https://open.spotify.com/album/7CaoMilK1vM4KvbbvRVggD) | 3:31 |
 | 13 | [Female Goat](https://open.spotify.com/track/3GvtfWTRoialUPNCbDjdtI) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Time's Up](https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi) | 2:53 |
 | 14 | [What We Doin'](https://open.spotify.com/track/11TOnapSFVWBUSByMzf1u1) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 2:23 |
-| 15 | [Flashy \(feat\. Kim Petras\)](https://open.spotify.com/track/7rofRRaFwjPUdcPUnrtFAu) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [RAW](https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu) | 2:45 |
-| 16 | [Good Love \(feat\. Usher\)](https://open.spotify.com/track/52JFc40b28XJDROR3c4uAr) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Good Love \(feat\. Usher\)](https://open.spotify.com/album/0OhW9KGuhEaWt5kt9s5qKf) | 3:52 |
+| 15 | [Good Love \(feat\. Usher\)](https://open.spotify.com/track/52JFc40b28XJDROR3c4uAr) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Good Love \(feat\. Usher\)](https://open.spotify.com/album/0OhW9KGuhEaWt5kt9s5qKf) | 3:52 |
+| 16 | [Flashy \(feat\. Kim Petras\)](https://open.spotify.com/track/7rofRRaFwjPUdcPUnrtFAu) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [RAW](https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu) | 2:45 |
 | 17 | [Face Down](https://open.spotify.com/track/0DEjFljgDbPjkm5460EJnA) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Face Down](https://open.spotify.com/album/5c1HMH7bxAm1Qd60Ku0Ia1) | 2:07 |
 | 18 | [Jobs](https://open.spotify.com/track/2fHXAuXRcCDXbZYJIUZCGW) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 2:01 |
 | 19 | [Do It \(feat\. Doja Cat, City Girls & Mulatto\) \[Remix\]](https://open.spotify.com/track/2WKJcMeqmjkL4FzFoJszR7) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Do It \(feat\. Doja Cat, City Girls & Mulatto\) \[Remix\]](https://open.spotify.com/album/1Rd37EUs0P8KzpPPkKPbKa) | 4:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 49 | [Period \(We Live\)](https://open.spotify.com/track/1FdjGON62xLxgPZW8BGeHS) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 2:34 |
 | 50 | [4 Da Moment \(feat\. City Girls\)](https://open.spotify.com/track/4ZJvxJYTeA719NrCtKE8gU) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [43VA HEARTLESS](https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f) | 2:22 |
 
-Snapshot ID: `Mjg0OTExMzgsMDAwMDAwMDA3YzUyYTdiYmNkM2NmOTFhYzQ4OGMyMzM1ZjBkNzhkMw==`
+Snapshot ID: `Mjg0OTI1NjksMDAwMDAwMDBlOTYxMDA4YTZkYWZmMzczMDM1MjYwOGVlMjM0YjJmNQ==`

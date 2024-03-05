@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 
 > This is League of Legends\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,677 likes - 52 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,774 likes - 52 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 29 | [Fire To The Fuse](https://open.spotify.com/track/6yK2AGL6oamq6FP8iqmOBw) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs) | [Fire To The Fuse](https://open.spotify.com/album/3DvhVqD9ypcJoq8oLy3iOL) | 3:44 |
 | 30 | [Worlds Collide](https://open.spotify.com/track/6KMgPewrVRxzeFzRwkFa0M) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Nicki Taylor](https://open.spotify.com/artist/40eCNuH12cyxEcIVObqFrG) | [Worlds Collide](https://open.spotify.com/album/3UNDTCRbmguMxaPzcNpbSn) | 3:36 |
 | 31 | [Piercing Light](https://open.spotify.com/track/0163ud7I4Vb0ID5K7WBkq9) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA) | [Warsongs](https://open.spotify.com/album/25iitzpEYGoW3AxyWL6Zb8) | 4:51 |
-| 32 | [REMIX RUMBLE](https://open.spotify.com/track/1AG7YrtmqKDQTe3wpBXKhp) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [REMIX RUMBLE \(Steve Aoki Remix\)](https://open.spotify.com/album/1Dk05oKAHWIFyN5kIWlTQ5) | 3:37 |
-| 33 | [Mi Clan](https://open.spotify.com/track/356YI2lqH74Ta2pKkLDeIF) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Mi Clan](https://open.spotify.com/album/5lzNwqpKkJPP8sTnZETESo) | 2:18 |
+| 32 | [Mi Clan](https://open.spotify.com/track/356YI2lqH74Ta2pKkLDeIF) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Mi Clan](https://open.spotify.com/album/5lzNwqpKkJPP8sTnZETESo) | 2:18 |
+| 33 | [REMIX RUMBLE](https://open.spotify.com/track/1AG7YrtmqKDQTe3wpBXKhp) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [REMIX RUMBLE \(Steve Aoki Remix\)](https://open.spotify.com/album/1Dk05oKAHWIFyN5kIWlTQ5) | 3:37 |
 | 34 | [Misfit Toys \(from the series Arcane League of Legends\)](https://open.spotify.com/track/40giNwfX1pR3smltxvs3dB) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Misfit Toys \(from the series Arcane League of Legends\)](https://open.spotify.com/album/5qQkzCr8H5NyzkzVKlGGMm) | 3:09 |
 | 35 | [Bring Home The Glory](https://open.spotify.com/track/4VgGx1cQlHB7Ls1Ukt0H7H) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Sara Skinner](https://open.spotify.com/artist/1HQ26IHQ1Nu0Tq7EE7DV6y) | [Bring Home The Glory](https://open.spotify.com/album/01L3l6bMt4wSX8fK3F9yKn) | 2:59 |
 | 36 | [Shine On](https://open.spotify.com/track/4NL6HJer1ViiI2BEWO1d3c) | [Legends of Runeterra](https://open.spotify.com/artist/3rZDp6jeBal6cdTyi50EYb), [Brain Tan](https://open.spotify.com/artist/3K9UVvuVwQZbO35b8uBsdb), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [Shine On](https://open.spotify.com/album/0TATIDURuDWbpmq54rOzFn) | 3:52 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 51 | [I'll Find a Way](https://open.spotify.com/track/3fYMVtfD6mbDSNREPAl1pq) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [TELLE](https://open.spotify.com/artist/2ZLkrrjhoAzlDuxGZJSWB2) | [Echoes of Light](https://open.spotify.com/album/4BI0o8MQXotNlNIzQl5fGC) | 3:25 |
 | 52 | [Smolder, the Fiery Fledgling](https://open.spotify.com/track/1Fbm1bxQ0sXamkpjiXMClp) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Smolder, the Fiery Fledgling](https://open.spotify.com/album/2qebqrLs9esVTMWZRsztPj) | 3:40 |
 
-Snapshot ID: `Mjg0OTExMzksMDAwMDAwMDA1ZDFjOTE3ZDY2ODk0ZDU2MWQyMWNmYTVjYzMxMzlmNw==`
+Snapshot ID: `Mjg0OTI1NjksMDAwMDAwMDA0MDUyNGYxYWU5NjI4ZGVmNTBiZTcyMjc3MmRiNmM3NQ==`

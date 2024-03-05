@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-574 songs - 1 day 8 hr 15 min
+575 songs - 1 day 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Home](https://open.spotify.com/track/4F42lL3HKmFPwbHzva7WNU) | [Taska Black](https://open.spotify.com/artist/3XFcu2NnGWceLNdxRCfYH3) | [Home](https://open.spotify.com/album/48pinHbXnyXEm09u4HkuCo) | 3:01 | 2022-02-28 | 2022-03-31 |
 | [Honest](https://open.spotify.com/track/2fXFmhAB2jjB6oCBLPEfSj) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Honest](https://open.spotify.com/album/1DDjDOfDsr2asjvfUVNuFz) | 3:57 | 2023-03-31 |  |
 | [Hooyah!](https://open.spotify.com/track/3v3NFAqax9Zg6TFBltTMF8) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Fahjah](https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id) | [Hooyah!](https://open.spotify.com/album/15IjJw4B6jvRPPtbuwHHkI) | 2:12 | 2023-02-03 | 2023-04-01 |
+| [How Deep Is Your Love](https://open.spotify.com/track/4YlwsCI4O2sdJN55gRF9pV) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [hermixalot](https://open.spotify.com/artist/6hdb3ZH5gpJxqFPdXRGmdC) | [LP Giobbi x Insomniac Records Presents Femme House Vol\. 2](https://open.spotify.com/album/27PjvXPnBZ9wMEITi1MZd7) | 5:16 | 2024-03-05 |  |
 | [How High](https://open.spotify.com/track/2Vmmht4V3AOxUAw9KxcluE) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [How High](https://open.spotify.com/album/7vM5m7ex5aovISkIh8hZ7f) | 3:12 | 2023-08-16 |  |
 | [Human Nature](https://open.spotify.com/track/3gHgHC1iNLtivPNtd9y4pf) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [Human Nature](https://open.spotify.com/album/2WpBMTSYOS1A3c326ysiHS) | 4:10 | 2023-01-30 |  |
 | [HydroPlane](https://open.spotify.com/track/639R1wABWk9uwfHUUpAJcx) | [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA) | [HydroPlane](https://open.spotify.com/album/50gNjUaJI0gIJ6uiX95aRQ) | 3:28 | 2023-08-16 |  |

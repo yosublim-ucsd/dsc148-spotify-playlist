@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 
 > ¡Mujeres de los Andes, a todo volumen! En portada Juliana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,791 likes - 85 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,790 likes - 85 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 84 | [Canto](https://open.spotify.com/track/5MQDQ5RAkpJrFaQfFdjvt6) | [Flor de Jamaica](https://open.spotify.com/artist/4jS676NJhUIjqAjmDzKG5f) | [De Lo Que Nada Fue](https://open.spotify.com/album/36jJyeH1H4X8kYCQXJkE0b) | 4:09 |
 | 85 | [El Favorcito](https://open.spotify.com/track/4nHJp4ynAQQZgSlurkpBen) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Canciones Crudas](https://open.spotify.com/album/047ARD5KCqUWxg11bIll8Q) | 3:28 |
 
-Snapshot ID: `MCw2Y2YzNTYzYjBhNzBjMzUxOTNkODk5MDAyYTZjN2VkMGExMzE0ZDdi`
+Snapshot ID: `MCwzYzBhYWJkOWQyMDc3YWU0NzQ4MDY3NGVmNTE0ZDRjMjU1ZGRmN2My`

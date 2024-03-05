@@ -4,7 +4,7 @@
 
 > This is Pedro Capó\. The essential tracks, all in one playlist.
 
-53 songs - 2 hr 59 min
+54 songs - 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [La Fiesta](https://open.spotify.com/track/2q3rW2AraFNeMCpOsqKRRB) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Fiesta](https://open.spotify.com/album/6LPHNbAIcp1ZBujtZ0QqkZ) | 3:21 | 2023-11-10 | 2023-12-14 |
 | [La Neta](https://open.spotify.com/track/0DKIkTI5jB14BEC6sJlsFm) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Neta](https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1) | 3:25 | 2023-11-10 |  |
 | [La Sábana y los Pies](https://open.spotify.com/track/2dO6OrbCT0eBuiExwfo6KZ) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [MUNAY](https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8) | 3:06 | 2023-11-10 |  |
+| [La Tierra del Olvido \- Find Your Voice](https://open.spotify.com/track/35kREytXpHJBHbr6YmqAgP) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Find Your Voice Episode 4: Pedro Capó](https://open.spotify.com/album/1rs0PIlOMkLDxgUSJGZUm6) | 1:50 | 2024-03-04 |  |
 | [Libre](https://open.spotify.com/track/4kmeo6vgaOwksRN95HgY9E) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Aquila](https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI) | 3:58 | 2023-12-13 |  |
 | [Mar Chiquita](https://open.spotify.com/track/52AHKfP6qQ3feLjPCDTiRI) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:24 | 2023-11-10 |  |
 | [Millonario](https://open.spotify.com/track/3T0QlrtLXqzDs3L53l3omE) | [Conkarah](https://open.spotify.com/artist/7vPGzgDg3qGUY5bWtrO3K4), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Millonario](https://open.spotify.com/album/2Ew5EYNKFve7HJMiMFNC5H) | 3:00 | 2023-11-10 | 2023-12-14 |

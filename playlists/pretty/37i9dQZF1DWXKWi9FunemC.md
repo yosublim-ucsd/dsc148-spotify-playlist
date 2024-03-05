@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 
 > Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,082 likes - 100 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,289 likes - 100 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 87 | [Light & Momentary](https://open.spotify.com/track/08DEpqd2B46uUj5MeagoC6) | [For All Seasons](https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf) | [& Side A](https://open.spotify.com/album/0vFF7khThRFzf0roHQoA1i) | 4:28 |
 | 88 | [Magnified \(Acoustic\)](https://open.spotify.com/track/4hA4SYhcGs5EuxHYW5VKgT) | [Ginny Owens](https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn) | [Magnified \(Acoustic\)](https://open.spotify.com/album/1ubwV6NBMwJxIFJgFSEYI4) | 3:31 |
 | 89 | [Love Is](https://open.spotify.com/track/08XZufZzE2JDLQj9TEwur3) | [Allan McKinlay](https://open.spotify.com/artist/4zMVfhykoerNdhxVnJauFf) | [Love Is](https://open.spotify.com/album/3EHmC2TzK9W3AnDds89CiX) | 4:42 |
-| 90 | [God Evermore](https://open.spotify.com/track/2qgIgDagxmjNA8yhoszVNu) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [Ever Be](https://open.spotify.com/album/4Yg6IeCzU0q4OAxu5X2Ks0) | 5:06 |
-| 91 | [More Than Anything](https://open.spotify.com/track/7i0MfRdyGrNddq0H1dqSHR) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Samuel Lane](https://open.spotify.com/artist/7gjXbYoKHoNcdxVCBWpEKo) | [Here](https://open.spotify.com/album/2KA8x4fFCG9HGhmFszrorh) | 7:17 |
-| 92 | [Don't Give Up](https://open.spotify.com/track/6GIrD3RbCAKD7nMTsdAxjx) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo), [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP) | [Don't Give Up](https://open.spotify.com/album/1ovkI3emaN9GE40ssMY00u) | 5:17 |
-| 93 | [In Christ Alone](https://open.spotify.com/track/5DFOkSH4ToaLPM0pFVzWn9) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Come Behold the Wondrous Mystery](https://open.spotify.com/album/25AJ4n2vNiYmR34lLwessO) | 4:16 |
-| 94 | [Fortress \(Acoustic\)](https://open.spotify.com/track/7J2Ct0qVKKeSZJtx7HQfn3) | [Refuge Worship](https://open.spotify.com/artist/0Ub20KqDlmWDkqntwrKnVz) | [Fortress \(Acoustic\)](https://open.spotify.com/album/08acRJo4M0enLC2Vta6w9X) | 4:09 |
-| 95 | [Who Am I \- New York Sessions](https://open.spotify.com/track/7rDOaZO1vtpJKQ8speQb2A) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [New York Sessions](https://open.spotify.com/album/1GmGKswBRZfOb36V1PNX8K) | 4:32 |
+| 90 | [Who Am I \- New York Sessions](https://open.spotify.com/track/7rDOaZO1vtpJKQ8speQb2A) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [New York Sessions](https://open.spotify.com/album/1GmGKswBRZfOb36V1PNX8K) | 4:32 |
+| 91 | [God Evermore](https://open.spotify.com/track/2qgIgDagxmjNA8yhoszVNu) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [Ever Be](https://open.spotify.com/album/4Yg6IeCzU0q4OAxu5X2Ks0) | 5:06 |
+| 92 | [More Than Anything](https://open.spotify.com/track/7i0MfRdyGrNddq0H1dqSHR) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Samuel Lane](https://open.spotify.com/artist/7gjXbYoKHoNcdxVCBWpEKo) | [Here](https://open.spotify.com/album/2KA8x4fFCG9HGhmFszrorh) | 7:17 |
+| 93 | [Don't Give Up](https://open.spotify.com/track/6GIrD3RbCAKD7nMTsdAxjx) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo), [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP) | [Don't Give Up](https://open.spotify.com/album/1ovkI3emaN9GE40ssMY00u) | 5:17 |
+| 94 | [In Christ Alone](https://open.spotify.com/track/5DFOkSH4ToaLPM0pFVzWn9) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Come Behold the Wondrous Mystery](https://open.spotify.com/album/25AJ4n2vNiYmR34lLwessO) | 4:16 |
+| 95 | [Fortress \(Acoustic\)](https://open.spotify.com/track/7J2Ct0qVKKeSZJtx7HQfn3) | [Refuge Worship](https://open.spotify.com/artist/0Ub20KqDlmWDkqntwrKnVz) | [Fortress \(Acoustic\)](https://open.spotify.com/album/08acRJo4M0enLC2Vta6w9X) | 4:09 |
 | 96 | [Old Soul](https://open.spotify.com/track/0oZHCtja9pIACGN5fyZMef) | [Finding Favour](https://open.spotify.com/artist/2LATo3JT7N2EHrUeTrbDOM) | [Old Soul](https://open.spotify.com/album/72vGiZL0HIgpHChUfRLipW) | 3:41 |
 | 97 | [Home \(GCM Sinai Sessions\) \[feat\. Jonathan Ogden\]](https://open.spotify.com/track/6LwwzwWaRfRkDjFAIUxtCS) | [WYLD](https://open.spotify.com/artist/5Rw6396SuRpo6CRSLrZzKt), [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Home \(GCM Sinai Sessions\) \[feat\. Jonathan Ogden\]](https://open.spotify.com/album/4iwQhf1wykHLNxnTJ9aQfi) | 4:10 |
 | 98 | [Now I See](https://open.spotify.com/track/66SLmhCxmoFG8DUgBFv572) | [The McClures](https://open.spotify.com/artist/5lI2VDVbI989t1YHEFhGyI), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya) | [Now I See](https://open.spotify.com/album/3ag0IZGy6XuaBQPA4fH3V3) | 4:03 |
 | 99 | [I See It Now](https://open.spotify.com/track/6xdGfuz1ZET9CxPGwhdSFW) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [I See It Now](https://open.spotify.com/album/3DsswlTLXLTt7VSosshz5D) | 3:09 |
 | 100 | [I Could Sing Of Your Love Forever](https://open.spotify.com/track/4wXh7qz12O9DiMQHGATKv1) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [Throne Room](https://open.spotify.com/album/2buktwWoAIGQCPgDa11Cvt) | 3:56 |
 
-Snapshot ID: `MCxjNTYzNzViYjIzOTQxYmQ0ZmJiNTllMGJhNzViNjUzYmU1ZDI5MDdj`
+Snapshot ID: `MCwzNDc0NzJmMDYyMjhjZmJjNTQzMDY0ZDI4MzhkZWFmYjJhZmNjMTIx`

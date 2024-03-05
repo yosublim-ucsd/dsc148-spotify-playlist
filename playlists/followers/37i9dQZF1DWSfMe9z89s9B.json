@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 1381432,
+  "2024-03-05": 1381427,
   "date_first_scraped": "2021-12-21",
   "description": "Leaders of the new school...Alternative R&B. Cover: Asha Imuno",
   "name": "Vanguard",
@@ -2217,6 +2217,28 @@
       "duration_ms": 155151,
       "name": "BIG BOYS DON'T CRY",
       "url": "https://open.spotify.com/track/5VLm4s6b7rUFus9NDbynAR"
+    },
+    {
+      "album": {
+        "name": "Big Brown Eyes (feat. Orion Sun)",
+        "url": "https://open.spotify.com/album/0gsgJuKn4UyUWmResKGKWu"
+      },
+      "artists": [
+        {
+          "name": "Nascent",
+          "url": "https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6"
+        },
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184271,
+      "name": "Big Brown Eyes (feat. Orion Sun)",
+      "url": "https://open.spotify.com/track/0Bo4PwDaG1wBfV4Syj14Xe"
     },
     {
       "album": {
@@ -13903,7 +13925,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 173617,
       "name": "Peppermint",
       "url": "https://open.spotify.com/track/3rp0lvWmmT8Z1mKk0K7lfW"
@@ -14559,6 +14581,24 @@
       "duration_ms": 220893,
       "name": "pressure",
       "url": "https://open.spotify.com/track/1uf4itZeNCVYDHExNH9Ov3"
+    },
+    {
+      "album": {
+        "name": "pretend",
+        "url": "https://open.spotify.com/album/3DgzMxPjuf3WDXGiOxczaj"
+      },
+      "artists": [
+        {
+          "name": "teo glacier",
+          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170676,
+      "name": "pretend",
+      "url": "https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF"
     },
     {
       "album": {
@@ -15555,7 +15595,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 200597,
       "name": "running",
       "url": "https://open.spotify.com/track/2c28pB1VU06vVgOF5fzcTB"

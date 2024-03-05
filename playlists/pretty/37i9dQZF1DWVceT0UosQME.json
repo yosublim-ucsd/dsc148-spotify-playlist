@@ -1,12 +1,12 @@
 {
   "description": "your soundtrack to your exam studies. for max productiveness. u got this!",
-  "num_followers": 4831,
+  "num_followers": 4903,
   "original_name": "exams 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDc1MDIzNTVmYTZlNjExNTgzZWQ1YmQyZmRiZWNiYWNjM2QwOTYy",
+  "snapshot_id": "MCxjODczNjBmZGUwMGU3OGFlZjg0MDEzNmEwMzFmZDQ2MjRmYjY3YjFl",
   "tracks": [
     {
       "added_at": "2024-03-01 00:01:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
+        "name": "catch me",
+        "url": "https://open.spotify.com/album/5Ba3nDEnqnkF3Hq2YBIDGy"
+      },
+      "artists": [
+        {
+          "name": "knock on wood",
+          "url": "https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv"
+        }
+      ],
+      "duration_ms": 151958,
+      "name": "catch me",
+      "url": "https://open.spotify.com/track/2YWzE3OlGyjqMF33UvIay1"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
         "name": "Something To Sing About",
         "url": "https://open.spotify.com/album/6ZK7xjavf50MFK7iPg27iG"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 122984,
       "name": "The City",
       "url": "https://open.spotify.com/track/4lZQn9ZVkTbzehDoj3SQin"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "catch me",
-        "url": "https://open.spotify.com/album/5Ba3nDEnqnkF3Hq2YBIDGy"
-      },
-      "artists": [
-        {
-          "name": "knock on wood",
-          "url": "https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv"
-        }
-      ],
-      "duration_ms": 151958,
-      "name": "catch me",
-      "url": "https://open.spotify.com/track/2YWzE3OlGyjqMF33UvIay1"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -2207,22 +2207,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "signs of winter",
-        "url": "https://open.spotify.com/album/3r4lcISMEbY0VEQj1Tn6O6"
-      },
-      "artists": [
-        {
-          "name": "J0pie",
-          "url": "https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN"
-        }
-      ],
-      "duration_ms": 125782,
-      "name": "signs of winter",
-      "url": "https://open.spotify.com/track/2zXSjswUO8K1kcO2h3wHvk"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "Downtown",
         "url": "https://open.spotify.com/album/6KDVzfdX9UGMaDP5K9zREY"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 111111,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/0F3Bo3HVGi2fzCU67Z6rDv"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "signs of winter",
+        "url": "https://open.spotify.com/album/3r4lcISMEbY0VEQj1Tn6O6"
+      },
+      "artists": [
+        {
+          "name": "J0pie",
+          "url": "https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN"
+        }
+      ],
+      "duration_ms": 125782,
+      "name": "signs of winter",
+      "url": "https://open.spotify.com/track/2zXSjswUO8K1kcO2h3wHvk"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -3351,22 +3351,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Plant Haze",
-        "url": "https://open.spotify.com/album/5nKTjrxGyD9AR9wMehx4iA"
-      },
-      "artists": [
-        {
-          "name": "WFPB",
-          "url": "https://open.spotify.com/artist/4rMRjyAjkIJB4a6voVAtAM"
-        }
-      ],
-      "duration_ms": 121326,
-      "name": "Plant Haze",
-      "url": "https://open.spotify.com/track/7q0NPAbq3rDORmYjfR0VYu"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "Urban Sunsets",
         "url": "https://open.spotify.com/album/1WyMhhHMhnyqwG2fe7Xkdu"
       },
@@ -3379,6 +3363,22 @@
       "duration_ms": 130657,
       "name": "Urban Sunsets",
       "url": "https://open.spotify.com/track/5pEDDmOo2f7jm2Vtw8I1Ms"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "Plant Haze",
+        "url": "https://open.spotify.com/album/5nKTjrxGyD9AR9wMehx4iA"
+      },
+      "artists": [
+        {
+          "name": "WFPB",
+          "url": "https://open.spotify.com/artist/4rMRjyAjkIJB4a6voVAtAM"
+        }
+      ],
+      "duration_ms": 121326,
+      "name": "Plant Haze",
+      "url": "https://open.spotify.com/track/7q0NPAbq3rDORmYjfR0VYu"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -5531,22 +5531,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Keeps Me Wondering Why",
-        "url": "https://open.spotify.com/album/0nHwQFKQri8077vTVZrwHR"
-      },
-      "artists": [
-        {
-          "name": "Juliette",
-          "url": "https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ"
-        }
-      ],
-      "duration_ms": 117750,
-      "name": "Keeps Me Wondering Why",
-      "url": "https://open.spotify.com/track/0xcp6v3yOWE3gsILVElDEI"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "Check-Out Time",
         "url": "https://open.spotify.com/album/4G799Tgmay9itwQSV3xdTF"
       },
@@ -5575,6 +5559,22 @@
       "duration_ms": 124374,
       "name": "it will be fine",
       "url": "https://open.spotify.com/track/4NLCbAGUF1SP8MEE1z51S0"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "Keeps Me Wondering Why",
+        "url": "https://open.spotify.com/album/0nHwQFKQri8077vTVZrwHR"
+      },
+      "artists": [
+        {
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ"
+        }
+      ],
+      "duration_ms": 117750,
+      "name": "Keeps Me Wondering Why",
+      "url": "https://open.spotify.com/track/0xcp6v3yOWE3gsILVElDEI"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -8079,6 +8079,22 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
+        "name": "Pacific Coast",
+        "url": "https://open.spotify.com/album/7GwG8Ph0VMTrhwV3vHNoP8"
+      },
+      "artists": [
+        {
+          "name": "Kelly Kane",
+          "url": "https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD"
+        }
+      ],
+      "duration_ms": 138593,
+      "name": "Pacific Coast",
+      "url": "https://open.spotify.com/track/623KYMExfxDEn0zF1XtmF5"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
         "name": "wrapped arms",
         "url": "https://open.spotify.com/album/23SKlJ7adcyLeKDQcjrZ5E"
       },
@@ -8107,22 +8123,6 @@
       "duration_ms": 112142,
       "name": "troppo cotti",
       "url": "https://open.spotify.com/track/0kGXVhsOfsRaLd7pInaHWL"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Pacific Coast",
-        "url": "https://open.spotify.com/album/7GwG8Ph0VMTrhwV3vHNoP8"
-      },
-      "artists": [
-        {
-          "name": "Kelly Kane",
-          "url": "https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD"
-        }
-      ],
-      "duration_ms": 138593,
-      "name": "Pacific Coast",
-      "url": "https://open.spotify.com/track/623KYMExfxDEn0zF1XtmF5"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -8807,22 +8807,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "BYOB",
-        "url": "https://open.spotify.com/album/2hNLrMtLEItUDn4vnkLbPH"
-      },
-      "artists": [
-        {
-          "name": "Dasunny",
-          "url": "https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza"
-        }
-      ],
-      "duration_ms": 135157,
-      "name": "BYOB",
-      "url": "https://open.spotify.com/track/10mxUK1aTajK3O8DnkSGET"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "Lotus",
         "url": "https://open.spotify.com/album/0Vpd6SmPohg4jRreilcgtE"
       },
@@ -8851,6 +8835,22 @@
       "duration_ms": 131200,
       "name": "Passing By...",
       "url": "https://open.spotify.com/track/01rraBw03gDE6g4JWUUs6V"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "BYOB",
+        "url": "https://open.spotify.com/album/2hNLrMtLEItUDn4vnkLbPH"
+      },
+      "artists": [
+        {
+          "name": "Dasunny",
+          "url": "https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza"
+        }
+      ],
+      "duration_ms": 135157,
+      "name": "BYOB",
+      "url": "https://open.spotify.com/track/10mxUK1aTajK3O8DnkSGET"
     }
   ],
   "unique_name": "exams 2024",

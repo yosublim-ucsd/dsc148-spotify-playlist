@@ -2,9 +2,9 @@
 
 ### [ALT\_QC](https://open.spotify.com/playlist/37i9dQZF1DX03FBMYrWi0n)
 
-> Le meilleur de la scène alternative québécoise actuelle\. Photo: Corridor
+> Le meilleur de la scène alternative québécoise actuelle\. Photo: blesse
 
-159 songs - 9 hr 15 min
+161 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Anyway](https://open.spotify.com/track/3lbmkS5HlBqsuefMgvkxka) | [La Sécurité](https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW) | [Anyway](https://open.spotify.com/album/09krY5QSpZboazWATr2T2S) | 3:45 | 2023-04-14 | 2023-06-17 |
 | [Astronaute amateur](https://open.spotify.com/track/4EHuW9lGaG8v6ESGlWjvpi) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Diorama](https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg) | 3:38 | 2023-02-10 |  |
 | [Auréole](https://open.spotify.com/track/2Tsl8BPilekrItPa2716qj) | [zouz](https://open.spotify.com/artist/7mjxrO1Me1ANeNOeAFXxzi) | [Vertiges](https://open.spotify.com/album/1xJBGMDXE3nHY5SvPS7ZCj) | 3:06 | 2023-02-10 | 2023-07-30 |
-| [Autobahn](https://open.spotify.com/track/1LGSUhyWYn8o9PwtE8QN2x) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Autobahn](https://open.spotify.com/album/1YGNt3j4tgi6mrmSTSjDBq) | 4:10 | 2023-07-14 |  |
+| [Autobahn](https://open.spotify.com/track/1LGSUhyWYn8o9PwtE8QN2x) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Autobahn](https://open.spotify.com/album/1YGNt3j4tgi6mrmSTSjDBq) | 4:10 | 2023-07-14 | 2024-03-05 |
 | [Babyfoot \(feat\. Klô Pelgag\)](https://open.spotify.com/track/7KfODvbJdlLQw6bgT2Qzqg) | [FELP](https://open.spotify.com/artist/3BDyAQcs61DM6kedDF0b0l), [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Babyfoot \(feat\. Klô Pelgag\)](https://open.spotify.com/album/6hiaLfpvnH69stsmbA9t1W) | 2:36 | 2023-02-24 | 2023-06-04 |
 | [Barracuda](https://open.spotify.com/track/5E5lbNZgB2HAIEuitVJSGw) | [Miels](https://open.spotify.com/artist/1T7DAgRWmzieWxeyEhBD8g) | [Barracuda](https://open.spotify.com/album/0QFxXWyypV88bXEaJnyEF0) | 2:12 | 2023-10-06 | 2023-10-21 |
 | [Beau baptême](https://open.spotify.com/track/23VeUjFdefGJfKqGdjn4o5) | [Population II](https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd) | [Beau baptême](https://open.spotify.com/album/4uAwaa2dXHOGCAL9la6cFm) | 3:40 | 2023-06-02 | 2023-06-20 |
@@ -80,6 +80,7 @@
 | [L'heure des fontaines](https://open.spotify.com/track/1r5bR0LbpqBVHQqZvzICuJ) | [Totalement Sublime](https://open.spotify.com/artist/1aeePX7Ou6mrvZYVUpk4OY) | [L'heure des fontaines](https://open.spotify.com/album/2bjM6zDrQDanqa1AGX2QWA) | 2:58 | 2023-10-27 | 2023-12-10 |
 | [l'Île](https://open.spotify.com/track/10wZLG9ttpMIiYCaJsRvGs) | [Joseph Carré](https://open.spotify.com/artist/3UH656Ymcof34g5I9EVZ44) | [l'Île](https://open.spotify.com/album/3AkriQvlkrwcr3Nq22hp1U) | 3:02 | 2023-06-02 | 2023-09-30 |
 | [La hiérarchill](https://open.spotify.com/track/15ve7pAu3GiP8x9yoWNaUw) | [Jérôme 50](https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6) | [La hiérarchill](https://open.spotify.com/album/4fK0td94I2nsMsykLcquaO) | 4:46 | 2023-02-10 |  |
+| [la honte](https://open.spotify.com/track/3j8wfBkVowBTt1bGmtHOf7) | [blesse](https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge), [David Numwami](https://open.spotify.com/artist/2uKChU7eHSda8R79iR9rel) | [la honte](https://open.spotify.com/album/5MxKI5pwIa2LuSyhJGA2wO) | 3:29 | 2024-03-04 |  |
 | [La photo](https://open.spotify.com/track/273OWOLKdLhhDTYrGzcngp) | [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Quand la nuit tombe](https://open.spotify.com/album/3TxGclPeiNgoHdw5jIUXuo) | 4:39 | 2023-02-10 |  |
 | [La valse des trottoirs](https://open.spotify.com/track/0wHKODm4BO1ZXPpnxRXUY0) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9) | [Choses Sauvages](https://open.spotify.com/album/6O36buq4umPbJswlhgsKRp) | 2:37 | 2023-02-10 |  |
 | [La vie attend pas](https://open.spotify.com/track/4hjTnV4AAiOMTD085WbXNB) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Pêle\-mêle](https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw) | 4:13 | 2023-02-10 |  |
@@ -92,6 +93,7 @@
 | [Lighter Fluid](https://open.spotify.com/track/2SdHjIcNVrrSMtxhoOskRW) | [Les Deuxluxes](https://open.spotify.com/artist/6k5PugZm3EOJkU08XUPzTg) | [Lighter Fluid](https://open.spotify.com/album/5qHZZ38krHocEYUbDpAWtQ) | 2:51 | 2023-02-10 | 2023-08-17 |
 | [Liszt\-o\-mania](https://open.spotify.com/track/0LDmsCvLrGpfG9SAbowV48) | [LUMIÈRE](https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX) | [Liszt\-o\-mania](https://open.spotify.com/album/5w4DdS6fdUPYsnXWodgy9x) | 3:52 | 2023-02-17 | 2023-04-07 |
 | [Lundi normal](https://open.spotify.com/track/01q5hNY32vR6b1xa1nMZlQ) | [Grand Public](https://open.spotify.com/artist/5Ctw4xKmnbdrLyWdEA4KiO) | [Lundi normal](https://open.spotify.com/album/7jjPYqJd43EwfEnXHxy4kx) | 3:03 | 2023-02-10 | 2023-03-04 |
+| [Madone](https://open.spotify.com/track/3FqxuAQ0rNFjMyOehcyvz8) | [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [Madone](https://open.spotify.com/album/4mkI10pJ3T1dj3hsw4T1WO) | 2:55 | 2024-03-04 |  |
 | [Magie](https://open.spotify.com/track/0YtMcpJmoDLPEuKXzZRSFl) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Bon Enfant](https://open.spotify.com/album/7zyYaL9ctHBUJM4d6kdyMD) | 4:30 | 2023-02-10 | 2023-07-08 |
 | [Magique, Hypnotique](https://open.spotify.com/track/6Ld4QujeaiLrkdHQhhAIaT) | [Joseph Carré](https://open.spotify.com/artist/3UH656Ymcof34g5I9EVZ44) | [Magique!](https://open.spotify.com/album/3BT7UAEKeqUZBlTawFxApA) | 4:19 | 2023-07-14 | 2023-09-25 |
 | [Maison ouverte](https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [Maison ouverte](https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD) | 3:59 | 2023-02-10 |  |
@@ -137,7 +139,7 @@
 | [Si oui ou non](https://open.spotify.com/track/0OPEi21gk2S0fg8yMRcews) | [Vanwho](https://open.spotify.com/artist/71iQoMPHCdAMAQGlDyepk8) | [Si oui ou non](https://open.spotify.com/album/1BBSrtHVh6HuAmaOVgahGm) | 2:20 | 2023-06-02 | 2023-06-17 |
 | [Still Stained](https://open.spotify.com/track/5l6cpf17q2eIOzYQvbhtwa) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [Still Stained](https://open.spotify.com/album/7yam2gXzNOxkeHDPZQOOPv) | 3:01 | 2023-06-30 | 2023-08-23 |
 | [Stéréo](https://open.spotify.com/track/6YyFB2Qyn8Wv0XeCe7zxez) | [Loïc April](https://open.spotify.com/artist/4fnRDn8I09X3FEegktJWVt) | [Stéréo](https://open.spotify.com/album/22Hh0sucnNATw5MQkftTzK) | 2:47 | 2024-02-02 | 2024-02-26 |
-| [Sur la pointe des pieds](https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Allô Fantôme](https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8) | 6:36 | 2023-02-10 |  |
+| [Sur la pointe des pieds](https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Allô Fantôme](https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8) | 6:36 | 2023-02-10 | 2024-03-05 |
 | [Sweet montérégie](https://open.spotify.com/track/5cdHmyc2mbTB7Dzaj3Dsbw) | [Alex Burger](https://open.spotify.com/artist/03jYzuKwvEWujYj8iVtUo7) | [Sweet Montérégie](https://open.spotify.com/album/5J54uEsmf08ml6uDxOUxU3) | 3:49 | 2023-10-27 |  |
 | [Sweet Montérégie](https://open.spotify.com/track/622Po4YytbjATQ1B9J6xid) | [Alex Burger](https://open.spotify.com/artist/03jYzuKwvEWujYj8iVtUo7) | [Sweet Montérégie](https://open.spotify.com/album/62dJ6IUek4cuNPKhgYRaIr) | 3:49 | 2023-02-10 | 2023-08-03 |
 | [Ta yeule, toute va ben](https://open.spotify.com/track/2WSaDhLKwesu1YFWdFoB5u) | [FUUDGE](https://open.spotify.com/artist/5VeX5PycbdHZmYuTqYGUbi) | [Ta yeule, toute va ben](https://open.spotify.com/album/7czM4O7ElmQ8WOCrav1Vxf) | 2:24 | 2023-02-10 | 2023-03-25 |

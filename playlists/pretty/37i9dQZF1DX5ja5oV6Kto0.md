@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Prettyboy D\-O
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,987 likes - 80 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,025 likes - 80 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 79 | [JUST LIKE DETO](https://open.spotify.com/track/5vxETGyeKhT0atQECpWcMt) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [JUST LIKE DETO](https://open.spotify.com/album/1aLAoQ1BZMQMIh2IxVaHxL) | 2:11 |
 | 80 | [Patience](https://open.spotify.com/track/5mFzG8awzpPxFnIKT43Xuf) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [DECSTER](https://open.spotify.com/artist/77QeAg7dSdGhSgT5QiHZL7), [Ari](https://open.spotify.com/artist/0iYPHQ3aoLCNYcw2khOy8M) | [Patience](https://open.spotify.com/album/2r3ahud5u7iTnFvUx4lPPm) | 3:03 |
 
-Snapshot ID: `MCwzMWNhZWU4OGNkNDczYzVhNGRmZDZhNzZkMzhhMzkwYjA1ZjY1Yjc0`
+Snapshot ID: `MCxiNGY1ZGI0ZjZlOTE0MmJkZTI5NWFmMjMwYTRkNjY5ZmQ0ZDEzNGYw`

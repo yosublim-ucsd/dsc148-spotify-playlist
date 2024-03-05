@@ -1,12 +1,12 @@
 {
   "description": "Everyday. Every time.  These are the songs you can count on. Always.",
-  "num_followers": 601797,
+  "num_followers": 601909,
   "original_name": "Everyday Inspiration",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTFkZmVkZTk3NjBkM2MzYTYxN2JjZWYwZWQ5MjgxNWY2MThkMTRl",
+  "snapshot_id": "MCw2OGQxOTQ3N2E5OTQ2NDA3NzVmMGUwOTRjOTI2ZGFjMzE3MTFhZmQ3",
   "tracks": [
     {
       "added_at": "2023-02-18 03:29:19",
@@ -119,22 +119,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Almost There",
-        "url": "https://open.spotify.com/album/3ibPey02HcezZGvLpFTLXh"
-      },
-      "artists": [
-        {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
-        }
-      ],
-      "duration_ms": 248253,
-      "name": "I Can Only Imagine",
-      "url": "https://open.spotify.com/track/1G5S1rEr4L57ftizRHcYDP"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Look Up Child",
         "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 215613,
       "name": "Rescue",
       "url": "https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "Almost There",
+        "url": "https://open.spotify.com/album/3ibPey02HcezZGvLpFTLXh"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "duration_ms": 248253,
+      "name": "I Can Only Imagine",
+      "url": "https://open.spotify.com/track/1G5S1rEr4L57ftizRHcYDP"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -199,6 +199,22 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Trust in You",
+      "url": "https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
         "name": "Casting Crowns",
         "url": "https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc"
       },
@@ -231,22 +247,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "How Great Is Our God: The Essential Collection",
-        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 305426,
-      "name": "How Great Is Our God",
-      "url": "https://open.spotify.com/track/0jOSpB2zK2O0SNxj8ZT5lp"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "You Keep Hope Alive",
         "url": "https://open.spotify.com/album/1YEaHpw2muenEoVqQ4Wblp"
       },
@@ -263,6 +263,22 @@
       "duration_ms": 251200,
       "name": "You Keep Hope Alive",
       "url": "https://open.spotify.com/track/6Q997Jj1Z9yfmJV9248a2o"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "How Great Is Our God: The Essential Collection",
+        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 305426,
+      "name": "How Great Is Our God",
+      "url": "https://open.spotify.com/track/0jOSpB2zK2O0SNxj8ZT5lp"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -299,22 +315,6 @@
       "duration_ms": 411000,
       "name": "So Will I (100 Billion X)",
       "url": "https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
-        "name": "How Can It Be",
-        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Trust in You",
-      "url": "https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -471,30 +471,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "We Will Not Be Shaken (Live)",
-        "url": "https://open.spotify.com/album/2e3CuXNmlLd5d8OoI2naop"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jonathan David Helser",
-          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
-        },
-        {
-          "name": "Melissa Helser",
-          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
-        }
-      ],
-      "duration_ms": 373691,
-      "name": "No Longer Slaves (Spontaneous) - Live",
-      "url": "https://open.spotify.com/track/584GnCDcDhRV6R8iZ7gzxC"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "The Father's House",
         "url": "https://open.spotify.com/album/7sEawI0wnDKeXS1cdiXr3M"
       },
@@ -523,6 +499,30 @@
       "duration_ms": 207066,
       "name": "Who Am I",
       "url": "https://open.spotify.com/track/1KKTKUFmFLZmEhbUyj47jN"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "We Will Not Be Shaken (Live)",
+        "url": "https://open.spotify.com/album/2e3CuXNmlLd5d8OoI2naop"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        },
+        {
+          "name": "Melissa Helser",
+          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
+        }
+      ],
+      "duration_ms": 373691,
+      "name": "No Longer Slaves (Spontaneous) - Live",
+      "url": "https://open.spotify.com/track/584GnCDcDhRV6R8iZ7gzxC"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Let There Be Light (Deluxe)",
-        "url": "https://open.spotify.com/album/5SuiUBJmzzlOZqj3rogcja"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 341080,
-      "name": "What A Beautiful Name - Live",
-      "url": "https://open.spotify.com/track/1yYUIjT3bZ9RB9vejqYy9f"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Live From New York",
         "url": "https://open.spotify.com/album/6td3dp0Q2whXxXpvG8vXvP"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 217866,
       "name": "No Impossible with You",
       "url": "https://open.spotify.com/track/2XJ73OpbAluRnivJ4UI1C6"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "Let There Be Light (Deluxe)",
+        "url": "https://open.spotify.com/album/5SuiUBJmzzlOZqj3rogcja"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 341080,
+      "name": "What A Beautiful Name - Live",
+      "url": "https://open.spotify.com/track/1yYUIjT3bZ9RB9vejqYy9f"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Sing Like Never Before: The Essential Collection",
-        "url": "https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 348893,
-      "name": "Blessed Be Your Name",
-      "url": "https://open.spotify.com/track/14HrSWGYPCDwqAcVFUYKsq"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Nothing is Ordinary. Everything is Beautiful.",
         "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
       },
@@ -1351,22 +1335,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Speaking Louder Than Before",
-        "url": "https://open.spotify.com/album/0GOyWcbeMSqnvMfCD1wQzt"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
-        }
-      ],
-      "duration_ms": 279440,
-      "name": "There Will Be A Day",
-      "url": "https://open.spotify.com/track/2B503tiZmBFv9b8VomUHFK"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Worship",
         "url": "https://open.spotify.com/album/4uWr8fOgmNBCP5awR10dbs"
       },
@@ -1379,6 +1347,22 @@
       "duration_ms": 321933,
       "name": "Open The Eyes Of My Heart - Live",
       "url": "https://open.spotify.com/track/4um6ZMnib1I7VuG3c6jGm5"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "Sing Like Never Before: The Essential Collection",
+        "url": "https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 348893,
+      "name": "Blessed Be Your Name",
+      "url": "https://open.spotify.com/track/14HrSWGYPCDwqAcVFUYKsq"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1415,6 +1399,22 @@
       "duration_ms": 176615,
       "name": "God Is on the Move",
       "url": "https://open.spotify.com/track/72aVbNngCMhTFl31ydjHCG"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "Speaking Louder Than Before",
+        "url": "https://open.spotify.com/album/0GOyWcbeMSqnvMfCD1wQzt"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "duration_ms": 279440,
+      "name": "There Will Be A Day",
+      "url": "https://open.spotify.com/track/2B503tiZmBFv9b8VomUHFK"
     },
     {
       "added_at": "2023-02-18 03:29:19",

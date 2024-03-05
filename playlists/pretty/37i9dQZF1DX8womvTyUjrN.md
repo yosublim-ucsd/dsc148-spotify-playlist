@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > Fresh Latin pop on the rise\. Cover: Humbe
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,864 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,878 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 6 | [Patadas de Ahogado](https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Patadas de Ahogado](https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj) | 3:44 |
 | 7 | [¿Cómo Pasó?](https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Cómo Pasó?](https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319) | 2:54 |
 | 8 | [niño azul](https://open.spotify.com/track/6qV11bT43TNvpV9WdXN29O) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [niño azul](https://open.spotify.com/album/7uSH6G3Z9z5yGBk9LIH2Zk) | 2:25 |
-| 9 | [Bobo](https://open.spotify.com/track/4kFK6SkNXA7bBQgTzvFSWz) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Bobo](https://open.spotify.com/album/2xeKzAeesJsiqhN9MfP21f) | 3:00 |
+| 9 | [fantasmas](https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [fantasmas](https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3) | 4:47 |
 | 10 | [TU Y YO](https://open.spotify.com/track/00THZGfbizNvMUkJsQs74K) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [TU Y YO](https://open.spotify.com/album/6fP9gXEDhdBaWz6E08kqRr) | 3:12 |
-| 11 | [Fría](https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8) | [Fría](https://open.spotify.com/album/77OtfyQRt7k1nPFa9FqqlJ) | 2:56 |
+| 11 | [Bobo](https://open.spotify.com/track/4kFK6SkNXA7bBQgTzvFSWz) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Bobo](https://open.spotify.com/album/2xeKzAeesJsiqhN9MfP21f) | 3:00 |
 | 12 | [Este Cuento](https://open.spotify.com/track/0UgxIHqdtgEPM07ntZf9cg) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Este Cuento](https://open.spotify.com/album/6OQAaWJHUbwzxbYiOmCJJU) | 2:54 |
-| 13 | [fantasmas](https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [fantasmas](https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3) | 4:47 |
+| 13 | [Fría](https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8) | [Fría](https://open.spotify.com/album/77OtfyQRt7k1nPFa9FqqlJ) | 2:56 |
 | 14 | [Tarde](https://open.spotify.com/track/1rGqazNAf6UvmnAC7a5M3B) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Tarde](https://open.spotify.com/album/4S33ZpEVs5S2RqcqkM4KGF) | 2:42 |
 | 15 | [no llamaste \- Remix](https://open.spotify.com/track/3o4if7llOb7PZCz5ZIGCGI) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1), [Los Otros Días](https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V) | [no llamaste \(Remix\)](https://open.spotify.com/album/2cVEApzTrA9JZP6U7ao6H7) | 4:06 |
 | 16 | [Extrañándote](https://open.spotify.com/track/6pTKWN96v1dpEaBMzDYlww) | [Zhamira Zambrano](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Extrañándote](https://open.spotify.com/album/5wyMJ9XYRHetHFcu8tOowP) | 3:03 |
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 40 | [Pensando en Ti](https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Pensando en Ti](https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH) | 2:53 |
 | 41 | [viernes 13 iv](https://open.spotify.com/track/2qaI5v34tf7eLeboINCCon) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [viernes 13 iv](https://open.spotify.com/album/3BMckINSS666LAqscJxMdg) | 3:10 |
 | 42 | [fuimos amigos](https://open.spotify.com/track/52T4reGBKaHkDkTNt9YEGo) | [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [fuimos amigos](https://open.spotify.com/album/0BUtNIpF14nZatEGITDsXr) | 2:48 |
-| 43 | [Que La Detengan](https://open.spotify.com/track/26SAg6zRb3JpoyEXmcXxe0) | [Sofía Martín](https://open.spotify.com/artist/7oWRB45H5Usj3JVKeCwsus) | [Que La Detengan](https://open.spotify.com/album/4Ojro0SE46qoa50JqvpOj8) | 2:23 |
-| 44 | [La Mexicana](https://open.spotify.com/track/09d92ol4KHLqTx0nu9vbxZ) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [La Mexicana](https://open.spotify.com/album/5JBNbex1k3qqo57JwIZUTA) | 2:29 |
-| 45 | [El Disfraz](https://open.spotify.com/track/6ktPBO8Otumx59kpmKXlls) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [El Disfraz](https://open.spotify.com/album/2MTpCSuWzi4Lfv2gBU0Wkb) | 2:48 |
+| 43 | [El Disfraz](https://open.spotify.com/track/6ktPBO8Otumx59kpmKXlls) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [El Disfraz](https://open.spotify.com/album/2MTpCSuWzi4Lfv2gBU0Wkb) | 2:48 |
+| 44 | [Que La Detengan](https://open.spotify.com/track/26SAg6zRb3JpoyEXmcXxe0) | [Sofía Martín](https://open.spotify.com/artist/7oWRB45H5Usj3JVKeCwsus) | [Que La Detengan](https://open.spotify.com/album/4Ojro0SE46qoa50JqvpOj8) | 2:23 |
+| 45 | [La Mexicana](https://open.spotify.com/track/09d92ol4KHLqTx0nu9vbxZ) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [La Mexicana](https://open.spotify.com/album/5JBNbex1k3qqo57JwIZUTA) | 2:29 |
 | 46 | [el afortunado](https://open.spotify.com/track/4cgm8ysMxbJr6x84l7XArd) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz) | [el afortunado](https://open.spotify.com/album/2zrZBkIysHuJUkzYDQ9Lx2) | 3:20 |
 | 47 | [Anoche](https://open.spotify.com/track/5cVzHV40StU3nmMBMKR4n6) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Anoche](https://open.spotify.com/album/4f5F0rs3ENsaJP3QGcVaQb) | 3:16 |
 | 48 | [quise quererte](https://open.spotify.com/track/6VE5ysTVC4BkeOrLWkud3N) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [quise quererte](https://open.spotify.com/album/3iWWKOwiBVw2nDZmU0mCFp) | 3:39 |
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 62 | [Inevitable](https://open.spotify.com/track/4DyVhH4VtUcl42sNJgp0wr) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Inevitable](https://open.spotify.com/album/2c8xgsmbLIgMm1x6lLKBd4) | 3:08 |
 | 63 | [La Que Yo Amo](https://open.spotify.com/track/2Ul5bO8HgSd3Tdy7ug1B50) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [DEKKOLETERA 3](https://open.spotify.com/album/1pZHGsYHI8Ks3j2NCIbv8X) | 2:12 |
 | 64 | [ESO VA](https://open.spotify.com/track/3OJHqWUIF06coILsONNcJ4) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [ESO VA](https://open.spotify.com/album/7G6P1cBAHQqFP3ljX8d27w) | 2:46 |
-| 65 | [Enemigos](https://open.spotify.com/track/0sbfZT6Wl6nTpxdomThgD7) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Enemigos](https://open.spotify.com/album/4zAbx6Zpe8YoXezMynqlfv) | 2:37 |
-| 66 | [Vale Madres](https://open.spotify.com/track/02YhaoVERYV2QhGq8NEYnZ) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2) | [Introspección](https://open.spotify.com/album/33tRyIKhIzBW2Y8eufDMFx) | 2:12 |
-| 67 | [Las Cosas Simples](https://open.spotify.com/track/3nO0c6dxcZqrDW4WTEtKUr) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Las Cosas Simples](https://open.spotify.com/album/4gq30p37s9VgAovyUtfDqz) | 4:07 |
+| 65 | [Vale Madres](https://open.spotify.com/track/02YhaoVERYV2QhGq8NEYnZ) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2) | [Introspección](https://open.spotify.com/album/33tRyIKhIzBW2Y8eufDMFx) | 2:12 |
+| 66 | [Las Cosas Simples](https://open.spotify.com/track/3nO0c6dxcZqrDW4WTEtKUr) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Las Cosas Simples](https://open.spotify.com/album/4gq30p37s9VgAovyUtfDqz) | 4:07 |
+| 67 | [Enemigos](https://open.spotify.com/track/0sbfZT6Wl6nTpxdomThgD7) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Enemigos](https://open.spotify.com/album/4zAbx6Zpe8YoXezMynqlfv) | 2:37 |
 | 68 | [Tu Canción](https://open.spotify.com/track/5MEOi4Xbxxtjrcf4WD8ztH) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Tu Canción](https://open.spotify.com/album/73Hd2erTeZ6BeshYv6Rjs2) | 3:11 |
 | 69 | [Que Chimbo](https://open.spotify.com/track/3NtJcM9WHnxLlD0stGJmmm) | [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l) | [Que Chimbo](https://open.spotify.com/album/3F5sgJGuvlRmuaV7YQnsvX) | 2:16 |
 | 70 | [Que Alguien Me Saque De Este Mood](https://open.spotify.com/track/51CEK6LaFSbCyGjliYPNBd) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0), [Jaz](https://open.spotify.com/artist/1rGCJdI1tiJS0RRo5OToeM) | [Que Alguien Me Saque De Este Mood](https://open.spotify.com/album/7A3ydblddkJBrKAwyXBGqd) | 2:47 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 74 | [medio vacío](https://open.spotify.com/track/68bWtlDEUAV5l0bJPUr1sr) | [Alex Wall](https://open.spotify.com/artist/4ea330FfNhtiTABdSJZthp) | [medio vacío](https://open.spotify.com/album/5WLapTTLMjeF2g1bJPcTNy) | 3:05 |
 | 75 | [26 \- ni tarde ni temprano](https://open.spotify.com/track/6ClF0j9hpvx0PcNBbiUZT9) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [26 \(ni tarde ni temprano\)](https://open.spotify.com/album/7fhRpgRxxa7FUZWQXpRitl) | 3:23 |
 
-Snapshot ID: `MCxkZGU4NzAwMWMyOGQ5NGRlZWU1ZTBkMTE5MjdkYTM3ODhiNDczMmMy`
+Snapshot ID: `MCw1OGU3OGNjYmU4MzcyODU1MzZkOGZhMTQxZmFmOGNmNjE4ZWUzMDZh`

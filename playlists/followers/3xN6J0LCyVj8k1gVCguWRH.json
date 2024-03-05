@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 107796,
+  "2024-03-05": 107793,
   "date_first_scraped": "2019-09-29",
   "description": "Favorite songs of 2024 plus some of his favorite summer songs. Includes Summer 23, 22, &amp; 21 editions + bonus tracks.",
   "name": " Obama\u2019s Summer Playlist 2024",
@@ -10888,6 +10888,24 @@
     },
     {
       "album": {
+        "name": "Phantom of the Popular",
+        "url": "https://open.spotify.com/album/5RhkrnNP8OW4qj4pXhqiRv"
+      },
+      "artists": [
+        {
+          "name": "Timothy Flyte",
+          "url": "https://open.spotify.com/artist/5KDGUZfC9wxnE4H36IN0ll"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162303,
+      "name": "Cool Chick",
+      "url": "https://open.spotify.com/track/457UZJwBiMCupcZvEnacmT"
+    },
+    {
+      "album": {
         "name": "Cool Girl",
         "url": "https://open.spotify.com/album/5U5maXzTMHJdbul305Xox0"
       },
@@ -15525,7 +15543,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 233485,
       "name": "Enough",
       "url": "https://open.spotify.com/track/2hIoE1ovdfIN6JM6OEkQhH"
@@ -17643,6 +17661,24 @@
       "duration_ms": 223920,
       "name": "Fire Escape",
       "url": "https://open.spotify.com/track/7J8rcTIa2nfNvksZwsyqBS"
+    },
+    {
+      "album": {
+        "name": "Prayer Room",
+        "url": "https://open.spotify.com/album/47Yjo8HFXdXqZDSSGDAc3v"
+      },
+      "artists": [
+        {
+          "name": "Sarah Betshabaz",
+          "url": "https://open.spotify.com/artist/4W2wmY30VqkUVo3qXCukXg"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180872,
+      "name": "Fire in the Heart",
+      "url": "https://open.spotify.com/track/6JLCJFrHbT5KvpNObbQhaD"
     },
     {
       "album": {
@@ -29923,7 +29959,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 132000,
       "name": "lonely",
       "url": "https://open.spotify.com/track/4AOrAAhDDwoMEfXx9tSDT8"
@@ -50675,7 +50711,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 131250,
       "name": "Things You Do - ALWZ SNNY Remix",
       "url": "https://open.spotify.com/track/5JOFTV2T9viwtDOw0P4T8W"
@@ -51489,7 +51525,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 155437,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/5H8XSgOFdRmmXKStxw2KWR"
@@ -55392,6 +55428,28 @@
     },
     {
       "album": {
+        "name": "What do you think",
+        "url": "https://open.spotify.com/album/5ub1mQSsZH5sFXoP1EbHhX"
+      },
+      "artists": [
+        {
+          "name": "Papa Beats",
+          "url": "https://open.spotify.com/artist/5ysUw9JRtdLuZT8yhqPkmo"
+        },
+        {
+          "name": "The Crushboys",
+          "url": "https://open.spotify.com/artist/495JzkPWUCyhbtB8fPVb4Z"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182612,
+      "name": "What do you think",
+      "url": "https://open.spotify.com/track/4RhtBqLcAIvg5EdC79HDQl"
+    },
+    {
+      "album": {
         "name": "What I Know",
         "url": "https://open.spotify.com/album/0ihbD1OOySf01rTmEJ0Fg2"
       },
@@ -56871,7 +56929,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 184600,
       "name": "World's Fair",
       "url": "https://open.spotify.com/track/2YpNs6fjBu8AGF06RGYsb5"

@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 13625,
+  "2024-03-05": 13623,
   "date_first_scraped": "2022-06-22",
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04. (Listen to K-Pop rainy day songs.)",
   "name": "\uc6b0\uc0b0 \uc544\ub798 (Under the Umbrella)",
@@ -2481,7 +2481,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 209628,
       "name": "Overflow",
       "url": "https://open.spotify.com/track/18SXY7zFs9AuLIlX6olAW8"
@@ -3265,6 +3265,24 @@
       "duration_ms": 212666,
       "name": "Special",
       "url": "https://open.spotify.com/track/4rYVDRcexlHXE65wm6jHQw"
+    },
+    {
+      "album": {
+        "name": "Chocolate, Pt.7 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/79wBNq5XUF8BkdmNjPoxrO"
+      },
+      "artists": [
+        {
+          "name": "\uc720\ube48",
+          "url": "https://open.spotify.com/artist/54WmF0InV2ogQOVKnZJExd"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212666,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/0mJXYwO3SY1botH8lBfjBQ"
     },
     {
       "album": {

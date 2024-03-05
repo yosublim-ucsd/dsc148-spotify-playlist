@@ -1,12 +1,12 @@
 {
   "description": "Beats instrumentais para te ajudar a focar mantendo o \u00e2nimo.",
-  "num_followers": 48572,
+  "num_followers": 48583,
   "original_name": "Foco com Energia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzljODZhZWM4ZjczNzlkZjg5ZWM0OWEzNjMzMGVmYmYwNjdhNDc0",
+  "snapshot_id": "MCw5ZGM0NGQ5YTkwNTM5ZTU3YmZmNzAzNTE3ZGY4OWVhYWM3YWZkNGMy",
   "tracks": [
     {
       "added_at": "2024-01-05 00:01:00",
@@ -6767,6 +6767,22 @@
     {
       "added_at": "2024-01-05 00:01:00",
       "album": {
+        "name": "don't worry it will be okay",
+        "url": "https://open.spotify.com/album/1i6hCRgWPoDVH9egvxgvdp"
+      },
+      "artists": [
+        {
+          "name": "Aviscerall",
+          "url": "https://open.spotify.com/artist/39eka3QcVZN0xYUX5nvtXM"
+        }
+      ],
+      "duration_ms": 143750,
+      "name": "don't worry it will be okay",
+      "url": "https://open.spotify.com/track/5mCdx36Sn4lSlmFeMozAGI"
+    },
+    {
+      "added_at": "2024-01-05 00:01:00",
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/2Rfn3GAAWwaewH4cmG9OC7"
       },
@@ -6787,22 +6803,6 @@
       "duration_ms": 134494,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/4IRM3iTIInBJ7oYkYP61F6"
-    },
-    {
-      "added_at": "2024-01-05 00:01:00",
-      "album": {
-        "name": "don't worry it will be okay",
-        "url": "https://open.spotify.com/album/1i6hCRgWPoDVH9egvxgvdp"
-      },
-      "artists": [
-        {
-          "name": "Aviscerall",
-          "url": "https://open.spotify.com/artist/39eka3QcVZN0xYUX5nvtXM"
-        }
-      ],
-      "duration_ms": 143750,
-      "name": "don't worry it will be okay",
-      "url": "https://open.spotify.com/track/5mCdx36Sn4lSlmFeMozAGI"
     },
     {
       "added_at": "2024-01-05 00:01:00",

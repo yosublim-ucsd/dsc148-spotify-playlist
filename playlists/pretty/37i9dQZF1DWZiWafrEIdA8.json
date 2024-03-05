@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 9387,
+  "num_followers": 9385,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWFlZWIzZmZiNTk1YzNjMjI3ODk0ZTA2MzU3ZjA5YWVlOGEzMWRm",
+  "snapshot_id": "MCxjMjg0NzU2NTQ0YWQ5MGE0ZjI1NTA3ZDdiYTczZTZlODM1NWFmMDE5",
   "tracks": [
     {
       "added_at": "2024-01-08 08:25:31",
@@ -163,26 +163,6 @@
     {
       "added_at": "2024-01-08 08:25:31",
       "album": {
-        "name": "Show Me the Money 5 Episode 4",
-        "url": "https://open.spotify.com/album/4iSAd5Tg8jNhoRLnZ0Tb0X"
-      },
-      "artists": [
-        {
-          "name": "BewhY",
-          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 209019,
-      "name": "Day Day (Prod. By GRAY)",
-      "url": "https://open.spotify.com/track/3i6vV5Z2P9uMlxf8wdm2WK"
-    },
-    {
-      "added_at": "2024-01-08 08:25:31",
-      "album": {
         "name": "SHOW ME THE MONEY 11 Final",
         "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 236524,
       "name": "HUG (Feat. Zion.T, Wonstein) (Prod. by Slom)",
       "url": "https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc"
+    },
+    {
+      "added_at": "2024-01-08 08:25:31",
+      "album": {
+        "name": "Show Me the Money 5 Episode 4",
+        "url": "https://open.spotify.com/album/4iSAd5Tg8jNhoRLnZ0Tb0X"
+      },
+      "artists": [
+        {
+          "name": "BewhY",
+          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 209019,
+      "name": "Day Day (Prod. By GRAY)",
+      "url": "https://open.spotify.com/track/3i6vV5Z2P9uMlxf8wdm2WK"
     },
     {
       "added_at": "2024-01-08 08:25:31",
@@ -263,6 +263,26 @@
     {
       "added_at": "2024-01-08 08:25:31",
       "album": {
+        "name": "FRIENDS",
+        "url": "https://open.spotify.com/album/15qT5zhGXLx7Oz725k8aZV"
+      },
+      "artists": [
+        {
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 190690,
+      "name": "FRIENDS",
+      "url": "https://open.spotify.com/track/1Y8tCOCqwav6RBvfNjYphx"
+    },
+    {
+      "added_at": "2024-01-08 08:25:31",
+      "album": {
         "name": "Curtain Call",
         "url": "https://open.spotify.com/album/02RwftMPUiJvxCTDOUSJWx"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 229575,
       "name": "Time limit (Feat. Leellamarz, Loco)",
       "url": "https://open.spotify.com/track/1jQg7ImfH2OVpp9lu9mOj0"
-    },
-    {
-      "added_at": "2024-01-08 08:25:31",
-      "album": {
-        "name": "FRIENDS",
-        "url": "https://open.spotify.com/album/15qT5zhGXLx7Oz725k8aZV"
-      },
-      "artists": [
-        {
-          "name": "lIlBOI",
-          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
-        },
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 190690,
-      "name": "FRIENDS",
-      "url": "https://open.spotify.com/track/1Y8tCOCqwav6RBvfNjYphx"
     },
     {
       "added_at": "2024-01-08 08:25:31",
@@ -331,6 +331,26 @@
     {
       "added_at": "2024-01-08 08:25:31",
       "album": {
+        "name": "Just Like This",
+        "url": "https://open.spotify.com/album/2RpmJwbaKYe0JhlNNENMvi"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 199733,
+      "name": "Just Like This (Feat. george)",
+      "url": "https://open.spotify.com/track/3ptp3j48p6tPwGEJUCbSu0"
+    },
+    {
+      "added_at": "2024-01-08 08:25:31",
+      "album": {
         "name": "School Rapper 2 Team-Battle Part 3",
         "url": "https://open.spotify.com/album/5gzRcFZt1zI7Vpxq3N14vL"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 222898,
       "name": "Bar Code (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/0el9gNyGpY6xGwOkPwKsPR"
-    },
-    {
-      "added_at": "2024-01-08 08:25:31",
-      "album": {
-        "name": "Just Like This",
-        "url": "https://open.spotify.com/album/2RpmJwbaKYe0JhlNNENMvi"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 199733,
-      "name": "Just Like This (Feat. george)",
-      "url": "https://open.spotify.com/track/3ptp3j48p6tPwGEJUCbSu0"
     },
     {
       "added_at": "2024-01-08 08:25:31",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-01-08 08:25:31",
       "album": {
-        "name": "WATERFALL",
-        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
-      },
-      "artists": [
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        }
-      ],
-      "duration_ms": 203615,
-      "name": "Re-Birth",
-      "url": "https://open.spotify.com/track/48KTWbSSxOh07mbYtitG2x"
-    },
-    {
-      "added_at": "2024-01-08 08:25:31",
-      "album": {
         "name": "Show Me The Money 9 Final",
         "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 247718,
       "name": "CREDIT (Feat. YUMDDA, GIRIBOY, Zion.T)",
       "url": "https://open.spotify.com/track/2lHmx4nJOTGHx2PkEFMADF"
+    },
+    {
+      "added_at": "2024-01-08 08:25:31",
+      "album": {
+        "name": "WATERFALL",
+        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "duration_ms": 203615,
+      "name": "Re-Birth",
+      "url": "https://open.spotify.com/track/48KTWbSSxOh07mbYtitG2x"
     },
     {
       "added_at": "2024-01-08 08:25:31",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-01-08 08:25:31",
       "album": {
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "duration_ms": 246400,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/7mxRhBvxm7zjMzSsO24kIq"
+    },
+    {
+      "added_at": "2024-01-08 08:25:31",
+      "album": {
         "name": "PSY 9th",
         "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 182671,
       "name": "Pat Pat",
       "url": "https://open.spotify.com/track/6lejhkABV4Hns2v1ZJjPwJ"
-    },
-    {
-      "added_at": "2024-01-08 08:25:31",
-      "album": {
-        "name": "Epik High Is Here \u4e0b (Part 2)",
-        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
-      },
-      "artists": [
-        {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        }
-      ],
-      "duration_ms": 246400,
-      "name": "Champagne",
-      "url": "https://open.spotify.com/track/7mxRhBvxm7zjMzSsO24kIq"
     },
     {
       "added_at": "2024-01-08 08:25:31",
@@ -919,6 +919,26 @@
       "duration_ms": 164035,
       "name": "The Little Prince (Prod. Godic)",
       "url": "https://open.spotify.com/track/7rJaRkfLLhOBkdyJ8OCPSq"
+    },
+    {
+      "added_at": "2024-01-08 08:25:31",
+      "album": {
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        }
+      ],
+      "duration_ms": 286226,
+      "name": "Family Portrait (Feat. Kim Feel)",
+      "url": "https://open.spotify.com/track/20LM2NJWXVwCqtkVeJIb7B"
     },
     {
       "added_at": "2024-01-08 08:25:31",
@@ -1055,26 +1075,6 @@
       "duration_ms": 229467,
       "name": "HERE (Prod. by CODE KUNST)",
       "url": "https://open.spotify.com/track/0CLJv5Pc0DZbuo78MqLyrG"
-    },
-    {
-      "added_at": "2024-01-08 08:25:31",
-      "album": {
-        "name": "Epik High Is Here \u4e0b (Part 2)",
-        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
-      },
-      "artists": [
-        {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        },
-        {
-          "name": "Kim Feel",
-          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
-        }
-      ],
-      "duration_ms": 286226,
-      "name": "Family Portrait (Feat. Kim Feel)",
-      "url": "https://open.spotify.com/track/20LM2NJWXVwCqtkVeJIb7B"
     }
   ],
   "unique_name": "\ud790\ub9c1 \ud799\ud569",

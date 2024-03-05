@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 
 > Iconic women from the history of the Blues\. Cover: Bessie Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,525 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,555 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 34 | [Tease Your Man](https://open.spotify.com/track/06hFEQu1PismBzyS3gg11U) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [What It Takes: The Chess Years \(Expanded Edition\)](https://open.spotify.com/album/5cqkfEOV7du3ynBO7EENMp) | 4:20 |
 | 35 | [Keep A Song In Your Soul](https://open.spotify.com/track/0cS0A1fUEUd1EW3FcF8AEI) | [Mamie Smith](https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk) | [Crazy Blues: The Best Of Mamie Smith](https://open.spotify.com/album/6os2Mv58OYnQClPf7B9E1s) | 2:48 |
 | 36 | [It's Tight Like That](https://open.spotify.com/track/5qBpfZS59XfbTnLtFDl3t4) | [Clara Smith](https://open.spotify.com/artist/2It5hXbGPFBNCCJQQr7iHH) | [I Ain't a Gamblin' Woman, I Got Such\-A Rowdy Ways](https://open.spotify.com/album/4kXm3wdVpJoxedVAknvV6D) | 3:15 |
-| 37 | [B.D\. Woman's Blues](https://open.spotify.com/track/4xDfDNIn7RW19nZJQsTcp3) | [Lucille Bogan](https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf) | [Shave 'Em Dry: The Best Of Lucille Bogan](https://open.spotify.com/album/6lt3PCrLIoE3ozSlq9QuMw) | 2:57 |
-| 38 | [I'm Feeling Alright](https://open.spotify.com/track/2oBuD0bsCutoNh1gbVuBPn) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball n' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 3:00 |
-| 39 | [Billie's Blues](https://open.spotify.com/track/0ABtCIHJudiNuykVHk0eug) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Definitive Collection](https://open.spotify.com/album/08dcy2id7A5FGQXzBoG4cC) | 3:07 |
-| 40 | [Bad Spell Blues](https://open.spotify.com/track/0GzE9pIJApHUOohOTGplUW) | [Ottilie Patterson](https://open.spotify.com/artist/4915Sr7uNqzsnJqOLKOnrC), [Chris Barber's Jazz Band](https://open.spotify.com/artist/48CW1rjPSOgZbMsV4LpqoP) | [Blues Book and Beyond](https://open.spotify.com/album/7s8fUmFH40RAHThrPdx57E) | 4:00 |
+| 37 | [Bad Spell Blues](https://open.spotify.com/track/0GzE9pIJApHUOohOTGplUW) | [Ottilie Patterson](https://open.spotify.com/artist/4915Sr7uNqzsnJqOLKOnrC), [Chris Barber's Jazz Band](https://open.spotify.com/artist/48CW1rjPSOgZbMsV4LpqoP) | [Blues Book and Beyond](https://open.spotify.com/album/7s8fUmFH40RAHThrPdx57E) | 4:00 |
+| 38 | [Billie's Blues](https://open.spotify.com/track/0ABtCIHJudiNuykVHk0eug) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Definitive Collection](https://open.spotify.com/album/08dcy2id7A5FGQXzBoG4cC) | 3:07 |
+| 39 | [B.D\. Woman's Blues](https://open.spotify.com/track/4xDfDNIn7RW19nZJQsTcp3) | [Lucille Bogan](https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf) | [Shave 'Em Dry: The Best Of Lucille Bogan](https://open.spotify.com/album/6lt3PCrLIoE3ozSlq9QuMw) | 2:57 |
+| 40 | [I'm Feeling Alright](https://open.spotify.com/track/2oBuD0bsCutoNh1gbVuBPn) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball n' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 3:00 |
 | 41 | [Doctor Blues](https://open.spotify.com/track/2kPvNhSNpdw8wyMd3KM1qE) | [Alberta Adams](https://open.spotify.com/artist/0Hy7IqUHfhyTf0asGNf9mw) | [Detroit Is My Home](https://open.spotify.com/album/712DNUvzw8lnful0KQ8cfk) | 4:28 |
 | 42 | [I Crave Your Lovin' Every Day](https://open.spotify.com/track/2PyvydBuudmwj7BtCNY45U) | [Ora Alexander](https://open.spotify.com/artist/1PQwSb0u9VGGk4yqojZYgl) | [Female Blues Singers Vol\. 1 A/B \(1924\-1932\)](https://open.spotify.com/album/0taoz29EBZr4cz9UKTrbIB) | 3:03 |
 | 43 | [Jelly Roll Blues](https://open.spotify.com/track/5VTLcHNmiFZ99okh2YliQF) | [Sweet Emma Barrett](https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk) | [Sweet Emma Barrett And Her New Orleans Music](https://open.spotify.com/album/3ePmdU3EBhhiID5RI6ZlUg) | 3:40 |
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 49 | [Trouble In Mind \(9510\)](https://open.spotify.com/track/3oUKkbX1oyjIKSDZBnADDT) | [Bertha "Chippie" Hill](https://open.spotify.com/artist/1sPDyROEgOvKQlReOg874E) | [Bertha "Chippie" Hill 1925\-1929](https://open.spotify.com/album/6sA70gGM15Et2Ebw1AvsP9) | 2:44 |
 | 50 | [I'm Getting 'Long Alright](https://open.spotify.com/track/7xhxXOiHwzKEcwQuTQgD9P) | [Big Maybelle](https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0) | [The Complete Okeh Sessions 1952\-1955](https://open.spotify.com/album/4ENn66pgc12XTse3zDQAxZ) | 3:34 |
 | 51 | [Every Night \(a.k.a\. Baby Baby Every Night\)](https://open.spotify.com/track/1IGDi02X5YvVMuY9NSynH5) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Heart & Soul: A Retrospective](https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH) | 2:22 |
-| 52 | [Stack O'Lee Blues](https://open.spotify.com/track/3AhXSiloqX8hkEmXsSBWAO) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 3 \(1925\-1926\)](https://open.spotify.com/album/4LJpa2SOh2MO6eoZJpA8ht) | 2:55 |
-| 53 | [Don't Worry 'Bout Strangers](https://open.spotify.com/track/1ZgAzwDAC6AtgA4CbztYir) | [Mildred Bailey](https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix) | [Sings..\. Me And The Blues](https://open.spotify.com/album/5vc8CnGTsboRWY5ckBUt7u) | 3:00 |
-| 54 | [Moanin' Low](https://open.spotify.com/track/2Eqx8kcEyuHkresgSFePM6) | [Eva Taylor](https://open.spotify.com/artist/4tcdCfYOTLmHkjzfIIHocL) | [The First Torch Singers, Vol\. I: The Twenties](https://open.spotify.com/album/2i5G9rq9OB4pBCFz1ul0im) | 3:31 |
-| 55 | [Romance In The Dark](https://open.spotify.com/track/5eLdg6SFlue27XADwrAxzS) | [Lilgreen](https://open.spotify.com/artist/6vchx2WteYQ1SnTTHE0ib7) | [Lil's Big Hits](https://open.spotify.com/album/2bqHbihz5UMPJE5gdPHN08) | 3:22 |
+| 52 | [Don't Worry 'Bout Strangers](https://open.spotify.com/track/1ZgAzwDAC6AtgA4CbztYir) | [Mildred Bailey](https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix) | [Sings..\. Me And The Blues](https://open.spotify.com/album/5vc8CnGTsboRWY5ckBUt7u) | 3:00 |
+| 53 | [Moanin' Low](https://open.spotify.com/track/2Eqx8kcEyuHkresgSFePM6) | [Eva Taylor](https://open.spotify.com/artist/4tcdCfYOTLmHkjzfIIHocL) | [The First Torch Singers, Vol\. I: The Twenties](https://open.spotify.com/album/2i5G9rq9OB4pBCFz1ul0im) | 3:31 |
+| 54 | [Romance In The Dark](https://open.spotify.com/track/5eLdg6SFlue27XADwrAxzS) | [Lilgreen](https://open.spotify.com/artist/6vchx2WteYQ1SnTTHE0ib7) | [Lil's Big Hits](https://open.spotify.com/album/2bqHbihz5UMPJE5gdPHN08) | 3:22 |
+| 55 | [Stack O'Lee Blues](https://open.spotify.com/track/3AhXSiloqX8hkEmXsSBWAO) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 3 \(1925\-1926\)](https://open.spotify.com/album/4LJpa2SOh2MO6eoZJpA8ht) | 2:55 |
 | 56 | [Boogie'n My Woogie](https://open.spotify.com/track/2Psc3t5okX2ss8oUDi3lZl) | [Gladys Bentley](https://open.spotify.com/artist/5byQk5bPDb10356SOJJeU9) | [Boogie Woogie Gals](https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ) | 2:35 |
 | 57 | [New That Ain't Right](https://open.spotify.com/track/2DP2o8uBWk14XUdRzVf91L) | [Perline Ellison](https://open.spotify.com/artist/07lfk5rYOlkkPfbpTPEarh) | [Female Blues \- The Remaining Titles Vol\. 2 \(1938\-1949\)](https://open.spotify.com/album/5Cdll1bM00Aeg588xttgyU) | 2:59 |
 | 58 | [Honey Dripper Blues](https://open.spotify.com/track/1Os8Vy3lPy5jV1pvbWhVb1) | [Hattie North & Roosevelt Sykes](https://open.spotify.com/artist/7sD5sKsFCqEVKUIluXkIpx) | [Those Dirty Blues, Vol\. 2](https://open.spotify.com/album/0zDMxkrHTiWACsChYUqCNl) | 3:25 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 74 | [Country Boy Blues](https://open.spotify.com/track/3aidj13SWwc9o63JMdFyva) | [Lilgreen](https://open.spotify.com/artist/6vchx2WteYQ1SnTTHE0ib7) | [Lil's Big Hits](https://open.spotify.com/album/2bqHbihz5UMPJE5gdPHN08) | 2:56 |
 | 75 | [Trouble In Mind](https://open.spotify.com/track/0uFpxl1SdIGWzPenILTMar) | [Jay McShann](https://open.spotify.com/artist/1qZnWtvzKVV0lJQZBapchU) | [Bar Fly Blues](https://open.spotify.com/album/37BjakiUYWxa4zVHpCwxcw) | 2:54 |
 
-Snapshot ID: `MCw0MWU3ZWEwMWY5YzUyYTExM2M5NzRlYjg2NDZkMjVkN2I0NDFiZjJk`
+Snapshot ID: `MCwzMDA1Njk0Njc2ZDFkNzNkZDJiZTI4NDU2MGM5YTJmNjQyMTMwOTdh`

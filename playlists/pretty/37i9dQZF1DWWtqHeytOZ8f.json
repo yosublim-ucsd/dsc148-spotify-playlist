@@ -1,12 +1,12 @@
 {
   "description": "Contemplate the universe in a bottle of friendly colored magma.",
-  "num_followers": 365681,
+  "num_followers": 365720,
   "original_name": "Lava Lamp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGYyNTkwOGQxYjVlMjE0YWEzMGM2YTk3NGMyNGVkNDRlNDY1ZDc4",
+  "snapshot_id": "MCw0YWQ0OWJkZDU4MDUzMjJmY2FjNWI0NDVkZGU0Njc1ODNlMzc0NmZm",
   "tracks": [
     {
       "added_at": "2021-10-20 18:30:59",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2021-10-20 18:30:59",
       "album": {
+        "name": "Clara",
+        "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
+      },
+      "artists": [
+        {
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
+        }
+      ],
+      "duration_ms": 361854,
+      "name": "Vespera",
+      "url": "https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P"
+    },
+    {
+      "added_at": "2021-10-20 18:30:59",
+      "album": {
         "name": "Erratics & Unconformities",
         "url": "https://open.spotify.com/album/3froV8878RfT1ClZYjyxBI"
       },
@@ -1127,6 +1143,22 @@
     {
       "added_at": "2021-10-20 18:30:59",
       "album": {
+        "name": "Millions",
+        "url": "https://open.spotify.com/album/1FQeXbMp0unfnvHBV01tRw"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "duration_ms": 202788,
+      "name": "On Deer Island",
+      "url": "https://open.spotify.com/track/2Z0UHFWeHRw3IWohIRr2K5"
+    },
+    {
+      "added_at": "2021-10-20 18:30:59",
+      "album": {
         "name": "Ancient Lost Farms",
         "url": "https://open.spotify.com/album/7drLKzbDURXToeud7gta3b"
       },
@@ -1139,22 +1171,6 @@
       "duration_ms": 134693,
       "name": "The Crop Circle",
       "url": "https://open.spotify.com/track/5BdTEkSo1U4Tw0TPFLJxZH"
-    },
-    {
-      "added_at": "2021-10-20 18:30:59",
-      "album": {
-        "name": "Clara",
-        "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
-      },
-      "artists": [
-        {
-          "name": "Loscil",
-          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
-        }
-      ],
-      "duration_ms": 361854,
-      "name": "Vespera",
-      "url": "https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P"
     },
     {
       "added_at": "2021-10-20 18:30:59",
@@ -1203,22 +1219,6 @@
       "duration_ms": 156920,
       "name": "Sad Alron",
       "url": "https://open.spotify.com/track/2GLpbn7AqK5pyK5YyevI7K"
-    },
-    {
-      "added_at": "2021-10-20 18:30:59",
-      "album": {
-        "name": "Millions",
-        "url": "https://open.spotify.com/album/1FQeXbMp0unfnvHBV01tRw"
-      },
-      "artists": [
-        {
-          "name": "Alaskan Tapes",
-          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
-        }
-      ],
-      "duration_ms": 202788,
-      "name": "On Deer Island",
-      "url": "https://open.spotify.com/track/2Z0UHFWeHRw3IWohIRr2K5"
     },
     {
       "added_at": "2021-10-20 18:30:59",
@@ -1661,6 +1661,22 @@
       "url": "https://open.spotify.com/track/67R6OxxmHwL0N1vLjetR75"
     },
     {
+      "added_at": "2022-08-03 03:06:04",
+      "album": {
+        "name": "Music for Animals",
+        "url": "https://open.spotify.com/album/0w4P2GvCEY7rVxdU1rrnxJ"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 1111999,
+      "name": "Lemon Day",
+      "url": "https://open.spotify.com/track/25didOM7sOPt7UVEcfyc92"
+    },
+    {
       "added_at": "2022-06-22 18:50:33",
       "album": {
         "name": "The Art of Meditation",
@@ -1737,22 +1753,6 @@
       "url": "https://open.spotify.com/track/3UBW2WFjqWpEhjOM1qO6It"
     },
     {
-      "added_at": "2022-08-03 03:06:04",
-      "album": {
-        "name": "Music for Animals",
-        "url": "https://open.spotify.com/album/0w4P2GvCEY7rVxdU1rrnxJ"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 1111999,
-      "name": "Lemon Day",
-      "url": "https://open.spotify.com/track/25didOM7sOPt7UVEcfyc92"
-    },
-    {
       "added_at": "2021-10-20 18:30:59",
       "album": {
         "name": "Depths",
@@ -1799,6 +1799,22 @@
       "duration_ms": 1606164,
       "name": "Parallel 1",
       "url": "https://open.spotify.com/track/6XOG65nZN3XKmxevGRHZMC"
+    },
+    {
+      "added_at": "2022-07-08 04:29:46",
+      "album": {
+        "name": "Music for Animals",
+        "url": "https://open.spotify.com/album/0w4P2GvCEY7rVxdU1rrnxJ"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 445980,
+      "name": "Right Right Right",
+      "url": "https://open.spotify.com/track/6RpNhl6giVNAhZY2526QgZ"
     },
     {
       "added_at": "2021-10-20 18:30:59",
@@ -1903,22 +1919,6 @@
       "duration_ms": 197142,
       "name": "Dragonfly",
       "url": "https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa"
-    },
-    {
-      "added_at": "2022-07-08 04:29:46",
-      "album": {
-        "name": "Music for Animals",
-        "url": "https://open.spotify.com/album/0w4P2GvCEY7rVxdU1rrnxJ"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 445980,
-      "name": "Right Right Right",
-      "url": "https://open.spotify.com/track/6RpNhl6giVNAhZY2526QgZ"
     },
     {
       "added_at": "2021-11-12 05:10:29",
@@ -2419,22 +2419,6 @@
     {
       "added_at": "2021-10-20 18:30:59",
       "album": {
-        "name": "Homescreen Glow",
-        "url": "https://open.spotify.com/album/7w6JZ6HjbBRDxAaCYOoeGr"
-      },
-      "artists": [
-        {
-          "name": "Brin",
-          "url": "https://open.spotify.com/artist/0V7s0eS6etON5MepcZeHgp"
-        }
-      ],
-      "duration_ms": 326829,
-      "name": "Soft Gaiden",
-      "url": "https://open.spotify.com/track/3I6IMWZJ9FkTcUCKBrzlkh"
-    },
-    {
-      "added_at": "2021-10-20 18:30:59",
-      "album": {
         "name": "Fi",
         "url": "https://open.spotify.com/album/6Je7ukOVu596v6B8UyGfF7"
       },
@@ -2447,6 +2431,22 @@
       "duration_ms": 95519,
       "name": "Cherry Blossom Road",
       "url": "https://open.spotify.com/track/3VWsX9nD57AyC8JJ89YR53"
+    },
+    {
+      "added_at": "2021-10-20 18:30:59",
+      "album": {
+        "name": "Homescreen Glow",
+        "url": "https://open.spotify.com/album/7w6JZ6HjbBRDxAaCYOoeGr"
+      },
+      "artists": [
+        {
+          "name": "Brin",
+          "url": "https://open.spotify.com/artist/0V7s0eS6etON5MepcZeHgp"
+        }
+      ],
+      "duration_ms": 326829,
+      "name": "Soft Gaiden",
+      "url": "https://open.spotify.com/track/3I6IMWZJ9FkTcUCKBrzlkh"
     },
     {
       "added_at": "2021-10-20 18:30:59",
@@ -2723,22 +2723,6 @@
     {
       "added_at": "2021-10-20 18:30:59",
       "album": {
-        "name": "Eyes of the Moon",
-        "url": "https://open.spotify.com/album/6K0O3JLhYlVuoWYhTPmSRs"
-      },
-      "artists": [
-        {
-          "name": "Seahawks",
-          "url": "https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ"
-        }
-      ],
-      "duration_ms": 504312,
-      "name": "Emergence",
-      "url": "https://open.spotify.com/track/6cuv6wZ1LzmRqDw4VEbl5O"
-    },
-    {
-      "added_at": "2021-10-20 18:30:59",
-      "album": {
         "name": "PHANTOM BRICKWORKS",
         "url": "https://open.spotify.com/album/7gfiKccZVCv9gp1KFfMDlb"
       },
@@ -2783,6 +2767,22 @@
       "duration_ms": 330000,
       "name": "Well",
       "url": "https://open.spotify.com/track/630GnYjh9pMw7iO9KrCQIG"
+    },
+    {
+      "added_at": "2021-10-20 18:30:59",
+      "album": {
+        "name": "Eyes of the Moon",
+        "url": "https://open.spotify.com/album/6K0O3JLhYlVuoWYhTPmSRs"
+      },
+      "artists": [
+        {
+          "name": "Seahawks",
+          "url": "https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ"
+        }
+      ],
+      "duration_ms": 504312,
+      "name": "Emergence",
+      "url": "https://open.spotify.com/track/6cuv6wZ1LzmRqDw4VEbl5O"
     },
     {
       "added_at": "2021-10-20 18:30:59",

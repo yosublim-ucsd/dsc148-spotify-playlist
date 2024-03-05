@@ -4,13 +4,14 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,684 songs - 3 day 2 hr 48 min
+1,686 songs - 3 day 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1.6.18](https://open.spotify.com/track/5VMKVWjfxPHFeLa3eWZFec) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [1.6.18](https://open.spotify.com/album/5BmneWRR8U5ATZzJhXgCB4) | 2:29 | 2022-02-09 | 2022-04-01 |
 | [17](https://open.spotify.com/track/3qXCSie16apmOW2VHeeY1K) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [17](https://open.spotify.com/album/0KiEbnMF9q9paa3bk0QKFD) | 2:18 | 2021-01-18 | 2021-02-17 |
 | [19](https://open.spotify.com/track/7yQgoIcqrBIPBvhYtAXVo6) | [Zoé de Vera](https://open.spotify.com/artist/0ojIbBfm8uH68CpwcwoxGJ) | [19](https://open.spotify.com/album/4w6Mm1sFYtB5sACyrQ3eDK) | 1:42 | 2019-07-25 | 2019-11-05 |
+| [190306\-11](https://open.spotify.com/track/79V5WPD3ZmojHUlRIhD2FG) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Soukou](https://open.spotify.com/album/0zvPt1awVD6wc4LfkVTTYb) | 2:35 | 2024-03-04 |  |
 | [A Bad Dream That Will Pass Away](https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Bad Dream That Will Pass Away](https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm) | 2:56 | 2022-03-02 | 2023-09-23 |
 | [A Beautiful Break](https://open.spotify.com/track/4xwUUKpKf52tIHZRyyUFKw) | [Astrid Sky](https://open.spotify.com/artist/1Kk2yuiHX31YmnpMTgrP4L), [Dennis Korn](https://open.spotify.com/artist/1YITDkdJkXrk05uBpnWw4P) | [A Beautiful Break](https://open.spotify.com/album/5s2pUbevUoy45nOUk5NXx8) | 2:08 | 2022-06-03 | 2023-09-23 |
 | [A bed of tulips](https://open.spotify.com/track/3y3krIeEKphe51xVjdHLXm) | [Luanna Averie](https://open.spotify.com/artist/0rDO43Kf4w2sLN4pezlscB) | [A bed of tulips](https://open.spotify.com/album/6ssyw1LvXTs859YSEXx4tc) | 2:40 | 2021-06-18 | 2023-01-10 |
@@ -329,6 +330,7 @@
 | [Dans](https://open.spotify.com/track/32M1PQzEcQ3QayteUcZDrD) | [Frode Gjermundsen](https://open.spotify.com/artist/2jlnldHu77IxBD89N5cepZ) | [Dans](https://open.spotify.com/album/5Sb7Qg4vPm2ximin3n4ypK) | 2:22 | 2022-01-04 | 2023-05-10 |
 | [Das Versprechen](https://open.spotify.com/track/1QCpwaFTWdn52B1MybBmGJ) | [Alma Klein](https://open.spotify.com/artist/13BmXB0asE1bzPqYfWSTin) | [Das Versprechen](https://open.spotify.com/album/0LgaZhljzonHcCWXVV8zF5) | 2:26 | 2021-09-24 | 2022-05-21 |
 | [Daybreak](https://open.spotify.com/track/0xOPyF2d1FC6xuBRj3JJxN) | [Francie Stooge](https://open.spotify.com/artist/6G3eQZZG4JQDjKRbO5bZz7) | [Daybreak](https://open.spotify.com/album/63G9tWahtvcvfMbJplDofw) | 2:10 | 2019-10-22 | 2021-10-20 |
+| [Daydreamer](https://open.spotify.com/track/5VWbXmisFDNGzh1kcXouTR) | [Noah Hart](https://open.spotify.com/artist/774mkzUMjSY8lZyRwVJqen) | [Daydreamer](https://open.spotify.com/album/4z9N0nfrR9TvL7ycpAxwqb) | 2:36 | 2024-03-04 |  |
 | [Days Gone By](https://open.spotify.com/track/4vDA036RKeQjigYZmANk3Y) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Days Gone By](https://open.spotify.com/album/0je0PVxNcqe1d9n6HRoTx5) | 3:08 | 2020-12-15 | 2022-06-04 |
 | [Days Like These](https://open.spotify.com/track/7pwDWr9QNRAv6N63MY2mRn) | [Renard Francis](https://open.spotify.com/artist/1TQQ7EEYrOne3L7iiCObNX) | [Days Like These](https://open.spotify.com/album/207M0Mwbs6wtPdPmayBTUw) | 4:09 | 2021-02-03 | 2021-04-22 |
 | [Days Passing By](https://open.spotify.com/track/6yFNVbbhoPzPmGCYZWlFcw) | [Noomi Meerbach](https://open.spotify.com/artist/2xKGduzNgzli3Ei0q1ofUh) | [Passages](https://open.spotify.com/album/5Aw677fwAtCUBpsLM7E0gB) | 2:39 | 2022-12-20 |  |
@@ -702,7 +704,7 @@
 | [Komorebi](https://open.spotify.com/track/7wFCIItq3bxHsgRZVFvU0k) | [Jitka Kubr](https://open.spotify.com/artist/2AnS9arngrjxzamktyEB8D) | [Komorebi](https://open.spotify.com/album/6TxsdiaMD2vNN6dJey6HqU) | 1:52 | 2019-06-13 | 2021-04-28 |
 | [Komorebi](https://open.spotify.com/track/4e8dECQ4wRfLn2nXfkOuqC) | [Kyūka](https://open.spotify.com/artist/2HcZQwoaSF9tSiQ3zvuqz7) | [Komorebi](https://open.spotify.com/album/3tKvJOGY06DHfqtbXHO2CS) | 2:06 | 2021-03-17 | 2022-08-09 |
 | [Koto](https://open.spotify.com/track/0LWWi4CHmFfPDV005TLzPP) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Koto](https://open.spotify.com/album/0z58hOr09oGPCmEj0fIIWv) | 2:48 | 2021-02-03 | 2022-05-27 |
-| [Koto \- piano room](https://open.spotify.com/track/48Jivh6jAj87eK6lj3FtUo) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [piano room](https://open.spotify.com/album/065gbiFR9Km7J1hQATfXtG) | 2:30 | 2022-12-05 |  |
+| [Koto \- piano room](https://open.spotify.com/track/48Jivh6jAj87eK6lj3FtUo) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [piano room](https://open.spotify.com/album/065gbiFR9Km7J1hQATfXtG) | 2:30 | 2022-12-05 | 2024-03-05 |
 | [Kozjak](https://open.spotify.com/track/1014xkh5XUlKdMMLbHUW2b) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Kozjak](https://open.spotify.com/album/5zDOPNNgTbZbk5jDEQHpjG) | 2:28 | 2019-06-13 | 2020-05-26 |
 | [Kveld](https://open.spotify.com/track/4qoa4ULtvmDz6JjGdiPqj0) | [Frode Gjermundsen](https://open.spotify.com/artist/2jlnldHu77IxBD89N5cepZ) | [Kveld](https://open.spotify.com/album/0n6oSeXcZOyfdmdnnfm0xl) | 2:00 | 2021-08-05 | 2022-07-07 |
 | [Kövess engem](https://open.spotify.com/track/3OvlHDjYRdlbuPaS0Krbml) | [Csizmazia Etel](https://open.spotify.com/artist/0fzi88EmWAkkGiMVuIIi1S) | [Kövess engem](https://open.spotify.com/album/48Dq1LikCVhATFQCUa0yxl) | 2:11 | 2020-04-21 | 2020-10-13 |

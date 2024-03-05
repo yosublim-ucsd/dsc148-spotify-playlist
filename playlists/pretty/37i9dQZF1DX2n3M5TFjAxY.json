@@ -1,12 +1,12 @@
 {
   "description": "Unforgettable songs from Iconic Arab women. Cover: Umm Kulthum.",
-  "num_followers": 23660,
+  "num_followers": 23724,
   "original_name": "Iconic Arab Women",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmQ3ZDIzNTNiMjc4ZDRiYzk5MzIyNDEwNDg4MWIwNjMxYmIxOTgy",
+  "snapshot_id": "MCw1MmUzMWJkNGY2ZTYzNTA2ODZmZWYwNTUyMTJlMGVkZjU4ODU4MTJh",
   "tracks": [
     {
       "added_at": "2022-12-18 22:40:11",
@@ -123,38 +123,6 @@
     {
       "added_at": "2022-12-18 22:40:11",
       "album": {
-        "name": "Ala Baly",
-        "url": "https://open.spotify.com/album/3poHhpjVKN7zrzpF5TkE55"
-      },
-      "artists": [
-        {
-          "name": "Aida el Ayoubi",
-          "url": "https://open.spotify.com/artist/1SWcCkT5tDP5cNIfl3S7Yt"
-        }
-      ],
-      "duration_ms": 314800,
-      "name": "Ala Baly",
-      "url": "https://open.spotify.com/track/4ITlOYD10CGbp5bf79OA0E"
-    },
-    {
-      "added_at": "2022-12-18 22:40:11",
-      "album": {
-        "name": "Bent El Hares",
-        "url": "https://open.spotify.com/album/0lf0V72GGI3YVA6d7jA9M5"
-      },
-      "artists": [
-        {
-          "name": "Fairuz",
-          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
-        }
-      ],
-      "duration_ms": 243278,
-      "name": "Nassam Alayna El Hawa",
-      "url": "https://open.spotify.com/track/7BXhyXma11NSNQlQDZOgiN"
-    },
-    {
-      "added_at": "2022-12-18 22:40:11",
-      "album": {
         "name": "Umm Kulthum 1",
         "url": "https://open.spotify.com/album/4fr12i7Bw7CC6fvGA6bnkn"
       },
@@ -187,34 +155,50 @@
     {
       "added_at": "2022-12-18 22:40:11",
       "album": {
-        "name": "Oyon El Alb",
-        "url": "https://open.spotify.com/album/3pnuPZ8nUMMLwHJSvNLrO0"
+        "name": "Bent El Hares",
+        "url": "https://open.spotify.com/album/0lf0V72GGI3YVA6d7jA9M5"
       },
       "artists": [
         {
-          "name": "Najat Al Saghira",
-          "url": "https://open.spotify.com/artist/00Kj91nF1l4o35fAtfDAjW"
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
         }
       ],
-      "duration_ms": 329104,
-      "name": "Ana Bashaa El Bahr",
-      "url": "https://open.spotify.com/track/55HS624LYOCR3QwOUxWbMJ"
+      "duration_ms": 243278,
+      "name": "Nassam Alayna El Hawa",
+      "url": "https://open.spotify.com/track/7BXhyXma11NSNQlQDZOgiN"
     },
     {
       "added_at": "2022-12-18 22:40:11",
       "album": {
-        "name": "Wehyaty Andak",
-        "url": "https://open.spotify.com/album/5I3L2UwUkFOdXIz3a8nRUP"
+        "name": "Ana Baashaak",
+        "url": "https://open.spotify.com/album/3TBiRcV5BVsFTaqot77WpG"
       },
       "artists": [
         {
-          "name": "Zekra",
-          "url": "https://open.spotify.com/artist/7nlEIiYTOqregHVLnu6cL3"
+          "name": "Mayada El Hennawy",
+          "url": "https://open.spotify.com/artist/4KEnL3MuGqQHnaIKdZ1pYz"
         }
       ],
-      "duration_ms": 427142,
-      "name": "Wehyaty Andak",
-      "url": "https://open.spotify.com/track/3kCYgb4QmZGVJld5ItMC2u"
+      "duration_ms": 2222355,
+      "name": "Ana Baashaak",
+      "url": "https://open.spotify.com/track/4meyL6OvN5WhJ9JNEsZSeN"
+    },
+    {
+      "added_at": "2022-12-18 22:40:11",
+      "album": {
+        "name": "Ala Baly",
+        "url": "https://open.spotify.com/album/3poHhpjVKN7zrzpF5TkE55"
+      },
+      "artists": [
+        {
+          "name": "Aida el Ayoubi",
+          "url": "https://open.spotify.com/artist/1SWcCkT5tDP5cNIfl3S7Yt"
+        }
+      ],
+      "duration_ms": 314800,
+      "name": "Ala Baly",
+      "url": "https://open.spotify.com/track/4ITlOYD10CGbp5bf79OA0E"
     },
     {
       "added_at": "2022-12-18 22:40:11",
@@ -251,18 +235,34 @@
     {
       "added_at": "2022-12-18 22:40:11",
       "album": {
-        "name": "Ana Baashaak",
-        "url": "https://open.spotify.com/album/3TBiRcV5BVsFTaqot77WpG"
+        "name": "Oyon El Alb",
+        "url": "https://open.spotify.com/album/3pnuPZ8nUMMLwHJSvNLrO0"
       },
       "artists": [
         {
-          "name": "Mayada El Hennawy",
-          "url": "https://open.spotify.com/artist/4KEnL3MuGqQHnaIKdZ1pYz"
+          "name": "Najat Al Saghira",
+          "url": "https://open.spotify.com/artist/00Kj91nF1l4o35fAtfDAjW"
         }
       ],
-      "duration_ms": 2222355,
-      "name": "Ana Baashaak",
-      "url": "https://open.spotify.com/track/4meyL6OvN5WhJ9JNEsZSeN"
+      "duration_ms": 329104,
+      "name": "Ana Bashaa El Bahr",
+      "url": "https://open.spotify.com/track/55HS624LYOCR3QwOUxWbMJ"
+    },
+    {
+      "added_at": "2022-12-18 22:40:11",
+      "album": {
+        "name": "Wehyaty Andak",
+        "url": "https://open.spotify.com/album/5I3L2UwUkFOdXIz3a8nRUP"
+      },
+      "artists": [
+        {
+          "name": "Zekra",
+          "url": "https://open.spotify.com/artist/7nlEIiYTOqregHVLnu6cL3"
+        }
+      ],
+      "duration_ms": 427142,
+      "name": "Wehyaty Andak",
+      "url": "https://open.spotify.com/track/3kCYgb4QmZGVJld5ItMC2u"
     },
     {
       "added_at": "2022-12-18 22:40:11",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-12-18 22:40:11",
       "album": {
-        "name": "Set El Habayib",
-        "url": "https://open.spotify.com/album/67n0MKFbk4rWkN62HOOYuP"
-      },
-      "artists": [
-        {
-          "name": "Fayza Ahmed",
-          "url": "https://open.spotify.com/artist/7zwF847GE2hY5ApGSOLmBG"
-        }
-      ],
-      "duration_ms": 383700,
-      "name": "Set El Habayib",
-      "url": "https://open.spotify.com/track/1O4lVF8Foazqwcrc0zFb4R"
-    },
-    {
-      "added_at": "2022-12-18 22:40:11",
-      "album": {
         "name": "Umm Kulthum 3",
         "url": "https://open.spotify.com/album/015VImtXnHnaJ06FjJcxfy"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 3577800,
       "name": "Fakarouny",
       "url": "https://open.spotify.com/track/4ejiWxKQCKiv184LTpA6ym"
+    },
+    {
+      "added_at": "2022-12-18 22:40:11",
+      "album": {
+        "name": "Set El Habayib",
+        "url": "https://open.spotify.com/album/67n0MKFbk4rWkN62HOOYuP"
+      },
+      "artists": [
+        {
+          "name": "Fayza Ahmed",
+          "url": "https://open.spotify.com/artist/7zwF847GE2hY5ApGSOLmBG"
+        }
+      ],
+      "duration_ms": 383700,
+      "name": "Set El Habayib",
+      "url": "https://open.spotify.com/track/1O4lVF8Foazqwcrc0zFb4R"
     },
     {
       "added_at": "2022-12-18 22:40:11",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-12-18 22:40:11",
       "album": {
-        "name": "Zekrayat",
-        "url": "https://open.spotify.com/album/0ObwONWzQGdaIpQnoPvnB5"
-      },
-      "artists": [
-        {
-          "name": "Fayza Ahmed",
-          "url": "https://open.spotify.com/artist/7zwF847GE2hY5ApGSOLmBG"
-        }
-      ],
-      "duration_ms": 612586,
-      "name": "Ana Alby Eleik Mayal",
-      "url": "https://open.spotify.com/track/3Dkp2faqV2c5rWPSNySMZ6"
-    },
-    {
-      "added_at": "2022-12-18 22:40:11",
-      "album": {
         "name": "Laila Mourad",
         "url": "https://open.spotify.com/album/4kFNwqFKfPw3FGqBNcpbfc"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 333374,
       "name": "Asmar",
       "url": "https://open.spotify.com/track/0w1UvLilct9BzMVNWH2kkm"
+    },
+    {
+      "added_at": "2022-12-18 22:40:11",
+      "album": {
+        "name": "Zekrayat",
+        "url": "https://open.spotify.com/album/0ObwONWzQGdaIpQnoPvnB5"
+      },
+      "artists": [
+        {
+          "name": "Fayza Ahmed",
+          "url": "https://open.spotify.com/artist/7zwF847GE2hY5ApGSOLmBG"
+        }
+      ],
+      "duration_ms": 612586,
+      "name": "Ana Alby Eleik Mayal",
+      "url": "https://open.spotify.com/track/3Dkp2faqV2c5rWPSNySMZ6"
     },
     {
       "added_at": "2022-12-18 22:40:11",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-12-18 22:40:11",
       "album": {
-        "name": "Agmal Aghany Layla Mourad",
-        "url": "https://open.spotify.com/album/3lRQi4vBYzvNtxoRJ5qXOw"
-      },
-      "artists": [
-        {
-          "name": "Layla Mourad",
-          "url": "https://open.spotify.com/artist/4XmfbuyoQBGIMMbDXdFZJZ"
-        }
-      ],
-      "duration_ms": 332291,
-      "name": "Ana Alby Dalely",
-      "url": "https://open.spotify.com/track/3bwlnMq8hwTgIRI7abv2At"
-    },
-    {
-      "added_at": "2022-12-18 22:40:11",
-      "album": {
         "name": "Best of Salwa El Katrib, Vol. 2",
         "url": "https://open.spotify.com/album/5nnYvn7XMn614uDt3IaaSR"
       },
@@ -571,18 +555,34 @@
     {
       "added_at": "2022-12-18 22:40:11",
       "album": {
-        "name": "Howa El Hop Leaba Menak We Elaek",
-        "url": "https://open.spotify.com/album/1hBWWcKz7Rvt74k5labK74"
+        "name": "Ally Taaly",
+        "url": "https://open.spotify.com/album/3yGicNvFuw4vga0sUjfEXN"
       },
       "artists": [
         {
-          "name": "Aziza Jalal",
-          "url": "https://open.spotify.com/artist/1u0bf0elRZYy9vqjCNYpet"
+          "name": "Afaf Rady",
+          "url": "https://open.spotify.com/artist/1mznZiCltI3qJI8JFLwKCy"
         }
       ],
-      "duration_ms": 2012801,
-      "name": "Howa El Hop Leaba",
-      "url": "https://open.spotify.com/track/300N8LY9pglw5UpeSi658b"
+      "duration_ms": 389839,
+      "name": "We Betesaal Ya Habebi",
+      "url": "https://open.spotify.com/track/3hndaYdDG9Sabywbyz3PPa"
+    },
+    {
+      "added_at": "2022-12-18 22:40:11",
+      "album": {
+        "name": "Agmal Aghany Layla Mourad",
+        "url": "https://open.spotify.com/album/3lRQi4vBYzvNtxoRJ5qXOw"
+      },
+      "artists": [
+        {
+          "name": "Layla Mourad",
+          "url": "https://open.spotify.com/artist/4XmfbuyoQBGIMMbDXdFZJZ"
+        }
+      ],
+      "duration_ms": 332291,
+      "name": "Ana Alby Dalely",
+      "url": "https://open.spotify.com/track/3bwlnMq8hwTgIRI7abv2At"
     },
     {
       "added_at": "2022-12-18 22:40:11",
@@ -603,18 +603,18 @@
     {
       "added_at": "2022-12-18 22:40:11",
       "album": {
-        "name": "Ally Taaly",
-        "url": "https://open.spotify.com/album/3yGicNvFuw4vga0sUjfEXN"
+        "name": "Howa El Hop Leaba Menak We Elaek",
+        "url": "https://open.spotify.com/album/1hBWWcKz7Rvt74k5labK74"
       },
       "artists": [
         {
-          "name": "Afaf Rady",
-          "url": "https://open.spotify.com/artist/1mznZiCltI3qJI8JFLwKCy"
+          "name": "Aziza Jalal",
+          "url": "https://open.spotify.com/artist/1u0bf0elRZYy9vqjCNYpet"
         }
       ],
-      "duration_ms": 389839,
-      "name": "We Betesaal Ya Habebi",
-      "url": "https://open.spotify.com/track/3hndaYdDG9Sabywbyz3PPa"
+      "duration_ms": 2012801,
+      "name": "Howa El Hop Leaba",
+      "url": "https://open.spotify.com/track/300N8LY9pglw5UpeSi658b"
     },
     {
       "added_at": "2022-12-18 22:40:11",
@@ -667,6 +667,22 @@
     {
       "added_at": "2022-12-18 22:40:11",
       "album": {
+        "name": "Rodo El Salam",
+        "url": "https://open.spotify.com/album/1GbYwlKnbclesWPam5sy64"
+      },
+      "artists": [
+        {
+          "name": "Afaf Rady",
+          "url": "https://open.spotify.com/artist/1mznZiCltI3qJI8JFLwKCy"
+        }
+      ],
+      "duration_ms": 420063,
+      "name": "Hawa Ya Hawa",
+      "url": "https://open.spotify.com/track/7JQkMHDQNxSmNXOFLkPQyV"
+    },
+    {
+      "added_at": "2022-12-18 22:40:11",
+      "album": {
         "name": "\u0648\u064a\u0646\u0643 \u062d\u0628\u064a\u0628\u064a",
         "url": "https://open.spotify.com/album/786AHcgC01V3I2dCly0X5h"
       },
@@ -695,38 +711,6 @@
       "duration_ms": 393440,
       "name": "\u0627\u0644\u0623\u0633\u0645\u0631\u0627\u0646\u064a\u0629",
       "url": "https://open.spotify.com/track/0vtQLNnIrctrX3z8OfQxDj"
-    },
-    {
-      "added_at": "2022-12-18 22:40:11",
-      "album": {
-        "name": "Rodo El Salam",
-        "url": "https://open.spotify.com/album/1GbYwlKnbclesWPam5sy64"
-      },
-      "artists": [
-        {
-          "name": "Afaf Rady",
-          "url": "https://open.spotify.com/artist/1mznZiCltI3qJI8JFLwKCy"
-        }
-      ],
-      "duration_ms": 420063,
-      "name": "Hawa Ya Hawa",
-      "url": "https://open.spotify.com/track/7JQkMHDQNxSmNXOFLkPQyV"
-    },
-    {
-      "added_at": "2022-12-18 22:40:11",
-      "album": {
-        "name": "\u0639\u0644\u0634\u0627\u0646\u0647",
-        "url": "https://open.spotify.com/album/5O4vtVmOkjrxifH3Mj1co4"
-      },
-      "artists": [
-        {
-          "name": "\u0639\u062a\u0627\u0628",
-          "url": "https://open.spotify.com/artist/24YfDhja995MaMsPMasEl0"
-        }
-      ],
-      "duration_ms": 375040,
-      "name": "\u0627\u0645\u062a\u0649 \u0623\u0646\u0627 \u0623\u0634\u0648\u0641\u0643",
-      "url": "https://open.spotify.com/track/2s4KXxuxyuRLdhYBshbTVT"
     },
     {
       "added_at": "2022-12-18 22:40:11",
@@ -791,6 +775,22 @@
       "duration_ms": 415306,
       "name": "\u0648\u064a\u0646\u0643 \u062d\u0628\u064a\u0628\u064a",
       "url": "https://open.spotify.com/track/4ZciFev2lN6kGPq3zdRVnW"
+    },
+    {
+      "added_at": "2022-12-18 22:40:11",
+      "album": {
+        "name": "\u0639\u0644\u0634\u0627\u0646\u0647",
+        "url": "https://open.spotify.com/album/5O4vtVmOkjrxifH3Mj1co4"
+      },
+      "artists": [
+        {
+          "name": "\u0639\u062a\u0627\u0628",
+          "url": "https://open.spotify.com/artist/24YfDhja995MaMsPMasEl0"
+        }
+      ],
+      "duration_ms": 375040,
+      "name": "\u0627\u0645\u062a\u0649 \u0623\u0646\u0627 \u0623\u0634\u0648\u0641\u0643",
+      "url": "https://open.spotify.com/track/2s4KXxuxyuRLdhYBshbTVT"
     },
     {
       "added_at": "2022-12-18 22:40:11",

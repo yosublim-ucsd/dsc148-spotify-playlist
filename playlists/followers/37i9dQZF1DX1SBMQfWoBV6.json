@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 29307,
+  "2024-03-05": 29371,
   "date_first_scraped": "2023-02-08",
   "description": "Light electronic movements for study, focus and flow. ",
   "name": "Attention Booster",
@@ -205,6 +205,24 @@
       "duration_ms": 249187,
       "name": "Caved Out",
       "url": "https://open.spotify.com/track/3lzBhoMOytPl2SJb76MKHS"
+    },
+    {
+      "album": {
+        "name": "Circular",
+        "url": "https://open.spotify.com/album/20TgQ8xgWoHQKl8xbWWxt9"
+      },
+      "artists": [
+        {
+          "name": "Silentro",
+          "url": "https://open.spotify.com/artist/1nYzeNQ4ub0ut3Zq4V88Yl"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Circular",
+      "url": "https://open.spotify.com/track/1t4i03W2XqBB1utNwzxJu4"
     },
     {
       "album": {

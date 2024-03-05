@@ -1500,7 +1500,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 250074,
       "name": "Ek Baar Mein",
       "url": "https://open.spotify.com/track/72MRwlO5aD6i3tCJAFh02X"
@@ -2130,7 +2130,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 183158,
       "name": "Jaane Kyu",
       "url": "https://open.spotify.com/track/7qySY2915krbeg4qMs5viD"
@@ -3212,6 +3212,24 @@
       "duration_ms": 81057,
       "name": "Kyon Alag Huye",
       "url": "https://open.spotify.com/track/4sN3JE7LNUd5fM99QedzXY"
+    },
+    {
+      "album": {
+        "name": "Kyun",
+        "url": "https://open.spotify.com/album/3a0iTDXtvhR4XIthE3FrNU"
+      },
+      "artists": [
+        {
+          "name": "Aseem Sharma",
+          "url": "https://open.spotify.com/artist/4qJ2gWYz4ObYS8uUe11RkW"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183696,
+      "name": "Kyun",
+      "url": "https://open.spotify.com/track/6OGmgBJoeo6ZkhoOsL09l2"
     },
     {
       "album": {
@@ -5206,6 +5224,28 @@
       "duration_ms": 147130,
       "name": "Tu Hi Bataa",
       "url": "https://open.spotify.com/track/4fYXlzFQbUQtztEKRhZVZB"
+    },
+    {
+      "album": {
+        "name": "Tu Hi Tu Unplugged Version",
+        "url": "https://open.spotify.com/album/4Du26jfERYaQOud3TvTKHg"
+      },
+      "artists": [
+        {
+          "name": "Abhay Jodhpurkar",
+          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
+        },
+        {
+          "name": "Anjana Ankur Singh",
+          "url": "https://open.spotify.com/artist/3XAfGV9ChPNFOLynwBI2WP"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186674,
+      "name": "Tu Hi Tu Unplugged Version",
+      "url": "https://open.spotify.com/track/2Wr3oKxthfi4U8MvAkaTty"
     },
     {
       "album": {

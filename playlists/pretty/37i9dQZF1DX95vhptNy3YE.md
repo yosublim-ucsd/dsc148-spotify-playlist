@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > LUDMILLA e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,052 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,091 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 7 | [Foto da Unha](https://open.spotify.com/track/6CQWmtVuHcGGdWLfcpOpbp) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Foto da Unha](https://open.spotify.com/album/2ch0bK9veGHOPlDQCYLAln) | 3:19 |
 | 8 | [Melhor Só](https://open.spotify.com/track/2LTlykcdu0gwb7zcKneo2a) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe) | [Melhor Só](https://open.spotify.com/album/17QQ2RosBKKrV5bHh4Z8tJ) | 3:49 |
 | 9 | [Me Olha Nos Olhos / Futuro Prometido / Não Tem Perdão \- Ao Vivo](https://open.spotify.com/track/3GZJc4YW0uIL9OA5kevKKu) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Me Olha Nos Olhos / Futuro Prometido / Não Tem Perdão \(Ao Vivo\)](https://open.spotify.com/album/1tKje5JGchKFpu6xPdfgwR) | 6:41 |
-| 10 | [A Preta Venceu \- Ao Vivo](https://open.spotify.com/track/6U3kssAL4oPYbkYFbkFDJp) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 2:43 |
-| 11 | [Desfile na Favela](https://open.spotify.com/track/4ODMkKdMusKLAMWolKAchh) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [O Cenário Certo para o Teatro Perfeito](https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D) | 2:40 |
+| 10 | [Desfile na Favela](https://open.spotify.com/track/4ODMkKdMusKLAMWolKAchh) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [O Cenário Certo para o Teatro Perfeito](https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D) | 2:40 |
+| 11 | [A Preta Venceu \- Ao Vivo](https://open.spotify.com/track/6U3kssAL4oPYbkYFbkFDJp) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 2:43 |
 | 12 | [Lancinho \- Ao Vivo](https://open.spotify.com/track/6CeeLpwJUYA4b0xL7eSvzn) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [O Som das Multidões \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/4d329KQXDPuJgo2828KdKA) | 3:47 |
 | 13 | [Amor de Fim de Noite / Morena da Cor do Pecado \- Ao Vivo](https://open.spotify.com/track/4WBuYFw26LcnSuScYQiVNH) | [Caju Pra Baixo](https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp) | [Open Bar do Caju, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/3EbL5V33iZPrrTsoFpPVjZ) | 4:41 |
 | 14 | [Erro Gostoso / Mal Acostumado / A Gente Se Entrega](https://open.spotify.com/track/2CU2o0jyWO8xq0TiJPXZ6y) | [Grupo Presença](https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9) | [De Férias Com Presença, Vol\. 1](https://open.spotify.com/album/4as0CzqdSkS5f6iuFEldZ4) | 5:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 49 | [O Que Que Tá Acontecendo](https://open.spotify.com/track/1JSwsmwxrunlHzo7pjeWMY) | [Mc Arizinho](https://open.spotify.com/artist/61pcuATJNEvZCXhO2DqC1F), [DJ TAK VADIÃO](https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu), [Doug Hits](https://open.spotify.com/artist/11rNmgKeDd6wHHvvhzPHH9) | [O Que Que Tá Acontecendo](https://open.spotify.com/album/5smjl2yakSMt8DWxXVrDwG) | 2:38 |
 | 50 | [Dorme Com Deus \- Ao Vivo](https://open.spotify.com/track/29x19EWLWMB1sn8WD5iynZ) | [Tá Na Mente](https://open.spotify.com/artist/1x7Y5zQOvhROVPgy73689r), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Dorme Com Deus \(Ao Vivo\)](https://open.spotify.com/album/4rSEw4EQsTnuF92r9NWbDF) | 3:35 |
 
-Snapshot ID: `MCxlNjI0ZWNkYTkyMTAyYTFhOWJiNjU2OWM2ZTA5YTZmNGY2MWI4M2Nh`
+Snapshot ID: `MCw1M2RmMTlhMGJlYmE3ZDk5MWIyYTk2OGM3YTAyODJmZTYwNzRkZTFh`

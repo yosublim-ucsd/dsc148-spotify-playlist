@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 
 > Songs you love with an indie spin on it\. Cover: Arlo Parks
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,971 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,008 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,10 +85,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 75 | [Let's Dance to Joy Division](https://open.spotify.com/track/3FChIBncGO2pCxv9QIFIcI) | [Lemony Rug](https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY) | [Let's Dance to Joy Division](https://open.spotify.com/album/72w9n6hWEOWE5QrMqrmJv8) | 3:23 |
 | 76 | [Strange Overtones](https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Candid](https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2) | 3:26 |
 | 77 | [When You're Smiling \- From "A Small Light: Episode 5"](https://open.spotify.com/track/3LpVQJgtAxYpp3c5dJkOt6) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [When You're Smiling \(From "A Small Light: Episode 5"\)](https://open.spotify.com/album/56lqgFLhUqig0etW9hU3eq) | 2:29 |
-| 78 | [Yellow](https://open.spotify.com/track/34Jfxprxev4z3iF3R0wG0b) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB), [Pop Goes Ambient](https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP), [Amelia Magdalena](https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu) | [Yellow](https://open.spotify.com/album/3pC14s49yUVj2VJskAshde) | 4:22 |
-| 79 | [Pumped Up Kicks \- Gus Dapperton Version](https://open.spotify.com/track/5bLaUOpi4YlCY8F3txSKxN) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Pumped Up Kicks \(Gus Dapperton Version\)](https://open.spotify.com/album/3N6JDO9GBMR7sZHpgxY1OS) | 3:52 |
-| 80 | [Our House](https://open.spotify.com/track/08sn2aLyHIGwUalxqkPmaO) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Our House](https://open.spotify.com/album/7yuswreCCTccvqWFuP974U) | 3:02 |
-| 81 | [Cooking](https://open.spotify.com/track/6QS1OLPLLjKiZsdIs9GUdi) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Cooking](https://open.spotify.com/album/1a48ZfwsNdTMdy3NNrdeh7) | 2:51 |
+| 78 | [Pumped Up Kicks \- Gus Dapperton Version](https://open.spotify.com/track/5bLaUOpi4YlCY8F3txSKxN) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Pumped Up Kicks \(Gus Dapperton Version\)](https://open.spotify.com/album/3N6JDO9GBMR7sZHpgxY1OS) | 3:52 |
+| 79 | [Our House](https://open.spotify.com/track/08sn2aLyHIGwUalxqkPmaO) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Our House](https://open.spotify.com/album/7yuswreCCTccvqWFuP974U) | 3:02 |
+| 80 | [Cooking](https://open.spotify.com/track/6QS1OLPLLjKiZsdIs9GUdi) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Cooking](https://open.spotify.com/album/1a48ZfwsNdTMdy3NNrdeh7) | 2:51 |
+| 81 | [Yellow](https://open.spotify.com/track/34Jfxprxev4z3iF3R0wG0b) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB), [Pop Goes Ambient](https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP), [Amelia Magdalena](https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu) | [Yellow](https://open.spotify.com/album/3pC14s49yUVj2VJskAshde) | 4:22 |
 | 82 | [Industry Baby](https://open.spotify.com/track/0ypcpkYOckOLxySl4m69gM) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Industry Baby](https://open.spotify.com/album/5T8h52l8nVMqPSGq52Q8kq) | 3:51 |
 | 83 | [Charm You \- Blondshell Version](https://open.spotify.com/track/1BZdaILVXGhuJbvlMFzBBD) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij), [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Charm You \(Blondshell Version\)](https://open.spotify.com/album/20Towcj9sBpT5CfdizVUR7) | 2:58 |
 | 84 | [Under The Milky Way](https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Under The Milky Way](https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS) | 4:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 99 | [On the Road Again](https://open.spotify.com/track/4QCzw4JAIj6Ythv6GxiI7G) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [On the Road Again](https://open.spotify.com/album/4AcWg6gNuQV2Ulh0yS0Nqt) | 2:25 |
 | 100 | [Crash into Me](https://open.spotify.com/track/0rzjZgdcj0F18uusGIekCa) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Other Stuff](https://open.spotify.com/album/31gUo1VnM0u0GyHMOALfNQ) | 2:52 |
 
-Snapshot ID: `MCw1N2E5NDk1OTkyMTg5N2M5ZTNlYzBlZjVjNmNkMzdiZGFjMDhmOTQx`
+Snapshot ID: `MCw2ZjJlMDk0MjMwMjI4YzhhY2YyZjFmMTYwZDQ1NDAyMTc2ZmFjODgz`

@@ -4,7 +4,7 @@
 
 > New music breaking waves\. Cover: <a href="spotify:artist:5fi7lIgJGH3RgUpJYcffQ7">4batz</a>
 
-739 songs - 1 day 11 hr 9 min
+740 songs - 1 day 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Celebration](https://open.spotify.com/track/5Ykl2AuQKjLjBg2KwJR0v9) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Miss Me Yet?](https://open.spotify.com/album/2PTlYF3EfRdjlpGjFOKXdc) | 2:15 | 2024-02-16 |  |
 | [Cemetery Freestyle](https://open.spotify.com/track/4bDgMYC4RfOrc3n1oVLXfX) | [JoeVille](https://open.spotify.com/artist/6Rf6w9LrInrRvLTh0sEzVW) | [Cemetery Freestyle](https://open.spotify.com/album/79j5iEvu1BVgQZlGuiQGKy) | 2:39 | 2022-03-04 | 2022-06-25 |
 | [chain](https://open.spotify.com/track/73m5RI0Mx2SNo5P6fu148x) | [Aziya](https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW) | [chain](https://open.spotify.com/album/1pD3mUqv8jSN4Jv08dMKmJ) | 2:48 | 2023-07-14 | 2023-09-30 |
-| [Change My Wayz](https://open.spotify.com/track/0x8vQaiUn7BZ37Wpxd4Mms) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Change My Wayz](https://open.spotify.com/album/0TwgVRH8pQ5tN2j7b8M0eB) | 1:55 | 2023-11-29 |  |
+| [Change My Wayz](https://open.spotify.com/track/0x8vQaiUn7BZ37Wpxd4Mms) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Change My Wayz](https://open.spotify.com/album/0TwgVRH8pQ5tN2j7b8M0eB) | 1:55 | 2023-11-29 | 2024-03-05 |
 | [Changes](https://open.spotify.com/track/7lLp5dtiWkM8d0oVfnD2WS) | [EXUM](https://open.spotify.com/artist/5KJX1Zh0zfHcbwSCk5cPk0) | [Changes](https://open.spotify.com/album/5MCauxko02CqzLRjptNIuX) | 3:55 | 2023-09-15 | 2024-01-20 |
 | [CHANTE'S GROOVE](https://open.spotify.com/track/2qMKGSiQvgJAT7J94kloTB) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt), [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [CHANTE'S GROOVE](https://open.spotify.com/album/1TV2Jx7E5y7Yg9jul0CP3X) | 3:15 | 2024-01-12 | 2024-02-17 |
 | [Chardonnay](https://open.spotify.com/track/1ukGTynnAZik3zzdEbU3tY) | [Nova](https://open.spotify.com/artist/1OXLdL4Qs8rh3LzoqjaUUb), [Esquire](https://open.spotify.com/artist/41zs0yeWeQNNwSMp8yAKY7) | [Chardonnay](https://open.spotify.com/album/0KxMCnYlNr9YkKdP0JFctu) | 3:12 | 2021-09-24 | 2022-03-05 |
@@ -271,6 +271,7 @@
 | [GD Woman](https://open.spotify.com/track/3vVRD5GnlAU5hm4WH9TSpl) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [GD Woman](https://open.spotify.com/album/03NWc0BPkbCS498UStrDdf) | 2:58 | 2023-07-21 | 2023-10-21 |
 | [Get Back](https://open.spotify.com/track/3lJ0OmRN1dQE4JXucRHDpA) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Who Is Fatt](https://open.spotify.com/album/5ycaQESXqBPAqIvk57xYA7) | 2:35 | 2023-12-15 | 2024-01-13 |
 | [Get In With Me](https://open.spotify.com/track/4iEoDBAgMJIzest7VsDgmT) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Get In With Me](https://open.spotify.com/album/5OOVp8NFXAklfbzh5BcLzx) | 2:00 | 2024-02-02 |  |
+| [Get Jiggy](https://open.spotify.com/track/3ShDW3FYg06Cc5BJV94sEj) | [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L), [Lil Slixk](https://open.spotify.com/artist/30r98xL28PIfjUG4JwyWaM), [Lil Reaper](https://open.spotify.com/artist/0pXg9udRX8G5ra0m4xllGv) | [Get Jiggy](https://open.spotify.com/album/5Wu2Yq8gvAUn7wozWctQxN) | 2:24 | 2024-03-04 |  |
 | [Get Lucki](https://open.spotify.com/track/2Lesv91L9paVZjIPpu0jx6) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger \(Deluxe Edition\)](https://open.spotify.com/album/1VzWsyBJ8FdJwoMlpm7tDn) | 2:59 | 2023-11-09 |  |
 | [Get The Gat](https://open.spotify.com/track/1CF9GDLrtXbmGxJiXRiZqn) | [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr) | [Get The Gat](https://open.spotify.com/album/48THGiijGql0YItnekn1C8) | 2:12 | 2022-12-16 | 2023-04-16 |
 | [Ghetto Praise](https://open.spotify.com/track/1kAQDi1RFgIZ1ZvQMJ2bR6) | [Jay 305](https://open.spotify.com/artist/2l2o6ibYa7h1w4HwaS1uZV), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Ghetto Praise](https://open.spotify.com/album/5kMV844MGwO03ZBF4iAOyc) | 3:13 | 2022-05-06 | 2022-08-13 |

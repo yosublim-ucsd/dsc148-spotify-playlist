@@ -1,12 +1,12 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Melody's Echo Chamber on cover.",
-  "num_followers": 511450,
+  "num_followers": 511547,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YThhNTM3YjAwNDNkZDQzZDg2ZDE1YmY1ZDM5ZGY3Mjk5NGE4Y2Zm",
+  "snapshot_id": "MCxiNzI2MTYxMmY5NzM3YzQ2N2RhMzkzZTM1NDhiOGFjNzBjOWUyOTc1",
   "tracks": [
     {
       "added_at": "2023-11-24 01:15:27",
@@ -107,18 +107,18 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Good Bad Not Evil",
-        "url": "https://open.spotify.com/album/7G1IjybnBzcJvYntqY8q7A"
+        "name": "Lonerism",
+        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
       },
       "artists": [
         {
-          "name": "Black Lips",
-          "url": "https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 148306,
-      "name": "Veni Vidi Vici",
-      "url": "https://open.spotify.com/track/5BQ7Txrx41vbbUvQBuKNuP"
+      "duration_ms": 192960,
+      "name": "Feels Like We Only Go Backwards",
+      "url": "https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW"
     },
     {
       "added_at": "2024-01-30 05:13:54",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Lonerism",
-        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
+        "name": "Good Bad Not Evil",
+        "url": "https://open.spotify.com/album/7G1IjybnBzcJvYntqY8q7A"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Black Lips",
+          "url": "https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG"
         }
       ],
-      "duration_ms": 192960,
-      "name": "Feels Like We Only Go Backwards",
-      "url": "https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW"
+      "duration_ms": 148306,
+      "name": "Veni Vidi Vici",
+      "url": "https://open.spotify.com/track/5BQ7Txrx41vbbUvQBuKNuP"
     },
     {
       "added_at": "2024-01-03 18:35:56",
@@ -203,18 +203,18 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Desert Island",
-        "url": "https://open.spotify.com/album/7AZL0M9Hn8gwLw6RyUgxEB"
+        "name": "Butterfly 3000",
+        "url": "https://open.spotify.com/album/2I0LPpmyvAwnXvCuBf3Pcy"
       },
       "artists": [
         {
-          "name": "Mystic Braves",
-          "url": "https://open.spotify.com/artist/2EfFOe92ZZHE2lpappD8js"
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
         }
       ],
-      "duration_ms": 252160,
-      "name": "Bright Blue Day Haze",
-      "url": "https://open.spotify.com/track/1RNybormZ5O0s3DCIRQWq4"
+      "duration_ms": 315133,
+      "name": "Interior People",
+      "url": "https://open.spotify.com/track/3tj1cKu9SOnchX6twBKn30"
     },
     {
       "added_at": "2024-02-02 04:34:02",
@@ -235,18 +235,34 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Butterfly 3000",
-        "url": "https://open.spotify.com/album/2I0LPpmyvAwnXvCuBf3Pcy"
+        "name": "Lonerism",
+        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
       },
       "artists": [
         {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 315133,
-      "name": "Interior People",
-      "url": "https://open.spotify.com/track/3tj1cKu9SOnchX6twBKn30"
+      "duration_ms": 211226,
+      "name": "Elephant",
+      "url": "https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Desert Island",
+        "url": "https://open.spotify.com/album/7AZL0M9Hn8gwLw6RyUgxEB"
+      },
+      "artists": [
+        {
+          "name": "Mystic Braves",
+          "url": "https://open.spotify.com/artist/2EfFOe92ZZHE2lpappD8js"
+        }
+      ],
+      "duration_ms": 252160,
+      "name": "Bright Blue Day Haze",
+      "url": "https://open.spotify.com/track/1RNybormZ5O0s3DCIRQWq4"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -263,22 +279,6 @@
       "duration_ms": 196053,
       "name": "Roky Said",
       "url": "https://open.spotify.com/track/2VDxMrYLnQy8NdsKCzbdnO"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
-        "name": "Lonerism",
-        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 211226,
-      "name": "Elephant",
-      "url": "https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -331,6 +331,22 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
+        "name": "Lonerism",
+        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 271880,
+      "name": "Mind Mischief",
+      "url": "https://open.spotify.com/track/6ewQE1dNPv9qqlnB1CxrvM"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
         "name": "L.W.",
         "url": "https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 244346,
       "name": "At Night in Dreams",
       "url": "https://open.spotify.com/track/163jsgXXOKqhuQdT6pRPc5"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
-        "name": "Lonerism",
-        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 271880,
-      "name": "Mind Mischief",
-      "url": "https://open.spotify.com/track/6ewQE1dNPv9qqlnB1CxrvM"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -459,6 +459,38 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
+        "name": "Ice, Death, Planets, Lungs, Mushrooms And Lava",
+        "url": "https://open.spotify.com/album/2nPbslvl01lfELsFHTKp0s"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 615939,
+      "name": "Ice V",
+      "url": "https://open.spotify.com/track/36XAknfUMQYgAPfIJkTed0"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/65siSh34OjZPMx0obk0YRj"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 292267,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
         "name": "Moonlust",
         "url": "https://open.spotify.com/album/5dsTu76YBUMKIvgjrswqpF"
       },
@@ -507,38 +539,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Ice, Death, Planets, Lungs, Mushrooms And Lava",
-        "url": "https://open.spotify.com/album/2nPbslvl01lfELsFHTKp0s"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 615939,
-      "name": "Ice V",
-      "url": "https://open.spotify.com/track/36XAknfUMQYgAPfIJkTed0"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/65siSh34OjZPMx0obk0YRj"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 292267,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "We Were We Still Are",
         "url": "https://open.spotify.com/album/01DzJZ1Ir8CkDfVDZdxsW9"
       },
@@ -555,6 +555,22 @@
       "duration_ms": 177920,
       "name": "We Were We Still Are",
       "url": "https://open.spotify.com/track/1t7KPfFCA5fVTV1FR9kSuJ"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Planet Caravan",
+        "url": "https://open.spotify.com/album/34ybO2ipCxno1JatWdXnsS"
+      },
+      "artists": [
+        {
+          "name": "Moon Duo",
+          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
+        }
+      ],
+      "duration_ms": 551138,
+      "name": "Planet Caravan",
+      "url": "https://open.spotify.com/track/5QBzorRtkUglhnTQBzNJMU"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -603,22 +619,6 @@
       "duration_ms": 273854,
       "name": "Honey",
       "url": "https://open.spotify.com/track/0nObOnIxnz6PlPf04tZh1g"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
-        "name": "Planet Caravan",
-        "url": "https://open.spotify.com/album/34ybO2ipCxno1JatWdXnsS"
-      },
-      "artists": [
-        {
-          "name": "Moon Duo",
-          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
-        }
-      ],
-      "duration_ms": 551138,
-      "name": "Planet Caravan",
-      "url": "https://open.spotify.com/track/5QBzorRtkUglhnTQBzNJMU"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Death Hawks",
-        "url": "https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv"
-      },
-      "artists": [
-        {
-          "name": "Death Hawks",
-          "url": "https://open.spotify.com/artist/0x2ktQVEo3hmwjR1UMgpb1"
-        }
-      ],
-      "duration_ms": 546640,
-      "name": "Black Acid",
-      "url": "https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "A New Day Dawning",
         "url": "https://open.spotify.com/album/3efSeqmN9bPRMnGWbyYySh"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 540684,
       "name": "Rasayana",
       "url": "https://open.spotify.com/track/2WTKsltOhi7DtLPPvfSC8J"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Death Hawks",
+        "url": "https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv"
+      },
+      "artists": [
+        {
+          "name": "Death Hawks",
+          "url": "https://open.spotify.com/artist/0x2ktQVEo3hmwjR1UMgpb1"
+        }
+      ],
+      "duration_ms": 546640,
+      "name": "Black Acid",
+      "url": "https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE"
     },
     {
       "added_at": "2023-11-24 01:15:27",

@@ -4456,7 +4456,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 144648,
       "name": "Deep In Your Love",
       "url": "https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB"
@@ -19292,6 +19292,28 @@
       "duration_ms": 188294,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/4KFFv2gYbZyltjKZ5hthIs"
+    },
+    {
+      "album": {
+        "name": "Take Off",
+        "url": "https://open.spotify.com/album/350F8g1oIRWzdUs8gMfmsc"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237401,
+      "name": "Take Off",
+      "url": "https://open.spotify.com/track/1Qew5n9FSPxpiqu0Og4R3J"
     },
     {
       "album": {

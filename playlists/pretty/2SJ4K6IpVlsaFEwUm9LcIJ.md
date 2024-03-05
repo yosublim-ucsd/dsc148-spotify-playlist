@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: jan\-feb 2024 \(previous playlists archived on my profile\) \(image credit: @afffirmations on IG\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 18,261 likes - 64 songs - 3 hr 20 min
+[margeaux](https://open.spotify.com/user/1220511975) - 18,321 likes - 63 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,6 +71,5 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 61 | [Casa Del Queso](https://open.spotify.com/track/2PT6tdovqv5DRfbRrwsblr) | [Aventuras De Kirlian](https://open.spotify.com/artist/7hA1LNd4lisPMV7RLmxvg7) | [86\-88](https://open.spotify.com/album/69aOUaKV2diPvH7PWI8xPZ) | 1:28 |
 | 62 | [Goodnight Tonight](https://open.spotify.com/track/5AD7iwvIzbiABVsMndAmez) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Wingspan](https://open.spotify.com/album/0gOV46yCRVgdehR1SnFtuy) | 4:20 |
 | 63 | [Napule Canta E More](https://open.spotify.com/track/3qNtGvCC1tgeZFK9ClBz4k) | [Donatella Viggiano](https://open.spotify.com/artist/4FFwzgDJc7AaKVPYxQzwjk) | [Napoli Segreta](https://open.spotify.com/album/7wG7cketLF1ZzMAPWa2fcl) | 2:54 |
-| 64 | [Post\-War Glamour Girls](https://open.spotify.com/track/3ocWpEl44dJAIMuDCMqC4E) | [John Cooper Clarke](https://open.spotify.com/artist/0EOkMBYWbDnVqwfHA4zq32) | [The Very Best Of](https://open.spotify.com/album/0GbJSduK8qUuLpG91duF0C) | 3:31 |
 
-Snapshot ID: `MjU3Myw2MGU4ZjdjY2FhNGVmNzEzZDQzMGI1M2Q1M2E0NjE0MjE0NGQzNWQ4`
+Snapshot ID: `MjU3NCxkOWQwMzBhMjVhYzg1OGJlYmExMGVjZWRlMjhkMDdlNWRiNDFmYjc2`

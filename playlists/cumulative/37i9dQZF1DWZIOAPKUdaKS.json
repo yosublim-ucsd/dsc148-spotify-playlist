@@ -779,6 +779,24 @@
     },
     {
       "album": {
+        "name": "Angel Wings",
+        "url": "https://open.spotify.com/album/65XjpkXA9NZbuhOaEOqGnT"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Nestico",
+          "url": "https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178571,
+      "name": "Angel Wings",
+      "url": "https://open.spotify.com/track/2XZC2qNKbAKHLpvJH0BEZs"
+    },
+    {
+      "album": {
         "name": "Anyone Who Has a Heart",
         "url": "https://open.spotify.com/album/4KCGwoguck5YjGbbt2LbX8"
       },
@@ -1532,7 +1550,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 134624,
       "name": "Bubbles",
       "url": "https://open.spotify.com/track/2IdLxL6CPq1bUiMRIenO9J"
@@ -2616,7 +2634,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 163200,
       "name": "Divulge",
       "url": "https://open.spotify.com/track/7DPXSjwzi7XmXSsX6Y6j3u"
@@ -3174,7 +3192,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 128250,
       "name": "Eros",
       "url": "https://open.spotify.com/track/6S7DVL5a6gVfHCT93P2STO"
@@ -4068,7 +4086,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 171084,
       "name": "Fr\u00fchlingsbach",
       "url": "https://open.spotify.com/track/5q3d5I3rMvfKAuyDvmBwwe"
@@ -4306,7 +4324,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 182250,
       "name": "Halcyon",
       "url": "https://open.spotify.com/track/2PEiFFvNyMykLb2wxnvBfv"
@@ -5012,7 +5030,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 167684,
       "name": "Impact",
       "url": "https://open.spotify.com/track/5TWGzcdRlJzdY93R7ydCYv"
@@ -5268,6 +5286,24 @@
       "duration_ms": 150705,
       "name": "Infinity clouds",
       "url": "https://open.spotify.com/track/3nWR11uRHUQ2aa6XqtPAfx"
+    },
+    {
+      "album": {
+        "name": "Inmaterial color",
+        "url": "https://open.spotify.com/album/5DbXD2SAeJO9CvLQon50dU"
+      },
+      "artists": [
+        {
+          "name": "Mima Renard",
+          "url": "https://open.spotify.com/artist/5hVW03Fp1Lfjuz9VaMmrF4"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165215,
+      "name": "Inmaterial color",
+      "url": "https://open.spotify.com/track/5GZC3EzAtuVtmELebaB5DC"
     },
     {
       "album": {
@@ -5552,7 +5588,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 201159,
       "name": "Kastepiisk",
       "url": "https://open.spotify.com/track/22fK1BNvptS8jrDqgMQ7Em"
@@ -6423,6 +6459,24 @@
     },
     {
       "album": {
+        "name": "Lleno De Ti",
+        "url": "https://open.spotify.com/album/2vLdVOc4bROhHeAdxjWjto"
+      },
+      "artists": [
+        {
+          "name": "Leddei",
+          "url": "https://open.spotify.com/artist/52c7HK8GD8wokmwHeNXGhs"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161355,
+      "name": "Lleno De Ti",
+      "url": "https://open.spotify.com/track/5uGX3dCbfTWl6hvOkTqP8l"
+    },
+    {
+      "album": {
         "name": "Lo Siento",
         "url": "https://open.spotify.com/album/4dTNDpTsYII6p7fkO8zWqc"
       },
@@ -7154,7 +7208,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 144846,
       "name": "Mondegreen",
       "url": "https://open.spotify.com/track/6BKGokQ3PKLFqBlCBjCy8J"
@@ -7662,7 +7716,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 172500,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/391l8re8aew1rvyNOXUYDD"
@@ -8022,7 +8076,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 163488,
       "name": "Onyx",
       "url": "https://open.spotify.com/track/75Y41KT0PeczPom4iZFs87"
@@ -8188,6 +8242,24 @@
       "duration_ms": 126499,
       "name": "Overcoming",
       "url": "https://open.spotify.com/track/7xUlSPFsbp0NbH297CenJy"
+    },
+    {
+      "album": {
+        "name": "Pac\u00edfico",
+        "url": "https://open.spotify.com/album/6iFHWlxXAT6HQ8QS5prOCD"
+      },
+      "artists": [
+        {
+          "name": "Hues of Ruby",
+          "url": "https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153255,
+      "name": "Pac\u00edfico",
+      "url": "https://open.spotify.com/track/48NKvaN1zc5pCUaqGLc82G"
     },
     {
       "album": {
@@ -9271,6 +9343,24 @@
     },
     {
       "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/6UI7QQxBRpKU8lstoM4ncP"
+      },
+      "artists": [
+        {
+          "name": "Yuko Kimura",
+          "url": "https://open.spotify.com/artist/4sVQyVPaGQ1MzslDmkf8nn"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150500,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/58iu44DB0JdKTGXYfbIYMA"
+    },
+    {
+      "album": {
         "name": "Malerei",
         "url": "https://open.spotify.com/album/6sxgRR1cYtmCXQSuDGU8ST"
       },
@@ -9678,7 +9768,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 161712,
       "name": "Santos - Lisbon",
       "url": "https://open.spotify.com/track/0G8O0bm8jxkIoz3WPzTElm"
@@ -10978,7 +11068,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 129901,
       "name": "Tendrement",
       "url": "https://open.spotify.com/track/4WFF3LgLuK0qGqY1YUdzD6"
@@ -12278,7 +12368,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 198994,
       "name": "Vaguely Reminiscent",
       "url": "https://open.spotify.com/track/6iK4gKiROE3gw0jfHxgBjU"

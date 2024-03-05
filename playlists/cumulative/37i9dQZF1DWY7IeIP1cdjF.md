@@ -4,7 +4,7 @@
 
 > Reggaeton hits from Maria Becerra, Ivy Queen, Anitta, KAROL G and more.🔥🥵
 
-408 songs - 22 hr 47 min
+409 songs - 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [GANGSTERS Y PISTOLAS](https://open.spotify.com/track/6pdo6bxRLh7ELtuchVgyjx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 2:50 | 2023-09-29 | 2023-10-07 |
 | [Gasolina](https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 3:12 | 2023-04-28 | 2023-06-24 |
 | [Gata \(feat\. Chencho Corleone\)](https://open.spotify.com/track/3SWjpNMVUi5UXz096NbfPr) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:26 | 2022-04-14 | 2022-05-20 |
+| [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-03-04 |  |
 | [Gatita](https://open.spotify.com/track/25Jf61edvM78rQHYaWRiIL) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/1UsI3wV7vgPllijr4hfpgT) | 2:32 | 2022-12-02 | 2022-12-24 |
 | [Gatita](https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs) | 2:33 | 2022-12-23 | 2023-02-04 |
 | [GATITA GANGSTER](https://open.spotify.com/track/5bD6mFl116xCxVMLy7IK9F) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:50 | 2023-08-11 |  |
@@ -276,7 +277,7 @@
 | [Otra Vibra](https://open.spotify.com/track/7aprD0hcQ0dr3efnJCrJI5) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Otra Vibra](https://open.spotify.com/album/0Dcd0VT52oXwUldW3jEaoS) | 3:27 | 2023-08-04 | 2023-09-23 |
 | [Otro](https://open.spotify.com/track/2VZmXemWIKoKxJjbA2WHJE) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Otro](https://open.spotify.com/album/0eGqUAZJxkm2QJkZx9iXpp) | 3:28 | 2022-02-04 | 2022-03-25 |
 | [Otro Show](https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2) | [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [Otro Show](https://open.spotify.com/album/5KXm7Y71y5UX1KxDLnloGU) | 2:40 | 2023-10-20 | 2023-12-16 |
-| [Pa la Proxima](https://open.spotify.com/track/0K8yPA5eo1d6t1LwJpRL2J) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Pa la Proxima](https://open.spotify.com/album/4imR6C43N2Syv918WyVA9N) | 3:49 | 2023-12-15 |  |
+| [Pa la Proxima](https://open.spotify.com/track/0K8yPA5eo1d6t1LwJpRL2J) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Pa la Proxima](https://open.spotify.com/album/4imR6C43N2Syv918WyVA9N) | 3:49 | 2023-12-15 | 2024-03-05 |
 | [Pa Ti Estoy](https://open.spotify.com/track/3j5zNcb0aSk7dx3W3mAKzw) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm) | [Cosmo](https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE) | 3:26 | 2024-01-05 |  |
 | [Pa' Que Retozen](https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 2:31 | 2022-07-01 | 2023-04-29 |
 | [Pa'nama](https://open.spotify.com/track/5H36TeVC5aQnsvFhhzw9xZ) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Pa'nama](https://open.spotify.com/album/5UWoOpd0zEfASNiJUZqBD5) | 3:31 | 2021-12-24 | 2022-01-22 |

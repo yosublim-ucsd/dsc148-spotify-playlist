@@ -3256,7 +3256,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 178188,
       "name": "bad things",
       "url": "https://open.spotify.com/track/4ZHGSEQltvWiEbFFBIL6hE"
@@ -4250,7 +4250,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 163576,
       "name": "Bizarre feat. 6arelyhuman",
       "url": "https://open.spotify.com/track/6v2BD01NC2PO4QB4STp8BH"
@@ -4538,7 +4538,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 116562,
       "name": "blue",
       "url": "https://open.spotify.com/track/5kB8rEV7y5HzSFHCq8ReOV"
@@ -5576,7 +5576,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 156521,
       "name": "buffalo '66",
       "url": "https://open.spotify.com/track/4QgiWkurJSR5fJDn7MYhN9"
@@ -8816,7 +8816,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 200787,
       "name": "deus ex",
       "url": "https://open.spotify.com/track/1Bcfs1WSc2e6xLfRqzxai6"
@@ -9490,6 +9490,28 @@
       "duration_ms": 118931,
       "name": "Dolphin",
       "url": "https://open.spotify.com/track/5LYoqXtJkSKue0JBflNesF"
+    },
+    {
+      "album": {
+        "name": "Don't Leave",
+        "url": "https://open.spotify.com/album/0FNUF1V9mDJT7VKuoEdhnq"
+      },
+      "artists": [
+        {
+          "name": "Tom Frane",
+          "url": "https://open.spotify.com/artist/7EJYadnOoXsnXbvULN7YCR"
+        },
+        {
+          "name": "RJ Pasin",
+          "url": "https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181800,
+      "name": "Don't Leave",
+      "url": "https://open.spotify.com/track/1sRBnzf4Pc6u0gxZfLw5OT"
     },
     {
       "album": {
@@ -10696,6 +10718,24 @@
       "duration_ms": 175000,
       "name": "EURO PLUG",
       "url": "https://open.spotify.com/track/2ufW8qoeh5qFqjqbJHlpin"
+    },
+    {
+      "album": {
+        "name": "even when the sun is dead, will you tell them how hard i tried",
+        "url": "https://open.spotify.com/album/0aIrTtrBqrEHggWVEtErqb"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136771,
+      "name": "even when the sun is dead, will you tell them how hard i tried",
+      "url": "https://open.spotify.com/track/2qhvP4If0pFP5SCk1xuU30"
     },
     {
       "album": {
@@ -15061,6 +15101,24 @@
     },
     {
       "album": {
+        "name": "handicapped",
+        "url": "https://open.spotify.com/album/3tkVia3AhpAr6kUhaNyxlo"
+      },
+      "artists": [
+        {
+          "name": "7aat7aat",
+          "url": "https://open.spotify.com/artist/2U2WtW7GoAShgW5o2xF0b0"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98571,
+      "name": "handicapped",
+      "url": "https://open.spotify.com/track/6RvumhSg9ycMYWQq3Kp2tW"
+    },
+    {
+      "album": {
         "name": "Hands",
         "url": "https://open.spotify.com/album/5EZem9tly4tOWXDwNxYdcF"
       },
@@ -16538,7 +16596,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 107329,
       "name": "How Bout That?",
       "url": "https://open.spotify.com/track/54riuKMI3vMNM3nZX8Jlb2"
@@ -17530,6 +17588,24 @@
       "duration_ms": 166990,
       "name": "I'm Perfect",
       "url": "https://open.spotify.com/track/3YK1uAScUpCaFNCn004pm6"
+    },
+    {
+      "album": {
+        "name": "I'm Really Pretty",
+        "url": "https://open.spotify.com/album/6q62muJ2St1NCzwR4B5M02"
+      },
+      "artists": [
+        {
+          "name": "Chrissy Chlapecka",
+          "url": "https://open.spotify.com/artist/7L5no8Dp7Y2Gk0L1JIWj9S"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163968,
+      "name": "I'm Really Pretty",
+      "url": "https://open.spotify.com/track/6KEPSnOkxfrSacwxxQgB5g"
     },
     {
       "album": {
@@ -27021,6 +27097,36 @@
     },
     {
       "album": {
+        "name": "Pose1don / Illusions 1996",
+        "url": "https://open.spotify.com/album/0Sv9rzySfMfB2xT1LhGb9p"
+      },
+      "artists": [
+        {
+          "name": "Varg\u00b2\u2122",
+          "url": "https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy"
+        },
+        {
+          "name": "Woesum",
+          "url": "https://open.spotify.com/artist/1W9H5eED8Mc5p20B2qo0Qe"
+        },
+        {
+          "name": "Yung Sherman",
+          "url": "https://open.spotify.com/artist/3D0fPWwGl1B3s2zZR1lzKk"
+        },
+        {
+          "name": "Joon Gloom",
+          "url": "https://open.spotify.com/artist/3ZFdkChwfqb4vtzlBfcQPu"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Pose1don",
+      "url": "https://open.spotify.com/track/49lxUaoeNgHtSNf3EPyVkx"
+    },
+    {
+      "album": {
         "name": "positions",
         "url": "https://open.spotify.com/album/0vR5A8fv2WpBjIiLN2OF7V"
       },
@@ -27638,7 +27744,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 131188,
       "name": "Q.O.S.D",
       "url": "https://open.spotify.com/track/5XbJqPCN3wwU4PBqPaNJGm"
@@ -29041,6 +29147,28 @@
     },
     {
       "album": {
+        "name": "Rock Your Body",
+        "url": "https://open.spotify.com/album/1bL31qYzTMyihNFR91mgFt"
+      },
+      "artists": [
+        {
+          "name": "kets4eki",
+          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+        },
+        {
+          "name": "Ayesha Erotica",
+          "url": "https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133361,
+      "name": "Rock Your Body",
+      "url": "https://open.spotify.com/track/1LKk576aw3RM47MNytUtrD"
+    },
+    {
+      "album": {
         "name": "ROCKNROLL",
         "url": "https://open.spotify.com/album/2Jigf7bIMYUtaQreoMyvzf"
       },
@@ -30378,7 +30506,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 143704,
       "name": "Sentence",
       "url": "https://open.spotify.com/track/4tGtEGg2A20DKXGMZFpf0F"
@@ -30986,7 +31114,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 208941,
       "name": "SHYPOP",
       "url": "https://open.spotify.com/track/7fBzVMo0aAD3GIqhq6zv3s"
@@ -34167,6 +34295,28 @@
     },
     {
       "album": {
+        "name": "Te ped\u00ed que me olvidaras",
+        "url": "https://open.spotify.com/album/2Ou2enf5ZWyp5HzHHc0MPx"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Escarmiento",
+          "url": "https://open.spotify.com/artist/7sRtI3bMrrgSFkNs2jFHrl"
+        },
+        {
+          "name": "Vau Boy",
+          "url": "https://open.spotify.com/artist/2tx3YCpd2RHR1ZSU101zFB"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108292,
+      "name": "Te ped\u00ed que me olvidaras",
+      "url": "https://open.spotify.com/track/3DlNm2aNZUynTwHGIPba17"
+    },
+    {
+      "album": {
         "name": "Teacup",
         "url": "https://open.spotify.com/album/6QnuZBLx8bfoIFNiTxQ8hP"
       },
@@ -37166,6 +37316,24 @@
       "duration_ms": 183641,
       "name": "Void",
       "url": "https://open.spotify.com/track/09hFzxySPHV6PMWUiW91Di"
+    },
+    {
+      "album": {
+        "name": "Von dutch",
+        "url": "https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164284,
+      "name": "Von dutch",
+      "url": "https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N"
     },
     {
       "album": {

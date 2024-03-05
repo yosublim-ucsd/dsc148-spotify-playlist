@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp>Mercy Chinwo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,059 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,103 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 28 | [Hlala Nami](https://open.spotify.com/track/4k6skd7Ptkq24UKyWFvgnT) | [Nonka](https://open.spotify.com/artist/7owh85VxGfhYd41wHZ9nZA), [BON](https://open.spotify.com/artist/1YyPQgqgBWK1kD6rqJ7h2D), [DJ SNEJA](https://open.spotify.com/artist/2fUmQBDeQstKIyrfLjj4Xt) | [Hlala Nami](https://open.spotify.com/album/07cYBRfHObsvUZ5OVujoWo) | 6:37 |
 | 29 | [Supa](https://open.spotify.com/track/0GZkn1i4yKLegfPXAjxmQw) | [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv), [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf), [Sydneyondabeat](https://open.spotify.com/artist/60sxmdPUcrWe3VtiSx3rGo) | [Supa](https://open.spotify.com/album/76zIo6TOf1HBewJ9Ua9hjS) | 2:32 |
 | 30 | [Run Am](https://open.spotify.com/track/2IYGbrBXm6wXgl5kPZYlJj) | [DJ HOLOSKEY](https://open.spotify.com/artist/1jYlSnBcTzHbW3Ski3ZBKJ), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv) | [Run Am](https://open.spotify.com/album/5stP0qJSGORn2REBRx4Rls) | 2:35 |
-| 31 | [Return](https://open.spotify.com/track/0Mtow5gmdanYkoljNALJsz) | [Reflect](https://open.spotify.com/artist/7hTAWUNRGi74ztjyAN8uZz), [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be), [Farrah](https://open.spotify.com/artist/4EpVqvktwuLm4wMdI3HCJr) | [Return](https://open.spotify.com/album/0DFiEFtqFLPY4DRC7PNNLD) | 2:22 |
+| 31 | [Return](https://open.spotify.com/track/0Mtow5gmdanYkoljNALJsz) | [Reflect](https://open.spotify.com/artist/7hTAWUNRGi74ztjyAN8uZz), [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be), [Farrah](https://open.spotify.com/artist/2MjWFXCO6rkeOIAnRqhcCb) | [Return](https://open.spotify.com/album/0DFiEFtqFLPY4DRC7PNNLD) | 2:22 |
 | 32 | [By Design \- Special Version](https://open.spotify.com/track/6TM4mOFIb7aWShC3teaDlr) | [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [By Design \(Special Version\)](https://open.spotify.com/album/1UnPCa8col9OvdoAK0X2UX) | 2:26 |
 | 33 | [Yeshua](https://open.spotify.com/track/06bQX7GNWXwZVldP6Xjvml) | [JFC](https://open.spotify.com/artist/4FS9J6xRUe4WAT4JatliQB), [Tosin Bee](https://open.spotify.com/artist/1fjiVka7H0Dydce3sPArtt) | [Yeshua](https://open.spotify.com/album/0cQgDIGeYAM4Xe3yxCmYdy) | 3:32 |
 | 34 | [Niwaju Oluwa](https://open.spotify.com/track/69SlTOWPVJq64SgT3ePeGK) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV) | [Niwaju Oluwa](https://open.spotify.com/album/4JM4Wj9Dy4cNhTkZMqdcU4) | 6:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 99 | [Hallelujah](https://open.spotify.com/track/31rjvTOpXdxHjmQm9BTkr4) | [BUK](https://open.spotify.com/artist/0lNueseF4lJoLU7ZbsQTAj), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB) | [Hallelujah](https://open.spotify.com/album/3DSfV6yHyBEjazixzkaq1X) | 2:19 |
 | 100 | [Nkosi Baba](https://open.spotify.com/track/2qnh5cHl72qvBm4kcMOeHb) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Nkosi Baba](https://open.spotify.com/album/1CvRoxwbkoXi6nAjf7izrE) | 7:30 |
 
-Snapshot ID: `MCw3YjE2YTI3ODVhYzVhYzk3MTQzMWZlMjEyYTlhMGM2ZWE5YmExN2Yx`
+Snapshot ID: `MCw1M2RkNTQwZmI3YmM3MTBmZTM3NGM3MDJhZTQ2MzY0NjcxMjcyNWNi`

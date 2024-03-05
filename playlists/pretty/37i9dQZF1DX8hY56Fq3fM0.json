@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 301729,
+  "num_followers": 301912,
   "original_name": "Energy Booster: Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGY1MWZiZTcyZjM0Zjk2YjA2NmU3ZGIxYzc1MWM4OTZjOTFiZDFh",
+  "snapshot_id": "MCwxMzEyMWMyZjhkY2Q2M2FhNjhlZTZkNTkwY2I2MTdlMjFmOTE2YzMw",
   "tracks": [
     {
       "added_at": "2023-07-26 19:45:38",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 193030,
-      "name": "Snap Out Of It",
-      "url": "https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY"
-    },
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
         "name": "El Camino",
         "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 198600,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 193030,
+      "name": "Snap Out Of It",
+      "url": "https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -263,6 +263,22 @@
       "duration_ms": 135581,
       "name": "Honeypie",
       "url": "https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "Gold on the Ceiling",
+      "url": "https://open.spotify.com/track/5lN1EH25gdiqT1SFALMAq1"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -331,22 +347,6 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
-        "name": "El Camino",
-        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "Gold on the Ceiling",
-      "url": "https://open.spotify.com/track/5lN1EH25gdiqT1SFALMAq1"
-    },
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
         "name": "Hurry Up, We're Dreaming",
         "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
       },
@@ -375,22 +375,6 @@
       "duration_ms": 201413,
       "name": "Cleopatra",
       "url": "https://open.spotify.com/track/2ToW7zhGCrVrLU4fiKj9U1"
-    },
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 234652,
-      "name": "Green Light",
-      "url": "https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -455,6 +439,22 @@
       "duration_ms": 249520,
       "name": "Cough Syrup",
       "url": "https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 234652,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
-        "name": "The Balcony",
-        "url": "https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN"
-      },
-      "artists": [
-        {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-        }
-      ],
-      "duration_ms": 236887,
-      "name": "Cocoon",
-      "url": "https://open.spotify.com/track/1B241LRKmK6qDDTZfUajmm"
-    },
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
         "name": "For Ever",
         "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 264493,
       "name": "Take a Walk",
       "url": "https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
+        "name": "The Balcony",
+        "url": "https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN"
+      },
+      "artists": [
+        {
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+        }
+      ],
+      "duration_ms": 236887,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/1B241LRKmK6qDDTZfUajmm"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
+        "name": "Pleaser",
+        "url": "https://open.spotify.com/album/3XwLvPyeeyTjFKeBdtC978"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 187895,
+      "name": "Pleaser",
+      "url": "https://open.spotify.com/track/11zf7m4vw9Ze7cer9Nyhk1"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
         "name": "Strange Desire",
         "url": "https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 193253,
       "name": "HandClap",
       "url": "https://open.spotify.com/track/4qRaZYiaOsSvWC7VgcxrI0"
-    },
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
-        "name": "Pleaser",
-        "url": "https://open.spotify.com/album/3XwLvPyeeyTjFKeBdtC978"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 187895,
-      "name": "Pleaser",
-      "url": "https://open.spotify.com/track/11zf7m4vw9Ze7cer9Nyhk1"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
-        "name": "saintmotelevision",
-        "url": "https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs"
-      },
-      "artists": [
-        {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
-        }
-      ],
-      "duration_ms": 192040,
-      "name": "Sweet Talk",
-      "url": "https://open.spotify.com/track/6kcHg7XL6SKyPNd78daRBL"
-    },
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
         "name": "Jake Bugg",
         "url": "https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj"
       },
@@ -971,6 +955,22 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
+        "name": "saintmotelevision",
+        "url": "https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs"
+      },
+      "artists": [
+        {
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+        }
+      ],
+      "duration_ms": 192040,
+      "name": "Sweet Talk",
+      "url": "https://open.spotify.com/track/6kcHg7XL6SKyPNd78daRBL"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
         "name": "Lungs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
       },
@@ -983,22 +983,6 @@
       "duration_ms": 255133,
       "name": "Cosmic Love",
       "url": "https://open.spotify.com/track/0CSTvWUps1YmpQoXXay9ol"
-    },
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
-        "name": "Strange Desire",
-        "url": "https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 204520,
-      "name": "I Wanna Get Better",
-      "url": "https://open.spotify.com/track/1BwhFXqoIsePt21WyWIttb"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -1031,6 +1015,22 @@
       "duration_ms": 232960,
       "name": "Longshot",
       "url": "https://open.spotify.com/track/2VcS3oKcOPkubN9LVzZ96l"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
+        "name": "Strange Desire",
+        "url": "https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 204520,
+      "name": "I Wanna Get Better",
+      "url": "https://open.spotify.com/track/1BwhFXqoIsePt21WyWIttb"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
-        "name": "LA DIVINE",
-        "url": "https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On"
-      },
-      "artists": [
-        {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
-        }
-      ],
-      "duration_ms": 214360,
-      "name": "Love Is Mystical",
-      "url": "https://open.spotify.com/track/12pdXFcruNcPUbZypKUDgz"
-    },
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
         "name": "Master of My Make-Believe",
         "url": "https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 187013,
       "name": "Daft Pretty Boys (Explicit)",
       "url": "https://open.spotify.com/track/2ZRQixbe1MCJxpcO96Zj1y"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
+        "name": "LA DIVINE",
+        "url": "https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 214360,
+      "name": "Love Is Mystical",
+      "url": "https://open.spotify.com/track/12pdXFcruNcPUbZypKUDgz"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
-        "name": "The Slow Rush",
-        "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
+        "name": "She Plays Bass",
+        "url": "https://open.spotify.com/album/6aSy1zAuCiFQxUFITf3ymw"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 273026,
-      "name": "It Might Be Time",
-      "url": "https://open.spotify.com/track/558ubozatFQlweufvHa3Ip"
+      "duration_ms": 207106,
+      "name": "She Plays Bass",
+      "url": "https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp"
     }
   ],
   "unique_name": "Energy Booster: Indie",

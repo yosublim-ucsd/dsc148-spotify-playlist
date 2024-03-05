@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen.",
-  "num_followers": 40119,
+  "num_followers": 40123,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTU1ODdiOGNhZWU3NTBkMmExYTVjNWQ3MTVmYWExMjJiMDBmMjQ0",
+  "snapshot_id": "MCwyOWIwMmZmZGU1NDEzZTRhMmIyOGViYzQ4ZTkzMzk1Y2YzYWJhYWRh",
   "tracks": [
     {
       "added_at": "2024-01-10 17:36:14",
@@ -103,6 +103,22 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
+        "name": ".mp3",
+        "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 120600,
+      "name": "Exclusive.mp3",
+      "url": "https://open.spotify.com/track/5f4mOETLngamMDTJnbF9s7"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
         "name": "Los M\u00e1s Grandes Exitos",
         "url": "https://open.spotify.com/album/5O2xqtPFhEp81GUIkKNV8Z"
       },
@@ -139,18 +155,18 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": ".mp3",
-        "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
+        "name": "Carne y Hueso",
+        "url": "https://open.spotify.com/album/77p7Bob5p0c15o7r9Wpxb9"
       },
       "artists": [
         {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         }
       ],
-      "duration_ms": 120600,
-      "name": "Exclusive.mp3",
-      "url": "https://open.spotify.com/track/5f4mOETLngamMDTJnbF9s7"
+      "duration_ms": 178309,
+      "name": "Carne y Hueso",
+      "url": "https://open.spotify.com/track/3yeFTYLMz4nOtyPXWEMKsW"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -171,22 +187,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "INTERMITENTE",
-        "url": "https://open.spotify.com/album/30KCpzi4d2tMxyF5zsRU8j"
-      },
-      "artists": [
-        {
-          "name": "Natalie Perez",
-          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
-        }
-      ],
-      "duration_ms": 169451,
-      "name": "En Un Loop",
-      "url": "https://open.spotify.com/track/2sYskpiXS8DD4tEsxoycpS"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "Dije Que No Me Iba a Enamorar",
         "url": "https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y"
       },
@@ -203,18 +203,18 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "Carne y Hueso",
-        "url": "https://open.spotify.com/album/77p7Bob5p0c15o7r9Wpxb9"
+        "name": "INTERMITENTE",
+        "url": "https://open.spotify.com/album/30KCpzi4d2tMxyF5zsRU8j"
       },
       "artists": [
         {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
         }
       ],
-      "duration_ms": 178309,
-      "name": "Carne y Hueso",
-      "url": "https://open.spotify.com/track/3yeFTYLMz4nOtyPXWEMKsW"
+      "duration_ms": 169451,
+      "name": "En Un Loop",
+      "url": "https://open.spotify.com/track/2sYskpiXS8DD4tEsxoycpS"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -259,22 +259,18 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "Nena Trampa",
-        "url": "https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48"
+        "name": "N5",
+        "url": "https://open.spotify.com/album/0vWaEsVo9edkkpkGWAUqBd"
       },
       "artists": [
         {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
         }
       ],
-      "duration_ms": 183413,
-      "name": "Mal\u00e9fica",
-      "url": "https://open.spotify.com/track/0U9OZFbn82oICL2jNbpNHy"
+      "duration_ms": 154867,
+      "name": "N5",
+      "url": "https://open.spotify.com/track/6WZk0S0t6YP414VJz99mWT"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -291,6 +287,26 @@
       "duration_ms": 173238,
       "name": "NOCHE DE SATEO",
       "url": "https://open.spotify.com/track/0OkrRSwJYVXQi7EKtjVO5m"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "Nena Trampa",
+        "url": "https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 183413,
+      "name": "Mal\u00e9fica",
+      "url": "https://open.spotify.com/track/0U9OZFbn82oICL2jNbpNHy"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -331,22 +347,6 @@
       "duration_ms": 280920,
       "name": "Alfonsina Y El Mar",
       "url": "https://open.spotify.com/track/6Q3ozAXkxLpKQy6sc8L0TY"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
-        "name": "N5",
-        "url": "https://open.spotify.com/album/0vWaEsVo9edkkpkGWAUqBd"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 154867,
-      "name": "N5",
-      "url": "https://open.spotify.com/track/6WZk0S0t6YP414VJz99mWT"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -459,34 +459,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "38",
-        "url": "https://open.spotify.com/album/4YtUu37m5y31rp8jrWJ9wk"
-      },
-      "artists": [
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
-        {
-          "name": "Gusty dj",
-          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
-        },
-        {
-          "name": "Kenzy",
-          "url": "https://open.spotify.com/artist/778s7JrnFl5ICM49oimpj4"
-        },
-        {
-          "name": "May Creizy",
-          "url": "https://open.spotify.com/artist/6XyKFAoM3iHJimAHWo7JNQ"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "38",
-      "url": "https://open.spotify.com/track/4My1ij0QUaZrojxzkV0OEx"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "Whos That B!Tch?",
         "url": "https://open.spotify.com/album/73YJ3dUZY8a1RQy4KB2dQc"
       },
@@ -531,6 +503,34 @@
       "duration_ms": 160856,
       "name": "ADI\u00d3S",
       "url": "https://open.spotify.com/track/0oCg7mNg3DDcKsB5wfWo9r"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "38",
+        "url": "https://open.spotify.com/album/4YtUu37m5y31rp8jrWJ9wk"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+        },
+        {
+          "name": "Kenzy",
+          "url": "https://open.spotify.com/artist/778s7JrnFl5ICM49oimpj4"
+        },
+        {
+          "name": "May Creizy",
+          "url": "https://open.spotify.com/artist/6XyKFAoM3iHJimAHWo7JNQ"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "38",
+      "url": "https://open.spotify.com/track/4My1ij0QUaZrojxzkV0OEx"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1767,18 +1767,18 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "PINCH\u00d3",
-        "url": "https://open.spotify.com/album/40k3kQTJXh7RNGVzJahIUs"
+        "name": "Temporal",
+        "url": "https://open.spotify.com/album/4Gssh5r2TUnZMvMJTJCLNS"
       },
       "artists": [
         {
-          "name": "FEMI",
-          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
+          "name": "Malena Muyala",
+          "url": "https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1"
         }
       ],
-      "duration_ms": 185722,
-      "name": "PINCH\u00d3",
-      "url": "https://open.spotify.com/track/71I1bYl7FCMSFstGsaMudX"
+      "duration_ms": 294951,
+      "name": "Luz",
+      "url": "https://open.spotify.com/track/7F8H2BwAP3wOSI8xGUyenB"
     }
   ],
   "unique_name": "EQUAL Argentina",

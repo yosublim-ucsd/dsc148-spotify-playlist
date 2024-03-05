@@ -1,12 +1,12 @@
 {
   "description": "Revive a la generaci\u00f3n que transform\u00f3 el rock en espa\u00f1ol para siempre. En portada: Soda Stereo",
-  "num_followers": 188709,
+  "num_followers": 188809,
   "original_name": "Rock en tu Idioma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjQ5ODA4MmE4NzhkODYzMzQ5Mzc0YmI5ZTYzYWIzYWU3YzVhODYz",
+  "snapshot_id": "MCw4OTU2NWZkNDk2NzVhZmFmY2FjMWQ4NmY4ZjljNTk3YWYyOGUwZGNk",
   "tracks": [
     {
       "added_at": "2021-02-24 17:08:59",
@@ -283,22 +283,6 @@
     {
       "added_at": "2021-02-24 17:08:59",
       "album": {
-        "name": "El Diablito",
-        "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "La C\u00e9lula Que Explota",
-      "url": "https://open.spotify.com/track/5mB0MGsRfKZALHrXjnktCK"
-    },
-    {
-      "added_at": "2021-02-24 17:08:59",
-      "album": {
         "name": "La Cagaste... Burt Lancaster",
         "url": "https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis"
       },
@@ -315,34 +299,18 @@
     {
       "added_at": "2021-02-24 17:08:59",
       "album": {
-        "name": "Signos (Remastered)",
-        "url": "https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi"
+        "name": "El Diablito",
+        "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
         }
       ],
-      "duration_ms": 292266,
-      "name": "Persiana Americana - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL"
-    },
-    {
-      "added_at": "2021-02-24 17:08:59",
-      "album": {
-        "name": "Senderos De Traici\u00f3n - Edici\u00f3n Especial",
-        "url": "https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y"
-      },
-      "artists": [
-        {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
-        }
-      ],
-      "duration_ms": 253186,
-      "name": "Maldito duende",
-      "url": "https://open.spotify.com/track/7vcDJCAO356RYkCfiUozmE"
+      "duration_ms": 215866,
+      "name": "La C\u00e9lula Que Explota",
+      "url": "https://open.spotify.com/track/5mB0MGsRfKZALHrXjnktCK"
     },
     {
       "added_at": "2021-02-24 17:08:59",
@@ -375,6 +343,38 @@
       "duration_ms": 349506,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/2FSYfKAApea3U42phhBOIc"
+    },
+    {
+      "added_at": "2021-02-24 17:08:59",
+      "album": {
+        "name": "Senderos De Traici\u00f3n - Edici\u00f3n Especial",
+        "url": "https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "duration_ms": 253186,
+      "name": "Maldito duende",
+      "url": "https://open.spotify.com/track/7vcDJCAO356RYkCfiUozmE"
+    },
+    {
+      "added_at": "2021-02-24 17:08:59",
+      "album": {
+        "name": "Signos (Remastered)",
+        "url": "https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 292266,
+      "name": "Persiana Americana - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL"
     },
     {
       "added_at": "2021-02-24 17:08:59",
@@ -475,38 +475,6 @@
     {
       "added_at": "2021-02-24 17:08:59",
       "album": {
-        "name": "Rock En Espanol - Lo Mejor De Los Amantes De Lola",
-        "url": "https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG"
-      },
-      "artists": [
-        {
-          "name": "Los Amantes De Lola",
-          "url": "https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc"
-        }
-      ],
-      "duration_ms": 276773,
-      "name": "Beber de Tu Sangre",
-      "url": "https://open.spotify.com/track/3Gr4OWY7lAXAq7PpgUbctG"
-    },
-    {
-      "added_at": "2021-02-24 17:08:59",
-      "album": {
-        "name": "Descanso Dominical / Une Femme Avec Une Femme",
-        "url": "https://open.spotify.com/album/3ddhOdEVme7tbJqHnUBx2J"
-      },
-      "artists": [
-        {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
-        }
-      ],
-      "duration_ms": 310346,
-      "name": "La Fuerza del Destino (Live)",
-      "url": "https://open.spotify.com/track/0vOZomyHQgbEmxmAutqJZa"
-    },
-    {
-      "added_at": "2021-02-24 17:08:59",
-      "album": {
         "name": "El Circo",
         "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
       },
@@ -523,6 +491,22 @@
     {
       "added_at": "2021-02-24 17:08:59",
       "album": {
+        "name": "Rock En Espanol - Lo Mejor De Los Amantes De Lola",
+        "url": "https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG"
+      },
+      "artists": [
+        {
+          "name": "Los Amantes De Lola",
+          "url": "https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc"
+        }
+      ],
+      "duration_ms": 276773,
+      "name": "Beber de Tu Sangre",
+      "url": "https://open.spotify.com/track/3Gr4OWY7lAXAq7PpgUbctG"
+    },
+    {
+      "added_at": "2021-02-24 17:08:59",
+      "album": {
         "name": "Rocanrol Bumerang",
         "url": "https://open.spotify.com/album/1YIw799VStxgysT27cUGwp"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 224826,
       "name": "Santa Lucia - Remastered 2005",
       "url": "https://open.spotify.com/track/5bycn7SuJzYnxte0W54mNX"
+    },
+    {
+      "added_at": "2021-02-24 17:08:59",
+      "album": {
+        "name": "Descanso Dominical / Une Femme Avec Une Femme",
+        "url": "https://open.spotify.com/album/3ddhOdEVme7tbJqHnUBx2J"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "duration_ms": 310346,
+      "name": "La Fuerza del Destino (Live)",
+      "url": "https://open.spotify.com/track/0vOZomyHQgbEmxmAutqJZa"
     },
     {
       "added_at": "2021-02-24 17:08:59",
@@ -699,22 +699,6 @@
     {
       "added_at": "2021-02-24 17:08:59",
       "album": {
-        "name": "Los Secretos",
-        "url": "https://open.spotify.com/album/1XVL4fl2DMeU1JOPVH6K17"
-      },
-      "artists": [
-        {
-          "name": "Los Secretos",
-          "url": "https://open.spotify.com/artist/2KEDbpUlz9nwtGywHT4gyf"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "D\u00e9jame",
-      "url": "https://open.spotify.com/track/74anwTmdyvA3f8RUtCQqKD"
-    },
-    {
-      "added_at": "2021-02-24 17:08:59",
-      "album": {
         "name": "40 A\u00f1os Vol. 1",
         "url": "https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 297533,
       "name": "Veneno Vil",
       "url": "https://open.spotify.com/track/7lBKa0oQnv6w2AgFiBqRW2"
+    },
+    {
+      "added_at": "2021-02-24 17:08:59",
+      "album": {
+        "name": "Los Secretos",
+        "url": "https://open.spotify.com/album/1XVL4fl2DMeU1JOPVH6K17"
+      },
+      "artists": [
+        {
+          "name": "Los Secretos",
+          "url": "https://open.spotify.com/artist/2KEDbpUlz9nwtGywHT4gyf"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "D\u00e9jame",
+      "url": "https://open.spotify.com/track/74anwTmdyvA3f8RUtCQqKD"
     },
     {
       "added_at": "2021-02-24 17:08:59",

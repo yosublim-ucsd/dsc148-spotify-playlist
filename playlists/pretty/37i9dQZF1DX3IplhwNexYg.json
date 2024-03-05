@@ -1,12 +1,12 @@
 {
   "description": "The best in current indie rock. Cover: IDLES",
-  "num_followers": 114597,
+  "num_followers": 114611,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmM5Y2YzOTIxNWQ2YzRiYjAyYWI5YTE2NjA0MmVlZGJhYTZlMGEw",
+  "snapshot_id": "MCxiMjZlM2FiNDMxNmRmZDM3NjkyY2Q2MTA3ODU4MGIzNzIyY2Q0MGJj",
   "tracks": [
     {
       "added_at": "2024-02-16 00:00:00",
@@ -183,22 +183,6 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "Billie Toppy",
-        "url": "https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 195289,
-      "name": "Billie Toppy",
-      "url": "https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt"
       },
@@ -215,6 +199,22 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
+        "name": "Billie Toppy",
+        "url": "https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 195289,
+      "name": "Billie Toppy",
+      "url": "https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
         "name": "Call Me What You Like",
         "url": "https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc"
       },
@@ -227,6 +227,22 @@
       "duration_ms": 226960,
       "name": "Call Me What You Like",
       "url": "https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
+        "name": "How Have You Been?",
+        "url": "https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "duration_ms": 201467,
+      "name": "Pink Skies",
+      "url": "https://open.spotify.com/track/43Ka2d0YZZlOzVGwf96xNw"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -259,22 +275,6 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "How Have You Been?",
-        "url": "https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO"
-      },
-      "artists": [
-        {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
-        }
-      ],
-      "duration_ms": 201467,
-      "name": "Pink Skies",
-      "url": "https://open.spotify.com/track/43Ka2d0YZZlOzVGwf96xNw"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
         "name": "One Bad Day",
         "url": "https://open.spotify.com/album/5morg7Iz68tT3I4jqLHc1M"
       },
@@ -287,22 +287,6 @@
       "duration_ms": 200248,
       "name": "One Bad Day",
       "url": "https://open.spotify.com/track/4W8oRIFw6bKw4p4ol1HL2Y"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
-        "name": "My Lady Of Mercy",
-        "url": "https://open.spotify.com/album/2W3JTxVFYQ9m4xd5sYKCC0"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 175410,
-      "name": "My Lady of Mercy",
-      "url": "https://open.spotify.com/track/2M1zHytH8Ch9HmhpScKyvV"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -339,6 +323,22 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
+        "name": "Wake Up & It's Over",
+        "url": "https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "duration_ms": 227546,
+      "name": "Portrait of a Blank Slate",
+      "url": "https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
         "name": "Heartbreaker",
         "url": "https://open.spotify.com/album/6TnnmPtPOhpd5KWjWSuGba"
       },
@@ -355,18 +355,18 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "Wake Up & It's Over",
-        "url": "https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr"
+        "name": "My Lady Of Mercy",
+        "url": "https://open.spotify.com/album/2W3JTxVFYQ9m4xd5sYKCC0"
       },
       "artists": [
         {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
         }
       ],
-      "duration_ms": 227546,
-      "name": "Portrait of a Blank Slate",
-      "url": "https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC"
+      "duration_ms": 175410,
+      "name": "My Lady of Mercy",
+      "url": "https://open.spotify.com/track/2M1zHytH8Ch9HmhpScKyvV"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "Pick-Up Full Of Pink Carnations",
-        "url": "https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4"
-      },
-      "artists": [
-        {
-          "name": "The Vaccines",
-          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
-        }
-      ],
-      "duration_ms": 218027,
-      "name": "Sometimes, I Swear",
-      "url": "https://open.spotify.com/track/2DJejaWAKa3BTTdwvzKVJO"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
         "name": "Fantasneeze (feat. Matilda Mann)",
         "url": "https://open.spotify.com/album/0yNJq0ZGlgRyfz4UBoARVn"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 201240,
       "name": "Fantasneeze (feat. Matilda Mann)",
       "url": "https://open.spotify.com/track/4dsyiGRnIpw8Y1C5IXhKJi"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
+        "name": "Pick-Up Full Of Pink Carnations",
+        "url": "https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4"
+      },
+      "artists": [
+        {
+          "name": "The Vaccines",
+          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
+        }
+      ],
+      "duration_ms": 218027,
+      "name": "Sometimes, I Swear",
+      "url": "https://open.spotify.com/track/2DJejaWAKa3BTTdwvzKVJO"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
+        "name": "Pick-Up Full Of Pink Carnations",
+        "url": "https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4"
+      },
+      "artists": [
+        {
+          "name": "The Vaccines",
+          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
+        }
+      ],
+      "duration_ms": 176578,
+      "name": "Lunar Eclipse",
+      "url": "https://open.spotify.com/track/7ysZK0xlf1jIWMkiVJoGLB"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
         "name": "Blame My Ex",
         "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 180933,
       "name": "Right Here, for Now",
       "url": "https://open.spotify.com/track/2mMU463xwCEiBKJJTlA3tc"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
-        "name": "Pick-Up Full Of Pink Carnations",
-        "url": "https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4"
-      },
-      "artists": [
-        {
-          "name": "The Vaccines",
-          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
-        }
-      ],
-      "duration_ms": 176578,
-      "name": "Lunar Eclipse",
-      "url": "https://open.spotify.com/track/7ysZK0xlf1jIWMkiVJoGLB"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -1055,38 +1055,6 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "Nothing Like",
-        "url": "https://open.spotify.com/album/5gttolwoxCFbYQV8T30p3z"
-      },
-      "artists": [
-        {
-          "name": "Mannequin Pussy",
-          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
-        }
-      ],
-      "duration_ms": 249440,
-      "name": "Nothing Like",
-      "url": "https://open.spotify.com/track/3qVRAYhHqf9LzaYQvtdqOd"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
-        "name": "My Big Day",
-        "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "Turn The World On",
-      "url": "https://open.spotify.com/track/2pkVFnJrUixqjhjf3In0G0"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
         "name": "When The Laughter Stops",
         "url": "https://open.spotify.com/album/6U7OfgNaW72x04NE9Nugbs"
       },
@@ -1103,6 +1071,22 @@
       "duration_ms": 197894,
       "name": "When the Laughter Stops",
       "url": "https://open.spotify.com/track/3aE5Ldum42xgbCrOQsEkty"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
+        "name": "Nothing Like",
+        "url": "https://open.spotify.com/album/5gttolwoxCFbYQV8T30p3z"
+      },
+      "artists": [
+        {
+          "name": "Mannequin Pussy",
+          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+        }
+      ],
+      "duration_ms": 249440,
+      "name": "Nothing Like",
+      "url": "https://open.spotify.com/track/3qVRAYhHqf9LzaYQvtdqOd"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -1139,6 +1123,22 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
+        "name": "My Big Day",
+        "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "Turn The World On",
+      "url": "https://open.spotify.com/track/2pkVFnJrUixqjhjf3In0G0"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
         "name": "Kiss Ur Face Forever",
         "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
       },
@@ -1151,6 +1151,22 @@
       "duration_ms": 166556,
       "name": "Kiss Ur Face Forever",
       "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
+        "name": "Yard",
+        "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 155733,
+      "name": "Doubt",
+      "url": "https://open.spotify.com/track/3s6sLTCG8QZmpIIRgIW4HS"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -1199,22 +1215,6 @@
       "duration_ms": 235325,
       "name": "St. Charles Square",
       "url": "https://open.spotify.com/track/7lo2Wos97Xq6DFHURcsxeQ"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
-        "name": "Yard",
-        "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 155733,
-      "name": "Doubt",
-      "url": "https://open.spotify.com/track/3s6sLTCG8QZmpIIRgIW4HS"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "Falling Apart",
-        "url": "https://open.spotify.com/album/7kAdBoeMx7uw9aI2cJ4mwj"
+        "name": "Burn The Empire",
+        "url": "https://open.spotify.com/album/4aufPz4ZGcxWHNt2lp2lTf"
       },
       "artists": [
         {
-          "name": "Sea Girls",
-          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
+          "name": "The Snuts",
+          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
         }
       ],
-      "duration_ms": 200891,
-      "name": "Falling Apart",
-      "url": "https://open.spotify.com/track/48DEKIyp57dlFy7Yn2O12V"
+      "duration_ms": 160346,
+      "name": "Knuckles",
+      "url": "https://open.spotify.com/track/4Ko3NpExzZe0BBDDV6IZc8"
     }
   ],
   "unique_name": "pulp",

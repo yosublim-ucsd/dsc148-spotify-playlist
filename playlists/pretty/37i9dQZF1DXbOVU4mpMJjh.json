@@ -1,12 +1,12 @@
 {
   "description": "Relax to gentle vocal and instrumental Jazz.",
-  "num_followers": 809937,
+  "num_followers": 809995,
   "original_name": "Jazz Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWZiYzhlZjJiYTdiNjIzNzEwNjk4ODUzYmYxYTI1OGUyMmZmODNh",
+  "snapshot_id": "MCxlZWY4YTg4MzNkMzU4YzFjYmY3MDY5YTUzMWI3N2EwOGU3ZDQwNzYx",
   "tracks": [
     {
       "added_at": "2024-02-23 00:01:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
+        "name": "You're All I Can Think Of",
+        "url": "https://open.spotify.com/album/4WF6TZcn0v9RfEFyFVe2qB"
+      },
+      "artists": [
+        {
+          "name": "Original Three",
+          "url": "https://open.spotify.com/artist/0Zi9ASlerELD4nnDLV7wv3"
+        }
+      ],
+      "duration_ms": 298111,
+      "name": "You're All I Can Think Of",
+      "url": "https://open.spotify.com/track/5rBnsa0pkuIndZ3vGW95vq"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
         "name": "A Flower Is A Lovesome Thing",
         "url": "https://open.spotify.com/album/6e5sks6jNZiizyhRdcguh9"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 269602,
       "name": "When we danced",
       "url": "https://open.spotify.com/track/2pcDGklI3mOVMZrvnUF2t5"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "You're All I Can Think Of",
-        "url": "https://open.spotify.com/album/4WF6TZcn0v9RfEFyFVe2qB"
-      },
-      "artists": [
-        {
-          "name": "Original Three",
-          "url": "https://open.spotify.com/artist/0Zi9ASlerELD4nnDLV7wv3"
-        }
-      ],
-      "duration_ms": 298111,
-      "name": "You're All I Can Think Of",
-      "url": "https://open.spotify.com/track/5rBnsa0pkuIndZ3vGW95vq"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Something about him",
-        "url": "https://open.spotify.com/album/091PRS9X1pT5pEVDFAd7Vx"
-      },
-      "artists": [
-        {
-          "name": "Bruce Willmington & Co",
-          "url": "https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y"
-        }
-      ],
-      "duration_ms": 160111,
-      "name": "Something about him",
-      "url": "https://open.spotify.com/track/18L4SUEMJ0jJKmajWCCRP7"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "English Rose",
         "url": "https://open.spotify.com/album/1Glhi5IB4ukDTgnfuzTwdX"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 186053,
       "name": "English Rose",
       "url": "https://open.spotify.com/track/1vNFoWu3d80MnNkgjlaQ7k"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Something about him",
+        "url": "https://open.spotify.com/album/091PRS9X1pT5pEVDFAd7Vx"
+      },
+      "artists": [
+        {
+          "name": "Bruce Willmington & Co",
+          "url": "https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y"
+        }
+      ],
+      "duration_ms": 160111,
+      "name": "Something about him",
+      "url": "https://open.spotify.com/track/18L4SUEMJ0jJKmajWCCRP7"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -5767,22 +5767,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Midnight Fairytale",
-        "url": "https://open.spotify.com/album/3buXxoeXLMcwS9LQbzRGev"
-      },
-      "artists": [
-        {
-          "name": "Tanner King Trio",
-          "url": "https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8"
-        }
-      ],
-      "duration_ms": 129414,
-      "name": "Midnight Fairytale",
-      "url": "https://open.spotify.com/track/7cZxQ0m9bK0TLsaUD2UoQd"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "I Remember Clifford",
         "url": "https://open.spotify.com/album/2Fn6v0yUKmle7at62HdiQA"
       },
@@ -5795,6 +5779,22 @@
       "duration_ms": 289124,
       "name": "I Remember Clifford",
       "url": "https://open.spotify.com/track/7vJH6LhdQgbfhaBcZE9wtc"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Midnight Fairytale",
+        "url": "https://open.spotify.com/album/3buXxoeXLMcwS9LQbzRGev"
+      },
+      "artists": [
+        {
+          "name": "Tanner King Trio",
+          "url": "https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8"
+        }
+      ],
+      "duration_ms": 129414,
+      "name": "Midnight Fairytale",
+      "url": "https://open.spotify.com/track/7cZxQ0m9bK0TLsaUD2UoQd"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -7335,6 +7335,22 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/5TkYZGmaaF1hXvK9kqcx8M"
+      },
+      "artists": [
+        {
+          "name": "Ray Horne Trio",
+          "url": "https://open.spotify.com/artist/51XvvMJ1TNAQpuGnDlwmUT"
+        }
+      ],
+      "duration_ms": 269002,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/5QTJAnT7nhRzKAhtIActwk"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
         "name": "A Done Deal",
         "url": "https://open.spotify.com/album/0DCmCfxsTGYPUTXW90tf6H"
       },
@@ -7363,22 +7379,6 @@
       "duration_ms": 207630,
       "name": "I Should Care",
       "url": "https://open.spotify.com/track/0uCk5mVLsnjndhPl7sXMCe"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/5TkYZGmaaF1hXvK9kqcx8M"
-      },
-      "artists": [
-        {
-          "name": "Ray Horne Trio",
-          "url": "https://open.spotify.com/artist/51XvvMJ1TNAQpuGnDlwmUT"
-        }
-      ],
-      "duration_ms": 269002,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/5QTJAnT7nhRzKAhtIActwk"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -12171,22 +12171,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Broken Heart",
-        "url": "https://open.spotify.com/album/0ywLNB1MSdhhPuyObPVKqh"
-      },
-      "artists": [
-        {
-          "name": "Andreas Gidlund Five",
-          "url": "https://open.spotify.com/artist/77TUX9u0E5esyWr95Iwdg6"
-        }
-      ],
-      "duration_ms": 233514,
-      "name": "Broken Heart",
-      "url": "https://open.spotify.com/track/15L7bPjJZDxhhaaY1pKbpK"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Little Friends",
         "url": "https://open.spotify.com/album/31CEY462P9AKYSnixdu46b"
       },
@@ -12199,6 +12183,22 @@
       "duration_ms": 183500,
       "name": "Little Friends",
       "url": "https://open.spotify.com/track/1XG86L7eVEwRN5wuD6E26T"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Broken Heart",
+        "url": "https://open.spotify.com/album/0ywLNB1MSdhhPuyObPVKqh"
+      },
+      "artists": [
+        {
+          "name": "Andreas Gidlund Five",
+          "url": "https://open.spotify.com/artist/77TUX9u0E5esyWr95Iwdg6"
+        }
+      ],
+      "duration_ms": 233514,
+      "name": "Broken Heart",
+      "url": "https://open.spotify.com/track/15L7bPjJZDxhhaaY1pKbpK"
     }
   ],
   "unique_name": "Jazz Relax",

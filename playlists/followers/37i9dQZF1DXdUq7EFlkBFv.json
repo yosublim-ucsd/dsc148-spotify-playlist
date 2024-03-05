@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 16490,
+  "2024-03-05": 16512,
   "date_first_scraped": "2022-10-02",
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
   "name": "DJ Akademiks' Taste",
@@ -555,10 +555,32 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 188025,
       "name": "Matt Hardy 999",
       "url": "https://open.spotify.com/track/2W5cWH1DZ19KFA6n7G1eiK"
+    },
+    {
+      "album": {
+        "name": "Trip At Knight",
+        "url": "https://open.spotify.com/album/6SpT5TOPIInmmwLyCcCAXX"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188025,
+      "name": "Matt Hardy 999",
+      "url": "https://open.spotify.com/track/4zkFR93VC5H04YhnYxr2zz"
     },
     {
       "album": {

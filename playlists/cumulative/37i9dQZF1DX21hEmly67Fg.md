@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-202 songs - 11 hr 39 min
+205 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Human Nature \(Arr\. R\. Boyd & L\. Metcalf for Cello & Guitar\)](https://open.spotify.com/track/3aMagwbjbBUakRbCCt542s) | [Steve Porcaro](https://open.spotify.com/artist/6uJ8A4c1Z4FbHUTdhHm5dn), [Boyd Meets Girl](https://open.spotify.com/artist/5jRlTeRHOKRs7a9vPwMEPR) | [Boyd Meets Girl](https://open.spotify.com/album/1M2ZlMDGp4yjl9hzPX4Eyk) | 2:42 | 2021-11-25 |  |
 | [Hurt](https://open.spotify.com/track/0WLROcssjMREbas0oDpFkA) | [Holly Bowling](https://open.spotify.com/artist/71Mye1Ra0QWncFulgq354r) | [Alone Together, Vol 6 \(The Living Room Sessions\)](https://open.spotify.com/album/3hV5sj8yGvFHtEkdeJ95yH) | 6:12 | 2022-11-25 | 2023-04-19 |
 | [Hurt](https://open.spotify.com/track/5ssa7x1KD6XqPVqhwVgnA0) | [Holly Bowling](https://open.spotify.com/artist/71Mye1Ra0QWncFulgq354r) | [Alone Together, Vol 6 \(The Living Room Sessions\)](https://open.spotify.com/album/451tLMhR2ySWscHJiWQXs6) | 6:12 | 2021-11-25 | 2023-01-01 |
+| [I Can't Make You Love Me](https://open.spotify.com/track/0njEZi0FP5dUAXcXZqCoXG) | [Therése Therén](https://open.spotify.com/artist/27L2UTyUaO5OCJSNPYgks6) | [I Can't Make You Love Me](https://open.spotify.com/album/3LzJrPwnAKdK0CWGlFb3FM) | 3:31 | 2024-03-04 |  |
 | [I'm Yours \- Piano Version](https://open.spotify.com/track/0MXyCz754IFkMZq1I4BVaO) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [00s Piano Covers](https://open.spotify.com/album/01u4d96EWX1Xk1NLtQhZNC) | 3:02 | 2022-11-25 |  |
 | [I'm Yours \- Piano Version](https://open.spotify.com/track/4NqDMiBF4yLwdfJ6BDDdx2) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [00s Piano Covers](https://open.spotify.com/album/50x1Jf4aVOOvpHQ2fxe71B) | 3:02 | 2022-02-25 | 2022-12-24 |
 | [Imagine / What a Wonderful World](https://open.spotify.com/track/5peB51NBGxDU6whmNsK6yV) | [Christine Brown](https://open.spotify.com/artist/3iS3pfptgdjssIOuuTJith) | [Imagine What a Wonderful World](https://open.spotify.com/album/2cIcC7qsQf3Nzo6mpZQoYC) | 4:54 | 2021-11-25 |  |
@@ -141,6 +142,7 @@
 | [Papa, Can You Hear Me?](https://open.spotify.com/track/3ZfBUAzlJwJzctLtxykX5b) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Papa, Can You Hear Me?](https://open.spotify.com/album/0s8h7hCUsE7sXp9ZtV4FFK) | 4:41 | 2022-07-08 |  |
 | [Photograph](https://open.spotify.com/track/38bPQvz2gp0uTG1bI6rVlT) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [Photograph](https://open.spotify.com/album/5IK0TUzQUiNdOqwIqRIbEv) | 3:08 | 2023-03-07 |  |
 | [Photograph](https://open.spotify.com/track/6B2PImXAkSXyPZOAhFmXHh) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2015, Vol\. 2](https://open.spotify.com/album/26472YwdcI0EnYbAavmn3d) | 4:17 | 2022-11-18 | 2022-11-26 |
+| [Piano Man](https://open.spotify.com/track/0VQsMDssKFEUG57CZ31YcD) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [Piano Man](https://open.spotify.com/album/3BqnXRksYjWugaqusDNrML) | 2:31 | 2024-03-04 |  |
 | [Rainbow \- Instrumental](https://open.spotify.com/track/77fsaToe6geS16GLiwBzlm) | [Allen & Bright](https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y), [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [Rainbow \(Instrumental\)](https://open.spotify.com/album/2lvlAMsNnMMXhGqZY5ZIWB) | 3:23 | 2021-11-25 | 2023-08-15 |
 | [Riptide](https://open.spotify.com/track/7dEjQAnaMlb1oikHOXaTUO) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2014, Vol\. 3](https://open.spotify.com/album/55GWGl6XdbV5M9OfhiGtMN) | 3:27 | 2022-11-18 | 2022-11-26 |
 | [Rocket Man](https://open.spotify.com/track/6ff2TinoXWHCn0JnfUAp2b) | [Fiona Greenly](https://open.spotify.com/artist/1o7MqXOsAEoLkc9YEj7m9c) | [Rocket Man](https://open.spotify.com/album/1AvBbSVmZXYJtEt5GePDMR) | 3:04 | 2023-02-14 |  |
@@ -174,6 +176,7 @@
 | [Sunflower \(feat\. ThatViolaKid\)](https://open.spotify.com/track/4imin3mUFfFvbU9vbjZRSu) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz), [ThatViolaKid](https://open.spotify.com/artist/4NUssuHyRMkU7AM6bDU1OC) | [Vitamin String Quartet Performs the Hits of 2019](https://open.spotify.com/album/56EI9Mhw87g3NADBYQNQac) | 2:44 | 2022-11-18 | 2022-11-26 |
 | [Sweater Weather](https://open.spotify.com/track/5ipHEp72ur3hB8WVM0hzOX) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2013, Vol\. 1](https://open.spotify.com/album/4x6udqqWCNOeLqsw6aUnAo) | 4:05 | 2022-11-18 | 2022-11-26 |
 | [Tattoo](https://open.spotify.com/track/4oJ0J34QTkknq9ciWkb3O8) | [Ciara Bess](https://open.spotify.com/artist/21mEXcNj7iVlrmlhownRpL) | [Tattoo](https://open.spotify.com/album/4mSPv9m5vsDzPjzxocDbDt) | 3:09 | 2023-07-24 |  |
+| [The Rose](https://open.spotify.com/track/1BlvRT7JUtpNQUZHrVUPwJ) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [The Rose](https://open.spotify.com/album/3S58P2blfAWXqcRtxzkHm7) | 2:38 | 2024-03-04 |  |
 | [The Scientist](https://open.spotify.com/track/025vpSSyndhVZezl8rUF6L) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Brooklyn Sessions 8](https://open.spotify.com/album/5QehVVf9rIVoiS12V9DPMq) | 4:55 | 2021-11-25 |  |
 | [The Sound of Silence](https://open.spotify.com/track/0ckgm8yGyTYAo9WwtCXcpS) | [Allen & Bright](https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y) | [The Sound of Silence](https://open.spotify.com/album/763Ve9vd4kwmEAj0zGhuCC) | 3:10 | 2021-11-25 | 2022-01-06 |
 | [The Sound of Silence](https://open.spotify.com/track/0YTPlP7MjW8pPBGdARXuIJ) | [Morgan Fleich](https://open.spotify.com/artist/0fA5ejVShbNdZWiw5CB1l1) | [The Sound of Silence](https://open.spotify.com/album/7zFQhoJ9Disc3upcoiNnJu) | 2:16 | 2024-02-02 |  |

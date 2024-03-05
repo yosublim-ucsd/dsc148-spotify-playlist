@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiY3QffFUdg.md) - [plain]
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,803 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,022 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiY3QffFUdg.md) - [plain]
 | 71 | [Techno Sound](https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy) | [Techno Sound](https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5) | 3:09 |
 | 72 | [My Fantasy](https://open.spotify.com/track/2mbRfE0uDMWBAG0x3I7VCJ) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [My Fantasy](https://open.spotify.com/album/4BtrOR6UZNQV8yJl0P3vF4) | 2:59 |
 | 73 | [Too Close \- VIP Edit](https://open.spotify.com/track/4Wzl3eOy9qwUvbBcKvQlD2) | [LANNÉ](https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH), [Sunlike Brothers](https://open.spotify.com/artist/6ag0HxAKmKQFDXVdt6FUVx), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE) | [Too Close \(VIP Edit\)](https://open.spotify.com/album/4sD6Qdoy6tUxfZzNK3O3Kb) | 3:00 |
-| 74 | [Komodo](https://open.spotify.com/track/7xkKZ9TjRm5zE6hJf5CaGC) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD), [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [Komodo](https://open.spotify.com/album/0kvwytv9p1qqdGdlDzLN0c) | 2:35 |
-| 75 | [Chase The Sun \- VIP](https://open.spotify.com/track/5KGDSRODIjVBAN040ovdQw) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci) | [Chase The Sun \(VIP\)](https://open.spotify.com/album/162y1Nz7mvmRpChNXHQNwu) | 4:01 |
+| 74 | [SUBMARINE](https://open.spotify.com/track/2ajKYSNnU7l89EJV8job8k) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [SUBMARINE](https://open.spotify.com/album/3t3RRbPtY3llgrDrI8ceLC) | 3:23 |
+| 75 | [Komodo](https://open.spotify.com/track/7xkKZ9TjRm5zE6hJf5CaGC) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD), [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [Komodo](https://open.spotify.com/album/0kvwytv9p1qqdGdlDzLN0c) | 2:35 |
 
-Snapshot ID: `MCxmZDdmN2YzNTRiM2VmNzYzMTYwZTQzOGY3MzhhYTE4NzEwMTY2Nzdi`
+Snapshot ID: `MCxiYmJlNTlmMDhmMDM2ZTYyZDY1MDIyNWMxZTVhZWQxN2Y2ZDEyZjdj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,760 likes - 100 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,762 likes - 100 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 21 | [Watch the Tapes](https://open.spotify.com/track/4tzg6aQGUBL6YMOASdLkjN) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 3:55 |
 | 22 | [Ankle Injuries](https://open.spotify.com/track/4FnRRY3oEAor3gMEvsuBrp) | [Fujiya & Miyagi](https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU) | [Transparent Things](https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI) | 5:05 |
 | 23 | [Heiße Lippen](https://open.spotify.com/track/7gZZfNIWxgA8zs5YxVdiFe) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Zuckerzeit](https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb) | 2:21 |
-| 24 | [Hallogallo](https://open.spotify.com/track/1RyIA87KYGavtK0xiVXwDH) | [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [NEU!](https://open.spotify.com/album/1aKOQpS6TrGd3wTQooaIBH) | 10:07 |
+| 24 | [We Carry On](https://open.spotify.com/track/0ig9qLenoEShtGuX1lSb47) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Third](https://open.spotify.com/album/4BnNSzOWadogStvyYshJIo) | 6:27 |
 | 25 | [Out There](https://open.spotify.com/track/2289HHKbvNgNPobou0Dexl) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [PHASOR](https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S) | 4:54 |
-| 26 | [We Carry On](https://open.spotify.com/track/0ig9qLenoEShtGuX1lSb47) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Third](https://open.spotify.com/album/4BnNSzOWadogStvyYshJIo) | 6:27 |
+| 26 | [Hallogallo](https://open.spotify.com/track/1RyIA87KYGavtK0xiVXwDH) | [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [NEU!](https://open.spotify.com/album/1aKOQpS6TrGd3wTQooaIBH) | 10:07 |
 | 27 | [Rivers of Mind](https://open.spotify.com/track/3kNsqLVEbkMa7KeXS1TYKL) | [Rose City Band](https://open.spotify.com/artist/4TysFpMssaAsBomBur7jpK) | [Rose City Band](https://open.spotify.com/album/60HnmgpdTXNEQBQULnwPhs) | 6:34 |
 | 28 | [Alexa!](https://open.spotify.com/track/1mZvTkWDMhElKK9h91EtTI) | [The Cool Greenhouse](https://open.spotify.com/artist/3t1nM1F3Ynmt6Ft7ouWYmW) | [Alexa!](https://open.spotify.com/album/77FBNlMvuIbvsTAJar8rk9) | 3:54 |
 | 29 | [Fluffy Kosmisch](https://open.spotify.com/track/3okCTUkxlfTKgL1NQzAr5K) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Masana Temples](https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS) | 3:40 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 39 | [Caramel](https://open.spotify.com/track/2OqsnTNCy43fwWAVmkiJj8) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Zuckerzeit](https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb) | 3:09 |
 | 40 | [Tunnel](https://open.spotify.com/track/2UDfFY1kuDF9h0rw1PhohE) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [With Dim Light](https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B) | 5:46 |
 | 41 | [Nowhere Again](https://open.spotify.com/track/6C7Zo57KvXSMdMZDW5fzD6) | [Secret Machines](https://open.spotify.com/artist/67HNxzMi851bSGexRUBtgn) | [Now Here Is Nowhere](https://open.spotify.com/album/2kNoabGHULl2qxquLyOscg) | 4:13 |
-| 42 | [You Look Certain \(I’m Not So Sure\) \- WXAXRXP Session](https://open.spotify.com/track/6MNkorcBe6CHUtdddE6ytF) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Andrea Balency](https://open.spotify.com/artist/19WKgM9hPs6GwwBciAyxYF) | [You Look Certain \(I’m Not So Sure\) \[WXAXRXP Session\]](https://open.spotify.com/album/5NCQHHDqFyaLrUmiznDvYj) | 5:34 |
-| 43 | [Rhythm Is Our Business \- Edit](https://open.spotify.com/track/3sYAWmzPqgZBHawmexpuMG) | [Snapped Ankles](https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl) | [Rhythm Is Our Business \(Edit\)](https://open.spotify.com/album/4rsmZQDXlfrwEIHrsL1cRt) | 3:43 |
+| 42 | [Rhythm Is Our Business \- Edit](https://open.spotify.com/track/3sYAWmzPqgZBHawmexpuMG) | [Snapped Ankles](https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl) | [Rhythm Is Our Business \(Edit\)](https://open.spotify.com/album/4rsmZQDXlfrwEIHrsL1cRt) | 3:43 |
+| 43 | [You Look Certain \(I’m Not So Sure\) \- WXAXRXP Session](https://open.spotify.com/track/6MNkorcBe6CHUtdddE6ytF) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Andrea Balency](https://open.spotify.com/artist/19WKgM9hPs6GwwBciAyxYF) | [You Look Certain \(I’m Not So Sure\) \[WXAXRXP Session\]](https://open.spotify.com/album/5NCQHHDqFyaLrUmiznDvYj) | 5:34 |
 | 44 | [Simple Headphone Mind](https://open.spotify.com/track/1lkxzamwyP2Th5HMmcmeS7) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt), [Nurse With Wound](https://open.spotify.com/artist/7BqVdvWeMLlWkZAOGRPe0I) | [Pulse Of The Early Brain \[Switched On Volume 5\]](https://open.spotify.com/album/78tm3KQp4jXbXAWZYLtBal) | 10:46 |
-| 45 | [Love Comes In Waves](https://open.spotify.com/track/6S9QEVCZcuH12m5VeRBv84) | [Andy Bell](https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc) | [The View from Halfway Down](https://open.spotify.com/album/0BYwTvYgdrpiSMXjNQa0td) | 4:48 |
-| 46 | [One More Night \- 2004 Remastered Version](https://open.spotify.com/track/13Q0XPq59cQ6E948WMPYR0) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Ege Bamyasi \(Remastered Version\)](https://open.spotify.com/album/3Qa2CdymyGvXkqoqIZykmT) | 5:35 |
-| 47 | [77 Slightly Delayed](https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [Blackouts](https://open.spotify.com/album/140BMrMHrJKORgGdutEFde) | 6:50 |
-| 48 | [Not The Time](https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Not The Time / Callous](https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU) | 2:50 |
-| 49 | [Hollywood](https://open.spotify.com/track/741KQX9BobWT2bV5s5nO2D) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Zuckerzeit](https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb) | 4:45 |
+| 45 | [Hollywood](https://open.spotify.com/track/741KQX9BobWT2bV5s5nO2D) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Zuckerzeit](https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb) | 4:45 |
+| 46 | [Love Comes In Waves](https://open.spotify.com/track/6S9QEVCZcuH12m5VeRBv84) | [Andy Bell](https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc) | [The View from Halfway Down](https://open.spotify.com/album/0BYwTvYgdrpiSMXjNQa0td) | 4:48 |
+| 47 | [One More Night \- 2004 Remastered Version](https://open.spotify.com/track/13Q0XPq59cQ6E948WMPYR0) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Ege Bamyasi \(Remastered Version\)](https://open.spotify.com/album/3Qa2CdymyGvXkqoqIZykmT) | 5:35 |
+| 48 | [77 Slightly Delayed](https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [Blackouts](https://open.spotify.com/album/140BMrMHrJKORgGdutEFde) | 6:50 |
+| 49 | [Not The Time](https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Not The Time / Callous](https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU) | 2:50 |
 | 50 | [Red Sails \- 2017 Remaster](https://open.spotify.com/track/6Y9i9fI9HrYXMyJAHANLTm) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Lodger \(2017 Remaster\)](https://open.spotify.com/album/0S5nxDIEprOH23QeDoMeFK) | 3:45 |
 | 51 | [Doors Unlocked and Open](https://open.spotify.com/track/15pPMD8QmGMK28iFmUd0l8) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Codes and Keys](https://open.spotify.com/album/26HVbJdxW1zC799gz8yzUr) | 5:37 |
 | 52 | [Sea Within a Sea](https://open.spotify.com/track/4PeCRnvmRc60UBEEHZuSQO) | [The Horrors](https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd) | [Primary Colours](https://open.spotify.com/album/22Nn88o4b8qGFXt2IkaFXV) | 7:58 |
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 59 | [Hero](https://open.spotify.com/track/4iqaKbwNE9QrydAKTWjVAc) | [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [NEU! 75](https://open.spotify.com/album/5IfMU7lyImyEwhNEsGSV9l) | 7:11 |
 | 60 | [All Your Love is Gone](https://open.spotify.com/track/7kNMIOkd0XgCFvwVvAIQAT) | [Boxed In](https://open.spotify.com/artist/6bxYUbMVzrPTOmzwey8Hgh) | [Boxed In](https://open.spotify.com/album/1h3tAYbt8VjYRx7wLGWDiJ) | 5:10 |
 | 61 | [Record Still Spinning](https://open.spotify.com/track/6h2jvV3Gwg6onowB0366IB) | [Fröst](https://open.spotify.com/artist/0thj1Xly1i0lA2XKQLH9gE) | [Matters](https://open.spotify.com/album/3T0gHeXi1e900Bb9eue4e5) | 3:29 |
-| 62 | [Love Builds Up](https://open.spotify.com/track/1bGmWtMiXU0G5UwCMgyFsI) | [Electrelane](https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY) | [The Power Out](https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7) | 5:24 |
-| 63 | [No Spell](https://open.spotify.com/track/24vNTDqvAfgKMyDAT6ZFBd) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Floating Coffin](https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c) | 4:26 |
-| 64 | [Like Foxes Through Fences](https://open.spotify.com/track/05e1tN9mBd1qky5SdIGGTI) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know by Heart](https://open.spotify.com/album/2V3jlwKVWObfRDzgnL3E2S) | 3:37 |
+| 62 | [No Spell](https://open.spotify.com/track/24vNTDqvAfgKMyDAT6ZFBd) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Floating Coffin](https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c) | 4:26 |
+| 63 | [Like Foxes Through Fences](https://open.spotify.com/track/05e1tN9mBd1qky5SdIGGTI) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know by Heart](https://open.spotify.com/album/2V3jlwKVWObfRDzgnL3E2S) | 3:37 |
+| 64 | [Love Builds Up](https://open.spotify.com/track/1bGmWtMiXU0G5UwCMgyFsI) | [Electrelane](https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY) | [The Power Out](https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7) | 5:24 |
 | 65 | [C.Rock](https://open.spotify.com/track/3Q7tI1K0tkbR35245NYV8X) | [Krisma](https://open.spotify.com/artist/62t8XjMsCNSdrOncyfKzRb) | [Chinese Restaurant](https://open.spotify.com/album/3YG8SVkzJtTtXI6rcGuy3X) | 5:29 |
 | 66 | [Final Weapon](https://open.spotify.com/track/4cV5qpNHPtZ4tEL2HGGtZm) | [Dummy](https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC) | [Mandatory Enjoyment](https://open.spotify.com/album/29qUZKyYST9LzfffZ9aUqc) | 3:04 |
 | 67 | [Ride](https://open.spotify.com/track/0NWdgbD2abX2AWfz44WL9T) | [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Empty Estate](https://open.spotify.com/album/6jQGv6CXR9quOlin4TDvTq) | 3:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 99 | [I've Seen a U.F.O.](https://open.spotify.com/track/0RrXnG23LmlJNiYDFBy4Jq) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [With Dim Light](https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B) | 8:36 |
 | 100 | [Yatton](https://open.spotify.com/track/36yxfd27ta5REBlKPdkXPh) | [Beak>](https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6) | [>>](https://open.spotify.com/album/3IqkjByYoQX04iFT1Z2Jn7) | 5:19 |
 
-Snapshot ID: `MCxjZmJhYjNhMDE0ZjdhNDFhZWMyMmFhNzNhOGIwOWE3MWQ4MDBiMTIw`
+Snapshot ID: `MCwxODUyZjYxNzJiMjEzZDdjMTA5MjllMTZhNzgxY2YzMGZkMjBlZWE4`

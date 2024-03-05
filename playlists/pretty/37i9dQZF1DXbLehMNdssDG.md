@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 
 > Affirmations and meditation music for a mindful start of the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,355 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,449 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 | 32 | [Distant 528 Hz](https://open.spotify.com/track/6ECIrwN9QtDtIoU30fq0GN) | [Mellow Dreamer](https://open.spotify.com/artist/7cSenDphuZem2nLqSAOxBj) | [Distant 528 Hz](https://open.spotify.com/album/1tvvuIdNDoUwZvAUedbzmw) | 3:03 |
 | 33 | [Frequency of Transformation \- 528 Hz](https://open.spotify.com/track/5oACdFokhUeyN4N7ogNqPy) | [Macroix](https://open.spotify.com/artist/3ooxJFdCXxyk6heox7EOPV) | [Frequency of Transformation \- 528 Hz](https://open.spotify.com/album/1H0w7aY1HddegPYkkcb09E) | 2:35 |
 | 34 | [Nature of Illusion \- Meditation Version](https://open.spotify.com/track/4mLnypSRwLgf9i2qsaBHkd) | [Solen Taylor](https://open.spotify.com/artist/4p9by6GGMfgVGEBqiYhXqB) | [Nature of Illusion](https://open.spotify.com/album/58fIvjE46TGrQ6GiF97Vrp) | 2:07 |
-| 35 | [Spiritual Echoes](https://open.spotify.com/track/5TGrXaVmrNlJoeaCcuyGhc) | [Bernie Longo](https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1) | [Spiritual Echoes](https://open.spotify.com/album/20ztVU1HJ6YJSVCVruojPu) | 2:44 |
-| 36 | [Samadhi](https://open.spotify.com/track/5Y6ViOdg0C8ZOxNk6TnGyL) | [Aitana Bayá](https://open.spotify.com/artist/0RLYYYs6bcyvH5eqzbKHq2) | [Samadhi](https://open.spotify.com/album/7h1IDbqzA8gS3vv5FgLPjy) | 2:24 |
+| 35 | [Samadhi](https://open.spotify.com/track/5Y6ViOdg0C8ZOxNk6TnGyL) | [Aitana Bayá](https://open.spotify.com/artist/0RLYYYs6bcyvH5eqzbKHq2) | [Samadhi](https://open.spotify.com/album/7h1IDbqzA8gS3vv5FgLPjy) | 2:24 |
+| 36 | [Spiritual Echoes](https://open.spotify.com/track/5TGrXaVmrNlJoeaCcuyGhc) | [Bernie Longo](https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1) | [Spiritual Echoes](https://open.spotify.com/album/20ztVU1HJ6YJSVCVruojPu) | 2:44 |
 | 37 | [432 Hz Delta](https://open.spotify.com/track/1N4hq8aaeNpp6f6Q2MPwb4) | [Dreamlike States](https://open.spotify.com/artist/2dkyQx6iyFrb0ye8iGFz8L) | [Delta Binaural Waves](https://open.spotify.com/album/7ocLgwnXM4M2ugl89K9Rxj) | 2:40 |
 | 38 | [Morning ‘I am’ Affirmations](https://open.spotify.com/track/5djRWx3GupMvfbbBRJORjn) | [Kinder Records](https://open.spotify.com/artist/0PlHsnMe5h7xUJG1kA87Xo) | [Morning Affirmations](https://open.spotify.com/album/3ov2t8Tjj4KuQLiAsG1fl7) | 2:32 |
 | 39 | [Night Bells \(432 Hz\)](https://open.spotify.com/track/4fW7JLrMCSkPHKg6QmxfGc) | [Tsuchida Kasumi](https://open.spotify.com/artist/5tzjFM5pLsDc4Z6udd1zUT) | [Night Bells \(432 Hz\)](https://open.spotify.com/album/3awJzQg6vbV9tckTaY9apr) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 | 49 | [Blue Skies \(174 Hz\)](https://open.spotify.com/track/2gXD7eSRbKOQgwggkcSsuB) | [Endemoniada](https://open.spotify.com/artist/5yBQew0Dy7qPue4XoyHkO2) | [Blue Skies \(174 Hz\)](https://open.spotify.com/album/4EVCcEzQekL26my2vfBuis) | 3:03 |
 | 50 | [Vibrating with Calm \- 285 Hz](https://open.spotify.com/track/1geG3OimV05iMnChjbWdyz) | [Enchanted Feel](https://open.spotify.com/artist/6Rfx3Kq2IphTcrtkQRejYX) | [Vibrating with Calm \- 285 Hz](https://open.spotify.com/album/1KWtye7sNbmjGvqyrJVZEj) | 2:20 |
 
-Snapshot ID: `MCxhZDY1ZTMzZjIxZTZmZDVlNTJiMGM0NDFiNjU0ZmM5YTQ3ODYxNGQ5`
+Snapshot ID: `MCw4YjViNzgxNTM1NjI3NzczOTNjNWU4MGZiYTJiMzk0MTdkNTM4YTMw`

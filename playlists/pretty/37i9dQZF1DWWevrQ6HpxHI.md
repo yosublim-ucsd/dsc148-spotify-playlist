@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWevrQ6HpxHI.md) - [plain]
 
 > Over 5 hours of classic heaters 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,449 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,533 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWevrQ6HpxHI.md) - [plain]
 | 53 | [Trouble](https://open.spotify.com/track/7BQRqhJtJoXB1pNCvf7VmZ) | [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Trouble](https://open.spotify.com/album/7sfxOykcvnNujcPtMHMBtH) | 2:53 |
 | 54 | [Paradise \(feat\. Dermot Kennedy\)](https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise](https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA) | 2:47 |
 | 55 | [Blame \(feat\. John Newman\)](https://open.spotify.com/track/07nH4ifBxUB4lZcsf44Brn) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:32 |
-| 56 | [Jubel](https://open.spotify.com/track/61OXupi2BvAtT405OuGVQe) | [mousike](https://open.spotify.com/artist/6pun6to8ug3XuaqvLNOgi5) | [Jubel](https://open.spotify.com/album/3YOG1iPgOObIuGnQCvEXvB) | 2:28 |
+| 56 | [Jubel](https://open.spotify.com/track/21XArmhYfpQHm9S8JA4yGI) | [mousike](https://open.spotify.com/artist/6pun6to8ug3XuaqvLNOgi5) | [Jubel](https://open.spotify.com/album/2NcVUDLb5q0Q4fStV5TZKO) | 2:28 |
 | 57 | [Make Me Feel Better \- Radio Edit](https://open.spotify.com/track/3LUcl7mJdrNlqKOZZ3bOY2) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Make Me Feel Better](https://open.spotify.com/album/2cOr1vC28kXUpS9CPwlNgZ) | 3:18 |
 | 58 | [Lonely](https://open.spotify.com/track/2ZEq4HT450Ye9IFGPTl9qV) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Lonely](https://open.spotify.com/album/3zxRCukRL1NQC4vo7ipUet) | 3:10 |
 | 59 | [Make Your Move](https://open.spotify.com/track/4cuJbDiraxt9AsEeevmFuQ) | [Anton Powers](https://open.spotify.com/artist/7h7ahzbTkbAFsshWJ7fOrc), [Redondo](https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF) | [Make Your Move](https://open.spotify.com/album/0MuTtOd6C9QlO1iWiIlXgq) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWevrQ6HpxHI.md) - [plain]
 | 99 | [Nobody Does It Better](https://open.spotify.com/track/71qJKN5aGOnAHHuui6344H) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9) | [Nobody Does It Better](https://open.spotify.com/album/3vgpPO8Z1AhRDdQAsUJUKQ) | 2:28 |
 | 100 | [Bullit](https://open.spotify.com/track/0HFmNBn8c5oHCkg8oEjEEA) | [Watermät](https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W) | [Bullit](https://open.spotify.com/album/5yIGnF3aTgLLVVtnG9b8Qw) | 3:15 |
 
-Snapshot ID: `MCw3MmI1ZWEwZDViZGQ4NjY3OTMwOGIxODE2ZjZlMzc4YjI2NzFhMDlh`
+Snapshot ID: `MCwyODNhYmJjZWMwYmNkZmZmM2FiMmZmNWQ4ZDY4OTBlMzRjYzc1NTdj`

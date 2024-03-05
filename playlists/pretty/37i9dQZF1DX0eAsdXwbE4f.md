@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eAsdXwbE4f.md) - [plain]
 
 > Relax to the sound of birds singing in the rain.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,817 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,815 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,14 +61,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eAsdXwbE4f.md) - [plain]
 | 51 | [Dawn Rain](https://open.spotify.com/track/3gL54FWBTHJdTKyliszxOx) | [Sleep Miracle](https://open.spotify.com/artist/5Sw5q4pL5JDz22cOeoqxNS) | [Spring Shower](https://open.spotify.com/album/5DKeccfYs8fSrLCcOBMeFK) | 2:48 |
 | 52 | [Pájaros bajo la lluvia](https://open.spotify.com/track/5EvuKFWwl9p2svBJvvJZPc) | [Sonidos Del Bosques](https://open.spotify.com/artist/38vgVJont1qwYekn4nTaRZ) | [Ruido del bosque](https://open.spotify.com/album/5Ov50QwFnpulEHH0M7C8Js) | 2:21 |
 | 53 | [First Rain Of The Season](https://open.spotify.com/track/4iuVp9H82clJfO37tejmuO) | [Zen Master](https://open.spotify.com/artist/5TM7S7xrOB6o7deUWGAmup) | [Weather Season](https://open.spotify.com/album/6zyFSc2amhIXqDMJUrILWz) | 2:30 |
-| 54 | [Rain Droplet Tweets](https://open.spotify.com/track/5dyQXJrApYZOzCP6QN4qtG) | [Bird Sounds](https://open.spotify.com/artist/4LWTtG9wPNprYmfLnKJwv4) | [! ! ! ! Sweet Bird Sounds ! ! ! !](https://open.spotify.com/album/021ts3oxrLqe5Wu3P6iqif) | 2:02 |
-| 55 | [Rain Of Midsummer](https://open.spotify.com/track/1KpRJQyhAxjEBcpNoLKP9h) | [Nature Of Sweden](https://open.spotify.com/artist/7kgwMm8d2igABad4wfEKti) | [Hjortgarden](https://open.spotify.com/album/6An4BtOTqqesnUEwspEVUv) | 2:56 |
+| 54 | [Rain Of Midsummer](https://open.spotify.com/track/1KpRJQyhAxjEBcpNoLKP9h) | [Nature Of Sweden](https://open.spotify.com/artist/7kgwMm8d2igABad4wfEKti) | [Hjortgarden](https://open.spotify.com/album/6An4BtOTqqesnUEwspEVUv) | 2:56 |
+| 55 | [Rain Droplet Tweets](https://open.spotify.com/track/5dyQXJrApYZOzCP6QN4qtG) | [Bird Sounds](https://open.spotify.com/artist/4LWTtG9wPNprYmfLnKJwv4) | [! ! ! ! Sweet Bird Sounds ! ! ! !](https://open.spotify.com/album/021ts3oxrLqe5Wu3P6iqif) | 2:02 |
 | 56 | [Early Rain, Birds Calling](https://open.spotify.com/track/20NmgmagAsJiW8mRtUv3EP) | [Sound of the Wilderness](https://open.spotify.com/artist/3dhmYlIkKaYTdTqh1O7wLX) | [Rain Chirpings](https://open.spotify.com/album/5oxNLUGZlrn7RlyaU9IoaC) | 2:13 |
 | 57 | [Rainy Busy Forest](https://open.spotify.com/track/3cIVjUmW1mlRi7TX6bhj43) | [Forest Sounds FX](https://open.spotify.com/artist/2S9zyoMbNGC3091mDUa7jF) | [Birds and animals in the rain](https://open.spotify.com/album/7FPQhpj3KzZyQ0xmg2Cccn) | 2:00 |
-| 58 | [Sweet Birds In A Gentle Rain](https://open.spotify.com/track/3nATDQI5yVwcWnmXK1rIOF) | [Hinterländer](https://open.spotify.com/artist/50x44UHcyqCmA1INB7LcLI) | [Rain At The Cabin](https://open.spotify.com/album/0dgI67Y47ZFe3uPV2ZiZme) | 2:47 |
-| 59 | [Cool Forest Rain](https://open.spotify.com/track/5YI1IOPVG1Q8d3cdQfgyfY) | [Northern Hemisphere](https://open.spotify.com/artist/1ceUACnOKzIqZBR5YFPivT) | [Northern Rain](https://open.spotify.com/album/5OBZOpjIxjsqg9TEFU4X1z) | 3:30 |
-| 60 | [Mellow Steady Rain](https://open.spotify.com/track/4yFWl1nJiNwKSZNYTf6lPj) | [The Weather Channel](https://open.spotify.com/artist/6oRsQFv60pMDQmDWkpH4Nu) | [Rain Sounds](https://open.spotify.com/album/2yyOeP6MeA53yZJNmvFrHE) | 2:25 |
-| 61 | [Sunrise Rain](https://open.spotify.com/track/53rgt9RGYjz7UPc2Ky7jOE) | [Sleep Miracle](https://open.spotify.com/artist/5Sw5q4pL5JDz22cOeoqxNS) | [Spring Shower](https://open.spotify.com/album/5DKeccfYs8fSrLCcOBMeFK) | 2:32 |
+| 58 | [Sunrise Rain](https://open.spotify.com/track/53rgt9RGYjz7UPc2Ky7jOE) | [Sleep Miracle](https://open.spotify.com/artist/5Sw5q4pL5JDz22cOeoqxNS) | [Spring Shower](https://open.spotify.com/album/5DKeccfYs8fSrLCcOBMeFK) | 2:32 |
+| 59 | [Sweet Birds In A Gentle Rain](https://open.spotify.com/track/3nATDQI5yVwcWnmXK1rIOF) | [Hinterländer](https://open.spotify.com/artist/50x44UHcyqCmA1INB7LcLI) | [Rain At The Cabin](https://open.spotify.com/album/0dgI67Y47ZFe3uPV2ZiZme) | 2:47 |
+| 60 | [Cool Forest Rain](https://open.spotify.com/track/5YI1IOPVG1Q8d3cdQfgyfY) | [Northern Hemisphere](https://open.spotify.com/artist/1ceUACnOKzIqZBR5YFPivT) | [Northern Rain](https://open.spotify.com/album/5OBZOpjIxjsqg9TEFU4X1z) | 3:30 |
+| 61 | [Mellow Steady Rain](https://open.spotify.com/track/4yFWl1nJiNwKSZNYTf6lPj) | [The Weather Channel](https://open.spotify.com/artist/6oRsQFv60pMDQmDWkpH4Nu) | [Rain Sounds](https://open.spotify.com/album/2yyOeP6MeA53yZJNmvFrHE) | 2:25 |
 | 62 | [Uccelli Selvaggi](https://open.spotify.com/track/1vxH9FxnImAufb5NRUkZPY) | [Aloisio Adriana](https://open.spotify.com/artist/7JD1t3bGGnAOrgIRzaZIjL) | [Uccelli Selvaggi](https://open.spotify.com/album/3RbPFu7var6et94S24LY78) | 2:45 |
 | 63 | [Intense Rain & Bird Chirping](https://open.spotify.com/track/4ASnUaTj0YzEdaSIlCt836) | [True World Sounds](https://open.spotify.com/artist/7mVD7jiuXi6IjoqUYheL4c) | [Intense Rain & Bird Chirping](https://open.spotify.com/album/7FAGDSgG6pyg9jGWtPdvo4) | 2:24 |
 | 64 | [Birds & Rain Loop Asmr](https://open.spotify.com/track/6N8Ziz91GxoVKj9gU2wRfI) | [Best Rain Sounds ASMR](https://open.spotify.com/artist/1UbP72nKVxMLhSsuqoD02m) | [Birds & Rain Loop Asmr](https://open.spotify.com/album/00YnSGxgLXk4tWeDW6kGDd) | 2:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eAsdXwbE4f.md) - [plain]
 | 99 | [Porch Raindrops](https://open.spotify.com/track/3N529r9bYZx6KJjDa2Dydt) | [Rusty Raindrop](https://open.spotify.com/artist/0J484Zg3IF4aVSCJ0lTIiS) | [Rain On My Porch](https://open.spotify.com/album/0QDGQImXblnJUv52mwv3yg) | 3:50 |
 | 100 | [Raindrops In My Coffee](https://open.spotify.com/track/6GSvE3bENYprcU2dpKp9ak) | [Soul Healer](https://open.spotify.com/artist/1QptpPG5DCnj1GVwooQpAi) | [Morning Coffee Rain](https://open.spotify.com/album/2XP9cR9IYl3wuWbbrVW61s) | 2:54 |
 
-Snapshot ID: `MCxiZDhjNjJmZTIzZjIwZTRjZjU3YjM4MjYyODhjMWY3NjIzZjhkOWEw`
+Snapshot ID: `MCwyNjdkMjJmMjlkMDI4NWU3MTgwNDBmNDYxZmM0YTk0NzEwM2Q5NGMz`

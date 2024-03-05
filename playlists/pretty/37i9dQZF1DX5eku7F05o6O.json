@@ -1,12 +1,12 @@
 {
   "description": "Le plus beau, le plus triste. Photo: Alexandra Streliski",
-  "num_followers": 3743,
+  "num_followers": 3742,
   "original_name": "Tout doux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjAwMzc1MzU2MjlmNWIyNzEzZDEwOGMwMDliNThiZDIxM2ZiOWZl",
+  "snapshot_id": "MCw5MDI4MWZiMWExMTI0MzhkZGRkZTFjYmMwNGU5ZGNhZjg2OGE3YTI1",
   "tracks": [
     {
       "added_at": "2021-02-06 03:12:40",
@@ -255,22 +255,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Mara Tremblay",
-        "url": "https://open.spotify.com/album/7xY5VWfJROGenbou4vtfz6"
-      },
-      "artists": [
-        {
-          "name": "Mara Tremblay",
-          "url": "https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3"
-        }
-      ],
-      "duration_ms": 245093,
-      "name": "Les Aurores",
-      "url": "https://open.spotify.com/track/1AaMx4sHbjGx5h38jsjBCF"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Il",
         "url": "https://open.spotify.com/album/6rFWeVAaT4ExiW4Lx33NWS"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 271746,
       "name": "Nostos",
       "url": "https://open.spotify.com/track/7bSK3VEURjfxNp7H9wLNqE"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Mara Tremblay",
+        "url": "https://open.spotify.com/album/7xY5VWfJROGenbou4vtfz6"
+      },
+      "artists": [
+        {
+          "name": "Mara Tremblay",
+          "url": "https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3"
+        }
+      ],
+      "duration_ms": 245093,
+      "name": "Les Aurores",
+      "url": "https://open.spotify.com/track/1AaMx4sHbjGx5h38jsjBCF"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -323,22 +323,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Le fil",
-        "url": "https://open.spotify.com/album/2Ee68ldGNltX6l3KpTgvIZ"
-      },
-      "artists": [
-        {
-          "name": "Camille",
-          "url": "https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX"
-        }
-      ],
-      "duration_ms": 166720,
-      "name": "Pour que l'amour me quitte",
-      "url": "https://open.spotify.com/track/5ondyRZec0o7QozmadKxgq"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Tokyo",
         "url": "https://open.spotify.com/album/0bMiShtGJ5QjAehkO34ULW"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 201306,
       "name": "L'\u00e9loge des derni\u00e8res fois",
       "url": "https://open.spotify.com/track/3zCpnWcLYS8dsi497CNhcm"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Le fil",
+        "url": "https://open.spotify.com/album/2Ee68ldGNltX6l3KpTgvIZ"
+      },
+      "artists": [
+        {
+          "name": "Camille",
+          "url": "https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX"
+        }
+      ],
+      "duration_ms": 166720,
+      "name": "Pour que l'amour me quitte",
+      "url": "https://open.spotify.com/track/5ondyRZec0o7QozmadKxgq"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -371,22 +371,6 @@
       "duration_ms": 192653,
       "name": "Dans le ruisseau",
       "url": "https://open.spotify.com/track/0pP4TkjbnooOW2OQ4qamkO"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "Dans ma main",
-        "url": "https://open.spotify.com/album/7kCt6SHmlogqzWmkjKSW6v"
-      },
-      "artists": [
-        {
-          "name": "Jean-Michel Blais",
-          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
-        }
-      ],
-      "duration_ms": 252693,
-      "name": "dans ma main",
-      "url": "https://open.spotify.com/track/167qZTfvySsqycIvFPUbyp"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -419,6 +403,22 @@
       "duration_ms": 318880,
       "name": "Moi, Elsie",
       "url": "https://open.spotify.com/track/2Js9RVHgerELazvml9m8xR"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Dans ma main",
+        "url": "https://open.spotify.com/album/7kCt6SHmlogqzWmkjKSW6v"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+        }
+      ],
+      "duration_ms": 252693,
+      "name": "dans ma main",
+      "url": "https://open.spotify.com/track/167qZTfvySsqycIvFPUbyp"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -483,22 +483,6 @@
       "duration_ms": 235773,
       "name": "Nous apr\u00e8s nous",
       "url": "https://open.spotify.com/track/5BnsjduILegn9lyXBINBh9"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "Matthias & Maxime (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1DBjSrdtHrW3RudYzyhCKR"
-      },
-      "artists": [
-        {
-          "name": "Jean-Michel Blais",
-          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
-        }
-      ],
-      "duration_ms": 167436,
-      "name": "Un autre amour",
-      "url": "https://open.spotify.com/track/329d06nIUGV7dRE6xYwblR"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -583,18 +567,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "4488 de l'amour",
-        "url": "https://open.spotify.com/album/159Jn9npXR9HeDl0WoWVTa"
+        "name": "Matthias & Maxime (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1DBjSrdtHrW3RudYzyhCKR"
       },
       "artists": [
         {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
         }
       ],
-      "duration_ms": 165693,
-      "name": "Pri\u00e8re",
-      "url": "https://open.spotify.com/track/2SrsbMuDf8ruS3r0DZT0mk"
+      "duration_ms": 167436,
+      "name": "Un autre amour",
+      "url": "https://open.spotify.com/track/329d06nIUGV7dRE6xYwblR"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -647,6 +631,22 @@
       "duration_ms": 234853,
       "name": "Je redeviens le vent",
       "url": "https://open.spotify.com/track/7pQriJcTGD2fsMCEF55CCs"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "4488 de l'amour",
+        "url": "https://open.spotify.com/album/159Jn9npXR9HeDl0WoWVTa"
+      },
+      "artists": [
+        {
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+        }
+      ],
+      "duration_ms": 165693,
+      "name": "Pri\u00e8re",
+      "url": "https://open.spotify.com/track/2SrsbMuDf8ruS3r0DZT0mk"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Pink Lady",
-        "url": "https://open.spotify.com/album/4b9ogUkhATCAiphTZ9HOFI"
-      },
-      "artists": [
-        {
-          "name": "Rose",
-          "url": "https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd"
-        }
-      ],
-      "duration_ms": 275533,
-      "name": "Je ne viendrai pas demain",
-      "url": "https://open.spotify.com/track/5GZmuKblUeXxGQMOlUkZod"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Marie-Pierre Arthur",
         "url": "https://open.spotify.com/album/24zKTvO9WBhCj9meQWEqnJ"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 253145,
       "name": "Le vent m\u2019appelle par mon pr\u00e9nom",
       "url": "https://open.spotify.com/track/68ImzFuf1GPwyhy4VrFi2k"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Pink Lady",
+        "url": "https://open.spotify.com/album/4b9ogUkhATCAiphTZ9HOFI"
+      },
+      "artists": [
+        {
+          "name": "Rose",
+          "url": "https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd"
+        }
+      ],
+      "duration_ms": 275533,
+      "name": "Je ne viendrai pas demain",
+      "url": "https://open.spotify.com/track/5GZmuKblUeXxGQMOlUkZod"
     },
     {
       "added_at": "2021-02-06 03:12:40",

@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 71472,
+  "2024-03-05": 71484,
   "date_first_scraped": "2022-09-09",
   "description": "This is Maren Morris. The essential tracks, all in one playlist.",
   "name": "This Is Maren Morris",
@@ -39,7 +39,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 211767,
       "name": "80s Mercedes",
       "url": "https://open.spotify.com/track/58spuRyMUsjKHQHEGwLC99"
@@ -133,7 +133,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 197215,
       "name": "Better Than We Found It",
       "url": "https://open.spotify.com/track/6IVLDX1miNBy1BOWebnMP2"
@@ -913,7 +913,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 197930,
       "name": "My Church",
       "url": "https://open.spotify.com/track/1LM5zQv5pBKPyO7rm7Uz6U"

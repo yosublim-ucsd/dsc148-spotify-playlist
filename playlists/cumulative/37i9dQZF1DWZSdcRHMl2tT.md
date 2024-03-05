@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-419 songs - 21 hr 0 min
+425 songs - 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Come Along](https://open.spotify.com/track/4h8QHgPPriNxU1LP7q2Qes) | [Hello Papyrus](https://open.spotify.com/artist/7te6RqAY9rZmgnmZKEkQCv) | [Come Along](https://open.spotify.com/album/2Ou8k6aCc2zhJ9Dk3weDIy) | 2:42 | 2023-04-28 |  |
 | [Come With Me](https://open.spotify.com/track/2778ucz8lkSP0Efmol7VO0) | [Padé](https://open.spotify.com/artist/6blWAoncmeneII62o38gdj) | [Come With Me](https://open.spotify.com/album/5DqD3yuOiuaWyArTzCErwl) | 3:02 | 2022-05-27 | 2022-07-01 |
 | [Cosmopolitan](https://open.spotify.com/track/5tIBc0L66MVZ1tNUApYV8f) | [Beach Villa](https://open.spotify.com/artist/6419utRWf7KXDJun7kpFmo) | [Cosmopolitan](https://open.spotify.com/album/0tim8AlkIqLinWNnGqv2yf) | 2:23 | 2022-04-05 |  |
+| [Cozumel](https://open.spotify.com/track/5ZpQBYi5KcVADcUCjTSrgY) | [Hello Papyrus](https://open.spotify.com/artist/7te6RqAY9rZmgnmZKEkQCv) | [Cozumel](https://open.spotify.com/album/07yZdJS6zsWhKCYPU0xUG5) | 2:06 | 2024-03-04 |  |
 | [Cradle Beach](https://open.spotify.com/track/7rB5yo66bLtgPopOiht49F) | [Julian Tremolino](https://open.spotify.com/artist/5o5JIIWm9kQ1kCknZrw84F) | [Cradle Beach](https://open.spotify.com/album/6cYWvOK87fNQkvgrevG8UV) | 2:52 | 2022-04-05 |  |
 | [Crisp](https://open.spotify.com/track/2WmdD9R9Qx6cHQ0t5XWHLx) | [Pool Villa](https://open.spotify.com/artist/6jlhtDtApssw2NRWmaN3d0) | [Crisp](https://open.spotify.com/album/57CwP4oDHIPUfG1mr5vy2P) | 2:32 | 2023-05-05 |  |
 | [Crystal Clear](https://open.spotify.com/track/0Ogm2QwgnGabdYA24p59Q4) | [Luminous](https://open.spotify.com/artist/3ZqiOLqjaluKDLdKxQFn6u) | [Crystal Clear](https://open.spotify.com/album/1tfeajzxADOTdv6bISDtqP) | 3:46 | 2022-04-05 | 2022-07-01 |
@@ -159,6 +160,7 @@
 | [Grace Bay](https://open.spotify.com/track/6UBVHuWOmLg7bqnEatxTi9) | [Plastik Flamingos](https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU) | [Grace Bay](https://open.spotify.com/album/1bF1ehZjSAyTWnVORRGyWK) | 3:35 | 2022-04-05 | 2022-07-22 |
 | [Green Leafs](https://open.spotify.com/track/6HlFrgdDGdyz9eKQZzb2UG) | [Carlo Azure](https://open.spotify.com/artist/1UosFEbzfi6fLIdQSYiL1Z) | [Underneath The Oaks](https://open.spotify.com/album/05UdyDvJk8v6499m2uDz5G) | 3:21 | 2022-11-25 |  |
 | [Groom Lakes](https://open.spotify.com/track/4zhqxtPPp94mnXk7khog2J) | [Dekance](https://open.spotify.com/artist/44KGRSo2bpi5LUlIw52lvD) | [Groom Lakes](https://open.spotify.com/album/1AIvfYm1IAS7Zu9mXxA7UE) | 2:52 | 2022-04-05 | 2022-07-29 |
+| [Grouptext](https://open.spotify.com/track/3V2n4fDX9MQlx8jSH4tX4F) | [Blé Hill](https://open.spotify.com/artist/2Hv0rhYRdL06odAza3vamX) | [Grouptext](https://open.spotify.com/album/1SHkR2j8MKhFx4HT2YmYY4) | 2:51 | 2024-03-04 |  |
 | [Grow](https://open.spotify.com/track/4GvqnSBvTq9gOxR0HGXV7c) | [Artonia](https://open.spotify.com/artist/7iNEIDrsxAXBkfbVE0vXCD) | [Grow](https://open.spotify.com/album/1JD8fImjty8ctfel9OtDIX) | 2:33 | 2022-04-05 | 2022-07-29 |
 | [Growing](https://open.spotify.com/track/6rCkaw89aoGhunEMTXpSiN) | [Hazel Calm](https://open.spotify.com/artist/19AnR1ST7DAT5Coo66OKLl) | [Growing](https://open.spotify.com/album/7HTo42U44LHzt3eVfKCh0w) | 2:40 | 2022-04-05 | 2022-07-29 |
 | [Hanging Out](https://open.spotify.com/track/5sxk6ElBzgcFqneVR1Uug6) | [Neotronicz](https://open.spotify.com/artist/6LvxEsI0dKlKpN7RHthHOf) | [Hanging Out](https://open.spotify.com/album/1QqzZApC7xi8JtVEGXDMBr) | 2:55 | 2022-04-05 |  |
@@ -225,6 +227,7 @@
 | [Maduix](https://open.spotify.com/track/3fmWdfU1ia3PfAFq106Ysi) | [Nyhuis](https://open.spotify.com/artist/6EVayLPsEOA5csxrOs2Q8d) | [Maduix](https://open.spotify.com/album/5ZdJyUVAafEunwTXSNDgyv) | 2:44 | 2022-05-27 |  |
 | [Magic Island](https://open.spotify.com/track/62yKRARApFEWm5uvSOK0oH) | [Matobolo](https://open.spotify.com/artist/5yyRFQuROpERkosmUmah5j) | [Magic Island](https://open.spotify.com/album/5mGr8IY17cQFas7lHxxFv2) | 2:17 | 2022-04-05 | 2022-07-29 |
 | [Make It Count](https://open.spotify.com/track/70EPJbHlSO1Dkkmil1IP6b) | [Galavant Cross](https://open.spotify.com/artist/07dC1pu2nWISPURU8irwck) | [Make It Count](https://open.spotify.com/album/2cRKaFS1CgsSizxPQC6ca6) | 3:03 | 2022-04-05 | 2022-07-29 |
+| [Mango](https://open.spotify.com/track/2UfwU02O5nBCxwHx7G1Q79) | [hannaah](https://open.spotify.com/artist/0RbSyDDMqg1NdqwwjL7Khb) | [Mango](https://open.spotify.com/album/1qtPXWoUZdfnFTUhwTepyE) | 2:06 | 2024-03-04 |  |
 | [Mannequin](https://open.spotify.com/track/36Uz12ctE58QztkK67Doya) | [Chewy WO](https://open.spotify.com/artist/3pa7MdSYqgFazXfYIQehhV) | [Mannequin](https://open.spotify.com/album/4k3gJQHthd1Vcs90viihk1) | 3:09 | 2022-04-05 |  |
 | [Maraschino Cherry](https://open.spotify.com/track/5x7yKdw07UdQ6N6SlCuuFN) | [Trausch](https://open.spotify.com/artist/5SmNLY6rv1DodiaaM3e6Mx) | [Maraschino Cherry](https://open.spotify.com/album/0PR1ouGbo2S9AZxFnIHaK2) | 2:50 | 2023-09-15 |  |
 | [Marbella Sun](https://open.spotify.com/track/4RiHR70ysOr82n2d5cAq8q) | [Marzell Paris](https://open.spotify.com/artist/7qzHrRTMwAhRARXZ2v0rwc) | [Marbella Sun](https://open.spotify.com/album/28Pm0uMfRZyKcaXhI2SynC) | 3:44 | 2022-04-05 | 2022-10-07 |
@@ -240,6 +243,7 @@
 | [misty mind](https://open.spotify.com/track/102zs3avhOThDCgsnHfJ6q) | [kilowattz](https://open.spotify.com/artist/6Bs4E2TGDPdl77feKWHpiN) | [misty mind](https://open.spotify.com/album/0s05LnnEMwRsijxcg3nClv) | 2:23 | 2022-08-19 |  |
 | [Moon](https://open.spotify.com/track/7bLbcnwdltIa6i1ebLAQlb) | [Safe Tock](https://open.spotify.com/artist/2Wz1Gs5fSAP2v31hzx113t) | [Moon](https://open.spotify.com/album/3M46ScNsRcUadJs8j5qajr) | 2:56 | 2022-04-05 |  |
 | [Mope Amok](https://open.spotify.com/track/0xHzmGyVRvzhFzD4Tofgm6) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Mope Amok](https://open.spotify.com/album/6yHghkwnaz76HRsPzPY9uz) | 3:17 | 2022-04-05 |  |
+| [Morning Breeze](https://open.spotify.com/track/5mvApCKNT9vTMqtmVnutvi) | [Ali Neroli](https://open.spotify.com/artist/5peHVLddUJr3XzqnlypxZR) | [Morning Breeze](https://open.spotify.com/album/0rJWoRBZJB3hOXS8kycq8o) | 2:32 | 2024-03-04 |  |
 | [Morning Glory](https://open.spotify.com/track/1p9F3GkrCNZDnR0hro4m8d) | [SunZunSun](https://open.spotify.com/artist/5SKcOlTnoLFO3fKYCnLRWN) | [The Best II](https://open.spotify.com/album/55v7tN175TJKDdbmzbriGh) | 2:46 | 2023-01-13 |  |
 | [mountain](https://open.spotify.com/track/2ESkSYaMnGAUy8gDba6Yg5) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Spring / Mountain](https://open.spotify.com/album/4FuF8OKCgjUFDV3OdEbus9) | 1:54 | 2022-10-28 | 2023-03-30 |
 | [mountain](https://open.spotify.com/track/3uZy1y9JuMAGTtBwCqKMt1) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Spring / Mountain](https://open.spotify.com/album/1WsIywiW8a84ekqfvcsMot) | 1:54 | 2022-07-29 | 2022-11-20 |
@@ -342,6 +346,7 @@
 | [Sleep & Pluck](https://open.spotify.com/track/5PDibz01bDnKUlVd7VhNpE) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Sunlifter](https://open.spotify.com/album/21NSh7NcKTP3LVFXeGAfUA) | 2:56 | 2022-10-28 | 2023-09-02 |
 | [Slippery Slope](https://open.spotify.com/track/5UhbQmKfFcI9EdxliAxntg) | [Mountainberg](https://open.spotify.com/artist/6m9A8ej6yJ1VJrcb30bHlJ) | [Slippery Slope](https://open.spotify.com/album/4QaMWNmQ5MF7PqmR9TpyXO) | 2:31 | 2022-04-05 | 2022-07-22 |
 | [Slow Rain](https://open.spotify.com/track/1edBi0eW1gqWWATbHrLJ0Q) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [It's all clear now](https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA) | 3:50 | 2022-04-05 | 2022-07-29 |
+| [slowly](https://open.spotify.com/track/0QEuW7A76GbRL5RDochQUb) | [sugar namnam](https://open.spotify.com/artist/0ik5AyIo0Nqj2u3LlEuvy3) | [slowly](https://open.spotify.com/album/1hOGllN13WiFC74pmkSNG9) | 2:31 | 2024-03-04 |  |
 | [Small Victorys](https://open.spotify.com/track/4WIG3yl5UjG4kuNXs5TgjU) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Small Victorys](https://open.spotify.com/album/0AM6t62WdQ0KAoQfi3We23) | 2:51 | 2023-01-20 |  |
 | [Snowmen's League](https://open.spotify.com/track/25dn9ZZrJ6WaaCMT52rmjS) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Snowmen's League](https://open.spotify.com/album/1U0mKoD2UlOeIz1Kiwn92U) | 3:16 | 2022-10-07 | 2023-09-02 |
 | [soaked up](https://open.spotify.com/track/7uJm5b3FwhvXSAhNCht3Ma) | [metricity](https://open.spotify.com/artist/3GyvrTet9xaits2vMSrVlT) | [soaked up](https://open.spotify.com/album/5cWvZvvqzz6SwVU7MEGk56) | 2:41 | 2023-01-06 |  |
@@ -426,6 +431,7 @@
 | [Yesterday's Dream](https://open.spotify.com/track/3eb9HO1cq8uzEmUdU7mNvs) | [Catalina En Collins](https://open.spotify.com/artist/6oaPME8tL5UOyja7VEvx0J) | [Yesterday's Dream](https://open.spotify.com/album/0ebm4T6CGvYIIharGfIftv) | 2:31 | 2022-04-05 |  |
 | [Yin Yan Tonic](https://open.spotify.com/track/3YdhEnt94pDDzwZheiJdJ3) | [Son\-us](https://open.spotify.com/artist/7IVjn6HqeD4DGearUhx5YY) | [Yin Yan Tonic](https://open.spotify.com/album/2cGFqAL2ttK8IrsC3s7n3U) | 2:50 | 2022-08-05 |  |
 | [You And Me](https://open.spotify.com/track/5PH5RpGQSZ6MXIjXU6cDDH) | [Together Alone](https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY) | [You And Me](https://open.spotify.com/album/4iSdUBzwz89hXwCARSD7my) | 2:28 | 2022-08-05 |  |
+| [You’re sayin what?](https://open.spotify.com/track/5UyuoJjcFOUVpHSXwgZ74L) | [Trausch](https://open.spotify.com/artist/5SmNLY6rv1DodiaaM3e6Mx) | [You’re sayin what?](https://open.spotify.com/album/0pztZ0pi3zjW3HJbNSPNfO) | 3:16 | 2024-03-04 |  |
 | [Zebrawood](https://open.spotify.com/track/4p58sKPMoUqR0bzca3TgVm) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Zebrawood](https://open.spotify.com/album/4dWOHUf6hyWQRa9S7WZwk7) | 3:35 | 2022-04-05 | 2022-06-10 |
 
 \*This playlist was first scraped on 2022-04-09. Prior content cannot be recovered.

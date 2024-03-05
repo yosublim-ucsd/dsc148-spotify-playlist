@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04caZO.md) - [plain]
 
 > This is The Strokes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,025 likes - 41 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,137 likes - 41 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04caZO.md) - [plain]
 | 7 | [Someday](https://open.spotify.com/track/56NkIxSZZiMpFP5ZNSxtnT) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5) | 3:03 |
 | 8 | [Call It Fate, Call It Karma](https://open.spotify.com/track/3Y4rUyw7XBCK6hGHCOt6rp) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 3:24 |
 | 9 | [Under Cover of Darkness](https://open.spotify.com/track/6u0x5ad9ewHvs3z6u9Oe3c) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 3:55 |
-| 10 | [Heart In a Cage](https://open.spotify.com/track/3mYCd23hPxJW5okSvMoy3x) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 3:26 |
-| 11 | [What Ever Happened?](https://open.spotify.com/track/78Gzxi27GuNHTfkn2BylG4) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 2:49 |
+| 10 | [What Ever Happened?](https://open.spotify.com/track/78Gzxi27GuNHTfkn2BylG4) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 2:49 |
+| 11 | [Heart In a Cage](https://open.spotify.com/track/3mYCd23hPxJW5okSvMoy3x) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 3:26 |
 | 12 | [Ode To The Mets](https://open.spotify.com/track/1BLOVHYYlH4JUHQGcpt75R) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 5:51 |
 | 13 | [Machu Picchu](https://open.spotify.com/track/6mVD1SfTvlFAPVi7txFL5H) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 3:29 |
 | 14 | [Hard To Explain](https://open.spotify.com/track/2LMloFiV7DHpBhITOaBSam) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5) | 3:44 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04caZO.md) - [plain]
 | 28 | [Razorblade](https://open.spotify.com/track/4UF1eupXP9Zz5GpYepyOxI) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 3:28 |
 | 29 | [I Can't Win](https://open.spotify.com/track/7eX5SypK35V8Y9d9pS6rWy) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 2:42 |
 | 30 | [Chances](https://open.spotify.com/track/718purgMpFb2Axhuz0Hbq1) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 3:36 |
-| 31 | [Oblivius](https://open.spotify.com/track/6y4ySPeb68KGoAi1dk130F) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Future Present Past](https://open.spotify.com/album/1SQjs5LxCj7J5WIZYg3h1D) | 4:59 |
-| 32 | [I'll Try Anything Once \("You Only Live Once" demo\) \- Heart In a Cage B\-Side](https://open.spotify.com/track/1L0C3xvOtzHSOSZ5T59n0L) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The Singles \- Volume 01](https://open.spotify.com/album/2j5jqlI0NvqlXAy9C740pZ) | 3:14 |
+| 31 | [I'll Try Anything Once \("You Only Live Once" demo\) \- Heart In a Cage B\-Side](https://open.spotify.com/track/1L0C3xvOtzHSOSZ5T59n0L) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The Singles \- Volume 01](https://open.spotify.com/album/2j5jqlI0NvqlXAy9C740pZ) | 3:14 |
+| 32 | [Oblivius](https://open.spotify.com/track/6y4ySPeb68KGoAi1dk130F) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Future Present Past](https://open.spotify.com/album/1SQjs5LxCj7J5WIZYg3h1D) | 4:59 |
 | 33 | [Life Is Simple in the Moonlight](https://open.spotify.com/track/4ileLT7ldd2uX8bMemWqbm) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 4:15 |
 | 34 | [Tap Out](https://open.spotify.com/track/2ThdB23G9Rgf1ExndFGEEg) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 3:42 |
 | 35 | [Red Light](https://open.spotify.com/track/6KXuDNOwiNR0q7KLGXs3Bo) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 3:11 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04caZO.md) - [plain]
 | 40 | [Hawaii \- Juicebox B\-Side](https://open.spotify.com/track/6s9oj6aPupVSA1CSaaVZZL) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The Singles \- Volume 01](https://open.spotify.com/album/2j5jqlI0NvqlXAy9C740pZ) | 3:52 |
 | 41 | [Call Me Back](https://open.spotify.com/track/6z5mh42xSM54RncKZMM8hS) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 3:02 |
 
-Snapshot ID: `Mjg0OTExMzgsMDAwMDAwMDA4MTgzOWFlY2U0NjU3NWRjZGRjZmI0OTRmZjNjOWRjNw==`
+Snapshot ID: `Mjg0OTI1NjksMDAwMDAwMDA4MzFmZWUzOTQ1YTRmYzJlOGIyMmEyOTRkMGRmNDVhYg==`

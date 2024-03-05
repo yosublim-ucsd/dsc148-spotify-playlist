@@ -1119,6 +1119,24 @@
     },
     {
       "album": {
+        "name": "Cherokee",
+        "url": "https://open.spotify.com/album/5tlafy4PFxdDv5vxuXNlDR"
+      },
+      "artists": [
+        {
+          "name": "Andy Luma",
+          "url": "https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143869,
+      "name": "Love For Sale",
+      "url": "https://open.spotify.com/track/3lW5Ck2tvHZPQwOWEF0GF8"
+    },
+    {
+      "album": {
         "name": "L\u2019herbe verte",
         "url": "https://open.spotify.com/album/5rPSm5zRMNh2iDrcWY0QAI"
       },
@@ -1436,7 +1454,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 183659,
       "name": "Patience",
       "url": "https://open.spotify.com/track/013eYaVKpTVsX41dEPSFt8"
@@ -1757,6 +1775,24 @@
     },
     {
       "album": {
+        "name": "Star Eyes",
+        "url": "https://open.spotify.com/album/3jGRLCp4Ix9ZCICt5Aey6I"
+      },
+      "artists": [
+        {
+          "name": "Angel Gregoire",
+          "url": "https://open.spotify.com/artist/68NEUYAM0BKrdgENaJ8wlF"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220964,
+      "name": "Star Eyes",
+      "url": "https://open.spotify.com/track/0uY4n9q4ViY6ijBNvzVx1Z"
+    },
+    {
+      "album": {
         "name": "Stella's lullaby",
         "url": "https://open.spotify.com/album/4Meb2u6sPmMfTHChqtN4M1"
       },
@@ -1772,6 +1808,24 @@
       "duration_ms": 145874,
       "name": "Stella's lullaby",
       "url": "https://open.spotify.com/track/01A0U3qOAyfbSfTVP0B0N4"
+    },
+    {
+      "album": {
+        "name": "Still in Love With You",
+        "url": "https://open.spotify.com/album/7a5LKBZ7B5093OFghLDbic"
+      },
+      "artists": [
+        {
+          "name": "Angelina Winter",
+          "url": "https://open.spotify.com/artist/59hnRNabyJTGrtAmliJFEl"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156125,
+      "name": "Still in Love With You",
+      "url": "https://open.spotify.com/track/0ih8Jf1BQ3TpVHiPKW9WTZ"
     },
     {
       "album": {
@@ -1898,7 +1952,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 183686,
       "name": "The Giant",
       "url": "https://open.spotify.com/track/2TOQzMaEqVVhdeheBVLOMm"
@@ -2132,7 +2186,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 127750,
       "name": "What if we never met",
       "url": "https://open.spotify.com/track/3yZ9BRpkgqJYtTbz9WZy9j"

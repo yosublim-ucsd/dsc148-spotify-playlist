@@ -1,12 +1,12 @@
 {
   "description": "Emerging sounds in worship from everywhere.",
-  "num_followers": 121926,
+  "num_followers": 122013,
   "original_name": "New & Bold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmMyMmRiNThhOWRjMWNiYWNjMTY3ZGQxYTQyOGFmOGE1NjhiNDE0",
+  "snapshot_id": "MCw0OTNmOWJkYWE3ZjYwZWI2MTAyZTQ3MTAxNjNmZmViZjUyMzdhYjk3",
   "tracks": [
     {
       "added_at": "2021-06-12 04:00:40",
@@ -835,6 +835,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Fire in My Bones",
+        "url": "https://open.spotify.com/album/0zYrhn7yJQLoJfs4x9fcvy"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Fire in My Bones",
+      "url": "https://open.spotify.com/track/7qWU0OsTG0JBlnCmWZe1vY"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Behold Him (feat. Kim Walker-Smith)",
         "url": "https://open.spotify.com/album/2hXOYMsF8fyrzR68hy6b2W"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 268360,
       "name": "Shiloh",
       "url": "https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Fire in My Bones",
-        "url": "https://open.spotify.com/album/0zYrhn7yJQLoJfs4x9fcvy"
-      },
-      "artists": [
-        {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Fire in My Bones",
-      "url": "https://open.spotify.com/track/7qWU0OsTG0JBlnCmWZe1vY"
     },
     {
       "added_at": "2021-06-12 04:00:40",

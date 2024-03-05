@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8Xx03D65RT.md) - [plain]
 
 > La sutileza del piano para enriquecer tu espacio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,102 likes - 250 songs - 10 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,089 likes - 250 songs - 10 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8Xx03D65RT.md) - [plain]
 | 39 | [Mélange Weaved](https://open.spotify.com/track/4xmr3ICJGqZFJAOTWWo5ZV) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Mélange Weaved](https://open.spotify.com/album/1h991c5WZCjEVDxBsdF8Rq) | 2:06 |
 | 40 | [somewhere else, together](https://open.spotify.com/track/4Pl37bufUvxJOhLJIfLCcl) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [somewhere else, together](https://open.spotify.com/album/1qLrUd6oXUZoNGZAVY8mDX) | 3:09 |
 | 41 | [There Is Light](https://open.spotify.com/track/4ZdgNKRy8OJcuUEAfErHfZ) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [There Is Light](https://open.spotify.com/album/6AcZrFuuDEO6AJAOTNM6Jg) | 2:58 |
-| 42 | [Across the Currents](https://open.spotify.com/track/3s3XZbyompgwb7NXKKKsH8) | [Cai Harrington](https://open.spotify.com/artist/1Uf7osa9yPgNWu1JrAU3Iu) | [Across the Currents](https://open.spotify.com/album/1UhCCqxjYG9UmeaQTFYQvz) | 2:03 |
-| 43 | [Skies Seducing The Clouds](https://open.spotify.com/track/3i1rbYtU8ktIHUIKH1pLKY) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [Skies Seducing The Clouds](https://open.spotify.com/album/23PlxuVtE2wxYC8NhFkZFU) | 2:14 |
-| 44 | [The little princess](https://open.spotify.com/track/2TD0iYRp8fH3okp5vOAOi2) | [Juno Erikson](https://open.spotify.com/artist/7I6yDSz0uj0fzj28dGELNC) | [The little princess](https://open.spotify.com/album/6MzCfFeBDf9Ci669LpjrCF) | 2:05 |
-| 45 | [Smile in the wind](https://open.spotify.com/track/1qb6AsW7Y4kXTQpExCW2xm) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Smile in the wind](https://open.spotify.com/album/0uQE309NUZTFs9jfLV4KSp) | 2:05 |
+| 42 | [Smile in the wind](https://open.spotify.com/track/1qb6AsW7Y4kXTQpExCW2xm) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Smile in the wind](https://open.spotify.com/album/0uQE309NUZTFs9jfLV4KSp) | 2:05 |
+| 43 | [Across the Currents](https://open.spotify.com/track/3s3XZbyompgwb7NXKKKsH8) | [Cai Harrington](https://open.spotify.com/artist/1Uf7osa9yPgNWu1JrAU3Iu) | [Across the Currents](https://open.spotify.com/album/1UhCCqxjYG9UmeaQTFYQvz) | 2:03 |
+| 44 | [Skies Seducing The Clouds](https://open.spotify.com/track/3i1rbYtU8ktIHUIKH1pLKY) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [Skies Seducing The Clouds](https://open.spotify.com/album/23PlxuVtE2wxYC8NhFkZFU) | 2:14 |
+| 45 | [The little princess](https://open.spotify.com/track/2TD0iYRp8fH3okp5vOAOi2) | [Juno Erikson](https://open.spotify.com/artist/7I6yDSz0uj0fzj28dGELNC) | [The little princess](https://open.spotify.com/album/6MzCfFeBDf9Ci669LpjrCF) | 2:05 |
 | 46 | [Underwater](https://open.spotify.com/track/0cUVh5ofEVsK3IiGS4Flii) | [Carmelito](https://open.spotify.com/artist/7GDVEcdwoNfZlN6sRYrjwZ) | [Underwater](https://open.spotify.com/album/3OfYsWc5jgdwmYZuQwzn6E) | 2:02 |
 | 47 | [Tranquil Landscape](https://open.spotify.com/track/6oODbMYfHjqWHTZp3wMheG) | [Ametrine Skies](https://open.spotify.com/artist/40vrF4Xbk1GAxqnIRdyrKs) | [Tranquil Landscape](https://open.spotify.com/album/2Ki1eCrONyJr7GPJdoC9ta) | 3:07 |
 | 48 | [Along Came You](https://open.spotify.com/track/6S89pQkAuxmU1MFUHIWuzE) | [Michael Lavigne](https://open.spotify.com/artist/1WzXXEpMoYGcwJbHPCUeXH) | [Along Came You](https://open.spotify.com/album/4W1QLtlQHhRDMlsIlANNf9) | 2:10 |
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8Xx03D65RT.md) - [plain]
 | 249 | [A House Remembered](https://open.spotify.com/track/4KROMXtKf53YcpITKEKjQm) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [A House Remembered](https://open.spotify.com/album/0VL9NPauqvBmn87N3kcYzE) | 2:41 |
 | 250 | [Sinking](https://open.spotify.com/track/2tMIlCle6lIekbKOBtKxaT) | [Matthew Avery](https://open.spotify.com/artist/3dAAhnH2R2Dd2bgZiqSlkR) | [Sinking](https://open.spotify.com/album/0VTQ7zwNJ0SrBddcVHsGZa) | 2:39 |
 
-Snapshot ID: `MCwyOTFjYmM3MzYyZWI1NTk3MWE1OTI1MThkMTIxZmY4OTYxZWQzMzVh`
+Snapshot ID: `MCw3NDYxYjUwYTg3YjM4MmQ2NjU2YTk1YjdmNzM5ZDU3Mjc4ZTAwNGY0`

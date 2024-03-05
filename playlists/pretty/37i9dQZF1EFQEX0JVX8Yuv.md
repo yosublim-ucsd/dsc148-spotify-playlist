@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQEX0JVX8Yuv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6z0YyO7RUp5t7ZwkGKApUK">Kim Petras</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,384 likes - 106 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,383 likes - 106 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQEX0JVX8Yuv.md) - [plain]
 | 91 | [Get Fucked](https://open.spotify.com/track/2yqh9BquncVdf7p40SiMwe) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop Miami](https://open.spotify.com/album/32hFJhRyYyZF2e3JRkE0bK) | 2:07 |
 | 92 | [Something About U](https://open.spotify.com/track/0tjcprSHFM5YRuOUXVXtNT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Problématique](https://open.spotify.com/album/4jNUzWbnKjO05E4VtLCHth) | 3:01 |
 | 93 | [Deeper](https://open.spotify.com/track/1gL6hgpNACDSXQbuLrYySn) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Problématique](https://open.spotify.com/album/4jNUzWbnKjO05E4VtLCHth) | 2:56 |
-| 94 | [Love Ya Leave Ya](https://open.spotify.com/track/0wxoMdXupqx7khTzmOB0Uh) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Problématique](https://open.spotify.com/album/4jNUzWbnKjO05E4VtLCHth) | 2:26 |
-| 95 | [Cockblocker](https://open.spotify.com/track/7uUVoeU594e9hCtHyHx9oX) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop Miami](https://open.spotify.com/album/32hFJhRyYyZF2e3JRkE0bK) | 2:28 |
+| 94 | [Cockblocker](https://open.spotify.com/track/7uUVoeU594e9hCtHyHx9oX) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop Miami](https://open.spotify.com/album/32hFJhRyYyZF2e3JRkE0bK) | 2:28 |
+| 95 | [Love Ya Leave Ya](https://open.spotify.com/track/0wxoMdXupqx7khTzmOB0Uh) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Problématique](https://open.spotify.com/album/4jNUzWbnKjO05E4VtLCHth) | 2:26 |
 | 96 | [Banana Boat](https://open.spotify.com/track/4qJcvEyE1fXcNPAMtvI8Gy) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop Miami](https://open.spotify.com/album/32hFJhRyYyZF2e3JRkE0bK) | 2:21 |
 | 97 | [Butt Slutt](https://open.spotify.com/track/6JGD3WQC5t8qTCiySPESKl) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop Miami](https://open.spotify.com/album/32hFJhRyYyZF2e3JRkE0bK) | 1:32 |
 | 98 | [Heartbeat \- Original Mix](https://open.spotify.com/track/7IxdBPYV0foP6Hr0tpQMAH) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Heartbeat](https://open.spotify.com/album/5kKROk68SN3T8L2VAzsjXq) | 6:04 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQEX0JVX8Yuv.md) - [plain]
 | 105 | [That's What's Up](https://open.spotify.com/track/1hGKDzYbd9lHbhD50y0nnj) | [Skylar Simone](https://open.spotify.com/artist/4Xt0mNxZEZWjgJwsZKDuvQ) | [This Is Me \(Signature Edition\)](https://open.spotify.com/album/6wDQvIx1HJYBX8IBRGysOR) | 2:59 |
 | 106 | [Eintausend Teile](https://open.spotify.com/track/1tvEuaJGDFnERVynxzuRp6) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Eintausend Teile](https://open.spotify.com/album/7Itq48oKL1MTHG2hLud7bc) | 2:23 |
 
-Snapshot ID: `Mjg0OTE5NzAsMDAwMDAwMDAyNDI4ZjQ4ZWQ3M2UxZjhhZjZmNGE4NDlhMmRiZTk3ZA==`
+Snapshot ID: `Mjg0OTM0MTAsMDAwMDAwMDBkYTU0Nzg0ZGQ3YmU5ZDMyOGZiYjgyZDRlOWZhOTIwYw==`

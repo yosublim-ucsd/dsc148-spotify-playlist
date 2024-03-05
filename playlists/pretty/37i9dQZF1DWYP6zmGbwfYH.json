@@ -1,12 +1,12 @@
 {
   "description": "El icuiricui, el matalacachimba y el ruletero.",
-  "num_followers": 264193,
+  "num_followers": 264293,
   "original_name": "Ruleteando",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODcwNTQ4YjQyNTk1YzVhODg0Yjk0NjQ4NGRmYjgyNmJjOGU3OWE5",
+  "snapshot_id": "MCxlYzk2NmQ2ZGE1NzA0YjkxYTYyNGRjNDI1NThmMzEzNWM1YjAyYWIz",
   "tracks": [
     {
       "added_at": "2024-01-26 16:36:06",
@@ -147,22 +147,6 @@
     {
       "added_at": "2024-01-26 16:36:06",
       "album": {
-        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 237080,
-      "name": "Ojos Verdes",
-      "url": "https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1"
-    },
-    {
-      "added_at": "2024-01-26 16:36:06",
-      "album": {
         "name": "Que Bendici\u00f3n",
         "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 176800,
       "name": "Me Vas a Extra\u00f1ar",
       "url": "https://open.spotify.com/track/2yS8aYWXEWJ1NlZ7VPDroT"
+    },
+    {
+      "added_at": "2024-01-26 16:36:06",
+      "album": {
+        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 237080,
+      "name": "Ojos Verdes",
+      "url": "https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1"
     },
     {
       "added_at": "2024-01-26 16:36:06",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-01-26 16:36:06",
       "album": {
-        "name": "Me Gusta Vivir De Noche",
-        "url": "https://open.spotify.com/album/3g3iZ2Zpx2KvqOVV3VFYdd"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 164466,
-      "name": "El Amor So\u00f1ado",
-      "url": "https://open.spotify.com/track/587p8shYuTXUhThG3t9x60"
-    },
-    {
-      "added_at": "2024-01-26 16:36:06",
-      "album": {
         "name": "Ens\u00e9\u00f1ame",
         "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 248560,
       "name": "Acepto Mi Derrota",
       "url": "https://open.spotify.com/track/3FKDvQRZImg9cl1jcaQiHX"
+    },
+    {
+      "added_at": "2024-01-26 16:36:06",
+      "album": {
+        "name": "Me Gusta Vivir De Noche",
+        "url": "https://open.spotify.com/album/3g3iZ2Zpx2KvqOVV3VFYdd"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 164466,
+      "name": "El Amor So\u00f1ado",
+      "url": "https://open.spotify.com/track/587p8shYuTXUhThG3t9x60"
     },
     {
       "added_at": "2024-01-26 16:36:06",
@@ -503,6 +503,22 @@
     {
       "added_at": "2024-01-26 16:36:06",
       "album": {
+        "name": "Me Volvi A Acordar De Ti",
+        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 212226,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ"
+    },
+    {
+      "added_at": "2024-01-26 16:36:06",
+      "album": {
         "name": "Ll\u00e9vame Contigo",
         "url": "https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 237640,
       "name": "Terrenal",
       "url": "https://open.spotify.com/track/1Uy7p71RYE0uRvA6Kirr3O"
-    },
-    {
-      "added_at": "2024-01-26 16:36:06",
-      "album": {
-        "name": "Me Volvi A Acordar De Ti",
-        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 212226,
-      "name": "Tu C\u00e1rcel",
-      "url": "https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ"
     },
     {
       "added_at": "2024-01-26 16:36:06",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-01-26 16:36:06",
       "album": {
+        "name": "Directo Al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6w4hod1ifRryFs208eKPLe"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        }
+      ],
+      "duration_ms": 280120,
+      "name": "Ese Loco Soy Yo",
+      "url": "https://open.spotify.com/track/0J0zz9v1hRXQXQ2rJLgKq1"
+    },
+    {
+      "added_at": "2024-01-26 16:36:06",
+      "album": {
         "name": "Pasi\u00f3n Y Cumbia",
         "url": "https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 234945,
       "name": "Suavemente Amor",
       "url": "https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW"
-    },
-    {
-      "added_at": "2024-01-26 16:36:06",
-      "album": {
-        "name": "Directo Al Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6w4hod1ifRryFs208eKPLe"
-      },
-      "artists": [
-        {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
-        }
-      ],
-      "duration_ms": 280120,
-      "name": "Ese Loco Soy Yo",
-      "url": "https://open.spotify.com/track/0J0zz9v1hRXQXQ2rJLgKq1"
     },
     {
       "added_at": "2024-01-26 16:36:06",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2024-01-26 16:36:06",
       "album": {
+        "name": "Enamorado De Un Fantasma",
+        "url": "https://open.spotify.com/album/4XX1NXGCEwomxl6cYRcW2d"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        }
+      ],
+      "duration_ms": 269466,
+      "name": "Enamorado De Un Fantasma",
+      "url": "https://open.spotify.com/track/47zLjYjuaWunbmMrn6jLLj"
+    },
+    {
+      "added_at": "2024-01-26 16:36:06",
+      "album": {
         "name": "Puras Rom\u00e1nticas",
         "url": "https://open.spotify.com/album/22G9x42HPowUEACL8QxuAD"
       },
@@ -1251,6 +1267,22 @@
     {
       "added_at": "2024-01-26 16:36:06",
       "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 207226,
+      "name": "Eres Mi Droga",
+      "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"
+    },
+    {
+      "added_at": "2024-01-26 16:36:06",
+      "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
       },
@@ -1263,22 +1295,6 @@
       "duration_ms": 217586,
       "name": "Que Te Vaya Bien",
       "url": "https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck"
-    },
-    {
-      "added_at": "2024-01-26 16:36:06",
-      "album": {
-        "name": "Enamorado De Un Fantasma",
-        "url": "https://open.spotify.com/album/4XX1NXGCEwomxl6cYRcW2d"
-      },
-      "artists": [
-        {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
-        }
-      ],
-      "duration_ms": 269466,
-      "name": "Enamorado De Un Fantasma",
-      "url": "https://open.spotify.com/track/47zLjYjuaWunbmMrn6jLLj"
     },
     {
       "added_at": "2024-01-26 16:36:06",
@@ -1311,22 +1327,6 @@
       "duration_ms": 217521,
       "name": "Feliz Feliz",
       "url": "https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI"
-    },
-    {
-      "added_at": "2024-01-26 16:36:06",
-      "album": {
-        "name": "IV",
-        "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 207226,
-      "name": "Eres Mi Droga",
-      "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"
     },
     {
       "added_at": "2024-01-26 16:36:06",
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2024-01-26 16:36:06",
       "album": {
-        "name": "Volver\u00e9 A Conquistarte",
-        "url": "https://open.spotify.com/album/691ZR6kaZeK4JS4tQGPuQf"
-      },
-      "artists": [
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        },
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 236533,
-      "name": "Pero Te Vas A Arrepentir",
-      "url": "https://open.spotify.com/track/7fUuC299Gjpe7gkW3pBbZp"
-    },
-    {
-      "added_at": "2024-01-26 16:36:06",
-      "album": {
         "name": "Las Locuras M\u00edas",
         "url": "https://open.spotify.com/album/3MW5j5axtRffiCqv01Sz0P"
       },
@@ -1607,6 +1587,26 @@
       "duration_ms": 209770,
       "name": "El Peor De Tus Antojos",
       "url": "https://open.spotify.com/track/4MFs5bLy5EN32UKhongd7M"
+    },
+    {
+      "added_at": "2024-01-26 16:36:06",
+      "album": {
+        "name": "Volver\u00e9 A Conquistarte",
+        "url": "https://open.spotify.com/album/691ZR6kaZeK4JS4tQGPuQf"
+      },
+      "artists": [
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 236533,
+      "name": "Pero Te Vas A Arrepentir",
+      "url": "https://open.spotify.com/track/7fUuC299Gjpe7gkW3pBbZp"
     },
     {
       "added_at": "2024-01-26 16:36:06",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2024-01-26 16:36:06",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/352LrVMlDficyblK9e7Olr"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        }
-      ],
-      "duration_ms": 210932,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG"
-    },
-    {
-      "added_at": "2024-01-26 16:36:06",
-      "album": {
         "name": "25 Exitos Vol. 1 (USA)",
         "url": "https://open.spotify.com/album/0dgNt6D4pz86nn0ZTRYoVQ"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 190173,
       "name": "Tonta",
       "url": "https://open.spotify.com/track/1A1yn53ZypVPUcV4W54j8A"
+    },
+    {
+      "added_at": "2024-01-26 16:36:06",
+      "album": {
+        "name": "El Original Y Unico",
+        "url": "https://open.spotify.com/album/3NQKRb5mnuZfLZ7VxiKWgU"
+      },
+      "artists": [
+        {
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+        }
+      ],
+      "duration_ms": 376733,
+      "name": "Quiero Morir En Tu Piel",
+      "url": "https://open.spotify.com/track/0nBFB85JVZyd4I9xc4Wldz"
     }
   ],
   "unique_name": "Ruleteando",

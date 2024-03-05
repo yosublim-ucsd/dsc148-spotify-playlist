@@ -1,6 +1,6 @@
 {
   "description": "Stay current with the latest indie-alt tracks.",
-  "num_followers": 28176,
+  "num_followers": 28174,
   "original_name": "Hipster Radar",
   "owner": {
     "name": "Filtr Canada\t",
@@ -130,6 +130,10 @@
         {
           "name": "Gesaffelstein",
           "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        },
+        {
+          "name": "Yan Wagner",
+          "url": "https://open.spotify.com/artist/7JLtS4ASAUsAYrsShMerMc"
         }
       ],
       "duration_ms": 170466,

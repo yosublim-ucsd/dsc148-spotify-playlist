@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rApNf.md) - [plain]
 
 > This is Mau y Ricky\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,972 likes - 51 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,982 likes - 51 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rApNf.md) - [plain]
 | 50 | [OUCH](https://open.spotify.com/track/0mfBEZtTbXZY1o7zolRRun) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [rifresh](https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24) | 2:17 |
 | 51 | [Dile la Verdad \- Remix](https://open.spotify.com/track/3gQGLy3mCqqEPEsPz75eqB) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [The Rudeboys](https://open.spotify.com/artist/5SWbTXQp3MFrjmCDOq5cA2) | [Dile la Verdad Remix](https://open.spotify.com/album/4XMyJjGCM7MHYkum3r57qt) | 4:35 |
 
-Snapshot ID: `Mjg0OTExMzksMDAwMDAwMDA4YWI5NjBiYzJmNmM1NzExMWYzYTQ2OGYwYjYzYmI3Yg==`
+Snapshot ID: `Mjg0OTI1NjksMDAwMDAwMDBhYTFhMzFjOWY2ZTliNWE2YjhhNzViNGU3NTI2MjIyNQ==`

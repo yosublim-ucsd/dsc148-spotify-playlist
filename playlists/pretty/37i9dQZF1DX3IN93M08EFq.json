@@ -1,12 +1,12 @@
 {
   "description": "Din egen indieklubb! Garanterad dans, dans, dans. #spelashoreline",
-  "num_followers": 62701,
+  "num_followers": 62704,
   "original_name": "Spela Shoreline!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4NjkxODI3NCwwMDAwMDAwMDY5NDA3YTljZDdkY2NjZTc4ZTMwNzkyNGFkMjllOWFh",
+  "snapshot_id": "MCwxYWM0YjBmZGJkOGIwNjI3ZjEzMjdlMDBmNmM0NWYxMTZiZDhlNTkx",
   "tracks": [
     {
       "added_at": "2021-06-15 09:25:05",
@@ -155,6 +155,22 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 302840,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
         "name": "Whatever People Say I Am, That's What I'm Not",
         "url": "https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 208453,
       "name": "Love Will Tear Us Apart - 2020 Remaster",
       "url": "https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 302840,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
     },
     {
       "added_at": "2021-06-15 09:25:05",

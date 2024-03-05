@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68q3IjJ17gHA7r9NdijiUU.md) - [plain]
 
 > Finally, the perfect road trip playlist is here\. Sing along to these classics and new hits, and discover new favorites! <a href="https://lnk.to/EndOfYearSaleOS">All these hits available to buy on vinyl here!</a>
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 314,702 likes - 100 songs - 6 hr 28 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 314,686 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/68q3IjJ17gHA7r9NdijiUU.md) - [plain]
 | 99 | [Walking On Sunshine](https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Katrina & The Waves](https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7) | 3:58 |
 | 100 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 |
 
-Snapshot ID: `MTY5Myw5ZTlmMzU5NzI5MjMwZjRiMTBjMmEwNTg0NjljYTk2MjYxYmZkMzgz`
+Snapshot ID: `MTY5NCxiNTIyODY3MDk4ZDgwMjdhYjM2YjFkODFlYzk4YmVmMzU3ZjUyMzFi`

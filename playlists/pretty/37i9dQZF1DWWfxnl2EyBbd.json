@@ -1,12 +1,12 @@
 {
   "description": "The soft sound of a Jazz piano trio to help you relax and unwind.",
-  "num_followers": 76598,
+  "num_followers": 76652,
   "original_name": "Relaxing Jazz Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWE1NTU1ODBkOWI2YTY3MWY5ZjYzZmFlYjEzN2IzNGRhZDAyZDVk",
+  "snapshot_id": "MCw0MGYzOTE4NDVkMzgzZWFjNWE5ZTlkZWRiOTc2ZGU5YTNkYmFmYzUy",
   "tracks": [
     {
       "added_at": "2024-02-23 00:01:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Love To Be Happy",
-        "url": "https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60"
-      },
-      "artists": [
-        {
-          "name": "Magpie Jazz Trio",
-          "url": "https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf"
-        }
-      ],
-      "duration_ms": 195276,
-      "name": "Love To Be Happy",
-      "url": "https://open.spotify.com/track/3wMe1lySKxJeH9iMWXDqgx"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "The yellow note",
         "url": "https://open.spotify.com/album/689a9eXhWGcqco8ZNUH8bD"
       },
@@ -475,6 +459,22 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
+        "name": "Love To Be Happy",
+        "url": "https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60"
+      },
+      "artists": [
+        {
+          "name": "Magpie Jazz Trio",
+          "url": "https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf"
+        }
+      ],
+      "duration_ms": 195276,
+      "name": "Love To Be Happy",
+      "url": "https://open.spotify.com/track/3wMe1lySKxJeH9iMWXDqgx"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
         "name": "Vine Street",
         "url": "https://open.spotify.com/album/01zZ8pxxgCzAG2ETwIojD1"
       },
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Maze of Tranquility",
-        "url": "https://open.spotify.com/album/3xOT2GRM03MGNTRMQFSPZS"
-      },
-      "artists": [
-        {
-          "name": "Martin Landstr\u00f6m",
-          "url": "https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN"
-        }
-      ],
-      "duration_ms": 262707,
-      "name": "Maze of Tranquility",
-      "url": "https://open.spotify.com/track/06henIQqvVk2vAKj1yQtTp"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Maiden Voyage",
         "url": "https://open.spotify.com/album/21MJ5rAzKnQ4mSdrvbeuC4"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 198701,
       "name": "Winchester In Apple Blossom Time",
       "url": "https://open.spotify.com/track/6S6bbgUm80TdelwOPf0dsR"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Maze of Tranquility",
+        "url": "https://open.spotify.com/album/3xOT2GRM03MGNTRMQFSPZS"
+      },
+      "artists": [
+        {
+          "name": "Martin Landstr\u00f6m",
+          "url": "https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN"
+        }
+      ],
+      "duration_ms": 262707,
+      "name": "Maze of Tranquility",
+      "url": "https://open.spotify.com/track/06henIQqvVk2vAKj1yQtTp"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Obliqua",
-        "url": "https://open.spotify.com/album/7wIe87avpXR4ROh0HktLIX"
-      },
-      "artists": [
-        {
-          "name": "Bladverk Band",
-          "url": "https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65"
-        }
-      ],
-      "duration_ms": 186664,
-      "name": "Caerulea",
-      "url": "https://open.spotify.com/track/05IRllaVkCLy5Iyz3JUXNC"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Don't Go To Strangers",
         "url": "https://open.spotify.com/album/3WxjvFCGzABRCtw8vPWm7m"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 242167,
       "name": "Don't Go To Strangers",
       "url": "https://open.spotify.com/track/5n3Fi4f7VJyQQrFlfA9F9f"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Obliqua",
+        "url": "https://open.spotify.com/album/7wIe87avpXR4ROh0HktLIX"
+      },
+      "artists": [
+        {
+          "name": "Bladverk Band",
+          "url": "https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65"
+        }
+      ],
+      "duration_ms": 186664,
+      "name": "Caerulea",
+      "url": "https://open.spotify.com/track/05IRllaVkCLy5Iyz3JUXNC"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -2883,22 +2883,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Silent Dreams",
-        "url": "https://open.spotify.com/album/0ZURk7Qh9lzCPyxLKT3DVa"
-      },
-      "artists": [
-        {
-          "name": "The City of Birches",
-          "url": "https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S"
-        }
-      ],
-      "duration_ms": 248038,
-      "name": "Silent Dreams",
-      "url": "https://open.spotify.com/track/6Io5TW0gliTyIZIssh5vS5"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Midday Walk",
         "url": "https://open.spotify.com/album/47WU0DqHlyUmr3LYNiXdEp"
       },
@@ -2911,6 +2895,22 @@
       "duration_ms": 211347,
       "name": "Midday Walk",
       "url": "https://open.spotify.com/track/1rgG63Kci1aVlCCxFjQ4ci"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Silent Dreams",
+        "url": "https://open.spotify.com/album/0ZURk7Qh9lzCPyxLKT3DVa"
+      },
+      "artists": [
+        {
+          "name": "The City of Birches",
+          "url": "https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S"
+        }
+      ],
+      "duration_ms": 248038,
+      "name": "Silent Dreams",
+      "url": "https://open.spotify.com/track/6Io5TW0gliTyIZIssh5vS5"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -2947,22 +2947,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Late Lament",
-        "url": "https://open.spotify.com/album/4dJPl3BYP23MU5cAVJUT3z"
-      },
-      "artists": [
-        {
-          "name": "Tim Franks Trio",
-          "url": "https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok"
-        }
-      ],
-      "duration_ms": 320859,
-      "name": "Late Lament",
-      "url": "https://open.spotify.com/track/3eDOviMyR6gSoN2AeONg7Q"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Closing Doors",
         "url": "https://open.spotify.com/album/1MKxoZMGkMo2lmubT8KwQM"
       },
@@ -2991,6 +2975,22 @@
       "duration_ms": 182993,
       "name": "Platinum Goose",
       "url": "https://open.spotify.com/track/3eoLFO9XPg6vnONeRen5hf"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Late Lament",
+        "url": "https://open.spotify.com/album/4dJPl3BYP23MU5cAVJUT3z"
+      },
+      "artists": [
+        {
+          "name": "Tim Franks Trio",
+          "url": "https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok"
+        }
+      ],
+      "duration_ms": 320859,
+      "name": "Late Lament",
+      "url": "https://open.spotify.com/track/3eDOviMyR6gSoN2AeONg7Q"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -3751,6 +3751,22 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
+        "name": "Being There",
+        "url": "https://open.spotify.com/album/5JuT4GGK3RKVtbqQTDwlkS"
+      },
+      "artists": [
+        {
+          "name": "Tord Gustavsen Trio",
+          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
+        }
+      ],
+      "duration_ms": 231466,
+      "name": "Draw Near",
+      "url": "https://open.spotify.com/track/1ufvEL42UBnAYbi3gjSuZK"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
         "name": "Silent World",
         "url": "https://open.spotify.com/album/1TpgHVGapenLBD1Mcboy1L"
       },
@@ -3795,22 +3811,6 @@
       "duration_ms": 217313,
       "name": "Peace",
       "url": "https://open.spotify.com/track/7pDRAykBM45AObXmk2L4Cl"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "Being There",
-        "url": "https://open.spotify.com/album/5JuT4GGK3RKVtbqQTDwlkS"
-      },
-      "artists": [
-        {
-          "name": "Tord Gustavsen Trio",
-          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
-        }
-      ],
-      "duration_ms": 231466,
-      "name": "Draw Near",
-      "url": "https://open.spotify.com/track/1ufvEL42UBnAYbi3gjSuZK"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -4667,26 +4667,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Days of Hope",
-        "url": "https://open.spotify.com/album/3PgS9gBwNFLDkBxNeSbBBk"
-      },
-      "artists": [
-        {
-          "name": "Ola W Jansson",
-          "url": "https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz"
-        },
-        {
-          "name": "W JAZZ TRIO",
-          "url": "https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA"
-        }
-      ],
-      "duration_ms": 154765,
-      "name": "Days of Hope",
-      "url": "https://open.spotify.com/track/2du32xbCagN60GvRvtbRmH"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Casa",
         "url": "https://open.spotify.com/album/6hfeuqKVVsq5qIuYcTVAUy"
       },
@@ -4747,6 +4727,26 @@
       "duration_ms": 263285,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/7eooKc7DUKjCOfdxsXzxS0"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Days of Hope",
+        "url": "https://open.spotify.com/album/3PgS9gBwNFLDkBxNeSbBBk"
+      },
+      "artists": [
+        {
+          "name": "Ola W Jansson",
+          "url": "https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz"
+        },
+        {
+          "name": "W JAZZ TRIO",
+          "url": "https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA"
+        }
+      ],
+      "duration_ms": 154765,
+      "name": "Days of Hope",
+      "url": "https://open.spotify.com/track/2du32xbCagN60GvRvtbRmH"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -4895,22 +4895,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Komposition VII",
-        "url": "https://open.spotify.com/album/5TkbzkhD1kl7ehDrNz6aPM"
-      },
-      "artists": [
-        {
-          "name": "Max Agnas",
-          "url": "https://open.spotify.com/artist/3NptYnPBFtCemjoPPqkGwA"
-        }
-      ],
-      "duration_ms": 473721,
-      "name": "L\u00e5ngsamt",
-      "url": "https://open.spotify.com/track/4o0d3Ljhgg6v1t6D3M1DtY"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "More Than Ever",
         "url": "https://open.spotify.com/album/2fvT46J3wLSyRyCEvNCPFv"
       },
@@ -4923,6 +4907,22 @@
       "duration_ms": 371835,
       "name": "More Than Ever",
       "url": "https://open.spotify.com/track/2v4qjnLzXPqxZiM635UZwt"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Komposition VII",
+        "url": "https://open.spotify.com/album/5TkbzkhD1kl7ehDrNz6aPM"
+      },
+      "artists": [
+        {
+          "name": "Max Agnas",
+          "url": "https://open.spotify.com/artist/3NptYnPBFtCemjoPPqkGwA"
+        }
+      ],
+      "duration_ms": 473721,
+      "name": "L\u00e5ngsamt",
+      "url": "https://open.spotify.com/track/4o0d3Ljhgg6v1t6D3M1DtY"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -5163,18 +5163,26 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Plays Charles Mingus",
-        "url": "https://open.spotify.com/album/5qjOXWAkl5levqzlFxFj4f"
+        "name": "And I Love Her",
+        "url": "https://open.spotify.com/album/5Ug4R1QkqfUDsufwLymttu"
       },
       "artists": [
         {
-          "name": "Peter Nordahl Trio",
-          "url": "https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok"
+          "name": "Marc Copland",
+          "url": "https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA"
+        },
+        {
+          "name": "Joey Baron",
+          "url": "https://open.spotify.com/artist/0sQXx1Ji0yvldYg6cuEAOW"
+        },
+        {
+          "name": "Drew Gress",
+          "url": "https://open.spotify.com/artist/4HMyzDtVu6uNLYQZqYeOXK"
         }
       ],
-      "duration_ms": 191518,
-      "name": "Diane",
-      "url": "https://open.spotify.com/track/77BESrsUN386SrjEA7siB5"
+      "duration_ms": 403480,
+      "name": "And I Love Her",
+      "url": "https://open.spotify.com/track/72m3jr8pROw5WQM3cJAy1k"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -5211,6 +5219,22 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
+        "name": "Plays Charles Mingus",
+        "url": "https://open.spotify.com/album/5qjOXWAkl5levqzlFxFj4f"
+      },
+      "artists": [
+        {
+          "name": "Peter Nordahl Trio",
+          "url": "https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok"
+        }
+      ],
+      "duration_ms": 191518,
+      "name": "Diane",
+      "url": "https://open.spotify.com/track/77BESrsUN386SrjEA7siB5"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
         "name": "53rd Street",
         "url": "https://open.spotify.com/album/5fR9R5HWZcyhdBXdpGsZiu"
       },
@@ -5227,30 +5251,6 @@
       "duration_ms": 393431,
       "name": "A Foggy Day",
       "url": "https://open.spotify.com/track/7b579YfrUOFI8jwCd8ZeZm"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "And I Love Her",
-        "url": "https://open.spotify.com/album/5Ug4R1QkqfUDsufwLymttu"
-      },
-      "artists": [
-        {
-          "name": "Marc Copland",
-          "url": "https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA"
-        },
-        {
-          "name": "Joey Baron",
-          "url": "https://open.spotify.com/artist/0sQXx1Ji0yvldYg6cuEAOW"
-        },
-        {
-          "name": "Drew Gress",
-          "url": "https://open.spotify.com/artist/4HMyzDtVu6uNLYQZqYeOXK"
-        }
-      ],
-      "duration_ms": 403480,
-      "name": "And I Love Her",
-      "url": "https://open.spotify.com/track/72m3jr8pROw5WQM3cJAy1k"
     },
     {
       "added_at": "2024-02-23 00:01:00",

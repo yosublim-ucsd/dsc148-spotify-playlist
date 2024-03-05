@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Diamante El\u00e9ctrico",
-  "num_followers": 85772,
+  "num_followers": 85783,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MGFjMWY5MDAwODMwMjQ0OGM2NDgwYTA4OTVhYWMyMDY5NmNhOGRk",
+  "snapshot_id": "MCwxNzI0ZTUwYTgzYzZiYjM5Y2FmYzUxOTIzZDE4ODFmNDNjN2NkNzFl",
   "tracks": [
     {
       "added_at": "2023-10-07 00:35:47",
@@ -163,22 +163,6 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Calidosound",
-        "url": "https://open.spotify.com/album/02jSWAxa0OgylMZkHApDyj"
-      },
-      "artists": [
-        {
-          "name": "Superlitio",
-          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
-        }
-      ],
-      "duration_ms": 226880,
-      "name": "Te Lastim\u00e9",
-      "url": "https://open.spotify.com/track/29ewalVPcrRF03aTtWvD9z"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
         "name": "Mira Lo Que Me Hiciste Hacer",
         "url": "https://open.spotify.com/album/56iVzGyiTDQU2wenZeIhXI"
       },
@@ -195,18 +179,34 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Lo Esencial",
-        "url": "https://open.spotify.com/album/1imzv4Lfobnw8htp6XHGvd"
+        "name": "Babel (Special Edition)",
+        "url": "https://open.spotify.com/album/1qDJZqRsBuvynficMP9CqK"
       },
       "artists": [
         {
-          "name": "Aterciopelados",
-          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+          "name": "The Mills",
+          "url": "https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn"
         }
       ],
-      "duration_ms": 152386,
-      "name": "Baracunatana",
-      "url": "https://open.spotify.com/track/2dtYgxJAFZlf6RwbRijeIp"
+      "duration_ms": 227369,
+      "name": "Lobo Hombre en Paris",
+      "url": "https://open.spotify.com/track/6wHbkqzDJqUsuXAzQgWH87"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
+        "name": "Calidosound",
+        "url": "https://open.spotify.com/album/02jSWAxa0OgylMZkHApDyj"
+      },
+      "artists": [
+        {
+          "name": "Superlitio",
+          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
+        }
+      ],
+      "duration_ms": 226880,
+      "name": "Te Lastim\u00e9",
+      "url": "https://open.spotify.com/track/29ewalVPcrRF03aTtWvD9z"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -223,22 +223,6 @@
       "duration_ms": 189702,
       "name": "Hurac\u00e1n",
       "url": "https://open.spotify.com/track/2ReRXRVKnIFprwQgHZC92D"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
-        "name": "Babel (Special Edition)",
-        "url": "https://open.spotify.com/album/1qDJZqRsBuvynficMP9CqK"
-      },
-      "artists": [
-        {
-          "name": "The Mills",
-          "url": "https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn"
-        }
-      ],
-      "duration_ms": 227369,
-      "name": "Lobo Hombre en Paris",
-      "url": "https://open.spotify.com/track/6wHbkqzDJqUsuXAzQgWH87"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -275,6 +259,22 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
+        "name": "Lo Esencial",
+        "url": "https://open.spotify.com/album/1imzv4Lfobnw8htp6XHGvd"
+      },
+      "artists": [
+        {
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+        }
+      ],
+      "duration_ms": 152386,
+      "name": "Baracunatana",
+      "url": "https://open.spotify.com/track/2dtYgxJAFZlf6RwbRijeIp"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
         "name": "Productos Desaparecidos",
         "url": "https://open.spotify.com/album/1JyFH6v4N1WNofSsCRcYiG"
       },
@@ -307,6 +307,26 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
+        "name": "N\u00f3mada",
+        "url": "https://open.spotify.com/album/0MUi6hTyoZHMH5iFe7eynb"
+      },
+      "artists": [
+        {
+          "name": "La Banda del Bisonte",
+          "url": "https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD"
+        },
+        {
+          "name": "La Muchacha",
+          "url": "https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV"
+        }
+      ],
+      "duration_ms": 287701,
+      "name": "N\u00f3mada",
+      "url": "https://open.spotify.com/track/6Wrhk7QBtj8q1fKB6QTVX8"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
         "name": "Buitres",
         "url": "https://open.spotify.com/album/1DQ3KAs2WuIVMVKwrEeseh"
       },
@@ -335,26 +355,6 @@
       "duration_ms": 307040,
       "name": "No S\u00e9 Si Volver\u00e1 (2010) - En Vivo",
       "url": "https://open.spotify.com/track/4McZzvdbv5LiiCTab7ZfjV"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
-        "name": "N\u00f3mada",
-        "url": "https://open.spotify.com/album/0MUi6hTyoZHMH5iFe7eynb"
-      },
-      "artists": [
-        {
-          "name": "La Banda del Bisonte",
-          "url": "https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD"
-        },
-        {
-          "name": "La Muchacha",
-          "url": "https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV"
-        }
-      ],
-      "duration_ms": 287701,
-      "name": "N\u00f3mada",
-      "url": "https://open.spotify.com/track/6Wrhk7QBtj8q1fKB6QTVX8"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
+        "name": "B (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5bRJW0QvMRMdNNEh5tSwnx"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 201853,
+      "name": "Todo Va a Arder",
+      "url": "https://open.spotify.com/track/1sJSicDEBfPEo4nAW60WxJ"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
         "name": "Recaer",
         "url": "https://open.spotify.com/album/5sRXzUvy7eUEUFpxnL1i2Z"
       },
@@ -571,22 +587,6 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "B (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5bRJW0QvMRMdNNEh5tSwnx"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 201853,
-      "name": "Todo Va a Arder",
-      "url": "https://open.spotify.com/track/1sJSicDEBfPEo4nAW60WxJ"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
         "name": "Anaranjado",
         "url": "https://open.spotify.com/album/6pgtJt1lDEZmoOC2fhgD0Y"
       },
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Castillos de Arena",
-        "url": "https://open.spotify.com/album/6ufTtCn7TfxmFDrcxLNXoB"
-      },
-      "artists": [
-        {
-          "name": "Don Tetto",
-          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
-        }
-      ],
-      "duration_ms": 196437,
-      "name": "Punto Final",
-      "url": "https://open.spotify.com/track/56YcLUmZ3d7cJOxOin7y9A"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
         "name": "A Tu Lado",
         "url": "https://open.spotify.com/album/603lFzzUSI0yVjfQxlpXN2"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 203592,
       "name": "A Tu Lado",
       "url": "https://open.spotify.com/track/4Yx4NDik0QW3hpKXTMOQNw"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
+        "name": "Castillos de Arena",
+        "url": "https://open.spotify.com/album/6ufTtCn7TfxmFDrcxLNXoB"
+      },
+      "artists": [
+        {
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+        }
+      ],
+      "duration_ms": 196437,
+      "name": "Punto Final",
+      "url": "https://open.spotify.com/track/56YcLUmZ3d7cJOxOin7y9A"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Cangrejo",
-        "url": "https://open.spotify.com/album/3MvaFYJpFswQIHN8qCYThP"
-      },
-      "artists": [
-        {
-          "name": "Arbol De Ojos",
-          "url": "https://open.spotify.com/artist/0Of5C76gJn3CBJ4xxkUTs9"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Cangrejo",
-      "url": "https://open.spotify.com/track/08IybVfdaHDLiJiAxO7R4e"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
         "name": "15 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 240293,
       "name": "Desvanecer",
       "url": "https://open.spotify.com/track/1M0OhNeH1RFJdam3cAVvQL"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
+        "name": "Yumbotop\u00eda",
+        "url": "https://open.spotify.com/album/05ySquwyP7g6JTiRzJKQc1"
+      },
+      "artists": [
+        {
+          "name": "Las Yumbe\u00f1as",
+          "url": "https://open.spotify.com/artist/2S1RZNDZE0W1pt57ytr1dh"
+        }
+      ],
+      "duration_ms": 173621,
+      "name": "El Tema de Amor Que Esperabas",
+      "url": "https://open.spotify.com/track/7J4Ax9xslsyY7aw8ku7I6j"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -755,22 +755,6 @@
       "duration_ms": 203584,
       "name": "Salir Ileso",
       "url": "https://open.spotify.com/track/4x5YCTYmHCJV32RO5TAbr0"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
-        "name": "Yumbotop\u00eda",
-        "url": "https://open.spotify.com/album/05ySquwyP7g6JTiRzJKQc1"
-      },
-      "artists": [
-        {
-          "name": "Las Yumbe\u00f1as",
-          "url": "https://open.spotify.com/artist/2S1RZNDZE0W1pt57ytr1dh"
-        }
-      ],
-      "duration_ms": 173621,
-      "name": "El Tema de Amor Que Esperabas",
-      "url": "https://open.spotify.com/track/7J4Ax9xslsyY7aw8ku7I6j"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -843,26 +827,6 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Ni\u00f1os Perdidos",
-        "url": "https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y"
-      },
-      "artists": [
-        {
-          "name": "TELEBIT",
-          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
-        },
-        {
-          "name": "Armenia",
-          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
-        }
-      ],
-      "duration_ms": 159781,
-      "name": "Ni\u00f1os Perdidos",
-      "url": "https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
         "name": "TEMPLO KOMODO",
         "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
       },
@@ -915,22 +879,6 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7y8YhSMVq5hKIfbb3LdaaW"
-      },
-      "artists": [
-        {
-          "name": "Don Tetto",
-          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
-        }
-      ],
-      "duration_ms": 179239,
-      "name": "Lejos De Aqui",
-      "url": "https://open.spotify.com/track/6nifdAaB5BMc69bzSbLYtV"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/2ETz2y2dJ7bD7XfXXUaKjq"
       },
@@ -963,6 +911,42 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
+        "name": "Ni\u00f1os Perdidos",
+        "url": "https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y"
+      },
+      "artists": [
+        {
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+        },
+        {
+          "name": "Armenia",
+          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
+        }
+      ],
+      "duration_ms": 159781,
+      "name": "Ni\u00f1os Perdidos",
+      "url": "https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7y8YhSMVq5hKIfbb3LdaaW"
+      },
+      "artists": [
+        {
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+        }
+      ],
+      "duration_ms": 179239,
+      "name": "Lejos De Aqui",
+      "url": "https://open.spotify.com/track/6nifdAaB5BMc69bzSbLYtV"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
         "name": "Sigo",
         "url": "https://open.spotify.com/album/3Zrd8cJji2EZsKcO4loQ6K"
       },
@@ -975,22 +959,6 @@
       "duration_ms": 199294,
       "name": "Sigo",
       "url": "https://open.spotify.com/track/55zNzKBlbbSBMKmeDAuq3I"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
-        "name": "Manglares (B-Sides) - EP",
-        "url": "https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE"
-      },
-      "artists": [
-        {
-          "name": "TELEBIT",
-          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
-        }
-      ],
-      "duration_ms": 218752,
-      "name": "Gemas",
-      "url": "https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -1023,6 +991,38 @@
       "duration_ms": 210217,
       "name": "Analog\u00eda de una Laguna",
       "url": "https://open.spotify.com/track/25dVgkeJ3KPjcYBrswDFfJ"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
+        "name": "Manglares (B-Sides) - EP",
+        "url": "https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE"
+      },
+      "artists": [
+        {
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+        }
+      ],
+      "duration_ms": 218752,
+      "name": "Gemas",
+      "url": "https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
+        "name": "Sangre de Pr\u00f3fugo",
+        "url": "https://open.spotify.com/album/61o65DJK9QHOg8LWIJ279k"
+      },
+      "artists": [
+        {
+          "name": "Lika Nova",
+          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
+        }
+      ],
+      "duration_ms": 211746,
+      "name": "Sangre de Pr\u00f3fugo",
+      "url": "https://open.spotify.com/track/7qSncGfwAdAyTQBVYZeFGS"
     }
   ],
   "unique_name": "Rock Colombia",

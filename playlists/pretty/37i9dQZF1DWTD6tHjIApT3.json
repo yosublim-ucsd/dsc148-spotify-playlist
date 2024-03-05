@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: eill",
-  "num_followers": 109505,
+  "num_followers": 109593,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGJlZDYyYmRmNTRlYThlMjQwN2NjOTFmMjA3ZTQwYjBjN2I5MGVl",
+  "snapshot_id": "MCwzMTQyMThmNGRkYmI4MWQ0ZWNhMmEzNjdiNDBlMjQyNjdjOTE3MDQ2",
   "tracks": [
     {
       "added_at": "2024-02-29 15:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-02-29 15:00:00",
       "album": {
-        "name": "Ado's Utattemita Album",
-        "url": "https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf"
-      },
-      "artists": [
-        {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
-        }
-      ],
-      "duration_ms": 198893,
-      "name": "Buriki No Dance",
-      "url": "https://open.spotify.com/track/5m3EBf4cWHWxzjBTCG1gHx"
-    },
-    {
-      "added_at": "2024-02-29 15:00:00",
-      "album": {
         "name": "\u30ac\u30b8\u30e5\u30de\u30eb \uff5eHeaven in the Rain\uff5e",
         "url": "https://open.spotify.com/album/7DeRNe0Pzmyb07YCsTjjC1"
       },
@@ -1179,6 +1163,38 @@
       "duration_ms": 299255,
       "name": "\u30ac\u30b8\u30e5\u30de\u30eb \uff5eHeaven in the Rain\uff5e",
       "url": "https://open.spotify.com/track/0eiwO4ew5VzzjL9fsrUE1N"
+    },
+    {
+      "added_at": "2024-02-29 15:00:00",
+      "album": {
+        "name": "First Love (2022 Mix)",
+        "url": "https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 261122,
+      "name": "First Love - 2022 Mix",
+      "url": "https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70"
+    },
+    {
+      "added_at": "2024-02-29 15:00:00",
+      "album": {
+        "name": "Ado's Utattemita Album",
+        "url": "https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 198893,
+      "name": "Buriki No Dance",
+      "url": "https://open.spotify.com/track/5m3EBf4cWHWxzjBTCG1gHx"
     },
     {
       "added_at": "2024-02-29 15:00:00",
@@ -1211,22 +1227,6 @@
       "duration_ms": 156556,
       "name": "Toryanse",
       "url": "https://open.spotify.com/track/6Zdy0Snyt41k4Bg8Imtq7r"
-    },
-    {
-      "added_at": "2024-02-29 15:00:00",
-      "album": {
-        "name": "First Love (2022 Mix)",
-        "url": "https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        }
-      ],
-      "duration_ms": 261122,
-      "name": "First Love - 2022 Mix",
-      "url": "https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70"
     },
     {
       "added_at": "2024-02-29 15:00:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-02-29 15:00:00",
       "album": {
+        "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
+        "url": "https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 254291,
+      "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
+      "url": "https://open.spotify.com/track/6hasQfFdygcQow58WNA614"
+    },
+    {
+      "added_at": "2024-02-29 15:00:00",
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/5ItabiqjFEYWwMFL1jBfve"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 203166,
       "name": "It Might Be Painful, But I Still Love It.",
       "url": "https://open.spotify.com/track/3v6m03G0wyCYUWXLrzRUPg"
-    },
-    {
-      "added_at": "2024-02-29 15:00:00",
-      "album": {
-        "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
-        "url": "https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        }
-      ],
-      "duration_ms": 254291,
-      "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
-      "url": "https://open.spotify.com/track/6hasQfFdygcQow58WNA614"
     },
     {
       "added_at": "2024-02-29 15:00:00",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2024-02-29 15:00:00",
       "album": {
+        "name": "\u521d\u604b (2022 Remastering)",
+        "url": "https://open.spotify.com/album/7MQ6EDNZxZnbWWxFjbtbpl"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 282165,
+      "name": "\u521d\u604b",
+      "url": "https://open.spotify.com/track/58lUfdPHAmMazUqyt1s2Oe"
+    },
+    {
+      "added_at": "2024-02-29 15:00:00",
+      "album": {
         "name": "\u767d\u8272\u8709\u8763",
         "url": "https://open.spotify.com/album/1QZOlZ7LLH6QVmFxVGWk7X"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 231231,
       "name": "Every Wish Deserves a Dream",
       "url": "https://open.spotify.com/track/0WRO7r36uDVlW6DDPF1Cxs"
-    },
-    {
-      "added_at": "2024-02-29 15:00:00",
-      "album": {
-        "name": "\u521d\u604b (2022 Remastering)",
-        "url": "https://open.spotify.com/album/7MQ6EDNZxZnbWWxFjbtbpl"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        }
-      ],
-      "duration_ms": 282165,
-      "name": "\u521d\u604b",
-      "url": "https://open.spotify.com/track/58lUfdPHAmMazUqyt1s2Oe"
     },
     {
       "added_at": "2024-02-29 15:00:00",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2024-02-29 15:00:00",
       "album": {
-        "name": "Ado \"Ready For My Show Playlist\"",
-        "url": "https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU"
+        "name": "The Flower of Love",
+        "url": "https://open.spotify.com/album/7n2ZUQwPFVI1duDelTWD3p"
       },
       "artists": [
         {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+          "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
+          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
         }
       ],
-      "duration_ms": 213000,
-      "name": "\u30aa\u30fc\u30eb\u30ca\u30a4\u30c8\u30ec\u30c7\u30a3\u30aa",
-      "url": "https://open.spotify.com/track/7cojiKLtAxeBttS2zDPsYd"
+      "duration_ms": 190066,
+      "name": "Starry Silent Night",
+      "url": "https://open.spotify.com/track/3qsTo8WALGZWSe0KNxv3ZA"
     },
     {
       "added_at": "2024-02-29 15:00:00",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2024-02-29 15:00:00",
       "album": {
-        "name": "The Flower of Love",
-        "url": "https://open.spotify.com/album/7n2ZUQwPFVI1duDelTWD3p"
+        "name": "Ado \"Ready For My Show Playlist\"",
+        "url": "https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU"
       },
       "artists": [
         {
-          "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
-          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
         }
       ],
-      "duration_ms": 190066,
-      "name": "Starry Silent Night",
-      "url": "https://open.spotify.com/track/3qsTo8WALGZWSe0KNxv3ZA"
+      "duration_ms": 213000,
+      "name": "\u30aa\u30fc\u30eb\u30ca\u30a4\u30c8\u30ec\u30c7\u30a3\u30aa",
+      "url": "https://open.spotify.com/track/7cojiKLtAxeBttS2zDPsYd"
     },
     {
       "added_at": "2024-02-29 15:00:00",

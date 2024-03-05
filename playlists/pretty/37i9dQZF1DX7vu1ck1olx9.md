@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 
 > Cool down with these chill beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,347 likes - 150 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,423 likes - 150 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 34 | [Lose Traction](https://open.spotify.com/track/7o60oOsQGf3tpFrU2r6vVX) | [Vries](https://open.spotify.com/artist/5i5SZplABmVMOyE66RrL9U) | [Lose Traction](https://open.spotify.com/album/2AhbbB9ew0PQJrgPq77iKb) | 1:50 |
 | 35 | [gradual](https://open.spotify.com/track/2BsIIaj2hJ7rw8yFWMiL0A) | [Sleepr Cell](https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m) | [gradual](https://open.spotify.com/album/22KxorNZHmgpoS6XOBgme2) | 2:37 |
 | 36 | [Low Tension](https://open.spotify.com/track/55MKPPyzRXKgLYPkWXWhZc) | [jon pm](https://open.spotify.com/artist/0hEvTw85lFywhlAfgEc8VH) | [Low Tension](https://open.spotify.com/album/4qIPpwbfTuy8jNPEzI9Jmp) | 2:57 |
-| 37 | [Pure Water](https://open.spotify.com/track/2ZLJrHbLNkj8rrnh9ECyxU) | [JAKKARTA](https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk) | [Pure Water](https://open.spotify.com/album/0pdsUyxPplZqjQ2oRBkmcD) | 2:57 |
+| 37 | [my girl](https://open.spotify.com/track/2tmwtHHqbNYtZTMhGrINgW) | [Idris Jem](https://open.spotify.com/artist/0TsDkwnB2mr1kbQKAU4XcY) | [my girl](https://open.spotify.com/album/00BGyfJc3D9WMFHrox5g86) | 1:32 |
 | 38 | [exhale](https://open.spotify.com/track/57lhljt2lQn9x5hitpDjJ5) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [exhale](https://open.spotify.com/album/6zZLGaivwAi4f5i5DdZe3I) | 2:47 |
-| 39 | [my girl](https://open.spotify.com/track/2tmwtHHqbNYtZTMhGrINgW) | [Idris Jem](https://open.spotify.com/artist/0TsDkwnB2mr1kbQKAU4XcY) | [my girl](https://open.spotify.com/album/00BGyfJc3D9WMFHrox5g86) | 1:32 |
+| 39 | [Pure Water](https://open.spotify.com/track/2ZLJrHbLNkj8rrnh9ECyxU) | [JAKKARTA](https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk) | [Pure Water](https://open.spotify.com/album/0pdsUyxPplZqjQ2oRBkmcD) | 2:57 |
 | 40 | [Dreemin'](https://open.spotify.com/track/6L4ZXA6ROpbQCF8UlDqZ9A) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [Dreemin'](https://open.spotify.com/album/44WEHjidINWRXTcjHP9mF0) | 2:11 |
 | 41 | [stars](https://open.spotify.com/track/3ac8arqtWalbF7IOrgXzoi) | [Tooslo](https://open.spotify.com/artist/3CBEpst0ojgj2ZBmzDighK) | [stars](https://open.spotify.com/album/7zATELz7aEu6qqWkPt4f47) | 2:12 |
 | 42 | [lightweight](https://open.spotify.com/track/3b546lgRsZJ7TFlXdmiQ7u) | [aUra Lu](https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag) | [lightweight](https://open.spotify.com/album/2EYX11kUH7SUsVpKWUePDD) | 2:00 |
@@ -89,11 +89,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 79 | [arcade](https://open.spotify.com/track/4ZymE7jNv6VRPHdhL1OYIf) | [DupsU](https://open.spotify.com/artist/3exFwW4ib4gy068VQZYAgg) | [arcade](https://open.spotify.com/album/6ATjRptrFPrGkGsCn7CoT9) | 1:48 |
 | 80 | [duplicated](https://open.spotify.com/track/58AWkT7R6szgzK9nin9oUv) | [gamuri shun](https://open.spotify.com/artist/3t8zcW41Vd0F7ddGBwUZ4N) | [duplicated](https://open.spotify.com/album/1M1MJjpxKpr3xC9fCbOATA) | 2:15 |
 | 81 | [In a Movie](https://open.spotify.com/track/4OUAPh56ulVaZxJjh4JviP) | [A Space for Rent](https://open.spotify.com/artist/2KwuWKQTW1b7IAzs7eEEGX) | [In a Movie](https://open.spotify.com/album/1KUsPpASsEz9IJlELl2d6L) | 2:40 |
-| 82 | [exhale](https://open.spotify.com/track/5fuN7iE4fymbpYdegHyM6Y) | [Parelo](https://open.spotify.com/artist/5x2rKBeovdxVizxphumkD0) | [exhale](https://open.spotify.com/album/1vgT5wE3eAIUspBTq4RgK6) | 2:19 |
-| 83 | [fluffy](https://open.spotify.com/track/0DQlBPWiOqVc4vevZPSbsT) | [shawn pink](https://open.spotify.com/artist/2RcAWtULux9LPj37M9nXxI) | [fluffy](https://open.spotify.com/album/1QfEMseJ9uQmuA8ZFSgR50) | 2:05 |
-| 84 | [PWR nApp](https://open.spotify.com/track/3uvQsiIBs9ceN3hwSp3WJ1) | [Napolicity](https://open.spotify.com/artist/6qZ0vZZfdOormGhYSJtt5q) | [PWR nApp](https://open.spotify.com/album/1zR6taWfZRZ05iY68d1pJf) | 2:11 |
-| 85 | [slow move](https://open.spotify.com/track/3xpUN6eBlBi3P4ZPu7xBBy) | [hinako fukushi](https://open.spotify.com/artist/5glOFLmRNoXs1AC2jGYS6j) | [slow move](https://open.spotify.com/album/05QCXiRLNm7LJF9xp9j2wf) | 2:22 |
-| 86 | [A New Dawn](https://open.spotify.com/track/4BopBYqzp4NXkkpjlE1hrJ) | [Mel Atonin](https://open.spotify.com/artist/5cuSwXym2KzOlDwHui2v5g) | [A New Dawn](https://open.spotify.com/album/2dHb6EPDsaT6i3jUBnhGq9) | 2:36 |
+| 82 | [fluffy](https://open.spotify.com/track/0DQlBPWiOqVc4vevZPSbsT) | [shawn pink](https://open.spotify.com/artist/2RcAWtULux9LPj37M9nXxI) | [fluffy](https://open.spotify.com/album/1QfEMseJ9uQmuA8ZFSgR50) | 2:05 |
+| 83 | [PWR nApp](https://open.spotify.com/track/3uvQsiIBs9ceN3hwSp3WJ1) | [Napolicity](https://open.spotify.com/artist/6qZ0vZZfdOormGhYSJtt5q) | [PWR nApp](https://open.spotify.com/album/1zR6taWfZRZ05iY68d1pJf) | 2:11 |
+| 84 | [slow move](https://open.spotify.com/track/3xpUN6eBlBi3P4ZPu7xBBy) | [hinako fukushi](https://open.spotify.com/artist/5glOFLmRNoXs1AC2jGYS6j) | [slow move](https://open.spotify.com/album/05QCXiRLNm7LJF9xp9j2wf) | 2:22 |
+| 85 | [A New Dawn](https://open.spotify.com/track/4BopBYqzp4NXkkpjlE1hrJ) | [Mel Atonin](https://open.spotify.com/artist/5cuSwXym2KzOlDwHui2v5g) | [A New Dawn](https://open.spotify.com/album/2dHb6EPDsaT6i3jUBnhGq9) | 2:36 |
+| 86 | [exhale](https://open.spotify.com/track/5fuN7iE4fymbpYdegHyM6Y) | [Parelo](https://open.spotify.com/artist/5x2rKBeovdxVizxphumkD0) | [exhale](https://open.spotify.com/album/1vgT5wE3eAIUspBTq4RgK6) | 2:19 |
 | 87 | [infinity](https://open.spotify.com/track/7psacqXXypqDByQk9iLD0J) | [Yedai](https://open.spotify.com/artist/4GYycScCEPQprmeYJIiBRU) | [infinity](https://open.spotify.com/album/5zm0jfovige3nobvXRGuAg) | 2:25 |
 | 88 | [cloudy dreams](https://open.spotify.com/track/4m8wo5zZ79P1zFFDNtjzof) | [yoshi the brilliant](https://open.spotify.com/artist/6k8AnK3Kuk6fv1AQu0IGBJ) | [cloudy dreams & husky sun](https://open.spotify.com/album/36DWp8DF7nFJlo9zp3DK2u) | 3:11 |
 | 89 | [New Perspectives](https://open.spotify.com/track/2nRGO4Qb7Bb3rpi2Zi3V6N) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [New Perspectives](https://open.spotify.com/album/57VVSKIXcymJqC8vUeEi4E) | 4:01 |
@@ -126,8 +126,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 116 | [morning meditations](https://open.spotify.com/track/7yY00DIEZFDueSQZNPk7HW) | [Clocktown Stars](https://open.spotify.com/artist/41tAquCucBUKN6L1xeMWns) | [morning meditations](https://open.spotify.com/album/7Ih6Z8ZxGmEVz0G1TUf5fI) | 2:17 |
 | 117 | [the eagle](https://open.spotify.com/track/1v1NpH98bzmOGzy7Uonzch) | [karlaplan.](https://open.spotify.com/artist/4RFTWRcFCHqWgDDakmHCBr) | [the eagle](https://open.spotify.com/album/5pePjbSsmLVMet4SRYwOXd) | 2:12 |
 | 118 | [midday walks](https://open.spotify.com/track/7FQ9mXcFQs6HbgrQO4N0eB) | [With All Respect](https://open.spotify.com/artist/1owj0RO3l3iK7vPwn4rV1O) | [midday walks](https://open.spotify.com/album/16zVhoL5I0dzAVFwpBd2Tn) | 2:05 |
-| 119 | [cool nights](https://open.spotify.com/track/5MfKUo0KFcld9CLj08cKKt) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [cool nights](https://open.spotify.com/album/3XoC1k7u7oPWjyI7XT7hka) | 2:36 |
-| 120 | [cellular](https://open.spotify.com/track/4PeBAw8arxHxoMH6T1g0VU) | [dueday](https://open.spotify.com/artist/2yLP0IwAa0JkNWr6OMHM0i) | [cellular](https://open.spotify.com/album/06O45DFgRdWkvaR10inL1C) | 1:54 |
+| 119 | [cellular](https://open.spotify.com/track/4PeBAw8arxHxoMH6T1g0VU) | [dueday](https://open.spotify.com/artist/2yLP0IwAa0JkNWr6OMHM0i) | [cellular](https://open.spotify.com/album/06O45DFgRdWkvaR10inL1C) | 1:54 |
+| 120 | [cool nights](https://open.spotify.com/track/5MfKUo0KFcld9CLj08cKKt) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [cool nights](https://open.spotify.com/album/3XoC1k7u7oPWjyI7XT7hka) | 2:36 |
 | 121 | [Colorful Skies](https://open.spotify.com/track/1mVDTs9JE7sNEwH25jnxtP) | [MiDN8](https://open.spotify.com/artist/4SoTXSB2YaVSAlZcVTVuB4), [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8) | [Colorful Skies](https://open.spotify.com/album/36jqommAS821e5J69RH4Bz) | 1:55 |
 | 122 | [Serenity](https://open.spotify.com/track/02fGPghQgifZrjNwcASSh4) | [HLY WUD](https://open.spotify.com/artist/51htK4Ln3sMNbTBcs7Ft8S) | [Serenity](https://open.spotify.com/album/26Su9YAaY4v3OnZUakw4aU) | 2:19 |
 | 123 | [Oracle Night](https://open.spotify.com/track/5sAxHA9vc2phSUff2793GX) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [Chillhop Essentials Summer 2018](https://open.spotify.com/album/2YvRkxlqhH67oyLI0xC1mM) | 2:30 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 149 | [Somewhere Else](https://open.spotify.com/track/5djyaDp1Antker31qnLCiv) | [Garot Michael Conklin](https://open.spotify.com/artist/64xZeZKFTNLDsueTpb6aFz) | [Somewhere Else](https://open.spotify.com/album/04prMufgRpnNLxCev5elzo) | 2:33 |
 | 150 | [golota](https://open.spotify.com/track/1dmaAgL4fAmVdAouTVGThj) | [Delayde](https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h), [Hemond](https://open.spotify.com/artist/6hCQ4kHN2kICk36cN1FnJg) | [cordata spring](https://open.spotify.com/album/1anlhyFZ24KN1BjPNPuSXe) | 2:08 |
 
-Snapshot ID: `MCxmNDNkMDk0N2E4MDAxYjhkYjQ3ZDNiMTQ0MTI1MmQyZWY1NjVlMmE3`
+Snapshot ID: `MCw3N2FmNmU1YzFlMjA3ZmM3ZWI3YzQ0MDM3Y2YzODY5ZDI3OWI2OGUy`

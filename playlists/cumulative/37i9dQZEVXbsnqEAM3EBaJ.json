@@ -6295,6 +6295,24 @@
     },
     {
       "album": {
+        "name": "vol huis (Live)",
+        "url": "https://open.spotify.com/album/3tYOO1SUShFTDag2iNbzlu"
+      },
+      "artists": [
+        {
+          "name": "Focus",
+          "url": "https://open.spotify.com/artist/0ifzzRKdmtgaHy9cfnnyCR"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 556495,
+      "name": "Eruption - Live",
+      "url": "https://open.spotify.com/track/6K3q2FCBIIKcoKkmT6M6NL"
+    },
+    {
+      "album": {
         "name": "Drama",
         "url": "https://open.spotify.com/album/3ODXBYShxAlpNTKoiWY3Qb"
       },
@@ -12750,7 +12768,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 295991,
       "name": "Me Libero",
       "url": "https://open.spotify.com/track/0dpgRyzpMSkN7qc2i879RH"
@@ -14152,6 +14170,24 @@
       "duration_ms": 225000,
       "name": "No es Cierto - En Vivo",
       "url": "https://open.spotify.com/track/5mitMUXEL601v0QcG8aTUU"
+    },
+    {
+      "album": {
+        "name": "Me Permito Sentir",
+        "url": "https://open.spotify.com/album/7KuTQuLMhec9sj3RE3w89E"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Donalson",
+          "url": "https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363273,
+      "name": "No Es un Adi\u00f3s",
+      "url": "https://open.spotify.com/track/1IYRVzamwUW2V4vDT9ONTs"
     },
     {
       "album": {
@@ -17032,7 +17068,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 626307,
       "name": "Rock Bottom - Live in Cincinnati, 1995",
       "url": "https://open.spotify.com/track/6i6rKOIFyjICxufDfEYYMn"
@@ -19614,7 +19650,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 227800,
       "name": "Sylvia - Live",
       "url": "https://open.spotify.com/track/2qZKL6EUrUDSH9XquJYgfk"
@@ -20268,6 +20304,24 @@
       "duration_ms": 185196,
       "name": "The Craziest Thing (Lost Boy Remix) - Official Song European Table Tennis Championship 2023",
       "url": "https://open.spotify.com/track/4XnZDTY6faWn4KNpJH5dcf"
+    },
+    {
+      "album": {
+        "name": "Fab Dead Cult Veil",
+        "url": "https://open.spotify.com/album/1RyeKlbThZOy6qSDFOOwTx"
+      },
+      "artists": [
+        {
+          "name": "Sopor Aeternus & The Ensemble Of Shadows",
+          "url": "https://open.spotify.com/artist/4DJ9mOfSKt9vg0Zhlwf6te"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359635,
+      "name": "The Dead",
+      "url": "https://open.spotify.com/track/626nluE7sOdqH3reuWS8v0"
     },
     {
       "album": {
@@ -21090,7 +21144,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 323627,
       "name": "The Pumpkins",
       "url": "https://open.spotify.com/track/3Rkjoq1XGP9kJQXW6n2KWK"
@@ -21978,7 +22032,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 225909,
       "name": "Too Hot To Handle - Live in Cincinnati, 1995",
       "url": "https://open.spotify.com/track/54f7pPX7KIFp33iVLuQdHs"

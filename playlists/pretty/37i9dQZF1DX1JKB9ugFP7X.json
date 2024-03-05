@@ -1,12 +1,12 @@
 {
   "description": "Escucha lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 23923,
+  "num_followers": 23927,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTJkZjRmMzY1NDEwZjAyNzNlNzc3YjljODBlM2VjMWY5MDU0ZDc3",
+  "snapshot_id": "MCwzZWZlOWQ5ZWEwNGM0NDRhYjc0ZDM3YjEzYjRhZmY4NjY2MzcwYmU5",
   "tracks": [
     {
       "added_at": "2024-02-29 20:58:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-02-29 20:58:00",
       "album": {
-        "name": "SAETA",
-        "url": "https://open.spotify.com/album/2xqdV2npgZXiowXCAYwd2Y"
-      },
-      "artists": [
-        {
-          "name": "Paco Amoroso",
-          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
-        }
-      ],
-      "duration_ms": 198085,
-      "name": "Viuda Negra",
-      "url": "https://open.spotify.com/track/1iT5jMsGoXWKm1CNwna2kf"
-    },
-    {
-      "added_at": "2024-02-29 20:58:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 163994,
       "name": "Yegua",
       "url": "https://open.spotify.com/track/1g5e3TeiR729trUSWY5BBa"
+    },
+    {
+      "added_at": "2024-02-29 20:58:00",
+      "album": {
+        "name": "SAETA",
+        "url": "https://open.spotify.com/album/2xqdV2npgZXiowXCAYwd2Y"
+      },
+      "artists": [
+        {
+          "name": "Paco Amoroso",
+          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
+        }
+      ],
+      "duration_ms": 198085,
+      "name": "Viuda Negra",
+      "url": "https://open.spotify.com/track/1iT5jMsGoXWKm1CNwna2kf"
     },
     {
       "added_at": "2024-02-29 20:58:00",
@@ -351,26 +351,6 @@
     {
       "added_at": "2024-02-29 20:58:00",
       "album": {
-        "name": "Club de Fans de John Boy",
-        "url": "https://open.spotify.com/album/0AX6fEdcmURGqUXk5DDf9Y"
-      },
-      "artists": [
-        {
-          "name": "Love of Lesbian",
-          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
-        },
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        }
-      ],
-      "duration_ms": 218806,
-      "name": "Club de Fans de John Boy",
-      "url": "https://open.spotify.com/track/04bVV45KVRvd1h0hfLqRjQ"
-    },
-    {
-      "added_at": "2024-02-29 20:58:00",
-      "album": {
         "name": "CHROME",
         "url": "https://open.spotify.com/album/4bZaL9GsAnNFPJ1y10JIbG"
       },
@@ -395,26 +375,22 @@
     {
       "added_at": "2024-02-29 20:58:00",
       "album": {
-        "name": "Se Voc\u00ea Quiser",
-        "url": "https://open.spotify.com/album/69ULBtdTrF5BxymBScNMQK"
+        "name": "Club de Fans de John Boy",
+        "url": "https://open.spotify.com/album/0AX6fEdcmURGqUXk5DDf9Y"
       },
       "artists": [
         {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+          "name": "Love of Lesbian",
+          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
         },
         {
-          "name": "Clara x Sofia",
-          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
-        },
-        {
-          "name": "Breno Miranda",
-          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
         }
       ],
-      "duration_ms": 174219,
-      "name": "Se Voc\u00ea Quiser",
-      "url": "https://open.spotify.com/track/0Zk7UObYCZLCLd1pqN3Gjb"
+      "duration_ms": 218806,
+      "name": "Club de Fans de John Boy",
+      "url": "https://open.spotify.com/track/04bVV45KVRvd1h0hfLqRjQ"
     },
     {
       "added_at": "2024-02-29 20:58:00",
@@ -435,22 +411,26 @@
     {
       "added_at": "2024-02-29 20:58:00",
       "album": {
-        "name": "Bye Bye (Juan Hansen Remix)",
-        "url": "https://open.spotify.com/album/2midg6u0xxE7KBnTCNqT98"
+        "name": "Se Voc\u00ea Quiser",
+        "url": "https://open.spotify.com/album/69ULBtdTrF5BxymBScNMQK"
       },
       "artists": [
         {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
         },
         {
-          "name": "Juan Hansen",
-          "url": "https://open.spotify.com/artist/1ZFLYus27fzqEV3d6RBrxo"
+          "name": "Clara x Sofia",
+          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
+        },
+        {
+          "name": "Breno Miranda",
+          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
         }
       ],
-      "duration_ms": 367131,
-      "name": "Bye Bye - Juan Hansen Remix",
-      "url": "https://open.spotify.com/track/7CKu9iA2e0tCjd1Qw7s8dX"
+      "duration_ms": 174219,
+      "name": "Se Voc\u00ea Quiser",
+      "url": "https://open.spotify.com/track/0Zk7UObYCZLCLd1pqN3Gjb"
     },
     {
       "added_at": "2024-02-29 20:58:00",
@@ -531,6 +511,26 @@
       "duration_ms": 167113,
       "name": "Shock (feat. Kabasaki)",
       "url": "https://open.spotify.com/track/0aHZqxYvut2l9cqJ73VrpK"
+    },
+    {
+      "added_at": "2024-02-29 20:58:00",
+      "album": {
+        "name": "Bye Bye (Juan Hansen Remix)",
+        "url": "https://open.spotify.com/album/2midg6u0xxE7KBnTCNqT98"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        },
+        {
+          "name": "Juan Hansen",
+          "url": "https://open.spotify.com/artist/1ZFLYus27fzqEV3d6RBrxo"
+        }
+      ],
+      "duration_ms": 367131,
+      "name": "Bye Bye - Juan Hansen Remix",
+      "url": "https://open.spotify.com/track/7CKu9iA2e0tCjd1Qw7s8dX"
     },
     {
       "added_at": "2024-02-29 20:58:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-02-29 20:58:00",
       "album": {
-        "name": "Hay que venir al Sur",
-        "url": "https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC"
-      },
-      "artists": [
-        {
-          "name": "Ibiza Pareo",
-          "url": "https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Hay que venir al Sur",
-      "url": "https://open.spotify.com/track/2rHam5fmV5AFgHJNk80hHi"
-    },
-    {
-      "added_at": "2024-02-29 20:58:00",
-      "album": {
         "name": "Qui\u00e9n Me Escucha",
         "url": "https://open.spotify.com/album/0ZFJQ8aL8E9kxKapcZSN2V"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 146791,
       "name": "Sed",
       "url": "https://open.spotify.com/track/0tv5fCvV6pLcwstfO2zxLP"
+    },
+    {
+      "added_at": "2024-02-29 20:58:00",
+      "album": {
+        "name": "Hay que venir al Sur",
+        "url": "https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC"
+      },
+      "artists": [
+        {
+          "name": "Ibiza Pareo",
+          "url": "https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Hay que venir al Sur",
+      "url": "https://open.spotify.com/track/2rHam5fmV5AFgHJNk80hHi"
     },
     {
       "added_at": "2024-02-29 20:58:00",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2024-02-29 20:58:00",
       "album": {
-        "name": "Cuando Se Apague Todo",
-        "url": "https://open.spotify.com/album/0Obeuspkyeh5UWUcKoeILS"
-      },
-      "artists": [
-        {
-          "name": "Valdes",
-          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
-        },
-        {
-          "name": "CA7RIEL",
-          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
-        }
-      ],
-      "duration_ms": 228443,
-      "name": "Cuando Se Apague Todo",
-      "url": "https://open.spotify.com/track/2qIWjqbvqHBEwl2p7cvsfk"
-    },
-    {
-      "added_at": "2024-02-29 20:58:00",
-      "album": {
         "name": "ELET\u00c9",
         "url": "https://open.spotify.com/album/2yrXDD1dTZFPVSKMp9ADpL"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 332542,
       "name": "Teoria Espacial (Remix)",
       "url": "https://open.spotify.com/track/6AHPhNfRmMZX9Oj4ulslKw"
+    },
+    {
+      "added_at": "2024-02-29 20:58:00",
+      "album": {
+        "name": "Cuando Se Apague Todo",
+        "url": "https://open.spotify.com/album/0Obeuspkyeh5UWUcKoeILS"
+      },
+      "artists": [
+        {
+          "name": "Valdes",
+          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
+        },
+        {
+          "name": "CA7RIEL",
+          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
+        }
+      ],
+      "duration_ms": 228443,
+      "name": "Cuando Se Apague Todo",
+      "url": "https://open.spotify.com/track/2qIWjqbvqHBEwl2p7cvsfk"
     },
     {
       "added_at": "2024-02-29 20:58:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-02-29 20:58:00",
       "album": {
-        "name": "Ficci\u00f3n",
-        "url": "https://open.spotify.com/album/7kqvgYRCFIHjRTEXnVjSWW"
-      },
-      "artists": [
-        {
-          "name": "Varese",
-          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
-        }
-      ],
-      "duration_ms": 201601,
-      "name": "Ficci\u00f3n",
-      "url": "https://open.spotify.com/track/19ql2PoaEn31alAgeIpsp1"
-    },
-    {
-      "added_at": "2024-02-29 20:58:00",
-      "album": {
         "name": "Alta Magia (Reversi\u00f3n 10 a\u00f1os)",
         "url": "https://open.spotify.com/album/1a8CMgCRNBYvJCLogVuMVl"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 223278,
       "name": "Fiebre",
       "url": "https://open.spotify.com/track/2lDvFFGwcvUvStTh5t29yF"
+    },
+    {
+      "added_at": "2024-02-29 20:58:00",
+      "album": {
+        "name": "Ficci\u00f3n",
+        "url": "https://open.spotify.com/album/7kqvgYRCFIHjRTEXnVjSWW"
+      },
+      "artists": [
+        {
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+        }
+      ],
+      "duration_ms": 201601,
+      "name": "Ficci\u00f3n",
+      "url": "https://open.spotify.com/track/19ql2PoaEn31alAgeIpsp1"
     },
     {
       "added_at": "2024-02-29 20:58:00",

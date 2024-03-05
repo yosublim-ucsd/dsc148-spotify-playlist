@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Marika Hackman
 
-569 songs - 1 day 11 hr 27 min
+570 songs - 1 day 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Back To Oz](https://open.spotify.com/track/0UWXrfsHsy2LUJWEbneShb) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Back to Oz / Fictional California](https://open.spotify.com/album/5bHNKlDnqAtCASYdUr7FHM) | 4:12 | 2021-10-22 |  |
 | [Bad Moves](https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Bad Moves](https://open.spotify.com/album/6c2fkeEyjpOCqJqj5L6BTy) | 4:06 | 2021-10-22 |  |
 | [Bathroom Light](https://open.spotify.com/track/32xm5clCZkPPc7hdQRZjYQ) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 3:08 | 2022-06-24 |  |
+| [Be \- Acoustic](https://open.spotify.com/track/6qHRE7BuCC1SarVEmS7pLa) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Be \(Acoustic\)](https://open.spotify.com/album/1HkykM5BnuW8KLN3QVoZ2f) | 3:55 | 2024-03-04 |  |
 | [Bed Song 1](https://open.spotify.com/track/4h7d4UJBGJmBuRX1AgVfKx) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Tell Me What You Miss The Most](https://open.spotify.com/album/5yvl9lqTd0QhlWRLGbPR95) | 3:59 | 2023-11-10 |  |
 | [Bed Song 1](https://open.spotify.com/track/5XnQnpRRXZQbJ2PcvvuWp2) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Bed Song 1](https://open.spotify.com/album/1vpdtDIoL0jW47H7gYfp9n) | 3:59 | 2021-11-19 | 2022-07-29 |
 | [Before the Fall](https://open.spotify.com/track/4zDgW6uebdnhvGnZsAicHa) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Before the Fall](https://open.spotify.com/album/7GvIlBDCCgy1xnjpQCLzkY) | 2:59 | 2021-10-22 | 2022-01-15 |
@@ -406,7 +407,7 @@
 | [Rubberneckers](https://open.spotify.com/track/5bFCQlmeLTKT25oga5ltiA) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Quitters](https://open.spotify.com/album/4m0J4ljxRrsHJfXSmjiYUG) | 3:28 | 2022-10-14 | 2023-02-22 |
 | [Rushin' River Valley](https://open.spotify.com/track/5tpp3h5cRMNOH1cXlvpQ7s) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Rushin' River Valley](https://open.spotify.com/album/7loW3vW3nKN9IV9pD9MHlo) | 3:46 | 2023-01-20 | 2023-05-08 |
 | [Rushin' River Valley](https://open.spotify.com/track/7axHflLoQmVH6K28TSnWuu) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [A River Running to Your Heart](https://open.spotify.com/album/2n4dZnB3Iz7wWPdDQO3auX) | 3:46 | 2023-08-04 |  |
-| [Satan](https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Satan / Jacob Rose](https://open.spotify.com/album/5nExpRArSDcibPvnuQQc3I) | 3:16 | 2022-02-25 |  |
+| [Satan](https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Satan / Jacob Rose](https://open.spotify.com/album/5nExpRArSDcibPvnuQQc3I) | 3:16 | 2022-02-25 | 2024-03-05 |
 | [Satellite](https://open.spotify.com/track/5r882UNUUII5EKZ9rlVImU) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Satellite](https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh) | 2:54 | 2022-06-24 | 2023-07-13 |
 | [Savior Complex](https://open.spotify.com/track/4BNew3AqFCvABdFsYMRiyB) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 4:01 | 2021-10-22 | 2022-04-22 |
 | [Say It Ain't So](https://open.spotify.com/track/1REohUFAzDBfIqPwL1CjUQ) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr), [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Say It Ain't So](https://open.spotify.com/album/22DE5yz0XPuClO8A0P6tyJ) | 3:43 | 2022-04-13 | 2022-04-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,541 likes - 436 songs - 1 day 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,545 likes - 436 songs - 1 day 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -284,8 +284,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 274 | [Dinosaur](https://open.spotify.com/track/74cq6AFbsKdUVZMpG2TPEr) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 2:55 |
 | 275 | [Light Up The World](https://open.spotify.com/track/1Et2wMhDPqbu5y4sGRt6Ue) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, Volume 6](https://open.spotify.com/album/5nvqVolAZnL9C1i5j6qDKS) | 3:43 |
 | 276 | [Supernatural](https://open.spotify.com/track/1UKDcxiR4VNad3toIHpJZ6) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Warrior \(Expanded Edition\)](https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu) | 4:10 |
-| 277 | [Mateo](https://open.spotify.com/track/6n2geOyYHOGZtpITVmrWoo) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Sunshine Kitty](https://open.spotify.com/album/5kaCqETtik8oE7M9D8wxrW) | 2:49 |
-| 278 | [Polka Face](https://open.spotify.com/track/2ELqO1C2U6vhg1BfYp7QhG) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Alpocalypse](https://open.spotify.com/album/7xioktcLt004PnB9nqwBWz) | 4:47 |
+| 277 | [Polka Face](https://open.spotify.com/track/2ELqO1C2U6vhg1BfYp7QhG) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Alpocalypse](https://open.spotify.com/album/7xioktcLt004PnB9nqwBWz) | 4:47 |
+| 278 | [Mateo](https://open.spotify.com/track/6n2geOyYHOGZtpITVmrWoo) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Sunshine Kitty](https://open.spotify.com/album/5kaCqETtik8oE7M9D8wxrW) | 2:49 |
 | 279 | [Time Machine](https://open.spotify.com/track/0wfa517BvgllE2ZDgReFDJ) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns) | 3:34 |
 | 280 | [Higher Power \- Acoustic Version](https://open.spotify.com/track/6pEoxM3fluEh1Cbh6ODkWH) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power \(Acoustic Version\)](https://open.spotify.com/album/4VsMbx69vl5FmhkosEa9By) | 3:34 |
 | 281 | [Admit It \(u dont want 2\)](https://open.spotify.com/track/1yWRsIslkxTnvBO2OMyzjc) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [USB](https://open.spotify.com/album/1tIp3NC564c1P9njNFJAqS) | 6:25 |
@@ -314,8 +314,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 304 | [Do You Know \(What It Takes\)](https://open.spotify.com/track/0idCpkJ2pspfAILbanmERu) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Robyn Is Here](https://open.spotify.com/album/5OvepfQiCFMCzML6fTgrBW) | 3:41 |
 | 305 | [Seal It with a Kiss](https://open.spotify.com/track/1gilYs9AY8a75q275GTkiY) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ) | 3:26 |
 | 306 | [Can't Make You Love Me](https://open.spotify.com/track/7pY6xLJqmezJNG7VwuKVSH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:17 |
-| 307 | [Dirty Love](https://open.spotify.com/track/4I5JjW4KpDiC7kJBpCmxhH) | [Cher Lloyd](https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k) | [Sorry I'm Late](https://open.spotify.com/album/7tG9wuLLbhOx38KY9JBTU7) | 3:18 |
-| 308 | [Lonely Dancers](https://open.spotify.com/track/0QctD9krtPbC8KBOK6hRfb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Lonely Dancers](https://open.spotify.com/album/763Pp8jgi2eWEyQ9SGzODd) | 2:29 |
+| 307 | [Lonely Dancers](https://open.spotify.com/track/0QctD9krtPbC8KBOK6hRfb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Lonely Dancers](https://open.spotify.com/album/763Pp8jgi2eWEyQ9SGzODd) | 2:29 |
+| 308 | [Dirty Love](https://open.spotify.com/track/4I5JjW4KpDiC7kJBpCmxhH) | [Cher Lloyd](https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k) | [Sorry I'm Late](https://open.spotify.com/album/7tG9wuLLbhOx38KY9JBTU7) | 3:18 |
 | 309 | [Tonight I’m Getting Over You \- Remix](https://open.spotify.com/track/1AHdaLNaXi9QW3GLNHVzgF) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Tonight I’m Getting Over You \(Remix\)](https://open.spotify.com/album/31rkcQeVloUtn3xJJh0vvk) | 4:03 |
 | 310 | [Show Me What You Got](https://open.spotify.com/track/6xIkmrDfxXnaj0oU5o88zk) | [G.R.L.](https://open.spotify.com/artist/3Yl4nkmEa8BSuGWbwhdLDq) | [Show Me What You Got](https://open.spotify.com/album/4Zaf2ICdCvi6genCqkoCOY) | 3:26 |
 | 311 | [If Jesus Was A Rockstar](https://open.spotify.com/track/2FVxHTXY9Ns9RasjDXOYVq) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [If Jesus Was A Rockstar](https://open.spotify.com/album/7MFI6PLBQLdYZpHHokD6vL) | 2:50 |
@@ -429,8 +429,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 419 | [Turned And Walked Away](https://open.spotify.com/track/61MlDHGAOqhHjCAdEIL111) | [Jessica Folcker](https://open.spotify.com/artist/3T785XgAciwkJGoPt1nMEU) | [Jessica](https://open.spotify.com/album/3pU2AEckDWc4rW1Ekwuuos) | 3:54 |
 | 420 | [I'm Your Man](https://open.spotify.com/track/7Fm4SYNLuVJnarqdsS9WSc) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [Like a Bolt \(Expanded Version\)](https://open.spotify.com/album/6UyKbiYOZN8QI6Nqv7RPo4) | 2:26 |
 | 421 | [A Little Bit Longer](https://open.spotify.com/track/1hD39GbLRI1pscvIPIkYwQ) | [Jessica Folcker](https://open.spotify.com/artist/3T785XgAciwkJGoPt1nMEU) | [Jessica](https://open.spotify.com/album/3pU2AEckDWc4rW1Ekwuuos) | 4:05 |
-| 422 | [Lie...It's Alright](https://open.spotify.com/track/2WXfnVVF6PnNDo6FwUIIu5) | [Bo Bice](https://open.spotify.com/artist/2Q1FIPavG8WZF33kqIP3sy) | [The Real Thing](https://open.spotify.com/album/4g0TGHOAnACPsqCwSoOR4m) | 3:29 |
-| 423 | [Eintausend Teile](https://open.spotify.com/track/1tvEuaJGDFnERVynxzuRp6) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Eintausend Teile](https://open.spotify.com/album/7Itq48oKL1MTHG2hLud7bc) | 2:23 |
+| 422 | [Eintausend Teile](https://open.spotify.com/track/1tvEuaJGDFnERVynxzuRp6) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Eintausend Teile](https://open.spotify.com/album/7Itq48oKL1MTHG2hLud7bc) | 2:23 |
+| 423 | [Lie...It's Alright](https://open.spotify.com/track/2WXfnVVF6PnNDo6FwUIIu5) | [Bo Bice](https://open.spotify.com/artist/2Q1FIPavG8WZF33kqIP3sy) | [The Real Thing](https://open.spotify.com/album/4g0TGHOAnACPsqCwSoOR4m) | 3:29 |
 | 424 | [Big Funky Dealer](https://open.spotify.com/track/3qtNR3xi8o97ujHNYExiDL) | [HERBIE](https://open.spotify.com/artist/5PfGQ1ZADHPl42iFtJX1wF) | [Fingers](https://open.spotify.com/album/2KkZKAzcM4njK2nD7TGQwA) | 4:17 |
 | 425 | [Rainbow Child](https://open.spotify.com/track/4ZZFUzlQxmM96VKY1B7ry5) | [HERBIE](https://open.spotify.com/artist/5PfGQ1ZADHPl42iFtJX1wF) | [Fingers](https://open.spotify.com/album/2KkZKAzcM4njK2nD7TGQwA) | 3:12 |
 | 426 | [Missing You Crazy](https://open.spotify.com/track/245sh9IIt5LrSbteenqwbW) | [Jessica Folcker](https://open.spotify.com/artist/3T785XgAciwkJGoPt1nMEU) | [Dino](https://open.spotify.com/album/11zpEZs4x1883QuHl02KVl) | 4:06 |
@@ -445,4 +445,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 435 | [Io Non Piango Più](https://open.spotify.com/track/6dVtYE87ODIScZkBLM6nX8) | [Clara Moroni](https://open.spotify.com/artist/1xIa0kM33TSTfQvIeC7Ib8) | [Bambina Brava](https://open.spotify.com/album/4ELJA6fChKI9P7HeuP55gj) | 3:30 |
 | 436 | [Love Like Sunshine \- Extended Mix](https://open.spotify.com/track/2iR1ZEcz7jp6uQKCqD91Ju) | [Laughing Boy](https://open.spotify.com/artist/2fjHh41HxxZyqoEmCGu5da) | [Love Like Sunshine \(The Mixes\)](https://open.spotify.com/album/5Ccyus1hzkaY2JzmvnpqsN) | 6:35 |
 
-Snapshot ID: `Mjg0OTE5NjAsMDAwMDAwMDBjOGIzZTVkOWJkNDU2MzE2MWM1NTI0OWYyMTJhYmMyNg==`
+Snapshot ID: `Mjg0OTM0MDAsMDAwMDAwMDA1ZGVhYTA1OGJlMDVjMzdkMzE3ZTQ4ZDQ2M2FiMWE4MA==`

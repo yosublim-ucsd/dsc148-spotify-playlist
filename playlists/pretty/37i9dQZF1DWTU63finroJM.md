@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future\. New artists on the horizon\. Cover: Blusher.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,232 likes - 114 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,246 likes - 114 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 41 | [Normalde](https://open.spotify.com/track/6wLrvbWwQI3o5gpWEnJTFw) | [Ege Can Sal](https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX) | [Normalde](https://open.spotify.com/album/2IXnb0005FkTtvxvpZNiYs) | 2:21 |
 | 42 | [Yalnızlık Bana Kalan](https://open.spotify.com/track/1MLVv52wh7QmiW0mQEKKuV) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Büyüklere Ninniler](https://open.spotify.com/album/2zviwzygpyVqqab20KQC5T) | 3:17 |
 | 43 | [If You Said So \(feat\. Wxrdie & 2Pillz\)](https://open.spotify.com/track/0HoW6vYSTE9eutD16ZpXv0) | [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0), [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw) | [If You Said So \(feat\. Wxrdie & 2Pillz\)](https://open.spotify.com/album/6AtPsc69M5XW9Uib4mA2qi) | 2:36 |
-| 44 | [失約巴黎](https://open.spotify.com/track/4BEltAGEqpAGiZHakYyRE9) | [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [失約巴黎](https://open.spotify.com/album/67wQwAfZPCkFf4s3QQY4I4) | 3:42 |
-| 45 | [El Disfraz](https://open.spotify.com/track/0bp6nK8rHiJ1nqcjiRDRe2) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A) | [SexySensible](https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1) | 2:44 |
-| 46 | [Führerschein](https://open.spotify.com/track/0TU7YkMOLBxrUIOo7SnpIV) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Führerschein](https://open.spotify.com/album/2x7ou8ctS719LdjHz2DoBp) | 4:02 |
+| 44 | [Führerschein](https://open.spotify.com/track/0TU7YkMOLBxrUIOo7SnpIV) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Führerschein](https://open.spotify.com/album/2x7ou8ctS719LdjHz2DoBp) | 4:02 |
+| 45 | [失約巴黎](https://open.spotify.com/track/4BEltAGEqpAGiZHakYyRE9) | [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [失約巴黎](https://open.spotify.com/album/67wQwAfZPCkFf4s3QQY4I4) | 3:42 |
+| 46 | [El Disfraz](https://open.spotify.com/track/0bp6nK8rHiJ1nqcjiRDRe2) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A) | [SexySensible](https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1) | 2:44 |
 | 47 | [Salt](https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Salt](https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2) | 3:07 |
 | 48 | [LOSTWITHOUTMARIA](https://open.spotify.com/track/5vHRQOgc2tQb4h7KrBQUmS) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [LOSTWITHOUTMARIA](https://open.spotify.com/album/19JU2xfgLz08uhItsL9mrT) | 2:34 |
 | 49 | [ペアリング](https://open.spotify.com/track/2vznAtq5wtn4D7U6WCwu5l) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [ペアリング](https://open.spotify.com/album/78HHdtzcQk4AVf5d46foLP) | 3:09 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 113 | [Nosebleeds](https://open.spotify.com/track/0inudhDQkXZ6DjJ2X0lbcy) | [Korby](https://open.spotify.com/artist/7bOKq0vFB4YI8MP9yqvwnH) | [Nosebleeds](https://open.spotify.com/album/7Lt1XU0k4PqrRWQmEKB1v9) | 2:47 |
 | 114 | [Ignorant \(feat\. Puri, Landon Cube\) \- Spotify Singles](https://open.spotify.com/track/6B40gOyEJU52bnuyepRubO) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp), [Landon Cube](https://open.spotify.com/artist/04ei5kNgmDuNAydFhhIHnD) | [Ignorant / Good Time](https://open.spotify.com/album/5lEr77mX7UpUDwZQpAl7No) | 3:56 |
 
-Snapshot ID: `MCw3YWRlOGQ5YWNlNWRjMTJiZDcxYjMzNjMwYTBhYjJiMzRlMDZmMDI5`
+Snapshot ID: `MCw4YzU2M2ViMjA2MzljMWQ1MTE1NzU5ZGQ1Yzc5NmRiOWMzODYwMGM1`

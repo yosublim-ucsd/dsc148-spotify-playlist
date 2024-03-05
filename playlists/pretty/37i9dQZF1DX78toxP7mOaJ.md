@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: unpeople
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,318 likes - 102 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,351 likes - 102 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 101 | [Here](https://open.spotify.com/track/1IfQ5kpNLdyejFMB28CEzO) | [Hothead Wave](https://open.spotify.com/artist/3s2hKPMbGXpWXpGPYloNz5) | [Here](https://open.spotify.com/album/0Qmdbz6WbN3VtVDiRJPcZO) | 3:52 |
 | 102 | [Plateau](https://open.spotify.com/track/3VBNyssoLrTaLW1NAbibss) | [Hexmaze](https://open.spotify.com/artist/2RaLhh25Ct5KABbL3J332E) | [Plateau](https://open.spotify.com/album/1lVO4AstvS0S7tR1y8t9ko) | 4:42 |
 
-Snapshot ID: `MCw4NTIzNzI5N2UwYzUxM2M1MzUyYmY5ZWZiY2U2YThkNGZmNDYzYzAy`
+Snapshot ID: `MCw0ZDQwNzgxZDVkZmY2MmFkOTVkMmU5ZGI1YWY0ODIzNWJkOTE0NTMx`

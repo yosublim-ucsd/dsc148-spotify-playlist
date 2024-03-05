@@ -1,12 +1,12 @@
 {
   "description": "Soft instrumental jazz for working or studying.",
-  "num_followers": 246259,
+  "num_followers": 246346,
   "original_name": "Focus Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODNlNzBkNzJiNDIyOTg0MjU4Nzg1YjU5NzdkNzY2MzUzOTQ4ZTAx",
+  "snapshot_id": "MCw3ZjI1OTJmODM1OGNhNjRhZDk5NGM3MzZiOThlN2MzZTZlN2FkNTA4",
   "tracks": [
     {
       "added_at": "2024-02-23 00:01:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Smooth Sailing",
-        "url": "https://open.spotify.com/album/1k28WBci9JPB2zCTplu2GJ"
-      },
-      "artists": [
-        {
-          "name": "Norberg",
-          "url": "https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy"
-        }
-      ],
-      "duration_ms": 125328,
-      "name": "Smooth Sailing",
-      "url": "https://open.spotify.com/track/6yRs3JOb7GP0PYhlG6hVbe"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "English Rose",
         "url": "https://open.spotify.com/album/1Glhi5IB4ukDTgnfuzTwdX"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 186053,
       "name": "English Rose",
       "url": "https://open.spotify.com/track/1vNFoWu3d80MnNkgjlaQ7k"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Smooth Sailing",
+        "url": "https://open.spotify.com/album/1k28WBci9JPB2zCTplu2GJ"
+      },
+      "artists": [
+        {
+          "name": "Norberg",
+          "url": "https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy"
+        }
+      ],
+      "duration_ms": 125328,
+      "name": "Smooth Sailing",
+      "url": "https://open.spotify.com/track/6yRs3JOb7GP0PYhlG6hVbe"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -3355,22 +3355,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "The Meadows",
-        "url": "https://open.spotify.com/album/6PosHibdf6McSbAZLgZAg6"
-      },
-      "artists": [
-        {
-          "name": "Jaden Berry",
-          "url": "https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL"
-        }
-      ],
-      "duration_ms": 195587,
-      "name": "The Meadows",
-      "url": "https://open.spotify.com/track/120GHgxD1qLdNpnz2NT7Je"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Memories Of Her Music",
         "url": "https://open.spotify.com/album/0ae4cJFhCtFf2ZSO4UMewV"
       },
@@ -3415,6 +3399,22 @@
       "duration_ms": 224731,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/1o4HX3IdpPdoT3zB8bThhb"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "The Meadows",
+        "url": "https://open.spotify.com/album/6PosHibdf6McSbAZLgZAg6"
+      },
+      "artists": [
+        {
+          "name": "Jaden Berry",
+          "url": "https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL"
+        }
+      ],
+      "duration_ms": 195587,
+      "name": "The Meadows",
+      "url": "https://open.spotify.com/track/120GHgxD1qLdNpnz2NT7Je"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -4875,6 +4875,22 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
+        "name": "I gotta run",
+        "url": "https://open.spotify.com/album/3X1FnR1QZ0SZ3QkvtXnalG"
+      },
+      "artists": [
+        {
+          "name": "Ornette Haynes",
+          "url": "https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6"
+        }
+      ],
+      "duration_ms": 188730,
+      "name": "I gotta run",
+      "url": "https://open.spotify.com/track/7BB0KhE9SURfW1v8M826qo"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
         "name": "Now that we are here",
         "url": "https://open.spotify.com/album/4rzLnj1bsRZNq3MDEr6Hh8"
       },
@@ -4923,18 +4939,18 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "I gotta run",
-        "url": "https://open.spotify.com/album/3X1FnR1QZ0SZ3QkvtXnalG"
+        "name": "A Real Show",
+        "url": "https://open.spotify.com/album/0NyYKacgfxr3CgJcVX484z"
       },
       "artists": [
         {
-          "name": "Ornette Haynes",
-          "url": "https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6"
+          "name": "Motor City Trio",
+          "url": "https://open.spotify.com/artist/3hu0bCz2XTFEEL3WYjo0fs"
         }
       ],
-      "duration_ms": 188730,
-      "name": "I gotta run",
-      "url": "https://open.spotify.com/track/7BB0KhE9SURfW1v8M826qo"
+      "duration_ms": 174091,
+      "name": "A Real Show",
+      "url": "https://open.spotify.com/track/7F8Hn4PBfwWPr6eK6ow1lp"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -5015,22 +5031,6 @@
       "duration_ms": 211671,
       "name": "Numerous Occasions",
       "url": "https://open.spotify.com/track/7Cmp85HSefyHtULmgajybL"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "A Real Show",
-        "url": "https://open.spotify.com/album/0NyYKacgfxr3CgJcVX484z"
-      },
-      "artists": [
-        {
-          "name": "Motor City Trio",
-          "url": "https://open.spotify.com/artist/3hu0bCz2XTFEEL3WYjo0fs"
-        }
-      ],
-      "duration_ms": 174091,
-      "name": "A Real Show",
-      "url": "https://open.spotify.com/track/7F8Hn4PBfwWPr6eK6ow1lp"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -5243,6 +5243,22 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
+        "name": "Midnight Fairytale",
+        "url": "https://open.spotify.com/album/3buXxoeXLMcwS9LQbzRGev"
+      },
+      "artists": [
+        {
+          "name": "Tanner King Trio",
+          "url": "https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8"
+        }
+      ],
+      "duration_ms": 129414,
+      "name": "Midnight Fairytale",
+      "url": "https://open.spotify.com/track/7cZxQ0m9bK0TLsaUD2UoQd"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
         "name": "Maia Oh Maia",
         "url": "https://open.spotify.com/album/2dDG5MRroFXo6i60i5MnPQ"
       },
@@ -5271,22 +5287,6 @@
       "duration_ms": 204617,
       "name": "Impressive-looking",
       "url": "https://open.spotify.com/track/1uM5EU6CdbnOVtPKVvqnI2"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "Midnight Fairytale",
-        "url": "https://open.spotify.com/album/3buXxoeXLMcwS9LQbzRGev"
-      },
-      "artists": [
-        {
-          "name": "Tanner King Trio",
-          "url": "https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8"
-        }
-      ],
-      "duration_ms": 129414,
-      "name": "Midnight Fairytale",
-      "url": "https://open.spotify.com/track/7cZxQ0m9bK0TLsaUD2UoQd"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -6759,22 +6759,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "No Matter What",
-        "url": "https://open.spotify.com/album/0pBZHvaNc5YuCxCPsXoEiL"
-      },
-      "artists": [
-        {
-          "name": "Bedford and 7th",
-          "url": "https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE"
-        }
-      ],
-      "duration_ms": 185346,
-      "name": "No Matter What",
-      "url": "https://open.spotify.com/track/23ftImdUHey1ZDYVL1t0VP"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Dreamsville",
         "url": "https://open.spotify.com/album/60rdAuFzDeyUJIJRneqY3A"
       },
@@ -6787,6 +6771,22 @@
       "duration_ms": 261061,
       "name": "Dreamsville",
       "url": "https://open.spotify.com/track/4AnJZTcx01nxo47QyYbskV"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "No Matter What",
+        "url": "https://open.spotify.com/album/0pBZHvaNc5YuCxCPsXoEiL"
+      },
+      "artists": [
+        {
+          "name": "Bedford and 7th",
+          "url": "https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE"
+        }
+      ],
+      "duration_ms": 185346,
+      "name": "No Matter What",
+      "url": "https://open.spotify.com/track/23ftImdUHey1ZDYVL1t0VP"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -7031,22 +7031,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Numbers",
-        "url": "https://open.spotify.com/album/1O4evJabwDBsEixzbR0eRO"
-      },
-      "artists": [
-        {
-          "name": "Andreas Gidlund",
-          "url": "https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO"
-        }
-      ],
-      "duration_ms": 206750,
-      "name": "Numbers",
-      "url": "https://open.spotify.com/track/6SDA08SDIvOubZQXGsNBRo"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Dave\u2019s Waltz",
         "url": "https://open.spotify.com/album/2wZOolV02qRIJjOI71L8F1"
       },
@@ -7059,6 +7043,22 @@
       "duration_ms": 186870,
       "name": "Simple Things",
       "url": "https://open.spotify.com/track/4oOkC6iNHVNtJJWHD8fqiL"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Numbers",
+        "url": "https://open.spotify.com/album/1O4evJabwDBsEixzbR0eRO"
+      },
+      "artists": [
+        {
+          "name": "Andreas Gidlund",
+          "url": "https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO"
+        }
+      ],
+      "duration_ms": 206750,
+      "name": "Numbers",
+      "url": "https://open.spotify.com/track/6SDA08SDIvOubZQXGsNBRo"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -7111,6 +7111,22 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
+        "name": "Midday Walk",
+        "url": "https://open.spotify.com/album/47WU0DqHlyUmr3LYNiXdEp"
+      },
+      "artists": [
+        {
+          "name": "Loft Trio",
+          "url": "https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI"
+        }
+      ],
+      "duration_ms": 211347,
+      "name": "Midday Walk",
+      "url": "https://open.spotify.com/track/1rgG63Kci1aVlCCxFjQ4ci"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
         "name": "Think of refusing",
         "url": "https://open.spotify.com/album/2hy3Rx2lNsnIR3YL4csFFZ"
       },
@@ -7139,22 +7155,6 @@
       "duration_ms": 216000,
       "name": "The Last Call",
       "url": "https://open.spotify.com/track/31ojaZG2e30V671L4Z5ntW"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "Midday Walk",
-        "url": "https://open.spotify.com/album/47WU0DqHlyUmr3LYNiXdEp"
-      },
-      "artists": [
-        {
-          "name": "Loft Trio",
-          "url": "https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI"
-        }
-      ],
-      "duration_ms": 211347,
-      "name": "Midday Walk",
-      "url": "https://open.spotify.com/track/1rgG63Kci1aVlCCxFjQ4ci"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -8311,6 +8311,22 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
+        "name": "My Heart Stood Still",
+        "url": "https://open.spotify.com/album/2gfF3mlpt7aEvSiSyi1CEj"
+      },
+      "artists": [
+        {
+          "name": "Baxter Williams",
+          "url": "https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg"
+        }
+      ],
+      "duration_ms": 246720,
+      "name": "My Heart Stood Still",
+      "url": "https://open.spotify.com/track/1QbgNds5Ye8BovkywTbliF"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
         "name": "Beautiful Sunrise",
         "url": "https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH"
       },
@@ -8355,22 +8371,6 @@
       "duration_ms": 168948,
       "name": "All The Things You Are",
       "url": "https://open.spotify.com/track/3DEZOaXvDvRw8ESZE4RaHF"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "My Heart Stood Still",
-        "url": "https://open.spotify.com/album/2gfF3mlpt7aEvSiSyi1CEj"
-      },
-      "artists": [
-        {
-          "name": "Baxter Williams",
-          "url": "https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg"
-        }
-      ],
-      "duration_ms": 246720,
-      "name": "My Heart Stood Still",
-      "url": "https://open.spotify.com/track/1QbgNds5Ye8BovkywTbliF"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -9131,22 +9131,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "See You At The Fair",
-        "url": "https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "The Single Petal Of A Rose",
-      "url": "https://open.spotify.com/track/1Fn7dIAjR3bYpehwLQqwkb"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "East of the Sun (and West of the Moon)",
         "url": "https://open.spotify.com/album/3m9hWHNQW4BoqIzx6oKd7w"
       },
@@ -9159,6 +9143,22 @@
       "duration_ms": 206505,
       "name": "East of the Sun (and West of the Moon)",
       "url": "https://open.spotify.com/track/4FONhpQFrEZI46uvAOi8OK"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "See You At The Fair",
+        "url": "https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "The Single Petal Of A Rose",
+      "url": "https://open.spotify.com/track/1Fn7dIAjR3bYpehwLQqwkb"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -9723,6 +9723,22 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
+        "name": "Blue Mist",
+        "url": "https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit"
+      },
+      "artists": [
+        {
+          "name": "Matt Marantz Quartet",
+          "url": "https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V"
+        }
+      ],
+      "duration_ms": 320957,
+      "name": "Pour It Out",
+      "url": "https://open.spotify.com/track/7GZ7kYUBPNm9whqDDeod1r"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
         "name": "Thea",
         "url": "https://open.spotify.com/album/1JWQZRwYtSDoW7P3Yy0uOq"
       },
@@ -9751,22 +9767,6 @@
       "duration_ms": 407533,
       "name": "Everybody's Somebody's Fool",
       "url": "https://open.spotify.com/track/3Fd6oqnuEVzOjzfh13k0CA"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "Blue Mist",
-        "url": "https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit"
-      },
-      "artists": [
-        {
-          "name": "Matt Marantz Quartet",
-          "url": "https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V"
-        }
-      ],
-      "duration_ms": 320957,
-      "name": "Pour It Out",
-      "url": "https://open.spotify.com/track/7GZ7kYUBPNm9whqDDeod1r"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -10451,6 +10451,22 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
+        "name": "Limerence",
+        "url": "https://open.spotify.com/album/4dfayCxblG2wzUIJUYQeXG"
+      },
+      "artists": [
+        {
+          "name": "Andy Goodman",
+          "url": "https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi"
+        }
+      ],
+      "duration_ms": 227166,
+      "name": "Limerence",
+      "url": "https://open.spotify.com/track/7C3UrJfqTmzpUtKG6XIgAV"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
         "name": "Curtain Call",
         "url": "https://open.spotify.com/album/1BoPscUZWGRFtPeUdrXI1c"
       },
@@ -10467,22 +10483,6 @@
       "duration_ms": 358360,
       "name": "Deep In A Dream",
       "url": "https://open.spotify.com/track/18hwNCTbIso4xsWBUo0XlT"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "Limerence",
-        "url": "https://open.spotify.com/album/4dfayCxblG2wzUIJUYQeXG"
-      },
-      "artists": [
-        {
-          "name": "Andy Goodman",
-          "url": "https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi"
-        }
-      ],
-      "duration_ms": 227166,
-      "name": "Limerence",
-      "url": "https://open.spotify.com/track/7C3UrJfqTmzpUtKG6XIgAV"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -10911,22 +10911,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Whisper Not",
-        "url": "https://open.spotify.com/album/62mXx6KyfhkdLrLivZbe53"
-      },
-      "artists": [
-        {
-          "name": "Keith Jarrett Trio",
-          "url": "https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj"
-        }
-      ],
-      "duration_ms": 382106,
-      "name": "All My Tomorrows - Live At Palais Des Congres, Paris / 1999",
-      "url": "https://open.spotify.com/track/3VUFA0cz9OEGMshT0NK762"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "The Hawk Relaxes",
         "url": "https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH"
       },
@@ -10939,6 +10923,22 @@
       "duration_ms": 304213,
       "name": "Just A Gigolo",
       "url": "https://open.spotify.com/track/1S653s5e7kQV7MxIKZcCIc"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Whisper Not",
+        "url": "https://open.spotify.com/album/62mXx6KyfhkdLrLivZbe53"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett Trio",
+          "url": "https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj"
+        }
+      ],
+      "duration_ms": 382106,
+      "name": "All My Tomorrows - Live At Palais Des Congres, Paris / 1999",
+      "url": "https://open.spotify.com/track/3VUFA0cz9OEGMshT0NK762"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -11027,38 +11027,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "I Got Rhythm",
-        "url": "https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9"
-      },
-      "artists": [
-        {
-          "name": "Teddy Wilson",
-          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
-        }
-      ],
-      "duration_ms": 211146,
-      "name": "Blues For Daryl",
-      "url": "https://open.spotify.com/track/6oTTdFI04W4QbfyzKfeTaI"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "60 Miles to Vegas",
-        "url": "https://open.spotify.com/album/1awLbiU61GNd82Trm0opNL"
-      },
-      "artists": [
-        {
-          "name": "Motor City Trio",
-          "url": "https://open.spotify.com/artist/3hu0bCz2XTFEEL3WYjo0fs"
-        }
-      ],
-      "duration_ms": 163420,
-      "name": "60 Miles to Vegas",
-      "url": "https://open.spotify.com/track/1lh26QT19Mh0l8BSvakaKv"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Tribute",
         "url": "https://open.spotify.com/album/2AUplxqaiqTaDpY9QsCgPx"
       },
@@ -11071,6 +11039,22 @@
       "duration_ms": 428226,
       "name": "It's Easy To Remember - Live",
       "url": "https://open.spotify.com/track/2VLF3Q1yVvTwG32F5uW4z2"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "I Got Rhythm",
+        "url": "https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9"
+      },
+      "artists": [
+        {
+          "name": "Teddy Wilson",
+          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
+        }
+      ],
+      "duration_ms": 211146,
+      "name": "Blues For Daryl",
+      "url": "https://open.spotify.com/track/6oTTdFI04W4QbfyzKfeTaI"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -11091,22 +11075,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Standards",
-        "url": "https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf"
-      },
-      "artists": [
-        {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
-        }
-      ],
-      "duration_ms": 357160,
-      "name": "Blues In The Night - Short Version",
-      "url": "https://open.spotify.com/track/4ZuUE6H5yONhrEw74aWcpU"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Nice People",
         "url": "https://open.spotify.com/album/2V8adRKIBTgptogEDc2U8p"
       },
@@ -11119,6 +11087,38 @@
       "duration_ms": 319333,
       "name": "Everything Happens to Me",
       "url": "https://open.spotify.com/track/113E6wtJ5gM2KwhWnj8dwr"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "60 Miles to Vegas",
+        "url": "https://open.spotify.com/album/1awLbiU61GNd82Trm0opNL"
+      },
+      "artists": [
+        {
+          "name": "Motor City Trio",
+          "url": "https://open.spotify.com/artist/3hu0bCz2XTFEEL3WYjo0fs"
+        }
+      ],
+      "duration_ms": 163420,
+      "name": "60 Miles to Vegas",
+      "url": "https://open.spotify.com/track/1lh26QT19Mh0l8BSvakaKv"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Standards",
+        "url": "https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        }
+      ],
+      "duration_ms": 357160,
+      "name": "Blues In The Night - Short Version",
+      "url": "https://open.spotify.com/track/4ZuUE6H5yONhrEw74aWcpU"
     },
     {
       "added_at": "2024-02-23 00:01:00",

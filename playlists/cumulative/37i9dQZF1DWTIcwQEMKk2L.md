@@ -4,7 +4,7 @@
 
 > 愜意放鬆，使自己沉浸在這些動人而優美的鋼琴曲之中。
 
-121 songs - 5 hr 29 min
+124 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Libélula](https://open.spotify.com/track/5EaqAJx6JpnQkJ7HM9X3hC) | [Coralia del Villar](https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P) | [Libélula](https://open.spotify.com/album/42ZESTdaAFvHlErpRd2KzT) | 2:45 | 2023-11-20 |  |
 | [Limitation \(Scaled Down Version\)](https://open.spotify.com/track/4ZTvGA5KudTVKbhmaH3CLb) | [Vincent & A Secret](https://open.spotify.com/artist/56GQPPkhPG3G9LgFEo7Ae6) | [P.S\. I'm Still Here](https://open.spotify.com/album/3c1UFkkA7goX16ZYoHawV1) | 2:12 | 2023-11-20 | 2024-01-19 |
 | [Looking Forward, Looking Backward](https://open.spotify.com/track/3W67I10IdSjH3ViNhYzzZu) | [Robin Bennich](https://open.spotify.com/artist/1GfrQqvl1vPBIgZZJTDAvM) | [Looking Forward, Looking Backward](https://open.spotify.com/album/06NR2OTQUhdiltkVeGI50x) | 2:57 | 2023-11-20 | 2023-11-29 |
+| [Love For Sale](https://open.spotify.com/track/3lW5Ck2tvHZPQwOWEF0GF8) | [Andy Luma](https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof) | [Cherokee](https://open.spotify.com/album/5tlafy4PFxdDv5vxuXNlDR) | 2:23 | 2024-03-04 |  |
 | [L’herbe verte](https://open.spotify.com/track/1Pjy5zOeaXPieqUfiSdGEb) | [Marceau Sartre](https://open.spotify.com/artist/3WUn0TYXefhcLNOs4BMW6l) | [L’herbe verte](https://open.spotify.com/album/5rPSm5zRMNh2iDrcWY0QAI) | 2:21 | 2023-11-20 |  |
 | [Magari](https://open.spotify.com/track/3cbYtmntj3mAHLoM1CEfzZ) | [Riccardo Lettiere](https://open.spotify.com/artist/5umUIBjnV8j12Qu5Zeni2x) | [Magari](https://open.spotify.com/album/7jIDxPIv8IFMdVIsiZ2Sg5) | 1:48 | 2023-12-04 | 2023-12-16 |
 | [Magnificent](https://open.spotify.com/track/1gjZYQff9vXXru1KI6XJHd) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Magnificent](https://open.spotify.com/album/3sBAbDkxVcDKACCpFUcgCn) | 2:34 | 2023-11-20 |  |
@@ -86,7 +87,7 @@
 | [Ornamental](https://open.spotify.com/track/01rwfTz2dYAldzFRtACqTm) | [Marie Denis](https://open.spotify.com/artist/6rAjrihudWZBgNx0WsY2q3) | [Movement](https://open.spotify.com/album/5Mob5wTrlu4hFQUEL0Reb9) | 4:36 | 2023-11-20 | 2023-12-08 |
 | [Over The Rainbow](https://open.spotify.com/track/2Wvwr16E4O51JeNSs5K5Dp) | [Sonya O'Malley](https://open.spotify.com/artist/2zHAzPVrmoidT7wKGNkifE) | [Fall Pieces](https://open.spotify.com/album/5LqzeMY8gUH0jvcQBYLTjp) | 3:58 | 2023-11-20 |  |
 | [Oyasumi Nasai](https://open.spotify.com/track/6EtJU8JmcF7v8sLBEIO9tK) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Oyasumi Nasai](https://open.spotify.com/album/6zH199CcNElk23h0lqJ9c4) | 2:44 | 2023-11-20 |  |
-| [Patience](https://open.spotify.com/track/013eYaVKpTVsX41dEPSFt8) | [Augusta Winslow](https://open.spotify.com/artist/6Wn5qwb2t9rkoewfpdAp8z) | [Patience](https://open.spotify.com/album/0v94JSSqZJG235UT7MX2ZB) | 3:03 | 2024-02-12 |  |
+| [Patience](https://open.spotify.com/track/013eYaVKpTVsX41dEPSFt8) | [Augusta Winslow](https://open.spotify.com/artist/6Wn5qwb2t9rkoewfpdAp8z) | [Patience](https://open.spotify.com/album/0v94JSSqZJG235UT7MX2ZB) | 3:03 | 2024-02-12 | 2024-03-05 |
 | [Peace Within](https://open.spotify.com/track/1Wfu5TKZ6B6B7rkpIEmrUE) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Nocturne](https://open.spotify.com/album/7b2fxYSSumh0ViCuTTUQOc) | 3:48 | 2023-11-20 |  |
 | [Pennies From Heaven](https://open.spotify.com/track/5FZ1EwzovpSlbfPK2eynR0) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [Pennies From Heaven](https://open.spotify.com/album/75bRjjsmOtXqoSHeziafj0) | 4:29 | 2024-01-29 |  |
 | [Perfect](https://open.spotify.com/track/4XIjT3aXNrg3xgAnzczJ5B) | [Piano Pianissimo](https://open.spotify.com/artist/48vVtpjXYUwaX03U1aIm0x) | [Soft Piano Tunes](https://open.spotify.com/album/3UYr2MnyB2nTHv3T9tcuAr) | 4:08 | 2023-11-20 |  |
@@ -104,14 +105,16 @@
 | [Say You Wont Let Go](https://open.spotify.com/track/4eyOZVDzYlVslh6POZ9AVP) | [Ronald Emery](https://open.spotify.com/artist/6QZfFu9pzOaYtvkCAJP22j) | [Piano Hits Chill](https://open.spotify.com/album/7lQ9Sx3i7oqYDLfjEJnOnS) | 3:50 | 2023-11-20 |  |
 | [Silhouette](https://open.spotify.com/track/4Eq7aF59snLVoxPKUAHhUz) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Oddities](https://open.spotify.com/album/5xl48qsYt6IMQlXSKESZsW) | 3:32 | 2023-11-20 |  |
 | [Softly Spoken](https://open.spotify.com/track/4YxLJVcYXgN1Kxb67BvxEZ) | [Atticus Laines](https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6) | [Softly Spoken](https://open.spotify.com/album/5sZc4I4qqVcgMOSul9jIFw) | 2:16 | 2023-11-20 |  |
+| [Star Eyes](https://open.spotify.com/track/0uY4n9q4ViY6ijBNvzVx1Z) | [Angel Gregoire](https://open.spotify.com/artist/68NEUYAM0BKrdgENaJ8wlF) | [Star Eyes](https://open.spotify.com/album/3jGRLCp4Ix9ZCICt5Aey6I) | 3:40 | 2024-03-04 |  |
 | [Stella's lullaby](https://open.spotify.com/track/01A0U3qOAyfbSfTVP0B0N4) | [Wendy Salisbury](https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek) | [Stella's lullaby](https://open.spotify.com/album/4Meb2u6sPmMfTHChqtN4M1) | 2:25 | 2023-11-20 |  |
+| [Still in Love With You](https://open.spotify.com/track/0ih8Jf1BQ3TpVHiPKW9WTZ) | [Angelina Winter](https://open.spotify.com/artist/59hnRNabyJTGrtAmliJFEl) | [Still in Love With You](https://open.spotify.com/album/7a5LKBZ7B5093OFghLDbic) | 2:36 | 2024-03-04 |  |
 | [Ständchen in D Minor \(After Schubert\), S\. 560](https://open.spotify.com/track/3GecLjGMqzjmgkvy2v41Wf) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Lise de la Salle](https://open.spotify.com/artist/1Z6QKxH36L3ff4yhBD3r1W) | [Liszt](https://open.spotify.com/album/12TLeKJv0q5fnF2obaf6Is) | 5:57 | 2023-11-20 |  |
 | [Summer Waltz / The Drive](https://open.spotify.com/track/3Og6m4ltVGu3OteMm1Qw5F) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Breathe In \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5cvhwLaFo0osyZmxdTvis2) | 1:29 | 2023-11-20 |  |
 | [Sunlight](https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU) | [Alec Windt](https://open.spotify.com/artist/3zz0C9ZwusoYHsr5K8b0HW) | [In Love](https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm) | 2:15 | 2023-11-20 | 2024-02-12 |
 | [Swear on this Life](https://open.spotify.com/track/1BPrChYcVUL7S6mEdPxFux) | [Fabienne Willis](https://open.spotify.com/artist/3Dk9sa2fJD0euXyvbJwYY9) | [Swear on this Life](https://open.spotify.com/album/4Zt9oIxlh6r3INxyBzY5Fw) | 2:12 | 2023-11-20 |  |
 | [Szerelem](https://open.spotify.com/track/2QaodYIN7GD9X50xZRIEDc) | [Csizmazia Etel](https://open.spotify.com/artist/0fzi88EmWAkkGiMVuIIi1S) | [Szerelem](https://open.spotify.com/album/3MAqiAswJmXZEXuOQYK7PH) | 2:00 | 2024-02-12 | 2024-02-28 |
 | [The Approaching Night](https://open.spotify.com/track/4eoDPVbSx04PlypRDwjsXk) | [Philip Wesley](https://open.spotify.com/artist/7xaLfXBI5MSy3aNX7m4X3O) | [Dark Night of the Soul](https://open.spotify.com/album/2z7fcGI8oW7BXab2U9ikK1) | 6:39 | 2023-11-20 |  |
-| [The Giant](https://open.spotify.com/track/2TOQzMaEqVVhdeheBVLOMm) | [Dilia](https://open.spotify.com/artist/5uqiYjT81VEQvHDYpIlM7Z) | [The Giant](https://open.spotify.com/album/2LOc5ZVVbA75nq1LKK6HfU) | 3:03 | 2024-02-12 |  |
+| [The Giant](https://open.spotify.com/track/2TOQzMaEqVVhdeheBVLOMm) | [Dilia](https://open.spotify.com/artist/5uqiYjT81VEQvHDYpIlM7Z) | [The Giant](https://open.spotify.com/album/2LOc5ZVVbA75nq1LKK6HfU) | 3:03 | 2024-02-12 | 2024-03-05 |
 | [The Music Of The Night](https://open.spotify.com/track/19SbG4LbAtPp6rrc54ZZVS) | [Niila Alto](https://open.spotify.com/artist/2Dx4S8w95AxrvdhJKQVkmC) | [The Music Of The Night](https://open.spotify.com/album/19gJXpMuISfxSL8E95p2bN) | 4:29 | 2023-11-20 |  |
 | [There You Were](https://open.spotify.com/track/2m6G2vP3x33rQhfmSYB9Iy) | [Vina Anais](https://open.spotify.com/artist/4JuT70DV2rTZTNpMaP8Tto) | [There You Were](https://open.spotify.com/album/0UC1V9t6aGAElVezqqT2LG) | 2:19 | 2023-11-20 | 2023-12-12 |
 | [They Keep Asking](https://open.spotify.com/track/2gY1SFySK9FC7Nq41kBoOd) | [Gottfried Barber](https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl) | [They Keep Asking](https://open.spotify.com/album/6v1pneOr3DwY05Mk90l5v0) | 2:31 | 2024-01-08 |  |
@@ -124,7 +127,7 @@
 | [Vladimir's Blues](https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [The Blue Notebooks \(15 Years\)](https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo) | 1:18 | 2023-11-20 |  |
 | [Wake Me Up](https://open.spotify.com/track/7LolyL6dtp84jYZQuVuACw) | [Purple Tulips](https://open.spotify.com/artist/5gNnXsGugIjsS6LRHidc0h) | [Piano Songs](https://open.spotify.com/album/7BPsCNneS3eOFr3TUWJqkW) | 3:45 | 2023-11-20 |  |
 | [Water Lilly Pond](https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N) | [Malouvia](https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz) | [Water Lilly Pond](https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt) | 3:08 | 2023-11-20 |  |
-| [What if we never met](https://open.spotify.com/track/3yZ9BRpkgqJYtTbz9WZy9j) | [Santo Trevisani](https://open.spotify.com/artist/5veEOahK0E7EPbKKEI55pQ) | [What if we never met](https://open.spotify.com/album/21L56u6AKNUpJYbbW99B7F) | 2:07 | 2024-02-12 |  |
+| [What if we never met](https://open.spotify.com/track/3yZ9BRpkgqJYtTbz9WZy9j) | [Santo Trevisani](https://open.spotify.com/artist/5veEOahK0E7EPbKKEI55pQ) | [What if we never met](https://open.spotify.com/album/21L56u6AKNUpJYbbW99B7F) | 2:07 | 2024-02-12 | 2024-03-05 |
 | [When We First Met](https://open.spotify.com/track/0AACyZj1JuHVFtG19P8GTC) | [Ricki Westberg](https://open.spotify.com/artist/17cS5flbpagsd0kN3lchx4) | [When We First Met](https://open.spotify.com/album/6YgpWDw0IZl2pK5jvTbrQV) | 1:52 | 2023-11-20 |  |
 | [White Light](https://open.spotify.com/track/5crvLtcVtQ0OYW3QtGpWcG) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Living Memories](https://open.spotify.com/album/0GHeLRHh0oJu7n4Eke61mN) | 3:05 | 2023-11-20 |  |
 | [Willow](https://open.spotify.com/track/3SYpNSW2sXVghgwW1Ffm6I) | [Helen Jane Long](https://open.spotify.com/artist/4AChEoOg2kLbShMIN3jgxX) | [Intervention](https://open.spotify.com/album/3SUCGEmj4rxH9R103omShr) | 3:25 | 2023-11-20 |  |

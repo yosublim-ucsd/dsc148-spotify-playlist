@@ -1,12 +1,12 @@
 {
   "description": "Les plus belles chansons d'amour de la vari\u00e9t\u00e9 fran\u00e7aise.",
-  "num_followers": 317704,
+  "num_followers": 317731,
   "original_name": "French Kiss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDNjMWIzMzRlZTY0ZjNiNGViYzhkYjlmYzBmMzc5ZDhiYTM5ZjNj",
+  "snapshot_id": "MCxjZGE3MTU2ZTFkOWQ0NmZmMDllY2JjZjk0YTU4ZWI1YzYzNzk3MmIy",
   "tracks": [
     {
       "added_at": "2023-10-11 08:48:19",
@@ -143,6 +143,22 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
+        "name": "Comment te dire adieu (Remasteris\u00e9 en 2016)",
+        "url": "https://open.spotify.com/album/0uRiGrSYj5IKsm6H8eodeB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        }
+      ],
+      "duration_ms": 148506,
+      "name": "Comment te dire adieu - Remasteris\u00e9 en 2016",
+      "url": "https://open.spotify.com/track/6g5qyQrAcoBX4X7XjxBoTO"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
         "name": "Aline",
         "url": "https://open.spotify.com/album/1ZfOSvrmz8by3bdz0w6NBA"
       },
@@ -179,22 +195,6 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "Gang",
-        "url": "https://open.spotify.com/album/68rZh6SfrK9JeYsJhTwDjg"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hallyday",
-          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
-        }
-      ],
-      "duration_ms": 275906,
-      "name": "Je te promets",
-      "url": "https://open.spotify.com/track/3cqLrAhTy0JYcYmGe6Dvje"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
         "name": "Joe Dassin",
         "url": "https://open.spotify.com/album/32ZaJ7p8xvsYE8udh6vyOg"
       },
@@ -211,18 +211,18 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "Comment te dire adieu (Remasteris\u00e9 en 2016)",
-        "url": "https://open.spotify.com/album/0uRiGrSYj5IKsm6H8eodeB"
+        "name": "Gang",
+        "url": "https://open.spotify.com/album/68rZh6SfrK9JeYsJhTwDjg"
       },
       "artists": [
         {
-          "name": "Fran\u00e7oise Hardy",
-          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+          "name": "Johnny Hallyday",
+          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
         }
       ],
-      "duration_ms": 148506,
-      "name": "Comment te dire adieu - Remasteris\u00e9 en 2016",
-      "url": "https://open.spotify.com/track/6g5qyQrAcoBX4X7XjxBoTO"
+      "duration_ms": 275906,
+      "name": "Je te promets",
+      "url": "https://open.spotify.com/track/3cqLrAhTy0JYcYmGe6Dvje"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "15 Ans D'Amour",
-        "url": "https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG"
-      },
-      "artists": [
-        {
-          "name": "Jacques Brel",
-          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
-        }
-      ],
-      "duration_ms": 153666,
-      "name": "Quand on n'a que l'amour - Arrangements diff\u00e9rents",
-      "url": "https://open.spotify.com/track/607sF1ISzfKaWa29eF3I14"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
         "name": "Fragile (Remastered)",
         "url": "https://open.spotify.com/album/0UPJEVD6jVBaAEuFyTaCyX"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 201106,
       "name": "Viens on s\u2019aime",
       "url": "https://open.spotify.com/track/1KSFqVqZm5QQXr9FLsppSL"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
+        "name": "15 Ans D'Amour",
+        "url": "https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG"
+      },
+      "artists": [
+        {
+          "name": "Jacques Brel",
+          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
+        }
+      ],
+      "duration_ms": 153666,
+      "name": "Quand on n'a que l'amour - Arrangements diff\u00e9rents",
+      "url": "https://open.spotify.com/track/607sF1ISzfKaWa29eF3I14"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
+        "name": "Best Of - Morceaux d\u2019amour",
+        "url": "https://open.spotify.com/album/7BauVijZ5bgc9J5qqbShce"
+      },
+      "artists": [
+        {
+          "name": "Marc Lavoine",
+          "url": "https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf"
+        },
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "duration_ms": 220386,
+      "name": "Toi mon amour",
+      "url": "https://open.spotify.com/track/1moFtJmSZHc8CwSkvGJ7kg"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
         "name": "Capri C'Est Fini",
         "url": "https://open.spotify.com/album/6ZsIMeATSXlD60nK0kADB7"
       },
@@ -1231,22 +1251,6 @@
       "duration_ms": 217333,
       "name": "Capri c'est fini",
       "url": "https://open.spotify.com/track/0PIAMCcvkLZ6P2YwWZ1e5H"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
-        "name": "Le coeur grenadine",
-        "url": "https://open.spotify.com/album/1Rk16GLTOxgDyfJkUDWFot"
-      },
-      "artists": [
-        {
-          "name": "Laurent Voulzy",
-          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
-        }
-      ],
-      "duration_ms": 347520,
-      "name": "Le coeur grenadine",
-      "url": "https://open.spotify.com/track/2OWUD3BSV3yyuYYSpDBhwb"
     }
   ],
   "unique_name": "French Kiss",

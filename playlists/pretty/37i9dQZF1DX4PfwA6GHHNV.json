@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 15998,
+  "num_followers": 16005,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MGYwMGEyM2M0MzdkNjIxOTg1MDA5Mjg1MDExYTlkZjVjNzQ5NDZk",
+  "snapshot_id": "MCw0ODRkYzUxOTBmNzU0MjZhNDdjNzk4NzE5YTdjOGIxMWQ0OTk2MmQ4",
   "tracks": [
     {
       "added_at": "2024-03-01 03:01:00",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
-        "name": "Enquanto o tempo passa",
-        "url": "https://open.spotify.com/album/3Z25lZgzdpM0Zd1LE3g6u0"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        }
-      ],
-      "duration_ms": 131320,
-      "name": "Enquanto o tempo passa",
-      "url": "https://open.spotify.com/track/7DtF6vbzhFwlxI4eDWsB06"
-    },
-    {
-      "added_at": "2024-03-01 03:01:00",
-      "album": {
         "name": "Veneno",
         "url": "https://open.spotify.com/album/3sQK9FAmoPBct69Clj6TB5"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 144000,
       "name": "Natureza",
       "url": "https://open.spotify.com/track/7HUgyJJ6xMLA3Y0kQaNPub"
+    },
+    {
+      "added_at": "2024-03-01 03:01:00",
+      "album": {
+        "name": "Enquanto o tempo passa",
+        "url": "https://open.spotify.com/album/3Z25lZgzdpM0Zd1LE3g6u0"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        }
+      ],
+      "duration_ms": 131320,
+      "name": "Enquanto o tempo passa",
+      "url": "https://open.spotify.com/track/7DtF6vbzhFwlxI4eDWsB06"
     },
     {
       "added_at": "2024-03-01 03:01:00",

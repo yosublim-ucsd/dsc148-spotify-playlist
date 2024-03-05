@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1f2CQHNexG.md) - [plain]
 
 > Dancing to electro\-pop like a robot from 1984\. Cover: Depeche Mode.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,433 likes - 75 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,548 likes - 75 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1f2CQHNexG.md) - [plain]
 | 43 | [Always Something There to Remind Me \- 2018 Remaster](https://open.spotify.com/track/3yWAyRHfclztY1TzF2gAUD) | [Naked Eyes](https://open.spotify.com/artist/3C6chBmZ9wzisBhoh8G2nK) | [Naked Eyes](https://open.spotify.com/album/7yxf90I32wPEXr7hLp3CKR) | 3:39 |
 | 44 | [I Feel for You](https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 5:43 |
 | 45 | [Cities In Dust](https://open.spotify.com/track/2xq9cLlOPyLoi8kLlR4miz) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Tinderbox](https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N) | 3:51 |
-| 46 | [Axel F](https://open.spotify.com/track/2kgqupahrJpYB4r1poTXEY) | [Harold Faltermeyer](https://open.spotify.com/artist/7Cf73Z3RZQTH4V69GSDxnv) | [Harold F](https://open.spotify.com/album/5PmMpqpQl9DyiddbZLnthc) | 3:00 |
-| 47 | [Rio \- 2009 Remaster](https://open.spotify.com/track/43eBgYRTmu5BJnCJDBU5Hb) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 5:37 |
+| 46 | [Rio \- 2009 Remaster](https://open.spotify.com/track/43eBgYRTmu5BJnCJDBU5Hb) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 5:37 |
+| 47 | [Axel F](https://open.spotify.com/track/2kgqupahrJpYB4r1poTXEY) | [Harold Faltermeyer](https://open.spotify.com/artist/7Cf73Z3RZQTH4V69GSDxnv) | [Harold F](https://open.spotify.com/album/5PmMpqpQl9DyiddbZLnthc) | 3:00 |
 | 48 | [Sunglasses At Night](https://open.spotify.com/track/5uRsBdLhn91AYcsTCOGNOC) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [First Offense](https://open.spotify.com/album/2cB87PuIi04CRdxhuNrRi5) | 5:20 |
 | 49 | [Only You](https://open.spotify.com/track/3mGwufkovVPrzsJaXWg8PU) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Upstairs At Eric's](https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V) | 3:15 |
 | 50 | [The Model \- 2009 Remaster](https://open.spotify.com/track/1FL9DHDSED6lxNMDJUJQvB) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [The Man\-Machine \(2009 Remaster\)](https://open.spotify.com/album/3eyz60xEK5dGEeZF1JJSi9) | 3:40 |
@@ -72,16 +72,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1f2CQHNexG.md) - [plain]
 | 62 | [Imagination](https://open.spotify.com/track/0DJFfzpoWz0wiaBzqcSeuh) | [Belouis Some](https://open.spotify.com/artist/0EX1yiXXmblRFdw2pb10NF) | [Some People](https://open.spotify.com/album/2DOXuDtgzRFomH47RGG1TG) | 3:34 |
 | 63 | [Suburbia \- 2018 Remaster](https://open.spotify.com/track/3SZhwgn2fYVmpBuzi4NIyM) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Please: Further Listening 1984 \- 1986 \(2018 Remaster\)](https://open.spotify.com/album/47fRf3JwriMUPPzFjdvNS6) | 5:07 |
 | 64 | [I'm In Love With A German Film Star](https://open.spotify.com/track/7A3rywP8wA9HbL36NMnD81) | [The Passions](https://open.spotify.com/artist/6emLiLQsxkbmQMs0Bn51h3) | [Thirty Thousand Feet Over China](https://open.spotify.com/album/5Obv3KwOfysf310dXYqXQH) | 4:01 |
-| 65 | [Human](https://open.spotify.com/track/537yo062QIz16oQOgxmul3) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Crash](https://open.spotify.com/album/5PHV7kFMuDYufMWOy68gNx) | 4:25 |
-| 66 | [Everything Counts \- 2007 Remaster](https://open.spotify.com/track/68d2JDhqLtCuOsfX0W71Ct) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Construction Time Again \(2007 Remaster\)](https://open.spotify.com/album/6oFsq13ql71yK5Gaar7eIy) | 4:20 |
+| 65 | [Everything Counts \- 2007 Remaster](https://open.spotify.com/track/68d2JDhqLtCuOsfX0W71Ct) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Construction Time Again \(2007 Remaster\)](https://open.spotify.com/album/6oFsq13ql71yK5Gaar7eIy) | 4:20 |
+| 66 | [Human](https://open.spotify.com/track/537yo062QIz16oQOgxmul3) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Crash](https://open.spotify.com/album/5PHV7kFMuDYufMWOy68gNx) | 4:25 |
 | 67 | [Echo Beach](https://open.spotify.com/track/08gcSzRD66Dc7z3x6yigol) | [Martha and the Muffins](https://open.spotify.com/artist/5nWbdgU2jcFSbrPV7EAoLK) | [80\-Regine del Pop](https://open.spotify.com/album/69POGM6ZPfBNMNvxgUys87) | 3:34 |
 | 68 | [Temptation \- Remastered 2006](https://open.spotify.com/track/6iylqkbmhmMuALYYrvoh2y) | [Heaven 17](https://open.spotify.com/artist/5PYuBRQMHh7nWmdV076sH9) | [The Luxury Gap \(Deluxe Version\)](https://open.spotify.com/album/7uiDwjlTNmG6chyrlVITf6) | 3:34 |
 | 69 | [Nobody's Diary](https://open.spotify.com/track/1qQKLpOEtUJYMSOzxOIfkS) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [You And Me Both](https://open.spotify.com/album/2R2ayUdwlcamdEKFJD5BZu) | 4:29 |
-| 70 | [The Sound Of The Crowd \- Remastered 2002](https://open.spotify.com/track/44ZIKFdQNivuldITWWDsM5) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 4:06 |
-| 71 | [Wishing \(If I Had a Photograph of You\)](https://open.spotify.com/track/6bJhaEuaDpObzFOrsOejlJ) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [Listen](https://open.spotify.com/album/3rZuJ5oWUJGLmJLpvILp1B) | 5:30 |
-| 72 | [Who Needs Love Like That](https://open.spotify.com/track/5hBQzpIVTuImm4uQCs84kB) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [Wonderland](https://open.spotify.com/album/5ZYUz8XDkYqiSUWdglkhtZ) | 3:17 |
+| 70 | [Wishing \(If I Had a Photograph of You\)](https://open.spotify.com/track/6bJhaEuaDpObzFOrsOejlJ) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [Listen](https://open.spotify.com/album/3rZuJ5oWUJGLmJLpvILp1B) | 5:30 |
+| 71 | [Who Needs Love Like That](https://open.spotify.com/track/5hBQzpIVTuImm4uQCs84kB) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [Wonderland](https://open.spotify.com/album/5ZYUz8XDkYqiSUWdglkhtZ) | 3:17 |
+| 72 | [The Sound Of The Crowd \- Remastered 2002](https://open.spotify.com/track/44ZIKFdQNivuldITWWDsM5) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 4:06 |
 | 73 | [The Things That Dreams Are Made Of \- Remaster 2002](https://open.spotify.com/track/5GLYtND9tYHCEdIQ1i1JH3) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 4:17 |
 | 74 | [Fascination \- Extended Remix](https://open.spotify.com/track/2uynnXFdf3wBIjOEHCB9up) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Fascination!](https://open.spotify.com/album/0esnpjv1cOeVWSYTSY3jRc) | 4:56 |
 | 75 | [Being Boiled](https://open.spotify.com/track/6fbeOOv9u5JQwZx4pyW4mY) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Travelogue](https://open.spotify.com/album/3nRP83YnVmP4TTyEzieq2H) | 4:21 |
 
-Snapshot ID: `MCxlZDA2ZmU1MDIyYzQ0OTNlOWYzNGRiY2IwNGY5NTIzMjEzOTJhMzM1`
+Snapshot ID: `MCxmODRjYjJjMTM3NWYwYTI5Yjg0N2ViMzE3ZWI3MGRmMTg1ZTYzZTY3`

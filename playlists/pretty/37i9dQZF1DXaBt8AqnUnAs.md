@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,159 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,181 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 74 | [Pessoas Iguais](https://open.spotify.com/track/4ziFfHW8bkkTnyEufroCqz) | [AyooFire](https://open.spotify.com/artist/3afrxPx91AYaJpxGnMHyu0), [mavyrmldy](https://open.spotify.com/artist/2IRkwjCv3xnnHkEre05AZB) | [Pessoas Iguais](https://open.spotify.com/album/1SaYFtgo6GaShStDJ5MdBu) | 2:48 |
 | 75 | [Viagem Cara](https://open.spotify.com/track/3WHBt5JazrLheCvzygxCv1) | [Souffran](https://open.spotify.com/artist/36qbn5sMKZVpNr0o5DC8sn), [tal do dias](https://open.spotify.com/artist/1IJdAJc6XD4NdOLBJnCIBD) | [Viagem Cara](https://open.spotify.com/album/2nktvT2yjahIlYVoLQ1CiV) | 2:16 |
 
-Snapshot ID: `MCxhNmJiOTFmYjJkODI4ZTA2Njc0NGI2MDc0ZDcwZjcyZjQzZmJkMDg5`
+Snapshot ID: `MCxkZDI5NDJhYjI1Y2M2MWNjNTY3ZGFlZmVhMTUzOWRkMjg3Y2ViOGYy`

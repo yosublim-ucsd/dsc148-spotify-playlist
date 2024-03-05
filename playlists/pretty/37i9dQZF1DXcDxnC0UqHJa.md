@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 
 > Folksy takes on your favorite tracks\. Cover: Norah Jones & Remi Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,553 likes - 115 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,571 likes - 115 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 | 38 | [Take Me Home, Country Roads \(ft\. Waxahatchee\)](https://open.spotify.com/track/4pR4OUNzzhK3vDY89PN1Oa) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Candid](https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2) | 2:45 |
 | 39 | [Don't Worry Baby](https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Don't Worry Baby](https://open.spotify.com/album/5I1YyRxt5Gy6hptZI4fcVw) | 3:00 |
 | 40 | [Everything Is Free \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Spotify Singles](https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5) | 4:25 |
-| 41 | [Dance Me to the End of Love \(Bonus\)](https://open.spotify.com/track/6WoJzSRQeROe5MNpf7cPDu) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:05 |
-| 42 | [The Boxer](https://open.spotify.com/track/6HopKFVZmGU3YQF5Ac3EXa) | [Erato](https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o) | [The Boxer](https://open.spotify.com/album/7dpExLHVdNg2IasaFb9SxI) | 2:31 |
-| 43 | [If It Makes You Happy](https://open.spotify.com/track/7ia7SaMGhr00G8EX5DMiFq) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Vignettes](https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M) | 4:15 |
+| 41 | [The Boxer](https://open.spotify.com/track/6HopKFVZmGU3YQF5Ac3EXa) | [Erato](https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o) | [The Boxer](https://open.spotify.com/album/7dpExLHVdNg2IasaFb9SxI) | 2:31 |
+| 42 | [If It Makes You Happy](https://open.spotify.com/track/7ia7SaMGhr00G8EX5DMiFq) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Vignettes](https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M) | 4:15 |
+| 43 | [Dance Me to the End of Love \(Bonus\)](https://open.spotify.com/track/6WoJzSRQeROe5MNpf7cPDu) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:05 |
 | 44 | [Dust Cain't Kill Me](https://open.spotify.com/track/2gf0zcBLZQnHvgpeKLya6w) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Dust Cain't Kill Me](https://open.spotify.com/album/15hGn4dEhC4o4tkQMLQGCA) | 3:20 |
 | 45 | [Boots Of Spanish Leather](https://open.spotify.com/track/0r7rLeNXTRTRsyDjYp9tIq) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Boots Of Spanish Leather](https://open.spotify.com/album/1cXHPkqqjAPgjV19nLXvUT) | 4:42 |
 | 46 | [Right Down The Line](https://open.spotify.com/track/2QkrXvBAfhE4QAr9Y5kOvh) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [NUDES](https://open.spotify.com/album/3y4k3cJW83i3KDSDJnPOX8) | 3:55 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 | 74 | [Nebraska \- Acoustic](https://open.spotify.com/track/5H3hNv8kLr15zQxFUiuIqT) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [In the Magic Hour Solo Sessions](https://open.spotify.com/album/1XxOQRUB7eOOQWryZM3YZM) | 3:48 |
 | 75 | [This Will Be Our Year](https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Singing Other People's Love Songs](https://open.spotify.com/album/3608IcniealifcqI8WbKte) | 2:16 |
 | 76 | [Hannah Hunt \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Spotify Singles](https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a) | 4:38 |
-| 77 | [Perfect Places \- Live From BBC Radio 2](https://open.spotify.com/track/2hUyNUvpSlNBmYKCUNCLu5) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Live From BBC Radio 2](https://open.spotify.com/album/70nPdV7ZMFzddatb5WjgrE) | 3:38 |
-| 78 | [Higher Love](https://open.spotify.com/track/0jVHjo644RBj0zWWRIR7Fu) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat](https://open.spotify.com/album/4nQ38LqHw2CLMPysxTtfeK) | 3:34 |
+| 77 | [Higher Love](https://open.spotify.com/track/0jVHjo644RBj0zWWRIR7Fu) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat](https://open.spotify.com/album/4nQ38LqHw2CLMPysxTtfeK) | 3:34 |
+| 78 | [Perfect Places \- Live From BBC Radio 2](https://open.spotify.com/track/2hUyNUvpSlNBmYKCUNCLu5) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Live From BBC Radio 2](https://open.spotify.com/album/70nPdV7ZMFzddatb5WjgrE) | 3:38 |
 | 79 | [Harvest \(feat\. Andrew Bird & Chris Stills\)](https://open.spotify.com/track/2FeUjUEnlUdnrN9sEzYYMY) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8), [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Chris Stills](https://open.spotify.com/artist/73BKaGq96QFgdnRXU3v0t7) | [Folkocracy](https://open.spotify.com/album/4FYVErCjwVvkO3XpDFtOQ2) | 3:03 |
 | 80 | [Light of a Clear Blue Morning](https://open.spotify.com/track/5slPetmTwOHfqpEFFDMzyn) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud +3](https://open.spotify.com/album/7kIdOOz6yIvEP6Z5RjhrCw) | 4:38 |
 | 81 | [Hello Sunshine](https://open.spotify.com/track/5T9LtP6vTj0vGBRHwmWheX) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4), [Richard Swift](https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr) | [Other People's Songs Volume One](https://open.spotify.com/album/6sedkUKN10b6Md5CyGI9On) | 3:04 |
@@ -121,7 +121,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 | 111 | [Mr\. Bojangles](https://open.spotify.com/track/6bgcdWNmvjbWys5bJSO5uP) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Mr\. Bojangles](https://open.spotify.com/album/1MjwfqR2h1WNd01VxPj0SC) | 4:03 |
 | 112 | [Your Song \(Vapor IKEA Commercial\)](https://open.spotify.com/track/0U33bmLq4Qjrdwzz0uQiVJ) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Your Song \(Vapor IKEA Commercial\)](https://open.spotify.com/album/1CVNCYg5s5bYeIbIUM4EUg) | 1:50 |
 | 113 | [The Age Of Worry](https://open.spotify.com/track/7ltM6d3uA0lUBCPfJTyc1N) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [The Age Of Worry](https://open.spotify.com/album/2sK9FA8u60GpTqusHp8GqN) | 2:47 |
-| 114 | [Feeling Good](https://open.spotify.com/track/4uCXm0ydtmLqyBwVdpHLtW) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Songs 2003\-2013](https://open.spotify.com/album/2JPIhBZ4GCqYrcQDOnbFNk) | 3:05 |
-| 115 | [One More Cup of Coffee \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1XLJxAcTdnMIeQpsvdfkSv) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spotify Singles](https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl) | 3:21 |
+| 114 | [One More Cup of Coffee \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1XLJxAcTdnMIeQpsvdfkSv) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spotify Singles](https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl) | 3:21 |
+| 115 | [Strong Enough](https://open.spotify.com/track/69qLjFRZbz7V7uM13DtmOW) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [...but i'd rather be with you, too](https://open.spotify.com/album/5rBVASdotOwS4z4a4LAbmS) | 3:17 |
 
-Snapshot ID: `MCw3ZDFjYjUxMDBmMmNmODMzY2YzZjQzNjEwOTQ5MzFkMzc0ZjliMjNi`
+Snapshot ID: `MCwzNzhjZDUxODVkZTU5YTQ1ZTRjMTI1NjkwNDBmNjA3NTc4OGYwMzI3`

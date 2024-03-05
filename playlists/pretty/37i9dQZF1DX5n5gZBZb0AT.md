@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,112 likes - 40 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,834 likes - 40 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 36 | [Scopin](https://open.spotify.com/track/7KmbiagSkUbepU88x7NWjb) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Scopin](https://open.spotify.com/album/6mjnYcgnUPMXZpadY3ctr1) | 1:41 |
 | 37 | [AVOID ME](https://open.spotify.com/track/5FX30idriKlEIRYTxpNf65) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX) | [AVOID ME](https://open.spotify.com/album/1LwLabogNr1KwEHU1EnSRZ) | 1:45 |
 | 38 | [KAMI](https://open.spotify.com/track/6rm58LPjSArdS4zEHSKXDu) | [DR MØB](https://open.spotify.com/artist/3BxW2wyYPKUAlvmbOWxiDe) | [KAMI](https://open.spotify.com/album/2nOfcdpOxzJpXKe1YzEQL6) | 1:27 |
-| 39 | [Override](https://open.spotify.com/track/6O4oKV3btLiEtOgEuplIUn) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Override](https://open.spotify.com/album/3IivT4yfr3wvtbo1PTgzCP) | 1:54 |
-| 40 | [EMPTY DREAMS](https://open.spotify.com/track/2HhzV3FY4eZGueF0KpXZUo) | [CYPARISS](https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP) | [EMPTY DREAMS](https://open.spotify.com/album/6F2YyORz7NH8jzGutSh4q2) | 2:15 |
+| 39 | [EMPTY DREAMS](https://open.spotify.com/track/2HhzV3FY4eZGueF0KpXZUo) | [CYPARISS](https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP) | [EMPTY DREAMS](https://open.spotify.com/album/6F2YyORz7NH8jzGutSh4q2) | 2:15 |
+| 40 | [We Fell Apart \- Slowed](https://open.spotify.com/track/4oExAGoqR0JWK628dYaQ2f) | [overrated](https://open.spotify.com/artist/5eZ9mxslGvxjRBTWbRfMfV), [Akucum](https://open.spotify.com/artist/4iNoUF5jEZLr28VHuxHN9y) | [We Fell Apart](https://open.spotify.com/album/3JyuOXGEoGuRSgJDDxwOCO) | 2:35 |
 
-Snapshot ID: `MCwxMTQyZjMxM2ZlN2Y5NzAxYzhiYzcxOWZiYjA2NjFhNDE3ZGVlMGM3`
+Snapshot ID: `MCxmYjRiMDBkNTNhZGVmNjIyNGRiN2RhNDY1MWFkNWI4YjI0ODFmYWI4`

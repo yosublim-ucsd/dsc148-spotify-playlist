@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 
 > This is MC Davo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,634 likes - 51 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,659 likes - 51 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 | 34 | [Callejera](https://open.spotify.com/track/2dXRSe761Gg9fl2NcxnkW2) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Callejera](https://open.spotify.com/album/44MreFKTqiCxAEHel5avg1) | 3:43 |
 | 35 | [WARZONE FREESTYLE](https://open.spotify.com/track/18nOndaCCg6hx4OfzbiBXm) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Canciones Mamalonas 2](https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX) | 3:16 |
 | 36 | [Round 4 \(feat\. C\-Kan\)](https://open.spotify.com/track/1I6aiLIGgrx7uEqausJgx5) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Round 4 \(feat\. C\-Kan\)](https://open.spotify.com/album/3DAo1WHerGAEI29u14o8dD) | 4:00 |
-| 37 | [Ya no hay nada](https://open.spotify.com/track/2fSItqlm3Lcqgn9P0CVZvc) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [El Dominio](https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG) | 3:23 |
+| 37 | [Juegos de pasión](https://open.spotify.com/track/3bRXRniN8vaUWFf3FMDPMM) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [El Dominio](https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG) | 3:04 |
 | 38 | [Mujer](https://open.spotify.com/track/6S8ZsnBFjG5roenrxeArNv) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Canciones Mamalonas](https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x) | 3:14 |
 | 39 | [Round 3 \(feat\. C\-Kan\)](https://open.spotify.com/track/5J3VmVOxehILdyopYBKMpb) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Las 2 Caras](https://open.spotify.com/album/7M04t4xMjE20Hv65mLUVlK) | 3:25 |
 | 40 | [\#LQMQ](https://open.spotify.com/track/2U05xDmQBWf3nY01ZUTLPp) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [\#LQMQ](https://open.spotify.com/album/2wlQGKcIoJ2rm7dvgmTanP) | 3:31 |
-| 41 | [Juegos de pasión](https://open.spotify.com/track/3bRXRniN8vaUWFf3FMDPMM) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [El Dominio](https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG) | 3:04 |
+| 41 | [Ya no hay nada](https://open.spotify.com/track/2fSItqlm3Lcqgn9P0CVZvc) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [El Dominio](https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG) | 3:23 |
 | 42 | [Round 5 \(feat\. MC Davo\)](https://open.spotify.com/track/6OydVhuksIoJcKztWssPKe) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [The Take Over, Vol\. 3](https://open.spotify.com/album/4JTxI5uDDK11MT6fuqF1ax) | 3:56 |
 | 43 | [Aparentan \(feat\. Adán Zapata\)](https://open.spotify.com/track/1ZBJsZZkxVuTI1fCnk3MsU) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Adán Zapata](https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl) | [Psicosis 2](https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO) | 3:10 |
 | 44 | [La Historia De Un Olvido](https://open.spotify.com/track/7mq5HftjAklgdNT4SljJtr) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Psicosis](https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p) | 2:59 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 | 50 | [Round 6](https://open.spotify.com/track/2fqcMU5Y5HnqPYj4p47Kcz) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Round 6](https://open.spotify.com/album/49NfXDDECqeg5BjGp7HD0W) | 3:36 |
 | 51 | [No Saben](https://open.spotify.com/track/03PKEI1s1HIfpy8XDkKabt) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [No Saben](https://open.spotify.com/album/2xLO8RcO22jQFvg2apDo52) | 2:53 |
 
-Snapshot ID: `Mjg0OTExMzksMDAwMDAwMDA5OGRiYmYyYWI0Mjk3ZTE2OWExOTc5OTMxZDljYzM5Ng==`
+Snapshot ID: `Mjg0OTI1NjksMDAwMDAwMDA1MjQ1ZjI2MWVhOWNlNDUzOTc2OTVmZDcxMGJjZjQ2OQ==`

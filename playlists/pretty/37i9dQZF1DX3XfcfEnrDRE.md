@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > The ever\-evolving sound of Alt! Cover: Gable Price and Friends
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,370 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,431 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 99 | [Hey Jesus](https://open.spotify.com/track/2Uo4QoDPsHkpUNSVJyJYts) | [Trey Pearson](https://open.spotify.com/artist/5pjtpHRdrbbw9zZWx83zCF), [Semler](https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g) | [Somebody You Knew](https://open.spotify.com/album/3V2XutQhnbyGFH8FSfqw5E) | 3:18 |
 | 100 | [DANGEROUS](https://open.spotify.com/track/7j0iPwOZJoqO3J66UbPX6l) | [Anchor & Braille](https://open.spotify.com/artist/0ofu3spkMmDV3INNoMtXbM) | [DANGEROUS](https://open.spotify.com/album/4bQ7tfvG5eQSbSoMoWlZ7G) | 3:42 |
 
-Snapshot ID: `MCw3MWNiNzZmZmI2Yzc4MzlmMDdjNmY0MWNmM2IwYmFlZDNjMmZkNjhk`
+Snapshot ID: `MCwzNDEyMDkyOGI5MzNhMWQzNjk3YmM4MTU2NGFlZjgzNGY2Y2UwOTU2`

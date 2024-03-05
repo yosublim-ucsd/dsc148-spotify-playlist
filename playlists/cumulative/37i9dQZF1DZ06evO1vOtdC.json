@@ -306,7 +306,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 163998,
       "name": "Baila Conmigo",
       "url": "https://open.spotify.com/track/0mD63phUwHYnlvAJn8NgqC"
@@ -844,10 +844,28 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 165154,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/1L5YOGPAhIoSoj93pEYnXF"
+    },
+    {
+      "album": {
+        "name": "This Is Me...Now (Deluxe)",
+        "url": "https://open.spotify.com/album/5n2H8XDZfGQS92t0dpTNtg"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165154,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/7xl8Bg3rcjYsF31NUGbrQA"
     },
     {
       "album": {
@@ -1564,6 +1582,24 @@
           "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
         }
       ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235523,
+      "name": "This Time Around",
+      "url": "https://open.spotify.com/track/6fveZbfaioqsGCZDaCEUqV"
+    },
+    {
+      "album": {
+        "name": "This Is Me...Now",
+        "url": "https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -1628,7 +1664,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 246426,
       "name": "Waiting for Tonight",
       "url": "https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX"

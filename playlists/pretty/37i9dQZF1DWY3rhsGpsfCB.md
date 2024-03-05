@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 
 > Smooth soul\-inspired tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,183 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,204 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 | 79 | [YBGFA](https://open.spotify.com/track/5MUAhZVNZU4UF8FmhUBQYs) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [TEARS OF THE SUN](https://open.spotify.com/album/4yspRWwXpYeeQ2EoOmpLPJ) | 3:42 |
 | 80 | [JJC](https://open.spotify.com/track/4IcQbIh8U4DtXEy5KWKcAu) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj) | [JJC](https://open.spotify.com/album/6Ba8adcxt440I92gC7ld28) | 2:34 |
 
-Snapshot ID: `MCwxNTg4ZmU4MTYwMzE2ZTc0NTY2YWE1YjZlYjAzYzE0OGEzMmExY2Zl`
+Snapshot ID: `MCxhODU5NWVmNDFlMmYxNzYzOGJiMjUyOTRlOTRmYjA1MTEyMDE1Nzgy`

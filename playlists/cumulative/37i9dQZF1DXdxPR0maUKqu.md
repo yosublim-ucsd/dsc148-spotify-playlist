@@ -4,7 +4,7 @@
 
 > 理由のない焦り、苛立ち。わけもなく叫びたくなる。思春期を過ごす全てのティーンに贈る、帰り道の応援歌。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-247 songs - 15 hr 49 min
+248 songs - 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [だから僕は音楽を辞めた](https://open.spotify.com/track/5j7ixaLeGTGSv4DzKs0pCM) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [だから僕は音楽を辞めた](https://open.spotify.com/album/4b9nOSXSf1LROzgfYFxdxI) | 4:02 | 2023-08-15 |  |
 | [だって](https://open.spotify.com/track/175C4JA6zfA4kaId3GWmft) | [BELLMAINZ](https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm) | [だって](https://open.spotify.com/album/38IPKWm6SoIzlLTJXxD5p4) | 4:03 | 2024-01-30 | 2024-02-14 |
 | [ですとらくしょん!!](https://open.spotify.com/track/54krDxm0tOxeZy36AKT3Bj) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [Chevon](https://open.spotify.com/album/5zpDo1cOOtnbzrRjKdCqA8) | 4:01 | 2024-02-22 | 2024-02-28 |
+| [なんでもないよ、](https://open.spotify.com/track/2PFzK3kMDDYKhGnugvNYf1) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [なんでもないよ、](https://open.spotify.com/album/3N9QmFGY4WUAJCf7gyvC2S) | 3:38 | 2024-02-29 |  |
 | [もっと](https://open.spotify.com/track/14scjle0gHsjlujD10AliV) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [もっと](https://open.spotify.com/album/6cNBLzQoV9126uS2B0sPRB) | 4:09 | 2024-01-30 | 2024-02-21 |
 | [アイネクライネ](https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [YANKEE](https://open.spotify.com/album/64SAjax288grKsmuLDfA6G) | 4:48 | 2023-07-25 |  |
 | [インスタントジョーク](https://open.spotify.com/track/4DLhoNZw9OR8s0ovueelH8) | [omeme tenten](https://open.spotify.com/artist/0uwxPKyoIIT8WIQLYpXSFC) | [インスタントジョーク / マイラブリー](https://open.spotify.com/album/6OYEgnr0XA0TcNsfmo1NDb) | 3:14 | 2024-01-16 | 2024-02-07 |
@@ -189,7 +190,7 @@
 | [ラブソングがいらない君へ](https://open.spotify.com/track/3VXL22jDNdom9SZfdGRM5X) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [ラブソングがいらない君へ](https://open.spotify.com/album/5CaIpCc1HiuulQWhhbtIDv) | 3:43 | 2024-01-16 | 2024-01-18 |
 | [ラブドランカー](https://open.spotify.com/track/5HCCjLQ7RLQHjHPBNljQ5l) | [BAK](https://open.spotify.com/artist/1WmnQSoQxUa4x14IWgHCiD) | [ラブドランカー](https://open.spotify.com/album/03Q6Xk1M9x1rHCXZRRp2gF) | 3:52 | 2023-12-12 | 2023-12-20 |
 | [ランドリー](https://open.spotify.com/track/2Ig3UQesxs7Vg8ZeQLy5cp) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [天使だったじゃないか](https://open.spotify.com/album/2EfOlEm3EVfDX5XBw6baFj) | 3:26 | 2024-02-27 | 2024-02-29 |
-| [リカ](https://open.spotify.com/track/5iPPyvEn7BcWw34aGKGd6W) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [リカ](https://open.spotify.com/album/5luFrHAHn4fb5r7KhdoYlE) | 3:36 | 2023-08-10 |  |
+| [リカ](https://open.spotify.com/track/5iPPyvEn7BcWw34aGKGd6W) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [リカ](https://open.spotify.com/album/5luFrHAHn4fb5r7KhdoYlE) | 3:36 | 2023-08-10 | 2024-03-05 |
 | [リンジュー・ラヴ](https://open.spotify.com/track/0NUJhYxwcAAB4UQULseQyX) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [リンジュー・ラヴ](https://open.spotify.com/album/0jH2GxrReBs2SqeVSaM5vU) | 3:05 | 2023-07-25 |  |
 | [一撃の歌](https://open.spotify.com/track/1Fwm10BHLxHXKEZ1d9KZrF) | [フリージアン](https://open.spotify.com/artist/503GZq7ekQt3VgeUZ946ef) | [一撃の歌](https://open.spotify.com/album/5ZU7OHm3xjUwtFgdXV22fi) | 2:53 | 2024-01-04 | 2024-01-10 |
 | [世界の秘密](https://open.spotify.com/track/0bv6tutpCuYApSXTF0AKrP) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:40 | 2023-11-17 |  |

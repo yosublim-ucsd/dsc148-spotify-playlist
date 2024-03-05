@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 
 > Faith without work\[out\]s is dead!  Get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,367 likes - 90 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,619 likes - 90 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 | 20 | [God Flex](https://open.spotify.com/track/7KC13bS7eUYeXcRXvfYhAy) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1), [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy) | [Never Fold](https://open.spotify.com/album/6lp34X38buB3Rl6u2zh5g1) | 3:29 |
 | 21 | [What Are We Waiting For? \(Gregatron Remix\)](https://open.spotify.com/track/7cppJoWsVXvMZDbv8bHQNA) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Gregatron](https://open.spotify.com/artist/4UAW2WE55RisozVgdh7rQX) | [What Are We Waiting For? \(Gregatron Remix\)](https://open.spotify.com/album/4uH31kFJI6iLJogC6gQHJ4) | 3:09 |
 | 22 | [Kinna Wanna](https://open.spotify.com/track/384pDNdIcOq4bAQSYthQkb) | [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP) | [Kinna Wanna](https://open.spotify.com/album/1zPwfwHZaTH8qRg7NWhvTL) | 2:16 |
-| 23 | [Christlike](https://open.spotify.com/track/0N5m0V3VZ4TLTHhiTxeFV1) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr) | [Christlike](https://open.spotify.com/album/7AT9CduyNSv6yF2O4K07p2) | 2:39 |
-| 24 | [GROOVY FREESTYLE \(REMIX\)](https://open.spotify.com/track/75I3cFxZ68lLh9y61DhASM) | [Brenno](https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV), [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1), [Taylor Wells](https://open.spotify.com/artist/5N8yHPMJtGvA5dxeIEqu6O), [Kieran the Light](https://open.spotify.com/artist/7pDD4BBx6S42ZX513NQdp1), [Tre'Gadd](https://open.spotify.com/artist/6NCcfV9K0gZqFBfFLQqWRH) | [GROOVY FREESTYLE \(REMIX\)](https://open.spotify.com/album/4qWe3ltHgJkRGWxX8VReWo) | 3:31 |
-| 25 | [GOD DON'T LIE](https://open.spotify.com/track/3bpr5wV8lswg90NcAaoblH) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [SO LONELY \(AN EREMOS STORY\)](https://open.spotify.com/album/1yMjZOuzZHF2hRzluZESSD) | 2:13 |
+| 23 | [GROOVY FREESTYLE \(REMIX\)](https://open.spotify.com/track/75I3cFxZ68lLh9y61DhASM) | [Brenno](https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV), [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1), [Taylor Wells](https://open.spotify.com/artist/5N8yHPMJtGvA5dxeIEqu6O), [Kieran the Light](https://open.spotify.com/artist/7pDD4BBx6S42ZX513NQdp1), [Tre'Gadd](https://open.spotify.com/artist/6NCcfV9K0gZqFBfFLQqWRH) | [GROOVY FREESTYLE \(REMIX\)](https://open.spotify.com/album/4qWe3ltHgJkRGWxX8VReWo) | 3:31 |
+| 24 | [GOD DON'T LIE](https://open.spotify.com/track/3bpr5wV8lswg90NcAaoblH) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [SO LONELY \(AN EREMOS STORY\)](https://open.spotify.com/album/1yMjZOuzZHF2hRzluZESSD) | 2:13 |
+| 25 | [Christlike](https://open.spotify.com/track/0N5m0V3VZ4TLTHhiTxeFV1) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr) | [Christlike](https://open.spotify.com/album/7AT9CduyNSv6yF2O4K07p2) | 2:39 |
 | 26 | [Menace](https://open.spotify.com/track/5IkWtYpw1WqIpr6zbVsrGQ) | [Aha Gazelle](https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14) | [Menace](https://open.spotify.com/album/2Z2SIzz0bV2hpan15gsmMc) | 2:44 |
 | 27 | [I Ain't Done](https://open.spotify.com/track/4mKyB23qqYwpatX1VAVCUz) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [I: The Arrow](https://open.spotify.com/album/4sKgdSpmHk1Tth5QnMlKLo) | 3:35 |
 | 28 | [MVP](https://open.spotify.com/track/00uwU1dENamylOgeLh2ask) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [MVP](https://open.spotify.com/album/0nDku2WGHlH96oLtvN3Z4n) | 2:07 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 | 89 | [Temple In LA](https://open.spotify.com/track/0cjPzxsVr1L5NP8psCvVBv) | [Leon Anderson](https://open.spotify.com/artist/4qcDnO6xIuo3cY8oUmmBSV) | [Temple In LA](https://open.spotify.com/album/5ok3X7Rm2AZlIOBTdaWWfc) | 3:23 |
 | 90 | [We Will](https://open.spotify.com/track/2mul5GIgorXFegPm4lenfL) | [Emcee N.I.C.E.](https://open.spotify.com/artist/3rXjIyIuREQmEh7hurB52u), [Alonda Rich](https://open.spotify.com/artist/7jRa28pxwziRbZYA63V0Mf) | [We Will](https://open.spotify.com/album/7KjWvvQJMOG8JPwQ0jVxbd) | 3:39 |
 
-Snapshot ID: `MCwyMzhiYTAzY2Y3OGE5NWU4MWE3ZDkyNTdkOGY5ZTUwMWUyOGU5NTM2`
+Snapshot ID: `MCwyZGM3MTg2ZmFiY2E2NGY3NGQ1MGViODExY2YxZmZiZmUyZjMzYmMx`

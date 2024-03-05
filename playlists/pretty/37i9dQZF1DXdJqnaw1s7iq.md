@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJqnaw1s7iq.md) - [plain]
 
 > electronic nostalgia ⚡️ Cover: James Blake
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,352 likes - 100 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,428 likes - 100 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJqnaw1s7iq.md) - [plain]
 | 99 | [Flicker](https://open.spotify.com/track/6BivCuyKJtgLa9ooFsvUoZ) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Worlds](https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD) | 4:39 |
 | 100 | [Automatic](https://open.spotify.com/track/1NB0VPwAw6Rx8b9qvDKB5M) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Genesis Series](https://open.spotify.com/album/1X4yodq8QzdlHOf2EgwhWU) | 3:50 |
 
-Snapshot ID: `MCwzNmQzYjcyYzk3ZDQ5ZmRkNjZlOGMzYjk4YmNmNTc4MmMwZmZlYTkw`
+Snapshot ID: `MCwyNzIwNDFmN2QwNzJiY2I0NGM2ZTljYzI2NzZlMWE4ODE5NmE3MzM3`

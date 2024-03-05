@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 
 > Drift away with enthralling instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 632,403 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 632,448 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 99 | [Gotham \(acoustic\)](https://open.spotify.com/track/3bcRe9CcEZ9Dr7JyRoQ7Xb) | [Claes Nilsson](https://open.spotify.com/artist/3AdcSxxep8tZESjs9K3mZ9) | [Gotham](https://open.spotify.com/album/061InFYOX8CN8iuTyOJT7c) | 2:30 |
 | 100 | [Affinity](https://open.spotify.com/track/0N0nIMZDHHv9vCbo1XfN5a) | [FANAR](https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE) | [Affinity](https://open.spotify.com/album/6uD6JL6Uw4zWYUc0aRUUvt) | 2:52 |
 
-Snapshot ID: `MCw1NGY5OWFhNzYzNTM0OGM5M2E1YmE0NWQxNGU1YTNiZmVhOWZiYjE1`
+Snapshot ID: `MCwxMTNhZjc5NzI2YjU3NTE1YTc0YmM2NTQ3M2JlZDZjMDljYWQ5Njlj`

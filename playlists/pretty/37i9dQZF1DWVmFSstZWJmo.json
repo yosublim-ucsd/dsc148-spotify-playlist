@@ -1,12 +1,12 @@
 {
   "description": "Is \"indie sleaze\" in the room with us? ft. The Strokes ",
-  "num_followers": 136638,
+  "num_followers": 136806,
   "original_name": "Indie Sleaze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYWFjMTQ4NzBiYzM0MjJjYTM0ZDBhMjI4NWIxMWRmYWQxZjMwOGNi",
+  "snapshot_id": "MCxlY2Q1MzA5NTU5NzllNTNmNDQwMGZkMmY2YWVlZjlmNzQ3M2I5YTA0",
   "tracks": [
     {
       "added_at": "2024-01-02 23:46:27",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 229640,
-      "name": "Electric Feel",
-      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
         "name": "Tourist History",
         "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 173680,
       "name": "I Bet You Look Good On The Dancefloor",
       "url": "https://open.spotify.com/track/3DQVgcqaP3iSMbaKsd57l5"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Electric Feel",
+      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
     },
     {
       "added_at": "2023-09-05 20:03:48",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "Wolfgang Amadeus Phoenix",
-        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 241640,
-      "name": "Lisztomania",
-      "url": "https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
         "name": "Passive Me, Aggressive You",
         "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 246600,
       "name": "Young Blood",
       "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 241640,
+      "name": "Lisztomania",
+      "url": "https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -717,22 +717,6 @@
       "url": "https://open.spotify.com/track/57i3M29DWoo7RDk0Tf0LZG"
     },
     {
-      "added_at": "2023-09-05 20:03:48",
-      "album": {
-        "name": "(III)",
-        "url": "https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc"
-      },
-      "artists": [
-        {
-          "name": "Crystal Castles",
-          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo"
-    },
-    {
       "added_at": "2023-09-05 19:58:53",
       "album": {
         "name": "Myths Of The Near Future",
@@ -747,6 +731,22 @@
       "duration_ms": 165120,
       "name": "Golden Skans",
       "url": "https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG"
+    },
+    {
+      "added_at": "2023-09-05 20:03:48",
+      "album": {
+        "name": "(III)",
+        "url": "https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc"
+      },
+      "artists": [
+        {
+          "name": "Crystal Castles",
+          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
+        "name": "xx",
+        "url": "https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 160720,
+      "name": "Islands",
+      "url": "https://open.spotify.com/track/6i5tYaGlOFDLILEB6HfJAa"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
         "name": "Silent Alarm",
         "url": "https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t"
       },
@@ -1167,50 +1183,18 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "Sound of Silver",
-        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
+        "name": "Treats",
+        "url": "https://open.spotify.com/album/3dEgxewsJAZ6s2nVUieNA5"
       },
       "artists": [
         {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+          "name": "Sleigh Bells",
+          "url": "https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh"
         }
       ],
-      "duration_ms": 462266,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
-        "name": "xx",
-        "url": "https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8"
-      },
-      "artists": [
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-        }
-      ],
-      "duration_ms": 160720,
-      "name": "Islands",
-      "url": "https://open.spotify.com/track/6i5tYaGlOFDLILEB6HfJAa"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
-        "name": "Made In The Dark",
-        "url": "https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ"
-      },
-      "artists": [
-        {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "Ready For The Floor",
-      "url": "https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc"
+      "duration_ms": 229893,
+      "name": "Rill Rill",
+      "url": "https://open.spotify.com/track/0Z7b5GlC70FAES1YduhhqQ"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1231,18 +1215,34 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "Treats",
-        "url": "https://open.spotify.com/album/3dEgxewsJAZ6s2nVUieNA5"
+        "name": "Made In The Dark",
+        "url": "https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ"
       },
       "artists": [
         {
-          "name": "Sleigh Bells",
-          "url": "https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh"
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
         }
       ],
-      "duration_ms": 229893,
-      "name": "Rill Rill",
-      "url": "https://open.spotify.com/track/0Z7b5GlC70FAES1YduhhqQ"
+      "duration_ms": 234240,
+      "name": "Ready For The Floor",
+      "url": "https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "Sound of Silver",
+        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 462266,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl"
     },
     {
       "added_at": "2023-09-05 19:58:53",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > det største dk rap lige nu.\. <a href="spotify:artist:1YwMnnHvnG64fJxYSVwmN6">Branco</a>,  <a href="spotify:artist:2eBqkaIfoNsOPCQCQEy5fD">Benny Jamz</a>, <a href="spotify:artist:3RYYha3CC7js2PHbcBHewt">ICEKIID</a> har ny musik ude 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,106 likes - 67 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,140 likes - 67 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 66 | [Hele Vejen Ind \(feat\. Gilli\)](https://open.spotify.com/track/1CsNJtHR4s0eZ7CmyoCtQZ) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [TILLYKKE](https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg) | 2:28 |
 | 67 | [NO MONEY NO FUNNY \(feat\. Branco\)](https://open.spotify.com/track/7ME4hi8iUI8ppwRpIGbKg4) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [NO MONEY NO FUNNY \(feat\. Branco\)](https://open.spotify.com/album/26JQ7MSTG8tAdJbLVU7ZMN) | 2:16 |
 
-Snapshot ID: `MCxkYTVhMjgwM2EyMjg5OGE5NjU3MDBjZTQwYzYzYjRjOGU1ZTExMzlm`
+Snapshot ID: `MCxlMmVkYmMzNGViYjZhMDI4YzA5NmIwZGExNDcwNzJmYWEwM2IzNjNl`

@@ -1,12 +1,12 @@
 {
   "description": "Los grandes \u00e9xitos de Jos\u00e9 Jos\u00e9 y Juan Gabriel en un mismo lugar.",
-  "num_followers": 145230,
+  "num_followers": 145353,
   "original_name": "Dos \u00cdconos: Jos\u00e9 Jos\u00e9 x Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTBhNWUxOTNiODc3ZDY1ZDRjMTQ0YTUzNTk3YWE5N2IzZDg1NDIw",
+  "snapshot_id": "MCxkN2E2OTQ4ZWJlYTM1N2Q0MmM2NTk4NmQyMjBmOTIwNTJjNmIxZjBh",
   "tracks": [
     {
       "added_at": "2021-12-29 23:33:57",
@@ -335,6 +335,22 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
+        "name": "Reencuentro",
+        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 250200,
+      "name": "Gavil\u00e1n o Paloma",
+      "url": "https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
         "name": "Cosas De Enamorados",
         "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
       },
@@ -351,18 +367,18 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Reencuentro",
-        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
+        "name": "Siempre En Mi Mente",
+        "url": "https://open.spotify.com/album/7mTaxiOrJEbh3aCHC7Gnkm"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 250200,
-      "name": "Gavil\u00e1n o Paloma",
-      "url": "https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b"
+      "duration_ms": 205866,
+      "name": "Siempre en Mi Mente",
+      "url": "https://open.spotify.com/track/5vmqRHDrMgdbw3CIvQycbj"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -383,22 +399,6 @@
       "duration_ms": 283760,
       "name": "El Destino (with Juan Gabriel)",
       "url": "https://open.spotify.com/track/137as1w4u30ZTyLXn5HK69"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
-        "name": "Siempre En Mi Mente",
-        "url": "https://open.spotify.com/album/7mTaxiOrJEbh3aCHC7Gnkm"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 205866,
-      "name": "Siempre en Mi Mente",
-      "url": "https://open.spotify.com/track/5vmqRHDrMgdbw3CIvQycbj"
     },
     {
       "added_at": "2021-12-29 23:33:57",

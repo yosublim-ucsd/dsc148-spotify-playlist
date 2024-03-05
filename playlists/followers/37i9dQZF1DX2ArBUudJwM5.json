@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 40119,
+  "2024-03-05": 40123,
   "date_first_scraped": "2021-12-28",
   "description": "Mujeres a todo volumen.",
   "name": "EQUAL Argentina",
@@ -4726,7 +4726,7 @@
     },
     {
       "album": {
-        "name": "EGO",
+        "name": "Ego",
         "url": "https://open.spotify.com/album/1BRTLy5OxF1u5JvP8UrxxP"
       },
       "artists": [
@@ -4743,7 +4743,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 176528,
-      "name": "EGO",
+      "name": "Ego",
       "url": "https://open.spotify.com/track/14ftM04cOvRswUMx8IKaY3"
     },
     {
@@ -9379,7 +9379,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 294951,
       "name": "Luz",
       "url": "https://open.spotify.com/track/7F8H2BwAP3wOSI8xGUyenB"
@@ -12623,6 +12623,24 @@
       "duration_ms": 185722,
       "name": "PINCH\u00d3",
       "url": "https://open.spotify.com/track/6Xvkvbjdk920JEBQfYUqAm"
+    },
+    {
+      "album": {
+        "name": "PINCH\u00d3",
+        "url": "https://open.spotify.com/album/40k3kQTJXh7RNGVzJahIUs"
+      },
+      "artists": [
+        {
+          "name": "FEMI",
+          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185722,
+      "name": "PINCH\u00d3",
+      "url": "https://open.spotify.com/track/71I1bYl7FCMSFstGsaMudX"
     },
     {
       "album": {

@@ -2439,6 +2439,24 @@
     },
     {
       "album": {
+        "name": "\u306a\u3093\u3067\u3082\u306a\u3044\u3088\u3001",
+        "url": "https://open.spotify.com/album/3N9QmFGY4WUAJCf7gyvC2S"
+      },
+      "artists": [
+        {
+          "name": "Macaroni Empitsu",
+          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218751,
+      "name": "\u306a\u3093\u3067\u3082\u306a\u3044\u3088\u3001",
+      "url": "https://open.spotify.com/track/2PFzK3kMDDYKhGnugvNYf1"
+    },
+    {
+      "album": {
         "name": "\u3082\u3063\u3068",
         "url": "https://open.spotify.com/album/6cNBLzQoV9126uS2B0sPRB"
       },
@@ -3286,7 +3304,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 216366,
       "name": "\u30ea\u30ab",
       "url": "https://open.spotify.com/track/5iPPyvEn7BcWw34aGKGd6W"

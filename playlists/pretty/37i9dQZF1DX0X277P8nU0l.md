@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 
 > Un café, un croissant et c‘est parti pour une bonne journée.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,197 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,207 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 | 18 | [Cold](https://open.spotify.com/track/43cWpW4gdKqy7BRwxnJ9mv) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [edbl & friends – Jackson Mathod](https://open.spotify.com/album/4Dm4vJNsXbsutvoeNRqjSI) | 3:57 |
 | 19 | [Juste toi et moi](https://open.spotify.com/track/2LsigtUd0PhjrtVIibZOQB) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Juste toi et moi](https://open.spotify.com/album/4UzT23o7A0FSi1rwsplBkW) | 2:55 |
 | 20 | [Football](https://open.spotify.com/track/3rnMROSxN8mkZebMW5PpBb) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Football](https://open.spotify.com/album/7197yCpJpW7OIgPWVXE58h) | 3:24 |
-| 21 | [Letting Go](https://open.spotify.com/track/5PTZ3ef9lHE6YJqxp9nhh9) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Letting Go](https://open.spotify.com/album/6i9Q0J3gdMhjra2NRrb5B4) | 3:29 |
+| 21 | [Letting Go](https://open.spotify.com/track/19AMrr1Gef190GG13TjZYh) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Nothing to Lose](https://open.spotify.com/album/3MLs9OSTBURXZ87o8ItJSp) | 3:29 |
 | 22 | [Pixie Dust](https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j) | [Ethel](https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0) | [Pixie Dust](https://open.spotify.com/album/6qzfWCqFbcf5wxMXQ7pKO8) | 3:03 |
 | 23 | [Now](https://open.spotify.com/track/1fWXl37H5bZglVbcVOxFhl) | [Yoann Minkoff](https://open.spotify.com/artist/2u6Au31VC4RW5EizXdk3dt) | [Now](https://open.spotify.com/album/0ddKIL35ZEphzliOOBHAma) | 2:53 |
 | 24 | [The Wedding Song](https://open.spotify.com/track/2mwY1C4oCxPFy2A3UQIcEu) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [The Wedding Song](https://open.spotify.com/album/1k0rqhjZ18zvF6dKMoVnjj) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 | 49 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
 | 50 | [Free \(feat\. Tom Misch\)](https://open.spotify.com/track/01wXY7C3ywHBMKmj3f31EB) | [Joel Culpepper](https://open.spotify.com/artist/2PEsLlEk8HIw0NFPSENdQs), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Free \(feat\. Tom Misch\)](https://open.spotify.com/album/4eoxzgxqIHsMd44siCY4lg) | 3:54 |
 
-Snapshot ID: `MCxiNjMzYTFlYjU3YTdlZGQ3NDc1ZGJjMTUzNTk1ZjU5YWJlODIxMWE3`
+Snapshot ID: `MCwxNmEwMTM5N2Q2Mzg0YmVlMTI0ODEzZGY1NDA2MmQ4YTc2YTIwNzU2`

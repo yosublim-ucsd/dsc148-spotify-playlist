@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSggqNUNxI08.md) - [plain]
 
 > <a href="spotify:artist:69zPIMRgsZieOHFtHtvnj0">Yu Su</a>'s favorite tracks\. Updated regularly\. Curated by Yu Su\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,498 likes - 27 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,505 likes - 27 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSggqNUNxI08.md) - [plain]
 | 26 | [Menta Y Menta](https://open.spotify.com/track/4Lb5mlLEmSQH8NYKJwKHt3) | [Yu Su](https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0) | [I Want an Earth](https://open.spotify.com/album/3jp1Cv6bTFyGN1jQWC2uSN) | 4:09 |
 | 27 | [Finally](https://open.spotify.com/track/0tZE8ObYA8vZOS2XTIPSSQ) | [Ploy](https://open.spotify.com/artist/3mYbIK47UNTYkexhqoJOBN) | [For when we haven't slept](https://open.spotify.com/album/0lzwcFU4ju29M54ADFrFwz) | 5:20 |
 
-Snapshot ID: `MCw2ODYwNDAxZmVkNGVmNTc1ZDA4MzRjYWI3NzFkODY3NzVjNzgyNjMz`
+Snapshot ID: `MCxjMWEzM2VlYTNhNzFjZWM5MDI1ZWMzNDdjMGQzMDgxNWJhZTgzNGI2`

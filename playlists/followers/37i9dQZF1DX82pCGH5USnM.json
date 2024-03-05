@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 2020211,
+  "2024-03-05": 2020237,
   "date_first_scraped": "2020-04-03",
   "description": "Soft house music for your laidback moments.",
   "name": "Lounge - Soft House",
@@ -1709,6 +1709,24 @@
       "duration_ms": 360390,
       "name": "Brigante - Nhar Remix",
       "url": "https://open.spotify.com/track/2ff87EDRvp1GIY60XVLxwp"
+    },
+    {
+      "album": {
+        "name": "bright and breezy",
+        "url": "https://open.spotify.com/album/2PDJRNkV7vxrNz1Icyajji"
+      },
+      "artists": [
+        {
+          "name": "Landayn",
+          "url": "https://open.spotify.com/artist/13ptCL2mD06c4wcdwj1SaA"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137416,
+      "name": "bright and breezy",
+      "url": "https://open.spotify.com/track/1uRStsqQYCBXd1X8fc9n4u"
     },
     {
       "album": {
@@ -13712,6 +13730,24 @@
     },
     {
       "album": {
+        "name": "Wonder More",
+        "url": "https://open.spotify.com/album/7spk3K6Q5V2mmpNa6x3pF7"
+      },
+      "artists": [
+        {
+          "name": "Jo Lange",
+          "url": "https://open.spotify.com/artist/1IoUhC61gvcKQiYvbus1me"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179427,
+      "name": "Wonder More",
+      "url": "https://open.spotify.com/track/6Ex4RotAvWFZ8Gs72DTOGI"
+    },
+    {
+      "album": {
         "name": "Wonderland",
         "url": "https://open.spotify.com/album/4mUaHKnvqRotURBNspjer4"
       },
@@ -13889,6 +13925,24 @@
       "duration_ms": 185739,
       "name": "Yeesh Euphemism",
       "url": "https://open.spotify.com/track/5XE4be6dC1jBUIfVNceNxx"
+    },
+    {
+      "album": {
+        "name": "Youthful Spring",
+        "url": "https://open.spotify.com/album/4AxiTEfNRYC1Ga0aZyYTal"
+      },
+      "artists": [
+        {
+          "name": "Kris Karrey",
+          "url": "https://open.spotify.com/artist/200b6fuQRBe2Ra2k6d0lJI"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195595,
+      "name": "Youthful Spring",
+      "url": "https://open.spotify.com/track/3nZUPm6rUYOpN0zaH66fpw"
     },
     {
       "album": {

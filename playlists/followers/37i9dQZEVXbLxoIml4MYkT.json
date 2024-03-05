@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 55211,
+  "2024-03-05": 55215,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - El Salvador.",
   "name": "Top 50 - El Salvador",
@@ -4469,7 +4469,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 213061,
       "name": "Efecto",
       "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
@@ -6399,6 +6399,28 @@
       "duration_ms": 170693,
       "name": "GANGSTERS Y PISTOLAS",
       "url": "https://open.spotify.com/track/6pdo6bxRLh7ELtuchVgyjx"
+    },
+    {
+      "album": {
+        "name": "Gata Only",
+        "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Gata Only",
+      "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
     },
     {
       "album": {

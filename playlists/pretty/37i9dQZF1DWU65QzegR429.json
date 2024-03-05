@@ -1,12 +1,12 @@
 {
   "description": "Latin music making waves. Cover: Lismar",
-  "num_followers": 11633,
+  "num_followers": 11636,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWE4MjQ3NzczZDQ4ZmNkMWQwNzU1YjI2N2YwM2EyOGRlYTBiZTNi",
+  "snapshot_id": "MCxkN2VkODg0NTgzMDVmY2M2Y2RmZDhiNjRhZWQ1NDFlNzM4NzhiZGMy",
   "tracks": [
     {
       "added_at": "2024-02-23 05:01:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-02-23 05:01:00",
       "album": {
-        "name": "TU ME QUIERES?",
-        "url": "https://open.spotify.com/album/5RrxX9kf55iAmhh8x1CjmB"
-      },
-      "artists": [
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "TU ME QUIERES?",
-      "url": "https://open.spotify.com/track/205hq07Rui1lJDgqrqyEaA"
-    },
-    {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
         "name": "Flavors",
         "url": "https://open.spotify.com/album/4UxU8jwt8UEgqqbOdvZ7Ox"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 185002,
       "name": "Mimosas",
       "url": "https://open.spotify.com/track/1FmI1ftupsWDltedFxAfCS"
+    },
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "TU ME QUIERES?",
+        "url": "https://open.spotify.com/album/5RrxX9kf55iAmhh8x1CjmB"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "TU ME QUIERES?",
+      "url": "https://open.spotify.com/track/205hq07Rui1lJDgqrqyEaA"
     },
     {
       "added_at": "2024-02-23 05:01:00",
@@ -503,6 +503,22 @@
     {
       "added_at": "2024-02-23 05:01:00",
       "album": {
+        "name": "Herrera",
+        "url": "https://open.spotify.com/album/2doRgShYH9yjuDKMi050AL"
+      },
+      "artists": [
+        {
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
+        }
+      ],
+      "duration_ms": 157268,
+      "name": "Herrera",
+      "url": "https://open.spotify.com/track/6iYurd8rUYCoQTAi1V9XUn"
+    },
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
         "name": "Rosa Melo",
         "url": "https://open.spotify.com/album/11sm82wbfZzdTvxTA5NsoX"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 166736,
       "name": "Klk El Dice",
       "url": "https://open.spotify.com/track/3cAZpBIkNKTYqxalklnCpw"
-    },
-    {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
-        "name": "Herrera",
-        "url": "https://open.spotify.com/album/2doRgShYH9yjuDKMi050AL"
-      },
-      "artists": [
-        {
-          "name": "YE\u0418DRY",
-          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
-        }
-      ],
-      "duration_ms": 157268,
-      "name": "Herrera",
-      "url": "https://open.spotify.com/track/6iYurd8rUYCoQTAi1V9XUn"
     },
     {
       "added_at": "2024-02-23 05:01:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-02-23 05:01:00",
       "album": {
+        "name": "Na Na Na",
+        "url": "https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1"
+      },
+      "artists": [
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        }
+      ],
+      "duration_ms": 138626,
+      "name": "Na Na Na",
+      "url": "https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA"
+    },
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
         "name": "NI\u00d1XS ROTXS",
         "url": "https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 170441,
       "name": "Para Mi (Freestyle)",
       "url": "https://open.spotify.com/track/25H61Zdd3LWgBoA3oOFS25"
-    },
-    {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
-        "name": "Na Na Na",
-        "url": "https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1"
-      },
-      "artists": [
-        {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
-        }
-      ],
-      "duration_ms": 138626,
-      "name": "Na Na Na",
-      "url": "https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA"
     }
   ],
   "unique_name": "Latin Frequency",

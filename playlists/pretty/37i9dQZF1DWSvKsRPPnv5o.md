@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Schoolboy Q
 
-[Spotify](https://open.spotify.com/user/spotify) - 725,177 likes - 79 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 725,204 likes - 79 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 78 | [Wrist Cold](https://open.spotify.com/track/4y2LMDSuLaSpuyvNti2XtK) | [EBK Young Joc](https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS) | [Wrist Cold](https://open.spotify.com/album/4461MJpUXZJAxldXTcD5CY) | 2:38 |
 | 79 | [Han Solo](https://open.spotify.com/track/7Fl6CFzsNVjnxYBAG2YfD7) | [John Mackk](https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw) | [Han Solo](https://open.spotify.com/album/4SAWZ46pT9XJnQYtUW9UdS) | 2:22 |
 
-Snapshot ID: `MCxjNjg2N2FiMzNmODljOWUzN2U0NWI2ZDQ1MjRmZjQ0ODE4YTcxYWQ2`
+Snapshot ID: `MCw2NTFjZDc4OTE4NGQwOTRmOTM5YTViNzdhNjYxNWM0OTAwMGU5Y2U1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,931 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,965 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 38 | [The Invitation](https://open.spotify.com/track/7KhqjDjqRU3nYWqjQeFINH) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Safe Place](https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t) | 3:28 |
 | 39 | [Water Harp](https://open.spotify.com/track/0uQIzIuNMfzCZCtRGSr4l9) | [Yoga Music](https://open.spotify.com/artist/6ppQ1vjjme5Jtz2ceBFcWY), [Yoga Workout Music](https://open.spotify.com/artist/6RVXIMP9f30jw4rBAn9RfW), [Internal Yoga](https://open.spotify.com/artist/01KhCk3LxZ60TnXjqdY5VI) | [Yoga Practice & Mindfulness Music](https://open.spotify.com/album/7ucUV4KGsEi5kYxZvRDMJj) | 2:45 |
 | 40 | [Great Is Our God](https://open.spotify.com/track/5TO4KuGzOBKG6CqxHm4wRD) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Young Oceans](https://open.spotify.com/album/1367PHceftcW1GcBTbzuzB) | 4:33 |
-| 41 | [Dawn](https://open.spotify.com/track/6Qq9sLJvJhDjwoRMZSLHuP) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Echoes of Wonder](https://open.spotify.com/album/631P6GXP6qudIq8lrqRLtV) | 2:31 |
-| 42 | [Rest with Me](https://open.spotify.com/track/5AdZAVqRLyF4AMfBpV0pcE) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Attention \(a Devotional Project\)](https://open.spotify.com/album/5chqAKF6a1mqAVtJt76pWW) | 3:42 |
-| 43 | [I Will Remember](https://open.spotify.com/track/6wJjEoovGpsy4wBpkEgNj8) | [KJ Scriven](https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC) | [I Will Remember](https://open.spotify.com/album/3neTfbJMwVQm7KfjUSR1iB) | 5:51 |
+| 41 | [Rest with Me](https://open.spotify.com/track/5AdZAVqRLyF4AMfBpV0pcE) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Attention \(a Devotional Project\)](https://open.spotify.com/album/5chqAKF6a1mqAVtJt76pWW) | 3:42 |
+| 42 | [I Will Remember](https://open.spotify.com/track/6wJjEoovGpsy4wBpkEgNj8) | [KJ Scriven](https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC) | [I Will Remember](https://open.spotify.com/album/3neTfbJMwVQm7KfjUSR1iB) | 5:51 |
+| 43 | [Dawn](https://open.spotify.com/track/6Qq9sLJvJhDjwoRMZSLHuP) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Echoes of Wonder](https://open.spotify.com/album/631P6GXP6qudIq8lrqRLtV) | 2:31 |
 | 44 | [Into The Sea](https://open.spotify.com/track/5JhhawSlXCSYcu48LafOIn) | [Port Blue](https://open.spotify.com/artist/5YIHh4jZTLeCFsqCcrUQQY) | [The Albatross EP](https://open.spotify.com/album/7bW6ltN8Z9FWMeyBBwZ24H) | 2:22 |
 | 45 | [Just Come](https://open.spotify.com/track/2guJoFUfq57i2jhjOcQI5k) | [Creative Culture Co.](https://open.spotify.com/artist/7EhN5XvPZsonZTmF3KGZLi), [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [At the Table](https://open.spotify.com/album/7F9wiwGCJH21VLoTIYlAKB) | 3:37 |
 | 46 | [The Lion And The Lamb \- Instrumental](https://open.spotify.com/track/4G46PbCzNXjAzYbzYGNc8Z) | [Rivers & Robots](https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4) | [Rivers & Robots Presents: Still, Vol\. 1 \(Instrumentals\)](https://open.spotify.com/album/4g34k44C3ymTpr86zk1FJM) | 4:02 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 53 | [What You Paid For](https://open.spotify.com/track/3HT2NQ1t7PdZTNodCVC5Dv) | [Ethan C\. Davis](https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II), [Isla Vista Worship](https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB) | [What You Paid For](https://open.spotify.com/album/35LPGmmn5mSgLjTVC3mkgw) | 4:09 |
 | 54 | [make stuff up & sing things](https://open.spotify.com/track/1D18cgyuEatXaEqKk5Ldvv) | [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [those lil god songs i posted on ig](https://open.spotify.com/album/0s9S70ptWvOQlECSs5ORT4) | 3:36 |
 | 55 | [I Go](https://open.spotify.com/track/46BDMbLdWkMvWoxrTDAe5D) | [WILLO](https://open.spotify.com/artist/5t5UKNdX3RZUCePoXSYx4N) | [Eternal Jetlag](https://open.spotify.com/album/19SWlFIVXqpsMypajm42Kk) | 3:56 |
-| 56 | [10,000 Reasons \(Bless the Lord\)](https://open.spotify.com/track/1fGxhZsxHPKUqfWgs1VFXN) | [Holy Communion Instrumental Duo](https://open.spotify.com/artist/7HLH8rV5mrT0SesUoaKEEr) | [Contemporary Worship Hits](https://open.spotify.com/album/4tSzeF6Rds3QY0NpUOf5s0) | 2:23 |
-| 57 | [Mother's Love](https://open.spotify.com/track/4okDfRfgksPHIfcQg0EO7f) | [Antonious](https://open.spotify.com/artist/4bILf77uMe0hzVlzHI5NYJ) | [Mother's Love](https://open.spotify.com/album/1meXXuh2oMMPXaxwidgVh0) | 1:00 |
+| 56 | [Mother's Love](https://open.spotify.com/track/4okDfRfgksPHIfcQg0EO7f) | [Antonious](https://open.spotify.com/artist/4bILf77uMe0hzVlzHI5NYJ) | [Mother's Love](https://open.spotify.com/album/1meXXuh2oMMPXaxwidgVh0) | 1:00 |
+| 57 | [10,000 Reasons \(Bless the Lord\)](https://open.spotify.com/track/1fGxhZsxHPKUqfWgs1VFXN) | [Holy Communion Instrumental Duo](https://open.spotify.com/artist/7HLH8rV5mrT0SesUoaKEEr) | [Contemporary Worship Hits](https://open.spotify.com/album/4tSzeF6Rds3QY0NpUOf5s0) | 2:23 |
 | 58 | [Start Again](https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [Start Again](https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k) | 3:50 |
 | 59 | [Nineveh \- Live](https://open.spotify.com/track/7054jEkdUXDIceVnIUoEEB) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Nineveh \(Live\)](https://open.spotify.com/album/4GvcrX2hLl0EulUQoifL9a) | 4:28 |
 | 60 | [hold on \(alt\. version\)](https://open.spotify.com/track/6OXaUmzgo2kjXK1Aa6Qza2) | [Paul Whitacre](https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO), [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [features](https://open.spotify.com/album/0Fc7umL5EClDmFhOI5GNuz) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 99 | [Even Here Love Comes \- Acoustic](https://open.spotify.com/track/6BIVOCaJMcS4okKENbf7pL) | [Todd McVicker](https://open.spotify.com/artist/1fkiYD0YKDH1DgISsuh1Bo), [Teresa Bitoy](https://open.spotify.com/artist/7gFgT2PK2y409Y3Im8B8g2) | [Even Here Love Comes](https://open.spotify.com/album/2MVNO7ts5MUQGz3eYjNXUc) | 4:27 |
 | 100 | [How To Love](https://open.spotify.com/track/1IC9zHtLv9Kmsqnsj4RLsB) | [Levi Mitchell](https://open.spotify.com/artist/2lm3ISdfvGLIqhp9roRcdr) | [How To Love](https://open.spotify.com/album/5GimHqufYnL4RwURn1kiMB) | 2:00 |
 
-Snapshot ID: `MCwzYTcwZDk0NTdiNmRkMDNhZTcwMDNjZjRhMmY0Nzk0YzNmN2IwNWY4`
+Snapshot ID: `MCxlZTI3NjA3NTAwMjM1NDZkN2Y2YTA5Y2FkNTc5ZjVjOWY3NTAyNzUx`

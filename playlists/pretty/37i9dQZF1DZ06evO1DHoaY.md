@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DHoaY.md) - [plain]
 
 > This is Bob Marley & The Wailers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,994,174 likes - 51 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,994,774 likes - 51 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DHoaY.md) - [plain]
 | 20 | [Waiting In Vain](https://open.spotify.com/track/09Nck1nvRcg1Y14SNfWwtJ) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/655KljKIXl42fiNDMKivbY) | 4:16 |
 | 21 | [Easy Skanking](https://open.spotify.com/track/1efuoLEUL1K0D96d63svRO) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \- The Best Of Bob Marley And The Wailers](https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn) | 2:57 |
 | 22 | [Rat Race](https://open.spotify.com/track/6EmP97fPXI3aiHnrsHuj08) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Rastaman Vibration](https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT) | 2:50 |
-| 23 | [She's Gone](https://open.spotify.com/track/6MFWhzNSsLdW3WtsuBZsOg) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 2:25 |
-| 24 | [Get Up, Stand Up](https://open.spotify.com/track/4hLATN2VtjiJ6jLm6V47x1) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Marley \(The Original Soundtrack\)](https://open.spotify.com/album/1lBmb7nfOeFqTDN6gQLFMx) | 3:17 |
+| 23 | [Get Up, Stand Up](https://open.spotify.com/track/4hLATN2VtjiJ6jLm6V47x1) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Marley \(The Original Soundtrack\)](https://open.spotify.com/album/1lBmb7nfOeFqTDN6gQLFMx) | 3:17 |
+| 24 | [She's Gone](https://open.spotify.com/track/6MFWhzNSsLdW3WtsuBZsOg) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 2:25 |
 | 25 | [Ride Natty Ride](https://open.spotify.com/track/5cTsXX5qwa6zmG80OCz4hR) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Survival](https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r) | 3:51 |
 | 26 | [War](https://open.spotify.com/track/1TLTUhEUYOyORxufZlCOWj) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Rastaman Vibration](https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT) | 3:36 |
 | 27 | [Iron Lion Zion \- 7" Mix](https://open.spotify.com/track/5iRPNyWioH9Km8gi58As4V) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Iron Lion Zion](https://open.spotify.com/album/06O9GpgtDESYZkUfhKpFcK) | 3:22 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DHoaY.md) - [plain]
 | 50 | [Chant Down Babylon](https://open.spotify.com/track/2HJZDha9V8OMf4n2HFUXf5) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 2:36 |
 | 51 | [Rastaman Live Up](https://open.spotify.com/track/2wFw6mZzzABL9gktquq7I5) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 5:27 |
 
-Snapshot ID: `Mjg0OTExMzgsMDAwMDAwMDA3OTdhZGYxNGJkMWU1MTlhYjg4MzNhMWJhMGQwN2RhNQ==`
+Snapshot ID: `Mjg0OTI1NjksMDAwMDAwMDBkODhhZjNmNTQzODJlMTIyYjE0MzkyNzVjMTc0MzM2OQ==`

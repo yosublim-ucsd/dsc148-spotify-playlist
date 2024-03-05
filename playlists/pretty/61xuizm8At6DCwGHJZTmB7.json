@@ -1,64 +1,32 @@
 {
-  "description": "Listen to the top Christian and worship hits of 2023 on <a href=\"spotify:user:sozoofficial\">SOZO Playlists</a>! Cover: <a href=\"https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC?si=auw2mPeNRXaXZPrCoPFJ0g\">Brooke Ligertwood</a>",
-  "num_followers": 117283,
+  "description": "Celebrate Easter season with your favoirte worship songs of 2024. Made by <a href=\"spotify:user:sozoofficial\">SOZO Playlists</a>! ",
+  "num_followers": 117292,
   "original_name": "Worship 2024",
   "owner": {
     "name": "SOZO Playlists ",
     "url": "https://open.spotify.com/user/sozoofficial"
   },
-  "snapshot_id": "NzU3MSwwNGU5YmI0MjBjZDViZWI5MWI2ZjU1OWYxZGZiYjM3ZWE5MDgzZTFm",
+  "snapshot_id": "NzcwNywxYjA5OTZhMzRkZGU0MWNmZGUzYjJkNTY5ZjgzYWNkM2Q4MDU1N2Qw",
   "tracks": [
     {
-      "added_at": "2024-02-29 18:15:34",
+      "added_at": "2024-03-04 20:26:11",
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE"
+        "name": "Abandoned",
+        "url": "https://open.spotify.com/album/6AFESCtQyitd3sSg54lWzM"
       },
       "artists": [
         {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 308066,
-      "name": "Holy Forever",
-      "url": "https://open.spotify.com/track/1jnU6ZJXnSSwxfmjGGed2J"
-    },
-    {
-      "added_at": "2024-02-29 18:15:34",
-      "album": {
-        "name": "How To Start A Housefire (Pt. III)",
-        "url": "https://open.spotify.com/album/43KFGs97OB7Mgyx0Gbmie8"
-      },
-      "artists": [
-        {
-          "name": "Housefires",
-          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
         },
         {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         }
       ],
-      "duration_ms": 415598,
-      "name": "Worthy",
-      "url": "https://open.spotify.com/track/6Xe3RfCgLzYCtJDft54wFt"
-    },
-    {
-      "added_at": "2024-02-29 18:15:34",
-      "album": {
-        "name": "Firm Foundation (Live)",
-        "url": "https://open.spotify.com/album/7JItqwtqscE2BMoRPIJj4l"
-      },
-      "artists": [
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 382174,
-      "name": "Firm Foundation (He Won\u2019t)",
-      "url": "https://open.spotify.com/track/39Gs7AuV2vXLopvvIiBaP4"
+      "duration_ms": 401920,
+      "name": "Abandoned - Live",
+      "url": "https://open.spotify.com/track/3lH3L5Qyz2xQHxAeq7BycZ"
     },
     {
       "added_at": "2024-02-29 18:15:34",
@@ -79,6 +47,22 @@
     {
       "added_at": "2024-02-29 18:15:34",
       "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 308066,
+      "name": "Holy Forever",
+      "url": "https://open.spotify.com/track/1jnU6ZJXnSSwxfmjGGed2J"
+    },
+    {
+      "added_at": "2024-02-29 18:15:34",
+      "album": {
         "name": "Firm Foundation (Live)",
         "url": "https://open.spotify.com/album/7JItqwtqscE2BMoRPIJj4l"
       },
@@ -88,29 +72,77 @@
           "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
         }
       ],
-      "duration_ms": 380666,
-      "name": "Firm Foundation (He Won\u2019t) - Live",
-      "url": "https://open.spotify.com/track/2HdibfM50khhtRTeKI0FkK"
-    },
-    {
-      "added_at": "2024-02-29 18:15:34",
-      "album": {
-        "name": "Shelter",
-        "url": "https://open.spotify.com/album/47SqVj3WMJg7IubtrVGopx"
-      },
-      "artists": [
-        {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
-        }
-      ],
-      "duration_ms": 252013,
-      "name": "Shelter",
-      "url": "https://open.spotify.com/track/2i46KYvDeKGU0Gsc9WEV5C"
+      "duration_ms": 382174,
+      "name": "Firm Foundation (He Won\u2019t)",
+      "url": "https://open.spotify.com/track/39Gs7AuV2vXLopvvIiBaP4"
     },
     {
       "added_at": "2024-03-01 22:55:05",
       "album": {
+        "name": "The Blessing",
+        "url": "https://open.spotify.com/album/2vdGtEIX7BYmmruQ7UbEFL"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 423193,
+      "name": "The Blessing",
+      "url": "https://open.spotify.com/track/2lIB1TU0Cqnc6RuYDjc92z"
+    },
+    {
+      "added_at": "2024-03-04 20:26:53",
+      "album": {
+        "name": "Jesus Is My Healer (Live)",
+        "url": "https://open.spotify.com/album/5vKuQJsGAOtvNvIfXTrheL"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Elyssa Smith",
+          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
+        },
+        {
+          "name": "Jessie Harris",
+          "url": "https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA"
+        }
+      ],
+      "duration_ms": 397128,
+      "name": "Jesus Is My Healer - Live at Gateway Conference",
+      "url": "https://open.spotify.com/track/2ehScY2VKSRBuk3CKbaLmU"
+    },
+    {
+      "added_at": "2024-03-01 22:55:05",
+      "album": {
+        "name": "Worthy Of Your Name (Live)",
+        "url": "https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 298520,
+      "name": "Glorious Day - Live",
+      "url": "https://open.spotify.com/track/3QhL4eWBVv64IycG3i9XTb"
+    },
+    {
+      "added_at": "2024-02-29 18:15:34",
+      "album": {
         "name": "Shelter",
         "url": "https://open.spotify.com/album/47SqVj3WMJg7IubtrVGopx"
       },
@@ -125,7 +157,375 @@
       "url": "https://open.spotify.com/track/2i46KYvDeKGU0Gsc9WEV5C"
     },
     {
+      "added_at": "2024-03-04 20:28:19",
+      "album": {
+        "name": "At Easter",
+        "url": "https://open.spotify.com/album/6XzwtfJOB0jf9FQDUw4cnN"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Chidima",
+          "url": "https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 402973,
+      "name": "Agnus Dei / King Of Kings",
+      "url": "https://open.spotify.com/track/0ar77SmMUtj04pFWKSHFSt"
+    },
+    {
+      "added_at": "2024-03-04 20:29:00",
+      "album": {
+        "name": "Sing! The Great Commission - World Tour (Live)",
+        "url": "https://open.spotify.com/album/1WsOwc3ZE7MvMzube1cPyF"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        },
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 302048,
+      "name": "Precious Love - Live",
+      "url": "https://open.spotify.com/track/1sWYM9HHpUX0UMTUETzLMH"
+    },
+    {
+      "added_at": "2024-03-04 20:29:57",
+      "album": {
+        "name": "Who Else (Live)",
+        "url": "https://open.spotify.com/album/4PB1BxZTtyxqkihYYYK3pd"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+        }
+      ],
+      "duration_ms": 331219,
+      "name": "Who Else - Live at Gateway Conference",
+      "url": "https://open.spotify.com/track/1mBH77kFrD96YMow8bm5cb"
+    },
+    {
+      "added_at": "2024-03-04 20:30:26",
+      "album": {
+        "name": "Call on Heaven (Live)",
+        "url": "https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 390020,
+      "name": "He Who Is To Come - Live From Passion 2024",
+      "url": "https://open.spotify.com/track/6SIyUCo2Sr7hPuBiZOaJYf"
+    },
+    {
+      "added_at": "2024-03-04 20:30:53",
+      "album": {
+        "name": "Just As I Am (A Legacy Of Hymns And Worship)",
+        "url": "https://open.spotify.com/album/5Wm8dbKLD7ermzHvC9hIRv"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 356440,
+      "name": "Revelation Song",
+      "url": "https://open.spotify.com/track/086YlKy50RFarVYtRFFTGJ"
+    },
+    {
+      "added_at": "2024-03-04 20:31:23",
+      "album": {
+        "name": "Sunday, Vol. 1 (Live)",
+        "url": "https://open.spotify.com/album/4J60UHKXz09ZxxCpLJZP8i"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "duration_ms": 440000,
+      "name": "Everything At Your Feet - Live at Mosaic, Los Angeles, 2023",
+      "url": "https://open.spotify.com/track/0tZ2gIuKTGST2pLdR4TepM"
+    },
+    {
       "added_at": "2024-02-29 18:15:34",
+      "album": {
+        "name": "Calvary's Enough",
+        "url": "https://open.spotify.com/album/0WSEBQibT5euqk9cNl6PU8"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 197689,
+      "name": "Calvary's Enough",
+      "url": "https://open.spotify.com/track/2oBrfq6TBwRyW15UZozfZs"
+    },
+    {
+      "added_at": "2024-03-01 22:55:05",
+      "album": {
+        "name": "Pat Barrett",
+        "url": "https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        }
+      ],
+      "duration_ms": 244893,
+      "name": "Build My Life",
+      "url": "https://open.spotify.com/track/2UeOsbOZ3h1QxUX2Jfw42j"
+    },
+    {
+      "added_at": "2024-03-04 20:32:28",
+      "album": {
+        "name": "The Lord Will Provide (Live From Passion 2024)",
+        "url": "https://open.spotify.com/album/7vj92osEZGcvAfQrOwDnMJ"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Landon Wolfe",
+          "url": "https://open.spotify.com/artist/2SpckG1WSOarR05nGg5tjE"
+        }
+      ],
+      "duration_ms": 336249,
+      "name": "The Lord Will Provide - Live From Passion 2024",
+      "url": "https://open.spotify.com/track/3uqLs8EuMOuCNxKtqUWElW"
+    },
+    {
+      "added_at": "2024-03-04 20:39:24",
+      "album": {
+        "name": "Spirit Fall (Dove) [Live]",
+        "url": "https://open.spotify.com/album/3KTCaaf0LQU9E14mr57mPN"
+      },
+      "artists": [
+        {
+          "name": "Citipointe Worship",
+          "url": "https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2"
+        },
+        {
+          "name": "Jess Steer",
+          "url": "https://open.spotify.com/artist/6nQhS19N2Vi3J3xAVgcgu4"
+        }
+      ],
+      "duration_ms": 391933,
+      "name": "Spirit Fall (Dove) - Live",
+      "url": "https://open.spotify.com/track/726QdTEtmQIkafu0F9PdY2"
+    },
+    {
+      "added_at": "2024-03-04 20:39:46",
+      "album": {
+        "name": "Worship Night 01",
+        "url": "https://open.spotify.com/album/1ieRznNOA6nTHG6b36PqHL"
+      },
+      "artists": [
+        {
+          "name": "Jesus Co.",
+          "url": "https://open.spotify.com/artist/6Ll7sTNN0NeJHoB0bmCKZ1"
+        }
+      ],
+      "duration_ms": 488060,
+      "name": "Nothing I Hold On To",
+      "url": "https://open.spotify.com/track/6L0k3awi2pAvGcw5YXyWnv"
+    },
+    {
+      "added_at": "2024-03-04 20:40:23",
+      "album": {
+        "name": "(in the meantime)",
+        "url": "https://open.spotify.com/album/4Slh7GOXCskT0v8WDe7pjo"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 261653,
+      "name": "Another In The Fire",
+      "url": "https://open.spotify.com/track/2Wh5hmw4afibksDICDu2ge"
+    },
+    {
+      "added_at": "2024-03-04 20:40:43",
+      "album": {
+        "name": "TEN",
+        "url": "https://open.spotify.com/album/2mgX9f5BmWx0hw0gzl5qvU"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "duration_ms": 310200,
+      "name": "Because Of Christ",
+      "url": "https://open.spotify.com/track/0Ml9ylGvOxwu9e0Yiu1AaD"
+    },
+    {
+      "added_at": "2024-03-01 22:55:05",
+      "album": {
+        "name": "Love Ran Red",
+        "url": "https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 250626,
+      "name": "At The Cross (Love Ran Red)",
+      "url": "https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK"
+    },
+    {
+      "added_at": "2024-03-04 20:41:53",
+      "album": {
+        "name": "Always On The Way",
+        "url": "https://open.spotify.com/album/4tjBnY43ovO1RRSrZUpcVW"
+      },
+      "artists": [
+        {
+          "name": "Kirby Kaple",
+          "url": "https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1"
+        }
+      ],
+      "duration_ms": 268200,
+      "name": "Always On The Way",
+      "url": "https://open.spotify.com/track/2GkGPEOHRHO92c88Ttg7XB"
+    },
+    {
+      "added_at": "2024-03-04 20:42:12",
+      "album": {
+        "name": "Long Live The King (Versions) - EP",
+        "url": "https://open.spotify.com/album/5DuNnFldG0pyZWbLUw25xH"
+      },
+      "artists": [
+        {
+          "name": "Influence Music",
+          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
+        },
+        {
+          "name": "Matt Gilman",
+          "url": "https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P"
+        }
+      ],
+      "duration_ms": 353015,
+      "name": "Long Live The King - Acoustic",
+      "url": "https://open.spotify.com/track/5gZgxdUFIUeNOMgZ0h6vgv"
+    },
+    {
+      "added_at": "2024-03-01 22:55:05",
+      "album": {
+        "name": "10,000 Reasons (Live)",
+        "url": "https://open.spotify.com/album/0av22wHGgPZRC0BkGrnVVJ"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 342493,
+      "name": "10,000 Reasons (Bless The Lord) - Live",
+      "url": "https://open.spotify.com/track/0fxpHpK3aw2nFWII6yveDD"
+    },
+    {
+      "added_at": "2024-03-04 20:42:49",
+      "album": {
+        "name": "The Covering",
+        "url": "https://open.spotify.com/album/7jyMFcSGsmE232C96yBjEd"
+      },
+      "artists": [
+        {
+          "name": "Inner Sessions",
+          "url": "https://open.spotify.com/artist/4Ne3kBZ2QTM75afQSHjh8L"
+        },
+        {
+          "name": "Landry Cantrell",
+          "url": "https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6"
+        },
+        {
+          "name": "Amanda Sweetin",
+          "url": "https://open.spotify.com/artist/21tY1txY1mqJHmUgrZsStW"
+        }
+      ],
+      "duration_ms": 332338,
+      "name": "The Covering",
+      "url": "https://open.spotify.com/track/3F9VoAnnGRGLppjrWJYdU9"
+    },
+    {
+      "added_at": "2024-03-04 20:43:05",
+      "album": {
+        "name": "Steadfast Love (Live)",
+        "url": "https://open.spotify.com/album/5kuVApIeXUgvb3RFaQZ51p"
+      },
+      "artists": [
+        {
+          "name": "Lindy Cofer",
+          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
+        },
+        {
+          "name": "Circuit Rider Music",
+          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
+        },
+        {
+          "name": "Alvin Muthoka",
+          "url": "https://open.spotify.com/artist/5S9ffQu8Q9w0jc1da9KkA0"
+        }
+      ],
+      "duration_ms": 556183,
+      "name": "Steadfast Love - Live",
+      "url": "https://open.spotify.com/track/2TMVO0RgGLIyWCVo9vRSiQ"
+    },
+    {
+      "added_at": "2024-03-01 22:55:05",
       "album": {
         "name": "Songs You Maybe Didn't Know I Wrote And Some You Maybe Did (Live At Sound Emporium)",
         "url": "https://open.spotify.com/album/6zkm3hMUBGWTigktv1U4PK"
@@ -145,24 +545,264 @@
       "url": "https://open.spotify.com/track/37WPHM0v6wekvi5wXnve4W"
     },
     {
-      "added_at": "2024-03-01 22:55:05",
+      "added_at": "2024-03-04 20:43:37",
       "album": {
-        "name": "Songs You Maybe Didn't Know I Wrote And Some You Maybe Did (Live At Sound Emporium)",
-        "url": "https://open.spotify.com/album/6zkm3hMUBGWTigktv1U4PK"
+        "name": "In Christ Alone (Live From Sydney)",
+        "url": "https://open.spotify.com/album/6cCviTac5Tm6skLA9BoMgH"
       },
       "artists": [
         {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        },
+        {
+          "name": "CityAlight",
+          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
+        }
+      ],
+      "duration_ms": 249838,
+      "name": "In Christ Alone - Live From Sydney",
+      "url": "https://open.spotify.com/track/78VNLbkNUvZUih7XDUqfme"
+    },
+    {
+      "added_at": "2024-03-01 22:55:05",
+      "album": {
+        "name": "Joy In The Morning",
+        "url": "https://open.spotify.com/album/170FUziX94zYLzcV7arINC"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 528413,
+      "name": "Joy In The Morning",
+      "url": "https://open.spotify.com/track/6VorEVnu2fEEk6dcG9vb5v"
+    },
+    {
+      "added_at": "2024-03-04 20:45:08",
+      "album": {
+        "name": "Sacred Fire (Live)",
+        "url": "https://open.spotify.com/album/2OPiufuGmjkIDr8OnBYmmO"
+      },
+      "artists": [
+        {
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+        }
+      ],
+      "duration_ms": 396666,
+      "name": "Sacred Fire - Live",
+      "url": "https://open.spotify.com/track/3Rz4UDQAKNMVmc2V01IMYp"
+    },
+    {
+      "added_at": "2024-03-04 20:45:32",
+      "album": {
+        "name": "All The Earth (Live)",
+        "url": "https://open.spotify.com/album/00T7ckfhNb4TdXDAPCSr0h"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Henry Seeley",
+          "url": "https://open.spotify.com/artist/2MZEISBa4OBbC0erQQcyzS"
+        }
+      ],
+      "duration_ms": 242913,
+      "name": "Zeal - Live",
+      "url": "https://open.spotify.com/track/4JXSzNLxnP1xuvHtzuYUN9"
+    },
+    {
+      "added_at": "2024-03-04 20:47:13",
+      "album": {
+        "name": "Heart Cries Holy",
+        "url": "https://open.spotify.com/album/7fsu4YWjnGzlzLudN1ny1g"
+      },
+      "artists": [
+        {
+          "name": "Canyon Hills Worship",
+          "url": "https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK"
+        },
+        {
+          "name": "Michael Monroe",
+          "url": "https://open.spotify.com/artist/2DjzwlGxl8RUPTvvB9hgHv"
+        }
+      ],
+      "duration_ms": 266351,
+      "name": "Heart Cries Holy",
+      "url": "https://open.spotify.com/track/5EdKhtiWCSP97UFkXoGER9"
+    },
+    {
+      "added_at": "2024-02-29 18:15:34",
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
           "name": "Benjamin William Hastings",
           "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "duration_ms": 411000,
+      "name": "So Will I (100 Billion X)",
+      "url": "https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J"
+    },
+    {
+      "added_at": "2024-03-04 20:49:08",
+      "album": {
+        "name": "The Time Is Now",
+        "url": "https://open.spotify.com/album/6Oe58adBImQrQpi6Xv9QHC"
+      },
+      "artists": [
+        {
+          "name": "Steven Musso",
+          "url": "https://open.spotify.com/artist/6qG7Lqb9bjQXrmFjj3z8Qx"
         },
+        {
+          "name": "Hannah Musso",
+          "url": "https://open.spotify.com/artist/4qqArbzmExjM16GTwdZedv"
+        }
+      ],
+      "duration_ms": 366152,
+      "name": "Royalty",
+      "url": "https://open.spotify.com/track/2CbuTq41rHhEQPgAINRyK8"
+    },
+    {
+      "added_at": "2024-03-01 22:55:05",
+      "album": {
+        "name": "SEVEN (Live)",
+        "url": "https://open.spotify.com/album/6ZVXKVGiyL96L6pflgfWrt"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 283964,
+      "name": "Honey In The Rock - Live",
+      "url": "https://open.spotify.com/track/06EzKxIt7WUokYpkitiIK2"
+    },
+    {
+      "added_at": "2024-03-04 20:49:47",
+      "album": {
+        "name": "Alive In You (Live)",
+        "url": "https://open.spotify.com/album/6ymhkaFElnElH8von7Bc6G"
+      },
+      "artists": [
+        {
+          "name": "Legacy Nashville",
+          "url": "https://open.spotify.com/artist/0z4zqQUZicpUdBmnLRvFje"
+        },
+        {
+          "name": "Carrington Gaines",
+          "url": "https://open.spotify.com/artist/06KVH7flbJYpynOJ0pcUwZ"
+        },
+        {
+          "name": "Brian Nhira",
+          "url": "https://open.spotify.com/artist/7D9JzM95gIe11f6L3h1w1L"
+        }
+      ],
+      "duration_ms": 399857,
+      "name": "Alive In You - Live",
+      "url": "https://open.spotify.com/track/4drIQ5ScsSR23xS5696405"
+    },
+    {
+      "added_at": "2024-03-04 20:53:31",
+      "album": {
+        "name": "Story To Tell (Live)",
+        "url": "https://open.spotify.com/album/4O94XSeuiMOblRiDLuwDDT"
+      },
+      "artists": [
         {
           "name": "Worship Together",
           "url": "https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc"
+        },
+        {
+          "name": "Andrew Holt",
+          "url": "https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8"
         }
       ],
-      "duration_ms": 427913,
-      "name": "Gratitude - Live At Sound Emporium",
-      "url": "https://open.spotify.com/track/37WPHM0v6wekvi5wXnve4W"
+      "duration_ms": 411562,
+      "name": "I've Witnessed It - Live",
+      "url": "https://open.spotify.com/track/4oI2WsqTvrNBenQZ35wxQl"
+    },
+    {
+      "added_at": "2024-03-04 20:52:53",
+      "album": {
+        "name": "His Mercy Is More: The Hymns Of Matt Boswell And Matt Papa",
+        "url": "https://open.spotify.com/album/0vdwU3kvvFybzEAPZZDOT3"
+      },
+      "artists": [
+        {
+          "name": "Matt Boswell",
+          "url": "https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm"
+        },
+        {
+          "name": "Matt Papa",
+          "url": "https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d"
+        }
+      ],
+      "duration_ms": 289480,
+      "name": "His Mercy Is More",
+      "url": "https://open.spotify.com/track/4N5DNWSCAitzzxhRQ5Cfxi"
+    },
+    {
+      "added_at": "2024-03-04 20:53:52",
+      "album": {
+        "name": "Only God (Live From Costa Mesa, CA, 2023)",
+        "url": "https://open.spotify.com/album/3FO3dV5JlM5oD4kINskNT4"
+      },
+      "artists": [
+        {
+          "name": "Circuit Rider Music",
+          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
+        },
+        {
+          "name": "Lucas McCloud",
+          "url": "https://open.spotify.com/artist/3O8ssrHqGYnyGdPg7nOGDJ"
+        }
+      ],
+      "duration_ms": 436188,
+      "name": "Only God - Live From Costa Mesa, CA, 2023",
+      "url": "https://open.spotify.com/track/3aOEV0SCViQ61mrjIyzGP3"
+    },
+    {
+      "added_at": "2024-03-04 20:56:17",
+      "album": {
+        "name": "Battleground",
+        "url": "https://open.spotify.com/album/29y5tk3QV6zOSVQ083htZ3"
+      },
+      "artists": [
+        {
+          "name": "Steven Musso",
+          "url": "https://open.spotify.com/artist/6qG7Lqb9bjQXrmFjj3z8Qx"
+        },
+        {
+          "name": "Hannah Musso",
+          "url": "https://open.spotify.com/artist/4qqArbzmExjM16GTwdZedv"
+        }
+      ],
+      "duration_ms": 307392,
+      "name": "Battleground",
+      "url": "https://open.spotify.com/track/1OdBPNbVwsFqPOvBF8fPaw"
     },
     {
       "added_at": "2024-03-01 22:55:05",
@@ -183,6 +823,22 @@
       "duration_ms": 415598,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/6Xe3RfCgLzYCtJDft54wFt"
+    },
+    {
+      "added_at": "2024-03-04 20:56:41",
+      "album": {
+        "name": "Your word (psalm 119)",
+        "url": "https://open.spotify.com/album/0VlhEr11NzMgSY1dAWKMAf"
+      },
+      "artists": [
+        {
+          "name": "Skylar Dayne",
+          "url": "https://open.spotify.com/artist/6g747a2Ku43i2nlRfV2Tkg"
+        }
+      ],
+      "duration_ms": 306428,
+      "name": "Your word (psalm 119)",
+      "url": "https://open.spotify.com/track/5EjBZv52j8DY9bO3zKW6Au"
     },
     {
       "added_at": "2024-02-29 18:15:34",
@@ -209,88 +865,20 @@
       "url": "https://open.spotify.com/track/5VpzCWRBKUhm50jtafbKu2"
     },
     {
-      "added_at": "2024-02-29 18:15:34",
+      "added_at": "2024-03-04 20:57:00",
       "album": {
-        "name": "He Who Is To Come",
-        "url": "https://open.spotify.com/album/5zKF5mAt03NcwrTKa3Z5or"
+        "name": "Can't Look Away / My Portion",
+        "url": "https://open.spotify.com/album/4Qb5E57Er8g3wpBZg6zfik"
       },
       "artists": [
         {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        },
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+          "name": "Jesus Co.",
+          "url": "https://open.spotify.com/artist/6Ll7sTNN0NeJHoB0bmCKZ1"
         }
       ],
-      "duration_ms": 410958,
-      "name": "He Who Is To Come",
-      "url": "https://open.spotify.com/track/5HKXRikAE7tdWY0XR5J7z9"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "He Who Is To Come",
-        "url": "https://open.spotify.com/album/5zKF5mAt03NcwrTKa3Z5or"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        },
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 410958,
-      "name": "He Who Is To Come",
-      "url": "https://open.spotify.com/track/5HKXRikAE7tdWY0XR5J7z9"
-    },
-    {
-      "added_at": "2024-02-29 18:15:34",
-      "album": {
-        "name": "REVIVE",
-        "url": "https://open.spotify.com/album/3XAalHRYY1isgLgkclmdXv"
-      },
-      "artists": [
-        {
-          "name": "Austin Stone Worship",
-          "url": "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
-        }
-      ],
-      "duration_ms": 315340,
-      "name": "Revive My Soul",
-      "url": "https://open.spotify.com/track/24k5KgPxbxUtzf074uwVQ4"
-    },
-    {
-      "added_at": "2024-02-29 18:15:34",
-      "album": {
-        "name": "King Of All The Nations / We Fall Down (Live)",
-        "url": "https://open.spotify.com/album/2tsJzxplKBuydKAMhL6LoM"
-      },
-      "artists": [
-        {
-          "name": "Worship Together",
-          "url": "https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc"
-        },
-        {
-          "name": "TEMITOPE",
-          "url": "https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25"
-        }
-      ],
-      "duration_ms": 332371,
-      "name": "King Of All The Nations / We Fall Down - Live",
-      "url": "https://open.spotify.com/track/06PdKGYoayZpkyfvdFln0Q"
+      "duration_ms": 443906,
+      "name": "Can't Look Away / My Portion",
+      "url": "https://open.spotify.com/track/5eek3M7qZ3tt7A3632h5dU"
     },
     {
       "added_at": "2024-02-29 18:15:34",
@@ -315,22 +903,42 @@
     {
       "added_at": "2024-02-29 18:15:34",
       "album": {
-        "name": "pure",
-        "url": "https://open.spotify.com/album/5iuqsJpvEOWblbICZuUcv0"
+        "name": "TIME",
+        "url": "https://open.spotify.com/album/5TxwC6fgOVmp5oce0KoUT5"
       },
       "artists": [
         {
-          "name": "Abbie Gamboa",
-          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+          "name": "Chris Davenport",
+          "url": "https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed"
         },
         {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
         }
       ],
-      "duration_ms": 261318,
-      "name": "eyes locked on the king",
-      "url": "https://open.spotify.com/track/7DEwpeWvezPMN0laniQQG7"
+      "duration_ms": 310586,
+      "name": "Plead The Blood",
+      "url": "https://open.spotify.com/track/1fsaepyOCxV9ezoRydd97H"
+    },
+    {
+      "added_at": "2024-03-04 20:58:13",
+      "album": {
+        "name": "Abandoned",
+        "url": "https://open.spotify.com/album/15cpzeKKzSQiY6LBshhFyo"
+      },
+      "artists": [
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "duration_ms": 304757,
+      "name": "Abandoned",
+      "url": "https://open.spotify.com/track/4fHbncM8pS8ZX45OGIZrCa"
     },
     {
       "added_at": "2024-03-01 22:55:05",
@@ -351,110 +959,6 @@
     {
       "added_at": "2024-02-29 18:15:34",
       "album": {
-        "name": "Different (Live at Mosaic, Los Angeles, 2023)",
-        "url": "https://open.spotify.com/album/28geG9hJyX8JtkEqDLTyow"
-      },
-      "artists": [
-        {
-          "name": "Mosaic MSC",
-          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
-        }
-      ],
-      "duration_ms": 405600,
-      "name": "Different - Live at Mosaic, Los Angeles, 2023",
-      "url": "https://open.spotify.com/track/3tSN0n75qQRw3SyCo6u0P9"
-    },
-    {
-      "added_at": "2024-02-29 18:15:34",
-      "album": {
-        "name": "TIME",
-        "url": "https://open.spotify.com/album/5TxwC6fgOVmp5oce0KoUT5"
-      },
-      "artists": [
-        {
-          "name": "Chris Davenport",
-          "url": "https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        },
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 310586,
-      "name": "Plead The Blood",
-      "url": "https://open.spotify.com/track/1fsaepyOCxV9ezoRydd97H"
-    },
-    {
-      "added_at": "2024-02-29 18:15:34",
-      "album": {
-        "name": "Praise You Anywhere (Live)",
-        "url": "https://open.spotify.com/album/5MVkF6BeuBjlpWUxW9uWWG"
-      },
-      "artists": [
-        {
-          "name": "Worship Together",
-          "url": "https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc"
-        },
-        {
-          "name": "Shantrice Laura",
-          "url": "https://open.spotify.com/artist/7jsV5ldKtsBr5ifAkmzQyP"
-        },
-        {
-          "name": "Women Who Worship",
-          "url": "https://open.spotify.com/artist/7JHvic6eP3yMrUCrRFtdbp"
-        }
-      ],
-      "duration_ms": 252669,
-      "name": "Praise You Anywhere - Live",
-      "url": "https://open.spotify.com/track/2GD9NVyL1EoQUA2MVW2HnX"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "King Of All The Nations / We Fall Down (Live)",
-        "url": "https://open.spotify.com/album/2tsJzxplKBuydKAMhL6LoM"
-      },
-      "artists": [
-        {
-          "name": "Worship Together",
-          "url": "https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc"
-        },
-        {
-          "name": "TEMITOPE",
-          "url": "https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25"
-        }
-      ],
-      "duration_ms": 332371,
-      "name": "King Of All The Nations / We Fall Down - Live",
-      "url": "https://open.spotify.com/track/06PdKGYoayZpkyfvdFln0Q"
-    },
-    {
-      "added_at": "2024-02-29 18:15:34",
-      "album": {
-        "name": "The King Of Glory (Live)",
-        "url": "https://open.spotify.com/album/4s0z9J01qrZHOYwEoBHMH3"
-      },
-      "artists": [
-        {
-          "name": "Citipointe Worship",
-          "url": "https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2"
-        },
-        {
-          "name": "Alexander Pappas",
-          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
-        }
-      ],
-      "duration_ms": 321786,
-      "name": "The King Of Glory - Live",
-      "url": "https://open.spotify.com/track/3dbZkKX27Twpe1zI6kn2oa"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
         "name": "pure",
         "url": "https://open.spotify.com/album/5iuqsJpvEOWblbICZuUcv0"
       },
@@ -475,6 +979,82 @@
     {
       "added_at": "2024-03-01 22:55:05",
       "album": {
+        "name": "A Thousand Hallelujahs",
+        "url": "https://open.spotify.com/album/3u2dlepgO3ee53VzrrhT5C"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 222014,
+      "name": "A Thousand Hallelujahs - Radio Version",
+      "url": "https://open.spotify.com/track/7Epq07uvSDsLNul46niwb2"
+    },
+    {
+      "added_at": "2024-03-01 22:55:05",
+      "album": {
+        "name": "Run To The Father",
+        "url": "https://open.spotify.com/album/7KVFm4XMDDUZy9XgGdWuHv"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 308000,
+      "name": "Run To The Father",
+      "url": "https://open.spotify.com/track/3g7bn09uvp9jkMAW0jXOms"
+    },
+    {
+      "added_at": "2024-02-29 18:15:34",
+      "album": {
+        "name": "King Of All The Nations / We Fall Down (Live)",
+        "url": "https://open.spotify.com/album/2tsJzxplKBuydKAMhL6LoM"
+      },
+      "artists": [
+        {
+          "name": "Worship Together",
+          "url": "https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc"
+        },
+        {
+          "name": "TEMITOPE",
+          "url": "https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25"
+        }
+      ],
+      "duration_ms": 332371,
+      "name": "King Of All The Nations / We Fall Down - Live",
+      "url": "https://open.spotify.com/track/06PdKGYoayZpkyfvdFln0Q"
+    },
+    {
+      "added_at": "2024-03-04 21:00:34",
+      "album": {
+        "name": "He Who Is To Come",
+        "url": "https://open.spotify.com/album/5zKF5mAt03NcwrTKa3Z5or"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 410958,
+      "name": "He Who Is To Come",
+      "url": "https://open.spotify.com/track/5HKXRikAE7tdWY0XR5J7z9"
+    },
+    {
+      "added_at": "2024-02-29 18:15:34",
+      "album": {
         "name": "Different (Live at Mosaic, Los Angeles, 2023)",
         "url": "https://open.spotify.com/album/28geG9hJyX8JtkEqDLTyow"
       },
@@ -491,89 +1071,25 @@
     {
       "added_at": "2024-02-29 18:15:34",
       "album": {
-        "name": "Glory, Honor, Power EP",
-        "url": "https://open.spotify.com/album/40BpVowLYEaZ4V1OYkDFDO"
+        "name": "The King Of Glory (Live)",
+        "url": "https://open.spotify.com/album/4s0z9J01qrZHOYwEoBHMH3"
       },
       "artists": [
         {
-          "name": "Influence Music",
-          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
+          "name": "Citipointe Worship",
+          "url": "https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2"
         },
         {
-          "name": "Melody Noel",
-          "url": "https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi"
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
         }
       ],
-      "duration_ms": 288302,
-      "name": "Glory, Honor, Power - Acoustic",
-      "url": "https://open.spotify.com/track/1jaJuzT4iyKOxXO6Dd2EOE"
+      "duration_ms": 321786,
+      "name": "The King Of Glory - Live",
+      "url": "https://open.spotify.com/track/3dbZkKX27Twpe1zI6kn2oa"
     },
     {
       "added_at": "2024-02-29 18:15:34",
-      "album": {
-        "name": "Joy In The Morning",
-        "url": "https://open.spotify.com/album/170FUziX94zYLzcV7arINC"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 528413,
-      "name": "Joy In The Morning",
-      "url": "https://open.spotify.com/track/6VorEVnu2fEEk6dcG9vb5v"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "TIME",
-        "url": "https://open.spotify.com/album/5TxwC6fgOVmp5oce0KoUT5"
-      },
-      "artists": [
-        {
-          "name": "Chris Davenport",
-          "url": "https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        },
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 310586,
-      "name": "Plead The Blood",
-      "url": "https://open.spotify.com/track/1fsaepyOCxV9ezoRydd97H"
-    },
-    {
-      "added_at": "2024-02-29 18:15:34",
-      "album": {
-        "name": "Make Room",
-        "url": "https://open.spotify.com/album/7qG7iGxZm2QYP9CYxVjOLb"
-      },
-      "artists": [
-        {
-          "name": "Maranatha! Music",
-          "url": "https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe"
-        },
-        {
-          "name": "Charly Beathard",
-          "url": "https://open.spotify.com/artist/6ydUqYa9scVm35DpeO3DtE"
-        }
-      ],
-      "duration_ms": 322258,
-      "name": "Make Room",
-      "url": "https://open.spotify.com/track/1FvYsZXEb6z8rc8DNhFZYo"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
       "album": {
         "name": "Praise You Anywhere (Live)",
         "url": "https://open.spotify.com/album/5MVkF6BeuBjlpWUxW9uWWG"
@@ -599,102 +1115,6 @@
     {
       "added_at": "2024-03-01 22:55:05",
       "album": {
-        "name": "Goodness Of God (Live)",
-        "url": "https://open.spotify.com/album/7KgAz06YJmhpSPLl5Nfc44"
-      },
-      "artists": [
-        {
-          "name": "Church of the City",
-          "url": "https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw"
-        },
-        {
-          "name": "Worship Together",
-          "url": "https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc"
-        },
-        {
-          "name": "Ileia Shara\u00e9",
-          "url": "https://open.spotify.com/artist/4jt2b9I1RDXCiZujdiXaQr"
-        }
-      ],
-      "duration_ms": 347827,
-      "name": "Goodness Of God - Live",
-      "url": "https://open.spotify.com/track/5VpzCWRBKUhm50jtafbKu2"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "The King Of Glory (Live)",
-        "url": "https://open.spotify.com/album/4s0z9J01qrZHOYwEoBHMH3"
-      },
-      "artists": [
-        {
-          "name": "Citipointe Worship",
-          "url": "https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2"
-        },
-        {
-          "name": "Alexander Pappas",
-          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
-        }
-      ],
-      "duration_ms": 321786,
-      "name": "The King Of Glory - Live",
-      "url": "https://open.spotify.com/track/3dbZkKX27Twpe1zI6kn2oa"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Joy In The Morning",
-        "url": "https://open.spotify.com/album/170FUziX94zYLzcV7arINC"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 528413,
-      "name": "Joy In The Morning",
-      "url": "https://open.spotify.com/track/6VorEVnu2fEEk6dcG9vb5v"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "A Thousand Hallelujahs",
-        "url": "https://open.spotify.com/album/3u2dlepgO3ee53VzrrhT5C"
-      },
-      "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 222014,
-      "name": "A Thousand Hallelujahs - Radio Version",
-      "url": "https://open.spotify.com/track/7Epq07uvSDsLNul46niwb2"
-    },
-    {
-      "added_at": "2024-02-29 18:15:34",
-      "album": {
-        "name": "Calvary's Enough",
-        "url": "https://open.spotify.com/album/0WSEBQibT5euqk9cNl6PU8"
-      },
-      "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 197689,
-      "name": "Calvary's Enough",
-      "url": "https://open.spotify.com/track/2oBrfq6TBwRyW15UZozfZs"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
         "name": "Glory, Honor, Power EP",
         "url": "https://open.spotify.com/album/40BpVowLYEaZ4V1OYkDFDO"
       },
@@ -715,29 +1135,25 @@
     {
       "added_at": "2024-02-29 18:15:34",
       "album": {
-        "name": "Not To Us (One Name Forever Shall Be Praised) [Live]",
-        "url": "https://open.spotify.com/album/0MrANWWJ7Mppk13hFkTXkB"
+        "name": "What A Beautiful Name",
+        "url": "https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2"
       },
       "artists": [
         {
-          "name": "Matt Boswell",
-          "url": "https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm"
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
         },
         {
-          "name": "Matt Papa",
-          "url": "https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d"
-        },
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
         }
       ],
-      "duration_ms": 251498,
-      "name": "Not To Us (One Name Forever Shall Be Praised) - Live",
-      "url": "https://open.spotify.com/track/64Zd9wCsCHtYSG3tk8wHse"
+      "duration_ms": 238200,
+      "name": "What A Beautiful Name",
+      "url": "https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z"
     },
     {
-      "added_at": "2024-03-01 22:55:05",
+      "added_at": "2024-02-29 18:15:34",
       "album": {
         "name": "Make Room",
         "url": "https://open.spotify.com/album/7qG7iGxZm2QYP9CYxVjOLb"
@@ -759,66 +1175,6 @@
     {
       "added_at": "2024-02-29 18:15:34",
       "album": {
-        "name": "Story To Tell (Live)",
-        "url": "https://open.spotify.com/album/13ZEtf9IwtKQ4st3m96GD9"
-      },
-      "artists": [
-        {
-          "name": "Worship Together",
-          "url": "https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc"
-        },
-        {
-          "name": "kalley",
-          "url": "https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo"
-        },
-        {
-          "name": "Women Who Worship",
-          "url": "https://open.spotify.com/artist/7JHvic6eP3yMrUCrRFtdbp"
-        }
-      ],
-      "duration_ms": 238698,
-      "name": "Story To Tell - Live",
-      "url": "https://open.spotify.com/track/1Qr7BpvN96a9bEqSsaIM6d"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Calvary's Enough",
-        "url": "https://open.spotify.com/album/0WSEBQibT5euqk9cNl6PU8"
-      },
-      "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 197689,
-      "name": "Calvary's Enough",
-      "url": "https://open.spotify.com/track/2oBrfq6TBwRyW15UZozfZs"
-    },
-    {
-      "added_at": "2024-02-29 18:15:34",
-      "album": {
-        "name": "The Place Where I Belong",
-        "url": "https://open.spotify.com/album/6vvFjPGhonbA1fIU0pd7AU"
-      },
-      "artists": [
-        {
-          "name": "Housefires",
-          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
-        },
-        {
-          "name": "Davy Flowers",
-          "url": "https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU"
-        }
-      ],
-      "duration_ms": 344942,
-      "name": "The Place Where I Belong",
-      "url": "https://open.spotify.com/track/1gvxeqhB6EI5aVg95EM1wK"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
         "name": "Not To Us (One Name Forever Shall Be Praised) [Live]",
         "url": "https://open.spotify.com/album/0MrANWWJ7Mppk13hFkTXkB"
       },
@@ -843,58 +1199,6 @@
     {
       "added_at": "2024-02-29 18:15:34",
       "album": {
-        "name": "Stories On Stories",
-        "url": "https://open.spotify.com/album/11x6snME6Sa5BG8aEIzEBr"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 240457,
-      "name": "Stories On Stories",
-      "url": "https://open.spotify.com/track/5ZHHtf1eZs6d6OcvYuTzk9"
-    },
-    {
-      "added_at": "2024-02-29 18:15:34",
-      "album": {
-        "name": "What A Beautiful Name",
-        "url": "https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 238200,
-      "name": "What A Beautiful Name",
-      "url": "https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z"
-    },
-    {
-      "added_at": "2024-02-29 18:15:34",
-      "album": {
-        "name": "Not Even One",
-        "url": "https://open.spotify.com/album/0mdRdydNhN7COiAZLpXG35"
-      },
-      "artists": [
-        {
-          "name": "kalley",
-          "url": "https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo"
-        }
-      ],
-      "duration_ms": 368837,
-      "name": "Not Even One",
-      "url": "https://open.spotify.com/track/6T9up8pShHGQB8VPrjxhh7"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
         "name": "Story To Tell (Live)",
         "url": "https://open.spotify.com/album/13ZEtf9IwtKQ4st3m96GD9"
       },
@@ -917,27 +1221,7 @@
       "url": "https://open.spotify.com/track/1Qr7BpvN96a9bEqSsaIM6d"
     },
     {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "What A Beautiful Name",
-        "url": "https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 238200,
-      "name": "What A Beautiful Name",
-      "url": "https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
+      "added_at": "2024-02-29 18:15:34",
       "album": {
         "name": "The Place Where I Belong",
         "url": "https://open.spotify.com/album/6vvFjPGhonbA1fIU0pd7AU"
@@ -957,7 +1241,7 @@
       "url": "https://open.spotify.com/track/1gvxeqhB6EI5aVg95EM1wK"
     },
     {
-      "added_at": "2024-03-01 22:55:05",
+      "added_at": "2024-02-29 18:15:34",
       "album": {
         "name": "Stories On Stories",
         "url": "https://open.spotify.com/album/11x6snME6Sa5BG8aEIzEBr"
@@ -975,22 +1259,6 @@
     {
       "added_at": "2024-02-29 18:15:34",
       "album": {
-        "name": "Your Love Will Never Change",
-        "url": "https://open.spotify.com/album/2Yq6QxSZAv7e48JOYpMsVu"
-      },
-      "artists": [
-        {
-          "name": "Mosaic MSC",
-          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Your Love Will Never Change - Live at Mosaic, Los Angeles, 2023",
-      "url": "https://open.spotify.com/track/0IryxebdSSg4MC3xrv60oF"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
         "name": "Not Even One",
         "url": "https://open.spotify.com/album/0mdRdydNhN7COiAZLpXG35"
       },
@@ -1005,30 +1273,6 @@
       "url": "https://open.spotify.com/track/6T9up8pShHGQB8VPrjxhh7"
     },
     {
-      "added_at": "2024-02-29 18:15:34",
-      "album": {
-        "name": "Long Live The King (Deluxe / Live)",
-        "url": "https://open.spotify.com/album/3zDHOKRTTQA6mxBlj2vHpV"
-      },
-      "artists": [
-        {
-          "name": "Influence Music",
-          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
-        },
-        {
-          "name": "Anjin Teal",
-          "url": "https://open.spotify.com/artist/2u4ZlEZudVyc62sqwYYTBc"
-        },
-        {
-          "name": "Zach Johnson",
-          "url": "https://open.spotify.com/artist/4pTMvrRvcRMeh3zMiqE39l"
-        }
-      ],
-      "duration_ms": 330846,
-      "name": "Gethsemane - Live",
-      "url": "https://open.spotify.com/track/73D27LOrdLgupsaVo8V8Um"
-    },
-    {
       "added_at": "2024-03-01 22:55:05",
       "album": {
         "name": "Your Love Will Never Change",
@@ -1047,22 +1291,6 @@
     {
       "added_at": "2024-03-01 22:55:05",
       "album": {
-        "name": "Less Of Me & More Of You",
-        "url": "https://open.spotify.com/album/6rrMmHilNvkMk189tYVriL"
-      },
-      "artists": [
-        {
-          "name": "Austin Stone Worship",
-          "url": "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
-        }
-      ],
-      "duration_ms": 270386,
-      "name": "Less Of Me & More Of You",
-      "url": "https://open.spotify.com/track/7CQTxwRg8kKPA66FuqiOAN"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
         "name": "Long Live The King (Deluxe / Live)",
         "url": "https://open.spotify.com/album/3zDHOKRTTQA6mxBlj2vHpV"
       },
@@ -1087,130 +1315,6 @@
     {
       "added_at": "2024-02-29 18:15:34",
       "album": {
-        "name": "Shelter",
-        "url": "https://open.spotify.com/album/47SqVj3WMJg7IubtrVGopx"
-      },
-      "artists": [
-        {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
-        }
-      ],
-      "duration_ms": 240826,
-      "name": "Better Hands",
-      "url": "https://open.spotify.com/track/6WTCHMI81JncjPw5w9DYD2"
-    },
-    {
-      "added_at": "2024-02-29 18:15:34",
-      "album": {
-        "name": "Fear Of God",
-        "url": "https://open.spotify.com/album/4okOlln6a3ZLVjODMppfJI"
-      },
-      "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 262467,
-      "name": "Fear Of God",
-      "url": "https://open.spotify.com/track/4suQfEsmdDRFEEGty1KBaq"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Shelter",
-        "url": "https://open.spotify.com/album/47SqVj3WMJg7IubtrVGopx"
-      },
-      "artists": [
-        {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
-        }
-      ],
-      "duration_ms": 240826,
-      "name": "Better Hands",
-      "url": "https://open.spotify.com/track/6WTCHMI81JncjPw5w9DYD2"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Fear Of God",
-        "url": "https://open.spotify.com/album/4okOlln6a3ZLVjODMppfJI"
-      },
-      "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 262467,
-      "name": "Fear Of God",
-      "url": "https://open.spotify.com/track/4suQfEsmdDRFEEGty1KBaq"
-    },
-    {
-      "added_at": "2024-02-29 18:15:34",
-      "album": {
-        "name": "Pneuma (Live)",
-        "url": "https://open.spotify.com/album/1NzYZy1wNXxnowDih1Qw9k"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "David Dennis",
-          "url": "https://open.spotify.com/artist/18yC0bj6ef6IYj48bTUEAK"
-        }
-      ],
-      "duration_ms": 443833,
-      "name": "The Joy - Live",
-      "url": "https://open.spotify.com/track/73FhjAeqqzpV2pW7sGIXV0"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Pneuma (Live)",
-        "url": "https://open.spotify.com/album/1NzYZy1wNXxnowDih1Qw9k"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "David Dennis",
-          "url": "https://open.spotify.com/artist/18yC0bj6ef6IYj48bTUEAK"
-        }
-      ],
-      "duration_ms": 443833,
-      "name": "The Joy - Live",
-      "url": "https://open.spotify.com/track/73FhjAeqqzpV2pW7sGIXV0"
-    },
-    {
-      "added_at": "2024-02-29 18:15:34",
-      "album": {
-        "name": "Crowns Down (Live)",
-        "url": "https://open.spotify.com/album/3yIWDWEr4BWDt38ovHWnre"
-      },
-      "artists": [
-        {
-          "name": "Gateway Worship",
-          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
-        },
-        {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
-        }
-      ],
-      "duration_ms": 406671,
-      "name": "Crowns Down - Live",
-      "url": "https://open.spotify.com/track/6I8T8GS5oMRuxgFzxnOkBG"
-    },
-    {
-      "added_at": "2024-02-29 18:15:34",
-      "album": {
         "name": "Zion (X)",
         "url": "https://open.spotify.com/album/5cuXbASACaEmO4TmrKn5yV"
       },
@@ -1220,177 +1324,33 @@
           "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
         },
         {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+          "name": "Matt Crocker",
+          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
         }
       ],
-      "duration_ms": 491653,
-      "name": "Oceans (Where Feet May Fail) - Redux",
-      "url": "https://open.spotify.com/track/1Thwp0rS6FT5BJyqU6N125"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Crowns Down (Live)",
-        "url": "https://open.spotify.com/album/3yIWDWEr4BWDt38ovHWnre"
-      },
-      "artists": [
-        {
-          "name": "Gateway Worship",
-          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
-        },
-        {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
-        }
-      ],
-      "duration_ms": 406671,
-      "name": "Crowns Down - Live",
-      "url": "https://open.spotify.com/track/6I8T8GS5oMRuxgFzxnOkBG"
+      "duration_ms": 256694,
+      "name": "Scandal Of Grace - Live At Red Rocks",
+      "url": "https://open.spotify.com/track/2Xa7XYHeb62XLMRJShKr2L"
     },
     {
       "added_at": "2024-02-29 18:15:34",
       "album": {
-        "name": "Desert Song",
-        "url": "https://open.spotify.com/album/6luLtlhS5jbkekDOjlG5hF"
+        "name": "Why Not Right Now? (Live)",
+        "url": "https://open.spotify.com/album/5IMEDpmKoYS6tcYLiUogm0"
       },
       "artists": [
         {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 270976,
-      "name": "Desert Song",
-      "url": "https://open.spotify.com/track/6lEysUquGrDQMG7SZP9Kxc"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Zion (X)",
-        "url": "https://open.spotify.com/album/5cuXbASACaEmO4TmrKn5yV"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
         },
         {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+          "name": "Chris McClarney",
+          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
         }
       ],
-      "duration_ms": 491653,
-      "name": "Oceans (Where Feet May Fail) - Redux",
-      "url": "https://open.spotify.com/track/1Thwp0rS6FT5BJyqU6N125"
-    },
-    {
-      "added_at": "2024-02-29 18:15:34",
-      "album": {
-        "name": "Church (Live)",
-        "url": "https://open.spotify.com/album/41shdA7VJJmH5uJTzbH9Lc"
-      },
-      "artists": [
-        {
-          "name": "Anna Golden",
-          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "At The Altar - Live",
-      "url": "https://open.spotify.com/track/7AWOgmBzKuoPOpwhhLe8Fh"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Desert Song",
-        "url": "https://open.spotify.com/album/6luLtlhS5jbkekDOjlG5hF"
-      },
-      "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 270976,
-      "name": "Desert Song",
-      "url": "https://open.spotify.com/track/6lEysUquGrDQMG7SZP9Kxc"
-    },
-    {
-      "added_at": "2024-02-29 18:15:34",
-      "album": {
-        "name": "Top 25 Praise Songs - Graves Into Gardens",
-        "url": "https://open.spotify.com/album/6iCjUV2eqSC1eNzQMcZjGx"
-      },
-      "artists": [
-        {
-          "name": "Worship Solutions",
-          "url": "https://open.spotify.com/artist/7FokEHZS5ocJsuAT7gmDJI"
-        },
-        {
-          "name": "Maranatha! Music",
-          "url": "https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe"
-        },
-        {
-          "name": "Adam Smucker",
-          "url": "https://open.spotify.com/artist/414BovAUSONHbIcZIlfnDr"
-        }
-      ],
-      "duration_ms": 257730,
-      "name": "Graves Into Gardens",
-      "url": "https://open.spotify.com/track/1c9YQ3wWFBds5Vd7l28g9p"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Church (Live)",
-        "url": "https://open.spotify.com/album/41shdA7VJJmH5uJTzbH9Lc"
-      },
-      "artists": [
-        {
-          "name": "Anna Golden",
-          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "At The Altar - Live",
-      "url": "https://open.spotify.com/track/7AWOgmBzKuoPOpwhhLe8Fh"
-    },
-    {
-      "added_at": "2024-02-29 18:15:34",
-      "album": {
-        "name": "Shelter",
-        "url": "https://open.spotify.com/album/47SqVj3WMJg7IubtrVGopx"
-      },
-      "artists": [
-        {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
-        }
-      ],
-      "duration_ms": 280640,
-      "name": "Scatter",
-      "url": "https://open.spotify.com/track/1PTLvFjvApPa6kygXAp2bp"
-    },
-    {
-      "added_at": "2024-02-29 18:15:34",
-      "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        }
-      ],
-      "duration_ms": 411000,
-      "name": "So Will I (100 Billion X)",
-      "url": "https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J"
+      "duration_ms": 239962,
+      "name": "Let The People Sing - Live",
+      "url": "https://open.spotify.com/track/4qqUXcqW6EgN4qDsmozSlY"
     },
     {
       "added_at": "2024-03-01 22:55:05",
@@ -1417,7 +1377,359 @@
       "url": "https://open.spotify.com/track/1CBpznEyoCahhqWVnkndg7"
     },
     {
+      "added_at": "2024-03-04 22:21:45",
+      "album": {
+        "name": "Desert River",
+        "url": "https://open.spotify.com/album/7gN9awdgR8kiB5ruwrGJS4"
+      },
+      "artists": [
+        {
+          "name": "Equippers Worship",
+          "url": "https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1"
+        }
+      ],
+      "duration_ms": 196653,
+      "name": "More Than Enough",
+      "url": "https://open.spotify.com/track/0Uoz45N2pYmBBSezCRT4In"
+    },
+    {
+      "added_at": "2024-03-04 22:22:13",
+      "album": {
+        "name": "Fight Like Heaven (Live)",
+        "url": "https://open.spotify.com/album/2spilxwgXTY5KhbkUumcSU"
+      },
+      "artists": [
+        {
+          "name": "Open Heaven",
+          "url": "https://open.spotify.com/artist/5mCCAerun72aycTarMpOYw"
+        }
+      ],
+      "duration_ms": 368000,
+      "name": "Fight Like Heaven - Live",
+      "url": "https://open.spotify.com/track/5T2VAEWGNEn9jTYWybdx98"
+    },
+    {
       "added_at": "2024-03-01 22:55:05",
+      "album": {
+        "name": "Less Of Me & More Of You",
+        "url": "https://open.spotify.com/album/6rrMmHilNvkMk189tYVriL"
+      },
+      "artists": [
+        {
+          "name": "Austin Stone Worship",
+          "url": "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
+        }
+      ],
+      "duration_ms": 270386,
+      "name": "Less Of Me & More Of You",
+      "url": "https://open.spotify.com/track/7CQTxwRg8kKPA66FuqiOAN"
+    },
+    {
+      "added_at": "2024-03-01 22:55:05",
+      "album": {
+        "name": "Everything That Has Breath (Praise) [Live]",
+        "url": "https://open.spotify.com/album/0aduoecfOr7N3KKHHu4Mck"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "duration_ms": 268825,
+      "name": "Everything That Has Breath (Praise) - Live",
+      "url": "https://open.spotify.com/track/7uHQGA1u5M82LwTJBXvuTy"
+    },
+    {
+      "added_at": "2024-03-04 22:25:29",
+      "album": {
+        "name": "Desert River",
+        "url": "https://open.spotify.com/album/7gN9awdgR8kiB5ruwrGJS4"
+      },
+      "artists": [
+        {
+          "name": "Equippers Worship",
+          "url": "https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1"
+        }
+      ],
+      "duration_ms": 203305,
+      "name": "Living Water",
+      "url": "https://open.spotify.com/track/27Hqo8iZOblEHQE8SoJYMs"
+    },
+    {
+      "added_at": "2024-03-04 22:32:06",
+      "album": {
+        "name": "Ain't Nobody",
+        "url": "https://open.spotify.com/album/7fhnMJOjUfoIpU10Vrknv2"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 213967,
+      "name": "Ain't Nobody - Radio Version",
+      "url": "https://open.spotify.com/track/2iNzuYDmmD8dgEMLEaEpTx"
+    },
+    {
+      "added_at": "2024-03-04 22:33:00",
+      "album": {
+        "name": "I've Witnessed It (Live)",
+        "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        }
+      ],
+      "duration_ms": 378412,
+      "name": "Gratitude - Live From Passion 2023",
+      "url": "https://open.spotify.com/track/5o9yTuxw54Wo2JtO8J1zz7"
+    },
+    {
+      "added_at": "2024-03-01 22:55:05",
+      "album": {
+        "name": "TIME",
+        "url": "https://open.spotify.com/album/5TxwC6fgOVmp5oce0KoUT5"
+      },
+      "artists": [
+        {
+          "name": "Chris Davenport",
+          "url": "https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed"
+        }
+      ],
+      "duration_ms": 310226,
+      "name": "Thunder In The Desert",
+      "url": "https://open.spotify.com/track/0PF8skP2y14i17rJSMn2Um"
+    },
+    {
+      "added_at": "2024-03-01 22:55:05",
+      "album": {
+        "name": "Long Live The King (Live At The Grove)",
+        "url": "https://open.spotify.com/album/0gAnoymSmz8fqLnNqjKzFW"
+      },
+      "artists": [
+        {
+          "name": "Influence Music",
+          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
+        },
+        {
+          "name": "Melody Noel",
+          "url": "https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi"
+        },
+        {
+          "name": "Matt Gilman",
+          "url": "https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P"
+        },
+        {
+          "name": "Larry James Walker II",
+          "url": "https://open.spotify.com/artist/40mCMtbBpXpBwDQvigLKwN"
+        },
+        {
+          "name": "Whitney Medina",
+          "url": "https://open.spotify.com/artist/2aEALllrzX6yHYGQkQ3jgZ"
+        }
+      ],
+      "duration_ms": 267534,
+      "name": "All Yours - Live At The Grove",
+      "url": "https://open.spotify.com/track/29X2uDbELTCtDNHVPORiDq"
+    },
+    {
+      "added_at": "2024-03-01 22:55:05",
+      "album": {
+        "name": "Songs You Maybe Didn't Know I Wrote And Some You Maybe Did (Live At Sound Emporium)",
+        "url": "https://open.spotify.com/album/0mKL2b3HiljzTByxwUeoQu"
+      },
+      "artists": [
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        },
+        {
+          "name": "Worship Together",
+          "url": "https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc"
+        }
+      ],
+      "duration_ms": 400501,
+      "name": "Agenda - Live At Sound Emporium",
+      "url": "https://open.spotify.com/track/5XGd2fK0Zu9awD1ElMQUoz"
+    },
+    {
+      "added_at": "2024-03-01 22:55:05",
+      "album": {
+        "name": "Live Again",
+        "url": "https://open.spotify.com/album/7N1EAGw0mr5jFoZ1acuPap"
+      },
+      "artists": [
+        {
+          "name": "ONE HOUSE",
+          "url": "https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn"
+        },
+        {
+          "name": "Kyle McHargh",
+          "url": "https://open.spotify.com/artist/6pKGdTf8wPcOSzeNGN1Or3"
+        },
+        {
+          "name": "Roosevelt Stewart",
+          "url": "https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk"
+        }
+      ],
+      "duration_ms": 522190,
+      "name": "Live Again",
+      "url": "https://open.spotify.com/track/1K2dxpyTXiR5xcwo0ZrjBI"
+    },
+    {
+      "added_at": "2024-03-01 22:55:05",
+      "album": {
+        "name": "Overflow (Live)",
+        "url": "https://open.spotify.com/album/34ySYJ3ZOxIi3PFoydDpJi"
+      },
+      "artists": [
+        {
+          "name": "Michael Bethany",
+          "url": "https://open.spotify.com/artist/6leYBoSGoXZllPhCTjKtQe"
+        }
+      ],
+      "duration_ms": 614360,
+      "name": "Fill The Room - Live",
+      "url": "https://open.spotify.com/track/2fPHMY0y9v8liK2WLbm60r"
+    },
+    {
+      "added_at": "2024-02-29 18:15:34",
+      "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/47SqVj3WMJg7IubtrVGopx"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        }
+      ],
+      "duration_ms": 240826,
+      "name": "Better Hands",
+      "url": "https://open.spotify.com/track/6WTCHMI81JncjPw5w9DYD2"
+    },
+    {
+      "added_at": "2024-03-01 22:55:05",
+      "album": {
+        "name": "Fear Of God",
+        "url": "https://open.spotify.com/album/4okOlln6a3ZLVjODMppfJI"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 262467,
+      "name": "Fear Of God",
+      "url": "https://open.spotify.com/track/4suQfEsmdDRFEEGty1KBaq"
+    },
+    {
+      "added_at": "2024-02-29 18:15:34",
+      "album": {
+        "name": "Pneuma (Live)",
+        "url": "https://open.spotify.com/album/1NzYZy1wNXxnowDih1Qw9k"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "David Dennis",
+          "url": "https://open.spotify.com/artist/18yC0bj6ef6IYj48bTUEAK"
+        }
+      ],
+      "duration_ms": 443833,
+      "name": "The Joy - Live",
+      "url": "https://open.spotify.com/track/73FhjAeqqzpV2pW7sGIXV0"
+    },
+    {
+      "added_at": "2024-02-29 18:15:34",
+      "album": {
+        "name": "Crowns Down (Live)",
+        "url": "https://open.spotify.com/album/3yIWDWEr4BWDt38ovHWnre"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "duration_ms": 406671,
+      "name": "Crowns Down - Live",
+      "url": "https://open.spotify.com/track/6I8T8GS5oMRuxgFzxnOkBG"
+    },
+    {
+      "added_at": "2024-02-29 18:15:34",
+      "album": {
+        "name": "Zion (X)",
+        "url": "https://open.spotify.com/album/5cuXbASACaEmO4TmrKn5yV"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 491653,
+      "name": "Oceans (Where Feet May Fail) - Redux",
+      "url": "https://open.spotify.com/track/1Thwp0rS6FT5BJyqU6N125"
+    },
+    {
+      "added_at": "2024-02-29 18:15:34",
+      "album": {
+        "name": "Desert Song",
+        "url": "https://open.spotify.com/album/6luLtlhS5jbkekDOjlG5hF"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 270976,
+      "name": "Desert Song",
+      "url": "https://open.spotify.com/track/6lEysUquGrDQMG7SZP9Kxc"
+    },
+    {
+      "added_at": "2024-02-29 18:15:34",
+      "album": {
+        "name": "Church (Live)",
+        "url": "https://open.spotify.com/album/41shdA7VJJmH5uJTzbH9Lc"
+      },
+      "artists": [
+        {
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "At The Altar - Live",
+      "url": "https://open.spotify.com/track/7AWOgmBzKuoPOpwhhLe8Fh"
+    },
+    {
+      "added_at": "2024-02-29 18:15:34",
       "album": {
         "name": "Top 25 Praise Songs - Graves Into Gardens",
         "url": "https://open.spotify.com/album/6iCjUV2eqSC1eNzQMcZjGx"
@@ -1439,26 +1751,6 @@
       "duration_ms": 257730,
       "name": "Graves Into Gardens",
       "url": "https://open.spotify.com/track/1c9YQ3wWFBds5Vd7l28g9p"
-    },
-    {
-      "added_at": "2024-02-29 18:15:34",
-      "album": {
-        "name": "Why Not Right Now? (Live)",
-        "url": "https://open.spotify.com/album/5IMEDpmKoYS6tcYLiUogm0"
-      },
-      "artists": [
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Chris McClarney",
-          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
-        }
-      ],
-      "duration_ms": 239962,
-      "name": "Let The People Sing - Live",
-      "url": "https://open.spotify.com/track/4qqUXcqW6EgN4qDsmozSlY"
     },
     {
       "added_at": "2024-03-01 22:55:05",
@@ -1515,106 +1807,6 @@
     {
       "added_at": "2024-02-29 18:15:34",
       "album": {
-        "name": "Zion (X)",
-        "url": "https://open.spotify.com/album/5cuXbASACaEmO4TmrKn5yV"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "Matt Crocker",
-          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
-        }
-      ],
-      "duration_ms": 256694,
-      "name": "Scandal Of Grace - Live At Red Rocks",
-      "url": "https://open.spotify.com/track/2Xa7XYHeb62XLMRJShKr2L"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Why Not Right Now? (Live)",
-        "url": "https://open.spotify.com/album/5IMEDpmKoYS6tcYLiUogm0"
-      },
-      "artists": [
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Chris McClarney",
-          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
-        }
-      ],
-      "duration_ms": 239962,
-      "name": "Let The People Sing - Live",
-      "url": "https://open.spotify.com/track/4qqUXcqW6EgN4qDsmozSlY"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Pneuma (Live)",
-        "url": "https://open.spotify.com/album/1NzYZy1wNXxnowDih1Qw9k"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 595375,
-      "name": "The Dove - Live",
-      "url": "https://open.spotify.com/track/1JqknsSVOIKohynefod8qg"
-    },
-    {
-      "added_at": "2024-02-29 18:15:34",
-      "album": {
-        "name": "Shout! Reimagined (Vol. 2)",
-        "url": "https://open.spotify.com/album/7gMBVnaeStDO3EMaeSSvr0"
-      },
-      "artists": [
-        {
-          "name": "Lakewood Music",
-          "url": "https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK"
-        },
-        {
-          "name": "Alexandra Osteen",
-          "url": "https://open.spotify.com/artist/0dTif6geJ7jyFWTFA73Lda"
-        }
-      ],
-      "duration_ms": 350160,
-      "name": "Come To Me - Reimagined",
-      "url": "https://open.spotify.com/track/6F7zEhWbXOcOeWhtKAV1Re"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Zion (X)",
-        "url": "https://open.spotify.com/album/5cuXbASACaEmO4TmrKn5yV"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "Matt Crocker",
-          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
-        }
-      ],
-      "duration_ms": 256694,
-      "name": "Scandal Of Grace - Live At Red Rocks",
-      "url": "https://open.spotify.com/track/2Xa7XYHeb62XLMRJShKr2L"
-    },
-    {
-      "added_at": "2024-02-29 18:15:34",
-      "album": {
         "name": "I've Witnessed It (Live)",
         "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
       },
@@ -1655,90 +1847,6 @@
     {
       "added_at": "2024-02-29 18:15:34",
       "album": {
-        "name": "Church (Live)",
-        "url": "https://open.spotify.com/album/41shdA7VJJmH5uJTzbH9Lc"
-      },
-      "artists": [
-        {
-          "name": "Anna Golden",
-          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
-        }
-      ],
-      "duration_ms": 362500,
-      "name": "Manasseh - Live",
-      "url": "https://open.spotify.com/track/2TzZevxgyPuD68uWx5GTfJ"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "I've Witnessed It (Live)",
-        "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Melodie Malone",
-          "url": "https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "I've Witnessed It - Single Version",
-      "url": "https://open.spotify.com/track/7taJcMLsv0VoF96NOvHCqx"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "A Thousand Hallelujahs",
-        "url": "https://open.spotify.com/album/3u2dlepgO3ee53VzrrhT5C"
-      },
-      "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 222014,
-      "name": "A Thousand Hallelujahs - Radio Version",
-      "url": "https://open.spotify.com/track/7Epq07uvSDsLNul46niwb2"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Church (Live)",
-        "url": "https://open.spotify.com/album/41shdA7VJJmH5uJTzbH9Lc"
-      },
-      "artists": [
-        {
-          "name": "Anna Golden",
-          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
-        }
-      ],
-      "duration_ms": 362500,
-      "name": "Manasseh - Live",
-      "url": "https://open.spotify.com/track/2TzZevxgyPuD68uWx5GTfJ"
-    },
-    {
-      "added_at": "2024-02-29 18:15:34",
-      "album": {
-        "name": "Bless God (Live)",
-        "url": "https://open.spotify.com/album/4Gq29SPRne0lNf7FZPbJz5"
-      },
-      "artists": [
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 364124,
-      "name": "Bless God - Live",
-      "url": "https://open.spotify.com/track/3iIpkJIcgWtAXIjEOXIo7a"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
         "name": "Bless God (Live)",
         "url": "https://open.spotify.com/album/4Gq29SPRne0lNf7FZPbJz5"
       },
@@ -1754,46 +1862,6 @@
     },
     {
       "added_at": "2024-02-29 18:15:34",
-      "album": {
-        "name": "pure",
-        "url": "https://open.spotify.com/album/5iuqsJpvEOWblbICZuUcv0"
-      },
-      "artists": [
-        {
-          "name": "Abbie Gamboa",
-          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
-        },
-        {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
-        }
-      ],
-      "duration_ms": 356962,
-      "name": "pure",
-      "url": "https://open.spotify.com/track/1poxng9cBRa5CMzyANuhnH"
-    },
-    {
-      "added_at": "2024-02-29 18:15:34",
-      "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 265133,
-      "name": "King Of Kings",
-      "url": "https://open.spotify.com/track/5E2v6b4Mo4jxuPrcK4YEIF"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
       "album": {
         "name": "pure",
         "url": "https://open.spotify.com/album/5iuqsJpvEOWblbICZuUcv0"
@@ -1831,26 +1899,6 @@
       "duration_ms": 265133,
       "name": "King Of Kings",
       "url": "https://open.spotify.com/track/5E2v6b4Mo4jxuPrcK4YEIF"
-    },
-    {
-      "added_at": "2024-02-29 18:15:34",
-      "album": {
-        "name": "Crowns Down (Live)",
-        "url": "https://open.spotify.com/album/3yIWDWEr4BWDt38ovHWnre"
-      },
-      "artists": [
-        {
-          "name": "Gateway Worship",
-          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
-        },
-        {
-          "name": "Claire Smith",
-          "url": "https://open.spotify.com/artist/1WX879kYCO2MoFKwSZ2e50"
-        }
-      ],
-      "duration_ms": 290894,
-      "name": "Who Else - Live",
-      "url": "https://open.spotify.com/track/2hUVIsZyLfy4xs35CHTlmN"
     },
     {
       "added_at": "2024-03-01 22:55:05",
@@ -1899,50 +1947,6 @@
     {
       "added_at": "2024-03-01 22:55:05",
       "album": {
-        "name": "Holy Forever (Live From Good Friday 2023)",
-        "url": "https://open.spotify.com/album/6sYnxo5cymgC89xRShQiab"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        },
-        {
-          "name": "Brian Johnson",
-          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
-        }
-      ],
-      "duration_ms": 389973,
-      "name": "Holy Forever - Live From Good Friday 2023",
-      "url": "https://open.spotify.com/track/3SOD2rOwadCSRKluvV36Sv"
-    },
-    {
-      "added_at": "2024-02-29 18:15:34",
-      "album": {
-        "name": "Be Glorified (Live)",
-        "url": "https://open.spotify.com/album/59UQIY7Llrc3aZgXNxFEnK"
-      },
-      "artists": [
-        {
-          "name": "Lindy Cofer",
-          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
-        },
-        {
-          "name": "Circuit Rider Music",
-          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
-        }
-      ],
-      "duration_ms": 446369,
-      "name": "Be Glorified - Live",
-      "url": "https://open.spotify.com/track/0WIfQN8w8EZIjbCeJfXBn2"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
         "name": "Be Glorified (Live)",
         "url": "https://open.spotify.com/album/59UQIY7Llrc3aZgXNxFEnK"
       },
@@ -1983,26 +1987,6 @@
     {
       "added_at": "2024-03-01 22:55:05",
       "album": {
-        "name": "Abide (Radio Version)",
-        "url": "https://open.spotify.com/album/2aKf7zp8X4MZ4Jgq7eg24i"
-      },
-      "artists": [
-        {
-          "name": "Canyon Hills Worship",
-          "url": "https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK"
-        },
-        {
-          "name": "Michael Monroe",
-          "url": "https://open.spotify.com/artist/2DjzwlGxl8RUPTvvB9hgHv"
-        }
-      ],
-      "duration_ms": 193207,
-      "name": "Abide - Radio Version",
-      "url": "https://open.spotify.com/track/4EzabOFNewxBmOUbVSg44o"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
         "name": "Of Dirt And Grace: Live From The Land (Expanded Edition)",
         "url": "https://open.spotify.com/album/1GUEempDMheicK14bjCtv0"
       },
@@ -2019,90 +2003,6 @@
       "duration_ms": 491573,
       "name": "Prince Of Peace (From Golan Heights Memorial Of War & By The Shining Lights Of The Old City) - Live",
       "url": "https://open.spotify.com/track/1D2QEPNeWXY18x0hR73iNT"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Of Dirt And Grace: Live From The Land (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1GUEempDMheicK14bjCtv0"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 491573,
-      "name": "Prince Of Peace (From Golan Heights Memorial Of War & By The Shining Lights Of The Old City) - Live",
-      "url": "https://open.spotify.com/track/1D2QEPNeWXY18x0hR73iNT"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Live Again",
-        "url": "https://open.spotify.com/album/7N1EAGw0mr5jFoZ1acuPap"
-      },
-      "artists": [
-        {
-          "name": "ONE HOUSE",
-          "url": "https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn"
-        },
-        {
-          "name": "Kyle McHargh",
-          "url": "https://open.spotify.com/artist/6pKGdTf8wPcOSzeNGN1Or3"
-        },
-        {
-          "name": "Roosevelt Stewart",
-          "url": "https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk"
-        }
-      ],
-      "duration_ms": 522190,
-      "name": "Live Again",
-      "url": "https://open.spotify.com/track/1K2dxpyTXiR5xcwo0ZrjBI"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Live Again",
-        "url": "https://open.spotify.com/album/7N1EAGw0mr5jFoZ1acuPap"
-      },
-      "artists": [
-        {
-          "name": "ONE HOUSE",
-          "url": "https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn"
-        },
-        {
-          "name": "Kyle McHargh",
-          "url": "https://open.spotify.com/artist/6pKGdTf8wPcOSzeNGN1Or3"
-        },
-        {
-          "name": "Roosevelt Stewart",
-          "url": "https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk"
-        }
-      ],
-      "duration_ms": 522190,
-      "name": "Live Again",
-      "url": "https://open.spotify.com/track/1K2dxpyTXiR5xcwo0ZrjBI"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "We Come Alive",
-        "url": "https://open.spotify.com/album/73yb9yqfQDuCIo8IfjAIdD"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Traylor",
-          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
-        }
-      ],
-      "duration_ms": 238757,
-      "name": "We Come Alive",
-      "url": "https://open.spotify.com/track/5moU0hlYotRmoULRqb4e0h"
     },
     {
       "added_at": "2024-03-01 22:55:05",
@@ -2159,126 +2059,6 @@
       "duration_ms": 355708,
       "name": "Fresh Fire - Live",
       "url": "https://open.spotify.com/track/6W9iuya71aSgxtn0g12SV0"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Live From LIFT: Creative Conference",
-        "url": "https://open.spotify.com/album/1es3MMzzi1DrLJ4PmWdYk3"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Rachel Halbach",
-          "url": "https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn"
-        }
-      ],
-      "duration_ms": 271771,
-      "name": "Fall Like Rain - Live From LIFT: Creative Conference",
-      "url": "https://open.spotify.com/track/6MK94qHfqRZBK1EDmlHEu9"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Songs You Maybe Didn't Know I Wrote And Some You Maybe Did (Live At Sound Emporium)",
-        "url": "https://open.spotify.com/album/0mKL2b3HiljzTByxwUeoQu"
-      },
-      "artists": [
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        },
-        {
-          "name": "Worship Together",
-          "url": "https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc"
-        }
-      ],
-      "duration_ms": 400501,
-      "name": "Agenda - Live At Sound Emporium",
-      "url": "https://open.spotify.com/track/5XGd2fK0Zu9awD1ElMQUoz"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Pneuma (Live)",
-        "url": "https://open.spotify.com/album/1NzYZy1wNXxnowDih1Qw9k"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Andrew Holt",
-          "url": "https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8"
-        }
-      ],
-      "duration_ms": 355708,
-      "name": "Fresh Fire - Live",
-      "url": "https://open.spotify.com/track/6W9iuya71aSgxtn0g12SV0"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        }
-      ],
-      "duration_ms": 411000,
-      "name": "So Will I (100 Billion X)",
-      "url": "https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Songs You Maybe Didn't Know I Wrote And Some You Maybe Did (Live At Sound Emporium)",
-        "url": "https://open.spotify.com/album/0mKL2b3HiljzTByxwUeoQu"
-      },
-      "artists": [
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        },
-        {
-          "name": "Worship Together",
-          "url": "https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc"
-        }
-      ],
-      "duration_ms": 400501,
-      "name": "Agenda - Live At Sound Emporium",
-      "url": "https://open.spotify.com/track/5XGd2fK0Zu9awD1ElMQUoz"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "SEVEN (Live)",
-        "url": "https://open.spotify.com/album/6ZVXKVGiyL96L6pflgfWrt"
-      },
-      "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 283964,
-      "name": "Honey In The Rock - Live",
-      "url": "https://open.spotify.com/track/06EzKxIt7WUokYpkitiIK2"
     },
     {
       "added_at": "2024-03-01 22:55:05",
@@ -2391,26 +2171,6 @@
     {
       "added_at": "2024-03-01 22:55:05",
       "album": {
-        "name": "Everything That Has Breath (Praise) [Live]",
-        "url": "https://open.spotify.com/album/0aduoecfOr7N3KKHHu4Mck"
-      },
-      "artists": [
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 268825,
-      "name": "Everything That Has Breath (Praise) - Live",
-      "url": "https://open.spotify.com/track/7uHQGA1u5M82LwTJBXvuTy"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
         "name": "Gratitude",
         "url": "https://open.spotify.com/album/06XC0BeImcTzKX76fXOHEe"
       },
@@ -2495,178 +2255,6 @@
     {
       "added_at": "2024-03-01 22:55:05",
       "album": {
-        "name": "TIME",
-        "url": "https://open.spotify.com/album/5TxwC6fgOVmp5oce0KoUT5"
-      },
-      "artists": [
-        {
-          "name": "Chris Davenport",
-          "url": "https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed"
-        }
-      ],
-      "duration_ms": 310226,
-      "name": "Thunder In The Desert",
-      "url": "https://open.spotify.com/track/0PF8skP2y14i17rJSMn2Um"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Thanks",
-        "url": "https://open.spotify.com/album/3VKdWSElM9EjchBZaXZVML"
-      },
-      "artists": [
-        {
-          "name": "Mosaic MSC",
-          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
-        },
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        },
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
-        }
-      ],
-      "duration_ms": 221274,
-      "name": "This Is How I Thank The Lord (feat. Cody Carnes, Amanda Cook, Joe L Barnes)",
-      "url": "https://open.spotify.com/track/2t8f07knCNSY19avq19l1R"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Long Live The King (Live At The Grove)",
-        "url": "https://open.spotify.com/album/0gAnoymSmz8fqLnNqjKzFW"
-      },
-      "artists": [
-        {
-          "name": "Influence Music",
-          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
-        },
-        {
-          "name": "Melody Noel",
-          "url": "https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi"
-        },
-        {
-          "name": "Matt Gilman",
-          "url": "https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P"
-        },
-        {
-          "name": "Larry James Walker II",
-          "url": "https://open.spotify.com/artist/40mCMtbBpXpBwDQvigLKwN"
-        },
-        {
-          "name": "Whitney Medina",
-          "url": "https://open.spotify.com/artist/2aEALllrzX6yHYGQkQ3jgZ"
-        }
-      ],
-      "duration_ms": 267534,
-      "name": "All Yours - Live At The Grove",
-      "url": "https://open.spotify.com/track/29X2uDbELTCtDNHVPORiDq"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "TIME",
-        "url": "https://open.spotify.com/album/5TxwC6fgOVmp5oce0KoUT5"
-      },
-      "artists": [
-        {
-          "name": "Chris Davenport",
-          "url": "https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed"
-        }
-      ],
-      "duration_ms": 310226,
-      "name": "Thunder In The Desert",
-      "url": "https://open.spotify.com/track/0PF8skP2y14i17rJSMn2Um"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Overflow (Live)",
-        "url": "https://open.spotify.com/album/34ySYJ3ZOxIi3PFoydDpJi"
-      },
-      "artists": [
-        {
-          "name": "Michael Bethany",
-          "url": "https://open.spotify.com/artist/6leYBoSGoXZllPhCTjKtQe"
-        }
-      ],
-      "duration_ms": 614360,
-      "name": "Fill The Room - Live",
-      "url": "https://open.spotify.com/track/2fPHMY0y9v8liK2WLbm60r"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Long Live The King (Live At The Grove)",
-        "url": "https://open.spotify.com/album/0gAnoymSmz8fqLnNqjKzFW"
-      },
-      "artists": [
-        {
-          "name": "Influence Music",
-          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
-        },
-        {
-          "name": "Melody Noel",
-          "url": "https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi"
-        },
-        {
-          "name": "Matt Gilman",
-          "url": "https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P"
-        },
-        {
-          "name": "Larry James Walker II",
-          "url": "https://open.spotify.com/artist/40mCMtbBpXpBwDQvigLKwN"
-        },
-        {
-          "name": "Whitney Medina",
-          "url": "https://open.spotify.com/artist/2aEALllrzX6yHYGQkQ3jgZ"
-        }
-      ],
-      "duration_ms": 267534,
-      "name": "All Yours - Live At The Grove",
-      "url": "https://open.spotify.com/track/29X2uDbELTCtDNHVPORiDq"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 240493,
-      "name": "I Believe In Jesus",
-      "url": "https://open.spotify.com/track/3TqsgsmGiio7F54HTzpx4J"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Overflow (Live)",
-        "url": "https://open.spotify.com/album/34ySYJ3ZOxIi3PFoydDpJi"
-      },
-      "artists": [
-        {
-          "name": "Michael Bethany",
-          "url": "https://open.spotify.com/artist/6leYBoSGoXZllPhCTjKtQe"
-        }
-      ],
-      "duration_ms": 614360,
-      "name": "Fill The Room - Live",
-      "url": "https://open.spotify.com/track/2fPHMY0y9v8liK2WLbm60r"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
         "name": "GLORY (Live)",
         "url": "https://open.spotify.com/album/5GTXYrwdg699BF7rIPczkQ"
       },
@@ -2699,22 +2287,6 @@
     {
       "added_at": "2024-03-01 22:55:05",
       "album": {
-        "name": "GLORY (Live)",
-        "url": "https://open.spotify.com/album/5GTXYrwdg699BF7rIPczkQ"
-      },
-      "artists": [
-        {
-          "name": "ZOE Music",
-          "url": "https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q"
-        }
-      ],
-      "duration_ms": 383000,
-      "name": "GLORY - Live",
-      "url": "https://open.spotify.com/track/33oZ6GmYJmDYcis4vJvwFE"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
         "name": "How Great Is Our God: The Essential Collection",
         "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
       },
@@ -2743,58 +2315,6 @@
       "duration_ms": 286734,
       "name": "Now To God - Live",
       "url": "https://open.spotify.com/track/3VFfyjdeL14YNC6RgOWBhe"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "How Great Is Our God: The Essential Collection",
-        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 266520,
-      "name": "Amazing Grace (My Chains Are Gone)",
-      "url": "https://open.spotify.com/track/56SvYdddE1igvBFZn17hRx"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Other Side",
-        "url": "https://open.spotify.com/album/0wRQo1pAoe3b4mNdiQnbV4"
-      },
-      "artists": [
-        {
-          "name": "Stockholm Worship",
-          "url": "https://open.spotify.com/artist/5BLAL4fBI3BB2ohYBPmCOH"
-        }
-      ],
-      "duration_ms": 286734,
-      "name": "Now To God - Live",
-      "url": "https://open.spotify.com/track/3VFfyjdeL14YNC6RgOWBhe"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Look To The Son (Live)",
-        "url": "https://open.spotify.com/album/1GlV5p8yd2CCmsATTVEZan"
-      },
-      "artists": [
-        {
-          "name": "Citipointe Worship",
-          "url": "https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2"
-        },
-        {
-          "name": "Matthew Nainby",
-          "url": "https://open.spotify.com/artist/6I3uBljYWbt6br31RMYnPe"
-        }
-      ],
-      "duration_ms": 276679,
-      "name": "Turn Your Eyes (Look To The Son) - Live",
-      "url": "https://open.spotify.com/track/5hxupQGmg0TOxQpgTsG02f"
     },
     {
       "added_at": "2024-03-01 22:55:05",
@@ -2859,62 +2379,6 @@
     {
       "added_at": "2024-03-01 22:55:05",
       "album": {
-        "name": "Who Is This Man (Live)",
-        "url": "https://open.spotify.com/album/5iZ73RpnTvE3s952j9oAwK"
-      },
-      "artists": [
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 599374,
-      "name": "Who Is This Man - Live",
-      "url": "https://open.spotify.com/track/4ZyKugiffVoGadDGowUQKv"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Pat Barrett",
-        "url": "https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5"
-      },
-      "artists": [
-        {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
-        }
-      ],
-      "duration_ms": 244893,
-      "name": "Build My Life",
-      "url": "https://open.spotify.com/track/2UeOsbOZ3h1QxUX2Jfw42j"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Moments: 011 (Live)",
-        "url": "https://open.spotify.com/album/63Fa54QgiqrrEuPFbKqkVC"
-      },
-      "artists": [
-        {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
-        },
-        {
-          "name": "Elyssa Smith",
-          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
-        },
-        {
-          "name": "Nick Gaggero",
-          "url": "https://open.spotify.com/artist/1xsQ2zLHCOGgc5bWaYTk0S"
-        }
-      ],
-      "duration_ms": 696887,
-      "name": "This Is My Shepherd - Live",
-      "url": "https://open.spotify.com/track/1PTVHxjA9dsK0z4O2XXwTl"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
         "name": "How To Start A Housefire",
         "url": "https://open.spotify.com/album/5yZ2pKz63STf8a7ZbBkASd"
       },
@@ -2939,22 +2403,6 @@
     {
       "added_at": "2024-03-01 22:55:05",
       "album": {
-        "name": "Pat Barrett",
-        "url": "https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5"
-      },
-      "artists": [
-        {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
-        }
-      ],
-      "duration_ms": 244893,
-      "name": "Build My Life",
-      "url": "https://open.spotify.com/track/2UeOsbOZ3h1QxUX2Jfw42j"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
         "name": "Same God (feat. Chris Quilala) [Live]",
         "url": "https://open.spotify.com/album/5EJMI9U8SicyX1aEw9tPsS"
       },
@@ -2975,110 +2423,6 @@
       "duration_ms": 423277,
       "name": "Same God (feat. Chris Quilala) - Live",
       "url": "https://open.spotify.com/track/61ZEvMGG95BCOezOxTC5dD"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "How To Start A Housefire",
-        "url": "https://open.spotify.com/album/5yZ2pKz63STf8a7ZbBkASd"
-      },
-      "artists": [
-        {
-          "name": "Housefires",
-          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
-        },
-        {
-          "name": "Blake Wiggins",
-          "url": "https://open.spotify.com/artist/5NW1jC5KUjGRgiiI9Yd8mV"
-        },
-        {
-          "name": "Ahjah Walls",
-          "url": "https://open.spotify.com/artist/3ndbQOJkH1hZns1W0k4tPY"
-        }
-      ],
-      "duration_ms": 430120,
-      "name": "If I Could Have Anything",
-      "url": "https://open.spotify.com/track/7sH8zeRLZk4ub2SfUxKEwO"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Worthy Of Your Name (Live)",
-        "url": "https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 298520,
-      "name": "Glorious Day - Live",
-      "url": "https://open.spotify.com/track/3QhL4eWBVv64IycG3i9XTb"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Same God (feat. Chris Quilala) [Live]",
-        "url": "https://open.spotify.com/album/5EJMI9U8SicyX1aEw9tPsS"
-      },
-      "artists": [
-        {
-          "name": "Chris Quilala",
-          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
-        },
-        {
-          "name": "Worship Together",
-          "url": "https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc"
-        },
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        }
-      ],
-      "duration_ms": 423277,
-      "name": "Same God (feat. Chris Quilala) - Live",
-      "url": "https://open.spotify.com/track/61ZEvMGG95BCOezOxTC5dD"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 498426,
-      "name": "Break Every Chain - Live",
-      "url": "https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Worthy Of Your Name (Live)",
-        "url": "https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 298520,
-      "name": "Glorious Day - Live",
-      "url": "https://open.spotify.com/track/3QhL4eWBVv64IycG3i9XTb"
     },
     {
       "added_at": "2024-03-01 22:55:05",
@@ -3123,22 +2467,6 @@
       "duration_ms": 221274,
       "name": "This Is How I Thank The Lord (feat. Cody Carnes, Amanda Cook, Joe L Barnes)",
       "url": "https://open.spotify.com/track/2t8f07knCNSY19avq19l1R"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Love Ran Red",
-        "url": "https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 250626,
-      "name": "At The Cross (Love Ran Red)",
-      "url": "https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK"
     },
     {
       "added_at": "2024-03-01 22:55:05",
@@ -3263,162 +2591,6 @@
     {
       "added_at": "2024-03-01 22:55:05",
       "album": {
-        "name": "If I Could Have Anything",
-        "url": "https://open.spotify.com/album/2WUzFHWLFCMCGNwqznfntm"
-      },
-      "artists": [
-        {
-          "name": "Housefires",
-          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
-        },
-        {
-          "name": "Blake Wiggins",
-          "url": "https://open.spotify.com/artist/5NW1jC5KUjGRgiiI9Yd8mV"
-        },
-        {
-          "name": "Ahjah Walls",
-          "url": "https://open.spotify.com/artist/3ndbQOJkH1hZns1W0k4tPY"
-        }
-      ],
-      "duration_ms": 430120,
-      "name": "If I Could Have Anything",
-      "url": "https://open.spotify.com/track/1Ujc3cNf2JxHHhoLjzHRbL"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "The Blessing",
-        "url": "https://open.spotify.com/album/2vdGtEIX7BYmmruQ7UbEFL"
-      },
-      "artists": [
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        },
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 423193,
-      "name": "The Blessing",
-      "url": "https://open.spotify.com/track/2lIB1TU0Cqnc6RuYDjc92z"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "What He's Done",
-        "url": "https://open.spotify.com/album/6CvbOFwjDhPeB5ptLqutLA"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        },
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Anna Golden",
-          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
-        }
-      ],
-      "duration_ms": 217651,
-      "name": "What He's Done",
-      "url": "https://open.spotify.com/track/4n0FgNAx3ApdTFXyvwujH6"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "If I Could Have Anything",
-        "url": "https://open.spotify.com/album/2WUzFHWLFCMCGNwqznfntm"
-      },
-      "artists": [
-        {
-          "name": "Housefires",
-          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
-        },
-        {
-          "name": "Blake Wiggins",
-          "url": "https://open.spotify.com/artist/5NW1jC5KUjGRgiiI9Yd8mV"
-        },
-        {
-          "name": "Ahjah Walls",
-          "url": "https://open.spotify.com/artist/3ndbQOJkH1hZns1W0k4tPY"
-        }
-      ],
-      "duration_ms": 430120,
-      "name": "If I Could Have Anything",
-      "url": "https://open.spotify.com/track/1Ujc3cNf2JxHHhoLjzHRbL"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "10,000 Reasons (Live)",
-        "url": "https://open.spotify.com/album/0av22wHGgPZRC0BkGrnVVJ"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 342493,
-      "name": "10,000 Reasons (Bless The Lord) - Live",
-      "url": "https://open.spotify.com/track/0fxpHpK3aw2nFWII6yveDD"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "The Blessing",
-        "url": "https://open.spotify.com/album/2vdGtEIX7BYmmruQ7UbEFL"
-      },
-      "artists": [
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        },
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 423193,
-      "name": "The Blessing",
-      "url": "https://open.spotify.com/track/2lIB1TU0Cqnc6RuYDjc92z"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "If I Could Have Anything",
-        "url": "https://open.spotify.com/album/2WUzFHWLFCMCGNwqznfntm"
-      },
-      "artists": [
-        {
-          "name": "Housefires",
-          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
-        },
-        {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
-        },
-        {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
-        }
-      ],
-      "duration_ms": 346200,
-      "name": "Lean on the Lord",
-      "url": "https://open.spotify.com/track/7f4cgO75dW09m6vxTKpqUd"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
         "name": "He Lives",
         "url": "https://open.spotify.com/album/2BYeHrl5Uk56Js2O6wc1Oi"
       },
@@ -3439,42 +2611,6 @@
     {
       "added_at": "2024-03-01 22:55:05",
       "album": {
-        "name": "One Thing Remains",
-        "url": "https://open.spotify.com/album/7ssexdoSq9DKVkKXR0b4Sm"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 239613,
-      "name": "One Thing Remains",
-      "url": "https://open.spotify.com/track/1bVVKpdOuQ77Ti3kcTdfTy"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "10,000 Reasons (Live)",
-        "url": "https://open.spotify.com/album/0av22wHGgPZRC0BkGrnVVJ"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 342493,
-      "name": "10,000 Reasons (Bless The Lord) - Live",
-      "url": "https://open.spotify.com/track/0fxpHpK3aw2nFWII6yveDD"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
         "name": "Take It To Jesus",
         "url": "https://open.spotify.com/album/0QFqjo7ISOxM1x4U4DwEg2"
       },
@@ -3515,34 +2651,6 @@
     {
       "added_at": "2024-03-01 22:55:05",
       "album": {
-        "name": "If I Could Have Anything",
-        "url": "https://open.spotify.com/album/2WUzFHWLFCMCGNwqznfntm"
-      },
-      "artists": [
-        {
-          "name": "Housefires",
-          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
-        },
-        {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        },
-        {
-          "name": "Kirby Kaple",
-          "url": "https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 624840,
-      "name": "Only Jesus",
-      "url": "https://open.spotify.com/track/5oeN6EcdjjGPkCvxlZWpAc"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
         "name": "One Thing Remains",
         "url": "https://open.spotify.com/album/7ssexdoSq9DKVkKXR0b4Sm"
       },
@@ -3563,58 +2671,6 @@
     {
       "added_at": "2024-03-01 22:55:05",
       "album": {
-        "name": "Sing! Christ Our Hope In Life And Death (Live At The Getty Music Worship Conference)",
-        "url": "https://open.spotify.com/album/6Yc2IDSVhI1i0kxGYBtDTG"
-      },
-      "artists": [
-        {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
-        },
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 243800,
-      "name": "The Lord Almighty Reigns - Live",
-      "url": "https://open.spotify.com/track/01U4uDzyNXcNoLBGiCQeHF"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Take It To Jesus",
-        "url": "https://open.spotify.com/album/0QFqjo7ISOxM1x4U4DwEg2"
-      },
-      "artists": [
-        {
-          "name": "Anna Golden",
-          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
-        }
-      ],
-      "duration_ms": 268288,
-      "name": "Take It To Jesus",
-      "url": "https://open.spotify.com/track/2FZzdRlfiXtYnimrqU1OAR"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Run To The Father",
-        "url": "https://open.spotify.com/album/7KVFm4XMDDUZy9XgGdWuHv"
-      },
-      "artists": [
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 308000,
-      "name": "Run To The Father",
-      "url": "https://open.spotify.com/track/3g7bn09uvp9jkMAW0jXOms"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
         "name": "He Is Lord (Live)",
         "url": "https://open.spotify.com/album/3ptsqliM0KTOGWkFhaqE4h"
       },
@@ -3695,126 +2751,6 @@
       "duration_ms": 265466,
       "name": "God So Loved",
       "url": "https://open.spotify.com/track/2kcKzbmiyS7kpwSka7nSmt"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Run To The Father",
-        "url": "https://open.spotify.com/album/7KVFm4XMDDUZy9XgGdWuHv"
-      },
-      "artists": [
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 308000,
-      "name": "Run To The Father",
-      "url": "https://open.spotify.com/track/3g7bn09uvp9jkMAW0jXOms"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Good News (Live)",
-        "url": "https://open.spotify.com/album/4P3woB9qsP0Ww6L9TwV4Li"
-      },
-      "artists": [
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 266632,
-      "name": "Good News - Live",
-      "url": "https://open.spotify.com/track/6oAeuX4aPwjmmsZUA3BWHc"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "He Is Lord (Live)",
-        "url": "https://open.spotify.com/album/3ptsqliM0KTOGWkFhaqE4h"
-      },
-      "artists": [
-        {
-          "name": "Michael Bethany",
-          "url": "https://open.spotify.com/artist/6leYBoSGoXZllPhCTjKtQe"
-        },
-        {
-          "name": "Gateway Worship",
-          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
-        }
-      ],
-      "duration_ms": 457906,
-      "name": "He Is Lord - Live",
-      "url": "https://open.spotify.com/track/5Cs4n0uOzg2vA23SCUK2I9"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/4YaEXOMUNvRubNdJkq2vSP"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 247294,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/0S2dqmIdV30dhoNV4BHNTO"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Holy Water",
-        "url": "https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf"
-      },
-      "artists": [
-        {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
-        }
-      ],
-      "duration_ms": 265466,
-      "name": "God So Loved",
-      "url": "https://open.spotify.com/track/2kcKzbmiyS7kpwSka7nSmt"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Sundown (Live)",
-        "url": "https://open.spotify.com/album/2uFAfVjkwOukZJGWjWf1oT"
-      },
-      "artists": [
-        {
-          "name": "Hannah Hobbs",
-          "url": "https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX"
-        }
-      ],
-      "duration_ms": 344826,
-      "name": "Like Honey - Live",
-      "url": "https://open.spotify.com/track/6fx2RDzhFaiqRW3TVpskdk"
-    },
-    {
-      "added_at": "2024-03-01 22:55:05",
-      "album": {
-        "name": "Nothing To Buy",
-        "url": "https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl"
-      },
-      "artists": [
-        {
-          "name": "Rita Springer",
-          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
-        },
-        {
-          "name": "kalley",
-          "url": "https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo"
-        }
-      ],
-      "duration_ms": 267106,
-      "name": "Nothing To Buy",
-      "url": "https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT"
     },
     {
       "added_at": "2024-03-01 22:55:05",

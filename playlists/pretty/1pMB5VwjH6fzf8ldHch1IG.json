@@ -1,6 +1,6 @@
 {
   "description": "Stream your favourite trending tracks and discover new jams along the way! Cover: Tate McRae.",
-  "num_followers": 46155,
+  "num_followers": 46154,
   "original_name": "Trending Now",
   "owner": {
     "name": "Filtr Canada\t",
@@ -106,6 +106,10 @@
         {
           "name": "Gesaffelstein",
           "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        },
+        {
+          "name": "Yan Wagner",
+          "url": "https://open.spotify.com/artist/7JLtS4ASAUsAYrsShMerMc"
         }
       ],
       "duration_ms": 170466,

@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 23038,
+  "2024-03-05": 23037,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Belgium.",
   "name": "Viral 50 - Belgium",
@@ -1739,7 +1739,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -1821,6 +1821,24 @@
       "duration_ms": 167960,
       "name": "LOVE DEATH ROBOTS",
       "url": "https://open.spotify.com/track/7MfWr5xcEYTKAjB7Dta3DQ"
+    },
+    {
+      "album": {
+        "name": "Luktelk",
+        "url": "https://open.spotify.com/album/0IzVeFuUVSQsLj8boRMCO2"
+      },
+      "artists": [
+        {
+          "name": "Silvester Belt",
+          "url": "https://open.spotify.com/artist/2Tna85W7SvTboWMUSFilH6"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161142,
+      "name": "Luktelk",
+      "url": "https://open.spotify.com/track/4ZBe9Plh2adT70U4PDxve1"
     },
     {
       "album": {
@@ -2101,6 +2119,24 @@
       "duration_ms": 208773,
       "name": "Nie mehr Fastelovend",
       "url": "https://open.spotify.com/track/7AAcQMV6Uw3YXt9TTx4b6r"
+    },
+    {
+      "album": {
+        "name": "No Rules!",
+        "url": "https://open.spotify.com/album/3hEmkfgNvZOuCNgzmpQWK6"
+      },
+      "artists": [
+        {
+          "name": "Windows95Man",
+          "url": "https://open.spotify.com/artist/4iIv1KxAdDsqfwq5XjcgQm"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175896,
+      "name": "No Rules!",
+      "url": "https://open.spotify.com/track/4QWrK6lpr8rZ6sa8ymqMrq"
     },
     {
       "album": {
@@ -3313,7 +3349,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 171932,
       "name": "Waterdicht",
       "url": "https://open.spotify.com/track/1guLggb4orDoc7Dmh2cSuL"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 
 > This is RENEE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,725 likes - 41 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,727 likes - 41 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 | 4 | [Extraños de Nuevo](https://open.spotify.com/track/4vV6excnr7nrFInnJgh7Ta) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Extraños de Nuevo](https://open.spotify.com/album/5TW21m3j4vJJJkeVepCHYm) | 3:15 |
 | 5 | [DAMN!](https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DAMN!](https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr) | 1:57 |
 | 6 | [Intenciones](https://open.spotify.com/track/5S9qL73dCtClMT4yUsiO8u) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Intenciones](https://open.spotify.com/album/6UInVEPu90rc9kk8ijJux3) | 2:43 |
-| 7 | [Rakata](https://open.spotify.com/track/14JaytPzvtwvCxCpsEVyYE) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Rakata](https://open.spotify.com/album/3NU2lWZGlLBk3ojxy0yE2E) | 3:02 |
-| 8 | [Mechero](https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Mechero](https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK) | 2:35 |
+| 7 | [Mechero](https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Mechero](https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK) | 2:35 |
+| 8 | [Rakata](https://open.spotify.com/track/14JaytPzvtwvCxCpsEVyYE) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Rakata](https://open.spotify.com/album/3NU2lWZGlLBk3ojxy0yE2E) | 3:02 |
 | 9 | [Enferma Despedida](https://open.spotify.com/track/48WuFR4lmQPfSRpxvvHiGp) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Enferma Despedida](https://open.spotify.com/album/0ZlbvOSPxMkOHxAOEN0lZ2) | 2:32 |
 | 10 | [Playlist](https://open.spotify.com/track/3KPJ4CtYpCRWt69gYaeQaH) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 3:01 |
 | 11 | [adiós](https://open.spotify.com/track/5J4mARsqns9e3Kuuix4ICn) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [mucho texto](https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba) | 2:58 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 | 40 | [Día De Abril](https://open.spotify.com/track/3ZoSR2D2UCPQMbuZJIRKzJ) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Canto Tu Historia \(VOL\. 1\)](https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz) | 2:56 |
 | 41 | [fior](https://open.spotify.com/track/6GtWgDj1nK1TBahvOwYLvg) | [Efelante](https://open.spotify.com/artist/2RBUJpND98jnw4EwFCJiiX), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [fior](https://open.spotify.com/album/6zbSHO2tNXiuCTOIjhgZnD) | 5:11 |
 
-Snapshot ID: `Mjg0OTExMzksMDAwMDAwMDBlYWE3YWU1MGNlOTk2MjFmMjc0NzU5Yjk3NDMwYjViMQ==`
+Snapshot ID: `Mjg0OTI1NjksMDAwMDAwMDAyZjgyNDhjZDFjODlhMzRkZmRlNzRlNTI4NWI0MDhiZg==`

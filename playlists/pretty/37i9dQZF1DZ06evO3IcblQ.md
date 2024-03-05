@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3IcblQ.md) - [plain]
 
 > This is Pennywise\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,114 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,123 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3IcblQ.md) - [plain]
 | 27 | [Something Wrong With Me](https://open.spotify.com/track/0WGKwo98neAoQ5RmQm49Ee) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Land Of The Free?](https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly) | 2:39 |
 | 28 | [My Own Way](https://open.spotify.com/track/5ZIDmNOBYo1mnXrCjwrDjO) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Straight Ahead](https://open.spotify.com/album/03ScC00zLbzJ5GrVp6Y5M1) | 2:52 |
 | 29 | [Living for Today \- 2005 Remaster](https://open.spotify.com/track/4FlT6zFCK2hIdfQld4lPU6) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Pennywise \(2005 Remaster\)](https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt) | 3:07 |
-| 30 | [Won't Give Up The Fight](https://open.spotify.com/track/60O4BYfrtOOcq9rywcEyi3) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Never Gonna Die](https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF) | 3:02 |
-| 31 | [Get A Life \- 2005 Remaster](https://open.spotify.com/track/120GSrWDt7efZA4SU3ZM2u) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Full Circle \(2005 Remaster\)](https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU) | 2:56 |
+| 30 | [Get A Life \- 2005 Remaster](https://open.spotify.com/track/120GSrWDt7efZA4SU3ZM2u) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Full Circle \(2005 Remaster\)](https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU) | 2:56 |
+| 31 | [Won't Give Up The Fight](https://open.spotify.com/track/60O4BYfrtOOcq9rywcEyi3) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Never Gonna Die](https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF) | 3:02 |
 | 32 | [Straight Ahead](https://open.spotify.com/track/2hnXPU065OUTJo3orgiOWh) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Straight Ahead](https://open.spotify.com/album/03ScC00zLbzJ5GrVp6Y5M1) | 2:41 |
 | 33 | [My God](https://open.spotify.com/track/4dJfBTMmCIfHmzqaj8Or7L) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Land Of The Free?](https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly) | 2:48 |
 | 34 | [Don't Tear Me Down](https://open.spotify.com/track/5mSr9lvz9wQkSX0L2kUs50) | [Authority Zero](https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz), [Jim Lindberg](https://open.spotify.com/artist/3cAR0XuqxfhBw6nEk9uPc6), [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Ollie Ollie Oxen Free](https://open.spotify.com/album/4MBEuKyxcVRFFMtXIWlRH1) | 2:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3IcblQ.md) - [plain]
 | 49 | [Waiting](https://open.spotify.com/track/1UVLt0qDBrP2wqE1P8YOEK) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [From The Ashes](https://open.spotify.com/album/5jChldYJR4f1K3gkSd9Isg) | 2:59 |
 | 50 | [X Generation](https://open.spotify.com/track/5ANtwzlycAMmMoHxqiH9F1) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [All Or Nothing \(Deluxe Edition\)](https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa) | 3:15 |
 
-Snapshot ID: `Mjg0OTExMzksMDAwMDAwMDA0OGVkODYwNWY5MGNiNjNmY2VjYmViY2NiNzZhZWYyNA==`
+Snapshot ID: `Mjg0OTI1NjksMDAwMDAwMDAyMjM5YWU1MDQ5ZDg3NzU5OWI1NDk2NzYxMjk0OGFkOQ==`

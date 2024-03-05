@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 
 > The perfect playlist to just sit back and chill out with.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,777,137 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,777,118 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 | 99 | [Virginia \(Wind In The Night\)](https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Virginia \(Wind In The Night\)](https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx) | 3:25 |
 | 100 | [Someday, Somewhere](https://open.spotify.com/track/75Ibf9kajH52v2uBNc7pkp) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Someday, Somewhere](https://open.spotify.com/album/161a4wcY3Lh9xN8OEF0RMr) | 3:12 |
 
-Snapshot ID: `MCw5YTE3NTBlM2JkMDExOWM5NzU5N2Q3ZTk0YzI4Nzk4NzczYTg3YjU1`
+Snapshot ID: `MCxmYTUzNjlhOTU5ZjNhNWI2NWFhYzc5OTY5OTE2YWIxZmQ2ZGRlZWE0`

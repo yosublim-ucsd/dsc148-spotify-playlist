@@ -1,12 +1,12 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 366257,
+  "num_followers": 366409,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjFhZTQxYTBlODdjYzlhOWJiZWQwNGI1NmQzMGQ0YzM0N2Y5ZDM5",
+  "snapshot_id": "MCxmYWI1NmQ1MzkwMTQ3MzhhOGQ4ZjhiNmRiMDI2MTFiNWVkZjM0MTI5",
   "tracks": [
     {
       "added_at": "2024-02-29 23:00:00",
@@ -2079,22 +2079,22 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "No Tomorrow",
-        "url": "https://open.spotify.com/album/1swqPWfvWrpOON97OKZ6Bx"
+        "name": "Insomnia (Rework)",
+        "url": "https://open.spotify.com/album/3O4Td8QTtXYMfbj8d4h7P6"
       },
       "artists": [
         {
-          "name": "Jason Ross",
-          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
         },
         {
-          "name": "Brandyn Burnette",
-          "url": "https://open.spotify.com/artist/14mErTJ0ubFVjx2zBAwjkE"
+          "name": "Jack Holiday",
+          "url": "https://open.spotify.com/artist/64yON9pK0j392YkionGKAF"
         }
       ],
-      "duration_ms": 211200,
-      "name": "No Tomorrow",
-      "url": "https://open.spotify.com/track/2d390UHjBS2TIY27DGFajM"
+      "duration_ms": 180000,
+      "name": "Insomnia - Rework",
+      "url": "https://open.spotify.com/track/6uRUfq1y0VayUjh2M935g7"
     }
   ],
   "unique_name": "Bass Explosion",

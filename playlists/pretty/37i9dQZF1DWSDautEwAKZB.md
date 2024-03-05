@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDautEwAKZB.md) - [plain]
 
 > Latin songs you love like you've never heard before\. Cover: Natanael Cano
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,106 likes - 70 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,105 likes - 70 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDautEwAKZB.md) - [plain]
 | 29 | [Bichota \- Spotify Singles](https://open.spotify.com/track/7tlPDub0mJRBkGA2VdTSAS) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Bichota – Spotify Singles](https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq) | 2:37 |
 | 30 | [Es Por Tí \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5AWXkO3VM6LjcRuWNMw8WA) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Spotify Singles](https://open.spotify.com/album/2ouh1shN9w3s7NzrW1sIDX) | 4:24 |
 | 31 | [Wish You Were Gay \- Versión en Español \- Spotify Singles](https://open.spotify.com/track/7pRw8jLLLSlGw3Xhc7bYHK) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Spotify Singles](https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI) | 3:35 |
-| 32 | [Hasta la Noche \(Ilegal\)](https://open.spotify.com/track/4xxlqEaJ1x84t8Ihvpl24X) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Spotify Singles](https://open.spotify.com/album/0zewwoQ6hQkcgpl29PXCA8) | 5:07 |
-| 33 | [O Mundo Dá Voltas \- Spotify Singles](https://open.spotify.com/track/1yz7wQVh2A3cCED0QPpfGU) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [O Mundo Dá Voltas \(Spotify Singles\)](https://open.spotify.com/album/59kSwQ4mkGJ5YVmVgmQv3s) | 3:06 |
+| 32 | [O Mundo Dá Voltas \- Spotify Singles](https://open.spotify.com/track/1yz7wQVh2A3cCED0QPpfGU) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [O Mundo Dá Voltas \(Spotify Singles\)](https://open.spotify.com/album/59kSwQ4mkGJ5YVmVgmQv3s) | 3:06 |
+| 33 | [Hasta la Noche \(Ilegal\)](https://open.spotify.com/track/4xxlqEaJ1x84t8Ihvpl24X) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Spotify Singles](https://open.spotify.com/album/0zewwoQ6hQkcgpl29PXCA8) | 5:07 |
 | 34 | [Hora Loca Remix \- Spotify Singles \(with Piso 21\)](https://open.spotify.com/track/2uvU0z0Asg969AiNLDIowC) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Hora Loca Remix \- Spotify Singles \(with Piso 21\)](https://open.spotify.com/album/30YYgDImOQliL0lTWkQwRD) | 3:14 |
 | 35 | [Imitadora \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/06g7bHpp4Oo4whcQqcbfFK) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Spotify Singles](https://open.spotify.com/album/3U8ndUx2DNmhKPUjqtJuek) | 3:34 |
 | 36 | [Veneno \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/31CiU58drf9xYA9VEOFDfW) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Spotify Singles](https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ) | 3:05 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDautEwAKZB.md) - [plain]
 | 66 | [Declare Independence \- Spotify Singles](https://open.spotify.com/track/6KkwQNxduqthj40TlNVD1j) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Spotify Singles](https://open.spotify.com/album/4hU6Mq43jOSEIy6EwLYIR8) | 3:48 |
 | 67 | [Lizard \(Alternate Universe\) \- Spotify Singles](https://open.spotify.com/track/1CGKhnXxoyXZa2PLQdYW1X) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Spotify Singles](https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV) | 2:51 |
 | 68 | [i don't think i love you anymore \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/5ktZjdvIKoO18PPtPRTAuD) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [Spotify Singles](https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5) | 4:12 |
-| 69 | [Bestia Pequeña \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0PLVHnNpWuBDAEgQYibr45) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Spotify Singles](https://open.spotify.com/album/6k9Hp2pzjLtzn4esbQmTZS) | 3:01 |
+| 69 | [Oops \(Oh My\) \- Spotify Singles](https://open.spotify.com/track/5qYEH8inKVQiNdkZWG9YZv) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Spotify Singles](https://open.spotify.com/album/1JYgWwo96pzXFLymyz6RX3) | 3:04 |
 | 70 | [Alemania \- Spotify Singles \(Blackpaw Remix\)](https://open.spotify.com/track/3MeqHGb5MAPTADUJn1FXWR) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb), [BLACKPAW](https://open.spotify.com/artist/4IFNzQJipsXR5H93fhT467) | [Spotify Singles](https://open.spotify.com/album/2Wfg6b6tD069N2cxqRlQ0e) | 4:10 |
 
-Snapshot ID: `MCwwNjkwZDNlNzM3Yzc0N2U2YjQzYzNkNTYxMGY1MjlkOTA4NjBiNGJi`
+Snapshot ID: `MCxjOWVlNTMxZGY5NWU4MzI2ZTg3OTM5NWU3NTRhNTZmYjZjOGZlOTBk`

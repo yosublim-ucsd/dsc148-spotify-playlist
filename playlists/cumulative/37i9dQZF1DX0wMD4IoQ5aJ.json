@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "After The Wave",
+        "url": "https://open.spotify.com/album/7dI3mhpj3VvlrQwvQ4TUHy"
+      },
+      "artists": [
+        {
+          "name": "LilyPon",
+          "url": "https://open.spotify.com/artist/62YRvb7ykVlnadIYogMInr"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "After The Wave",
+      "url": "https://open.spotify.com/track/52vvTQVPKNPAZrAemF33Xp"
+    },
+    {
+      "album": {
         "name": "Afterbeach",
         "url": "https://open.spotify.com/album/7vgZ5UPZSrR02efzNukCu6"
       },
@@ -938,6 +956,24 @@
       "duration_ms": 172000,
       "name": "Catch Up",
       "url": "https://open.spotify.com/track/4wRSpt0ZILCSt8Wxco9l12"
+    },
+    {
+      "album": {
+        "name": "Chamber",
+        "url": "https://open.spotify.com/album/72MzzmRhaLFwInKUDS2g4q"
+      },
+      "artists": [
+        {
+          "name": "Cray Barnes",
+          "url": "https://open.spotify.com/artist/6fG2Y4YIB6PG8TyPOqOl2b"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146285,
+      "name": "Chamber",
+      "url": "https://open.spotify.com/track/5ku67A7TruAhWUyCe4c6Hr"
     },
     {
       "album": {
@@ -4986,6 +5022,24 @@
       "duration_ms": 177342,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/09PSpnj9hH0kpoRDRWucVW"
+    },
+    {
+      "album": {
+        "name": "Sunkissed",
+        "url": "https://open.spotify.com/album/6URLn2KY0LdVdrigh8b8ZG"
+      },
+      "artists": [
+        {
+          "name": "Mill Falc",
+          "url": "https://open.spotify.com/artist/5Wh82ZLZ5dAP7xF91Qki3j"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132571,
+      "name": "Sunkissed",
+      "url": "https://open.spotify.com/track/2tX6KMIEgB11uvahcpkbGK"
     },
     {
       "album": {

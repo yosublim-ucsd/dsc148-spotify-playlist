@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock en espa\u00f1ol en la d\u00e9cada de los 90. \n\n",
-  "num_followers": 301343,
+  "num_followers": 301535,
   "original_name": "Rock en Espa\u00f1ol: Los 90",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWM5ODZlOWNhZjk5MTZjNGU0YjM2Njk3ZWNjYzg2NWFhZWQ1YjYz",
+  "snapshot_id": "MCwzMzkzNDY4NmQ5ZDM2MmZlNWMxNjY4NDA5NjMzZDc1OTgyYTYyODM3",
   "tracks": [
     {
       "added_at": "2022-07-06 19:49:25",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-07-06 19:49:25",
       "album": {
-        "name": "Clandestino",
-        "url": "https://open.spotify.com/album/3xoAUqjKs7Ps7wR26VAMbq"
-      },
-      "artists": [
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        }
-      ],
-      "duration_ms": 158426,
-      "name": "Bongo Bong",
-      "url": "https://open.spotify.com/track/00SmB7n85SKROGjybsyq5i"
-    },
-    {
-      "added_at": "2022-07-06 19:49:25",
-      "album": {
         "name": "Sue\u00f1os L\u00edquidos",
         "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
       },
@@ -235,18 +219,18 @@
     {
       "added_at": "2022-07-06 19:49:25",
       "album": {
-        "name": "El Diablito",
-        "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
+        "name": "Clandestino",
+        "url": "https://open.spotify.com/album/3xoAUqjKs7Ps7wR26VAMbq"
       },
       "artists": [
         {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
         }
       ],
-      "duration_ms": 215866,
-      "name": "La C\u00e9lula Que Explota",
-      "url": "https://open.spotify.com/track/5mB0MGsRfKZALHrXjnktCK"
+      "duration_ms": 158426,
+      "name": "Bongo Bong",
+      "url": "https://open.spotify.com/track/00SmB7n85SKROGjybsyq5i"
     },
     {
       "added_at": "2022-07-06 19:49:25",
@@ -267,6 +251,22 @@
     {
       "added_at": "2022-07-06 19:49:25",
       "album": {
+        "name": "El Diablito",
+        "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 215866,
+      "name": "La C\u00e9lula Que Explota",
+      "url": "https://open.spotify.com/track/5mB0MGsRfKZALHrXjnktCK"
+    },
+    {
+      "added_at": "2022-07-06 19:49:25",
+      "album": {
         "name": "La Leyenda De La Mancha",
         "url": "https://open.spotify.com/album/1Da87nj7hlkdRAh9Zf5jp7"
       },
@@ -279,6 +279,22 @@
       "duration_ms": 251681,
       "name": "Molinos De Viento",
       "url": "https://open.spotify.com/track/19vhfSUgVJO2enJ6XidUGO"
+    },
+    {
+      "added_at": "2022-07-06 19:49:25",
+      "album": {
+        "name": "Sue\u00f1os L\u00edquidos",
+        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 352160,
+      "name": "En El Muelle de San Blas",
+      "url": "https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr"
     },
     {
       "added_at": "2022-07-06 19:49:25",
@@ -331,6 +347,22 @@
     {
       "added_at": "2022-07-06 19:49:25",
       "album": {
+        "name": "El Silencio",
+        "url": "https://open.spotify.com/album/1WrK98KVZxkTgMD3a9Kpnl"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 279160,
+      "name": "No Dejes Que...",
+      "url": "https://open.spotify.com/track/5nzEilkVhvnCD0xpW3raTy"
+    },
+    {
+      "added_at": "2022-07-06 19:49:25",
+      "album": {
         "name": "Circo Beat",
         "url": "https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa"
       },
@@ -375,38 +407,6 @@
       "duration_ms": 235200,
       "name": "Pupilas Lejanas",
       "url": "https://open.spotify.com/track/4k3K6Ke6KfAWb7zyQWrTEA"
-    },
-    {
-      "added_at": "2022-07-06 19:49:25",
-      "album": {
-        "name": "Sue\u00f1os L\u00edquidos",
-        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 352160,
-      "name": "En El Muelle de San Blas",
-      "url": "https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr"
-    },
-    {
-      "added_at": "2022-07-06 19:49:25",
-      "album": {
-        "name": "El Silencio",
-        "url": "https://open.spotify.com/album/1WrK98KVZxkTgMD3a9Kpnl"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 279160,
-      "name": "No Dejes Que...",
-      "url": "https://open.spotify.com/track/5nzEilkVhvnCD0xpW3raTy"
     },
     {
       "added_at": "2022-07-06 19:49:25",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-07-06 19:49:25",
       "album": {
-        "name": "La Pachanga",
-        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 281933,
-      "name": "La Pachanga",
-      "url": "https://open.spotify.com/track/1x6bkwDyWIOZNFY5blRSs1"
-    },
-    {
-      "added_at": "2022-07-06 19:49:25",
-      "album": {
         "name": "El Nervio Del Volcan",
         "url": "https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 294266,
       "name": "Aqu\u00ed No Es As\u00ed",
       "url": "https://open.spotify.com/track/02KG9DpLT3bV4fzUM1bORW"
+    },
+    {
+      "added_at": "2022-07-06 19:49:25",
+      "album": {
+        "name": "La Pachanga",
+        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 281933,
+      "name": "La Pachanga",
+      "url": "https://open.spotify.com/track/1x6bkwDyWIOZNFY5blRSs1"
     },
     {
       "added_at": "2022-07-06 19:49:25",
@@ -587,18 +587,18 @@
     {
       "added_at": "2022-07-06 19:49:25",
       "album": {
-        "name": "Big Bang",
-        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
+        "name": "Re",
+        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
       },
       "artists": [
         {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
         }
       ],
-      "duration_ms": 268600,
-      "name": "Mi Primer Dia Sin Ti",
-      "url": "https://open.spotify.com/track/7eKkXV2jH4xGefItHAUk9g"
+      "duration_ms": 135133,
+      "name": "Las flores",
+      "url": "https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8"
     },
     {
       "added_at": "2022-07-06 19:49:25",
@@ -619,18 +619,18 @@
     {
       "added_at": "2022-07-06 19:49:25",
       "album": {
-        "name": "Re",
-        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
+        "name": "Big Bang",
+        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
       },
       "artists": [
         {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         }
       ],
-      "duration_ms": 135133,
-      "name": "Las flores",
-      "url": "https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8"
+      "duration_ms": 268600,
+      "name": "Mi Primer Dia Sin Ti",
+      "url": "https://open.spotify.com/track/7eKkXV2jH4xGefItHAUk9g"
     },
     {
       "added_at": "2022-07-06 19:49:25",
@@ -683,6 +683,22 @@
     {
       "added_at": "2022-07-06 19:49:25",
       "album": {
+        "name": "El Silencio",
+        "url": "https://open.spotify.com/album/1WrK98KVZxkTgMD3a9Kpnl"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "Nubes",
+      "url": "https://open.spotify.com/track/7w4ojcH8NJ4LBmJZhSBTcT"
+    },
+    {
+      "added_at": "2022-07-06 19:49:25",
+      "album": {
         "name": "Fobia",
         "url": "https://open.spotify.com/album/3CrPRAsNzMd54SBk8GFD3G"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 327426,
       "name": "La chispa adecuada (Bendecida 3)",
       "url": "https://open.spotify.com/track/4vkSJSyPddHwL7v3l1cuRf"
-    },
-    {
-      "added_at": "2022-07-06 19:49:25",
-      "album": {
-        "name": "El Silencio",
-        "url": "https://open.spotify.com/album/1WrK98KVZxkTgMD3a9Kpnl"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "Nubes",
-      "url": "https://open.spotify.com/track/7w4ojcH8NJ4LBmJZhSBTcT"
     },
     {
       "added_at": "2022-07-06 19:49:25",
@@ -763,6 +763,22 @@
     {
       "added_at": "2022-07-06 19:49:25",
       "album": {
+        "name": "Honestidad Brutal",
+        "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 261626,
+      "name": "La parte de adelante",
+      "url": "https://open.spotify.com/track/0fHTVPRRKmWaRuIwrsNTMp"
+    },
+    {
+      "added_at": "2022-07-06 19:49:25",
+      "album": {
         "name": "Sue\u00f1o Stereo (Remastered)",
         "url": "https://open.spotify.com/album/1A3VRbn7Kto2ov0LkSY0eg"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 234813,
       "name": "Para no olvidar",
       "url": "https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc"
-    },
-    {
-      "added_at": "2022-07-06 19:49:25",
-      "album": {
-        "name": "Honestidad Brutal",
-        "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 261626,
-      "name": "La parte de adelante",
-      "url": "https://open.spotify.com/track/0fHTVPRRKmWaRuIwrsNTMp"
     }
   ],
   "unique_name": "Rock en Espa\u00f1ol: Los 90",

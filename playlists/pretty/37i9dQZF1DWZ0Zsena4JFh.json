@@ -1,12 +1,12 @@
 {
   "description": "Un parque de diversiones para gustos inconformes y sofisticados. MGMT en portada.",
-  "num_followers": 119723,
+  "num_followers": 119724,
   "original_name": "Indielandia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTZhY2JhYzFkOTVmZDRjMzRkNDBmNmIyNWY3YzMzZmY4NjE2MDU4",
+  "snapshot_id": "MCxjNjZjYWVhMzNjZTQxN2YwYmEwYTk2OTAxOWY1MDA1M2VlNDlkNGI4",
   "tracks": [
     {
       "added_at": "2024-02-23 06:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "A Love International",
-        "url": "https://open.spotify.com/album/3PKIvfo8AFCJr9dhUiKQf9"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 255100,
-      "name": "A Love International",
-      "url": "https://open.spotify.com/track/6Am9eCuCQELrIqImfCLhgM"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
         "name": "TANGK",
         "url": "https://open.spotify.com/album/6U11VNHZAfYY3E9V4oFB2p"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 256573,
       "name": "POP POP POP",
       "url": "https://open.spotify.com/track/7f4azWcTVEDHZ7DSc5eh5a"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
+        "name": "A Love International",
+        "url": "https://open.spotify.com/album/3PKIvfo8AFCJr9dhUiKQf9"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 255100,
+      "name": "A Love International",
+      "url": "https://open.spotify.com/track/6Am9eCuCQELrIqImfCLhgM"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "How Have You Been?",
-        "url": "https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO"
-      },
-      "artists": [
-        {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
-        }
-      ],
-      "duration_ms": 231653,
-      "name": "Under Your Wings",
-      "url": "https://open.spotify.com/track/60jDBihAe1INnFWRCFgjUS"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
         "name": "Take What's Given",
         "url": "https://open.spotify.com/album/5SApZEPFs4QKsM2jJNas7F"
       },
@@ -835,22 +819,34 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "I Don\u2019t Live Here Anymore",
-        "url": "https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB"
+        "name": "How Have You Been?",
+        "url": "https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO"
       },
       "artists": [
         {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
-        },
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
         }
       ],
-      "duration_ms": 327546,
-      "name": "I Don't Live Here Anymore (feat. Lucius)",
-      "url": "https://open.spotify.com/track/5Uou8idst1XJc0F6MRAk5S"
+      "duration_ms": 231653,
+      "name": "Under Your Wings",
+      "url": "https://open.spotify.com/track/60jDBihAe1INnFWRCFgjUS"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
+        "name": "Feeling Good Today",
+        "url": "https://open.spotify.com/album/0iQLhH3cu8txsiJOTt3bzR"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 86169,
+      "name": "Feeling Good Today",
+      "url": "https://open.spotify.com/track/5AmBayKvA8e1HdhintEELx"
     }
   ],
   "unique_name": "Indielandia",

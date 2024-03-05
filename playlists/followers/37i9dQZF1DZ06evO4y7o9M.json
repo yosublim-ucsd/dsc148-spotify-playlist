@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 661145,
+  "2024-03-05": 661705,
   "date_first_scraped": "2023-08-09",
   "description": "This is Junior H. The essential tracks, all in one playlist.",
   "name": "This Is Junior H",
@@ -163,7 +163,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 210161,
       "name": "Atrapado en un Sue\u00f1o",
       "url": "https://open.spotify.com/track/4FJHSPdhQqxovmYP9YpcHN"
@@ -751,7 +751,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 287929,
       "name": "Jueves 10",
       "url": "https://open.spotify.com/track/7KoyXL9zghiNpXkb5iVDyj"

@@ -1,12 +1,12 @@
 {
   "description": "Rel\u00e1jate con tus canciones favoritas en versi\u00f3n ac\u00fastica / Descontrai com vers\u00f5es ac\u00fasticas das tuas m\u00fasicas preferidas.",
-  "num_followers": 919507,
+  "num_followers": 919627,
   "original_name": "Hits ac\u00fasticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjc1ODk5NGUwZjU4NGRiYzMwZDFlNTVmYjNiMjdkMGRlZjA0OWZj",
+  "snapshot_id": "MCxmZmRjNDY3NjE2NWI1MTY5MWU0Mjc2NWU0NDBjNzI2M2ZlYzNhOTZj",
   "tracks": [
     {
       "added_at": "2023-11-30 18:27:42",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Wild Love (Acoustic)",
-        "url": "https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 189146,
-      "name": "Wild Love - Acoustic",
-      "url": "https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "When I'm Alone: The Piano Retrospective",
         "url": "https://open.spotify.com/album/1PUJhxsAbBe5UhYjxNbrYA"
       },
@@ -367,22 +351,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/7K77V3y6amFewbD01gZhby"
-      },
-      "artists": [
-        {
-          "name": "Ouvindo",
-          "url": "https://open.spotify.com/artist/5L0QMeigP4hG0iVXspQVid"
-        }
-      ],
-      "duration_ms": 217935,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/3Iy7HHDobkkXJuBrSbuoU0"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "Perfect (Acoustic)",
         "url": "https://open.spotify.com/album/4uJ318DIOMiA4y9vg2dRwv"
       },
@@ -395,6 +363,38 @@
       "duration_ms": 260866,
       "name": "Perfect - Acoustic",
       "url": "https://open.spotify.com/track/5T6bJp3XgwT0IaCfKMxmAu"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "Wild Love (Acoustic)",
+        "url": "https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 189146,
+      "name": "Wild Love - Acoustic",
+      "url": "https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/7K77V3y6amFewbD01gZhby"
+      },
+      "artists": [
+        {
+          "name": "Ouvindo",
+          "url": "https://open.spotify.com/artist/5L0QMeigP4hG0iVXspQVid"
+        }
+      ],
+      "duration_ms": 217935,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/3Iy7HHDobkkXJuBrSbuoU0"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -431,6 +431,22 @@
       "duration_ms": 223893,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/5xvAGovFqj41SyAinwvwVV"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "Shape of You (Acoustic)",
+        "url": "https://open.spotify.com/album/5Nk90vGwn59ToxTvSNsKZw"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 223573,
+      "name": "Shape of You - Acoustic",
+      "url": "https://open.spotify.com/track/5ULRlgiSPSKTaJN1vU9yso"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -535,22 +551,6 @@
       "duration_ms": 233377,
       "name": "Set Fire to the Rain - Cover",
       "url": "https://open.spotify.com/track/4wnhMXDfs64pcg0jxHscwI"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
-        "name": "Shape of You (Acoustic)",
-        "url": "https://open.spotify.com/album/5Nk90vGwn59ToxTvSNsKZw"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 223573,
-      "name": "Shape of You - Acoustic",
-      "url": "https://open.spotify.com/track/5ULRlgiSPSKTaJN1vU9yso"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Another Bundle of Tantrums",
-        "url": "https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 247816,
-      "name": "Rather Be",
-      "url": "https://open.spotify.com/track/3jk4SgyAUOcXbA78btwgZA"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "Save Tonight",
         "url": "https://open.spotify.com/album/2jHuPMC1tJvcyqvWMrlvQI"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 270698,
       "name": "Save Tonight",
       "url": "https://open.spotify.com/track/110YC8JMSnxlr5dFrtEdiP"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "Another Bundle of Tantrums",
+        "url": "https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 247816,
+      "name": "Rather Be",
+      "url": "https://open.spotify.com/track/3jk4SgyAUOcXbA78btwgZA"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Send Me on My Way [Acoustic (Cover)]",
-        "url": "https://open.spotify.com/album/1SXjeUTHmvRkWdt0H1kkZN"
-      },
-      "artists": [
-        {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
-        }
-      ],
-      "duration_ms": 187812,
-      "name": "Send Me on My Way - Acoustic (Cover)",
-      "url": "https://open.spotify.com/track/6GwwLE8TEnCkjlr9w0uimV"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/0yCicHSIShiIcJLkpyxKIC"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 204230,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/0rRtQsqQAaS45dgHfd8t1l"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "Send Me on My Way [Acoustic (Cover)]",
+        "url": "https://open.spotify.com/album/1SXjeUTHmvRkWdt0H1kkZN"
+      },
+      "artists": [
+        {
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+        }
+      ],
+      "duration_ms": 187812,
+      "name": "Send Me on My Way - Acoustic (Cover)",
+      "url": "https://open.spotify.com/track/6GwwLE8TEnCkjlr9w0uimV"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -2447,6 +2447,22 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
+        "name": "Now and Later (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0yee0fIFICVjaUjdyROrY6"
+      },
+      "artists": [
+        {
+          "name": "Simon Samaeng",
+          "url": "https://open.spotify.com/artist/7n4yZSvg16XY22sxvZzKfw"
+        }
+      ],
+      "duration_ms": 199111,
+      "name": "Now and Later - Acoustic Version",
+      "url": "https://open.spotify.com/track/3KhgqRMwfWSI9J41k7pbvD"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
         "name": "Sugar (Acoustic)",
         "url": "https://open.spotify.com/album/24TT3jzVoaZb4j8L5HKUNs"
       },
@@ -2459,22 +2475,6 @@
       "duration_ms": 209449,
       "name": "Sugar - Acoustic",
       "url": "https://open.spotify.com/track/3zjScixLevnImm0BErIHxQ"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
-        "name": "Call On Me (Acoustic Version)",
-        "url": "https://open.spotify.com/album/1CKFN0JYtkyPOgEIkIvBz2"
-      },
-      "artists": [
-        {
-          "name": "Starley",
-          "url": "https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV"
-        }
-      ],
-      "duration_ms": 148288,
-      "name": "Call On Me - Acoustic Version",
-      "url": "https://open.spotify.com/track/7eTkIKmFgeb9MQmkTC2jCi"
     }
   ],
   "unique_name": "Hits ac\u00fasticos",

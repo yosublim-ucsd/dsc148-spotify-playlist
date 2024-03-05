@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover:  <a href="spotify:artist:7z7byOJ4AJnMY2NHE66ZpW">DOE</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,164 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,295 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 99 | [JUST BE US](https://open.spotify.com/track/3pdHgrjBEBZPY8AM7voeCb) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg) | [JUST BE US](https://open.spotify.com/album/6OTEkrlDNbCaFfjr46CEY7) | 2:22 |
 | 100 | [Emmanuel](https://open.spotify.com/track/4O5TT3kmWaL5c4K1HU1SyQ) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Denise Bamfo](https://open.spotify.com/artist/6j4c63tFu9m7oWWc11GwDO) | [Emmanuel](https://open.spotify.com/album/4pGAeO6sOgQZ9r79XBnZw0) | 2:56 |
 
-Snapshot ID: `MCwzMDBiYzIyYzJjYmUwMDU3ZGY3YzRiNzhkNmU0NjdkNjA0YmM3ODFl`
+Snapshot ID: `MCwwZjUzZmZjYjRiZjYyOGE3MTc3MGNmMDA5MTNiNTFhYjNiOTM4OWUy`

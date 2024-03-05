@@ -1,12 +1,12 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 158154,
+  "num_followers": 158199,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTcwMjE3NzkzMzE2MDMyMzE0OTNjYjI5YjJhMTg5MjM2Mjk1MGYz",
+  "snapshot_id": "MCwwZjM5NzVlNDgwMmQzZTc5YzdhMzE4ODVjNTlmODg3MzlhMTAwOGQ1",
   "tracks": [
     {
       "added_at": "2024-02-29 15:00:00",
@@ -367,18 +367,18 @@
     {
       "added_at": "2024-02-29 15:00:00",
       "album": {
-        "name": "Heaven Beach",
-        "url": "https://open.spotify.com/album/74XLaVRIeHY51nuXcC5RuS"
+        "name": "replica",
+        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
       },
       "artists": [
         {
-          "name": "Anri",
-          "url": "https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo"
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
         }
       ],
-      "duration_ms": 273866,
-      "name": "Fly By Day",
-      "url": "https://open.spotify.com/track/3L6NvwR3frgwTZth9z6ZQq"
+      "duration_ms": 253123,
+      "name": "NEO JAPAN",
+      "url": "https://open.spotify.com/track/4PQJs2U6R1xhXLxyjmf4gj"
     },
     {
       "added_at": "2024-02-29 15:00:00",
@@ -399,22 +399,18 @@
     {
       "added_at": "2024-02-29 15:00:00",
       "album": {
-        "name": "\u306f\u306a\u306b\u3042\u3089\u3057",
-        "url": "https://open.spotify.com/album/6uL3szP8qRqAJF20s2rNVk"
+        "name": "Heaven Beach",
+        "url": "https://open.spotify.com/album/74XLaVRIeHY51nuXcC5RuS"
       },
       "artists": [
         {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        },
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+          "name": "Anri",
+          "url": "https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo"
         }
       ],
-      "duration_ms": 272319,
-      "name": "\u306f\u306a\u306b\u3042\u3089\u3057",
-      "url": "https://open.spotify.com/track/1Y8oe7ucxNjQXTiWOIMSfz"
+      "duration_ms": 273866,
+      "name": "Fly By Day",
+      "url": "https://open.spotify.com/track/3L6NvwR3frgwTZth9z6ZQq"
     },
     {
       "added_at": "2024-02-29 15:00:00",
@@ -435,18 +431,22 @@
     {
       "added_at": "2024-02-29 15:00:00",
       "album": {
-        "name": "replica",
-        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
+        "name": "\u306f\u306a\u306b\u3042\u3089\u3057",
+        "url": "https://open.spotify.com/album/6uL3szP8qRqAJF20s2rNVk"
       },
       "artists": [
         {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        },
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 253123,
-      "name": "NEO JAPAN",
-      "url": "https://open.spotify.com/track/4PQJs2U6R1xhXLxyjmf4gj"
+      "duration_ms": 272319,
+      "name": "\u306f\u306a\u306b\u3042\u3089\u3057",
+      "url": "https://open.spotify.com/track/1Y8oe7ucxNjQXTiWOIMSfz"
     },
     {
       "added_at": "2024-02-29 15:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-02-29 15:00:00",
       "album": {
-        "name": "\u611b\u304c\u4e00\u5c64\u30e1\u30ed\u30a6",
-        "url": "https://open.spotify.com/album/38Uv2EtCEfUpfWdHVvVtaV"
-      },
-      "artists": [
-        {
-          "name": "\u96e2\u5a5a\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
-        }
-      ],
-      "duration_ms": 218166,
-      "name": "\u30b9\u30d1\u30f3\u30b3\u30fc\u30eb\u306e\u5973",
-      "url": "https://open.spotify.com/track/3HFqp1jOem1Htc6K7nFpTm"
-    },
-    {
-      "added_at": "2024-02-29 15:00:00",
-      "album": {
         "name": "from JAPAN 2",
         "url": "https://open.spotify.com/album/6MQkhc7AduXNgGCv43WCxl"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 275973,
       "name": "\u9769\u547d\u524d\u591c",
       "url": "https://open.spotify.com/track/2vOeE2Uh2UDG5jow8F2WQ9"
+    },
+    {
+      "added_at": "2024-02-29 15:00:00",
+      "album": {
+        "name": "\u611b\u304c\u4e00\u5c64\u30e1\u30ed\u30a6",
+        "url": "https://open.spotify.com/album/38Uv2EtCEfUpfWdHVvVtaV"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "duration_ms": 218166,
+      "name": "\u30b9\u30d1\u30f3\u30b3\u30fc\u30eb\u306e\u5973",
+      "url": "https://open.spotify.com/track/3HFqp1jOem1Htc6K7nFpTm"
     },
     {
       "added_at": "2024-02-29 15:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2024-02-29 15:00:00",
       "album": {
+        "name": "cherish",
+        "url": "https://open.spotify.com/album/3hJezmiYPXSjbYEsJ0Xu30"
+      },
+      "artists": [
+        {
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+        }
+      ],
+      "duration_ms": 279120,
+      "name": "\u300c\u3042\u306e\u5a18\u306f\u8ab0?\u300d\u3068\u304b\u8a00\u308f\u305b\u305f\u3044",
+      "url": "https://open.spotify.com/track/4oHcqir3Q8Rr8x7xJiGao4"
+    },
+    {
+      "added_at": "2024-02-29 15:00:00",
+      "album": {
         "name": "HONDA",
         "url": "https://open.spotify.com/album/42h4n4IVhO4YEIKXmREkxN"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 259000,
       "name": "Night Distance",
       "url": "https://open.spotify.com/track/0G9OA0VqF6SKtyYraNE5xv"
-    },
-    {
-      "added_at": "2024-02-29 15:00:00",
-      "album": {
-        "name": "cherish",
-        "url": "https://open.spotify.com/album/3hJezmiYPXSjbYEsJ0Xu30"
-      },
-      "artists": [
-        {
-          "name": "KIRINJI",
-          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
-        }
-      ],
-      "duration_ms": 279120,
-      "name": "\u300c\u3042\u306e\u5a18\u306f\u8ab0?\u300d\u3068\u304b\u8a00\u308f\u305b\u305f\u3044",
-      "url": "https://open.spotify.com/track/4oHcqir3Q8Rr8x7xJiGao4"
     },
     {
       "added_at": "2024-02-29 15:00:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2024-02-29 15:00:00",
       "album": {
+        "name": "Rainy Runway",
+        "url": "https://open.spotify.com/album/2QtIY3WAWrq8KsFtZe13JH"
+      },
+      "artists": [
+        {
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+        }
+      ],
+      "duration_ms": 241680,
+      "name": "Rainy Runway",
+      "url": "https://open.spotify.com/track/3bkWf5QEbNlshZMmGcYxbK"
+    },
+    {
+      "added_at": "2024-02-29 15:00:00",
+      "album": {
         "name": "\u30e6\u30fc\u30df\u30f3\u4e7e\u676f!!\uff5e\u677e\u4efb\u8c37\u7531\u5b9f50\u5468\u5e74\u8a18\u5ff5\u30b3\u30e9\u30dc\u30d9\u30b9\u30c8\u30a2\u30eb\u30d0\u30e0\uff5e",
         "url": "https://open.spotify.com/album/6LNustkOXsrHo2bt4bHyxX"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 234936,
       "name": "\u3053\u306e\u307e\u307e\u5922\u3067 feat. AAAMYYY",
       "url": "https://open.spotify.com/track/7mYt61pj41CSwSiOovNzk0"
-    },
-    {
-      "added_at": "2024-02-29 15:00:00",
-      "album": {
-        "name": "Rainy Runway",
-        "url": "https://open.spotify.com/album/2QtIY3WAWrq8KsFtZe13JH"
-      },
-      "artists": [
-        {
-          "name": "KIRINJI",
-          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
-        }
-      ],
-      "duration_ms": 241680,
-      "name": "Rainy Runway",
-      "url": "https://open.spotify.com/track/3bkWf5QEbNlshZMmGcYxbK"
     },
     {
       "added_at": "2024-02-29 15:00:00",

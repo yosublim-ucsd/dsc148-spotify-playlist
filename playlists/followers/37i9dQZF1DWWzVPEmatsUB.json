@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 637783,
+  "2024-03-05": 637753,
   "date_first_scraped": "2021-12-21",
   "description": "Ease into the day",
   "name": "Mellow Morning",
@@ -6235,7 +6235,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 291200,
       "name": "Summer Rain",
       "url": "https://open.spotify.com/track/1jBOO1ozjaMOgRAN7jaEPU"
@@ -6261,6 +6261,32 @@
       "duration_ms": 164038,
       "name": "Summer Rain (feat. Jazmine Sullivan)",
       "url": "https://open.spotify.com/track/4fPO3377M8WMykvWUJmzeO"
+    },
+    {
+      "album": {
+        "name": "Djesse Vol. 4",
+        "url": "https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        },
+        {
+          "name": "Chris Thile",
+          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291200,
+      "name": "Summer Rain (feat. Madison Cunningham & Chris Thile)",
+      "url": "https://open.spotify.com/track/5Mf8pNKP5NlUKL2cbE81iU"
     },
     {
       "album": {

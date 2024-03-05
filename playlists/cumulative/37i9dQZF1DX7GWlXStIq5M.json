@@ -11247,6 +11247,24 @@
     },
     {
       "album": {
+        "name": "Quando a gente ama",
+        "url": "https://open.spotify.com/album/7dmSRqUYOrnaovRY3q5CFk"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155605,
+      "name": "Quando a gente ama",
+      "url": "https://open.spotify.com/track/0isC8YBpo5h3b1vOnJ0aNw"
+    },
+    {
+      "album": {
         "name": "BROKEN HEARTS CLUB",
         "url": "https://open.spotify.com/album/43OjImDFvgDCXHysNVNhUS"
       },

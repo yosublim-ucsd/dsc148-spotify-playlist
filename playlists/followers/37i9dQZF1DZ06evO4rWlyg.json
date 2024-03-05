@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 131353,
+  "2024-03-05": 131379,
   "date_first_scraped": "2023-11-11",
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
   "name": "This Is Bj\u00f6rk",
@@ -235,7 +235,7 @@
       ],
       "date_added": "2024-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 608760,
       "name": "Black Lake",
       "url": "https://open.spotify.com/track/7McqTkJc3laznwCoQXKxFe"
@@ -1101,7 +1101,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 393573,
       "name": "The Gate",
       "url": "https://open.spotify.com/track/7g2YQhm3jIxHnkMAeLjduf"

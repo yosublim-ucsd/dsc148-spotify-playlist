@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 1772030,
+  "2024-03-05": 1772300,
   "date_first_scraped": "2021-12-28",
   "description": "Your daily update of the most viral tracks right now - Global.",
   "name": "Viral 50 - Global",
@@ -24977,7 +24977,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 221709,
       "name": "Make You Mine",
       "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
@@ -46555,6 +46555,24 @@
       "duration_ms": 199047,
       "name": "Yat\u0131ya",
       "url": "https://open.spotify.com/track/51yVTZAAXjMuOCiBvN980F"
+    },
+    {
+      "album": {
+        "name": "Yeah Glo! (Alternate Versions)",
+        "url": "https://open.spotify.com/album/71b560lfhaeBlp4URJHAzx"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142702,
+      "name": "Yeah Glo!",
+      "url": "https://open.spotify.com/track/0rxSRS0Cpw0Hxi7zLNudhm"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. El Guero MP, Galvancillo en portada.",
-  "num_followers": 60477,
+  "num_followers": 60515,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNThjMWU0NTdhYjhkNTA3NzE2NDFmOWJhMTFhOTdjMTlhNzRjNzM5",
+  "snapshot_id": "MCw2ZjkyZDMyOGJhYzJlNWNmMTBiYmNhZWJlODE0MjBiNDZjODc1YTIw",
   "tracks": [
     {
       "added_at": "2024-02-23 06:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
+        "name": "R\u00e1pido",
+        "url": "https://open.spotify.com/album/1oyD2MCtu40tDL41zsHsOS"
+      },
+      "artists": [
+        {
+          "name": "Diego Coss",
+          "url": "https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O"
+        }
+      ],
+      "duration_ms": 194766,
+      "name": "R\u00e1pido",
+      "url": "https://open.spotify.com/track/59wfN7Wrwy48cADOItTXjY"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
         "name": "Gallo y Mi Cuerno",
         "url": "https://open.spotify.com/album/76uSaPvd5aVD1TBzrQG39S"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 168566,
       "name": "Bolsita Rosita",
       "url": "https://open.spotify.com/track/6hxn7RsbsxqwuZCHqzKSUV"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
-        "name": "R\u00e1pido",
-        "url": "https://open.spotify.com/album/1oyD2MCtu40tDL41zsHsOS"
-      },
-      "artists": [
-        {
-          "name": "Diego Coss",
-          "url": "https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O"
-        }
-      ],
-      "duration_ms": 194766,
-      "name": "R\u00e1pido",
-      "url": "https://open.spotify.com/track/59wfN7Wrwy48cADOItTXjY"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Lo Obvio",
-        "url": "https://open.spotify.com/album/69WQe5IHTQR4Jxo6sCmqRi"
-      },
-      "artists": [
-        {
-          "name": "Reflejo Nuevo",
-          "url": "https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8"
-        }
-      ],
-      "duration_ms": 140453,
-      "name": "Lo Obvio",
-      "url": "https://open.spotify.com/track/4gLsJ73b2gHw5Zc9YZgZjz"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
         "name": "La Tostada",
         "url": "https://open.spotify.com/album/0p0bDZxCPtc2NKmlnQin5j"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 187263,
       "name": "Tranquilo Y Sencillo",
       "url": "https://open.spotify.com/track/0ON5YTUgh0gMtSzIThCsR2"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
+        "name": "Lo Obvio",
+        "url": "https://open.spotify.com/album/69WQe5IHTQR4Jxo6sCmqRi"
+      },
+      "artists": [
+        {
+          "name": "Reflejo Nuevo",
+          "url": "https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8"
+        }
+      ],
+      "duration_ms": 140453,
+      "name": "Lo Obvio",
+      "url": "https://open.spotify.com/track/4gLsJ73b2gHw5Zc9YZgZjz"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Gracias Por Seguir Mis Pasos (Deluxe)",
-        "url": "https://open.spotify.com/album/3f92Qny9CpoMlV7PWxeh1I"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Murillo",
-          "url": "https://open.spotify.com/artist/0IJGy4mM0W1uOTWQGVsrzx"
-        }
-      ],
-      "duration_ms": 153613,
-      "name": "28 Abriles",
-      "url": "https://open.spotify.com/track/7t9HSfRTyM6F3Vp94cK5Gl"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
         "name": "El Bato Gacho",
         "url": "https://open.spotify.com/album/0UcVh7asl3iQRivR9TSwbH"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 145518,
       "name": "El Bato Gacho",
       "url": "https://open.spotify.com/track/4zFxX8QAOcoqkCm9QWT7cq"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
+        "name": "Gracias Por Seguir Mis Pasos (Deluxe)",
+        "url": "https://open.spotify.com/album/3f92Qny9CpoMlV7PWxeh1I"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Murillo",
+          "url": "https://open.spotify.com/artist/0IJGy4mM0W1uOTWQGVsrzx"
+        }
+      ],
+      "duration_ms": 153613,
+      "name": "28 Abriles",
+      "url": "https://open.spotify.com/track/7t9HSfRTyM6F3Vp94cK5Gl"
     },
     {
       "added_at": "2024-02-23 06:00:00",

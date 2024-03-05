@@ -1,12 +1,12 @@
 {
   "description": "Explore the inner worlds floating in the imagination of experimental Ambient music producers.",
-  "num_followers": 191235,
+  "num_followers": 191282,
   "original_name": "Exospheres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGM4Mjk4YzFhZGU1ZGFiZTAwNzkzMWY0MDAyZGY3NTcyMWQ1MTg3",
+  "snapshot_id": "MCxiYmJjMzU5NGNkNmU1NTM5MDBhZWU5N2M4NTZjNmVjM2NlMmNjMDIy",
   "tracks": [
     {
       "added_at": "2023-04-21 14:41:23",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Clara",
+        "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
+      },
+      "artists": [
+        {
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
+        }
+      ],
+      "duration_ms": 361854,
+      "name": "Vespera",
+      "url": "https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "See-Through",
         "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
       },
@@ -527,22 +543,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Clara",
-        "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
-      },
-      "artists": [
-        {
-          "name": "Loscil",
-          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
-        }
-      ],
-      "duration_ms": 361854,
-      "name": "Vespera",
-      "url": "https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Circular Forms",
         "url": "https://open.spotify.com/album/4k4UMY26lPgkQnZKQFoZ6c"
       },
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Nonlin",
+        "url": "https://open.spotify.com/album/1HG66ZvnAjtbKyWoXvBLTn"
+      },
+      "artists": [
+        {
+          "name": "Steve Hauschildt",
+          "url": "https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO"
+        }
+      ],
+      "duration_ms": 406856,
+      "name": "Subtractive Skies",
+      "url": "https://open.spotify.com/track/3ehy5UoF8LJfWmJpm4UHOI"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "outside of your lifetime",
         "url": "https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 262373,
       "name": "Illusion Of Time",
       "url": "https://open.spotify.com/track/02svSerh4F5X5Fn3rdnd93"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Nonlin",
-        "url": "https://open.spotify.com/album/1HG66ZvnAjtbKyWoXvBLTn"
-      },
-      "artists": [
-        {
-          "name": "Steve Hauschildt",
-          "url": "https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO"
-        }
-      ],
-      "duration_ms": 406856,
-      "name": "Subtractive Skies",
-      "url": "https://open.spotify.com/track/3ehy5UoF8LJfWmJpm4UHOI"
     },
     {
       "added_at": "2023-04-21 14:41:23",

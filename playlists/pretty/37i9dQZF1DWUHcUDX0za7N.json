@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: <a href=\"https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y?si=VyqnYnQyQlistMqVsba7Ww\"> Prettyboy D-O</a>",
-  "num_followers": 44243,
+  "num_followers": 44302,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTdhOWNlZDU5ZjNlNThjNzBhMDFlMjRlOTVhMDUyMjNhNGUwYTYx",
+  "snapshot_id": "MCw5ZWNiYzk5YWJjZjc1MjgwNTliM2JiN2U5ZDkyYTQxMGRkYmQ3NzAz",
   "tracks": [
     {
       "added_at": "2024-03-01 00:01:00",
@@ -299,6 +299,26 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "duration_ms": 155500,
+      "name": "NYEM EGO (feat. Jeriq)",
+      "url": "https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
         "name": "EZIOKWU",
         "url": "https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx"
       },
@@ -319,26 +339,6 @@
       "duration_ms": 233571,
       "name": "BLOOD ON THE DANCE FLOOR (feat. Bloody Civilian and Wale)",
       "url": "https://open.spotify.com/track/35MU2MEhQMw0NhXZztAP9m"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Emeka Must Shine",
-        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        }
-      ],
-      "duration_ms": 155500,
-      "name": "NYEM EGO (feat. Jeriq)",
-      "url": "https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -407,22 +407,18 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "EZIOKWU",
-        "url": "https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx"
+        "name": "Like Ice Spice / Bezos",
+        "url": "https://open.spotify.com/album/6m8f7PHYHp3IlMOxdBNKvA"
       },
       "artists": [
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         }
       ],
-      "duration_ms": 129056,
-      "name": "KUBOLOR (feat. Amaarae)",
-      "url": "https://open.spotify.com/track/7sFukIJffFFLwnazXIbqP5"
+      "duration_ms": 123434,
+      "name": "LIKE ICE SPICE",
+      "url": "https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -499,26 +495,22 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "NDI IKE",
-        "url": "https://open.spotify.com/album/7c5jgET8u1LYjNp7JEFeO4"
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
       },
       "artists": [
         {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         },
         {
-          "name": "Flavour",
-          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 155644,
-      "name": "NDI IKE",
-      "url": "https://open.spotify.com/track/0YGSh7YrEtSQ6z4icTszc1"
+      "duration_ms": 146000,
+      "name": "ROAD RUNNERS (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/1YQAHol95T2hkZISywS0VO"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -543,22 +535,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Like Ice Spice / Bezos",
-        "url": "https://open.spotify.com/album/6m8f7PHYHp3IlMOxdBNKvA"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 123434,
-      "name": "LIKE ICE SPICE",
-      "url": "https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "EZIOKWU",
         "url": "https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx"
       },
@@ -568,17 +544,37 @@
           "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         },
         {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
         }
       ],
-      "duration_ms": 240000,
-      "name": "DOG EAT DOG II (feat. Cruel Santino and Bella Shmurda)",
-      "url": "https://open.spotify.com/track/3EfMWIEGQB24dQv5x4Hwvx"
+      "duration_ms": 129056,
+      "name": "KUBOLOR (feat. Amaarae)",
+      "url": "https://open.spotify.com/track/7sFukIJffFFLwnazXIbqP5"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "NDI IKE",
+        "url": "https://open.spotify.com/album/7c5jgET8u1LYjNp7JEFeO4"
+      },
+      "artists": [
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        },
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 155644,
+      "name": "NDI IKE",
+      "url": "https://open.spotify.com/track/0YGSh7YrEtSQ6z4icTszc1"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -643,6 +639,26 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 174038,
+      "name": "DOLLERZ (feat. Odumodublvck)",
+      "url": "https://open.spotify.com/track/1X9zmng42hJSwZ3gz8Q9v7"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
         "name": "PRAY",
         "url": "https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5"
       },
@@ -699,6 +715,30 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
+        "name": "EZIOKWU",
+        "url": "https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "DOG EAT DOG II (feat. Cruel Santino and Bella Shmurda)",
+      "url": "https://open.spotify.com/track/3EfMWIEGQB24dQv5x4Hwvx"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
         "name": "My Brother",
         "url": "https://open.spotify.com/album/3ZUE1QT6ttwoD5zomMykF6"
       },
@@ -711,46 +751,6 @@
       "duration_ms": 158520,
       "name": "My Brother",
       "url": "https://open.spotify.com/track/2bKcKMDU9JHtLJ8xeHR46X"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        }
-      ],
-      "duration_ms": 211050,
-      "name": "Cloak & Dagger (feat. J Hus)",
-      "url": "https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Emeka Must Shine",
-        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "ROAD RUNNERS (feat. Black Sherif)",
-      "url": "https://open.spotify.com/track/1YQAHol95T2hkZISywS0VO"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -775,22 +775,22 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "EZIOKWU",
-        "url": "https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx"
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
       "artists": [
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         },
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
         }
       ],
-      "duration_ms": 194400,
-      "name": "FIREGUN (feat. Fireboy DML)",
-      "url": "https://open.spotify.com/track/5VF45DoQu9oT7Se5ieLoZk"
+      "duration_ms": 211050,
+      "name": "Cloak & Dagger (feat. J Hus)",
+      "url": "https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -807,6 +807,26 @@
       "duration_ms": 120000,
       "name": "Solace",
       "url": "https://open.spotify.com/track/0VOLzICIqLKFHQYLBxLw51"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "EZIOKWU",
+        "url": "https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "FIREGUN (feat. Fireboy DML)",
+      "url": "https://open.spotify.com/track/5VF45DoQu9oT7Se5ieLoZk"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -855,46 +875,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Emeka Must Shine",
-        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 174038,
-      "name": "DOLLERZ (feat. Odumodublvck)",
-      "url": "https://open.spotify.com/track/1X9zmng42hJSwZ3gz8Q9v7"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Want It All (feat. Polo G)",
-        "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Want It All (feat. Polo G)",
-      "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "AREA BOYZ",
         "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
       },
@@ -939,22 +919,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "You Go Know",
-        "url": "https://open.spotify.com/album/7HvwJxPnRDe6DeSGUE1CHG"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        }
-      ],
-      "duration_ms": 142135,
-      "name": "You Go Know",
-      "url": "https://open.spotify.com/track/6sTPT0d9cJtFI3F3b2IA1q"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "Letter From Overseas (feat. Black Sherif)",
         "url": "https://open.spotify.com/album/6ucz02tBn7xRIRjJJ5kfHA"
       },
@@ -975,6 +939,22 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
+        "name": "You Go Know",
+        "url": "https://open.spotify.com/album/7HvwJxPnRDe6DeSGUE1CHG"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "duration_ms": 142135,
+      "name": "You Go Know",
+      "url": "https://open.spotify.com/track/6sTPT0d9cJtFI3F3b2IA1q"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
         "name": "Vigilante Bop",
         "url": "https://open.spotify.com/album/62wsAbVkM8OxT2tJ9hIkiG"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 180950,
       "name": "Vigilante Bop",
       "url": "https://open.spotify.com/track/4IschypVu1Oz4FS8Gg7y0u"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "Want It All (feat. Polo G)",
+        "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "Want It All (feat. Polo G)",
+      "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
     },
     {
       "added_at": "2024-03-01 00:01:00",

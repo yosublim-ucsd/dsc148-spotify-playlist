@@ -1,12 +1,12 @@
 {
   "description": "Classics like In Da Club",
-  "num_followers": 207338,
+  "num_followers": 207450,
   "original_name": "Hip-Hop Classics Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTVjM2FmYTY0N2ZkNTNiNWU2Y2Y1NDA3ODAyODQ1MmRkM2QzNDNi",
+  "snapshot_id": "MCxjYjlkZGI1YjYxMzRmZjNiNjFlYTY2YTY1Y2FiZTA3YTYyMjgwMTRh",
   "tracks": [
     {
       "added_at": "2023-08-21 04:00:00",
@@ -151,26 +151,6 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "2001",
-        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 161506,
-      "name": "The Next Episode",
-      "url": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
         "name": "The Massacre",
         "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
       },
@@ -199,6 +179,42 @@
       "duration_ms": 228240,
       "name": "Hot In Herre",
       "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
+        "name": "2001",
+        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 161506,
+      "name": "The Next Episode",
+      "url": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 311866,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -247,22 +263,6 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "Graduation",
-        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 311866,
-      "name": "Stronger",
-      "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
         "name": "The Documentary",
         "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
       },
@@ -299,22 +299,18 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "The Chronic",
-        "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
       },
       "artists": [
         {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 237573,
-      "name": "Nuthin' But A \"G\" Thang",
-      "url": "https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD"
+      "duration_ms": 292093,
+      "name": "POWER",
+      "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -343,6 +339,26 @@
       "duration_ms": 357706,
       "name": "Forever",
       "url": "https://open.spotify.com/track/5UsLjwBaTHBX4ektWIr4XX"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
+        "name": "The Chronic",
+        "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 237573,
+      "name": "Nuthin' But A \"G\" Thang",
+      "url": "https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -399,22 +415,6 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "My Beautiful Dark Twisted Fantasy",
-        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 292093,
-      "name": "POWER",
-      "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
         "name": "House of Pain (Fine Malt Lyrics) [30 Years] [Deluxe Edition]",
         "url": "https://open.spotify.com/album/1GYvmeraQXDxxSC9T3RDvM"
       },
@@ -451,22 +451,6 @@
       "duration_ms": 257399,
       "name": "Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster",
       "url": "https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
-        "name": "The Massacre",
-        "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 214226,
-      "name": "Disco Inferno",
-      "url": "https://open.spotify.com/track/69bHJ9qs5FrUJbKP8xU8uZ"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -515,6 +499,38 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
+        "name": "The Massacre",
+        "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 214226,
+      "name": "Disco Inferno",
+      "url": "https://open.spotify.com/track/69bHJ9qs5FrUJbKP8xU8uZ"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
+        "name": "The College Dropout",
+        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 193733,
+      "name": "Jesus Walks",
+      "url": "https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
         "name": "Stankonia",
         "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 240026,
       "name": "So Fresh, So Clean",
       "url": "https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
-        "name": "Doggystyle",
-        "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 246200,
-      "name": "Who Am I (What\u2019s My Name)?",
-      "url": "https://open.spotify.com/track/0eO8MW9YSTK3CjdaTYKlhF"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -563,18 +563,18 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "The College Dropout",
-        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
+        "name": "Doggystyle",
+        "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 193733,
-      "name": "Jesus Walks",
-      "url": "https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx"
+      "duration_ms": 246200,
+      "name": "Who Am I (What\u2019s My Name)?",
+      "url": "https://open.spotify.com/track/0eO8MW9YSTK3CjdaTYKlhF"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -687,6 +687,34 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/0hmFRR0pDSZIAvoJqEFSKv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "duration_ms": 329320,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/4qikXelSRKvoCqFcHLB2H2"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
         "name": "Still Writing In My Diary: 2nd Entry",
         "url": "https://open.spotify.com/album/2R7G5Z0RWWZU1V731JZG68"
       },
@@ -715,34 +743,6 @@
       "duration_ms": 287000,
       "name": "Country Grammar (Hot Shit)",
       "url": "https://open.spotify.com/track/3wMUvT6eIw2L5cZFG1yH9j"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/0hmFRR0pDSZIAvoJqEFSKv"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        },
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        }
-      ],
-      "duration_ms": 329320,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/4qikXelSRKvoCqFcHLB2H2"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -963,26 +963,6 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "Come Home With Me",
-        "url": "https://open.spotify.com/album/1lEkQcVvPwNZmkBIEJPSrv"
-      },
-      "artists": [
-        {
-          "name": "Cam'ron",
-          "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
-        },
-        {
-          "name": "Juelz Santana",
-          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
-        }
-      ],
-      "duration_ms": 204706,
-      "name": "Oh Boy",
-      "url": "https://open.spotify.com/track/4X1odWLrLSSahaK6Hi15AA"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
         "name": "Tha Carter III (MTV Bonus Version)",
         "url": "https://open.spotify.com/album/4fRZNOawjx1uzGLN3VhAZ4"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 299333,
       "name": "Lollipop",
       "url": "https://open.spotify.com/track/1pm7lQGl6mvKWDxesZTVFp"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
+        "name": "Come Home With Me",
+        "url": "https://open.spotify.com/album/1lEkQcVvPwNZmkBIEJPSrv"
+      },
+      "artists": [
+        {
+          "name": "Cam'ron",
+          "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        },
+        {
+          "name": "Juelz Santana",
+          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+        }
+      ],
+      "duration_ms": 204706,
+      "name": "Oh Boy",
+      "url": "https://open.spotify.com/track/4X1odWLrLSSahaK6Hi15AA"
     },
     {
       "added_at": "2023-08-07 04:00:00",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
+        "name": "Anthem Inc.",
+        "url": "https://open.spotify.com/album/04fLLFoOvXyGxahRneBUJD"
+      },
+      "artists": [
+        {
+          "name": "Naughty By Nature",
+          "url": "https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC"
+        }
+      ],
+      "duration_ms": 250173,
+      "name": "O.P.P. (Re-Recorded)",
+      "url": "https://open.spotify.com/track/4olPjhmLorTREwFO8YvHDk"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
         "name": "Touch It Remixes",
         "url": "https://open.spotify.com/album/47akZaaMhLabeq82yH2u08"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 240373,
       "name": "Touch It - Remix/Featuring Mary J. Blige, Rah Digga, Missy Elliot, Lloyd Banks, Papoose & DMX (Explcit)",
       "url": "https://open.spotify.com/track/4MHboJP4Mj8b2bc4hXayIo"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
-        "name": "Anthem Inc.",
-        "url": "https://open.spotify.com/album/04fLLFoOvXyGxahRneBUJD"
-      },
-      "artists": [
-        {
-          "name": "Naughty By Nature",
-          "url": "https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC"
-        }
-      ],
-      "duration_ms": 250173,
-      "name": "O.P.P. (Re-Recorded)",
-      "url": "https://open.spotify.com/track/4olPjhmLorTREwFO8YvHDk"
     },
     {
       "added_at": "2023-03-07 08:01:20",

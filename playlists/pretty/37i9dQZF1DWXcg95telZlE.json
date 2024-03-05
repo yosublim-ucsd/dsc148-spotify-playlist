@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1950s. Cover: Frank Sinatra.",
-  "num_followers": 345998,
+  "num_followers": 346148,
   "original_name": "Soft 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWZkNmM2OTg0MmE2NDU1MGZmNmFkY2YzOWI4M2NkZTMyOWY1NzRj",
+  "snapshot_id": "MCw4Y2JiM2UyMjE4YWMyYWJhOGNjZTM0NTRmNDgyNDQ4OTU3YWNmMTlh",
   "tracks": [
     {
       "added_at": "2022-05-30 12:59:00",
@@ -115,6 +115,26 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
+        "name": "Porgy And Bess",
+        "url": "https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 298133,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/2gNjmvuQiEd2z9SqyYi8HH"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
         "name": "Love Is The Thing",
         "url": "https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps"
       },
@@ -143,26 +163,6 @@
       "duration_ms": 134040,
       "name": "Lonesome Town",
       "url": "https://open.spotify.com/track/0SsYlkXxZ5vkWOTsKxMfMz"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "Porgy And Bess",
-        "url": "https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 298133,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/2gNjmvuQiEd2z9SqyYi8HH"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -199,22 +199,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
-        "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 167493,
-      "name": "Teach Me Tonight",
-      "url": "https://open.spotify.com/track/0Rk9byjmZksAJX15onGns5"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Sings His Favorites",
         "url": "https://open.spotify.com/album/68NffwvgGGTB3aDqkbvztJ"
       },
@@ -231,38 +215,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Ritchie Valens",
-        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
+        "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
+        "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
       },
       "artists": [
         {
-          "name": "Ritchie Valens",
-          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 150973,
-      "name": "Donna - Single Version",
-      "url": "https://open.spotify.com/track/0VE4ayVlGs5DBoqOdgJ0Zv"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "The Complete Ella And Louis On Verve",
-        "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 354533,
-      "name": "Cheek To Cheek",
-      "url": "https://open.spotify.com/track/33jt3kYWjQzqn3xyYQ5ZEh"
+      "duration_ms": 167493,
+      "name": "Teach Me Tonight",
+      "url": "https://open.spotify.com/track/0Rk9byjmZksAJX15onGns5"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -283,6 +247,22 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
+        "name": "Ritchie Valens",
+        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Valens",
+          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
+        }
+      ],
+      "duration_ms": 150973,
+      "name": "Donna - Single Version",
+      "url": "https://open.spotify.com/track/0VE4ayVlGs5DBoqOdgJ0Zv"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
         "name": "The Flying Platters Around The World",
         "url": "https://open.spotify.com/album/0UvGTptcqQEJ2u5yACvlUH"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 168293,
       "name": "Twilight Time - Single Version",
       "url": "https://open.spotify.com/track/3MpGQae6zAFd7Z1FdLV9fV"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "The Complete Ella And Louis On Verve",
+        "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 354533,
+      "name": "Cheek To Cheek",
+      "url": "https://open.spotify.com/track/33jt3kYWjQzqn3xyYQ5ZEh"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
+        "name": "Songs For Swingin' Lovers! (Remastered)",
+        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 162840,
+      "name": "Love Is Here To Stay - Remastered 1998",
+      "url": "https://open.spotify.com/track/3YCbx1QqGrnxMsPEZLC1CT"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
         "name": "Ricky Nelson (Expanded Edition / Remastered)",
         "url": "https://open.spotify.com/album/08TlIPCh7esOAnqBvlmkEt"
       },
@@ -407,6 +423,22 @@
       "duration_ms": 142693,
       "name": "The Theme from \"A Summer Place\"",
       "url": "https://open.spotify.com/track/6zwvB879PJSpTyFcg2wwnL"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "The Platters Golden Hits",
+        "url": "https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B"
+      },
+      "artists": [
+        {
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+        }
+      ],
+      "duration_ms": 157360,
+      "name": "The Great Pretender",
+      "url": "https://open.spotify.com/track/2FkCjtQ1lYsf71s2FAS8hE"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -443,38 +475,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Songs For Swingin' Lovers! (Remastered)",
-        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 162840,
-      "name": "Love Is Here To Stay - Remastered 1998",
-      "url": "https://open.spotify.com/track/3YCbx1QqGrnxMsPEZLC1CT"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "The Platters Golden Hits",
-        "url": "https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B"
-      },
-      "artists": [
-        {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
-        }
-      ],
-      "duration_ms": 157360,
-      "name": "The Great Pretender",
-      "url": "https://open.spotify.com/track/2FkCjtQ1lYsf71s2FAS8hE"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "The Best Of Bobby Vinton",
         "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
       },
@@ -503,6 +503,22 @@
       "duration_ms": 150893,
       "name": "Cry Me A River",
       "url": "https://open.spotify.com/track/4ydtQJImyQg6UDFFZBzgxp"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "In The Wee Small Hours",
+        "url": "https://open.spotify.com/album/3GmwKB1tgPZgXeRJZSm9WX"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 180933,
+      "name": "In The Wee Small Hours Of The Morning - Remastered 1998",
+      "url": "https://open.spotify.com/track/0Hsc0sIaxOxXBZbT3ms2oj"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -591,22 +607,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "In The Wee Small Hours",
-        "url": "https://open.spotify.com/album/3GmwKB1tgPZgXeRJZSm9WX"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 180933,
-      "name": "In The Wee Small Hours Of The Morning - Remastered 1998",
-      "url": "https://open.spotify.com/track/0Hsc0sIaxOxXBZbT3ms2oj"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "The Very Best of The Everly Brothers",
         "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
       },
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Johnny Tillotson's Best",
-        "url": "https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb"
-      },
-      "artists": [
-        {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
-        }
-      ],
-      "duration_ms": 127106,
-      "name": "Why Do I Love You So",
-      "url": "https://open.spotify.com/track/6e63bXWJcCMu8tunixbFa9"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Modern Sounds in Country and Western Music, Vols 1 & 2",
         "url": "https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 196920,
       "name": "You Don't Know Me",
       "url": "https://open.spotify.com/track/6LahUh0U4umx6hDFfVWlGi"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Johnny Tillotson's Best",
+        "url": "https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "duration_ms": 127106,
+      "name": "Why Do I Love You So",
+      "url": "https://open.spotify.com/track/6e63bXWJcCMu8tunixbFa9"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
+        "name": "Come Softly To Me: The Very Best Of The Fleetwoods",
+        "url": "https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq"
+      },
+      "artists": [
+        {
+          "name": "The Fleetwoods",
+          "url": "https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX"
+        }
+      ],
+      "duration_ms": 144933,
+      "name": "Come Softly To Me",
+      "url": "https://open.spotify.com/track/603N4XGJUTbK760GLCvIIs"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
         "name": "Frankie Avalon",
         "url": "https://open.spotify.com/album/3nDCuyCQqcqVbXprUy61CF"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 134560,
       "name": "Love Letters In The Sand - Single Version",
       "url": "https://open.spotify.com/track/1eqGYJJr2z2GXK1i0hD3BC"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "Come Softly To Me: The Very Best Of The Fleetwoods",
-        "url": "https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq"
-      },
-      "artists": [
-        {
-          "name": "The Fleetwoods",
-          "url": "https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX"
-        }
-      ],
-      "duration_ms": 144933,
-      "name": "Come Softly To Me",
-      "url": "https://open.spotify.com/track/603N4XGJUTbK760GLCvIIs"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Remember When?",
-        "url": "https://open.spotify.com/album/3hf24dCfmmDihusVyBLliZ"
-      },
-      "artists": [
-        {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
-        }
-      ],
-      "duration_ms": 174893,
-      "name": "I'll Never Smile Again",
-      "url": "https://open.spotify.com/track/3q5sp47cS6OAebFsystUB7"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "When You're Away",
         "url": "https://open.spotify.com/album/0zcp9PFB5tBzLS8V9ZPqgK"
       },
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
+        "name": "Remember When?",
+        "url": "https://open.spotify.com/album/3hf24dCfmmDihusVyBLliZ"
+      },
+      "artists": [
+        {
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+        }
+      ],
+      "duration_ms": 174893,
+      "name": "I'll Never Smile Again",
+      "url": "https://open.spotify.com/track/3q5sp47cS6OAebFsystUB7"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
         "name": "Sarah Vaughan Sings George Gershwin",
         "url": "https://open.spotify.com/album/3WNkR1jew5kfBxl1PhgwPa"
       },
@@ -1195,6 +1195,22 @@
       "duration_ms": 246161,
       "name": "I've Got A Crush On You",
       "url": "https://open.spotify.com/track/6f4Zazr4tHJ8iekdSwbBpT"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Pat Boone's Greatest Hits (Reissue)",
+        "url": "https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ"
+      },
+      "artists": [
+        {
+          "name": "Pat Boone",
+          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
+        }
+      ],
+      "duration_ms": 161200,
+      "name": "April Love",
+      "url": "https://open.spotify.com/track/5ax1MN2MGW0ZJXquCkpuLM"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -1279,22 +1295,6 @@
       "duration_ms": 166266,
       "name": "My Special Angel",
       "url": "https://open.spotify.com/track/3NaKs6Dv0bPR3626ZnQ1Fx"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "Pat Boone's Greatest Hits (Reissue)",
-        "url": "https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ"
-      },
-      "artists": [
-        {
-          "name": "Pat Boone",
-          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
-        }
-      ],
-      "duration_ms": 161200,
-      "name": "April Love",
-      "url": "https://open.spotify.com/track/5ax1MN2MGW0ZJXquCkpuLM"
     },
     {
       "added_at": "2022-05-30 12:59:00",

@@ -1,12 +1,12 @@
 {
   "description": "Los mejores nuevos y viejos temas para cantar y perrear detr\u00e1s del volante.",
-  "num_followers": 131470,
+  "num_followers": 131498,
   "original_name": "Maneja con Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTEzNDM4Y2NhM2UzMmE1ZTYxYmQ4NWY4NzNlOTNkYzE2MDEzMjM0",
+  "snapshot_id": "MCwyMTY2NDFlYzJlMjkzOWIyMmVlZmM1NzE0MjVmOTAyYjRlYzc4YThm",
   "tracks": [
     {
       "added_at": "2023-11-07 17:27:55",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-11-07 17:27:55",
       "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 243716,
+      "name": "Tit\u00ed Me Pregunt\u00f3",
+      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
+    },
+    {
+      "added_at": "2023-11-07 17:27:55",
+      "album": {
         "name": "KG0516",
         "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 209160,
       "name": "EL MAKINON",
       "url": "https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M"
-    },
-    {
-      "added_at": "2023-11-07 17:27:55",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 243716,
-      "name": "Tit\u00ed Me Pregunt\u00f3",
-      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
     },
     {
       "added_at": "2023-11-07 17:27:55",
@@ -455,22 +455,22 @@
     {
       "added_at": "2023-11-07 17:27:55",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/7gnUxSrGT4npGYuFXwQTO4"
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
       },
       "artists": [
         {
-          "name": "Amenazzy",
-          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "name": "Lary Over",
-          "url": "https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 231909,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/6kTMnty169llVx9sGHb6LD"
+      "duration_ms": 206420,
+      "name": "La Santa",
+      "url": "https://open.spotify.com/track/69vlMrzHwATKzupwNcUPyK"
     },
     {
       "added_at": "2023-12-08 18:50:34",
@@ -487,6 +487,26 @@
       "duration_ms": 144000,
       "name": "LA PRIMERA",
       "url": "https://open.spotify.com/track/2tEC8ZAo3zVwflDjOGVMJZ"
+    },
+    {
+      "added_at": "2023-11-07 17:27:55",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/7gnUxSrGT4npGYuFXwQTO4"
+      },
+      "artists": [
+        {
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
+        },
+        {
+          "name": "Lary Over",
+          "url": "https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78"
+        }
+      ],
+      "duration_ms": 231909,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/6kTMnty169llVx9sGHb6LD"
     },
     {
       "added_at": "2023-11-07 17:27:55",
@@ -547,26 +567,6 @@
       "duration_ms": 201500,
       "name": "4K",
       "url": "https://open.spotify.com/track/1BIXs6CdkPRLytuqoXs6XN"
-    },
-    {
-      "added_at": "2023-11-07 17:27:55",
-      "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 206420,
-      "name": "La Santa",
-      "url": "https://open.spotify.com/track/69vlMrzHwATKzupwNcUPyK"
     },
     {
       "added_at": "2023-11-07 17:27:55",
@@ -1031,6 +1031,26 @@
     {
       "added_at": "2023-11-07 17:27:55",
       "album": {
+        "name": "Desesperados",
+        "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 224996,
+      "name": "Desesperados",
+      "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
+    },
+    {
+      "added_at": "2023-11-07 17:27:55",
+      "album": {
         "name": "Error 93",
         "url": "https://open.spotify.com/album/5zbO01D6uIqC2ejQSQEN2O"
       },
@@ -1075,22 +1095,22 @@
     {
       "added_at": "2023-11-07 17:27:55",
       "album": {
-        "name": "Desesperados",
-        "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
+        "name": "Yo x Ti, Tu x Mi",
+        "url": "https://open.spotify.com/album/3844bY26oeSkqd06th4EYp"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         },
         {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 224996,
-      "name": "Desesperados",
-      "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
+      "duration_ms": 201040,
+      "name": "Yo x Ti, Tu x Mi",
+      "url": "https://open.spotify.com/track/7BlBVFwvbWvcwNcUarQmjk"
     },
     {
       "added_at": "2023-11-07 17:27:55",
@@ -1139,22 +1159,6 @@
     {
       "added_at": "2023-11-07 17:27:55",
       "album": {
-        "name": "23 Preguntas",
-        "url": "https://open.spotify.com/album/0iLhDl4hlkoBXLtsfhUg56"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 251221,
-      "name": "23 Preguntas",
-      "url": "https://open.spotify.com/track/5ANkjNH7elrxzggidjnH9v"
-    },
-    {
-      "added_at": "2023-11-07 17:27:55",
-      "album": {
         "name": "Pareja Del A\u00f1o",
         "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
       },
@@ -1199,26 +1203,6 @@
     {
       "added_at": "2023-11-07 17:27:55",
       "album": {
-        "name": "Yo x Ti, Tu x Mi",
-        "url": "https://open.spotify.com/album/3844bY26oeSkqd06th4EYp"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 201040,
-      "name": "Yo x Ti, Tu x Mi",
-      "url": "https://open.spotify.com/track/7BlBVFwvbWvcwNcUarQmjk"
-    },
-    {
-      "added_at": "2023-11-07 17:27:55",
-      "album": {
         "name": "Algo M\u00e1gico",
         "url": "https://open.spotify.com/album/3wsTXNRun4T7fhNoSAG0dP"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 261603,
       "name": "Algo M\u00e1gico",
       "url": "https://open.spotify.com/track/0zlnHTHiBQ68ZCAmTw5ozm"
+    },
+    {
+      "added_at": "2023-11-07 17:27:55",
+      "album": {
+        "name": "23 Preguntas",
+        "url": "https://open.spotify.com/album/0iLhDl4hlkoBXLtsfhUg56"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 251221,
+      "name": "23 Preguntas",
+      "url": "https://open.spotify.com/track/5ANkjNH7elrxzggidjnH9v"
     },
     {
       "added_at": "2023-11-07 17:27:55",
@@ -1391,34 +1391,6 @@
     {
       "added_at": "2023-11-07 17:27:55",
       "album": {
-        "name": "Eleg\u00ed (feat. D\u00edmelo Flow)",
-        "url": "https://open.spotify.com/album/3j6ouZdjTVyddYH2XkMjYb"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "D\u00edmelo Flow",
-          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
-        }
-      ],
-      "duration_ms": 197721,
-      "name": "Eleg\u00ed (feat. D\u00edmelo Flow)",
-      "url": "https://open.spotify.com/track/50ZC4PM7hywH27RcCfViau"
-    },
-    {
-      "added_at": "2023-11-07 17:27:55",
-      "album": {
         "name": "Relaci\u00f3n (Remix)",
         "url": "https://open.spotify.com/album/2O985DZAb4i6M6iu4HWqSX"
       },
@@ -1447,6 +1419,34 @@
       "duration_ms": 247308,
       "name": "Relaci\u00f3n - Remix",
       "url": "https://open.spotify.com/track/35UUpTmrcFXNIVIN26ujXl"
+    },
+    {
+      "added_at": "2023-11-07 17:27:55",
+      "album": {
+        "name": "Eleg\u00ed (feat. D\u00edmelo Flow)",
+        "url": "https://open.spotify.com/album/3j6ouZdjTVyddYH2XkMjYb"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "D\u00edmelo Flow",
+          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
+        }
+      ],
+      "duration_ms": 197721,
+      "name": "Eleg\u00ed (feat. D\u00edmelo Flow)",
+      "url": "https://open.spotify.com/track/50ZC4PM7hywH27RcCfViau"
     },
     {
       "added_at": "2023-11-07 17:27:55",

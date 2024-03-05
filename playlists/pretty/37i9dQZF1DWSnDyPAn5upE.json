@@ -1,12 +1,12 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
-  "num_followers": 52096,
+  "num_followers": 52129,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5N2VjNzA5OWZiYmQ0ZTY0Mzk3NDFiZjEwYjczZjgyOTdkNTFmNDBi",
+  "snapshot_id": "MCw2M2JiMTYwNjllMTc1YWNmZjY0NDI5ZGYxZDAwMmZmZjI2ZDM3MzQw",
   "tracks": [
     {
       "added_at": "2023-10-12 18:05:50",
@@ -211,6 +211,22 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
+        "name": "Nepenthe",
+        "url": "https://open.spotify.com/album/2CXMjx34NYlVRCFH1MsOku"
+      },
+      "artists": [
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+        }
+      ],
+      "duration_ms": 272960,
+      "name": "Labyrinthine",
+      "url": "https://open.spotify.com/track/58OsQvr8IkoysLGiaLth6I"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
         "name": "Alter",
         "url": "https://open.spotify.com/album/4XO3DdBAjIIe6YI2a7iLza"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 566208,
       "name": "Entwined",
       "url": "https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
-        "name": "Nepenthe",
-        "url": "https://open.spotify.com/album/2CXMjx34NYlVRCFH1MsOku"
-      },
-      "artists": [
-        {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
-        }
-      ],
-      "duration_ms": 272960,
-      "name": "Labyrinthine",
-      "url": "https://open.spotify.com/track/58OsQvr8IkoysLGiaLth6I"
     },
     {
       "added_at": "2023-10-12 18:05:50",

@@ -1,12 +1,12 @@
 {
   "description": "Ride the bassline. Cover: Apashe",
-  "num_followers": 235075,
+  "num_followers": 235138,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGM1N2E2MjQ2YTNiMTM2ZTgxZGJhMDA1MTdjM2E2ZDg1ZTRhYzA1",
+  "snapshot_id": "MCw5YzRiNDU3ZmQyOTUzNWZlYTJjYTQ0MWM4YTllNjFhYWU3ZTRjZWNi",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -515,6 +515,30 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "BOTH",
+        "url": "https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "BOTH",
+      "url": "https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "TAKE IT OFF",
         "url": "https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW"
       },
@@ -587,46 +611,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "BOTH",
-        "url": "https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "BOTH",
-      "url": "https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Sunshine (My Girl)",
-        "url": "https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As"
-      },
-      "artists": [
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        }
-      ],
-      "duration_ms": 131250,
-      "name": "Sunshine (My Girl)",
-      "url": "https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Quest For Fire",
         "url": "https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 126774,
       "name": "RATATA",
       "url": "https://open.spotify.com/track/4wteGC0HtLeZWjDcczc4Pw"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Sunshine (My Girl)",
+        "url": "https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "duration_ms": 131250,
+      "name": "Sunshine (My Girl)",
+      "url": "https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Gimme That Bounce",
+        "url": "https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 217410,
+      "name": "Gimme That Bounce",
+      "url": "https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
         "url": "https://open.spotify.com/album/3RYTWuCl3BNAJSUkIo8Wnv"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 163147,
       "name": "PARADISE",
       "url": "https://open.spotify.com/track/12p3LJyuWdEh6bWFoc60Bk"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Gimme That Bounce",
-        "url": "https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 217410,
-      "name": "Gimme That Bounce",
-      "url": "https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "BEATS FOR THE UNDERGROUND",
+        "url": "https://open.spotify.com/album/79kzvy6zqbSZsSIxVK3flH"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 214527,
+      "name": "BEATS FOR THE UNDERGROUND",
+      "url": "https://open.spotify.com/track/62bjfb5YMLvZU44vfjJVxp"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Flip It",
         "url": "https://open.spotify.com/album/6pdKC8JtPq2fbz8er190xE"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 135000,
       "name": "Flip It",
       "url": "https://open.spotify.com/track/4NDhaxAmbKXM8LKrOPNxsy"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "BEATS FOR THE UNDERGROUND",
-        "url": "https://open.spotify.com/album/79kzvy6zqbSZsSIxVK3flH"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 214527,
-      "name": "BEATS FOR THE UNDERGROUND",
-      "url": "https://open.spotify.com/track/62bjfb5YMLvZU44vfjJVxp"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1543,6 +1543,26 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "FAME?",
+        "url": "https://open.spotify.com/album/7afE7fQMNPIS4EYhyEi55z"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "duration_ms": 142562,
+      "name": "FAME?",
+      "url": "https://open.spotify.com/track/5zn6eUXHpt3JjEB7XAXyaf"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Softly (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/3SE4pGhmsIgaElY5I1OOMa"
       },
@@ -1563,26 +1583,6 @@
       "duration_ms": 137142,
       "name": "Softly - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/58X8RJOiEXA1bkgUMPScXz"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "FAME?",
-        "url": "https://open.spotify.com/album/7afE7fQMNPIS4EYhyEi55z"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        },
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        }
-      ],
-      "duration_ms": 142562,
-      "name": "FAME?",
-      "url": "https://open.spotify.com/track/5zn6eUXHpt3JjEB7XAXyaf"
     },
     {
       "added_at": "2024-02-16 05:00:00",

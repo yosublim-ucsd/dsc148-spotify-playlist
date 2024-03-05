@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWhA27mtRFK.md) - [plain]
 
 > Open your mind to these classics from the golden era of New Age music\. Deuter on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,615 likes - 55 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,642 likes - 55 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWhA27mtRFK.md) - [plain]
 | 47 | [Morning Light Silhouettes 1](https://open.spotify.com/track/7qhqxUZim8dgGAe7dzhVlR) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Love](https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh) | 7:31 |
 | 48 | [Sea of Bliss](https://open.spotify.com/track/0zHmC4xmETE5wRhYaz8yUh) | [Don Slepian](https://open.spotify.com/artist/6nDzanmucFbxVfDdE2EX3h) | [Sea of Bliss](https://open.spotify.com/album/1Ik3Zj4WkedKLSctd1foQZ) | 29:32 |
 | 49 | [Encounter](https://open.spotify.com/track/1COW0wZN5HUK06Mu0CLwVw) | [Michael Stearns](https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD) | [Encounter](https://open.spotify.com/album/1VD2FJa1F8uSh5yFe53KIs) | 3:29 |
-| 50 | [The Hills of Home](https://open.spotify.com/track/0lNRbszd01OAg61o2zFhMu) | [Kevin Braheny](https://open.spotify.com/artist/1YcWvzUpcRBv85LisrnA0D), [Tim Clark](https://open.spotify.com/artist/40OJq58FfNTxJsJsC0fgXM) | [Rain](https://open.spotify.com/album/5pkIek5HIa6m0u6WpnmsXb) | 7:18 |
+| 50 | [The Hills of Home](https://open.spotify.com/track/0lNRbszd01OAg61o2zFhMu) | [Kevin Braheny](https://open.spotify.com/artist/1YcWvzUpcRBv85LisrnA0D), [Tim Clark](https://open.spotify.com/artist/2W4LzrzLKRyasdZSlGbWN1) | [Rain](https://open.spotify.com/album/5pkIek5HIa6m0u6WpnmsXb) | 7:18 |
 | 51 | [Sunset Village](https://open.spotify.com/track/7j5hAcRDyRwSDdCl4EKawg) | [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe) | [Keyboard Fantasies](https://open.spotify.com/album/3U4V4WwMxXaHIjRnDQqaXK) | 7:21 |
 | 52 | [Astral Travel](https://open.spotify.com/track/0Pcni1AGKWKmhOYvUj6Uhx) | [Paul Horn](https://open.spotify.com/artist/1LI9iEq0loU9cdIa1dxVDj) | [Traveler](https://open.spotify.com/album/66HqweHbS44za5lx2yYYDT) | 5:29 |
 | 53 | [Singing Bowl](https://open.spotify.com/track/6HUnasN0QtdqSXa2QSUsmL) | [Paul Horn](https://open.spotify.com/artist/1LI9iEq0loU9cdIa1dxVDj), [Keola Beamer](https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY), [Christopher Hedge](https://open.spotify.com/artist/7D4tkMk6hIpagbLrw3j7Ji) | [Himalayan Sessions](https://open.spotify.com/album/1PVqJVYkSZ5mYyg3AybLNw) | 9:59 |
 | 54 | [First Stage \- A](https://open.spotify.com/track/3MvBKhKe9mI1idiBgKjORo) | [OSHO](https://open.spotify.com/artist/63Cd2A4y0kWaLw0yxYjo2F), [Karunesh](https://open.spotify.com/artist/4M6YdvdCPW1fvQYbLwmNWZ) | [Osho Chakra Sounds Meditation™](https://open.spotify.com/album/2zhADYsVJ3SCwjPBH5neZM) | 14:36 |
 | 55 | [Rising Sun](https://open.spotify.com/track/3eFvPXHvHhjCbi48GaDVGq) | [Kitaro](https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY) | [Oasis \[Remastered\]](https://open.spotify.com/album/3jjaMGNHEM7I4PyzryqmbA) | 6:24 |
 
-Snapshot ID: `MCxhZDEzMmMyNGVlYTJiNGRlMmZjYjk3MDAxMDFjYWZlZDY2OGJkYmM5`
+Snapshot ID: `MCwzYWI2ZmZmM2NkZDQxZTZkMGQxMDM2YzhjM2EwNzFiYWZmZjZjODg5`

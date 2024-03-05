@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-2,370 songs - 5 day 6 hr 23 min
+2,371 songs - 5 day 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,7 +278,7 @@
 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 | 2024-01-23 |  |
 | [Bloody Mary](https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:04 | 2022-12-04 | 2022-12-24 |
 | [Bloody Mary \(Sped Up TikTok Remix\) \[from "Wednesday Addams"\]](https://open.spotify.com/track/1GuhLLCyVhVSfbNZ0581LW) | [Pablo Baker](https://open.spotify.com/artist/5ExD890I8LHDfkCSAxeByU) | [Bloody Mary \(Sped Up TikTok Remix\) \[from "Wednesday Addams"\]](https://open.spotify.com/album/5O87dPVVPnoqoG3VD0E8gG) | 3:15 | 2023-01-15 | 2023-01-26 |
-| [Bloom](https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Bloom](https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ) | 2:55 | 2024-02-27 |  |
+| [Bloom](https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Bloom](https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ) | 2:55 | 2024-02-27 | 2024-03-05 |
 | [Blue Hair](https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Death of a Party Girl](https://open.spotify.com/album/5kFjYk3umY8Pu1lymIJLVy) | 3:37 | 2023-02-15 | 2023-04-01 |
 | [BM \(London View\)](https://open.spotify.com/track/2swRdG3vAk5bYBR3oSf1cg) | [OTP](https://open.spotify.com/artist/3AFt30387waHIjjDL63XeI) | [BM \(London View\)](https://open.spotify.com/album/4oB0i1S43BE1uM7eopeurT) | 2:44 | 2022-01-04 | 2022-01-19 |
 | [Body Bag](https://open.spotify.com/track/1vuhNiQZTPkmnNJ0xNsf5S) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Body Bag](https://open.spotify.com/album/7bZMcP6paQcjkuLwVkB7aN) | 3:16 | 2022-07-14 | 2022-07-20 |
@@ -1636,6 +1636,7 @@
 | [prove it](https://open.spotify.com/track/5wttBUDyaHAR5q9fYnN3YF) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:27 | 2024-01-30 | 2024-02-02 |
 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 | 2022-05-17 | 2022-06-08 |
 | [PSA](https://open.spotify.com/track/6T5i0o62ZyfHRRHHihYJ1n) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu) | [The D.O.A\. Tape](https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD) | 1:53 | 2021-12-31 | 2022-01-06 |
+| [Psycho](https://open.spotify.com/track/6D8zVrXxtOfJ6JZXV1WYRh) | [Jack Kittel](https://open.spotify.com/artist/5cXJERCnv50nZBXCk8Zq9X) | [Psycho](https://open.spotify.com/album/61aNBBIj2eIN1HINjED86a) | 3:43 | 2024-03-04 |  |
 | [PUFFIN ON ZOOTIEZ](https://open.spotify.com/track/1qMMYpVatbRITKCfq1gasi) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 2:52 | 2022-05-24 | 2022-06-01 |
 | [Punk Tactics](https://open.spotify.com/track/2KBYPTSTHjYYOPACrFTkPy) | [Joey Valence](https://open.spotify.com/artist/6BkiL5nhcwWK6JqWbBjNgu), [Brae](https://open.spotify.com/artist/1QGptNgo1M6cD7EjrFZmRp) | [Punk Tactics](https://open.spotify.com/album/7pG2QdrVFNTid1hqezx5dH) | 2:23 | 2022-05-25 | 2022-07-17 |
 | [Pure As The Driven Snow \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/6yQwizH2mspw25bW6UuccH) | [Rachel Zegler](https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3), [The Covey Band](https://open.spotify.com/artist/4qH48Bc0oZ12M7TdGB7QVi) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 3:53 | 2023-12-05 | 2023-12-13 |

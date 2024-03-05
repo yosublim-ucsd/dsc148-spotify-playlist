@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music by independent artists and labels\. Cover: liza\. Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,541 likes - 90 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,598 likes - 90 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 89 | [Sinister](https://open.spotify.com/track/5g3VLhRVLUpWJghanBJkMm) | [Michael Gerow](https://open.spotify.com/artist/3Wbs390oASVP3AFZz937tl) | [Sinister](https://open.spotify.com/album/2kOKgoaflXbstlzKnc9V7T) | 2:57 |
 | 90 | [pure violence](https://open.spotify.com/track/4onRphOELkvQ04sPaPQ2Ut) | [Ava Morse](https://open.spotify.com/artist/5oPCa0GsQjPlRdOdFRoY6Z) | [pure violence](https://open.spotify.com/album/7fPsKJHOMQT11iNN2crFKu) | 2:48 |
 
-Snapshot ID: `MCw3MTc1MTdjMGEzMGQ5NjdiZmJiYzlkZGRlYzA2OGJmM2YwNWViMDc1`
+Snapshot ID: `MCw2Zjg5ZDY3YzY5OGI3NTEzZGM1NTNkOGVjZTQ5NjA0N2Q0YTBjNDgx`

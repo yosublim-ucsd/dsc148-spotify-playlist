@@ -1,12 +1,12 @@
 {
   "description": "L'unica party playlist di cui hai bisogno, sempre aggiornata \ud83c\udf7e Top hit italiane e internazionali! ",
-  "num_followers": 325536,
+  "num_followers": 325555,
   "original_name": "Party 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjMzNGU0YTE2ZDVmZjYzYmMxY2YzZmZkMGUxNWVkZGU4NDIzOGVj",
+  "snapshot_id": "MCw5ZDRiZjZjOTdjNjI1ZmQwNGQ1NDM1ZmVmZWRjNzBhZTNlNDJiOWU0",
   "tracks": [
     {
       "added_at": "2024-02-28 14:08:13",
@@ -275,22 +275,26 @@
     {
       "added_at": "2024-02-28 14:08:13",
       "album": {
-        "name": "Shakira: Bzrp Music Sessions, Vol. 53",
-        "url": "https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg"
+        "name": "Boyz In Paris (with VINAI)",
+        "url": "https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0"
       },
       "artists": [
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+          "name": "Marnik",
+          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
         },
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        },
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
         }
       ],
-      "duration_ms": 214945,
-      "name": "Shakira: Bzrp Music Sessions, Vol. 53",
-      "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
+      "duration_ms": 151589,
+      "name": "Boyz In Paris (with VINAI)",
+      "url": "https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4"
     },
     {
       "added_at": "2024-02-28 14:08:13",
@@ -315,26 +319,22 @@
     {
       "added_at": "2024-02-28 14:08:13",
       "album": {
-        "name": "Boyz In Paris (with VINAI)",
-        "url": "https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0"
+        "name": "Shakira: Bzrp Music Sessions, Vol. 53",
+        "url": "https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg"
       },
       "artists": [
         {
-          "name": "Marnik",
-          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         },
         {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
-        },
-        {
-          "name": "VINAI",
-          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 151589,
-      "name": "Boyz In Paris (with VINAI)",
-      "url": "https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4"
+      "duration_ms": 214945,
+      "name": "Shakira: Bzrp Music Sessions, Vol. 53",
+      "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
     },
     {
       "added_at": "2024-02-28 14:08:13",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-02-28 14:08:13",
       "album": {
-        "name": "The Business",
-        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "The Business",
-      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
-    },
-    {
-      "added_at": "2024-02-28 14:08:13",
-      "album": {
         "name": "L'Amour Toujours",
         "url": "https://open.spotify.com/album/61hGQNFwmqGHXm5eeMkd4d"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 206070,
       "name": "Bam Bam (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
+    },
+    {
+      "added_at": "2024-02-28 14:08:13",
+      "album": {
+        "name": "The Business",
+        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "The Business",
+      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
     },
     {
       "added_at": "2024-02-28 14:08:13",
@@ -1419,6 +1419,30 @@
     {
       "added_at": "2024-02-28 14:08:13",
       "album": {
+        "name": "Perfect (Exceeder)",
+        "url": "https://open.spotify.com/album/2eScJnMQTMY0WYPz2MXWsp"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Mason",
+          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
+        },
+        {
+          "name": "Princess Superstar",
+          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
+        }
+      ],
+      "duration_ms": 151929,
+      "name": "Perfect (Exceeder)",
+      "url": "https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi"
+    },
+    {
+      "added_at": "2024-02-28 14:08:13",
+      "album": {
         "name": "SUPERMODEL",
         "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
       },
@@ -1447,30 +1471,6 @@
       "duration_ms": 241970,
       "name": "Love Tonight (Edit)",
       "url": "https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP"
-    },
-    {
-      "added_at": "2024-02-28 14:08:13",
-      "album": {
-        "name": "Perfect (Exceeder)",
-        "url": "https://open.spotify.com/album/2eScJnMQTMY0WYPz2MXWsp"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Mason",
-          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
-        },
-        {
-          "name": "Princess Superstar",
-          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
-        }
-      ],
-      "duration_ms": 151929,
-      "name": "Perfect (Exceeder)",
-      "url": "https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi"
     },
     {
       "added_at": "2024-02-28 14:08:13",

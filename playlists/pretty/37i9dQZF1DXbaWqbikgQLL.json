@@ -1,12 +1,12 @@
 {
   "description": "Antes de entrar, permita salir.",
-  "num_followers": 17987,
+  "num_followers": 18026,
   "original_name": "Coraz\u00f3n Chilango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDE3MDAzNTUwOWQ4NzgwNDYwY2YxNmIzODc2ZjQzNTc1YWMzN2E0",
+  "snapshot_id": "MCxiNzc3YzEyNzQ0ZWM5YWI5YTBmMTk1ZTI2ZDRlYjQwZjlmNzQzM2Fk",
   "tracks": [
     {
       "added_at": "2023-11-09 00:38:36",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Persona Ideal",
-        "url": "https://open.spotify.com/album/3YuzaY1bX9uhlhWR0f19mP"
-      },
-      "artists": [
-        {
-          "name": "Adolescent's Orquesta",
-          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
-        }
-      ],
-      "duration_ms": 279849,
-      "name": "Persona Ideal - Me Tengo Que Ir",
-      "url": "https://open.spotify.com/track/4UHRMwbbiZ7tkeEkhyN7iB"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Llorar",
         "url": "https://open.spotify.com/album/7Jg8fZez7GpqByiKAnej88"
       },
@@ -375,24 +359,8 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Manos de Tijera",
-        "url": "https://open.spotify.com/album/2JdnWfuorkwlQFpiebOzHj"
-      },
-      "artists": [
-        {
-          "name": "Yiyo Sarante",
-          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
-        }
-      ],
-      "duration_ms": 230112,
-      "name": "Manos de Tijera",
-      "url": "https://open.spotify.com/track/5ds1Hh3lo4JUF2vflqyayK"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
-        "name": "Reclamando Nuestro Espacio",
-        "url": "https://open.spotify.com/album/22oTpQbBrBfkrqMsumH3OX"
+        "name": "Persona Ideal",
+        "url": "https://open.spotify.com/album/3YuzaY1bX9uhlhWR0f19mP"
       },
       "artists": [
         {
@@ -400,9 +368,9 @@
           "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
         }
       ],
-      "duration_ms": 248555,
-      "name": "Anhelo",
-      "url": "https://open.spotify.com/track/68runhwF0SdEN1DFSadXWk"
+      "duration_ms": 279849,
+      "name": "Persona Ideal - Me Tengo Que Ir",
+      "url": "https://open.spotify.com/track/4UHRMwbbiZ7tkeEkhyN7iB"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -419,6 +387,22 @@
       "duration_ms": 214880,
       "name": "Como te extra\u00f1o mi amor",
       "url": "https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Manos de Tijera",
+        "url": "https://open.spotify.com/album/2JdnWfuorkwlQFpiebOzHj"
+      },
+      "artists": [
+        {
+          "name": "Yiyo Sarante",
+          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
+        }
+      ],
+      "duration_ms": 230112,
+      "name": "Manos de Tijera",
+      "url": "https://open.spotify.com/track/5ds1Hh3lo4JUF2vflqyayK"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -503,6 +487,38 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
+        "name": "Reclamando Nuestro Espacio",
+        "url": "https://open.spotify.com/album/22oTpQbBrBfkrqMsumH3OX"
+      },
+      "artists": [
+        {
+          "name": "Adolescent's Orquesta",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
+        }
+      ],
+      "duration_ms": 248555,
+      "name": "Anhelo",
+      "url": "https://open.spotify.com/track/68runhwF0SdEN1DFSadXWk"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Entrega De Amor",
+        "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 176560,
+      "name": "Entrega De Amor",
+      "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
         "name": "Oye Mujer",
         "url": "https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1"
       },
@@ -543,38 +559,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Entrega De Amor",
-        "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 176560,
-      "name": "Entrega De Amor",
-      "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
-        "name": "B\u00fascame",
-        "url": "https://open.spotify.com/album/76GMXDdpCLC8NwXtv37yYj"
-      },
-      "artists": [
-        {
-          "name": "Adolescent's Orquesta",
-          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
-        }
-      ],
-      "duration_ms": 231410,
-      "name": "Aquel Lugar",
-      "url": "https://open.spotify.com/track/16c6awlmGfeusU7zoVu5yc"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Te Voy A Enamorar",
         "url": "https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp"
       },
@@ -607,6 +591,22 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
+        "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
+      },
+      "artists": [
+        {
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+        }
+      ],
+      "duration_ms": 211813,
+      "name": "Muchachita Consentida",
+      "url": "https://open.spotify.com/track/1zVDbrBG7zCd6AXGLmbGj4"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
         "name": "De Verdad (15 Super Exitos)",
         "url": "https://open.spotify.com/album/7x4yJrZW7V1XdazGp7owXr"
       },
@@ -623,18 +623,18 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Cicatrices",
-        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
+        "name": "B\u00fascame",
+        "url": "https://open.spotify.com/album/76GMXDdpCLC8NwXtv37yYj"
       },
       "artists": [
         {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+          "name": "Adolescent's Orquesta",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
         }
       ],
-      "duration_ms": 211813,
-      "name": "Muchachita Consentida",
-      "url": "https://open.spotify.com/track/1zVDbrBG7zCd6AXGLmbGj4"
+      "duration_ms": 231410,
+      "name": "Aquel Lugar",
+      "url": "https://open.spotify.com/track/16c6awlmGfeusU7zoVu5yc"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Simplemente",
-        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 342520,
-      "name": "Triste canci\u00f3n",
-      "url": "https://open.spotify.com/track/11dn3mAagE0hOvd35rBNeV"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Una Lluvia De Rosas",
         "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 181306,
       "name": "17 A\u00f1os",
       "url": "https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Simplemente",
+        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 342520,
+      "name": "Triste canci\u00f3n",
+      "url": "https://open.spotify.com/track/11dn3mAagE0hOvd35rBNeV"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -715,18 +715,18 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "De Verdad (15 Super Exitos)",
-        "url": "https://open.spotify.com/album/7x4yJrZW7V1XdazGp7owXr"
+        "name": "Pasi\u00f3n Y Cumbia",
+        "url": "https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1"
       },
       "artists": [
         {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
         }
       ],
-      "duration_ms": 283213,
-      "name": "M\u00eda",
-      "url": "https://open.spotify.com/track/6HJCGXNww93AIaaxUb7C3O"
+      "duration_ms": 213026,
+      "name": "Amor Regresa",
+      "url": "https://open.spotify.com/track/3nbCTU4k0l68vml8nDajwU"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Pasi\u00f3n Y Cumbia",
-        "url": "https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1"
+        "name": "De Verdad (15 Super Exitos)",
+        "url": "https://open.spotify.com/album/7x4yJrZW7V1XdazGp7owXr"
       },
       "artists": [
         {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
         }
       ],
-      "duration_ms": 213026,
-      "name": "Amor Regresa",
-      "url": "https://open.spotify.com/track/3nbCTU4k0l68vml8nDajwU"
+      "duration_ms": 283213,
+      "name": "M\u00eda",
+      "url": "https://open.spotify.com/track/6HJCGXNww93AIaaxUb7C3O"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Una Lluvia De Rosas",
-        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 194560,
-      "name": "20 Rosas",
-      "url": "https://open.spotify.com/track/5zOWyxUVE0i9Ziwm6cE7aF"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Guaracha Sabrosona",
         "url": "https://open.spotify.com/album/0UZNJ0LcKDFyozURk4DUKJ"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 198040,
       "name": "Las piedras rodantes",
       "url": "https://open.spotify.com/track/1gd7Q7mxviLWkG5HgvAMAc"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Una Lluvia De Rosas",
+        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 194560,
+      "name": "20 Rosas",
+      "url": "https://open.spotify.com/track/5zOWyxUVE0i9Ziwm6cE7aF"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
+        "name": "Corazoncito Pum Pum",
+        "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 228675,
+      "name": "Vida No Te Vayas",
+      "url": "https://open.spotify.com/track/6GU3eVzFRKEFme03ut4b6G"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
         "name": "Grupo Ca\u00f1averal, Vol. 3",
         "url": "https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 272266,
       "name": "Fabricando Fantas\u00edas - Salsa Version",
       "url": "https://open.spotify.com/track/5bkWgrKyNhMcriQP3CrHEA"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
-        "name": "Corazoncito Pum Pum",
-        "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 228675,
-      "name": "Vida No Te Vayas",
-      "url": "https://open.spotify.com/track/6GU3eVzFRKEFme03ut4b6G"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 359226,
-      "name": "Nuestro Sue\u00f1o",
-      "url": "https://open.spotify.com/track/0g9d2hcBECm8eOuxG9w5kH"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Qu\u00e9 Cante El Amor",
         "url": "https://open.spotify.com/album/0vPT6w0dqWEo45IJuqqAuo"
       },
@@ -1391,6 +1375,38 @@
       "duration_ms": 188917,
       "name": "Mi Mu\u00f1equita Sint\u00e9tica",
       "url": "https://open.spotify.com/track/7KHDYWsMQJYemuYR08gtU6"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 359226,
+      "name": "Nuestro Sue\u00f1o",
+      "url": "https://open.spotify.com/track/0g9d2hcBECm8eOuxG9w5kH"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Exitos Originales",
+        "url": "https://open.spotify.com/album/1XonZgPSw1RXw5oWJdAlYy"
+      },
+      "artists": [
+        {
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+        }
+      ],
+      "duration_ms": 310973,
+      "name": "Si Supieras",
+      "url": "https://open.spotify.com/track/2YzhQEikYymq0HR9oc0EGT"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -1427,38 +1443,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Cumbia Buena",
-        "url": "https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB"
-      },
-      "artists": [
-        {
-          "name": "Grupo la Cumbia",
-          "url": "https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s"
-        }
-      ],
-      "duration_ms": 213791,
-      "name": "Cumbia Buena",
-      "url": "https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
-        "name": "Exitos Originales",
-        "url": "https://open.spotify.com/album/1XonZgPSw1RXw5oWJdAlYy"
-      },
-      "artists": [
-        {
-          "name": "Maelo Ruiz",
-          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
-        }
-      ],
-      "duration_ms": 310973,
-      "name": "Si Supieras",
-      "url": "https://open.spotify.com/track/2YzhQEikYymq0HR9oc0EGT"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Te Voy A Enamorar",
         "url": "https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 230266,
       "name": "Que Levante La Mano",
       "url": "https://open.spotify.com/track/36TIklA7o1T0eXS83n1amI"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Cumbia Buena",
+        "url": "https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB"
+      },
+      "artists": [
+        {
+          "name": "Grupo la Cumbia",
+          "url": "https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s"
+        }
+      ],
+      "duration_ms": 213791,
+      "name": "Cumbia Buena",
+      "url": "https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Galy Galiano 30 A\u00f1os",
-        "url": "https://open.spotify.com/album/07fXyhm97NonPri4FLOqyy"
-      },
-      "artists": [
-        {
-          "name": "Galy Galiano",
-          "url": "https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT"
-        }
-      ],
-      "duration_ms": 438026,
-      "name": "La Cita",
-      "url": "https://open.spotify.com/track/1Wzt0dNLjAqN3OzGwWeGH5"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Caf\u00e9 Tacvba",
         "url": "https://open.spotify.com/album/4nTUHZSed3ZiQjKs8f5Zbr"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 205026,
       "name": "Las batallas",
       "url": "https://open.spotify.com/track/4HTQcxErjqv1Up3ZOoJ1di"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Galy Galiano 30 A\u00f1os",
+        "url": "https://open.spotify.com/album/07fXyhm97NonPri4FLOqyy"
+      },
+      "artists": [
+        {
+          "name": "Galy Galiano",
+          "url": "https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT"
+        }
+      ],
+      "duration_ms": 438026,
+      "name": "La Cita",
+      "url": "https://open.spotify.com/track/1Wzt0dNLjAqN3OzGwWeGH5"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Serie Platino",
-        "url": "https://open.spotify.com/album/76LbBAaJ1PqZU9fADHiqqt"
-      },
-      "artists": [
-        {
-          "name": "Galy Galiano",
-          "url": "https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT"
-        }
-      ],
-      "duration_ms": 303800,
-      "name": "Quien Entiende Este Amor",
-      "url": "https://open.spotify.com/track/5MVbhLRhOLCifhbjwVyZPX"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Mar\u00eda (Remastered)",
         "url": "https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 215973,
       "name": "El Afilador",
       "url": "https://open.spotify.com/track/7ob6SovekT6cESeyUHiFQn"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Serie Platino",
+        "url": "https://open.spotify.com/album/76LbBAaJ1PqZU9fADHiqqt"
+      },
+      "artists": [
+        {
+          "name": "Galy Galiano",
+          "url": "https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT"
+        }
+      ],
+      "duration_ms": 303800,
+      "name": "Quien Entiende Este Amor",
+      "url": "https://open.spotify.com/track/5MVbhLRhOLCifhbjwVyZPX"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Folklore Tropical",
-        "url": "https://open.spotify.com/album/3U8KQJKMc4G13gGkVYgDRq"
-      },
-      "artists": [
-        {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
-        }
-      ],
-      "duration_ms": 283226,
-      "name": "No Voy A Llorar",
-      "url": "https://open.spotify.com/track/2hlpyDeBu0KnJHv5dqHvgh"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "El Poder De La Cumbia",
         "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
       },
@@ -2211,6 +2195,22 @@
       "duration_ms": 205408,
       "name": "Suena Perreo",
       "url": "https://open.spotify.com/track/0SCknxoIsIIzn6hhrwwg39"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Folklore Tropical",
+        "url": "https://open.spotify.com/album/3U8KQJKMc4G13gGkVYgDRq"
+      },
+      "artists": [
+        {
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        }
+      ],
+      "duration_ms": 283226,
+      "name": "No Voy A Llorar",
+      "url": "https://open.spotify.com/track/2hlpyDeBu0KnJHv5dqHvgh"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Los Reyes de la Cumbia Sonidera (En M\u00e9xico)",
-        "url": "https://open.spotify.com/album/23WjnVpH4goH0hbfQ7Xs8B"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kual?",
-          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
-        }
-      ],
-      "duration_ms": 311386,
-      "name": "Rumba Frenesi",
-      "url": "https://open.spotify.com/track/0LaFg7YyQMaHkWyj497YLI"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Legal Alien - Top Secrets",
         "url": "https://open.spotify.com/album/3lrV32bX7EIcNKn4OHXrkQ"
       },
@@ -2323,6 +2307,38 @@
       "duration_ms": 414380,
       "name": "El Gran Varon",
       "url": "https://open.spotify.com/track/3TyMFBLPobtMaH8oeY0sMP"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Rock En Espa\u00f1ol - Lo Mejor De Tex Tex",
+        "url": "https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Te Vas a Acordar de M\u00ed",
+      "url": "https://open.spotify.com/track/1kaLpH5uG4l7RbLKYU7bF5"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Los Reyes de la Cumbia Sonidera (En M\u00e9xico)",
+        "url": "https://open.spotify.com/album/23WjnVpH4goH0hbfQ7Xs8B"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kual?",
+          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
+        }
+      ],
+      "duration_ms": 311386,
+      "name": "Rumba Frenesi",
+      "url": "https://open.spotify.com/track/0LaFg7YyQMaHkWyj497YLI"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -2375,22 +2391,6 @@
       "duration_ms": 261591,
       "name": "Mujer Ara\u00f1a",
       "url": "https://open.spotify.com/track/2fDsUZOpQriPe84trnuwXs"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
-        "name": "Rock En Espa\u00f1ol - Lo Mejor De Tex Tex",
-        "url": "https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Te Vas a Acordar de M\u00ed",
-      "url": "https://open.spotify.com/track/1kaLpH5uG4l7RbLKYU7bF5"
     },
     {
       "added_at": "2023-11-09 00:38:36",

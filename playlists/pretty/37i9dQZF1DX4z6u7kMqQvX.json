@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 105537,
+  "num_followers": 105542,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTUxY2E1OTMyOWM5YmE0ZTY1MDVjNDJiZjdhYTgyZTUzYWY2OWJh",
+  "snapshot_id": "MCw4OTBhNDc5NGVhMDBlNzA0ZTliYjNkMzRmMzM5NDJjM2ViZjAyZWFl",
   "tracks": [
     {
       "added_at": "2024-02-29 22:12:31",
@@ -407,6 +407,26 @@
     {
       "added_at": "2024-02-29 22:12:31",
       "album": {
+        "name": "Chica Acuario",
+        "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
+      },
+      "artists": [
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        },
+        {
+          "name": "Goyo Degano",
+          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
+        }
+      ],
+      "duration_ms": 207163,
+      "name": "Chica Acuario",
+      "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
+    },
+    {
+      "added_at": "2024-02-29 22:12:31",
+      "album": {
         "name": "Feroza",
         "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
       },
@@ -495,26 +515,6 @@
       "duration_ms": 186386,
       "name": "Amor De Verano",
       "url": "https://open.spotify.com/track/0ftQLiC3Whfsb3b6nWAoPK"
-    },
-    {
-      "added_at": "2024-02-29 22:12:31",
-      "album": {
-        "name": "Chica Acuario",
-        "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
-      },
-      "artists": [
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        },
-        {
-          "name": "Goyo Degano",
-          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
-        }
-      ],
-      "duration_ms": 207163,
-      "name": "Chica Acuario",
-      "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
     },
     {
       "added_at": "2024-02-29 22:12:31",
@@ -1203,6 +1203,26 @@
     {
       "added_at": "2024-02-29 22:12:31",
       "album": {
+        "name": "GUIAME",
+        "url": "https://open.spotify.com/album/057ObaWRT9nY13cHAEggco"
+      },
+      "artists": [
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        },
+        {
+          "name": "Evlay",
+          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
+        }
+      ],
+      "duration_ms": 198676,
+      "name": "GUIAME",
+      "url": "https://open.spotify.com/track/0b37vDgD47kRYes63nKX5v"
+    },
+    {
+      "added_at": "2024-02-29 22:12:31",
+      "album": {
         "name": "Madre Padre Marte",
         "url": "https://open.spotify.com/album/7jio1zy0Bp4PiUXKdwfDMk"
       },
@@ -1247,26 +1267,6 @@
       "duration_ms": 186000,
       "name": "Tuami",
       "url": "https://open.spotify.com/track/1UbSaStuc69LXMOTQhlEtS"
-    },
-    {
-      "added_at": "2024-02-29 22:12:31",
-      "album": {
-        "name": "GUIAME",
-        "url": "https://open.spotify.com/album/057ObaWRT9nY13cHAEggco"
-      },
-      "artists": [
-        {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        },
-        {
-          "name": "Evlay",
-          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
-        }
-      ],
-      "duration_ms": 198676,
-      "name": "GUIAME",
-      "url": "https://open.spotify.com/track/0b37vDgD47kRYes63nKX5v"
     },
     {
       "added_at": "2024-02-29 22:12:31",

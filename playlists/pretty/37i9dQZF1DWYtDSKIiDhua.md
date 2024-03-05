@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: moon tang
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,837 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,861 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 99 | [Candlelight \- Spotify Singles](https://open.spotify.com/track/326EM9zAMPmr1JkGtzHnH6) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Spotify Singles](https://open.spotify.com/album/7ChLJ2d4pLNKIrLSuGl8Df) | 3:21 |
 | 100 | [Forever](https://open.spotify.com/track/5DOwCpxn4BSZjdjUMSIHTM) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [CiCi](https://open.spotify.com/album/2SCqEnMiuSZG4scznyel9x) | 2:55 |
 
-Snapshot ID: `MCw3ZWRlMDZlMjZhZjI1ODk3MmExMzg0OGUyNDhkNDY5ZjZlYjJlN2Uz`
+Snapshot ID: `MCxmZjBlOTRmNGQ0YzcyNWNjNDFmNGQ0NzQ2MmZiZTNhYmU3MGIyY2M4`

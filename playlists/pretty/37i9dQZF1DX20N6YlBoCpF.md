@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/5z6yUIAu8Em61VSjf5oiBs?si=HMOswb82QFisT\-NqNYffvA">Anzélle</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,538 likes - 51 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,564 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,11 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 43 | [Helemal](https://open.spotify.com/track/1zbUPXvrhPgjuO5ZFvN75z) | [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [Helemal](https://open.spotify.com/album/4bLIjuCO7RnAD6HrB1aAKR) | 3:47 |
 | 44 | [Ek Mis Jou \- Remix](https://open.spotify.com/track/2usZ51LNLgkrlTxNjLiLBu) | [Rohan Britz](https://open.spotify.com/artist/7umJ5LzbtNl0EGYiVEzzeo) | [Ek Mis Jou \(Remix\)](https://open.spotify.com/album/3um8Q9pJybmjzkgZ8EWvFc) | 3:35 |
 | 45 | [Tannie Katesbes](https://open.spotify.com/track/7GDFwUneFNfDaiG1odAn9x) | [FATMAN](https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3) | [Tannie Katesbes](https://open.spotify.com/album/3MONfNQ8xdPBx77X5J4D3N) | 3:00 |
-| 46 | [Saaragaand](https://open.spotify.com/track/1Zg6bEg6lGkus6uV2VPdzO) | [Arno Jordaan](https://open.spotify.com/artist/1BqYfwv0S0mnUZzGp4PfPE), [Louis van Lill](https://open.spotify.com/artist/1vqMsqSbWQUOoZNCmPnjY3) | [Saaragaand](https://open.spotify.com/album/7GaO0jPUBu1hJ92owaFkY4) | 3:06 |
-| 47 | [In My Oë](https://open.spotify.com/track/0mTqau9DRQi9w9hTZUqFrr) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Estetika](https://open.spotify.com/album/0F5JB3HCxOrNuB2mIQqKjS) | 2:30 |
-| 48 | [Hulle Weet Nie Wat Ons Weet Nie](https://open.spotify.com/track/6pLrj2Ljugd4wYH0KGmLys) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Hulle Weet Nie Wat Ons Weet Nie](https://open.spotify.com/album/0hY9ExfnoBSSNhx7aZFwy2) | 3:35 |
-| 49 | [Ons Sal Jonk Bly](https://open.spotify.com/track/4YQpy6oUJuNUFASeBLoO5r) | [Nicholis Louw](https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI) | [Ons Sal Jonk Bly](https://open.spotify.com/album/4VT7eCzFTDo2iXaEDREPVP) | 4:25 |
-| 50 | [Tappit](https://open.spotify.com/track/3m6AtGy5lijel7dhIjCj7a) | [Lianie May](https://open.spotify.com/artist/4twrMtMv4MY0x42vuaar9B) | [Tappit](https://open.spotify.com/album/2LEfxZDYdETMg5MSCjtOYQ) | 3:05 |
-| 51 | [Die Wors Song](https://open.spotify.com/track/2UCudHlzKNBcJ1QVhZuce5) | [Peer Papsak](https://open.spotify.com/artist/5tIdqrPNjJrG3JpyYY4D25) | [Die Wors Song](https://open.spotify.com/album/3tKymqLeAllgjh0LCcgI7C) | 2:45 |
+| 46 | [In My Oë](https://open.spotify.com/track/0mTqau9DRQi9w9hTZUqFrr) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Estetika](https://open.spotify.com/album/0F5JB3HCxOrNuB2mIQqKjS) | 2:30 |
+| 47 | [Hulle Weet Nie Wat Ons Weet Nie](https://open.spotify.com/track/6pLrj2Ljugd4wYH0KGmLys) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Hulle Weet Nie Wat Ons Weet Nie](https://open.spotify.com/album/0hY9ExfnoBSSNhx7aZFwy2) | 3:35 |
+| 48 | [Ons Sal Jonk Bly](https://open.spotify.com/track/4YQpy6oUJuNUFASeBLoO5r) | [Nicholis Louw](https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI) | [Ons Sal Jonk Bly](https://open.spotify.com/album/4VT7eCzFTDo2iXaEDREPVP) | 4:25 |
+| 49 | [Tappit](https://open.spotify.com/track/3m6AtGy5lijel7dhIjCj7a) | [Lianie May](https://open.spotify.com/artist/4twrMtMv4MY0x42vuaar9B) | [Tappit](https://open.spotify.com/album/2LEfxZDYdETMg5MSCjtOYQ) | 3:05 |
+| 50 | [Die Wors Song](https://open.spotify.com/track/2UCudHlzKNBcJ1QVhZuce5) | [Peer Papsak](https://open.spotify.com/artist/5tIdqrPNjJrG3JpyYY4D25) | [Die Wors Song](https://open.spotify.com/album/3tKymqLeAllgjh0LCcgI7C) | 2:45 |
 
-Snapshot ID: `MCw1NzRiMGFkNjI4MTgzODU2Yjk0OTRkZWRhMjc3MGM4OWE5ZmYxYzIw`
+Snapshot ID: `MCwwMjhiMzU2NWJlNmE5ZTBmNjFkM2NmMTVhNjQyZjNkMTRjOGI2NzU0`

@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 55273,
+  "2024-03-05": 55322,
   "date_first_scraped": "2023-12-07",
   "description": "Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party. For submissions: j-dosch@freenet.de",
   "name": "Beach Lounge 2024 \ud83c\udf34 IBIZA Summer Chillout",
@@ -337,6 +337,28 @@
       "duration_ms": 171428,
       "name": "Back to Summer",
       "url": "https://open.spotify.com/track/4YdF8yF2eKomyElIdMD4Vr"
+    },
+    {
+      "album": {
+        "name": "Best Days",
+        "url": "https://open.spotify.com/album/21weltfdc5SmIE2ogzT0FF"
+      },
+      "artists": [
+        {
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+        },
+        {
+          "name": "N\u00f8mad",
+          "url": "https://open.spotify.com/artist/1Aq4QRiRBz0ddMjbv7GDy5"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158857,
+      "name": "Best Days",
+      "url": "https://open.spotify.com/track/18ZT8o8lcWCBQcVs3aK5fZ"
     },
     {
       "album": {
@@ -1250,6 +1272,36 @@
     },
     {
       "album": {
+        "name": "D\u00c1KITI",
+        "url": "https://open.spotify.com/album/5RE3u3esh5NWmKGP1sKKwf"
+      },
+      "artists": [
+        {
+          "name": "BOOTY LEAK",
+          "url": "https://open.spotify.com/artist/6C8sBC5U3LyUE4GoleJWvx"
+        },
+        {
+          "name": "TARS.",
+          "url": "https://open.spotify.com/artist/0Dp54NlNysfSJ0FO2nlTGo"
+        },
+        {
+          "name": "PHURS",
+          "url": "https://open.spotify.com/artist/2UXdzClMex3N47C9m1fkeX"
+        },
+        {
+          "name": "LO RA",
+          "url": "https://open.spotify.com/artist/4UIKw5nTfBSfJz1Qtts8oC"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187428,
+      "name": "D\u00c1KITI",
+      "url": "https://open.spotify.com/track/12UKG8o3WWlSdvK7zInWh8"
+    },
+    {
+      "album": {
         "name": "Echoes of Light",
         "url": "https://open.spotify.com/album/3nzzFXZgX7OVJ29zCxVzRa"
       },
@@ -1711,7 +1763,7 @@
       ],
       "date_added": "2024-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 148432,
       "name": "Free Fall",
       "url": "https://open.spotify.com/track/1XSMcpNvYttlzvgON9QbBJ"
@@ -2009,7 +2061,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 130476,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/7CcHekzCRzibYwCYn2WKgc"
@@ -2672,6 +2724,28 @@
     },
     {
       "album": {
+        "name": "Last Day Of Summer",
+        "url": "https://open.spotify.com/album/7825P7bPdQedV51KZoX9QM"
+      },
+      "artists": [
+        {
+          "name": "Kusko",
+          "url": "https://open.spotify.com/artist/0uO72K8Y6OKi7DSAoc5do3"
+        },
+        {
+          "name": "blackbird",
+          "url": "https://open.spotify.com/artist/6n05pHuHJGmIbBAB42bAAT"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143951,
+      "name": "Last Day Of Summer",
+      "url": "https://open.spotify.com/track/77DPvfOqNxUfL2gLvkhSr6"
+    },
+    {
+      "album": {
         "name": "Lay all your love on me",
         "url": "https://open.spotify.com/album/2DmENT0BPX3WEY2KNY6Rlg"
       },
@@ -2991,7 +3065,7 @@
       ],
       "date_added": "2024-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 158947,
       "name": "Look Away",
       "url": "https://open.spotify.com/track/01gbQboVMTroyjoUBJlzOx"

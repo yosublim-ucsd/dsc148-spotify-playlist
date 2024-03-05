@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Estopa con Fito.",
-  "num_followers": 572010,
+  "num_followers": 572082,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NGQ4OTM0ODlhZmJjMGQ1MDdjMDNlMWVkYTdmNGY0NDJmZjBhN2Zm",
+  "snapshot_id": "MCxiOWIyN2FhN2RiNThlNjI2NGRhZTNlY2NmYmY4ZTE2MmI5NjNhNzFk",
   "tracks": [
     {
       "added_at": "2024-03-01 10:56:15",
@@ -131,18 +131,18 @@
     {
       "added_at": "2024-03-01 10:56:15",
       "album": {
-        "name": "La Flaca",
-        "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
+        "name": "Palabras m\u00e1s, palabras menos",
+        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
       },
       "artists": [
         {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
         }
       ],
-      "duration_ms": 288053,
-      "name": "El lado oscuro",
-      "url": "https://open.spotify.com/track/3AR1c3Dssq51WlGGkuYJNj"
+      "duration_ms": 234813,
+      "name": "Para no olvidar",
+      "url": "https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc"
     },
     {
       "added_at": "2024-03-01 10:56:15",
@@ -195,24 +195,8 @@
     {
       "added_at": "2024-03-01 10:56:15",
       "album": {
-        "name": "Palabras m\u00e1s, palabras menos",
-        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
-      },
-      "artists": [
-        {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
-        }
-      ],
-      "duration_ms": 234813,
-      "name": "Para no olvidar",
-      "url": "https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc"
-    },
-    {
-      "added_at": "2024-03-01 10:56:15",
-      "album": {
-        "name": "Tragas o Escupes",
-        "url": "https://open.spotify.com/album/654eDsgy2UItWWpSOly0U7"
+        "name": "La Flaca",
+        "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
       },
       "artists": [
         {
@@ -220,9 +204,9 @@
           "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
         }
       ],
-      "duration_ms": 214553,
-      "name": "Eso Que T\u00fa Me Das",
-      "url": "https://open.spotify.com/track/40tFJtuES1da2fg0OurUdI"
+      "duration_ms": 288053,
+      "name": "El lado oscuro",
+      "url": "https://open.spotify.com/track/3AR1c3Dssq51WlGGkuYJNj"
     },
     {
       "added_at": "2024-03-01 10:56:15",
@@ -271,6 +255,22 @@
       "duration_ms": 263679,
       "name": "Carolina - En directo 2000",
       "url": "https://open.spotify.com/track/4UtREbGYnd1nZLckEb5y8J"
+    },
+    {
+      "added_at": "2024-03-01 10:56:15",
+      "album": {
+        "name": "Furia Latina",
+        "url": "https://open.spotify.com/album/44qXGSYAvbnwci400nEDpe"
+      },
+      "artists": [
+        {
+          "name": "Seguridad Social",
+          "url": "https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B"
+        }
+      ],
+      "duration_ms": 220626,
+      "name": "Quiero tener tu presencia",
+      "url": "https://open.spotify.com/track/3f2k0XTc2ZXG17jEMDu8pp"
     },
     {
       "added_at": "2024-03-01 10:56:15",
@@ -455,18 +455,18 @@
     {
       "added_at": "2024-03-01 10:56:15",
       "album": {
-        "name": "Furia Latina",
-        "url": "https://open.spotify.com/album/44qXGSYAvbnwci400nEDpe"
+        "name": "Tragas o Escupes",
+        "url": "https://open.spotify.com/album/654eDsgy2UItWWpSOly0U7"
       },
       "artists": [
         {
-          "name": "Seguridad Social",
-          "url": "https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B"
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
         }
       ],
-      "duration_ms": 220626,
-      "name": "Quiero tener tu presencia",
-      "url": "https://open.spotify.com/track/3f2k0XTc2ZXG17jEMDu8pp"
+      "duration_ms": 214553,
+      "name": "Eso Que T\u00fa Me Das",
+      "url": "https://open.spotify.com/track/40tFJtuES1da2fg0OurUdI"
     },
     {
       "added_at": "2024-03-01 10:56:15",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-03-01 10:56:15",
       "album": {
+        "name": "Canciones Prohibidas",
+        "url": "https://open.spotify.com/album/5QHJB2blBbAL8BjrD9hrhG"
+      },
+      "artists": [
+        {
+          "name": "Extremoduro",
+          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
+        }
+      ],
+      "duration_ms": 318986,
+      "name": "Salir",
+      "url": "https://open.spotify.com/track/4z2EeFUp5Lhai9qhHtA6IF"
+    },
+    {
+      "added_at": "2024-03-01 10:56:15",
+      "album": {
         "name": "Palabras m\u00e1s, palabras menos",
         "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
       },
@@ -619,22 +635,6 @@
     {
       "added_at": "2024-03-01 10:56:15",
       "album": {
-        "name": "Canciones Prohibidas",
-        "url": "https://open.spotify.com/album/5QHJB2blBbAL8BjrD9hrhG"
-      },
-      "artists": [
-        {
-          "name": "Extremoduro",
-          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
-        }
-      ],
-      "duration_ms": 318986,
-      "name": "Salir",
-      "url": "https://open.spotify.com/track/4z2EeFUp5Lhai9qhHtA6IF"
-    },
-    {
-      "added_at": "2024-03-01 10:56:15",
-      "album": {
         "name": "Nacha Pop",
         "url": "https://open.spotify.com/album/5scxi8dzsvkrH6TamZv6NP"
       },
@@ -647,22 +647,6 @@
       "duration_ms": 208026,
       "name": "Chica de ayer",
       "url": "https://open.spotify.com/track/4chpfrjIqrOPshlDU4ZrKe"
-    },
-    {
-      "added_at": "2024-03-01 10:56:15",
-      "album": {
-        "name": "A Puerta Cerrada",
-        "url": "https://open.spotify.com/album/5oEdjJV5w3M9Odc7y2pWS1"
-      },
-      "artists": [
-        {
-          "name": "Fito y Fitipaldis",
-          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
-        }
-      ],
-      "duration_ms": 224133,
-      "name": "Rojitas las orejas",
-      "url": "https://open.spotify.com/track/42R5irny7qThOYUThAL7VW"
     },
     {
       "added_at": "2024-03-01 10:56:15",
@@ -703,6 +687,22 @@
     {
       "added_at": "2024-03-01 10:56:15",
       "album": {
+        "name": "A Puerta Cerrada",
+        "url": "https://open.spotify.com/album/5oEdjJV5w3M9Odc7y2pWS1"
+      },
+      "artists": [
+        {
+          "name": "Fito y Fitipaldis",
+          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "Rojitas las orejas",
+      "url": "https://open.spotify.com/track/42R5irny7qThOYUThAL7VW"
+    },
+    {
+      "added_at": "2024-03-01 10:56:15",
+      "album": {
         "name": "Patchanka",
         "url": "https://open.spotify.com/album/1i6RiKDCLS9KqgwfCQ1mRQ"
       },
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-03-01 10:56:15",
       "album": {
-        "name": "La ley innata",
-        "url": "https://open.spotify.com/album/1GYJUlbVr5FuNU7awwMGzu"
-      },
-      "artists": [
-        {
-          "name": "Extremoduro",
-          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
-        }
-      ],
-      "duration_ms": 462013,
-      "name": "Dulce introducci\u00f3n al caos",
-      "url": "https://open.spotify.com/track/1aDeaDooAd79p2sdImGG4a"
-    },
-    {
-      "added_at": "2024-03-01 10:56:15",
-      "album": {
         "name": "La Ley Del Desierto",
         "url": "https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 210840,
       "name": "Escuela de Calor",
       "url": "https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88"
+    },
+    {
+      "added_at": "2024-03-01 10:56:15",
+      "album": {
+        "name": "La ley innata",
+        "url": "https://open.spotify.com/album/1GYJUlbVr5FuNU7awwMGzu"
+      },
+      "artists": [
+        {
+          "name": "Extremoduro",
+          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
+        }
+      ],
+      "duration_ms": 462013,
+      "name": "Dulce introducci\u00f3n al caos",
+      "url": "https://open.spotify.com/track/1aDeaDooAd79p2sdImGG4a"
     },
     {
       "added_at": "2024-03-01 10:56:15",
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-03-01 10:56:15",
       "album": {
+        "name": "Sin Tiempo",
+        "url": "https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn"
+      },
+      "artists": [
+        {
+          "name": "Medina Azahara",
+          "url": "https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl"
+        }
+      ],
+      "duration_ms": 269426,
+      "name": "Necesito Respirar",
+      "url": "https://open.spotify.com/track/6uK6H8xkSQRA4Y2TfczXs0"
+    },
+    {
+      "added_at": "2024-03-01 10:56:15",
+      "album": {
         "name": "Veneno En La Piel",
         "url": "https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O"
       },
@@ -871,18 +887,18 @@
     {
       "added_at": "2024-03-01 10:56:15",
       "album": {
-        "name": "Sin Tiempo",
-        "url": "https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn"
+        "name": "28.000 pu\u00f1aladas",
+        "url": "https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR"
       },
       "artists": [
         {
-          "name": "Medina Azahara",
-          "url": "https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl"
+          "name": "Marea",
+          "url": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ"
         }
       ],
-      "duration_ms": 269426,
-      "name": "Necesito Respirar",
-      "url": "https://open.spotify.com/track/6uK6H8xkSQRA4Y2TfczXs0"
+      "duration_ms": 234106,
+      "name": "La rueca",
+      "url": "https://open.spotify.com/track/3C3EQeacSrIsdYdPl921qk"
     },
     {
       "added_at": "2024-03-01 10:56:15",
@@ -915,22 +931,6 @@
       "duration_ms": 275026,
       "name": "El Limite",
       "url": "https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu"
-    },
-    {
-      "added_at": "2024-03-01 10:56:15",
-      "album": {
-        "name": "28.000 pu\u00f1aladas",
-        "url": "https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR"
-      },
-      "artists": [
-        {
-          "name": "Marea",
-          "url": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ"
-        }
-      ],
-      "duration_ms": 234106,
-      "name": "La rueca",
-      "url": "https://open.spotify.com/track/3C3EQeacSrIsdYdPl921qk"
     },
     {
       "added_at": "2024-03-01 10:56:15",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-03-01 10:56:15",
       "album": {
-        "name": "Nos Vemos En Los Bares",
-        "url": "https://open.spotify.com/album/7L71kEobxeJszx6zWiu5Sz"
-      },
-      "artists": [
-        {
-          "name": "Celtas Cortos",
-          "url": "https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP"
-        }
-      ],
-      "duration_ms": 237346,
-      "name": "20 de abril - En directo 1997",
-      "url": "https://open.spotify.com/track/4bavcis6bApsKI8YkKg3Cx"
-    },
-    {
-      "added_at": "2024-03-01 10:56:15",
-      "album": {
         "name": "Heroes De Los 80",
         "url": "https://open.spotify.com/album/6Lml9AoEtkTD7BW6J57wzd"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 293533,
       "name": "El ritmo del garaje",
       "url": "https://open.spotify.com/track/020aPMXlwYFpPB7cI8Kuc1"
+    },
+    {
+      "added_at": "2024-03-01 10:56:15",
+      "album": {
+        "name": "Nos Vemos En Los Bares",
+        "url": "https://open.spotify.com/album/7L71kEobxeJszx6zWiu5Sz"
+      },
+      "artists": [
+        {
+          "name": "Celtas Cortos",
+          "url": "https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP"
+        }
+      ],
+      "duration_ms": 237346,
+      "name": "20 de abril - En directo 1997",
+      "url": "https://open.spotify.com/track/4bavcis6bApsKI8YkKg3Cx"
     },
     {
       "added_at": "2024-03-01 10:56:15",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-03-01 10:56:15",
       "album": {
-        "name": "Saca La Lengua",
-        "url": "https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY"
-      },
-      "artists": [
-        {
-          "name": "Los Ronaldos",
-          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Adi\u00f3s pap\u00e1",
-      "url": "https://open.spotify.com/track/29OKK8URiORBpRsimvzsmm"
-    },
-    {
-      "added_at": "2024-03-01 10:56:15",
-      "album": {
         "name": "Veo Veo Mamoneo",
         "url": "https://open.spotify.com/album/7u66tmYVMMEgIRbSrvKNVI"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 243040,
       "name": "Masculino singular",
       "url": "https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M"
+    },
+    {
+      "added_at": "2024-03-01 10:56:15",
+      "album": {
+        "name": "Saca La Lengua",
+        "url": "https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY"
+      },
+      "artists": [
+        {
+          "name": "Los Ronaldos",
+          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Adi\u00f3s pap\u00e1",
+      "url": "https://open.spotify.com/track/29OKK8URiORBpRsimvzsmm"
     },
     {
       "added_at": "2024-03-01 10:56:15",

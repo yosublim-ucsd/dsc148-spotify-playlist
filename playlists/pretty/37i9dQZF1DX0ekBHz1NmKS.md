@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 
 > En samling av de bästa svenska låtarna just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,700 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,702 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,17 +88,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 78 | [Stay The Same](https://open.spotify.com/track/1x2HCmiEv5CSEltweAkOW8) | [Vide](https://open.spotify.com/artist/33DYTSjYcxK2DzjeK7w539) | [Stay The Same](https://open.spotify.com/album/74i4fawNhn1B7aXv2s6BSa) | 2:58 |
 | 79 | [Älskad](https://open.spotify.com/track/5CsGx0tqM4faRt1E8osjtq) | [Jeano](https://open.spotify.com/artist/3qzw8zce3NwedmWnD1vx8V) | [Älskad](https://open.spotify.com/album/4a6axd5VO3HWdkCrtj0mhf) | 2:44 |
 | 80 | [Faller Ner](https://open.spotify.com/track/4wNyKgv2tmSXQd87efe6PT) | [UPPENBARA](https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7) | [Faller Ner](https://open.spotify.com/album/4Ac2VukiWnfghWhtCuO04b) | 2:29 |
-| 81 | [Ensam](https://open.spotify.com/track/045fEItPCP4cEElam3hpcb) | [Petrus](https://open.spotify.com/artist/7dwuMzeQJDOTWf0GN6IQHG) | [Ensam](https://open.spotify.com/album/06s9itJ8oHEe9YZMLJm3id) | 3:02 |
-| 82 | [När dimman sjunker](https://open.spotify.com/track/7jN5eFTpas9sslUGf2KnAA) | [Simon Forslund](https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD), [Luka Nemorin](https://open.spotify.com/artist/3CJPBkbeGVqeuCBH7SvyF5) | [När dimman sjunker](https://open.spotify.com/album/7r5fkxxwszGuBfKwYIqwmD) | 2:57 |
-| 83 | [There To Me](https://open.spotify.com/track/7IysNJRQHLK7bszZBiosw2) | [OLSSON](https://open.spotify.com/artist/6InjDqElJC0wOI2rEy9ldH), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [There To Me](https://open.spotify.com/album/0DxIxH5Yv3K5dj4SDvwity) | 3:04 |
-| 84 | [Förlorarna vann](https://open.spotify.com/track/6vIrlfAEr3EwDi5zVAFDVv) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Förlorarna vann](https://open.spotify.com/album/5eR5DudruRLg3IJBQivdXD) | 3:52 |
+| 81 | [Förlorarna vann](https://open.spotify.com/track/6vIrlfAEr3EwDi5zVAFDVv) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Förlorarna vann](https://open.spotify.com/album/5eR5DudruRLg3IJBQivdXD) | 3:52 |
+| 82 | [Ensam](https://open.spotify.com/track/045fEItPCP4cEElam3hpcb) | [Petrus](https://open.spotify.com/artist/7dwuMzeQJDOTWf0GN6IQHG) | [Ensam](https://open.spotify.com/album/06s9itJ8oHEe9YZMLJm3id) | 3:02 |
+| 83 | [När dimman sjunker](https://open.spotify.com/track/7jN5eFTpas9sslUGf2KnAA) | [Simon Forslund](https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD), [Luka Nemorin](https://open.spotify.com/artist/3CJPBkbeGVqeuCBH7SvyF5) | [När dimman sjunker](https://open.spotify.com/album/7r5fkxxwszGuBfKwYIqwmD) | 2:57 |
+| 84 | [There To Me](https://open.spotify.com/track/7IysNJRQHLK7bszZBiosw2) | [OLSSON](https://open.spotify.com/artist/6InjDqElJC0wOI2rEy9ldH), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [There To Me](https://open.spotify.com/album/0DxIxH5Yv3K5dj4SDvwity) | 3:04 |
 | 85 | [Så nice](https://open.spotify.com/track/7ydwM6jH4kqbr7MOXp11NO) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5) | [Så nice](https://open.spotify.com/album/35gUoDZjN5C7yK6czZnp7y) | 2:49 |
 | 86 | [du får vara min ikväll](https://open.spotify.com/track/4FjTt2t005M50VaS6PpGbD) | [ASTE](https://open.spotify.com/artist/5zYmm4lmcacjQo9zns3aDJ) | [du får vara min ikväll](https://open.spotify.com/album/3r3kACBwzv1rf3a5PJj6Js) | 2:39 |
 | 87 | [Mitt inre barn](https://open.spotify.com/track/2R3lU207Hp9gg9oGF9h8fX) | [Iiris Viljanen](https://open.spotify.com/artist/1IYVBUvVz1UbdQboARe43I) | [Mitt inre barn](https://open.spotify.com/album/3CkzxQQdxTUmLLWbBkH7oq) | 4:00 |
-| 88 | [Fånga natten](https://open.spotify.com/track/7dVIISnf2eOzvhJwYk8svJ) | [Gustaf Rasch](https://open.spotify.com/artist/5M0IE8KpXEtuW3tu6clYdh) | [Fånga natten](https://open.spotify.com/album/3RFGJ7SIzjuvnSl2V1ZeQF) | 2:39 |
-| 89 | [Out Of Feelings](https://open.spotify.com/track/6Xy2N0VoXewxdXheSW0Rw8) | [ELMA](https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c) | [Out Of Feelings](https://open.spotify.com/album/3rkCxhZ9Kj7ylr5LjjA5BK) | 3:43 |
-| 90 | [Cut Them Out](https://open.spotify.com/track/2qg6GGfDdQpK2108Cs0pzv) | [Amanda Fondell](https://open.spotify.com/artist/5rL1bpxszSXKHmVPXR5ZGs) | [Cut Them Out](https://open.spotify.com/album/6tdkOD0oV6jwXYRmQClfSR) | 3:07 |
-| 91 | [Två idioter](https://open.spotify.com/track/7icBZz6DwrqQ2z2vCca9HA) | [Simon Forslund](https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD) | [Två idioter](https://open.spotify.com/album/2VgpCTBPtS3jhFeGGaUGMm) | 2:04 |
+| 88 | [Två idioter](https://open.spotify.com/track/7icBZz6DwrqQ2z2vCca9HA) | [Simon Forslund](https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD) | [Två idioter](https://open.spotify.com/album/2VgpCTBPtS3jhFeGGaUGMm) | 2:04 |
+| 89 | [Fånga natten](https://open.spotify.com/track/7dVIISnf2eOzvhJwYk8svJ) | [Gustaf Rasch](https://open.spotify.com/artist/5M0IE8KpXEtuW3tu6clYdh) | [Fånga natten](https://open.spotify.com/album/3RFGJ7SIzjuvnSl2V1ZeQF) | 2:39 |
+| 90 | [Out Of Feelings](https://open.spotify.com/track/6Xy2N0VoXewxdXheSW0Rw8) | [ELMA](https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c) | [Out Of Feelings](https://open.spotify.com/album/3rkCxhZ9Kj7ylr5LjjA5BK) | 3:43 |
+| 91 | [Cut Them Out](https://open.spotify.com/track/2qg6GGfDdQpK2108Cs0pzv) | [Amanda Fondell](https://open.spotify.com/artist/5rL1bpxszSXKHmVPXR5ZGs) | [Cut Them Out](https://open.spotify.com/album/6tdkOD0oV6jwXYRmQClfSR) | 3:07 |
 | 92 | [Jimmy](https://open.spotify.com/track/3WDuNbcCulXtDkaUInTe69) | [Galleriet](https://open.spotify.com/artist/32ThSpM7Ukigtw16EIYYT7) | [Jimmy](https://open.spotify.com/album/2MkyoXVn3hX1D6pwulQgpl) | 3:25 |
 | 93 | [Embers](https://open.spotify.com/track/7fC6Q58cCvKGuCbDgbB75h) | [Simon Alexander](https://open.spotify.com/artist/4i4s4cwfzGvsURbt6rzKTA) | [Embers](https://open.spotify.com/album/1MZOK8dBUuZISHLUPpVclr) | 4:41 |
 | 94 | [Tusen lögner](https://open.spotify.com/track/58U3eRreodcLSvSg6xLayI) | [Immanuel](https://open.spotify.com/artist/2yrh7Lu0JyS9B8jaUUoA43) | [Tusen lögner](https://open.spotify.com/album/4pq8uv5DY5fvbEcj0kJwrF) | 2:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 99 | [C R A Z Y](https://open.spotify.com/track/0ZhC7a7IEcPhJtP6Ns8ZDF) | [Ben Mitkus](https://open.spotify.com/artist/5U7pOnB9QgH7YFDWQ84Qnu) | [C R A Z Y](https://open.spotify.com/album/7Mc3Raq0decyTuPvkzHiF4) | 3:09 |
 | 100 | [Pappa](https://open.spotify.com/track/1ao8aqJXSqXCGDihRbhxVH) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT) | [Pappa](https://open.spotify.com/album/2JaHN74aTfEUdQblNKK6Ek) | 3:01 |
 
-Snapshot ID: `MCxkMjkzMjQ2ZmJhZTMxMWY3Y2IzNjdiODJhOWY5MzA0YzAzZDQ3Mjlm`
+Snapshot ID: `MCwwMzFkMTNkZDcyYTdmNTEwODc3OTA2MTNlMjkwODIxOTUyYWQ4N2Zi`

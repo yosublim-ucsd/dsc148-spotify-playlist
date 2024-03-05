@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace runways in Paris, New York City and Milan.",
-  "num_followers": 74704,
+  "num_followers": 74739,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGI2ZGMyMGVlOGM0OWYwZWNjY2NiNjVmOWI0NGY3ZjllYWRmNzhl",
+  "snapshot_id": "MCxkNDM4MTVjMzVjMjU2ZWUwZTU2MWM0ZjY1ZDFhNjM1MDRiNTM1YWQy",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -18,6 +18,10 @@
         {
           "name": "Gesaffelstein",
           "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        },
+        {
+          "name": "Yan Wagner",
+          "url": "https://open.spotify.com/artist/7JLtS4ASAUsAYrsShMerMc"
         }
       ],
       "duration_ms": 170466,

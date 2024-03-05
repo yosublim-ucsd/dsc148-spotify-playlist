@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > Más música, menos etiquetas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,529 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,537 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 99 | [El Momento Perfecto](https://open.spotify.com/track/7LUepo06YjPnIoDVmiwYlJ) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [RIO HOTEL](https://open.spotify.com/album/39X3Jhsy9oT9XzgoUDs5P9) | 3:21 |
 | 100 | [ME ODIO](https://open.spotify.com/track/6S07osKZTJ77027oVhDVEk) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE), [Melingo](https://open.spotify.com/artist/7oEBXFf9TDKulnNMFKU0FI) | [ME ODIO](https://open.spotify.com/album/5mVuaMtYO8qUsXrtBaKdh6) | 3:49 |
 
-Snapshot ID: `MCxiNTYyYTRmYzRhZmJhMzJmOTgyZDdiMmMzMzdkODBjOGMzNGIxNzM1`
+Snapshot ID: `MCwxZDI5OTFhZDlkYjYwMmIyMTk5YjU5NTkyN2YzMTgzMDI3ZmVhMTY5`

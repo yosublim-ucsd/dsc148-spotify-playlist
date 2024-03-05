@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 
 > Tune in, bliss out
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,480 likes - 70 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,481 likes - 70 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 26 | [Be With You](https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:34 |
 | 27 | [How It Feels](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [How It Feels](https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp) | 2:18 |
 | 28 | [Cimmerian](https://open.spotify.com/track/0dmXGQ2zRVOm6N60S0UdHK) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [Blue Noir](https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN) | [Wishing Well / Cimmerian](https://open.spotify.com/album/1a0g4P7lv4e9Mw9IjNxNLf) | 3:36 |
-| 29 | [Enough](https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 5:22 |
+| 29 | [No Fun](https://open.spotify.com/track/5ImCVtO1gvcD1ttdG5SrQT) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [No Fun](https://open.spotify.com/album/3NGq4jAZprobTG7zRyxFht) | 6:51 |
 | 30 | [A Lover’s Guide to a Lucid Dream](https://open.spotify.com/track/4iBSUZhhcXU5sh8haot91w) | [SAFIA](https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB) | [A Lover’s Guide to a Lucid Dream](https://open.spotify.com/album/5NLqeErirxjepCcE7uvrLT) | 5:19 |
-| 31 | [No Fun](https://open.spotify.com/track/5ImCVtO1gvcD1ttdG5SrQT) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [No Fun](https://open.spotify.com/album/3NGq4jAZprobTG7zRyxFht) | 6:51 |
+| 31 | [Enough](https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 5:22 |
 | 32 | [Tidal Waves](https://open.spotify.com/track/3YTZyDywwVOWOXw2d970Dx) | [Isaak Young](https://open.spotify.com/artist/7qmOAgRUFZhLfwtyCGPKdo) | [Tidal Waves](https://open.spotify.com/album/5JUNGkyetUR1RC0svtR772) | 3:10 |
 | 33 | [Flipside](https://open.spotify.com/track/0HMRes6oRnftVM821ZSOpe) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:18 |
 | 34 | [New Fires](https://open.spotify.com/track/6I7nESv5d9zf9DcEA9I25u) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [New Fires](https://open.spotify.com/album/20brpiEt6JIbhmmHqF7Fjj) | 4:11 |
@@ -49,16 +49,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 39 | [Wake Up Call](https://open.spotify.com/track/6HjoXmL9BiC1Cmb7oktz5N) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [Sanctuary Point](https://open.spotify.com/album/2vnz72t4mSjrw1RhgfDSTN) | 3:44 |
 | 40 | [Home](https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 3:33 |
 | 41 | [All I've Ever Known](https://open.spotify.com/track/2uBELhgylBRkmLI5B5yCbe) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [All I've Ever Known](https://open.spotify.com/album/4hFPQHIvNtt8c9pn1F25uK) | 3:38 |
-| 42 | [A Different Path](https://open.spotify.com/track/3jJrIGb23RxyJMqMvrrX38) | [Bellestar](https://open.spotify.com/artist/004F88I7EWH54o9jNfUbEn), [Trippynova](https://open.spotify.com/artist/1mbO0ARKWlNgjaMUYpPqmx) | [A Different Path](https://open.spotify.com/album/6yd3Jlp0EaGR1DinQ5qlAL) | 2:15 |
-| 43 | [MACHINE](https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [MACHINE](https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA) | 3:17 |
+| 42 | [MACHINE](https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [MACHINE](https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA) | 3:17 |
+| 43 | [A Different Path](https://open.spotify.com/track/3jJrIGb23RxyJMqMvrrX38) | [Bellestar](https://open.spotify.com/artist/004F88I7EWH54o9jNfUbEn), [Trippynova](https://open.spotify.com/artist/1mbO0ARKWlNgjaMUYpPqmx) | [A Different Path](https://open.spotify.com/album/6yd3Jlp0EaGR1DinQ5qlAL) | 2:15 |
 | 44 | [Making Time](https://open.spotify.com/track/3hYVvOf0m67UxBdG57vgd5) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Making Time](https://open.spotify.com/album/25lUESkThyWEygZ6iZcWt6) | 4:31 |
 | 45 | [Oceanside Girl](https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Oceanside Girl](https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv) | 5:19 |
 | 46 | [Waves](https://open.spotify.com/track/0i3Rqpse98mRgYSCk3uweM) | [Abroad](https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft) | [Waves](https://open.spotify.com/album/6SJ4vAeTsekxlFQDK4ciDu) | 4:02 |
 | 47 | [can you see me?](https://open.spotify.com/track/0PqyrHOwAMA43it710rAor) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [can you see me?](https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE) | 3:17 |
 | 48 | [Nobody Scared](https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Baby Face](https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe) | 3:39 |
 | 49 | [Back In Love](https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Back In Love](https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf) | 4:41 |
-| 50 | [Tulum](https://open.spotify.com/track/6mqkM04Ia7KAJUaivGXzH4) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [When The Light Breaks](https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h) | 3:45 |
-| 51 | [Grapevine](https://open.spotify.com/track/2a2Yb7fc67EzRUVpYTUyZq) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Grapevine](https://open.spotify.com/album/1xfzt4iDjXUzsp3nGh0wHU) | 6:21 |
+| 50 | [Grapevine](https://open.spotify.com/track/2a2Yb7fc67EzRUVpYTUyZq) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Grapevine](https://open.spotify.com/album/1xfzt4iDjXUzsp3nGh0wHU) | 6:21 |
+| 51 | [Tulum](https://open.spotify.com/track/6mqkM04Ia7KAJUaivGXzH4) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [When The Light Breaks](https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h) | 3:45 |
 | 52 | [Touching My Body](https://open.spotify.com/track/57PvBFABJ1F5mX69oUt8Yh) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Jammer](https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw), [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [Touching My Body / Down Shovel](https://open.spotify.com/album/6WqDlSi0CRDZWTFjPNxtrI) | 7:10 |
 | 53 | [Raye](https://open.spotify.com/track/5tsVgtKdAfKGcVIcCHvyxe) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Raye](https://open.spotify.com/album/55XutLIxmTUmwwFydXTBZ4) | 4:50 |
 | 54 | [Alone](https://open.spotify.com/track/1dgmyjd5qciNDLQcVd1aln) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [Blue Noir](https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN) | [Alone](https://open.spotify.com/album/0tdmeX1Dul9IyOVpVIy8Lt) | 3:50 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 69 | [Healing](https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Healing](https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF) | 4:11 |
 | 70 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 |
 
-Snapshot ID: `MCxjMDI1OWJhODI1MWQ5Y2ZiOWU2ZmE3OThjN2FiNDgxNWI0OWExNjNl`
+Snapshot ID: `MCxiNmEyZTdkMWQ1MGY0MDlkZmZjODAwZWMwNjM2ODNmYmE4ZTQ1YjFh`

@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "La Estrella De Los Bailes - Los \u00c9xitos",
+        "url": "https://open.spotify.com/album/5T9zkm1BMSNqlPvu911c0n"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153861,
+      "name": "Bikini Azul",
+      "url": "https://open.spotify.com/track/1YvqhFsIxpy9yEzn9sWb0X"
+    },
+    {
+      "album": {
         "name": "Lo Que Son las Cosas",
         "url": "https://open.spotify.com/album/1ems7HK5yY95MtyNCDKKDi"
       },

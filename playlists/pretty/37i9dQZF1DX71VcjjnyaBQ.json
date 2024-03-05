@@ -1,12 +1,12 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 397879,
+  "num_followers": 397944,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MWM4NThkMDM5NzEyZTc3YmFmMWMzOWZlMTc0MTM4YThjNzVkY2Ez",
+  "snapshot_id": "MCw1YzYxMTZmN2YzYjk5MjEwYTYyYzk3NTlkM2RkYWE2OGNkMjJkMzRh",
   "tracks": [
     {
       "added_at": "2024-02-20 14:06:22",
@@ -143,6 +143,22 @@
     {
       "added_at": "2024-02-20 14:06:22",
       "album": {
+        "name": "42nd Street Shuffle",
+        "url": "https://open.spotify.com/album/2xKpP3EGfnNRt8biMKpxSC"
+      },
+      "artists": [
+        {
+          "name": "Rikard From",
+          "url": "https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc"
+        }
+      ],
+      "duration_ms": 259786,
+      "name": "42nd Street Shuffle",
+      "url": "https://open.spotify.com/track/7sjZIf7J5FQlNQrOQWODai"
+    },
+    {
+      "added_at": "2024-02-20 14:06:22",
+      "album": {
         "name": "Quiet Sense (feat. Paolo Fresu)",
         "url": "https://open.spotify.com/album/7BisVv834vN4y1h8CcWhjC"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 283998,
       "name": "Quiet Sense (feat. Paolo Fresu)",
       "url": "https://open.spotify.com/track/56OCZENfcrmeCpufvWZd0P"
-    },
-    {
-      "added_at": "2024-02-20 14:06:22",
-      "album": {
-        "name": "42nd Street Shuffle",
-        "url": "https://open.spotify.com/album/2xKpP3EGfnNRt8biMKpxSC"
-      },
-      "artists": [
-        {
-          "name": "Rikard From",
-          "url": "https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc"
-        }
-      ],
-      "duration_ms": 259786,
-      "name": "42nd Street Shuffle",
-      "url": "https://open.spotify.com/track/7sjZIf7J5FQlNQrOQWODai"
     },
     {
       "added_at": "2024-02-20 14:06:22",
@@ -1135,6 +1135,34 @@
     {
       "added_at": "2024-02-20 14:06:22",
       "album": {
+        "name": "RoundAgain (feat. Brad Mehldau, Christian McBride, Brian Blade)",
+        "url": "https://open.spotify.com/album/6glNa1tv5xDIevYwSvxNkm"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        },
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        },
+        {
+          "name": "Brian Blade",
+          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
+        },
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        }
+      ],
+      "duration_ms": 360680,
+      "name": "Right Back Round Again (feat. Brad Mehldau, Christian McBride & Brian Blade)",
+      "url": "https://open.spotify.com/track/3ONFcrwlLYLUZBPh0WSD6q"
+    },
+    {
+      "added_at": "2024-02-20 14:06:22",
+      "album": {
         "name": "nublues",
         "url": "https://open.spotify.com/album/25Dgs9rR8ETpGCwD0wUv0q"
       },
@@ -1207,34 +1235,6 @@
       "duration_ms": 496933,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/49GkEXzeU30nUaEussqtUi"
-    },
-    {
-      "added_at": "2024-02-20 14:06:22",
-      "album": {
-        "name": "RoundAgain (feat. Brad Mehldau, Christian McBride, Brian Blade)",
-        "url": "https://open.spotify.com/album/6glNa1tv5xDIevYwSvxNkm"
-      },
-      "artists": [
-        {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
-        },
-        {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        },
-        {
-          "name": "Brian Blade",
-          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
-        },
-        {
-          "name": "Christian McBride",
-          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
-        }
-      ],
-      "duration_ms": 360680,
-      "name": "Right Back Round Again (feat. Brad Mehldau, Christian McBride & Brian Blade)",
-      "url": "https://open.spotify.com/track/3ONFcrwlLYLUZBPh0WSD6q"
     },
     {
       "added_at": "2024-02-20 14:06:22",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2024-02-20 14:06:22",
       "album": {
-        "name": "Going Up",
-        "url": "https://open.spotify.com/album/2Jsv8fQJq9yvJoUjjvKqqV"
-      },
-      "artists": [
-        {
-          "name": "Snorre Kirk",
-          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
-        },
-        {
-          "name": "Stephen Riley",
-          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
-        }
-      ],
-      "duration_ms": 280011,
-      "name": "Blues Arabesque",
-      "url": "https://open.spotify.com/track/57SLXKt2uZ9eA9VDkf2mqC"
-    },
-    {
-      "added_at": "2024-02-20 14:06:22",
-      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 224607,
       "name": "My Song",
       "url": "https://open.spotify.com/track/0lSLRJcWni4XX5UbCLJPy1"
+    },
+    {
+      "added_at": "2024-02-20 14:06:22",
+      "album": {
+        "name": "Going Up",
+        "url": "https://open.spotify.com/album/2Jsv8fQJq9yvJoUjjvKqqV"
+      },
+      "artists": [
+        {
+          "name": "Snorre Kirk",
+          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
+        },
+        {
+          "name": "Stephen Riley",
+          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
+        }
+      ],
+      "duration_ms": 280011,
+      "name": "Blues Arabesque",
+      "url": "https://open.spotify.com/track/57SLXKt2uZ9eA9VDkf2mqC"
     },
     {
       "added_at": "2024-02-20 14:06:22",

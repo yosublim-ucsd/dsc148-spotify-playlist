@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1980s. Cover: Tina Turner",
-  "num_followers": 276519,
+  "num_followers": 276582,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODM2ODM3YTliM2ZlY2Y2NTBkOTFlMDQ2NTYwNDliNjE1MjZiMDk3",
+  "snapshot_id": "MCw4YzM3NjRiOTIyYWVhNGU4ZmY3NTc2NzNjYzE1N2VhNDJiZGJlMWE3",
   "tracks": [
     {
       "added_at": "2023-03-30 14:38:10",
@@ -123,6 +123,22 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
+        "name": "Toto IV",
+        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 331200,
+      "name": "Rosanna",
+      "url": "https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
         "name": "4 (Expanded)",
         "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
       },
@@ -139,22 +155,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 221053,
-      "name": "Little Lies - 2017 Remaster",
-      "url": "https://open.spotify.com/track/4CoSCPlKNrWli7E5kFtbcl"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "No Brakes",
         "url": "https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H"
       },
@@ -167,22 +167,6 @@
       "duration_ms": 269760,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
-        "name": "Toto IV",
-        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 331200,
-      "name": "Rosanna",
-      "url": "https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -235,6 +219,22 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 221053,
+      "name": "Little Lies - 2017 Remaster",
+      "url": "https://open.spotify.com/track/4CoSCPlKNrWli7E5kFtbcl"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
         "name": "If That's What It Takes",
         "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
       },
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Knee Deep In The Hoopla",
-        "url": "https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6"
-      },
-      "artists": [
-        {
-          "name": "Starship",
-          "url": "https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf"
-        }
-      ],
-      "duration_ms": 292800,
-      "name": "Sara",
-      "url": "https://open.spotify.com/track/0HzjKCZmFhwcO2vnnHpj9q"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Fahrenheit",
         "url": "https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg"
       },
@@ -311,6 +295,38 @@
       "duration_ms": 229880,
       "name": "I'll Be Over You",
       "url": "https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Private Eyes (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 307306,
+      "name": "I Can't Go for That (No Can Do)",
+      "url": "https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Knee Deep In The Hoopla",
+        "url": "https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6"
+      },
+      "artists": [
+        {
+          "name": "Starship",
+          "url": "https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf"
+        }
+      ],
+      "duration_ms": 292800,
+      "name": "Sara",
+      "url": "https://open.spotify.com/track/0HzjKCZmFhwcO2vnnHpj9q"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -347,22 +363,6 @@
       "duration_ms": 249066,
       "name": "Lonely Is the Night",
       "url": "https://open.spotify.com/track/6gAhuDvn8Ef6P710UMze9W"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
-        "name": "Private Eyes (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 307306,
-      "name": "I Can't Go for That (No Can Do)",
-      "url": "https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -431,18 +431,18 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
+        "name": "Never Run Never Hide",
+        "url": "https://open.spotify.com/album/5ERaMYO6utxG7HftrKO95m"
       },
       "artists": [
         {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+          "name": "Benny Mardones",
+          "url": "https://open.spotify.com/artist/6ZalUpnU8HaHSjROM92Txw"
         }
       ],
-      "duration_ms": 264986,
-      "name": "Kiss on My List",
-      "url": "https://open.spotify.com/track/7cDzJyC95jtGO9zAeZsWOg"
+      "duration_ms": 271800,
+      "name": "Into The Night",
+      "url": "https://open.spotify.com/track/0rhyBUAgNXwdyvGVXSrLzc"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -463,18 +463,18 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Never Run Never Hide",
-        "url": "https://open.spotify.com/album/5ERaMYO6utxG7HftrKO95m"
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
       },
       "artists": [
         {
-          "name": "Benny Mardones",
-          "url": "https://open.spotify.com/artist/6ZalUpnU8HaHSjROM92Txw"
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
         }
       ],
-      "duration_ms": 271800,
-      "name": "Into The Night",
-      "url": "https://open.spotify.com/track/0rhyBUAgNXwdyvGVXSrLzc"
+      "duration_ms": 264986,
+      "name": "Kiss on My List",
+      "url": "https://open.spotify.com/track/7cDzJyC95jtGO9zAeZsWOg"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Anywhere You Go",
-        "url": "https://open.spotify.com/album/2YoeVDeWhmHQgf2kMBRMKo"
-      },
-      "artists": [
-        {
-          "name": "David Pack",
-          "url": "https://open.spotify.com/artist/22iNiLtvlzsvUw9KDiROnl"
-        }
-      ],
-      "duration_ms": 284186,
-      "name": "That Girl Is Gone",
-      "url": "https://open.spotify.com/track/3Zl6aRDcumXbkNMIQeCjeb"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "All Dressed Up",
         "url": "https://open.spotify.com/album/6CoCuashl0StGSgw5XKEJz"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 299960,
       "name": "Live Every Moment",
       "url": "https://open.spotify.com/track/1IMz8NXt3d1ApV6WJUFmg2"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Anywhere You Go",
+        "url": "https://open.spotify.com/album/2YoeVDeWhmHQgf2kMBRMKo"
+      },
+      "artists": [
+        {
+          "name": "David Pack",
+          "url": "https://open.spotify.com/artist/22iNiLtvlzsvUw9KDiROnl"
+        }
+      ],
+      "duration_ms": 284186,
+      "name": "That Girl Is Gone",
+      "url": "https://open.spotify.com/track/3Zl6aRDcumXbkNMIQeCjeb"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Airplay",
-        "url": "https://open.spotify.com/album/3uxLkATnYOuXXIkUb2d04n"
-      },
-      "artists": [
-        {
-          "name": "Airplay",
-          "url": "https://open.spotify.com/artist/0yci1UcbunmiExfI7U0jGw"
-        }
-      ],
-      "duration_ms": 255826,
-      "name": "Bix",
-      "url": "https://open.spotify.com/track/4BmqJhzuilRz2zHsSpILyq"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Street Corner Heroes",
         "url": "https://open.spotify.com/album/6PUJ57r2I7YinhkfZ6iV6t"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 280360,
       "name": "Heart (Stop Beating In Time)",
       "url": "https://open.spotify.com/track/7oQbMamRwupYuFvcYk5ntm"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Airplay",
+        "url": "https://open.spotify.com/album/3uxLkATnYOuXXIkUb2d04n"
+      },
+      "artists": [
+        {
+          "name": "Airplay",
+          "url": "https://open.spotify.com/artist/0yci1UcbunmiExfI7U0jGw"
+        }
+      ],
+      "duration_ms": 255826,
+      "name": "Bix",
+      "url": "https://open.spotify.com/track/4BmqJhzuilRz2zHsSpILyq"
     }
   ],
   "unique_name": "80s Soft Rock",

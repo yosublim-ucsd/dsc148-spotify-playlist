@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 
 > Dive into the women of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie\-folk favorites\. Cover: Sunny War
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,272 likes - 150 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,340 likes - 150 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 | 149 | [Mercy](https://open.spotify.com/track/2HA6R2XOV9jBwXkdOTfsWK) | [Suzanne Santo](https://open.spotify.com/artist/1TUJBwovBrSV0NgaJ9cm5a) | [Yard Sale](https://open.spotify.com/album/0f6Zs9gZdMift137nyLO2A) | 4:02 |
 | 150 | [Stoned Soul Picnic](https://open.spotify.com/track/2oV3mzorzJTZa3gmp8vAJl) | [Laura Nyro](https://open.spotify.com/artist/6QDWC6QeGhvCWCv3nUJwoV) | [Time And Love: The Essential Masters](https://open.spotify.com/album/5XRavq9AfzLqovq2HpQBDP) | 3:47 |
 
-Snapshot ID: `MCwwZjk4MDVjNjIyM2IzZjg2ZTIwYWU4MjMyZDc4YjYxMmFmMjcyYmY5`
+Snapshot ID: `MCw4MjZjOThmYTNlZjc0ZTI1OGI5OWEyNDYyMjdiZmIxYzNmM2YzNDIz`

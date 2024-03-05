@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: Corridor",
+  "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: blesse",
   "name": "ALT_QC",
   "tracks": [
     {
@@ -286,7 +286,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 250108,
       "name": "Autobahn",
       "url": "https://open.spotify.com/track/1LGSUhyWYn8o9PwtE8QN2x"
@@ -1329,6 +1329,28 @@
     },
     {
       "album": {
+        "name": "la honte",
+        "url": "https://open.spotify.com/album/5MxKI5pwIa2LuSyhJGA2wO"
+      },
+      "artists": [
+        {
+          "name": "blesse",
+          "url": "https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge"
+        },
+        {
+          "name": "David Numwami",
+          "url": "https://open.spotify.com/artist/2uKChU7eHSda8R79iR9rel"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209474,
+      "name": "la honte",
+      "url": "https://open.spotify.com/track/3j8wfBkVowBTt1bGmtHOf7"
+    },
+    {
+      "album": {
         "name": "Quand la nuit tombe",
         "url": "https://open.spotify.com/album/3TxGclPeiNgoHdw5jIUXuo"
       },
@@ -1542,6 +1564,24 @@
       "duration_ms": 183692,
       "name": "Lundi normal",
       "url": "https://open.spotify.com/track/01q5hNY32vR6b1xa1nMZlQ"
+    },
+    {
+      "album": {
+        "name": "Madone",
+        "url": "https://open.spotify.com/album/4mkI10pJ3T1dj3hsw4T1WO"
+      },
+      "artists": [
+        {
+          "name": "Virginie B",
+          "url": "https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175563,
+      "name": "Madone",
+      "url": "https://open.spotify.com/track/3FqxuAQ0rNFjMyOehcyvz8"
     },
     {
       "album": {
@@ -2386,7 +2426,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 396142,
       "name": "Sur la pointe des pieds",
       "url": "https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7"

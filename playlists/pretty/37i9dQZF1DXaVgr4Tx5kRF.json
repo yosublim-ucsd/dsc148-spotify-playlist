@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 641104,
+  "num_followers": 641157,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTMyNzdjZmU3YWU2NDFjNTllYzIwZDRhYmFlMmYyMzdlZjQ3ZGY0",
+  "snapshot_id": "MCwwODMwNGUyMGYyYjgzYzEyNmJjOTc1Y2FlODg2ODQ4YjlmMDM0NzE0",
   "tracks": [
     {
       "added_at": "2022-05-04 17:11:49",
@@ -139,6 +139,22 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
+        "name": "Urban Hymns (Remastered 2016)",
+        "url": "https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD"
+      },
+      "artists": [
+        {
+          "name": "The Verve",
+          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+        }
+      ],
+      "duration_ms": 357266,
+      "name": "Bitter Sweet Symphony - Remastered 2016",
+      "url": "https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
         "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
         "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 156666,
       "name": "Laid",
       "url": "https://open.spotify.com/track/2CdS3DRqWR5LAhy4hM5X9W"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
-        "name": "Urban Hymns (Remastered 2016)",
-        "url": "https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD"
-      },
-      "artists": [
-        {
-          "name": "The Verve",
-          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
-        }
-      ],
-      "duration_ms": 357266,
-      "name": "Bitter Sweet Symphony - Remastered 2016",
-      "url": "https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -267,18 +267,18 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
+        "name": "Some Friendly",
+        "url": "https://open.spotify.com/album/6Bb253vXd4mFULDwLhNf7u"
       },
       "artists": [
         {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+          "name": "The Charlatans",
+          "url": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
         }
       ],
-      "duration_ms": 234800,
-      "name": "Just",
-      "url": "https://open.spotify.com/track/1dyTcli07c77mtQK3ahUZR"
+      "duration_ms": 238120,
+      "name": "The Only One I Know",
+      "url": "https://open.spotify.com/track/7ziicmUOzWXAkdPriOmFk9"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -331,6 +331,22 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 234800,
+      "name": "Just",
+      "url": "https://open.spotify.com/track/1dyTcli07c77mtQK3ahUZR"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
         "name": "Gold Mother",
         "url": "https://open.spotify.com/album/7qQEoMXpeyJ2GJkkdDsVdr"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 244826,
       "name": "Babies",
       "url": "https://open.spotify.com/track/4j3obTRIyR7QzvdeQz9vaO"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
-        "name": "Some Friendly",
-        "url": "https://open.spotify.com/album/6Bb253vXd4mFULDwLhNf7u"
-      },
-      "artists": [
-        {
-          "name": "The Charlatans",
-          "url": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
-        }
-      ],
-      "duration_ms": 238120,
-      "name": "The Only One I Know",
-      "url": "https://open.spotify.com/track/7ziicmUOzWXAkdPriOmFk9"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "The Stone Roses",
-        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
-      },
-      "artists": [
-        {
-          "name": "The Stone Roses",
-          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
-        }
-      ],
-      "duration_ms": 492946,
-      "name": "I Am the Resurrection - Remastered",
-      "url": "https://open.spotify.com/track/5ikdUUm6JbnEVnp35c7dvy"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "Definitely Maybe (Deluxe Edition Remastered)",
         "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 210200,
       "name": "Girl from Mars",
       "url": "https://open.spotify.com/track/0cA41ydiosNCgmmGiCST65"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "The Stone Roses",
+        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
+      },
+      "artists": [
+        {
+          "name": "The Stone Roses",
+          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
+        }
+      ],
+      "duration_ms": 492946,
+      "name": "I Am the Resurrection - Remastered",
+      "url": "https://open.spotify.com/track/5ikdUUm6JbnEVnp35c7dvy"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -635,18 +635,18 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Ready To Go",
-        "url": "https://open.spotify.com/album/2lxv4za6tEk3J8vN73NWHp"
+        "name": "Going For Gold",
+        "url": "https://open.spotify.com/album/4LtKB45GXvEsbZV9tKEEn3"
       },
       "artists": [
         {
-          "name": "Republica",
-          "url": "https://open.spotify.com/artist/06YQ6XwCdPUn8rAXV70gge"
+          "name": "Shed Seven",
+          "url": "https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs"
         }
       ],
-      "duration_ms": 301533,
-      "name": "Ready to Go",
-      "url": "https://open.spotify.com/track/2bEbTqj36jmuwMhvvCRC2y"
+      "duration_ms": 265493,
+      "name": "Going For Gold",
+      "url": "https://open.spotify.com/track/5TBXjIlpKHlVrUVwlpY5e5"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -667,34 +667,18 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Going For Gold",
-        "url": "https://open.spotify.com/album/4LtKB45GXvEsbZV9tKEEn3"
+        "name": "Ready To Go",
+        "url": "https://open.spotify.com/album/2lxv4za6tEk3J8vN73NWHp"
       },
       "artists": [
         {
-          "name": "Shed Seven",
-          "url": "https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs"
+          "name": "Republica",
+          "url": "https://open.spotify.com/artist/06YQ6XwCdPUn8rAXV70gge"
         }
       ],
-      "duration_ms": 265493,
-      "name": "Going For Gold",
-      "url": "https://open.spotify.com/track/5TBXjIlpKHlVrUVwlpY5e5"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
-        "name": "Homegrown",
-        "url": "https://open.spotify.com/album/2QsbjNai1nFSl0xFOyV0F7"
-      },
-      "artists": [
-        {
-          "name": "Dodgy",
-          "url": "https://open.spotify.com/artist/1dekSPU23UC5hw5b8Uxk9W"
-        }
-      ],
-      "duration_ms": 192960,
-      "name": "Staying Out For The Summer",
-      "url": "https://open.spotify.com/track/0Z8CJq9ntVrA8PHT35ZANv"
+      "duration_ms": 301533,
+      "name": "Ready to Go",
+      "url": "https://open.spotify.com/track/2bEbTqj36jmuwMhvvCRC2y"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -711,6 +695,22 @@
       "duration_ms": 217293,
       "name": "Alright",
       "url": "https://open.spotify.com/track/1SqY3rqLazvQlDz24GJ1TO"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "Homegrown",
+        "url": "https://open.spotify.com/album/2QsbjNai1nFSl0xFOyV0F7"
+      },
+      "artists": [
+        {
+          "name": "Dodgy",
+          "url": "https://open.spotify.com/artist/1dekSPU23UC5hw5b8Uxk9W"
+        }
+      ],
+      "duration_ms": 192960,
+      "name": "Staying Out For The Summer",
+      "url": "https://open.spotify.com/track/0Z8CJq9ntVrA8PHT35ZANv"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "The Good Will Out",
-        "url": "https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK"
-      },
-      "artists": [
-        {
-          "name": "Embrace",
-          "url": "https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7"
-        }
-      ],
-      "duration_ms": 366266,
-      "name": "All You Good Good People",
-      "url": "https://open.spotify.com/track/72TPbqNS18yOlXa5USPSSo"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "Bandwagonesque",
         "url": "https://open.spotify.com/album/4M6vPZ4hQdOeH07D0JO2JQ"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 257653,
       "name": "A Design for Life - 2016 Remastered Version",
       "url": "https://open.spotify.com/track/7rIoot9qXXs4H3n1kH2V4F"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "The Good Will Out",
+        "url": "https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK"
+      },
+      "artists": [
+        {
+          "name": "Embrace",
+          "url": "https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7"
+        }
+      ],
+      "duration_ms": 366266,
+      "name": "All You Good Good People",
+      "url": "https://open.spotify.com/track/72TPbqNS18yOlXa5USPSSo"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Give Out But Don't Give Up",
-        "url": "https://open.spotify.com/album/51wKnaqc8kVTPeR99dpXg8"
-      },
-      "artists": [
-        {
-          "name": "Primal Scream",
-          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
-        }
-      ],
-      "duration_ms": 217373,
-      "name": "Rocks",
-      "url": "https://open.spotify.com/track/2MjYMvn7PlS4HAE1EtP7BJ"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "Evergreen (Expanded)",
         "url": "https://open.spotify.com/album/7ynWqEk1YxxZ2TYf1v6imE"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 218999,
       "name": "I Want to Be There - When You Come",
       "url": "https://open.spotify.com/track/471Zj8j2ioowDrIhOzaZdy"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "Give Out But Don't Give Up",
+        "url": "https://open.spotify.com/album/51wKnaqc8kVTPeR99dpXg8"
+      },
+      "artists": [
+        {
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+        }
+      ],
+      "duration_ms": 217373,
+      "name": "Rocks",
+      "url": "https://open.spotify.com/track/2MjYMvn7PlS4HAE1EtP7BJ"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Coming up - 20th Anniversary Edition (Audio Version)",
-        "url": "https://open.spotify.com/album/3YBbEumtx9naxbCQWoeu41"
+        "name": "Moseley Shoals",
+        "url": "https://open.spotify.com/album/2z6VxH2NdkmxYpTygmlI0W"
       },
       "artists": [
         {
-          "name": "The London Suede",
-          "url": "https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t"
+          "name": "Ocean Colour Scene",
+          "url": "https://open.spotify.com/artist/5vIOGcdmx1eIkq3ZtuS12U"
         }
       ],
-      "duration_ms": 245946,
-      "name": "Trash",
-      "url": "https://open.spotify.com/track/4QJgpPPICeOLx2u1P3C53D"
+      "duration_ms": 292850,
+      "name": "The Riverboat Song",
+      "url": "https://open.spotify.com/track/29cKAB63SRhL2GZdMHmQON"
     },
     {
       "added_at": "2022-05-04 17:11:49",

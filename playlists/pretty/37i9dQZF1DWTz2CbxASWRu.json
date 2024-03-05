@@ -1,12 +1,12 @@
 {
   "description": "Nomadismo sonoro para quienes aman la m\u00fasica de todos los rincones del planeta.",
-  "num_followers": 199324,
+  "num_followers": 199344,
   "original_name": "Trotamundos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjUxYTQzODgxZjcwN2IzYWU3MThjY2U1MTU2ZmUwMWY0M2JlODE3",
+  "snapshot_id": "MCxlN2QzNGFkMTI5YzU2ZjVhMjRiNGVlMmRlMzZiZDlmNGFhMzAzNDJl",
   "tracks": [
     {
       "added_at": "2024-02-29 14:34:36",
@@ -127,22 +127,6 @@
     {
       "added_at": "2024-02-29 14:34:36",
       "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/655KljKIXl42fiNDMKivbY"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 460226,
-      "name": "Exodus",
-      "url": "https://open.spotify.com/track/1lRkDJ9hMuiE1GZOlbgkam"
-    },
-    {
-      "added_at": "2024-02-29 14:34:36",
-      "album": {
         "name": "Ini Kamoze",
         "url": "https://open.spotify.com/album/4LAY1FlsUIxoYTcDDgwLta"
       },
@@ -155,22 +139,6 @@
       "duration_ms": 345493,
       "name": "World A Music",
       "url": "https://open.spotify.com/track/2SE11vmjbi7j5QKJ885ib6"
-    },
-    {
-      "added_at": "2024-02-29 14:34:36",
-      "album": {
-        "name": "Buena Vista Social Club",
-        "url": "https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt"
-      },
-      "artists": [
-        {
-          "name": "Buena Vista Social Club",
-          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
-        }
-      ],
-      "duration_ms": 329200,
-      "name": "Candela",
-      "url": "https://open.spotify.com/track/1caT2YklnqZq35IcQ0oRLj"
     },
     {
       "added_at": "2024-02-29 14:34:36",
@@ -191,6 +159,38 @@
       "duration_ms": 179545,
       "name": "Stefania (Kalush Orchestra)",
       "url": "https://open.spotify.com/track/2vHzOWRKYPLu8umRPIFuOq"
+    },
+    {
+      "added_at": "2024-02-29 14:34:36",
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/655KljKIXl42fiNDMKivbY"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 460226,
+      "name": "Exodus",
+      "url": "https://open.spotify.com/track/1lRkDJ9hMuiE1GZOlbgkam"
+    },
+    {
+      "added_at": "2024-02-29 14:34:36",
+      "album": {
+        "name": "Buena Vista Social Club",
+        "url": "https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt"
+      },
+      "artists": [
+        {
+          "name": "Buena Vista Social Club",
+          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+        }
+      ],
+      "duration_ms": 329200,
+      "name": "Candela",
+      "url": "https://open.spotify.com/track/1caT2YklnqZq35IcQ0oRLj"
     },
     {
       "added_at": "2024-02-29 14:34:36",
@@ -447,18 +447,18 @@
     {
       "added_at": "2024-02-29 14:34:36",
       "album": {
-        "name": "Que Gente Averigu\u00e1",
-        "url": "https://open.spotify.com/album/4KRlouVARmSvhS97Q68IBY"
+        "name": "8 A\u00f1os",
+        "url": "https://open.spotify.com/album/3d1utyj80pLW7lVZa19pIP"
       },
       "artists": [
         {
-          "name": "Mon Rivera",
-          "url": "https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx"
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
         }
       ],
-      "duration_ms": 177680,
-      "name": "Lluvia con Nieve",
-      "url": "https://open.spotify.com/track/2jBe0JwHUxPi02bvSigPdg"
+      "duration_ms": 200725,
+      "name": "El Jardin",
+      "url": "https://open.spotify.com/track/73eUiyq2OGr7JtOmgbyMxj"
     },
     {
       "added_at": "2024-02-29 14:34:36",
@@ -479,18 +479,18 @@
     {
       "added_at": "2024-02-29 14:34:36",
       "album": {
-        "name": "8 A\u00f1os",
-        "url": "https://open.spotify.com/album/3d1utyj80pLW7lVZa19pIP"
+        "name": "Que Gente Averigu\u00e1",
+        "url": "https://open.spotify.com/album/4KRlouVARmSvhS97Q68IBY"
       },
       "artists": [
         {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+          "name": "Mon Rivera",
+          "url": "https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx"
         }
       ],
-      "duration_ms": 200725,
-      "name": "El Jardin",
-      "url": "https://open.spotify.com/track/73eUiyq2OGr7JtOmgbyMxj"
+      "duration_ms": 177680,
+      "name": "Lluvia con Nieve",
+      "url": "https://open.spotify.com/track/2jBe0JwHUxPi02bvSigPdg"
     },
     {
       "added_at": "2024-02-29 14:34:36",
@@ -611,6 +611,26 @@
     {
       "added_at": "2024-02-29 14:34:36",
       "album": {
+        "name": "Lost and Found",
+        "url": "https://open.spotify.com/album/7e8xq5Cixf4PIseZjXa3qj"
+      },
+      "artists": [
+        {
+          "name": "Buena Vista Social Club",
+          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+        },
+        {
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+        }
+      ],
+      "duration_ms": 244916,
+      "name": "L\u00e1grimas Negras (feat. Omara Portuondo)",
+      "url": "https://open.spotify.com/track/32NzVi6ne2G51sgmEeuGzl"
+    },
+    {
+      "added_at": "2024-02-29 14:34:36",
+      "album": {
         "name": "Tease Me",
         "url": "https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY"
       },
@@ -655,26 +675,6 @@
       "duration_ms": 328115,
       "name": "Los Caminos de la Vida - Spotify Singles",
       "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
-    },
-    {
-      "added_at": "2024-02-29 14:34:36",
-      "album": {
-        "name": "Lost and Found",
-        "url": "https://open.spotify.com/album/7e8xq5Cixf4PIseZjXa3qj"
-      },
-      "artists": [
-        {
-          "name": "Buena Vista Social Club",
-          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
-        },
-        {
-          "name": "Omara Portuondo",
-          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
-        }
-      ],
-      "duration_ms": 244916,
-      "name": "L\u00e1grimas Negras (feat. Omara Portuondo)",
-      "url": "https://open.spotify.com/track/32NzVi6ne2G51sgmEeuGzl"
     },
     {
       "added_at": "2024-02-29 14:34:36",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-02-29 14:34:36",
       "album": {
-        "name": "Resistance",
-        "url": "https://open.spotify.com/album/1XqtSROG7PSVbfJqeAqJ9D"
-      },
-      "artists": [
-        {
-          "name": "The Souljazz Orchestra",
-          "url": "https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Kossa Kossa",
-      "url": "https://open.spotify.com/track/0VRv4f0FS0XBp9qXzWAd8c"
-    },
-    {
-      "added_at": "2024-02-29 14:34:36",
-      "album": {
         "name": "Amansara",
         "url": "https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 233012,
       "name": "Sueno en Paraguay",
       "url": "https://open.spotify.com/track/5VOMJBi8KMutN8DUB1ZYro"
+    },
+    {
+      "added_at": "2024-02-29 14:34:36",
+      "album": {
+        "name": "Resistance",
+        "url": "https://open.spotify.com/album/1XqtSROG7PSVbfJqeAqJ9D"
+      },
+      "artists": [
+        {
+          "name": "The Souljazz Orchestra",
+          "url": "https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Kossa Kossa",
+      "url": "https://open.spotify.com/track/0VRv4f0FS0XBp9qXzWAd8c"
     },
     {
       "added_at": "2024-02-29 14:34:36",

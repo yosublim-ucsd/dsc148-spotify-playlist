@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 615001,
+  "2024-03-05": 615069,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Sweden.",
   "name": "Top 50 - Sweden",
@@ -1001,7 +1001,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 176315,
       "name": "Ahumma",
       "url": "https://open.spotify.com/track/3FekVM62XSKijk621AAaP3"
@@ -6993,7 +6993,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 182221,
       "name": "Doctor (Work It Out) [feat. Miley Cyrus]",
       "url": "https://open.spotify.com/track/4f9wNNZET9wH7eMBgONd3d"
@@ -7159,7 +7159,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 169066,
       "name": "Done Getting Over You",
       "url": "https://open.spotify.com/track/0ivSICeARK2xi8iRvHeVAd"
@@ -11951,7 +11951,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
@@ -17935,7 +17935,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 172268,
       "name": "Lighter",
       "url": "https://open.spotify.com/track/7hdNTegC0TCKKoxB6GTFH3"
@@ -27488,6 +27488,36 @@
     },
     {
       "album": {
+        "name": "SOLDAT (RMX)",
+        "url": "https://open.spotify.com/album/7d01BzemHy5sO25e3BodoN"
+      },
+      "artists": [
+        {
+          "name": "VC Barre",
+          "url": "https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU"
+        },
+        {
+          "name": "Golfklubb",
+          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
+        },
+        {
+          "name": "Pablo Paz",
+          "url": "https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0"
+        },
+        {
+          "name": "takenoelz",
+          "url": "https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139034,
+      "name": "SOLDAT - RMX",
+      "url": "https://open.spotify.com/track/7MZQoikPpcwneYkKhdRvoe"
+    },
+    {
+      "album": {
         "name": "Soldier Of Heaven",
         "url": "https://open.spotify.com/album/7u1ih7nlNGFE9sAkM4ac8C"
       },
@@ -27865,7 +27895,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 203520,
       "name": "SOVA",
       "url": "https://open.spotify.com/track/3p0WsdmgVU2ZNIufdYFBDt"
@@ -28985,7 +29015,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 177045,
       "name": "Supernatural",
       "url": "https://open.spotify.com/track/1bNHljyfq75Hcl2selYvLH"

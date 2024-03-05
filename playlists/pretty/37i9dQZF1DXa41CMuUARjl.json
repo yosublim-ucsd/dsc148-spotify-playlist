@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from LP Giobbi",
-  "num_followers": 467814,
+  "num_followers": 467900,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzJjMjVjZjk4ZDk4MjFiNmFiN2FjZmQ3NjcxYzE4YTBkOTQ4MDZm",
+  "snapshot_id": "MCw2MWYxZThjMmYwNmJiMmVmMTdkN2RhNzAyY2VjYjEzMTE4ODIxMWZl",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -78,6 +78,10 @@
         {
           "name": "Gesaffelstein",
           "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        },
+        {
+          "name": "Yan Wagner",
+          "url": "https://open.spotify.com/artist/7JLtS4ASAUsAYrsShMerMc"
         }
       ],
       "duration_ms": 170466,

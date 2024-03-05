@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 302011,
+  "num_followers": 302090,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTA1NWM0MWQxYjA4NWMxM2Q1ZjZhMmE2MzBlZGUzOTYwZGEzNDIw",
+  "snapshot_id": "MCw3OGE4MTJjNTlkY2ZkNWExMmM1NGQ3MmUxZmI5MjUyOWRkODUzZGQz",
   "tracks": [
     {
       "added_at": "2024-03-01 03:01:00",
@@ -539,26 +539,6 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
-        "name": "Ao Vivo Em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/2pKxo9wod5y9eKezCaCK3Q"
-      },
-      "artists": [
-        {
-          "name": "Big Up",
-          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
-        },
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 174858,
-      "name": "pequena - Ao Vivo",
-      "url": "https://open.spotify.com/track/5EqU0CRq0k4ZRg95lRoxRp"
-    },
-    {
-      "added_at": "2024-03-01 03:01:00",
-      "album": {
         "name": "Uma Noite E 1/2",
         "url": "https://open.spotify.com/album/3CJRazEYFedeCnvMtHvtua"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 143023,
       "name": "LEVE",
       "url": "https://open.spotify.com/track/7dnmU4oMR74LOnR9x5NQUo"
+    },
+    {
+      "added_at": "2024-03-01 03:01:00",
+      "album": {
+        "name": "Ao Vivo Em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/2pKxo9wod5y9eKezCaCK3Q"
+      },
+      "artists": [
+        {
+          "name": "Big Up",
+          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
+        },
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 174858,
+      "name": "pequena - Ao Vivo",
+      "url": "https://open.spotify.com/track/5EqU0CRq0k4ZRg95lRoxRp"
     },
     {
       "added_at": "2024-03-01 03:01:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
+        "name": "Frequ\u00eancia do Amor",
+        "url": "https://open.spotify.com/album/4xDj13FFF1V1qDwnQ8mHie"
+      },
+      "artists": [
+        {
+          "name": "Vitti Romera",
+          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
+        }
+      ],
+      "duration_ms": 161107,
+      "name": "Frequ\u00eancia do Amor",
+      "url": "https://open.spotify.com/track/5uhttrGCBD63qRmJbQOmM1"
+    },
+    {
+      "added_at": "2024-03-01 03:01:00",
+      "album": {
         "name": "O Que te Faz Viver",
         "url": "https://open.spotify.com/album/0ejMTMDQ4kWbJDimnXPNIr"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 192446,
       "name": "sei l\u00e1",
       "url": "https://open.spotify.com/track/3WgjuBYZ4lbcMewRspPd96"
-    },
-    {
-      "added_at": "2024-03-01 03:01:00",
-      "album": {
-        "name": "Frequ\u00eancia do Amor",
-        "url": "https://open.spotify.com/album/4xDj13FFF1V1qDwnQ8mHie"
-      },
-      "artists": [
-        {
-          "name": "Vitti Romera",
-          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
-        }
-      ],
-      "duration_ms": 161107,
-      "name": "Frequ\u00eancia do Amor",
-      "url": "https://open.spotify.com/track/5uhttrGCBD63qRmJbQOmM1"
     },
     {
       "added_at": "2024-03-01 03:01:00",

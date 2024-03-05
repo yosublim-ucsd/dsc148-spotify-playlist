@@ -1,12 +1,12 @@
 {
   "description": "Dixieland, Chicago Style and upbeat traditional jazz.",
-  "num_followers": 7751,
+  "num_followers": 7756,
   "original_name": "Hot-Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWQ5NzQwN2MxYmM3NTIzMmI5NDMwMTM5M2FiZjZjM2U3MjAyYzU4",
+  "snapshot_id": "MCwyOTQxMTQwNTU5ZTM5YmY4MTY1MTFkNGZjM2Q2ZDc0MDY0OWZmNTNi",
   "tracks": [
     {
       "added_at": "2020-08-19 17:19:14",
@@ -171,38 +171,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "The Best Of Sidney Bechet",
-        "url": "https://open.spotify.com/album/1DNkzO3Wq6tXBmlg7Xrpj1"
-      },
-      "artists": [
-        {
-          "name": "Sidney Bechet",
-          "url": "https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk"
-        }
-      ],
-      "duration_ms": 188640,
-      "name": "I Found A New Baby",
-      "url": "https://open.spotify.com/track/666dKdmoRCRcBNY6BwB98J"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "Doctor Jazz",
-        "url": "https://open.spotify.com/album/14rmyNpoLWlrgLIyF5jtbu"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll Morton",
-          "url": "https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "Doctor Jazz",
-      "url": "https://open.spotify.com/track/5LHzQRQpnxXeKMn3pmusSK"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Jazz Foundations Vol. 25",
         "url": "https://open.spotify.com/album/2EojFqvzd0GKRG1j8j7Dkn"
       },
@@ -271,18 +239,18 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Favorites",
-        "url": "https://open.spotify.com/album/5lfNvNliTVmnEAexxSRrES"
+        "name": "Doctor Jazz",
+        "url": "https://open.spotify.com/album/14rmyNpoLWlrgLIyF5jtbu"
       },
       "artists": [
         {
-          "name": "Turk Murphy",
-          "url": "https://open.spotify.com/artist/4h2o94HOvvR0FMjxpfvsDM"
+          "name": "Jelly Roll Morton",
+          "url": "https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD"
         }
       ],
-      "duration_ms": 180066,
-      "name": "By and By",
-      "url": "https://open.spotify.com/track/3nUCDAcUrRYHaBLHTZeQsb"
+      "duration_ms": 208266,
+      "name": "Doctor Jazz",
+      "url": "https://open.spotify.com/track/5LHzQRQpnxXeKMn3pmusSK"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -323,8 +291,8 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "The Fabulous Sidney Bechet",
-        "url": "https://open.spotify.com/album/3vfghXH6XIugrTCCNQfQTS"
+        "name": "The Best Of Sidney Bechet",
+        "url": "https://open.spotify.com/album/1DNkzO3Wq6tXBmlg7Xrpj1"
       },
       "artists": [
         {
@@ -332,9 +300,25 @@
           "url": "https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk"
         }
       ],
-      "duration_ms": 232306,
-      "name": "Ballin' The Jack",
-      "url": "https://open.spotify.com/track/0OIXJIZoivHSpq4jx3tnyc"
+      "duration_ms": 188640,
+      "name": "I Found A New Baby",
+      "url": "https://open.spotify.com/track/666dKdmoRCRcBNY6BwB98J"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Favorites",
+        "url": "https://open.spotify.com/album/5lfNvNliTVmnEAexxSRrES"
+      },
+      "artists": [
+        {
+          "name": "Turk Murphy",
+          "url": "https://open.spotify.com/artist/4h2o94HOvvR0FMjxpfvsDM"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "By and By",
+      "url": "https://open.spotify.com/track/3nUCDAcUrRYHaBLHTZeQsb"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -415,6 +399,22 @@
       "duration_ms": 220540,
       "name": "Milenberg Joys",
       "url": "https://open.spotify.com/track/0XVHUN98T5As7UgtEM4bQG"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "The Fabulous Sidney Bechet",
+        "url": "https://open.spotify.com/album/3vfghXH6XIugrTCCNQfQTS"
+      },
+      "artists": [
+        {
+          "name": "Sidney Bechet",
+          "url": "https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk"
+        }
+      ],
+      "duration_ms": 232306,
+      "name": "Ballin' The Jack",
+      "url": "https://open.spotify.com/track/0OIXJIZoivHSpq4jx3tnyc"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -747,22 +747,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "On Parade",
-        "url": "https://open.spotify.com/album/3cszsvpoZit9PVRyLFFIFJ"
-      },
-      "artists": [
-        {
-          "name": "The Dukes Of Dixieland",
-          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
-        }
-      ],
-      "duration_ms": 136714,
-      "name": "The Billboard",
-      "url": "https://open.spotify.com/track/5l1hy48hyxMBOvqOlNLuCu"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "New Orleans to Lyon, Vol. 1",
         "url": "https://open.spotify.com/album/1aeqEOzWMKydJN0X6W1VmB"
       },
@@ -843,6 +827,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "On Parade",
+        "url": "https://open.spotify.com/album/3cszsvpoZit9PVRyLFFIFJ"
+      },
+      "artists": [
+        {
+          "name": "The Dukes Of Dixieland",
+          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
+        }
+      ],
+      "duration_ms": 136714,
+      "name": "The Billboard",
+      "url": "https://open.spotify.com/track/5l1hy48hyxMBOvqOlNLuCu"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "Jazz Chronicles: Frank Teschemacher, Vol. 1",
         "url": "https://open.spotify.com/album/79pyHoEnZwE1CFs2Cs5CBe"
       },
@@ -867,6 +867,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "The Al Hirt Collection",
+        "url": "https://open.spotify.com/album/00jmMG4M1sEZReLNB0eWdp"
+      },
+      "artists": [
+        {
+          "name": "Al Hirt",
+          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
+        }
+      ],
+      "duration_ms": 210887,
+      "name": "Bill Bailey, Won't You Please Come Home?",
+      "url": "https://open.spotify.com/track/7ECMjzijToQMIBQKWWMm8o"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "Roaring' 20's",
         "url": "https://open.spotify.com/album/6yGyFKhtYmeatToldl421e"
       },
@@ -887,22 +903,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "The Al Hirt Collection",
-        "url": "https://open.spotify.com/album/00jmMG4M1sEZReLNB0eWdp"
-      },
-      "artists": [
-        {
-          "name": "Al Hirt",
-          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
-        }
-      ],
-      "duration_ms": 210887,
-      "name": "Bill Bailey, Won't You Please Come Home?",
-      "url": "https://open.spotify.com/track/7ECMjzijToQMIBQKWWMm8o"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "4th of July Parade: 30 Patriotic Marches for Independence Day",
         "url": "https://open.spotify.com/album/432LmWXgVvgFmHJRc1WQIj"
       },
@@ -915,6 +915,22 @@
       "duration_ms": 189074,
       "name": "Semper Fidelis",
       "url": "https://open.spotify.com/track/2xWLN4RW1XR7nYXZLBaRzG"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "More Best of the Dukes of Dixieland, Vol. 2",
+        "url": "https://open.spotify.com/album/1rRfpt3yGLxAIjZFDEXOaI"
+      },
+      "artists": [
+        {
+          "name": "The Dukes Of Dixieland",
+          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
+        }
+      ],
+      "duration_ms": 135274,
+      "name": "Thunder & Blazes",
+      "url": "https://open.spotify.com/track/79vlFseFpY0B9LALIfv9Nr"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -935,18 +951,34 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "More Best of the Dukes of Dixieland, Vol. 2",
-        "url": "https://open.spotify.com/album/1rRfpt3yGLxAIjZFDEXOaI"
+        "name": "30 Classics: Dixieland Jazz for Mardi Gras",
+        "url": "https://open.spotify.com/album/5heFsiR3EFo5kISFtOCFvE"
       },
       "artists": [
         {
-          "name": "The Dukes Of Dixieland",
-          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
+          "name": "Al Hirt",
+          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
         }
       ],
-      "duration_ms": 135274,
-      "name": "Thunder & Blazes",
-      "url": "https://open.spotify.com/track/79vlFseFpY0B9LALIfv9Nr"
+      "duration_ms": 232489,
+      "name": "Carry Me Back to Old Virginia",
+      "url": "https://open.spotify.com/track/2BrcPZPjjLBS9y04floMD5"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "30 Patriotic American Songs for Armed Forces Day",
+        "url": "https://open.spotify.com/album/6gN9uADfLhgWYgO3P3h4gu"
+      },
+      "artists": [
+        {
+          "name": "The Muscrat Ramblers",
+          "url": "https://open.spotify.com/artist/7sshU7PI841z2AbqZBiswL"
+        }
+      ],
+      "duration_ms": 199314,
+      "name": "The Band Played On",
+      "url": "https://open.spotify.com/track/5PF3omGkrsdaSOQRTHrPA8"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -987,38 +1019,6 @@
       "duration_ms": 316186,
       "name": "Oh Dem Golden Slippers",
       "url": "https://open.spotify.com/track/0vnAC7cwUAHOc1a0ePHku2"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "The Incomparable Henry Red Allen: The Golden Years, Vol. 2",
-        "url": "https://open.spotify.com/album/0ra114KUH3665xMzNqRhCK"
-      },
-      "artists": [
-        {
-          "name": "Henry \"Red\" Allen",
-          "url": "https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf"
-        }
-      ],
-      "duration_ms": 170866,
-      "name": "We're Gonna Have Smooth Sailing",
-      "url": "https://open.spotify.com/track/0O29WH3EatP3WEihCKufHa"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "30 Patriotic American Songs for Armed Forces Day",
-        "url": "https://open.spotify.com/album/6gN9uADfLhgWYgO3P3h4gu"
-      },
-      "artists": [
-        {
-          "name": "The Muscrat Ramblers",
-          "url": "https://open.spotify.com/artist/7sshU7PI841z2AbqZBiswL"
-        }
-      ],
-      "duration_ms": 199314,
-      "name": "The Band Played On",
-      "url": "https://open.spotify.com/track/5PF3omGkrsdaSOQRTHrPA8"
     }
   ],
   "unique_name": "Hot-Jazz Classics",

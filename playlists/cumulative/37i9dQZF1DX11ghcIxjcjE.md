@@ -2,7 +2,7 @@
 
 ### [Grunge Forever](https://open.spotify.com/playlist/37i9dQZF1DX11ghcIxjcjE)
 
-> Grunge will live forever\. Cover: Kurt Cobain
+> Grunge will live forever\. Cover: Soundgarden
 
 111 songs - 7 hr 59 min
 

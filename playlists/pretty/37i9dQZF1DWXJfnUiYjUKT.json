@@ -1,12 +1,12 @@
 {
   "description": "The very best in new music from around the world. Cover: Charli XCX",
-  "num_followers": 388346,
+  "num_followers": 389062,
   "original_name": "New Music Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODAwN2I5OWM3MzhhMjI3ZTNjNDZjNzQ2ZDE4ZTc1MDU0Nzc2ZGNi",
+  "snapshot_id": "MCw1MTI4ZmRjNWRmZjkzZGE3ZGUxZTY2YTllM2QzOWZhODdhZDk2Mzcx",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -598,6 +598,10 @@
         {
           "name": "Gesaffelstein",
           "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        },
+        {
+          "name": "Yan Wagner",
+          "url": "https://open.spotify.com/artist/7JLtS4ASAUsAYrsShMerMc"
         }
       ],
       "duration_ms": 170466,

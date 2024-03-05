@@ -789,6 +789,24 @@
     },
     {
       "album": {
+        "name": "Find Your Voice Episode 4: Pedro Cap\u00f3",
+        "url": "https://open.spotify.com/album/1rs0PIlOMkLDxgUSJGZUm6"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110273,
+      "name": "La Tierra del Olvido - Find Your Voice",
+      "url": "https://open.spotify.com/track/35kREytXpHJBHbr6YmqAgP"
+    },
+    {
+      "album": {
         "name": "Aquila",
         "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
       },

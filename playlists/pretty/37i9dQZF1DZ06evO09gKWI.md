@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09gKWI.md) - [plain]
 
 > This is Bivolt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320 likes - 39 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 321 likes - 39 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09gKWI.md) - [plain]
 | 38 | [Vista Loka](https://open.spotify.com/track/1AU9m2wkxMbaZpzIqd6Gr8) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Vista Loka](https://open.spotify.com/album/3lPDSgCpGJNJrQLKQ5VkFs) | 3:28 |
 | 39 | [Melhor da Vida](https://open.spotify.com/track/2yU6aVrosiFWiLj2VfzrEn) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Nitro](https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y) | 2:23 |
 
-Snapshot ID: `Mjg0OTExMzksMDAwMDAwMDAwOWZjN2ZmNWFhMGIxYmQ0ZGJhZGEwM2UzOGY1MjU3NA==`
+Snapshot ID: `Mjg0OTI1NjksMDAwMDAwMDBkZmZjZWQ4YTk0ZjM1NzZhYTI3OWU3MzIzZDIwNmQxMw==`

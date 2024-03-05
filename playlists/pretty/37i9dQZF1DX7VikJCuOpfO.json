@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Majo Aguilar ",
-  "num_followers": 72569,
+  "num_followers": 72579,
   "original_name": "Mariachi 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjllZjA3MzRkNjExY2QyMDc4MzBiYmUxZGJhMTVjNTg1NWM4OGQy",
+  "snapshot_id": "MCw0YTEwYmYyOTlhNzAzZTMwMmNkMDgyMjY0ZGNhYjdhZjVjMGRiODQ1",
   "tracks": [
     {
       "added_at": "2024-02-16 16:52:21",
@@ -315,6 +315,26 @@
     {
       "added_at": "2024-02-16 16:52:21",
       "album": {
+        "name": "AYAYAY! (S\u00faper Deluxe)",
+        "url": "https://open.spotify.com/album/1OlyomFZOv4Lx22rs4lBMw"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 171360,
+      "name": "Dime C\u00f3mo Quieres",
+      "url": "https://open.spotify.com/track/4jcxBTrNvyqMJdMDyyjdYV"
+    },
+    {
+      "added_at": "2024-02-16 16:52:21",
+      "album": {
         "name": "Mexicano Hasta Las Pampas",
         "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
       },
@@ -343,26 +363,6 @@
       "duration_ms": 152173,
       "name": "Si Nos Dejan - En Vivo",
       "url": "https://open.spotify.com/track/7nAvryV9PVCt9PQGPx7I0z"
-    },
-    {
-      "added_at": "2024-02-16 16:52:21",
-      "album": {
-        "name": "AYAYAY! (S\u00faper Deluxe)",
-        "url": "https://open.spotify.com/album/1OlyomFZOv4Lx22rs4lBMw"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 171360,
-      "name": "Dime C\u00f3mo Quieres",
-      "url": "https://open.spotify.com/track/4jcxBTrNvyqMJdMDyyjdYV"
     },
     {
       "added_at": "2024-02-16 16:52:21",
@@ -403,6 +403,22 @@
       "duration_ms": 185038,
       "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
       "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
+    },
+    {
+      "added_at": "2024-02-16 16:52:21",
+      "album": {
+        "name": "Un Lu*Jo",
+        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 186413,
+      "name": "Dis\u00e9\u00f1ame",
+      "url": "https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP"
     },
     {
       "added_at": "2024-02-16 16:52:21",
@@ -459,22 +475,6 @@
       "duration_ms": 229053,
       "name": "Caballero",
       "url": "https://open.spotify.com/track/6jrK6Y8d9tvjAjurI4W99u"
-    },
-    {
-      "added_at": "2024-02-16 16:52:21",
-      "album": {
-        "name": "Un Lu*Jo",
-        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 186413,
-      "name": "Dis\u00e9\u00f1ame",
-      "url": "https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP"
     },
     {
       "added_at": "2024-02-16 16:52:21",
@@ -555,26 +555,6 @@
     {
       "added_at": "2024-02-16 16:52:21",
       "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/6ia94ihMQr60Wzr9kqvjoT"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 192960,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/6CFaze42M5wiTqMidNtJLE"
-    },
-    {
-      "added_at": "2024-02-16 16:52:21",
-      "album": {
         "name": "Mexicana Enamorada",
         "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
       },
@@ -591,18 +571,22 @@
     {
       "added_at": "2024-02-16 16:52:21",
       "album": {
-        "name": "Forajido EP2",
-        "url": "https://open.spotify.com/album/26V8oCj2Lxs2tLemL0Xf3g"
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/6ia94ihMQr60Wzr9kqvjoT"
       },
       "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        },
         {
           "name": "Christian Nodal",
           "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 188676,
-      "name": "Cazzualidades",
-      "url": "https://open.spotify.com/track/1lvA3HsMSLGoFqzxzQVYdu"
+      "duration_ms": 192960,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/6CFaze42M5wiTqMidNtJLE"
     },
     {
       "added_at": "2024-02-16 16:52:21",
@@ -679,6 +663,22 @@
     {
       "added_at": "2024-02-16 16:52:21",
       "album": {
+        "name": "Forajido EP2",
+        "url": "https://open.spotify.com/album/26V8oCj2Lxs2tLemL0Xf3g"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 188676,
+      "name": "Cazzualidades",
+      "url": "https://open.spotify.com/track/1lvA3HsMSLGoFqzxzQVYdu"
+    },
+    {
+      "added_at": "2024-02-16 16:52:21",
+      "album": {
         "name": "Brindo",
         "url": "https://open.spotify.com/album/5WBJnHs3CWYPwoi3yJS58x"
       },
@@ -691,6 +691,26 @@
       "duration_ms": 185460,
       "name": "Brindo",
       "url": "https://open.spotify.com/track/1oLp4xkeNCxjMy4glz0vbL"
+    },
+    {
+      "added_at": "2024-02-16 16:52:21",
+      "album": {
+        "name": "Me Hace Tanto Bien",
+        "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 231304,
+      "name": "Me Hace Tanto Bien",
+      "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
     },
     {
       "added_at": "2024-02-16 16:52:21",
@@ -747,26 +767,6 @@
       "duration_ms": 157040,
       "name": "Esta Noche",
       "url": "https://open.spotify.com/track/6RruB10Yvw1uCHHSIku5qW"
-    },
-    {
-      "added_at": "2024-02-16 16:52:21",
-      "album": {
-        "name": "Me Hace Tanto Bien",
-        "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 231304,
-      "name": "Me Hace Tanto Bien",
-      "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
     },
     {
       "added_at": "2024-02-16 16:52:21",
@@ -847,38 +847,6 @@
     {
       "added_at": "2024-02-16 16:52:21",
       "album": {
-        "name": "M\u00e9xico de Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
-      },
-      "artists": [
-        {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        }
-      ],
-      "duration_ms": 203840,
-      "name": "La Gata Bajo la Lluvia",
-      "url": "https://open.spotify.com/track/385FrLURUeIGS7UJ8Gaq3G"
-    },
-    {
-      "added_at": "2024-02-16 16:52:21",
-      "album": {
-        "name": "A la Medida",
-        "url": "https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 270943,
-      "name": "Hasta Que Llegue el Alba",
-      "url": "https://open.spotify.com/track/4jZWVQZRZ0oMhvlYzr9Ewa"
-    },
-    {
-      "added_at": "2024-02-16 16:52:21",
-      "album": {
         "name": "Inexperto En Olvidarte",
         "url": "https://open.spotify.com/album/4ZBMLo0vXL00kQqp3SeebE"
       },
@@ -891,6 +859,38 @@
       "duration_ms": 185213,
       "name": "Inexperto En Olvidarte",
       "url": "https://open.spotify.com/track/1WvNTYRxyodbQ4NPmO9jKZ"
+    },
+    {
+      "added_at": "2024-02-16 16:52:21",
+      "album": {
+        "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
+        "url": "https://open.spotify.com/album/2lrBqFbFWoZddaOjUbD1DF"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 228187,
+      "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
+      "url": "https://open.spotify.com/track/6C9gYd0KyVHYgxaJu4c9Td"
+    },
+    {
+      "added_at": "2024-02-16 16:52:21",
+      "album": {
+        "name": "M\u00e9xico de Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        }
+      ],
+      "duration_ms": 203840,
+      "name": "La Gata Bajo la Lluvia",
+      "url": "https://open.spotify.com/track/385FrLURUeIGS7UJ8Gaq3G"
     },
     {
       "added_at": "2024-02-16 16:52:21",
@@ -911,18 +911,18 @@
     {
       "added_at": "2024-02-16 16:52:21",
       "album": {
-        "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
-        "url": "https://open.spotify.com/album/2lrBqFbFWoZddaOjUbD1DF"
+        "name": "A la Medida",
+        "url": "https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1"
       },
       "artists": [
         {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 228187,
-      "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
-      "url": "https://open.spotify.com/track/6C9gYd0KyVHYgxaJu4c9Td"
+      "duration_ms": 270943,
+      "name": "Hasta Que Llegue el Alba",
+      "url": "https://open.spotify.com/track/4jZWVQZRZ0oMhvlYzr9Ewa"
     },
     {
       "added_at": "2024-02-16 16:52:21",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-02-16 16:52:21",
       "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 206383,
+      "name": "Se Disfraz\u00f3",
+      "url": "https://open.spotify.com/track/369tzGKeCGugQApIbeKFuW"
+    },
+    {
+      "added_at": "2024-02-16 16:52:21",
+      "album": {
         "name": "Lo Que No Sirve, Estorba",
         "url": "https://open.spotify.com/album/0I9nIeCH2dJVy8gEthtJ2t"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 156640,
       "name": "Lo Que No Sirve, Estorba",
       "url": "https://open.spotify.com/track/5kDmZruM2jWU1A8A0o1EmN"
-    },
-    {
-      "added_at": "2024-02-16 16:52:21",
-      "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 206383,
-      "name": "Se Disfraz\u00f3",
-      "url": "https://open.spotify.com/track/369tzGKeCGugQApIbeKFuW"
     },
     {
       "added_at": "2024-02-16 16:52:21",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-02-16 16:52:21",
       "album": {
-        "name": "Pa' Olvidar",
-        "url": "https://open.spotify.com/album/3N7u4XnJEIkr0Os15iYdj0"
-      },
-      "artists": [
-        {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
-        }
-      ],
-      "duration_ms": 165756,
-      "name": "En Mis Zapatos",
-      "url": "https://open.spotify.com/track/0qyuualuo4GnERGgnBlxr3"
-    },
-    {
-      "added_at": "2024-02-16 16:52:21",
-      "album": {
         "name": "La Jugada",
         "url": "https://open.spotify.com/album/0BHbOtxdDJrsNYIYNZpvNj"
       },
@@ -1171,22 +1155,6 @@
     {
       "added_at": "2024-02-16 16:52:21",
       "album": {
-        "name": "Canci\u00f3n Para Olvidarte",
-        "url": "https://open.spotify.com/album/6ASkiClgHpsUdT0msxIeNm"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 164120,
-      "name": "Canci\u00f3n Para Olvidarte",
-      "url": "https://open.spotify.com/track/5NHqqzA8PRI5qbslHYJirQ"
-    },
-    {
-      "added_at": "2024-02-16 16:52:21",
-      "album": {
         "name": "La Fuerza",
         "url": "https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5"
       },
@@ -1199,6 +1167,22 @@
       "duration_ms": 228635,
       "name": "La Reina",
       "url": "https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h"
+    },
+    {
+      "added_at": "2024-02-16 16:52:21",
+      "album": {
+        "name": "Pa' Olvidar",
+        "url": "https://open.spotify.com/album/3N7u4XnJEIkr0Os15iYdj0"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "duration_ms": 165756,
+      "name": "En Mis Zapatos",
+      "url": "https://open.spotify.com/track/0qyuualuo4GnERGgnBlxr3"
     },
     {
       "added_at": "2024-02-16 16:52:21",
@@ -1219,18 +1203,18 @@
     {
       "added_at": "2024-02-16 16:52:21",
       "album": {
-        "name": "El Pobre",
-        "url": "https://open.spotify.com/album/2o0YZTT6meWJQanPuE9Leo"
+        "name": "Canci\u00f3n Para Olvidarte",
+        "url": "https://open.spotify.com/album/6ASkiClgHpsUdT0msxIeNm"
       },
       "artists": [
         {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 185406,
-      "name": "El Pobre",
-      "url": "https://open.spotify.com/track/70JWpuu0bC42tp0YTkHYpx"
+      "duration_ms": 164120,
+      "name": "Canci\u00f3n Para Olvidarte",
+      "url": "https://open.spotify.com/track/5NHqqzA8PRI5qbslHYJirQ"
     },
     {
       "added_at": "2024-02-16 16:52:21",
@@ -1247,6 +1231,22 @@
       "duration_ms": 169750,
       "name": "Decide Qu\u00e9 Somos",
       "url": "https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e"
+    },
+    {
+      "added_at": "2024-02-16 16:52:21",
+      "album": {
+        "name": "El Pobre",
+        "url": "https://open.spotify.com/album/2o0YZTT6meWJQanPuE9Leo"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        }
+      ],
+      "duration_ms": 185406,
+      "name": "El Pobre",
+      "url": "https://open.spotify.com/track/70JWpuu0bC42tp0YTkHYpx"
     },
     {
       "added_at": "2024-02-16 16:52:21",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2024-02-16 16:52:21",
       "album": {
-        "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
-        "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
-      },
-      "artists": [
-        {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        },
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 186640,
-      "name": "Renunciaci\u00f3n",
-      "url": "https://open.spotify.com/track/1JEBRG9J6YOpGpW67dXsHH"
-    },
-    {
-      "added_at": "2024-02-16 16:52:21",
-      "album": {
         "name": "Prohibido",
         "url": "https://open.spotify.com/album/2QmoW4oUr31FGEXmCPkOYJ"
       },
@@ -1411,6 +1391,26 @@
       "duration_ms": 188826,
       "name": "Prohibido",
       "url": "https://open.spotify.com/track/7FrC84e3mKxhFA4H9Xexaf"
+    },
+    {
+      "added_at": "2024-02-16 16:52:21",
+      "album": {
+        "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
+        "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        },
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 186640,
+      "name": "Renunciaci\u00f3n",
+      "url": "https://open.spotify.com/track/1JEBRG9J6YOpGpW67dXsHH"
     },
     {
       "added_at": "2024-02-16 16:52:21",
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2024-02-16 16:52:21",
       "album": {
-        "name": "Dime Qu\u00e9 Se Siente",
-        "url": "https://open.spotify.com/album/4AGPivHFA82lHKFeIdM7kP"
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
       },
       "artists": [
         {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 161373,
-      "name": "Dime Qu\u00e9 Se Siente",
-      "url": "https://open.spotify.com/track/2FnRmVa4tP4JTQO5TKZCrS"
+      "duration_ms": 233879,
+      "name": "Uno Y Uno",
+      "url": "https://open.spotify.com/track/0icE6mNTDgKULNLMZuLebj"
     }
   ],
   "unique_name": "Mariachi 2024",

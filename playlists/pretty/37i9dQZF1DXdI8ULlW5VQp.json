@@ -1,12 +1,12 @@
 {
   "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Reik y Ha*Ash en portada.",
-  "num_followers": 65690,
+  "num_followers": 65723,
   "original_name": "Cantamores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTY2OTViODM1ZWM3MjM5MmE3NTM5YzI0MDRjNGE2MWI3ZGQ2MzBm",
+  "snapshot_id": "MCxiNDExZTY4ODI5NDQzYTYzN2YyMDc2ZjU3M2QwNjA0NWQ4YWFkNWFl",
   "tracks": [
     {
       "added_at": "2023-09-26 16:29:26",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-09-26 16:29:26",
       "album": {
-        "name": "Miel",
-        "url": "https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B"
-      },
-      "artists": [
-        {
-          "name": "Lauri Garcia",
-          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
-        }
-      ],
-      "duration_ms": 124589,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ"
-    },
-    {
-      "added_at": "2023-09-26 16:29:26",
-      "album": {
         "name": "Volare",
         "url": "https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 147598,
       "name": "Volare",
       "url": "https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU"
+    },
+    {
+      "added_at": "2023-09-26 16:29:26",
+      "album": {
+        "name": "Miel",
+        "url": "https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B"
+      },
+      "artists": [
+        {
+          "name": "Lauri Garcia",
+          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
+        }
+      ],
+      "duration_ms": 124589,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ"
     },
     {
       "added_at": "2023-09-26 16:29:26",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-09-26 16:29:26",
       "album": {
+        "name": "Dime t\u00fa",
+        "url": "https://open.spotify.com/album/3eOqEdggLEeQz0jAZpNCXD"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 210302,
+      "name": "Dime t\u00fa",
+      "url": "https://open.spotify.com/track/6z8sQFj47s9ZG0Ls1k9Gct"
+    },
+    {
+      "added_at": "2023-09-26 16:29:26",
+      "album": {
         "name": "Mexicana Enamorada",
         "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
       },
@@ -523,26 +539,6 @@
       "duration_ms": 228989,
       "name": "Ella Qu\u00e9 Te Dio",
       "url": "https://open.spotify.com/track/24wYpTB7F9gqHfmAJxj6Mb"
-    },
-    {
-      "added_at": "2023-09-26 16:29:26",
-      "album": {
-        "name": "Cu\u00e1ntas Veces",
-        "url": "https://open.spotify.com/album/2nliVdeqWoH2jDShBUdGMj"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        },
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 194127,
-      "name": "Cu\u00e1ntas Veces",
-      "url": "https://open.spotify.com/track/0dfyGtKJoxV8KAYRpSwBiL"
     },
     {
       "added_at": "2023-09-26 16:29:26",
@@ -583,22 +579,6 @@
     {
       "added_at": "2023-09-26 16:29:26",
       "album": {
-        "name": "Dime t\u00fa",
-        "url": "https://open.spotify.com/album/3eOqEdggLEeQz0jAZpNCXD"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 210302,
-      "name": "Dime t\u00fa",
-      "url": "https://open.spotify.com/track/6z8sQFj47s9ZG0Ls1k9Gct"
-    },
-    {
-      "added_at": "2023-09-26 16:29:26",
-      "album": {
         "name": "El Cielo A\u00fan Espera",
         "url": "https://open.spotify.com/album/0a33IGqqFPLIkiKVS7BnhV"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 192066,
       "name": "Subt\u00edtulos",
       "url": "https://open.spotify.com/track/3GXLEtcY0SsmpRoiGWGuZM"
+    },
+    {
+      "added_at": "2023-09-26 16:29:26",
+      "album": {
+        "name": "Cu\u00e1ntas Veces",
+        "url": "https://open.spotify.com/album/2nliVdeqWoH2jDShBUdGMj"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 194127,
+      "name": "Cu\u00e1ntas Veces",
+      "url": "https://open.spotify.com/track/0dfyGtKJoxV8KAYRpSwBiL"
     },
     {
       "added_at": "2023-09-26 16:29:26",
@@ -687,26 +687,6 @@
     {
       "added_at": "2023-09-26 16:29:26",
       "album": {
-        "name": "Un Viaje a Todas Partes",
-        "url": "https://open.spotify.com/album/4Zvth8uetJ0XyKfaLVN7n0"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        },
-        {
-          "name": "Melissa Robles",
-          "url": "https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs"
-        }
-      ],
-      "duration_ms": 203836,
-      "name": "Un Viaje a Todas Partes",
-      "url": "https://open.spotify.com/track/1IyyGyeI0FK3zfrDbDb0QF"
-    },
-    {
-      "added_at": "2023-09-26 16:29:26",
-      "album": {
         "name": "Ahora S\u00e9",
         "url": "https://open.spotify.com/album/7c0oX5ymPQwBlgO9ETKrXx"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 199080,
       "name": "Respirar",
       "url": "https://open.spotify.com/track/2vEWdPXczuJoK6cim5jxK5"
+    },
+    {
+      "added_at": "2023-09-26 16:29:26",
+      "album": {
+        "name": "Un Viaje a Todas Partes",
+        "url": "https://open.spotify.com/album/4Zvth8uetJ0XyKfaLVN7n0"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        },
+        {
+          "name": "Melissa Robles",
+          "url": "https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs"
+        }
+      ],
+      "duration_ms": 203836,
+      "name": "Un Viaje a Todas Partes",
+      "url": "https://open.spotify.com/track/1IyyGyeI0FK3zfrDbDb0QF"
     },
     {
       "added_at": "2023-09-26 16:29:26",
@@ -771,6 +771,22 @@
       "duration_ms": 259122,
       "name": "Contigo Quiero",
       "url": "https://open.spotify.com/track/6wSyB4yMjlQcMc1xa7F92O"
+    },
+    {
+      "added_at": "2023-09-26 16:29:26",
+      "album": {
+        "name": "Dime Que S\u00ed",
+        "url": "https://open.spotify.com/album/5GvafeiQzIgdPpLcq2UtUs"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 274601,
+      "name": "Dime Que S\u00ed",
+      "url": "https://open.spotify.com/track/0ZYVbnBPqWIWjTpT796kpY"
     },
     {
       "added_at": "2023-09-26 16:29:26",
@@ -875,22 +891,6 @@
       "duration_ms": 220365,
       "name": "Tom's Diner",
       "url": "https://open.spotify.com/track/39kbxtqZyRkgBCTQy0hlX0"
-    },
-    {
-      "added_at": "2023-09-26 16:29:26",
-      "album": {
-        "name": "Dime Que S\u00ed",
-        "url": "https://open.spotify.com/album/5GvafeiQzIgdPpLcq2UtUs"
-      },
-      "artists": [
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
-        }
-      ],
-      "duration_ms": 274601,
-      "name": "Dime Que S\u00ed",
-      "url": "https://open.spotify.com/track/0ZYVbnBPqWIWjTpT796kpY"
     },
     {
       "added_at": "2023-09-26 16:29:26",
@@ -1091,6 +1091,26 @@
     {
       "added_at": "2023-09-26 16:29:26",
       "album": {
+        "name": "Luna y Marea (feat. KURT)",
+        "url": "https://open.spotify.com/album/3lekI28ahWodrOaaRgmmae"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 228731,
+      "name": "Luna y Marea (feat. KURT)",
+      "url": "https://open.spotify.com/track/5Z2gkSJIibMCdbE7TWceE6"
+    },
+    {
+      "added_at": "2023-09-26 16:29:26",
+      "album": {
         "name": "Entre T\u00fa y Yo",
         "url": "https://open.spotify.com/album/10aN8c0GaKn8cCNTa8REYh"
       },
@@ -1123,26 +1143,6 @@
       "duration_ms": 193443,
       "name": "Todo el Ruido del Mundo",
       "url": "https://open.spotify.com/track/3pILIhM9jDZ94GsyB7r82u"
-    },
-    {
-      "added_at": "2023-09-26 16:29:26",
-      "album": {
-        "name": "Luna y Marea (feat. KURT)",
-        "url": "https://open.spotify.com/album/3lekI28ahWodrOaaRgmmae"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        },
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 228731,
-      "name": "Luna y Marea (feat. KURT)",
-      "url": "https://open.spotify.com/track/5Z2gkSJIibMCdbE7TWceE6"
     },
     {
       "added_at": "2023-09-26 16:29:26",

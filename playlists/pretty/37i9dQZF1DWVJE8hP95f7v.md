@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 
 > Um apanhado do soul brasileiro para animar e dançar\. Foto: Gerson King Combo
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,542 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,553 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 | 74 | [Faca Fake](https://open.spotify.com/track/6ExD1ytOeShmnoEkQ6EAy5) | [Aláfia](https://open.spotify.com/artist/2ZzDm7UiS7g3e9HVjTMr29), [Sérgio Vaz](https://open.spotify.com/artist/6vccXOyVtwBKPkOrDmsDJk) | [Liturgia Samba Soul](https://open.spotify.com/album/2XYOFAiPlXl4eUldblrFGb) | 3:03 |
 | 75 | [Nós dois um só \- Just You And Me](https://open.spotify.com/track/4ze1NjtQxLnbOwRSHVUeWy) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Nós dois um só \(Just You And Me\)](https://open.spotify.com/album/46AmONQlUeyTzkERmWwG21) | 2:27 |
 
-Snapshot ID: `MCxiZTM0MjYyYThiNTM4NzQ1MTljNmZiZTJmNzdjZDdkMDRiMmY3YmFm`
+Snapshot ID: `MCxjOGVhNzNjMzIzNzNkMjU5MWYyMmFiMWQ1MjZiMTgxNjY0ZWQ3MWUz`

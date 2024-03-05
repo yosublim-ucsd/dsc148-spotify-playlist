@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZSkZGhJFi1.md) - [plain]
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,572 likes - 450 songs - 17 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,583 likes - 450 songs - 17 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -415,8 +415,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZSkZGhJFi1.md) - [plain]
 | 405 | [On My Own](https://open.spotify.com/track/2c0vdzZDEULEqPdZkmieXe) | [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB), [okwow](https://open.spotify.com/artist/1Gx2S5p5nWuMKhPq3k2kCq) | [On My Own](https://open.spotify.com/album/0zFnzQpP0iGMcnyuSfiSzP) | 2:34 |
 | 406 | [Moment Of Silence](https://open.spotify.com/track/4mJFD9hDd7X360TNKWpi5y) | [Lvnt](https://open.spotify.com/artist/0lJBgFBswR7nf4TrKtwZQt), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Moment Of Silence](https://open.spotify.com/album/0lPMq6UpMLq4OnO2NClvKP) | 2:36 |
 | 407 | [Morning Read](https://open.spotify.com/track/4B11reI63aYGSH2ASjxKT5) | [Sella Vie](https://open.spotify.com/artist/1KQ9sumkPMkY6j1W8ocSvZ), [Mister Calm](https://open.spotify.com/artist/6NXpqG8WiGvpAT9szvlUI8), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Morning Read](https://open.spotify.com/album/51mZ8yavWAKoNdJpIHGm56) | 1:34 |
-| 408 | [Breathe](https://open.spotify.com/track/4IRM3iTIInBJ7oYkYP61F6) | [Carabide](https://open.spotify.com/artist/0wNoA8QqgWPT80bU8sVrJS), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD), [Summum](https://open.spotify.com/artist/4iC29mHqpn1NwZN7hf53Pt) | [Breathe](https://open.spotify.com/album/2Rfn3GAAWwaewH4cmG9OC7) | 2:14 |
-| 409 | [don't worry it will be okay](https://open.spotify.com/track/5mCdx36Sn4lSlmFeMozAGI) | [Aviscerall](https://open.spotify.com/artist/39eka3QcVZN0xYUX5nvtXM) | [don't worry it will be okay](https://open.spotify.com/album/1i6hCRgWPoDVH9egvxgvdp) | 2:23 |
+| 408 | [don't worry it will be okay](https://open.spotify.com/track/5mCdx36Sn4lSlmFeMozAGI) | [Aviscerall](https://open.spotify.com/artist/39eka3QcVZN0xYUX5nvtXM) | [don't worry it will be okay](https://open.spotify.com/album/1i6hCRgWPoDVH9egvxgvdp) | 2:23 |
+| 409 | [Breathe](https://open.spotify.com/track/4IRM3iTIInBJ7oYkYP61F6) | [Carabide](https://open.spotify.com/artist/0wNoA8QqgWPT80bU8sVrJS), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD), [Summum](https://open.spotify.com/artist/4iC29mHqpn1NwZN7hf53Pt) | [Breathe](https://open.spotify.com/album/2Rfn3GAAWwaewH4cmG9OC7) | 2:14 |
 | 410 | [Calypso's Groove](https://open.spotify.com/track/32CSGiAJ3IJTyIWBG1K2CC) | [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J) | [Calypso's Groove](https://open.spotify.com/album/1yPQjGsSWcfXbrA4qazF2U) | 2:04 |
 | 411 | [On Golden Pond](https://open.spotify.com/track/0w2qPXThCA5AxbolFra2Ap) | [Zen Miyako](https://open.spotify.com/artist/7bQoGwzUNcgjhl5wn7gpOu) | [On Golden Pond](https://open.spotify.com/album/62q6SGct1PhpQ9beHT38zw) | 3:16 |
 | 412 | [Just One Of Those Things](https://open.spotify.com/track/0cPgDhXIJMX45AIRCdzYZz) | [Victor Lundberg](https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh) | [Just One of Those Things](https://open.spotify.com/album/4ECH1gTcz4Svspd0UrgwCT) | 4:06 |
@@ -459,4 +459,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZSkZGhJFi1.md) - [plain]
 | 449 | [Affirmations](https://open.spotify.com/track/0k8Z6E4Jbx11Y9pwPo7BEA) | [Yles](https://open.spotify.com/artist/6xuhrq8QZxXqXRz5XKxwaG), [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X) | [Affirmations](https://open.spotify.com/album/4rPQSr2OlsePkDkfNKesm9) | 1:52 |
 | 450 | [Wonder](https://open.spotify.com/track/5i0QmCyCt4qJudSqoNbu17) | [Dixxy](https://open.spotify.com/artist/3tzNFZuGKTcNypBltcMf4a) | [Wonder](https://open.spotify.com/album/1upkA8NqjW7otpz8jaheYg) | 3:12 |
 
-Snapshot ID: `MCw1NzljODZhZWM4ZjczNzlkZjg5ZWM0OWEzNjMzMGVmYmYwNjdhNDc0`
+Snapshot ID: `MCw5ZGM0NGQ5YTkwNTM5ZTU3YmZmNzAzNTE3ZGY4OWVhYWM3YWZkNGMy`

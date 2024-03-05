@@ -1,5 +1,5 @@
 {
-  "2024-03-04": 6909,
+  "2024-03-05": 6908,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Bulgaria.",
   "name": "Viral 50 - Bulgaria",
@@ -101,7 +101,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 295471,
       "name": "BACK TO ME",
       "url": "https://open.spotify.com/track/1icgLGTpX2fQXKRe4D7w2b"
@@ -2063,6 +2063,32 @@
     {
       "album": {
         "name": "LES DERNI\u00c8RES VOLONT\u00c9S DE MOZART (SYMPHONY)",
+        "url": "https://open.spotify.com/album/70puiNnXbXIRjGTwj1D83e"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "SativaMusic",
+          "url": "https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188484,
+      "name": "SEYA",
+      "url": "https://open.spotify.com/track/1Ljb1Bo6Nc9SqdtKdkXHCN"
+    },
+    {
+      "album": {
+        "name": "LES DERNI\u00c8RES VOLONT\u00c9S DE MOZART (SYMPHONY)",
         "url": "https://open.spotify.com/album/3kODAAfimujT9QY8PaNgDn"
       },
       "artists": [
@@ -2383,7 +2409,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 180475,
       "name": "Stayed Gone",
       "url": "https://open.spotify.com/track/4Po97bPnn3ISdEkuJBMt2f"
@@ -2437,7 +2463,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 152186,
       "name": "Super Lady",
       "url": "https://open.spotify.com/track/5qI5EUqfDJpQ7w6sMECK7U"
@@ -2811,7 +2837,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 155480,
       "name": "We Fell Apart - Slowed",
       "url": "https://open.spotify.com/track/4oExAGoqR0JWK628dYaQ2f"
@@ -3073,7 +3099,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 196363,
       "name": "\u0414\u0430\u043b\u0438, \u0434\u0430\u043b\u0438",
       "url": "https://open.spotify.com/track/2hPQ383ZavYmR9KvFLw134"

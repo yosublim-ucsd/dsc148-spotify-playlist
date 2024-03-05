@@ -1,12 +1,12 @@
 {
   "description": "A salute to all of the women opening up the pit. Cover: Courtney LaPlante of Spiritbox",
-  "num_followers": 656339,
+  "num_followers": 656897,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWFjZTBkYjhmY2UwZTAyOGU2YzljNDc0NjczM2JjNmIwYmM0ZTAw",
+  "snapshot_id": "MCw1Mjg2MDNhY2RmYThmMmI3N2QyMDIyZjI3ZDk3ZDZiYjQ0Njk4MTdi",
   "tracks": [
     {
       "added_at": "2024-02-16 12:14:47",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-02-16 12:14:47",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F"
-      },
-      "artists": [
-        {
-          "name": "In This Moment",
-          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
-        }
-      ],
-      "duration_ms": 254811,
-      "name": "The In-Between",
-      "url": "https://open.spotify.com/track/3WZiHsjugLgasZW7wGemNN"
-    },
-    {
-      "added_at": "2024-02-16 12:14:47",
-      "album": {
         "name": "Slow Burn",
         "url": "https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9"
       },
@@ -251,22 +235,6 @@
       "duration_ms": 237115,
       "name": "Atonement",
       "url": "https://open.spotify.com/track/1IcUvKPxQSbGCL4fhf0oaK"
-    },
-    {
-      "added_at": "2024-02-16 12:14:47",
-      "album": {
-        "name": "Petrichor",
-        "url": "https://open.spotify.com/album/5MMpn220uT7mgXdfzrKtnS"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 243783,
-      "name": "Petrichor",
-      "url": "https://open.spotify.com/track/6MRk1DdNtF7OZSVZYtvZyw"
     },
     {
       "added_at": "2024-02-16 12:14:47",
@@ -287,34 +255,18 @@
     {
       "added_at": "2024-02-16 12:14:47",
       "album": {
-        "name": "Rotoscope",
-        "url": "https://open.spotify.com/album/01vIMDzbZrTEhtScu8jrGW"
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F"
       },
       "artists": [
         {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
         }
       ],
-      "duration_ms": 215362,
-      "name": "Rotoscope",
-      "url": "https://open.spotify.com/track/5LJmf4fMXEvO1PdlCBKwRz"
-    },
-    {
-      "added_at": "2024-02-16 12:14:47",
-      "album": {
-        "name": "Fear of Dying",
-        "url": "https://open.spotify.com/album/56Dlp0JgocLaF8r6HYZe0Z"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 163062,
-      "name": "Fear of Dying",
-      "url": "https://open.spotify.com/track/30NCaDbTGyUJKTMrQwgXQG"
+      "duration_ms": 254811,
+      "name": "The In-Between",
+      "url": "https://open.spotify.com/track/3WZiHsjugLgasZW7wGemNN"
     },
     {
       "added_at": "2024-02-16 12:14:47",
@@ -331,6 +283,38 @@
       "duration_ms": 118863,
       "name": "Pink Rover",
       "url": "https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606"
+    },
+    {
+      "added_at": "2024-02-16 12:14:47",
+      "album": {
+        "name": "Rotoscope",
+        "url": "https://open.spotify.com/album/01vIMDzbZrTEhtScu8jrGW"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 215362,
+      "name": "Rotoscope",
+      "url": "https://open.spotify.com/track/5LJmf4fMXEvO1PdlCBKwRz"
+    },
+    {
+      "added_at": "2024-02-16 12:14:47",
+      "album": {
+        "name": "Petrichor",
+        "url": "https://open.spotify.com/album/5MMpn220uT7mgXdfzrKtnS"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 243783,
+      "name": "Petrichor",
+      "url": "https://open.spotify.com/track/6MRk1DdNtF7OZSVZYtvZyw"
     },
     {
       "added_at": "2024-02-16 12:14:47",
@@ -371,38 +355,18 @@
     {
       "added_at": "2024-02-16 12:14:47",
       "album": {
-        "name": "Back From the Dead",
-        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
+        "name": "Fear of Dying",
+        "url": "https://open.spotify.com/album/56Dlp0JgocLaF8r6HYZe0Z"
       },
       "artists": [
         {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
         }
       ],
-      "duration_ms": 207445,
-      "name": "The Steeple",
-      "url": "https://open.spotify.com/track/09XBDPqHnevLn54rpRMjkZ"
-    },
-    {
-      "added_at": "2024-02-16 12:14:47",
-      "album": {
-        "name": "Eternal Blue",
-        "url": "https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        },
-        {
-          "name": "Sam Carter",
-          "url": "https://open.spotify.com/artist/21QEpK62qn34QVshh4qpTK"
-        }
-      ],
-      "duration_ms": 198067,
-      "name": "Yellowjacket (feat. Sam Carter)",
-      "url": "https://open.spotify.com/track/3zQy3N1K8Mk5QknfFuVGNc"
+      "duration_ms": 163062,
+      "name": "Fear of Dying",
+      "url": "https://open.spotify.com/track/30NCaDbTGyUJKTMrQwgXQG"
     },
     {
       "added_at": "2024-02-16 12:14:47",
@@ -423,6 +387,22 @@
       "duration_ms": 186986,
       "name": "Strong",
       "url": "https://open.spotify.com/track/4OYa2PXcdFhsg3SGkevSjl"
+    },
+    {
+      "added_at": "2024-02-16 12:14:47",
+      "album": {
+        "name": "Back From the Dead",
+        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 207445,
+      "name": "The Steeple",
+      "url": "https://open.spotify.com/track/09XBDPqHnevLn54rpRMjkZ"
     },
     {
       "added_at": "2024-02-16 12:14:47",
@@ -463,6 +443,26 @@
     {
       "added_at": "2024-02-16 12:14:47",
       "album": {
+        "name": "Eternal Blue",
+        "url": "https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        },
+        {
+          "name": "Sam Carter",
+          "url": "https://open.spotify.com/artist/21QEpK62qn34QVshh4qpTK"
+        }
+      ],
+      "duration_ms": 198067,
+      "name": "Yellowjacket (feat. Sam Carter)",
+      "url": "https://open.spotify.com/track/3zQy3N1K8Mk5QknfFuVGNc"
+    },
+    {
+      "added_at": "2024-02-16 12:14:47",
+      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F"
       },
@@ -495,38 +495,6 @@
     {
       "added_at": "2024-02-16 12:14:47",
       "album": {
-        "name": "Back From the Dead",
-        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 210304,
-      "name": "Back From The Dead",
-      "url": "https://open.spotify.com/track/2kxp6iR7nCNGYTx0eNYp2C"
-    },
-    {
-      "added_at": "2024-02-16 12:14:47",
-      "album": {
-        "name": "Eternal Blue",
-        "url": "https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 226186,
-      "name": "Hurt You",
-      "url": "https://open.spotify.com/track/6Pd8HUW71iIjalkxJbo8FP"
-    },
-    {
-      "added_at": "2024-02-16 12:14:47",
-      "album": {
         "name": "THE OTHER ONE",
         "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
       },
@@ -555,6 +523,38 @@
       "duration_ms": 129920,
       "name": "not my problem",
       "url": "https://open.spotify.com/track/4FYk0LZ86J7DYUEBcs7e3G"
+    },
+    {
+      "added_at": "2024-02-16 12:14:47",
+      "album": {
+        "name": "Eternal Blue",
+        "url": "https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "Hurt You",
+      "url": "https://open.spotify.com/track/6Pd8HUW71iIjalkxJbo8FP"
+    },
+    {
+      "added_at": "2024-02-16 12:14:47",
+      "album": {
+        "name": "Back From the Dead",
+        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 210304,
+      "name": "Back From The Dead",
+      "url": "https://open.spotify.com/track/2kxp6iR7nCNGYTx0eNYp2C"
     },
     {
       "added_at": "2024-02-16 12:14:47",
@@ -603,6 +603,22 @@
       "duration_ms": 206617,
       "name": "I Wish A Bitch Would",
       "url": "https://open.spotify.com/track/4TrP8DfxX2UQwYEgy9vrkY"
+    },
+    {
+      "added_at": "2024-02-16 12:14:47",
+      "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 237354,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
     },
     {
       "added_at": "2024-02-16 12:14:47",
@@ -687,38 +703,6 @@
     {
       "added_at": "2024-02-16 12:14:47",
       "album": {
-        "name": "Monochrome",
-        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        }
-      ],
-      "duration_ms": 237354,
-      "name": "Monochrome",
-      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
-    },
-    {
-      "added_at": "2024-02-16 12:14:47",
-      "album": {
-        "name": "Wireless",
-        "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 211045,
-      "name": "Entertain You",
-      "url": "https://open.spotify.com/track/66dd3P4QwSRQDVDRqMSFLk"
-    },
-    {
-      "added_at": "2024-02-16 12:14:47",
-      "album": {
         "name": "The Rapture (but it\u2019s Pink) [feat. Mothica]",
         "url": "https://open.spotify.com/album/6RWgLevYdI5PuF95hfykPf"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 232608,
       "name": "Ultraviolet",
       "url": "https://open.spotify.com/track/4mB4OnvJp7Grfw5U8AQMz9"
+    },
+    {
+      "added_at": "2024-02-16 12:14:47",
+      "album": {
+        "name": "Wireless",
+        "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 211045,
+      "name": "Entertain You",
+      "url": "https://open.spotify.com/track/66dd3P4QwSRQDVDRqMSFLk"
     },
     {
       "added_at": "2024-02-16 12:14:47",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 
 > Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: Ezra Koenig
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,942 likes - 125 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,958 likes - 125 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,10 +14,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 | 4 | [Harvest Moon \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6gdCb962lq0Xdg7ypVLuLt) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Spotify Singles](https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB) | 5:46 |
 | 5 | [PORN ACTING\*\[FLIP\] \- Spotify Singles](https://open.spotify.com/track/01HlFHMzbPwNv7gbPVufH1) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Spotify Singles](https://open.spotify.com/album/5LXycmANKuQOmsJK2ddbwi) | 3:06 |
 | 6 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
-| 7 | [Summer's End \- Spotify Singles](https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Maria Taylor](https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m) | [Spotify Singles](https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs) | 3:54 |
-| 8 | [Waiting For Love \- Recorded At RAK Studios, London](https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Spotify Singles](https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL) | 2:45 |
-| 9 | [Wonderwall \- Live from Spotify Sessions, Metropolis Studios, London](https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Spotify Singles](https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC) | 3:18 |
-| 10 | [Stay \- Spotify Singles](https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Spotify Singles](https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c) | 2:55 |
+| 7 | [Waiting For Love \- Recorded At RAK Studios, London](https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Spotify Singles](https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL) | 2:45 |
+| 8 | [Wonderwall \- Live from Spotify Sessions, Metropolis Studios, London](https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Spotify Singles](https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC) | 3:18 |
+| 9 | [Stay \- Spotify Singles](https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Spotify Singles](https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c) | 2:55 |
+| 10 | [Summer's End \- Spotify Singles](https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Maria Taylor](https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m) | [Spotify Singles](https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs) | 3:54 |
 | 11 | [Have You Ever Seen The Rain \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/1iZdFYJujH9VZtj7c0Xw2y) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Spotify Singles](https://open.spotify.com/album/6zsyF9yFf1KzJIt4mJJNzj) | 2:34 |
 | 12 | [Solar Power \- Spotify Singles](https://open.spotify.com/track/2JrkrX1MMmqpwfve5El6Re) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Spotify Singles](https://open.spotify.com/album/4HpaTUThM0f9DhH7XJRXzZ) | 2:53 |
 | 13 | [Such A Simple Thing \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Spotify Singles](https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu) | 5:07 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 | 60 | [Skinny Love \- Spotify Singles](https://open.spotify.com/track/58az7rByzBsG2X9MR5wbv3) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Spotify Singles](https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z) | 3:46 |
 | 61 | [Four Out Of Five \- Recorded at Electric Lady Studios, New York](https://open.spotify.com/track/4ya6kBUnCe27g0hZM57L1n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Spotify Singles](https://open.spotify.com/album/0zKfApbjSv6TcWCvWtJf2q) | 4:34 |
 | 62 | [Give Yourself A Try \- Recorded at RAK Studios, London](https://open.spotify.com/track/4OoqzDZZyckVUeExecQL8y) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [Spotify Singles](https://open.spotify.com/album/3xfiakKOICUZr8sAFvHnxQ) | 4:05 |
-| 63 | [Partner in Crime \- Spotify Singles](https://open.spotify.com/track/33IZBhRtyMDZoa5SUNs3F7) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Spotify Singles](https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0) | 3:53 |
-| 64 | [Don’t You \(Forget About Me\) \- live from Abbey Road Studios, London](https://open.spotify.com/track/09YeOSHcAdk3Bqel03yIw9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Spotify Singles](https://open.spotify.com/album/4aopXLUhE3lthQLauMTC8X) | 3:59 |
+| 63 | [Don’t You \(Forget About Me\) \- live from Abbey Road Studios, London](https://open.spotify.com/track/09YeOSHcAdk3Bqel03yIw9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Spotify Singles](https://open.spotify.com/album/4aopXLUhE3lthQLauMTC8X) | 3:59 |
+| 64 | [Partner in Crime \- Spotify Singles](https://open.spotify.com/track/33IZBhRtyMDZoa5SUNs3F7) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Spotify Singles](https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0) | 3:53 |
 | 65 | [Walking On A Dream \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5VxhB7hzV7rAR8YSjYPL8c) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Spotify Singles](https://open.spotify.com/album/0MtApzOMJ5uGbMZHhgrMur) | 3:57 |
 | 66 | [Real Peach \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2eIYmspGt58UeXPNUsp1oW) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Spotify Singles](https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr) | 3:15 |
 | 67 | [You're The One \- Spotify Singles](https://open.spotify.com/track/0VGgkl6AAAmr6V2jvG98CZ) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Spotify Singles](https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR) | 3:49 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 | 124 | [Telepatía \- Spotify Singles](https://open.spotify.com/track/5btOvqOWxTVq33xL3ugEtb) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Spotify Singles](https://open.spotify.com/album/2Wfg6b6tD069N2cxqRlQ0e) | 2:53 |
 | 125 | [Nothing Scares Me \- Spotify Singles](https://open.spotify.com/track/1s2MMnIR3TYcujFBpNwVQ6) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Nothing Scares Me \- Spotify Singles](https://open.spotify.com/album/7Ehs7TrzgoVYYPaVMa7ZTH) | 2:38 |
 
-Snapshot ID: `MCxlOTRmNTUxNWViMjE1Mzg1YzhhZjlmOTY1OGMzODgxNDk2MWJhNjg2`
+Snapshot ID: `MCwwZGE5YjYyMTFlYjc4ODk4ZDRiZjg0ODgxNDU2ZmVjYmQxMDQ0ZGZm`

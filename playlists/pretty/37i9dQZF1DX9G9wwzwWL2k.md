@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G9wwzwWL2k.md) - [plain]
 
 > Lend a little drama to the occasion with this collection of truly epic classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,110 likes - 43 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 611,220 likes - 43 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Four Seasons \- Violin Concerto in G Minor, Op\. 8 No\. 2, RV 315 "Summer": III\. Presto](https://open.spotify.com/track/3Gz8ExGcRpnu8BSDzepQhy) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Joshua Bell](https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom), [Academy of St\. Martin in the Fields](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF) | [Vivaldi: The Four Seasons](https://open.spotify.com/album/1BxxmokA4eBg1EBpfYP1fC) | 2:41 |
+| 1 | [III\. Presto](https://open.spotify.com/track/3Gz8ExGcRpnu8BSDzepQhy) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Joshua Bell](https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom), [Academy of St\. Martin in the Fields](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF) | [Vivaldi: The Four Seasons](https://open.spotify.com/album/1BxxmokA4eBg1EBpfYP1fC) | 2:41 |
 | 2 | [Carmina Burana: O Fortuna](https://open.spotify.com/track/6xez71zpAqQ6N5i8E1jHlD) | [Carl Orff](https://open.spotify.com/artist/4LXxsm5BF85PWnQ1dUDAze), [The Cleveland Orchestra](https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz), [Michael Tilson Thomas](https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78) | [Orff: Carmina Burana](https://open.spotify.com/album/6qhs0KJyOcA7CERbkddjtE) | 2:24 |
 | 3 | [Prokofiev: Romeo and Juliet, Op\. 64, Act 1, Scene 2: Dance of the Knights](https://open.spotify.com/track/7HSs4srn1qnZhh7WRWBVOk) | [Sergei Prokofiev](https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l), [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Prokofiev: Romeo and Juliet](https://open.spotify.com/album/3M5idfqFUxge3skgZQu4R3) | 5:41 |
 | 4 | [The Planets, Op\. 32: I\. Mars, the Bringer of War](https://open.spotify.com/track/0dXrZ47LxK2PHm4mjSlwgt) | [Gustav Holst](https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ), [Los Angeles Philharmonic](https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU), [Zubin Mehta](https://open.spotify.com/artist/3FEd0qHPFOgcpfw7bCXB4x) | [Holst: The Planets / John Williams: Star Wars Suite / Strauss, R.: Also sprach Zarathustra](https://open.spotify.com/album/7MOYiQcBcdYvqCyopWBj64) | 7:09 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G9wwzwWL2k.md) - [plain]
 | 42 | [Symphony No\. 4 in A Major, Op\. 90, MWV N16, "Italian": IV\. Saltarello \(Presto\)](https://open.spotify.com/track/75stAKvskB3uVgJiz2ymcH) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [Freiburger Barockorchester](https://open.spotify.com/artist/2fJKxKjBxD1X1NkkG78qai), [Pablo Heras\-Casado](https://open.spotify.com/artist/17QYL51GCUv2vKlQWGqvWp) | [Mendelssohn: Symphonies Nos\. 3 "Scottish" & 4 "Italian"](https://open.spotify.com/album/7Et6f6JcXfaGYLBRtYpAtW) | 5:20 |
 | 43 | [Symphony No\. 6: VI\. Allegro](https://open.spotify.com/track/3jXfwUyFAw12FvTZWbwHAT) | [Howard Hanson](https://open.spotify.com/artist/5w3Gf39zZgGOAz19DFJtcR), [Helsinki Philharmonic Orchestra](https://open.spotify.com/artist/7xe7rH5SJ5Z3PzZvqAU2nq), [Leif Segerstam](https://open.spotify.com/artist/1AZTVGOm7t5zkOcweZBivz) | [Earquake: The Loudest Classical Music of All Time](https://open.spotify.com/album/6WH0w0t1hLOeh4UjDLgFVz) | 1:55 |
 
-Snapshot ID: `MCwxZGE4NjAzMWUwZjNmNmU0NWQ3Yjg0ZGI0ZjIwNzE1ZWVlMjBlODAw`
+Snapshot ID: `MCw0YWU5YjAwMGVkYmI3OTA2NzI2ZjkwMDRiNTY1ODBlZjYyMGY1NTI3`

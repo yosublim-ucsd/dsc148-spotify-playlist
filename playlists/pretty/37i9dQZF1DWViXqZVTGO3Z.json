@@ -1,12 +1,12 @@
 {
   "description": "Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.",
-  "num_followers": 161337,
+  "num_followers": 161329,
   "original_name": "Christmas Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmY1NmFjYzEwMzBkZDY1OWQwNGVhMzg5YzRlNjczN2M4OWNiODdk",
+  "snapshot_id": "MCw1NTU1YjdmMTI4YzNhNzk2MTk0NTQ5NGIwZTk0M2RmZjg5YmU3YmZh",
   "tracks": [
     {
       "added_at": "2023-12-15 05:32:26",
@@ -163,18 +163,18 @@
     {
       "added_at": "2023-12-15 05:32:26",
       "album": {
-        "name": "A Drummer Boy Christmas +",
-        "url": "https://open.spotify.com/album/1yXMLsVg38bs2cTZ57lgJ3"
+        "name": "My Gift (Special Edition)",
+        "url": "https://open.spotify.com/album/7m0f2Km7Zlc7quAIvCYPMr"
       },
       "artists": [
         {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 192245,
-      "name": "Do You Hear What I Hear?",
-      "url": "https://open.spotify.com/track/4HIfV8l6VGif6AtEIh80aA"
+      "duration_ms": 197223,
+      "name": "Favorite Time Of Year",
+      "url": "https://open.spotify.com/track/2aq7ZO1is1czoQAh076QFU"
     },
     {
       "added_at": "2023-12-15 05:32:26",
@@ -195,18 +195,34 @@
     {
       "added_at": "2023-12-15 05:32:26",
       "album": {
-        "name": "My Gift (Special Edition)",
-        "url": "https://open.spotify.com/album/7m0f2Km7Zlc7quAIvCYPMr"
+        "name": "A Drummer Boy Christmas +",
+        "url": "https://open.spotify.com/album/1yXMLsVg38bs2cTZ57lgJ3"
       },
       "artists": [
         {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
         }
       ],
-      "duration_ms": 197223,
-      "name": "Favorite Time Of Year",
-      "url": "https://open.spotify.com/track/2aq7ZO1is1czoQAh076QFU"
+      "duration_ms": 192245,
+      "name": "Do You Hear What I Hear?",
+      "url": "https://open.spotify.com/track/4HIfV8l6VGif6AtEIh80aA"
+    },
+    {
+      "added_at": "2023-12-15 05:32:26",
+      "album": {
+        "name": "Hallelujah Here Below",
+        "url": "https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 268949,
+      "name": "Here Comes Heaven",
+      "url": "https://open.spotify.com/track/7llyaJ7gnmIB19cp4hWc1g"
     },
     {
       "added_at": "2023-12-15 05:32:26",
@@ -243,26 +259,6 @@
     {
       "added_at": "2023-12-15 05:32:26",
       "album": {
-        "name": "Wonderful - EP",
-        "url": "https://open.spotify.com/album/1qtMnfH1xAI7kwF6scN7gw"
-      },
-      "artists": [
-        {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
-        },
-        {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
-        }
-      ],
-      "duration_ms": 223932,
-      "name": "Wonderful (feat. Steven Curtis Chapman)",
-      "url": "https://open.spotify.com/track/2GSzK7BiSvC0RBKpUUPFDI"
-    },
-    {
-      "added_at": "2023-12-15 05:32:26",
-      "album": {
         "name": "No More Wasted Years",
         "url": "https://open.spotify.com/album/1qpgxwVd0GemgTLsBDKRBx"
       },
@@ -291,18 +287,22 @@
     {
       "added_at": "2023-12-15 05:32:26",
       "album": {
-        "name": "Hallelujah Here Below",
-        "url": "https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC"
+        "name": "Wonderful - EP",
+        "url": "https://open.spotify.com/album/1qtMnfH1xAI7kwF6scN7gw"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        },
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
         }
       ],
-      "duration_ms": 268949,
-      "name": "Here Comes Heaven",
-      "url": "https://open.spotify.com/track/7llyaJ7gnmIB19cp4hWc1g"
+      "duration_ms": 223932,
+      "name": "Wonderful (feat. Steven Curtis Chapman)",
+      "url": "https://open.spotify.com/track/2GSzK7BiSvC0RBKpUUPFDI"
     },
     {
       "added_at": "2023-12-15 05:32:26",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-12-15 05:32:26",
       "album": {
-        "name": "We Need Christmas",
-        "url": "https://open.spotify.com/album/0zs3lYAdLSFv6wXkzEfqAx"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        }
-      ],
-      "duration_ms": 234600,
-      "name": "We Need Christmas",
-      "url": "https://open.spotify.com/track/6FmtDq0oN2cHJqvS0VWBRU"
-    },
-    {
-      "added_at": "2023-12-15 05:32:26",
-      "album": {
         "name": "Lift High (Emmanuel)",
         "url": "https://open.spotify.com/album/0TpgvcMDJhf3e7XPAnyeLT"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 311700,
       "name": "Lift High (Emmanuel)",
       "url": "https://open.spotify.com/track/5qWuI5LdPr2QQ7EHychYoj"
+    },
+    {
+      "added_at": "2023-12-15 05:32:26",
+      "album": {
+        "name": "We Need Christmas",
+        "url": "https://open.spotify.com/album/0zs3lYAdLSFv6wXkzEfqAx"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "duration_ms": 234600,
+      "name": "We Need Christmas",
+      "url": "https://open.spotify.com/track/6FmtDq0oN2cHJqvS0VWBRU"
     },
     {
       "added_at": "2023-12-15 05:32:26",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2023-12-15 05:32:26",
       "album": {
+        "name": "Rejoice",
+        "url": "https://open.spotify.com/album/7FlCM63Q0pIap1Ofg3uwSK"
+      },
+      "artists": [
+        {
+          "name": "Jordan St. Cyr",
+          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
+        }
+      ],
+      "duration_ms": 192280,
+      "name": "Rejoice",
+      "url": "https://open.spotify.com/track/3vUVSo09281qRWPabnsIMy"
+    },
+    {
+      "added_at": "2023-12-15 05:32:26",
+      "album": {
         "name": "Good News, Great Joy",
         "url": "https://open.spotify.com/album/2gDxjKGJVyzirwudkdQJON"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 221071,
       "name": "UNEXPECTED KING",
       "url": "https://open.spotify.com/track/10j0mfFINV55qklpdPkuNx"
-    },
-    {
-      "added_at": "2023-12-15 05:32:26",
-      "album": {
-        "name": "Rejoice",
-        "url": "https://open.spotify.com/album/7FlCM63Q0pIap1Ofg3uwSK"
-      },
-      "artists": [
-        {
-          "name": "Jordan St. Cyr",
-          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
-        }
-      ],
-      "duration_ms": 192280,
-      "name": "Rejoice",
-      "url": "https://open.spotify.com/track/3vUVSo09281qRWPabnsIMy"
     },
     {
       "added_at": "2023-12-15 05:32:26",
@@ -2475,22 +2475,6 @@
     {
       "added_at": "2023-12-15 05:32:26",
       "album": {
-        "name": "Christmas at Home",
-        "url": "https://open.spotify.com/album/4KKfJWr1DHk7eM50RzyxQF"
-      },
-      "artists": [
-        {
-          "name": "Michael W. Smith",
-          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
-        }
-      ],
-      "duration_ms": 181143,
-      "name": "Christmas Is Here - Radio Edit",
-      "url": "https://open.spotify.com/track/0Z6NbNX43bPaHylvR2yvCV"
-    },
-    {
-      "added_at": "2023-12-15 05:32:26",
-      "album": {
         "name": "Joy: An Irish Christmas",
         "url": "https://open.spotify.com/album/58HAyMpuZMRA1FpmEG1VSO"
       },
@@ -2575,6 +2559,22 @@
     {
       "added_at": "2023-12-15 05:32:26",
       "album": {
+        "name": "Christmas at Home",
+        "url": "https://open.spotify.com/album/4KKfJWr1DHk7eM50RzyxQF"
+      },
+      "artists": [
+        {
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+        }
+      ],
+      "duration_ms": 181143,
+      "name": "Christmas Is Here - Radio Edit",
+      "url": "https://open.spotify.com/track/0Z6NbNX43bPaHylvR2yvCV"
+    },
+    {
+      "added_at": "2023-12-15 05:32:26",
+      "album": {
         "name": "Silent Night, Lonely Night",
         "url": "https://open.spotify.com/album/0l8guZkeeqSux4URW4WlMH"
       },
@@ -2607,26 +2607,6 @@
     {
       "added_at": "2023-12-15 05:32:26",
       "album": {
-        "name": "Brightest And Best",
-        "url": "https://open.spotify.com/album/3NuC18AEUC7JWFENjWsnag"
-      },
-      "artists": [
-        {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
-        },
-        {
-          "name": "Ricky Skaggs",
-          "url": "https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks"
-        }
-      ],
-      "duration_ms": 280518,
-      "name": "Brightest And Best",
-      "url": "https://open.spotify.com/track/1tgOfOkljeQRpvZ1fP1X6f"
-    },
-    {
-      "added_at": "2023-12-15 05:32:26",
-      "album": {
         "name": "Emmanuel: Christmas Songs Of Worship (Live)",
         "url": "https://open.spotify.com/album/1z06qfsfaXA1QFSQ4gIzDf"
       },
@@ -2643,6 +2623,26 @@
       "duration_ms": 259833,
       "name": "O Holy Night - Live",
       "url": "https://open.spotify.com/track/4mBR7vdP33yfR2w4y3pKHR"
+    },
+    {
+      "added_at": "2023-12-15 05:32:26",
+      "album": {
+        "name": "Brightest And Best",
+        "url": "https://open.spotify.com/album/3NuC18AEUC7JWFENjWsnag"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        },
+        {
+          "name": "Ricky Skaggs",
+          "url": "https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks"
+        }
+      ],
+      "duration_ms": 280518,
+      "name": "Brightest And Best",
+      "url": "https://open.spotify.com/track/1tgOfOkljeQRpvZ1fP1X6f"
     },
     {
       "added_at": "2023-12-15 05:32:26",

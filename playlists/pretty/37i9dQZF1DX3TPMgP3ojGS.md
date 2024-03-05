@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,028 likes - 100 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,220 likes - 100 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 8 | [Cataverdis](https://open.spotify.com/track/6Qqto6duuFLcAUvTEsacwS) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Cataverdis](https://open.spotify.com/album/7tGqajhsfJf24VmrE96j9s) | 2:29 |
 | 9 | [Forevermore](https://open.spotify.com/track/3xZBHTUT1gLAmDbPz77ETo) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Forevermore](https://open.spotify.com/album/1uaB2cXT94Sl6V3eN2UFsW) | 2:34 |
 | 10 | [Fall a hundred times](https://open.spotify.com/track/078tv0fBjcReoPb9IL97b7) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Fall a hundred times](https://open.spotify.com/album/5IkEPjmW6gCtLRHt32Lh47) | 2:16 |
-| 11 | [Schutter](https://open.spotify.com/track/2ODAJGjI4YZwWp470XsV41) | [May Laude](https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG) | [Schutter](https://open.spotify.com/album/5VedLR7fuvcGK0YambjMqW) | 2:30 |
-| 12 | [Elegie](https://open.spotify.com/track/5qowE02tRUQqFf3uTC8tgs) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Elegie](https://open.spotify.com/album/4CabDs8KoDjqfOUFTgDnAu) | 2:49 |
-| 13 | [land in sight](https://open.spotify.com/track/7MDbt6zQQu37YFeVcOpb4U) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [land in sight](https://open.spotify.com/album/7dQdi50AllPuXNApQHQit3) | 3:20 |
-| 14 | [Luminous](https://open.spotify.com/track/3RO7kRSyGR1WD6vWOI73r9) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Luminous](https://open.spotify.com/album/4KlbOlpYsuVCX4GBsp0BCE) | 2:05 |
-| 15 | [Adieux](https://open.spotify.com/track/1ymzdmQYjO3ThdlToYZnTq) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Adieux](https://open.spotify.com/album/5PPK24qrJdeoZBb8pVNWF6) | 2:55 |
+| 11 | [Adieux](https://open.spotify.com/track/1ymzdmQYjO3ThdlToYZnTq) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Adieux](https://open.spotify.com/album/5PPK24qrJdeoZBb8pVNWF6) | 2:55 |
+| 12 | [Schutter](https://open.spotify.com/track/2ODAJGjI4YZwWp470XsV41) | [May Laude](https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG) | [Schutter](https://open.spotify.com/album/5VedLR7fuvcGK0YambjMqW) | 2:30 |
+| 13 | [Elegie](https://open.spotify.com/track/5qowE02tRUQqFf3uTC8tgs) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Elegie](https://open.spotify.com/album/4CabDs8KoDjqfOUFTgDnAu) | 2:49 |
+| 14 | [land in sight](https://open.spotify.com/track/7MDbt6zQQu37YFeVcOpb4U) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [land in sight](https://open.spotify.com/album/7dQdi50AllPuXNApQHQit3) | 3:20 |
+| 15 | [Luminous](https://open.spotify.com/track/3RO7kRSyGR1WD6vWOI73r9) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Luminous](https://open.spotify.com/album/4KlbOlpYsuVCX4GBsp0BCE) | 2:05 |
 | 16 | [Hearts of Desire](https://open.spotify.com/track/6CWzmoxDJJdIJ5GImw0RHv) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Hearts of Desire](https://open.spotify.com/album/3Wt4j3Ro26gcIOYvmp3DLb) | 2:19 |
 | 17 | [The Proposal](https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [The Proposal](https://open.spotify.com/album/0ypm2eyyb8iwaTrCr89TwW) | 2:42 |
 | 18 | [Calm Wind](https://open.spotify.com/track/6fjZ39b5dT9uZzFsVRLwSi) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Calm Wind](https://open.spotify.com/album/3wpbjtW8zANzFTOIcdvF3K) | 2:20 |
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 45 | [Bona Fide](https://open.spotify.com/track/3pfjdDVdlQzUjJaw75NvhE) | [Linn Hope](https://open.spotify.com/artist/5VBvp5RbAHFL0UlVaKqK9D) | [Bona Fide](https://open.spotify.com/album/26DhwEc8DPyiZlOCVNPtMC) | 2:37 |
 | 46 | [Chanson d’été](https://open.spotify.com/track/6SMHndqVp9ZdGmvzQu23ob) | [Moleno](https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt) | [Chanson d’été](https://open.spotify.com/album/6W10RqqqFGO3OCCR6q4pvp) | 2:43 |
 | 47 | [Dancing Dreams](https://open.spotify.com/track/4fv0GOcz0wbPcPR0CjILUg) | [Steven Windhaug](https://open.spotify.com/artist/49PC2thu4PsvOGs77fgXwA) | [Dancing Dreams](https://open.spotify.com/album/0VnGhDUxH6vOzmwooFkokO) | 2:18 |
-| 48 | [Before You](https://open.spotify.com/track/5vC5C7G92VJ4s9lXqtOXKY) | [Andrea Prine](https://open.spotify.com/artist/3tzbuAF9yZZHThB1ykHj0A) | [Before You](https://open.spotify.com/album/4437EHGAGBNz2lJzZaWogn) | 2:22 |
-| 49 | [Jean Paul errant](https://open.spotify.com/track/4asmLOODbw59npZqVLEvvk) | [Temperance Lloyd](https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq) | [Jean Paul errant](https://open.spotify.com/album/1HdPnAtIWPQNd8B0w2lzB0) | 2:20 |
-| 50 | [Serene](https://open.spotify.com/track/4fG5KccAJKYk1EguGbGKt0) | [Will Kaufman](https://open.spotify.com/artist/1qw4AAqrPMSwFoEc1RBRLU) | [Serene](https://open.spotify.com/album/0U8AH8FOjVginjHUhK73Ov) | 2:26 |
-| 51 | [Nostalgia](https://open.spotify.com/track/391l8re8aew1rvyNOXUYDD) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Nostalgia](https://open.spotify.com/album/0rPZ302N1AwjJGO6llGHnK) | 2:52 |
+| 48 | [Nostalgia](https://open.spotify.com/track/391l8re8aew1rvyNOXUYDD) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Nostalgia](https://open.spotify.com/album/0rPZ302N1AwjJGO6llGHnK) | 2:52 |
+| 49 | [Before You](https://open.spotify.com/track/5vC5C7G92VJ4s9lXqtOXKY) | [Andrea Prine](https://open.spotify.com/artist/3tzbuAF9yZZHThB1ykHj0A) | [Before You](https://open.spotify.com/album/4437EHGAGBNz2lJzZaWogn) | 2:22 |
+| 50 | [Jean Paul errant](https://open.spotify.com/track/4asmLOODbw59npZqVLEvvk) | [Temperance Lloyd](https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq) | [Jean Paul errant](https://open.spotify.com/album/1HdPnAtIWPQNd8B0w2lzB0) | 2:20 |
+| 51 | [Serene](https://open.spotify.com/track/4fG5KccAJKYk1EguGbGKt0) | [Will Kaufman](https://open.spotify.com/artist/1qw4AAqrPMSwFoEc1RBRLU) | [Serene](https://open.spotify.com/album/0U8AH8FOjVginjHUhK73Ov) | 2:26 |
 | 52 | [Window Seat](https://open.spotify.com/track/6GRjlkZ7MxKtRC4jsJzQxv) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Window Seat](https://open.spotify.com/album/7qaaLpJ9QuQzAwbsZOd6PF) | 2:25 |
 | 53 | [Come close](https://open.spotify.com/track/3ANR14gcrMm6asGMNVhivt) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Come close](https://open.spotify.com/album/27r1Al7Uf7dtsd4zNCqXb6) | 2:50 |
 | 54 | [Peace flow](https://open.spotify.com/track/3IwddX0zjnQ7am17WdP66M) | [Jon Albreit](https://open.spotify.com/artist/7HUDHULnPyXARDfZzsx5xc) | [Peace flow](https://open.spotify.com/album/26L1oUjqDrhosLQuYdHAcm) | 2:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 99 | [Candles](https://open.spotify.com/track/3c2mI16b5l3zEPNsNdWqSf) | [Anthony Jacobus](https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi) | [Candles](https://open.spotify.com/album/1eQlINbY8VmjpT2nmQm6Nn) | 2:52 |
 | 100 | [Moment of Solace](https://open.spotify.com/track/3bDLjjjT1TNLUI7wnJ8uPW) | [Eva Starr](https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU) | [Moment of Solace](https://open.spotify.com/album/3lfxt3RbtFUOXppPwUgHW1) | 2:18 |
 
-Snapshot ID: `MCxhNjUwMmJlZTM0OGVlMDdlNWExNzlmZWIyMjhlZDQzNWExNzc5NDhj`
+Snapshot ID: `MCwyN2Y1MjAzMDM5NGMzOGE5YmI0MTRkM2FhMTU3ODE2MzY0ZGVkZjg3`

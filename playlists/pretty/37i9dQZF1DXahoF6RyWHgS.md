@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 
 > ¡A preparar la comida con la sazón de música rica y antigüita!
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,595 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,599 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,18 +21,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 | 11 | [Guacamole](https://open.spotify.com/track/5D42s3vtQV0yJ5T1LtjADH) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [The Nada](https://open.spotify.com/album/2HzWcwDz1vXbYF3TH7XaMX) | 5:00 |
 | 12 | [Kind Of Latin Rhythm](https://open.spotify.com/track/0X95e6wFLtAjJ2NikowHfr) | [The Juju Orchestra](https://open.spotify.com/artist/2QZdpDHfCJCFv1BE1GhL8h) | [Bossa Nova Is Not A Crime](https://open.spotify.com/album/0kYW9VUWVYAdLYCxAIwUEG) | 7:21 |
 | 13 | [Sonido Amazonico](https://open.spotify.com/track/30XzPuJXYZrPF2jx89SQG1) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Sonido Amazonico](https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1) | 4:17 |
-| 14 | [Donde Estas, Yolanda?](https://open.spotify.com/track/1HmZraO3IbtfojcnFoIQq4) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Sympathique](https://open.spotify.com/album/2y2CKDqSlMlPw6trrKwjzC) | 3:23 |
-| 15 | [Fue en un Cabaret](https://open.spotify.com/track/4U1aThe8Ba2JGO44Q1zxs0) | [La Santanera](https://open.spotify.com/artist/4iVmrWbihNo3PheQM5ZHQl) | [Canciones y Mujeres de Cabaret](https://open.spotify.com/album/7z0kpEqnMoouMBd0PBC07D) | 3:11 |
+| 14 | [Fue en un Cabaret](https://open.spotify.com/track/4U1aThe8Ba2JGO44Q1zxs0) | [La Santanera](https://open.spotify.com/artist/4iVmrWbihNo3PheQM5ZHQl) | [Canciones y Mujeres de Cabaret](https://open.spotify.com/album/7z0kpEqnMoouMBd0PBC07D) | 3:11 |
+| 15 | [Cumbia del Mole](https://open.spotify.com/track/1sdWXIMZe8mBwzLC8jKdq7) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Raíz](https://open.spotify.com/album/45lcPME8vZyDkZcAC3qfA6) | 3:00 |
 | 16 | [Yerbero Moderno](https://open.spotify.com/track/49ARQi1FGSN7ZT13VTAOYf) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Justo Betancourt](https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689), [Papo Lucca](https://open.spotify.com/artist/1KbyKzIyGQig2K7sP5E7gv) | [Viva la Reina de la Salsa](https://open.spotify.com/album/5sj5rxV32E8izCz99fNFLU) | 4:34 |
-| 17 | [Color Café](https://open.spotify.com/track/0Yy0tg52vRTXPB0bsU3e5T) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Esencia Solar](https://open.spotify.com/album/1pOY7m74U5eY0H7QdlTbN4) | 2:09 |
-| 18 | [Cumbia del Mole](https://open.spotify.com/track/1sdWXIMZe8mBwzLC8jKdq7) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Raíz](https://open.spotify.com/album/45lcPME8vZyDkZcAC3qfA6) | 3:00 |
+| 17 | [Donde Estas, Yolanda?](https://open.spotify.com/track/1HmZraO3IbtfojcnFoIQq4) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Sympathique](https://open.spotify.com/album/2y2CKDqSlMlPw6trrKwjzC) | 3:23 |
+| 18 | [Color Café](https://open.spotify.com/track/0Yy0tg52vRTXPB0bsU3e5T) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Esencia Solar](https://open.spotify.com/album/1pOY7m74U5eY0H7QdlTbN4) | 2:09 |
 | 19 | [Kiko and the Lavender Moon](https://open.spotify.com/track/2JxHZfZM0ysnwPDefDl8Mz) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Kiko](https://open.spotify.com/album/12AL1C0jglsaMYHwTsvA7w) | 3:35 |
 | 20 | [Octopus](https://open.spotify.com/track/0DiWyh4VhRKg6VXqcaVA0o) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Sueño EP](https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR) | 3:51 |
-| 21 | [Anna](https://open.spotify.com/track/65Csr37ZRsG59gIHK8N20B) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Hang on Little Tomato](https://open.spotify.com/album/4zke7Tv01ngpBcKglASyD8) | 2:36 |
-| 22 | [La Llorona](https://open.spotify.com/track/24LDPVMwvoFOLzqsi6ll3I) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [March of the Zapotec and Real People Holland](https://open.spotify.com/album/33A6xiJRrWUuZWgq37O41V) | 3:34 |
-| 23 | [Clandestino](https://open.spotify.com/track/5bCp9MMG1Qo4QB2OHoSRpN) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Público](https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR) | 2:25 |
-| 24 | [El Manicero](https://open.spotify.com/track/4A0iCzLqX0bmDuDq1YAT59) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [La Historia del Mambo, Vol\. 2](https://open.spotify.com/album/6fJdrjyuTWOeZboh03i01n) | 2:39 |
-| 25 | [Piensa en Mí](https://open.spotify.com/track/3DZfZ2Us4Wq9X5zXy0itrm) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [RCA 100 Años de Música](https://open.spotify.com/album/1UWdECkol3scb1Gp1yc0MK) | 2:45 |
+| 21 | [La Llorona](https://open.spotify.com/track/24LDPVMwvoFOLzqsi6ll3I) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [March of the Zapotec and Real People Holland](https://open.spotify.com/album/33A6xiJRrWUuZWgq37O41V) | 3:34 |
+| 22 | [Clandestino](https://open.spotify.com/track/5bCp9MMG1Qo4QB2OHoSRpN) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Público](https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR) | 2:25 |
+| 23 | [El Manicero](https://open.spotify.com/track/4A0iCzLqX0bmDuDq1YAT59) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [La Historia del Mambo, Vol\. 2](https://open.spotify.com/album/6fJdrjyuTWOeZboh03i01n) | 2:39 |
+| 24 | [Piensa en Mí](https://open.spotify.com/track/3DZfZ2Us4Wq9X5zXy0itrm) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [RCA 100 Años de Música](https://open.spotify.com/album/1UWdECkol3scb1Gp1yc0MK) | 2:45 |
+| 25 | [Anna](https://open.spotify.com/track/65Csr37ZRsG59gIHK8N20B) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Hang on Little Tomato](https://open.spotify.com/album/4zke7Tv01ngpBcKglASyD8) | 2:36 |
 | 26 | [Gopher Mambo \- Remastered 2009](https://open.spotify.com/track/6TsE30wjcOmuQRheHdtaAF) | [Billy May](https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq), [Gozzo](https://open.spotify.com/artist/2pdPgAYPa2nKBgE1yCEZr0), [Yma Sumac](https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d), [The Rico Mambo Orchestra](https://open.spotify.com/artist/11GPsCMxATNWk1L7OKFLpH) | [Mambo!](https://open.spotify.com/album/6OenJxBgcOKKqrfaLagFDL) | 2:17 |
 | 27 | [Palmera](https://open.spotify.com/track/1thsP19THIiLrpxIPqEteA) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [RCA 100 Años De Musica](https://open.spotify.com/album/0vJ6OuVc98sUYHf8kan8qh) | 1:42 |
 | 28 | [Playa Azul](https://open.spotify.com/track/6tNsBS0eXVSJwflDnJBOo1) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [The Venezuelan Zinga Son Vol\. 1](https://open.spotify.com/album/7qpTrRk5qObiLMkFCSUATK) | 4:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 | 99 | [Los tamalitos de Olga \- Remastered](https://open.spotify.com/track/5kQcTgQ7TKzOvgslid4Qv2) | [Abelardo Barroso](https://open.spotify.com/artist/54Cvt1RK4llutqZIBDZAVk) | [Guajira Guantanamera \(Remastered\)](https://open.spotify.com/album/53nYU70GFZo0FvmWPjOoID) | 2:17 |
 | 100 | [Oracion Caribe](https://open.spotify.com/track/7EEgaEck35oVTzXGFOm7Kr) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [La Reina de Veracruz](https://open.spotify.com/album/6iObzhLiuOraH0mEabqrdo) | 3:01 |
 
-Snapshot ID: `MCwxYzViYjdhMDgzMDhkMTIxYzkzNGEyYmRjOTA3YzRmN2RiY2RkZDY2`
+Snapshot ID: `MCw3ZmJhZWIwZDZhZGM4ZTUxMjk2MjhjMDkwOWIwOGE2Yjc5NTFmZmNi`

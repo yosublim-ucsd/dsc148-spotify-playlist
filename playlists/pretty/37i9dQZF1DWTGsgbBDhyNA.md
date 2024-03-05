@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTGsgbBDhyNA.md) - [plain]
 
 > Playlist oficial del podcast <a href="spotify:show:1MAoOdM2Xx9TayWrXQ2MCj"> Momentos Chingones</a> donde tendrás las noticias más frescas y los hits del momento de la Música Mexicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,315 likes - 36 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,390 likes - 36 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTGsgbBDhyNA.md) - [plain]
 | 35 | [Y LLORO](https://open.spotify.com/track/6RcAHyC5sAUIbPTkhOQwd8) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 2:59 |
 | 36 | [Hoy Todo Cambio](https://open.spotify.com/track/1tinKBj5pMxJswRan96Mj7) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Corleone](https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji) | 3:23 |
 
-Snapshot ID: `MCxjODEwOGExN2ZkMDI2NTE3NTUyNmRiODE0OThjNTQ1MDk3NzMwZjBj`
+Snapshot ID: `MCw3MTg0M2Y5ZjcyYWNlZDJkYjYzNDdkMDdmODczYzNhN2Y3ODliNWNl`

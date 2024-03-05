@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-1,768 songs - 3 day 23 hr 35 min
+1,769 songs - 3 day 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -505,6 +505,7 @@
 | [En La Intimidad \| CROSSOVER \#1](https://open.spotify.com/track/7w7BrPbOjF5OxChs2dxFve) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [En La Intimidad \| CROSSOVER \#1](https://open.spotify.com/album/5OT9JgUd8WVWBJgYog7a82) | 2:45 | 2023-02-28 | 2023-04-21 |
 | [En To Lao](https://open.spotify.com/track/2zUEnw6wWrWaPcF15F76OA) | [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [En To Lao](https://open.spotify.com/album/6vbpPVgsQJgXyfXc6q6CPl) | 3:15 | 2023-07-04 | 2023-07-13 |
 | [Enamorado tuyo](https://open.spotify.com/track/35LdDKNMwvKftENaj1WIwF) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Porfiado](https://open.spotify.com/album/4X6PQwYWxtGGtKjAfX6wa6) | 4:19 | 2023-08-11 | 2023-09-06 |
+| [Encima De Mi](https://open.spotify.com/track/5ul8goxRfS5qh1JBEUbICd) | [filtragvspi](https://open.spotify.com/artist/4dHVl8Dfhcl6eVA1IZRxso), [jere kleinn](https://open.spotify.com/artist/5Teh54XshOsA9VFAysh5KW), [lucky broown](https://open.spotify.com/artist/7EzJFjb21kpWdvzmj5TKte) | [Encima De Mi](https://open.spotify.com/album/1Xj4dSNkUuUzSG8YegWfEf) | 1:55 | 2024-03-04 |  |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-02-18 |  |
 | [Enigma](https://open.spotify.com/track/1VFTF35B6jkkFAXiNCuoEs) | [Deimi](https://open.spotify.com/artist/0NrygGrqdoAjfoUieqPFmD), [TwinStudios](https://open.spotify.com/artist/568QUEaGvb4nk8WH9k0ozz) | [Enigma](https://open.spotify.com/album/2a7raFyhZQXTJZBqHkhHcO) | 2:46 | 2023-05-03 | 2023-05-06 |
 | [Envidia](https://open.spotify.com/track/1yRKuzREhM129Cz5tlVfwP) | [Flyxswn](https://open.spotify.com/artist/31Kni4KBb3Iri2jzrcRrfF) | [Envidia](https://open.spotify.com/album/3ppRhMnjl3OeFsniV5XEfY) | 1:33 | 2024-02-03 | 2024-02-24 |
@@ -1642,7 +1643,7 @@
 | [Until I Found You](https://open.spotify.com/track/6VhuP99TE6gYNQRJIlAWFD) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Easy On My Eyes](https://open.spotify.com/album/6BUPtXbb2tspYnkVdg5Ef7) | 2:56 | 2022-08-20 | 2022-08-24 |
 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 | 2022-05-11 | 2022-08-16 |
 | [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2022-12-09 | 2023-01-16 |
-| [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 | 2024-01-24 |  |
+| [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 | 2024-01-24 | 2024-03-05 |
 | [Unx de nosotrxs \(feat\. Javiera Mena\)](https://open.spotify.com/track/06ldAehGd8O1r51LTJaMDG) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [El diablo en el cuerpo](https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif) | 4:09 | 2023-06-01 | 2023-06-04 |
 | [Uru Te Hami](https://open.spotify.com/track/607g9792OBarGHbrH4UHDr) | [Rapanui Hinariru](https://open.spotify.com/artist/2A6oWfpVSVpC13ejJBEqgs) | [Isla de Pascua](https://open.spotify.com/album/72wNEvYXR6J4mnAYtzH7xe) | 2:34 | 2022-09-03 | 2023-09-23 |
 | [Usted Me Avisa](https://open.spotify.com/track/05h5Y52BR7SEFhUcIVsg0r) | [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0) | [Usted Me Avisa](https://open.spotify.com/album/0wpFSZ1k6Cg4DgO25S89af) | 3:23 | 2022-11-09 | 2022-11-11 |
