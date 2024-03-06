@@ -4,7 +4,7 @@
 
 > The rap soundtrack to the internet\. Cover: BossMan Dlow
 
-960 songs - 1 day 15 hr 11 min
+961 songs - 1 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [11:35 In Miami](https://open.spotify.com/track/2qTh0uDCWUZ9G9xZO7RqGd) | [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU) | [Coochie Land \(Deluxe\)](https://open.spotify.com/album/17pvDiyitMvBilTM9UvLeK) | 1:36 | 2023-02-10 | 2023-04-18 |
 | [12 Stout Street](https://open.spotify.com/track/7K1HH9OC6nZlJqrGnr8r1g) | [Rx Papi](https://open.spotify.com/artist/56gMovAlFdnmrDk2BcfUlJ), [Gud](https://open.spotify.com/artist/3lyW79oolCj6PAaLUqnze5) | [Foreign Exchange](https://open.spotify.com/album/2CKbsapMFGNtTVe9BneTgh) | 1:58 | 2022-06-16 | 2022-10-14 |
 | [12 Stout Street](https://open.spotify.com/track/7x8O57b6oXzmbwANbSy2wq) | [Rx Papi](https://open.spotify.com/artist/56gMovAlFdnmrDk2BcfUlJ), [Gud](https://open.spotify.com/artist/3lyW79oolCj6PAaLUqnze5) | [Foreign Exchange](https://open.spotify.com/album/1KJbUGHHOEQfz3MZM9Qk9E) | 1:58 | 2022-06-17 | 2023-01-12 |
-| [1500 Shawty](https://open.spotify.com/track/6f13WB2izFqsFFIl5eMdIT) | [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq) | [1500 Shawty](https://open.spotify.com/album/2l7bKq7tXeprSdqjnbGFUh) | 2:04 | 2023-10-06 |  |
+| [1500 Shawty](https://open.spotify.com/track/6f13WB2izFqsFFIl5eMdIT) | [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq) | [1500 Shawty](https://open.spotify.com/album/2l7bKq7tXeprSdqjnbGFUh) | 2:04 | 2023-10-06 | 2024-03-06 |
 | [2 Mins of Pain \(feat\. Alborosie\)](https://open.spotify.com/track/2NVXBBbO4xGO851zrMfCFi) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [2 Mins of Pain \(feat\. Alborosie\)](https://open.spotify.com/album/43AaQNHNlJlf8F2iQkivyx) | 2:16 | 2022-09-09 | 2023-01-26 |
 | [2 MUCH \(feat\. Jasiah & KA$HDAMI\)](https://open.spotify.com/track/72Kc3s9sqNDruvVBYgRSVd) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf) | [2 MUCH \(feat\. Jasiah & KA$HDAMI\)](https://open.spotify.com/album/0Hqf02325Kr1GRgHM3w8vf) | 3:14 | 2021-11-05 | 2022-04-29 |
 | [2 time zones \(feat\. Night Lovell\)](https://open.spotify.com/track/5d2fEfIzQz67c3YQ2trVnE) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [eat ya veggies](https://open.spotify.com/album/6iMshsixZe8oMteQdln5kp) | 2:41 | 2021-10-08 | 2022-04-03 |
@@ -757,6 +757,7 @@
 | [see u there](https://open.spotify.com/track/0MqYDyMfzBj0YFWTLHVhag) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [see u there](https://open.spotify.com/album/0RJNi6SNswNuVRClimJ73W) | 1:45 | 2022-07-29 | 2022-09-01 |
 | [SEEN](https://open.spotify.com/track/0IrecfudrvKZUjLdPgEu7W) | [Unghetto](https://open.spotify.com/artist/4a0UMM2QrKP5ESk1P8373s) | [UNGHETTO WORLD](https://open.spotify.com/album/6jHh5VXQZmkIPJ2p5VNmuk) | 2:30 | 2023-09-29 | 2024-02-03 |
 | [Self Esteem \(featuring NLE Choppa\)](https://open.spotify.com/track/4rithk0wQbWsppbWiaFFgE) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Self Esteem \(featuring NLE Choppa\)](https://open.spotify.com/album/7KeQeXVDcQQjrbqOh34VGA) | 2:49 | 2023-02-16 | 2023-08-19 |
+| [Seppuku](https://open.spotify.com/track/0djEmaFqvfSdtpNMZYTSdz) | [Rob Apollo](https://open.spotify.com/artist/6yKhvpwLXw23Iy6jFr192V), [Baldie Balboa](https://open.spotify.com/artist/0ZlhTnEkFNumpRzXOuRz3F) | [NSFW 2: I Like Girls](https://open.spotify.com/album/1pBI9gyxvVwMRlhUWjVtNw) | 3:25 | 2024-03-05 |  |
 | [Shake](https://open.spotify.com/track/010MlmLvo1ca6KMRLKayli) | [Headband Andy](https://open.spotify.com/artist/1yGHqqvb0V7V4u2PBaprSm) | [Planet Headband \(Deluxe\)](https://open.spotify.com/album/1CX6Qu9EAzLdIKtuqvPFAR) | 1:37 | 2021-11-10 | 2022-02-05 |
 | [Shake](https://open.spotify.com/track/18pZAkoz9eNXd6gpy48RQL) | [IShowSpeed](https://open.spotify.com/artist/2DZw407Bgg2Hu9E6NDgRTb), [Aura The Scientist](https://open.spotify.com/artist/4gTlq0DUpq2DYYgTEQeD9O) | [ISHOWSPEED](https://open.spotify.com/album/0A289AosxAJWEwIS8ILlqQ) | 2:36 | 2021-12-22 | 2022-02-23 |
 | [shake](https://open.spotify.com/track/75wgmmlBL3YDXQAnDhPNQD) | [фрози](https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2), [joyful](https://open.spotify.com/artist/1tE2eVlHSwplXAtuYtlBeZ) | [shake](https://open.spotify.com/album/46ocNapng2exRLthBCsk29) | 1:45 | 2024-02-23 |  |

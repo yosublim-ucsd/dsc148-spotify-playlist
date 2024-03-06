@@ -1,12 +1,12 @@
 {
   "description": "Explore the dazzling sound of Japanese City Pop from the \u201880s./ \u90fd\u4f1a\u306e\u591c\u3092\u30af\u30eb\u30fc\u30b8\u30f3\u30b0\u3001\u9031\u672b\u306f\u6d77\u8fba\u3067\u30ea\u30be\u30fc\u30c8\u6c17\u5206\u3002\u714c\u3081\u304d\u306b\u6e80\u3061\u305f\u6bce\u65e5\u3092\u5f69\u3063\u305f\u3001\u9ec4\u91d1\u671f\u306e\u30b7\u30c6\u30a3\u30dd\u30c3\u30d7 \u3002",
-  "num_followers": 143968,
+  "num_followers": 144030,
   "original_name": "City Pop '80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOWRiMzQ1YTBkY2IxNzY0ZGZhZmFjNzEyOTMwOGFiZTRlMDA2ZmU5",
+  "snapshot_id": "MCw0ZWU2MTVhNTkwZGU4OWIxZGEyNDc5ZDg5NWRlMWRhMTVjZTY3YTE4",
   "tracks": [
     {
       "added_at": "2023-03-21 15:00:00",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-03-21 15:00:00",
       "album": {
+        "name": "DOWN TOWN",
+        "url": "https://open.spotify.com/album/1N1eSro0gsmLBiQgVS7QBc"
+      },
+      "artists": [
+        {
+          "name": "EPO",
+          "url": "https://open.spotify.com/artist/0KigzYQAy5EpdIc9g7szPv"
+        }
+      ],
+      "duration_ms": 254213,
+      "name": "DOWN TOWN",
+      "url": "https://open.spotify.com/track/1ieDsFmQ8UOXyB0ewolkXH"
+    },
+    {
+      "added_at": "2023-03-21 15:00:00",
+      "album": {
         "name": "River's Island",
         "url": "https://open.spotify.com/album/6HM0SPu1eIv721SbsO8l3o"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 278160,
       "name": "River's Island",
       "url": "https://open.spotify.com/track/22p7tgi6cFVBaH7vAbgcUY"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "DOWN TOWN",
-        "url": "https://open.spotify.com/album/1N1eSro0gsmLBiQgVS7QBc"
-      },
-      "artists": [
-        {
-          "name": "EPO",
-          "url": "https://open.spotify.com/artist/0KigzYQAy5EpdIc9g7szPv"
-        }
-      ],
-      "duration_ms": 254213,
-      "name": "DOWN TOWN",
-      "url": "https://open.spotify.com/track/1ieDsFmQ8UOXyB0ewolkXH"
     },
     {
       "added_at": "2023-03-21 15:00:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-03-21 15:00:00",
       "album": {
+        "name": "A LONG VACATION",
+        "url": "https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u6edd\u8a60\u4e00",
+          "url": "https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0"
+        }
+      ],
+      "duration_ms": 266480,
+      "name": "\u96e8\u306e\u30a6\u30a7\u30f3\u30ba\u30c7\u30a4",
+      "url": "https://open.spotify.com/track/05cPxtumQhtpLhPBnnCf3x"
+    },
+    {
+      "added_at": "2023-03-21 15:00:00",
+      "album": {
         "name": "OMEGA TRIBE GROOVE",
         "url": "https://open.spotify.com/album/7o5mbjGsvO2PrDkL1IRPch"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 299106,
       "name": "\u541b\u306e\u30cf\u30fc\u30c8\u306f\u30de\u30ea\u30f3\u30d6\u30eb\u30fc",
       "url": "https://open.spotify.com/track/04d2ceRCfAaBwuQfG1WwMK"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "A LONG VACATION",
-        "url": "https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H"
-      },
-      "artists": [
-        {
-          "name": "\u5927\u6edd\u8a60\u4e00",
-          "url": "https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0"
-        }
-      ],
-      "duration_ms": 266480,
-      "name": "\u96e8\u306e\u30a6\u30a7\u30f3\u30ba\u30c7\u30a4",
-      "url": "https://open.spotify.com/track/05cPxtumQhtpLhPBnnCf3x"
     }
   ],
   "unique_name": "City Pop '80s",

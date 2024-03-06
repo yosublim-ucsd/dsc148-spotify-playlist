@@ -1,12 +1,12 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 73107,
+  "num_followers": 73105,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzM2OGI3MzhiZjEyMjZlN2ZjMmE0MmRjMDIzZjY3M2ZhMTUyMGQ3",
+  "snapshot_id": "MCxkZmU5NzkyMmU4ODY2ZjE3ZjdiZGEzNmVlY2FhNzNkN2JkODU1NDY0",
   "tracks": [
     {
       "added_at": "2023-04-09 08:58:44",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-04-09 08:58:44",
       "album": {
+        "name": "Kari Jobe",
+        "url": "https://open.spotify.com/album/0aJECiCK8ZgWkxYM95rwYf"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 361386,
+      "name": "Revelation Song",
+      "url": "https://open.spotify.com/track/1hTN6YhI5Tb9dSTpRQZqDC"
+    },
+    {
+      "added_at": "2023-04-09 08:58:44",
+      "album": {
         "name": "How Great",
         "url": "https://open.spotify.com/album/5dDRZSDf7fUVAfag8lFBKW"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 257666,
       "name": "In Christ Alone",
       "url": "https://open.spotify.com/track/15sauKN8vieeKOVWWR9UG2"
-    },
-    {
-      "added_at": "2023-04-09 08:58:44",
-      "album": {
-        "name": "Kari Jobe",
-        "url": "https://open.spotify.com/album/0aJECiCK8ZgWkxYM95rwYf"
-      },
-      "artists": [
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 361386,
-      "name": "Revelation Song",
-      "url": "https://open.spotify.com/track/1hTN6YhI5Tb9dSTpRQZqDC"
     },
     {
       "added_at": "2023-04-09 08:58:44",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2023-04-09 08:58:44",
       "album": {
+        "name": "Love Came Down - Live Acoustic Worship In The Studio",
+        "url": "https://open.spotify.com/album/7vG2Shcrvtlud8HsEopI3h"
+      },
+      "artists": [
+        {
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
+        }
+      ],
+      "duration_ms": 333626,
+      "name": "Love Came Down (If My Heart Is Overwhelmed) - Live",
+      "url": "https://open.spotify.com/track/27Ao1nh2vh3y82VZ7Yd67R"
+    },
+    {
+      "added_at": "2023-04-09 08:58:44",
+      "album": {
         "name": "Freedom.",
         "url": "https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 262573,
       "name": "Afraid To Say (feat. Lauren Walters)",
       "url": "https://open.spotify.com/track/3cDrWGsgXj6fZd33Iwp4Lh"
-    },
-    {
-      "added_at": "2023-04-09 08:58:44",
-      "album": {
-        "name": "Love Came Down - Live Acoustic Worship In The Studio",
-        "url": "https://open.spotify.com/album/7vG2Shcrvtlud8HsEopI3h"
-      },
-      "artists": [
-        {
-          "name": "Brian Johnson",
-          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
-        }
-      ],
-      "duration_ms": 333626,
-      "name": "Love Came Down (If My Heart Is Overwhelmed) - Live",
-      "url": "https://open.spotify.com/track/27Ao1nh2vh3y82VZ7Yd67R"
     },
     {
       "added_at": "2023-04-09 08:58:44",
@@ -1823,18 +1823,22 @@
     {
       "added_at": "2023-04-09 08:58:44",
       "album": {
-        "name": "The Garden (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7CghLAYoxyGmUiZ10FnGPa"
+        "name": "Passion: Salvation\u2019s Tide Is Rising",
+        "url": "https://open.spotify.com/album/0BXkvCb93t89mVfvWl2gop"
       },
       "artists": [
         {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
         }
       ],
-      "duration_ms": 329786,
-      "name": "Fall Afresh",
-      "url": "https://open.spotify.com/track/3iQdQCjHbi078GjNzsjT2p"
+      "duration_ms": 268466,
+      "name": "My Victory",
+      "url": "https://open.spotify.com/track/3jk8YdCPkdXZRAoXBn1cKB"
     }
   ],
   "unique_name": "Easter Worship",

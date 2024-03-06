@@ -214,7 +214,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 214871,
       "name": "Curse of Love",
       "url": "https://open.spotify.com/track/7ALNs2wG7YBMIqou85P22G"
@@ -546,6 +546,28 @@
       "duration_ms": 238506,
       "name": "rendez-vous",
       "url": "https://open.spotify.com/track/77mI5OSGIIPKxHXBkHOySy"
+    },
+    {
+      "album": {
+        "name": "SAPPORO TOKYO",
+        "url": "https://open.spotify.com/album/1LgMEwqdLiFeScDqcaGP40"
+      },
+      "artists": [
+        {
+          "name": "Furui Riho",
+          "url": "https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh"
+        },
+        {
+          "name": "A.G.O",
+          "url": "https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201712,
+      "name": "SAPPORO TOKYO",
+      "url": "https://open.spotify.com/track/61mRQIRRPGxuMUuEra2vFN"
     },
     {
       "album": {
@@ -939,6 +961,24 @@
     },
     {
       "album": {
+        "name": "\u308f\u305f\u3057\u3001\u8776\u3005\u3002",
+        "url": "https://open.spotify.com/album/4GPiPfhjaCQWNbo8EgtEQp"
+      },
+      "artists": [
+        {
+          "name": "illiomote",
+          "url": "https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264018,
+      "name": "\u308f\u305f\u3057\u3001\u8776\u3005\u3002",
+      "url": "https://open.spotify.com/track/1jX9A3M5N38g38REQwwglU"
+    },
+    {
+      "album": {
         "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
         "url": "https://open.spotify.com/album/38aExI5zPQwJBbcLX200A4"
       },
@@ -1314,7 +1354,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 251266,
       "name": "\u601d\u60f3\u72af",
       "url": "https://open.spotify.com/track/5o3LSzu8xCMDpbAwm4dZ46"

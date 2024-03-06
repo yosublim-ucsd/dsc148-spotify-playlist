@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "M.A.R.I.E",
+        "url": "https://open.spotify.com/album/53JgXPgQ93t2n8hUU66WzP"
+      },
+      "artists": [
+        {
+          "name": "Torero",
+          "url": "https://open.spotify.com/artist/7EBa4oKS0i4D18OffQWzJT"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245454,
+      "name": "M.A.R.I.E",
+      "url": "https://open.spotify.com/track/0CcD8193EpjpOYfY2ZP10n"
+    },
+    {
+      "album": {
         "name": "PRIMAL HOWL",
         "url": "https://open.spotify.com/album/4MYya4uloQ1nyvTcqFNI9P"
       },
@@ -528,6 +546,32 @@
       "duration_ms": 196000,
       "name": "\u306a\u306a\u3044\u308d\u30cf\u30d4\u30cd\u30b9 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6OZTCYWjsooc8dCuH6DrzR"
+    },
+    {
+      "album": {
+        "name": "\u3072\u3085\uff5e\u3069\u308d\u3069\u308d",
+        "url": "https://open.spotify.com/album/0KNkcw5GOmlm8CP6DzSGjV"
+      },
+      "artists": [
+        {
+          "name": "\u6817\u5c71\u5915\u7483",
+          "url": "https://open.spotify.com/artist/529IDKZNOrCoMaR4xW0JlN"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "MEIKO",
+          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167875,
+      "name": "\u3072\u3085\uff5e\u3069\u308d\u3069\u308d (feat. \u521d\u97f3\u30df\u30af&MEIKO)",
+      "url": "https://open.spotify.com/track/1JQ4r5WyaSzOFGHR40RwPY"
     },
     {
       "album": {
@@ -913,6 +957,32 @@
     },
     {
       "album": {
+        "name": "\u30d2\u30de\u30f3\uff1d\u30d2\u30c0\u30a4\u7126\u71e5\u66f2",
+        "url": "https://open.spotify.com/album/0aMO60L8EpWbELcrD07uS9"
+      },
+      "artists": [
+        {
+          "name": "\u5357\u30ce\u5357",
+          "url": "https://open.spotify.com/artist/14Gsi7Nb3Wn80QsN369dzS"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "\u305a\u3093\u3060\u3082\u3093",
+          "url": "https://open.spotify.com/artist/3m4eychsgfjZtqppOdaThY"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "\u30d2\u30de\u30f3\uff1d\u30d2\u30c0\u30a4\u7126\u71e5\u66f2 feat. \u521d\u97f3\u30df\u30af&\u305a\u3093\u3060\u3082\u3093",
+      "url": "https://open.spotify.com/track/1hZ4aVBygP1kySDD0ec4h3"
+    },
+    {
+      "album": {
         "name": "\u30d5\u30a1\u30fc\u30b9\u30c8\u30e9\u30b9\u30c8",
         "url": "https://open.spotify.com/album/2AZzAKQb3ubE1PGGqOrkhR"
       },
@@ -1008,7 +1078,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 190479,
       "name": "\u30de\u30ed\u30a8 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/4XbYADvgnvwwryAWMT1Drh"
@@ -1077,6 +1147,28 @@
     },
     {
       "album": {
+        "name": "\u30e6\u30a2\u30a8\u30e1\u30e9\u30eb\u30c9",
+        "url": "https://open.spotify.com/album/0hcHtEzFRnKIr1YBHsszPJ"
+      },
+      "artists": [
+        {
+          "name": "Glue",
+          "url": "https://open.spotify.com/artist/4RYgfACpO30g7D88VWvk85"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "\u30e6\u30a2\u30a8\u30e1\u30e9\u30eb\u30c9 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/5L6QKKxMxiTstV7bz9hHlz"
+    },
+    {
+      "album": {
         "name": "\u30e9\u30b9\u30c8\u30b9\u30ed\u30fc\u30d7",
         "url": "https://open.spotify.com/album/33MYu3Vk1yJmENcH2QxSyP"
       },
@@ -1110,7 +1202,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 266920,
       "name": "\u30ea\u30e1\u30f3\u30b7\u30a2 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/2KRwOCB4L8HIGkLAfqXTtC"
@@ -1204,7 +1296,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 225000,
       "name": "\u541b\u306e\u30cf\u30fc\u30c8\u3092\u30c1\u30af\u30c1\u30af\u30c1\u30af\u30c1\u30af (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/2I2Uh63XDTlhVQ0GI0vqJP"
@@ -1226,7 +1318,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 187674,
       "name": "\u541b\u306f\u6b69\u3044\u3066\u3044\u305f (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/7f7HNUagP3hd4SvgKgqAUk"
@@ -1286,7 +1378,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 231085,
       "name": "\u591c\u660e\u3051\u306e\u30d5\u30a1\u30f3\u30d5\u30a1\u30fc\u30ec (feat. \u521d\u97f3\u30df\u30af&\u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3&\u5de1\u97f3\u30eb\u30ab&MEIKO&KAITO)",
       "url": "https://open.spotify.com/track/0zSpjo7WkFN5mUod1Y7dcj"
@@ -1632,6 +1724,28 @@
       "duration_ms": 215000,
       "name": "\u7a7a\u60f3\u21d4\u73fe\u5b9f\u30e1\u30c8\u30ed\u30ce\u30fc\u30e0",
       "url": "https://open.spotify.com/track/1vt39ocM5YJ5XpCKfrBO6S"
+    },
+    {
+      "album": {
+        "name": "Lost Notes",
+        "url": "https://open.spotify.com/album/7BoGto6te8VvndXdodAIFQ"
+      },
+      "artists": [
+        {
+          "name": "blues",
+          "url": "https://open.spotify.com/artist/54PdgvWwOz1CRcFN9uYwz6"
+        },
+        {
+          "name": "\u53ef\u4e0d",
+          "url": "https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243880,
+      "name": "\u86f9 (feat. \u53ef\u4e0d)",
+      "url": "https://open.spotify.com/track/2UuSljZeHGRwmixMAMIHAO"
     },
     {
       "album": {

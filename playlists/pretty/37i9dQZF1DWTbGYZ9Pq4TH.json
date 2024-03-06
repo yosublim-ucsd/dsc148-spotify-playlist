@@ -1,12 +1,12 @@
 {
   "description": "Le canzoni italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 176333,
+  "num_followers": 176350,
   "original_name": "San Valentino 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODZmNThhM2M1NWJkMGM5MWY5ODE0Y2I2ZTFhYzY5YWM5Y2I3YTU0",
+  "snapshot_id": "MCxkYzhhNDEwYWJjODFiZGQ4YTcwNjAyNTk0ODg3NWY0ZGY5NzJhN2M1",
   "tracks": [
     {
       "added_at": "2024-02-13 14:01:38",
@@ -423,6 +423,26 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
+        "name": "Persona",
+        "url": "https://open.spotify.com/album/7cZB2w7ju8vYRGzTSJ1H1v"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        },
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        }
+      ],
+      "duration_ms": 221631,
+      "name": "MADAME - L'anima",
+      "url": "https://open.spotify.com/track/0uAnrNNITY7KwmOqdVEsIK"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
         "name": "LOVE",
         "url": "https://open.spotify.com/album/5ckYRyGJLuChNaIuXUWwcN"
       },
@@ -487,38 +507,18 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Persona",
-        "url": "https://open.spotify.com/album/7cZB2w7ju8vYRGzTSJ1H1v"
+        "name": "Sindrome di Stendhal",
+        "url": "https://open.spotify.com/album/5xF5qZdfqo5hmHTLRv9Fca"
       },
       "artists": [
         {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        },
-        {
-          "name": "Madame",
-          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+          "name": "Emanuele Aloia",
+          "url": "https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76"
         }
       ],
-      "duration_ms": 221631,
-      "name": "MADAME - L'anima",
-      "url": "https://open.spotify.com/track/0uAnrNNITY7KwmOqdVEsIK"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
-        "name": "L'ultima notte",
-        "url": "https://open.spotify.com/album/6tv1OcOYdYgDs6lvhYFQ40"
-      },
-      "artists": [
-        {
-          "name": "ARIETE",
-          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
-        }
-      ],
-      "duration_ms": 157566,
-      "name": "L'ultima notte",
-      "url": "https://open.spotify.com/track/63mdY4U0KvnbMkUEc7FHN8"
+      "duration_ms": 177253,
+      "name": "Il bacio di Klimt",
+      "url": "https://open.spotify.com/track/5B1lKU2g7tcVaKaPwU4uc6"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -539,18 +539,18 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Sindrome di Stendhal",
-        "url": "https://open.spotify.com/album/5xF5qZdfqo5hmHTLRv9Fca"
+        "name": "L'ultima notte",
+        "url": "https://open.spotify.com/album/6tv1OcOYdYgDs6lvhYFQ40"
       },
       "artists": [
         {
-          "name": "Emanuele Aloia",
-          "url": "https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76"
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
         }
       ],
-      "duration_ms": 177253,
-      "name": "Il bacio di Klimt",
-      "url": "https://open.spotify.com/track/5B1lKU2g7tcVaKaPwU4uc6"
+      "duration_ms": 157566,
+      "name": "L'ultima notte",
+      "url": "https://open.spotify.com/track/63mdY4U0KvnbMkUEc7FHN8"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Odissea",
-        "url": "https://open.spotify.com/album/53byQXY8VWsJ8aiVjK6pbI"
-      },
-      "artists": [
-        {
-          "name": "Mango",
-          "url": "https://open.spotify.com/artist/5iBphIrmXEjfrqiuz5y6pY"
-        }
-      ],
-      "duration_ms": 270003,
-      "name": "Oro",
-      "url": "https://open.spotify.com/track/5NzWbTJOakrvq3g83UoD25"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
         "name": "Non Avere Paura",
         "url": "https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 247478,
       "name": "Non Avere Paura",
       "url": "https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
+        "name": "Odissea",
+        "url": "https://open.spotify.com/album/53byQXY8VWsJ8aiVjK6pbI"
+      },
+      "artists": [
+        {
+          "name": "Mango",
+          "url": "https://open.spotify.com/artist/5iBphIrmXEjfrqiuz5y6pY"
+        }
+      ],
+      "duration_ms": 270003,
+      "name": "Oro",
+      "url": "https://open.spotify.com/track/5NzWbTJOakrvq3g83UoD25"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Peter Pan",
-        "url": "https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi"
-      },
-      "artists": [
-        {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
-        }
-      ],
-      "duration_ms": 226160,
-      "name": "Cascare nei tuoi occhi",
-      "url": "https://open.spotify.com/track/60oJSn5MTG2VNvCJKwd65M"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
         "name": "Possibili Scenari",
         "url": "https://open.spotify.com/album/1tcX4ysSZEeMMshVVbkkDa"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 293960,
       "name": "Poetica",
       "url": "https://open.spotify.com/track/07qo9gnLM488CUr0EtgIA1"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
+        "name": "Peter Pan",
+        "url": "https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "duration_ms": 226160,
+      "name": "Cascare nei tuoi occhi",
+      "url": "https://open.spotify.com/track/60oJSn5MTG2VNvCJKwd65M"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Nessuno \u00e8 solo",
-        "url": "https://open.spotify.com/album/56gXoHRll4A4KZBTZsSMNi"
-      },
-      "artists": [
-        {
-          "name": "Tiziano Ferro",
-          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
-        }
-      ],
-      "duration_ms": 272946,
-      "name": "Ti scatter\u00f2 una foto",
-      "url": "https://open.spotify.com/track/2IDNV0ttledZreT0JtzFMp"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 236586,
       "name": "Un'emozione per sempre",
       "url": "https://open.spotify.com/track/1Hd8GLavCUUUx3GJdunJ4E"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
+        "name": "Nessuno \u00e8 solo",
+        "url": "https://open.spotify.com/album/56gXoHRll4A4KZBTZsSMNi"
+      },
+      "artists": [
+        {
+          "name": "Tiziano Ferro",
+          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
+        }
+      ],
+      "duration_ms": 272946,
+      "name": "Ti scatter\u00f2 una foto",
+      "url": "https://open.spotify.com/track/2IDNV0ttledZreT0JtzFMp"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
+        "name": "La Donna Cannone",
+        "url": "https://open.spotify.com/album/7COQBoeP7bBHykCpFbdpR2"
+      },
+      "artists": [
+        {
+          "name": "Francesco De Gregori",
+          "url": "https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul"
+        }
+      ],
+      "duration_ms": 279706,
+      "name": "La donna cannone",
+      "url": "https://open.spotify.com/track/2T2t1DXwzdilKF3BQPHREo"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
         "name": "Zero Gravity",
         "url": "https://open.spotify.com/album/0FxEbIEYdmAZ7u2oDB0Z4P"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 209400,
       "name": "D'improvviso",
       "url": "https://open.spotify.com/track/4ykkHvzEE45AlcUq6vkVW6"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
-        "name": "This Is Elodie",
-        "url": "https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd"
-      },
-      "artists": [
-        {
-          "name": "Elodie",
-          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
-        }
-      ],
-      "duration_ms": 205253,
-      "name": "Niente Canzoni D'Amore",
-      "url": "https://open.spotify.com/track/3Pqm4BPjluxMX3afwDlKy5"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -911,18 +911,18 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "La Donna Cannone",
-        "url": "https://open.spotify.com/album/7COQBoeP7bBHykCpFbdpR2"
+        "name": "This Is Elodie",
+        "url": "https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd"
       },
       "artists": [
         {
-          "name": "Francesco De Gregori",
-          "url": "https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul"
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
         }
       ],
-      "duration_ms": 279706,
-      "name": "La donna cannone",
-      "url": "https://open.spotify.com/track/2T2t1DXwzdilKF3BQPHREo"
+      "duration_ms": 205253,
+      "name": "Niente Canzoni D'Amore",
+      "url": "https://open.spotify.com/track/3Pqm4BPjluxMX3afwDlKy5"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Cip!",
-        "url": "https://open.spotify.com/album/7sYFig64Wpcv9PDq8QRGlV"
-      },
-      "artists": [
-        {
-          "name": "Brunori Sas",
-          "url": "https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Per due che come noi",
-      "url": "https://open.spotify.com/track/6JXlccLNpK7F2XFwHuMy23"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
         "name": "Il giorno dopo (Gli Indimenticabili)",
         "url": "https://open.spotify.com/album/3EqcpKN1Quc0ihDUDSXyGG"
       },
@@ -1019,22 +1003,6 @@
       "duration_ms": 283893,
       "name": "Minuetto",
       "url": "https://open.spotify.com/track/0jjZh3fHqW2JciT1b19oAN"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
-        "name": "Appena prima di partire",
-        "url": "https://open.spotify.com/album/76c8rMt8AHuavJA1pQfWLB"
-      },
-      "artists": [
-        {
-          "name": "Zero Assoluto",
-          "url": "https://open.spotify.com/artist/3bf7Y2it29DeOjXpIibCOe"
-        }
-      ],
-      "duration_ms": 223053,
-      "name": "Svegliarsi la mattina",
-      "url": "https://open.spotify.com/track/0FhpzL0BoqEYsT6k2Wb9AV"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1055,6 +1023,22 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
+        "name": "Cip!",
+        "url": "https://open.spotify.com/album/7sYFig64Wpcv9PDq8QRGlV"
+      },
+      "artists": [
+        {
+          "name": "Brunori Sas",
+          "url": "https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Per due che come noi",
+      "url": "https://open.spotify.com/track/6JXlccLNpK7F2XFwHuMy23"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
         "name": "Diari Aperti",
         "url": "https://open.spotify.com/album/4MmmI8sqP83TZzmg0AyTae"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 202533,
       "name": "Se Piovesse Il Tuo Nome",
       "url": "https://open.spotify.com/track/0FNRyMufs8Ox03TtaoyCjH"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
+        "name": "Appena prima di partire",
+        "url": "https://open.spotify.com/album/76c8rMt8AHuavJA1pQfWLB"
+      },
+      "artists": [
+        {
+          "name": "Zero Assoluto",
+          "url": "https://open.spotify.com/artist/3bf7Y2it29DeOjXpIibCOe"
+        }
+      ],
+      "duration_ms": 223053,
+      "name": "Svegliarsi la mattina",
+      "url": "https://open.spotify.com/track/0FhpzL0BoqEYsT6k2Wb9AV"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "La Finestra (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0NQDyYJyaZWGAuKo8PngX2"
+        "name": "Cinquemilaquarantatre (2001 Remastered Version)",
+        "url": "https://open.spotify.com/album/1c7fpydgzXm9gSXHZ228et"
       },
       "artists": [
         {
-          "name": "Negramaro",
-          "url": "https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7"
+          "name": "Mina",
+          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
         }
       ],
-      "duration_ms": 214520,
-      "name": "L'Immenso",
-      "url": "https://open.spotify.com/track/7bof4i0U5eYSJ6yhgtddK9"
+      "duration_ms": 238386,
+      "name": "Parole parole - 2001 Remastered Version",
+      "url": "https://open.spotify.com/track/7LZDbABGg2NfnGsyIs2SeB"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Cinquemilaquarantatre (2001 Remastered Version)",
-        "url": "https://open.spotify.com/album/1c7fpydgzXm9gSXHZ228et"
+        "name": "La Finestra (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0NQDyYJyaZWGAuKo8PngX2"
       },
       "artists": [
         {
-          "name": "Mina",
-          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
+          "name": "Negramaro",
+          "url": "https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7"
         }
       ],
-      "duration_ms": 238386,
-      "name": "Parole parole - 2001 Remastered Version",
-      "url": "https://open.spotify.com/track/7LZDbABGg2NfnGsyIs2SeB"
+      "duration_ms": 214520,
+      "name": "L'Immenso",
+      "url": "https://open.spotify.com/track/7bof4i0U5eYSJ6yhgtddK9"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1435,38 +1435,6 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Grazie",
-        "url": "https://open.spotify.com/album/2htq51kTRL2dwMxa2mBfJi"
-      },
-      "artists": [
-        {
-          "name": "Gianna Nannini",
-          "url": "https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX"
-        }
-      ],
-      "duration_ms": 270346,
-      "name": "Sei nell'anima",
-      "url": "https://open.spotify.com/track/6shzlUkm7OcnoO4guEiGJ8"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
-        "name": "Come Thelma E Louise",
-        "url": "https://open.spotify.com/album/3TkPJ0VZJnHBQ5jWk8Y0lj"
-      },
-      "artists": [
-        {
-          "name": "Giorgia",
-          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
-        }
-      ],
-      "duration_ms": 300306,
-      "name": "Come saprei",
-      "url": "https://open.spotify.com/track/1mJQoOICr4UlV6nG3EI4NN"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
         "name": "Amore Che Torni",
         "url": "https://open.spotify.com/album/1K4sRqrwNiPf51cjIDjc8J"
       },
@@ -1483,6 +1451,22 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
+        "name": "Grazie",
+        "url": "https://open.spotify.com/album/2htq51kTRL2dwMxa2mBfJi"
+      },
+      "artists": [
+        {
+          "name": "Gianna Nannini",
+          "url": "https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX"
+        }
+      ],
+      "duration_ms": 270346,
+      "name": "Sei nell'anima",
+      "url": "https://open.spotify.com/track/6shzlUkm7OcnoO4guEiGJ8"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
         "name": "Stilelibero",
         "url": "https://open.spotify.com/album/110QUEiOQGYeEZYPjtOOl5"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 240893,
       "name": "Fuoco nel fuoco",
       "url": "https://open.spotify.com/track/5U61t7csH5tQmOEp74AkoM"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
+        "name": "Come Thelma E Louise",
+        "url": "https://open.spotify.com/album/3TkPJ0VZJnHBQ5jWk8Y0lj"
+      },
+      "artists": [
+        {
+          "name": "Giorgia",
+          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
+        }
+      ],
+      "duration_ms": 300306,
+      "name": "Come saprei",
+      "url": "https://open.spotify.com/track/1mJQoOICr4UlV6nG3EI4NN"
     },
     {
       "added_at": "2024-02-13 14:01:38",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: magicHour
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,496 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,539 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [harumau sora](https://open.spotify.com/track/3wtc2pGSSDLAF2deTXeDQV) | [Karin](https://open.spotify.com/artist/2NMVmmT0al17xSOnWO1J1M) | [harumau sora](https://open.spotify.com/album/0S3GvKqRnwHvYLDBnQrVt1) | 5:10 |
 | 80 | [胎盤 \-Waterbird Habitat\-](https://open.spotify.com/track/0hYBCjw2jA7KpDKABLzqJN) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [あなたの骨が、オパールにかわる頃](https://open.spotify.com/album/4tYdfajjjVCRxPWGZSnSOY) | 3:41 |
 
-Snapshot ID: `MCxiMDhkNGM0ZTkwMDQwZmRlODQ2ZTdhNDY2YzI3OWNiNWVhOWMxODlk`
+Snapshot ID: `MCw0MmZlOWJlYzRkODBlM2MwYTcyYWQxMDg4OGM5YjJlMGY0MTI5NWI1`

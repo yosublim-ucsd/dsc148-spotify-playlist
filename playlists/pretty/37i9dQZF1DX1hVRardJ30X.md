@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Carin Leon & Kane Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,355 likes - 57 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,359 likes - 57 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 56 | [Me Vale V](https://open.spotify.com/track/7KO00ABO1mYdBQMw8jvy3l) | [Michi Sanz](https://open.spotify.com/artist/3upPawRH8B04mVJR5p0ZVx) | [Me Vale V](https://open.spotify.com/album/5PFzu3JXWMoA8NHlZr7ZAO) | 2:33 |
 | 57 | [Ley de Atracción](https://open.spotify.com/track/1o7Bb4THzpBXKmARYRBySr) | [Mardeybor](https://open.spotify.com/artist/7FLbZBr6eoDNRFa4aW8UZZ) | [Ley de Atracción](https://open.spotify.com/album/2987HxMx0Gi2mku3xPAPi2) | 3:09 |
 
-Snapshot ID: `MCxjOTVlNzk1MTM2YWQ0ZjMxMzBkMzE0NGJlYThiNzJiODU5YmYzOTZj`
+Snapshot ID: `MCwyMzAxZTA1ZWY3NjYyMmRhMjBhM2E3MzZmOGIzNjViMGM3MTI3NzBk`

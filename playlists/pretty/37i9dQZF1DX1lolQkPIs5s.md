@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 
 > ディズニーの人気曲を集めた公式プレイリスト♪ディズニー映画最新作『ウィッシュ』の最新楽曲から、『リトル・マーメイド』『アナと雪の女王』『アラジン』等の名曲、パークの大人気楽曲までセレクト！
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,605 likes - 158 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,617 likes - 158 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 | 70 | [Happy Song](https://open.spotify.com/track/3CTvENkGrXC47vyQNti7J4) | [Tokyo Disneyland](https://open.spotify.com/artist/5EPQb0h5U2AWk8OxzEWxx2) | [Tokyo Disneyland The Happy Ride with Baymax](https://open.spotify.com/album/5UxE2ow6iPQztXA0Yn6o8k) | 1:35 |
 | 71 | [Kiseki Wo Nozomunara ..\. \- soulful world ver.](https://open.spotify.com/track/6FF8QOdmmscdC6lkU1On4m) | [JUJU](https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej) | [Kiseki Wo Nozomunara ..\. \(soulful world ver.\)](https://open.spotify.com/album/6MealZ6klqANxYw4Xg7p7n) | 3:33 |
 | 72 | [Part of Your World \- Japanese Version](https://open.spotify.com/track/24s18dNsVfEZsrPfo0QkHJ) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Howard Ashman](https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN), [MAYUMI SUZUKI](https://open.spotify.com/artist/2A898Bz1BlL0RbbRL1n0RJ) | [The Little Mermaid \(Original Motion Picture Soundtrack/Japanese Dubbed Version\)](https://open.spotify.com/album/1KUIwgcM9y8VGfFN2XYddO) | 3:09 |
-| 73 | [If I Didn't Have You \- Hidehiko Ishizuka & Yuji Tanaka Version](https://open.spotify.com/track/2g7RfbrjDwkeFao5tk4iHv) | [Hidehiko Ishizuka](https://open.spotify.com/artist/4q4bgkGzmIHifIbeBLtpQO), [Yuji Tanaka](https://open.spotify.com/artist/4Q3kgRzt8ZQILwjU76CgGg) | [Monsters, Inc\. \(Original Motion Picture Soundtrack/Japan Release Version\)](https://open.spotify.com/album/14nVZESM3oqW12L2l4ToBW) | 3:39 |
+| 73 | [If I Didn't Have You \- Japanese Version](https://open.spotify.com/track/2g7RfbrjDwkeFao5tk4iHv) | [Hidehiko Ishizuka](https://open.spotify.com/artist/4q4bgkGzmIHifIbeBLtpQO), [Yuji Tanaka](https://open.spotify.com/artist/4Q3kgRzt8ZQILwjU76CgGg) | [Monsters, Inc\. \(Original Motion Picture Soundtrack/Japan Release Version\)](https://open.spotify.com/album/14nVZESM3oqW12L2l4ToBW) | 3:39 |
 | 74 | [Speechless](https://open.spotify.com/track/3VkiOh8cWGTfo77zq8UuhZ) | [HARAMIchan](https://open.spotify.com/artist/0d28u7sLYPBfLxWwhiNX8h) | [Disney Happy Piano Tunes](https://open.spotify.com/album/7stNU1gFKceoC1MrANYV2x) | 3:26 |
 | 75 | [B\-A\-Y\-M\-A\-X](https://open.spotify.com/track/2UQDkNbv8wSQvvzyhAUSyC) | [Tokyo Disneyland](https://open.spotify.com/artist/5EPQb0h5U2AWk8OxzEWxx2) | [Tokyo Disneyland The Happy Ride with Baymax](https://open.spotify.com/album/5UxE2ow6iPQztXA0Yn6o8k) | 1:29 |
 | 76 | [Love Is an Open Door \- Japanese Version](https://open.spotify.com/track/1EMluCabHs4pDVB1kx2QVR) | [Sayaka Kanda](https://open.spotify.com/artist/0FYmss7VDzi6m3UATQMyab), [Eisuke Tsuda](https://open.spotify.com/artist/3bhT5ERbR7oHoZ6apz81cr) | [Frozen \(Original Motion Picture Soundtrack/Japanese Version\)](https://open.spotify.com/album/37AeI9DQyORhrsOLFIJOnw) | 2:07 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 | 157 | [The Mad Tea Party / The Unbirthday Song / Twinkle Twinkle / Clean Cup Move Down / Mad Watch](https://open.spotify.com/track/0uDuqVAWCOYEH4qM3vWe1g) | [Kathryn Beaumont](https://open.spotify.com/artist/762gpacQ6WcT75zlkrc3Ls), [Edwynn](https://open.spotify.com/artist/3XX7VQJvnPuFrCSaHgexf5), [James Macdonald](https://open.spotify.com/artist/6Wr4qA7iyTKRag1Pyyuv2g), [Jerry Colonna](https://open.spotify.com/artist/4Rg7sNSGzUzaP1qkc5qVhc) | [Alice In Wonderland \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Sfipn1VH7Q0ZSPfXz7oOx) | 4:31 |
 | 158 | [Whistle While You Work](https://open.spotify.com/track/1ai54RVIzu7IKebNbPEwMv) | [Adriana Caselotti](https://open.spotify.com/artist/6AbQqiXLNLzvJSqq2383bZ) | [Snow White and the Seven Dwarfs \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5nmf2deiZ5EvAsc02RmzRk) | 3:23 |
 
-Snapshot ID: `MCxkNjQ1YjcwMTliNzZjYWY1NTUyYWQwZjQ2YzU0OTBjMWUzNWI4ZGQx`
+Snapshot ID: `MCwxMWM3Yjk5NjE3MDljYzZjMGE3NzUyZjI1YzU3NDAxYjIxMTUyMjM4`

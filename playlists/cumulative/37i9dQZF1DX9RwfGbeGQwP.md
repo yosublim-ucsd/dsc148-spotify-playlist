@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,382 songs - 2 day 4 hr 4 min
+1,383 songs - 2 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@
 | [Cat in the Box](https://open.spotify.com/track/2k9QU8szGSVS8b2N7xW6MC) | [Mosalla](https://open.spotify.com/artist/2MlmctFTcQ5Qhjq5ataD5C), [Joe Sunrise](https://open.spotify.com/artist/4mvWLbsizI6uxbelCP9LRy) | [Cat in the Box](https://open.spotify.com/album/5WmnhaE67jSCe4MrseI5Be) | 1:56 | 2023-04-27 |  |
 | [Cathartic](https://open.spotify.com/track/0yk0UX9d2qa9eCqsvQobei) | [\[ocean jams\]](https://open.spotify.com/artist/3dHotvHEwOdiVKy5X6Gw9B) | [Cathartic](https://open.spotify.com/album/1qn7HpgYuij9FtWD1KIxHd) | 2:12 | 2022-01-27 | 2022-09-03 |
 | [Cayo](https://open.spotify.com/track/6p8cuVRnfBv4C6dhvYua5i) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs), [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Cayo](https://open.spotify.com/album/0oY0cZTZBDrlPTM7chf4bE) | 2:16 | 2022-01-27 | 2022-07-08 |
-| [Cetosia](https://open.spotify.com/track/6JgibkidEB2L9DG34lL6Wc) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Cetosia](https://open.spotify.com/album/7GQijZZRKjGWBoP0KM8TBL) | 2:00 | 2023-09-22 |  |
+| [Cetosia](https://open.spotify.com/track/6JgibkidEB2L9DG34lL6Wc) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Cetosia](https://open.spotify.com/album/7GQijZZRKjGWBoP0KM8TBL) | 2:00 | 2023-09-22 | 2024-03-06 |
 | [Change Ain't Bad](https://open.spotify.com/track/1GLHd8HvaMTaul0CR0YlYo) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Lagom](https://open.spotify.com/album/4k7Eh3WH907ikJlxC5B0C4) | 2:06 | 2022-01-27 | 2022-04-08 |
 | [Chanterelle](https://open.spotify.com/track/3JSg9IUjqze3mySqLn4HmT) | [Silva Sax](https://open.spotify.com/artist/4J3sbgdgKQeaCSv5oM2xq9) | [Cartoons & Cereal](https://open.spotify.com/album/6eY7VIvnJeoNfWVpE5N29q) | 3:45 | 2022-01-27 | 2023-06-06 |
 | [charles b.](https://open.spotify.com/track/0PspRVTgQPycu9EH88kF4k) | [Rico Manzano](https://open.spotify.com/artist/1hVs4AUzu7CjnBobfDoLoZ) | [charles b.](https://open.spotify.com/album/1MXnC6qRilmNuoYPwenhr4) | 2:30 | 2022-01-27 | 2022-10-15 |
@@ -364,6 +364,7 @@
 | [extra air](https://open.spotify.com/track/6cwopXxD0cUYOo3g03GUUF) | [Kenzie](https://open.spotify.com/artist/0QYQjRbAV7qfoTpUW4Bmrh) | [extra air](https://open.spotify.com/album/71yot0UAbs7UWxTQh4VCWw) | 2:49 | 2022-09-02 | 2023-01-20 |
 | [Fables](https://open.spotify.com/track/14ZQqkb1sbVcURlsjx5dxy) | [itsjrad](https://open.spotify.com/artist/7c4X1eCcicV6EfghXWER9w) | [Laika Beat Tape](https://open.spotify.com/album/5eDhZtUj7QqWECAI7l3kwb) | 2:12 | 2022-01-27 | 2022-06-10 |
 | [Fade Away](https://open.spotify.com/track/0L9PZKDkjAIWrOwAWI100d) | [Gary Alesbrook](https://open.spotify.com/artist/047bXeKqafhgvngu42Dc70) | [Fade Away](https://open.spotify.com/album/38HfVRLtGrA3TCzmBK90T3) | 2:15 | 2022-04-15 | 2022-11-12 |
+| [Fairfax Ave](https://open.spotify.com/track/3hj7gfXWeUNMeAyQ0i1yDo) | [Izzo Lizz](https://open.spotify.com/artist/7hTGpaTylPh9fDkmaR44Rr) | [Fairfax Ave](https://open.spotify.com/album/45XZkvtUSP2IdV1HWq5bKa) | 2:11 | 2024-03-01 |  |
 | [Fairy Tale Path](https://open.spotify.com/track/3Yf1iC4HUjLAfN7kzv86oy) | [Kokomiko](https://open.spotify.com/artist/1Tl7kataLF4lZip5jfVd7D), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Fairy Tale Path](https://open.spotify.com/album/1EMrTr2AvTqSma1QsjNC5t) | 1:55 | 2023-09-04 | 2023-10-20 |
 | [Fall in Love](https://open.spotify.com/track/3ekZYrWTJwyCICJwvVGTbh) | [OVN](https://open.spotify.com/artist/0E4q1wpuPwtqbDr6Okw304) | [Fall in Love](https://open.spotify.com/album/2EWNPZ0rCXhlV7vpZPS4W3) | 2:00 | 2022-10-08 | 2023-09-22 |
 | [Falling](https://open.spotify.com/track/2wXW4UKo3pXoINNgTzPlxb) | [Perpetual Machine](https://open.spotify.com/artist/2LfRjZGrFS9eu2fppbwGEk) | [Falling](https://open.spotify.com/album/3jFi4OaifWoDWZjsNzsqCe) | 2:13 | 2022-05-20 |  |
@@ -635,7 +636,7 @@
 | [Koza](https://open.spotify.com/track/3K2kM7sVauIUtxBJP7LvjB) | [Oddability](https://open.spotify.com/artist/2mjU7FFvohRKtvj3xgRkqk), [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Koza](https://open.spotify.com/album/18gOvTKXO2qNre4TF86xnW) | 2:22 | 2022-10-15 | 2023-09-05 |
 | [Köln Kalk](https://open.spotify.com/track/1HUDqgmGyCQjv42w6gxEn0) | [Jakspin](https://open.spotify.com/artist/3PLqmSa29zyLdTGINzLqCZ) | [Köln Kalk](https://open.spotify.com/album/2FwnZhdY4UYiy6UQcZK8KB) | 2:28 | 2022-11-11 | 2023-09-29 |
 | [L A P I S L A Z U L I](https://open.spotify.com/track/6dxxq8txtOlSMwZwZPHScG) | [Joel Loopez](https://open.spotify.com/artist/3l7zH3g5Z7QnHAiIYKZu6u) | [舎](https://open.spotify.com/album/2Knj3Ym8f7FWeZSQV8APA9) | 3:05 | 2022-10-15 | 2023-09-22 |
-| [Ladron Lover](https://open.spotify.com/track/3XhzJPeuzAEAaZAVKsmkky) | [Hekiga](https://open.spotify.com/artist/1qbuegBEzi7RW8QEEI2gwe) | [The Alley](https://open.spotify.com/album/3JG3pdBOGURxFubxIjuVPD) | 1:39 | 2022-09-02 |  |
+| [Ladron Lover](https://open.spotify.com/track/3XhzJPeuzAEAaZAVKsmkky) | [Hekiga](https://open.spotify.com/artist/1qbuegBEzi7RW8QEEI2gwe) | [The Alley](https://open.spotify.com/album/3JG3pdBOGURxFubxIjuVPD) | 1:39 | 2022-09-02 | 2024-03-06 |
 | [Laid\-Back Skylines](https://open.spotify.com/track/4jeYDsddMI8TShXgmOww8S) | [JAKKARTA](https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk) | [Laid\-Back Skylines](https://open.spotify.com/album/6BDP79MYOUZsLmq0Gsjuw6) | 2:34 | 2024-02-23 |  |
 | [Laidback Style](https://open.spotify.com/track/7KPAMOtffV17NiiapCPGnh) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo) | [Laidback Style](https://open.spotify.com/album/04PobR5vGW2Xam5YBOPpDO) | 2:44 | 2023-02-07 | 2023-11-25 |
 | [Last call on what](https://open.spotify.com/track/5de261y9PMBp40oyycVd2h) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [Last call on what](https://open.spotify.com/album/6QSf6cdpkGTAp0YtSK5lFr) | 2:13 | 2023-03-08 |  |
@@ -1389,6 +1390,6 @@
 | [Zeal](https://open.spotify.com/track/7gWksPQCd3aSdB7phjMTXy) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Zeal](https://open.spotify.com/album/1mPNHtXpRMDp6W9Xj2ShMB) | 2:21 | 2022-11-11 | 2023-04-28 |
 | [Zeal, Pt\. 2](https://open.spotify.com/track/1Z3PDHNa9EQHjuJT3mWrqW) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Zeal, Pt\. 2](https://open.spotify.com/album/53mnKSs3Q0K8vXUXk5RV1M) | 2:16 | 2023-05-19 | 2023-10-13 |
 | [Zeeez](https://open.spotify.com/track/6MKV08WI49nZjhC5nqzOvi) | [Dizzy Halos](https://open.spotify.com/artist/4qiOgE9uEz6UkqPEpUA6Md) | [Zeeez](https://open.spotify.com/album/47YQYybeQm0ZQEAYanjOu3) | 3:06 | 2022-01-27 | 2022-06-03 |
-| [Zeppelin Hike](https://open.spotify.com/track/7E5IpTS1Ik9fa1nth6ofer) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Zeppelin Hike](https://open.spotify.com/album/5LEWRbBnaHdB0plAyRH8bX) | 2:12 | 2022-09-16 | 2024-01-21 |
+| [Zeppelin Hike](https://open.spotify.com/track/7E5IpTS1Ik9fa1nth6ofer) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Zeppelin Hike](https://open.spotify.com/album/5LEWRbBnaHdB0plAyRH8bX) | 2:12 | 2022-09-16 |  |
 
 \*This playlist was first scraped on 2022-02-05. Prior content cannot be recovered.

@@ -1,5 +1,5 @@
 {
-  "2024-03-05": 70830,
+  "2024-03-06": 70833,
   "date_first_scraped": "2022-04-16",
   "description": "Your daily update of the most viral tracks right now - Chile.",
   "name": "Viral 50 - Chile",
@@ -10269,6 +10269,32 @@
       "duration_ms": 259680,
       "name": "Enamorado tuyo",
       "url": "https://open.spotify.com/track/35LdDKNMwvKftENaj1WIwF"
+    },
+    {
+      "album": {
+        "name": "Encima De Mi",
+        "url": "https://open.spotify.com/album/1Xj4dSNkUuUzSG8YegWfEf"
+      },
+      "artists": [
+        {
+          "name": "filtragvspi",
+          "url": "https://open.spotify.com/artist/4dHVl8Dfhcl6eVA1IZRxso"
+        },
+        {
+          "name": "jere kleinn",
+          "url": "https://open.spotify.com/artist/5Teh54XshOsA9VFAysh5KW"
+        },
+        {
+          "name": "lucky broown",
+          "url": "https://open.spotify.com/artist/7EzJFjb21kpWdvzmj5TKte"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115538,
+      "name": "Encima De Mi",
+      "url": "https://open.spotify.com/track/5ul8goxRfS5qh1JBEUbICd"
     },
     {
       "album": {
@@ -33909,7 +33935,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"

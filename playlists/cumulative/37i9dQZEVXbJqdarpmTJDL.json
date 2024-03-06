@@ -3274,7 +3274,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 136258,
       "name": "BANSKO",
       "url": "https://open.spotify.com/track/0VojXGi7cSdHx1VdkdvvHV"
@@ -16425,6 +16425,24 @@
     },
     {
       "album": {
+        "name": "Rous II",
+        "url": "https://open.spotify.com/album/5pj0kkvgv1DQuzcnRjpSkD"
+      },
+      "artists": [
+        {
+          "name": "Yorgos Rous",
+          "url": "https://open.spotify.com/artist/28BigpvpUQr0WHhR7QzIep"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234582,
+      "name": "Louloudi Tou Dromou",
+      "url": "https://open.spotify.com/track/6XeFd9KCGi7zz5U9KHqCyx"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -25438,7 +25456,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 177150,
       "name": "Simadi",
       "url": "https://open.spotify.com/track/2ILpP6nlR7QndbxtzLbZ7K"
@@ -25636,7 +25654,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-25",
+      "date_removed": null,
       "duration_ms": 123045,
       "name": "Skoni",
       "url": "https://open.spotify.com/track/6YfzfBiC4dpF5yv63QcLCY"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Charli XCX
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,062 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,885 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Troublemaker](https://open.spotify.com/track/0qh5LnJ77G0YqtEFEFTBvc) | [Trey Lewis](https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO) | [Troublemaker](https://open.spotify.com/album/2yBRlclfDYwbPLWHUvuKoS) | 3:24 |
 | 100 | [Raise Your Hands](https://open.spotify.com/track/1WAgMzQu2hQcJlmRu3P6Cp) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9), [John Squire](https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ) | [Liam Gallagher & John Squire](https://open.spotify.com/album/3Neqbz02HyUyqoI5G3AS1K) | 4:20 |
 
-Snapshot ID: `MCw1MTI4ZmRjNWRmZjkzZGE3ZGUxZTY2YTllM2QzOWZhODdhZDk2Mzcx`
+Snapshot ID: `MCwzODAwN2I5OWM3MzhhMjI3ZTNjNDZjNzQ2ZDE4ZTc1MDU0Nzc2ZGNi`

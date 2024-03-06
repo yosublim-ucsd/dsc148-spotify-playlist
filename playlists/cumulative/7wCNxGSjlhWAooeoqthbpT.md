@@ -4,7 +4,7 @@
 
 > Check your vibe with Epic Records\. cover: 21 Savage
 
-250 songs - 12 hr 28 min
+251 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [GD Woman](https://open.spotify.com/track/2RFPBuGma5LnPbTjplfsuZ) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [GD Woman](https://open.spotify.com/album/09NbOdvIzE2fuN9vhAJ0KE) | 2:58 | 2023-07-07 | 2023-12-14 |
 | [Ghost of You](https://open.spotify.com/track/7Kbw2fTMOU43MrqXdGzroh) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Ghost of You](https://open.spotify.com/album/3tDXcAFGzJelw2FvjDP9aI) | 2:38 | 2022-10-07 | 2023-03-18 |
 | [Gimme Da Lite](https://open.spotify.com/track/5VE6OSfJkMHyMpHaJzuUqn) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Gimme Da Lite](https://open.spotify.com/album/3nje1igt9y3c85Hx5IbxVx) | 1:53 | 2024-01-09 |  |
+| [Gin & Juice \(feat\. BigXthaPlug\)](https://open.spotify.com/track/2EA5h6XD8KB070waaoclje) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Gin & Juice \(feat\. BigXthaPlug\)](https://open.spotify.com/album/1fOnjWaTMtIgKfFxNq78e2) | 3:11 | 2024-03-05 |  |
 | [Girl Next Door](https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Girl Next Door](https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4) | 3:00 | 2023-05-12 | 2023-07-29 |
 | [Going Places](https://open.spotify.com/track/5X75OF1FA0OiR6B7JfuJmU) | [AAP Deno](https://open.spotify.com/artist/52f48nUbzOy6buKHxUZP2G) | [Going Places](https://open.spotify.com/album/4ZHOXutdiNiyr5CJhAMpJv) | 2:51 | 2023-06-09 | 2023-12-14 |
 | [Going To The Top](https://open.spotify.com/track/12tJyz2GOa37X25a8GF2hP) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Going To The Top](https://open.spotify.com/album/7ekSrUcnLASHRSOYvX2UZw) | 1:56 | 2024-02-26 |  |

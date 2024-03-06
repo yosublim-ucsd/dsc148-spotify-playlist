@@ -1,5 +1,5 @@
 {
-  "2024-03-05": 1412292,
+  "2024-03-06": 1412613,
   "date_first_scraped": "2022-05-27",
   "description": "vc ta com bafo",
   "name": "Hits da Internet",
@@ -2469,6 +2469,24 @@
       "duration_ms": 183408,
       "name": "Dona Chica - Ao Vivo",
       "url": "https://open.spotify.com/track/0sD07uktXbICUL36lzfBxf"
+    },
+    {
+      "album": {
+        "name": "Dono da Porsche (Bom Dia Princesa)",
+        "url": "https://open.spotify.com/album/3DJCxAao78RWA21d2LUEWD"
+      },
+      "artists": [
+        {
+          "name": "MC Reino",
+          "url": "https://open.spotify.com/artist/5VYxsvivVgcLrPjgLUFRG1"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156731,
+      "name": "Dono da Porsche (Bom Dia Princesa)",
+      "url": "https://open.spotify.com/track/6XQ87rq4dZpaNG8aVi99Jg"
     },
     {
       "album": {
@@ -6353,7 +6371,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 197538,
       "name": "Piloto",
       "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"

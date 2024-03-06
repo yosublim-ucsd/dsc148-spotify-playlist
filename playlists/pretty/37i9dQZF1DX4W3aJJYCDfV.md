@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music Charli XCX \(pictured\), Fred again.., Skepta and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 847,558 likes - 123 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 847,821 likes - 123 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 58 | [I Think You Should Go](https://open.spotify.com/track/7cRfC6VZyy8r985B31baJA) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [BLIND](https://open.spotify.com/album/3KwHPX5p6O8VgJVoL5YgWj) | 2:23 |
 | 59 | [Wonderkid](https://open.spotify.com/track/7C4mpGALsYWPKemjWQig0s) | [Jordy](https://open.spotify.com/artist/7l3zlwcm9aq7yogYA4Xn1p), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5) | [Wonderkid](https://open.spotify.com/album/6FhOcSkXbZFUF7ONRbE1nA) | 2:58 |
 | 60 | [Makes Me Violent](https://open.spotify.com/track/1nNSdsmH6rqpa6x7WeUL5v) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Makes Me Violent](https://open.spotify.com/album/0j6c4JKUS4ofsa0P927Irn) | 3:19 |
-| 61 | [Unlove You](https://open.spotify.com/track/09aMmvVWk5n7kmsj2NS12a) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Unlove You](https://open.spotify.com/album/61RGgh2zxHHsIzyhqMZEzq) | 2:46 |
+| 61 | [Unlove You](https://open.spotify.com/track/2J4vV2TPhtXYUxIHqMCsq4) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Unlove You](https://open.spotify.com/album/0XOCr1zfM2co1x5dMIjO77) | 2:46 |
 | 62 | [Don't Let Me Down \(feat\. JVKE\)](https://open.spotify.com/track/046QZ0ociluzd0yjpY1tY4) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Don't Let Me Down \(feat\. JVKE\)](https://open.spotify.com/album/2m3RAFfpFPttHJIMBZKKCo) | 2:48 |
 | 63 | [Boy You Gotta](https://open.spotify.com/track/2S7hmCNpExVVXk98z6SPWV) | [NS Boulevard](https://open.spotify.com/artist/4bw61r0pM5rg5pBLZd8N5a) | [Boy You Gotta](https://open.spotify.com/album/79VP7qjEWBsGYdmFFuD7cx) | 3:17 |
-| 64 | [TINTS \(feat\. Bawo\)](https://open.spotify.com/track/0MAnubeh3iynsMVSeH6YZa) | [Ashbeck](https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9), [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB), [El Londo](https://open.spotify.com/artist/6XO1rl4e9IDahI86s9UJZC) | [TINTS \(feat\. Bawo\)](https://open.spotify.com/album/5zt2vbLuQhmDybntG151Dh) | 2:16 |
+| 64 | [TINTS \(feat\. Bawo\)](https://open.spotify.com/track/0MAnubeh3iynsMVSeH6YZa) | [Ashbeck](https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9), [El Londo](https://open.spotify.com/artist/6XO1rl4e9IDahI86s9UJZC), [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [TINTS \(feat\. Bawo\)](https://open.spotify.com/album/5zt2vbLuQhmDybntG151Dh) | 2:16 |
 | 65 | [Balu](https://open.spotify.com/track/5zCxHFdFyn3bi9hA9EQ6u3) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [Balu](https://open.spotify.com/album/0k3Iu4vn19MBPYtefVrJPX) | 3:52 |
 | 66 | [Arintintin](https://open.spotify.com/track/0gExQivfnTQxzD85envbyy) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Arintintin](https://open.spotify.com/album/18WiTeK26yzhOpIYSHDA4T) | 2:28 |
 | 67 | [Giving Chanel](https://open.spotify.com/track/1wMxLpODBBQMC6CiIBIV8e) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [HEATHENISM](https://open.spotify.com/album/10OuYNhsZyIip13lZe6dzG) | 3:27 |
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 97 | [kill me](https://open.spotify.com/track/3X5L8TzO9nJtHDyxrmsKOl) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [kill me](https://open.spotify.com/album/25VHec5jVAFrZawcFxQKUi) | 2:48 |
 | 98 | [Losing My Mind](https://open.spotify.com/track/2OOvGYDO5MJ7bsmt2oBZzv) | [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued), [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io) | [Losing My Mind](https://open.spotify.com/album/7h4UTSLRvuXAqRgc4ryDM5) | 2:33 |
 | 99 | [All That You Made Me](https://open.spotify.com/track/6Dl0r2R1W89PNtSmgesRXr) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [All That You Made Me](https://open.spotify.com/album/3GpdTSzUQLGYOIiMurqnus) | 2:41 |
-| 100 | [Anonymous](https://open.spotify.com/track/0nzrey7EGWju6WBndLkUFa) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x), [Jada](https://open.spotify.com/artist/0HjgS1pbPhuNrlPkda9INO) | [Sad Songs For Winter](https://open.spotify.com/album/0Y8wD7iVN5COLCrsJFI3yp) | 2:30 |
+| 100 | [Anonymous](https://open.spotify.com/track/0nzrey7EGWju6WBndLkUFa) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x), [JADA](https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM) | [Sad Songs For Winter](https://open.spotify.com/album/0Y8wD7iVN5COLCrsJFI3yp) | 2:30 |
 | 101 | [Everything I Hate About You](https://open.spotify.com/track/3SbppORbCg20Ho8MvhXC56) | [Kate Wild](https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l) | [Everything I Hate About You](https://open.spotify.com/album/4PsIeCFNJQCtCKTJDrzPay) | 2:48 |
 | 102 | [Take Time](https://open.spotify.com/track/64jc8TDPmYkrO93D7Q7QTz) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Daley](https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Take Time + Guava](https://open.spotify.com/album/5Urmwa9noXx3WJkZGpxArN) | 3:56 |
 | 103 | [Nicotine Patch](https://open.spotify.com/track/4ZnX25eDUfdHk56I9JmqfH) | [Tim Gallagher](https://open.spotify.com/artist/6o48etq0sWdCaAjVq1i9Fb) | [Nicotine Patch](https://open.spotify.com/album/52hIdPmIbzrFmNp24bWhsK) | 3:29 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 122 | [Attention](https://open.spotify.com/track/7a97WHddocTnhagUJEfTFb) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Attention](https://open.spotify.com/album/7hE5oYhRUricYUex3QE5NH) | 4:11 |
 | 123 | [The State](https://open.spotify.com/track/2z8W8Wyfy2XMU7kSnDTPNF) | [Fynch](https://open.spotify.com/artist/0IKMnBuBLJuHcrTejKmrtx) | [Youngfella](https://open.spotify.com/album/1RRioAfHKB6wujcoO1Zi3p) | 3:07 |
 
-Snapshot ID: `MCxhZGIxZTgxNzRhNDM3NTZkODVlMTk5YzVhMzE0YTk4ZDY2ZDU3YTVh`
+Snapshot ID: `MCw0NDMzZmVhYWZmZDNhMDZlODdlYTI2ZmYwNGNkNGI0ZDk1NzEwOTQx`

@@ -1,5 +1,5 @@
 {
-  "2024-03-05": 161582,
+  "2024-03-06": 161613,
   "date_first_scraped": "2023-02-25",
   "description": "De nieuwste Nederlandse pop! Cover: MEAU",
   "name": "Je Moerstaal",
@@ -8661,6 +8661,24 @@
       "duration_ms": 184340,
       "name": "Voor Mijn Hart",
       "url": "https://open.spotify.com/track/7ikORk2VQ1J3uD7JhzJnxs"
+    },
+    {
+      "album": {
+        "name": "Spuug van God",
+        "url": "https://open.spotify.com/album/1aAim07lpl5ARWVls0wKqM"
+      },
+      "artists": [
+        {
+          "name": "Willem",
+          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186671,
+      "name": "Voor Wat Je Lief Is",
+      "url": "https://open.spotify.com/track/5xX8QMZ3jjaW15xq46LPqz"
     },
     {
       "album": {

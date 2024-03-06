@@ -1,5 +1,5 @@
 {
-  "2024-03-05": 20278,
+  "2024-03-06": 20280,
   "date_first_scraped": "2023-11-08",
   "description": "The best Dance and EDM tracks right now! Cover: The Banker Boys",
   "name": "New Dance Hits 2024",
@@ -2096,6 +2096,24 @@
     },
     {
       "album": {
+        "name": "Party Girl",
+        "url": "https://open.spotify.com/album/4SgOSWTYzsSA78jKqFIRpg"
+      },
+      "artists": [
+        {
+          "name": "Our Anthem",
+          "url": "https://open.spotify.com/artist/0yvdg5HZnoTbaawqVloMZl"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202812,
+      "name": "Party Girl",
+      "url": "https://open.spotify.com/track/4yBCo06OTulX4uBdDtKYrr"
+    },
+    {
+      "album": {
         "name": "Past Life",
         "url": "https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL"
       },
@@ -2831,7 +2849,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 186123,
       "name": "Sumthin Crazy (with Rochelle Jordan)",
       "url": "https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl"

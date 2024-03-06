@@ -1,12 +1,12 @@
 {
   "description": "\ubc9a\uaf43\uc774 \ud769\ub0a0\ub9ac\uace0 \uc0c8\uc2f9\uc774 \ud53c\uc5b4\uc624\ub974\ub294 \ubd04\uc758 \uc124\ub808\uc784\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 6134,
+  "num_followers": 6138,
   "original_name": "\ubd04\uac19\uc740 \uc124\ub808\uc784",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDVkYjU0OTJiNWJlY2Y3NTRlOWFiYjQ5OWYyMTE1MDgwZGI0NGY4",
+  "snapshot_id": "MCxiZjc5MmUxYzExYjI3YjdjZWU5MjY1Y2Y4MmI4NTRiNDZhZTA2MGRm",
   "tracks": [
     {
       "added_at": "2023-07-07 15:58:47",
@@ -539,6 +539,26 @@
     {
       "added_at": "2023-07-07 15:58:47",
       "album": {
+        "name": "Emily",
+        "url": "https://open.spotify.com/album/2Ov9APMuTEbjPQjlX4sHCL"
+      },
+      "artists": [
+        {
+          "name": "Rheehab",
+          "url": "https://open.spotify.com/artist/4UzNlDOUkNSs0Alm2VdKhu"
+        },
+        {
+          "name": "Nason",
+          "url": "https://open.spotify.com/artist/23pbSN0bdhuK8cpCg3dOQX"
+        }
+      ],
+      "duration_ms": 204491,
+      "name": "no lie (feat. Nason)",
+      "url": "https://open.spotify.com/track/4lxOFzYVrRRLKLc1iDCgUy"
+    },
+    {
+      "added_at": "2023-07-07 15:58:47",
+      "album": {
         "name": "Timing",
         "url": "https://open.spotify.com/album/67HXtNJ3Ma3LolxEf0UGQ4"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 168970,
       "name": "Timing",
       "url": "https://open.spotify.com/track/6faWCeNTlxIbXHXsJK9abm"
-    },
-    {
-      "added_at": "2023-07-07 15:58:47",
-      "album": {
-        "name": "Emily",
-        "url": "https://open.spotify.com/album/2Ov9APMuTEbjPQjlX4sHCL"
-      },
-      "artists": [
-        {
-          "name": "Rheehab",
-          "url": "https://open.spotify.com/artist/4UzNlDOUkNSs0Alm2VdKhu"
-        },
-        {
-          "name": "Nason",
-          "url": "https://open.spotify.com/artist/23pbSN0bdhuK8cpCg3dOQX"
-        }
-      ],
-      "duration_ms": 204491,
-      "name": "no lie (feat. Nason)",
-      "url": "https://open.spotify.com/track/4lxOFzYVrRRLKLc1iDCgUy"
     },
     {
       "added_at": "2023-07-07 15:58:47",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-07-07 15:58:47",
       "album": {
-        "name": "LOG",
-        "url": "https://open.spotify.com/album/7xNGojQFo9UPNIVuuDF1EL"
-      },
-      "artists": [
-        {
-          "name": "Ku One Chan",
-          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
-        }
-      ],
-      "duration_ms": 203780,
-      "name": "Just Can't Say",
-      "url": "https://open.spotify.com/track/2E3PNYbkIKRiQrRVDb0pIg"
-    },
-    {
-      "added_at": "2023-07-07 15:58:47",
-      "album": {
         "name": "Thinking of you",
         "url": "https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 193514,
       "name": "Thinking of you (Feat. Lee Yu Bin)",
       "url": "https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr"
+    },
+    {
+      "added_at": "2023-07-07 15:58:47",
+      "album": {
+        "name": "LOG",
+        "url": "https://open.spotify.com/album/7xNGojQFo9UPNIVuuDF1EL"
+      },
+      "artists": [
+        {
+          "name": "Ku One Chan",
+          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
+        }
+      ],
+      "duration_ms": 203780,
+      "name": "Just Can't Say",
+      "url": "https://open.spotify.com/track/2E3PNYbkIKRiQrRVDb0pIg"
     },
     {
       "added_at": "2023-07-07 15:58:47",

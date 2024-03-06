@@ -2417,6 +2417,24 @@
     },
     {
       "album": {
+        "name": "Volume One",
+        "url": "https://open.spotify.com/album/5u926H8HJ2vIRzwLdStsEA"
+      },
+      "artists": [
+        {
+          "name": "RAIN_IFY",
+          "url": "https://open.spotify.com/artist/4sagcAk2RONjZzWLxy32u3"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203533,
+      "name": "Non Stop Rain",
+      "url": "https://open.spotify.com/track/2rOtIWhP7JBwzzWAHn4kf1"
+    },
+    {
+      "album": {
         "name": "Rainy Weather",
         "url": "https://open.spotify.com/album/7HBBBBfqFHPMHJszdpl7qF"
       },
@@ -4804,7 +4822,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 176003,
       "name": "Tropical Rain Sound",
       "url": "https://open.spotify.com/track/5egT99fn74En0yE997ToIO"

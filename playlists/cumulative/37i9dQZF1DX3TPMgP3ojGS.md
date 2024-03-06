@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,803 songs - 3 day 8 hr 42 min
+1,804 songs - 3 day 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [A Promise](https://open.spotify.com/track/552pZqHBTVj3hXRwiblvwB) | [Matti Paalanen](https://open.spotify.com/artist/0jLdYnsn20JUEoKEbzJGc1), [Frozen Silence](https://open.spotify.com/artist/2zYmFMkDco03qam6Nx4uir) | [A Promise](https://open.spotify.com/album/6qBvYqCeYu0SUcdVgnVqq3) | 2:17 | 2021-03-16 | 2021-12-21 |
 | [A Quiet Triumph](https://open.spotify.com/track/6z80w3KsiHTJioRQYGlPDx) | [Jean DeVoite](https://open.spotify.com/artist/66t8qvy2cOoSxmEjuiRPmf) | [A Quiet Triumph](https://open.spotify.com/album/5S8I0cMWopewNcq6xzlBzj) | 2:04 | 2021-04-08 | 2022-07-28 |
 | [A Rose](https://open.spotify.com/track/0XAHH61ykmd5UpOF7w7Ky8) | [Natalee Marlowe](https://open.spotify.com/artist/0xpi7Cnrj85a5mifMxgCfS) | [A Rose](https://open.spotify.com/album/4uZB2x6Fnj3JznsdZY2tBA) | 2:27 | 2021-10-09 | 2022-07-29 |
+| [A Safe Space](https://open.spotify.com/track/3wchWA4OaMulFCpmmLmog1) | [Aramis Morel](https://open.spotify.com/artist/0ggD5NH7vsGHwcBWHnyVq4) | [A Safe Space](https://open.spotify.com/album/5IcBkn9y7e0jDlKtf9NhwU) | 2:28 | 2024-02-22 |  |
 | [A Silent Wish](https://open.spotify.com/track/711P4SBPCX7zO6TarXBCJ4) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [A Silent Wish](https://open.spotify.com/album/54jnSi7iJTFQizuqW2xDxZ) | 2:29 | 2021-12-21 | 2022-07-25 |
 | [A Simpler Time](https://open.spotify.com/track/5Xg2TWsPN5JK4k0FcgOwYJ) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [A Simpler Time](https://open.spotify.com/album/78IAmz0VkRMvJWs4XS0Gx4) | 2:27 | 2022-12-22 | 2023-04-16 |
 | [A Sky Full of Flowers](https://open.spotify.com/track/23IhmwOyEMpH7fPU8H6pZz) | [Jeff Bright Jr](https://open.spotify.com/artist/7E6ohNXHygGbx68hwQxEXN) | [Piano & Chill](https://open.spotify.com/album/68ypGrxQ3BTihCdY2eJqS2) | 3:38 | 2021-03-11 | 2021-12-19 |
@@ -994,7 +995,7 @@
 | [Misérable](https://open.spotify.com/track/1KVKQkKQ6pk8Hai7aKj5nx) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Misérable](https://open.spotify.com/album/3opiWhoPDVS44H2iYcrC08) | 2:00 | 2021-08-06 | 2022-09-19 |
 | [Moderato malinconico](https://open.spotify.com/track/4aLv7wK3U690o6TXfg2VIm) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Alvaro Cendoya](https://open.spotify.com/artist/1jyT4Lhl2rlLEQivwIgDat) | [Ponce: Complete Piano Works, Vol\. 2](https://open.spotify.com/album/63SsbvjLqIzTXSHAemQT71) | 2:20 | 2021-05-17 | 2021-05-18 |
 | [Moment of Silence](https://open.spotify.com/track/4eSYFvsqnVIfy75EflVtmg) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Moment of Silence](https://open.spotify.com/album/60M9flmWaOCcYKU0HEP1Fu) | 2:46 | 2021-05-07 | 2022-04-14 |
-| [Moment of Solace](https://open.spotify.com/track/3bDLjjjT1TNLUI7wnJ8uPW) | [Eva Starr](https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU) | [Moment of Solace](https://open.spotify.com/album/3lfxt3RbtFUOXppPwUgHW1) | 2:18 | 2023-12-26 |  |
+| [Moment of Solace](https://open.spotify.com/track/3bDLjjjT1TNLUI7wnJ8uPW) | [Eva Starr](https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU) | [Moment of Solace](https://open.spotify.com/album/3lfxt3RbtFUOXppPwUgHW1) | 2:18 | 2023-12-26 | 2024-03-06 |
 | [Mon Ami](https://open.spotify.com/track/5uq2R1bTmJaqRrY8uwstVS) | [Ricard Paul](https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu) | [Mon Ami](https://open.spotify.com/album/6O7GyDT1FY6Yi1mZ7wd3vs) | 2:26 | 2022-07-27 | 2022-08-02 |
 | [Monastral](https://open.spotify.com/track/59Y2voKQ0Ie6ptgS5VrnEn) | [Arden Forest](https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7) | [Aureolin](https://open.spotify.com/album/3x7NlTjKHUuwxq4pgO8nnT) | 2:03 | 2021-03-09 | 2022-04-18 |
 | [Monmartre](https://open.spotify.com/track/2iOeUalTtkixjGZbwkEiGd) | [Serouj](https://open.spotify.com/artist/2S4Y2TX5b3gYApFYtIzzU2) | [Monmartre](https://open.spotify.com/album/5o4AGZzBjLYVNupbR9GZFE) | 1:41 | 2021-04-27 | 2021-05-13 |

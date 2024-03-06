@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,987 likes - 66 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,016 likes - 66 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 65 | [Space Cowboys \- Deetron Remix](https://open.spotify.com/track/4wWAcfa5LCyz9YXlOnJLrq) | [Fabio Vanore](https://open.spotify.com/artist/19WfpuODWsvrlHGvZYkigs), [Bellville](https://open.spotify.com/artist/3R70yaBEmHf0VbsxY3uVih), [Deetron](https://open.spotify.com/artist/0d4nL4lAEkHJIqLZSHBuav) | [Incroyable Music \- Cabin in the Woods \(Remixes\)](https://open.spotify.com/album/2OTRW5teR3iq6DMMbnj0O5) | 9:03 |
 | 66 | [Changes of Perception](https://open.spotify.com/track/6yPT4MX0RPW1dPD902Qmh7) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg) | [Changes of Perception](https://open.spotify.com/album/4qK1ZMi8iC96BK60iIEPiY) | 7:25 |
 
-Snapshot ID: `MCw2ZjkzNmY3YWE0OWU1YTgwODkxZTExNmNhZjVmMTFlOWEwMzhhMDQx`
+Snapshot ID: `MCxjYzIyOTEwNGE5Y2M2ZjMzYzk1NzBkYjRkM2Q2MDJhY2YzNzAyYjYy`

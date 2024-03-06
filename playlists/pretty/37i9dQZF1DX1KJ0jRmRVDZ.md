@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,065 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,089 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 13 | [Saint](https://open.spotify.com/track/4nRphJ8cxGio2Ygloo5nMl) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [Saint](https://open.spotify.com/album/27QzrPPWPQ4E0Fthf03rx6) | 2:19 |
 | 14 | [泥中に咲く](https://open.spotify.com/track/7DPLYlYLWJaJz1gKDJtg50) | [Wolpis Carter](https://open.spotify.com/artist/5gBtcJIa6ZLJB1HUwfik4J) | [泥中に咲く](https://open.spotify.com/album/4Xus9x2ZcI5L0mt4Am2rHZ) | 4:46 |
 | 15 | [Heart Pie Dancehall](https://open.spotify.com/track/41aJ8bHDhV2kTw51biHvoq) | [HIMEHINA](https://open.spotify.com/artist/5OBmR4AY53SS26qHZ4uwnq) | [Heart Pie Dancehall](https://open.spotify.com/album/61tTiO6FyVL5KunTKQAkbb) | 3:39 |
-| 16 | [光](https://open.spotify.com/track/1F7A10m9NPJLuJXAvcpFer) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [光](https://open.spotify.com/album/3aPJyKnY7geM2oM1RSxPYx) | 2:13 |
+| 16 | [Overkill](https://open.spotify.com/track/1UlQyJezbjrwRlC2fo3D3i) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [Overkill](https://open.spotify.com/album/07LLFY2XpDxmjbblI4yGYy) | 2:39 |
 | 17 | [有象無象](https://open.spotify.com/track/2PqafwLuRumuEedFw5en3T) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [有象無象](https://open.spotify.com/album/1TcnlwPALhNvklfk5430zq) | 2:40 |
 | 18 | [patience](https://open.spotify.com/track/3wA12VBV95sARZdhYX1wb0) | [梟note](https://open.spotify.com/artist/2iWDK6SMyLQ9NTHp4RxUHW) | [patience](https://open.spotify.com/album/4e2SqTXP6vNORtnRFMKdCB) | 3:33 |
 | 19 | [カゲロウ](https://open.spotify.com/track/5KfTpP3h0EoHHCn4CVWKNX) | [がらり](https://open.spotify.com/artist/0JLttnOJnnXSyy8xRFiCPp) | [カゲロウ](https://open.spotify.com/album/1vpZgqS9Z8OAfWPDacpZDD) | 4:14 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 43 | [箱庭の果実【始】](https://open.spotify.com/track/1oRjPNSjr6eV7On5dEtYTP) | [他人事](https://open.spotify.com/artist/3mHK8wA7RNm2B7TebMBBXj), [ねね](https://open.spotify.com/artist/0S1GRfE1kpYSsOi08WkEet) | [箱庭の果実【始】](https://open.spotify.com/album/3OgmI1kcrGb7zYOnp4HAC0) | 3:57 |
 | 44 | [FightSong](https://open.spotify.com/track/37vujUbX37xoBmwoddMYck) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [FightSong](https://open.spotify.com/album/6rpUs50OKVNUGDDusbHvET) | 3:28 |
 | 45 | [Rendezvous](https://open.spotify.com/track/7gspVQa13prQbNABCRacwE) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Rendezvous](https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q) | 2:12 |
-| 46 | [ヒッチコック](https://open.spotify.com/track/153lRbNmhQZVi69kbhmjY8) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:42 |
+| 46 | [斜陽](https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [斜陽](https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj) | 3:20 |
 | 47 | [Sleepwalk](https://open.spotify.com/track/5WHq3vcWRRb9xeQKgv7lAi) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Sleepwalk](https://open.spotify.com/album/44MMBtUPt8JVNAZMdfPecJ) | 2:27 |
 | 48 | [HEART BEAT](https://open.spotify.com/track/3J99JXowSczha1Cp0LtFoc) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [HEART BEAT](https://open.spotify.com/album/2af8DYGcIT3jG1aC0sC2sF) | 5:35 |
 | 49 | [偽顔](https://open.spotify.com/track/5g6gzyGYUD6RPGsIpj7S1O) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [偽顔](https://open.spotify.com/album/6vp7Fy3X466rpv4Gv8UciQ) | 2:30 |
 | 50 | [unravel](https://open.spotify.com/track/0Cez33GqDU7Pw5rqOVUPpU) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado's Utattemita Album](https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf) | 3:58 |
 
-Snapshot ID: `MCwxMGExYWUzMDJkYmM4ZDRlZjA1YjM0NjNjNTAxZjAwNDBhMTIwYTdi`
+Snapshot ID: `MCxiNDJmMDc5N2JhOWY2OGEzZmExNjQ0MjdkNmNjOTk5NjhmNjdjYWQ2`

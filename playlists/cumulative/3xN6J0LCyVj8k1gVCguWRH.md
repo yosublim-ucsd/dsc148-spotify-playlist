@@ -4,7 +4,7 @@
 
 > Favorite songs of 2024 plus some of his favorite summer songs\. Includes Summer 23, 22, &amp; 21 editions + bonus tracks.
 
-3,052 songs - 7 day 5 hr 46 min
+3,054 songs - 7 day 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1463,6 +1463,7 @@
 | [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 | 2023-07-20 |  |
 | [La Despedida](https://open.spotify.com/track/3EJgRWyLSrbBqMTj7oMZln) | [N3ko](https://open.spotify.com/artist/6BiVyVPtAL35KVcguNMPDW), [Becca](https://open.spotify.com/artist/6SDkocG9wTPzVk5RdOTKoX) | [Pop Hitz \(16\)](https://open.spotify.com/album/4f0DJRLtuNpExYY4P3SuLF) | 2:56 | 2023-08-18 | 2023-09-26 |
 | [La Difícil](https://open.spotify.com/track/6NfrH0ANGmgBXyxgV2PeXt) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:43 | 2021-07-12 | 2021-11-19 |
+| [La Soledad Me Elige](https://open.spotify.com/track/54jbUuPstiaL4r3YM3yYRU) | [TitoPappito](https://open.spotify.com/artist/7HfAECdNrDpIdYc1dCEZns) | [Extrañando El Verano](https://open.spotify.com/album/1syTWjwOV7WwyIkj1ZkgtM) | 3:28 | 2024-03-05 |  |
 | [Lab Rats: White Coats](https://open.spotify.com/track/7l5vjtyqqqu6Q4MrC5ZoiF) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [Artificial Odyssey](https://open.spotify.com/album/0CwAF3BC2gOuFcyqX2cF6y) | 2:17 | 2022-01-07 | 2022-02-18 |
 | [Lacey](https://open.spotify.com/track/2Bvg7SCVl2iJuv2iTruJRw) | [Osmanthus](https://open.spotify.com/artist/5fe7MIokvaxHaPj9inrlhF) | [Lacey](https://open.spotify.com/album/4z7hl3gWfhh0bQmjM49MBm) | 3:34 | 2022-08-05 | 2022-08-22 |
 | [Ladies](https://open.spotify.com/track/44IGQ6OrKE8VZ3ARSRIBdb) | [XYV](https://open.spotify.com/artist/2hF9YV8RDtWc5PmUg7gwSP) | [Ladies](https://open.spotify.com/album/4BNaCqRvt30IPdoWAhDvL2) | 2:28 | 2021-02-06 | 2021-02-20 |
@@ -2617,6 +2618,7 @@
 | [The Heart Part 5](https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Heart Part 5](https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z) | 5:32 | 2022-05-09 | 2022-05-10 |
 | [The Hillbillies](https://open.spotify.com/track/1h6w4POXM2LfG4ZD4xUfZQ) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Hillbillies](https://open.spotify.com/album/6ltyScGRzS0Z2TI1VD5dns) | 3:24 | 2023-06-05 | 2023-06-23 |
 | [The Immigrant](https://open.spotify.com/track/0R9x7lSWhQd95K8duI7sha) | [Arielle Diba](https://open.spotify.com/artist/1wjwAZ5HV4p4G9atYKqbMG) | [Black Magic](https://open.spotify.com/album/6gYrQQRTylSFZi2D65hw0W) | 3:11 | 2023-12-21 | 2024-01-05 |
+| [The Jacket](https://open.spotify.com/track/3vTbIMDAauRBZHQ3dPfnMp) | [Nasty Geographic](https://open.spotify.com/artist/6AXiCEXVBCxvi3KuBgaibi) | [The Jacket](https://open.spotify.com/album/206a7xz8JdvMQTGkVv4Vsj) | 3:31 | 2024-03-05 |  |
 | [The Last Night \(Dancing With You\)](https://open.spotify.com/track/76ZAq6niFYnyC3ZawAeIR5) | [Niki Kennedy](https://open.spotify.com/artist/56anbQyF2Qn6STCHu9wC2m) | [The Last Night \(Dancing With You\)](https://open.spotify.com/album/3mB5vvRnoJFXhaRDIIzwfu) | 3:13 | 2021-06-26 | 2021-07-11 |
 | [The Last Word](https://open.spotify.com/track/7zFaOiJj5igKMWoZw0Rh33) | [Olivia Burnette](https://open.spotify.com/artist/2B5P0MxeVJINZAnyEueoCJ) | [The Last Word](https://open.spotify.com/album/5dLDguHx5T0EiedBxwJhs3) | 3:16 | 2023-01-23 | 2023-02-24 |
 | [The Middle](https://open.spotify.com/track/1LhNYIwU73AoGtQqR0Na4u) | [Stone Jets](https://open.spotify.com/artist/1RqKaZtnoko0n8YpgLNZkx) | [The Middle](https://open.spotify.com/album/40yksFSu3zk5H4LKqv2ZUn) | 3:12 | 2022-01-28 | 2022-02-13 |

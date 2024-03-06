@@ -4,7 +4,7 @@
 
 > Acuérdate de estos clásicos\. Foto: Don Omar.
 
-426 songs - 1 day 1 hr 25 min
+427 songs - 1 day 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,7 +366,7 @@
 | [Te He Querido, Te He Llorado](https://open.spotify.com/track/1NrKLroOjLcSXtlq8twPrc) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [e5](https://open.spotify.com/album/50m6CwGzwKsAcVPz9SCMrp) | 4:14 | 2021-12-17 | 2022-07-29 |
 | [Te Imagino](https://open.spotify.com/track/2RQnsXfNDcg2CvlSRSxJi9) | [Alberto Stylee](https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU) | [El Que los Puso a Entonar](https://open.spotify.com/album/5rlYUO0BB8CMczbXc25Wrr) | 3:22 | 2021-12-17 |  |
 | [Te Iré a Buscar](https://open.spotify.com/track/4UPeS038Mxup1H4bl0PsS8) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [El Talento del Bloque](https://open.spotify.com/album/5juo8FAhKpHZrXkKnKe5BQ) | 3:03 | 2021-12-17 | 2022-07-29 |
-| [Te Iré a Buscar](https://open.spotify.com/track/5MPSIqK8WmbQ9TkuJhmtyv) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [El Talento del Bloque](https://open.spotify.com/album/2FGhhlr2SX31pVXnrd13kq) | 3:03 | 2022-07-27 |  |
+| [Te Iré a Buscar](https://open.spotify.com/track/5MPSIqK8WmbQ9TkuJhmtyv) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [El Talento del Bloque](https://open.spotify.com/album/2FGhhlr2SX31pVXnrd13kq) | 3:03 | 2022-07-27 | 2024-03-06 |
 | [Te la Tiro Pa Que Bailes](https://open.spotify.com/track/6GQOMY2lGQtQlvkBPeeyAf) | [Dj Joe](https://open.spotify.com/artist/3mOpXyQgTwyCxIjz9EEIFN) | [Fatal Fantassy 3](https://open.spotify.com/album/6vqIgXgDChGQ6sjDyDryfH) | 2:47 | 2021-12-17 | 2022-07-29 |
 | [Te la Tiro Pa Que Bailes](https://open.spotify.com/track/4y9Yn8z2cUVvmSPFMEVirk) | [Dj Joe](https://open.spotify.com/artist/3mOpXyQgTwyCxIjz9EEIFN), [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Fatal Fantassy 3](https://open.spotify.com/album/1p94g5LjKqmbAyGXQMheub) | 2:47 | 2022-07-27 |  |
 | [Te Pintaron Pajaritos](https://open.spotify.com/track/419w8oZaqevgyZfdvFZEHa) | [Yandar & Yostin](https://open.spotify.com/artist/3ptY5WTxu77JpAQQnHyxEl), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Te Pintaron Pajaritos](https://open.spotify.com/album/3DQCcUo4IlRoSAMo8MPl9m) | 2:52 | 2022-05-13 | 2022-07-29 |
@@ -392,6 +392,7 @@
 | [Tranquila](https://open.spotify.com/track/1meA8imRWltOs5Jp0kaL0y) | [Jadiel el Incomparable](https://open.spotify.com/artist/0ANypE7iy3sVMppNuKFpGh) | [Lo Mejor de Mi](https://open.spotify.com/album/5qzzkjzmwd0WF0KiEGILM4) | 3:17 | 2022-08-09 | 2022-08-17 |
 | [Tu Cuerpo Me Arrebata](https://open.spotify.com/track/7iaBCftpUSjnBERFcyQxO9) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr) | [The Last Don](https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz) | 3:23 | 2021-12-17 | 2022-07-29 |
 | [Tu Cuerpo Me Llama](https://open.spotify.com/track/2Cc8r3E3EaPnqN847ph6W8) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [LOS MORTAL COMBAT](https://open.spotify.com/artist/7k30THfvs2zMuXGUyv8hEp) | [Tu Cuerpo Me Llama](https://open.spotify.com/album/1ZpO3m9YmWbbQRdBtfDPt3) | 4:06 | 2021-12-17 | 2022-07-29 |
+| [Tu Cuerpo Me Llama \- Remix](https://open.spotify.com/track/59oaCc7p2rEaYL4T0t91xe) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [LOS MORTAL COMBAT](https://open.spotify.com/artist/7k30THfvs2zMuXGUyv8hEp) | [Isla para Dos](https://open.spotify.com/album/6Gz3SBWJVMiEigtFgWw3hA) | 4:05 | 2023-12-21 |  |
 | [Tu Cuerpo Me Llama Rmx](https://open.spotify.com/track/7E1rvGKkYsVo6vxiTiuBPQ) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [LOS MORTAL COMBAT](https://open.spotify.com/artist/7k30THfvs2zMuXGUyv8hEp) | [Tu Cuerpo Me Llama Rmx](https://open.spotify.com/album/5CwurLyTFtA7LxYqj94P9Q) | 4:05 | 2022-07-27 | 2024-02-27 |
 | [Tu Cuerpo Me Llama Rmx](https://open.spotify.com/track/5TR1zti5AbI8mcOOzkEUqI) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [LOS MORTAL COMBAT](https://open.spotify.com/artist/7k30THfvs2zMuXGUyv8hEp) | [Tu Cuerpo Me Llama Rmx](https://open.spotify.com/album/1rRh2xa2bcl9aXnrucLKrE) | 4:05 | 2023-07-14 | 2023-08-14 |
 | [Tu Príncipe](https://open.spotify.com/track/0Q7ZM15J0cJA9rd7pQYdRq) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/5i2HhIrYyMNQvmsBk9h8Im) | 3:25 | 2021-12-17 | 2022-07-29 |

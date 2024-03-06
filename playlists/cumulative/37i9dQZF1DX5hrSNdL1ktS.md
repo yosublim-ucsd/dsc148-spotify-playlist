@@ -4,7 +4,7 @@
 
 > Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 El Malilla y Yeyo en portada
 
-477 songs - 23 hr 43 min
+478 songs - 23 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Deseo](https://open.spotify.com/track/6wCO32LfCHz8AwXRFBvZsi) | [Maxx Gallo](https://open.spotify.com/artist/30XfbCbtW4PAJ5mvhoajY2) | [Efecto](https://open.spotify.com/album/2OF7tGEjqPHPeC4ua5TfBM) | 3:23 | 2023-01-27 | 2023-07-15 |
 | [Desnudate](https://open.spotify.com/track/4BXXTruUHBXHQoSbvTDQR4) | [Big Metra](https://open.spotify.com/artist/5J5DLfdC5YmPjVk8ljdOqU) | [A Otro Nivel](https://open.spotify.com/album/64kJQjFw9fNhTUVmQAM5m3) | 4:12 | 2024-02-16 |  |
 | [DESVESTIDA](https://open.spotify.com/track/4hWr76EZRvNeJmgcHTrfqf) | [Mike Castillo](https://open.spotify.com/artist/0KKwvsJId3Wsd7z7gRCfbn) | [DESVESTIDA](https://open.spotify.com/album/4x2UbmjdLPzsKuVFB3ODf8) | 2:18 | 2023-10-20 |  |
-| [Devora](https://open.spotify.com/track/5yZ8WMP3zUONfPyqfgKvmv) | [Kevin Santin](https://open.spotify.com/artist/0CH20f2zSaGWyFnuJM9EsW), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [Devora](https://open.spotify.com/album/0rtvJzRbpJ0C7QOZrB3ITt) | 2:29 | 2024-02-09 |  |
+| [Devora](https://open.spotify.com/track/5yZ8WMP3zUONfPyqfgKvmv) | [Kevin Santin](https://open.spotify.com/artist/0CH20f2zSaGWyFnuJM9EsW), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [Devora](https://open.spotify.com/album/0rtvJzRbpJ0C7QOZrB3ITt) | 2:29 | 2024-02-09 | 2024-03-06 |
 | [Diabla](https://open.spotify.com/track/3X3rgO6bRh9EbbI4mAs8gW) | [Giselle Montes](https://open.spotify.com/artist/4IixieAZJremgQUJS0TseA) | [Diabla](https://open.spotify.com/album/6tSrUca9EiClwBmu4U55cM) | 2:12 | 2023-09-08 | 2024-02-17 |
 | [Diablito de Barrio](https://open.spotify.com/track/2ofuB1R1niYONCwd78T52O) | [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT), [Dj Chekesito](https://open.spotify.com/artist/4S0i7CxFJybFWyCsB0vwil) | [Diablito de Barrio](https://open.spotify.com/album/4KOZGVfMT90YctD4Ijbmjn) | 3:12 | 2023-11-17 | 2024-01-13 |
 | [DIAMANTES](https://open.spotify.com/track/0VQlZB2RM67y5wUSqHsnI3) | [Luan](https://open.spotify.com/artist/33GE05uZTGDMenXT0StvhM) | [DIAMANTES](https://open.spotify.com/album/3FWcTBE082Glwf0XJMcjk6) | 2:49 | 2023-04-14 | 2023-04-22 |
@@ -357,6 +357,7 @@
 | [Prra Palga](https://open.spotify.com/track/1t8pXAgOit9GzpSo9AZeYs) | [Michael G](https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3), [Los Menores](https://open.spotify.com/artist/51YrdVc67EHkCDRJMHxJal), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI) | [Prra Palga](https://open.spotify.com/album/75ScE7EDxLkE8Y7dp4seYu) | 3:15 | 2023-12-15 | 2024-01-13 |
 | [Puca](https://open.spotify.com/track/1Hz556DMMqFV43gLBv0BaL) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR), [DIJIMM](https://open.spotify.com/artist/5c72pW2K8J8LDaNerAdUbH) | [Puca](https://open.spotify.com/album/4qPrZWMaDvMIvdCqUql1sp) | 3:01 | 2024-01-26 |  |
 | [Purple Haze](https://open.spotify.com/track/6LN4YNM0DzMmTBRA9D2Dvd) | [Lexxx Torres](https://open.spotify.com/artist/5JUJKO2egZMEcwR3fB3u0w), [Easy Mo](https://open.spotify.com/artist/76Oj47sMTbpy61tK8k81Ty) | [La Cosecha Vol 1](https://open.spotify.com/album/7rjRzz1CJd6vYmwBTa89E1) | 3:06 | 2023-11-24 |  |
+| [PUTAS Y MOET](https://open.spotify.com/track/1y8Zz3ES0jCL0F6jOSUSoW) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu) | [PUTAS Y MOET](https://open.spotify.com/album/5nozsQXTrTrKfRSVQYZBvZ) | 2:07 | 2024-03-05 |  |
 | [Putazo](https://open.spotify.com/track/4Ms3gJz40k4bikKwJklZNu) | [Daniel Martinez](https://open.spotify.com/artist/0rtjia73NEeeTl4McsHU34), [Rey Pirin](https://open.spotify.com/artist/1ViM1nVwtJmRm5CSXyU0U9), [Dj Esli](https://open.spotify.com/artist/10qjZu7jW6R0cuqwY40SVd) | [Putazo](https://open.spotify.com/album/2a9THyLiAbEc72ajxC81eH) | 3:48 | 2024-01-19 | 2024-02-24 |
 | [Putifina](https://open.spotify.com/track/3gUp6IANwYGseAZZIPbs3X) | [Dj Krizis](https://open.spotify.com/artist/0GKDsjgAKse6nzW9icaHri), [El Demonia](https://open.spotify.com/artist/4aWDo9arNxzfIvEbGTv5vI), [Svntv Divblv](https://open.spotify.com/artist/09aDP2ppQryhqGZFzLVneg) | [Putifina](https://open.spotify.com/album/308Ai2PP031Imbpr8oUPc6) | 3:16 | 2023-02-24 | 2023-03-04 |
 | [PVTIVUELTA](https://open.spotify.com/track/0dLYRSyQlhY3un6yTslsoA) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [PVTIVUELTA](https://open.spotify.com/album/1ea72a9TzaXc9hHy3cU77E) | 2:23 | 2023-11-17 |  |

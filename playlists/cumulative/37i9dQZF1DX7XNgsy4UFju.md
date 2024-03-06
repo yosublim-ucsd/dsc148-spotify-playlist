@@ -4,7 +4,7 @@
 
 > The best indie tracks of the moment\. Cover: Faye Webster
 
-1,552 songs - 3 day 19 hr 57 min
+1,553 songs - 3 day 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1232,7 +1232,8 @@
 | [Spotlite](https://open.spotify.com/track/2E2lgZQrewdgFAHoGRp7ob) | [Born At Midnite](https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa) | [\*69 b/w Spotlite](https://open.spotify.com/album/1Ftwhb11RZkJ6gjLU3NyXR) | 2:36 | 2023-12-15 | 2024-02-17 |
 | [Spring](https://open.spotify.com/track/2vMikyqNbH1ynZ4Rfcbso3) | [chemical club](https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN) | [Spring](https://open.spotify.com/album/4GVoIK1wXH6Tm5bOaNOkIu) | 2:45 | 2022-05-27 | 2022-06-18 |
 | [Spring Bug](https://open.spotify.com/track/1m9B9sIeBibHosu4h5uae6) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Spring Bug](https://open.spotify.com/album/3KqVVm7Gwy3lbz12qFTf0L) | 3:27 | 2023-06-02 | 2023-08-19 |
-| [Spring Is Coming With A Strawberry In The Mouth](https://open.spotify.com/track/0BpAmsdYjaf08yE9y2YgoF) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You: Everasking Edition](https://open.spotify.com/album/2LytSeOYiM6yUcEArt9hxn) | 3:53 | 2024-02-16 |  |
+| [Spring Is Coming With A Strawberry In The Mouth](https://open.spotify.com/track/0BpAmsdYjaf08yE9y2YgoF) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You: Everasking Edition](https://open.spotify.com/album/2LytSeOYiM6yUcEArt9hxn) | 3:53 | 2024-02-16 | 2024-03-06 |
+| [Spring Is Coming With A Strawberry In The Mouth](https://open.spotify.com/track/0I49aN2b9qfw1UWtctmNtr) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You: Everasking Edition](https://open.spotify.com/album/25ktFe8igqIwv9aRbkdnTS) | 3:53 | 2024-03-01 |  |
 | [STAR](https://open.spotify.com/track/3P1yQdXdACzk5HZySceBNc) | [Ellevator](https://open.spotify.com/artist/617IdGJR4ElBnDD2cXiBUt) | [The Words You Spoke Still Move Me](https://open.spotify.com/album/5gxCaZ2KFlYfBWSmTMGi2g) | 3:47 | 2022-05-06 | 2022-06-25 |
 | [Star](https://open.spotify.com/track/4Gv6lS9SMvaT6nS6yMYuUC) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Star b/w Heaven](https://open.spotify.com/album/31JzBxnoBhjRRaEGijOGxU) | 2:59 | 2023-08-25 | 2023-09-16 |
 | [Starlight](https://open.spotify.com/track/1Gvnzb3F9LghE6vaPC1qhI) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Be Still My Heart](https://open.spotify.com/album/2YHEafnqcoOmGpW8NwBMV0) | 3:09 | 2023-04-14 | 2023-07-01 |

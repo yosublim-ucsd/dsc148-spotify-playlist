@@ -1,12 +1,12 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7 Diego Torres",
-  "num_followers": 28292,
+  "num_followers": 28331,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTRkYWJhOWY4NzUwYzE5Nzc3ODVkODMzYmE1YWJkZDAwN2VhNTU3",
+  "snapshot_id": "MCxmOGY5ZTc1NTIzMmZkMDc2MTEwYjhhYTI3NjlkODIzNzU2YzU0MjI5",
   "tracks": [
     {
       "added_at": "2024-03-01 03:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
-        "name": "La Cobra",
-        "url": "https://open.spotify.com/album/6pO1MphOTB3YjetIXCu2qP"
-      },
-      "artists": [
-        {
-          "name": "j mena",
-          "url": "https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj"
-        }
-      ],
-      "duration_ms": 188227,
-      "name": "La Cobra",
-      "url": "https://open.spotify.com/track/598iUd0iLrNtDMzdyMXnUO"
-    },
-    {
-      "added_at": "2024-03-01 03:00:00",
-      "album": {
         "name": "Mi Primer D\u00eda Triste",
         "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 229943,
       "name": "Mar\u00eda",
       "url": "https://open.spotify.com/track/5B3NOiIZkfykH0dk5YekiM"
+    },
+    {
+      "added_at": "2024-03-01 03:00:00",
+      "album": {
+        "name": "La Cobra",
+        "url": "https://open.spotify.com/album/6pO1MphOTB3YjetIXCu2qP"
+      },
+      "artists": [
+        {
+          "name": "j mena",
+          "url": "https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj"
+        }
+      ],
+      "duration_ms": 188227,
+      "name": "La Cobra",
+      "url": "https://open.spotify.com/track/598iUd0iLrNtDMzdyMXnUO"
     },
     {
       "added_at": "2024-03-01 03:00:00",
@@ -1079,6 +1079,26 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
+        "name": "Monoambiente en Capital",
+        "url": "https://open.spotify.com/album/1HjSFjgizVFIZ9c1aG9VC7"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        },
+        {
+          "name": "Nico Cotton",
+          "url": "https://open.spotify.com/artist/78hoprvwWi9cDX4KJvpECc"
+        }
+      ],
+      "duration_ms": 181087,
+      "name": "Monoambiente en Capital",
+      "url": "https://open.spotify.com/track/1prdmkn7pO2S0FJChx0fN4"
+    },
+    {
+      "added_at": "2024-03-01 03:00:00",
+      "album": {
         "name": "Tarde o Temprano",
         "url": "https://open.spotify.com/album/5MVlQJ6WnmXjzje3ruMLvS"
       },
@@ -1131,22 +1151,6 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
-        "name": "Summer Pack",
-        "url": "https://open.spotify.com/album/6hbdZKUwC4l3Fee6NuxuAm"
-      },
-      "artists": [
-        {
-          "name": "Juan Ingaramo",
-          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
-        }
-      ],
-      "duration_ms": 135400,
-      "name": "Lloviendo Estrellas",
-      "url": "https://open.spotify.com/track/047FBnA7oPMeqV3tAmdISa"
-    },
-    {
-      "added_at": "2024-03-01 03:00:00",
-      "album": {
         "name": "Manantial",
         "url": "https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE"
       },
@@ -1163,22 +1167,18 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
-        "name": "Monoambiente en Capital",
-        "url": "https://open.spotify.com/album/1HjSFjgizVFIZ9c1aG9VC7"
+        "name": "Summer Pack",
+        "url": "https://open.spotify.com/album/6hbdZKUwC4l3Fee6NuxuAm"
       },
       "artists": [
         {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        },
-        {
-          "name": "Nico Cotton",
-          "url": "https://open.spotify.com/artist/78hoprvwWi9cDX4KJvpECc"
+          "name": "Juan Ingaramo",
+          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
         }
       ],
-      "duration_ms": 181087,
-      "name": "Monoambiente en Capital",
-      "url": "https://open.spotify.com/track/1prdmkn7pO2S0FJChx0fN4"
+      "duration_ms": 135400,
+      "name": "Lloviendo Estrellas",
+      "url": "https://open.spotify.com/track/047FBnA7oPMeqV3tAmdISa"
     },
     {
       "added_at": "2024-03-01 03:00:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
+        "name": "Resaca",
+        "url": "https://open.spotify.com/album/0kXhUyBXTjElgrkGStIVMr"
+      },
+      "artists": [
+        {
+          "name": "1915",
+          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
+        }
+      ],
+      "duration_ms": 202363,
+      "name": "Resaca",
+      "url": "https://open.spotify.com/track/1vgwKBxFV0KRoKlEq2fqkk"
+    },
+    {
+      "added_at": "2024-03-01 03:00:00",
+      "album": {
         "name": "Hasta El Alma",
         "url": "https://open.spotify.com/album/6LP2T6ARkvQcoqBornwcox"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 187593,
       "name": "Sin Haber Dormido",
       "url": "https://open.spotify.com/track/4NfO9rUJEMgZ1C9Vw059vc"
-    },
-    {
-      "added_at": "2024-03-01 03:00:00",
-      "album": {
-        "name": "Resaca",
-        "url": "https://open.spotify.com/album/0kXhUyBXTjElgrkGStIVMr"
-      },
-      "artists": [
-        {
-          "name": "1915",
-          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
-        }
-      ],
-      "duration_ms": 202363,
-      "name": "Resaca",
-      "url": "https://open.spotify.com/track/1vgwKBxFV0KRoKlEq2fqkk"
     },
     {
       "added_at": "2024-03-01 03:00:00",
@@ -1355,18 +1355,22 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
-        "name": "Rosa",
-        "url": "https://open.spotify.com/album/2cklcTS1Fw81SExHyUKPbO"
+        "name": "Live Sessions Vol. 1 - Ya Me Habr\u00e9 Ido",
+        "url": "https://open.spotify.com/album/6lA85fh5n7ut2C8B1PUWt0"
       },
       "artists": [
         {
-          "name": "Panther",
-          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+          "name": "Camil\u00fa",
+          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
+        },
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
         }
       ],
-      "duration_ms": 122202,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/33AWuTMifxeDWvizVzYBiA"
+      "duration_ms": 183786,
+      "name": "Live Sessions Vol. 1 - Ya Me Habr\u00e9 Ido",
+      "url": "https://open.spotify.com/track/7fYrjpCLegFYOA3LTznMzk"
     },
     {
       "added_at": "2024-03-01 03:00:00",
@@ -1383,6 +1387,22 @@
       "duration_ms": 214006,
       "name": "Moscas en la Casa",
       "url": "https://open.spotify.com/track/3UrlI9WfUyN257ll1w9gtI"
+    },
+    {
+      "added_at": "2024-03-01 03:00:00",
+      "album": {
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/2cklcTS1Fw81SExHyUKPbO"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+        }
+      ],
+      "duration_ms": 122202,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/33AWuTMifxeDWvizVzYBiA"
     },
     {
       "added_at": "2024-03-01 03:00:00",
@@ -1439,22 +1459,18 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
-        "name": "Live Sessions Vol. 1 - Ya Me Habr\u00e9 Ido",
-        "url": "https://open.spotify.com/album/6lA85fh5n7ut2C8B1PUWt0"
+        "name": "Acto de Fe",
+        "url": "https://open.spotify.com/album/5tgzXgNH7tyOqkZzqcRai0"
       },
       "artists": [
         {
-          "name": "Camil\u00fa",
-          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
-        },
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
         }
       ],
-      "duration_ms": 183786,
-      "name": "Live Sessions Vol. 1 - Ya Me Habr\u00e9 Ido",
-      "url": "https://open.spotify.com/track/7fYrjpCLegFYOA3LTznMzk"
+      "duration_ms": 169604,
+      "name": "Acto de Fe",
+      "url": "https://open.spotify.com/track/6aV7Ohi6SKDBlTuFIwycBM"
     },
     {
       "added_at": "2024-03-01 03:00:00",
@@ -1475,22 +1491,6 @@
       "duration_ms": 167920,
       "name": "Que Alguien Me Saque De Este Mood",
       "url": "https://open.spotify.com/track/51CEK6LaFSbCyGjliYPNBd"
-    },
-    {
-      "added_at": "2024-03-01 03:00:00",
-      "album": {
-        "name": "Acto de Fe",
-        "url": "https://open.spotify.com/album/5tgzXgNH7tyOqkZzqcRai0"
-      },
-      "artists": [
-        {
-          "name": "Mi Amigo Invencible",
-          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
-        }
-      ],
-      "duration_ms": 169604,
-      "name": "Acto de Fe",
-      "url": "https://open.spotify.com/track/6aV7Ohi6SKDBlTuFIwycBM"
     }
   ],
   "unique_name": "Esto es Pop",

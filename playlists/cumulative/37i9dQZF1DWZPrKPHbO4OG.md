@@ -4,7 +4,7 @@
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-62 songs - 4 hr 17 min
+63 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Michi Mazavyalo](https://open.spotify.com/track/3jg1uyXTLVwkdQJpMSQP0K) | [Jasraj Joshi](https://open.spotify.com/artist/6o1fV9yKZDGNdMl2chOWql) | [YZ](https://open.spotify.com/album/5Wmz2V8EirSbGidydb4u9o) | 3:10 | 2023-07-04 | 2024-02-28 |
 | [O kaka](https://open.spotify.com/track/20KOLLXNtr0cDLe9xKnetu) | [Adarsh Shinde](https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3) | [YZ](https://open.spotify.com/album/4FjMY4GPQ64qEh0rh9iQ1v) | 3:10 | 2024-01-10 | 2024-01-28 |
 | [O Sheth \(DJ Remix\)](https://open.spotify.com/track/1pxLwFEoHC0VuxhPpWk8Fq) | [Praniket Khune](https://open.spotify.com/artist/1dL65B06v62VbbrnJklKUJ), [Sandhya Keshe](https://open.spotify.com/artist/2cQU4jBHWE17V2BLq6Y7Ak), [Umesh Gawali](https://open.spotify.com/artist/00PJ0oZlC5InNHCDRYaubR) | [O Sheth \(DJ Remix\)](https://open.spotify.com/album/1W5Dt62j8LRMaLKyTub3YB) | 3:04 | 2024-01-10 | 2024-03-03 |
-| [O Sheth \(DJ Remix\)](https://open.spotify.com/track/5B3IsGRHozEAeRnyGs5XEl) | [Praniket Khune](https://open.spotify.com/artist/1dL65B06v62VbbrnJklKUJ), [Sandhya Keshe](https://open.spotify.com/artist/2cQU4jBHWE17V2BLq6Y7Ak), [Umesh Gawali](https://open.spotify.com/artist/00PJ0oZlC5InNHCDRYaubR) | [O Sheth \(DJ Remix\)](https://open.spotify.com/album/4LOVpn0sKbfIT6BUyjZqKK) | 3:04 | 2023-07-04 |  |
+| [O Sheth \(DJ Remix\)](https://open.spotify.com/track/5B3IsGRHozEAeRnyGs5XEl) | [Praniket Khune](https://open.spotify.com/artist/1dL65B06v62VbbrnJklKUJ), [Sandhya Keshe](https://open.spotify.com/artist/2cQU4jBHWE17V2BLq6Y7Ak), [Umesh Gawali](https://open.spotify.com/artist/00PJ0oZlC5InNHCDRYaubR) | [O Sheth \(DJ Remix\)](https://open.spotify.com/album/4LOVpn0sKbfIT6BUyjZqKK) | 3:04 | 2023-07-04 | 2024-03-06 |
+| [O Sheth \(DJ Remix\)](https://open.spotify.com/track/7ITHuDARXa6FguyC7wexSc) | [Praniket Khune](https://open.spotify.com/artist/1dL65B06v62VbbrnJklKUJ), [Sandhya Keshe](https://open.spotify.com/artist/2cQU4jBHWE17V2BLq6Y7Ak), [Umesh Gawali](https://open.spotify.com/artist/00PJ0oZlC5InNHCDRYaubR) | [O Sheth \(DJ Remix\)](https://open.spotify.com/album/0AzqFLiFxolHnxCPR54XGT) | 3:04 | 2024-02-27 |  |
 | [Once More Laav](https://open.spotify.com/track/0hBCD8MaqZhHij5VnbFjTB) | [Adarsh Shinde](https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3) | [Once More Laav](https://open.spotify.com/album/6QjpZdG3TjiDpLoG2RIYdP) | 2:57 | 2023-07-04 |  |
 | [Patil Aala](https://open.spotify.com/track/3VJ7TQBLzhxeuycUilml6P) | [Avadhoot Gupte](https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock), [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8) | [Zenda](https://open.spotify.com/album/7gWdJghoAQWCKVQQ0Tb0IZ) | 3:57 | 2023-12-20 |  |
 | [Patil Aala](https://open.spotify.com/track/7gb8tP4sFXyFNxn2I6eEjV) | [Avadhoot Gupte](https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock), [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8) | [Zenda](https://open.spotify.com/album/2SDX8VUb6xrQ5zUyu22zmO) | 3:57 | 2023-07-04 | 2024-01-02 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,846 likes - 76 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,009 likes - 76 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Masjid Mandir](https://open.spotify.com/track/3rNp2GjaY3taqKaGzCrEZA) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ) | [Masjid Mandir](https://open.spotify.com/album/1TpoHVySqAbMrg0lEwruML) | 3:53 |
+| 1 | [Masjid Mandir](https://open.spotify.com/track/1rcqG4wPrIUQ6FHgTUH70N) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ) | [Masjid Mandir](https://open.spotify.com/album/1aKRfdLtpQeYCk8cTsWfIf) | 3:53 |
 | 2 | [Saiyyan](https://open.spotify.com/track/2vR23BjIzpLMtzsyKrM6Mb) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [Paresh Kamath](https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f), [Naresh Kamath](https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ) | [Jhoomo Re](https://open.spotify.com/album/1DzYor2sqKFs4Z6qcUl0V5) | 5:43 |
 | 3 | [Ishq Sufiyana \(Male\)](https://open.spotify.com/track/5zcfnScTSFGCHGY1yeXWke) | [Kamal Khan](https://open.spotify.com/artist/01DlVvmRpQFutrYzh0HmF8) | [The Dirty Picture](https://open.spotify.com/album/2u6skpG85FhJuV5AGvvSAO) | 5:25 |
 | 4 | [Maula Mere Maula](https://open.spotify.com/track/5KNuHsIeFtD0oukst77hBi) | [Roop Kumar Rathod](https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa) | [Anwar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3MTyvN8DogBzkLz8ThUKuc) | 6:04 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 75 | [O Re](https://open.spotify.com/track/4AHvMLWvuGZn62sCpFEtj7) | [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Coke Studio: Season 9](https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ) | 5:21 |
 | 76 | [Ali \(A.S\) Aye Hain](https://open.spotify.com/track/1eg7IqSJ1JHk3goCqLpS60) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP) | [Ali \(A.S\) Aye Hain](https://open.spotify.com/album/4VALKrlOl0rKJUlDFfRQvx) | 6:56 |
 
-Snapshot ID: `MCw1ODM0NjQxYTM5ZjE2MjQyZTNmNDExNGJlOTU5YTA5OGNmNGMxMjgy`
+Snapshot ID: `MCwzYjJiMDI3MWMxMmIyNmY4MzkwOWYyZmFjMTIzMjliYmIyZjVlOTlj`

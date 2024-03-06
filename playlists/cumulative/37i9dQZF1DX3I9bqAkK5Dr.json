@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Charcha",
+        "url": "https://open.spotify.com/album/706F4PTnmnegEMoSUuH9if"
+      },
+      "artists": [
+        {
+          "name": "StreetViolater",
+          "url": "https://open.spotify.com/artist/7FtGwdmLdZ6PQVRFbgocPU"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128575,
+      "name": "Charcha",
+      "url": "https://open.spotify.com/track/2jEA5P7mrjj9J2DtLuQCW3"
+    },
+    {
+      "album": {
         "name": "Chelimidata",
         "url": "https://open.spotify.com/album/5hbNVbA6Z5rq0XnT7lKcK0"
       },
@@ -2517,6 +2535,36 @@
     },
     {
       "album": {
+        "name": "Ne Kothaga",
+        "url": "https://open.spotify.com/album/5dnbnY8P63B9GGwqFyNsfU"
+      },
+      "artists": [
+        {
+          "name": "MS Rudra Kiran",
+          "url": "https://open.spotify.com/artist/2TzLHm7rUooeTi6NIfbjm0"
+        },
+        {
+          "name": "Mounica Modali",
+          "url": "https://open.spotify.com/artist/5iiqvn3toWXbNadpveiBeC"
+        },
+        {
+          "name": "Sudheshna Mokkapati",
+          "url": "https://open.spotify.com/artist/6H0LSanfaEsTyNcs1pa1Pe"
+        },
+        {
+          "name": "Anirudh Sandilya",
+          "url": "https://open.spotify.com/artist/0F4yayMRBTrHXljPrHYjFY"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186119,
+      "name": "Ne Kothaga",
+      "url": "https://open.spotify.com/track/6gJY0TyLzecMHR4GHFHkCe"
+    },
+    {
+      "album": {
         "name": "Nee Ayya Naa Mama",
         "url": "https://open.spotify.com/album/0BwEyVJo39xxLiUVI2T4sv"
       },
@@ -3090,7 +3138,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 189622,
       "name": "Oh Cheliya",
       "url": "https://open.spotify.com/track/4YG0YWJiqkjUfbCVDtOj9d"
@@ -3408,7 +3456,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 223091,
       "name": "Pilla",
       "url": "https://open.spotify.com/track/1gNzOEg64KHBMxU0pteGQx"
@@ -4370,7 +4418,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 182060,
       "name": "Telugu Bhasha",
       "url": "https://open.spotify.com/track/3spnmQIfqbs7WApfP1l5uh"
@@ -4392,6 +4440,24 @@
       "duration_ms": 193310,
       "name": "Telugu Flow",
       "url": "https://open.spotify.com/track/3Q4Rn6L8GRbbR43DHcFwN7"
+    },
+    {
+      "album": {
+        "name": "Telusa Nuvvevaro",
+        "url": "https://open.spotify.com/album/5RBhYJpO14jspepP1yMAfh"
+      },
+      "artists": [
+        {
+          "name": "Harika Narayan",
+          "url": "https://open.spotify.com/artist/6BWLgCuwDlaTKrZvgMmghn"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184179,
+      "name": "Telusa Nuvvevaro",
+      "url": "https://open.spotify.com/track/4AiOWsLqXlYgs70dYugZBf"
     },
     {
       "album": {

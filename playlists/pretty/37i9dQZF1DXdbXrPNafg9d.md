@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Abby Sage
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,271,959 likes - 175 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,272,019 likes - 175 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,13 +83,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 73 | [Sha La La](https://open.spotify.com/track/7dVF7taTea0xSv0HCrPGU9) | [Winnetka Bowling League](https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu) | [Sha La La](https://open.spotify.com/album/7qnn1EJOqFZRGcKVHlHSBr) | 3:55 |
 | 74 | [All the Same](https://open.spotify.com/track/2OPoTZy4WtLZeBuJpwmqh4) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [All the Same](https://open.spotify.com/album/0S2YEpV52VFK78Gq1ynuz2) | 5:36 |
 | 75 | [Cora Lu](https://open.spotify.com/track/0UagM3dzoqD2MSgLv6C2g8) | [Coco](https://open.spotify.com/artist/4NxTtZTeJqQ1n27i2qnPCe) | [Cora Lu](https://open.spotify.com/album/5TQx6RIW7ts3lTa8c62o8c) | 3:00 |
-| 76 | [Basement](https://open.spotify.com/track/1LGZzWQexuUXz7n3DJTJOl) | [Dogs on Shady Lane](https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO) | [The Knife](https://open.spotify.com/album/29rQiqo1hLh668XBKU80sA) | 3:43 |
+| 76 | [Basement](https://open.spotify.com/track/1aIQvLvwz35NdFgMpc2nYo) | [Dogs on Shady Lane](https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO) | [The Knife](https://open.spotify.com/album/0gkvOoUvjCFHj6SmhIqT5C) | 3:43 |
 | 77 | [Character](https://open.spotify.com/track/15pu6SXyRFqpDantH9Afex) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Me, Jed and Andy](https://open.spotify.com/album/4YMmTVHquIhlI7hDT7uOeX) | 2:10 |
 | 78 | [don't toy with me](https://open.spotify.com/track/0H4cAH32Y9SAMDDI8Jn1uH) | [runo plum](https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39) | [softer](https://open.spotify.com/album/5RTAt4fXcpwHfqp6oSbfYl) | 2:37 |
 | 79 | [Late](https://open.spotify.com/track/3oOLmRfPj0hBbCG6rQn0ok) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Late](https://open.spotify.com/album/6dJSqvOrm05gaHlLNFNWeY) | 3:57 |
 | 80 | [backseat](https://open.spotify.com/track/68CijBYyD89CISS4vDLAaq) | [WESLEE](https://open.spotify.com/artist/2sfC2KuIzmNQEtVordUuqq) | [backseat](https://open.spotify.com/album/3IOA0OXQ2kkFWT3HKF016w) | 2:54 |
 | 81 | [sway](https://open.spotify.com/track/503gLddG5seJR59iM2BLi7) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [sway](https://open.spotify.com/album/5WAigjDSeooWIyiPLb1ra2) | 1:48 |
-| 82 | [Spring Is Coming With A Strawberry In The Mouth](https://open.spotify.com/track/0BpAmsdYjaf08yE9y2YgoF) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You: Everasking Edition](https://open.spotify.com/album/2LytSeOYiM6yUcEArt9hxn) | 3:53 |
+| 82 | [Spring Is Coming With A Strawberry In The Mouth](https://open.spotify.com/track/0I49aN2b9qfw1UWtctmNtr) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You: Everasking Edition](https://open.spotify.com/album/25ktFe8igqIwv9aRbkdnTS) | 3:53 |
 | 83 | [Life Is](https://open.spotify.com/track/3aJrUfPxOANdzY1weAqrgH) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Life Is](https://open.spotify.com/album/54eLc8KKiIJcWmrkQV3A2b) | 3:08 |
 | 84 | [Capricorn](https://open.spotify.com/track/2tKqhcDNVVKXJqllKzrecM) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Capricorn / Gen\-X Cops](https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv) | 4:09 |
 | 85 | [Your Apartment](https://open.spotify.com/track/2F8GiqfSE1JSjLGHlHMmQa) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Your Apartment](https://open.spotify.com/album/4bchmgK2VJWV9fHapF5nms) | 3:18 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 174 | [7 Up](https://open.spotify.com/track/62hIVucnuhYuYKgfOpe6n4) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [7 Up](https://open.spotify.com/album/34L5h7uSglIHTkglRnC63H) | 3:07 |
 | 175 | [Skin Parade](https://open.spotify.com/track/2ULTiHf6StaL4Hbyarfr2h) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [The Death Of Summer & Other Promises](https://open.spotify.com/album/0esL2lh3mMULygf9eA6RlV) | 4:29 |
 
-Snapshot ID: `MCw1Y2IzOTEwOWU3MTFmZTJiNDJkMDRkNTE5NGE5MWIxNjMyMWMwNzFk`
+Snapshot ID: `MCw2YzI4ZjViMTg0MTI0YzExMjQ3NzM2MDk5ZWEyZWM1NjMxNmRhNTI3`

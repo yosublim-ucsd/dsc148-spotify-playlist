@@ -4,7 +4,7 @@
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-170 songs - 19 hr 16 min
+171 songs - 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [Man Kunto Maula](https://open.spotify.com/track/3daJwwrOiGlyDYs6WNomUv) | [Raafay Israr](https://open.spotify.com/artist/53CSmkUOcrOUOwaDW0Eh57), [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5) | [Man Kunto Maula](https://open.spotify.com/album/77Ulmb0yHBlqDlG1A9rr7R) | 3:20 | 2022-10-06 | 2023-03-18 |
 | [Mann Ki Lagan](https://open.spotify.com/track/7fxi1nuAVENApf7H3VivFH) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Paap \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4dS6K0dQ8O1FLN0KCvcAmf) | 4:51 | 2022-08-02 |  |
 | [Manzil\-e\-Sufi](https://open.spotify.com/track/44Az6YaqJlqzt5CtW3OcJH) | [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 5:52 | 2024-01-05 |  |
-| [Masjid Mandir](https://open.spotify.com/track/3rNp2GjaY3taqKaGzCrEZA) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ) | [Masjid Mandir](https://open.spotify.com/album/1TpoHVySqAbMrg0lEwruML) | 3:53 | 2024-03-04 |  |
+| [Masjid Mandir](https://open.spotify.com/track/1rcqG4wPrIUQ6FHgTUH70N) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ) | [Masjid Mandir](https://open.spotify.com/album/1aKRfdLtpQeYCk8cTsWfIf) | 3:53 | 2024-03-04 |  |
+| [Masjid Mandir](https://open.spotify.com/track/3rNp2GjaY3taqKaGzCrEZA) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ) | [Masjid Mandir](https://open.spotify.com/album/1TpoHVySqAbMrg0lEwruML) | 3:53 | 2024-03-04 | 2024-03-06 |
 | [Maula](https://open.spotify.com/track/6Z0hi7ntpmQSkTDiBMcZVl) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Maula](https://open.spotify.com/album/0XYIRzV6BpXXSH02O8uaMz) | 6:03 | 2022-06-21 | 2024-01-06 |
 | [Maula Mere Maula](https://open.spotify.com/track/5KNuHsIeFtD0oukst77hBi) | [Roop Kumar Rathod](https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa) | [Anwar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3MTyvN8DogBzkLz8ThUKuc) | 6:04 | 2022-08-02 |  |
 | [Maula Tera Noor](https://open.spotify.com/track/43MM7jOLwi9QQRbGXcz6Tx) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Coke Studio Season 10: Episode 7](https://open.spotify.com/album/6N6JL68Ji3Huws0DNHlnv3) | 8:28 | 2024-01-05 |  |

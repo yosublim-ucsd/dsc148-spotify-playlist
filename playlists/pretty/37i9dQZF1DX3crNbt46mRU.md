@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Leony
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,412 likes - 99 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,423 likes - 99 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 23 | [Von dutch](https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Von dutch](https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw) | 2:44 |
 | 24 | [So Good](https://open.spotify.com/track/2XTSjtPIN0PzfJEfdceNaN) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [So Good](https://open.spotify.com/album/6GfhI8EKNPVEfplLMaINV5) | 2:24 |
 | 25 | [Hayat](https://open.spotify.com/track/2nxqny7u02Uqz7Jn7uXLiV) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN), [BILLA JOE](https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6) | [Hayat](https://open.spotify.com/album/5HOJEYuAK3HQn7E5ckijIT) | 2:46 |
-| 26 | [Sie will nur Love](https://open.spotify.com/track/0tuyplBN6l4ofvTFtWbyq4) | [JONA](https://open.spotify.com/artist/64x9nivyNE39JfmRiz2eM6) | [Sie will nur Love](https://open.spotify.com/album/5TDUeOSVLvZERrd9mWwKFh) | 2:38 |
+| 26 | [Sie will nur Love](https://open.spotify.com/track/1IVPnvQSFIb4nkl4gCm42K) | [JONA](https://open.spotify.com/artist/64x9nivyNE39JfmRiz2eM6) | [Sie will nur Love](https://open.spotify.com/album/3f5yfEzZJKIfigBQicY3ja) | 2:38 |
 | 27 | [Romeo Must Die \(RMD\)](https://open.spotify.com/track/10TygH7MoyZQFRMPDE2N6Z) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Romeo Must Die \(RMD\)](https://open.spotify.com/album/4Q2RjSDGbmXumbrTQTEYd3) | 2:40 |
 | 28 | [Feel This Way](https://open.spotify.com/track/1uAqpDfjT4ODipqrMTBWgN) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Feel This Way](https://open.spotify.com/album/1krHx6VqHRNlHXI1ShycIU) | 2:27 |
 | 29 | [Teardrops](https://open.spotify.com/track/2SYovto91rjt4Dh5w330JJ) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [Teardrops](https://open.spotify.com/album/110skZzsCFyckMdjupeIBX) | 2:54 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 34 | [Loin d'ici](https://open.spotify.com/track/0yvtWcKzMjrMfwBwQYXAi1) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [SOLSAD](https://open.spotify.com/album/6KaCLPY4dFCMiaWGl0EjCn) | 3:23 |
 | 35 | [Wänn Die Wält Wür Ände](https://open.spotify.com/track/4wWddxTax4VVTfkxPRsTzm) | [Andryy](https://open.spotify.com/artist/7EOSMyuCedHppuXhVBsbEP), [Livv](https://open.spotify.com/artist/3JqOhm3lLBMu8PmWH0FZ8t) | [Wänn Die Wält Wür Ände](https://open.spotify.com/album/06fxuT1ARkQRUTehMeHqSe) | 3:39 |
 | 36 | [Miss Me Too](https://open.spotify.com/track/1sfg5AQ5NFecKm6GO7dkdo) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Miss Me Too](https://open.spotify.com/album/3rS947KA8g4uIG5zd5JH7N) | 3:02 |
-| 37 | [Eva \(feat\. Tedua\)](https://open.spotify.com/track/29nqe5lhK8JmNcVXum7UuA) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Junior K](https://open.spotify.com/artist/6jN6FwPrMDKLgHbU9OyTrt) | [I Nomi del Diavolo](https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh) | 2:40 |
+| 37 | [Eva \(feat\. Tedua\)](https://open.spotify.com/track/29nqe5lhK8JmNcVXum7UuA) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Junior K](https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ) | [I Nomi del Diavolo](https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh) | 2:40 |
 | 38 | [In Your Arms](https://open.spotify.com/track/09JbsKhqfhP20dadEeDug3) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [In Your Arms](https://open.spotify.com/album/7G1S1ZQxGE67nSBAMr6WD6) | 2:46 |
 | 39 | [Nur es Wort](https://open.spotify.com/track/461l2R3C2fyt6Z24XLogex) | [Jule X](https://open.spotify.com/artist/1TSeKOGQXY1ERc745kFTJ0), [Barré](https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl) | [Nur es Wort](https://open.spotify.com/album/5oj1OfWJfjJZsdiYVCDVNe) | 2:06 |
 | 40 | [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 98 | [Alles vorbei](https://open.spotify.com/track/6ClrnkqYt9NSC4sXiTogZb) | [LVLV](https://open.spotify.com/artist/4f1nPBKEn1GBmx64v3r4uc) | [Alles vorbei](https://open.spotify.com/album/4EgBZMsRsTq6Kcz3HuogYq) | 2:00 |
 | 99 | [remember \(my name\)](https://open.spotify.com/track/5pXJ82WRuuoizkkW1RJZuz) | [multiplayer](https://open.spotify.com/artist/3s5XnLtcMr2F9CiOBlgbed) | [remember \(my name\)](https://open.spotify.com/album/5HWldIPagbJh75wIJ876ie) | 2:13 |
 
-Snapshot ID: `MCw4YzNiN2I5MjJiNzM2Zjk2YTAzZjZmZTg4ZWQxNjJmMTk1NzcwNDRi`
+Snapshot ID: `MCw2M2RmZWQ3NTI5NDkzYzYwYWQ4OGM4YmQzMzI2NWNlZjhiNzg2MTZk`

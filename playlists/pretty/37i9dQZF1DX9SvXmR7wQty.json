@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzA0NDc0MWEyY2Y4NDQ2YjM5Y2NlOTVjZDM1ZWMyN2E0YjZmNWI3",
+  "snapshot_id": "MCwyOWE3M2FlNzYyMzNiYjc1MTBiNDJlOGIzOTIxNTJkYzk3ZjQzNjU5",
   "tracks": [
     {
       "added_at": "2024-03-01 17:02:07",
@@ -359,18 +359,18 @@
     {
       "added_at": "2024-03-01 17:02:07",
       "album": {
-        "name": "Chambre 140 (Part.2)",
-        "url": "https://open.spotify.com/album/7vrXUFuevPiXzR76uGPbBZ"
+        "name": "Prime",
+        "url": "https://open.spotify.com/album/2dF2ZByoSuH2ZZrzoGpjzQ"
       },
       "artists": [
         {
-          "name": "PLK",
-          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
         }
       ],
-      "duration_ms": 144933,
-      "name": "Mignon tout plein",
-      "url": "https://open.spotify.com/track/6ndhj3a2GDg2YiS1AvBVTC"
+      "duration_ms": 141226,
+      "name": "Position",
+      "url": "https://open.spotify.com/track/3Zw66L4FvI9YUUx17OReRD"
     },
     {
       "added_at": "2024-03-01 17:02:07",
@@ -395,18 +395,54 @@
     {
       "added_at": "2024-03-01 17:02:07",
       "album": {
-        "name": "Prime",
-        "url": "https://open.spotify.com/album/2dF2ZByoSuH2ZZrzoGpjzQ"
+        "name": "Chambre 140 (Part.2)",
+        "url": "https://open.spotify.com/album/7vrXUFuevPiXzR76uGPbBZ"
       },
       "artists": [
         {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
         }
       ],
-      "duration_ms": 141226,
-      "name": "Position",
-      "url": "https://open.spotify.com/track/3Zw66L4FvI9YUUx17OReRD"
+      "duration_ms": 144933,
+      "name": "Mignon tout plein",
+      "url": "https://open.spotify.com/track/6ndhj3a2GDg2YiS1AvBVTC"
+    },
+    {
+      "added_at": "2024-03-01 17:02:07",
+      "album": {
+        "name": "4MOTION",
+        "url": "https://open.spotify.com/album/1S5teq1mi2YJxAH1tcB44E"
+      },
+      "artists": [
+        {
+          "name": "Maes",
+          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
+        },
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        }
+      ],
+      "duration_ms": 199527,
+      "name": "4MOTION",
+      "url": "https://open.spotify.com/track/6ieP0aiCmwen9DShYLJO5r"
+    },
+    {
+      "added_at": "2024-03-01 17:02:07",
+      "album": {
+        "name": "Rome",
+        "url": "https://open.spotify.com/album/6tsIKPtNFPVwUztMLk8nST"
+      },
+      "artists": [
+        {
+          "name": "Solann",
+          "url": "https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv"
+        }
+      ],
+      "duration_ms": 161213,
+      "name": "Rome",
+      "url": "https://open.spotify.com/track/2lfVOXTYg0AQ30BOmvTDXX"
     },
     {
       "added_at": "2024-03-01 17:02:07",
@@ -443,42 +479,6 @@
       "duration_ms": 202666,
       "name": "Love de toi",
       "url": "https://open.spotify.com/track/6gxqFnRudA7OAgmwwonkcP"
-    },
-    {
-      "added_at": "2024-03-01 17:02:07",
-      "album": {
-        "name": "Rome",
-        "url": "https://open.spotify.com/album/6tsIKPtNFPVwUztMLk8nST"
-      },
-      "artists": [
-        {
-          "name": "Solann",
-          "url": "https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv"
-        }
-      ],
-      "duration_ms": 161213,
-      "name": "Rome",
-      "url": "https://open.spotify.com/track/2lfVOXTYg0AQ30BOmvTDXX"
-    },
-    {
-      "added_at": "2024-03-01 17:02:07",
-      "album": {
-        "name": "4MOTION",
-        "url": "https://open.spotify.com/album/1S5teq1mi2YJxAH1tcB44E"
-      },
-      "artists": [
-        {
-          "name": "Maes",
-          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
-        },
-        {
-          "name": "PLK",
-          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
-        }
-      ],
-      "duration_ms": 199527,
-      "name": "4MOTION",
-      "url": "https://open.spotify.com/track/6ieP0aiCmwen9DShYLJO5r"
     },
     {
       "added_at": "2024-03-01 17:02:07",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-03-01 17:02:07",
       "album": {
-        "name": "P\u00e9riph",
-        "url": "https://open.spotify.com/album/4ImOyHSUym1ZFnmV3SKXDI"
-      },
-      "artists": [
-        {
-          "name": "PLK",
-          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
-        }
-      ],
-      "duration_ms": 168849,
-      "name": "P\u00e9riph",
-      "url": "https://open.spotify.com/track/0J8Ff1p7vpxBMLnZuAwAUb"
-    },
-    {
-      "added_at": "2024-03-01 17:02:07",
-      "album": {
         "name": "Saison 2",
         "url": "https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy"
       },
@@ -575,22 +559,38 @@
     {
       "added_at": "2024-03-01 17:02:07",
       "album": {
-        "name": "Kawasaki",
-        "url": "https://open.spotify.com/album/6hSS1sEUm8gPtZVfmvlXBc"
+        "name": "Fio Maravilha",
+        "url": "https://open.spotify.com/album/5mZM6qQfT8347Sn0WngPK4"
       },
       "artists": [
         {
-          "name": "S.Pri Noir",
-          "url": "https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs"
+          "name": "Bon Entendeur",
+          "url": "https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD"
         },
         {
-          "name": "Laylow",
-          "url": "https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S"
+          "name": "Nicoletta",
+          "url": "https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0"
         }
       ],
-      "duration_ms": 234093,
-      "name": "Kawasaki",
-      "url": "https://open.spotify.com/track/1RlWEcC7lMl18n2gsgPUzE"
+      "duration_ms": 188946,
+      "name": "Fio Maravilha",
+      "url": "https://open.spotify.com/track/1W9TsPRxMfhnI0bmfg3Kwh"
+    },
+    {
+      "added_at": "2024-03-01 17:02:07",
+      "album": {
+        "name": "P\u00e9riph",
+        "url": "https://open.spotify.com/album/4ImOyHSUym1ZFnmV3SKXDI"
+      },
+      "artists": [
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        }
+      ],
+      "duration_ms": 168849,
+      "name": "P\u00e9riph",
+      "url": "https://open.spotify.com/track/0J8Ff1p7vpxBMLnZuAwAUb"
     },
     {
       "added_at": "2024-03-01 17:02:07",
@@ -647,22 +647,22 @@
     {
       "added_at": "2024-03-01 17:02:07",
       "album": {
-        "name": "Fio Maravilha",
-        "url": "https://open.spotify.com/album/5mZM6qQfT8347Sn0WngPK4"
+        "name": "Kawasaki",
+        "url": "https://open.spotify.com/album/6hSS1sEUm8gPtZVfmvlXBc"
       },
       "artists": [
         {
-          "name": "Bon Entendeur",
-          "url": "https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD"
+          "name": "S.Pri Noir",
+          "url": "https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs"
         },
         {
-          "name": "Nicoletta",
-          "url": "https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0"
+          "name": "Laylow",
+          "url": "https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S"
         }
       ],
-      "duration_ms": 188946,
-      "name": "Fio Maravilha",
-      "url": "https://open.spotify.com/track/1W9TsPRxMfhnI0bmfg3Kwh"
+      "duration_ms": 234093,
+      "name": "Kawasaki",
+      "url": "https://open.spotify.com/track/1RlWEcC7lMl18n2gsgPUzE"
     },
     {
       "added_at": "2024-03-01 17:02:07",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-03-01 17:02:07",
       "album": {
-        "name": "CIT\u00c9S DE FRANCE",
-        "url": "https://open.spotify.com/album/4AQnvq1XEUY73naLsqhixX"
-      },
-      "artists": [
-        {
-          "name": "UZI",
-          "url": "https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI"
-        }
-      ],
-      "duration_ms": 215826,
-      "name": "CIT\u00c9S DE FRANCE",
-      "url": "https://open.spotify.com/track/4jTX6SbFPbAp5064fg2Tl2"
-    },
-    {
-      "added_at": "2024-03-01 17:02:07",
-      "album": {
         "name": "Ta peine",
         "url": "https://open.spotify.com/album/2vN2COSOLbR6pMi4Et7k7R"
       },
@@ -763,18 +747,18 @@
     {
       "added_at": "2024-03-01 17:02:07",
       "album": {
-        "name": "2006 (Opps qui court)",
-        "url": "https://open.spotify.com/album/5ncE4u6zAIl1O7a4x3zy2Q"
+        "name": "CIT\u00c9S DE FRANCE",
+        "url": "https://open.spotify.com/album/4AQnvq1XEUY73naLsqhixX"
       },
       "artists": [
         {
-          "name": "Kerchak",
-          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI"
         }
       ],
-      "duration_ms": 178346,
-      "name": "2006 - Opps qui court",
-      "url": "https://open.spotify.com/track/5cJHbMiyHr3oj9M8ZqIxho"
+      "duration_ms": 215826,
+      "name": "CIT\u00c9S DE FRANCE",
+      "url": "https://open.spotify.com/track/4jTX6SbFPbAp5064fg2Tl2"
     },
     {
       "added_at": "2024-03-01 17:02:07",
@@ -795,6 +779,62 @@
       "duration_ms": 154105,
       "name": "Ton ami",
       "url": "https://open.spotify.com/track/52Tq0iqfLn1gD9NrID3tqB"
+    },
+    {
+      "added_at": "2024-03-01 17:02:07",
+      "album": {
+        "name": "2006 (Opps qui court)",
+        "url": "https://open.spotify.com/album/5ncE4u6zAIl1O7a4x3zy2Q"
+      },
+      "artists": [
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        }
+      ],
+      "duration_ms": 178346,
+      "name": "2006 - Opps qui court",
+      "url": "https://open.spotify.com/track/5cJHbMiyHr3oj9M8ZqIxho"
+    },
+    {
+      "added_at": "2024-03-01 17:02:07",
+      "album": {
+        "name": "SOLSAD",
+        "url": "https://open.spotify.com/album/6KaCLPY4dFCMiaWGl0EjCn"
+      },
+      "artists": [
+        {
+          "name": "Zamdane",
+          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "duration_ms": 203720,
+      "name": "Loin d'ici",
+      "url": "https://open.spotify.com/track/0yvtWcKzMjrMfwBwQYXAi1"
+    },
+    {
+      "added_at": "2024-03-01 17:02:07",
+      "album": {
+        "name": "P.M.R.",
+        "url": "https://open.spotify.com/album/7lRwTBtOa4iiN9jOXfwKxR"
+      },
+      "artists": [
+        {
+          "name": "Fresh",
+          "url": "https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X"
+        },
+        {
+          "name": "Kaaris",
+          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
+        }
+      ],
+      "duration_ms": 221440,
+      "name": "MAUVAIS PAYEUR",
+      "url": "https://open.spotify.com/track/6O305YQaWEWfaU1S0nTcx6"
     },
     {
       "added_at": "2024-03-01 17:02:07",
@@ -851,22 +891,6 @@
     {
       "added_at": "2024-03-01 17:02:07",
       "album": {
-        "name": "JUNGLE",
-        "url": "https://open.spotify.com/album/5CgC5dMHUU6mKHWxdqjMVi"
-      },
-      "artists": [
-        {
-          "name": "Hatik",
-          "url": "https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "JUNGLE",
-      "url": "https://open.spotify.com/track/1AZLauYJZgld6QahY0gcIV"
-    },
-    {
-      "added_at": "2024-03-01 17:02:07",
-      "album": {
         "name": "Une bonne sant\u00e9 et grave des lards",
         "url": "https://open.spotify.com/album/53VqpYsft2TQFjWg1eqo9f"
       },
@@ -883,42 +907,18 @@
     {
       "added_at": "2024-03-01 17:02:07",
       "album": {
-        "name": "SOLSAD",
-        "url": "https://open.spotify.com/album/6KaCLPY4dFCMiaWGl0EjCn"
+        "name": "JUNGLE",
+        "url": "https://open.spotify.com/album/5CgC5dMHUU6mKHWxdqjMVi"
       },
       "artists": [
         {
-          "name": "Zamdane",
-          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+          "name": "Hatik",
+          "url": "https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU"
         }
       ],
-      "duration_ms": 203720,
-      "name": "Loin d'ici",
-      "url": "https://open.spotify.com/track/0yvtWcKzMjrMfwBwQYXAi1"
-    },
-    {
-      "added_at": "2024-03-01 17:02:07",
-      "album": {
-        "name": "VDM (feat. Leto)",
-        "url": "https://open.spotify.com/album/3yC77NQtuhVxH0uLc8Jhvj"
-      },
-      "artists": [
-        {
-          "name": "Lamatrix",
-          "url": "https://open.spotify.com/artist/5eAv3bvAehIJEOMLtzAtaE"
-        },
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        }
-      ],
-      "duration_ms": 211463,
-      "name": "VDM (feat. Leto)",
-      "url": "https://open.spotify.com/track/2Bgh9sUZDtRo43Z491TaBd"
+      "duration_ms": 180000,
+      "name": "JUNGLE",
+      "url": "https://open.spotify.com/track/1AZLauYJZgld6QahY0gcIV"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

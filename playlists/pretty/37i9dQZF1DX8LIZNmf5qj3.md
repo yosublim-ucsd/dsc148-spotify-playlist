@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : SZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,157 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,169 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 49 | [Your Body](https://open.spotify.com/track/7hieuAetWnTNSWctpbsRqn) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [BeMyFiasco](https://open.spotify.com/artist/2WDSk4ZbwCw2E99XV6gkRk), [Evil Needle](https://open.spotify.com/artist/37nE9g0LRDhDSIejDuPKPS) | [Your Body](https://open.spotify.com/album/08z8sSLaf8O4mFyCtGzULu) | 3:15 |
 | 50 | [Dreaming](https://open.spotify.com/track/6eOhPYgVzJmH3Oc476NLfw) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Dreaming](https://open.spotify.com/album/2pcrfO8TY7ceObFoIx3pbK) | 3:42 |
 
-Snapshot ID: `MCxmMmI1NmU2NzMyZjFiYWYzMmRlZjljMmZjMzYzNDlmMmQ5ZmJhMTE3`
+Snapshot ID: `MCxhMjM3MjMzZTQ0NDk5NTMzMTc5OWE0MmFmODc2ODRmNGJiYzZkNzVl`

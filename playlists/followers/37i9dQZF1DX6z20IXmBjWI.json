@@ -1,5 +1,5 @@
 {
-  "2024-03-05": 2058153,
+  "2024-03-06": 2058105,
   "date_first_scraped": "2021-12-21",
   "description": "Acoustic and roots music gems. Cover: Trousdale",
   "name": "Infinite Acoustic",
@@ -425,6 +425,24 @@
       "duration_ms": 216146,
       "name": "Back to Tennessee",
       "url": "https://open.spotify.com/track/6yVZtPADFaHeYpeAS45Gz2"
+    },
+    {
+      "album": {
+        "name": "Be (Acoustic)",
+        "url": "https://open.spotify.com/album/1HkykM5BnuW8KLN3QVoZ2f"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235346,
+      "name": "Be - Acoustic",
+      "url": "https://open.spotify.com/track/6qHRE7BuCC1SarVEmS7pLa"
     },
     {
       "album": {
@@ -1891,7 +1909,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 199333,
       "name": "Glass",
       "url": "https://open.spotify.com/track/6S4FuoZrCc8ORTyb41Kyg2"

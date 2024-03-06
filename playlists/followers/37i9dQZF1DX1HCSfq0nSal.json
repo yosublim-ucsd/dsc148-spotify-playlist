@@ -1,5 +1,5 @@
 {
-  "2024-03-05": 812132,
+  "2024-03-06": 812894,
   "date_first_scraped": "2022-01-09",
   "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Saiko, Gonzy, Arc\u00e1ngel",
   "name": "PEGAO",
@@ -1407,7 +1407,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 260307,
       "name": "Cafe Malib\u00fa",
       "url": "https://open.spotify.com/track/5uxIvoAHL2QOnRP2olOxzb"
@@ -2805,6 +2805,28 @@
       "duration_ms": 133546,
       "name": "DESQUITE",
       "url": "https://open.spotify.com/track/3kAURWHIN3R9qUP0h4FOUw"
+    },
+    {
+      "album": {
+        "name": "Diab\u00f3lica",
+        "url": "https://open.spotify.com/album/11n9y9PuTbIs8HgDgIUxQQ"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Diab\u00f3lica",
+      "url": "https://open.spotify.com/track/2dcFfC6dq4E7jlaSzM6agR"
     },
     {
       "album": {
@@ -10264,6 +10286,28 @@
     },
     {
       "album": {
+        "name": "TU$$I (with Dei V)",
+        "url": "https://open.spotify.com/album/6hcobkxdWIAXzj6OYfjlWo"
+      },
+      "artists": [
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "TU$$I (with Dei V)",
+      "url": "https://open.spotify.com/track/5sRLuy3aeAq8MaiZwK92Dn"
+    },
+    {
+      "album": {
         "name": "Tuenti (Remix)",
         "url": "https://open.spotify.com/album/5tvMf5MkyB97XVuVLa4xSd"
       },
@@ -11231,7 +11275,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 188936,
       "name": "Xxx_Rosario_xxX",
       "url": "https://open.spotify.com/track/2lkD7dLodhAM4ctR2g12Qx"

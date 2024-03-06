@@ -4,7 +4,7 @@
 
 > Legendary euro\- trance & progressive tracks  from the 90s and 00s.
 
-93 songs - 7 hr 20 min
+94 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Dear Jessie](https://open.spotify.com/track/7h2jT3YLmtDAxf4cF6rSQu) | [Rollergirl](https://open.spotify.com/artist/4OA1c70ANsRopn5bWmJ0Rk) | [Now I'm Singin'..\. \(And the Party Keeps on Rollin'\)](https://open.spotify.com/album/1CRIidVn4zBI4qCIuSEMFs) | 3:34 | 2022-06-10 |  |
 | [Don't Stop](https://open.spotify.com/track/0ygoI3HcoGScxt879A23Uk) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9) | [Movin' Melodies](https://open.spotify.com/album/4DfD9bqzlfSbEf5kWgufPk) | 3:41 | 2022-06-10 |  |
 | [Dr Feelgood \- Radio Edit](https://open.spotify.com/track/2etCol6AqBN1SkenuxzBE2) | [Interphace](https://open.spotify.com/artist/5oADI8beeP63WY4xyHr7nn) | [Injected Movements Radio Versions](https://open.spotify.com/album/43ddVzrwlBtRGrDZUkr4YJ) | 3:46 | 2022-06-10 |  |
-| [Désenchantée \- Radio Edit](https://open.spotify.com/track/0A8Wjq2Gr3mieMvK4tYTRx) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Désenchantée](https://open.spotify.com/album/2m0DsRkYqYWPvFyTDruvFk) | 3:38 | 2022-06-10 |  |
+| [Désenchantée](https://open.spotify.com/track/4yOU9FaCmFFo2qfy1FHIe3) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Different](https://open.spotify.com/album/5pUMfEOBMzcpVweXk3kYL9) | 3:38 | 2022-06-10 |  |
+| [Désenchantée \- Radio Edit](https://open.spotify.com/track/0A8Wjq2Gr3mieMvK4tYTRx) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Désenchantée](https://open.spotify.com/album/2m0DsRkYqYWPvFyTDruvFk) | 3:38 | 2022-06-10 | 2024-03-06 |
 | [Désenchantée \- Radio Edit](https://open.spotify.com/track/0eAvGqc9t4Wuc6gDcSi5Aa) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Essential](https://open.spotify.com/album/6itpfGpKsuAVBgtr5JUuS3) | 3:40 | 2022-06-10 | 2023-12-16 |
 | [Désenchantée \- Radio Mix](https://open.spotify.com/track/6SNcx71T1M7CkRCbswPtwj) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Désenchantée/U R \(My Love\)](https://open.spotify.com/album/5XCvIMSKvTNyYq9HevTWa3) | 3:40 | 2022-06-10 | 2023-03-18 |
 | [Ecuador \- Original Radio Edit](https://open.spotify.com/track/1arJHhz6TxMV50SNvSmGnV) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [It's My Life](https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS) | 3:32 | 2022-06-10 |  |
@@ -65,7 +66,7 @@
 | [Lizard](https://open.spotify.com/track/4t12tfpnld2b3XwXsNfEgt) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [The Double Album](https://open.spotify.com/album/6YvP4jnV1o5QL02rykTm1a) | 5:13 | 2022-06-10 |  |
 | [Luvstruck](https://open.spotify.com/track/5kW0BW8B5hjrbpe0OuFUr9) | [Southside Spinners](https://open.spotify.com/artist/7KrZpsNMLhQtA1s4UGNVbb), [Marco V](https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv), [Benjamin Bates](https://open.spotify.com/artist/2zk6outptAdZh4zvEjLk8W) | [Luvstruck](https://open.spotify.com/album/5zipLTwuPaNjKtO0VcAup3) | 3:17 | 2022-06-10 |  |
 | [Luvstruck \- Radio Edit](https://open.spotify.com/track/5zaRPiIB5mtXLPye8w2xSb) | [Southside Spinners](https://open.spotify.com/artist/7KrZpsNMLhQtA1s4UGNVbb) | [Luvstruck](https://open.spotify.com/album/4I7aN6i2uvGefJXZxmEffY) | 3:17 | 2022-06-10 | 2023-10-05 |
-| [On The Beach \- Mauro Picotto's CRW Remix](https://open.spotify.com/track/1YsZB1pLIXR0YgiOxUG9cv) | [York](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp), [CRW](https://open.spotify.com/artist/14tToftzUXlFOnrR5ojQxu) | [On The Beach](https://open.spotify.com/album/6VFOyyn3IVAWkeoJzBOCV9) | 3:17 | 2022-06-10 |  |
+| [On The Beach \- Mauro Picotto's CRW Remix](https://open.spotify.com/track/1YsZB1pLIXR0YgiOxUG9cv) | [YORK](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp), [CRW](https://open.spotify.com/artist/14tToftzUXlFOnrR5ojQxu) | [On The Beach](https://open.spotify.com/album/6VFOyyn3IVAWkeoJzBOCV9) | 3:17 | 2022-06-10 |  |
 | [On The Move](https://open.spotify.com/track/5G976RmOXLKXedSWAe21N6) | [Barthezz](https://open.spotify.com/artist/2ikrIhCYSKmzCgWb9EM3aT) | [On The Move](https://open.spotify.com/album/76kravzo4UMKQE6Vs112Ai) | 3:36 | 2022-06-10 |  |
 | [Out Of The Blue](https://open.spotify.com/track/7fIfO8fZ55Eq5qtd5vCd6z) | [System F](https://open.spotify.com/artist/2ZpwFriFFPaGFC4qYQQJ1i) | [Out Of The Blue \(Remastered\)](https://open.spotify.com/album/0Wd7GMaUkqotsEb1RCYx2V) | 3:54 | 2022-06-10 |  |
 | [Paradoxx \- Original Album Version](https://open.spotify.com/track/5qF7pHGeAns5TtLZDMLJ2F) | [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [Paradoxx \(Special Edition\)](https://open.spotify.com/album/0O4qBIZ7IKKuPzLftLxA92) | 3:57 | 2022-06-10 |  |

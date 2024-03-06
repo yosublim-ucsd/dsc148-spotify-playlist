@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: Fabian Mazur
 
-380 songs - 20 hr 29 min
+381 songs - 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,13 +134,14 @@
 | [Get Up \[VIP\]](https://open.spotify.com/track/6uEJz3hTPQZBbpTwi9I9Bs) | [XAVAGE](https://open.spotify.com/artist/0tqQHxodKRUNA18vrWamLh), [Dabow](https://open.spotify.com/artist/6GQx1heM2wyI3iHpAC5P8X) | [Get Up \[VIP\]](https://open.spotify.com/album/3yGu9SlTfIKFrnB0rS9etp) | 2:51 | 2024-01-05 | 2024-02-03 |
 | [Ghosts](https://open.spotify.com/track/0lh5lqLvhqQyarqtL6rD8h) | [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua) | [Ghosts](https://open.spotify.com/album/4XvlYdkbqmxJj9VpalcyIW) | 2:01 | 2021-11-19 | 2022-02-02 |
 | [GITP](https://open.spotify.com/track/3N6pwAMhcYjyaN2Jd4UTpe) | [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3) | [GITP](https://open.spotify.com/album/09p0AA8UmQWGViT4MegOjA) | 3:54 | 2023-12-08 |  |
+| [Go My Way](https://open.spotify.com/track/15cRruaacYlZfimhJvxGuw) | [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl), [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K) | [Kid Calamity](https://open.spotify.com/album/2Etm7wn37DYMZ7fNa1oFog) | 3:53 | 2023-10-27 |  |
 | [Go My Way](https://open.spotify.com/track/5y0X2gA8jlovyL5YmFamIv) | [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl), [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K) | [Kid Calamity](https://open.spotify.com/album/4zLskraUiS712MsuxYeQL3) | 3:53 | 2022-07-14 | 2024-02-07 |
 | [Go My Way](https://open.spotify.com/track/7baJMiTsqpoQwPOjM7ZlRE) | [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl), [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K) | [Kid Calamity](https://open.spotify.com/album/4I1tlO8XZZTnydjNrv0m45) | 3:53 | 2022-02-01 | 2022-07-29 |
 | [GOATED](https://open.spotify.com/track/2tPiJ3Rp20TsiG0nrvEyEp) | [Rickyxsan](https://open.spotify.com/artist/0lqxqV3IhQXO5czq1d0ZfJ), [Mike Jones](https://open.spotify.com/artist/07VmOvmuBp9G0gb8BTrpn0) | [GOATED](https://open.spotify.com/album/7vhMu8cSg5nx9CQgXQTdjG) | 3:00 | 2024-01-12 | 2024-02-17 |
 | [GOD \(MUSIC\)](https://open.spotify.com/track/0JwXTGM7R2KGSfck5EZ9xm) | [Mr\. Carmack](https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn), [Dilip](https://open.spotify.com/artist/5PcwbyuOX1pnaeVYatEEB2) | [HOMETOWN HEROES](https://open.spotify.com/album/370OsF7iXElQn5eBK7R6B4) | 4:30 | 2022-09-09 | 2023-06-24 |
 | [Gopher](https://open.spotify.com/track/6RcMHJlUT2QHLdPihLyamW) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Blonde](https://open.spotify.com/album/2eCPjxsY03PGy7ndGDp5Tk) | 2:49 | 2021-11-19 | 2022-02-02 |
 | [Got 'Em \- ZHU Remix](https://open.spotify.com/track/6RAwKM3TxG9USNt3WcKnbC) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Pokémon 25: The Blue EP](https://open.spotify.com/album/3N7VGJEuKq6rKQbWcPFWzJ) | 3:54 | 2021-11-19 | 2022-02-02 |
-| [Got Me Like](https://open.spotify.com/track/4JPG8zY4MKIrchfyFGOEPU) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r) | [Leisure Season Vol\. 1](https://open.spotify.com/album/0hUxMTFyT6xRfWfsBaCIYg) | 2:51 | 2021-11-19 |  |
+| [Got Me Like](https://open.spotify.com/track/4JPG8zY4MKIrchfyFGOEPU) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r) | [Leisure Season Vol\. 1](https://open.spotify.com/album/0hUxMTFyT6xRfWfsBaCIYg) | 2:51 | 2021-11-19 | 2024-03-06 |
 | [Greengate Adhesive \- Visages Remix](https://open.spotify.com/track/1UIxXFrvd3nDXPteSv3get) | [Regents](https://open.spotify.com/artist/4BmXLF6dxW3qdkKPL8zthd), [Strategy](https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3), [Cartridge](https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn), [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL) | [Greengate Adhesive \(Visages Remix\)](https://open.spotify.com/album/3JFwG81QlceBkuzZ5XJeqt) | 3:15 | 2023-11-17 | 2024-01-13 |
 | [GUD VIBRATIONS](https://open.spotify.com/track/2BVUOGciUUUqOPSLtHwLGp) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q) | [GUD VIBRATIONS](https://open.spotify.com/album/1ABYsJwhqu0MoN3HVn3tKi) | 3:44 | 2022-02-01 | 2023-11-18 |
 | [Hand Up \(Bass Boosted\)](https://open.spotify.com/track/04ZjdN8uiiBAKrFHeSl4jD) | [Dj Usman Bhatti](https://open.spotify.com/artist/30XLmryZsOeVFMw4TgzQgs) | [Hand Up \(Bass Boosted\)](https://open.spotify.com/album/3FG9e1U0UNXbdldsKDIiB3) | 3:11 | 2022-09-14 | 2023-02-27 |

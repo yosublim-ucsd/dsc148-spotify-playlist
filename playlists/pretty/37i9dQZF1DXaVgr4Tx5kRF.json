@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 641157,
+  "num_followers": 641197,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODMwNGUyMGYyYjgzYzEyNmJjOTc1Y2FlODg2ODQ4YjlmMDM0NzE0",
+  "snapshot_id": "MCwzOTMyNzdjZmU3YWU2NDFjNTllYzIwZDRhYmFlMmYyMzdlZjQ3ZGY0",
   "tracks": [
     {
       "added_at": "2022-05-04 17:11:49",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Ugly Beautiful",
-        "url": "https://open.spotify.com/album/0bqAqbOsbQ145KcqNXbWQT"
-      },
-      "artists": [
-        {
-          "name": "Babybird",
-          "url": "https://open.spotify.com/artist/1QCANeffsBIHjzhMqUIxBh"
-        }
-      ],
-      "duration_ms": 222440,
-      "name": "You're Gorgeous",
-      "url": "https://open.spotify.com/track/5IaJ6YghsvtGBDyF7H6vkU"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "Definitely Maybe (Deluxe Edition Remastered)",
         "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 289146,
       "name": "Cigarettes & Alcohol - Remastered",
       "url": "https://open.spotify.com/track/5adjc9rGazKvYcyEHNtoz1"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "Ugly Beautiful",
+        "url": "https://open.spotify.com/album/0bqAqbOsbQ145KcqNXbWQT"
+      },
+      "artists": [
+        {
+          "name": "Babybird",
+          "url": "https://open.spotify.com/artist/1QCANeffsBIHjzhMqUIxBh"
+        }
+      ],
+      "duration_ms": 222440,
+      "name": "You're Gorgeous",
+      "url": "https://open.spotify.com/track/5IaJ6YghsvtGBDyF7H6vkU"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Sense",
-        "url": "https://open.spotify.com/album/2COAzXF28KyjaOaxr901X0"
-      },
-      "artists": [
-        {
-          "name": "The Lightning Seeds",
-          "url": "https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "The Life of Riley",
-      "url": "https://open.spotify.com/track/5fB91ioIvFnr6QEgXLCf3V"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/4ygxhp2YRRuOEfw1J40FdQ"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 185066,
       "name": "This Is How It Feels",
       "url": "https://open.spotify.com/track/0usG7DLWUEoAHFEv9rWfoP"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "Sense",
+        "url": "https://open.spotify.com/album/2COAzXF28KyjaOaxr901X0"
+      },
+      "artists": [
+        {
+          "name": "The Lightning Seeds",
+          "url": "https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "The Life of Riley",
+      "url": "https://open.spotify.com/track/5fB91ioIvFnr6QEgXLCf3V"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Jollification",
-        "url": "https://open.spotify.com/album/2aPTNYJ6MjDj7UvIHnJs26"
-      },
-      "artists": [
-        {
-          "name": "The Lightning Seeds",
-          "url": "https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5"
-        }
-      ],
-      "duration_ms": 259666,
-      "name": "Lucky You",
-      "url": "https://open.spotify.com/track/4RG9Ulx2XrTg2achBTPaoo"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "Ready To Go",
         "url": "https://open.spotify.com/album/2lxv4za6tEk3J8vN73NWHp"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 301533,
       "name": "Ready to Go",
       "url": "https://open.spotify.com/track/2bEbTqj36jmuwMhvvCRC2y"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "Jollification",
+        "url": "https://open.spotify.com/album/2aPTNYJ6MjDj7UvIHnJs26"
+      },
+      "artists": [
+        {
+          "name": "The Lightning Seeds",
+          "url": "https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5"
+        }
+      ],
+      "duration_ms": 259666,
+      "name": "Lucky You",
+      "url": "https://open.spotify.com/track/4RG9Ulx2XrTg2achBTPaoo"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "In It for the Money",
-        "url": "https://open.spotify.com/album/020brgMKGgdPSYjcVNypql"
-      },
-      "artists": [
-        {
-          "name": "Supergrass",
-          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
-        }
-      ],
-      "duration_ms": 192960,
-      "name": "Richard III",
-      "url": "https://open.spotify.com/track/09rr4TfhpyF6tmaoSt3j4T"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "The Sun Is Often Out",
         "url": "https://open.spotify.com/album/1QQKv2Y9uONbj8Dw6GUMB6"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 264066,
       "name": "She Said",
       "url": "https://open.spotify.com/track/5J7l2wE9wxqod7xIP0jyAB"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "In It for the Money",
+        "url": "https://open.spotify.com/album/020brgMKGgdPSYjcVNypql"
+      },
+      "artists": [
+        {
+          "name": "Supergrass",
+          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+        }
+      ],
+      "duration_ms": 192960,
+      "name": "Richard III",
+      "url": "https://open.spotify.com/track/09rr4TfhpyF6tmaoSt3j4T"
     },
     {
       "added_at": "2022-05-04 17:11:49",

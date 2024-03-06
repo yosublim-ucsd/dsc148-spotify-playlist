@@ -2,7 +2,7 @@
 
 ### [Street Energy ](https://open.spotify.com/playlist/37i9dQZF1DX1GHMwBE32Ob)
 
-> From the trenches\. Through the streets.<br/>Cover: Adekunle Gold
+> From the trenches\. Through the streets.<br/>Cover: Skepta and Portable
 
 216 songs - 9 hr 59 min
 

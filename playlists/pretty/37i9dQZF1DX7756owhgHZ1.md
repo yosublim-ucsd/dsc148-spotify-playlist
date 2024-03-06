@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7756owhgHZ1.md) - [plain]
 
 > Ya sea en la rampa o en la consola, así sonaba montar en patineta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,973 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,986 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7756owhgHZ1.md) - [plain]
 | 31 | [When Worlds Collide](https://open.spotify.com/track/6aF5JtQSrh7wNrkDE9B0My) | [Powerman 5000](https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC) | [Tonight The Stars Revolt](https://open.spotify.com/album/3Z3yndLeHs01iYPSNzTBBk) | 2:57 |
 | 32 | [Blitzkrieg Bop \- 2001 Remaster](https://open.spotify.com/track/2hrF1aiAFGa7bWgt2qhyrc) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Greatest Hits](https://open.spotify.com/album/7g7SbdTnbvrA1hGYHwLEn8) | 2:12 |
 | 33 | [Fight Like A Brave](https://open.spotify.com/track/6NeRpRTcFftvt3j1vF4Pcw) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [The Uplift Mofo Party Plan](https://open.spotify.com/album/3rHJQrfEcBeSaLPuLwKR6F) | 3:53 |
-| 34 | [Bloodstains](https://open.spotify.com/track/3fj5W7oDAv8RzGdidy4nfn) | [Agent Orange](https://open.spotify.com/artist/1pBsvSnrhmgDZqisT13SFA) | [Punk & Nasty](https://open.spotify.com/album/2JXzfEi3LIPTlGnZmAVMYh) | 2:09 |
+| 34 | [Bloodstains \- Re\-Recorded](https://open.spotify.com/track/7LQyIbPLk22Qem2rNmitCL) | [Agent Orange](https://open.spotify.com/artist/1pBsvSnrhmgDZqisT13SFA) | [Greatest & Latest: This, That\-n\-The Other Thing](https://open.spotify.com/album/7ygPIr0tEwpYsmJpwIVFuy) | 2:06 |
 | 35 | [Manthem](https://open.spotify.com/track/5pSjxUAwOol5e0TWp1ecHC) | [The Bouncing Souls](https://open.spotify.com/artist/3mvTAjG7rcyk7DQzLwauzV) | [How I Spent My Summer Vacation](https://open.spotify.com/album/64zbLX1ze8N3kcAMX0qq7G) | 3:08 |
 | 36 | [Big Shots](https://open.spotify.com/track/2e8EITiodyhvijf6inrM3j) | [Eyedea & Abilities](https://open.spotify.com/artist/4pxU0h86QnMOe6iNIy7pCU), [Eyedea](https://open.spotify.com/artist/1AgWsZON0joqldki9fG6bn), [DJ Abilities](https://open.spotify.com/artist/4nZ2lXJUlfy1zLvwz1cY7N) | [First Born](https://open.spotify.com/album/3xSSf0GbBlHOROn2kJZXZ9) | 3:50 |
 | 37 | [Blackball](https://open.spotify.com/track/0Xd2QGTMxweKlplNrJ9jNx) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [The Offspring](https://open.spotify.com/album/39QzcBdUkrXWc7bhpW66p7) | 3:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7756owhgHZ1.md) - [plain]
 | 74 | [Non Compos Mentis](https://open.spotify.com/track/1GS9WWgNkqhR45YcdGPnBW) | [Haiku D'Etat](https://open.spotify.com/artist/5yLqc0R4cy4fVot8LuEkj4) | [Haiku D'Etat](https://open.spotify.com/album/45zWOfhF7pA5aIfkWypsnz) | 4:11 |
 | 75 | [Hush](https://open.spotify.com/track/75PrH413lre392eFKHl3tw) | [KRS\-One](https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla) | [Sneak Attack](https://open.spotify.com/album/4T1jD9iMVHc8fAW3IcvEPo) | 3:55 |
 
-Snapshot ID: `MCwyN2FmZGUxN2RhODhiN2M3ZTBkMTQ0N2NhODY3ZjcyMzM1N2U4OTE0`
+Snapshot ID: `MCw2M2M1M2JmMzc3ZDk3OWYzMzdkNGU2YTMyN2M2MTEzZjM3OWE1YzE2`

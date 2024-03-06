@@ -1,12 +1,12 @@
 {
   "description": "Viento en la cara, pies en el agua y canciones tranqui para disfrutar del paseo.",
-  "num_followers": 21739,
+  "num_followers": 21777,
   "original_name": "Caminata playera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzA0YThjNzllMmUwYWMzYzE4MWNiYzU0NjQ0Y2ZiZTQ4ZTlmYmE3",
+  "snapshot_id": "MCwzOWFjZWE1NjRkMTg1ZTU2NzFmNWJmN2VmMDI2ZjEyYTY1MTk1MjU3",
   "tracks": [
     {
       "added_at": "2024-02-29 21:22:10",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-02-29 21:22:10",
       "album": {
-        "name": "PEL\u00cdCULA",
-        "url": "https://open.spotify.com/album/0F5ZesfEwl0qPpjnaEzG1L"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 193206,
-      "name": "PEL\u00cdCULA",
-      "url": "https://open.spotify.com/track/0YkFznftrXHZnJIde7T5v2"
-    },
-    {
-      "added_at": "2024-02-29 21:22:10",
-      "album": {
         "name": "Tripolar",
         "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
       },
@@ -539,22 +523,18 @@
     {
       "added_at": "2024-02-29 21:22:10",
       "album": {
-        "name": "Musikita del Cielo",
-        "url": "https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz"
+        "name": "PEL\u00cdCULA",
+        "url": "https://open.spotify.com/album/0F5ZesfEwl0qPpjnaEzG1L"
       },
       "artists": [
         {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
-        },
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
         }
       ],
-      "duration_ms": 180500,
-      "name": "Musikita del Cielo",
-      "url": "https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF"
+      "duration_ms": 193206,
+      "name": "PEL\u00cdCULA",
+      "url": "https://open.spotify.com/track/0YkFznftrXHZnJIde7T5v2"
     },
     {
       "added_at": "2024-02-29 21:22:10",
@@ -575,6 +555,26 @@
       "duration_ms": 238253,
       "name": "Mar",
       "url": "https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm"
+    },
+    {
+      "added_at": "2024-02-29 21:22:10",
+      "album": {
+        "name": "Musikita del Cielo",
+        "url": "https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz"
+      },
+      "artists": [
+        {
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+        },
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        }
+      ],
+      "duration_ms": 180500,
+      "name": "Musikita del Cielo",
+      "url": "https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF"
     },
     {
       "added_at": "2024-02-29 21:22:10",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-02-29 21:22:10",
       "album": {
-        "name": "Guerras (Un Viaje en el Tiempo)",
-        "url": "https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR"
-      },
-      "artists": [
-        {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
-        }
-      ],
-      "duration_ms": 265080,
-      "name": "M\u00edrenla (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/3adqew32aN0DuInXYwwAzA"
-    },
-    {
-      "added_at": "2024-02-29 21:22:10",
-      "album": {
         "name": "Dos Hemisferios",
         "url": "https://open.spotify.com/album/0qOwKIT9GbWmRMUNi84yF8"
       },
@@ -863,22 +847,34 @@
     {
       "added_at": "2024-02-29 21:22:10",
       "album": {
-        "name": "Nuevo mundo (feat. Juancho Marqu\u00e9s)",
-        "url": "https://open.spotify.com/album/7vDANBArJLs5XXsgMoYnvC"
+        "name": "Guerras (Un Viaje en el Tiempo)",
+        "url": "https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR"
       },
       "artists": [
         {
-          "name": "Fuel Fandango",
-          "url": "https://open.spotify.com/artist/1MbqzxZvHtdClX1cBKU2OG"
-        },
-        {
-          "name": "Juancho Marqu\u00e9s",
-          "url": "https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g"
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
         }
       ],
-      "duration_ms": 200869,
-      "name": "Nuevo mundo (feat. Juancho Marqu\u00e9s)",
-      "url": "https://open.spotify.com/track/4hklliK34BQpPNsoag1JmL"
+      "duration_ms": 265080,
+      "name": "M\u00edrenla (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/3adqew32aN0DuInXYwwAzA"
+    },
+    {
+      "added_at": "2024-02-29 21:22:10",
+      "album": {
+        "name": "Ojos de R\u00edo",
+        "url": "https://open.spotify.com/album/0FDjjaaAOmUSmEyGlcPJtM"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Mollo",
+          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
+        }
+      ],
+      "duration_ms": 136512,
+      "name": "Ojos de R\u00edo",
+      "url": "https://open.spotify.com/track/53O5lFOaitGbeEfb6OMFxs"
     }
   ],
   "unique_name": "Caminata playera",

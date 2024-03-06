@@ -1,12 +1,12 @@
 {
   "description": "New song and hits from your favorite Alternative artists. Cover: Jack White",
-  "num_followers": 76544,
+  "num_followers": 76596,
   "original_name": "Your Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGNmODkzYjA1MTQwN2Q2N2ZmOGM2Mjc0ZWQ2MGJkZmNkNGE4NGVj",
+  "snapshot_id": "MCw2ZDYyNWRkOWY3ZDRiZmE0NzEzYWZhODUzMzUwNDk1YTVhMDA5MjIy",
   "tracks": [
     {
       "added_at": "2022-02-04 05:01:00",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "Women In Music Pt. III",
-        "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
+        "name": "Terra Firma",
+        "url": "https://open.spotify.com/album/7o1gl7In7Onhi6KpQwUDWy"
       },
       "artists": [
         {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
         }
       ],
-      "duration_ms": 247600,
-      "name": "The Steps",
-      "url": "https://open.spotify.com/track/5X2RisOZS9i5MsR8EVw58p"
+      "duration_ms": 279137,
+      "name": "Pretty Lady",
+      "url": "https://open.spotify.com/track/31ys9ZVrUE0HyS2C6ePzpn"
     }
   ],
   "unique_name": "Your Alternative",

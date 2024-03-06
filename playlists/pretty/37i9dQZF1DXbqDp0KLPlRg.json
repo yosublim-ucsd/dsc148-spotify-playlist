@@ -1,15 +1,35 @@
 {
   "description": "La nena de Argentina.",
-  "num_followers": 372772,
+  "num_followers": 373058,
   "original_name": "This Is Maria Becerra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzgwMDdhNGU1NDk1ZjQ5NTczNjU3NTAyZjFjMTAxYzk5ZjVmZjJj",
+  "snapshot_id": "MCxlYzU2MzEwMzJjOWUyODAzYmFmZWEzM2FkMmFmNDhhYjVjYzhmZjE1",
   "tracks": [
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
+      "album": {
+        "name": "PRIMER AVISO",
+        "url": "https://open.spotify.com/album/5sB0kl214YdtiZau62Aepo"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 182891,
+      "name": "PRIMER AVISO",
+      "url": "https://open.spotify.com/track/6EWPFLaVPVmuhmA7J3ASP8"
+    },
+    {
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "CORAZ\u00d3N VAC\u00cdO",
         "url": "https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P"
@@ -25,7 +45,7 @@
       "url": "https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "Piscina",
         "url": "https://open.spotify.com/album/2dgGJoPFotq4qDUbzAKVU0"
@@ -49,7 +69,7 @@
       "url": "https://open.spotify.com/track/6q6aChVJ5LLXFUSfakwpxW"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "LA NENA DE ARGENTINA",
         "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
@@ -65,7 +85,7 @@
       "url": "https://open.spotify.com/track/0Dl34Kegtc0y0m0oPhQfiI"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "El Amor De Mi Vida",
         "url": "https://open.spotify.com/album/2RPuxZNaziqNHjbUgoE8iW"
@@ -85,7 +105,7 @@
       "url": "https://open.spotify.com/track/04sktg3deiYUweHfbFUZTM"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "Los del Espacio",
         "url": "https://open.spotify.com/album/6DVg3IJPFr7JZDDXYcyPbU"
@@ -129,7 +149,7 @@
       "url": "https://open.spotify.com/track/1Hs1uUl8o2VtDp1DABFq0O"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "LA NENA DE ARGENTINA",
         "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
@@ -145,7 +165,7 @@
       "url": "https://open.spotify.com/track/2bNCiY24Eh4saMcc23bvUN"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "Mi Debilidad",
         "url": "https://open.spotify.com/album/5hYYAmDCghG1kmcHT5rScz"
@@ -161,7 +181,7 @@
       "url": "https://open.spotify.com/track/70LLyzO7jT6DsQvCwwHDch"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "AUTOM\u00c1TICO",
         "url": "https://open.spotify.com/album/5i8WdrKnzvMbujuJhkcFQn"
@@ -177,7 +197,7 @@
       "url": "https://open.spotify.com/track/3Ne5uYDFzHEFYAPbaBMIck"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "222",
         "url": "https://open.spotify.com/album/46LpOEusxUOW5UXN3KGRT5"
@@ -193,7 +213,7 @@
       "url": "https://open.spotify.com/track/0Vj4Brc4OoILysscc71aw8"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "Felices x Siempre",
         "url": "https://open.spotify.com/album/1DW15sDiWh55xNKb5uqIp2"
@@ -209,7 +229,7 @@
       "url": "https://open.spotify.com/track/42Gzfqnfpk7Pp1ydM60eNn"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/2OXeXtTp8KR8TO21LbBIWP"
@@ -225,7 +245,7 @@
       "url": "https://open.spotify.com/track/2uFNk4Yiwikx7uUvZtbm2F"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "Mal De Amores",
         "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
@@ -245,7 +265,7 @@
       "url": "https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "Cazame",
         "url": "https://open.spotify.com/album/2YIoAADK2tVeSyMbe2LFOW"
@@ -265,7 +285,7 @@
       "url": "https://open.spotify.com/track/2LtTHIXTaFwvY9oLOThElU"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "LA NENA DE ARGENTINA",
         "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
@@ -281,7 +301,7 @@
       "url": "https://open.spotify.com/track/4rBQxFVwTnf99p818azSon"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "Animal Pt. 1",
         "url": "https://open.spotify.com/album/4nUKyiRK7yKKrR9JslEWzR"
@@ -297,7 +317,7 @@
       "url": "https://open.spotify.com/track/4fipVdNyG6zx7nxuqHScsy"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "Entre Nosotros (Remix) [con Nicki Nicole]",
         "url": "https://open.spotify.com/album/1RXzQq8DhpkYvvbXE9CqLm"
@@ -325,7 +345,7 @@
       "url": "https://open.spotify.com/track/4TGwERXRlyQtBdggYTHo6j"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "Perdidamente",
         "url": "https://open.spotify.com/album/7oCSJuNeGiJJHFNMRa81Sr"
@@ -341,7 +361,7 @@
       "url": "https://open.spotify.com/track/1crlyg743B4fEKUFNsA8ps"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "LA NENA DE ARGENTINA",
         "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
@@ -357,7 +377,7 @@
       "url": "https://open.spotify.com/track/4nP0hfzeb5OQYImMkKfTed"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "High (Remix)",
         "url": "https://open.spotify.com/album/2zXlWd1wEWDpoAQfBShNwJ"
@@ -381,7 +401,7 @@
       "url": "https://open.spotify.com/track/2HpbDdD3JLpAPMJFYCeC6o"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "T\u00fa Me Lo Haces F\u00e1cil",
         "url": "https://open.spotify.com/album/1ogqKQ082ypVujo3UJNuv5"
@@ -397,7 +417,7 @@
       "url": "https://open.spotify.com/track/4uHDcZYy7kQxNY0IzxDy7w"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "Confiesalo",
         "url": "https://open.spotify.com/album/3CHsVnC1c174aoAlDTyIUN"
@@ -417,7 +437,7 @@
       "url": "https://open.spotify.com/track/1jtkP2Vj67mcBTXJgIOZsW"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "Antes de Ti",
         "url": "https://open.spotify.com/album/42NPk8W7iqa7VeHW3Q95Yv"
@@ -437,7 +457,7 @@
       "url": "https://open.spotify.com/track/23R68uWGdp07SwQdK8mWzI"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "OJAL\u00c1",
         "url": "https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS"
@@ -453,7 +473,7 @@
       "url": "https://open.spotify.com/track/1uGdRSOpObu3lp0jvrVREl"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "Mal Acostumbrao (con Maria Becerra)",
         "url": "https://open.spotify.com/album/1UEzLJ7ykAt3pwIznJrI8Q"
@@ -473,7 +493,7 @@
       "url": "https://open.spotify.com/track/1wcE84DVQUF16xudVFzezL"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "LA NENA DE ARGENTINA",
         "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
@@ -489,7 +509,7 @@
       "url": "https://open.spotify.com/track/0Dhks7VwA1F7baYPVEeo4S"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "LA NENA DE ARGENTINA",
         "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
@@ -505,7 +525,7 @@
       "url": "https://open.spotify.com/track/3l0sygctfWjxXitgE3WciJ"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "MAWZ",
         "url": "https://open.spotify.com/album/1SBHFu8QLBlhsqLL7WQtlR"
@@ -525,7 +545,7 @@
       "url": "https://open.spotify.com/track/4OrAAeefsDOdUSfE87C6WR"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "Wow Wow (feat. Becky G)",
         "url": "https://open.spotify.com/album/7peqMFYmRXaFJ5nXvKtA86"
@@ -545,7 +565,7 @@
       "url": "https://open.spotify.com/track/20ChN6ZWJ2yhuXcE6SKHDM"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "Qu\u00e9 M\u00e1s Pues?",
         "url": "https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK"
@@ -565,7 +585,7 @@
       "url": "https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "DISCOTEKA",
         "url": "https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs"
@@ -585,7 +605,7 @@
       "url": "https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "222",
         "url": "https://open.spotify.com/album/46LpOEusxUOW5UXN3KGRT5"
@@ -601,7 +621,7 @@
       "url": "https://open.spotify.com/track/0kwYUqaQQ2DrCPj9MjBVMJ"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/2OXeXtTp8KR8TO21LbBIWP"
@@ -621,7 +641,7 @@
       "url": "https://open.spotify.com/track/32MgTutHhEgjn25vyD2PRZ"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "Animal Pt. 1",
         "url": "https://open.spotify.com/album/4nUKyiRK7yKKrR9JslEWzR"
@@ -641,7 +661,7 @@
       "url": "https://open.spotify.com/track/0mnp9pNxEm4PF7cNOzSyhI"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "Te Espero (feat. Maria Becerra)",
         "url": "https://open.spotify.com/album/6vBJJJEUCqmzaBnzwtRgPK"
@@ -661,7 +681,7 @@
       "url": "https://open.spotify.com/track/46GsFW8AFIvi8TUDlYRlXR"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "Mi\u00e9nteme",
         "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
@@ -681,7 +701,7 @@
       "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "Dejemos Que Pase",
         "url": "https://open.spotify.com/album/0h4mMdtchTknJbUCTtxPGg"
@@ -697,7 +717,7 @@
       "url": "https://open.spotify.com/track/3YHmlAw8urWjrcXKIul216"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "Los Tragos",
         "url": "https://open.spotify.com/album/74ubg9xT4sJ4FmNxcGHIK0"
@@ -717,7 +737,7 @@
       "url": "https://open.spotify.com/track/7iXJg4IUyrWont5YSQrbKP"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "Adem\u00e1s de M\u00ed (Remix)",
         "url": "https://open.spotify.com/album/38DYAL9bTbpSQpZwENwj78"
@@ -753,7 +773,7 @@
       "url": "https://open.spotify.com/track/7I8L3vYCLThw2FDrE6LuzE"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "LA NENA DE ARGENTINA",
         "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
@@ -769,7 +789,7 @@
       "url": "https://open.spotify.com/track/7uaaAiwOEwhPKpq7R5wUbS"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "AYNEA REMIX",
         "url": "https://open.spotify.com/album/4ZUhJa5Rhqk3MNpQ6ubgkA"
@@ -793,7 +813,7 @@
       "url": "https://open.spotify.com/track/5dDxdj2MrqrYCGzqXfJycL"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "Te Necesito",
         "url": "https://open.spotify.com/album/0aTJrqOxUoEpXr4EEyX9Tx"
@@ -813,7 +833,7 @@
       "url": "https://open.spotify.com/track/1iYCHzSdZPPoyWuRAJET0l"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "Mal\u00e9fica",
         "url": "https://open.spotify.com/album/5h10dZPmIJpkbFiwrNt8AO"
@@ -833,7 +853,7 @@
       "url": "https://open.spotify.com/track/3i5cUvzBImLJTLh0koudVl"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "Berlin",
         "url": "https://open.spotify.com/album/3UoZyegj8BdpkwA2iSOwZa"
@@ -853,7 +873,7 @@
       "url": "https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "Animal Pt. 1",
         "url": "https://open.spotify.com/album/4nUKyiRK7yKKrR9JslEWzR"
@@ -869,7 +889,7 @@
       "url": "https://open.spotify.com/track/1KmLlTb8Ic1yP5ICqC5xfd"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "LA NENA DE ARGENTINA",
         "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
@@ -885,7 +905,7 @@
       "url": "https://open.spotify.com/track/5wrcN46oDwexmt9ZgpR1yA"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "Animal Pt. 1",
         "url": "https://open.spotify.com/album/4nUKyiRK7yKKrR9JslEWzR"
@@ -901,7 +921,7 @@
       "url": "https://open.spotify.com/track/6Q8vbgStr27Y2vruqLccr7"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "LA NENA DE ARGENTINA",
         "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
@@ -917,23 +937,7 @@
       "url": "https://open.spotify.com/track/3XeiA9ikmZkcH7Qro42DY7"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
-      "album": {
-        "name": "222",
-        "url": "https://open.spotify.com/album/46LpOEusxUOW5UXN3KGRT5"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 156428,
-      "name": "Nada de Amor",
-      "url": "https://open.spotify.com/track/4Bgv1pRnCORLUjJsYvsgqc"
-    },
-    {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/1O5hxcSqVLdi9mqSWG46r2"
@@ -949,7 +953,7 @@
       "url": "https://open.spotify.com/track/5TmCIYJkPI8EEhpA6nFuoB"
     },
     {
-      "added_at": "2023-12-21 18:34:22",
+      "added_at": "2024-03-05 13:24:12",
       "album": {
         "name": "Amigos (con Maria Becerra)",
         "url": "https://open.spotify.com/album/3znR1F0VbgfKsDyTeC0Nt8"

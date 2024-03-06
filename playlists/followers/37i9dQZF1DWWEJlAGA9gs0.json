@@ -1,5 +1,5 @@
 {
-  "2024-03-05": 3450131,
+  "2024-03-06": 3450939,
   "date_first_scraped": "2021-12-21",
   "description": "A selection of the greatest classical tunes; the perfect starting point for anyone who's keen to explore the world of classical music.",
   "name": "Classical Essentials",
@@ -1815,6 +1815,32 @@
       "duration_ms": 152160,
       "name": "Hungarian Dance No. 5 in G Minor, WoO 1, No. 5",
       "url": "https://open.spotify.com/track/5d6FOGCa0EDqCJSpccEh8s"
+    },
+    {
+      "album": {
+        "name": "Vivaldi: The Four Seasons",
+        "url": "https://open.spotify.com/album/1BxxmokA4eBg1EBpfYP1fC"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Joshua Bell",
+          "url": "https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        }
+      ],
+      "date_added": "2021-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204146,
+      "name": "I. Allegro non molto",
+      "url": "https://open.spotify.com/track/64ZxBE1ZgK4C0lGljXzDcG"
     },
     {
       "album": {
@@ -5929,32 +5955,6 @@
       "duration_ms": 192453,
       "name": "The Firebird (L'oiseau De Feu) - Suite (1919): Finale",
       "url": "https://open.spotify.com/track/0mTUTkFQ2MxmUHFL8EdfeR"
-    },
-    {
-      "album": {
-        "name": "Vivaldi: The Four Seasons",
-        "url": "https://open.spotify.com/album/1BxxmokA4eBg1EBpfYP1fC"
-      },
-      "artists": [
-        {
-          "name": "Antonio Vivaldi",
-          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
-        },
-        {
-          "name": "Joshua Bell",
-          "url": "https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom"
-        },
-        {
-          "name": "Academy of St. Martin in the Fields",
-          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
-        }
-      ],
-      "date_added": "2021-09-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 204146,
-      "name": "The Four Seasons - Violin Concerto in F Minor, Op. 8 No. 4, RV 297 \"Winter\": I. Allegro non molto",
-      "url": "https://open.spotify.com/track/64ZxBE1ZgK4C0lGljXzDcG"
     },
     {
       "album": {

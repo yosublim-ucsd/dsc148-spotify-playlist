@@ -4,12 +4,14 @@
 
 > Listen to the soundtracks of the Doctor Slump\. \(닥터슬럼프의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-31 songs - 1 hr 41 min
+35 songs - 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2! 3!](https://open.spotify.com/track/3KVOfGrYVjoP1w8T2HVltm) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 4:32 | 2024-02-14 |  |
 | [A Lovers’ Waltz](https://open.spotify.com/track/0Wbt5XjJjCjGRoV4AZDIPj) | [Minna Seo](https://open.spotify.com/artist/783H2R3PrEaeM1WHym8B4R) | [A Lovers’ Waltz](https://open.spotify.com/album/4kqczxhNOAsnR5V3aGzPm5) | 3:48 | 2024-02-14 |  |
+| [Actually I Love You](https://open.spotify.com/track/1UCIegzDnHhiMmjNB2BLml) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [Doctor Slump \(Original Television Soundtrack\) Pt.4](https://open.spotify.com/album/4GMSuAqkTBvijLIPSlqR67) | 3:45 | 2024-03-06 |  |
+| [Actually I Love You \- Instrumental](https://open.spotify.com/track/4g9C0jshT3Xew1RtJ66VTf) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [Doctor Slump \(Original Television Soundtrack\) Pt.4](https://open.spotify.com/album/4GMSuAqkTBvijLIPSlqR67) | 3:45 | 2024-03-06 |  |
 | [Curated by Kong Seong Ha](https://open.spotify.com/track/2ru62C0tJ7LfORpJoEiT8k) | [Doctor Slump](https://open.spotify.com/artist/2OWDvWVKxxRKuAz0gcVnbu) | [Doctor Slump audio liners](https://open.spotify.com/album/2qRLLwRZCfMYKMxdGZCa6b) | 0:30 | 2024-02-15 |  |
 | [Curated by Park Hyung Sik](https://open.spotify.com/track/1lehXiBvBRomkGJClvrwfq) | [Doctor Slump](https://open.spotify.com/artist/2OWDvWVKxxRKuAz0gcVnbu) | [Doctor Slump audio liners](https://open.spotify.com/album/2qRLLwRZCfMYKMxdGZCa6b) | 0:35 | 2024-02-15 |  |
 | [Curated by Park Shin Hye](https://open.spotify.com/track/2D0uoFs1nxtiCr4FCcWx7Z) | [Doctor Slump](https://open.spotify.com/artist/2OWDvWVKxxRKuAz0gcVnbu) | [Doctor Slump audio liners](https://open.spotify.com/album/2qRLLwRZCfMYKMxdGZCa6b) | 0:30 | 2024-02-15 |  |
@@ -22,6 +24,8 @@
 | [Hero](https://open.spotify.com/track/47UgaY4CRz8PyzJ6KtBm82) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [Hero](https://open.spotify.com/album/2qeoNeByTFBqLT4meBSDBM) | 2:30 | 2024-02-14 |  |
 | [In my memory](https://open.spotify.com/track/0f1dv8Dp9wZGkiYgkjIJnj) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [Doctor Slump \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/1QPcuxHhaeIhTt7PyWyTIv) | 3:25 | 2024-02-14 |  |
 | [In my memory \- Instrumental](https://open.spotify.com/track/3KBuMPfRmlcmH9kuDF7GBy) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [Doctor Slump \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/1QPcuxHhaeIhTt7PyWyTIv) | 3:25 | 2024-02-14 |  |
+| [Love Is](https://open.spotify.com/track/1mG2ZNQ3RuJj1n7wREhKch) | [DAYOUNG](https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz), [EDEN](https://open.spotify.com/artist/4UtBjGLzX5BI0uktlyEWu9) | [Doctor Slump \(Original Television Soundtrack\) Pt.5](https://open.spotify.com/album/3qXqCqUZNEumobtfNL3Wcv) | 3:11 | 2024-03-06 |  |
+| [Love Is \- Instrumental](https://open.spotify.com/track/1R26aJgKuk04fVmqe6YCXG) | [DAYOUNG](https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz), [EDEN](https://open.spotify.com/artist/4UtBjGLzX5BI0uktlyEWu9) | [Doctor Slump \(Original Television Soundtrack\) Pt.5](https://open.spotify.com/album/3qXqCqUZNEumobtfNL3Wcv) | 3:11 | 2024-03-06 |  |
 | [New Day](https://open.spotify.com/track/3TFGNIZDnYtX1biTkWvj9M) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Maum, Part\. 1](https://open.spotify.com/album/2qfIkB00pLxeS1KiOwpuVn) | 4:02 | 2024-02-15 |  |
 | [New Day](https://open.spotify.com/track/78FwF2MisGmnjbMydmntr8) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Maum, Part\. 1](https://open.spotify.com/album/2fyme9eWWyC0i5QKz586DV) | 4:02 | 2024-02-14 | 2024-03-02 |
 | [NO WHERE, NOW HERE](https://open.spotify.com/track/28l1FPRsb1TcvotgqZjbAL) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [NO WHERE, NOW HERE](https://open.spotify.com/album/4EPsnYqqFuaOX4NLypy8gR) | 4:00 | 2024-02-14 |  |

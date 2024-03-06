@@ -1,12 +1,12 @@
 {
   "description": "music from the underworld",
-  "num_followers": 348363,
+  "num_followers": 350006,
   "original_name": "hexxed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYWRiMmY4ZTNjNWM0MGY1NzRiZDc3MGYyMjY1OGM2YTczMGFjNjk4",
+  "snapshot_id": "MCw5ZDljZGI4MThkMjYwYzk3MGM0YmUyYTRlM2Y3ZDI5YjQ3ZDkwODUw",
   "tracks": [
     {
       "added_at": "2024-02-21 14:57:30",
@@ -61,6 +61,22 @@
       "url": "https://open.spotify.com/track/2efqgrEC6lsx3KTy1yhllR"
     },
     {
+      "added_at": "2024-03-05 18:42:51",
+      "album": {
+        "name": "Faster n Harder",
+        "url": "https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W"
+      },
+      "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "Faster n Harder",
+      "url": "https://open.spotify.com/track/3qaMprRWLGggArD14diXYz"
+    },
+    {
       "added_at": "2024-01-12 05:00:00",
       "album": {
         "name": "Fluxxwave",
@@ -113,22 +129,6 @@
       "url": "https://open.spotify.com/track/3j9Ivwkg9sYcaR9mlnjsAX"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Parking Lot",
-        "url": "https://open.spotify.com/album/4HsSjx4IFp6iYWymdauN3E"
-      },
-      "artists": [
-        {
-          "name": "6arelyhuman",
-          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
-        }
-      ],
-      "duration_ms": 124074,
-      "name": "Parking Lot",
-      "url": "https://open.spotify.com/track/525wrNQ7CY1KmtAFz2wVo6"
-    },
-    {
       "added_at": "2024-01-12 05:00:00",
       "album": {
         "name": "SHAKE THAT SHIT!",
@@ -151,6 +151,46 @@
       "duration_ms": 155028,
       "name": "SHAKE THAT SHIT!",
       "url": "https://open.spotify.com/track/0zPlzJewGJ8iIxia2bEWDN"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Ketamine Girl",
+        "url": "https://open.spotify.com/album/6MW6qxThKOfnRVqFkxK0H2"
+      },
+      "artists": [
+        {
+          "name": "akiaura",
+          "url": "https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc"
+        },
+        {
+          "name": "LONOWN",
+          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
+        },
+        {
+          "name": "STM",
+          "url": "https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Sleepwalker",
+      "url": "https://open.spotify.com/track/1IPHnu3hVkawJMzkP97tcm"
+    },
+    {
+      "added_at": "2024-03-05 18:42:51",
+      "album": {
+        "name": "Suffocation (Slowed)",
+        "url": "https://open.spotify.com/album/7wblFnt47oJLJXxNJrIb3e"
+      },
+      "artists": [
+        {
+          "name": "noturgf",
+          "url": "https://open.spotify.com/artist/32ENZVmItiETXMCYfM1bbS"
+        }
+      ],
+      "duration_ms": 64842,
+      "name": "Suffocation - Slowed",
+      "url": "https://open.spotify.com/track/15uq77MdhAjrnBuumngIsz"
     },
     {
       "added_at": "2024-02-13 14:24:02",
@@ -193,24 +233,20 @@
       "url": "https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-05 18:42:51",
       "album": {
-        "name": "Rock Your Body",
-        "url": "https://open.spotify.com/album/1bL31qYzTMyihNFR91mgFt"
+        "name": "Die Sterne",
+        "url": "https://open.spotify.com/album/5MWl80M1azmxFDfUyxVYEy"
       },
       "artists": [
         {
-          "name": "kets4eki",
-          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
-        },
-        {
-          "name": "Ayesha Erotica",
-          "url": "https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco"
+          "name": "Edwin Rosen",
+          "url": "https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J"
         }
       ],
-      "duration_ms": 133361,
-      "name": "Rock Your Body",
-      "url": "https://open.spotify.com/track/1LKk576aw3RM47MNytUtrD"
+      "duration_ms": 88000,
+      "name": "Die Sterne",
+      "url": "https://open.spotify.com/track/6baLPwIPJ26kB37mp5bHad"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -311,6 +347,26 @@
       "duration_ms": 82008,
       "name": "LOOKIN FOR YA",
       "url": "https://open.spotify.com/track/2dcdT5V0ZdxMABFjlWRnuJ"
+    },
+    {
+      "added_at": "2024-03-05 18:42:51",
+      "album": {
+        "name": "Sapphire",
+        "url": "https://open.spotify.com/album/1hJGyISdlrBHHv0YBSe1Ug"
+      },
+      "artists": [
+        {
+          "name": "juhvahn",
+          "url": "https://open.spotify.com/artist/4IfApBEW6RQ9uogE7cuZnJ"
+        },
+        {
+          "name": "Perpetualll",
+          "url": "https://open.spotify.com/artist/18vd25otIXXeNS0BHiCHRB"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Sapphire",
+      "url": "https://open.spotify.com/track/1zjM0yzhtbRRwj5rD897fY"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -509,30 +565,6 @@
       "url": "https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "bad girl",
-        "url": "https://open.spotify.com/album/7gjKf8shZ7Gi9gkfZQBqpV"
-      },
-      "artists": [
-        {
-          "name": "2504",
-          "url": "https://open.spotify.com/artist/3s6Gdmnv9MuQNX2E7i5EMr"
-        },
-        {
-          "name": "Lil Witchy",
-          "url": "https://open.spotify.com/artist/4RU6oKpc672Nq8J2E50X6h"
-        },
-        {
-          "name": "Pr0xy",
-          "url": "https://open.spotify.com/artist/3PmktxhWPrnvZ9dW9EWMcM"
-        }
-      ],
-      "duration_ms": 110586,
-      "name": "bad girl",
-      "url": "https://open.spotify.com/track/5jLCmNyW6jnEQ8a3RUPR5u"
-    },
-    {
       "added_at": "2024-01-12 05:00:00",
       "album": {
         "name": "DOOR TO DUSK",
@@ -619,30 +651,6 @@
       "duration_ms": 144535,
       "name": "masquerade",
       "url": "https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Ketamine Girl",
-        "url": "https://open.spotify.com/album/6MW6qxThKOfnRVqFkxK0H2"
-      },
-      "artists": [
-        {
-          "name": "akiaura",
-          "url": "https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc"
-        },
-        {
-          "name": "LONOWN",
-          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
-        },
-        {
-          "name": "STM",
-          "url": "https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Sleepwalker",
-      "url": "https://open.spotify.com/track/1IPHnu3hVkawJMzkP97tcm"
     },
     {
       "added_at": "2024-01-12 05:00:00",

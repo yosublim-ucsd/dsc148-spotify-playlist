@@ -1,5 +1,5 @@
 {
-  "2024-03-05": 7953,
+  "2024-03-06": 8004,
   "date_first_scraped": "2023-05-19",
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sai Abhyankar",
   "name": "RADAR Tamil",
@@ -1647,6 +1647,24 @@
       "duration_ms": 181695,
       "name": "Kadhal Raasee",
       "url": "https://open.spotify.com/track/4haNuRPEFpfolOmtO0YQvQ"
+    },
+    {
+      "album": {
+        "name": "Kadhal Reggae",
+        "url": "https://open.spotify.com/album/1JbxLCEDE5N3j7iqhU9Ia8"
+      },
+      "artists": [
+        {
+          "name": "Vijay Paul",
+          "url": "https://open.spotify.com/artist/1UejoJ7qg2WChIRQ73F9Po"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207066,
+      "name": "Kadhal Reggae",
+      "url": "https://open.spotify.com/track/2yTPFfNzPvI7HSSak5QJYe"
     },
     {
       "album": {
@@ -3709,7 +3727,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 132204,
       "name": "SAALAIYIL MEGANGAL",
       "url": "https://open.spotify.com/track/3HdlHwNLuOGzuKhJZxj56t"

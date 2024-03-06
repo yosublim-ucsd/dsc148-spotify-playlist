@@ -1197,6 +1197,36 @@
     },
     {
       "album": {
+        "name": "Brahms & Busoni Violin Concertos",
+        "url": "https://open.spotify.com/album/192CqdyyKrnFuO8U3E0nYZ"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Francesca Dego",
+          "url": "https://open.spotify.com/artist/3yb6cUrMO05D2GrrUW8lde"
+        },
+        {
+          "name": "BBC Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/23BiSNXm5UaRFuusoWisYO"
+        },
+        {
+          "name": "Dalia Stasevska",
+          "url": "https://open.spotify.com/artist/12EHoI6DNDCus6Vte4WopP"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 521000,
+      "name": "Concerto in D Major, Op. 77: II. Adagio",
+      "url": "https://open.spotify.com/track/0HVX7Itc5H4CnOZP8683Km"
+    },
+    {
+      "album": {
         "name": "Confesi\u00f3n (From \"A Cielo Abierto\" Soundtrack)",
         "url": "https://open.spotify.com/album/4Ao1IzLNfYnh9so8pC8jQ1"
       },
@@ -1552,7 +1582,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 189940,
       "name": "Fallen Flowers",
       "url": "https://open.spotify.com/track/2s1BdIrvl9YRJbjQHBNxrK"

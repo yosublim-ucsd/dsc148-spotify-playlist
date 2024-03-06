@@ -1,12 +1,12 @@
 {
   "description": "la nueva ola de artistas con Nsqk en portada. \ud83c\udf0a\u2728 ",
-  "num_followers": 79366,
+  "num_followers": 79385,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWM3OTQxMjkyNjJjNzFiYmEzODM5NGU3MjAwMDE4NmRmZDNmNDAx",
+  "snapshot_id": "MCwyMWUwODY4ODlhYWNmMzc2N2EwYjJmMWM3YjNlMTNhODFiMWZhOWQw",
   "tracks": [
     {
       "added_at": "2024-02-23 21:22:07",
@@ -595,6 +595,22 @@
     {
       "added_at": "2024-02-23 21:22:07",
       "album": {
+        "name": "Rosa Pastel",
+        "url": "https://open.spotify.com/album/3iwukaTIs0irnTqui1vtnk"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 176140,
+      "name": "Rosa Pastel",
+      "url": "https://open.spotify.com/track/5JAQUTIpKkbccoFiJlYrV0"
+    },
+    {
+      "added_at": "2024-02-23 21:22:07",
+      "album": {
         "name": "El Morro Que Hace M\u00fasica",
         "url": "https://open.spotify.com/album/4RoRb3XF1ibgFcrbNeI3h3"
       },
@@ -631,26 +647,6 @@
     {
       "added_at": "2024-02-23 21:22:07",
       "album": {
-        "name": "El Cable",
-        "url": "https://open.spotify.com/album/0sxMSSA5KNAIpwGN1UJI3j"
-      },
-      "artists": [
-        {
-          "name": "Besmaya",
-          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
-        },
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 177736,
-      "name": "El Cable",
-      "url": "https://open.spotify.com/track/1UZQtIbMg0jxgiulIadYpU"
-    },
-    {
-      "added_at": "2024-02-23 21:22:07",
-      "album": {
         "name": "Me Caga Tu Novia",
         "url": "https://open.spotify.com/album/2uPxcGS41IV2ZH9ie4JWov"
       },
@@ -683,18 +679,22 @@
     {
       "added_at": "2024-02-23 21:22:07",
       "album": {
-        "name": "Rosa Pastel",
-        "url": "https://open.spotify.com/album/3iwukaTIs0irnTqui1vtnk"
+        "name": "El Cable",
+        "url": "https://open.spotify.com/album/0sxMSSA5KNAIpwGN1UJI3j"
       },
       "artists": [
         {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+          "name": "Besmaya",
+          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
+        },
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
         }
       ],
-      "duration_ms": 176140,
-      "name": "Rosa Pastel",
-      "url": "https://open.spotify.com/track/5JAQUTIpKkbccoFiJlYrV0"
+      "duration_ms": 177736,
+      "name": "El Cable",
+      "url": "https://open.spotify.com/track/1UZQtIbMg0jxgiulIadYpU"
     },
     {
       "added_at": "2024-02-23 21:22:07",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-02-23 21:22:07",
       "album": {
-        "name": "M\u00e1s Normal De L... N... (67%)",
-        "url": "https://open.spotify.com/album/6FUgY90LThOhYSrPTZHyqo"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 153904,
-      "name": "\u00bfQu\u00e9 Me Dices?",
-      "url": "https://open.spotify.com/track/62xluQXvbzXCypORfjTU3X"
-    },
-    {
-      "added_at": "2024-02-23 21:22:07",
-      "album": {
         "name": "\u00bfC\u00f3mo decir adi\u00f3s?",
         "url": "https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 156610,
       "name": "Atardeci\u00f3 sin vos",
       "url": "https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF"
+    },
+    {
+      "added_at": "2024-02-23 21:22:07",
+      "album": {
+        "name": "M\u00e1s Normal De L... N... (67%)",
+        "url": "https://open.spotify.com/album/6FUgY90LThOhYSrPTZHyqo"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 153904,
+      "name": "\u00bfQu\u00e9 Me Dices?",
+      "url": "https://open.spotify.com/track/62xluQXvbzXCypORfjTU3X"
     },
     {
       "added_at": "2024-02-23 21:22:07",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-02-23 21:22:07",
       "album": {
+        "name": "de mi cabeza no te vas",
+        "url": "https://open.spotify.com/album/3Bd7h0ZmlnZvnWH0KFId8e"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 151011,
+      "name": "de mi cabeza no te vas",
+      "url": "https://open.spotify.com/track/1NTp6BrV2SDx6fuL5v67L0"
+    },
+    {
+      "added_at": "2024-02-23 21:22:07",
+      "album": {
         "name": "Pr\u00f3ximo Diciembre",
         "url": "https://open.spotify.com/album/009pkQIFctOi2Js6ipx6T1"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 224000,
       "name": "Pr\u00f3ximo Diciembre",
       "url": "https://open.spotify.com/track/0UYS2UvtAXi0oygPGA0Wmq"
-    },
-    {
-      "added_at": "2024-02-23 21:22:07",
-      "album": {
-        "name": "de mi cabeza no te vas",
-        "url": "https://open.spotify.com/album/3Bd7h0ZmlnZvnWH0KFId8e"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 151011,
-      "name": "de mi cabeza no te vas",
-      "url": "https://open.spotify.com/track/1NTp6BrV2SDx6fuL5v67L0"
     },
     {
       "added_at": "2024-02-23 21:22:07",
@@ -983,18 +983,18 @@
     {
       "added_at": "2024-02-23 21:22:07",
       "album": {
-        "name": "Linda",
-        "url": "https://open.spotify.com/album/0d6X2ScN5dJVEmQSNlZHVx"
+        "name": "hoy no me encuentro para nadie",
+        "url": "https://open.spotify.com/album/7xyX3t55ZvkJMCOa8fofhw"
       },
       "artists": [
         {
-          "name": "Alan Wittels",
-          "url": "https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g"
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
         }
       ],
-      "duration_ms": 141613,
-      "name": "Linda",
-      "url": "https://open.spotify.com/track/48t9xmVgtxXlfEPoKvD4rP"
+      "duration_ms": 164540,
+      "name": "hoy no me encuentro para nadie",
+      "url": "https://open.spotify.com/track/0TN8m2EibHpzRTTGXvw69R"
     },
     {
       "added_at": "2024-02-23 21:22:07",
@@ -1019,34 +1019,18 @@
     {
       "added_at": "2024-02-23 21:22:07",
       "album": {
-        "name": "hoy no me encuentro para nadie",
-        "url": "https://open.spotify.com/album/7xyX3t55ZvkJMCOa8fofhw"
+        "name": "Linda",
+        "url": "https://open.spotify.com/album/0d6X2ScN5dJVEmQSNlZHVx"
       },
       "artists": [
         {
-          "name": "Caztro",
-          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+          "name": "Alan Wittels",
+          "url": "https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g"
         }
       ],
-      "duration_ms": 164540,
-      "name": "hoy no me encuentro para nadie",
-      "url": "https://open.spotify.com/track/0TN8m2EibHpzRTTGXvw69R"
-    },
-    {
-      "added_at": "2024-02-23 21:22:07",
-      "album": {
-        "name": "contigo me siento en casa",
-        "url": "https://open.spotify.com/album/0UcsGDfM2xlhqiaqwgx6tq"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 171725,
-      "name": "contigo me siento en casa",
-      "url": "https://open.spotify.com/track/3Nujq5ZOCPUDagujhUMIrv"
+      "duration_ms": 141613,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/48t9xmVgtxXlfEPoKvD4rP"
     },
     {
       "added_at": "2024-02-23 21:22:07",
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2024-02-23 21:22:07",
       "album": {
+        "name": "contigo me siento en casa",
+        "url": "https://open.spotify.com/album/0UcsGDfM2xlhqiaqwgx6tq"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 171725,
+      "name": "contigo me siento en casa",
+      "url": "https://open.spotify.com/track/3Nujq5ZOCPUDagujhUMIrv"
+    },
+    {
+      "added_at": "2024-02-23 21:22:07",
+      "album": {
         "name": "Tengo Que Hacer Esto Por M\u00ed",
         "url": "https://open.spotify.com/album/6IKEQRgjgX2bgNa8eeCDUg"
       },
@@ -1079,22 +1079,6 @@
       "duration_ms": 150347,
       "name": "Tengo Que Hacer Esto Por Mi",
       "url": "https://open.spotify.com/track/02OUZnvRW1EChAL8EyPHWj"
-    },
-    {
-      "added_at": "2024-02-23 21:22:07",
-      "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 188560,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
     },
     {
       "added_at": "2024-02-23 21:22:07",
@@ -1115,6 +1099,22 @@
       "duration_ms": 156448,
       "name": "AHORA O NUNCA",
       "url": "https://open.spotify.com/track/1XYiRky7xG3HRAks3edgco"
+    },
+    {
+      "added_at": "2024-02-23 21:22:07",
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 188560,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
     },
     {
       "added_at": "2024-02-23 21:22:07",
@@ -1151,38 +1151,6 @@
       "duration_ms": 159765,
       "name": "cartulinas de colores",
       "url": "https://open.spotify.com/track/2wEfLzvEWrSWmi63CeNDSO"
-    },
-    {
-      "added_at": "2024-02-23 21:22:07",
-      "album": {
-        "name": "todo pasa",
-        "url": "https://open.spotify.com/album/6i2mon8JnyWaNIFXzg4AjE"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 214790,
-      "name": "todo pasa",
-      "url": "https://open.spotify.com/track/2z8zcvzuYWU5aFtUEwq2W4"
-    },
-    {
-      "added_at": "2024-02-23 21:22:07",
-      "album": {
-        "name": "Ya No Es Lo Mismo",
-        "url": "https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "Ya No Es Lo Mismo",
-      "url": "https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC"
     },
     {
       "added_at": "2024-02-23 21:22:07",
@@ -1231,6 +1199,38 @@
       "duration_ms": 190000,
       "name": "odiarte",
       "url": "https://open.spotify.com/track/7ljgbvaKZi1W4rhXWMfsxU"
+    },
+    {
+      "added_at": "2024-02-23 21:22:07",
+      "album": {
+        "name": "todo pasa",
+        "url": "https://open.spotify.com/album/6i2mon8JnyWaNIFXzg4AjE"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 214790,
+      "name": "todo pasa",
+      "url": "https://open.spotify.com/track/2z8zcvzuYWU5aFtUEwq2W4"
+    },
+    {
+      "added_at": "2024-02-23 21:22:07",
+      "album": {
+        "name": "Ya No Es Lo Mismo",
+        "url": "https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Ya No Es Lo Mismo",
+      "url": "https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC"
     },
     {
       "added_at": "2024-02-23 21:22:07",

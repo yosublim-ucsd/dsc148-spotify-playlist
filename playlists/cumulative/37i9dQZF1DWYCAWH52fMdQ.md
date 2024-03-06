@@ -4,7 +4,7 @@
 
 > Get Ready! Show Time!
 
-78 songs - 4 hr 13 min
+80 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [GOODBYE ROAD](https://open.spotify.com/track/0Oa0m93JdO4xKEMz8T2UZk) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS REPACKAGE : THE NEW KIDS](https://open.spotify.com/album/6RZYa7F18bu7mmeT8qxWqh) | 3:59 | 2022-05-12 |  |
 | [GOODBYE ROAD](https://open.spotify.com/track/6EEhSHno7caAnQZqRhRePW) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS REPACKAGE : THE NEW KIDS](https://open.spotify.com/album/2e2VfakLM318HT1VaJsKq2) | 3:59 | 2022-05-12 | 2022-07-29 |
 | [GOrGeOuS](https://open.spotify.com/track/5hs5J3f6lH9v286otiDBeS) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [LUCKY MAN](https://open.spotify.com/album/2dY5DQcOw6DiVpmbDNRm5e) | 3:21 | 2022-05-12 |  |
+| [harmless \(Feat\. CHANMINA\)](https://open.spotify.com/track/7cvtsCXaLRyBmDgrtDCfxa) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Sir.Robert](https://open.spotify.com/album/528Gdwx8VgE1UucUW8OcuE) | 3:03 | 2024-03-05 |  |
 | [Holding On](https://open.spotify.com/track/2rN22VtpXTI1qcnrPVm3pO) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [i DECIDE](https://open.spotify.com/album/2UUuQ8lbbd04xl42Qt6Zy3) | 3:02 | 2022-05-12 |  |
 | [HUG ME](https://open.spotify.com/track/2VQft8Vi4mZwvlKfoVAkMG) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS REPACKAGE : THE NEW KIDS](https://open.spotify.com/album/2e2VfakLM318HT1VaJsKq2) | 3:36 | 2022-05-12 | 2022-07-29 |
 | [HUG ME](https://open.spotify.com/track/4lhcOa69hv4J74sGtPeglB) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Return](https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb) | 3:36 | 2022-05-12 |  |
@@ -64,6 +65,7 @@
 | [LOVE SCENARIO](https://open.spotify.com/track/25aawb25AiIdfj5ctvr3Do) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS REPACKAGE : THE NEW KIDS](https://open.spotify.com/album/2e2VfakLM318HT1VaJsKq2) | 3:29 | 2022-05-12 | 2022-07-29 |
 | [LOVE SCENARIO](https://open.spotify.com/track/3bUw9o4pis3Z5rOeJZJgDS) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS REPACKAGE : THE NEW KIDS](https://open.spotify.com/album/6RZYa7F18bu7mmeT8qxWqh) | 3:29 | 2022-05-12 | 2022-11-14 |
 | [LOVE SCENARIO](https://open.spotify.com/track/3d3ELsqKlQ7WA0a10Isu3l) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Return](https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb) | 3:29 | 2022-05-12 |  |
+| [LTNS](https://open.spotify.com/track/5C1Ik1Np1IimNQlP0Hma01) | [DK](https://open.spotify.com/artist/5kS21D4GeBHLdpvPSaK9RF) | [NAKSEO\[戀\]](https://open.spotify.com/album/4DBUFR0WJfzunHu0u316T5) | 3:42 | 2024-03-05 |  |
 | [Message from BOBBY](https://open.spotify.com/track/1yrvLVj5LSTCf9iR4sBFBF) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Quick Message from iKON](https://open.spotify.com/album/3Qs0xgKSup83mZYEu4zMkx) | 0:13 | 2022-05-12 |  |
 | [Message from CHAN](https://open.spotify.com/track/3sfnKufxx2X4qPrwMSOEKL) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Quick Message from iKON](https://open.spotify.com/album/3Qs0xgKSup83mZYEu4zMkx) | 0:15 | 2022-05-12 |  |
 | [Message from DK](https://open.spotify.com/track/3EY0u3x9YTBsk7j1W2zDHW) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Quick Message from iKON](https://open.spotify.com/album/3Qs0xgKSup83mZYEu4zMkx) | 0:12 | 2022-05-12 |  |

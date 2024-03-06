@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 193449,
       "name": "3 AM",
       "url": "https://open.spotify.com/track/5uyUokRn9ryuEJ7hczuAcg"
@@ -1084,6 +1084,24 @@
       "duration_ms": 165286,
       "name": "Inestable",
       "url": "https://open.spotify.com/track/0LNP7ifJkxGeEvP6sFchy5"
+    },
+    {
+      "album": {
+        "name": "La Terrible Pulenta",
+        "url": "https://open.spotify.com/album/0RildIXfukQ6fFuNtkpgX4"
+      },
+      "artists": [
+        {
+          "name": "La Combo Tortuga",
+          "url": "https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255813,
+      "name": "Jefe",
+      "url": "https://open.spotify.com/track/61QmcWQJXScVoXCdyiqp8L"
     },
     {
       "album": {

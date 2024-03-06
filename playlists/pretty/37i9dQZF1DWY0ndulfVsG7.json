@@ -1,12 +1,12 @@
 {
   "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Geisha",
-  "num_followers": 51352,
+  "num_followers": 51402,
   "original_name": "Jiran Akrab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzM4NjNhODQ0NTdlYzhiMWE2ZmQ2YzM0ZTE5YjlmN2Q5ZGY5NTQx",
+  "snapshot_id": "MCxlNmIwZmRkM2MxNjYwYzAyY2ZhNGVkMThjMDkxZTI1Y2UxMzlhMDI3",
   "tracks": [
     {
       "added_at": "2024-01-12 06:34:07",
@@ -299,22 +299,18 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
-        "name": "Aku Cinta Kau Dan Dia",
-        "url": "https://open.spotify.com/album/2gajnKEtcWmFQ03Al5qvpF"
+        "name": "Kekasih Bayangan",
+        "url": "https://open.spotify.com/album/0rFXD2kEean8BJDo94teEQ"
       },
       "artists": [
         {
-          "name": "MALIQ & D'Essentials",
-          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
-        },
-        {
-          "name": "Dewa 19",
-          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
+          "name": "Cakra Khan",
+          "url": "https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps"
         }
       ],
-      "duration_ms": 283214,
-      "name": "Aku Cinta Kau Dan Dia",
-      "url": "https://open.spotify.com/track/3PHc0M7QXIwPUDnZ9dBVCu"
+      "duration_ms": 283142,
+      "name": "Kekasih Bayangan",
+      "url": "https://open.spotify.com/track/3BErcieh7kIQIMq64vEbCY"
     },
     {
       "added_at": "2024-01-12 06:34:07",
@@ -367,18 +363,22 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
-        "name": "Kekasih Bayangan",
-        "url": "https://open.spotify.com/album/0rFXD2kEean8BJDo94teEQ"
+        "name": "Aku Cinta Kau Dan Dia",
+        "url": "https://open.spotify.com/album/2gajnKEtcWmFQ03Al5qvpF"
       },
       "artists": [
         {
-          "name": "Cakra Khan",
-          "url": "https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps"
+          "name": "MALIQ & D'Essentials",
+          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
+        },
+        {
+          "name": "Dewa 19",
+          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
         }
       ],
-      "duration_ms": 283142,
-      "name": "Kekasih Bayangan",
-      "url": "https://open.spotify.com/track/3BErcieh7kIQIMq64vEbCY"
+      "duration_ms": 283214,
+      "name": "Aku Cinta Kau Dan Dia",
+      "url": "https://open.spotify.com/track/3PHc0M7QXIwPUDnZ9dBVCu"
     },
     {
       "added_at": "2024-01-12 06:34:07",
@@ -499,18 +499,18 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
+        "name": "Satu Hati Sejuta Cinta",
+        "url": "https://open.spotify.com/album/78rrGhb8kb4g0P8ewToKIo"
       },
       "artists": [
         {
-          "name": "Irwansyah",
-          "url": "https://open.spotify.com/artist/6OZRp5SJfh9kZts1SyIMOa"
+          "name": "Armada",
+          "url": "https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf"
         }
       ],
-      "duration_ms": 253133,
-      "name": "Pencinta Wanita",
-      "url": "https://open.spotify.com/track/0sMclGmddV8xeqBgI2k2yB"
+      "duration_ms": 239506,
+      "name": "Mabuk Cinta",
+      "url": "https://open.spotify.com/track/7gWcfdZVM1uunqG6trmQVG"
     },
     {
       "added_at": "2024-01-12 06:34:07",
@@ -531,18 +531,18 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
-        "name": "Satu Hati Sejuta Cinta",
-        "url": "https://open.spotify.com/album/78rrGhb8kb4g0P8ewToKIo"
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
       },
       "artists": [
         {
-          "name": "Armada",
-          "url": "https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf"
+          "name": "Irwansyah",
+          "url": "https://open.spotify.com/artist/6OZRp5SJfh9kZts1SyIMOa"
         }
       ],
-      "duration_ms": 239506,
-      "name": "Mabuk Cinta",
-      "url": "https://open.spotify.com/track/7gWcfdZVM1uunqG6trmQVG"
+      "duration_ms": 253133,
+      "name": "Pencinta Wanita",
+      "url": "https://open.spotify.com/track/0sMclGmddV8xeqBgI2k2yB"
     },
     {
       "added_at": "2024-01-12 06:34:07",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
-        "name": "Once",
-        "url": "https://open.spotify.com/album/6681ZUPUgHIFoTQjgZ7blI"
-      },
-      "artists": [
-        {
-          "name": "Once Mekel",
-          "url": "https://open.spotify.com/artist/57rIw0vk3eEuJlVblR4CrE"
-        }
-      ],
-      "duration_ms": 264853,
-      "name": "Dealova",
-      "url": "https://open.spotify.com/track/4Eybcl06frChLYoXm0sxJi"
-    },
-    {
-      "added_at": "2024-01-12 06:34:07",
-      "album": {
         "name": "1st (Special Edition)",
         "url": "https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK"
       },
@@ -727,6 +711,22 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
+        "name": "Once",
+        "url": "https://open.spotify.com/album/6681ZUPUgHIFoTQjgZ7blI"
+      },
+      "artists": [
+        {
+          "name": "Once Mekel",
+          "url": "https://open.spotify.com/artist/57rIw0vk3eEuJlVblR4CrE"
+        }
+      ],
+      "duration_ms": 264853,
+      "name": "Dealova",
+      "url": "https://open.spotify.com/track/4Eybcl06frChLYoXm0sxJi"
+    },
+    {
+      "added_at": "2024-01-12 06:34:07",
+      "album": {
         "name": "Love, Life & Music",
         "url": "https://open.spotify.com/album/427i70YCWKnkDAvvHjsxMp"
       },
@@ -743,22 +743,6 @@
       "duration_ms": 254013,
       "name": "Kamu Yang Kutunggu",
       "url": "https://open.spotify.com/track/6RxfiwKHEUCWSR7vRE4b5g"
-    },
-    {
-      "added_at": "2024-01-12 06:34:07",
-      "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
-      },
-      "artists": [
-        {
-          "name": "Irwansyah",
-          "url": "https://open.spotify.com/artist/6OZRp5SJfh9kZts1SyIMOa"
-        }
-      ],
-      "duration_ms": 235253,
-      "name": "Perempuanku",
-      "url": "https://open.spotify.com/track/7LPM7izo6bPUrvnI9EJ4em"
     },
     {
       "added_at": "2024-01-12 06:34:07",
@@ -791,6 +775,22 @@
       "duration_ms": 288813,
       "name": "Seperti Yang Kau Minta",
       "url": "https://open.spotify.com/track/0mkeFWinFvxpfZ9tr0RQ7k"
+    },
+    {
+      "added_at": "2024-01-12 06:34:07",
+      "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
+      },
+      "artists": [
+        {
+          "name": "Irwansyah",
+          "url": "https://open.spotify.com/artist/6OZRp5SJfh9kZts1SyIMOa"
+        }
+      ],
+      "duration_ms": 235253,
+      "name": "Perempuanku",
+      "url": "https://open.spotify.com/track/7LPM7izo6bPUrvnI9EJ4em"
     },
     {
       "added_at": "2024-01-12 06:34:07",

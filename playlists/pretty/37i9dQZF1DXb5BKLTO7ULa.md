@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Joost
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,396 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,411 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [alone](https://open.spotify.com/track/6wpOHVSrinXhKqF4EBbpuS) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [alone](https://open.spotify.com/album/29sXbgWHLAjGcshP5zHCpW) | 2:52 |
 | 100 | [DEKY](https://open.spotify.com/track/0Np68D600re65N0BavKeSX) | [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q) | [DEKY](https://open.spotify.com/album/2VwKL57BpBwbcEoNNNFPkU) | 3:21 |
 
-Snapshot ID: `MCxlZWVhNzU3OTk4ZGUzMzM1MTBmOWE0NmM2MTdiNTFkZGI4MzVhMDJl`
+Snapshot ID: `MCw1MzRhNzBmNTI0ZmU2YjkxNDYwMGJhMGNkNDJiNzg5OWZmNjE1Nzlm`

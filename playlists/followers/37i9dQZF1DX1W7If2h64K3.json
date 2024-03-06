@@ -1,5 +1,5 @@
 {
-  "2024-03-05": 46911,
+  "2024-03-06": 46925,
   "date_first_scraped": "2021-12-21",
   "description": "Discover the music of Schumann.",
   "name": "This Is Schumann",
@@ -2109,6 +2109,10 @@
         {
           "name": "Christian Zacharias",
           "url": "https://open.spotify.com/artist/7euAAWjiEIEo1a2XkkR7wZ"
+        },
+        {
+          "name": "Cherubini-Quartett",
+          "url": "https://open.spotify.com/artist/6EPNMsR0Cs0DXIvwHWXyq3"
         }
       ],
       "date_added": "2022-06-27",

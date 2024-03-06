@@ -4,7 +4,7 @@
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-125 songs - 8 hr 24 min
+126 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,8 +97,9 @@
 | [Otra vez me equivoqué](https://open.spotify.com/track/68fz1ipIJt51gEEZY9Y0eP) | [Dúo Hnos\. Gaitán Castro](https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ) | [Amor, amor](https://open.spotify.com/album/6Cu6M7FESzzGeFLtyMz5Zh) | 3:17 | 2022-02-04 |  |
 | [Otra vez me equivoqué](https://open.spotify.com/track/6WATTVi4gRkxzavGw2YZtq) | [Dúo Hnos\. Gaitán Castro](https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ) | [Amor, amor](https://open.spotify.com/album/216kCpjiFeKDOBJgdGgbSn) | 3:17 | 2022-02-04 | 2023-03-10 |
 | [Otra Vez me Equivoqué](https://open.spotify.com/track/6uwh5CgZBQzCYXYyUFaNws) | [Dúo Hnos\. Gaitán Castro](https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ) | [Amor amor](https://open.spotify.com/album/2tcYDcehVM8jK5KLUJKiEG) | 3:17 | 2022-02-04 | 2022-11-06 |
-| [Para Ti Pucarinita](https://open.spotify.com/track/4aoxRYIWNE4uLg5VKa23I8) | [Eusebio "Chato" Grados](https://open.spotify.com/artist/6zgB4oxPALPaoxlCPkvj32) | [Huaylash Macho](https://open.spotify.com/album/5Z2unS845iqX49m9LokIxz) | 3:47 | 2022-02-04 |  |
+| [Para Ti Pucarinita](https://open.spotify.com/track/4aoxRYIWNE4uLg5VKa23I8) | [Eusebio "Chato" Grados](https://open.spotify.com/artist/6zgB4oxPALPaoxlCPkvj32) | [Huaylash Macho](https://open.spotify.com/album/5Z2unS845iqX49m9LokIxz) | 3:47 | 2022-02-04 | 2024-03-06 |
 | [Perlas Challay](https://open.spotify.com/track/38O5w9pEdK5M9XvzoXbl0I) | [Perlas Challay](https://open.spotify.com/artist/0ywTegGl7uyQqwqstYeDzx) | [Huayno Music Of Peru \- Vol\. 1](https://open.spotify.com/album/291aNknbKbMh1TREXcWCEJ) | 3:26 | 2022-02-04 | 2022-07-29 |
+| [Pio Pio](https://open.spotify.com/track/3KYG6f0J9xM5LKmJ6WgHwN) | [Eusebio "Chato" Grados](https://open.spotify.com/artist/6zgB4oxPALPaoxlCPkvj32) | [Mis Mejores Huaynos](https://open.spotify.com/album/26kFFLPJ5A1scqYoVgW3EB) | 3:43 | 2022-02-04 |  |
 | [Pomabambina](https://open.spotify.com/track/58fhhQXh1LW9RA8ph7e41c) | [Estrellita de Pomabamba](https://open.spotify.com/artist/6tnebocZfd2TonZ4j7zFkX) | [el Cofre del Recuerdo](https://open.spotify.com/album/6z0ILslVFO1nSjLijU2xhQ) | 2:05 | 2022-02-04 | 2022-07-22 |
 | [Profesorita](https://open.spotify.com/track/19fr1BVHzzdxkJtHee5PU7) | [Los Campesinos](https://open.spotify.com/artist/4Y6bDQ3ZuNk1IcX4FmdrBZ) | [Grandes Exitos](https://open.spotify.com/album/1x7195GR18267D7Ix6xpzE) | 2:51 | 2022-02-04 |  |
 | [Pucay Punchochay](https://open.spotify.com/track/4BkniuKguT4KuXGW2Nv9su) | [Los Puquiales](https://open.spotify.com/artist/56BGpfV7llrp7rvvseEaPn) | [Los Grandes del Folklore Peruano](https://open.spotify.com/album/5ZG4tBKt2aJqOtaX2qbuUF) | 2:47 | 2022-02-04 | 2022-07-27 |

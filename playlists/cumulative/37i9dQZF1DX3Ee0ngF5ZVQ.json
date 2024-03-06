@@ -6027,6 +6027,24 @@
     },
     {
       "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/2oagcp2i1TpX5QbKtqjWLa"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219163,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/2YYMlqyO7PXnq9qOADLN2m"
+    },
+    {
+      "album": {
         "name": "Mama's Song",
         "url": "https://open.spotify.com/album/1Y0NWdYQZnLzG3U86tqjPw"
       },
@@ -8120,7 +8138,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 150572,
       "name": "Side of Goodbye",
       "url": "https://open.spotify.com/track/4qgbOxYNnvahjjZra6TSt7"

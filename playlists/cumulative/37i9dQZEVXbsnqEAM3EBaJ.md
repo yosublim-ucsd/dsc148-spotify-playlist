@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-1,219 songs - 3 day 13 hr 20 min
+1,220 songs - 3 day 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,7 +341,7 @@
 | [Fighting Myself](https://open.spotify.com/track/5CVZeK7bOC9QxYcZ9gJ5X2) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Fighting Myself](https://open.spotify.com/album/0S1tvjDaar0S6LaRJAFcWF) | 3:21 | 2023-03-24 | 2023-04-01 |
 | [Figurative Theatre \(Klute Version\)](https://open.spotify.com/track/0NzI9iAlySeGvEggBBbwlC) | [Christian Death](https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD) | [Death Mix \(2023 Version\)](https://open.spotify.com/album/073HEZpSYDRWBDOtC3GgAZ) | 4:02 | 2023-09-01 | 2023-09-10 |
 | [Fingertips \- T&A Demo Jan 28, 1992](https://open.spotify.com/track/1epnNhPMyuzimH8cD906dp) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY), [Per Gessle](https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK) | [Tourism 30th Anniversary Edition](https://open.spotify.com/album/0bUxMVGLeC3putBWeTE6wr) | 3:26 | 2023-03-03 | 2023-03-19 |
-| [Finsterwacht](https://open.spotify.com/track/0Ktmk5jp4r6ym9hT2bWlQM) | [Saltatio Mortis](https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw), [Blind Guardian](https://open.spotify.com/artist/0VP103S1fTqI5breuKOGy5) | [Finsterwacht](https://open.spotify.com/album/0QtW38XI6FzPFmVaKuxjsK) | 9:20 | 2024-03-01 |  |
+| [Finsterwacht](https://open.spotify.com/track/0Ktmk5jp4r6ym9hT2bWlQM) | [Saltatio Mortis](https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw), [Blind Guardian](https://open.spotify.com/artist/0VP103S1fTqI5breuKOGy5) | [Finsterwacht](https://open.spotify.com/album/0QtW38XI6FzPFmVaKuxjsK) | 9:20 | 2024-03-01 | 2024-03-06 |
 | [Fireflies](https://open.spotify.com/track/1BqsFNh9cUiZ5hxqtYyCNG) | [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Fireflies](https://open.spotify.com/album/3u4HcEsvcPmzUrhLitt0y5) | 3:36 | 2023-03-31 | 2023-04-15 |
 | [Fireflies](https://open.spotify.com/track/2Pb1ekr2pXVYEMER3rNcIa) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [ATUM](https://open.spotify.com/album/4Sd50ORhLkyoddNHyLnr49) | 3:26 | 2023-05-05 | 2023-06-04 |
 | [First In Line](https://open.spotify.com/track/7vdv5e5atEgBlW9oGjtPIG) | [Sonata Arctica](https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH) | [First In Line](https://open.spotify.com/album/6XN4rXWgar54VuGsPQLkHm) | 5:22 | 2023-10-13 | 2023-11-14 |
@@ -944,7 +944,8 @@
 | [Spellbinding](https://open.spotify.com/track/74rpTA3zk1IWwBY944OK3r) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Spellbinding](https://open.spotify.com/album/2qkyWen9EcUJ1ZPTOsFTo3) | 4:06 | 2023-03-31 | 2023-04-15 |
 | [Spice](https://open.spotify.com/track/2rFIck6yWsOWrIMQWBS4Lg) | [Flannan](https://open.spotify.com/artist/506KEPl3u4syY6p2e3MyEJ), [HIM](https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM), [AK](https://open.spotify.com/artist/7DICBAYiaIMh5MulqwCtET), [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk) | [Spice](https://open.spotify.com/album/50OhzBiF2Xai5SAJIHubj8) | 2:59 | 2023-05-19 | 2023-05-24 |
 | [Spicy Margarita](https://open.spotify.com/track/22bZVqJfATps2ETj7017Ms) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Nu King](https://open.spotify.com/album/5yrqPWuCSAo6beZdIBYAUU) | 2:34 | 2024-02-16 | 2024-02-25 |
-| [Spicy Margarita \- Slowed](https://open.spotify.com/track/3xBOhbJRILrqlEzfxhaWee) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Spicy Margarita](https://open.spotify.com/album/23ggBLfx9EHpjlsTKhsDif) | 2:49 | 2024-03-01 |  |
+| [Spicy Margarita \- Acappella](https://open.spotify.com/track/4bIkWniFVT6m5iIGPh96ba) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Spicy Margarita](https://open.spotify.com/album/23ggBLfx9EHpjlsTKhsDif) | 2:34 | 2024-03-01 |  |
+| [Spicy Margarita \- Slowed](https://open.spotify.com/track/3xBOhbJRILrqlEzfxhaWee) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Spicy Margarita](https://open.spotify.com/album/23ggBLfx9EHpjlsTKhsDif) | 2:49 | 2024-03-01 | 2024-03-06 |
 | [Spiel mit mir \- 2023 Mix](https://open.spotify.com/track/01jvnYLwnEwdnwGjsZq02E) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Du hast / Spiel mit mir \(2023 Mix\)](https://open.spotify.com/album/2rK1E8ZYaYkKjSMkrbM690) | 4:46 | 2023-05-12 | 2023-05-27 |
 | [Spotlight \(Demo\)](https://open.spotify.com/track/79BhKSghv4K8AiqeorRyi5) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip \(Deluxe\)](https://open.spotify.com/album/0cjCJprou4GNLdDAWlJ2fc) | 3:50 | 2023-03-31 | 2023-04-02 |
 | [St\. Charles Square](https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [St\. Charles Square](https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK) | 3:55 | 2023-06-30 | 2023-07-22 |

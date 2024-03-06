@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover:  Only U",
+  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover:  MFS",
   "name": "+81 Connect: J-Hip Hop\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d",
   "tracks": [
     {
@@ -338,7 +338,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 322133,
       "name": "4L (feat. Bark, Benjazzy, C.O.S.A. & IO)",
       "url": "https://open.spotify.com/track/3vlpUpYXJygq10pUUrtX1Y"
@@ -1475,6 +1475,24 @@
     },
     {
       "album": {
+        "name": "BINBO",
+        "url": "https://open.spotify.com/album/7iZN9psShtHZhWXr0rh4Ai"
+      },
+      "artists": [
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138946,
+      "name": "BINBO",
+      "url": "https://open.spotify.com/track/3jLoBEYECqYA1kzlt5UTBL"
+    },
+    {
+      "album": {
         "name": "BLESS U",
         "url": "https://open.spotify.com/album/17eaa64NwzaBpy30GL7EDx"
       },
@@ -1898,7 +1916,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 108265,
       "name": "Cartier Scouter",
       "url": "https://open.spotify.com/track/0n4b8dQmReIUnDDeoeDp2p"
@@ -2752,7 +2770,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 136415,
       "name": "Dojo",
       "url": "https://open.spotify.com/track/6srs2BBpZKLIchKtp88KHU"
@@ -5329,6 +5347,28 @@
     },
     {
       "album": {
+        "name": "Josetsusha!",
+        "url": "https://open.spotify.com/album/7263wqVHp54oFq8zGlEXTM"
+      },
+      "artists": [
+        {
+          "name": "Kohjiya",
+          "url": "https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK"
+        },
+        {
+          "name": "YungFLX",
+          "url": "https://open.spotify.com/artist/4602NT3AQtVUISnd0cSXSe"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201398,
+      "name": "Josetsusha!",
+      "url": "https://open.spotify.com/track/5MCTIDVidknIGlI9atECh4"
+    },
+    {
+      "album": {
         "name": "junkie",
         "url": "https://open.spotify.com/album/1O51SwMFrdxhjgsSzC9Fsw"
       },
@@ -5734,10 +5774,44 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 195366,
       "name": "KONTROL - Remix",
       "url": "https://open.spotify.com/track/7I4prSVzFmHL7yyX8ujk0l"
+    },
+    {
+      "album": {
+        "name": "BAD HOP",
+        "url": "https://open.spotify.com/album/3Xf7ckpqko5S1aJCa5RXtn"
+      },
+      "artists": [
+        {
+          "name": "BAD HOP",
+          "url": "https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2"
+        },
+        {
+          "name": "Tiji Jojo",
+          "url": "https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt"
+        },
+        {
+          "name": "YZERR",
+          "url": "https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo"
+        },
+        {
+          "name": "Vingo",
+          "url": "https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH"
+        },
+        {
+          "name": "Yellow Pato",
+          "url": "https://open.spotify.com/artist/1NdYIG2u5Dj0nFP8fPbGcr"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255986,
+      "name": "Last Party Never End (feat. Tiji Jojo, YZERR, Vingo & Yellow Pato)",
+      "url": "https://open.spotify.com/track/52buM4EFitLjpgxtN1sxIb"
     },
     {
       "album": {
@@ -6459,6 +6533,32 @@
     },
     {
       "album": {
+        "name": "MEISO",
+        "url": "https://open.spotify.com/album/4xz0crPytHXtYPWgCFlVDC"
+      },
+      "artists": [
+        {
+          "name": "Kapsoul",
+          "url": "https://open.spotify.com/artist/4MfpSSOsKtg5bSBpeXCuP8"
+        },
+        {
+          "name": "B.D.",
+          "url": "https://open.spotify.com/artist/4WEqY463SGyqarbqUKC2aX"
+        },
+        {
+          "name": "Senninsho",
+          "url": "https://open.spotify.com/artist/36KtDuRQm38x36q30tnqOD"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169563,
+      "name": "MEISO",
+      "url": "https://open.spotify.com/track/1IIXwqTkl5ogqIn63OBRxE"
+    },
+    {
+      "album": {
         "name": "Miite",
         "url": "https://open.spotify.com/album/4RZ2DtH747A5CX5mAGEAV0"
       },
@@ -7054,6 +7154,32 @@
       "duration_ms": 137806,
       "name": "New Balance",
       "url": "https://open.spotify.com/track/2ZH6YXI0oN0cY2PmT5uKru"
+    },
+    {
+      "album": {
+        "name": "NEW DAY",
+        "url": "https://open.spotify.com/album/0g8qeKfLrKwuuNaAw5SfMp"
+      },
+      "artists": [
+        {
+          "name": "PETZ",
+          "url": "https://open.spotify.com/artist/1LUhwMGfJbyWkkRu8UmVXT"
+        },
+        {
+          "name": "Jin Dogg",
+          "url": "https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK"
+        },
+        {
+          "name": "kZm",
+          "url": "https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184489,
+      "name": "NEW DAY",
+      "url": "https://open.spotify.com/track/3KLSp2VdUcmOzjqYxsAFlP"
     },
     {
       "album": {
@@ -9150,7 +9276,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 223163,
       "name": "Sol",
       "url": "https://open.spotify.com/track/6mMliV5nFpbX2WbYEtKImK"

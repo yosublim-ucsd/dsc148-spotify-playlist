@@ -2985,6 +2985,24 @@
     },
     {
       "album": {
+        "name": "Goddess of Despair",
+        "url": "https://open.spotify.com/album/2pF0taAwEGNMFRfAyvWGnv"
+      },
+      "artists": [
+        {
+          "name": "HOSHI",
+          "url": "https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219760,
+      "name": "Goddess of Despair",
+      "url": "https://open.spotify.com/track/1kMuSPY0CrZsrrUfbGTbnf"
+    },
+    {
+      "album": {
         "name": "Going On",
         "url": "https://open.spotify.com/album/0VGsRsvO6Cdi5C8qA7A2Kz"
       },
@@ -3686,7 +3704,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 234534,
       "name": "I Loved You",
       "url": "https://open.spotify.com/track/1o1Nx8wVtBkcpNCC3R5PII"
@@ -4336,7 +4354,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 277000,
       "name": "La Mar",
       "url": "https://open.spotify.com/track/4QXcrw2uElBPXrWcx7RkQ0"
@@ -4596,7 +4614,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-23",
+      "date_removed": null,
       "duration_ms": 229626,
       "name": "Let\u2019s Love",
       "url": "https://open.spotify.com/track/0wk4GYAryLcXEMvfhzU1bv"
@@ -6736,7 +6754,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 208373,
       "name": "Regret of the Times - 2024 Remastered Version",
       "url": "https://open.spotify.com/track/5RcGQ7is0iQEhS7XsTOiST"
@@ -9233,6 +9251,24 @@
     },
     {
       "album": {
+        "name": "ASTERUM : 134-1",
+        "url": "https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219453,
+      "name": "WAY 4 LUV",
+      "url": "https://open.spotify.com/track/1T6xi2QrnmwaebXGvWAjLg"
+    },
+    {
+      "album": {
         "name": "We All Live Young",
         "url": "https://open.spotify.com/album/2ZUs2eaYqRsSOEUbZzgRXk"
       },
@@ -10164,7 +10200,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-05",
+      "date_removed": null,
       "duration_ms": 232558,
       "name": "\ub098\ubb34",
       "url": "https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ"
@@ -10398,7 +10434,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 214521,
       "name": "\uc5bc\uad74 Face",
       "url": "https://open.spotify.com/track/50OgyUeTppAqsJbGthk2x9"

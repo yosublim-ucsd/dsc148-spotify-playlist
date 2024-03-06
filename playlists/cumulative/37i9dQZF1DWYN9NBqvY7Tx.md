@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-480 songs - 1 day 1 hr 18 min
+481 songs - 1 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Dreamer](https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Dreamer](https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU) | 2:35 | 2023-05-05 | 2023-07-19 |
 | [Dreaming](https://open.spotify.com/track/7K0tKZGP9mi4oqJSOJj29Q) | [Rootkit](https://open.spotify.com/artist/01olvHW7uzIInQx9VTNuJm), [Cammie Robinson](https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe) | [Dreaming \(ft\. Cammie Robinson\)](https://open.spotify.com/album/64AMbWwmxSBhXDwlKpOMBA) | 3:50 | 2022-05-06 | 2022-07-29 |
 | [Dreams](https://open.spotify.com/track/4RWMUN7m78hYp4nvXVCxzJ) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Dreams](https://open.spotify.com/album/2mZfEjrVc81R1v7z6NPFAC) | 4:17 | 2022-05-13 | 2022-07-29 |
-| [Dreams \(Plasma Reflex\) \(feat\. Crooked Bangs\)](https://open.spotify.com/track/4d3Bpulz7wXrd8hndD7ci1) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [TESSERACT](https://open.spotify.com/album/6ccsXcDzYI8vkqzPhp7SB4) | 4:00 | 2024-03-01 |  |
+| [Dreams \(Plasma Reflex\) \(feat\. Crooked Bangs\)](https://open.spotify.com/track/4d3Bpulz7wXrd8hndD7ci1) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [TESSERACT](https://open.spotify.com/album/6ccsXcDzYI8vkqzPhp7SB4) | 4:00 | 2024-03-01 | 2024-03-06 |
 | [Dress Code](https://open.spotify.com/track/0rK3a7tLRVgJBoc2DP3tIX) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Dress Code](https://open.spotify.com/album/4LvkMrD1HDDOzWHRS7GKE1) | 3:23 | 2023-11-09 |  |
 | [Drift](https://open.spotify.com/track/5g70Mc3Bj80XyAAphzoMps) | [Melad](https://open.spotify.com/artist/1LvAJlquMjiJlHPeY8RTIY) | [Drift](https://open.spotify.com/album/4CvER3oNnWwEyisKPSIqb2) | 3:56 | 2022-05-06 | 2022-07-29 |
 | [Drink And Shout](https://open.spotify.com/track/6V5LMAIGNd7qMjco5JjUSa) | [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Drink And Shout](https://open.spotify.com/album/3osV0Sq28dZop5Db7ugcwi) | 2:18 | 2023-03-03 |  |
@@ -189,6 +189,7 @@
 | [Hero](https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Hero](https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt) | 2:55 | 2023-05-05 | 2023-05-20 |
 | [Heroes Tonight](https://open.spotify.com/track/5fOjFkFA0k5MTOo1LmnVTO) | [Janji](https://open.spotify.com/artist/5VXPJC0PNpJbzB10A39G8E), [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN) | [Heroes Tonight](https://open.spotify.com/album/1Rc0YAUUUhW5WuOXvgePFM) | 3:28 | 2022-07-14 | 2023-07-19 |
 | [Highest Building \(feat\. Oklou\)](https://open.spotify.com/track/30afVBIbhnWYMU757iEleJ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Palaces](https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb) | 3:36 | 2022-05-20 | 2022-10-02 |
+| [Hit The Road Jack](https://open.spotify.com/track/5r6SF3GZpuEagE9JcXPVuV) | [Bisken](https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf), [Millows](https://open.spotify.com/artist/5GQeYhFPfFWauYWJXMJ1BG) | [Hit The Road Jack](https://open.spotify.com/album/4fD0XHv8zNDpLZWt8lPNtu) | 2:06 | 2024-03-01 |  |
 | [Hold On](https://open.spotify.com/track/2ovGnmrSBfwTSXKhf5dvZv) | [NCT](https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9), [James Burki](https://open.spotify.com/artist/4G8wfydMXBt8bJQNitLqMM) | [Hold On](https://open.spotify.com/album/1FAMnk7iSLxkm91LJJy6Ra) | 3:29 | 2022-05-30 | 2022-06-08 |
 | [Holding On \- Kompany Remix](https://open.spotify.com/track/4kbzXzMXEjPYVqpnRsE4Xk) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Lowell](https://open.spotify.com/artist/3MJ2o2vTovueQARKmOzHls), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Drown/Holding On \(Remixes\)](https://open.spotify.com/album/6Hs3Ge3zoT6G75akPaB27p) | 3:12 | 2022-05-13 | 2022-07-28 |
 | [Home](https://open.spotify.com/track/5Azxo2Y3EhhYv2T98RWa21) | [Prismo](https://open.spotify.com/artist/23ostNBoB9z6GMXLtHdg7y) | [Home](https://open.spotify.com/album/0cir0jEdKvJeIR6JXoDypo) | 2:49 | 2022-06-24 | 2022-07-29 |

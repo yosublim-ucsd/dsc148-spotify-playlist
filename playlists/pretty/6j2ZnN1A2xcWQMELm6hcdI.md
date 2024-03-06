@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/6j2ZnN1A2xcWQMELm6hcdI.md) - [plain]
 
 ### [Influence 💅 Hot Girl Era 2024](https://open.spotify.com/playlist/6j2ZnN1A2xcWQMELm6hcdI)
 
-> The baddest and most influential women in music \[see: <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\]\. Cover: Chlöe
+> The baddest and most influential women in music \[Ex\. <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\]\. Cover: Chlöe
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 338,378 likes - 241 songs - 12 hr 8 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 338,359 likes - 241 songs - 12 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -250,4 +250,4 @@ pretty - [cumulative](/playlists/cumulative/6j2ZnN1A2xcWQMELm6hcdI.md) - [plain]
 | 240 | [Crying On Your Birthday](https://open.spotify.com/track/5wNhm1LOZHZRdTcTk3rpZh) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Crying On Your Birthday](https://open.spotify.com/album/7H0ZaJMQRQTquLuFN2jXqn) | 3:48 |
 | 241 | [2NDO CHANCE](https://open.spotify.com/track/4JyfG2WBcDjlc8TODyBIbx) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 3:52 |
 
-Snapshot ID: `MzYyMSxhYjIzNGIxZDM3YjRiZjZkNTgyZjJkOTVhMGE0YzdlNjE1OTQxMjc2`
+Snapshot ID: `MzYyMiw0YzAxNjE4NGYwMzZmMjAyODEwMDU5N2JhODQ5YjE4OTRkYmI3MWMx`

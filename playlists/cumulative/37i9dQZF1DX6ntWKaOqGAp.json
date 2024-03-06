@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-14",
-  "description": "The biggest Japanese rock hits right now.  Cover: Teikoku Kissa(\u5e1d\u56fd\u55ab\u8336)\u3000\u65e5\u672c\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "description": "The biggest Japanese rock hits right now.  Cover: ZOOKARADERU (\u30ba\u30fc\u30ab\u30e9\u30c7\u30eb)\u3000\u65e5\u672c\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
   "name": "J-Rock ON!!",
   "tracks": [
     {
@@ -92,6 +92,24 @@
       "duration_ms": 345289,
       "name": "1096",
       "url": "https://open.spotify.com/track/7Ld2efllkAfXdSOkAqPNwu"
+    },
+    {
+      "album": {
+        "name": "Underlight & Aftertime",
+        "url": "https://open.spotify.com/album/1wNakLzgelD7G7mGhqElBC"
+      },
+      "artists": [
+        {
+          "name": "downt",
+          "url": "https://open.spotify.com/artist/1u3B7ghkXe7pvfxZTmBJlV"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258323,
+      "name": "111511",
+      "url": "https://open.spotify.com/track/5KT0dvGqAFVdlXJTZ1NWzs"
     },
     {
       "album": {
@@ -922,7 +940,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 215283,
       "name": "Any",
       "url": "https://open.spotify.com/track/5Daxs3uXYluqXbyrIIHbG3"
@@ -2414,7 +2432,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 234840,
       "name": "DANCING IN THE ROOM",
       "url": "https://open.spotify.com/track/3LJ8gioNFggBg6zoGhz1tx"
@@ -2714,7 +2732,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 204097,
       "name": "Distance",
       "url": "https://open.spotify.com/track/0QQgeIpfDpTOAialgKCuFA"
@@ -2974,6 +2992,24 @@
       "duration_ms": 174133,
       "name": "DRIVE",
       "url": "https://open.spotify.com/track/2YOnPrLE4ZFm6AbIIGTkgi"
+    },
+    {
+      "album": {
+        "name": "liverally.ep",
+        "url": "https://open.spotify.com/album/3VMYL8U6FHP4VWjW4rjvj8"
+      },
+      "artists": [
+        {
+          "name": "SAKANAMON",
+          "url": "https://open.spotify.com/artist/54vKDgG7qoKqB4IHVknTcl"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171818,
+      "name": "DUAL EFFECT",
+      "url": "https://open.spotify.com/track/3LFNcptartuvcvkuCCvTPP"
     },
     {
       "album": {
@@ -4908,7 +4944,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 185200,
       "name": "Hokoronde Hazereba",
       "url": "https://open.spotify.com/track/1oBxcP18dseo8fUfC1Aya5"
@@ -11316,7 +11352,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 181826,
       "name": "Super Sonic Girl",
       "url": "https://open.spotify.com/track/2Hiiy3oTMeqQg5hLQLw4bJ"
@@ -11604,7 +11640,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 222666,
       "name": "TENGOKUKAIDO",
       "url": "https://open.spotify.com/track/2gY1SkSuWOGMKrbOZyHJdt"
@@ -13532,7 +13568,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 238134,
       "name": "\u304a\u3064\u304b\u308c\u3055\u307e",
       "url": "https://open.spotify.com/track/2sfyAst2h4DGqjKNTIbZB9"
@@ -14346,7 +14382,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 157623,
       "name": "\u306d\u3080\u308c\u3088\u3001\u306d\u3080\u308c",
       "url": "https://open.spotify.com/track/3RBUmq6QZ4Zq9pdLFgz36M"
@@ -14368,6 +14404,24 @@
       "duration_ms": 205068,
       "name": "\u306e\u3089\u308a\u3064\u3089\u308a",
       "url": "https://open.spotify.com/track/5dLM5ldUXKicvwLz3b1CdV"
+    },
+    {
+      "album": {
+        "name": "\u306f\u3058\u3081\u304b\u3089\u81ea\u7531\u3060\u3063\u305f",
+        "url": "https://open.spotify.com/album/1ZpAlTk2lqbFe8Nye8Aewz"
+      },
+      "artists": [
+        {
+          "name": "Humbreaders",
+          "url": "https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199426,
+      "name": "\u306f\u3058\u3081\u304b\u3089\u81ea\u7531\u3060\u3063\u305f",
+      "url": "https://open.spotify.com/track/58y3Xk4J1uT7EpyYomT4pg"
     },
     {
       "album": {
@@ -14750,6 +14804,24 @@
       "duration_ms": 250000,
       "name": "\u30a2\u30a4\u30e9\u30d6",
       "url": "https://open.spotify.com/track/5x6cGmgNWIWyTqTPlF14EF"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30a6\u30c8\u30d5\u30a9\u30fc\u30ab\u30b9",
+        "url": "https://open.spotify.com/album/5fSOoIC9xzQCy0PDlgjtRx"
+      },
+      "artists": [
+        {
+          "name": "This is LAST",
+          "url": "https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201280,
+      "name": "\u30a2\u30a6\u30c8\u30d5\u30a9\u30fc\u30ab\u30b9",
+      "url": "https://open.spotify.com/track/2sTxEt2fDr4UDblYvad1gq"
     },
     {
       "album": {
@@ -17652,6 +17724,24 @@
       "duration_ms": 230792,
       "name": "\u30d6\u30eb\u30fc\u30fb\u30b5\u30de\u30fc\u30bf\u30a4\u30e0\u30fb\u30d6\u30eb\u30fc\u30ba",
       "url": "https://open.spotify.com/track/3Sswf6NDuRdz4EvGRpDdjT"
+    },
+    {
+      "album": {
+        "name": "\u30d6\u30ec\u30a4\u30af\u30b9\u30eb\u30fc",
+        "url": "https://open.spotify.com/album/7wkmbAsdhTrQ8ThQVs5gMf"
+      },
+      "artists": [
+        {
+          "name": "BREIMEN",
+          "url": "https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244786,
+      "name": "\u30d6\u30ec\u30a4\u30af\u30b9\u30eb\u30fc",
+      "url": "https://open.spotify.com/track/5dYz0z2oEr4jnzgort0quj"
     },
     {
       "album": {
@@ -21963,6 +22053,24 @@
     },
     {
       "album": {
+        "name": "\u672a\u6765\u4e88\u60f3\u56f3",
+        "url": "https://open.spotify.com/album/5EoOmpNmV68WUdgJ6pEfgi"
+      },
+      "artists": [
+        {
+          "name": "Ryukku to Soine Gohan",
+          "url": "https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226333,
+      "name": "\u672a\u6765\u4e88\u60f3\u56f3",
+      "url": "https://open.spotify.com/track/3NLaGMbVQImr30ucwCtvDi"
+    },
+    {
+      "album": {
         "name": "\u672c\u5f53\u306a\u3093\u3066\u3076\u3063\u98db\u3070\u3057\u3066\u3088",
         "url": "https://open.spotify.com/album/7wORMIt9AD7HhN5FJTV9tG"
       },
@@ -23084,6 +23192,24 @@
       "duration_ms": 286000,
       "name": "\u7b2c\u30bc\u30ed\u611f",
       "url": "https://open.spotify.com/track/6zjk7Qbwb9DZ4ykUUoqknh"
+    },
+    {
+      "album": {
+        "name": "\u592a\u967d\u6b69\u884c",
+        "url": "https://open.spotify.com/album/7Kw2Vj4UjrVZ9tyR2nnB6l"
+      },
+      "artists": [
+        {
+          "name": "ZOOKARADERU",
+          "url": "https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274226,
+      "name": "\u7b4f\u306e\u3046\u305f",
+      "url": "https://open.spotify.com/track/2D3PerpUE3bFO40uGxzhya"
     },
     {
       "album": {
@@ -24378,6 +24504,24 @@
       "duration_ms": 253364,
       "name": "\u9be8\u306e\u5b50",
       "url": "https://open.spotify.com/track/1b1XlfWkqe6bAsi5go0Ppg"
+    },
+    {
+      "album": {
+        "name": "\u9be8\u306e\u5de3",
+        "url": "https://open.spotify.com/album/04Yint2Re3tPB4unUxosFG"
+      },
+      "artists": [
+        {
+          "name": "domico",
+          "url": "https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222285,
+      "name": "\u9be8\u306e\u5de3",
+      "url": "https://open.spotify.com/track/1jOsiKMmpkYuGm2tW9v72h"
     },
     {
       "album": {

@@ -1026,6 +1026,48 @@
     {
       "album": {
         "name": "Manoyatri",
+        "url": "https://open.spotify.com/album/211aYaCuqflLPDpC05kMzT"
+      },
+      "artists": [
+        {
+          "name": "Avra Banerjee",
+          "url": "https://open.spotify.com/artist/03U223wUp1mWICExQVN5S3"
+        },
+        {
+          "name": "Mahalakshmi Iyer",
+          "url": "https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH"
+        },
+        {
+          "name": "Ojas Adhiya",
+          "url": "https://open.spotify.com/artist/2sDMiRPYyxqIhyiyqH89jJ"
+        },
+        {
+          "name": "Rhythm Shaw",
+          "url": "https://open.spotify.com/artist/15VQCxbC4rQp2ooxlkd40D"
+        },
+        {
+          "name": "Tamal Kanti Halder",
+          "url": "https://open.spotify.com/artist/1FEXQ23yxjNYaKJXK0IxiW"
+        },
+        {
+          "name": "Himadri Das",
+          "url": "https://open.spotify.com/artist/4Q6sIUfymjRG1iggsunpYS"
+        },
+        {
+          "name": "Bachospati Chakraborty",
+          "url": "https://open.spotify.com/artist/1SaViDbQoQ2NitxvO1pgHb"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 546863,
+      "name": "Ganga Kaleidoscope",
+      "url": "https://open.spotify.com/track/68Df2yQnMgCnF7ob8NNRez"
+    },
+    {
+      "album": {
+        "name": "Manoyatri",
         "url": "https://open.spotify.com/album/6QC3xaw8QKzqhBe6FUFcQm"
       },
       "artists": [
@@ -1060,7 +1102,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 546678,
       "name": "Ganga Kaleidoscope",
       "url": "https://open.spotify.com/track/62bhOFR1Brr7wbLgyUeMok"

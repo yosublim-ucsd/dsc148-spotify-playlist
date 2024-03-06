@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sMpq9Fic1i.md) - [plain]
 | 30 | [Awakening of BAROU](https://open.spotify.com/track/0tIhFwq1gSJdjPH0mo19HW) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 2:51 |
 | 31 | [RIN](https://open.spotify.com/track/1ab3xr1b3TMpAOZwhM0qwN) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 2:33 |
 
-Snapshot ID: `MCxkNjViMjljYjU1ZjMzZmNhNzVkYjM0YWQyYzliZTE5NWM2YTUxOWJh`
+Snapshot ID: `MCxjYTY5MWJhNmI3MmQwMTkzMjlkZjUyMThkN2ExOTlhNmJkMGRjYzc4`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "Groove to music from your Netflix Kids favorites! Cover: Orion and the Dark",
+  "description": "Groove to music from your Netflix Kids favorites! Cover: Hot Wheels: Let's Race ",
   "name": "Netflix Kids Official Playlist",
   "tracks": [
     {
@@ -1034,6 +1034,24 @@
       "duration_ms": 74373,
       "name": "Home (From The Netflix Series: \u201cRidley Jones\u201d Vol. 3) (feat. Sutton Foster, Iara Nemirovsky)",
       "url": "https://open.spotify.com/track/5LUcArrZoeWmcTjzA1okYW"
+    },
+    {
+      "album": {
+        "name": "Hot Wheels Let's Race Theme Song",
+        "url": "https://open.spotify.com/album/2aJkmEPmwl7fki60ZO0sVJ"
+      },
+      "artists": [
+        {
+          "name": "Hot Wheels",
+          "url": "https://open.spotify.com/artist/32TY5Roo530bCYpFBRpyBE"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104000,
+      "name": "Hot Wheels Let's Race Theme Song",
+      "url": "https://open.spotify.com/track/5Jp4vRhQ4TLXrp9cnJfXu6"
     },
     {
       "album": {

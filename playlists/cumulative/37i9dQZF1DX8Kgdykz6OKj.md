@@ -4,7 +4,7 @@
 
 > Laid back cratedigger hip\-hop from around the world.
 
-352 songs - 20 hr 8 min
+353 songs - 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Air Born](https://open.spotify.com/track/1SrgOv6hJ7FmFNTDwC6yoF) | [The Kid Daytona](https://open.spotify.com/artist/1U77TS18o4qUO3bwq0pbcM), [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Come Fly with Me](https://open.spotify.com/album/3r3Q0fWCOBOiBZFYw34TAm) | 4:44 | 2022-04-11 | 2022-04-15 |
 | [Albany](https://open.spotify.com/track/3axd6nS2OpTthBIv7Fv8LB) | [Kev Brown](https://open.spotify.com/artist/1Yi9MvKxq35HFHWl0nNelG) | [Always / Albany](https://open.spotify.com/album/350aqUY5tiF829qMI0QC6X) | 2:49 | 2021-12-16 | 2022-05-30 |
 | [Alchemy](https://open.spotify.com/track/02ck9tzXidQ4fTTMMGX43t) | [MANIK MC](https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Alchemy](https://open.spotify.com/album/137mUauJjgIwCPORvCsk5o) | 3:13 | 2021-12-16 | 2023-02-01 |
+| [Anointed Soul](https://open.spotify.com/track/6kPK6JPNSsWovpDcnfOIyQ) | [Jahari Massamba Unit](https://open.spotify.com/artist/0wQu6RGpwgoD20qNxb4vwj), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [YHWH is LOVE](https://open.spotify.com/album/0GCFzQmxBDBjUcVFHh3Mji) | 3:09 | 2024-03-01 |  |
 | [Another Day](https://open.spotify.com/track/2GFr1qKDZcByge6O956l2B) | [Blu & Exile](https://open.spotify.com/artist/567CChDKZrtF4rnk2r5JeP) | [In The Beginning: Before The Heavens](https://open.spotify.com/album/493jNMqrlOYhzQ0aoYU03s) | 3:53 | 2022-04-11 | 2022-04-21 |
 | [Any Way, Any Day](https://open.spotify.com/track/66KfkAGF4QBp4lElvKKqI1) | [Kabuki](https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB), [Sadat X](https://open.spotify.com/artist/6Nf1gMtwFrHqlEySdSkzZw) | [Meditations](https://open.spotify.com/album/7dieRoSqwmlqOHJAxXPYsR) | 3:40 | 2022-04-11 | 2022-04-21 |
 | [Anything](https://open.spotify.com/track/7Et3XDHUjTjNs6CaUgpikz) | [Revolutionary Rhythm](https://open.spotify.com/artist/5d0FKWSfoD6MNcoevKzaV4), [Kid Abstrakt](https://open.spotify.com/artist/0UWaozNVyePawOPEWOdU4w), [Predominance](https://open.spotify.com/artist/1BkTMajRH3wIlinOsyjn3i) | [Anything](https://open.spotify.com/album/2fmuNIYhWvhlYocZZJgMl7) | 3:25 | 2021-12-16 | 2022-11-29 |
@@ -178,7 +179,7 @@
 | [It Runs Through Me \(feat\. De La Soul\)](https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 4:21 | 2022-10-13 |  |
 | [It's Alright](https://open.spotify.com/track/0Wk1F7rr43ANfiyAgHZxOs) | [2nd Exit](https://open.spotify.com/artist/4M0DtVyxxAVjPTFQYPpX1y) | [2nd Exit](https://open.spotify.com/album/7DYnI0CZgasN25teMmX9O9) | 2:56 | 2022-07-28 |  |
 | [It's Alright](https://open.spotify.com/track/6565wKrasU4x0H3jhZJIrd) | [2nd Exit](https://open.spotify.com/artist/4M0DtVyxxAVjPTFQYPpX1y) | [2nd Exit](https://open.spotify.com/album/3OZksagLNqEbzxPgR26xry) | 2:56 | 2021-12-16 | 2022-07-29 |
-| [It's Nice Outside](https://open.spotify.com/track/41H7ayURsGvzBWj77ZddWt) | [Anti Lilly](https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn), [Phoniks](https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH) | [It's Nice Outside](https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g) | 2:15 | 2021-12-16 |  |
+| [It's Nice Outside](https://open.spotify.com/track/41H7ayURsGvzBWj77ZddWt) | [Anti Lilly](https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn), [Phoniks](https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH) | [It's Nice Outside](https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g) | 2:15 | 2021-12-16 | 2024-03-06 |
 | [Jay\-Z in 1995](https://open.spotify.com/track/3Sr6QO0oaR0LXAbSNDIU6l) | [Peter Manns](https://open.spotify.com/artist/2qwx7CUQ9aw3C8b4amNmxy), [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [Jay\-Z in 1995](https://open.spotify.com/album/0JHVYb7Qxv0cjM5QTmG2uw) | 1:57 | 2022-01-13 | 2022-07-29 |
 | [Jazz & Coffee, Pt\. 4](https://open.spotify.com/track/7AKRcTsRrHHhEGBHOCbSPQ) | [Kid Abstrakt](https://open.spotify.com/artist/0UWaozNVyePawOPEWOdU4w), [Emapea](https://open.spotify.com/artist/3BiFZY6zbND5L3MEM6niE6), [DJ Million Faces](https://open.spotify.com/artist/4yIHridldZW7jSDEWiGipP) | [Jazz & Coffee, Pt\. 4](https://open.spotify.com/album/6cNg9DdYwzXpgeW5CHYm70) | 3:00 | 2021-12-16 | 2022-11-25 |
 | [Jazz Got Me](https://open.spotify.com/track/01UHYCiwhLwlmuWQZg5phl) | [Louis VI](https://open.spotify.com/artist/7tQDfSGEfN1CJcCmnnN4FV), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [SUGAR LIKE SALT](https://open.spotify.com/album/0eeaR1oyRAFtre0WoxPJSg) | 4:02 | 2022-04-11 | 2022-04-21 |

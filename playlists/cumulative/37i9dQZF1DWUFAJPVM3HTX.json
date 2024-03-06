@@ -1828,10 +1828,28 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 216851,
       "name": "Alone",
       "url": "https://open.spotify.com/track/44ZY9pdZ2jvUr52IqKC5FF"
+    },
+    {
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/2JlxnXGkmJU3gVQWylCYWr"
+      },
+      "artists": [
+        {
+          "name": "Myke Grizzly",
+          "url": "https://open.spotify.com/artist/3l4XY26vL0FKhljOFmnMny"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216920,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/6G1yCTn40ETw4VWnB2dtDF"
     },
     {
       "album": {
@@ -2194,8 +2212,8 @@
           "url": "https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x"
         },
         {
-          "name": "Jada",
-          "url": "https://open.spotify.com/artist/0HjgS1pbPhuNrlPkda9INO"
+          "name": "JADA",
+          "url": "https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM"
         }
       ],
       "date_added": "2024-03-01",

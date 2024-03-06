@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6?si=DGNkf\_77RySgppJ9XZwZaQ">Miley Cyrus</a>, <a href="https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8?si=yfLgwajCQv6oRJ6vNfOFTQ">Pharrell Williams</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,745 likes - 74 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,802 likes - 74 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 3 | [Woza Madzala \(feat\. Ceeka RSA & Al Xapo\)](https://open.spotify.com/track/3EFj3mNL6FTSEpW2cIMzr7) | [Masterpiece YVK](https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [Al xapo](https://open.spotify.com/artist/6vIKxXxsfpL8tAmjP0eCwY) | [Woza Madzala \(feat\. Ceeka RSA & Al Xapo\)](https://open.spotify.com/album/3BvOvAOOLfKeU0gJyXNzAL) | 6:05 |
 | 4 | [Darling \(with Aloe Blacc\)](https://open.spotify.com/track/6sR3MHv7kJ0k3C8JDTASSv) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Darling \(with Aloe Blacc\)](https://open.spotify.com/album/1LvU8LC6QS10D853iffKsg) | 4:32 |
 | 5 | [Thela \(feat\. Khalil Harrison, Lastborn Diroba, SjavasDaDeejay & Al Xapo\)](https://open.spotify.com/track/6BMrzS0wi3Y2rxBaHcDvvU) | [Cooper SA](https://open.spotify.com/artist/7xDh9xWg5mER07kIArgw1G), [Tumelo\_za](https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD), [Khalil Harrison](https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp), [LastbornDiroba](https://open.spotify.com/artist/69bAy03h3A10xDSsb8xj3G), [SjavasDaDeejay](https://open.spotify.com/artist/7LkCT07miUMz6JlKRqi3v0), [Al xapo](https://open.spotify.com/artist/6vIKxXxsfpL8tAmjP0eCwY) | [Distortion EP](https://open.spotify.com/album/6D85GTJGSDQ9Q3LKcTaPHS) | 6:51 |
-| 6 | [Zuma](https://open.spotify.com/track/5RuDEpp78SOAjP9jNCgVOY) | [Titow](https://open.spotify.com/artist/5OqaeUQvohTvam0iZNrA1b), [Blaqnick](https://open.spotify.com/artist/6mi1DugrOth9lEeED3585h), [MasterBlaq](https://open.spotify.com/artist/11NLDYp0N1RGqB3NS0SpAQ) | [Zuma](https://open.spotify.com/album/2VQ0AexUtZvCgP7pmGKzGQ) | 6:48 |
+| 6 | [Zuma](https://open.spotify.com/track/5RuDEpp78SOAjP9jNCgVOY) | [Titow](https://open.spotify.com/artist/5OqaeUQvohTvam0iZNrA1b), [Blaqnick & MasterBlaq](https://open.spotify.com/artist/19qLtUQKu1KK3UrQtIoVXF) | [Zuma](https://open.spotify.com/album/2VQ0AexUtZvCgP7pmGKzGQ) | 6:48 |
 | 7 | [stayinit](https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [stayinit](https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF) | 4:34 |
 | 8 | [Another Episode](https://open.spotify.com/track/5v4E0SHkjHhKTfWdW28IEe) | [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Another Episode](https://open.spotify.com/album/5KNPMPMYybQhSW0QlDgGC8) | 3:14 |
 | 9 | [Still Yours \(From The Doc\)](https://open.spotify.com/track/7gJr3ockQ0fezUXuUXvaSq) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Still Yours \(From The Doc\)](https://open.spotify.com/album/03uCCaOFlRAJkE6oDInrLz) | 2:38 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 73 | [Like Me](https://open.spotify.com/track/6nMKU3uNB9Q7bk80XKUh8G) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Like Me](https://open.spotify.com/album/2ZAeVAkYsJ5XACYVz7my0c) | 2:17 |
 | 74 | [Never Too Far](https://open.spotify.com/track/6EfVcvhMtH0PA7JVyD8TJb) | [Njakes](https://open.spotify.com/artist/291CLsx8NHL2Aq1T9jgFCe), [whoswyLee](https://open.spotify.com/artist/6BleoYognZGVWnzcwannnO) | [Jump With Abandon](https://open.spotify.com/album/7nqJc3yvF0NLJvGyLylBi6) | 3:55 |
 
-Snapshot ID: `MCwxYmVlNzMyNWMzMzZjYTM5YmY0MTg5NGMwNGYxOWM4YTQ3ZDZmMDY5`
+Snapshot ID: `MCxiODZmMWM4MjU0NTM5NzM0MTlhYjMzMTg0N2Q3ZWZhNDliZmM1YjVj`

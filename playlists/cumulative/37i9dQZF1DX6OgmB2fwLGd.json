@@ -248,7 +248,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 124661,
       "name": "1500 Shawty",
       "url": "https://open.spotify.com/track/6f13WB2izFqsFFIl5eMdIT"
@@ -14760,6 +14760,28 @@
       "duration_ms": 169500,
       "name": "Self Esteem (featuring NLE Choppa)",
       "url": "https://open.spotify.com/track/4rithk0wQbWsppbWiaFFgE"
+    },
+    {
+      "album": {
+        "name": "NSFW 2: I Like Girls",
+        "url": "https://open.spotify.com/album/1pBI9gyxvVwMRlhUWjVtNw"
+      },
+      "artists": [
+        {
+          "name": "Rob Apollo",
+          "url": "https://open.spotify.com/artist/6yKhvpwLXw23Iy6jFr192V"
+        },
+        {
+          "name": "Baldie Balboa",
+          "url": "https://open.spotify.com/artist/0ZlhTnEkFNumpRzXOuRz3F"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205508,
+      "name": "Seppuku",
+      "url": "https://open.spotify.com/track/0djEmaFqvfSdtpNMZYTSdz"
     },
     {
       "album": {

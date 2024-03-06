@@ -8232,7 +8232,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 188173,
       "name": "STARLIGHT",
       "url": "https://open.spotify.com/track/5Gy2K8tW4bc4TAov7pfEKd"
@@ -9727,6 +9727,24 @@
     },
     {
       "album": {
+        "name": "Pretty Penny: Hitomi Tohyama the Best & Rare",
+        "url": "https://open.spotify.com/album/42rKFXGDHs2PWY2L9kVaEO"
+      },
+      "artists": [
+        {
+          "name": "Hitomi Tohyama",
+          "url": "https://open.spotify.com/artist/3qccez9ByXrGuPDQaJiy6o"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280706,
+      "name": "Tuxedo Connection - Dimitri from Paris Edit",
+      "url": "https://open.spotify.com/track/3deXs7hdPUPLJIpaZpUU43"
+    },
+    {
+      "album": {
         "name": "Twenty-Twenty",
         "url": "https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP"
       },
@@ -11166,7 +11184,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 196913,
       "name": "\u3060\u308a\u3043",
       "url": "https://open.spotify.com/track/11w5mx2G7vi5xkyIeI6DGx"
@@ -14238,6 +14256,24 @@
       "duration_ms": 215113,
       "name": "\u6ce1\u6cab\u30b8\u30ec\u30f3\u30de - feat.SUKISHA",
       "url": "https://open.spotify.com/track/3IbvgHm2hpwr2Ap5OqwcHC"
+    },
+    {
+      "album": {
+        "name": "\u61a7\u61ac\u90fd\u5e02 City Pop Covers",
+        "url": "https://open.spotify.com/album/0qEawMSvAYztSrj61prmaH"
+      },
+      "artists": [
+        {
+          "name": "Junk Fujiyama",
+          "url": "https://open.spotify.com/artist/53n2ZPbUwV55wVWwAiz64J"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278306,
+      "name": "\u6d41\u661f\u90fd\u5e02",
+      "url": "https://open.spotify.com/track/4YWyKUpBKyLwW2D6H0VmcC"
     },
     {
       "album": {

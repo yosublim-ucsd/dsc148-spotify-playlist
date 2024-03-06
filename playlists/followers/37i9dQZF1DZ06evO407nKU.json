@@ -1,5 +1,5 @@
 {
-  "2024-03-05": 47885,
+  "2024-03-06": 47908,
   "date_first_scraped": "2022-06-02",
   "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
   "name": "This Is Perdidos De Sinaloa",
@@ -447,6 +447,28 @@
       "duration_ms": 236830,
       "name": "El De La Mochila",
       "url": "https://open.spotify.com/track/5jEtP3pBbWthzCzhO0kCyC"
+    },
+    {
+      "album": {
+        "name": "El D\u00eda Que Me Fui (En Vivo)",
+        "url": "https://open.spotify.com/album/3o4AMtRkJGieVeQwmgTair"
+      },
+      "artists": [
+        {
+          "name": "Grupo La Ka\u00f1a",
+          "url": "https://open.spotify.com/artist/5HKItBjlIq7386wdY2gd9s"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214528,
+      "name": "El D\u00eda Que Me Fui (En Vivo)",
+      "url": "https://open.spotify.com/track/20k6zFGYcY0xQ51hLDrx7r"
     },
     {
       "album": {
@@ -1387,7 +1409,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 152019,
       "name": "Perdona",
       "url": "https://open.spotify.com/track/0ZDRj9YCiI7wtYwotcYhBe"

@@ -1,5 +1,5 @@
 {
-  "2024-03-05": 457343,
+  "2024-03-06": 457633,
   "date_first_scraped": "2023-03-30",
   "description": "This is how we do it, This is our style.\nCover: Sidhu Moose Wala",
   "name": "Hip Te Hop",
@@ -1084,6 +1084,32 @@
     },
     {
       "album": {
+        "name": "WHEN WE RIDE",
+        "url": "https://open.spotify.com/album/2x1eisYz2DSHg76V6HkaH5"
+      },
+      "artists": [
+        {
+          "name": "Baggh-e SMG",
+          "url": "https://open.spotify.com/artist/4eu7AyzvnafwOygTQlfAMu"
+        },
+        {
+          "name": "Farmaan SMG",
+          "url": "https://open.spotify.com/artist/3yXzSYXBOTZ0m1QAfjlzKK"
+        },
+        {
+          "name": "BIG KAY SMG",
+          "url": "https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210580,
+      "name": "GOOD LIFE GOOD THOUGHTS",
+      "url": "https://open.spotify.com/track/6YqphIqkJHHd0dVBJRnNHN"
+    },
+    {
+      "album": {
         "name": "Gutt",
         "url": "https://open.spotify.com/album/1Rw1ZFDTs08NyLop4Vz9ck"
       },
@@ -1215,7 +1241,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 206937,
       "name": "Hisaab",
       "url": "https://open.spotify.com/track/1yRBYvgibg7JVS6uGvbDGU"
@@ -1317,7 +1343,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 178604,
       "name": "Jailaan (From \"Moosa Jatt\")",
       "url": "https://open.spotify.com/track/1fOK4kKr4lCqQDV4rhLVvq"
@@ -2619,6 +2645,36 @@
       "duration_ms": 199205,
       "name": "We Rollin",
       "url": "https://open.spotify.com/track/6ZYxNjuAU9Vy3VtF6W1dtE"
+    },
+    {
+      "album": {
+        "name": "WHEN WE RIDE",
+        "url": "https://open.spotify.com/album/2x1eisYz2DSHg76V6HkaH5"
+      },
+      "artists": [
+        {
+          "name": "Real Boss",
+          "url": "https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP"
+        },
+        {
+          "name": "Baggh-e SMG",
+          "url": "https://open.spotify.com/artist/4eu7AyzvnafwOygTQlfAMu"
+        },
+        {
+          "name": "Farmaan SMG",
+          "url": "https://open.spotify.com/artist/3yXzSYXBOTZ0m1QAfjlzKK"
+        },
+        {
+          "name": "BIG KAY SMG",
+          "url": "https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177313,
+      "name": "WYS",
+      "url": "https://open.spotify.com/track/5GG8UKvp8FzRSM21DSNl5M"
     },
     {
       "album": {

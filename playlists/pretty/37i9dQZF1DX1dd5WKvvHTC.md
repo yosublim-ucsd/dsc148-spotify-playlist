@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Highlighting key releases from this month’s most exciting songwriters from around the globe\. Cover: <a href="spotify:artist:4wrzxtBZw20ufDstKyTnnP">Rachel Chinouriri</a> with collaborators HYLNU and Glen Roberts.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,439 likes - 39 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,508 likes - 39 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 | 34 | [Kiss of Death](https://open.spotify.com/track/3o3rGWacgLdSqCFWawiLAD) | [El Perro del Mar](https://open.spotify.com/artist/0bnwha8WPTU2sf4Q4P6vE0), [Vessel](https://open.spotify.com/artist/1GOmB31SXRbXCfTKrG2ta8) | [Big Anonymous](https://open.spotify.com/album/6B1TpyCZ28bpZaF0wKRree) | 5:19 |
 | 35 | [Rosemary](https://open.spotify.com/track/7p46jopEVdyoabBoen57VI) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Rosemary](https://open.spotify.com/album/30T3DK3SVzm0wfzPRY1drl) | 3:31 |
 | 36 | [A La Mode](https://open.spotify.com/track/1cHLSnf5ZHpVxgq500J4Ns) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS) | [A La Mode](https://open.spotify.com/album/3GGlNk4gopWsOTTKmR5wUV) | 2:32 |
-| 37 | [Unlove You](https://open.spotify.com/track/09aMmvVWk5n7kmsj2NS12a) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Unlove You](https://open.spotify.com/album/61RGgh2zxHHsIzyhqMZEzq) | 2:46 |
+| 37 | [Unlove You](https://open.spotify.com/track/2J4vV2TPhtXYUxIHqMCsq4) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Unlove You](https://open.spotify.com/album/0XOCr1zfM2co1x5dMIjO77) | 2:46 |
 | 38 | [OMG](https://open.spotify.com/track/39Tp0g9FmNfeRxOdh9mdUG) | [Libby Whitehouse](https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe) | [OMG](https://open.spotify.com/album/5nkLySr4VplyXkX7KVK2e0) | 2:41 |
 | 39 | [Anna \(Come Back\)](https://open.spotify.com/track/7mqHdhp7j8sIBPO1CjUmZJ) | [Brasko](https://open.spotify.com/artist/7pEbFi2YyD5d3Mxsqp5r4U) | [Anna \(Come Back\)](https://open.spotify.com/album/3OW6JJeLpagSnWjaYv2eRg) | 2:16 |
 
-Snapshot ID: `MCxjZGQ1NmQyOTIzZWMxMzlmOTFlYjZhZTE2NTFmNWMwZTc1NDFmNGMy`
+Snapshot ID: `MCxmMWU5MzIyMjFjNTY0Mjg0OWYyYjg2YzNmMzU2NjNiZmUyOTk0Mzlj`

@@ -360,10 +360,28 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 129009,
       "name": "Bloodstains",
       "url": "https://open.spotify.com/track/3fj5W7oDAv8RzGdidy4nfn"
+    },
+    {
+      "album": {
+        "name": "Greatest & Latest: This, That-n-The Other Thing",
+        "url": "https://open.spotify.com/album/7ygPIr0tEwpYsmJpwIVFuy"
+      },
+      "artists": [
+        {
+          "name": "Agent Orange",
+          "url": "https://open.spotify.com/artist/1pBsvSnrhmgDZqisT13SFA"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126989,
+      "name": "Bloodstains - Re-Recorded",
+      "url": "https://open.spotify.com/track/7LQyIbPLk22Qem2rNmitCL"
     },
     {
       "album": {

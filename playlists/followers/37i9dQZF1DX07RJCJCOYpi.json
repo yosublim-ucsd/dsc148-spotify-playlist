@@ -1,5 +1,5 @@
 {
-  "2024-03-05": 1652843,
+  "2024-03-06": 1652817,
   "date_first_scraped": "2022-04-20",
   "description": "The wave of Latin Electronic music. Cover: Fuerza Regida & Marshmello",
   "name": "mint Latin",
@@ -591,6 +591,24 @@
       "duration_ms": 282580,
       "name": "Boa Noite (La Noche)",
       "url": "https://open.spotify.com/track/0e5tqOMASIDGrRrdl8IgbI"
+    },
+    {
+      "album": {
+        "name": "BODHI",
+        "url": "https://open.spotify.com/album/7tdHmix1p8rQEl4NMNqV6O"
+      },
+      "artists": [
+        {
+          "name": "Usb Gad",
+          "url": "https://open.spotify.com/artist/5vkRwmJS3T2WTuGF3Lzyj7"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247500,
+      "name": "BODHI",
+      "url": "https://open.spotify.com/track/6C1E6noANrQ98jbhQ4zF7O"
     },
     {
       "album": {
@@ -5107,6 +5125,28 @@
       "duration_ms": 191254,
       "name": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
       "url": "https://open.spotify.com/track/2NFadq6pUeiVEihLvUlOSr"
+    },
+    {
+      "album": {
+        "name": "RAYBEN CAP 6: EL DANZ\u00d3N",
+        "url": "https://open.spotify.com/album/2Z7qHRKHMTKTV5cX0juLnh"
+      },
+      "artists": [
+        {
+          "name": "RAYBEN",
+          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
+        },
+        {
+          "name": "El HueyCoyote",
+          "url": "https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142677,
+      "name": "RAYBEN CAP 6: EL DANZ\u00d3N",
+      "url": "https://open.spotify.com/track/4n6JiKIrQ6ORMMYurmU2mr"
     },
     {
       "album": {

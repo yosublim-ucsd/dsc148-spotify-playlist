@@ -1,12 +1,12 @@
 {
   "description": "you give me shiverssss",
-  "num_followers": 417,
+  "num_followers": 421,
   "original_name": "shiversss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NmMyZTM1NzM3OWRkODBkNTIwY2QxNTU0ZjI0NjkzOTVhNzBjY2U1",
+  "snapshot_id": "MCw3ZTRhNThlYmNhYjQxYmZmZTQ5NDhkZGI0OTBhZmFlZmI4M2RkZjMx",
   "tracks": [
     {
       "added_at": "2024-03-01 00:01:00",
@@ -342,6 +342,10 @@
         {
           "name": "Ess thee Legend",
           "url": "https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA"
+        },
+        {
+          "name": "Robin Rozay",
+          "url": "https://open.spotify.com/artist/3p5fc6bu54bLBRlv6ZbWlV"
         }
       ],
       "duration_ms": 167865,

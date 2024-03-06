@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,053 songs - 2 day 8 hr 52 min
+1,054 songs - 2 day 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,9 +199,10 @@
 | [CTRL + ALT + DEL](https://open.spotify.com/track/7ElC7VjUNl3oJ20Q5OpEh9) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [CTRL + ALT + DEL](https://open.spotify.com/album/2BD9tHOuee052cd0Ufen1o) | 2:33 | 2021-11-23 | 2023-03-21 |
 | [Cubano](https://open.spotify.com/track/4f7zOPXtf4DKqAWgT3FD6x) | [Picco](https://open.spotify.com/artist/6i1CBwvebApraHKXUhMHQK) | [Cubano](https://open.spotify.com/album/2H07plPncZ3quyElho7OA9) | 2:48 | 2020-05-22\* | 2022-04-17 |
 | [Cut Me Loose \- Edit](https://open.spotify.com/track/0dSTbC1TcahlWOZV5C5OhI) | [Jethro Heston](https://open.spotify.com/artist/1Qj4wPnd5DKW7TXALK7Xfj), [Max Marshall](https://open.spotify.com/artist/7ppllgzNRgrnOjYbsyDzO6) | [Cut Me Loose \(Edit\)](https://open.spotify.com/album/1UWmbDu7nphgNFGPjuZrSR) | 3:22 | 2021-10-09 | 2022-10-17 |
-| [Cynical](https://open.spotify.com/track/0K44WSIFl2unqJEwKuLXGo) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl), [Chris de Sarandy](https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X) | [Cynical \(MistaJam Remix\)](https://open.spotify.com/album/5RSGGM4NroRRL5xU9Ow9qD) | 3:11 | 2023-12-01 |  |
+| [Cynical](https://open.spotify.com/track/0K44WSIFl2unqJEwKuLXGo) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl), [Chris de Sarandy](https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X) | [Cynical \(MistaJam Remix\)](https://open.spotify.com/album/5RSGGM4NroRRL5xU9Ow9qD) | 3:11 | 2023-12-01 | 2024-03-06 |
 | [Cynical](https://open.spotify.com/track/2grS8y9w2vVp7sDJ3RnSx9) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl), [Chris de Sarandy](https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X) | [Cynical](https://open.spotify.com/album/2FSVbytdzBlR6SBT4AFewv) | 3:11 | 2023-07-28 | 2023-12-02 |
 | [Cynical](https://open.spotify.com/track/2kNhZ57JHXkZPZH2rknRyu) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl), [Chris de Sarandy](https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X) | [Cynical](https://open.spotify.com/album/17LI3Izac2jjx89l1hqLST) | 3:11 | 2023-12-15 | 2024-03-01 |
+| [Cynical](https://open.spotify.com/track/6VritP6GDDRBFkijEkZWbm) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl), [Chris de Sarandy](https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X) | [Cynical](https://open.spotify.com/album/5RJagY9ID50QgTadJyTLuF) | 3:11 | 2024-02-26 |  |
 | [Daddy](https://open.spotify.com/track/3Bp5P1UoYfprzFy7EClcoz) | [Nitti Gritti](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [Daddy / What Happens In Vegas](https://open.spotify.com/album/4jq7sudnqaNjpJh8FMNTKZ) | 2:27 | 2021-12-11 | 2022-04-21 |
 | [DALE](https://open.spotify.com/track/4BVn3RIQ4gZxxytx8duidP) | [ricky retro](https://open.spotify.com/artist/1fA8WmzG2eU2q13kAAjoN8) | [DALE](https://open.spotify.com/album/0MNPF6dmnLWxPypu6wVJH5) | 2:11 | 2020-05-22\* | 2020-07-01 |
 | [Dame Mas](https://open.spotify.com/track/0JZdzytn0hL7Zzr538YEos) | [BadWolf](https://open.spotify.com/artist/6MyKIMrr222sdw8idnPVSd), [Soff](https://open.spotify.com/artist/7w1nxdMHMb92psp9qhI9mM) | [Dame Mas](https://open.spotify.com/album/0APfj52qXDE1HGaKGhFQJs) | 6:25 | 2022-04-29 | 2022-05-14 |

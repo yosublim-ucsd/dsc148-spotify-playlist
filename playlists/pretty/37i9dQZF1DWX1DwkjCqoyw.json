@@ -1,12 +1,12 @@
 {
   "description": "The biggest crossover songs from the islands all in one place. Cover: Shaggy",
-  "num_followers": 130965,
+  "num_followers": 131018,
   "original_name": "Island Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzIxMTc5NjE1Yzk1MGE0MGJlZDkyOTMyMzVjZTMwMzNkZTIyZTUw",
+  "snapshot_id": "MCw5NzJmZDA1MDNjMGJmMmI0YTg0NTk2NWJiNGMwMTEwNDFjOGJiMDJi",
   "tracks": [
     {
       "added_at": "2023-05-16 15:57:09",
@@ -503,18 +503,26 @@
     {
       "added_at": "2023-05-16 15:57:09",
       "album": {
-        "name": "ALPHA",
-        "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
+        "name": "Lighter (with Tarrus Riley & Rvssian)",
+        "url": "https://open.spotify.com/album/11FhJslAwiGqGYP2TLOVBq"
       },
       "artists": [
         {
           "name": "Shenseea",
           "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Tarrus Riley",
+          "url": "https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
         }
       ],
-      "duration_ms": 155307,
-      "name": "Can't Anymore",
-      "url": "https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq"
+      "duration_ms": 124515,
+      "name": "Lighter (with Tarrus Riley & Rvssian)",
+      "url": "https://open.spotify.com/track/1AAkIj1NSdpaoOZYctGnrg"
     },
     {
       "added_at": "2023-05-16 15:57:09",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover:  Casey Breves & Sam Tsui
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,794 likes - 69 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,799 likes - 69 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 68 | [One Little Finger](https://open.spotify.com/track/3XH8hYYGsj0WJGhdoffsaT) | [Plim Plim](https://open.spotify.com/artist/0XGgmwDOrlZE5O7GHCHJy8) | [Plim Plim Nursery Rhymes Vol\. 6](https://open.spotify.com/album/2djyYsu53UGFp825dJ6FFi) | 2:39 |
 | 69 | [My Happy Song](https://open.spotify.com/track/30nDdPcP3FIIrEVjCiwDSE) | [Babble Bop](https://open.spotify.com/artist/5vp20RxxkwlezWHgiiP0Hg) | [I Feel](https://open.spotify.com/album/07wSHtFG8Kc2k8Du834TGE) | 2:25 |
 
-Snapshot ID: `MCw4MzE2YzUxYmQ4YjFhZjllZjE3MmQ1YmU4Y2ZkYWU2OTVlMTU3NTA5`
+Snapshot ID: `MCw2Nzk5ZTRlMjUxNDY1MTQ1ODQxMDVlYjkyMGVhNmFiNjBjOTFlYjYz`

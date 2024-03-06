@@ -1,5 +1,5 @@
 {
-  "2024-03-05": 107793,
+  "2024-03-06": 107791,
   "date_first_scraped": "2019-09-29",
   "description": "Favorite songs of 2024 plus some of his favorite summer songs. Includes Summer 23, 22, &amp; 21 editions + bonus tracks.",
   "name": " Obama\u2019s Summer Playlist 2024",
@@ -4996,6 +4996,24 @@
     },
     {
       "album": {
+        "name": "Be Myself",
+        "url": "https://open.spotify.com/album/6JUwSSAlJpJH1dF9zil3Kk"
+      },
+      "artists": [
+        {
+          "name": "LeRoy Bell",
+          "url": "https://open.spotify.com/artist/72GenUi51ywKWtJmQTU1XE"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197224,
+      "name": "Be Myself",
+      "url": "https://open.spotify.com/track/1LUew6UDbhqUKujhMpPXgj"
+    },
+    {
+      "album": {
         "name": "Be Ok",
         "url": "https://open.spotify.com/album/1g1a1eUJs2of2IFI0UMbuT"
       },
@@ -9811,7 +9829,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-28",
+      "date_removed": null,
       "duration_ms": 183677,
       "name": "Claro Que Si",
       "url": "https://open.spotify.com/track/2PgJt3QluTTDwFoi8zqu26"
@@ -18127,7 +18145,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 233000,
       "name": "Fool for You",
       "url": "https://open.spotify.com/track/6zOW2qJlrALfG1TTk5yKc1"
@@ -44532,6 +44550,24 @@
     },
     {
       "album": {
+        "name": "Sin Piezas",
+        "url": "https://open.spotify.com/album/2jWulsE5KWL83wzklqjOfM"
+      },
+      "artists": [
+        {
+          "name": "Giulianna",
+          "url": "https://open.spotify.com/artist/1vN6MlKggoxbXYYYRJydod"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140663,
+      "name": "Sin Piezas",
+      "url": "https://open.spotify.com/track/4Etnql7HKVNAkZiwWVvRdO"
+    },
+    {
+      "album": {
         "name": "Since I Have A Lover",
         "url": "https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF"
       },
@@ -47157,7 +47193,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 192781,
       "name": "Suitcase",
       "url": "https://open.spotify.com/track/4aTAN54HmMq1mxrlQI9ofX"
@@ -47763,7 +47799,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 189271,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/710qfjtXZ5epd7pl9KdpTY"
@@ -48969,7 +49005,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 150857,
       "name": "Te Quiero Ver",
       "url": "https://open.spotify.com/track/4OPZnwJzfm6GGljxtRPV1m"
@@ -54723,7 +54759,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 282373,
       "name": "Watching You",
       "url": "https://open.spotify.com/track/5nNGWT6o8meSgBjLGMMOgL"

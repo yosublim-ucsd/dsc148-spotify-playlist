@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring day2k\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,231 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,241 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Perfect Match](https://open.spotify.com/track/4ejqsSAogGBnJSqyDW6sr1) | [Juli Martorell](https://open.spotify.com/artist/4dUFF4VrbkRpQmJ9fO5fVV), [Munic HB](https://open.spotify.com/artist/28oQ6vi1R2m9mdSBnsAkUQ) | [Perfect Match](https://open.spotify.com/album/64SVVk4xClSiwM4WAsi5BW) | 1:59 |
 | 50 | [Hasta las manos](https://open.spotify.com/track/36UPJ8XnApUd2tOx20bgNh) | [Negro Jacinto](https://open.spotify.com/artist/1vmU64v5EuGkNp3eaYesik) | [Hasta las manos](https://open.spotify.com/album/6YkdJV21k6UvB3b0lneE5Z) | 3:35 |
 
-Snapshot ID: `MCwxMTc3MWJjOTg5YzlhZmVjMDZhNTY3YzU5ZmIzMTA2NTY2ODY5NWNm`
+Snapshot ID: `MCw3MzIyM2E0ZGUxZDkyZjMwZjExZjY3OTljYzFmMjI2NWVkOTNhYzg3`

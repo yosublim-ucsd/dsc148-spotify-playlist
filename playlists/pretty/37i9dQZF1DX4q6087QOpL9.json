@@ -1,12 +1,12 @@
 {
   "description": "That real soulful house sound. Cover: Kerri Chandler",
-  "num_followers": 102032,
+  "num_followers": 102070,
   "original_name": "Soulful House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTcyZTUzNTU3YWRhMjc2MzQxMTdkMzk3MjU2N2UzMGM1OGYzZTk2",
+  "snapshot_id": "MCwwNzJmZjU0NDUzZTZlYmNkYzRiNjk4Y2M2M2ZhZmZlMWFjNGZkNTIw",
   "tracks": [
     {
       "added_at": "2024-01-31 14:58:27",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-01-31 14:58:27",
       "album": {
+        "name": "Lucas",
+        "url": "https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N"
+      },
+      "artists": [
+        {
+          "name": "Cody Currie",
+          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
+        }
+      ],
+      "duration_ms": 269572,
+      "name": "Night Visions",
+      "url": "https://open.spotify.com/track/3ChSgzeihSYujR3JpKk9De"
+    },
+    {
+      "added_at": "2024-01-31 14:58:27",
+      "album": {
         "name": "Stand (feat. Cor.Ece)",
         "url": "https://open.spotify.com/album/1GgpM2DW7JDXqnyllrXGsf"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 182821,
       "name": "Stand (feat. Cor.Ece) - Edit",
       "url": "https://open.spotify.com/track/6Ud0JDkQ2A08mck8vvLZdO"
-    },
-    {
-      "added_at": "2024-01-31 14:58:27",
-      "album": {
-        "name": "Lucas",
-        "url": "https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N"
-      },
-      "artists": [
-        {
-          "name": "Cody Currie",
-          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
-        }
-      ],
-      "duration_ms": 269572,
-      "name": "Night Visions",
-      "url": "https://open.spotify.com/track/3ChSgzeihSYujR3JpKk9De"
     },
     {
       "added_at": "2024-01-31 14:58:27",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2024-01-31 14:58:27",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/3A86ZfahL8jBCWGT1Put5n"
-      },
-      "artists": [
-        {
-          "name": "Leroy Styles",
-          "url": "https://open.spotify.com/artist/2MoxYOhy9ooC8KRcdgIFif"
-        },
-        {
-          "name": "Mister Vi",
-          "url": "https://open.spotify.com/artist/2kDrLqHECtvseToY2KBq2L"
-        }
-      ],
-      "duration_ms": 596157,
-      "name": "I'm A Blessed Man",
-      "url": "https://open.spotify.com/track/4qJZP0xc9qgitasa1U1AzA"
-    },
-    {
-      "added_at": "2024-01-31 14:58:27",
-      "album": {
         "name": "It's Over Now",
         "url": "https://open.spotify.com/album/2OTynXGD4thV4JRXfKpCPf"
       },
@@ -1095,26 +1075,6 @@
       "duration_ms": 377768,
       "name": "It's Over Now - Extended Vocal Mix",
       "url": "https://open.spotify.com/track/76sTVWN1GTofI77lz4nlxk"
-    },
-    {
-      "added_at": "2024-01-31 14:58:27",
-      "album": {
-        "name": "Irene - Remixes, Vol. 1",
-        "url": "https://open.spotify.com/album/0Oj4whJbnVdvOmvTPJtSYY"
-      },
-      "artists": [
-        {
-          "name": "Izy",
-          "url": "https://open.spotify.com/artist/79aQimb3liMvrff1f9Rn3F"
-        },
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 400000,
-      "name": "They Don't Care - Yoruba Soul Extended Mix",
-      "url": "https://open.spotify.com/track/7EMkf1CmxRSFIBgqa3pbSC"
     },
     {
       "added_at": "2024-01-31 14:58:27",
@@ -1143,6 +1103,46 @@
     {
       "added_at": "2024-01-31 14:58:27",
       "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/3A86ZfahL8jBCWGT1Put5n"
+      },
+      "artists": [
+        {
+          "name": "Leroy Styles",
+          "url": "https://open.spotify.com/artist/2MoxYOhy9ooC8KRcdgIFif"
+        },
+        {
+          "name": "Mister Vi",
+          "url": "https://open.spotify.com/artist/2kDrLqHECtvseToY2KBq2L"
+        }
+      ],
+      "duration_ms": 596157,
+      "name": "I'm A Blessed Man",
+      "url": "https://open.spotify.com/track/4qJZP0xc9qgitasa1U1AzA"
+    },
+    {
+      "added_at": "2024-01-31 14:58:27",
+      "album": {
+        "name": "Irene - Remixes, Vol. 1",
+        "url": "https://open.spotify.com/album/0Oj4whJbnVdvOmvTPJtSYY"
+      },
+      "artists": [
+        {
+          "name": "Izy",
+          "url": "https://open.spotify.com/artist/79aQimb3liMvrff1f9Rn3F"
+        },
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 400000,
+      "name": "They Don't Care - Yoruba Soul Extended Mix",
+      "url": "https://open.spotify.com/track/7EMkf1CmxRSFIBgqa3pbSC"
+    },
+    {
+      "added_at": "2024-01-31 14:58:27",
+      "album": {
         "name": "Dance",
         "url": "https://open.spotify.com/album/6ojblANvXgceb7VeUn2QSS"
       },
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-01-31 14:58:27",
       "album": {
+        "name": "Welcome Aboard",
+        "url": "https://open.spotify.com/album/47CFXxwAVI0tk9Y6uVNjcU"
+      },
+      "artists": [
+        {
+          "name": "Liquideep",
+          "url": "https://open.spotify.com/artist/31sepCsNPc5s1b0WpcVenP"
+        }
+      ],
+      "duration_ms": 455800,
+      "name": "Welcome Aboard",
+      "url": "https://open.spotify.com/track/4U2yUqDM2ibL4nc8ZMyONC"
+    },
+    {
+      "added_at": "2024-01-31 14:58:27",
+      "album": {
         "name": "History Repeating",
         "url": "https://open.spotify.com/album/0SshAJzzWIFTmybkYTDXVz"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 451200,
       "name": "History Repeating",
       "url": "https://open.spotify.com/track/5PVZSiUu7ODHWfbfWgqhqR"
-    },
-    {
-      "added_at": "2024-01-31 14:58:27",
-      "album": {
-        "name": "Welcome Aboard",
-        "url": "https://open.spotify.com/album/47CFXxwAVI0tk9Y6uVNjcU"
-      },
-      "artists": [
-        {
-          "name": "Liquideep",
-          "url": "https://open.spotify.com/artist/31sepCsNPc5s1b0WpcVenP"
-        }
-      ],
-      "duration_ms": 455800,
-      "name": "Welcome Aboard",
-      "url": "https://open.spotify.com/track/4U2yUqDM2ibL4nc8ZMyONC"
     },
     {
       "added_at": "2024-01-31 14:58:27",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2024-01-31 14:58:27",
       "album": {
-        "name": "Future Retro",
-        "url": "https://open.spotify.com/album/1wki4wfFifXgxNMZisngOv"
-      },
-      "artists": [
-        {
-          "name": "The Layabouts",
-          "url": "https://open.spotify.com/artist/6XRpgVJmeNjNh04Pjq07Wm"
-        },
-        {
-          "name": "Portia Monique",
-          "url": "https://open.spotify.com/artist/4Gfgfu8VYfDlejKCKU9mpc"
-        }
-      ],
-      "duration_ms": 266273,
-      "name": "Bring Me Joy",
-      "url": "https://open.spotify.com/track/6Divhr8qzx944oINsXthUM"
-    },
-    {
-      "added_at": "2024-01-31 14:58:27",
-      "album": {
         "name": "Devoted",
         "url": "https://open.spotify.com/album/4CDM5zo71P6JWyDzovwcZh"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 220475,
       "name": "Devoted - Radio Edit",
       "url": "https://open.spotify.com/track/1HzfuIqWacyHTNjyY99Ivu"
+    },
+    {
+      "added_at": "2024-01-31 14:58:27",
+      "album": {
+        "name": "Future Retro",
+        "url": "https://open.spotify.com/album/1wki4wfFifXgxNMZisngOv"
+      },
+      "artists": [
+        {
+          "name": "The Layabouts",
+          "url": "https://open.spotify.com/artist/6XRpgVJmeNjNh04Pjq07Wm"
+        },
+        {
+          "name": "Portia Monique",
+          "url": "https://open.spotify.com/artist/4Gfgfu8VYfDlejKCKU9mpc"
+        }
+      ],
+      "duration_ms": 266273,
+      "name": "Bring Me Joy",
+      "url": "https://open.spotify.com/track/6Divhr8qzx944oINsXthUM"
     },
     {
       "added_at": "2024-01-31 14:58:27",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2024-01-31 14:58:27",
       "album": {
+        "name": "Defined",
+        "url": "https://open.spotify.com/album/2oISJK1pZ6iRNh5XsmEMCG"
+      },
+      "artists": [
+        {
+          "name": "Kenny Bobien",
+          "url": "https://open.spotify.com/artist/6UaZuYX5K6yNTinUTBCWDS"
+        }
+      ],
+      "duration_ms": 342893,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/6jgS3uCkTBLjdep4kCwq8W"
+    },
+    {
+      "added_at": "2024-01-31 14:58:27",
+      "album": {
         "name": "House Classics V (Presented by Harley & Muscle)",
         "url": "https://open.spotify.com/album/7h7XZ78QlYAgRh69VlG3L9"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 372908,
       "name": "Inspiration",
       "url": "https://open.spotify.com/track/202tI4GzvovvGhMbqgmXDQ"
-    },
-    {
-      "added_at": "2024-01-31 14:58:27",
-      "album": {
-        "name": "Defined",
-        "url": "https://open.spotify.com/album/2oISJK1pZ6iRNh5XsmEMCG"
-      },
-      "artists": [
-        {
-          "name": "Kenny Bobien",
-          "url": "https://open.spotify.com/artist/6UaZuYX5K6yNTinUTBCWDS"
-        }
-      ],
-      "duration_ms": 342893,
-      "name": "Grateful",
-      "url": "https://open.spotify.com/track/6jgS3uCkTBLjdep4kCwq8W"
     },
     {
       "added_at": "2024-01-31 14:58:27",
@@ -1571,18 +1571,22 @@
     {
       "added_at": "2024-01-31 14:58:27",
       "album": {
-        "name": "I Never Knew Love",
-        "url": "https://open.spotify.com/album/2nIniMGpYsChZLPYNcvocw"
+        "name": "Word, Sound & Power",
+        "url": "https://open.spotify.com/album/3MqP5lYO3a7FYfPmhLIFkk"
       },
       "artists": [
         {
           "name": "Chez Damier",
           "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
+        },
+        {
+          "name": "Ron Trent",
+          "url": "https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d"
         }
       ],
-      "duration_ms": 229464,
-      "name": "I Never Knew Love - Made In Detroit Mix",
-      "url": "https://open.spotify.com/track/2PLQlE2zQKT3JfH3lWhIrz"
+      "duration_ms": 641584,
+      "name": "Morning Factory",
+      "url": "https://open.spotify.com/track/5Ss4qt2UmN2MIugKdbCR6K"
     },
     {
       "added_at": "2024-01-31 14:58:27",
@@ -1623,22 +1627,6 @@
     {
       "added_at": "2024-01-31 14:58:27",
       "album": {
-        "name": "Lost & Found EP Vol. 1",
-        "url": "https://open.spotify.com/album/72pHup0berMNoFJQwlwNWg"
-      },
-      "artists": [
-        {
-          "name": "Kerri Chandler",
-          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
-        }
-      ],
-      "duration_ms": 440854,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/4oc5WWzY3pKZ5R1H0nj8b9"
-    },
-    {
-      "added_at": "2024-01-31 14:58:27",
-      "album": {
         "name": "Meridian 2016",
         "url": "https://open.spotify.com/album/7IevppU9STA3qUXHvkbKK9"
       },
@@ -1659,22 +1647,34 @@
     {
       "added_at": "2024-01-31 14:58:27",
       "album": {
-        "name": "Word, Sound & Power",
-        "url": "https://open.spotify.com/album/3MqP5lYO3a7FYfPmhLIFkk"
+        "name": "Lost & Found EP Vol. 1",
+        "url": "https://open.spotify.com/album/72pHup0berMNoFJQwlwNWg"
+      },
+      "artists": [
+        {
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        }
+      ],
+      "duration_ms": 440854,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/4oc5WWzY3pKZ5R1H0nj8b9"
+    },
+    {
+      "added_at": "2024-01-31 14:58:27",
+      "album": {
+        "name": "I Never Knew Love",
+        "url": "https://open.spotify.com/album/2nIniMGpYsChZLPYNcvocw"
       },
       "artists": [
         {
           "name": "Chez Damier",
           "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
-        },
-        {
-          "name": "Ron Trent",
-          "url": "https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d"
         }
       ],
-      "duration_ms": 641584,
-      "name": "Morning Factory",
-      "url": "https://open.spotify.com/track/5Ss4qt2UmN2MIugKdbCR6K"
+      "duration_ms": 229464,
+      "name": "I Never Knew Love - Made In Detroit Mix",
+      "url": "https://open.spotify.com/track/2PLQlE2zQKT3JfH3lWhIrz"
     },
     {
       "added_at": "2024-01-31 14:58:27",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2024-01-31 14:58:27",
       "album": {
-        "name": "Abstract Jazz Journey EP 2",
-        "url": "https://open.spotify.com/album/1aPp2W2uo2oe9XdjsSJPZR"
-      },
-      "artists": [
-        {
-          "name": "Dennis Ferrer",
-          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
-        }
-      ],
-      "duration_ms": 507744,
-      "name": "Reach 4 Freedom - DF's Vocal Mix",
-      "url": "https://open.spotify.com/track/0ZEcI78PzxOXJ7mY3cRQDV"
-    },
-    {
-      "added_at": "2024-01-31 14:58:27",
-      "album": {
         "name": "Timeless Vol. 4",
         "url": "https://open.spotify.com/album/4fl5mvQpEBICZVHFCE01OU"
       },
@@ -1947,50 +1931,6 @@
     {
       "added_at": "2024-01-31 14:58:27",
       "album": {
-        "name": "Defected Presents House Masters: DJ Gregory & Julien Jabre",
-        "url": "https://open.spotify.com/album/2gn3OHZyw0fShGuhs4cYcr"
-      },
-      "artists": [
-        {
-          "name": "Julien Jabre",
-          "url": "https://open.spotify.com/artist/3MKxO8huUSV0g9E08bJbBM"
-        }
-      ],
-      "duration_ms": 642782,
-      "name": "Swimming Places",
-      "url": "https://open.spotify.com/track/296UJwtCHLVfs9zdE5zny9"
-    },
-    {
-      "added_at": "2024-01-31 14:58:27",
-      "album": {
-        "name": "Love's Been Right Here",
-        "url": "https://open.spotify.com/album/4pyTC09XaKrvHkZ990Ao3J"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Cooke",
-          "url": "https://open.spotify.com/artist/0tQ6E3EZuU6HCF9SaClbI2"
-        },
-        {
-          "name": "Kenny Bobien",
-          "url": "https://open.spotify.com/artist/6UaZuYX5K6yNTinUTBCWDS"
-        },
-        {
-          "name": "DJ Spen",
-          "url": "https://open.spotify.com/artist/4kr94nr7SzBRas5Cb3krFZ"
-        },
-        {
-          "name": "Gary Hudgins",
-          "url": "https://open.spotify.com/artist/66I1rqodsNrH6GX4rD5BoW"
-        }
-      ],
-      "duration_ms": 455505,
-      "name": "Love's Been Right Here - DJ Spen & Gary Hudgins Remix",
-      "url": "https://open.spotify.com/track/0I0Cp90UWNjsg3iOFW3iR5"
-    },
-    {
-      "added_at": "2024-01-31 14:58:27",
-      "album": {
         "name": "Avery*Sunshine Summer EP",
         "url": "https://open.spotify.com/album/0sLbMeLCTvBYnQv1YWb7NM"
       },
@@ -2007,22 +1947,18 @@
     {
       "added_at": "2024-01-31 14:58:27",
       "album": {
-        "name": "Want You In My Soul",
-        "url": "https://open.spotify.com/album/2s4lZOcIMe1MN2X9w1qeML"
+        "name": "Defected Presents House Masters: DJ Gregory & Julien Jabre",
+        "url": "https://open.spotify.com/album/2gn3OHZyw0fShGuhs4cYcr"
       },
       "artists": [
         {
-          "name": "Lovebirds",
-          "url": "https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui"
-        },
-        {
-          "name": "Stee Downes",
-          "url": "https://open.spotify.com/artist/1REIcVUKiv1NcVivFm1ufJ"
+          "name": "Julien Jabre",
+          "url": "https://open.spotify.com/artist/3MKxO8huUSV0g9E08bJbBM"
         }
       ],
-      "duration_ms": 497521,
-      "name": "Want You In My Soul",
-      "url": "https://open.spotify.com/track/125ABiFu87TxipoWAMK8LR"
+      "duration_ms": 642782,
+      "name": "Swimming Places",
+      "url": "https://open.spotify.com/track/296UJwtCHLVfs9zdE5zny9"
     },
     {
       "added_at": "2024-01-31 14:58:27",
@@ -2047,22 +1983,6 @@
     {
       "added_at": "2024-01-31 14:58:27",
       "album": {
-        "name": "Find A Friend",
-        "url": "https://open.spotify.com/album/1VzRZvS1esx3ieORitcrnc"
-      },
-      "artists": [
-        {
-          "name": "DJ John \u201cJulius\u201d Knight",
-          "url": "https://open.spotify.com/artist/2PXoD4LZuPCdy1R05cpM1u"
-        }
-      ],
-      "duration_ms": 409238,
-      "name": "Find A Friend",
-      "url": "https://open.spotify.com/track/6F7ddffZhKO7OsfGROYLDA"
-    },
-    {
-      "added_at": "2024-01-31 14:58:27",
-      "album": {
         "name": "The Afro Club Night",
         "url": "https://open.spotify.com/album/0BT0H5aadr5TFW8pl4yY4K"
       },
@@ -2075,6 +1995,42 @@
       "duration_ms": 335506,
       "name": "Watch Them Come (Men from the Nile aka Roy Davis Jr.)",
       "url": "https://open.spotify.com/track/6SNja7FTHw7sazeyKqdk28"
+    },
+    {
+      "added_at": "2024-01-31 14:58:27",
+      "album": {
+        "name": "Want You In My Soul",
+        "url": "https://open.spotify.com/album/2s4lZOcIMe1MN2X9w1qeML"
+      },
+      "artists": [
+        {
+          "name": "Lovebirds",
+          "url": "https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui"
+        },
+        {
+          "name": "Stee Downes",
+          "url": "https://open.spotify.com/artist/1REIcVUKiv1NcVivFm1ufJ"
+        }
+      ],
+      "duration_ms": 497521,
+      "name": "Want You In My Soul",
+      "url": "https://open.spotify.com/track/125ABiFu87TxipoWAMK8LR"
+    },
+    {
+      "added_at": "2024-01-31 14:58:27",
+      "album": {
+        "name": "Find A Friend",
+        "url": "https://open.spotify.com/album/1VzRZvS1esx3ieORitcrnc"
+      },
+      "artists": [
+        {
+          "name": "DJ John \u201cJulius\u201d Knight",
+          "url": "https://open.spotify.com/artist/2PXoD4LZuPCdy1R05cpM1u"
+        }
+      ],
+      "duration_ms": 409238,
+      "name": "Find A Friend",
+      "url": "https://open.spotify.com/track/6F7ddffZhKO7OsfGROYLDA"
     },
     {
       "added_at": "2024-01-31 14:58:27",
@@ -2307,6 +2263,26 @@
     {
       "added_at": "2024-01-31 14:58:27",
       "album": {
+        "name": "My Prayer (Micky More & Andy Tee Mixes)",
+        "url": "https://open.spotify.com/album/385RrkiS7KqbM53hQuS0hZ"
+      },
+      "artists": [
+        {
+          "name": "Ron Carroll",
+          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
+        },
+        {
+          "name": "Micky More & Andy Tee",
+          "url": "https://open.spotify.com/artist/4J8KATDlTQSmBzS6T78QPN"
+        }
+      ],
+      "duration_ms": 228694,
+      "name": "My Prayer - Micky More & Andy Tee Classic Edit",
+      "url": "https://open.spotify.com/track/1Lzz07hvxsfnQ7XZ3dJyi6"
+    },
+    {
+      "added_at": "2024-01-31 14:58:27",
+      "album": {
         "name": "For The Culture (Sean McCabe & Black Sonix Remix)",
         "url": "https://open.spotify.com/album/5hvhL20Q3hGxuZ6U7ZIhXf"
       },
@@ -2355,42 +2331,22 @@
     {
       "added_at": "2024-01-31 14:58:27",
       "album": {
-        "name": "My Prayer (Micky More & Andy Tee Mixes)",
-        "url": "https://open.spotify.com/album/385RrkiS7KqbM53hQuS0hZ"
+        "name": "Voices & Visions",
+        "url": "https://open.spotify.com/album/4tsU4INm6QWFeP1JC5sbwq"
       },
       "artists": [
         {
-          "name": "Ron Carroll",
-          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
+          "name": "Copyright",
+          "url": "https://open.spotify.com/artist/1QcNpVT6u0dHxmjpZoJtHd"
         },
         {
-          "name": "Micky More & Andy Tee",
-          "url": "https://open.spotify.com/artist/4J8KATDlTQSmBzS6T78QPN"
+          "name": "Song Williamson",
+          "url": "https://open.spotify.com/artist/06O1ocpjJ5R5NXjzIR18MB"
         }
       ],
-      "duration_ms": 228694,
-      "name": "My Prayer - Micky More & Andy Tee Classic Edit",
-      "url": "https://open.spotify.com/track/1Lzz07hvxsfnQ7XZ3dJyi6"
-    },
-    {
-      "added_at": "2024-01-31 14:58:27",
-      "album": {
-        "name": "Love Bomb",
-        "url": "https://open.spotify.com/album/038vo73ab6kJi4NsOL6dX1"
-      },
-      "artists": [
-        {
-          "name": "Jamie 3:26",
-          "url": "https://open.spotify.com/artist/2i3sHUKH86iD6khkNR1Fxi"
-        },
-        {
-          "name": "Danou P",
-          "url": "https://open.spotify.com/artist/7zbOXmwDJ5Ezs8reLsSsmv"
-        }
-      ],
-      "duration_ms": 554754,
-      "name": "Earl Montana",
-      "url": "https://open.spotify.com/track/7LQljpknL37lW8ki3l5Ny2"
+      "duration_ms": 483573,
+      "name": "He Is (feat. Song Williamson) - Ferrer & Sydenham Inc Vox Mix",
+      "url": "https://open.spotify.com/track/1y8VbIB3UBYC9Vov2ZuOOr"
     },
     {
       "added_at": "2024-01-31 14:58:27",
@@ -2435,6 +2391,26 @@
     {
       "added_at": "2024-01-31 14:58:27",
       "album": {
+        "name": "Love Bomb",
+        "url": "https://open.spotify.com/album/038vo73ab6kJi4NsOL6dX1"
+      },
+      "artists": [
+        {
+          "name": "Jamie 3:26",
+          "url": "https://open.spotify.com/artist/2i3sHUKH86iD6khkNR1Fxi"
+        },
+        {
+          "name": "Danou P",
+          "url": "https://open.spotify.com/artist/7zbOXmwDJ5Ezs8reLsSsmv"
+        }
+      ],
+      "duration_ms": 554754,
+      "name": "Earl Montana",
+      "url": "https://open.spotify.com/track/7LQljpknL37lW8ki3l5Ny2"
+    },
+    {
+      "added_at": "2024-01-31 14:58:27",
+      "album": {
         "name": "There Is Soul in My House",
         "url": "https://open.spotify.com/album/0mtSczfPaltwZlDzGEwD0M"
       },
@@ -2451,26 +2427,6 @@
       "duration_ms": 488266,
       "name": "I'm Free - Main Mix",
       "url": "https://open.spotify.com/track/3ZW2pHUEgX65rINbaqzZA7"
-    },
-    {
-      "added_at": "2024-01-31 14:58:27",
-      "album": {
-        "name": "Voices & Visions",
-        "url": "https://open.spotify.com/album/4tsU4INm6QWFeP1JC5sbwq"
-      },
-      "artists": [
-        {
-          "name": "Copyright",
-          "url": "https://open.spotify.com/artist/1QcNpVT6u0dHxmjpZoJtHd"
-        },
-        {
-          "name": "Song Williamson",
-          "url": "https://open.spotify.com/artist/06O1ocpjJ5R5NXjzIR18MB"
-        }
-      ],
-      "duration_ms": 483573,
-      "name": "He Is (feat. Song Williamson) - Ferrer & Sydenham Inc Vox Mix",
-      "url": "https://open.spotify.com/track/1y8VbIB3UBYC9Vov2ZuOOr"
     },
     {
       "added_at": "2024-01-31 14:58:27",
@@ -2607,6 +2563,22 @@
     {
       "added_at": "2024-01-31 14:58:27",
       "album": {
+        "name": "Jellybean Soul Presents: Feel the Spirit, Vol. 1",
+        "url": "https://open.spotify.com/album/4cHdkMOIVkTEK3NbTpYICk"
+      },
+      "artists": [
+        {
+          "name": "Kem",
+          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
+        }
+      ],
+      "duration_ms": 494066,
+      "name": "Heaven - Marlon D. & G.A. Club Mix",
+      "url": "https://open.spotify.com/track/6jNo9oEFfOBOm8DtmqOApe"
+    },
+    {
+      "added_at": "2024-01-31 14:58:27",
+      "album": {
         "name": "Karizma Remixed",
         "url": "https://open.spotify.com/album/1jqwtVXVinpV8HVCpdiK00"
       },
@@ -2631,22 +2603,6 @@
     {
       "added_at": "2024-01-31 14:58:27",
       "album": {
-        "name": "Jellybean Soul Presents: Feel the Spirit, Vol. 1",
-        "url": "https://open.spotify.com/album/4cHdkMOIVkTEK3NbTpYICk"
-      },
-      "artists": [
-        {
-          "name": "Kem",
-          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
-        }
-      ],
-      "duration_ms": 494066,
-      "name": "Heaven - Marlon D. & G.A. Club Mix",
-      "url": "https://open.spotify.com/track/6jNo9oEFfOBOm8DtmqOApe"
-    },
-    {
-      "added_at": "2024-01-31 14:58:27",
-      "album": {
         "name": "Pure Salinas, Vol. 2 (Compiled By Bruno from Ibiza)",
         "url": "https://open.spotify.com/album/54lLDilAyWA0Nn59tl3qhx"
       },
@@ -2663,6 +2619,26 @@
       "duration_ms": 446026,
       "name": "Get Ready - Halo City Deep Vocal Dub Mix",
       "url": "https://open.spotify.com/track/1UIwHajesmlhXR0kBnGG3Y"
+    },
+    {
+      "added_at": "2024-01-31 14:58:27",
+      "album": {
+        "name": "Betcha Wouldn't Hurt Me",
+        "url": "https://open.spotify.com/album/0kpPKhMy5OHxSZ0ohmxVQt"
+      },
+      "artists": [
+        {
+          "name": "Teddy Douglas",
+          "url": "https://open.spotify.com/artist/35UGEVPSCcrS0sdLjALMBj"
+        },
+        {
+          "name": "Sharon Brown Adams",
+          "url": "https://open.spotify.com/artist/7HW6vJ0W3rGNLAFJ0orZjW"
+        }
+      ],
+      "duration_ms": 350431,
+      "name": "Betcha Wouldn't Hurt Me (Vocal Mix)",
+      "url": "https://open.spotify.com/track/1bZKtZDLahZfdvPleIoCmZ"
     },
     {
       "added_at": "2024-01-31 14:58:27",
@@ -2691,26 +2667,6 @@
       "duration_ms": 360020,
       "name": "I Believe (feat. Suzanne Palmer) - Harry's Deep In Jersey Dub",
       "url": "https://open.spotify.com/track/6yJrrz04J7LZTb9hHW1fhE"
-    },
-    {
-      "added_at": "2024-01-31 14:58:27",
-      "album": {
-        "name": "Betcha Wouldn't Hurt Me",
-        "url": "https://open.spotify.com/album/0kpPKhMy5OHxSZ0ohmxVQt"
-      },
-      "artists": [
-        {
-          "name": "Teddy Douglas",
-          "url": "https://open.spotify.com/artist/35UGEVPSCcrS0sdLjALMBj"
-        },
-        {
-          "name": "Sharon Brown Adams",
-          "url": "https://open.spotify.com/artist/7HW6vJ0W3rGNLAFJ0orZjW"
-        }
-      ],
-      "duration_ms": 350431,
-      "name": "Betcha Wouldn't Hurt Me (Vocal Mix)",
-      "url": "https://open.spotify.com/track/1bZKtZDLahZfdvPleIoCmZ"
     },
     {
       "added_at": "2024-01-31 14:58:27",
@@ -2819,26 +2775,6 @@
     {
       "added_at": "2024-01-31 14:58:27",
       "album": {
-        "name": "Sentindo Muito Bem",
-        "url": "https://open.spotify.com/album/7joJVEYGXsGUSyNGfvaWou"
-      },
-      "artists": [
-        {
-          "name": "Peter Mac",
-          "url": "https://open.spotify.com/artist/4Tet47xDCtFbmqBNR8MySc"
-        },
-        {
-          "name": "Lalo Leyy",
-          "url": "https://open.spotify.com/artist/2cGCehXhlgeYfZH9bj1wZJ"
-        }
-      ],
-      "duration_ms": 435306,
-      "name": "Sentindo Muito Bem - Original Mix",
-      "url": "https://open.spotify.com/track/0TO9ClnPbTTo3S0CkyE0YQ"
-    },
-    {
-      "added_at": "2024-01-31 14:58:27",
-      "album": {
         "name": "Virgin Ubiquity: Remixed",
         "url": "https://open.spotify.com/album/2fx4CE0Us9UpxDD9ySZLHd"
       },
@@ -2863,6 +2799,26 @@
     {
       "added_at": "2024-01-31 14:58:27",
       "album": {
+        "name": "Good Morning EP",
+        "url": "https://open.spotify.com/album/4OceKEsE23D5MJbgWCoL7r"
+      },
+      "artists": [
+        {
+          "name": "Karizma",
+          "url": "https://open.spotify.com/artist/0HPOumWRIYOhcJ8FRraEsb"
+        },
+        {
+          "name": "Kaytronik",
+          "url": "https://open.spotify.com/artist/4E3Ym06uZ8vSiMfd9L19Se"
+        }
+      ],
+      "duration_ms": 373664,
+      "name": "Good Morning - Kaytronik Remix",
+      "url": "https://open.spotify.com/track/5XFwHSECR0Iy4bhdT0hSvP"
+    },
+    {
+      "added_at": "2024-01-31 14:58:27",
+      "album": {
         "name": "Todd Terry's Rare Grooves Vol. VI",
         "url": "https://open.spotify.com/album/1lrAW15Ve0rrlWz4SBpLiR"
       },
@@ -2883,22 +2839,22 @@
     {
       "added_at": "2024-01-31 14:58:27",
       "album": {
-        "name": "Good Morning EP",
-        "url": "https://open.spotify.com/album/4OceKEsE23D5MJbgWCoL7r"
+        "name": "Sentindo Muito Bem",
+        "url": "https://open.spotify.com/album/7joJVEYGXsGUSyNGfvaWou"
       },
       "artists": [
         {
-          "name": "Karizma",
-          "url": "https://open.spotify.com/artist/0HPOumWRIYOhcJ8FRraEsb"
+          "name": "Peter Mac",
+          "url": "https://open.spotify.com/artist/4Tet47xDCtFbmqBNR8MySc"
         },
         {
-          "name": "Kaytronik",
-          "url": "https://open.spotify.com/artist/4E3Ym06uZ8vSiMfd9L19Se"
+          "name": "Lalo Leyy",
+          "url": "https://open.spotify.com/artist/2cGCehXhlgeYfZH9bj1wZJ"
         }
       ],
-      "duration_ms": 373664,
-      "name": "Good Morning - Kaytronik Remix",
-      "url": "https://open.spotify.com/track/5XFwHSECR0Iy4bhdT0hSvP"
+      "duration_ms": 435306,
+      "name": "Sentindo Muito Bem - Original Mix",
+      "url": "https://open.spotify.com/track/0TO9ClnPbTTo3S0CkyE0YQ"
     },
     {
       "added_at": "2024-01-31 14:58:27",
@@ -2983,6 +2939,34 @@
     {
       "added_at": "2024-01-31 14:58:27",
       "album": {
+        "name": "Virgin Ubiquity: Remixed",
+        "url": "https://open.spotify.com/album/2fx4CE0Us9UpxDD9ySZLHd"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        },
+        {
+          "name": "Merry Clayton",
+          "url": "https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy"
+        },
+        {
+          "name": "Sylvia Cox",
+          "url": "https://open.spotify.com/artist/1oEFoNbrqTYuHrmBVaKSSl"
+        },
+        {
+          "name": "Phil Asher",
+          "url": "https://open.spotify.com/artist/1TltGeYRJu8JbGgSoisLfO"
+        }
+      ],
+      "duration_ms": 510280,
+      "name": "Brand New Feeling - Phil Asher Main Mix",
+      "url": "https://open.spotify.com/track/7GxJOGrNhObuU7D3JowwyR"
+    },
+    {
+      "added_at": "2024-01-31 14:58:27",
+      "album": {
         "name": "Set Me Free - Remixes",
         "url": "https://open.spotify.com/album/5bh6uUNIySnxJCbdBTUwKV"
       },
@@ -3023,6 +3007,22 @@
     {
       "added_at": "2024-01-31 14:58:27",
       "album": {
+        "name": "You Give Good Love",
+        "url": "https://open.spotify.com/album/0iaa34P40gFme6zgMmxqQe"
+      },
+      "artists": [
+        {
+          "name": "Kathy Brown",
+          "url": "https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq"
+        }
+      ],
+      "duration_ms": 397240,
+      "name": "You Give Good Love (Jay-J's Mouton Studios Dub)",
+      "url": "https://open.spotify.com/track/6SarIzRckv0TnNqoJbew5a"
+    },
+    {
+      "added_at": "2024-01-31 14:58:27",
+      "album": {
         "name": "Act Like You Know",
         "url": "https://open.spotify.com/album/0Vz5zwWx4yxpkIzBv9ayst"
       },
@@ -3039,30 +3039,38 @@
     {
       "added_at": "2024-01-31 14:58:27",
       "album": {
-        "name": "Virgin Ubiquity: Remixed",
-        "url": "https://open.spotify.com/album/2fx4CE0Us9UpxDD9ySZLHd"
+        "name": "What Would You Do? (feat. Andr\u00e9s & Amp Fiddler) [Louie Vega & Josh Milan Mixes]",
+        "url": "https://open.spotify.com/album/4u0byR8K2jXpAuWiEI5jRu"
       },
       "artists": [
         {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+          "name": "Dames Brown",
+          "url": "https://open.spotify.com/artist/7Hgnu346InP2IcZoMGGT8B"
         },
         {
-          "name": "Merry Clayton",
-          "url": "https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy"
+          "name": "Amp Fiddler",
+          "url": "https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU"
         },
         {
-          "name": "Sylvia Cox",
-          "url": "https://open.spotify.com/artist/1oEFoNbrqTYuHrmBVaKSSl"
+          "name": "Andr\u00e9s",
+          "url": "https://open.spotify.com/artist/4F9A2C8mnGhyavAaxKsS9c"
         },
         {
-          "name": "Phil Asher",
-          "url": "https://open.spotify.com/artist/1TltGeYRJu8JbGgSoisLfO"
+          "name": "Josh Milan",
+          "url": "https://open.spotify.com/artist/1Fg9rbSbeJTnwvfzHnkrPR"
+        },
+        {
+          "name": "Louie Vega",
+          "url": "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
+        },
+        {
+          "name": "Two Soul Fusion",
+          "url": "https://open.spotify.com/artist/2T0zwuNpohTRl07n0lLweb"
         }
       ],
-      "duration_ms": 510280,
-      "name": "Brand New Feeling - Phil Asher Main Mix",
-      "url": "https://open.spotify.com/track/7GxJOGrNhObuU7D3JowwyR"
+      "duration_ms": 502764,
+      "name": "What Would You Do? (feat. Andr\u00e9s & Amp Fiddler) - Two Soul Fusion Extended Remix",
+      "url": "https://open.spotify.com/track/3FveN91PgDsWiyVg0wZ4TN"
     }
   ],
   "unique_name": "Soulful House",

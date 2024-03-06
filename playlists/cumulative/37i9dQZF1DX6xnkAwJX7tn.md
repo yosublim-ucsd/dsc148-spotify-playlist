@@ -2,7 +2,7 @@
 
 ### [80s Party](https://open.spotify.com/playlist/37i9dQZF1DX6xnkAwJX7tn)
 
-> The biggest party hits of the 1980s.
+> The biggest party hits of the 1980s\. Cover: Bananarama
 
 314 songs - 21 hr 38 min
 

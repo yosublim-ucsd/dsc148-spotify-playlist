@@ -1,5 +1,5 @@
 {
-  "2024-03-05": 126478,
+  "2024-03-06": 126478,
   "date_first_scraped": "2022-01-22",
   "description": "Brand new music from Monstercat, all in one place.",
   "name": "New Music Weekly | Monstercat",
@@ -3267,7 +3267,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 253770,
       "name": "Echoes In My Head",
       "url": "https://open.spotify.com/track/54ASGJSgIJqBCUnvLRQsPg"
@@ -6025,6 +6025,24 @@
       "duration_ms": 129000,
       "name": "it\u2019s not easy when you\u2019re alone",
       "url": "https://open.spotify.com/track/1T44fRUBJqwWjZDttsMbJv"
+    },
+    {
+      "album": {
+        "name": "Johera",
+        "url": "https://open.spotify.com/album/6YRv6DbwXQfCQGsWHAnukJ"
+      },
+      "artists": [
+        {
+          "name": "Teddy Killerz",
+          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249600,
+      "name": "Johera",
+      "url": "https://open.spotify.com/track/15fgmFhr5x3ZoPojV1IRuj"
     },
     {
       "album": {

@@ -4,11 +4,11 @@
 
 > La fiesta se enciende con cumbia.
 
-176 songs - 10 hr 44 min
+177 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [3 AM](https://open.spotify.com/track/5uyUokRn9ryuEJ7hczuAcg) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [3 AM](https://open.spotify.com/album/0DkYroeRYdlhcp3kklyomb) | 3:13 | 2023-10-27 |  |
+| [3 AM](https://open.spotify.com/track/5uyUokRn9ryuEJ7hczuAcg) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [3 AM](https://open.spotify.com/album/0DkYroeRYdlhcp3kklyomb) | 3:13 | 2023-10-27 | 2024-03-06 |
 | [ADIÓS](https://open.spotify.com/track/2bNCiY24Eh4saMcc23bvUN) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:40 | 2023-08-25 |  |
 | [Adiós Amor](https://open.spotify.com/track/0QWVUw5wIoqVEu94F8dquj) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Adiós Amor](https://open.spotify.com/album/6vGU2CXxFbL36Qhx0f8qWs) | 4:19 | 2024-02-27 |  |
 | [Adiós Amor / Oye Mujer](https://open.spotify.com/track/0hvsOvo1zARlNnmHNhrxIF) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Adiós Amor / Oye Mujer](https://open.spotify.com/album/0BfSiRWo0RiAGhKowhcrxn) | 6:47 | 2024-02-27 |  |
@@ -65,6 +65,7 @@
 | [Haciendo el Amor](https://open.spotify.com/track/5lIWfnNZSSm4BA5xggmwVY) | [Amerika'n Sound](https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2) | [Quiéreme](https://open.spotify.com/album/4M0d3bxdMp3u48eEpbxPoU) | 3:44 | 2024-02-27 |  |
 | [Iluminará](https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Grandes Éxitos Regrabados](https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr) | 4:02 | 2023-08-25 |  |
 | [Inestable](https://open.spotify.com/track/0LNP7ifJkxGeEvP6sFchy5) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR), [Forest](https://open.spotify.com/artist/2j6Up11EpEUKQ5yIfFXhdU) | [Inestable](https://open.spotify.com/album/1CWPJ17Uaat4JP9IbrXlQr) | 2:45 | 2023-08-25 | 2023-10-28 |
+| [Jefe](https://open.spotify.com/track/61QmcWQJXScVoXCdyiqp8L) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [La Terrible Pulenta](https://open.spotify.com/album/0RildIXfukQ6fFuNtkpgX4) | 4:15 | 2024-02-27 |  |
 | [Juana María](https://open.spotify.com/track/6vOKCDntcnOWFOsEAmu5zI) | [Los Vasquez](https://open.spotify.com/artist/3GlN5joOPb7aAQVJLSPpJx) | [Contigo Pop y Cebolla](https://open.spotify.com/album/77shDYtUzVQvAyEpul11EJ) | 3:16 | 2024-02-27 |  |
 | [La Carretera 1](https://open.spotify.com/track/4lOVowTMEA5DYrfp2Bxyr9) | [Peregrinos del Amor](https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM) | [Imperio de la Cumbia](https://open.spotify.com/album/1sfzCRMaEsnOO7STpsKswx) | 4:47 | 2024-02-27 |  |
 | [La Cuarentena](https://open.spotify.com/track/4v0e1iR0t2e3lVHPuQZlea) | [Los Super Korsarios Del Amor](https://open.spotify.com/artist/0ZnJaxfplCgAKgbb8C6ecX) | [La Cuarentena](https://open.spotify.com/album/17OmyTx1GDRmsTb4zNYPCQ) | 3:52 | 2023-08-25 | 2024-02-28 |

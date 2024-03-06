@@ -2100,7 +2100,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 210857,
       "name": "Break the Line",
       "url": "https://open.spotify.com/track/5ze7yZ99744gLl83y2qDyx"
@@ -6908,7 +6908,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 199951,
       "name": "Her Melodie - Edit",
       "url": "https://open.spotify.com/track/0QtkgwXj1KZC3FZlsDgILh"
@@ -9420,6 +9420,28 @@
       "duration_ms": 281250,
       "name": "Love Like We're Dying",
       "url": "https://open.spotify.com/track/2BaS9Wc7gBIkicXxtIOUUH"
+    },
+    {
+      "album": {
+        "name": "Love Loud",
+        "url": "https://open.spotify.com/album/7ofobncYCierBbrI0Gmo5x"
+      },
+      "artists": [
+        {
+          "name": "Ciaran McAuley",
+          "url": "https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi"
+        },
+        {
+          "name": "Ciaran McAuley presents El\u00ef",
+          "url": "https://open.spotify.com/artist/0mD8WnekMqwZfNT3s5CwCp"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174720,
+      "name": "Love Loud",
+      "url": "https://open.spotify.com/track/3DGlzGu8B8YE0Eklb4QIdG"
     },
     {
       "album": {
@@ -12520,7 +12542,7 @@
       },
       "artists": [
         {
-          "name": "York",
+          "name": "YORK",
           "url": "https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q"
         },
         {
@@ -16352,6 +16374,32 @@
       "duration_ms": 265285,
       "name": "This Is Real - Christopher Corrigan Remix",
       "url": "https://open.spotify.com/track/1rxfxybkU2MH5FPqE7UNqs"
+    },
+    {
+      "album": {
+        "name": "Through The Shadows",
+        "url": "https://open.spotify.com/album/1eRnXdIeNy842Q5awvTSlC"
+      },
+      "artists": [
+        {
+          "name": "Nihil Young",
+          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
+        },
+        {
+          "name": "Andrea Martini",
+          "url": "https://open.spotify.com/artist/1ys1VqaDEFMz5iN74MuQMr"
+        },
+        {
+          "name": "Luke Coulson",
+          "url": "https://open.spotify.com/artist/5ctD2yNFX7W8uWIxTvirkx"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217713,
+      "name": "Through The Shadows",
+      "url": "https://open.spotify.com/track/1G2G5rVFPHIbxzfQLpjgkR"
     },
     {
       "album": {

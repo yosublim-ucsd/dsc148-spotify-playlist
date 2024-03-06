@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDKV5NsCgGw.md) - [plain]
 
 > La dolce playlist! Listen to all the music from The White Lotus, <br/>now streaming on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,396 likes - 94 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,400 likes - 94 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDKV5NsCgGw.md) - [plain]
 | 7 | [L'appuntamento](https://open.spotify.com/track/5PnEkOUOFnk0wMI71JwddQ) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv) | [Del Mio Meglio](https://open.spotify.com/album/6zP8t0J8Ue5YpWl4vAEEYm) | 4:34 |
 | 8 | [Quantu basilico](https://open.spotify.com/track/1VognYyHblHkphkRbUOUPa) | [Rosa Balistreri](https://open.spotify.com/artist/6PMYU9RDf4z5H45KdeMyeF) | [La Sicilia di Rosa Balistreri](https://open.spotify.com/album/3u7lY7pmS8Q7iNPyTDTwuH) | 3:26 |
 | 9 | [Preghiera in Gennaio](https://open.spotify.com/track/1Hd9I5eGPhOzc4M6C0pgME) | [Fabrizio De André](https://open.spotify.com/artist/19HiWVd2g0XyJstBsbW2Qm) | [Volume 1](https://open.spotify.com/album/7GmZv2K4fIf5uuqz4qIOth) | 3:31 |
-| 10 | [Citta' Vuota \(It's a Lonely Town\) \- 1998 Remaster](https://open.spotify.com/track/1lGfH2e0m2aITyZjrruveI) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [The Collection 3.0](https://open.spotify.com/album/1dgCgDO8EXCPOo3UzwcopH) | 5:00 |
+| 10 | [Citta' Vuota \(It's a Lonely Town\) \- 1998 Remaster](https://open.spotify.com/track/2r7WMPv51Wwc8zLNXqYq8M) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [The Collection 3.0](https://open.spotify.com/album/17yvHx4XPeVw2y9OGwy3w2) | 5:00 |
 | 11 | [Tu farai](https://open.spotify.com/track/3RfpzELsGR6t6xj0VFOBST) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Studio Uno](https://open.spotify.com/album/4kOeOxOX8Jr1wCgEQr7M3C) | 2:28 |
 | 12 | [La gatta](https://open.spotify.com/track/1f08sBI8nFXyQIU6FmOxSn) | [Gino Paoli](https://open.spotify.com/artist/2taCySpDIEEa2mvo2k7xkH) | [Una Sera Con Gino Paoli](https://open.spotify.com/album/1Ye4Fpcso9kRhVV7ameMAj) | 2:23 |
 | 13 | [La domenica](https://open.spotify.com/track/09CKkApA7REinpVtObxxPx) | [Cocki Mazzetti](https://open.spotify.com/artist/5ICPjbsXGVJCd45oUnoXMg) | [La domenica](https://open.spotify.com/album/69iedSd3OhKwXdOVNqFx2K) | 2:47 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDKV5NsCgGw.md) - [plain]
 | 93 | [Sea Turtle Song](https://open.spotify.com/track/02dBgXCHr1NwjE5kUpeKnd) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/0cZO3MDkGSpTmuTrH2vyhu) | 1:44 |
 | 94 | [I Want to Live](https://open.spotify.com/track/2yNwpZpPiWzVygOEZISXDa) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/0cZO3MDkGSpTmuTrH2vyhu) | 5:09 |
 
-Snapshot ID: `MCwyYzNlMzBhNGYyNmQxZDNiZDMxNjc0MzkyZWU1YzNlZDliMWFmMzkz`
+Snapshot ID: `MCw3ZTAwZTJjNzM0MmY2OTVhMWMzMDQ0YmM0ZDM2ZTgwODI0ZGY4ZWNm`

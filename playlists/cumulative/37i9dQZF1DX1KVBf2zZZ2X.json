@@ -833,6 +833,24 @@
     },
     {
       "album": {
+        "name": "Forest Meditation",
+        "url": "https://open.spotify.com/album/6QglUf9LlWfLggtxTEaiG0"
+      },
+      "artists": [
+        {
+          "name": "Aviaries",
+          "url": "https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177416,
+      "name": "Forest Meditation",
+      "url": "https://open.spotify.com/track/1k9IdKVscuUnbY1NDYdGId"
+    },
+    {
+      "album": {
         "name": "Back to life",
         "url": "https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS"
       },
@@ -1571,6 +1589,24 @@
     },
     {
       "album": {
+        "name": "On Quietude",
+        "url": "https://open.spotify.com/album/5Rdpc4zu0Mv5401DI3V7qB"
+      },
+      "artists": [
+        {
+          "name": "Tonal Topographies",
+          "url": "https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168214,
+      "name": "On Quietude",
+      "url": "https://open.spotify.com/track/5JiXbtZhm8I6O62S3NHqzi"
+    },
+    {
+      "album": {
         "name": "A Cottage in a Storm",
         "url": "https://open.spotify.com/album/71BxdqhFXfv0W60R82WgQ1"
       },
@@ -1913,6 +1949,24 @@
     },
     {
       "album": {
+        "name": "Reverie in the Trees (Sound Bath)",
+        "url": "https://open.spotify.com/album/6DEyaXzlZ8i2RhisVMLSdo"
+      },
+      "artists": [
+        {
+          "name": "Miyasato Mana",
+          "url": "https://open.spotify.com/artist/5OcbNTR6HjYavfDrHplvav"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173570,
+      "name": "Reverie in the Trees (Sound Bath)",
+      "url": "https://open.spotify.com/track/5RWb9UQffYkIRJplHoZnQ5"
+    },
+    {
+      "album": {
         "name": "Rhizome",
         "url": "https://open.spotify.com/album/0NzS4TXtxjpOZOtGLLYyNt"
       },
@@ -2003,6 +2057,24 @@
     },
     {
       "album": {
+        "name": "Second Wishes",
+        "url": "https://open.spotify.com/album/3NlwZy60OQ5UMMYuXMqCgi"
+      },
+      "artists": [
+        {
+          "name": "Interspaces",
+          "url": "https://open.spotify.com/artist/2EWOWYo7on9DF7RLOLcia3"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "Second Wishes",
+      "url": "https://open.spotify.com/track/2nB18heJxd22fyEIp6u5HE"
+    },
+    {
+      "album": {
         "name": "Secunda Carmina",
         "url": "https://open.spotify.com/album/6Mimz0Gk1BdDz5NPhtBiyG"
       },
@@ -2050,7 +2122,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-08",
+      "date_removed": null,
       "duration_ms": 271384,
       "name": "Serene Dream",
       "url": "https://open.spotify.com/track/3phLyMjkzsEK6nXfIsFp7I"

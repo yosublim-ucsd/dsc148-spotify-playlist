@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: CHUNG
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,018 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,045 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 74 | [Euphoria](https://open.spotify.com/track/0cQTi41jb0GGuO6fXlmPOq) | [Boeckner](https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE) | [Euphoria](https://open.spotify.com/album/2Ia3kOV9diSvGI5natyvDw) | 4:01 |
 | 75 | [Villanos](https://open.spotify.com/track/5hFwiiUek2S7huJQCZlR4P) | [Nanu](https://open.spotify.com/artist/0NdqwX70EDgH6cXE2Nf6g6), [MOULA 1ST](https://open.spotify.com/artist/6KkRTh4TxUd0AEK794U52C) | [Villanos](https://open.spotify.com/album/4Y9zuys4B4Snr82HN7c1HX) | 2:54 |
 
-Snapshot ID: `MCxmMGQ0YWE3ZWViZDNlOGYzMjRkMjAwODIwNGNjZDBlOGMzOGQzNGMw`
+Snapshot ID: `MCw3MzU3MWFiY2I5NTA1OWQ2MzBlNTQ0Y2I2N2NjZjYzYzE3ZjI5ZGJk`

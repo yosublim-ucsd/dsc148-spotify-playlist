@@ -1,5 +1,5 @@
 {
-  "2024-03-05": 1524096,
+  "2024-03-06": 1524164,
   "date_first_scraped": "2019-05-25",
   "description": "A calm piano soundtrack to all activities.",
   "name": "Piano in the Background",
@@ -493,6 +493,24 @@
       "duration_ms": 169037,
       "name": "A New World's Dream",
       "url": "https://open.spotify.com/track/64Nktb1GhXgrEGtBD4oFRI"
+    },
+    {
+      "album": {
+        "name": "A passing season",
+        "url": "https://open.spotify.com/album/7uFAhV4JjbE5B7xgvxYTx7"
+      },
+      "artists": [
+        {
+          "name": "Rowan Guthrie",
+          "url": "https://open.spotify.com/artist/5UZOjfjGjEFQ5v3HGf02YG"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175354,
+      "name": "A passing season",
+      "url": "https://open.spotify.com/track/0kcNgvxO5miMzPqkFYoeqK"
     },
     {
       "album": {
@@ -3813,7 +3831,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 158168,
       "name": "Cavandoli",
       "url": "https://open.spotify.com/track/5y2VQOhr2C26gGbxZfx9DT"
@@ -4267,7 +4285,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 156906,
       "name": "Close",
       "url": "https://open.spotify.com/track/5tUoI7u3zsCo9KCx5s3GQh"
@@ -4613,7 +4631,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 184240,
       "name": "Contemplation",
       "url": "https://open.spotify.com/track/04QMzMxrwND0Tkh3Na0K6K"
@@ -6453,7 +6471,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 169349,
       "name": "Elegie",
       "url": "https://open.spotify.com/track/5qowE02tRUQqFf3uTC8tgs"
@@ -22765,7 +22783,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 134750,
       "name": "Sleeping at last",
       "url": "https://open.spotify.com/track/1ri9OTTCvGn1yMlDiqAdFS"
@@ -25124,6 +25142,24 @@
     },
     {
       "album": {
+        "name": "The Last Goodbye",
+        "url": "https://open.spotify.com/album/2iY03z9xsWzIeLkLiJ5iB7"
+      },
+      "artists": [
+        {
+          "name": "Aquilegia",
+          "url": "https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170986,
+      "name": "The Last Goodbye",
+      "url": "https://open.spotify.com/track/0CFHCZ9LKhFA1DqExQHkf9"
+    },
+    {
+      "album": {
         "name": "The letter",
         "url": "https://open.spotify.com/album/0TiRvvmrH6z4yAMRICchhY"
       },
@@ -27011,7 +27047,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 182455,
       "name": "Tuscan Nights",
       "url": "https://open.spotify.com/track/6fFGV4AKC65SksEn9eJy6R"
@@ -27767,7 +27803,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 195997,
       "name": "Verses",
       "url": "https://open.spotify.com/track/6t1T3fMWfv5svT4ZTsBnBY"
@@ -28779,6 +28815,24 @@
       "duration_ms": 169874,
       "name": "Whirling sky",
       "url": "https://open.spotify.com/track/0ngwNemhn1nKmYHYZnJZmB"
+    },
+    {
+      "album": {
+        "name": "Whirlwind",
+        "url": "https://open.spotify.com/album/0eghO1S8oHi2VvKAkcjBfZ"
+      },
+      "artists": [
+        {
+          "name": "Edgar De Vries",
+          "url": "https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168758,
+      "name": "Whirlwind",
+      "url": "https://open.spotify.com/track/7LrSlEs718sY5CbZ3z4Ra9"
     },
     {
       "album": {

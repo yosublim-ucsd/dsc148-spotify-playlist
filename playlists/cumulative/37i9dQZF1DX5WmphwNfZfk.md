@@ -4,7 +4,7 @@
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: bludnymph
 
-1,564 songs - 3 day 8 hr 19 min
+1,565 songs - 3 day 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1363,6 +1363,7 @@
 | [The People's Champ](https://open.spotify.com/track/30KKd33s2z1nigw5P1sPVE) | [DvblM](https://open.spotify.com/artist/2MUXp2OoYU1py0PRSxbn7B) | [The People's Champ](https://open.spotify.com/album/5BQ3QqutRn91TpvTBJ0w0w) | 1:53 | 2022-07-01 | 2022-08-06 |
 | [The Perfect Life](https://open.spotify.com/track/0h3N07sZgc9rzDLfsOniri) | [adam brian paul](https://open.spotify.com/artist/3t5QpadlJRUDWaL2OXileh) | [The Perfect Life](https://open.spotify.com/album/5GqVTkArRf7qxyfEkvtYvR) | 2:42 | 2022-02-04 | 2022-03-05 |
 | [The Precipice](https://open.spotify.com/track/5c5Jkj5WUgkfTF0X6me831) | [WISE](https://open.spotify.com/artist/5Jw6zr5U4jNtFzDQvtjNSH) | [The Precipice](https://open.spotify.com/album/1EbcffzlAU2zKbDQEkSWqY) | 2:25 | 2023-04-07 | 2023-05-06 |
+| [The Pure](https://open.spotify.com/track/6ZkH2U1dkFSLaQFBgTEfrn) | [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW), [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K), [Dano](https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0) | [The Pure](https://open.spotify.com/album/3BiY0c1t8TMJaWJ1OCa07o) | 3:41 | 2024-03-05 |  |
 | [The Ride](https://open.spotify.com/track/0U2CIiuR2rm5JnA3gyi7Qi) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [The Ride](https://open.spotify.com/album/3oLWwKaQBN3RgjllHPnubw) | 3:00 | 2024-03-01 |  |
 | [THE STORM](https://open.spotify.com/track/75lkxdniwXmiQkEsiLXXnb) | [Beatrice Deer](https://open.spotify.com/artist/3YEhsztAtjqpC0JikHMmYe) | [THE STORM](https://open.spotify.com/album/31LTx7zUZwHIsM7hlHJSai) | 2:50 | 2021-12-06 | 2022-01-08 |
 | [The Symptoms of Vanity](https://open.spotify.com/track/3P46IcnN4aYYPGR6QiLn7g) | [nodisco.](https://open.spotify.com/artist/5r9DYiYT0GKn6FcbbJtlqq) | [The Symptoms of Vanity](https://open.spotify.com/album/4Ly7xnHm17aqWZMUraI2SV) | 2:50 | 2022-11-11 | 2022-12-01 |
@@ -1477,7 +1478,7 @@
 | [W Da Vybz](https://open.spotify.com/track/7lJC0cgNbkVAOH136SKYfD) | [Burna Bandz](https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ) | [Bandemic](https://open.spotify.com/album/4ATOnKifRIXgxxpWYCPEoU) | 2:38 | 2023-02-03 | 2023-03-04 |
 | [W.I.T.C.H.](https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [W.I.T.C.H.](https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b) | 2:12 | 2022-08-05 | 2023-02-04 |
 | [Wagwan](https://open.spotify.com/track/6Pfq8pHYsT5Va9FxndlIT4) | [LolaBunz](https://open.spotify.com/artist/72yhrvuYx4imB6MXUOsjNa), [BabaFemi](https://open.spotify.com/artist/4YHF6TPA5V80G6W6dQ91jG) | [Wagwan](https://open.spotify.com/album/6M8E3XZsbqGtlzlb59qtzW) | 2:19 | 2024-03-01 |  |
-| [Wait For Me](https://open.spotify.com/track/34w4MTDsuPBTAT3T3wedUp) | [Joël Lobban](https://open.spotify.com/artist/1aKxOOjrr9tPOCat11beik), [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [I Still Think About You](https://open.spotify.com/album/5OEBc4f8y1em64lH6PAV5y) | 2:24 | 2024-03-01 |  |
+| [Wait For Me](https://open.spotify.com/track/34w4MTDsuPBTAT3T3wedUp) | [Joël Lobban](https://open.spotify.com/artist/1aKxOOjrr9tPOCat11beik), [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [I Still Think About You](https://open.spotify.com/album/5OEBc4f8y1em64lH6PAV5y) | 2:24 | 2024-03-01 | 2024-03-06 |
 | [Wait on You](https://open.spotify.com/track/0bkaEQFMm2pxKm1A6JIgbg) | [Brittany Kennell](https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP) | [Wait On You](https://open.spotify.com/album/5os2gq7OO3CJWwTdrczrVm) | 3:06 | 2023-09-01 | 2023-10-06 |
 | [Waiting for this Love to Die](https://open.spotify.com/track/34E2VmDjfqvmNayzDnBUBp) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [The Things We Talk About](https://open.spotify.com/album/0yacmHDg4T7bXiDtcf3Jlb) | 3:37 | 2023-07-07 | 2023-08-05 |
 | [Wallets & Pockets](https://open.spotify.com/track/1lwekc1uvYQFoggTMxeL3N) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [Wallets & Pockets](https://open.spotify.com/album/5pCy66rPJ13ksXznOJHs75) | 2:06 | 2023-05-05 | 2023-06-03 |

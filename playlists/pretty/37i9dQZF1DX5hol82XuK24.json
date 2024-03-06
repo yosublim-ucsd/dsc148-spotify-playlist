@@ -1,12 +1,12 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 427140,
+  "num_followers": 427229,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNmY4NDllZDMzMDMzNmQ4ZjRkNjQ4ZmQ2ZWU4ZGIwZjQ0MDg3MTQ0",
+  "snapshot_id": "MCw4ZTAxZjMyYmQ3MDczNjk0ZjY1NGY0M2E5N2Y2ZjcwNzRhNmY1ZGFi",
   "tracks": [
     {
       "added_at": "2023-11-03 23:08:22",
@@ -917,22 +917,6 @@
       "url": "https://open.spotify.com/track/6NrjC9PUZo2do7aLhkf373"
     },
     {
-      "added_at": "2024-02-05 23:33:58",
-      "album": {
-        "name": "Religion for One",
-        "url": "https://open.spotify.com/album/3Sz2ldxbLynqngGDSrj8Dl"
-      },
-      "artists": [
-        {
-          "name": "Fat White Family",
-          "url": "https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4"
-        }
-      ],
-      "duration_ms": 199727,
-      "name": "Religion for One",
-      "url": "https://open.spotify.com/track/54Zik7AdvtDDZksQm015Z7"
-    },
-    {
       "added_at": "2023-11-03 23:08:22",
       "album": {
         "name": "Services",
@@ -947,6 +931,22 @@
       "duration_ms": 250211,
       "name": "Strange Harvest",
       "url": "https://open.spotify.com/track/3tpNnUzPHhN6kZfHUnoKfV"
+    },
+    {
+      "added_at": "2024-02-05 23:33:58",
+      "album": {
+        "name": "Religion for One",
+        "url": "https://open.spotify.com/album/3Sz2ldxbLynqngGDSrj8Dl"
+      },
+      "artists": [
+        {
+          "name": "Fat White Family",
+          "url": "https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4"
+        }
+      ],
+      "duration_ms": 199727,
+      "name": "Religion for One",
+      "url": "https://open.spotify.com/track/54Zik7AdvtDDZksQm015Z7"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "It Was Gone",
-        "url": "https://open.spotify.com/album/2zz9Kq8rQRdV7y9fvpG6eg"
-      },
-      "artists": [
-        {
-          "name": "Orchid Mantis",
-          "url": "https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq"
-        }
-      ],
-      "duration_ms": 307069,
-      "name": "It Was Gone",
-      "url": "https://open.spotify.com/track/5XUpxZO6tIHpupxE97LJ7I"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "A Different Arrangement",
         "url": "https://open.spotify.com/album/5xfhDwP4VI3eINmHYm72CG"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 224180,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/4wo2FC3qqvi1gDKJZg4Boc"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "It Was Gone",
+        "url": "https://open.spotify.com/album/2zz9Kq8rQRdV7y9fvpG6eg"
+      },
+      "artists": [
+        {
+          "name": "Orchid Mantis",
+          "url": "https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq"
+        }
+      ],
+      "duration_ms": 307069,
+      "name": "It Was Gone",
+      "url": "https://open.spotify.com/track/5XUpxZO6tIHpupxE97LJ7I"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
+        "name": "Sleeping In Your Garden",
+        "url": "https://open.spotify.com/album/2am9dGCCUrwCw1DOX4wiXX"
+      },
+      "artists": [
+        {
+          "name": "Gia Ford",
+          "url": "https://open.spotify.com/artist/238uE9s8BDKrIYbzpxIgOX"
+        }
+      ],
+      "duration_ms": 204029,
+      "name": "Sleeping In Your Garden",
+      "url": "https://open.spotify.com/track/1eG48OpdY0FRJcDlBwqzRi"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
         "name": "Valley Ghoul",
         "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 177316,
       "name": "Flood",
       "url": "https://open.spotify.com/track/49WW6BCMjCCYt6V6UEhy4H"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
-        "name": "Sleeping In Your Garden",
-        "url": "https://open.spotify.com/album/2am9dGCCUrwCw1DOX4wiXX"
-      },
-      "artists": [
-        {
-          "name": "Gia Ford",
-          "url": "https://open.spotify.com/artist/238uE9s8BDKrIYbzpxIgOX"
-        }
-      ],
-      "duration_ms": 204029,
-      "name": "Sleeping In Your Garden",
-      "url": "https://open.spotify.com/track/1eG48OpdY0FRJcDlBwqzRi"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Miracle of Life",
-        "url": "https://open.spotify.com/album/2zhLqLBVarC5FcaYC3CfZx"
-      },
-      "artists": [
-        {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
-        }
-      ],
-      "duration_ms": 216584,
-      "name": "Miracle of Life",
-      "url": "https://open.spotify.com/track/7ypqr1r0iQSrkF9eP21wjh"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Somebody Told Me",
         "url": "https://open.spotify.com/album/3kLyeLRbV9sExn8j6Dxd5P"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 231242,
       "name": "Somebody Told Me",
       "url": "https://open.spotify.com/track/1NipBTZQXFIeQaqzy1Mdjj"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Miracle of Life",
+        "url": "https://open.spotify.com/album/2zhLqLBVarC5FcaYC3CfZx"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "duration_ms": 216584,
+      "name": "Miracle of Life",
+      "url": "https://open.spotify.com/track/7ypqr1r0iQSrkF9eP21wjh"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
+        "name": "Brkn",
+        "url": "https://open.spotify.com/album/2MMpWxHFQXkCoglx8bHX6G"
+      },
+      "artists": [
+        {
+          "name": "VOID",
+          "url": "https://open.spotify.com/artist/5m7jKBcJl9VAPoejUW48gc"
+        }
+      ],
+      "duration_ms": 179805,
+      "name": "Brkn",
+      "url": "https://open.spotify.com/track/0kt17oiymmdO5hl4FpVKpu"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
         "name": "Take Me Down (Nourished by Time Version)",
         "url": "https://open.spotify.com/album/3IixjGRUGeSJtzsA92Ybbr"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 243387,
       "name": "Take Me Down - Nourished by Time Version",
       "url": "https://open.spotify.com/track/3biDGDnL1hdlXTHgLP3s4m"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
-        "name": "Brkn",
-        "url": "https://open.spotify.com/album/2MMpWxHFQXkCoglx8bHX6G"
-      },
-      "artists": [
-        {
-          "name": "VOID",
-          "url": "https://open.spotify.com/artist/5m7jKBcJl9VAPoejUW48gc"
-        }
-      ],
-      "duration_ms": 179805,
-      "name": "Brkn",
-      "url": "https://open.spotify.com/track/0kt17oiymmdO5hl4FpVKpu"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Tape V",
-        "url": "https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw"
-      },
-      "artists": [
-        {
-          "name": "Daniel Spaleniak",
-          "url": "https://open.spotify.com/artist/2OnWZezIAII3VLBCxG5gQs"
-        }
-      ],
-      "duration_ms": 177801,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Less",
         "url": "https://open.spotify.com/album/7H0jxA1HMTBK1IbvqJEPuk"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 219133,
       "name": "Duffy's",
       "url": "https://open.spotify.com/track/4lcamfRMk5t5fC2OQ3QfXZ"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Tape V",
+        "url": "https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw"
+      },
+      "artists": [
+        {
+          "name": "Daniel Spaleniak",
+          "url": "https://open.spotify.com/artist/2OnWZezIAII3VLBCxG5gQs"
+        }
+      ],
+      "duration_ms": 177801,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd"
     },
     {
       "added_at": "2023-11-03 23:08:22",

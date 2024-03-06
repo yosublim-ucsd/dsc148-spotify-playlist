@@ -1,12 +1,12 @@
 {
   "description": "\u0639\u064a\u0634 \u0623\u062c\u0645\u0644 \u062d\u0627\u0644\u0629 \u062d\u0628 \ud83e\udef6\u2764\ufe0f\n ",
-  "num_followers": 122084,
+  "num_followers": 122207,
   "original_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzNmODA4N2VmMDk0Y2UxOGM3YWM1YzNiODVmYjc5NTQ0NDc3ODk1",
+  "snapshot_id": "MCxlMTFlM2E4OTFiZjI5NGRmZmM0MTBhOWU0NmVkNTRkY2RmN2MwNGRl",
   "tracks": [
     {
       "added_at": "2024-02-29 16:32:40",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-02-29 16:32:40",
       "album": {
-        "name": "Bi Saraha",
-        "url": "https://open.spotify.com/album/3q4jN4ZH36O9VdVD1iwZ3E"
-      },
-      "artists": [
-        {
-          "name": "Abeer Nehme",
-          "url": "https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "Aamel Nasini",
-      "url": "https://open.spotify.com/track/7qBENtVsjHWpkCNKTTGyJN"
-    },
-    {
-      "added_at": "2024-02-29 16:32:40",
-      "album": {
         "name": "Ahla Wahda",
         "url": "https://open.spotify.com/album/2NVcbbexvP2V3pDBtvXI6K"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 160336,
       "name": "Ahla Wahda",
       "url": "https://open.spotify.com/track/6zUTQHFa3gsmWyRxZzYe4e"
+    },
+    {
+      "added_at": "2024-02-29 16:32:40",
+      "album": {
+        "name": "Bi Saraha",
+        "url": "https://open.spotify.com/album/3q4jN4ZH36O9VdVD1iwZ3E"
+      },
+      "artists": [
+        {
+          "name": "Abeer Nehme",
+          "url": "https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Aamel Nasini",
+      "url": "https://open.spotify.com/track/7qBENtVsjHWpkCNKTTGyJN"
     },
     {
       "added_at": "2024-02-29 16:32:40",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-02-29 16:32:40",
       "album": {
-        "name": "Ekhtart Sah",
-        "url": "https://open.spotify.com/album/3wfH8A6DyBlbWWyzonseqf"
-      },
-      "artists": [
-        {
-          "name": "Tamer Hosny",
-          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
-        }
-      ],
-      "duration_ms": 209706,
-      "name": "Ya Waheshny",
-      "url": "https://open.spotify.com/track/4GJKGy6B1G1G4g7fRkKfEh"
-    },
-    {
-      "added_at": "2024-02-29 16:32:40",
-      "album": {
         "name": "Farek Maak",
         "url": "https://open.spotify.com/album/0zt22H9eN3LdvDc8U4PzUM"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 233533,
       "name": "Ana Baatereflek",
       "url": "https://open.spotify.com/track/1yr0M7Rkxkg455mvX3ykFe"
+    },
+    {
+      "added_at": "2024-02-29 16:32:40",
+      "album": {
+        "name": "Ekhtart Sah",
+        "url": "https://open.spotify.com/album/3wfH8A6DyBlbWWyzonseqf"
+      },
+      "artists": [
+        {
+          "name": "Tamer Hosny",
+          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
+        }
+      ],
+      "duration_ms": 209706,
+      "name": "Ya Waheshny",
+      "url": "https://open.spotify.com/track/4GJKGy6B1G1G4g7fRkKfEh"
     },
     {
       "added_at": "2024-02-29 16:32:40",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-02-29 16:32:40",
       "album": {
+        "name": "Ala Bali",
+        "url": "https://open.spotify.com/album/0ABLIX1oebH9nSCa9LgJB9"
+      },
+      "artists": [
+        {
+          "name": "Sharmoofers",
+          "url": "https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1"
+        }
+      ],
+      "duration_ms": 194454,
+      "name": "Ala Bali",
+      "url": "https://open.spotify.com/track/6QHUAy3VluFJuVSiGRpPCu"
+    },
+    {
+      "added_at": "2024-02-29 16:32:40",
+      "album": {
         "name": "\u0623\u064a\u0627\u0645\u064a",
         "url": "https://open.spotify.com/album/7oLkw8eFG4CWj0t7EFRAGY"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 226463,
       "name": "Hassa Beek",
       "url": "https://open.spotify.com/track/0aeVtB8skJoQdTzXPrDNSz"
-    },
-    {
-      "added_at": "2024-02-29 16:32:40",
-      "album": {
-        "name": "Ala Bali",
-        "url": "https://open.spotify.com/album/0ABLIX1oebH9nSCa9LgJB9"
-      },
-      "artists": [
-        {
-          "name": "Sharmoofers",
-          "url": "https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1"
-        }
-      ],
-      "duration_ms": 194454,
-      "name": "Ala Bali",
-      "url": "https://open.spotify.com/track/6QHUAy3VluFJuVSiGRpPCu"
     },
     {
       "added_at": "2024-02-29 16:32:40",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-02-29 16:32:40",
       "album": {
+        "name": "Sha2lebty Routiny",
+        "url": "https://open.spotify.com/album/705AMg1ZwX2b3XENnfqKh6"
+      },
+      "artists": [
+        {
+          "name": "Sharmoofers",
+          "url": "https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1"
+        }
+      ],
+      "duration_ms": 161351,
+      "name": "Sha2lebty Routiny",
+      "url": "https://open.spotify.com/track/0vTX33ZSAyGOrIcmp3Fa9x"
+    },
+    {
+      "added_at": "2024-02-29 16:32:40",
+      "album": {
         "name": "Ya Leil Ya Ein",
         "url": "https://open.spotify.com/album/2Euy1OmiFdS02tYAG6fdvL"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 124295,
       "name": "Ya Gamalak - Acoustic Version",
       "url": "https://open.spotify.com/track/6LqhmrQ1LB6SKhjESbHOel"
-    },
-    {
-      "added_at": "2024-02-29 16:32:40",
-      "album": {
-        "name": "Sha2lebty Routiny",
-        "url": "https://open.spotify.com/album/705AMg1ZwX2b3XENnfqKh6"
-      },
-      "artists": [
-        {
-          "name": "Sharmoofers",
-          "url": "https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1"
-        }
-      ],
-      "duration_ms": 161351,
-      "name": "Sha2lebty Routiny",
-      "url": "https://open.spotify.com/track/0vTX33ZSAyGOrIcmp3Fa9x"
     },
     {
       "added_at": "2024-02-29 16:32:40",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-02-29 16:32:40",
       "album": {
-        "name": "\u0637\u0645\u0646\u0647\u0627",
-        "url": "https://open.spotify.com/album/2cobDXrnAMcK7XZ0xA8Hqh"
-      },
-      "artists": [
-        {
-          "name": "Nedaa Shrara",
-          "url": "https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI"
-        }
-      ],
-      "duration_ms": 244428,
-      "name": "\u0637\u0645\u0646\u0647\u0627",
-      "url": "https://open.spotify.com/track/1HpyCfUXBqFvUteRkz4eId"
-    },
-    {
-      "added_at": "2024-02-29 16:32:40",
-      "album": {
         "name": "Rawa2any",
         "url": "https://open.spotify.com/album/2BV4pv95yaJFhewrpPKrHS"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 191322,
       "name": "Rawa2any",
       "url": "https://open.spotify.com/track/6znR1QMliqWnF5KQ6nJld2"
+    },
+    {
+      "added_at": "2024-02-29 16:32:40",
+      "album": {
+        "name": "\u0637\u0645\u0646\u0647\u0627",
+        "url": "https://open.spotify.com/album/2cobDXrnAMcK7XZ0xA8Hqh"
+      },
+      "artists": [
+        {
+          "name": "Nedaa Shrara",
+          "url": "https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI"
+        }
+      ],
+      "duration_ms": 244428,
+      "name": "\u0637\u0645\u0646\u0647\u0627",
+      "url": "https://open.spotify.com/track/1HpyCfUXBqFvUteRkz4eId"
     },
     {
       "added_at": "2024-02-29 16:32:40",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2024-02-29 16:32:40",
       "album": {
-        "name": "\u062a\u0631\u062d\u0627\u0644\u064a",
-        "url": "https://open.spotify.com/album/5S26R99JmKF6tmohh4xlQn"
+        "name": "\u0628\u0637\u0645\u0646\u0643",
+        "url": "https://open.spotify.com/album/1gq4RDcXHPenXBMl2tdmLM"
       },
       "artists": [
         {
-          "name": "Adham Seliman",
-          "url": "https://open.spotify.com/artist/4xV6q5fDx5Mx73IZEugzHF"
+          "name": "Sherine",
+          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
         }
       ],
-      "duration_ms": 258700,
-      "name": "\u062a\u0631\u062d\u0627\u0644\u064a",
-      "url": "https://open.spotify.com/track/17pKNqA6ODA4lxDZ1ZyL8x"
+      "duration_ms": 289123,
+      "name": "\u0628\u0637\u0645\u0646\u0643",
+      "url": "https://open.spotify.com/track/4AqmPix9i32pQb33bsSWYG"
     }
   ],
   "unique_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",

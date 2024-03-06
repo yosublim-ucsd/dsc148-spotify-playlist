@@ -1,12 +1,12 @@
 {
   "description": "The essential recordings from the beginning of the Post Bop era. Cover: Freddie Hubbard",
-  "num_followers": 27774,
+  "num_followers": 27794,
   "original_name": "Post Bop Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZmE4YmUwZDVlNTViYjM1NzgyMDM4MzI3ZWNlNGNmZDAzNWM3ZTI1",
+  "snapshot_id": "MCwxZDBhYmFlMzQyMGUwNWE4YzgzMTkyMDkxZWIwNjAyODgxZjZjY2Y0",
   "tracks": [
     {
       "added_at": "2024-02-22 09:46:54",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-02-22 09:46:54",
       "album": {
-        "name": "On Impulse!",
-        "url": "https://open.spotify.com/album/1QHTwOtiS78NqqP0AkXPsw"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 417333,
-      "name": "Three Little Words",
-      "url": "https://open.spotify.com/track/6bR6BWEAtfxB6XNbS85Ua0"
-    },
-    {
-      "added_at": "2024-02-22 09:46:54",
-      "album": {
         "name": "Ready For Freddie (Rudy Van Gelder Remaster Edition)",
         "url": "https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 615426,
       "name": "Birdlike - Remastered 2004/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/4CHHDkxbgYOE0wP71CL0AT"
+    },
+    {
+      "added_at": "2024-02-22 09:46:54",
+      "album": {
+        "name": "On Impulse!",
+        "url": "https://open.spotify.com/album/1QHTwOtiS78NqqP0AkXPsw"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 417333,
+      "name": "Three Little Words",
+      "url": "https://open.spotify.com/track/6bR6BWEAtfxB6XNbS85Ua0"
     },
     {
       "added_at": "2024-02-22 09:46:54",
@@ -695,30 +695,6 @@
     {
       "added_at": "2024-02-22 09:46:54",
       "album": {
-        "name": "Astigmatic (Polish Jazz)",
-        "url": "https://open.spotify.com/album/5AHmsOtE3kyBWr0TRqHyzD"
-      },
-      "artists": [
-        {
-          "name": "Krzysztof Komeda",
-          "url": "https://open.spotify.com/artist/6BoLqGW2NuMvgHqiDbyfOC"
-        },
-        {
-          "name": "Komeda Quintet",
-          "url": "https://open.spotify.com/artist/0EQaqT3oKtxAGR0Y5c1Jme"
-        },
-        {
-          "name": "Zbigniew Namys\u0142owski",
-          "url": "https://open.spotify.com/artist/2W2XGrPdpYqu68NgNgiFlh"
-        }
-      ],
-      "duration_ms": 450213,
-      "name": "Kattorna",
-      "url": "https://open.spotify.com/track/2JkLqYx0HQM0fMyfcppV4p"
-    },
-    {
-      "added_at": "2024-02-22 09:46:54",
-      "album": {
         "name": "Illumination!",
         "url": "https://open.spotify.com/album/5CdhRgQcKX62nphZ2DpwXi"
       },
@@ -775,6 +751,30 @@
     {
       "added_at": "2024-02-22 09:46:54",
       "album": {
+        "name": "Astigmatic (Polish Jazz)",
+        "url": "https://open.spotify.com/album/5AHmsOtE3kyBWr0TRqHyzD"
+      },
+      "artists": [
+        {
+          "name": "Krzysztof Komeda",
+          "url": "https://open.spotify.com/artist/6BoLqGW2NuMvgHqiDbyfOC"
+        },
+        {
+          "name": "Komeda Quintet",
+          "url": "https://open.spotify.com/artist/0EQaqT3oKtxAGR0Y5c1Jme"
+        },
+        {
+          "name": "Zbigniew Namys\u0142owski",
+          "url": "https://open.spotify.com/artist/2W2XGrPdpYqu68NgNgiFlh"
+        }
+      ],
+      "duration_ms": 450213,
+      "name": "Kattorna",
+      "url": "https://open.spotify.com/track/2JkLqYx0HQM0fMyfcppV4p"
+    },
+    {
+      "added_at": "2024-02-22 09:46:54",
+      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
       },
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-02-22 09:46:54",
       "album": {
+        "name": "Dear John C.",
+        "url": "https://open.spotify.com/album/1RaM2rT7g77qN4s0T5OOv1"
+      },
+      "artists": [
+        {
+          "name": "Elvin Jones",
+          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
+        }
+      ],
+      "duration_ms": 229733,
+      "name": "Love Bird",
+      "url": "https://open.spotify.com/track/1pIvCPswzivDXnC1y5hl4w"
+    },
+    {
+      "added_at": "2024-02-22 09:46:54",
+      "album": {
         "name": "E.S.P. (2022 Remaster)",
         "url": "https://open.spotify.com/album/16l5pMsJoz1KoHrxvXREBs"
       },
@@ -855,22 +871,6 @@
     {
       "added_at": "2024-02-22 09:46:54",
       "album": {
-        "name": "Sahara",
-        "url": "https://open.spotify.com/album/0njsEE2XyDZFPXUWiMNrBl"
-      },
-      "artists": [
-        {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
-        }
-      ],
-      "duration_ms": 318400,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/0CmhyVSciWqxDxw94eC6p5"
-    },
-    {
-      "added_at": "2024-02-22 09:46:54",
-      "album": {
         "name": "Point Of Departure (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/647o8vl4OD1sjvvhql3jFS"
       },
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-02-22 09:46:54",
       "album": {
-        "name": "Dear John C.",
-        "url": "https://open.spotify.com/album/1RaM2rT7g77qN4s0T5OOv1"
-      },
-      "artists": [
-        {
-          "name": "Elvin Jones",
-          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
-        }
-      ],
-      "duration_ms": 229733,
-      "name": "Love Bird",
-      "url": "https://open.spotify.com/track/1pIvCPswzivDXnC1y5hl4w"
-    },
-    {
-      "added_at": "2024-02-22 09:46:54",
-      "album": {
         "name": "Red Clay",
         "url": "https://open.spotify.com/album/1EKOKpUcbqvwxFcmek60Za"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 643706,
       "name": "The Intrepid Fox",
       "url": "https://open.spotify.com/track/3SHWZGAvCDcAajSAw3KRU6"
+    },
+    {
+      "added_at": "2024-02-22 09:46:54",
+      "album": {
+        "name": "Sahara",
+        "url": "https://open.spotify.com/album/0njsEE2XyDZFPXUWiMNrBl"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        }
+      ],
+      "duration_ms": 318400,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/0CmhyVSciWqxDxw94eC6p5"
     },
     {
       "added_at": "2024-02-22 09:46:54",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-02-22 09:46:54",
       "album": {
-        "name": "The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali",
-        "url": "https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX"
-      },
-      "artists": [
-        {
-          "name": "Max Roach",
-          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
-        }
-      ],
-      "duration_ms": 340840,
-      "name": "Three-Four vs. Six-Eight Four-Four Ways",
-      "url": "https://open.spotify.com/track/0GAVJcVNjYUlQnZ6NWhAxL"
-    },
-    {
-      "added_at": "2024-02-22 09:46:54",
-      "album": {
         "name": "Time For Tyner (2005 Remastered/Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/1q2RwlhPN4zVbhlHMV393p"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 512373,
       "name": "Little Madimba - Remastered 2003/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/2wNf0aQZ5ZpDLqvNyO8CI0"
+    },
+    {
+      "added_at": "2024-02-22 09:46:54",
+      "album": {
+        "name": "The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali",
+        "url": "https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX"
+      },
+      "artists": [
+        {
+          "name": "Max Roach",
+          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
+        }
+      ],
+      "duration_ms": 340840,
+      "name": "Three-Four vs. Six-Eight Four-Four Ways",
+      "url": "https://open.spotify.com/track/0GAVJcVNjYUlQnZ6NWhAxL"
     },
     {
       "added_at": "2024-02-22 09:46:54",

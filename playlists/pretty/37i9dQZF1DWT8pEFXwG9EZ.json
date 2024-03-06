@@ -1,12 +1,12 @@
 {
   "description": "Jazz soundtracks and Jazz songs from the movies.",
-  "num_followers": 154042,
+  "num_followers": 154116,
   "original_name": "Jazz Soundtracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NmMyODcwYTY2MmExODA3YTNlNDQ1MDg0NjBlY2RjZDkzMWY5MTM0",
+  "snapshot_id": "MCxiM2ExZWQ1NTliZWViNGM2YTUwMzk1YTM0OTBmYmI3ZTg2NmJmOTcz",
   "tracks": [
     {
       "added_at": "2024-02-22 09:39:34",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-02-22 09:39:34",
       "album": {
-        "name": "Ascenseur pour l'\u00e9chafaud",
-        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 168512,
-      "name": "G\u00e9n\u00e9rique - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
-      "url": "https://open.spotify.com/track/3I1LsXYKMeWbdgJgADH8yY"
-    },
-    {
-      "added_at": "2024-02-22 09:39:34",
-      "album": {
         "name": "Les Ann\u00e9es Bechet",
         "url": "https://open.spotify.com/album/6MSDPMpPCInQbgW8xHDilS"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 193573,
       "name": "Si tu vois ma m\u00e8re - Slow",
       "url": "https://open.spotify.com/track/5FWn20xrAQ1IdbA8Dml6pj"
+    },
+    {
+      "added_at": "2024-02-22 09:39:34",
+      "album": {
+        "name": "Ascenseur pour l'\u00e9chafaud",
+        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 168512,
+      "name": "G\u00e9n\u00e9rique - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
+      "url": "https://open.spotify.com/track/3I1LsXYKMeWbdgJgADH8yY"
     },
     {
       "added_at": "2024-02-22 09:39:34",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-02-22 09:39:34",
       "album": {
-        "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
-        }
-      ],
-      "duration_ms": 124986,
-      "name": "They Can\u2019t Take That Away From Me",
-      "url": "https://open.spotify.com/track/0dSPznKUTcxm3WZUURVjiI"
-    },
-    {
-      "added_at": "2024-02-22 09:39:34",
-      "album": {
         "name": "Begin The Beguine",
         "url": "https://open.spotify.com/album/3uXjIDVSLPp8niomuVDd5h"
       },
@@ -423,22 +407,6 @@
       "duration_ms": 213333,
       "name": "Moonglow",
       "url": "https://open.spotify.com/track/5OxesorQA2Gu1r0bGRTkX0"
-    },
-    {
-      "added_at": "2024-02-22 09:39:34",
-      "album": {
-        "name": "Soul (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 111266,
-      "name": "Bigger Than Us",
-      "url": "https://open.spotify.com/track/50Ewq4wyDlTfbrmnfbOB9k"
     },
     {
       "added_at": "2024-02-22 09:39:34",
@@ -459,6 +427,38 @@
       "duration_ms": 127786,
       "name": "Amarcord",
       "url": "https://open.spotify.com/track/7wjJIZiFfH8o2nBANoz4IG"
+    },
+    {
+      "added_at": "2024-02-22 09:39:34",
+      "album": {
+        "name": "Soul (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 111266,
+      "name": "Bigger Than Us",
+      "url": "https://open.spotify.com/track/50Ewq4wyDlTfbrmnfbOB9k"
+    },
+    {
+      "added_at": "2024-02-22 09:39:34",
+      "album": {
+        "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+        }
+      ],
+      "duration_ms": 124986,
+      "name": "They Can\u2019t Take That Away From Me",
+      "url": "https://open.spotify.com/track/0dSPznKUTcxm3WZUURVjiI"
     },
     {
       "added_at": "2024-02-22 09:39:34",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-02-22 09:39:34",
       "album": {
-        "name": "Allied (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/4LxkwLRaq7FU1GC9LtvWj3"
-      },
-      "artists": [
-        {
-          "name": "Alan Silvestri",
-          "url": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
-        }
-      ],
-      "duration_ms": 249946,
-      "name": "Sing Sing Sing",
-      "url": "https://open.spotify.com/track/5mafZQ6qbYrzvU90vFUpNg"
-    },
-    {
-      "added_at": "2024-02-22 09:39:34",
-      "album": {
         "name": "Ascenseur pour l'\u00e9chafaud",
         "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 145562,
       "name": "Nuit sur les Champs-\u00c9lys\u00e9es - Take 1 - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
       "url": "https://open.spotify.com/track/0NsRSkszdbzublEEh3cSYH"
+    },
+    {
+      "added_at": "2024-02-22 09:39:34",
+      "album": {
+        "name": "Allied (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/4LxkwLRaq7FU1GC9LtvWj3"
+      },
+      "artists": [
+        {
+          "name": "Alan Silvestri",
+          "url": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
+        }
+      ],
+      "duration_ms": 249946,
+      "name": "Sing Sing Sing",
+      "url": "https://open.spotify.com/track/5mafZQ6qbYrzvU90vFUpNg"
     },
     {
       "added_at": "2024-02-22 09:39:34",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-02-22 09:39:34",
       "album": {
-        "name": "Knives Out (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5SjrBY5Dguvw7UYDIC9Fut"
-      },
-      "artists": [
-        {
-          "name": "Nathan Johnson",
-          "url": "https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1"
-        }
-      ],
-      "duration_ms": 107034,
-      "name": "The Thrombey Family Theme",
-      "url": "https://open.spotify.com/track/0Enx3TsvhCkP3Ip1XU6PoO"
-    },
-    {
-      "added_at": "2024-02-22 09:39:34",
-      "album": {
         "name": "Monsters, Inc. (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7hguux6E8wOGlNsKnZB6Sz"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 208520,
       "name": "Walk To Work",
       "url": "https://open.spotify.com/track/1dYcAIkICjPy2iboLdVNWM"
+    },
+    {
+      "added_at": "2024-02-22 09:39:34",
+      "album": {
+        "name": "Knives Out (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5SjrBY5Dguvw7UYDIC9Fut"
+      },
+      "artists": [
+        {
+          "name": "Nathan Johnson",
+          "url": "https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1"
+        }
+      ],
+      "duration_ms": 107034,
+      "name": "The Thrombey Family Theme",
+      "url": "https://open.spotify.com/track/0Enx3TsvhCkP3Ip1XU6PoO"
     },
     {
       "added_at": "2024-02-22 09:39:34",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-02-22 09:39:34",
       "album": {
-        "name": "Don't Look Up (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/6HCz7HiX96XF6tm7sACnM7"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Britell",
-          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
-        }
-      ],
-      "duration_ms": 248364,
-      "name": "Don't Look Up - Main Title Suite - Bonus Track",
-      "url": "https://open.spotify.com/track/0u8Nd4NK5ymYz7V3LxT3SP"
-    },
-    {
-      "added_at": "2024-02-22 09:39:34",
-      "album": {
         "name": "Manhattan: Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/71aKU2RUyaBJLslyH0WEAA"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 175866,
       "name": "Mine",
       "url": "https://open.spotify.com/track/1V43BO81I2LLHjy25en933"
+    },
+    {
+      "added_at": "2024-02-22 09:39:34",
+      "album": {
+        "name": "Don't Look Up (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/6HCz7HiX96XF6tm7sACnM7"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Britell",
+          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
+        }
+      ],
+      "duration_ms": 248364,
+      "name": "Don't Look Up - Main Title Suite - Bonus Track",
+      "url": "https://open.spotify.com/track/0u8Nd4NK5ymYz7V3LxT3SP"
     },
     {
       "added_at": "2024-02-22 09:39:34",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-02-22 09:39:34",
       "album": {
-        "name": "Babylon (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/0jCuKxy96iDfx9JtXKRyXe"
-      },
-      "artists": [
-        {
-          "name": "Justin Hurwitz",
-          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
-        }
-      ],
-      "duration_ms": 130600,
-      "name": "Damascus Thump",
-      "url": "https://open.spotify.com/track/5twNVE0ofszyWolOWwjRSN"
-    },
-    {
-      "added_at": "2024-02-22 09:39:34",
-      "album": {
         "name": "Chico & Rita",
         "url": "https://open.spotify.com/album/75jbEORN0z55vVY3ZGgpkB"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 76773,
       "name": "Sabor a M\u00ed",
       "url": "https://open.spotify.com/track/2iLxmg8G5tCx52JtnbQOke"
+    },
+    {
+      "added_at": "2024-02-22 09:39:34",
+      "album": {
+        "name": "Babylon (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/0jCuKxy96iDfx9JtXKRyXe"
+      },
+      "artists": [
+        {
+          "name": "Justin Hurwitz",
+          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
+        }
+      ],
+      "duration_ms": 130600,
+      "name": "Damascus Thump",
+      "url": "https://open.spotify.com/track/5twNVE0ofszyWolOWwjRSN"
     },
     {
       "added_at": "2024-02-22 09:39:34",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-02-22 09:39:34",
       "album": {
-        "name": "Anatomy of a Murder",
-        "url": "https://open.spotify.com/album/3WbMnT3abDjzrCzZQ9WtLK"
-      },
-      "artists": [
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        }
-      ],
-      "duration_ms": 130933,
-      "name": "Flirtibird",
-      "url": "https://open.spotify.com/track/3AGAKhMTukNdbPz9ADELxT"
-    },
-    {
-      "added_at": "2024-02-22 09:39:34",
-      "album": {
         "name": "Bird - Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/7aoPqzkjx4uvlRIvHeC4Cr"
       },
@@ -1319,18 +1303,18 @@
     {
       "added_at": "2024-02-22 09:39:34",
       "album": {
-        "name": "Blow-Up (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1NACGaotxNRFPquvQb4Crs"
+        "name": "Anatomy of a Murder",
+        "url": "https://open.spotify.com/album/3WbMnT3abDjzrCzZQ9WtLK"
       },
       "artists": [
         {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
         }
       ],
-      "duration_ms": 156773,
-      "name": "The Bed",
-      "url": "https://open.spotify.com/track/3guEqtLw8c0jMpRDWzXquO"
+      "duration_ms": 130933,
+      "name": "Flirtibird",
+      "url": "https://open.spotify.com/track/3AGAKhMTukNdbPz9ADELxT"
     },
     {
       "added_at": "2024-02-22 09:39:34",
@@ -1347,6 +1331,22 @@
       "duration_ms": 584760,
       "name": "Alfie's Theme - From \"Alfie\" Score",
       "url": "https://open.spotify.com/track/0LITSYvjbQzgcumESz6Z7l"
+    },
+    {
+      "added_at": "2024-02-22 09:39:34",
+      "album": {
+        "name": "Blow-Up (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1NACGaotxNRFPquvQb4Crs"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 156773,
+      "name": "The Bed",
+      "url": "https://open.spotify.com/track/3guEqtLw8c0jMpRDWzXquO"
     },
     {
       "added_at": "2024-02-22 09:39:34",

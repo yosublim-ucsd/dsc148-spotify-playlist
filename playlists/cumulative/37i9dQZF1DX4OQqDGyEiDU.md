@@ -4,7 +4,7 @@
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-571 songs - 1 day 8 hr 22 min
+572 songs - 1 day 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [NEO](https://open.spotify.com/track/1xJ01BF4cAmMCJrfD78qBR) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA) | [NEO](https://open.spotify.com/album/6aZeXROwLZMHTMRJMFryjp) | 3:02 | 2023-10-17 | 2023-11-29 |
 | [NEXT NEST](https://open.spotify.com/track/4pMpj2VgkKVzMSC9dB46me) | [satuki ga tenkomori](https://open.spotify.com/artist/3sXACuwBSj6GE8XUbYff9J) | [NEXT NEST](https://open.spotify.com/album/3vycT4TPayRb7x3kxkYhB5) | 3:55 | 2022-06-09 | 2022-07-19 |
 | [Noda](https://open.spotify.com/track/2mcfjrstoB777JtRmYYsds) | [大漠波新](https://open.spotify.com/artist/1YHmPcRy7ET4VRufy4GI0h) | [Noda](https://open.spotify.com/album/25bjUH5tKSuAQAD9mmFalp) | 2:57 | 2023-12-26 | 2024-01-05 |
-| [Non\-breath oblige](https://open.spotify.com/track/0LsKplOVgboKBm5MpJsX0H) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [LOVE](https://open.spotify.com/album/0KxJlPf1XUcJ2KMzjYQ1EE) | 3:28 | 2023-01-03 |  |
+| [Non\-breath oblige](https://open.spotify.com/track/0LsKplOVgboKBm5MpJsX0H) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [LOVE](https://open.spotify.com/album/0KxJlPf1XUcJ2KMzjYQ1EE) | 3:28 | 2023-01-03 | 2024-03-06 |
 | [NORO](https://open.spotify.com/track/7y6cPbIzDIXXdufVVWndB6) | [¿?shimon](https://open.spotify.com/artist/6fZw1VnSLcEhz3hWPL0GMH) | [NORO](https://open.spotify.com/album/6im8p27m4yOZnh2I4uHa5L) | 2:18 | 2022-06-09 | 2022-06-29 |
 | [ochatime](https://open.spotify.com/track/5ytcavGxyxKy8lWujz3d47) | [23.exe](https://open.spotify.com/artist/6ChA8LcoGpOlKZhoOUbRZT) | [WALK](https://open.spotify.com/album/1foqkv0vDFjIxel0x8bYBM) | 3:53 | 2022-07-10 | 2022-07-12 |
 | [ODDS&ENDS \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/2akD22OwmI6NiV4CKNh3tt) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 6:54 | 2022-06-09 | 2022-07-18 |
@@ -540,6 +540,7 @@
 | [珈琲メモリア](https://open.spotify.com/track/42HHocSogPnphZvWptRKRz) | [大江カルシー](https://open.spotify.com/artist/658uG2eg1MYI6RCG7UsGKo) | [珈琲メモリア](https://open.spotify.com/album/0LlIkhL2JWxakcF1ctmuGo) | 2:52 | 2022-06-14 | 2022-06-19 |
 | [甘噛みでおねがい](https://open.spotify.com/track/6kR2jpVbk0e7uBVjWkGuTC) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [META](https://open.spotify.com/album/574wcOE5FGFbHlkEzgio8j) | 3:22 | 2023-05-16 | 2023-05-18 |
 | [異世界クエスチョン \- 市瀬るぽ Remix](https://open.spotify.com/track/4BFBM9rjayfcwot7lDCt95) | [市瀬るぽ](https://open.spotify.com/artist/4JPnxsMo1F3QOkh9KGDWz1), [victream](https://open.spotify.com/artist/0RVrUXnfBslojFb2n8RQ53) | [異世界クエスチョン \(市瀬るぽ Remix\)](https://open.spotify.com/album/6uD56k2JjXreQgPGqcHgPh) | 3:53 | 2022-06-09 | 2022-06-11 |
+| [病み垢ステロイド](https://open.spotify.com/track/6S7AQLwU7RUMxgx27JtYwh) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE) | [病み垢ステロイド](https://open.spotify.com/album/2PbRPtKGvRkFG3kNjyhQro) | 2:53 | 2024-03-05 |  |
 | [白い雪のプリンセスは](https://open.spotify.com/track/0WqE9VjtUmgohp92X7xiq9) | [Noboru](https://open.spotify.com/artist/2GKOMrDQ4GrdZjoQncM7w1) | [EXIT TUNES PRESENTS Supernova\(スーパーノヴァ\)2 ジャケットイラスト:redjuice](https://open.spotify.com/album/3nDClftBJB2I49GD4RQo3q) | 4:22 | 2022-06-14 | 2022-07-25 |
 | [百倍返し](https://open.spotify.com/track/2Y27T6eJuQgu32Hvr8Y4k9) | [吉乃](https://open.spotify.com/artist/4jxGzNzN68CsE1SnKixpiF) | [百倍返し](https://open.spotify.com/album/0ivS9ZqIvLqJfJiUjj36m8) | 2:54 | 2022-07-24 | 2022-07-27 |
 | [盲目スレッド](https://open.spotify.com/track/6BoBaAEiPLI18FILOCE98e) | [Asa](https://open.spotify.com/artist/34wHoLv6gBNnAJSjAzuLGA), [重音テト](https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o) | [盲目スレッド](https://open.spotify.com/album/7ooK588S6OGiNwRv29ldfz) | 3:22 | 2022-07-14 | 2022-07-28 |

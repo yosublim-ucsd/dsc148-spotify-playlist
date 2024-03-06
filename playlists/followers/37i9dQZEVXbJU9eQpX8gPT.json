@@ -1,5 +1,5 @@
 {
-  "2024-03-05": 50688,
+  "2024-03-06": 50721,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Morocco.",
   "name": "Top 50 - Morocco",
@@ -1143,7 +1143,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 228925,
       "name": "Abala Ya Bali",
       "url": "https://open.spotify.com/track/2a1dUbvOaZw7vrHNanpi3r"
@@ -1727,7 +1727,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 197722,
       "name": "Allo Oui",
       "url": "https://open.spotify.com/track/06r1Ea7fbuDdbNZewcySTy"
@@ -1745,7 +1745,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 200040,
       "name": "Allo Oui",
       "url": "https://open.spotify.com/track/0FvnIUp3c3YRawAkprTCp6"
@@ -19995,7 +19995,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 228559,
       "name": "Rmadi",
       "url": "https://open.spotify.com/track/0muYqG3zcO7STxOBSErQ7s"

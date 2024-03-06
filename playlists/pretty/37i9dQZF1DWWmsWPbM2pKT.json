@@ -1,13 +1,29 @@
 {
   "description": "Obscure, dreamy and nostalgic synth sounds from all over the world. ",
-  "num_followers": 282998,
+  "num_followers": 283321,
   "original_name": "Darkwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2U2ZTI5NzY3NWRkNjhjN2Y2ODlmNjcyMDA4OGU1NTZkZmRhNzYy",
+  "snapshot_id": "MCw0ZmJiMWRiMGQ2ODQ2YjJjNjUxNTk2NDZjNDQ1ZWZlMzdmN2M3Njcy",
   "tracks": [
+    {
+      "added_at": "2024-03-05 18:41:21",
+      "album": {
+        "name": "Fangs",
+        "url": "https://open.spotify.com/album/0gPfImCSCdXyMPRGjWw9oQ"
+      },
+      "artists": [
+        {
+          "name": "Dionnysuss",
+          "url": "https://open.spotify.com/artist/0XfguwtX2k7wn8cJvkdjT9"
+        }
+      ],
+      "duration_ms": 164929,
+      "name": "Fangs",
+      "url": "https://open.spotify.com/track/5qSIJ2Lg8Pi8ZukHIk8HdW"
+    },
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
@@ -39,6 +55,22 @@
       "duration_ms": 141394,
       "name": "\u0421\u0443\u0434\u043d\u043e (\u0411\u043e\u0440\u0438\u0441 \u0420\u0438\u0436\u0438\u0439)",
       "url": "https://open.spotify.com/track/1SHB1hp6267UK9bJQUxYvO"
+    },
+    {
+      "added_at": "2024-03-05 18:41:21",
+      "album": {
+        "name": "Untitled #13",
+        "url": "https://open.spotify.com/album/3449NOB1pcTEYaGwg7E4Dh"
+      },
+      "artists": [
+        {
+          "name": "glwzbll",
+          "url": "https://open.spotify.com/artist/4xNuIo74R6m1eXaz7RlpZ6"
+        }
+      ],
+      "duration_ms": 115054,
+      "name": "Untitled #13",
+      "url": "https://open.spotify.com/track/1YXV3fSpNgxXSfhsEgRmtb"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -73,20 +105,20 @@
       "url": "https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6"
     },
     {
-      "added_at": "2024-02-16 06:00:00",
+      "added_at": "2024-03-05 18:41:21",
       "album": {
-        "name": "don't let me take my time",
-        "url": "https://open.spotify.com/album/6p013AhVt4sEjwz98LA6in"
+        "name": "Lovers From The Past",
+        "url": "https://open.spotify.com/album/6Z4eMptTUBwtdJHQeNV91N"
       },
       "artists": [
         {
-          "name": "Indie Anthony",
-          "url": "https://open.spotify.com/artist/5cvfQMSHL457qGDf8hpSjM"
+          "name": "Mareux",
+          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
         }
       ],
-      "duration_ms": 160408,
-      "name": "don't let me take my time",
-      "url": "https://open.spotify.com/track/0d0BCIa1gWViE3jZLNaMmq"
+      "duration_ms": 199280,
+      "name": "Lovers From The Past",
+      "url": "https://open.spotify.com/track/69cGlmgNyMf2K6AvmLBuRD"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -121,6 +153,22 @@
       "url": "https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu"
     },
     {
+      "added_at": "2024-03-05 18:41:21",
+      "album": {
+        "name": "Memento Mori",
+        "url": "https://open.spotify.com/album/3QWc9HhBWgk9dIEwOkJx4q"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 238945,
+      "name": "Ghosts Again",
+      "url": "https://open.spotify.com/track/3p5JD79PQP737dyEY2hnmf"
+    },
+    {
       "added_at": "2024-02-16 06:00:00",
       "album": {
         "name": "Nightcall",
@@ -153,6 +201,22 @@
       "url": "https://open.spotify.com/track/5ybk0RVtJLh63xcoMyLoTQ"
     },
     {
+      "added_at": "2024-03-05 18:41:21",
+      "album": {
+        "name": "21 N\u00e4chte wach",
+        "url": "https://open.spotify.com/album/6caZhxBvEwyK4Am6qdSZXx"
+      },
+      "artists": [
+        {
+          "name": "Edwin Rosen",
+          "url": "https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J"
+        }
+      ],
+      "duration_ms": 162962,
+      "name": "21 N\u00e4chte wach",
+      "url": "https://open.spotify.com/track/77clSTvlbXYs0ZTvPzmJF3"
+    },
+    {
       "added_at": "2024-02-16 06:00:00",
       "album": {
         "name": "Vuela M\u00e1s Alto",
@@ -167,6 +231,38 @@
       "duration_ms": 159373,
       "name": "Vuela M\u00e1s Alto",
       "url": "https://open.spotify.com/track/4WnJOzCOoMzVlY7ASHARDT"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "don't let me take my time",
+        "url": "https://open.spotify.com/album/6p013AhVt4sEjwz98LA6in"
+      },
+      "artists": [
+        {
+          "name": "Indie Anthony",
+          "url": "https://open.spotify.com/artist/5cvfQMSHL457qGDf8hpSjM"
+        }
+      ],
+      "duration_ms": 160408,
+      "name": "don't let me take my time",
+      "url": "https://open.spotify.com/track/0d0BCIa1gWViE3jZLNaMmq"
+    },
+    {
+      "added_at": "2024-03-05 18:41:21",
+      "album": {
+        "name": "level7 (demo)",
+        "url": "https://open.spotify.com/album/4YNQmLQeAIJT7G2KZ7Pc9Z"
+      },
+      "artists": [
+        {
+          "name": "OSAKA",
+          "url": "https://open.spotify.com/artist/5soAIOjDZMDEn1VxZEbVA4"
+        }
+      ],
+      "duration_ms": 91136,
+      "name": "level7 (demo)",
+      "url": "https://open.spotify.com/track/4MANod8oMUPPAm4wokn5AV"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -187,22 +283,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/1JIFVultBIK991qa7vHeYL"
-      },
-      "artists": [
-        {
-          "name": "The New Division",
-          "url": "https://open.spotify.com/artist/1Cb9Edoxp02mgY0VWVlwQo"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/6m5HzSkwkSbYkFdrNNKMDw"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "It's In My Head",
         "url": "https://open.spotify.com/album/3eeewwhmPTGJzW21G4wFhO"
       },
@@ -215,6 +295,22 @@
       "duration_ms": 181792,
       "name": "It's In My Head",
       "url": "https://open.spotify.com/track/1m0gveci0Fk64DpWhVxwzL"
+    },
+    {
+      "added_at": "2024-03-05 18:41:21",
+      "album": {
+        "name": "99",
+        "url": "https://open.spotify.com/album/1dhq356MIu4BQeUvpOpZm6"
+      },
+      "artists": [
+        {
+          "name": "blawhitt",
+          "url": "https://open.spotify.com/artist/4Z04808YXRo0Y1PlvDXycM"
+        }
+      ],
+      "duration_ms": 125309,
+      "name": "99",
+      "url": "https://open.spotify.com/track/1136nfwNfK1P1f7YkcqWHU"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -249,6 +345,26 @@
       "url": "https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD"
     },
     {
+      "added_at": "2024-03-05 18:41:21",
+      "album": {
+        "name": "Sapphire",
+        "url": "https://open.spotify.com/album/1hJGyISdlrBHHv0YBSe1Ug"
+      },
+      "artists": [
+        {
+          "name": "juhvahn",
+          "url": "https://open.spotify.com/artist/4IfApBEW6RQ9uogE7cuZnJ"
+        },
+        {
+          "name": "Perpetualll",
+          "url": "https://open.spotify.com/artist/18vd25otIXXeNS0BHiCHRB"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Sapphire",
+      "url": "https://open.spotify.com/track/1zjM0yzhtbRRwj5rD897fY"
+    },
+    {
       "added_at": "2024-02-16 06:00:00",
       "album": {
         "name": "Songs & Demos 2015-2017",
@@ -281,6 +397,22 @@
       "url": "https://open.spotify.com/track/2d1bUoHwDY2cRJVea0zCj2"
     },
     {
+      "added_at": "2024-03-05 18:41:21",
+      "album": {
+        "name": "Gallowdance - Slowed",
+        "url": "https://open.spotify.com/album/7MfXO0FB6bZVtvM45ausJI"
+      },
+      "artists": [
+        {
+          "name": "fam0uz",
+          "url": "https://open.spotify.com/artist/5L9XA5GDsOOKNZfeOO8lmo"
+        }
+      ],
+      "duration_ms": 90000,
+      "name": "Gallowdance - Slowed",
+      "url": "https://open.spotify.com/track/6wmsU8dzx0vvrzR635WpTM"
+    },
+    {
       "added_at": "2024-02-16 06:00:00",
       "album": {
         "name": "Shades of Violet EP",
@@ -299,22 +431,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Tomb for Two",
-        "url": "https://open.spotify.com/album/7iOwibdJg2i7SQEBpe5EIR"
-      },
-      "artists": [
-        {
-          "name": "Lebanon Hanover",
-          "url": "https://open.spotify.com/artist/6w8h2uD28BEdg7bX4k3Lh7"
-        }
-      ],
-      "duration_ms": 292600,
-      "name": "Gallowdance",
-      "url": "https://open.spotify.com/track/74SUn8w4lYSwgOGPvVZiEo"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "Floodland",
         "url": "https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc"
       },
@@ -327,6 +443,22 @@
       "duration_ms": 295250,
       "name": "Lucretia My Reflection - Vinyl Version",
       "url": "https://open.spotify.com/track/20goDx14UZviYtCPtLbqvs"
+    },
+    {
+      "added_at": "2024-03-05 18:41:21",
+      "album": {
+        "name": "Suffocation (Slowed)",
+        "url": "https://open.spotify.com/album/7wblFnt47oJLJXxNJrIb3e"
+      },
+      "artists": [
+        {
+          "name": "noturgf",
+          "url": "https://open.spotify.com/artist/32ENZVmItiETXMCYfM1bbS"
+        }
+      ],
+      "duration_ms": 64842,
+      "name": "Suffocation - Slowed",
+      "url": "https://open.spotify.com/track/15uq77MdhAjrnBuumngIsz"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -361,6 +493,38 @@
       "url": "https://open.spotify.com/track/0Db4KSIdVa7Cfhn6qzIqpm"
     },
     {
+      "added_at": "2024-03-05 18:41:21",
+      "album": {
+        "name": "Crystal Castles (II)",
+        "url": "https://open.spotify.com/album/5B2ipvFV27t5lUQYcNkTpg"
+      },
+      "artists": [
+        {
+          "name": "Crystal Castles",
+          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+        }
+      ],
+      "duration_ms": 251106,
+      "name": "Empathy",
+      "url": "https://open.spotify.com/track/2R3heksil8zmzSFUwYQIPC"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "Tomb for Two",
+        "url": "https://open.spotify.com/album/7iOwibdJg2i7SQEBpe5EIR"
+      },
+      "artists": [
+        {
+          "name": "Lebanon Hanover",
+          "url": "https://open.spotify.com/artist/6w8h2uD28BEdg7bX4k3Lh7"
+        }
+      ],
+      "duration_ms": 292600,
+      "name": "Gallowdance",
+      "url": "https://open.spotify.com/track/74SUn8w4lYSwgOGPvVZiEo"
+    },
+    {
       "added_at": "2024-02-16 06:00:00",
       "album": {
         "name": "Heavens Lower",
@@ -375,6 +539,22 @@
       "duration_ms": 177186,
       "name": "Heavens Lower",
       "url": "https://open.spotify.com/track/1TDJSbzuAIAFQy2K7EBm7m"
+    },
+    {
+      "added_at": "2024-03-05 18:41:21",
+      "album": {
+        "name": "Ethereality",
+        "url": "https://open.spotify.com/album/6zk1WNC7YNM9qgAxWY98qW"
+      },
+      "artists": [
+        {
+          "name": "Pastel Ghost",
+          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+        }
+      ],
+      "duration_ms": 218384,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/7h7DK2ZHIe4w0id8qkNqla"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -603,22 +783,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "NADA ES PARA SIEMPRE",
-        "url": "https://open.spotify.com/album/61KVjDNyYhfVFFZIhz1JLE"
-      },
-      "artists": [
-        {
-          "name": "Closed Tear",
-          "url": "https://open.spotify.com/artist/79w0GjUevceZAA54kbzzoA"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Waste Away",
-      "url": "https://open.spotify.com/track/040jWZw29UCBxaJRoLch7h"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "Bedroom",
         "url": "https://open.spotify.com/album/7itRrAfbJnabbvrGRE7kFm"
       },
@@ -631,22 +795,6 @@
       "duration_ms": 226594,
       "name": "Happy",
       "url": "https://open.spotify.com/track/4sBsParg8ua0dHomXOekyw"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
-        "name": "Roadtrip",
-        "url": "https://open.spotify.com/album/5z4MOdUTaUvKfVtEleiCDe"
-      },
-      "artists": [
-        {
-          "name": "Black Nail Cabaret",
-          "url": "https://open.spotify.com/artist/1PT6vR9L8YA8qKymXfAnRl"
-        }
-      ],
-      "duration_ms": 240106,
-      "name": "Roadtrip",
-      "url": "https://open.spotify.com/track/4wFE8vB2CyWfTAd5XcMs7M"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -979,22 +1127,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Distance",
-        "url": "https://open.spotify.com/album/2snog7U5uihIur22blJwwg"
-      },
-      "artists": [
-        {
-          "name": "Rendez Vous",
-          "url": "https://open.spotify.com/artist/4a118edzJsiImCyPCZk6mY"
-        }
-      ],
-      "duration_ms": 209083,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/4jU6Vuq0e1KSc1vOAKL3k2"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "Apasionada / Over It",
         "url": "https://open.spotify.com/album/1p6XSjHnvwwbsQNUv2oCvq"
       },
@@ -1055,22 +1187,6 @@
       "duration_ms": 273110,
       "name": "Die World",
       "url": "https://open.spotify.com/track/3ZLFDPE35lm04kHyJEfkLV"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
-        "name": "Sympathy Garden",
-        "url": "https://open.spotify.com/album/0lJDsMUvO0gnnYMEjISatI"
-      },
-      "artists": [
-        {
-          "name": "Forever Grey",
-          "url": "https://open.spotify.com/artist/3HSpbkijRqVAa1bn0hyEfz"
-        }
-      ],
-      "duration_ms": 155142,
-      "name": "Lucid Dreaming",
-      "url": "https://open.spotify.com/track/7iQM3uHalxTDWF9yfnLWUY"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1239,22 +1355,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Tomb for Two",
-        "url": "https://open.spotify.com/album/7iOwibdJg2i7SQEBpe5EIR"
-      },
-      "artists": [
-        {
-          "name": "Lebanon Hanover",
-          "url": "https://open.spotify.com/artist/6w8h2uD28BEdg7bX4k3Lh7"
-        }
-      ],
-      "duration_ms": 224266,
-      "name": "Sadness Is Rebellion",
-      "url": "https://open.spotify.com/track/2nlZXuEOc2jtntW37SBRTT"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "Careful",
         "url": "https://open.spotify.com/album/7c844zy9jk6SzVpC57SGZL"
       },
@@ -1287,22 +1387,6 @@
       "duration_ms": 218181,
       "name": "\u041c\u0451\u0440\u0442\u0432 \u0432\u043d\u0443\u0442\u0440\u0438",
       "url": "https://open.spotify.com/track/50kqsBYacoTWaNUJ7fNEjK"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
-        "name": "Full Cold Moon",
-        "url": "https://open.spotify.com/album/4KeTTSYDEjvdOMzudYo82J"
-      },
-      "artists": [
-        {
-          "name": "Cold Cave",
-          "url": "https://open.spotify.com/artist/1ssulsHf3JrWakLxa8yFad"
-        }
-      ],
-      "duration_ms": 218498,
-      "name": "A Little Death to Laugh",
-      "url": "https://open.spotify.com/track/3YAtxohy6aksWr6uE1xAT0"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1387,22 +1471,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "All Is Fair in Love and War",
-        "url": "https://open.spotify.com/album/7B13N33UUfGmh0s6pr5dBL"
-      },
-      "artists": [
-        {
-          "name": "Bleib Modern",
-          "url": "https://open.spotify.com/artist/2FCVB3cfCC0e3O8G7Gs8t6"
-        }
-      ],
-      "duration_ms": 169973,
-      "name": "If Love Is Just a Word",
-      "url": "https://open.spotify.com/track/3QVLxtGbyrzWDPdqlDNIo0"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "Pure Desperation",
         "url": "https://open.spotify.com/album/5BLRoloNdyaldZPRdetTSo"
       },
@@ -1479,38 +1547,6 @@
       "duration_ms": 222273,
       "name": "Only Human",
       "url": "https://open.spotify.com/track/0SZCVG64kopl8QwXiFHUPB"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
-        "name": "Beyond the Gates of Xouztoth",
-        "url": "https://open.spotify.com/album/5NqNKmc7NJoyABSn3wmRum"
-      },
-      "artists": [
-        {
-          "name": "Give My Remains to Broadway",
-          "url": "https://open.spotify.com/artist/6Xk78EyrGe8jXw4JuxbQVx"
-        }
-      ],
-      "duration_ms": 145950,
-      "name": "Comfort of the Void",
-      "url": "https://open.spotify.com/track/0hBMXdq7TT0fxHi7mfeAMT"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
-        "name": "Failures",
-        "url": "https://open.spotify.com/album/1dTQ4GJyRvNrkAjRjnoeh7"
-      },
-      "artists": [
-        {
-          "name": "DECEITS",
-          "url": "https://open.spotify.com/artist/7DwVOsVpXsANbs3cHOs6zh"
-        }
-      ],
-      "duration_ms": 180069,
-      "name": "Failures",
-      "url": "https://open.spotify.com/track/4C6213duKDGTzoFmpkqtLR"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1611,38 +1647,6 @@
       "duration_ms": 157750,
       "name": "Alone Tonight",
       "url": "https://open.spotify.com/track/1CD4fhJIyWKfhX3YlNZiJY"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
-        "name": "Will I Ever Find Love?",
-        "url": "https://open.spotify.com/album/1fecgqTKMitrd73YmkxKsb"
-      },
-      "artists": [
-        {
-          "name": ".com",
-          "url": "https://open.spotify.com/artist/0KMlyqeocN19K1DTl4TpzQ"
-        }
-      ],
-      "duration_ms": 232766,
-      "name": "Will I Ever Find Love?",
-      "url": "https://open.spotify.com/track/4Fmm1Zq5dEjbDFjku8F3U0"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
-        "name": "Two Point Zero",
-        "url": "https://open.spotify.com/album/0YngPsT3JJV3ImRut0Z4vd"
-      },
-      "artists": [
-        {
-          "name": "Cloudland Canyon",
-          "url": "https://open.spotify.com/artist/6s5ScpNzol9psValU4HLHu"
-        }
-      ],
-      "duration_ms": 283501,
-      "name": "Two Point Zero",
-      "url": "https://open.spotify.com/track/7DWKtErNxf4Wb8BD54lDUQ"
     },
     {
       "added_at": "2024-02-16 06:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 299015,
+  "num_followers": 299053,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGYzZmU3MTM3OThiNWI5ZmQyYzQ4YmNjNjg1MDAxMWNhNDk0YmI2",
+  "snapshot_id": "MCw1MmRlZWQzNzlmNDllZTk1NDYwZWMwODcwNmRhYzkxNTY3MTMxNzE3",
   "tracks": [
     {
       "added_at": "2023-10-20 03:01:00",
@@ -723,18 +723,18 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Chegou Quem Faltava - Volume 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5ayvfXBDzwD15sOazeejGT"
+        "name": "City Of Angels (Piano Version)",
+        "url": "https://open.spotify.com/album/498Hq6UXvXQRspqyZlifcQ"
       },
       "artists": [
         {
-          "name": "Charlie Brown Jr.",
-          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
         }
       ],
-      "duration_ms": 141136,
-      "name": "Dias de Luta, Dias de Gl\u00f3ria - Ao Vivo - Chegou Quem Faltava",
-      "url": "https://open.spotify.com/track/6QsNSUfywJxc5RelHUnf38"
+      "duration_ms": 262185,
+      "name": "City Of Angels - Piano Version",
+      "url": "https://open.spotify.com/track/3nqZdcbYyr4eatjoErsCVX"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "City Of Angels (Piano Version)",
-        "url": "https://open.spotify.com/album/498Hq6UXvXQRspqyZlifcQ"
-      },
-      "artists": [
-        {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
-        }
-      ],
-      "duration_ms": 262185,
-      "name": "City Of Angels - Piano Version",
-      "url": "https://open.spotify.com/track/3nqZdcbYyr4eatjoErsCVX"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
         "name": "Tit\u00e3s Trio Ac\u00fastico",
         "url": "https://open.spotify.com/album/58SJ5GEjT0MCqPJWft7osf"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 224066,
       "name": "Pra Dizer Adeus (Trio Ac\u00fastico)",
       "url": "https://open.spotify.com/track/27653ZiyisDWx0K25dH2Sa"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
+        "name": "Chegou Quem Faltava - Volume 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5ayvfXBDzwD15sOazeejGT"
+      },
+      "artists": [
+        {
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+        }
+      ],
+      "duration_ms": 141136,
+      "name": "Dias de Luta, Dias de Gl\u00f3ria - Ao Vivo - Chegou Quem Faltava",
+      "url": "https://open.spotify.com/track/6QsNSUfywJxc5RelHUnf38"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Cuts Like A Knife - 40th Anniversary, Live From The Royal Albert Hall",
-        "url": "https://open.spotify.com/album/5ol5EQxk9OUHUh7JXb061Z"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 182933,
-      "name": "Straight From The Heart - Live at The Royal Albert Hall",
-      "url": "https://open.spotify.com/track/4LZn7eK3vwTYQX5zSxfUSf"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
         "name": "Bad Guy (Acoustic)",
         "url": "https://open.spotify.com/album/6ty8JLccA81Mmzbk3FOhzi"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 161589,
       "name": "Bad Guy - Acoustic",
       "url": "https://open.spotify.com/track/5VAd4Y9jubrIq6J7TLyhCV"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
+        "name": "Cuts Like A Knife - 40th Anniversary, Live From The Royal Albert Hall",
+        "url": "https://open.spotify.com/album/5ol5EQxk9OUHUh7JXb061Z"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 182933,
+      "name": "Straight From The Heart - Live at The Royal Albert Hall",
+      "url": "https://open.spotify.com/track/4LZn7eK3vwTYQX5zSxfUSf"
     },
     {
       "added_at": "2023-10-20 03:01:00",

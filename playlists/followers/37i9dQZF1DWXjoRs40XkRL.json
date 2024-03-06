@@ -1,5 +1,5 @@
 {
-  "2024-03-05": 62387,
+  "2024-03-06": 62423,
   "date_first_scraped": "2022-05-30",
   "description": "Unwind to the best Indian classical sounds out there.",
   "name": "Raga Lounge",
@@ -4699,24 +4699,6 @@
     {
       "album": {
         "name": "Samjha Toh Kar",
-        "url": "https://open.spotify.com/album/02ygQ6Lz199rzGqOc2tRHE"
-      },
-      "artists": [
-        {
-          "name": "Hariharan",
-          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
-        }
-      ],
-      "date_added": "2024-02-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 242377,
-      "name": "Samjha Toh Kar",
-      "url": "https://open.spotify.com/track/2UJGpJz5if0Qt4ZoWedOlF"
-    },
-    {
-      "album": {
-        "name": "Samjha Toh Kar",
         "url": "https://open.spotify.com/album/0JcvVumxHj4S3QPuK9mAIg"
       },
       "artists": [
@@ -4731,6 +4713,28 @@
       "duration_ms": 242377,
       "name": "Samjha Toh Kar",
       "url": "https://open.spotify.com/track/6iaaxYDkrIT1wmNkCkiue8"
+    },
+    {
+      "album": {
+        "name": "Samjha Toh Kar",
+        "url": "https://open.spotify.com/album/02ygQ6Lz199rzGqOc2tRHE"
+      },
+      "artists": [
+        {
+          "name": "Hariharan",
+          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
+        },
+        {
+          "name": "Aalok Shrivastav",
+          "url": "https://open.spotify.com/artist/41R59MbdpXbvt7Dp8Z9S7c"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242377,
+      "name": "Samjha Toh Kar",
+      "url": "https://open.spotify.com/track/2UJGpJz5if0Qt4ZoWedOlF"
     },
     {
       "album": {

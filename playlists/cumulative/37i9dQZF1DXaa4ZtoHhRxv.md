@@ -2,7 +2,7 @@
 
 ### [Country Club](https://open.spotify.com/playlist/37i9dQZF1DXaa4ZtoHhRxv)
 
-> Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Cheat Codes and MacKenzie Porter
+> Dale! Hit the dance floor with Dolly Parton and Pitbull!
 
 193 songs - 10 hr 27 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Chezile
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,129 likes - 103 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,190 likes - 103 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 102 | [i still think about you](https://open.spotify.com/track/1gn36xiTbvh5ZdLQblagfP) | [Sweet Boy](https://open.spotify.com/artist/5KAGcWjCXvGM8lA3TY205r) | [i still think about you](https://open.spotify.com/album/4hZmFxYP6Av5sAHrSuEwF3) | 2:45 |
 | 103 | [Afterworld](https://open.spotify.com/track/1dZcXetC0VOPWnSeJqhHPL) | [Primrose](https://open.spotify.com/artist/3Xpw3jpSMOwdx0b5WIBWrm) | [Afterworld](https://open.spotify.com/album/0RsYZgzwiAiFUN8FhaRnfN) | 3:22 |
 
-Snapshot ID: `MCwwYzY1M2UwYTA4N2Q2YzE3YjRlMjhhZWJkNzQxYTE0MjhkYzBjY2Ew`
+Snapshot ID: `MCwyZDUzMjFmODI5NDBiZjZiNDg3ZDAzMTA2Mzc4NjhhMjBhOTM3YmY4`

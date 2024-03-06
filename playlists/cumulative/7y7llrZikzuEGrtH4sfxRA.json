@@ -4029,24 +4029,6 @@
     },
     {
       "album": {
-        "name": "You Sure Do",
-        "url": "https://open.spotify.com/album/50gTjS3P6RMiJ7pERaAEIF"
-      },
-      "artists": [
-        {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
-        }
-      ],
-      "date_added": "2024-03-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 190476,
-      "name": "You Sure Do",
-      "url": "https://open.spotify.com/track/6yv2lb71Wl5F017L1T41V0"
-    },
-    {
-      "album": {
         "name": "You're Not Alone",
         "url": "https://open.spotify.com/album/2lhXVnPLcvmPhexeNmV37m"
       },
@@ -4062,6 +4044,24 @@
       "duration_ms": 214204,
       "name": "You're Not Alone",
       "url": "https://open.spotify.com/track/0WTtGE4UaKUDpAE4aouoa8"
+    },
+    {
+      "album": {
+        "name": "YSD",
+        "url": "https://open.spotify.com/album/50gTjS3P6RMiJ7pERaAEIF"
+      },
+      "artists": [
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190476,
+      "name": "YSD",
+      "url": "https://open.spotify.com/track/6yv2lb71Wl5F017L1T41V0"
     }
   ],
   "url": "https://open.spotify.com/playlist/7y7llrZikzuEGrtH4sfxRA"

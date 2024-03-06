@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Jiselle\(지셀\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Tabber\(태버\)\)
 
-301 songs - 16 hr 46 min
+303 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Chain \(Feat\. Claire Hau\)](https://open.spotify.com/track/4lRkE7xbvrLknlufnkw4s7) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [Bind](https://open.spotify.com/album/1sNuOX2i2Y7XiWP8jyPiwr) | 3:19 | 2022-12-05 | 2023-07-08 |
 | [Charging](https://open.spotify.com/track/2hbA6LMP7MrvXLXxgIbzaQ) | [Kiehl](https://open.spotify.com/artist/3booMg3lbOEj85POfZ61mV) | [Charging](https://open.spotify.com/album/2AmKqz3rPk7M0m5O8EBKXh) | 3:30 | 2022-05-28 | 2022-07-28 |
 | [chasing you](https://open.spotify.com/track/7g4ULCcCvfAQXDDRgVeyfv) | [oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf) | [chasing you](https://open.spotify.com/album/38K7xBBVe4XrZm7Y07lNhZ) | 3:06 | 2022-08-02 | 2023-01-21 |
+| [Chi\-Ka](https://open.spotify.com/track/3aUySszCHEifnEOqm0nCKr) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [Chi\-Ka](https://open.spotify.com/album/6r2U2zmsO98xn2s7MGt4Pb) | 3:23 | 2024-03-05 |  |
 | [Choose Me \(feat\. Vince\)](https://open.spotify.com/track/4GTosMKxwHJsbrSfaRPc9K) | [TANAKA](https://open.spotify.com/artist/5FZYWdNeBGAItqlOdEKNKT), [Vince](https://open.spotify.com/artist/3RnlokVV0FpqtV5FDeHYZd) | [Choose Me \(feat\. Vince\)](https://open.spotify.com/album/2vLVhxjpQVOPDxNQo7UeCb) | 3:22 | 2023-04-04 | 2023-09-19 |
 | [Circle \(Feat\. Demian Love\)](https://open.spotify.com/track/4p3CNPNKYOqzCBd8uQKqA9) | [L\-like](https://open.spotify.com/artist/6L639z5gxUZ0uvXFewX9E7), [Demian Love](https://open.spotify.com/artist/39ilK8sp48AGEp3Zd3mBf6) | [Circle](https://open.spotify.com/album/2nlTltFuBMgB5dDsuf6dEF) | 2:40 | 2024-01-08 |  |
 | [City!](https://open.spotify.com/track/6FaSGjSSORmLRw8ElPHJbM) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [i ex you](https://open.spotify.com/album/5Om0xEIVmWFirP4WLSTykj) | 3:42 | 2022-08-18 | 2023-01-21 |
@@ -145,6 +146,7 @@
 | [I Deserve Happiness \(Feat\. Minjeong\)](https://open.spotify.com/track/4VLze3IkEPkUhHWqqgqBL5) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Kang min jeong](https://open.spotify.com/artist/0WAJv6luRzoOrN9DUEL8Ru) | [New Edition 55](https://open.spotify.com/album/7LIr8Jhsguvb3xOkt8BOoq) | 2:52 | 2023-11-02 |  |
 | [I Don't Know Why](https://open.spotify.com/track/3w8GlgiRPYt3bLCmCQJL1V) | [Jane B](https://open.spotify.com/artist/1zszrZ7zpOhqyjJ0Gn6de1) | [I Don't Know Why](https://open.spotify.com/album/7wgbRd1CZmrJgwtkI7BuA0) | 3:43 | 2023-03-27 | 2023-09-19 |
 | [I feel](https://open.spotify.com/track/0D87LPNSFzltA0IPc9C8MN) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [I feel](https://open.spotify.com/album/2bBm0Jj6uyLCUMmqiwL2xY) | 3:46 | 2023-03-23 | 2023-09-19 |
+| [I Hate You \(2024\) \- Spotify Singles](https://open.spotify.com/track/2AZhHsWsunXGXKIWioeM6Y) | [SHOWNU X HYUNGWON \(MONSTA X\)](https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg) | [I Hate You \(2024\) \- Spotify Singles](https://open.spotify.com/album/1aF8lItq2Esu8pBHJoxXMA) | 2:44 | 2024-03-05 |  |
 | [I JUST WANNA KNOW](https://open.spotify.com/track/6ZnKQpqaYx6BResKaVBfmc) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 2:52 | 2022-05-28 | 2022-07-28 |
 | [I Know \(feat\. Jayroh\)](https://open.spotify.com/track/2tc6f5oJhGyf5FA6NbE6YJ) | [NONE](https://open.spotify.com/artist/03EV1JpYOKlc2jSXj0TQrM), [Jayroh](https://open.spotify.com/artist/7jioygkLGftDQXuTfG7ebS) | [I Know \(feat\. Jayroh\)](https://open.spotify.com/album/0yITSLy6XxINua3Lc6mLj1) | 4:00 | 2023-07-14 | 2023-11-03 |
 | [I Want to Be Closer to You](https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [A Love Supreme](https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi) | 3:30 | 2023-09-18 | 2024-02-07 |

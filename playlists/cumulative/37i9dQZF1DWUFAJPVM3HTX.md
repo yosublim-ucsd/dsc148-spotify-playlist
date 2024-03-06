@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x?si=5\_F7XBVhSM2kctfMX\-7T7g"> Kali Claire </a>\. Updates every Wednesday.
 
-2,091 songs - 4 day 11 hr 20 min
+2,092 songs - 4 day 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [All They Wanna Do](https://open.spotify.com/track/1z3GRT22Vm8FWwadTqoxuq) | [Iman Omari](https://open.spotify.com/artist/1ySUvbTVNE9pyhdzcDxjg4) | [All They Wanna Do](https://open.spotify.com/album/10R0owBaqbjtUM5A8XeSYN) | 2:38 | 2022-05-20 | 2022-08-11 |
 | [All This Shit](https://open.spotify.com/track/3vFDCpTCWOHZsiASHOBsSl) | [YaYa](https://open.spotify.com/artist/0lnt4wK63mus1T57yf7aUE) | [All This Shit](https://open.spotify.com/album/2uVS8UpmidkIccUAdbHCNV) | 2:06 | 2022-02-23 | 2022-03-17 |
 | [All We Know](https://open.spotify.com/track/375zznhvM0rsnYOHYCw8vH) | [Marvin Dolo](https://open.spotify.com/artist/5UQBWR0edHp1ZuQvqsdsT3) | [Fade to Black.](https://open.spotify.com/album/719jb8MKVDSGsfYqB4JspY) | 2:35 | 2023-01-12 | 2023-02-11 |
-| [Alone](https://open.spotify.com/track/44ZY9pdZ2jvUr52IqKC5FF) | [Myke Grizzly](https://open.spotify.com/artist/3l4XY26vL0FKhljOFmnMny) | [Alone](https://open.spotify.com/album/20XfzuSqm9dAiJGZrRumPa) | 3:36 | 2024-02-09 |  |
+| [Alone](https://open.spotify.com/track/44ZY9pdZ2jvUr52IqKC5FF) | [Myke Grizzly](https://open.spotify.com/artist/3l4XY26vL0FKhljOFmnMny) | [Alone](https://open.spotify.com/album/20XfzuSqm9dAiJGZrRumPa) | 3:36 | 2024-02-09 | 2024-03-06 |
+| [Alone](https://open.spotify.com/track/6G1yCTn40ETw4VWnB2dtDF) | [Myke Grizzly](https://open.spotify.com/artist/3l4XY26vL0FKhljOFmnMny) | [Alone](https://open.spotify.com/album/2JlxnXGkmJU3gVQWylCYWr) | 3:36 | 2024-02-09 |  |
 | [Already Lost](https://open.spotify.com/track/7ifHI0o7mJ7PgS9xrZRVtW) | [Jay Glavany](https://open.spotify.com/artist/6aT5HlqkUdmkXLk5dc4o3Q) | [Look What You've Done](https://open.spotify.com/album/6iH9AQjvi0Zsg2ej086ood) | 3:33 | 2022-03-11 | 2022-04-28 |
 | [Alright](https://open.spotify.com/track/174PWcf9jFqxW60KACVAaX) | [Aiza](https://open.spotify.com/artist/33swwbOrC7iMmPF3TXGLNi) | [Alright](https://open.spotify.com/album/0WYp1bHRFZdzS3yaIqSGUO) | 3:10 | 2023-08-25 | 2023-11-30 |
 | [alright](https://open.spotify.com/track/1Krmuryy2a0MG3SQDlxM0T) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [alright](https://open.spotify.com/album/05ghgyljDtoTqeUupyeBfM) | 3:08 | 2022-04-27 | 2022-07-10 |
@@ -124,7 +125,7 @@
 | [Angel](https://open.spotify.com/track/1C8V8IPSb9pL3VErlpsi61) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Angel](https://open.spotify.com/album/5j1kmevKyjTBSlS6x3xzLJ) | 3:21 | 2023-05-12 | 2023-08-04 |
 | [angel numbers](https://open.spotify.com/track/2m20gc2fNcai0gI1uU5YLV) | [MaZz](https://open.spotify.com/artist/107O5LIqkinsrUzpFr9gu7) | [angel numbers](https://open.spotify.com/album/3aZYhkmL0GXMeA3mVIGhkK) | 2:29 | 2023-07-14 | 2023-09-09 |
 | [Animosity](https://open.spotify.com/track/2FFR3DC3jgjpA7jVhbNZKk) | [Modha](https://open.spotify.com/artist/123kR1ynWcuuQC9hc2pglK), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo) | [Through the Cycle](https://open.spotify.com/album/2DffcF8Rm4H7VpRpLnndPX) | 3:41 | 2023-03-31 | 2023-04-13 |
-| [Anonymous](https://open.spotify.com/track/0nzrey7EGWju6WBndLkUFa) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x), [Jada](https://open.spotify.com/artist/0HjgS1pbPhuNrlPkda9INO) | [Sad Songs For Winter](https://open.spotify.com/album/0Y8wD7iVN5COLCrsJFI3yp) | 2:30 | 2024-03-01 |  |
+| [Anonymous](https://open.spotify.com/track/0nzrey7EGWju6WBndLkUFa) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x), [JADA](https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM) | [Sad Songs For Winter](https://open.spotify.com/album/0Y8wD7iVN5COLCrsJFI3yp) | 2:30 | 2024-03-01 |  |
 | [Another](https://open.spotify.com/track/3yEUC5XUSxWv7Z4nkcYW4Q) | [Mileena](https://open.spotify.com/artist/3zMmBYE6UVHfnURPeagEZu) | [Another](https://open.spotify.com/album/2wS9q6nJ6AL1KhRaD3JDc7) | 3:19 | 2023-06-14 | 2023-08-04 |
 | [Anticipate](https://open.spotify.com/track/1riqbH7Qd4VEXaWBd0L9YA) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Anticipate](https://open.spotify.com/album/1gjvuirxy43mXAc6O7UNLD) | 2:47 | 2023-07-28 | 2023-10-04 |
 | [Anymore](https://open.spotify.com/track/53UsR0RJ4hiOJkseK82wes) | [The WRLDFMS Tony Williams](https://open.spotify.com/artist/6TTVdg5UOUHsyiYPHgxLaq), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Anymore](https://open.spotify.com/album/6A7f7h4Jqk80zRZFZ3atWw) | 3:52 | 2022-01-12 | 2022-02-10 |

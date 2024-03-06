@@ -1,12 +1,12 @@
 {
   "description": "Si tocan a una respondemos todas.",
-  "num_followers": 55270,
+  "num_followers": 55300,
   "original_name": "Himnos de Sororidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTJjNjE1Njk2ZjFmNDE3MjQwMGNlZGUyZjczMTljZDBhNjc2YTRm",
+  "snapshot_id": "MCwwMzUzN2QyNGE5MmFiYjg4Mzc4MzQ1ZGQ0NmQ1M2I1ZWYzZjBjNTQ2",
   "tracks": [
     {
       "added_at": "2023-12-15 03:00:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Anclas",
-        "url": "https://open.spotify.com/album/7qaPfXArvKUdTbC2qCwIgG"
-      },
-      "artists": [
-        {
-          "name": "Gata Cattana",
-          "url": "https://open.spotify.com/artist/4aW7Oc19mMo4LTbdomZKgo"
-        }
-      ],
-      "duration_ms": 237447,
-      "name": "Lis\u00edstrata",
-      "url": "https://open.spotify.com/track/0zU49ugNNhip8mmrleoOzQ"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Se\u00f1orita Revoluci\u00f3n",
         "url": "https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm"
       },
@@ -303,6 +287,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Anclas",
+        "url": "https://open.spotify.com/album/7qaPfXArvKUdTbC2qCwIgG"
+      },
+      "artists": [
+        {
+          "name": "Gata Cattana",
+          "url": "https://open.spotify.com/artist/4aW7Oc19mMo4LTbdomZKgo"
+        }
+      ],
+      "duration_ms": 237447,
+      "name": "Lis\u00edstrata",
+      "url": "https://open.spotify.com/track/0zU49ugNNhip8mmrleoOzQ"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "La Fortaleza",
         "url": "https://open.spotify.com/album/73V6n1hTD93z5VVOm8eRb9"
       },
@@ -315,22 +315,6 @@
       "duration_ms": 235800,
       "name": "La Fortaleza",
       "url": "https://open.spotify.com/track/1VXPKfgMIAn95PFK4TlyDD"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Rompe (Vencer el Miedo)",
-        "url": "https://open.spotify.com/album/7z2IbqRX10fz29da0hN2bm"
-      },
-      "artists": [
-        {
-          "name": "Paulina Goto",
-          "url": "https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Rompe (Vencer el Miedo)",
-      "url": "https://open.spotify.com/track/6mQGZKKZR8EdUvfxqs4fko"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -355,6 +339,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Rompe (Vencer el Miedo)",
+        "url": "https://open.spotify.com/album/7z2IbqRX10fz29da0hN2bm"
+      },
+      "artists": [
+        {
+          "name": "Paulina Goto",
+          "url": "https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Rompe (Vencer el Miedo)",
+      "url": "https://open.spotify.com/track/6mQGZKKZR8EdUvfxqs4fko"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "La hija del loco",
         "url": "https://open.spotify.com/album/0Jyzj8fLiBzZc5i0jbtCfU"
       },
@@ -371,22 +371,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "B\u00e1ilalo Mujer",
-        "url": "https://open.spotify.com/album/3TqIGSpoilpG6QXGpwn5X5"
+        "name": "La Cumbia Feminazi",
+        "url": "https://open.spotify.com/album/42tCTBqRe7XUhgMKUYjm6p"
       },
       "artists": [
         {
-          "name": "Flor De Rap",
-          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
-        },
-        {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+          "name": "Renee Goust",
+          "url": "https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K"
         }
       ],
-      "duration_ms": 172950,
-      "name": "B\u00e1ilalo Mujer",
-      "url": "https://open.spotify.com/track/1RdQkmD04McqnaiN76PohD"
+      "duration_ms": 229713,
+      "name": "La Cumbia Feminazi",
+      "url": "https://open.spotify.com/track/7yXQbL33HEOGd7we8c3BOG"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -407,18 +403,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "La Cumbia Feminazi",
-        "url": "https://open.spotify.com/album/42tCTBqRe7XUhgMKUYjm6p"
+        "name": "B\u00e1ilalo Mujer",
+        "url": "https://open.spotify.com/album/3TqIGSpoilpG6QXGpwn5X5"
       },
       "artists": [
         {
-          "name": "Renee Goust",
-          "url": "https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K"
+          "name": "Flor De Rap",
+          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
+        },
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
         }
       ],
-      "duration_ms": 229713,
-      "name": "La Cumbia Feminazi",
-      "url": "https://open.spotify.com/track/7yXQbL33HEOGd7we8c3BOG"
+      "duration_ms": 172950,
+      "name": "B\u00e1ilalo Mujer",
+      "url": "https://open.spotify.com/track/1RdQkmD04McqnaiN76PohD"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -455,6 +455,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Autogestion y Resistencia",
+        "url": "https://open.spotify.com/album/0io7mCnSgnjzoi3Q57X5gR"
+      },
+      "artists": [
+        {
+          "name": "Audry Funk",
+          "url": "https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Sororidad",
+      "url": "https://open.spotify.com/track/01Wueuzjgm3EWjjmeR7AmB"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Alma de Cantaora",
         "url": "https://open.spotify.com/album/4RZtmfEuBbn9QVZguelVmO"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 173508,
       "name": "No Estamos Solas (Tema Central de la Serie \"La Jaur\u00eda\") - Tema Central de la Serie \"La Jaur\u00eda\"",
       "url": "https://open.spotify.com/track/4LxtkdudLT8Bhgm9xwRyn5"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Autogestion y Resistencia",
-        "url": "https://open.spotify.com/album/0io7mCnSgnjzoi3Q57X5gR"
-      },
-      "artists": [
-        {
-          "name": "Audry Funk",
-          "url": "https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Sororidad",
-      "url": "https://open.spotify.com/track/01Wueuzjgm3EWjjmeR7AmB"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -571,6 +571,38 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Libres",
+        "url": "https://open.spotify.com/album/1O16JRkcbct2LxYaanL3ye"
+      },
+      "artists": [
+        {
+          "name": "Mora Navarro",
+          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
+        }
+      ],
+      "duration_ms": 221278,
+      "name": "Libres",
+      "url": "https://open.spotify.com/track/1XZ3fMlt3ajzDAPDkMqh6C"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "One Blood (Una Sangre)",
+        "url": "https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "Dignificada",
+      "url": "https://open.spotify.com/track/5jRzAstjJuMwUP9P4Sj6Ng"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "El Sol",
         "url": "https://open.spotify.com/album/7w2VOEKla6DNnWjDsIkaQf"
       },
@@ -603,38 +635,6 @@
       "duration_ms": 190653,
       "name": "Gitanas",
       "url": "https://open.spotify.com/track/2GyKZ65PKJJ16ACMqnzC1y"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Libres",
-        "url": "https://open.spotify.com/album/1O16JRkcbct2LxYaanL3ye"
-      },
-      "artists": [
-        {
-          "name": "Mora Navarro",
-          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
-        }
-      ],
-      "duration_ms": 221278,
-      "name": "Libres",
-      "url": "https://open.spotify.com/track/1XZ3fMlt3ajzDAPDkMqh6C"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "One Blood (Una Sangre)",
-        "url": "https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "Dignificada",
-      "url": "https://open.spotify.com/track/5jRzAstjJuMwUP9P4Sj6Ng"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Nos Queremos Vivas",
+        "url": "https://open.spotify.com/album/5Dqwsm0uvmt6TvPHScZ35W"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Lane",
+          "url": "https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq"
+        }
+      ],
+      "duration_ms": 220576,
+      "name": "Nos Queremos Vivas",
+      "url": "https://open.spotify.com/track/4UYBH2rHhTDa655jgcfZUt"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Hermanas",
         "url": "https://open.spotify.com/album/5UPSoi84uNlqOuRcSkOOEa"
       },
@@ -783,22 +799,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Nos Queremos Vivas",
-        "url": "https://open.spotify.com/album/5Dqwsm0uvmt6TvPHScZ35W"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Lane",
-          "url": "https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq"
-        }
-      ],
-      "duration_ms": 220576,
-      "name": "Nos Queremos Vivas",
-      "url": "https://open.spotify.com/track/4UYBH2rHhTDa655jgcfZUt"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "SE BUSCA",
         "url": "https://open.spotify.com/album/3tITprG2WPraA2ejbTaZVD"
       },
@@ -811,62 +811,6 @@
       "duration_ms": 154450,
       "name": "Se Busca",
       "url": "https://open.spotify.com/track/1bblnw82snIuxpDhxEfBKW"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Belicosa",
-        "url": "https://open.spotify.com/album/2uRdtPtwPoYAbgnT6LKr8R"
-      },
-      "artists": [
-        {
-          "name": "Baja Frequencia",
-          "url": "https://open.spotify.com/artist/5hkLgDHHOCdNfLSdevCX2z"
-        },
-        {
-          "name": "Chocolate Remix",
-          "url": "https://open.spotify.com/artist/4kkuyWmpashrooyOFvHX2m"
-        }
-      ],
-      "duration_ms": 169200,
-      "name": "Belicosa",
-      "url": "https://open.spotify.com/track/1FvhrIQOQnK0oXzDgk5SD9"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Quememos el Reino",
-        "url": "https://open.spotify.com/album/3L4Ud38y1Kf5cUjlKbAvAR"
-      },
-      "artists": [
-        {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
-        }
-      ],
-      "duration_ms": 267520,
-      "name": "Quememos el Reino",
-      "url": "https://open.spotify.com/track/6Q34FSF6Y1VMYC6oGx2R8G"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Canci\u00f3n Sin Miedo [Versi\u00f3n Ayuujk (Tlahuiltoltepec) / Espa\u00f1ol]",
-        "url": "https://open.spotify.com/album/6cqEBK9aE4vDw2GcUV7h2F"
-      },
-      "artists": [
-        {
-          "name": "Banda Femenil Regional \"Mujeres del Viento Florido\"",
-          "url": "https://open.spotify.com/artist/1x4v8vs04mwdQwKy74mQBd"
-        },
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        }
-      ],
-      "duration_ms": 176500,
-      "name": "Canci\u00f3n Sin Miedo - Versi\u00f3n Ayuujk (Tlahuiltoltepec) / Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/5VIDgMv9x9PfEHK9I1ukEA"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -891,6 +835,62 @@
       "duration_ms": 249035,
       "name": "Ovarios",
       "url": "https://open.spotify.com/track/2gC9hVnERFu46pSYh3xNST"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Canci\u00f3n Sin Miedo [Versi\u00f3n Ayuujk (Tlahuiltoltepec) / Espa\u00f1ol]",
+        "url": "https://open.spotify.com/album/6cqEBK9aE4vDw2GcUV7h2F"
+      },
+      "artists": [
+        {
+          "name": "Banda Femenil Regional \"Mujeres del Viento Florido\"",
+          "url": "https://open.spotify.com/artist/1x4v8vs04mwdQwKy74mQBd"
+        },
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "duration_ms": 176500,
+      "name": "Canci\u00f3n Sin Miedo - Versi\u00f3n Ayuujk (Tlahuiltoltepec) / Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/5VIDgMv9x9PfEHK9I1ukEA"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Quememos el Reino",
+        "url": "https://open.spotify.com/album/3L4Ud38y1Kf5cUjlKbAvAR"
+      },
+      "artists": [
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        }
+      ],
+      "duration_ms": 267520,
+      "name": "Quememos el Reino",
+      "url": "https://open.spotify.com/track/6Q34FSF6Y1VMYC6oGx2R8G"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Belicosa",
+        "url": "https://open.spotify.com/album/2uRdtPtwPoYAbgnT6LKr8R"
+      },
+      "artists": [
+        {
+          "name": "Baja Frequencia",
+          "url": "https://open.spotify.com/artist/5hkLgDHHOCdNfLSdevCX2z"
+        },
+        {
+          "name": "Chocolate Remix",
+          "url": "https://open.spotify.com/artist/4kkuyWmpashrooyOFvHX2m"
+        }
+      ],
+      "duration_ms": 169200,
+      "name": "Belicosa",
+      "url": "https://open.spotify.com/track/1FvhrIQOQnK0oXzDgk5SD9"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Mujeres",
-        "url": "https://open.spotify.com/album/2umjf37Z9va9M5JSgEPR5V"
-      },
-      "artists": [
-        {
-          "name": "Banda Femenil Regional \"Mujeres del Viento Florido\"",
-          "url": "https://open.spotify.com/artist/1x4v8vs04mwdQwKy74mQBd"
-        }
-      ],
-      "duration_ms": 195560,
-      "name": "Mujeres",
-      "url": "https://open.spotify.com/track/34bvJEceDRCHVQDyPd7sa2"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Hasta Salvarnos",
         "url": "https://open.spotify.com/album/2HPbAM9jESS0gzuIkP46eZ"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 230400,
       "name": "Hasta Salvarnos",
       "url": "https://open.spotify.com/track/25T6UjiA4nsWF4DXLgwMXU"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Mujeres",
+        "url": "https://open.spotify.com/album/2umjf37Z9va9M5JSgEPR5V"
+      },
+      "artists": [
+        {
+          "name": "Banda Femenil Regional \"Mujeres del Viento Florido\"",
+          "url": "https://open.spotify.com/artist/1x4v8vs04mwdQwKy74mQBd"
+        }
+      ],
+      "duration_ms": 195560,
+      "name": "Mujeres",
+      "url": "https://open.spotify.com/track/34bvJEceDRCHVQDyPd7sa2"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Femrevoluci\u00f3n",
+        "url": "https://open.spotify.com/album/2jeoUKyTm20LffOarIjLIM"
+      },
+      "artists": [
+        {
+          "name": "Lucrecia Aguirre",
+          "url": "https://open.spotify.com/artist/4ZUaicOmq3Ywk2VvL4ggbD"
+        }
+      ],
+      "duration_ms": 194181,
+      "name": "Femrevoluci\u00f3n",
+      "url": "https://open.spotify.com/track/3UwupHJgHZk39iE50dR5Zt"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "La Batalla",
         "url": "https://open.spotify.com/album/0YXQIt7lz5Rsp7wpbuwhFW"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 251936,
       "name": "Sacar los Tambores",
       "url": "https://open.spotify.com/track/07T5hgGjxLeEDzrWp31jt3"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Femrevoluci\u00f3n",
-        "url": "https://open.spotify.com/album/2jeoUKyTm20LffOarIjLIM"
-      },
-      "artists": [
-        {
-          "name": "Lucrecia Aguirre",
-          "url": "https://open.spotify.com/artist/4ZUaicOmq3Ywk2VvL4ggbD"
-        }
-      ],
-      "duration_ms": 194181,
-      "name": "Femrevoluci\u00f3n",
-      "url": "https://open.spotify.com/track/3UwupHJgHZk39iE50dR5Zt"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "No Ves",
-        "url": "https://open.spotify.com/album/0noxqh5mBtyCT5N741oUKC"
-      },
-      "artists": [
-        {
-          "name": "Connie Isla",
-          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
-        }
-      ],
-      "duration_ms": 199312,
-      "name": "No Ves",
-      "url": "https://open.spotify.com/track/5y38M7sJvnfZPguQBYO7qx"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Mi Fuerza Es Tuya",
         "url": "https://open.spotify.com/album/5OeRmEiUnbVCOCSBpYrk1W"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 245441,
       "name": "Mi Fuerza Es Tuya",
       "url": "https://open.spotify.com/track/1FktdfIFdccuJlOBIGW6ga"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "No Ves",
+        "url": "https://open.spotify.com/album/0noxqh5mBtyCT5N741oUKC"
+      },
+      "artists": [
+        {
+          "name": "Connie Isla",
+          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
+        }
+      ],
+      "duration_ms": 199312,
+      "name": "No Ves",
+      "url": "https://open.spotify.com/track/5y38M7sJvnfZPguQBYO7qx"
     },
     {
       "added_at": "2023-12-15 03:00:00",

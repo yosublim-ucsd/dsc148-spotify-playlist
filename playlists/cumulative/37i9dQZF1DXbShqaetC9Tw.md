@@ -4,7 +4,7 @@
 
 > 새벽 감성\. Issa Vibe.
 
-193 songs - 10 hr 48 min
+194 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,8 +94,9 @@
 | [Island \(rough\)](https://open.spotify.com/track/79kkH6IeyyGYXvhUy5S8HH) | [2xxx](https://open.spotify.com/artist/4cMtnnGdRvh8KIi2RA7ZeU), [Colde](https://open.spotify.com/artist/2gbgqFRVv5UCjo1uVYNGjg) | [Life+unconsciousness](https://open.spotify.com/album/0ENIw3VQ7WFRb9oMT5n8wx) | 1:36 | 2022-04-18 | 2022-04-21 |
 | [I’m afraid](https://open.spotify.com/track/6gfQx6a6RN7DzCklR9Re4I) | [KIMDA](https://open.spotify.com/artist/5ZXaFowVlaocwzO9pBF6jm) | [I’m afraid](https://open.spotify.com/album/2PHO1sExSk57noerUQixaI) | 3:17 | 2022-04-18 | 2022-07-12 |
 | [L Word](https://open.spotify.com/track/65yxQ2j42rkcF06S3Lr6D5) | [BADROOM](https://open.spotify.com/artist/6njP39Dygk8WBwc7gR8Q48), [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [GOOD BOYS GONE BVD](https://open.spotify.com/album/46yXA9eD43ql1b5BqYlzMw) | 4:10 | 2022-07-15 | 2022-07-21 |
-| [LA VIE](https://open.spotify.com/track/0eW5FMPvIQXhMYZQhea7Hj) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Little Women, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2AoSgorhPk4logk3wEufL6) | 3:49 | 2022-10-06 |  |
+| [LA VIE](https://open.spotify.com/track/0eW5FMPvIQXhMYZQhea7Hj) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Little Women, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2AoSgorhPk4logk3wEufL6) | 3:49 | 2022-10-06 | 2024-03-06 |
 | [Lemonade](https://open.spotify.com/track/1itk8LxTTvJidBjwbMkeie) | [Nieah](https://open.spotify.com/artist/3uo7KLyxuiANGmwDocxMnw) | [Lemonade](https://open.spotify.com/album/4KnyT34T9Oj013VwWnhRcj) | 3:14 | 2022-04-18 | 2022-07-14 |
+| [Let off steam](https://open.spotify.com/track/7KUb5GsTcXfpG0phkbL2mR) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [L&B](https://open.spotify.com/album/5tXw2luJlRFJ4vqNZkzS6u) | 3:39 | 2024-03-05 |  |
 | [Letter \- English Version](https://open.spotify.com/track/4VuICuloTpNTypEr9ZQjXZ) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Riddle](https://open.spotify.com/album/37jhqfjnQFN5ObACGJkdUv) | 3:07 | 2022-04-18 | 2022-04-22 |
 | [Lights](https://open.spotify.com/track/6iFdx5TnKmYxh47Y3O1rBv) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [Take You Down](https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ) | 2:52 | 2022-04-18 |  |
 | [Like a Diamond \(With\. Stella Jang\)](https://open.spotify.com/track/7l6Apaxjjt4cJgiBJ20kGG) | [KangHyeWon](https://open.spotify.com/artist/7dwHrGGWiw44ny2dJcARu6), [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Like a Diamond](https://open.spotify.com/album/4ml2faXdqnKJa7ZeeoM1VH) | 3:16 | 2022-06-18 | 2023-04-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SJZvej5CcO.md) - [plain]
 
 > Apasiónate con sus éxitos en español.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,190 likes - 82 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,321 likes - 82 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SJZvej5CcO.md) - [plain]
 | 81 | [Un hecho obvio](https://open.spotify.com/track/7dM2fCHgvu6eRTaxpMg1K1) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Primavera anticipada](https://open.spotify.com/album/6zAy8yhXyey4JitXpszFh7) | 3:08 |
 | 82 | [Frente a nosotros](https://open.spotify.com/track/7ejgpCjT3L5JRJWKnqeSbV) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Frente a nosotros](https://open.spotify.com/album/2tlRHyJYMznfBLjYEY69zt) | 2:59 |
 
-Snapshot ID: `MCw1NTY4MGUyYTEyZWZmYzExZmJjYjBmMWM5ZjhlYzUyZTdmMjk2MGQy`
+Snapshot ID: `MCxjYmMzNjZhMGQ5NGIyYzdhMDg1M2RmZGY3YjViN2NiMDYwZjBlYzQ5`

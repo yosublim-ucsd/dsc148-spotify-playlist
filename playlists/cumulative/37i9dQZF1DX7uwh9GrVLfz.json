@@ -618,7 +618,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 169317,
       "name": "Believer",
       "url": "https://open.spotify.com/track/0p5AeHVOl8nmEdyCbYkkH5"
@@ -708,7 +708,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 204492,
       "name": "Better Left Unsaid",
       "url": "https://open.spotify.com/track/1q8Gyk65YWMormJV6SuSJZ"
@@ -1920,7 +1920,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 148839,
       "name": "Deep Red Morning Light",
       "url": "https://open.spotify.com/track/63OZku9t5qW4GPm9P31Ilr"
@@ -2611,6 +2611,24 @@
     },
     {
       "album": {
+        "name": "flagship",
+        "url": "https://open.spotify.com/album/6sumXukVRgoHRce55kELGj"
+      },
+      "artists": [
+        {
+          "name": "\u30cf\u30a4\u30d5\u30a1\u30a4\u30b3\u30fc\u30d2\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/3nfnWSg80zCxmZ9Q8sspKm"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226561,
+      "name": "flagship",
+      "url": "https://open.spotify.com/track/4a01VbAG5YGyQ6CBH7KzLA"
+    },
+    {
+      "album": {
         "name": "Fleeting",
         "url": "https://open.spotify.com/album/544Jdvoikdhj5TstI63Pyy"
       },
@@ -3170,7 +3188,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 200865,
       "name": "Heartbeat Song",
       "url": "https://open.spotify.com/track/5wTWHYZcIHkMd0kCwh0oFH"
@@ -3358,7 +3376,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 220200,
       "name": "HOTARU NO HIKARI",
       "url": "https://open.spotify.com/track/7u0uQ6LPgE5weRPJx8XzzF"
@@ -3574,7 +3592,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 213719,
       "name": "I Won't Turn Off My Radio",
       "url": "https://open.spotify.com/track/0SyfvSgnnOh4i3CsRWEPe1"
@@ -3682,7 +3700,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 107132,
       "name": "Indian Burn",
       "url": "https://open.spotify.com/track/0oNJdh57wG3gHDDodlPnZC"
@@ -4438,7 +4456,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 165092,
       "name": "Long Hot Summer Day",
       "url": "https://open.spotify.com/track/2RLlMZZS5MIWGhMvXrM91H"
@@ -5220,7 +5238,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 170545,
       "name": "My One Wish",
       "url": "https://open.spotify.com/track/7vWQhVaKXNGVpN9IhCFn9p"
@@ -5472,7 +5490,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 157945,
       "name": "New Love",
       "url": "https://open.spotify.com/track/7zrK4bhjwGYcyfPNiPXmTW"
@@ -6874,7 +6892,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 275866,
       "name": "SAKURA",
       "url": "https://open.spotify.com/track/7JovoyGpmr87X05qn0gZPe"
@@ -8536,7 +8554,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 164185,
       "name": "The Show Must Go On",
       "url": "https://open.spotify.com/track/0idEk81Edyuz92Z7qHAMjZ"
@@ -8644,7 +8662,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 174985,
       "name": "These Magic Words",
       "url": "https://open.spotify.com/track/3RbS00mL3QbGKEupNTmn9s"
@@ -10194,7 +10212,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-05",
+      "date_removed": null,
       "duration_ms": 263472,
       "name": "\u3058\u3083\u3058\u3083\u99ac\u306b\u3055\u305b\u306a\u3044\u3067",
       "url": "https://open.spotify.com/track/6qV4xNwIt7qF0gO6yW086K"
@@ -10306,6 +10324,24 @@
       "duration_ms": 209966,
       "name": "\u306a\u3089\u306f\u3099\u9752\u6625\u3088",
       "url": "https://open.spotify.com/track/25OeqQAsSTAb3CAmz03Cml"
+    },
+    {
+      "album": {
+        "name": "\u3075\u3056\u3051\u3066\u30ca\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/1REZLVcg3jVMBW2xj1yt4W"
+      },
+      "artists": [
+        {
+          "name": "su-xing-cyu",
+          "url": "https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98999,
+      "name": "\u3075\u3056\u3051\u3066\u30ca\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/7zuAxJE5oNaGLdxcJfThZB"
     },
     {
       "album": {
@@ -10828,6 +10864,24 @@
       "duration_ms": 220720,
       "name": "\u30b9\u30bf\u30fc\u30d5\u30a3\u30c3\u30b7\u30e5",
       "url": "https://open.spotify.com/track/18xszcbgtHszOyovyumBPJ"
+    },
+    {
+      "album": {
+        "name": "Eight Melodies",
+        "url": "https://open.spotify.com/album/3EtsQUHSvZWHlhpbYV4nOd"
+      },
+      "artists": [
+        {
+          "name": "GEEKSTREEKS",
+          "url": "https://open.spotify.com/artist/5kHLhXev311wEXRfKLF4ps"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280500,
+      "name": "\u30b9\u30c8\u30e9\u30b0\u30eb\u30ec\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/6SkIndXStZlGfobBP3YYLc"
     },
     {
       "album": {
@@ -12788,7 +12842,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 254130,
       "name": "\u6c38\u9060\u885d\u52d5",
       "url": "https://open.spotify.com/track/5I2A6BkRvTve67HLQbK3WE"

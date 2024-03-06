@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Been Stellar
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,320 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,351 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 2 | [Crazy, Baby](https://open.spotify.com/track/2MTsoMiLXxJQz9qfVjw32G) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [Crazy, Baby](https://open.spotify.com/album/3bLdvrIbrBDX812sMpG6dW) | 2:17 |
 | 3 | [Easy](https://open.spotify.com/track/7JxgVxbmzuzwjgZPrpDcZj) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Easy](https://open.spotify.com/album/1VQbLqhYQBUPC9ZO9mhC3W) | 2:31 |
 | 4 | [Taller Than Me](https://open.spotify.com/track/7Hz9Rlm3EvkQBro4WGzIhq) | [Hana Eid](https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr) | [I Exist Because You Say So](https://open.spotify.com/album/44G1m9EFvbUtsl571DGzwd) | 3:32 |
-| 5 | [Basement](https://open.spotify.com/track/1LGZzWQexuUXz7n3DJTJOl) | [Dogs on Shady Lane](https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO) | [The Knife](https://open.spotify.com/album/29rQiqo1hLh668XBKU80sA) | 3:43 |
+| 5 | [Basement](https://open.spotify.com/track/1aIQvLvwz35NdFgMpc2nYo) | [Dogs on Shady Lane](https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO) | [The Knife](https://open.spotify.com/album/0gkvOoUvjCFHj6SmhIqT5C) | 3:43 |
 | 6 | [ask nicely](https://open.spotify.com/track/0adKvhR28ImyPl8yKC5oKO) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [ask nicely](https://open.spotify.com/album/0aM2bVnkmBZcW38sKuyAv9) | 2:39 |
 | 7 | [Eating Rust](https://open.spotify.com/track/2fPLSqIAosnpcAG9hiaXh5) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [Eating Rust](https://open.spotify.com/album/0TeMT5zwq8qKcNGSrTaDEZ) | 3:15 |
 | 8 | [Any Other Way](https://open.spotify.com/track/56bYmPBQGwcfsCgltuCh5U) | [Coco](https://open.spotify.com/artist/4NxTtZTeJqQ1n27i2qnPCe) | [2](https://open.spotify.com/album/3msIYseD4AuvSLzb63E2YS) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [Here Forever](https://open.spotify.com/track/5cfMeTRIX6feTG6JOMCd3V) | [buffchick](https://open.spotify.com/artist/0bySwTrRN75nqs2vLS00zn) | [Here Forever](https://open.spotify.com/album/3gahadLXizRTaPjvdTDGKh) | 2:20 |
 | 100 | [Tin Man](https://open.spotify.com/track/5W6KtuTeceMUqu7zW4JNdi) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Girl with Fish](https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT) | 2:11 |
 
-Snapshot ID: `MCwxNTI5NmJiNGE0MGFjZjBhM2E3OTg1NWExMjdlZDY4NzVmZTAyOTQ3`
+Snapshot ID: `MCxmOGFjY2NiMDg5OGI0NGM5ZTQ0YTgyZDAxNGYzODU4NDc5YjE0ODYy`

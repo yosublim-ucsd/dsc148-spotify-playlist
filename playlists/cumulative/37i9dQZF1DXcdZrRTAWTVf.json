@@ -212,10 +212,28 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 141333,
       "name": "Copiloto",
       "url": "https://open.spotify.com/track/3z8wPhBhn6LlPqf3OKhgiJ"
+    },
+    {
+      "album": {
+        "name": "Millas",
+        "url": "https://open.spotify.com/album/7MsDcsYC72Qjv6O5AzqUpf"
+      },
+      "artists": [
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141333,
+      "name": "Copiloto",
+      "url": "https://open.spotify.com/track/7Bn4v2VPSrc3U87D7tGXwQ"
     },
     {
       "album": {

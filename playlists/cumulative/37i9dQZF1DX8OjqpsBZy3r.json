@@ -2113,6 +2113,24 @@
     },
     {
       "album": {
+        "name": "Psycho",
+        "url": "https://open.spotify.com/album/61aNBBIj2eIN1HINjED86a"
+      },
+      "artists": [
+        {
+          "name": "Jack Kittel",
+          "url": "https://open.spotify.com/artist/5cXJERCnv50nZBXCk8Zq9X"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223351,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/6D8zVrXxtOfJ6JZXV1WYRh"
+    },
+    {
+      "album": {
         "name": "Queens Don't",
         "url": "https://open.spotify.com/album/7KoovpscXVlfyQdklbirMC"
       },

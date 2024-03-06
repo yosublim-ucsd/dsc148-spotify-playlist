@@ -1,5 +1,5 @@
 {
-  "2024-03-05": 24299,
+  "2024-03-06": 24297,
   "date_first_scraped": "2023-11-08",
   "description": "The freshest Hip Hop and R&amp;B. ",
   "name": "Fresh Out",
@@ -96,6 +96,36 @@
     },
     {
       "album": {
+        "name": "Amalfi Drive (feat. Compton's Most Wanted)",
+        "url": "https://open.spotify.com/album/7wM9S44x4OCMEjCH4mmeOC"
+      },
+      "artists": [
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        },
+        {
+          "name": "LNDN DRGS",
+          "url": "https://open.spotify.com/artist/65d2Cw70rLuVwEZwQpHtFW"
+        },
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        },
+        {
+          "name": "Compton's Most Wanted",
+          "url": "https://open.spotify.com/artist/0SAPzv3jNXclYYSHOnJyjg"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231856,
+      "name": "Amalfi Drive (feat. Compton's Most Wanted)",
+      "url": "https://open.spotify.com/track/03qcAVAmRbItMm8iOafAVd"
+    },
+    {
+      "album": {
         "name": "Backslide",
         "url": "https://open.spotify.com/album/7ActXZISNRFX3jBRPcE7XW"
       },
@@ -183,7 +213,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 179712,
       "name": "Big Peach",
       "url": "https://open.spotify.com/track/5HMw8a6zOfzKDh0Azze6sA"
@@ -368,6 +398,24 @@
     },
     {
       "album": {
+        "name": "Case Dismissed",
+        "url": "https://open.spotify.com/album/50VcqInrcl5ZBuJlKPOnjX"
+      },
+      "artists": [
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78419,
+      "name": "Case Dismissed",
+      "url": "https://open.spotify.com/track/21Snj1BjgpX3eeSCudzqAI"
+    },
+    {
+      "album": {
         "name": "Celebrity Status",
         "url": "https://open.spotify.com/album/6M1H4iaKsUYjEPoTMwqVlF"
       },
@@ -423,7 +471,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 111432,
       "name": "Christopher Walken",
       "url": "https://open.spotify.com/track/13Wq2DkqFj9YRahFpfqlki"
@@ -718,6 +766,24 @@
     },
     {
       "album": {
+        "name": "Emmett Till",
+        "url": "https://open.spotify.com/album/5I3gNgDbfY7kHzJT45EO0z"
+      },
+      "artists": [
+        {
+          "name": "PaperRoute Woo",
+          "url": "https://open.spotify.com/artist/5D2pVmcsajqTCO3czYdzrF"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157733,
+      "name": "Emmett Till",
+      "url": "https://open.spotify.com/track/4N1xubWDWvlYM2kWD4GQZD"
+    },
+    {
+      "album": {
         "name": "Fear No Man",
         "url": "https://open.spotify.com/album/0ic9UPGkVgy9W8qrM2rdFf"
       },
@@ -860,6 +926,24 @@
     },
     {
       "album": {
+        "name": "Ghosts 2",
+        "url": "https://open.spotify.com/album/6saWAuIzIhkmYUoFNwagtc"
+      },
+      "artists": [
+        {
+          "name": "MBNel",
+          "url": "https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215040,
+      "name": "Ghosts 2",
+      "url": "https://open.spotify.com/track/583PX1XZxvGOpVANFlgJ4q"
+    },
+    {
+      "album": {
         "name": "Give & Give",
         "url": "https://open.spotify.com/album/3Sf7ORHvuauAX9FisZJ5Vb"
       },
@@ -897,7 +981,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 151011,
       "name": "givenofuks",
       "url": "https://open.spotify.com/track/4BYtFyjFMZD21Gbmq9Vhin"
@@ -959,6 +1043,24 @@
       "duration_ms": 173000,
       "name": "Goofy",
       "url": "https://open.spotify.com/track/6QOmVQDywWgJ3neRRrBUiJ"
+    },
+    {
+      "album": {
+        "name": "Green Carpet",
+        "url": "https://open.spotify.com/album/7MZCu883H2Y7Br2K9Wd3Ef"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133041,
+      "name": "Green Carpet",
+      "url": "https://open.spotify.com/track/4OYy7dfHbLKi4lvpzpzeRv"
     },
     {
       "album": {
@@ -1141,7 +1243,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 130960,
       "name": "I AM NOT HUMAN",
       "url": "https://open.spotify.com/track/1ezhzDiymFiBKe7tjLC2Hg"
@@ -1207,6 +1309,32 @@
       "duration_ms": 125678,
       "name": "I MIGHT SELF DESTRUCT",
       "url": "https://open.spotify.com/track/2A54AQqJdE7jgKAOaKZa4l"
+    },
+    {
+      "album": {
+        "name": "ROCKSTAR LIFESTYLE 2",
+        "url": "https://open.spotify.com/album/5Ma67N8iTqF6wY6kIT7oBI"
+      },
+      "artists": [
+        {
+          "name": "DaeMoney",
+          "url": "https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg"
+        },
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        },
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127442,
+      "name": "JAPANESE DENIM (feat. Veeze)",
+      "url": "https://open.spotify.com/track/5CG71bdXpZdQBYPMCzTXvK"
     },
     {
       "album": {
@@ -1399,7 +1527,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 167927,
       "name": "Love of Money",
       "url": "https://open.spotify.com/track/7BVXZByQjfmtEWt9AhjlwL"
@@ -1808,6 +1936,24 @@
     },
     {
       "album": {
+        "name": "Rap Saved Me",
+        "url": "https://open.spotify.com/album/0W1uhkopAyB1EDN8IrGViS"
+      },
+      "artists": [
+        {
+          "name": "BERNA",
+          "url": "https://open.spotify.com/artist/4r533q4JGGMJ5ufDV6iOed"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121690,
+      "name": "Rap Saved Me",
+      "url": "https://open.spotify.com/track/5JJzfwx67N6HldPk15b1QV"
+    },
+    {
+      "album": {
         "name": "Real Original",
         "url": "https://open.spotify.com/album/4nIbqVJDpB9vJ2Rvxn0eez"
       },
@@ -1907,7 +2053,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 151548,
       "name": "Shot Caller",
       "url": "https://open.spotify.com/track/6enDzOsAXFajdU3HclV4Cz"
@@ -2387,7 +2533,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 105130,
       "name": "XPLOSIVE",
       "url": "https://open.spotify.com/track/4Yk97MKGfwL707ASkje7Qf"

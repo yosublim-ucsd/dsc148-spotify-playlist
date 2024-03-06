@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > Your weekly rock update\. Cover: Mannequin Pussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,105 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,100 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Common Guys](https://open.spotify.com/track/44vSST6FvFETwulAVlsYKB) | [Jane's Party](https://open.spotify.com/artist/16SY7vICMlc8XGaTPocEa3) | [Common Guys](https://open.spotify.com/album/52kFmkuox74cyAOMPmJ2xE) | 3:00 |
 | 100 | [Hated](https://open.spotify.com/track/0cJL0kn2i96yYwAklbGudP) | [Royal Tusk](https://open.spotify.com/artist/122qG4lB9vG6XCjrwJPnRJ) | [Hated](https://open.spotify.com/album/1kwvbU0CtOAFkzaug8szjI) | 3:09 |
 
-Snapshot ID: `MCwyN2ZkZDNmZDhmOTdhMmIxYzFiYjBlYTc2NzBlOTFhZmEwNzkwNTI4`
+Snapshot ID: `MCxlMDE3YWE4NWMwMWMwZDBmZWE1YWNlNjYyZGVmOWY1Y2VhYmNjZjNl`

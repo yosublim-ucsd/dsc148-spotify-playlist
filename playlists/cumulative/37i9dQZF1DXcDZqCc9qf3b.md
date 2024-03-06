@@ -2,9 +2,9 @@
 
 ### [Netflix Kids Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXcDZqCc9qf3b)
 
-> Groove to music from your Netflix Kids favorites! Cover: Orion and the Dark
+> Groove to music from your Netflix Kids favorites! Cover: Hot Wheels: Let's Race
 
-124 songs - 5 hr 9 min
+125 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Here Comes The Sun](https://open.spotify.com/track/11p0T6y1TKZ913rlJm9H1N) | [The Beat Bugs](https://open.spotify.com/artist/2zaXzyRTG9N2adhmmnV31p), [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Beat Bugs \(Music From The Netflix Original Series \- Season 3\)](https://open.spotify.com/album/14DYbT6rMLn2LpxJjPS3DR) | 3:09 | 2022-04-08 |  |
 | [Hey Gabby! \(Theme Song from Gabby's Dollhouse\)](https://open.spotify.com/track/36xw27XcI4mUqFkGKh6LtO) | [PT Walkley](https://open.spotify.com/artist/4PRBH61ujBc3VWylX0IGgG), [Michel Walkley](https://open.spotify.com/artist/0wbtAw0LRnmB2cZYNkSXHJ), [Charlie Walkley](https://open.spotify.com/artist/5yAhTBMRLXzUo50PIICGiA), [Nash Walkley](https://open.spotify.com/artist/50toR6RTNrXKHJatsXHX4V) | [Hey Gabby! \(Theme Song from Gabby's Dollhouse\)](https://open.spotify.com/album/3lkEtPQqGmOQVoYykSczSC) | 2:00 | 2022-04-08 |  |
 | [Home \(From The Netflix Series: “Ridley Jones” Vol\. 3\) \(feat\. Sutton Foster, Iara Nemirovsky\)](https://open.spotify.com/track/5LUcArrZoeWmcTjzA1okYW) | [Ridley Jones Cast](https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR), [Sutton Foster](https://open.spotify.com/artist/2RWaZohsuqSJX9xWX3p95G), [Iara Nemirovsky](https://open.spotify.com/artist/1NGn6PJg2ujMULnGp9AN4l) | [Ridley Jones \(Soundtrack From The Netflix Series Vol\. 3\)](https://open.spotify.com/album/3cAOBR5wp4qiiTcrYeUmMR) | 1:14 | 2022-04-08 |  |
+| [Hot Wheels Let's Race Theme Song](https://open.spotify.com/track/5Jp4vRhQ4TLXrp9cnJfXu6) | [Hot Wheels](https://open.spotify.com/artist/32TY5Roo530bCYpFBRpyBE) | [Hot Wheels Let's Race Theme Song](https://open.spotify.com/album/2aJkmEPmwl7fki60ZO0sVJ) | 1:44 | 2024-03-05 |  |
 | [I Choose \- From The Netflix Original Film "The Willoughbys"](https://open.spotify.com/track/13QIjo2iGBgl56mNDjJOet) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [I Choose \(From The Netflix Original Film The Willoughbys\)](https://open.spotify.com/album/6k4ugOvti66x6xvnQpYSj7) | 3:37 | 2022-04-08 |  |
 | [I Heard It Through The Grapevine](https://open.spotify.com/track/5QCNav5MXT4un1jxr49qnB) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Motown Magic \(Original Soundtrack\)](https://open.spotify.com/album/3okRYttyTWAO5i7rgkyeKL) | 4:47 | 2022-04-08 |  |
 | [I Made It](https://open.spotify.com/track/4dkf6Qfmy7730BwwIqyb4Y) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [I Made It](https://open.spotify.com/album/6IEdMBcT6BR8cvNx8dneew) | 4:29 | 2023-02-03 |  |

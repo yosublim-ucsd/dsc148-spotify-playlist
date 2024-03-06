@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x?si=5\_F7XBVhSM2kctfMX\-7T7g"> Kali Claire </a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,593 likes - 165 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,656 likes - 165 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Anonymous](https://open.spotify.com/track/0nzrey7EGWju6WBndLkUFa) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x), [Jada](https://open.spotify.com/artist/0HjgS1pbPhuNrlPkda9INO) | [Sad Songs For Winter](https://open.spotify.com/album/0Y8wD7iVN5COLCrsJFI3yp) | 2:30 |
+| 1 | [Anonymous](https://open.spotify.com/track/0nzrey7EGWju6WBndLkUFa) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x), [JADA](https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM) | [Sad Songs For Winter](https://open.spotify.com/album/0Y8wD7iVN5COLCrsJFI3yp) | 2:30 |
 | 2 | [You Don't Call Me](https://open.spotify.com/track/1t7bjA1KnsOmxIbvfi7WMc) | [PxRRY](https://open.spotify.com/artist/0PsWfG0oEt3Oz7Vlur7pkE), [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [You Don't Call Me](https://open.spotify.com/album/3RlJ4V1jScGEXcwajF3BkM) | 2:27 |
 | 3 | [Slide](https://open.spotify.com/track/15SHKUdlRaqIVTJWcP5n5a) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Wish You Were Here](https://open.spotify.com/album/3KzXjaZ3bOVtC6RgFCkUTE) | 3:35 |
 | 4 | [You Got It](https://open.spotify.com/track/3qYA03ei7Dd6YgEe4oUjOF) | [Zyah Belle](https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx), [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX) | [You Got It](https://open.spotify.com/album/6xZys52Lk6ywAsI76kBBmH) | 3:55 |
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 83 | [JJC](https://open.spotify.com/track/4IcQbIh8U4DtXEy5KWKcAu) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj) | [JJC](https://open.spotify.com/album/6Ba8adcxt440I92gC7ld28) | 2:34 |
 | 84 | [Posed To](https://open.spotify.com/track/0F49S52vtPok28qeP4TCTZ) | [ØHENRY](https://open.spotify.com/artist/4zL1qNBQ4ZVhWFUXbyFCqI) | [Posed To](https://open.spotify.com/album/4Y0aCALzjLk45oOFCmQzbP) | 2:13 |
 | 85 | [In The End](https://open.spotify.com/track/09CLSLAHnRuFQUgoXeAiCz) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [In The End](https://open.spotify.com/album/4yKDRnMv0vIj5FlsREicz4) | 3:10 |
-| 86 | [Alone](https://open.spotify.com/track/44ZY9pdZ2jvUr52IqKC5FF) | [Myke Grizzly](https://open.spotify.com/artist/3l4XY26vL0FKhljOFmnMny) | [Alone](https://open.spotify.com/album/20XfzuSqm9dAiJGZrRumPa) | 3:36 |
+| 86 | [Alone](https://open.spotify.com/track/6G1yCTn40ETw4VWnB2dtDF) | [Myke Grizzly](https://open.spotify.com/artist/3l4XY26vL0FKhljOFmnMny) | [Alone](https://open.spotify.com/album/2JlxnXGkmJU3gVQWylCYWr) | 3:36 |
 | 87 | [Off White](https://open.spotify.com/track/7IMQKLcncSjYiBLR1XmmRP) | [Benny Atlas](https://open.spotify.com/artist/6IXnkjY4xozfLmaA0DxuoS) | [Off White](https://open.spotify.com/album/36WVLiccJpmwSY8x1knuW8) | 2:27 |
 | 88 | [So Good \(feat\. Amanda Perez\)](https://open.spotify.com/track/1ir4IjCxIVjLtMwAMvwIgo) | [Lily Massie](https://open.spotify.com/artist/2kQ4RPZzQ5YVAcWNC162x9), [Amanda Perez](https://open.spotify.com/artist/5DqmNLPM1kAbSBQk2FMm6b) | [So Good \(feat\. Amanda Perez\)](https://open.spotify.com/album/3mrjGItRliuaxgOOXqnBdt) | 3:43 |
 | 89 | [Ordinary Love](https://open.spotify.com/track/27oYvDzSpwNDNojFdUD7LZ) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of) | [Ordinary Love](https://open.spotify.com/album/2R6EzaM8RREXn9jkFK7BEd) | 2:56 |
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 164 | [Temporary Love](https://open.spotify.com/track/5eudX2aAKR0HtvN9I2TJIY) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [LOVE / HATE Pt\. 1](https://open.spotify.com/album/1Fv4ReFcbmh4P1tGe96lvC) | 2:36 |
 | 165 | [Pitaya](https://open.spotify.com/track/0dK7sdfUOkeqHlWOAtjTtf) | [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [Ceeopatra](https://open.spotify.com/artist/02XqprFjC8W9C6ie3v947A) | [Pitaya](https://open.spotify.com/album/2GZbFLOgJWgoUecKVhEIy1) | 2:42 |
 
-Snapshot ID: `MCxhYWQ1MDRlOTkyMTE0ODg1OGI3N2VlOGMzYmM5MzNjMDE4NjMwN2Q3`
+Snapshot ID: `MCw2NmZkNjIxYmUwNzA1ZGY5YWNjYmRjZmVlMzE2ZTUwNDUxZTUxYTZh`

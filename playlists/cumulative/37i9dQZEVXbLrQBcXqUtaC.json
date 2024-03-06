@@ -955,6 +955,24 @@
     },
     {
       "album": {
+        "name": "milestone",
+        "url": "https://open.spotify.com/album/6bB9v7Ac1eK60JcOb5bSVr"
+      },
+      "artists": [
+        {
+          "name": "Brian Struk",
+          "url": "https://open.spotify.com/artist/504sfvDjiIRUAtUuEDVq86"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150285,
+      "name": "AMANOMA",
+      "url": "https://open.spotify.com/track/6OXCh3F2gKkcpVxZA4HxB3"
+    },
+    {
+      "album": {
         "name": "El Madi Intawa",
         "url": "https://open.spotify.com/album/0usdtVrzetohak3ZoWqMTE"
       },
@@ -2854,6 +2872,24 @@
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/1s7oOCT8vauUh01PbJD6ps"
+    },
+    {
+      "album": {
+        "name": "Calma Leticia",
+        "url": "https://open.spotify.com/album/4e31EPVmI0xlHY2EyvzPWP"
+      },
+      "artists": [
+        {
+          "name": "Dr.b",
+          "url": "https://open.spotify.com/artist/5bKM9CNScP9ri6cwJZd6ka"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155263,
+      "name": "Calma Leticia",
+      "url": "https://open.spotify.com/track/4hxSlYbhNx7uj02BsODBtP"
     },
     {
       "album": {
@@ -6916,7 +6952,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 290377,
       "name": "Haram Aliek",
       "url": "https://open.spotify.com/track/0nOYzdwXVX4ATRYVENxOyb"
@@ -8827,6 +8863,32 @@
     },
     {
       "album": {
+        "name": "little falling",
+        "url": "https://open.spotify.com/album/4AYiOpoIgesBgBQ66Zjvpr"
+      },
+      "artists": [
+        {
+          "name": "gentle jupiter",
+          "url": "https://open.spotify.com/artist/40oK63KWBt5Qc5koLF4SU1"
+        },
+        {
+          "name": "Hannah Rose Lewis",
+          "url": "https://open.spotify.com/artist/7vG8jW5Q79d8FgyVzxLth2"
+        },
+        {
+          "name": "Raul Garcia",
+          "url": "https://open.spotify.com/artist/4sbHFfhseugucykmoTPiJ1"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187129,
+      "name": "KTP",
+      "url": "https://open.spotify.com/track/01TMLHykBtLND1dUc8kHPF"
+    },
+    {
+      "album": {
         "name": "KU LO SA - A COLORS SHOW",
         "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
       },
@@ -9016,6 +9078,24 @@
       "duration_ms": 257368,
       "name": "Last One Standing (feat. Polo G, Mozzy & Eminem) - From Venom: Let There Be Carnage",
       "url": "https://open.spotify.com/track/5W8HXMOMLtXLz0RGKUtnlZ"
+    },
+    {
+      "album": {
+        "name": "Lo-Fi Mix",
+        "url": "https://open.spotify.com/album/1zSFwFBgLVZJpLmXiWqB2w"
+      },
+      "artists": [
+        {
+          "name": "Interstellar Horizon",
+          "url": "https://open.spotify.com/artist/350I5kq8mxoNsrJd7mpC2X"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/3c8YuOjJuAmjJAojchZgln"
     },
     {
       "album": {
@@ -10172,7 +10252,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 116104,
       "name": "LOVELY BASTARDS",
       "url": "https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX"
@@ -11114,7 +11194,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 61673,
       "name": "MONTAGEM - PR FUNK",
       "url": "https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf"
@@ -13204,7 +13284,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 212312,
       "name": "Pieces Of My Heart",
       "url": "https://open.spotify.com/track/0gl9nNUhXVagnzIbVHaY1J"
@@ -14063,6 +14143,24 @@
     },
     {
       "album": {
+        "name": "Rich & Boasy",
+        "url": "https://open.spotify.com/album/3ZfY2r0PixYEZsqi8qeHgG"
+      },
+      "artists": [
+        {
+          "name": "Aysah Forever",
+          "url": "https://open.spotify.com/artist/1T7yiPW6PCcmrXVGpyDkHU"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142703,
+      "name": "Rich & Boasy",
+      "url": "https://open.spotify.com/track/2WVHW2kntMtXH2FwZxGqgM"
+    },
+    {
+      "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
@@ -14212,7 +14310,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 132630,
       "name": "Romantic Homicide",
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
@@ -17156,6 +17254,24 @@
       "duration_ms": 160191,
       "name": "telepat\u00eda",
       "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
+    },
+    {
+      "album": {
+        "name": "Television (Live)",
+        "url": "https://open.spotify.com/album/2HY9AKViqioZ4nrvyTVknQ"
+      },
+      "artists": [
+        {
+          "name": "Vicky Fresh",
+          "url": "https://open.spotify.com/artist/1EO1erXmMkmEMH5hAXxjiP"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186854,
+      "name": "Television - Live",
+      "url": "https://open.spotify.com/track/5QSWnr7FiuNnAwnbLazQKj"
     },
     {
       "album": {
@@ -20288,7 +20404,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 262328,
       "name": "\u0627\u0644\u0645\u0647\u0632\u0644\u0629",
       "url": "https://open.spotify.com/track/04VLn8dMpxN8s0UoZCYFoL"

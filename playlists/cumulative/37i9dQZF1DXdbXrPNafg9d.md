@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Abby Sage
 
-6,629 songs - 16 day 3 hr 0 min
+6,631 songs - 16 day 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -526,7 +526,8 @@
 | [Barking Dog](https://open.spotify.com/track/7hx7f6U9ul5JVGiRtGwNVU) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Barking Dog](https://open.spotify.com/album/26t5YekLHHAW56AYr8Ivo4) | 3:07 | 2022-11-11 | 2023-01-06 |
 | [Barricade](https://open.spotify.com/track/0PSj54qCoKwNSHry64RatK) | [Elliot Moss](https://open.spotify.com/artist/2xGCGoulmU85qYdpb2Z4xx) | [Barricade](https://open.spotify.com/album/2F2kpvmhIxbyGlnwDtHGb5) | 3:54 | 2019-10-04 | 2019-11-01 |
 | [Baseball Bat](https://open.spotify.com/track/0dW4ugBEAeoAINC72jZ7q5) | [French Cassettes](https://open.spotify.com/artist/0VcpOwnjkQaqDeEiVa9cu5) | [Baseball Bat](https://open.spotify.com/album/1iqGSVF6kycYHgttIEpDtG) | 3:45 | 2023-11-17 | 2024-01-13 |
-| [Basement](https://open.spotify.com/track/1LGZzWQexuUXz7n3DJTJOl) | [Dogs on Shady Lane](https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO) | [The Knife](https://open.spotify.com/album/29rQiqo1hLh668XBKU80sA) | 3:43 | 2024-02-23 |  |
+| [Basement](https://open.spotify.com/track/1LGZzWQexuUXz7n3DJTJOl) | [Dogs on Shady Lane](https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO) | [The Knife](https://open.spotify.com/album/29rQiqo1hLh668XBKU80sA) | 3:43 | 2024-02-23 | 2024-03-06 |
+| [Basement](https://open.spotify.com/track/1aIQvLvwz35NdFgMpc2nYo) | [Dogs on Shady Lane](https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO) | [The Knife](https://open.spotify.com/album/0gkvOoUvjCFHj6SmhIqT5C) | 3:43 | 2024-02-23 |  |
 | [Bath County](https://open.spotify.com/track/5QLTkqU1vldRB8UmGE85Uq) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bath County](https://open.spotify.com/album/3fZD4inpEA8kSAxyPPZ9lC) | 3:10 | 2023-02-24 | 2023-03-25 |
 | [Bathroom Light](https://open.spotify.com/track/71glNHT4FultOqlau4zrFf) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Bathroom Light](https://open.spotify.com/album/2lwaQXJpfIPNduWAN7w0vu) | 3:08 | 2022-06-03 | 2022-07-16 |
 | [bb put on deftones](https://open.spotify.com/track/2KJAxR3jNdaZcEcLZS9Dgp) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [LOVE + POP](https://open.spotify.com/album/5God4dounbNrQtR8otCSHD) | 2:21 | 2023-08-04 | 2023-09-02 |
@@ -5303,7 +5304,8 @@
 | [Spoiled little brat](https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [fishmonger](https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g) | 3:19 | 2021-03-26 | 2021-05-22 |
 | [Spontaneous](https://open.spotify.com/track/0fSUsxzw5dc607PsSGiHPC) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Spontaneous / Takashi](https://open.spotify.com/album/4SVExpnvY3JkEo3FeEGSMH) | 2:08 | 2019-05-26\* | 2019-06-15 |
 | [Spring Bug](https://open.spotify.com/track/1m9B9sIeBibHosu4h5uae6) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Spring Bug](https://open.spotify.com/album/3KqVVm7Gwy3lbz12qFTf0L) | 3:27 | 2023-06-02 | 2023-07-08 |
-| [Spring Is Coming With A Strawberry In The Mouth](https://open.spotify.com/track/0BpAmsdYjaf08yE9y2YgoF) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You: Everasking Edition](https://open.spotify.com/album/2LytSeOYiM6yUcEArt9hxn) | 3:53 | 2024-02-16 |  |
+| [Spring Is Coming With A Strawberry In The Mouth](https://open.spotify.com/track/0BpAmsdYjaf08yE9y2YgoF) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You: Everasking Edition](https://open.spotify.com/album/2LytSeOYiM6yUcEArt9hxn) | 3:53 | 2024-02-16 | 2024-03-06 |
+| [Spring Is Coming With A Strawberry In The Mouth](https://open.spotify.com/track/0I49aN2b9qfw1UWtctmNtr) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You: Everasking Edition](https://open.spotify.com/album/25ktFe8igqIwv9aRbkdnTS) | 3:53 | 2024-02-16 |  |
 | [Sprinter Van](https://open.spotify.com/track/0pHQLn5ycYxJZRjgrqUyv7) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Sprinter Van](https://open.spotify.com/album/5z3AIOnjlq6a0mP9AkK6J0) | 2:20 | 2021-10-02 | 2021-11-20 |
 | [Sprite](https://open.spotify.com/track/7fL7ZuSeJOSAzWsl9lAhCI) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Green Blue + Indigo Violet](https://open.spotify.com/album/0G2STVHSAHhYIB3LoB9K8N) | 3:10 | 2021-03-14 | 2021-04-24 |
 | [squares](https://open.spotify.com/track/0byJI4UB0ibHxUVz5Fz5Ne) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [squares / y 13](https://open.spotify.com/album/1TszPNUGDtDdfgg1SPDPH6) | 4:27 | 2022-01-14 | 2022-03-12 |

@@ -1,5 +1,5 @@
 {
-  "2024-03-05": 217207,
+  "2024-03-06": 217223,
   "date_first_scraped": "2022-12-28",
   "description": "Un caf\u00e9, un croissant et c\u2018est parti pour une bonne journ\u00e9e.",
   "name": "Caf\u00e9 Croissant",
@@ -1856,6 +1856,24 @@
     },
     {
       "album": {
+        "name": "Nothing to Lose",
+        "url": "https://open.spotify.com/album/3MLs9OSTBURXZ87o8ItJSp"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209680,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/19AMrr1Gef190GG13TjZYh"
+    },
+    {
+      "album": {
         "name": "Letting Go",
         "url": "https://open.spotify.com/album/6dnVKCwrjGIduN61L1uBmL"
       },
@@ -1885,7 +1903,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 209680,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/5PTZ3ef9lHE6YJqxp9nhh9"

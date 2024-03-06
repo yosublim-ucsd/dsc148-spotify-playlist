@@ -4,7 +4,7 @@
 
 > The anti pop archive: tracks added by our editors over the last year\. Cover: Gorillaz
 
-1,610 songs - 3 day 5 hr 32 min
+1,611 songs - 3 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,6 +411,7 @@
 | [Emo Nite Artist Pass \(Day 145\)](https://open.spotify.com/track/4fsWNtEQEo8rZP1lrU2tFJ) | [Max Bennett Kelly](https://open.spotify.com/artist/5DrrFAKP5lAFBaDw9oKZel) | [Junk Male](https://open.spotify.com/album/1BGhZRUESnBVfuDtTHOHET) | 1:56 | 2023-06-23 | 2023-07-22 |
 | [EMPATHY](https://open.spotify.com/track/1DazfftT2hCHbeYJdRw1qo) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF), [Matt Martians](https://open.spotify.com/artist/7ycsWk9ae4pTAlWH8j6Hf9) | [EMPATHY](https://open.spotify.com/album/4lB8S9ktn7fBvfzlyHa1mx) | 1:55 | 2022-07-18 | 2022-08-06 |
 | [endlessly](https://open.spotify.com/track/0hwtCNaxCMWoZZPHjUAETA) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [endlessly](https://open.spotify.com/album/4z80VAzs9sjrrOdH3T2pyK) | 2:05 | 2022-11-18 | 2024-03-02 |
+| [endlessly](https://open.spotify.com/track/3AxPuwVYgZ3EfBsoPQFbh8) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [are you sleeping alone again?](https://open.spotify.com/album/3ZCbPySe4fDzZCfqUqYLUU) | 2:05 | 2024-01-09 |  |
 | [Enemies](https://open.spotify.com/track/2Bimy7oqYf7EdOmkbx9gxU) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [Closure & Campari](https://open.spotify.com/album/2cgw16MK8NwNARtKdCX8TY) | 3:22 | 2021-10-15 | 2022-02-05 |
 | [Enough](https://open.spotify.com/track/7BNvivBdgxjl80EugbEHFA) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [reggie](https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16), [Jay Electronica](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ) | [Enough](https://open.spotify.com/album/3EoAucVdfV60XmjBKbKMCL) | 2:46 | 2023-03-17 | 2023-04-22 |
 | [Entertainment](https://open.spotify.com/track/79MrOt6tKb3kZWIGepEiEs) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Entertainment](https://open.spotify.com/album/6DWYESpPLyWZ83h9DJ2Vva) | 1:53 | 2020-10-13\* | 2021-03-26 |
@@ -710,7 +711,7 @@
 | [IDC](https://open.spotify.com/track/2alQSwrYoIRVZyOTNYIFss) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [IDC](https://open.spotify.com/album/4YrGAvFcjHapeOb6kcyHuz) | 1:52 | 2022-11-30 | 2023-03-02 |
 | [IDC](https://open.spotify.com/track/7dXLivL0wsQhxq9D9eIfDr) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [IDC](https://open.spotify.com/album/6uIzsp3chN2DLPSA6IW0fI) | 1:52 | 2022-10-07 | 2022-12-01 |
 | [IDFIATOK](https://open.spotify.com/track/3UCfeH1mZnwErqWZhiN32y) | [Ameer Vann](https://open.spotify.com/artist/7kIbB1pdDyehFj8aNgfzfH) | [IDFIATOK](https://open.spotify.com/album/7hF7y6TV0pcV70Pn12QndM) | 1:57 | 2021-01-16 | 2021-05-03 |
-| [IdgaF](https://open.spotify.com/track/5uFGqqXqeX2EA8CxTs2DJL) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [IdgaF](https://open.spotify.com/album/7EzgvU0MYQpqS90E97u9rk) | 1:43 | 2023-07-07 |  |
+| [IdgaF](https://open.spotify.com/track/5uFGqqXqeX2EA8CxTs2DJL) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [IdgaF](https://open.spotify.com/album/7EzgvU0MYQpqS90E97u9rk) | 1:43 | 2023-07-07 | 2024-03-06 |
 | [IDK](https://open.spotify.com/track/7n0Cmx3OxHPv1nJkGnk4CH) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [IDK](https://open.spotify.com/album/2Z3QtmTxOQZHtieshSHJAL) | 3:13 | 2021-01-09 | 2021-05-15 |
 | [idk idk wtf](https://open.spotify.com/track/7dUhr4rhm9rBuxuojNwTt5) | [screwyounick](https://open.spotify.com/artist/6uUXtzAE4Rm9nuLTdh9YxK), [kii.](https://open.spotify.com/artist/0YID73jGBDgGtyjwPrGtvm), [JOLLY WRLD](https://open.spotify.com/artist/6iQQaCotqs1waJnO44rGt4) | [idk idk wtf](https://open.spotify.com/album/6SWFGC3QUrzMa9Vom2wbVc) | 2:00 | 2022-06-03 | 2022-08-06 |
 | [IDWK](https://open.spotify.com/track/3awnZSyvKdi7rBLttHk36K) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [IDWK](https://open.spotify.com/album/6s7fnQZkQ6ZqmRxpJ22OjF) | 2:03 | 2021-01-27 | 2022-04-29 |

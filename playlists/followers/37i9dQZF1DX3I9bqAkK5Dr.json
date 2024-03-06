@@ -1,5 +1,5 @@
 {
-  "2024-03-05": 32047,
+  "2024-03-06": 32049,
   "date_first_scraped": "2023-05-19",
   "description": "Check out the emerging independent tracks from these Telugu Artists!! Cover : Sravana Bhargavi",
   "name": "Telugu Indie",
@@ -2071,6 +2071,24 @@
       "duration_ms": 166000,
       "name": "Manasara",
       "url": "https://open.spotify.com/track/2SpDmZ8eBYVgQqS0ZFBz9n"
+    },
+    {
+      "album": {
+        "name": "Manase",
+        "url": "https://open.spotify.com/album/06O7XZkts4Ed81WbuH1SYu"
+      },
+      "artists": [
+        {
+          "name": "Pragathi Kanadamane",
+          "url": "https://open.spotify.com/artist/1hw5AMlFZLM4aLkPl8v7zl"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309217,
+      "name": "Manase",
+      "url": "https://open.spotify.com/track/3uwvZrFaVb96Fd0wjY0S80"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [90s Country](https://open.spotify.com/playlist/37i9dQZF1DWVpjAJGB70vU)
 
-> The country that made country cool\. Cover: Remembering Toby Keith
+> The country that made country cool\. Cover: Alan Jackson
 
 192 songs - 11 hr 10 min
 

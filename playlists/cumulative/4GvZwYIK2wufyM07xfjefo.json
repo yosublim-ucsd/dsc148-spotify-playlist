@@ -154,7 +154,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 211063,
       "name": "fear (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/2c4e06mUPHWTuaM16SbOTo"
@@ -252,6 +252,28 @@
       "duration_ms": 201999,
       "name": "NJ",
       "url": "https://open.spotify.com/track/5yrNyy7pbyUPq0EE6gEPGU"
+    },
+    {
+      "album": {
+        "name": "Orbital Note",
+        "url": "https://open.spotify.com/album/6raacYrepjuXFvarkWTVWk"
+      },
+      "artists": [
+        {
+          "name": "TOXI",
+          "url": "https://open.spotify.com/artist/22qziMv4Qgij4fx00AGGD6"
+        },
+        {
+          "name": "Megurine Luka",
+          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264888,
+      "name": "Orbital Note (feat. \u5de1\u97f3\u30eb\u30ab)",
+      "url": "https://open.spotify.com/track/5M6YfejtttkE6SVg7gucZZ"
     },
     {
       "album": {
@@ -470,10 +492,28 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 229500,
       "name": "\u304f\u3044\u304d\u308b (feat. \u53ef\u4e0d)",
       "url": "https://open.spotify.com/track/3hBma17dyOxsjx2cjM1jRg"
+    },
+    {
+      "album": {
+        "name": "\u3053\u3053\u308d\u753a",
+        "url": "https://open.spotify.com/album/7oLEcweT0ovSJjBU6ASf7M"
+      },
+      "artists": [
+        {
+          "name": "\u307d\u3066",
+          "url": "https://open.spotify.com/artist/3aCTrqguLqycn5cNbnkbdl"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223004,
+      "name": "\u3053\u3053\u308d\u753a",
+      "url": "https://open.spotify.com/track/3AeAlguZHYOXzlHZ2wr3gh"
     },
     {
       "album": {
@@ -590,7 +630,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 345791,
       "name": "\u3075\u308a\u3060\u3057\u306e\u68ee",
       "url": "https://open.spotify.com/track/6AO0ygeOxV267I0H4RFTHg"
@@ -736,7 +776,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 174000,
       "name": "\u30a8\u30b8\u30bd\u30f3 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/0TJJq2XpVEchMD28UKiJI3"
@@ -1155,6 +1195,24 @@
     },
     {
       "album": {
+        "name": "\u5bdd\u9854",
+        "url": "https://open.spotify.com/album/1vK8sTRJTtXUcHXmQHGMY0"
+      },
+      "artists": [
+        {
+          "name": "\u30b8\u30b0",
+          "url": "https://open.spotify.com/artist/4Z7sHZkUEVKoRvDPWPFbKe"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169756,
+      "name": "\u5bdd\u9854",
+      "url": "https://open.spotify.com/track/1b40zl0fa5v0Ey8a9EzwKW"
+    },
+    {
+      "album": {
         "name": "\u6211\u3001\u601d\u3046\u3086\u3048\u306b",
         "url": "https://open.spotify.com/album/1o8d3p93iqW8wqnLq265Nr"
       },
@@ -1271,6 +1329,28 @@
     },
     {
       "album": {
+        "name": "\u732b\u3068\u591c\u884c\u5217\u8eca",
+        "url": "https://open.spotify.com/album/6TVaYaYyR32vtD8nBTEWy6"
+      },
+      "artists": [
+        {
+          "name": "Luna",
+          "url": "https://open.spotify.com/artist/6vOshapva2tWP2e0NCrPE0"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "\u732b\u3068\u591c\u884c\u5217\u8eca (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/7B7zo9xU45kCGhJeCDiXyW"
+    },
+    {
+      "album": {
         "name": "\u798f\u97f3\u306e\u540d\u524d",
         "url": "https://open.spotify.com/album/4wBzdBI6Ksxp2nWvBDFX12"
       },
@@ -1300,7 +1380,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 219893,
       "name": "\u7a7a\u6d1e\u306e\u307e\u307e (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/5XnGiUsDKEnddWupFmlEb8"
@@ -1384,6 +1464,28 @@
       "duration_ms": 158000,
       "name": "\u8d77\u304d\u305f\u308916\u6642 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/2p1egY5ETqCBmi558SQMal"
+    },
+    {
+      "album": {
+        "name": "\u30da\u30c8\u30ea\u30b3\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/6OOV462Jb2VldDDJiqzERy"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u64ab\u5bfa",
+          "url": "https://open.spotify.com/artist/5wvPfEco9mG8kzdMnhL3ct"
+        },
+        {
+          "name": "Megurine Luka",
+          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123250,
+      "name": "\u96e8\u8857\u30af\u30a4\u30f3\u30c6\u30c3\u30c8 (feat. \u5de1\u97f3\u30eb\u30ab)",
+      "url": "https://open.spotify.com/track/2Cas8sGWkovgLlANOCfhsp"
     }
   ],
   "url": "https://open.spotify.com/playlist/4GvZwYIK2wufyM07xfjefo"

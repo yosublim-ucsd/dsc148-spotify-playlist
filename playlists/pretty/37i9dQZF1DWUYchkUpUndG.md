@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp>Mercy Chinwo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,103 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,152 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 99 | [Hallelujah](https://open.spotify.com/track/31rjvTOpXdxHjmQm9BTkr4) | [BUK](https://open.spotify.com/artist/0lNueseF4lJoLU7ZbsQTAj), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB) | [Hallelujah](https://open.spotify.com/album/3DSfV6yHyBEjazixzkaq1X) | 2:19 |
 | 100 | [Nkosi Baba](https://open.spotify.com/track/2qnh5cHl72qvBm4kcMOeHb) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Nkosi Baba](https://open.spotify.com/album/1CvRoxwbkoXi6nAjf7izrE) | 7:30 |
 
-Snapshot ID: `MCw1M2RkNTQwZmI3YmM3MTBmZTM3NGM3MDJhZTQ2MzY0NjcxMjcyNWNi`
+Snapshot ID: `MCw3YjE2YTI3ODVhYzVhYzk3MTQzMWZlMjEyYTlhMGM2ZWE5YmExN2Yx`

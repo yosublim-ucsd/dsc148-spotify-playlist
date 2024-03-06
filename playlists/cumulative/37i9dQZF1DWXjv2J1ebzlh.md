@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,216 songs - 6 day 5 hr 2 min
+2,217 songs - 6 day 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1767,7 +1767,8 @@
 | [Satisfaction](https://open.spotify.com/track/5ykNEVqVaaFLgKb3AsFDpV) | [Carl Dawkins](https://open.spotify.com/artist/3VNBXif3AigGxlbXUTrS72) | [Trojan Presents: Original Reggae](https://open.spotify.com/album/6mHQh1BnJzUtYrt7uBVeC2) | 1:44 | 2022-07-12 | 2022-07-29 |
 | [Satisfaction](https://open.spotify.com/track/20y4i5i8JBwrlre86Om8W9) | [Carl Dawkins](https://open.spotify.com/artist/3VNBXif3AigGxlbXUTrS72) | [Mr Satisfaction \(1966\-1976\)](https://open.spotify.com/album/7Fjj7aplwBum9ytDUuVqdG) | 1:49 | 2022-07-27 |  |
 | [Saudosa Bahia](https://open.spotify.com/track/6gjMiCwAFgTPcHTvPH4VQY) | [Noriel Vilela](https://open.spotify.com/artist/3zPn6Yi7aq3rPsNtS3ckvs) | [Eis O ''ôme''](https://open.spotify.com/album/6ImJ82F2eeLmG0bBILblAi) | 2:46 | 2022-06-09 | 2023-06-21 |
-| [Scorpio Man Theme](https://open.spotify.com/track/2reRESF3aTvOn50f96F5Pq) | [Ernie Hawks](https://open.spotify.com/artist/1lr6B4Xz14xooHsWrAmfDa), [The Soul Investigators](https://open.spotify.com/artist/5CwHjbHcbe0EEOd7aISldo) | [Scorpio Man Theme](https://open.spotify.com/album/3FJv0fryDNDBF4jBO3Os48) | 4:00 | 2022-06-09 |  |
+| [Scorpio Man Theme](https://open.spotify.com/track/2IvoHnQe0C9d0bXdbyKKbc) | [Ernie Hawks](https://open.spotify.com/artist/1lr6B4Xz14xooHsWrAmfDa) | [Scorpio Man](https://open.spotify.com/album/6um8KNovu7dOiNhMYnQhCw) | 3:58 | 2023-11-29 |  |
+| [Scorpio Man Theme](https://open.spotify.com/track/2reRESF3aTvOn50f96F5Pq) | [Ernie Hawks](https://open.spotify.com/artist/1lr6B4Xz14xooHsWrAmfDa), [The Soul Investigators](https://open.spotify.com/artist/5CwHjbHcbe0EEOd7aISldo) | [Scorpio Man Theme](https://open.spotify.com/album/3FJv0fryDNDBF4jBO3Os48) | 4:00 | 2022-06-09 | 2024-03-06 |
 | [Se Na Min](https://open.spotify.com/track/0sOYdnViE5MhuxtqFx9ADF) | [El Rego](https://open.spotify.com/artist/01621nzFzHPae66HU5dTRT) | [African Scream Contest: Raw & Psychedelic Afro Sounds From Benin & Togo '70s \(Analog Africa No\. 3\)](https://open.spotify.com/album/2wW5Xu007zO47SHJMIOUvO) | 3:21 | 2022-07-27 | 2023-04-30 |
 | [Se Na Min](https://open.spotify.com/track/1KosKcMt78N0oU4NnBhLw3) | [El Rego](https://open.spotify.com/artist/01621nzFzHPae66HU5dTRT) | [African Scream Contest \- Raw & Psychedelic Afro Sounds from Benin & Togo 70s \(Analog Africa No\. 3\)](https://open.spotify.com/album/6Kp6iwYaWXA9cTxPGwfZcW) | 3:21 | 2022-06-09 | 2022-07-29 |
 | [Se Na Min](https://open.spotify.com/track/2SMZzlrIkw17qPvvF3P0JJ) | [El Rego](https://open.spotify.com/artist/01621nzFzHPae66HU5dTRT) | [African Scream Contest: Raw & Psychedelic Afro Sounds From Benin & Togo '70s \(Analog Africa No\. 3\)](https://open.spotify.com/album/4iXpJxsgrcCM4m1getyjiX) | 3:21 | 2023-03-17 |  |

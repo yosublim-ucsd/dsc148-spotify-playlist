@@ -1,12 +1,12 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 67169,
+  "num_followers": 67178,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzNlNDliNmZiZGNmMzliN2FmZjZhYTM1NjUxODk3MGVmZDllNjAw",
+  "snapshot_id": "MCxiY2VlMGZmM2IwZTQ5NTdiNzBhMzczZGMyZDFkYWRlOTQzNTk1NzNj",
   "tracks": [
     {
       "added_at": "2024-03-04 02:27:28",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-03-04 02:27:28",
       "album": {
+        "name": "Head, Shoulders, Knees and Toes",
+        "url": "https://open.spotify.com/album/5rE4lfeRFcZTHLKAYFOaPn"
+      },
+      "artists": [
+        {
+          "name": "Martha Blackburn",
+          "url": "https://open.spotify.com/artist/0YHFM04rfc7pNp63NLvswp"
+        }
+      ],
+      "duration_ms": 77672,
+      "name": "Hickory Dickory Dock",
+      "url": "https://open.spotify.com/track/2jDL6ctWUV1WoGC9I2MRNW"
+    },
+    {
+      "added_at": "2024-03-04 02:27:28",
+      "album": {
         "name": "Box Of Photos",
         "url": "https://open.spotify.com/album/7hwYTjbYMoS8QwGVPzesOZ"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 108750,
       "name": "Happy Thoughts",
       "url": "https://open.spotify.com/track/21gT5zrKjqTXo3nvvZW10U"
-    },
-    {
-      "added_at": "2024-03-04 02:27:28",
-      "album": {
-        "name": "Head, Shoulders, Knees and Toes",
-        "url": "https://open.spotify.com/album/5rE4lfeRFcZTHLKAYFOaPn"
-      },
-      "artists": [
-        {
-          "name": "Martha Blackburn",
-          "url": "https://open.spotify.com/artist/0YHFM04rfc7pNp63NLvswp"
-        }
-      ],
-      "duration_ms": 77672,
-      "name": "Hickory Dickory Dock",
-      "url": "https://open.spotify.com/track/2jDL6ctWUV1WoGC9I2MRNW"
     },
     {
       "added_at": "2024-03-04 02:27:28",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-03-04 02:27:28",
       "album": {
-        "name": "They Keep Asking",
-        "url": "https://open.spotify.com/album/6v1pneOr3DwY05Mk90l5v0"
-      },
-      "artists": [
-        {
-          "name": "Gottfried Barber",
-          "url": "https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl"
-        }
-      ],
-      "duration_ms": 151557,
-      "name": "They Keep Asking",
-      "url": "https://open.spotify.com/track/2gY1SFySK9FC7Nq41kBoOd"
-    },
-    {
-      "added_at": "2024-03-04 02:27:28",
-      "album": {
         "name": "I Will Wait",
         "url": "https://open.spotify.com/album/3djy7T65ukIdrFIOxFM1k6"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2024-03-04 02:27:28",
       "album": {
-        "name": "Intervention",
-        "url": "https://open.spotify.com/album/3SUCGEmj4rxH9R103omShr"
+        "name": "They Keep Asking",
+        "url": "https://open.spotify.com/album/6v1pneOr3DwY05Mk90l5v0"
       },
       "artists": [
         {
-          "name": "Helen Jane Long",
-          "url": "https://open.spotify.com/artist/4AChEoOg2kLbShMIN3jgxX"
+          "name": "Gottfried Barber",
+          "url": "https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl"
         }
       ],
-      "duration_ms": 205611,
-      "name": "Willow",
-      "url": "https://open.spotify.com/track/3SYpNSW2sXVghgwW1Ffm6I"
+      "duration_ms": 151557,
+      "name": "They Keep Asking",
+      "url": "https://open.spotify.com/track/2gY1SFySK9FC7Nq41kBoOd"
     },
     {
       "added_at": "2024-03-04 02:27:28",
@@ -695,6 +679,22 @@
       "duration_ms": 185188,
       "name": "White Light",
       "url": "https://open.spotify.com/track/5crvLtcVtQ0OYW3QtGpWcG"
+    },
+    {
+      "added_at": "2024-03-04 02:27:28",
+      "album": {
+        "name": "Intervention",
+        "url": "https://open.spotify.com/album/3SUCGEmj4rxH9R103omShr"
+      },
+      "artists": [
+        {
+          "name": "Helen Jane Long",
+          "url": "https://open.spotify.com/artist/4AChEoOg2kLbShMIN3jgxX"
+        }
+      ],
+      "duration_ms": 205611,
+      "name": "Willow",
+      "url": "https://open.spotify.com/track/3SYpNSW2sXVghgwW1Ffm6I"
     },
     {
       "added_at": "2024-03-04 02:27:28",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-03-04 02:27:28",
       "album": {
-        "name": "Mass",
-        "url": "https://open.spotify.com/album/2LTY4ASorTFysOfV8Nk1c2"
-      },
-      "artists": [
-        {
-          "name": "Zwera",
-          "url": "https://open.spotify.com/artist/3jYcRq1Sqb24bcf0FDGdWn"
-        }
-      ],
-      "duration_ms": 130267,
-      "name": "Mass",
-      "url": "https://open.spotify.com/track/0EyMOXlxP0iH4I9SOAjKtS"
-    },
-    {
-      "added_at": "2024-03-04 02:27:28",
-      "album": {
         "name": "The Music Of The Night",
         "url": "https://open.spotify.com/album/19gJXpMuISfxSL8E95p2bN"
       },
@@ -799,38 +783,6 @@
       "duration_ms": 269000,
       "name": "The Music Of The Night",
       "url": "https://open.spotify.com/track/19SbG4LbAtPp6rrc54ZZVS"
-    },
-    {
-      "added_at": "2024-03-04 02:27:28",
-      "album": {
-        "name": "Little Robin Redbreast",
-        "url": "https://open.spotify.com/album/7KPjCrFrkXEj7QUSbegSso"
-      },
-      "artists": [
-        {
-          "name": "Anne-Lise Kjeldsen",
-          "url": "https://open.spotify.com/artist/5JElWMTCwq3wLF7ISyYVu5"
-        }
-      ],
-      "duration_ms": 67750,
-      "name": "One, Two, Buckle My Shoe",
-      "url": "https://open.spotify.com/track/51LmGNeKKCnfE8dnF5Oiaq"
-    },
-    {
-      "added_at": "2024-03-04 02:27:28",
-      "album": {
-        "name": "You Are Peace",
-        "url": "https://open.spotify.com/album/0sGPgMPvaNuC5SCIL4MFcT"
-      },
-      "artists": [
-        {
-          "name": "Charles Bolt",
-          "url": "https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj"
-        }
-      ],
-      "duration_ms": 204911,
-      "name": "You Are Peace",
-      "url": "https://open.spotify.com/track/5i9EFDkipPL6BwtLJSEDp9"
     },
     {
       "added_at": "2024-03-04 02:27:28",
@@ -851,18 +803,50 @@
     {
       "added_at": "2024-03-04 02:27:28",
       "album": {
-        "name": "Dream Helpers",
-        "url": "https://open.spotify.com/album/06NLTkcv0jd2VU5nJ9BvYx"
+        "name": "You Are Peace",
+        "url": "https://open.spotify.com/album/0sGPgMPvaNuC5SCIL4MFcT"
       },
       "artists": [
         {
-          "name": "Spirits Of Our Dreams",
-          "url": "https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss"
+          "name": "Charles Bolt",
+          "url": "https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj"
         }
       ],
-      "duration_ms": 124864,
-      "name": "Moving Silence",
-      "url": "https://open.spotify.com/track/1hk4wGfZMRqmfUzaPtQQL9"
+      "duration_ms": 204911,
+      "name": "You Are Peace",
+      "url": "https://open.spotify.com/track/5i9EFDkipPL6BwtLJSEDp9"
+    },
+    {
+      "added_at": "2024-03-04 02:27:28",
+      "album": {
+        "name": "Mass",
+        "url": "https://open.spotify.com/album/2LTY4ASorTFysOfV8Nk1c2"
+      },
+      "artists": [
+        {
+          "name": "Zwera",
+          "url": "https://open.spotify.com/artist/3jYcRq1Sqb24bcf0FDGdWn"
+        }
+      ],
+      "duration_ms": 130267,
+      "name": "Mass",
+      "url": "https://open.spotify.com/track/0EyMOXlxP0iH4I9SOAjKtS"
+    },
+    {
+      "added_at": "2024-03-04 02:27:28",
+      "album": {
+        "name": "Little Robin Redbreast",
+        "url": "https://open.spotify.com/album/7KPjCrFrkXEj7QUSbegSso"
+      },
+      "artists": [
+        {
+          "name": "Anne-Lise Kjeldsen",
+          "url": "https://open.spotify.com/artist/5JElWMTCwq3wLF7ISyYVu5"
+        }
+      ],
+      "duration_ms": 67750,
+      "name": "One, Two, Buckle My Shoe",
+      "url": "https://open.spotify.com/track/51LmGNeKKCnfE8dnF5Oiaq"
     },
     {
       "added_at": "2024-03-04 02:27:28",
@@ -895,6 +879,22 @@
       "duration_ms": 220964,
       "name": "Star Eyes",
       "url": "https://open.spotify.com/track/0uY4n9q4ViY6ijBNvzVx1Z"
+    },
+    {
+      "added_at": "2024-03-04 02:27:28",
+      "album": {
+        "name": "Dream Helpers",
+        "url": "https://open.spotify.com/album/06NLTkcv0jd2VU5nJ9BvYx"
+      },
+      "artists": [
+        {
+          "name": "Spirits Of Our Dreams",
+          "url": "https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss"
+        }
+      ],
+      "duration_ms": 124864,
+      "name": "Moving Silence",
+      "url": "https://open.spotify.com/track/1hk4wGfZMRqmfUzaPtQQL9"
     },
     {
       "added_at": "2024-03-04 02:27:28",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-03-04 02:27:28",
       "album": {
-        "name": "When We First Met",
-        "url": "https://open.spotify.com/album/6YgpWDw0IZl2pK5jvTbrQV"
-      },
-      "artists": [
-        {
-          "name": "Ricki Westberg",
-          "url": "https://open.spotify.com/artist/17cS5flbpagsd0kN3lchx4"
-        }
-      ],
-      "duration_ms": 112750,
-      "name": "When We First Met",
-      "url": "https://open.spotify.com/track/0AACyZj1JuHVFtG19P8GTC"
-    },
-    {
-      "added_at": "2024-03-04 02:27:28",
-      "album": {
         "name": "Friendship.",
         "url": "https://open.spotify.com/album/6xSRZ5mSLTX2iWEZAyf6Tj"
       },
@@ -1171,18 +1155,18 @@
     {
       "added_at": "2024-03-04 02:27:28",
       "album": {
-        "name": "Greensleaves",
-        "url": "https://open.spotify.com/album/0E922s2u5gBDUb7YWrfjyJ"
+        "name": "When We First Met",
+        "url": "https://open.spotify.com/album/6YgpWDw0IZl2pK5jvTbrQV"
       },
       "artists": [
         {
-          "name": "Alexander Ardelan",
-          "url": "https://open.spotify.com/artist/3CxoICFGD6Cjj9NU7ewb0R"
+          "name": "Ricki Westberg",
+          "url": "https://open.spotify.com/artist/17cS5flbpagsd0kN3lchx4"
         }
       ],
-      "duration_ms": 107250,
-      "name": "Greensleaves",
-      "url": "https://open.spotify.com/track/30uZQX3jngrbRsI2HeiIYg"
+      "duration_ms": 112750,
+      "name": "When We First Met",
+      "url": "https://open.spotify.com/track/0AACyZj1JuHVFtG19P8GTC"
     },
     {
       "added_at": "2024-03-04 02:27:28",
@@ -1203,6 +1187,22 @@
     {
       "added_at": "2024-03-04 02:27:28",
       "album": {
+        "name": "Greensleaves",
+        "url": "https://open.spotify.com/album/0E922s2u5gBDUb7YWrfjyJ"
+      },
+      "artists": [
+        {
+          "name": "Alexander Ardelan",
+          "url": "https://open.spotify.com/artist/3CxoICFGD6Cjj9NU7ewb0R"
+        }
+      ],
+      "duration_ms": 107250,
+      "name": "Greensleaves",
+      "url": "https://open.spotify.com/track/30uZQX3jngrbRsI2HeiIYg"
+    },
+    {
+      "added_at": "2024-03-04 02:27:28",
+      "album": {
         "name": "I've Grown Accustomed to Her Face",
         "url": "https://open.spotify.com/album/615KqDDPOkcihBWbHqK3MJ"
       },
@@ -1215,22 +1215,6 @@
       "duration_ms": 159107,
       "name": "I've Grown Accustomed to Her Face",
       "url": "https://open.spotify.com/track/4oIs2yMe7K0U49LbHWLvOq"
-    },
-    {
-      "added_at": "2024-03-04 02:27:28",
-      "album": {
-        "name": "Amorous Rebound",
-        "url": "https://open.spotify.com/album/4nXeZ1J8OUhb7vo4fh2zYE"
-      },
-      "artists": [
-        {
-          "name": "Sumsar",
-          "url": "https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW"
-        }
-      ],
-      "duration_ms": 109440,
-      "name": "Amorous Rebound",
-      "url": "https://open.spotify.com/track/0JYn3juUc1lZ4kFeGey1kI"
     },
     {
       "added_at": "2024-03-04 02:27:28",
@@ -1251,18 +1235,34 @@
     {
       "added_at": "2024-03-04 02:27:28",
       "album": {
-        "name": "Magnolia",
-        "url": "https://open.spotify.com/album/7bnt53QjdwPCOI5h84nY2F"
+        "name": "Amorous Rebound",
+        "url": "https://open.spotify.com/album/4nXeZ1J8OUhb7vo4fh2zYE"
       },
       "artists": [
         {
-          "name": "Snow in April",
-          "url": "https://open.spotify.com/artist/2TSiP8ixCub5bSJnkiwcYv"
+          "name": "Sumsar",
+          "url": "https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW"
         }
       ],
-      "duration_ms": 148407,
-      "name": "Magnolia",
-      "url": "https://open.spotify.com/track/3qKSYY6Sds4jltPME6UFMm"
+      "duration_ms": 109440,
+      "name": "Amorous Rebound",
+      "url": "https://open.spotify.com/track/0JYn3juUc1lZ4kFeGey1kI"
+    },
+    {
+      "added_at": "2024-03-04 02:27:28",
+      "album": {
+        "name": "Atlas - Cacciapaglia Collection",
+        "url": "https://open.spotify.com/album/6kBgAkLt5i8vMEK26SP17X"
+      },
+      "artists": [
+        {
+          "name": "Roberto Cacciapaglia",
+          "url": "https://open.spotify.com/artist/359LKbZWLk6u3IpyNE2CQG"
+        }
+      ],
+      "duration_ms": 194413,
+      "name": "Endless Time",
+      "url": "https://open.spotify.com/track/0pkdDoLKIe3a2zdi9MTUMl"
     },
     {
       "added_at": "2024-03-04 02:27:28",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2024-03-04 02:27:28",
       "album": {
-        "name": "Atlas - Cacciapaglia Collection",
-        "url": "https://open.spotify.com/album/6kBgAkLt5i8vMEK26SP17X"
+        "name": "Magnolia",
+        "url": "https://open.spotify.com/album/7bnt53QjdwPCOI5h84nY2F"
       },
       "artists": [
         {
-          "name": "Roberto Cacciapaglia",
-          "url": "https://open.spotify.com/artist/359LKbZWLk6u3IpyNE2CQG"
+          "name": "Snow in April",
+          "url": "https://open.spotify.com/artist/2TSiP8ixCub5bSJnkiwcYv"
         }
       ],
-      "duration_ms": 194413,
-      "name": "Endless Time",
-      "url": "https://open.spotify.com/track/0pkdDoLKIe3a2zdi9MTUMl"
+      "duration_ms": 148407,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/3qKSYY6Sds4jltPME6UFMm"
     },
     {
       "added_at": "2024-03-04 02:27:28",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2024-03-04 02:27:28",
       "album": {
+        "name": "Sagittabondo",
+        "url": "https://open.spotify.com/album/5xA0kiXHUSL1wFWY52fu5O"
+      },
+      "artists": [
+        {
+          "name": "Maura Bellucci",
+          "url": "https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW"
+        }
+      ],
+      "duration_ms": 133500,
+      "name": "Sagittabondo",
+      "url": "https://open.spotify.com/track/6L73Pb4dv5p9OOlY1ja32c"
+    },
+    {
+      "added_at": "2024-03-04 02:27:28",
+      "album": {
         "name": "La Vie",
         "url": "https://open.spotify.com/album/7xmt9O9FKI2sLhQuA3ON2o"
       },
@@ -1447,18 +1463,18 @@
     {
       "added_at": "2024-03-04 02:27:28",
       "album": {
-        "name": "Sagittabondo",
-        "url": "https://open.spotify.com/album/5xA0kiXHUSL1wFWY52fu5O"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4zQTQk0p87RGaRujdSuUPk"
       },
       "artists": [
         {
-          "name": "Maura Bellucci",
-          "url": "https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW"
+          "name": "Joanna Vicente",
+          "url": "https://open.spotify.com/artist/6K04WF6ApF0TeMLB24fkfv"
         }
       ],
-      "duration_ms": 133500,
-      "name": "Sagittabondo",
-      "url": "https://open.spotify.com/track/6L73Pb4dv5p9OOlY1ja32c"
+      "duration_ms": 172522,
+      "name": "Feathers",
+      "url": "https://open.spotify.com/track/2yK3LNJFi8xUn3re8NnhYR"
     },
     {
       "added_at": "2024-03-04 02:27:28",
@@ -1527,18 +1543,34 @@
     {
       "added_at": "2024-03-04 02:27:28",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/4zQTQk0p87RGaRujdSuUPk"
+        "name": "The Ember",
+        "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
       },
       "artists": [
         {
-          "name": "Joanna Vicente",
-          "url": "https://open.spotify.com/artist/6K04WF6ApF0TeMLB24fkfv"
+          "name": "Albie Monroy",
+          "url": "https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT"
         }
       ],
-      "duration_ms": 172522,
-      "name": "Feathers",
-      "url": "https://open.spotify.com/track/2yK3LNJFi8xUn3re8NnhYR"
+      "duration_ms": 198298,
+      "name": "Trail of Light",
+      "url": "https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n"
+    },
+    {
+      "added_at": "2024-03-04 02:27:28",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4MoMbQvHxVBuBz7cr4GFBr"
+      },
+      "artists": [
+        {
+          "name": "Serenity for Sleep",
+          "url": "https://open.spotify.com/artist/5xYUjljXN43W6WPIRmqYsV"
+        }
+      ],
+      "duration_ms": 282824,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5WoomUQepLo07z51lEv8FH"
     },
     {
       "added_at": "2024-03-04 02:27:28",
@@ -1559,22 +1591,6 @@
     {
       "added_at": "2024-03-04 02:27:28",
       "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/2gRUbzO0fVE1cmNLQLTMZr"
-      },
-      "artists": [
-        {
-          "name": "Morten Lidahl",
-          "url": "https://open.spotify.com/artist/1RI9zJgpCO01hSCfh9k7YT"
-        }
-      ],
-      "duration_ms": 131202,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/1CcNphJqbsJSlMLZEldCYU"
-    },
-    {
-      "added_at": "2024-03-04 02:27:28",
-      "album": {
         "name": "Magnificent",
         "url": "https://open.spotify.com/album/3sBAbDkxVcDKACCpFUcgCn"
       },
@@ -1591,50 +1607,34 @@
     {
       "added_at": "2024-03-04 02:27:28",
       "album": {
-        "name": "The Ember",
-        "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/2gRUbzO0fVE1cmNLQLTMZr"
       },
       "artists": [
         {
-          "name": "Albie Monroy",
-          "url": "https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT"
+          "name": "Morten Lidahl",
+          "url": "https://open.spotify.com/artist/1RI9zJgpCO01hSCfh9k7YT"
         }
       ],
-      "duration_ms": 198298,
-      "name": "Trail of Light",
-      "url": "https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n"
-    },
-    {
-      "added_at": "2024-03-04 02:27:28",
-      "album": {
-        "name": "Another Year of Disaster",
-        "url": "https://open.spotify.com/album/58DOLz3FgFoOmZixPc5Ju6"
-      },
-      "artists": [
-        {
-          "name": "Adept",
-          "url": "https://open.spotify.com/artist/1TsgX8DlUvpk9mrUqxmOZu"
-        }
-      ],
-      "duration_ms": 311066,
-      "name": "At Least Give Me My Dreams Back, You Negligent Whore!",
-      "url": "https://open.spotify.com/track/5YiZqG8WWYLjbhL5v9vbWw"
+      "duration_ms": 131202,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/1CcNphJqbsJSlMLZEldCYU"
     },
     {
       "added_at": "2024-03-04 02:27:28",
       "album": {
         "name": "Home",
-        "url": "https://open.spotify.com/album/4MoMbQvHxVBuBz7cr4GFBr"
+        "url": "https://open.spotify.com/album/4zQTQk0p87RGaRujdSuUPk"
       },
       "artists": [
         {
-          "name": "Serenity for Sleep",
-          "url": "https://open.spotify.com/artist/5xYUjljXN43W6WPIRmqYsV"
+          "name": "Joanna Vicente",
+          "url": "https://open.spotify.com/artist/6K04WF6ApF0TeMLB24fkfv"
         }
       ],
-      "duration_ms": 282824,
+      "duration_ms": 107426,
       "name": "Home",
-      "url": "https://open.spotify.com/track/5WoomUQepLo07z51lEv8FH"
+      "url": "https://open.spotify.com/track/2DNrA5s0WrklYU9R8NMuJS"
     }
   ],
   "unique_name": "\u5b89\u5be7\u92fc\u7434\u8072",

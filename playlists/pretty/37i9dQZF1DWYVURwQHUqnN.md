@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo: Gazo x Tiakola
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,077,807 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,078,027 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 25 | [Déter \(feat\. Soolking\)](https://open.spotify.com/track/2ngnc6nlCqgake5RcScDyN) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Déter \(feat\. Soolking\)](https://open.spotify.com/album/37WatFIDAALiCJZDhTQ1VG) | 3:26 |
 | 26 | [Dolce Vita](https://open.spotify.com/track/4LBC4a1BjTY7kLJfWIRlEx) | [Moubarak](https://open.spotify.com/artist/5E62kscxqQ6HRcRRsxm1n1), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [ÉPREUVES](https://open.spotify.com/album/5MmmsnFx91B7lyqQxjLxu9) | 2:50 |
 | 27 | [CALMANT](https://open.spotify.com/track/5aJhbhV4fTcLSkgH8y3aKq) | [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [HEARTBREAK LIFE II](https://open.spotify.com/album/0SonjsOAiaOLaMm9TsdS5o) | 2:29 |
-| 28 | [Corazon](https://open.spotify.com/track/0dvgF40E0vh04R4HgbXmC3) | [Game Over](https://open.spotify.com/artist/5asZFEvwtp6ex6hX9CFp9f), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Game Over 3 \- Terminal 2](https://open.spotify.com/album/3NWk02t9Nau9Vd6dtWRVo7) | 3:08 |
+| 28 | [Corazon](https://open.spotify.com/track/0dvgF40E0vh04R4HgbXmC3) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Game Over 3 \- Terminal 2](https://open.spotify.com/album/3NWk02t9Nau9Vd6dtWRVo7) | 3:08 |
 | 29 | [Vibes](https://open.spotify.com/track/5Ewrq10sWq0WYTSW6Br57l) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [Vibes](https://open.spotify.com/album/6MHJuglMIWFJBIc9J0MWUG) | 2:14 |
 | 30 | [Trop Bizarre](https://open.spotify.com/track/6JnYVpEvdSMKYwLUfoM4v7) | [Kery James](https://open.spotify.com/artist/5ydAcIK2KdpBIbL0yGFJle), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Sadek](https://open.spotify.com/artist/63MCBZRiUdnqRsAOJwijiB), [Kofs](https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw) | [Trop Bizarre](https://open.spotify.com/album/39ZydYNYrTrRoRys0tqMaI) | 4:32 |
 | 31 | [760](https://open.spotify.com/track/2MrFSzJuda5Hwp40iQfcdR) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [760](https://open.spotify.com/album/4434yKaCsQSw2tliaR2PvX) | 3:00 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 39 | [Lancôme \(feat\. ElGrandeToto\)](https://open.spotify.com/track/29ST3UVdjUIYyu5eiRNpZI) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Petite fille](https://open.spotify.com/album/3DfRtkuxvmkj1PLg6ps9Se) | 3:00 |
 | 40 | [HÉLICOPTÈRE \|\| 808CLUB](https://open.spotify.com/track/0k2JJjxaqq1hQDPaiGma2N) | [Shaz](https://open.spotify.com/artist/4SINBSA4jou9ptE88AYQE9), [Alex Grox](https://open.spotify.com/artist/4JVjViXsgKm7GFfPQsNKWO), [Doums](https://open.spotify.com/artist/4yLgYK2B5nZjZMBiaLyLyK) | [HÉLICOPTÈRE \|\| 808CLUB](https://open.spotify.com/album/2qTrrqK1RgB2oV86TxJSwJ) | 2:55 |
 
-Snapshot ID: `MCw2YWZkOTBhZTBkZjQ0ZWYyYTI5NGUxOGZlNDMyMzQ4OGM1ZjExZTdj`
+Snapshot ID: `MCwzZDY4Yjc0ZjU5ZjllYjQ0NTVmYWFjZTMzYjcwZDQzZDRlZDJhM2I3`

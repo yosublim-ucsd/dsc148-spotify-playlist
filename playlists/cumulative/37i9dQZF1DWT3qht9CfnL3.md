@@ -4,7 +4,7 @@
 
 > Canciones de despecho para cantarle a quien te rompió el corazón.
 
-129 songs - 7 hr 19 min
+130 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Bubalu](https://open.spotify.com/track/7dNwJbsT0sg1le5kVugGJb) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Bubalu](https://open.spotify.com/album/6JEvViJkAj8GjJbTeU5I7q) | 3:48 | 2021-12-15 |  |
 | [Buenas](https://open.spotify.com/track/4sDpxaulErbJ9NBaJDC7cJ) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Buenas](https://open.spotify.com/album/2FRQH7JReYGUWXX86Pr6ag) | 3:12 | 2023-09-22 |  |
 | [Carrusel](https://open.spotify.com/track/2RpDqAVH05D4NIM4IuGtkr) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Carrusel](https://open.spotify.com/album/03ZGMticvoqmLHfTJPvuU6) | 2:23 | 2024-03-04 |  |
-| [Colorín Colorado](https://open.spotify.com/track/2YZDh5CecWx0qlFiTvqVQ9) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Misión: AVNGRS](https://open.spotify.com/artist/2Y9sosSJ5PGafYT3yqP1NV) | [La Última Promesa](https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ) | 3:14 | 2021-12-15 |  |
+| [Colorín Colorado](https://open.spotify.com/track/2YZDh5CecWx0qlFiTvqVQ9) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [The Academy: Segunda Misión](https://open.spotify.com/artist/4C3ZmIqca9MWwThLaYbfXu) | [La Última Promesa](https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ) | 3:14 | 2021-12-15 |  |
 | [Como Antes](https://open.spotify.com/track/4xGGG1jWs6x56KZ9A4rS3m) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Como Antes](https://open.spotify.com/album/2QkUssVSrsngGCtJtuGRjy) | 2:48 | 2023-09-08 |  |
 | [Corazón De Papel](https://open.spotify.com/track/0SV8KSbfTfhYp6vCRrF7uE) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk) | [Corazón De Papel](https://open.spotify.com/album/1IRVC1cDRm5if9zYBbRSRu) | 3:03 | 2021-12-15 |  |
 | [CORAZÓN VACÍO](https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [CORAZÓN VACÍO](https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P) | 2:40 | 2023-08-08 |  |
@@ -102,7 +102,8 @@
 | [REPEAT](https://open.spotify.com/track/0TV7rMZ42HNc3xTuMaLC0m) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [TRAPPii](https://open.spotify.com/album/1EcwiKaYxKwOWsnju1rwHT) | 2:30 | 2023-10-27 |  |
 | [Say Goodbye](https://open.spotify.com/track/5F7IJrXD6Fa3EmqoYE0gU4) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Chris Brown \(Expanded Edition\)](https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v) | 4:49 | 2022-06-03 | 2022-06-09 |
 | [Sencilla](https://open.spotify.com/track/2Jtv8ouukqBtC5OB7Eh2Oj) | [Babywine](https://open.spotify.com/artist/5DLfGYyYP6BBL0fbh3GuBG), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [Sencilla](https://open.spotify.com/album/1LFhr8uJbn9T59x5jyyn3p) | 2:35 | 2023-03-03 |  |
-| [Señales](https://open.spotify.com/track/5HWrAkdtHFevtIxMNQuZgw) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Señales](https://open.spotify.com/album/6zgFpxgj0BByvcEw1fJjtm) | 3:20 | 2024-01-20 |  |
+| [Señales](https://open.spotify.com/track/5HWrAkdtHFevtIxMNQuZgw) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Señales](https://open.spotify.com/album/6zgFpxgj0BByvcEw1fJjtm) | 3:20 | 2024-01-20 | 2024-03-06 |
+| [Señales](https://open.spotify.com/track/6DvegFVEmni4OW9uAREVvO) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Millas](https://open.spotify.com/album/7MsDcsYC72Qjv6O5AzqUpf) | 3:20 | 2024-03-04 |  |
 | [Señales](https://open.spotify.com/track/7AHyJpRRigc9TuR1FZBC9l) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Señales](https://open.spotify.com/album/4BBheEnTjbfYg2RCEui3te) | 3:20 | 2023-05-26 | 2024-03-04 |
 | [SHORTY QUE TE VAYA BN <3](https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [SHORTY QUE TE VAYA BN <3](https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs) | 3:39 | 2021-12-15 |  |
 | [Si Te Vas](https://open.spotify.com/track/6Y4PDQv4XjYjHLeLmvyOt0) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Si Te Vas](https://open.spotify.com/album/2S6p0g6YzG3609Ty45i5Cq) | 3:24 | 2021-12-15 |  |

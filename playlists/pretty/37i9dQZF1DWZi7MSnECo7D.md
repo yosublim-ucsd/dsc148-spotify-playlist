@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Carne Doce
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,805 likes - 70 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,813 likes - 70 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 69 | [Sol de Meio Dia](https://open.spotify.com/track/7fz1tHUUg2OVtkLuRXWPry) | [Uyara Torrente](https://open.spotify.com/artist/1N0nFrM7Pjp6Y2X3KYFSi3) | [Montada em Seu Cabelo](https://open.spotify.com/album/7m9fVKmEsp4Q9H6qqjDevz) | 4:08 |
 | 70 | [Saldo](https://open.spotify.com/track/1ysTMVqi4QhWEJxoHrpk6F) | [Wagner Almeida](https://open.spotify.com/artist/7inngR9eagkp6KQVxZdFYR) | [Saldo](https://open.spotify.com/album/6ogDrOyT1nePaKxgdUDB2i) | 3:50 |
 
-Snapshot ID: `MCwyOWZlMDRiMTMxNWE5ZjNhOWIwN2NjYmFhYjAwZTAyNTk1NThkNmJh`
+Snapshot ID: `MCxmNzU1OGZkZmNkNmI0ZjJiZjBlYTc1ZDI1MzA5YjI5NzcxM2Q2OWM4`

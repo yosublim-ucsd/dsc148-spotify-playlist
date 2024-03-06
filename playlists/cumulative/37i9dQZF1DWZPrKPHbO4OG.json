@@ -992,10 +992,36 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 184733,
       "name": "O Sheth (DJ Remix)",
       "url": "https://open.spotify.com/track/5B3IsGRHozEAeRnyGs5XEl"
+    },
+    {
+      "album": {
+        "name": "O Sheth (DJ Remix)",
+        "url": "https://open.spotify.com/album/0AzqFLiFxolHnxCPR54XGT"
+      },
+      "artists": [
+        {
+          "name": "Praniket Khune",
+          "url": "https://open.spotify.com/artist/1dL65B06v62VbbrnJklKUJ"
+        },
+        {
+          "name": "Sandhya Keshe",
+          "url": "https://open.spotify.com/artist/2cQU4jBHWE17V2BLq6Y7Ak"
+        },
+        {
+          "name": "Umesh Gawali",
+          "url": "https://open.spotify.com/artist/00PJ0oZlC5InNHCDRYaubR"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184764,
+      "name": "O Sheth (DJ Remix)",
+      "url": "https://open.spotify.com/track/7ITHuDARXa6FguyC7wexSc"
     },
     {
       "album": {

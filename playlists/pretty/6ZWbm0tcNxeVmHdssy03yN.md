@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 40,269 likes - 91 songs - 4 hr 36 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 40,292 likes - 91 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 19 | [RS \(Kings\)](https://open.spotify.com/track/4FGRT8PmYDZKsv0iXWrFPY) | [Ruff Sqwad](https://open.spotify.com/artist/67POQUr9E4V8GpQxqQ5d8I), [Slix Fleeingham](https://open.spotify.com/artist/5ihBPW23HnFUVWtVji9NMX), [David is a King](https://open.spotify.com/artist/1kC8sur68mdIaGmIsNSkpg), [Prince Rapid](https://open.spotify.com/artist/2TXRnXZhUEEtzHqOkFDGvX) | [Flee FM](https://open.spotify.com/album/00eJkTHCK9cBSHxHzmfp1z) | 2:52 |
 | 20 | [Take It Off](https://open.spotify.com/track/5wZ38qRpGS9eWuFcBmb4O3) | [L\-Vis 1990](https://open.spotify.com/artist/3Av5YRDWBegMumHlMOIa91) | [Take It Off](https://open.spotify.com/album/6yoIker9nl945ueUNVDc4P) | 3:41 |
 | 21 | [Ghetto Champ](https://open.spotify.com/track/1c3TcKT3TD5Ar5Ok4y1IYQ) | [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7), [9MR](https://open.spotify.com/artist/1hBmokyEMieW8SaOVyxp8l) | [Ghetto Champ](https://open.spotify.com/album/2Mky3YvYaxsyXwJSUA0Msw) | 2:00 |
-| 22 | [TINTS \(feat\. Bawo\)](https://open.spotify.com/track/0MAnubeh3iynsMVSeH6YZa) | [Ashbeck](https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9), [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB), [El Londo](https://open.spotify.com/artist/6XO1rl4e9IDahI86s9UJZC) | [TINTS \(feat\. Bawo\)](https://open.spotify.com/album/5zt2vbLuQhmDybntG151Dh) | 2:16 |
+| 22 | [TINTS \(feat\. Bawo\)](https://open.spotify.com/track/0MAnubeh3iynsMVSeH6YZa) | [Ashbeck](https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9), [El Londo](https://open.spotify.com/artist/6XO1rl4e9IDahI86s9UJZC), [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [TINTS \(feat\. Bawo\)](https://open.spotify.com/album/5zt2vbLuQhmDybntG151Dh) | 2:16 |
 | 23 | [My Way \(Come Over\)](https://open.spotify.com/track/1BumTTRy5W6yldlfyjprmD) | [Bea Maher](https://open.spotify.com/artist/4Hln8VI3ChXqUHyHGrLgkf) | [My Way \(Come Over\)](https://open.spotify.com/album/1AOrovhchsd1IOU5EL1jMA) | 3:34 |
 | 24 | [Hit Different \(Fresh Home\)](https://open.spotify.com/track/1zXJVMvzwxHNaBKN9DPhbx) | [18 SAV](https://open.spotify.com/artist/0vyO2Pf8GMtyA4h3Q1kzWz) | [Hit Different \(Fresh Home\)](https://open.spotify.com/album/0ldq0BoPz4mYylpRZqTIOI) | 2:49 |
 | 25 | [GUT](https://open.spotify.com/track/25WihMmI8DKedWQ6e382vW) | [Agung Mango](https://open.spotify.com/artist/1XXBwJeXvPE1PdXWjJLuXf) | [GUT](https://open.spotify.com/album/0FkC1ai7Y5Uk2DovAIQsik) | 3:13 |

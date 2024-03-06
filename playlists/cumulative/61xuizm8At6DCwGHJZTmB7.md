@@ -4,7 +4,7 @@
 
 > Celebrate Easter season with your favoirte worship songs of 2024\. Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>!
 
-403 songs - 1 day 14 hr 54 min
+404 songs - 1 day 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,6 +404,7 @@
 | [Worthy](https://open.spotify.com/track/6Xe3RfCgLzYCtJDft54wFt) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [How To Start A Housefire \(Pt\. III\)](https://open.spotify.com/album/43KFGs97OB7Mgyx0Gbmie8) | 6:55 | 2023-12-01 |  |
 | [Wouldn't It Be Like You \- Live At TRIBL Night](https://open.spotify.com/track/7c16GOtg7mY3WAhKpALIu0) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Wouldn’t It Be Like You \(Live At TRIBL Night\)](https://open.spotify.com/album/7hWops1UXOLyD7zNwKFecI) | 6:44 | 2022-02-17 | 2022-05-21 |
 | [Yahweh \- Live](https://open.spotify.com/track/7H15D8qlDcLdPG4FSFlK46) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Yahweh \(Live\)](https://open.spotify.com/album/4MvAYYyQuarG23wdEeBkYF) | 9:29 | 2022-09-02 | 2023-04-01 |
+| [Yeshua \- Live](https://open.spotify.com/track/4lu2i1XcWo1zze2vealWlB) | [Jesus Image](https://open.spotify.com/artist/47UT3dPXB5ttLBnyM76GQc) | [JESUS \(Live\)](https://open.spotify.com/album/6rbdumL4FK82VrbBPj1jyg) | 11:57 | 2024-03-05 |  |
 | [Yesterday, Today And Forever \- Live From Passion 2022](https://open.spotify.com/track/1C0CeB7C4C2My3FicKyj7z) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Burn Bright](https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX) | 5:40 | 2022-06-24 | 2023-06-24 |
 | [You Know My Name](https://open.spotify.com/track/0Dlm41iXvTsIVsEOce3yX6) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Jimi Cravity](https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 8:00 | 2022-04-05 | 2023-04-15 |
 | [You Remain \- Live](https://open.spotify.com/track/1RjvoksFFtAsqYo2uSHAOy) | [Meredith Mauldin](https://open.spotify.com/artist/4O0BmoWXRlZmal3Y4YrT7y), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Elyssa Smith](https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF) | [The Turning](https://open.spotify.com/album/6E9CCZc8nUZqridnjbTAgR) | 6:08 | 2022-08-29 | 2023-04-01 |

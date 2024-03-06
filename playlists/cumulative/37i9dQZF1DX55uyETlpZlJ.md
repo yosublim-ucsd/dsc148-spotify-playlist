@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover :Rahul Dit\-O
 
-293 songs - 15 hr 51 min
+294 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Chanda](https://open.spotify.com/track/0DVxGoL51eoPgFljBnbJol) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Buck](https://open.spotify.com/artist/77KDxJeNBLxEabflrrZ9DG), [Navya H](https://open.spotify.com/artist/3UUJgNufWYjlKJwDQcoyJU) | [Chanda](https://open.spotify.com/album/509cFj7JnwNgQZhhnjQL1m) | 3:26 | 2023-08-21 | 2024-02-20 |
 | [Chanda](https://open.spotify.com/track/3WBenVVe9S0FkVxApthEnJ) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Buck](https://open.spotify.com/artist/77KDxJeNBLxEabflrrZ9DG), [Navya H](https://open.spotify.com/artist/3UUJgNufWYjlKJwDQcoyJU) | [Chanda](https://open.spotify.com/album/0XpUURR7bNOYU88nkHNKjx) | 3:26 | 2023-08-21 |  |
 | [Chii](https://open.spotify.com/track/2yYr2lCywrNP3y0VjijtTV) | [Shashi Bhat](https://open.spotify.com/artist/6zrtwiBmXEAANnSe1wFYdL), [D Rapper](https://open.spotify.com/artist/1mjEVPmi3GcUKWbd34zx4E) | [Chii](https://open.spotify.com/album/4KyidUqwKaQKzYs1OGVSPJ) | 2:42 | 2023-08-31 |  |
-| [Chikkavanu](https://open.spotify.com/track/1D2LX2HV7AsxiGbecZPSm0) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ) | [Chikkavanu](https://open.spotify.com/album/1k2G5Lz3hUVhCXSlcHKmsh) | 1:10 | 2023-07-27 |  |
+| [Chikkavanu](https://open.spotify.com/track/1D2LX2HV7AsxiGbecZPSm0) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ) | [Chikkavanu](https://open.spotify.com/album/1k2G5Lz3hUVhCXSlcHKmsh) | 1:10 | 2023-07-27 | 2024-03-06 |
 | [Chitte](https://open.spotify.com/track/1iHkAPfRqSMDZsKfyYMWS2) | [John On The Beat](https://open.spotify.com/artist/6LlGGD8vKtcraxhCCPkRaS), [Shastra](https://open.spotify.com/artist/6L0zcPmoJp0r8YIsSYmu34) | [Chitte](https://open.spotify.com/album/1WcuUUmAg61253UiWMITVq) | 2:58 | 2023-02-08 | 2023-09-01 |
 | [Chitte](https://open.spotify.com/track/11D2ENXpVlMasJbwPxcMEJ) | [K P Milan Kumar](https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ) | [Chitte](https://open.spotify.com/album/18K3VnzpV5fSFZhivYSQei) | 3:28 | 2023-05-25 | 2023-06-08 |
 | [Chitte \(Tulu Song\)](https://open.spotify.com/track/2Y2taD5g0t8aXsw7LWA3J7) | [K P Milan Kumar](https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ) | [Chitte \(Tulu Song\)](https://open.spotify.com/album/0regMNfCSK2yR0aqjdvwGQ) | 3:29 | 2023-05-25 | 2023-06-01 |
@@ -226,6 +226,7 @@
 | [Ninna Nodade](https://open.spotify.com/track/31fsnh7dvxBu8UFxKsKeuB) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Asher Mendonca](https://open.spotify.com/artist/7vT1RnB74vnPFxhjnPC4Rr) | [Ninna Nodade](https://open.spotify.com/album/3SBnWJqW6Uao7ANAFeBCDa) | 3:41 | 2023-05-09 | 2024-01-09 |
 | [Ninna Preethi](https://open.spotify.com/track/23SkLenhmQOqaMm1jkFIo3) | [Prasanna Bhojashettar](https://open.spotify.com/artist/6d913SnOMtIZnOxh9IiURJ) | [Ninna Preethi](https://open.spotify.com/album/0V48aBzTDzvRy2WuEcPhll) | 3:58 | 2023-11-06 | 2024-02-17 |
 | [Ninnane Bayaside](https://open.spotify.com/track/2gVeV88YIQzA5zO0rTiyzu) | [Satvik C S](https://open.spotify.com/artist/5nqsLJcHlqXLCvvWjdEIoR) | [Ninnane Bayaside](https://open.spotify.com/album/65X3c2WdqKnrralQy9ccEm) | 2:52 | 2023-03-03 | 2023-12-09 |
+| [Ninnindha shuru](https://open.spotify.com/track/6gTFqOudf70o2LhdhtesT2) | [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N), [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr), [Siddu R Wadeyar](https://open.spotify.com/artist/4vtqdT9JcejRLMiju5YTBu) | [Ninnindha shuru](https://open.spotify.com/album/004SIcTnIEekzQ4rozlWtD) | 4:17 | 2024-03-05 |  |
 | [Ninnolava Kaanuninalli](https://open.spotify.com/track/5W57cmj8AzPqZpOvzO1kBZ) | [Satvik C S](https://open.spotify.com/artist/5nqsLJcHlqXLCvvWjdEIoR) | [Ninnolava Kaanuninalli](https://open.spotify.com/album/6JWKtJQqms2ZFW8qhFaiR5) | 5:05 | 2023-01-05 | 2023-06-08 |
 | [Ninnolavina Aasare](https://open.spotify.com/track/5D1X2g1faG74urU0MI5HFg) | [K P Milan Kumar](https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ) | [Aasare](https://open.spotify.com/album/1G5Pnfrg6iQfxe28J74nN7) | 1:36 | 2023-05-25 | 2023-06-08 |
 | [Ninnolavina Aasare](https://open.spotify.com/track/3x3Esiey1grIJ0edTcpxAh) | [K P Milan Kumar](https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ) | [Ninnolavina Aasare](https://open.spotify.com/album/4ADpZeIj6CBNRZ3jVYLVkd) | 1:36 | 2023-05-25 | 2023-06-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0rsqS3HgjHgpjcvfZX8OmF.md) - [plain]
 
 > The best and latest rock and alternative\. Cover: Kings Of Leon
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 9,890 likes - 80 songs - 4 hr 44 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 9,903 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/0rsqS3HgjHgpjcvfZX8OmF.md) - [plain]
 | 79 | [Over](https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Over](https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE) | 3:37 |
 | 80 | [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 |
 
-Snapshot ID: `NjkwMixkOTYxYzhhMzNjYTY1YzliMjlhNGQ0MzdmMDY5MWUyYzRiZmVmMGM2`
+Snapshot ID: `NjkwMyxiNTQ2ZmI3MDcwYWFkYzVhNDVmMWNmODRjNDVmMzY2ZDg1MDcwMDEx`

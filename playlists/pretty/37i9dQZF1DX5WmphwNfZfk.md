@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: bludnymph
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,992 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,999 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 24 | [Style](https://open.spotify.com/track/0LPGus2Cs9oIDbcAob3GMj) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Style](https://open.spotify.com/album/1fJtEbOyFvVHAo1vuVARRm) | 3:43 |
 | 25 | [Pull Up Riicch Mix \(feat\. Bryson Tiller\)](https://open.spotify.com/track/2FLovmWARz08hNAJ9pV8Zd) | [Riicch](https://open.spotify.com/artist/2CD6U9YiRscScZ5lT7vUFQ), [SHA\-G](https://open.spotify.com/artist/3p4OQzNJ8zLp0vBMS3WDfu), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Pull Up Riicch Mix \(feat\. Bryson Tiller\)](https://open.spotify.com/album/55G2vsc20LUyW6XPe17FIq) | 4:16 |
 | 26 | [What I Like About You](https://open.spotify.com/track/7BQuXsi9qxPrirAnPF2wq4) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8), [Aiza](https://open.spotify.com/artist/33swwbOrC7iMmPF3TXGLNi) | [What I Like About You](https://open.spotify.com/album/5CqT9IRN05wummc3zEqorc) | 3:51 |
-| 27 | [Hanna](https://open.spotify.com/track/0bYmV76zf0g55Fe7oJY2tj) | [Oscar Louis](https://open.spotify.com/artist/3beovFcnzA9hTr18ZxymFK), [Chris Vincent](https://open.spotify.com/artist/2TP5gePc0SBG8sOpRp8ymQ) | [Hanna](https://open.spotify.com/album/2NtzpLJVvO9kTPkmKqyDXo) | 4:06 |
-| 28 | [Wait For Me](https://open.spotify.com/track/34w4MTDsuPBTAT3T3wedUp) | [Joël Lobban](https://open.spotify.com/artist/1aKxOOjrr9tPOCat11beik), [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [I Still Think About You](https://open.spotify.com/album/5OEBc4f8y1em64lH6PAV5y) | 2:24 |
+| 27 | [The Pure](https://open.spotify.com/track/6ZkH2U1dkFSLaQFBgTEfrn) | [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW), [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K), [Dano](https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0) | [The Pure](https://open.spotify.com/album/3BiY0c1t8TMJaWJ1OCa07o) | 3:41 |
+| 28 | [Hanna](https://open.spotify.com/track/0bYmV76zf0g55Fe7oJY2tj) | [Oscar Louis](https://open.spotify.com/artist/3beovFcnzA9hTr18ZxymFK), [Chris Vincent](https://open.spotify.com/artist/2TP5gePc0SBG8sOpRp8ymQ) | [Hanna](https://open.spotify.com/album/2NtzpLJVvO9kTPkmKqyDXo) | 4:06 |
 | 29 | [Jeje](https://open.spotify.com/track/3J6yVWwtgHvYazpP0E8evl) | [OCHÉ](https://open.spotify.com/artist/0syn1OL9u8k1x9gEnNLt6X) | [Jeje](https://open.spotify.com/album/3kOBu4Rnj58f6W3LvwvFYD) | 2:49 |
 | 30 | [Wear You Out](https://open.spotify.com/track/0tGi0kOdc5GlsKBg4b0tkQ) | [Jane Penny](https://open.spotify.com/artist/3LgeMxdrjCnZIHB8VoFhcd) | [Wear You Out](https://open.spotify.com/album/2hbpz06Bgw4SONqk2MSqJ6) | 3:31 |
 | 31 | [Motif.](https://open.spotify.com/track/4r5KKGyDmGEwWw6bqVNV3K) | [Lex Leosis](https://open.spotify.com/artist/3l5iTPvfsSfyeaurhaAeh6) | [Motif.](https://open.spotify.com/album/2yZA56Y9Ic8griPwQ7Q74H) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [Pigeons](https://open.spotify.com/track/1M75A3TMxBDylvdDaVcOxB) | [TAAYLEE G](https://open.spotify.com/artist/3UL3HL2fv69tDavqXTwDhM) | [Pigeons](https://open.spotify.com/album/49iqGoYEjX33snub1aSOEr) | 1:52 |
 | 50 | [Madone](https://open.spotify.com/track/3FqxuAQ0rNFjMyOehcyvz8) | [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [Madone](https://open.spotify.com/album/4mkI10pJ3T1dj3hsw4T1WO) | 2:55 |
 
-Snapshot ID: `MCw1N2FhMTBhMmYwMGUzYjQ3MmVlMjU5MzcxZjZjMmZhNWU1ZTQzYzFk`
+Snapshot ID: `MCwyMDgzNjZjNzNhYmYxNmI2ZDQzYmFiNDZlNWIyOGUzMDAxMjRkNTQ4`

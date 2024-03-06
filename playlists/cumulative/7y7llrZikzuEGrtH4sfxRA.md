@@ -200,7 +200,7 @@
 | [You Don't Know \(feat\. PVC\)](https://open.spotify.com/track/17f8MQbbICShN6ChgIbmwb) | [Double Agent](https://open.spotify.com/artist/4BwhvsUVmhKmN2VuD8sUMM), [PVC](https://open.spotify.com/artist/2MhBByeZkfHW85qngIOjrK) | [You Don't Know \(feat\. PVC\)](https://open.spotify.com/album/5GoSswuHq1gZm8EvClZgrz) | 3:15 | 2024-01-26 | 2024-02-03 |
 | [You Know It](https://open.spotify.com/track/64Kw68jjKqqYK5hQrCkrVT) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [You Know It](https://open.spotify.com/album/1pQyujwr8WMM8nXV21a5tY) | 3:55 | 2024-03-01 |  |
 | [You Make Me](https://open.spotify.com/track/5VmYFi3GhfCbNY2kfR9VPL) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a) | [You Make Me](https://open.spotify.com/album/1QqaEIieI5lIpor6Qt9twT) | 4:06 | 2024-03-01 |  |
-| [You Sure Do](https://open.spotify.com/track/6yv2lb71Wl5F017L1T41V0) | [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [You Sure Do](https://open.spotify.com/album/50gTjS3P6RMiJ7pERaAEIF) | 3:10 | 2024-03-01 |  |
 | [You're Not Alone](https://open.spotify.com/track/0WTtGE4UaKUDpAE4aouoa8) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [You're Not Alone](https://open.spotify.com/album/2lhXVnPLcvmPhexeNmV37m) | 3:34 | 2024-03-01 |  |
+| [YSD](https://open.spotify.com/track/6yv2lb71Wl5F017L1T41V0) | [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [YSD](https://open.spotify.com/album/50gTjS3P6RMiJ7pERaAEIF) | 3:10 | 2024-03-01 |  |
 
 \*This playlist was first scraped on 2024-01-03. Prior content cannot be recovered.

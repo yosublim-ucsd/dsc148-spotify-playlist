@@ -4,7 +4,7 @@
 
 > ¡Esto es punta!
 
-89 songs - 6 hr 18 min
+90 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Biamaangui](https://open.spotify.com/track/1VzspFOoNXhEEzMqgCNQf9) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Puro Exitos](https://open.spotify.com/album/42LKEb3ZUrsCTXtSvVX8W7) | 3:52 | 2020-05-26 | 2022-07-28 |
 | [Biamaangui](https://open.spotify.com/track/0oX5Mhx73vG5xpK0pcl23t) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Puros Éxitos](https://open.spotify.com/album/7iI8ptAWVpe9WWhoIlHOZ7) | 3:53 | 2020-05-26 | 2022-11-13 |
 | [Bunabou Live \- Live](https://open.spotify.com/track/3bk84Tl2e3UHheILeVkqIF) | [Xcstacy](https://open.spotify.com/artist/7ACGfyzJQTp8Lehdcy8tZi) | [Bunabou Live](https://open.spotify.com/album/6ONVn4d2fJceFUoWzv0LEc) | 7:29 | 2020-05-26 |  |
+| [Carolina](https://open.spotify.com/track/4s0YHx04Ih3oEDLVzljcuX) | [Supa G](https://open.spotify.com/artist/4lJKjqL2fCL4yfNyKhm1sB) | [Punta Vibe](https://open.spotify.com/album/2gYb4m2xi4bgUqHvvpgjU9) | 3:11 | 2020-05-26 |  |
 | [Carolina](https://open.spotify.com/track/3EpsFoq6ZFEQREYblovfHZ) | [Supa G](https://open.spotify.com/artist/4lJKjqL2fCL4yfNyKhm1sB) | [Punta Vibe](https://open.spotify.com/album/3IJe0vVXjgILY9PMAhrN5f) | 3:13 | 2020-05-26 | 2024-02-17 |
 | [Carolina \(Club Mix\)](https://open.spotify.com/track/44vM0hGs6C6GMvoFrAJpGH) | [Supa G](https://open.spotify.com/artist/4lJKjqL2fCL4yfNyKhm1sB) | [Punta Gold, Vol\. 1](https://open.spotify.com/album/6kN8KMWQJRLCKJtV06Rkdk) | 3:13 | 2020-05-26 | 2022-07-29 |
 | [Cartel Mix](https://open.spotify.com/track/6Nz76UrhYm9Pr2JTpkKDGP) | [Punta Cartel](https://open.spotify.com/artist/0WJay6Qc1qWjeppQf2TvyM) | [Mete y Saca](https://open.spotify.com/album/6LZYFwkUpoUd2UiMnsnIeV) | 6:13 | 2020-05-26 | 2024-02-25 |
@@ -53,7 +54,7 @@
 | [Laluda Bellu](https://open.spotify.com/track/2ai1tq6mhy5txOwlEoZeX6) | [Las Chicas Roland's](https://open.spotify.com/artist/2oLp10TY7Q546LJxtsc2cl) | [Sabor Catracho!, Vol\. 3](https://open.spotify.com/album/5dhtHl14R6ZTQwdEsrH0HT) | 3:33 | 2020-05-26 |  |
 | [Laluda Belly](https://open.spotify.com/track/2cqDTVnHeHN3DTIVdzwOex) | [Las Chicas Rolands](https://open.spotify.com/artist/3EvFD7zFZPxbFpwmhSUrYz) | [Puro Exitos: Las Chicas Rolands](https://open.spotify.com/album/4T4kwbbas6ZdwBYUCVPfeY) | 3:33 | 2020-05-26 | 2022-07-27 |
 | [Laluda Belly](https://open.spotify.com/track/3IpmaBjOYg4SRJHS7HXnSa) | [Las Chicas Rolands](https://open.spotify.com/artist/3EvFD7zFZPxbFpwmhSUrYz) | [Puro Éxitos: Las Chicas Rolands](https://open.spotify.com/album/6Y2FqU0PxqvjQkYeACquud) | 3:33 | 2020-05-26 | 2023-02-12 |
-| [Lemonade](https://open.spotify.com/track/3LbCsrnMpVIXxpLE87LVz4) | [Monk!](https://open.spotify.com/artist/51qXkPsS846b0NBGpA8xIo) | [\#SinNombre](https://open.spotify.com/album/22d3Myqd47RVnNcuVUhZKE) | 5:38 | 2020-05-26 |  |
+| [Lemonade](https://open.spotify.com/track/3LbCsrnMpVIXxpLE87LVz4) | [Monk!](https://open.spotify.com/artist/51qXkPsS846b0NBGpA8xIo) | [\#SinNombre](https://open.spotify.com/album/22d3Myqd47RVnNcuVUhZKE) | 5:38 | 2020-05-26 | 2024-03-06 |
 | [Mandele Gas](https://open.spotify.com/track/2ubBnAtgJf5aQrYt93AvV2) | [La Gran Banda](https://open.spotify.com/artist/7bUAuQ2SZDbUbRgEPPeBBo) | [Batalla de las Puntas, Vol\. 6](https://open.spotify.com/album/5I7ThyvKHMomwWQzOog5pr) | 3:47 | 2020-05-26 |  |
 | [Mandele Gas](https://open.spotify.com/track/75XWB4hpjYqw7beNddHhhe) | [La Gran Banda](https://open.spotify.com/artist/7bUAuQ2SZDbUbRgEPPeBBo) | [Batalla de las Puntas, Vol\. 6](https://open.spotify.com/album/5zKgSHI93j3BpGncORJ87T) | 3:47 | 2020-05-26 | 2023-06-12 |
 | [Mete y Saca](https://open.spotify.com/track/5VLpKWHfSig8NU1mdsr5Re) | [Punta Cartel](https://open.spotify.com/artist/0WJay6Qc1qWjeppQf2TvyM) | [Mete y Saca](https://open.spotify.com/album/6LZYFwkUpoUd2UiMnsnIeV) | 5:25 | 2020-05-26 | 2024-02-27 |

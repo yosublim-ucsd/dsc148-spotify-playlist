@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > rock at its loudest\. turn it up ⬆️ Cover: Papa Roach
 
-[Spotify](https://open.spotify.com/user/spotify) - 931,597 likes - 77 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 931,720 likes - 77 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 58 | [Seeing Red](https://open.spotify.com/track/5EauhH7IW4eDo0SPnP6rIY) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Seeing Red](https://open.spotify.com/album/5BQFBKccFAr4RcHLXZrPXe) | 3:39 |
 | 59 | [Fake Ass Friends](https://open.spotify.com/track/5t3X72EbaFti38zPMlqeTC) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Fake Ass Friends](https://open.spotify.com/album/7H7jMWjWlDy75T59WbWYsv) | 2:18 |
 | 60 | [Anxiety](https://open.spotify.com/track/09oM7MKKiUMlfmm55WILWN) | [Letdown.](https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1) | [Anxiety / Making Miseries](https://open.spotify.com/album/6V1fBbeKJwhXCEKRrFNlZD) | 2:55 |
-| 61 | [Frozen](https://open.spotify.com/track/2pHHaS46BXLP1fkKIdEdj4) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7) | [Frozen](https://open.spotify.com/album/0bOx4gvchCizrgxkIVGtkp) | 3:33 |
+| 61 | [Frozen](https://open.spotify.com/track/60No1rVevpihXdUMgUoIf4) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7) | [Frozen](https://open.spotify.com/album/0zQjbQzIHwlbzM4FaNAmQA) | 3:33 |
 | 62 | [Dead To Me](https://open.spotify.com/track/5BxC04q61icn0SHinQCBeR) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Dead To Me](https://open.spotify.com/album/3wwd2L3ATRhjkbmnGUhsJG) | 3:49 |
 | 63 | [BLACKOUT](https://open.spotify.com/track/0Lh0BSj5q1vsUgY2OmvOA5) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [BLACKOUT](https://open.spotify.com/album/2FueP1I7o4d562JTJ8wHAy) | 2:28 |
 | 64 | [Make It Out Alive](https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Make It Out Alive](https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo) | 3:29 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 76 | [10,000 Volts](https://open.spotify.com/track/4eJdMXViYA7SYKD499AvNF) | [Ace Frehley](https://open.spotify.com/artist/62olK5zZHSgFUXGDykgBL8) | [10,000 Volts](https://open.spotify.com/album/56EuOSiYmNoJH22peRBwdf) | 3:24 |
 | 77 | [I Still Believe](https://open.spotify.com/track/1atc0z1xkg02bSjkfkpOUv) | [New Years Day](https://open.spotify.com/artist/7IEyUxk8jyEVz9Zm9H8bfg) | [I Still Believe](https://open.spotify.com/album/5yK0LHapGQcaUFeyKkjfZG) | 2:54 |
 
-Snapshot ID: `MCxjNzI1NjkxYmU5NTIwMDUzNWY0NjViZjE5NTFiYzU3YzE3ZDE1Y2Qy`
+Snapshot ID: `MCwxM2FkMDk1Y2MyZDdmNTc4NGNlNTZiNzQzNDMxMjI1ODc5M2VlYjBk`

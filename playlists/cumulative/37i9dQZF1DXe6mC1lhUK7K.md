@@ -4,7 +4,7 @@
 
 > she's ready for her sequel\. cover: sidney prescott 😱👑
 
-94 songs - 5 hr 21 min
+95 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Kill Me](https://open.spotify.com/track/3tPo4KskHgUvu4OKCXAkhC) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Kill Me](https://open.spotify.com/album/3kmNYIfWTasgAPLrAY3YBM) | 3:47 | 2023-10-13 |  |
 | [Kill My Boyfriend](https://open.spotify.com/track/20jEZQajiBKZBCte0aVoV3) | [Natalia Kills](https://open.spotify.com/artist/6wdvERzX4CUCOXu6hSS95x) | [Perfectionist \(Deluxe Version\)](https://open.spotify.com/album/0NyW9P0v03NRw7UsWErMaP) | 3:31 | 2023-10-13 |  |
 | [Kill V\. Maim](https://open.spotify.com/track/3WXhshrs1fzwF3rQE399Gq) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Art Angels](https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3) | 4:06 | 2023-10-13 |  |
-| [Knife Under My Pillow](https://open.spotify.com/track/18IzbU4Iy1ktWsOZOJDiD1) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [PARANOIA](https://open.spotify.com/album/5CEcwEyL9wMG4TygYNTFgw) | 2:02 | 2023-10-13 |  |
+| [Knife Under My Pillow](https://open.spotify.com/track/18IzbU4Iy1ktWsOZOJDiD1) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [PARANOIA](https://open.spotify.com/album/5CEcwEyL9wMG4TygYNTFgw) | 2:02 | 2023-10-13 | 2024-03-06 |
+| [Knife Under My Pillow](https://open.spotify.com/track/3sFW3Wru7nPZkhf4BDTXUf) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [PARANOIA](https://open.spotify.com/album/6af3Z9vEogmAowqE0JOIFj) | 2:02 | 2023-10-13 |  |
 | [Last Laugh \- From "Promising Young Woman" Soundtrack](https://open.spotify.com/track/3DfTZtNNSDBV10YMu9JFWF) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Promising Young Woman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/58gdv0EuhcZ2auHfEBm4mL) | 2:42 | 2023-10-13 |  |
 | [Love Me Tender](https://open.spotify.com/track/2sOtfGJux5ImeY2bPcQgsq) | [Stereo Jane](https://open.spotify.com/artist/2rJ1AerBug0HNEj8gIHazF) | [Ready or Not \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0r4ZucM9Z61330f9tzT57S) | 2:12 | 2023-10-13 |  |
 | [Maneater](https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [H2O](https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB) | 4:33 | 2023-10-13 |  |

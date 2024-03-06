@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of the EXchange series\. \(환승연애 시리즈 사운드 트랙들을 즐겨보세요!\)
 
-53 songs - 2 hr 39 min
+55 songs - 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,8 @@
 | [In My Spot \- Instrumental](https://open.spotify.com/track/3cvEUunNfEUmp0nMR5GH50) | [김예준](https://open.spotify.com/artist/0RNgISHByvz4Dn6g25BcT3) | [EXchange2, Pt\. 3 'Conflict' \(Original Television Soundtrack\)](https://open.spotify.com/album/1Nx0YKjrs8B2S0jK3KFISF) | 2:53 | 2024-01-12 |  |
 | [Last minute](https://open.spotify.com/track/7lNskvQuQ4fxtXpAa3I7nt) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [EXchange3, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/3IhnwWehcwHwLKfP2vgVYn) | 3:34 | 2024-01-26 |  |
 | [Last minute \- Instrumental](https://open.spotify.com/track/6sPhFieJhkmMJRUg9SYSa4) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [EXchange3, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/3IhnwWehcwHwLKfP2vgVYn) | 3:34 | 2024-01-26 |  |
+| [Let the star shine us again](https://open.spotify.com/track/3FrggknqN4dJmFRWVJznO0) | [Lim Seul Ong](https://open.spotify.com/artist/0lfuVlyKgbJIpdDXEfGRiR), [LEE SUNG KYOUNG](https://open.spotify.com/artist/7mZpOLn7va0Muu20bI8bsP) | [EXchange3, Pt\. 7 \(Original Soundtrack\)](https://open.spotify.com/album/01ljW2Ikjk4nwnBOdfVD0Y) | 3:43 | 2024-03-05 |  |
+| [Let the star shine us again \- Instrumental](https://open.spotify.com/track/6NJvHTCZZB97wmVPXD3X7N) | [Lim Seul Ong](https://open.spotify.com/artist/0lfuVlyKgbJIpdDXEfGRiR), [LEE SUNG KYOUNG](https://open.spotify.com/artist/7mZpOLn7va0Muu20bI8bsP) | [EXchange3, Pt\. 7 \(Original Soundtrack\)](https://open.spotify.com/album/01ljW2Ikjk4nwnBOdfVD0Y) | 3:43 | 2024-03-05 |  |
 | [Love remnants](https://open.spotify.com/track/6Z8HhBie79IA6BEhwf7PwZ) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [EXchange3, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/5Yu6AvluH9IUEtpsn3g78K) | 4:01 | 2024-01-12 |  |
 | [Love remnants \- Instrumental](https://open.spotify.com/track/1d9JGDX84lUtWBmZAthyp2) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [EXchange3, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/5Yu6AvluH9IUEtpsn3g78K) | 4:01 | 2024-01-12 |  |
 | [Message from Choi Yuree](https://open.spotify.com/track/32oEsMgOZpKcQplQA73IW5) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [EXchange3 Audio Liner](https://open.spotify.com/album/5SBrbDH8wP6zdb0gFys0ZI) | 0:10 | 2024-01-29 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,450 likes - 1,191 songs - 3 day 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,469 likes - 1,191 songs - 3 day 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1034,7 +1034,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1024 | [Chorou, Chorou](https://open.spotify.com/track/2anRLubLcp5PZoIGP0VHf9) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [Quem É Quem](https://open.spotify.com/album/6GEO5pSp3ojwIm9vZqTtRd) | 2:40 |
 | 1025 | [Tamanco No Samba](https://open.spotify.com/track/6VxFiOtjHLDiXpLMZD7vc6) | [Orlandivo](https://open.spotify.com/artist/2vFK2xckKvQQfitvHxRvk0) | [Orlandivo](https://open.spotify.com/album/44dMqEMPnQsjirLsPHaNeq) | 3:36 |
 | 1026 | [Cumbia De Sal](https://open.spotify.com/track/0ite6lUisltJPhlEMDxlNM) | [Los Falcons](https://open.spotify.com/artist/2UODcsr0CoKJoDK8yNJm5V) | [Colombia Tropical](https://open.spotify.com/album/7dYIeMiI7fzSt3TaCB9NAC) | 3:18 |
-| 1027 | [Scorpio Man Theme](https://open.spotify.com/track/2reRESF3aTvOn50f96F5Pq) | [Ernie Hawks](https://open.spotify.com/artist/1lr6B4Xz14xooHsWrAmfDa), [The Soul Investigators](https://open.spotify.com/artist/5CwHjbHcbe0EEOd7aISldo) | [Scorpio Man Theme](https://open.spotify.com/album/3FJv0fryDNDBF4jBO3Os48) | 4:00 |
+| 1027 | [Scorpio Man Theme](https://open.spotify.com/track/2IvoHnQe0C9d0bXdbyKKbc) | [Ernie Hawks](https://open.spotify.com/artist/1lr6B4Xz14xooHsWrAmfDa) | [Scorpio Man](https://open.spotify.com/album/6um8KNovu7dOiNhMYnQhCw) | 3:58 |
 | 1028 | [Badi Sabah Olmadan](https://open.spotify.com/track/69HsibWosA5K8UhyhPZ92t) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Aşk](https://open.spotify.com/album/3o9VCOZFC4DLp4hvyS1zd8) | 4:43 |
 | 1029 | [Canto de Ossanha](https://open.spotify.com/track/1ZHfMFfKdpFmAIAXIWK9LH) | [Baden Powell](https://open.spotify.com/artist/0VSgciOd32tP2Yna1w4vDr), [Quarteto Em Cy](https://open.spotify.com/artist/177N2fB1WvNBCQ4epjMQ3O) | [Os Afro\-Sambas](https://open.spotify.com/album/4zyGU4SFL8DEE9Ee9yAjnk) | 4:15 |
 | 1030 | [Tunan](https://open.spotify.com/track/1s0O1tVHd0a45Dh3HUcKt5) | [Mamman Sani](https://open.spotify.com/artist/3AWprtbEToKCq6Xzz0tTX4) | [La Musique Électronique Du Niger](https://open.spotify.com/album/7lX4X9w9jFebOFC9gawdCD) | 3:21 |
@@ -1200,4 +1200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1190 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1191 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCw3OGJlM2JlZTU0MjUzNjVlMzI1ZDg4YzFmNTZiM2Q3MzU1YTU4MzU1`
+Snapshot ID: `MCw2OWM0ZGY5MGYzMWEwNDFhZmQzZDAzZDVjZjFlNDIwMTcwY2Q3NzQz`

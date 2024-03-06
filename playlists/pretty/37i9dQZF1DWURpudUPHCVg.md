@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURpudUPHCVg.md) - [plain]
 
 > Escucha a estos creadores, seleccionados por nuestro equipo editorial de podcasts.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 150 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MCxmMjQ4YmI3NDIzOWExOTYzZTkyN2I0NTA3YjRiNzlhM2EwYTNlNzY4`
+Snapshot ID: `MCw5OTNmYjk0ZTljY2RkYTJmNjk4NzJmMjdhMjY3N2JmM2JjYjllNGRj`

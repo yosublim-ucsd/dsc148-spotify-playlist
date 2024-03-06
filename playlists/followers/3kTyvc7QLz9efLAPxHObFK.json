@@ -1,5 +1,5 @@
 {
-  "2024-03-05": 17,
+  "2024-03-06": 17,
   "date_first_scraped": "2023-10-10",
   "description": "",
   "name": "UK Hardcore/Hardstyle/Hardcore/J-Core/Frenchcore/Hard Dance",
@@ -20125,6 +20125,24 @@
       "duration_ms": 265600,
       "name": "The Edge - Extended Mix",
       "url": "https://open.spotify.com/track/5F9oD4zOPEIp3FMvGU3g4E"
+    },
+    {
+      "album": {
+        "name": "The Energy",
+        "url": "https://open.spotify.com/album/0sPh3CchjdSmNssPi4qVUy"
+      },
+      "artists": [
+        {
+          "name": "Unlocked",
+          "url": "https://open.spotify.com/artist/1MpKBwjaYMkO0iNWcEsRmj"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141177,
+      "name": "The Energy",
+      "url": "https://open.spotify.com/track/6KQyU88XaFtoKFlmM4TnM6"
     },
     {
       "album": {

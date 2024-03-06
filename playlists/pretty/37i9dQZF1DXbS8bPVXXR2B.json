@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 228343,
+  "num_followers": 228395,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzY4ZDcwZGQ0ZTFmOWI5M2JlMTFmZjZiNmI4MDAzMGY5OTRhNTkw",
+  "snapshot_id": "MCw0MzNhMGVkMGNiYTNhODEwNjQzMDgyMmIxYTI5Mzc4MzUwZDljY2Uy",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Marcos Valle",
-        "url": "https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe"
-      },
-      "artists": [
-        {
-          "name": "Marcos Valle",
-          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
-        }
-      ],
-      "duration_ms": 313493,
-      "name": "Estrelar",
-      "url": "https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "In the Heat of the Night",
         "url": "https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 387866,
       "name": "Just an Illusion",
       "url": "https://open.spotify.com/track/4QT3YKobBj4BI7xCYRLr9u"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Marcos Valle",
+        "url": "https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe"
+      },
+      "artists": [
+        {
+          "name": "Marcos Valle",
+          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
+        }
+      ],
+      "duration_ms": 313493,
+      "name": "Estrelar",
+      "url": "https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "The Best of Delegation",
-        "url": "https://open.spotify.com/album/1um0JgV0FOnEg3UA0IF2hc"
-      },
-      "artists": [
-        {
-          "name": "Delegation",
-          "url": "https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf"
-        }
-      ],
-      "duration_ms": 316266,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/1uGFGhxJ9ISGcy7iDffP7V"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Promised Land",
         "url": "https://open.spotify.com/album/1oyrymxXmhE2NaYczhS6NR"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 331706,
       "name": "Promised Land",
       "url": "https://open.spotify.com/track/796T2ROxTNibXRjVhjSzCa"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "The Best of Delegation",
+        "url": "https://open.spotify.com/album/1um0JgV0FOnEg3UA0IF2hc"
+      },
+      "artists": [
+        {
+          "name": "Delegation",
+          "url": "https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf"
+        }
+      ],
+      "duration_ms": 316266,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/1uGFGhxJ9ISGcy7iDffP7V"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -523,6 +523,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Sa\u00e2da Bonaire",
+        "url": "https://open.spotify.com/album/0POnlLnYjmV7QIGKgmx1W8"
+      },
+      "artists": [
+        {
+          "name": "Sa\u00e2da Bonaire",
+          "url": "https://open.spotify.com/artist/7y1XjJQEGtFmh1MNyWU6cg"
+        }
+      ],
+      "duration_ms": 356613,
+      "name": "You Could Be More As You Are",
+      "url": "https://open.spotify.com/track/1z4wF1YNe3FphOqyD2eRqY"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Icare",
         "url": "https://open.spotify.com/album/3xQhF7EoL5DS0DceUsG8Fv"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 222631,
       "name": "Icare",
       "url": "https://open.spotify.com/track/67OcVGdHgzLykVUbaXwVYv"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Sa\u00e2da Bonaire",
-        "url": "https://open.spotify.com/album/0POnlLnYjmV7QIGKgmx1W8"
-      },
-      "artists": [
-        {
-          "name": "Sa\u00e2da Bonaire",
-          "url": "https://open.spotify.com/artist/7y1XjJQEGtFmh1MNyWU6cg"
-        }
-      ],
-      "duration_ms": 356613,
-      "name": "You Could Be More As You Are",
-      "url": "https://open.spotify.com/track/1z4wF1YNe3FphOqyD2eRqY"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Friends and Buddies",
-        "url": "https://open.spotify.com/album/1JbsHszs163wrSgCpJUpxa"
-      },
-      "artists": [
-        {
-          "name": "Milton Wright",
-          "url": "https://open.spotify.com/artist/4eG9wzNICW94sPzkTP5MYt"
-        }
-      ],
-      "duration_ms": 252026,
-      "name": "Keep It Up",
-      "url": "https://open.spotify.com/track/4eVbtPuh4bu5BbHdluycOz"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Lifeline",
         "url": "https://open.spotify.com/album/27SjhSdADeHymQsXoWrhNq"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 414000,
       "name": "Running Away - 12-Inch Long Version",
       "url": "https://open.spotify.com/track/47bblspEQHrxuRRYKWxg2e"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Friends and Buddies",
+        "url": "https://open.spotify.com/album/1JbsHszs163wrSgCpJUpxa"
+      },
+      "artists": [
+        {
+          "name": "Milton Wright",
+          "url": "https://open.spotify.com/artist/4eG9wzNICW94sPzkTP5MYt"
+        }
+      ],
+      "duration_ms": 252026,
+      "name": "Keep It Up",
+      "url": "https://open.spotify.com/track/4eVbtPuh4bu5BbHdluycOz"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Love Has Come Around - Finest Moments",
-        "url": "https://open.spotify.com/album/7BFPbUysgfYdNs0Zs9CqI1"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 472866,
-      "name": "Love Has Come Around",
-      "url": "https://open.spotify.com/track/0jA2HEWkUZFo0lyQ0NsBi0"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Sound System",
         "url": "https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 337773,
       "name": "The Magnificent Dance",
       "url": "https://open.spotify.com/track/2vUlFUyRbemQaseUj6NESz"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Love Has Come Around - Finest Moments",
+        "url": "https://open.spotify.com/album/7BFPbUysgfYdNs0Zs9CqI1"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 472866,
+      "name": "Love Has Come Around",
+      "url": "https://open.spotify.com/track/0jA2HEWkUZFo0lyQ0NsBi0"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "You're a Melody",
-        "url": "https://open.spotify.com/album/3XcLLEYjyx5KpYwAxLhBYt"
-      },
-      "artists": [
-        {
-          "name": "Aged In Harmony",
-          "url": "https://open.spotify.com/artist/5hABGCgIH57T4NTNpp0gCL"
-        }
-      ],
-      "duration_ms": 259415,
-      "name": "You're a Melody - Extended Disco Version",
-      "url": "https://open.spotify.com/track/0BnavfaSvNQXxg5sBfxTxX"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "The Brooklyn, Bronx & Queens Band",
         "url": "https://open.spotify.com/album/6SHMsBY50BGH9q3JDVVXMy"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 357760,
       "name": "On the Beat - Full Length Mix",
       "url": "https://open.spotify.com/track/5tdMJa2vdkSoONkzlZVD0o"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "You're a Melody",
+        "url": "https://open.spotify.com/album/3XcLLEYjyx5KpYwAxLhBYt"
+      },
+      "artists": [
+        {
+          "name": "Aged In Harmony",
+          "url": "https://open.spotify.com/artist/5hABGCgIH57T4NTNpp0gCL"
+        }
+      ],
+      "duration_ms": 259415,
+      "name": "You're a Melody - Extended Disco Version",
+      "url": "https://open.spotify.com/track/0BnavfaSvNQXxg5sBfxTxX"
     },
     {
       "added_at": "2022-09-05 16:54:43",

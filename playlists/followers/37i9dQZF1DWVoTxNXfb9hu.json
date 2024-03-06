@@ -1,5 +1,5 @@
 {
-  "2024-03-05": 108382,
+  "2024-03-06": 108373,
   "date_first_scraped": "2023-03-10",
   "description": "Colourful songs to kickstart your Holi party! Cover - Yeh Jawaani Hai Deewani",
   "name": "Holi Party",
@@ -920,6 +920,28 @@
     },
     {
       "album": {
+        "name": "Holi Mein Rangeele",
+        "url": "https://open.spotify.com/album/6MHGkZg6BOn6PFznDVXpON"
+      },
+      "artists": [
+        {
+          "name": "Abhinav Shekhar",
+          "url": "https://open.spotify.com/artist/7bBqAz65fp8BVnuHQTFgSQ"
+        },
+        {
+          "name": "Mika Singh",
+          "url": "https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202888,
+      "name": "Holi Mein Rangeele",
+      "url": "https://open.spotify.com/track/5kvWIkC89YiY4QjVndWt6u"
+    },
+    {
+      "album": {
         "name": "Holi Party Mashup 2022",
         "url": "https://open.spotify.com/album/7zsRQkPoGkg0fUZqwexb53"
       },
@@ -1269,7 +1291,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 181916,
       "name": "Kaali Teri Gutt",
       "url": "https://open.spotify.com/track/2LQNu1QEkmCystO6qqnrVs"

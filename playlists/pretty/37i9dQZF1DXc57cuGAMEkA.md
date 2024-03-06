@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Pharrell Williams & Miley Cyrus, 野田洋次郎, Eve, The Kid LAROI and more! cover: Pharrell Williams, Miley Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,753 likes - 78 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,775 likes - 78 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 77 | [Coffee](https://open.spotify.com/track/29GLlaeW4vqFR1JXymZX7d) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Coffee](https://open.spotify.com/album/7yfpuKRPyz3BRm9fAPjGqp) | 2:29 |
 | 78 | [Why I'm Here \- From the Netflix film “Shirley”](https://open.spotify.com/track/2YrigLM6CyRR7EjxL2bqZf) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Why I'm Here \(From the Netflix film “Shirley”\)](https://open.spotify.com/album/4hs7AWd8wyspb8KPEfLGY3) | 2:34 |
 
-Snapshot ID: `MCxiM2I1MWFhOTc0OWVkMTAyN2VkNWY4YmIwNjI4MjBjOGQxYTI4OGZm`
+Snapshot ID: `MCw5ZGNjYjk5ZDg3NzU0ZjA4Y2ZlMmNlZjg2MTg3YTUxM2FlNjViOGI5`

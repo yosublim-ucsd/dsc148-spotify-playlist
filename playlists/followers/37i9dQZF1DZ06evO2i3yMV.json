@@ -1,5 +1,5 @@
 {
-  "2024-03-05": 7931,
+  "2024-03-06": 7932,
   "date_first_scraped": "2023-05-03",
   "description": "This is TOKiMONSTA. The essential tracks, all in one playlist.",
   "name": "This Is TOKiMONSTA",
@@ -871,6 +871,28 @@
       "duration_ms": 238027,
       "name": "Green",
       "url": "https://open.spotify.com/track/0fhyPqMIwWmEMmScVOXk0H"
+    },
+    {
+      "album": {
+        "name": "FOVERE",
+        "url": "https://open.spotify.com/album/1RP9ycGSR3PgUffaLibvh7"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Kiya Lacey",
+          "url": "https://open.spotify.com/artist/1Htc0eOZHfYwFGbydWI5Wb"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211764,
+      "name": "Heart on the Ground",
+      "url": "https://open.spotify.com/track/3GBpgtfVFfT2mX9sRNOlr7"
     },
     {
       "album": {
@@ -1985,7 +2007,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 195529,
       "name": "Starlight Lace",
       "url": "https://open.spotify.com/track/7rMbCJMPExhYBcmVqvZcLl"

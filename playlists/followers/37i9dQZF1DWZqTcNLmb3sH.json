@@ -1,5 +1,5 @@
 {
-  "2024-03-05": 57152,
+  "2024-03-06": 57162,
   "date_first_scraped": "2021-12-28",
   "description": "Check out the latest hits from Sandalwood!\nCover : Karataka Damanaka\n",
   "name": "Latest Kannada",
@@ -477,7 +477,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 195313,
       "name": "Aamchi Mumbai (from \"Ondu Sarala Prema Kathe\")",
       "url": "https://open.spotify.com/track/2f2EuaH4Nvwg52C5u7SL6l"
@@ -2513,7 +2513,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 174735,
       "name": "Babu (No.1 Bullshit Guy) Title Song",
       "url": "https://open.spotify.com/track/45Vq1XIUhUshAIVi8AhBdh"
@@ -8986,6 +8986,28 @@
     },
     {
       "album": {
+        "name": "Haraisuve (From \"For Regn\")",
+        "url": "https://open.spotify.com/album/0FM7CJvol0EqqHPLdzVUnY"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Kaviraj",
+          "url": "https://open.spotify.com/artist/4QGaxjeQKdSWgWzzwUa1tM"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289500,
+      "name": "Haraisuve ( From \"For Regn\")",
+      "url": "https://open.spotify.com/track/0IQ7MlkYIHnqA99RxYyY45"
+    },
+    {
+      "album": {
         "name": "Hare Rama Hare Krishna (Title Song) (From \"Hare Rama Hare Krishna\")",
         "url": "https://open.spotify.com/album/7LGkRNMiXvVIy9kjhQgsP2"
       },
@@ -9503,6 +9525,32 @@
       "duration_ms": 195135,
       "name": "Hidko Hidko (From \"School Days\")",
       "url": "https://open.spotify.com/track/1YOMoVm9AnMKDgZJZsp2WF"
+    },
+    {
+      "album": {
+        "name": "Hithalaka Karibyada Maava ( From \"Karataka Damanaka\" )",
+        "url": "https://open.spotify.com/album/4qWYFrWzW9q8UfXvajexgA"
+      },
+      "artists": [
+        {
+          "name": "Malu Nipanal",
+          "url": "https://open.spotify.com/artist/3qN5c8CnwDRdi0a7YY0Hfe"
+        },
+        {
+          "name": "Shruthi Prahlada",
+          "url": "https://open.spotify.com/artist/1KW5uuc8ZpuVbpnAnopYpi"
+        },
+        {
+          "name": "V. Harikrishna",
+          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206206,
+      "name": "Hithalaka Karibyada Maava ( From \"Karataka Damanaka\" )",
+      "url": "https://open.spotify.com/track/2MMfYFIcxu0CbLVdsqFI7k"
     },
     {
       "album": {
@@ -12455,7 +12503,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 259439,
       "name": "Kannu Kenakutide",
       "url": "https://open.spotify.com/track/4QCj8gMq1fH5Pg06bpik3x"
@@ -14187,7 +14235,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 249931,
       "name": "Maleyanthe Nee Baa (from \"Sanju Weds Geetha 2\")",
       "url": "https://open.spotify.com/track/2N4RKXVjv7mG4YLfXsYjxC"
@@ -14957,6 +15005,32 @@
       "duration_ms": 212255,
       "name": "Mehabooba",
       "url": "https://open.spotify.com/track/7GYrsaZviUU4egHeVzXBS6"
+    },
+    {
+      "album": {
+        "name": "Mehabooba Title Track (From \"Mehabooba\") - Single",
+        "url": "https://open.spotify.com/album/7brcws5TFhyJtMfy8oE2Hp"
+      },
+      "artists": [
+        {
+          "name": "Jaskaran Singh",
+          "url": "https://open.spotify.com/artist/20Xvd4mO28iHfkdL3a5MRL"
+        },
+        {
+          "name": "V. Raghu Shastry",
+          "url": "https://open.spotify.com/artist/54RaRFcpqUUJIisuXILbUL"
+        },
+        {
+          "name": "Mathews Manu",
+          "url": "https://open.spotify.com/artist/2qlqqGIFF4jY4sGn29J4Ir"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202928,
+      "name": "Mehabooba Title Track (From \"Mehabooba\")",
+      "url": "https://open.spotify.com/track/3f65YvWytHE1dz4JrAa6jI"
     },
     {
       "album": {
@@ -18241,7 +18315,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 295709,
       "name": "Ninyaarele (from \"Ondu Sarala Prema Kathe\")",
       "url": "https://open.spotify.com/track/5rExzyrB2Zs011M3LIk79C"
@@ -18725,6 +18799,28 @@
       "duration_ms": 153869,
       "name": "O'GA (From \"777 Charlie\")",
       "url": "https://open.spotify.com/track/7LVrRY4VAa11XqIKZCP5Ms"
+    },
+    {
+      "album": {
+        "name": "Obbane Shiva Obbane Yuva( From \"Yuva\" )",
+        "url": "https://open.spotify.com/album/50W3MRsY5Clk9YU52lQliW"
+      },
+      "artists": [
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        },
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234038,
+      "name": "Obbane Shiva Obbane Yuva( From \"Yuva\" )",
+      "url": "https://open.spotify.com/track/1DdnaIa2iSUlSl5oXk7sG3"
     },
     {
       "album": {
@@ -20817,6 +20913,28 @@
       "duration_ms": 218343,
       "name": "Ra Ra Rakkamma (From \"Vikrant Rona\")",
       "url": "https://open.spotify.com/track/0stbF4C1ACmIvx0aW81ZXa"
+    },
+    {
+      "album": {
+        "name": "Malaikottai Vaaliban (Kannada)",
+        "url": "https://open.spotify.com/album/6NAqokJsRcEmPfIVBwXWrq"
+      },
+      "artists": [
+        {
+          "name": "Prashant Pillai",
+          "url": "https://open.spotify.com/artist/0YpuXLh1Ck69AHkdfVyqXK"
+        },
+        {
+          "name": "P.S Rafeeque",
+          "url": "https://open.spotify.com/artist/6Ef2IbiTvMc8iehZA1Ss15"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170061,
+      "name": "Raak",
+      "url": "https://open.spotify.com/track/32UZbiFV3u4Nxu5O0dUcA4"
     },
     {
       "album": {

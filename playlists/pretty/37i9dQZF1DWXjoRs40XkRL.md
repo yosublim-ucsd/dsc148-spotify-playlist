@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 
 > Unwind to the best Indian classical sounds out there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,387 likes - 75 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,423 likes - 75 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 52 | [Badra Chhaaye](https://open.spotify.com/track/0xaocSiKSgZdetM5onBTvz) | [Keshav Tyohar](https://open.spotify.com/artist/4K2l6pikW66DDwViUWSUpS) | [Badra Chhaaye](https://open.spotify.com/album/4Q4LYEVYMZZbOgEiksRxLa) | 2:50 |
 | 53 | [Naina More](https://open.spotify.com/track/5LI0yckeAhEOHODOq0VY8z) | [Anusha Mani](https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry), [Sangeet Haldipur](https://open.spotify.com/artist/79jChyQpm3UY9JD5btkNcK) | [Carmonies \- Thumri](https://open.spotify.com/album/7i88ySmPosn7ywzjo7bbGs) | 4:00 |
 | 54 | [Barse More Naina](https://open.spotify.com/track/5uujAs6ESgsPXwUYvbwlON) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Barse More Naina](https://open.spotify.com/album/0xVOTxx8rhWsD25L6sw6jg) | 3:18 |
-| 55 | [Ganga Kaleidoscope](https://open.spotify.com/track/62bhOFR1Brr7wbLgyUeMok) | [Avra Banerjee](https://open.spotify.com/artist/03U223wUp1mWICExQVN5S3), [Rhythm Shaw](https://open.spotify.com/artist/15VQCxbC4rQp2ooxlkd40D), [Tamal Kanti Halder](https://open.spotify.com/artist/1FEXQ23yxjNYaKJXK0IxiW), [Himadri Das](https://open.spotify.com/artist/4Q6sIUfymjRG1iggsunpYS), [Bachospati Chakraborty](https://open.spotify.com/artist/1SaViDbQoQ2NitxvO1pgHb), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH), [Ojas Adhiya](https://open.spotify.com/artist/2sDMiRPYyxqIhyiyqH89jJ) | [Manoyatri](https://open.spotify.com/album/6QC3xaw8QKzqhBe6FUFcQm) | 9:06 |
+| 55 | [Ganga Kaleidoscope](https://open.spotify.com/track/68Df2yQnMgCnF7ob8NNRez) | [Avra Banerjee](https://open.spotify.com/artist/03U223wUp1mWICExQVN5S3), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH), [Ojas Adhiya](https://open.spotify.com/artist/2sDMiRPYyxqIhyiyqH89jJ), [Rhythm Shaw](https://open.spotify.com/artist/15VQCxbC4rQp2ooxlkd40D), [Tamal Kanti Halder](https://open.spotify.com/artist/1FEXQ23yxjNYaKJXK0IxiW), [Himadri Das](https://open.spotify.com/artist/4Q6sIUfymjRG1iggsunpYS), [Bachospati Chakraborty](https://open.spotify.com/artist/1SaViDbQoQ2NitxvO1pgHb) | [Manoyatri](https://open.spotify.com/album/211aYaCuqflLPDpC05kMzT) | 9:06 |
 | 56 | [Garjat Aayi Re \- Miyan Malhaar \- Teentaal](https://open.spotify.com/track/0dFhCT3tJ73gQYPHM0dbNh) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Kumar Sharma](https://open.spotify.com/artist/7ub0qIn7JQe3XCqzULgec6), [Kathak Rockers](https://open.spotify.com/artist/4JlRWfdSxNUonT3X0h12q3) | [Garjat Aayi Re](https://open.spotify.com/album/7zSXbsC4y9d7ylkApW3V8I) | 5:59 |
 | 57 | [Samjha Toh Kar](https://open.spotify.com/track/2UJGpJz5if0Qt4ZoWedOlF) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Aalok Shrivastav](https://open.spotify.com/artist/41R59MbdpXbvt7Dp8Z9S7c) | [Samjha Toh Kar](https://open.spotify.com/album/02ygQ6Lz199rzGqOc2tRHE) | 4:02 |
 | 58 | [Ghan Garjat](https://open.spotify.com/track/2YnDcmHbXSnbOAisOMggYb) | [Raga Boyz](https://open.spotify.com/artist/49egqatijUFHovUpyNjOx2), [Wali Hamid Ali Khan](https://open.spotify.com/artist/0bUBeMl5dsE3LxBOofcswt) | [Ghan Garjat](https://open.spotify.com/album/2YzQd8ncqjU2cSyyAR8TgF) | 2:59 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 74 | [Garaj Garaj Jugalbandi](https://open.spotify.com/track/1TOQb1AwnZLzrAu4VXZUIO) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Farid Hasan](https://open.spotify.com/artist/5VS1XKT1Og8hCqS5n7MyLZ), [Mohammed Aman](https://open.spotify.com/artist/1mfkISQy4OfXQjdV46x6Yf) | [Bandish Bandits \(Original Series Soundtrack\)](https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz) | 5:30 |
 | 75 | [Shafqat with Shafqat \(Lakh Jatan / Khamaj\)](https://open.spotify.com/track/4oFTEI6Dmnca8HbpwdXQCL) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Shafqat Ali Khan](https://open.spotify.com/artist/5G8426kJYJIy8qoGo1b4sU) | [Shafqat with Shafqat \(Lakh Jatan / Khamaj\)](https://open.spotify.com/album/1a87DOMOSxUy66pUYGfx5S) | 7:20 |
 
-Snapshot ID: `MCxhMmNmYjFmZTc2MjcwYmI3ZTNmYWRiNzNiNzFkYzEwNDM3MjA3YzRl`
+Snapshot ID: `MCwzODQwNTc3NDBhN2RiYWQ0ZDdkNjc5ZWQ1ZGZjODg3ZjM2Mzk4ZWVm`

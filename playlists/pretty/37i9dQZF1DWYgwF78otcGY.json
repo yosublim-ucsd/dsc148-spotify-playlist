@@ -1,12 +1,12 @@
 {
   "description": "Fj\u00e4derboa, dansgolv, alls\u00e5ng och tonartsh\u00f6jningar - nu \u00e4r det mellofest! \ud83e\udea9\u2728\ud83d\udc9c",
-  "num_followers": 29618,
+  "num_followers": 29626,
   "original_name": "Mellofest! ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjRmZTMzNmMzM2NmMWU5YzYwOGQ0MWNhMGIzNjM1NWFjMmExYzk2",
+  "snapshot_id": "MCw4NTA5YmFmYTMzYzliZjBiYTYzYmVhNzJhZmQxY2IwZGZlOGRkYzIx",
   "tracks": [
     {
       "added_at": "2024-02-20 09:12:35",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-02-20 09:12:35",
       "album": {
-        "name": "\u00c4r",
-        "url": "https://open.spotify.com/album/1nfObC0Ykmpy6vYLwlsg4Z"
-      },
-      "artists": [
-        {
-          "name": "Tommy K\u00f6rberg",
-          "url": "https://open.spotify.com/artist/6R21HSNyo7HVac8pyqY3T2"
-        }
-      ],
-      "duration_ms": 188293,
-      "name": "Stad i ljus",
-      "url": "https://open.spotify.com/track/7bVwUOySQGO2afJ0LArAMi"
-    },
-    {
-      "added_at": "2024-02-20 09:12:35",
-      "album": {
         "name": "Where You Are (S\u00e1ve\u017ean)",
         "url": "https://open.spotify.com/album/249haOgXpuQsUSQelQ5OoE"
       },
@@ -303,6 +287,38 @@
       "duration_ms": 176960,
       "name": "Where You Are (S\u00e1ve\u017ean)",
       "url": "https://open.spotify.com/track/4zPqv04ddAFwk2Pgz3jC9U"
+    },
+    {
+      "added_at": "2024-02-20 09:12:35",
+      "album": {
+        "name": "Fr\u00e4mling 25 \u00e5r",
+        "url": "https://open.spotify.com/album/4cotyYQgYleaHbqQEgU9Hv"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        }
+      ],
+      "duration_ms": 180760,
+      "name": "F\u00e5ngad av en stormvind - Swedish Version",
+      "url": "https://open.spotify.com/track/06xX9E1BTTwyOwyaBuszSK"
+    },
+    {
+      "added_at": "2024-02-20 09:12:35",
+      "album": {
+        "name": "\u00c4r",
+        "url": "https://open.spotify.com/album/1nfObC0Ykmpy6vYLwlsg4Z"
+      },
+      "artists": [
+        {
+          "name": "Tommy K\u00f6rberg",
+          "url": "https://open.spotify.com/artist/6R21HSNyo7HVac8pyqY3T2"
+        }
+      ],
+      "duration_ms": 188293,
+      "name": "Stad i ljus",
+      "url": "https://open.spotify.com/track/7bVwUOySQGO2afJ0LArAMi"
     },
     {
       "added_at": "2024-02-20 09:12:35",
@@ -467,18 +483,34 @@
     {
       "added_at": "2024-02-20 09:12:35",
       "album": {
-        "name": "Bada Nakna",
-        "url": "https://open.spotify.com/album/0byn7HEBmRx4OPUYQzbcas"
+        "name": "Fr\u00e4mling 25 \u00e5r",
+        "url": "https://open.spotify.com/album/4cotyYQgYleaHbqQEgU9Hv"
       },
       "artists": [
         {
-          "name": "Samir & Viktor",
-          "url": "https://open.spotify.com/artist/4SR9oxWziAoPR4kTrekBi6"
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
         }
       ],
-      "duration_ms": 191047,
-      "name": "Bada nakna",
-      "url": "https://open.spotify.com/track/68jkh9nqSjpmRtkkA9f0ld"
+      "duration_ms": 177893,
+      "name": "Fr\u00e4mling",
+      "url": "https://open.spotify.com/track/17zFOtbuquEAAxSttpfWWl"
+    },
+    {
+      "added_at": "2024-02-20 09:12:35",
+      "album": {
+        "name": "Masquerade",
+        "url": "https://open.spotify.com/album/29npkCplHvsX4VZ6POOwMp"
+      },
+      "artists": [
+        {
+          "name": "Eric Saade",
+          "url": "https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG"
+        }
+      ],
+      "duration_ms": 180893,
+      "name": "Manboy",
+      "url": "https://open.spotify.com/track/4ut7uc5pTPixey8zomS5Ah"
     },
     {
       "added_at": "2024-02-20 09:12:35",
@@ -499,18 +531,34 @@
     {
       "added_at": "2024-02-20 09:12:35",
       "album": {
-        "name": "Masquerade",
-        "url": "https://open.spotify.com/album/29npkCplHvsX4VZ6POOwMp"
+        "name": "Ingenting att f\u00f6rlora",
+        "url": "https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l"
       },
       "artists": [
         {
-          "name": "Eric Saade",
-          "url": "https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG"
+          "name": "Linda Bengtzing",
+          "url": "https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV"
         }
       ],
-      "duration_ms": 180893,
-      "name": "Manboy",
-      "url": "https://open.spotify.com/track/4ut7uc5pTPixey8zomS5Ah"
+      "duration_ms": 169213,
+      "name": "Alla flickor",
+      "url": "https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq"
+    },
+    {
+      "added_at": "2024-02-20 09:12:35",
+      "album": {
+        "name": "Bada Nakna",
+        "url": "https://open.spotify.com/album/0byn7HEBmRx4OPUYQzbcas"
+      },
+      "artists": [
+        {
+          "name": "Samir & Viktor",
+          "url": "https://open.spotify.com/artist/4SR9oxWziAoPR4kTrekBi6"
+        }
+      ],
+      "duration_ms": 191047,
+      "name": "Bada nakna",
+      "url": "https://open.spotify.com/track/68jkh9nqSjpmRtkkA9f0ld"
     },
     {
       "added_at": "2024-02-20 09:12:35",
@@ -543,22 +591,6 @@
       "duration_ms": 184733,
       "name": "Cara mia",
       "url": "https://open.spotify.com/track/4vxn2p4GbiFhnVsIASACrf"
-    },
-    {
-      "added_at": "2024-02-20 09:12:35",
-      "album": {
-        "name": "Ingenting att f\u00f6rlora",
-        "url": "https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l"
-      },
-      "artists": [
-        {
-          "name": "Linda Bengtzing",
-          "url": "https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV"
-        }
-      ],
-      "duration_ms": 169213,
-      "name": "Alla flickor",
-      "url": "https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq"
     },
     {
       "added_at": "2024-02-20 09:12:35",
@@ -627,6 +659,22 @@
     {
       "added_at": "2024-02-20 09:12:35",
       "album": {
+        "name": "A",
+        "url": "https://open.spotify.com/album/6HDTuFOdtkETh4RnxIDNVm"
+      },
+      "artists": [
+        {
+          "name": "Anton Ewald",
+          "url": "https://open.spotify.com/artist/6HKV18fbiZPLNSoTUnTALb"
+        }
+      ],
+      "duration_ms": 182106,
+      "name": "Begging",
+      "url": "https://open.spotify.com/track/2sjZkR11bgYNjDOHqjvCK1"
+    },
+    {
+      "added_at": "2024-02-20 09:12:35",
+      "album": {
         "name": "Dolly Styles b\u00e4sta",
         "url": "https://open.spotify.com/album/4UeSWAPwCYG0PUYXfTRMfE"
       },
@@ -691,18 +739,18 @@
     {
       "added_at": "2024-02-20 09:12:35",
       "album": {
-        "name": "A",
-        "url": "https://open.spotify.com/album/6HDTuFOdtkETh4RnxIDNVm"
+        "name": "I Can't Go On",
+        "url": "https://open.spotify.com/album/22O77Vq7bj0khJd5Blhjp3"
       },
       "artists": [
         {
-          "name": "Anton Ewald",
-          "url": "https://open.spotify.com/artist/6HKV18fbiZPLNSoTUnTALb"
+          "name": "Robin Bengtsson",
+          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
         }
       ],
-      "duration_ms": 182106,
-      "name": "Begging",
-      "url": "https://open.spotify.com/track/2sjZkR11bgYNjDOHqjvCK1"
+      "duration_ms": 183990,
+      "name": "I Can\u00b4t Go On",
+      "url": "https://open.spotify.com/track/715cD5vOTffsOR3MnNYveJ"
     },
     {
       "added_at": "2024-02-20 09:12:35",
@@ -735,22 +783,6 @@
       "duration_ms": 178168,
       "name": "Mera mera mera",
       "url": "https://open.spotify.com/track/0dLe7y9Pil9ETtYuDWyrpP"
-    },
-    {
-      "added_at": "2024-02-20 09:12:35",
-      "album": {
-        "name": "I Can't Go On",
-        "url": "https://open.spotify.com/album/22O77Vq7bj0khJd5Blhjp3"
-      },
-      "artists": [
-        {
-          "name": "Robin Bengtsson",
-          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
-        }
-      ],
-      "duration_ms": 183990,
-      "name": "I Can\u00b4t Go On",
-      "url": "https://open.spotify.com/track/715cD5vOTffsOR3MnNYveJ"
     },
     {
       "added_at": "2024-02-20 09:12:35",
@@ -803,26 +835,6 @@
     {
       "added_at": "2024-02-20 09:12:35",
       "album": {
-        "name": "Underbart",
-        "url": "https://open.spotify.com/album/1RXvOiBHUXPHqMfNZYohGQ"
-      },
-      "artists": [
-        {
-          "name": "Kalle Moraeus",
-          "url": "https://open.spotify.com/artist/1NDYAcgpsX4ony5CD0QIxW"
-        },
-        {
-          "name": "Orsa Spelm\u00e4n",
-          "url": "https://open.spotify.com/artist/2XmqtWcNsjq5XxlE6p5WrT"
-        }
-      ],
-      "duration_ms": 188560,
-      "name": "Underbart",
-      "url": "https://open.spotify.com/track/5Tbc2O2q1NCux8F0lYiEo0"
-    },
-    {
-      "added_at": "2024-02-20 09:12:35",
-      "album": {
         "name": "La Dolce Vita",
         "url": "https://open.spotify.com/album/7rELI4gV9vdWKbSDF7Jsmi"
       },
@@ -835,22 +847,6 @@
       "duration_ms": 180800,
       "name": "La Dolce Vita",
       "url": "https://open.spotify.com/track/1b5yFVBwIbjKI2TULxtDoC"
-    },
-    {
-      "added_at": "2024-02-20 09:12:35",
-      "album": {
-        "name": "Diggiloo Diggiley",
-        "url": "https://open.spotify.com/album/1aeO2MJZFZhk3E57aaYGlg"
-      },
-      "artists": [
-        {
-          "name": "Herreys",
-          "url": "https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle"
-        }
-      ],
-      "duration_ms": 187520,
-      "name": "Diggiloo Diggiley",
-      "url": "https://open.spotify.com/track/4NzirQ4BrNkVaPEla2ipG4"
     }
   ],
   "unique_name": "Mellofest! ",

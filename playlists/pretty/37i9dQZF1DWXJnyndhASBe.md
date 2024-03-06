@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Gibbs, Opał
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,037 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,268 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 34 | [Fluid](https://open.spotify.com/track/30r5RN2yGoKzanggEzqrzM) | [ReTo](https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli), [Wroobel](https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS) | [Fluid](https://open.spotify.com/album/0CEYo45beHwBmzkLHCmOwI) | 2:22 |
 | 35 | [Bandycka Jazda](https://open.spotify.com/track/5aLGfNAfjuJoY4ExmgqrTg) | [Fagata](https://open.spotify.com/artist/0zzP72k8pbLySGH1TPUZW8) | [Bandycka Jazda](https://open.spotify.com/album/1EA1yy7n2yx63b42YBw7ry) | 2:02 |
 | 36 | [120 WERSÓW ŻEBY ZAJE\*AĆ CO WASZE](https://open.spotify.com/track/1VqT8aWuxRigiZILLcSlEM) | [vkie](https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v) | [120 WERSÓW ŻEBY ZAJE\*AĆ CO WASZE](https://open.spotify.com/album/2cdCiu1JfdjhuuWUEc2FOd) | 4:52 |
-| 37 | [DEREALIZACJA](https://open.spotify.com/track/2dgads1IcXxwZ1BxOIquNc) | [Waima](https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko), [Mjonszu](https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8) | [DEREALIZACJA](https://open.spotify.com/album/2aGtqGgBNQx2tKbjQlFkYg) | 2:37 |
+| 37 | [DEREALIZACJA](https://open.spotify.com/track/2dgads1IcXxwZ1BxOIquNc) | [Waima](https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt), [Mjonszu](https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8) | [DEREALIZACJA](https://open.spotify.com/album/2aGtqGgBNQx2tKbjQlFkYg) | 2:37 |
 | 38 | [Daj mi powód](https://open.spotify.com/track/3AvpVQO3xcRp0QDl5sfdNg) | [Sarius](https://open.spotify.com/artist/3sW41aChSc5bBow0Folc1S), [Kuba Hejz](https://open.spotify.com/artist/54FDfzo1I8n6TBqm9dkBWl) | [Daj mi powód](https://open.spotify.com/album/0iNJiuZHh2GWp1Cmvzc1U8) | 3:50 |
 | 39 | [cracow shit](https://open.spotify.com/track/5JWnJWnBpBJbrilDwY8Wn1) | [Kukon](https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD), [SHDØW](https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt) | [Organic Human](https://open.spotify.com/album/0nrlRRu8hYLnfIqilFDOZ2) | 1:57 |
 | 40 | [Szpilki](https://open.spotify.com/track/1L6p039zHMzcDiv8onVJ1p) | [730 Huncho](https://open.spotify.com/artist/7li6R0hKFXu7496e0Yialv) | [Młody Murzyn](https://open.spotify.com/album/4NLxRQDbJztI1prbUlaALp) | 2:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [Kevin sam w domu](https://open.spotify.com/track/0DhKkQjcrOXLBr9eCtocfc) | [Blacha 2115](https://open.spotify.com/artist/71tiWMKZ5wpl6E0BdwVQza), [Venom Valentino](https://open.spotify.com/artist/4QqbTDfK1yAeJuNaPTivXy), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [Kevin sam w domu](https://open.spotify.com/album/6oUD84BY3ycUXnlfqSnj27) | 2:51 |
 | 50 | [Tuptanie](https://open.spotify.com/track/3vfs6d1jMNRt160lC9v32t) | [Popek](https://open.spotify.com/artist/4NtiLs5NpjgZDHNBEMbjKz), [Razgonov](https://open.spotify.com/artist/1E7LpsS1t2p1jlAvco4i15), [Pablo](https://open.spotify.com/artist/6EIcP6aMSsZ45N0hO70bAa) | [Tuptanie](https://open.spotify.com/album/72UXBc5oCuhyjviuJP3PyL) | 2:48 |
 
-Snapshot ID: `MCxmNDQwYjUwMDNjOTZhZmY2YjUyY2VhZDMyN2ExNmJiOTNhNjdhNDYw`
+Snapshot ID: `MCwwZmJmYzA4YzM2ZDZmOTNjMDRjMTcxMDc4NmIzYmQzY2FjNmNlMmIw`

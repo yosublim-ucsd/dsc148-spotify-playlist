@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Karataka Damanaka
 
-1,100 songs - 2 day 19 hr 23 min
+1,101 songs - 2 day 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -893,7 +893,8 @@
 | [Pushpavati \(From "Kranti"\)](https://open.spotify.com/track/4N9kWGZh8QGjsXK2q79EHF) | [V\. Hari Krishna](https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX), [Aishwarya Rangarajan](https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO), [Yogaraj Bhat](https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1) | [Pushpavati \(From "Kranti"\)](https://open.spotify.com/album/6SxEMY4PKpgNMXNsBsh8Si) | 4:04 | 2022-12-26 | 2023-04-27 |
 | [Ra Ra Rai \(From "Baby Missing"\)](https://open.spotify.com/track/2UllA9Yp6d8oCytt7aLexh) | [Sparsh Arther](https://open.spotify.com/artist/4FaHRt1uJNf8imZo85dre4), [Darshan](https://open.spotify.com/artist/6uWHYCLn74ApUKkWLPXTX9), [Shri Sastha](https://open.spotify.com/artist/48o6CxQdWZwIagBSllp2hu), [V Nagendra Prasad](https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU) | [Ra Ra Rai \(From "Baby Missing"\)](https://open.spotify.com/album/2ec7Z3fP3BnWTQt6MBObnA) | 3:08 | 2023-01-20 | 2023-03-04 |
 | [Ra Ra Rakkamma \(From "Vikrant Rona"\)](https://open.spotify.com/track/0stbF4C1ACmIvx0aW81ZXa) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Ra Ra Rakkamma \(From "Vikrant Rona"\)](https://open.spotify.com/album/4GnAFlvjXPln9VsUhJxoTC) | 3:38 | 2022-05-24 | 2022-11-15 |
-| [Raak](https://open.spotify.com/track/32UZbiFV3u4Nxu5O0dUcA4) | [Prashant Pillai](https://open.spotify.com/artist/0YpuXLh1Ck69AHkdfVyqXK), [P.S Rafeeque](https://open.spotify.com/artist/6Ef2IbiTvMc8iehZA1Ss15) | [Malaikottai Vaaliban \(Kannada\)](https://open.spotify.com/album/6NAqokJsRcEmPfIVBwXWrq) | 2:50 | 2024-03-04 |  |
+| [Raak](https://open.spotify.com/track/32UZbiFV3u4Nxu5O0dUcA4) | [Prashant Pillai](https://open.spotify.com/artist/0YpuXLh1Ck69AHkdfVyqXK), [P.S Rafeeque](https://open.spotify.com/artist/6Ef2IbiTvMc8iehZA1Ss15) | [Malaikottai Vaaliban \(Kannada\)](https://open.spotify.com/album/6NAqokJsRcEmPfIVBwXWrq) | 2:50 | 2024-03-04 | 2024-03-06 |
+| [Raakk](https://open.spotify.com/track/1p0jSQRxGrro0WDeypZhwF) | [Aniruddha Sastry](https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa), [Justin Philipos](https://open.spotify.com/artist/33fWNx8qcdZEDvpU8flV45), [R\. Pramod Jois](https://open.spotify.com/artist/0oIMByBDNKnrzRhTuFTvhP) | [Malaikottai Vaaliban \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2Wrhc8VB162sVUxsDgWIBu) | 2:50 | 2024-03-04 |  |
 | [Raamam Raaghavam \(From "Rrr"\)](https://open.spotify.com/track/6HmWP8iJw234brBeyjlthO) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Chandana Bala Kalyan](https://open.spotify.com/artist/229U8W2owEe3012apvgbwb), [Charu Hariharan](https://open.spotify.com/artist/4E9HVb4iW6DkBRQv1UVmnf) | [Raamam Raaghavam \(From "Rrr"\)](https://open.spotify.com/album/7tXqykeGhYJ049SnG2EgMR) | 3:51 | 2021-12-31 | 2022-03-18 |
 | [Raana Theme Music](https://open.spotify.com/track/7Ci2FKWLiVpvN5RJrygJ9a) | [Chandan Shetty](https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk) | [Raana](https://open.spotify.com/album/7mMn2KDcJ5fjLAUd92vQcE) | 0:43 | 2022-09-27 | 2022-11-15 |
 | [Radha Radha](https://open.spotify.com/track/59LWEobpciyd5ASN9SO25U) | [Vijayalaxmi Mettinahole](https://open.spotify.com/artist/3kKaH5mm0rjBdDxLOr0rPs) | [Kabzaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kZ9RkbyvZbupGRYmd3Mmm) | 3:31 | 2023-03-22 | 2023-08-02 |

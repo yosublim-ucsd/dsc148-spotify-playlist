@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Twenty One Pilots
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,241 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,428 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Paper Rock](https://open.spotify.com/track/7e2GqvbZCDGOfYOR4SJivu) | [Obscura Hail](https://open.spotify.com/artist/0p0gv7xNsCw60SPRrgfyTE) | [Playing Dead](https://open.spotify.com/album/4QaFNNui8HXCUOrSa73Yac) | 2:37 |
 | 50 | [Not Like The Rest](https://open.spotify.com/track/4KwYHGWMQelyzc6a5RXP4a) | [GIRLBAND!](https://open.spotify.com/artist/3QSwq9CQMjqe01RtbKqz0F) | [Not Like The Rest](https://open.spotify.com/album/311IWRJeyNHUwqV3bk3Grb) | 3:14 |
 
-Snapshot ID: `MCw1MzQwYzZjY2FkYjcyODczYjFhNGEzNWM2MjFkNTI0MTI4MjRhZjQ2`
+Snapshot ID: `MCw5OTUyNjJlZjFhZGQxNjliZDk0NDVjYjgzYjgxYTllNDFkYWYzZDZk`

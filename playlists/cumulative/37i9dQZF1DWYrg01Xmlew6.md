@@ -4,7 +4,7 @@
 
 > Rap napoletano e il meglio della scena campana\. Geolier in cover.
 
-293 songs - 13 hr 35 min
+294 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Pane e miseria](https://open.spotify.com/track/73zmaeL2sXpoc9gsWQ38Fx) | [Luis Add](https://open.spotify.com/artist/3oMuALMGNkRZ5OZaktx8s0), [Pino Franzese](https://open.spotify.com/artist/0l0FOScVlsDoqviZiYCJpo) | [Pane e miseria](https://open.spotify.com/album/2QGUAAI0ygmYQ6nBjqlydS) | 2:57 | 2023-01-19 | 2023-10-06 |
 | [Parln e me](https://open.spotify.com/track/42K8rB0IhO0NzPTZNm7QNq) | [Lil Tony](https://open.spotify.com/artist/5scZI5Lpqp6uijn5kCXCEZ), [Kid Lost](https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu), [Sam Beats Baby](https://open.spotify.com/artist/1fphGmGC35v82kdBFDbmNf) | [Parln e me](https://open.spotify.com/album/5jDlmOcNuu9f7134Q3wg2i) | 2:35 | 2022-05-10 | 2022-09-30 |
 | [PARTENOPE](https://open.spotify.com/track/60NC3OqjiISKBYbscb8vW3) | [LIBERATO](https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW) | [LIBERATO II](https://open.spotify.com/album/2C6181H1enBSZDL8kbhUXQ) | 3:37 | 2022-05-10 | 2023-09-29 |
+| [Partenope \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/3o7Wj9qmWwV1mnnouU3krc) | [JELECROIS](https://open.spotify.com/artist/2kZAbjn3zWasP4zuwk0QAP) | [Partenope \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/1ONWmXCcVhTpI6qmpOZrTo) | 3:16 | 2024-03-05 |  |
 | [Password](https://open.spotify.com/track/1WXNkrOGGFpG7tjMVHLzxr) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8) | 2:45 | 2022-05-10 | 2022-07-29 |
 | [Password](https://open.spotify.com/track/4mKhK3oDQoFvZc3LsqDKfm) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3cWKB68DH7QRVdoWEjdu8F) | 2:45 | 2022-07-28 | 2022-08-05 |
 | [Password](https://open.spotify.com/track/78fu3G69lVmwRdce8RuuYf) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F) | 2:45 | 2022-11-03 | 2023-05-11 |
@@ -256,7 +257,7 @@
 | [SOUTH](https://open.spotify.com/track/0wEo8YvNfaUwLNZtOuB1uL) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX) | [SOUTH](https://open.spotify.com/album/3IPcLcBII4ZfNMwtCGMnJ7) | 2:27 | 2023-03-09 | 2023-05-12 |
 | [Spaccio di Verità 1](https://open.spotify.com/track/4vy5oJXsNPFuDPNt1CzE4g) | [Enzo Dong](https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6) | [Spaccio di Verità 1](https://open.spotify.com/album/0y6naxXBamBcpSA71AmOhf) | 3:18 | 2023-10-05 | 2023-11-03 |
 | [Stanotte](https://open.spotify.com/track/1rml3IGJ7U3PZMSAYkntiS) | [Fuossera](https://open.spotify.com/artist/53NBqBq06Yt70uHzbIIkRb), [O'Iank](https://open.spotify.com/artist/5KxgFHN3bRQ1a9cure6jpN), [OJey](https://open.spotify.com/artist/6onsxkCnKgm25b6wEigYVg), [Sir Fernandez](https://open.spotify.com/artist/6eANGDdsFQJGMu7Msx8zm2), [Dj Fresella](https://open.spotify.com/artist/2bYcvGtjyd7pu0Pue7e6XD) | [Stanotte](https://open.spotify.com/album/6ZPAN5vDv8tVQMxzd4Dh3D) | 3:26 | 2023-10-05 | 2023-10-20 |
-| [SUD ITALIAN DREAM](https://open.spotify.com/track/35woYksQFAx5OhYKzNXxRy) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3) | [SUD ITALIAN DREAM](https://open.spotify.com/album/4pGk4pX9muBUKwki6JnBut) | 3:06 | 2023-11-09 |  |
+| [SUD ITALIAN DREAM](https://open.spotify.com/track/35woYksQFAx5OhYKzNXxRy) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3) | [SUD ITALIAN DREAM](https://open.spotify.com/album/4pGk4pX9muBUKwki6JnBut) | 3:06 | 2023-11-09 | 2024-03-06 |
 | [SUL IJ E TE \(con O'Tsunami\)](https://open.spotify.com/track/1aICGpPcAWLSD2ids3R3zA) | [VTR](https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1), [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm) | [SUL IJ E TE \(con O'Tsunami\)](https://open.spotify.com/album/2LZut9eY8A7xUtI5A0tuvS) | 2:16 | 2022-06-09 | 2023-07-21 |
 | [Sul'A Mia \(feat\. Enzo Dong\)](https://open.spotify.com/track/0py1kg1y5iSMWFTXPpjZI3) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf), [Enzo Dong](https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6) | [Sul'A Mia \(feat\. Enzo Dong\)](https://open.spotify.com/album/04Z4Qz5AFiwy0B5li3mmFn) | 2:57 | 2022-06-02 |  |
 | [T Pens](https://open.spotify.com/track/65U8ZFmt7JSrLdwH93q363) | [O'CINES](https://open.spotify.com/artist/6drNYL1qof91qhlkhrIjlS) | [T Pens](https://open.spotify.com/album/4goIUzzouxxq3nYDL3xFnm) | 1:48 | 2022-08-25 | 2022-09-02 |

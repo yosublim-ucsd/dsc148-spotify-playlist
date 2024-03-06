@@ -1,5 +1,5 @@
 {
-  "2024-03-05": 20813,
+  "2024-03-06": 20813,
   "date_first_scraped": "2021-12-21",
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
   "name": "Moving Castle Monthly",
@@ -4945,6 +4945,28 @@
       "duration_ms": 132800,
       "name": "Hooyah!",
       "url": "https://open.spotify.com/track/3v3NFAqax9Zg6TFBltTMF8"
+    },
+    {
+      "album": {
+        "name": "LP Giobbi x Insomniac Records Presents Femme House Vol. 2",
+        "url": "https://open.spotify.com/album/27PjvXPnBZ9wMEITi1MZd7"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "hermixalot",
+          "url": "https://open.spotify.com/artist/6hdb3ZH5gpJxqFPdXRGmdC"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316320,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/4YlwsCI4O2sdJN55gRF9pV"
     },
     {
       "album": {

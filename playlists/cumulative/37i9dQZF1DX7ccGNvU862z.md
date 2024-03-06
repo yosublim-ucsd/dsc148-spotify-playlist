@@ -2,9 +2,9 @@
 
 ### [ฮิปฮอป ของมันต้องฟัง](https://open.spotify.com/playlist/37i9dQZF1DX7ccGNvU862z)
 
-> เพลงฮิปฮอปฮิตล่าสุด จัดให้ที่นี่เลย\. ศิลปิน: HumbleP
+> เพลงฮิปฮอปฮิตล่าสุด จัดให้ที่นี่เลย\. ศิลปิน: GALCHANIE
 
-341 songs - 19 hr 9 min
+342 songs - 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Mr.Lonely](https://open.spotify.com/track/1xBamEMpVVcuUYKZDMdpID) | [4BANG](https://open.spotify.com/artist/79jZrupKGTRsyOsJV1OwGK) | [Mr.Lonely](https://open.spotify.com/album/1qmDFBgSCsWkeUSrWY9L2a) | 3:22 | 2024-03-01 |  |
 | [MUSE](https://open.spotify.com/track/7bRSjYVqEPeAvKG1KrlPtI) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx), [DAVII](https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc) | [MUSE](https://open.spotify.com/album/0JApBQ8xuOnFPw32RnoGrS) | 3:27 | 2023-09-22 |  |
 | [My angel](https://open.spotify.com/track/2bNolCEC6oWC8EQPCv5Sc6) | [Baby Boat](https://open.spotify.com/artist/7fMMVyalfNuiZBTVbaeJaU) | [My angel](https://open.spotify.com/album/3vjSmkK1s3EPqyqeVbsF7D) | 1:57 | 2023-10-12 | 2023-10-28 |
+| [My bad](https://open.spotify.com/track/5zxTXnDC00AV7QDdcj1hIo) | [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa), [Percy](https://open.spotify.com/artist/1YDIuX4Pe5XwZmInJ4GYGr) | [My bad](https://open.spotify.com/album/5CgpzvDunZZpMaWbz2EGDz) | 3:28 | 2024-03-05 |  |
 | [My Girl](https://open.spotify.com/track/5buSRaJDO0AvBbLWvqqd9m) | [Lil Bigboat](https://open.spotify.com/artist/2YhH2j5TLv62N87Qh5Q0tD), [P\-Hot](https://open.spotify.com/artist/7cDMujRxnEJ0wPd5XwP24G) | [My Girl](https://open.spotify.com/album/0LO8oD4wXK6I829hhydmcC) | 2:53 | 2024-02-08 | 2024-02-24 |
 | [My Moon](https://open.spotify.com/track/1kynRiOydIAzpVIXOKf5iH) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [SIMON](https://open.spotify.com/artist/4Dz036NLSs8GPIFaCPJWGU) | [My Moon](https://open.spotify.com/album/1M2AkqbtUCIMHa0stw4Fuc) | 3:00 | 2023-09-22 |  |
 | [MY NUMBER ONE](https://open.spotify.com/track/5Xl9ugbKlQlM3pGYKvV3aL) | [UFA GAMER](https://open.spotify.com/artist/3lkE4VTPwj0ENfvyj4Vajn), [TiTANZ](https://open.spotify.com/artist/3Bp5jcsiE58NTrXtEVnFpF), [MANDARIN](https://open.spotify.com/artist/6yRREnvC4xRzfZ3r5Zn1L0), [C\-King](https://open.spotify.com/artist/5TQE1QePeSN4Gb5AxDXBQj) | [MY NUMBER ONE](https://open.spotify.com/album/7CCfp0N6a8oAAWPJbv14uN) | 3:36 | 2023-12-28 | 2024-01-06 |
@@ -327,7 +328,7 @@
 | [โอบกอดฉันได้ไหม](https://open.spotify.com/track/5N2NsF721VGA7U4oyPnI5Q) | [CN](https://open.spotify.com/artist/6BUJmF3uHne2TTWorUh3VM), [PT$K](https://open.spotify.com/artist/4C5FhYHeo5hdJwUAOEQHel) | [โอบกอดฉันได้ไหม](https://open.spotify.com/album/0fhxbCGsy16FNNrAw9aAvB) | 4:40 | 2024-01-05 | 2024-01-13 |
 | [ใครๆก็บอกว่าเธอร้าย \(Overthink\)](https://open.spotify.com/track/4LH0q9bKTmejpduPs1pmjI) | [PAIRY](https://open.spotify.com/artist/6G6MRBKezYH9TPzzth53Ep) | [ใครๆก็บอกว่าเธอร้าย \(Overthink\)](https://open.spotify.com/album/3T46pJ4npRgbU3YGWqzhyf) | 2:36 | 2024-02-16 | 2024-02-24 |
 | [ใจคอไม่ดี](https://open.spotify.com/track/3U2auVTip7IqJdSsQuY2Ej) | [OG\-ANIC](https://open.spotify.com/artist/1OXHqAK6r5mF0FV94nc0pD), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [ใจคอไม่ดี](https://open.spotify.com/album/38cqsAcG76GF0ygzQp6XK4) | 4:40 | 2023-09-22 | 2024-02-21 |
-| [ใจผมสั่น](https://open.spotify.com/track/2UYZn22g5ww0NqgD2W6Lfd) | [BABYBIGBOY](https://open.spotify.com/artist/40vACwV6LsV979rQRvvEOD), [THAOWANZ](https://open.spotify.com/artist/2oWR5K3i3LCNx5e7DI1wdQ), [Sexski](https://open.spotify.com/artist/6QeYcD1n2YcWygCScfLhRE) | [ใจผมสั่น](https://open.spotify.com/album/5rVW2FWuyh60fQyWzPfrjX) | 2:31 | 2024-02-08 |  |
+| [ใจผมสั่น](https://open.spotify.com/track/2UYZn22g5ww0NqgD2W6Lfd) | [BABYBIGBOY](https://open.spotify.com/artist/40vACwV6LsV979rQRvvEOD), [THAOWANZ](https://open.spotify.com/artist/2oWR5K3i3LCNx5e7DI1wdQ), [Sexski](https://open.spotify.com/artist/6QeYcD1n2YcWygCScfLhRE) | [ใจผมสั่น](https://open.spotify.com/album/5rVW2FWuyh60fQyWzPfrjX) | 2:31 | 2024-02-08 | 2024-03-06 |
 | [ใจพัง](https://open.spotify.com/track/30ho6wAl9w53sCtcqzHVMA) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [GTK](https://open.spotify.com/artist/2xe3fpDD81re4J0NN3S8LV) | [ใจพัง](https://open.spotify.com/album/5jfhFfMvJM7FaKOnc0u1J2) | 5:01 | 2023-09-22 |  |
 | [ในฝัน](https://open.spotify.com/track/2l564oYfbji4PDf2g3wn6E) | [ตาเนม](https://open.spotify.com/artist/7IQZFMznCII6RXCR1OqMwD), [STAMP\-ST](https://open.spotify.com/artist/2sI0zXiquAcqQlkY5x3D3M) | [ในฝัน](https://open.spotify.com/album/5Ybz2yP2n2OwfdJ3za4YI8) | 4:32 | 2024-02-08 |  |
 | [ใบขับขี่ใบใหม่](https://open.spotify.com/track/71Qn6P2qjNMaJUP8PS66QU) | [PAIRY](https://open.spotify.com/artist/6G6MRBKezYH9TPzzth53Ep), [GUNNER](https://open.spotify.com/artist/1JySn0pz3hvdDvWPTZf7hv) | [ใบขับขี่ใบใหม่](https://open.spotify.com/album/5vsbMXzkmMuGAzIiGXub8i) | 3:08 | 2023-12-15 | 2023-12-30 |

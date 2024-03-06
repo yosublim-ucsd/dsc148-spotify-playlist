@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXshWTGXBpIb.md) - [plain]
 
 > Featuring Daddy Yankee, Ozuna, Zion & Lennox  & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,390 likes - 25 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,395 likes - 25 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXshWTGXBpIb.md) - [plain]
 | 24 | [UNA GATITA](https://open.spotify.com/track/118L1MNuM8D0mAlK2i0kpl) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL) | [UNA GATITA](https://open.spotify.com/album/5NvXFJGob15teasQMemNSs) | 2:07 |
 | 25 | [La Máquina](https://open.spotify.com/track/35ns1WEurw3MVlHJjHwNWQ) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [LLNM2](https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf) | 4:56 |
 
-Snapshot ID: `MCxmOGU0NTg5ZTc1OTdlMjNiOGM2NjVmMTQ4NGNkMWYxYTllN2E4MGFm`
+Snapshot ID: `MCw5NTIwM2E4MzJkMjY2NzIzNzhkZGMxNTdkZTg4NDhmNTQ0YzUyMWEy`

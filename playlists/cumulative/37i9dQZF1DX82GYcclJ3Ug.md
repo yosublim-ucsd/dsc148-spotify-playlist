@@ -4,7 +4,7 @@
 
 > No rules\. No boundaries\. The very best new alternative tracks\. Cover: Mannequin Pussy
 
-1,679 songs - 3 day 18 hr 8 min
+1,680 songs - 3 day 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1572,6 +1572,7 @@
 | [Wake Up](https://open.spotify.com/track/2JLhVqWY3tzTwtjZXbUdnQ) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Wake Up](https://open.spotify.com/album/635iu3VXqCVPvUJvOoCDB9) | 3:36 | 2022-06-17 | 2022-07-16 |
 | [Wake Up](https://open.spotify.com/track/2MpUOGDs82UoaGJvuAbu6h) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [ACT I: ORIGINS](https://open.spotify.com/album/68azlgNVhA5BdkZlMtF1z8) | 3:36 | 2022-07-15 | 2022-08-13 |
 | [Walking On Ice](https://open.spotify.com/track/0QpjxbyUFXkGYpBgFsza2V) | [Last Dinosaurs](https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4) | [Walking On Ice](https://open.spotify.com/album/4rzlFh4dPWc2rh7C68lDTk) | 2:43 | 2023-10-06 | 2023-10-29 |
+| [Want Me](https://open.spotify.com/track/5Czd9hqOj4uvwpieRmVlTw) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Want Me](https://open.spotify.com/album/26fVz5K8XbNM0fNcQnaO3s) | 2:43 | 2024-03-05 |  |
 | [Want Want](https://open.spotify.com/track/5fmaigGNZqMUv3bW6FCs2L) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Want Want](https://open.spotify.com/album/4hHUyNuLV7kIyHh4pBQNCE) | 3:08 | 2022-06-03 | 2022-08-27 |
 | [Waste My Life](https://open.spotify.com/track/3jLMVF5HDdh10eAi8DgiHD) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Waste My Life](https://open.spotify.com/album/4Xt5HkbBZXyBGDomKr3gvG) | 2:40 | 2023-01-20 | 2023-05-06 |
 | [Waste My Mind](https://open.spotify.com/track/6NP8HBlNKQzsq8K9O5dK0f) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Waste My Mind](https://open.spotify.com/album/6HO2c5VcuxYJ8Akh9N0HUT) | 2:42 | 2023-06-16 | 2023-08-19 |

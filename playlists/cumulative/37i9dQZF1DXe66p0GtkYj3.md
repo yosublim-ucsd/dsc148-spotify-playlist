@@ -4,7 +4,7 @@
 
 > Empezó el zapateo\. ¡Take tarake take!
 
-91 songs - 5 hr 12 min
+92 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [In Da Getto](https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [In Da Getto](https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl) | 2:11 | 2021-09-20 |  |
 | [In My Mind](https://open.spotify.com/track/7uoxJCPiqiEa3fvOQQQbyn) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [In My Mind](https://open.spotify.com/album/412mL0hMStgwl1ukZjLxR8) | 2:55 | 2021-09-20 |  |
 | [In My Mind](https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [In My Mind](https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa) | 3:04 | 2021-09-20 |  |
-| [In Your Eyes \- Mark Di Meo Remix](https://open.spotify.com/track/3c0Sz8vxzTIlbgi3SGoKnm) | [Café Negro](https://open.spotify.com/artist/7uY36mFvPu2SINaGdGFPas), [Mark Di Meo](https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE) | [Soulful House Journey: Mark Di Meo Sampler EP](https://open.spotify.com/album/2RdCsgst3kzB1z3LEHCr39) | 7:21 | 2021-09-20 |  |
+| [In Your Eyes \- Mark Di Meo Remix](https://open.spotify.com/track/3c0Sz8vxzTIlbgi3SGoKnm) | [Café Negro](https://open.spotify.com/artist/7uY36mFvPu2SINaGdGFPas), [Mark Di Meo](https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE) | [Soulful House Journey: Mark Di Meo Sampler EP](https://open.spotify.com/album/2RdCsgst3kzB1z3LEHCr39) | 7:21 | 2021-09-20 | 2024-03-06 |
+| [In Your Eyes \- Mark Di Meo Remix](https://open.spotify.com/track/5tfNWFm4LIrVWNPzsaYjZL) | [Café Negro](https://open.spotify.com/artist/7uY36mFvPu2SINaGdGFPas), [Mark Di Meo](https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE) | [In Your Eyes](https://open.spotify.com/album/01Z8f4hH5uwJsAwh1ewT5I) | 7:21 | 2021-09-20 |  |
 | [Intro Pablo Escobar Alettoso](https://open.spotify.com/track/3YK5OnmoAn9ZsKAQVzLkVV) | [Sebastian Tobon](https://open.spotify.com/artist/1WdvR4BDG9lkQkNv4114NF), [Guaracha](https://open.spotify.com/artist/1SKG4cjtHg6l7x5PNfYfWC), [Aleteo](https://open.spotify.com/artist/3QzXsw7J8BZjlQRsv5Tdpt) | [Aleteo Music, Vol\. 6 \(Guaracha, Aleteo, Zapateo, Tribal, House\)](https://open.spotify.com/album/2YM9wYuzFeObivlplDtAFL) | 4:00 | 2021-09-20 |  |
 | [Lo Malo Se Fue](https://open.spotify.com/track/6VNLV0e3C9ygvKHmIvKVyU) | [Marcela Reyes](https://open.spotify.com/artist/2a3lL5m6feAyGUR1PI2osJ) | [Lo Malo Se Fue](https://open.spotify.com/album/5GQiolbnTXFHmBUEA0trro) | 3:40 | 2021-09-20 |  |
 | [Losing It](https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Losing It](https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv) | 4:08 | 2021-09-20 |  |

@@ -1,12 +1,12 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 150539,
+  "num_followers": 150614,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZGNlNjNjMjNmMTU3YTRjNDk2YjVlMjgwMmIyNDMxYWRkZDQ5YmVk",
+  "snapshot_id": "MCxhMzQwM2Q4ZGNiYmIyY2UzNzQyZTNlOTZlNTcyYzM0MjFlNWNmZjJi",
   "tracks": [
     {
       "added_at": "2020-09-04 01:12:56",
@@ -811,6 +811,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "SB1",
+        "url": "https://open.spotify.com/album/2L1LGstvVxQfcholH3NQW9"
+      },
+      "artists": [
+        {
+          "name": "Gramatik",
+          "url": "https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5"
+        }
+      ],
+      "duration_ms": 134656,
+      "name": "Just Chillin'",
+      "url": "https://open.spotify.com/track/4rLEWRqZBTx3OMc8L28JGA"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Koop Islands",
         "url": "https://open.spotify.com/album/7utDnqKdc3HiSx54MSaGSc"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 328265,
       "name": "Relaxin' with cherry",
       "url": "https://open.spotify.com/track/4OJBmFzo7i8Qa38ExrxwE8"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "SB1",
-        "url": "https://open.spotify.com/album/2L1LGstvVxQfcholH3NQW9"
-      },
-      "artists": [
-        {
-          "name": "Gramatik",
-          "url": "https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5"
-        }
-      ],
-      "duration_ms": 134656,
-      "name": "Just Chillin'",
-      "url": "https://open.spotify.com/track/4rLEWRqZBTx3OMc8L28JGA"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -899,22 +899,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Satta",
-        "url": "https://open.spotify.com/album/0ZR87OL6kj1s2MonZprzkn"
-      },
-      "artists": [
-        {
-          "name": "Boozoo Bajou",
-          "url": "https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3"
-        }
-      ],
-      "duration_ms": 379360,
-      "name": "Night over Manaus",
-      "url": "https://open.spotify.com/track/23jbfWs739EBZEl4xWYiVl"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "The Campfire Headphase",
         "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 324906,
       "name": "Peacock Tail",
       "url": "https://open.spotify.com/track/2DQlQcYponGtEwvEHRHYvu"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Satta",
+        "url": "https://open.spotify.com/album/0ZR87OL6kj1s2MonZprzkn"
+      },
+      "artists": [
+        {
+          "name": "Boozoo Bajou",
+          "url": "https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3"
+        }
+      ],
+      "duration_ms": 379360,
+      "name": "Night over Manaus",
+      "url": "https://open.spotify.com/track/23jbfWs739EBZEl4xWYiVl"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Long Distance",
+        "url": "https://open.spotify.com/album/2R6MZANJIreWzTd7kjtpa2"
+      },
+      "artists": [
+        {
+          "name": "Ivy",
+          "url": "https://open.spotify.com/artist/2TpNrO0G2ahji2IOR94TLA"
+        }
+      ],
+      "duration_ms": 265626,
+      "name": "Edge Of The Ocean",
+      "url": "https://open.spotify.com/track/5zjQ3gF7xeNhMh0Is6wX0b"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Cold Water Music",
         "url": "https://open.spotify.com/album/6N5ST7D8lhiW1I5YfPDE5R"
       },
@@ -1123,18 +1139,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Long Distance",
-        "url": "https://open.spotify.com/album/2R6MZANJIreWzTd7kjtpa2"
+        "name": "Safe in the Steep Cliffs",
+        "url": "https://open.spotify.com/album/6NkSldA9yAJrDomtPAz1Zs"
       },
       "artists": [
         {
-          "name": "Ivy",
-          "url": "https://open.spotify.com/artist/2TpNrO0G2ahji2IOR94TLA"
+          "name": "Emancipator",
+          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
         }
       ],
-      "duration_ms": 265626,
-      "name": "Edge Of The Ocean",
-      "url": "https://open.spotify.com/track/5zjQ3gF7xeNhMh0Is6wX0b"
+      "duration_ms": 250120,
+      "name": "Rattlesnakes",
+      "url": "https://open.spotify.com/track/1QgYQ3Qk4s3I1fj1sPknv5"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1155,22 +1171,6 @@
       "duration_ms": 230066,
       "name": "Don't Look Back",
       "url": "https://open.spotify.com/track/6T1DyqY15fNj7F5FK4r5VR"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "Safe in the Steep Cliffs",
-        "url": "https://open.spotify.com/album/6NkSldA9yAJrDomtPAz1Zs"
-      },
-      "artists": [
-        {
-          "name": "Emancipator",
-          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
-        }
-      ],
-      "duration_ms": 250120,
-      "name": "Rattlesnakes",
-      "url": "https://open.spotify.com/track/1QgYQ3Qk4s3I1fj1sPknv5"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Love Pussycats & Carwrecks",
-        "url": "https://open.spotify.com/album/5EPPzyZrU8ytrdBJDS95l9"
-      },
-      "artists": [
-        {
-          "name": "Funki Porcini",
-          "url": "https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw"
-        }
-      ],
-      "duration_ms": 290840,
-      "name": "Purrfect",
-      "url": "https://open.spotify.com/track/7bfMKlkk76s6ou41vmRS9W"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "LemonJelly.ky",
         "url": "https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 401333,
       "name": "In The Bath",
       "url": "https://open.spotify.com/track/5FccwnVjJbLIF2azQjCwyP"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Love Pussycats & Carwrecks",
+        "url": "https://open.spotify.com/album/5EPPzyZrU8ytrdBJDS95l9"
+      },
+      "artists": [
+        {
+          "name": "Funki Porcini",
+          "url": "https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw"
+        }
+      ],
+      "duration_ms": 290840,
+      "name": "Purrfect",
+      "url": "https://open.spotify.com/track/7bfMKlkk76s6ou41vmRS9W"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Leftism",
-        "url": "https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp"
-      },
-      "artists": [
-        {
-          "name": "Leftfield",
-          "url": "https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L"
-        }
-      ],
-      "duration_ms": 312333,
-      "name": "Melt - Remastered",
-      "url": "https://open.spotify.com/track/5XoUmYzWa8YTaxxV9DWEU3"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "The Cosmic Game",
         "url": "https://open.spotify.com/album/5TXP9f2NLMzYoVOfyhAjFO"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 139226,
       "name": "The Cosmic Game",
       "url": "https://open.spotify.com/track/6x8yvtqzNmzyzLbqy1BDIs"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Leftism",
+        "url": "https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp"
+      },
+      "artists": [
+        {
+          "name": "Leftfield",
+          "url": "https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L"
+        }
+      ],
+      "duration_ms": 312333,
+      "name": "Melt - Remastered",
+      "url": "https://open.spotify.com/track/5XoUmYzWa8YTaxxV9DWEU3"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Apricot Morning",
-        "url": "https://open.spotify.com/album/4RQOGfXsV5TVo5hJXNQ5ql"
+        "name": "C\u00e9U",
+        "url": "https://open.spotify.com/album/6dG1XPrl1KEeK4MND7WAoB"
       },
       "artists": [
         {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
         }
       ],
-      "duration_ms": 284693,
-      "name": "Transatlantic",
-      "url": "https://open.spotify.com/track/0uY3duWVyW02qcq9QhoQZY"
+      "duration_ms": 174653,
+      "name": "Malemol\u00eancia",
+      "url": "https://open.spotify.com/track/1Wit1Nw3sVBbyyX9NjjT7H"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Apricot Morning",
+        "url": "https://open.spotify.com/album/4RQOGfXsV5TVo5hJXNQ5ql"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 284693,
+      "name": "Transatlantic",
+      "url": "https://open.spotify.com/track/0uY3duWVyW02qcq9QhoQZY"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Electric Lazyland",
         "url": "https://open.spotify.com/album/7o5ZZr07ZAPzCegrhWDVu9"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 352000,
       "name": "Electric Lazyland",
       "url": "https://open.spotify.com/track/4desWKODsdzW9QHHmQxx6J"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "C\u00e9U",
-        "url": "https://open.spotify.com/album/6dG1XPrl1KEeK4MND7WAoB"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
-        }
-      ],
-      "duration_ms": 174653,
-      "name": "Malemol\u00eancia",
-      "url": "https://open.spotify.com/track/1Wit1Nw3sVBbyyX9NjjT7H"
     },
     {
       "added_at": "2020-09-04 01:12:56",

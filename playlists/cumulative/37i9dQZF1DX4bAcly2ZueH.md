@@ -4,7 +4,7 @@
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-139 songs - 7 hr 20 min
+140 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [re: Sound Of Light](https://open.spotify.com/track/7zFWLMPaEe5G9crfMdAVSC) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE), [Hitori](https://open.spotify.com/artist/1BLxupu4NPracLOtvGHYbl) | [re: Sound Of Light](https://open.spotify.com/album/24R74RGaArQFDwqz8LzYp0) | 2:24 | 2023-11-14 |  |
 | [Reminisce](https://open.spotify.com/track/7LVs0f78kMJHBlIDrmE7u2) | [法斎Beats](https://open.spotify.com/artist/48gniwDxLdyYvSK1faa6ia) | [Reminisce](https://open.spotify.com/album/4uC5dQp9iXETYGVKaa6pso) | 2:52 | 2022-11-15 |  |
 | [Resting Place](https://open.spotify.com/track/0iB8cBNqKUv5CVbRI3cDJO) | [E J R M](https://open.spotify.com/artist/3LR4QxuUpK1ZwhWc260xAZ), [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [Resting Place](https://open.spotify.com/album/5zqrCPsgymWf2bfYZQ7Rka) | 3:09 | 2022-10-11 |  |
+| [Ripple](https://open.spotify.com/track/1YalCeuariNJ4hlEjq6o3S) | [\[.que\]](https://open.spotify.com/artist/01FtA9GKCdkhtXHZrxi1v7) | [Seaglow](https://open.spotify.com/album/2nvtaBqF1x83BMsdpEC5ZD) | 2:12 | 2024-03-05 |  |
 | [room with nobody](https://open.spotify.com/track/4g8qBxEJbmGOn47fPYX2tK) | [Anoice](https://open.spotify.com/artist/1Harx8w7e050c1YwYJMPcb), [Takahiro Kido](https://open.spotify.com/artist/7vaTIZVteGSJf1cQ9VzRRI), [Yuki Murata](https://open.spotify.com/artist/0gLzKDyIHWHtmyduV4AkkK) | [Ghost in the Clocks](https://open.spotify.com/album/3xn9ffYOcqK08Fua0glyZi) | 2:52 | 2022-10-11 |  |
 | [roundabout](https://open.spotify.com/track/4My5qxutluZnhCiSz4mY92) | [fcj](https://open.spotify.com/artist/1Nv875EklW8XLTduI6I3Js), [Ivoris](https://open.spotify.com/artist/7wuKa2bUMTCPspwY00Erji), [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v) | [roundabout](https://open.spotify.com/album/72JOBJj1vbLdTg0B2XVjwT) | 2:12 | 2022-10-11 |  |
 | [Sad Premonition / Lilium](https://open.spotify.com/track/2ZMpOq0n124MRPO8vxAgCi) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [I'll](https://open.spotify.com/album/1dOgFP65sSxMncWqJ8FADo) | 4:05 | 2022-10-11 |  |
@@ -120,7 +121,7 @@
 | [story about you](https://open.spotify.com/track/2XxJ3ATExZmjEmxHqj1F53) | [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha), [Heiakim](https://open.spotify.com/artist/7CSdLmKke7VFyb0ZJfl3W1) | [story about you](https://open.spotify.com/album/54c5sAtiOXpwzOxWWrPgnx) | 2:56 | 2022-10-11 |  |
 | [Stray Cat](https://open.spotify.com/track/29xNgitB4Ymeg8P6GSBPib) | [Snail's House](https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY) | [Scenery](https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2) | 2:39 | 2022-10-11 |  |
 | [Sundays \- Just Piano Version](https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Just Piano](https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH) | 3:32 | 2022-10-11 |  |
-| [sunlight](https://open.spotify.com/track/1GLvTvJjbjIAwABTF0M5TB) | [\[.que\]](https://open.spotify.com/artist/01FtA9GKCdkhtXHZrxi1v7) | [memoria](https://open.spotify.com/album/12vcHn7h8yOVkjCXUK9TA1) | 2:36 | 2022-10-11 |  |
+| [sunlight](https://open.spotify.com/track/1GLvTvJjbjIAwABTF0M5TB) | [\[.que\]](https://open.spotify.com/artist/01FtA9GKCdkhtXHZrxi1v7) | [memoria](https://open.spotify.com/album/12vcHn7h8yOVkjCXUK9TA1) | 2:36 | 2022-10-11 | 2024-03-06 |
 | [Sunrise](https://open.spotify.com/track/4tZu0tRlNf8ZVsHUJd8vfy) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [Florent Garcia](https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa) | [Sunrise](https://open.spotify.com/album/6hI75GsBZzJ5MaMXgdgFeB) | 2:48 | 2022-10-11 |  |
 | [Sushi In Tokyo](https://open.spotify.com/track/4SYjKQ4GmsRNfC4odrRENP) | [DVNA](https://open.spotify.com/artist/6yADvjIe1epS2B0tUJcfu1) | [Sushi In Tokyo](https://open.spotify.com/album/4VaSmqWNTq0WV2YO0NKJHx) | 3:31 | 2022-10-11 |  |
 | [Suzune](https://open.spotify.com/track/2QTKEr2KL16Hr8rH0V4JAc) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Mentatea](https://open.spotify.com/album/0Gdtq1ZZ7G1LP1l9DJMWLe) | 3:19 | 2022-10-11 |  |

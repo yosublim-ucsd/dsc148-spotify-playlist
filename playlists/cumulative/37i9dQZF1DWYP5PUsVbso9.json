@@ -806,7 +806,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 138800,
       "name": "Her Name Is...",
       "url": "https://open.spotify.com/track/6v3ozeTaUGr5Wwmya1Xhg0"
@@ -1738,6 +1738,24 @@
       "duration_ms": 157746,
       "name": "Pass Me By",
       "url": "https://open.spotify.com/track/13ion8hnAYRdnLmuxddivf"
+    },
+    {
+      "album": {
+        "name": "Psycho",
+        "url": "https://open.spotify.com/album/61aNBBIj2eIN1HINjED86a"
+      },
+      "artists": [
+        {
+          "name": "Jack Kittel",
+          "url": "https://open.spotify.com/artist/5cXJERCnv50nZBXCk8Zq9X"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223351,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/6D8zVrXxtOfJ6JZXV1WYRh"
     },
     {
       "album": {

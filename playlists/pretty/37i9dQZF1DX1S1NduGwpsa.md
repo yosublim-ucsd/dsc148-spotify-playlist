@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Monty Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,368 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,419 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Never Doubt](https://open.spotify.com/track/2n3IsOUF3qp6tHHozmEKGy) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Never Doubt](https://open.spotify.com/album/7JBHfFH8n8HNHvwZTgMmr3) | 4:10 |
 | 50 | [again again](https://open.spotify.com/track/1FmMHIP94WklfLfs3svoYS) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM) | [again again](https://open.spotify.com/album/4SukI2v2HmHz4JD0pF35ZN) | 3:28 |
 
-Snapshot ID: `MCxhMDdmZjQxNjdiNDllMzAwMWMwY2NiYjRlMDAxOTIzN2ZlODlkNTBj`
+Snapshot ID: `MCxhZmE1YWJjZGE4YmIzMWIyOTY3ZGJhMDg4ZTJlYmFlMGJhZWU3NDhk`

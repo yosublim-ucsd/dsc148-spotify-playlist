@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,441 songs - 3 day 3 hr 14 min
+1,442 songs - 3 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Bebe](https://open.spotify.com/track/4CRenBwyMr2s4dFyzxnbKd) | [ZK](https://open.spotify.com/artist/4uvOZHqwKYuWz1ywTBN5En), [Fouli](https://open.spotify.com/artist/1IWMpdsWQeTckTQSGVNj8N) | [Bebe](https://open.spotify.com/album/5M4z4da4UCWPYYTZqY2OXL) | 2:04 | 2021-05-09 | 2021-05-17 |
 | [BED](https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED](https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U) | 2:58 | 2021-05-03 | 2021-06-20 |
 | [Bedste Lyfe](https://open.spotify.com/track/3PAJYdmKuOAMRoRRI8hYlI) | [L.O.C.](https://open.spotify.com/artist/0VUVvNFIyMeIWguwhhImIc) | [FUCK L.O.C.](https://open.spotify.com/album/5PU97X9n6qqsjWyMHBgfBc) | 2:42 | 2021-07-04 | 2021-07-05 |
+| [Before You Leave Me](https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Before You Leave Me](https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz) | 2:56 | 2024-03-05 |  |
 | [BEG FORGIVENESS](https://open.spotify.com/track/7DPUuTaTZCtQ6o4Xx00qzT) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 6:08 | 2024-02-12 | 2024-02-16 |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2021-06-16 | 2021-11-12 |
 | [Bejeweled](https://open.spotify.com/track/3qoftcUZaUOncvIYjFSPdE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:14 | 2022-10-24 | 2022-10-29 |
@@ -267,7 +268,7 @@
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-04-15 | 2023-08-16 |
 | [Daylight](https://open.spotify.com/track/4ZT0wGKwlJRjpMUuwZVy3p) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 2:44 | 2023-10-07 | 2023-10-12 |
 | [Daylight](https://open.spotify.com/track/51Zw1cKDgkad0CXv23HCMU) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:44 | 2022-05-21 | 2022-06-05 |
-| [De Brandvarme Piger](https://open.spotify.com/track/6Sp4jYPbumvEX5gBlKHOI9) | [BVP](https://open.spotify.com/artist/0RyxAwhzBFtm5P1RaE1KJZ) | [MGP 2024](https://open.spotify.com/album/3Av5h0fGOEkZ71t2McMWay) | 2:47 | 2024-02-25 |  |
+| [De Brandvarme Piger](https://open.spotify.com/track/6Sp4jYPbumvEX5gBlKHOI9) | [BVP](https://open.spotify.com/artist/0RyxAwhzBFtm5P1RaE1KJZ) | [MGP 2024](https://open.spotify.com/album/3Av5h0fGOEkZ71t2McMWay) | 2:47 | 2024-02-25 | 2024-03-06 |
 | [De Ensommes Gade](https://open.spotify.com/track/022JJHCzq3gBv39NpWxtOb) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [KNUSTE HJERTER HELER ALDRIG](https://open.spotify.com/album/4NWhKlIpVlBy1fzIGSNRcl) | 5:08 | 2023-02-11 | 2023-02-13 |
 | [De Forbudte Trin \(feat\. Benny Jamz\)](https://open.spotify.com/track/3TPqw77JJK9CEa3ZVuMEIO) | [Pooyandeh](https://open.spotify.com/artist/5UMWdEM0A0J6h27FgaICOS), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [De Forbudte Trin \(feat\. Benny Jamz\)](https://open.spotify.com/album/51dPCd7L8zdDZNzGeCASeV) | 2:43 | 2023-08-05 | 2023-08-15 |
 | [DEEBO](https://open.spotify.com/track/1tOj7aLUbjd38vA616WmJj) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [DEEBO](https://open.spotify.com/album/4wkNRCRELb8fa76bEykY2B) | 2:18 | 2022-10-29 | 2022-11-14 |
@@ -1220,7 +1221,7 @@
 | [Stjernekigger](https://open.spotify.com/track/3un3EfKXpZbOq0vzyeOKVV) | [Ukendt Kunstner](https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67) | [Dansktop](https://open.spotify.com/album/1XV38PhhJEcJ2pzhpKkor5) | 3:38 | 2023-05-13 | 2023-06-04 |
 | [Stjernerne](https://open.spotify.com/track/6bGEf1NKIcpuqlo4BfLy7V) | [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [Stjernerne](https://open.spotify.com/album/4JS69UxvpMFy6pemPtY6Dx) | 3:21 | 2021-03-27\* | 2021-08-24 |
 | [Stop The Rain](https://open.spotify.com/track/0VuDtcT7H4CAljLZEH021x) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:23 | 2021-10-31 | 2021-11-06 |
-| [Stop!](https://open.spotify.com/track/0HrfS7MVa7e6HNgFQuwFlP) | [Naya](https://open.spotify.com/artist/5z56QjQRpriNYzhnhPIcm0) | [MGP 2024](https://open.spotify.com/album/3Av5h0fGOEkZ71t2McMWay) | 2:45 | 2024-02-25 |  |
+| [Stop!](https://open.spotify.com/track/0HrfS7MVa7e6HNgFQuwFlP) | [Naya](https://open.spotify.com/artist/5z56QjQRpriNYzhnhPIcm0) | [MGP 2024](https://open.spotify.com/album/3Av5h0fGOEkZ71t2McMWay) | 2:45 | 2024-02-25 | 2024-03-06 |
 | [STOR MAN](https://open.spotify.com/track/3Ogy0Sog7JmnXBn43Dmyv0) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [STOR MAN](https://open.spotify.com/album/2zkfMfrIQicYXK6tEDlavG) | 3:03 | 2023-07-08 | 2023-07-23 |
 | [STOR MAND \(feat\. Andreas Odbjerg\)](https://open.spotify.com/track/0BGEImCBesJKIm5kZ0fOkH) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [Når sjælen kaster op](https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A) | 3:02 | 2022-10-22 |  |
 | [STOR MAND \(feat\. Andreas Odbjerg\)](https://open.spotify.com/track/56Ua2ypj5HWnotoIF3lEHc) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [STOR MAND \(feat\. Andreas Odbjerg\)](https://open.spotify.com/album/0ZjlCteIeQUApCh9TqoRPA) | 3:02 | 2021-08-15 | 2022-10-23 |
@@ -1311,7 +1312,7 @@
 | [Toxic](https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Toxic](https://open.spotify.com/album/4cmu24lnj0NI8lHG6vra6h) | 2:48 | 2021-11-09 | 2021-11-11 |
 | [Toxic](https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:18 | 2022-01-01 | 2022-01-03 |
 | [Toxic \(feat\. Suspekt\)](https://open.spotify.com/track/4gx8hWJDzS2sZwOSbR93fA) | [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J), [Suspekt](https://open.spotify.com/artist/74HomvqoUecDcUPRespyqg) | [Tessas Hævn](https://open.spotify.com/album/1R5nGV9rIDcpE4zgfJEQNN) | 3:00 | 2023-05-27 | 2023-06-04 |
-| [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-02-17 | 2024-03-04 |
+| [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-02-17 |  |
 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 | 2021-05-28 | 2021-08-22 |
 | [Treacherous Twins](https://open.spotify.com/track/4Flfb4fGscN9kXPOduQLrv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:00 | 2022-11-05 | 2022-11-07 |
 | [TREND](https://open.spotify.com/track/4ldUVJm1Fn8wJXZG61NhMv) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [TREND](https://open.spotify.com/album/3xTfbctkHro7SgTqufriak) | 2:35 | 2022-03-05 | 2022-03-30 |

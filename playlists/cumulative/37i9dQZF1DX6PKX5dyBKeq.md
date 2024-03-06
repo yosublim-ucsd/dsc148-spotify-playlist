@@ -4,7 +4,7 @@
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Headie One
 
-1,706 songs - 3 day 14 hr 39 min
+1,707 songs - 3 day 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,6 +390,7 @@
 | [Crossroads](https://open.spotify.com/track/7bG5PsVcvpYpk0Bf00s122) | [Mitch](https://open.spotify.com/artist/5wucmusGLo524OvL9MuQOX), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Crossroads](https://open.spotify.com/album/1Ef8XJJtqH816ekrV3Lio2) | 2:52 | 2022-02-11 | 2022-03-18 |
 | [Crud \(feat\. Giggs\)](https://open.spotify.com/track/4ztSuhQnS4j1vFjYRg4Wsc) | [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Conflict Of Interest](https://open.spotify.com/album/4GJnb2XwVlS2HrVsBa9fI4) | 5:31 | 2021-02-20 | 2021-04-17 |
 | [Cry](https://open.spotify.com/track/10dIUI2sI4IBXhgEfp5oIs) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Too Loyal for My Own Good](https://open.spotify.com/album/39SJXfvhdYT3pWyfKqLO83) | 2:40 | 2021-10-01 | 2021-10-30 |
+| [Cuban Links](https://open.spotify.com/track/18Npbw4oivVEK3dZ2UR6f2) | [Skrapz](https://open.spotify.com/artist/67R8l2OLqGwA9V4BKllYQY), [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Reflection](https://open.spotify.com/album/7hTRt1r8CvY0UFxdlLuhDt) | 3:22 | 2024-03-05 |  |
 | [Culture](https://open.spotify.com/track/5jfkErsgpDgdMQzO563tNL) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Gbagada Express](https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn) | 3:28 | 2023-03-08 | 2023-03-09 |
 | [Currency](https://open.spotify.com/track/6efzdUDDy1H2MH34eF2qcm) | [D'One](https://open.spotify.com/artist/1GJ03RP8m15KzoFVsvRKSx), [Tiny Boost](https://open.spotify.com/artist/7AXuWUXnSqeOfW4Wv29760) | [Currency](https://open.spotify.com/album/5gufPPtEBYAVMUp5fBRYAC) | 2:56 | 2023-11-24 | 2024-01-26 |
 | [Curse](https://open.spotify.com/track/1XGjVK0ftRqhmWRCF9m9ob) | [23 Unofficial](https://open.spotify.com/artist/3wvA1LQHLvXmkPFm3WtSrI) | [Curse](https://open.spotify.com/album/7ec7Xe7266U2G0cahuPiJo) | 2:57 | 2020-08-21 | 2020-09-26 |

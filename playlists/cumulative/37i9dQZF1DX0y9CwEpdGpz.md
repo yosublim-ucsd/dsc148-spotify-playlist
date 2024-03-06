@@ -4,7 +4,7 @@
 
 > Known as the Nation's Little Sister in South Korea.
 
-82 songs - 5 hr 7 min
+87 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,8 @@
 | [heart](https://open.spotify.com/track/5ktwBE88NKZSfmk6Lw2KhS) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [heart](https://open.spotify.com/album/3NYm5NdVNZsXNfn0ZVezWb) | 2:46 | 2022-03-17 |  |
 | [Hi spring Bye](https://open.spotify.com/track/2M7a2Us8CEU1HZHj70byGX) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 5:24 | 2022-03-17 |  |
 | [Hold my hand](https://open.spotify.com/track/0KVClXxsZEKkyWRNXeRFrE) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [My Last Love OST Part.4](https://open.spotify.com/album/58CBwM98Y356zD5AVGZkZG) | 3:15 | 2022-03-17 |  |
+| [Holssi](https://open.spotify.com/track/0UTtK6hregIBOsefavRI26) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [The Winning](https://open.spotify.com/album/08CvAj58nVMpq1Nw7T6maj) | 3:10 | 2024-03-05 |  |
+| [I stan U](https://open.spotify.com/track/0NnXG9qhpf0E6elVQdWLE7) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [The Winning](https://open.spotify.com/album/08CvAj58nVMpq1Nw7T6maj) | 3:12 | 2024-03-05 |  |
 | [Into the I\-LAND](https://open.spotify.com/track/4YvtgtEH5E1pahZu9uzKRy) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [I\-LAND Part.1 Signal Song](https://open.spotify.com/album/5hytFjwacV5ObltOLMAqfA) | 3:37 | 2022-03-17 |  |
 | [Jam Jam](https://open.spotify.com/track/3h7WIL3B6nP3171zl6HWj8) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 3:38 | 2022-03-17 |  |
 | [Knees](https://open.spotify.com/track/3Sc3OHN2EnhsKwzt7hMFKQ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [CHAT\-SHIRE](https://open.spotify.com/album/3rMvAe0zU0pJRnRa7Rfc1U) | 4:42 | 2022-03-17 |  |
@@ -54,6 +56,7 @@
 | [Love of B](https://open.spotify.com/track/7b3p9nGAWa2fByucNemToA) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Modern Times](https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe) | 3:11 | 2022-03-17 |  |
 | [Love poem](https://open.spotify.com/track/7HrE6HtYNBbGqp5GmHbFV0) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Love poem](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) | 4:18 | 2022-03-17 |  |
 | [Love wins all](https://open.spotify.com/track/0djkJ3iAARXRCbfbwwVc3o) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Love wins all](https://open.spotify.com/album/2bwwRhKbLeD3LvNDXauV2T) | 4:31 | 2024-01-24 |  |
+| [Love wins all](https://open.spotify.com/track/53g7ZIvZE47H9pwXPFYMCH) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [The Winning](https://open.spotify.com/album/08CvAj58nVMpq1Nw7T6maj) | 4:31 | 2024-03-05 |  |
 | [Lullaby](https://open.spotify.com/track/7BUtoP9NXEe7MgWvIG2KGE) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Love poem](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) | 4:21 | 2022-03-17 |  |
 | [Meaning of you](https://open.spotify.com/track/3ucfniv4fLB3RPA6N9iLM2) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [Kim Chang\-Wan](https://open.spotify.com/artist/2yMDYqTvjFeBZcGC4ZMMVH) | [A flower bookmark](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | 3:15 | 2022-03-17 |  |
 | [Merry Christmas ahead \(feat.Chundung\)](https://open.spotify.com/track/6I9Y6PHTWv72fgQV3tIHt0) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [Chundung](https://open.spotify.com/artist/52KEoFZCGGap8hZHtOgENt) | [REAL](https://open.spotify.com/album/4WY1pPvmP9sBlVICuPxBQh) | 4:28 | 2022-03-17 |  |
@@ -71,7 +74,9 @@
 | [People Pt.2 \(feat\. IU\)](https://open.spotify.com/track/4EaQ0ouIydfeAgQUz284EF) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [People Pt.2 \(feat\. IU\)](https://open.spotify.com/album/1l12B55qdesQorPcQLJDRo) | 3:33 | 2023-05-05 |  |
 | [Pierrot laughs at us](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | 3:53 | 2022-03-17 |  |
 | [Red Queen \(feat\. Zion.T\)](https://open.spotify.com/track/1dlKwoKIZkDPqFZJfR4PeV) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [CHAT\-SHIRE](https://open.spotify.com/album/3rMvAe0zU0pJRnRa7Rfc1U) | 3:32 | 2022-03-17 |  |
+| [Shh.\. \(Feat\. HYEIN, WONSUN JOE & Special Narr\. Patti Kim\)](https://open.spotify.com/track/20uUaRkfRJZG15mXfn7LaU) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [HYEIN](https://open.spotify.com/artist/01BBFQPvi8ywBqHPzWzoyU), [Joe Won Sun](https://open.spotify.com/artist/2rbcCyEKbnxdEukZHHGnby), [Patti Kim](https://open.spotify.com/artist/3YLoKDj5EXsg3AorXDgLlz) | [The Winning](https://open.spotify.com/album/08CvAj58nVMpq1Nw7T6maj) | 3:46 | 2024-03-05 |  |
 | [Shoes](https://open.spotify.com/track/2FDTnypxiwIZNjoO9T1j6O) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [CHAT\-SHIRE](https://open.spotify.com/album/3rMvAe0zU0pJRnRa7Rfc1U) | 3:35 | 2022-03-17 |  |
+| [Shopper](https://open.spotify.com/track/1c6kkrWnpy68eYDfBdxNtF) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [The Winning](https://open.spotify.com/album/08CvAj58nVMpq1Nw7T6maj) | 3:35 | 2024-03-05 |  |
 | [Sleepless rainy night](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | 4:26 | 2022-03-17 |  |
 | [SOGYEOKDONG](https://open.spotify.com/track/5Qz6JiSYJkiHFoVGqUzngr) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [SOGYEOKDONG](https://open.spotify.com/album/1hzwT3xpQGAH6qnanzcl30) | 3:52 | 2022-03-17 |  |
 | [SoulMate \(feat\. IU\)](https://open.spotify.com/track/1pz24zu5H9A0S1a2NKT4F0) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [SoulMate \(feat\. IU\)](https://open.spotify.com/album/0aDnkPxX660ezxCWBcqzVo) | 3:39 | 2022-03-17 |  |

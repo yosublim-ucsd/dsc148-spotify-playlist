@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUmQhB7PvFH.md) - [plain]
 
 > 千禧後第一個十年，讓我們藉著旋律回味...Cover: 王心凌 \(Cyndi Wang\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,680 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,762 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUmQhB7PvFH.md) - [plain]
 | 49 | [阿飛的小蝴蝶](https://open.spotify.com/track/0lgx4aYzm8PaYW2mIVwEnj) | [Jam Hsiao](https://open.spotify.com/artist/4AJcTAMOLkRl3vf4syay8Q) | [王妃](https://open.spotify.com/album/7pASgjz9BMkv9cAZMWYhfV) | 4:16 |
 | 50 | [夜盲症](https://open.spotify.com/track/21Bpd01jqHURDZmwrNO5As) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [陌生人](https://open.spotify.com/album/2fyyCvT7n5lCS6F45rexOg) | 3:53 |
 
-Snapshot ID: `MCwxYTYzODM5MzZjODJiMDZkODg0YWM2M2Y3N2M3ZTEwYzc5ZjRlNjEx`
+Snapshot ID: `MCxmMGYwYWIxYjg0NjM4ZjVhNmJlYjg3NTg3NTE0NWU4YmU2NDE1MzZi`

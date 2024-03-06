@@ -4,7 +4,7 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
 
-353 songs - 23 hr 7 min
+354 songs - 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Angels We Have Heard on High](https://open.spotify.com/track/1tMevGb3Z4DLprCH7qV2By) | [Central Live](https://open.spotify.com/artist/4wgCtJHJAspY8Pwr09Cgkn) | [Thrill of Hope](https://open.spotify.com/album/741AlY3qs4A7IKAWlHQUIq) | 3:44 | 2021-12-24 | 2022-07-25 |
 | [Angels We Have Heard on High](https://open.spotify.com/track/1ViTV7qA8Yxdnd3BWxoCGk) | [Jamie Kimmett](https://open.spotify.com/artist/6149cbbptDgml1rjD0qOUG) | [Angels We Have Heard on High](https://open.spotify.com/album/089uYze5fJAmXWCjpVDqOO) | 2:34 | 2021-12-11 |  |
 | [Angels We Have Heard On High](https://open.spotify.com/track/0UinWNfK7eaaLrAQwkFGbT) | [Leon Timbo](https://open.spotify.com/artist/5sh0bpSEIvnWiJxZKFhJ8S), [Jesse Ray Miller](https://open.spotify.com/artist/1QNU5uAfpMnNSdFYsaiXfG) | [Angels We Have Heard On High](https://open.spotify.com/album/26vLrELVyFoClbMNH1QXbf) | 2:40 | 2021-12-24 | 2022-07-25 |
-| [Angels We Have Heard On High](https://open.spotify.com/track/7dm5gFgXNGKB0UzRiK7XDx) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Let It Snow](https://open.spotify.com/album/7ABzUdF5VF3PGh6psVjRmq) | 3:26 | 2021-12-11 |  |
+| [Angels We Have Heard On High](https://open.spotify.com/track/7dm5gFgXNGKB0UzRiK7XDx) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Let It Snow](https://open.spotify.com/album/7ABzUdF5VF3PGh6psVjRmq) | 3:26 | 2021-12-11 | 2024-03-06 |
 | [Angels We Have Heard On High](https://open.spotify.com/track/2mCGyYZna7YLFPonIziP0x) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Tina Colón Williams](https://open.spotify.com/artist/2BH2hojvyoVD7WKMWU8TNl) | [Angels We Have Heard On High](https://open.spotify.com/album/5dQjOApHr2xDsYjfmmwCF2) | 3:49 | 2021-12-24 | 2022-07-29 |
 | [Angels We Have Heard on High \(We Won't Be Silent\)](https://open.spotify.com/track/40Uhr0Uf07oR7dst3und90) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Cade Thompson Christmas](https://open.spotify.com/album/23RLVa9P5Fe8DbxNEUAXf0) | 3:01 | 2021-12-11 | 2022-07-28 |
 | [Angels We Have Heard on High \(We Won't Be Silent\)](https://open.spotify.com/track/4oS4cWE5d50Uj1kOjhvf9W) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Cade Thompson Christmas](https://open.spotify.com/album/5UZMSWBi7ppVTQeHm4SlTR) | 3:01 | 2022-12-11 |  |
@@ -109,6 +109,7 @@
 | [Go Tell It on the Mountain \(feat\. Home Free\)](https://open.spotify.com/track/4QRE8h1gpjERky2LpAedbY) | [Texas Hill](https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq), [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Christmas Carols, Vol\. 1](https://open.spotify.com/album/7bWrPU9hFL7sbtpDtvjrIM) | 3:13 | 2022-12-11 | 2023-11-04 |
 | [Go Tell It On The Mountain \- Live](https://open.spotify.com/track/5bWg3hp1EpcNvpx2oIYOoZ) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [Go Tell It On The Mountain \(Live\)](https://open.spotify.com/album/35g98G1HBr3Dt5hzzmHBR6) | 3:22 | 2021-12-24 | 2022-07-29 |
 | [God Made A Way](https://open.spotify.com/track/6FRr6Qo9MGvJIPUo15a4ax) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj), [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [God Made A Way](https://open.spotify.com/album/1sHDvHOITzgodxNW43WUtR) | 3:30 | 2022-11-26 |  |
+| [God Rest](https://open.spotify.com/track/0EEztnoPFhtd5SlfbS6qeJ) | [Awaken Music](https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9) | [What A Beautiful Night](https://open.spotify.com/album/0EeEx2laes67i5MaTKmvNf) | 3:50 | 2023-12-15 |  |
 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/2wqo9k9fUsx4L3HePw7BDl) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Drummer Boy](https://open.spotify.com/album/0qTbB09vNXRSsguZlNVZHU) | 3:03 | 2021-12-24 | 2022-07-29 |
 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/0ReTcEous3qIW3iihuCHX4) | [The Kingdom Choir](https://open.spotify.com/artist/3OZZeMIZnTvQKjfQEEqx6C) | [Together Again](https://open.spotify.com/album/3vRgpU0STMNzI1B2em1Rnk) | 2:53 | 2021-12-24 | 2022-07-29 |
 | [God Rest Ye Merry Gentlemen \(feat\. Sarah Reeves\)](https://open.spotify.com/track/5y5pMlMKwHKD8T2Q9Jx6B0) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Decade the Halls, Vol\. 1](https://open.spotify.com/album/7gEn3KzXsT2odUlIKtsGd2) | 3:46 | 2021-12-11 | 2023-12-16 |

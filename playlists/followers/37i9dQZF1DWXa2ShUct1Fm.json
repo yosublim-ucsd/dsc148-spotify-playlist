@@ -1,5 +1,5 @@
 {
-  "2024-03-05": 834456,
+  "2024-03-06": 834676,
   "date_first_scraped": "2022-05-30",
   "description": "Say the name, Seventeen! Carats, get ready to slip into the diamond life with your 13 shining diamonds.",
   "name": "This Is SEVENTEEN",
@@ -1371,6 +1371,24 @@
       "duration_ms": 205133,
       "name": "God of Music (Inst.)",
       "url": "https://open.spotify.com/track/0Qaw6haFnOnzDxQvXnxmGG"
+    },
+    {
+      "album": {
+        "name": "Goddess of Despair",
+        "url": "https://open.spotify.com/album/2pF0taAwEGNMFRfAyvWGnv"
+      },
+      "artists": [
+        {
+          "name": "HOSHI",
+          "url": "https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219760,
+      "name": "Goddess of Despair",
+      "url": "https://open.spotify.com/track/1kMuSPY0CrZsrrUfbGTbnf"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Tembang Jowo lawas pancen saget nrenyuhake ati
 
-33 songs - 2 hr 37 min
+34 songs - 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Tulung](https://open.spotify.com/track/565PueGipMUc719CembSCg) | [Arda Tatu](https://open.spotify.com/artist/0XoYout1dRTYkg5R2PI9bq) | [Tulung](https://open.spotify.com/album/29gKDTVr8V8YY2BDRWKdUV) | 4:26 | 2021-09-09 |  |
 | [Walang Kekek](https://open.spotify.com/track/036ARyk2seExNK6AR0sxWK) | [Mus Mulyadi](https://open.spotify.com/artist/4WnEy38kT3nojRrIlbxlu8), [Sriyatun](https://open.spotify.com/artist/1sr980Ysv9HpJHyGmGct5v) | [Gamelan Campur Sari Walang Kekek](https://open.spotify.com/album/35lvs1fRKm1AvKBkzwo6KQ) | 5:20 | 2021-09-09 |  |
 | [Yen Ing Tawang](https://open.spotify.com/track/6lUr62TwZQX2IjE6bgwsIi) | [Didi Kempot](https://open.spotify.com/artist/0obaLCCWO42LOegAmHhEC4) | [Emas Didi Kempot Yen Ing Tawang](https://open.spotify.com/album/5AtrWohkzLw7bqiyuQutt1) | 4:00 | 2021-09-09 |  |
-| [Yen Ing Tawang Ana Lintang](https://open.spotify.com/track/5xb4N5tuOUiMUKBpXjz24L) | [Waldjinah](https://open.spotify.com/artist/5YT20xTlcZCBOKpJ0qaceh) | [Album Emas Pop Jawa WALDJINAH Vol\. 1](https://open.spotify.com/album/3f8EroNL1dc01rF1bcenF9) | 5:02 | 2021-09-09 |  |
+| [Yen Ing Tawang Ana Lintang](https://open.spotify.com/track/2bUNxmVxYx3jQabY7auzGn) | [Waldjinah](https://open.spotify.com/artist/5YT20xTlcZCBOKpJ0qaceh) | [Album Emas Pop Jawa Waldjinah, Vol\. 1](https://open.spotify.com/album/6TxMzEMJFb9kh6ma3LU20h) | 5:02 | 2021-09-09 |  |
+| [Yen Ing Tawang Ana Lintang](https://open.spotify.com/track/5xb4N5tuOUiMUKBpXjz24L) | [Waldjinah](https://open.spotify.com/artist/5YT20xTlcZCBOKpJ0qaceh) | [Album Emas Pop Jawa WALDJINAH Vol\. 1](https://open.spotify.com/album/3f8EroNL1dc01rF1bcenF9) | 5:02 | 2021-09-09 | 2024-03-06 |
 
 \*This playlist was first scraped on 2022-12-15. Prior content cannot be recovered.

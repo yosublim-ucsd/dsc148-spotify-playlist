@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > Canzoni che ti fanno ribaltare i tavoli \(╯°□°\)╯︵ ┻━┻ Bartolini, Tripolare in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,952 likes - 70 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,966 likes - 70 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 63 | [COME UN FILM](https://open.spotify.com/track/1jD0MiDMO54bR1cJ15qxNu) | [ELETTRICA](https://open.spotify.com/artist/2ZXPwoWGIuwqjLNLboL3pa) | [COME UN FILM](https://open.spotify.com/album/62Q4gFNLR8MdqW6wnL7lZB) | 2:50 |
 | 64 | [OTTOBRE](https://open.spotify.com/track/2EaYpdHtbZOpbhz7xnEEjz) | [TRC](https://open.spotify.com/artist/5DB3toEwvOwRexy5lDhjZo) | [OTTOBRE](https://open.spotify.com/album/6pJMdxKlCy3OX0mVqHbbi9) | 2:53 |
 | 65 | [Con Nessuno \(feat\. Øjne\)](https://open.spotify.com/track/6VEAICgujKbc3cAYnqv3dq) | [WEL](https://open.spotify.com/artist/23iYgEmMtShtCyd0S29K3v), [Why Everyone Left](https://open.spotify.com/artist/3ygHyLDzZuoXW6nPeUNRhQ), [Øjne](https://open.spotify.com/artist/0zZRbZrBprUwWRKnbaIEXq) | [Con Nessuno \(feat\. Øjne\)](https://open.spotify.com/album/0F5mnWJlABzWDk4IKelAE2) | 2:49 |
-| 66 | [hostage](https://open.spotify.com/track/4NK5e074Va0Iy5kou2PbmY) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [hostage](https://open.spotify.com/album/3ZYIsv7e4991HN4dsKO7Hc) | 2:43 |
+| 66 | [hostage](https://open.spotify.com/track/4c1prDEgRB8bDIEiuF1gcQ) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [hostage](https://open.spotify.com/album/6wMJeF1ICiUr9r3ovHFzWD) | 2:43 |
 | 67 | [venus fly trap](https://open.spotify.com/track/25oJjxP1cVjghqjfwEVPG6) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 4:55 |
 | 68 | [paranoie lowcost](https://open.spotify.com/track/4c7Uw6OhH5tYKw6W2LluQk) | [3win$](https://open.spotify.com/artist/6K3XJR65jyl05A6rx2s0fY), [Nasty](https://open.spotify.com/artist/6qVd6sJa9iGbakgovgExKC) | [paranoie lowcost](https://open.spotify.com/album/5NmfFLvPPXmX8VICqOruf0) | 3:32 |
 | 69 | [ANIME // LACRIME](https://open.spotify.com/track/2uXMhura9A8WAQ6hJhwWVb) | [$uicide Gvng](https://open.spotify.com/artist/08sHWmBiGMbrPSWDco4zfb) | [ANIME // LACRIME](https://open.spotify.com/album/0nNR2YC1WWGwxjd4X4KbJU) | 2:58 |
 | 70 | [NARCISISTA BAMBINA DEPRESSA](https://open.spotify.com/track/2MYVS1724Vd9x3JISFCUeC) | [Zame](https://open.spotify.com/artist/5NNSuHiLUgKjKVlEcB5Zdb), [Mr\. Ugo](https://open.spotify.com/artist/7uEtBgdrg5MIlcoE4IhZ5H) | [NARCISISTA BAMBINA DEPRESSA](https://open.spotify.com/album/3kmnImSBKrya26vvpXolO0) | 2:05 |
 
-Snapshot ID: `MCw2YTllYjlhMDkzMzE5ZWE4MDg4ZTc2ZjZiNzE4MzEyMDUxZDczNWI3`
+Snapshot ID: `MCw4OTdlODBkMGI1ZTM4MDA5ZGRjMGQzOWQxYjY0ZWJlZGQ4YmE0MzE2`

@@ -1,5 +1,5 @@
 {
-  "2024-03-05": 1,
+  "2024-03-06": 1,
   "date_first_scraped": "2023-02-09",
   "description": "",
   "name": "main ",
@@ -139,7 +139,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 208257,
       "name": "100 Shooters (feat. Meek Mill & Doe Boy)",
       "url": "https://open.spotify.com/track/3Uoy2lrZdhocMWO0jIdjAp"
@@ -251,7 +251,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 140120,
       "name": "2019",
       "url": "https://open.spotify.com/track/0qYotAhNzAECQYzv411A2C"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 124806,
       "name": "2021 Vibes",
       "url": "https://open.spotify.com/track/6TJaoJX8VhptZ0DkcsjWaR"
@@ -509,7 +509,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 153043,
       "name": "4GSELLER!",
       "url": "https://open.spotify.com/track/1kUqWeF4LWFS2yKXUPxOr8"
@@ -633,7 +633,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 158938,
       "name": "A Fan's Mail (Tron Song Suite II)",
       "url": "https://open.spotify.com/track/6qXNCWY49AaZ5nfp9AJIc5"
@@ -673,6 +673,24 @@
       "duration_ms": 158825,
       "name": "A Minute(lone)",
       "url": "https://open.spotify.com/track/7t9cWdvscrbqrsSigEV0Dv"
+    },
+    {
+      "album": {
+        "name": "Did you know that there's a tunnel under Ocean Blvd",
+        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433916,
+      "name": "A&W",
+      "url": "https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE"
     },
     {
       "album": {
@@ -937,7 +955,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 165517,
       "name": "Ampd Up (feat. Mouse On Tha Track)",
       "url": "https://open.spotify.com/track/2mbzyuS4fL72fHrmiWObXQ"
@@ -1047,7 +1065,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 274480,
       "name": "Auditorium",
       "url": "https://open.spotify.com/track/7dGG7W2p1qUzbf7KwZBAsZ"
@@ -1231,7 +1249,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 169240,
       "name": "Bad Man",
       "url": "https://open.spotify.com/track/5RhZdLHnlX7xnBb2KaofGL"
@@ -1589,10 +1607,28 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 145411,
       "name": "Blue",
       "url": "https://open.spotify.com/track/07pEbfPpD6FvyWr6BsQrAG"
+    },
+    {
+      "album": {
+        "name": "BLUE LIPS",
+        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235317,
+      "name": "Blueslides",
+      "url": "https://open.spotify.com/track/7u1P36qRqrSNrXAp98cyp1"
     },
     {
       "album": {
@@ -1879,7 +1915,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 141093,
       "name": "Broccoli & Cheese",
       "url": "https://open.spotify.com/track/7HI9qCv1vRyn59iJGpjLHx"
@@ -2101,7 +2137,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 198173,
       "name": "Cartier Gucci Scarf (feat. Lil Duke)",
       "url": "https://open.spotify.com/track/3TWSar7EBNWZVeEWqDSjpw"
@@ -2137,7 +2173,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 124800,
       "name": "Castle",
       "url": "https://open.spotify.com/track/4Tq5SHIdGg2Q1DsrDY5NIF"
@@ -2265,7 +2301,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 156880,
       "name": "Child (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/4hyETm3W2ie4D0kFH0tMQ6"
@@ -2331,6 +2367,28 @@
       "duration_ms": 127181,
       "name": "Closing The Book",
       "url": "https://open.spotify.com/track/6ApgXre9x2tVCzuwPPdZ0o"
+    },
+    {
+      "album": {
+        "name": "After TTBR",
+        "url": "https://open.spotify.com/album/6VyWxik4npLtHuYKJ66zsa"
+      },
+      "artists": [
+        {
+          "name": "Glokk40Spaz",
+          "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
+        },
+        {
+          "name": "OsamaSon",
+          "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127522,
+      "name": "Codeine Dreamz (feat. OsamaSon)",
+      "url": "https://open.spotify.com/track/6vhyk04jHbrtKEXcyLdKsL"
     },
     {
       "album": {
@@ -2406,6 +2464,24 @@
     },
     {
       "album": {
+        "name": "BLUE LIPS",
+        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172888,
+      "name": "Cooties",
+      "url": "https://open.spotify.com/track/6B7FWe7D3c4LKO5cSz19iD"
+    },
+    {
+      "album": {
         "name": "BABY WHOA",
         "url": "https://open.spotify.com/album/4LwBYHKVRaFll4wNsVA2TV"
       },
@@ -2475,6 +2551,24 @@
       "duration_ms": 216052,
       "name": "Counterfeit",
       "url": "https://open.spotify.com/track/0nKvSEAxTM0CeWllXv0Ay8"
+    },
+    {
+      "album": {
+        "name": "Jard\u00edn",
+        "url": "https://open.spotify.com/album/3F10bARKBtqRdRywrjwAti"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Garz\u00f3n-Montano",
+          "url": "https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230460,
+      "name": "Crawl",
+      "url": "https://open.spotify.com/track/5wWW7oHGBRgVAaKEoGFvOf"
     },
     {
       "album": {
@@ -2623,7 +2717,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 192986,
       "name": "Death Row",
       "url": "https://open.spotify.com/track/632xdEmAyhHtn7dsaimP0r"
@@ -2649,7 +2743,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 261066,
       "name": "DeathStar (feat. Trippie Redd, KanKan)",
       "url": "https://open.spotify.com/track/2h7enN7cXVsN6s54d9oGqA"
@@ -3062,6 +3156,28 @@
     },
     {
       "album": {
+        "name": "After TTBR",
+        "url": "https://open.spotify.com/album/6VyWxik4npLtHuYKJ66zsa"
+      },
+      "artists": [
+        {
+          "name": "Glokk40Spaz",
+          "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
+        },
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177699,
+      "name": "Enough Ammo (Remix) [feat. Young Nudy]",
+      "url": "https://open.spotify.com/track/3KhzBmmD2uvj46uU4GUZXx"
+    },
+    {
+      "album": {
         "name": "Boomin' Words from Hell (Classics Remastered)",
         "url": "https://open.spotify.com/album/0b3VGaoEN6nVMg5iOTUnyh"
       },
@@ -3251,7 +3367,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 175360,
       "name": "Feather (feat. Cise Starr & Akin from CYNE)",
       "url": "https://open.spotify.com/track/2ej1A2Ze6P2EOW7KfIosZR"
@@ -3269,7 +3385,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 150401,
       "name": "Fighting My Demons",
       "url": "https://open.spotify.com/track/2c7sRekhMGlj7u1WIIzoQu"
@@ -3341,7 +3457,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 192727,
       "name": "Flooded The Face",
       "url": "https://open.spotify.com/track/4daEMLSZCgZ2Mt7gNm2SRa"
@@ -3399,10 +3515,50 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 117551,
       "name": "For Da Flex",
       "url": "https://open.spotify.com/track/1U2XsDhee3a0uJayBKA6dy"
+    },
+    {
+      "album": {
+        "name": "4L",
+        "url": "https://open.spotify.com/album/26LsyqIbRQJzO1TPE5icl2"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191947,
+      "name": "For\u00ebally / 4Ly",
+      "url": "https://open.spotify.com/track/1aztkqMhtL4XSuGASmEeCo"
+    },
+    {
+      "album": {
+        "name": "BLUE LIPS",
+        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        },
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281560,
+      "name": "Foux (feat. Ab-Soul)",
+      "url": "https://open.spotify.com/track/6UqgBwNMKmhjDuN0OcVJA0"
     },
     {
       "album": {
@@ -3724,6 +3880,24 @@
     },
     {
       "album": {
+        "name": "BLUE LIPS",
+        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126961,
+      "name": "Germany 86'",
+      "url": "https://open.spotify.com/track/2WpIFDreMCm2TvSwAeOihA"
+    },
+    {
+      "album": {
         "name": "Yes Lawd!",
         "url": "https://open.spotify.com/album/0K3FiXt6ekJTWaUku3LpHL"
       },
@@ -3801,7 +3975,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 243133,
       "name": "Give Up the Goods (Just Step) (feat. Big Noyd)",
       "url": "https://open.spotify.com/track/61VlApj8p2ZaP0WTunTrKT"
@@ -3823,6 +3997,24 @@
       "duration_ms": 133490,
       "name": "globe",
       "url": "https://open.spotify.com/track/7sMpcpvDcXqRu6fwRj4D2H"
+    },
+    {
+      "album": {
+        "name": "After TTBR",
+        "url": "https://open.spotify.com/album/6VyWxik4npLtHuYKJ66zsa"
+      },
+      "artists": [
+        {
+          "name": "Glokk40Spaz",
+          "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181108,
+      "name": "Glokk'$ on Me",
+      "url": "https://open.spotify.com/track/5LVEZVXeSekSo7xbvQzdXP"
     },
     {
       "album": {
@@ -3979,7 +4171,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 131000,
       "name": "Gotta Blast (feat. Diego Money & Bandman Fari)",
       "url": "https://open.spotify.com/track/7de1qGSxUfnKLNqncRksuk"
@@ -4015,7 +4207,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 89730,
       "name": "Grab Da Door!",
       "url": "https://open.spotify.com/track/3CVy14A3kKJpS0VnrygIQr"
@@ -4131,7 +4323,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 126432,
       "name": "Hanukkahween 2",
       "url": "https://open.spotify.com/track/0PYTrLhiNlgOaEPDxbwx3j"
@@ -4149,7 +4341,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 124567,
       "name": "Hardcore",
       "url": "https://open.spotify.com/track/39xDX63yonTblgoHdTKLtI"
@@ -4233,7 +4425,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 149986,
       "name": "Heat Check",
       "url": "https://open.spotify.com/track/4X8P4arz5eir4T1VdieWvv"
@@ -4269,7 +4461,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 230554,
       "name": "HEAVEN TO ME",
       "url": "https://open.spotify.com/track/4Z1ZlABSKDlVByJL3y5OVs"
@@ -4586,6 +4778,24 @@
     },
     {
       "album": {
+        "name": "After TTBR",
+        "url": "https://open.spotify.com/album/6VyWxik4npLtHuYKJ66zsa"
+      },
+      "artists": [
+        {
+          "name": "Glokk40Spaz",
+          "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133896,
+      "name": "How 2 Drive",
+      "url": "https://open.spotify.com/track/1V6hdfzznWIayEAIzVrN1J"
+    },
+    {
+      "album": {
         "name": "Mr.Perfect",
         "url": "https://open.spotify.com/album/0oamIV3Wgjs50VmaKWNiZ4"
       },
@@ -4637,7 +4847,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 184426,
       "name": "How it go",
       "url": "https://open.spotify.com/track/6yTy7zuNnUglg5EIlD5vX4"
@@ -4677,7 +4887,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 201746,
       "name": "I Bought Her (feat. Lil Duke)",
       "url": "https://open.spotify.com/track/7HPUVxJdwGMujRmstBlvp7"
@@ -4899,7 +5109,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 292666,
       "name": "If I Like It, I Do It",
       "url": "https://open.spotify.com/track/6DpVRGSelmlUqjOaXrlS3N"
@@ -5225,7 +5435,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 95687,
       "name": "It\u2019s Over",
       "url": "https://open.spotify.com/track/6dhLnWxKnrrCszvUKRPkNq"
@@ -5243,7 +5453,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 297000,
       "name": "Jail pt 2",
       "url": "https://open.spotify.com/track/7f1w2rZoIf7g56McEUTh5W"
@@ -5297,7 +5507,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 158515,
       "name": "Jennifer\u2019s Body",
       "url": "https://open.spotify.com/track/04hgBWsBDEyVP8pH0BCZbG"
@@ -5485,7 +5695,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 221250,
       "name": "Keep My Spirit Alive pt 2",
       "url": "https://open.spotify.com/track/2CxKBeqB9MPl8aT12ukLjF"
@@ -5725,7 +5935,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 153429,
       "name": "Lean Habits",
       "url": "https://open.spotify.com/track/1D8K6DYRkC0sk9418K17hH"
@@ -5826,6 +6036,24 @@
     },
     {
       "album": {
+        "name": "After TTBR",
+        "url": "https://open.spotify.com/album/6VyWxik4npLtHuYKJ66zsa"
+      },
+      "artists": [
+        {
+          "name": "Glokk40Spaz",
+          "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111304,
+      "name": "Levels Vol. 2",
+      "url": "https://open.spotify.com/track/4j8F7ySiiH5wm7vP66n0kk"
+    },
+    {
+      "album": {
         "name": "Homixide Lifestyle",
         "url": "https://open.spotify.com/album/4vw2hN5xBkFXRBAfnGjUmK"
       },
@@ -5873,7 +6101,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 209253,
       "name": "Light It Up",
       "url": "https://open.spotify.com/track/41mzryVlFLlz6b1BCtJAjx"
@@ -5961,7 +6189,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 132035,
       "name": "Lil O",
       "url": "https://open.spotify.com/track/4XQYw27IBSTWlqedgSBovL"
@@ -6171,7 +6399,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 163071,
       "name": "LOST FOREVER (feat. Westside Gunn)",
       "url": "https://open.spotify.com/track/7EiUtdeoWcKqLi5ELZCjYf"
@@ -6229,7 +6457,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 144651,
       "name": "Low Down",
       "url": "https://open.spotify.com/track/5m0yZ33oOy0yYBtdTXuxQe"
@@ -6283,7 +6511,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 211983,
       "name": "Lunchin",
       "url": "https://open.spotify.com/track/2jIU2VR6uIKBCJCpFi3aL4"
@@ -6345,7 +6573,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 336866,
       "name": "Luv(sic.) pt3 (feat. Shing02)",
       "url": "https://open.spotify.com/track/4xlpJ99yL9xYQtzG6c3hwk"
@@ -6363,7 +6591,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 190824,
       "name": "Luxury",
       "url": "https://open.spotify.com/track/0EXvgyk5LouKWAu1b7Kmgc"
@@ -6501,7 +6729,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 193106,
       "name": "Mic Line",
       "url": "https://open.spotify.com/track/0pu6JO1sPqW1TxE0nQC080"
@@ -6613,7 +6841,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 169133,
       "name": "Molly",
       "url": "https://open.spotify.com/track/78voFwSSy0KLQw7BhHUAyn"
@@ -6693,7 +6921,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 112300,
       "name": "Mr.RipOff",
       "url": "https://open.spotify.com/track/1gsV6mdCveTaQ8c0POthMu"
@@ -6990,6 +7218,28 @@
     },
     {
       "album": {
+        "name": "Magic 3",
+        "url": "https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190067,
+      "name": "Never Die (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/5uTQKPRk3rfOOt97WIHf8f"
+    },
+    {
+      "album": {
         "name": "Purple Reign",
         "url": "https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2"
       },
@@ -7023,7 +7273,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 160776,
       "name": "Never Hating (feat. Young Thug)",
       "url": "https://open.spotify.com/track/1Py8c3dkLF0YczcAyBFBEM"
@@ -7243,7 +7493,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 131573,
       "name": "No Hook",
       "url": "https://open.spotify.com/track/2vW0uLpB4C9FS1EnNuQRPz"
@@ -7546,6 +7796,28 @@
     },
     {
       "album": {
+        "name": "BLUE LIPS",
+        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291038,
+      "name": "oHio (feat. Freddie Gibbs)",
+      "url": "https://open.spotify.com/track/4Aa6NtW6JQcFEvR831K8xu"
+    },
+    {
+      "album": {
         "name": "XO",
         "url": "https://open.spotify.com/album/0CDS6LJ9nlplHklEIgkCtr"
       },
@@ -7647,7 +7919,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 102421,
       "name": "On That Time",
       "url": "https://open.spotify.com/track/3dl8bSF08LQfCf4T6CCksf"
@@ -8011,7 +8283,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 194453,
       "name": "Palisades, CA",
       "url": "https://open.spotify.com/track/70wd1fE44Rb9mnZMaApmkc"
@@ -8055,7 +8327,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 127971,
       "name": "Paranoid (feat. Destroy Lonely)",
       "url": "https://open.spotify.com/track/2l48XirhkqQ5qRqtwItNXn"
@@ -8131,7 +8403,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 225381,
       "name": "Pedestrian",
       "url": "https://open.spotify.com/track/30YhyUmaegqSxsBICCeVzY"
@@ -8229,7 +8501,7 @@
       ],
       "date_added": "2023-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 99683,
       "name": "Pissed Off",
       "url": "https://open.spotify.com/track/3oFiO1MyubceRw2OheuKwJ"
@@ -8529,7 +8801,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 139506,
       "name": "Prophecy",
       "url": "https://open.spotify.com/track/0tmYVU4k7y7ru6CkckFQp3"
@@ -8685,7 +8957,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 358621,
       "name": "Pure Souls",
       "url": "https://open.spotify.com/track/7up5MwPUHQdv4DkzQRHRWP"
@@ -8761,7 +9033,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 172893,
       "name": "Rapp Snitch Knishes feat. Mr. Fantastik",
       "url": "https://open.spotify.com/track/5KUNwkaNf8l5A9sXZhiCgI"
@@ -8905,7 +9177,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 134261,
       "name": "Red",
       "url": "https://open.spotify.com/track/2kNKfDA8HxuJCYQl8EraYn"
@@ -9161,7 +9433,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 192879,
       "name": "Rockstar Lifestyle",
       "url": "https://open.spotify.com/track/5I8LS9jiW5xju1lzakh1s3"
@@ -9397,6 +9669,24 @@
       "duration_ms": 164623,
       "name": "Secure the Vibe (feat. Young Thug)",
       "url": "https://open.spotify.com/track/0Zh07yxAYHbGrjd0wFd0be"
+    },
+    {
+      "album": {
+        "name": "After TTBR",
+        "url": "https://open.spotify.com/album/6VyWxik4npLtHuYKJ66zsa"
+      },
+      "artists": [
+        {
+          "name": "Glokk40Spaz",
+          "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185530,
+      "name": "See Y'all Again",
+      "url": "https://open.spotify.com/track/2WvptDpqPBo6rNBJxK48h6"
     },
     {
       "album": {
@@ -9657,7 +9947,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 135000,
       "name": "Smoke Strong",
       "url": "https://open.spotify.com/track/4ysh4U8WPIuKS8Ff1ttSaS"
@@ -9801,7 +10091,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 142049,
       "name": "Speak 4 Em",
       "url": "https://open.spotify.com/track/6BfJ1k7cPUqq7k9QsMBb19"
@@ -9891,7 +10181,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 172954,
       "name": "Squidrific",
       "url": "https://open.spotify.com/track/0Z1CgKoZXoQYRiqyXhq9LV"
@@ -9985,7 +10275,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 171333,
       "name": "Stick Talk",
       "url": "https://open.spotify.com/track/20fAoPjfYltmd3K3bO7gbt"
@@ -10129,7 +10419,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 259079,
       "name": "Suicide Doors",
       "url": "https://open.spotify.com/track/3fDTzkvrOo5xQIO480Qmsb"
@@ -10297,7 +10587,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 132786,
       "name": "Sweet (feat. Foushe\u00e9)",
       "url": "https://open.spotify.com/track/2X3noddA1Gi8OmJVRP4eYC"
@@ -10431,7 +10721,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 353754,
       "name": "TELEKINESIS (feat. SZA & Future)",
       "url": "https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq"
@@ -10471,7 +10761,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 300200,
       "name": "Temperature's Rising (feat. Crystal Johnson)",
       "url": "https://open.spotify.com/track/0Y1wsOHYGbNNNGeYjQJ8BL"
@@ -10511,6 +10801,24 @@
       "duration_ms": 96107,
       "name": "Temptation",
       "url": "https://open.spotify.com/track/513pwnUHAEGZJKFrReMpE6"
+    },
+    {
+      "album": {
+        "name": "BLUE LIPS",
+        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177260,
+      "name": "THank god 4 me",
+      "url": "https://open.spotify.com/track/7CwO2esrH095tjxmJVMY2E"
     },
     {
       "album": {
@@ -10779,7 +11087,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 314836,
       "name": "TIL FURTHER NOTICE (feat. James Blake & 21 Savage)",
       "url": "https://open.spotify.com/track/76gcXhY3Zv6wW0BTe9nHJo"
@@ -10887,7 +11195,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 365733,
       "name": "Too Young to Die",
       "url": "https://open.spotify.com/track/3toXFhdNpH0Cs5vQkTrHQ3"
@@ -10905,7 +11213,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 138969,
       "name": "Took That Mask Off",
       "url": "https://open.spotify.com/track/1SeB1axwoRD0RHbWB7W8ZQ"
@@ -10967,7 +11275,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 223173,
       "name": "TOPIA TWINS (feat. Rob49 & 21 Savage)",
       "url": "https://open.spotify.com/track/0lodMO0qK83vfPiiD7FMEt"
@@ -11007,7 +11315,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 139426,
       "name": "Trippin",
       "url": "https://open.spotify.com/track/4huciygZHFSjTP5DHmPs20"
@@ -11073,7 +11381,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 166053,
       "name": "Turkish Cotton",
       "url": "https://open.spotify.com/track/31rbQLmAii7Ah0XeRpbXo0"
@@ -11221,7 +11529,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 143147,
       "name": "Under Me",
       "url": "https://open.spotify.com/track/6ugMMzjEgL7xqNyrgwCCKh"
@@ -11297,7 +11605,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 105714,
       "name": "V-Friends",
       "url": "https://open.spotify.com/track/7FUx1SDHG4Im52aKu3iCXC"
@@ -11315,7 +11623,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 154399,
       "name": "Vampire Hour",
       "url": "https://open.spotify.com/track/1U29Vg8V5ivbxirZaG7XAR"
@@ -11917,7 +12225,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 152380,
       "name": "Window Shopper",
       "url": "https://open.spotify.com/track/0mTe8pjxB6Ahg0cYfDaIj0"
@@ -12163,7 +12471,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 221053,
       "name": "Zaza (feat. Future)",
       "url": "https://open.spotify.com/track/3j1WBK1zvZd0oosBisQoOp"

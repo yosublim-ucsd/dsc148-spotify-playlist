@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > “To the songs that made me want to follow in the footsteps of the women who made them\. Yes QUEENS!” \- Muni Long
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,986 likes - 81 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,430 likes - 81 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 | 80 | [Officially Missing You](https://open.spotify.com/track/4IFYR5smTnHYCLP82AiDrJ) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [More](https://open.spotify.com/album/0WdxQHUdLZBGbscwYV72zM) | 4:02 |
 | 81 | [Nobody's Supposed to Be Here](https://open.spotify.com/track/51QxenFmXlJXUN9mpvxlaL) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [One Wish](https://open.spotify.com/album/16FPcGpqQfcvqpCLvZsWWD) | 4:22 |
 
-Snapshot ID: `MCxlNTMwYmYyMWVkZjc0ZGUwYTQ2M2RkYjE0ZmI5MGJjMmQ0NzEwZjBj`
+Snapshot ID: `MCxhMjdkY2U0YTE1ODVkMmNhMDg3MDkzN2YyZmI3MTYxMzU2MjU1MmZm`

@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Marie\-Mai
 
-2,354 songs - 5 day 5 hr 42 min
+2,355 songs - 5 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1400,6 +1400,7 @@
 | [Mastic](https://open.spotify.com/track/4FTs3CddpHa2XnuY6LYj1G) | [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [COCO JOJO](https://open.spotify.com/album/2QZYxEoqTwj45Ajifa0hxg) | 3:26 | 2021-12-31 | 2022-01-22 |
 | [Match](https://open.spotify.com/track/5atXcF9P7BvCIfCwpALYXB) | [Mister V](https://open.spotify.com/artist/5qisLjDrKoHMI9zOK2hfzs), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Match](https://open.spotify.com/album/1DyKKChdiu0IdEZvz4yt4U) | 2:23 | 2023-01-27 | 2023-02-11 |
 | [Mathilde](https://open.spotify.com/track/0HAnT8aym7IKQ0Swayvoh3) | [Tire Le Coyote](https://open.spotify.com/artist/0IC1NWkemYHVzpF7gISLku) | [Mathilde](https://open.spotify.com/album/7wdehrpP1NKvE4F2Mi8o4o) | 4:15 | 2021-12-31 | 2022-01-22 |
+| [MAUVAIS PAYEUR](https://open.spotify.com/track/6O305YQaWEWfaU1S0nTcx6) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [P.M.R.](https://open.spotify.com/album/7lRwTBtOa4iiN9jOXfwKxR) | 3:41 | 2024-03-01 |  |
 | [Mauvais rêve](https://open.spotify.com/track/0MGgP4BHyxoW0eJw5piCX5) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Mauvais rêve](https://open.spotify.com/album/5SPoEMJ0aODZHCVMos4tzv) | 2:50 | 2023-09-29 | 2023-10-23 |
 | [Mauvais rêve](https://open.spotify.com/track/6IZWTHVNit0ajtXwAWDGO9) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Mauvais rêve](https://open.spotify.com/album/5blMLwINO84ZJntrW0CTNh) | 3:59 | 2023-04-14 | 2023-05-20 |
 | [Mauvais sang](https://open.spotify.com/track/3OnjR76S8jearRtcX56I9B) | [Alexandre Poulin](https://open.spotify.com/artist/5ILOB9Q4xiPUxzo2tYwxQy) | [Mauvais sang](https://open.spotify.com/album/20fsMVnh2nEDkblGvBFTdA) | 4:11 | 2023-11-24 | 2023-12-02 |
@@ -2226,7 +2227,7 @@
 | [Vanille](https://open.spotify.com/track/0xk8f8yJPn2z3H9SEcunic) | [L'Isle](https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP) | [Vanille](https://open.spotify.com/album/0FkprGiBKN6MKMLXNTCSB1) | 2:57 | 2022-05-27 | 2022-06-11 |
 | [Vaslaw](https://open.spotify.com/track/5Tsc2kib1Ver0jqZloT8nY) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [Vaslaw](https://open.spotify.com/album/3AAj7Qak7bNlcwUqSF20Yc) | 4:34 | 2022-04-22 | 2022-05-07 |
 | [Vautours](https://open.spotify.com/track/3Z6CZX1swZYFc4vInNQzIO) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Vautours](https://open.spotify.com/album/4W8PYeeUqDsani46ODRgLK) | 3:10 | 2023-10-06 | 2023-12-16 |
-| [VDM \(feat\. Leto\)](https://open.spotify.com/track/2Bgh9sUZDtRo43Z491TaBd) | [Lamatrix](https://open.spotify.com/artist/5eAv3bvAehIJEOMLtzAtaE), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [VDM \(feat\. Leto\)](https://open.spotify.com/album/3yC77NQtuhVxH0uLc8Jhvj) | 3:31 | 2024-02-02 |  |
+| [VDM \(feat\. Leto\)](https://open.spotify.com/track/2Bgh9sUZDtRo43Z491TaBd) | [Lamatrix](https://open.spotify.com/artist/5eAv3bvAehIJEOMLtzAtaE), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [VDM \(feat\. Leto\)](https://open.spotify.com/album/3yC77NQtuhVxH0uLc8Jhvj) | 3:31 | 2024-02-02 | 2024-03-06 |
 | [Vendeur de bière](https://open.spotify.com/track/0wa3tRQrqKlHeow3TmpUQp) | [Mononc' Serge](https://open.spotify.com/artist/35BsDVEPHGqz4fPhlRJHB1) | [L'an 8000](https://open.spotify.com/album/7i55NtPr5ZQ1hsg42WemjU) | 2:48 | 2021-12-31 | 2022-01-15 |
 | [Vendredi](https://open.spotify.com/track/4hdSkfUs1LUisa1owTWqe4) | [Rouge Pompier](https://open.spotify.com/artist/6juqd2DiJxLYeldyOvjzql) | [Vendredi](https://open.spotify.com/album/0SMlVogwTii9DqvIetc129) | 3:34 | 2023-11-17 | 2023-11-25 |
 | [Verre de trop](https://open.spotify.com/track/3TP7rff5C07nasdDYOtVMD) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Cullinan \(Gelée Royale 1 & 2\)](https://open.spotify.com/album/3NPQDrbnqqcr0I0lCTcXSw) | 2:39 | 2023-03-17 | 2023-04-15 |

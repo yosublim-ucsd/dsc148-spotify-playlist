@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Space Cadet",
+        "url": "https://open.spotify.com/album/1R5kPLo5rJAgp161g5hOFQ"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244214,
+      "name": "Are You Sure",
+      "url": "https://open.spotify.com/track/1d4EO17bQjTyG910D2y8bN"
+    },
+    {
+      "album": {
         "name": "Patched Up",
         "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
       },

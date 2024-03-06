@@ -3317,6 +3317,32 @@
     },
     {
       "album": {
+        "name": "Three Single",
+        "url": "https://open.spotify.com/album/5tZJDJHCq5m7rmSt36SYYP"
+      },
+      "artists": [
+        {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
+          "name": "DJ Torricelli",
+          "url": "https://open.spotify.com/artist/5DEyhfcrXFzsKDCBcTNyn3"
+        },
+        {
+          "name": "DJ CARLINHOS",
+          "url": "https://open.spotify.com/artist/6FBX3c5yWFrMF2VCoMYNQ7"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164410,
+      "name": "Eu N\u00e3o Consigo Entender",
+      "url": "https://open.spotify.com/track/4jwiF4S20Rc5ribUUTQBnx"
+    },
+    {
+      "album": {
         "name": "Traia V\u00e9ia (Ao Vivo em Goi\u00e2nia)",
         "url": "https://open.spotify.com/album/73lR6Nivc8Qwu3Jym41CKg"
       },
@@ -5822,7 +5848,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 151384,
       "name": "Me Chama",
       "url": "https://open.spotify.com/track/3LvPRA6n1Hr3ia6tGfScg6"

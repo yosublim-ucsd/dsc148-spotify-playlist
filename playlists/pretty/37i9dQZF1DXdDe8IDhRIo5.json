@@ -1,12 +1,12 @@
 {
   "description": "Django and beyond.",
-  "num_followers": 274319,
+  "num_followers": 274338,
   "original_name": "Hot Club Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjdjODJlZTY0ZmNiYzI0ZmMxNTMyMGQ2MGMzZjc0NGE5ZDk3ZjM1",
+  "snapshot_id": "MCwxNzQxNjM4ZTBkNzkyYjgyNzhlMGJkZjBjZmRkMTA0MzNjZjBlNjVm",
   "tracks": [
     {
       "added_at": "2024-01-12 05:01:00",
@@ -695,13 +695,33 @@
     {
       "added_at": "2021-02-04 20:47:19",
       "album": {
-        "name": "Selmer #607",
+        "name": "The Selmer #607 Album",
         "url": "https://open.spotify.com/album/5wn3yJzr331FKk9rq8bm5z"
       },
       "artists": [
         {
           "name": "Adrien Moignard",
           "url": "https://open.spotify.com/artist/2aMdhZeYSUVewlfjx9ntIn"
+        },
+        {
+          "name": "Selmer #607",
+          "url": "https://open.spotify.com/artist/56uU1OZizI84F7hkLuvYWI"
+        },
+        {
+          "name": "Rocky Gresset",
+          "url": "https://open.spotify.com/artist/3LgwMt7NY7ofdnipSHcahX"
+        },
+        {
+          "name": "Noe Reinhardt",
+          "url": "https://open.spotify.com/artist/5VXizzX9cAJKol49amHkCU"
+        },
+        {
+          "name": "Sebastien Giniaux",
+          "url": "https://open.spotify.com/artist/6zvx3s2J92fS42ezTRAvCX"
+        },
+        {
+          "name": "Richard Manetti",
+          "url": "https://open.spotify.com/artist/5esq88DOd4bNltFwMav6Yc"
         }
       ],
       "duration_ms": 211893,
@@ -1107,13 +1127,33 @@
     {
       "added_at": "2021-02-04 20:47:19",
       "album": {
-        "name": "Selmer #607",
+        "name": "The Selmer #607 Album",
         "url": "https://open.spotify.com/album/5wn3yJzr331FKk9rq8bm5z"
       },
       "artists": [
         {
           "name": "Adrien Moignard",
           "url": "https://open.spotify.com/artist/2aMdhZeYSUVewlfjx9ntIn"
+        },
+        {
+          "name": "Selmer #607",
+          "url": "https://open.spotify.com/artist/56uU1OZizI84F7hkLuvYWI"
+        },
+        {
+          "name": "Rocky Gresset",
+          "url": "https://open.spotify.com/artist/3LgwMt7NY7ofdnipSHcahX"
+        },
+        {
+          "name": "Noe Reinhardt",
+          "url": "https://open.spotify.com/artist/5VXizzX9cAJKol49amHkCU"
+        },
+        {
+          "name": "Sebastien Giniaux",
+          "url": "https://open.spotify.com/artist/6zvx3s2J92fS42ezTRAvCX"
+        },
+        {
+          "name": "Richard Manetti",
+          "url": "https://open.spotify.com/artist/5esq88DOd4bNltFwMav6Yc"
         }
       ],
       "duration_ms": 152146,

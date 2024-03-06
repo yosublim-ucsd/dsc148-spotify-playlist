@@ -1,5 +1,5 @@
 {
-  "2024-03-05": 363514,
+  "2024-03-06": 363515,
   "date_first_scraped": "2022-03-24",
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!  / Foto: Lourena",
   "name": "Palco POP",
@@ -11245,6 +11245,24 @@
       "duration_ms": 167384,
       "name": "Quadro",
       "url": "https://open.spotify.com/track/55tDrclRHCHXIoPwyPHlVn"
+    },
+    {
+      "album": {
+        "name": "Quando a gente ama",
+        "url": "https://open.spotify.com/album/7dmSRqUYOrnaovRY3q5CFk"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155605,
+      "name": "Quando a gente ama",
+      "url": "https://open.spotify.com/track/0isC8YBpo5h3b1vOnJ0aNw"
     },
     {
       "album": {

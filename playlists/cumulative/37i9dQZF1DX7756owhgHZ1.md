@@ -4,7 +4,7 @@
 
 > Ya sea en la rampa o en la consola, así sonaba montar en patineta.
 
-84 songs - 4 hr 36 min
+85 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Blackball](https://open.spotify.com/track/0Xd2QGTMxweKlplNrJ9jNx) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [The Offspring](https://open.spotify.com/album/39QzcBdUkrXWc7bhpW66p7) | 3:24 | 2022-06-07 |  |
 | [Blitzkrieg Bop \- 2001 Remaster](https://open.spotify.com/track/2hrF1aiAFGa7bWgt2qhyrc) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Greatest Hits](https://open.spotify.com/album/7g7SbdTnbvrA1hGYHwLEn8) | 2:12 | 2022-06-07 |  |
 | [Blood Brothers](https://open.spotify.com/track/2Ll44WxlG2eiqL6NtEnf8M) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Infest](https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m) | 3:33 | 2022-06-07 |  |
-| [Bloodstains](https://open.spotify.com/track/3fj5W7oDAv8RzGdidy4nfn) | [Agent Orange](https://open.spotify.com/artist/1pBsvSnrhmgDZqisT13SFA) | [Punk & Nasty](https://open.spotify.com/album/2JXzfEi3LIPTlGnZmAVMYh) | 2:09 | 2022-06-07 |  |
+| [Bloodstains](https://open.spotify.com/track/3fj5W7oDAv8RzGdidy4nfn) | [Agent Orange](https://open.spotify.com/artist/1pBsvSnrhmgDZqisT13SFA) | [Punk & Nasty](https://open.spotify.com/album/2JXzfEi3LIPTlGnZmAVMYh) | 2:09 | 2022-06-07 | 2024-03-06 |
+| [Bloodstains \- Re\-Recorded](https://open.spotify.com/track/7LQyIbPLk22Qem2rNmitCL) | [Agent Orange](https://open.spotify.com/artist/1pBsvSnrhmgDZqisT13SFA) | [Greatest & Latest: This, That\-n\-The Other Thing](https://open.spotify.com/album/7ygPIr0tEwpYsmJpwIVFuy) | 2:06 | 2022-06-07 |  |
 | [Body Rock](https://open.spotify.com/track/7qxMoa63PAfPZSYafDeHij) | [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [Tash](https://open.spotify.com/artist/22qf8cJRzBjIWb2Jc4JeOr) | [Lyricist Lounge Vol\. 1](https://open.spotify.com/album/21tkKiB2eq0Q3Nl49OxKbr) | 5:11 | 2022-06-07 |  |
 | [Bring Tha Noize](https://open.spotify.com/track/0goVj3eJV1oD5yqXzkjqLA) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd), [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Apocalypse 91… The Enemy Strikes Black](https://open.spotify.com/album/2UqKqZofb9pdapHk4HzRUo) | 3:47 | 2022-06-07 |  |
 | [Bring The Noise](https://open.spotify.com/track/1p50Ir1Hm6Sa1urjaLGi7L) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP), [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [Attack Of The Killer B's](https://open.spotify.com/album/6Ic0P6UAAHeyAsnvri4qXS) | 3:31 | 2022-06-07 |  |

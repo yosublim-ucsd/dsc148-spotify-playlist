@@ -14019,6 +14019,28 @@
     },
     {
       "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/5cGbvD6RfHWaou8F6lpTuo"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Hart",
+          "url": "https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa"
+        },
+        {
+          "name": "Giulia Tess",
+          "url": "https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296916,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/63TU6HeinhcJyEov0Z8ptB"
+    },
+    {
+      "album": {
         "name": "Observe / Trust",
         "url": "https://open.spotify.com/album/1lSkYSvlHukyxn8EaRRzFr"
       },

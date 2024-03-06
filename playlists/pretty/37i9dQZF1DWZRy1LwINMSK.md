@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno al mando de Lleflight.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,857 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,931 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 99 | [4 My Guap](https://open.spotify.com/track/3qobz0gjII9F42kAdrvueO) | [Neelo](https://open.spotify.com/artist/2ENPnSzAeiXxEGFVQffe5q), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Sander Wazz](https://open.spotify.com/artist/3O2ALOTlfmlMCabLD6YVcb) | [4 My Guap](https://open.spotify.com/album/7E83IjQpHhPok8TRvm6Fxw) | 4:09 |
 | 100 | [Entre Envidia Y Muerte](https://open.spotify.com/track/00y6RixyknzrTvC8W9vK8q) | [Crucer](https://open.spotify.com/artist/5PHDVE30e9FnYScGAsqgrv), [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [Entre Envidia Y Muerte](https://open.spotify.com/album/2r92jhDd12xmQSByQ1nHWW) | 6:13 |
 
-Snapshot ID: `MCw5NmU3M2QwNTQ2NWVlOTZkOWIxNDkzNzYyYWY2ZDNlNGRmNzM0MGIz`
+Snapshot ID: `MCw5YTUwNWJkNzAzZDQxODBmYzc0MDg1MjU3MTJmMjBjNGJhMGMyYTg0`

@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 23895,
+  "num_followers": 23913,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MWZkODMwMTA4Nzg5MmE3ZWZhNThmZjZjODY1MmVhY2IyZTM0ZTY5",
+  "snapshot_id": "MCw4N2M5YmQ0OWQ2ZGU1ZWNhYjQxMzMzYmUxOTMxNzUwNDRmODI1MWNk",
   "tracks": [
     {
       "added_at": "2024-02-22 09:44:01",
@@ -491,8 +491,8 @@
     {
       "added_at": "2024-02-22 09:44:01",
       "album": {
-        "name": "Blowin' Country",
-        "url": "https://open.spotify.com/album/6Gif5fN122j92QDgzgPSZM"
+        "name": "Presenting Bud Shank",
+        "url": "https://open.spotify.com/album/1bEeCmIuAjwiC3ZOUBSvNP"
       },
       "artists": [
         {
@@ -500,13 +500,13 @@
           "url": "https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW"
         },
         {
-          "name": "Bob Cooper",
-          "url": "https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK"
+          "name": "Bill Perkins",
+          "url": "https://open.spotify.com/artist/3hszaXRiD1mC582INBUhOL"
         }
       ],
-      "duration_ms": 251933,
-      "name": "Steve Allen Theme",
-      "url": "https://open.spotify.com/track/6v4si83mpUqBwwAUKFbFuR"
+      "duration_ms": 200253,
+      "name": "A Sinner Kissed an Angel",
+      "url": "https://open.spotify.com/track/4Ns7MifKhkJwdDa0eNPZIu"
     },
     {
       "added_at": "2024-02-22 09:44:01",
@@ -611,8 +611,8 @@
     {
       "added_at": "2024-02-22 09:44:01",
       "album": {
-        "name": "Presenting Bud Shank",
-        "url": "https://open.spotify.com/album/1bEeCmIuAjwiC3ZOUBSvNP"
+        "name": "Blowin' Country",
+        "url": "https://open.spotify.com/album/6Gif5fN122j92QDgzgPSZM"
       },
       "artists": [
         {
@@ -620,13 +620,13 @@
           "url": "https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW"
         },
         {
-          "name": "Bill Perkins",
-          "url": "https://open.spotify.com/artist/3hszaXRiD1mC582INBUhOL"
+          "name": "Bob Cooper",
+          "url": "https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK"
         }
       ],
-      "duration_ms": 200253,
-      "name": "A Sinner Kissed an Angel",
-      "url": "https://open.spotify.com/track/4Ns7MifKhkJwdDa0eNPZIu"
+      "duration_ms": 251933,
+      "name": "Steve Allen Theme",
+      "url": "https://open.spotify.com/track/6v4si83mpUqBwwAUKFbFuR"
     },
     {
       "added_at": "2024-02-22 09:44:01",
@@ -683,30 +683,6 @@
     {
       "added_at": "2024-02-22 09:44:01",
       "album": {
-        "name": "The Poll Winners Ride Again!",
-        "url": "https://open.spotify.com/album/7gZqZCkWIPlSAbttTYHgaT"
-      },
-      "artists": [
-        {
-          "name": "Barney Kessel",
-          "url": "https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG"
-        },
-        {
-          "name": "Ray Brown",
-          "url": "https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8"
-        },
-        {
-          "name": "Shelly Manne",
-          "url": "https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo"
-        }
-      ],
-      "duration_ms": 289735,
-      "name": "Custard Puff",
-      "url": "https://open.spotify.com/track/1qzchpVVLBAtZrz2EJMOge"
-    },
-    {
-      "added_at": "2024-02-22 09:44:01",
-      "album": {
         "name": "Gongs East!",
         "url": "https://open.spotify.com/album/2vhPXcTqaaFwl9L8PsBd8Q"
       },
@@ -735,6 +711,30 @@
       "duration_ms": 350720,
       "name": "The Quiet Time",
       "url": "https://open.spotify.com/track/6WAHaBnRvUFjw6L6Q2mMDh"
+    },
+    {
+      "added_at": "2024-02-22 09:44:01",
+      "album": {
+        "name": "The Poll Winners Ride Again!",
+        "url": "https://open.spotify.com/album/7gZqZCkWIPlSAbttTYHgaT"
+      },
+      "artists": [
+        {
+          "name": "Barney Kessel",
+          "url": "https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG"
+        },
+        {
+          "name": "Ray Brown",
+          "url": "https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8"
+        },
+        {
+          "name": "Shelly Manne",
+          "url": "https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo"
+        }
+      ],
+      "duration_ms": 289735,
+      "name": "Custard Puff",
+      "url": "https://open.spotify.com/track/1qzchpVVLBAtZrz2EJMOge"
     },
     {
       "added_at": "2024-02-22 09:44:01",

@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-797 songs - 2 day 6 hr 29 min
+798 songs - 2 day 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -739,6 +739,7 @@
 | [Tropic Morning News](https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Tropic Morning News](https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ) | 5:09 | 2023-01-25 | 2023-03-02 |
 | [True Love \- Remastered 2023](https://open.spotify.com/track/1h1OwFAkZONaT6anEINevZ) | [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW) | [The Upper Cuts \(2023 Edition\)](https://open.spotify.com/album/0TeXdrfFO67UgPpj1mMUAM) | 2:32 | 2023-04-05 | 2023-05-11 |
 | [Trumpet Punch](https://open.spotify.com/track/7riH4ZZJyyk8e7g4rATgLv) | [Phonk D](https://open.spotify.com/artist/2egvf4nlPoreH9CR00N5xP) | [Shifty Rhythms](https://open.spotify.com/album/3vIWieYvvebolEmIYmaU0N) | 5:58 | 2022-08-24 | 2022-09-29 |
+| [Trust](https://open.spotify.com/track/63TU6HeinhcJyEov0Z8ptB) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa), [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3) | [Trust](https://open.spotify.com/album/5cGbvD6RfHWaou8F6lpTuo) | 4:56 | 2024-03-05 |  |
 | [Trust](https://open.spotify.com/track/2phMrLeYo7YDvMAie0ZQVc) | [TSVI](https://open.spotify.com/artist/0uea1sBqx37JwQznLWxqeE), [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [Observe / Trust](https://open.spotify.com/album/1lSkYSvlHukyxn8EaRRzFr) | 2:14 | 2022-06-16 | 2022-07-28 |
 | [Tuesday](https://open.spotify.com/track/19Ta3GtCyDQHhFXMS0vUZj) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [Tuesday](https://open.spotify.com/album/3uzaEWHPjutN7RP2WjLiXf) | 4:59 | 2023-10-12 | 2023-11-16 |
 | [Two Days](https://open.spotify.com/track/65RCgQAJpproISPROLDM4x) | [Mewn](https://open.spotify.com/artist/1GfRMgXaO0P1U1J2ncmSbR) | [Two Days](https://open.spotify.com/album/4KNqcEIJ0YPjIjfubGPo2L) | 3:49 | 2022-06-08 | 2022-06-17 |

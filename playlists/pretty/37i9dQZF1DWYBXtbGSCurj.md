@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Tz da Coronel, Ryu, the Runner, Nagalli
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,068 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,144 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 4 | [Seu Nome](https://open.spotify.com/track/5V3CmFA57izQ3cwZFEpmle) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0), [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD), [Duani](https://open.spotify.com/artist/7kfnPmwhVUGVTbp4IEiHxZ) | [442](https://open.spotify.com/album/6Mu1OvykDP0nf1wtG77xpG) | 4:17 |
 | 5 | [Ludmilla \(Papatracks\#12\)](https://open.spotify.com/track/7CKPobgc0wetmn1V990uKb) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [Ludmilla \(Papatracks\#12\)](https://open.spotify.com/album/5Hxc7d6iEx2gXe8EDLst0n) | 2:02 |
 | 6 | [Hash Nega](https://open.spotify.com/track/5r5QQfYYdq5V8pQmBmKZAK) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS) | [Hash Nega](https://open.spotify.com/album/14LH5XAjbuKgCZXRDSmwvd) | 3:13 |
-| 7 | [Cyberpunk](https://open.spotify.com/track/79kpDaVsQQUKRKYaLVsBbK) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Cyberpunk](https://open.spotify.com/album/37tMfPWBrcGJFtzQ5U35Lq) | 1:52 |
+| 7 | [Cyberpunk](https://open.spotify.com/track/79kpDaVsQQUKRKYaLVsBbK) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d) | [Cyberpunk](https://open.spotify.com/album/37tMfPWBrcGJFtzQ5U35Lq) | 1:52 |
 | 8 | [Ontem \#5](https://open.spotify.com/track/4WZ4tVjMkrejB71D6jpp05) | [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp), [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu), [MeLodee](https://open.spotify.com/artist/20NGAx3Juv4HaGjwBM9bpj) | [Ontem \#5](https://open.spotify.com/album/4KgRL5ybWeIQNnpf46b8Sb) | 3:15 |
 | 9 | [Déjà vu](https://open.spotify.com/track/4oyWfZjNKuheKH8j22XM1k) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Déjà vu](https://open.spotify.com/album/4T4tlfQtR6yQabbiMyplxP) | 2:25 |
 | 10 | [Vida Rasa](https://open.spotify.com/track/5t2RXNtjGIzKPGiNYSU6FG) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp) | [442](https://open.spotify.com/album/6Mu1OvykDP0nf1wtG77xpG) | 2:05 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Tenho Que Me Decidir](https://open.spotify.com/track/697gwO5YoSGVAnlfREIZll) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [O Cara Do Momento](https://open.spotify.com/album/2GJl4ruFhOBOghvHKVv6wV) | 3:52 |
 | 75 | [Carta Aberta](https://open.spotify.com/track/4VI4yOAb7fWrFCnuGBIaeG) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Carta Aberta](https://open.spotify.com/album/7yGXpufcJyZEZ5fcyv2NGq) | 4:22 |
 
-Snapshot ID: `MCw1ZTg5NTNmZDEzNTcyNjZlNWE3NWNiN2YwMzUzNzc0ODE3Y2VjNzQw`
+Snapshot ID: `MCwyYTJhN2UxOTRmNWQzMjhiZWZkN2E0NzZjYjJhMjE5NmE4M2M5YTgz`

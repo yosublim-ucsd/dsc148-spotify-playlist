@@ -4,7 +4,7 @@
 
 > For those with a taste for both the new and the classic\. Cover: Sofia Camara
 
-1,026 songs - 2 day 8 hr 46 min
+1,027 songs - 2 day 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -958,7 +958,8 @@
 | [WAKE UP](https://open.spotify.com/track/2IS8SGdFExo7woya8XMtat) | [Group Project](https://open.spotify.com/artist/7gGjxniWt0ovSoAY7440o1) | [WAKE UP](https://open.spotify.com/album/5RwO7AbZsntOqKdbUML3RA) | 3:36 | 2023-04-21 | 2023-08-05 |
 | [Walk Out on Me](https://open.spotify.com/track/6xIQ5rNT7zcLBBqWWqjHHy) | [Jonathan Roy](https://open.spotify.com/artist/62ggJuZV87VvP3sAHM0V3K) | [My Lullaby](https://open.spotify.com/album/4IVd8yGX8PIcPPdD4dlDKy) | 2:44 | 2021-12-17 | 2022-09-10 |
 | [Walking Away](https://open.spotify.com/track/3hjceC6B76wOAd7q72gpzL) | [DYLN](https://open.spotify.com/artist/4qf6u9kjZdqQ1VI09mV1Q5) | [Walking Away](https://open.spotify.com/album/6sJTdTvUyZUduZeP2QDDe7) | 3:04 | 2022-09-09 | 2022-11-19 |
-| [Want You More](https://open.spotify.com/track/5bUUCAdoGDgF3IzfX4mRCd) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Want You More](https://open.spotify.com/album/1MCbSXye5vHrHtU7jcNklY) | 2:52 | 2024-01-05 |  |
+| [Want You More](https://open.spotify.com/track/3a17amQhKZxeQi3SDkAvtU) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Unlove You](https://open.spotify.com/album/0XOCr1zfM2co1x5dMIjO77) | 2:52 | 2024-03-01 |  |
+| [Want You More](https://open.spotify.com/track/5bUUCAdoGDgF3IzfX4mRCd) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Want You More](https://open.spotify.com/album/1MCbSXye5vHrHtU7jcNklY) | 2:52 | 2024-01-05 | 2024-03-06 |
 | [Was I Ever 13](https://open.spotify.com/track/4VHbxdckRlK3FECSW6w8b4) | [Jann Arden](https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F) | [Was I Ever 13](https://open.spotify.com/album/3EWcOWONqMvus3EcEwRV5i) | 3:27 | 2022-01-14 | 2022-01-29 |
 | [Waste My Time](https://open.spotify.com/track/4Z5fidWlpKqb6GgsfxFz0w) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Waste My Time](https://open.spotify.com/album/5FwNdn41QgwtItxswMwXaQ) | 2:31 | 2023-10-20 | 2023-10-28 |
 | [Wasted](https://open.spotify.com/track/3dpCarDMIp7RFxdUQ45Ccm) | [Alfie Sharp](https://open.spotify.com/artist/00BVhzOhPeFH9fVVCNqF9P) | [Wasted](https://open.spotify.com/album/3HUWH7rKToMqZDBuX2ECAa) | 4:02 | 2023-10-27 | 2023-12-02 |

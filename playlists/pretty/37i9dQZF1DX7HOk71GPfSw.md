@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > glaivepilled
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,256 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,409 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 99 | [Every Summer](https://open.spotify.com/track/1lz2s7GiXZcMypSpMCkjmJ) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Nation](https://open.spotify.com/artist/03D2b6ATNCne8B3D251ncQ), [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy) | [Every Summer](https://open.spotify.com/album/1HZWU6NhcwXiOu2Ki01kfm) | 1:51 |
 | 100 | [Under my Bed](https://open.spotify.com/track/5cIsycaJ0uBDrbIT86Razj) | [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [Under my Bed](https://open.spotify.com/album/1bNIF4ct4CiV8u5SvSYywB) | 2:04 |
 
-Snapshot ID: `MCwyYTRhMWFhZDcyMjdhZDk2MzdjNGVkMzM0MGVkYmRmZjI3YzY5ODQ4`
+Snapshot ID: `MCw1YjZkZDFmYmRiNGExYzE1N2FiMTRiYjhlZDM0YTQzYzU2ZjgwZTlm`

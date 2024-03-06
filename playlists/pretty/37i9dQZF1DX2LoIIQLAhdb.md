@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Ronisia
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,785 likes - 40 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,953 likes - 40 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Mama](https://open.spotify.com/track/0hoJWbyZNiZlXiJowTn5Q6) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Mama](https://open.spotify.com/album/3zGYkyHUsFj4WNxKcZ7ktn) | 3:00 |
 | 40 | [GHOST & TOMMY](https://open.spotify.com/track/7FWIpbdui2fXi54J0GJ6o6) | [Scridge](https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU) | [POWER](https://open.spotify.com/album/7evqrdGMYlXOOJi7Ozu1gs) | 2:57 |
 
-Snapshot ID: `MCw0MWE1ZTRmZDY3Zjg0MzI1Y2FmMjExZmVjNDc3MTllMzEyZjNjNjI1`
+Snapshot ID: `MCxhZWE1MTAwMzk3NzNmOGE1ZjM0NDkwZDg5YjY0MzNmNTVjOTBjYjQ3`

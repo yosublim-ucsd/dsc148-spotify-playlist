@@ -10989,6 +10989,28 @@
     },
     {
       "album": {
+        "name": "sound therapy",
+        "url": "https://open.spotify.com/album/4hmHweoHXduW8hhnyMvxUk"
+      },
+      "artists": [
+        {
+          "name": "zensei \u30bc\u30f3\u30bb\u30fc",
+          "url": "https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63"
+        },
+        {
+          "name": "Delaney Kai",
+          "url": "https://open.spotify.com/artist/4R9LxtRMT4XlrKbbrvEHNl"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "sound therapy",
+      "url": "https://open.spotify.com/track/7lEefCbeaFBzMJZvsEwy27"
+    },
+    {
+      "album": {
         "name": "INEEDU / SOYUZ",
         "url": "https://open.spotify.com/album/3kfTKr2reUQfr7EEQOMzxg"
       },

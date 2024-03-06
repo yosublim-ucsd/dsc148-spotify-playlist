@@ -1704,7 +1704,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 206600,
       "name": "DANBIRA",
       "url": "https://open.spotify.com/track/0fzdUtI0wUeKK2p6GkNtbs"
@@ -1830,7 +1830,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 228080,
       "name": "Dear Future",
       "url": "https://open.spotify.com/track/0cAMS28jrGnrZEdlndRzzR"
@@ -2473,6 +2473,24 @@
     },
     {
       "album": {
+        "name": "ETERNAL",
+        "url": "https://open.spotify.com/album/0M4Y3RHFPZFb1p9UsGEMw0"
+      },
+      "artists": [
+        {
+          "name": "Kiyoharu",
+          "url": "https://open.spotify.com/artist/1Jt0plJvCjpJ956Y8p1E7A"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287312,
+      "name": "ETERNAL",
+      "url": "https://open.spotify.com/track/0RGE4u70SFJPtXJFXMojaB"
+    },
+    {
+      "album": {
         "name": "Les Mis\u00e9 blue",
         "url": "https://open.spotify.com/album/1oNVgCta0qPtdwQEGESzYs"
       },
@@ -3040,7 +3058,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 195750,
       "name": "GET BACK",
       "url": "https://open.spotify.com/track/7wWybh1ChBRIf1UgljRZoR"
@@ -3748,7 +3766,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-05",
+      "date_removed": null,
       "duration_ms": 272709,
       "name": "I MISS YOU",
       "url": "https://open.spotify.com/track/6wiTNSLb7qvu2IGKJSf9Q1"
@@ -6918,7 +6936,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 227000,
       "name": "Particle Dreams",
       "url": "https://open.spotify.com/track/1cjkmVOBoso2ZnMXqEx7rs"
@@ -6954,7 +6972,7 @@
       ],
       "date_added": "2024-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 215031,
       "name": "Play",
       "url": "https://open.spotify.com/track/5Ec4YyeFG6IIYOf93DbzZ3"
@@ -12784,7 +12802,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 276640,
       "name": "\u30b2\u30c3\u30c8\u30fb\u30a2\u30c3\u30d7\u30fb\u30eb\u30fc\u30b7\u30fc",
       "url": "https://open.spotify.com/track/2KuNvu2Jh1CYVOrhEHWN8S"
@@ -13008,7 +13026,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 320186,
       "name": "\u30b7\u30e7\u30a6\u30fb\u30bf\u30a4\u30e0",
       "url": "https://open.spotify.com/track/6xjKW4HTxRNKSMJuKYm79w"
@@ -13452,6 +13470,24 @@
       "duration_ms": 211133,
       "name": "\u30c4\u30fc\u30d9\u30fc\u30b3\u30fc\u30d9\u30fc",
       "url": "https://open.spotify.com/track/6rFUgYqJVGtlUDsj55NZWF"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30b9\u30a4\u30ba\u30ca\u30b4\u30e4",
+        "url": "https://open.spotify.com/album/2ItZeT3BCIJtbmVXLyVTpm"
+      },
+      "artists": [
+        {
+          "name": "Flower Companyz",
+          "url": "https://open.spotify.com/artist/2VuMHYb1igsjfw1AXUFV7D"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212803,
+      "name": "\u30c7\u30a3\u30b9\u30a4\u30ba\u30ca\u30b4\u30e4",
+      "url": "https://open.spotify.com/track/3WkWUZQmb0AWagCbVMV0bb"
     },
     {
       "album": {
@@ -14024,7 +14060,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 274693,
       "name": "\u30d7\u30e9\u30cd\u30bf\u30ea\u30a2",
       "url": "https://open.spotify.com/track/0NAk5DY9rv3pAOvif090av"
@@ -14280,7 +14316,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 281733,
       "name": "\u30df\u30e9\u30af\u30eb\u30ec\u30dc\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3 No.9",
       "url": "https://open.spotify.com/track/2x7QGJfqnRvHvk0ulYy1Ex"
@@ -16340,7 +16376,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 234586,
       "name": "\u6708\u898b\u8349",
       "url": "https://open.spotify.com/track/2r9pdXhX8ii5tN18RceY2E"
@@ -17176,7 +17212,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 256133,
       "name": "\u77b3\u306e\u30e9\u30f3\u30c7\u30f4\u30fc",
       "url": "https://open.spotify.com/track/4qZMoOB9dT4R4an1eo4g6I"
@@ -18084,7 +18120,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 253093,
       "name": "\u97f3\u306e\u5ead",
       "url": "https://open.spotify.com/track/6GxtYzB7dPwPr8m7uPCccK"
@@ -18102,7 +18138,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 263360,
       "name": "\u97f3\u697d",
       "url": "https://open.spotify.com/track/5U4WMmfIQC74ioqM5q4lYe"

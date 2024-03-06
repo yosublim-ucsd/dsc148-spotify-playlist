@@ -1,12 +1,12 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: BAEKHO, Park Ji Won)",
-  "num_followers": 389051,
+  "num_followers": 389093,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDg2ZjMxYTFkOWZlZDkwY2QxNjE5ODdmNTcxNWE5YzgxN2NmMzJi",
+  "snapshot_id": "MCwwZDI2MDJkYjYwOGYyZTdmYTA2YzYxMTExZTA4OWVjMGFhNTA2Mjli",
   "tracks": [
     {
       "added_at": "2024-02-20 03:55:58",
@@ -283,6 +283,22 @@
     {
       "added_at": "2024-02-20 03:55:58",
       "album": {
+        "name": "Good Person (2022)",
+        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
+      },
+      "artists": [
+        {
+          "name": "HAECHAN",
+          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Good Person (2022)",
+      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
+    },
+    {
+      "added_at": "2024-02-20 03:55:58",
+      "album": {
         "name": "24\u2103",
         "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 194596,
       "name": "NO ONE",
       "url": "https://open.spotify.com/track/0iQ7Nc2YhlyGHeUi4R8Gl6"
-    },
-    {
-      "added_at": "2024-02-20 03:55:58",
-      "album": {
-        "name": "Good Person (2022)",
-        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
-      },
-      "artists": [
-        {
-          "name": "HAECHAN",
-          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Good Person (2022)",
-      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
     },
     {
       "added_at": "2024-02-20 03:55:58",
@@ -743,26 +743,6 @@
     {
       "added_at": "2024-02-20 03:55:58",
       "album": {
-        "name": "Layin' Low (feat. Jooyoung)",
-        "url": "https://open.spotify.com/album/6wPJh6aQa1SoplBJcDPlZW"
-      },
-      "artists": [
-        {
-          "name": "HYOLYN",
-          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
-        },
-        {
-          "name": "Jooyoung",
-          "url": "https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH"
-        }
-      ],
-      "duration_ms": 188146,
-      "name": "Layin' Low (feat. Jooyoung)",
-      "url": "https://open.spotify.com/track/1B2vkECYhw0XEcyOexAq6e"
-    },
-    {
-      "added_at": "2024-02-20 03:55:58",
-      "album": {
         "name": "Whats wrong with secretary kim OST Part.1",
         "url": "https://open.spotify.com/album/1l8yWyu8JIf2GttsAVOWlR"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 207056,
       "name": "Love Virus",
       "url": "https://open.spotify.com/track/4JA2u5Grq0GCSSQfy5cLFG"
+    },
+    {
+      "added_at": "2024-02-20 03:55:58",
+      "album": {
+        "name": "Layin' Low (feat. Jooyoung)",
+        "url": "https://open.spotify.com/album/6wPJh6aQa1SoplBJcDPlZW"
+      },
+      "artists": [
+        {
+          "name": "HYOLYN",
+          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
+        },
+        {
+          "name": "Jooyoung",
+          "url": "https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH"
+        }
+      ],
+      "duration_ms": 188146,
+      "name": "Layin' Low (feat. Jooyoung)",
+      "url": "https://open.spotify.com/track/1B2vkECYhw0XEcyOexAq6e"
     },
     {
       "added_at": "2024-02-20 03:55:58",
@@ -931,18 +931,22 @@
     {
       "added_at": "2024-02-20 03:55:58",
       "album": {
-        "name": "Airport Goodbyes",
-        "url": "https://open.spotify.com/album/1QfoitDnFtn4e4UmGYdi4i"
+        "name": "Start To Shine (feat. Gaeko)",
+        "url": "https://open.spotify.com/album/1J5q0SEeWRwm81k5dQS4nb"
       },
       "artists": [
         {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+          "name": "Gyubin",
+          "url": "https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
         }
       ],
-      "duration_ms": 247000,
-      "name": "Airport Goodbyes (Prod. The Black Skirts)",
-      "url": "https://open.spotify.com/track/6JwLranFvCuvv6PmE2ExyN"
+      "duration_ms": 192013,
+      "name": "Start To Shine (feat. Gaeko)",
+      "url": "https://open.spotify.com/track/1KD8juWhiZFJv0gcSpZVSQ"
     },
     {
       "added_at": "2024-02-20 03:55:58",
@@ -967,6 +971,22 @@
     {
       "added_at": "2024-02-20 03:55:58",
       "album": {
+        "name": "Airport Goodbyes",
+        "url": "https://open.spotify.com/album/1QfoitDnFtn4e4UmGYdi4i"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Airport Goodbyes (Prod. The Black Skirts)",
+      "url": "https://open.spotify.com/track/6JwLranFvCuvv6PmE2ExyN"
+    },
+    {
+      "added_at": "2024-02-20 03:55:58",
+      "album": {
         "name": "The King : Eternal Monarch, Pt. 10 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5"
       },
@@ -983,26 +1003,6 @@
       "duration_ms": 220933,
       "name": "My Day Is Full Of You",
       "url": "https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh"
-    },
-    {
-      "added_at": "2024-02-20 03:55:58",
-      "album": {
-        "name": "Start To Shine (feat. Gaeko)",
-        "url": "https://open.spotify.com/album/1J5q0SEeWRwm81k5dQS4nb"
-      },
-      "artists": [
-        {
-          "name": "Gyubin",
-          "url": "https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS"
-        },
-        {
-          "name": "Gaeko",
-          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
-        }
-      ],
-      "duration_ms": 192013,
-      "name": "Start To Shine (feat. Gaeko)",
-      "url": "https://open.spotify.com/track/1KD8juWhiZFJv0gcSpZVSQ"
     }
   ],
   "unique_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9hThfji1Q6J.md) - [plain]
 
 > 2023年、海外で最も再生された日本人アーティストの楽曲別ランキング。Check out the top 50 tracks from Japanese artists, streamed globally in 2023!
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,318 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,313 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9hThfji1Q6J.md) - [plain]
 | 49 | [愛して 愛して 愛して](https://open.spotify.com/track/3ty4jnVIJ9My8ZnXFMc0Fg) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク3](https://open.spotify.com/album/5eSuy3Rr40DI0qcPOMFgX0) | 4:12 |
 | 50 | [ピースサイン](https://open.spotify.com/track/364JzOajs76bJymjHm3sVY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOOTLEG](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) | 3:58 |
 
-Snapshot ID: `MCw2NWY5Mjg3MjViYTE4NTRkNmFiNGI0NzE5MWRjNTQ0NDVlYjgzMGMy`
+Snapshot ID: `MCw5ODllYjI1MTUyOWVjMjBmNWEwNWEwODFlMWNkZTRkYjZkNTc3YTJh`

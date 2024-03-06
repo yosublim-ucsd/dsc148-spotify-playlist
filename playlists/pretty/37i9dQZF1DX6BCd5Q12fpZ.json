@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 65476,
+  "num_followers": 65478,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWMwNzAyYjU0NDcxZTZiYjc4MjM4NGM4NGIxYTNjM2YyYjJkOTY3",
+  "snapshot_id": "MCxkZDliYzg1YmU1YzYzNzZmMWNlNzc1NjI2ZjgzZDNmNWI1MWY1NDA2",
   "tracks": [
     {
       "added_at": "2023-05-05 17:20:54",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
+        "name": "Fr\u00e4mling 25 \u00e5r",
+        "url": "https://open.spotify.com/album/4cotyYQgYleaHbqQEgU9Hv"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        }
+      ],
+      "duration_ms": 177893,
+      "name": "Fr\u00e4mling",
+      "url": "https://open.spotify.com/track/17zFOtbuquEAAxSttpfWWl"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
         "name": "Bucks Fizz",
         "url": "https://open.spotify.com/album/5HqRd9aYv1b0x8A6q2ljFb"
       },
@@ -379,22 +395,18 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Eurovision Song Contest: The Story of Fire Saga (Music from the Netflix Film)",
-        "url": "https://open.spotify.com/album/0u6ppFo3gWA3vTiGeDTWXl"
+        "name": "110 Karat",
+        "url": "https://open.spotify.com/album/60OhrSr6g93qE9RS5yJ3u7"
       },
       "artists": [
         {
-          "name": "Will Ferrell",
-          "url": "https://open.spotify.com/artist/7xF6Psrf6yNOBkB9jpMRa0"
-        },
-        {
-          "name": "My Marianne",
-          "url": "https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn"
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
         }
       ],
-      "duration_ms": 97896,
-      "name": "Jaja Ding Dong",
-      "url": "https://open.spotify.com/track/4QWRvlXU8dRUobH9YCDrIY"
+      "duration_ms": 180816,
+      "name": "She Got Me - Bonus Track",
+      "url": "https://open.spotify.com/track/3icYE8PMsnBoEecm5Bbd4x"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -415,18 +427,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "110 Karat",
-        "url": "https://open.spotify.com/album/60OhrSr6g93qE9RS5yJ3u7"
+        "name": "Eurovision Song Contest: The Story of Fire Saga (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0u6ppFo3gWA3vTiGeDTWXl"
       },
       "artists": [
         {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+          "name": "Will Ferrell",
+          "url": "https://open.spotify.com/artist/7xF6Psrf6yNOBkB9jpMRa0"
+        },
+        {
+          "name": "My Marianne",
+          "url": "https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn"
         }
       ],
-      "duration_ms": 180816,
-      "name": "She Got Me - Bonus Track",
-      "url": "https://open.spotify.com/track/3icYE8PMsnBoEecm5Bbd4x"
+      "duration_ms": 97896,
+      "name": "Jaja Ding Dong",
+      "url": "https://open.spotify.com/track/4QWRvlXU8dRUobH9YCDrIY"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -663,22 +679,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Hold Me Closer (Eurovision Version)",
-        "url": "https://open.spotify.com/album/1DUJ7u6fKeEkfVeTvE3FAq"
-      },
-      "artists": [
-        {
-          "name": "Cornelia Jakobs",
-          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
-        }
-      ],
-      "duration_ms": 180573,
-      "name": "Hold Me Closer - Eurovision Version",
-      "url": "https://open.spotify.com/track/6cTWJgNkmhATsI6RJgTPH4"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Replay",
         "url": "https://open.spotify.com/album/4CfWfExyyIuTxTXd7jjmy7"
       },
@@ -691,6 +691,22 @@
       "duration_ms": 173812,
       "name": "Replay",
       "url": "https://open.spotify.com/track/2UOyQB26wSQzM0jiTcUg50"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Hold Me Closer (Eurovision Version)",
+        "url": "https://open.spotify.com/album/1DUJ7u6fKeEkfVeTvE3FAq"
+      },
+      "artists": [
+        {
+          "name": "Cornelia Jakobs",
+          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
+        }
+      ],
+      "duration_ms": 180573,
+      "name": "Hold Me Closer - Eurovision Version",
+      "url": "https://open.spotify.com/track/6cTWJgNkmhATsI6RJgTPH4"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -763,18 +779,18 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "The New Seekers",
-        "url": "https://open.spotify.com/album/0439cWYJRibTFks4Re28ES"
+        "name": "Secret Combination",
+        "url": "https://open.spotify.com/album/4neINSK3QUx2L5VGMBuE6a"
       },
       "artists": [
         {
-          "name": "The New Seekers",
-          "url": "https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn"
+          "name": "Kalomira",
+          "url": "https://open.spotify.com/artist/5duetVmlUhQnoJ3dhqChFH"
         }
       ],
-      "duration_ms": 167333,
-      "name": "Beg, Steal Or Borrow",
-      "url": "https://open.spotify.com/track/5qyE3nSkh3KRfLzISfXYDc"
+      "duration_ms": 182586,
+      "name": "Secret Combination - Eurovision 2008 Mix",
+      "url": "https://open.spotify.com/track/4K97pvdLv1zmJy2bvYtEFG"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -795,18 +811,18 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Secret Combination",
-        "url": "https://open.spotify.com/album/4neINSK3QUx2L5VGMBuE6a"
+        "name": "The New Seekers",
+        "url": "https://open.spotify.com/album/0439cWYJRibTFks4Re28ES"
       },
       "artists": [
         {
-          "name": "Kalomira",
-          "url": "https://open.spotify.com/artist/5duetVmlUhQnoJ3dhqChFH"
+          "name": "The New Seekers",
+          "url": "https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn"
         }
       ],
-      "duration_ms": 182586,
-      "name": "Secret Combination - Eurovision 2008 Mix",
-      "url": "https://open.spotify.com/track/4K97pvdLv1zmJy2bvYtEFG"
+      "duration_ms": 167333,
+      "name": "Beg, Steal Or Borrow",
+      "url": "https://open.spotify.com/track/5qyE3nSkh3KRfLzISfXYDc"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -823,6 +839,26 @@
       "duration_ms": 182134,
       "name": "Dance You Off",
       "url": "https://open.spotify.com/track/0s3P5PImfDZYWIseR3b39D"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "La voix du nord",
+        "url": "https://open.spotify.com/album/0h8iIqw8uv8Rif7zPK8iml"
+      },
+      "artists": [
+        {
+          "name": "Malena Ernman",
+          "url": "https://open.spotify.com/artist/0muluUHym4N0wB62sD0MPo"
+        },
+        {
+          "name": "Fredrik Kempe",
+          "url": "https://open.spotify.com/artist/5a3wjp9dcWyJitaiwXIsC7"
+        }
+      ],
+      "duration_ms": 177013,
+      "name": "La Voix",
+      "url": "https://open.spotify.com/track/7Kz4f9CgtAfbmPBMX5q2ZV"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -855,26 +891,6 @@
       "duration_ms": 181674,
       "name": "Cliche Love Song - Another Version",
       "url": "https://open.spotify.com/track/3V9489pkfvGQyGUzerfI7B"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
-        "name": "La voix du nord",
-        "url": "https://open.spotify.com/album/0h8iIqw8uv8Rif7zPK8iml"
-      },
-      "artists": [
-        {
-          "name": "Malena Ernman",
-          "url": "https://open.spotify.com/artist/0muluUHym4N0wB62sD0MPo"
-        },
-        {
-          "name": "Fredrik Kempe",
-          "url": "https://open.spotify.com/artist/5a3wjp9dcWyJitaiwXIsC7"
-        }
-      ],
-      "duration_ms": 177013,
-      "name": "La Voix",
-      "url": "https://open.spotify.com/track/7Kz4f9CgtAfbmPBMX5q2ZV"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Occidentali's Karma (Eurovision Version)",
-        "url": "https://open.spotify.com/album/50fjsJpz6QKCGUUo9GlD6E"
-      },
-      "artists": [
-        {
-          "name": "Francesco Gabbani",
-          "url": "https://open.spotify.com/artist/5lzqFxifzjxYHGJxuwQqtR"
-        }
-      ],
-      "duration_ms": 183163,
-      "name": "Occidentali's Karma (Eurovision Version)",
-      "url": "https://open.spotify.com/track/7nBGd4jSPgvdJn97sdrFK5"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "This Gig Almost Got Me Killed",
         "url": "https://open.spotify.com/album/2iOWFL3Nvw6HEhXfSxFe2K"
       },
@@ -1055,6 +1055,22 @@
       "duration_ms": 182950,
       "name": "Playing with Fire",
       "url": "https://open.spotify.com/track/0m3mkj4WTHkfrmHB6toUIK"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Occidentali's Karma (Eurovision Version)",
+        "url": "https://open.spotify.com/album/50fjsJpz6QKCGUUo9GlD6E"
+      },
+      "artists": [
+        {
+          "name": "Francesco Gabbani",
+          "url": "https://open.spotify.com/artist/5lzqFxifzjxYHGJxuwQqtR"
+        }
+      ],
+      "duration_ms": 183163,
+      "name": "Occidentali's Karma (Eurovision Version)",
+      "url": "https://open.spotify.com/track/7nBGd4jSPgvdJn97sdrFK5"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Walk On Water",
-        "url": "https://open.spotify.com/album/2gdlErpWJdjuXOo4BJg0DV"
-      },
-      "artists": [
-        {
-          "name": "Ira Losco",
-          "url": "https://open.spotify.com/artist/6JSaVx77J1mck0Oyv5D0rV"
-        }
-      ],
-      "duration_ms": 185720,
-      "name": "Walk On Water",
-      "url": "https://open.spotify.com/track/6t9ECIs2ypkHQQ49VvhA3h"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Requiem (Eurovision version)",
         "url": "https://open.spotify.com/album/6ctJ0NtlKyUfFvBdWMDtII"
       },
@@ -1183,6 +1183,22 @@
       "duration_ms": 180538,
       "name": "Requiem - Eurovision Version",
       "url": "https://open.spotify.com/track/4Lhk5r1sm6MwH08JkwDZ0O"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Walk On Water",
+        "url": "https://open.spotify.com/album/2gdlErpWJdjuXOo4BJg0DV"
+      },
+      "artists": [
+        {
+          "name": "Ira Losco",
+          "url": "https://open.spotify.com/artist/6JSaVx77J1mck0Oyv5D0rV"
+        }
+      ],
+      "duration_ms": 185720,
+      "name": "Walk On Water",
+      "url": "https://open.spotify.com/track/6t9ECIs2ypkHQQ49VvhA3h"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -1215,22 +1231,6 @@
       "duration_ms": 184157,
       "name": "J'aime la vie - Eurovision 1986",
       "url": "https://open.spotify.com/track/6UKeMVzQeeOsjITXfX1cm4"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
-        "name": "Young Love",
-        "url": "https://open.spotify.com/album/25yASEbY2Pz60pCnx7l3kx"
-      },
-      "artists": [
-        {
-          "name": "Jedward",
-          "url": "https://open.spotify.com/artist/3WmFNCPmnVuZbVMeExH8hT"
-        }
-      ],
-      "duration_ms": 183093,
-      "name": "Waterline",
-      "url": "https://open.spotify.com/track/0xCMGAf80y3dUevG2qXpvS"
     }
   ],
   "unique_name": "Eurovision Party",

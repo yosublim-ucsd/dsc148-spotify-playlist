@@ -4,7 +4,7 @@
 
 > Experience the best of live worship here\. Cover: <a href="spotify:artist:3yAv8udgy9z6yF6rREcgfB">Rock City Worship</a>
 
-320 songs - 1 day 9 hr 33 min
+321 songs - 1 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Gratitude \- Live](https://open.spotify.com/track/2H4EuXmxJp29Sc19EnD9xP) | [Spring Harvest](https://open.spotify.com/artist/6okBvpENAfIe6u7n5bdFDK), [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Gratitude \(Live\)](https://open.spotify.com/album/1voPEXBiUxLOuJNkJosiXl) | 6:16 | 2022-09-11 | 2023-03-11 |
 | [Gratitude \- LIVE from Miracle Nights](https://open.spotify.com/track/0SnTTASsZDaKXH7ryveq7C) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Gratitude \- LIVE from Miracle Nights](https://open.spotify.com/album/5lOQm2QnGMxJMchHrn8W0Q) | 6:58 | 2023-04-14 |  |
 | [GREAT IS YOUR FAITHFULNESS](https://open.spotify.com/track/45V70jBntSAcbk24Uga5mJ) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [GREAT IS YOUR FAITHFULNESS](https://open.spotify.com/album/5g9BTtL5emqVUXlzhWrjGM) | 4:11 | 2022-02-19 | 2023-04-15 |
-| [Greater Than It All \- Live](https://open.spotify.com/track/36v3znbKACA4BkhaUHSjbE) | [Spring Harvest](https://open.spotify.com/artist/6okBvpENAfIe6u7n5bdFDK) | [Gratitude: 10 Live Worship Songs From Spring Harvest 2022](https://open.spotify.com/album/33QIgV6G5UIDN2neiShgyM) | 4:52 | 2023-08-11 |  |
+| [Greater Than It All \- Live](https://open.spotify.com/track/36v3znbKACA4BkhaUHSjbE) | [Spring Harvest](https://open.spotify.com/artist/6okBvpENAfIe6u7n5bdFDK) | [Gratitude: 10 Live Worship Songs From Spring Harvest 2022](https://open.spotify.com/album/33QIgV6G5UIDN2neiShgyM) | 4:52 | 2023-08-11 | 2024-03-06 |
 | [Greater Than It All \- Live](https://open.spotify.com/track/4Vqvuy5Z4Lhn5wdqFDpTjx) | [Spring Harvest](https://open.spotify.com/artist/6okBvpENAfIe6u7n5bdFDK), [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Greater Than It All \(Live\)](https://open.spotify.com/album/0beZjVg2wi1FiDYA7abeFe) | 4:52 | 2023-03-20 | 2023-07-26 |
 | [Growing Pains Pt\. 2](https://open.spotify.com/track/3JT72Odgjboph3SnXhDbzk) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Growing Pains](https://open.spotify.com/album/2t6iyhcrH9dDuPzCSjnxFG) | 2:27 | 2022-09-11 | 2024-01-13 |
 | [Halfway Empty \- Live](https://open.spotify.com/track/17it5wfXOeMzTiid9xMGye) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Halfway Empty \(Live\)](https://open.spotify.com/album/2zM8xyAjwRPBZCE4nkhlOw) | 3:45 | 2023-03-11 | 2023-04-15 |
@@ -187,6 +187,7 @@
 | [Love Like This \- Live](https://open.spotify.com/track/6xljd64z084rDGY93Lx6Qm) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Kirby Kaple](https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1) | [Love Like This \(Live\)](https://open.spotify.com/album/5mAnlvwjpb5I7Ts0VHQSmF) | 4:54 | 2022-02-19 | 2023-04-15 |
 | [Made For More \- Live](https://open.spotify.com/track/3eQJ6y1J3VL1cMWQ9cY3tl) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Made For More \(Live\)](https://open.spotify.com/album/4WSovjbbLpFMz7M3NtJiKh) | 6:12 | 2024-01-12 | 2024-02-10 |
 | [Made For More \- Live](https://open.spotify.com/track/5P5mU8DN0qNF2Rlhx6P9VW) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Crowns Down \(Live\)](https://open.spotify.com/album/3NSQCYMpoxUm9Mg3qIVLNu) | 6:12 | 2024-01-12 | 2024-03-02 |
+| [Made For More \- Live](https://open.spotify.com/track/6uMBuBt74T2jXK3llaRDky) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Made For More \(Live\)](https://open.spotify.com/album/0TchDjWSD1zqYTJcYbcBZA) | 6:12 | 2024-01-12 |  |
 | [Make A Way \(feat\. Chandler Moore & Brandon Lake\)](https://open.spotify.com/track/6zWWw5C05h7blvMcdel3uW) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 8:32 | 2023-05-19 |  |
 | [Man of Miracles \- Live](https://open.spotify.com/track/4fG876rJEE1hMfqdzVAjSR) | [Fellowship Creative](https://open.spotify.com/artist/1HFukfooHlG0Z5nvBCpLNL) | [Til the Day I Die \(Live\)](https://open.spotify.com/album/4vPRiVFCsGB2PkDYtvusZP) | 4:56 | 2022-09-11 | 2023-03-11 |
 | [Manasseh \- Live](https://open.spotify.com/track/2TzZevxgyPuD68uWx5GTfJ) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Church \(Live\)](https://open.spotify.com/album/41shdA7VJJmH5uJTzbH9Lc) | 6:02 | 2023-08-11 |  |

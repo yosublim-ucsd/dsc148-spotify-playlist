@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 29328,
+  "num_followers": 29337,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzY1NCw5ZWM2MDFhZjljMzU3YmVhM2RhY2FhOWRmNThiNDdmMzMzYmIzNmY5",
+  "snapshot_id": "MzY2MSw4NjlkOWQzMzM5ZDZhMWEzNmFiODJmYmY2MDNhMTMzNTQ4NzVmMjk1",
   "tracks": [
     {
       "added_at": "2024-02-20 17:59:46",
@@ -41,22 +41,6 @@
       "url": "https://open.spotify.com/track/0Tc7p0cKE8078NVGRDcDOX"
     },
     {
-      "added_at": "2024-02-15 14:22:58",
-      "album": {
-        "name": "Make Me",
-        "url": "https://open.spotify.com/album/7GK7EmnHe9MdYTDSKHqMg7"
-      },
-      "artists": [
-        {
-          "name": "Elkka",
-          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
-        }
-      ],
-      "duration_ms": 224204,
-      "name": "Make Me",
-      "url": "https://open.spotify.com/track/0y9rIGAQEHAwDrBWOQvstV"
-    },
-    {
       "added_at": "2024-03-04 17:49:03",
       "album": {
         "name": "ZOOM",
@@ -77,6 +61,54 @@
       "url": "https://open.spotify.com/track/5BrX72zkxJaowRZwgM8wyB"
     },
     {
+      "added_at": "2024-03-05 16:29:27",
+      "album": {
+        "name": "Close To You",
+        "url": "https://open.spotify.com/album/0WWfUDxemDpOuvEERdb189"
+      },
+      "artists": [
+        {
+          "name": "I. JORDAN",
+          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+        }
+      ],
+      "duration_ms": 341124,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/7AhBjNRySvSEna7yOTxspv"
+    },
+    {
+      "added_at": "2024-02-15 14:22:58",
+      "album": {
+        "name": "Make Me",
+        "url": "https://open.spotify.com/album/7GK7EmnHe9MdYTDSKHqMg7"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "duration_ms": 224204,
+      "name": "Make Me",
+      "url": "https://open.spotify.com/track/0y9rIGAQEHAwDrBWOQvstV"
+    },
+    {
+      "added_at": "2024-02-02 19:20:30",
+      "album": {
+        "name": "CHROMA 001",
+        "url": "https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ"
+      },
+      "artists": [
+        {
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "duration_ms": 287447,
+      "name": "CHROMA 001 HELIUM",
+      "url": "https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm"
+    },
+    {
       "added_at": "2024-02-07 17:25:01",
       "album": {
         "name": "Real Hot n Naughty",
@@ -95,22 +127,6 @@
       "duration_ms": 214925,
       "name": "Real Hot n Naughty",
       "url": "https://open.spotify.com/track/1hPBJwV6CK6d8IgC9OUmqW"
-    },
-    {
-      "added_at": "2024-02-02 19:20:30",
-      "album": {
-        "name": "CHROMA 001",
-        "url": "https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ"
-      },
-      "artists": [
-        {
-          "name": "BICEP",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 287447,
-      "name": "CHROMA 001 HELIUM",
-      "url": "https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm"
     },
     {
       "added_at": "2024-01-23 18:04:51",
@@ -165,26 +181,6 @@
       "url": "https://open.spotify.com/track/5nD09eXAGQUYDCTSUGOHU1"
     },
     {
-      "added_at": "2024-03-01 12:30:16",
-      "album": {
-        "name": "Passionfruit",
-        "url": "https://open.spotify.com/album/4HzvdM3vEosy314rM2JtGb"
-      },
-      "artists": [
-        {
-          "name": "Elkka",
-          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
-        },
-        {
-          "name": "John Carroll Kirby",
-          "url": "https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld"
-        }
-      ],
-      "duration_ms": 562061,
-      "name": "Passionfruit",
-      "url": "https://open.spotify.com/track/5NaWrr9UO9mCRDN3bNFRmZ"
-    },
-    {
       "added_at": "2023-09-15 16:22:33",
       "album": {
         "name": "Somebody",
@@ -207,6 +203,26 @@
       "duration_ms": 235265,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/3Q2Sh0puZOeJvTjPPq4xnn"
+    },
+    {
+      "added_at": "2024-03-01 12:30:16",
+      "album": {
+        "name": "Passionfruit",
+        "url": "https://open.spotify.com/album/4HzvdM3vEosy314rM2JtGb"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        },
+        {
+          "name": "John Carroll Kirby",
+          "url": "https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld"
+        }
+      ],
+      "duration_ms": 562061,
+      "name": "Passionfruit",
+      "url": "https://open.spotify.com/track/5NaWrr9UO9mCRDN3bNFRmZ"
     },
     {
       "added_at": "2023-06-27 16:21:53",
@@ -633,22 +649,6 @@
       "url": "https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18"
     },
     {
-      "added_at": "2023-07-12 16:04:46",
-      "album": {
-        "name": "dazies",
-        "url": "https://open.spotify.com/album/2FmsHWgWAxpHPztCGn4xip"
-      },
-      "artists": [
-        {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
-        }
-      ],
-      "duration_ms": 264854,
-      "name": "dazies",
-      "url": "https://open.spotify.com/track/1WucOL2fl6kxq6qz1jIGDM"
-    },
-    {
       "added_at": "2024-03-01 12:53:15",
       "album": {
         "name": "One Last Call",
@@ -723,34 +723,6 @@
       "duration_ms": 233600,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk"
-    },
-    {
-      "added_at": "2024-03-01 12:52:03",
-      "album": {
-        "name": "Somebody (Trance Wax Remix)",
-        "url": "https://open.spotify.com/album/3mN2pmlEOx5Pix0W1gCVO3"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        },
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        },
-        {
-          "name": "Trance Wax",
-          "url": "https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE"
-        }
-      ],
-      "duration_ms": 171692,
-      "name": "Somebody - Trance Wax Remix",
-      "url": "https://open.spotify.com/track/5QzS1Urzz6yS4mNscC5Ckl"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

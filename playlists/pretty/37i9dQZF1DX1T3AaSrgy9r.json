@@ -1,12 +1,12 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 121727,
+  "num_followers": 121779,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzRhNjdmOTQxMjQwMmQzZGUwMjE4OGFmNDllODNkMDU4NjMwZWEx",
+  "snapshot_id": "MCwzZjY4ZWEyZjM2YTZjMWM2ZTNmOTBiZTFhOTA2ZDFhMWM3YjQ0NjA3",
   "tracks": [
     {
       "added_at": "2021-07-14 17:36:34",
@@ -855,22 +855,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Republica",
-        "url": "https://open.spotify.com/album/5KIb3c4z28CHa5snztEMNK"
-      },
-      "artists": [
-        {
-          "name": "Republica",
-          "url": "https://open.spotify.com/artist/06YQ6XwCdPUn8rAXV70gge"
-        }
-      ],
-      "duration_ms": 301066,
-      "name": "Ready to Go",
-      "url": "https://open.spotify.com/track/5Qt8U8Suu7MFH1VcJr17Td"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Flat Beat",
         "url": "https://open.spotify.com/album/4rUN2CpOOBouCSnbi3MfYQ"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 325173,
       "name": "Flat Beat",
       "url": "https://open.spotify.com/track/7GP1ZmPGH1puBliT9S6Fi5"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Republica",
+        "url": "https://open.spotify.com/album/5KIb3c4z28CHa5snztEMNK"
+      },
+      "artists": [
+        {
+          "name": "Republica",
+          "url": "https://open.spotify.com/artist/06YQ6XwCdPUn8rAXV70gge"
+        }
+      ],
+      "duration_ms": 301066,
+      "name": "Ready to Go",
+      "url": "https://open.spotify.com/track/5Qt8U8Suu7MFH1VcJr17Td"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -987,22 +987,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Inner City Life",
-        "url": "https://open.spotify.com/album/3nlPv0dIcF8CNaiVzsHBsY"
-      },
-      "artists": [
-        {
-          "name": "Goldie",
-          "url": "https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M"
-        }
-      ],
-      "duration_ms": 231973,
-      "name": "Inner City Life - Radio Edit",
-      "url": "https://open.spotify.com/track/4TOIdyhxz1xgAlrrz2HHhT"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Maxinquaye",
         "url": "https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 339893,
       "name": "Black Steel",
       "url": "https://open.spotify.com/track/52QqxUwMHSmeDZlZBABefY"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Inner City Life",
+        "url": "https://open.spotify.com/album/3nlPv0dIcF8CNaiVzsHBsY"
+      },
+      "artists": [
+        {
+          "name": "Goldie",
+          "url": "https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M"
+        }
+      ],
+      "duration_ms": 231973,
+      "name": "Inner City Life - Radio Edit",
+      "url": "https://open.spotify.com/track/4TOIdyhxz1xgAlrrz2HHhT"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1135,26 +1135,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "The Journey Man",
-        "url": "https://open.spotify.com/album/3Dnjpajk4EWNDi6o62Jgdt"
+        "name": "Pre Millennium Tension",
+        "url": "https://open.spotify.com/album/540zw9ShTu9bsY984xS3Hu"
       },
       "artists": [
         {
-          "name": "Goldie",
-          "url": "https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M"
+          "name": "Tricky",
+          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
         },
         {
-          "name": "Ulterior Motive",
-          "url": "https://open.spotify.com/artist/711RACYACplatReI4JGaoa"
-        },
-        {
-          "name": "Natalie Williams",
-          "url": "https://open.spotify.com/artist/6MZnLVb7yS0r1C3CejYIFF"
+          "name": "Martina Topley-Bird",
+          "url": "https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6"
         }
       ],
-      "duration_ms": 366387,
-      "name": "I Adore You",
-      "url": "https://open.spotify.com/track/3m8ERzbjadbhyYjfMb5rDX"
+      "duration_ms": 241000,
+      "name": "Makes Me Wanna Die",
+      "url": "https://open.spotify.com/track/385DxV3uLG88GaCUsyCyrX"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1175,22 +1171,26 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Pre Millennium Tension",
-        "url": "https://open.spotify.com/album/540zw9ShTu9bsY984xS3Hu"
+        "name": "The Journey Man",
+        "url": "https://open.spotify.com/album/3Dnjpajk4EWNDi6o62Jgdt"
       },
       "artists": [
         {
-          "name": "Tricky",
-          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+          "name": "Goldie",
+          "url": "https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M"
         },
         {
-          "name": "Martina Topley-Bird",
-          "url": "https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6"
+          "name": "Ulterior Motive",
+          "url": "https://open.spotify.com/artist/711RACYACplatReI4JGaoa"
+        },
+        {
+          "name": "Natalie Williams",
+          "url": "https://open.spotify.com/artist/6MZnLVb7yS0r1C3CejYIFF"
         }
       ],
-      "duration_ms": 241000,
-      "name": "Makes Me Wanna Die",
-      "url": "https://open.spotify.com/track/385DxV3uLG88GaCUsyCyrX"
+      "duration_ms": 366387,
+      "name": "I Adore You",
+      "url": "https://open.spotify.com/track/3m8ERzbjadbhyYjfMb5rDX"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Dead Cities",
-        "url": "https://open.spotify.com/album/2xHvAxrgMfKrYIicQVT9ay"
-      },
-      "artists": [
-        {
-          "name": "The Future Sound Of London",
-          "url": "https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3"
-        }
-      ],
-      "duration_ms": 379160,
-      "name": "We Have Explosive",
-      "url": "https://open.spotify.com/track/0VNfwqLDcbKk5eDBOdYWTI"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "You've Come A Long Way Baby",
         "url": "https://open.spotify.com/album/5oF9RaCKaF7e5siW9zdl6L"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 413880,
       "name": "The Rockafeller Skank",
       "url": "https://open.spotify.com/track/5KgBcFl3sjhGTa5PStoHMp"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Dead Cities",
+        "url": "https://open.spotify.com/album/2xHvAxrgMfKrYIicQVT9ay"
+      },
+      "artists": [
+        {
+          "name": "The Future Sound Of London",
+          "url": "https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3"
+        }
+      ],
+      "duration_ms": 379160,
+      "name": "We Have Explosive",
+      "url": "https://open.spotify.com/track/0VNfwqLDcbKk5eDBOdYWTI"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Halfway Between The Gutter And The Stars",
-        "url": "https://open.spotify.com/album/3Y4bIqSYLUyyLO0ZxIGpst"
-      },
-      "artists": [
-        {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
-        }
-      ],
-      "duration_ms": 345893,
-      "name": "Weapon Of Choice",
-      "url": "https://open.spotify.com/track/3ozrQkhWEaiDUNcjuguoja"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Dead Cities",
         "url": "https://open.spotify.com/album/2xHvAxrgMfKrYIicQVT9ay"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 347106,
       "name": "My Kingdom",
       "url": "https://open.spotify.com/track/7mB5AgvBYc6QasgzTxrugB"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Halfway Between The Gutter And The Stars",
+        "url": "https://open.spotify.com/album/3Y4bIqSYLUyyLO0ZxIGpst"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "duration_ms": 345893,
+      "name": "Weapon Of Choice",
+      "url": "https://open.spotify.com/track/3ozrQkhWEaiDUNcjuguoja"
     },
     {
       "added_at": "2021-07-14 17:36:34",

@@ -507,6 +507,24 @@
     },
     {
       "album": {
+        "name": "Revenant (Original Soundtrack) Pt.1",
+        "url": "https://open.spotify.com/album/6LZvcf7kGtjnbI7RckHFlR"
+      },
+      "artists": [
+        {
+          "name": "ALi",
+          "url": "https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186967,
+      "name": "Revenant",
+      "url": "https://open.spotify.com/track/3o9rRhf41DTyxSnUtsOw3I"
+    },
+    {
+      "album": {
         "name": "Revenant (Original Soundtrack) Pt.4",
         "url": "https://open.spotify.com/album/1YBoX5Ch2K3W0qbBNqSs5R"
       },
@@ -684,24 +702,6 @@
       "duration_ms": 228078,
       "name": "\uadf8\ub304 \uc544\ub098\uc694",
       "url": "https://open.spotify.com/track/2QyWg4ksyBMWA6MvOi6Qc2"
-    },
-    {
-      "album": {
-        "name": "Revenant (Original Television Soundtrack) Pt.1",
-        "url": "https://open.spotify.com/album/6LZvcf7kGtjnbI7RckHFlR"
-      },
-      "artists": [
-        {
-          "name": "ALi",
-          "url": "https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9"
-        }
-      ],
-      "date_added": "2023-07-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 186967,
-      "name": "\uc545\uadc0",
-      "url": "https://open.spotify.com/track/3o9rRhf41DTyxSnUtsOw3I"
     },
     {
       "album": {

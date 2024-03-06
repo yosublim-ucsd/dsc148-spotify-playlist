@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 
 > you give me shiverssss
 
-[Spotify](https://open.spotify.com/user/spotify) - 417 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 421 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 | 16 | [eMotion](https://open.spotify.com/track/4F09Q90WWBBoCY3k1OqOBp) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/4C4GoTj4U4QL9awtXxbFYv) | 2:16 |
 | 17 | [THE PLEASURE PRINCIPLE](https://open.spotify.com/track/2Mi6xZwRYDe9RLVpeFtpgX) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu), [Raytheboffin](https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r) | [ULTRALIGHT](https://open.spotify.com/album/555u9I3MowqYOghGFSAR7U) | 4:08 |
 | 18 | [XO](https://open.spotify.com/track/0hIJZTluzNb0wFcydgV1gR) | [LottiXTC](https://open.spotify.com/artist/4BrVKxA7fBmB7siL8v7BK3) | [XO](https://open.spotify.com/album/0mRfAuheaBITh9VKYEnjBu) | 2:14 |
-| 19 | [All The Way](https://open.spotify.com/track/0MxWBWLNPdNWtIOgTHD9hO) | [Ess thee Legend](https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA) | [YOU WILL KNOW MY NAME](https://open.spotify.com/album/3BL6PeAQwWi2vwrj8wfI87) | 2:47 |
+| 19 | [All The Way](https://open.spotify.com/track/0MxWBWLNPdNWtIOgTHD9hO) | [Ess thee Legend](https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA), [Robin Rozay](https://open.spotify.com/artist/3p5fc6bu54bLBRlv6ZbWlV) | [YOU WILL KNOW MY NAME](https://open.spotify.com/album/3BL6PeAQwWi2vwrj8wfI87) | 2:47 |
 | 20 | [Wine](https://open.spotify.com/track/2qpCxK7imR1qbH4fbdgWLg) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:50 |
 | 21 | [Jeje de Whine](https://open.spotify.com/track/3IKW5FVGMa3a45ZNHc6jxy) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:56 |
 | 22 | [Burn 4 U](https://open.spotify.com/track/07azphHzbTXLjgE0h4HHP4) | [Mia](https://open.spotify.com/artist/7z2DaVmImfzaRsnSJow820) | [The Other Side](https://open.spotify.com/album/2E6nRkDKnZ0pv5G8uHMZdE) | 4:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 | 49 | [Shadow](https://open.spotify.com/track/3nRNBZWIeLWfXKvuLuyiWl) | [Salome](https://open.spotify.com/artist/5DxbeMKmMhAE6j80lDhUxq) | [Shadow](https://open.spotify.com/album/2cJLHEoYe1o1NkeexIWMRS) | 2:49 |
 | 50 | [Early Momo](https://open.spotify.com/track/3q9OiLZVS3Om7uI6cBfaOZ) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [GoodGirl LA](https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS) | [Early Momo](https://open.spotify.com/album/0MeNdDh80OeWXNrRFA9QEs) | 3:13 |
 
-Snapshot ID: `MCw5NmMyZTM1NzM3OWRkODBkNTIwY2QxNTU0ZjI0NjkzOTVhNzBjY2U1`
+Snapshot ID: `MCw3ZTRhNThlYmNhYjQxYmZmZTQ5NDhkZGI0OTBhZmFlZmI4M2RkZjMx`

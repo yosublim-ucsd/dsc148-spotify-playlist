@@ -1,12 +1,12 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 42973,
+  "num_followers": 42977,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGNlMTQ4ODdlYTZjOWQ1ZDZhNThmYmY2YWVhMzFmNTgxMWExYWI4",
+  "snapshot_id": "MCxmM2Y2MzZkZmEzOTQ2ODVmMWQ4MTY1ZjA5MWM3YjQ1NzViZTBhNjU4",
   "tracks": [
     {
       "added_at": "2023-11-15 02:04:48",
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Venus Ate Mars",
+        "url": "https://open.spotify.com/album/1jL5TTiuaTf52bwC3PLSrt"
+      },
+      "artists": [
+        {
+          "name": "Daily J",
+          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
+        }
+      ],
+      "duration_ms": 285003,
+      "name": "Left Me Like Summer",
+      "url": "https://open.spotify.com/track/0YVyOLWIh5pe9DEJJjjKKH"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "The Dark Prince (feat. Mac DeMarco)",
         "url": "https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 138190,
       "name": "Millionaire",
       "url": "https://open.spotify.com/track/46WhhMGZ47aVtpJVASA2Dg"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Venus Ate Mars",
-        "url": "https://open.spotify.com/album/1jL5TTiuaTf52bwC3PLSrt"
-      },
-      "artists": [
-        {
-          "name": "Daily J",
-          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
-        }
-      ],
-      "duration_ms": 285003,
-      "name": "Left Me Like Summer",
-      "url": "https://open.spotify.com/track/0YVyOLWIh5pe9DEJJjjKKH"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "White Water",
-        "url": "https://open.spotify.com/album/4yZll8f1nGx4qpqKMLe87V"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "duration_ms": 233391,
-      "name": "White Water",
-      "url": "https://open.spotify.com/track/5dmrLolEgTr4TT0AhOxk5x"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Simply Paradise",
         "url": "https://open.spotify.com/album/4NKglcnKOsi2uFYJOSGkUM"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 155695,
       "name": "Simply Paradise",
       "url": "https://open.spotify.com/track/1EKpwGoisV5nUOqqMZ7gAJ"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "White Water",
+        "url": "https://open.spotify.com/album/4yZll8f1nGx4qpqKMLe87V"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "duration_ms": 233391,
+      "name": "White Water",
+      "url": "https://open.spotify.com/track/5dmrLolEgTr4TT0AhOxk5x"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -647,18 +647,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Waking Up Easy",
-        "url": "https://open.spotify.com/album/34D40eqFx2RdCWi54tlKFx"
+        "name": "In the Sky",
+        "url": "https://open.spotify.com/album/0WuS7pRWpHnsSjOqizOZix"
       },
       "artists": [
         {
-          "name": "Lime Cordiale",
-          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
         }
       ],
-      "duration_ms": 236808,
-      "name": "Waking Up Easy",
-      "url": "https://open.spotify.com/track/1mupwOlwPPnX76edNnu2H1"
+      "duration_ms": 217284,
+      "name": "Groceries",
+      "url": "https://open.spotify.com/track/3II5NhDhjzIessLfaSjPQn"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -679,34 +679,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "In the Sky",
-        "url": "https://open.spotify.com/album/0WuS7pRWpHnsSjOqizOZix"
+        "name": "Waking Up Easy",
+        "url": "https://open.spotify.com/album/34D40eqFx2RdCWi54tlKFx"
       },
       "artists": [
         {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+          "name": "Lime Cordiale",
+          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
         }
       ],
-      "duration_ms": 217284,
-      "name": "Groceries",
-      "url": "https://open.spotify.com/track/3II5NhDhjzIessLfaSjPQn"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Lonely Diamond",
-        "url": "https://open.spotify.com/album/4MLLqbSPtYyA6zPxd1Qqrm"
-      },
-      "artists": [
-        {
-          "name": "Ocean Alley",
-          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
-        }
-      ],
-      "duration_ms": 240280,
-      "name": "Tombstone",
-      "url": "https://open.spotify.com/track/2kcfGjPU2sSZqGPETdGd6o"
+      "duration_ms": 236808,
+      "name": "Waking Up Easy",
+      "url": "https://open.spotify.com/track/1mupwOlwPPnX76edNnu2H1"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -723,6 +707,22 @@
       "duration_ms": 255520,
       "name": "We Will Run",
       "url": "https://open.spotify.com/track/75jqKUwTZo2UtqW7xAzIni"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Lonely Diamond",
+        "url": "https://open.spotify.com/album/4MLLqbSPtYyA6zPxd1Qqrm"
+      },
+      "artists": [
+        {
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+        }
+      ],
+      "duration_ms": 240280,
+      "name": "Tombstone",
+      "url": "https://open.spotify.com/track/2kcfGjPU2sSZqGPETdGd6o"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Here Comes Everybody",
-        "url": "https://open.spotify.com/album/5lnbzrucSAV8KKxTDtfvER"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 244460,
-      "name": "It's Been a Long Day",
-      "url": "https://open.spotify.com/track/4oc0dMfgMj6cA7WCJneZrD"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "The Green Superintendent",
         "url": "https://open.spotify.com/album/58n9RgidWA0gk6pyJVRIP7"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 289515,
       "name": "Ride",
       "url": "https://open.spotify.com/track/40a71fyOae5rPfqo8JPoLL"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Here Comes Everybody",
+        "url": "https://open.spotify.com/album/5lnbzrucSAV8KKxTDtfvER"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 244460,
+      "name": "It's Been a Long Day",
+      "url": "https://open.spotify.com/track/4oc0dMfgMj6cA7WCJneZrD"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -919,26 +919,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Thick Skin",
-        "url": "https://open.spotify.com/album/0mlELU0kLfrlVZDtMRVHIO"
-      },
-      "artists": [
-        {
-          "name": "Tia Gostelow",
-          "url": "https://open.spotify.com/artist/4blt4zG5qMjWCPymNjDNP5"
-        },
-        {
-          "name": "LANKS",
-          "url": "https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/1LG0NlZUludshTbX5iE8Bo"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Double Espresso",
         "url": "https://open.spotify.com/album/37b6N6qzjS2k1LvbdSCdF9"
       },
@@ -955,18 +935,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Paint",
-        "url": "https://open.spotify.com/album/6J8EzIkd1LeP07kIF77RNz"
+        "name": "Thick Skin",
+        "url": "https://open.spotify.com/album/0mlELU0kLfrlVZDtMRVHIO"
       },
       "artists": [
         {
-          "name": "Holy Holy",
-          "url": "https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2"
+          "name": "Tia Gostelow",
+          "url": "https://open.spotify.com/artist/4blt4zG5qMjWCPymNjDNP5"
+        },
+        {
+          "name": "LANKS",
+          "url": "https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb"
         }
       ],
-      "duration_ms": 259964,
-      "name": "True Lovers",
-      "url": "https://open.spotify.com/track/5RHY7WkAjAhpxuPN0CTd4F"
+      "duration_ms": 182000,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/1LG0NlZUludshTbX5iE8Bo"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/0sY90YfWxpjWpnNHV6WxH4"
+        "name": "Paint",
+        "url": "https://open.spotify.com/album/6J8EzIkd1LeP07kIF77RNz"
       },
       "artists": [
         {
-          "name": "Pacific Avenue",
-          "url": "https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ"
+          "name": "Holy Holy",
+          "url": "https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2"
         }
       ],
-      "duration_ms": 187228,
-      "name": "Strawberry Daydream",
-      "url": "https://open.spotify.com/track/2I5jfuDTkiWOEFu66lUrgv"
+      "duration_ms": 259964,
+      "name": "True Lovers",
+      "url": "https://open.spotify.com/track/5RHY7WkAjAhpxuPN0CTd4F"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1047,6 +1031,38 @@
       "duration_ms": 243131,
       "name": "Drift",
       "url": "https://open.spotify.com/track/2y14MWseQnWXApjJjNCPm8"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "searching for freedom",
+        "url": "https://open.spotify.com/album/3X06VUjGsF0QAOPXercS7L"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 242999,
+      "name": "together",
+      "url": "https://open.spotify.com/track/4w1MYoRSAWgAvrrprJDjnI"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/0sY90YfWxpjWpnNHV6WxH4"
+      },
+      "artists": [
+        {
+          "name": "Pacific Avenue",
+          "url": "https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ"
+        }
+      ],
+      "duration_ms": 187228,
+      "name": "Strawberry Daydream",
+      "url": "https://open.spotify.com/track/2I5jfuDTkiWOEFu66lUrgv"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1083,22 +1099,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "searching for freedom",
-        "url": "https://open.spotify.com/album/3X06VUjGsF0QAOPXercS7L"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 242999,
-      "name": "together",
-      "url": "https://open.spotify.com/track/4w1MYoRSAWgAvrrprJDjnI"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Run Home Slow",
         "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
       },
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Never Gonna Give You Up",
-        "url": "https://open.spotify.com/album/3g0uQDl6eYPBGsbX9C3axd"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 157787,
-      "name": "Never Gonna Give You Up",
-      "url": "https://open.spotify.com/track/4VmJxOc6dQqgcVmZa8nWGK"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Sponge Cake",
         "url": "https://open.spotify.com/album/5rBavL5GFknqp1CREqx4Ov"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 245687,
       "name": "Be About You",
       "url": "https://open.spotify.com/track/1KWV9Yim7CuklJYp0Ne8AK"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Never Gonna Give You Up",
+        "url": "https://open.spotify.com/album/3g0uQDl6eYPBGsbX9C3axd"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 157787,
+      "name": "Never Gonna Give You Up",
+      "url": "https://open.spotify.com/track/4VmJxOc6dQqgcVmZa8nWGK"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Everything Is Easy",
-        "url": "https://open.spotify.com/album/5Ic1mp3JN5Fv2gLrXK5y0r"
-      },
-      "artists": [
-        {
-          "name": "Rum Jungle",
-          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
-        }
-      ],
-      "duration_ms": 197663,
-      "name": "Everything Is Easy",
-      "url": "https://open.spotify.com/track/2ME1Q6GWXOt0oEqBHtDFvY"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "HOPE Campaign Tribute Album 2010",
         "url": "https://open.spotify.com/album/6nKCSPUzU4GLM7cqqYmruM"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 257906,
       "name": "La Mar",
       "url": "https://open.spotify.com/track/2qrVYBy2PArMwQRVZxFWzz"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Everything Is Easy",
+        "url": "https://open.spotify.com/album/5Ic1mp3JN5Fv2gLrXK5y0r"
+      },
+      "artists": [
+        {
+          "name": "Rum Jungle",
+          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
+        }
+      ],
+      "duration_ms": 197663,
+      "name": "Everything Is Easy",
+      "url": "https://open.spotify.com/track/2ME1Q6GWXOt0oEqBHtDFvY"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2pF0SGd7Fokl5dLlu10JiM"
+      },
+      "artists": [
+        {
+          "name": "Daily J",
+          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
+        }
+      ],
+      "duration_ms": 199437,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0LY4FwDjGq6Z5wj8UHtIbP"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Keepsake",
         "url": "https://open.spotify.com/album/4NnnY09KEF7Gnw2rXIb0lU"
       },
@@ -1275,18 +1291,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/2pF0SGd7Fokl5dLlu10JiM"
+        "name": "Terra Firma",
+        "url": "https://open.spotify.com/album/7o1gl7In7Onhi6KpQwUDWy"
       },
       "artists": [
         {
-          "name": "Daily J",
-          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
         }
       ],
-      "duration_ms": 199437,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/0LY4FwDjGq6Z5wj8UHtIbP"
+      "duration_ms": 279137,
+      "name": "Pretty Lady",
+      "url": "https://open.spotify.com/track/31ys9ZVrUE0HyS2C6ePzpn"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1323,34 +1339,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Blue Eyes",
-        "url": "https://open.spotify.com/album/5P5fEwWvPO5aAFggmkaCvG"
+        "name": "Rose Pink Cadillac",
+        "url": "https://open.spotify.com/album/2VaOn32haUapQOYnerK32W"
       },
       "artists": [
         {
-          "name": "Jordy Maxwell",
-          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
-        }
-      ],
-      "duration_ms": 237377,
-      "name": "Blue Eyes",
-      "url": "https://open.spotify.com/track/0JIGBObzd2N4gv8xDeJIQz"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Terra Firma",
-        "url": "https://open.spotify.com/album/7o1gl7In7Onhi6KpQwUDWy"
-      },
-      "artists": [
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        },
         {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+          "name": "Winston Surfshirt",
+          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
         }
       ],
-      "duration_ms": 279137,
-      "name": "Pretty Lady",
-      "url": "https://open.spotify.com/track/31ys9ZVrUE0HyS2C6ePzpn"
+      "duration_ms": 353211,
+      "name": "Every Day Is A Holiday (feat. Winston Surfshirt)",
+      "url": "https://open.spotify.com/track/2FYPHlCcEzere9tj4vAouv"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1371,22 +1375,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Rose Pink Cadillac",
-        "url": "https://open.spotify.com/album/2VaOn32haUapQOYnerK32W"
+        "name": "Blue Eyes",
+        "url": "https://open.spotify.com/album/5P5fEwWvPO5aAFggmkaCvG"
       },
       "artists": [
         {
-          "name": "DOPE LEMON",
-          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
-        },
-        {
-          "name": "Winston Surfshirt",
-          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
+          "name": "Jordy Maxwell",
+          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
         }
       ],
-      "duration_ms": 353211,
-      "name": "Every Day Is A Holiday (feat. Winston Surfshirt)",
-      "url": "https://open.spotify.com/track/2FYPHlCcEzere9tj4vAouv"
+      "duration_ms": 237377,
+      "name": "Blue Eyes",
+      "url": "https://open.spotify.com/track/0JIGBObzd2N4gv8xDeJIQz"
     }
   ],
   "unique_name": "Coast to Coast",

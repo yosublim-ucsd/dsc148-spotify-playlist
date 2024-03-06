@@ -1,12 +1,12 @@
 {
   "description": "Where nature and white noise meet.",
-  "num_followers": 903287,
+  "num_followers": 903383,
   "original_name": "Nature Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTQxYjA4ZjAwM2YwYjZjYTMxNzFlZWFkNmRhZTJhYWUyY2MzNzA5",
+  "snapshot_id": "MCwwNzFlMmE4MGQyNWQ4NjkzNTMzMjQxOWI5MDU1MTEwMzhkNDBjNDYy",
   "tracks": [
     {
       "added_at": "2023-06-20 09:13:06",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Cloud Droplets",
-        "url": "https://open.spotify.com/album/185dupnKF5DukVuwY38967"
-      },
-      "artists": [
-        {
-          "name": "Island Drizzle",
-          "url": "https://open.spotify.com/artist/4ZXHTKP1hGyn8s7oRLMxRw"
-        }
-      ],
-      "duration_ms": 159753,
-      "name": "Ground Level",
-      "url": "https://open.spotify.com/track/5s8EezAFdXNiHOvOutgtOU"
-    },
-    {
-      "added_at": "2023-06-20 09:13:06",
-      "album": {
         "name": "February Rain",
         "url": "https://open.spotify.com/album/6vFUwZL1ivCQ4SPMjLLuhM"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 212000,
       "name": "Rain keeps pouring",
       "url": "https://open.spotify.com/track/6vIMfO6imrKW1q7cvpIw8s"
+    },
+    {
+      "added_at": "2023-06-20 09:13:06",
+      "album": {
+        "name": "Cloud Droplets",
+        "url": "https://open.spotify.com/album/185dupnKF5DukVuwY38967"
+      },
+      "artists": [
+        {
+          "name": "Island Drizzle",
+          "url": "https://open.spotify.com/artist/4ZXHTKP1hGyn8s7oRLMxRw"
+        }
+      ],
+      "duration_ms": 159753,
+      "name": "Ground Level",
+      "url": "https://open.spotify.com/track/5s8EezAFdXNiHOvOutgtOU"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Ocean Noises",
-        "url": "https://open.spotify.com/album/0szLMw3GmyGkoN7KVS39Mk"
-      },
-      "artists": [
-        {
-          "name": "Ocean Bank",
-          "url": "https://open.spotify.com/artist/0Hv3Q7w8U9OJRP8t78JhJr"
-        }
-      ],
-      "duration_ms": 247471,
-      "name": "By The Docks",
-      "url": "https://open.spotify.com/track/1nVn1Mf8bUbANYgozOoCuq"
-    },
-    {
-      "added_at": "2023-06-20 09:13:06",
-      "album": {
         "name": "Weather and Nature Sounds",
         "url": "https://open.spotify.com/album/3wWgSu413Q50AqwXnc6Ui7"
       },
@@ -827,18 +811,18 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Peaceful Rain Sleep",
-        "url": "https://open.spotify.com/album/3HIatTLC5cX3O0EGOFsPDQ"
+        "name": "Ocean Noises",
+        "url": "https://open.spotify.com/album/0szLMw3GmyGkoN7KVS39Mk"
       },
       "artists": [
         {
-          "name": "The White Noise Zen & Meditation Sound Lab",
-          "url": "https://open.spotify.com/artist/0SS2yPrbIYS1j5r6nJOiWD"
+          "name": "Ocean Bank",
+          "url": "https://open.spotify.com/artist/0Hv3Q7w8U9OJRP8t78JhJr"
         }
       ],
-      "duration_ms": 148000,
-      "name": "Calm Rain Storm & Gentle White Noise",
-      "url": "https://open.spotify.com/track/5X8Hut4pmjxDUd8bYfFqjb"
+      "duration_ms": 247471,
+      "name": "By The Docks",
+      "url": "https://open.spotify.com/track/1nVn1Mf8bUbANYgozOoCuq"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -855,6 +839,22 @@
       "duration_ms": 152883,
       "name": "Summer Rain",
       "url": "https://open.spotify.com/track/7a3eLJPSgAk3PQbpYjrYdM"
+    },
+    {
+      "added_at": "2023-06-20 09:13:06",
+      "album": {
+        "name": "Peaceful Rain Sleep",
+        "url": "https://open.spotify.com/album/3HIatTLC5cX3O0EGOFsPDQ"
+      },
+      "artists": [
+        {
+          "name": "The White Noise Zen & Meditation Sound Lab",
+          "url": "https://open.spotify.com/artist/0SS2yPrbIYS1j5r6nJOiWD"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Calm Rain Storm & Gentle White Noise",
+      "url": "https://open.spotify.com/track/5X8Hut4pmjxDUd8bYfFqjb"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Meditation Rain",
-        "url": "https://open.spotify.com/album/1farM1FxV293sigzSAAdTs"
-      },
-      "artists": [
-        {
-          "name": "Natural Woodland Sounds",
-          "url": "https://open.spotify.com/artist/6K0BUWPIkxUstwTQZ9UjPH"
-        }
-      ],
-      "duration_ms": 160083,
-      "name": "Rain in Autumn",
-      "url": "https://open.spotify.com/track/26G9IW1wfeC1n5DIW8IM5E"
-    },
-    {
-      "added_at": "2023-06-20 09:13:06",
-      "album": {
         "name": "Thunderous Relaxation",
         "url": "https://open.spotify.com/album/57AK2pZaIKBJaWR6SAfGMu"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 180000,
       "name": "Rain Period Experience From a Bungalow in Thailand",
       "url": "https://open.spotify.com/track/3BnFSj59fyZy1v877MHpMV"
+    },
+    {
+      "added_at": "2023-06-20 09:13:06",
+      "album": {
+        "name": "Meditation Rain",
+        "url": "https://open.spotify.com/album/1farM1FxV293sigzSAAdTs"
+      },
+      "artists": [
+        {
+          "name": "Natural Woodland Sounds",
+          "url": "https://open.spotify.com/artist/6K0BUWPIkxUstwTQZ9UjPH"
+        }
+      ],
+      "duration_ms": 160083,
+      "name": "Rain in Autumn",
+      "url": "https://open.spotify.com/track/26G9IW1wfeC1n5DIW8IM5E"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
+        "name": "Waterfall Rain",
+        "url": "https://open.spotify.com/album/4scEQSqkBat1v9ze5Wirp1"
+      },
+      "artists": [
+        {
+          "name": "Puno",
+          "url": "https://open.spotify.com/artist/3W45T0i1wkogDjN58pGFHW"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Waterfall Rain",
+      "url": "https://open.spotify.com/track/53NHn1JDKYwMUpIRl9BmXO"
+    },
+    {
+      "added_at": "2023-06-20 09:13:06",
+      "album": {
         "name": "Nature",
         "url": "https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 165296,
       "name": "Zen Nature Sounds",
       "url": "https://open.spotify.com/track/5AltIifJScpUdJyQNxf3oj"
-    },
-    {
-      "added_at": "2023-06-20 09:13:06",
-      "album": {
-        "name": "Therapy Birds",
-        "url": "https://open.spotify.com/album/2sENQCcr3TVwPG5JFiU7Ai"
-      },
-      "artists": [
-        {
-          "name": "Memorable",
-          "url": "https://open.spotify.com/artist/216iyhH3TpJJYO9zF1zyxV"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Countryside Birds",
-      "url": "https://open.spotify.com/track/5hDsmltGgBULdoDZybh5VI"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Waterfall Rain",
-        "url": "https://open.spotify.com/album/4scEQSqkBat1v9ze5Wirp1"
+        "name": "Therapy Birds",
+        "url": "https://open.spotify.com/album/2sENQCcr3TVwPG5JFiU7Ai"
       },
       "artists": [
         {
-          "name": "Puno",
-          "url": "https://open.spotify.com/artist/3W45T0i1wkogDjN58pGFHW"
+          "name": "Memorable",
+          "url": "https://open.spotify.com/artist/216iyhH3TpJJYO9zF1zyxV"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Waterfall Rain",
-      "url": "https://open.spotify.com/track/53NHn1JDKYwMUpIRl9BmXO"
+      "duration_ms": 154000,
+      "name": "Countryside Birds",
+      "url": "https://open.spotify.com/track/5hDsmltGgBULdoDZybh5VI"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Rain Ambience",
-        "url": "https://open.spotify.com/album/1KTaSrFgB6KZfzJTxCWXIV"
-      },
-      "artists": [
-        {
-          "name": "Ambature",
-          "url": "https://open.spotify.com/artist/75H8JLJECgFwyMddSZSvIM"
-        }
-      ],
-      "duration_ms": 133021,
-      "name": "Rain Ambience",
-      "url": "https://open.spotify.com/track/0CBPKuwcdJpHiF1KtWKkg9"
-    },
-    {
-      "added_at": "2023-06-20 09:13:06",
-      "album": {
         "name": "Relaxing Running Water",
         "url": "https://open.spotify.com/album/5bfdoeCy8FpHfed8W5ObC7"
       },
@@ -1291,18 +1275,18 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Noises Of Ambience",
-        "url": "https://open.spotify.com/album/14CPqVzJefFRKUBZjZKUfK"
+        "name": "Rain Ambience",
+        "url": "https://open.spotify.com/album/1KTaSrFgB6KZfzJTxCWXIV"
       },
       "artists": [
         {
-          "name": "Noises Of Ambience",
-          "url": "https://open.spotify.com/artist/1G3MR4Gr6zFvXxm275w316"
+          "name": "Ambature",
+          "url": "https://open.spotify.com/artist/75H8JLJECgFwyMddSZSvIM"
         }
       ],
-      "duration_ms": 145635,
-      "name": "Natures White Noise",
-      "url": "https://open.spotify.com/track/5BznY5rMMB2BIrRu2LBGQd"
+      "duration_ms": 133021,
+      "name": "Rain Ambience",
+      "url": "https://open.spotify.com/track/0CBPKuwcdJpHiF1KtWKkg9"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Nature",
-        "url": "https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ"
+        "name": "Noises Of Ambience",
+        "url": "https://open.spotify.com/album/14CPqVzJefFRKUBZjZKUfK"
       },
       "artists": [
         {
-          "name": "Tranquil Forest Effect",
-          "url": "https://open.spotify.com/artist/73VwEvf8r3LsiROULuIHBA"
+          "name": "Noises Of Ambience",
+          "url": "https://open.spotify.com/artist/1G3MR4Gr6zFvXxm275w316"
         }
       ],
-      "duration_ms": 258079,
-      "name": "Shelter in the Forest",
-      "url": "https://open.spotify.com/track/6vDu8yINpZR4zHGNLkxOV4"
+      "duration_ms": 145635,
+      "name": "Natures White Noise",
+      "url": "https://open.spotify.com/track/5BznY5rMMB2BIrRu2LBGQd"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -1355,18 +1339,18 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Rain Day",
-        "url": "https://open.spotify.com/album/7H7Mh2c47UIakZJlkwEYAs"
+        "name": "Nature",
+        "url": "https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ"
       },
       "artists": [
         {
-          "name": "Sowetness",
-          "url": "https://open.spotify.com/artist/1uUGT13CFTQGhbHAyLAs5R"
+          "name": "Tranquil Forest Effect",
+          "url": "https://open.spotify.com/artist/73VwEvf8r3LsiROULuIHBA"
         }
       ],
-      "duration_ms": 153065,
-      "name": "Cool Rain",
-      "url": "https://open.spotify.com/track/4TZGYNmbDz2zjYpdOA0yQX"
+      "duration_ms": 258079,
+      "name": "Shelter in the Forest",
+      "url": "https://open.spotify.com/track/6vDu8yINpZR4zHGNLkxOV4"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -1383,6 +1367,22 @@
       "duration_ms": 208000,
       "name": "Rain Days On End",
       "url": "https://open.spotify.com/track/3Jn8zSkXJjUgYY6BMt63HY"
+    },
+    {
+      "added_at": "2023-06-20 09:13:06",
+      "album": {
+        "name": "Rain Day",
+        "url": "https://open.spotify.com/album/7H7Mh2c47UIakZJlkwEYAs"
+      },
+      "artists": [
+        {
+          "name": "Sowetness",
+          "url": "https://open.spotify.com/artist/1uUGT13CFTQGhbHAyLAs5R"
+        }
+      ],
+      "duration_ms": 153065,
+      "name": "Cool Rain",
+      "url": "https://open.spotify.com/track/4TZGYNmbDz2zjYpdOA0yQX"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Chill Day by the River",
-        "url": "https://open.spotify.com/album/59E3mxZ1mPRpAPYONamokv"
-      },
-      "artists": [
-        {
-          "name": "Calming Water Sounds",
-          "url": "https://open.spotify.com/artist/2eorj5qDKWRsb9BAfdssbx"
-        }
-      ],
-      "duration_ms": 147586,
-      "name": "Beruhigender Bach",
-      "url": "https://open.spotify.com/track/4O2wSXouI7mosBQGx4tZ0N"
-    },
-    {
-      "added_at": "2023-06-20 09:13:06",
-      "album": {
         "name": "3D Audio Textures of Birds & Water",
         "url": "https://open.spotify.com/album/0IVTahDgPVYrsC56rid7Mu"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 120664,
       "name": "Birds by the River",
       "url": "https://open.spotify.com/track/5Jf7lpi81Hgf80BgrZzYIP"
+    },
+    {
+      "added_at": "2023-06-20 09:13:06",
+      "album": {
+        "name": "Chill Day by the River",
+        "url": "https://open.spotify.com/album/59E3mxZ1mPRpAPYONamokv"
+      },
+      "artists": [
+        {
+          "name": "Calming Water Sounds",
+          "url": "https://open.spotify.com/artist/2eorj5qDKWRsb9BAfdssbx"
+        }
+      ],
+      "duration_ms": 147586,
+      "name": "Beruhigender Bach",
+      "url": "https://open.spotify.com/track/4O2wSXouI7mosBQGx4tZ0N"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Suburban Rain Sounds",
-        "url": "https://open.spotify.com/album/0TgW0ohXTbUPnZBvkUVih2"
-      },
-      "artists": [
-        {
-          "name": "Weather and Nature Recordings",
-          "url": "https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe"
-        }
-      ],
-      "duration_ms": 211019,
-      "name": "Steady Rainfall",
-      "url": "https://open.spotify.com/track/39BW5mOBurJlUpeIJhzrys"
-    },
-    {
-      "added_at": "2023-06-20 09:13:06",
-      "album": {
         "name": "P\u00e1jaros De La Ducha",
         "url": "https://open.spotify.com/album/7mvwhOjWmC1A12udpUlgRL"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 155295,
       "name": "Sonido De Los P\u00e1jaros",
       "url": "https://open.spotify.com/track/0GMZizrA12Ap9Vvbqcx16M"
+    },
+    {
+      "added_at": "2023-06-20 09:13:06",
+      "album": {
+        "name": "Suburban Rain Sounds",
+        "url": "https://open.spotify.com/album/0TgW0ohXTbUPnZBvkUVih2"
+      },
+      "artists": [
+        {
+          "name": "Weather and Nature Recordings",
+          "url": "https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe"
+        }
+      ],
+      "duration_ms": 211019,
+      "name": "Steady Rainfall",
+      "url": "https://open.spotify.com/track/39BW5mOBurJlUpeIJhzrys"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
+        "name": "Rain Temperature",
+        "url": "https://open.spotify.com/album/1u5TyUwxUZCDh7ioaiLFzS"
+      },
+      "artists": [
+        {
+          "name": "Coalezense",
+          "url": "https://open.spotify.com/artist/2ScfEr3NwHu6Lkzlp6h7v8"
+        }
+      ],
+      "duration_ms": 150836,
+      "name": "Why Not Rain",
+      "url": "https://open.spotify.com/track/0qWVYFo7HO1cUDXDgnGSE5"
+    },
+    {
+      "added_at": "2023-06-20 09:13:06",
+      "album": {
         "name": "Augmentation De La Temp\u00e9rature",
         "url": "https://open.spotify.com/album/0ciLsFneHhbBdGSEj25KrV"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 158000,
       "name": "Rainwater",
       "url": "https://open.spotify.com/track/1yyU2J7XE1VQ4tG9x2cT5u"
-    },
-    {
-      "added_at": "2023-06-20 09:13:06",
-      "album": {
-        "name": "Rain Temperature",
-        "url": "https://open.spotify.com/album/1u5TyUwxUZCDh7ioaiLFzS"
-      },
-      "artists": [
-        {
-          "name": "Coalezense",
-          "url": "https://open.spotify.com/artist/2ScfEr3NwHu6Lkzlp6h7v8"
-        }
-      ],
-      "duration_ms": 150836,
-      "name": "Why Not Rain",
-      "url": "https://open.spotify.com/track/0qWVYFo7HO1cUDXDgnGSE5"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Ocean HD Vol. 2",
-        "url": "https://open.spotify.com/album/43VltFaOtQmwos3qwZxJsU"
-      },
-      "artists": [
-        {
-          "name": "Worldwide Nature Studios",
-          "url": "https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx"
-        }
-      ],
-      "duration_ms": 188374,
-      "name": "Morning By The Ocean",
-      "url": "https://open.spotify.com/track/42rgtZOk6UoK0T7K4DV2Ju"
-    },
-    {
-      "added_at": "2023-06-20 09:13:06",
-      "album": {
         "name": "Rain Healing",
         "url": "https://open.spotify.com/album/4M1SM1am0TFgRp3RJOcjmX"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 176000,
       "name": "Eternal Rain",
       "url": "https://open.spotify.com/track/2fWQD5MZ0TxrgNDqcBZkCB"
+    },
+    {
+      "added_at": "2023-06-20 09:13:06",
+      "album": {
+        "name": "Wave Period",
+        "url": "https://open.spotify.com/album/75qHF82HCi47YOiDfgKX1Q"
+      },
+      "artists": [
+        {
+          "name": "Deeply Oceanic",
+          "url": "https://open.spotify.com/artist/5XxDTSUvUZnEOlY6plTe9v"
+        }
+      ],
+      "duration_ms": 164954,
+      "name": "Looking At The Ocean",
+      "url": "https://open.spotify.com/track/3EwIzgNyOL5siTxOaZL0fo"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -1771,18 +1771,18 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Wave Period",
-        "url": "https://open.spotify.com/album/75qHF82HCi47YOiDfgKX1Q"
+        "name": "Ocean HD Vol. 2",
+        "url": "https://open.spotify.com/album/43VltFaOtQmwos3qwZxJsU"
       },
       "artists": [
         {
-          "name": "Deeply Oceanic",
-          "url": "https://open.spotify.com/artist/5XxDTSUvUZnEOlY6plTe9v"
+          "name": "Worldwide Nature Studios",
+          "url": "https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx"
         }
       ],
-      "duration_ms": 164954,
-      "name": "Looking At The Ocean",
-      "url": "https://open.spotify.com/track/3EwIzgNyOL5siTxOaZL0fo"
+      "duration_ms": 188374,
+      "name": "Morning By The Ocean",
+      "url": "https://open.spotify.com/track/42rgtZOk6UoK0T7K4DV2Ju"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Natural Relaxation",
-        "url": "https://open.spotify.com/album/4p5N8lC09TgcmcW5iELNXU"
-      },
-      "artists": [
-        {
-          "name": "Natsound",
-          "url": "https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw"
-        }
-      ],
-      "duration_ms": 151576,
-      "name": "Relaxing Rainscape",
-      "url": "https://open.spotify.com/track/7BEWCZV2lGvR5IjieCqTTK"
-    },
-    {
-      "added_at": "2023-06-20 09:13:06",
-      "album": {
         "name": "Rain Sounds Vol. 1",
         "url": "https://open.spotify.com/album/5qyBJ814BTtn20m8dXbTxj"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 153054,
       "name": "Rain Falling Down",
       "url": "https://open.spotify.com/track/3v8tpKiO7zMZomEQh53cve"
+    },
+    {
+      "added_at": "2023-06-20 09:13:06",
+      "album": {
+        "name": "Natural Relaxation",
+        "url": "https://open.spotify.com/album/4p5N8lC09TgcmcW5iELNXU"
+      },
+      "artists": [
+        {
+          "name": "Natsound",
+          "url": "https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw"
+        }
+      ],
+      "duration_ms": 151576,
+      "name": "Relaxing Rainscape",
+      "url": "https://open.spotify.com/track/7BEWCZV2lGvR5IjieCqTTK"
     },
     {
       "added_at": "2023-06-20 09:13:06",

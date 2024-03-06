@@ -4,7 +4,7 @@
 
 > Fjäderboa, dansgolv, allsång och tonartshöjningar \- nu är det mellofest! 🪩✨💜
 
-176 songs - 8 hr 53 min
+177 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Det gör ont](https://open.spotify.com/track/2aeVGqdsF7WbKZkwhcCeqm) | [Lena Philipsson](https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm) | [Lena 20 år](https://open.spotify.com/album/1T8NH2yMjPBlUDwim5Vtdo) | 3:01 | 2019-02-28 | 2022-07-29 |
 | [Det gör ont](https://open.spotify.com/track/51md9KzX92LQh84mUsaPPD) | [Lena Philipsson](https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm) | [Det gör ont en stund på natten men inget på dan](https://open.spotify.com/album/3CQHhvbYaNHJdfp8N79Nbr) | 3:03 | 2019-02-28 | 2023-12-02 |
 | [Diggiloo Diggiley](https://open.spotify.com/track/43ZypSE73gRNdAySQTzyfs) | [Herreys](https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle) | [Diggiloo Diggiley](https://open.spotify.com/album/1cJamo0hcqkWHwTQHOFORj) | 3:07 | 2019-02-28 | 2022-07-29 |
-| [Diggiloo Diggiley](https://open.spotify.com/track/4NzirQ4BrNkVaPEla2ipG4) | [Herreys](https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle) | [Diggiloo Diggiley](https://open.spotify.com/album/1aeO2MJZFZhk3E57aaYGlg) | 3:07 | 2019-02-28 |  |
+| [Diggiloo Diggiley](https://open.spotify.com/track/4NzirQ4BrNkVaPEla2ipG4) | [Herreys](https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle) | [Diggiloo Diggiley](https://open.spotify.com/album/1aeO2MJZFZhk3E57aaYGlg) | 3:07 | 2019-02-28 | 2024-03-06 |
 | [E' de' det här du kallar kärlek](https://open.spotify.com/track/5MBBQ7P9AozcQ8lF7So1B3) | [Lasse Holm](https://open.spotify.com/artist/4fYwnbPagtCH2o6prMmgoI), [Monica Thörnell](https://open.spotify.com/artist/2jC1JNttGelaaJn6QLyJYA) | [Lasse Holm](https://open.spotify.com/album/6YqYUREfAQkDJmn2BfaCrQ) | 2:49 | 2019-02-28 | 2023-12-02 |
 | [Efter solsken](https://open.spotify.com/track/2dh07zmyCMoY64rQdJrXLe) | [Panetoz](https://open.spotify.com/artist/7DXjp1eSv6Xf759gmCiApa) | [Det blir vad du gör det till](https://open.spotify.com/album/0ZZPKcI9MClojLecRZguDs) | 3:10 | 2019-02-28 | 2022-04-22 |
 | [Eloise](https://open.spotify.com/track/4QZ6hp2CKRaZG5RI9zXQqg) | [Arvingarna](https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u) | [Eloise](https://open.spotify.com/album/0zK4JYFfXuCAlWktGbniOR) | 3:08 | 2019-02-28 |  |
@@ -59,10 +59,11 @@
 | [Fairytale \- e\-single version](https://open.spotify.com/track/4ijrqnZcTEs9eMA3vFsMES) | [Alexander Rybak](https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM) | [Fairytales](https://open.spotify.com/album/4kVOoW9r8UQydrASSXauSP) | 3:05 | 2019-02-28 | 2022-07-12 |
 | [Floorfiller](https://open.spotify.com/track/5BfUdzWYfhnH9MLsCxpQRw) | [A\*Teens](https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9) | [Pop 'Til You Drop](https://open.spotify.com/album/2O8rJagr5rJnMCiSfnU4Nn) | 3:14 | 2024-02-02 | 2024-02-05 |
 | [For You](https://open.spotify.com/track/7zZ3ZIEOoZ5CDVQdmNWSzD) | [Mariette](https://open.spotify.com/artist/76nW12AUcUVEiC8fwFoAns) | [For You](https://open.spotify.com/album/763f3RSCbk1oXn8F79A35Z) | 2:58 | 2019-02-28 | 2023-03-05 |
-| [Främling](https://open.spotify.com/track/17zFOtbuquEAAxSttpfWWl) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Främling 25 år](https://open.spotify.com/album/4cotyYQgYleaHbqQEgU9Hv) | 2:57 | 2019-02-28 | 2022-07-29 |
+| [Främling](https://open.spotify.com/track/17zFOtbuquEAAxSttpfWWl) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Främling 25 år](https://open.spotify.com/album/4cotyYQgYleaHbqQEgU9Hv) | 2:57 | 2019-02-28 |  |
 | [Främling](https://open.spotify.com/track/1FndLKa7Gs9S8WKVZuq4RL) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Hits](https://open.spotify.com/album/1UAZLLyBwoQB9T5CIG0VSE) | 2:58 | 2019-02-28 | 2022-12-29 |
 | [Fuego](https://open.spotify.com/track/4TwWOcvjY1qt3QJvtveAGm) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2) | [Fuego](https://open.spotify.com/album/1Kix2Ho3LgJI4tmtcFdNr8) | 3:03 | 2019-02-28 |  |
 | [Fyra Bugg & en Coca\-Cola](https://open.spotify.com/track/3KKaGvEv3xkQpRAUMX4e0l) | [Lotta Engberg](https://open.spotify.com/artist/26deOFc7Oj2gu2pqzPo9O8) | [Svenska Tokhits](https://open.spotify.com/album/31E0B8ViVDRjZXRVuPbjZa) | 2:57 | 2019-02-28 | 2022-07-28 |
+| [Fångad av en stormvind \- Swedish Version](https://open.spotify.com/track/06xX9E1BTTwyOwyaBuszSK) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Främling 25 år](https://open.spotify.com/album/4cotyYQgYleaHbqQEgU9Hv) | 3:00 | 2024-02-20 |  |
 | [Fångad av en stormvind \- Swedish Version](https://open.spotify.com/track/5I6eq9wK0SOkeUWEPHqD39) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Hits](https://open.spotify.com/album/0Ie4L2DEKLQ0dun65tmLJL) | 3:01 | 2019-02-28 | 2022-07-29 |
 | [Genom Eld & Vatten](https://open.spotify.com/track/20NfHnLzpw6qoAKOX8BFaQ) | [Sarek](https://open.spotify.com/artist/2tP82Obc3GVQTpFJkjUabp) | [Genom Eld & Vatten](https://open.spotify.com/album/0IvnnD0YUy1yZuLMUHzUL4) | 3:19 | 2023-02-26 |  |
 | [Genom Eld & Vatten](https://open.spotify.com/track/4wLWZx74WHOosQq5p8VVkL) | [Sarek](https://open.spotify.com/artist/2tP82Obc3GVQTpFJkjUabp) | [Genom Eld & Vatten](https://open.spotify.com/album/35mmuEFKzNsEJ97gYThkVX) | 3:19 | 2019-02-28 | 2023-04-30 |
@@ -168,7 +169,7 @@
 | [Tempo](https://open.spotify.com/track/0yeg0NZmcZu6y6G9sdJliL) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Tempo](https://open.spotify.com/album/5xaQNskasZyX1VPDYVr78O) | 2:49 | 2019-02-28 | 2022-11-13 |
 | [The Worrying Kind](https://open.spotify.com/track/5zIxRPGxiOBNRDBu2Upk4i) | [The Ark](https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4) | [Prayer for the Weekend](https://open.spotify.com/album/0eEpNk9VtzlXWhVZVQqUZR) | 2:55 | 2019-02-28 | 2022-07-29 |
 | [Tusen och en natt](https://open.spotify.com/track/6JIwvW8ioos5KFp0Q0mS3Y) | [Charlotte Perrelli](https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl) | [Take Me To Your Heaven](https://open.spotify.com/album/6fgypOA8G33QMu1Fuufn7Y) | 3:02 | 2019-02-28 |  |
-| [Underbart](https://open.spotify.com/track/5Tbc2O2q1NCux8F0lYiEo0) | [Kalle Moraeus](https://open.spotify.com/artist/1NDYAcgpsX4ony5CD0QIxW), [Orsa Spelmän](https://open.spotify.com/artist/2XmqtWcNsjq5XxlE6p5WrT) | [Underbart](https://open.spotify.com/album/1RXvOiBHUXPHqMfNZYohGQ) | 3:08 | 2019-02-28 |  |
+| [Underbart](https://open.spotify.com/track/5Tbc2O2q1NCux8F0lYiEo0) | [Kalle Moraeus](https://open.spotify.com/artist/1NDYAcgpsX4ony5CD0QIxW), [Orsa Spelmän](https://open.spotify.com/artist/2XmqtWcNsjq5XxlE6p5WrT) | [Underbart](https://open.spotify.com/album/1RXvOiBHUXPHqMfNZYohGQ) | 3:08 | 2019-02-28 | 2024-03-06 |
 | [Upp över mina öron](https://open.spotify.com/track/2LeECxc9pVxuHPTxkcSU6f) | [Eriksson Glenmark](https://open.spotify.com/artist/5LQ1P7IYESUDM9ebSiIlcj) | [Upp över mina öron](https://open.spotify.com/album/2IoJ4qn6yzQH5nmqwlUnvd) | 2:57 | 2019-02-28 | 2022-07-25 |
 | [Upside Down](https://open.spotify.com/track/3lfLAToNl2Ibcuo9U6UTSd) | [A\*Teens](https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9) | [Teen Spirit](https://open.spotify.com/album/4Puwtzbl10V90RTsk8XzWF) | 3:17 | 2024-02-02 | 2024-02-05 |
 | [Vem e som oss](https://open.spotify.com/track/20052FYa2SF5Lkp9VZTLJX) | [Anis Don Demina](https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P) | [Vem e som oss](https://open.spotify.com/album/2KX1IGf0NJMA3p1wh57Ccb) | 2:55 | 2023-02-26 |  |

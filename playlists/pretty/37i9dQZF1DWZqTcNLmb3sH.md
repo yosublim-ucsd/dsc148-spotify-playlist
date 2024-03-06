@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Karataka Damanaka
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,152 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,162 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 15 | [Haraisuve \( From "For Regn"\)](https://open.spotify.com/track/0IQ7MlkYIHnqA99RxYyY45) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Kaviraj](https://open.spotify.com/artist/4QGaxjeQKdSWgWzzwUa1tM) | [Haraisuve \(From "For Regn"\)](https://open.spotify.com/album/0FM7CJvol0EqqHPLdzVUnY) | 4:49 |
 | 16 | [The Age Of Madness \- Kannada](https://open.spotify.com/track/5yICKMOnrZq4HybPhmwJLJ) | [Christo Xavier](https://open.spotify.com/artist/3COuDGy2RmxZvq16WMZpSn), [Sai Vignesh](https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS), [Sayanth S](https://open.spotify.com/artist/7ImKOVIYXQFPwQHBNdejsy) | [Bramayugam \- Kannada](https://open.spotify.com/album/3fFTTlMbK4lfeeBIV1Pssi) | 4:42 |
 | 17 | [Manadanne \(From "Jog101"\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/track/2AkQiTgCq6QAI0yam6vZIL) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Manadanne \(From "Jog101"\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/41Hna42eX35xAnm1bSRtRp) | 4:24 |
-| 18 | [Raak](https://open.spotify.com/track/32UZbiFV3u4Nxu5O0dUcA4) | [Prashant Pillai](https://open.spotify.com/artist/0YpuXLh1Ck69AHkdfVyqXK), [P.S Rafeeque](https://open.spotify.com/artist/6Ef2IbiTvMc8iehZA1Ss15) | [Malaikottai Vaaliban \(Kannada\)](https://open.spotify.com/album/6NAqokJsRcEmPfIVBwXWrq) | 2:50 |
+| 18 | [Raakk](https://open.spotify.com/track/1p0jSQRxGrro0WDeypZhwF) | [Aniruddha Sastry](https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa), [Justin Philipos](https://open.spotify.com/artist/33fWNx8qcdZEDvpU8flV45), [R\. Pramod Jois](https://open.spotify.com/artist/0oIMByBDNKnrzRhTuFTvhP) | [Malaikottai Vaaliban \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2Wrhc8VB162sVUxsDgWIBu) | 2:50 |
 | 19 | [Kuthoohala \(From "Bisi\-Bisi Ice\-Cream"\)](https://open.spotify.com/track/3RaujlV7zWLRwlxuZHtX4r) | [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD), [Jayant Kaikini](https://open.spotify.com/artist/5p4VpAZm4FEyAeNDELFAMB) | [Kuthoohala \(From "Bisi\-Bisi Ice\-Cream"\)](https://open.spotify.com/album/4SRI7R6rRIOvCDFrgHzqs3) | 3:22 |
 | 20 | [Chandasina Chandadalli \- From "Somu Sound Engineer"](https://open.spotify.com/track/72s4B6XhLm7NcrunF7BT08) | [Siddhartha Belmannu](https://open.spotify.com/artist/0M0qOys6eONaDvSRKNwKWc), [Meghana Bhat](https://open.spotify.com/artist/0hjmJwGzgNKERfYBiKPxak), [Dhananjay Ranjan](https://open.spotify.com/artist/3lCmfZPOZc1x3kmphuR96p), [Charan Raj](https://open.spotify.com/artist/1ouBpMzbHI9hMAdqZwIheV) | [Chandasina Chandadalli \(From "Somu Sound Engineer"\)](https://open.spotify.com/album/32ikgTmRVnrIYk5wMdK1Hj) | 3:59 |
 | 21 | [Bhoomiya Maalika](https://open.spotify.com/track/3xWT4oe7AojLkPM1Jo6FvG) | [Christo Xavier](https://open.spotify.com/artist/3COuDGy2RmxZvq16WMZpSn), [Sai Vignesh](https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS) | [Bramayugam \- Kannada](https://open.spotify.com/album/3fFTTlMbK4lfeeBIV1Pssi) | 3:08 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 74 | [Thumbane Kelalaare \(from"Mafia"\)](https://open.spotify.com/track/1hLgsE5vtSB4WGa6G254md) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Saanvi Shetty](https://open.spotify.com/artist/5ZJ7NpYe0RokLEBiPWEDaX), [J\. Anoop Seelin](https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R) | [Thumbane Kelalaare \(from"Mafia"\)](https://open.spotify.com/album/574lA6NDvKKkABjEOmrwrq) | 4:31 |
 | 75 | [Eerappanu \(From "Captain Miller"\)](https://open.spotify.com/track/1qscQ1xijcC6dBuS4HN4BF) | [Darshan Narayan](https://open.spotify.com/artist/64ZcUIE43WrFrkpbRbzqmD), [Shenbagaraj](https://open.spotify.com/artist/4sOq2wyRjNnnYNhpM24NdI), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Pramod Jois](https://open.spotify.com/artist/2df2v0cykufkVCZP0TNn9f) | [Eerappanu \(From "Captain Miller"\)](https://open.spotify.com/album/1BG9etsyWsihGFnVQijeLY) | 3:21 |
 
-Snapshot ID: `MCwyZjJhYmNmNTVkYjQ5OTExNTgzZjYxNjU3MTEwYTBlYzdkMDA1N2Ni`
+Snapshot ID: `MCwyM2Q2MGI5MDgyNzFmNTRjMzBiNzk1YjQ1ZTQzNjVhMmMyYzM3MDZj`

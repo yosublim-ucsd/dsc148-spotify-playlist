@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: Sofia Camara
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,479 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,500 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 66 | [Let Me In](https://open.spotify.com/track/4VrZBc2Awl4kRcAG0TK5Zw) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Let Me In](https://open.spotify.com/album/0LtiWJtia4RzExzAsQvQLv) | 3:47 |
 | 67 | [28 \(with Dean Lewis\)](https://open.spotify.com/track/3fajzhEHSdlSmY31dORz9M) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [28 \(with Dean Lewis\)](https://open.spotify.com/album/04iQ8HwkumvYXot2TG3F0K) | 3:28 |
 | 68 | [One Before The One](https://open.spotify.com/track/4zOZN1h568zZf7UoRaZNJr) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [One Before The One](https://open.spotify.com/album/6EFWJfLNlrdJ73nhULMcg7) | 2:48 |
-| 69 | [Want You More](https://open.spotify.com/track/5bUUCAdoGDgF3IzfX4mRCd) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Want You More](https://open.spotify.com/album/1MCbSXye5vHrHtU7jcNklY) | 2:52 |
+| 69 | [Want You More](https://open.spotify.com/track/3a17amQhKZxeQi3SDkAvtU) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Unlove You](https://open.spotify.com/album/0XOCr1zfM2co1x5dMIjO77) | 2:52 |
 | 70 | [hate myself for loving you](https://open.spotify.com/track/79HlmezH9GAca2eY8gWQET) | [Mackenzie Arromba](https://open.spotify.com/artist/1BdbPr0jIW0h7HurLRlekq) | [hate myself for loving you](https://open.spotify.com/album/4xcOAflH4IJ6aIPhy97PP5) | 2:56 |
 | 71 | [Anywhere \(with Carla Morrison\)](https://open.spotify.com/track/2urDvtxhUhvAaNjtwks63E) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Anywhere \(with Carla Morrison\)](https://open.spotify.com/album/3DC0ct81LMgXlQqIMwZFb5) | 3:11 |
 | 72 | [Lonely People](https://open.spotify.com/track/2GytDaWfMe09yBJ8KusZPz) | [Aidan Martin](https://open.spotify.com/artist/3JKrNnhjEv9h3fyKhQpylb) | [Lonely People](https://open.spotify.com/album/4bNFxdUVVkrmrSLf77im7T) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 99 | [Pedestal](https://open.spotify.com/track/3C8Z6rLzMjQiDSkZxpRHxV) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Pedestal](https://open.spotify.com/album/5KRQkpYEeyfXX4gF9kWV7I) | 3:11 |
 | 100 | [Delayed Reaction](https://open.spotify.com/track/54aVxRwyXVMcXw02TanBEi) | [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [Delayed Reaction](https://open.spotify.com/album/1UcyntOu6kiFcpal7Lyz1h) | 3:34 |
 
-Snapshot ID: `MCwwOGFiOWY0ZDNlNmNlZjU0M2I5MWQ5ZmVkMDQzZGI0NGZiMjMzZmMy`
+Snapshot ID: `MCxhMWJkYTIyZDAzZjAxYzI0OTIyNWFmM2M1NjBmOTkzNDVmYjQ5ODEx`

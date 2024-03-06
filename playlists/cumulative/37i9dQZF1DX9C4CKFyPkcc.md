@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-260 songs - 15 hr 22 min
+261 songs - 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Angels We Have Heard On High \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/track/3mORNTAlAguOAiP7Habmo2) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Angels We Have Heard On High \(Recorded At Electric Lady Studios NYC\)](https://open.spotify.com/album/0jYV35MYyEIRXCuZWKK3Mw) | 2:58 | 2021-12-24 |  |
 | [Baby Boy](https://open.spotify.com/track/59bmTqt7AFMBGLssuhtkmK) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [We Need Emmanuel](https://open.spotify.com/album/1iagly9M3C91gzkNAJSWZz) | 3:50 | 2022-12-11 | 2023-12-10 |
 | [Baby Boy](https://open.spotify.com/track/4sSXzAOEYpSK5o5zFtDrnr) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Baby Boy](https://open.spotify.com/album/28UIg788d1C0Q93xwZRDHP) | 3:50 | 2022-12-11 | 2022-12-27 |
-| [Beautiful Christmas](https://open.spotify.com/track/4HGqkFupdoozBF91E1MRS0) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinite Christmas](https://open.spotify.com/album/3FEZGStis8kVGpnh54NF8h) | 4:25 | 2021-12-24 |  |
+| [Beautiful Christmas](https://open.spotify.com/track/4HGqkFupdoozBF91E1MRS0) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinite Christmas](https://open.spotify.com/album/3FEZGStis8kVGpnh54NF8h) | 4:25 | 2021-12-24 | 2024-03-06 |
 | [Behold Messiah](https://open.spotify.com/track/40vLncM2rTQI22HOf7F6n5) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Behold Messiah](https://open.spotify.com/album/0b5akzs3AfLDsFiYLyJ48b) | 5:16 | 2023-11-03 |  |
 | [Being Home for Christmas](https://open.spotify.com/track/1XAYU9pdry0GU7Z5ga4UM5) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Miracle in a Manger](https://open.spotify.com/album/4lCduOiVpnPIA1CuGn8WgY) | 4:16 | 2021-12-24 | 2023-04-23 |
 | [Born a King \- Reimagined](https://open.spotify.com/track/34qhtucHZ0VKASva6lFJD8) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3), [Jason Clayborn](https://open.spotify.com/artist/0ml3hRZcRv7vHeIPGke7hW) | [Born a King \(Reimagined\)](https://open.spotify.com/album/2XckCbcJxb6HwFjzah1DlG) | 3:18 | 2022-12-11 | 2023-12-16 |
@@ -130,6 +130,7 @@
 | [Joy To The World](https://open.spotify.com/track/0r4oEPAhF9s4CymumKpPnj) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Joy To The World](https://open.spotify.com/album/1DUIGPji7naIzvcAHZqrbf) | 3:55 | 2021-12-24 |  |
 | [Joy To The World](https://open.spotify.com/track/3sgPVrKXSVvxPKzvLaSh8P) | [LOFI Worship](https://open.spotify.com/artist/7140i1cyhuEArRQcADGja9) | [LOFI Christmas](https://open.spotify.com/album/4cySFdHNpqV62fAOZDC93N) | 2:56 | 2022-12-11 | 2023-11-06 |
 | [Joy to the World](https://open.spotify.com/track/2OggiWqL8exckT6kOrcDuA) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:17 | 2021-12-24 | 2023-11-27 |
+| [Joy to the World](https://open.spotify.com/track/0TCmIZKOfciuTaudtC7v5T) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Come Behold the Wondrous Mystery](https://open.spotify.com/album/25AJ4n2vNiYmR34lLwessO) | 2:22 | 2023-12-15 |  |
 | [Joy to the World](https://open.spotify.com/track/4ZFGsi1RZdId56Fq6BIAnG) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Come Behold the Wondrous Mystery](https://open.spotify.com/album/2tYGsvTA51Jp18CQb6uUhm) | 2:22 | 2023-12-02 | 2024-01-30 |
 | [Joy To The World \- Spotify Singles Holiday](https://open.spotify.com/track/7eY3FLrGc3cdEj3xbMOfHl) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Joy To The World \- Spotify Singles Holiday](https://open.spotify.com/album/7gHKfU5w1qlLNoOp9DNnyv) | 3:57 | 2023-11-17 |  |
 | [JOY!](https://open.spotify.com/track/6Lj7IFSKXS2v36B4kWliJM) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [JOY!](https://open.spotify.com/album/65o6I2FdBaDI0OAOrt4au1) | 2:39 | 2023-11-03 |  |

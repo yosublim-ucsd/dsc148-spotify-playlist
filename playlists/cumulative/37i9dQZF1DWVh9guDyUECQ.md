@@ -4,7 +4,7 @@
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Vaes
 
-337 songs - 19 hr 53 min
+338 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Mi Cielo](https://open.spotify.com/track/5HMbjD7f08PqxfxErIwmrx) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR) | [Mi Cielo](https://open.spotify.com/album/42aQGgd4gZBjcr41Tacpqs) | 3:18 | 2022-08-27 | 2023-10-28 |
 | [Mi Entrenador](https://open.spotify.com/track/3RIGXG6lJd4u3Flo7xFHcP) | [KEFFA](https://open.spotify.com/artist/2RymKL3YAUb6091hLu8yw9), [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [Mi Entrenador](https://open.spotify.com/album/64T5hHHloheAndkzgwBhol) | 2:58 | 2022-08-27 |  |
 | [Mi Entrenador](https://open.spotify.com/track/3fBRK9zXvruN6etffZMP31) | [KEFFA](https://open.spotify.com/artist/2RymKL3YAUb6091hLu8yw9), [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [Mi Entrenador](https://open.spotify.com/album/48uz8wzPvxy3Sea9U7hHhK) | 2:58 | 2022-04-17 | 2023-07-14 |
+| [Mi Entrenador \- Remix](https://open.spotify.com/track/3zi8oXLWKddjQSM2CBE9Lh) | [KEFFA](https://open.spotify.com/artist/2RymKL3YAUb6091hLu8yw9), [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe), [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Práctiko](https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA) | [Mi Entrenador \(Remix\)](https://open.spotify.com/album/0zIarxAVoCpGz9wZNpWujq) | 3:36 | 2022-08-27 |  |
 | [Mi Entrenador \- Remix](https://open.spotify.com/track/32HTl6X5wGDGb1zEoZpGtG) | [KEFFA](https://open.spotify.com/artist/2RymKL3YAUb6091hLu8yw9), [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe), [Práctiko](https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA), [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd) | [Mi Entrenador \(Remix\)](https://open.spotify.com/album/4MYCWG4EpaqMJobtEVXSHp) | 3:36 | 2022-04-17 | 2023-10-11 |
 | [Mi Primer Amor](https://open.spotify.com/track/2RNHVytRWQfVpTmG7MG6yj) | [Jadi Torres](https://open.spotify.com/artist/2qK5GWkN7jKSM5GOAzD564) | [Mi Primer Amor](https://open.spotify.com/album/4PB8f2SQlDuloa0j5TRe7A) | 3:36 | 2021-11-05 | 2022-04-18 |
 | [Mi Sustento](https://open.spotify.com/track/2iLeyeOX1UEBPnNbUrPFVn) | [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Espiritu Libre](https://open.spotify.com/album/6lh4r6awjd0rNeIvzdhJ2k) | 3:18 | 2021-11-05 | 2022-04-18 |
@@ -327,7 +328,7 @@
 | [Valiente Y Sereno](https://open.spotify.com/track/2vJRPSoADCr7VSTM5UPIlB) | [Yowcend la Igriega](https://open.spotify.com/artist/1QuXODJkEDfIq84NfQY5Go), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Valiente Y Sereno](https://open.spotify.com/album/23c1mkrxE0d3SZtYNApGJ7) | 3:02 | 2022-04-17 | 2022-07-28 |
 | [Vamo' a Celebrar](https://open.spotify.com/track/4YYKkzvtWZYfCmWvjjhtNB) | [Kenny Rivers](https://open.spotify.com/artist/41twdk8sw4fNv4nosACqp9) | [Vamo' a Celebrar](https://open.spotify.com/album/2EAZ76xgfVUAEk8lz0EoGJ) | 3:28 | 2022-08-27 |  |
 | [Vamos A Bailar](https://open.spotify.com/track/7aTf5cIHhwiFXaZyHnwD6e) | [LifeBanda](https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz), [Liana C](https://open.spotify.com/artist/0bWMcwNuS8D3lqJ8pI02Gu), [Eliana B](https://open.spotify.com/artist/5D6HYykPcKHbtHtqFenSq2) | [Vamos A Bailar](https://open.spotify.com/album/6epQ9ZRN1EJk8f76iJiJdL) | 3:29 | 2022-04-17 | 2022-07-26 |
-| [Veintiuno](https://open.spotify.com/track/2E9RxS0VwCMa3JRj6BF8Ye) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Veintiuno](https://open.spotify.com/album/2zKdOlERG7tLZtW16hfseO) | 2:24 | 2022-04-17 |  |
+| [Veintiuno](https://open.spotify.com/track/2E9RxS0VwCMa3JRj6BF8Ye) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Veintiuno](https://open.spotify.com/album/2zKdOlERG7tLZtW16hfseO) | 2:24 | 2022-04-17 | 2024-03-06 |
 | [Venímos Del Barrío](https://open.spotify.com/track/4x8LdHKLanBYGNh2sUNTiU) | [LifeBanda](https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz), [Creyente.7](https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs) | [Venímos Del Barrío](https://open.spotify.com/album/0jUsPyADnpbH6DR6wz011m) | 3:09 | 2022-04-17 | 2022-07-29 |
 | [Verdadera Adoración](https://open.spotify.com/track/0gQdPQGtwpEcYmbghe8XQ2) | [Harold Velazquez](https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj) | [Verdadera Adoración](https://open.spotify.com/album/3gSjII4aXcC9MbHcWroo1L) | 4:36 | 2021-11-05 | 2022-03-21 |
 | [Viajes y Hoteles](https://open.spotify.com/track/4bF89S8CFHu4SeYmiiz69E) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf), [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1), [Juanfer](https://open.spotify.com/artist/2jKfWzYkH8mLOKJ7SWFeRx) | [Fé](https://open.spotify.com/album/63hREkagC3FZpAAg7m2UeT) | 4:30 | 2022-08-27 | 2022-12-28 |

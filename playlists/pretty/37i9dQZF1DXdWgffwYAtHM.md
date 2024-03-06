@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 > Podcasts que você precisa ter no RADAR\. Capa: <a href="spotify:show:42CNqtkx9yd1cIg0E6E9rL">vibes em análise</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,077 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 3,146 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MCw0YzBmM2VlZGQyNGE0OWNkNDZhYjIwNTY1YmQ5ZTk3Njc3MTJiNjhm`
+Snapshot ID: `MCxhYTE1MGY3NjVlMmJiZjEzMzUxOGZjZjFhMzAxMDRhOTM0OTViYTUy`

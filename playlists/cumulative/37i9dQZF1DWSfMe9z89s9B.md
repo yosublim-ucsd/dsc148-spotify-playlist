@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Asha Imuno
 
-1,104 songs - 2 day 10 hr 43 min
+1,106 songs - 2 day 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,6 +324,7 @@
 | [Fair](https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Fair](https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF) | 3:04 | 2022-04-01 | 2022-07-16 |
 | [Fall in Love with You.](https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:12 | 2022-07-22 | 2022-12-03 |
 | [FAMJAM4000](https://open.spotify.com/track/6FDNS9i86Il7ZeGBf7H2Aa) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [FORWARD](https://open.spotify.com/album/3B091Vt3mViGBReaUvMUCc) | 2:38 | 2023-03-03 | 2023-09-23 |
+| [Fantasy](https://open.spotify.com/track/7hfl0aCqTLiOtJa3bOgTzA) | [Troy Javelona](https://open.spotify.com/artist/3fUSXkfAy8yFTCiGK3TXho) | [Fantasy](https://open.spotify.com/album/1JL7UsUUpKyOYh9Bqz2wBU) | 2:52 | 2023-12-08 |  |
 | [FAR AWAY](https://open.spotify.com/track/7FWB9uLSKi8HHT8p67Fsig) | [Hush Forte](https://open.spotify.com/artist/4MbRfFtyXLbOnccfjBE69n) | [FAR AWAY](https://open.spotify.com/album/1mmqM0T7WtpJRhp9NGgb4P) | 3:11 | 2021-06-25 | 2022-01-27 |
 | [Feed The Fire \(feat\. Lucky Daye\)](https://open.spotify.com/track/0yU8ftsMI0LDMtee8TDsDR) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Feed The Fire \(feat\. Lucky Daye\)](https://open.spotify.com/album/0CttfgSuHvMSFKshmwa8vb) | 4:05 | 2021-03-19 | 2022-04-16 |
 | [Feel Good](https://open.spotify.com/track/6clYpUEhSJs0jYt7n7lIZP) | [Raury](https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ) | [Feel Good](https://open.spotify.com/album/7fr81qCX4j03vrknwMxYvI) | 4:16 | 2022-06-10 | 2022-06-16 |
@@ -521,7 +522,7 @@
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2022-01-14 | 2022-07-14 |
 | [Is This Love](https://open.spotify.com/track/4GYtrWXfgSd09WCCTtsbjM) | [Toulouse](https://open.spotify.com/artist/4Vy0AbsAmU5l3ZWOxhilzr) | [Is This Love](https://open.spotify.com/album/1MiqKHjXCNAHLCKJiLY4tp) | 3:24 | 2022-04-01 | 2022-04-12 |
 | [is this real life?](https://open.spotify.com/track/3c7jfhoHw5LLp9OrwhanQh) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [is this real life?](https://open.spotify.com/album/04Xf8kg1pUJ2pGOQ7JDoRz) | 4:25 | 2022-12-09 | 2022-12-17 |
-| [it don't hit no more](https://open.spotify.com/track/1beDigZX6dQfhSDUZvOGWc) | [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9) | [it don't hit no more](https://open.spotify.com/album/62EG7JmCfi1hFz3yuCux9f) | 2:54 | 2024-02-02 |  |
+| [it don't hit no more](https://open.spotify.com/track/1beDigZX6dQfhSDUZvOGWc) | [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9) | [it don't hit no more](https://open.spotify.com/album/62EG7JmCfi1hFz3yuCux9f) | 2:54 | 2024-02-02 | 2024-03-06 |
 | [It Won't Get Ya](https://open.spotify.com/track/53KuZto0guJ4qCSoNHgFfW) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment \(Director's Cut\)](https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0) | 3:38 | 2021-06-04 | 2022-01-14 |
 | [It's About A Girl](https://open.spotify.com/track/2tKXH7NdVrrjDvQrv9CCVd) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [It's About A Girl](https://open.spotify.com/album/3wZCwdtuCqWVuygemGAVGL) | 3:21 | 2022-04-01 | 2022-04-10 |
 | [it's not feeling good anymore](https://open.spotify.com/track/0CxtECSTmnaUbCKnChD6NK) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [it's not feeling good anymore](https://open.spotify.com/album/33jUA4C0rMA2SqGjLBaEZy) | 2:25 | 2023-08-25 | 2023-09-02 |
@@ -554,7 +555,7 @@
 | [Leave Me Alone](https://open.spotify.com/track/7gbB9Wy6GkDr0dOZvw6ihK) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Leave Me Alone](https://open.spotify.com/album/1jnZuo1cL5ICy4uKci9aHb) | 2:36 | 2022-08-19 | 2022-12-03 |
 | [Lee & Lovie \(with reggie\)](https://open.spotify.com/track/403tC8spWXnKcdXdbFnayL) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [reggie](https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 2:51 | 2022-10-28 | 2023-08-12 |
 | [lemon sorbet](https://open.spotify.com/track/0N0vTOwTQLo6edqB1TF2XS) | [SASH](https://open.spotify.com/artist/6T2CimrgMFD4ww6OGVopDJ) | [lemon sorbet](https://open.spotify.com/album/5ZwVrlXFV5pgOf9WtJkMpd) | 2:31 | 2022-12-02 | 2023-02-19 |
-| [Lemon Water](https://open.spotify.com/track/3GzSUcBazsbwPptbhP40dm) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [Lemon Water](https://open.spotify.com/album/0xmNvYo6N9kBq9gjm25QT2) | 4:03 | 2023-10-20 |  |
+| [Lemon Water](https://open.spotify.com/track/3GzSUcBazsbwPptbhP40dm) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [Lemon Water](https://open.spotify.com/album/0xmNvYo6N9kBq9gjm25QT2) | 4:03 | 2023-10-20 | 2024-03-06 |
 | [Lemonhaze](https://open.spotify.com/track/2bydO0jZES9rBvSnPvYN5L) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [A PawPaw Rod EP](https://open.spotify.com/album/6rdGxnA5zzF0Nly6ZqUwCH) | 2:36 | 2021-09-17 | 2022-10-08 |
 | [Let Go](https://open.spotify.com/track/0505eVcf7DTvaXVbTN0L5Y) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Ready Is Always Too Late \(Deluxe\)](https://open.spotify.com/album/7KaTBMubEkwwczNjyLyEB0) | 2:52 | 2022-01-28 | 2022-07-16 |
 | [LET IT GROW](https://open.spotify.com/track/1xvQkUmsKZPjOEcjLc58PP) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [STOUT](https://open.spotify.com/artist/7n7OpW30m3JZKuJFD3pAjJ) | [DIAMONDS & FREAKS](https://open.spotify.com/album/6do2sjAIStoojPhTMV3ETT) | 3:36 | 2023-06-09 | 2023-07-26 |
@@ -975,6 +976,7 @@
 | [Thot Thoughts](https://open.spotify.com/track/4Ry3HNrIC1C4TwYeeOkFD8) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7) | [Thot Thoughts](https://open.spotify.com/album/2ark7dhcGnOGPNL8ukR5dM) | 3:34 | 2022-04-01 | 2022-04-13 |
 | [Thrive](https://open.spotify.com/track/0fuKweowW67sGmmuOp8GZW) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Remain Calm](https://open.spotify.com/album/0WWOl1EPBFsZq6HjQZmovl) | 2:10 | 2021-10-08 | 2022-01-27 |
 | [Through The Dark](https://open.spotify.com/track/4GlMuZ2gHZfAPxEji04pdA) | [FACESOUL](https://open.spotify.com/artist/0OcOX42YhjTjFbbiMRHBUC) | [YSRA](https://open.spotify.com/album/17Cq84vHnwuiTdVUc5DBGg) | 2:33 | 2022-07-15 | 2023-12-23 |
+| [Ticket Holder](https://open.spotify.com/track/3EkjU20E7YzOaoGGY0IQ9z) | [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s) | [Ticket Holder](https://open.spotify.com/album/4WYI3FFyC2U3EVdw6cXycw) | 2:35 | 2024-03-01 |  |
 | [Tidal Wave](https://open.spotify.com/track/0COURFiJSO9R4Bz3gAP1VW) | [August Rosenbaum](https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4), [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [songs people together \(extended\)](https://open.spotify.com/album/5fOtDWDnJqB2fZ4xJwdUMG) | 1:51 | 2023-06-09 |  |
 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 | 2022-04-01 | 2022-10-08 |
 | [Tightrope](https://open.spotify.com/track/4L9F956l8R1bKr2QLH9q1N) | [Olu Bliss](https://open.spotify.com/artist/678OPmqIs9qhpULpdD8T2h) | [Tightrope](https://open.spotify.com/album/4ZMibYwiTjtdstL2MjLb74) | 3:39 | 2021-06-04 | 2022-01-26 |

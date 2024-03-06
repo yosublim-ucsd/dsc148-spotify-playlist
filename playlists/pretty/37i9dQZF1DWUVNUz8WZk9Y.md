@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVNUz8WZk9Y.md) - [plain]
 
 > 最新作公開記念！映画ドラえもんを彩ってきた歴代主題歌、挿入歌を集めた公式プレイリスト。Enjoy music from Doraemon The Movie! ⓒ藤子プロ・小学館・テレビ朝日・シンエイ・ADK 2024
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,116 likes - 37 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,211 likes - 37 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVNUz8WZk9Y.md) - [plain]
 | 36 | [時の旅人](https://open.spotify.com/track/2u0EiTzKREGGN1BnIpOp3Q) | [Toshiyuki Nishida](https://open.spotify.com/artist/4djumM1qrx3qrRNTQworSy) | [エッセンシャル・ベスト　西田敏行](https://open.spotify.com/album/0cFhaCH30tnnGc73zMlB8S) | 4:00 |
 | 37 | [さよならに さよなら](https://open.spotify.com/track/484QMEcJmYvoV0QmJfSJaw) | [Kaientai](https://open.spotify.com/artist/1DsKJnZ0VeVD4ZEpDIegQF) | [ドラえもん映画主題歌集](https://open.spotify.com/album/6ClSL3281Uc1W0zBgOoViV) | 3:28 |
 
-Snapshot ID: `MCxjMzFiM2UzMWNiNDhmNzlmYWJjZTY0NGFiZDc5NjlhZTE3YjAxNDdm`
+Snapshot ID: `MCw4MTYxYTFhYTUwYTdhMTYwZWJjOTUyNjhlZTZiMWViNDE1ZDA5OTBm`

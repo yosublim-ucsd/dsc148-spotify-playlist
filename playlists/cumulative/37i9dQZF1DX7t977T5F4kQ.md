@@ -4,14 +4,15 @@
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: Smallgod
 
-313 songs - 16 hr 34 min
+314 songs - 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 Toes \(feat\. Omah Lay\)](https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [5 Star](https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt) | 2:57 | 2022-11-04 |  |
 | [11:11](https://open.spotify.com/track/13wo2NiCVw2tAq3SJ2pYSX) | [Alorman](https://open.spotify.com/artist/3OelS3yY60GFusvCkaFJv8), [Cool Paul](https://open.spotify.com/artist/5s1Xo4HmiGN7i4Fi2rlvlX), [big joel](https://open.spotify.com/artist/1GTtMVktPRELgfbyoFGlpl) | [11:11](https://open.spotify.com/album/0a9HYXK0BcK9umVvyMirwc) | 3:09 | 2024-02-02 | 2024-02-23 |
 | [2 Shots](https://open.spotify.com/track/7D5teOLgUBiDS4LrKIVNGe) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [2 Shots](https://open.spotify.com/album/3swkn0bH9u7TWbO9Jfe0YD) | 2:43 | 2022-11-04 | 2023-11-09 |
-| [4LYFE](https://open.spotify.com/track/2TSyn5AUP4XKlx2DULEPvs) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [4LYFE](https://open.spotify.com/album/3UEA2UkF8k5Nf3o6X3UK4m) | 2:47 | 2023-10-27 |  |
+| [4LYFE](https://open.spotify.com/track/2TSyn5AUP4XKlx2DULEPvs) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [4LYFE](https://open.spotify.com/album/3UEA2UkF8k5Nf3o6X3UK4m) | 2:47 | 2023-10-27 | 2024-03-06 |
+| [4LYFE](https://open.spotify.com/track/3E82zcjEqhMyr65katLaBN) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [4LYFE](https://open.spotify.com/album/28H5B4xD6bqVuaftoI4Vur) | 2:47 | 2024-03-01 |  |
 | [911](https://open.spotify.com/track/3ID7lddXvHicabgvswiVhT) | [Kurl Songx](https://open.spotify.com/artist/0VukMQoTyIAqKl0qUEw9Cv), [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M) | [911](https://open.spotify.com/album/2HlUF9BKspYQ28sYcKoGpB) | 3:16 | 2024-02-09 |  |
 | [911](https://open.spotify.com/track/1x5m60fSVOEewLpSqb3P70) | [KWESI IYCON](https://open.spotify.com/artist/3S1O4oATGeDx7aRMwO4i2G) | [911](https://open.spotify.com/album/2KH3trv13BjHhQIDU0FSBH) | 2:59 | 2024-03-01 |  |
 | [A B C D](https://open.spotify.com/track/5iqTS5Ge7PwRaM0E09Cu1H) | [Lyrical Joe](https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg) | [PHOTO ALBUM](https://open.spotify.com/album/6zPEkNndmfR4MGU1N8kyVH) | 2:52 | 2023-03-17 | 2023-05-05 |

@@ -2,9 +2,9 @@
 
 ### [EQUAL Hong Kong](https://open.spotify.com/playlist/37i9dQZF1DX6W1YbI0Nbnc)
 
-> Listen to women at full volume! 香港EQUAL女聲力量！\(cover: Anna hisbbuR\)
+> Listen to women at full volume! 香港EQUAL女聲力量！\(cover: Serrini\)
 
-265 songs - 16 hr 49 min
+267 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [四方帽之約](https://open.spotify.com/track/07DWpy6TvwVCmSfaiwAvna) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [四方帽之約](https://open.spotify.com/album/6IGeG2PWkQwGtuTYW0whUa) | 3:59 | 2023-09-05 |  |
 | [回到自己](https://open.spotify.com/track/1MLnyqRlbDal3gL3QmHcHK) | [Winter Bagels](https://open.spotify.com/artist/5greJ5P16QGOFlMTnDH8F0) | [回到自己](https://open.spotify.com/album/6aYvUkvwZcH5grv9Sa8WAW) | 5:24 | 2022-04-05 | 2022-05-04 |
 | [團圓說](https://open.spotify.com/track/1hSO2gFy57hFzDzQzDDiei) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [團圓說](https://open.spotify.com/album/1x04K2Hc3MLci681Q6XTws) | 4:21 | 2022-01-04 |  |
+| [垃圾女星](https://open.spotify.com/track/2tAHyOEk02Ao7hGMazvaFg) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [垃圾女星](https://open.spotify.com/album/7hIgg1r3CdA8OgHHbFCDtN) | 3:31 | 2024-03-05 |  |
 | [執迷不悔](https://open.spotify.com/track/2pKK1A009lhzhRPeTDderF) | [Faye Wong](https://open.spotify.com/artist/3df3XLKuqTQ6iOSmi0K3Wp) | [執迷不悔](https://open.spotify.com/album/7dT9AbrVU10dxGmDeJT3zK) | 4:33 | 2021-12-07 | 2022-01-05 |
 | [壞女孩](https://open.spotify.com/track/6sQZ47i12S0dYD5afBO8qg) | [Anita Mui](https://open.spotify.com/artist/06RD8CxzApXzuhHx54BhQL) | [壞女孩](https://open.spotify.com/album/6cWKFtjwqo1VkbIhyQzaRw) | 4:49 | 2023-11-29 |  |
 | [声之静](https://open.spotify.com/track/0IfL02ejzOmSoqqWCJTS8b) | [Jocelyn Chan](https://open.spotify.com/artist/54X296HPEBGKumudEbWLRd) | [声之静](https://open.spotify.com/album/3Ea5KE85aGPeeVjfUbR2Nw) | 3:56 | 2022-05-03 | 2022-08-03 |
@@ -209,6 +210,7 @@
 | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/track/5o4KlQR1SDK6A2ux7hJE33) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/album/5AL0bGaBBTRVw7bPD9cb2c) | 3:46 | 2022-08-02 | 2022-12-01 |
 | [極夜後](https://open.spotify.com/track/2IrgjCGcxyYGwpr3CvpAcB) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [極夜後](https://open.spotify.com/album/31gdsPRodjQvgoD8o1dzt1) | 4:35 | 2023-11-07 | 2023-11-30 |
 | [樹](https://open.spotify.com/track/2QYGFCVQTALeyYGNvKHn9T) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [樹](https://open.spotify.com/album/4RcQZBChNpUMXKcJmF5ErJ) | 3:55 | 2022-01-04 | 2022-12-01 |
+| [樹之呼吸](https://open.spotify.com/track/5LCP5DaNaMgVgXnoMgMSpz) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [樹之呼吸](https://open.spotify.com/album/4B6k5KRYNNQLRMf8KldXJm) | 2:35 | 2024-03-05 |  |
 | [樹仔](https://open.spotify.com/track/67W3qb59EIvEW1PqkPL9h9) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [樹仔](https://open.spotify.com/album/3Ut8qXmLOY3YP7vL8cqsHQ) | 3:20 | 2022-11-30 | 2023-11-30 |
 | [樹木真美](https://open.spotify.com/track/3V62hqp8AIqkSfr8Ys2lzP) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [樹木真美](https://open.spotify.com/album/24gJxtIlfZDK6SnR2MiuiU) | 4:06 | 2022-08-02 | 2023-11-30 |
 | [歧義種子](https://open.spotify.com/track/6v6LW9PslX7RiXoaBfAduq) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [歧義種子](https://open.spotify.com/album/7ulGonGDgcrJnmmnyPDwSa) | 3:34 | 2023-03-24 |  |

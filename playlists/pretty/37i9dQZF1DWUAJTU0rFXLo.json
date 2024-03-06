@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas que fazem de qualquer hora, a mais perfeita para um baile! Foto: Carlos Daf\u00e9",
-  "num_followers": 29665,
+  "num_followers": 29685,
   "original_name": "Baile Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDEyNzk1YzJiMDIzZDZmZTMxMjYzZjQ0ZjZlNmQwNTY3NjE0NzBh",
+  "snapshot_id": "MCwyMzc4YmM3NDQ0Zjk3N2ZmMzU1MzdhNjVhYTFmNzI1YzQ1OWIxZTA0",
   "tracks": [
     {
       "added_at": "2024-02-23 03:01:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-02-23 03:01:00",
       "album": {
-        "name": "Tim Maia 1973",
-        "url": "https://open.spotify.com/album/6gK1Uf1uZolqGBibGaW5qK"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 217604,
-      "name": "R\u00e9u Confesso",
-      "url": "https://open.spotify.com/track/3BpiaGyTIb7VIoAYbvSzTH"
-    },
-    {
-      "added_at": "2024-02-23 03:01:00",
-      "album": {
         "name": "I Want You (Deluxe Edition)",
         "url": "https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 274400,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/2gmWJA9oF4GD2Vw5QoRqu1"
+    },
+    {
+      "added_at": "2024-02-23 03:01:00",
+      "album": {
+        "name": "Tim Maia 1973",
+        "url": "https://open.spotify.com/album/6gK1Uf1uZolqGBibGaW5qK"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 217604,
+      "name": "R\u00e9u Confesso",
+      "url": "https://open.spotify.com/track/3BpiaGyTIb7VIoAYbvSzTH"
     },
     {
       "added_at": "2024-02-23 03:01:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-02-23 03:01:00",
       "album": {
-        "name": "Straight from the Heart (Remastered)",
-        "url": "https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g"
-      },
-      "artists": [
-        {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
-        }
-      ],
-      "duration_ms": 244866,
-      "name": "Forget Me Nots - Single Version",
-      "url": "https://open.spotify.com/track/6hGBWw0Pv1oe8uYCVXz1yK"
-    },
-    {
-      "added_at": "2024-02-23 03:01:00",
-      "album": {
         "name": "Cat in the Hat",
         "url": "https://open.spotify.com/album/61MrCsj5a0ZfgbgvcFHFl0"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 229626,
       "name": "I Want To Thank You",
       "url": "https://open.spotify.com/track/6ODAghAlMTyu9fWa2CNKmf"
+    },
+    {
+      "added_at": "2024-02-23 03:01:00",
+      "album": {
+        "name": "Straight from the Heart (Remastered)",
+        "url": "https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "duration_ms": 244866,
+      "name": "Forget Me Nots - Single Version",
+      "url": "https://open.spotify.com/track/6hGBWw0Pv1oe8uYCVXz1yK"
     },
     {
       "added_at": "2024-02-23 03:01:00",

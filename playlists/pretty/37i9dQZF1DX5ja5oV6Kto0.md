@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Prettyboy D\-O
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,025 likes - 80 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,064 likes - 80 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 23 | [Escapism \(feat\. Fave & Tay Iwar\)](https://open.spotify.com/track/0ixcA2mSYrHIu5RNgJ2vBB) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Escapism \(feat\. Fave & Tay Iwar\)](https://open.spotify.com/album/1pXxUkUcfkvbCTeCRPRHVe) | 3:25 |
 | 24 | [Sweet Life](https://open.spotify.com/track/1x4VCK4tmq3PfXiyZgCmoq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD) | [Sweet Life](https://open.spotify.com/album/47YPQVCAy9zbeRtLasf9EO) | 3:06 |
 | 25 | [Answer Me](https://open.spotify.com/track/77h8ylsHRqWAMkL3OWPHtA) | [T Peller](https://open.spotify.com/artist/0atiAFHavgyaKAhm9eaFLO) | [Just The Tip](https://open.spotify.com/album/6mdC7HDGvv4vzadVR69pTq) | 2:21 |
-| 26 | [FLOSSIN'](https://open.spotify.com/track/5xFF8GIUzTtXWQF0CRRWbN) | [psiv](https://open.spotify.com/artist/2BP1UlQl2ket7YSsA8ocls), [Konye](https://open.spotify.com/artist/3fqAjOL9Hx6y7aS8wV6PFw), [E.V.E](https://open.spotify.com/artist/3K7e1HunADXr4sEFVYNltv) | [Live More, Worry Less \(Ultra\)](https://open.spotify.com/album/2O0EpeT29gxalH7Ebp4Gqx) | 2:20 |
+| 26 | [FLOSSIN'](https://open.spotify.com/track/5xFF8GIUzTtXWQF0CRRWbN) | [psiv](https://open.spotify.com/artist/2BP1UlQl2ket7YSsA8ocls), [K0NYE](https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ), [E.V.E](https://open.spotify.com/artist/3b861IDPVZ62XphaKiKlOc) | [Live More, Worry Less \(Ultra\)](https://open.spotify.com/album/2O0EpeT29gxalH7Ebp4Gqx) | 2:20 |
 | 27 | [4ever](https://open.spotify.com/track/2d1yqNf32Ngnr9Kh11xCNr) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s) | [Cincinnati Pumpin!!](https://open.spotify.com/album/5krskJ12OhkTlYuGwxJ0W3) | 2:38 |
 | 28 | [Bread Winner](https://open.spotify.com/track/08ISZaxHn8unkxvESVsGeI) | [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G) | [Bread Winner](https://open.spotify.com/album/7xPgg5ieQp2aPKB9ni8ydK) | 1:21 |
 | 29 | [WASTELINE](https://open.spotify.com/track/6zwNCNnzNfhC5XEhnG9F7Z) | [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [WASTELINE](https://open.spotify.com/album/0VzLyC8Er2QnVwOyGF5ZLX) | 2:44 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 79 | [JUST LIKE DETO](https://open.spotify.com/track/5vxETGyeKhT0atQECpWcMt) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [JUST LIKE DETO](https://open.spotify.com/album/1aLAoQ1BZMQMIh2IxVaHxL) | 2:11 |
 | 80 | [Patience](https://open.spotify.com/track/5mFzG8awzpPxFnIKT43Xuf) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [DECSTER](https://open.spotify.com/artist/77QeAg7dSdGhSgT5QiHZL7), [Ari](https://open.spotify.com/artist/0iYPHQ3aoLCNYcw2khOy8M) | [Patience](https://open.spotify.com/album/2r3ahud5u7iTnFvUx4lPPm) | 3:03 |
 
-Snapshot ID: `MCxiNGY1ZGI0ZjZlOTE0MmJkZTI5NWFmMjMwYTRkNjY5ZmQ0ZDEzNGYw`
+Snapshot ID: `MCwzMWNhZWU4OGNkNDczYzVhNGRmZDZhNzZkMzhhMzkwYjA1ZjY1Yjc0`

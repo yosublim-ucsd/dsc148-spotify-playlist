@@ -1184,10 +1184,28 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 198748,
       "name": "It's Not Your Fault",
       "url": "https://open.spotify.com/track/0l8NnoFm09sUNcts1ycOtV"
+    },
+    {
+      "album": {
+        "name": "PARANOIA",
+        "url": "https://open.spotify.com/album/6af3Z9vEogmAowqE0JOIFj"
+      },
+      "artists": [
+        {
+          "name": "Maggie Lindemann",
+          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198748,
+      "name": "It's Not Your Fault",
+      "url": "https://open.spotify.com/track/6D0JzsBhZAQsl7bxtGMSJD"
     },
     {
       "album": {

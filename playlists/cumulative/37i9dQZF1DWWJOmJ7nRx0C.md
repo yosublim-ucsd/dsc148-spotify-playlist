@@ -4,7 +4,7 @@
 
 > rock at its loudest\. turn it up ⬆️ Cover: Papa Roach
 
-1,101 songs - 2 day 17 hr 49 min
+1,102 songs - 2 day 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,7 +378,8 @@
 | [Friendly Fire](https://open.spotify.com/track/1rAzOr3zpUDRtN2zsqGHiG) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Friendly Fire](https://open.spotify.com/album/601IEigQO3enlyrbn4SpNM) | 2:56 | 2024-03-01 |  |
 | [From The Fire In You](https://open.spotify.com/track/4cBfIHOrhKupWbM6IkKtB5) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [Manifestations](https://open.spotify.com/album/0XKUF6rTRS5UX6KC5G90HV) | 3:33 | 2022-04-08 | 2022-06-18 |
 | [From Today](https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Nonnegative](https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V) | 3:53 | 2022-07-08 | 2023-03-18 |
-| [Frozen](https://open.spotify.com/track/2pHHaS46BXLP1fkKIdEdj4) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7) | [Frozen](https://open.spotify.com/album/0bOx4gvchCizrgxkIVGtkp) | 3:33 | 2023-09-22 |  |
+| [Frozen](https://open.spotify.com/track/2pHHaS46BXLP1fkKIdEdj4) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7) | [Frozen](https://open.spotify.com/album/0bOx4gvchCizrgxkIVGtkp) | 3:33 | 2023-09-22 | 2024-03-06 |
+| [Frozen](https://open.spotify.com/track/60No1rVevpihXdUMgUoIf4) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7) | [Frozen](https://open.spotify.com/album/0zQjbQzIHwlbzM4FaNAmQA) | 3:33 | 2024-03-01 |  |
 | [FSU](https://open.spotify.com/track/6LNu8Kp0Binqalakqg6GjZ) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK) | [FSU](https://open.spotify.com/album/5BrFYonFpDFxtfQLFmroGD) | 3:43 | 2024-01-05 | 2024-01-13 |
 | [FU2 \(feat\. AJ Channer of Fire From The Gods\)](https://open.spotify.com/track/5yLQ9epAVnt9Tx19izzDI5) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm), [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [FU2 \(feat\. AJ Channer of Fire From The Gods\)](https://open.spotify.com/album/3pSmwSKb6XLN4WtYI5knKB) | 3:14 | 2021-05-28 | 2022-01-08 |
 | [Fuck You](https://open.spotify.com/track/7fGGZSUU5Uja2A8dvmS9l9) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Fuck You](https://open.spotify.com/album/2Sdh5caZ8hEFIbQGXY4p6e) | 2:57 | 2022-10-21 | 2023-01-06 |

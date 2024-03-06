@@ -1,12 +1,12 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 131936,
+  "num_followers": 131931,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmM0ODNlZWVlZWJkOWFiYWM5OTVjNGQ3NmZlNWI0NjYxNjdmZjcw",
+  "snapshot_id": "MCw0NmViZDZjNTVkZmFmMjYyY2RmNTNmZGI0YmUxNmZhZmYwZjZlMTVh",
   "tracks": [
     {
       "added_at": "2023-11-28 17:00:03",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
+        "name": "A Very Laufey Holiday",
+        "url": "https://open.spotify.com/album/0PLkDF4iqGRf2zBYMiLPk3"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 167666,
+      "name": "The Christmas Waltz",
+      "url": "https://open.spotify.com/track/0WkcF1A4aQIrGQiodrVYEL"
+    },
+    {
+      "added_at": "2023-11-28 17:00:03",
+      "album": {
         "name": "Night Before Christmas",
         "url": "https://open.spotify.com/album/6YYiblw7X1CmTZykp5NejW"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 197560,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/3W6PmtGTyLwWBWUYplSWHT"
-    },
-    {
-      "added_at": "2023-11-28 17:00:03",
-      "album": {
-        "name": "A Very Laufey Holiday",
-        "url": "https://open.spotify.com/album/0PLkDF4iqGRf2zBYMiLPk3"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 167666,
-      "name": "The Christmas Waltz",
-      "url": "https://open.spotify.com/track/0WkcF1A4aQIrGQiodrVYEL"
     },
     {
       "added_at": "2023-11-28 17:00:03",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
-        "name": "The Lighthouse Keeper",
-        "url": "https://open.spotify.com/album/30Nf68hbXjDvoacY0K5fFB"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "The Lighthouse Keeper",
-      "url": "https://open.spotify.com/track/2WUVQQAsWvScEdBVilRYaR"
-    },
-    {
-      "added_at": "2023-11-28 17:00:03",
-      "album": {
         "name": "Love Is A Compass (Disney supporting Make-A-Wish)",
         "url": "https://open.spotify.com/album/24JJvusSGIAOn9GiHLvWz9"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 181469,
       "name": "Love Is A Compass - Disney supporting Make-A-Wish",
       "url": "https://open.spotify.com/track/6lx41mPrde3vkcb8qUQOOi"
+    },
+    {
+      "added_at": "2023-11-28 17:00:03",
+      "album": {
+        "name": "The Lighthouse Keeper",
+        "url": "https://open.spotify.com/album/30Nf68hbXjDvoacY0K5fFB"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "The Lighthouse Keeper",
+      "url": "https://open.spotify.com/track/2WUVQQAsWvScEdBVilRYaR"
     },
     {
       "added_at": "2023-11-28 17:00:03",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
-        "name": "The Whisper",
-        "url": "https://open.spotify.com/album/6XCCWmkQ2pSOnZucLKTN1L"
-      },
-      "artists": [
-        {
-          "name": "David Essex",
-          "url": "https://open.spotify.com/artist/46n0cAhBmsRJZiX6GSFmbf"
-        }
-      ],
-      "duration_ms": 251310,
-      "name": "A Winter's Tale",
-      "url": "https://open.spotify.com/track/2MZg8AD2iw6XR2BsIZqOvf"
-    },
-    {
-      "added_at": "2023-11-28 17:00:03",
-      "album": {
         "name": "Barry White - The Collection",
         "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 187733,
       "name": "It May Be Winter Outside (But In My Heart It's Spring)",
       "url": "https://open.spotify.com/track/4tHGsplffm1rxS33yrL59b"
+    },
+    {
+      "added_at": "2023-11-28 17:00:03",
+      "album": {
+        "name": "The Whisper",
+        "url": "https://open.spotify.com/album/6XCCWmkQ2pSOnZucLKTN1L"
+      },
+      "artists": [
+        {
+          "name": "David Essex",
+          "url": "https://open.spotify.com/artist/46n0cAhBmsRJZiX6GSFmbf"
+        }
+      ],
+      "duration_ms": 251310,
+      "name": "A Winter's Tale",
+      "url": "https://open.spotify.com/track/2MZg8AD2iw6XR2BsIZqOvf"
     },
     {
       "added_at": "2023-11-28 17:00:03",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
-        "name": "A Very She & Him Christmas",
-        "url": "https://open.spotify.com/album/3YrU19ATrTJinGwckoI5Dw"
-      },
-      "artists": [
-        {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        }
-      ],
-      "duration_ms": 129679,
-      "name": "Little Saint Nick",
-      "url": "https://open.spotify.com/track/6rhWx7Vatwp2dmL7KxzmbJ"
-    },
-    {
-      "added_at": "2023-11-28 17:00:03",
-      "album": {
         "name": "Walking in The Air",
         "url": "https://open.spotify.com/album/3K0oR5fAmNX2dx19FGUN51"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 239250,
       "name": "Walking in The Air",
       "url": "https://open.spotify.com/track/0c2L8oZyVWwesIZDocfJCB"
+    },
+    {
+      "added_at": "2023-11-28 17:00:03",
+      "album": {
+        "name": "A Very She & Him Christmas",
+        "url": "https://open.spotify.com/album/3YrU19ATrTJinGwckoI5Dw"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 129679,
+      "name": "Little Saint Nick",
+      "url": "https://open.spotify.com/track/6rhWx7Vatwp2dmL7KxzmbJ"
     },
     {
       "added_at": "2023-11-28 17:00:03",

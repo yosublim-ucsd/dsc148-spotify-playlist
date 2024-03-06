@@ -4,7 +4,7 @@
 
 > Brand new music Charli XCX \(pictured\), Fred again.., Skepta and more!
 
-9,005 songs - 20 day 6 hr 47 min
+9,006 songs - 20 day 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -502,7 +502,7 @@
 | [Annihilator](https://open.spotify.com/track/58kLQbV9LjVBrvRRB0n2cI) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Annihilator](https://open.spotify.com/album/0kYOVcPoZ8Zk5JnVOOarDg) | 2:34 | 2023-04-27 | 2023-05-05 |
 | [annual birthday cry](https://open.spotify.com/track/5iuovBLYt6ikzElFjua6hf) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [annual birthday cry](https://open.spotify.com/album/5g35jWLrE8FUTVqMU5ayE6) | 3:39 | 2022-10-28 | 2022-11-04 |
 | [Anomaly](https://open.spotify.com/track/4GasRb5xL5hhEA3BpwSXEb) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [Anomaly](https://open.spotify.com/album/2miqfqOp1YNWlQJplrRuBh) | 2:36 | 2022-12-23 | 2023-01-06 |
-| [Anonymous](https://open.spotify.com/track/0nzrey7EGWju6WBndLkUFa) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x), [Jada](https://open.spotify.com/artist/0HjgS1pbPhuNrlPkda9INO) | [Sad Songs For Winter](https://open.spotify.com/album/0Y8wD7iVN5COLCrsJFI3yp) | 2:30 | 2024-03-01 |  |
+| [Anonymous](https://open.spotify.com/track/0nzrey7EGWju6WBndLkUFa) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x), [JADA](https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM) | [Sad Songs For Winter](https://open.spotify.com/album/0Y8wD7iVN5COLCrsJFI3yp) | 2:30 | 2024-03-01 |  |
 | [Another Casualty](https://open.spotify.com/track/1WxS2I2RlwjqPVkZhQtYFH) | [KeepVibesNear](https://open.spotify.com/artist/1DjFYTQJksL0kkw9VABxdU) | [Another Casualty](https://open.spotify.com/album/2eTfnKV97RdgZQcxuiZt62) | 4:36 | 2023-10-12 | 2023-10-20 |
 | [Another Day](https://open.spotify.com/track/0ZYCbP3XOnoQQtcQklzcqN) | [Luke Gomm](https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB) | [With Love](https://open.spotify.com/album/1MDjGdyoL3Z7rbd1SWfC5k) | 2:43 | 2023-10-26 | 2023-11-03 |
 | [Another Love Story](https://open.spotify.com/track/46pUsxCf2s89NtD5zRpuMO) | [Kente Kwame](https://open.spotify.com/artist/43KOkaOqR25klAPKFGROw4), [davecreates](https://open.spotify.com/artist/2KuPNZuwsvJTX9yTDqNeNk) | [Short Songs About Love](https://open.spotify.com/album/7icjvZEtJp6oWLJnZKk99z) | 1:06 | 2023-10-26 | 2023-11-03 |
@@ -7957,7 +7957,7 @@
 | [Tina's Son](https://open.spotify.com/track/1l8hClYeHrq9f2GPffLg9V) | [Marnz Malone](https://open.spotify.com/artist/0mxo01LgzQUpNf8KFMGHe4) | [Tina's Son](https://open.spotify.com/album/3bzRPRdSZOSLtpCZHrC5QP) | 4:02 | 2024-02-09 | 2024-02-10 |
 | [Tina's Son](https://open.spotify.com/track/20u6zmWqvdnFl1tMq9uJIg) | [Marnz Malone](https://open.spotify.com/artist/0mxo01LgzQUpNf8KFMGHe4) | [Tina's Boy](https://open.spotify.com/album/2qeCzZQ8e6h1apGRiEnaw5) | 4:02 | 2024-02-09 | 2024-02-16 |
 | [Tinsel Dresses](https://open.spotify.com/track/7lR2IX1qlDpfGZFmW6c4WZ) | [Charlie Bennett](https://open.spotify.com/artist/0tvXkCpAjbDBWXXnYBE9wG) | [Tinsel Dresses](https://open.spotify.com/album/4wuwHm3hBokarHxJSlYk12) | 2:04 | 2022-12-09 | 2022-12-16 |
-| [TINTS \(feat\. Bawo\)](https://open.spotify.com/track/0MAnubeh3iynsMVSeH6YZa) | [Ashbeck](https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9), [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB), [El Londo](https://open.spotify.com/artist/6XO1rl4e9IDahI86s9UJZC) | [TINTS \(feat\. Bawo\)](https://open.spotify.com/album/5zt2vbLuQhmDybntG151Dh) | 2:16 | 2024-03-01 |  |
+| [TINTS \(feat\. Bawo\)](https://open.spotify.com/track/0MAnubeh3iynsMVSeH6YZa) | [Ashbeck](https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9), [El Londo](https://open.spotify.com/artist/6XO1rl4e9IDahI86s9UJZC), [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [TINTS \(feat\. Bawo\)](https://open.spotify.com/album/5zt2vbLuQhmDybntG151Dh) | 2:16 | 2024-03-01 |  |
 | [Tiny Moves](https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Tiny Moves](https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6) | 3:48 | 2024-01-19 | 2024-01-26 |
 | [Tip Toes](https://open.spotify.com/track/2AQQu9575Fa8o8tkbSrFoG) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Tip Toes](https://open.spotify.com/album/39x0sB7LLilVJ7fchw69GN) | 2:44 | 2023-09-07 | 2023-09-15 |
 | [Title](https://open.spotify.com/track/1dsgCQbZkhlNNCMNyKJXta) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Title](https://open.spotify.com/album/5IGnDNnVAqM2p38PlsTktc) | 2:48 | 2022-11-04 | 2022-11-11 |
@@ -8235,7 +8235,8 @@
 | [Unlikely](https://open.spotify.com/track/1wFgK8jcX27P6YUkxbeMBP) | [Bel Cobain](https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F) | [Unlikely](https://open.spotify.com/album/7IvIOtYOfkdk0lWIUY2YSZ) | 2:47 | 2023-11-10 | 2023-11-17 |
 | [unlock it](https://open.spotify.com/track/2QftMbZmNtjmZIJtpzdTAe) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [unlock it](https://open.spotify.com/album/2wNMY96gtVfhl5cvtq9VCi) | 3:13 | 2022-11-11 | 2022-11-18 |
 | [Unlovable](https://open.spotify.com/track/499MN6WNHM41KvlBOLc3zA) | [Lewis Fitzgerald](https://open.spotify.com/artist/6ovKHvbGzE1fZaLY0S4cOf) | [Unlovable](https://open.spotify.com/album/6AiLZLfwyoilOKRLQJC7PT) | 2:58 | 2024-01-05 | 2024-01-12 |
-| [Unlove You](https://open.spotify.com/track/09aMmvVWk5n7kmsj2NS12a) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Unlove You](https://open.spotify.com/album/61RGgh2zxHHsIzyhqMZEzq) | 2:46 | 2024-03-01 |  |
+| [Unlove You](https://open.spotify.com/track/09aMmvVWk5n7kmsj2NS12a) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Unlove You](https://open.spotify.com/album/61RGgh2zxHHsIzyhqMZEzq) | 2:46 | 2024-03-01 | 2024-03-06 |
+| [Unlove You](https://open.spotify.com/track/2J4vV2TPhtXYUxIHqMCsq4) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Unlove You](https://open.spotify.com/album/0XOCr1zfM2co1x5dMIjO77) | 2:46 | 2024-03-01 |  |
 | [unposted letters](https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [unposted letters](https://open.spotify.com/album/6GHaGnLbjpvGCqXWxQpemG) | 3:25 | 2023-07-20 | 2023-07-28 |
 | [Unravel](https://open.spotify.com/track/4iaGEMYt33g7XRW0XysG5B) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Unravel](https://open.spotify.com/album/2Ag4zs6ShtSHPVcgIZoSeq) | 2:40 | 2023-03-24 | 2023-03-31 |
 | [unrequited](https://open.spotify.com/track/0eccQvia7Mk5up7VBLtwDz) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [unrequited](https://open.spotify.com/album/5uYRNMJ5oTbFr36HxVoEZ4) | 3:23 | 2023-10-26 | 2023-11-03 |

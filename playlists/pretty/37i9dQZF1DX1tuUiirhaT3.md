@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tuUiirhaT3.md) - [plain]
 
 > Calm ambient music with gentle nature sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 870,613 likes - 228 songs - 11 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 870,785 likes - 228 songs - 11 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -237,4 +237,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tuUiirhaT3.md) - [plain]
 | 227 | [Okutama River](https://open.spotify.com/track/16Tm3SlDiUYjZNGqLTsjf6) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Asleep, Pt\. 2](https://open.spotify.com/album/5AAxnhY2YpoDCkhuTRlt0N) | 2:16 |
 | 228 | [Ringlo](https://open.spotify.com/track/4ARkXV21WeehAaRFhGNCW1) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Serenity](https://open.spotify.com/album/6RAAqB52NsotO2pWcsBH74) | 2:13 |
 
-Snapshot ID: `MCwwNmYwMjgyNTA0NzAzZGVjYTVhNTY5YTVkNzJjN2E1NWQ5MjQxYzE3`
+Snapshot ID: `MCxhOWU0MjRlYjc0NzNiZDE5OTUyZTY5MGFjY2ZjYTcxNTAyMmExYjlm`

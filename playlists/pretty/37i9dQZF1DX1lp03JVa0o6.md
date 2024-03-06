@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest Dance hits! Cover: Charli XCX
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,363 likes - 81 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,391 likes - 81 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 80 | [somethingsgonnaworkout](https://open.spotify.com/track/130GRQ2WBu5v7xG2hfWNBM) | [Jai Piccone](https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC), [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [somethingsgonnaworkout](https://open.spotify.com/album/212Wc6xZwyy95uzPM91W7b) | 4:04 |
 | 81 | [AEIOU](https://open.spotify.com/track/5I8YyKG5iIdOiuTFnX9YVC) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [AEIOU](https://open.spotify.com/album/2F00Hw4CHbhTPMeUllX8Oc) | 3:15 |
 
-Snapshot ID: `MCw5MmFkNTQ3MTQyN2NmNGU4ODM0NWZhOTljZWQzYjBjY2E4MzZjMDM2`
+Snapshot ID: `MCw3OTFmYWQ3MzJjYTJjYzBiNDE4YjAyZGNiMGI3Y2QwYmNlYTE5MDk2`

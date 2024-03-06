@@ -1,5 +1,5 @@
 {
-  "2024-03-05": 1343,
+  "2024-03-06": 1344,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Belarus.",
   "name": "Viral 50 - Belarus",
@@ -623,7 +623,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 140653,
       "name": "Hell Is Forever",
       "url": "https://open.spotify.com/track/6Ux7hThoEVu7V0YmmZqunV"
@@ -753,7 +753,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 98621,
       "name": "i was only temporary",
       "url": "https://open.spotify.com/track/0X4YYZtZcvqNqYIpMd93IT"
@@ -2577,7 +2577,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-04",
+      "date_removed": null,
       "duration_ms": 65860,
       "name": "\u041a\u0430\u0432\u0430\u0431\u0430\u043d\u0433\u0430",
       "url": "https://open.spotify.com/track/0IQECQhJWfIlbSGcbppdmU"
@@ -2686,6 +2686,24 @@
     },
     {
       "album": {
+        "name": "\u041c\u043e\u0436\u043d\u043e \u044f \u0441 \u0442\u043e\u0431\u043e\u0439",
+        "url": "https://open.spotify.com/album/2v232fMW91TYINJUwtgwOB"
+      },
+      "artists": [
+        {
+          "name": "AP$ENT",
+          "url": "https://open.spotify.com/artist/6oiinpr7kwRmyWKVDTZgRT"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132293,
+      "name": "\u041c\u043e\u0436\u043d\u043e \u044f \u0441 \u0442\u043e\u0431\u043e\u0439",
+      "url": "https://open.spotify.com/track/2KlFcj8nBHh4VSg7lkQOqJ"
+    },
+    {
+      "album": {
         "name": "\u041d\u0435 \u043c\u0430\u043d\u0438\u043f\u0443\u043b\u0438\u0440\u0443\u0439",
         "url": "https://open.spotify.com/album/5b8xCVRBVV8OpeetQ6VBaB"
       },
@@ -2773,7 +2791,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 226617,
       "name": "\u041d\u0438\u043a\u0430\u043a\u0438\u0445 \u0411\u043e\u043b\u044c\u0448\u0435 \u0412\u0435\u0447\u0435\u0440\u0438\u043d\u043e\u043a",
       "url": "https://open.spotify.com/track/4XJ0xSJtI7HKVe3qqoYX5E"
@@ -2867,7 +2885,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 154331,
       "name": "\u041e\u043d\u0430 \u043f\u0438\u0448\u0435\u0442 \u043c\u043d\u0435 Wassup",
       "url": "https://open.spotify.com/track/7sqP5P6w4GP9eRWc9c7k8J"
@@ -3146,6 +3164,28 @@
     },
     {
       "album": {
+        "name": "luvcore",
+        "url": "https://open.spotify.com/album/7ohgnlp47m6z2KSeiAQDhZ"
+      },
+      "artists": [
+        {
+          "name": "Mary Gu",
+          "url": "https://open.spotify.com/artist/5w98ILth0uq2xi2am1vu5g"
+        },
+        {
+          "name": "OG Buda",
+          "url": "https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136888,
+      "name": "\u0442\u043e\u043b\u0441\u0442\u043e\u0432\u043a\u0430",
+      "url": "https://open.spotify.com/track/50MBcXfnr3aZ2JT5PidJWT"
+    },
+    {
+      "album": {
         "name": "\u0426\u0435\u043b\u0443\u044e",
         "url": "https://open.spotify.com/album/5MMOUwDx6k2gxYw1CifHY7"
       },
@@ -3215,10 +3255,28 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 246802,
       "name": "\u0427\u0442\u043e \u043c\u044b \u0441 \u0442\u043e\u0431\u043e\u0439 \u043d\u0430\u0434\u0435\u043b\u0430\u043b\u0438?",
       "url": "https://open.spotify.com/track/1HqQLEjXdnhsi8EvoljM69"
+    },
+    {
+      "album": {
+        "name": "\u0412\u0441\u0435 \u043f\u0443\u0447\u043a\u043e\u043c",
+        "url": "https://open.spotify.com/album/4YxtL6HGSTuod267dNp7JY"
+      },
+      "artists": [
+        {
+          "name": "\u041f\u043e\u0442\u0430\u043f \u0438 \u041d\u0430\u0441\u0442\u044f",
+          "url": "https://open.spotify.com/artist/1Bt4owwtQWGz1D0PKLFVi1"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193750,
+      "name": "\u0427\u0443\u043c\u0430\u0447\u0435\u0447\u0430\u044f \u0432\u0435\u0441\u043d\u0430",
+      "url": "https://open.spotify.com/track/2QnwsJpx1fkRts6etIgisp"
     },
     {
       "album": {
@@ -3353,6 +3411,24 @@
       "duration_ms": 137714,
       "name": "\u042f \u0442\u043e\u0431\u0456 \u0431\u0440\u0435\u0445\u0430\u043b\u0430",
       "url": "https://open.spotify.com/track/1G5M0Aox7zAnvFjPqSo3fY"
+    },
+    {
+      "album": {
+        "name": "\u0438\u0432\u0430\u043d \u043c\u0430\u0440\u0433\u043e\u043b\u0434\u0438\u043d \u043f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442 \u0440\u043e\u0441\u0441\u0438\u0438",
+        "url": "https://open.spotify.com/album/3OkAl6EwJXk21ESEcblesz"
+      },
+      "artists": [
+        {
+          "name": "\u041f\u041e\u041b\u041c\u0410\u0422\u0415\u0420\u0418",
+          "url": "https://open.spotify.com/artist/3NDasZQ8ZbOssdAPNkZgW1"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167744,
+      "name": "\u044f\u0440\u0447\u0435 \u0437\u0432\u0451\u0437\u0434",
+      "url": "https://open.spotify.com/track/4ZhLYdmhWdPTZcnAy9SZZO"
     },
     {
       "album": {

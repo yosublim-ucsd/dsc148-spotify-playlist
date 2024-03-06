@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Leony
 
-11,005 songs - 22 day 23 hr 0 min
+11,006 songs - 22 day 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3036,7 +3036,7 @@
 | [Europaträume](https://open.spotify.com/track/0PYX7X0wTBT5WvKzNCWtk2) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Europaträume](https://open.spotify.com/album/5AXd8wp7NNydXNzFAxlXmf) | 3:36 | 2024-01-25 | 2024-02-02 |
 | [Eurostar \(feat\. Central Cee\)](https://open.spotify.com/track/3Iy4j2lCqW8BXGkFk21U6F) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:07 | 2023-06-29 | 2023-07-07 |
 | [Eva](https://open.spotify.com/track/6x0Rg35cPDLUP1IO9P0zvH) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Eva](https://open.spotify.com/album/4RneN5mY0knTeK229PgvrF) | 3:40 | 2022-09-01 | 2022-09-09 |
-| [Eva \(feat\. Tedua\)](https://open.spotify.com/track/29nqe5lhK8JmNcVXum7UuA) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Junior K](https://open.spotify.com/artist/6jN6FwPrMDKLgHbU9OyTrt) | [I Nomi del Diavolo](https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh) | 2:40 | 2024-02-29 |  |
+| [Eva \(feat\. Tedua\)](https://open.spotify.com/track/29nqe5lhK8JmNcVXum7UuA) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Junior K](https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ) | [I Nomi del Diavolo](https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh) | 2:40 | 2024-02-29 |  |
 | [Evangeline](https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Evangeline](https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN) | 2:57 | 2023-01-26 | 2023-02-03 |
 | [Eve](https://open.spotify.com/track/5SVPOW9HMbXr2P33jIuiuT) | [Effemar](https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB) | [Eve](https://open.spotify.com/album/3dIhCkdoJEmDEjOON0ScEl) | 4:00 | 2022-11-10 | 2022-11-18 |
 | [Even Th0](https://open.spotify.com/track/1aWMxfZXk1lu8TxFG6lcb7) | [Ronis Goliath](https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t) | [Even Th0](https://open.spotify.com/album/2uQLiUd9B5vSypweCpyENz) | 3:04 | 2023-03-02 | 2023-03-10 |
@@ -8579,7 +8579,8 @@
 | [Sie weisses](https://open.spotify.com/track/14y2T4AIbhCLp7ldGVddGA) | [Nilai](https://open.spotify.com/artist/68qLcgx7j0scFrVATHyI9u), [Josha Hewitt](https://open.spotify.com/artist/0TT0Jq7scu8wq1tTqEktOl) | [Sie weisses](https://open.spotify.com/album/7uONeasH4Euz46JSUoSSmV) | 3:11 | 2022-12-22 | 2023-01-06 |
 | [Sie weiß \(feat\. Mero\)](https://open.spotify.com/track/7DyDjhZMEIK5Ied4juTCyc) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1), [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Sie weiß \(feat\. Mero\)](https://open.spotify.com/album/3ixrTwmXyX8EByoYXCEhpX) | 2:31 | 2023-01-05 | 2023-01-13 |
 | [Sie will](https://open.spotify.com/track/5uBeRTSy5YX6DRE3JEnXbx) | [Pajel](https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm), [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [Sie will](https://open.spotify.com/album/4jjc9PD1QSQ0tag57k5DSe) | 3:23 | 2022-10-06 | 2022-10-14 |
-| [Sie will nur Love](https://open.spotify.com/track/0tuyplBN6l4ofvTFtWbyq4) | [JONA](https://open.spotify.com/artist/64x9nivyNE39JfmRiz2eM6) | [Sie will nur Love](https://open.spotify.com/album/5TDUeOSVLvZERrd9mWwKFh) | 2:38 | 2024-02-29 |  |
+| [Sie will nur Love](https://open.spotify.com/track/0tuyplBN6l4ofvTFtWbyq4) | [JONA](https://open.spotify.com/artist/64x9nivyNE39JfmRiz2eM6) | [Sie will nur Love](https://open.spotify.com/album/5TDUeOSVLvZERrd9mWwKFh) | 2:38 | 2024-02-29 | 2024-03-06 |
+| [Sie will nur Love](https://open.spotify.com/track/1IVPnvQSFIb4nkl4gCm42K) | [JONA](https://open.spotify.com/artist/64x9nivyNE39JfmRiz2eM6) | [Sie will nur Love](https://open.spotify.com/album/3f5yfEzZJKIfigBQicY3ja) | 2:38 | 2024-02-29 |  |
 | [SIE WOLLEN DIES SIE WOLLEN DAS](https://open.spotify.com/track/0EH4T1vEnWzbzYYRNGNAf3) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [SIE WOLLEN DIES SIE WOLLEN DAS / 7 tage](https://open.spotify.com/album/7FoAhKHHzv3eCPda1LoiCx) | 2:03 | 2023-09-14 | 2023-09-22 |
 | [Sieben Siegel](https://open.spotify.com/track/2HlodeLNvkAvr22Dawcbvm) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv), [Luis Ake](https://open.spotify.com/artist/0pC0b44XIewBYzsCzVuytW) | [Sieben Siegel](https://open.spotify.com/album/0Yhbi8ou98G2LejTXjFAEk) | 2:17 | 2024-02-29 |  |
 | [Siebter Stock](https://open.spotify.com/track/2xu3onUQ6gVEew67vrg9wK) | [kevin](https://open.spotify.com/artist/3AnRJXttxRO7191Fxwkaxz) | [Siebter Stock](https://open.spotify.com/album/6YBnuieH84eqIIAsGZVOa1) | 3:02 | 2023-01-05 | 2023-01-13 |

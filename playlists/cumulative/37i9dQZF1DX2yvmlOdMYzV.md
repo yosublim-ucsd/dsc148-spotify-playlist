@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-641 songs - 1 day 11 hr 16 min
+642 songs - 1 day 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,6 +397,7 @@
 | [Mystic Lover](https://open.spotify.com/track/5Qs1FoJHwRJWx258CMJSxH) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Mystic Lover](https://open.spotify.com/album/6NUcMrmhoAIwvO0kAhk6Rt) | 3:55 | 2021-12-15 | 2022-07-23 |
 | [Napkins](https://open.spotify.com/track/37b1KAbfOZeBzeMB0LGO3g) | [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k) | [Napkins](https://open.spotify.com/album/5lcJvdmBrCxGitr691Hdjm) | 3:35 | 2021-12-15 | 2022-04-19 |
 | [Napkins](https://open.spotify.com/track/3PqnBkr83kaVQNKP0qYjQF) | [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k) | [Napkins](https://open.spotify.com/album/01uQnrOaLJC13xdImR2Dtc) | 3:35 | 2022-06-30 | 2022-09-30 |
+| [Need Nothing](https://open.spotify.com/track/42f3EU5xToR3O4VlIRGfC9) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Need Nothing](https://open.spotify.com/album/3jE6ilwvImynefzlleCPAz) | 2:27 | 2024-03-01 |  |
 | [neve give up](https://open.spotify.com/track/2a5qaGUrVHWAIrh0xmTADM) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [aloha](https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd) | 3:41 | 2021-12-15 | 2023-01-28 |
 | [Never Get Enough](https://open.spotify.com/track/1v20BOUbOcMGKujbMQj3Li) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Never Get Enough](https://open.spotify.com/album/4AtPTZNc6lEMelJJEsGvMD) | 4:20 | 2023-10-27 |  |
 | [Never Know](https://open.spotify.com/track/62L4gX0hWCso6ikzA9yjpe) | [Mulherin](https://open.spotify.com/artist/0pvhBvl3SFpzhahmYfqcPo) | [Never Know](https://open.spotify.com/album/4GymIaS8BsKYYPJqzgr5Bf) | 3:03 | 2021-12-15 | 2022-04-18 |
@@ -573,7 +574,7 @@
 | [THIS SH!T](https://open.spotify.com/track/0NfxQ1dLKqwT40AhR6zqAY) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [LMBSKN](https://open.spotify.com/artist/5TLjx8KhJyYCPtCA08Zkd9) | [THIS SH!T](https://open.spotify.com/album/3Ciqp3lJAvIFBkbC2uGz00) | 2:50 | 2023-02-16 | 2023-07-01 |
 | [THIS SH!T](https://open.spotify.com/track/4e0nFC5a95gFWJUzrQ8ggy) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [LMBSKN](https://open.spotify.com/artist/5TLjx8KhJyYCPtCA08Zkd9) | [THIS SH!T](https://open.spotify.com/album/4wRmr1ozRCAVPSj06fL68W) | 2:50 | 2022-09-29 | 2023-03-02 |
 | [Thrive](https://open.spotify.com/track/0fuKweowW67sGmmuOp8GZW) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Remain Calm](https://open.spotify.com/album/0WWOl1EPBFsZq6HjQZmovl) | 2:10 | 2021-12-15 | 2022-02-12 |
-| [Tidal Wave](https://open.spotify.com/track/0COURFiJSO9R4Bz3gAP1VW) | [August Rosenbaum](https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4), [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [songs people together \(extended\)](https://open.spotify.com/album/5fOtDWDnJqB2fZ4xJwdUMG) | 1:51 | 2023-06-09 |  |
+| [Tidal Wave](https://open.spotify.com/track/0COURFiJSO9R4Bz3gAP1VW) | [August Rosenbaum](https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4), [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [songs people together \(extended\)](https://open.spotify.com/album/5fOtDWDnJqB2fZ4xJwdUMG) | 1:51 | 2023-06-09 | 2024-03-06 |
 | [Tightrope](https://open.spotify.com/track/0qEeRTvWCUZ9PaCaS1ehwK) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Tightrope](https://open.spotify.com/album/30ksqmYH8xPqSQzOEII0mp) | 2:49 | 2022-11-09 | 2022-12-04 |
 | [TIME TO SAY GOODBYE](https://open.spotify.com/track/0qLKlvkD6ixMkMBWpqrkre) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [WELCOME HOME, KID!](https://open.spotify.com/album/6DQ9syhtjqNJgFLbPGrWYy) | 2:56 | 2024-02-17 |  |
 | [Time Will Tell](https://open.spotify.com/track/7t15QHGSW2IyHkVEjsD6XH) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [Champagne Kisses](https://open.spotify.com/album/1BkhAWj2DJmsapEOd0OUUU) | 3:08 | 2023-06-23 |  |

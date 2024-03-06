@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 78002,
+  "num_followers": 78058,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMmZjOGI4N2I2YzczZTFlN2JkNmVhZWEwM2I5MzdjM2I3ZmQ3Y2M4",
+  "snapshot_id": "MCw1ZGE5Y2U1YTk1YzQzNzg1ZWQ0ZmI2NjBlZmE0MjhkODAxMWYxNTEy",
   "tracks": [
     {
       "added_at": "2023-12-27 14:18:14",
@@ -587,30 +587,6 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "TANTA COISA PRA ACONTECER DE NOVO, PRA MIM TANTO FAZ",
-        "url": "https://open.spotify.com/album/4ZZFHTy6rCdrnbqCoEd0B7"
-      },
-      "artists": [
-        {
-          "name": "Funk S\u00c9RIE GOLD",
-          "url": "https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n"
-        },
-        {
-          "name": "ARTHUR DE AFC",
-          "url": "https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb"
-        },
-        {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "TANTA COISA PRA ACONTECER DE NOVO, PRA MIM TANTO FAZ",
-      "url": "https://open.spotify.com/track/43qgbgEvGQKI8PofVgFFbH"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
         "name": "Ananda (Speed)",
         "url": "https://open.spotify.com/album/1CIW6txeFisFO56w7sqX9e"
       },
@@ -631,6 +607,30 @@
       "duration_ms": 163835,
       "name": "Portugal (Speed)",
       "url": "https://open.spotify.com/track/06tHtGtKQuYRKkrfa1yQEi"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "TANTA COISA PRA ACONTECER DE NOVO, PRA MIM TANTO FAZ",
+        "url": "https://open.spotify.com/album/4ZZFHTy6rCdrnbqCoEd0B7"
+      },
+      "artists": [
+        {
+          "name": "Funk S\u00c9RIE GOLD",
+          "url": "https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n"
+        },
+        {
+          "name": "ARTHUR DE AFC",
+          "url": "https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb"
+        },
+        {
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "TANTA COISA PRA ACONTECER DE NOVO, PRA MIM TANTO FAZ",
+      "url": "https://open.spotify.com/track/43qgbgEvGQKI8PofVgFFbH"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -679,26 +679,6 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "Palha\u00e7ada Speed",
-        "url": "https://open.spotify.com/album/4okp1GPCFiKNbnTfFQvO5A"
-      },
-      "artists": [
-        {
-          "name": "Avelar Music",
-          "url": "https://open.spotify.com/artist/5AlccduhApCtX7ssks4AJ1"
-        },
-        {
-          "name": "Belim",
-          "url": "https://open.spotify.com/artist/6Cb97YqzKJbAxQuHzEDJnb"
-        }
-      ],
-      "duration_ms": 149170,
-      "name": "Palha\u00e7ada Speed",
-      "url": "https://open.spotify.com/track/0ehjQBJZp0dpOv1oCZFHGE"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
         "name": "Semblante de Criminoso Speed",
         "url": "https://open.spotify.com/album/4OapHKHJ62yQphWbquFKQt"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 98475,
       "name": "Semblante de Criminoso Speed",
       "url": "https://open.spotify.com/track/4NXhoDZKkhtWfulsgqsmOa"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "Palha\u00e7ada Speed",
+        "url": "https://open.spotify.com/album/4okp1GPCFiKNbnTfFQvO5A"
+      },
+      "artists": [
+        {
+          "name": "Avelar Music",
+          "url": "https://open.spotify.com/artist/5AlccduhApCtX7ssks4AJ1"
+        },
+        {
+          "name": "Belim",
+          "url": "https://open.spotify.com/artist/6Cb97YqzKJbAxQuHzEDJnb"
+        }
+      ],
+      "duration_ms": 149170,
+      "name": "Palha\u00e7ada Speed",
+      "url": "https://open.spotify.com/track/0ehjQBJZp0dpOv1oCZFHGE"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
+        "name": "Ah Vai Ter Que Descer - Remix",
+        "url": "https://open.spotify.com/album/7hb5M57k7UhjH4ReSryqWv"
+      },
+      "artists": [
+        {
+          "name": "LC DE VV",
+          "url": "https://open.spotify.com/artist/2N11bSwFZ641NOPMMBdm5p"
+        }
+      ],
+      "duration_ms": 102511,
+      "name": "Ah Vai Ter Que Descer - Remix",
+      "url": "https://open.spotify.com/track/3Ghgj25OQNnBFPj1lkPBCf"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
         "name": "SEGREDO VERS\u00c3O BH",
         "url": "https://open.spotify.com/album/7Mkqs7f1Ut0cXuKUz3TKMs"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 156922,
       "name": "SEGREDO VERS\u00c3O BH",
       "url": "https://open.spotify.com/track/7KJ3zD65Na61RsIcqfEfQr"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
-        "name": "Ah Vai Ter Que Descer - Remix",
-        "url": "https://open.spotify.com/album/7hb5M57k7UhjH4ReSryqWv"
-      },
-      "artists": [
-        {
-          "name": "LC DE VV",
-          "url": "https://open.spotify.com/artist/2N11bSwFZ641NOPMMBdm5p"
-        }
-      ],
-      "duration_ms": 102511,
-      "name": "Ah Vai Ter Que Descer - Remix",
-      "url": "https://open.spotify.com/track/3Ghgj25OQNnBFPj1lkPBCf"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "EU N\u00c3O SOU UM G\u00caNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA",
-        "url": "https://open.spotify.com/album/6Uo1EzghXdykjOM1lzbx04"
-      },
-      "artists": [
-        {
-          "name": "PL JUNIOR",
-          "url": "https://open.spotify.com/artist/0aRFRMsUrV2E2pFu8VbMc0"
-        },
-        {
-          "name": "ANNY SUCESSADA",
-          "url": "https://open.spotify.com/artist/2QgksP01YMIrB0y7DTXqlj"
-        }
-      ],
-      "duration_ms": 106631,
-      "name": "EU N\u00c3O SOU UM G\u00caNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA",
-      "url": "https://open.spotify.com/track/1YjPBxRkXcybgV3Jq16dIW"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
         "name": "Pe\u00e7a",
         "url": "https://open.spotify.com/album/7E3g8qsgfOfCeLkipm0PSt"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 135418,
       "name": "Pe\u00e7a - Speed",
       "url": "https://open.spotify.com/track/5IpBsqWPLu7PEeT2nwc8gV"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "EU N\u00c3O SOU UM G\u00caNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA",
+        "url": "https://open.spotify.com/album/6Uo1EzghXdykjOM1lzbx04"
+      },
+      "artists": [
+        {
+          "name": "PL JUNIOR",
+          "url": "https://open.spotify.com/artist/0aRFRMsUrV2E2pFu8VbMc0"
+        },
+        {
+          "name": "ANNY SUCESSADA",
+          "url": "https://open.spotify.com/artist/2QgksP01YMIrB0y7DTXqlj"
+        }
+      ],
+      "duration_ms": 106631,
+      "name": "EU N\u00c3O SOU UM G\u00caNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA",
+      "url": "https://open.spotify.com/track/1YjPBxRkXcybgV3Jq16dIW"
     },
     {
       "added_at": "2023-12-27 14:18:14",

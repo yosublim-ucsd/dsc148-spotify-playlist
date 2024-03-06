@@ -4,7 +4,7 @@
 
 > Genießt die ersten Sonnenstrahlen mit der ganzen Familie.
 
-340 songs - 16 hr 3 min
+341 songs - 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Hui Buh \- Das Schlossgespenst](https://open.spotify.com/track/74skypXEi8IWrHoXZZ8sw8) | [Michael Schanze](https://open.spotify.com/artist/3qZlcxiBZnekq0NeAnPLy4), [Hans Clarin](https://open.spotify.com/artist/6i6Rf2vtI1fQ4E9oXx6oZX) | [Danke Rudi!](https://open.spotify.com/album/0PaCAksrWV8EIPLMdYmGAe) | 3:12 | 2023-10-16 | 2023-11-05 |
 | [Hui Buh \- Das Schlossgespenst](https://open.spotify.com/track/2IfG2i43XLsSLTYROFQP06) | [Michael Schanze & Hans Clarin](https://open.spotify.com/artist/0DC85tC7cITKlQeVSc20fe) | [Danke Rudi!](https://open.spotify.com/album/4LjSDj6F2FDHAoPp6miVwA) | 3:12 | 2023-10-30 | 2023-11-06 |
 | [Hui Hui Hui \- Ich bin der Wind](https://open.spotify.com/track/3Wal8NEzMPBFpGjScxlGT7) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Laternen\- und Herbstlieder](https://open.spotify.com/album/7CIBgDr7rnEI1YeoMLO7Gn) | 1:33 | 2023-08-31 | 2023-10-17 |
-| [Häschen hüpf](https://open.spotify.com/track/6pUjMv4Y5g3lGX1r4BDkSB) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Kinderlieder für die Kita \- EP](https://open.spotify.com/album/6BG5UPlf5ptnaz77upzB6v) | 1:30 | 2024-03-01 |  |
+| [Häschen hüpf](https://open.spotify.com/track/6pUjMv4Y5g3lGX1r4BDkSB) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Kinderlieder für die Kita \- EP](https://open.spotify.com/album/6BG5UPlf5ptnaz77upzB6v) | 1:30 | 2024-03-01 | 2024-03-06 |
 | [Hörst du die Regenwürmer husten](https://open.spotify.com/track/6BMiwUZ69Paj0vOzJynqGP) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Kinderlieder für die Kita \- EP](https://open.spotify.com/album/6BG5UPlf5ptnaz77upzB6v) | 3:07 | 2023-09-04 | 2023-10-17 |
 | [I Wish It Could Be Christmas Everyday](https://open.spotify.com/track/0v10fCSMYtjlEEEFMo3OIL) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Christmas](https://open.spotify.com/album/7GJVFlUmqCb71CJRDzm5E5) | 3:08 | 2023-11-14 | 2023-12-09 |
 | [Ich bleib hier \(feat\. Lina Larissa Strahl\)](https://open.spotify.com/track/64W6MhqnoDBXrLMnM5d1Hp) | [Bibi und Tina](https://open.spotify.com/artist/2x8vG4f0HYXzMEo3xNsoiI), [Peter Plate](https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg), [Ulf Leo Sommer](https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp), [Lina Larissa Strahl](https://open.spotify.com/artist/2SXsxS4gv0ZHIZQ0kU3GDk) | [Bibi und Tina: VOLL VERHEXT! \(Der Original\-Soundtrack zum Kinofilm\)](https://open.spotify.com/album/5CXxYkRdKPyE7tWGmqZZOP) | 2:59 | 2023-06-28 |  |
@@ -324,6 +324,7 @@
 | [Wenn der Herbst für dich singt](https://open.spotify.com/track/5EvDPBe18z0G5xqcIIdGYW) | [Natalie Rohrer](https://open.spotify.com/artist/16yPiZ50vlvW4hAS00ZvgF) | [Kinder dieser Welt](https://open.spotify.com/album/0VYUUIZ0sDH3BzJqUdvFi1) | 2:13 | 2023-08-31 | 2023-10-17 |
 | [Wenn der Sommer kommt](https://open.spotify.com/track/5Nhu3X0j2OLbYHLWWKfVGA) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Urlaubs\- und Sommerlieder](https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6) | 3:06 | 2023-06-28 | 2023-09-01 |
 | [Wenn die Fledermäuse tanzen](https://open.spotify.com/track/4MeA9SGzhfPXmwYOJGolZo) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Nena Und Die Bambus Bären Bande](https://open.spotify.com/album/5zMipqCNwLqTYXMSo3qJpa) | 2:42 | 2023-10-16 | 2023-11-06 |
+| [Wenn es Frühling wird im Hasenland](https://open.spotify.com/track/7MPobyJg4jGMalvxGZRXRE) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Rolfs Hasengeschichte \- Die Lieder](https://open.spotify.com/album/1EtDPG0Uju2blhBqouf9vt) | 2:37 | 2024-03-01 |  |
 | [Wenn Monster tanzen](https://open.spotify.com/track/3VSmTFC8aXgHXaAHm8MBSE) | [Körperklaus](https://open.spotify.com/artist/3bNx1ltylwrKGmVI2I0zsg) | [Wackeldackel Hitparade](https://open.spotify.com/album/6E0XZUnRSEr8QjWvjGwtEs) | 3:31 | 2023-10-16 | 2023-11-06 |
 | [Wer hilft jetzt dem Weihnachtsmann?](https://open.spotify.com/track/3BqKpjxNJidrnE6S4pgj9k) | [Keks & Kumpels](https://open.spotify.com/artist/2W6UwHeegSNuolXHmMGX2X) | [Hits für Kids im Winter](https://open.spotify.com/album/5VT5dIWNXWFTBhwIl1WAM6) | 2:50 | 2023-11-14 | 2023-12-30 |
 | [Wickie \(Titellied\)](https://open.spotify.com/track/4eZjGXmOMZZ5YFS0efibn7) | [Christian Bruhn](https://open.spotify.com/artist/2yooWDszjKIoSiu44pfwa2) | [TV Friends Forever \- TV Hits For Kids](https://open.spotify.com/album/2VoLPjDdXS5pSaMvCMqUw3) | 2:04 | 2024-02-06 | 2024-02-16 |

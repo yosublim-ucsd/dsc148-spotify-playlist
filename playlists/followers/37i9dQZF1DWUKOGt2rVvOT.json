@@ -1,7 +1,7 @@
 {
-  "2024-03-05": 108406,
+  "2024-03-06": 108453,
   "date_first_scraped": "2024-01-21",
-  "description": "\u9019\u4e9b\u6b4c\u9084\u5f88\u7d05\u4e5f\uff01\u5df2\u7d93\u6709\u5169\u4e09\u5e74\u4e86\uff1f\u9ad8\u4eba\u6c23\u91d1\u66f2\u8b93\u4f60\u4e00\u8def\u807d\u4e0b\u53bb\uff01Cover: A-Lin",
+  "description": "\u9019\u4e9b\u6b4c\u9084\u5f88\u7d05\u4e5f\uff01\u5df2\u7d93\u6709\u5169\u4e09\u5e74\u4e86\uff1f\u9ad8\u4eba\u6c23\u91d1\u66f2\u8b93\u4f60\u4e00\u8def\u807d\u4e0b\u53bb\uff01Cover: \u5468\u8208\u54f2 (Eric Chou)",
   "name": "\u9ad8\u4eba\u6c23\u91d1\u66f2",
   "tracks": [
     {
@@ -136,6 +136,28 @@
     },
     {
       "album": {
+        "name": "\u985b\u5012\u4e16\u754c",
+        "url": "https://open.spotify.com/album/6g1P2zeHgi2I7iKLgjleKb"
+      },
+      "artists": [
+        {
+          "name": "831",
+          "url": "https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM"
+        },
+        {
+          "name": "\u623f\u6771\u7684\u8c93",
+          "url": "https://open.spotify.com/artist/6oxtUCWftDouZzeso3oXcF"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287721,
+      "name": "\u4e0d\u6416\u6efe",
+      "url": "https://open.spotify.com/track/0ycpiOuqqmEIOUa6pXthmP"
+    },
+    {
+      "album": {
         "name": "\u4e0d\u662f\u56e0\u70ba\u5929\u6c23\u6674\u6717\u624d\u611b\u4f60",
         "url": "https://open.spotify.com/album/6JuW0a9a9irzx0QkYC9eLI"
       },
@@ -176,6 +198,24 @@
     },
     {
       "album": {
+        "name": "\u4f60\u597d\u55ce?",
+        "url": "https://open.spotify.com/album/6ozfZvuJHfOjjgbfFhUqLj"
+      },
+      "artists": [
+        {
+          "name": "\u9b4f\u5609\u7469 Arrow Wei",
+          "url": "https://open.spotify.com/artist/5JIZFQ7EMAp257CdzKemXO"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268630,
+      "name": "\u4f60\u597d\u55ce",
+      "url": "https://open.spotify.com/track/2T7LYExbf85ML5WrzWBz1F"
+    },
+    {
+      "album": {
         "name": "\u4f60\u7684\u7b54\u6848",
         "url": "https://open.spotify.com/album/05nfv9HHHKkKWoNDGQSNNb"
       },
@@ -205,7 +245,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 237666,
       "name": "\u4f86\u4e0d\u53ca\u8aaa\u518d\u898b (\u300a\u5947\u8e5f\u300b\u524d\u5c0e\u7247\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/3ZHIPqgHJoD2HgJE2QLTmI"
@@ -281,6 +321,24 @@
       "duration_ms": 300353,
       "name": "\u5225\u4eba\u7684 - \u96fb\u5f71\u300a\u5b64\u5473\u300b\u7247\u5c3e\u66f2",
       "url": "https://open.spotify.com/track/7gbP8Afrc0ufYGqb93T8Mt"
+    },
+    {
+      "album": {
+        "name": "\u6c92\u6709\u4eba\u5beb\u6b4c\u7d66\u4f60\u904e\u5427",
+        "url": "https://open.spotify.com/album/2KFILcMINkSVFZKkrw8Yfp"
+      },
+      "artists": [
+        {
+          "name": "Ann Bai",
+          "url": "https://open.spotify.com/artist/6ytn3LGlsoOgU3YGF9T42s"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259436,
+      "name": "\u525b\u597d (\u300a\u53f0\u5317\u5973\u5b50\u5716\u9451\u300b\u6232\u5287\u63d2\u66f2)",
+      "url": "https://open.spotify.com/track/3ieXD6cGP25CKLPexbAic9"
     },
     {
       "album": {
@@ -523,7 +581,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 244615,
       "name": "\u5b8c\u7f8e\u4e0d\u5b8c\u7f8e(\u7535\u5f71\u300a2049\u300b\u4e3b\u9898\u66f2)",
       "url": "https://open.spotify.com/track/1BkVqfb2YG4FSwhQpU71WY"
@@ -581,7 +639,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 246278,
       "name": "\u5c0f\u5fc3\u7ffb\u95b1 Going Through",
       "url": "https://open.spotify.com/track/3cOhCnSgKFEcEzFPNpsQJe"
@@ -898,6 +956,24 @@
     },
     {
       "album": {
+        "name": "\u72c2\u4eba",
+        "url": "https://open.spotify.com/album/0fJuIuYXDPonlFi7gUe3ol"
+      },
+      "artists": [
+        {
+          "name": "\u856d\u79c9\u6cbb",
+          "url": "https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205218,
+      "name": "\u6bd2\u85e5",
+      "url": "https://open.spotify.com/track/5VymCvfV0FguCa7zrIPSgk"
+    },
+    {
+      "album": {
         "name": "\u6e05\u7a7a",
         "url": "https://open.spotify.com/album/23w8NaKTfstEHCuBozpqKX"
       },
@@ -1101,7 +1177,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 214067,
       "name": "\u8a60\u611b",
       "url": "https://open.spotify.com/track/3sf2rfLYBuIz0gHOa7Z33h"
@@ -1217,7 +1293,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 218917,
       "name": "\u9060\u8ddd\u96e2 - \u300aHIStory4-\u8fd1\u8ddd\u96e2\u611b\u4e0a\u4f60\u300bLINE TV\u63d2\u66f2",
       "url": "https://open.spotify.com/track/0VqbDslRuBAk5jzB81ZQ0Z"
@@ -1275,6 +1351,24 @@
       "duration_ms": 237840,
       "name": "\u963f\u62c9\u65af\u52a0\u6d77\u6e7e",
       "url": "https://open.spotify.com/track/5DCNAwyomUF3LXunq4NSpJ"
+    },
+    {
+      "album": {
+        "name": "\u96f6\u8ddd\u96e2",
+        "url": "https://open.spotify.com/album/3OTDp64MLrt8TKvHxKkYzf"
+      },
+      "artists": [
+        {
+          "name": "\u4e94\u5805\u60c5WOLF(S) (\u90b1\u92d2\u6fa4\u3001\u9673\u96f6\u4e5d\u3001\u9ec3\u5049\u6649\u3001\u8cf4\u664f\u99d2\u3001\u5a41\u5cfb\u78a9)",
+          "url": "https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232245,
+      "name": "\u96f6\u8ddd\u96e2",
+      "url": "https://open.spotify.com/track/6h1RP9yK4p8xAw1Mdjyj4I"
     },
     {
       "album": {

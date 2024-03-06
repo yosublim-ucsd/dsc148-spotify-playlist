@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Cher
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,353 likes - 192 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,330 likes - 192 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 10 | [The Power Of Love](https://open.spotify.com/track/5Z8PWgh9mTVPIK9z5O2RH4) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [The Power Of Love](https://open.spotify.com/album/32sqP6msIZDPsKDubtQcWW) | 3:30 |
 | 11 | [Wrap Me Up](https://open.spotify.com/track/1tGlu4k3SPA1kHVSpDSo3u) | [Jimmy Fallon](https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Wrap Me Up](https://open.spotify.com/album/0M6OuM3H038lJkpl5EMzik) | 2:28 |
 | 12 | [Deck The Halls](https://open.spotify.com/track/29Pf9AzgYQnVPKyz5bU6K3) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Deck The Halls](https://open.spotify.com/album/6roKUT3Py5CqOa47NH5nOH) | 2:04 |
-| 13 | [Fairytale Of Philadelphia](https://open.spotify.com/track/6fEuaRBpM0Q34TmiBahgSJ) | [The Philly Specials](https://open.spotify.com/artist/4JPJvxDtfBlQAiNm8dd7vX), [Jason Kelce](https://open.spotify.com/artist/11RtainpIFozRURWgPJxFL), [Travis Kelce](https://open.spotify.com/artist/3dPspueAfd9ghLDZ9RzMqf) | [Fairytale Of Philadelphia](https://open.spotify.com/album/1AvjR1mAo7V0pNVvPLxqhb) | 4:46 |
+| 13 | [Fairytale Of Philadelphia](https://open.spotify.com/track/6fEuaRBpM0Q34TmiBahgSJ) | [Jason Kelce](https://open.spotify.com/artist/11RtainpIFozRURWgPJxFL), [The Philly Specials](https://open.spotify.com/artist/4JPJvxDtfBlQAiNm8dd7vX), [Travis Kelce](https://open.spotify.com/artist/3dPspueAfd9ghLDZ9RzMqf) | [Fairytale Of Philadelphia](https://open.spotify.com/album/1AvjR1mAo7V0pNVvPLxqhb) | 4:46 |
 | 14 | [Please Come Home For Christmas](https://open.spotify.com/track/6aE8AlwAqqvnhlthMLrSj3) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Koe Wetzel Presents...Wetzel's Wonderland](https://open.spotify.com/album/6Eaa6S7K1DUq4dRa0fvNga) | 2:52 |
 | 15 | [Hallelujah \- Christmas Version](https://open.spotify.com/track/7CVYW9e440Ffa8kyu6cC3Q) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Hallelujah \(Christmas Version\)](https://open.spotify.com/album/620sEzmHRuOfXiY2HhRZyN) | 2:53 |
 | 16 | [Jingle Bell Rock](https://open.spotify.com/track/0ijCESscFXtRc0dtDgu1Uv) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Jingle Bell Rock](https://open.spotify.com/album/7dSaBwUid0hjWdJ5QzIKyu) | 2:10 |
@@ -201,4 +201,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 191 | [Please Come Home for Christmas](https://open.spotify.com/track/3GZwaCUpDIOtZxZF7AbQLz) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Please Come Home for Christmas](https://open.spotify.com/album/6vRbT0SJ0jkIj66OT4yrs8) | 2:45 |
 | 192 | [At Least I Have Santa](https://open.spotify.com/track/78InQyI314pCq9GVTrUBib) | [Jackie Evancho](https://open.spotify.com/artist/7FukyKMUPL10mDN9LgAngI) | [At Least I Have Santa](https://open.spotify.com/album/6cpaLiEmVaQrpPUPiAePDF) | 3:24 |
 
-Snapshot ID: `MCwxMmU2M2EzZTFkODBkZjg2OGM4NWVlNTUyMzY0NTg1MmQ3YjZjYmRi`
+Snapshot ID: `MCxiMDkwYmI1N2MxYjY2MTFiNGQ1NDRjYWUxYTFhOTZiYzkwYTlkMjYx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGlTStsnvnj.md) - [plain]
 
 > Tembang Jowo lawas pancen saget nrenyuhake ati
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,610 likes - 33 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,643 likes - 33 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGlTStsnvnj.md) - [plain]
 | 10 | [Di Bawah Sinar Bulan Purnama](https://open.spotify.com/track/3VaEcF8qbzZVlTBMg22nJ1) | [Sundari Soekotjo](https://open.spotify.com/artist/1IuDMRAhrGICHG8k5vxAOd) | [20 Lagu\-Lagu Keroncong Mus Mulyadi & Sundari Sukotjo](https://open.spotify.com/album/3K6MNZIM3hOYuBIgIqA84D) | 4:04 |
 | 11 | [Sri Wis Bali](https://open.spotify.com/track/1PC3bOb6wFFBbh2rV22Z2H) | [Sonny Josz](https://open.spotify.com/artist/5yapZ4C6jBYI1hpkzrDp3A) | [Campursari Campur Goyang](https://open.spotify.com/album/5q8cx91MlrVeyq8M7hoInp) | 5:12 |
 | 12 | [Gudeg Yogya \(feat\. Lilis Diana\)](https://open.spotify.com/track/2SgDeaOv1QZQXyPu2n7sPL) | [Manthous](https://open.spotify.com/artist/6Jydsfdvw8nO0NJDL8Mycn), [Lilis Diana](https://open.spotify.com/artist/4sSTofPgVFn2NKi9rMT0wX) | [Tembang Jawa Kenangan](https://open.spotify.com/album/263b3G7UzygOZFCufxjeLj) | 4:30 |
-| 13 | [Yen Ing Tawang Ana Lintang](https://open.spotify.com/track/5xb4N5tuOUiMUKBpXjz24L) | [Waldjinah](https://open.spotify.com/artist/5YT20xTlcZCBOKpJ0qaceh) | [Album Emas Pop Jawa WALDJINAH Vol\. 1](https://open.spotify.com/album/3f8EroNL1dc01rF1bcenF9) | 5:02 |
+| 13 | [Yen Ing Tawang Ana Lintang](https://open.spotify.com/track/2bUNxmVxYx3jQabY7auzGn) | [Waldjinah](https://open.spotify.com/artist/5YT20xTlcZCBOKpJ0qaceh) | [Album Emas Pop Jawa Waldjinah, Vol\. 1](https://open.spotify.com/album/6TxMzEMJFb9kh6ma3LU20h) | 5:02 |
 | 14 | [Lingsir Wengi](https://open.spotify.com/track/2UEsnTotIckTJogkzyxzs6) | [Aniek Sunyahni](https://open.spotify.com/artist/5sc7I3orxiNDHXrwRxq6g6) | [Emas Legendaris Ratu Campursari Aniek Sunyahni, Vol\. 4](https://open.spotify.com/album/3jTmE4Rua2H5kPYD7P5WHa) | 5:00 |
 | 15 | [Lgm\. Rangkaian Melati](https://open.spotify.com/track/6MOYiLhv1H67v7UWdfZb6x) | [Tuti Maryati](https://open.spotify.com/artist/62DEg5GSzqVFYqYGccks4q) | [3 Ratu Keroncong](https://open.spotify.com/album/6JhOJJzBNX2wkgYnsLDrlL) | 4:11 |
 | 16 | [Kr\. Idaman Hati](https://open.spotify.com/track/0UXEGBqp5CmoLBekkF597g) | [Sri Widadi](https://open.spotify.com/artist/4j0a81xxwodxUdWZ3K1Hiz) | [Album Emas Keroncong: Sri Widadi](https://open.spotify.com/album/74TgG3PAC7ezyGRWlO0N6p) | 3:09 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGlTStsnvnj.md) - [plain]
 | 32 | [Nginang Karo Ngilo](https://open.spotify.com/track/3dj56ZRUvBO0z7YQ61vu6C) | [Lasmini](https://open.spotify.com/artist/3UMbszVhnTMIXvhTWrowUt) | [Campursari Gunung Kidul, Vol\. 1](https://open.spotify.com/album/0IHCBWDz3tEdf22JkMTsWg) | 5:00 |
 | 33 | [Kuncung](https://open.spotify.com/track/4fjYW9wSFa9K2C7oqw2VxK) | [Didi Kempot](https://open.spotify.com/artist/5LmRNHfiQfvy9zO8U9Q4mp) | [Keroncong Jawa Sepanjang Masa II](https://open.spotify.com/album/02YmAo3rmEw5zgNgdAn81K) | 4:15 |
 
-Snapshot ID: `MCxmNGIwMjk0MmI5MmE3NzVlYjYyMzYxMWYzMzc1MzJkNzJiOWQ3NDRl`
+Snapshot ID: `MCxlOTNmNWY1NTcxOTM4OTNiNzczYjY0OTFhNmFmYWUzNzkwNjY0ZjIx`

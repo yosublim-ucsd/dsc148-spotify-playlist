@@ -1,5 +1,5 @@
 {
-  "2024-03-05": 199555,
+  "2024-03-06": 199620,
   "date_first_scraped": "2021-12-21",
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
   "name": "Nordic Folk",
@@ -2180,6 +2180,24 @@
     },
     {
       "album": {
+        "name": "Innocent",
+        "url": "https://open.spotify.com/album/42JWTAWXnwJx0Qmdcvpy6u"
+      },
+      "artists": [
+        {
+          "name": "Pl\u00e0si",
+          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156197,
+      "name": "Innocent",
+      "url": "https://open.spotify.com/track/0PSSz0R58WstAQk7Ui0GUs"
+    },
+    {
+      "album": {
         "name": "June",
         "url": "https://open.spotify.com/album/4nNRxS6sgZOa7o96KfyIRM"
       },
@@ -3053,7 +3071,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 241785,
       "name": "Rolling Thunder",
       "url": "https://open.spotify.com/track/4h6unbwOKDPWeSizNav2nd"
@@ -3179,7 +3197,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 317053,
       "name": "Sj\u00e5aren",
       "url": "https://open.spotify.com/track/3zsLCHX1W9eyxCGvdtGnRQ"
@@ -4459,6 +4477,24 @@
       "duration_ms": 241933,
       "name": "Wild Dreams",
       "url": "https://open.spotify.com/track/63aqcGJGsqwa0e1jFazRcy"
+    },
+    {
+      "album": {
+        "name": "Wild Geese, Wild Love / Day 2000 Awake",
+        "url": "https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB"
+      },
+      "artists": [
+        {
+          "name": "Amanda Bergman",
+          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323386,
+      "name": "Wild Geese, Wild Love",
+      "url": "https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR"
     },
     {
       "album": {

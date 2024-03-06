@@ -1,5 +1,5 @@
 {
-  "2024-03-05": 20977,
+  "2024-03-06": 20984,
   "date_first_scraped": "2023-09-29",
   "description": "Aidez votre b\u00e9b\u00e9 \u00e0 s'endormir avec ces classiques Disney en version berceuse.",
   "name": "Berceuses Disney",
@@ -83,6 +83,28 @@
       "duration_ms": 243826,
       "name": "A Whole New World",
       "url": "https://open.spotify.com/track/4BchPWoixASi7GfFompkIJ"
+    },
+    {
+      "album": {
+        "name": "Wish (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/17sSfXuykvQcFrW4QpxuF0"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        },
+        {
+          "name": "Benjamin Rice",
+          "url": "https://open.spotify.com/artist/4aXYXCnJR6Aweo8GnWoSTD"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173306,
+      "name": "A Wish Worth Making - Instrumental",
+      "url": "https://open.spotify.com/track/5dDiJ7cbWbIBlRBMqqRJsS"
     },
     {
       "album": {
@@ -879,6 +901,24 @@
       "duration_ms": 197520,
       "name": "Lavender Blue (Dilly Dilly) - Instrumental",
       "url": "https://open.spotify.com/track/7JRHI0vNElkfVjPxhfNnb6"
+    },
+    {
+      "album": {
+        "name": "Wish: Asha et la bonne \u00e9toile (Bande Originale Fran\u00e7aise du Film)",
+        "url": "https://open.spotify.com/album/1LhuHxg33x4ZnyIpF702GQ"
+      },
+      "artists": [
+        {
+          "name": "Oc\u00e9ane Demontis",
+          "url": "https://open.spotify.com/artist/5hq8TtVzFt7DOL4j5zWrHs"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172835,
+      "name": "Le v\u0153u parfait",
+      "url": "https://open.spotify.com/track/6KE9FwyaFVmNhPFMotqiP0"
     },
     {
       "album": {

@@ -373,6 +373,24 @@
     },
     {
       "album": {
+        "name": "Hot Summer Party Mix",
+        "url": "https://open.spotify.com/album/3QOQli73d2qHfw8Y5aS76R"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223813,
+      "name": "Everybody (Backstreet's Back) - Radio Edit",
+      "url": "https://open.spotify.com/track/7Jg65cOkLoiT7Q4vQqUvIG"
+    },
+    {
+      "album": {
         "name": "This Is The End: Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3"
       },
@@ -860,7 +878,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 263093,
       "name": "Joyride",
       "url": "https://open.spotify.com/track/1ILbD4eWKWvg8ub5qJyBTP"

@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover :Rahul Dit-O",
-  "num_followers": 23165,
+  "num_followers": 23167,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OGUxMzJkNjU0MzhhMjhjZDUwY2NkZjdiMzAzNTg5MGVlY2VmMTQy",
+  "snapshot_id": "MCw0MDA3MDQ1MjAyNTg4NDEwZmYzNjlhNDczYWM4MTljNjMzYmIzYWQ3",
   "tracks": [
     {
       "added_at": "2024-02-01 11:11:53",
@@ -155,6 +155,30 @@
       "duration_ms": 166941,
       "name": "Manasare",
       "url": "https://open.spotify.com/track/60aAnSSyv8rhIrWcKN8koO"
+    },
+    {
+      "added_at": "2024-03-05 09:08:25",
+      "album": {
+        "name": "Ninnindha shuru",
+        "url": "https://open.spotify.com/album/004SIcTnIEekzQ4rozlWtD"
+      },
+      "artists": [
+        {
+          "name": "Sathya Radhakrishna",
+          "url": "https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N"
+        },
+        {
+          "name": "Surabhi Bharadwaj",
+          "url": "https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr"
+        },
+        {
+          "name": "Siddu R Wadeyar",
+          "url": "https://open.spotify.com/artist/4vtqdT9JcejRLMiju5YTBu"
+        }
+      ],
+      "duration_ms": 257387,
+      "name": "Ninnindha shuru",
+      "url": "https://open.spotify.com/track/6gTFqOudf70o2LhdhtesT2"
     },
     {
       "added_at": "2024-03-04 11:29:51",
@@ -1399,26 +1423,6 @@
       "duration_ms": 270043,
       "name": "Bucket",
       "url": "https://open.spotify.com/track/31VSLnPSt72KHWns93bvzX"
-    },
-    {
-      "added_at": "2023-07-27 11:09:55",
-      "album": {
-        "name": "Chikkavanu",
-        "url": "https://open.spotify.com/album/1k2G5Lz3hUVhCXSlcHKmsh"
-      },
-      "artists": [
-        {
-          "name": "Paluz45",
-          "url": "https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04"
-        },
-        {
-          "name": "Manu Rao",
-          "url": "https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ"
-        }
-      ],
-      "duration_ms": 70640,
-      "name": "Chikkavanu",
-      "url": "https://open.spotify.com/track/1D2LX2HV7AsxiGbecZPSm0"
     },
     {
       "added_at": "2024-02-19 05:32:58",

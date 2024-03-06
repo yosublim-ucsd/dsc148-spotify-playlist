@@ -1,5 +1,5 @@
 {
-  "2024-03-05": 54634,
+  "2024-03-06": 54664,
   "date_first_scraped": "2022-05-13",
   "description": "The best dance and electronic songs in the MENA region. Cover: Zerb, Sofiya Nzau",
   "name": "mint \u0646\u0639\u0646\u0639",
@@ -2018,6 +2018,24 @@
     },
     {
       "album": {
+        "name": "Khalouni Neich",
+        "url": "https://open.spotify.com/album/6zdnyNbfeUTqOxPXjk2C1K"
+      },
+      "artists": [
+        {
+          "name": "Yusuf Ek\u015fio\u011flu",
+          "url": "https://open.spotify.com/artist/4vmQIVTg6D7bAQw0BR5SMv"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192005,
+      "name": "Khalouni Neich",
+      "url": "https://open.spotify.com/track/5uFOWK3FXZvTIly8mJ8dD1"
+    },
+    {
+      "album": {
         "name": "Khidni Habibi",
         "url": "https://open.spotify.com/album/5MSHUA4LGMP1vzGUUjfT22"
       },
@@ -2271,7 +2289,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 344000,
       "name": "Les Gout",
       "url": "https://open.spotify.com/track/0ko0sZ5hNieT3LRq2lOGl3"

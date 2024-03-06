@@ -1,12 +1,12 @@
 {
   "description": "Love whoever you want to love. ",
-  "num_followers": 85626,
+  "num_followers": 85938,
   "original_name": "Queer Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Yzc3MmFkM2ZlMzJkYjA4ZTA1YmJhYmQ3ZjY2YjRhNDk2NWNiNGEx",
+  "snapshot_id": "MCwwM2RhMjNkODU0ZjFmMTU2MGVlNTk3MjI4Y2Q4OTkwNTJhMDg5YWY0",
   "tracks": [
     {
       "added_at": "2024-02-08 23:31:20",
@@ -203,6 +203,22 @@
     {
       "added_at": "2024-02-08 23:31:20",
       "album": {
+        "name": "Butch 4 Butch",
+        "url": "https://open.spotify.com/album/7EXNvLGDalgJOgB5JFX4Wc"
+      },
+      "artists": [
+        {
+          "name": "Rio Romeo",
+          "url": "https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub"
+        }
+      ],
+      "duration_ms": 178318,
+      "name": "Butch 4 Butch",
+      "url": "https://open.spotify.com/track/7i5ymzlXUivT6GNVpdfFuR"
+    },
+    {
+      "added_at": "2024-02-08 23:31:20",
+      "album": {
         "name": "MUNA",
         "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 206586,
       "name": "Silk Chiffon",
       "url": "https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f"
-    },
-    {
-      "added_at": "2024-02-08 23:31:20",
-      "album": {
-        "name": "Butch 4 Butch",
-        "url": "https://open.spotify.com/album/7EXNvLGDalgJOgB5JFX4Wc"
-      },
-      "artists": [
-        {
-          "name": "Rio Romeo",
-          "url": "https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub"
-        }
-      ],
-      "duration_ms": 178318,
-      "name": "Butch 4 Butch",
-      "url": "https://open.spotify.com/track/7i5ymzlXUivT6GNVpdfFuR"
     },
     {
       "added_at": "2024-02-08 23:31:20",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-02-08 23:31:20",
       "album": {
-        "name": "she knows it",
-        "url": "https://open.spotify.com/album/3gK9p6wdFwQHlEwBoYxhSD"
-      },
-      "artists": [
-        {
-          "name": "Maggie Lindemann",
-          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
-        }
-      ],
-      "duration_ms": 156584,
-      "name": "she knows it",
-      "url": "https://open.spotify.com/track/5EjlKmbefO401Kra4OoN83"
-    },
-    {
-      "added_at": "2024-02-08 23:31:20",
-      "album": {
         "name": "Home Video",
         "url": "https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 464431,
       "name": "Triple Dog Dare",
       "url": "https://open.spotify.com/track/4syD7nYfrd11IFUZ9q4UvM"
+    },
+    {
+      "added_at": "2024-02-08 23:31:20",
+      "album": {
+        "name": "Sideline Star",
+        "url": "https://open.spotify.com/album/50XzEQE4WzsW2XH1UWIsBD"
+      },
+      "artists": [
+        {
+          "name": "Claud",
+          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
+        }
+      ],
+      "duration_ms": 191306,
+      "name": "Wish You Were Gay",
+      "url": "https://open.spotify.com/track/1UOgQpv8Ofd3OtlmpCjmTM"
     },
     {
       "added_at": "2024-02-08 23:31:20",
@@ -815,18 +815,18 @@
     {
       "added_at": "2024-02-08 23:31:20",
       "album": {
-        "name": "Sideline Star",
-        "url": "https://open.spotify.com/album/50XzEQE4WzsW2XH1UWIsBD"
+        "name": "Who Am I?",
+        "url": "https://open.spotify.com/album/5FLKDb9bvbMu0yTahZtgHO"
       },
       "artists": [
         {
-          "name": "Claud",
-          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
         }
       ],
-      "duration_ms": 191306,
-      "name": "Wish You Were Gay",
-      "url": "https://open.spotify.com/track/1UOgQpv8Ofd3OtlmpCjmTM"
+      "duration_ms": 189586,
+      "name": "She's My Religion",
+      "url": "https://open.spotify.com/track/0LwJllN73QYBHEBdGUTyEp"
     }
   ],
   "unique_name": "Queer Love",

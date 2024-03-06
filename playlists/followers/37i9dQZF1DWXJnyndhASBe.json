@@ -1,5 +1,5 @@
 {
-  "2024-03-05": 500037,
+  "2024-03-06": 500268,
   "date_first_scraped": "2023-09-23",
   "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Gibbs, Opa\u0142",
   "name": "RAP GENERACJA",
@@ -879,7 +879,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 170026,
       "name": "CEO",
       "url": "https://open.spotify.com/track/4ltVdPcmgfSlsicK4ZIQGT"
@@ -1233,6 +1233,28 @@
       "duration_ms": 179256,
       "name": "CZAS CI\u0118 GONI",
       "url": "https://open.spotify.com/track/0Cy7JUkNoTvArY03EEVfPA"
+    },
+    {
+      "album": {
+        "name": "Daj mi pow\u00f3d",
+        "url": "https://open.spotify.com/album/0iNJiuZHh2GWp1Cmvzc1U8"
+      },
+      "artists": [
+        {
+          "name": "Sarius",
+          "url": "https://open.spotify.com/artist/3sW41aChSc5bBow0Folc1S"
+        },
+        {
+          "name": "Kuba Hejz",
+          "url": "https://open.spotify.com/artist/54FDfzo1I8n6TBqm9dkBWl"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230401,
+      "name": "Daj mi pow\u00f3d",
+      "url": "https://open.spotify.com/track/3AvpVQO3xcRp0QDl5sfdNg"
     },
     {
       "album": {
@@ -1909,7 +1931,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 222000,
       "name": "happy birthday",
       "url": "https://open.spotify.com/track/6y2w3XdiB132gDsJqVTqX7"
@@ -5129,6 +5151,36 @@
       "duration_ms": 205925,
       "name": "WWA NA KXKSIE",
       "url": "https://open.spotify.com/track/0oyR4Ql18Y1GNwS3arouvb"
+    },
+    {
+      "album": {
+        "name": "WZROK NA BUCIKI",
+        "url": "https://open.spotify.com/album/20iQxelNxZujUxM8Oq132w"
+      },
+      "artists": [
+        {
+          "name": "Ma\u0142ach",
+          "url": "https://open.spotify.com/artist/1s4U0KH826DemEVZgc4Iuu"
+        },
+        {
+          "name": "Rufuz",
+          "url": "https://open.spotify.com/artist/0rYYnTxFACR9nj0pwBpD9n"
+        },
+        {
+          "name": "Kukon",
+          "url": "https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD"
+        },
+        {
+          "name": "Ma\u0142ach/Rufuz",
+          "url": "https://open.spotify.com/artist/78Rgi3QpIvPGecr69F0D64"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230666,
+      "name": "WZROK NA BUCIKI",
+      "url": "https://open.spotify.com/track/5Hi0wWHKJ1vB9Io3Lj8bHX"
     },
     {
       "album": {

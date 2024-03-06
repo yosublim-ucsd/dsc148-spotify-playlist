@@ -33075,6 +33075,24 @@
     },
     {
       "album": {
+        "name": "Scorpio Man",
+        "url": "https://open.spotify.com/album/6um8KNovu7dOiNhMYnQhCw"
+      },
+      "artists": [
+        {
+          "name": "Ernie Hawks",
+          "url": "https://open.spotify.com/artist/1lr6B4Xz14xooHsWrAmfDa"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238749,
+      "name": "Scorpio Man Theme",
+      "url": "https://open.spotify.com/track/2IvoHnQe0C9d0bXdbyKKbc"
+    },
+    {
+      "album": {
         "name": "Scorpio Man Theme",
         "url": "https://open.spotify.com/album/3FJv0fryDNDBF4jBO3Os48"
       },
@@ -33090,7 +33108,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 240299,
       "name": "Scorpio Man Theme",
       "url": "https://open.spotify.com/track/2reRESF3aTvOn50f96F5Pq"

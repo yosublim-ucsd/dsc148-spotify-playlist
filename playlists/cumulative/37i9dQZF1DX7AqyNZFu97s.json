@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists in the UK & Ireland. Cover: LANDEL. Artwork: Isu Kim",
+  "description": "The best new music by independent artists in the UK & Ireland. Cover: vi0let. Artwork: Isu Kim",
   "name": "Fresh Finds UK & IE",
   "tracks": [
     {
@@ -712,7 +712,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 101200,
       "name": "a dream like that",
       "url": "https://open.spotify.com/track/7CXkR6SjtTDLTPwBXDUTo6"
@@ -1011,6 +1011,24 @@
     },
     {
       "album": {
+        "name": "All Black Everything",
+        "url": "https://open.spotify.com/album/1mEy3yttQpCAuNwdMc1Qng"
+      },
+      "artists": [
+        {
+          "name": "Amy Gadiaga",
+          "url": "https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306714,
+      "name": "All Black Everything",
+      "url": "https://open.spotify.com/track/2qZpjV0ABiaoMBhjslXXkf"
+    },
+    {
+      "album": {
         "name": "All For Nothing",
         "url": "https://open.spotify.com/album/0P8VdICsR9YN4RGNMvUrm7"
       },
@@ -1062,6 +1080,24 @@
       "duration_ms": 262153,
       "name": "All I Know (Is That)",
       "url": "https://open.spotify.com/track/6vMrZzBi6PFR5hDVR0ksrz"
+    },
+    {
+      "album": {
+        "name": "All I See",
+        "url": "https://open.spotify.com/album/78gwxtGiRiTA9OHJKm53av"
+      },
+      "artists": [
+        {
+          "name": "Luke Targett",
+          "url": "https://open.spotify.com/artist/4oQMjJ0E5RnF670Yx2PERx"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138243,
+      "name": "All I See",
+      "url": "https://open.spotify.com/track/3Fp0iuKCGpi6sp4vRXXeGz"
     },
     {
       "album": {
@@ -5260,7 +5296,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 260053,
       "name": "Colours",
       "url": "https://open.spotify.com/track/2V9Kql3sFzGih0tvOULLdd"
@@ -7494,6 +7530,24 @@
       "duration_ms": 167333,
       "name": "Don't You Worry",
       "url": "https://open.spotify.com/track/5LhYtacBc5On1HjvEW3aMj"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Be Too Hard On Yourself",
+        "url": "https://open.spotify.com/album/5kcOf9aTuUpcLg84QxKW0S"
+      },
+      "artists": [
+        {
+          "name": "Bea Stewart",
+          "url": "https://open.spotify.com/artist/1HjCjNkTNeBFF3aqqf6kli"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155098,
+      "name": "Don\u2019t Be Too Hard On Yourself",
+      "url": "https://open.spotify.com/track/5qDsdYVXXuClew4X9sTTbC"
     },
     {
       "album": {
@@ -11075,6 +11129,24 @@
     },
     {
       "album": {
+        "name": "GROVEL",
+        "url": "https://open.spotify.com/album/0m38GPW6y0DkKqE6vXrGPc"
+      },
+      "artists": [
+        {
+          "name": "April Jai",
+          "url": "https://open.spotify.com/artist/2TUSOcgYseNtC3VosDywhQ"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191350,
+      "name": "GROVEL",
+      "url": "https://open.spotify.com/track/27aNGKZlSWVvO3yOZD18S3"
+    },
+    {
+      "album": {
         "name": "grow grow grow",
         "url": "https://open.spotify.com/album/71Qnj614lRyWaIVwLIo1RM"
       },
@@ -11198,7 +11270,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 216381,
       "name": "Guilt Complex",
       "url": "https://open.spotify.com/track/0G04SVNBpsrKnXUXuNg9st"
@@ -11346,6 +11418,24 @@
       "duration_ms": 216807,
       "name": "hana",
       "url": "https://open.spotify.com/track/5YLviATJ2VdwBrVtal5Z4t"
+    },
+    {
+      "album": {
+        "name": "handicapped",
+        "url": "https://open.spotify.com/album/3tkVia3AhpAr6kUhaNyxlo"
+      },
+      "artists": [
+        {
+          "name": "7aat7aat",
+          "url": "https://open.spotify.com/artist/2U2WtW7GoAShgW5o2xF0b0"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98571,
+      "name": "handicapped",
+      "url": "https://open.spotify.com/track/6RvumhSg9ycMYWQq3Kp2tW"
     },
     {
       "album": {
@@ -12006,7 +12096,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 225000,
       "name": "his version.",
       "url": "https://open.spotify.com/track/0fM8xN993MUQLa0LxxHs50"
@@ -12168,7 +12258,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 211730,
       "name": "Home",
       "url": "https://open.spotify.com/track/1PbOrUCJ0BbMYqraRg91hz"
@@ -12853,6 +12943,24 @@
     },
     {
       "album": {
+        "name": "I Hope You Die",
+        "url": "https://open.spotify.com/album/0MyX7RV6lXjFVtSPyHfwT0"
+      },
+      "artists": [
+        {
+          "name": "TTSSFU",
+          "url": "https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "I Hope You Die",
+      "url": "https://open.spotify.com/track/49SsfbaiCWvS6695BAuj9B"
+    },
+    {
+      "album": {
         "name": "I Just Wana Love You",
         "url": "https://open.spotify.com/album/4L7Y16bYU8qBFKvRixf0Ox"
       },
@@ -13010,7 +13118,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 208250,
       "name": "I Might",
       "url": "https://open.spotify.com/track/0vUMCgfgcoblVHcz1Qopt9"
@@ -17989,6 +18097,24 @@
     },
     {
       "album": {
+        "name": "Misleading Is The Medicine",
+        "url": "https://open.spotify.com/album/5lXphmhOh93khIhCqBwyQd"
+      },
+      "artists": [
+        {
+          "name": "Adannay",
+          "url": "https://open.spotify.com/artist/0rwJ2aSbMtaMaPVW8157tT"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198331,
+      "name": "Misleading Is The Medicine",
+      "url": "https://open.spotify.com/track/4w3744pGd3RwG7jl8sRoVB"
+    },
+    {
+      "album": {
         "name": "Mistaken",
         "url": "https://open.spotify.com/album/76f4UgFe6cwNRTzO1rqyK7"
       },
@@ -20733,6 +20859,28 @@
     },
     {
       "album": {
+        "name": "Belly Of Tha East",
+        "url": "https://open.spotify.com/album/19ELeaZKwnibpUYFmPcfAQ"
+      },
+      "artists": [
+        {
+          "name": "Brudda Nay",
+          "url": "https://open.spotify.com/artist/3NMrMxQ07cD29ZJfgwolzV"
+        },
+        {
+          "name": "KarimThaPeasant",
+          "url": "https://open.spotify.com/artist/1tDOv0KCi6XAF3aXsn559F"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168175,
+      "name": "Pack Your Bags",
+      "url": "https://open.spotify.com/track/0c1plqx8udMTiOItvVSrdl"
+    },
+    {
+      "album": {
         "name": "Pamela",
         "url": "https://open.spotify.com/album/7fdWpqb6dg0gX0Ga7Do0Kz"
       },
@@ -21783,6 +21931,28 @@
     },
     {
       "album": {
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/69afTFPXIIe8rm5zZpnncV"
+      },
+      "artists": [
+        {
+          "name": "Kwoli Black",
+          "url": "https://open.spotify.com/artist/4munQWPVKYZ9uQHepLM1qn"
+        },
+        {
+          "name": "Karl Benjamin",
+          "url": "https://open.spotify.com/artist/1w7NVtwrAk4p50JGIhE9cs"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187098,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/6my1HisPullrOtoEUWp68S"
+    },
+    {
+      "album": {
         "name": "pretty boy",
         "url": "https://open.spotify.com/album/7M5DbPC6BGgXOFyozz9zIp"
       },
@@ -21954,6 +22124,24 @@
       "duration_ms": 193394,
       "name": "PSYCHE_extended_ft_snowy_prod.pholo",
       "url": "https://open.spotify.com/track/5KSKPRRBmpjh383AYBCsiw"
+    },
+    {
+      "album": {
+        "name": "PULL UP",
+        "url": "https://open.spotify.com/album/4DEwPUmKOzugJOKqPDQcCV"
+      },
+      "artists": [
+        {
+          "name": "Amethyst Girlz",
+          "url": "https://open.spotify.com/artist/2msQsbh7IP17i78NgEG59V"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "PULL UP",
+      "url": "https://open.spotify.com/track/6vwY6ev6e0OLMbRyMlFYLK"
     },
     {
       "album": {
@@ -24199,6 +24387,24 @@
     },
     {
       "album": {
+        "name": "Should've Gone Naij",
+        "url": "https://open.spotify.com/album/14YK8jvNXIMzNnBkje84JU"
+      },
+      "artists": [
+        {
+          "name": "Damzz",
+          "url": "https://open.spotify.com/artist/0gIUtcSvpmZsNEGo3rusf4"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Should've Gone Naij",
+      "url": "https://open.spotify.com/track/6L1leksDiTuCqoYMWXaaU4"
+    },
+    {
+      "album": {
         "name": "Shrink",
         "url": "https://open.spotify.com/album/5MdLW31kE3CvXDTc7kg980"
       },
@@ -24592,6 +24798,24 @@
       "duration_ms": 187689,
       "name": "Sleep Forever",
       "url": "https://open.spotify.com/track/4BKHayZJtmyfm0NP8erXiC"
+    },
+    {
+      "album": {
+        "name": "Sleep On It",
+        "url": "https://open.spotify.com/album/2nUw21YonvLAkoH9ZKkFkW"
+      },
+      "artists": [
+        {
+          "name": "Pippa Crossland",
+          "url": "https://open.spotify.com/artist/1swXaEPVO4MZAaJ3gh738N"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196856,
+      "name": "Sleep On It",
+      "url": "https://open.spotify.com/track/0pIhXrs1gIJjY49Enh6Fly"
     },
     {
       "album": {
@@ -25510,6 +25734,24 @@
       "duration_ms": 186551,
       "name": "Stop Thinking About It",
       "url": "https://open.spotify.com/track/6Pmg5MkcA6xc4tuUKGLgB6"
+    },
+    {
+      "album": {
+        "name": "straight out the oven !",
+        "url": "https://open.spotify.com/album/1xMSlBl1FaPiCJIZ8ppofk"
+      },
+      "artists": [
+        {
+          "name": "SPIDER",
+          "url": "https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184111,
+      "name": "straight out the oven !",
+      "url": "https://open.spotify.com/track/4RNFQj2OhHlaeQK6S3hKac"
     },
     {
       "album": {
@@ -26942,6 +27184,24 @@
       "duration_ms": 120816,
       "name": "The Game",
       "url": "https://open.spotify.com/track/22EmBpISvWpGARG7qwrTYB"
+    },
+    {
+      "album": {
+        "name": "The Gate",
+        "url": "https://open.spotify.com/album/668S0urcn4vGgRdbKAhkFv"
+      },
+      "artists": [
+        {
+          "name": "Chalk",
+          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176303,
+      "name": "The Gate",
+      "url": "https://open.spotify.com/track/38tAqCiAvZJU1hHAF5YTyq"
     },
     {
       "album": {
@@ -28381,6 +28641,24 @@
     },
     {
       "album": {
+        "name": "Unfair",
+        "url": "https://open.spotify.com/album/0y4NuCLb8GcRV6bANgcHts"
+      },
+      "artists": [
+        {
+          "name": "Miink",
+          "url": "https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133496,
+      "name": "Unfair",
+      "url": "https://open.spotify.com/track/05a2IG0NiwQYvQC2XwGF9z"
+    },
+    {
+      "album": {
         "name": "UNFUCKWITTABLE",
         "url": "https://open.spotify.com/album/1HFijN8TZKekKEcps4JUfm"
       },
@@ -29320,6 +29598,24 @@
       "duration_ms": 227613,
       "name": "What She Wants",
       "url": "https://open.spotify.com/track/2urfbYYv9JPE0JOz32yenY"
+    },
+    {
+      "album": {
+        "name": "What Sundays Are For",
+        "url": "https://open.spotify.com/album/7qJPzAhLFJMMKCx34msYf5"
+      },
+      "artists": [
+        {
+          "name": "Tamzene",
+          "url": "https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172559,
+      "name": "What Sundays Are For",
+      "url": "https://open.spotify.com/track/3dAPf3Cs9jaoDmcCrVr6PO"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Country Music legends recorded live\. Just like being there\. Cover: Willie Nelson
 
-276 songs - 17 hr 55 min
+277 songs - 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Don't Be Stupid \(You Know I Love You\) \- Live](https://open.spotify.com/track/3emMetF2rZ9r37qulZfa1c) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Still The One: Live From Vegas](https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC) | 3:44 | 2021-07-23 |  |
 | [Don't Tell Me What to Do \- Live](https://open.spotify.com/track/59GyZY5JJ2dcdOnVKP210B) | [Pam Tillis](https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6) | [Pam Tillis \- Live in Nashville](https://open.spotify.com/album/50ZUmHBs3YcId8YHGD3HcL) | 3:34 | 2021-07-23 | 2023-11-04 |
 | [Don't the Girls All Get Prettier At Closing Time](https://open.spotify.com/track/2pravdAHuoWOk0Wc7DuZKT) | [Mickey Gilley](https://open.spotify.com/artist/5kFY4Bv5VRSBsM6CUYBoTC) | [Live in Branson](https://open.spotify.com/album/5Likd6rkwiDaf11kRwnuq0) | 3:01 | 2021-07-23 | 2022-07-29 |
+| [Don't the Girls All Get Prettier at Closing Time \(Live\)](https://open.spotify.com/track/4Mc1qXOOgqp4fA4UuyTW3t) | [Mickey Gilley](https://open.spotify.com/artist/5kFY4Bv5VRSBsM6CUYBoTC) | [Mickey Gilley](https://open.spotify.com/album/3HA9QfL9xB29dafYochezw) | 3:01 | 2023-07-24 |  |
 | [Don't the Girls All Get Prettier at Closing Time \- Live](https://open.spotify.com/track/1jWiL9aw5eUu3LGOxPRfo7) | [Mickey Gilley](https://open.spotify.com/artist/5kFY4Bv5VRSBsM6CUYBoTC) | [Mickey Gilley](https://open.spotify.com/album/3mrArYIsNdASsv8aZrDIH7) | 3:01 | 2022-07-22 | 2023-11-04 |
 | [Don't the Girls Get Prettier at Closing Time \(Live\)](https://open.spotify.com/track/2XQ8hkAWo3YalRK0v95Wfk) | [Mickey Gilley](https://open.spotify.com/artist/5kFY4Bv5VRSBsM6CUYBoTC) | [Live in Branson](https://open.spotify.com/album/4UPpoNRxQH9VmJPHZ4J3hz) | 3:01 | 2023-07-24 | 2024-01-30 |
 | [Drinkin' My Baby Goodbye](https://open.spotify.com/track/7rKGE2pcmaI7jqzdhTle5x) | [The Charlie Daniels Band](https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca) | [Live at Billy Bob's Texas](https://open.spotify.com/album/0T4kDCbygbQRDWcMd6bzni) | 3:53 | 2022-07-22 |  |
@@ -70,7 +71,7 @@
 | [Folsom Prison Blues \- Live at Folsom State Prison, Folsom, CA \- January 1968](https://open.spotify.com/track/55vr0rSNotM3KY1OB7H4zf) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Country Music \- A Film by Ken Burns \(The Soundtrack\) \[Deluxe\]](https://open.spotify.com/album/3ZAFnRYQRAiBplISQFj7nC) | 2:43 | 2021-07-23 |  |
 | [Forget About It \- Live From The Louisville Palace, Kentucky / 2002](https://open.spotify.com/track/57ttBdIRG5KtdwJOZQtd9E) | [Alison Krauss & Union Station](https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT) | [Live](https://open.spotify.com/album/1oqiAakWVX3wj3URQ1CaoO) | 3:18 | 2021-07-23 |  |
 | [Free Bird \- 1976/Live At Bill Graham's Winterland](https://open.spotify.com/track/3p1IcfYdwYjMqeY9ipRTMi) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Authorized Bootleg \- Live Winterland San Francisco, CA 3/7/76](https://open.spotify.com/album/4I8cCe8m79fbzw1CXEcgVp) | 12:47 | 2021-07-23 | 2023-10-25 |
-| [Free Bird \- Live](https://open.spotify.com/track/3BlXLhEVCZOdirf4YuS7gx) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Pronounced ‘Leh\-‘nérd ‘Skin\-‘nérd \- Live From Jacksonville At The Florida Theatre](https://open.spotify.com/album/3x13WsiY5X1Di5mVWqKGD4) | 12:12 | 2021-07-23 |  |
+| [Free Bird \- Live](https://open.spotify.com/track/3BlXLhEVCZOdirf4YuS7gx) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Pronounced ‘Leh\-‘nérd ‘Skin\-‘nérd \- Live From Jacksonville At The Florida Theatre](https://open.spotify.com/album/3x13WsiY5X1Di5mVWqKGD4) | 12:12 | 2021-07-23 | 2024-03-06 |
 | [Galveston \- Live From The Troubadour / 2008](https://open.spotify.com/track/5u3a9YnQZOxbqcld2YIMVu) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Live From The Troubadour](https://open.spotify.com/album/4zKEAKSVPzTIftRDlYbc2O) | 4:26 | 2021-07-23 |  |
 | [Gentle On My Mind \- Live At Garden State Arts Center, 1969](https://open.spotify.com/track/63UPEFQtDNhs5QDBfAPquR) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Live](https://open.spotify.com/album/17PZ8GJrcpZmjA7pbbhsov) | 3:44 | 2021-07-23 |  |
 | [Georgia on a Fast Train \- Live at the Texas Music Cafe](https://open.spotify.com/track/6zudOk9Nsjx0ulYSYJ2aXC) | [Billy Joe Shaver](https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz), [Eddy Shaver](https://open.spotify.com/artist/0wpd5zvhLzWHrpY6RWBBim) | [Georgia on a Fast Train \(Live at the Texas Music Cafe\)](https://open.spotify.com/album/0q0TclnPK1HyWRmCJOG7z2) | 4:04 | 2023-01-27 | 2023-05-14 |

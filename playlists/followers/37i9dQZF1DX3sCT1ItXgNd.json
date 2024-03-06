@@ -1,5 +1,5 @@
 {
-  "2024-03-05": 974053,
+  "2024-03-06": 974540,
   "date_first_scraped": "2023-03-20",
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Omar Montes, Abraham Mateo",
   "name": "Pop con \u00d1",
@@ -1820,6 +1820,28 @@
     },
     {
       "album": {
+        "name": "Desconocidos",
+        "url": "https://open.spotify.com/album/5EmUUyhdmQw3hc8cTTDcF0"
+      },
+      "artists": [
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        },
+        {
+          "name": "Asan",
+          "url": "https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150387,
+      "name": "Desconocidos",
+      "url": "https://open.spotify.com/track/4ENTAdTmgoZ2pID2eciubD"
+    },
+    {
+      "album": {
         "name": "Diablo",
         "url": "https://open.spotify.com/album/3r78Qu7OFZre4Otl5eVvz7"
       },
@@ -1923,6 +1945,24 @@
       "duration_ms": 143935,
       "name": "DISPARA ***",
       "url": "https://open.spotify.com/track/5y0zaOse4LHZ6ZowjpL0vW"
+    },
+    {
+      "album": {
+        "name": "Dolores De Cabeza",
+        "url": "https://open.spotify.com/album/5XWf4RyJP5QzvsYxc8410S"
+      },
+      "artists": [
+        {
+          "name": "Chema Rivas",
+          "url": "https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161632,
+      "name": "Dolores de Cabeza",
+      "url": "https://open.spotify.com/track/0nZ0LKNkoWoB4A7rheCLIU"
     },
     {
       "album": {
@@ -2946,6 +2986,24 @@
     },
     {
       "album": {
+        "name": "Gigante",
+        "url": "https://open.spotify.com/album/3ZSEujqEgBhdkqTLtH3Izs"
+      },
+      "artists": [
+        {
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164771,
+      "name": "Gigante",
+      "url": "https://open.spotify.com/track/0wGjhr72nOAN4UHTTtEEVA"
+    },
+    {
+      "album": {
         "name": "GOOD DAY (feat. Camidoh)",
         "url": "https://open.spotify.com/album/3skW3RfH9HhEhkmfLscAwk"
       },
@@ -3343,6 +3401,24 @@
       "duration_ms": 201044,
       "name": "La Fiesta",
       "url": "https://open.spotify.com/track/2q3rW2AraFNeMCpOsqKRRB"
+    },
+    {
+      "album": {
+        "name": "La Gata Bajo la Lluvia",
+        "url": "https://open.spotify.com/album/11nesNQ5Gd9bkt5iDXBidY"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222550,
+      "name": "La Gata Bajo la Lluvia",
+      "url": "https://open.spotify.com/track/14XWhFTOKNYtzQfVnXPcO1"
     },
     {
       "album": {
@@ -3887,7 +3963,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 198674,
       "name": "los chicos no lloran",
       "url": "https://open.spotify.com/track/2jD6X6gSLtynew2xj6qHRt"
@@ -4167,7 +4243,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 216424,
       "name": "Mamasota",
       "url": "https://open.spotify.com/track/2X8PYX9YX49hA0YeFnWTGZ"
@@ -4517,7 +4593,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 187683,
       "name": "MI AMOR",
       "url": "https://open.spotify.com/track/0OzPsBQnK0MLUFVat8ueSE"
@@ -5094,6 +5170,28 @@
     },
     {
       "album": {
+        "name": "No me dices na",
+        "url": "https://open.spotify.com/album/7fpbh56VMf9CRYIu4LUIil"
+      },
+      "artists": [
+        {
+          "name": "Dollar Selmouni",
+          "url": "https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb"
+        },
+        {
+          "name": "Daviles de Novelda",
+          "url": "https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "No me dices na",
+      "url": "https://open.spotify.com/track/0bpTFh7XfJ8GaDJQ5rDP24"
+    },
+    {
+      "album": {
         "name": "No me preguntes por qu\u00e9",
         "url": "https://open.spotify.com/album/3TCx6YZbU2caIAw2ETPhbu"
       },
@@ -5167,6 +5265,28 @@
       "duration_ms": 148607,
       "name": "No Quiero Ser Tu Amiga",
       "url": "https://open.spotify.com/track/02gkVUIoVgozoR1ISkAXt5"
+    },
+    {
+      "album": {
+        "name": "No s\u00e9 si t\u00fa",
+        "url": "https://open.spotify.com/album/7qSg6WHa17WN4TMO9B74Tg"
+      },
+      "artists": [
+        {
+          "name": "Xavibo",
+          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
+        },
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176460,
+      "name": "No s\u00e9 si t\u00fa",
+      "url": "https://open.spotify.com/track/7MsNwNgk8vflVpUITIJRpd"
     },
     {
       "album": {
@@ -5793,6 +5913,24 @@
       "duration_ms": 182596,
       "name": "Polaroid",
       "url": "https://open.spotify.com/track/4HJQvQKCzFuBt2e0LM6YXc"
+    },
+    {
+      "album": {
+        "name": "Polonia",
+        "url": "https://open.spotify.com/album/4h5qALHn8Hf6JdntCluoJJ"
+      },
+      "artists": [
+        {
+          "name": "Charlie USG",
+          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165267,
+      "name": "Polonia",
+      "url": "https://open.spotify.com/track/3UNrrmmtFQlDx075B8JEBp"
     },
     {
       "album": {
@@ -6527,7 +6665,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 171593,
       "name": "Si no fuera por ti",
       "url": "https://open.spotify.com/track/4tgJisrpPVo6VUpz9gLrDK"
@@ -6651,7 +6789,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 182769,
       "name": "SIN TI",
       "url": "https://open.spotify.com/track/5AcyixjIMjWfLUphthR46B"
@@ -6901,7 +7039,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-05",
       "duration_ms": 200294,
       "name": "SUPERH\u00c9ROES",
       "url": "https://open.spotify.com/track/3qMpbW78QlPZM2bEdtD1YD"

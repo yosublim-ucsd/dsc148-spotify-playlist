@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-896 songs - 1 day 10 hr 52 min
+899 songs - 1 day 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Antiquity](https://open.spotify.com/track/3wOduxGta83TqKRcZHXXD9) | [Purple Bike](https://open.spotify.com/artist/74vRXGqTgjiQGqnpFjFE2M) | [Antiquity](https://open.spotify.com/album/1EK96vQu11uj6BoZkE1dEH) | 3:17 | 2022-04-15 | 2023-07-20 |
 | [are and be](https://open.spotify.com/track/16KKyq1VNR1QFYqX9lBX1a) | [wavcrush](https://open.spotify.com/artist/0mSqso2Yuc7l3b0Aw22dXm) | [pair of dice](https://open.spotify.com/album/1BnIHuiuZhxltLIVlKXKcO) | 1:40 | 2022-05-13 |  |
 | [aroma](https://open.spotify.com/track/3xdrzUHfGrjyR9rpmXP58Q) | [GAB5](https://open.spotify.com/artist/6mmtaBpQJZSynqYsbln6Sk), [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs), [Botânica Beats](https://open.spotify.com/artist/0ZP1LicftMFei2GdXtrErQ) | [Mussambê](https://open.spotify.com/album/6qXirHwCfJP9ryVr1ejav5) | 2:15 | 2022-09-30 |  |
+| [At Ease](https://open.spotify.com/track/5UsgZGJsK5B98OmsL5ptzI) | [Mizlo](https://open.spotify.com/artist/4yfQDVxDZuhHtIKFROMjSQ) | [At Ease](https://open.spotify.com/album/3EPVotUCRpa0YRTfwsVehX) | 2:27 | 2024-03-01 |  |
 | [At Peace](https://open.spotify.com/track/6JKRbYRi8UH8zfy0oGZ8TQ) | [Fletcher Reed](https://open.spotify.com/artist/2sQKM93VxtEcafQ1f1ukgl), [Strong Maurice](https://open.spotify.com/artist/47gEMSfOuk4AEQbKhT0O3V) | [At Peace](https://open.spotify.com/album/5cIXJGnEEmxcowS9ADX5F1) | 2:31 | 2022-05-20 | 2022-06-25 |
 | [ataraxia](https://open.spotify.com/track/1M6SXJHUZCd311iSiyncIF) | [VAL](https://open.spotify.com/artist/2kd96OmUnYMBGn6dEuV9iP), [saege](https://open.spotify.com/artist/55uDvpZtzLXtM7aV7MJupC) | [ataraxia](https://open.spotify.com/album/5DETKvGvHhWO06gk3OO2EX) | 1:42 | 2022-11-25 | 2023-10-06 |
 | [Authentic](https://open.spotify.com/track/6ibi48DPWz04U2lTWp3G8o) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Soul City](https://open.spotify.com/album/0d5CHBsRYdHel2EiaFkk5p) | 1:23 | 2022-04-15 | 2022-05-27 |
@@ -120,6 +121,7 @@
 | [Chill Sunday](https://open.spotify.com/track/73iDfMEG9TA3nUa4uimF5M) | [Lotus Beats](https://open.spotify.com/artist/667RkTKDzJP6Hi3viSrkWI), [Smoodmood](https://open.spotify.com/artist/5gWiSoKQnuzN6SzukwZhei), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Chill Sunday](https://open.spotify.com/album/3VDNyeqxKu5L5HsfMrSzv0) | 1:51 | 2023-01-20 | 2023-10-06 |
 | [chillin' at cosmic flight](https://open.spotify.com/track/5fxbWUC21KPOTVDfUVuyFF) | [middt](https://open.spotify.com/artist/3u78iBx7E3vzHHhc47gdTf) | [chillin' at cosmic flight](https://open.spotify.com/album/3KVdh66EJZmY7jh41ydTNu) | 2:45 | 2022-05-13 | 2023-09-29 |
 | [Chinatown](https://open.spotify.com/track/4JFEywEZvco1yrUW4UHC36) | [Call Lane](https://open.spotify.com/artist/0AJ4Z8Q5D5OM3llGtJXnXy) | [Capone](https://open.spotify.com/album/2WIJoDYo5qEnNBhwIcY5oQ) | 3:45 | 2022-04-15 | 2022-05-14 |
+| [Chrome](https://open.spotify.com/track/69jaSWaSMN8g90yrPBBgbV) | [Mother Keem](https://open.spotify.com/artist/1URTwMVukB95vRmJwK9cWS) | [Chrome](https://open.spotify.com/album/0iMllOANJGQu2WNyZgpLIb) | 1:52 | 2024-03-01 |  |
 | [Cirrus](https://open.spotify.com/track/6ro25aEQrcKY8qo86jg8KN) | [Gemp](https://open.spotify.com/artist/7aGBJiUws3qcoRhY2lUizy) | [Cirrus](https://open.spotify.com/album/5SgQGMKFt3t6n1FdCucvji) | 2:23 | 2022-06-10 | 2022-07-08 |
 | [City Glow](https://open.spotify.com/track/08MUoQtJnUQjEfFO6Nyv5a) | [ELEWAKA](https://open.spotify.com/artist/3bT6shoIAYz5Flwmni0gnq) | [City Glow](https://open.spotify.com/album/2zZYmrXtRsIElvMmWtOA7d) | 2:55 | 2022-04-22 |  |
 | [city lights](https://open.spotify.com/track/40wyi0mBN9iJWvdYUnYbUI) | [flwrz](https://open.spotify.com/artist/1e6Ke7g6UOnYMqXt4Da9kU) | [city lights](https://open.spotify.com/album/09BvRWVWRBNQ471rGLMXeE) | 2:36 | 2022-12-09 | 2023-10-20 |
@@ -229,7 +231,7 @@
 | [Flight 99 \- Instrumental](https://open.spotify.com/track/3xYuSl14visUQp9josEqIM) | [Please Wait](https://open.spotify.com/artist/2f70Y2dW98FPfkO61AGa2E), [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [matt mcwaters](https://open.spotify.com/artist/3jUCC3z6XfyxBbGir9OcHK) | [Flight 99 \(Remixes\)](https://open.spotify.com/album/0TAKBTEX12oBQ6VmlPe0Sn) | 2:51 | 2022-11-11 | 2023-09-22 |
 | [Flip Around](https://open.spotify.com/track/2nQqrEnAZgyP3GcT7tMIdz) | [Eli Stewart](https://open.spotify.com/artist/2cyxeWKnrm59EavSUK4h7O) | [Flip Around](https://open.spotify.com/album/4LZgxPGON2n2BTm3njiVcE) | 2:37 | 2022-04-15 |  |
 | [Float](https://open.spotify.com/track/0XSq6J7KEeR5IH7GjfeDfX) | [Hey Aura](https://open.spotify.com/artist/1LkPLzQZg2M4H0XUWDaclS) | [Float](https://open.spotify.com/album/4A4ZWRt6nOvuOirw3yWqQo) | 2:10 | 2022-04-15 |  |
-| [Flora](https://open.spotify.com/track/1e1mFuvsUtb607JVgjjhQu) | [Mr\. Freed](https://open.spotify.com/artist/35LocEP0NXBVe8GwWZoe5w) | [Flora](https://open.spotify.com/album/6LhhJlBZBimAkKUrGvShMR) | 2:09 | 2022-11-11 |  |
+| [Flora](https://open.spotify.com/track/1e1mFuvsUtb607JVgjjhQu) | [Mr\. Freed](https://open.spotify.com/artist/35LocEP0NXBVe8GwWZoe5w) | [Flora](https://open.spotify.com/album/6LhhJlBZBimAkKUrGvShMR) | 2:09 | 2022-11-11 | 2024-03-06 |
 | [Flora](https://open.spotify.com/track/5c18FHzgn8ApdGcDieWoBg) | [Mr\. Freed](https://open.spotify.com/artist/35LocEP0NXBVe8GwWZoe5w) | [Flora](https://open.spotify.com/album/0MCD6c0qEzasNHgs8eYhhG) | 2:09 | 2022-09-30 | 2022-11-20 |
 | [Flow](https://open.spotify.com/track/73gpj3dHYGqY5sxEva7TWv) | [FreakBeats](https://open.spotify.com/artist/0pyekPSB9eriDdKgK71n2V) | [Flow](https://open.spotify.com/album/3ZqFAQIeRWUaK6IEt5DT2E) | 1:50 | 2024-01-12 |  |
 | [Flow State](https://open.spotify.com/track/71XyPCA7lYpu2IH6OVGlvr) | [Poof Tricks](https://open.spotify.com/artist/7bsFDdgLDm7RwRNPQhbq5q) | [Flow State](https://open.spotify.com/album/1yvMQPDOZUWcojv5pk8133) | 2:38 | 2023-11-17 |  |
@@ -496,7 +498,7 @@
 | [Newfoundland](https://open.spotify.com/track/0LfVn0YGjq376wVwJo4THd) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Newfoundland](https://open.spotify.com/album/2Qc4mA0oXvPM20LnxiYAwH) | 2:49 | 2023-09-22 |  |
 | [NI](https://open.spotify.com/track/50lsn0khM1dfoMMSUaTGPy) | [Muddy Mudd](https://open.spotify.com/artist/05oBg7V7OuHrEb1YZ7DuJS) | [NI](https://open.spotify.com/album/4ViJ12dBADvGUWNkwWy7Ym) | 2:41 | 2022-04-15 | 2024-02-28 |
 | [night bumps](https://open.spotify.com/track/0LTCfhZhU886QSKP9sduPh) | [jag glum](https://open.spotify.com/artist/1KfrvBundzNVB4zlLvuRbN) | [night bumps](https://open.spotify.com/album/6GDq8CtNkCKtStLVVFZBkr) | 2:04 | 2022-06-17 |  |
-| [Night In](https://open.spotify.com/track/3feeyGjoIIVNbzRLTSz7Wm) | [cpacesh1ps](https://open.spotify.com/artist/4BGrCgl16msxL2wmYB8LN7) | [Night In](https://open.spotify.com/album/4y5D2Bb8a4sdLU4IxWRiR7) | 2:11 | 2022-11-11 |  |
+| [Night In](https://open.spotify.com/track/3feeyGjoIIVNbzRLTSz7Wm) | [cpacesh1ps](https://open.spotify.com/artist/4BGrCgl16msxL2wmYB8LN7) | [Night In](https://open.spotify.com/album/4y5D2Bb8a4sdLU4IxWRiR7) | 2:11 | 2022-11-11 | 2024-03-06 |
 | [Night Session](https://open.spotify.com/track/1zDp1QFkvTuqX8tPoljHyM) | [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh), [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy) | [Night Session](https://open.spotify.com/album/3JzhW3MaqUrJVLKNJIR3dY) | 2:05 | 2022-05-27 | 2023-09-29 |
 | [night waves](https://open.spotify.com/track/4Ymj9hO8ocX1wkA54kZMaM) | [lowfi](https://open.spotify.com/artist/3LvyCet2eyTqt2XGXTkGxo) | [night waves](https://open.spotify.com/album/0YY5a07WEQ4kEhbsNOWiWx) | 1:34 | 2022-11-25 | 2022-12-10 |
 | [night waves](https://open.spotify.com/track/7DvDMIiYaDzzwTtM09pdp3) | [lowfi](https://open.spotify.com/artist/3LvyCet2eyTqt2XGXTkGxo) | [night waves](https://open.spotify.com/album/7MJCRCppqd1CEz04TmeoEu) | 1:34 | 2022-08-12 | 2022-12-04 |
@@ -525,7 +527,7 @@
 | [One Hundred Masters](https://open.spotify.com/track/7cYTfi0NeI7zTNbOguui8H) | [Loaderror](https://open.spotify.com/artist/3zrZn5h0Mmx9aKdzhBX1lB) | [Broken Umbrella](https://open.spotify.com/album/4OUQJxukzSxjwlceCJVG1S) | 1:50 | 2022-04-15 | 2022-06-10 |
 | [One Minute](https://open.spotify.com/track/1cav5cQVWoCppNXXbg7b5m) | [Ed Mate](https://open.spotify.com/artist/6DJfY1YYdNAMLbd1Aj9ITV) | [One Minute](https://open.spotify.com/album/1dQGXOReBiGGZAwag5ZPyW) | 1:10 | 2022-10-28 | 2023-10-06 |
 | [One more for the road](https://open.spotify.com/track/3Sp8yHw4Ss2gLNlvv5FJGz) | [Attic Dizzt](https://open.spotify.com/artist/2c2Y1CsnRekoz34yDfyaQI) | [One more for the road](https://open.spotify.com/album/55wpECO2frgXtb6JsDtrCO) | 2:29 | 2023-10-20 |  |
-| [only you](https://open.spotify.com/track/0FvxLuWx3pVjeAhqMyrKLl) | [Jorick](https://open.spotify.com/artist/0GE8ydB4Bg776B35TRKm52) | [only you](https://open.spotify.com/album/1MmSnwIwlZY9UWIiUBnobG) | 2:26 | 2022-09-30 |  |
+| [only you](https://open.spotify.com/track/0FvxLuWx3pVjeAhqMyrKLl) | [Jorick](https://open.spotify.com/artist/0GE8ydB4Bg776B35TRKm52) | [only you](https://open.spotify.com/album/1MmSnwIwlZY9UWIiUBnobG) | 2:26 | 2022-09-30 | 2024-03-06 |
 | [Opus 2](https://open.spotify.com/track/7JV0q80mvbiEUDGUFxE3J5) | [WillSum](https://open.spotify.com/artist/65yQkihuUYn5wSktWTgSVG) | [Opus 2](https://open.spotify.com/album/716LHTsujovH8m2J576NaV) | 2:00 | 2022-04-15 |  |
 | [Orange and More Orange](https://open.spotify.com/track/7zLvnQVUahgEm9TmV7dtjn) | [Apollo Brown](https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE) | [This Must Be the Place](https://open.spotify.com/album/6MqKvZpyncm6ycEpmFm1M2) | 3:12 | 2022-07-08 | 2023-09-22 |
 | [Out Of Order](https://open.spotify.com/track/5UgCKTRv3o4HrS5gOLUN4b) | [Tzeri](https://open.spotify.com/artist/52hl0yuSTaDyn0cJxxCMaK) | [Out Of Order](https://open.spotify.com/album/6IeQxgTkyOgmyo26GKWCNl) | 2:21 | 2022-04-15 |  |
@@ -605,6 +607,7 @@
 | [Rainy Season](https://open.spotify.com/track/0yMNrxuZmx3S84uW7aRv0X) | [Downtown Owl](https://open.spotify.com/artist/3jEI56iIV3YlRCHnejQU0Y) | [Rainy Season](https://open.spotify.com/album/4kz26EreeHAcr1YicHmMkY) | 2:27 | 2022-11-25 | 2023-09-22 |
 | [Ranch Water](https://open.spotify.com/track/5zvZCnozZFaVTH5FI07In3) | [Somebody's Son](https://open.spotify.com/artist/3vmZybcmAnD5q3J5h6K8Ny) | [Ranch Water](https://open.spotify.com/album/4PpFJLAs8vQWloBgi525XC) | 1:53 | 2023-04-28 |  |
 | [Raw Takes](https://open.spotify.com/track/04DVUpEzu58MzRgtDwkMbj) | [Nova Calma](https://open.spotify.com/artist/732aFMojr4rC3Q2DAstddk) | [Raw Takes](https://open.spotify.com/album/6BE59ToxBekXRmNmIFj35W) | 2:01 | 2022-04-15 | 2023-07-20 |
+| [reaching](https://open.spotify.com/track/2HbDUPOSjGfxSEnSqM42P2) | [BTZ cult](https://open.spotify.com/artist/5tiJzztsDP2iMsotmtModp) | [reaching](https://open.spotify.com/album/59KiuYzZGNv0AAkoHl5rLe) | 2:07 | 2024-03-01 |  |
 | [Really Get Going](https://open.spotify.com/track/69Go42QZw7dC2Ehl0pZhCi) | [Steefann](https://open.spotify.com/artist/6bQY0OdvrUz4BUlajKcLfF) | [Really Get Going](https://open.spotify.com/album/4MACdcvjpSigHwHLxWDhyx) | 2:35 | 2022-04-15 |  |
 | [Redefine](https://open.spotify.com/track/3myirb6fcmRT8eeSZV1poe) | [alt.bin.beats](https://open.spotify.com/artist/19RtbWE9QLz3K4YW19qdos) | [Redefine](https://open.spotify.com/album/3I2ZTGS4Pqk6xPvN3MrN6Y) | 2:24 | 2022-04-15 |  |
 | [Reflections](https://open.spotify.com/track/1IFvlYEQQJ3MYveHXCFdtH) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [Reflections](https://open.spotify.com/album/5nOykl9d6B5R8UF8f7OGBU) | 2:20 | 2022-04-15 | 2022-11-20 |
