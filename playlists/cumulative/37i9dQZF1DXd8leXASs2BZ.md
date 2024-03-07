@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: 7
 
-286 songs - 13 hr 13 min
+287 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [seaside boiz](https://open.spotify.com/track/0OHWUJxSTDN6Q4TnaBzSz3) | [Tyga Ichinose](https://open.spotify.com/artist/0q3ojxiFcPDSS5p9GQaePK), [IC¥ BOI](https://open.spotify.com/artist/0k448qMVtcDB7G7AVrQyRS) | [Zero e.p.](https://open.spotify.com/album/6vRvbwnb8kC9Ps6h3VBlC1) | 3:12 | 2024-02-13 |  |
 | [Seasons](https://open.spotify.com/track/6EXuxQV8wJVvIohejXwbPD) | [J1rock](https://open.spotify.com/artist/0nuCtZ6ZHTKzQAI21HNh74) | [Seasons](https://open.spotify.com/album/4B0qLdyNSpZc9lK7CsMdTn) | 1:10 | 2023-12-07 |  |
 | [Selfish](https://open.spotify.com/track/3Bpie3D1Q8Kz2fSBi0UKzB) | [¥oung Flag](https://open.spotify.com/artist/0axWR0RBWlULo5yCbalnWV), [S\-Liam](https://open.spotify.com/artist/3LH7yvrRzh0ZoHkOmU3vpu) | [REAL TALK](https://open.spotify.com/album/6v22Aa0LMQUSWXHteBhOx0) | 2:40 | 2024-01-16 | 2024-02-16 |
+| [sento](https://open.spotify.com/track/1Nl87uvvdyIAohvr4vX37I) | [suimu:](https://open.spotify.com/artist/3FLRHIlvau9mLVlOXs7FWb) | [sento](https://open.spotify.com/album/2w9UyWl3QI9sZZp84gzb5K) | 2:39 | 2024-03-05 |  |
 | [Sexy](https://open.spotify.com/track/1N8QbTJO5ED2ShArjBSMDy) | [Bene Baby](https://open.spotify.com/artist/4qd1YiKsGPymzmgZLBYY8g) | [Sexy](https://open.spotify.com/album/5ya278NuTWU7pUzBOiI9lv) | 3:30 | 2024-02-27 |  |
 | [Sexy](https://open.spotify.com/track/6GF1LaNPKsEKr8kF644pyJ) | [Bene Baby](https://open.spotify.com/artist/4qd1YiKsGPymzmgZLBYY8g) | [Sexy](https://open.spotify.com/album/0uou2s2z1kr5X0wdvzCaZi) | 3:30 | 2024-02-08 | 2024-02-29 |
 | [Sh!t Talker](https://open.spotify.com/track/6OKWLgCbG4dV23hcnh3fyX) | [YUNGSTAお仲間](https://open.spotify.com/artist/64csVS3CtwSZMjIbhCaMqU) | [ONAKAMATAPE:上](https://open.spotify.com/album/2WUuI7KEDyolb5ZqzeX2NO) | 2:41 | 2023-12-22 | 2024-01-11 |
@@ -293,6 +294,6 @@
 | [牛久](https://open.spotify.com/track/5hvbfRmhcKVB2iwgktJx8y) | [OGGYWEST](https://open.spotify.com/artist/5e9rwyw6ZPV26OvEy34xTA) | [牛久](https://open.spotify.com/album/5HCH5FD6Yg1vFhPuwNAmOM) | 3:05 | 2024-01-30 | 2024-02-09 |
 | [第救条](https://open.spotify.com/track/5sluiMnosRaynnGPuuI4ON) | [NARIMIMI](https://open.spotify.com/artist/1JTdS745UntF44DnNXTS9W), [Whoopee Bomb](https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3) | [第救条](https://open.spotify.com/album/7phcQamybNqbWXszHenikP) | 3:03 | 2024-02-27 | 2024-02-29 |
 | [花束](https://open.spotify.com/track/76w5LRGxbVIEbkpke35vR3) | [8](https://open.spotify.com/artist/2oHsgOCrUTQmTqqeOoxdVX) | [5/13](https://open.spotify.com/album/5MDVcLYeo1Ib9mE3AUxPJY) | 2:01 | 2024-02-13 | 2024-02-15 |
-| [銭湯](https://open.spotify.com/track/3OLtdYmbURkkoLiIf9BLO1) | [suimu:](https://open.spotify.com/artist/3FLRHIlvau9mLVlOXs7FWb) | [銭湯](https://open.spotify.com/album/2fFt2OPmG9eFvEHAcypOka) | 2:39 | 2024-03-05 |  |
+| [銭湯](https://open.spotify.com/track/3OLtdYmbURkkoLiIf9BLO1) | [suimu:](https://open.spotify.com/artist/3FLRHIlvau9mLVlOXs7FWb) | [銭湯](https://open.spotify.com/album/2fFt2OPmG9eFvEHAcypOka) | 2:39 | 2024-03-05 | 2024-03-07 |
 
 \*This playlist was first scraped on 2023-12-09. Prior content cannot be recovered.

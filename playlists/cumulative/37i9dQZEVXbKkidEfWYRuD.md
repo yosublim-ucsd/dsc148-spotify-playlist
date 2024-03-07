@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,411 songs - 2 day 17 hr 25 min
+1,412 songs - 2 day 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [BAIXO](https://open.spotify.com/track/0rb7HcBkdMPp04ybHBfX41) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [NO GOING BACK](https://open.spotify.com/album/7pv0piZjVlLEIYUXEQKX6x) | 1:44 | 2023-10-19 | 2023-11-16 |
 | [BALANCE](https://open.spotify.com/track/33aN03SdPY7SyO7jAWMTwc) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [QUEEN OF RAP](https://open.spotify.com/album/4lvy6drxoogEkNehP9RLwR) | 2:16 | 2022-08-22 | 2022-08-28 |
 | [BALANCE](https://open.spotify.com/track/3yi4CF76vbCXfI1sb3FMuW) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [LAST ONE](https://open.spotify.com/album/3Mp2TOTZpTGvU1cExaHs7w) | 2:47 | 2022-10-22 | 2022-10-29 |
-| [BALLOUT](https://open.spotify.com/track/20Sfazrl2ErzEguVPa2ByX) | [unki](https://open.spotify.com/artist/157DpdCWsAG42qhS6BCsjT) | [BALLOUT](https://open.spotify.com/album/2KOuGPFQLMMI3UXZc7jMWB) | 1:41 | 2024-02-10 |  |
+| [BALLOUT](https://open.spotify.com/track/20Sfazrl2ErzEguVPa2ByX) | [unki](https://open.spotify.com/artist/157DpdCWsAG42qhS6BCsjT) | [BALLOUT](https://open.spotify.com/album/2KOuGPFQLMMI3UXZc7jMWB) | 1:41 | 2024-02-10 | 2024-03-07 |
 | [Bandana](https://open.spotify.com/track/16AzcbKli3UQsxj491hJLQ) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [BANDANA I](https://open.spotify.com/album/6kzabofELlyd7dYqY78dzu) | 2:31 | 2021-10-23 | 2022-07-11 |
 | [bankai](https://open.spotify.com/track/1qwAvf8LsXY7H1sD5rRXGO) | [zxcursed](https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs) | [bankai](https://open.spotify.com/album/59nx25qYi62hyVrvvNYkEc) | 1:57 | 2022-04-18 | 2022-04-28 |
 | [bankai](https://open.spotify.com/track/6tlU1yG1HdSrbbbfQN3NH3) | [zxcursed](https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs) | [bankai](https://open.spotify.com/album/0OZXlr5uiKMAwFzyHbwXM9) | 1:57 | 2022-04-02 | 2022-04-19 |
@@ -741,7 +741,7 @@
 | [Where Are You](https://open.spotify.com/track/5DkZZnIip2biMlFXb8zgJy) | [Ollane](https://open.spotify.com/artist/38QFXoA64TnwDvE0nK2TYa), [Miyagi & Andy Panda](https://open.spotify.com/artist/0hmUwzWBrPHpGWGrYH05c3) | [Where Are You](https://open.spotify.com/album/4iOUh84nmhzrywU4GU45sa) | 4:01 | 2021-05-23 | 2021-05-24 |
 | [Whoopty](https://open.spotify.com/track/1t9WgS8FN0534tLBRwbaxO) | [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb) | [Loyalty Over Royalty](https://open.spotify.com/album/0kHRftVXaiRHgQdtviml0G) | 2:03 | 2021-04-02 | 2021-04-03 |
 | [Why Not](https://open.spotify.com/track/4oMyggIzClkOcCTvotFLkP) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [Why Not](https://open.spotify.com/album/0Qj2wwdBRq690kG8hShuaR) | 2:45 | 2022-04-15 | 2022-04-17 |
-| [Why'd You Only Call Me When You're High?](https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 2:41 | 2023-09-12 |  |
+| [Why'd You Only Call Me When You're High?](https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 2:41 | 2023-09-12 | 2024-03-07 |
 | [WIGGA WIGGA](https://open.spotify.com/track/5hOuH9IUph9asGEbQYIusH) | [LIL MORTY](https://open.spotify.com/artist/09W1Zh2IfOs6YYEiKgYY1K) | [BORN FROM SHYNE](https://open.spotify.com/album/6Tg1lp3JYbp6CiUpASpHdh) | 2:17 | 2021-11-14 | 2021-11-14 |
 | [WINDOWS \[prod\. by DooMee, TonySouljah & VisaGangBeatz\]](https://open.spotify.com/track/4krudkCElDUrbnq2sSKeHl) | [SEEMEE](https://open.spotify.com/artist/2ngiK5FQchV4i7eOyXOXKt), [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C) | [TXC](https://open.spotify.com/album/0bFcVSqwnBv4wIKPg74TjT) | 1:40 | 2021-06-27 | 2021-06-28 |
 | [Wings of Lina](https://open.spotify.com/track/2wGqFYPabvYLFO7CjXaYue) | [Lostlojic](https://open.spotify.com/artist/61j1RfTlSOAELj63pxOBdG) | [Counteroffensive](https://open.spotify.com/album/5xNrvNQYbic9DcgTRAlYWg) | 4:19 | 2023-12-07 | 2023-12-09 |
@@ -776,6 +776,7 @@
 | [Азбука](https://open.spotify.com/track/6bqT9F2wP82zkBqMpIz0G5) | [Boulevard Depo](https://open.spotify.com/artist/7dH8w9flSy9w81ilr0xXWe), [SP4K](https://open.spotify.com/artist/1ju3JsvJuNAMjxoIqaSP7R) | [QWERTY LANG](https://open.spotify.com/album/4nQp6yhjeUyc2KDg5I6z1R) | 2:07 | 2021-12-12 | 2021-12-19 |
 | [Акид](https://open.spotify.com/track/79hOg2OcECgvRGGeX0XJuZ) | [PHARAOH](https://open.spotify.com/artist/1F8usyx5PbYGWxf0bwdXwA), [Mnogoznaal](https://open.spotify.com/artist/16ZNqMkDZrzd8fTXeN2kUH) | [Акид](https://open.spotify.com/album/5Qcbacw3rlqaXFpbIL5Ys6) | 2:41 | 2021-12-18 | 2021-12-31 |
 | [АМИРИ](https://open.spotify.com/track/64hVeHHQqFy8TJSVA2LHP3) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [KRAZY](https://open.spotify.com/album/4qe8UTp8frpwXXUsHB2QB8) | 2:42 | 2021-08-29 | 2021-08-30 |
+| [Ангел](https://open.spotify.com/track/01J7Q2QyqNX2gFEqfoSNju) | [Юпи](https://open.spotify.com/artist/19ycuZUQaZvT46uJscip1s), [FORTUNA 812](https://open.spotify.com/artist/4anb8rmk0xipuQP6QZ5IlH) | [Ангел](https://open.spotify.com/album/3OD1DuTZ0s1Rzmo60A32SP) | 2:30 | 2024-03-06 |  |
 | [Антидепрессант](https://open.spotify.com/track/26yvlxKTtN2u3mpbl6AIeI) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [Hate Love](https://open.spotify.com/album/5UKIxEdQDFQztvCEfK5QME) | 2:00 | 2023-02-20 | 2024-02-29 |
 | [Антикобыла \(prod\. by SHEEPY\)](https://open.spotify.com/track/3Qef8ytrSaKyKFFHhULLdx) | [Daybe](https://open.spotify.com/artist/3kD7WYKPDrC4C9SwFh7XLD), [Tenderlybae](https://open.spotify.com/artist/1Z4CxuvNuVKnKrGQfRcEFl) | [Антикобыла \(prod\. by SHEEPY\)](https://open.spotify.com/album/68PYgNVBFk9xrSRLLwoMp1) | 2:32 | 2022-01-24 | 2022-02-03 |
 | [Апноэ](https://open.spotify.com/track/3yKY5Y679RcRQtkqvGOuie) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ) | [Апноэ](https://open.spotify.com/album/6XSUhrgB3jPfeWSqm03hqS) | 2:29 | 2023-05-27 | 2023-05-30 |
@@ -1128,7 +1129,7 @@
 | [ночь](https://open.spotify.com/track/0Mfjy6p9vZsfzbQReWdooZ) | [ooes](https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM) | [мои \(твои\) тёмные желания](https://open.spotify.com/album/4nIqE64E4RzPqiOerVdI01) | 2:29 | 2021-06-28 | 2022-03-03 |
 | [Ночь, Такси, Заметки](https://open.spotify.com/track/7cePdbh3eZF9thPis8xsnm) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [LAST ONE](https://open.spotify.com/album/3Mp2TOTZpTGvU1cExaHs7w) | 2:48 | 2022-10-22 | 2022-10-27 |
 | [НУЛЕВЫЕ \[prod\. by Heroinwater, Wex\]](https://open.spotify.com/track/6HIGMLDwzKoGnly5YhGEsf) | [SODA LUV](https://open.spotify.com/artist/3TikHXhctY4FUIMlkl0tzR), [PINQ](https://open.spotify.com/artist/3xYxH7G5JimR1F1thIZYAQ) | [КОТЬ! КОТЬ!](https://open.spotify.com/album/67llcOfrH7DmC5yMmRd4UB) | 1:28 | 2021-04-04 | 2021-04-05 |
-| [Ніченька](https://open.spotify.com/track/1GpsHzQa7FEHInzmtALUk9) | [OKS](https://open.spotify.com/artist/6fBUVJW6cDrYluXjnnRdY4) | [Ніченька](https://open.spotify.com/album/1AgFkAlDnn0SyUWFbjILrT) | 3:09 | 2023-09-23 | 2024-03-05 |
+| [Ніченька](https://open.spotify.com/track/1GpsHzQa7FEHInzmtALUk9) | [OKS](https://open.spotify.com/artist/6fBUVJW6cDrYluXjnnRdY4) | [Ніченька](https://open.spotify.com/album/1AgFkAlDnn0SyUWFbjILrT) | 3:09 | 2023-09-23 |  |
 | [Обиделись](https://open.spotify.com/track/0404hSejXWTLLu2CyCGH11) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [FREERIO 2](https://open.spotify.com/album/4Bxc3xz4eRLzZBfluYRfiP) | 1:14 | 2022-04-30 | 2022-05-02 |
 | [Обычный парень \(feat\. Ivanzolo2004\)](https://open.spotify.com/track/6wD86mo1HN24MDlK8JR5ou) | [Nekoglai](https://open.spotify.com/artist/2TaI860P5qyn702NYQy7AP), [ivanzolo2004](https://open.spotify.com/artist/3ofBMYovLV5vmKWNnYkie9) | [Обычный парень \(feat\. Ivanzolo2004\)](https://open.spotify.com/album/5wQ0hXUTgWePf3IjKi7pvO) | 1:46 | 2022-02-12 | 2022-02-14 |
 | [Обійми](https://open.spotify.com/track/5561HkcMU0A4i3D6Tlsxhe) | [Okean Elzy](https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS) | [Земля](https://open.spotify.com/album/0KS4481ykVKBbjIsxlvyyN) | 3:44 | 2022-02-25 | 2022-03-11 |

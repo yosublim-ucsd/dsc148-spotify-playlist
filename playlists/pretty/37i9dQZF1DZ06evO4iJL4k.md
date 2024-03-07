@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 
 > This is Filipe Ret\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,496 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,678 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 | 20 | [Posturadão](https://open.spotify.com/track/0ToPj749UPF7MGE6KDyrIp) | [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Posturadão](https://open.spotify.com/album/2IH59QF9TV9xbbtRAQKhEO) | 2:42 |
 | 21 | [Libertários Não Morrem](https://open.spotify.com/track/6dV20GCkZXZA8ytRh3U8UB) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Funkero](https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt) | [Vivaz](https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g) | 4:10 |
 | 22 | [7 Meiota](https://open.spotify.com/track/3jrxlhAtoxi83qc76NT9EG) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ) | [LUME](https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG) | 3:10 |
-| 23 | [Louco Pra Voltar](https://open.spotify.com/track/3pDIXEO9O793DvllcSS0lc) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Audaz](https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa) | 3:30 |
-| 24 | [Só Pra Você Lembrar](https://open.spotify.com/track/7pwSEJ0HuN067dxCiGvaUh) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Revel](https://open.spotify.com/album/422XU7tl8bg3VIklzD1VGf) | 3:54 |
+| 23 | [Só Pra Você Lembrar](https://open.spotify.com/track/7pwSEJ0HuN067dxCiGvaUh) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Revel](https://open.spotify.com/album/422XU7tl8bg3VIklzD1VGf) | 3:54 |
+| 24 | [Louco Pra Voltar](https://open.spotify.com/track/3pDIXEO9O793DvllcSS0lc) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Audaz](https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa) | 3:30 |
 | 25 | [Reús](https://open.spotify.com/track/43OF1WiPTx2KfQypd7nMr3) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Vivaz](https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g) | 4:03 |
 | 26 | [Konteiner](https://open.spotify.com/track/347KmRWwYXcZSUgelz7Cit) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [LUME](https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG) | 2:30 |
 | 27 | [Dentro de Você / A Libertina \- Ao Vivo](https://open.spotify.com/track/65RtZeSSVw0rrHSgEAe063) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [FRXV \(Ao Vivo\)](https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 | 49 | [Jamais Serão](https://open.spotify.com/track/2nDoREifQ978QhJXbnxLe8) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Start](https://open.spotify.com/artist/2wDK7CcPdIb0WJ3SiYaf1h) | [Numa Margem Distante](https://open.spotify.com/album/7FlYqBtcwB9b51uq0OZYjJ) | 4:03 |
 | 50 | [Paradoxo Mítico](https://open.spotify.com/track/4m1V2JVYzrfUuJrVY8n5MS) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Audaz](https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa) | 3:39 |
 
-Snapshot ID: `Mjg0OTQyODksMDAwMDAwMDAzMGI3NDQ0NDAyZTU2NWM4MDIxMDJjNmY1YWY4ZDNlYQ==`
+Snapshot ID: `Mjg0OTU0NzYsMDAwMDAwMDBkZTg3OTYwZTBiNjlmOGQ1OTg5MThiZDRjMjFkMGYxYQ==`

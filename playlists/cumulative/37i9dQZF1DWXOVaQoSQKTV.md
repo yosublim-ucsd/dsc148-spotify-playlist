@@ -4,7 +4,7 @@
 
 > Get ready for the final season, nerds\. Listen to the music from Never Have I Ever, new episodes now streaming on Netflix.
 
-200 songs - 11 hr 51 min
+201 songs - 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [Never Let You Go](https://open.spotify.com/track/1rDBcksBApWqECgPGwI5It) | [People On People](https://open.spotify.com/artist/71mOU281352We1iANampDV) | [Only Heaven](https://open.spotify.com/album/1tXd2npzRkjEAWzvNRLUFA) | 3:35 | 2023-06-08 |  |
 | [Not About You](https://open.spotify.com/track/6DHjOFbyv8ARCOp4nc7fN5) | [Haiku Hands](https://open.spotify.com/artist/3QX8CTn1znpY0HF3hbnNye) | [Haiku Hands](https://open.spotify.com/album/4K335YOnaQMi3AZjCLfJnC) | 3:21 | 2023-06-08 |  |
 | [Not Buying It](https://open.spotify.com/track/0v6XEuEjYKj6XTcZ2aMCEr) | [Paprika Kinski](https://open.spotify.com/artist/5xyTNHPE6Yfx0CbtErzqz9) | [Young Broke & Fabulous](https://open.spotify.com/album/1qPHRqIXl4ypXTc1IBwN4c) | 4:00 | 2023-06-08 |  |
-| [Nothing But Love](https://open.spotify.com/track/7nYXQduObANN1JWh67XQ14) | [Caitlyn Scarlett](https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU), [Raf Riley](https://open.spotify.com/artist/1K7GjRGPXx2I8FJ1iBW85L) | [Nothing But Love](https://open.spotify.com/album/2aj8MSCw8Iv0ImkGNixyvq) | 3:02 | 2023-06-08 |  |
+| [Nothing But Love](https://open.spotify.com/track/08XQynq4cTbNaQtk8fPqeQ) | [Caitlyn Scarlett](https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU), [Raf Riley](https://open.spotify.com/artist/1K7GjRGPXx2I8FJ1iBW85L) | [Nothing But Love](https://open.spotify.com/album/5B5Qx2uz2gQb4TJAnVB3JL) | 3:02 | 2023-06-08 |  |
+| [Nothing But Love](https://open.spotify.com/track/7nYXQduObANN1JWh67XQ14) | [Caitlyn Scarlett](https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU), [Raf Riley](https://open.spotify.com/artist/1K7GjRGPXx2I8FJ1iBW85L) | [Nothing But Love](https://open.spotify.com/album/2aj8MSCw8Iv0ImkGNixyvq) | 3:02 | 2023-06-08 | 2024-03-07 |
 | [Nothing More Than Strangers](https://open.spotify.com/track/07US0WD8WYpyBgwFrEyGe8) | [Catherine Howe](https://open.spotify.com/artist/5Q5ERvNvcMheX9eQ8Yiv30) | [What a Beautiful Place](https://open.spotify.com/album/4rxh0MWb3yomVQkOXeu7tU) | 2:10 | 2023-06-08 |  |
 | [Obxessed](https://open.spotify.com/track/2j5X6shF4Mp1IBpGe4BfWS) | [Fire Choir](https://open.spotify.com/artist/0MTQj6AkAsjqaxXHQNbK3N) | [Obxessed](https://open.spotify.com/album/4nDiRBa3qthkV2WYIRyN3m) | 2:49 | 2023-06-08 |  |
 | [Omens](https://open.spotify.com/track/4e5WyxuzcIyGwXSauUYsyt) | [Joni](https://open.spotify.com/artist/1K9ioYi2XAVkS3Ky53IELe) | [Omens](https://open.spotify.com/album/19ByNpq4GHmtVV9koPMB9n) | 4:04 | 2023-06-08 |  |

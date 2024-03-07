@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 15041,
+  "2024-03-07": 15038,
   "date_first_scraped": "2023-11-04",
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
   "name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 202866,
       "name": "Another Dream",
       "url": "https://open.spotify.com/track/1UUJwdNBSVQAQMZYHfkIa5"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 262143,
       "name": "Brave",
       "url": "https://open.spotify.com/track/30g5E9MteFxeG9pDvRKJNl"
@@ -150,6 +150,24 @@
     },
     {
       "album": {
+        "name": "Closer Than This",
+        "url": "https://open.spotify.com/album/3auDI7RSdoJr99qMNXimP4"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223302,
+      "name": "Closer Than This",
+      "url": "https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20"
+    },
+    {
+      "album": {
         "name": "OO",
         "url": "https://open.spotify.com/album/20WQSlujuTbzd9d5V46mkc"
       },
@@ -187,6 +205,24 @@
       "duration_ms": 218523,
       "name": "Dear Diary",
       "url": "https://open.spotify.com/track/2qgA8fMwtftAhDzkd6mhgD"
+    },
+    {
+      "album": {
+        "name": "H1-KEYnote #2 [Deeper]",
+        "url": "https://open.spotify.com/album/1v8S64LHiST7uozBRziaIN"
+      },
+      "artists": [
+        {
+          "name": "H1-KEY",
+          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216160,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/6T2XxCNGgkbFvyyuJNN3fQ"
     },
     {
       "album": {
@@ -259,6 +295,24 @@
       "duration_ms": 186173,
       "name": "Fix me",
       "url": "https://open.spotify.com/track/6bSkF997fC5HQz6BuEZkXV"
+    },
+    {
+      "album": {
+        "name": "DAESUNG Special Single",
+        "url": "https://open.spotify.com/album/7Ct13dmiE5fMReh3v3FTxe"
+      },
+      "artists": [
+        {
+          "name": "DAESUNG",
+          "url": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198280,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/0E8sOJGcMtUVxAJ4PYul2U"
     },
     {
       "album": {
@@ -563,7 +617,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 209813,
       "name": "She Gonna Stop (Feat. Leellamarz) (Prod. TOIL)",
       "url": "https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0"

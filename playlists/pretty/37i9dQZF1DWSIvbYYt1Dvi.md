@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > froid e ecologyk é AULAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,208,060 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,208,084 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [Reduto de Malandro](https://open.spotify.com/track/6AIOAo6lOe9qvoy76LH17j) | [pumapjl](https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM), [SonoTWS](https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE) | [Autodomínio](https://open.spotify.com/album/3kPsjo393B9b4BQ8HDEaTc) | 1:41 |
 | 50 | [12 6 10](https://open.spotify.com/track/2iQMtShAfzwFouW1rJtSqK) | [Parteum](https://open.spotify.com/artist/047rJvBYv0egT5SolmU7m4) | [12 6 10](https://open.spotify.com/album/5YY7VbZNjSinKfLq75yicy) | 3:36 |
 
-Snapshot ID: `MCxjYTVhNDVjZGFhMjgzODcxZTkxMjJmMjhhM2Y0ZmI3ODNiN2I2ZGRm`
+Snapshot ID: `MCxhNGE0MTJiZDNmMjg5Mjc5Y2FkYjUyMmY4NDYyODk4YzY3MzZkYzBh`

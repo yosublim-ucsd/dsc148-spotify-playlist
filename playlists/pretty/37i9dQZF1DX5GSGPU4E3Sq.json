@@ -1,12 +1,12 @@
 {
   "description": "Pi\u00e9rdete en el misterio del bosque y sus poderes sanadores.",
-  "num_followers": 190077,
+  "num_followers": 190087,
   "original_name": "Terapia de Bosque",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzU4YWYwZDEyMTYyNGIwNjBjMjEzMDFhNTJmNzZhMzQ1MjBmYjg2",
+  "snapshot_id": "MCxjOThmMGNlMTEwN2U0MDY1NjhhYWM0ZjEyNzdmN2NkNWFkYmRhYTM2",
   "tracks": [
     {
       "added_at": "2024-02-22 18:29:58",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-02-22 18:29:58",
       "album": {
-        "name": "Driftwood",
-        "url": "https://open.spotify.com/album/1moMGvFXtkeC7TH0J1vV3Q"
-      },
-      "artists": [
-        {
-          "name": "Ra Kuyou",
-          "url": "https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR"
-        }
-      ],
-      "duration_ms": 166285,
-      "name": "Driftwood",
-      "url": "https://open.spotify.com/track/6g11H9Qg8lcJwEIS39e6GN"
-    },
-    {
-      "added_at": "2024-02-22 18:29:58",
-      "album": {
         "name": "Celestial Serenity",
         "url": "https://open.spotify.com/album/2uO2aY0fJuJwA1fglKA6Aw"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 182933,
       "name": "Celestial Serenity",
       "url": "https://open.spotify.com/track/10qAwjxWsZCrnHwrHcxJh9"
+    },
+    {
+      "added_at": "2024-02-22 18:29:58",
+      "album": {
+        "name": "Driftwood",
+        "url": "https://open.spotify.com/album/1moMGvFXtkeC7TH0J1vV3Q"
+      },
+      "artists": [
+        {
+          "name": "Ra Kuyou",
+          "url": "https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR"
+        }
+      ],
+      "duration_ms": 166285,
+      "name": "Driftwood",
+      "url": "https://open.spotify.com/track/6g11H9Qg8lcJwEIS39e6GN"
     },
     {
       "added_at": "2024-02-22 18:29:58",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-02-22 18:29:58",
       "album": {
-        "name": "Lights on Water",
-        "url": "https://open.spotify.com/album/0TR96hLQ5YvKTdgZY7ffhp"
-      },
-      "artists": [
-        {
-          "name": "Astral Wonder",
-          "url": "https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "Lights on Water",
-      "url": "https://open.spotify.com/track/6J0uBGMNk7kjRKVmxh6iJE"
-    },
-    {
-      "added_at": "2024-02-22 18:29:58",
-      "album": {
         "name": "The Enigma of Consciousness",
         "url": "https://open.spotify.com/album/4Qq3VuAueCvOPnopjVZ5dd"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 194805,
       "name": "The Enigma of Consciousness",
       "url": "https://open.spotify.com/track/4VEbMcdsQV19SFVuwkz9vg"
+    },
+    {
+      "added_at": "2024-02-22 18:29:58",
+      "album": {
+        "name": "Lights on Water",
+        "url": "https://open.spotify.com/album/0TR96hLQ5YvKTdgZY7ffhp"
+      },
+      "artists": [
+        {
+          "name": "Astral Wonder",
+          "url": "https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "Lights on Water",
+      "url": "https://open.spotify.com/track/6J0uBGMNk7kjRKVmxh6iJE"
     },
     {
       "added_at": "2024-02-22 18:29:58",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2024-02-22 18:29:58",
       "album": {
+        "name": "Blue Peak",
+        "url": "https://open.spotify.com/album/6Q67bFtUNxqRJ9RxRBsxIm"
+      },
+      "artists": [
+        {
+          "name": "Tibetan Audio",
+          "url": "https://open.spotify.com/artist/4jjUtZ19nXBNcIL9s1AAM8"
+        }
+      ],
+      "duration_ms": 204582,
+      "name": "Blue Peak",
+      "url": "https://open.spotify.com/track/33rVIuXB2ZgtxCG64qVT24"
+    },
+    {
+      "added_at": "2024-02-22 18:29:58",
+      "album": {
         "name": "A New Day",
         "url": "https://open.spotify.com/album/3duG9vrpxecZceRKXBqc7M"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 138879,
       "name": "A State of Serenity",
       "url": "https://open.spotify.com/track/176IOSw9ni8nujE5dohokG"
-    },
-    {
-      "added_at": "2024-02-22 18:29:58",
-      "album": {
-        "name": "Blue Peak",
-        "url": "https://open.spotify.com/album/6Q67bFtUNxqRJ9RxRBsxIm"
-      },
-      "artists": [
-        {
-          "name": "Tibetan Audio",
-          "url": "https://open.spotify.com/artist/4jjUtZ19nXBNcIL9s1AAM8"
-        }
-      ],
-      "duration_ms": 204582,
-      "name": "Blue Peak",
-      "url": "https://open.spotify.com/track/33rVIuXB2ZgtxCG64qVT24"
     },
     {
       "added_at": "2024-02-22 18:29:58",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-02-22 18:29:58",
       "album": {
-        "name": "Penumbra",
-        "url": "https://open.spotify.com/album/1QKIFdGbgz7yenrQiKWp2J"
-      },
-      "artists": [
-        {
-          "name": "Martin Landh",
-          "url": "https://open.spotify.com/artist/3h6h9sKnuag3EateK306Ew"
-        }
-      ],
-      "duration_ms": 158054,
-      "name": "Snow In June",
-      "url": "https://open.spotify.com/track/4Z5VcxqmvvcECo7uWJF86v"
-    },
-    {
-      "added_at": "2024-02-22 18:29:58",
-      "album": {
         "name": "Piano Works I",
         "url": "https://open.spotify.com/album/6oVDzb2GGAlm18hil5hWqn"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 366000,
       "name": "Synecdoche",
       "url": "https://open.spotify.com/track/7AkwuKuX5e7SMpNTKQYToD"
+    },
+    {
+      "added_at": "2024-02-22 18:29:58",
+      "album": {
+        "name": "Penumbra",
+        "url": "https://open.spotify.com/album/1QKIFdGbgz7yenrQiKWp2J"
+      },
+      "artists": [
+        {
+          "name": "Martin Landh",
+          "url": "https://open.spotify.com/artist/3h6h9sKnuag3EateK306Ew"
+        }
+      ],
+      "duration_ms": 158054,
+      "name": "Snow In June",
+      "url": "https://open.spotify.com/track/4Z5VcxqmvvcECo7uWJF86v"
     },
     {
       "added_at": "2024-02-22 18:29:58",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2024-02-22 18:29:58",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/5gxTLnHZkpUd1LlmzWIAZm"
-      },
-      "artists": [
-        {
-          "name": "On Dunes",
-          "url": "https://open.spotify.com/artist/6oMeZudDfeCsLbPHmZFt1x"
-        }
-      ],
-      "duration_ms": 185214,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/4B5gx9mHHElyhR5agL2NU9"
-    },
-    {
-      "added_at": "2024-02-22 18:29:58",
-      "album": {
         "name": "Ignis",
         "url": "https://open.spotify.com/album/0J3kkUFks10qpQA7n6xgbJ"
       },
@@ -1715,22 +1699,6 @@
       "duration_ms": 255520,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/5LklvybGDXhj8k6ovnftGO"
-    },
-    {
-      "added_at": "2024-02-22 18:29:58",
-      "album": {
-        "name": "In the Landscapes of Baertling",
-        "url": "https://open.spotify.com/album/7q68B1RkYD3MVoGn03pmFB"
-      },
-      "artists": [
-        {
-          "name": "Akureyri",
-          "url": "https://open.spotify.com/artist/3kWtgQ5akmWPNq4OCzOyc6"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "In the Landscapes of Baertling",
-      "url": "https://open.spotify.com/track/5jfwHrlDCV7skr3W3rhib0"
     },
     {
       "added_at": "2024-02-22 18:29:58",
@@ -1751,18 +1719,34 @@
     {
       "added_at": "2024-02-22 18:29:58",
       "album": {
-        "name": "Tranquillity",
-        "url": "https://open.spotify.com/album/0Idd7AHuBso3AghHoahMBs"
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/5gxTLnHZkpUd1LlmzWIAZm"
       },
       "artists": [
         {
-          "name": "My Wondrous Dream",
-          "url": "https://open.spotify.com/artist/5SGJUpo1V3rwKSsVdZG72Q"
+          "name": "On Dunes",
+          "url": "https://open.spotify.com/artist/6oMeZudDfeCsLbPHmZFt1x"
         }
       ],
-      "duration_ms": 201764,
-      "name": "Tranquillity",
-      "url": "https://open.spotify.com/track/34tN9XGSKpJwaP5NM96UTW"
+      "duration_ms": 185214,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/4B5gx9mHHElyhR5agL2NU9"
+    },
+    {
+      "added_at": "2024-02-22 18:29:58",
+      "album": {
+        "name": "In the Landscapes of Baertling",
+        "url": "https://open.spotify.com/album/7q68B1RkYD3MVoGn03pmFB"
+      },
+      "artists": [
+        {
+          "name": "Akureyri",
+          "url": "https://open.spotify.com/artist/3kWtgQ5akmWPNq4OCzOyc6"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "In the Landscapes of Baertling",
+      "url": "https://open.spotify.com/track/5jfwHrlDCV7skr3W3rhib0"
     },
     {
       "added_at": "2024-02-22 18:29:58",
@@ -1779,6 +1763,22 @@
       "duration_ms": 283874,
       "name": "Siren's Whisper",
       "url": "https://open.spotify.com/track/2TduwqKH9OdGIGLNFGm9fG"
+    },
+    {
+      "added_at": "2024-02-22 18:29:58",
+      "album": {
+        "name": "Tranquillity",
+        "url": "https://open.spotify.com/album/0Idd7AHuBso3AghHoahMBs"
+      },
+      "artists": [
+        {
+          "name": "My Wondrous Dream",
+          "url": "https://open.spotify.com/artist/5SGJUpo1V3rwKSsVdZG72Q"
+        }
+      ],
+      "duration_ms": 201764,
+      "name": "Tranquillity",
+      "url": "https://open.spotify.com/track/34tN9XGSKpJwaP5NM96UTW"
     },
     {
       "added_at": "2024-02-22 18:29:58",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2024-02-22 18:29:58",
       "album": {
-        "name": "The Fog of The Shire",
-        "url": "https://open.spotify.com/album/7KMCmRWsUohVRd1bcANSwz"
-      },
-      "artists": [
-        {
-          "name": "Antuigo",
-          "url": "https://open.spotify.com/artist/0SIxo5o3Jh1i8IjKtZhjcd"
-        }
-      ],
-      "duration_ms": 182030,
-      "name": "The Fog of The Shire",
-      "url": "https://open.spotify.com/track/0Nz8av1JB2HnG35kNljUUL"
-    },
-    {
-      "added_at": "2024-02-22 18:29:58",
-      "album": {
         "name": "Bluebirds",
         "url": "https://open.spotify.com/album/3OAIYbvnrfrec6LiOETHNw"
       },
@@ -1911,18 +1895,18 @@
     {
       "added_at": "2024-02-22 18:29:58",
       "album": {
-        "name": "Free Design",
-        "url": "https://open.spotify.com/album/29ty7i6CE0WpDWqXuBCkc2"
+        "name": "The Fog of The Shire",
+        "url": "https://open.spotify.com/album/7KMCmRWsUohVRd1bcANSwz"
       },
       "artists": [
         {
-          "name": "Cellulose Sunshine",
-          "url": "https://open.spotify.com/artist/5UQC7KDvCQnrNPbOKP3Dls"
+          "name": "Antuigo",
+          "url": "https://open.spotify.com/artist/0SIxo5o3Jh1i8IjKtZhjcd"
         }
       ],
-      "duration_ms": 161148,
-      "name": "Free Design",
-      "url": "https://open.spotify.com/track/3H94469wfc4IgUoWi7zVUd"
+      "duration_ms": 182030,
+      "name": "The Fog of The Shire",
+      "url": "https://open.spotify.com/track/0Nz8av1JB2HnG35kNljUUL"
     },
     {
       "added_at": "2024-02-22 18:29:58",
@@ -1939,6 +1923,22 @@
       "duration_ms": 187727,
       "name": "Epilogue",
       "url": "https://open.spotify.com/track/3DYp7eXItuMz0ZglmgEgFF"
+    },
+    {
+      "added_at": "2024-02-22 18:29:58",
+      "album": {
+        "name": "Free Design",
+        "url": "https://open.spotify.com/album/29ty7i6CE0WpDWqXuBCkc2"
+      },
+      "artists": [
+        {
+          "name": "Cellulose Sunshine",
+          "url": "https://open.spotify.com/artist/5UQC7KDvCQnrNPbOKP3Dls"
+        }
+      ],
+      "duration_ms": 161148,
+      "name": "Free Design",
+      "url": "https://open.spotify.com/track/3H94469wfc4IgUoWi7zVUd"
     },
     {
       "added_at": "2024-02-22 18:29:58",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2024-02-22 18:29:58",
       "album": {
-        "name": "Dazzle Ships",
-        "url": "https://open.spotify.com/album/1XoHVIy2pTAKTDseBfU2gJ"
-      },
-      "artists": [
-        {
-          "name": "Cloud Babies",
-          "url": "https://open.spotify.com/artist/4ePAQ72METcmQnMZVg26Pw"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Dazzle Ships",
-      "url": "https://open.spotify.com/track/6XkwLtL1E0lK0ZM134DOnc"
-    },
-    {
-      "added_at": "2024-02-22 18:29:58",
-      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/2Kot6ahBfFBvdWy58CZiXU"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 193000,
       "name": "Aura",
       "url": "https://open.spotify.com/track/04zmw3VLwbZjsICoFGEjmv"
+    },
+    {
+      "added_at": "2024-02-22 18:29:58",
+      "album": {
+        "name": "Dazzle Ships",
+        "url": "https://open.spotify.com/album/1XoHVIy2pTAKTDseBfU2gJ"
+      },
+      "artists": [
+        {
+          "name": "Cloud Babies",
+          "url": "https://open.spotify.com/artist/4ePAQ72METcmQnMZVg26Pw"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Dazzle Ships",
+      "url": "https://open.spotify.com/track/6XkwLtL1E0lK0ZM134DOnc"
     },
     {
       "added_at": "2024-02-22 18:29:58",
@@ -2151,6 +2151,22 @@
     {
       "added_at": "2024-02-22 18:29:58",
       "album": {
+        "name": "Sparrow Meadow",
+        "url": "https://open.spotify.com/album/2kJFfzwMj8jdiXJ4OjBZc2"
+      },
+      "artists": [
+        {
+          "name": "Min Sosa",
+          "url": "https://open.spotify.com/artist/4kWvX0IhUr9j3XAM8RITX0"
+        }
+      ],
+      "duration_ms": 182553,
+      "name": "Sparrow Meadow",
+      "url": "https://open.spotify.com/track/1pYCC6TVtgVxumhsLNplbu"
+    },
+    {
+      "added_at": "2024-02-22 18:29:58",
+      "album": {
         "name": "Om mani palme hum",
         "url": "https://open.spotify.com/album/2uiDDNlK6bgzWs1ELV0erj"
       },
@@ -2171,22 +2187,6 @@
     {
       "added_at": "2024-02-22 18:29:58",
       "album": {
-        "name": "Sparrow Meadow",
-        "url": "https://open.spotify.com/album/2kJFfzwMj8jdiXJ4OjBZc2"
-      },
-      "artists": [
-        {
-          "name": "Min Sosa",
-          "url": "https://open.spotify.com/artist/4kWvX0IhUr9j3XAM8RITX0"
-        }
-      ],
-      "duration_ms": 182553,
-      "name": "Sparrow Meadow",
-      "url": "https://open.spotify.com/track/1pYCC6TVtgVxumhsLNplbu"
-    },
-    {
-      "added_at": "2024-02-22 18:29:58",
-      "album": {
         "name": "Harmony",
         "url": "https://open.spotify.com/album/6rsFfeuO56zebh3BbZGoQ1"
       },
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2024-02-22 18:29:58",
       "album": {
-        "name": "Autosuggestion",
-        "url": "https://open.spotify.com/album/7vqqhdG1W0WOnoVYuItNWu"
-      },
-      "artists": [
-        {
-          "name": "London Pavilion",
-          "url": "https://open.spotify.com/artist/5VJzruQsgylyykWVnsA22t"
-        }
-      ],
-      "duration_ms": 208660,
-      "name": "Autosuggestion",
-      "url": "https://open.spotify.com/track/37BKMGpfNWMjdFbcqPc4wW"
-    },
-    {
-      "added_at": "2024-02-22 18:29:58",
-      "album": {
         "name": "Kiruna",
         "url": "https://open.spotify.com/album/5Ikr47faNKpgGamSgALtwk"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 170446,
       "name": "Kiruna",
       "url": "https://open.spotify.com/track/4u9xOtRiPhUhOnBtVuE8MA"
+    },
+    {
+      "added_at": "2024-02-22 18:29:58",
+      "album": {
+        "name": "Autosuggestion",
+        "url": "https://open.spotify.com/album/7vqqhdG1W0WOnoVYuItNWu"
+      },
+      "artists": [
+        {
+          "name": "London Pavilion",
+          "url": "https://open.spotify.com/artist/5VJzruQsgylyykWVnsA22t"
+        }
+      ],
+      "duration_ms": 208660,
+      "name": "Autosuggestion",
+      "url": "https://open.spotify.com/track/37BKMGpfNWMjdFbcqPc4wW"
     },
     {
       "added_at": "2024-02-22 18:29:58",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2024-02-22 18:29:58",
       "album": {
-        "name": "Amplitude",
-        "url": "https://open.spotify.com/album/2sBHOOGlTnp4LhXTq5G6fX"
-      },
-      "artists": [
-        {
-          "name": "Lawrence Blake",
-          "url": "https://open.spotify.com/artist/4vKwzvwZ7y5uB0OIQzdUhv"
-        }
-      ],
-      "duration_ms": 167195,
-      "name": "Amplitude",
-      "url": "https://open.spotify.com/track/0F8nxG2gJ6xXpanrZlfp4D"
-    },
-    {
-      "added_at": "2024-02-22 18:29:58",
-      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/6tVdXbTtIuqU4u46XVI8PF"
       },
@@ -2375,6 +2359,22 @@
       "duration_ms": 153802,
       "name": "Leaves",
       "url": "https://open.spotify.com/track/2VeRzeFLymzGePh18p2cBR"
+    },
+    {
+      "added_at": "2024-02-22 18:29:58",
+      "album": {
+        "name": "Amplitude",
+        "url": "https://open.spotify.com/album/2sBHOOGlTnp4LhXTq5G6fX"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Blake",
+          "url": "https://open.spotify.com/artist/4vKwzvwZ7y5uB0OIQzdUhv"
+        }
+      ],
+      "duration_ms": 167195,
+      "name": "Amplitude",
+      "url": "https://open.spotify.com/track/0F8nxG2gJ6xXpanrZlfp4D"
     },
     {
       "added_at": "2024-02-22 18:29:58",

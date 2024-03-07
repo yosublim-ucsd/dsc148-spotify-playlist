@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:3BAgmPNIK5IJl7zMK1wvMA">That Mexican OT</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,769,660 likes - 100 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,769,692 likes - 100 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 16 | [Wassam Baby \(feat\. Lil Wayne\)](https://open.spotify.com/track/5ezBNotZ831KDvrtVtn1nI) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Wassam Baby \(feat\. Lil Wayne\)](https://open.spotify.com/album/00rvII5QFDSrmuBFYISwjF) | 2:13 |
 | 17 | [YOSHIMITSU](https://open.spotify.com/track/5X5Aw2yaaCXncoiQh3gWRc) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [YOSHIMITSU](https://open.spotify.com/album/4slW380gBywM6GpFwXzYWi) | 2:52 |
 | 18 | [ONE CALL](https://open.spotify.com/track/6et5HwX6nTYddg7hDGAxug) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [ONE CALL](https://open.spotify.com/album/32Gv2KwfKu35P5r77bmxzi) | 2:01 |
-| 19 | [JAPANESE DENIM \(feat\. Veeze\)](https://open.spotify.com/track/7IRBVTWua5balW0xUJHmUF) | [DaeMoney](https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg), [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [JAPANESE DENIM \(feat\. Veeze\)](https://open.spotify.com/album/5m3BPYBaanarQy8hXJ7XoZ) | 2:07 |
+| 19 | [JAPANESE DENIM \(feat\. Veeze & LUCKI\)](https://open.spotify.com/track/7IRBVTWua5balW0xUJHmUF) | [DaeMoney](https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [JAPANESE DENIM \(feat\. Veeze & LUCKI\)](https://open.spotify.com/album/5m3BPYBaanarQy8hXJ7XoZ) | 2:07 |
 | 20 | [Your Friends \(feat\. Summer Walker\)](https://open.spotify.com/track/0u4jOsRESGP1irJNTJQlGX) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Your Friends \(feat\. Summer Walker\)](https://open.spotify.com/album/6XJjYBR0cHPDJsIskQX9mM) | 3:34 |
 | 21 | [Going To The Top](https://open.spotify.com/track/12tJyz2GOa37X25a8GF2hP) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Going To The Top](https://open.spotify.com/album/7ekSrUcnLASHRSOYvX2UZw) | 1:56 |
 | 22 | [Blue Devils](https://open.spotify.com/track/2MutiCeyax452vW5ydaizZ) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c) | [Blue Devils](https://open.spotify.com/album/6X7OCo3FJb2o0yAAsaq0fw) | 2:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [Express Myself](https://open.spotify.com/track/6gMSYXkEiXzHLK09ykXGac) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Express Myself](https://open.spotify.com/album/64JKDU3XXp4VbXSlhh6nHd) | 2:33 |
 | 100 | [Fat Boy \(feat\. Rick Ross\)](https://open.spotify.com/track/71S2e7v71Rcu3CH59pKdE8) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Fat Boy \(feat\. Rick Ross\)](https://open.spotify.com/album/3gNDqJwbeF8MOvSkxugVxS) | 3:33 |
 
-Snapshot ID: `MCwxODIxMzlmNDdmMTVmNmU1MjIxMGUwYjQzODk4Y2ZmNTJiY2I3MjQ3`
+Snapshot ID: `MCxmM2RhMGJkYjM1ODcxYzZmZGNlZDJkMWFjMGQ3YmMyY2UxNjZiZTAw`

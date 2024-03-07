@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 129905,
+  "2024-03-07": 129955,
   "date_first_scraped": "2023-12-25",
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
   "name": "This Is Kenny G",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 215800,
       "name": "Baby G",
       "url": "https://open.spotify.com/track/43BthQDBthBJM8dflfeoIF"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 238426,
       "name": "Innocence",
       "url": "https://open.spotify.com/track/5zW8p9nOndsKZnhes6PJtM"
@@ -655,7 +655,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-05",
+      "date_removed": null,
       "duration_ms": 327600,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/3E3u7Aq7DvJCj2kiGXAknO"

@@ -4,7 +4,7 @@
 
 > With autumn comes darker days and colder weather.
 
-308 songs - 21 hr 41 min
+309 songs - 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Bilitis](https://open.spotify.com/track/4MapiBIqUDowqFALnqSqrm) | [Luc Serra](https://open.spotify.com/artist/0AnYmxtWHvxxbaOXGyiyW7) | [Movie Dreams](https://open.spotify.com/album/2qlbhPiugoSPveNoxaymwe) | 4:23 | 2019-10-07 |  |
 | [Blank Space \- Focus Version](https://open.spotify.com/track/1HNdw6CPdClwclR95AaHCh) | [Safari](https://open.spotify.com/artist/2064gVxX01k0MWouz6iITE), [Bruno](https://open.spotify.com/artist/0TC0Mv8ql2x5g06bq1oMPs) | [Blank Space](https://open.spotify.com/album/24pvIaPsj7z5ZBEkv5Ttiw) | 4:21 | 2019-10-07 | 2022-07-29 |
 | [Blank Space \- Focus Version](https://open.spotify.com/track/63mcxkwgSBPuZA1ADr3bsc) | [SAFARI](https://open.spotify.com/artist/3wmvyaz5agDmQ5oT9QYDaK), [Bruno](https://open.spotify.com/artist/0TC0Mv8ql2x5g06bq1oMPs) | [Blank Space](https://open.spotify.com/album/48dQOVAyGXy0atWE3lrv5F) | 4:21 | 2019-10-07 |  |
-| [Blast Off](https://open.spotify.com/track/2ytaqTjaDdJljeFgU2YEsm) | [Random Rab](https://open.spotify.com/artist/4w8MWlPCLi8uZRkCMyrtCO) | [Release](https://open.spotify.com/album/1qZ5mnvaYGt30bEo63Htn0) | 6:25 | 2019-10-07 |  |
+| [Blast Off](https://open.spotify.com/track/2ytaqTjaDdJljeFgU2YEsm) | [Random Rab](https://open.spotify.com/artist/4w8MWlPCLi8uZRkCMyrtCO) | [Release](https://open.spotify.com/album/1qZ5mnvaYGt30bEo63Htn0) | 6:25 | 2019-10-07 | 2024-03-07 |
+| [Blast Off](https://open.spotify.com/track/3NyvZd60wMyJz46AYnEtDR) | [Random Rab](https://open.spotify.com/artist/4w8MWlPCLi8uZRkCMyrtCO), [Jamie Janover](https://open.spotify.com/artist/5wVZG2JBp9jPBqh8pFQ69Y), [D.V.S\*](https://open.spotify.com/artist/5205s7O2uBpVggPfzdnT89) | [Release](https://open.spotify.com/album/3p8mpLueP5eLxWxBuGYw1V) | 6:25 | 2022-09-27 |  |
 | [Blue But Free](https://open.spotify.com/track/4N2Q2YuaVjQH4qkNgaLmSj) | [Bobby Covent](https://open.spotify.com/artist/5E0X8g3XPY7zB17N5v3vqo) | [Morning](https://open.spotify.com/album/0oRYAbRJ0GxQrCV6Hysbh8) | 4:47 | 2019-10-07 |  |
 | [Blue But Free](https://open.spotify.com/track/7M6FXgNWSh7Mc0gQOBFC7G) | [Bobby Covent](https://open.spotify.com/artist/5E0X8g3XPY7zB17N5v3vqo) | [Morning](https://open.spotify.com/album/4VuEWJbWhQjMFbxPwKakau) | 4:47 | 2019-10-07 | 2022-07-29 |
 | [Blue Moon](https://open.spotify.com/track/0L1uh6vRPBxUkoIdF9WGBE) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [Relax Edition 4](https://open.spotify.com/album/2wtmiOWkQOc7mzcvCZvxce) | 5:11 | 2019-10-07 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 42977,
+  "num_followers": 42991,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2Y2MzZkZmEzOTQ2ODVmMWQ4MTY1ZjA5MWM3YjQ1NzViZTBhNjU4",
+  "snapshot_id": "MCw2OGNlMTQ4ODdlYTZjOWQ1ZDZhNThmYmY2YWVhMzFmNTgxMWExYWI4",
   "tracks": [
     {
       "added_at": "2023-11-15 02:04:48",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "White Water",
-        "url": "https://open.spotify.com/album/4yZll8f1nGx4qpqKMLe87V"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "duration_ms": 233391,
-      "name": "White Water",
-      "url": "https://open.spotify.com/track/5dmrLolEgTr4TT0AhOxk5x"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Casino Twilight Dogs",
         "url": "https://open.spotify.com/album/7JgWdCGMBwJkYb91oiFzxd"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 239120,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/3tFECpGckFpp0HpQje78gi"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "White Water",
+        "url": "https://open.spotify.com/album/4yZll8f1nGx4qpqKMLe87V"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "duration_ms": 233391,
+      "name": "White Water",
+      "url": "https://open.spotify.com/track/5dmrLolEgTr4TT0AhOxk5x"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Laps Around The Sun",
+        "url": "https://open.spotify.com/album/0nucTlCF9MJRacvHF4Oe8O"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 206293,
+      "name": "Laps Around The Sun",
+      "url": "https://open.spotify.com/track/6TfJaJV86gzlrXy1K0S5Wp"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Wanderlust",
         "url": "https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 240280,
       "name": "Tombstone",
       "url": "https://open.spotify.com/track/2kcfGjPU2sSZqGPETdGd6o"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Laps Around The Sun",
-        "url": "https://open.spotify.com/album/0nucTlCF9MJRacvHF4Oe8O"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 206293,
-      "name": "Laps Around The Sun",
-      "url": "https://open.spotify.com/track/6TfJaJV86gzlrXy1K0S5Wp"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Believe (Triple J Like A Version)",
+        "url": "https://open.spotify.com/album/3RNhkVTNmEXUSNeVt5S2AJ"
+      },
+      "artists": [
+        {
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+        }
+      ],
+      "duration_ms": 197594,
+      "name": "Believe (Triple J Like A Version)",
+      "url": "https://open.spotify.com/track/24oDOsC6NhYkgKQUcpLBIm"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Thick Skin",
         "url": "https://open.spotify.com/album/0mlELU0kLfrlVZDtMRVHIO"
       },
@@ -955,18 +971,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Believe (Triple J Like A Version)",
-        "url": "https://open.spotify.com/album/3RNhkVTNmEXUSNeVt5S2AJ"
+        "name": "Awake Is the New Sleep",
+        "url": "https://open.spotify.com/album/4LiDSTPH86zTRUFnu7tYam"
       },
       "artists": [
         {
-          "name": "DMA'S",
-          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+          "name": "Ben Lee",
+          "url": "https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf"
         }
       ],
-      "duration_ms": 197594,
-      "name": "Believe (Triple J Like A Version)",
-      "url": "https://open.spotify.com/track/24oDOsC6NhYkgKQUcpLBIm"
+      "duration_ms": 254106,
+      "name": "Catch My Disease",
+      "url": "https://open.spotify.com/track/4vqHz44pzFSfDNIE20QRBu"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -987,22 +1003,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Awake Is the New Sleep",
-        "url": "https://open.spotify.com/album/4LiDSTPH86zTRUFnu7tYam"
-      },
-      "artists": [
-        {
-          "name": "Ben Lee",
-          "url": "https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf"
-        }
-      ],
-      "duration_ms": 254106,
-      "name": "Catch My Disease",
-      "url": "https://open.spotify.com/track/4vqHz44pzFSfDNIE20QRBu"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Paint",
         "url": "https://open.spotify.com/album/6J8EzIkd1LeP07kIF77RNz"
       },
@@ -1015,22 +1015,6 @@
       "duration_ms": 259964,
       "name": "True Lovers",
       "url": "https://open.spotify.com/track/5RHY7WkAjAhpxuPN0CTd4F"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "GG",
-        "url": "https://open.spotify.com/album/29zHxPajPzaDJ4CgMVWiHF"
-      },
-      "artists": [
-        {
-          "name": "Great Gable",
-          "url": "https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1"
-        }
-      ],
-      "duration_ms": 243131,
-      "name": "Drift",
-      "url": "https://open.spotify.com/track/2y14MWseQnWXApjJjNCPm8"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "GG",
+        "url": "https://open.spotify.com/album/29zHxPajPzaDJ4CgMVWiHF"
+      },
+      "artists": [
+        {
+          "name": "Great Gable",
+          "url": "https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1"
+        }
+      ],
+      "duration_ms": 243131,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/2y14MWseQnWXApjJjNCPm8"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/0sY90YfWxpjWpnNHV6WxH4"
       },
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Wavy",
-        "url": "https://open.spotify.com/album/7tGgJnG1fE4Mm9EByGCeqk"
-      },
-      "artists": [
-        {
-          "name": "Muroki",
-          "url": "https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Wavy",
-      "url": "https://open.spotify.com/track/6fZmJKpBSqMRx49KaY4waD"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Brodie Street / Daquiri",
         "url": "https://open.spotify.com/album/3ExUufIlgFQJE7l4XRs7Pg"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 276650,
       "name": "Daquiri",
       "url": "https://open.spotify.com/track/2YCN6XAAGD5YLwO5YKBgqa"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Wavy",
+        "url": "https://open.spotify.com/album/7tGgJnG1fE4Mm9EByGCeqk"
+      },
+      "artists": [
+        {
+          "name": "Muroki",
+          "url": "https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Wavy",
+      "url": "https://open.spotify.com/track/6fZmJKpBSqMRx49KaY4waD"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Never Gonna Give You Up",
-        "url": "https://open.spotify.com/album/3g0uQDl6eYPBGsbX9C3axd"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 157787,
-      "name": "Never Gonna Give You Up",
-      "url": "https://open.spotify.com/track/4VmJxOc6dQqgcVmZa8nWGK"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "14 Steps To A Better You",
         "url": "https://open.spotify.com/album/537M91OtVxaFAgF4HYcQKY"
       },
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "HOPE Campaign Tribute Album 2010",
-        "url": "https://open.spotify.com/album/6nKCSPUzU4GLM7cqqYmruM"
+        "name": "Never Gonna Give You Up",
+        "url": "https://open.spotify.com/album/3g0uQDl6eYPBGsbX9C3axd"
       },
       "artists": [
         {
-          "name": "The Beautiful Girls",
-          "url": "https://open.spotify.com/artist/0hDJSg859MdK4c9vqu1dS8"
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
         }
       ],
-      "duration_ms": 257906,
-      "name": "La Mar",
-      "url": "https://open.spotify.com/track/2qrVYBy2PArMwQRVZxFWzz"
+      "duration_ms": 157787,
+      "name": "Never Gonna Give You Up",
+      "url": "https://open.spotify.com/track/4VmJxOc6dQqgcVmZa8nWGK"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1207,6 +1191,22 @@
       "duration_ms": 197663,
       "name": "Everything Is Easy",
       "url": "https://open.spotify.com/track/2ME1Q6GWXOt0oEqBHtDFvY"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "HOPE Campaign Tribute Album 2010",
+        "url": "https://open.spotify.com/album/6nKCSPUzU4GLM7cqqYmruM"
+      },
+      "artists": [
+        {
+          "name": "The Beautiful Girls",
+          "url": "https://open.spotify.com/artist/0hDJSg859MdK4c9vqu1dS8"
+        }
+      ],
+      "duration_ms": 257906,
+      "name": "La Mar",
+      "url": "https://open.spotify.com/track/2qrVYBy2PArMwQRVZxFWzz"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Terra Firma",
+        "url": "https://open.spotify.com/album/7o1gl7In7Onhi6KpQwUDWy"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 279137,
+      "name": "Pretty Lady",
+      "url": "https://open.spotify.com/track/31ys9ZVrUE0HyS2C6ePzpn"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/2pF0SGd7Fokl5dLlu10JiM"
       },
@@ -1291,18 +1307,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Terra Firma",
-        "url": "https://open.spotify.com/album/7o1gl7In7Onhi6KpQwUDWy"
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/0ekOI8LYqNwEBWlzTwXp9n"
       },
       "artists": [
         {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+          "name": "The Waifs",
+          "url": "https://open.spotify.com/artist/5uKeKhwXi2w5cXdtoSaqjz"
         }
       ],
-      "duration_ms": 279137,
-      "name": "Pretty Lady",
-      "url": "https://open.spotify.com/track/31ys9ZVrUE0HyS2C6ePzpn"
+      "duration_ms": 226733,
+      "name": "London Still",
+      "url": "https://open.spotify.com/track/2uoxXaadBpSWEmIXSaVMYi"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1319,22 +1335,6 @@
       "duration_ms": 276196,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/64bEffum8UMASd4IscbCVk"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/0ekOI8LYqNwEBWlzTwXp9n"
-      },
-      "artists": [
-        {
-          "name": "The Waifs",
-          "url": "https://open.spotify.com/artist/5uKeKhwXi2w5cXdtoSaqjz"
-        }
-      ],
-      "duration_ms": 226733,
-      "name": "London Still",
-      "url": "https://open.spotify.com/track/2uoxXaadBpSWEmIXSaVMYi"
     },
     {
       "added_at": "2023-11-15 02:04:48",

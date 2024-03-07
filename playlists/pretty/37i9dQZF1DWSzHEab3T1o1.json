@@ -1,12 +1,12 @@
 {
   "description": "El junte entre las estrellas del dance global y del urbano latino. Foto: Ghetto Kids, Major Lazer, Guaynaa, Tavo Rayo",
-  "num_followers": 7520,
+  "num_followers": 7518,
   "original_name": "Global Dance Crossover",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTJkNzNkOWY5ZjYyZDI3NWJkYzczYTc1OTVlMGM5OTU5MzA2Njg2",
+  "snapshot_id": "MCxiZmE2ZTBmNGNmMmIwZDUyNGQ5NjM1MzBmNDhlNmIyN2VmYTlkZjky",
   "tracks": [
     {
       "added_at": "2021-12-31 04:31:13",
@@ -1055,26 +1055,22 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "ORRO",
-        "url": "https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB"
+        "name": "Neon Future III",
+        "url": "https://open.spotify.com/album/1VFgefav92A6JzlPSUatzV"
       },
       "artists": [
         {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         },
         {
-          "name": "Kura",
-          "url": "https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T"
-        },
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+          "name": "Lauren Jauregui",
+          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
         }
       ],
-      "duration_ms": 193125,
-      "name": "Me Siento Bien (feat. Alex Rose)",
-      "url": "https://open.spotify.com/track/5BG0KmkSTSbnbZpDpgIxER"
+      "duration_ms": 205333,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/0XuRRivDtBqiEdt5lj79zE"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -1123,22 +1119,26 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "Neon Future III",
-        "url": "https://open.spotify.com/album/1VFgefav92A6JzlPSUatzV"
+        "name": "ORRO",
+        "url": "https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB"
       },
       "artists": [
         {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         },
         {
-          "name": "Lauren Jauregui",
-          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
+          "name": "Kura",
+          "url": "https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T"
+        },
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
         }
       ],
-      "duration_ms": 205333,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/0XuRRivDtBqiEdt5lj79zE"
+      "duration_ms": 193125,
+      "name": "Me Siento Bien (feat. Alex Rose)",
+      "url": "https://open.spotify.com/track/5BG0KmkSTSbnbZpDpgIxER"
     }
   ],
   "unique_name": "Global Dance Crossover",

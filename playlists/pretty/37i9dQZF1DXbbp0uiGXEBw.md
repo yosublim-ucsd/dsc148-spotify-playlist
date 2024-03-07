@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Suni Hạ Linh
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,057 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,074 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 49 | [Đừng Dắt Em Đi Lòng Vòng](https://open.spotify.com/track/4JwEvm7fK1GxGSkiwzRZc2) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Đừng Dắt Em Đi Lòng Vòng](https://open.spotify.com/album/3aZXO8RnhN2yWTQh7W8u9s) | 3:25 |
 | 50 | [Hẹn Ước Từ Hư Vô \- Live](https://open.spotify.com/track/2tg8L2ls1k19B2SvRKBnJh) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Hẹn Ước Từ Hư Vô \(Live\)](https://open.spotify.com/album/6hJV3dVl97mP4tTzXsToOT) | 4:07 |
 
-Snapshot ID: `MCw3MTQ5ZmI3ZTJkODE1ZjhjNGIxZmE3ZmVjOTNjY2I1ZDFkOWNjNjBk`
+Snapshot ID: `MCxjYTMwMTJkYmIwODRlMWZjZDk5NzhhMDQ1MjY2NmZjNDAzMmJiYmFi`

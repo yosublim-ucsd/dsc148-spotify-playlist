@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Marie-Mai",
-  "num_followers": 39837,
+  "num_followers": 39836,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWE3M2FlNzYyMzNiYjc1MTBiNDJlOGIzOTIxNTJkYzk3ZjQzNjU5",
+  "snapshot_id": "MCw3YzA0NDc0MWEyY2Y4NDQ2YjM5Y2NlOTVjZDM1ZWMyN2E0YjZmNWI3",
   "tracks": [
     {
       "added_at": "2024-03-01 17:02:07",
@@ -747,6 +747,26 @@
     {
       "added_at": "2024-03-01 17:02:07",
       "album": {
+        "name": "SOLSAD",
+        "url": "https://open.spotify.com/album/6KaCLPY4dFCMiaWGl0EjCn"
+      },
+      "artists": [
+        {
+          "name": "Zamdane",
+          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "duration_ms": 203720,
+      "name": "Loin d'ici",
+      "url": "https://open.spotify.com/track/0yvtWcKzMjrMfwBwQYXAi1"
+    },
+    {
+      "added_at": "2024-03-01 17:02:07",
+      "album": {
         "name": "CIT\u00c9S DE FRANCE",
         "url": "https://open.spotify.com/album/4AQnvq1XEUY73naLsqhixX"
       },
@@ -799,26 +819,6 @@
     {
       "added_at": "2024-03-01 17:02:07",
       "album": {
-        "name": "SOLSAD",
-        "url": "https://open.spotify.com/album/6KaCLPY4dFCMiaWGl0EjCn"
-      },
-      "artists": [
-        {
-          "name": "Zamdane",
-          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        }
-      ],
-      "duration_ms": 203720,
-      "name": "Loin d'ici",
-      "url": "https://open.spotify.com/track/0yvtWcKzMjrMfwBwQYXAi1"
-    },
-    {
-      "added_at": "2024-03-01 17:02:07",
-      "album": {
         "name": "P.M.R.",
         "url": "https://open.spotify.com/album/7lRwTBtOa4iiN9jOXfwKxR"
       },
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-03-01 17:02:07",
       "album": {
+        "name": "Bravo",
+        "url": "https://open.spotify.com/album/4hjUdsAbOJlVTvPjTuWdKu"
+      },
+      "artists": [
+        {
+          "name": "Barbara Pravi",
+          "url": "https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8"
+        }
+      ],
+      "duration_ms": 191479,
+      "name": "Bravo",
+      "url": "https://open.spotify.com/track/36FUspAqaG0UBBRrOXpnsF"
+    },
+    {
+      "added_at": "2024-03-01 17:02:07",
+      "album": {
         "name": "HOOD VOLUME.1",
         "url": "https://open.spotify.com/album/2rQCbziMJIbDjxDKS8ylFu"
       },
@@ -875,18 +891,18 @@
     {
       "added_at": "2024-03-01 17:02:07",
       "album": {
-        "name": "Bravo",
-        "url": "https://open.spotify.com/album/4hjUdsAbOJlVTvPjTuWdKu"
+        "name": "JUNGLE",
+        "url": "https://open.spotify.com/album/5CgC5dMHUU6mKHWxdqjMVi"
       },
       "artists": [
         {
-          "name": "Barbara Pravi",
-          "url": "https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8"
+          "name": "Hatik",
+          "url": "https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU"
         }
       ],
-      "duration_ms": 191479,
-      "name": "Bravo",
-      "url": "https://open.spotify.com/track/36FUspAqaG0UBBRrOXpnsF"
+      "duration_ms": 180000,
+      "name": "JUNGLE",
+      "url": "https://open.spotify.com/track/1AZLauYJZgld6QahY0gcIV"
     },
     {
       "added_at": "2024-03-01 17:02:07",
@@ -903,22 +919,6 @@
       "duration_ms": 177467,
       "name": "Une bonne sant\u00e9 et grave des lards",
       "url": "https://open.spotify.com/track/7Fwchv4I4XW5n57awYvOaj"
-    },
-    {
-      "added_at": "2024-03-01 17:02:07",
-      "album": {
-        "name": "JUNGLE",
-        "url": "https://open.spotify.com/album/5CgC5dMHUU6mKHWxdqjMVi"
-      },
-      "artists": [
-        {
-          "name": "Hatik",
-          "url": "https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "JUNGLE",
-      "url": "https://open.spotify.com/track/1AZLauYJZgld6QahY0gcIV"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

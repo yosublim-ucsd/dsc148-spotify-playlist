@@ -1,12 +1,12 @@
 {
   "description": "\u30b9\u30c8\u30ed\u30dc\u30e9\u30a4\u30c8\u306e\u3088\u3046\u306b\u5149\u308a\u8f1d\u304f\u697d\u66f2\u3067\u3001\u4eca\u65e5\u3068\u3044\u3046\u65e5\u3092\u30b9\u30bf\u30fc\u30c8\u3057\u3088\u3046\u3002 Cover art painted by <a href=\"spotify:artist:2IUl3m1H1EQ7QfNbNWvgru\">Vaundy</a>",
-  "num_followers": 23411,
+  "num_followers": 23433,
   "original_name": "\u30b9\u30c8\u30ed\u30dc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGFjZjZjOGM2MTViZmY1MmEyZGIwMDVmYzkyZWZlN2IxZWQzZjJl",
+  "snapshot_id": "MCw3NTdhOGI1MzRjMmIxNTNjY2Q5NzRlM2M0OTJmODU2NDMwMzJlYjUx",
   "tracks": [
     {
       "added_at": "2024-03-05 15:06:46",
@@ -423,8 +423,8 @@
     {
       "added_at": "2024-03-05 15:06:46",
       "album": {
-        "name": "weekday",
-        "url": "https://open.spotify.com/album/78KVeLhWFA4tDmb7DaMBic"
+        "name": "Weekday",
+        "url": "https://open.spotify.com/album/37176xs2bTWghwyAA67mHd"
       },
       "artists": [
         {
@@ -434,7 +434,7 @@
       ],
       "duration_ms": 215413,
       "name": "BFF",
-      "url": "https://open.spotify.com/track/3YwIFcgXFrTwQMlLpHM0lT"
+      "url": "https://open.spotify.com/track/0UphESovufBGWK0Npk1sHu"
     },
     {
       "added_at": "2024-03-05 15:06:46",
@@ -515,8 +515,8 @@
     {
       "added_at": "2024-03-05 15:06:46",
       "album": {
-        "name": "SAPPORO TOKYO",
-        "url": "https://open.spotify.com/album/1LgMEwqdLiFeScDqcaGP40"
+        "name": "Sapporo Tokyo",
+        "url": "https://open.spotify.com/album/2qRreb6X5DMn1NXr7efii8"
       },
       "artists": [
         {
@@ -529,8 +529,8 @@
         }
       ],
       "duration_ms": 201712,
-      "name": "SAPPORO TOKYO",
-      "url": "https://open.spotify.com/track/61mRQIRRPGxuMUuEra2vFN"
+      "name": "Sapporo Tokyo",
+      "url": "https://open.spotify.com/track/5UfEvgUgUUK7bFg3pgG2WT"
     },
     {
       "added_at": "2024-03-05 15:06:46",
@@ -827,22 +827,18 @@
     {
       "added_at": "2024-03-05 15:06:46",
       "album": {
-        "name": "\u30d6\u30eb\u30fc\u30a2\u30f3\u30d3\u30a8\u30f3\u30b9",
-        "url": "https://open.spotify.com/album/4fbghPZI7ZAQIbO4V7yrVj"
+        "name": "Nagisa",
+        "url": "https://open.spotify.com/album/1AtPpQ0av1ugXZ1QhjMQkK"
       },
       "artists": [
         {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
-        },
-        {
-          "name": "asmi",
-          "url": "https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza"
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 250773,
-      "name": "\u30d6\u30eb\u30fc\u30a2\u30f3\u30d3\u30a8\u30f3\u30b9",
-      "url": "https://open.spotify.com/track/1S1WSh4uCprvucg6Hx57Eh"
+      "duration_ms": 226489,
+      "name": "Nagisa",
+      "url": "https://open.spotify.com/track/0bdAQ9dwLA5cJtgM05PRKW"
     }
   ],
   "unique_name": "\u30b9\u30c8\u30ed\u30dc",

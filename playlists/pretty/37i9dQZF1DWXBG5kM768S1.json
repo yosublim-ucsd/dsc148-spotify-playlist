@@ -1,12 +1,12 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 73440,
+  "num_followers": 73451,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjIzNGRmMmY2MDUxM2Y0NTFjYWE4OTgyY2I5NTcxNzg4M2MxNWZl",
+  "snapshot_id": "MCxiN2E2MjFkNmI5YjBhYmEzNmM1ZWNkODFkZGJlMDZhMjNmYTFmMzAz",
   "tracks": [
     {
       "added_at": "2024-02-15 23:00:00",
@@ -179,22 +179,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Original Nilsen",
-        "url": "https://open.spotify.com/album/60ho1oZFKQpCjkNqQigoSz"
-      },
-      "artists": [
-        {
-          "name": "Lillebj\u00f8rn Nilsen",
-          "url": "https://open.spotify.com/artist/2cEkdzGxcB731g81iUsH6e"
-        }
-      ],
-      "duration_ms": 288078,
-      "name": "God Natt Oslo",
-      "url": "https://open.spotify.com/track/39cEoZCXgx4SFYxnxp3ECu"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "S\u00f8vnlaus",
         "url": "https://open.spotify.com/album/3O6xwlooceiBfpcZRrtqsp"
       },
@@ -227,6 +211,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Original Nilsen",
+        "url": "https://open.spotify.com/album/60ho1oZFKQpCjkNqQigoSz"
+      },
+      "artists": [
+        {
+          "name": "Lillebj\u00f8rn Nilsen",
+          "url": "https://open.spotify.com/artist/2cEkdzGxcB731g81iUsH6e"
+        }
+      ],
+      "duration_ms": 288078,
+      "name": "God Natt Oslo",
+      "url": "https://open.spotify.com/track/39cEoZCXgx4SFYxnxp3ECu"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Godmorgen, s\u00f8ster",
         "url": "https://open.spotify.com/album/2io6ZizFfn0SkBpw1oRa4G"
       },
@@ -247,22 +247,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
-        "url": "https://open.spotify.com/album/6lsJTzNFipM2N8zNf9lXmP"
-      },
-      "artists": [
-        {
-          "name": "Eva Weel Skram",
-          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
-        }
-      ],
-      "duration_ms": 266328,
-      "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
-      "url": "https://open.spotify.com/track/6oJLgaS6Py1tSKAJTKSe5K"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Jippi",
         "url": "https://open.spotify.com/album/4oofUdb8zptFJzi5AlhQ6u"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 259986,
       "name": "Det Fine Vi Hadd' Sammen",
       "url": "https://open.spotify.com/track/6xndjhJtBSxxL7bcZdAiEJ"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
+        "url": "https://open.spotify.com/album/6lsJTzNFipM2N8zNf9lXmP"
+      },
+      "artists": [
+        {
+          "name": "Eva Weel Skram",
+          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
+        }
+      ],
+      "duration_ms": 266328,
+      "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
+      "url": "https://open.spotify.com/track/6oJLgaS6Py1tSKAJTKSe5K"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -483,6 +483,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Bru over m\u00f8rke b\u00f8lger",
+        "url": "https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4"
+      },
+      "artists": [
+        {
+          "name": "Trygve Skaug",
+          "url": "https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n"
+        }
+      ],
+      "duration_ms": 299333,
+      "name": "Bru over m\u00f8rke b\u00f8lger",
+      "url": "https://open.spotify.com/track/0BX8d3ykK2rTOI3W5ZMdaf"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Savner deg",
         "url": "https://open.spotify.com/album/46EIkYVs24rJ0xG04KA9z7"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 181282,
       "name": "Savner deg",
       "url": "https://open.spotify.com/track/0c6jUUUPSRPhXrmPsvsBJt"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Bru over m\u00f8rke b\u00f8lger",
-        "url": "https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4"
-      },
-      "artists": [
-        {
-          "name": "Trygve Skaug",
-          "url": "https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n"
-        }
-      ],
-      "duration_ms": 299333,
-      "name": "Bru over m\u00f8rke b\u00f8lger",
-      "url": "https://open.spotify.com/track/0BX8d3ykK2rTOI3W5ZMdaf"
     },
     {
       "added_at": "2024-02-15 23:00:00",

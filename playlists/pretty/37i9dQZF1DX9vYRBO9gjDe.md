@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。3月4日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,388 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,429 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [クラゲ](https://open.spotify.com/track/4LfX1AKyjrYsAYPlwTYb7v) | [悠馬](https://open.spotify.com/artist/47kIb7z5wndfkWHdRN34kO) | [クラゲ](https://open.spotify.com/album/708sy9MxbWF3c1TqRlOlqU) | 3:45 |
 | 50 | [Von dutch](https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Von dutch](https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw) | 2:44 |
 
-Snapshot ID: `MCwyZDViYzVhNWEyODRlMmFhMzQ0ZWZmMDA3NzE3NWE0NTFhZWU3NTdh`
+Snapshot ID: `MCw3MmQ3ZDUxN2ZkMGZhNzY2NmMyMDM5NGQxNzg4OWVlYTVkNzU1ZjQ2`

@@ -4,7 +4,7 @@
 
 > Favorite songs of 2024 plus some of his favorite summer songs\. Includes Summer 23, 22, &amp; 21 editions + bonus tracks.
 
-3,054 songs - 7 day 5 hr 54 min
+3,057 songs - 7 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -479,6 +479,7 @@
 | [Cause You \- Audiophant Remix](https://open.spotify.com/track/74Gwjdty1Xnk32JFelywKE) | [Kai Gilberg](https://open.spotify.com/artist/2ZbqKME5RJGEoQcYK18u0f), [Audiophant](https://open.spotify.com/artist/3Snq7H5Np406AwJFCJcz6s) | [Cause You \(AudioPHANT RMX\)](https://open.spotify.com/album/30yabqVjDvEyMaZXvN04rt) | 3:10 | 2021-09-24 | 2021-10-09 |
 | [Caution](https://open.spotify.com/track/3vqkBNC9VJu23WhOAOIUio) | [Ethan Russell](https://open.spotify.com/artist/3MoGNeiVaOJvJSUzUsyKtc) | [It's Been Rough](https://open.spotify.com/album/0UCgT2KUhcpwaYMQe4YVk9) | 3:04 | 2023-05-26 | 2023-06-17 |
 | [Cayendo \(Side A \- Acoustic\)](https://open.spotify.com/track/72794Eag03xdy7TO0KNuid) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Cayendo \(Side A \- Acoustic\)](https://open.spotify.com/album/0FAWfXvd58Rm2VUSZMF8pr) | 3:22 | 2020-08-20 | 2023-08-28 |
+| [cc'd in A PRAYER](https://open.spotify.com/track/1AmotkkZlI0nhOhWGmo2Fh) | [SVRHVT SVLVÆR](https://open.spotify.com/artist/3sD1y0eyjlWbk9lHSYVtKq), [G∞D NΣSS](https://open.spotify.com/artist/3YETJkltpozTKrYKPrWGlP) | [cc'd in A PRAYER](https://open.spotify.com/album/60hM9GtV5AMnBhJ7O1mKRg) | 4:18 | 2024-03-07 |  |
 | [Celebrate](https://open.spotify.com/track/1FK8IoeJXZs9nhd1581l4i) | [Alan J](https://open.spotify.com/artist/4iVIoFwLhcfhtW4kaWLOf6) | [Celebrate](https://open.spotify.com/album/4KhbVWJJ9U8A4Vg9EzPBOM) | 3:18 | 2023-06-17 | 2023-07-09 |
 | [Celebrate](https://open.spotify.com/track/2pQNSIzZNcdtNLDpzWTHaB) | [The Billy David Band](https://open.spotify.com/artist/6u9z7gzBaTh5teJlnEhTns) | [Turning Corners](https://open.spotify.com/album/4HpdCU3Wv6Kvv9xavabg5J) | 3:13 | 2024-02-03 | 2024-02-11 |
 | [Celestials](https://open.spotify.com/track/5DibC4NHEYNdk2SuFYy3j8) | [Jubilee](https://open.spotify.com/artist/7zKQ5oAIpVJVatbxtxcTBe) | [Celestials](https://open.spotify.com/album/1oWIABkbDlEJZLBSEUdCyi) | 3:05 | 2019-12-15 | 2019-12-27 |
@@ -2052,6 +2053,7 @@
 | [Perception Is the Key](https://open.spotify.com/track/5MZWSkF9nqKB1cEdyAZF96) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Perception Is the Key](https://open.spotify.com/album/4Y2WN3LD4UPzA8y6D8KtZR) | 4:11 | 2021-03-17 | 2021-04-02 |
 | [Perdonarla](https://open.spotify.com/track/5ET1loHj9dqnG0RP9KQKRT) | [Marlon Morato](https://open.spotify.com/artist/0nqFO43aXcg9YIs2a46TX6), [FrankPal](https://open.spotify.com/artist/3QQcFHQIISsL3ahXEkYULw), [Luis Sanchez](https://open.spotify.com/artist/2MxUWFDb6clmgip0srJLK6) | [Aires](https://open.spotify.com/album/7rXfsvk9vdGsMO73eCIAFd) | 4:11 | 2024-01-07 | 2024-01-22 |
 | [Perdóname](https://open.spotify.com/track/5ahVnsqmIfFHbKa0xR2at1) | [Sabela Cereijo](https://open.spotify.com/artist/7nS9GZQCkyrZ8lx1hW5V1F) | [Perdóname](https://open.spotify.com/album/2kOEdIO9jimjCC4vN7aJJg) | 3:49 | 2023-07-08 | 2023-07-21 |
+| [Perfect](https://open.spotify.com/track/4ZrmYF00kTNpLcDJh88yT9) | [Carmen Forbes](https://open.spotify.com/artist/4XY6mCv2cLDP5bSYILeHk5) | [Perfect](https://open.spotify.com/album/5ya1QL2eIOMcjSz1phmucr) | 3:25 | 2024-03-06 |  |
 | [Perfume](https://open.spotify.com/track/6AbliSoMCorJndWvFKd4tv) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Perfume](https://open.spotify.com/album/1MiLRX7c21dXMNshbyPjcS) | 3:15 | 2022-06-02 | 2022-06-17 |
 | [Perfume Factory](https://open.spotify.com/track/63jweZw2hIntUxwqrwO1FB) | [Most Unlikely](https://open.spotify.com/artist/19aotCWaO0iyku8ns8kyLg), [Rich Austin](https://open.spotify.com/artist/2EHPDKgWHuaXkeCAW4XbSX) | [Perfume Factory](https://open.spotify.com/album/3ShM0FaqIs5lZOJoic8SP4) | 3:18 | 2022-04-29 | 2022-05-15 |
 | [Permanent Waves](https://open.spotify.com/track/4Iwv9DF9Le1JSIyAsBYpUZ) | [Gentleman Brawlers](https://open.spotify.com/artist/2EgJWFnBz1BwghflScfD0O), [Josh Salt](https://open.spotify.com/artist/6MKd8F1rHwj0xIywoOUYqp) | [Permanent Waves](https://open.spotify.com/album/3TwsR8kYukt0uYwGVkH6mE) | 5:12 | 2023-04-28 | 2023-05-16 |
@@ -2092,6 +2094,7 @@
 | [Potions \- Acoustic](https://open.spotify.com/track/2IKGiOdGUhIJ6JChvmSjob) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy) | [Potions \(Acoustic\)](https://open.spotify.com/album/2btxN0BuABBqyzpSGKgptR) | 3:23 | 2020-03-11 | 2020-04-09 |
 | [Praise You](https://open.spotify.com/track/10yY7i70r9wtllofw0GIpx) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You've Come a Long Way Baby](https://open.spotify.com/album/2ELLu16F9TTREQuU4OuAnN) | 5:24 | 2022-07-26 |  |
 | [Preach](https://open.spotify.com/track/108RyMYug0hkC4awLjqjqo) | [Sir Jude](https://open.spotify.com/artist/1okdhcXCnhCsMGzPmDmDzG), [Maxim](https://open.spotify.com/artist/4u9qdvmpsHXYqL6PIxu9Dd) | [Preach](https://open.spotify.com/album/2D8gvmZO1Wtw2VLqqIzWMd) | 4:10 | 2022-09-16 | 2022-10-04 |
+| [Precipice](https://open.spotify.com/track/5njvrCwgVM3Sj45LgHPw17) | [Free Whenever](https://open.spotify.com/artist/3bSsyMPujHM45QOvf6M6he) | [Precipice](https://open.spotify.com/album/3DSZxmXYojfIviKRdizGld) | 3:42 | 2024-03-06 |  |
 | [Premonitions](https://open.spotify.com/track/5hwKr4PVjKMNv8nle0NVWr) | [Jorj Sabio](https://open.spotify.com/artist/39b2ZUCY5oOcDQFFkwbrKs), [Graver](https://open.spotify.com/artist/38wcGG4YmXZlt5mbqU2Yxf) | [Premonitions](https://open.spotify.com/album/0DS8i2rqo6QADdDNXNbzNE) | 4:11 | 2023-08-24 | 2023-09-26 |
 | [preshure](https://open.spotify.com/track/6Hvh3BG1CXohwLlp1CTpJx) | [Annie Omalley](https://open.spotify.com/artist/0TEaL7Y50jr7N3mjxqFGBK) | [preshure](https://open.spotify.com/album/6GQyE6jbtClKvRZEdGFhsY) | 3:34 | 2022-09-09 | 2022-09-25 |
 | [Pretend Goodbye](https://open.spotify.com/track/7xGpghpnQHIphKwvSUtYTi) | [Houis](https://open.spotify.com/artist/3bjJEXLyXKBFUx6MOj3wlF), [Blush'ko](https://open.spotify.com/artist/2HIOco7R2mZPqBSL2SMIFw) | [Pretend Goodbye](https://open.spotify.com/album/53BVYFhYGuZdfNsZY0wRHJ) | 3:38 | 2020-02-16 | 2020-02-24 |

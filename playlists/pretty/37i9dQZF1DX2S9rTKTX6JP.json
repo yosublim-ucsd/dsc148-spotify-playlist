@@ -1,12 +1,12 @@
 {
   "description": "killer rock & alternative covers. Cover: Paramore",
-  "num_followers": 671594,
+  "num_followers": 671690,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNThiMWRiMWJjYTRhZDE1NzQyZmM5NTAxMmVlY2Q0MWI2MGM4YTIw",
+  "snapshot_id": "MCwxYzM0NDk5NWQzZGVkYjQzOTU5MDk4Mjg3ZDI5MjFkZDc1YTQ2N2Y1",
   "tracks": [
     {
       "added_at": "2024-02-12 05:08:07",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/6bGjpzX1wMp0NYX3ZiPUnf"
-      },
-      "artists": [
-        {
-          "name": "Nicotine Dolls",
-          "url": "https://open.spotify.com/artist/72gC2IIj21UAPKneFwl4NM"
-        }
-      ],
-      "duration_ms": 228948,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/4DsxMZjoeXSI3dpQC0kCOj"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "Wicked Game",
         "url": "https://open.spotify.com/album/2O2H1tIxeEf4wFCBj7NWtO"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 109900,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/7lWkrcZmi7HiKsKjth2T0L"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/6bGjpzX1wMp0NYX3ZiPUnf"
+      },
+      "artists": [
+        {
+          "name": "Nicotine Dolls",
+          "url": "https://open.spotify.com/artist/72gC2IIj21UAPKneFwl4NM"
+        }
+      ],
+      "duration_ms": 228948,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/4DsxMZjoeXSI3dpQC0kCOj"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1203,30 +1203,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 233362,
-      "name": "(I Can\u2019t Get No) Satisfaction",
-      "url": "https://open.spotify.com/track/2vw3beLeIQSgMxi72RnJHn"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "How To Save A Life",
         "url": "https://open.spotify.com/album/38ff67UQftBcR3DnBMSsyW"
       },
@@ -1239,6 +1215,22 @@
       "duration_ms": 218354,
       "name": "How To Save A Life",
       "url": "https://open.spotify.com/track/73TAUoeGvM7YPA8huwA9Yp"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "Don't Worry About Me",
+        "url": "https://open.spotify.com/album/3hltYmpx3K2z2C2nlRLv7N"
+      },
+      "artists": [
+        {
+          "name": "Joey Ramone",
+          "url": "https://open.spotify.com/artist/7dxF7y4hlGFazdArMsxbEx"
+        }
+      ],
+      "duration_ms": 143360,
+      "name": "What a Wonderful World",
+      "url": "https://open.spotify.com/track/3Kgz8aGqtXJFyihsSuNAWO"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1259,18 +1251,26 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Don't Worry About Me",
-        "url": "https://open.spotify.com/album/3hltYmpx3K2z2C2nlRLv7N"
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
       },
       "artists": [
         {
-          "name": "Joey Ramone",
-          "url": "https://open.spotify.com/artist/7dxF7y4hlGFazdArMsxbEx"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 143360,
-      "name": "What a Wonderful World",
-      "url": "https://open.spotify.com/track/3Kgz8aGqtXJFyihsSuNAWO"
+      "duration_ms": 233362,
+      "name": "(I Can\u2019t Get No) Satisfaction",
+      "url": "https://open.spotify.com/track/2vw3beLeIQSgMxi72RnJHn"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "The Promise",
-        "url": "https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 205146,
-      "name": "Because the Night",
-      "url": "https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "Punk Goes 90's, Vol. 2",
         "url": "https://open.spotify.com/album/4OEnCG1PkPtwNwuIcb0Whv"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 225920,
       "name": "Torn",
       "url": "https://open.spotify.com/track/4mBJUbN4VLcpT36O4uf8t3"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "The Promise",
+        "url": "https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 205146,
+      "name": "Because the Night",
+      "url": "https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Wild Card/A Word To The Wise",
-        "url": "https://open.spotify.com/album/3YpA1wk8b1yLCYBDb8PS0r"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "Stand By Me",
-      "url": "https://open.spotify.com/track/4jpYBxEFpa1Rdw1yAXVSAZ"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "Lungs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 199386,
       "name": "Addicted To Love",
       "url": "https://open.spotify.com/track/3fNuoybebaufvtFBo5TDWO"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "Wild Card/A Word To The Wise",
+        "url": "https://open.spotify.com/album/3YpA1wk8b1yLCYBDb8PS0r"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/4jpYBxEFpa1Rdw1yAXVSAZ"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1747,18 +1747,18 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Come What(ever) May [Special Edition]",
-        "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
+        "name": "Goes to the Movies (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4ZgrTd5XdnWWwmfXGJMGAV"
       },
       "artists": [
         {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+          "name": "Bowling For Soup",
+          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
         }
       ],
-      "duration_ms": 267253,
-      "name": "Wicked Game - Acoustic; Live",
-      "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
+      "duration_ms": 209586,
+      "name": "...Baby One More Time",
+      "url": "https://open.spotify.com/track/1wb2o0e5qrwSSoDUVIz6WM"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1783,18 +1783,18 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Goes to the Movies (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4ZgrTd5XdnWWwmfXGJMGAV"
+        "name": "Come What(ever) May [Special Edition]",
+        "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
       },
       "artists": [
         {
-          "name": "Bowling For Soup",
-          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
         }
       ],
-      "duration_ms": 209586,
-      "name": "...Baby One More Time",
-      "url": "https://open.spotify.com/track/1wb2o0e5qrwSSoDUVIz6WM"
+      "duration_ms": 267253,
+      "name": "Wicked Game - Acoustic; Live",
+      "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "At Night We Live",
-        "url": "https://open.spotify.com/album/1hHLV0qtV4X9O1iAoVQP3i"
-      },
-      "artists": [
-        {
-          "name": "Far",
-          "url": "https://open.spotify.com/artist/0GQXHlIz6zMT0IeXQq26Pt"
-        }
-      ],
-      "duration_ms": 262746,
-      "name": "Pony",
-      "url": "https://open.spotify.com/track/108U9FAOtfHOAIGdHG12Fc"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/31LKYg7MAykCp1E7DSRox6"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 236450,
       "name": "Personal Jesus - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0KXYrQAqpAREiCi4pB5fO9"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "At Night We Live",
+        "url": "https://open.spotify.com/album/1hHLV0qtV4X9O1iAoVQP3i"
+      },
+      "artists": [
+        {
+          "name": "Far",
+          "url": "https://open.spotify.com/artist/0GQXHlIz6zMT0IeXQq26Pt"
+        }
+      ],
+      "duration_ms": 262746,
+      "name": "Pony",
+      "url": "https://open.spotify.com/track/108U9FAOtfHOAIGdHG12Fc"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -2279,22 +2279,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Instant Karma: The Amnesty International Campaign To Save Darfur (Standard Version)",
-        "url": "https://open.spotify.com/album/5hJwAMtrAvp9cGLhR3ZmYN"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 263733,
-      "name": "Working Class Hero",
-      "url": "https://open.spotify.com/track/1rls1uw64JiGI2O7MZABWj"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "Wait",
         "url": "https://open.spotify.com/album/7nI7V6Sc70en38PPnjPAKE"
       },
@@ -2307,6 +2291,22 @@
       "duration_ms": 323666,
       "name": "Lithium",
       "url": "https://open.spotify.com/track/4IEn8Os5XMZpIRF9xX74Aj"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "Instant Karma: The Amnesty International Campaign To Save Darfur (Standard Version)",
+        "url": "https://open.spotify.com/album/5hJwAMtrAvp9cGLhR3ZmYN"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 263733,
+      "name": "Working Class Hero",
+      "url": "https://open.spotify.com/track/1rls1uw64JiGI2O7MZABWj"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -2419,6 +2419,22 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
+        "name": "B-Sides & Rarities",
+        "url": "https://open.spotify.com/album/0UArfu79AC2LrQ6lsvohp5"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 330653,
+      "name": "No Ordinary Love - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2lwkf3MVqTYmo5NoAoWFqN"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
         "name": "White Room (feat. Jacoby Shaddix)",
         "url": "https://open.spotify.com/album/06y3HY4YTWEQxMPgCK6oEy"
       },
@@ -2435,22 +2451,6 @@
       "duration_ms": 245757,
       "name": "White Room (feat. Jacoby Shaddix)",
       "url": "https://open.spotify.com/track/1rsQ4JPGrMDAW9OZb4ChL6"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
-        "name": "B-Sides & Rarities",
-        "url": "https://open.spotify.com/album/0UArfu79AC2LrQ6lsvohp5"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 330653,
-      "name": "No Ordinary Love - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2lwkf3MVqTYmo5NoAoWFqN"
     },
     {
       "added_at": "2024-02-12 05:08:07",

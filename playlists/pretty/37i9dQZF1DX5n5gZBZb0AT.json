@@ -1,12 +1,12 @@
 {
   "description": "all gains",
-  "num_followers": 383589,
+  "num_followers": 384354,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTQyZjMxM2ZlN2Y5NzAxYzhiYzcxOWZiYjA2NjFhNDE3ZGVlMGM3",
+  "snapshot_id": "MCxmYjRiMDBkNTNhZGVmNjIyNGRiN2RhNDY1MWFkNWI4YjI0ODFmYWI4",
   "tracks": [
     {
       "added_at": "2024-02-13 14:13:34",
@@ -179,6 +179,22 @@
     {
       "added_at": "2024-02-13 14:13:34",
       "album": {
+        "name": "BRODYAGA FUNK",
+        "url": "https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0"
+      },
+      "artists": [
+        {
+          "name": "Eternxlkz",
+          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
+        }
+      ],
+      "duration_ms": 134785,
+      "name": "BRODYAGA FUNK",
+      "url": "https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp"
+    },
+    {
+      "added_at": "2024-02-13 14:13:34",
+      "album": {
         "name": "Orquestra Maldita",
         "url": "https://open.spotify.com/album/6DptPhwLku8xvWBodULnC6"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 119777,
       "name": "Orquestra Maldita",
       "url": "https://open.spotify.com/track/7hcagAQDiI0TgUOv337NIr"
-    },
-    {
-      "added_at": "2024-02-13 14:13:34",
-      "album": {
-        "name": "BRODYAGA FUNK",
-        "url": "https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0"
-      },
-      "artists": [
-        {
-          "name": "Eternxlkz",
-          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
-        }
-      ],
-      "duration_ms": 134785,
-      "name": "BRODYAGA FUNK",
-      "url": "https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp"
     },
     {
       "added_at": "2024-02-13 14:13:34",
@@ -367,6 +367,26 @@
     {
       "added_at": "2024-02-13 14:13:34",
       "album": {
+        "name": "Step Back!",
+        "url": "https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        },
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        }
+      ],
+      "duration_ms": 150674,
+      "name": "Step Back!",
+      "url": "https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j"
+    },
+    {
+      "added_at": "2024-02-13 14:13:34",
+      "album": {
         "name": "WORTH NOTHING (feat. Oliver Tree) [Fast & Furious: Drift Tape/Phonk Vol 1]",
         "url": "https://open.spotify.com/album/1nyfZlIOe109tZTrpR3z8h"
       },
@@ -387,26 +407,6 @@
       "duration_ms": 164629,
       "name": "WORTH NOTHING (feat. Oliver Tree) - Fast & Furious: Drift Tape/Phonk Vol 1",
       "url": "https://open.spotify.com/track/3PjbA0O5olhampPMdaB0V1"
-    },
-    {
-      "added_at": "2024-02-13 14:13:34",
-      "album": {
-        "name": "Step Back!",
-        "url": "https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl"
-      },
-      "artists": [
-        {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
-        },
-        {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
-        }
-      ],
-      "duration_ms": 150674,
-      "name": "Step Back!",
-      "url": "https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j"
     },
     {
       "added_at": "2024-02-13 14:13:34",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-02-13 14:13:34",
       "album": {
-        "name": "REI DO BRASIL",
-        "url": "https://open.spotify.com/album/5rDznSixlUXNxJySfWQNb7"
-      },
-      "artists": [
-        {
-          "name": "Seek",
-          "url": "https://open.spotify.com/artist/3qycxIGAHj1KyoAQ6PGCO6"
-        }
-      ],
-      "duration_ms": 97846,
-      "name": "REI DO BRASIL",
-      "url": "https://open.spotify.com/track/6Seth37t5I69wFbuGFrsiG"
-    },
-    {
-      "added_at": "2024-02-13 14:13:34",
-      "album": {
         "name": "Sequ\u00eancia da Dz7",
         "url": "https://open.spotify.com/album/3BsuqyYCV0DYIBrDi1SKwQ"
       },
@@ -651,6 +635,42 @@
       "duration_ms": 119231,
       "name": "Sequ\u00eancia da Dz7",
       "url": "https://open.spotify.com/track/0hEjvk5rMwLzt9rUcFmZG7"
+    },
+    {
+      "added_at": "2024-02-22 21:19:13",
+      "album": {
+        "name": "We Fell Apart",
+        "url": "https://open.spotify.com/album/3JyuOXGEoGuRSgJDDxwOCO"
+      },
+      "artists": [
+        {
+          "name": "overrated",
+          "url": "https://open.spotify.com/artist/5eZ9mxslGvxjRBTWbRfMfV"
+        },
+        {
+          "name": "Akucum",
+          "url": "https://open.spotify.com/artist/4iNoUF5jEZLr28VHuxHN9y"
+        }
+      ],
+      "duration_ms": 155480,
+      "name": "We Fell Apart - Slowed",
+      "url": "https://open.spotify.com/track/4oExAGoqR0JWK628dYaQ2f"
+    },
+    {
+      "added_at": "2024-02-13 14:13:34",
+      "album": {
+        "name": "REI DO BRASIL",
+        "url": "https://open.spotify.com/album/5rDznSixlUXNxJySfWQNb7"
+      },
+      "artists": [
+        {
+          "name": "Seek",
+          "url": "https://open.spotify.com/artist/3qycxIGAHj1KyoAQ6PGCO6"
+        }
+      ],
+      "duration_ms": 97846,
+      "name": "REI DO BRASIL",
+      "url": "https://open.spotify.com/track/6Seth37t5I69wFbuGFrsiG"
     },
     {
       "added_at": "2024-02-13 14:13:34",
@@ -683,26 +703,6 @@
       "duration_ms": 105789,
       "name": "AVOID ME",
       "url": "https://open.spotify.com/track/5FX30idriKlEIRYTxpNf65"
-    },
-    {
-      "added_at": "2024-02-22 21:19:13",
-      "album": {
-        "name": "We Fell Apart",
-        "url": "https://open.spotify.com/album/3JyuOXGEoGuRSgJDDxwOCO"
-      },
-      "artists": [
-        {
-          "name": "overrated",
-          "url": "https://open.spotify.com/artist/5eZ9mxslGvxjRBTWbRfMfV"
-        },
-        {
-          "name": "Akucum",
-          "url": "https://open.spotify.com/artist/4iNoUF5jEZLr28VHuxHN9y"
-        }
-      ],
-      "duration_ms": 155480,
-      "name": "We Fell Apart - Slowed",
-      "url": "https://open.spotify.com/track/4oExAGoqR0JWK628dYaQ2f"
     },
     {
       "added_at": "2024-02-13 14:13:34",

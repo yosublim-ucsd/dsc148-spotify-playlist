@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Charli XCX, Miley Cyrus & Pharrell, Cardi B, Kacey Musgraves, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,163,504 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,163,664 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 78 | [2AM in London](https://open.spotify.com/track/2MG0gRnnPFFMLKPF4ZH8uP) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [2AM in London](https://open.spotify.com/album/07pnM1TEU8McjEe4gw1SGQ) | 3:03 |
 | 79 | [Soy un HP](https://open.spotify.com/track/70GjuOgd1NuiPTs82JBIUn) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Soy un HP](https://open.spotify.com/album/6tg2yjTAqpo2o8uInNcS4R) | 2:26 |
 | 80 | [You Don't Call Me](https://open.spotify.com/track/1t7bjA1KnsOmxIbvfi7WMc) | [PxRRY](https://open.spotify.com/artist/0PsWfG0oEt3Oz7Vlur7pkE), [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [You Don't Call Me](https://open.spotify.com/album/3RlJ4V1jScGEXcwajF3BkM) | 2:27 |
-| 81 | [JAPANESE DENIM \(feat\. Veeze\)](https://open.spotify.com/track/7IRBVTWua5balW0xUJHmUF) | [DaeMoney](https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg), [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [JAPANESE DENIM \(feat\. Veeze\)](https://open.spotify.com/album/5m3BPYBaanarQy8hXJ7XoZ) | 2:07 |
+| 81 | [JAPANESE DENIM \(feat\. Veeze & LUCKI\)](https://open.spotify.com/track/7IRBVTWua5balW0xUJHmUF) | [DaeMoney](https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [JAPANESE DENIM \(feat\. Veeze & LUCKI\)](https://open.spotify.com/album/5m3BPYBaanarQy8hXJ7XoZ) | 2:07 |
 | 82 | [The P\*ssy Song](https://open.spotify.com/track/6WN4iIsMU0BK3irBvKCAIi) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [The P\*ssy Song](https://open.spotify.com/album/7hut1MKOSHcWIXdN6jSmQf) | 2:57 |
 | 83 | [Runny Nose](https://open.spotify.com/track/29X75JVa4OIZj5qzSgFeSc) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt), [NKY](https://open.spotify.com/artist/67usISVrpOi72VkrfmVTDC) | [Runny Nose](https://open.spotify.com/album/5Mwq1cbA0AauGI8Xu5vJ34) | 2:41 |
 | 84 | [Around The World](https://open.spotify.com/track/6UuztYLGwhpTsH0ploTJgm) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU) | [Around The World](https://open.spotify.com/album/0abkIwIKwvsY5jmbS46zpY) | 1:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [You Were Mine](https://open.spotify.com/track/0nt9QNF9rY5mPTAV9Nn9yH) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [You Were Mine](https://open.spotify.com/album/674xNsjLRyL3aDeWG3Zmcc) | 2:51 |
 | 100 | [Only You Satisfy](https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 5:12 |
 
-Snapshot ID: `MCw3Y2RhNDA5OTNiN2Q3YjMxYWY1NTBiNTI2OGE1YmZjMDU5N2JjNjc4`
+Snapshot ID: `MCxkMDdlMGMwODI5ZWQ2MWEzZTczOWIzN2I1NjdiZGRhOTlkZTdlMWJk`

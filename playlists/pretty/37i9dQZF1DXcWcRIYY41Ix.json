@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Natalia Lafourcade y Kevin Johansen.",
-  "num_followers": 121789,
+  "num_followers": 121819,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGRkYWUwMDQ1MDI1YjRiZDFhNjNmZDMxMDZhYTYzMjljNmJhZWIz",
+  "snapshot_id": "MCwzNTk3NzRkNjBmNGYzYTY2YzViN2Y3OWMyMTFhNzhhZTRhYWY5Njli",
   "tracks": [
     {
       "added_at": "2024-03-01 06:00:00",
@@ -647,18 +647,22 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "El Perro Feroz",
-        "url": "https://open.spotify.com/album/7IZ6Ez4uj3Vo0WPQrrGXlp"
+        "name": "Dos Hemisferios",
+        "url": "https://open.spotify.com/album/0qOwKIT9GbWmRMUNi84yF8"
       },
       "artists": [
         {
-          "name": "Anthony Escand\u00f3n",
-          "url": "https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J"
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        },
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
         }
       ],
-      "duration_ms": 140928,
-      "name": "Diente de Le\u00f3n",
-      "url": "https://open.spotify.com/track/2gdBOt1AKjkoZyO7C3MUFy"
+      "duration_ms": 215931,
+      "name": "Dos Hemisferios",
+      "url": "https://open.spotify.com/track/3oV54WIjzyy9Bi1dFUtfN4"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -679,22 +683,18 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "Dos Hemisferios",
-        "url": "https://open.spotify.com/album/0qOwKIT9GbWmRMUNi84yF8"
+        "name": "El Perro Feroz",
+        "url": "https://open.spotify.com/album/7IZ6Ez4uj3Vo0WPQrrGXlp"
       },
       "artists": [
         {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
-        },
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+          "name": "Anthony Escand\u00f3n",
+          "url": "https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J"
         }
       ],
-      "duration_ms": 215931,
-      "name": "Dos Hemisferios",
-      "url": "https://open.spotify.com/track/3oV54WIjzyy9Bi1dFUtfN4"
+      "duration_ms": 140928,
+      "name": "Diente de Le\u00f3n",
+      "url": "https://open.spotify.com/track/2gdBOt1AKjkoZyO7C3MUFy"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -967,6 +967,22 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
+        "name": "NACE UNA MADRE",
+        "url": "https://open.spotify.com/album/286YluPG1sKO5CIu5rLXU7"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 144545,
+      "name": "NACE UNA MADRE",
+      "url": "https://open.spotify.com/track/2ivyQI1riB7LCTXwHiQ2xb"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
         "name": "Brindo",
         "url": "https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn"
       },
@@ -983,18 +999,18 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "NACE UNA MADRE",
-        "url": "https://open.spotify.com/album/286YluPG1sKO5CIu5rLXU7"
+        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
+        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
       },
       "artists": [
         {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+          "name": "Mar\u00eda Cristina Plata",
+          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
         }
       ],
-      "duration_ms": 144545,
-      "name": "NACE UNA MADRE",
-      "url": "https://open.spotify.com/track/2ivyQI1riB7LCTXwHiQ2xb"
+      "duration_ms": 183152,
+      "name": "Cuando los A\u00f1os Pasen",
+      "url": "https://open.spotify.com/track/6u1FdgL0eDeYOVrBxkvXF8"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1015,22 +1031,6 @@
       "duration_ms": 157928,
       "name": "Continuar",
       "url": "https://open.spotify.com/track/18PTMhSPFPlHl1aY1vUqjL"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
-        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
-        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Cristina Plata",
-          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
-        }
-      ],
-      "duration_ms": 183152,
-      "name": "Cuando los A\u00f1os Pasen",
-      "url": "https://open.spotify.com/track/6u1FdgL0eDeYOVrBxkvXF8"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1091,6 +1091,38 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
+        "name": "Intensos",
+        "url": "https://open.spotify.com/album/5Obfw8ABRhqjr1yG4rFayJ"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/2IoQlYwKwMFJ9Kn8jIZxG9"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Intensos",
+      "url": "https://open.spotify.com/track/19bVAydJuAVGXAF49ddJ3r"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/07lKXcTObjoJTSbZ3ja38O"
+      },
+      "artists": [
+        {
+          "name": "Ainoa Buitrago",
+          "url": "https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7"
+        }
+      ],
+      "duration_ms": 171744,
+      "name": "23",
+      "url": "https://open.spotify.com/track/3en9r8oxZAF08fshqAaswq"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
         "name": "Soy lo que Doy",
         "url": "https://open.spotify.com/album/7mBvWresKJvNwLWP10yW7X"
       },
@@ -1123,22 +1155,6 @@
       "duration_ms": 219967,
       "name": "Inmensamente Fr\u00e1gil",
       "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
-        "name": "Intensos",
-        "url": "https://open.spotify.com/album/5Obfw8ABRhqjr1yG4rFayJ"
-      },
-      "artists": [
-        {
-          "name": "Joaqu\u00edn Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/2IoQlYwKwMFJ9Kn8jIZxG9"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Intensos",
-      "url": "https://open.spotify.com/track/19bVAydJuAVGXAF49ddJ3r"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1195,22 +1211,6 @@
       "duration_ms": 236756,
       "name": "Ahora",
       "url": "https://open.spotify.com/track/3o6rq0a3BsvoIgRvm0Fdcz"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/07lKXcTObjoJTSbZ3ja38O"
-      },
-      "artists": [
-        {
-          "name": "Ainoa Buitrago",
-          "url": "https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7"
-        }
-      ],
-      "duration_ms": 171744,
-      "name": "23",
-      "url": "https://open.spotify.com/track/3en9r8oxZAF08fshqAaswq"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
+        "name": "Fotograf\u00edas de Espa\u00f1a",
+        "url": "https://open.spotify.com/album/2hob96jwRqls6wbZuqfppl"
+      },
+      "artists": [
+        {
+          "name": "Roy Borland",
+          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "El Primer Beso de Verdad",
+      "url": "https://open.spotify.com/track/5QmV6BH60x7BLqYLrjCHcm"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
         "name": "A volar (feat. Lido Pimienta)",
         "url": "https://open.spotify.com/album/39dGTpmBPRDjT0NRpnyoOO"
       },
@@ -1587,6 +1603,26 @@
       "duration_ms": 217253,
       "name": "A volar (feat. Lido Pimienta)",
       "url": "https://open.spotify.com/track/5KnFKXycHFZhchoOjFASU1"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
+        "name": "Mi amor",
+        "url": "https://open.spotify.com/album/0PoKNzX5Z7nTQgLzUZ8VSP"
+      },
+      "artists": [
+        {
+          "name": "Edu Requejo",
+          "url": "https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M"
+        },
+        {
+          "name": "Josearmen",
+          "url": "https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf"
+        }
+      ],
+      "duration_ms": 154125,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/4JTFZGp79eIpo5OhUJVmB1"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1643,22 +1679,6 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "Fotograf\u00edas de Espa\u00f1a",
-        "url": "https://open.spotify.com/album/2hob96jwRqls6wbZuqfppl"
-      },
-      "artists": [
-        {
-          "name": "Roy Borland",
-          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "El Primer Beso de Verdad",
-      "url": "https://open.spotify.com/track/5QmV6BH60x7BLqYLrjCHcm"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
         "name": "La Maza (Desde Fonobox) [En Vivo]",
         "url": "https://open.spotify.com/album/0ZdXn6TRcIYKZutBHYVQHg"
       },
@@ -1671,26 +1691,6 @@
       "duration_ms": 303849,
       "name": "La Maza - En Vivo Desde Fonobox",
       "url": "https://open.spotify.com/track/76fR1kHj38aYysA7cLsvle"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
-        "name": "Mi amor",
-        "url": "https://open.spotify.com/album/0PoKNzX5Z7nTQgLzUZ8VSP"
-      },
-      "artists": [
-        {
-          "name": "Edu Requejo",
-          "url": "https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M"
-        },
-        {
-          "name": "Josearmen",
-          "url": "https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf"
-        }
-      ],
-      "duration_ms": 154125,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/4JTFZGp79eIpo5OhUJVmB1"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/2BrwzeYkAzmI4RnzLCgbv8"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda de la Flor",
+          "url": "https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3"
+        }
+      ],
+      "duration_ms": 190124,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/6NcGTOcFLQiYSrW8pv7fuO"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
         "name": "Muchacha",
         "url": "https://open.spotify.com/album/3J1lkofDFSYTiIrMUvvvgD"
       },
@@ -1811,26 +1827,6 @@
       "duration_ms": 210413,
       "name": "Muchacha",
       "url": "https://open.spotify.com/track/7BbYBOuoHwbzezD03dbYBG"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
-        "name": "Deshielo",
-        "url": "https://open.spotify.com/album/3xIhTaVpGZhjlo7SGeTeyJ"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Ruiz",
-          "url": "https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI"
-        },
-        {
-          "name": "Chambao",
-          "url": "https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R"
-        }
-      ],
-      "duration_ms": 221712,
-      "name": "Oye mi Voz",
-      "url": "https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM"
     }
   ],
   "unique_name": "Cancionistas",

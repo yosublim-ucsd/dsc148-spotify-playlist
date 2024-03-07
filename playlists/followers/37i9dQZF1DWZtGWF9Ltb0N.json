@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 290077,
+  "2024-03-07": 290171,
   "date_first_scraped": "2022-03-01",
   "description": "Floor shattering bass and dark soundscapes to dive into.",
   "name": "Sub Low",
@@ -3517,6 +3517,24 @@
       "duration_ms": 198222,
       "name": "gopher it",
       "url": "https://open.spotify.com/track/2YvxcEGBNgi1p4H3VDR0cy"
+    },
+    {
+      "album": {
+        "name": "Grim",
+        "url": "https://open.spotify.com/album/14OIQZNCPE24uuJr7UHxvq"
+      },
+      "artists": [
+        {
+          "name": "MYTHM",
+          "url": "https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171509,
+      "name": "Grim",
+      "url": "https://open.spotify.com/track/1xu3PYvaqY2ZfJmz4KYafa"
     },
     {
       "album": {
@@ -8921,7 +8939,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 251586,
       "name": "Suzuki",
       "url": "https://open.spotify.com/track/4NDmNfG9jaUEBO4nYKuxxi"

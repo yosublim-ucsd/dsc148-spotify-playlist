@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 187039,
+  "2024-03-07": 187078,
   "date_first_scraped": "2022-12-29",
   "description": "Legendary euro- trance & progressive tracks  from the 90s and 00s.",
   "name": "Dreamy Dance Classics",
@@ -530,6 +530,24 @@
     },
     {
       "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/5pUMfEOBMzcpVweXk3kYL9"
+      },
+      "artists": [
+        {
+          "name": "Kate Ryan",
+          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218533,
+      "name": "D\u00e9senchant\u00e9e",
+      "url": "https://open.spotify.com/track/4yOU9FaCmFFo2qfy1FHIe3"
+    },
+    {
+      "album": {
         "name": "D\u00e9senchant\u00e9e",
         "url": "https://open.spotify.com/album/2m0DsRkYqYWPvFyTDruvFk"
       },
@@ -541,7 +559,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 218040,
       "name": "D\u00e9senchant\u00e9e - Radio Edit",
       "url": "https://open.spotify.com/track/0A8Wjq2Gr3mieMvK4tYTRx"
@@ -1097,7 +1115,7 @@
       },
       "artists": [
         {
-          "name": "York",
+          "name": "YORK",
           "url": "https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q"
         },
         {

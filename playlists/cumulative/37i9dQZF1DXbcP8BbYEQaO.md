@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-630 songs - 1 day 11 hr 28 min
+631 songs - 1 day 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [dancing in the kitchen](https://open.spotify.com/track/0ohcCrxZkBfFbkuRPOZQZX) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [dancing in the kitchen](https://open.spotify.com/album/3fHkjpHZjohpdtiJJdVtez) | 3:28 | 2021-06-26 | 2021-11-20 |
 | [Dancing Makes Us Brave](https://open.spotify.com/track/6C1cJLAtnHrYG61mBrLABI) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [The Power](https://open.spotify.com/album/5L76JF4j46E7IhCTDEmmr3) | 4:14 | 2022-04-16 | 2022-04-21 |
 | [Dancing With Your Ghost](https://open.spotify.com/track/1TQXIltqoZ5XXyfCbAeSQQ) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Dancing With Your Ghost](https://open.spotify.com/album/3I677CWVoiOsbMxOQzjShB) | 3:17 | 2020-10-13\* | 2021-06-19 |
-| [Dancing’s Done](https://open.spotify.com/track/06yG42F8p8l621YLki0rp2) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Dancing's Done](https://open.spotify.com/album/6QqKTzhLeJmJBvueUe0Lf7) | 2:46 | 2022-12-23 |  |
+| [Dancing’s Done](https://open.spotify.com/track/06yG42F8p8l621YLki0rp2) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Dancing's Done](https://open.spotify.com/album/6QqKTzhLeJmJBvueUe0Lf7) | 2:46 | 2022-12-23 | 2024-03-07 |
+| [Dancing’s Done](https://open.spotify.com/track/2wqxcctWptasX4VnP2sRvV) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 2:46 | 2024-03-01 |  |
 | [Dark Bird \- St\. Lucia Remix](https://open.spotify.com/track/45r1g9y7kmNRLADtFj8syb) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9), [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Dark Bird \(St\. Lucia Remix\)](https://open.spotify.com/album/2LsVPQR7vtkpPmq6zb7y0x) | 4:43 | 2022-06-24 | 2022-07-30 |
 | [Daylight](https://open.spotify.com/track/2qQQg5pkjRJajogDe8HFop) | [Bambina](https://open.spotify.com/artist/7dKQ4jc9y35k3P5dKWsLL1) | [Soft Heat](https://open.spotify.com/album/0DIy09PKKmcXjVZlodhD8q) | 2:45 | 2023-06-02 | 2023-06-24 |
 | [Daze Inn](https://open.spotify.com/track/1AnXtAoYd2YhSNQXMHhqTu) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [DestroyDestroyDestroyDestroy](https://open.spotify.com/album/18SQBnh6bYiDaO5pvpeAzb) | 2:38 | 2020-11-18 | 2021-07-10 |

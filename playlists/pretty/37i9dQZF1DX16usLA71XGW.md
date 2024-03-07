@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 
 > East Africa queens in their music bag\. Cover: Maua Sama
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,212 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,219 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 | 46 | [Fire](https://open.spotify.com/track/1LFM0KBmoe13qfMQZucsPk) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Fire](https://open.spotify.com/album/77exuH6Dzo7RMFxtFxNLhQ) | 3:37 |
 | 47 | [Sina Bae](https://open.spotify.com/track/6lW5Bt2zFGbCOovCXlC1ZI) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Love Art Lust](https://open.spotify.com/album/69sV0GeXbVxcEnEGewksb8) | 2:56 |
 | 48 | [Mama Ni Mama \(feat\. Stamina\)](https://open.spotify.com/track/3pnbWpwpvO2SFCp0nmxWW2) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2), [Stamina](https://open.spotify.com/artist/1lNZxLtB9UxI8jMSabmSX7) | [Mama Ni Mama \(feat\. Stamina\)](https://open.spotify.com/album/1pTFzkawyvwa9fQ6KR8c2l) | 3:53 |
-| 49 | [EN3RGY](https://open.spotify.com/track/7s1cUqddTHFRmL66cuyAlh) | [Polaris](https://open.spotify.com/artist/04JfU1Q9ESK7m4yLUOR6lA), [Mayonde](https://open.spotify.com/artist/3oqMNz2Z6IrQXes2MEA6sr), [Muthoni Drummer Queen](https://open.spotify.com/artist/2FzYw9fn2ZtQ7sZma5BxuB), [HSKE](https://open.spotify.com/artist/0GHHtw39P3sS8MqYuuR4j8) | [EN3RGY](https://open.spotify.com/album/5RFMuaMkPzV7kpfvGAgjF6) | 3:10 |
+| 49 | [EN3RGY](https://open.spotify.com/track/7s1cUqddTHFRmL66cuyAlh) | [Polaris Pauline](https://open.spotify.com/artist/04JfU1Q9ESK7m4yLUOR6lA), [Mayonde](https://open.spotify.com/artist/3oqMNz2Z6IrQXes2MEA6sr), [Muthoni Drummer Queen](https://open.spotify.com/artist/2FzYw9fn2ZtQ7sZma5BxuB), [HSKE](https://open.spotify.com/artist/0GHHtw39P3sS8MqYuuR4j8) | [EN3RGY](https://open.spotify.com/album/5RFMuaMkPzV7kpfvGAgjF6) | 3:10 |
 | 50 | [Poison](https://open.spotify.com/track/0tHwaQYWrerlG3WlkrLACX) | [Nyax](https://open.spotify.com/artist/609q0eLCXxneCVx3w6j6W5) | [2Young4Love](https://open.spotify.com/album/4RbPPMKU4YBIbv0RTg2QLC) | 3:01 |
 | 51 | [Omutima](https://open.spotify.com/track/4uDqe7prnIPYPU2wq1VsVW) | [Lydia Jazmine](https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM) | [Omutima](https://open.spotify.com/album/61wC1nlhsMQeNVSCDEZDhY) | 2:43 |
 | 52 | [Penzi Wa Kasi](https://open.spotify.com/track/53scc3D6nerhdtZKAFkr0b) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Unintentional](https://open.spotify.com/album/02Gdfad4w6K6LVJQKU8mwO) | 2:44 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 | 59 | [Unanimaliza](https://open.spotify.com/track/67F4XuZS8JXs8t5UZBjEFg) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Lody Music](https://open.spotify.com/artist/74V5EGZx8m1D9pAErk5TEz) | [Maturity EP](https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq) | 2:55 |
 | 60 | [Pen & Paper](https://open.spotify.com/track/08MoSv9F2ZzT3B1GJR3OD6) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ) | [Pen & Paper](https://open.spotify.com/album/185DPVsnR1b6ooK4VDqJPl) | 3:07 |
 
-Snapshot ID: `MCw1NjVkZWEwMzdlYTNhMjRjYjRjNDMwOTEzZTIzZjEzMzQwNDg2ZDQ5`
+Snapshot ID: `MCwyNmEzMzYxN2Y2MjlkYTBiZjA1ZTI4ODFiNDUzNTY0NDE0YTFkY2M2`

@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Tiny Habits
 
-1,872 songs - 4 day 18 hr 17 min
+1,873 songs - 4 day 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -643,7 +643,8 @@
 | [Haunted House](https://open.spotify.com/track/2LZs6iK8SLfkhjX7LBMaQp) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Haunted House](https://open.spotify.com/album/7ghnTGHrhtfPuYEFuP85hc) | 3:44 | 2023-08-18 | 2023-10-15 |
 | [Have You Not Heard the War Is Over?](https://open.spotify.com/track/0wcQJAHklF56Xhfo9JFHUA) | [Declan O'Rourke](https://open.spotify.com/artist/08YnZ1u94kQ47JW7wVUume) | [Have You Not Heard the War Is Over? \(Abbey Theatre Session, Dublin\)](https://open.spotify.com/album/1lZgsbzKZCl6e9EbnA0ex9) | 4:17 | 2022-01-28 | 2022-04-09 |
 | [Hawk For The Dove](https://open.spotify.com/track/0YJeobNNtb6ZBtpk2QwA7B) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Hawk For The Dove](https://open.spotify.com/album/7f1VQAcjCcX2DHEzt6WjJ0) | 3:47 | 2022-05-27 | 2022-07-16 |
-| [Hawkmoon](https://open.spotify.com/track/2TPoZOzNzkiazpFm5Duv7A) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [Hawkmoon](https://open.spotify.com/album/0WLU49zBV5CStnFUiYHrLD) | 3:42 | 2024-02-23 |  |
+| [Hawkmoon](https://open.spotify.com/track/2TPoZOzNzkiazpFm5Duv7A) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [Hawkmoon](https://open.spotify.com/album/0WLU49zBV5CStnFUiYHrLD) | 3:42 | 2024-02-23 | 2024-03-07 |
+| [Hawkmoon](https://open.spotify.com/track/4LbT4vgs0uYQHT3NZn9GD1) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [The Past Is Still Alive](https://open.spotify.com/album/5swrwkZivdtPxSHAuQvrOE) | 3:42 | 2024-02-23 |  |
 | [hazelton](https://open.spotify.com/track/7lGVePePvWGNUviBUICQQj) | [Justin Vernon](https://open.spotify.com/artist/13rHmjtJmlIJ2aDyJc7CLV) | [hazelton b/w liner](https://open.spotify.com/album/4yZTMsfnWIfMgzkfcazTks) | 3:01 | 2023-06-23 | 2023-09-09 |
 | [He Needs Me](https://open.spotify.com/track/30pX0Jzy2lfiAmpMlAAUZR) | [The A's](https://open.spotify.com/artist/0lL30FdUoEkbzNtJSrXM9p) | [He Needs Me](https://open.spotify.com/album/3Z19tYTmNnjhXaeNB3a8Sh) | 3:20 | 2022-06-10 | 2022-07-16 |
 | [He Thinks He'll Keep Her](https://open.spotify.com/track/36YB7zihZBaAq3DJZ1YXZv) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp), [Goodwerks](https://open.spotify.com/artist/1xoy2fP09MR6o1FW3jzCyM) | [Broken Glass, Vol\. 6](https://open.spotify.com/album/7nAbZDCDFoNMa0H1cUICk2) | 3:45 | 2023-08-11 | 2023-10-07 |
@@ -942,7 +943,7 @@
 | [Living in the City is so Beautiful](https://open.spotify.com/track/2zIvuPFKHOou4JJbOSFa94) | [Allegra Krieger](https://open.spotify.com/artist/1m2AHwvNSDIm5mf8vPGH39) | [Fragile Plane: B\-Sides](https://open.spotify.com/album/1RORYbQMEFI6n8LjzBJtWs) | 4:10 | 2023-10-20 | 2024-01-20 |
 | [Living Room Parties](https://open.spotify.com/track/4nnzdzrcdRhtXr5AfBlVNo) | [Lily Kershaw](https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua) | [Living Room Parties](https://open.spotify.com/album/6s2qAgVdDgShpXanTqZgrA) | 4:11 | 2023-12-08 | 2024-02-24 |
 | [Lizards in the Afterglow](https://open.spotify.com/track/5PPl5rpAj0fEi8pHD4y6i6) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt), [Dani Green](https://open.spotify.com/artist/79jO53dOhGwaMpwhmnNBPw) | [Lizards in the Afterglow](https://open.spotify.com/album/1jZ4NVosJiEb1wPcDzgH25) | 4:04 | 2022-09-09 | 2023-02-04 |
-| [Logic of Color \- Variation](https://open.spotify.com/track/3bVc8xgaWA0ejgwed8B6Sl) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Logic of Color \(Variation\)](https://open.spotify.com/album/3JFO5xqxWHH803ugN0y7LV) | 4:47 | 2024-02-23 |  |
+| [Logic of Color \- Variation](https://open.spotify.com/track/3bVc8xgaWA0ejgwed8B6Sl) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB), [Metropolis Ensemble](https://open.spotify.com/artist/7M4SGchCWEPMVvx16DKXOy), [Paul Wiancko](https://open.spotify.com/artist/0A8HBV4n2KCWWnBEVZK8dw), [William Brittelle](https://open.spotify.com/artist/466nMSvwGWb3f8G7hR4Gja) | [Logic of Color \(Variation\)](https://open.spotify.com/album/3JFO5xqxWHH803ugN0y7LV) | 4:47 | 2024-02-23 |  |
 | [London](https://open.spotify.com/track/6ffvsCiyxNdxPzsjxP5q16) | [Devan](https://open.spotify.com/artist/5w2ZZrN4yX50qOLk9I8aI2) | [London](https://open.spotify.com/album/6ztopxq8V8PtZpwULj1tss) | 3:16 | 2023-12-08 | 2024-02-17 |
 | [Loneliness](https://open.spotify.com/track/4VAzUwIL69PDIMjmhzBwMD) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Loneliness](https://open.spotify.com/album/0YBjEXcSYKyZ1UGzTfvWEf) | 4:03 | 2023-09-01 | 2023-10-30 |
 | [Lonely Bones](https://open.spotify.com/track/5HFzAeZkaTDBhlaqwcRmeL) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Hot Mess](https://open.spotify.com/album/6yvRliUS1i3Dxro7UckrHO) | 3:04 | 2022-09-30 | 2023-01-14 |

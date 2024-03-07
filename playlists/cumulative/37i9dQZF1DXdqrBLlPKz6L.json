@@ -1786,6 +1786,24 @@
     {
       "album": {
         "name": "Si Caigo",
+        "url": "https://open.spotify.com/album/2O638HJsoKny84UrlemJhS"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203033,
+      "name": "Si Caigo",
+      "url": "https://open.spotify.com/track/2vUb00H3FMhSwaie3BuiUW"
+    },
+    {
+      "album": {
+        "name": "Si Caigo",
         "url": "https://open.spotify.com/album/2UJIBCLSahOqrfG2OchUc3"
       },
       "artists": [
@@ -1796,7 +1814,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 203033,
       "name": "Si Caigo",
       "url": "https://open.spotify.com/track/40w0db59EY5siISnJjhb2B"

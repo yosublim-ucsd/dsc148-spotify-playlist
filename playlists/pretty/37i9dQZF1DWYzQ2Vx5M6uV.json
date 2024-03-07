@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Rawayana, Mr Eazi & Micro TDH",
-  "num_followers": 114709,
+  "num_followers": 114714,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjBkM2UwYjM2NjZlNDQwNDdmNzA0NTZjZWIyNzVhZDg5MTBiODQ3",
+  "snapshot_id": "MCxmZWFjODc2YzI3ZjgxYjY1Yzc3NTAyYzNhODJlNmY5OTgwZDcxZGJl",
   "tracks": [
     {
       "added_at": "2024-03-04 12:12:51",
@@ -723,26 +723,6 @@
     {
       "added_at": "2024-03-04 12:12:51",
       "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/3P5vWf0KJyYObvNKB7jP00"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 188910,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/2XghxCSGfhpGR2B3ahQXVr"
-    },
-    {
-      "added_at": "2024-03-04 12:12:51",
-      "album": {
         "name": "b\u00e1ilame en los besos (with Danny Ocean & Daramola)",
         "url": "https://open.spotify.com/album/42xtXqJiVEqAHLCXbKhSVX"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 207980,
       "name": "b\u00e1ilame en los besos (with Danny Ocean & Daramola)",
       "url": "https://open.spotify.com/track/2Ux9T8N2b0GRTOSfenwxlr"
+    },
+    {
+      "added_at": "2024-03-04 12:12:51",
+      "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/3P5vWf0KJyYObvNKB7jP00"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 188910,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/2XghxCSGfhpGR2B3ahQXVr"
     },
     {
       "added_at": "2024-03-04 12:12:51",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-03-04 12:12:51",
       "album": {
+        "name": "Parcerita",
+        "url": "https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9"
+      },
+      "artists": [
+        {
+          "name": "Dahili",
+          "url": "https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE"
+        }
+      ],
+      "duration_ms": 166950,
+      "name": "Parcerita",
+      "url": "https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK"
+    },
+    {
+      "added_at": "2024-03-04 12:12:51",
+      "album": {
         "name": "Baila Kumi",
         "url": "https://open.spotify.com/album/7Bpb7mSPr0iJE7MyHqeVav"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 206808,
       "name": "Baila Kumi",
       "url": "https://open.spotify.com/track/6MDegdCkEiUjE7ftt5GcPU"
-    },
-    {
-      "added_at": "2024-03-04 12:12:51",
-      "album": {
-        "name": "Parcerita",
-        "url": "https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9"
-      },
-      "artists": [
-        {
-          "name": "Dahili",
-          "url": "https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE"
-        }
-      ],
-      "duration_ms": 166950,
-      "name": "Parcerita",
-      "url": "https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK"
     },
     {
       "added_at": "2024-03-04 12:12:51",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-03-04 12:12:51",
       "album": {
+        "name": "Sabi na Sabura",
+        "url": "https://open.spotify.com/album/2y3NCDaMNbMds9tBArt6y7"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Sabi na Sabura",
+      "url": "https://open.spotify.com/track/2Nq4ZaYNPniFCA1DOGJGLk"
+    },
+    {
+      "added_at": "2024-03-04 12:12:51",
+      "album": {
         "name": "Sanga Zoo (feat. Farruko)",
         "url": "https://open.spotify.com/album/5StbSlzS0COrqrPJDhQr9V"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 231520,
       "name": "Sanga Zoo (feat. Farruko)",
       "url": "https://open.spotify.com/track/6RcQeYGYy2N8CR6N1HJN5T"
-    },
-    {
-      "added_at": "2024-03-04 12:12:51",
-      "album": {
-        "name": "Sabi na Sabura",
-        "url": "https://open.spotify.com/album/2y3NCDaMNbMds9tBArt6y7"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Sabi na Sabura",
-      "url": "https://open.spotify.com/track/2Nq4ZaYNPniFCA1DOGJGLk"
     },
     {
       "added_at": "2024-03-04 12:12:51",
@@ -1431,30 +1431,26 @@
     {
       "added_at": "2024-03-04 12:12:51",
       "album": {
-        "name": "Son of the City",
-        "url": "https://open.spotify.com/album/7sQ6TFEEb8N88lvV6NE8OS"
+        "name": "Certainly",
+        "url": "https://open.spotify.com/album/2jcdTpJpZSeMF14FlLerQ1"
       },
       "artists": [
         {
-          "name": "Trio Mio",
-          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
+          "name": "SKN The Divine",
+          "url": "https://open.spotify.com/artist/02f7L2f2zIZ7TSP7WCQAJK"
         },
         {
-          "name": "Mejja",
-          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+          "name": "Anni3",
+          "url": "https://open.spotify.com/artist/1SVYYGAAaNV3UBoMO889b2"
         },
         {
-          "name": "Exray",
-          "url": "https://open.spotify.com/artist/0jEAvweUh4N7mXYMDkRTQo"
-        },
-        {
-          "name": "Nellythegoon",
-          "url": "https://open.spotify.com/artist/33ypECIxCzdSYfzysHmrH7"
+          "name": "Joe On The Beat",
+          "url": "https://open.spotify.com/artist/2stlNmSzpsNsSD3hpjDdfF"
         }
       ],
-      "duration_ms": 334000,
-      "name": "Cheza Kama Wewe",
-      "url": "https://open.spotify.com/track/4NAhcKp6YtMDRAMH4UeUE5"
+      "duration_ms": 133323,
+      "name": "Certainly",
+      "url": "https://open.spotify.com/track/4nNACvnffnDaOm7YeXcyGB"
     }
   ],
   "unique_name": "Afro Ritmo",

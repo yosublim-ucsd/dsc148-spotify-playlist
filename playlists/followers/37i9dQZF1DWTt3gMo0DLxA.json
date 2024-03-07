@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 72922,
+  "2024-03-07": 73648,
   "date_first_scraped": "2021-12-28",
   "description": "Trending songs from Tollywood! \nCover: Guntur Kaaram",
   "name": "Trending Now Telugu",
@@ -1580,6 +1580,28 @@
     },
     {
       "album": {
+        "name": "Guna",
+        "url": "https://open.spotify.com/album/5LuK7Me5cNKxuE05ANbkdY"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "S. P. Sailaja",
+          "url": "https://open.spotify.com/artist/0w1zspBrCXnMx8CcB1WR31"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332405,
+      "name": "Kammani",
+      "url": "https://open.spotify.com/track/6pOgSsYAmQHlpz9yFRbIJE"
+    },
+    {
+      "album": {
         "name": "Roberrt (Telugu)",
         "url": "https://open.spotify.com/album/0RD3M8MJ7RtZJefk7uDPxv"
       },
@@ -2389,7 +2411,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 204533,
       "name": "Nuvvu Navvukuntu",
       "url": "https://open.spotify.com/track/00LSCsH99cW8zsr82ibMHM"

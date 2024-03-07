@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: The Dead South
 
-619 songs - 1 day 14 hr 19 min
+620 songs - 1 day 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,8 @@
 | [Coal River](https://open.spotify.com/track/1feNxzKDVyqTkGuJMrAzVF) | [Logan Halstead](https://open.spotify.com/artist/4XuOM2K7MfXMP6cinOPido) | [Coal River](https://open.spotify.com/album/2QZMDKgCHgI5QXiERup8FL) | 3:41 | 2023-03-24 | 2023-05-06 |
 | [Collateral Damage](https://open.spotify.com/track/5dzfB8cv7IYfOm7nZk3wv2) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [Manticore](https://open.spotify.com/album/4Cx0ld7IBAM7lqk1FOSv4x) | 4:02 | 2022-04-01 | 2022-06-18 |
 | [Colorado Blues](https://open.spotify.com/track/2a1YnK5daxSlKjfYEdTveh) | [Ryan Culwell](https://open.spotify.com/artist/40IqnqvUuwdqvOflDfyWZ6) | [Colorado Blues](https://open.spotify.com/album/13KX0b4NxsVYMWg1akI80F) | 2:37 | 2022-01-21 | 2022-05-14 |
-| [Colossus of Roads](https://open.spotify.com/track/39sI9RzlYbtsYfRri6ZD6H) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [Colossus of Roads / Snake Plant \(The Past Is Still Alive\)](https://open.spotify.com/album/7u69dlIPfJeuuMifREZkiP) | 2:45 | 2024-01-26 |  |
+| [Colossus of Roads](https://open.spotify.com/track/39sI9RzlYbtsYfRri6ZD6H) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [Colossus of Roads / Snake Plant \(The Past Is Still Alive\)](https://open.spotify.com/album/7u69dlIPfJeuuMifREZkiP) | 2:45 | 2024-01-26 | 2024-03-07 |
+| [Colossus of Roads](https://open.spotify.com/track/5GkAZaFVxglGUibNf2G6bh) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [The Past Is Still Alive](https://open.spotify.com/album/5swrwkZivdtPxSHAuQvrOE) | 2:45 | 2024-03-01 |  |
 | [Comes In Waves](https://open.spotify.com/track/4tP7SjS89hevcazxmqshtm) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Misadventures Of Doomscroller](https://open.spotify.com/album/24FkcvXRLoG17447domdkg) | 5:30 | 2022-07-22 | 2023-07-22 |
 | [Cool Down](https://open.spotify.com/track/3N2fen9204mhF0n2nojghp) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Cool Down](https://open.spotify.com/album/2fythGvDFHzcIGlWQ7SpXP) | 4:00 | 2021-12-17 | 2022-08-06 |
 | [Country as Fuck](https://open.spotify.com/track/3rXcD1ODKBv1MJnb1PY2pL) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Country as Fuck](https://open.spotify.com/album/384HiIj05NFE3AnWOEaNCu) | 3:09 | 2021-12-17 | 2022-01-22 |

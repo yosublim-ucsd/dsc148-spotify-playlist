@@ -6809,6 +6809,28 @@
     },
     {
       "album": {
+        "name": "Down",
+        "url": "https://open.spotify.com/album/5W23C2gErmU9mf8BHEPdhr"
+      },
+      "artists": [
+        {
+          "name": "MR TOUT LE MONDE",
+          "url": "https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn"
+        },
+        {
+          "name": "MidnightSun",
+          "url": "https://open.spotify.com/artist/7LvDaiMjUn5YgZPX3MEwf1"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194535,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/3o3OvVUrJeRefep6zMDpH7"
+    },
+    {
+      "album": {
         "name": "Persona",
         "url": "https://open.spotify.com/album/1BI2mpiBt99NlNvLka4QhG"
       },
@@ -27118,7 +27140,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 291125,
       "name": "Tal",
       "url": "https://open.spotify.com/track/0i15aMXiEJd6IOBOJ0JtiH"

@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 1138062,
+  "2024-03-07": 1138163,
   "date_first_scraped": "2019-07-30",
   "description": "faye webster's new album, and more gems this week",
   "name": "Lorem",
@@ -22320,6 +22320,24 @@
     },
     {
       "album": {
+        "name": "Intergalactic Janet",
+        "url": "https://open.spotify.com/album/3vS1oa8XAK2I4BLsMPEsK2"
+      },
+      "artists": [
+        {
+          "name": "Ley Soul",
+          "url": "https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160440,
+      "name": "Intergalactic Janet",
+      "url": "https://open.spotify.com/track/21wYclGDiieKf42kEWxqV9"
+    },
+    {
+      "album": {
         "name": "Internet Religion",
         "url": "https://open.spotify.com/album/6WgiNXKdvu34Nvg3a0xTon"
       },
@@ -41689,6 +41707,24 @@
       "duration_ms": 178285,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/2eeOF8wsCKNPmbCqg855TH"
+    },
+    {
+      "album": {
+        "name": "sway",
+        "url": "https://open.spotify.com/album/5WAigjDSeooWIyiPLb1ra2"
+      },
+      "artists": [
+        {
+          "name": "THE BLSSM",
+          "url": "https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108300,
+      "name": "sway",
+      "url": "https://open.spotify.com/track/503gLddG5seJR59iM2BLi7"
     },
     {
       "album": {

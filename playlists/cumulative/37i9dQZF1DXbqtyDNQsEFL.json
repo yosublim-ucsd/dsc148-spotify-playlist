@@ -5578,7 +5578,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 303553,
       "name": "Way\u03b5 Me Yie",
       "url": "https://open.spotify.com/track/7zWTmSyDPBGYHC3vex49jI"
@@ -5622,6 +5622,28 @@
       "duration_ms": 373225,
       "name": "We Glorify Your Name - Live",
       "url": "https://open.spotify.com/track/5lz0C3ODoXteXQlnKSnC0B"
+    },
+    {
+      "album": {
+        "name": "We Prevail",
+        "url": "https://open.spotify.com/album/3AvmRtH11WdKuUfNUP2R3g"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Neeja",
+          "url": "https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "We Prevail",
+      "url": "https://open.spotify.com/track/4jdeJiC74gkk4C2xienh6i"
     },
     {
       "album": {

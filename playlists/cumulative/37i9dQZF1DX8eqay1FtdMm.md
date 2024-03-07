@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover: SEUNGKWAN\(승관\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: Kassy\(케이시\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-497 songs - 1 day 8 hr 22 min
+498 songs - 1 day 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [It's love](https://open.spotify.com/track/2V39IroCENdZjsgL3hcFfe) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [It's love](https://open.spotify.com/album/1vWyjDV4yPgghl7qB7UHKR) | 4:16 | 2022-03-24 | 2022-06-11 |
 | [It's You](https://open.spotify.com/track/3YP99J8wTzG55t1cFmd6iq) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [Destined with You \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/45i3tB9z0dgJ33olyrsLUz) | 3:23 | 2023-08-24 |  |
 | [It′s My Life](https://open.spotify.com/track/01zMJ3mp9nqZmJTCeb3lLl) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [HOSPITAL PLAYLIST Season2, Pt\. 10 \(Original Television Soundtrack\)](https://open.spotify.com/album/36VmbKKMtbSt0GUcQkwRV8) | 4:16 | 2021-12-20 |  |
-| [It′s You](https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [It′s You](https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC) | 3:13 | 2021-12-27 |  |
+| [It′s You](https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [It′s You](https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC) | 3:13 | 2021-12-27 | 2024-03-07 |
 | [I′m Sorry](https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Alchemy of Souls: Light and Shadow, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5GeLZHhhxLRaDeL2o6aaTg) | 4:16 | 2023-01-13 |  |
 | [Journey](https://open.spotify.com/track/2kyyJtsitronmU6HMGsm1m) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [Journey](https://open.spotify.com/album/1uEb7pZr66xdSQcbfVVSX7) | 4:34 | 2024-02-27 |  |
 | [Just Broke Up Today 오늘 내가 한 이별 \(With Kim Min Seok\)](https://open.spotify.com/track/1qAlxROzuF3LlyIydGQ31E) | [KWON SOON IL](https://open.spotify.com/artist/1e7AZDBG64lv62iUtQ6nTf), [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [With](https://open.spotify.com/album/4pPY24vHNrX6nL5EJyIIT7) | 4:12 | 2021-12-27 | 2022-07-14 |
@@ -232,7 +232,7 @@
 | [Like nothing happened](https://open.spotify.com/track/5zpTQE7cQO6YbLuDIwyFpW) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Born \(本\)](https://open.spotify.com/album/4vqaCThesmLShHPsTJ38tO) | 3:59 | 2022-04-01 | 2022-07-29 |
 | [Like The Winter That Loved Spring](https://open.spotify.com/track/6tIcrtTCwfaFTojXWNGh0e) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Men Are Men \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/5FxDU6d9QK7gU2bGkFSRm6) | 4:06 | 2022-03-24 | 2022-05-04 |
 | [like wind](https://open.spotify.com/track/22s6kCFuBnnggy3Cio3JPh) | [The Stray](https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6) | [like wind](https://open.spotify.com/album/4Vmyjv0QUcoTpHY0N3K26x) | 2:49 | 2023-03-27 | 2023-05-04 |
-| [Like Yesterday](https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Like Yesterday](https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl) | 3:56 | 2022-03-07 | 2024-03-06 |
+| [Like Yesterday](https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Like Yesterday](https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl) | 3:56 | 2022-03-07 |  |
 | [Lim Jae Beum \- v o K a l \(EN\)](https://open.spotify.com/track/3cgDEWthQdpLcTTeWMV0VB) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [v o K a l audio liner](https://open.spotify.com/album/3Uc4lyksj1k3SBs2KVc0Sf) | 0:02 | 2022-10-26 |  |
 | [Lim Jae Beum \- v o K a l \(KR\)](https://open.spotify.com/track/1wjeOAasitMZuBLt2PE1YM) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [v o K a l audio liner](https://open.spotify.com/album/3Uc4lyksj1k3SBs2KVc0Sf) | 0:03 | 2022-10-26 |  |
 | [Lingering](https://open.spotify.com/track/0rubDl8akBZ3qP5CWDmmV9) | [RYEOWOOK](https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo) | [Lingering](https://open.spotify.com/album/6VMORU9yksutF9zwmP9g4u) | 3:36 | 2024-01-12 | 2024-02-12 |
@@ -242,6 +242,7 @@
 | [Looking at the Photo](https://open.spotify.com/track/05vg8sTPGNYv7uKYbVU4e3) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Looking at the Photo \(REVIBE Vol.2\)](https://open.spotify.com/album/25JKB4F13k0KyACimQx081) | 4:39 | 2021-12-20 | 2022-07-24 |
 | [Looking For Love \(Man Ver.\)](https://open.spotify.com/track/0sN3z4fwRL8HmO96rCOm3A) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Oh My Venus \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/2RZaKdOuXB0obaW21fy3Oo) | 4:01 | 2022-04-01 | 2022-04-21 |
 | [Lost](https://open.spotify.com/track/2pRmhfwgixiYF91SywOUFh) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Stranger 2 \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/6ndtD6TsJ5d9gju1CIDf6Z) | 3:16 | 2021-12-20 | 2022-07-11 |
+| [Love Fool](https://open.spotify.com/track/78ArztlRnP0iatNE9GJNJB) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Full Bloom](https://open.spotify.com/album/7p24Sh0HP8nIDdrJbJHB3y) | 3:11 | 2024-03-06 |  |
 | [love is everything \(Feat\. U\-Rim\)](https://open.spotify.com/track/68twHXbWeVxgidIyw4C8hO) | [Jeon Gunho](https://open.spotify.com/artist/3WFFsW6pFOm0e2yVQLTYCX), [U\-Rim](https://open.spotify.com/artist/4ULMN5yWXAK57P2mlJkJJI) | [love is everything](https://open.spotify.com/album/3uRqaovLpNnVqdLZlkJN5d) | 3:36 | 2023-07-11 | 2023-07-18 |
 | [Love is painful](https://open.spotify.com/track/7iXTJ3qtfYQa4b69e7HXjk) | [JOO SEOL OK](https://open.spotify.com/artist/4fZ1YSVoYTlqbZcJEOl80M) | [Love is painful](https://open.spotify.com/album/35ceD8rScK0x5P7c6usoBV) | 4:21 | 2023-06-15 | 2023-07-12 |
 | [Love Is Ugly \(Feat\. Hwa Sa\)](https://open.spotify.com/track/3MUmPh3UxWs9p25e6B3M7N) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:43 | 2023-02-13 |  |
@@ -471,7 +472,7 @@
 | [고해 \- 2021 Remaster Version](https://open.spotify.com/track/451aWz6dABe0AU7wzIPnDS) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Memories...속으로 Pt\. 2](https://open.spotify.com/album/1J6tiKqadxv8f6zdO2l913) | 5:35 | 2022-10-24 | 2022-11-24 |
 | [그냥 보고 싶어 그래 Because I Miss You](https://open.spotify.com/track/7Dr1gsXuWZc0Ojq2Si1qL9) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Fall, Once again \- The 2nd Mini Album](https://open.spotify.com/album/0sdHqPGu0v1LVuQ8dy8spR) | 3:53 | 2022-03-24 | 2022-04-21 |
 | [그대라는 시](https://open.spotify.com/track/56Cmy1rCQ35V2Q7groYiHl) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Hotel del Luna \(Original Television Soundtrack\) Pt.3](https://open.spotify.com/album/6nddI94g7zC5bbyNzRBO0Y) | 3:29 | 2022-07-25 |  |
-| [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043) | 3:30 | 2021-12-20 |  |
+| [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043) | 3:30 | 2021-12-20 | 2024-03-07 |
 | [꿈](https://open.spotify.com/track/5TMxri47KRtK8pTFG5ELmI) | [Kim Nayeon](https://open.spotify.com/artist/2TGUJbY0UF9EuIQSNTUNx2) | [Dream](https://open.spotify.com/album/4NQnTOM8Z1FRnx3OJjKAdX) | 3:26 | 2022-01-12 | 2022-04-18 |
 | [꿈길](https://open.spotify.com/track/6ONESVJurYMVmCfwV6yKjF) | [E HYUK](https://open.spotify.com/artist/2YhKoOmf0diUvydhEoreDa) | [꿈길](https://open.spotify.com/album/1c1rE5Ijbnm2NdR7iaHpYS) | 4:13 | 2023-01-25 | 2023-02-25 |
 | [나였으면](https://open.spotify.com/track/7sp5iTQjB7GHXX4TKrhOaO) | [Na Yoon Kwon](https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw) | [중독](https://open.spotify.com/album/4MDKAWZP2Z4czla9K68CDK) | 4:22 | 2023-12-01 |  |

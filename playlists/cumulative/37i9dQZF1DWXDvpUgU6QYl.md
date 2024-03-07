@@ -4,7 +4,7 @@
 
 > A groovy and soulful house collection\. Cover: Calvin Harris, Eliza Rose
 
-105 songs - 6 hr 19 min
+106 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [Take My Chance](https://open.spotify.com/track/6d0ediFvVUAQXkeraZRtXR) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Take My Chance](https://open.spotify.com/album/48mkI91Qbu55gGYgtKPVK9) | 3:18 | 2023-10-27 | 2023-11-20 |
 | [Take U](https://open.spotify.com/track/1YwWHm6Ad1fizVPaQ8nrco) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Take U](https://open.spotify.com/album/1BsEalQCwpuAbqQloCDY9u) | 2:42 | 2023-10-27 |  |
 | [Technicolour Kenny](https://open.spotify.com/track/6CKztDSyFEe7ti6HEGCHng) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d), [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1) | [Technicolour Kenny](https://open.spotify.com/album/1Sl4ptxEnHWL678iC3xSLK) | 3:50 | 2023-09-05 | 2023-09-30 |
-| [Tell Me](https://open.spotify.com/track/7tRVTrvTIpYC15QvLkI3Tv) | [gome](https://open.spotify.com/artist/2kXp8r42AOwb6s5GzdiukU) | [Tell Me](https://open.spotify.com/album/1wR8GmaQ6xYVL1i1918Ilw) | 3:53 | 2023-11-23 |  |
+| [Tell Me](https://open.spotify.com/track/1LiQJVCQ78nWOMRAGIlHgB) | [gome](https://open.spotify.com/artist/2kXp8r42AOwb6s5GzdiukU) | [Tell Me EP](https://open.spotify.com/album/0CcIISxMUzNAGCnCWOwSQI) | 3:53 | 2024-01-05 |  |
+| [Tell Me](https://open.spotify.com/track/7tRVTrvTIpYC15QvLkI3Tv) | [gome](https://open.spotify.com/artist/2kXp8r42AOwb6s5GzdiukU) | [Tell Me](https://open.spotify.com/album/1wR8GmaQ6xYVL1i1918Ilw) | 3:53 | 2023-11-23 | 2024-03-07 |
 | [The Big Easy](https://open.spotify.com/track/3Q4DJp31Dat8RoPN3KwpJy) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [The Big Easy](https://open.spotify.com/album/3zfEQld2beOeYmEU9uQONf) | 3:05 | 2023-09-05 |  |
 | [The Good Times \- Radio\-Edit](https://open.spotify.com/track/5pD8VMXDNrb9UkGHOEIHZZ) | [Dompe](https://open.spotify.com/artist/6izT1rIpURdkh4cjgsileU) | [The Good Times](https://open.spotify.com/album/3ZHcQ7pexuhTzT0xFT3Low) | 3:43 | 2024-01-05 |  |
 | [The One](https://open.spotify.com/track/0ZqgZiFqhDivCdXwltw7Up) | [Mohtiv](https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG) | [The One](https://open.spotify.com/album/2ImuqZJqJQ3ad6lM0Nwem2) | 2:46 | 2023-09-05 |  |

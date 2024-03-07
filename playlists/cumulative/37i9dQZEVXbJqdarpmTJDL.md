@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,464 songs - 3 day 5 hr 56 min
+1,465 songs - 3 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Amen \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/0Mrnt1YqVuW2bqmwu4VxDt) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 2:21 | 2023-10-07 | 2023-10-09 |
 | [Amnesia](https://open.spotify.com/track/7AeJhLrw5gWEh2p0yQKAGE) | [Sigma](https://open.spotify.com/artist/71cZMt4XdCynLn983qeFow), [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH) | [Amnesia](https://open.spotify.com/album/1RsM7nU3ULcuuL6H11EsGP) | 3:20 | 2021-06-04 | 2021-10-23 |
 | [AMOR](https://open.spotify.com/track/1OGTkqFF8EmYZvDLuHAXsw) | [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [RACKATTACK 2](https://open.spotify.com/album/2d5prllsnc3IMl0IHIpsw8) | 3:14 | 2022-07-15 | 2023-10-17 |
+| [AMORE MIO](https://open.spotify.com/track/7safaXsnYTL0F139p6JKy0) | [MG](https://open.spotify.com/artist/6SWOdiks4Ac3lMM8NCqDm0), [Darta](https://open.spotify.com/artist/0T59GPY05I40GiEUOnMglS) | [AMORE MIO](https://open.spotify.com/album/2xearzWEcIZxy3IPYGqdG6) | 2:11 | 2024-03-06 |  |
 | [An](https://open.spotify.com/track/2w40y6rlhc1FzbtsV2QrU5) | [Christos Mastoras](https://open.spotify.com/artist/1XlTr7C0vwBmlpnsN8OMhu) | [An](https://open.spotify.com/album/4ZYLzSRoK60bAvqUwcGFVl) | 3:43 | 2021-12-14 | 2022-04-02 |
 | [An Apopse Figo](https://open.spotify.com/track/09u3uU5KzkdsoUTDeBF10J) | [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy) | [Fthina Tricks](https://open.spotify.com/album/7MqSq1YDxSsLL5vEvBPsAk) | 2:07 | 2023-05-20 | 2023-10-21 |
 | [An Me Agapas](https://open.spotify.com/track/3FJWi2h98dYd0XXPdu1Stc) | [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd), [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [Money and Drugs Can't Live in Poverty \(Deluxe Version\)](https://open.spotify.com/album/3FmU169FLMfnRt9vEronwN) | 3:39 | 2022-07-26 | 2022-07-28 |
@@ -850,7 +851,7 @@
 | [Mi Milas](https://open.spotify.com/track/40lIiCUnIwQZy6Xe7YQRCk) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Efhi](https://open.spotify.com/album/3XXC0tdNTNAWmsNjSCL8gB) | 2:58 | 2023-06-17 | 2023-06-21 |
 | [Mi Panamera \- The Remix](https://open.spotify.com/track/5vfAtm4lYnEmHyChQYQ6yv) | [Lopico](https://open.spotify.com/artist/5AMdLPKVl4kSv394F1Mrim), [Claydee](https://open.spotify.com/artist/2rcsCDLsJw6erBukvjEsrP), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc) | [Mi Panamera \(The Remix\)](https://open.spotify.com/album/3Z50q8LeNAkWydaTlbAfVi) | 2:28 | 2023-08-05 | 2023-09-20 |
 | [Mi Rotas Ti Fovamai](https://open.spotify.com/track/7E6c7VoW7hAvj09myvW4We) | [Tzamal](https://open.spotify.com/artist/3f3h06ii1hc3dmFiuLNAQq), [Ortiz](https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR), [Sandal](https://open.spotify.com/artist/2rW7P02wzUA7clLJsjX3PE) | [Terra Dannata](https://open.spotify.com/album/5sPLcOYUlg9FvvXqIdLrej) | 3:10 | 2024-02-10 | 2024-02-12 |
-| [MI TESORO](https://open.spotify.com/track/3qbFPHgr08BxwBKVNQOWjJ) | [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [MI TESORO](https://open.spotify.com/album/7ohX8NXS3jsHTP6OiFV2HD) | 1:52 | 2023-07-07 |  |
+| [MI TESORO](https://open.spotify.com/track/3qbFPHgr08BxwBKVNQOWjJ) | [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [MI TESORO](https://open.spotify.com/album/7ohX8NXS3jsHTP6OiFV2HD) | 1:52 | 2023-07-07 | 2024-03-07 |
 | [Mia Gineka](https://open.spotify.com/track/4uytPup7KIRhUZasViPFDr) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV) | [Mia Gineka](https://open.spotify.com/album/4sOCaCnJWsK5OctMniqruI) | 2:31 | 2023-04-20 | 2023-08-30 |
 | [Mia Klisi](https://open.spotify.com/track/38ztkalYixz4hYX3R9K27K) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Immortale \(Deluxe Edition\)](https://open.spotify.com/album/4pG7RebITssOm6t4w9TNL8) | 2:30 | 2021-06-20 | 2021-06-22 |
 | [Mia Zoi](https://open.spotify.com/track/0iP2NME41Inz2Hb2tS6sKJ) | [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9), [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw) | [Aliteia](https://open.spotify.com/album/0P6s8gS6LcV2V1tkDl7cXY) | 3:51 | 2021-04-18 | 2022-05-02 |

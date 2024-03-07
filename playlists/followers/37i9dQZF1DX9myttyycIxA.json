@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 294351,
+  "2024-03-07": 294381,
   "date_first_scraped": "2021-12-21",
   "description": "Underground indie rock gems. Cover: Been Stellar",
   "name": "undercurrents",
@@ -1805,10 +1805,28 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 223575,
       "name": "Basement",
       "url": "https://open.spotify.com/track/1LGZzWQexuUXz7n3DJTJOl"
+    },
+    {
+      "album": {
+        "name": "The Knife",
+        "url": "https://open.spotify.com/album/0gkvOoUvjCFHj6SmhIqT5C"
+      },
+      "artists": [
+        {
+          "name": "Dogs on Shady Lane",
+          "url": "https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223575,
+      "name": "Basement",
+      "url": "https://open.spotify.com/track/1aIQvLvwz35NdFgMpc2nYo"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "A journey into the unknown, dark, and experimental.",
-  "num_followers": 216416,
+  "num_followers": 216478,
   "original_name": "Terra Incognita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGNhYjVlM2NkY2IwMzAzOTEzNDJlMDRjYzlmNTk2NzYyNTFlNTIw",
+  "snapshot_id": "MCwyYTc2NmY4NDMwN2JlZmY3NWYxNzIzMjdmN2Q3ZjRjZDBmMzVkYWI5",
   "tracks": [
     {
       "added_at": "2024-03-05 05:44:43",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
-        "name": "I'm A Man",
-        "url": "https://open.spotify.com/album/1GDSTZ2T6bOGQdFtjXTZn4"
-      },
-      "artists": [
-        {
-          "name": "Kim Gordon",
-          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
-        }
-      ],
-      "duration_ms": 271693,
-      "name": "I'm A Man",
-      "url": "https://open.spotify.com/track/4RdqVrjTnuEms5pgKNG95q"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
         "name": "Secret Life",
         "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 221199,
       "name": "Trying",
       "url": "https://open.spotify.com/track/25k70O2pKn9Zn0HknWrS8x"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
+        "name": "I'm A Man",
+        "url": "https://open.spotify.com/album/1GDSTZ2T6bOGQdFtjXTZn4"
+      },
+      "artists": [
+        {
+          "name": "Kim Gordon",
+          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
+        }
+      ],
+      "duration_ms": 271693,
+      "name": "I'm A Man",
+      "url": "https://open.spotify.com/track/4RdqVrjTnuEms5pgKNG95q"
     },
     {
       "added_at": "2024-02-29 23:01:00",
@@ -283,6 +283,22 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
+        "name": "Lonely Times",
+        "url": "https://open.spotify.com/album/52NC1y7dIs0EjOJf9UFc04"
+      },
+      "artists": [
+        {
+          "name": "Keep Shelly In Athens",
+          "url": "https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Lonely Times",
+      "url": "https://open.spotify.com/track/66fHmVMVKYLwNzIdwrZADI"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
         "name": "Close",
         "url": "https://open.spotify.com/album/5kmzOIqlnSKxGTj0BCc47u"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 320547,
       "name": "Close",
       "url": "https://open.spotify.com/track/1CIx89XwJuePwZchjrHudW"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
-        "name": "Lonely Times",
-        "url": "https://open.spotify.com/album/52NC1y7dIs0EjOJf9UFc04"
-      },
-      "artists": [
-        {
-          "name": "Keep Shelly In Athens",
-          "url": "https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Lonely Times",
-      "url": "https://open.spotify.com/track/66fHmVMVKYLwNzIdwrZADI"
     },
     {
       "added_at": "2024-02-29 23:01:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
-        "name": "Trececerotres",
-        "url": "https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO"
-      },
-      "artists": [
-        {
-          "name": "Daniela Lalita",
-          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
-        }
-      ],
-      "duration_ms": 135773,
-      "name": "Trececerotres",
-      "url": "https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
         "name": "Ki moun ou ye",
         "url": "https://open.spotify.com/album/4rHlOBMPXZdaoUVYyzb3W7"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 320409,
       "name": "Ki moun ou ye",
       "url": "https://open.spotify.com/track/3Jc6bQSnKDUY1NaBdDsU9u"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
+        "name": "Trececerotres",
+        "url": "https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO"
+      },
+      "artists": [
+        {
+          "name": "Daniela Lalita",
+          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
+        }
+      ],
+      "duration_ms": 135773,
+      "name": "Trececerotres",
+      "url": "https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx"
     },
     {
       "added_at": "2024-02-29 23:01:00",
@@ -591,26 +591,6 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
-        "name": "Fall to Pieces",
-        "url": "https://open.spotify.com/album/6In2HeTX6Web6mNHcamTOO"
-      },
-      "artists": [
-        {
-          "name": "Tricky",
-          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
-        },
-        {
-          "name": "Marta",
-          "url": "https://open.spotify.com/artist/0yz9lVc98Tji7yjwkUe7l7"
-        }
-      ],
-      "duration_ms": 136546,
-      "name": "Chills Me to the Bone",
-      "url": "https://open.spotify.com/track/1TEHus4OKe6OsoABt5rASX"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
         "name": "Of Air",
         "url": "https://open.spotify.com/album/0mo9eadPkxiwJc2UavuFTX"
       },
@@ -631,6 +611,26 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
+        "name": "Fall to Pieces",
+        "url": "https://open.spotify.com/album/6In2HeTX6Web6mNHcamTOO"
+      },
+      "artists": [
+        {
+          "name": "Tricky",
+          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+        },
+        {
+          "name": "Marta",
+          "url": "https://open.spotify.com/artist/0yz9lVc98Tji7yjwkUe7l7"
+        }
+      ],
+      "duration_ms": 136546,
+      "name": "Chills Me to the Bone",
+      "url": "https://open.spotify.com/track/1TEHus4OKe6OsoABt5rASX"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
         "name": "Lovegaze",
         "url": "https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U"
       },
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
-        "name": "Tongues",
-        "url": "https://open.spotify.com/album/565j8hb4CaU9pWZSz7tVMh"
-      },
-      "artists": [
-        {
-          "name": "Tanya Tagaq",
-          "url": "https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY"
-        }
-      ],
-      "duration_ms": 215482,
-      "name": "Teeth Agape",
-      "url": "https://open.spotify.com/track/5xi07QPZNbBs6MmKsGhrd1"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
         "name": "CLOUD 9",
         "url": "https://open.spotify.com/album/36Tr8wmY3Xs9XKEluvYoG9"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 208458,
       "name": "CLOUD 9",
       "url": "https://open.spotify.com/track/2kcSEuvgfUtyy5itR0jIjB"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
+        "name": "Tongues",
+        "url": "https://open.spotify.com/album/565j8hb4CaU9pWZSz7tVMh"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tagaq",
+          "url": "https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY"
+        }
+      ],
+      "duration_ms": 215482,
+      "name": "Teeth Agape",
+      "url": "https://open.spotify.com/track/5xi07QPZNbBs6MmKsGhrd1"
     },
     {
       "added_at": "2024-02-29 23:01:00",
@@ -763,18 +763,18 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
-        "name": "FOREVERANDEVERNOMORE",
-        "url": "https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W"
+        "name": "\u00a1Ay!",
+        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
       },
       "artists": [
         {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+          "name": "Lucrecia Dalt",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
         }
       ],
-      "duration_ms": 239640,
-      "name": "Who Gives a Thought",
-      "url": "https://open.spotify.com/track/0IqZcNlUn3LALc6zwo1wxV"
+      "duration_ms": 164598,
+      "name": "Dicen",
+      "url": "https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv"
     },
     {
       "added_at": "2024-02-29 23:01:00",
@@ -795,18 +795,18 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
-        "name": "\u00a1Ay!",
-        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
+        "name": "FOREVERANDEVERNOMORE",
+        "url": "https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W"
       },
       "artists": [
         {
-          "name": "Lucrecia Dalt",
-          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 164598,
-      "name": "Dicen",
-      "url": "https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv"
+      "duration_ms": 239640,
+      "name": "Who Gives a Thought",
+      "url": "https://open.spotify.com/track/0IqZcNlUn3LALc6zwo1wxV"
     },
     {
       "added_at": "2024-02-29 23:01:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
+        "name": "Image Langage",
+        "url": "https://open.spotify.com/album/6S6Dab2CiNgbnTf40pCjQy"
+      },
+      "artists": [
+        {
+          "name": "Felicia Atkinson",
+          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "The House That Agnes Built",
+      "url": "https://open.spotify.com/track/2VxEI4KcbKYU3kKbzaRwod"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
         "name": "QUANTA 1:11",
         "url": "https://open.spotify.com/album/4jyP4GfDaIoOK6Go2r7Cjr"
       },
@@ -1043,18 +1059,18 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
-        "name": "Image Langage",
-        "url": "https://open.spotify.com/album/6S6Dab2CiNgbnTf40pCjQy"
+        "name": "Cosmorama",
+        "url": "https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq"
       },
       "artists": [
         {
-          "name": "Felicia Atkinson",
-          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
+          "name": "Beautify Junkyards",
+          "url": "https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl"
         }
       ],
-      "duration_ms": 176000,
-      "name": "The House That Agnes Built",
-      "url": "https://open.spotify.com/track/2VxEI4KcbKYU3kKbzaRwod"
+      "duration_ms": 196891,
+      "name": "The Fountain",
+      "url": "https://open.spotify.com/track/2W9OF8EQKVl6dexLio5REX"
     },
     {
       "added_at": "2024-02-29 23:01:00",
@@ -1079,38 +1095,6 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
-        "name": "Cosmorama",
-        "url": "https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq"
-      },
-      "artists": [
-        {
-          "name": "Beautify Junkyards",
-          "url": "https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl"
-        }
-      ],
-      "duration_ms": 196891,
-      "name": "The Fountain",
-      "url": "https://open.spotify.com/track/2W9OF8EQKVl6dexLio5REX"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
-        "name": "Vibra\u00e7\u00f5es de Prata",
-        "url": "https://open.spotify.com/album/2JIG0FQTzPK42gw78K2Cuj"
-      },
-      "artists": [
-        {
-          "name": "Xexa",
-          "url": "https://open.spotify.com/artist/5YOOZDm22sEdpPpf8QX9J8"
-        }
-      ],
-      "duration_ms": 128750,
-      "name": "Assim",
-      "url": "https://open.spotify.com/track/2qJ0alAK9ja55NUAafSykX"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
         "name": "Little Floating Oracles",
         "url": "https://open.spotify.com/album/1tEL4r90ZTFJVMwg3DvbJ4"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 410397,
       "name": "Oracles",
       "url": "https://open.spotify.com/track/54FyqA3X39JjZZPUEB4Zmp"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
+        "name": "Vibra\u00e7\u00f5es de Prata",
+        "url": "https://open.spotify.com/album/2JIG0FQTzPK42gw78K2Cuj"
+      },
+      "artists": [
+        {
+          "name": "Xexa",
+          "url": "https://open.spotify.com/artist/5YOOZDm22sEdpPpf8QX9J8"
+        }
+      ],
+      "duration_ms": 128750,
+      "name": "Assim",
+      "url": "https://open.spotify.com/track/2qJ0alAK9ja55NUAafSykX"
     },
     {
       "added_at": "2024-02-29 23:01:00",
@@ -1183,58 +1183,6 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
-        "name": "I Am You (Space Afrika Remix)",
-        "url": "https://open.spotify.com/album/7LnWTaScRI9JfHhOQqU4EU"
-      },
-      "artists": [
-        {
-          "name": "Just Mustard",
-          "url": "https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi"
-        },
-        {
-          "name": "Space Afrika",
-          "url": "https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5"
-        }
-      ],
-      "duration_ms": 258366,
-      "name": "I Am You - Space Afrika Remix",
-      "url": "https://open.spotify.com/track/2dqc2QouSxBbbPpu84peJh"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
-        "name": "Cosmorama",
-        "url": "https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq"
-      },
-      "artists": [
-        {
-          "name": "Beautify Junkyards",
-          "url": "https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl"
-        }
-      ],
-      "duration_ms": 282863,
-      "name": "A Garden by the Sea",
-      "url": "https://open.spotify.com/track/1Nzdc7gAPufUvqXulMHsWu"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
-        "name": "An Ocean",
-        "url": "https://open.spotify.com/album/1FEfRYCD9GvAeYUBG3ysIU"
-      },
-      "artists": [
-        {
-          "name": "Lucinda Chua",
-          "url": "https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ"
-        }
-      ],
-      "duration_ms": 259648,
-      "name": "An Ocean",
-      "url": "https://open.spotify.com/track/6G6W3MWjKYMNpKo88KIsgf"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
         "name": "See Her",
         "url": "https://open.spotify.com/album/7qO6m9lcXz50UXj0KCL8ho"
       },
@@ -1267,22 +1215,70 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
-        "name": "Patterns",
-        "url": "https://open.spotify.com/album/5VF24DhApN026eJJMMWrW6"
+        "name": "An Ocean",
+        "url": "https://open.spotify.com/album/1FEfRYCD9GvAeYUBG3ysIU"
       },
       "artists": [
         {
-          "name": "Just Bee",
-          "url": "https://open.spotify.com/artist/1bd502sofLQ6fHDPnU5JPx"
-        },
-        {
-          "name": "David Boring",
-          "url": "https://open.spotify.com/artist/3jlBKVMzOyLuwLWxkkiwKj"
+          "name": "Lucinda Chua",
+          "url": "https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ"
         }
       ],
-      "duration_ms": 231093,
-      "name": "Patterns",
-      "url": "https://open.spotify.com/track/7hP1frR53QoyVsDnlypOdm"
+      "duration_ms": 259648,
+      "name": "An Ocean",
+      "url": "https://open.spotify.com/track/6G6W3MWjKYMNpKo88KIsgf"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
+        "name": "Cosmorama",
+        "url": "https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq"
+      },
+      "artists": [
+        {
+          "name": "Beautify Junkyards",
+          "url": "https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl"
+        }
+      ],
+      "duration_ms": 282863,
+      "name": "A Garden by the Sea",
+      "url": "https://open.spotify.com/track/1Nzdc7gAPufUvqXulMHsWu"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
+        "name": "I Am You (Space Afrika Remix)",
+        "url": "https://open.spotify.com/album/7LnWTaScRI9JfHhOQqU4EU"
+      },
+      "artists": [
+        {
+          "name": "Just Mustard",
+          "url": "https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi"
+        },
+        {
+          "name": "Space Afrika",
+          "url": "https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5"
+        }
+      ],
+      "duration_ms": 258366,
+      "name": "I Am You - Space Afrika Remix",
+      "url": "https://open.spotify.com/track/2dqc2QouSxBbbPpu84peJh"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
+        "name": "The Disorder of Appearances",
+        "url": "https://open.spotify.com/album/1UY4FzbEnlU8GdDahQrDOX"
+      },
+      "artists": [
+        {
+          "name": "Ginevra Nervi",
+          "url": "https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj"
+        }
+      ],
+      "duration_ms": 394293,
+      "name": "An Interior of Strange Beauty",
+      "url": "https://open.spotify.com/track/6dbkobz26W6ipF4krITVAu"
     }
   ],
   "unique_name": "Terra Incognita",

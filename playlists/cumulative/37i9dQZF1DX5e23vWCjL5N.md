@@ -4,7 +4,7 @@
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: Fabri Fibra, Baby Gang, Emma
 
-158 songs - 8 hr 29 min
+159 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [COL CUORE IN GOLA \- lords of dogtown](https://open.spotify.com/track/2ypcWaliFPJ9c3JeWMqi1w) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Effetto notte](https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga) | 3:08 | 2023-05-18 |  |
 | [Complicato](https://open.spotify.com/track/6d7BZ0WMfu6OlgA3hIh58P) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:13 | 2023-11-17 |  |
 | [COOLIN BREAK \(feat\. Nitro & Enzo Dong\)](https://open.spotify.com/track/5nt0lVfzmmuiU1Zk6PbWbM) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu), [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP), [Enzo Dong](https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6) | [INVISIBILI](https://open.spotify.com/album/6iT3GIpurtTE3MiMB0VxQL) | 3:00 | 2023-09-14 | 2023-11-03 |
+| [CRIATUR \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/147hzs261FAZBpwfQkOUCL) | [Kid Lost](https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu) | [CRIATUR \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/4v2vbwWe9ongpkfgLJDbir) | 2:54 | 2024-03-06 |  |
 | [CRINGE](https://open.spotify.com/track/0QdLe32rmGquRDdALuY92Q) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [CVLT](https://open.spotify.com/album/6HXtcSvv1AXivyZrZjEdG1) | 3:12 | 2023-11-02 | 2024-03-01 |
 | [C’era Una Volta In Italia](https://open.spotify.com/track/6qECCt8d4AQt0cEv307MLa) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 3:05 | 2024-01-12 |  |
 | [Dentro di me](https://open.spotify.com/track/7yLuwRipesZLX1xAqY3cjz) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [Dentro di me](https://open.spotify.com/album/4G7K8YMU8vCtPr9SiOZ0if) | 2:37 | 2024-02-22 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 473659,
+  "2024-03-07": 473906,
   "date_first_scraped": "2022-05-23",
   "description": "Anda pa'lante galopante con los grandes del g\u00e9nero rom\u00e1ntico. Los Temerarios en portada. ",
   "name": "Romance Grupero",
@@ -1869,7 +1869,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 199586,
       "name": "Mu\u00f1eca de Ojos de Miel",
       "url": "https://open.spotify.com/track/7DhWwtEQDFvl6Fw3v3YcKN"
@@ -3163,6 +3163,24 @@
       "duration_ms": 195120,
       "name": "\u00c9l Soy Yo",
       "url": "https://open.spotify.com/track/2grjdrZ1wGyoykMgDbnnFW"
+    },
+    {
+      "album": {
+        "name": "Al Rojo Vivo",
+        "url": "https://open.spotify.com/album/1GNeAMyys4dVVUUmwN7lo8"
+      },
+      "artists": [
+        {
+          "name": "Samuray",
+          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197093,
+      "name": "\u00c9l Soy Yo",
+      "url": "https://open.spotify.com/track/3Mca7rs2qXlSlqU4XlSZRe"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaaA14YcUIMA"

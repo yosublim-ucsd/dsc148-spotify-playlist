@@ -499,6 +499,24 @@
     },
     {
       "album": {
+        "name": "Acabou, mas tem...",
+        "url": "https://open.spotify.com/album/2qtqD1onYm68cn0KwhHJQ1"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235586,
+      "name": "Acabou, mas tem...",
+      "url": "https://open.spotify.com/track/5egpEMl7hYdmLP9ptpeE12"
+    },
+    {
+      "album": {
         "name": "Negra \u00d3pera",
         "url": "https://open.spotify.com/album/12ruJLnnZM4RlCAlxPSq6f"
       },
@@ -862,12 +880,12 @@
       },
       "artists": [
         {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        },
-        {
           "name": "Zeca Baleiro",
           "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        },
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
         }
       ],
       "date_added": "2024-03-01",
@@ -4058,7 +4076,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 250736,
       "name": "Eu Ofere\u00e7o Flores",
       "url": "https://open.spotify.com/track/7sYsluG2bZNHLqDMbfU5T5"

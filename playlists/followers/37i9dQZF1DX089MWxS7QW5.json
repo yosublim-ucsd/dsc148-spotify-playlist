@@ -1,7 +1,7 @@
 {
-  "2024-03-06": 49792,
+  "2024-03-07": 49799,
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Jiselle(\uc9c0\uc140))",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Tabber(\ud0dc\ubc84))",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -1167,6 +1167,28 @@
       "duration_ms": 186500,
       "name": "chasing you",
       "url": "https://open.spotify.com/track/7g4ULCcCvfAQXDDRgVeyfv"
+    },
+    {
+      "album": {
+        "name": "Chi-Ka",
+        "url": "https://open.spotify.com/album/6r2U2zmsO98xn2s7MGt4Pb"
+      },
+      "artists": [
+        {
+          "name": "Tabber",
+          "url": "https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU"
+        },
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203953,
+      "name": "Chi-Ka",
+      "url": "https://open.spotify.com/track/3aUySszCHEifnEOqm0nCKr"
     },
     {
       "album": {
@@ -2725,6 +2747,24 @@
       "duration_ms": 226120,
       "name": "I feel",
       "url": "https://open.spotify.com/track/0D87LPNSFzltA0IPc9C8MN"
+    },
+    {
+      "album": {
+        "name": "I Hate You (2024) - Spotify Singles",
+        "url": "https://open.spotify.com/album/1aF8lItq2Esu8pBHJoxXMA"
+      },
+      "artists": [
+        {
+          "name": "SHOWNU X HYUNGWON (MONSTA X)",
+          "url": "https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164026,
+      "name": "I Hate You (2024) - Spotify Singles",
+      "url": "https://open.spotify.com/track/2AZhHsWsunXGXKIWioeM6Y"
     },
     {
       "album": {

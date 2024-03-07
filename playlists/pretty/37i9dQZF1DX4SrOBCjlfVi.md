@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Cardi B, Meek Mill, That Mexican OT and more\. Cover: Schoolboy Q
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,339 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,431 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 11 | [Bad Bitch](https://open.spotify.com/track/73xrEvZAv5p4AalSpYSYgP) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Bad Bitch](https://open.spotify.com/album/47sdHvCWzCbtMZtRMirlfb) | 1:54 |
 | 12 | [ALLAT \(feat\. Honcho\)](https://open.spotify.com/track/5Zc5Ny1qs5OojZIwd620wI) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Big Hit](https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll), [Honcho](https://open.spotify.com/artist/3nhOQpzDVpQedYYziFe9MJ) | [ALLAT \(feat\. Honcho\)](https://open.spotify.com/album/64zvPYZx8a2Mhe2P30Htvu) | 3:18 |
 | 13 | [Case Dismissed](https://open.spotify.com/track/21Snj1BjgpX3eeSCudzqAI) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Case Dismissed](https://open.spotify.com/album/50VcqInrcl5ZBuJlKPOnjX) | 1:18 |
-| 14 | [JAPANESE DENIM \(feat\. Veeze\)](https://open.spotify.com/track/7IRBVTWua5balW0xUJHmUF) | [DaeMoney](https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg), [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [JAPANESE DENIM \(feat\. Veeze\)](https://open.spotify.com/album/5m3BPYBaanarQy8hXJ7XoZ) | 2:07 |
+| 14 | [JAPANESE DENIM \(feat\. Veeze & LUCKI\)](https://open.spotify.com/track/7IRBVTWua5balW0xUJHmUF) | [DaeMoney](https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [JAPANESE DENIM \(feat\. Veeze & LUCKI\)](https://open.spotify.com/album/5m3BPYBaanarQy8hXJ7XoZ) | 2:07 |
 | 15 | [Socials](https://open.spotify.com/track/4lXM4G3waswwheaVOhKPKZ) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Socials](https://open.spotify.com/album/3wIFD68W3eGHj0Yx5C8I4r) | 2:45 |
 | 16 | [To The Grave](https://open.spotify.com/track/7Fc2z1T2Dsq7hS73tPgutA) | [HotBlock Jmoe](https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [To The Grave](https://open.spotify.com/album/3YDxOOmbu1sxdZluFIRcRP) | 3:41 |
 | 17 | [Shallow](https://open.spotify.com/track/0wjtR8CnGDDSbH7vdaaQE5) | [Kembe X](https://open.spotify.com/artist/4uc4iep3LqgSj8qN4kp7qD), [Hippie Sabotage](https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE) | [Shallow](https://open.spotify.com/album/3TzzPCdFuskuyB1HIu4TxR) | 2:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Flawless](https://open.spotify.com/track/3ULaknsaBsXJ61Gltr5RED) | [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr) | [Flawless](https://open.spotify.com/album/3dLSddpwD3nXf0aEz3NnMf) | 2:56 |
 | 50 | [CULLINAN GANG \(feat\. Icewear Vezzo\)](https://open.spotify.com/track/4syEuJtAptgxJZxdmbYtSa) | [Nasaan](https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [CULLINAN GANG \(feat\. Icewear Vezzo\)](https://open.spotify.com/album/60B0F2iSBTAuNUkXVfOgoe) | 2:38 |
 
-Snapshot ID: `MCw1NDk2MTM4NmUwMzVkNzg3YmJhNWU2MzYxODc5MmY0YjI0NjQwMTBi`
+Snapshot ID: `MCw2M2JmNDgzMTA1MzY1NmJhNGM4MDhkOTVkMDhhZWExZjdmZTY4NjVk`

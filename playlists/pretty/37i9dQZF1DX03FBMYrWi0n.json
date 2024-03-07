@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: blesse",
-  "num_followers": 4210,
+  "num_followers": 4213,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGNmODg5NjA4OTU1YmUyNTU3MmI2YjMzMzlkMzJmNjc3MjNlZDA0",
+  "snapshot_id": "MCxmYTdhMWUwZWIwMTM3ZDhkODMwOWJmODZhYjhhY2M0NjczOTE0YzEx",
   "tracks": [
     {
       "added_at": "2024-03-04 23:52:37",
@@ -327,22 +327,6 @@
     {
       "added_at": "2024-03-04 23:52:37",
       "album": {
-        "name": "\u00c0 demain peut-\u00eatre",
-        "url": "https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW"
-      },
-      "artists": [
-        {
-          "name": "Galaxie",
-          "url": "https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa"
-        }
-      ],
-      "duration_ms": 179706,
-      "name": "Anomie",
-      "url": "https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M"
-    },
-    {
-      "added_at": "2024-03-04 23:52:37",
-      "album": {
         "name": "mile \u200eend (kiss ur friends)",
         "url": "https://open.spotify.com/album/04EpaHiU3NdHePUCmxKyzJ"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 142222,
       "name": "\u200echerry \u200estems",
       "url": "https://open.spotify.com/track/1NVzCmOxAhi1OER5yRjMRy"
+    },
+    {
+      "added_at": "2024-03-04 23:52:37",
+      "album": {
+        "name": "\u00c0 demain peut-\u00eatre",
+        "url": "https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW"
+      },
+      "artists": [
+        {
+          "name": "Galaxie",
+          "url": "https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa"
+        }
+      ],
+      "duration_ms": 179706,
+      "name": "Anomie",
+      "url": "https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M"
     },
     {
       "added_at": "2024-03-04 23:52:37",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-03-04 23:52:37",
       "album": {
-        "name": "Elle vit dans les bois",
-        "url": "https://open.spotify.com/album/7zqogW39G3OCAsmbFXN36I"
-      },
-      "artists": [
-        {
-          "name": "Marie C\u00e9leste",
-          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
-        }
-      ],
-      "duration_ms": 209570,
-      "name": "Elle vit dans les bois",
-      "url": "https://open.spotify.com/track/3Z4t5ksVMY1jpQ0NFGaskn"
-    },
-    {
-      "added_at": "2024-03-04 23:52:37",
-      "album": {
         "name": "Sainte-Col\u00e8re",
         "url": "https://open.spotify.com/album/5Xc7ZbRXsrVvAxC3RehckN"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 155982,
       "name": "Fant\u00f4mes",
       "url": "https://open.spotify.com/track/4nvSSgdtZJwbA8uCo3uVw1"
+    },
+    {
+      "added_at": "2024-03-04 23:52:37",
+      "album": {
+        "name": "Elle vit dans les bois",
+        "url": "https://open.spotify.com/album/7zqogW39G3OCAsmbFXN36I"
+      },
+      "artists": [
+        {
+          "name": "Marie C\u00e9leste",
+          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
+        }
+      ],
+      "duration_ms": 209570,
+      "name": "Elle vit dans les bois",
+      "url": "https://open.spotify.com/track/3Z4t5ksVMY1jpQ0NFGaskn"
     },
     {
       "added_at": "2024-03-04 23:52:37",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-03-04 23:52:37",
       "album": {
-        "name": "Darl\u00e8ne",
-        "url": "https://open.spotify.com/album/2Mk09LFe9J7UXKs7Vzui6r"
-      },
-      "artists": [
-        {
-          "name": "Hubert Lenoir",
-          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
-        }
-      ],
-      "duration_ms": 145936,
-      "name": "Ton h\u00f4tel",
-      "url": "https://open.spotify.com/track/0kJ00ZShVy5w2hPvabYKsA"
-    },
-    {
-      "added_at": "2024-03-04 23:52:37",
-      "album": {
         "name": "Isumagijunnaitaungituq (The Unforgiven)",
         "url": "https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 273997,
       "name": "Isumagijunnaitaungituq (The Unforgiven)",
       "url": "https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy"
+    },
+    {
+      "added_at": "2024-03-04 23:52:37",
+      "album": {
+        "name": "Darl\u00e8ne",
+        "url": "https://open.spotify.com/album/2Mk09LFe9J7UXKs7Vzui6r"
+      },
+      "artists": [
+        {
+          "name": "Hubert Lenoir",
+          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
+        }
+      ],
+      "duration_ms": 145936,
+      "name": "Ton h\u00f4tel",
+      "url": "https://open.spotify.com/track/0kJ00ZShVy5w2hPvabYKsA"
     },
     {
       "added_at": "2024-03-04 23:52:37",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-03-04 23:52:37",
       "album": {
-        "name": "The Jungle",
-        "url": "https://open.spotify.com/album/2vX1d0U8BRkxtssdhyy3Lx"
-      },
-      "artists": [
-        {
-          "name": "Plants and Animals",
-          "url": "https://open.spotify.com/artist/1pzNRIDRT064HEdW1nG59c"
-        }
-      ],
-      "duration_ms": 343160,
-      "name": "The Jungle",
-      "url": "https://open.spotify.com/track/5jRINA3CI1TofMwkAvbi8r"
-    },
-    {
-      "added_at": "2024-03-04 23:52:37",
-      "album": {
         "name": "Supermercado",
         "url": "https://open.spotify.com/album/2d9sRDbb3g46M3pufQwsiK"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 242800,
       "name": "Le grand \u00e9cart",
       "url": "https://open.spotify.com/track/5qlF09NGhK3NMONkhM1PLU"
+    },
+    {
+      "added_at": "2024-03-04 23:52:37",
+      "album": {
+        "name": "The Jungle",
+        "url": "https://open.spotify.com/album/2vX1d0U8BRkxtssdhyy3Lx"
+      },
+      "artists": [
+        {
+          "name": "Plants and Animals",
+          "url": "https://open.spotify.com/artist/1pzNRIDRT064HEdW1nG59c"
+        }
+      ],
+      "duration_ms": 343160,
+      "name": "The Jungle",
+      "url": "https://open.spotify.com/track/5jRINA3CI1TofMwkAvbi8r"
     },
     {
       "added_at": "2024-03-04 23:52:37",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-03-04 23:52:37",
       "album": {
-        "name": "We Are Sunshine",
-        "url": "https://open.spotify.com/album/3dRRmPHIu6cFhnBX2MjcPV"
-      },
-      "artists": [
-        {
-          "name": "The Blaze Velluto Collection",
-          "url": "https://open.spotify.com/artist/1mULn3KCTsGLL3CvZyvn8x"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "The Rabbit Song",
-      "url": "https://open.spotify.com/track/4omfnYnDdeJrgSq5TaX10D"
-    },
-    {
-      "added_at": "2024-03-04 23:52:37",
-      "album": {
         "name": "P\u00eale-m\u00eale",
         "url": "https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw"
       },
@@ -891,18 +875,18 @@
     {
       "added_at": "2024-03-04 23:52:37",
       "album": {
-        "name": "Phil\u00e9douche",
-        "url": "https://open.spotify.com/album/2Dpv6xDtk2IpPk4OvcZtzH"
+        "name": "We Are Sunshine",
+        "url": "https://open.spotify.com/album/3dRRmPHIu6cFhnBX2MjcPV"
       },
       "artists": [
         {
-          "name": "Phil\u00e9mon Cimon",
-          "url": "https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h"
+          "name": "The Blaze Velluto Collection",
+          "url": "https://open.spotify.com/artist/1mULn3KCTsGLL3CvZyvn8x"
         }
       ],
-      "duration_ms": 280513,
-      "name": "Phile\u0301douche",
-      "url": "https://open.spotify.com/track/0CKC1pIz3wLRcVkZAy0eJI"
+      "duration_ms": 195000,
+      "name": "The Rabbit Song",
+      "url": "https://open.spotify.com/track/4omfnYnDdeJrgSq5TaX10D"
     },
     {
       "added_at": "2024-03-04 23:52:37",
@@ -919,6 +903,22 @@
       "duration_ms": 249072,
       "name": "Witness Protection",
       "url": "https://open.spotify.com/track/25c2s6RdpSQN27iPc8Exps"
+    },
+    {
+      "added_at": "2024-03-04 23:52:37",
+      "album": {
+        "name": "Phil\u00e9douche",
+        "url": "https://open.spotify.com/album/2Dpv6xDtk2IpPk4OvcZtzH"
+      },
+      "artists": [
+        {
+          "name": "Phil\u00e9mon Cimon",
+          "url": "https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h"
+        }
+      ],
+      "duration_ms": 280513,
+      "name": "Phile\u0301douche",
+      "url": "https://open.spotify.com/track/0CKC1pIz3wLRcVkZAy0eJI"
     },
     {
       "added_at": "2024-03-04 23:52:37",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-03-04 23:52:37",
       "album": {
-        "name": "Chicout",
-        "url": "https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog"
-      },
-      "artists": [
-        {
-          "name": "Chassepareil",
-          "url": "https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u"
-        }
-      ],
-      "duration_ms": 220607,
-      "name": "Feu de for\u00eat",
-      "url": "https://open.spotify.com/track/7mVYp5DvhrOLm3cGg8mK8M"
-    },
-    {
-      "added_at": "2024-03-04 23:52:37",
-      "album": {
         "name": "Viendras-tu pleurer?",
         "url": "https://open.spotify.com/album/0vi46z2QfWE6AvGApoT6tm"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 207013,
       "name": "Viendras-tu pleurer?",
       "url": "https://open.spotify.com/track/6lBb5vtkIdpJ2LxQX9NisN"
+    },
+    {
+      "added_at": "2024-03-04 23:52:37",
+      "album": {
+        "name": "Chicout",
+        "url": "https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog"
+      },
+      "artists": [
+        {
+          "name": "Chassepareil",
+          "url": "https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u"
+        }
+      ],
+      "duration_ms": 220607,
+      "name": "Feu de for\u00eat",
+      "url": "https://open.spotify.com/track/7mVYp5DvhrOLm3cGg8mK8M"
     },
     {
       "added_at": "2024-03-04 23:52:37",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-03-04 23:52:37",
       "album": {
-        "name": "C'est ma lady",
-        "url": "https://open.spotify.com/album/1DApIRmNfHbmnte59SMKo9"
-      },
-      "artists": [
-        {
-          "name": "Marilyne L\u00e9onard",
-          "url": "https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p"
-        }
-      ],
-      "duration_ms": 156233,
-      "name": "C'est ma lady",
-      "url": "https://open.spotify.com/track/7wTkIF9aVnj7c1Q1RWQ3fN"
-    },
-    {
-      "added_at": "2024-03-04 23:52:37",
-      "album": {
         "name": "Combien \u00e7a co\u00fbte",
         "url": "https://open.spotify.com/album/7x5T9OWipIP0Rp6P6SSYNM"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 163978,
       "name": "Combien \u00e7a co\u00fbte",
       "url": "https://open.spotify.com/track/39W2PPVBdO9qzI8TZBXrcK"
+    },
+    {
+      "added_at": "2024-03-04 23:52:37",
+      "album": {
+        "name": "C'est ma lady",
+        "url": "https://open.spotify.com/album/1DApIRmNfHbmnte59SMKo9"
+      },
+      "artists": [
+        {
+          "name": "Marilyne L\u00e9onard",
+          "url": "https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p"
+        }
+      ],
+      "duration_ms": 156233,
+      "name": "C'est ma lady",
+      "url": "https://open.spotify.com/track/7wTkIF9aVnj7c1Q1RWQ3fN"
     },
     {
       "added_at": "2024-03-04 23:52:37",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-03-04 23:52:37",
       "album": {
-        "name": "Disruption",
-        "url": "https://open.spotify.com/album/4LizSEpXM9elUheVmOzRg8"
-      },
-      "artists": [
-        {
-          "name": "Vulgaires Machins",
-          "url": "https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG"
-        }
-      ],
-      "duration_ms": 193027,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/7iE0J8k2Hqt1opubRHco0g"
-    },
-    {
-      "added_at": "2024-03-04 23:52:37",
-      "album": {
         "name": "Sweet Mont\u00e9r\u00e9gie",
         "url": "https://open.spotify.com/album/5J54uEsmf08ml6uDxOUxU3"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 229413,
       "name": "Sweet mont\u00e9r\u00e9gie",
       "url": "https://open.spotify.com/track/5cdHmyc2mbTB7Dzaj3Dsbw"
+    },
+    {
+      "added_at": "2024-03-04 23:52:37",
+      "album": {
+        "name": "Disruption",
+        "url": "https://open.spotify.com/album/4LizSEpXM9elUheVmOzRg8"
+      },
+      "artists": [
+        {
+          "name": "Vulgaires Machins",
+          "url": "https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG"
+        }
+      ],
+      "duration_ms": 193027,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/7iE0J8k2Hqt1opubRHco0g"
     },
     {
       "added_at": "2024-03-04 23:52:37",

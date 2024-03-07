@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 23101,
+  "num_followers": 23111,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzhiNGIyZTk5ZGI5MDFmMWE4YzdjN2JkNTg1MjAwYWRhNDBmMTdm",
+  "snapshot_id": "MCxkYzIyNzQ1MWE0NzJjNTBlZjkxM2MyOWY4YmEwOWUwY2JiYmNjNjg5",
   "tracks": [
     {
       "added_at": "2020-05-26 15:53:13",
@@ -551,18 +551,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Sabor Catracho!, Vol. 3",
-        "url": "https://open.spotify.com/album/5dhtHl14R6ZTQwdEsrH0HT"
+        "name": "Punta Vibe",
+        "url": "https://open.spotify.com/album/2gYb4m2xi4bgUqHvvpgjU9"
       },
       "artists": [
         {
-          "name": "Las Chicas Roland's",
-          "url": "https://open.spotify.com/artist/2oLp10TY7Q546LJxtsc2cl"
+          "name": "Supa G",
+          "url": "https://open.spotify.com/artist/4lJKjqL2fCL4yfNyKhm1sB"
         }
       ],
-      "duration_ms": 256116,
-      "name": "Por la Playa",
-      "url": "https://open.spotify.com/track/56NlIztGmrboS6icu0s8us"
+      "duration_ms": 191077,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/4s0YHx04Ih3oEDLVzljcuX"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -615,18 +615,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Punta Vibe",
-        "url": "https://open.spotify.com/album/2gYb4m2xi4bgUqHvvpgjU9"
+        "name": "Sabor Catracho!, Vol. 3",
+        "url": "https://open.spotify.com/album/5dhtHl14R6ZTQwdEsrH0HT"
       },
       "artists": [
         {
-          "name": "Supa G",
-          "url": "https://open.spotify.com/artist/4lJKjqL2fCL4yfNyKhm1sB"
+          "name": "Las Chicas Roland's",
+          "url": "https://open.spotify.com/artist/2oLp10TY7Q546LJxtsc2cl"
         }
       ],
-      "duration_ms": 191077,
-      "name": "Carolina",
-      "url": "https://open.spotify.com/track/4s0YHx04Ih3oEDLVzljcuX"
+      "duration_ms": 256116,
+      "name": "Por la Playa",
+      "url": "https://open.spotify.com/track/56NlIztGmrboS6icu0s8us"
     },
     {
       "added_at": "2020-05-26 15:53:13",

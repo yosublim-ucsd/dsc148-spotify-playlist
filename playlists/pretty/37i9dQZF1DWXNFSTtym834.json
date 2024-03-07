@@ -1,12 +1,12 @@
 {
   "description": "The biggest metal songs of the 2000s. Cover: Slipknot",
-  "num_followers": 1263316,
+  "num_followers": 1263499,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMWNhZjlmZjI5ZGVkOTcwNWY1MTRiZTdlMjFiNjMxMzkzNjkxYzgx",
+  "snapshot_id": "MCwzYTYwNzMzMWQ5ZDdiZmYzYWE3NjU1OGE4NzcwMDc0NTVhMTJiZjcy",
   "tracks": [
     {
       "added_at": "2023-02-08 17:32:03",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
+        "name": "Take A Look In The Mirror",
+        "url": "https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 197906,
+      "name": "Y'all Want a Single",
+      "url": "https://open.spotify.com/track/1AzMYJm6qTAullM3UKuPY9"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
         "name": "Life Starts Now",
         "url": "https://open.spotify.com/album/0vv1zKShlm7WuawEup5Mf4"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 262440,
       "name": "Bad Company",
       "url": "https://open.spotify.com/track/2KZXCH4npY28gtZKXcB2N8"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
-        "name": "Take A Look In The Mirror",
-        "url": "https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 197906,
-      "name": "Y'all Want a Single",
-      "url": "https://open.spotify.com/track/1AzMYJm6qTAullM3UKuPY9"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Nothing Remains The Same",
-        "url": "https://open.spotify.com/album/1OBpoK7wgRl2ORh3phctrt"
+        "name": "The Time of Grunge",
+        "url": "https://open.spotify.com/album/0vyFfU2FIQEzyjpuj6XOqp"
       },
       "artists": [
         {
-          "name": "Pain",
-          "url": "https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1"
+          "name": "Buckcherry",
+          "url": "https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7"
         }
       ],
-      "duration_ms": 192986,
-      "name": "Shut Your Mouth",
-      "url": "https://open.spotify.com/track/1gUq6SezLS3lc7KxBZaA3A"
+      "duration_ms": 203680,
+      "name": "Crazy Bitch",
+      "url": "https://open.spotify.com/track/3sZeRpTDEWfziJizYJzgVv"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
+        "name": "Nothing Remains The Same",
+        "url": "https://open.spotify.com/album/1OBpoK7wgRl2ORh3phctrt"
+      },
+      "artists": [
+        {
+          "name": "Pain",
+          "url": "https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1"
+        }
+      ],
+      "duration_ms": 192986,
+      "name": "Shut Your Mouth",
+      "url": "https://open.spotify.com/track/1gUq6SezLS3lc7KxBZaA3A"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
         "name": "XIII",
         "url": "https://open.spotify.com/album/3N1Ehmz49Lavsi23cKFWDv"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 193813,
       "name": "Sun Doesn't Rise",
       "url": "https://open.spotify.com/track/24CeaRaJHiMKFAVZTCu8Y0"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
-        "name": "The Time of Grunge",
-        "url": "https://open.spotify.com/album/0vyFfU2FIQEzyjpuj6XOqp"
-      },
-      "artists": [
-        {
-          "name": "Buckcherry",
-          "url": "https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7"
-        }
-      ],
-      "duration_ms": 203680,
-      "name": "Crazy Bitch",
-      "url": "https://open.spotify.com/track/3sZeRpTDEWfziJizYJzgVv"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Death Magnetic",
-        "url": "https://open.spotify.com/album/0lf5ceMub7KQhLfGxCdM06"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 476266,
-      "name": "The Day That Never Comes",
-      "url": "https://open.spotify.com/track/2gqzkEF88vMclfRZEIOnQO"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Doomsday Machine",
         "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 252280,
       "name": "Nemesis",
       "url": "https://open.spotify.com/track/27sTzAelgljD6Uxp88BqA3"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "Death Magnetic",
+        "url": "https://open.spotify.com/album/0lf5ceMub7KQhLfGxCdM06"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 476266,
+      "name": "The Day That Never Comes",
+      "url": "https://open.spotify.com/track/2gqzkEF88vMclfRZEIOnQO"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Through The Eyes",
-        "url": "https://open.spotify.com/album/4ENDNin0EF4elzkaWLvbAM"
-      },
-      "artists": [
-        {
-          "name": "Flaw",
-          "url": "https://open.spotify.com/artist/4hFScNSgSkApFw193xlyH7"
-        }
-      ],
-      "duration_ms": 176600,
-      "name": "Get Up Again",
-      "url": "https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Mafia",
         "url": "https://open.spotify.com/album/0yFCaaNOKgZVhDxZ0mNFeg"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 347866,
       "name": "Suicide Messiah",
       "url": "https://open.spotify.com/track/7ex3AmxCTBz3zXLx6hWy5q"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "Through The Eyes",
+        "url": "https://open.spotify.com/album/4ENDNin0EF4elzkaWLvbAM"
+      },
+      "artists": [
+        {
+          "name": "Flaw",
+          "url": "https://open.spotify.com/artist/4hFScNSgSkApFw193xlyH7"
+        }
+      ],
+      "duration_ms": 176600,
+      "name": "Get Up Again",
+      "url": "https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX"
     },
     {
       "added_at": "2023-02-08 17:32:03",

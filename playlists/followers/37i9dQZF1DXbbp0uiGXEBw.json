@@ -1,7 +1,7 @@
 {
-  "2024-03-06": 27057,
+  "2024-03-07": 27074,
   "date_first_scraped": "2021-12-28",
-  "description": "C\u00f9ng t\u00f4n vinh t\u00e0i n\u0103ng v\u00e0 \u00e2m nh\u1ea1c c\u1ee7a nh\u1eefng n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t. \u1ea2nh b\u00eca: Orange",
+  "description": "C\u00f9ng t\u00f4n vinh t\u00e0i n\u0103ng v\u00e0 \u00e2m nh\u1ea1c c\u1ee7a nh\u1eefng n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t. \u1ea2nh b\u00eca: Suni H\u1ea1 Linh",
   "name": "EQUAL Vietnam",
   "tracks": [
     {
@@ -673,6 +673,28 @@
       "duration_ms": 274576,
       "name": "c\u00f4 \u1ea5y c\u1ee7a anh \u1ea5y",
       "url": "https://open.spotify.com/track/3Sx63dtDf3m5barUfoPjRJ"
+    },
+    {
+      "album": {
+        "name": "C\u1ea3m N\u1eafng",
+        "url": "https://open.spotify.com/album/5x9Vf9SS1Rm6Mv59hp1IFl"
+      },
+      "artists": [
+        {
+          "name": "Suni H\u1ea1 Linh",
+          "url": "https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0"
+        },
+        {
+          "name": "Rtee",
+          "url": "https://open.spotify.com/artist/73AUXZbgPiHjPbv66nGVq7"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228750,
+      "name": "C\u1ea3m N\u1eafng",
+      "url": "https://open.spotify.com/track/4LDhkOharOhue7nZMFYmCu"
     },
     {
       "album": {
@@ -4033,7 +4055,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 270857,
       "name": "\u0110\u1eebng N\u00f3i T\u00f4i \u0110i\u00ean",
       "url": "https://open.spotify.com/track/2SBUmN7mgGikl6oESlNWS7"

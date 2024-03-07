@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 6190319,
+  "2024-03-07": 6190465,
   "date_first_scraped": "2021-12-21",
   "description": "Listen to all the tracks you've been missing. Cover: Katy Perry",
   "name": "Hit Rewind",
@@ -1121,7 +1121,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 232720,
       "name": "Happy - From \"Despicable Me 2\"",
       "url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH"
@@ -2487,7 +2487,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 232893,
       "name": "Only Love Can Hurt Like This",
       "url": "https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8"

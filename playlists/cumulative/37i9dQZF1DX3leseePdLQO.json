@@ -2006,7 +2006,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 199497,
       "name": "Negar",
       "url": "https://open.spotify.com/track/6ujcAtYCwOXPbGl9bVJBue"
@@ -2518,6 +2518,24 @@
       "duration_ms": 227375,
       "name": "Puntos Equidistantes",
       "url": "https://open.spotify.com/track/5oDXv4nZ83gQsa2QFG6NpB"
+    },
+    {
+      "album": {
+        "name": "QQ (Qu\u00e9date Queri\u00e9ndome)",
+        "url": "https://open.spotify.com/album/2U1egz9adJ9CUUl58WITwJ"
+      },
+      "artists": [
+        {
+          "name": "Tei Shi",
+          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200800,
+      "name": "QQ (Qu\u00e9date Queri\u00e9ndome)",
+      "url": "https://open.spotify.com/track/1bfadCF5HF3n4smcCsn0gw"
     },
     {
       "album": {

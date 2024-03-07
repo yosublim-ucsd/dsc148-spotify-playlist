@@ -1,12 +1,12 @@
 {
   "description": "For those that like it hard and heavy. Cover: Motionless In White",
-  "num_followers": 221863,
+  "num_followers": 221854,
   "original_name": "Heavy Gamers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzc0NjhmMjg4MjI1NDQ0YmVmOWZkM2I2YmU1MDk3NWFiYTFiMzUw",
+  "snapshot_id": "MCxiZmFmZjI5MDU3YmYwZTllMmU2MzBmNTU1NDljZGM0ZGI3Y2E0NDUy",
   "tracks": [
     {
       "added_at": "2022-12-15 16:14:29",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-12-15 16:14:29",
       "album": {
-        "name": "Aggressive",
-        "url": "https://open.spotify.com/album/5nQE80zQR1NqKDBo4oE4EJ"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 211430,
-      "name": "Hated",
-      "url": "https://open.spotify.com/track/2NRa4W3rH4e5GKQMN5Qwyr"
-    },
-    {
-      "added_at": "2022-12-15 16:14:29",
-      "album": {
         "name": "The Death of Me",
         "url": "https://open.spotify.com/album/415LpbInk4LGm9q9ILX1s1"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 247924,
       "name": "Masochist",
       "url": "https://open.spotify.com/track/2a05MFdR1vtm8QVKFs1SGn"
+    },
+    {
+      "added_at": "2022-12-15 16:14:29",
+      "album": {
+        "name": "Aggressive",
+        "url": "https://open.spotify.com/album/5nQE80zQR1NqKDBo4oE4EJ"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 211430,
+      "name": "Hated",
+      "url": "https://open.spotify.com/track/2NRa4W3rH4e5GKQMN5Qwyr"
     },
     {
       "added_at": "2022-12-15 16:14:29",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-12-15 16:14:29",
       "album": {
-        "name": "To Be Everywhere Is to Be Nowhere",
-        "url": "https://open.spotify.com/album/5i3Vd8CipVhDocbVVFYvVv"
-      },
-      "artists": [
-        {
-          "name": "Thrice",
-          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
-        }
-      ],
-      "duration_ms": 239450,
-      "name": "Black Honey",
-      "url": "https://open.spotify.com/track/1A89Jia7SuA6179NKiq3Ud"
-    },
-    {
-      "added_at": "2022-12-15 16:14:29",
-      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/2tStEaMvl7vkfgAEwysgYP"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 227093,
       "name": "Low",
       "url": "https://open.spotify.com/track/3gRwYAsiX4e50J43BkmZxI"
+    },
+    {
+      "added_at": "2022-12-15 16:14:29",
+      "album": {
+        "name": "To Be Everywhere Is to Be Nowhere",
+        "url": "https://open.spotify.com/album/5i3Vd8CipVhDocbVVFYvVv"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "duration_ms": 239450,
+      "name": "Black Honey",
+      "url": "https://open.spotify.com/track/1A89Jia7SuA6179NKiq3Ud"
     },
     {
       "added_at": "2022-12-15 16:14:29",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-12-15 16:14:29",
       "album": {
-        "name": "Rotoscope",
-        "url": "https://open.spotify.com/album/01vIMDzbZrTEhtScu8jrGW"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 215362,
-      "name": "Rotoscope",
-      "url": "https://open.spotify.com/track/5LJmf4fMXEvO1PdlCBKwRz"
-    },
-    {
-      "added_at": "2022-12-15 16:14:29",
-      "album": {
         "name": "The Black",
         "url": "https://open.spotify.com/album/0IH8nMaCZC4A7DcGR7fW0V"
       },
@@ -915,18 +899,18 @@
     {
       "added_at": "2022-12-15 16:14:29",
       "album": {
-        "name": "Dystopia",
-        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
+        "name": "Rotoscope",
+        "url": "https://open.spotify.com/album/01vIMDzbZrTEhtScu8jrGW"
       },
       "artists": [
         {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 299106,
-      "name": "Dystopia",
-      "url": "https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO"
+      "duration_ms": 215362,
+      "name": "Rotoscope",
+      "url": "https://open.spotify.com/track/5LJmf4fMXEvO1PdlCBKwRz"
     },
     {
       "added_at": "2022-12-15 16:14:29",
@@ -943,6 +927,22 @@
       "duration_ms": 255693,
       "name": "Bones Exposed",
       "url": "https://open.spotify.com/track/61kzGC0EuJAmxSeZYI8ayR"
+    },
+    {
+      "added_at": "2022-12-15 16:14:29",
+      "album": {
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 299106,
+      "name": "Dystopia",
+      "url": "https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO"
     },
     {
       "added_at": "2022-12-15 16:14:29",

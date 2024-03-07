@@ -2146,7 +2146,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 290616,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX"
@@ -6458,7 +6458,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-08",
+      "date_removed": null,
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -9664,7 +9664,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-04",
+      "date_removed": null,
       "duration_ms": 135920,
       "name": "Father Stretch My Hands Pt. 1",
       "url": "https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8"
@@ -10096,7 +10096,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
@@ -33238,7 +33238,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 161123,
       "name": "Why'd You Only Call Me When You're High?",
       "url": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"
@@ -35678,6 +35678,24 @@
       "duration_ms": 64628,
       "name": "\u041c\u041e\u0416\u041d\u041e \u0421\u0424\u041e\u0422\u041a\u0410\u0422\u042c\u0421\u042f?",
       "url": "https://open.spotify.com/track/4SW7uB5wCBgMRlCwqABPuA"
+    },
+    {
+      "album": {
+        "name": "\u041c\u043e\u0436\u043d\u043e \u044f \u0441 \u0442\u043e\u0431\u043e\u0439",
+        "url": "https://open.spotify.com/album/2v232fMW91TYINJUwtgwOB"
+      },
+      "artists": [
+        {
+          "name": "AP$ENT",
+          "url": "https://open.spotify.com/artist/6oiinpr7kwRmyWKVDTZgRT"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132293,
+      "name": "\u041c\u043e\u0436\u043d\u043e \u044f \u0441 \u0442\u043e\u0431\u043e\u0439",
+      "url": "https://open.spotify.com/track/2KlFcj8nBHh4VSg7lkQOqJ"
     },
     {
       "album": {

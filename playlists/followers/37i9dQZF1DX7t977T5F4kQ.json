@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 20169,
+  "2024-03-07": 20188,
   "date_first_scraped": "2022-12-01",
   "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: Smallgod",
   "name": "Ghana Party",
@@ -87,10 +87,28 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 167142,
       "name": "4LYFE",
       "url": "https://open.spotify.com/track/2TSyn5AUP4XKlx2DULEPvs"
+    },
+    {
+      "album": {
+        "name": "4LYFE",
+        "url": "https://open.spotify.com/album/28H5B4xD6bqVuaftoI4Vur"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167142,
+      "name": "4LYFE",
+      "url": "https://open.spotify.com/track/3E82zcjEqhMyr65katLaBN"
     },
     {
       "album": {

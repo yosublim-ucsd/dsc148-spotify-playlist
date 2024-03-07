@@ -1,12 +1,12 @@
 {
   "description": "We outside. Cover: Valiant",
-  "num_followers": 431259,
+  "num_followers": 431351,
   "original_name": "Dancehall Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjNhZTdiNDk3ZmRjYmE3NTBiYTE2YWNlNzU0OTdjZWVjOThhOWI3",
+  "snapshot_id": "MCwwNzA1MGY1Zjg0NDE0MWNjMzUyY2QwMjM5ZGY1ODhjNDhhMWM0ZWU4",
   "tracks": [
     {
       "added_at": "2023-11-17 12:46:59",
@@ -307,6 +307,22 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
+        "name": "No, No, No",
+        "url": "https://open.spotify.com/album/7DLI0K5q6Gb1vgtlgKSgmU"
+      },
+      "artists": [
+        {
+          "name": "Dawn Penn",
+          "url": "https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z"
+        }
+      ],
+      "duration_ms": 277893,
+      "name": "You Don't Love Me (No, No, No) - Extended Mix",
+      "url": "https://open.spotify.com/track/0INtJm8gCJKtNaAYQNVlpZ"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
         "name": "Go Down Deh (feat. Shaggy and Sean Paul)",
         "url": "https://open.spotify.com/album/7LtfkzsGno2TsHLCkEa8BD"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 154666,
       "name": "Go Down Deh (feat. Shaggy and Sean Paul)",
       "url": "https://open.spotify.com/track/0VzBKgimNRMauaqzT2rEnS"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
-        "name": "No, No, No",
-        "url": "https://open.spotify.com/album/7DLI0K5q6Gb1vgtlgKSgmU"
-      },
-      "artists": [
-        {
-          "name": "Dawn Penn",
-          "url": "https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z"
-        }
-      ],
-      "duration_ms": 277893,
-      "name": "You Don't Love Me (No, No, No) - Extended Mix",
-      "url": "https://open.spotify.com/track/0INtJm8gCJKtNaAYQNVlpZ"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Dutty Rock (20th Anniversary)",
-        "url": "https://open.spotify.com/album/1aYcfMrpGIuPNZhDWMJcnV"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Gimme the Light",
-      "url": "https://open.spotify.com/track/5WavgurgGX48eZv1q1E3on"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
         "name": "FIXTAPE",
         "url": "https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 259651,
       "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
+        "name": "Dutty Rock (20th Anniversary)",
+        "url": "https://open.spotify.com/album/1aYcfMrpGIuPNZhDWMJcnV"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Gimme the Light",
+      "url": "https://open.spotify.com/track/5WavgurgGX48eZv1q1E3on"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -675,6 +675,26 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
+        "name": "We Caa Done (feat. Drake)",
+        "url": "https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 245240,
+      "name": "We Caa Done (feat. Drake)",
+      "url": "https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
         "name": "Gal Policy",
         "url": "https://open.spotify.com/album/5x1BzHxHcnvjru9T9iA4R8"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 166699,
       "name": "Crocodile Teeth",
       "url": "https://open.spotify.com/track/2QXv4NKNCuqCDmOTwcOjrN"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
-        "name": "We Caa Done (feat. Drake)",
-        "url": "https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5"
-      },
-      "artists": [
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 245240,
-      "name": "We Caa Done (feat. Drake)",
-      "url": "https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
+        "name": "My Type - Single",
+        "url": "https://open.spotify.com/album/1IbrNSS9aKgY9M0k1wBJC7"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 185065,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/6oBtzGQSirafwnRDNlloMl"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
         "name": "Rumors",
         "url": "https://open.spotify.com/album/1MZfu40bPBKw1HzXGyGoMX"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 196000,
       "name": "Who Am I",
       "url": "https://open.spotify.com/track/4PaV16f3DUo9QxbQMUzMKH"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
-        "name": "My Type - Single",
-        "url": "https://open.spotify.com/album/1IbrNSS9aKgY9M0k1wBJC7"
-      },
-      "artists": [
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 185065,
-      "name": "My Type",
-      "url": "https://open.spotify.com/track/6oBtzGQSirafwnRDNlloMl"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -955,6 +955,38 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
+        "name": "Rum Behavior",
+        "url": "https://open.spotify.com/album/4w52ebC95RpUq7dy9zgRgI"
+      },
+      "artists": [
+        {
+          "name": "Kraff Gad",
+          "url": "https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR"
+        }
+      ],
+      "duration_ms": 155919,
+      "name": "Rum Behavior",
+      "url": "https://open.spotify.com/track/6kOCPyMbcQ5Xp3jSWUvTCP"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0xAUnt43o2FfxIpVFusIOq"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 215776,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/5Ea6VaQFplATEu2biAQdlB"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
         "name": "Back To Basics",
         "url": "https://open.spotify.com/album/1WWXhQfZhwZR67iLJ9rBI2"
       },
@@ -987,38 +1019,6 @@
       "duration_ms": 167053,
       "name": "Summer Tiime",
       "url": "https://open.spotify.com/track/4jGE3Ct8rgMZQgJshj5Bdp"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/0xAUnt43o2FfxIpVFusIOq"
-      },
-      "artists": [
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 215776,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/5Ea6VaQFplATEu2biAQdlB"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
-        "name": "Rum Behavior",
-        "url": "https://open.spotify.com/album/4w52ebC95RpUq7dy9zgRgI"
-      },
-      "artists": [
-        {
-          "name": "Kraff Gad",
-          "url": "https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR"
-        }
-      ],
-      "duration_ms": 155919,
-      "name": "Rum Behavior",
-      "url": "https://open.spotify.com/track/6kOCPyMbcQ5Xp3jSWUvTCP"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1071,6 +1071,26 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
+        "name": "Art And Life",
+        "url": "https://open.spotify.com/album/1KtvMb8plzeWby752rMPBF"
+      },
+      "artists": [
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        },
+        {
+          "name": "M\u00fda",
+          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
+        }
+      ],
+      "duration_ms": 257893,
+      "name": "Girls Dem Sugar",
+      "url": "https://open.spotify.com/track/3j8EEMm9kbPLqByuaHmUmQ"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
         "name": "Only Man She Want",
         "url": "https://open.spotify.com/album/0xYKErJkWgfurZHmZo0blf"
       },
@@ -1099,26 +1119,6 @@
       "duration_ms": 156000,
       "name": "Dunce Cheque",
       "url": "https://open.spotify.com/track/4ifFhV3uG87Gc00h5Gn3qp"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
-        "name": "Art And Life",
-        "url": "https://open.spotify.com/album/1KtvMb8plzeWby752rMPBF"
-      },
-      "artists": [
-        {
-          "name": "Beenie Man",
-          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
-        },
-        {
-          "name": "M\u00fda",
-          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
-        }
-      ],
-      "duration_ms": 257893,
-      "name": "Girls Dem Sugar",
-      "url": "https://open.spotify.com/track/3j8EEMm9kbPLqByuaHmUmQ"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1191,54 +1191,6 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Maestro",
-        "url": "https://open.spotify.com/album/6D9fr78fZr3H4UA8eEaSv1"
-      },
-      "artists": [
-        {
-          "name": "Beenie Man",
-          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
-        }
-      ],
-      "duration_ms": 231266,
-      "name": "Romie",
-      "url": "https://open.spotify.com/track/1y7sKhBWlJxH6OXSDjcEKw"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
-        "name": "Brik Pan Brik",
-        "url": "https://open.spotify.com/album/3L6LtJCp5c3O3X7K2NMkDW"
-      },
-      "artists": [
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
-        }
-      ],
-      "duration_ms": 160724,
-      "name": "Brik Pan Brik",
-      "url": "https://open.spotify.com/track/5HaRoqxb0Y4aMW347qhTPG"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
-        "name": "VENT",
-        "url": "https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0"
-      },
-      "artists": [
-        {
-          "name": "Dexta Daps",
-          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Call Me If",
-      "url": "https://open.spotify.com/track/7LzpbhQyI2HIyk73V8UE6r"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
         "name": "Narcissistic",
         "url": "https://open.spotify.com/album/6usBUly1OQm06qf4jY4FEz"
       },
@@ -1259,18 +1211,18 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/5Zg5KiHgz1YoToU23hTpsZ"
+        "name": "Maestro",
+        "url": "https://open.spotify.com/album/6D9fr78fZr3H4UA8eEaSv1"
       },
       "artists": [
         {
-          "name": "Skeng",
-          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
         }
       ],
-      "duration_ms": 144076,
-      "name": "23",
-      "url": "https://open.spotify.com/track/6OhkL5aQSgWJvK8LaF1Tp9"
+      "duration_ms": 231266,
+      "name": "Romie",
+      "url": "https://open.spotify.com/track/1y7sKhBWlJxH6OXSDjcEKw"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1287,6 +1239,54 @@
       "duration_ms": 171145,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/6VZc5PlI7bLmgCYjODYLnG"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
+        "name": "Brik Pan Brik",
+        "url": "https://open.spotify.com/album/3L6LtJCp5c3O3X7K2NMkDW"
+      },
+      "artists": [
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "duration_ms": 160724,
+      "name": "Brik Pan Brik",
+      "url": "https://open.spotify.com/track/5HaRoqxb0Y4aMW347qhTPG"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/5Zg5KiHgz1YoToU23hTpsZ"
+      },
+      "artists": [
+        {
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+        }
+      ],
+      "duration_ms": 144076,
+      "name": "23",
+      "url": "https://open.spotify.com/track/6OhkL5aQSgWJvK8LaF1Tp9"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
+        "name": "VENT",
+        "url": "https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0"
+      },
+      "artists": [
+        {
+          "name": "Dexta Daps",
+          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Call Me If",
+      "url": "https://open.spotify.com/track/7LzpbhQyI2HIyk73V8UE6r"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1323,22 +1323,6 @@
       "duration_ms": 213600,
       "name": "Romping Shop (feat. Spice)",
       "url": "https://open.spotify.com/track/6D7jtD4GbpX1ujF1KqPr7Y"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
-        "name": "Back To Basics",
-        "url": "https://open.spotify.com/album/1WWXhQfZhwZR67iLJ9rBI2"
-      },
-      "artists": [
-        {
-          "name": "Beenie Man",
-          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
-        }
-      ],
-      "duration_ms": 217106,
-      "name": "King Of The Dancehall",
-      "url": "https://open.spotify.com/track/2vACumvzzT2ZngO2p7i3Gu"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1387,6 +1371,22 @@
       "duration_ms": 193413,
       "name": "Dutty Whine",
       "url": "https://open.spotify.com/track/0faQCjG6E7VecroZfmSA3J"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/1WWXhQfZhwZR67iLJ9rBI2"
+      },
+      "artists": [
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        }
+      ],
+      "duration_ms": 217106,
+      "name": "King Of The Dancehall",
+      "url": "https://open.spotify.com/track/2vACumvzzT2ZngO2p7i3Gu"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Good 2 Go",
-        "url": "https://open.spotify.com/album/4N8f7aP3lVNkn7sKHTnHVZ"
-      },
-      "artists": [
-        {
-          "name": "Elephant Man",
-          "url": "https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on"
-        }
-      ],
-      "duration_ms": 239786,
-      "name": "Pon De River Pon De Bank",
-      "url": "https://open.spotify.com/track/46l7fOJggsNqrNPJeFk0og"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
         "name": "Unfaithful Games",
         "url": "https://open.spotify.com/album/0QDzewuAi0KMRc1oYzQCc9"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 162815,
       "name": "Unfaithful Games",
       "url": "https://open.spotify.com/track/1kZ5wCFlcuV7qN2abxU3LO"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
+        "name": "Good 2 Go",
+        "url": "https://open.spotify.com/album/4N8f7aP3lVNkn7sKHTnHVZ"
+      },
+      "artists": [
+        {
+          "name": "Elephant Man",
+          "url": "https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on"
+        }
+      ],
+      "duration_ms": 239786,
+      "name": "Pon De River Pon De Bank",
+      "url": "https://open.spotify.com/track/46l7fOJggsNqrNPJeFk0og"
     },
     {
       "added_at": "2023-11-17 12:46:59",

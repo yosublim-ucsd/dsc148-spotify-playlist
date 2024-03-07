@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: Lil Durk
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,777 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,855 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 9 | [Motion \(feat\. Babyface Ray\) \- Remix](https://open.spotify.com/track/7gxxv1Sy3JGHCJZ7cR0nME) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Live From The 6](https://open.spotify.com/album/4qJpDKd2nHI9tlR7EhQA8F) | 2:12 |
 | 10 | [Green Carpet](https://open.spotify.com/track/4OYy7dfHbLKi4lvpzpzeRv) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Green Carpet](https://open.spotify.com/album/7MZCu883H2Y7Br2K9Wd3Ef) | 2:13 |
 | 11 | [Plate](https://open.spotify.com/track/6OlDKy2uwA20B84yJKDR7C) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Plate](https://open.spotify.com/album/7e2yh6X5IjQCTsIbgIq05r) | 3:23 |
-| 12 | [JAPANESE DENIM \(feat\. Veeze\)](https://open.spotify.com/track/7IRBVTWua5balW0xUJHmUF) | [DaeMoney](https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg), [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [JAPANESE DENIM \(feat\. Veeze\)](https://open.spotify.com/album/5m3BPYBaanarQy8hXJ7XoZ) | 2:07 |
+| 12 | [JAPANESE DENIM \(feat\. Veeze & LUCKI\)](https://open.spotify.com/track/7IRBVTWua5balW0xUJHmUF) | [DaeMoney](https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [JAPANESE DENIM \(feat\. Veeze & LUCKI\)](https://open.spotify.com/album/5m3BPYBaanarQy8hXJ7XoZ) | 2:07 |
 | 13 | [Sorrys & Ferraris](https://open.spotify.com/track/0tCqfQ0MHZBYvsZ169ZnUM) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Sorrys & Ferraris](https://open.spotify.com/album/3FwxCY9GJsTQjFPZ8NeRfT) | 2:47 |
 | 14 | [Case Dismissed](https://open.spotify.com/track/21Snj1BjgpX3eeSCudzqAI) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Case Dismissed](https://open.spotify.com/album/50VcqInrcl5ZBuJlKPOnjX) | 1:18 |
 | 15 | [She The 1](https://open.spotify.com/track/6y9W1IYKdA2KVYYCj3nfOq) | [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [She The 1](https://open.spotify.com/album/3Mg85011xnTsWxslYox4pD) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 49 | [Only Option \(feat\. Rob49, Luh Tyler & Loe Shimmy\)](https://open.spotify.com/track/0Qkek5mNv6UMgUyjAb80Lr) | [GMO Stax](https://open.spotify.com/artist/7GCgSmqgis7c7z4ElZfTyK), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Youngest N Charge 2](https://open.spotify.com/album/1NgNw5Mba9ZYsRx30sDWwx) | 3:23 |
 | 50 | [It's Us \(feat\. Luh Tyler\)](https://open.spotify.com/track/4Bx4S0eeZc3KElNPFYPccn) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [The X Tape \(Deluxe\)](https://open.spotify.com/album/1OhznYXcpOhfoWIdUgsNW4) | 2:33 |
 
-Snapshot ID: `MCxhNDdhN2YzYTk1Zjc1MGRhMjc2YjMyMjhjOGJmODExMWU2YTE3OTY5`
+Snapshot ID: `MCw3ODY0NGJjYTc4YWQ4YjRjMzQ3NTU2OTUyNDJmZDg0MzdmNDNkODk3`

@@ -3205,6 +3205,28 @@
     },
     {
       "album": {
+        "name": "Perish Blue (Fall Tour)",
+        "url": "https://open.spotify.com/album/69ivKBrtrEGTlP7g0c2aX3"
+      },
+      "artists": [
+        {
+          "name": "tobi lou",
+          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
+        },
+        {
+          "name": "FARADA",
+          "url": "https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268733,
+      "name": "Fee",
+      "url": "https://open.spotify.com/track/0gHZBnTTKhgke5k9k9no1C"
+    },
+    {
+      "album": {
         "name": "Caturday",
         "url": "https://open.spotify.com/album/3Fv9b8VejFy3EktLiQorku"
       },
@@ -3220,7 +3242,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 268733,
       "name": "Fee",
       "url": "https://open.spotify.com/track/4nQ5xs6NAax7PzMJq7z8ZU"

@@ -4,7 +4,7 @@
 
 > Rap napoletano e il meglio della scena campana\. Geolier in cover.
 
-294 songs - 13 hr 38 min
+295 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Comandamento \(feat\. Geolier\)](https://open.spotify.com/track/3qWKjLK0EKxylouzVaiTwh) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 3:09 | 2022-05-10 | 2022-08-13 |
 | [COME VUOI](https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:52 | 2023-01-12 |  |
 | [CREATUR](https://open.spotify.com/track/3x3zzu71pDb02u6bOtTDvh) | [Pit](https://open.spotify.com/artist/5dO2ChPqNYjEyy3wXA5R0A) | [CREATUR](https://open.spotify.com/album/3HPRHm1cSto7dT0mhzFEB4) | 2:37 | 2023-06-01 | 2023-06-15 |
+| [CRIATUR \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/147hzs261FAZBpwfQkOUCL) | [Kid Lost](https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu) | [CRIATUR \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/4v2vbwWe9ongpkfgLJDbir) | 2:54 | 2024-03-06 |  |
 | [Cuore](https://open.spotify.com/track/0d16j8Dro7bPysTqCC41gx) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Cuore](https://open.spotify.com/album/2QuV4BJfv91iB4alvddypY) | 3:22 | 2022-06-23 | 2022-11-18 |
 | [Cuore Rotto](https://open.spotify.com/track/5qAMsFqClevxs2nuZbReDW) | [Noisys](https://open.spotify.com/artist/6H5GGtS0sPeHTZjS5q70D7) | [Cuore Rotto](https://open.spotify.com/album/5BXkveR4dh0YJpV75rtPNY) | 2:46 | 2022-05-10 | 2024-02-23 |
 | [Dahmer](https://open.spotify.com/track/0gfbR7L5IfFNmVK5b0OpqK) | [SHYGUY.OG](https://open.spotify.com/artist/5OGilC8ZDq4jiufxRylb0X) | [Dahmer](https://open.spotify.com/album/5dC6fpDZGiLrgGVM2ovFff) | 1:27 | 2023-04-27 | 2023-05-05 |
@@ -126,7 +127,7 @@
 | [Lacrima](https://open.spotify.com/track/2eBktx5PNJXGepg3C2WYuZ) | [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P) | [Lacrima](https://open.spotify.com/album/612nJUbeSR7yzHJmeAHVsG) | 1:37 | 2023-12-14 | 2024-01-09 |
 | [Last Night](https://open.spotify.com/track/1daenAwiS4hRaY5dvLYdmn) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [Last Night](https://open.spotify.com/album/1SYlvXfEqgf2rgvOQMYufO) | 3:28 | 2022-09-01 | 2022-09-20 |
 | [LAURYN HILL \(feat\. Nicola Siciliano, Guè & Joan Thiele\)](https://open.spotify.com/track/0HA5tqAz8YkAGtYuNMISCG) | [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Joan Thiele](https://open.spotify.com/artist/2X1CuKIwl9B7zMjXi41bi5) | [DON DADA](https://open.spotify.com/album/1aElHPJaZyQZkJ2OIwXWAu) | 3:04 | 2023-04-13 | 2023-05-05 |
-| [Leale e Infame](https://open.spotify.com/track/47eglSPfqHvnA4O3L9O5g2) | [GELO](https://open.spotify.com/artist/7s4IAtCfcA31LaTyEHUfjn) | [Leale e Infame](https://open.spotify.com/album/7ihxGS8fgircOQzGLQvtWV) | 2:24 | 2023-12-14 |  |
+| [Leale e Infame](https://open.spotify.com/track/47eglSPfqHvnA4O3L9O5g2) | [GELO](https://open.spotify.com/artist/7s4IAtCfcA31LaTyEHUfjn) | [Leale e Infame](https://open.spotify.com/album/7ihxGS8fgircOQzGLQvtWV) | 2:24 | 2023-12-14 | 2024-03-07 |
 | [Lose Control](https://open.spotify.com/track/40l3gNOxcK4MWgHfQuOyAF) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz) | [Lose Control](https://open.spotify.com/album/0ub5NaCeNKWDcRWUmb8yvQ) | 3:02 | 2023-07-06 |  |
 | [Love Song](https://open.spotify.com/track/0tHNfx3jrnG65IiGj9PP4L) | [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [999](https://open.spotify.com/album/22oy1c4fMawK7VbulvH89W) | 3:24 | 2022-06-09 | 2022-07-29 |
 | [Love Song](https://open.spotify.com/track/7pVs5d0hPKE2RUruztOEx3) | [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [999](https://open.spotify.com/album/5VmmhTJMQvJIXdb4pEgynz) | 3:24 | 2022-07-28 |  |

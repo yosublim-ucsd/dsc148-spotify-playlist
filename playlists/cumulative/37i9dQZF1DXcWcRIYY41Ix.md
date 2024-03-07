@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Natalia Lafourcade y Kevin Johansen.
 
-539 songs - 1 day 8 hr 32 min
+540 songs - 1 day 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,6 +329,7 @@
 | [Muchacha](https://open.spotify.com/track/7BbYBOuoHwbzezD03dbYBG) | [Emilia y Pablo](https://open.spotify.com/artist/4yHD7XAN2Xtk203wG7Gzad) | [Muchacha](https://open.spotify.com/album/3J1lkofDFSYTiIrMUvvvgD) | 3:30 | 2024-01-19 |  |
 | [Multicolor](https://open.spotify.com/track/2hAprXDgkhBboDtpVHYFcr) | [Suav](https://open.spotify.com/artist/6ikNnbnMCZksFowOy5W1qb) | [Bajamar](https://open.spotify.com/album/66mALxz49y81X2C3YjKTAh) | 4:46 | 2022-07-22 | 2022-08-02 |
 | [Mundo Nuevo](https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Mundo Nuevo](https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG) | 3:21 | 2021-12-24 |  |
+| [Mírame](https://open.spotify.com/track/6NcGTOcFLQiYSrW8pv7fuO) | [María de la Flor](https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3) | [Mírame](https://open.spotify.com/album/2BrwzeYkAzmI4RnzLCgbv8) | 3:10 | 2024-03-01 |  |
 | [NACE UNA MADRE](https://open.spotify.com/track/2ivyQI1riB7LCTXwHiQ2xb) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [NACE UNA MADRE](https://open.spotify.com/album/286YluPG1sKO5CIu5rLXU7) | 2:24 | 2023-12-01 |  |
 | [Nada Importa](https://open.spotify.com/track/29FRWNC4lPdoyltN1mQ9oF) | [Lina de Sol](https://open.spotify.com/artist/77dt3BFeJYkWqdRgJcFIJK) | [Nada Importa](https://open.spotify.com/album/7lFMgjDMyD4poD8JKfzI1b) | 3:16 | 2023-01-16 | 2023-05-20 |
 | [Nadie me lo enseñó](https://open.spotify.com/track/63bPI8iRqgeljqnydlAoUl) | [Mocchi](https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez) | [La Certeza del Dolor](https://open.spotify.com/album/5gfClqWkBhwUB6bButZCQ5) | 3:32 | 2023-07-21 | 2023-12-16 |
@@ -364,7 +365,7 @@
 | [Ojalá](https://open.spotify.com/track/1sEL2I1NRU2GZk5nS4ydxD) | [Faneka](https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo) | [Ojalá](https://open.spotify.com/album/119lk8kg6xyDPTvdlHXq9z) | 4:23 | 2022-11-25 | 2022-12-24 |
 | [Ojitos Grises](https://open.spotify.com/track/3Yd31UDuYwCMU5OFraFcS8) | [Gonzalete](https://open.spotify.com/artist/4SCQ36ne7NXrwaR1bX9yWl) | [Ojitos Míos](https://open.spotify.com/album/0V8a2v7Qq4CDgUoDPKQsSq) | 3:12 | 2023-06-30 | 2023-07-22 |
 | [Orquesta natural](https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Kumbayeo \(Lado A\)](https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid) | 3:17 | 2021-12-24 |  |
-| [Oye mi Voz](https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM) | [María Ruiz](https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI), [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R) | [Deshielo](https://open.spotify.com/album/3xIhTaVpGZhjlo7SGeTeyJ) | 3:41 | 2024-02-16 |  |
+| [Oye mi Voz](https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM) | [María Ruiz](https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI), [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R) | [Deshielo](https://open.spotify.com/album/3xIhTaVpGZhjlo7SGeTeyJ) | 3:41 | 2024-02-16 | 2024-03-07 |
 | [Paciencia](https://open.spotify.com/track/3hFiWmJ1UUeH5bljAr3ik0) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Bugambilia](https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK) | 2:14 | 2021-12-24 | 2023-12-23 |
 | [Pajarillo Negro](https://open.spotify.com/track/09dLppecX1SSw8eFv5jy78) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Pajarillo Negro](https://open.spotify.com/album/2iyi1dEz7xtssJ6soP3ANE) | 4:02 | 2021-12-24 | 2022-07-17 |
 | [Palabras de Amor](https://open.spotify.com/track/2JYkP3AKFcde7B0azFBJkM) | [Ana Prada](https://open.spotify.com/artist/6hmj4qPtup6hMVe7V4YZ6S), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [No](https://open.spotify.com/album/0q4oKGEI17JZ2M4kVpzQro) | 3:31 | 2022-09-23 | 2022-10-22 |

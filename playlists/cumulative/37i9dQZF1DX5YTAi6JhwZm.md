@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Little Evil](https://open.spotify.com/track/253d4aC4Tj6HBzA8mfwcbm) | [Seamus Blake](https://open.spotify.com/artist/5tGDXwaO3qq4w9mAhZHwZY), [Chris Cheek](https://open.spotify.com/artist/0UNmTLmOIClt5YDeEkZuk1) | [Let's Call the Whole Thing Off](https://open.spotify.com/album/4jWRaPmgnSrobk6RLirNOG) | 5:31 | 2021-12-17 |  |
+| [A Little Evil](https://open.spotify.com/track/253d4aC4Tj6HBzA8mfwcbm) | [Seamus Blake](https://open.spotify.com/artist/5tGDXwaO3qq4w9mAhZHwZY), [Chris Cheek](https://open.spotify.com/artist/0UNmTLmOIClt5YDeEkZuk1) | [Let's Call the Whole Thing Off](https://open.spotify.com/album/4jWRaPmgnSrobk6RLirNOG) | 5:31 | 2021-12-17 | 2024-03-07 |
 | [Amanecer Contigo](https://open.spotify.com/track/2MYRUIraCra1ZrIqQRL8GY) | [Dafnis Prieto Sextet](https://open.spotify.com/artist/1IxYKYyHFmwGIqdI0zkcze) | [Amanecer Contigo](https://open.spotify.com/album/4L3hp7B19QX8YGFjcxBwqJ) | 6:21 | 2021-12-17 |  |
 | [Anything Goes](https://open.spotify.com/track/1VGjnaotsGHOoYBgPkfskN) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Getz Meets Mulligan In Hi\-Fi](https://open.spotify.com/album/5Ft7Bg8tagTE77q6yOeQUX) | 3:39 | 2023-10-26 |  |
 | [Anything Goes](https://open.spotify.com/track/4SK4XpzqomNOm2RkscCk5D) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Getz Meets Mulligan In Hi\-Fi](https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0) | 3:39 | 2021-12-17 | 2023-10-28 |

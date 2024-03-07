@@ -1655,6 +1655,24 @@
     },
     {
       "album": {
+        "name": "Back The Way We Came",
+        "url": "https://open.spotify.com/album/1rzUKBVxC07E37ikpWRZcH"
+      },
+      "artists": [
+        {
+          "name": "Coming Up Roses",
+          "url": "https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221734,
+      "name": "Back The Way We Came",
+      "url": "https://open.spotify.com/track/0asqqiUE6xJu038O4a1m2S"
+    },
+    {
+      "album": {
         "name": "Backwards",
         "url": "https://open.spotify.com/album/0AV6Vc6dnstWAOJpRnN25V"
       },
@@ -13364,7 +13382,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 167909,
       "name": "Nosebleeds",
       "url": "https://open.spotify.com/track/0inudhDQkXZ6DjJ2X0lbcy"

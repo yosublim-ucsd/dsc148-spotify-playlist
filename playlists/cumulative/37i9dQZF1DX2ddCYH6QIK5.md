@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Lisl, Artwork: Isu Kim.
 
-1,047 songs - 2 day 12 hr 34 min
+1,048 songs - 2 day 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -890,7 +890,8 @@
 | [Tatort](https://open.spotify.com/track/4UNSsfvFlBJtNZFWiS5TFP) | [viel weiß und rot](https://open.spotify.com/artist/4AlaazX0OVfmub8mputrFX), [Joshua von Söhnen](https://open.spotify.com/artist/4WME83H6qJbv7z6nvneMNG) | [Klassischer Sonntag](https://open.spotify.com/album/1j6AjpvKiPfAV6WOXmd5cF) | 3:58 | 2022-04-27 | 2022-06-23 |
 | [Tausend Tage](https://open.spotify.com/track/1RxbMeZmTxJP9XxtVLb1LZ) | [SKUPPIN](https://open.spotify.com/artist/0uLZaQmlBJ9mWEdXlDBaeh), [PAULINKO](https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54) | [Tausend Tage](https://open.spotify.com/album/1KCUc8t5F1Avqb1nWBkJgZ) | 3:50 | 2022-05-18 | 2022-06-09 |
 | [Television](https://open.spotify.com/track/78DPcZ9xY3UCchuQHnvDIc) | [ANT ENOCH](https://open.spotify.com/artist/0ex51vgneM2buiVP366poW) | [Television](https://open.spotify.com/album/30jJn3P84TI2hjXAjUAzlM) | 3:13 | 2024-01-24 |  |
-| [Tell Me](https://open.spotify.com/track/7tRVTrvTIpYC15QvLkI3Tv) | [gome](https://open.spotify.com/artist/2kXp8r42AOwb6s5GzdiukU) | [Tell Me](https://open.spotify.com/album/1wR8GmaQ6xYVL1i1918Ilw) | 3:53 | 2023-11-22 |  |
+| [Tell Me](https://open.spotify.com/track/1LiQJVCQ78nWOMRAGIlHgB) | [gome](https://open.spotify.com/artist/2kXp8r42AOwb6s5GzdiukU) | [Tell Me EP](https://open.spotify.com/album/0CcIISxMUzNAGCnCWOwSQI) | 3:53 | 2024-02-21 |  |
+| [Tell Me](https://open.spotify.com/track/7tRVTrvTIpYC15QvLkI3Tv) | [gome](https://open.spotify.com/artist/2kXp8r42AOwb6s5GzdiukU) | [Tell Me](https://open.spotify.com/album/1wR8GmaQ6xYVL1i1918Ilw) | 3:53 | 2023-11-22 | 2024-03-07 |
 | [Tell Me One Lie](https://open.spotify.com/track/5UVJybNgRKoIkegkEipqfQ) | [Ronis Goliath](https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t) | [Tell Me One Lie](https://open.spotify.com/album/1B9VQ8HIZdeZEzd5F3iJB8) | 2:41 | 2022-01-05 | 2022-02-03 |
 | [Tempelhof](https://open.spotify.com/track/2uVRcTm8tjQntOYcyr60J1) | [Ronja](https://open.spotify.com/artist/7dl7jnssJ6pvKbrMpHw4KX) | [Tempelhof](https://open.spotify.com/album/2rvobaAp5tVDQEi63ukyEE) | 2:53 | 2023-07-19 | 2024-01-04 |
 | [Temptation](https://open.spotify.com/track/39KQg3YzjiygWXvetF8jkp) | [Ma Fleur](https://open.spotify.com/artist/6tfcRIX77qxX3KZB1v94k7) | [Temptation](https://open.spotify.com/album/5nRhkyBupbJVorHbAzrcwV) | 3:49 | 2022-07-06 | 2022-09-15 |

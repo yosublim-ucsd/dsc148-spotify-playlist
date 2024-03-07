@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 70593,
+  "2024-03-07": 70598,
   "date_first_scraped": "2023-06-13",
   "description": "De la isla, pa' el mundo! Representando la cultura con orgullo. Cover: Christian Alicea",
   "name": "Hecho en Puerto Rico",
@@ -897,7 +897,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 203508,
       "name": "Gozo",
       "url": "https://open.spotify.com/track/4IomMRQFM45yVC2tN5CppP"
@@ -1915,7 +1915,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 155297,
       "name": "Sencilla",
       "url": "https://open.spotify.com/track/2Jtv8ouukqBtC5OB7Eh2Oj"

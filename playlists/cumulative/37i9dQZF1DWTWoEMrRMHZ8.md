@@ -4,7 +4,7 @@
 
 > As belas novidades da MPB\. Foto: Tuyo, Luedji Luna
 
-629 songs - 1 day 13 hr 6 min
+630 songs - 1 day 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Abrigo](https://open.spotify.com/track/5nhJ79B02fCLIHIIQaybev) | [Johnny Hooker](https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs) | [ØRGIA](https://open.spotify.com/album/2hi7x3OWSRjrXozCR8OwIA) | 4:33 | 2022-06-17 | 2022-07-16 |
 | [Absurdo](https://open.spotify.com/track/27D2NN2jAY8FR9Y3YPdGN2) | [Os Fugitivos](https://open.spotify.com/artist/0JCwkTQqtgVQXBRxwEloEg) | [Samburá](https://open.spotify.com/album/6meKDPHVhWTjSXPlr9JOqg) | 4:04 | 2023-11-03 |  |
 | [Acabou](https://open.spotify.com/track/3502SF6xTXvq6GNJ380me6) | [Leo Middea](https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG) | [Acabou](https://open.spotify.com/album/3C9V9mhn1oFxnMEUbXzAim) | 2:58 | 2023-06-02 | 2023-09-02 |
+| [Acabou, mas tem...](https://open.spotify.com/track/5egpEMl7hYdmLP9ptpeE12) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Acabou, mas tem...](https://open.spotify.com/album/2qtqD1onYm68cn0KwhHJQ1) | 3:55 | 2024-03-06 |  |
 | [Acender as Velas](https://open.spotify.com/track/4EeEwcqSLV8QmguC33sxE6) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E), [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Negra Ópera](https://open.spotify.com/album/12ruJLnnZM4RlCAlxPSq6f) | 4:27 | 2023-05-12 | 2023-06-17 |
 | [Adeus América](https://open.spotify.com/track/5peHuOuPp0eaaCJU2lgNa1) | [Bebel Gilberto](https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz) | [Adeus América](https://open.spotify.com/album/0pEpQFIqJu7aW1OV0ydGpk) | 3:50 | 2023-07-14 | 2023-09-02 |
 | [Agora](https://open.spotify.com/track/1hBC2o7TjAN6unETxqcBgZ) | [Felipe Câmara](https://open.spotify.com/artist/7nMcdHn8XjZDOzCn1x83f0), [Malú Lomando](https://open.spotify.com/artist/6u5Wnrt6qAc1hQekBvcLXm) | [Agora](https://open.spotify.com/album/5YoQlOgX2LFyCq7QKFTPWM) | 4:30 | 2022-04-01 | 2022-04-29 |
@@ -50,7 +51,7 @@
 | [Andar e Ver](https://open.spotify.com/track/7l6SEQJJCEVGMUgTaziGLM) | [Pedro Mann](https://open.spotify.com/artist/6K0th5Ko8P3DR6KHN4xVoj) | [Andar e Ver](https://open.spotify.com/album/5gd7becKfyVdxcDEkgWFQA) | 2:50 | 2021-12-24 | 2022-02-12 |
 | [Anja](https://open.spotify.com/track/3NveB9CxR2bDwiCvOrkuEs) | [Luiz Tatit](https://open.spotify.com/artist/09AMOcvTuiwxkukhE9wMma), [Lenna Bahule](https://open.spotify.com/artist/4O0fKo5SJeqySbOXgWyhm0) | [Anja](https://open.spotify.com/album/7a5Fu9YSIEzLuShbm6A0rw) | 3:14 | 2022-07-01 | 2022-07-16 |
 | [Ano Que Vem](https://open.spotify.com/track/34QGsXNY4HNxta9zx6RuPs) | [Flerte Flamingo](https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih) | [Ano Que Vem](https://open.spotify.com/album/0BTvwv5VtjV2a42EJm8SIl) | 2:59 | 2022-12-09 | 2023-01-06 |
-| [Ao Arrepio da Lei](https://open.spotify.com/track/4xsVg1mKcHTHa9gxqeuiNA) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Ao Arrepio da Lei](https://open.spotify.com/album/1UwTMohdeycHtJFsRJ4nCY) | 3:39 | 2024-03-01 |  |
+| [Ao Arrepio da Lei](https://open.spotify.com/track/4xsVg1mKcHTHa9gxqeuiNA) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8), [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Ao Arrepio da Lei](https://open.spotify.com/album/1UwTMohdeycHtJFsRJ4nCY) | 3:39 | 2024-03-01 |  |
 | [Ao Que Vai Chegar](https://open.spotify.com/track/0vMwa2OtZ2FLsqQ1lJBFYK) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Mutinho](https://open.spotify.com/artist/1A8yxioKh9YeFbwy10y3mK) | [Ao Que Vai Chegar](https://open.spotify.com/album/6QVpgpJQUDGHL97KChJ39z) | 3:26 | 2023-07-21 | 2023-09-02 |
 | [Apesar de Você](https://open.spotify.com/track/0gTWSdIl8bUq7us45K3PZh) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg) | [Apesar de Você](https://open.spotify.com/album/4ol2nFnfys22NkU5wAys79) | 4:35 | 2022-10-28 | 2023-04-01 |
 | [Aposta](https://open.spotify.com/track/1fzPRqUPmOL823vG6r9rPg) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7), [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Aposta](https://open.spotify.com/album/1cb98k7ng0tmg4dRBq77OB) | 3:22 | 2021-12-24 | 2023-04-29 |
@@ -209,7 +210,7 @@
 | [Eternos Verões](https://open.spotify.com/track/6Sz2Nx3KMpdx2bHKjTXx24) | [Leticia](https://open.spotify.com/artist/0QIGO0ozcV46eGC8bstTe8), [Laura Cândida](https://open.spotify.com/artist/6y5THfoaAdAYspLKKxwmXk) | [Eternos Verões](https://open.spotify.com/album/39oC7XgpVOl6d07rbxhuFp) | 4:05 | 2023-11-03 | 2023-11-25 |
 | [Eu Comigo Mesmo](https://open.spotify.com/track/5U76GlEa8ybBPioNHYnJ7S) | [Renato Teixeira](https://open.spotify.com/artist/0FIgaYFg1Vp5TSLm2xwtLI), [Fagner](https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8) | [Eu Comigo Mesmo](https://open.spotify.com/album/3Fn34ubPgWNrJEXpcj7wTB) | 3:48 | 2022-04-01 | 2022-04-09 |
 | [Eu Nem Ligo](https://open.spotify.com/track/5hZw6yNbvVIyKaCwX04e6B) | [Bruna Caram](https://open.spotify.com/artist/3pSMpWqJo6X3uImKekyupo), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8), [Lan Lahn](https://open.spotify.com/artist/00XaOztVLjv4rRQ5gqDFar) | [Eu Nem Ligo](https://open.spotify.com/album/68CiYAj4cMlbSxsIMRkiqi) | 3:03 | 2023-02-22 | 2023-03-12 |
-| [Eu Ofereço Flores](https://open.spotify.com/track/7sYsluG2bZNHLqDMbfU5T5) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Eu Ofereço Flores](https://open.spotify.com/album/2pGWMaWZIlnKP0hwVX8SQb) | 4:10 | 2023-11-24 |  |
+| [Eu Ofereço Flores](https://open.spotify.com/track/7sYsluG2bZNHLqDMbfU5T5) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Eu Ofereço Flores](https://open.spotify.com/album/2pGWMaWZIlnKP0hwVX8SQb) | 4:10 | 2023-11-24 | 2024-03-07 |
 | [Eu Sei Que Vou Te Amar](https://open.spotify.com/track/0PV0a0DewOdjcMJLOka6pz) | [Ayrton Montarroyos](https://open.spotify.com/artist/4wjq6jnuXsDYcK1fGztL6h), [Cainã Cavalcante](https://open.spotify.com/artist/5p0Jm46smk1qSCdQhzYTzg) | [A Música de Tom](https://open.spotify.com/album/5hjn2o1Iqbai6cucACfQAN) | 3:05 | 2021-12-24 | 2024-03-02 |
 | [Eu Te Amo \- Voz E Violão](https://open.spotify.com/track/4U9eZDj53JgPJxnEMZjd0h) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Simples](https://open.spotify.com/album/7xVxIAZOM8ac4viH06lVD9) | 3:35 | 2021-12-24 | 2023-01-06 |
 | [Eu Vi!](https://open.spotify.com/track/4robtOMus4YUBjtBVL7n0b) | [Thiago Elniño](https://open.spotify.com/artist/5x7AmAnecUurZjYguXAwED) | [OMINIRA A Historia de João Bento](https://open.spotify.com/album/782sfffrhSKieZSoTKdGIE) | 1:58 | 2023-06-02 | 2023-09-02 |

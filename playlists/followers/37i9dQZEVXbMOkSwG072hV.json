@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 353492,
+  "2024-03-07": 353485,
   "date_first_scraped": "2022-01-18",
   "description": "Your daily update of the most viral tracks right now - Brazil.",
   "name": "Viral 50 - Brazil",
@@ -1783,7 +1783,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-05",
+      "date_removed": null,
       "duration_ms": 135057,
       "name": "Ai Ui Que Bunda Que Voc\u00ea Tem",
       "url": "https://open.spotify.com/track/1hKva9BUEPMAz4rwGCL2XE"
@@ -7853,7 +7853,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 264324,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
@@ -9892,6 +9892,32 @@
     },
     {
       "album": {
+        "name": "Cyberpunk",
+        "url": "https://open.spotify.com/album/37tMfPWBrcGJFtzQ5U35Lq"
+      },
+      "artists": [
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+        },
+        {
+          "name": "Neckklace",
+          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112131,
+      "name": "Cyberpunk",
+      "url": "https://open.spotify.com/track/79kpDaVsQQUKRKYaLVsBbK"
+    },
+    {
+      "album": {
         "name": "C\u00e9u Ros\u00e9",
         "url": "https://open.spotify.com/album/4prSTxTaqEuv7EkAtdd5MR"
       },
@@ -10931,7 +10957,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 438748,
       "name": "Desacato",
       "url": "https://open.spotify.com/track/1fzaUKQv7sgGW0udQVghSW"
@@ -11744,6 +11770,24 @@
     },
     {
       "album": {
+        "name": "Diz A\u00ed Qual \u00e9 o Plano?",
+        "url": "https://open.spotify.com/album/4MrFivDpKIJtcn9PPo1Ncq"
+      },
+      "artists": [
+        {
+          "name": "IG",
+          "url": "https://open.spotify.com/artist/6yLpl5iAPGq0Dhss8ffGDQ"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270720,
+      "name": "Diz A\u00ed Qual \u00e9 o Plano?",
+      "url": "https://open.spotify.com/track/74jwy1qb9UAOufiDSn2Fut"
+    },
+    {
+      "album": {
         "name": "Dj Swat Que Comanda 1",
         "url": "https://open.spotify.com/album/1xttiiQuNlxGr1AV2ZVhwy"
       },
@@ -12543,6 +12587,24 @@
       "duration_ms": 194583,
       "name": "e se for pra ser sincera:",
       "url": "https://open.spotify.com/track/1b0xzVRr8fIGa8dftdW3S8"
+    },
+    {
+      "album": {
+        "name": "EASY",
+        "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164545,
+      "name": "EASY",
+      "url": "https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI"
     },
     {
       "album": {
@@ -14071,7 +14133,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 131378,
       "name": "EU BOTO OU NAO BOTO",
       "url": "https://open.spotify.com/track/2r8amrfjUY8e8qAEqpzWHd"
@@ -17455,7 +17517,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 170521,
       "name": "GOOD DAY",
       "url": "https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O"
@@ -22086,6 +22148,32 @@
     },
     {
       "album": {
+        "name": "Boiadeira Internacional (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1eLF8DMP6DQrGcJXqqIlAa"
+      },
+      "artists": [
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        },
+        {
+          "name": "Hungria",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206538,
+      "name": "Lua",
+      "url": "https://open.spotify.com/track/6r6wTVl7sBndpdlzBSEYnF"
+    },
+    {
+      "album": {
         "name": "Where You Wanna Go",
         "url": "https://open.spotify.com/album/2ZTIEsWdfacwU4xcEpq8vB"
       },
@@ -26186,7 +26274,7 @@
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 99720,
+      "duration_ms": 99692,
       "name": "MONTAGEM DIAMANTE ROSA",
       "url": "https://open.spotify.com/track/6vEOZGTBgE6gASrzAWNxTH"
     },
@@ -26226,7 +26314,7 @@
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 114984,
+      "duration_ms": 114955,
       "name": "MONTAGEM DIAMANTE ROSA - SLOWED",
       "url": "https://open.spotify.com/track/6fdjPVlCwFryREAsmRHy4C"
     },
@@ -27259,6 +27347,32 @@
       "duration_ms": 119158,
       "name": "NA SELVA DA PENHA, TROPA DO URSO",
       "url": "https://open.spotify.com/track/3dyK4Gu1T51afOI0Fx1FOr"
+    },
+    {
+      "album": {
+        "name": "Na Sua Vida Eu Sou o Problema",
+        "url": "https://open.spotify.com/album/0PklqhhK1BKoj1lVDEj3Jl"
+      },
+      "artists": [
+        {
+          "name": "Dj Alexandre Borges",
+          "url": "https://open.spotify.com/artist/0ocK4YeIBhnVN0TwlB0qNj"
+        },
+        {
+          "name": "Mc Pretchako",
+          "url": "https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161015,
+      "name": "Na Sua Vida Eu Sou o Problema",
+      "url": "https://open.spotify.com/track/1d4ToRTvxBoR5EQRIlB0js"
     },
     {
       "album": {
@@ -31723,6 +31837,24 @@
     {
       "album": {
         "name": "Ph Vem Desestressar",
+        "url": "https://open.spotify.com/album/7HCebNE1mYSWl9BTcj4Kra"
+      },
+      "artists": [
+        {
+          "name": "lunacyx",
+          "url": "https://open.spotify.com/artist/66sLQAYWYk2YvRkWTODFnX"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65984,
+      "name": "Ph Vem Desestressar",
+      "url": "https://open.spotify.com/track/3BZpoUZfuIHElkPiNt16OC"
+    },
+    {
+      "album": {
+        "name": "Ph Vem Desestressar",
         "url": "https://open.spotify.com/album/4FuOQwByeLyUqFtMVAkUQA"
       },
       "artists": [
@@ -31733,7 +31865,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 65984,
       "name": "Ph Vem Desestressar",
       "url": "https://open.spotify.com/track/2mtD4W8ditVa3Md9x74L01"
@@ -31863,7 +31995,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 179231,
       "name": "Pi Po Po Po Ro Po",
       "url": "https://open.spotify.com/track/1Av3KDXLuWVtbtWNtzx9ma"
@@ -32623,7 +32755,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 127689,
       "name": "Poison - Hazbin Hotel Original Soundtrack",
       "url": "https://open.spotify.com/track/6ZXL1A1BVshe1JZ1IY734k"
@@ -34545,7 +34677,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 270697,
       "name": "redrum",
       "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
@@ -37699,6 +37831,24 @@
       "duration_ms": 187026,
       "name": "Slow Dancing",
       "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
+    },
+    {
+      "album": {
+        "name": "EASY",
+        "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166384,
+      "name": "Smart",
+      "url": "https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T"
     },
     {
       "album": {
@@ -41276,6 +41426,24 @@
     },
     {
       "album": {
+        "name": "Training Season",
+        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
+    },
+    {
+      "album": {
         "name": "TRAP DE MALOKA",
         "url": "https://open.spotify.com/album/5mDbL5J9Unm0GVZnZCMLmH"
       },
@@ -42427,7 +42595,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 263702,
       "name": "Uma Vez - Ao Vivo",
       "url": "https://open.spotify.com/track/0cK1rd4UAIzTnPtuWFqumn"

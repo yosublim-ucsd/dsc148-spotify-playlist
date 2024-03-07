@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 
 > The freshest Hip Hop and R&amp;B.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 24,297 likes - 60 songs - 2 hr 36 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 24,300 likes - 60 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Gangsta](https://open.spotify.com/track/49oKnEjgRSs3DMXScEU2G1) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Gangsta](https://open.spotify.com/album/1qz3r9Ys5UXaE0XToUU71b) | 3:14 |
 | 2 | [Green Carpet](https://open.spotify.com/track/4OYy7dfHbLKi4lvpzpzeRv) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Green Carpet](https://open.spotify.com/album/7MZCu883H2Y7Br2K9Wd3Ef) | 2:13 |
 | 3 | [Case Dismissed](https://open.spotify.com/track/21Snj1BjgpX3eeSCudzqAI) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Case Dismissed](https://open.spotify.com/album/50VcqInrcl5ZBuJlKPOnjX) | 1:18 |
-| 4 | [JAPANESE DENIM \(feat\. Veeze\)](https://open.spotify.com/track/5CG71bdXpZdQBYPMCzTXvK) | [DaeMoney](https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg), [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [ROCKSTAR LIFESTYLE 2](https://open.spotify.com/album/5Ma67N8iTqF6wY6kIT7oBI) | 2:07 |
+| 4 | [JAPANESE DENIM \(feat\. Veeze & LUCKI\)](https://open.spotify.com/track/5CG71bdXpZdQBYPMCzTXvK) | [DaeMoney](https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [ROCKSTAR LIFESTYLE 2](https://open.spotify.com/album/5Ma67N8iTqF6wY6kIT7oBI) | 2:07 |
 | 5 | [Emmett Till](https://open.spotify.com/track/4N1xubWDWvlYM2kWD4GQZD) | [PaperRoute Woo](https://open.spotify.com/artist/5D2pVmcsajqTCO3czYdzrF) | [Emmett Till](https://open.spotify.com/album/5I3gNgDbfY7kHzJT45EO0z) | 2:37 |
 | 6 | [Rap Saved Me](https://open.spotify.com/track/5JJzfwx67N6HldPk15b1QV) | [BERNA](https://open.spotify.com/artist/4r533q4JGGMJ5ufDV6iOed) | [Rap Saved Me](https://open.spotify.com/album/0W1uhkopAyB1EDN8IrGViS) | 2:01 |
 | 7 | [Ghosts 2](https://open.spotify.com/track/583PX1XZxvGOpVANFlgJ4q) | [MBNel](https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF) | [Ghosts 2](https://open.spotify.com/album/6saWAuIzIhkmYUoFNwagtc) | 3:35 |

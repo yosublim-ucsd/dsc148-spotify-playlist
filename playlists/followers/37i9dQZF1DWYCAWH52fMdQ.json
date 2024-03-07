@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 263017,
+  "2024-03-07": 263022,
   "date_first_scraped": "2022-05-30",
   "description": "Get Ready! Show Time!",
   "name": "This Is iKON",
@@ -640,6 +640,28 @@
     },
     {
       "album": {
+        "name": "Sir.Robert",
+        "url": "https://open.spotify.com/album/528Gdwx8VgE1UucUW8OcuE"
+      },
+      "artists": [
+        {
+          "name": "BOBBY",
+          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
+        },
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183866,
+      "name": "harmless (Feat. CHANMINA)",
+      "url": "https://open.spotify.com/track/7cvtsCXaLRyBmDgrtDCfxa"
+    },
+    {
+      "album": {
         "name": "i DECIDE",
         "url": "https://open.spotify.com/album/2UUuQ8lbbd04xl42Qt6Zy3"
       },
@@ -1015,6 +1037,24 @@
       "duration_ms": 209648,
       "name": "LOVE SCENARIO",
       "url": "https://open.spotify.com/track/3d3ELsqKlQ7WA0a10Isu3l"
+    },
+    {
+      "album": {
+        "name": "NAKSEO[\u6200]",
+        "url": "https://open.spotify.com/album/4DBUFR0WJfzunHu0u316T5"
+      },
+      "artists": [
+        {
+          "name": "DK",
+          "url": "https://open.spotify.com/artist/5kS21D4GeBHLdpvPSaK9RF"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222106,
+      "name": "LTNS",
+      "url": "https://open.spotify.com/track/5C1Ik1Np1IimNQlP0Hma01"
     },
     {
       "album": {

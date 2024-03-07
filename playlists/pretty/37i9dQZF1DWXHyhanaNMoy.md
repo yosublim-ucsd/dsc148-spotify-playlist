@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: KATNUF
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,437 likes - 62 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,468 likes - 62 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 5 | [Romeo Must Die \(RMD\)](https://open.spotify.com/track/10TygH7MoyZQFRMPDE2N6Z) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Romeo Must Die \(RMD\)](https://open.spotify.com/album/4Q2RjSDGbmXumbrTQTEYd3) | 2:40 |
 | 6 | [Lost & Found](https://open.spotify.com/track/7kleqbfZAvPzMMiX1uxCin) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Lost & Found](https://open.spotify.com/album/2UMTQXRwobqaIDJaYDsHN8) | 3:15 |
 | 7 | [T’étais où ?](https://open.spotify.com/track/1q6nM8Y7NJDsgFknLfZfp4) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [T’étais où ?](https://open.spotify.com/album/4YzgzJggoHU1azpDoUMMf5) | 3:41 |
-| 8 | [Grey \(feat\. Aitch\)](https://open.spotify.com/track/5XtIcFaG7MjXyjSAiIWH5e) | [Yung Filly](https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Grey \(feat\. Aitch\)](https://open.spotify.com/album/7cNzYOvsIKo8wSpwubBwJK) | 2:49 |
-| 9 | [Tuesday](https://open.spotify.com/track/7zPOZujiZy4q0RYIx7mKKh) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Tuesday](https://open.spotify.com/album/0QvhqTigV3PbcHT93q3Sfn) | 2:54 |
-| 10 | [My Type](https://open.spotify.com/track/6OG7hyl1LZv2dq9QXX7WEv) | [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt) | [My Type](https://open.spotify.com/album/5RrcjQOHU4p7Buzgkj1cvq) | 2:55 |
-| 11 | [Can't Let Go](https://open.spotify.com/track/230BRmQgwbiSijUbm04V6Q) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Can't Let Go](https://open.spotify.com/album/4UgjilQyPmOKVgbOkhsViD) | 2:38 |
-| 12 | [Beter dan je Ex](https://open.spotify.com/track/4CTgqYUQwsUBqMODJH26BI) | [Andrea Rafaella](https://open.spotify.com/artist/2yE0kA8MsGco9LevlkJjcq), [Burleson](https://open.spotify.com/artist/2LrUyWIbWXIs6rruqS8rw8) | [Beter dan je Ex](https://open.spotify.com/album/1atlknYHSeBUnEyyi6E1f1) | 2:15 |
+| 8 | [Beter dan je Ex](https://open.spotify.com/track/4CTgqYUQwsUBqMODJH26BI) | [Andrea Rafaella](https://open.spotify.com/artist/2yE0kA8MsGco9LevlkJjcq), [Burleson](https://open.spotify.com/artist/2LrUyWIbWXIs6rruqS8rw8) | [Beter dan je Ex](https://open.spotify.com/album/1atlknYHSeBUnEyyi6E1f1) | 2:15 |
+| 9 | [Grey \(feat\. Aitch\)](https://open.spotify.com/track/5XtIcFaG7MjXyjSAiIWH5e) | [Yung Filly](https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Grey \(feat\. Aitch\)](https://open.spotify.com/album/7cNzYOvsIKo8wSpwubBwJK) | 2:49 |
+| 10 | [Tuesday](https://open.spotify.com/track/7zPOZujiZy4q0RYIx7mKKh) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Tuesday](https://open.spotify.com/album/0QvhqTigV3PbcHT93q3Sfn) | 2:54 |
+| 11 | [My Type](https://open.spotify.com/track/6OG7hyl1LZv2dq9QXX7WEv) | [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt) | [My Type](https://open.spotify.com/album/5RrcjQOHU4p7Buzgkj1cvq) | 2:55 |
+| 12 | [Can't Let Go](https://open.spotify.com/track/230BRmQgwbiSijUbm04V6Q) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Can't Let Go](https://open.spotify.com/album/4UgjilQyPmOKVgbOkhsViD) | 2:38 |
 | 13 | [Delulu](https://open.spotify.com/track/5QHAXFwbq9NVQWsHSSF9Qs) | [Yssine](https://open.spotify.com/artist/70pnzZahqft8hk7I4vlTy1) | [Delulu](https://open.spotify.com/album/09IFfWicVoOYZm1YIWKlIE) | 2:31 |
 | 14 | [Crazy Voor Je](https://open.spotify.com/track/1v4iJIzIG7s24gFHkkRqZ3) | [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M), [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN), [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt), [WAVEY](https://open.spotify.com/artist/16yIjgY7iwGu91UqIgTFTt) | [Crazy Voor Je](https://open.spotify.com/album/7tr5ueYHoryHonldC6JNG8) | 2:16 |
 | 15 | [Hypé](https://open.spotify.com/track/0jlEtXM0sxuoSmO0adcZ3J) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Hypé](https://open.spotify.com/album/4sLU8ldibaLzZcCfbqMzU6) | 2:37 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 61 | [Fine Girl](https://open.spotify.com/track/2Oc9pIhy8XFFbF5DhfeBKr) | [Djaga Djaga](https://open.spotify.com/artist/4mg1S6eUvRL9IZKzEShYB8), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Fine Girl](https://open.spotify.com/album/3z19Y2z4vtaoYGdcVyYX2e) | 3:11 |
 | 62 | [Sweety Darling](https://open.spotify.com/track/1pT2D94nmsih5N9gqoV5bJ) | [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub), [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS), [Fmg](https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H) | [Sweety Darling](https://open.spotify.com/album/2NtImoM1XD9dQefEpeQx9S) | 3:07 |
 
-Snapshot ID: `MCw1ZDE4NjU5OGMwNDRjMDg0NDc4NDkzNDAzNjVlYmQ0NjRmNmYzYmIy`
+Snapshot ID: `MCxiMTg4MTYxMTUzYTM2MDYxZTJhNzhhYWJiY2JlYmVmODYwY2NlZmQ4`

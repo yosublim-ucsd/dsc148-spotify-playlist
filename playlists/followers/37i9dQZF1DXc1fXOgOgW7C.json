@@ -1,9 +1,27 @@
 {
-  "2024-03-06": 40390,
+  "2024-03-07": 40401,
   "date_first_scraped": "2023-07-30",
   "description": "Las canciones que marcaron una \u00e9poca.",
   "name": "Los 2010 Argentina",
   "tracks": [
+    {
+      "album": {
+        "name": "Las Ligas Menores",
+        "url": "https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g"
+      },
+      "artists": [
+        {
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229842,
+      "name": "A 1200 Km",
+      "url": "https://open.spotify.com/track/4zdEcOj9IEAE1cWG7zzYxB"
+    },
     {
       "album": {
         "name": "El Calor Del Pleno Invierno",
@@ -1419,7 +1437,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 253466,
       "name": "V\u00edctimas del Cielo",
       "url": "https://open.spotify.com/track/2LPq1zhFHJsCgXXKDA4RFd"

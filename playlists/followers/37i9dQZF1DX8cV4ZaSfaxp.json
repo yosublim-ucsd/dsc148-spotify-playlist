@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 50842,
+  "2024-03-07": 50864,
   "date_first_scraped": "2022-05-15",
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: Mitty(\ubbf8\ud2f0)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
   "name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
@@ -647,6 +647,24 @@
       "duration_ms": 211973,
       "name": "Baby Don't Play",
       "url": "https://open.spotify.com/track/3UAvQZ4pM9mXKfZBv8Go1g"
+    },
+    {
+      "album": {
+        "name": "Marry My Husband OST Special Track",
+        "url": "https://open.spotify.com/album/3iQ2MAowzcgVZupdIuonYh"
+      },
+      "artists": [
+        {
+          "name": "YUQI",
+          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230617,
+      "name": "Bad Liar",
+      "url": "https://open.spotify.com/track/4dgspE323L82XYAjpnlXsv"
     },
     {
       "album": {
@@ -4563,7 +4581,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 191426,
       "name": "Starry Night",
       "url": "https://open.spotify.com/track/1bc8AJGZcWin6rLbCpHXVq"

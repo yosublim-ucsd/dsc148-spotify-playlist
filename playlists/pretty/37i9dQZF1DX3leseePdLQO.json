@@ -1,12 +1,12 @@
 {
   "description": "Pop para refrescarte los d\u00edas, featuring KAROL G & Ti\u00ebsto.",
-  "num_followers": 10401,
+  "num_followers": 10404,
   "original_name": "Crema Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjNhNTcyMDIzOTljNjAyODlkNzQwYmQwN2E1YTE3MGY3MDdhY2Q3",
+  "snapshot_id": "MCwyZjNmMWMwNGI4MDMzNzJjZTUxMzkzM2EzODdiYTViZjQ2Njc2MzM3",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -483,6 +483,26 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Blanco Y Negro",
+        "url": "https://open.spotify.com/album/7csomMVHTbSZuqLPofYE8Y"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        },
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 211474,
+      "name": "Blanco Y Negro",
+      "url": "https://open.spotify.com/track/3s96JLi4otLNGrVK6Eik7f"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Sincer\u00e1ndome",
         "url": "https://open.spotify.com/album/3m7RgFTpgegZrhETayZOA7"
       },
@@ -511,26 +531,6 @@
       "duration_ms": 158373,
       "name": "Espejo",
       "url": "https://open.spotify.com/track/5bvIt09E0tg9YKlcncjacf"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Blanco Y Negro",
-        "url": "https://open.spotify.com/album/7csomMVHTbSZuqLPofYE8Y"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        },
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 211474,
-      "name": "Blanco Y Negro",
-      "url": "https://open.spotify.com/track/3s96JLi4otLNGrVK6Eik7f"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "ESQUEMAS",
-        "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 161880,
-      "name": "BAIL\u00c9 CON MI EX",
-      "url": "https://open.spotify.com/track/2Td8H23gwQZqKubcUOyCSI"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Estemos Donde Estemos",
         "url": "https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 149973,
       "name": "Se Siente As\u00ed",
       "url": "https://open.spotify.com/track/4PqABTCOnE62ncPdwra8rk"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "ESQUEMAS",
+        "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 161880,
+      "name": "BAIL\u00c9 CON MI EX",
+      "url": "https://open.spotify.com/track/2Td8H23gwQZqKubcUOyCSI"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -883,38 +883,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 214573,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/1EuAUmdu2uenavbPzm0KMb"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Lluvia: Rain City Vol.2",
-        "url": "https://open.spotify.com/album/1d3pKhYKoQ2d32Exs3wTyr"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        }
-      ],
-      "duration_ms": 199497,
-      "name": "Negar",
-      "url": "https://open.spotify.com/track/6ujcAtYCwOXPbGl9bVJBue"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "La Idea",
         "url": "https://open.spotify.com/album/3oM0PBnieCf5JcKbaiTnVU"
       },
@@ -927,6 +895,22 @@
       "duration_ms": 194257,
       "name": "La Idea",
       "url": "https://open.spotify.com/track/5hbx6fWt9jt9dWSOHK3uGb"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 214573,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/1EuAUmdu2uenavbPzm0KMb"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1031,22 +1015,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Los Mejores A\u00f1os",
-        "url": "https://open.spotify.com/album/1FfoXxOshDOFAv1C84pSJR"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 202106,
-      "name": "Los Mejores A\u00f1os",
-      "url": "https://open.spotify.com/track/28IF0Kp3uUeWHPkXa0yjNn"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
       },
@@ -1059,6 +1027,22 @@
       "duration_ms": 174600,
       "name": "7 Veces",
       "url": "https://open.spotify.com/track/7iJQk4HvwwIZWrEfnuzTPP"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Los Mejores A\u00f1os",
+        "url": "https://open.spotify.com/album/1FfoXxOshDOFAv1C84pSJR"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 202106,
+      "name": "Los Mejores A\u00f1os",
+      "url": "https://open.spotify.com/track/28IF0Kp3uUeWHPkXa0yjNn"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1079,22 +1063,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Todo Regresa",
-        "url": "https://open.spotify.com/album/0KpuUua2SlRhsQkgI0QOQi"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 184453,
-      "name": "Todo Regresa",
-      "url": "https://open.spotify.com/track/1jT9pbKiwKC2kEBtpSQ9Hf"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "No siempre quedar\u00e1 Par\u00eds (Remix)",
         "url": "https://open.spotify.com/album/2tfshGlaDqIHUovmOcFL4q"
       },
@@ -1111,6 +1079,22 @@
       "duration_ms": 186045,
       "name": "No siempre quedar\u00e1 Par\u00eds - Remix",
       "url": "https://open.spotify.com/track/4TPugCH4s6bRqhWhGkb2qw"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Todo Regresa",
+        "url": "https://open.spotify.com/album/0KpuUua2SlRhsQkgI0QOQi"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 184453,
+      "name": "Todo Regresa",
+      "url": "https://open.spotify.com/track/1jT9pbKiwKC2kEBtpSQ9Hf"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1183,6 +1167,22 @@
       "duration_ms": 231796,
       "name": "yo tuya, t\u00fa m\u00edo",
       "url": "https://open.spotify.com/track/6rqalHH9LASV0IMcDl77uY"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Patadas De Ahogado",
+        "url": "https://open.spotify.com/album/7y2Tb1mkNXSmtrQID2gC56"
+      },
+      "artists": [
+        {
+          "name": "Cupido",
+          "url": "https://open.spotify.com/artist/4dLhakqpeWIymuJnoGTUfB"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Patadas De Ahogado",
+      "url": "https://open.spotify.com/track/6qz3M5feEJMJszEV75JCEO"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Patadas De Ahogado",
-        "url": "https://open.spotify.com/album/7y2Tb1mkNXSmtrQID2gC56"
+        "name": "Triste (Arial 1)",
+        "url": "https://open.spotify.com/album/6MfUhAGiZ9FizmSn0F8KQj"
       },
       "artists": [
         {
-          "name": "Cupido",
-          "url": "https://open.spotify.com/artist/4dLhakqpeWIymuJnoGTUfB"
+          "name": "Susana Cala",
+          "url": "https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Patadas De Ahogado",
-      "url": "https://open.spotify.com/track/6qz3M5feEJMJszEV75JCEO"
+      "duration_ms": 177727,
+      "name": "Triste (Arial 1)",
+      "url": "https://open.spotify.com/track/5NLL3U7OkuCqaAG0zI1K2F"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1315,22 +1315,6 @@
       "duration_ms": 227375,
       "name": "Puntos Equidistantes",
       "url": "https://open.spotify.com/track/5oDXv4nZ83gQsa2QFG6NpB"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Triste (Arial 1)",
-        "url": "https://open.spotify.com/album/6MfUhAGiZ9FizmSn0F8KQj"
-      },
-      "artists": [
-        {
-          "name": "Susana Cala",
-          "url": "https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB"
-        }
-      ],
-      "duration_ms": 177727,
-      "name": "Triste (Arial 1)",
-      "url": "https://open.spotify.com/track/5NLL3U7OkuCqaAG0zI1K2F"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1435,22 +1419,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Parece Mentira",
-        "url": "https://open.spotify.com/album/4qVv2WWXeyeLZqXmbIJ1Pm"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        }
-      ],
-      "duration_ms": 213958,
-      "name": "Parece Mentira",
-      "url": "https://open.spotify.com/track/6MPOkyax2MTcsMVhbQ93vz"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Qu\u00e9 Bueno Que Llegaste",
         "url": "https://open.spotify.com/album/7Gn1FfMecfsL1T1fOAw6MY"
       },
@@ -1467,6 +1435,22 @@
       "duration_ms": 275522,
       "name": "Qu\u00e9 Bueno Que Llegaste",
       "url": "https://open.spotify.com/track/4PNqYBcu4KvFHUD8LOPATS"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Parece Mentira",
+        "url": "https://open.spotify.com/album/4qVv2WWXeyeLZqXmbIJ1Pm"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "duration_ms": 213958,
+      "name": "Parece Mentira",
+      "url": "https://open.spotify.com/track/6MPOkyax2MTcsMVhbQ93vz"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1507,22 +1491,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "La Neta",
-        "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 173310,
-      "name": "Volver a Casa",
-      "url": "https://open.spotify.com/track/0fiY9KBlMWgK1xrQTlmzyS"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Beb\u00e9",
         "url": "https://open.spotify.com/album/31K2ZG9GMEVrUrVqyO94KP"
       },
@@ -1543,18 +1511,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "DARA",
-        "url": "https://open.spotify.com/album/5VGyOaFFu2uXZJybipzjft"
+        "name": "La Neta",
+        "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
       },
       "artists": [
         {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 173893,
-      "name": "Aceler\u00e9",
-      "url": "https://open.spotify.com/track/0cZhddkRPufZYBkO4GxjZv"
+      "duration_ms": 173310,
+      "name": "Volver a Casa",
+      "url": "https://open.spotify.com/track/0fiY9KBlMWgK1xrQTlmzyS"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1571,6 +1539,22 @@
       "duration_ms": 233755,
       "name": "Cu\u00e1nto Me Duele",
       "url": "https://open.spotify.com/track/2sqYGwxcC33aD3rh35hlOK"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "DARA",
+        "url": "https://open.spotify.com/album/5VGyOaFFu2uXZJybipzjft"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 173893,
+      "name": "Aceler\u00e9",
+      "url": "https://open.spotify.com/track/0cZhddkRPufZYBkO4GxjZv"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1659,6 +1643,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "La Mitad",
+        "url": "https://open.spotify.com/album/0NAFgi3WuJ3yOoJ17gF10r"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 156027,
+      "name": "La Mitad",
+      "url": "https://open.spotify.com/track/3tlPXqJieroXrrdfmGTxiN"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "P.M.",
         "url": "https://open.spotify.com/album/1OKBqRNyEQQUlkokuXYEFk"
       },
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "QQ (Qu\u00e9date Queri\u00e9ndome)",
+        "url": "https://open.spotify.com/album/2U1egz9adJ9CUUl58WITwJ"
+      },
+      "artists": [
+        {
+          "name": "Tei Shi",
+          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "QQ (Qu\u00e9date Queri\u00e9ndome)",
+      "url": "https://open.spotify.com/track/1bfadCF5HF3n4smcCsn0gw"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "No Es Suficiente",
         "url": "https://open.spotify.com/album/7KQ3Uvk69GpWX2xqr0UXDV"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 133051,
       "name": "HOY ME PORTO MAL",
       "url": "https://open.spotify.com/track/5o219CGhIIAqx41eXEunRL"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "La Mitad",
-        "url": "https://open.spotify.com/album/0NAFgi3WuJ3yOoJ17gF10r"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 156027,
-      "name": "La Mitad",
-      "url": "https://open.spotify.com/track/3tlPXqJieroXrrdfmGTxiN"
     }
   ],
   "unique_name": "Crema Pop",

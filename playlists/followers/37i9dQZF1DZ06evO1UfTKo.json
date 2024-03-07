@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 688644,
+  "2024-03-07": 688808,
   "date_first_scraped": "2024-01-30",
   "description": "This is Los Tigres Del Norte. The essential tracks, all in one playlist.",
   "name": "This Is Los Tigres Del Norte",
@@ -125,7 +125,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 174066,
       "name": "Coraz\u00f3n Usado",
       "url": "https://open.spotify.com/track/5oSIi2fyuKKnwIRc3t7RZ0"
@@ -555,7 +555,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 213093,
       "name": "Jefe De Jefes",
       "url": "https://open.spotify.com/track/3TxGNwiGxgE42MqqWAdmDg"
@@ -663,7 +663,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 162746,
       "name": "La Jaula De Oro",
       "url": "https://open.spotify.com/track/0Ui4HOFj8qhdh2nm1lJ074"
@@ -1095,7 +1095,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-05",
+      "date_removed": null,
       "duration_ms": 176066,
       "name": "\u00bfEn D\u00f3nde Estabas?",
       "url": "https://open.spotify.com/track/1lLHpScIhT8a9Mebm5YqX4"

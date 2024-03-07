@@ -1,12 +1,12 @@
 {
   "description": "Focus with melodic techno and tech house.",
-  "num_followers": 488707,
+  "num_followers": 488824,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjAyNDU5YmRjZTgyMWFmOGZmNGU5MWFmZmYwZjNlNmE4NGY4NDRi",
+  "snapshot_id": "MCw3MWYyN2VmM2UyZWY5N2JjNTE1NTM4OWMzZmE2ZmYxOTM5NDdjODdm",
   "tracks": [
     {
       "added_at": "2023-11-27 19:00:00",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
+        "name": "Postquam",
+        "url": "https://open.spotify.com/album/53S7Jd7k0K4mC2vg28j99p"
+      },
+      "artists": [
+        {
+          "name": "Vanita",
+          "url": "https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur"
+        }
+      ],
+      "duration_ms": 498419,
+      "name": "Postquam",
+      "url": "https://open.spotify.com/track/3uz86uuWkk7oyJs5pOTN3b"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
         "name": "Petroleum (Fabio Vanore Remix)",
         "url": "https://open.spotify.com/album/0RzfoJA1VVeYENvFuXLsUq"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 544957,
       "name": "Petroleum - Fabio Vanore Remix",
       "url": "https://open.spotify.com/track/1tdQXdkWEp1OreYbLqciFi"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
-        "name": "Postquam",
-        "url": "https://open.spotify.com/album/53S7Jd7k0K4mC2vg28j99p"
-      },
-      "artists": [
-        {
-          "name": "Vanita",
-          "url": "https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur"
-        }
-      ],
-      "duration_ms": 498419,
-      "name": "Postquam",
-      "url": "https://open.spotify.com/track/3uz86uuWkk7oyJs5pOTN3b"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "All I Got",
-        "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        }
-      ],
-      "duration_ms": 275409,
-      "name": "Four Hills",
-      "url": "https://open.spotify.com/track/1EKbKZKDy4mDOtOhnlzrJE"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 479075,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "All I Got",
+        "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 275409,
+      "name": "Four Hills",
+      "url": "https://open.spotify.com/track/1EKbKZKDy4mDOtOhnlzrJE"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Wormhole",
-        "url": "https://open.spotify.com/album/4XOS35KuJZTAGFlVT2nif2"
-      },
-      "artists": [
-        {
-          "name": "Einmusik",
-          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
-        }
-      ],
-      "duration_ms": 437953,
-      "name": "Wormhole",
-      "url": "https://open.spotify.com/track/7ymy76B3YniVBKDwZBPYmP"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Hipotez",
         "url": "https://open.spotify.com/album/6RxQ3jqiZUN5jtYc3w4sDf"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 352920,
       "name": "Hipotez",
       "url": "https://open.spotify.com/track/6HAOuGhIdNkoiUcSJiZUI2"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Wormhole",
+        "url": "https://open.spotify.com/album/4XOS35KuJZTAGFlVT2nif2"
+      },
+      "artists": [
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+        }
+      ],
+      "duration_ms": 437953,
+      "name": "Wormhole",
+      "url": "https://open.spotify.com/track/7ymy76B3YniVBKDwZBPYmP"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
+        "name": "Equinox",
+        "url": "https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln"
+      },
+      "artists": [
+        {
+          "name": "Galexis",
+          "url": "https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h"
+        }
+      ],
+      "duration_ms": 413658,
+      "name": "Equinox",
+      "url": "https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
         "name": "Orchestra (Remixes)",
         "url": "https://open.spotify.com/album/5COwPsSU5XZmd0iczT0tpM"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 412500,
       "name": "Entrudo - Booka Shade Remix",
       "url": "https://open.spotify.com/track/46SwXRrM099b9Oqugpwaxa"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
-        "name": "Equinox",
-        "url": "https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln"
-      },
-      "artists": [
-        {
-          "name": "Galexis",
-          "url": "https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h"
-        }
-      ],
-      "duration_ms": 413658,
-      "name": "Equinox",
-      "url": "https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
+        "name": "The Mood",
+        "url": "https://open.spotify.com/album/3XQPuf5CmDz0jEwgsfsygX"
+      },
+      "artists": [
+        {
+          "name": "Rafael Osmo",
+          "url": "https://open.spotify.com/artist/3ChjGRo4LfuJy7uXo0uQG5"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "The Mood",
+      "url": "https://open.spotify.com/track/6eHjPAXmPtSw7qjn3FTVfc"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
         "name": "Hailstorm (Ann Clue Remix)",
         "url": "https://open.spotify.com/album/54LvPkBHCUXjuKIfFC3e76"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 382486,
       "name": "Hailstorm - Ann Clue Remix",
       "url": "https://open.spotify.com/track/4INsV87wHXViqJRAmbOo8t"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
-        "name": "The Mood",
-        "url": "https://open.spotify.com/album/3XQPuf5CmDz0jEwgsfsygX"
-      },
-      "artists": [
-        {
-          "name": "Rafael Osmo",
-          "url": "https://open.spotify.com/artist/3ChjGRo4LfuJy7uXo0uQG5"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "The Mood",
-      "url": "https://open.spotify.com/track/6eHjPAXmPtSw7qjn3FTVfc"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Night",
-        "url": "https://open.spotify.com/album/3gBbhTYRUfKkdN68v3nnBX"
-      },
-      "artists": [
-        {
-          "name": "AKZENTH",
-          "url": "https://open.spotify.com/artist/33ARHtMLoXkzNYXqnSXhkL"
-        }
-      ],
-      "duration_ms": 253920,
-      "name": "Night",
-      "url": "https://open.spotify.com/track/253xpyhXIk9zrOveyC1i0D"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "The Duty",
         "url": "https://open.spotify.com/album/5wkFYvOqJVrdW92n31wFwS"
       },
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Sense of Wonder",
-        "url": "https://open.spotify.com/album/7IHA14MqqNRlmEeELXtwz3"
+        "name": "Night",
+        "url": "https://open.spotify.com/album/3gBbhTYRUfKkdN68v3nnBX"
       },
       "artists": [
         {
-          "name": "Paradoks",
-          "url": "https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf"
+          "name": "AKZENTH",
+          "url": "https://open.spotify.com/artist/33ARHtMLoXkzNYXqnSXhkL"
         }
       ],
-      "duration_ms": 241282,
-      "name": "Sense of Wonder",
-      "url": "https://open.spotify.com/track/0iP4oGGuZMSXdRPhxL8iQ4"
+      "duration_ms": 253920,
+      "name": "Night",
+      "url": "https://open.spotify.com/track/253xpyhXIk9zrOveyC1i0D"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -1207,6 +1191,22 @@
       "duration_ms": 308081,
       "name": "Close to the Edge",
       "url": "https://open.spotify.com/track/5QC6Ze5kjWoFr3xHOXhx1N"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Sense of Wonder",
+        "url": "https://open.spotify.com/album/7IHA14MqqNRlmEeELXtwz3"
+      },
+      "artists": [
+        {
+          "name": "Paradoks",
+          "url": "https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf"
+        }
+      ],
+      "duration_ms": 241282,
+      "name": "Sense of Wonder",
+      "url": "https://open.spotify.com/track/0iP4oGGuZMSXdRPhxL8iQ4"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
+        "name": "Nebula",
+        "url": "https://open.spotify.com/album/6sIs8vP0ctpyBmJ8jFhQP9"
+      },
+      "artists": [
+        {
+          "name": "Nick Schwenderling",
+          "url": "https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Nebula",
+      "url": "https://open.spotify.com/track/7BhSM2dw0NUbhFSarMICfr"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
         "name": "Exoplanet",
         "url": "https://open.spotify.com/album/7ckMabg0DVyOkUftUiYSkQ"
       },
@@ -1299,38 +1315,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Fader",
-        "url": "https://open.spotify.com/album/2vaJStR73O0tWNVWtCOJhh"
-      },
-      "artists": [
-        {
-          "name": "Casper Cole",
-          "url": "https://open.spotify.com/artist/6cDNuaBrX01wpytv0fLTmV"
-        }
-      ],
-      "duration_ms": 373875,
-      "name": "Fader",
-      "url": "https://open.spotify.com/track/5XNjnlwv52paocSOip6SHx"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
-        "name": "Nebula",
-        "url": "https://open.spotify.com/album/6sIs8vP0ctpyBmJ8jFhQP9"
-      },
-      "artists": [
-        {
-          "name": "Nick Schwenderling",
-          "url": "https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Nebula",
-      "url": "https://open.spotify.com/track/7BhSM2dw0NUbhFSarMICfr"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Landing in Halifax",
         "url": "https://open.spotify.com/album/79DbNRg47wmpCmtoJrByH1"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 249120,
       "name": "Landing in Halifax",
       "url": "https://open.spotify.com/track/3CLUfqZpiTv3EO2eAS5nll"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Fader",
+        "url": "https://open.spotify.com/album/2vaJStR73O0tWNVWtCOJhh"
+      },
+      "artists": [
+        {
+          "name": "Casper Cole",
+          "url": "https://open.spotify.com/artist/6cDNuaBrX01wpytv0fLTmV"
+        }
+      ],
+      "duration_ms": 373875,
+      "name": "Fader",
+      "url": "https://open.spotify.com/track/5XNjnlwv52paocSOip6SHx"
     }
   ],
   "unique_name": "Beats to think to",

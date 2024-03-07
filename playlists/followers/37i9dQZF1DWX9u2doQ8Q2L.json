@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 387457,
+  "2024-03-07": 387461,
   "date_first_scraped": "2022-05-27",
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
   "name": "Tokyo Rising",
@@ -141,6 +141,24 @@
       "duration_ms": 256760,
       "name": "10000\u56de\u306eL.O.V.E. <3",
       "url": "https://open.spotify.com/track/4NenrnLwNcpnvZqxpj4ivi"
+    },
+    {
+      "album": {
+        "name": "Underlight & Aftertime",
+        "url": "https://open.spotify.com/album/1wNakLzgelD7G7mGhqElBC"
+      },
+      "artists": [
+        {
+          "name": "downt",
+          "url": "https://open.spotify.com/artist/1u3B7ghkXe7pvfxZTmBJlV"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258323,
+      "name": "111511",
+      "url": "https://open.spotify.com/track/5KT0dvGqAFVdlXJTZ1NWzs"
     },
     {
       "album": {
@@ -335,7 +353,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 176865,
       "name": "25",
       "url": "https://open.spotify.com/track/5oh8O4EMOBQNldYQyL7irn"
@@ -383,7 +401,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 205807,
       "name": "2MANYTIMES",
       "url": "https://open.spotify.com/track/3rVgFAXFJnmpki9sVgRFfn"
@@ -437,7 +455,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 213106,
       "name": "39 Minutes",
       "url": "https://open.spotify.com/track/3QmJn4aRv6DvNNvGLsb5Uq"
@@ -1419,7 +1437,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 226843,
       "name": "Around the Corner",
       "url": "https://open.spotify.com/track/5lh9ngWl6clqFCCQTMf8vp"
@@ -2483,7 +2501,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 292005,
       "name": "Broken Lovers",
       "url": "https://open.spotify.com/track/21e5VSkDCzL5FdL52TLk2X"
@@ -2989,7 +3007,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 209361,
       "name": "Check in the dark",
       "url": "https://open.spotify.com/track/1Op03gGHQ44b7WLokRqeTj"
@@ -3065,7 +3083,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 243937,
       "name": "choose me - RE: i-dep ver.",
       "url": "https://open.spotify.com/track/0R2Iie16VglcSk6cXeZ41N"
@@ -5447,7 +5465,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 184214,
       "name": "Feel The Same",
       "url": "https://open.spotify.com/track/6yzc8hNAysupCM89UNzggh"
@@ -5585,7 +5603,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 284478,
       "name": "Flashback feat. Daichi Yamamoto",
       "url": "https://open.spotify.com/track/3Jfguj7813unHPOXSwUKXB"
@@ -5705,7 +5723,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 211067,
       "name": "Friday Night",
       "url": "https://open.spotify.com/track/59O01qCMVHWOsyJRHpKPNL"
@@ -5893,7 +5911,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 164479,
       "name": "FUTURE STORY",
       "url": "https://open.spotify.com/track/3dvIrZ2i48eEE0OS9bQZgc"
@@ -5991,7 +6009,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 177613,
       "name": "gaucherie",
       "url": "https://open.spotify.com/track/4P0gWxtEvf7apvG5qlyrjh"
@@ -6761,7 +6779,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 206013,
       "name": "Grooving Night",
       "url": "https://open.spotify.com/track/7wDbhuuqxiw0pCUAIEkVAW"
@@ -8349,7 +8367,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 183666,
       "name": "IAI",
       "url": "https://open.spotify.com/track/0uVBJS8UMzZkg0L0wbF28N"
@@ -8715,6 +8733,28 @@
       "duration_ms": 251506,
       "name": "INU",
       "url": "https://open.spotify.com/track/26UKmLKURjKwYa8wUBSDmp"
+    },
+    {
+      "album": {
+        "name": "iPhone feat. Skaai",
+        "url": "https://open.spotify.com/album/4TVblZTOgvpzp9f5WAEwmM"
+      },
+      "artists": [
+        {
+          "name": "Mega Shinnosuke",
+          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
+        },
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175151,
+      "name": "iPhone feat. Skaai",
+      "url": "https://open.spotify.com/track/56JbxvYrxvRJuGLZEZemru"
     },
     {
       "album": {
@@ -9693,7 +9733,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 213435,
       "name": "Light(n)ing",
       "url": "https://open.spotify.com/track/4AolTQz0nbPeFKLrWP3OAR"
@@ -9737,6 +9777,24 @@
       "duration_ms": 197135,
       "name": "Lights (feat. Blu)",
       "url": "https://open.spotify.com/track/0ivm0kmxQLyp6njZ7QerWn"
+    },
+    {
+      "album": {
+        "name": "Drunk",
+        "url": "https://open.spotify.com/album/1KmPOPT8Fj7dH1nPRsutNR"
+      },
+      "artists": [
+        {
+          "name": "SPENSR",
+          "url": "https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202687,
+      "name": "Like A Fool",
+      "url": "https://open.spotify.com/track/4H8oNtKcPYr2ZfuiACG3He"
     },
     {
       "album": {
@@ -9867,7 +9925,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 226476,
       "name": "Loa",
       "url": "https://open.spotify.com/track/2v5d3HDGwzyiJ7hI7cOhLt"
@@ -11171,7 +11229,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 205565,
       "name": "mirrors",
       "url": "https://open.spotify.com/track/3T5naKF4mDr1P0sQpRzszn"
@@ -11219,7 +11277,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 184760,
       "name": "Miss You feat. Vernon of SEVENTEEN",
       "url": "https://open.spotify.com/track/6MrNcToqeejjpYcstmKBHi"
@@ -11259,7 +11317,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 173338,
       "name": "MissU",
       "url": "https://open.spotify.com/track/1tg3VgpyHR8YmiNTyHOoaZ"
@@ -11361,7 +11419,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 208000,
       "name": "Moment of Truth",
       "url": "https://open.spotify.com/track/7AvOYkRvqIKHEJzP2BFLJs"
@@ -11767,7 +11825,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 237564,
       "name": "Murmurs",
       "url": "https://open.spotify.com/track/5ZPy8Xb1NzDyo93FTjAThz"
@@ -12475,7 +12533,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 185586,
       "name": "NTM",
       "url": "https://open.spotify.com/track/4219u7yEzPwkqYnA3XUW2e"
@@ -12785,7 +12843,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 188373,
       "name": "On Everything",
       "url": "https://open.spotify.com/track/2E009KpQieiSpGDru6l5fU"
@@ -14885,7 +14943,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 136986,
       "name": "rose",
       "url": "https://open.spotify.com/track/15fhBj4sGuW34BnFhGrFLG"
@@ -14965,7 +15023,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 178099,
       "name": "RUN FOR YOU",
       "url": "https://open.spotify.com/track/2ev4YByQEhb3TbsxqyNF1N"
@@ -15345,6 +15403,28 @@
       "duration_ms": 389500,
       "name": "Sapphire - Holy Muscle Remix",
       "url": "https://open.spotify.com/track/4spLZfpGNZERQ4dNqIGdrk"
+    },
+    {
+      "album": {
+        "name": "SAPPORO TOKYO",
+        "url": "https://open.spotify.com/album/1LgMEwqdLiFeScDqcaGP40"
+      },
+      "artists": [
+        {
+          "name": "Furui Riho",
+          "url": "https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh"
+        },
+        {
+          "name": "A.G.O",
+          "url": "https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201712,
+      "name": "SAPPORO TOKYO",
+      "url": "https://open.spotify.com/track/61mRQIRRPGxuMUuEra2vFN"
     },
     {
       "album": {
@@ -16199,7 +16279,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 206461,
       "name": "snow love",
       "url": "https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj"
@@ -16345,7 +16425,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 168740,
       "name": "Soda (feat. kim taehoon)",
       "url": "https://open.spotify.com/track/45p6nhl7TZv8sa8XXQZHZ7"
@@ -16429,7 +16509,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 148727,
       "name": "Sometimes - Japanese Version",
       "url": "https://open.spotify.com/track/2eidpEU0z0adLL3l0cxWsh"
@@ -18511,7 +18591,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 192700,
       "name": "Think Twice",
       "url": "https://open.spotify.com/track/287GfoUeiVLiSN2ehJ740d"
@@ -18757,7 +18837,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 303156,
       "name": "tokyo (feat. \u9234\u6728\u771f\u6d77\u5b50, Skaai)",
       "url": "https://open.spotify.com/track/3tL2fCJDegsWrsCZEZTf82"
@@ -19229,7 +19309,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 222320,
       "name": "Trickster",
       "url": "https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp"
@@ -19725,7 +19805,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 269452,
       "name": "umi tsuki (feat. iri) (Prod. Chaki Zulu)",
       "url": "https://open.spotify.com/track/4bxgzMlcoQ21W7hcWr6v7k"
@@ -20783,7 +20863,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 221666,
       "name": "WORLD DANCE",
       "url": "https://open.spotify.com/track/4t6YlJMuO54junyfkZG3eC"
@@ -21029,7 +21109,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 195207,
       "name": "you hate caffeine",
       "url": "https://open.spotify.com/track/7BByfrPqpcaLLJLdQ1a3Df"
@@ -21765,7 +21845,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 199867,
       "name": "\u3055\u3089\u307e\u3063\u307d",
       "url": "https://open.spotify.com/track/6f9Fl22sy1UhH788M7BkH3"
@@ -21929,7 +22009,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 198025,
       "name": "\u3069\u3046\u3057\u3066\u9aed\u3092\uff1f",
       "url": "https://open.spotify.com/track/41QfKjANF6fiDll3MN6yxS"
@@ -22107,6 +22187,24 @@
       "duration_ms": 315640,
       "name": "\u3086\u3081\u3046\u3064\u3064",
       "url": "https://open.spotify.com/track/1GTC0DN9LGOdP0NdvoHyX7"
+    },
+    {
+      "album": {
+        "name": "\u308f\u305f\u3057\u3001\u8776\u3005\u3002",
+        "url": "https://open.spotify.com/album/4GPiPfhjaCQWNbo8EgtEQp"
+      },
+      "artists": [
+        {
+          "name": "illiomote",
+          "url": "https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264018,
+      "name": "\u308f\u305f\u3057\u3001\u8776\u3005\u3002",
+      "url": "https://open.spotify.com/track/1jX9A3M5N38g38REQwwglU"
     },
     {
       "album": {
@@ -22595,7 +22693,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 210000,
       "name": "\u30b9\u30bf\u30fc\u30c0\u30b9\u30c8",
       "url": "https://open.spotify.com/track/0OzrEXUFsOMbQtoIm39nj6"
@@ -23053,7 +23151,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 287000,
       "name": "\u30d1\u30e9\u30c0\u30a4\u30b9",
       "url": "https://open.spotify.com/track/03KcjFIt9f6XIBHEZG6fJm"
@@ -23361,7 +23459,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 220500,
       "name": "\u30de\u30cb\u30de\u30cb",
       "url": "https://open.spotify.com/track/3Cw21i1oJAIsywtqTaFJGC"
@@ -23765,7 +23863,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 255500,
       "name": "\u30ed\u30de\u30f3\u30c6\u30a3\u30fc\u30af - Takuro Okada Remix",
       "url": "https://open.spotify.com/track/5scc8FuapNw3gEUHEbuCFc"
@@ -25601,7 +25699,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 228573,
       "name": "\u6c38\u9060\u306e\u30d6\u30eb\u30fc",
       "url": "https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH"
@@ -26061,7 +26159,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 234288,
       "name": "\u7729\u3057\u3044\u3001\u7729\u3057\u3059\u304e\u308b",
       "url": "https://open.spotify.com/track/4UKcaWqFHMEJ9Q7NzOST3L"
@@ -26319,6 +26417,28 @@
       "duration_ms": 267363,
       "name": "\u8703\u6c17\u697c",
       "url": "https://open.spotify.com/track/2pedGdJaB5160FLTCCz2g2"
+    },
+    {
+      "album": {
+        "name": "Into My System",
+        "url": "https://open.spotify.com/album/44TqGExh3o6ucPOPsokHRt"
+      },
+      "artists": [
+        {
+          "name": "Sara Wakui",
+          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
+        },
+        {
+          "name": "\u4e2d\u6751\u4f73\u7a42",
+          "url": "https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274650,
+      "name": "\u884c\u9593",
+      "url": "https://open.spotify.com/track/4H478qhSk6CmTSYqZGzB8B"
     },
     {
       "album": {

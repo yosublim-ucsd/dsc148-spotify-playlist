@@ -5424,7 +5424,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 191320,
       "name": "El Cielo",
       "url": "https://open.spotify.com/track/4PA1wK0leCjmRZlP5dQ8Lv"
@@ -14608,6 +14608,28 @@
       "duration_ms": 185840,
       "name": "PRIVILEGIOS",
       "url": "https://open.spotify.com/track/2zonJr6k1OKs41TctoNU8Q"
+    },
+    {
+      "album": {
+        "name": "Problemas Mentales",
+        "url": "https://open.spotify.com/album/5DlsmTqp2IjFNooY4TUw6g"
+      },
+      "artists": [
+        {
+          "name": "JZAEB",
+          "url": "https://open.spotify.com/artist/2LVTQdAUaySowxKTRcP5mx"
+        },
+        {
+          "name": "Eix",
+          "url": "https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229151,
+      "name": "Probemas Mentales",
+      "url": "https://open.spotify.com/track/5LhdEc33NQUDRT3b9bdrlS"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo feels for the misunderstood\. Cover: iann dior
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,582,495 likes - 142 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,582,775 likes - 142 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 141 | [Normal](https://open.spotify.com/track/5j2O2yeurM9fD2rgCPt7pD) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Normal](https://open.spotify.com/album/0vSwuVKVrx6L4RJuJkWiAL) | 2:42 |
 | 142 | [F150](https://open.spotify.com/track/7xuklbiJnyZ5pqmoUWj5Eb) | [diveliner](https://open.spotify.com/artist/0be7y7HUvSBf8uG1X7pK8f) | [F150](https://open.spotify.com/album/2Om9xZUlHWEjHk5JzEuTd5) | 2:10 |
 
-Snapshot ID: `MCwyMDQyZTE5YTBmOWQ0MGEyOGU0NGI5OTVlYTRhZDE1OGE0ZjI5YmQ5`
+Snapshot ID: `MCxhMGQ0YjAyNDgxODMwMTJhMTAwZjc1ZWJjMGQxZjZkNmFkZDhjNWM1`

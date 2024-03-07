@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Don Toliver
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,197,966 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,198,136 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 99 | [﻿Blood Splatter](https://open.spotify.com/track/6hLhe1Q8kZQw5pfAK1SGY7) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI) | [﻿Blood Splatter](https://open.spotify.com/album/2Eshb0J0Fqojqu8msgOE6x) | 2:31 |
 | 100 | [prove it](https://open.spotify.com/track/5wttBUDyaHAR5q9fYnN3YF) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:27 |
 
-Snapshot ID: `MCxjY2Q3M2FlN2NhNzExZWZjODRjYjAyOTMxMmQzODVmZTAyYTk1NjVl`
+Snapshot ID: `MCwxNWM3MTZlNDEyMjVjMWY2Mjc1NWViZmU2MmYxMjkwNGQxNjI4MjIy`

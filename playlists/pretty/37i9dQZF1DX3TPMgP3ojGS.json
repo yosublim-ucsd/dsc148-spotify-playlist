@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 407442,
+  "num_followers": 407683,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjUwMmJlZTM0OGVlMDdlNWExNzlmZWIyMjhlZDQzNWExNzc5NDhj",
+  "snapshot_id": "MCwyN2Y1MjAzMDM5NGMzOGE5YmI0MTRkM2FhMTU3ODE2MzY0ZGVkZjg3",
   "tracks": [
     {
       "added_at": "2024-02-22 05:36:01",
@@ -159,18 +159,18 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Fall a hundred times",
-        "url": "https://open.spotify.com/album/5IkEPjmW6gCtLRHt32Lh47"
+        "name": "Schutter",
+        "url": "https://open.spotify.com/album/5VedLR7fuvcGK0YambjMqW"
       },
       "artists": [
         {
-          "name": "Maya Sarfatto",
-          "url": "https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9"
+          "name": "May Laude",
+          "url": "https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG"
         }
       ],
-      "duration_ms": 136658,
-      "name": "Fall a hundred times",
-      "url": "https://open.spotify.com/track/078tv0fBjcReoPb9IL97b7"
+      "duration_ms": 150000,
+      "name": "Schutter",
+      "url": "https://open.spotify.com/track/2ODAJGjI4YZwWp470XsV41"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Schutter",
-        "url": "https://open.spotify.com/album/5VedLR7fuvcGK0YambjMqW"
-      },
-      "artists": [
-        {
-          "name": "May Laude",
-          "url": "https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Schutter",
-      "url": "https://open.spotify.com/track/2ODAJGjI4YZwWp470XsV41"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "Elegie",
         "url": "https://open.spotify.com/album/4CabDs8KoDjqfOUFTgDnAu"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 169349,
       "name": "Elegie",
       "url": "https://open.spotify.com/track/5qowE02tRUQqFf3uTC8tgs"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "Fall a hundred times",
+        "url": "https://open.spotify.com/album/5IkEPjmW6gCtLRHt32Lh47"
+      },
+      "artists": [
+        {
+          "name": "Maya Sarfatto",
+          "url": "https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9"
+        }
+      ],
+      "duration_ms": 136658,
+      "name": "Fall a hundred times",
+      "url": "https://open.spotify.com/track/078tv0fBjcReoPb9IL97b7"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Calm Wind",
-        "url": "https://open.spotify.com/album/3wpbjtW8zANzFTOIcdvF3K"
-      },
-      "artists": [
-        {
-          "name": "Elfrieda",
-          "url": "https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t"
-        }
-      ],
-      "duration_ms": 140102,
-      "name": "Calm Wind",
-      "url": "https://open.spotify.com/track/6fjZ39b5dT9uZzFsVRLwSi"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "Afterlight",
         "url": "https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX"
       },
@@ -315,22 +299,6 @@
       "duration_ms": 200250,
       "name": "Afterlight",
       "url": "https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
-        "name": "For A Moment",
-        "url": "https://open.spotify.com/album/0uQtP6n33MGR13YOZz4pmO"
-      },
-      "artists": [
-        {
-          "name": "Haley Morrison",
-          "url": "https://open.spotify.com/artist/3OMlFyzbxE7bDYBg4GiwET"
-        }
-      ],
-      "duration_ms": 201874,
-      "name": "For A Moment",
-      "url": "https://open.spotify.com/track/1mKHZDWICROPP1gmOg1mn2"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -351,18 +319,34 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Saying Things",
-        "url": "https://open.spotify.com/album/4iKAhtxr1Vdm5l8eMhmgs9"
+        "name": "For A Moment",
+        "url": "https://open.spotify.com/album/0uQtP6n33MGR13YOZz4pmO"
       },
       "artists": [
         {
-          "name": "Emanuel Fremont",
-          "url": "https://open.spotify.com/artist/0RYljGNR9lf53Pg1BrHNQc"
+          "name": "Haley Morrison",
+          "url": "https://open.spotify.com/artist/3OMlFyzbxE7bDYBg4GiwET"
         }
       ],
-      "duration_ms": 123500,
-      "name": "Saying Things",
-      "url": "https://open.spotify.com/track/2bjQvSk5T3A2dmnqqeRhzI"
+      "duration_ms": 201874,
+      "name": "For A Moment",
+      "url": "https://open.spotify.com/track/1mKHZDWICROPP1gmOg1mn2"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "Calm Wind",
+        "url": "https://open.spotify.com/album/3wpbjtW8zANzFTOIcdvF3K"
+      },
+      "artists": [
+        {
+          "name": "Elfrieda",
+          "url": "https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t"
+        }
+      ],
+      "duration_ms": 140102,
+      "name": "Calm Wind",
+      "url": "https://open.spotify.com/track/6fjZ39b5dT9uZzFsVRLwSi"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -383,18 +367,34 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Under a tree",
-        "url": "https://open.spotify.com/album/7qojOtV6iN19aRMSb5RNTn"
+        "name": "Saying Things",
+        "url": "https://open.spotify.com/album/4iKAhtxr1Vdm5l8eMhmgs9"
       },
       "artists": [
         {
-          "name": "Janet Redger",
-          "url": "https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL"
+          "name": "Emanuel Fremont",
+          "url": "https://open.spotify.com/artist/0RYljGNR9lf53Pg1BrHNQc"
         }
       ],
-      "duration_ms": 138442,
-      "name": "Under a tree",
-      "url": "https://open.spotify.com/track/6yhkANlWR9KWT75aAqXmGm"
+      "duration_ms": 123500,
+      "name": "Saying Things",
+      "url": "https://open.spotify.com/track/2bjQvSk5T3A2dmnqqeRhzI"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "Eridani",
+        "url": "https://open.spotify.com/album/59ALZE7fBIJgO1Awt1S4bV"
+      },
+      "artists": [
+        {
+          "name": "Flori Vivea",
+          "url": "https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0"
+        }
+      ],
+      "duration_ms": 152500,
+      "name": "Eridani",
+      "url": "https://open.spotify.com/track/6kJ4jRr1SB2ao8VimAiuB0"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -415,18 +415,18 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Eridani",
-        "url": "https://open.spotify.com/album/59ALZE7fBIJgO1Awt1S4bV"
+        "name": "Under a tree",
+        "url": "https://open.spotify.com/album/7qojOtV6iN19aRMSb5RNTn"
       },
       "artists": [
         {
-          "name": "Flori Vivea",
-          "url": "https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0"
+          "name": "Janet Redger",
+          "url": "https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL"
         }
       ],
-      "duration_ms": 152500,
-      "name": "Eridani",
-      "url": "https://open.spotify.com/track/6kJ4jRr1SB2ao8VimAiuB0"
+      "duration_ms": 138442,
+      "name": "Under a tree",
+      "url": "https://open.spotify.com/track/6yhkANlWR9KWT75aAqXmGm"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "To Bring Rest",
-        "url": "https://open.spotify.com/album/5I39qlWLBneQuXzKaJcTh5"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Austin",
-          "url": "https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K"
-        }
-      ],
-      "duration_ms": 137749,
-      "name": "To Bring Rest",
-      "url": "https://open.spotify.com/track/6MTI6CKlLOZapPzdT4zJLH"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "Paths",
         "url": "https://open.spotify.com/album/5mo02zw7os9mLxLZtANHlC"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 172595,
       "name": "Paths",
       "url": "https://open.spotify.com/track/3JWltf5Em6j7uhJhSNFneD"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "To Bring Rest",
+        "url": "https://open.spotify.com/album/5I39qlWLBneQuXzKaJcTh5"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Austin",
+          "url": "https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K"
+        }
+      ],
+      "duration_ms": 137749,
+      "name": "To Bring Rest",
+      "url": "https://open.spotify.com/track/6MTI6CKlLOZapPzdT4zJLH"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -655,18 +655,18 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Fields Of Love",
-        "url": "https://open.spotify.com/album/1a1T9YpoJoiwP9iESKlJSN"
+        "name": "Before You",
+        "url": "https://open.spotify.com/album/4437EHGAGBNz2lJzZaWogn"
       },
       "artists": [
         {
-          "name": "Reinhard Krause",
-          "url": "https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM"
+          "name": "Andrea Prine",
+          "url": "https://open.spotify.com/artist/3tzbuAF9yZZHThB1ykHj0A"
         }
       ],
-      "duration_ms": 137743,
-      "name": "Fields Of Love",
-      "url": "https://open.spotify.com/track/38GNL3kBcQafMTKT5tom7c"
+      "duration_ms": 142582,
+      "name": "Before You",
+      "url": "https://open.spotify.com/track/5vC5C7G92VJ4s9lXqtOXKY"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -687,18 +687,18 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Before You",
-        "url": "https://open.spotify.com/album/4437EHGAGBNz2lJzZaWogn"
+        "name": "Fields Of Love",
+        "url": "https://open.spotify.com/album/1a1T9YpoJoiwP9iESKlJSN"
       },
       "artists": [
         {
-          "name": "Andrea Prine",
-          "url": "https://open.spotify.com/artist/3tzbuAF9yZZHThB1ykHj0A"
+          "name": "Reinhard Krause",
+          "url": "https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM"
         }
       ],
-      "duration_ms": 142582,
-      "name": "Before You",
-      "url": "https://open.spotify.com/track/5vC5C7G92VJ4s9lXqtOXKY"
+      "duration_ms": 137743,
+      "name": "Fields Of Love",
+      "url": "https://open.spotify.com/track/38GNL3kBcQafMTKT5tom7c"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -863,18 +863,18 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Jean Paul errant",
-        "url": "https://open.spotify.com/album/1HdPnAtIWPQNd8B0w2lzB0"
+        "name": "The Way Home",
+        "url": "https://open.spotify.com/album/089vc1XdbczEThiYnD6AJB"
       },
       "artists": [
         {
-          "name": "Temperance Lloyd",
-          "url": "https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq"
+          "name": "Wendie Solomon",
+          "url": "https://open.spotify.com/artist/002TmsLOEGkMqhkbb2zWfs"
         }
       ],
-      "duration_ms": 140823,
-      "name": "Jean Paul errant",
-      "url": "https://open.spotify.com/track/4asmLOODbw59npZqVLEvvk"
+      "duration_ms": 147535,
+      "name": "The Way Home",
+      "url": "https://open.spotify.com/track/4QB9QRh9xUuqKTXX9JBqyZ"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -891,22 +891,6 @@
       "duration_ms": 172500,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/391l8re8aew1rvyNOXUYDD"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
-        "name": "The Way Home",
-        "url": "https://open.spotify.com/album/089vc1XdbczEThiYnD6AJB"
-      },
-      "artists": [
-        {
-          "name": "Wendie Solomon",
-          "url": "https://open.spotify.com/artist/002TmsLOEGkMqhkbb2zWfs"
-        }
-      ],
-      "duration_ms": 147535,
-      "name": "The Way Home",
-      "url": "https://open.spotify.com/track/4QB9QRh9xUuqKTXX9JBqyZ"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -959,18 +943,18 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Bridge Across the Ocean",
-        "url": "https://open.spotify.com/album/2njPpnXxSX53OX35rEiEuG"
+        "name": "Jean Paul errant",
+        "url": "https://open.spotify.com/album/1HdPnAtIWPQNd8B0w2lzB0"
       },
       "artists": [
         {
-          "name": "Ren Lockhart",
-          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
+          "name": "Temperance Lloyd",
+          "url": "https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq"
         }
       ],
-      "duration_ms": 186711,
-      "name": "Bridge Across the Ocean",
-      "url": "https://open.spotify.com/track/47Dbe09uprsTUFezKfy594"
+      "duration_ms": 140823,
+      "name": "Jean Paul errant",
+      "url": "https://open.spotify.com/track/4asmLOODbw59npZqVLEvvk"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -987,6 +971,22 @@
       "duration_ms": 127000,
       "name": "Nordanvind",
       "url": "https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "Bridge Across the Ocean",
+        "url": "https://open.spotify.com/album/2njPpnXxSX53OX35rEiEuG"
+      },
+      "artists": [
+        {
+          "name": "Ren Lockhart",
+          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
+        }
+      ],
+      "duration_ms": 186711,
+      "name": "Bridge Across the Ocean",
+      "url": "https://open.spotify.com/track/47Dbe09uprsTUFezKfy594"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "To New Beginnings",
-        "url": "https://open.spotify.com/album/6NCZQQodsLFgqxVJ5jTbui"
+        "name": "A Gentle Sunlight",
+        "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
       },
       "artists": [
         {
-          "name": "Una Luna",
-          "url": "https://open.spotify.com/artist/6hKJteZkxCj4rEW8Enp9r7"
+          "name": "James Quinn",
+          "url": "https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V"
         }
       ],
-      "duration_ms": 129250,
-      "name": "To New Beginnings",
-      "url": "https://open.spotify.com/track/7IrrIzxSk3OO48hW6dpEus"
+      "duration_ms": 117625,
+      "name": "A Gentle Sunlight",
+      "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "A Gentle Sunlight",
-        "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
+        "name": "To New Beginnings",
+        "url": "https://open.spotify.com/album/6NCZQQodsLFgqxVJ5jTbui"
       },
       "artists": [
         {
-          "name": "James Quinn",
-          "url": "https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V"
+          "name": "Una Luna",
+          "url": "https://open.spotify.com/artist/6hKJteZkxCj4rEW8Enp9r7"
         }
       ],
-      "duration_ms": 117625,
-      "name": "A Gentle Sunlight",
-      "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
+      "duration_ms": 129250,
+      "name": "To New Beginnings",
+      "url": "https://open.spotify.com/track/7IrrIzxSk3OO48hW6dpEus"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
+        "name": "Evening Star",
+        "url": "https://open.spotify.com/album/096g5y9CPefSvUd9EhzL65"
+      },
+      "artists": [
+        {
+          "name": "Ron Adelaar",
+          "url": "https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u"
+        }
+      ],
+      "duration_ms": 128724,
+      "name": "Evening Star",
+      "url": "https://open.spotify.com/track/5HbLcDxxjtJ0800p6RjoeH"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
         "name": "Beauty",
         "url": "https://open.spotify.com/album/0Pnz15lqGUeDTCs8eQNnLP"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 139624,
       "name": "Valse Naturelle",
       "url": "https://open.spotify.com/track/5IevvlxHT4pygUgmZlxhNy"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
-        "name": "Evening Star",
-        "url": "https://open.spotify.com/album/096g5y9CPefSvUd9EhzL65"
-      },
-      "artists": [
-        {
-          "name": "Ron Adelaar",
-          "url": "https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u"
-        }
-      ],
-      "duration_ms": 128724,
-      "name": "Evening Star",
-      "url": "https://open.spotify.com/track/5HbLcDxxjtJ0800p6RjoeH"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -1339,6 +1339,22 @@
       "duration_ms": 135344,
       "name": "Peggy's Cove",
       "url": "https://open.spotify.com/track/7yplIuBnFYA8eUje0Vi0UP"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "A Safe Space",
+        "url": "https://open.spotify.com/album/5IcBkn9y7e0jDlKtf9NhwU"
+      },
+      "artists": [
+        {
+          "name": "Aramis Morel",
+          "url": "https://open.spotify.com/artist/0ggD5NH7vsGHwcBWHnyVq4"
+        }
+      ],
+      "duration_ms": 148299,
+      "name": "A Safe Space",
+      "url": "https://open.spotify.com/track/3wchWA4OaMulFCpmmLmog1"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -1471,22 +1487,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Sonnet 1",
-        "url": "https://open.spotify.com/album/61quLSJezCtYqMsoy6pMAz"
-      },
-      "artists": [
-        {
-          "name": "Frederico Morales",
-          "url": "https://open.spotify.com/artist/43oHV1OfcYMyNvj7pwUhTx"
-        }
-      ],
-      "duration_ms": 131451,
-      "name": "Sonnet 1",
-      "url": "https://open.spotify.com/track/5VKVUectaKrr9Mq9m3fnWT"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "From Home",
         "url": "https://open.spotify.com/album/4s631bf05BJesvz6XT3iDT"
       },
@@ -1499,6 +1499,22 @@
       "duration_ms": 202732,
       "name": "From Home",
       "url": "https://open.spotify.com/track/0EgbLbMqBzyEjIySBupBqH"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "Sonnet 1",
+        "url": "https://open.spotify.com/album/61quLSJezCtYqMsoy6pMAz"
+      },
+      "artists": [
+        {
+          "name": "Frederico Morales",
+          "url": "https://open.spotify.com/artist/43oHV1OfcYMyNvj7pwUhTx"
+        }
+      ],
+      "duration_ms": 131451,
+      "name": "Sonnet 1",
+      "url": "https://open.spotify.com/track/5VKVUectaKrr9Mq9m3fnWT"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -1531,22 +1547,6 @@
       "duration_ms": 122000,
       "name": "Nokt\u00farna - Upright Piano",
       "url": "https://open.spotify.com/track/0uSyj4g5Qh5zCcbyMJufbY"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
-        "name": "A Safe Space",
-        "url": "https://open.spotify.com/album/5IcBkn9y7e0jDlKtf9NhwU"
-      },
-      "artists": [
-        {
-          "name": "Aramis Morel",
-          "url": "https://open.spotify.com/artist/0ggD5NH7vsGHwcBWHnyVq4"
-        }
-      ],
-      "duration_ms": 148299,
-      "name": "A Safe Space",
-      "url": "https://open.spotify.com/track/3wchWA4OaMulFCpmmLmog1"
     },
     {
       "added_at": "2024-02-22 05:36:01",

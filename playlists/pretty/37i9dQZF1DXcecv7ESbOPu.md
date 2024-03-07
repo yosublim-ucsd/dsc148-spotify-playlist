@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,592 likes - 124 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,595 likes - 124 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 123 | [Holding On](https://open.spotify.com/track/0dlMTThgSAKFVJckS2wVyV) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Parallel Realms](https://open.spotify.com/album/6gkh9oOIjRJ24JXKSX9LWp) | 3:11 |
 | 124 | [Money \(mixtape\)](https://open.spotify.com/track/5RxryVM6717QpUSr3OoRhT) | [PAPA Sound](https://open.spotify.com/artist/2kZZNz7W2Qs6kXVEM7T8oj), [Macka Diamond](https://open.spotify.com/artist/6ETpDuVbzktDEfNza1CN8i) | [Mixtape, Vol\. 1](https://open.spotify.com/album/30Nz3sb8Xcf5dHoFsmx15C) | 1:10 |
 
-Snapshot ID: `MCw1YjM5OTkxZDFiYjZmMzQ4MTI2NzY4YmNhNDdhYTZmNTM2ZmYxODE5`
+Snapshot ID: `MCwyNThlMDVlNmZjNzFkNTFkMmNhYjgwY2M3YTA4OGY2MGFiYzYyYmQz`

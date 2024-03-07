@@ -10657,6 +10657,24 @@
     },
     {
       "album": {
+        "name": "Full Bloom",
+        "url": "https://open.spotify.com/album/7p24Sh0HP8nIDdrJbJHB3y"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191160,
+      "name": "Love Fool",
+      "url": "https://open.spotify.com/track/78ArztlRnP0iatNE9GJNJB"
+    },
+    {
+      "album": {
         "name": "Beginning is the First Kiss (Original Television Soundtrack), Pt.7",
         "url": "https://open.spotify.com/album/5N1C8ku1f0eBcsPPlNOvxI"
       },
@@ -21082,7 +21100,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 234037,
       "name": "\uc2ac\ud508 \uc0ac\ub791\uc740 \uadf8\ub9ac\uc6c0\uc73c\ub85c \uc0bc\ud0a4\ub2e4",
       "url": "https://open.spotify.com/track/3mXGAVd0raJbNEcEILMbJ7"

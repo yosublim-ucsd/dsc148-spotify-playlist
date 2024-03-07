@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Gibbs, Opał
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,268 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,508 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [Kevin sam w domu](https://open.spotify.com/track/0DhKkQjcrOXLBr9eCtocfc) | [Blacha 2115](https://open.spotify.com/artist/71tiWMKZ5wpl6E0BdwVQza), [Venom Valentino](https://open.spotify.com/artist/4QqbTDfK1yAeJuNaPTivXy), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [Kevin sam w domu](https://open.spotify.com/album/6oUD84BY3ycUXnlfqSnj27) | 2:51 |
 | 50 | [Tuptanie](https://open.spotify.com/track/3vfs6d1jMNRt160lC9v32t) | [Popek](https://open.spotify.com/artist/4NtiLs5NpjgZDHNBEMbjKz), [Razgonov](https://open.spotify.com/artist/1E7LpsS1t2p1jlAvco4i15), [Pablo](https://open.spotify.com/artist/6EIcP6aMSsZ45N0hO70bAa) | [Tuptanie](https://open.spotify.com/album/72UXBc5oCuhyjviuJP3PyL) | 2:48 |
 
-Snapshot ID: `MCwwZmJmYzA4YzM2ZDZmOTNjMDRjMTcxMDc4NmIzYmQzY2FjNmNlMmIw`
+Snapshot ID: `MCxmNDQwYjUwMDNjOTZhZmY2YjUyY2VhZDMyN2ExNmJiOTNhNjdhNDYw`

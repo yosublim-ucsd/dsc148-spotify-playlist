@@ -1,12 +1,12 @@
 {
   "description": "Musica da ascoltare con un drink in mano. \ud83c\udf79",
-  "num_followers": 246836,
+  "num_followers": 246834,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDllYjZhNjg4YmE5YzRiOWEwOTM2OTYxYmRlYjhmOWE2YzI2YjRm",
+  "snapshot_id": "MCxhZTMwZmE0N2M5ODZkNTNmNDNjZGM2MWM5MzU0ODI0NWY0YjhiMDcy",
   "tracks": [
     {
       "added_at": "2024-02-28 10:28:34",
@@ -623,18 +623,22 @@
     {
       "added_at": "2024-02-28 10:28:34",
       "album": {
-        "name": "Roches blanches",
-        "url": "https://open.spotify.com/album/07eeR01mBl7EOYLPJ1iW3d"
+        "name": "Baxter (these are my friends)",
+        "url": "https://open.spotify.com/album/4JZi9eNgVdTUIoC1qMYmXz"
       },
       "artists": [
         {
-          "name": "Mizmo",
-          "url": "https://open.spotify.com/artist/31sy2Lzz49t83efKMvk3qV"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Baxter Dury",
+          "url": "https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O"
         }
       ],
-      "duration_ms": 156298,
-      "name": "Roches blanches",
-      "url": "https://open.spotify.com/track/3gHqqfGzGlA6AomepHu4zj"
+      "duration_ms": 244034,
+      "name": "Baxter (these are my friends)",
+      "url": "https://open.spotify.com/track/6Orwi1oYLckpnBF7NbCbrg"
     },
     {
       "added_at": "2024-02-28 10:28:34",
@@ -655,22 +659,18 @@
     {
       "added_at": "2024-02-28 10:28:34",
       "album": {
-        "name": "Baxter (these are my friends)",
-        "url": "https://open.spotify.com/album/4JZi9eNgVdTUIoC1qMYmXz"
+        "name": "Roches blanches",
+        "url": "https://open.spotify.com/album/07eeR01mBl7EOYLPJ1iW3d"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Baxter Dury",
-          "url": "https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O"
+          "name": "Mizmo",
+          "url": "https://open.spotify.com/artist/31sy2Lzz49t83efKMvk3qV"
         }
       ],
-      "duration_ms": 244034,
-      "name": "Baxter (these are my friends)",
-      "url": "https://open.spotify.com/track/6Orwi1oYLckpnBF7NbCbrg"
+      "duration_ms": 156298,
+      "name": "Roches blanches",
+      "url": "https://open.spotify.com/track/3gHqqfGzGlA6AomepHu4zj"
     },
     {
       "added_at": "2024-02-28 10:28:34",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-02-28 10:28:34",
       "album": {
-        "name": "Melody A.M.",
-        "url": "https://open.spotify.com/album/4WOZU9evfEO7eI6ICsoGN0"
-      },
-      "artists": [
-        {
-          "name": "R\u00f6yksopp",
-          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
-        }
-      ],
-      "duration_ms": 218320,
-      "name": "Eple",
-      "url": "https://open.spotify.com/track/7pbEKdMWHGwPQSDGfcNycM"
-    },
-    {
-      "added_at": "2024-02-28 10:28:34",
-      "album": {
         "name": "Good Life (Remastered)",
         "url": "https://open.spotify.com/album/5O2HWH0ZfYJl6DAkzU50UK"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 196363,
       "name": "Good Life (Remastered)",
       "url": "https://open.spotify.com/track/67zr6xdiSAhsuyvL2Dczc1"
+    },
+    {
+      "added_at": "2024-02-28 10:28:34",
+      "album": {
+        "name": "Melody A.M.",
+        "url": "https://open.spotify.com/album/4WOZU9evfEO7eI6ICsoGN0"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        }
+      ],
+      "duration_ms": 218320,
+      "name": "Eple",
+      "url": "https://open.spotify.com/track/7pbEKdMWHGwPQSDGfcNycM"
     },
     {
       "added_at": "2024-02-28 10:28:34",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-02-28 10:28:34",
       "album": {
-        "name": "I Go",
-        "url": "https://open.spotify.com/album/1221WGmWD1oF62vZtMScdk"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "I Go - Edit",
-      "url": "https://open.spotify.com/track/6tmlxpASowJoNYy6pnDdjq"
-    },
-    {
-      "added_at": "2024-02-28 10:28:34",
-      "album": {
         "name": "LemonJelly.ky",
         "url": "https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 405866,
       "name": "A Tune For Jack",
       "url": "https://open.spotify.com/track/1AKHclGKFc3fjv0V9qnZ3w"
+    },
+    {
+      "added_at": "2024-02-28 10:28:34",
+      "album": {
+        "name": "I Go",
+        "url": "https://open.spotify.com/album/1221WGmWD1oF62vZtMScdk"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "I Go - Edit",
+      "url": "https://open.spotify.com/track/6tmlxpASowJoNYy6pnDdjq"
     },
     {
       "added_at": "2024-02-28 10:28:34",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2024-02-28 10:28:34",
       "album": {
+        "name": "Stay With You",
+        "url": "https://open.spotify.com/album/3ilTdY5iIS2IF6mSUooZ1G"
+      },
+      "artists": [
+        {
+          "name": "Lemon Jelly",
+          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
+        }
+      ],
+      "duration_ms": 192386,
+      "name": "Stay With You - Radio Version",
+      "url": "https://open.spotify.com/track/2qESnrso3J1Ac18AnzHsIj"
+    },
+    {
+      "added_at": "2024-02-28 10:28:34",
+      "album": {
         "name": "Small Moments",
         "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 167055,
       "name": "Bad Weather Mates",
       "url": "https://open.spotify.com/track/23cRw4Pyt2rJQznlFEnPGs"
-    },
-    {
-      "added_at": "2024-02-28 10:28:34",
-      "album": {
-        "name": "Stay With You",
-        "url": "https://open.spotify.com/album/3ilTdY5iIS2IF6mSUooZ1G"
-      },
-      "artists": [
-        {
-          "name": "Lemon Jelly",
-          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
-        }
-      ],
-      "duration_ms": 192386,
-      "name": "Stay With You - Radio Version",
-      "url": "https://open.spotify.com/track/2qESnrso3J1Ac18AnzHsIj"
     },
     {
       "added_at": "2024-02-28 10:28:34",

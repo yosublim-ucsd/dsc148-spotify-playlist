@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: SG Lewis
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,962 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,003 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 99 | [Ninetynine](https://open.spotify.com/track/1Ly3K26YPGfRc802bd8jsn) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Ninetynine](https://open.spotify.com/album/4nfGboE0gBkRA3x1fd4vBn) | 3:20 |
 | 100 | [Free](https://open.spotify.com/track/05dsewKoowRsvsnRjUEXvX) | [Because of Art](https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq), [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Free EP](https://open.spotify.com/album/0zZG5gWDyQXDTJUXbpSyxl) | 3:26 |
 
-Snapshot ID: `MCw5ZjE5NmYyMzc3MDBlYjU5ZTQ0NWM3Y2QzMzk1MmMxMDk5YzFlODA5`
+Snapshot ID: `MCw0YmYwZWY1MDhhYzM4MGZlYzhlM2M4OThlZjFkNTY2NmQxNTZjNzI5`

@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 2206014,
+  "2024-03-07": 2206229,
   "date_first_scraped": "2022-01-17",
   "description": "Take down the tempo but keep the dance party going with the biggest tropical house jams.",
   "name": "Tropical House",
@@ -745,7 +745,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 219776,
       "name": "Awa Ni",
       "url": "https://open.spotify.com/track/4ob71GMH7PAokRzPhejagR"
@@ -1285,6 +1285,28 @@
       "duration_ms": 218584,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/0mi3tBUwtdYwXCFdZ6QHAZ"
+    },
+    {
+      "album": {
+        "name": "Blossom",
+        "url": "https://open.spotify.com/album/5e33ZdqLTi4rBv0yVlSQfO"
+      },
+      "artists": [
+        {
+          "name": "Willow",
+          "url": "https://open.spotify.com/artist/4YH3yvWJyMhJdmZTumulrb"
+        },
+        {
+          "name": "YVMV",
+          "url": "https://open.spotify.com/artist/23iMeGaHEpDoHAojo4JeVy"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130623,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/4SgjQcULlbOSQQqdpPQyHW"
     },
     {
       "album": {
@@ -8835,7 +8857,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 172420,
       "name": "No Matter Where",
       "url": "https://open.spotify.com/track/3K6saLzBc7PtVB7ouNdcFG"
@@ -14147,6 +14169,32 @@
       "duration_ms": 205193,
       "name": "When The World Was Happy",
       "url": "https://open.spotify.com/track/5zdaPzJUDG41l91POOT55L"
+    },
+    {
+      "album": {
+        "name": "When You Love Someone",
+        "url": "https://open.spotify.com/album/6AaVw6FyWCbb3AiDR5FPc3"
+      },
+      "artists": [
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        },
+        {
+          "name": "Fo\u00ednix",
+          "url": "https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO"
+        },
+        {
+          "name": "James Stefano",
+          "url": "https://open.spotify.com/artist/38Hlo0i9xWEI6JCe28nlzf"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144923,
+      "name": "When You Love Someone",
+      "url": "https://open.spotify.com/track/0pRk0LA70mT0AGa0GWRA7s"
     },
     {
       "album": {

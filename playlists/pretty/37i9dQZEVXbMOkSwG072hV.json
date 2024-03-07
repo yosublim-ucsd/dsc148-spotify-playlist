@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Brazil.",
-  "num_followers": 353492,
+  "num_followers": 353485,
   "original_name": "Viral 50 - Brazil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzYzMDAzMjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzYzMDg5MDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2024-03-05 19:57:48",
+      "added_at": "2024-03-06 16:13:02",
       "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2024-03-05 19:57:48",
+      "added_at": "2024-03-06 16:13:02",
       "album": {
         "name": "Dono da Porsche (Bom Dia Princesa)",
         "url": "https://open.spotify.com/album/3DJCxAao78RWA21d2LUEWD"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/6XQ87rq4dZpaNG8aVi99Jg"
     },
     {
-      "added_at": "2024-03-05 19:57:48",
+      "added_at": "2024-03-06 16:13:02",
       "album": {
         "name": "Last Night",
         "url": "https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB"
@@ -57,7 +57,43 @@
       "url": "https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN"
     },
     {
-      "added_at": "2024-03-05 19:57:48",
+      "added_at": "2024-03-06 16:13:02",
+      "album": {
+        "name": "Vem Senhor",
+        "url": "https://open.spotify.com/album/3GlKQG1Aa3PCz8AZ4K00SS"
+      },
+      "artists": [
+        {
+          "name": "Sara Evelyn",
+          "url": "https://open.spotify.com/artist/6yC6aaLyqwooTcdaAgagG0"
+        },
+        {
+          "name": "Todah Network",
+          "url": "https://open.spotify.com/artist/5lBlzQkM3nt3oMeSLFruR3"
+        }
+      ],
+      "duration_ms": 318984,
+      "name": "Vem Senhor",
+      "url": "https://open.spotify.com/track/4W2JU2UbMh36qZycfopqY9"
+    },
+    {
+      "added_at": "2024-03-06 16:13:02",
+      "album": {
+        "name": "Diz A\u00ed Qual \u00e9 o Plano?",
+        "url": "https://open.spotify.com/album/4MrFivDpKIJtcn9PPo1Ncq"
+      },
+      "artists": [
+        {
+          "name": "IG",
+          "url": "https://open.spotify.com/artist/6yLpl5iAPGq0Dhss8ffGDQ"
+        }
+      ],
+      "duration_ms": 270720,
+      "name": "Diz A\u00ed Qual \u00e9 o Plano?",
+      "url": "https://open.spotify.com/track/74jwy1qb9UAOufiDSn2Fut"
+    },
+    {
+      "added_at": "2024-03-06 16:13:02",
       "album": {
         "name": "A Boa Parte (Ao Vivo)",
         "url": "https://open.spotify.com/album/5IqoYCPu71fVQLw2yyyYKC"
@@ -81,23 +117,7 @@
       "url": "https://open.spotify.com/track/2xVe3wMbesHcOhqW8OoyS8"
     },
     {
-      "added_at": "2024-03-05 19:57:48",
-      "album": {
-        "name": "Diz A\u00ed Qual \u00e9 o Plano?",
-        "url": "https://open.spotify.com/album/4MrFivDpKIJtcn9PPo1Ncq"
-      },
-      "artists": [
-        {
-          "name": "IG",
-          "url": "https://open.spotify.com/artist/6yLpl5iAPGq0Dhss8ffGDQ"
-        }
-      ],
-      "duration_ms": 270720,
-      "name": "Diz A\u00ed Qual \u00e9 o Plano?",
-      "url": "https://open.spotify.com/track/74jwy1qb9UAOufiDSn2Fut"
-    },
-    {
-      "added_at": "2024-03-05 19:57:48",
+      "added_at": "2024-03-06 16:13:02",
       "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
@@ -113,7 +133,7 @@
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
     },
     {
-      "added_at": "2024-03-05 19:57:48",
+      "added_at": "2024-03-06 16:13:02",
       "album": {
         "name": "Praise Jah In The Moonlight",
         "url": "https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd"
@@ -129,7 +149,7 @@
       "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
     },
     {
-      "added_at": "2024-03-05 19:57:48",
+      "added_at": "2024-03-06 16:13:02",
       "album": {
         "name": "PR\u00caMIO DE COLECIONADOR",
         "url": "https://open.spotify.com/album/32Sd6w0Rh4ea6GvSWoulF0"
@@ -149,7 +169,7 @@
       "url": "https://open.spotify.com/track/591SynfF383OcHiIycP0Ws"
     },
     {
-      "added_at": "2024-03-05 19:57:48",
+      "added_at": "2024-03-06 16:13:02",
       "album": {
         "name": "S\u00f3 Vadiada & Canalhada",
         "url": "https://open.spotify.com/album/0RJ6DKEaM63hSeMP7OuYU9"
@@ -165,39 +185,23 @@
       "url": "https://open.spotify.com/track/1ndr7r4VOenZ7VGXvc80oa"
     },
     {
-      "added_at": "2024-03-05 19:57:48",
+      "added_at": "2024-03-06 16:13:02",
       "album": {
-        "name": "Weightless (Ambient Transmission Vol. 2)",
-        "url": "https://open.spotify.com/album/3d8apQ32ZVRDPFtllVTKGR"
+        "name": "Dance You Outta My Head",
+        "url": "https://open.spotify.com/album/1fyTcCoTKXM35bFpEJlAyG"
       },
       "artists": [
         {
-          "name": "Marconi Union",
-          "url": "https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H"
+          "name": "Cat Janice",
+          "url": "https://open.spotify.com/artist/7kNpF2nj7eVgcVo8k6pWkz"
         }
       ],
-      "duration_ms": 486840,
-      "name": "Weightless Part 1",
-      "url": "https://open.spotify.com/track/2UZZtkoLOg7IHxeTAdPFvd"
+      "duration_ms": 202508,
+      "name": "Dance You Outta My Head",
+      "url": "https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf"
     },
     {
-      "added_at": "2024-03-05 19:57:48",
-      "album": {
-        "name": "Unwritten",
-        "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
-      },
-      "artists": [
-        {
-          "name": "Natasha Bedingfield",
-          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
-        }
-      ],
-      "duration_ms": 259333,
-      "name": "Unwritten",
-      "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
-    },
-    {
-      "added_at": "2024-03-05 19:57:48",
+      "added_at": "2024-03-06 16:13:02",
       "album": {
         "name": "RITMADINHA DONKEY KONG",
         "url": "https://open.spotify.com/album/75AcgAH1cGAjoLfmVhW4I6"
@@ -221,71 +225,23 @@
       "url": "https://open.spotify.com/track/5KWpBhhJFAHWkbbsyDxe5A"
     },
     {
-      "added_at": "2024-03-05 19:57:48",
+      "added_at": "2024-03-06 16:13:02",
       "album": {
-        "name": "TEXAS HOLD 'EM",
-        "url": "https://open.spotify.com/album/2NXwHjhgaAdkDy6GPSxMAd"
+        "name": "Unwritten",
+        "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
         }
       ],
-      "duration_ms": 235636,
-      "name": "TEXAS HOLD 'EM",
-      "url": "https://open.spotify.com/track/7AYmToZ5y67fBjq4RLFbuq"
+      "duration_ms": 259333,
+      "name": "Unwritten",
+      "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
     },
     {
-      "added_at": "2024-03-05 19:57:48",
-      "album": {
-        "name": "Dance You Outta My Head",
-        "url": "https://open.spotify.com/album/1fyTcCoTKXM35bFpEJlAyG"
-      },
-      "artists": [
-        {
-          "name": "Cat Janice",
-          "url": "https://open.spotify.com/artist/7kNpF2nj7eVgcVo8k6pWkz"
-        }
-      ],
-      "duration_ms": 202508,
-      "name": "Dance You Outta My Head",
-      "url": "https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf"
-    },
-    {
-      "added_at": "2024-03-05 19:57:48",
-      "album": {
-        "name": "Soaked",
-        "url": "https://open.spotify.com/album/6cd80qsoUsGCmHasCswGhW"
-      },
-      "artists": [
-        {
-          "name": "Shy Smith",
-          "url": "https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb"
-        }
-      ],
-      "duration_ms": 179449,
-      "name": "Soaked",
-      "url": "https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA"
-    },
-    {
-      "added_at": "2024-03-05 19:57:48",
-      "album": {
-        "name": "EASY",
-        "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 166384,
-      "name": "Smart",
-      "url": "https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T"
-    },
-    {
-      "added_at": "2024-03-05 19:57:48",
+      "added_at": "2024-03-06 16:13:02",
       "album": {
         "name": "Made For Me",
         "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
@@ -301,51 +257,55 @@
       "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
     },
     {
-      "added_at": "2024-03-05 19:57:48",
+      "added_at": "2024-03-06 16:13:02",
       "album": {
-        "name": "Filipe Ret (Me Enforca, Me Bota)",
-        "url": "https://open.spotify.com/album/0AfVJsmzLwzvXSlpyGU1LH"
+        "name": "Soaked",
+        "url": "https://open.spotify.com/album/6cd80qsoUsGCmHasCswGhW"
       },
       "artists": [
         {
-          "name": "DJ Dollynho Da Lapa",
-          "url": "https://open.spotify.com/artist/3bc5LOOhGbLvDUcybl3LY8"
-        },
-        {
-          "name": "MC Biela",
-          "url": "https://open.spotify.com/artist/26Io4L3i0r3VCsdx0q3R2S"
+          "name": "Shy Smith",
+          "url": "https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb"
         }
       ],
-      "duration_ms": 159999,
-      "name": "Filipe Ret (Me Enforca, Me Bota)",
-      "url": "https://open.spotify.com/track/5ibCmdjaL6KE3fmtzZBaIJ"
+      "duration_ms": 179449,
+      "name": "Soaked",
+      "url": "https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA"
     },
     {
-      "added_at": "2024-03-05 19:57:48",
+      "added_at": "2024-03-06 16:13:02",
       "album": {
-        "name": "Ritmada do Zelda",
-        "url": "https://open.spotify.com/album/6nVl7Io8qZAdLy1mIpnLO6"
+        "name": "EASY",
+        "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
       },
       "artists": [
         {
-          "name": "MC BF",
-          "url": "https://open.spotify.com/artist/6D8B4iuwUVhFmYRcT1c6Tu"
-        },
-        {
-          "name": "MC BN",
-          "url": "https://open.spotify.com/artist/1JYiyu6QtmtwjdFz3TEFTe"
-        },
-        {
-          "name": "DJ YUZAK",
-          "url": "https://open.spotify.com/artist/651jNHJzsX4ckQvURNNAIS"
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
         }
       ],
-      "duration_ms": 164329,
-      "name": "Ritmada do Zelda",
-      "url": "https://open.spotify.com/track/39V63jSafGAoE0QdB85F2t"
+      "duration_ms": 166384,
+      "name": "Smart",
+      "url": "https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T"
     },
     {
-      "added_at": "2024-03-05 19:57:48",
+      "added_at": "2024-03-06 16:13:02",
+      "album": {
+        "name": "TEXAS HOLD 'EM",
+        "url": "https://open.spotify.com/album/2NXwHjhgaAdkDy6GPSxMAd"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 235636,
+      "name": "TEXAS HOLD 'EM",
+      "url": "https://open.spotify.com/track/7AYmToZ5y67fBjq4RLFbuq"
+    },
+    {
+      "added_at": "2024-03-06 16:13:02",
       "album": {
         "name": "Na Sua Vida Eu Sou o Problema",
         "url": "https://open.spotify.com/album/0PklqhhK1BKoj1lVDEj3Jl"
@@ -369,7 +329,67 @@
       "url": "https://open.spotify.com/track/1d4ToRTvxBoR5EQRIlB0js"
     },
     {
-      "added_at": "2024-03-05 19:57:48",
+      "added_at": "2024-03-06 16:13:02",
+      "album": {
+        "name": "Weightless (Ambient Transmission Vol. 2)",
+        "url": "https://open.spotify.com/album/3d8apQ32ZVRDPFtllVTKGR"
+      },
+      "artists": [
+        {
+          "name": "Marconi Union",
+          "url": "https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H"
+        }
+      ],
+      "duration_ms": 486840,
+      "name": "Weightless Part 1",
+      "url": "https://open.spotify.com/track/2UZZtkoLOg7IHxeTAdPFvd"
+    },
+    {
+      "added_at": "2024-03-06 16:13:02",
+      "album": {
+        "name": "Ritmada do Zelda",
+        "url": "https://open.spotify.com/album/6nVl7Io8qZAdLy1mIpnLO6"
+      },
+      "artists": [
+        {
+          "name": "MC BF",
+          "url": "https://open.spotify.com/artist/6D8B4iuwUVhFmYRcT1c6Tu"
+        },
+        {
+          "name": "MC BN",
+          "url": "https://open.spotify.com/artist/1JYiyu6QtmtwjdFz3TEFTe"
+        },
+        {
+          "name": "DJ YUZAK",
+          "url": "https://open.spotify.com/artist/651jNHJzsX4ckQvURNNAIS"
+        }
+      ],
+      "duration_ms": 164329,
+      "name": "Ritmada do Zelda",
+      "url": "https://open.spotify.com/track/39V63jSafGAoE0QdB85F2t"
+    },
+    {
+      "added_at": "2024-03-06 16:13:02",
+      "album": {
+        "name": "Filipe Ret (Me Enforca, Me Bota)",
+        "url": "https://open.spotify.com/album/0AfVJsmzLwzvXSlpyGU1LH"
+      },
+      "artists": [
+        {
+          "name": "DJ Dollynho Da Lapa",
+          "url": "https://open.spotify.com/artist/3bc5LOOhGbLvDUcybl3LY8"
+        },
+        {
+          "name": "MC Biela",
+          "url": "https://open.spotify.com/artist/26Io4L3i0r3VCsdx0q3R2S"
+        }
+      ],
+      "duration_ms": 159999,
+      "name": "Filipe Ret (Me Enforca, Me Bota)",
+      "url": "https://open.spotify.com/track/5ibCmdjaL6KE3fmtzZBaIJ"
+    },
+    {
+      "added_at": "2024-03-06 16:13:02",
       "album": {
         "name": "I've Tried Everything But Therapy (Part 1)",
         "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
@@ -385,7 +405,7 @@
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
     },
     {
-      "added_at": "2024-03-05 19:57:48",
+      "added_at": "2024-03-06 16:13:02",
       "album": {
         "name": "3S",
         "url": "https://open.spotify.com/album/7creGSt4XugDqDaiPY6L59"
@@ -409,7 +429,7 @@
       "url": "https://open.spotify.com/track/0cKVD74EVBN9Nn949XYaEq"
     },
     {
-      "added_at": "2024-03-05 19:57:48",
+      "added_at": "2024-03-06 16:13:02",
       "album": {
         "name": "Tropa Do Pisa",
         "url": "https://open.spotify.com/album/55rdHEbpvgrl0ghYgRY4ZS"
@@ -433,7 +453,7 @@
       "url": "https://open.spotify.com/track/1mH3uSZus9IiMagMCJa4vB"
     },
     {
-      "added_at": "2024-03-05 19:57:48",
+      "added_at": "2024-03-06 16:13:02",
       "album": {
         "name": "Ph Vem Desestressar",
         "url": "https://open.spotify.com/album/7HCebNE1mYSWl9BTcj4Kra"
@@ -449,23 +469,7 @@
       "url": "https://open.spotify.com/track/3BZpoUZfuIHElkPiNt16OC"
     },
     {
-      "added_at": "2024-03-05 19:57:48",
-      "album": {
-        "name": "EASY",
-        "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 164545,
-      "name": "EASY",
-      "url": "https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI"
-    },
-    {
-      "added_at": "2024-03-05 19:57:48",
+      "added_at": "2024-03-06 16:13:02",
       "album": {
         "name": "Rol\u00e9 na Favela de Nave",
         "url": "https://open.spotify.com/album/1m42RnQb6QKdchutofb4mH"
@@ -501,7 +505,23 @@
       "url": "https://open.spotify.com/track/1m5nbZiPpCIi9J2irLNoxh"
     },
     {
-      "added_at": "2024-03-05 19:57:48",
+      "added_at": "2024-03-06 16:13:02",
+      "album": {
+        "name": "EASY",
+        "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 164545,
+      "name": "EASY",
+      "url": "https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI"
+    },
+    {
+      "added_at": "2024-03-06 16:13:02",
       "album": {
         "name": "RITMINHO DO FUNK CARIOCA",
         "url": "https://open.spotify.com/album/79f6J7SdFhPlscCB4e5sBW"
@@ -517,7 +537,7 @@
       "url": "https://open.spotify.com/track/0NfTUts3LtgpVVaZQ1wBwI"
     },
     {
-      "added_at": "2024-03-05 19:57:48",
+      "added_at": "2024-03-06 16:13:02",
       "album": {
         "name": "Three Single",
         "url": "https://open.spotify.com/album/5tZJDJHCq5m7rmSt36SYYP"
@@ -541,43 +561,7 @@
       "url": "https://open.spotify.com/track/4jwiF4S20Rc5ribUUTQBnx"
     },
     {
-      "added_at": "2024-03-05 19:57:48",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 157485,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
-    },
-    {
-      "added_at": "2024-03-05 19:57:48",
-      "album": {
-        "name": "Numanice #3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
-        }
-      ],
-      "duration_ms": 154164,
-      "name": "Falta de Mim - Ao Vivo",
-      "url": "https://open.spotify.com/track/2IGh6DnMiX408xwoJP9Lmb"
-    },
-    {
-      "added_at": "2024-03-05 19:57:48",
+      "added_at": "2024-03-06 16:13:02",
       "album": {
         "name": "De 10 Mulher 11 \u00c9 Maluca",
         "url": "https://open.spotify.com/album/5geYQEhBL2t9iqTsBKgkPe"
@@ -605,7 +589,7 @@
       "url": "https://open.spotify.com/track/1jN0ysNJ2d9VZwVdlgspjr"
     },
     {
-      "added_at": "2024-03-05 19:57:48",
+      "added_at": "2024-03-06 16:13:02",
       "album": {
         "name": "MONTAGEM DIAMANTE ROSA",
         "url": "https://open.spotify.com/album/28N1pcdMLhrEajfJKkBkl1"
@@ -625,31 +609,43 @@
       "url": "https://open.spotify.com/track/6vEOZGTBgE6gASrzAWNxTH"
     },
     {
-      "added_at": "2024-03-05 19:57:48",
+      "added_at": "2024-03-06 16:13:02",
       "album": {
-        "name": "Boiadeira Internacional (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1eLF8DMP6DQrGcJXqqIlAa"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
       },
       "artists": [
         {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        },
-        {
-          "name": "Hungria",
-          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
-        },
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
         }
       ],
-      "duration_ms": 206538,
-      "name": "Lua",
-      "url": "https://open.spotify.com/track/6r6wTVl7sBndpdlzBSEYnF"
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
     },
     {
-      "added_at": "2024-03-05 19:57:48",
+      "added_at": "2024-03-06 16:13:02",
+      "album": {
+        "name": "Numanice #3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "duration_ms": 154164,
+      "name": "Falta de Mim - Ao Vivo",
+      "url": "https://open.spotify.com/track/2IGh6DnMiX408xwoJP9Lmb"
+    },
+    {
+      "added_at": "2024-03-06 16:13:02",
       "album": {
         "name": "Pix ou Presente",
         "url": "https://open.spotify.com/album/5A0eKD3Q2v0NqUbwi6M5oT"
@@ -681,7 +677,31 @@
       "url": "https://open.spotify.com/track/2bwEs5CP234z3SaQkqVLEL"
     },
     {
-      "added_at": "2024-03-05 19:57:48",
+      "added_at": "2024-03-06 16:13:02",
+      "album": {
+        "name": "Boiadeira Internacional (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1eLF8DMP6DQrGcJXqqIlAa"
+      },
+      "artists": [
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        },
+        {
+          "name": "Hungria",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "duration_ms": 206538,
+      "name": "Lua",
+      "url": "https://open.spotify.com/track/6r6wTVl7sBndpdlzBSEYnF"
+    },
+    {
+      "added_at": "2024-03-06 16:13:02",
       "album": {
         "name": "Lindo Momento",
         "url": "https://open.spotify.com/album/1aVMRmkdrJe3UXprRvPZqV"
@@ -697,119 +717,7 @@
       "url": "https://open.spotify.com/track/6QxaJjXCxZSGKq98arP8Nw"
     },
     {
-      "added_at": "2024-03-05 19:57:48",
-      "album": {
-        "name": "A Boa Parte (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5IqoYCPu71fVQLw2yyyYKC"
-      },
-      "artists": [
-        {
-          "name": "fhop music",
-          "url": "https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 350274,
-      "name": "A Boa Parte - Ao Vivo",
-      "url": "https://open.spotify.com/track/137KTFlEw4ynSLGhJ1JStl"
-    },
-    {
-      "added_at": "2024-03-05 19:57:48",
-      "album": {
-        "name": "Sensa\u00e7ao",
-        "url": "https://open.spotify.com/album/5PwC1rFOzQQDgrZp9I0XQy"
-      },
-      "artists": [
-        {
-          "name": "DJ BRUNIN DA NT",
-          "url": "https://open.spotify.com/artist/3ifiFpeJ4X5nYagCluflvg"
-        },
-        {
-          "name": "MC Fabinho da Osk",
-          "url": "https://open.spotify.com/artist/14hsjenLEdvafsGkk2CEiF"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        }
-      ],
-      "duration_ms": 165537,
-      "name": "Sensa\u00e7ao",
-      "url": "https://open.spotify.com/track/6iyCUSkOIxIcxYYu3ERAJk"
-    },
-    {
-      "added_at": "2024-03-05 19:57:48",
-      "album": {
-        "name": "recadin no espelho",
-        "url": "https://open.spotify.com/album/6KKAWpqYTZ9ptx7Eq4VpmT"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        }
-      ],
-      "duration_ms": 124312,
-      "name": "recadin no espelho",
-      "url": "https://open.spotify.com/track/1snE820RBNNYwpqZO8ItYf"
-    },
-    {
-      "added_at": "2024-03-05 19:57:48",
-      "album": {
-        "name": "BEAT DE BANDIDO",
-        "url": "https://open.spotify.com/album/1HXiVq0vLGDQ7MgjNWU9Eh"
-      },
-      "artists": [
-        {
-          "name": "DANNTZ!",
-          "url": "https://open.spotify.com/artist/4MxOyYxbnV9jnoL6FxAy16"
-        },
-        {
-          "name": "DJ SKYPE",
-          "url": "https://open.spotify.com/artist/2zxmK0IJ2irkaF1XnUFmc4"
-        },
-        {
-          "name": "SO ELETROFUNK BOM",
-          "url": "https://open.spotify.com/artist/51YTokYMt4tkeMnHVeD2sf"
-        }
-      ],
-      "duration_ms": 122570,
-      "name": "BEAT DE BANDIDO",
-      "url": "https://open.spotify.com/track/4dfoU33EhmVDQOJ99sFIJf"
-    },
-    {
-      "added_at": "2024-03-05 19:57:48",
-      "album": {
-        "name": "Cyberpunk",
-        "url": "https://open.spotify.com/album/37tMfPWBrcGJFtzQ5U35Lq"
-      },
-      "artists": [
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Labbel Rec",
-          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
-        },
-        {
-          "name": "Neckklace",
-          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
-        }
-      ],
-      "duration_ms": 112131,
-      "name": "Cyberpunk",
-      "url": "https://open.spotify.com/track/79kpDaVsQQUKRKYaLVsBbK"
-    },
-    {
-      "added_at": "2024-03-05 19:57:48",
+      "added_at": "2024-03-06 16:13:02",
       "album": {
         "name": "Mini Saia",
         "url": "https://open.spotify.com/album/7Jb2B2l9kw03C6pxGRKz8S"
@@ -833,7 +741,119 @@
       "url": "https://open.spotify.com/track/09sUNzy7IX6z9FOWjk2Tmo"
     },
     {
-      "added_at": "2024-03-05 19:57:48",
+      "added_at": "2024-03-06 16:13:02",
+      "album": {
+        "name": "A Boa Parte (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5IqoYCPu71fVQLw2yyyYKC"
+      },
+      "artists": [
+        {
+          "name": "fhop music",
+          "url": "https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 350274,
+      "name": "A Boa Parte - Ao Vivo",
+      "url": "https://open.spotify.com/track/137KTFlEw4ynSLGhJ1JStl"
+    },
+    {
+      "added_at": "2024-03-06 16:13:02",
+      "album": {
+        "name": "BEAT DE BANDIDO",
+        "url": "https://open.spotify.com/album/1HXiVq0vLGDQ7MgjNWU9Eh"
+      },
+      "artists": [
+        {
+          "name": "DANNTZ!",
+          "url": "https://open.spotify.com/artist/4MxOyYxbnV9jnoL6FxAy16"
+        },
+        {
+          "name": "DJ SKYPE",
+          "url": "https://open.spotify.com/artist/2zxmK0IJ2irkaF1XnUFmc4"
+        },
+        {
+          "name": "SO ELETROFUNK BOM",
+          "url": "https://open.spotify.com/artist/51YTokYMt4tkeMnHVeD2sf"
+        }
+      ],
+      "duration_ms": 122570,
+      "name": "BEAT DE BANDIDO",
+      "url": "https://open.spotify.com/track/4dfoU33EhmVDQOJ99sFIJf"
+    },
+    {
+      "added_at": "2024-03-06 16:13:02",
+      "album": {
+        "name": "Cyberpunk",
+        "url": "https://open.spotify.com/album/37tMfPWBrcGJFtzQ5U35Lq"
+      },
+      "artists": [
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+        },
+        {
+          "name": "Neckklace",
+          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
+        }
+      ],
+      "duration_ms": 112131,
+      "name": "Cyberpunk",
+      "url": "https://open.spotify.com/track/79kpDaVsQQUKRKYaLVsBbK"
+    },
+    {
+      "added_at": "2024-03-06 16:13:02",
+      "album": {
+        "name": "Sensa\u00e7ao",
+        "url": "https://open.spotify.com/album/5PwC1rFOzQQDgrZp9I0XQy"
+      },
+      "artists": [
+        {
+          "name": "DJ BRUNIN DA NT",
+          "url": "https://open.spotify.com/artist/3ifiFpeJ4X5nYagCluflvg"
+        },
+        {
+          "name": "MC Fabinho da Osk",
+          "url": "https://open.spotify.com/artist/14hsjenLEdvafsGkk2CEiF"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "duration_ms": 165537,
+      "name": "Sensa\u00e7ao",
+      "url": "https://open.spotify.com/track/6iyCUSkOIxIcxYYu3ERAJk"
+    },
+    {
+      "added_at": "2024-03-06 16:13:02",
+      "album": {
+        "name": "recadin no espelho",
+        "url": "https://open.spotify.com/album/6KKAWpqYTZ9ptx7Eq4VpmT"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        }
+      ],
+      "duration_ms": 124312,
+      "name": "recadin no espelho",
+      "url": "https://open.spotify.com/track/1snE820RBNNYwpqZO8ItYf"
+    },
+    {
+      "added_at": "2024-03-06 16:13:02",
       "album": {
         "name": "Training Season",
         "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
@@ -849,7 +869,7 @@
       "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
     },
     {
-      "added_at": "2024-03-05 19:57:48",
+      "added_at": "2024-03-06 16:13:02",
       "album": {
         "name": "Set Final de Ano",
         "url": "https://open.spotify.com/album/3pBhYZe8hfAyYTAgA0FjNC"
@@ -873,7 +893,7 @@
       "url": "https://open.spotify.com/track/3syxcxgRLd25yPYfG8qsot"
     },
     {
-      "added_at": "2024-03-05 19:57:48",
+      "added_at": "2024-03-06 16:13:02",
       "album": {
         "name": "MONTAGEM DIAMANTE ROSA",
         "url": "https://open.spotify.com/album/28N1pcdMLhrEajfJKkBkl1"
@@ -893,51 +913,7 @@
       "url": "https://open.spotify.com/track/6fdjPVlCwFryREAsmRHy4C"
     },
     {
-      "added_at": "2024-03-05 19:57:48",
-      "album": {
-        "name": "Baby Eu Tava na Rua da \u00c1gua",
-        "url": "https://open.spotify.com/album/6HIPvZhnf9Pb6rFLQb7vmD"
-      },
-      "artists": [
-        {
-          "name": "TR",
-          "url": "https://open.spotify.com/artist/2CotyFTVKWR1jJLPTrrjdu"
-        },
-        {
-          "name": "Mc Menor RV",
-          "url": "https://open.spotify.com/artist/5MH9v8KacsyTetJmnrAO1W"
-        },
-        {
-          "name": "Tropa da W&S",
-          "url": "https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ"
-        }
-      ],
-      "duration_ms": 115846,
-      "name": "Baby Eu Tava na Rua da \u00c1gua",
-      "url": "https://open.spotify.com/track/4sAoshwHCmh4IHMQxZHwRD"
-    },
-    {
-      "added_at": "2024-03-05 19:57:48",
-      "album": {
-        "name": "Passada de M\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1uaWBRr8TaO8vCLso2waUO"
-      },
-      "artists": [
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        },
-        {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        }
-      ],
-      "duration_ms": 163575,
-      "name": "Passada de M\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/0I0WaeHgXRRA9sP2LOLoE4"
-    },
-    {
-      "added_at": "2024-03-05 19:57:48",
+      "added_at": "2024-03-06 16:13:02",
       "album": {
         "name": "Vida Rasa 4-4-2",
         "url": "https://open.spotify.com/album/3ZBXsUUyu1cgTXC5MYmykr"
@@ -965,7 +941,47 @@
       "url": "https://open.spotify.com/track/5F4VhP5xo43O9AmKd1Y260"
     },
     {
-      "added_at": "2024-03-05 19:57:48",
+      "added_at": "2024-03-06 16:13:02",
+      "album": {
+        "name": "Baby Eu Tava na Rua da \u00c1gua",
+        "url": "https://open.spotify.com/album/6HIPvZhnf9Pb6rFLQb7vmD"
+      },
+      "artists": [
+        {
+          "name": "TR",
+          "url": "https://open.spotify.com/artist/2CotyFTVKWR1jJLPTrrjdu"
+        },
+        {
+          "name": "Mc Menor RV",
+          "url": "https://open.spotify.com/artist/5MH9v8KacsyTetJmnrAO1W"
+        },
+        {
+          "name": "Tropa da W&S",
+          "url": "https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ"
+        }
+      ],
+      "duration_ms": 115846,
+      "name": "Baby Eu Tava na Rua da \u00c1gua",
+      "url": "https://open.spotify.com/track/4sAoshwHCmh4IHMQxZHwRD"
+    },
+    {
+      "added_at": "2024-03-06 16:13:02",
+      "album": {
+        "name": "EU BOTO OU NAO BOTO",
+        "url": "https://open.spotify.com/album/36scski00O5n47CPvlFECk"
+      },
+      "artists": [
+        {
+          "name": "dstvvd___171",
+          "url": "https://open.spotify.com/artist/1M2b8EQ6av34Gx4xOXT160"
+        }
+      ],
+      "duration_ms": 131378,
+      "name": "EU BOTO OU NAO BOTO",
+      "url": "https://open.spotify.com/track/2r8amrfjUY8e8qAEqpzWHd"
+    },
+    {
+      "added_at": "2024-03-06 16:13:02",
       "album": {
         "name": "Bling-Bang-Bang-Born",
         "url": "https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6"
@@ -981,52 +997,24 @@
       "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
     },
     {
-      "added_at": "2024-03-05 19:57:48",
+      "added_at": "2024-03-06 16:13:02",
       "album": {
-        "name": "Ai Ui Que Bunda Que Voc\u00ea Tem",
-        "url": "https://open.spotify.com/album/50saEBrPbzwkF47hgs6cL8"
+        "name": "Passada de M\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1uaWBRr8TaO8vCLso2waUO"
       },
       "artists": [
         {
-          "name": "Mc Kitinho",
-          "url": "https://open.spotify.com/artist/1d2PrJ5wELpihT8yrwH4mO"
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
         },
         {
-          "name": "DJ DEIV\u00c3O",
-          "url": "https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk"
-        },
-        {
-          "name": "Silva Mc",
-          "url": "https://open.spotify.com/artist/7v4hw85pzG0M9kJHlBGsi3"
-        },
-        {
-          "name": "MC Flavinho",
-          "url": "https://open.spotify.com/artist/25AjzG7UO6tKfw11bwPscM"
-        },
-        {
-          "name": "MC GIL DO ANDARAI",
-          "url": "https://open.spotify.com/artist/5ZHOFwo9fCShzy3rTXEsYt"
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
         }
       ],
-      "duration_ms": 135057,
-      "name": "Ai Ui Que Bunda Que Voc\u00ea Tem",
-      "url": "https://open.spotify.com/track/1hKva9BUEPMAz4rwGCL2XE"
-    },
-    {
-      "added_at": "2024-03-05 19:57:48",
-      "album": {
-        "name": "Make You Mine",
-        "url": "https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 221709,
-      "name": "Make You Mine",
-      "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
+      "duration_ms": 163575,
+      "name": "Passada de M\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/0I0WaeHgXRRA9sP2LOLoE4"
     }
   ],
   "unique_name": "Viral 50 - Brazil",

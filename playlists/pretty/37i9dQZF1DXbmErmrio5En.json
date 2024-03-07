@@ -1,12 +1,12 @@
 {
   "description": "saturation, distortion, feedBack. ft. bixby",
-  "num_followers": 36578,
+  "num_followers": 36610,
   "original_name": "feedBack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGU1Y2Q0NjRiYmE2ZTU0YWZkMTE5ZjA5ZTM2YWRhMjk0ZDM2NWQ2",
+  "snapshot_id": "MCxjMDIxYzVhZDJkNGNjODhiMmVkOTk3NTA2NjJkNTQzYmZmMzAwNGRm",
   "tracks": [
     {
       "added_at": "2024-02-27 22:05:45",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
-        "name": "Spiral",
-        "url": "https://open.spotify.com/album/1VkpBOu4KIcL8u9tAkocie"
-      },
-      "artists": [
-        {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        }
-      ],
-      "duration_ms": 168221,
-      "name": "Spiral",
-      "url": "https://open.spotify.com/track/1IutoMzbuf3hVtP4KS9W37"
-    },
-    {
-      "added_at": "2024-02-13 14:25:05",
-      "album": {
         "name": "don\u2019t make me",
         "url": "https://open.spotify.com/album/1iUfn8Ks1M2ii1jezwFB2D"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 125124,
       "name": "don\u2019t make me",
       "url": "https://open.spotify.com/track/0wBfb0s2HNxLN6qSJYuT8p"
+    },
+    {
+      "added_at": "2024-02-13 14:25:05",
+      "album": {
+        "name": "Spiral",
+        "url": "https://open.spotify.com/album/1VkpBOu4KIcL8u9tAkocie"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "duration_ms": 168221,
+      "name": "Spiral",
+      "url": "https://open.spotify.com/track/1IutoMzbuf3hVtP4KS9W37"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
+        "name": "recluse",
+        "url": "https://open.spotify.com/album/59kHbqqRiCkkw1x5dul1LG"
+      },
+      "artists": [
+        {
+          "name": "kaido",
+          "url": "https://open.spotify.com/artist/0UENogXhLeGTZjub4eejjX"
+        }
+      ],
+      "duration_ms": 93719,
+      "name": "recluse",
+      "url": "https://open.spotify.com/track/3cJh7SldK4a4AGCtxonwLa"
+    },
+    {
+      "added_at": "2024-02-13 14:25:05",
+      "album": {
         "name": "all out of love",
         "url": "https://open.spotify.com/album/4xldIoQMfWknQAEq3P2ORa"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 209289,
       "name": "U DON'T KNOW ME LIKE THAT",
       "url": "https://open.spotify.com/track/2Dp0qki35K3PMjRvnKQ5o0"
-    },
-    {
-      "added_at": "2024-02-13 14:25:05",
-      "album": {
-        "name": "recluse",
-        "url": "https://open.spotify.com/album/59kHbqqRiCkkw1x5dul1LG"
-      },
-      "artists": [
-        {
-          "name": "kaido",
-          "url": "https://open.spotify.com/artist/0UENogXhLeGTZjub4eejjX"
-        }
-      ],
-      "duration_ms": 93719,
-      "name": "recluse",
-      "url": "https://open.spotify.com/track/3cJh7SldK4a4AGCtxonwLa"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
+        "name": "STARCROSSED",
+        "url": "https://open.spotify.com/album/4juZSFXIo15KVgXnPeoVJp"
+      },
+      "artists": [
+        {
+          "name": "Overpade",
+          "url": "https://open.spotify.com/artist/03hSZAtyBlgYcfb02Nhh6q"
+        }
+      ],
+      "duration_ms": 172256,
+      "name": "STARCROSSED",
+      "url": "https://open.spotify.com/track/35wWGaFCexpJAglVUgjTcL"
+    },
+    {
+      "added_at": "2024-02-13 14:25:05",
+      "album": {
         "name": "falling in love",
         "url": "https://open.spotify.com/album/46WOsjiOXOsTY4EW7zWLxI"
       },
@@ -807,18 +823,18 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
-        "name": "STARCROSSED",
-        "url": "https://open.spotify.com/album/4juZSFXIo15KVgXnPeoVJp"
+        "name": "Everything Can Levitate",
+        "url": "https://open.spotify.com/album/5VIr5VJPxXeMjlT7IAAwel"
       },
       "artists": [
         {
-          "name": "Overpade",
-          "url": "https://open.spotify.com/artist/03hSZAtyBlgYcfb02Nhh6q"
+          "name": "Oshua",
+          "url": "https://open.spotify.com/artist/1S96G0JKFvzJXHd61DLUPV"
         }
       ],
-      "duration_ms": 172256,
-      "name": "STARCROSSED",
-      "url": "https://open.spotify.com/track/35wWGaFCexpJAglVUgjTcL"
+      "duration_ms": 151833,
+      "name": "Veins",
+      "url": "https://open.spotify.com/track/6HfEaztELNbjVAWCNQC1uA"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -855,22 +871,6 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
-        "name": "Everything Can Levitate",
-        "url": "https://open.spotify.com/album/5VIr5VJPxXeMjlT7IAAwel"
-      },
-      "artists": [
-        {
-          "name": "Oshua",
-          "url": "https://open.spotify.com/artist/1S96G0JKFvzJXHd61DLUPV"
-        }
-      ],
-      "duration_ms": 151833,
-      "name": "Veins",
-      "url": "https://open.spotify.com/track/6HfEaztELNbjVAWCNQC1uA"
-    },
-    {
-      "added_at": "2024-02-13 14:25:05",
-      "album": {
         "name": "Delusional",
         "url": "https://open.spotify.com/album/3nG1CK2bOhi74cNDtCYppx"
       },
@@ -899,22 +899,6 @@
       "duration_ms": 160495,
       "name": "miami",
       "url": "https://open.spotify.com/track/3dKdZudgHv3s6DUtbvf7R6"
-    },
-    {
-      "added_at": "2024-02-13 14:25:05",
-      "album": {
-        "name": "teeth",
-        "url": "https://open.spotify.com/album/6rPaZlzhLAO2z3NwGtIL1b"
-      },
-      "artists": [
-        {
-          "name": "juno",
-          "url": "https://open.spotify.com/artist/5YfZjShz51htJsfQP0YceU"
-        }
-      ],
-      "duration_ms": 144448,
-      "name": "my fault",
-      "url": "https://open.spotify.com/track/2yHDIMVsumkPPNLo3omJKk"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -983,6 +967,22 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
+        "name": "teeth",
+        "url": "https://open.spotify.com/album/6rPaZlzhLAO2z3NwGtIL1b"
+      },
+      "artists": [
+        {
+          "name": "juno",
+          "url": "https://open.spotify.com/artist/5YfZjShz51htJsfQP0YceU"
+        }
+      ],
+      "duration_ms": 144448,
+      "name": "my fault",
+      "url": "https://open.spotify.com/track/2yHDIMVsumkPPNLo3omJKk"
+    },
+    {
+      "added_at": "2024-02-13 14:25:05",
+      "album": {
         "name": "heart attack",
         "url": "https://open.spotify.com/album/1bIFXVDg0VGmasvfKyw2da"
       },
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
-        "name": "ROCK 'N' RAVE",
-        "url": "https://open.spotify.com/album/3oRlu91UUBH536qpdagyNQ"
-      },
-      "artists": [
-        {
-          "name": "Jordan Adetunji",
-          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
-        }
-      ],
-      "duration_ms": 114342,
-      "name": "YOU & I",
-      "url": "https://open.spotify.com/track/6lQOT2gQrFPGvhydbi4Lkw"
-    },
-    {
-      "added_at": "2024-02-13 14:25:05",
-      "album": {
         "name": "wither away",
         "url": "https://open.spotify.com/album/3BDB0JyZKOysFtzDQvIjHu"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 168018,
       "name": "wither away",
       "url": "https://open.spotify.com/track/5Wh3fHoeTzzUxXvhqVs6Kk"
+    },
+    {
+      "added_at": "2024-02-13 14:25:05",
+      "album": {
+        "name": "ROCK 'N' RAVE",
+        "url": "https://open.spotify.com/album/3oRlu91UUBH536qpdagyNQ"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        }
+      ],
+      "duration_ms": 114342,
+      "name": "YOU & I",
+      "url": "https://open.spotify.com/track/6lQOT2gQrFPGvhydbi4Lkw"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
+        "name": "Marithe Francois Girbaud",
+        "url": "https://open.spotify.com/album/6W2JidGbjLDoLTA6b6QKBE"
+      },
+      "artists": [
+        {
+          "name": "Vaeo",
+          "url": "https://open.spotify.com/artist/2ahbiJn3gxyByrDXIMaACV"
+        }
+      ],
+      "duration_ms": 117333,
+      "name": "Marithe Francois Girbaud",
+      "url": "https://open.spotify.com/track/4Ws43eU7FCHmvwKcLqYiBx"
+    },
+    {
+      "added_at": "2024-02-13 14:25:05",
+      "album": {
         "name": "good things 2 (with tana)",
         "url": "https://open.spotify.com/album/2N3S0h8qgKOpHAUkAcpNgY"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 174656,
       "name": "good things 2 (with tana)",
       "url": "https://open.spotify.com/track/6A8z1ijn6ttUSg9Hy4Y1nr"
-    },
-    {
-      "added_at": "2024-02-13 14:25:05",
-      "album": {
-        "name": "Marithe Francois Girbaud",
-        "url": "https://open.spotify.com/album/6W2JidGbjLDoLTA6b6QKBE"
-      },
-      "artists": [
-        {
-          "name": "Vaeo",
-          "url": "https://open.spotify.com/artist/2ahbiJn3gxyByrDXIMaACV"
-        }
-      ],
-      "duration_ms": 117333,
-      "name": "Marithe Francois Girbaud",
-      "url": "https://open.spotify.com/track/4Ws43eU7FCHmvwKcLqYiBx"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
+        "name": "as long as i'm by your side",
+        "url": "https://open.spotify.com/album/0TXtUdpJzaovSnMfADYPE1"
+      },
+      "artists": [
+        {
+          "name": "Endie",
+          "url": "https://open.spotify.com/artist/3B7lDutNv1vGrqkujRx78O"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "as long as i'm by your side",
+      "url": "https://open.spotify.com/track/2LHrjE4VT99HBa9LdkSBT3"
+    },
+    {
+      "added_at": "2024-02-13 14:25:05",
+      "album": {
         "name": "break!",
         "url": "https://open.spotify.com/album/0xBcwKwEV6QJaRxDK7A5rY"
       },
@@ -1275,18 +1291,18 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
-        "name": "as long as i'm by your side",
-        "url": "https://open.spotify.com/album/0TXtUdpJzaovSnMfADYPE1"
+        "name": "castle in the woods song",
+        "url": "https://open.spotify.com/album/6FCltUoh0A8nBBSlEibOkl"
       },
       "artists": [
         {
-          "name": "Endie",
-          "url": "https://open.spotify.com/artist/3B7lDutNv1vGrqkujRx78O"
+          "name": "aldrch",
+          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
         }
       ],
-      "duration_ms": 183529,
-      "name": "as long as i'm by your side",
-      "url": "https://open.spotify.com/track/2LHrjE4VT99HBa9LdkSBT3"
+      "duration_ms": 121318,
+      "name": "castle in the woods song",
+      "url": "https://open.spotify.com/track/1EBHLTCDBFwuHVhrtq6H1z"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -1307,22 +1323,6 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
-        "name": "castle in the woods song",
-        "url": "https://open.spotify.com/album/6FCltUoh0A8nBBSlEibOkl"
-      },
-      "artists": [
-        {
-          "name": "aldrch",
-          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
-        }
-      ],
-      "duration_ms": 121318,
-      "name": "castle in the woods song",
-      "url": "https://open.spotify.com/track/1EBHLTCDBFwuHVhrtq6H1z"
-    },
-    {
-      "added_at": "2024-02-13 14:25:05",
-      "album": {
         "name": "Dream Yoga",
         "url": "https://open.spotify.com/album/6g6fNjJYuxNeFhchBLWC77"
       },
@@ -1335,22 +1335,6 @@
       "duration_ms": 183788,
       "name": "Dream Yoga",
       "url": "https://open.spotify.com/track/0Ngdd6uqWXFm1XdBln7hj0"
-    },
-    {
-      "added_at": "2024-02-13 14:25:05",
-      "album": {
-        "name": "toler",
-        "url": "https://open.spotify.com/album/2IaMfTjA1p8rg5H1GdmDbI"
-      },
-      "artists": [
-        {
-          "name": "kaido",
-          "url": "https://open.spotify.com/artist/0UENogXhLeGTZjub4eejjX"
-        }
-      ],
-      "duration_ms": 105004,
-      "name": "toler",
-      "url": "https://open.spotify.com/track/5HkiRFyaFJ2ImSynsmmceS"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -1371,6 +1355,22 @@
       "duration_ms": 105914,
       "name": "distant",
       "url": "https://open.spotify.com/track/0KJVPtDDxAJxXKvHE3MC9v"
+    },
+    {
+      "added_at": "2024-02-13 14:25:05",
+      "album": {
+        "name": "toler",
+        "url": "https://open.spotify.com/album/2IaMfTjA1p8rg5H1GdmDbI"
+      },
+      "artists": [
+        {
+          "name": "kaido",
+          "url": "https://open.spotify.com/artist/0UENogXhLeGTZjub4eejjX"
+        }
+      ],
+      "duration_ms": 105004,
+      "name": "toler",
+      "url": "https://open.spotify.com/track/5HkiRFyaFJ2ImSynsmmceS"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
+        "name": "people are the enemy",
+        "url": "https://open.spotify.com/album/3XnkMXav9Tp4SJspgw3zD9"
+      },
+      "artists": [
+        {
+          "name": "aldrch",
+          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
+        }
+      ],
+      "duration_ms": 129600,
+      "name": "people are the enemy",
+      "url": "https://open.spotify.com/track/5MBp4svXIK3qHw9xMM9ZRp"
+    },
+    {
+      "added_at": "2024-02-13 14:25:05",
+      "album": {
         "name": "good things",
         "url": "https://open.spotify.com/album/5mxrqF7BJ4vEKDBeG4iQS5"
       },
@@ -1419,6 +1435,22 @@
       "duration_ms": 174656,
       "name": "good things",
       "url": "https://open.spotify.com/track/2QwZiXrFmyPjgGh9akgfid"
+    },
+    {
+      "added_at": "2024-02-13 14:25:05",
+      "album": {
+        "name": "spit",
+        "url": "https://open.spotify.com/album/7hjfEMayKwXCohSb8rVV1C"
+      },
+      "artists": [
+        {
+          "name": "rouri404",
+          "url": "https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa"
+        }
+      ],
+      "duration_ms": 139800,
+      "name": "spit",
+      "url": "https://open.spotify.com/track/1ft9HRORvo0uMAoBwqkxgY"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -1439,38 +1471,6 @@
       "duration_ms": 137142,
       "name": "love actually",
       "url": "https://open.spotify.com/track/3gAKZ4Oc2u5wXsQVor2ytS"
-    },
-    {
-      "added_at": "2024-02-13 14:25:05",
-      "album": {
-        "name": "people are the enemy",
-        "url": "https://open.spotify.com/album/3XnkMXav9Tp4SJspgw3zD9"
-      },
-      "artists": [
-        {
-          "name": "aldrch",
-          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
-        }
-      ],
-      "duration_ms": 129600,
-      "name": "people are the enemy",
-      "url": "https://open.spotify.com/track/5MBp4svXIK3qHw9xMM9ZRp"
-    },
-    {
-      "added_at": "2024-02-13 14:25:05",
-      "album": {
-        "name": "spit",
-        "url": "https://open.spotify.com/album/7hjfEMayKwXCohSb8rVV1C"
-      },
-      "artists": [
-        {
-          "name": "rouri404",
-          "url": "https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa"
-        }
-      ],
-      "duration_ms": 139800,
-      "name": "spit",
-      "url": "https://open.spotify.com/track/1ft9HRORvo0uMAoBwqkxgY"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
-        "name": "Census Designated",
-        "url": "https://open.spotify.com/album/0TsaSQLM21To1HMz2ou5yI"
+        "name": "OVER MY HEAD!",
+        "url": "https://open.spotify.com/album/0b3mXBh4M4bWs130ym8E92"
       },
       "artists": [
         {
-          "name": "Jane Remover",
-          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
+          "name": "DLG.",
+          "url": "https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP"
         }
       ],
-      "duration_ms": 360511,
-      "name": "Census Designated",
-      "url": "https://open.spotify.com/track/5IhT2qYheXI0O2dHMmAb6B"
+      "duration_ms": 158028,
+      "name": "OVER MY HEAD!",
+      "url": "https://open.spotify.com/track/6RyJ4jmZeaxFVlR7VqJIUe"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
-        "name": "OVER MY HEAD!",
-        "url": "https://open.spotify.com/album/0b3mXBh4M4bWs130ym8E92"
+        "name": "Census Designated",
+        "url": "https://open.spotify.com/album/0TsaSQLM21To1HMz2ou5yI"
       },
       "artists": [
         {
-          "name": "DLG.",
-          "url": "https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP"
+          "name": "Jane Remover",
+          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
         }
       ],
-      "duration_ms": 158028,
-      "name": "OVER MY HEAD!",
-      "url": "https://open.spotify.com/track/6RyJ4jmZeaxFVlR7VqJIUe"
+      "duration_ms": 360511,
+      "name": "Census Designated",
+      "url": "https://open.spotify.com/track/5IhT2qYheXI0O2dHMmAb6B"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -1737,20 +1737,20 @@
       "url": "https://open.spotify.com/track/5BJDEyPcwQpunsTidFPfR8"
     },
     {
-      "added_at": "2024-02-13 14:25:05",
+      "added_at": "2024-03-04 16:56:46",
       "album": {
-        "name": "tightrope",
-        "url": "https://open.spotify.com/album/5yaAKu8kw18eeB9WTAyeuM"
+        "name": "wide awake",
+        "url": "https://open.spotify.com/album/7BgAiu4daa1nqbiSaj8vwo"
       },
       "artists": [
         {
-          "name": "Ezra",
-          "url": "https://open.spotify.com/artist/4t3LO0Or2OMeBrH9Jy1bLY"
+          "name": "Kid Moon",
+          "url": "https://open.spotify.com/artist/3jkVbxrPvjzWzrjXcfXKUM"
         }
       ],
-      "duration_ms": 182424,
-      "name": "tightrope",
-      "url": "https://open.spotify.com/track/2ZTkvoAr64FFlNa0A37ZPk"
+      "duration_ms": 174180,
+      "name": "wide awake",
+      "url": "https://open.spotify.com/track/7ipJbtnQbF1VrZqfHeDAVj"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -1767,6 +1767,22 @@
       "duration_ms": 136226,
       "name": "disavow",
       "url": "https://open.spotify.com/track/0xXw3fZmE7EJ5tBlkYwL6a"
+    },
+    {
+      "added_at": "2024-02-13 14:25:05",
+      "album": {
+        "name": "tightrope",
+        "url": "https://open.spotify.com/album/5yaAKu8kw18eeB9WTAyeuM"
+      },
+      "artists": [
+        {
+          "name": "Ezra",
+          "url": "https://open.spotify.com/artist/4t3LO0Or2OMeBrH9Jy1bLY"
+        }
+      ],
+      "duration_ms": 182424,
+      "name": "tightrope",
+      "url": "https://open.spotify.com/track/2ZTkvoAr64FFlNa0A37ZPk"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -1803,22 +1819,6 @@
       "duration_ms": 250168,
       "name": "No One But You",
       "url": "https://open.spotify.com/track/7kiM75ze8pvLiutHPstEnO"
-    },
-    {
-      "added_at": "2024-03-04 16:56:46",
-      "album": {
-        "name": "wide awake",
-        "url": "https://open.spotify.com/album/7BgAiu4daa1nqbiSaj8vwo"
-      },
-      "artists": [
-        {
-          "name": "Kid Moon",
-          "url": "https://open.spotify.com/artist/3jkVbxrPvjzWzrjXcfXKUM"
-        }
-      ],
-      "duration_ms": 174180,
-      "name": "wide awake",
-      "url": "https://open.spotify.com/track/7ipJbtnQbF1VrZqfHeDAVj"
     },
     {
       "added_at": "2024-02-13 14:25:05",

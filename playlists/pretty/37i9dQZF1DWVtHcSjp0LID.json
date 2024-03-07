@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 67013,
+  "num_followers": 67043,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OGNkMjk0ZGM5YTVkZjQ5ZmI0OGFlNjMyYzEyNzA4YjhiNzIyOWE4",
+  "snapshot_id": "MCw2MDhhNjVkZDVhYmE2NjM0NjJkMWRkOWIyNTZiNTZhNzFjN2RlYzc2",
   "tracks": [
     {
       "added_at": "2023-06-09 18:05:35",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
+        "name": "Kindness",
+        "url": "https://open.spotify.com/album/0qwpmqEpdq4ioxTMpQNq1t"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "duration_ms": 275199,
+      "name": "Kindness",
+      "url": "https://open.spotify.com/track/3Bvxmby5zHQ2s72GAQY1ip"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
         "name": "Mirrors",
         "url": "https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7"
       },
@@ -559,18 +575,18 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Kindness",
-        "url": "https://open.spotify.com/album/0qwpmqEpdq4ioxTMpQNq1t"
+        "name": "Arterial",
+        "url": "https://open.spotify.com/album/11IULm1RrL6acmTm3qQzLH"
       },
       "artists": [
         {
-          "name": "Giorgia Angiuli",
-          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+          "name": "Lusine",
+          "url": "https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub"
         }
       ],
-      "duration_ms": 275199,
-      "name": "Kindness",
-      "url": "https://open.spotify.com/track/3Bvxmby5zHQ2s72GAQY1ip"
+      "duration_ms": 254962,
+      "name": "Arterial",
+      "url": "https://open.spotify.com/track/5G67YWTwKKRBkk1EH8aw3S"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -587,22 +603,6 @@
       "duration_ms": 494109,
       "name": "The Only Way Out Is Through",
       "url": "https://open.spotify.com/track/35bAjRIbS6LGuxCR9aP92T"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "Arterial",
-        "url": "https://open.spotify.com/album/11IULm1RrL6acmTm3qQzLH"
-      },
-      "artists": [
-        {
-          "name": "Lusine",
-          "url": "https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub"
-        }
-      ],
-      "duration_ms": 254962,
-      "name": "Arterial",
-      "url": "https://open.spotify.com/track/5G67YWTwKKRBkk1EH8aw3S"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -861,32 +861,20 @@
       "url": "https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB"
     },
     {
-      "added_at": "2023-06-23 14:51:15",
+      "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Simple Child",
-        "url": "https://open.spotify.com/album/3YRYyLIIgyWaCZ5okstYIi"
+        "name": "In search of Moksha... Or something of the kind",
+        "url": "https://open.spotify.com/album/3CtCE0cNY4AQZTr1Jdyos2"
       },
       "artists": [
         {
-          "name": "Meloko",
-          "url": "https://open.spotify.com/artist/59FM2BoNHA8kpDnPwELvIg"
-        },
-        {
-          "name": "LKF Project",
-          "url": "https://open.spotify.com/artist/2RuOG1js6Y29wWnyN7xx2d"
-        },
-        {
-          "name": "Selim Sivade",
-          "url": "https://open.spotify.com/artist/6zQCqwr5oCLdfbvY3n3LIn"
-        },
-        {
-          "name": "Rondo Mo",
-          "url": "https://open.spotify.com/artist/0irPzWV6n0kStz8rffpERG"
+          "name": "Aron Estocolmo",
+          "url": "https://open.spotify.com/artist/2QU3bcawUYfHbcPmWPHtra"
         }
       ],
-      "duration_ms": 376000,
-      "name": "Simple Child",
-      "url": "https://open.spotify.com/track/091XExKLCNuX2sIJ3UvP1X"
+      "duration_ms": 397894,
+      "name": "The Ganga river unpolluted once more",
+      "url": "https://open.spotify.com/track/0JWrWRvxPc86sLSfnyhCBv"
     }
   ],
   "unique_name": "Deep Study",

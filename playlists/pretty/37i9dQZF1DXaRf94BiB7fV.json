@@ -1,13 +1,101 @@
 {
-  "description": "The best new music by independent artists and labels in India. Cover: Arhaan Hussain, Artwork: Isu Kim",
-  "num_followers": 50578,
+  "description": "The best new music by independent artists and labels in India. Cover: Rahi, Artwork: Isu Kim",
+  "num_followers": 50590,
   "original_name": "Fresh Finds India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTFkN2MxODViOWI0ODAyMjZjZGNiNmRhMjE0NDg0ZThkOGUyNzNk",
+  "snapshot_id": "MCwwNzUxZjBmYzBiYzZjMTkwNTA4YzgzOTZhNjE2Zjg4NmI2NGM2ZTQ4",
   "tracks": [
+    {
+      "added_at": "2024-03-06 06:32:09",
+      "album": {
+        "name": "Shaamil",
+        "url": "https://open.spotify.com/album/1Bt8eZWC9Hq2T4V8CPe28Q"
+      },
+      "artists": [
+        {
+          "name": "Rahi",
+          "url": "https://open.spotify.com/artist/28g9DTPD5ZCC8sC9XI1dTs"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "Shaamil",
+      "url": "https://open.spotify.com/track/6UA8XUspm00dmSWR79pVzy"
+    },
+    {
+      "added_at": "2024-03-06 06:32:09",
+      "album": {
+        "name": "Dil Ka Raasta",
+        "url": "https://open.spotify.com/album/4xFKkbq1MQzyE8y6EvsMyr"
+      },
+      "artists": [
+        {
+          "name": "Barzin Contractor",
+          "url": "https://open.spotify.com/artist/5tzm7LT4Dh4RMMbVBQSydc"
+        },
+        {
+          "name": "Aakash Gharat",
+          "url": "https://open.spotify.com/artist/0ToSz2D55nCS3K4oDDczR5"
+        }
+      ],
+      "duration_ms": 239527,
+      "name": "Dil Ka Raasta",
+      "url": "https://open.spotify.com/track/2w5h0hos2OypjbNTKn1UKe"
+    },
+    {
+      "added_at": "2024-03-06 06:32:09",
+      "album": {
+        "name": "Mere Qareeb",
+        "url": "https://open.spotify.com/album/6Pvi11haDMjBKRNq8nIPJo"
+      },
+      "artists": [
+        {
+          "name": "Nupoor Khedkar",
+          "url": "https://open.spotify.com/artist/0NU4RKzpRuMwTyQRlPxqvD"
+        },
+        {
+          "name": "Khwaab",
+          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
+        }
+      ],
+      "duration_ms": 189816,
+      "name": "Mere Qareeb",
+      "url": "https://open.spotify.com/track/4dzde0m9Lw4P7lAvCf4w8h"
+    },
+    {
+      "added_at": "2024-03-06 06:32:09",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/0892HQRUyH88y7TQnbnGwU"
+      },
+      "artists": [
+        {
+          "name": "Jai Matt",
+          "url": "https://open.spotify.com/artist/2sC8JDQrhhEjnpeHrTYzjf"
+        }
+      ],
+      "duration_ms": 183857,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/7H0JskFt7G1or98bxDiCYt"
+    },
+    {
+      "added_at": "2024-03-06 06:32:09",
+      "album": {
+        "name": "Tere hisse mai",
+        "url": "https://open.spotify.com/album/6nslO547zrc1TMRmqPNNqb"
+      },
+      "artists": [
+        {
+          "name": "Meer",
+          "url": "https://open.spotify.com/artist/6vycNHwV6V66hME5wYR3A1"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "Tere hisse mai",
+      "url": "https://open.spotify.com/track/0quCUprSTb7otqulrR1qbG"
+    },
     {
       "added_at": "2024-02-28 07:34:24",
       "album": {
@@ -1487,46 +1575,6 @@
     {
       "added_at": "2024-02-21 10:42:52",
       "album": {
-        "name": "Gumshuda Main Hoon",
-        "url": "https://open.spotify.com/album/6aySSUidnzLpeWVjRHJeDv"
-      },
-      "artists": [
-        {
-          "name": "Ishaan Nigam",
-          "url": "https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2"
-        },
-        {
-          "name": "Brite Roy",
-          "url": "https://open.spotify.com/artist/7rxPUpZCGnK9I2SHVhTw1Y"
-        }
-      ],
-      "duration_ms": 143641,
-      "name": "Gumshuda Main Hoon",
-      "url": "https://open.spotify.com/track/3WloGOKxA9SHMN30wxefa3"
-    },
-    {
-      "added_at": "2024-02-21 10:42:52",
-      "album": {
-        "name": "Jeeya Jaaye Naa",
-        "url": "https://open.spotify.com/album/7iUkttSpAY0rf3IhMq3zbk"
-      },
-      "artists": [
-        {
-          "name": "Joell",
-          "url": "https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd"
-        },
-        {
-          "name": "Chinmayi Tripathi",
-          "url": "https://open.spotify.com/artist/2SBaWEFGgEDAPXw8dLqDfi"
-        }
-      ],
-      "duration_ms": 182480,
-      "name": "Jeeya Jaaye Naa",
-      "url": "https://open.spotify.com/track/1XvMkTZCTWVg4lh2uP3gSk"
-    },
-    {
-      "added_at": "2024-02-21 10:42:52",
-      "album": {
         "name": "Tere Bina Jiya Jaye Na",
         "url": "https://open.spotify.com/album/2yEdok1S6rmrldQc9ElNyI"
       },
@@ -1543,22 +1591,6 @@
       "duration_ms": 234351,
       "name": "Tere Bina Jiya Jaye Na",
       "url": "https://open.spotify.com/track/3g0PtWvvLSVl5G5N5nRF6d"
-    },
-    {
-      "added_at": "2024-02-21 10:42:52",
-      "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/4lT4PR8m65a1eClXovw2K7"
-      },
-      "artists": [
-        {
-          "name": "Dev Mehta",
-          "url": "https://open.spotify.com/artist/36XfUWdNl0C8pE198a8scl"
-        }
-      ],
-      "duration_ms": 217161,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/3DSEQ0vw0NbNcFtwDjFODN"
     },
     {
       "added_at": "2024-02-21 10:42:52",
@@ -1587,26 +1619,6 @@
     {
       "added_at": "2024-02-21 10:42:52",
       "album": {
-        "name": "Aise Kaise",
-        "url": "https://open.spotify.com/album/0vDEn6yEjp4AqUiQkab66W"
-      },
-      "artists": [
-        {
-          "name": "Dimple Saikia",
-          "url": "https://open.spotify.com/artist/6xVlnKfRctFcRDOYhmkHFS"
-        },
-        {
-          "name": "Bily & Akarsh",
-          "url": "https://open.spotify.com/artist/3MWboBp80iV9GpGCeGKs02"
-        }
-      ],
-      "duration_ms": 188593,
-      "name": "Aise Kaise",
-      "url": "https://open.spotify.com/track/0Ug3KGOo5jybEXGhdkazWo"
-    },
-    {
-      "added_at": "2024-02-21 10:42:52",
-      "album": {
         "name": "Haseen Zindagi",
         "url": "https://open.spotify.com/album/6QMhD0MzyqQgaYPXEsnGBB"
       },
@@ -1619,26 +1631,6 @@
       "duration_ms": 159750,
       "name": "Haseen Zindagi",
       "url": "https://open.spotify.com/track/0SJRKLymM7ElckDuzZyMq9"
-    },
-    {
-      "added_at": "2024-02-21 10:42:52",
-      "album": {
-        "name": "Sang Rehna",
-        "url": "https://open.spotify.com/album/0Dr6myT4eQeZR2BKK846m1"
-      },
-      "artists": [
-        {
-          "name": "Akshat",
-          "url": "https://open.spotify.com/artist/2uEA96CxB10Q5Ai4JFVdoO"
-        },
-        {
-          "name": "Yaani Karnawat",
-          "url": "https://open.spotify.com/artist/2DQRnUEWF0YPw4vXHgJzq8"
-        }
-      ],
-      "duration_ms": 244615,
-      "name": "Sang Rehna",
-      "url": "https://open.spotify.com/track/4o5mavZFXYYi7e0Fk0f9eZ"
     },
     {
       "added_at": "2024-02-21 10:42:52",

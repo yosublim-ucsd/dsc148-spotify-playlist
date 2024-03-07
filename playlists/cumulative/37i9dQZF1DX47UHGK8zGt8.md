@@ -4,7 +4,7 @@
 
 > Aquelas pra começar o dia de alma leve
 
-242 songs - 13 hr 42 min
+243 songs - 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Coisa Mais Linda Que Existe](https://open.spotify.com/track/6aATs7AGA2Er7FwEPZFKD9) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [A Coisa Mais Linda Que Existe](https://open.spotify.com/album/2gi7OZoy2d0VHMQBeV8OJV) | 3:52 | 2022-02-18 | 2022-07-29 |
 | [A noite](https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX) | [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [Esmeraldas \(Álbum Comentado\)](https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII) | 3:38 | 2022-04-01 |  |
 | [Absorvendo Tudo](https://open.spotify.com/track/5Ppn6TF1mFx5hEiRpjxEfY) | [Cruvinel](https://open.spotify.com/artist/2TUCCtskhrTEMAAGyQaBaW) | [ABSORVENDO TUDO](https://open.spotify.com/album/4LE3dTrNjyxSWqk7pHjFZv) | 2:35 | 2023-11-17 | 2023-12-02 |
+| [Acabou, mas tem...](https://open.spotify.com/track/5egpEMl7hYdmLP9ptpeE12) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Acabou, mas tem...](https://open.spotify.com/album/2qtqD1onYm68cn0KwhHJQ1) | 3:55 | 2024-03-06 |  |
 | [Acalanto](https://open.spotify.com/track/16eU7wtX9pv2RPtIoDHVeO) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Um Corpo no Mundo](https://open.spotify.com/album/3PH6R6Ah2YfJeufrRYREZ4) | 3:44 | 2022-04-01 | 2023-01-28 |
 | [Acalanto](https://open.spotify.com/track/5TTWOyGAjATPEuDiTIRd62) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Um Corpo no Mundo](https://open.spotify.com/album/6Qg6H9Uo0Iymf3OROPLSDN) | 3:44 | 2023-04-15 |  |
 | [Acontecer](https://open.spotify.com/track/6RTh9V7Po93v5V0HAM230J) | [Sávio](https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz) | [Acontecer](https://open.spotify.com/album/7r9zQdhPp0M1cDIsItlExI) | 2:59 | 2022-04-01 | 2022-04-21 |
@@ -126,7 +127,7 @@
 | [Isn't She Lovely](https://open.spotify.com/track/6yZc8RzX7vxxqIQLQeVPzT) | [Lorenza Pozza](https://open.spotify.com/artist/2TVIEPW2MAGMyGqozwFzG1) | [Música para Casar](https://open.spotify.com/album/3fgCfzJrp5xR6BhvcaY87V) | 2:29 | 2022-02-18 | 2023-09-02 |
 | [Isn't She Lovely](https://open.spotify.com/track/23H8PpuhyTDHwpqcDm7vS6) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 1:26 | 2022-04-01 | 2022-11-10 |
 | [Isn't She Lovely](https://open.spotify.com/track/7zcRBXvRkTRlQYLDNu1JEN) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 1:26 | 2023-01-06 | 2023-10-03 |
-| [Jardineira](https://open.spotify.com/track/2ROhCRzklIHQ6Ug9oOYv0W) | [GAÊ](https://open.spotify.com/artist/2vyuxwDD1pPSDuTxdLLDrS) | [Jardineira](https://open.spotify.com/album/6tOiLqNhvrhiRs83UAdDJB) | 3:00 | 2024-02-15 |  |
+| [Jardineira](https://open.spotify.com/track/2ROhCRzklIHQ6Ug9oOYv0W) | [GAÊ](https://open.spotify.com/artist/2vyuxwDD1pPSDuTxdLLDrS) | [Jardineira](https://open.spotify.com/album/6tOiLqNhvrhiRs83UAdDJB) | 3:00 | 2024-02-15 | 2024-03-07 |
 | [Júpiter \- Ao Vivo](https://open.spotify.com/track/0TkJ5VPDunXaQYNhScQyN4) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Ao Vivo Em Lisboa](https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k) | 2:16 | 2022-02-18 | 2022-07-29 |
 | [Laranja](https://open.spotify.com/track/6EsNWwwiqfz6BYYHFu9wRX) | [Nicolas Candido](https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6), [Maria Elisa](https://open.spotify.com/artist/3s2VC4vZf2n2Tp0ytgQKzM) | [Laranja](https://open.spotify.com/album/5ON7XQlF2J9ajh6kF64G0h) | 2:24 | 2022-04-01 | 2022-07-14 |
 | [Lenda](https://open.spotify.com/track/44lq0DN2TWWfKzstAzKLXJ) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Céu](https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN) | 4:19 | 2022-04-01 | 2022-04-16 |

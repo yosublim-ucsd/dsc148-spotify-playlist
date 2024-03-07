@@ -1,12 +1,12 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Las Mar\u00edas en portada.",
-  "num_followers": 102341,
+  "num_followers": 102385,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjVhYTY4YjFhYzEyMTdlZTRjNDk3M2JkYzc4ZjM0OGFmY2MzZmQz",
+  "snapshot_id": "MCwzNmMyMzg0ODQxZDZlOWFmODA3NzI3ZjQxYWQyZTRlNzJmZWJmYWZm",
   "tracks": [
     {
       "added_at": "2024-03-01 17:15:36",
@@ -747,6 +747,26 @@
     {
       "added_at": "2024-03-01 17:15:36",
       "album": {
+        "name": "Pa' Los Dolidos",
+        "url": "https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi"
+      },
+      "artists": [
+        {
+          "name": "Laraim",
+          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 161927,
+      "name": "Desaires",
+      "url": "https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto"
+    },
+    {
+      "added_at": "2024-03-01 17:15:36",
+      "album": {
         "name": "\u00bfQui\u00e9n Cuida al Pueblo?",
         "url": "https://open.spotify.com/album/4iJ94Gg6xVt1GDaCWSI6z9"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 244800,
       "name": "\u00bfQui\u00e9n Cuida al Pueblo?",
       "url": "https://open.spotify.com/track/640dyQsLPdiLI4vY16mq3D"
-    },
-    {
-      "added_at": "2024-03-01 17:15:36",
-      "album": {
-        "name": "Pa' Los Dolidos",
-        "url": "https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi"
-      },
-      "artists": [
-        {
-          "name": "Laraim",
-          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
-        },
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 161927,
-      "name": "Desaires",
-      "url": "https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto"
     },
     {
       "added_at": "2024-03-01 17:15:36",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-03-01 17:15:36",
       "album": {
-        "name": "Promesas No",
-        "url": "https://open.spotify.com/album/17cEzhYbgpZ3MBf6K9l0Y3"
-      },
-      "artists": [
-        {
-          "name": "Graciela Beltran",
-          "url": "https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl"
-        }
-      ],
-      "duration_ms": 206213,
-      "name": "Es Cosa De El",
-      "url": "https://open.spotify.com/track/0ftCOyTnNeeLhlIuMPR3op"
-    },
-    {
-      "added_at": "2024-03-01 17:15:36",
-      "album": {
         "name": "Te Mereces Un Amor",
         "url": "https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 226400,
       "name": "Te Mereces Un Amor",
       "url": "https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD"
+    },
+    {
+      "added_at": "2024-03-01 17:15:36",
+      "album": {
+        "name": "Promesas No",
+        "url": "https://open.spotify.com/album/17cEzhYbgpZ3MBf6K9l0Y3"
+      },
+      "artists": [
+        {
+          "name": "Graciela Beltran",
+          "url": "https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl"
+        }
+      ],
+      "duration_ms": 206213,
+      "name": "Es Cosa De El",
+      "url": "https://open.spotify.com/track/0ftCOyTnNeeLhlIuMPR3op"
     },
     {
       "added_at": "2024-03-01 17:15:36",
@@ -1023,8 +1023,8 @@
     {
       "added_at": "2024-03-01 17:15:36",
       "album": {
-        "name": "Si Dej\u00f3 de Quererte",
-        "url": "https://open.spotify.com/album/1BqYngNeUJFTQU4uypeg7g"
+        "name": "Por Cbrn y x Qlero",
+        "url": "https://open.spotify.com/album/3zJstkHuWczgdUSQPUXLSZ"
       },
       "artists": [
         {
@@ -1032,9 +1032,9 @@
           "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
         }
       ],
-      "duration_ms": 200864,
-      "name": "Si Dej\u00f3 de Quererte",
-      "url": "https://open.spotify.com/track/1faGe10rEvZyYVfzve5ESU"
+      "duration_ms": 170603,
+      "name": "Por Cbrn y x Qlero",
+      "url": "https://open.spotify.com/track/54pMzb8zgSjQ7FnGtF3zdx"
     },
     {
       "added_at": "2024-03-01 17:15:36",
@@ -1151,8 +1151,8 @@
     {
       "added_at": "2024-03-01 17:15:36",
       "album": {
-        "name": "Por Cbrn y x Qlero",
-        "url": "https://open.spotify.com/album/3zJstkHuWczgdUSQPUXLSZ"
+        "name": "Si Dej\u00f3 de Quererte",
+        "url": "https://open.spotify.com/album/1BqYngNeUJFTQU4uypeg7g"
       },
       "artists": [
         {
@@ -1160,9 +1160,9 @@
           "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
         }
       ],
-      "duration_ms": 170603,
-      "name": "Por Cbrn y x Qlero",
-      "url": "https://open.spotify.com/track/54pMzb8zgSjQ7FnGtF3zdx"
+      "duration_ms": 200864,
+      "name": "Si Dej\u00f3 de Quererte",
+      "url": "https://open.spotify.com/track/1faGe10rEvZyYVfzve5ESU"
     },
     {
       "added_at": "2024-03-01 17:15:36",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2024-03-01 17:15:36",
       "album": {
-        "name": "Mucha Mujer",
-        "url": "https://open.spotify.com/album/0wcdDm599TVgIDv6TOpsgz"
+        "name": "Tus Mentiras",
+        "url": "https://open.spotify.com/album/65sQsNgmHiiortptKtiScz"
       },
       "artists": [
         {
-          "name": "Herly RG",
-          "url": "https://open.spotify.com/artist/5lLFLifxnBH3MP5oZoLczt"
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
         }
       ],
-      "duration_ms": 156067,
-      "name": "Mucha Mujer",
-      "url": "https://open.spotify.com/track/7nrs4Gq5GLgSnmwUlm7Mh2"
+      "duration_ms": 226000,
+      "name": "Tus Mentiras",
+      "url": "https://open.spotify.com/track/5chVcTt95glP47mhpSm28B"
     },
     {
       "added_at": "2024-03-01 17:15:36",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-03-01 17:15:36",
       "album": {
-        "name": "Tus Mentiras",
-        "url": "https://open.spotify.com/album/65sQsNgmHiiortptKtiScz"
+        "name": "Mucha Mujer",
+        "url": "https://open.spotify.com/album/0wcdDm599TVgIDv6TOpsgz"
       },
       "artists": [
         {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+          "name": "Herly RG",
+          "url": "https://open.spotify.com/artist/5lLFLifxnBH3MP5oZoLczt"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Tus Mentiras",
-      "url": "https://open.spotify.com/track/5chVcTt95glP47mhpSm28B"
+      "duration_ms": 156067,
+      "name": "Mucha Mujer",
+      "url": "https://open.spotify.com/track/7nrs4Gq5GLgSnmwUlm7Mh2"
     },
     {
       "added_at": "2024-03-01 17:15:36",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-03-01 17:15:36",
       "album": {
-        "name": "Le Cale A Quien Le Cale",
-        "url": "https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 152768,
-      "name": "Le Cale A Quien Le Cale",
-      "url": "https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod"
-    },
-    {
-      "added_at": "2024-03-01 17:15:36",
-      "album": {
         "name": "Volver\u00e9 A Amar",
         "url": "https://open.spotify.com/album/52la7FZHARCdV9pOo09E2o"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 240680,
       "name": "Volver\u00e9 A Amar",
       "url": "https://open.spotify.com/track/15AwwPqHhOSA3LviBHfIAN"
+    },
+    {
+      "added_at": "2024-03-01 17:15:36",
+      "album": {
+        "name": "Le Cale A Quien Le Cale",
+        "url": "https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 152768,
+      "name": "Le Cale A Quien Le Cale",
+      "url": "https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod"
     },
     {
       "added_at": "2024-03-01 17:15:36",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-03-01 17:15:36",
       "album": {
-        "name": "Sesiones En Vivo Vol. 2",
-        "url": "https://open.spotify.com/album/10F9VCKoV67HlFuBM0wgju"
-      },
-      "artists": [
-        {
-          "name": "Ana Casillas",
-          "url": "https://open.spotify.com/artist/1B14dSg39GuUntPDa6KOXu"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Contigo Aprend\u00ed - En Vivo",
-      "url": "https://open.spotify.com/track/1Oj84aMBeOnTcjKyQ4yHkA"
-    },
-    {
-      "added_at": "2024-03-01 17:15:36",
-      "album": {
         "name": "Cuando Te Acuerdes de M\u00ed (Live Session)",
         "url": "https://open.spotify.com/album/2oyruBJWp4DTJYsEXn5SZX"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 274920,
       "name": "Cuando Te Acuerdes de M\u00ed - Live Session",
       "url": "https://open.spotify.com/track/78sgRUUe099BRWVyAWYseP"
+    },
+    {
+      "added_at": "2024-03-01 17:15:36",
+      "album": {
+        "name": "Sesiones En Vivo Vol. 2",
+        "url": "https://open.spotify.com/album/10F9VCKoV67HlFuBM0wgju"
+      },
+      "artists": [
+        {
+          "name": "Ana Casillas",
+          "url": "https://open.spotify.com/artist/1B14dSg39GuUntPDa6KOXu"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Contigo Aprend\u00ed - En Vivo",
+      "url": "https://open.spotify.com/track/1Oj84aMBeOnTcjKyQ4yHkA"
     },
     {
       "added_at": "2024-03-01 17:15:36",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2024-03-01 17:15:36",
       "album": {
-        "name": "No te quiebres Vidrio (En Vivo)",
-        "url": "https://open.spotify.com/album/4rcNLXlByaS7Lh4dPYrrbI"
+        "name": "Easy On Me",
+        "url": "https://open.spotify.com/album/7woSt0FwAJM0hyV9MFOo3B"
       },
       "artists": [
         {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+          "name": "Sandra Padilla",
+          "url": "https://open.spotify.com/artist/3hht892mum9HGzHHclNtXz"
         }
       ],
-      "duration_ms": 223813,
-      "name": "Sin Valor - En Vivo",
-      "url": "https://open.spotify.com/track/3rbvj7ze4RtxgasRobBk9X"
+      "duration_ms": 221830,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/7gKM9YuToXcbqAmrPqASAt"
     },
     {
       "added_at": "2024-03-01 17:15:36",
@@ -1567,6 +1567,22 @@
       "duration_ms": 212812,
       "name": "Lindo G\u00fcerito - En Vivo",
       "url": "https://open.spotify.com/track/2O9fhXMbU6pAFUM8JMYM7k"
+    },
+    {
+      "added_at": "2024-03-01 17:15:36",
+      "album": {
+        "name": "No te quiebres Vidrio (En Vivo)",
+        "url": "https://open.spotify.com/album/4rcNLXlByaS7Lh4dPYrrbI"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "duration_ms": 223813,
+      "name": "Sin Valor - En Vivo",
+      "url": "https://open.spotify.com/track/3rbvj7ze4RtxgasRobBk9X"
     },
     {
       "added_at": "2024-03-01 17:15:36",
@@ -1603,22 +1619,6 @@
       "duration_ms": 232973,
       "name": "Con La Mirada",
       "url": "https://open.spotify.com/track/4BCKCpZVirE6JD4X3Hmqzi"
-    },
-    {
-      "added_at": "2024-03-01 17:15:36",
-      "album": {
-        "name": "Easy On Me",
-        "url": "https://open.spotify.com/album/7woSt0FwAJM0hyV9MFOo3B"
-      },
-      "artists": [
-        {
-          "name": "Sandra Padilla",
-          "url": "https://open.spotify.com/artist/3hht892mum9HGzHHclNtXz"
-        }
-      ],
-      "duration_ms": 221830,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/7gKM9YuToXcbqAmrPqASAt"
     },
     {
       "added_at": "2024-03-01 17:15:36",

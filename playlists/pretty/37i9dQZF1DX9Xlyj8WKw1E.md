@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 
 > Midwest music breaking waves\. Cover: <a href="spotify:artist:6AUl0ykLLpvTktob97x9hO">Tee Grizzley</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,590 likes - 59 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,608 likes - 59 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 35 | [Tunevert](https://open.spotify.com/track/7sHTyXq2wK6hpCi79KlzbC) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [s\*x m\*ney dr\*gs](https://open.spotify.com/album/6vKVBLTsQW5wXOzmOIkPVZ) | 2:04 |
 | 36 | [7am in Ohio](https://open.spotify.com/track/32ikWV059PDSpRr0RpFRLe) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Saint Michael](https://open.spotify.com/album/3hfXFibd09Z5FjzkVir5lw) | 1:52 |
 | 37 | [Cost To Win](https://open.spotify.com/track/3JeVCAXk76I2k9pMqka1Tr) | [Rockie Fresh](https://open.spotify.com/artist/5Joy3NHmxKQGEOnjxtaMz3) | [Cost To Win](https://open.spotify.com/album/7B0UgkWmWCf6Uw6jVBrLfe) | 2:42 |
-| 38 | [Fee](https://open.spotify.com/track/4nQ5xs6NAax7PzMJq7z8ZU) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [FARADA](https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL) | [Caturday](https://open.spotify.com/album/3Fv9b8VejFy3EktLiQorku) | 4:28 |
+| 38 | [Fee](https://open.spotify.com/track/0gHZBnTTKhgke5k9k9no1C) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [FARADA](https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL) | [Perish Blue \(Fall Tour\)](https://open.spotify.com/album/69ivKBrtrEGTlP7g0c2aX3) | 4:28 |
 | 39 | [Show & Tell \(feat\. Freddie Gibbs\)](https://open.spotify.com/track/4iJVfdFivbtN9n72aUtgOx) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [The Patience](https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87) | 4:20 |
 | 40 | [No Pun Intended](https://open.spotify.com/track/0G7ckZvVPFF8HSsz99i5Zv) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [No Pun Intended](https://open.spotify.com/album/67srMHhR6TEjUbmIafKooL) | 3:14 |
 | 41 | [She Don't Play](https://open.spotify.com/track/07DzN4K6A7nP9ObnBRQAcO) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [She Don't Play](https://open.spotify.com/album/61KEWoaBDNP6xKMFuSBW2y) | 2:20 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 58 | [OUTSIDE ALL SUMMER](https://open.spotify.com/track/4VreDYwSxLuxATdvW975On) | [Joseph Chilliams](https://open.spotify.com/artist/6lirZ0ouvh4l3fz3HSnIwi), [Frsh Waters](https://open.spotify.com/artist/14hFXWA8giW96HpYkTxywX), [Tru](https://open.spotify.com/artist/51Y9uMxhciB1I5qIAhJs8q) | [OUTSIDE ALL SUMMER](https://open.spotify.com/album/4vhbtuoynRryWO4M7RTmLk) | 2:44 |
 | 59 | [Tell Shyanne](https://open.spotify.com/track/5kCWAi0N7NIWcEfW8kKpwi) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [Tell Shyanne](https://open.spotify.com/album/1hZAoVLexmc57NQ0BB2W76) | 2:23 |
 
-Snapshot ID: `MCwyM2FkZjhhOGJkZmNhMjFjYTg3MmZhOTc2NTdlNzIzOTQxMWM2YmZm`
+Snapshot ID: `MCwwNGFiNDViNDM2NWI3NjVmYWEyOGMyZDM0ZmFlZjEwYzc0MDQ2Nzc4`

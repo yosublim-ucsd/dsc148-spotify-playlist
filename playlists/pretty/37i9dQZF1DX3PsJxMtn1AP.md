@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 
 > A sonic wonderland of mesmerizing tunes...
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,323 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,326 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 | 49 | [Arrecifes](https://open.spotify.com/track/0wfjFrIkU2HsVBs1J11vZq) | [Salvana](https://open.spotify.com/artist/7t30OuyAfbI9kVdWBtoQFu) | [Arrecifes](https://open.spotify.com/album/6Zqq3zDBPi1NdYp2yYE7lr) | 2:54 |
 | 50 | [Blame Me](https://open.spotify.com/track/2Y0ttkLBCCT1ID8a5TbxHf) | [Bathe Alone](https://open.spotify.com/artist/384r9G0NILqkGrQL8IPMkC) | [Blame Me](https://open.spotify.com/album/6bLKsmVmjEwJb1Gs5boxmN) | 2:49 |
 
-Snapshot ID: `MCwyYTMwM2U5MDllM2ZjZmY2ODk0YThiOTg4MGJiMGE1ZjIwNWNhMTI5`
+Snapshot ID: `MCw3NzY5YzIwMjVjOWJhNDVmZTdhODdhNjU1NjcwYWRmODc4MTBlYmE0`

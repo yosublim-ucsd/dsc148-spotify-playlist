@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 283743,
+  "2024-03-07": 283794,
   "date_first_scraped": "2023-12-10",
   "description": "Driving to work? or on a road trip? Find your sing-along moments here.",
   "name": "Driving Anthems",
@@ -635,7 +635,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 232720,
       "name": "Happy - From \"Despicable Me 2\"",
       "url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH"
@@ -1639,7 +1639,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 207320,
       "name": "thank u, next",
       "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4XAkka1siEMwWx2TXNDZuW.md) - [plain]
 
 > nothing but the stink of old moist carpet, the madness of mono\-yellow, the endless background noise of fluorescent lights at maximum hum\-buzz, and approximately six hundred million square miles of randomly segmented empty rooms to be trapped in
 
-[paige](https://open.spotify.com/user/paigebethanyy) - 38,483 likes - 107 songs - 5 hr 35 min
+[paige](https://open.spotify.com/user/paigebethanyy) - 38,478 likes - 107 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/4XAkka1siEMwWx2TXNDZuW.md) - [plain]
 | 41 | [void\_\_19\#\#\#\-A](https://open.spotify.com/track/1suY5lVFFjVvkeMkrzyHf9) | [No Love In The House Of Gold](https://open.spotify.com/artist/5gqzWJS2sbYm3zoKFsC38L) | [void\_\_19\#\#\#](https://open.spotify.com/album/7qS36GXzqhI8GXg6TN8SFZ) | 1:22 |
 | 42 | [State Forest](https://open.spotify.com/track/0f1fzwtgcFfFWOCucp6CUe) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Claustro / State Forest](https://open.spotify.com/album/28T25ZaiH7pzjmJXeWACex) | 8:03 |
 | 43 | [Lake Feet](https://open.spotify.com/track/78SXVMQsm9nsg5wVKfwkGx) | [Black Moth Super Rainbow](https://open.spotify.com/artist/4UHzJP2iKVf0RhKIv7ZE2l) | [Falling Through a Field](https://open.spotify.com/album/4czvTLsnYjZAWKREElSdYR) | 2:23 |
-| 44 | [Peroxide](https://open.spotify.com/track/1lDQal5To3RPGCzYFBpaFR) | [Imagine Drowning](https://open.spotify.com/artist/00Z6TAeTxPFq45NrCtj7M9), [Dysonence](https://open.spotify.com/artist/088U5OU0IfuoHAwjxrKq8x) | [Stain Licker](https://open.spotify.com/album/4U5588OifAJPFrUK8pkrSF) | 5:14 |
+| 44 | [Peroxide](https://open.spotify.com/track/1lDQal5To3RPGCzYFBpaFR) | [Imagine Drowning](https://open.spotify.com/artist/00Z6TAeTxPFq45NrCtj7M9) | [Stain Licker](https://open.spotify.com/album/4U5588OifAJPFrUK8pkrSF) | 5:14 |
 | 45 | [Seraph I](https://open.spotify.com/track/7ooqvIdR5UcpyzYbtwksWH) | [How to Disappear Completely](https://open.spotify.com/artist/58PAYlZ9swIJ50dcMNSMaT) | [Seraphim](https://open.spotify.com/album/3vIZNnaV7973vNme1hPXbS) | 8:15 |
 | 46 | [Trade Winds, White Heat](https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 4:22 |
 | 47 | [michael has been fired from his job, michael has been burnt to death](https://open.spotify.com/track/18SpEqxrBDvVmznrlDMxhE) | [No Love In The House Of Gold](https://open.spotify.com/artist/5gqzWJS2sbYm3zoKFsC38L) | [atlantis part 2](https://open.spotify.com/album/1rgyl3sbS5ViSSuvnXU734) | 4:54 |

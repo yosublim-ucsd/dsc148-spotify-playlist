@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Miley Cyrus, Pharell
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,343 likes - 116 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,374 likes - 116 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 115 | [ペアリング](https://open.spotify.com/track/2vznAtq5wtn4D7U6WCwu5l) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [ペアリング](https://open.spotify.com/album/78HHdtzcQk4AVf5d46foLP) | 3:09 |
 | 116 | [Electric Blue](https://open.spotify.com/track/3vqMSB50nUqjw5dlVKuYlF) | [Tash Wolf](https://open.spotify.com/artist/10EGVgMvnFkNlI3BF2LhV3) | [Electric Blue](https://open.spotify.com/album/0gZrh2whTmhOttHSoHe7Cz) | 2:16 |
 
-Snapshot ID: `MCw0MmNhODAxNzY0ZjUwMDI1NzkzMmEyNjlmMTI4YTI5NThlNWJjZDY5`
+Snapshot ID: `MCwwZDE3MzUxMjUxYTc4MGEzOTJjNTRjMDNhZjk3Nzg1YTAyZDZmYmIw`

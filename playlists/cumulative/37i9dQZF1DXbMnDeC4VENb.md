@@ -4,7 +4,7 @@
 
 > Una eufórica dosis de urbano romántico en español.
 
-187 songs - 10 hr 40 min
+188 songs - 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Cuatro Paredes](https://open.spotify.com/track/5YzYf1636ixpWoLYuQZ9O6) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Cuatro Paredes](https://open.spotify.com/album/2QUCFoOF9BiRyVE4SReMJ9) | 3:15 | 2022-05-25 | 2022-06-17 |
 | [De Madrugada](https://open.spotify.com/track/280QqgbMrLeMs6B80mIPG2) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [De Madrugada](https://open.spotify.com/album/1tWIyjJX38WxDiIgyySy4P) | 3:40 | 2022-05-25 | 2023-07-15 |
 | [De Ti Me Olvidé](https://open.spotify.com/track/33s8LK4Cof43AIDnfhVJUb) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [De Ti Me Olvidé](https://open.spotify.com/album/4eqsTSv4Ftfdi4fC453fRp) | 3:41 | 2022-05-25 | 2023-07-15 |
+| [Desde Que Te Bese](https://open.spotify.com/track/3LUp0DjkJlxhVVhSWgNETZ) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [Desde Que Te Bese](https://open.spotify.com/album/6BI9UyPeQL7GYoxvXvLc5H) | 3:02 | 2024-03-01 |  |
 | [Desde Que Te Bese](https://open.spotify.com/track/52yiGPq2rumA8stMa345dJ) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [Desde Que Te Bese](https://open.spotify.com/album/269AgD2kvSnseu3eFYSq17) | 3:02 | 2023-06-02 | 2024-03-04 |
 | [Dibújame](https://open.spotify.com/track/0RKglZdTQ7BLrs6vplb2qm) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Dibújame](https://open.spotify.com/album/46M0YKUmzyQm5yNAmqs3f0) | 3:56 | 2022-05-25 |  |
 | [Dilema](https://open.spotify.com/track/4Q8SfTd5PRdb7LF5IiSceE) | [Stilo](https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9), [More](https://open.spotify.com/artist/0vLXnXSAplgnptyE3jKnpi), [Good Vice crew](https://open.spotify.com/artist/2S6I4rL5hXSZXoL1mVksgz) | [Dilema](https://open.spotify.com/album/3vSPHYLMczA4Mth6zb98KF) | 3:10 | 2023-10-27 | 2023-12-09 |
@@ -151,7 +152,7 @@
 | [Sin Ti](https://open.spotify.com/track/0E7Ue4jKLBSNnHfpb5qLS0) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Sin Ti](https://open.spotify.com/album/4IbsYpeHXOiRiGYfMriL1i) | 5:46 | 2023-03-03 |  |
 | [Sirena](https://open.spotify.com/track/5jeWGw9WMX68R8hNqdriOv) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Sirena](https://open.spotify.com/album/0dTFJm1H9hKxR6RUPiflhS) | 3:51 | 2022-05-25 |  |
 | [Sol](https://open.spotify.com/track/1Z2rizszFDMFwhAUIVjgnj) | [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK) | [Sol](https://open.spotify.com/album/3THBtFwKBwIdIEw7Nc044G) | 3:43 | 2022-05-25 | 2024-01-20 |
-| [Sonríes Como Nadie](https://open.spotify.com/track/35upFzxLHai3PhYbZlF90f) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Sonríes Como Nadie](https://open.spotify.com/album/3HPEQMPNdF7YdcdxECYBPy) | 3:16 | 2022-05-25 |  |
+| [Sonríes Como Nadie](https://open.spotify.com/track/35upFzxLHai3PhYbZlF90f) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Sonríes Como Nadie](https://open.spotify.com/album/3HPEQMPNdF7YdcdxECYBPy) | 3:16 | 2022-05-25 | 2024-03-07 |
 | [Stupid Love Story](https://open.spotify.com/track/1VIQPJc3fGfX23S6SD651l) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Apa y Can](https://open.spotify.com/album/4Qk0GRWSaErdxCk5jXXtlx) | 4:42 | 2022-05-25 | 2023-08-20 |
 | [Stupid Love Story](https://open.spotify.com/track/4xMBLZtJz8WKzelM4bqJpv) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Rap Epico](https://open.spotify.com/album/2fSq489Gg9Z4HfIUESHuBX) | 4:42 | 2023-08-04 | 2023-08-09 |
 | [Stupid Love Story](https://open.spotify.com/track/1r5mgtowxhqse44YVzCk6x) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Apa y Can](https://open.spotify.com/album/0Lsj9AVrWNV5zIUvB349uD) | 4:46 | 2023-08-04 |  |

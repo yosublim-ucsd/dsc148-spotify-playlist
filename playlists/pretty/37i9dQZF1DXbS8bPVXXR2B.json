@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 228395,
+  "num_followers": 228443,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzNhMGVkMGNiYTNhODEwNjQzMDgyMmIxYTI5Mzc4MzUwZDljY2Uy",
+  "snapshot_id": "MCxmNzY4ZDcwZGQ0ZTFmOWI5M2JlMTFmZjZiNmI4MDAzMGY5OTRhNTkw",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Sound System",
-        "url": "https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 337773,
-      "name": "The Magnificent Dance",
-      "url": "https://open.spotify.com/track/2vUlFUyRbemQaseUj6NESz"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Love Has Come Around - Finest Moments",
         "url": "https://open.spotify.com/album/7BFPbUysgfYdNs0Zs9CqI1"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 472866,
       "name": "Love Has Come Around",
       "url": "https://open.spotify.com/track/0jA2HEWkUZFo0lyQ0NsBi0"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Sound System",
+        "url": "https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 337773,
+      "name": "The Magnificent Dance",
+      "url": "https://open.spotify.com/track/2vUlFUyRbemQaseUj6NESz"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Pure Sounds of Africa",
-        "url": "https://open.spotify.com/album/4Gmh2qeyIv04wytrc9F5Ab"
-      },
-      "artists": [
-        {
-          "name": "Hugh Masekela",
-          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
-        }
-      ],
-      "duration_ms": 413560,
-      "name": "Don't Go Lose It Baby",
-      "url": "https://open.spotify.com/track/1kKvcinRJW5ci22gnTYNq6"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Jackson Sisters (Expanded Edition)",
         "url": "https://open.spotify.com/album/4FEznXemFQRRv1lf0aH8OZ"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 177573,
       "name": "I Believe In Miracles - 7\" Version",
       "url": "https://open.spotify.com/track/7cnurYkLGrwfZyoQDmo0e1"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Pure Sounds of Africa",
+        "url": "https://open.spotify.com/album/4Gmh2qeyIv04wytrc9F5Ab"
+      },
+      "artists": [
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        }
+      ],
+      "duration_ms": 413560,
+      "name": "Don't Go Lose It Baby",
+      "url": "https://open.spotify.com/track/1kKvcinRJW5ci22gnTYNq6"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Charles Webster - Coast2Coast",
-        "url": "https://open.spotify.com/album/0J3maXTgCWzdpFC3CQs6MO"
-      },
-      "artists": [
-        {
-          "name": "Larry Heard",
-          "url": "https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz"
-        }
-      ],
-      "duration_ms": 396546,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/06hANyT8h4lWypiU6PJPrR"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Silk Rhodes",
         "url": "https://open.spotify.com/album/3i1kIb5NncLgLIU86ju8jr"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 145646,
       "name": "Face 2 Face",
       "url": "https://open.spotify.com/track/16vd3YjKTmORE88HUl2gUR"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Charles Webster - Coast2Coast",
+        "url": "https://open.spotify.com/album/0J3maXTgCWzdpFC3CQs6MO"
+      },
+      "artists": [
+        {
+          "name": "Larry Heard",
+          "url": "https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz"
+        }
+      ],
+      "duration_ms": 396546,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/06hANyT8h4lWypiU6PJPrR"
     },
     {
       "added_at": "2022-09-05 16:54:43",

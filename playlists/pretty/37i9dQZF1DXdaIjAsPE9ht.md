@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaIjAsPE9ht.md) - [plain]
 
 > sad lofi to keep your thoughts company when u r down\. remember this too shall pass
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,399 likes - 82 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,428 likes - 82 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaIjAsPE9ht.md) - [plain]
 | 5 | [promised you](https://open.spotify.com/track/3X3nG3p7bb4XtGCh0ITsLv) | [Gibun](https://open.spotify.com/artist/2UjKSDLr7jx5VWshKXQ0bT) | [promised you](https://open.spotify.com/album/4y1qZp2i3lKxfWxrMlMeHb) | 2:06 |
 | 6 | [So Unique](https://open.spotify.com/track/2pir3lGD2dNsBjPRCN5Xxt) | [Zho Zho](https://open.spotify.com/artist/1kmThtC0J9kzWqMy89sIyJ) | [Indigo Rum](https://open.spotify.com/album/73gM76gHJIEXqrY1idyLIG) | 2:39 |
 | 7 | [rainforest echo](https://open.spotify.com/track/6XGIuWgTPuarzwUtLRaBCe) | [miura x miura](https://open.spotify.com/artist/24JB4ExVYytyA9AN9tBgMc) | [rainforest echo](https://open.spotify.com/album/6cW8eS7qg8QIlfAoqaBFel) | 2:05 |
-| 8 | [Emotional Avocado Toast](https://open.spotify.com/track/4HB0WtiZfr4RHFHoZfIsSr) | [Simis Cartwright](https://open.spotify.com/artist/5CBZsBU3HohXRlymLEIubg) | [Emotional Avocado Toast](https://open.spotify.com/album/1jS1ayBHa8WZqyOJpvA9pz) | 2:10 |
-| 9 | [the midnight hour](https://open.spotify.com/track/7btfC7Yz5QCnhgxuWdMvAs) | [Cheeky Beez](https://open.spotify.com/artist/2bsxN6WcHThnyAuPiLscbA) | [the midnight hour](https://open.spotify.com/album/7Jt9SP54taPSHKwiVun3w7) | 2:29 |
-| 10 | [Mirror](https://open.spotify.com/track/6wa6akH9SHPLIePf1Hl4Bs) | [Blue Bag](https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar) | [Mirror](https://open.spotify.com/album/5hDzkcdJRdVxdfwZDUiRta) | 2:04 |
-| 11 | [Free Trees](https://open.spotify.com/track/23xwWliB2C9ebh21I7kD0U) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Free Trees](https://open.spotify.com/album/377keRBbyFcp49RdaFw90Z) | 2:30 |
-| 12 | [dozen](https://open.spotify.com/track/5kfiW0zjkX0ykCCphv3KpG) | [Parelo](https://open.spotify.com/artist/5x2rKBeovdxVizxphumkD0) | [dozen](https://open.spotify.com/album/0dizKykE5UNTDJ3qgAHjPw) | 2:02 |
+| 8 | [the midnight hour](https://open.spotify.com/track/7btfC7Yz5QCnhgxuWdMvAs) | [Cheeky Beez](https://open.spotify.com/artist/2bsxN6WcHThnyAuPiLscbA) | [the midnight hour](https://open.spotify.com/album/7Jt9SP54taPSHKwiVun3w7) | 2:29 |
+| 9 | [Mirror](https://open.spotify.com/track/6wa6akH9SHPLIePf1Hl4Bs) | [Blue Bag](https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar) | [Mirror](https://open.spotify.com/album/5hDzkcdJRdVxdfwZDUiRta) | 2:04 |
+| 10 | [Free Trees](https://open.spotify.com/track/23xwWliB2C9ebh21I7kD0U) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Free Trees](https://open.spotify.com/album/377keRBbyFcp49RdaFw90Z) | 2:30 |
+| 11 | [dozen](https://open.spotify.com/track/5kfiW0zjkX0ykCCphv3KpG) | [Parelo](https://open.spotify.com/artist/5x2rKBeovdxVizxphumkD0) | [dozen](https://open.spotify.com/album/0dizKykE5UNTDJ3qgAHjPw) | 2:02 |
+| 12 | [Emotional Avocado Toast](https://open.spotify.com/track/4HB0WtiZfr4RHFHoZfIsSr) | [Simis Cartwright](https://open.spotify.com/artist/5CBZsBU3HohXRlymLEIubg) | [Emotional Avocado Toast](https://open.spotify.com/album/1jS1ayBHa8WZqyOJpvA9pz) | 2:10 |
 | 13 | [open palms](https://open.spotify.com/track/5UFBTG0Q1OQI3RoBrExjum) | [Meliona](https://open.spotify.com/artist/7GvCcfowrxriTXXoNaiHle) | [open palms](https://open.spotify.com/album/5af6mHMof1QXV0Yq4g4TJU) | 2:07 |
 | 14 | [Metropolis Moods](https://open.spotify.com/track/4v2AVfVsqsnYdGVkUUdKag) | [LOFI FRAN](https://open.spotify.com/artist/79lYlTTaSsCLvanVBtYWf6) | [Metropolis Moods](https://open.spotify.com/album/5GNIh6i7uaucdL1Go5fuF8) | 2:03 |
 | 15 | [Garden Suitcase](https://open.spotify.com/track/7M7F46ZhsjjQrat1xsSBnZ) | [hello low](https://open.spotify.com/artist/0rw0XSu4ERGOxViqqBfclo) | [Garden Suitcase](https://open.spotify.com/album/7xMTf3XHD0bDYg0qAybTry) | 2:31 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaIjAsPE9ht.md) - [plain]
 | 81 | [Warm Breeze](https://open.spotify.com/track/5IzOMzubd43MqIdJWYvB0r) | [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe), [Dreamfield](https://open.spotify.com/artist/0Z1g78JEjg1BhRNw6hToVm) | [Arcadia](https://open.spotify.com/album/4mMzW0uhJuEXfmkdhZH9bK) | 2:39 |
 | 82 | [Distance](https://open.spotify.com/track/4TDmvOpMxFoF7MX6gQh1Ld) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Philip Somber](https://open.spotify.com/artist/3xJD9x3Dw6g4g5naFYe0qi) | [Forest Of Dreams](https://open.spotify.com/album/7GubKoMp9Lr1XqEtpspcZI) | 3:05 |
 
-Snapshot ID: `MCxmNmFhYWNhNjk4NmEzNzYyNzAxNGUxMzIyODYxMjFkMTQ4MzAwZmMy`
+Snapshot ID: `MCw5MDcxMzRkMTUwZmMxYWY2MTAyOGIzZjIxMDAxN2E4OGQ3ZWVlMDQ5`

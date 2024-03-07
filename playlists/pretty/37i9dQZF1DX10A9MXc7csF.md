@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Ivonne Galaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,588 likes - 62 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,597 likes - 62 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 61 | [Pa' No Sentir](https://open.spotify.com/track/7dF25WcmGa1W6hCsCf9BJx) | [Cachas De Oro](https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU) | [Pa' No Sentir](https://open.spotify.com/album/0rgzvqKl0UHlmc5Rx3r68D) | 3:22 |
 | 62 | [Amar Otra Vez](https://open.spotify.com/track/1wWROnFqptp0EsNZU3JlKK) | [Cash Bently](https://open.spotify.com/artist/6yjpnGMq2yiLvJCSIVBwzd) | [Cash Corridos 3](https://open.spotify.com/album/4pM7rMUi8J9UcuJG2JtJDh) | 2:37 |
 
-Snapshot ID: `MCwwYjY3MTk5OGI5MjI4MjE2NDYyNjAxMzQzOTBiZDUwOGEwYTg3YTY3`
+Snapshot ID: `MCwyMTU4YTJhOWZhMzk5Y2IzNDUwNzdkODFkMTAzMWFjMzA5MmFlNjc4`

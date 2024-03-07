@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 350006,
+  "2024-03-07": 351727,
   "date_first_scraped": "2023-07-23",
   "description": "music from the underworld",
   "name": "hexxed",
@@ -259,7 +259,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 110586,
       "name": "bad girl",
       "url": "https://open.spotify.com/track/5jLCmNyW6jnEQ8a3RUPR5u"
@@ -760,6 +760,24 @@
     },
     {
       "album": {
+        "name": "Die Sterne",
+        "url": "https://open.spotify.com/album/5MWl80M1azmxFDfUyxVYEy"
+      },
+      "artists": [
+        {
+          "name": "Edwin Rosen",
+          "url": "https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88000,
+      "name": "Die Sterne",
+      "url": "https://open.spotify.com/track/6baLPwIPJ26kB37mp5bHad"
+    },
+    {
+      "album": {
         "name": "digital heart",
         "url": "https://open.spotify.com/album/6zEqiFRN9gaANjKiuHh2AG"
       },
@@ -1005,6 +1023,24 @@
       "duration_ms": 135533,
       "name": "fairy",
       "url": "https://open.spotify.com/track/33S1CJ4uVRitpmqONx9pOt"
+    },
+    {
+      "album": {
+        "name": "Faster n Harder",
+        "url": "https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W"
+      },
+      "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "Faster n Harder",
+      "url": "https://open.spotify.com/track/3qaMprRWLGggArD14diXYz"
     },
     {
       "album": {
@@ -2495,7 +2531,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 124074,
       "name": "Parking Lot",
       "url": "https://open.spotify.com/track/525wrNQ7CY1KmtAFz2wVo6"
@@ -2825,7 +2861,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 133361,
       "name": "Rock Your Body",
       "url": "https://open.spotify.com/track/1LKk576aw3RM47MNytUtrD"
@@ -2865,6 +2901,28 @@
       "duration_ms": 140740,
       "name": "sakura rokujo",
       "url": "https://open.spotify.com/track/7ARs2Nw0Qt2zlBU07ie7Ep"
+    },
+    {
+      "album": {
+        "name": "Sapphire",
+        "url": "https://open.spotify.com/album/1hJGyISdlrBHHv0YBSe1Ug"
+      },
+      "artists": [
+        {
+          "name": "juhvahn",
+          "url": "https://open.spotify.com/artist/4IfApBEW6RQ9uogE7cuZnJ"
+        },
+        {
+          "name": "Perpetualll",
+          "url": "https://open.spotify.com/artist/18vd25otIXXeNS0BHiCHRB"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Sapphire",
+      "url": "https://open.spotify.com/track/1zjM0yzhtbRRwj5rD897fY"
     },
     {
       "album": {
@@ -3169,6 +3227,24 @@
       "duration_ms": 78876,
       "name": "STILL THE SAME",
       "url": "https://open.spotify.com/track/5EI4qf2SeHH8AtlRgWcFyy"
+    },
+    {
+      "album": {
+        "name": "Suffocation (Slowed)",
+        "url": "https://open.spotify.com/album/7wblFnt47oJLJXxNJrIb3e"
+      },
+      "artists": [
+        {
+          "name": "noturgf",
+          "url": "https://open.spotify.com/artist/32ENZVmItiETXMCYfM1bbS"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64842,
+      "name": "Suffocation - Slowed",
+      "url": "https://open.spotify.com/track/15uq77MdhAjrnBuumngIsz"
     },
     {
       "album": {

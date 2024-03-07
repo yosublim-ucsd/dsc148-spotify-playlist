@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: サバシスター
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,873 likes - 70 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,887 likes - 70 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 21 | [456](https://open.spotify.com/track/6kgOLdMFma5r2Wft43YEgt) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [Design](https://open.spotify.com/album/6aiQoplCQlYraw3uZCwoFp) | 2:50 |
 | 22 | [Transpose](https://open.spotify.com/track/0n2q9kCBG5QSgZx2sj4H1P) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Transpose](https://open.spotify.com/album/6txrWZ14wMs7sh93JtWFUU) | 3:59 |
 | 23 | [LOVELY](https://open.spotify.com/track/2p6mMrccBiWuwtpWCyVPbq) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x) | [LOVELY](https://open.spotify.com/album/4TrfWYsP8LRU10Rw6usFJL) | 3:38 |
-| 24 | [GIG](https://open.spotify.com/track/7KOfQ62yOjVbJfgu9hwKok) | [CHIANZ](https://open.spotify.com/artist/131DUTfKAyi7NWTRfnnxxX) | [GIG](https://open.spotify.com/album/34RYSED8TokEfsGaZnst31) | 3:13 |
+| 24 | [GIG](https://open.spotify.com/track/4MWQGEF9vdMrrW4wRlKKVN) | [CHIANZ](https://open.spotify.com/artist/131DUTfKAyi7NWTRfnnxxX) | [GIG](https://open.spotify.com/album/4MAkb1av61l7kJiuYoNTIX) | 3:13 |
 | 25 | [Feel The Same](https://open.spotify.com/track/6yzc8hNAysupCM89UNzggh) | [magicHour](https://open.spotify.com/artist/1qoz9VuS349JOH8M6E5LEQ) | [Feel The Same](https://open.spotify.com/album/0wrneh6deMAWfdr9sGtvLd) | 3:04 |
 | 26 | [あなたの全て](https://open.spotify.com/track/4IOqoYcnwu5kWkmnb2GRAa) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [あなたの全て](https://open.spotify.com/album/6LPKB9E4vKOQaFHytYKePu) | 4:12 |
 | 27 | [Light](https://open.spotify.com/track/66WTU7QWjgvq0MCrRKKPcj) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [Give Me All of Your Life](https://open.spotify.com/album/6whddh4xySGYuZRYbndVOJ) | 3:49 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 69 | [路地裏ねこみたいに](https://open.spotify.com/track/0N5BGS5uB15Yu3dVMHHE3e) | [原田ねくら](https://open.spotify.com/artist/4qIx6BtpXmDOxKxhpk3JXL) | [路地裏ねこみたいに](https://open.spotify.com/album/73fACwYn5CZxXkRPx8lZdT) | 3:07 |
 | 70 | [Sanzameku](https://open.spotify.com/track/0XWKTGEZy1UxKERL4ZuPEz) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [NEO TOKYO METRO](https://open.spotify.com/album/3QmE1SZpwTswgKFSIBkuuv) | 3:05 |
 
-Snapshot ID: `MCw4ZDJjYTcxNjc3Mjg1MDQ4YWZjNTA2NDg3MjAwM2U4ZWRmM2JiZDVj`
+Snapshot ID: `MCw2MmQyMjhhMjZjOWE0NTg1ZjBmYWQzZWJlZDQxNzg0ZTNhYzVlY2Y0`

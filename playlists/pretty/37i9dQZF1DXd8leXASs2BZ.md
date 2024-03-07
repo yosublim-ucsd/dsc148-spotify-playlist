@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: 7
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,017 likes - 99 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,030 likes - 99 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 23 | [Erika](https://open.spotify.com/track/2Jq181EBmECAZizq23U0GL) | [AZU](https://open.spotify.com/artist/1hWfPkBroOMDyXvyEoXoML) | [Fear](https://open.spotify.com/album/1ZfPw1YQ24RP3CAu0MTqov) | 3:35 |
 | 24 | [Jimmy Choo](https://open.spotify.com/track/7sjMVTwRPodZm1uBmGDp5f) | [chao chao](https://open.spotify.com/artist/4MT9OmyrjZzGG7TZTd9yQ0) | [Back To The Past](https://open.spotify.com/album/6NR7ADnnNsu63b6pRYYpmB) | 2:51 |
 | 25 | [i don't know \(that](https://open.spotify.com/track/2Jo94X97s79fE6prjgNTBk) | [AOTO](https://open.spotify.com/artist/3hcgrXE2f4dTzHc1WS4JGs), [M\-3](https://open.spotify.com/artist/1ksrAJFSS3cQ2axS9fcMcU) | [i don't know \(that](https://open.spotify.com/album/1RMj4durFQoxp5Ni6M1RNF) | 2:11 |
-| 26 | [銭湯](https://open.spotify.com/track/3OLtdYmbURkkoLiIf9BLO1) | [suimu:](https://open.spotify.com/artist/3FLRHIlvau9mLVlOXs7FWb) | [銭湯](https://open.spotify.com/album/2fFt2OPmG9eFvEHAcypOka) | 2:39 |
+| 26 | [sento](https://open.spotify.com/track/1Nl87uvvdyIAohvr4vX37I) | [suimu:](https://open.spotify.com/artist/3FLRHIlvau9mLVlOXs7FWb) | [sento](https://open.spotify.com/album/2w9UyWl3QI9sZZp84gzb5K) | 2:39 |
 | 27 | [Toku No Machi](https://open.spotify.com/track/3hpTcEcNdALCUwQf0RIMUd) | [TeTe](https://open.spotify.com/artist/1rkLrKyeAMCNibaEd768uw) | [Purple Way](https://open.spotify.com/album/4edGKSWpGTlizWkEn4XXtQ) | 3:33 |
 | 28 | [NERI CHAGI](https://open.spotify.com/track/7MEtFiQy6Y4uwSLRDlgbHz) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H) | [NERI CHAGI](https://open.spotify.com/album/0p7ELsDN4BVx16x0qJshCa) | 2:42 |
 | 29 | [The first snowfall](https://open.spotify.com/track/49XnF4NRLNMImT1qKAmH9o) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [Tade Dust](https://open.spotify.com/artist/2pxHWQNVmLCr3HnSqFk5IH) | [The first snowfall](https://open.spotify.com/album/4B4pZcXibJxmeJiOICB0gK) | 2:57 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 98 | [GINGINDEGO](https://open.spotify.com/track/1F0zihdKiGUlrR1YcaQbVR) | [Ryuk](https://open.spotify.com/artist/6XwuA8ruL7xjyyxxnUCjwX), [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA) | [GINGINDEGO](https://open.spotify.com/album/6bErHCwerAoOZsI2cEfXC2) | 1:51 |
 | 99 | [Care free](https://open.spotify.com/track/7fAg5vKDq5jBOBpAoYExV6) | [SugLawd Familiar](https://open.spotify.com/artist/6xiT2jISLeWrj8udndxqW4), [Oichi](https://open.spotify.com/artist/6b9pWhWVeTIH0p0px5KnXn), [XF MENEW](https://open.spotify.com/artist/3YF6gmNp1tjvTJp4MkLoWH) | [Care free](https://open.spotify.com/album/0DsApSEvCkKXGQom5mqKJ0) | 2:44 |
 
-Snapshot ID: `MCxmOWY2ZjBiZTY0NDIwNGI0N2JjODg0MTE4ZWE2Y2I1NmU2YjMzN2Q0`
+Snapshot ID: `MCxhZGJjMGQzNjhjYzQxOGNmNWJjYmY3MDQwNDU5NmE4MjJiNjhiZmRi`

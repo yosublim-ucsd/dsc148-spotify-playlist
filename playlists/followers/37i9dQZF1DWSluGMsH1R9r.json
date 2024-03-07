@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 704998,
+  "2024-03-07": 705155,
   "date_first_scraped": "2021-12-21",
   "description": "Calm piano music for enhanced concentration.",
   "name": "Perfect Concentration",
@@ -773,7 +773,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 140190,
       "name": "Antique Clock",
       "url": "https://open.spotify.com/track/0LenKLAcx2fIHmPGBbLWpn"
@@ -1288,6 +1288,24 @@
     },
     {
       "album": {
+        "name": "Before You Leave",
+        "url": "https://open.spotify.com/album/59XlugrAgS9ZEQ8UsZ5zPd"
+      },
+      "artists": [
+        {
+          "name": "Henriette Fleich",
+          "url": "https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128946,
+      "name": "Before You Leave",
+      "url": "https://open.spotify.com/track/5r4tOJk4xR3J4SQS52GO4l"
+    },
+    {
+      "album": {
         "name": "Bellevue",
         "url": "https://open.spotify.com/album/3PY8KrpMXFaTfy2hhYBXJk"
       },
@@ -1645,6 +1663,24 @@
       "duration_ms": 165986,
       "name": "Changements",
       "url": "https://open.spotify.com/track/2tujCQTkcY1vCNynkn0Jiu"
+    },
+    {
+      "album": {
+        "name": "Chanson Pour Un Amour Perdu",
+        "url": "https://open.spotify.com/album/4wSJswIZfgIzd3yxGdckFn"
+      },
+      "artists": [
+        {
+          "name": "M\u00edrabilis",
+          "url": "https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123628,
+      "name": "Chanson Pour Un Amour Perdu",
+      "url": "https://open.spotify.com/track/0Wycng7AsIXY48TYFgEtYr"
     },
     {
       "album": {
@@ -2919,7 +2955,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 137743,
       "name": "Fields Of Love",
       "url": "https://open.spotify.com/track/38GNL3kBcQafMTKT5tom7c"
@@ -2937,7 +2973,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 259874,
       "name": "Fils Du Soleil",
       "url": "https://open.spotify.com/track/67np71K50CRwUfpXqlsXJV"
@@ -5419,7 +5455,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 165767,
       "name": "Little Waltz",
       "url": "https://open.spotify.com/track/7wjFJYxBZgZE643XFyExK1"
@@ -5765,6 +5801,24 @@
       "duration_ms": 155000,
       "name": "Ma meilleure ann\u00e9e",
       "url": "https://open.spotify.com/track/6cxJxS35yFpNdN40G9hIw5"
+    },
+    {
+      "album": {
+        "name": "Making peace",
+        "url": "https://open.spotify.com/album/2EDyH9iFr81wOcIpj0PJ3Q"
+      },
+      "artists": [
+        {
+          "name": "Christian Janssen",
+          "url": "https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143034,
+      "name": "Making peace",
+      "url": "https://open.spotify.com/track/1F0zXMBvMOK2MgpLWD1knU"
     },
     {
       "album": {
@@ -7478,6 +7532,24 @@
     },
     {
       "album": {
+        "name": "Prati",
+        "url": "https://open.spotify.com/album/0Z9iN9qKmgZe3c5RemXZBU"
+      },
+      "artists": [
+        {
+          "name": "Carluccio",
+          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145566,
+      "name": "Prati",
+      "url": "https://open.spotify.com/track/7rXBrWGuXfc64IG5gD7Kee"
+    },
+    {
+      "album": {
         "name": "Presque l'amour",
         "url": "https://open.spotify.com/album/6enrbOB2poCkylWRXhrp7r"
       },
@@ -7961,6 +8033,24 @@
       "duration_ms": 130909,
       "name": "Respectfully",
       "url": "https://open.spotify.com/track/3GNy9aZAn5ZTdBm6Ha0XCt"
+    },
+    {
+      "album": {
+        "name": "Rest",
+        "url": "https://open.spotify.com/album/5PyoVVil8AmVxpN8Gxzitj"
+      },
+      "artists": [
+        {
+          "name": "Algot Brooke",
+          "url": "https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174426,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/634pdMJ4hY7Ttaf8B45C0C"
     },
     {
       "album": {
@@ -9743,7 +9833,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 167414,
       "name": "The Orchard (I)",
       "url": "https://open.spotify.com/track/2Wcv1iL7U75j0yAUuQq4Qz"
@@ -9959,7 +10049,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 122370,
       "name": "Them",
       "url": "https://open.spotify.com/track/1cXTuVkGdqa3anVZWWDGm0"
@@ -10899,6 +10989,24 @@
       "duration_ms": 136124,
       "name": "What We Used To Say",
       "url": "https://open.spotify.com/track/43puambWzfUexLaMUVfR4H"
+    },
+    {
+      "album": {
+        "name": "Whatever is left",
+        "url": "https://open.spotify.com/album/1LNtCytR3zCAjkMtFeUd6Q"
+      },
+      "artists": [
+        {
+          "name": "Noemi Lucas",
+          "url": "https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123628,
+      "name": "Whatever is left",
+      "url": "https://open.spotify.com/track/5MWKM287iNZv276AkNnJaM"
     },
     {
       "album": {

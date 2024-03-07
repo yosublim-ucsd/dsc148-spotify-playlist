@@ -4,7 +4,7 @@
 
 > Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.
 
-181 songs - 13 hr 9 min
+182 songs - 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,8 +70,9 @@
 | [Home \(GCM Sinai Sessions\) \[feat\. Jonathan Ogden\]](https://open.spotify.com/track/6LwwzwWaRfRkDjFAIUxtCS) | [WYLD](https://open.spotify.com/artist/5Rw6396SuRpo6CRSLrZzKt), [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Home \(GCM Sinai Sessions\) \[feat\. Jonathan Ogden\]](https://open.spotify.com/album/4iwQhf1wykHLNxnTJ9aQfi) | 4:10 | 2020-08-31 |  |
 | [Home \- Acoustic](https://open.spotify.com/track/5s5PmLUIIfh2glhkoBF0aS) | [London Gatch](https://open.spotify.com/artist/50l42yX9ACfwA0plxFO0Ah) | [Home](https://open.spotify.com/album/6PPK6jGfdlNYfsH9jt4YZh) | 6:30 | 2020-08-31 |  |
 | [How Can I](https://open.spotify.com/track/3awgBVx3iWd3Y2lxhDzaZv) | [Senna](https://open.spotify.com/artist/052ZztbHMDTofTKgYI2Y2K) | [How Can I](https://open.spotify.com/album/2tfpzRnVgGRBzbZiydB3jM) | 4:34 | 2020-08-31 | 2023-10-01 |
+| [how great thou art](https://open.spotify.com/track/7utnfGm43yniXcoW9Btz5R) | [the quiet hours](https://open.spotify.com/artist/3yQPMxOkCUCB78X2Gcj7aT), [Andrew Osenga](https://open.spotify.com/artist/1lJC5MbTUW5ld4yXzNB0H4) | [25th floor of a reservation casino](https://open.spotify.com/album/2Tqb3XASaRS2WSxjzDrYQF) | 4:32 | 2023-07-28 |  |
 | [I can always find You](https://open.spotify.com/track/4V2rRHpWP0cH2GwsSe3aqg) | [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [I can always find You](https://open.spotify.com/album/3xuqtlVGECSJnRvvo94pge) | 3:46 | 2023-07-28 |  |
-| [I Could Sing Of Your Love Forever](https://open.spotify.com/track/4wXh7qz12O9DiMQHGATKv1) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [Throne Room](https://open.spotify.com/album/2buktwWoAIGQCPgDa11Cvt) | 3:56 | 2023-07-28 |  |
+| [I Could Sing Of Your Love Forever](https://open.spotify.com/track/4wXh7qz12O9DiMQHGATKv1) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [Throne Room](https://open.spotify.com/album/2buktwWoAIGQCPgDa11Cvt) | 3:56 | 2023-07-28 | 2024-03-07 |
 | [I Don't Have Much](https://open.spotify.com/track/5GauSw0ZYcQN9VNl4Bm46a) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [I Don't Have Much](https://open.spotify.com/album/13xozrVcJxO5odimOc6UAw) | 5:14 | 2020-08-31 |  |
 | [I Know Just What You Need](https://open.spotify.com/track/0CBxM0vs1cT1YIw0GNnpuO) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG), [Rebekah Autumn](https://open.spotify.com/artist/20ed7TTssoM14jZNDm7dJJ) | [Love Secrets \(B\-Sides\)](https://open.spotify.com/album/1czXmSklT1QRyz24ZZes6e) | 3:33 | 2020-08-31 |  |
 | [I Know Just What You Need](https://open.spotify.com/track/4yKLqYXt2tQaBw4qta5iMs) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG), [Rebekah Autumn](https://open.spotify.com/artist/20ed7TTssoM14jZNDm7dJJ) | [I Know Just What You Need](https://open.spotify.com/album/5Sn2cIEG2QQcTFAdrJ29BV) | 3:33 | 2020-08-31 | 2022-07-29 |

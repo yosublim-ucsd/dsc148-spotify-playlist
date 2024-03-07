@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 242330,
+  "2024-03-07": 242301,
   "date_first_scraped": "2021-12-28",
   "description": "'Tis the season! All new holiday releases. Cover: Cher",
   "name": "New Music Holiday",
@@ -3213,12 +3213,12 @@
       },
       "artists": [
         {
-          "name": "The Philly Specials",
-          "url": "https://open.spotify.com/artist/4JPJvxDtfBlQAiNm8dd7vX"
-        },
-        {
           "name": "Jason Kelce",
           "url": "https://open.spotify.com/artist/11RtainpIFozRURWgPJxFL"
+        },
+        {
+          "name": "The Philly Specials",
+          "url": "https://open.spotify.com/artist/4JPJvxDtfBlQAiNm8dd7vX"
         },
         {
           "name": "Travis Kelce",

@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 463680,
+  "2024-03-07": 463995,
   "date_first_scraped": "2022-12-29",
   "description": "The biggest dance floor bangers of the 2000s.",
   "name": "Dance Hits 2000s",
@@ -427,7 +427,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 218533,
       "name": "D\u00e9senchant\u00e9e",
       "url": "https://open.spotify.com/track/4yOU9FaCmFFo2qfy1FHIe3"
@@ -1673,7 +1673,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 145764,
       "name": "Riverside - Radio Mix",
       "url": "https://open.spotify.com/track/3YwOh5FSxwhRnvO1yGduEi"

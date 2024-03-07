@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Erick The Architect
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,310,005 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,310,098 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [Six Feet](https://open.spotify.com/track/4YdJ4fQhWZvtzfbLxC0LOJ) | [Drex Carter](https://open.spotify.com/artist/2zhgWhhKeDGw6gGd16y7tc) | [Lost Out Loud](https://open.spotify.com/album/20Y3jYbFJ441vBvYMBMrsx) | 2:27 |
 | 100 | [Jagger](https://open.spotify.com/track/2IOiwdXF9VipVZXC83I92W) | [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [Jagger](https://open.spotify.com/album/4Rbx6tpqGbXRN5wmloamzk) | 4:16 |
 
-Snapshot ID: `MCwwNjkxOTRmNzRhZTZmZGZiODkzODRmZTY2ZWY3MzMxNjczNGFlZjVk`
+Snapshot ID: `MCwwZDdjYjhlNmJhNmEzMTY0ZDQzNWRiYzFmNmM0NTA2MWIxZmQ0MGY2`

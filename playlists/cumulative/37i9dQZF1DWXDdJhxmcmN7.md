@@ -4,7 +4,7 @@
 
 > los mejores beats producidos en tierras mexicanas 🌵
 
-139 songs - 5 hr 33 min
+140 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Sayulita Vibes](https://open.spotify.com/track/64aOycR5RRQyq44tlTIP5A) | [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb) | [Sayulita Vibes](https://open.spotify.com/album/3gRZRW5RMjggRus07nFpZz) | 1:58 | 2023-05-05 |  |
 | [Shiny](https://open.spotify.com/track/4LRD9QLwptQrwYsiJCPm5g) | [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn) | [Shiny](https://open.spotify.com/album/0c2yx03r9wtlW0JKwOffHi) | 2:09 | 2023-05-05 |  |
 | [simbiosis](https://open.spotify.com/track/4jhLp2tTaDgPTpUL0EyNjp) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP) | [simbiosis](https://open.spotify.com/album/1ojXjQt8i318N8LL4lskZK) | 3:36 | 2023-05-05 | 2024-02-23 |
+| [simbiosis](https://open.spotify.com/track/6yDJV9kEfwcJAIUcDsOhx9) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP) | [simbiosis](https://open.spotify.com/album/2ismkksxHKZnGUa5Do2gUZ) | 3:36 | 2024-02-02 |  |
 | [sol](https://open.spotify.com/track/1x9zn5iITjMAg6rJF5FdoX) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Grethel Ross](https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg) | [sol](https://open.spotify.com/album/1H46AyYosdxrhuROEbTHms) | 1:59 | 2024-02-02 |  |
 | [sol](https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Grethel Ross](https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg) | [sol](https://open.spotify.com/album/6dOkPpcZ3elxSPmyZbvCIg) | 1:59 | 2023-05-05 | 2024-02-23 |
 | [Stellar Explorer](https://open.spotify.com/track/0DokpRqlN4t9zbLiYDWKei) | [Gagdropers](https://open.spotify.com/artist/6Wkh2zEO1Z51e6BQrjNZFf) | [Cosmic Solitude](https://open.spotify.com/album/1Kk2IqjOcR77jrGr2J1ThX) | 2:01 | 2024-02-02 |  |
@@ -144,7 +145,7 @@
 | [van life](https://open.spotify.com/track/4FZJDWZTLQkHzoWHKT5bRY) | [Jose Bautista](https://open.spotify.com/artist/6fzN4HcSe04gUIKj6qFlKB), [Acrylic Sleep](https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny) | [van life](https://open.spotify.com/album/0av05fGMfHMS5X62fW4Nzt) | 2:15 | 2023-05-05 |  |
 | [Vibrando Alto En Tulum](https://open.spotify.com/track/4hlkd0ei6iefgdkQP37Fsa) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Ocaso Sin Fin](https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz) | 1:53 | 2023-05-05 |  |
 | [Viernes Azul](https://open.spotify.com/track/15jXUrt4BqPPqsp2Z7QO1M) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Viernes Azul](https://open.spotify.com/album/3nsTP9n9ikz64G5fpDZvnz) | 3:34 | 2023-05-05 |  |
-| [Viscaria Corto](https://open.spotify.com/track/3PvE0frfXEPQj8gE0zu0DJ) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK) | [Viscaria Corto](https://open.spotify.com/album/0qQvzPPPt3zSBK2M8vRYJI) | 2:24 | 2023-05-05 |  |
+| [Viscaria Corto](https://open.spotify.com/track/3PvE0frfXEPQj8gE0zu0DJ) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK) | [Viscaria Corto](https://open.spotify.com/album/0qQvzPPPt3zSBK2M8vRYJI) | 2:24 | 2023-05-05 | 2024-03-07 |
 | [wandering](https://open.spotify.com/track/1OLk9LBviwtoDpgzdDwvt9) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [wandering](https://open.spotify.com/album/7DECPk68hAEsO2z7yQpmgl) | 2:02 | 2023-09-22 | 2024-01-21 |
 | [Waves](https://open.spotify.com/track/5TcPlr0F7tbLxIEAKyAgdP) | [Outdream](https://open.spotify.com/artist/6L8yEVFZqTkzA7ccfu2i1I) | [Waves](https://open.spotify.com/album/43bXdzpch1I5OaPOJ5Nnf4) | 2:24 | 2023-05-05 |  |
 

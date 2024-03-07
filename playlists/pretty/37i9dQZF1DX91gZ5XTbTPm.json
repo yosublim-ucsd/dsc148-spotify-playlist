@@ -1,12 +1,12 @@
 {
   "description": "The Midwest is always on time. Cover: Lil Durk",
-  "num_followers": 123777,
+  "num_followers": 123855,
   "original_name": "CST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDdhN2YzYTk1Zjc1MGRhMjc2YjMyMjhjOGJmODExMWU2YTE3OTY5",
+  "snapshot_id": "MCw3ODY0NGJjYTc4YWQ4YjRjMzQ3NTU2OTUyNDJmZDg0MzdmNDNkODk3",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -227,7 +227,7 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "JAPANESE DENIM (feat. Veeze)",
+        "name": "JAPANESE DENIM (feat. Veeze & LUCKI)",
         "url": "https://open.spotify.com/album/5m3BPYBaanarQy8hXJ7XoZ"
       },
       "artists": [
@@ -236,16 +236,16 @@
           "url": "https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg"
         },
         {
-          "name": "LUCKI",
-          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
-        },
-        {
           "name": "Veeze",
           "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        },
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
         }
       ],
       "duration_ms": 127442,
-      "name": "JAPANESE DENIM (feat. Veeze)",
+      "name": "JAPANESE DENIM (feat. Veeze & LUCKI)",
       "url": "https://open.spotify.com/track/7IRBVTWua5balW0xUJHmUF"
     },
     {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2NoR0KhNZ8oZnC3HoNt2FV.md) - [plain]
 
 > Metro Boomin, That Mexican OT, Luh Tyler
 
-[PlayStation®️](https://open.spotify.com/user/playstation_music) - 227,596 likes - 666 songs - 1 day 13 hr 34 min
+[PlayStation®️](https://open.spotify.com/user/playstation_music) - 227,619 likes - 666 songs - 1 day 13 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

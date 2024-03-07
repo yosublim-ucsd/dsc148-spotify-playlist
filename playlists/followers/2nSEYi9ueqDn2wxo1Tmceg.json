@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 70599,
+  "2024-03-07": 70596,
   "date_first_scraped": "2022-06-10",
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
   "name": "Domino Sound System",
@@ -14017,6 +14017,28 @@
       "duration_ms": 358572,
       "name": "Trumpet Punch",
       "url": "https://open.spotify.com/track/7riH4ZZJyyk8e7g4rATgLv"
+    },
+    {
+      "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/5cGbvD6RfHWaou8F6lpTuo"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Hart",
+          "url": "https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa"
+        },
+        {
+          "name": "Giulia Tess",
+          "url": "https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296916,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/63TU6HeinhcJyEov0Z8ptB"
     },
     {
       "album": {

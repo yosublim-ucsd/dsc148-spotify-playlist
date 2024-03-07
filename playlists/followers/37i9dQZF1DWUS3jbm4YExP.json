@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 704894,
+  "2024-03-07": 705153,
   "date_first_scraped": "2021-12-28",
   "description": "Groovy sounds from around the world.",
   "name": "Global Groove",
@@ -1459,7 +1459,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 295469,
       "name": "Black Times - Radio Edit",
       "url": "https://open.spotify.com/track/2mbWm1eg1c1h2RuXm2kme9"
@@ -1539,7 +1539,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 348292,
       "name": "Boogie",
       "url": "https://open.spotify.com/track/1qRJWYZlXrycHQs3KkfCgu"
@@ -1677,7 +1677,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 267316,
       "name": "Bumay\u00e9 - Voilaaa Disco Remix",
       "url": "https://open.spotify.com/track/1iU6nqqgtahrZZdcPm2OOL"
@@ -1743,7 +1743,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 247424,
       "name": "Caldera",
       "url": "https://open.spotify.com/track/5D46bBp3uBW53ZHuS04ERu"
@@ -2608,6 +2608,28 @@
     },
     {
       "album": {
+        "name": "Dejate Llevar",
+        "url": "https://open.spotify.com/album/4Drqq5fk908c6oGJcGJkKg"
+      },
+      "artists": [
+        {
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        },
+        {
+          "name": "Israel Arteaga",
+          "url": "https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301723,
+      "name": "Dejate Llevar",
+      "url": "https://open.spotify.com/track/7FDSyaGSN7CjMcd7jXWq9Z"
+    },
+    {
+      "album": {
         "name": "Descending To Nowhere",
         "url": "https://open.spotify.com/album/40x1FfDLWrqgts1sZq6xyt"
       },
@@ -2637,7 +2659,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-26",
+      "date_removed": null,
       "duration_ms": 209480,
       "name": "Descending To Nowhere",
       "url": "https://open.spotify.com/track/6NtkWVLdArIlZAwxpWH2tF"
@@ -3025,7 +3047,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 176937,
       "name": "Don\u2019t Believe The Dancers",
       "url": "https://open.spotify.com/track/2CDIZCkpzIgwStcD1e9K4Y"
@@ -4129,7 +4151,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 245365,
       "name": "Florecer",
       "url": "https://open.spotify.com/track/3TaLLashha0SbJRIrEj5gZ"
@@ -4511,7 +4533,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 315483,
       "name": "Good Blood",
       "url": "https://open.spotify.com/track/0IhKRPBbC5vm3XIXT6bOtW"
@@ -6571,6 +6593,24 @@
     {
       "album": {
         "name": "Let the Festivities Begin!",
+        "url": "https://open.spotify.com/album/4R3BesBG4MgLth7TwqzHmO"
+      },
+      "artists": [
+        {
+          "name": "Los Bitchos",
+          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232946,
+      "name": "Las Panteras",
+      "url": "https://open.spotify.com/track/2mEi7C8nDEOEDlu3MtMjmZ"
+    },
+    {
+      "album": {
+        "name": "Let the Festivities Begin!",
         "url": "https://open.spotify.com/album/4MyJz5sB4YHeKVtlc9gt7x"
       },
       "artists": [
@@ -6953,7 +6993,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 222453,
       "name": "Lupita",
       "url": "https://open.spotify.com/track/1Xnf2h75C55EKU8H9msq7G"
@@ -7015,6 +7055,24 @@
       "duration_ms": 199830,
       "name": "Magica Nueva",
       "url": "https://open.spotify.com/track/6BMnWybJGa1ECarOi99Xvo"
+    },
+    {
+      "album": {
+        "name": "Mahal",
+        "url": "https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT"
+      },
+      "artists": [
+        {
+          "name": "Glass Beams",
+          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201339,
+      "name": "Mahal",
+      "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
     },
     {
       "album": {
@@ -8513,7 +8571,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 206684,
       "name": "Nosotros Tambi\u00e9n",
       "url": "https://open.spotify.com/track/76xUNVY7llhvudB1jrl21I"
@@ -9933,7 +9991,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 216769,
       "name": "se non sai",
       "url": "https://open.spotify.com/track/2YBchQ1HhBQ7LpJBGAZ6yA"
@@ -10027,7 +10085,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 101560,
       "name": "Shake",
       "url": "https://open.spotify.com/track/7zvmi94ekefZgqq4E1JZ9H"
@@ -10175,7 +10233,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-24",
+      "date_removed": null,
       "duration_ms": 368108,
       "name": "Sh\u0113nzhou V.",
       "url": "https://open.spotify.com/track/0AULxj8PjVnPL8vuUGwVkb"
@@ -10233,7 +10291,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-04",
+      "date_removed": null,
       "duration_ms": 343841,
       "name": "Silence is Golden",
       "url": "https://open.spotify.com/track/72pAdCNhYcGaKndmsJBbyz"
@@ -10529,7 +10587,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 270013,
       "name": "Space Lab",
       "url": "https://open.spotify.com/track/79pNMlXrkQG7PY0KEVvHAL"
@@ -10953,7 +11011,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 324978,
       "name": "Takahashi Timing",
       "url": "https://open.spotify.com/track/5fYTGGSAxJz2cSWAAWwGZG"
@@ -12335,7 +12393,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 304334,
       "name": "Water of Life",
       "url": "https://open.spotify.com/track/2kT05IUIBA0xsDfxphTiV1"
@@ -12515,7 +12573,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 140552,
       "name": "Ya",
       "url": "https://open.spotify.com/track/7F3girVxqXUFc75BEVrLq5"
@@ -12533,7 +12591,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 214750,
       "name": "Ya Aen Daly",
       "url": "https://open.spotify.com/track/1VjppisbhMTw4JgRUmlcsG"

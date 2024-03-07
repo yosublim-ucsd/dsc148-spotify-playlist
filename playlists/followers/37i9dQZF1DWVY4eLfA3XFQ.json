@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 610312,
+  "2024-03-07": 610449,
   "date_first_scraped": "2021-12-21",
   "description": "Tech house technicians, featuring ACRAZE. 50% techno, 50% house",
   "name": "Tech House Operator",
@@ -7425,7 +7425,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 146250,
       "name": "Drum Machine",
       "url": "https://open.spotify.com/track/2vuMD95467vEtEUja63LxH"
@@ -10351,7 +10351,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 169687,
       "name": "Give Me A Sign",
       "url": "https://open.spotify.com/track/66Q1xT5uKtmC4cFh6o4uL6"
@@ -17613,6 +17613,24 @@
       "duration_ms": 198095,
       "name": "Move My Feet",
       "url": "https://open.spotify.com/track/38GzuWkCOIRIio9uau2OEU"
+    },
+    {
+      "album": {
+        "name": "Move With Me",
+        "url": "https://open.spotify.com/album/0rhxrapNtHpRRJJwppssW9"
+      },
+      "artists": [
+        {
+          "name": "Local Singles",
+          "url": "https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Move With Me",
+      "url": "https://open.spotify.com/track/63eRXDiU4N4RsJ9vN2vgIx"
     },
     {
       "album": {
@@ -29867,7 +29885,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 200343,
       "name": "What I'm Sayin",
       "url": "https://open.spotify.com/track/7tzH9WFMUGfsvvI0UXXj4A"
@@ -30788,24 +30806,6 @@
     },
     {
       "album": {
-        "name": "You Sure Do",
-        "url": "https://open.spotify.com/album/50gTjS3P6RMiJ7pERaAEIF"
-      },
-      "artists": [
-        {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
-        }
-      ],
-      "date_added": "2024-03-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 190476,
-      "name": "You Sure Do",
-      "url": "https://open.spotify.com/track/6yv2lb71Wl5F017L1T41V0"
-    },
-    {
-      "album": {
         "name": "You Talkin'",
         "url": "https://open.spotify.com/album/17OGNhyHM0gCe9ACFi7YFY"
       },
@@ -30945,6 +30945,24 @@
       "duration_ms": 184761,
       "name": "You\u00b4re so Fine - Radio Mix",
       "url": "https://open.spotify.com/track/04hvcyZHZn9OhiXNI9NFve"
+    },
+    {
+      "album": {
+        "name": "YSD",
+        "url": "https://open.spotify.com/album/50gTjS3P6RMiJ7pERaAEIF"
+      },
+      "artists": [
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190476,
+      "name": "YSD",
+      "url": "https://open.spotify.com/track/6yv2lb71Wl5F017L1T41V0"
     },
     {
       "album": {

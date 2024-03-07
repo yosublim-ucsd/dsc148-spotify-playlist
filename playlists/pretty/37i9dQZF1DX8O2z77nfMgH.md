@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Portada: J Balvin, Jowell & Randy, De la Ghetto
 
-[Spotify](https://open.spotify.com/user/spotify) - 900,932 likes - 55 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 900,941 likes - 55 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 35 | [entre las piernas](https://open.spotify.com/track/5Z8ylWRIPqri4EFRltuHMg) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [entre las piernas](https://open.spotify.com/album/4lC8tWRJRUfADPn6aAjLVl) | 3:31 |
 | 36 | [Stalker](https://open.spotify.com/track/1VAJSlj6vfKnbaTRNhytHN) | [EXTi](https://open.spotify.com/artist/4qXoStzSrllHWv0TPl96l1) | [Stalker](https://open.spotify.com/album/4UfV5ja04U72hdVWM0hbk9) | 2:24 |
 | 37 | [A Pesar de Todo](https://open.spotify.com/track/7IWJ9kpWkTDK5AtQA3TT8K) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Más Normal De Lo Normal](https://open.spotify.com/album/6m49ikdNMRnfOCcQ6xA6wh) | 2:30 |
-| 38 | [Ao Arrepio da Lei](https://open.spotify.com/track/4xsVg1mKcHTHa9gxqeuiNA) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Ao Arrepio da Lei](https://open.spotify.com/album/1UwTMohdeycHtJFsRJ4nCY) | 3:39 |
+| 38 | [Ao Arrepio da Lei](https://open.spotify.com/track/4xsVg1mKcHTHa9gxqeuiNA) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8), [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Ao Arrepio da Lei](https://open.spotify.com/album/1UwTMohdeycHtJFsRJ4nCY) | 3:39 |
 | 39 | [la nena de un gang$ter](https://open.spotify.com/track/398DmYDYzH9wnoGSoCx5pk) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [la nena de un gang$ter](https://open.spotify.com/album/1Fu0dkMZw7xmM577HnKWw9) | 3:26 |
 | 40 | [Menos Mal Que Me Querías](https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Menos Mal Que Me Querías](https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW) | 2:37 |
 | 41 | [Quiero Mejor](https://open.spotify.com/track/3LW4vz2fFmhUinOH2t4AR4) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3) | [Quiero Mejor](https://open.spotify.com/album/7wMaXdsVI3tW89aZIc7xW1) | 3:03 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 54 | [Greve De Beijo \- Ao Vivo](https://open.spotify.com/track/2LQ67PtoEgJSaRSqoh4k2E) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Let's Bora UDI \(Ao Vivo\)](https://open.spotify.com/album/6qoyIq6P1ARy6Chl6WHFTf) | 2:37 |
 | 55 | [Kamehameha](https://open.spotify.com/track/1V8utCbISlbpINEMvEd7nc) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [DJ Thi Marquez](https://open.spotify.com/artist/3PqV7Fyye1JcHwZHQ8BjoA) | [Kamehameha](https://open.spotify.com/album/0t1RQSdcT6YhZVoNvTcUHu) | 2:27 |
 
-Snapshot ID: `MCxkODZjMzhiYWUyMjQ4YjA1OTQ2NGM1NzFmNDMwMmJmYjg1NmQ4YmZk`
+Snapshot ID: `MCw1ZDYzMzM0ZTVkZDAwMDFkZDU1YmJkYWZiMmMzNzQ1NmI1YWU4MGU3`

@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and happy jazz christmas classics.",
-  "num_followers": 115886,
+  "num_followers": 115868,
   "original_name": "Feel Good Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODU1MDIwZGRhMmNiYzlmNGEyMGQ2MDBmMGMxZjhiZTg1NGU4MTc3",
+  "snapshot_id": "MCxlYzk2YTc5OTQ0NjMwODdjMThjNzZjOWNmZDcyOWQ4YzIyNDhjOTU3",
   "tracks": [
     {
       "added_at": "2023-12-19 09:14:04",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-12-19 09:14:04",
       "album": {
-        "name": "Yule Be Miserable",
-        "url": "https://open.spotify.com/album/072uKkYkhEsK8Dv6BIDCGY"
-      },
-      "artists": [
-        {
-          "name": "Eric Reed",
-          "url": "https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU"
-        }
-      ],
-      "duration_ms": 251026,
-      "name": "Christmas Blues",
-      "url": "https://open.spotify.com/track/55EWToZszoZA6QDRPSNjqq"
-    },
-    {
-      "added_at": "2023-12-19 09:14:04",
-      "album": {
         "name": "Santa, Won't You Listen to Me",
         "url": "https://open.spotify.com/album/6mO4bLwn1GZAmE1hnlt2dk"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 173915,
       "name": "Santa, Won't You Listen to Me",
       "url": "https://open.spotify.com/track/0Lh2f4LMyeA9NFLpcLoBnd"
+    },
+    {
+      "added_at": "2023-12-19 09:14:04",
+      "album": {
+        "name": "Yule Be Miserable",
+        "url": "https://open.spotify.com/album/072uKkYkhEsK8Dv6BIDCGY"
+      },
+      "artists": [
+        {
+          "name": "Eric Reed",
+          "url": "https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU"
+        }
+      ],
+      "duration_ms": 251026,
+      "name": "Christmas Blues",
+      "url": "https://open.spotify.com/track/55EWToZszoZA6QDRPSNjqq"
     },
     {
       "added_at": "2023-12-19 09:14:04",

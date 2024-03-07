@@ -4,7 +4,7 @@
 
 > The biggest rock bands/artists in Japan right now!  Cover: Fujifabric\(フジファブリック\)
 
-996 songs - 2 day 17 hr 56 min
+997 songs - 2 day 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,8 @@
 | [EPIC MATCH ～ the match everyone wanted ～](https://open.spotify.com/track/0NFygNu7nBTxL1jqq0lkUB) | [松本孝弘](https://open.spotify.com/artist/085eXdPFuMTWEuivrLnXAr) | [EPIC MATCH ～ the match everyone wanted ～](https://open.spotify.com/album/45ACzJq5h6fGVFImpWxwuI) | 3:21 | 2023-07-25 | 2023-08-02 |
 | [EPISODE 7](https://open.spotify.com/track/0UkJuv4tuSYAq07KW2XUUL) | [SBK](https://open.spotify.com/artist/2zHoXYzIEiq5t25A4dqMDD), [Dragon Ash](https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L) | [THE NEW ALBUM](https://open.spotify.com/album/1oUP4voVB2HB89sPPsXCzO) | 4:59 | 2022-05-17 | 2022-06-15 |
 | [ETA](https://open.spotify.com/track/0XeyTwIqd2GPPcIFpM10IX) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [M八七](https://open.spotify.com/album/6KgGPCceeIHDFldBzttiBu) | 4:47 | 2022-05-31 | 2022-06-23 |
-| [ETERNAL](https://open.spotify.com/track/0RGE4u70SFJPtXJFXMojaB) | [Kiyoharu](https://open.spotify.com/artist/1Jt0plJvCjpJ956Y8p1E7A) | [ETERNAL](https://open.spotify.com/album/0M4Y3RHFPZFb1p9UsGEMw0) | 4:47 | 2024-03-05 |  |
+| [ETERNAL](https://open.spotify.com/track/0RGE4u70SFJPtXJFXMojaB) | [Kiyoharu](https://open.spotify.com/artist/1Jt0plJvCjpJ956Y8p1E7A) | [ETERNAL](https://open.spotify.com/album/0M4Y3RHFPZFb1p9UsGEMw0) | 4:47 | 2024-03-05 | 2024-03-07 |
+| [ETERNAL](https://open.spotify.com/track/4MLsKopLnvzWwAwDWnR2op) | [Kiyoharu](https://open.spotify.com/artist/1Jt0plJvCjpJ956Y8p1E7A) | [ETERNAL](https://open.spotify.com/album/2YIeAJSBcMSFPrgGW88nnu) | 4:47 | 2024-03-05 |  |
 | [Everything With You](https://open.spotify.com/track/1Q6e1o8Dy3H8wG0RGahl2t) | [syrup16g](https://open.spotify.com/artist/0nwTdEUuG7c1M3kR9CIIxm) | [Les Misé blue](https://open.spotify.com/album/1oNVgCta0qPtdwQEGESzYs) | 3:58 | 2022-11-22 | 2022-12-14 |
 | [EYE to EYE](https://open.spotify.com/track/0ApdoPhuDTvDBhxlidntLz) | [SHOW\-YA](https://open.spotify.com/artist/1GLStwjGJcUvkHGeCVgBEp) | [EYE to EYE](https://open.spotify.com/album/36m3Q9JB4eguQdVAMsS18O) | 5:04 | 2022-05-19 | 2022-06-08 |
 | [Eye's Sentry](https://open.spotify.com/track/0nuWbGxJRzi8odd18gmtuH) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Eye's Sentry](https://open.spotify.com/album/014ME8UQqhxH1tTWMue8dp) | 4:11 | 2024-02-27 |  |
@@ -212,7 +213,7 @@
 | [I feel free](https://open.spotify.com/track/291g88i6GvDEZjMRGRtaEA) | [Michiya Haruhata](https://open.spotify.com/artist/6B3JbWQ1eamId6N5y09gzg), [Char](https://open.spotify.com/artist/6M4HwfIjf33RNtOjq3pIzf) | [I feel free](https://open.spotify.com/album/1MwejdU3E2kxJ9BeeHNIvv) | 4:03 | 2022-05-12 | 2022-07-21 |
 | [I Just Threw Out The Love Of My Dreams](https://open.spotify.com/track/3fKJhq2KV5mnxcEBDBlxeO) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [出町柳パラレルユニバース](https://open.spotify.com/album/6BGCOeart36zrZsEN9vOs7) | 2:48 | 2022-09-27 | 2022-11-02 |
 | [I MISS YOU](https://open.spotify.com/track/6wiTNSLb7qvu2IGKJSf9Q1) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [miss you](https://open.spotify.com/album/2luSxY6Y2fyFA9nK3OzVts) | 4:32 | 2023-11-08 |  |
-| [I miss your fire](https://open.spotify.com/track/5OHdAb159rhgots5cZuwV8) | [岡村和義](https://open.spotify.com/artist/3oT5qA1VxfGwrTWpFnI9kC), [Yasuyuki Okamura](https://open.spotify.com/artist/6ZaIdsp9xfWC1QJlxR1TBL), [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [I miss your fire](https://open.spotify.com/album/21vZJWbVbvjBjAqVvIvY7g) | 5:42 | 2024-01-16 | 2024-03-02 |
+| [I miss your fire](https://open.spotify.com/track/5OHdAb159rhgots5cZuwV8) | [岡村和義](https://open.spotify.com/artist/3oT5qA1VxfGwrTWpFnI9kC), [Yasuyuki Okamura](https://open.spotify.com/artist/6ZaIdsp9xfWC1QJlxR1TBL), [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [I miss your fire](https://open.spotify.com/album/21vZJWbVbvjBjAqVvIvY7g) | 5:42 | 2024-01-16 |  |
 | [I'M A RAT](https://open.spotify.com/track/1fT9DpNhb5vHoUGcEtoDFa) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [I'M A RAT](https://open.spotify.com/album/7E7uf3z4a1ijeLMTX841vE) | 2:04 | 2023-04-19 | 2023-07-05 |
 | [I'm ready to die for my friends](https://open.spotify.com/track/2CQVZQ31zugcnfaxCkuR2N) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ) | [I'm ready to die for my friends](https://open.spotify.com/album/3iy3EnIGs1JF8diFJrBJCF) | 3:50 | 2023-05-16 | 2023-06-14 |
 | [Image Word \- New Recording Ver.](https://open.spotify.com/track/6TmzSGN9QZjtGFD0lHgH1i) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [Image Word \(New Recording Ver.\)](https://open.spotify.com/album/5iOMMgOubOCQVhOBoXUuWj) | 4:46 | 2023-12-12 | 2023-12-20 |
@@ -797,7 +798,7 @@
 | [三叉路のふたり](https://open.spotify.com/track/2dxI9SqqEO00D4RyHeCKEz) | [Moonriders](https://open.spotify.com/artist/01o8KYRik9Eb3RbAm4T2hh) | [It's the moooonriders](https://open.spotify.com/album/0S2eED52dbq75kYgRghQuc) | 2:56 | 2022-05-12 | 2022-05-18 |
 | [下を向いて歩こう](https://open.spotify.com/track/1asktHGEURdlQRGFGWLpi9) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [下を向いて歩こう](https://open.spotify.com/album/17UUaCzdhyI4M9lXWP5qUK) | 5:02 | 2023-10-17 | 2023-11-11 |
 | [世界の真昼](https://open.spotify.com/track/7CvhO8yF4Xw0mbrBLQXrSB) | [割礼](https://open.spotify.com/artist/4BrmvqrDvcagflvt6lFNJ1) | [セカイノマヒル](https://open.spotify.com/album/7keZGSUJVc4X1Dbfcxro6m) | 4:12 | 2022-05-12 | 2022-06-06 |
-| [世界の終わり \- Primitive Version](https://open.spotify.com/track/0c6f2H2CXN779Ooh3GrcmT) | [Thee Michelle Gun Elephant](https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX) | [cult grass stars](https://open.spotify.com/album/4XSgfMQODTOQYV1uPGKQ5n) | 5:46 | 2023-12-12 |  |
+| [世界の終わり \- Primitive Version](https://open.spotify.com/track/0c6f2H2CXN779Ooh3GrcmT) | [Thee Michelle Gun Elephant](https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX) | [cult grass stars](https://open.spotify.com/album/4XSgfMQODTOQYV1uPGKQ5n) | 5:46 | 2023-12-12 | 2024-03-07 |
 | [世界はこのまま変わらない](https://open.spotify.com/track/5LWAMBZqkfFzZ4lJvI4pNP) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [感覚は道標](https://open.spotify.com/album/0ueyYjPqJg4dWaDDTlnPfz) | 4:14 | 2023-10-03 | 2023-10-05 |
 | [世界は変わる](https://open.spotify.com/track/6uUXrI5TQTnrDgWj08OuoL) | [OAU](https://open.spotify.com/artist/2S6PiNmAaVVGO0YePSN3FB) | [世界は変わる](https://open.spotify.com/album/5LdgdWiTXcrbTI5qkUh244) | 3:22 | 2022-06-09 | 2022-07-14 |
 | [乱土](https://open.spotify.com/track/3XOQImZq2wMFCJXFRPbsqU) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [らんど](https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v) | 2:05 | 2024-01-23 | 2024-01-31 |

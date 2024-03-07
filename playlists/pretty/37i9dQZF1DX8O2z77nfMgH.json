@@ -1,12 +1,12 @@
 {
   "description": "Lanzamientos de la semana. Lo nuevo de toda Iberoam\u00e9rica. Portada: J Balvin, Jowell & Randy, De la Ghetto",
-  "num_followers": 900932,
+  "num_followers": 900941,
   "original_name": "Novedades Viernes Latinoam\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODZjMzhiYWUyMjQ4YjA1OTQ2NGM1NzFmNDMwMmJmYjg1NmQ4YmZk",
+  "snapshot_id": "MCw1ZDYzMzM0ZTVkZDAwMDFkZDU1YmJkYWZiMmMzNzQ1NmI1YWU4MGU3",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -708,12 +708,12 @@
       },
       "artists": [
         {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        },
-        {
           "name": "Zeca Baleiro",
           "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        },
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
         }
       ],
       "duration_ms": 219744,

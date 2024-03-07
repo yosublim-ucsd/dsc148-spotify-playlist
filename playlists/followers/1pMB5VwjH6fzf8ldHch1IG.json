@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 46151,
+  "2024-03-07": 46148,
   "date_first_scraped": "2023-11-08",
   "description": "Stream your favourite trending tracks and discover new jams along the way! Cover: Tate McRae.",
   "name": "Trending Now",
@@ -603,7 +603,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 144672,
       "name": "Better Off",
       "url": "https://open.spotify.com/track/4YYtt5CTZRsp3LwBG1RQzU"
@@ -1264,6 +1264,24 @@
     },
     {
       "album": {
+        "name": "THINK LATER",
+        "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159400,
+      "name": "exes",
+      "url": "https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8"
+    },
+    {
+      "album": {
         "name": "exes (Regard Remix)",
         "url": "https://open.spotify.com/album/1U663EH8lg9Z0Jxk1hSWh9"
       },
@@ -1755,6 +1773,24 @@
       "duration_ms": 166620,
       "name": "Gravy's Delight",
       "url": "https://open.spotify.com/track/7yyA5yJq2ELq0MkFg2WSjT"
+    },
+    {
+      "album": {
+        "name": "THINK LATER",
+        "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129686,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/4kfSXPK13aXkLzuz02hCSC"
     },
     {
       "album": {
@@ -2837,7 +2873,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 140733,
       "name": "Mood Swings",
       "url": "https://open.spotify.com/track/124nj3QzqpccVdLbiFHPeB"

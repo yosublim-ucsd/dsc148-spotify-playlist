@@ -1,12 +1,12 @@
 {
   "description": "Kick back with the perfect mix of covers.",
-  "num_followers": 1183489,
+  "num_followers": 1183600,
   "original_name": "Ultimate Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDgzMzFjMGI0YzI3ZTJlYmI3NTk2NTdlZWM5Y2EwMjM1M2JkYzZj",
+  "snapshot_id": "MCxhNjRmY2Q2MTkxN2NlM2M5ODNlYzI4Zjc3YmQ1MmEyYjliMDMzOWYz",
   "tracks": [
     {
       "added_at": "2023-10-23 17:16:16",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Pleasantville -Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/3QofKE2yZcsjKOUw6fyyn3"
-      },
-      "artists": [
-        {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
-        }
-      ],
-      "duration_ms": 307333,
-      "name": "Across the Universe",
-      "url": "https://open.spotify.com/track/6ZQgooEk8PvsLxedYaT6Oa"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "You Don't Own Me (feat. G-Eazy)",
         "url": "https://open.spotify.com/album/1jwMRIAKCBeroo1jYV19tO"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 199314,
       "name": "You Don't Own Me (feat. G-Eazy)",
       "url": "https://open.spotify.com/track/2CpH1L4CUR47RARB3PgY1l"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "Pleasantville -Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/3QofKE2yZcsjKOUw6fyyn3"
+      },
+      "artists": [
+        {
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+        }
+      ],
+      "duration_ms": 307333,
+      "name": "Across the Universe",
+      "url": "https://open.spotify.com/track/6ZQgooEk8PvsLxedYaT6Oa"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Iris",
-        "url": "https://open.spotify.com/album/42FdghdSW95PPRm2DrQTIz"
-      },
-      "artists": [
-        {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
-        }
-      ],
-      "duration_ms": 181136,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/4uM4UARm7GVSyxEoUGijUT"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "Blinding Lights",
         "url": "https://open.spotify.com/album/4vh9LW3igRT6NayBnmb8fZ"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 214874,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/66aMnwdhkEc1V0AAnyYchX"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/42FdghdSW95PPRm2DrQTIz"
+      },
+      "artists": [
+        {
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+        }
+      ],
+      "duration_ms": 181136,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/4uM4UARm7GVSyxEoUGijUT"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
+        "name": "Wherever You Will Go",
+        "url": "https://open.spotify.com/album/3cp5RYHZb5KUyglxaHd3Lh"
+      },
+      "artists": [
+        {
+          "name": "Charlene Soraia",
+          "url": "https://open.spotify.com/artist/0qk8MxMzgnfFECvDO3cc0X"
+        }
+      ],
+      "duration_ms": 197577,
+      "name": "Wherever You Will Go",
+      "url": "https://open.spotify.com/track/0IF7bHzCXCZoKNog5vBC4g"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
         "name": "Little Talks",
         "url": "https://open.spotify.com/album/1wAtKYtwQNBHFP1tRKKRBM"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 219760,
       "name": "Little Talks",
       "url": "https://open.spotify.com/track/1ulDt6ySVbMbzZCBO6hSfb"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
-        "name": "Wherever You Will Go",
-        "url": "https://open.spotify.com/album/3cp5RYHZb5KUyglxaHd3Lh"
-      },
-      "artists": [
-        {
-          "name": "Charlene Soraia",
-          "url": "https://open.spotify.com/artist/0qk8MxMzgnfFECvDO3cc0X"
-        }
-      ],
-      "duration_ms": 197577,
-      "name": "Wherever You Will Go",
-      "url": "https://open.spotify.com/track/0IF7bHzCXCZoKNog5vBC4g"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/2tdf8754oMOspLX4s4XAVV"
+      },
+      "artists": [
+        {
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+        }
+      ],
+      "duration_ms": 194129,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/78gNozh0NmyIMgpSOGX7Fz"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
         "name": "Rarities",
         "url": "https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 232986,
       "name": "Halo",
       "url": "https://open.spotify.com/track/4JaoU6fL2Ifz2gDyFYtpiP"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/2tdf8754oMOspLX4s4XAVV"
-      },
-      "artists": [
-        {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
-        }
-      ],
-      "duration_ms": 194129,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/78gNozh0NmyIMgpSOGX7Fz"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Suicide Squad: The Album",
-        "url": "https://open.spotify.com/album/5rOHrnrRomvSJhQLGVtfJ8"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 363114,
-      "name": "Bohemian Rhapsody",
-      "url": "https://open.spotify.com/track/2YSbHu9XF4bNYWt3MnIhgE"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "Girls Just Wanna Have Fun",
         "url": "https://open.spotify.com/album/1WJCyViZxB0GWgvZicSxKY"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 172992,
       "name": "Girls Just Wanna Have Fun - Acoustic",
       "url": "https://open.spotify.com/track/7rohDMzsbmSmol7sIZs0Px"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "Suicide Squad: The Album",
+        "url": "https://open.spotify.com/album/5rOHrnrRomvSJhQLGVtfJ8"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 363114,
+      "name": "Bohemian Rhapsody",
+      "url": "https://open.spotify.com/track/2YSbHu9XF4bNYWt3MnIhgE"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -2023,26 +2023,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Despacito",
-        "url": "https://open.spotify.com/album/0B75OuY7kuQXfz7qF5r2l3"
-      },
-      "artists": [
-        {
-          "name": "Madilyn Bailey",
-          "url": "https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU"
-        },
-        {
-          "name": "Leroy Sanchez",
-          "url": "https://open.spotify.com/artist/1qwVM2JnEMXbKgvZESGsRn"
-        }
-      ],
-      "duration_ms": 170454,
-      "name": "Despacito",
-      "url": "https://open.spotify.com/track/4vxA3aI7l73i0Hi819OQhH"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "Forever Young (From NBC's Parenthood)",
         "url": "https://open.spotify.com/album/6Q7WssoFXDJoqNEkn8LnWN"
       },
@@ -2059,6 +2039,26 @@
       "duration_ms": 261370,
       "name": "Forever Young - From NBC's Parenthood",
       "url": "https://open.spotify.com/track/0QYgtwYCftkAqunXmvkZtr"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "Despacito",
+        "url": "https://open.spotify.com/album/0B75OuY7kuQXfz7qF5r2l3"
+      },
+      "artists": [
+        {
+          "name": "Madilyn Bailey",
+          "url": "https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU"
+        },
+        {
+          "name": "Leroy Sanchez",
+          "url": "https://open.spotify.com/artist/1qwVM2JnEMXbKgvZESGsRn"
+        }
+      ],
+      "duration_ms": 170454,
+      "name": "Despacito",
+      "url": "https://open.spotify.com/track/4vxA3aI7l73i0Hi819OQhH"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -2095,6 +2095,26 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Lukas Nelson",
+          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
+        }
+      ],
+      "duration_ms": 242280,
+      "name": "Just Breathe (feat. Lukas Nelson)",
+      "url": "https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
         "name": "I Would Die 4 U",
         "url": "https://open.spotify.com/album/1SPMOO8krxq9JuU6DadBKm"
       },
@@ -2115,26 +2135,6 @@
       "duration_ms": 180779,
       "name": "I Would Die 4 U",
       "url": "https://open.spotify.com/track/6rOKuNSl3gAqARtMtZMuuf"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
-        "name": "Heroes",
-        "url": "https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Lukas Nelson",
-          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
-        }
-      ],
-      "duration_ms": 242280,
-      "name": "Just Breathe (feat. Lukas Nelson)",
-      "url": "https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "See You Again, Love Me Like You Do, Sugar (Acoustic Mashup)",
-        "url": "https://open.spotify.com/album/598yk60jws90rsCDHU4lkl"
-      },
-      "artists": [
-        {
-          "name": "Megan Davies",
-          "url": "https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5"
-        }
-      ],
-      "duration_ms": 231965,
-      "name": "See You Again, Love Me Like You Do, Sugar - Acoustic Mashup",
-      "url": "https://open.spotify.com/track/29Ns3avs48iQhNQgrHMEkm"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "Renegades",
         "url": "https://open.spotify.com/album/6iVOwFVjFRoQPgj8GUwSsi"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 394400,
       "name": "Maggie's Farm",
       "url": "https://open.spotify.com/track/2t0tVmiSkHWvKgojpjO21Z"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "See You Again, Love Me Like You Do, Sugar (Acoustic Mashup)",
+        "url": "https://open.spotify.com/album/598yk60jws90rsCDHU4lkl"
+      },
+      "artists": [
+        {
+          "name": "Megan Davies",
+          "url": "https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5"
+        }
+      ],
+      "duration_ms": 231965,
+      "name": "See You Again, Love Me Like You Do, Sugar - Acoustic Mashup",
+      "url": "https://open.spotify.com/track/29Ns3avs48iQhNQgrHMEkm"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -2287,6 +2287,22 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
+        "name": "Origin of Symmetry",
+        "url": "https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
         "name": "The Corrs Unplugged",
         "url": "https://open.spotify.com/album/68QpU7XGT0RIX4NNkPLXzx"
       },
@@ -2315,22 +2331,6 @@
       "duration_ms": 240640,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/5StrN0F4XI5e0BHP32THhl"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
-        "name": "Origin of Symmetry",
-        "url": "https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -2515,22 +2515,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Blue Film",
-        "url": "https://open.spotify.com/album/7D8AeZSOdO2eO2Htuyubd8"
-      },
-      "artists": [
-        {
-          "name": "Lo-Fang",
-          "url": "https://open.spotify.com/artist/5EDkJDlRNcMs3ewliB24QA"
-        }
-      ],
-      "duration_ms": 204706,
-      "name": "You're The One That I Want",
-      "url": "https://open.spotify.com/track/2aDVymoLLpxVmITtdK0yiD"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "Knockin' On Heaven's Door",
         "url": "https://open.spotify.com/album/1CDAlRhqngtJc6oaauLtJe"
       },
@@ -2551,18 +2535,18 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Black Pumas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7BEA5emJl0yTMC9XBDJCcm"
+        "name": "Blue Film",
+        "url": "https://open.spotify.com/album/7D8AeZSOdO2eO2Htuyubd8"
       },
       "artists": [
         {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+          "name": "Lo-Fang",
+          "url": "https://open.spotify.com/artist/5EDkJDlRNcMs3ewliB24QA"
         }
       ],
-      "duration_ms": 341053,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/68o7eSZOP2kT4Of3mgiWKw"
+      "duration_ms": 204706,
+      "name": "You're The One That I Want",
+      "url": "https://open.spotify.com/track/2aDVymoLLpxVmITtdK0yiD"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -2579,6 +2563,38 @@
       "duration_ms": 185421,
       "name": "Take Me Home, Country Roads",
       "url": "https://open.spotify.com/track/154t1fkfSU7zyJojSN6gvR"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "Black Pumas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7BEA5emJl0yTMC9XBDJCcm"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "duration_ms": 341053,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/68o7eSZOP2kT4Of3mgiWKw"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "The Band",
+        "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
+      },
+      "artists": [
+        {
+          "name": "Rachel Brown",
+          "url": "https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "I Wanna Dance with Somebody",
+      "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -2611,22 +2627,6 @@
       "duration_ms": 185500,
       "name": "Sex On Fire",
       "url": "https://open.spotify.com/track/1ZXSLHLp5AJnCp12UXdYiO"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
-        "name": "The Band",
-        "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
-      },
-      "artists": [
-        {
-          "name": "Rachel Brown",
-          "url": "https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE"
-        }
-      ],
-      "duration_ms": 219960,
-      "name": "I Wanna Dance with Somebody",
-      "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -2731,22 +2731,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 280827,
-      "name": "When Doves Cry - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "Captain Fantastic And The Brown Dirt Cowboy",
         "url": "https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF"
       },
@@ -2759,6 +2743,22 @@
       "duration_ms": 377573,
       "name": "Lucy In The Sky With Diamonds",
       "url": "https://open.spotify.com/track/13JsYnkF16pHKuOFG6uI1C"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 280827,
+      "name": "When Doves Cry - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -2811,22 +2811,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Another Bundle of Tantrums",
-        "url": "https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 167296,
-      "name": "Everybody Hurts",
-      "url": "https://open.spotify.com/track/60DpmSyB1N1NfPrZnUSslG"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "Stitches",
         "url": "https://open.spotify.com/album/0SHdoaGuQV2EjhQ6HEX9K2"
       },
@@ -2839,6 +2823,22 @@
       "duration_ms": 246000,
       "name": "Stitches",
       "url": "https://open.spotify.com/track/3Jy394MtpM2xciRBTzxBlg"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "Another Bundle of Tantrums",
+        "url": "https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 167296,
+      "name": "Everybody Hurts",
+      "url": "https://open.spotify.com/track/60DpmSyB1N1NfPrZnUSslG"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -2859,6 +2859,38 @@
       "duration_ms": 181595,
       "name": "Cold Water",
       "url": "https://open.spotify.com/track/4esmMZzUcSw6cgd8WbSOgi"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 193671,
+      "name": "Amsterdam (Recorded at Spotify Studios NYC)",
+      "url": "https://open.spotify.com/track/4nxqNGWbm9RYDFvNhrM9rY"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "Tennis Court",
+        "url": "https://open.spotify.com/album/7EUGqK1EQw2k02BFR1hu47"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 222362,
+      "name": "Swingin Party",
+      "url": "https://open.spotify.com/track/3YYwrOdeMEvmHBWHJ0TmB6"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -2887,22 +2919,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 193671,
-      "name": "Amsterdam (Recorded at Spotify Studios NYC)",
-      "url": "https://open.spotify.com/track/4nxqNGWbm9RYDFvNhrM9rY"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "The Essential The Chicks",
         "url": "https://open.spotify.com/album/31St5diPbTZoCjOwWXSMWD"
       },
@@ -2919,22 +2935,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Tennis Court",
-        "url": "https://open.spotify.com/album/7EUGqK1EQw2k02BFR1hu47"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 222362,
-      "name": "Swingin Party",
-      "url": "https://open.spotify.com/track/3YYwrOdeMEvmHBWHJ0TmB6"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/13u5Dj3JQCowv1LH94I5xQ"
       },
@@ -2947,6 +2947,22 @@
       "duration_ms": 123283,
       "name": "(Everything I Do) I Do It for You",
       "url": "https://open.spotify.com/track/4Sope1x1EUQiWPyCMKFRRN"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "Watermelon Sugar (Acoustic)",
+        "url": "https://open.spotify.com/album/4vljiSAPCLIfX03BwIgRhk"
+      },
+      "artists": [
+        {
+          "name": "Jonah Baker",
+          "url": "https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm"
+        }
+      ],
+      "duration_ms": 183093,
+      "name": "Watermelon Sugar - Acoustic",
+      "url": "https://open.spotify.com/track/1TZBg0IBHvqfSAlHvVd8eH"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -2979,22 +2995,6 @@
       "duration_ms": 159000,
       "name": "Titanium",
       "url": "https://open.spotify.com/track/6z6Kn5smHm9RzcQuyFxoWh"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
-        "name": "Watermelon Sugar (Acoustic)",
-        "url": "https://open.spotify.com/album/4vljiSAPCLIfX03BwIgRhk"
-      },
-      "artists": [
-        {
-          "name": "Jonah Baker",
-          "url": "https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm"
-        }
-      ],
-      "duration_ms": 183093,
-      "name": "Watermelon Sugar - Acoustic",
-      "url": "https://open.spotify.com/track/1TZBg0IBHvqfSAlHvVd8eH"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -3275,6 +3275,22 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
+        "name": "I'll Stand by You",
+        "url": "https://open.spotify.com/album/6CsQEUwnLOXJMlRW5uiGnE"
+      },
+      "artists": [
+        {
+          "name": "Jake Wesley Rogers",
+          "url": "https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9"
+        }
+      ],
+      "duration_ms": 204854,
+      "name": "I'll Stand by You",
+      "url": "https://open.spotify.com/track/7zdaLRVLJJSXjdQB1tFZRJ"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
         "name": "And I Love Him",
         "url": "https://open.spotify.com/album/4NscNwWLaJ6cVqJFICjR8y"
       },
@@ -3307,34 +3323,18 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "I'll Stand by You",
-        "url": "https://open.spotify.com/album/6CsQEUwnLOXJMlRW5uiGnE"
+        "name": "Tree",
+        "url": "https://open.spotify.com/album/3pALJvtTxIm5i1aYlaZDnA"
       },
       "artists": [
         {
-          "name": "Jake Wesley Rogers",
-          "url": "https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9"
+          "name": "Anna Elizabeth Laube",
+          "url": "https://open.spotify.com/artist/6O0rWDT0LuZk9Cpe45kbcx"
         }
       ],
-      "duration_ms": 204854,
-      "name": "I'll Stand by You",
-      "url": "https://open.spotify.com/track/7zdaLRVLJJSXjdQB1tFZRJ"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8"
-      },
-      "artists": [
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 239346,
-      "name": "Dreams - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2q9jsX0poviVu9OSWgmRYg"
+      "duration_ms": 235906,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/0oa6d6Nz5BmP7jquxEoyMm"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -3355,18 +3355,18 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Tree",
-        "url": "https://open.spotify.com/album/3pALJvtTxIm5i1aYlaZDnA"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8"
       },
       "artists": [
         {
-          "name": "Anna Elizabeth Laube",
-          "url": "https://open.spotify.com/artist/6O0rWDT0LuZk9Cpe45kbcx"
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
         }
       ],
-      "duration_ms": 235906,
-      "name": "XO",
-      "url": "https://open.spotify.com/track/0oa6d6Nz5BmP7jquxEoyMm"
+      "duration_ms": 239346,
+      "name": "Dreams - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2q9jsX0poviVu9OSWgmRYg"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -3455,6 +3455,22 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
+        "name": "Come As You Are",
+        "url": "https://open.spotify.com/album/2RHroLhDaQLAxNq6BRnKgi"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "duration_ms": 165309,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/3RnqvBMDzSg3LzQytNuwdE"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
         "name": "In Your Prime - EP",
         "url": "https://open.spotify.com/album/22XLHhWmIM8IuCFqpkpCHX"
       },
@@ -3499,22 +3515,6 @@
       "duration_ms": 191333,
       "name": "Friday I'm In Love",
       "url": "https://open.spotify.com/track/1L8L3B8BY9SzcJUC8TCSi4"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
-        "name": "Come As You Are",
-        "url": "https://open.spotify.com/album/2RHroLhDaQLAxNq6BRnKgi"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 165309,
-      "name": "Come As You Are",
-      "url": "https://open.spotify.com/track/3RnqvBMDzSg3LzQytNuwdE"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -3583,6 +3583,22 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
+        "name": "Hello (Adele Cover)",
+        "url": "https://open.spotify.com/album/0A6U4HudXB9ZDv3y1Y44qW"
+      },
+      "artists": [
+        {
+          "name": "Erato",
+          "url": "https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o"
+        }
+      ],
+      "duration_ms": 230225,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/5mCLi8QdP2d9EoSIEoO8jX"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
         "name": "Chapter 1: The Sandworm Cometh - Early Recordings, B-Sides, Covers, y Mas",
         "url": "https://open.spotify.com/album/1yUh9U9797bPXiqDLZVuht"
       },
@@ -3615,18 +3631,18 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Hello (Adele Cover)",
-        "url": "https://open.spotify.com/album/0A6U4HudXB9ZDv3y1Y44qW"
+        "name": "Magnolia (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/6jbjx0LGKl11H6UtrgS2nV"
       },
       "artists": [
         {
-          "name": "Erato",
-          "url": "https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o"
+          "name": "Aimee Mann",
+          "url": "https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk"
         }
       ],
-      "duration_ms": 230225,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/5mCLi8QdP2d9EoSIEoO8jX"
+      "duration_ms": 173653,
+      "name": "One",
+      "url": "https://open.spotify.com/track/5e7OZ8PyDJYQdGAiidCPad"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -3643,22 +3659,6 @@
       "duration_ms": 180468,
       "name": "Don't Worry Baby",
       "url": "https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
-        "name": "Magnolia (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/6jbjx0LGKl11H6UtrgS2nV"
-      },
-      "artists": [
-        {
-          "name": "Aimee Mann",
-          "url": "https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk"
-        }
-      ],
-      "duration_ms": 173653,
-      "name": "One",
-      "url": "https://open.spotify.com/track/5e7OZ8PyDJYQdGAiidCPad"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -3699,22 +3699,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "American Oxygen",
-        "url": "https://open.spotify.com/album/0OGWPqm097un4kgcpM3fh0"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 305093,
-      "name": "American Oxygen",
-      "url": "https://open.spotify.com/track/6r64PMqq9VxnT0Xr3439uH"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7vD0UV7p87sy5MnOhJqDDW"
       },
@@ -3727,6 +3711,22 @@
       "duration_ms": 143966,
       "name": "Dancing in the Moonlight (It's Caught Me in Its Spotlight) - Live from Spotify Studios, New York City, NY",
       "url": "https://open.spotify.com/track/2fpfApt0LZiOWybYfRVXTB"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "American Oxygen",
+        "url": "https://open.spotify.com/album/0OGWPqm097un4kgcpM3fh0"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 305093,
+      "name": "American Oxygen",
+      "url": "https://open.spotify.com/track/6r64PMqq9VxnT0Xr3439uH"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -3799,22 +3799,6 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Barton Hollow",
-        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 185053,
-      "name": "Dance Me to the End of Love (Bonus)",
-      "url": "https://open.spotify.com/track/6WoJzSRQeROe5MNpf7cPDu"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0IHfimWKQ6PMXKEekqHp36"
       },
@@ -3843,6 +3827,22 @@
       "duration_ms": 267253,
       "name": "Wicked Game - Acoustic; Live",
       "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
+        "name": "Barton Hollow",
+        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 185053,
+      "name": "Dance Me to the End of Love (Bonus)",
+      "url": "https://open.spotify.com/track/6WoJzSRQeROe5MNpf7cPDu"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -3963,6 +3963,22 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
+        "name": "The Boxer",
+        "url": "https://open.spotify.com/album/7dpExLHVdNg2IasaFb9SxI"
+      },
+      "artists": [
+        {
+          "name": "Erato",
+          "url": "https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o"
+        }
+      ],
+      "duration_ms": 151817,
+      "name": "The Boxer",
+      "url": "https://open.spotify.com/track/6HopKFVZmGU3YQF5Ac3EXa"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
         "name": "Bob Dylan - 30th Anniversary Concert Celebration [(Deluxe Edition) [Remastered]]",
         "url": "https://open.spotify.com/album/5OlEEw6gIk32eMhOqRlfGu"
       },
@@ -3991,22 +4007,6 @@
       "duration_ms": 105493,
       "name": "Just Cant Get Enough",
       "url": "https://open.spotify.com/track/0yDU1ZjW870SAdF0n1ST2n"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
-        "name": "The Boxer",
-        "url": "https://open.spotify.com/album/7dpExLHVdNg2IasaFb9SxI"
-      },
-      "artists": [
-        {
-          "name": "Erato",
-          "url": "https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o"
-        }
-      ],
-      "duration_ms": 151817,
-      "name": "The Boxer",
-      "url": "https://open.spotify.com/track/6HopKFVZmGU3YQF5Ac3EXa"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -4095,6 +4095,22 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
+        "name": "Lego House - Single",
+        "url": "https://open.spotify.com/album/66ea8tadxoqqcT2Ad5ynRR"
+      },
+      "artists": [
+        {
+          "name": "Hearts & Colors",
+          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Lego House",
+      "url": "https://open.spotify.com/track/3PEb2ARloVhBrffWcS8hyy"
+    },
+    {
+      "added_at": "2023-10-23 17:16:16",
+      "album": {
         "name": "I'm Gonna Be (500 Miles)",
         "url": "https://open.spotify.com/album/0b8KcBvQVOYGRQWGaWzyS0"
       },
@@ -4107,22 +4123,6 @@
       "duration_ms": 212044,
       "name": "I'm Gonna Be (500 Miles)",
       "url": "https://open.spotify.com/track/09MdiypXlcb1kohV3cO03p"
-    },
-    {
-      "added_at": "2023-10-23 17:16:16",
-      "album": {
-        "name": "Live From Austin, TX",
-        "url": "https://open.spotify.com/album/2omhPQsUhtcv9lWE443mcC"
-      },
-      "artists": [
-        {
-          "name": "Neko Case",
-          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
-        }
-      ],
-      "duration_ms": 168866,
-      "name": "Buckets of Rain - Live",
-      "url": "https://open.spotify.com/track/2PoGyTZEy0OVz7fX9P2bxS"
     },
     {
       "added_at": "2023-10-23 17:16:16",
@@ -4143,18 +4143,18 @@
     {
       "added_at": "2023-10-23 17:16:16",
       "album": {
-        "name": "Lego House - Single",
-        "url": "https://open.spotify.com/album/66ea8tadxoqqcT2Ad5ynRR"
+        "name": "NUDES",
+        "url": "https://open.spotify.com/album/3y4k3cJW83i3KDSDJnPOX8"
       },
       "artists": [
         {
-          "name": "Hearts & Colors",
-          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Lego House",
-      "url": "https://open.spotify.com/track/3PEb2ARloVhBrffWcS8hyy"
+      "duration_ms": 235871,
+      "name": "Right Down The Line",
+      "url": "https://open.spotify.com/track/2QkrXvBAfhE4QAr9Y5kOvh"
     }
   ],
   "unique_name": "Ultimate Covers",

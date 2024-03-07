@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Pharrell Williams & Miley Cyrus, 野田洋次郎, Eve, The Kid LAROI and more! cover: Pharrell Williams, Miley Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,775 likes - 78 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,792 likes - 78 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,10 +81,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 71 | [スターダスト](https://open.spotify.com/track/0OzrEXUFsOMbQtoIm39nj6) | [高岩 遼](https://open.spotify.com/artist/19z1uIJW41iCghBEJMyEqd) | [スターダスト](https://open.spotify.com/album/5T45dqv3Icqw1wLx3Ah9YV) | 3:30 |
 | 72 | [Secret](https://open.spotify.com/track/3XoFbOADtmLAaxivSvV6lU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Secret](https://open.spotify.com/album/0XwW61D7u1f8Qqi43NBH8m) | 3:08 |
 | 73 | [STANNA](https://open.spotify.com/track/6S7yaGLQ1ofpchMubvO08Q) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [STANNA](https://open.spotify.com/album/7hyOGpYsrXzExeYjpRgzme) | 2:15 |
-| 74 | [Walk Away](https://open.spotify.com/track/6JQdSgIGB0hL7nwu1HrWCu) | [Catpack](https://open.spotify.com/artist/68KbEcrrJYafVy6ChYVqyt), [Amber Navran](https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH), [Jacob Mann](https://open.spotify.com/artist/6cM1vbrKTztN2uNjH8ub6F), [Phil Beaudreau](https://open.spotify.com/artist/3U6rbhm05Jzcux0IOP0poA) | [Walk Away](https://open.spotify.com/album/5ybGGkPWigSINxSqXRulmq) | 3:02 |
+| 74 | [Walk Away](https://open.spotify.com/track/6JQdSgIGB0hL7nwu1HrWCu) | [Catpack](https://open.spotify.com/artist/68KbEcrrJYafVy6ChYVqyt) | [Walk Away](https://open.spotify.com/album/5ybGGkPWigSINxSqXRulmq) | 3:02 |
 | 75 | [アプデライフ](https://open.spotify.com/track/6jy7ZZFpfHsx9gUncP6W15) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [アプデライフ](https://open.spotify.com/album/4EMfb42stEGsMlYKOA8Kot) | 3:33 |
 | 76 | [TALKIN'](https://open.spotify.com/track/2BZcMGnMHydT4heylUMrrk) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [TALKIN'](https://open.spotify.com/album/6KaE7SAZv0WhVISS6eOaG6) | 3:16 |
 | 77 | [Coffee](https://open.spotify.com/track/29GLlaeW4vqFR1JXymZX7d) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Coffee](https://open.spotify.com/album/7yfpuKRPyz3BRm9fAPjGqp) | 2:29 |
 | 78 | [Why I'm Here \- From the Netflix film “Shirley”](https://open.spotify.com/track/2YrigLM6CyRR7EjxL2bqZf) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Why I'm Here \(From the Netflix film “Shirley”\)](https://open.spotify.com/album/4hs7AWd8wyspb8KPEfLGY3) | 2:34 |
 
-Snapshot ID: `MCw5ZGNjYjk5ZDg3NzU0ZjA4Y2ZlMmNlZjg2MTg3YTUxM2FlNjViOGI5`
+Snapshot ID: `MCxiM2I1MWFhOTc0OWVkMTAyN2VkNWY4YmIwNjI4MjBjOGQxYTI4OGZm`

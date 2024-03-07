@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one!",
-  "num_followers": 63278,
+  "num_followers": 63382,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWE2NTgzOTY2NjNiNzZhYTY1OWMyODRlMTMyMDMxYWVlMzE0MjA1",
+  "snapshot_id": "MCwxMzUxZTdjNGYyZjVkMzJiOTMzZTU2MmMyOGQ2OGU2OTVmYjcxNzE1",
   "tracks": [
     {
       "added_at": "2024-02-23 00:01:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 192029,
-      "name": "Carry me like Baby",
-      "url": "https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "These Same Skies (Live)",
         "url": "https://open.spotify.com/album/08skyG33WqHITgFg6S09LR"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 274534,
       "name": "That's The Power - Live",
       "url": "https://open.spotify.com/track/4fA75ecQMGhP7Wld2kT0ZY"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 192029,
+      "name": "Carry me like Baby",
+      "url": "https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Kingdom Now",
+        "url": "https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 696179,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Daily",
         "url": "https://open.spotify.com/album/49Iuy7dLYlumJaMt8X2Tbj"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 176571,
       "name": "Daily",
       "url": "https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Kingdom Now",
-        "url": "https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 696179,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Elijah Level (with Limoblaze)",
-        "url": "https://open.spotify.com/album/6FT3RodFpDNE4R4cAhb5O9"
-      },
-      "artists": [
-        {
-          "name": "Gaise Baba",
-          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        }
-      ],
-      "duration_ms": 173262,
-      "name": "Elijah Level (with Limoblaze)",
-      "url": "https://open.spotify.com/track/1yEuEyMs30kbMfyEWlEk8h"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "The King Is Coming",
         "url": "https://open.spotify.com/album/1zi8tByoRTWt088vDbI6OG"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 466666,
       "name": "Emmanuel",
       "url": "https://open.spotify.com/track/466dosccGHgyox0Wr3hdea"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Elijah Level (with Limoblaze)",
+        "url": "https://open.spotify.com/album/6FT3RodFpDNE4R4cAhb5O9"
+      },
+      "artists": [
+        {
+          "name": "Gaise Baba",
+          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "duration_ms": 173262,
+      "name": "Elijah Level (with Limoblaze)",
+      "url": "https://open.spotify.com/track/1yEuEyMs30kbMfyEWlEk8h"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1189,22 +1189,6 @@
       "url": "https://open.spotify.com/track/5vQM35aV3Q7tXdITJgc8wi"
     },
     {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "Do to Me What You Want",
-        "url": "https://open.spotify.com/album/5HHnscBoj1SIt7FIDtSi6c"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 714119,
-      "name": "Do to Me What You Want",
-      "url": "https://open.spotify.com/track/4DubS31RXrubsxE486uBPi"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "B'ola (Live)",
@@ -1223,6 +1207,22 @@
       "duration_ms": 650499,
       "name": "B'ola (Live)",
       "url": "https://open.spotify.com/track/6ooOrOuruo2lZdcOAl5tbe"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "Do to Me What You Want",
+        "url": "https://open.spotify.com/album/5HHnscBoj1SIt7FIDtSi6c"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 714119,
+      "name": "Do to Me What You Want",
+      "url": "https://open.spotify.com/track/4DubS31RXrubsxE486uBPi"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1333,26 +1333,6 @@
       "url": "https://open.spotify.com/track/4svNtsUGDRGLRCfQq8LSMg"
     },
     {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "Kumama Papa",
-        "url": "https://open.spotify.com/album/20GdacZdfLiQbve9FF8Xqu"
-      },
-      "artists": [
-        {
-          "name": "The Kiffness",
-          "url": "https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG"
-        },
-        {
-          "name": "Grace Lokwa",
-          "url": "https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW"
-        }
-      ],
-      "duration_ms": 157161,
-      "name": "Kumama Papa",
-      "url": "https://open.spotify.com/track/2uHY9QxXldmXdbhvvEOf6J"
-    },
-    {
       "added_at": "2023-12-22 00:01:00",
       "album": {
         "name": "Oba Ni (Live)",
@@ -1371,6 +1351,26 @@
       "duration_ms": 852572,
       "name": "Oba Ni - Live",
       "url": "https://open.spotify.com/track/0UidF9z25XgNCEsTwHNi5B"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "Kumama Papa",
+        "url": "https://open.spotify.com/album/20GdacZdfLiQbve9FF8Xqu"
+      },
+      "artists": [
+        {
+          "name": "The Kiffness",
+          "url": "https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG"
+        },
+        {
+          "name": "Grace Lokwa",
+          "url": "https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW"
+        }
+      ],
+      "duration_ms": 157161,
+      "name": "Kumama Papa",
+      "url": "https://open.spotify.com/track/2uHY9QxXldmXdbhvvEOf6J"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "The Birth of Revival",
+        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 395810,
+      "name": "Maranatha",
+      "url": "https://open.spotify.com/track/1ArP26FqyUNqdZFnyGksOp"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Hallelujah (feat. Dunsin Oyekan) [Live]",
         "url": "https://open.spotify.com/album/0ebuJYKuAn6Of3jD5nC8CV"
       },
@@ -1573,36 +1589,24 @@
       "url": "https://open.spotify.com/track/3OwXa5v85UzgmQBieUscvu"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
+      "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "The Birth of Revival",
-        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
+        "name": "We Prevail",
+        "url": "https://open.spotify.com/album/3AvmRtH11WdKuUfNUP2R3g"
       },
       "artists": [
         {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 395810,
-      "name": "Maranatha",
-      "url": "https://open.spotify.com/track/1ArP26FqyUNqdZFnyGksOp"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Way\u03b5 Me Yie",
-        "url": "https://open.spotify.com/album/1NY4OdOLWUjrdC0jnB22pr"
-      },
-      "artists": [
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
         {
-          "name": "Piesie Esther",
-          "url": "https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft"
+          "name": "Neeja",
+          "url": "https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi"
         }
       ],
-      "duration_ms": 303553,
-      "name": "Way\u03b5 Me Yie",
-      "url": "https://open.spotify.com/track/7zWTmSyDPBGYHC3vex49jI"
+      "duration_ms": 224000,
+      "name": "We Prevail",
+      "url": "https://open.spotify.com/track/4jdeJiC74gkk4C2xienh6i"
     }
   ],
   "unique_name": "Be Lifted ",

@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 28727,
+  "2024-03-07": 28735,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Ukraine.",
   "name": "Top 50 - Ukraine",
@@ -2268,32 +2268,6 @@
     },
     {
       "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
-      },
-      "artists": [
-        {
-          "name": "\u00a5$",
-          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "date_added": "2024-02-16",
-      "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
-      "duration_ms": 264324,
-      "name": "CARNIVAL",
-      "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
-    },
-    {
-      "album": {
         "name": "CARNIVAL PACK",
         "url": "https://open.spotify.com/album/7slMR6RdQwcGa0efzspk8o"
       },
@@ -2317,6 +2291,40 @@
       "duration_ms": 264324,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/7bZl3YXHeqQ4Q6LDqCBrK4"
+    },
+    {
+      "album": {
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264324,
+      "name": "CARNIVAL",
+      "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
     },
     {
       "album": {
@@ -4031,6 +4039,24 @@
       "duration_ms": 162692,
       "name": "Elon Musk",
       "url": "https://open.spotify.com/track/3Ccpa5WrXoAMqtKdgbOWKQ"
+    },
+    {
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
       "album": {
@@ -9163,7 +9189,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
@@ -14209,7 +14235,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 155480,
       "name": "We Fell Apart - Slowed",
       "url": "https://open.spotify.com/track/4oExAGoqR0JWK628dYaQ2f"
@@ -15855,6 +15881,24 @@
       "duration_ms": 227560,
       "name": "\u0411\u0443\u0440\u0435\u0432\u0456\u044f\u043c\u0438 - 2023 Remastered Version",
       "url": "https://open.spotify.com/track/7fjPLaFXmMhDKReqzmNWq6"
+    },
+    {
+      "album": {
+        "name": "trashhouttttttt",
+        "url": "https://open.spotify.com/album/57ifk9AiFeBeY5u1BXkmGt"
+      },
+      "artists": [
+        {
+          "name": "jockii druce",
+          "url": "https://open.spotify.com/artist/4CDqcsxDc670sXyEMhVt94"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "\u0431\u0443\u0442\u0438 \u0434\u043e\u043b\u0431\u0430\u0439\u043e\u0431\u043e\u043c",
+      "url": "https://open.spotify.com/track/117K41GCrtBE713JJ07Dfq"
     },
     {
       "album": {
@@ -23073,7 +23117,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 137739,
       "name": "\u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0435\u0435 \u043b\u0435\u0442\u043e",
       "url": "https://open.spotify.com/track/0K5arhAxYWj7QxFhpKJe6z"

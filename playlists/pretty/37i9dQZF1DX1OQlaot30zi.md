@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Lazza, Kid Yugi, gli artisti di Nuova Scena e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,735 likes - 100 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,750 likes - 100 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 99 | [Bénéfice](https://open.spotify.com/track/1MwD72DkrjNsRWcMPDSRwg) | [Le garçon](https://open.spotify.com/artist/7bfaB3zJ12yoMnFMewFrnR) | [Bénéfice](https://open.spotify.com/album/3zpuy1kFu56xmdDZRPaYdj) | 3:08 |
 | 100 | [Nati per uccidere](https://open.spotify.com/track/3DVBsNXg9WNjzTqHW2Bun2) | [MatRayden](https://open.spotify.com/artist/2vUGFWcPtQSYHNZP0qe9II) | [Nati per uccidere](https://open.spotify.com/album/4TA9WcydNbzCJzL7ibeiNH) | 2:59 |
 
-Snapshot ID: `MCwxNDEzMTMzMjBmNzRiNWQwM2JmOTIxYjNmOWJmNTEyNWVjMTQwNDI3`
+Snapshot ID: `MCw3OTI1MmFmODE0Y2UwZWE2Yzg1OTU0Zjk3MzYxY2U0Njk1NGU0NTI1`

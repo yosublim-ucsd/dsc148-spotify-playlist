@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4qNX20.md) - [plain]
 
 > This is Chalino Sanchez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,058 likes - 47 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,170 likes - 47 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4qNX20.md) - [plain]
 | 46 | [Las Uvas](https://open.spotify.com/track/2iss2LKKaEfoolz2PuTUda) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Éxitos de Colección](https://open.spotify.com/album/6UQUW0B830vE7IcZ5M92Rb) | 3:07 |
 | 47 | [Por Una Rencilla Vieja](https://open.spotify.com/track/7FANq8cIDYSfNzoXR09I8V) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chalino Sánchez con Banda Brava](https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK) | 3:40 |
 
-Snapshot ID: `Mjg0OTQyODksMDAwMDAwMDBlNjg3ZGRlN2E4MTg1ZjJkZGM2NWYxZDgwYjRjN2QwOA==`
+Snapshot ID: `Mjg0OTU0NzYsMDAwMDAwMDBjODRiODk1ZGYzNGMxOTA0MDU0MzhlZTAzYTE3YTIxMQ==`

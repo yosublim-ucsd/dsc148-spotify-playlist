@@ -1,12 +1,12 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 12642,
+  "num_followers": 12643,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMmZlYmZlOWRhMzVjMTljMGUxMzIzMzdiOWI2ZDQ4NTZhMWY3ZWE1",
+  "snapshot_id": "MCw4NDU2OTc1YmE2MmYyOWQ5NDU4OGM0MDdmNjZlZjkxZWY3ZDdlNjk0",
   "tracks": [
     {
       "added_at": "2023-01-03 17:09:40",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "The Fire in Me",
-        "url": "https://open.spotify.com/album/2Msz9ZE73nnfVx6DRKoNet"
-      },
-      "artists": [
-        {
-          "name": "Rob Riccardo",
-          "url": "https://open.spotify.com/artist/4VbWKy3JWAFBro0dARznBa"
-        }
-      ],
-      "duration_ms": 261104,
-      "name": "When Will I Learn",
-      "url": "https://open.spotify.com/track/7wEOApTPakhHeJ6qg0drrJ"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
         "name": "Flow State",
         "url": "https://open.spotify.com/album/6EN8PtrmSzYfybaZQYYaOc"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 205612,
       "name": "Free Mind",
       "url": "https://open.spotify.com/track/0sIxAwobJDRyxlx6kvD2oo"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
+        "name": "The Fire in Me",
+        "url": "https://open.spotify.com/album/2Msz9ZE73nnfVx6DRKoNet"
+      },
+      "artists": [
+        {
+          "name": "Rob Riccardo",
+          "url": "https://open.spotify.com/artist/4VbWKy3JWAFBro0dARznBa"
+        }
+      ],
+      "duration_ms": 261104,
+      "name": "When Will I Learn",
+      "url": "https://open.spotify.com/track/7wEOApTPakhHeJ6qg0drrJ"
     },
     {
       "added_at": "2023-01-03 17:09:40",

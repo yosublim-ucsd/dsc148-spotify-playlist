@@ -922,7 +922,7 @@
     {
       "album": {
         "name": "SAWAYAMA (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6ijADQARGsV0sWAVHN4imN"
+        "url": "https://open.spotify.com/album/39WmCBKGptRLti86qxZAVc"
       },
       "artists": [
         {
@@ -933,6 +933,24 @@
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 218706,
+      "name": "LUCID",
+      "url": "https://open.spotify.com/track/44pTnE1Z3yw1YgYxLwn8Ba"
+    },
+    {
+      "album": {
+        "name": "SAWAYAMA (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ijADQARGsV0sWAVHN4imN"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-07",
       "duration_ms": 218706,
       "name": "LUCID",
       "url": "https://open.spotify.com/track/6Vbyc57YW2K2NVeWzF4m46"

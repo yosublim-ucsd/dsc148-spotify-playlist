@@ -4,7 +4,7 @@
 
 > The hottest tracks of today ft\. Flo Milli, Drake, Jack Harlow and more.
 
-1,106 songs - 2 day 8 hr 41 min
+1,107 songs - 2 day 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -650,6 +650,7 @@
 | [Nice to meet you \(feat\. Central Cee\)](https://open.spotify.com/track/1jLVSavLHTeEixX6CIxqQR) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:42 | 2023-11-10 | 2024-01-13 |
 | [Night & Day](https://open.spotify.com/track/5gVHN44I2vrBWeJcVqlCCU) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [ALIVE](https://open.spotify.com/album/0DeiHwirbc7T21dA8BZXXu) | 3:02 | 2021-04-10 | 2021-04-30 |
 | [No Drama](https://open.spotify.com/track/1YmyHCxLKjLBBNQU51yQOh) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN) | [No Drama](https://open.spotify.com/album/6ViANKeydeABO0cqB0SB3Z) | 3:16 | 2021-12-10 | 2022-04-29 |
+| [No Fear](https://open.spotify.com/track/2H881m3JRA8lpuuwaQL6zy) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [No Fear](https://open.spotify.com/album/35uDNZkjmhAEnV3sz9A7jI) | 2:49 | 2024-03-06 |  |
 | [No Handoutz \(feat\. Yeat\)](https://open.spotify.com/track/1jkHLTFc1j6HMHnaGq8QCH) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [No Handoutz \(feat\. Yeat\)](https://open.spotify.com/album/0WcAW53YH794LAay9RX8Op) | 2:30 | 2022-04-29 | 2022-05-20 |
 | [No Love \(feat\. Sleepy Hallow\)](https://open.spotify.com/track/23lerLvvPlJqcFB8ZEDkov) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [No Love](https://open.spotify.com/album/16BbKsl9JDW5bFIxJ6DTKg) | 2:44 | 2022-03-25 | 2022-09-17 |
 | [No Love \(with SZA & Cardi B\) \- Extended Version](https://open.spotify.com/track/0IMUFRaM2W3wKNM1CSQ4Zm) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [No Love \(with SZA & Cardi B\) \[Extended Version\]](https://open.spotify.com/album/1Rt2ZYJ3tBKqXtFuB19xz4) | 4:36 | 2022-03-25 | 2022-04-23 |

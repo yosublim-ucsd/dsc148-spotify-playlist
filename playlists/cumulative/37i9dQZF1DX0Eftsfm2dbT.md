@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover:  MFS
 
-535 songs - 1 day 3 hr 25 min
+536 songs - 1 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -482,7 +482,8 @@
 | [Wannabe](https://open.spotify.com/track/0ROR97a9Q9SeEkDCON5fmd) | [audiot909](https://open.spotify.com/artist/3SUTwBU3mSOEsmqb67dks2), [ONJUICY](https://open.spotify.com/artist/1ZEZD4ScYfzwC3RnQZ5GRD) | [Wannabe](https://open.spotify.com/album/59ArA4migkYQtlzAvKE7aM) | 3:11 | 2024-02-01 | 2024-02-14 |
 | [WASTED!!](https://open.spotify.com/track/5eh0CWUyr988x7VGxG5hLI) | [Young Yujiro](https://open.spotify.com/artist/0dRrA9BVBgV648GCjRlQ8z), [Kitchen K](https://open.spotify.com/artist/4BeKUQMEXK1gh5vefZxoxI) | [Fuckin' Jap 2](https://open.spotify.com/album/4cZff4NkiKNELOMhrFB85a) | 3:14 | 2024-02-22 | 2024-02-28 |
 | [Wasurenaide](https://open.spotify.com/track/3belJRGyvPLYgiCSXSpqO8) | [Shootz](https://open.spotify.com/artist/0gSHX4GAlRtZJ1tJhBv0SD), [Dengaryu](https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru) | [Wasurenaide](https://open.spotify.com/album/6hHfnpyuiYY1ZiP48U6HwI) | 4:13 | 2024-01-17 |  |
-| [WE WANT!!! \- feat.7](https://open.spotify.com/track/2BxKxnjb7wsUjXpooz8dut) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [19.5](https://open.spotify.com/album/06uFaprW6BVk7Lckao8DsA) | 3:00 | 2024-02-28 |  |
+| [WE WANT!!! \- feat.7](https://open.spotify.com/track/2BxKxnjb7wsUjXpooz8dut) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [19.5](https://open.spotify.com/album/06uFaprW6BVk7Lckao8DsA) | 3:00 | 2024-02-28 | 2024-03-07 |
+| [WE WANT!!! \- feat.7](https://open.spotify.com/track/2H8nWRVaXhONgYbsVfRa3W) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [19.5](https://open.spotify.com/album/7aoxCAZQG1RINt6c0uYqtQ) | 3:00 | 2024-03-05 |  |
 | [WEATHERTEC](https://open.spotify.com/track/0bfQxDoay4S828CTlELHLr) | [Tha Jointz](https://open.spotify.com/artist/0J7djFMwBhnbgAN11Gggvg), [GOTU](https://open.spotify.com/artist/14UuKo9McStiWxcOOPvczh), [JNK](https://open.spotify.com/artist/7HYvkJOGJLSVOsyIxCJ4lY), [MFS](https://open.spotify.com/artist/5qH4hGRUWoLtBVgMD0alcb), [JASS](https://open.spotify.com/artist/4c25QyMjYv7MSQV24Qhofv), [WELL\-DONE](https://open.spotify.com/artist/5pBvGEECNZdaPCXcZGe8hQ), [KOH](https://open.spotify.com/artist/0b3KYCtaiOQbtq95mlefTb) | [WEATHERTEC](https://open.spotify.com/album/5danpSUvfdLUQuEGEQszrD) | 2:46 | 2024-02-01 | 2024-02-04 |
 | [WEATHERTEC](https://open.spotify.com/track/3nMGzAkZ2ICWyILMH4nTSQ) | [Tha Jointz](https://open.spotify.com/artist/0J7djFMwBhnbgAN11Gggvg), [GOTU](https://open.spotify.com/artist/14UuKo9McStiWxcOOPvczh), [JNK](https://open.spotify.com/artist/7HYvkJOGJLSVOsyIxCJ4lY), [MFS](https://open.spotify.com/artist/5qH4hGRUWoLtBVgMD0alcb), [JASS](https://open.spotify.com/artist/5PYaF7q6SqPMfWFqiFSHNw), [WELL\-DONE](https://open.spotify.com/artist/5pBvGEECNZdaPCXcZGe8hQ), [KOH](https://open.spotify.com/artist/0b3KYCtaiOQbtq95mlefTb) | [WEATHERTEC](https://open.spotify.com/album/0UCZdQLgbX3E7XoZ63kJEV) | 2:46 | 2024-02-01 | 2024-02-28 |
 | [WHAT'S LOVE](https://open.spotify.com/track/0y2uEuPP9TnWNJdztKuoQs) | [DALU](https://open.spotify.com/artist/67tSyT2pC7ainhBp14h78c), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N) | [WHAT'S LOVE](https://open.spotify.com/album/580v4C06eooVarwvKIVinB) | 3:11 | 2024-01-25 | 2024-01-28 |

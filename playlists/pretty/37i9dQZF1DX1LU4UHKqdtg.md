@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: SHOWNU X HYUNGWON \(MONSTA X\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,984 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,995 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 43 | [ARRIBA](https://open.spotify.com/track/5wZu9Hw69jORB2OxeX3qC6) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.FIN : WILL](https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH) | 3:37 |
 | 44 | [OOTD](https://open.spotify.com/track/2PSqR2dQWllqSPHeUdCp1S) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[VillainS\]](https://open.spotify.com/album/1GWC45tJrcKctt6qtFQHB7) | 2:56 |
 | 45 | [Dance Again](https://open.spotify.com/track/79ypLbXeRsgNgd3uZTOcY4) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Dance Again](https://open.spotify.com/album/1Z7QoKOpqAWfiHnurlsiti) | 3:11 |
-| 46 | [The Wind Of Spring](https://open.spotify.com/track/61T72vch0ZAkU4C5vaCDZV) | [チ・チャンウク](https://open.spotify.com/artist/3xpQw8QBD6q5IV8AGZu97n) | [The Wind Of Spring](https://open.spotify.com/album/17dHnBkaszXRiSYn569CD2) | 4:10 |
+| 46 | [The Wind of Spring](https://open.spotify.com/track/3YRAamoGT0CR4jxIpbfk8q) | [チ・チャンウク](https://open.spotify.com/artist/3xpQw8QBD6q5IV8AGZu97n) | [The Wind of Spring](https://open.spotify.com/album/3NLkq7WSClMnISogy9NBzf) | 4:10 |
 | 47 | [Sweet Venom](https://open.spotify.com/track/2YmfV4lAjrAQvuggKCUX6m) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ORANGE BLOOD](https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT) | 2:28 |
 | 48 | [To\. X](https://open.spotify.com/track/2gyCwrOcC6JBoaJ8JGJ7T8) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [To\. X \- The 5th Mini Album](https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD) | 2:50 |
 | 49 | [Good Morning](https://open.spotify.com/track/4zXbnTwqwQcRdDILZVKZSQ) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [GOOD MORNING](https://open.spotify.com/album/1kfvY0GjQJhhDNjTpy7xOs) | 3:04 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 79 | [Fighting \(Feat\. Lee Young Ji\)](https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [BSS 1st Single Album 'SECOND WIND'](https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW) | 3:24 |
 | 80 | [SHOOTING STAR](https://open.spotify.com/track/3IelG5zYpWWCZIH4cqWlPV) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SHOOTING STAR](https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS) | 3:23 |
 
-Snapshot ID: `MCwzYzJlZDFiOWJjOTc0ZjI1MzFhNGIxYTZmZTg4MDkyNjM1MDEwOWY2`
+Snapshot ID: `MCw3ZGEwYmUxNWViZTczYWYyYzY0YmZjMmNhYzMyOWQ1YWQwMjM0OTZl`

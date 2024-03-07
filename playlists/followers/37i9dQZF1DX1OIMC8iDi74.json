@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 889790,
+  "2024-03-07": 889834,
   "date_first_scraped": "2021-12-21",
   "description": "The best of electronic trap. Cover: Fabian Mazur",
   "name": "Trap Mojito",
@@ -2707,6 +2707,28 @@
     {
       "album": {
         "name": "Kid Calamity",
+        "url": "https://open.spotify.com/album/2Etm7wn37DYMZ7fNa1oFog"
+      },
+      "artists": [
+        {
+          "name": "Oski",
+          "url": "https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl"
+        },
+        {
+          "name": "The Arcturians",
+          "url": "https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233600,
+      "name": "Go My Way",
+      "url": "https://open.spotify.com/track/15cRruaacYlZfimhJvxGuw"
+    },
+    {
+      "album": {
+        "name": "Kid Calamity",
         "url": "https://open.spotify.com/album/4zLskraUiS712MsuxYeQL3"
       },
       "artists": [
@@ -2849,7 +2871,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 171891,
       "name": "Got Me Like",
       "url": "https://open.spotify.com/track/4JPG8zY4MKIrchfyFGOEPU"

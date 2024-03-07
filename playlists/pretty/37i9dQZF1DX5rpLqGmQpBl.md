@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5rpLqGmQpBl.md) - [plain]
 
 > Listen to the soundtracks of the Doctor Slump\. \(닥터슬럼프의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,245 likes - 34 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,318 likes - 34 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5rpLqGmQpBl.md) - [plain]
 | 33 | [Unrealtime](https://open.spotify.com/track/4U23H3LnIdwLsb3yt6ztvi) | [임광균](https://open.spotify.com/artist/5uNWaCVmTX58YBaaE9E3Nv) | [Unrealtime](https://open.spotify.com/album/5IKEzaDVF1oG4hPwlUP303) | 4:54 |
 | 34 | [Sunflower](https://open.spotify.com/track/7tbyBVCqd0RPlJulWcz0bO) | [Choi Aim](https://open.spotify.com/artist/10iBhcYlA7mJ3VxkZdIl5i) | [Sunflower](https://open.spotify.com/album/6ak25dnY0MuutpgD0OVLAo) | 4:09 |
 
-Snapshot ID: `MCw3NDkzMGY3ODIxYjczNGRiZmUxNzE2YjY2YjAzZTRmYzFhMDkxNGI5`
+Snapshot ID: `MCw1ZmQxMjIwYTQyYWYxMGZmNzBmMTM2ODViNzA1ODE5YjA3MDJlZmNl`

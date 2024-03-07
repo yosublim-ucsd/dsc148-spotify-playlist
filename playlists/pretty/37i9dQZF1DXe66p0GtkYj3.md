@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe66p0GtkYj3.md) - [plain]
 
 > Empezó el zapateo\. ¡Take tarake take!
 
-[Spotify](https://open.spotify.com/user/spotify) - 133 likes - 85 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 137 likes - 85 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe66p0GtkYj3.md) - [plain]
 | 4 | [Bailar Contigo \- Leeb Remix](https://open.spotify.com/track/0otkSHy1PB1Ycymx0wOrBk) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [LEEB](https://open.spotify.com/artist/3OW9y2kM7N3BAEksWU2xZM) | [Bailar Contigo \(Leeb Remix\)](https://open.spotify.com/album/43iOlqaQpedw7iO8xbKBrv) | 4:22 |
 | 5 | [Drop The Bass](https://open.spotify.com/track/6ysXFOlEp7bKX3fwwb5kqj) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf) | [Drop The Bass](https://open.spotify.com/album/7Mq5HXSOKJkM3A2KqTg7KL) | 3:20 |
 | 6 | [Alors On Danse \- DubDogz Remix](https://open.spotify.com/track/19eIZmuXlBmLTha1lPHef7) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Alors On Danse \(DubDogz Remix\)](https://open.spotify.com/album/1hOCJ4eNjtYKIH9ZmNGc8p) | 2:48 |
-| 7 | [Yo Le Doy](https://open.spotify.com/track/2i6Lvfy5CJmmqdvl7DgVqT) | [LEEB](https://open.spotify.com/artist/3OW9y2kM7N3BAEksWU2xZM), [Kafu Banton](https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij), [Aldair Productions](https://open.spotify.com/artist/6WFulj4XIc6vkUDXGaDvbN) | [Yo Le Doy](https://open.spotify.com/album/6wtYKy3CWRxxmY590nyD33) | 3:11 |
+| 7 | [Yo Le Doy](https://open.spotify.com/track/1xsUgc8NoDYvkuiiLhivSb) | [LEEB](https://open.spotify.com/artist/3OW9y2kM7N3BAEksWU2xZM), [Kafu Banton](https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij), [Aldair Productions](https://open.spotify.com/artist/6WFulj4XIc6vkUDXGaDvbN) | [Yo Le Doy](https://open.spotify.com/album/1sq7WJ4M7NsnpuGxs0JVVS) | 3:11 |
 | 8 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 |
 | 9 | [In Da Getto](https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [In Da Getto](https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl) | 2:11 |
 | 10 | [Calling](https://open.spotify.com/track/4LApxjrPhbmSXdTXaHrqA1) | [Exotic](https://open.spotify.com/artist/14ASSasIb42tG16ym4kVfh) | [Elite Guarach](https://open.spotify.com/album/2ISwlwDSZNJFwWEB99DBfh) | 3:37 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe66p0GtkYj3.md) - [plain]
 | 28 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 |
 | 29 | [NO WAY](https://open.spotify.com/track/08TD3JtW8nc3NEgxaSBNbL) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [4EP1](https://open.spotify.com/album/6IvZXFKfjKgf63hZuOqz8w) | 3:03 |
 | 30 | [Me Pone Mal](https://open.spotify.com/track/428eOwctXMsLtgVrnaJqZ6) | [Pablito Pesadilla](https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox), [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Baby Joss](https://open.spotify.com/artist/2zv53qyEf6YlpmOvRHbRUn) | [Me Pone Mal](https://open.spotify.com/album/4D7pvgOKM0yUVtOQNfFkvD) | 3:41 |
-| 31 | [Fayna \- Radio Edit](https://open.spotify.com/track/6P7YcQvewBbmQzBQNtlLXl) | [LEEB](https://open.spotify.com/artist/3OW9y2kM7N3BAEksWU2xZM) | [Fayna \(Radio Edit\)](https://open.spotify.com/album/2MPxIowfr48t0l6NDORABe) | 2:51 |
+| 31 | [Fayna](https://open.spotify.com/track/5RPRDOlIKvGOnLFuZcfJ47) | [LEEB](https://open.spotify.com/artist/3OW9y2kM7N3BAEksWU2xZM) | [Fayna](https://open.spotify.com/album/0IDL6OcStHegG1EjCfo1CK) | 2:53 |
 | 32 | [I Follow Rivers \- The Magician Remix](https://open.spotify.com/track/4Jv7lweGIUOFQ7Oq2AtAh9) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [I Follow Rivers \(The Magician Remix\)](https://open.spotify.com/album/3Lp1pBV5Lao3Ry6CiEb7Y1) | 4:40 |
 | 33 | [Destination Calabria \- Radio Edit](https://open.spotify.com/track/5TmFTHZp7HjBXjjsFvCY6h) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Destination Calabria](https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8) | 3:43 |
 | 34 | [Breathe](https://open.spotify.com/track/6TR0FGw4zhlGbQALN065AI) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Breathe](https://open.spotify.com/album/7c4A33WznTkdnqBEmLsWWF) | 3:14 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe66p0GtkYj3.md) - [plain]
 | 84 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 |
 | 85 | [All Around The World \(La La La\)](https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [A Touch Of Class](https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo) | [All Around The World \(La La La\)](https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq) | 2:27 |
 
-Snapshot ID: `MCxhN2U5NmZmNmFhMzFhM2RiY2NmODBhNjg4YTI2OTFiMDI2NGQ3Y2U3`
+Snapshot ID: `MCw0MzZhYjRjMzIyMGJhYzk4OTdiODE2OTBkMDk1YmE5OWZlYmZkYjc4`

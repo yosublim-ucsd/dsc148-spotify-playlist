@@ -997,6 +997,24 @@
     },
     {
       "album": {
+        "name": "CRIATUR (From the Netflix Rap Show \u201cNuova Scena\u201d)",
+        "url": "https://open.spotify.com/album/4v2vbwWe9ongpkfgLJDbir"
+      },
+      "artists": [
+        {
+          "name": "Kid Lost",
+          "url": "https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174532,
+      "name": "CRIATUR (From the Netflix Rap Show \u201cNuova Scena\u201d)",
+      "url": "https://open.spotify.com/track/147hzs261FAZBpwfQkOUCL"
+    },
+    {
+      "album": {
         "name": "CVLT",
         "url": "https://open.spotify.com/album/6HXtcSvv1AXivyZrZjEdG1"
       },

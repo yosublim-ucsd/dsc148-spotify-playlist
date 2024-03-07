@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 377165,
+  "2024-03-07": 377403,
   "date_first_scraped": "2021-12-21",
   "description": "Pop to fuel your gaming. Cover: Lady Gaga",
   "name": "Ultimate Pop Gaming",
@@ -5500,6 +5500,36 @@
     },
     {
       "album": {
+        "name": "Sleep Well",
+        "url": "https://open.spotify.com/album/6POZaAyKpUNRelsnsQQRzN"
+      },
+      "artists": [
+        {
+          "name": "CG5",
+          "url": "https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O"
+        },
+        {
+          "name": "Chi-Chi",
+          "url": "https://open.spotify.com/artist/73z7IaMZWklUITS2qrtXzW"
+        },
+        {
+          "name": "Kathy-Chan",
+          "url": "https://open.spotify.com/artist/5O1DnqyQw2ddzrd7ZTWdTA"
+        },
+        {
+          "name": "Cami-Cat",
+          "url": "https://open.spotify.com/artist/4KMvtIG6508uNPkPaqbVV3"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207654,
+      "name": "Sleep Well",
+      "url": "https://open.spotify.com/track/5c0LlTO3yRYMkElrZCByjy"
+    },
+    {
+      "album": {
         "name": "Hard To Imagine The Neighbourhood Ever Changing",
         "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
       },
@@ -6507,7 +6537,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 171946,
       "name": "Understand",
       "url": "https://open.spotify.com/track/6dGqGkYDoRrKh5UiIcTT22"

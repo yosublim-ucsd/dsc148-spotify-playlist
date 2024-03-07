@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 279749,
+  "2024-03-07": 279848,
   "date_first_scraped": "2021-12-21",
   "description": "The future of metal is here.",
   "name": "Alternative Metal",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 272000,
       "name": "80486DX",
       "url": "https://open.spotify.com/track/42K6S2MOIYrtqaTpCNcqHU"
@@ -409,7 +409,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 239626,
       "name": "Animal",
       "url": "https://open.spotify.com/track/0Z3vSiCNFN7FESRWzP7CWd"

@@ -4,7 +4,7 @@
 
 > Glitch and giggle with these whimsically warped bouncy bops 🤖
 
-165 songs - 12 hr 17 min
+166 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Ikiru](https://open.spotify.com/track/4DoD7xxnOmsxNyH57jue9y) | [Thoma](https://open.spotify.com/artist/4e8ExN8iJrXnycI51N1Cxb) | [Ikiru](https://open.spotify.com/album/18fNJzLNa7AJfp96UnWZgj) | 3:43 | 2023-02-17 | 2024-02-23 |
 | [Illusion Of Time](https://open.spotify.com/track/02svSerh4F5X5Fn3rdnd93) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/60zljcyghRa4eCzf8nxeJU) | 4:22 | 2023-02-17 |  |
 | [Impressions](https://open.spotify.com/track/4l6gl1xs2TQx5SwBNdWEsv) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Monument](https://open.spotify.com/album/5Q45lNUhaH40wPqhUgjJNC) | 3:44 | 2023-02-17 |  |
-| [Indica \- Pye Corner Audio Remix \- Glok Re\-Edit](https://open.spotify.com/track/1nHuJ99bSdi4ZoAfv3VzoW) | [Andy Bell](https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc), [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [The Indica Gallery \- EP](https://open.spotify.com/album/5WVgmKhdv1lao4eNXwWg59) | 7:45 | 2023-02-17 |  |
+| [Indica \- Pye Corner Audio Remix \- Glok Re\-Edit](https://open.spotify.com/track/1nHuJ99bSdi4ZoAfv3VzoW) | [Andy Bell](https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc), [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [The Indica Gallery \- EP](https://open.spotify.com/album/5WVgmKhdv1lao4eNXwWg59) | 7:45 | 2023-02-17 | 2024-03-07 |
 | [IZ\-US](https://open.spotify.com/track/6INSqTqDoz6ndc0oKTi0Sq) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx) | 2:57 | 2023-02-17 |  |
 | [jazmin](https://open.spotify.com/track/0LP3XkCr5KNLKIeBc0huI4) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR) | [Jardines, Vol.1](https://open.spotify.com/album/1mTuEZ6UOl9sgTaEpn1Noc) | 2:33 | 2023-03-03 |  |
 | [jazmin](https://open.spotify.com/track/3vLbYgfzxz2PewnOtVbayK) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR) | [Jardines Vol\. I](https://open.spotify.com/album/1huZKOZy8nzN8M7qDjocgg) | 2:33 | 2023-03-03 | 2024-01-12 |
@@ -114,6 +114,7 @@
 | [Plaything](https://open.spotify.com/track/0VEU0lalfqxjwezz7M1YaI) | [Plone](https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41) | [We Are Reasonable People](https://open.spotify.com/album/3uuoa0fvvb93KoORCTpPko) | 4:14 | 2023-02-17 | 2024-02-25 |
 | [Plock](https://open.spotify.com/track/1Oq3hZjG2WWIR2MEqASnNd) | [Plone](https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41) | [For Beginner Piano](https://open.spotify.com/album/2mdkf39z60lelr7zulBMky) | 3:57 | 2023-02-17 |  |
 | [Polyghost](https://open.spotify.com/track/0JL9dXZ2tjMabWjVjeutKH) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Miguel Atwood\-Ferguson](https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 1:48 | 2023-02-17 |  |
+| [Red Kite](https://open.spotify.com/track/3I7n1t3f3mSJWeHAxILqSP) | [Plone](https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41) | [Puzzlewood](https://open.spotify.com/album/7kJ4lcPkAOebXxBxvOmaeq) | 3:28 | 2023-02-17 |  |
 | [Resynthesis 3D \(Binaural Version \- Headphones Only\)](https://open.spotify.com/track/1c7inucFjGndMO3QTsl0lg) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [3D Reworks 001](https://open.spotify.com/album/15PC8OBWZycbckdl1VOYle) | 4:56 | 2023-02-17 |  |
 | [Ripples](https://open.spotify.com/track/77Ym3LUFp9h8IEfNgsikM5) | [下村真一](https://open.spotify.com/artist/3SdUSWIfgDNcjPXuxM5a97) | [みぞうふく](https://open.spotify.com/album/6i7TYq9zinFSMVMHWnri0y) | 6:28 | 2023-02-17 |  |
 | [Rockledge 3A](https://open.spotify.com/track/2zj92WTGAoXgdXXv0TjS6W) | [Datach'i](https://open.spotify.com/artist/6ZULITXmOFWJwJKilsFRm7) | [Bones](https://open.spotify.com/album/48llH65qm1x3kOmAyXES7v) | 4:36 | 2023-02-17 |  |

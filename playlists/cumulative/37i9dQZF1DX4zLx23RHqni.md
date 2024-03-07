@@ -2,7 +2,7 @@
 
 ### [Tamil Indie : Romance](https://open.spotify.com/playlist/37i9dQZF1DX4zLx23RHqni)
 
-> Explore the Romantic side of Tamil Indie
+> Explore the Romantic side of Tamil Indie! <br/><br/>Cover: Stephen Zechariah, Priya Jerson
 
 67 songs - 4 hr 25 min
 

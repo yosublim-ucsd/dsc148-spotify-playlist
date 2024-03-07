@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo :  LÉA CHURROS
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,769 likes - 40 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,809 likes - 40 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [Dis\-moi](https://open.spotify.com/track/4NxvcmdBmR04g4nsfrhMsO) | [Kueena](https://open.spotify.com/artist/2N8ozOg61bquXNTapBfdm7), [Nayane](https://open.spotify.com/artist/2fphOBIhmkJp2O5Gqxlj4t) | [Dis\-moi](https://open.spotify.com/album/77QQGSVPna5U1nwnARigxr) | 3:28 |
 | 40 | [DOUX](https://open.spotify.com/track/2kxYhc00snAqzYVhQMOmFn) | [LOANA](https://open.spotify.com/artist/7v79OklJLpETja35YteNgT) | [DOUX](https://open.spotify.com/album/27haWl4XrngKEoMiDP8yAY) | 3:31 |
 
-Snapshot ID: `MCxkMWY2NDgyYWEzZmQxNzFkODU1YjI4Mzg4MGQ5NzE5MGFmZTM0ZWRk`
+Snapshot ID: `MCwwNTdiZjIzNjM2OTQzYmFkMDUxZGZlYTNmZDVjZjZkMmUzY2UzMGU4`

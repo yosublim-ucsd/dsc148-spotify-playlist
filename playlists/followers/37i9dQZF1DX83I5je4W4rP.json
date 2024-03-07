@@ -1,9 +1,27 @@
 {
-  "2024-03-06": 1059520,
+  "2024-03-07": 1059547,
   "date_first_scraped": "2021-12-21",
   "description": "Soak up these laid-back jams. ",
   "name": "Beach Vibes",
   "tracks": [
+    {
+      "album": {
+        "name": "30 Million",
+        "url": "https://open.spotify.com/album/6OEA1W5LBibGaEUjDUUayP"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218988,
+      "name": "30 Million",
+      "url": "https://open.spotify.com/track/2wQIm4WBXSSERoV1vANaLa"
+    },
     {
       "album": {
         "name": "A Thousand Times",
@@ -43,6 +61,24 @@
       "duration_ms": 205396,
       "name": "Ain't Got Nothin' Figured Out",
       "url": "https://open.spotify.com/track/7K8Rw4AUsIVPGSBdzII44L"
+    },
+    {
+      "album": {
+        "name": "Ain't Got Nothin' Figured Out",
+        "url": "https://open.spotify.com/album/0fzB0LCT451rlXceWRb8Hf"
+      },
+      "artists": [
+        {
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205396,
+      "name": "Ain't Got Nothin' Figured Out",
+      "url": "https://open.spotify.com/track/7y0a90K3s9DTKecinD19xr"
     },
     {
       "album": {
@@ -105,6 +141,24 @@
       "duration_ms": 210379,
       "name": "All or Nothing (feat. Busy Signal)",
       "url": "https://open.spotify.com/track/4Zf6EXvHC9lsMRqA7TqiAY"
+    },
+    {
+      "album": {
+        "name": "Always Been You",
+        "url": "https://open.spotify.com/album/7KX733L0zdhiHZ7hcUfrUJ"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203672,
+      "name": "Always Been You",
+      "url": "https://open.spotify.com/track/5Yoj2Tr83tfpzTbwR643pa"
     },
     {
       "album": {
@@ -325,7 +379,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": null,
       "duration_ms": 205142,
       "name": "Batshit Crazy",
       "url": "https://open.spotify.com/track/1kht76yGOThdMDpp0UKFKW"
@@ -503,7 +557,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-12",
+      "date_removed": null,
       "duration_ms": 199109,
       "name": "Board Meeting",
       "url": "https://open.spotify.com/track/2xsH55uRuzapn3AtYqnEja"
@@ -930,6 +984,32 @@
     },
     {
       "album": {
+        "name": "Constellations (with Moon Taxi) [J-Vibe Remix]",
+        "url": "https://open.spotify.com/album/3Azk0rq4VnT5LYRpAKc2V2"
+      },
+      "artists": [
+        {
+          "name": "Surfer Girl",
+          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
+        },
+        {
+          "name": "Moon Taxi",
+          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
+        },
+        {
+          "name": "J-Vibe",
+          "url": "https://open.spotify.com/artist/2JBSUcxL2nw8sJfjXmtUpL"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "Constellations (with Moon Taxi) - J-Vibe Remix",
+      "url": "https://open.spotify.com/track/3qjQZ6hhRcPgGdpteIFOQD"
+    },
+    {
+      "album": {
         "name": "Cool & Collected",
         "url": "https://open.spotify.com/album/2yplQKzNbpJS0FiFZddgYm"
       },
@@ -971,7 +1051,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-12",
+      "date_removed": null,
       "duration_ms": 199600,
       "name": "Corona and Lime",
       "url": "https://open.spotify.com/track/4mu0eDIt9weCJ6gG3Lox71"
@@ -1043,7 +1123,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-05",
+      "date_removed": null,
       "duration_ms": 209133,
       "name": "Create Something",
       "url": "https://open.spotify.com/track/4QF1vqGrBrvmH6X4RNenfD"
@@ -1069,6 +1149,28 @@
       "duration_ms": 214122,
       "name": "Dance My Stress Away (with Stephen Marley)",
       "url": "https://open.spotify.com/track/4YzBQfeZtXKEQABl61rT6f"
+    },
+    {
+      "album": {
+        "name": "Makai",
+        "url": "https://open.spotify.com/album/4iIZhPokjZV42t4zRl8yo3"
+      },
+      "artists": [
+        {
+          "name": "Pepper",
+          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
+        },
+        {
+          "name": "Edley Shine",
+          "url": "https://open.spotify.com/artist/06JuLnn54mv4EjrICHOHgi"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269308,
+      "name": "Dancing on the Moon (feat. Edley Shine)",
+      "url": "https://open.spotify.com/track/2dl5nrPMAWkTORDIpyaXLP"
     },
     {
       "album": {
@@ -1402,6 +1504,24 @@
     },
     {
       "album": {
+        "name": "Ease Up",
+        "url": "https://open.spotify.com/album/687rHO9Bt4aDPW2HVx77bh"
+      },
+      "artists": [
+        {
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158709,
+      "name": "Ease Up",
+      "url": "https://open.spotify.com/track/3SXP6WTxZR9tvS41Uzfduw"
+    },
+    {
+      "album": {
         "name": "Edge of the Ocean",
         "url": "https://open.spotify.com/album/29TmBre90Vd3iE2pu8cDP1"
       },
@@ -1573,7 +1693,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 199971,
       "name": "Falling Down (with Nick Hexum of 311)",
       "url": "https://open.spotify.com/track/0YqAFGltGRELm4l5fvEv9y"
@@ -2035,6 +2155,24 @@
     {
       "album": {
         "name": "Terra Firma",
+        "url": "https://open.spotify.com/album/7o1gl7In7Onhi6KpQwUDWy"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222440,
+      "name": "Greed",
+      "url": "https://open.spotify.com/track/1XiBjBWoxUxmrjqUbgLTSj"
+    },
+    {
+      "album": {
+        "name": "Terra Firma",
         "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
       },
       "artists": [
@@ -2375,6 +2513,28 @@
       "duration_ms": 304192,
       "name": "If You Let Me",
       "url": "https://open.spotify.com/track/7FoGBm7WGKpmuL74MB080m"
+    },
+    {
+      "album": {
+        "name": "If You Want It",
+        "url": "https://open.spotify.com/album/7xgPST4jMt9TWiRBiRRDqd"
+      },
+      "artists": [
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        },
+        {
+          "name": "Alborosie",
+          "url": "https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241306,
+      "name": "If You Want It",
+      "url": "https://open.spotify.com/track/6csv4sjaic4Q3IMgNMEan8"
     },
     {
       "album": {
@@ -2754,6 +2914,24 @@
     },
     {
       "album": {
+        "name": "Noon (Deluxe)",
+        "url": "https://open.spotify.com/album/1X38peQ9XkvThebEfH3hIe"
+      },
+      "artists": [
+        {
+          "name": "Surfer Girl",
+          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182715,
+      "name": "Let It Slide",
+      "url": "https://open.spotify.com/track/4BrBGUYUQEByBOpvBfTwhD"
+    },
+    {
+      "album": {
         "name": "Slum Beach Denny",
         "url": "https://open.spotify.com/album/0MgiASaKPnKqEYQiobt7ix"
       },
@@ -3043,10 +3221,32 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-07",
+      "date_removed": null,
       "duration_ms": 141750,
       "name": "Mary Go Round",
       "url": "https://open.spotify.com/track/7xgloQZJrpjQOyKc0n3D0j"
+    },
+    {
+      "album": {
+        "name": "MEANT TO BE.",
+        "url": "https://open.spotify.com/album/1z1gZm1jnGL881Iyq3ZF3g"
+      },
+      "artists": [
+        {
+          "name": "aurorawave",
+          "url": "https://open.spotify.com/artist/5ERzKZCMDsFeH15G80MFSS"
+        },
+        {
+          "name": "Nathan Aurora",
+          "url": "https://open.spotify.com/artist/6aAxZpCPuID3U1dLdobyns"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207906,
+      "name": "MEANT TO BE.",
+      "url": "https://open.spotify.com/track/6mwMUq6D3Tg7vEC4z6PFi7"
     },
     {
       "album": {
@@ -3155,7 +3355,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-14",
+      "date_removed": null,
       "duration_ms": 189264,
       "name": "My Wave",
       "url": "https://open.spotify.com/track/5nVJ4fHxEMDex4dDHeKpGj"
@@ -3389,6 +3589,28 @@
       "duration_ms": 191647,
       "name": "One Step Ahead",
       "url": "https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo"
+    },
+    {
+      "album": {
+        "name": "Ancient Blood",
+        "url": "https://open.spotify.com/album/6AbCyd00axppv60k7IlfLr"
+      },
+      "artists": [
+        {
+          "name": "Tribal Seeds",
+          "url": "https://open.spotify.com/artist/7jgZFR40bWjwOrRCOZFB02"
+        },
+        {
+          "name": "Romain Virgo",
+          "url": "https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283764,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/0bG01cwZDA3A5PKm2kaGwo"
     },
     {
       "album": {
@@ -3769,7 +3991,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 204000,
       "name": "Respect",
       "url": "https://open.spotify.com/track/75aYfg2Tji6Uxmreajjxsg"
@@ -3857,6 +4079,24 @@
       "duration_ms": 253040,
       "name": "Right Me Up",
       "url": "https://open.spotify.com/track/0mIedzCvGwfq4wIdGiVSut"
+    },
+    {
+      "album": {
+        "name": "Holy Illusion",
+        "url": "https://open.spotify.com/album/6tZqrGx9WKDN5sPjZiRvTl"
+      },
+      "artists": [
+        {
+          "name": "Coyote Island",
+          "url": "https://open.spotify.com/artist/4kA2Nc7ABFmtulhoskS8Wz"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193468,
+      "name": "River",
+      "url": "https://open.spotify.com/track/6wNFXmAc6v0ebGQ484Y5yn"
     },
     {
       "album": {
@@ -4609,7 +4849,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": null,
       "duration_ms": 212994,
       "name": "Sun and the Moon (with Collie Buddz)",
       "url": "https://open.spotify.com/track/0RGfnMQ6yrUJymY6EMJ3tC"
@@ -4653,7 +4893,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": null,
       "duration_ms": 240435,
       "name": "Sunburn (with Tropidelic)",
       "url": "https://open.spotify.com/track/7yBYIzdi8LgDsS0IPHoocx"
@@ -4969,7 +5209,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-23",
+      "date_removed": null,
       "duration_ms": 157640,
       "name": "The Way I Feel",
       "url": "https://open.spotify.com/track/4dxXzVDR3iK0Kg0EzfiPR5"
@@ -5532,6 +5772,24 @@
     },
     {
       "album": {
+        "name": "Best Of / 20th Century Masters",
+        "url": "https://open.spotify.com/album/1HkG5JC2RNtrBl4Zq97qgA"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193480,
+      "name": "Wonderful World, Beautiful People - Single Version",
+      "url": "https://open.spotify.com/track/4GEz5ZGMPcX9OZ5ta0v85e"
+    },
+    {
+      "album": {
         "name": "Departure",
         "url": "https://open.spotify.com/album/4HpqV8YH4vqpn24vKwZyzo"
       },
@@ -5591,6 +5849,24 @@
       "duration_ms": 275825,
       "name": "You're Right Here",
       "url": "https://open.spotify.com/track/3M9jPmPtMJPiJEEVBltsvu"
+    },
+    {
+      "album": {
+        "name": "Pleasure Point",
+        "url": "https://open.spotify.com/album/4z39wv4tx29BalyKnsy54i"
+      },
+      "artists": [
+        {
+          "name": "The Expendables",
+          "url": "https://open.spotify.com/artist/2OpHxx1SArSMlBrIMM0aV9"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277044,
+      "name": "You\u2019re Right Here",
+      "url": "https://open.spotify.com/track/1EdZy3Hey3zHR51GF1bLI5"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX83I5je4W4rP"

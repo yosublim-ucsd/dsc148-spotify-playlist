@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfGx5o2qjVb.md) - [plain]
 
 > <a href="spotify:artist:4p5WgeiPSPpqPDs7T6OkWf">ANOTR</a>'s favorite tracks\. Curated by ANOTR\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,632 likes - 100 songs - 10 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,656 likes - 100 songs - 10 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfGx5o2qjVb.md) - [plain]
 | 53 | [Heart of Flesh](https://open.spotify.com/track/01L2AgrILDfAruUAFG6Ut5) | [Technasia](https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5) | [Heart of Flesh](https://open.spotify.com/album/2DSPKc94LfH1TwohFlbiA5) | 7:19 |
 | 54 | [Mind Game \- D'julz Dub](https://open.spotify.com/track/2xyfgDDrcWIiawsmqeOr0V) | [Phil Weeks](https://open.spotify.com/artist/0ruxrxTRHzfO8KsLLNPNkK) | [Love Affair LP \(The French Gangsters Remixes\)](https://open.spotify.com/album/228YqvVwyQaDteHjhjQUVa) | 6:12 |
 | 55 | [Visions](https://open.spotify.com/track/4OCKZ59VK8HzQvFI88QBBj) | [Burnski](https://open.spotify.com/artist/4aOxcso0VF2zuORd93J32L) | [The Hours EP](https://open.spotify.com/album/2zB55q2rZr93Kwtq69kpNj) | 6:41 |
-| 56 | [Jungle Voyage \- Groove Assassin Beatz Mix](https://open.spotify.com/track/3X6hI3ub66Ilelh1p88Yqv) | [Bliss](https://open.spotify.com/artist/7bWPBztcTsxJZK8vZHZWZC), [Masmin](https://open.spotify.com/artist/6vCOsswPCg9P6KK0G9FrA1), [Groove Assassin](https://open.spotify.com/artist/7lWkd9SSRnKJVd8E0mELLG) | [Jungle Voyage](https://open.spotify.com/album/4qImvCkh75XFntlCHzIeVC) | 4:38 |
+| 56 | [Jungle Voyage \- Groove Assassin Beatz Mix](https://open.spotify.com/track/5MB9CK286WCOwuzayAiGoX) | [Bliss](https://open.spotify.com/artist/7bWPBztcTsxJZK8vZHZWZC), [Masmin](https://open.spotify.com/artist/6vCOsswPCg9P6KK0G9FrA1), [Groove Assassin](https://open.spotify.com/artist/7lWkd9SSRnKJVd8E0mELLG) | [Jungle Voyage](https://open.spotify.com/album/4EXa4csTfrij9O7yjddQI7) | 4:38 |
 | 57 | [Brighter Days \- Dajae\- Underground Mix '93](https://open.spotify.com/track/09IT6ZbPsY5EioVEqeyq4j) | [Cajmere](https://open.spotify.com/artist/7lIBLhQHKay3r1xtO3VtWT), [Dajae](https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE) | [It's Time](https://open.spotify.com/album/4C0vF98YQZ2DJF3nG36vGl) | 5:27 |
 | 58 | [Flute of the Loom](https://open.spotify.com/track/2a3fruyaOHVYkLpKk8Uyx7) | [Steve Rachmad](https://open.spotify.com/artist/4BmzfIGmnyaxu1REssIgPp) | [Fruit of the Room](https://open.spotify.com/album/3Xt5lSpKRK6Utthu5ghst5) | 8:24 |
 | 59 | [Get Down](https://open.spotify.com/track/3sFkO2PDRIiZhqR0ZtRzuw) | [Bontan](https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud) | [Get Down EP](https://open.spotify.com/album/1GiStB0oGRElP49xAQo2A3) | 5:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfGx5o2qjVb.md) - [plain]
 | 99 | [Twerk Dat Shit](https://open.spotify.com/track/4upCKVvU5WXrx5SPxulNa1) | [TAFKAMP](https://open.spotify.com/artist/4GwxugFPFLGMIEF72P7uas), [Irv Da Perv](https://open.spotify.com/artist/7Bc3PbZFORbWlY1suQ9bwh) | [The Most Wanted Digital Dubplates Vol\. 2](https://open.spotify.com/album/6GicX7tkelEi72tulT6ENm) | 4:04 |
 | 100 | [Standle](https://open.spotify.com/track/0Bm685T7YlpfQCANvFbCId) | [Traumer](https://open.spotify.com/artist/55qp3isnfx4ZKPHw5oP4eh) | [Standle & Processora](https://open.spotify.com/album/7o1h1iPErW1xyCt9eNSR3v) | 7:34 |
 
-Snapshot ID: `MCw3YWVlNTZiOGU1MmM0OGRlY2EzNTcxMTI3MWU0ZWFhYmE1ZjU0YjA5`
+Snapshot ID: `MCxjMzFjYWFjMGRmYmJiMGJkZDcwNzE1ZjliYjQ0OWViMGYzOTI4Mzk1`

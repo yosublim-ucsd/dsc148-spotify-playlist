@@ -4,7 +4,7 @@
 
 > Atlantic Records Presents the hottest tracks in hip\-hop, pop, rock, R&amp;B, indie and more! Updated every Friday.
 
-640 songs - 1 day 7 hr 34 min
+642 songs - 1 day 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [blah blah blah](https://open.spotify.com/track/14DUyQybUWcWgZAxmVnWUJ) | [Reiley](https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8) | [blah blah blah](https://open.spotify.com/album/26Bub5fNcLKdDVgfRAlEei) | 2:37 | 2022-04-15 | 2022-11-23 |
 | [Blood Runs Red](https://open.spotify.com/track/5MB6L6NwNqKCGpWhNdI5xT) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Problems](https://open.spotify.com/album/4skT3DZlIgTVd14BBLihrz) | 3:39 | 2022-07-29 | 2022-11-25 |
 | [Blue Over You](https://open.spotify.com/track/6ymafuSC9VWoGRPquZkQKV) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [Blue Over You](https://open.spotify.com/album/1DAz6NgojMSptSktSRV8oA) | 4:05 | 2024-03-04 |  |
+| [Body](https://open.spotify.com/track/4nGgHg7tCUYVZtPDDVgm92) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Ultrapure](https://open.spotify.com/album/1KLpFZbmz9I4irFMe9sht9) | 3:20 | 2024-03-06 |  |
 | [Body 4 Body](https://open.spotify.com/track/4vwdL2BDxtMLqW8H9cgZmU) | [Foogiano](https://open.spotify.com/artist/5iyTbismzdvyjpjIuhKRvX) | [Gutta Baby: Reloaded](https://open.spotify.com/album/1u8CUSOX8yKc0GOSi7hTN1) | 3:09 | 2022-11-18 | 2023-03-11 |
 | [Bodybag](https://open.spotify.com/track/0n7G59orkm7Sh7rvOXAopY) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Bodybag](https://open.spotify.com/album/2es7bY8oRAtSLFTdbr7A2l) | 3:33 | 2023-04-10 | 2023-05-06 |
 | [Bond Hold](https://open.spotify.com/track/3Oxw2qz5ecBwc9ZUeaSl6L) | [DCG BROTHERS](https://open.spotify.com/artist/7MP0JM4me8DNocS55hbd2J), [DCG Shun](https://open.spotify.com/artist/7okkZ7wwW0Jkh3N8FHOR11), [DCG Bsavv](https://open.spotify.com/artist/1mU5tzu4Oi1c7pq0WPqMOL) | [Bond Hold](https://open.spotify.com/album/5kgsvtyOV9CuKzyT5hrz90) | 3:10 | 2022-12-16 | 2023-03-11 |
@@ -424,6 +425,7 @@
 | [OLÈ](https://open.spotify.com/track/5tqpBgfKdVBkQNs98J9GA6) | [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [OLÈ](https://open.spotify.com/album/5aQWW05Xu1jDxEc8cb0WqL) | 2:40 | 2022-12-09 | 2023-03-11 |
 | [Omerta \(feat\. CoachDaGhost\)](https://open.spotify.com/track/1tW0yr2wRTay18KTwPErIN) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz), [CoachDaGhost](https://open.spotify.com/artist/5qvOCtfIaafXgf3QTNy9q2) | [The Blixky Tape 2 \(Deluxe\)](https://open.spotify.com/album/5AeTBSf9ogUyItM9wLQK9u) | 2:41 | 2022-04-25 | 2022-11-23 |
 | [On Repeat](https://open.spotify.com/track/4xbXuRfZ2ZLktw5QEdGYnX) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On Repeat](https://open.spotify.com/album/18DHRG697Xqb5yLR1UQeIw) | 3:10 | 2022-05-06 | 2022-11-23 |
+| [ON THE LINE](https://open.spotify.com/track/5e8saCEDfJ2szwaG5gTLwI) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [GLOW EP](https://open.spotify.com/album/666rdJ8snX6R5lT24Owcau) | 2:30 | 2024-03-06 |  |
 | [one day](https://open.spotify.com/track/4fLWebSyILFpxFsR2fo2G2) | [viisi](https://open.spotify.com/artist/50zXB0O7zGiSb4ZcF1GP7Z), [Kayla DiVenere](https://open.spotify.com/artist/6LmymAfsFtt2CaJSj9hdCn) | [Episode II: Red Windows](https://open.spotify.com/album/63CScFFefFqDl1pKFwioHV) | 2:14 | 2023-06-20 | 2023-09-01 |
 | [ONE NATION UNDERDOGS](https://open.spotify.com/track/0rlcL9H8ZJUEDQ3N0tmTZf) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 1: the blueprint](https://open.spotify.com/album/0otIBMv5zMV7ikDvfWCD3r) | 3:32 | 2023-06-07 | 2024-03-06 |
 | [One Of Us](https://open.spotify.com/track/07IKYVGXYta34nMlu6OWit) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [One Of Us](https://open.spotify.com/album/0u59JNRwvPl2rfN5OIY8Zn) | 2:58 | 2023-01-13 | 2023-03-11 |
@@ -645,7 +647,7 @@
 | [you lost](https://open.spotify.com/track/6XzSmI6p7ZZ21rTfPkaNSI) | [Cadence Floria](https://open.spotify.com/artist/11Vu80Yb4WYdbkqROFixrS) | [& so,](https://open.spotify.com/album/4SmQFE30fSa6NTaldKFsCe) | 1:04 | 2022-12-02 | 2023-03-11 |
 | [You Wish](https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [You Wish + Trashboi](https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv) | 2:00 | 2023-06-26 | 2023-09-26 |
 | [You Wish \(with Missy Elliott & Kaliii\) – Remix](https://open.spotify.com/track/1bUhj0j6akbGxinxsVe6PR) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [You Wish \(with Missy Elliott & Kaliii\) – Remix](https://open.spotify.com/album/5VUeDa4FENhqT8o2fuFdjK) | 2:37 | 2023-09-11 | 2024-03-06 |
-| [You're Hired \(feat\. Ayra Starr\)](https://open.spotify.com/track/17oeeAxAbZaHIqKpt402KI) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [You're Hired \(feat\. Ayra Starr\)](https://open.spotify.com/album/0onUf9J8FxwJCpPdNyhVZe) | 2:59 | 2023-10-10 | 2024-03-06 |
+| [You're Hired \(feat\. Ayra Starr\)](https://open.spotify.com/track/17oeeAxAbZaHIqKpt402KI) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [You're Hired \(feat\. Ayra Starr\)](https://open.spotify.com/album/0onUf9J8FxwJCpPdNyhVZe) | 2:59 | 2023-10-10 |  |
 | [Your Apartment](https://open.spotify.com/track/2F8GiqfSE1JSjLGHlHMmQa) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Your Apartment](https://open.spotify.com/album/4bchmgK2VJWV9fHapF5nms) | 3:18 | 2024-03-04 |  |
 | [Zoom](https://open.spotify.com/track/1FDunczi3BhyBOicyAXGCq) | [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Zoom](https://open.spotify.com/album/2oAXMZTO9ClrJMESeTYQsC) | 2:00 | 2022-09-02 | 2023-03-11 |
 

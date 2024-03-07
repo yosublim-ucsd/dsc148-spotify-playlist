@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 38080,
+  "2024-03-07": 38090,
   "date_first_scraped": "2022-01-21",
   "description": "Guerreras del rock latinoamericano. Foto: Barbi Recanati",
   "name": "Rockeras",
@@ -489,7 +489,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-04",
+      "date_removed": null,
       "duration_ms": 203186,
       "name": "Batalla Naval",
       "url": "https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx"
@@ -1617,7 +1617,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 144265,
       "name": "Fantas\u00eda",
       "url": "https://open.spotify.com/track/5pwjdeZNeYDmLYX2NtLhBO"

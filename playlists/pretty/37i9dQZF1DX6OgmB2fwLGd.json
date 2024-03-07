@@ -1,33 +1,13 @@
 {
   "description": "The rap soundtrack to the internet. Cover: BossMan Dlow",
-  "num_followers": 1396907,
+  "num_followers": 1397023,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2E1YTdmNmYxN2VmYjdkMjkxNTI2NzA3ZTQ0MDExNjY3NmQ1MWE2",
+  "snapshot_id": "MCwxNTc2NmNjNGVmMzgwNzUyZWQxODUzODFhZTYzYzM0NGMzNDlhNWIz",
   "tracks": [
-    {
-      "added_at": "2024-03-05 19:16:14",
-      "album": {
-        "name": "NSFW 2: I Like Girls",
-        "url": "https://open.spotify.com/album/1pBI9gyxvVwMRlhUWjVtNw"
-      },
-      "artists": [
-        {
-          "name": "Rob Apollo",
-          "url": "https://open.spotify.com/artist/6yKhvpwLXw23Iy6jFr192V"
-        },
-        {
-          "name": "Baldie Balboa",
-          "url": "https://open.spotify.com/artist/0ZlhTnEkFNumpRzXOuRz3F"
-        }
-      ],
-      "duration_ms": 205508,
-      "name": "Seppuku",
-      "url": "https://open.spotify.com/track/0djEmaFqvfSdtpNMZYTSdz"
-    },
     {
       "added_at": "2024-02-27 15:12:26",
       "album": {
@@ -85,6 +65,42 @@
       "url": "https://open.spotify.com/track/4iEoDBAgMJIzest7VsDgmT"
     },
     {
+      "added_at": "2024-03-06 22:10:24",
+      "album": {
+        "name": "Leaving the Lot",
+        "url": "https://open.spotify.com/album/0HbFiEvmw9DPQZJAcmRRja"
+      },
+      "artists": [
+        {
+          "name": "King Hendrick$",
+          "url": "https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7"
+        }
+      ],
+      "duration_ms": 189387,
+      "name": "Leaving the Lot",
+      "url": "https://open.spotify.com/track/1VvcEtz05boxBKpM2tGPBL"
+    },
+    {
+      "added_at": "2024-03-05 19:16:14",
+      "album": {
+        "name": "NSFW 2: I Like Girls",
+        "url": "https://open.spotify.com/album/1pBI9gyxvVwMRlhUWjVtNw"
+      },
+      "artists": [
+        {
+          "name": "Rob Apollo",
+          "url": "https://open.spotify.com/artist/6yKhvpwLXw23Iy6jFr192V"
+        },
+        {
+          "name": "Baldie Balboa",
+          "url": "https://open.spotify.com/artist/0ZlhTnEkFNumpRzXOuRz3F"
+        }
+      ],
+      "duration_ms": 205508,
+      "name": "Seppuku",
+      "url": "https://open.spotify.com/track/0djEmaFqvfSdtpNMZYTSdz"
+    },
+    {
       "added_at": "2023-12-12 21:16:28",
       "album": {
         "name": "Ghetto Fabulous",
@@ -134,6 +150,14 @@
         {
           "name": "Kinfolk Thugs",
           "url": "https://open.spotify.com/artist/3HKeu1ODauzWmisaf17RBS"
+        },
+        {
+          "name": "Tyme Bomb",
+          "url": "https://open.spotify.com/artist/0mDzqk1BoBvyKUYfcg6Zbd"
+        },
+        {
+          "name": "Tre'v",
+          "url": "https://open.spotify.com/artist/3G4S7c0YyMbTNf09kdVybp"
         }
       ],
       "duration_ms": 207800,

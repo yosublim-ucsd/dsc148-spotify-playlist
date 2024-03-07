@@ -10671,6 +10671,24 @@
     },
     {
       "album": {
+        "name": "\u53ef\u80fd\u662f\u98ce\u592a\u5927\u4e86\u5427",
+        "url": "https://open.spotify.com/album/0PiAkVI2RfjynVsU5HgA6P"
+      },
+      "artists": [
+        {
+          "name": "GooGoo",
+          "url": "https://open.spotify.com/artist/42XkP61bhl484R4ear0pgx"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196428,
+      "name": "\u53ef\u80fd\u662f\u98ce\u592a\u5927\u4e86\u5427",
+      "url": "https://open.spotify.com/track/7Kg4PcIlQKa2gJKrURRYDp"
+    },
+    {
+      "album": {
         "name": "\u5404\u81ea\u5b89\u597d",
         "url": "https://open.spotify.com/album/42kIWWADJxhtXbMvfm8jO8"
       },
@@ -12784,7 +12802,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 238133,
       "name": "\u64f1\u6dfa",
       "url": "https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF"

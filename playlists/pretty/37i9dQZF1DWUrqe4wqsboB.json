@@ -1,12 +1,12 @@
 {
   "description": "Indie, pop, alternativo... y un poco m\u00e1s all\u00e1. Cover: Ana Macho",
-  "num_followers": 5117,
+  "num_followers": 5125,
   "original_name": "Indie Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDBjYjhkYjQ2YTY5NmYzMmFkMTZiMmIwMWQ2MmU5NzZkZDFiN2Q3",
+  "snapshot_id": "MCwwZDZkZTAyNDA4YjhmMTJkZGRhOWNiNzA1YWMyZDk3ZjY3Zjg1YzJm",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -79,18 +79,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "CINEMA",
-        "url": "https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v"
+        "name": "CAPIC\u00da",
+        "url": "https://open.spotify.com/album/14nxqQmgXadFt4KHCLxf4s"
       },
       "artists": [
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         }
       ],
-      "duration_ms": 167386,
-      "name": "Un Mill\u00f3n",
-      "url": "https://open.spotify.com/track/5dFG12OQz10CbUFZIYH0gv"
+      "duration_ms": 157021,
+      "name": "roadhead",
+      "url": "https://open.spotify.com/track/22e6zQqBcv68ZZnRNklZAf"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -111,22 +115,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "CAPIC\u00da",
-        "url": "https://open.spotify.com/album/14nxqQmgXadFt4KHCLxf4s"
+        "name": "CINEMA",
+        "url": "https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v"
       },
       "artists": [
         {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 157021,
-      "name": "roadhead",
-      "url": "https://open.spotify.com/track/22e6zQqBcv68ZZnRNklZAf"
+      "duration_ms": 167386,
+      "name": "Un Mill\u00f3n",
+      "url": "https://open.spotify.com/track/5dFG12OQz10CbUFZIYH0gv"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -215,22 +215,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 157499,
-      "name": "D\u00c1KITI \u2013 Spotify Singles",
-      "url": "https://open.spotify.com/track/2y9xyQNtut1KeOHSSkuzik"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Tejido de Laurel",
         "url": "https://open.spotify.com/album/5pE7hfdLbcswAR4fMvPp2B"
       },
@@ -263,8 +247,24 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Para Mi",
-        "url": "https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 157499,
+      "name": "D\u00c1KITI \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/2y9xyQNtut1KeOHSSkuzik"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Sobrevolando",
+        "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
       },
       "artists": [
         {
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 267953,
-      "name": "Para Mi",
-      "url": "https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf"
+      "duration_ms": 280574,
+      "name": "Caracoles",
+      "url": "https://open.spotify.com/track/6GaB5hqbxFqUbKUcOlGT5h"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -363,8 +363,8 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Sobrevolando",
-        "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
+        "name": "Para Mi",
+        "url": "https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 280574,
-      "name": "Caracoles",
-      "url": "https://open.spotify.com/track/6GaB5hqbxFqUbKUcOlGT5h"
+      "duration_ms": 267953,
+      "name": "Para Mi",
+      "url": "https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -479,26 +479,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "De Vuelta a Casa",
-        "url": "https://open.spotify.com/album/5cWQZRUiVsVMK35FPJnNN0"
-      },
-      "artists": [
-        {
-          "name": "Pj Sin Suela",
-          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
-        },
-        {
-          "name": "Bebo Dumont",
-          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
-        }
-      ],
-      "duration_ms": 238446,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/2hzyzFA7VZrtvFaWIYxynR"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Duo Deleite",
         "url": "https://open.spotify.com/album/5Dgw1ImjLlgCH2EmPSw1bY"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 187500,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/3v39Tno23I21Uot44jt1s8"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "De Vuelta a Casa",
+        "url": "https://open.spotify.com/album/5cWQZRUiVsVMK35FPJnNN0"
+      },
+      "artists": [
+        {
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+        },
+        {
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
+        }
+      ],
+      "duration_ms": 238446,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/2hzyzFA7VZrtvFaWIYxynR"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Tommy Bahama",
+        "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
+      },
+      "artists": [
+        {
+          "name": "Sebimor",
+          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
+        }
+      ],
+      "duration_ms": 229963,
+      "name": "Tommy Bahama",
+      "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Letra Pa' tu Coco",
         "url": "https://open.spotify.com/album/4aHOFAEKBT88XWFWesHZCE"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 200232,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/6ieljkNQsuSVof3XWD8box"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Tommy Bahama",
-        "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
-      },
-      "artists": [
-        {
-          "name": "Sebimor",
-          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
-        }
-      ],
-      "duration_ms": 229963,
-      "name": "Tommy Bahama",
-      "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
     },
     {
       "added_at": "2024-03-01 05:00:00",

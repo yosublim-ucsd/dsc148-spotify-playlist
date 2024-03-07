@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 
 > 
 
-[LC](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 18,584 likes - 542 songs - 1 day 8 hr 36 min
+[LC](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 18,580 likes - 542 songs - 1 day 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -311,7 +311,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 | 301 | [I Let U](https://open.spotify.com/track/71O8gWQQat6BXZmyODMnqU) | [Jonny L](https://open.spotify.com/artist/1mNcpWcrGRZUvSPgJDVCpS) | [Sawtooth](https://open.spotify.com/album/4mim7VvNsRqXKTuELX1rwc) | 5:06 |
 | 302 | [JUST LIKE WE NEVER SAID GOODBYE](https://open.spotify.com/track/2cGvUvoFSpczQL25DerV7T) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [JUST LIKE WE NEVER SAID GOODBYE](https://open.spotify.com/album/2X6MX6lzwDmFupGBHfQwJk) | 3:08 |
 | 303 | [Army Of Me](https://open.spotify.com/track/4KDfOjFnTr8k6CoMEf29Sd) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Army Of Me](https://open.spotify.com/album/5QK5pO9Ka4pzUYmZiD2vaN) | 3:57 |
-| 304 | [maple](https://open.spotify.com/track/1mNArVEfBWUJyByG2rvd46) | [lostrushi](https://open.spotify.com/artist/5Q2SPodgRF5DgI5Vs8y0Ve), [kaystrueno](https://open.spotify.com/artist/2PY3V8CCFzhqxUzWEcjKZ4) | [maple](https://open.spotify.com/album/18X0aPs7quY2528eUKxruE) | 2:09 |
+| 304 | [maple](https://open.spotify.com/track/1mNArVEfBWUJyByG2rvd46) | [Lucy Bedroque](https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O), [kaystrueno](https://open.spotify.com/artist/2PY3V8CCFzhqxUzWEcjKZ4) | [maple](https://open.spotify.com/album/18X0aPs7quY2528eUKxruE) | 2:09 |
 | 305 | [FLASH CASANOVA](https://open.spotify.com/track/1eVKXx90AtQkgG8H9MXCpN) | [Yabujin](https://open.spotify.com/artist/3xMSStWH6Wz2KAJqkZwXLu) | [FLASH CASANOVA](https://open.spotify.com/album/5AQGlxfAIZIGK8Hx9Q6d7E) | 2:43 |
 | 306 | [Cloud Nine](https://open.spotify.com/track/2vQ8etSwIOFsshqvK6sHU6) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [Neon White Soundtrack Part 1 "The Wicked Heart"](https://open.spotify.com/album/0uYxgIHjLcufVqbvOAeGDb) | 4:10 |
 | 307 | [butterfly](https://open.spotify.com/track/2Mz0UdSNmyRijx5O1szHKf) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [bloweyelashwish](https://open.spotify.com/album/6BiT8PzOcHOEe1hrrjajER) | 1:50 |

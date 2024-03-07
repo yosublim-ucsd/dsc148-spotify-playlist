@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house. Cover: Steve Angello and Sebastian Ingrosso",
-  "num_followers": 441076,
+  "num_followers": 441097,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzYyZjdiMzdmMTE5NThkYjU4ZTIwY2M1M2JjZGNjN2I5ZTgxOTgx",
+  "snapshot_id": "MCxlMWI5NTdlNmE4YjQ2YjJiNWI5ZTUyMDAxZmRiYjFmZTRhZTA4ZGVi",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Can't Get Enough",
-        "url": "https://open.spotify.com/album/6WAuwYAOQ8BiormDkcZ0pW"
-      },
-      "artists": [
-        {
-          "name": "Galoski",
-          "url": "https://open.spotify.com/artist/19gU7Hvep0G37JeiLf3TNB"
-        },
-        {
-          "name": "YAKSA",
-          "url": "https://open.spotify.com/artist/74UHQxfQtHHY7FgP7qkRzR"
-        }
-      ],
-      "duration_ms": 153705,
-      "name": "Can't Get Enough",
-      "url": "https://open.spotify.com/track/5yQy36RGCL7OJcklGrME9X"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "niteharts",
         "url": "https://open.spotify.com/album/73pupZEDJHSNWZTZgN2gQH"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 207694,
       "name": "Aarena (Knock2 Remix)",
       "url": "https://open.spotify.com/track/3QdNlDA5ZYzg99r1eafrO8"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/6WAuwYAOQ8BiormDkcZ0pW"
+      },
+      "artists": [
+        {
+          "name": "Galoski",
+          "url": "https://open.spotify.com/artist/19gU7Hvep0G37JeiLf3TNB"
+        },
+        {
+          "name": "YAKSA",
+          "url": "https://open.spotify.com/artist/74UHQxfQtHHY7FgP7qkRzR"
+        }
+      ],
+      "duration_ms": 153705,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/5yQy36RGCL7OJcklGrME9X"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Banga",
-        "url": "https://open.spotify.com/album/2S1qwlOsiKSKMvxpxuO5Hw"
-      },
-      "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        },
-        {
-          "name": "FETISH",
-          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
-        }
-      ],
-      "duration_ms": 141897,
-      "name": "Banga",
-      "url": "https://open.spotify.com/track/3Asbj9ttQ9MmQHcwHFy7mn"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Rawthentic",
         "url": "https://open.spotify.com/album/38eQYM81j2GjCi9SvUX7tP"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 221918,
       "name": "Rawthentic",
       "url": "https://open.spotify.com/track/7hTdAaszcY2o1YpdQuWCV0"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Banga",
+        "url": "https://open.spotify.com/album/2S1qwlOsiKSKMvxpxuO5Hw"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        {
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+        }
+      ],
+      "duration_ms": 141897,
+      "name": "Banga",
+      "url": "https://open.spotify.com/track/3Asbj9ttQ9MmQHcwHFy7mn"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Silent",
+        "url": "https://open.spotify.com/album/2crRb5Zqd38VCkh4kiadvs"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        }
+      ],
+      "duration_ms": 190498,
+      "name": "Silent",
+      "url": "https://open.spotify.com/track/5MvvEKnfgMVLLBkzsgStpD"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Enemy",
         "url": "https://open.spotify.com/album/1ak05kVWCtEdvlCRS5EeZF"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 211428,
       "name": "Enemy",
       "url": "https://open.spotify.com/track/4Syuvo6HDr7SraUJyOVAh4"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Silent",
-        "url": "https://open.spotify.com/album/2crRb5Zqd38VCkh4kiadvs"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        }
-      ],
-      "duration_ms": 190498,
-      "name": "Silent",
-      "url": "https://open.spotify.com/track/5MvvEKnfgMVLLBkzsgStpD"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1387,6 +1387,26 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Goodies - Knock2 Remix",
+        "url": "https://open.spotify.com/album/3CZxe7XGcQsoTEPUQI9vn5"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "duration_ms": 209523,
+      "name": "Goodies - Knock2 Remix",
+      "url": "https://open.spotify.com/track/11u8UpRXIdNNzJszoskdcb"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Tudum",
         "url": "https://open.spotify.com/album/1wnOlrxHzAER2yIrhBO0ag"
       },
@@ -1407,26 +1427,6 @@
       "duration_ms": 149620,
       "name": "Tudum",
       "url": "https://open.spotify.com/track/5fSJFW86f6OZcmgjSlvZnS"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Goodies - Knock2 Remix",
-        "url": "https://open.spotify.com/album/3CZxe7XGcQsoTEPUQI9vn5"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        }
-      ],
-      "duration_ms": 209523,
-      "name": "Goodies - Knock2 Remix",
-      "url": "https://open.spotify.com/track/11u8UpRXIdNNzJszoskdcb"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Hit It Back",
-        "url": "https://open.spotify.com/album/2MpANhnsIZjNCpomkvODeK"
-      },
-      "artists": [
-        {
-          "name": "Laidback Luke",
-          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
-        },
-        {
-          "name": "Gian Varela",
-          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
-        }
-      ],
-      "duration_ms": 138139,
-      "name": "Hit It Back",
-      "url": "https://open.spotify.com/track/7maOJYreyKXNVpSdYNoOPn"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Lockdown",
         "url": "https://open.spotify.com/album/6C2ezhjaFoS7V1GdHD3gbK"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 210000,
       "name": "A Prayer",
       "url": "https://open.spotify.com/track/0z5RBNQiOmQgGDiT8jnuiB"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Hit It Back",
+        "url": "https://open.spotify.com/album/2MpANhnsIZjNCpomkvODeK"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Gian Varela",
+          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
+        }
+      ],
+      "duration_ms": 138139,
+      "name": "Hit It Back",
+      "url": "https://open.spotify.com/track/7maOJYreyKXNVpSdYNoOPn"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1863,26 +1863,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Bad Bassline",
-        "url": "https://open.spotify.com/album/4C7PnuA3nd6XXBYfLuWcaH"
-      },
-      "artists": [
-        {
-          "name": "Jenn Getz & Alfie",
-          "url": "https://open.spotify.com/artist/3InZgAgqREkBk5ZmMureYH"
-        },
-        {
-          "name": "DJ Luck & MC Neat",
-          "url": "https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "Bad Bassline",
-      "url": "https://open.spotify.com/track/4d1Z1ydKSxQqk41ABR38Es"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Ignite",
         "url": "https://open.spotify.com/album/6fZiqn8LoZ4N4ZBYiKKmOR"
       },
@@ -1903,6 +1883,26 @@
       "duration_ms": 196800,
       "name": "Ignite",
       "url": "https://open.spotify.com/track/1emuD0fT5F0ZnZLcoscLQO"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Bad Bassline",
+        "url": "https://open.spotify.com/album/4C7PnuA3nd6XXBYfLuWcaH"
+      },
+      "artists": [
+        {
+          "name": "Jenn Getz & Alfie",
+          "url": "https://open.spotify.com/artist/3InZgAgqREkBk5ZmMureYH"
+        },
+        {
+          "name": "DJ Luck & MC Neat",
+          "url": "https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Bad Bassline",
+      "url": "https://open.spotify.com/track/4d1Z1ydKSxQqk41ABR38Es"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1943,6 +1943,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Just Like You",
+        "url": "https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA"
+      },
+      "artists": [
+        {
+          "name": "THYKIER",
+          "url": "https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI"
+        }
+      ],
+      "duration_ms": 140160,
+      "name": "Just Like You",
+      "url": "https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Welcome to the Playhouse",
         "url": "https://open.spotify.com/album/4iAl0HNcr4dRgITsJWl8L1"
       },
@@ -1963,22 +1979,6 @@
       "duration_ms": 188571,
       "name": "Welcome to the Playhouse",
       "url": "https://open.spotify.com/track/67h2Hkpy8POZnitSWe4wqg"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Just Like You",
-        "url": "https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA"
-      },
-      "artists": [
-        {
-          "name": "THYKIER",
-          "url": "https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI"
-        }
-      ],
-      "duration_ms": 140160,
-      "name": "Just Like You",
-      "url": "https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -2023,26 +2023,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Stereo Function",
-        "url": "https://open.spotify.com/album/1BhDWxjA0cUfnraGOpA4Ts"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        },
-        {
-          "name": "Kage",
-          "url": "https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot"
-        }
-      ],
-      "duration_ms": 206904,
-      "name": "Stereo Function",
-      "url": "https://open.spotify.com/track/1Sk2Kzze1ZTfp6Gt2klZgc"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "By Myself",
         "url": "https://open.spotify.com/album/7wbpSjbRgHsjtT7Gb8VRa7"
       },
@@ -2059,22 +2039,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "What Do You Want",
-        "url": "https://open.spotify.com/album/0TdUKu8MVbIYVykduz6CNc"
+        "name": "Stereo Function",
+        "url": "https://open.spotify.com/album/1BhDWxjA0cUfnraGOpA4Ts"
       },
       "artists": [
         {
-          "name": "Honey & Badger",
-          "url": "https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK"
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
         },
         {
-          "name": "Haylee Wood",
-          "url": "https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR"
+          "name": "Kage",
+          "url": "https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot"
         }
       ],
-      "duration_ms": 180480,
-      "name": "What Do You Want",
-      "url": "https://open.spotify.com/track/4FPJskFFWE4uYsK9rw7uFI"
+      "duration_ms": 206904,
+      "name": "Stereo Function",
+      "url": "https://open.spotify.com/track/1Sk2Kzze1ZTfp6Gt2klZgc"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -2099,6 +2079,26 @@
       "duration_ms": 220898,
       "name": "NRG",
       "url": "https://open.spotify.com/track/0zEwlfpJgIMzh3BV0UiQ3l"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "What Do You Want",
+        "url": "https://open.spotify.com/album/0TdUKu8MVbIYVykduz6CNc"
+      },
+      "artists": [
+        {
+          "name": "Honey & Badger",
+          "url": "https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK"
+        },
+        {
+          "name": "Haylee Wood",
+          "url": "https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "What Do You Want",
+      "url": "https://open.spotify.com/track/4FPJskFFWE4uYsK9rw7uFI"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -2139,26 +2139,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Quaestio (i've got a question babe)",
-        "url": "https://open.spotify.com/album/4DRVa48Tl9faBrsvTGhcmR"
-      },
-      "artists": [
-        {
-          "name": "Tim Hox",
-          "url": "https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM"
-        },
-        {
-          "name": "Manuals",
-          "url": "https://open.spotify.com/artist/5bvEoXzMCyh9cuwQu0Tvvo"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Quaestio (i've got a question babe)",
-      "url": "https://open.spotify.com/track/5HwSjHt2FnTTLONBx5Rx5p"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "LIMIT",
         "url": "https://open.spotify.com/album/1gG2DU3odPahWbeJyA9jKU"
       },
@@ -2175,6 +2155,26 @@
       "duration_ms": 217142,
       "name": "LIMIT",
       "url": "https://open.spotify.com/track/76IbCTgkgm0t8PaX5x488g"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Quaestio (i've got a question babe)",
+        "url": "https://open.spotify.com/album/4DRVa48Tl9faBrsvTGhcmR"
+      },
+      "artists": [
+        {
+          "name": "Tim Hox",
+          "url": "https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM"
+        },
+        {
+          "name": "Manuals",
+          "url": "https://open.spotify.com/artist/5bvEoXzMCyh9cuwQu0Tvvo"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Quaestio (i've got a question babe)",
+      "url": "https://open.spotify.com/track/5HwSjHt2FnTTLONBx5Rx5p"
     },
     {
       "added_at": "2024-03-01 05:00:00",

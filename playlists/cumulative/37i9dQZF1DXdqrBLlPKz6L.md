@@ -4,7 +4,7 @@
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: El Clooy
 
-103 songs - 5 hr 37 min
+104 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,8 @@
 | [Q 'VacilOn](https://open.spotify.com/track/1WsBNIhyn8z2UnuvlFTJM4) | [Skisia2](https://open.spotify.com/artist/0i2AykTPNRZdh7qfCy8eor), [AG SixTeen](https://open.spotify.com/artist/2Skstmc3athPlfSbdxEsR2), [Yung Iverson](https://open.spotify.com/artist/32FZMa8a5INqhHHssRtkux) | [Q 'VacilOn](https://open.spotify.com/album/4ABD3I1tBANiGl803jPwgX) | 3:16 | 2021-10-15 |  |
 | [Que Fue](https://open.spotify.com/track/7FXuCVl6Wf5LuqkagnafUQ) | [Nero Lvigi](https://open.spotify.com/artist/0qzSMS5kmApxk4mB8k1UBx) | [Que Fue](https://open.spotify.com/album/1XzNceSB41vVsinihbYfpz) | 3:52 | 2022-08-19 |  |
 | [Rockstars](https://open.spotify.com/track/3FSlnw2ULKtzZmKRsCePM9) | [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Rockstars](https://open.spotify.com/album/5gxGWqgqGj0NIz4ssk5ftv) | 3:04 | 2021-10-15 | 2022-11-04 |
-| [Si Caigo](https://open.spotify.com/track/40w0db59EY5siISnJjhb2B) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Si Caigo](https://open.spotify.com/album/2UJIBCLSahOqrfG2OchUc3) | 3:23 | 2023-03-24 |  |
+| [Si Caigo](https://open.spotify.com/track/2vUb00H3FMhSwaie3BuiUW) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Si Caigo](https://open.spotify.com/album/2O638HJsoKny84UrlemJhS) | 3:23 | 2024-01-26 |  |
+| [Si Caigo](https://open.spotify.com/track/40w0db59EY5siISnJjhb2B) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Si Caigo](https://open.spotify.com/album/2UJIBCLSahOqrfG2OchUc3) | 3:23 | 2023-03-24 | 2024-03-07 |
 | [Si Caigo](https://open.spotify.com/track/5fcmgOkht9NNEj4xrwcDem) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Si Caigo](https://open.spotify.com/album/0rUlFV3JJNaOt7AyEd3NUy) | 3:23 | 2022-08-19 | 2023-04-13 |
 | [Si Te Vas](https://open.spotify.com/track/3vhRrdI29KxI3dvnfRDSjJ) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu), [Red Little](https://open.spotify.com/artist/3TtjHxt7XVVJwUWCzvLDyL) | [Si Te Vas](https://open.spotify.com/album/3X5V5wuP5P6ys4Z9snzOT7) | 3:54 | 2021-10-15 | 2022-04-09 |
 | [Sin Señal](https://open.spotify.com/track/0Vcd3Kvbkso4emk1pYARah) | [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7), [Unicornio Records](https://open.spotify.com/artist/3y26UMODbF4qCIG8zFVPaG) | [Sin Señal](https://open.spotify.com/album/48sx7cgN8pCgk8NvwfX3KK) | 3:25 | 2021-10-15 |  |

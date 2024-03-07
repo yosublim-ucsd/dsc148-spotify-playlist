@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the centre of innovation in electronic music\. Cover: Azzecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,805 likes - 85 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,846 likes - 85 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 84 | [Shuffle And Swing](https://open.spotify.com/track/6RgsprbfIHBEJaeJ462oYp) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Bossa And Swing](https://open.spotify.com/album/46E57gGJYwBbuc0GG6tsen) | 6:41 |
 | 85 | [Undo U \- 4x4 Mix](https://open.spotify.com/track/4Jwmw6mn6D3oUPfptF7Ng7) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Undo U \(4x4 Mix\)](https://open.spotify.com/album/1Pdd6xpnSzMlfUjDogMhgO) | 3:04 |
 
-Snapshot ID: `MCw1MTZjMmU2N2FhODRmOTE2NmQ4NjIwYWU1NjAzZGU3ZDNiNDcxOWFl`
+Snapshot ID: `MCxlZDdlNDlmMmFhZGExOWIyMjgxMGM3MmM5NWJjM2EzNzg1MzU0MmI1`

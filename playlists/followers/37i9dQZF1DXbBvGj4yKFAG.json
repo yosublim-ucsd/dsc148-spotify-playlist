@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 82557,
+  "2024-03-07": 82652,
   "date_first_scraped": "2023-02-10",
   "description": "may include sad indie rock songs. ",
   "name": "side effects",
@@ -2119,6 +2119,24 @@
       "duration_ms": 155618,
       "name": "Magic",
       "url": "https://open.spotify.com/track/3ddERux9hMZiEAUW6GZI0e"
+    },
+    {
+      "album": {
+        "name": "maybe",
+        "url": "https://open.spotify.com/album/09pqA4YbFnuXeQ63qBmTnz"
+      },
+      "artists": [
+        {
+          "name": "porch kiss",
+          "url": "https://open.spotify.com/artist/0XGlOeVobIoWftyyayE5bT"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "maybe",
+      "url": "https://open.spotify.com/track/0IsAxgPis7CWtBHFIlzOyB"
     },
     {
       "album": {

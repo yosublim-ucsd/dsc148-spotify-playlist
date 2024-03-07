@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Jore & Zpoppa ja TUULI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,410 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,424 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 59 | [Sua Ei Oo](https://open.spotify.com/track/6sqPOCugqjcu11jIpnAkaL) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Sua Ei Oo](https://open.spotify.com/album/3Y3yFYFr8bROdWyN1T8Dqr) | 2:52 |
 | 60 | [MANIA](https://open.spotify.com/track/42wdgAhyKTfaEusVBAbjH3) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [MANIA](https://open.spotify.com/album/6lBh55sdgXTSX1VyW9Fykp) | 2:39 |
 
-Snapshot ID: `MCwyYjc2MzNiMGQ0Y2Q5N2U5OWRiMDgzNDIzNzM0NGM2NTE1OGZjMjE4`
+Snapshot ID: `MCxmZDhlYjdlOTE0MTRmZTFmNjQ2YWFhYzE4MDYwYTc3M2EwMDc3Y2Rh`

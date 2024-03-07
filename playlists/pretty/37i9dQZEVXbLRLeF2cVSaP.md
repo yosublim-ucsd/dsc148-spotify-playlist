@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,162 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,178 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Пьяный дождь](https://open.spotify.com/track/5BFADKJgtL2eZ4XZJq8zEc) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Малый повзрослел, Ч\. 2](https://open.spotify.com/album/3iKJSrtfk7d5XjhfYp46RB) | 3:15 |
 | 50 | [На заре](https://open.spotify.com/track/4qlMFQs9oEp5bVxERhTZBU) | [Basta](https://open.spotify.com/artist/7as5DY4Rz9jac9tgoTrj9H) | [На заре](https://open.spotify.com/album/0L83BLsfw7ftALYjVcOYmf) | 5:06 |
 
-Snapshot ID: `NzYzMDAzMjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzYzMDg5MDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

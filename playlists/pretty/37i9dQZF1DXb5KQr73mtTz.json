@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 17469,
+  "num_followers": 17471,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2M4ZGJkMDY2MzBiNzk3NGUzMWM0NGM4Y2FkMzJjZTVjYjk2MmI1",
+  "snapshot_id": "MCxhN2VhZmU5ZDMxYjU4YzE1YjExOTQ3NTg3ZGUyMjY4OTc2ZjVjMWQw",
   "tracks": [
     {
       "added_at": "2024-03-06 02:11:55",
@@ -327,6 +327,22 @@
     {
       "added_at": "2024-03-06 02:11:55",
       "album": {
+        "name": "Me After You",
+        "url": "https://open.spotify.com/album/3Zvz3DnPC7UgRyiO8LprUt"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 280358,
+      "name": "Me After You",
+      "url": "https://open.spotify.com/track/3gucipmp9z0bf7pjEbtTX0"
+    },
+    {
+      "added_at": "2024-03-06 02:11:55",
+      "album": {
         "name": "BROWN EYED SOUL Single Project 1st. Living in the same time by Naul",
         "url": "https://open.spotify.com/album/7cFmhAzCqsNyfsuS4B2TlC"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 250480,
       "name": "Living in the same time",
       "url": "https://open.spotify.com/track/1IUqkIRRxO0CQSoEr6CLW2"
-    },
-    {
-      "added_at": "2024-03-06 02:11:55",
-      "album": {
-        "name": "SOLISTA Part.2",
-        "url": "https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA"
-      },
-      "artists": [
-        {
-          "name": "KIM BUMSOO",
-          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
-        }
-      ],
-      "duration_ms": 251689,
-      "name": "Last Love",
-      "url": "https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi"
     },
     {
       "added_at": "2024-03-06 02:11:55",
@@ -375,18 +375,18 @@
     {
       "added_at": "2024-03-06 02:11:55",
       "album": {
-        "name": "Me After You",
-        "url": "https://open.spotify.com/album/3Zvz3DnPC7UgRyiO8LprUt"
+        "name": "SOLISTA Part.2",
+        "url": "https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA"
       },
       "artists": [
         {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+          "name": "KIM BUMSOO",
+          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
         }
       ],
-      "duration_ms": 280358,
-      "name": "Me After You",
-      "url": "https://open.spotify.com/track/3gucipmp9z0bf7pjEbtTX0"
+      "duration_ms": 251689,
+      "name": "Last Love",
+      "url": "https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi"
     },
     {
       "added_at": "2024-03-06 02:11:55",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-03-06 02:11:55",
       "album": {
-        "name": "The day was beautiful",
-        "url": "https://open.spotify.com/album/0TlpkCmHNdH8Fdt0AnDGcF"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 235392,
-      "name": "The day was beautiful",
-      "url": "https://open.spotify.com/track/3LpAsXjqTQ5FUyptb2lujH"
-    },
-    {
-      "added_at": "2024-03-06 02:11:55",
-      "album": {
         "name": "Like Water - The 1st Mini Album",
         "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 255373,
       "name": "The Road",
       "url": "https://open.spotify.com/track/7cXJOM8t8pftyFgYp5Sm1N"
+    },
+    {
+      "added_at": "2024-03-06 02:11:55",
+      "album": {
+        "name": "The day was beautiful",
+        "url": "https://open.spotify.com/album/0TlpkCmHNdH8Fdt0AnDGcF"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 235392,
+      "name": "The day was beautiful",
+      "url": "https://open.spotify.com/track/3LpAsXjqTQ5FUyptb2lujH"
     },
     {
       "added_at": "2024-03-06 02:11:55",
@@ -535,22 +535,6 @@
       "duration_ms": 273292,
       "name": "Days without you",
       "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
-    },
-    {
-      "added_at": "2024-03-06 02:11:55",
-      "album": {
-        "name": "START-UP (Original Television Soundtrack) Pt. 15",
-        "url": "https://open.spotify.com/album/0xAoGTzx1tl2j6xuVoLg90"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "\ub0a0 \uc0ac\ub791\ud55c \ucc98\uc74c\uc758 \ub108\ub85c \ub3cc\uc544\uc640",
-      "url": "https://open.spotify.com/track/21gnQyyXCoEgDkq3kU9kWZ"
     },
     {
       "added_at": "2024-03-06 02:11:55",
@@ -607,6 +591,22 @@
       "duration_ms": 199577,
       "name": "Into My Heart",
       "url": "https://open.spotify.com/track/4gSZJTRH0LVTiKxBhv5JzH"
+    },
+    {
+      "added_at": "2024-03-06 02:11:55",
+      "album": {
+        "name": "START-UP (Original Television Soundtrack) Pt. 15",
+        "url": "https://open.spotify.com/album/0xAoGTzx1tl2j6xuVoLg90"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "\ub0a0 \uc0ac\ub791\ud55c \ucc98\uc74c\uc758 \ub108\ub85c \ub3cc\uc544\uc640",
+      "url": "https://open.spotify.com/track/21gnQyyXCoEgDkq3kU9kWZ"
     },
     {
       "added_at": "2024-03-06 02:11:55",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-03-06 02:11:55",
       "album": {
+        "name": "Eyebrow Moon",
+        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
+      },
+      "artists": [
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        }
+      ],
+      "duration_ms": 236693,
+      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
+      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
+    },
+    {
+      "added_at": "2024-03-06 02:11:55",
+      "album": {
         "name": "Meaningless",
         "url": "https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe"
       },
@@ -707,18 +723,18 @@
     {
       "added_at": "2024-03-06 02:11:55",
       "album": {
-        "name": "Eyebrow Moon",
-        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
+        "name": "\uc601\uc6d0\ud68c\uadc0 Eternal return",
+        "url": "https://open.spotify.com/album/2Ja2kwTKcN1ANA6qk0TVbt"
       },
       "artists": [
         {
-          "name": "Lee So Ra",
-          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+          "name": "GYE0M",
+          "url": "https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc"
         }
       ],
-      "duration_ms": 236693,
-      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
-      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
+      "duration_ms": 223965,
+      "name": "\uc601\uc6d0\ud68c\uadc0 Eternal return",
+      "url": "https://open.spotify.com/track/7yORm0vTVACc8r2K7Z0G6w"
     },
     {
       "added_at": "2024-03-06 02:11:55",
@@ -739,22 +755,6 @@
       "duration_ms": 262394,
       "name": "Sad ending (Feat. george)",
       "url": "https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F"
-    },
-    {
-      "added_at": "2024-03-06 02:11:55",
-      "album": {
-        "name": "\uc601\uc6d0\ud68c\uadc0 Eternal return",
-        "url": "https://open.spotify.com/album/2Ja2kwTKcN1ANA6qk0TVbt"
-      },
-      "artists": [
-        {
-          "name": "GYE0M",
-          "url": "https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc"
-        }
-      ],
-      "duration_ms": 223965,
-      "name": "\uc601\uc6d0\ud68c\uadc0 Eternal return",
-      "url": "https://open.spotify.com/track/7yORm0vTVACc8r2K7Z0G6w"
     },
     {
       "added_at": "2024-03-06 02:11:55",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-03-06 02:11:55",
       "album": {
-        "name": "My Liberation Notes OST Part 11",
-        "url": "https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A"
-      },
-      "artists": [
-        {
-          "name": "Kim Feel",
-          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
-        }
-      ],
-      "duration_ms": 259056,
-      "name": "Here We Are",
-      "url": "https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr"
-    },
-    {
-      "added_at": "2024-03-06 02:11:55",
-      "album": {
         "name": "The Other Side",
         "url": "https://open.spotify.com/album/0WkJMdNXAtv5UvJaBUeNRq"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 178666,
       "name": "How You Been",
       "url": "https://open.spotify.com/track/3dRrKVKeI1vFKqiOcO2vvJ"
+    },
+    {
+      "added_at": "2024-03-06 02:11:55",
+      "album": {
+        "name": "My Liberation Notes OST Part 11",
+        "url": "https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A"
+      },
+      "artists": [
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        }
+      ],
+      "duration_ms": 259056,
+      "name": "Here We Are",
+      "url": "https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr"
     },
     {
       "added_at": "2024-03-06 02:11:55",

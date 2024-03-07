@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDvpUgU6QYl.md) - [plain]
 
 > A groovy and soulful house collection\. Cover: Calvin Harris, Eliza Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,505 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,484 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDvpUgU6QYl.md) - [plain]
 | 34 | [The Big Easy](https://open.spotify.com/track/3Q4DJp31Dat8RoPN3KwpJy) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [The Big Easy](https://open.spotify.com/album/3zfEQld2beOeYmEU9uQONf) | 3:05 |
 | 35 | [This Track](https://open.spotify.com/track/4aultJJqviNskMrhj3Ji3N) | [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf), [Phunkadelica](https://open.spotify.com/artist/33cby3EjCXw067xjlgOzBj), [Ready In LED](https://open.spotify.com/artist/6VfpeLTukyuFbKMgQdeNkZ) | [The Weather Report, Vol\. 1](https://open.spotify.com/album/2hk8zHNUFuevB3xdG2wRbS) | 4:57 |
 | 36 | [Stereofunk](https://open.spotify.com/track/3SAR52lwPeSJ8VUybShs9y) | [Stereoclip](https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL) | [Stereofunk](https://open.spotify.com/album/0pBH1S9LXrBqlp47qsQrQ2) | 5:21 |
-| 37 | [Tell Me](https://open.spotify.com/track/7tRVTrvTIpYC15QvLkI3Tv) | [gome](https://open.spotify.com/artist/2kXp8r42AOwb6s5GzdiukU) | [Tell Me](https://open.spotify.com/album/1wR8GmaQ6xYVL1i1918Ilw) | 3:53 |
+| 37 | [Tell Me](https://open.spotify.com/track/1LiQJVCQ78nWOMRAGIlHgB) | [gome](https://open.spotify.com/artist/2kXp8r42AOwb6s5GzdiukU) | [Tell Me EP](https://open.spotify.com/album/0CcIISxMUzNAGCnCWOwSQI) | 3:53 |
 | 38 | [The One](https://open.spotify.com/track/0ZqgZiFqhDivCdXwltw7Up) | [Mohtiv](https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG) | [The One](https://open.spotify.com/album/2ImuqZJqJQ3ad6lM0Nwem2) | 2:46 |
 | 39 | [Minor Fools \- Edit](https://open.spotify.com/track/5Tnn9kaAshnriaS9jKeMio) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Minor Fools](https://open.spotify.com/album/1Av53Ax9wI3qTHSBpmYzKx) | 3:52 |
 | 40 | [Since \- Don Rimini Deep Mix](https://open.spotify.com/track/55osGD02FGA8u1IAhkLt48) | [Wouter S](https://open.spotify.com/artist/2FBOvuH967tVxaLwNzJSz1), [Huxley](https://open.spotify.com/artist/6fJvW51nWhRImJyos6O7sT), [Chicago Hustle](https://open.spotify.com/artist/4bY0OXeVVpfjDpPcEINBHR), [Don Rimini](https://open.spotify.com/artist/2IA2rAfPyDDhqqcu6UaSOM) | [Since \(Don Rimini Remixes\)](https://open.spotify.com/album/5emeek19G51hLqwav3nLtB) | 3:02 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDvpUgU6QYl.md) - [plain]
 | 59 | [Downstream](https://open.spotify.com/track/0XfRQzFsLzWuVeJh3iX5Tw) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Downstream](https://open.spotify.com/album/0brBvk7cCEKV8merp6uy8Z) | 2:55 |
 | 60 | [Take It Back \(feat\. Davie\)](https://open.spotify.com/track/60ILwSbZxEZ6qgYZMPAq4D) | [Mousse T.](https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6), [Davie](https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06) | [Take It Back \(feat\. Davie\)](https://open.spotify.com/album/5NN6jIlYaOhjirtYiGuPNr) | 3:36 |
 
-Snapshot ID: `MCw2YmM2NDcwZGZjMDA4YzUyYjNhYTE1YzZmNjBiNGNkYTE5Yjc3ZTlm`
+Snapshot ID: `MCxhYmJhMTk4ODI4Mjc2ODY2NWVkNjQxODcwZDdkODc1MzVkYmNhYzIx`

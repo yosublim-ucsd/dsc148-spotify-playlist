@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 376523,
+  "num_followers": 376556,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDg4YmQ4NTY1N2FiOTFkMDYxMmM2ZGIyMzExNjY5OWE0YTlkZTQ3",
+  "snapshot_id": "MCxjZDA0N2M2NDE3ZmNhMTkxY2UyMDg2ZGFmMTdlYTM2OGFhNmJiYTY4",
   "tracks": [
     {
       "added_at": "2023-01-11 21:01:15",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "And In The Darkness, Hearts Aglow",
-        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 262400,
-      "name": "Twin Flame",
-      "url": "https://open.spotify.com/track/2HZasNmIAzprwJjFLPoSGM"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Optimist",
         "url": "https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 167551,
       "name": "The Kids Are All Dying",
       "url": "https://open.spotify.com/track/0BNmGdxb8St6XZF4kYAQsX"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "And In The Darkness, Hearts Aglow",
+        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 262400,
+      "name": "Twin Flame",
+      "url": "https://open.spotify.com/track/2HZasNmIAzprwJjFLPoSGM"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -479,22 +479,18 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "False Art",
-        "url": "https://open.spotify.com/album/4AkKVNM05Pf48mQVhAj5SZ"
+        "name": "Mangaliso",
+        "url": "https://open.spotify.com/album/1fXiO7h7dDB3RBG13jLh8A"
       },
       "artists": [
         {
-          "name": "Ben Kessler",
-          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
-        },
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+          "name": "Bongeziwe Mabandla",
+          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
         }
       ],
-      "duration_ms": 183454,
-      "name": "False Art",
-      "url": "https://open.spotify.com/track/5eBZPQjBjCRXKsu9DnfS21"
+      "duration_ms": 231625,
+      "name": "Ndokulandela",
+      "url": "https://open.spotify.com/track/1kQjyyI3xZixtByFizxlXE"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -515,18 +511,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Mangaliso",
-        "url": "https://open.spotify.com/album/1fXiO7h7dDB3RBG13jLh8A"
+        "name": "False Art",
+        "url": "https://open.spotify.com/album/4AkKVNM05Pf48mQVhAj5SZ"
       },
       "artists": [
         {
-          "name": "Bongeziwe Mabandla",
-          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
+          "name": "Ben Kessler",
+          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 231625,
-      "name": "Ndokulandela",
-      "url": "https://open.spotify.com/track/1kQjyyI3xZixtByFizxlXE"
+      "duration_ms": 183454,
+      "name": "False Art",
+      "url": "https://open.spotify.com/track/5eBZPQjBjCRXKsu9DnfS21"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Roses & Revolutions",
-        "url": "https://open.spotify.com/album/4OfwTpLOdw2arj9V8rN1zi"
-      },
-      "artists": [
-        {
-          "name": "Roses & Revolutions",
-          "url": "https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l"
-        }
-      ],
-      "duration_ms": 187466,
-      "name": "The Pines",
-      "url": "https://open.spotify.com/track/78YCcccbjHCFBFnboEBtpg"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Awaken (Feel Alive)",
         "url": "https://open.spotify.com/album/3LjP2mnsPooNbNG5faylZH"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 180204,
       "name": "Awaken (Feel Alive)",
       "url": "https://open.spotify.com/track/2qTWIlRARiTrE5MIO1Q0HE"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Roses & Revolutions",
+        "url": "https://open.spotify.com/album/4OfwTpLOdw2arj9V8rN1zi"
+      },
+      "artists": [
+        {
+          "name": "Roses & Revolutions",
+          "url": "https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l"
+        }
+      ],
+      "duration_ms": 187466,
+      "name": "The Pines",
+      "url": "https://open.spotify.com/track/78YCcccbjHCFBFnboEBtpg"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Julia (deep diving)",
-        "url": "https://open.spotify.com/album/2HJCdduuXbN70tTNQyuFQn"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 274500,
-      "name": "Julia (deep diving)",
-      "url": "https://open.spotify.com/track/5DHSlpd0MX9DfnoAQqolfa"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Two Steps",
         "url": "https://open.spotify.com/album/7mnUY7L09wxAiEp6ERMbjI"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 242000,
       "name": "Two Steps",
       "url": "https://open.spotify.com/track/6iPfkO3MvKEZcD7OnGWzFB"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Julia (deep diving)",
+        "url": "https://open.spotify.com/album/2HJCdduuXbN70tTNQyuFQn"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 274500,
+      "name": "Julia (deep diving)",
+      "url": "https://open.spotify.com/track/5DHSlpd0MX9DfnoAQqolfa"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Concrete",
-        "url": "https://open.spotify.com/album/4ZdyRUMRbY9plmxLjQtkF1"
-      },
-      "artists": [
-        {
-          "name": "Ben Kessler",
-          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
-        }
-      ],
-      "duration_ms": 152051,
-      "name": "Concrete",
-      "url": "https://open.spotify.com/track/7HGwpUzbvszA3q7pnokHkY"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Life After Defo",
         "url": "https://open.spotify.com/album/2SWmXOdNAbDfXeIYaE8iOW"
       },
@@ -1063,18 +1047,18 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "First Contact",
-        "url": "https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf"
+        "name": "Concrete",
+        "url": "https://open.spotify.com/album/4ZdyRUMRbY9plmxLjQtkF1"
       },
       "artists": [
         {
-          "name": "Lastlings",
-          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
+          "name": "Ben Kessler",
+          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
         }
       ],
-      "duration_ms": 236173,
-      "name": "No Time",
-      "url": "https://open.spotify.com/track/1FG2lH6gxJCX94kOg2Sozp"
+      "duration_ms": 152051,
+      "name": "Concrete",
+      "url": "https://open.spotify.com/track/7HGwpUzbvszA3q7pnokHkY"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1091,6 +1075,22 @@
       "duration_ms": 212773,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/5m77d1ztVTdZN9FevK9TE1"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "First Contact",
+        "url": "https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf"
+      },
+      "artists": [
+        {
+          "name": "Lastlings",
+          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
+        }
+      ],
+      "duration_ms": 236173,
+      "name": "No Time",
+      "url": "https://open.spotify.com/track/1FG2lH6gxJCX94kOg2Sozp"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Wake",
+        "url": "https://open.spotify.com/album/2GW5H0LObDv7faLyzGgMQi"
+      },
+      "artists": [
+        {
+          "name": "Colouring",
+          "url": "https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Fading",
+      "url": "https://open.spotify.com/track/7lKl0UjUeIE3KJMTnn8CMW"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "For The Very Last Time",
         "url": "https://open.spotify.com/album/6kJB5oD7RKL6eJFtMWmNTn"
       },
@@ -1263,18 +1279,18 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Wake",
-        "url": "https://open.spotify.com/album/2GW5H0LObDv7faLyzGgMQi"
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/6HcXFfZ41boaTaIwGa3oPh"
       },
       "artists": [
         {
-          "name": "Colouring",
-          "url": "https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU"
+          "name": "ELLIANA",
+          "url": "https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT"
         }
       ],
-      "duration_ms": 202500,
-      "name": "Fading",
-      "url": "https://open.spotify.com/track/7lKl0UjUeIE3KJMTnn8CMW"
+      "duration_ms": 266036,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1299,22 +1315,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Nirvana",
-        "url": "https://open.spotify.com/album/6HcXFfZ41boaTaIwGa3oPh"
-      },
-      "artists": [
-        {
-          "name": "ELLIANA",
-          "url": "https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT"
-        }
-      ],
-      "duration_ms": 266036,
-      "name": "Nirvana",
-      "url": "https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "YOUNG",
         "url": "https://open.spotify.com/album/5X20kbbHdgPgFItjuHggIm"
       },
@@ -1327,26 +1327,6 @@
       "duration_ms": 168933,
       "name": "Nighttime Hunger",
       "url": "https://open.spotify.com/track/4IE6Oa1YTTu0aICULOzXPn"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "6 Letters",
-        "url": "https://open.spotify.com/album/1hanBCpxNcew4qx4g7nME2"
-      },
-      "artists": [
-        {
-          "name": "Daktyl",
-          "url": "https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ"
-        },
-        {
-          "name": "Aquilo",
-          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
-        }
-      ],
-      "duration_ms": 166469,
-      "name": "6 Letters",
-      "url": "https://open.spotify.com/track/1MJi765hSvWGBxCoxYeQsn"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1367,6 +1347,26 @@
       "duration_ms": 340729,
       "name": "What Kinda Music - Jordan Rakei Remix",
       "url": "https://open.spotify.com/track/0FMgzGbCh8yNMibGY5L2cM"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "6 Letters",
+        "url": "https://open.spotify.com/album/1hanBCpxNcew4qx4g7nME2"
+      },
+      "artists": [
+        {
+          "name": "Daktyl",
+          "url": "https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ"
+        },
+        {
+          "name": "Aquilo",
+          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
+        }
+      ],
+      "duration_ms": 166469,
+      "name": "6 Letters",
+      "url": "https://open.spotify.com/track/1MJi765hSvWGBxCoxYeQsn"
     },
     {
       "added_at": "2023-01-11 21:01:15",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 
 > Hottest Hindi music served here\. Cover \- Animal
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,020,269 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,021,849 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 | 43 | [Ve Kamleya \(From "Rocky Aur Rani Kii Prem Kahaani"\)](https://open.spotify.com/track/1AmwIgy0WYLJJ5e24aCFTm) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Shadab Faridi](https://open.spotify.com/artist/6WixbETKEXH0xBf0OB9kRB), [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Ve Kamleya \(From "Rocky Aur Rani Kii Prem Kahaani"\)](https://open.spotify.com/album/7q4DcFIuSUzOoQs3QMvwNe) | 4:06 |
 | 44 | [Naseeb Se \(From "Satyaprem Ki Katha"\)](https://open.spotify.com/track/3dpM3ijJz0vGzbkh5DcMXz) | [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [A.M\. Turaz](https://open.spotify.com/artist/7uvFUOwVvse3izyeVufnl9) | [Naseeb Se \(From "Satyaprem Ki Katha"\)](https://open.spotify.com/album/0wjqUAQ7YkdRqTcDjzkepU) | 3:04 |
 | 45 | [Besharam Rang \(From "Pathaan"\)](https://open.spotify.com/track/0CtZpaOhtzvLV3FfcsVpQo) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Caralisa Monteiro](https://open.spotify.com/artist/2Yf4MRVpt0rcAd5y5h5ph1), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Besharam Rang \(From "Pathaan"\)](https://open.spotify.com/album/5CvI5ppsG522pV554VLezD) | 4:18 |
-| 46 | [Sanak](https://open.spotify.com/track/3SiQsAVS3CDJQzWPRyX1XP) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Lakhwinder Wadali](https://open.spotify.com/artist/1SAfLgPPu8S6NWUJES6LNO) | [3:00 AM Sessions](https://open.spotify.com/album/7o9sqNRikTO3eeira2Qlx2) | 1:55 |
+| 46 | [Sanak](https://open.spotify.com/track/3SiQsAVS3CDJQzWPRyX1XP) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Lakhwinder Wadali](https://open.spotify.com/artist/1SAfLgPPu8S6NWUJES6LNO), [Lucky Noor](https://open.spotify.com/artist/0bQPM1J8HE8A3vZEUG1VW7) | [3:00 AM Sessions](https://open.spotify.com/album/7o9sqNRikTO3eeira2Qlx2) | 1:55 |
 | 47 | [Rang Lageya](https://open.spotify.com/track/4svSc7BE6r9xMEk0GosnVu) | [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe) | [Rang Lageya \- Single](https://open.spotify.com/album/0qLoPEAr0CLQfEJRtzRb1r) | 3:47 |
 | 48 | [Kahani Suno 2.0](https://open.spotify.com/track/4VsP4Dm8gsibRxB5I2hEkw) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Kahani Suno 2.0](https://open.spotify.com/album/6BHlJhCk1vjCG6hqTG2SFV) | 2:53 |
 | 49 | [Kesariya](https://open.spotify.com/track/4UMIv5jd9gK98a39BQRD9X) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Brahmastra \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4kIPlpwEZBK9JaI9pZHe79) | 4:28 |
 | 50 | [Tu Mile Dil Khile](https://open.spotify.com/track/6SnqFFm7Qp68efuVygvwtU) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq) | [Tu Mile Dil Khile \- Single](https://open.spotify.com/album/5ZdPS2Lm1DvnFwni3DX4pm) | 3:17 |
 
-Snapshot ID: `MCw0MjA4MzgxNWU4MGQyYjc5NzZjZGFjNDhlNTgyMGYwM2ZjYmVjZWE5`
+Snapshot ID: `MCw3ZTRiNTc5ODM1ZTBjZWZhNjkyNDJjZjYzZjAyZmY5ZDY3NjdjYmY3`

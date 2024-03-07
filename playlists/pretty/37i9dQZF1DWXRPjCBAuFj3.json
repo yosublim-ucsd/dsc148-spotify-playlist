@@ -1,12 +1,12 @@
 {
   "description": "Il rap pi\u00f9 forte del mondo in una sola playlist. Cover: Central Cee",
-  "num_followers": 207985,
+  "num_followers": 207987,
   "original_name": "Rap Internazionale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjAzY2FjZGU0YTdkMjg2ODNmMDkxNDlkNGZkNzUwNmRjNDA3ZmU4",
+  "snapshot_id": "MCxjZGEyZWI1MTM0NGU4ODg5YzFjZDQ0OTBlYjU5MzM2NzU0M2NhMzQ5",
   "tracks": [
     {
       "added_at": "2024-03-05 16:03:41",
@@ -1003,22 +1003,18 @@
     {
       "added_at": "2024-03-05 16:03:41",
       "album": {
-        "name": "Pink Friday 2",
-        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+        "name": "dont let me go",
+        "url": "https://open.spotify.com/album/6VA6WgquH5zBIfIDz5IMKb"
       },
       "artists": [
         {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
         }
       ],
-      "duration_ms": 235689,
-      "name": "Needle (feat. Drake)",
-      "url": "https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91"
+      "duration_ms": 173858,
+      "name": "dont let me go",
+      "url": "https://open.spotify.com/track/2qvGI2uUNgNheWnfxQr25W"
     },
     {
       "added_at": "2024-03-05 16:03:41",
@@ -1039,18 +1035,22 @@
     {
       "added_at": "2024-03-05 16:03:41",
       "album": {
-        "name": "dont let me go",
-        "url": "https://open.spotify.com/album/6VA6WgquH5zBIfIDz5IMKb"
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
       },
       "artists": [
         {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 173858,
-      "name": "dont let me go",
-      "url": "https://open.spotify.com/track/2qvGI2uUNgNheWnfxQr25W"
+      "duration_ms": 235689,
+      "name": "Needle (feat. Drake)",
+      "url": "https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91"
     },
     {
       "added_at": "2024-03-05 16:03:41",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2024-03-05 16:03:41",
       "album": {
+        "name": "AD VITAM \u00c6TERNAM",
+        "url": "https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM"
+      },
+      "artists": [
+        {
+          "name": "Booba",
+          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
+        }
+      ],
+      "duration_ms": 194540,
+      "name": "Saga",
+      "url": "https://open.spotify.com/track/0Cnw4vb7xbbl6bkUaDcMaJ"
+    },
+    {
+      "added_at": "2024-03-05 16:03:41",
+      "album": {
         "name": "Stop Giving Me Advice",
         "url": "https://open.spotify.com/album/0JhzjAau8sB1yiU8HzS3vv"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 242453,
       "name": "Stop Giving Me Advice (with Jack Harlow & Dave)",
       "url": "https://open.spotify.com/track/6j3wDNKqEeZ6QwPtCcpJX8"
-    },
-    {
-      "added_at": "2024-03-05 16:03:41",
-      "album": {
-        "name": "AD VITAM \u00c6TERNAM",
-        "url": "https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM"
-      },
-      "artists": [
-        {
-          "name": "Booba",
-          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
-        }
-      ],
-      "duration_ms": 194540,
-      "name": "Saga",
-      "url": "https://open.spotify.com/track/0Cnw4vb7xbbl6bkUaDcMaJ"
     },
     {
       "added_at": "2024-03-05 16:03:41",
@@ -1443,26 +1443,6 @@
       "duration_ms": 283493,
       "name": "J\u2019comprends pas",
       "url": "https://open.spotify.com/track/1CxtymiucDK0AB9vgGZ6q2"
-    },
-    {
-      "added_at": "2024-03-05 16:03:41",
-      "album": {
-        "name": "Blue Porsche (feat. Niska)",
-        "url": "https://open.spotify.com/album/3cawKdKtM97thqBmQBuAnN"
-      },
-      "artists": [
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        }
-      ],
-      "duration_ms": 186479,
-      "name": "Blue Porsche (feat. Niska)",
-      "url": "https://open.spotify.com/track/3gOVMei7c4BD6oIfed24dc"
     },
     {
       "added_at": "2024-03-05 16:03:41",
@@ -1507,6 +1487,26 @@
       "duration_ms": 227478,
       "name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",
       "url": "https://open.spotify.com/track/2MbdDtCv5LUVjYy9RuGTgC"
+    },
+    {
+      "added_at": "2024-03-05 16:03:41",
+      "album": {
+        "name": "Blue Porsche (feat. Niska)",
+        "url": "https://open.spotify.com/album/3cawKdKtM97thqBmQBuAnN"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "duration_ms": 186479,
+      "name": "Blue Porsche (feat. Niska)",
+      "url": "https://open.spotify.com/track/3gOVMei7c4BD6oIfed24dc"
     },
     {
       "added_at": "2024-03-05 16:03:41",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2024-03-05 16:03:41",
       "album": {
+        "name": "BLUE LIPS",
+        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "duration_ms": 177260,
+      "name": "THank god 4 me",
+      "url": "https://open.spotify.com/track/7CwO2esrH095tjxmJVMY2E"
+    },
+    {
+      "added_at": "2024-03-05 16:03:41",
+      "album": {
         "name": "L's",
         "url": "https://open.spotify.com/album/6K1JXpnMjEoak85BbmZypZ"
       },
@@ -1655,22 +1671,6 @@
     {
       "added_at": "2024-03-05 16:03:41",
       "album": {
-        "name": "BLUE LIPS",
-        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
-      },
-      "artists": [
-        {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
-        }
-      ],
-      "duration_ms": 177260,
-      "name": "THank god 4 me",
-      "url": "https://open.spotify.com/track/7CwO2esrH095tjxmJVMY2E"
-    },
-    {
-      "added_at": "2024-03-05 16:03:41",
-      "album": {
         "name": "Algo Muy Raro",
         "url": "https://open.spotify.com/album/5jOrASa3lROVzsv8K1pCbO"
       },
@@ -1683,26 +1683,6 @@
       "duration_ms": 189864,
       "name": "Algo Muy Raro",
       "url": "https://open.spotify.com/track/1iolp9g0bzkeryDL4t2ub0"
-    },
-    {
-      "added_at": "2024-03-05 16:03:41",
-      "album": {
-        "name": "JEALOUSY (feat. Cardi B)",
-        "url": "https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 174466,
-      "name": "JEALOUSY (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"
     },
     {
       "added_at": "2024-03-05 16:03:41",
@@ -1727,6 +1707,26 @@
       "duration_ms": 207454,
       "name": "Tony Montana",
       "url": "https://open.spotify.com/track/3mARtPEP8hi1LzMctEwVN4"
+    },
+    {
+      "added_at": "2024-03-05 16:03:41",
+      "album": {
+        "name": "JEALOUSY (feat. Cardi B)",
+        "url": "https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 174466,
+      "name": "JEALOUSY (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"
     },
     {
       "added_at": "2024-03-05 16:03:41",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2024-03-05 16:03:41",
       "album": {
+        "name": "Right On",
+        "url": "https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 213975,
+      "name": "Right On",
+      "url": "https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ"
+    },
+    {
+      "added_at": "2024-03-05 16:03:41",
+      "album": {
         "name": "Long Story Short",
         "url": "https://open.spotify.com/album/5Nzk5vGBrgjl9Ll8vk8m2q"
       },
@@ -1811,18 +1827,22 @@
     {
       "added_at": "2024-03-05 16:03:41",
       "album": {
-        "name": "Right On",
-        "url": "https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p"
+        "name": "BLUE LIPS",
+        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
         }
       ],
-      "duration_ms": 213975,
-      "name": "Right On",
-      "url": "https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ"
+      "duration_ms": 291038,
+      "name": "oHio (feat. Freddie Gibbs)",
+      "url": "https://open.spotify.com/track/4Aa6NtW6JQcFEvR831K8xu"
     },
     {
       "added_at": "2024-03-05 16:03:41",
@@ -1915,26 +1935,6 @@
     {
       "added_at": "2024-03-05 16:03:41",
       "album": {
-        "name": "BLUE LIPS",
-        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
-      },
-      "artists": [
-        {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 291038,
-      "name": "oHio (feat. Freddie Gibbs)",
-      "url": "https://open.spotify.com/track/4Aa6NtW6JQcFEvR831K8xu"
-    },
-    {
-      "added_at": "2024-03-05 16:03:41",
-      "album": {
         "name": "INNOCENTE (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2YFcUMTsjVjOx4tdp3MmH3"
       },
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2024-03-05 16:03:41",
       "album": {
-        "name": "City Lights",
-        "url": "https://open.spotify.com/album/1lfQlXzzgUbMBNQmyrDBhp"
-      },
-      "artists": [
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        }
-      ],
-      "duration_ms": 236998,
-      "name": "City Lights",
-      "url": "https://open.spotify.com/track/53RtHfvyr0f6yj1uLy5bxY"
-    },
-    {
-      "added_at": "2024-03-05 16:03:41",
-      "album": {
         "name": "Faut pas",
         "url": "https://open.spotify.com/album/6RlAxkB6DUlh0XPab49uXn"
       },
@@ -2007,6 +1991,38 @@
       "duration_ms": 138933,
       "name": "Faut pas",
       "url": "https://open.spotify.com/track/48d98Nlj1XKXxzo9KDBx0H"
+    },
+    {
+      "added_at": "2024-03-05 16:03:41",
+      "album": {
+        "name": "City Lights",
+        "url": "https://open.spotify.com/album/1lfQlXzzgUbMBNQmyrDBhp"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 236998,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/53RtHfvyr0f6yj1uLy5bxY"
+    },
+    {
+      "added_at": "2024-03-05 16:03:41",
+      "album": {
+        "name": "GRAMMY PARTY",
+        "url": "https://open.spotify.com/album/5aQudJscNXXYyKj8VQorfi"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 110881,
+      "name": "GRAMMY PARTY",
+      "url": "https://open.spotify.com/track/3P7IwlmZ5HMZb9L2NIlJUR"
     },
     {
       "added_at": "2024-03-05 16:03:41",
@@ -2039,22 +2055,6 @@
       "duration_ms": 132743,
       "name": "Adrenalean",
       "url": "https://open.spotify.com/track/0klIln517VMntb0BAesVuR"
-    },
-    {
-      "added_at": "2024-03-05 16:03:41",
-      "album": {
-        "name": "GRAMMY PARTY",
-        "url": "https://open.spotify.com/album/5aQudJscNXXYyKj8VQorfi"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 110881,
-      "name": "GRAMMY PARTY",
-      "url": "https://open.spotify.com/track/3P7IwlmZ5HMZb9L2NIlJUR"
     },
     {
       "added_at": "2024-03-05 16:03:41",
@@ -2119,6 +2119,22 @@
     {
       "added_at": "2024-03-05 16:03:41",
       "album": {
+        "name": "Socials",
+        "url": "https://open.spotify.com/album/3wIFD68W3eGHj0Yx5C8I4r"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        }
+      ],
+      "duration_ms": 165139,
+      "name": "Socials",
+      "url": "https://open.spotify.com/track/4lXM4G3waswwheaVOhKPKZ"
+    },
+    {
+      "added_at": "2024-03-05 16:03:41",
+      "album": {
         "name": "Fr\u00e8res Ennemis",
         "url": "https://open.spotify.com/album/2BBiqL9LvtK9Dk9aYBEsGC"
       },
@@ -2159,26 +2175,6 @@
     {
       "added_at": "2024-03-05 16:03:41",
       "album": {
-        "name": "Orange",
-        "url": "https://open.spotify.com/album/356cpEJ1ccLK6aAx99hWJK"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        }
-      ],
-      "duration_ms": 200357,
-      "name": "Orange",
-      "url": "https://open.spotify.com/track/7jvwORp293fGCP6KfmE8aQ"
-    },
-    {
-      "added_at": "2024-03-05 16:03:41",
-      "album": {
         "name": "Moonwalking in Calabasas (feat. Blueface) [Remix]",
         "url": "https://open.spotify.com/album/1z02WpEdAuImwfySk43owY"
       },
@@ -2195,6 +2191,26 @@
       "duration_ms": 170232,
       "name": "Moonwalking in Calabasas (feat. Blueface) - Remix",
       "url": "https://open.spotify.com/track/7o4gBbTM6UBLkOYPw9xMCz"
+    },
+    {
+      "added_at": "2024-03-05 16:03:41",
+      "album": {
+        "name": "Orange",
+        "url": "https://open.spotify.com/album/356cpEJ1ccLK6aAx99hWJK"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "duration_ms": 200357,
+      "name": "Orange",
+      "url": "https://open.spotify.com/track/7jvwORp293fGCP6KfmE8aQ"
     },
     {
       "added_at": "2024-03-05 16:03:41",
@@ -2235,22 +2251,6 @@
       "duration_ms": 138591,
       "name": "Don\u2019t Lie (feat. Nemzzz)",
       "url": "https://open.spotify.com/track/6tgfPk01WoB2cK78rDEq2m"
-    },
-    {
-      "added_at": "2024-03-05 16:03:41",
-      "album": {
-        "name": "Socials",
-        "url": "https://open.spotify.com/album/3wIFD68W3eGHj0Yx5C8I4r"
-      },
-      "artists": [
-        {
-          "name": "Headie One",
-          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
-        }
-      ],
-      "duration_ms": 165139,
-      "name": "Socials",
-      "url": "https://open.spotify.com/track/4lXM4G3waswwheaVOhKPKZ"
     },
     {
       "added_at": "2024-03-05 16:03:41",

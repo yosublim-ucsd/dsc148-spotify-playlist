@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Idina Menzel
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,410 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,472 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 99 | [Flirt](https://open.spotify.com/track/6Sg48ILcSWhiRBw3ToBzsF) | [Camille Trust](https://open.spotify.com/artist/5ZuKNJpsYPbL7vWMKQ1PCf), [jayo](https://open.spotify.com/artist/1kBx4RzRD8An5pUEDBGZQ9) | [Flirt](https://open.spotify.com/album/0uKryq3qttBTyvUVakRPRO) | 3:02 |
 | 100 | [Under the Light](https://open.spotify.com/track/26nQDOgXY2mZ6xAlHIdymY) | [LeMarquis](https://open.spotify.com/artist/6w9iqkoyGAs9PRssKIvq9G) | [Origin](https://open.spotify.com/album/6sCftII6Jd2YAU3Yxs9Cw8) | 2:48 |
 
-Snapshot ID: `MCwzNmExYTQ5NDM5ODM1NGYzOTkwOGMwYzg2OTI0NTU4NGQ3NzEyMmMz`
+Snapshot ID: `MCw2YTllMGRkYmIzN2M2YmVlZjEwZGIyZmFiMDRlZTYyMDlkZGQ0OTE2`

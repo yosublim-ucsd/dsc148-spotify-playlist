@@ -4,7 +4,7 @@
 
 > Enjoy mysterious and dreamy music as if walking in a dream\. \(꿈 속을 거닐듯 신비롭고 몽환적인 음악들을 즐겨보세요.\)
 
-88 songs - 5 hr 6 min
+89 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [You know, I..](https://open.spotify.com/track/6kkFS4iHPPDvmoIElvJgO6) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd), [soo](https://open.spotify.com/artist/1khmDqbxa3nA9hWtPLuHqW) | [Dreaming](https://open.spotify.com/album/7IzsDD8eL1pq38mXO6q0Yc) | 2:56 | 2023-02-08 |  |
 | [You’re mine, You!](https://open.spotify.com/track/3qoBzjth2rDTVXlzhL2lTd) | [Shin Youme](https://open.spotify.com/artist/4h4EHI7XsI5L2kTIPqUXPn) | [You're mine, You!](https://open.spotify.com/album/1bBFrkrEpLG0RhiglXbPLT) | 3:52 | 2024-01-08 |  |
 | [걸어서 달까지 walk to the moon \(feat\. kim seungyoon\)](https://open.spotify.com/track/6KK53NBegVg1DjUh9w5Wtn) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB), [kim seungyoon](https://open.spotify.com/artist/4JLS2R4A5ob8Fra7UpUtBI) | [걸어서 달까지 walk to the moon \(feat\. kim seungyoon\)](https://open.spotify.com/album/0BgBKmOe0WnWjMkVuxLSAS) | 3:18 | 2023-08-25 |  |
-| [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043) | 3:30 | 2023-02-08 |  |
+| [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/track/45ryK5kAHyUxV1C73fdur5) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [긴 밤 \(feat\. Giriboy\)](https://open.spotify.com/album/3CaluwPodNVRAnYCtZW3YA) | 3:30 | 2024-03-05 |  |
+| [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043) | 3:30 | 2023-02-08 | 2024-03-07 |
 | [목욕해](https://open.spotify.com/track/7vvakctfHY7xQB3kKAz2B9) | [Cherry Coke](https://open.spotify.com/artist/7EuKZk7nDtXrYI6QNTmtKi) | [목욕해](https://open.spotify.com/album/4NUMVg27eQ6OScjETNP5Ra) | 3:01 | 2023-02-08 |  |
 
 \*This playlist was first scraped on 2023-02-09. Prior content cannot be recovered.

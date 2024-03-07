@@ -1,12 +1,12 @@
 {
   "description": "Holiday classics from your favourite punks. ",
-  "num_followers": 63085,
+  "num_followers": 63078,
   "original_name": "Punk Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2M2Y2ExNjNjZDJkYzg3OThkMjViNTY1ZjYyODgwODY4NmY0YmJm",
+  "snapshot_id": "MCxkYmU2YzVjYmQ5ZDI4MTIwMzAxYjVmOTJhMjlmYTc0ZTEwY2Q0NmZm",
   "tracks": [
     {
       "added_at": "2023-11-18 13:41:26",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Bleed American (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 267773,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/6VV8EboIsnmgv8Yy11g6Ww"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Punk Goes Christmas",
         "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 207000,
       "name": "This Christmas (I'll Burn It To The Ground)",
       "url": "https://open.spotify.com/track/4lc26OWTRFdEZediB0picq"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Bleed American (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 267773,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/6VV8EboIsnmgv8Yy11g6Ww"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Christmas With Weezer",
-        "url": "https://open.spotify.com/album/0CxHijFYwiAVHCGmwN0hAq"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 124653,
-      "name": "O Come All Ye Faithful",
-      "url": "https://open.spotify.com/track/7dM5NHRKrNUCDJQbn9KsGS"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "The World Is In Your Way (Deluxe Edition)",
         "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 214733,
       "name": "This Holiday",
       "url": "https://open.spotify.com/track/54eW8IPftlUPqOWhjNXLIx"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Christmas With Weezer",
+        "url": "https://open.spotify.com/album/0CxHijFYwiAVHCGmwN0hAq"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 124653,
+      "name": "O Come All Ye Faithful",
+      "url": "https://open.spotify.com/track/7dM5NHRKrNUCDJQbn9KsGS"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Winter Wonderland",
-        "url": "https://open.spotify.com/album/6PLIjkHMclkP8Bfr209blv"
-      },
-      "artists": [
-        {
-          "name": "Plain White T's",
-          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
-        }
-      ],
-      "duration_ms": 121931,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/1p95JMdRImM00RePtDOqMS"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Punk Goes Christmas (Deluxe)",
         "url": "https://open.spotify.com/album/6pj3sxkEUpAOlix05HpxmF"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 207255,
       "name": "12 Days Of A Pop-Punk Christmas",
       "url": "https://open.spotify.com/track/3a0JYuE4yo9xtGon59a7t9"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/6PLIjkHMclkP8Bfr209blv"
+      },
+      "artists": [
+        {
+          "name": "Plain White T's",
+          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
+        }
+      ],
+      "duration_ms": 121931,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/1p95JMdRImM00RePtDOqMS"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
+        "name": "Jack Skellington",
+        "url": "https://open.spotify.com/album/3F0gEqWQO2FXYcSSmSPcZp"
+      },
+      "artists": [
+        {
+          "name": "The Jins",
+          "url": "https://open.spotify.com/artist/5WvFLGeK0O8imCwfQF1j3b"
+        }
+      ],
+      "duration_ms": 173695,
+      "name": "Jack Skellington",
+      "url": "https://open.spotify.com/track/3n6jtHaCd5Jf06akv6B8Ue"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
         "name": "Merry MeX-mas",
         "url": "https://open.spotify.com/album/1pkoU5zx8QKbfaNdLcTvY4"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 174893,
       "name": "Alone This Holiday - Recorded for KROQ",
       "url": "https://open.spotify.com/track/2JeHW3MNfFLHxmVjfJ40LN"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
-        "name": "Jack Skellington",
-        "url": "https://open.spotify.com/album/3F0gEqWQO2FXYcSSmSPcZp"
-      },
-      "artists": [
-        {
-          "name": "The Jins",
-          "url": "https://open.spotify.com/artist/5WvFLGeK0O8imCwfQF1j3b"
-        }
-      ],
-      "duration_ms": 173695,
-      "name": "Jack Skellington",
-      "url": "https://open.spotify.com/track/3n6jtHaCd5Jf06akv6B8Ue"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "December's Here",
-        "url": "https://open.spotify.com/album/32cEyEa1AdPfMi79rJh6uN"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 179054,
-      "name": "December's Here",
-      "url": "https://open.spotify.com/track/0CdxsUc8w4yjuMLD0hB4BC"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "It's Christmas And I Fucking Miss You",
         "url": "https://open.spotify.com/album/59gyPN2FnzfC6w9mrkebEn"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 161083,
       "name": "It's Christmas And I Fucking Miss You",
       "url": "https://open.spotify.com/track/2FZmLofghTBI3Gq6HhOxuz"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "December's Here",
+        "url": "https://open.spotify.com/album/32cEyEa1AdPfMi79rJh6uN"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 179054,
+      "name": "December's Here",
+      "url": "https://open.spotify.com/track/0CdxsUc8w4yjuMLD0hB4BC"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Snow",
-        "url": "https://open.spotify.com/album/29BjO5ddpVEfIn9vtlNXi2"
+        "name": "Stoke Extinguisher",
+        "url": "https://open.spotify.com/album/0SS7CfFFNUNdpAgL3NRma7"
       },
       "artists": [
         {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 216115,
-      "name": "Snow",
-      "url": "https://open.spotify.com/track/4hbBgVnirgzG4TggZhkL4U"
+      "duration_ms": 139133,
+      "name": "New Year's Revolution",
+      "url": "https://open.spotify.com/track/55traEc0RnXsRFajtZZMDd"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Stoke Extinguisher",
-        "url": "https://open.spotify.com/album/0SS7CfFFNUNdpAgL3NRma7"
+        "name": "Snow",
+        "url": "https://open.spotify.com/album/29BjO5ddpVEfIn9vtlNXi2"
       },
       "artists": [
         {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 139133,
-      "name": "New Year's Revolution",
-      "url": "https://open.spotify.com/track/55traEc0RnXsRFajtZZMDd"
+      "duration_ms": 216115,
+      "name": "Snow",
+      "url": "https://open.spotify.com/track/4hbBgVnirgzG4TggZhkL4U"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Christmas Rock",
-        "url": "https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2"
-      },
-      "artists": [
-        {
-          "name": "The Mighty Mighty Bosstones",
-          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
-        }
-      ],
-      "duration_ms": 177640,
-      "name": "X'Mas Time (It Sure Doesn't Feel Like It)",
-      "url": "https://open.spotify.com/track/30HWEKPozyqnJ8ARfVnoT2"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Merry Flippin' Christmas Vol. 1",
         "url": "https://open.spotify.com/album/3Y8kaXAtVFjNucAIA9yLPJ"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 217573,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/13NDr2rDKQqRu9NeWekDum"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Christmas Rock",
+        "url": "https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2"
+      },
+      "artists": [
+        {
+          "name": "The Mighty Mighty Bosstones",
+          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+        }
+      ],
+      "duration_ms": 177640,
+      "name": "X'Mas Time (It Sure Doesn't Feel Like It)",
+      "url": "https://open.spotify.com/track/30HWEKPozyqnJ8ARfVnoT2"
     },
     {
       "added_at": "2023-11-18 13:41:26",

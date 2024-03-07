@@ -128,7 +128,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 87797,
       "name": "1k Coats",
       "url": "https://open.spotify.com/track/3jgvjVtHBVpuWgGa7bG9HL"
@@ -1278,7 +1278,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 119613,
       "name": "an obsessed woman",
       "url": "https://open.spotify.com/track/4CL1l0Upau0intxzHsPiLY"
@@ -1550,6 +1550,24 @@
       "duration_ms": 183134,
       "name": "Ask Me",
       "url": "https://open.spotify.com/track/5E05jOPOyLiay7qzuoUSUh"
+    },
+    {
+      "album": {
+        "name": "Be Home Soon",
+        "url": "https://open.spotify.com/album/0LczJB6GuvmeJD5OSqs0Tz"
+      },
+      "artists": [
+        {
+          "name": "Rot Ken",
+          "url": "https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130171,
+      "name": "Audemar",
+      "url": "https://open.spotify.com/track/6zNaKpD1EbeqpN82TOZTLe"
     },
     {
       "album": {
@@ -3938,7 +3956,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 173847,
       "name": "chanel adventure",
       "url": "https://open.spotify.com/track/1RTK2ijClmWK5KACcMQou6"
@@ -4844,7 +4862,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 124000,
       "name": "DECLAN RICE",
       "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
@@ -7997,6 +8015,24 @@
     },
     {
       "album": {
+        "name": "Hazard Lights, Pt. 2 (Pill Thoughts)",
+        "url": "https://open.spotify.com/album/1WwdSv798WuEyfFWEvmLMZ"
+      },
+      "artists": [
+        {
+          "name": "Kenny Capone",
+          "url": "https://open.spotify.com/artist/0NOKEkitPCYPenXPA8gZkm"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137366,
+      "name": "Hazard Lights, Pt. 2 (Pill Thoughts)",
+      "url": "https://open.spotify.com/track/4OO75CD3b4NarYen5P48Ga"
+    },
+    {
+      "album": {
         "name": "Head Over heels",
         "url": "https://open.spotify.com/album/4dmFJHgXsQwM3Hny2227wq"
       },
@@ -9038,6 +9074,28 @@
       "duration_ms": 182869,
       "name": "In The Kitchen",
       "url": "https://open.spotify.com/track/1Cs748JfTfqzPoZAxBX9Ra"
+    },
+    {
+      "album": {
+        "name": "In the Morning",
+        "url": "https://open.spotify.com/album/63bwx95KTRtRogp1FRugi0"
+      },
+      "artists": [
+        {
+          "name": "Rah-C",
+          "url": "https://open.spotify.com/artist/4t2k4LH9tsNUc4j4aYF5HP"
+        },
+        {
+          "name": "JZAC",
+          "url": "https://open.spotify.com/artist/4uClxFda8FlqQEMNkL7HH3"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166148,
+      "name": "In the Morning",
+      "url": "https://open.spotify.com/track/4F2uvGqf6AYvtMyOIs3Yqt"
     },
     {
       "album": {
@@ -10084,6 +10142,24 @@
       "duration_ms": 239303,
       "name": "Law & Order pt. 2",
       "url": "https://open.spotify.com/track/0EhR86E9VVSzG0LdEer4lF"
+    },
+    {
+      "album": {
+        "name": "Lean Back Cadillac",
+        "url": "https://open.spotify.com/album/6z2w4rZR9kG1AI1WABHMcO"
+      },
+      "artists": [
+        {
+          "name": "Camo!",
+          "url": "https://open.spotify.com/artist/5A6mIOIg7290CgPHiDmq2b"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96104,
+      "name": "Lean Back Cadillac",
+      "url": "https://open.spotify.com/track/4TfcNQcLemAzZitRuzXMlh"
     },
     {
       "album": {
@@ -12657,6 +12733,24 @@
     },
     {
       "album": {
+        "name": "Need It All",
+        "url": "https://open.spotify.com/album/01nMG6opY5Y3TfyYxW8jlW"
+      },
+      "artists": [
+        {
+          "name": "Kiraly Payne",
+          "url": "https://open.spotify.com/artist/0vWdKxJyCD8VKzBRXtW0cv"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175937,
+      "name": "Need It All",
+      "url": "https://open.spotify.com/track/5lwNJAHTpfz4P2egmayzRF"
+    },
+    {
+      "album": {
         "name": "Need Your Love",
         "url": "https://open.spotify.com/album/0Tvsxayvqv82eNalV4rZ9A"
       },
@@ -14998,7 +15092,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 124947,
       "name": "Ray Cast",
       "url": "https://open.spotify.com/track/6fS2yJFvDHUansld0Un2qD"
@@ -17840,7 +17934,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 115384,
       "name": "TALKING TO A WALL",
       "url": "https://open.spotify.com/track/1aKWYYkt0dcIL0j5iVrr2y"
@@ -18420,7 +18514,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 178758,
       "name": "This Run's Personal",
       "url": "https://open.spotify.com/track/5vE8PcNVlUgloRzipbERuj"
@@ -19088,6 +19182,24 @@
       "duration_ms": 133333,
       "name": "trymemr",
       "url": "https://open.spotify.com/track/0vLCG8bUpjKrXkZcsHW2rO"
+    },
+    {
+      "album": {
+        "name": "Tryna See",
+        "url": "https://open.spotify.com/album/68QYTSC5iYXL1rSMYvWh8A"
+      },
+      "artists": [
+        {
+          "name": "Tony Shhnow",
+          "url": "https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128052,
+      "name": "Tryna See",
+      "url": "https://open.spotify.com/track/6INosmjhUMFjSPBseRtc5a"
     },
     {
       "album": {
@@ -20004,6 +20116,24 @@
       "duration_ms": 129269,
       "name": "What It Is",
       "url": "https://open.spotify.com/track/7D4HOXBTsFfC8IJc6UfjsY"
+    },
+    {
+      "album": {
+        "name": "what time is it'",
+        "url": "https://open.spotify.com/album/7BD99HIzCEjAUen8Fjq3tD"
+      },
+      "artists": [
+        {
+          "name": "Destin Laurel",
+          "url": "https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "what time is it'",
+      "url": "https://open.spotify.com/track/3LqXf2UKNB5JU5vH5apbC9"
     },
     {
       "album": {

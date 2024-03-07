@@ -1,12 +1,12 @@
 {
   "description": "Have some chill house with your coffee\n",
-  "num_followers": 121250,
+  "num_followers": 121255,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGIxMTc0ODRmOTViYjUwNmY0MzUzOTcyNDIxMjJjZDBmMTgwNzY3",
+  "snapshot_id": "MCxiN2RmZGRiYjUyNTczZWE1MzY0NmMwZjg1ZDg4NGQzMzE4MzlhNWM3",
   "tracks": [
     {
       "added_at": "2024-02-29 23:00:00",
@@ -395,6 +395,26 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
+        "name": "NaturHaus",
+        "url": "https://open.spotify.com/album/2fdwX91CMjhwhnbNqR891k"
+      },
+      "artists": [
+        {
+          "name": "M\u00d2Z\u00c2MB\u00ceQ\u00daE",
+          "url": "https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T"
+        },
+        {
+          "name": "Soft Palace",
+          "url": "https://open.spotify.com/artist/1KiYF9PWPsFiCBes5YbUJy"
+        }
+      ],
+      "duration_ms": 239548,
+      "name": "NaturHaus",
+      "url": "https://open.spotify.com/track/2ym03lsLfjcz4LMzHDn5Pm"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
         "name": "Fidelity Radio Club",
         "url": "https://open.spotify.com/album/7eu46qXLNv9FAagjqNhFZb"
       },
@@ -419,22 +439,22 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "NaturHaus",
-        "url": "https://open.spotify.com/album/2fdwX91CMjhwhnbNqR891k"
+        "name": "Too Hot, Too Cold",
+        "url": "https://open.spotify.com/album/0kNwXzdBoqZK48KzqlAvCt"
       },
       "artists": [
         {
-          "name": "M\u00d2Z\u00c2MB\u00ceQ\u00daE",
-          "url": "https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T"
+          "name": "Frase",
+          "url": "https://open.spotify.com/artist/7s9LTAKRwkBQ0CqWlbE254"
         },
         {
-          "name": "Soft Palace",
-          "url": "https://open.spotify.com/artist/1KiYF9PWPsFiCBes5YbUJy"
+          "name": "SkiiTour",
+          "url": "https://open.spotify.com/artist/5LVcxojBbX8xI4mGpQ5Zck"
         }
       ],
-      "duration_ms": 239548,
-      "name": "NaturHaus",
-      "url": "https://open.spotify.com/track/2ym03lsLfjcz4LMzHDn5Pm"
+      "duration_ms": 246407,
+      "name": "Too Hot, Too Cold",
+      "url": "https://open.spotify.com/track/2NjeiZqZSRyCdL8xbQehNL"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -467,26 +487,6 @@
       "duration_ms": 264192,
       "name": "Hundred Fifty Up",
       "url": "https://open.spotify.com/track/3ru2qqEuNU3mCFcr1bgb7C"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "Too Hot, Too Cold",
-        "url": "https://open.spotify.com/album/0kNwXzdBoqZK48KzqlAvCt"
-      },
-      "artists": [
-        {
-          "name": "Frase",
-          "url": "https://open.spotify.com/artist/7s9LTAKRwkBQ0CqWlbE254"
-        },
-        {
-          "name": "SkiiTour",
-          "url": "https://open.spotify.com/artist/5LVcxojBbX8xI4mGpQ5Zck"
-        }
-      ],
-      "duration_ms": 246407,
-      "name": "Too Hot, Too Cold",
-      "url": "https://open.spotify.com/track/2NjeiZqZSRyCdL8xbQehNL"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "Little Airplanes",
-        "url": "https://open.spotify.com/album/4nDplQPsxoFKICg1ruTFjj"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        }
-      ],
-      "duration_ms": 330614,
-      "name": "Little Airplanes",
-      "url": "https://open.spotify.com/track/5lzq0LoVd0y5YPLlc64FMz"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
         "name": "Shallow Breathing",
         "url": "https://open.spotify.com/album/3LW5ZXeG9mkNmVEoEVPee1"
       },
@@ -615,6 +599,22 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
+        "name": "Little Airplanes",
+        "url": "https://open.spotify.com/album/4nDplQPsxoFKICg1ruTFjj"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        }
+      ],
+      "duration_ms": 330614,
+      "name": "Little Airplanes",
+      "url": "https://open.spotify.com/track/5lzq0LoVd0y5YPLlc64FMz"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
         "name": "Speak Like the Hurricane",
         "url": "https://open.spotify.com/album/1S6lVG4Fe19Y1XN6qBewrF"
       },
@@ -647,22 +647,6 @@
       "duration_ms": 415527,
       "name": "Socorro & J\u00fcpiter",
       "url": "https://open.spotify.com/track/4RNDmizeTDGJVqbX4nKSM1"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/5X2ams2raZNJC4wnz1zbev"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        }
-      ],
-      "duration_ms": 182564,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/5XFuyKyEC69ZsP9FocyMsw"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -723,6 +707,26 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
+        "name": "Half Light",
+        "url": "https://open.spotify.com/album/7yLmNk8ErmeAlgd6zYw0vn"
+      },
+      "artists": [
+        {
+          "name": "Henry Green",
+          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
+        },
+        {
+          "name": "Andreya Triana",
+          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+        }
+      ],
+      "duration_ms": 186340,
+      "name": "Tide (feat. Andreya Triana)",
+      "url": "https://open.spotify.com/track/4mjno1cpVrlldeElighIIw"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
         "name": "Solar Nights - The Remixes",
         "url": "https://open.spotify.com/album/1ncN3KtEAVTlRXi7ITwnNV"
       },
@@ -747,22 +751,18 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "Half Light",
-        "url": "https://open.spotify.com/album/7yLmNk8ErmeAlgd6zYw0vn"
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/5X2ams2raZNJC4wnz1zbev"
       },
       "artists": [
         {
-          "name": "Henry Green",
-          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
-        },
-        {
-          "name": "Andreya Triana",
-          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
         }
       ],
-      "duration_ms": 186340,
-      "name": "Tide (feat. Andreya Triana)",
-      "url": "https://open.spotify.com/track/4mjno1cpVrlldeElighIIw"
+      "duration_ms": 182564,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/5XFuyKyEC69ZsP9FocyMsw"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -779,26 +779,6 @@
       "duration_ms": 245202,
       "name": "Gaia - Radio Edit",
       "url": "https://open.spotify.com/track/4ZbY3tViWurTa5JmaitOxX"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "Blue Moon",
-        "url": "https://open.spotify.com/album/0BpjFdJHvqDSvzilqt4sxv"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        },
-        {
-          "name": "Akacia",
-          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/28uMxZ5bHuAB0FWFPV8Zee"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -871,6 +851,26 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/0BpjFdJHvqDSvzilqt4sxv"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        },
+        {
+          "name": "Akacia",
+          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/28uMxZ5bHuAB0FWFPV8Zee"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
         "name": "Too Many Questions (Remix)",
         "url": "https://open.spotify.com/album/7k3U9b32T6jfEvb7FhdjpH"
       },
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "Someday",
-        "url": "https://open.spotify.com/album/6dR05ScZ3MY5FUaURLYLt1"
-      },
-      "artists": [
-        {
-          "name": "Aydin Genchsoy",
-          "url": "https://open.spotify.com/artist/0or5imSn4LjbK0dBtmYyVK"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/1wiX35MJoiLaMrFx2Peg5O"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
         "name": "Cherry Skies",
         "url": "https://open.spotify.com/album/5yytMHzOYkzesn2dON2tCe"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 210000,
       "name": "Cherry Skies",
       "url": "https://open.spotify.com/track/2taL7WpjrPMzwn65gVfxqP"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/6dR05ScZ3MY5FUaURLYLt1"
+      },
+      "artists": [
+        {
+          "name": "Aydin Genchsoy",
+          "url": "https://open.spotify.com/artist/0or5imSn4LjbK0dBtmYyVK"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/1wiX35MJoiLaMrFx2Peg5O"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
+        "name": "Eyes on You",
+        "url": "https://open.spotify.com/album/5vobo9lKoWbJpwyZAnp0Kl"
+      },
+      "artists": [
+        {
+          "name": "Mike D' Jais",
+          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "Eyes on You",
+      "url": "https://open.spotify.com/track/66EbSUqia2l6aOJvSKpOW7"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
         "name": "Resilience",
         "url": "https://open.spotify.com/album/02RAJQOn6I2qtoJt13m0Kg"
       },
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "Eyes on You",
-        "url": "https://open.spotify.com/album/5vobo9lKoWbJpwyZAnp0Kl"
-      },
-      "artists": [
-        {
-          "name": "Mike D' Jais",
-          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "Eyes on You",
-      "url": "https://open.spotify.com/track/66EbSUqia2l6aOJvSKpOW7"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
         "name": "Toledo",
         "url": "https://open.spotify.com/album/4faNjrs2415Xr3euT2LUl4"
       },
@@ -1131,26 +1131,6 @@
       "duration_ms": 301909,
       "name": "What We Witness",
       "url": "https://open.spotify.com/track/1rFith6EdgNr3tcuIjlY1q"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "Aftergold (5 Year Anniversary)",
-        "url": "https://open.spotify.com/album/5QMSCiDAPdRfU27M7N7Ro2"
-      },
-      "artists": [
-        {
-          "name": "Big Wild",
-          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
-        },
-        {
-          "name": "obli",
-          "url": "https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4"
-        }
-      ],
-      "duration_ms": 228573,
-      "name": "Aftergold - obli Remix",
-      "url": "https://open.spotify.com/track/2HmehsWbm1mZDIxe50Jpod"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -1191,6 +1171,26 @@
       "duration_ms": 345534,
       "name": "Mr. Magic",
       "url": "https://open.spotify.com/track/0dSoodH9dHclkP2kMec21H"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
+        "name": "Aftergold (5 Year Anniversary)",
+        "url": "https://open.spotify.com/album/5QMSCiDAPdRfU27M7N7Ro2"
+      },
+      "artists": [
+        {
+          "name": "Big Wild",
+          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
+        },
+        {
+          "name": "obli",
+          "url": "https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4"
+        }
+      ],
+      "duration_ms": 228573,
+      "name": "Aftergold - obli Remix",
+      "url": "https://open.spotify.com/track/2HmehsWbm1mZDIxe50Jpod"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "Deneb Cygni",
-        "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
-      },
-      "artists": [
-        {
-          "name": "Takuya Yamashita",
-          "url": "https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v"
-        }
-      ],
-      "duration_ms": 453559,
-      "name": "Deneb Cygni - Original Mix",
-      "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
         "name": "Killer Machine",
         "url": "https://open.spotify.com/album/0pNdH7TyR32VxC5Pk1v2lX"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 233316,
       "name": "Killer Machine",
       "url": "https://open.spotify.com/track/2cCfDNAd7lYPSe3euIwt2w"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
+        "name": "Deneb Cygni",
+        "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
+      },
+      "artists": [
+        {
+          "name": "Takuya Yamashita",
+          "url": "https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v"
+        }
+      ],
+      "duration_ms": 453559,
+      "name": "Deneb Cygni - Original Mix",
+      "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "Fading Memories",
-        "url": "https://open.spotify.com/album/1DrA0ZU45wJOm46XoAO2Sd"
-      },
-      "artists": [
-        {
-          "name": "El Mundo",
-          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
-        },
-        {
-          "name": "Zazou",
-          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
-        }
-      ],
-      "duration_ms": 483808,
-      "name": "Fading Memories",
-      "url": "https://open.spotify.com/track/2gCzNuIjZQnKj9lMqHjk7X"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
         "name": "Golven",
         "url": "https://open.spotify.com/album/4hnKYfEXxxRnGlr8PrAkXN"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 194421,
       "name": "Golven",
       "url": "https://open.spotify.com/track/50i5vfuzSeaWIcVH5PjPO1"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
+        "name": "Fading Memories",
+        "url": "https://open.spotify.com/album/1DrA0ZU45wJOm46XoAO2Sd"
+      },
+      "artists": [
+        {
+          "name": "El Mundo",
+          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
+        },
+        {
+          "name": "Zazou",
+          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
+        }
+      ],
+      "duration_ms": 483808,
+      "name": "Fading Memories",
+      "url": "https://open.spotify.com/track/2gCzNuIjZQnKj9lMqHjk7X"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
+        "name": "Arturia",
+        "url": "https://open.spotify.com/album/1UUSyhcmb2F9ifsCuUZVuT"
+      },
+      "artists": [
+        {
+          "name": "Gavinco",
+          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
+        }
+      ],
+      "duration_ms": 331960,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/7dJwMUluT7ZmMF0bEEDzbR"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
         "name": "Proto/Emotions",
         "url": "https://open.spotify.com/album/4rr2Eq0wpYVm7vPEb4QsrY"
       },
@@ -1627,18 +1643,18 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "Arturia",
-        "url": "https://open.spotify.com/album/1UUSyhcmb2F9ifsCuUZVuT"
+        "name": "Coffee (Edit)",
+        "url": "https://open.spotify.com/album/4pNeMokkPtuc5PMsr5oPzB"
       },
       "artists": [
         {
-          "name": "Gavinco",
-          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
+          "name": "Fouk",
+          "url": "https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe"
         }
       ],
-      "duration_ms": 331960,
-      "name": "Company",
-      "url": "https://open.spotify.com/track/7dJwMUluT7ZmMF0bEEDzbR"
+      "duration_ms": 235039,
+      "name": "Coffee - Edit",
+      "url": "https://open.spotify.com/track/2LPeOMRJpuKLOLlUcHBDzB"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -1747,18 +1763,18 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "Coffee (Edit)",
-        "url": "https://open.spotify.com/album/4pNeMokkPtuc5PMsr5oPzB"
+        "name": "You Know",
+        "url": "https://open.spotify.com/album/6IoJpTO7kXGusqLKglYGVk"
       },
       "artists": [
         {
-          "name": "Fouk",
-          "url": "https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe"
+          "name": "ARTO",
+          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
         }
       ],
-      "duration_ms": 235039,
-      "name": "Coffee - Edit",
-      "url": "https://open.spotify.com/track/2LPeOMRJpuKLOLlUcHBDzB"
+      "duration_ms": 156774,
+      "name": "You Know",
+      "url": "https://open.spotify.com/track/5gt8DyZLTb9U2m0i6ENZnP"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -1799,22 +1815,6 @@
       "duration_ms": 175711,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/3KJD5sOIQGruWKiixUjZsA"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "You Know",
-        "url": "https://open.spotify.com/album/6IoJpTO7kXGusqLKglYGVk"
-      },
-      "artists": [
-        {
-          "name": "ARTO",
-          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
-        }
-      ],
-      "duration_ms": 156774,
-      "name": "You Know",
-      "url": "https://open.spotify.com/track/5gt8DyZLTb9U2m0i6ENZnP"
     }
   ],
   "unique_name": "Coffee Club",

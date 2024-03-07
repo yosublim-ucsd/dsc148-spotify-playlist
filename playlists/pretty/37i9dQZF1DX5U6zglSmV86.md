@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U6zglSmV86.md) - [plain]
 
 > Nuestra alma mater es la calle\. El Makabelico en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,597 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,632 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U6zglSmV86.md) - [plain]
 | 99 | [Soy Un Malandrin](https://open.spotify.com/track/1T6iGIGjkE6FEmkC9QkCB7) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [Soy Un Malandrin](https://open.spotify.com/album/0BsSKppeiHTt3HDGZe68V7) | 4:21 |
 | 100 | [El Patron Del Mal](https://open.spotify.com/track/1RECCwSp27WPhUhbWI1QLk) | [El Makabelico](https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO) | [La Encomienda](https://open.spotify.com/album/3083B6DZOQS2VEQsKX1Vtk) | 4:11 |
 
-Snapshot ID: `MCwzZGIzYjY0MGY0Y2IwZDNjMjc2OTAxYzRmNTYzZGM0N2MxZTM5MjQ4`
+Snapshot ID: `MCw0MmU1MDAyNTE5NzA5MGU0OGE3YzIwYjQ0MWIwZjI3YjU5Njg4YmYw`

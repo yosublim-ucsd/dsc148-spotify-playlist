@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Chicano Batman en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,396 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,399 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 7 | [entre las piernas](https://open.spotify.com/track/5Z8ylWRIPqri4EFRltuHMg) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [entre las piernas](https://open.spotify.com/album/4lC8tWRJRUfADPn6aAjLVl) | 3:31 |
 | 8 | [Tu Buen Chaval](https://open.spotify.com/track/3co2WqpeIhiQI21jz2l2qm) | [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97) | [Nuevos Lemas](https://open.spotify.com/album/0f4weFEnA91MfjYF61UfOU) | 2:25 |
 | 9 | [Preciosa](https://open.spotify.com/track/1aeih1sP1g0ooHHkxrfA29) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Preciosa](https://open.spotify.com/album/0gq9bgTdNrmc9SlpuaZ0eD) | 2:53 |
-| 10 | [PINTORA \(feat\. La Plazuela\)](https://open.spotify.com/track/1MSiGygk6q5GVBCqKHdp59) | [Califato ¾](https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK), [Andrea Santalusía](https://open.spotify.com/artist/3TAhTFekxaLAdEtfH7vXsZ), [La Plazuela](https://open.spotify.com/artist/3iNrNJ38T7OEaI1UofQcIB) | [ÊCCLABÔ DE LIBERTÁ](https://open.spotify.com/album/3YcizP1lVMdz050dxuJGKG) | 4:33 |
+| 10 | [PINTORA \(feat\. La Plazuela\)](https://open.spotify.com/track/1q0hyEgtjAj4WomBgw3aS4) | [Califato ¾](https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK), [Andrea Santalusía](https://open.spotify.com/artist/3TAhTFekxaLAdEtfH7vXsZ), [La Plazuela](https://open.spotify.com/artist/3iNrNJ38T7OEaI1UofQcIB) | [ÊCCLABÔ DE LIBERTÁ](https://open.spotify.com/album/1tVhgN9feZ8I31AC7yKOSp) | 4:33 |
 | 11 | [CA$H COW](https://open.spotify.com/track/1ZkfXl2AT8eO3bwqymK06b) | [Valeria Wolf](https://open.spotify.com/artist/5joEmKt500RsmlJCu92buW) | [SELF](https://open.spotify.com/album/52ECalzvbR2C23jIUiknKd) | 3:21 |
 | 12 | [MÚSICA](https://open.spotify.com/track/5xOUeU0GpbfgJkJC13pLv4) | [planta](https://open.spotify.com/artist/5RdWxvvyhOcNMva8aeqb9E), [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [MÚSICA](https://open.spotify.com/album/1lVMp9YJIYoKnZwbDnME1x) | 3:17 |
 | 13 | [Polvo De Estrellas](https://open.spotify.com/track/0tjqKnpDhZ7cjj8I0Gd2SX) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY), [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Polvo De Estrellas](https://open.spotify.com/album/1dp8qyTLNa95cJE09TBOxR) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [OTRA VEZ CASUALIDAD](https://open.spotify.com/track/1aoTb7gh2k9Bi1mDGQbJq1) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [OTRA VEZ CASUALIDAD](https://open.spotify.com/album/0E6bwR3roTh3n6QBjF9LF2) | 3:48 |
 | 50 | [Dos Hemisferios](https://open.spotify.com/track/3oV54WIjzyy9Bi1dFUtfN4) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Dos Hemisferios](https://open.spotify.com/album/0qOwKIT9GbWmRMUNi84yF8) | 3:35 |
 
-Snapshot ID: `MCxlNTRiNzhmNDgwZGI3YjVmNjc1ZDQ3MDdiY2NkODQ0Yjc0MTcwMjgx`
+Snapshot ID: `MCxkNzQ4ODBjODdlZjk1Y2U0YmJhMzkwNzBkOGZiNzkxMjc5ZTI2ZmI5`

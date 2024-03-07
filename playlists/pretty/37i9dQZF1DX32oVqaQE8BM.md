@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 
 > The ultimate chill out playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 769,042 likes - 226 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 769,079 likes - 226 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,13 +14,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 4 | [Days before](https://open.spotify.com/track/0Yr84Z0J8XdIFgef0Gm4wC) | [Dino P](https://open.spotify.com/artist/1PDCXtWxAyrZXWQHLdgtha) | [Days Before](https://open.spotify.com/album/0gSYHXWZ0niLxoUr7A63nq) | 2:47 |
 | 5 | [By The Sea](https://open.spotify.com/track/6PfALOgG7eu5n7HVbvyoII) | [Epulu](https://open.spotify.com/artist/3M97hQ3VhITiVzwCFDJZAE) | [By The Sea](https://open.spotify.com/album/7wSlUWcVqr6be4gcQUQnep) | 2:41 |
 | 6 | [just enough](https://open.spotify.com/track/5YOcHkjpveyOIleHYg4fDL) | [Cat Dreams](https://open.spotify.com/artist/5FcssevMYhJmgxxVmIUkH1) | [just enough](https://open.spotify.com/album/16SYGSeNyaCehEY0XMD1yV) | 2:33 |
-| 7 | [The Sky Was Breathing](https://open.spotify.com/track/3lLf5WCpIvYg3GSskMxszu) | [Pierre Sloane](https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH) | [The Sky Was Breathing](https://open.spotify.com/album/17TPclqY7Njhy17Mw8ZDyP) | 3:11 |
-| 8 | [I Hope You Find What You're Looking For](https://open.spotify.com/track/70Uq01vP7RqyF3QB3wM3lI) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [I Hope You Find What You're Looking For](https://open.spotify.com/album/0T31ndqyniqxMKSfVsGBlb) | 3:16 |
-| 9 | [Foresta](https://open.spotify.com/track/27deYXGhkgSd7glci93wwK) | [Maya Mde](https://open.spotify.com/artist/5CNQTClM0UBvapkEUe4mM2) | [Foresta](https://open.spotify.com/album/5BRB0pwU4dR4Hk19sk7Opf) | 2:56 |
-| 10 | [night light](https://open.spotify.com/track/4IRtFGXzilIGH7dsV7rCXx) | [Wishard](https://open.spotify.com/artist/6yHjaHwGhawtwP93NcKs81) | [night light](https://open.spotify.com/album/42jd72Z4gHKM4vjSMsZiwG) | 2:27 |
-| 11 | [dreams and demons](https://open.spotify.com/track/6GbdSYeYEYETm019Lou7cX) | [Landayn](https://open.spotify.com/artist/13ptCL2mD06c4wcdwj1SaA) | [dreams and demons](https://open.spotify.com/album/3n246J1Sjq9xfplFJFBlFU) | 2:26 |
-| 12 | [Wonder More](https://open.spotify.com/track/6Ex4RotAvWFZ8Gs72DTOGI) | [Jo Lange](https://open.spotify.com/artist/1IoUhC61gvcKQiYvbus1me) | [Wonder More](https://open.spotify.com/album/7spk3K6Q5V2mmpNa6x3pF7) | 2:59 |
-| 13 | [Smile Parade](https://open.spotify.com/track/5AKdtHpbMjotVxUEqBXiX8) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Smile Parade](https://open.spotify.com/album/0SjBxbhdGMVb2asDgoaSOs) | 2:21 |
+| 7 | [I Hope You Find What You're Looking For](https://open.spotify.com/track/70Uq01vP7RqyF3QB3wM3lI) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [I Hope You Find What You're Looking For](https://open.spotify.com/album/0T31ndqyniqxMKSfVsGBlb) | 3:16 |
+| 8 | [Foresta](https://open.spotify.com/track/27deYXGhkgSd7glci93wwK) | [Maya Mde](https://open.spotify.com/artist/5CNQTClM0UBvapkEUe4mM2) | [Foresta](https://open.spotify.com/album/5BRB0pwU4dR4Hk19sk7Opf) | 2:56 |
+| 9 | [night light](https://open.spotify.com/track/4IRtFGXzilIGH7dsV7rCXx) | [Wishard](https://open.spotify.com/artist/6yHjaHwGhawtwP93NcKs81) | [night light](https://open.spotify.com/album/42jd72Z4gHKM4vjSMsZiwG) | 2:27 |
+| 10 | [dreams and demons](https://open.spotify.com/track/6GbdSYeYEYETm019Lou7cX) | [Landayn](https://open.spotify.com/artist/13ptCL2mD06c4wcdwj1SaA) | [dreams and demons](https://open.spotify.com/album/3n246J1Sjq9xfplFJFBlFU) | 2:26 |
+| 11 | [Wonder More](https://open.spotify.com/track/6Ex4RotAvWFZ8Gs72DTOGI) | [Jo Lange](https://open.spotify.com/artist/1IoUhC61gvcKQiYvbus1me) | [Wonder More](https://open.spotify.com/album/7spk3K6Q5V2mmpNa6x3pF7) | 2:59 |
+| 12 | [Smile Parade](https://open.spotify.com/track/5AKdtHpbMjotVxUEqBXiX8) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Smile Parade](https://open.spotify.com/album/0SjBxbhdGMVb2asDgoaSOs) | 2:21 |
+| 13 | [The Sky Was Breathing](https://open.spotify.com/track/3lLf5WCpIvYg3GSskMxszu) | [Pierre Sloane](https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH) | [The Sky Was Breathing](https://open.spotify.com/album/17TPclqY7Njhy17Mw8ZDyP) | 3:11 |
 | 14 | [Blanket](https://open.spotify.com/track/7y5FvLf4zFR4wyadweNWXy) | [Demurely](https://open.spotify.com/artist/69MgJebVr2yMrf8jlOXg9j) | [Blanket](https://open.spotify.com/album/7upEQocfRg69LCyh1DeIMs) | 2:07 |
 | 15 | [Re\-Entry](https://open.spotify.com/track/2pujLQU1KjAGrbvGAavxEn) | [Hugo Size](https://open.spotify.com/artist/1uXGeDPWDL61wJ5CX5Zxnk) | [Re\-Entry](https://open.spotify.com/album/0O60xsKYuhazj6iGa2YnUx) | 3:26 |
 | 16 | [after a while](https://open.spotify.com/track/0VZ1zeperKNOmRP1Q2DdoJ) | [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA), [herman.](https://open.spotify.com/artist/3WyJSGYPoo86oOCSCcWNr6) | [after a while](https://open.spotify.com/album/6J6B75xjID00XXrVfO0Qm6) | 2:25 |
@@ -235,4 +235,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 225 | [Saeti](https://open.spotify.com/track/33pQ0Ab4hb0gZIuFmxstQS) | [Sebastián Escofet](https://open.spotify.com/artist/4YufEYOotwxOrZxtzdPgS3) | [Saeti](https://open.spotify.com/album/1W9hJSSrJcaknCU4DFkico) | 2:06 |
 | 226 | [A Few Hours](https://open.spotify.com/track/20rCllouidVPzTggWjTYoS) | [Ajola Dipa](https://open.spotify.com/artist/3TIcmGpg3CkztLlSXNOlqF) | [A Few Hours](https://open.spotify.com/album/1cZBHiBjw7qvv1qeKDCcsv) | 2:18 |
 
-Snapshot ID: `MCxmZWQ5OGI2NjZlNzc2MmQ2NzMwZjA2ZGE1YmJhNDRhOThmZjFiYWVi`
+Snapshot ID: `MCxkMWUyNWJjMmNmMDdmYzMwZDQ3OWE0ZDNiY2YxYzY1MDYzZGZhODgz`

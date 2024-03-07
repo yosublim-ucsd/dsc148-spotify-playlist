@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 76596,
+  "2024-03-07": 76646,
   "date_first_scraped": "2021-12-21",
   "description": "New song and hits from your favorite Alternative artists. Cover: Jack White",
   "name": "Your Alternative",
@@ -1785,6 +1785,24 @@
     {
       "album": {
         "name": "Terra Firma",
+        "url": "https://open.spotify.com/album/7o1gl7In7Onhi6KpQwUDWy"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279137,
+      "name": "Pretty Lady",
+      "url": "https://open.spotify.com/track/31ys9ZVrUE0HyS2C6ePzpn"
+    },
+    {
+      "album": {
+        "name": "Terra Firma",
         "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
       },
       "artists": [
@@ -2325,7 +2343,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 247600,
       "name": "The Steps",
       "url": "https://open.spotify.com/track/5X2RisOZS9i5MsR8EVw58p"

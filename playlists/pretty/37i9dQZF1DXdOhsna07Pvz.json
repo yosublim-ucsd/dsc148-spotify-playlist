@@ -1,12 +1,12 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 70075,
+  "num_followers": 70106,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGZkZTBhOWFkMzdhMjMxMTk3MjY4YTFkYjhhNDBkMTM5OWI3MjAx",
+  "snapshot_id": "MCxiZDYzYjNkZDEzMDhkNzUwNDEwN2VjMzUxYWRjZTBjOGQ2ZWQ4ODQx",
   "tracks": [
     {
       "added_at": "2022-09-22 18:13:04",
@@ -43,6 +43,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "A volta de Secos & Molhados",
+        "url": "https://open.spotify.com/album/4rNGFFaXZ7l0Vg6QrcHcUi"
+      },
+      "artists": [
+        {
+          "name": "Secos & Molhados",
+          "url": "https://open.spotify.com/artist/4EKJxXaAZapG14Q5FTZoxm"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Sangue latino",
+      "url": "https://open.spotify.com/track/2DREhftHdD8pRmNdSs6nyF"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Rita Hits",
         "url": "https://open.spotify.com/album/7i4l4zXrbUuK3sL3K99J27"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 127840,
       "name": "Lan\u00e7a Perfume",
       "url": "https://open.spotify.com/track/0rAX31FT5w3ZQbQMUSkxy8"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "A volta de Secos & Molhados",
-        "url": "https://open.spotify.com/album/4rNGFFaXZ7l0Vg6QrcHcUi"
-      },
-      "artists": [
-        {
-          "name": "Secos & Molhados",
-          "url": "https://open.spotify.com/artist/4EKJxXaAZapG14Q5FTZoxm"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Sangue latino",
-      "url": "https://open.spotify.com/track/2DREhftHdD8pRmNdSs6nyF"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -163,22 +163,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Duas Cidades",
-        "url": "https://open.spotify.com/album/6ArV7cwxuSK0B6Gh1Hn5EI"
-      },
-      "artists": [
-        {
-          "name": "BaianaSystem",
-          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
-        }
-      ],
-      "duration_ms": 246280,
-      "name": "Lucro (Descomprimindo)",
-      "url": "https://open.spotify.com/track/0ME0VSbe5nYsXf9V5IFZsd"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Sinto Muito",
         "url": "https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 205945,
       "name": "Bixinho",
       "url": "https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Duas Cidades",
+        "url": "https://open.spotify.com/album/6ArV7cwxuSK0B6Gh1Hn5EI"
+      },
+      "artists": [
+        {
+          "name": "BaianaSystem",
+          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
+        }
+      ],
+      "duration_ms": 246280,
+      "name": "Lucro (Descomprimindo)",
+      "url": "https://open.spotify.com/track/0ME0VSbe5nYsXf9V5IFZsd"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -227,22 +227,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Bom Demais",
-        "url": "https://open.spotify.com/album/1LGy5dn6nMFpiqG3mJlfoz"
-      },
-      "artists": [
-        {
-          "name": "Ara Ketu",
-          "url": "https://open.spotify.com/artist/6NqIUh0cpaygBWUUAjBaog"
-        }
-      ],
-      "duration_ms": 239026,
-      "name": "Ara Ketu Bom Demais",
-      "url": "https://open.spotify.com/track/2pgP6IT08m0Uw9cEMZM7A6"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Luz",
         "url": "https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 332133,
       "name": "Sina",
       "url": "https://open.spotify.com/track/2kgT6sMwXd3mdeXhBbLMQe"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Bom Demais",
+        "url": "https://open.spotify.com/album/1LGy5dn6nMFpiqG3mJlfoz"
+      },
+      "artists": [
+        {
+          "name": "Ara Ketu",
+          "url": "https://open.spotify.com/artist/6NqIUh0cpaygBWUUAjBaog"
+        }
+      ],
+      "duration_ms": 239026,
+      "name": "Ara Ketu Bom Demais",
+      "url": "https://open.spotify.com/track/2pgP6IT08m0Uw9cEMZM7A6"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -323,18 +323,18 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Bebadosamba",
-        "url": "https://open.spotify.com/album/57x8KvcGMec2o8XTwBYEwf"
+        "name": "Um Corpo no Mundo",
+        "url": "https://open.spotify.com/album/6Qg6H9Uo0Iymf3OROPLSDN"
       },
       "artists": [
         {
-          "name": "Paulinho Da Viola",
-          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
         }
       ],
-      "duration_ms": 205200,
-      "name": "Timoneiro",
-      "url": "https://open.spotify.com/track/3C8ULtjiUmTtcpE7QJBZ7G"
+      "duration_ms": 389253,
+      "name": "Banho de Folhas",
+      "url": "https://open.spotify.com/track/1RJJN0Q4lAwh13t2keNEFK"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -355,18 +355,34 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Um Corpo no Mundo",
-        "url": "https://open.spotify.com/album/6Qg6H9Uo0Iymf3OROPLSDN"
+        "name": "Bebadosamba",
+        "url": "https://open.spotify.com/album/57x8KvcGMec2o8XTwBYEwf"
       },
       "artists": [
         {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
         }
       ],
-      "duration_ms": 389253,
-      "name": "Banho de Folhas",
-      "url": "https://open.spotify.com/track/1RJJN0Q4lAwh13t2keNEFK"
+      "duration_ms": 205200,
+      "name": "Timoneiro",
+      "url": "https://open.spotify.com/track/3C8ULtjiUmTtcpE7QJBZ7G"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Lil\u00e1s",
+        "url": "https://open.spotify.com/album/1FbOGgnq17jjkK5CqdgzqX"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 283133,
+      "name": "Lil\u00e1s",
+      "url": "https://open.spotify.com/track/0V0DEGw7N5KlubvARp4VOm"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -387,22 +403,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Verde Anil Amarelo Cor de Rosa e Carv\u00e3o",
-        "url": "https://open.spotify.com/album/26OYzOWjelS4qNuP27Ac6i"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 214866,
-      "name": "Na Estrada",
-      "url": "https://open.spotify.com/track/56CE8SdkpSl9OKbF14FALz"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Luar",
         "url": "https://open.spotify.com/album/3qoUU8sm4eBT5POFHQSl5L"
       },
@@ -419,18 +419,18 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Lil\u00e1s",
-        "url": "https://open.spotify.com/album/1FbOGgnq17jjkK5CqdgzqX"
+        "name": "Verde Anil Amarelo Cor de Rosa e Carv\u00e3o",
+        "url": "https://open.spotify.com/album/26OYzOWjelS4qNuP27Ac6i"
       },
       "artists": [
         {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
         }
       ],
-      "duration_ms": 283133,
-      "name": "Lil\u00e1s",
-      "url": "https://open.spotify.com/track/0V0DEGw7N5KlubvARp4VOm"
+      "duration_ms": 214866,
+      "name": "Na Estrada",
+      "url": "https://open.spotify.com/track/56CE8SdkpSl9OKbF14FALz"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Caetano Veloso",
-        "url": "https://open.spotify.com/album/3idXLXoZDLQyxAHF97yguf"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 168213,
-      "name": "Alegria, Alegria - Remastered 2006",
-      "url": "https://open.spotify.com/track/0aoQV1TuaTrcpJaMfJ3wgj"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Conversa Fiada",
         "url": "https://open.spotify.com/album/2V0ZVQuPdzePp6hO19WFWm"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 196810,
       "name": "Conversa Fiada",
       "url": "https://open.spotify.com/track/6r4NNOFLKjjsqdK6fq4qoY"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Caetano Veloso",
+        "url": "https://open.spotify.com/album/3idXLXoZDLQyxAHF97yguf"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 168213,
+      "name": "Alegria, Alegria - Remastered 2006",
+      "url": "https://open.spotify.com/track/0aoQV1TuaTrcpJaMfJ3wgj"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Caetanear",
-        "url": "https://open.spotify.com/album/1vbnJI2hyuD8v6b2mGtQIl"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 199333,
-      "name": "Odara",
-      "url": "https://open.spotify.com/track/45qF2E2smfkrMR47xF5QZy"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Martinho da Vila",
         "url": "https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB"
       },
@@ -947,6 +931,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Pochete",
+        "url": "https://open.spotify.com/album/3WLyLlxq0JJMAeiGPpge1S"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 235712,
+      "name": "Pochete",
+      "url": "https://open.spotify.com/track/3VOwZvqUNBLXsvIqxmjFJ2"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Trio Ternura (Compacto 1973)",
         "url": "https://open.spotify.com/album/0LtKGt7sB3pSrduK8trZD8"
       },
@@ -963,18 +963,18 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Pochete",
-        "url": "https://open.spotify.com/album/3WLyLlxq0JJMAeiGPpge1S"
+        "name": "Caetanear",
+        "url": "https://open.spotify.com/album/1vbnJI2hyuD8v6b2mGtQIl"
       },
       "artists": [
         {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
         }
       ],
-      "duration_ms": 235712,
-      "name": "Pochete",
-      "url": "https://open.spotify.com/track/3VOwZvqUNBLXsvIqxmjFJ2"
+      "duration_ms": 199333,
+      "name": "Odara",
+      "url": "https://open.spotify.com/track/45qF2E2smfkrMR47xF5QZy"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -1051,22 +1051,18 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Duas Cidades",
-        "url": "https://open.spotify.com/album/6ArV7cwxuSK0B6Gh1Hn5EI"
+        "name": "Meus Momentos",
+        "url": "https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk"
       },
       "artists": [
         {
-          "name": "BaianaSystem",
-          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
-        },
-        {
-          "name": "Siba",
-          "url": "https://open.spotify.com/artist/3fXYikoi0LcoQgBItngLxO"
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
         }
       ],
-      "duration_ms": 142653,
-      "name": "Cigano - Instrumental",
-      "url": "https://open.spotify.com/track/2REfZQ03ryu2zaQAcJoxUQ"
+      "duration_ms": 179120,
+      "name": "O Mar Serenou",
+      "url": "https://open.spotify.com/track/5rsdJ481oIM9OYyrqcEwWt"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -1087,22 +1083,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Meus Momentos",
-        "url": "https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk"
-      },
-      "artists": [
-        {
-          "name": "Clara Nunes",
-          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "O Mar Serenou",
-      "url": "https://open.spotify.com/track/5rsdJ481oIM9OYyrqcEwWt"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Rosa Neon",
         "url": "https://open.spotify.com/album/3Cp8fCtFU6VIi9lqwsgobL"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 169477,
       "name": "Fala L\u00e1 Pra Ela",
       "url": "https://open.spotify.com/track/5aTOYS7orRPTlc9DOa2CI6"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Duas Cidades",
+        "url": "https://open.spotify.com/album/6ArV7cwxuSK0B6Gh1Hn5EI"
+      },
+      "artists": [
+        {
+          "name": "BaianaSystem",
+          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
+        },
+        {
+          "name": "Siba",
+          "url": "https://open.spotify.com/artist/3fXYikoi0LcoQgBItngLxO"
+        }
+      ],
+      "duration_ms": 142653,
+      "name": "Cigano - Instrumental",
+      "url": "https://open.spotify.com/track/2REfZQ03ryu2zaQAcJoxUQ"
     },
     {
       "added_at": "2022-09-22 18:13:04",

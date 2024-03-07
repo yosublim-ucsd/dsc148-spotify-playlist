@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 
 > A relaxing evening with a smooth glass never sounded so good\. Hit play and let the room fill with some of the classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,835 likes - 100 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,902 likes - 100 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 67 | [Your Lies](https://open.spotify.com/track/33ic6QylSASWCW3LI6qvqH) | [The Cinelli Brothers](https://open.spotify.com/artist/25Sjy5qO63Dpa7nqHjTTNF) | [Your Lies](https://open.spotify.com/album/1c9emJLzeTRuws8ov0S7JB) | 3:13 |
 | 68 | [One Scotch, One Bourbon, One Beer](https://open.spotify.com/track/0l33ve0XHG5XxKwMQPKcZk) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [One Scotch, One Bourbon, One Beer](https://open.spotify.com/album/7uDIaa0VUbDhhEA4CkqNN6) | 3:12 |
 | 69 | [I Need You So Bad](https://open.spotify.com/track/5Afi4JrAnQtUsSYpYwbYAj) | [Magic Sam](https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO), [Mighty Joe Young](https://open.spotify.com/artist/3s5c2rjSE7v4KbMsGb5qaL), [Stockholm Slim](https://open.spotify.com/artist/0WKpnBdTIx21ZsPd8zuynC), [Earnest Johnson](https://open.spotify.com/artist/1zkJyhY4Yx9tiouTnGrs2I), [Odie Payne, Jr.](https://open.spotify.com/artist/1A9aTffrO3x44CEX13JGIc) | [West Side Soul \(Deluxe Edition\)](https://open.spotify.com/album/2bonSc9cW7a0YcFBiH9naX) | 4:56 |
-| 70 | [One Day Closer To Home](https://open.spotify.com/track/38EnQxo9CZ5w9muuxNh1TJ) | [William Bell](https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR) | [One Day Closer To Home](https://open.spotify.com/album/2xBkirTkPauFlljvqJWClc) | 3:48 |
-| 71 | [Easy On The Eyes](https://open.spotify.com/track/4mEITOF0rKhIZr3rBJuwk0) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Crackdown](https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL) | 3:31 |
+| 70 | [Easy On The Eyes](https://open.spotify.com/track/4mEITOF0rKhIZr3rBJuwk0) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Crackdown](https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL) | 3:31 |
+| 71 | [One Day Closer To Home](https://open.spotify.com/track/38EnQxo9CZ5w9muuxNh1TJ) | [William Bell](https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR) | [One Day Closer To Home](https://open.spotify.com/album/2xBkirTkPauFlljvqJWClc) | 3:48 |
 | 72 | [Fast Talking Woman Blues](https://open.spotify.com/track/2fMyMnv8L2fqCoVAB97jj3) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Men of the World: The Early Years](https://open.spotify.com/album/48gcTGds5MLWEURDjbpwYE) | 3:23 |
 | 73 | [Go Easy](https://open.spotify.com/track/3owiWE0J2144puM4MB1lxK) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY), [Memphis Slim](https://open.spotify.com/artist/5g1Gv9riN5BH4WVnanO1Ia) | [Willie's Blues](https://open.spotify.com/album/3fuRLaRuxNjjBxZILt5ABV) | 5:54 |
 | 74 | [Somewhere](https://open.spotify.com/track/0jXjGc3cD7aBihnOvXXN9A) | [Tommy Castro](https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165) | [Somewhere](https://open.spotify.com/album/2ygBH4zpXVlycVtYL5JqX9) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 99 | [Like a Ship](https://open.spotify.com/track/0RuwLMVBuMHF19cDYnGNFp) | [John Primer](https://open.spotify.com/artist/1CePnHlc38UfIQovWgyzKP) | [Keep on Lovin' the Blues](https://open.spotify.com/album/1tMXPwrzgheCnI2QGY5Ypm) | 4:23 |
 | 100 | [Chinook Blues](https://open.spotify.com/track/1AyxLC8AnaNOF2e6zeGbpR) | [Alice Di Micele](https://open.spotify.com/artist/5GTLKa7etYFhkKklJyoSgX) | [Chinook Blues](https://open.spotify.com/album/77Yf1keBRtlim9xBNtcmn5) | 5:09 |
 
-Snapshot ID: `MCxiMGRmZmJiYjdiZDliODllNzJjNzg5MmE3NWU0MjRmYzVjNWE4MzFj`
+Snapshot ID: `MCxjYzllNzlmYjMyMmUxODM4ZjliMWIxODI4ZTdlN2FhZjAxYjRjMjll`

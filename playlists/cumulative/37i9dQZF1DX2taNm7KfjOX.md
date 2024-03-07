@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Marika Hackman
 
-572 songs - 1 day 11 hr 39 min
+573 songs - 1 day 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -425,7 +425,7 @@
 | [Sitting Room](https://open.spotify.com/track/61RrNbOovzQBB8lomPR4Qb) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Colony of Bees](https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU) | 4:09 | 2022-04-13 | 2022-04-19 |
 | [Sleepless in Seattle](https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Sleepless in Seattle](https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL) | 4:00 | 2021-10-22 |  |
 | [Slide's Getting Shorter](https://open.spotify.com/track/4x5QG3BeA9agfFb7bsvLQ0) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Slide's Getting Shorter](https://open.spotify.com/album/40voTLKXch9Rge7BlKR56z) | 2:19 | 2022-01-14 | 2022-04-16 |
-| [Slow Down](https://open.spotify.com/track/3Tjkpr0qy6oi1GP8kjQNDH) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [Slow Down](https://open.spotify.com/album/4W0eSdwEKYKRZH99zoeSSA) | 3:08 | 2024-01-05 |  |
+| [Slow Down](https://open.spotify.com/track/3Tjkpr0qy6oi1GP8kjQNDH) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [Slow Down](https://open.spotify.com/album/4W0eSdwEKYKRZH99zoeSSA) | 3:08 | 2024-01-05 | 2024-03-07 |
 | [Slow Running](https://open.spotify.com/track/6qg7RK7REbNVr9eOqPZ8zH) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Slow Running](https://open.spotify.com/album/5YCkmTgvykc6JFbvT5NlZF) | 4:22 | 2023-11-10 |  |
 | [Snowplow](https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0), [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Snowplow](https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ) | 2:41 | 2021-10-22 | 2023-03-11 |
 | [So Slowly](https://open.spotify.com/track/3svVB5h2BhRyvDqTDKYAFk) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [So Slowly](https://open.spotify.com/album/7elFANugWUFErlAs8V6vBW) | 3:00 | 2022-01-14 | 2022-04-14 |
@@ -530,6 +530,7 @@
 | [Wait for Springtime](https://open.spotify.com/track/4l9IZ0W3IlMZcC4DMRDK1L) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [Wait for Springtime](https://open.spotify.com/album/2PnSq69KJpy86syr5g5fbA) | 4:00 | 2021-10-22 | 2022-07-29 |
 | [Waiting for You](https://open.spotify.com/track/09GKItLsZLhzxdz70rKhCt) | [Isobel Anderson](https://open.spotify.com/artist/1tUN2f2byOej4LZdDq1UO9) | [In My Garden](https://open.spotify.com/album/0ECV8Ah8uUGnJxPjCOjDpe) | 3:06 | 2022-06-24 | 2022-10-14 |
 | [Waiting For You](https://open.spotify.com/track/7L5BQEm6e6MQr3CimiFicS) | [Isobel Anderson](https://open.spotify.com/artist/1tUN2f2byOej4LZdDq1UO9) | [In My Garden](https://open.spotify.com/album/4OmQr4L8PY6HIUiGgA2f6W) | 3:06 | 2022-04-13 | 2022-04-20 |
+| [Waiting For You \(feat\. Lucius\)](https://open.spotify.com/track/61YiDeQ7mtBuUV1zTC1d8J) | [T Bone Burnett](https://open.spotify.com/artist/4zMX9gWf1DKhvsYHUCbBF7), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Waiting For You](https://open.spotify.com/album/38kZX9wnCPqph1vxUM7I22) | 2:58 | 2024-03-04 |  |
 | [Walk Away](https://open.spotify.com/track/0OgN6FQsmQV8xaFaOWF9LX) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Personal History](https://open.spotify.com/album/6boV9BoOGBvjoQ3YugOW3n) | 3:12 | 2021-10-22 | 2022-07-22 |
 | [Walk Away](https://open.spotify.com/track/3U1FsTAe4KYRaWntA3MiQY) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Personal History](https://open.spotify.com/album/2dKKvtXMxAOAJsiHHu44IX) | 3:12 | 2024-01-05 | 2024-03-06 |
 | [Walk Me Home](https://open.spotify.com/track/2m5QJpOvrWWA7xuhwK1Rpk) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Guard Dog](https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58) | 4:37 | 2022-12-16 |  |

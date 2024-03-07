@@ -4,7 +4,7 @@
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-572 songs - 1 day 8 hr 25 min
+573 songs - 1 day 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Henceforth](https://open.spotify.com/track/57ogQzcfCwQW1YoBdfz4Wa) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS), [IA](https://open.spotify.com/artist/1oz1HYOyJhjshPi5Nvs3MX) | [Henceforth](https://open.spotify.com/album/2RqPD5PUvE0buIQ74wpmFV) | 3:55 | 2022-07-26 | 2023-09-02 |
 | [HERO](https://open.spotify.com/track/1xpv91J8U0dmQK9m9Bi0Bb) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [HERO](https://open.spotify.com/album/0k5kcZQo3CeTdpSQ2GQvIl) | 2:30 | 2022-06-30 | 2022-07-15 |
 | [HERO \(feat\. 初音ミク\)](https://open.spotify.com/track/4oJVybTP5RihSfOn5sxf3W) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [初音ミク「マジカルミライ 2023」OFFICIAL ALBUM](https://open.spotify.com/album/3LnVCNSjdedP7hEmrrF7WR) | 3:24 | 2023-07-20 | 2024-02-27 |
-| [HITO Mania](https://open.spotify.com/track/5m9rwQVcChWF3TsKXlJfgE) | [Sasuke Haraguchi](https://open.spotify.com/artist/0lpGYhSy3qM3uvWAYF4fTf) | [HITO Mania](https://open.spotify.com/album/0oHrJBLx50GEEpYmnw6rEt) | 2:07 | 2023-08-24 |  |
+| [HITO Mania](https://open.spotify.com/track/5m9rwQVcChWF3TsKXlJfgE) | [Sasuke Haraguchi](https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3) | [HITO Mania](https://open.spotify.com/album/0oHrJBLx50GEEpYmnw6rEt) | 2:07 | 2023-08-24 |  |
 | [hontono](https://open.spotify.com/track/3eOHIYuCUXVGYAFZ751im2) | [Sasuke Haraguchi](https://open.spotify.com/artist/0lpGYhSy3qM3uvWAYF4fTf) | [hontono](https://open.spotify.com/album/1c9Digq9eDqHfeUmlApRXi) | 2:02 | 2023-11-07 | 2023-11-29 |
 | [Hug](https://open.spotify.com/track/7pJNL5QQBYY7D3pD4HL9Wn) | [MIMI](https://open.spotify.com/artist/0nwGsQzwVqdlBAg0eSNxmd), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [Hug](https://open.spotify.com/album/5gsdoNluV1P9CZjeBJFNbr) | 2:39 | 2023-11-28 | 2023-12-27 |
 | [Hungry song](https://open.spotify.com/track/5VP0VvJuLNK2lvCWNnPMz7) | [RemAlice](https://open.spotify.com/artist/5nN8gCpVNLQVlu6h7YGeSx), [IA](https://open.spotify.com/artist/1oz1HYOyJhjshPi5Nvs3MX) | [Hungry song](https://open.spotify.com/album/7y8rGTJsU438lkwIBINbfq) | 3:09 | 2022-06-14 | 2022-06-20 |
@@ -183,6 +183,7 @@
 | [Who?](https://open.spotify.com/track/6K13hIU8J8NSSKMfLWu8sn) | [Azari](https://open.spotify.com/artist/0cevUP0ssLSLm7ict9X2E9) | [Who?](https://open.spotify.com/album/1Q8OHx0Czg42H94rajby9S) | 1:56 | 2022-10-13 |  |
 | [Wonder of Wonder](https://open.spotify.com/track/3Mx9BRnML0cHrdfulaKFfu) | [daniwellP](https://open.spotify.com/artist/057M88mJrSI7zUZpSHexpe) | [Wonder of Wonder](https://open.spotify.com/album/38tj7VvLfkBEJksWb8DHNP) | 3:45 | 2022-07-14 | 2022-07-20 |
 | [WORLD'S END UMBRELLA \- ORIGINAL](https://open.spotify.com/track/4WnNJCPzJYzOvM8gLdFcs9) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [花束と水葬](https://open.spotify.com/album/28uForAlijhQ8ISFZOZfFw) | 5:28 | 2022-06-14 | 2022-06-22 |
+| [Yamiaka Steroid](https://open.spotify.com/track/18askMdpKrpTqsw2g55fvd) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE) | [Yamiaka Steroid](https://open.spotify.com/album/1NoYn3ThX46hq3PaUl14xv) | 2:53 | 2024-03-05 |  |
 | [yattyattawane](https://open.spotify.com/track/4TUDZrFx0JeSgWRm6Dpr0A) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa), [DREAMERS](https://open.spotify.com/artist/75k5ZGFQq4rRbdiJZGJ8Vi) | [yattyattawane](https://open.spotify.com/album/6dBjMTrStkpRgcp7PNByft) | 3:09 | 2023-09-07 | 2023-10-06 |
 | [Yoidoreshirazu](https://open.spotify.com/track/26zbAdTJC4vqqpGwSzvh8Q) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Yoidoreshirazu](https://open.spotify.com/album/32sf8CyAb7MtRbVTDJrWQA) | 2:14 | 2022-07-26 |  |
 | [YOMI](https://open.spotify.com/track/3Mm9Cx5gCig9qeMm4eaUoI) | [煮ル果実](https://open.spotify.com/artist/3wG9JLlVmrbpfKcBuQ2xlh) | [YOMI](https://open.spotify.com/album/4IWge9TEfl1Kdc8P3FWJi2) | 3:37 | 2022-11-24 | 2022-12-14 |
@@ -540,7 +541,7 @@
 | [珈琲メモリア](https://open.spotify.com/track/42HHocSogPnphZvWptRKRz) | [大江カルシー](https://open.spotify.com/artist/658uG2eg1MYI6RCG7UsGKo) | [珈琲メモリア](https://open.spotify.com/album/0LlIkhL2JWxakcF1ctmuGo) | 2:52 | 2022-06-14 | 2022-06-19 |
 | [甘噛みでおねがい](https://open.spotify.com/track/6kR2jpVbk0e7uBVjWkGuTC) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [META](https://open.spotify.com/album/574wcOE5FGFbHlkEzgio8j) | 3:22 | 2023-05-16 | 2023-05-18 |
 | [異世界クエスチョン \- 市瀬るぽ Remix](https://open.spotify.com/track/4BFBM9rjayfcwot7lDCt95) | [市瀬るぽ](https://open.spotify.com/artist/4JPnxsMo1F3QOkh9KGDWz1), [victream](https://open.spotify.com/artist/0RVrUXnfBslojFb2n8RQ53) | [異世界クエスチョン \(市瀬るぽ Remix\)](https://open.spotify.com/album/6uD56k2JjXreQgPGqcHgPh) | 3:53 | 2022-06-09 | 2022-06-11 |
-| [病み垢ステロイド](https://open.spotify.com/track/6S7AQLwU7RUMxgx27JtYwh) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE) | [病み垢ステロイド](https://open.spotify.com/album/2PbRPtKGvRkFG3kNjyhQro) | 2:53 | 2024-03-05 |  |
+| [病み垢ステロイド](https://open.spotify.com/track/6S7AQLwU7RUMxgx27JtYwh) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE) | [病み垢ステロイド](https://open.spotify.com/album/2PbRPtKGvRkFG3kNjyhQro) | 2:53 | 2024-03-05 | 2024-03-07 |
 | [白い雪のプリンセスは](https://open.spotify.com/track/0WqE9VjtUmgohp92X7xiq9) | [Noboru](https://open.spotify.com/artist/2GKOMrDQ4GrdZjoQncM7w1) | [EXIT TUNES PRESENTS Supernova\(スーパーノヴァ\)2 ジャケットイラスト:redjuice](https://open.spotify.com/album/3nDClftBJB2I49GD4RQo3q) | 4:22 | 2022-06-14 | 2022-07-25 |
 | [百倍返し](https://open.spotify.com/track/2Y27T6eJuQgu32Hvr8Y4k9) | [吉乃](https://open.spotify.com/artist/4jxGzNzN68CsE1SnKixpiF) | [百倍返し](https://open.spotify.com/album/0ivS9ZqIvLqJfJiUjj36m8) | 2:54 | 2022-07-24 | 2022-07-27 |
 | [盲目スレッド](https://open.spotify.com/track/6BoBaAEiPLI18FILOCE98e) | [Asa](https://open.spotify.com/artist/34wHoLv6gBNnAJSjAzuLGA), [重音テト](https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o) | [盲目スレッド](https://open.spotify.com/album/7ooK588S6OGiNwRv29ldfz) | 3:22 | 2022-07-14 | 2022-07-28 |

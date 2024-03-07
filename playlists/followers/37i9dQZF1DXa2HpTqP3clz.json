@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 131886,
+  "2024-03-07": 131891,
   "date_first_scraped": "2021-12-21",
   "description": "Today's Bluegrass and old time favorites. Cover: Missy Raines",
   "name": "Grass Roots",
@@ -1525,7 +1525,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 256506,
       "name": "Charlie Pickle",
       "url": "https://open.spotify.com/track/245S2fMRVAQCSZ9idjYvWV"
@@ -1753,7 +1753,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 228186,
       "name": "Colorado Bound",
       "url": "https://open.spotify.com/track/3b0Yprz0kBXiZOcuPqMq6g"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Tiny Habits
 
-[Spotify](https://open.spotify.com/user/spotify) - 791,926 likes - 150 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 792,031 likes - 150 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 15 | [Fool](https://open.spotify.com/track/2T0NGoXh9FT1kCjQA5Phto) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Fool](https://open.spotify.com/album/7w9GLsCdyuS7uwdixV90vb) | 2:54 |
 | 16 | [The Trek](https://open.spotify.com/track/5P4Uaj4mKQpkZYRyt5ceMC) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [The Trek](https://open.spotify.com/album/71QLGDfkyZqoN8U9LTDmYj) | 4:42 |
 | 17 | [See You Soon](https://open.spotify.com/track/6J0iDtlXabHqZizUKWUAX8) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [See You Soon](https://open.spotify.com/album/3RnZzFLaoswdse4TKBEmmH) | 3:14 |
-| 18 | [Hawkmoon](https://open.spotify.com/track/2TPoZOzNzkiazpFm5Duv7A) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [Hawkmoon](https://open.spotify.com/album/0WLU49zBV5CStnFUiYHrLD) | 3:42 |
+| 18 | [Hawkmoon](https://open.spotify.com/track/4LbT4vgs0uYQHT3NZn9GD1) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [The Past Is Still Alive](https://open.spotify.com/album/5swrwkZivdtPxSHAuQvrOE) | 3:42 |
 | 19 | [Never gone](https://open.spotify.com/track/0QT4IfEZnZOmiSnYw0eabI) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Never gone](https://open.spotify.com/album/08kxKWy20ZwGmoMnAUTQEM) | 5:22 |
 | 20 | [All I Have](https://open.spotify.com/track/5v6Jj76nTkyTTvZ70NSUVJ) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [All I Have](https://open.spotify.com/album/0ViaFGRXDdTIzIEtTNELs2) | 3:46 |
-| 21 | [Logic of Color \- Variation](https://open.spotify.com/track/3bVc8xgaWA0ejgwed8B6Sl) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Logic of Color \(Variation\)](https://open.spotify.com/album/3JFO5xqxWHH803ugN0y7LV) | 4:47 |
+| 21 | [Logic of Color \- Variation](https://open.spotify.com/track/3bVc8xgaWA0ejgwed8B6Sl) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB), [Metropolis Ensemble](https://open.spotify.com/artist/7M4SGchCWEPMVvx16DKXOy), [Paul Wiancko](https://open.spotify.com/artist/0A8HBV4n2KCWWnBEVZK8dw), [William Brittelle](https://open.spotify.com/artist/466nMSvwGWb3f8G7hR4Gja) | [Logic of Color \(Variation\)](https://open.spotify.com/album/3JFO5xqxWHH803ugN0y7LV) | 4:47 |
 | 22 | [I'll Never Leave You Alone](https://open.spotify.com/track/57Xa77d97gAuxKxeTrgEj0) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [I'll Never Leave You Alone](https://open.spotify.com/album/5xRRnkMr4VvfBSiPRT7Nc4) | 3:59 |
 | 23 | [How to Forget](https://open.spotify.com/track/5E7ShoQeHx2WoEa5uFwRWW) | [Husky](https://open.spotify.com/artist/47nuMLurQsLP1gLK7gJtis) | [How to Forget](https://open.spotify.com/album/3MYJWD831kp1HuvlBCE61X) | 3:54 |
 | 24 | [Your Eyes Tell Stories](https://open.spotify.com/track/2L0lffL9iJypY0PDGEg169) | [Bo Staloch](https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh) | [Your Eyes Tell Stories](https://open.spotify.com/album/1QgZwqU2YobE0pxiD3tzkE) | 5:20 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Cold Hand](https://open.spotify.com/track/4SPd7Gg0ZZA2MyuuVG8yfq) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [Cold Hand](https://open.spotify.com/album/6KjFQ3qeJABjuDEuQGTenA) | 3:08 |
 | 150 | [I Promise](https://open.spotify.com/track/02UnxTJJJYS0yGNOIGdjOF) | [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [I Promise](https://open.spotify.com/album/5Amy4k4ccGfO2pA9wFCPLs) | 3:41 |
 
-Snapshot ID: `MCwyMzhmMDNkZmJjNGUyZGFhMTY5NDc4Y2Y1NmNmMDM0NGE1MjlmMzhi`
+Snapshot ID: `MCxlMTA0YTczNzhhZjFmMTNmMjlkMDVlMjdjNGE5Mzk1NTczNWQ0MjYy`

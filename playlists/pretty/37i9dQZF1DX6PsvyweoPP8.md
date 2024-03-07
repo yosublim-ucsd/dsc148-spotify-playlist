@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,706 likes - 84 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,710 likes - 84 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 83 | [Seu Desejo](https://open.spotify.com/track/2YcIs0ze3MeObnD9zXTifZ) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [GREGO](https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X), [DJ Pedro Vieira](https://open.spotify.com/artist/6Nc0KutYK7ABhJ2jC1K2mn), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Seu Desejo](https://open.spotify.com/album/3adNSP3xdQtHLXDiKt7AMU) | 3:54 |
 | 84 | [King Size](https://open.spotify.com/track/65H0yBiqmdiXinuexEWDAs) | [Olhares](https://open.spotify.com/artist/4sZgfmE3StdCfvUDOZakzc), [Tangi](https://open.spotify.com/artist/5oFbBc3ADqWvbU3jzihIXM) | [King Size](https://open.spotify.com/album/0nsTJkAhy8AXuK95Z1jhGm) | 2:32 |
 
-Snapshot ID: `MCw2NWZhODFmNmY5NGQ5M2FjN2VjMmNiYzIwNGFlNjQ5NjQ3M2M2YWJl`
+Snapshot ID: `MCw0Y2UwYjA0YThmOGYyMzc4MGNiYjI1MWZjZmJmYzM3ZTg3YWM2ZGRh`

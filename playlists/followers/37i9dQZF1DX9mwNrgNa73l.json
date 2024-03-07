@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 130009,
+  "2024-03-07": 130167,
   "date_first_scraped": "2022-06-22",
   "description": "Jahaan bhi dekho tera nishaan hai, mahraab-i dil men teri azaan hai.",
   "name": "South Asian Sufi",
@@ -2071,7 +2071,7 @@
     {
       "album": {
         "name": "Masjid Mandir",
-        "url": "https://open.spotify.com/album/1TpoHVySqAbMrg0lEwruML"
+        "url": "https://open.spotify.com/album/1aKRfdLtpQeYCk8cTsWfIf"
       },
       "artists": [
         {
@@ -2082,6 +2082,24 @@
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 233354,
+      "name": "Masjid Mandir",
+      "url": "https://open.spotify.com/track/1rcqG4wPrIUQ6FHgTUH70N"
+    },
+    {
+      "album": {
+        "name": "Masjid Mandir",
+        "url": "https://open.spotify.com/album/1TpoHVySqAbMrg0lEwruML"
+      },
+      "artists": [
+        {
+          "name": "Javed Bashir",
+          "url": "https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-06",
       "duration_ms": 233354,
       "name": "Masjid Mandir",
       "url": "https://open.spotify.com/track/3rNp2GjaY3taqKaGzCrEZA"

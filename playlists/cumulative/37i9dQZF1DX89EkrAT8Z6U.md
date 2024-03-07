@@ -2,7 +2,7 @@
 
 ### [shōnen](https://open.spotify.com/playlist/37i9dQZF1DX89EkrAT8Z6U)
 
-> A mixtape for the perfect anime fight scene\. Also check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>
+> The perfect mixtape for an anime fight scene\. Also check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>
 
 314 songs - 13 hr 15 min
 

@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 59228,
+  "2024-03-07": 59221,
   "date_first_scraped": "2021-12-28",
   "description": "La playlist id\u00e9ale pour vos f\u00eates cette ann\u00e9e! ",
   "name": "No\u00ebl, No\u00ebl, No\u00ebl",
@@ -749,7 +749,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-05",
+      "date_removed": null,
       "duration_ms": 140466,
       "name": "C'est No\u00ebl",
       "url": "https://open.spotify.com/track/4US3M3oVGLNUNvIRAPfQcE"
@@ -1917,7 +1917,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 193413,
       "name": "J'ai vu maman",
       "url": "https://open.spotify.com/track/7C2rBix360wLA61Al61APh"

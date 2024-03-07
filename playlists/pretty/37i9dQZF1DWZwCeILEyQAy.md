@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 
 > Real Rap\. All Pressure\. Cover: GloRilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,115 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,122 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 49 | [N.A.L.B\. \(feat\. chriseanrock\)](https://open.spotify.com/track/73Sv0RLGr1MsFEykKcIvVR) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [chriseanrock](https://open.spotify.com/artist/3Idu5nTg2S3wrYwVkPqiwa) | [N.A.L.B\. \(feat\. chriseanrock\)](https://open.spotify.com/album/5G4HL8phOrQCQjEvnYYqsI) | 2:30 |
 | 50 | [Princess Diana \(with Nicki Minaj\) \[Extendo Clip\]](https://open.spotify.com/track/62k3kkUQmWan59sH3Lzt1t) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Princess Diana \(with Nicki Minaj\) \[Versions\]](https://open.spotify.com/album/00eK46cfChKfGZcYZcaWSa) | 3:18 |
 
-Snapshot ID: `MCw2NzhjNzg0YjZlNzk1MDFjODdlMGVlZmQzZjcxOTBkN2VhNzE1MGY4`
+Snapshot ID: `MCxiOTIwMzczNjA4N2I4MmJlZDVkODNkODJkZTEyOGM1YzZhMTg2NDUw`

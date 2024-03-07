@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183 likes - 93 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 182 likes - 93 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 8 | [SHADOW](https://open.spotify.com/track/0Wv6HtcBNex6lwPugykWCd) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/1bUx6TFAyzCdZY9ugEXxRh) | 2:48 |
 | 9 | [We Are Love](https://open.spotify.com/track/2MEkDq4Rl17FXDWK5JKsVX) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [We Are Love](https://open.spotify.com/album/6pp6Rn3GK8hmtFIPNkhR3n) | 3:09 |
 | 10 | [Lose This Feeling](https://open.spotify.com/track/4tV6C36fjDmz0kzlFIdx3o) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Breathe In](https://open.spotify.com/album/5O5omtkIR6DrDMKM8YCHmw) | 2:26 |
-| 11 | [Better Without You \(feat\. Glowie\)](https://open.spotify.com/track/1tQNwQeYxq5FsSm0FALERe) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Glowie](https://open.spotify.com/artist/303SwmjLibkh8OJH5xxZOM) | [Better Without You \(feat\. Glowie\)](https://open.spotify.com/album/3WbGTK5SA0XEc7bbUVgHUt) | 2:27 |
-| 12 | [Running](https://open.spotify.com/track/2uIqAH4YQ7oD8rPVujlTZf) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Animosity](https://open.spotify.com/album/7wrg3K3lEMEXcIovV4OYB6) | 2:53 |
+| 11 | [Running](https://open.spotify.com/track/2uIqAH4YQ7oD8rPVujlTZf) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Animosity](https://open.spotify.com/album/7wrg3K3lEMEXcIovV4OYB6) | 2:53 |
+| 12 | [Better Without You \(feat\. Glowie\)](https://open.spotify.com/track/1tQNwQeYxq5FsSm0FALERe) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Glowie](https://open.spotify.com/artist/303SwmjLibkh8OJH5xxZOM) | [Better Without You \(feat\. Glowie\)](https://open.spotify.com/album/3WbGTK5SA0XEc7bbUVgHUt) | 2:27 |
 | 13 | [Here Comes The Night](https://open.spotify.com/track/0o0xvvWmCtMdnJ3F8FBurv) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Magic Still Exists](https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN) | 3:32 |
 | 14 | [I Don't Wanna](https://open.spotify.com/track/10zj4ifnklN7ChSaXgy6XL) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Club Zero Cool, Vol\. 2](https://open.spotify.com/album/66vRCER2aWBuV0tXEhO0t1) | 2:23 |
 | 15 | [Am I The Only One \(with Astrid S & HRVY\)](https://open.spotify.com/track/4esyKRHqA3E57OuXm8U8Mu) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Am I The Only One \(with Astrid S & HRVY\)](https://open.spotify.com/album/4g9Aep5KECuUy65mvm2wUs) | 2:32 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 73 | [Funeral](https://open.spotify.com/track/2wjWIPP2y28H9wzoCHpUkF) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Funeral](https://open.spotify.com/album/0GiNJtmbdFTZElphnAnqiD) | 3:26 |
 | 74 | [Young Love](https://open.spotify.com/track/5SD1NZszAZ34u3EF5J9GYC) | [Madyx](https://open.spotify.com/artist/0yMcs3BSd3sReeuzbyZGVK) | [Young Love](https://open.spotify.com/album/6lMKIsFf3fuFrCoEgkjsZk) | 3:08 |
 | 75 | [40 Days & 40 Nights \(feat\. Olivia Sebastianelli\)](https://open.spotify.com/track/6jV1ordhBJJeEjCW04XJCx) | [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM), [Olivia Sebastianelli](https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR) | [40 Days & 40 Nights \(feat\. Olivia Sebastianelli\)](https://open.spotify.com/album/629FIvZBa2hJuEN3VB9zAl) | 2:33 |
-| 76 | [1000 Questions](https://open.spotify.com/track/0LxpkO2AazoIfJ1PoRFbBp) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 4:06 |
-| 77 | [Island](https://open.spotify.com/track/3HdrHSnfKYa1AAVdmilsxt) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp) | [Tjuvjakt](https://open.spotify.com/album/4xD2AdE5l9uqHoH1y2hrhY) | 2:55 |
+| 76 | [Island](https://open.spotify.com/track/3HdrHSnfKYa1AAVdmilsxt) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp) | [Tjuvjakt](https://open.spotify.com/album/4xD2AdE5l9uqHoH1y2hrhY) | 2:55 |
+| 77 | [1000 Questions](https://open.spotify.com/track/0LxpkO2AazoIfJ1PoRFbBp) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 4:06 |
 | 78 | [Deathwish](https://open.spotify.com/track/5vOTkYL1V8SMLv2dqmi9uE) | [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Deathwish](https://open.spotify.com/album/1IGNvQjs3pivPPPpsLpkBX) | 3:12 |
 | 79 | [Big Feelings](https://open.spotify.com/track/6DEf0oAPdhAA90LUy7tOd0) | [EYJAA](https://open.spotify.com/artist/3Izf45JtVxEjBMvq5vJOsg) | [Big Feelings](https://open.spotify.com/album/4hpkCPORoCgGW8iEvbb3D2) | 2:39 |
 | 80 | [Stay \- Piano ver.](https://open.spotify.com/track/1yT4l2NRZubuYRYT1lVD9a) | [Mizki](https://open.spotify.com/artist/5zJpeKLSuVa7kulMcgRGcE) | [Stay \(Piano ver.\)](https://open.spotify.com/album/4u9KIaeMZgkgi9LZSqVaVD) | 3:20 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 92 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
 | 93 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
 
-Snapshot ID: `Mjg0OTQ4NjAsMDAwMDAwMDAyNzg2ODkxNzAxOGFkOWM3ZDVlMGNkOGU1YmViNjgxMA==`
+Snapshot ID: `Mjg0OTYzMDAsMDAwMDAwMDAyZDI4MDMxZWVmNGVjMzY2MzI3MWI5MGExNTE5NmY4OQ==`

@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 217624,
+  "2024-03-07": 217662,
   "date_first_scraped": "2024-01-15",
   "description": "Piano instrumental para ajudar sua concentra\u00e7\u00e3o na hora de ler e estudar.",
   "name": "Foco no Estudo",
@@ -629,7 +629,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 140385,
       "name": "Fictional Reality",
       "url": "https://open.spotify.com/track/3Ro52fuPSWBfMqhbu9NTX8"
@@ -1227,6 +1227,24 @@
       "duration_ms": 141500,
       "name": "Pneuma",
       "url": "https://open.spotify.com/track/66AEotuooy840dzHKyW9Ks"
+    },
+    {
+      "album": {
+        "name": "Prati",
+        "url": "https://open.spotify.com/album/0Z9iN9qKmgZe3c5RemXZBU"
+      },
+      "artists": [
+        {
+          "name": "Carluccio",
+          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145566,
+      "name": "Prati",
+      "url": "https://open.spotify.com/track/7rXBrWGuXfc64IG5gD7Kee"
     },
     {
       "album": {

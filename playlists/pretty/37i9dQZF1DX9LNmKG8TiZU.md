@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LNmKG8TiZU.md) - [plain]
 
 > Des titres pop, tout en douceur\. Photo : Alec Benjamin
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,693 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,710 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LNmKG8TiZU.md) - [plain]
 | 49 | [Room Service](https://open.spotify.com/track/5NURmMpR9TkfYroyf9HcJQ) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB) | 3:46 |
 | 50 | [I Don't Wanna Lose Myself](https://open.spotify.com/track/5qnkypfRNlDzQB9tZgsw8E) | [ANIKK](https://open.spotify.com/artist/2wvznrRx5MZ2qwqRJPYNmN) | [I Don't Wanna Lose Myself](https://open.spotify.com/album/5UqNEcubHPHBYSRC3ZvbL4) | 3:02 |
 
-Snapshot ID: `MCxlMWQ2MGM4YmIxNzE4YThjYWY3Y2RlMjZlMmJhMGZlNDU1MGZlNzIw`
+Snapshot ID: `MCwzODg5NzM2NGM1NjkwMjc1MDBiNzNhNWE5YmM0ZjYwYzlmODgxNTli`

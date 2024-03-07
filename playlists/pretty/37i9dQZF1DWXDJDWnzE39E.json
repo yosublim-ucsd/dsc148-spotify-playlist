@@ -1,12 +1,12 @@
 {
   "description": "A salute to all of the women opening up the pit. Cover: Courtney LaPlante of Spiritbox",
-  "num_followers": 657612,
+  "num_followers": 658379,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWFjZTBkYjhmY2UwZTAyOGU2YzljNDc0NjczM2JjNmIwYmM0ZTAw",
+  "snapshot_id": "MCw1Mjg2MDNhY2RmYThmMmI3N2QyMDIyZjI3ZDk3ZDZiYjQ0Njk4MTdi",
   "tracks": [
     {
       "added_at": "2024-02-16 12:14:47",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-02-16 12:14:47",
       "album": {
-        "name": "We Bring You the Stars",
-        "url": "https://open.spotify.com/album/2Y2c3UxmXkDuhbjnIAE9so"
-      },
-      "artists": [
-        {
-          "name": "Metalite",
-          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
-        }
-      ],
-      "duration_ms": 180373,
-      "name": "We Bring You the Stars",
-      "url": "https://open.spotify.com/track/0xZ75ORYh9uWtBkCDbV8YU"
-    },
-    {
-      "added_at": "2024-02-16 12:14:47",
-      "album": {
         "name": "Rest In Peace",
         "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 217327,
       "name": "Rest In Peace",
       "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
+    },
+    {
+      "added_at": "2024-02-16 12:14:47",
+      "album": {
+        "name": "We Bring You the Stars",
+        "url": "https://open.spotify.com/album/2Y2c3UxmXkDuhbjnIAE9so"
+      },
+      "artists": [
+        {
+          "name": "Metalite",
+          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
+        }
+      ],
+      "duration_ms": 180373,
+      "name": "We Bring You the Stars",
+      "url": "https://open.spotify.com/track/0xZ75ORYh9uWtBkCDbV8YU"
     },
     {
       "added_at": "2024-02-16 12:14:47",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-02-16 12:14:47",
       "album": {
-        "name": "Tsunami (11:11)",
-        "url": "https://open.spotify.com/album/1mQwEcEkEfQ5EFW9Q4PpsE"
-      },
-      "artists": [
-        {
-          "name": "Bambie Thug",
-          "url": "https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC"
-        }
-      ],
-      "duration_ms": 188823,
-      "name": "Tsunami (11:11)",
-      "url": "https://open.spotify.com/track/0u4SRuld2zPAnyImNdfMAo"
-    },
-    {
-      "added_at": "2024-02-16 12:14:47",
-      "album": {
         "name": "The Bitter Truth",
         "url": "https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 229880,
       "name": "See You In Hell",
       "url": "https://open.spotify.com/track/5JfXImbIiGSH2tOUWnGJty"
+    },
+    {
+      "added_at": "2024-02-16 12:14:47",
+      "album": {
+        "name": "Tsunami (11:11)",
+        "url": "https://open.spotify.com/album/1mQwEcEkEfQ5EFW9Q4PpsE"
+      },
+      "artists": [
+        {
+          "name": "Bambie Thug",
+          "url": "https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC"
+        }
+      ],
+      "duration_ms": 188823,
+      "name": "Tsunami (11:11)",
+      "url": "https://open.spotify.com/track/0u4SRuld2zPAnyImNdfMAo"
     },
     {
       "added_at": "2024-02-16 12:14:47",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-02-16 12:14:47",
       "album": {
-        "name": "EAT IT UP SPIT IT OUT",
-        "url": "https://open.spotify.com/album/0dAQn8Qq1L1olB4QqQvARM"
-      },
-      "artists": [
-        {
-          "name": "Holy Wars",
-          "url": "https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4"
-        }
-      ],
-      "duration_ms": 165282,
-      "name": "21ST CENTURY BITCH",
-      "url": "https://open.spotify.com/track/2car32KMDF9AbUTbRYq5q4"
-    },
-    {
-      "added_at": "2024-02-16 12:14:47",
-      "album": {
         "name": "Crimson",
         "url": "https://open.spotify.com/album/0WA5fU4NhSv5TDIs4tOR7F"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 219132,
       "name": "Broken",
       "url": "https://open.spotify.com/track/69BhJ2YVTYR5EltHFH2wfg"
+    },
+    {
+      "added_at": "2024-02-16 12:14:47",
+      "album": {
+        "name": "EAT IT UP SPIT IT OUT",
+        "url": "https://open.spotify.com/album/0dAQn8Qq1L1olB4QqQvARM"
+      },
+      "artists": [
+        {
+          "name": "Holy Wars",
+          "url": "https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4"
+        }
+      ],
+      "duration_ms": 165282,
+      "name": "21ST CENTURY BITCH",
+      "url": "https://open.spotify.com/track/2car32KMDF9AbUTbRYq5q4"
     },
     {
       "added_at": "2024-02-16 12:14:47",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-02-16 12:14:47",
       "album": {
-        "name": "MY MASOCHISTIC MIND",
-        "url": "https://open.spotify.com/album/47ZhdYUbzhzhwi8u1hdLgt"
-      },
-      "artists": [
-        {
-          "name": "Siiickbrain",
-          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
-        }
-      ],
-      "duration_ms": 131076,
-      "name": "I am a Machine",
-      "url": "https://open.spotify.com/track/7r6PizEykGi4mjmTPtoVnC"
-    },
-    {
-      "added_at": "2024-02-16 12:14:47",
-      "album": {
         "name": "Sunset over the Empire",
         "url": "https://open.spotify.com/album/0Nx1Azswts2lQwxpqtwrL9"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 243080,
       "name": "Sunset over the Empire",
       "url": "https://open.spotify.com/track/1AtE4xrxLR7nSPWSk1VGqM"
+    },
+    {
+      "added_at": "2024-02-16 12:14:47",
+      "album": {
+        "name": "MY MASOCHISTIC MIND",
+        "url": "https://open.spotify.com/album/47ZhdYUbzhzhwi8u1hdLgt"
+      },
+      "artists": [
+        {
+          "name": "Siiickbrain",
+          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
+        }
+      ],
+      "duration_ms": 131076,
+      "name": "I am a Machine",
+      "url": "https://open.spotify.com/track/7r6PizEykGi4mjmTPtoVnC"
     },
     {
       "added_at": "2024-02-16 12:14:47",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-02-16 12:14:47",
       "album": {
-        "name": "The Reckoning",
-        "url": "https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5"
-      },
-      "artists": [
-        {
-          "name": "Icon For Hire",
-          "url": "https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7"
-        }
-      ],
-      "duration_ms": 228626,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/1iFIRC1D9NnxjTwF240jZy"
-    },
-    {
-      "added_at": "2024-02-16 12:14:47",
-      "album": {
         "name": "Paralyzed",
         "url": "https://open.spotify.com/album/0DiNp9OwAkJTfYOICCyHcZ"
       },
@@ -1187,18 +1171,18 @@
     {
       "added_at": "2024-02-16 12:14:47",
       "album": {
-        "name": "The Bitter Truth",
-        "url": "https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY"
+        "name": "The Reckoning",
+        "url": "https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5"
       },
       "artists": [
         {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+          "name": "Icon For Hire",
+          "url": "https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7"
         }
       ],
-      "duration_ms": 209160,
-      "name": "Yeah Right",
-      "url": "https://open.spotify.com/track/3dLSEH3LqTsCcBFMzsE0Er"
+      "duration_ms": 228626,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/1iFIRC1D9NnxjTwF240jZy"
     },
     {
       "added_at": "2024-02-16 12:14:47",
@@ -1219,18 +1203,18 @@
     {
       "added_at": "2024-02-16 12:14:47",
       "album": {
-        "name": "Stigmata Itch",
-        "url": "https://open.spotify.com/album/1lrivcdLt2w1EXhVKwYvLN"
+        "name": "The Bitter Truth",
+        "url": "https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY"
       },
       "artists": [
         {
-          "name": "Rave The Reqviem",
-          "url": "https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX"
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 217173,
-      "name": "Colossvs",
-      "url": "https://open.spotify.com/track/2UT1QfO4PD8fYaKaZetv2t"
+      "duration_ms": 209160,
+      "name": "Yeah Right",
+      "url": "https://open.spotify.com/track/3dLSEH3LqTsCcBFMzsE0Er"
     },
     {
       "added_at": "2024-02-16 12:14:47",
@@ -1251,18 +1235,18 @@
     {
       "added_at": "2024-02-16 12:14:47",
       "album": {
-        "name": "Cure 4 Psycho",
-        "url": "https://open.spotify.com/album/5mPNhLXoyn98tShWrYJfKV"
+        "name": "Stigmata Itch",
+        "url": "https://open.spotify.com/album/1lrivcdLt2w1EXhVKwYvLN"
       },
       "artists": [
         {
-          "name": "RedHook",
-          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
+          "name": "Rave The Reqviem",
+          "url": "https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX"
         }
       ],
-      "duration_ms": 157749,
-      "name": "Cure 4 Psycho",
-      "url": "https://open.spotify.com/track/7JlUiuCXUDK5blSa8Gb9Ob"
+      "duration_ms": 217173,
+      "name": "Colossvs",
+      "url": "https://open.spotify.com/track/2UT1QfO4PD8fYaKaZetv2t"
     },
     {
       "added_at": "2024-02-16 12:14:47",
@@ -1279,6 +1263,22 @@
       "duration_ms": 181853,
       "name": "Cover You",
       "url": "https://open.spotify.com/track/2WEMin1qNkcJUtYiviSIka"
+    },
+    {
+      "added_at": "2024-02-16 12:14:47",
+      "album": {
+        "name": "Cure 4 Psycho",
+        "url": "https://open.spotify.com/album/5mPNhLXoyn98tShWrYJfKV"
+      },
+      "artists": [
+        {
+          "name": "RedHook",
+          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
+        }
+      ],
+      "duration_ms": 157749,
+      "name": "Cure 4 Psycho",
+      "url": "https://open.spotify.com/track/7JlUiuCXUDK5blSa8Gb9Ob"
     },
     {
       "added_at": "2024-02-16 12:14:47",

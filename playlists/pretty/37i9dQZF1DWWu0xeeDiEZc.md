@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 
 > Get your kids singing along with this fun playlist! They're sure to know these kid\-friendly classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,803 likes - 50 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,882 likes - 50 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 | 11 | [Hakuna Matata](https://open.spotify.com/track/5k3U0OGYBccHdKJJu3HrUN) | [Nathan Lane](https://open.spotify.com/artist/0P0do9GwiSgweSF6Ui3mrv), [Ernie Sabella](https://open.spotify.com/artist/0RH6EMxqfzCEB7QCSKQ4xr), [Jason Weaver](https://open.spotify.com/artist/5UdPkKWd8YNR5xGcmqH9QJ), [Joseph Williams](https://open.spotify.com/artist/5xk0kRuXn1zToTHpHAqpui) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 3:33 |
 | 12 | [Itsy Bitsy Spider](https://open.spotify.com/track/6cKlr2BOXBaqiuaHUY5Zwo) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 1](https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs) | 2:09 |
 | 13 | [Five Little Ducks](https://open.spotify.com/track/6T15qWkGDGlE9vTkvoT4oZ) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Baby Shark & More Kids Songs](https://open.spotify.com/album/2IDfqmrAmsyDA5DnGnQ0Ci) | 2:32 |
-| 14 | [Baby Beluga](https://open.spotify.com/track/7zQFM7bHcyMh4QQFdBkjrE) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Baby Beluga](https://open.spotify.com/album/0sOARc9azSO1btKcDtM7o1) | 2:40 |
-| 15 | [One, Two, Buckle My Shoe](https://open.spotify.com/track/025HtQSZfK801f3dnWsrRT) | [LooLoo Kids](https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx) | [The Best Songs for Kids, Vol\. 2](https://open.spotify.com/album/5Kc5LSRMzVNFAHOEoSB8ml) | 1:00 |
+| 14 | [One, Two, Buckle My Shoe](https://open.spotify.com/track/025HtQSZfK801f3dnWsrRT) | [LooLoo Kids](https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx) | [The Best Songs for Kids, Vol\. 2](https://open.spotify.com/album/5Kc5LSRMzVNFAHOEoSB8ml) | 1:00 |
+| 15 | [Baby Beluga](https://open.spotify.com/track/7zQFM7bHcyMh4QQFdBkjrE) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Baby Beluga](https://open.spotify.com/album/0sOARc9azSO1btKcDtM7o1) | 2:40 |
 | 16 | [Head, Shoulders, Knees and Toes](https://open.spotify.com/track/7toZuecF36JJeBq1faE2Xt) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [The Wiggles Nursery Rhymes](https://open.spotify.com/album/2Rw0nDYlmZctMw6dOhKCT6) | 1:58 |
 | 17 | [Mr\. Sun](https://open.spotify.com/track/69UCsdTNjYAgot1sIjviwD) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 5: Rhyme Around the Rosy](https://open.spotify.com/album/0sF3OFdtFfxv1RYyaYk0aL) | 1:38 |
 | 18 | [Wheels on the Bus \(All Through the Town\)](https://open.spotify.com/track/7LydPBAO6s0froW5cOZdfa) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [World Nursery Rhyme Week with Little Baby Bum](https://open.spotify.com/album/3kQQC6EpBgZ8sSdMBKk0TW) | 2:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 | 49 | [John Jingleheimer Schmidt \- 2012 Version](https://open.spotify.com/track/3WjmjGKIerosWGLGsrFHKU) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Kids Silly Sing\-Along Songs](https://open.spotify.com/album/13b54xTbPBMlcf9v3F9eZL) | 1:36 |
 | 50 | [Miss Mary Mack](https://open.spotify.com/track/6n8vAY5flz0VChNl2evwEc) | [Ella Jenkins](https://open.spotify.com/artist/2AdaJlzNcOpdrvMSBN92Wp) | [You'll Sing a Song and I'll Sing a Song](https://open.spotify.com/album/65VNMkYGsMwLrYE8kP9NYf) | 2:01 |
 
-Snapshot ID: `MCxjZWQ2NzRjMTQ3NDA4ZjBmNWNmZDVkNDc2MTBmYzhmNzc0YWZlMmFi`
+Snapshot ID: `MCw4YWQ1MGUyYTc3NDVkZDQyMWM5NmQ2NTI1ZTM1MDAyYTlhZjQ1OGRk`

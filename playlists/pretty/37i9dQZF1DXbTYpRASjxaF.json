@@ -1,12 +1,12 @@
 {
   "description": "Todos pro alto, cada um com o seu. Foto: LH CHUCRO, The Boy, N.A.N.A.",
-  "num_followers": 128989,
+  "num_followers": 129042,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjI3OWI3MWM0OTZmMDdiMjk3OWZmYjA1MGMxODIwYzM5NDhkZGZj",
+  "snapshot_id": "MCxlZTViOTljOWNkNWEzNjgxZDdlNDUzYmU3MWEzMDVkNDQ3ZmUxYWM3",
   "tracks": [
     {
       "added_at": "2024-03-01 03:01:00",
@@ -1295,6 +1295,26 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
+        "name": "Nega Doce",
+        "url": "https://open.spotify.com/album/0BMzLRaKY8LtPR2wEYuaAZ"
+      },
+      "artists": [
+        {
+          "name": "Torya",
+          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
+        },
+        {
+          "name": "xochuo",
+          "url": "https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P"
+        }
+      ],
+      "duration_ms": 136888,
+      "name": "Nega Doce",
+      "url": "https://open.spotify.com/track/2IFsSIVR7eZlm9lB3tUzCR"
+    },
+    {
+      "added_at": "2024-03-01 03:01:00",
+      "album": {
         "name": "Medo \u00c9 S\u00f3 Ilus\u00e3o",
         "url": "https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu"
       },
@@ -1315,26 +1335,6 @@
       "duration_ms": 135773,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/1GsOoDPsPpXhW1oJ2nPwNg"
-    },
-    {
-      "added_at": "2024-03-01 03:01:00",
-      "album": {
-        "name": "Nega Doce",
-        "url": "https://open.spotify.com/album/0BMzLRaKY8LtPR2wEYuaAZ"
-      },
-      "artists": [
-        {
-          "name": "Torya",
-          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
-        },
-        {
-          "name": "xochuo",
-          "url": "https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P"
-        }
-      ],
-      "duration_ms": 136888,
-      "name": "Nega Doce",
-      "url": "https://open.spotify.com/track/2IFsSIVR7eZlm9lB3tUzCR"
     },
     {
       "added_at": "2024-03-01 03:01:00",

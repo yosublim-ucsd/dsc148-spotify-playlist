@@ -4,7 +4,7 @@
 
 > Replongez dans les plus grands tubes de la période yéyé\. Photo : Françoise Hardy
 
-105 songs - 4 hr 41 min
+106 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [J'entends siffler le train \- Remastered](https://open.spotify.com/track/1PtsUo7Zsadub2T4anyF6O) | [Richard Anthony](https://open.spotify.com/artist/6fhXbgrtC1AffxqI32lPwz) | [J'entends siffler le train \(Remastered\)](https://open.spotify.com/album/3inxzMkdAUx94zJDaB5HcC) | 3:20 | 2022-06-28 | 2022-11-14 |
 | [L'idole des jeunes](https://open.spotify.com/track/4uEAhKOTCxHrkcYIg3C5wt) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Jean\-Philippe](https://open.spotify.com/album/0fNCDCmWK9OIlT9X5y92Y9) | 2:27 | 2022-06-28 | 2022-11-13 |
 | [L'idole des jeunes](https://open.spotify.com/track/53ZKkbhsI7p27GN5TcVbdX) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [L'Idole des jeunes](https://open.spotify.com/album/2uUQ2HkoPEzh55x1Zx549F) | 2:28 | 2021-07-26 | 2022-07-29 |
-| [L'idole des jeunes](https://open.spotify.com/track/0S4HOFZx606Zv6bEutTEez) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Anthologie Vol\. 1](https://open.spotify.com/album/12b1tVAedPdmKuBrIYhJBi) | 2:28 | 2022-06-28 |  |
+| [L'idole des jeunes](https://open.spotify.com/track/6bWCSMKgyxe2HZz80hFnTD) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [L'idole des jeunes](https://open.spotify.com/album/4l3cOA85IiwDT4NpkBvbkV) | 2:28 | 2022-06-28 |  |
+| [L'idole des jeunes](https://open.spotify.com/track/0S4HOFZx606Zv6bEutTEez) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Anthologie Vol\. 1](https://open.spotify.com/album/12b1tVAedPdmKuBrIYhJBi) | 2:28 | 2022-06-28 | 2024-03-07 |
 | [L'école est finie \- Version stéréo](https://open.spotify.com/track/4Kgq5PpWPsqMLOId5CvoYF) | [Sheila](https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu) | [Sheila \(Compilation 2006\)](https://open.spotify.com/album/6ixot8kh9JC9usgdNBKkZB) | 2:39 | 2021-07-26 |  |
 | [La javanaise](https://open.spotify.com/track/3ZOmDC01bMYi8PcdeQ2zgD) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Les plus belles chansons françaises](https://open.spotify.com/album/1FGF4A3hrzH1YBHTNoVKrU) | 2:29 | 2022-06-28 | 2022-11-14 |
 | [La javanaise](https://open.spotify.com/track/7cUKT1Wiwve4E5iRFOLVmz) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [N°4](https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO) | 2:29 | 2022-06-28 |  |

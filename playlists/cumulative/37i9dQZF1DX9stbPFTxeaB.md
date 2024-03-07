@@ -4,7 +4,7 @@
 
 > Blues, but funky\. Or funk, but bluesy\. Cover: Kenny Wayne Shepherd
 
-116 songs - 7 hr 39 min
+117 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Fading Away](https://open.spotify.com/track/7FpFxqvwMMR4j1Yi1vndpK) | [Artur Menezes](https://open.spotify.com/artist/0NxpILfCjl6UcOxMMMp8fo) | [Fading Away](https://open.spotify.com/album/4rbAfXhaS3CKaDGSfaK9Jb) | 3:44 | 2020-10-31 | 2023-04-29 |
 | [Few And Far Between](https://open.spotify.com/track/0yThOHWoOPPUFSW4oA6yT1) | [Shannon Curfman](https://open.spotify.com/artist/2sn2g4lNGlsAoJm15MOM7x) | [Loud Guitars, Big Suspicions](https://open.spotify.com/album/31YVnDFP920mK7VVqU3Fyp) | 3:54 | 2020-08-21 |  |
 | [Find a Way](https://open.spotify.com/track/4PTfrK6IhnTOd7SRpH17EK) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB) | 3:56 | 2020-08-21 |  |
-| [Freedom](https://open.spotify.com/track/3VpiTc2hSR4X5VUYQ5Td4Y) | [The Gulls](https://open.spotify.com/artist/2n0FlGHc3OxI0x2WI39BEc) | [Freedom](https://open.spotify.com/album/7sv8d8tHuZTRzEmEOQFeoj) | 3:00 | 2022-11-25 |  |
+| [Freedom](https://open.spotify.com/track/3VpiTc2hSR4X5VUYQ5Td4Y) | [The Gulls](https://open.spotify.com/artist/2n0FlGHc3OxI0x2WI39BEc) | [Freedom](https://open.spotify.com/album/7sv8d8tHuZTRzEmEOQFeoj) | 3:00 | 2022-11-25 | 2024-03-07 |
+| [Freedom](https://open.spotify.com/track/7lTrxftzzPW4WX7VRh6Vxl) | [The Gulls](https://open.spotify.com/artist/2n0FlGHc3OxI0x2WI39BEc) | [Freedom](https://open.spotify.com/album/7KKEJnwo51g6IGhufsyBzD) | 3:00 | 2022-11-25 |  |
 | [Fukk Up](https://open.spotify.com/track/3AKBquVo2xRipnaP9rbMCs) | [Andreas Kümmert](https://open.spotify.com/artist/7z66axlw21NlGzJ18VPmzj) | [Harlekin Dreams](https://open.spotify.com/album/1tiDmCVwb0zg46BADCJ4fQ) | 3:10 | 2020-08-21 |  |
 | [Funky Guitar Blues](https://open.spotify.com/track/2dqkDzJPwSIduZlKJh0lvB) | [Bryce Janey](https://open.spotify.com/artist/09ZFZmc7XNCwnDYB3R48qr) | [Blues In My Soul](https://open.spotify.com/album/1ULW18kqQ47Qp3YUATkvFQ) | 4:21 | 2020-08-21 |  |
 | [Further on Down the Line](https://open.spotify.com/track/4S0SOJFgn62SS3Tir84aCF) | [Ben Poole](https://open.spotify.com/artist/3MQuQtVNJG9SchM1l2CTm3) | [Anytime You Need Me](https://open.spotify.com/album/7utRyQ51kDmzNU24doZANL) | 3:56 | 2020-08-21 |  |

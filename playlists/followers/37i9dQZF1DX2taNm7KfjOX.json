@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 802450,
+  "2024-03-07": 802517,
   "date_first_scraped": "2021-12-21",
   "description": "Repeat-free hours of new and beloved indie folk. Cover: Marika Hackman",
   "name": "Infinite Indie Folk",
@@ -3478,6 +3478,24 @@
     },
     {
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/3aiBsLE0pQDTtZLO21UqZ8"
+      },
+      "artists": [
+        {
+          "name": "Jaguar Sun",
+          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217513,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/5YBqVqm8LmaIkrRSSfTMQk"
+    },
+    {
+      "album": {
         "name": "Acoustic Sessions",
         "url": "https://open.spotify.com/album/7ISQ9CXK8dZBLzZgfQp8si"
       },
@@ -6761,7 +6779,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 233854,
       "name": "Partner in Crime - Spotify Singles",
       "url": "https://open.spotify.com/track/33IZBhRtyMDZoa5SUNs3F7"
@@ -7001,6 +7019,24 @@
       "duration_ms": 254880,
       "name": "Promise Rings",
       "url": "https://open.spotify.com/track/5JaHVcRCP2pBAYIes1VrjK"
+    },
+    {
+      "album": {
+        "name": "Nothing to Lose",
+        "url": "https://open.spotify.com/album/3MLs9OSTBURXZ87o8ItJSp"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265962,
+      "name": "Purple",
+      "url": "https://open.spotify.com/track/2oUkMuFYBhdBmMsLLkE0Uy"
     },
     {
       "album": {
@@ -9807,7 +9843,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 192160,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/3U1FsTAe4KYRaWntA3MiQY"

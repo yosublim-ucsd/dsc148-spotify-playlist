@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 1013521,
+  "2024-03-07": 1013630,
   "date_first_scraped": "2022-01-11",
   "description": "This is The Rolling Stones. The essential tracks, all in one playlist.",
   "name": "This Is The Rolling Stones",
@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-05",
+      "date_removed": null,
       "duration_ms": 272000,
       "name": "Angie - Remastered 2009",
       "url": "https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq"
@@ -911,7 +911,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 203173,
       "name": "Little T&A - Remastered",
       "url": "https://open.spotify.com/track/7K3rmA4f6NEElsxKEOOt8H"

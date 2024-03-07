@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 
 > Reggae, roots and dub\. Relax, you're on island time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,828 likes - 95 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,850 likes - 95 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 15 | [Stand By Me \(Drew Forever\)](https://open.spotify.com/track/4Ua8dhnL9mKAZ78etjdOHX) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL) | [Stand By Me \(Drew Forever\)](https://open.spotify.com/album/6AsVMB0zcOvHvGc3INNY44) | 3:14 |
 | 16 | [It's You](https://open.spotify.com/track/4lTgTn4FTzk3IJWy7icNLL) | [STNDRD](https://open.spotify.com/artist/5LMAyDoKihkMcAGUhMqUYf), [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA) | [It's You](https://open.spotify.com/album/72Lzi9kZu2JrXBSkvw367X) | 3:41 |
 | 17 | [TAKE YA HOME](https://open.spotify.com/track/6iTkgefVHh412gRjtZuJKF) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy) | [TAKE YA HOME](https://open.spotify.com/album/1je3xa77wTIBA7Hgh5KfwQ) | 2:55 |
-| 18 | [Love On You](https://open.spotify.com/track/49OskYfBbDREWzPfdjRPqg) | [Victor J Sefo](https://open.spotify.com/artist/2C1zgkYFPzuU7GBM66c1S9), [Revus](https://open.spotify.com/artist/2bvztHh7wnuRLZAwLZwpBa), [K'Nova](https://open.spotify.com/artist/1kEbRBz6RigIAppRV2FokM), [Sefos.Beats](https://open.spotify.com/artist/2aTFbEhLLTETPB9jRgs8VI) | [Love On You](https://open.spotify.com/album/5bHTyxyMeczhgjHYUyfNtD) | 2:42 |
+| 18 | [Love On You](https://open.spotify.com/track/49OskYfBbDREWzPfdjRPqg) | [Victor J Sefo](https://open.spotify.com/artist/2C1zgkYFPzuU7GBM66c1S9), [Revus](https://open.spotify.com/artist/2bvztHh7wnuRLZAwLZwpBa), [K'Nova](https://open.spotify.com/artist/1kEbRBz6RigIAppRV2FokM) | [Love On You](https://open.spotify.com/album/5bHTyxyMeczhgjHYUyfNtD) | 2:42 |
 | 19 | [TOO LONG](https://open.spotify.com/track/6YIvNjBwtWtG5DNbArJ3DB) | [King George](https://open.spotify.com/artist/4da15R0o9ipD6vPVPqYz5D) | [TOO LONG](https://open.spotify.com/album/0PJvC81VkJ7fDyBjRhAHTR) | 4:09 |
-| 20 | [Hit the Road](https://open.spotify.com/track/4SxClscieaDJ9dGQR1njjS) | [Teina Mamaori](https://open.spotify.com/artist/5p0JHW1CkPxEqkbcz59rrp), [Classick J](https://open.spotify.com/artist/7Hhvup3XQTgHKu2FkMKjMq), [Hori Shaw](https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh) | [Hit the Road](https://open.spotify.com/album/7CgmSGAPmq7h6C2OvNtwav) | 5:27 |
+| 20 | [Hit the Road](https://open.spotify.com/track/4SxClscieaDJ9dGQR1njjS) | [Teina Mamaori](https://open.spotify.com/artist/5p0JHW1CkPxEqkbcz59rrp), [Hori Shaw](https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh), [Classick J](https://open.spotify.com/artist/7Hhvup3XQTgHKu2FkMKjMq) | [Hit the Road](https://open.spotify.com/album/7CgmSGAPmq7h6C2OvNtwav) | 5:27 |
 | 21 | [Working](https://open.spotify.com/track/3WA9SHUrBSnSJdZ6zG1x64) | [Bradamon Band](https://open.spotify.com/artist/3SGQLqF1vIQNVRmY54FNmr), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [Working](https://open.spotify.com/album/5x2umHD2Cv6xFDhl7o12PY) | 3:28 |
 | 22 | [Mausa Siamane](https://open.spotify.com/track/3RcO2zMnVR0TDl2XdMDAwC) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy) | [Mausa Siamane](https://open.spotify.com/album/05ygWJKobvTE2cn6oVm9FX) | 3:06 |
 | 23 | [Keep That Smile](https://open.spotify.com/track/5340DPISq1tyfyptbrK3yP) | [Son & Water](https://open.spotify.com/artist/1ODcoNZfpYJmWHEF9eEgGi) | [Keep that Smile](https://open.spotify.com/album/1PGm8pQTBI3sSQk2rfpbwx) | 3:24 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 94 | [Good Time](https://open.spotify.com/track/4RzIZS83SMXWrSGsP7XPiS) | [NLC](https://open.spotify.com/artist/3TqJF164i0btEXB3SskiLf) | [Trouble](https://open.spotify.com/album/6Ex5buL9V8s8gEZuejwBfU) | 3:24 |
 | 95 | [Be Better](https://open.spotify.com/track/0PcUzCpDtur5KiTqKYyfyj) | [Fia](https://open.spotify.com/artist/3uwg3MMPpcXtJ7OknqdO9W), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Cali Roots Riddim 2021](https://open.spotify.com/album/47ngDCKILaUidvXeest7sz) | 2:22 |
 
-Snapshot ID: `MCw0MWUyYjFlZDExYzdmM2E3NTY3MjBjMzllMDAyMjEwZjc1OTFkOTJl`
+Snapshot ID: `MCxjMzM3NDUxMjMwMDMyZWY0YTRkM2I3NTU2MGQzODk3YzRhYWJjZDM1`

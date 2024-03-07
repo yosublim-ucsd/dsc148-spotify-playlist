@@ -4,7 +4,7 @@
 
 > Midwest music breaking waves\. Cover: <a href="spotify:artist:6AUl0ykLLpvTktob97x9hO">Tee Grizzley</a>
 
-561 songs - 1 day 3 hr 25 min
+562 songs - 1 day 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,8 @@
 | [Facetime \(feat\. G Herbo\)](https://open.spotify.com/track/0AfBqvVQowOxKyau7NxUWp) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [What It Means To Be King](https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B) | 2:36 | 2022-03-04 | 2022-07-19 |
 | [Faith](https://open.spotify.com/track/7JNchwM83hSloG03hOvgqy) | [D2x](https://open.spotify.com/artist/39Cb8HYiuT4clBeNABSjPA) | [Faith](https://open.spotify.com/album/5ePwZIxJlUuqYG8TpwOldy) | 3:16 | 2023-08-11 | 2023-10-14 |
 | [FAKE BUTT](https://open.spotify.com/track/2wJlc8AGsMYGAeZ80m5V3e) | [Your Stepdad](https://open.spotify.com/artist/4l7BJOIRyFkQT9QD96m8tu) | [FAKE BUTT](https://open.spotify.com/album/2StRxfFDs1YC0w4eaC13gd) | 1:54 | 2023-01-13 | 2023-05-19 |
-| [Fee](https://open.spotify.com/track/4nQ5xs6NAax7PzMJq7z8ZU) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [FARADA](https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL) | [Caturday](https://open.spotify.com/album/3Fv9b8VejFy3EktLiQorku) | 4:28 | 2023-10-13 |  |
+| [Fee](https://open.spotify.com/track/0gHZBnTTKhgke5k9k9no1C) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [FARADA](https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL) | [Perish Blue \(Fall Tour\)](https://open.spotify.com/album/69ivKBrtrEGTlP7g0c2aX3) | 4:28 | 2023-12-15 |  |
+| [Fee](https://open.spotify.com/track/4nQ5xs6NAax7PzMJq7z8ZU) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [FARADA](https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL) | [Caturday](https://open.spotify.com/album/3Fv9b8VejFy3EktLiQorku) | 4:28 | 2023-10-13 | 2024-03-07 |
 | [Fee](https://open.spotify.com/track/63ijZK3Q0lXJQNWHbs2Du1) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [FARADA](https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL) | [Fee](https://open.spotify.com/album/0e2ru3NAva6jXCYfmJEiBb) | 4:28 | 2023-08-11 | 2023-10-14 |
 | [Feel Like Somebody](https://open.spotify.com/track/2dFqGqBSDSGPwIBp40VaLf) | [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [Feel Like Somebody](https://open.spotify.com/album/0JImc5bbj65Uk2LRYGdNLo) | 2:44 | 2022-09-09 | 2022-12-03 |
 | [FEELS LIKE I'M ON DOPE](https://open.spotify.com/track/0yAkJR810xbF2byrHcmp7W) | [DJ SKOLi](https://open.spotify.com/artist/11xA8dVoB14BOk9nPrITwN) | [FEELS LIKE I'M IN A NEW POSITION](https://open.spotify.com/album/7utSs9yH5UrtUZku84O3WF) | 2:24 | 2023-04-15 | 2023-04-25 |

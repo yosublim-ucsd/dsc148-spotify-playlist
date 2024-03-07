@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Charli XCX, Pharrell Williams & Miley Cyrus, Cardi B, Abby Sage and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,173 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,179 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [State Of Nature](https://open.spotify.com/track/4qlnQc8Rc2N81jHKWBG3Vp) | [Daniel Romano](https://open.spotify.com/artist/2kTXvMOmrHVjVewErG5kHD) | [Too Hot To Sleep](https://open.spotify.com/album/0bbGGeVylC56xMaOfqRZX1) | 2:50 |
 | 100 | [All In Your Mind](https://open.spotify.com/track/1wTetzWvzvC0LeODG6b0dh) | [ZADA](https://open.spotify.com/artist/6xUGLRA9ZV9aSKyGgqR6Uq) | [WATER IN THE DESERT](https://open.spotify.com/album/7uScemeNpDj1HvQXsQGxK4) | 2:24 |
 
-Snapshot ID: `MCxmYjU4MDlhYzM5ODJmMjk0YzQ0YmFiMWIxZjRmMzE1OGUyNGM4Yzkz`
+Snapshot ID: `MCxmYzNlNmM5NWMwNWMxOGVjYmYwZGI3MTJiOWJkOGU1N2JjZDczZmQ5`

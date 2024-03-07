@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Alexandra Whittingham
 
-[Spotify](https://open.spotify.com/user/spotify) - 704,641 likes - 72 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 704,740 likes - 72 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,6 +79,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 69 | [Songs of Nadia Anjuman: No\. 4, Fly Freely \- Live](https://open.spotify.com/track/3jFg2hQVVIfcboW6IFIERx) | [Richard Blackford](https://open.spotify.com/artist/5g4DlcQOiAtATtUtQ1IE2j), [Elizabeth Watts](https://open.spotify.com/artist/16i7L5hK9KiG6a4S3sQQlr), [Marcus Barcham Stevens](https://open.spotify.com/artist/0WlVZLvOm1v3SBwm5GyOoe), [Britten Sinfonia](https://open.spotify.com/artist/3P1VtkpIYbw6YoTo0KYlxy) | [Richard Blackford: Songs of Nadia Anjuman \(Live\)](https://open.spotify.com/album/7xNL7W0BEuGGLEDY3OenNg) | 2:21 |
 | 70 | [Quatro Estações para Violino e Piano: IV\. Verão](https://open.spotify.com/track/62mfhC1qf03KqZqJmzTcmF) | [Luís Eduardo Corbani](https://open.spotify.com/artist/0ERvXADbmFQRjRbxeAU5bb), [Olga Kopylova](https://open.spotify.com/artist/10b6IIxvCkupBJNb1gRW1U), [Claudio Cruz](https://open.spotify.com/artist/6Bpfb5XDqRahzoMnrL5iaO) | [Quatro Estações para Violino e Piano: IV\. Verão](https://open.spotify.com/album/6CNBnSjpd0GFM2nqyN6zU4) | 1:30 |
 | 71 | [Kronos\-Kryptos \(Version for Percussion Quintet\): III\. Drummers of the Apocalypse](https://open.spotify.com/track/7vLeQHDzcxJ0B9Tq0YgYJm) | [George Crumb](https://open.spotify.com/artist/0EyIzyLSylDC0h0y7JP7am), [Ensemble 20/21](https://open.spotify.com/artist/5ZbTNHXmOe6eHTJVLmzuKh) | [Complete Crumb Edition, Vol\. 21](https://open.spotify.com/album/15S31lmZkaNHXqMEpsjSmY) | 2:37 |
-| 72 | [Sonata in G Major, BWV 1021: I\. Adagio](https://open.spotify.com/track/7q972w7uG8wWXKCzWskXpF) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [G.A.P\. Ensemble](https://open.spotify.com/artist/6ziwykYblRi8bEid6zMqL0) | [J.S\. Bach & Shostakovich: Salvation](https://open.spotify.com/album/16pQA8TOK7JhKnw17nNT5I) | 4:14 |
+| 72 | [Sonata in G Major, BWV 1021: I\. Adagio](https://open.spotify.com/track/7q972w7uG8wWXKCzWskXpF) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [G.A.P\. Ensemble](https://open.spotify.com/artist/6ziwykYblRi8bEid6zMqL0), [Luca Quintavalle](https://open.spotify.com/artist/4KpcxlCngHi7Luq53GQjXG), [Emilio Percan](https://open.spotify.com/artist/3vN6JdyIvfrKtJSwhHSaFX), [Oriol Aymat Fusté](https://open.spotify.com/artist/31F1VGF40LOiTAPA8ZV4DA) | [J.S\. Bach & Shostakovich: Salvation](https://open.spotify.com/album/16pQA8TOK7JhKnw17nNT5I) | 4:14 |
 
-Snapshot ID: `MCxjOGUzYjUxZDI4MDM5ZGNiZTZkNzU5NzUyZmFiZWQ4OTdmZmE0MDE5`
+Snapshot ID: `MCwxMWEyYWQyNDJhNjU5MTU5ZmU5Y2VlMjJjMzBlM2FkM2NlN2U1YzE5`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover:  MFS
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,454 likes - 81 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,516 likes - 81 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BINBO](https://open.spotify.com/track/3jLoBEYECqYA1kzlt5UTBL) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [BINBO](https://open.spotify.com/album/7iZN9psShtHZhWXr0rh4Ai) | 2:18 |
 | 2 | [Excuse Me](https://open.spotify.com/track/5XGAX53b2t2iv9WkJzBvth) | [WILYWNKA](https://open.spotify.com/artist/2Ss73LwiIQQRLr9OoLQfuy) | [Excuse Me](https://open.spotify.com/album/1FkXJBykFSoTDuZYkVoF8l) | 3:03 |
-| 3 | [WE WANT!!! \- feat.7](https://open.spotify.com/track/2BxKxnjb7wsUjXpooz8dut) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [19.5](https://open.spotify.com/album/06uFaprW6BVk7Lckao8DsA) | 3:00 |
+| 3 | [WE WANT!!! \- feat.7](https://open.spotify.com/track/2H8nWRVaXhONgYbsVfRa3W) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [19.5](https://open.spotify.com/album/7aoxCAZQG1RINt6c0uYqtQ) | 3:00 |
 | 4 | [NEW DAY](https://open.spotify.com/track/3KLSp2VdUcmOzjqYxsAFlP) | [PETZ](https://open.spotify.com/artist/1LUhwMGfJbyWkkRu8UmVXT), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4) | [NEW DAY](https://open.spotify.com/album/0g8qeKfLrKwuuNaAw5SfMp) | 3:04 |
 | 5 | [Good Love](https://open.spotify.com/track/4xi0VX5l2b0PorJuWtD9Th) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [YOUNG COCO](https://open.spotify.com/artist/6aYRuxYMfdbvk39bBuBIA7), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [Blood & Bones \(BONES\)](https://open.spotify.com/album/71wSyAlJPLhRy8AIqhvNvi) | 3:13 |
 | 6 | [B2B \(feat\. Benjazzy & Bonbero\)](https://open.spotify.com/track/1AyUsDts7KQXq7w4KsH9YL) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2), [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [BAD HOP \(Deluxe Edition\)](https://open.spotify.com/album/79JJkBZaJpiN8d1ELd7Q1r) | 3:40 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 80 | [Get Back](https://open.spotify.com/track/0lxWZTQh1QLGH0mKHfMcip) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [Get Back](https://open.spotify.com/album/5n3LWRLAo23gemhWfTB4Mc) | 3:27 |
 | 81 | [Do u remember me](https://open.spotify.com/track/3M8hUUiLXqKkk4PCh1KZJN) | [Mall Boyz](https://open.spotify.com/artist/4frHeZ2ummtLwkuV7QohYp), [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF), [gummyboy](https://open.spotify.com/artist/3jk0CePj2VdhqGpN0GX6pd) | [Mall Tape 2](https://open.spotify.com/album/0f5URCBlzbh7u7TuSduM6n) | 3:28 |
 
-Snapshot ID: `MCxmYmY4YWJhZjVkNTk5MmQwZDk1YjhmYjljYWJmZmI5MGQ2OTljNzk0`
+Snapshot ID: `MCxhMDQxMDVkMWViMThkY2ZhZGNiMGM3MDEwMDQzNDgxYjk2ZTNiZjlm`

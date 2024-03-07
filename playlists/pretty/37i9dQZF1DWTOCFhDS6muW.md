@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 
 > ¡Esto es punta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,101 likes - 38 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,111 likes - 38 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 | 29 | [Nando](https://open.spotify.com/track/4mhUu9hEcGeXsNJZfGGxsH) | [Aurelio](https://open.spotify.com/artist/1N1LP4R1T5AIr33dtUB00h) | [Lándini](https://open.spotify.com/album/0abBxaGEwuTKkBjTVAysJs) | 2:59 |
 | 30 | [En Mi Pais](https://open.spotify.com/track/78inhCoJFx1M9ZRBG6Nbhp) | [Guillermo Anderson](https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy) | [Pobre Marinero](https://open.spotify.com/album/6PISCk0SEOHNFHheKDmUFj) | 3:39 |
 | 31 | [Oye Este Canto Aka Levantando las Manos](https://open.spotify.com/track/6VHH8EZHnvE2QcL0pipwhY) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Alegria](https://open.spotify.com/album/05bmKOrqr3sL0fDM3pOXQW) | 5:09 |
-| 32 | [Por la Playa](https://open.spotify.com/track/56NlIztGmrboS6icu0s8us) | [Las Chicas Roland's](https://open.spotify.com/artist/2oLp10TY7Q546LJxtsc2cl) | [Sabor Catracho!, Vol\. 3](https://open.spotify.com/album/5dhtHl14R6ZTQwdEsrH0HT) | 4:16 |
+| 32 | [Carolina](https://open.spotify.com/track/4s0YHx04Ih3oEDLVzljcuX) | [Supa G](https://open.spotify.com/artist/4lJKjqL2fCL4yfNyKhm1sB) | [Punta Vibe](https://open.spotify.com/album/2gYb4m2xi4bgUqHvvpgjU9) | 3:11 |
 | 33 | [Otro Amor Llego](https://open.spotify.com/track/759uPQuPn0hm8ZclHOVRn9) | [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP) | [Va Cañon!](https://open.spotify.com/album/5RPlUSC5OJHeOuag7HTWUe) | 3:58 |
 | 34 | [Banana](https://open.spotify.com/track/6jceTQXwTqbj4BJGJdlbvg) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Puros Éxitos](https://open.spotify.com/album/7iI8ptAWVpe9WWhoIlHOZ7) | 3:16 |
 | 35 | [Nafagua](https://open.spotify.com/track/5pbizIzZ5pjYbObsSdixW4) | [Aurelio](https://open.spotify.com/artist/1N1LP4R1T5AIr33dtUB00h) | [Lándini](https://open.spotify.com/album/0abBxaGEwuTKkBjTVAysJs) | 3:25 |
-| 36 | [Carolina](https://open.spotify.com/track/4s0YHx04Ih3oEDLVzljcuX) | [Supa G](https://open.spotify.com/artist/4lJKjqL2fCL4yfNyKhm1sB) | [Punta Vibe](https://open.spotify.com/album/2gYb4m2xi4bgUqHvvpgjU9) | 3:11 |
+| 36 | [Por la Playa](https://open.spotify.com/track/56NlIztGmrboS6icu0s8us) | [Las Chicas Roland's](https://open.spotify.com/artist/2oLp10TY7Q546LJxtsc2cl) | [Sabor Catracho!, Vol\. 3](https://open.spotify.com/album/5dhtHl14R6ZTQwdEsrH0HT) | 4:16 |
 | 37 | [Tik Tok Punta](https://open.spotify.com/track/7iwTstDIwSEaVOZpX0Q7Cg) | [El Profeta Hn](https://open.spotify.com/artist/5SAevBqeFfy5EKnBtPT1kU) | [Tik Tok Punta](https://open.spotify.com/album/4wWYKIyOnM5XRnGHeulW2Y) | 4:03 |
 | 38 | [Bunabou Live \- Live](https://open.spotify.com/track/3bk84Tl2e3UHheILeVkqIF) | [Xcstacy](https://open.spotify.com/artist/7ACGfyzJQTp8Lehdcy8tZi) | [Bunabou Live](https://open.spotify.com/album/6ONVn4d2fJceFUoWzv0LEc) | 7:29 |
 
-Snapshot ID: `MCwzMzhiNGIyZTk5ZGI5MDFmMWE4YzdjN2JkNTg1MjAwYWRhNDBmMTdm`
+Snapshot ID: `MCxkYzIyNzQ1MWE0NzJjNTBlZjkxM2MyOWY4YmEwOWUwY2JiYmNjNjg5`

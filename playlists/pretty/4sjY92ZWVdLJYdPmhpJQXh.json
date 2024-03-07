@@ -1,12 +1,12 @@
 {
   "description": "Atlantic Records Presents the hottest tracks in hip-hop, pop, rock, R&amp;B, indie and more! Updated every Friday.",
-  "num_followers": 2055,
+  "num_followers": 2054,
   "original_name": "Atlantic Records: Presents",
   "owner": {
     "name": "Atlantic Records",
     "url": "https://open.spotify.com/user/atlanticrecords"
   },
-  "snapshot_id": "NjI3NywyODY5MDQyZTkyOGY0NmI5MmQwZTQzYzczM2I3MTQzNDUwM2IxNTBl",
+  "snapshot_id": "NjI5Myw3OWI3YmRjMmU5YjMwZWRiZjBkYjExNjI1ZGUwNGJlZjM4M2JlMDQx",
   "tracks": [
     {
       "added_at": "2024-03-04 18:49:06",
@@ -169,30 +169,6 @@
       "url": "https://open.spotify.com/track/0WkfQ4SJqsKrixNQNYSMsq"
     },
     {
-      "added_at": "2024-03-05 19:36:39",
-      "album": {
-        "name": "Yonce Freestyle (feat. Sexyy Red & B.G.)",
-        "url": "https://open.spotify.com/album/0BbrF9bl7IIQGJNQfw7kbm"
-      },
-      "artists": [
-        {
-          "name": "Kevin Gates",
-          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
-        },
-        {
-          "name": "B.G.",
-          "url": "https://open.spotify.com/artist/36HvjE9pV91jEjO1qBRidS"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 224415,
-      "name": "Yonce Freestyle (feat. Sexyy Red & B.G.)",
-      "url": "https://open.spotify.com/track/1fo2w2ikXyQjnmH1AVVyJ8"
-    },
-    {
       "added_at": "2024-02-08 18:39:59",
       "album": {
         "name": "I'm So Good At Being Alone?",
@@ -207,6 +183,26 @@
       "duration_ms": 198022,
       "name": "Not The 1975",
       "url": "https://open.spotify.com/track/2U0Zowgw2tgJXu5K56i4Q4"
+    },
+    {
+      "added_at": "2024-02-08 22:47:07",
+      "album": {
+        "name": "Touchin' (feat. Kaliii)",
+        "url": "https://open.spotify.com/album/46dCBNUNDnajk5pK0i0VgN"
+      },
+      "artists": [
+        {
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 214712,
+      "name": "Touchin' (feat. Kaliii)",
+      "url": "https://open.spotify.com/track/7KY0PsHITl98gztGO1fh5Z"
     },
     {
       "added_at": "2024-03-05 18:57:31",
@@ -353,6 +349,22 @@
       "url": "https://open.spotify.com/track/6ymafuSC9VWoGRPquZkQKV"
     },
     {
+      "added_at": "2024-02-08 18:41:22",
+      "album": {
+        "name": "Candyman",
+        "url": "https://open.spotify.com/album/1Y0U9tzLmjG3x0RVhyGElR"
+      },
+      "artists": [
+        {
+          "name": "Flyana Boss",
+          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
+        }
+      ],
+      "duration_ms": 172115,
+      "name": "Candyman",
+      "url": "https://open.spotify.com/track/3Zt0VZcBR4DGmuEzpJh7PR"
+    },
+    {
       "added_at": "2024-03-05 22:51:37",
       "album": {
         "name": "Bad Bitch",
@@ -383,30 +395,6 @@
       "duration_ms": 177893,
       "name": "Did Me Wrong",
       "url": "https://open.spotify.com/track/2hkcNrUwTVwKqjfUO1Kx3d"
-    },
-    {
-      "added_at": "2024-03-05 19:00:31",
-      "album": {
-        "name": "Big FU",
-        "url": "https://open.spotify.com/album/6fmQcEPiGQlBlA8LGClYVU"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 161770,
-      "name": "Big FU",
-      "url": "https://open.spotify.com/track/2HbTwmup8SWz5tMcKZXFLh"
     },
     {
       "added_at": "2024-03-05 22:51:05",
@@ -461,22 +449,6 @@
       "url": "https://open.spotify.com/track/5sSTJF2a8Ew2wxIW1mCBG5"
     },
     {
-      "added_at": "2024-02-08 18:41:22",
-      "album": {
-        "name": "Candyman",
-        "url": "https://open.spotify.com/album/1Y0U9tzLmjG3x0RVhyGElR"
-      },
-      "artists": [
-        {
-          "name": "Flyana Boss",
-          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
-        }
-      ],
-      "duration_ms": 172115,
-      "name": "Candyman",
-      "url": "https://open.spotify.com/track/3Zt0VZcBR4DGmuEzpJh7PR"
-    },
-    {
       "added_at": "2024-03-05 18:57:20",
       "album": {
         "name": "Obsessed (feat. Ashley Sienna)",
@@ -495,26 +467,6 @@
       "duration_ms": 183750,
       "name": "Obsessed (feat. Ashley Sienna)",
       "url": "https://open.spotify.com/track/2fWVflATzWBQm6qQNmaRIH"
-    },
-    {
-      "added_at": "2024-02-08 22:47:07",
-      "album": {
-        "name": "Touchin' (feat. Kaliii)",
-        "url": "https://open.spotify.com/album/46dCBNUNDnajk5pK0i0VgN"
-      },
-      "artists": [
-        {
-          "name": "Honey Bxby",
-          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 214712,
-      "name": "Touchin' (feat. Kaliii)",
-      "url": "https://open.spotify.com/track/7KY0PsHITl98gztGO1fh5Z"
     },
     {
       "added_at": "2023-11-08 22:27:06",
@@ -701,6 +653,30 @@
       "url": "https://open.spotify.com/track/07TSrx1BDK6twM9avkYzbe"
     },
     {
+      "added_at": "2024-03-05 19:36:39",
+      "album": {
+        "name": "Yonce Freestyle (feat. Sexyy Red & B.G.)",
+        "url": "https://open.spotify.com/album/0BbrF9bl7IIQGJNQfw7kbm"
+      },
+      "artists": [
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        },
+        {
+          "name": "B.G.",
+          "url": "https://open.spotify.com/artist/36HvjE9pV91jEjO1qBRidS"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 224415,
+      "name": "Yonce Freestyle (feat. Sexyy Red & B.G.)",
+      "url": "https://open.spotify.com/track/1fo2w2ikXyQjnmH1AVVyJ8"
+    },
+    {
       "added_at": "2023-11-08 22:28:10",
       "album": {
         "name": "FEMININE ENERGY",
@@ -739,6 +715,26 @@
       "duration_ms": 188000,
       "name": "BOTH",
       "url": "https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft"
+    },
+    {
+      "added_at": "2024-03-06 22:30:59",
+      "album": {
+        "name": "You're Hired (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/0onUf9J8FxwJCpPdNyhVZe"
+      },
+      "artists": [
+        {
+          "name": "NEIKED",
+          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 179517,
+      "name": "You're Hired (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/17oeeAxAbZaHIqKpt402KI"
     },
     {
       "added_at": "2023-04-10 14:18:48",
@@ -841,6 +837,30 @@
       "url": "https://open.spotify.com/track/2N6s3852GdbqhV29or63En"
     },
     {
+      "added_at": "2024-03-05 19:00:31",
+      "album": {
+        "name": "Big FU",
+        "url": "https://open.spotify.com/album/6fmQcEPiGQlBlA8LGClYVU"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 161770,
+      "name": "Big FU",
+      "url": "https://open.spotify.com/track/2HbTwmup8SWz5tMcKZXFLh"
+    },
+    {
       "added_at": "2023-07-10 17:28:29",
       "album": {
         "name": "Play",
@@ -919,6 +939,38 @@
       "duration_ms": 284770,
       "name": "TUNNEL VISION",
       "url": "https://open.spotify.com/track/183WuVX0zsr0dHydHkKtGQ"
+    },
+    {
+      "added_at": "2024-03-06 15:13:01",
+      "album": {
+        "name": "Ultrapure",
+        "url": "https://open.spotify.com/album/1KLpFZbmz9I4irFMe9sht9"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "duration_ms": 200546,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/4nGgHg7tCUYVZtPDDVgm92"
+    },
+    {
+      "added_at": "2024-03-06 15:12:43",
+      "album": {
+        "name": "GLOW EP",
+        "url": "https://open.spotify.com/album/666rdJ8snX6R5lT24Owcau"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "duration_ms": 150800,
+      "name": "ON THE LINE",
+      "url": "https://open.spotify.com/track/5e8saCEDfJ2szwaG5gTLwI"
     },
     {
       "added_at": "2023-08-29 18:29:07",

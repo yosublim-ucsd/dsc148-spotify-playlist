@@ -1,12 +1,12 @@
 {
   "description": "Un parque de diversiones para gustos inconformes y sofisticados. MGMT en portada.",
-  "num_followers": 119732,
+  "num_followers": 119734,
   "original_name": "Indielandia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmExOTk1ZmE5ZjEzNGEwZWYwM2Q4MWEzNzRjYzEyMDMzOWYyMjYz",
+  "snapshot_id": "MCw2OTkwZTUwNWRiY2VhNmQ1OTgxMDY3YTBkMmExZDYzZWY1MGE4ZDk0",
   "tracks": [
     {
       "added_at": "2024-03-05 19:54:39",
@@ -839,18 +839,22 @@
     {
       "added_at": "2024-03-05 19:54:39",
       "album": {
-        "name": "Feeling Good Today",
-        "url": "https://open.spotify.com/album/0iQLhH3cu8txsiJOTt3bzR"
+        "name": "Cool It Down",
+        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
       },
       "artists": [
         {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        },
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
         }
       ],
-      "duration_ms": 86169,
-      "name": "Feeling Good Today",
-      "url": "https://open.spotify.com/track/5AmBayKvA8e1HdhintEELx"
+      "duration_ms": 257746,
+      "name": "Spitting Off the Edge of the World",
+      "url": "https://open.spotify.com/track/0JX23XA8E7aN1Chj32kgVn"
     }
   ],
   "unique_name": "Indielandia",

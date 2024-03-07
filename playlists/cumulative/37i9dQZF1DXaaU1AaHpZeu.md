@@ -4,7 +4,7 @@
 
 > Nuevos hallazgos de música indie latina\. Chicano Batman en portada.
 
-3,814 songs - 8 day 19 hr 34 min
+3,815 songs - 8 day 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2736,7 +2736,8 @@
 | [Pinche Chiste](https://open.spotify.com/track/5RIfX1NXWBBKX6jKytbejP) | [NNR](https://open.spotify.com/artist/5gnHyrsqiyM9AysiuH25cc), [Pepe Pecas](https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq) | [Pinche Chiste](https://open.spotify.com/album/2F81nSnKGrBjEKUMY2RARJ) | 2:58 | 2024-02-09 | 2024-02-17 |
 | [Pinky](https://open.spotify.com/track/5wuiYSW949mfA4azJ32mx2) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Pinky](https://open.spotify.com/album/2c4TTzqtBc7EIeNBSZgWlF) | 2:46 | 2022-08-05 | 2022-08-20 |
 | [Pintando el Humo](https://open.spotify.com/track/72Sy0iRM8dW4ZnF9XH16OC) | [Bardo José](https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT) | [Pintando el Humo](https://open.spotify.com/album/3C4GHvi4luCWSrD276xE5n) | 3:22 | 2023-10-13 | 2023-10-21 |
-| [PINTORA \(feat\. La Plazuela\)](https://open.spotify.com/track/1MSiGygk6q5GVBCqKHdp59) | [Califato ¾](https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK), [Andrea Santalusía](https://open.spotify.com/artist/3TAhTFekxaLAdEtfH7vXsZ), [La Plazuela](https://open.spotify.com/artist/3iNrNJ38T7OEaI1UofQcIB) | [ÊCCLABÔ DE LIBERTÁ](https://open.spotify.com/album/3YcizP1lVMdz050dxuJGKG) | 4:33 | 2024-03-01 |  |
+| [PINTORA \(feat\. La Plazuela\)](https://open.spotify.com/track/1MSiGygk6q5GVBCqKHdp59) | [Califato ¾](https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK), [Andrea Santalusía](https://open.spotify.com/artist/3TAhTFekxaLAdEtfH7vXsZ), [La Plazuela](https://open.spotify.com/artist/3iNrNJ38T7OEaI1UofQcIB) | [ÊCCLABÔ DE LIBERTÁ](https://open.spotify.com/album/3YcizP1lVMdz050dxuJGKG) | 4:33 | 2024-03-01 | 2024-03-07 |
+| [PINTORA \(feat\. La Plazuela\)](https://open.spotify.com/track/1q0hyEgtjAj4WomBgw3aS4) | [Califato ¾](https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK), [Andrea Santalusía](https://open.spotify.com/artist/3TAhTFekxaLAdEtfH7vXsZ), [La Plazuela](https://open.spotify.com/artist/3iNrNJ38T7OEaI1UofQcIB) | [ÊCCLABÔ DE LIBERTÁ](https://open.spotify.com/album/1tVhgN9feZ8I31AC7yKOSp) | 4:33 | 2024-03-01 |  |
 | [Piromanía](https://open.spotify.com/track/6KkyIX83PuEdx4gAX9kSzK) | [Carmen 113](https://open.spotify.com/artist/3wcfgYTtdxmXrhuUuq3kEe) | [Piromanía](https://open.spotify.com/album/5MHzKFBiAszIwPg54a8Ql1) | 3:52 | 2023-02-24 | 2023-03-04 |
 | [Piromanía](https://open.spotify.com/track/4UnWmDtO3pyecPH9Lhsna6) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Piromanía](https://open.spotify.com/album/3iMmaRrDDt0TZJTryS6rDn) | 3:24 | 2022-12-05 | 2022-12-17 |
 | [Pisando Charcos](https://open.spotify.com/track/4D2RaferzFNzX0dzwnURFX) | [ODDLIQUOR](https://open.spotify.com/artist/1rmlkMXVf5f6ilIVhjow34) | [Pisando Charcos](https://open.spotify.com/album/2m7bYg4g9VkPIl2kKp9pOD) | 2:34 | 2023-02-10 | 2023-02-18 |

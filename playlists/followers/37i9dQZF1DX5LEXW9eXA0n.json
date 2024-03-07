@@ -1,7 +1,7 @@
 {
-  "2024-03-06": 359363,
+  "2024-03-07": 359394,
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover:\bKIMBUMSOO(\uae40\ubc94\uc218)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover:\bLee Seung Gi(\uc774\uc2b9\uae30)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -821,7 +821,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 113312,
       "name": "Alcohol is",
       "url": "https://open.spotify.com/track/1zweXWctPrLlixV7J3mxpR"
@@ -1063,7 +1063,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 199250,
       "name": "Alone",
       "url": "https://open.spotify.com/track/1pQluxiSIs5WLyRWgBma7Y"
@@ -2152,6 +2152,28 @@
     },
     {
       "album": {
+        "name": "Blooming just for you",
+        "url": "https://open.spotify.com/album/7HBkXZSY6SQknB6MeS7KYd"
+      },
+      "artists": [
+        {
+          "name": "NuNew",
+          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
+        },
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207453,
+      "name": "Blooming just for you",
+      "url": "https://open.spotify.com/track/2HPWrzo08BqVptseRrk2GI"
+    },
+    {
+      "album": {
         "name": "Blooming Today",
         "url": "https://open.spotify.com/album/4TMYHDS6hlg3VtFOu96lNT"
       },
@@ -2579,6 +2601,24 @@
       "duration_ms": 238861,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/15jxI2XwZfYo7FGKex8IEf"
+    },
+    {
+      "album": {
+        "name": "Wedding Impossible (Original Soundtrack Special)",
+        "url": "https://open.spotify.com/album/4SjPoZdHsCXFOz1Nb6ZKSo"
+      },
+      "artists": [
+        {
+          "name": "Sandeul",
+          "url": "https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219222,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/6FUFNToiiQKYqhPvWKVy9u"
     },
     {
       "album": {
@@ -3409,7 +3449,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 252133,
       "name": "Dear Fall",
       "url": "https://open.spotify.com/track/1zmaOkXV1s5G5r5Rqkvy2n"
@@ -3618,6 +3658,24 @@
     },
     {
       "album": {
+        "name": "Desire to fly",
+        "url": "https://open.spotify.com/album/5L4p78XkHQI4q5rE7kt9Yo"
+      },
+      "artists": [
+        {
+          "name": "Lee Seung Gi",
+          "url": "https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285306,
+      "name": "Desire to fly",
+      "url": "https://open.spotify.com/track/3G81cFKifTjjBeLYUoG5bK"
+    },
+    {
+      "album": {
         "name": "Dial Your Number",
         "url": "https://open.spotify.com/album/6tsig8yLsCng3ZGcQcmK3g"
       },
@@ -3763,7 +3821,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 205255,
       "name": "Do you know how good it is",
       "url": "https://open.spotify.com/track/4hPvi7gZ98VyLUrcQe7UOJ"
@@ -4912,6 +4970,24 @@
     },
     {
       "album": {
+        "name": "Falling Slowly",
+        "url": "https://open.spotify.com/album/4lG2OGvs8iKdosM1ehaZ4s"
+      },
+      "artists": [
+        {
+          "name": "DAESUNG",
+          "url": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237480,
+      "name": "Falling Slowly",
+      "url": "https://open.spotify.com/track/7efGmCE7FPDKmwyWnbcU0p"
+    },
+    {
+      "album": {
         "name": "Season Note",
         "url": "https://open.spotify.com/album/3JEa8UjDYS2nxdM8X7ShOM"
       },
@@ -5245,7 +5321,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 247440,
       "name": "Floral Shoes",
       "url": "https://open.spotify.com/track/2TpyanMvkEJ0bOwiqopluL"
@@ -7215,7 +7291,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 250000,
       "name": "I know (2023)",
       "url": "https://open.spotify.com/track/3iI4P6MJNVKRg30CHHzxRI"
@@ -13279,7 +13355,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 286780,
       "name": "Only Tears",
       "url": "https://open.spotify.com/track/3PPaHowjfMPcsImH4yK8cw"
@@ -17485,7 +17561,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 249066,
       "name": "Things I can't say",
       "url": "https://open.spotify.com/track/7yr9lrXkhVIjS1hikFtYwE"
@@ -18846,6 +18922,24 @@
     },
     {
       "album": {
+        "name": "When Spring Comes",
+        "url": "https://open.spotify.com/album/38vHJ0XSQiQYLyZjjb09Me"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238400,
+      "name": "When Spring Comes",
+      "url": "https://open.spotify.com/track/6vt4R4q5YL4M2cxl7o6pTe"
+    },
+    {
+      "album": {
         "name": "The Law Cafe (Original Television Soundtrack), Pt.3",
         "url": "https://open.spotify.com/album/2fiweT7ROFobtMNyJpYko5"
       },
@@ -19487,7 +19581,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 203760,
       "name": "With me, with you",
       "url": "https://open.spotify.com/track/2lP9LVvWtexc3jZJ0WxdrZ"
@@ -19559,7 +19653,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 179826,
       "name": "With UNIVERSE",
       "url": "https://open.spotify.com/track/1GCYF6dKEpdC7GFn4Kmrd8"
@@ -19743,7 +19837,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 233720,
       "name": "Without you",
       "url": "https://open.spotify.com/track/3WtTBiLhUKlwZLDUSheTnl"

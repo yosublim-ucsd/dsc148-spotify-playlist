@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,007 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,050 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 68 | [Shadows in the Dark](https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt) | [Re\-Fuzz](https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs) | [Shadows in the Dark](https://open.spotify.com/album/39LODywZvMhYTjECv7poxU) | 4:48 |
 | 69 | [Adrenaline \- Never Surrender Remix](https://open.spotify.com/track/03pFdMTSGSDtCKlzUfD0Q5) | [Neophyte Records All Stars](https://open.spotify.com/artist/2hVZTYGteTg6wpyXg8TNeE), [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6) | [Adrenaline \(Never Surrender Remix\)](https://open.spotify.com/album/6P4DBRI39lfKRvfXMqBrh9) | 2:47 |
 | 70 | [Here To Stay](https://open.spotify.com/track/6Zvj3BSyp3lwyw9uSqsGpr) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Serouj Guidanian](https://open.spotify.com/artist/401yqK30JbtGhF3zV07qzU) | [The Ultimate Killing Machine](https://open.spotify.com/album/4Go2MGwW5SXqoJCzYgmW23) | 3:25 |
-| 71 | [HIT IT](https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I) | [HIT IT](https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95) | 2:44 |
-| 72 | [After Dark](https://open.spotify.com/track/0I6ZUfEYKF37J8UQhIVKBg) | [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq), [Antenora](https://open.spotify.com/artist/72SQfmyjszuSw1SNoNWpvz), [Dionysus](https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b) | [After Dark](https://open.spotify.com/album/5NGidUj0aCwf9QLxMWomEy) | 3:43 |
+| 71 | [After Dark](https://open.spotify.com/track/0I6ZUfEYKF37J8UQhIVKBg) | [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq), [Antenora](https://open.spotify.com/artist/72SQfmyjszuSw1SNoNWpvz), [Dionysus](https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b) | [After Dark](https://open.spotify.com/album/5NGidUj0aCwf9QLxMWomEy) | 3:43 |
+| 72 | [HIT IT](https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I) | [HIT IT](https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95) | 2:44 |
 | 73 | [Fvcking One](https://open.spotify.com/track/2sruUp3twkNTByH73uIpeY) | [Edwar](https://open.spotify.com/artist/19hHL1D21GLb6xREDCyuhC), [Sidekick](https://open.spotify.com/artist/2tYAj8dL6XAthBoFXwl6co) | [Fvcking One](https://open.spotify.com/album/26DXvklEuDelfT7fLjyRCj) | 3:33 |
 | 74 | [Blow Up](https://open.spotify.com/track/3GfmmpnJql1SqFBmJNPYVd) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [Blow Up](https://open.spotify.com/album/6m5sNwYESSevGMnqRJHImH) | 3:24 |
 | 75 | [OMG](https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp) | [OMG](https://open.spotify.com/album/61R8EoLyMQQ31KbgPukUKc) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 99 | [Demonic Playgrounds](https://open.spotify.com/track/1kiI7G35IZs0u4vtKX2Mne) | [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY), [Disarray](https://open.spotify.com/artist/5HzAVjYVX8EYbLnNv9Vrke) | [Demonic Playgrounds](https://open.spotify.com/album/23jLMFzSBYcGYrdu1f85NC) | 3:08 |
 | 100 | [Made it to Thunderdome](https://open.spotify.com/track/0Cxe1F9JEK4iFjX54aauZe) | [Nightshift](https://open.spotify.com/artist/1fzWsgu7ndnyTBtBYOmzxe), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Made it to Thunderdome](https://open.spotify.com/album/51RFeHthhnta86KQO92uyY) | 3:47 |
 
-Snapshot ID: `MCw5Y2M0MjdiMzJlNmY5OTZjZmJlZjZlZmRjZTlhZjIzZjY4NjU3ZGVj`
+Snapshot ID: `MCw2MDdhMDYyZTEwYTkxM2QwODFmZWI3NTdiOTAxZTlhYTljN2MyMzNh`

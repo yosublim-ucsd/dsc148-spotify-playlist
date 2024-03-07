@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYHdtUb7Wil.md) - [plain]
 
 > Kick back to these chilled out essentials.
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,046 likes - 70 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,171 likes - 70 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYHdtUb7Wil.md) - [plain]
 | 69 | [Come to Bed](https://open.spotify.com/track/75z8eUHzytgo02DPFsRAGB) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [Come to Bed](https://open.spotify.com/album/3yu3jbEoKfF7kPBUjbXfAe) | 2:58 |
 | 70 | [Every Side Of You](https://open.spotify.com/track/731oIHe1EeEyTEwdtY0lRj) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Every Side Of You](https://open.spotify.com/album/6xLceFaewP4juAD4GjBd45) | 3:24 |
 
-Snapshot ID: `MCwxYTc1NmQ3YWU4NDA0Y2I5ODE5MTZmYjUxMDRmMjVmZDI2Njk5ZWRh`
+Snapshot ID: `MCxmMzc4MDI3YjE1YjA2NDM3OGNmZWRjOTY1MmVjMDQwZTNkYmM5N2Q4`

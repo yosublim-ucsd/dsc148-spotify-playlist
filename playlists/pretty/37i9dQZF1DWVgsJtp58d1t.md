@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday\. In honor of Black History Month, we’re giving flowers to prominent artists and their managers\. <a href="https://www.instagram.com/p/C38GTj9Lzev/?utm\_source=ig\_web\_copy\_link&igsh=MzRlODBiNWFlZA==">Let's get into it</a><br/><br/>Cover: Larry June and David Ali
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,011,172 likes - 102 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,011,385 likes - 102 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 101 | [You Never Visit Me \(feat\. Wale & Enny\)](https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [You Never Visit Me \(feat\. Wale & Enny\)](https://open.spotify.com/album/5768qKkadOnArtFfrupjLe) | 4:24 |
 | 102 | [Lover/Friend](https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Lover/Friend](https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX) | 3:32 |
 
-Snapshot ID: `MCwzNWZiZjBlNzM0MzI1NWU3OThiMDljNGU3YTk5NjIyZGViNjliMmUw`
+Snapshot ID: `MCwxMWI4OTA1MjhjZTIyYmVkM2FjNzMwMGM3NjhjOTMzMjc2M2ExY2Mw`

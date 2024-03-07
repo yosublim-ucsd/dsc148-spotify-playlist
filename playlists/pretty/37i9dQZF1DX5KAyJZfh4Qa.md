@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 
 > it's just one of those days w/ <a href="https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa?si=9cd8ab93c60b4919"> Sweet Pill</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,884 likes - 80 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,947 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 27 | [Don't Lick The Swingset](https://open.spotify.com/track/2ux59Zvg7EDCJGfxD1pJF9) | [Carly Cosgrove](https://open.spotify.com/artist/4h3DxZa1JxZhSB1a64ziKx) | [Don't Lick The Swingset](https://open.spotify.com/album/1uD9U6SoTuuMuAiVFA8XiQ) | 3:35 |
 | 28 | [Darkness](https://open.spotify.com/track/07WWAnpW4RVPY4D2lmlClG) | [SWEET SPINE](https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff) | [Darkness](https://open.spotify.com/album/11PorcKZMGQjUai8BEljAi) | 3:48 |
 | 29 | [Black Earth, WI](https://open.spotify.com/track/2brPDOuzBeCoL3vsuWiY0g) | [Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf) | [The Window](https://open.spotify.com/album/07h9Qsx40cCp1h0ykxuqU1) | 8:34 |
-| 30 | [Dark Blue](https://open.spotify.com/track/4Jorrcz8agj4W367a3CaxO) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Dark Blue](https://open.spotify.com/album/3kPgKZ8U6W5NxrTZiUKOMB) | 2:49 |
+| 30 | [Dark Blue](https://open.spotify.com/track/60vVj2WfNR4weWoMEiO9er) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Songs for the Willow](https://open.spotify.com/album/2rVmbhmUafv2fDfEpwJQgL) | 2:49 |
 | 31 | [Scenery](https://open.spotify.com/track/4ZJDUqVn8n592qx7IQft5o) | [Bearings](https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn) | [The Best Part About Being Human](https://open.spotify.com/album/5W3BwgmLw8jbsgOm4Rv9po) | 2:39 |
 | 32 | [Mulholland Dr.](https://open.spotify.com/track/337bOFFRgT6HyF2V4fLCYf) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Farm to Table](https://open.spotify.com/album/5szOdnVq0e6pDDFNxz6YK3) | 4:01 |
 | 33 | [Walk Over My Grave](https://open.spotify.com/track/4sK75yxCOj0K5NMijKgZCa) | [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [is this what i look like?](https://open.spotify.com/album/4u11pDt06OqbpvUoauvrSH) | 3:19 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 79 | [The Highway Signs Will Lead to Nothing](https://open.spotify.com/track/6SpavaUktNu788dew49p9U) | [Predisposed.](https://open.spotify.com/artist/4KIxOZRJxLKPeaFSarFk1X) | [The Highway Signs Will Lead to Nothing](https://open.spotify.com/album/5sxBZ51MbCmwvtonfVsA1C) | 4:39 |
 | 80 | [King Bee](https://open.spotify.com/track/7zIHAwiZvJZIQQ3AKximtT) | [Prairie Fire](https://open.spotify.com/artist/5LiZglQ0vLYvvEqa7oCXfd) | [King Bee](https://open.spotify.com/album/2Jo9Gu7tQloGevEX8NhGmL) | 2:43 |
 
-Snapshot ID: `MCw0NTdkODVhNWY5YTY3OTBhY2Y5MDY2MzkxZGE3NGFkMWZlMzAwNWVi`
+Snapshot ID: `MCxmNWFlZTUwMzIxMTFjYTdkYWMzN2FlNzM4ZDExMGRhYjMxMzE4NjUy`

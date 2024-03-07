@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Fred Again..
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,243 likes - 85 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,293 likes - 85 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 84 | [Don't Make No Sense](https://open.spotify.com/track/5zdQslM9L6djad729h1VuO) | [Juwan](https://open.spotify.com/artist/6XdWc6hDPzl8fpJnZvSo79) | [Don't Make No Sense](https://open.spotify.com/album/47u9MHGfvxU1MZ1N30uiWT) | 3:52 |
 | 85 | [Hello Again](https://open.spotify.com/track/5HpfpZWZnLoouRaL6NpRCX) | [Surf Trash](https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm) | [Hello Again](https://open.spotify.com/album/0tFkk5Zsszea1SXwLo6dn1) | 2:24 |
 
-Snapshot ID: `MCwzNTRlYzM1NmU2ZmUyMzk3MDg5NGE1NDQyYWQzYTUyZjU4N2U1OTM3`
+Snapshot ID: `MCw5NjJmMGU2MjIxMzE4MmUwZWI5NzNmYTRlZmZlNWI5NzUyY2UyYTJh`

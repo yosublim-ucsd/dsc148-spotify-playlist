@@ -1,12 +1,12 @@
 {
   "description": "Maren Morris is taking over to celebrate Women's History Month on EQUAL US!",
-  "num_followers": 45907,
+  "num_followers": 45927,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZGZhM2ZiZTRiODY3ZDY0OWIzYzc3NzJmOWZhYjAxNDU5ZDU0OGYy",
+  "snapshot_id": "MCw4Y2NkMTdlNjg4MDA5MWZiZWQwNzg5YmUzZjcyODQ4NGVkZjQ2NzY5",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "I Don't Wanna Dance",
+        "url": "https://open.spotify.com/album/6vEl3ZGvpUT8acpCHHxKkS"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Lawrence",
+          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
+        }
+      ],
+      "duration_ms": 182443,
+      "name": "I Don't Wanna Dance",
+      "url": "https://open.spotify.com/track/330ssf1QuLQjoaoyZbyrPI"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "it\u2019s not you, it\u2019s me",
         "url": "https://open.spotify.com/album/0BDjNDdizBQAGbIRyBBeEA"
       },
@@ -611,18 +627,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "I Don't Wanna Dance",
-        "url": "https://open.spotify.com/album/6vEl3ZGvpUT8acpCHHxKkS"
+        "name": "IS IT WORTH IT",
+        "url": "https://open.spotify.com/album/07Cy5GDf829nfPbW5hIHKf"
       },
       "artists": [
         {
-          "name": "Charlotte Lawrence",
-          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
+          "name": "Rae Khalil",
+          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
         }
       ],
-      "duration_ms": 182443,
-      "name": "I Don't Wanna Dance",
-      "url": "https://open.spotify.com/track/330ssf1QuLQjoaoyZbyrPI"
+      "duration_ms": 220839,
+      "name": "IS IT WORTH IT",
+      "url": "https://open.spotify.com/track/4Nh0JxNzagptVbxUUbrcyW"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -639,22 +655,6 @@
       "duration_ms": 263432,
       "name": "House Of Self-Undoing",
       "url": "https://open.spotify.com/track/6dle7FaD5ZRhbHHk6zZsWX"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "IS IT WORTH IT",
-        "url": "https://open.spotify.com/album/07Cy5GDf829nfPbW5hIHKf"
-      },
-      "artists": [
-        {
-          "name": "Rae Khalil",
-          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
-        }
-      ],
-      "duration_ms": 220839,
-      "name": "IS IT WORTH IT",
-      "url": "https://open.spotify.com/track/4Nh0JxNzagptVbxUUbrcyW"
     },
     {
       "added_at": "2024-03-01 05:00:00",

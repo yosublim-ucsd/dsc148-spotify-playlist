@@ -1,12 +1,12 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 21624,
+  "num_followers": 21629,
   "original_name": "Electro Folklore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWNmYzU4MDA0YmY5YzhiODg1OGY3OGM4OGVmYzYxOGZlYTk2Y2Qx",
+  "snapshot_id": "MCwzODkxYzk1YWQzZTg4Njg1NmMyNmM4YjdhNWZiMDkyNGE5ZWY2OWE5",
   "tracks": [
     {
       "added_at": "2024-01-25 19:57:37",
@@ -299,26 +299,6 @@
     {
       "added_at": "2024-01-25 19:57:37",
       "album": {
-        "name": "Ceremonia",
-        "url": "https://open.spotify.com/album/1pbBTqGMfMnXGHDbfJurP3"
-      },
-      "artists": [
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        },
-        {
-          "name": "LUVI TORRES",
-          "url": "https://open.spotify.com/artist/0U6e4AWJDteC3blrD46avQ"
-        }
-      ],
-      "duration_ms": 137104,
-      "name": "Amo",
-      "url": "https://open.spotify.com/track/0lTskhjbr24P0C9kPmylF6"
-    },
-    {
-      "added_at": "2024-01-25 19:57:37",
-      "album": {
         "name": "Soy la lluvia",
         "url": "https://open.spotify.com/album/6Z8c45wjOmc0m8kFhyYrLB"
       },
@@ -335,6 +315,26 @@
       "duration_ms": 327912,
       "name": "Soy la lluvia",
       "url": "https://open.spotify.com/track/6nBTtVXOr8tXZQaJRguy8r"
+    },
+    {
+      "added_at": "2024-01-25 19:57:37",
+      "album": {
+        "name": "Ceremonia",
+        "url": "https://open.spotify.com/album/1pbBTqGMfMnXGHDbfJurP3"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        },
+        {
+          "name": "LUVI TORRES",
+          "url": "https://open.spotify.com/artist/0U6e4AWJDteC3blrD46avQ"
+        }
+      ],
+      "duration_ms": 137104,
+      "name": "Amo",
+      "url": "https://open.spotify.com/track/0lTskhjbr24P0C9kPmylF6"
     },
     {
       "added_at": "2024-01-25 19:57:37",
@@ -423,6 +423,26 @@
     {
       "added_at": "2024-01-25 19:57:37",
       "album": {
+        "name": "La Estrella",
+        "url": "https://open.spotify.com/album/7quHZhPNAMaxImHsjrOkSr"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        },
+        {
+          "name": "F\u00e9mina",
+          "url": "https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR"
+        }
+      ],
+      "duration_ms": 296258,
+      "name": "Cometa",
+      "url": "https://open.spotify.com/track/57579JMa428PUzNyRHRtsm"
+    },
+    {
+      "added_at": "2024-01-25 19:57:37",
+      "album": {
         "name": "DUALQ",
         "url": "https://open.spotify.com/album/3mvBTWoQPoiQL9axmNaEfZ"
       },
@@ -439,26 +459,6 @@
       "duration_ms": 235142,
       "name": "DUALQ",
       "url": "https://open.spotify.com/track/3zNVQ2hDCiJ5QqUiS7vVxB"
-    },
-    {
-      "added_at": "2024-01-25 19:57:37",
-      "album": {
-        "name": "Asimetrico",
-        "url": "https://open.spotify.com/album/0MlR0D5QnF9PLS7wQjHXit"
-      },
-      "artists": [
-        {
-          "name": "El Remol\u00f3n",
-          "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
-        },
-        {
-          "name": "Pol Nada",
-          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
-        }
-      ],
-      "duration_ms": 314009,
-      "name": "Que Bailen",
-      "url": "https://open.spotify.com/track/1OiEdS4FTTJlMMplNKHomb"
     },
     {
       "added_at": "2024-01-25 19:57:37",
@@ -495,22 +495,22 @@
     {
       "added_at": "2024-01-25 19:57:37",
       "album": {
-        "name": "La Estrella",
-        "url": "https://open.spotify.com/album/7quHZhPNAMaxImHsjrOkSr"
+        "name": "Asimetrico",
+        "url": "https://open.spotify.com/album/0MlR0D5QnF9PLS7wQjHXit"
       },
       "artists": [
         {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+          "name": "El Remol\u00f3n",
+          "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
         },
         {
-          "name": "F\u00e9mina",
-          "url": "https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR"
+          "name": "Pol Nada",
+          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
         }
       ],
-      "duration_ms": 296258,
-      "name": "Cometa",
-      "url": "https://open.spotify.com/track/57579JMa428PUzNyRHRtsm"
+      "duration_ms": 314009,
+      "name": "Que Bailen",
+      "url": "https://open.spotify.com/track/1OiEdS4FTTJlMMplNKHomb"
     },
     {
       "added_at": "2024-01-25 19:57:37",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-01-25 19:57:37",
       "album": {
+        "name": "Viajante",
+        "url": "https://open.spotify.com/album/4msH94tkW6Iyxke84wmCoQ"
+      },
+      "artists": [
+        {
+          "name": "Tremor",
+          "url": "https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD"
+        }
+      ],
+      "duration_ms": 232013,
+      "name": "Viajante",
+      "url": "https://open.spotify.com/track/5YZ9dOdtcaGilbW43A5YDj"
+    },
+    {
+      "added_at": "2024-01-25 19:57:37",
+      "album": {
         "name": "Susurro (Matanza Remix)",
         "url": "https://open.spotify.com/album/66ZuMPXE9UbE2WBnp3hwWD"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 302368,
       "name": "Susurro - Matanza Remix",
       "url": "https://open.spotify.com/track/5bFlyscIrMH8dotRFFRWYj"
-    },
-    {
-      "added_at": "2024-01-25 19:57:37",
-      "album": {
-        "name": "Viajante",
-        "url": "https://open.spotify.com/album/4msH94tkW6Iyxke84wmCoQ"
-      },
-      "artists": [
-        {
-          "name": "Tremor",
-          "url": "https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD"
-        }
-      ],
-      "duration_ms": 232013,
-      "name": "Viajante",
-      "url": "https://open.spotify.com/track/5YZ9dOdtcaGilbW43A5YDj"
     },
     {
       "added_at": "2024-01-25 19:57:37",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-01-25 19:57:37",
       "album": {
-        "name": "Tonolec",
-        "url": "https://open.spotify.com/album/0uR0X0oiILxnxDauNaqKzc"
-      },
-      "artists": [
-        {
-          "name": "Tonolec",
-          "url": "https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5"
-        }
-      ],
-      "duration_ms": 264546,
-      "name": "Antiguos Due\u00f1os de las Flechas",
-      "url": "https://open.spotify.com/track/0z3RxsjWuo7lXrbLxE9Vmp"
-    },
-    {
-      "added_at": "2024-01-25 19:57:37",
-      "album": {
         "name": "Amansara",
         "url": "https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 229000,
       "name": "Coplita",
       "url": "https://open.spotify.com/track/1X7DuK2wnKRwijmxtF8mYj"
+    },
+    {
+      "added_at": "2024-01-25 19:57:37",
+      "album": {
+        "name": "Tonolec",
+        "url": "https://open.spotify.com/album/0uR0X0oiILxnxDauNaqKzc"
+      },
+      "artists": [
+        {
+          "name": "Tonolec",
+          "url": "https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5"
+        }
+      ],
+      "duration_ms": 264546,
+      "name": "Antiguos Due\u00f1os de las Flechas",
+      "url": "https://open.spotify.com/track/0z3RxsjWuo7lXrbLxE9Vmp"
     },
     {
       "added_at": "2024-01-25 19:57:37",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2024-01-25 19:57:37",
       "album": {
-        "name": "Circular Tejido",
-        "url": "https://open.spotify.com/album/66eGF9069noRjSDKOfUJuN"
+        "name": "Albura Remixed",
+        "url": "https://open.spotify.com/album/70PAc04K99bM8wTU79PQ2f"
       },
       "artists": [
         {
-          "name": "Lulacruza",
-          "url": "https://open.spotify.com/artist/4Tdm58O53huKPT2480fzjE"
+          "name": "Barrio Lindo",
+          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
         }
       ],
-      "duration_ms": 295073,
-      "name": "Rio Contento",
-      "url": "https://open.spotify.com/track/5KozTQBwKoXKOggYKeyety"
+      "duration_ms": 314854,
+      "name": "Belleza en el Aire - Remix",
+      "url": "https://open.spotify.com/track/6oi6cJTZ2ZgSSud6Obd8tR"
     },
     {
       "added_at": "2024-01-25 19:57:37",
@@ -1055,34 +1055,18 @@
     {
       "added_at": "2024-01-25 19:57:37",
       "album": {
-        "name": "Albura Remixed",
-        "url": "https://open.spotify.com/album/70PAc04K99bM8wTU79PQ2f"
+        "name": "Circular Tejido",
+        "url": "https://open.spotify.com/album/66eGF9069noRjSDKOfUJuN"
       },
       "artists": [
         {
-          "name": "Barrio Lindo",
-          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
+          "name": "Lulacruza",
+          "url": "https://open.spotify.com/artist/4Tdm58O53huKPT2480fzjE"
         }
       ],
-      "duration_ms": 314854,
-      "name": "Belleza en el Aire - Remix",
-      "url": "https://open.spotify.com/track/6oi6cJTZ2ZgSSud6Obd8tR"
-    },
-    {
-      "added_at": "2024-01-25 19:57:37",
-      "album": {
-        "name": "SUELTA",
-        "url": "https://open.spotify.com/album/4gya2mygWkDnmtzHDaWKlP"
-      },
-      "artists": [
-        {
-          "name": "La Yegros",
-          "url": "https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7"
-        }
-      ],
-      "duration_ms": 332024,
-      "name": "Cuando",
-      "url": "https://open.spotify.com/track/1b9TpQFJK0WA6V0Aap0kZT"
+      "duration_ms": 295073,
+      "name": "Rio Contento",
+      "url": "https://open.spotify.com/track/5KozTQBwKoXKOggYKeyety"
     },
     {
       "added_at": "2024-01-25 19:57:37",
@@ -1111,6 +1095,22 @@
       "duration_ms": 383979,
       "name": "Cuchi Leguizam\u00f3n yo te amo para siempre",
       "url": "https://open.spotify.com/track/7cr9lcMgO93UQ93BUeIsVh"
+    },
+    {
+      "added_at": "2024-01-25 19:57:37",
+      "album": {
+        "name": "SUELTA",
+        "url": "https://open.spotify.com/album/4gya2mygWkDnmtzHDaWKlP"
+      },
+      "artists": [
+        {
+          "name": "La Yegros",
+          "url": "https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7"
+        }
+      ],
+      "duration_ms": 332024,
+      "name": "Cuando",
+      "url": "https://open.spotify.com/track/1b9TpQFJK0WA6V0Aap0kZT"
     },
     {
       "added_at": "2024-01-25 19:57:37",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2024-01-25 19:57:37",
       "album": {
-        "name": "La L\u00ednea Del Rio (Remix)",
-        "url": "https://open.spotify.com/album/7bA6aQJeNKnb7sokNvUFpN"
-      },
-      "artists": [
-        {
-          "name": "Bosquemar",
-          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
-        },
-        {
-          "name": "Rumbo Tumba",
-          "url": "https://open.spotify.com/artist/1KwZpbtHfA9xTujcgSTeUJ"
-        }
-      ],
-      "duration_ms": 546568,
-      "name": "La L\u00ednea Del Rio - Remix",
-      "url": "https://open.spotify.com/track/5aJSMeuh3g7BzwpzUz1C49"
-    },
-    {
-      "added_at": "2024-01-25 19:57:37",
-      "album": {
         "name": "Muchas Estrellas",
         "url": "https://open.spotify.com/album/1JtE86fRCzw0UCIKpNCzm9"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 271000,
       "name": "Muchas Estrellas",
       "url": "https://open.spotify.com/track/6tSdo6xgGwQjWMBJYn9kat"
+    },
+    {
+      "added_at": "2024-01-25 19:57:37",
+      "album": {
+        "name": "La L\u00ednea Del Rio (Remix)",
+        "url": "https://open.spotify.com/album/7bA6aQJeNKnb7sokNvUFpN"
+      },
+      "artists": [
+        {
+          "name": "Bosquemar",
+          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
+        },
+        {
+          "name": "Rumbo Tumba",
+          "url": "https://open.spotify.com/artist/1KwZpbtHfA9xTujcgSTeUJ"
+        }
+      ],
+      "duration_ms": 546568,
+      "name": "La L\u00ednea Del Rio - Remix",
+      "url": "https://open.spotify.com/track/5aJSMeuh3g7BzwpzUz1C49"
     },
     {
       "added_at": "2024-01-25 19:57:37",
@@ -1383,46 +1383,6 @@
     {
       "added_at": "2024-01-25 19:57:37",
       "album": {
-        "name": "Asimetrico",
-        "url": "https://open.spotify.com/album/0MlR0D5QnF9PLS7wQjHXit"
-      },
-      "artists": [
-        {
-          "name": "El Remol\u00f3n",
-          "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
-        },
-        {
-          "name": "Brawlio",
-          "url": "https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK"
-        }
-      ],
-      "duration_ms": 260867,
-      "name": "Los Pajaros",
-      "url": "https://open.spotify.com/track/7ip0PYb575HHoCjQUGaA97"
-    },
-    {
-      "added_at": "2024-01-25 19:57:37",
-      "album": {
-        "name": "Do\u00f1a Ubenza (Remix)",
-        "url": "https://open.spotify.com/album/1qRVbQRDzcUTNeYUVZji93"
-      },
-      "artists": [
-        {
-          "name": "Veronika Silva",
-          "url": "https://open.spotify.com/artist/0pUXvpJVsz6JTJJQUDNhWu"
-        },
-        {
-          "name": "Philippe Cohen Solal",
-          "url": "https://open.spotify.com/artist/0EFmOtI513PheI6td8B5WV"
-        }
-      ],
-      "duration_ms": 281142,
-      "name": "Do\u00f1a Ubenza - Remix",
-      "url": "https://open.spotify.com/track/6xYZqXLrgnRVOhVvkfNocZ"
-    },
-    {
-      "added_at": "2024-01-25 19:57:37",
-      "album": {
         "name": "La Fuerza",
         "url": "https://open.spotify.com/album/5BOYpCrtxsqlMVGqD0x39R"
       },
@@ -1455,6 +1415,46 @@
       "duration_ms": 267353,
       "name": "La Fuerza",
       "url": "https://open.spotify.com/track/2MNnYejvulFGxM9yoLt89j"
+    },
+    {
+      "added_at": "2024-01-25 19:57:37",
+      "album": {
+        "name": "Do\u00f1a Ubenza (Remix)",
+        "url": "https://open.spotify.com/album/1qRVbQRDzcUTNeYUVZji93"
+      },
+      "artists": [
+        {
+          "name": "Veronika Silva",
+          "url": "https://open.spotify.com/artist/0pUXvpJVsz6JTJJQUDNhWu"
+        },
+        {
+          "name": "Philippe Cohen Solal",
+          "url": "https://open.spotify.com/artist/0EFmOtI513PheI6td8B5WV"
+        }
+      ],
+      "duration_ms": 281142,
+      "name": "Do\u00f1a Ubenza - Remix",
+      "url": "https://open.spotify.com/track/6xYZqXLrgnRVOhVvkfNocZ"
+    },
+    {
+      "added_at": "2024-01-25 19:57:37",
+      "album": {
+        "name": "Asimetrico",
+        "url": "https://open.spotify.com/album/0MlR0D5QnF9PLS7wQjHXit"
+      },
+      "artists": [
+        {
+          "name": "El Remol\u00f3n",
+          "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
+        },
+        {
+          "name": "Brawlio",
+          "url": "https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK"
+        }
+      ],
+      "duration_ms": 260867,
+      "name": "Los Pajaros",
+      "url": "https://open.spotify.com/track/7ip0PYb575HHoCjQUGaA97"
     },
     {
       "added_at": "2024-01-25 19:57:37",

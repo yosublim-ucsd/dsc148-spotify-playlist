@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0rsqS3HgjHgpjcvfZX8OmF.md) - [plain]
 
 > The best and latest rock and alternative\. Cover: Kings Of Leon
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 9,903 likes - 80 songs - 4 hr 44 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 9,905 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

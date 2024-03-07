@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Games We Play
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,241 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,256 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Typical Me](https://open.spotify.com/track/57IbDKMqYTdopZAxLiBMah) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Life’s Going Great](https://open.spotify.com/album/0yXsEspUqhclhWF27TqUbq) | 2:39 |
 | 2 | [Sixteen](https://open.spotify.com/track/4FmRAiDgkm7KxzZM64406E) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [Sixteen](https://open.spotify.com/album/71jVpE2XmMErw3Ef45xrOY) | 3:44 |
 | 3 | [Makes Me Violent](https://open.spotify.com/track/1nNSdsmH6rqpa6x7WeUL5v) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Makes Me Violent](https://open.spotify.com/album/0j6c4JKUS4ofsa0P927Irn) | 3:19 |
-| 4 | [Cling to a Poisoned Dream](https://open.spotify.com/track/114RKvqZgUCnBtjz7Qo2K1) | [Pissed Jeans](https://open.spotify.com/artist/6FTONkEJQsCSpoDHqaAP1V) | [Cling to a Poisoned Dream](https://open.spotify.com/album/0RHs3NdKlZD1RMu02boc3y) | 1:29 |
+| 4 | [Cling to a Poisoned Dream](https://open.spotify.com/track/1eWkOXMRejiA6mEZCUHArO) | [Pissed Jeans](https://open.spotify.com/artist/6FTONkEJQsCSpoDHqaAP1V) | [Half Divorced](https://open.spotify.com/album/4oTZaBT6SoZ9NURR8p42xr) | 1:29 |
 | 5 | [Zombie Nation \- feat\. Suggs](https://open.spotify.com/track/6BMTBxXUtNLUe97uTtRi1n) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB), [Suggs](https://open.spotify.com/artist/4ybqvfut7DoHdBy2lRbTFC) | [Zombie Nation \(feat\. Suggs\)](https://open.spotify.com/album/1z7swbmeQe8bYqQPm8Uycv) | 3:16 |
 | 6 | [You've Got The Nerve](https://open.spotify.com/track/3QiIyZ6uVHDIBHIcD9NguN) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [You've Got The Nerve](https://open.spotify.com/album/7lNgBcxF1c0tuU3uHd3n4z) | 2:28 |
 | 7 | [EVERY MAN FOR HIMSELF](https://open.spotify.com/track/6tKEneUBTaGvoHeSxpJltb) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [EVERY MAN FOR HIMSELF](https://open.spotify.com/album/70KXLvjv7CIssBvNh9AbTB) | 1:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [So Cold](https://open.spotify.com/track/3dTlvE1QJ0UaZ1imdtA0Ot) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [So Cold](https://open.spotify.com/album/0LM6iYcA8RxgcHwR0J4yN8) | 3:41 |
 | 100 | [Hunt You Down](https://open.spotify.com/track/18BXVZ04Xm9eiSyFpD5PJE) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Little Rope](https://open.spotify.com/album/7hf2cM8SdK5vdb6SeH2qyM) | 3:32 |
 
-Snapshot ID: `MCxkODc1MGRhOWQ3MjczMTM0ZmEyNzRkMmExZWQwNWVjNDEwMTczZDdj`
+Snapshot ID: `MCxhYmUyOTcxMmExMWFmMjE2YzRkODNmNTA2Mjk3NWYzNTU0NzIwMjZm`

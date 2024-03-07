@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 75228,
+  "2024-03-07": 75238,
   "date_first_scraped": "2022-09-15",
   "description": "Tunes for sun drenched days and balmy nights.",
   "name": "Summer Daze",
@@ -987,7 +987,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 226500,
       "name": "Hold You",
       "url": "https://open.spotify.com/track/7E0RRIV0kb6ijUFaoKzfSf"
@@ -1575,6 +1575,24 @@
       "duration_ms": 231200,
       "name": "Milk & Honey",
       "url": "https://open.spotify.com/track/0LbRbiN6RTRzxTvmmjfeCg"
+    },
+    {
+      "album": {
+        "name": "Nothing to Lose",
+        "url": "https://open.spotify.com/album/3MLs9OSTBURXZ87o8ItJSp"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231200,
+      "name": "Milk & Honey",
+      "url": "https://open.spotify.com/track/0g9PpERyTEuKV4mgKhrudQ"
     },
     {
       "album": {

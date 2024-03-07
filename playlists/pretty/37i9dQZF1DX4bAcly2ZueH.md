@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,289 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,303 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 72 | [ugotmyheart](https://open.spotify.com/track/3VbVcvK33AjjIC4iTvK0qK) | [Nezumi Coo](https://open.spotify.com/artist/485gYZbLuEOqVA4QqYsXjs), [Miyna Usui](https://open.spotify.com/artist/1TUVadr4tlnrjcvN4SSrqk) | [Nezumi Coo](https://open.spotify.com/album/1aJd14wjwAinjWL1tUMVSH) | 3:15 |
 | 73 | [No Love](https://open.spotify.com/track/4ncuzXLHYIh6KSW4UrEH0Y) | [92elm](https://open.spotify.com/artist/5YCia3zgXxdXMKePBNMkJk) | [No Love](https://open.spotify.com/album/1iF700mTP95gGLjDKnY9oR) | 2:57 |
 | 74 | [The Sea](https://open.spotify.com/track/4LiegagyTpRT7uo2yvg0lw) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [The Sea](https://open.spotify.com/album/3lZaB3KINJrV4fUISB39nc) | 2:45 |
-| 75 | [Ripple](https://open.spotify.com/track/1YalCeuariNJ4hlEjq6o3S) | [\[.que\]](https://open.spotify.com/artist/01FtA9GKCdkhtXHZrxi1v7) | [Seaglow](https://open.spotify.com/album/2nvtaBqF1x83BMsdpEC5ZD) | 2:12 |
+| 75 | [Ripple](https://open.spotify.com/track/2Y9z1M1RWd0p790z5ej3dW) | [\[.que\]](https://open.spotify.com/artist/01FtA9GKCdkhtXHZrxi1v7) | [Seaglow](https://open.spotify.com/album/7hFfXVVEnqpxOhxkSAMpdT) | 2:12 |
 | 76 | [Arne](https://open.spotify.com/track/4ZqQqesPkASH1sqsnm6wmo) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [Grace](https://open.spotify.com/album/37vlYDRVRGH8sf5qZG3J6z) | 3:37 |
 | 77 | [Sleepy Story.](https://open.spotify.com/track/5FL7eUhAFgmV6FzrNYbdUO) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 1:55 |
 | 78 | [Muse](https://open.spotify.com/track/2dljglWGEZVoLUSG8JArpE) | [mndbd](https://open.spotify.com/artist/2mqFsaoDarpyIIRowWT3Ci), [Minthaze](https://open.spotify.com/artist/0GDuz9Xe0BQHtO6uEOHm1v) | [Introspect](https://open.spotify.com/album/65OBZP52AzrI4W5oUVoXPV) | 1:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 99 | [Yura Yura](https://open.spotify.com/track/5clAgVJ2jUqP9diNgNuV82) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Yura Yura](https://open.spotify.com/album/4I6LEZPwd2lRIsbRgfbOBd) | 2:18 |
 | 100 | [Holding On](https://open.spotify.com/track/5WhLz63p2yzbpTROq87AT0) | [LAKEY INSPIRED](https://open.spotify.com/artist/3zDGjdtoxUiH7YcTWOdtMd) | [Holding On](https://open.spotify.com/album/1hVENLbXnEHqjREdfjurS7) | 2:26 |
 
-Snapshot ID: `MCw0M2Y3YjZkNjhkZWVkZDViOTFkZTIwZGQwMmFlMWZjNmU3ZWU3MzE0`
+Snapshot ID: `MCwxOGY0ZTg5ZmE1ZmJlYzA1MjVjNzhjZTkxNGVmZTQxYzg5NzM2OWM1`

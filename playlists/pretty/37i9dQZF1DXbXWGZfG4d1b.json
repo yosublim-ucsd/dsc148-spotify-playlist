@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 21821,
+  "num_followers": 21836,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzhjODgxMzVlNjM1MGYwMzgxNWEyN2YwOGYxMjRlMzk5M2FmODc0",
+  "snapshot_id": "MCxlOWE3MTZhMjBjNjYxOWY3NDhhMzgzNmM1YjRlODYzYzkzZDIwZWE1",
   "tracks": [
     {
       "added_at": "2024-02-29 22:03:46",
@@ -155,6 +155,22 @@
     {
       "added_at": "2024-02-29 22:03:46",
       "album": {
+        "name": "Coffee",
+        "url": "https://open.spotify.com/album/7yfpuKRPyz3BRm9fAPjGqp"
+      },
+      "artists": [
+        {
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+        }
+      ],
+      "duration_ms": 149940,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/29GLlaeW4vqFR1JXymZX7d"
+    },
+    {
+      "added_at": "2024-02-29 22:03:46",
+      "album": {
         "name": "Vamos a Destruir",
         "url": "https://open.spotify.com/album/0D04Gwef4aeN5bEGzsvenm"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 250621,
       "name": "Cangrejal",
       "url": "https://open.spotify.com/track/4DNSjR34NzyowHIiNBpdrr"
-    },
-    {
-      "added_at": "2024-02-29 22:03:46",
-      "album": {
-        "name": "Sole",
-        "url": "https://open.spotify.com/album/3lQsuXtmeNGhWxezsxSbBR"
-      },
-      "artists": [
-        {
-          "name": "boom boom kid",
-          "url": "https://open.spotify.com/artist/2h2frsYL6pssri5AZdlMUU"
-        }
-      ],
-      "duration_ms": 243338,
-      "name": "Sole",
-      "url": "https://open.spotify.com/track/5CZQ77K8uZ6N2uEIUVY8fx"
     },
     {
       "added_at": "2024-02-29 22:03:46",
@@ -203,6 +203,22 @@
     {
       "added_at": "2024-02-29 22:03:46",
       "album": {
+        "name": "Sole",
+        "url": "https://open.spotify.com/album/3lQsuXtmeNGhWxezsxSbBR"
+      },
+      "artists": [
+        {
+          "name": "boom boom kid",
+          "url": "https://open.spotify.com/artist/2h2frsYL6pssri5AZdlMUU"
+        }
+      ],
+      "duration_ms": 243338,
+      "name": "Sole",
+      "url": "https://open.spotify.com/track/5CZQ77K8uZ6N2uEIUVY8fx"
+    },
+    {
+      "added_at": "2024-02-29 22:03:46",
+      "album": {
         "name": "Mojigata",
         "url": "https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 182599,
       "name": "Claro Ma",
       "url": "https://open.spotify.com/track/5CNOgr8gVOGIpFNKIG5NRX"
-    },
-    {
-      "added_at": "2024-02-29 22:03:46",
-      "album": {
-        "name": "El Tiempo",
-        "url": "https://open.spotify.com/album/4x58tGZD6fe6qKQiQPacK7"
-      },
-      "artists": [
-        {
-          "name": "Perras on the beach",
-          "url": "https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "El Tiempo",
-      "url": "https://open.spotify.com/track/6vUWrdWq0oCNuSVuvkWSO0"
     },
     {
       "added_at": "2024-02-29 22:03:46",
@@ -251,18 +251,18 @@
     {
       "added_at": "2024-02-29 22:03:46",
       "album": {
-        "name": "Coffee",
-        "url": "https://open.spotify.com/album/7yfpuKRPyz3BRm9fAPjGqp"
+        "name": "El Tiempo",
+        "url": "https://open.spotify.com/album/4x58tGZD6fe6qKQiQPacK7"
       },
       "artists": [
         {
-          "name": "Hinds",
-          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+          "name": "Perras on the beach",
+          "url": "https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3"
         }
       ],
-      "duration_ms": 149940,
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/29GLlaeW4vqFR1JXymZX7d"
+      "duration_ms": 236000,
+      "name": "El Tiempo",
+      "url": "https://open.spotify.com/track/6vUWrdWq0oCNuSVuvkWSO0"
     },
     {
       "added_at": "2024-02-29 22:03:46",
@@ -603,6 +603,30 @@
     {
       "added_at": "2024-02-29 22:03:46",
       "album": {
+        "name": "Canciones de Amor",
+        "url": "https://open.spotify.com/album/1xyRm4Ti9USkm9sVTwVfXU"
+      },
+      "artists": [
+        {
+          "name": "Lesbiandrama",
+          "url": "https://open.spotify.com/artist/0LZwj8XbxIwTjaDX478RXl"
+        },
+        {
+          "name": "Paula Maffia",
+          "url": "https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa"
+        },
+        {
+          "name": "Lucy Patan\u00e9",
+          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
+        }
+      ],
+      "duration_ms": 194043,
+      "name": "Canciones de Amor",
+      "url": "https://open.spotify.com/track/1RjmeNxL0KNM0KTH8aySAO"
+    },
+    {
+      "added_at": "2024-02-29 22:03:46",
+      "album": {
         "name": "Lago Eterno",
         "url": "https://open.spotify.com/album/4QE8gwER0QUeNM7ydyiLwC"
       },
@@ -631,30 +655,6 @@
       "duration_ms": 199901,
       "name": "VOID",
       "url": "https://open.spotify.com/track/6uPUgwjxECrLR7X5O7XacW"
-    },
-    {
-      "added_at": "2024-02-29 22:03:46",
-      "album": {
-        "name": "Canciones de Amor",
-        "url": "https://open.spotify.com/album/1xyRm4Ti9USkm9sVTwVfXU"
-      },
-      "artists": [
-        {
-          "name": "Lesbiandrama",
-          "url": "https://open.spotify.com/artist/0LZwj8XbxIwTjaDX478RXl"
-        },
-        {
-          "name": "Paula Maffia",
-          "url": "https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa"
-        },
-        {
-          "name": "Lucy Patan\u00e9",
-          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
-        }
-      ],
-      "duration_ms": 194043,
-      "name": "Canciones de Amor",
-      "url": "https://open.spotify.com/track/1RjmeNxL0KNM0KTH8aySAO"
     },
     {
       "added_at": "2024-02-29 22:03:46",
@@ -699,22 +699,34 @@
     {
       "added_at": "2024-02-29 22:03:46",
       "album": {
-        "name": "Mariposas",
-        "url": "https://open.spotify.com/album/0jt2HG9su1FciUJ2BgBJ30"
+        "name": "Esp\u00eda del Arte",
+        "url": "https://open.spotify.com/album/1QeQK6Vtgd9OIdZS1hEATg"
       },
       "artists": [
         {
-          "name": "Echega",
-          "url": "https://open.spotify.com/artist/2Li2QjHBJr15McMHdQSPJc"
-        },
-        {
-          "name": "Mariana P\u00e4raway",
-          "url": "https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja"
+          "name": "La Vida en Familia",
+          "url": "https://open.spotify.com/artist/7DEnD46VUEAYgm9Bftv8oL"
         }
       ],
-      "duration_ms": 192464,
-      "name": "Mariposas",
-      "url": "https://open.spotify.com/track/0sINp2DnE4lC3LXVP3U7OD"
+      "duration_ms": 290458,
+      "name": "Esp\u00eda del Arte",
+      "url": "https://open.spotify.com/track/6gPUedPLsF7taEAWvgJEal"
+    },
+    {
+      "added_at": "2024-02-29 22:03:46",
+      "album": {
+        "name": "Ochocientos Envolventes al Sol",
+        "url": "https://open.spotify.com/album/0cX5CB6zbNgLsmNMZqX8po"
+      },
+      "artists": [
+        {
+          "name": "Juan Mango",
+          "url": "https://open.spotify.com/artist/6a1LEawOSKjIoixesjSI0I"
+        }
+      ],
+      "duration_ms": 250517,
+      "name": "800 Vueltas Envolventes",
+      "url": "https://open.spotify.com/track/7zG3NeQXpREreAzY1jM0I7"
     },
     {
       "added_at": "2024-02-29 22:03:46",
@@ -735,18 +747,22 @@
     {
       "added_at": "2024-02-29 22:03:46",
       "album": {
-        "name": "Ochocientos Envolventes al Sol",
-        "url": "https://open.spotify.com/album/0cX5CB6zbNgLsmNMZqX8po"
+        "name": "Mariposas",
+        "url": "https://open.spotify.com/album/0jt2HG9su1FciUJ2BgBJ30"
       },
       "artists": [
         {
-          "name": "Juan Mango",
-          "url": "https://open.spotify.com/artist/6a1LEawOSKjIoixesjSI0I"
+          "name": "Echega",
+          "url": "https://open.spotify.com/artist/2Li2QjHBJr15McMHdQSPJc"
+        },
+        {
+          "name": "Mariana P\u00e4raway",
+          "url": "https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja"
         }
       ],
-      "duration_ms": 250517,
-      "name": "800 Vueltas Envolventes",
-      "url": "https://open.spotify.com/track/7zG3NeQXpREreAzY1jM0I7"
+      "duration_ms": 192464,
+      "name": "Mariposas",
+      "url": "https://open.spotify.com/track/0sINp2DnE4lC3LXVP3U7OD"
     },
     {
       "added_at": "2024-02-29 22:03:46",
@@ -771,22 +787,6 @@
     {
       "added_at": "2024-02-29 22:03:46",
       "album": {
-        "name": "Vamos a destruir",
-        "url": "https://open.spotify.com/album/1S92pCSLfw4Fbh6I6VCrFV"
-      },
-      "artists": [
-        {
-          "name": "Bestia Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
-        }
-      ],
-      "duration_ms": 221560,
-      "name": "Vamos a destruir",
-      "url": "https://open.spotify.com/track/4weHbH9867dP8O8IkQfywd"
-    },
-    {
-      "added_at": "2024-02-29 22:03:46",
-      "album": {
         "name": "Mala Influencia",
         "url": "https://open.spotify.com/album/5cLzpXDcunNag0msGWI67P"
       },
@@ -807,18 +807,18 @@
     {
       "added_at": "2024-02-29 22:03:46",
       "album": {
-        "name": "Esp\u00eda del Arte",
-        "url": "https://open.spotify.com/album/1QeQK6Vtgd9OIdZS1hEATg"
+        "name": "Vamos a destruir",
+        "url": "https://open.spotify.com/album/1S92pCSLfw4Fbh6I6VCrFV"
       },
       "artists": [
         {
-          "name": "La Vida en Familia",
-          "url": "https://open.spotify.com/artist/7DEnD46VUEAYgm9Bftv8oL"
+          "name": "Bestia Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
         }
       ],
-      "duration_ms": 290458,
-      "name": "Esp\u00eda del Arte",
-      "url": "https://open.spotify.com/track/6gPUedPLsF7taEAWvgJEal"
+      "duration_ms": 221560,
+      "name": "Vamos a destruir",
+      "url": "https://open.spotify.com/track/4weHbH9867dP8O8IkQfywd"
     },
     {
       "added_at": "2024-02-29 22:03:46",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-02-29 22:03:46",
       "album": {
-        "name": "Entre L\u00edneas",
-        "url": "https://open.spotify.com/album/1bABFsJ5fcgwxnaimzmJxe"
-      },
-      "artists": [
-        {
-          "name": "Cerro Dubl\u00edn",
-          "url": "https://open.spotify.com/artist/1ZOH6fmb1eW0dHZgLCGui7"
-        }
-      ],
-      "duration_ms": 196173,
-      "name": "Entre L\u00edneas",
-      "url": "https://open.spotify.com/track/3jPgaRBb1VXKr3nt4pLvFp"
-    },
-    {
-      "added_at": "2024-02-29 22:03:46",
-      "album": {
         "name": "Polvo",
         "url": "https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 236890,
       "name": "Polvo",
       "url": "https://open.spotify.com/track/1qvKGVivhRg6Mmw1ARSFF7"
+    },
+    {
+      "added_at": "2024-02-29 22:03:46",
+      "album": {
+        "name": "Entre L\u00edneas",
+        "url": "https://open.spotify.com/album/1bABFsJ5fcgwxnaimzmJxe"
+      },
+      "artists": [
+        {
+          "name": "Cerro Dubl\u00edn",
+          "url": "https://open.spotify.com/artist/1ZOH6fmb1eW0dHZgLCGui7"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "Entre L\u00edneas",
+      "url": "https://open.spotify.com/track/3jPgaRBb1VXKr3nt4pLvFp"
     },
     {
       "added_at": "2024-02-29 22:03:46",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-02-29 22:03:46",
       "album": {
-        "name": "Aproximaci\u00f3n",
-        "url": "https://open.spotify.com/album/6rDzecsrwaCylhex4VBFho"
-      },
-      "artists": [
-        {
-          "name": "Luca Bocci",
-          "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
-        }
-      ],
-      "duration_ms": 195117,
-      "name": "Aproximaci\u00f3n",
-      "url": "https://open.spotify.com/track/1JAem2p729DQdOOa0PxKZl"
-    },
-    {
-      "added_at": "2024-02-29 22:03:46",
-      "album": {
         "name": "Pajarito",
         "url": "https://open.spotify.com/album/1CMxNtkxsF3JS5KmOBVGrU"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 222435,
       "name": "Pajarito",
       "url": "https://open.spotify.com/track/1ZmIvjlrjPBFJnWd8y0iTo"
+    },
+    {
+      "added_at": "2024-02-29 22:03:46",
+      "album": {
+        "name": "Aproximaci\u00f3n",
+        "url": "https://open.spotify.com/album/6rDzecsrwaCylhex4VBFho"
+      },
+      "artists": [
+        {
+          "name": "Luca Bocci",
+          "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
+        }
+      ],
+      "duration_ms": 195117,
+      "name": "Aproximaci\u00f3n",
+      "url": "https://open.spotify.com/track/1JAem2p729DQdOOa0PxKZl"
     },
     {
       "added_at": "2024-02-29 22:03:46",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-02-29 22:03:46",
       "album": {
-        "name": "Mala (Edici\u00f3n Mal\u00edsima)",
-        "url": "https://open.spotify.com/album/5OaoeHCPd7Q3UwXpXOAknq"
-      },
-      "artists": [
-        {
-          "name": "Carmen S\u00e1nchez Viamonte",
-          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
-        }
-      ],
-      "duration_ms": 220473,
-      "name": "Haku - Bonus Track",
-      "url": "https://open.spotify.com/track/3NNCxji6geukyGjPzDaRlZ"
-    },
-    {
-      "added_at": "2024-02-29 22:03:46",
-      "album": {
         "name": "mutar la piel",
         "url": "https://open.spotify.com/album/3FpUrtVBDvGQKwzvFqOkMd"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 173875,
       "name": "mutar la piel",
       "url": "https://open.spotify.com/track/3c6htQWeWgxzXYVrqg2ABk"
+    },
+    {
+      "added_at": "2024-02-29 22:03:46",
+      "album": {
+        "name": "Mala (Edici\u00f3n Mal\u00edsima)",
+        "url": "https://open.spotify.com/album/5OaoeHCPd7Q3UwXpXOAknq"
+      },
+      "artists": [
+        {
+          "name": "Carmen S\u00e1nchez Viamonte",
+          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
+        }
+      ],
+      "duration_ms": 220473,
+      "name": "Haku - Bonus Track",
+      "url": "https://open.spotify.com/track/3NNCxji6geukyGjPzDaRlZ"
     },
     {
       "added_at": "2024-02-29 22:03:46",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-02-29 22:03:46",
       "album": {
-        "name": "EN EL CIELO",
-        "url": "https://open.spotify.com/album/4rirmULdcVYZ0k6xpsDXDc"
-      },
-      "artists": [
-        {
-          "name": "Juan Lopez",
-          "url": "https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT"
-        }
-      ],
-      "duration_ms": 161604,
-      "name": "TIEMPO PERFECTO",
-      "url": "https://open.spotify.com/track/4WsMd2FeCYXI9NycBNbcrh"
-    },
-    {
-      "added_at": "2024-02-29 22:03:46",
-      "album": {
         "name": "Nunca Estuvo en Ti el Litoral",
         "url": "https://open.spotify.com/album/62Wwf9DHae5Hi6X9vp8QBN"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 178773,
       "name": "Nunca Estuvo en Ti el Litoral",
       "url": "https://open.spotify.com/track/0ealZ87kbyY8gsgDZwWGVq"
+    },
+    {
+      "added_at": "2024-02-29 22:03:46",
+      "album": {
+        "name": "EN EL CIELO",
+        "url": "https://open.spotify.com/album/4rirmULdcVYZ0k6xpsDXDc"
+      },
+      "artists": [
+        {
+          "name": "Juan Lopez",
+          "url": "https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT"
+        }
+      ],
+      "duration_ms": 161604,
+      "name": "TIEMPO PERFECTO",
+      "url": "https://open.spotify.com/track/4WsMd2FeCYXI9NycBNbcrh"
     },
     {
       "added_at": "2024-02-29 22:03:46",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2024-02-29 22:03:46",
       "album": {
+        "name": "Indie Rockera",
+        "url": "https://open.spotify.com/album/3tJ1FXbJS8IiI2poABf0AC"
+      },
+      "artists": [
+        {
+          "name": "Tobias Indigo",
+          "url": "https://open.spotify.com/artist/5h04bWbwJJo8URbSzgaOFc"
+        }
+      ],
+      "duration_ms": 221653,
+      "name": "Indie Rockera",
+      "url": "https://open.spotify.com/track/0Z0mKafgSAgy81bNKuMZNV"
+    },
+    {
+      "added_at": "2024-02-29 22:03:46",
+      "album": {
         "name": "NT al sol",
         "url": "https://open.spotify.com/album/1iI0hU3oBxRKRGs6lprkse"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 202827,
       "name": "NT al sol",
       "url": "https://open.spotify.com/track/7maIZJiVUL5HBOzjFqOwp0"
-    },
-    {
-      "added_at": "2024-02-29 22:03:46",
-      "album": {
-        "name": "Indie Rockera",
-        "url": "https://open.spotify.com/album/3tJ1FXbJS8IiI2poABf0AC"
-      },
-      "artists": [
-        {
-          "name": "Tobias Indigo",
-          "url": "https://open.spotify.com/artist/5h04bWbwJJo8URbSzgaOFc"
-        }
-      ],
-      "duration_ms": 221653,
-      "name": "Indie Rockera",
-      "url": "https://open.spotify.com/track/0Z0mKafgSAgy81bNKuMZNV"
     },
     {
       "added_at": "2024-02-29 22:03:46",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-02-29 22:03:46",
       "album": {
-        "name": "Dame el Dinero",
-        "url": "https://open.spotify.com/album/2IvCoG15EfRzeehu38EuNI"
-      },
-      "artists": [
-        {
-          "name": "Hijos de la Psicodelia",
-          "url": "https://open.spotify.com/artist/6JxIskGsVf6ow8UU9ivNHU"
-        }
-      ],
-      "duration_ms": 134946,
-      "name": "Dame el Dinero",
-      "url": "https://open.spotify.com/track/6tJ9c79mosjm3OdEEDdBiW"
-    },
-    {
-      "added_at": "2024-02-29 22:03:46",
-      "album": {
         "name": "Subiendo",
         "url": "https://open.spotify.com/album/0zdCOOgW9DBNKJ1tuIiIjb"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 181631,
       "name": "Subiendo",
       "url": "https://open.spotify.com/track/2kGHeQIYbEStvCA64yKauG"
+    },
+    {
+      "added_at": "2024-02-29 22:03:46",
+      "album": {
+        "name": "Dame el Dinero",
+        "url": "https://open.spotify.com/album/2IvCoG15EfRzeehu38EuNI"
+      },
+      "artists": [
+        {
+          "name": "Hijos de la Psicodelia",
+          "url": "https://open.spotify.com/artist/6JxIskGsVf6ow8UU9ivNHU"
+        }
+      ],
+      "duration_ms": 134946,
+      "name": "Dame el Dinero",
+      "url": "https://open.spotify.com/track/6tJ9c79mosjm3OdEEDdBiW"
     }
   ],
   "unique_name": "6PM Indie",

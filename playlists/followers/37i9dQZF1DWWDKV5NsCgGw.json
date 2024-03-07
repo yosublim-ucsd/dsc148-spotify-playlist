@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 14400,
+  "2024-03-07": 14406,
   "date_first_scraped": "2024-01-30",
   "description": "La dolce playlist! Listen to all the music from The White Lotus, \nnow streaming on Max. ",
   "name": "The White Lotus Official Playlist",
@@ -251,10 +251,28 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 300066,
       "name": "Citta' Vuota (It's a Lonely Town) - 1998 Remaster",
       "url": "https://open.spotify.com/track/1lGfH2e0m2aITyZjrruveI"
+    },
+    {
+      "album": {
+        "name": "The Collection 3.0",
+        "url": "https://open.spotify.com/album/17yvHx4XPeVw2y9OGwy3w2"
+      },
+      "artists": [
+        {
+          "name": "Mina",
+          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300066,
+      "name": "Citta' Vuota (It's a Lonely Town) - 1998 Remaster",
+      "url": "https://open.spotify.com/track/2r7WMPv51Wwc8zLNXqYq8M"
     },
     {
       "album": {

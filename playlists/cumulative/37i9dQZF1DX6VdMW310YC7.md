@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,575 songs - 4 day 12 hr 22 min
+1,576 songs - 4 day 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,6 +346,7 @@
 | [Don’t Make Me Wait](https://open.spotify.com/track/5kuOKkzZKK6PKNT4KKoHZU) | [Lincoln Jesser](https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG), [Joker Jaxx](https://open.spotify.com/artist/0p4lf0URwp0RR3NuQ1sBrJ) | [Casa Mirage EP](https://open.spotify.com/album/34TytAkF3zsBfMVippDJSd) | 4:04 | 2020-05-18 | 2020-07-03 |
 | [Don’t Worry](https://open.spotify.com/track/3velQ2xk4VMEb5No5W3bkQ) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Don’t Worry](https://open.spotify.com/album/2UZuAyYd1pTF1puvlQ2W4c) | 4:36 | 2021-12-10 | 2023-03-19 |
 | [Dorfex Bos \- Bassnectar Remix 2015 Version](https://open.spotify.com/track/4nhPLFdQIZyZzt6mw1mMoX) | [Dorfex Bos](https://open.spotify.com/artist/60lZ2sr01yS7uJQeq7zoPv), [Bassnectar](https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i) | [Into the Sun](https://open.spotify.com/album/29e92rWX8k9EYyhi3COxtE) | 5:05 | 2020-05-22 | 2020-07-03 |
+| [Down](https://open.spotify.com/track/3o3OvVUrJeRefep6zMDpH7) | [MR TOUT LE MONDE](https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn), [MidnightSun](https://open.spotify.com/artist/7LvDaiMjUn5YgZPX3MEwf1) | [Down](https://open.spotify.com/album/5W23C2gErmU9mf8BHEPdhr) | 3:14 | 2024-03-01 |  |
 | [Dreamer's Wake](https://open.spotify.com/track/320ePMZ8X0ugeffZk0wNzY) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Persona](https://open.spotify.com/album/1BI2mpiBt99NlNvLka4QhG) | 5:04 | 2020-02-29\* | 2020-03-16 |
 | [Dreaming](https://open.spotify.com/track/6CwaYw74Ba0TbvsUyrBIGL) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [Dreaming](https://open.spotify.com/album/6oL3A2JHKBTyHl49aFOei2) | 4:45 | 2022-05-06 | 2022-12-29 |
 | [Dreamy](https://open.spotify.com/track/1urgY6TIWJurv3vtUHaiBM) | [Lövestad](https://open.spotify.com/artist/14ObPnLzYAKSBPZzQ9Va3e) | [You Don't Have to Run](https://open.spotify.com/album/1qf2ggCVXFlIIBozEb9hPp) | 4:01 | 2020-11-07 | 2020-11-20 |
@@ -1347,7 +1348,7 @@
 | [Take You Home \- Undercatt Remix](https://open.spotify.com/track/1wPC1IHNwfxHrWIip2zNFA) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs), [Undercatt](https://open.spotify.com/artist/5HRGFSrlJruRPZNPbsy57r) | [Take You Home \(Undercatt Remix\)](https://open.spotify.com/album/0f4Vlnw5XwRmfhrEcvfqLH) | 6:27 | 2020-02-29\* | 2020-03-16 |
 | [Take You There](https://open.spotify.com/track/5onowAwqn0Itow9DAdCJyF) | [The Ready Set](https://open.spotify.com/artist/2eRJjYEaWyGZbOBGYFLBoC), [Kaptan](https://open.spotify.com/artist/7yNfjZY3QJpm4cUj1i0fWD) | [Take You There](https://open.spotify.com/album/5QhJ91EoYRkY3W6qhhDDZh) | 4:02 | 2020-05-22 | 2020-07-03 |
 | [Takeaway \(with ILLENIUM & Lennon Stella\)](https://open.spotify.com/track/1SyjFJu9xk5CpYD6bm1tjl) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [ASCEND](https://open.spotify.com/album/60xcVwuQJAOyu11xf9mObS) | 3:29 | 2020-03-16 | 2020-07-03 |
-| [Tal](https://open.spotify.com/track/0i15aMXiEJd6IOBOJ0JtiH) | [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm) | [Tal](https://open.spotify.com/album/6AtIOsBzi9ROwkwmielD4I) | 4:51 | 2023-04-21 |  |
+| [Tal](https://open.spotify.com/track/0i15aMXiEJd6IOBOJ0JtiH) | [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm) | [Tal](https://open.spotify.com/album/6AtIOsBzi9ROwkwmielD4I) | 4:51 | 2023-04-21 | 2024-03-07 |
 | [Talk It Over](https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Talk It Over](https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY) | 3:29 | 2023-02-24 |  |
 | [Tapes & Money](https://open.spotify.com/track/3qAGyTVGWolhufiU4eAvJF) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Trouble](https://open.spotify.com/album/1srFzlchwSOzxO8n99tJxP) | 3:40 | 2020-02-29\* | 2020-03-16 |
 | [Targo](https://open.spotify.com/track/2dlVudZxj2ge247S552eHm) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 5:16 | 2022-12-28 | 2023-01-06 |

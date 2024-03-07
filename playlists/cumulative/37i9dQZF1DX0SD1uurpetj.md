@@ -4,7 +4,7 @@
 
 > Take a bite out of the official playlist for Vampire Academy, streaming Thursdays on Peacock.
 
-68 songs - 3 hr 36 min
+69 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [I C U](https://open.spotify.com/track/2bObiPAPOJdux0jFHqeuDr) | [Th3rdstream](https://open.spotify.com/artist/4NlVHWGq2M57GbUzcBqEAS), [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH) | [I C U](https://open.spotify.com/album/3TR5ujLW1aMGs4m0AXTgko) | 2:21 | 2022-10-06 |  |
 | [I Know You Know](https://open.spotify.com/track/3afeZ81GDy59tATovKyH6Z) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Esperanza](https://open.spotify.com/album/7188JsHTl3rladofF7CVvW) | 3:45 | 2022-09-15 |  |
 | [If You Only Knew](https://open.spotify.com/track/5rKj0HbHB6gzqQBOKTfiJL) | [Th3rdstream](https://open.spotify.com/artist/4NlVHWGq2M57GbUzcBqEAS), [GOLDSPACE](https://open.spotify.com/artist/0lEmirHWEpNY1GtqLk7rLx) | [If You Only Knew](https://open.spotify.com/album/4SQRrkK649QIWsP4VmNAjZ) | 2:35 | 2022-09-15 |  |
-| [Junk](https://open.spotify.com/track/42BVMTOJZvIYXc5vLlB7f9) | [Vivienne Chi](https://open.spotify.com/artist/4MTj2lUJ9Gg2J3WFyGFZrw) | [Junk](https://open.spotify.com/album/1VyEdhli4jXnpoXReDWCZQ) | 4:10 | 2022-09-15 |  |
+| [Junk](https://open.spotify.com/track/42BVMTOJZvIYXc5vLlB7f9) | [Vivienne Chi](https://open.spotify.com/artist/4MTj2lUJ9Gg2J3WFyGFZrw) | [Junk](https://open.spotify.com/album/1VyEdhli4jXnpoXReDWCZQ) | 4:10 | 2022-09-15 | 2024-03-07 |
+| [Junk](https://open.spotify.com/track/5dBRrzd9SzvfA4CEnjyGDz) | [Vivienne Chi](https://open.spotify.com/artist/4MTj2lUJ9Gg2J3WFyGFZrw) | [Junk](https://open.spotify.com/album/3ittC22MRmqkjRkzmzi4kC) | 4:10 | 2022-09-15 |  |
 | [Knocking on Heavens Door](https://open.spotify.com/track/20jZ7lf5eqDUQQruuMSKVE) | [RAIGN](https://open.spotify.com/artist/25IZcQsNwnvgeBiTEjBNI4) | [Knocking On Heavens Door \- EP](https://open.spotify.com/album/2ymI9oU0t6DFuYOjFc4Kpa) | 4:24 | 2022-09-15 |  |
 | [Lessons](https://open.spotify.com/track/7L0duf4jzjBdAXGDGPdzgt) | [Holly Jade](https://open.spotify.com/artist/20ZeznQHUGorY2fyAoZ1Ie), [Alone Architect](https://open.spotify.com/artist/0vXrqJwfQ4zHxwSpKwSveW) | [Lessons](https://open.spotify.com/album/22ni1a5zxuAEI25bbJcZtR) | 3:30 | 2022-09-29 |  |
 | [Lil Piece of Heaven](https://open.spotify.com/track/37MylmH4HS7M2fhXIUasvT) | [Poison Ivory](https://open.spotify.com/artist/0Eq98DOd173KrJR9PkauF8) | [The Filth \- EP](https://open.spotify.com/album/5NyE9aoQJBrK1HCu2zC7Fm) | 3:19 | 2022-09-15 |  |

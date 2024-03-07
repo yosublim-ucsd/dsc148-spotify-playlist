@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Aczino \ud83d\udc10\ud83d\udc51 en portada. ",
-  "num_followers": 13252,
+  "num_followers": 13251,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjM4Zjc3MzM5YzgwYzMyZDQ2MDNlYzgwODUwN2RiOTRlN2U1M2U0",
+  "snapshot_id": "MCw0ZGRhY2E5ZDA4YzI1NTg4ODI4NGRlMjZmY2VhMTg4OGIyOThiYmQy",
   "tracks": [
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "Van a Hablar de Mi",
-        "url": "https://open.spotify.com/album/7hjlmGFCb7K1Pzvd9Fmu29"
-      },
-      "artists": [
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        }
-      ],
-      "duration_ms": 156750,
-      "name": "Van a Hablar de Mi",
-      "url": "https://open.spotify.com/track/4ZyoyD3J3wC9LKUHFr4w6s"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
         "name": "Malas Decisiones",
         "url": "https://open.spotify.com/album/0vKEA8tVlS3ZAba9CWuRiJ"
       },
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
+        "name": "Van a Hablar de Mi",
+        "url": "https://open.spotify.com/album/7hjlmGFCb7K1Pzvd9Fmu29"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "duration_ms": 156750,
+      "name": "Van a Hablar de Mi",
+      "url": "https://open.spotify.com/track/4ZyoyD3J3wC9LKUHFr4w6s"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
         "name": "Vida",
         "url": "https://open.spotify.com/album/1bBox3a6smu3GUT5ldNDST"
       },
@@ -1199,30 +1199,6 @@
       "duration_ms": 216134,
       "name": "Millonaria",
       "url": "https://open.spotify.com/track/5Lamw2jWwnk8fqCfcBJr4M"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
-        "name": "Flight 0010",
-        "url": "https://open.spotify.com/album/2HPB8zuGyuVdJfKeRhqYhZ"
-      },
-      "artists": [
-        {
-          "name": "Flyboiz",
-          "url": "https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V"
-        },
-        {
-          "name": "Dave Gars\u00eda",
-          "url": "https://open.spotify.com/artist/4T5AUmeV0b1Q7YB8YfTfPf"
-        },
-        {
-          "name": "Meny Mendez",
-          "url": "https://open.spotify.com/artist/5mspsOF08gPhzzDwy5YFHM"
-        }
-      ],
-      "duration_ms": 130503,
-      "name": "Flight 0010",
-      "url": "https://open.spotify.com/track/4JiJIHGtiXypG2yw804UvJ"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1255,6 +1231,46 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
+        "name": "Flight 0010",
+        "url": "https://open.spotify.com/album/2HPB8zuGyuVdJfKeRhqYhZ"
+      },
+      "artists": [
+        {
+          "name": "Flyboiz",
+          "url": "https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V"
+        },
+        {
+          "name": "Dave Gars\u00eda",
+          "url": "https://open.spotify.com/artist/4T5AUmeV0b1Q7YB8YfTfPf"
+        },
+        {
+          "name": "Meny Mendez",
+          "url": "https://open.spotify.com/artist/5mspsOF08gPhzzDwy5YFHM"
+        }
+      ],
+      "duration_ms": 130503,
+      "name": "Flight 0010",
+      "url": "https://open.spotify.com/track/4JiJIHGtiXypG2yw804UvJ"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/4gajuf08d8JcGjWuroGCTb"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        }
+      ],
+      "duration_ms": 283909,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/3gwBWDL8qR3Vz4rUbj7RAK"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
         "name": "Tensi\u00f3n",
         "url": "https://open.spotify.com/album/3hCkYv6L9uhcXnoIqvJzSJ"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 175400,
       "name": "Tensi\u00f3n",
       "url": "https://open.spotify.com/track/1bfMxV2zzeFytzlW53xdCX"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/4gajuf08d8JcGjWuroGCTb"
-      },
-      "artists": [
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        }
-      ],
-      "duration_ms": 283909,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/3gwBWDL8qR3Vz4rUbj7RAK"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "Ajena",
-        "url": "https://open.spotify.com/album/3NDt4OnBp1HAdFy0jOEC5t"
-      },
-      "artists": [
-        {
-          "name": "SANTU",
-          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Ajena",
-      "url": "https://open.spotify.com/track/5dpCjFHmVk4iuIDHGW7Cv7"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
         "name": "Tantas Veces",
         "url": "https://open.spotify.com/album/0CYK2EbQOcDwGopjlqcPRM"
       },
@@ -1687,6 +1671,22 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
+        "name": "Ajena",
+        "url": "https://open.spotify.com/album/3NDt4OnBp1HAdFy0jOEC5t"
+      },
+      "artists": [
+        {
+          "name": "SANTU",
+          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Ajena",
+      "url": "https://open.spotify.com/track/5dpCjFHmVk4iuIDHGW7Cv7"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
         "name": "Bendecida Y Afortunada",
         "url": "https://open.spotify.com/album/0dY4wGJFYDPrqDE7Yq3oID"
       },
@@ -1699,30 +1699,6 @@
       "duration_ms": 159836,
       "name": "Bendecida Y Afortunada",
       "url": "https://open.spotify.com/track/2sWhuwbONrY9CVRlGyhYQ2"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
-        "name": "LACOSTA",
-        "url": "https://open.spotify.com/album/4WxcXC1fsy3SGx2BPpgmwc"
-      },
-      "artists": [
-        {
-          "name": "Hard GZ",
-          "url": "https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB"
-        },
-        {
-          "name": "Marcelus Airlinez",
-          "url": "https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q"
-        },
-        {
-          "name": "Bipo Montana",
-          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
-        }
-      ],
-      "duration_ms": 248546,
-      "name": "MALDITO",
-      "url": "https://open.spotify.com/track/6P8WRpldEaZbp1xiobRE8A"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1775,6 +1751,30 @@
       "duration_ms": 270897,
       "name": "La Gracia De Dios",
       "url": "https://open.spotify.com/track/08mntOthYaS6L1TClH3oYR"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
+        "name": "LACOSTA",
+        "url": "https://open.spotify.com/album/4WxcXC1fsy3SGx2BPpgmwc"
+      },
+      "artists": [
+        {
+          "name": "Hard GZ",
+          "url": "https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB"
+        },
+        {
+          "name": "Marcelus Airlinez",
+          "url": "https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q"
+        },
+        {
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+        }
+      ],
+      "duration_ms": 248546,
+      "name": "MALDITO",
+      "url": "https://open.spotify.com/track/6P8WRpldEaZbp1xiobRE8A"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1843,6 +1843,26 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
+        "name": "La Carnita Asada",
+        "url": "https://open.spotify.com/album/5EJQ2gD174XrqCeC3b0xTH"
+      },
+      "artists": [
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        },
+        {
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+        }
+      ],
+      "duration_ms": 275647,
+      "name": "La Carnita Asada",
+      "url": "https://open.spotify.com/track/6OVOur8etLTboDdX6Q1tZF"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
         "name": "Oscura Ciudad",
         "url": "https://open.spotify.com/album/1dH4yvk5uHepwzYgvFoNI2"
       },
@@ -1867,26 +1887,6 @@
       "duration_ms": 135529,
       "name": "Oscura Ciudad",
       "url": "https://open.spotify.com/track/3vU00kvBMde60Rj3qvH5Re"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
-        "name": "La Carnita Asada",
-        "url": "https://open.spotify.com/album/5EJQ2gD174XrqCeC3b0xTH"
-      },
-      "artists": [
-        {
-          "name": "Remik Gonzalez",
-          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-        },
-        {
-          "name": "Kinto Sol",
-          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
-        }
-      ],
-      "duration_ms": 275647,
-      "name": "La Carnita Asada",
-      "url": "https://open.spotify.com/track/6OVOur8etLTboDdX6Q1tZF"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -2067,6 +2067,22 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
+        "name": "Ol\u00e9",
+        "url": "https://open.spotify.com/album/4burORupgjRcxfrI56pZiS"
+      },
+      "artists": [
+        {
+          "name": "Stilo",
+          "url": "https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9"
+        }
+      ],
+      "duration_ms": 163910,
+      "name": "Ol\u00e9",
+      "url": "https://open.spotify.com/track/6AAGQWXAB7MQhbZBsvfJEh"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
         "name": "Imaginando Voy",
         "url": "https://open.spotify.com/album/2LrxtY5hsCCZFKIq5VmNbh"
       },
@@ -2127,22 +2143,6 @@
       "duration_ms": 284470,
       "name": "Travel",
       "url": "https://open.spotify.com/track/4MRGiF6FaKQt9EVLOvc2Zs"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
-        "name": "Ol\u00e9",
-        "url": "https://open.spotify.com/album/4burORupgjRcxfrI56pZiS"
-      },
-      "artists": [
-        {
-          "name": "Stilo",
-          "url": "https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9"
-        }
-      ],
-      "duration_ms": 163910,
-      "name": "Ol\u00e9",
-      "url": "https://open.spotify.com/track/6AAGQWXAB7MQhbZBsvfJEh"
     }
   ],
   "unique_name": "Rimas Frescas ",

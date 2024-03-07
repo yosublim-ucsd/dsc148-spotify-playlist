@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 428415,
+  "2024-03-07": 428524,
   "date_first_scraped": "2022-01-24",
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
   "name": "Trap Rewind",
@@ -5141,7 +5141,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 265355,
       "name": "N\u00e3o Me Sinto Mal Mais",
       "url": "https://open.spotify.com/track/2YJtRdd9duQ0bEDMKZ79Hw"
@@ -5345,6 +5345,36 @@
       "duration_ms": 200371,
       "name": "Pastillas",
       "url": "https://open.spotify.com/track/6lSh1v6MmMrG7LIfyGPO7e"
+    },
+    {
+      "album": {
+        "name": "Percocet (Remix)",
+        "url": "https://open.spotify.com/album/0LYlVklStGn0LfOPh9cTEJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Quimico Ultra Mega",
+          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
+        },
+        {
+          "name": "Chris Wandell",
+          "url": "https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314671,
+      "name": "Percocet (Remix)",
+      "url": "https://open.spotify.com/track/7jFl7qbhtGg81SkszfgVGF"
     },
     {
       "album": {

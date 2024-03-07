@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BcGDqSxiaP.md) - [plain]
 
 > Releases from the legendary Blues label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,451 likes - 52 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,461 likes - 52 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BcGDqSxiaP.md) - [plain]
 | 51 | [Born Under a Bad Sign](https://open.spotify.com/track/7au83e4LJnF9ckB3fPAGkT) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [The Alligator Records Years](https://open.spotify.com/album/13MRYxSCSqfyJ1xvTE6TqI) | 4:56 |
 | 52 | [If Trouble Was Money](https://open.spotify.com/track/63t31Qj7dDoNxeo5UTrEBL) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Alligator Records 45th Anniversary Collection](https://open.spotify.com/album/6kpeOuu1Z7cbasKOurTs0B) | 8:00 |
 
-Snapshot ID: `MCxmY2U1NWM0MDVkNGYyOTM5MWExN2VhNDViODEyYzg4ZTU4ZTczNzJl`
+Snapshot ID: `MCxiZTAyNmQwMDU0NTVlODM0Njg1MzUxNDJjYjc0MDcyNzgwZDAyM2Yw`

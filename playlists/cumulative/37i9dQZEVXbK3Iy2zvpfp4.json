@@ -1350,7 +1350,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 184852,
       "name": "Alibi (feat. Rudimental)",
       "url": "https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"
@@ -1650,7 +1650,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 234072,
       "name": "Always Remember Us This Way",
       "url": "https://open.spotify.com/track/3XlKoDmt7NritaYTEndgC2"
@@ -3254,6 +3254,28 @@
       "duration_ms": 115200,
       "name": "BANKAI",
       "url": "https://open.spotify.com/track/33sPNJZxIi4Qq9jy4rACPJ"
+    },
+    {
+      "album": {
+        "name": "Zungenbrecher 4.0 - Staffel 4",
+        "url": "https://open.spotify.com/album/2AKVV2Rx3cmIZuUkND2NkC"
+      },
+      "artists": [
+        {
+          "name": "Bodo Wartke",
+          "url": "https://open.spotify.com/artist/62YvTZOwIJTFumiiXIiIwn"
+        },
+        {
+          "name": "Marti Fischer",
+          "url": "https://open.spotify.com/artist/5kcg3AWB22uwFWJWhpVfBV"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85560,
+      "name": "Barbaras Rhabarberbar",
+      "url": "https://open.spotify.com/track/7ki0Q2nYTBhVxZvqLLDp5W"
     },
     {
       "album": {
@@ -5180,7 +5202,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 111458,
       "name": "BURN",
       "url": "https://open.spotify.com/track/04CyMEHliadfQWMUJb1w99"
@@ -9002,7 +9024,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 164545,
       "name": "EASY",
       "url": "https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI"
@@ -13070,6 +13092,24 @@
       "duration_ms": 133717,
       "name": "Hell\u2019s Greatest Dad",
       "url": "https://open.spotify.com/track/504V1vhYyHGHusNhEKvOV5"
+    },
+    {
+      "album": {
+        "name": "HENN (SANDELA)",
+        "url": "https://open.spotify.com/album/4AKT0vHVHrEJwLizOVJkps"
+      },
+      "artists": [
+        {
+          "name": "Bazsi",
+          "url": "https://open.spotify.com/artist/7IvNSZxcwOVm9Sn8z4y1k4"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177702,
+      "name": "HENN (SANDELA)",
+      "url": "https://open.spotify.com/track/70EqnZ68XyFO16FkSEidUJ"
     },
     {
       "album": {
@@ -18634,7 +18674,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 158048,
       "name": "Ma Ch\u00e9rie",
       "url": "https://open.spotify.com/track/54W6vz0JQoTmbxK4bvVECc"
@@ -18736,7 +18776,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 243600,
       "name": "Made in Romeni\u00e1 - Sahmiir Officiall Remix",
       "url": "https://open.spotify.com/track/3Er2CGuUZlGKQ1puctyYsB"

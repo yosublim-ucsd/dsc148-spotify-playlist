@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 
 > Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago\. Cover: DJ Manny
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,781 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,796 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,23 +38,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 28 | [Tear It Up](https://open.spotify.com/track/44UIC6KMStyShoIvRyNSHP) | [Turk Turkelton](https://open.spotify.com/artist/1RJ1QHgaJoiAd1czuhS00d) | [Worldwidejuke Vol.2](https://open.spotify.com/album/5bsOhjBEJ7O3rQGzlmyWPs) | 4:39 |
 | 29 | [Burnin Ya Boa \(feat\. DJ Manny\)](https://open.spotify.com/track/7ze3waSphFVd8cxgmGADEI) | [DJ Taye](https://open.spotify.com/artist/4T1sY4aibm24hxfz9JnI7c), [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7) | [Move Out EP](https://open.spotify.com/album/0UJtKECORkFCpvNojuJNJz) | 3:30 |
 | 30 | [Imma Dog](https://open.spotify.com/track/524AOf3Zmp93608e38RukD) | [bastienGOAT](https://open.spotify.com/artist/55GgSmZm0TR5qvTRcRwq6B) | [Aspects](https://open.spotify.com/album/41TVmUMGU9ngfPb350XfwC) | 1:48 |
-| 31 | [BS6](https://open.spotify.com/track/4G2ylGiKx1KonQKyPsxulR) | [Hyroglifics](https://open.spotify.com/artist/6hNELDwN2cBEdL74cpXKc0), [Sinistarr](https://open.spotify.com/artist/1AqybHsTw984feND8RwcCe) | [Bs6](https://open.spotify.com/album/5PhWDWDVBHZ4dtr2kg6xAu) | 3:45 |
-| 32 | [Fire Man](https://open.spotify.com/track/5AG3SZvJxBtjyU5j7KdSTt) | [DJ Orange Julius](https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH) | [Pleasure](https://open.spotify.com/album/4KXuiwlBnuaPkxjnGJ2zVz) | 3:12 |
-| 33 | [Samba Focused](https://open.spotify.com/track/2AusXnxTndZvmYz5ygFXo8) | [Kush Jones](https://open.spotify.com/artist/5ifmtTvKK5Pfk6K1b0eHZm) | [Strictly 4 My Cdjz 7](https://open.spotify.com/album/2rYIMDR48AbLrkbZ78ly6M) | 3:15 |
-| 34 | [Heavy Heat](https://open.spotify.com/track/4ITPhaaomWd5YNBuZtvKyp) | [RP Boo](https://open.spotify.com/artist/678aHai0twQ5ZJcqO1KYWl) | [Legacy Volume 2](https://open.spotify.com/album/0hQOZl8Ltlj9PlIOS8Ohxa) | 3:45 |
+| 31 | [Fire Man](https://open.spotify.com/track/5AG3SZvJxBtjyU5j7KdSTt) | [DJ Orange Julius](https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH) | [Pleasure](https://open.spotify.com/album/4KXuiwlBnuaPkxjnGJ2zVz) | 3:12 |
+| 32 | [BS6](https://open.spotify.com/track/4G2ylGiKx1KonQKyPsxulR) | [Hyroglifics](https://open.spotify.com/artist/6hNELDwN2cBEdL74cpXKc0), [Sinistarr](https://open.spotify.com/artist/1AqybHsTw984feND8RwcCe) | [Bs6](https://open.spotify.com/album/5PhWDWDVBHZ4dtr2kg6xAu) | 3:45 |
+| 33 | [Heavy Heat](https://open.spotify.com/track/4ITPhaaomWd5YNBuZtvKyp) | [RP Boo](https://open.spotify.com/artist/678aHai0twQ5ZJcqO1KYWl) | [Legacy Volume 2](https://open.spotify.com/album/0hQOZl8Ltlj9PlIOS8Ohxa) | 3:45 |
+| 34 | [Samba Focused](https://open.spotify.com/track/2AusXnxTndZvmYz5ygFXo8) | [Kush Jones](https://open.spotify.com/artist/5ifmtTvKK5Pfk6K1b0eHZm) | [Strictly 4 My Cdjz 7](https://open.spotify.com/album/2rYIMDR48AbLrkbZ78ly6M) | 3:15 |
 | 35 | [Keep the Drug$](https://open.spotify.com/track/7tzfOnSTtrr8Gzl00240Ik) | [Stayhigh](https://open.spotify.com/artist/2d51ltzSq7hB3viB1DTBEn) | [Kush, Rhodes & 808's](https://open.spotify.com/album/4xW3MYeu3Gwc224UHhNAfV) | 3:30 |
 | 36 | [147](https://open.spotify.com/track/60I8YrrHXJnfPmo9U8yBnu) | [Slick Shoota](https://open.spotify.com/artist/2P1OqKNHmAOg9RfAufNNkR) | [VIP VAULTS](https://open.spotify.com/album/7dQjTAus3GtAzuFhAiEPHz) | 4:31 |
 | 37 | [1luv](https://open.spotify.com/track/2VpNyk111vQhDyHlDwv6qM) | [DJ Chap](https://open.spotify.com/artist/3WbV0kiFoU7G5uLkAdV1YA) | [Footwork Frenzy Ep](https://open.spotify.com/album/6kyXFMA96qp261FU2pnksI) | 4:43 |
-| 38 | [Can't Fake My Feelings \(part 2\)](https://open.spotify.com/track/1FsngYSueNDXhfa7hs7W4G) | [Seimei](https://open.spotify.com/artist/7zZ9WviThpO5AVYmigIf3V) | [Street Bangers Factory 04](https://open.spotify.com/album/5tnvRpXyVXxWYjNjxIwe4d) | 4:38 |
-| 39 | [Miau](https://open.spotify.com/track/6kEIRclfzZfraQY9Cn3F01) | [Aylu](https://open.spotify.com/artist/1MDwlFKprZOcAzi83BF1VG) | [Transgenre](https://open.spotify.com/album/6VdPebiwMhQqLmCAG7f1tO) | 2:18 |
-| 40 | [Baaaaaa \- Taken from Bass + Funk & Soul](https://open.spotify.com/track/0ltuVwIisCsCSbdro4pdUb) | [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y) | [Baaaaaa \(Taken from Bass + Funk & Soul\)](https://open.spotify.com/album/4TY7Zqenlhjmsb7ZHyqnfO) | 2:30 |
+| 38 | [Baaaaaa \- Taken from Bass + Funk & Soul](https://open.spotify.com/track/0ltuVwIisCsCSbdro4pdUb) | [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y) | [Baaaaaa \(Taken from Bass + Funk & Soul\)](https://open.spotify.com/album/4TY7Zqenlhjmsb7ZHyqnfO) | 2:30 |
+| 39 | [Can't Fake My Feelings \(part 2\)](https://open.spotify.com/track/1FsngYSueNDXhfa7hs7W4G) | [Seimei](https://open.spotify.com/artist/7zZ9WviThpO5AVYmigIf3V) | [Street Bangers Factory 04](https://open.spotify.com/album/5tnvRpXyVXxWYjNjxIwe4d) | 4:38 |
+| 40 | [Miau](https://open.spotify.com/track/6kEIRclfzZfraQY9Cn3F01) | [Aylu](https://open.spotify.com/artist/1MDwlFKprZOcAzi83BF1VG) | [Transgenre](https://open.spotify.com/album/6VdPebiwMhQqLmCAG7f1tO) | 2:18 |
 | 41 | [Below Zero](https://open.spotify.com/track/2CuUS7ofCI8fmmVe2vyGqW) | [DJ Nate](https://open.spotify.com/artist/5tefnddMVyra0vGqyFVEjM) | [Da Trak Genious](https://open.spotify.com/album/5Ae4gsudmsRBqFiY6px4Xh) | 2:49 |
-| 42 | [Slanted \(BSN Posse Remix\)](https://open.spotify.com/track/5gtyWp5rTQXIouCryZm7fG) | [Tim Parker](https://open.spotify.com/artist/3LBR9DFhfM9nUjdu1gi7lI), [BSN Posse](https://open.spotify.com/artist/1fnlGaoXeWH8RMPVKR2gBU) | [Slanted](https://open.spotify.com/album/2I41rw3sceGcUVoKyIOxwB) | 3:46 |
-| 43 | [Erotic Heat](https://open.spotify.com/track/29mPXTERiHkY9uVH7BDwfD) | [Jlin](https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA) | [Dark Energy](https://open.spotify.com/album/5JNtn7QIhuZiptM2F7bJPX) | 4:23 |
+| 42 | [Erotic Heat](https://open.spotify.com/track/29mPXTERiHkY9uVH7BDwfD) | [Jlin](https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA) | [Dark Energy](https://open.spotify.com/album/5JNtn7QIhuZiptM2F7bJPX) | 4:23 |
+| 43 | [Slanted \(BSN Posse Remix\)](https://open.spotify.com/track/5gtyWp5rTQXIouCryZm7fG) | [Tim Parker](https://open.spotify.com/artist/3LBR9DFhfM9nUjdu1gi7lI), [BSN Posse](https://open.spotify.com/artist/1fnlGaoXeWH8RMPVKR2gBU) | [Slanted](https://open.spotify.com/album/2I41rw3sceGcUVoKyIOxwB) | 3:46 |
 | 44 | [Juking For Live \(I.C.T.W\)](https://open.spotify.com/track/65CmlkO3DCwB0ZQvU9vaZY) | [DJ Slugo](https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT) | [Juking For Live \(I.C.T.W\)](https://open.spotify.com/album/3k2t4ylBBWNH7ovwqceYHq) | 3:56 |
 | 45 | [Juke It Up](https://open.spotify.com/track/31z2au3mgJYzC6SK5rgPh8) | [EQ Why](https://open.spotify.com/artist/2XEjbBHqhnBlfydDBUp1Rf) | [Juke Pack Vol.1](https://open.spotify.com/album/57aIkTNeK5ygccVD4oLf2C) | 2:48 |
-| 46 | [Hip Thruster](https://open.spotify.com/track/2lsLDBItN7XZ1e92K5mzBc) | [NameBrandSound](https://open.spotify.com/artist/65kgJ8N0DY3S5XcMAtOSmD) | [Nowadays Pressure](https://open.spotify.com/album/2iM9f33JfLhqJofIu2K1mD) | 3:48 |
-| 47 | [Battle](https://open.spotify.com/track/1yoYyPVmebmoKNAbYdJXSR) | [DJ Orange Julius](https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH) | [Some Pulp](https://open.spotify.com/album/55Xpv1aDSSliUo1nNQpdt5) | 3:52 |
+| 46 | [Battle](https://open.spotify.com/track/1yoYyPVmebmoKNAbYdJXSR) | [DJ Orange Julius](https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH) | [Some Pulp](https://open.spotify.com/album/55Xpv1aDSSliUo1nNQpdt5) | 3:52 |
+| 47 | [Hip Thruster](https://open.spotify.com/track/2lsLDBItN7XZ1e92K5mzBc) | [NameBrandSound](https://open.spotify.com/artist/65kgJ8N0DY3S5XcMAtOSmD) | [Nowadays Pressure](https://open.spotify.com/album/2iM9f33JfLhqJofIu2K1mD) | 3:48 |
 | 48 | [Set It](https://open.spotify.com/track/1tWwqxkc3xrx8j3U2h6oSx) | [Dream Continuum](https://open.spotify.com/artist/4VRT7JNcqS3yMV0rBxxUlV) | [Reworkz E.P.](https://open.spotify.com/album/4qjrehdzYQen9By6HBuuGl) | 5:12 |
 | 49 | [Burnin Shoes](https://open.spotify.com/track/4ap5hCK1x2EjMd6QyJFZiK) | [BSN Posse](https://open.spotify.com/artist/1fnlGaoXeWH8RMPVKR2gBU), [Jon1st](https://open.spotify.com/artist/4rkqsUdw0a2YaadfuNM7zF) | [Rituals EP](https://open.spotify.com/album/7dA9oiC0iPu2yNXnOK8rn3) | 5:16 |
 | 50 | [Divine](https://open.spotify.com/track/1qKl2EuAdN6hedO5tjSBB1) | [Jana Rush](https://open.spotify.com/artist/0wJyMhSanZRw2cEA6cx503) | [Pariah](https://open.spotify.com/album/6mNtkwN3cjhuvzEoH2lFM5) | 5:44 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 79 | [Do Right](https://open.spotify.com/track/7lMjqRbsChqroWRRkhw3ge) | [Slick Shoota](https://open.spotify.com/artist/2P1OqKNHmAOg9RfAufNNkR) | [Do Right](https://open.spotify.com/album/79oVcdOfST9iLRlqenoJdl) | 3:27 |
 | 80 | [Animosty](https://open.spotify.com/track/2uO6V4OOr08LfU5DSQDchL) | [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y) | [ON LIFE, Vol\. 2](https://open.spotify.com/album/6PUO9tb1HaXV7uzka0VtMu) | 3:28 |
 
-Snapshot ID: `MCxkM2U0ODEwODZkYzUwYTY5Y2Q0Mzg3YWNhOWMyM2Q1ZjY2OTdlYzRl`
+Snapshot ID: `MCxiMzA1YjhmZTJjNjBkOTQyOWY3MTdhNDI4OGE4N2FjZjE2M2ZkZmE5`

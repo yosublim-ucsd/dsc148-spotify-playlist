@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,550 songs - 3 day 8 hr 41 min
+1,551 songs - 3 day 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1396,7 +1396,8 @@
 | [THE LONELIEST](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc) | 4:07 | 2022-10-09 | 2022-10-23 |
 | [The Motto](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto](https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV) | 2:44 | 2021-11-07 | 2022-05-15 |
 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 | 2023-08-07 |  |
-| [The Sound of Silence \- CYRIL Remix](https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Sound of Silence \(CYRIL Remix\)](https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc) | 3:05 | 2024-02-27 |  |
+| [The Sound of Silence \- CYRIL Remix](https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Sound of Silence \(CYRIL Remix\)](https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc) | 3:05 | 2024-02-27 | 2024-03-07 |
+| [The Sound of Silence \- CYRIL Remix](https://open.spotify.com/track/38OibRn3CyUnQZg9RWLv7u) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Sound of Silence \(CYRIL Remix\)](https://open.spotify.com/album/3qeagjakbHQDOkBnQOTMiO) | 3:05 | 2024-03-06 |  |
 | [The Way Our Story Goes](https://open.spotify.com/track/7onSy9XJzdC4Xnkvu1MCA8) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [Money For Nothing](https://open.spotify.com/artist/3t2mi62L2FO64CmplSZddY) | [The Way Our Story Goes](https://open.spotify.com/album/35IbXG3nKSmTO1M1Vo1PdN) | 3:08 | 2021-07-11 | 2021-11-14 |
 | [The Way We Were \(feat\. Plested\)](https://open.spotify.com/track/3Ds1rReoW8ixyfCTe2R0zR) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [Thrill Of The Chase](https://open.spotify.com/album/2lVpgsdtPiXE01gL5mApyn) | 4:08 | 2022-11-12 | 2022-11-20 |
 | [TheMostBeautifulShowInTheWorld\(RightNow\)\_v2\_020822.wav](https://open.spotify.com/track/5nG1GrKDzkOQ9pWw49uhgj) | [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN) | [MIKE IT SPEKTRUM](https://open.spotify.com/album/6nfpKR7onKsfAS53VFk5vq) | 5:39 | 2022-08-06 | 2022-08-19 |

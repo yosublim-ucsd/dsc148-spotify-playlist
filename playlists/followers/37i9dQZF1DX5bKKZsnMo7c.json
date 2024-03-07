@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 376106,
+  "2024-03-07": 376457,
   "date_first_scraped": "2022-05-30",
   "description": "All eyes on you. Cover: Jagwar Twin",
   "name": "Limelight",
@@ -859,6 +859,24 @@
       "duration_ms": 329049,
       "name": "Boys Will Be Bugs",
       "url": "https://open.spotify.com/track/6suYoN4gFkanqOBn5yRnJC"
+    },
+    {
+      "album": {
+        "name": "Brain Damage",
+        "url": "https://open.spotify.com/album/6mOOrpYBo204Mkki7UadkF"
+      },
+      "artists": [
+        {
+          "name": "Joywave",
+          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Brain Damage",
+      "url": "https://open.spotify.com/track/0HKnAO33C9ScjOzTZzqEVb"
     },
     {
       "album": {
@@ -6181,7 +6199,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 190720,
       "name": "What's My Name",
       "url": "https://open.spotify.com/track/53xAT6jud1w0NqlBjSW4VB"

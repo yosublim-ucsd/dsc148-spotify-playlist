@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Marie\-Mai
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,837 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,836 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 38 | [Souvenir](https://open.spotify.com/track/6a20iVTnMEjuLKtOFSUms1) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Unleaded](https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun) | [Souvenir](https://open.spotify.com/album/6PaR3f33lA3iXdy59U7g2m) | 2:46 |
 | 39 | [CALMANT](https://open.spotify.com/track/5aJhbhV4fTcLSkgH8y3aKq) | [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [HEARTBREAK LIFE II](https://open.spotify.com/album/0SonjsOAiaOLaMm9TsdS5o) | 2:29 |
 | 40 | [Ta peine](https://open.spotify.com/track/0qp0G8VtnYHmLnbCu6lUUQ) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Ta peine](https://open.spotify.com/album/2vN2COSOLbR6pMi4Et7k7R) | 2:44 |
-| 41 | [CITÉS DE FRANCE](https://open.spotify.com/track/4jTX6SbFPbAp5064fg2Tl2) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [CITÉS DE FRANCE](https://open.spotify.com/album/4AQnvq1XEUY73naLsqhixX) | 3:35 |
-| 42 | [Ton ami](https://open.spotify.com/track/52Tq0iqfLn1gD9NrID3tqB) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Ton ami](https://open.spotify.com/album/4xJKYIBg5QKnmTKygdkT5R) | 2:34 |
-| 43 | [2006 \- Opps qui court](https://open.spotify.com/track/5cJHbMiyHr3oj9M8ZqIxho) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [2006 \(Opps qui court\)](https://open.spotify.com/album/5ncE4u6zAIl1O7a4x3zy2Q) | 2:58 |
-| 44 | [Loin d'ici](https://open.spotify.com/track/0yvtWcKzMjrMfwBwQYXAi1) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [SOLSAD](https://open.spotify.com/album/6KaCLPY4dFCMiaWGl0EjCn) | 3:23 |
+| 41 | [Loin d'ici](https://open.spotify.com/track/0yvtWcKzMjrMfwBwQYXAi1) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [SOLSAD](https://open.spotify.com/album/6KaCLPY4dFCMiaWGl0EjCn) | 3:23 |
+| 42 | [CITÉS DE FRANCE](https://open.spotify.com/track/4jTX6SbFPbAp5064fg2Tl2) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [CITÉS DE FRANCE](https://open.spotify.com/album/4AQnvq1XEUY73naLsqhixX) | 3:35 |
+| 43 | [Ton ami](https://open.spotify.com/track/52Tq0iqfLn1gD9NrID3tqB) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Ton ami](https://open.spotify.com/album/4xJKYIBg5QKnmTKygdkT5R) | 2:34 |
+| 44 | [2006 \- Opps qui court](https://open.spotify.com/track/5cJHbMiyHr3oj9M8ZqIxho) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [2006 \(Opps qui court\)](https://open.spotify.com/album/5ncE4u6zAIl1O7a4x3zy2Q) | 2:58 |
 | 45 | [MAUVAIS PAYEUR](https://open.spotify.com/track/6O305YQaWEWfaU1S0nTcx6) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [P.M.R.](https://open.spotify.com/album/7lRwTBtOa4iiN9jOXfwKxR) | 3:41 |
 | 46 | [Yemma](https://open.spotify.com/track/3i9rNpToR25Cx5XdkStxn2) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q) | [Yemma](https://open.spotify.com/album/1kPducajpmz3HQOF9e8BoA) | 2:37 |
-| 47 | [MODE HARDCORE](https://open.spotify.com/track/4eZMdTv092lmLcM2WI0SDo) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6), [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [HOOD VOLUME.1](https://open.spotify.com/album/2rQCbziMJIbDjxDKS8ylFu) | 3:25 |
-| 48 | [Bravo](https://open.spotify.com/track/36FUspAqaG0UBBRrOXpnsF) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Bravo](https://open.spotify.com/album/4hjUdsAbOJlVTvPjTuWdKu) | 3:11 |
-| 49 | [Une bonne santé et grave des lards](https://open.spotify.com/track/7Fwchv4I4XW5n57awYvOaj) | [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [Une bonne santé et grave des lards](https://open.spotify.com/album/53VqpYsft2TQFjWg1eqo9f) | 2:57 |
-| 50 | [JUNGLE](https://open.spotify.com/track/1AZLauYJZgld6QahY0gcIV) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [JUNGLE](https://open.spotify.com/album/5CgC5dMHUU6mKHWxdqjMVi) | 3:00 |
+| 47 | [Bravo](https://open.spotify.com/track/36FUspAqaG0UBBRrOXpnsF) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Bravo](https://open.spotify.com/album/4hjUdsAbOJlVTvPjTuWdKu) | 3:11 |
+| 48 | [MODE HARDCORE](https://open.spotify.com/track/4eZMdTv092lmLcM2WI0SDo) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6), [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [HOOD VOLUME.1](https://open.spotify.com/album/2rQCbziMJIbDjxDKS8ylFu) | 3:25 |
+| 49 | [JUNGLE](https://open.spotify.com/track/1AZLauYJZgld6QahY0gcIV) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [JUNGLE](https://open.spotify.com/album/5CgC5dMHUU6mKHWxdqjMVi) | 3:00 |
+| 50 | [Une bonne santé et grave des lards](https://open.spotify.com/track/7Fwchv4I4XW5n57awYvOaj) | [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [Une bonne santé et grave des lards](https://open.spotify.com/album/53VqpYsft2TQFjWg1eqo9f) | 2:57 |
 
-Snapshot ID: `MCwyOWE3M2FlNzYyMzNiYjc1MTBiNDJlOGIzOTIxNTJkYzk3ZjQzNjU5`
+Snapshot ID: `MCw3YzA0NDc0MWEyY2Y4NDQ2YjM5Y2NlOTVjZDM1ZWMyN2E0YjZmNWI3`

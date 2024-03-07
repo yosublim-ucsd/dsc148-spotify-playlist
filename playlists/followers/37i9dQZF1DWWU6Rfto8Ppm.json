@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 3257011,
+  "2024-03-07": 3259831,
   "date_first_scraped": "2022-01-02",
   "description": "Acu\u00e9rdate de estos cl\u00e1sicos. Foto: Don Omar.",
   "name": "Reggaet\u00f3n Viejito",
@@ -7345,7 +7345,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 183196,
       "name": "Te Ir\u00e9 a Buscar",
       "url": "https://open.spotify.com/track/5MPSIqK8WmbQ9TkuJhmtyv"
@@ -7843,6 +7843,28 @@
       "duration_ms": 246518,
       "name": "Tu Cuerpo Me Llama",
       "url": "https://open.spotify.com/track/2Cc8r3E3EaPnqN847ph6W8"
+    },
+    {
+      "album": {
+        "name": "Isla para Dos",
+        "url": "https://open.spotify.com/album/6Gz3SBWJVMiEigtFgWw3hA"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        },
+        {
+          "name": "LOS MORTAL COMBAT",
+          "url": "https://open.spotify.com/artist/7k30THfvs2zMuXGUyv8hEp"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245640,
+      "name": "Tu Cuerpo Me Llama - Remix",
+      "url": "https://open.spotify.com/track/59oaCc7p2rEaYL4T0t91xe"
     },
     {
       "album": {

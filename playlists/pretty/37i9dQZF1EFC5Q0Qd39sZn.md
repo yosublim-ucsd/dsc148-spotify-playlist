@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,503 likes - 508 songs - 1 day 11 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,509 likes - 508 songs - 1 day 11 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -243,8 +243,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 233 | [I'll Say Good\-Bye For The Two Of Us](https://open.spotify.com/track/41UPzh1tCy4YPexDGov4Gq) | [Exposé](https://open.spotify.com/artist/5nPz5R1FDPTMI3Dw4JnTGb) | [Greatest Hits](https://open.spotify.com/album/7AP7VvN3oX4fEEvW2bdbo9) | 4:37 |
 | 234 | [Live For Loving You](https://open.spotify.com/track/4ssavZbXxHM2O2skLe77i5) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Into The Light](https://open.spotify.com/album/53maQl8jkqxVZe4mu2rBAN) | 4:37 |
 | 235 | [Lovin' Proof](https://open.spotify.com/track/2wjCT6QwVk0nvkeqdgevbx) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 4:11 |
-| 236 | [It's My Time \- Radio Edit](https://open.spotify.com/track/0q1PTDRFl64tIskcoIs2EO) | [Jade Ewen](https://open.spotify.com/artist/7u44AAgf8SNIq2Kdw23vHD) | [It's My Time \(International Version\)](https://open.spotify.com/album/4wWVKiMSwH6tyf5kS4JMrM) | 3:17 |
-| 237 | [The Same Love](https://open.spotify.com/track/07YAP0FPP2cXx30NM2hBwk) | [The Jets](https://open.spotify.com/artist/3AHq6rutf72JF0ul8GB6G2) | [Believe](https://open.spotify.com/album/15buuJJtVXJ0ccRjqv5P0r) | 3:58 |
+| 236 | [The Same Love](https://open.spotify.com/track/07YAP0FPP2cXx30NM2hBwk) | [The Jets](https://open.spotify.com/artist/3AHq6rutf72JF0ul8GB6G2) | [Believe](https://open.spotify.com/album/15buuJJtVXJ0ccRjqv5P0r) | 3:58 |
+| 237 | [It's My Time \- Radio Edit](https://open.spotify.com/track/0q1PTDRFl64tIskcoIs2EO) | [Jade Ewen](https://open.spotify.com/artist/7u44AAgf8SNIq2Kdw23vHD) | [It's My Time \(International Version\)](https://open.spotify.com/album/4wWVKiMSwH6tyf5kS4JMrM) | 3:17 |
 | 238 | [Questo Amore \(I Don't Want To Miss A Thing\)](https://open.spotify.com/track/5syMPvI7vcgTwTPiOXhClh) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [We Are Love \(Deluxe\)](https://open.spotify.com/album/5CzzuE9XUREa6PyHGgucmC) | 4:34 |
 | 239 | [The Sun Ain't Gonna Shine](https://open.spotify.com/track/5T3z4DZm07eEPFJixAfZju) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Indestructible](https://open.spotify.com/album/1pbPkhuest1I4RGpz3rWmC) | 4:58 |
 | 240 | [Me Leve Com Você](https://open.spotify.com/track/6ILEjq8z3T80lt4Onfi3l7) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [Sandy & Júnior](https://open.spotify.com/album/7IEHSL719POBQXuI0m4Tu3) | 4:07 |
@@ -463,8 +463,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 453 | [Tell It To The Moon](https://open.spotify.com/track/6VBDF1Q6du1T7p8LhyiblP) | [Martha Davis](https://open.spotify.com/artist/2ioCVuqjcRCoQPhEYY0kmg) | [Policy](https://open.spotify.com/album/3LYSK5WS0E3QigUu1mu0fs) | 4:11 |
 | 454 | [Call Me Gone](https://open.spotify.com/track/4Wr8j1mSchNGwN2AS2P6Qr) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [When A Woman Loves](https://open.spotify.com/album/7xBo1VHvAdhjlUNm8lGvTn) | 4:46 |
 | 455 | [Rien Changer](https://open.spotify.com/track/1yBOPVLmROyZStnaZAQHle) | [Mario Pelchat](https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz) | [Pelchat](https://open.spotify.com/album/4miX4q7EY2QNryx8j7H8bS) | 5:07 |
-| 456 | [Too Many Tears, Too Many Times](https://open.spotify.com/track/23ZGF47GSg8tiHQrVyjgM6) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [When A Woman Loves](https://open.spotify.com/album/7xBo1VHvAdhjlUNm8lGvTn) | 5:30 |
-| 457 | [There Is No Heart That Won't Heal](https://open.spotify.com/track/0MG53mMBZb4mJpqR0Ukmjd) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Naked Without You](https://open.spotify.com/album/6qrmgCo7ZTnPPqLEcCcdvD) | 5:17 |
+| 456 | [There Is No Heart That Won't Heal](https://open.spotify.com/track/0MG53mMBZb4mJpqR0Ukmjd) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Naked Without You](https://open.spotify.com/album/6qrmgCo7ZTnPPqLEcCcdvD) | 5:17 |
+| 457 | [Too Many Tears, Too Many Times](https://open.spotify.com/track/23ZGF47GSg8tiHQrVyjgM6) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [When A Woman Loves](https://open.spotify.com/album/7xBo1VHvAdhjlUNm8lGvTn) | 5:30 |
 | 458 | [Remind My Heart](https://open.spotify.com/track/1UErZtDiUZExWAgFclSGH2) | [Jennifer Rush](https://open.spotify.com/artist/3fsCWTIuWIRvEGS7gerSJX) | [Passion](https://open.spotify.com/album/34HsSHnByRffyHCOWTt8CE) | 4:29 |
 | 459 | [Love Can Do That](https://open.spotify.com/track/2OKK2s7XOjqsfwMErdbi7G) | [Elaine Paige](https://open.spotify.com/artist/7KckozT8XPOqtgJjpAcrnA) | [Love Can Do That](https://open.spotify.com/album/269hwhejxSAHEk91uGaVaA) | 4:26 |
 | 460 | [Little Too Much, Little Too Late](https://open.spotify.com/track/6p4yXipO2RNsb9IuJbHnCA) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Moodring \(Deluxe\)](https://open.spotify.com/album/7hbEvzk6T3oVLJXw1mNoix) | 3:24 |
@@ -486,8 +486,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 476 | [You Redeem Me](https://open.spotify.com/track/1mm1fuhhCOwm92R3VP0fF6) | [Ace Young](https://open.spotify.com/artist/1yb4zX0BZ7Ohe0lDcULddT) | [Ace Young](https://open.spotify.com/album/2apCW9jexUmIGSzWZbEV9J) | 3:54 |
 | 477 | [I Will Remember Your Smile](https://open.spotify.com/track/0ETeVhmVRNtuGDOYBEZ0kS) | [Jene](https://open.spotify.com/artist/7Ggrr1yd3ZQWqSHI6WZuYB) | [Empire](https://open.spotify.com/album/74sLXrx2UNRsY1ZRd8BHOI) | 4:33 |
 | 478 | [Love Is Like A Drug](https://open.spotify.com/track/52ogSPjOwsAnUddLs1pC26) | [Linda Teodosiu](https://open.spotify.com/artist/3WQjKUnRZKZWFuHQKx6Afh) | [Under Pressure](https://open.spotify.com/album/6Ke46Z5FisAAuMtH7IK8de) | 3:22 |
-| 479 | [Catch My Breath](https://open.spotify.com/track/2OtFe3xMV2Pa9XEM5LhYJh) | [Due Voci](https://open.spotify.com/artist/5oBk7hgCa5NzzvprFSPwqO) | [Due Voci](https://open.spotify.com/album/0Wj7tuC2Xi0e612FxmBdVz) | 4:38 |
-| 480 | [Commitment of the Heart](https://open.spotify.com/track/1sOpeHGvOOuhNC3QsTijaL) | [Clive Griffin](https://open.spotify.com/artist/7piYJtFSV6vtj2pK5TyHJI) | [Clive Griffin](https://open.spotify.com/album/0RvuKuxGlbBgXWECCHdw5F) | 5:06 |
+| 479 | [Commitment of the Heart](https://open.spotify.com/track/1sOpeHGvOOuhNC3QsTijaL) | [Clive Griffin](https://open.spotify.com/artist/7piYJtFSV6vtj2pK5TyHJI) | [Clive Griffin](https://open.spotify.com/album/0RvuKuxGlbBgXWECCHdw5F) | 5:06 |
+| 480 | [Catch My Breath](https://open.spotify.com/track/2OtFe3xMV2Pa9XEM5LhYJh) | [Due Voci](https://open.spotify.com/artist/5oBk7hgCa5NzzvprFSPwqO) | [Due Voci](https://open.spotify.com/album/0Wj7tuC2Xi0e612FxmBdVz) | 4:38 |
 | 481 | [I'm By Your Side](https://open.spotify.com/track/0gZPEf6zaswcXJP7uqC1BE) | [Samantha Cole](https://open.spotify.com/artist/4VnMJXQpix0onjop2VNFvX) | [Samantha Cole](https://open.spotify.com/album/1nLWlryXPg4E3Yqr89yW5V) | 4:57 |
 | 482 | [Would I Know](https://open.spotify.com/track/73ejE2UWxwhLT2zmjSvdBX) | [Due Voci](https://open.spotify.com/artist/5oBk7hgCa5NzzvprFSPwqO) | [Due Voci](https://open.spotify.com/album/0Wj7tuC2Xi0e612FxmBdVz) | 3:48 |
 | 483 | [A Hundred Oceans](https://open.spotify.com/track/6sZgfhFAGuAk7Nko7vywMV) | [Innosense](https://open.spotify.com/artist/2OaYYIqUbv6g6Q81vptEmW) | [So Together](https://open.spotify.com/album/4lKLWohQZd8bl8NZ2N0CNT) | 4:08 |
@@ -517,4 +517,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 507 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 508 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 
-Snapshot ID: `Mjg0OTQ4NTAsMDAwMDAwMDA3OGE4ZDkxZjA4NzQ0NDg5MTMyODJjYzU3YTFjZmJiMQ==`
+Snapshot ID: `Mjg0OTYyOTAsMDAwMDAwMDAzNTg4YmIyNTVlMDk1MWVkMDNmMjY4NjE2MTY1MmRlMA==`

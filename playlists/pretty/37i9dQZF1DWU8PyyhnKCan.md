@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8PyyhnKCan.md) - [plain]
 | 30 | [BUG](https://open.spotify.com/track/1fqfev7K0mfX7e1W64pDvA) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE) | [BUG](https://open.spotify.com/album/04BZd03CZ9HuiiZBWDcp1J) | 2:51 |
 | 31 | [ハナタバ](https://open.spotify.com/track/3R3JSXXyr2smZGP2xamRjy) | [MIMI](https://open.spotify.com/artist/7EuEZrjIoRurVFLtItafTA) | [よるつむぎ](https://open.spotify.com/album/4dZw65evulj7MRAL7RArdd) | 2:28 |
 | 32 | [新人類](https://open.spotify.com/track/66eh1jfnyg3PM6iPDad1zM) | [Marasy](https://open.spotify.com/artist/3Y2hPbg4GHOheV4Hc9lpXV), [鏡音リン](https://open.spotify.com/artist/50sbi4xBlZS6PS1ggRjAZf) | [アマツキツネ 10th Anniversary](https://open.spotify.com/album/2F9Eqa2CmMoNWsMcJJCGFQ) | 2:38 |
-| 33 | [HITO Mania](https://open.spotify.com/track/5m9rwQVcChWF3TsKXlJfgE) | [Sasuke Haraguchi](https://open.spotify.com/artist/0lpGYhSy3qM3uvWAYF4fTf) | [HITO Mania](https://open.spotify.com/album/0oHrJBLx50GEEpYmnw6rEt) | 2:07 |
+| 33 | [HITO Mania](https://open.spotify.com/track/5m9rwQVcChWF3TsKXlJfgE) | [Sasuke Haraguchi](https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3) | [HITO Mania](https://open.spotify.com/album/0oHrJBLx50GEEpYmnw6rEt) | 2:07 |
 | 34 | [脳漿炸裂ガール 2015ver.](https://open.spotify.com/track/0ASw64KfzSUtChQDfzC906) | [rerulili](https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H) | [厨病激発ボーイ](https://open.spotify.com/album/11wsf9YJHLcnpAxUtldSZs) | 3:12 |
 | 35 | [テレキャスタービーボーイ \- long ver.](https://open.spotify.com/track/34PWkiTDmG9lAJ3leUGOri) | [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [pandemic](https://open.spotify.com/album/6KTTXEM3HpdEv4iAmyKPZJ) | 2:44 |
 | 36 | [Non\-breath oblige](https://open.spotify.com/track/0LsKplOVgboKBm5MpJsX0H) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [LOVE](https://open.spotify.com/album/0KxJlPf1XUcJ2KMzjYQ1EE) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8PyyhnKCan.md) - [plain]
 | 99 | [風](https://open.spotify.com/track/1RxzjktxVMDKRjPR3OqbU4) | [Guiano](https://open.spotify.com/artist/1gIxoB0mBUoPr7rPyy31xf) | [花鳥風月](https://open.spotify.com/album/3McRo26jqaK4vZ36db3aso) | 2:59 |
 | 100 | [水死体は恋したい](https://open.spotify.com/track/0t9X7vdypTC2niY0GA9DBW) | [LonePi](https://open.spotify.com/artist/0FtyTvAiyb0IS8qTfGOaxb) | [水死体は恋したい](https://open.spotify.com/album/2K4FoBm3Sx9NBKOF9z0pX7) | 3:05 |
 
-Snapshot ID: `MCw0YmRlNzA0N2M2MmE1ZTZhMjBlNjU5MmFlZTBlMjQ4YzIyYWYzMjk0`
+Snapshot ID: `MCxjZDI4ZmYyZjkzOGQ3ZmE1NjIwMzZjNDU5NjBhM2UyMjM0ZTE1M2U5`

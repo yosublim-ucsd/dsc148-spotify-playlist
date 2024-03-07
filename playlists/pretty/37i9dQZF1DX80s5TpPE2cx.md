@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 
 > The songs that defined Nigeria's Alté era\. Cover: Amaarae
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,909 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,939 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 59 | [Feel Alright](https://open.spotify.com/track/45oXGtNuG81jUcwmk73xLh) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Poe](https://open.spotify.com/artist/2ll3lU5iepPghkEc9c6dK2) | [Feel Alright](https://open.spotify.com/album/2Cgvi847HBc0gsamKi0Do4) | 4:18 |
 | 60 | [Operation](https://open.spotify.com/track/3OQdtUt44IXKDeU1NDUy6e) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [WINNY](https://open.spotify.com/album/4MeI2R28SeauCi3fhQmcG5) | 3:17 |
 
-Snapshot ID: `MCxiZmQ3Njc4YTQ4MWJkZWJmZTY3YWQ1MzQ3ODFiODY5NDUzNTFiMDVj`
+Snapshot ID: `MCwwODJhMDA0MTIyZmU1ZWM5MjkzYzc5NDJhZDlhYzZjN2NkZDA0MWQ1`

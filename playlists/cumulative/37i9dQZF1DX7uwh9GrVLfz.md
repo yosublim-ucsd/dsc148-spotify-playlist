@@ -4,11 +4,11 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: Ken Yokoyama
 
-738 songs - 1 day 15 hr 22 min
+740 songs - 1 day 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ["Let it die \-Subete wa isutori game\-" \(Let it die \-All is musical chairs\-\)](https://open.spotify.com/track/2TAxUxm124Yt8hvtUS9oXi) | [PAN](https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T) | [Goo Goo Goo](https://open.spotify.com/album/7xgE9X3dQw5GBMognMf1oE) | 3:12 | 2022-07-14 | 2024-02-21 |
+| ["Let it die \-Subete wa isutori game\-" \(Let it die \-All is musical chairs\-\)](https://open.spotify.com/track/2TAxUxm124Yt8hvtUS9oXi) | [PAN](https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T) | [Goo Goo Goo](https://open.spotify.com/album/7xgE9X3dQw5GBMognMf1oE) | 3:12 | 2022-07-14 |  |
 | [1986](https://open.spotify.com/track/5d0XlR9EKCpbQHX8g0JbQh) | [DOTSUITARUNEN](https://open.spotify.com/artist/3AVCjqVpripxn9rQ1sC7Vb) | [1986](https://open.spotify.com/album/61uS7DM6h3la9sI1iTuuwS) | 5:56 | 2022-05-19 | 2022-07-27 |
 | [20th CENTURY BOY](https://open.spotify.com/track/4O2v3PvNY0BlVuq4oyAqMA) | [PET](https://open.spotify.com/artist/7GYpun631o8dGqDi1vpTJL) | [DANCE!DANCE!DANCE!](https://open.spotify.com/album/3vbuPOde056RverUHaTuBz) | 3:39 | 2022-12-20 | 2023-01-11 |
 | [262](https://open.spotify.com/track/0BS35g5cQj8eweznR29blw) | [matsuri](https://open.spotify.com/artist/2uiEH6IIPxjVLp4VJUr0iV) | [Confession](https://open.spotify.com/album/2xa9dMz7X1q3jonUFjGEFP) | 3:45 | 2023-08-24 | 2023-10-04 |
@@ -151,7 +151,8 @@
 | [Find You](https://open.spotify.com/track/0CLc9IYuyOoMkZK8lmS9yG) | [Your Last Diary](https://open.spotify.com/artist/3naxNIZotcqCdf2Q50oxgV) | [Zero Division Vol.02 \- Single](https://open.spotify.com/album/79a338u2eyram2On4ALARx) | 3:34 | 2022-05-12 | 2022-07-25 |
 | [Find Your Toy](https://open.spotify.com/track/5iOCpYeaWZmJCJk3UgLja2) | [MEGA X](https://open.spotify.com/artist/0sq7iGTs5qsWEq4fvMf45m) | [Find Your Toy](https://open.spotify.com/album/4qXhMjhi2IYsLvSKQ2rfII) | 4:26 | 2022-06-14 | 2022-07-26 |
 | [Fire](https://open.spotify.com/track/2a5Mrsb0r8lzpHryHgumAv) | [G\-FREAK FACTORY](https://open.spotify.com/artist/6XPpGsWRFQG1bi0qscvotx) | [FLARE/Fire](https://open.spotify.com/album/3tCbroV4FrGUw59V6YNJs9) | 4:00 | 2022-05-12 | 2022-07-26 |
-| [flagship](https://open.spotify.com/track/4a01VbAG5YGyQ6CBH7KzLA) | [ハイファイコーヒーズ](https://open.spotify.com/artist/3nfnWSg80zCxmZ9Q8sspKm) | [flagship](https://open.spotify.com/album/6sumXukVRgoHRce55kELGj) | 3:46 | 2024-03-05 |  |
+| [flagship](https://open.spotify.com/track/0JJx4ACNhyKrrSVRMPXyzw) | [hificoffees](https://open.spotify.com/artist/1AqwM9YZhBOxQlSyiiYVMY) | [flagship](https://open.spotify.com/album/21fI2KyTKCoUszbfw0GGtI) | 3:46 | 2024-03-05 |  |
+| [flagship](https://open.spotify.com/track/4a01VbAG5YGyQ6CBH7KzLA) | [ハイファイコーヒーズ](https://open.spotify.com/artist/3nfnWSg80zCxmZ9Q8sspKm) | [flagship](https://open.spotify.com/album/6sumXukVRgoHRce55kELGj) | 3:46 | 2024-03-05 | 2024-03-07 |
 | [Fleeting](https://open.spotify.com/track/75HEbPH6oRiraYCdrT7BZU) | [BACK LIFT](https://open.spotify.com/artist/6R0ajUp8xP5GZCFaQwYBrj) | [Fleeting](https://open.spotify.com/album/544Jdvoikdhj5TstI63Pyy) | 2:34 | 2022-05-17 | 2022-07-29 |
 | [FLY & DIVE](https://open.spotify.com/track/1GyJ9861V1V5xddnmDIRpx) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [FLY & DIVE](https://open.spotify.com/album/5DQw8dUj4sorH7LFW6LBFc) | 3:44 | 2023-09-07 | 2023-10-18 |
 | [FlyAway](https://open.spotify.com/track/32Z0ajZeUseesxfJHnGZJK) | [MOTHBALL](https://open.spotify.com/artist/4kFIznJL74Ic9Z5wfpCFNc) | [What a Wonderful World](https://open.spotify.com/album/5PZX1fseCj8BA3clmmwlsW) | 3:06 | 2022-05-12 | 2022-07-26 |
@@ -161,6 +162,7 @@
 | [Forever](https://open.spotify.com/track/4hW5YF0MtXHBl5tkPp7gEP) | [Good Grief](https://open.spotify.com/artist/0CiZp5RMtcwR2JGTvmTXa8) | [Square One](https://open.spotify.com/album/4YqcVthrzbgI4cWE7Ofkko) | 3:35 | 2022-05-12 | 2022-07-14 |
 | [Foundation](https://open.spotify.com/track/5xS7BWHaNQUgPlM9lccVvY) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [Rude Foundation](https://open.spotify.com/album/2KwPr77XNGJGL61BulYD16) | 2:24 | 2023-05-09 | 2023-08-04 |
 | [FULLTEN](https://open.spotify.com/track/0qxmUHAyp68P5BZGEyCASo) | [kobore](https://open.spotify.com/artist/0seiMqWC3KI3SkKttVWy8Z) | [FULLTEN](https://open.spotify.com/album/3WxUCSO4WCLAt6Z2wdVUrp) | 1:26 | 2022-05-12 | 2022-05-18 |
+| [Fuzakete Night](https://open.spotify.com/track/36GOxk7HKI23m5B8tuJf2X) | [su\-xing\-cyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [Fuzakete Night](https://open.spotify.com/album/5vktP9YpQWOT4v9CMjM6n1) | 1:38 | 2024-03-05 |  |
 | [Garland House](https://open.spotify.com/track/7mZiT9lOvNAkGt1la3TKfn) | [SPOILMAN](https://open.spotify.com/artist/0uGQyvjvTF0f3wKGiDHQrp) | [SOLID GREEN](https://open.spotify.com/album/7Hdvoz87VtxTkFRNj20CTF) | 3:19 | 2022-05-12 | 2022-07-11 |
 | [Get Me Back](https://open.spotify.com/track/7DyYH1hRVEDTDjxXJP9wHl) | [DRADNATS](https://open.spotify.com/artist/4lXsnr1wwEE51UvWLMJuTM) | [ONE HiT TO THE BODY](https://open.spotify.com/album/2MwaOSSA0ggOvgjtZ0X2EI) | 2:54 | 2022-05-12 | 2022-07-20 |
 | [Get out](https://open.spotify.com/track/3UTqzhJOiRWGuy7xd6fnFP) | [Junky58%](https://open.spotify.com/artist/70KfXyXsFwEmCA1i6kMn2m) | [Get out](https://open.spotify.com/album/5boYEJejEUlO56jTqjXWBL) | 2:11 | 2022-05-12 | 2022-07-28 |
@@ -575,7 +577,7 @@
 | [つばさ](https://open.spotify.com/track/6UVsdfH8fHX2oYEfpQJ5NV) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [ニューマニア](https://open.spotify.com/album/1ogeyMyOVc9xI6ICg4Vwll) | 4:33 | 2022-05-12 | 2023-01-06 |
 | [なぜ今日天気が悪い](https://open.spotify.com/track/6TorBlsYdhjPchFOZDyt95) | [UchikubiGokumonDoukoukai](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [なぜ今日天気が悪い](https://open.spotify.com/album/55B3St6M2drUy59u67UABa) | 2:54 | 2023-07-13 | 2023-07-15 |
 | [ならば青春よ](https://open.spotify.com/track/25OeqQAsSTAb3CAmz03Cml) | [GaGaGa SP](https://open.spotify.com/artist/1i2ol7SBMNLazfzSZKRGwM) | [ロックンロール](https://open.spotify.com/album/4nxJ8v0MRVSAdBWtlWYOuk) | 3:29 | 2022-05-19 | 2022-07-28 |
-| [ふざけてナイト](https://open.spotify.com/track/7zuAxJE5oNaGLdxcJfThZB) | [su\-xing\-cyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [ふざけてナイト](https://open.spotify.com/album/1REZLVcg3jVMBW2xj1yt4W) | 1:38 | 2024-03-05 |  |
+| [ふざけてナイト](https://open.spotify.com/track/7zuAxJE5oNaGLdxcJfThZB) | [su\-xing\-cyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [ふざけてナイト](https://open.spotify.com/album/1REZLVcg3jVMBW2xj1yt4W) | 1:38 | 2024-03-05 | 2024-03-07 |
 | [ぼーんず・あんど・おーる](https://open.spotify.com/track/43uwyemoEPYGTxpefuifMt) | [Su凸ko D凹koi](https://open.spotify.com/artist/1nPzXqUlZz6YJAiyepAY51) | [ぼーんず・あんど・おーる](https://open.spotify.com/album/5hNo3JFjY8ViYmxNIEu0fd) | 3:19 | 2024-02-27 | 2024-02-29 |
 | [まくれ](https://open.spotify.com/track/40qPqGR1Lwf8YfApoeQ7yh) | [PAN](https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T) | [まくれ](https://open.spotify.com/album/0Mf93Ot20G7jXn1dzLYSLm) | 4:18 | 2022-05-24 | 2022-07-29 |
 | [もういい](https://open.spotify.com/track/3nnNpU81vjbflYXsmuf23R) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [もういい](https://open.spotify.com/album/7LdT35U05IlLByMoo9NJ8q) | 3:22 | 2022-05-12 | 2022-07-21 |
@@ -649,7 +651,7 @@
 | [ロックンロール](https://open.spotify.com/track/6TocSDZUFPrpOrlWHrMouE) | [GaGaGa SP](https://open.spotify.com/artist/1i2ol7SBMNLazfzSZKRGwM) | [ロックンロール](https://open.spotify.com/album/4nxJ8v0MRVSAdBWtlWYOuk) | 2:50 | 2022-05-12 | 2022-07-27 |
 | [ロックンロール イズ ノットデッド](https://open.spotify.com/track/2T0NlmguJeLXbXc4xZ10TU) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [ロックンロール イズ ノットデッド](https://open.spotify.com/album/0ETJil8vr0LrBGRA8oxC0p) | 5:00 | 2022-05-24 |  |
 | [不純喫茶にてまた会いましょう](https://open.spotify.com/track/2bvGuPfcBqaTQfeLuWZWna) | [東京初期衝動](https://open.spotify.com/artist/0yIugVENIPSMYiZTYi2CUM) | [不純喫茶にてまた会いましょう](https://open.spotify.com/album/1BjGRcJLczJpbwTLSgwtZt) | 3:03 | 2022-05-19 | 2022-07-17 |
-| [世界の終わり \- Primitive Version](https://open.spotify.com/track/0c6f2H2CXN779Ooh3GrcmT) | [Thee Michelle Gun Elephant](https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX) | [cult grass stars](https://open.spotify.com/album/4XSgfMQODTOQYV1uPGKQ5n) | 5:46 | 2022-05-19 |  |
+| [世界の終わり \- Primitive Version](https://open.spotify.com/track/0c6f2H2CXN779Ooh3GrcmT) | [Thee Michelle Gun Elephant](https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX) | [cult grass stars](https://open.spotify.com/album/4XSgfMQODTOQYV1uPGKQ5n) | 5:46 | 2022-05-19 | 2024-03-07 |
 | [世界は君たちを変えることは出来ない](https://open.spotify.com/track/6PPb7FGy66aYw8Yc4J8ThO) | [SEVENTEEN AGAiN](https://open.spotify.com/artist/44vCIlLzyYUo6UQ2s4huqu) | [世界は君たちを変えることは出来ない](https://open.spotify.com/album/5rIWnaKZ3pMNoA6gImSvrh) | 2:01 | 2022-05-17 | 2022-07-26 |
 | [世界を終わらせて](https://open.spotify.com/track/2FZXuCw75FYVfiNHtFQON9) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [永遠の花](https://open.spotify.com/album/1i7AHRWpDPl56hKoWcnMdq) | 3:53 | 2023-01-05 |  |
 | [二億の青春](https://open.spotify.com/track/49U4zyI2hPomIbh9Ip7pPj) | [リトルスクーター](https://open.spotify.com/artist/5Os224clHj9KZXYrcFIm96) | [二億の青春](https://open.spotify.com/album/0UvYArQl0ZPOtr5WeSUhe1) | 2:41 | 2022-12-20 | 2022-12-28 |

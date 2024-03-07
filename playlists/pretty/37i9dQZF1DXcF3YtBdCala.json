@@ -1,12 +1,12 @@
 {
   "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. Irene Del Rosario en portada. ",
-  "num_followers": 131237,
+  "num_followers": 131249,
   "original_name": "Mariachi Joven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjdmYjdmZTU1NGExMjM2NTRlMTZkODAyYjNlOTc5NmQ3OTRjMTVj",
+  "snapshot_id": "MCw2YzAzOGRjYzFlYzI5OTRhY2QxYzhlMTRhODlkYTQ2YWFkY2JkOTBl",
   "tracks": [
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
+        "name": "Navajas En El Viento",
+        "url": "https://open.spotify.com/album/0u5lLihhLNdPKv67arQ8nN"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 225133,
+      "name": "Navajas En El Viento",
+      "url": "https://open.spotify.com/track/70Hvhlm3IleKpNZyA6PdXx"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
         "name": "Si No Es Muy Tarde (Versi\u00f3n Mariachi)",
         "url": "https://open.spotify.com/album/4NZmU0T1ixQM0xgh3mI0x8"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 241466,
       "name": "Si No Es Muy Tarde - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/2VmXYSPm82hQ0xotthshnU"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
-        "name": "Navajas En El Viento",
-        "url": "https://open.spotify.com/album/0u5lLihhLNdPKv67arQ8nN"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 225133,
-      "name": "Navajas En El Viento",
-      "url": "https://open.spotify.com/track/70Hvhlm3IleKpNZyA6PdXx"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
+        "name": "Vali\u00f3 La Pena Con Mariachi",
+        "url": "https://open.spotify.com/album/1E0UDUTKwV8g8dH6hkyPAW"
+      },
+      "artists": [
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "Duele Estar Vivo",
+      "url": "https://open.spotify.com/track/2UEWCYISDArkdFAm7QpTk0"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
         "name": "Amigos",
         "url": "https://open.spotify.com/album/74Hes6pOqG1u1DN65jg0aV"
       },
@@ -1175,38 +1191,22 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Vali\u00f3 La Pena Con Mariachi",
-        "url": "https://open.spotify.com/album/1E0UDUTKwV8g8dH6hkyPAW"
+        "name": "Paloma Blanca",
+        "url": "https://open.spotify.com/album/7jGwTVjD5GOy8cUQqhJpsI"
       },
       "artists": [
         {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "Duele Estar Vivo",
-      "url": "https://open.spotify.com/track/2UEWCYISDArkdFAm7QpTk0"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
-        "name": "El Sinaloense",
-        "url": "https://open.spotify.com/album/6EfyoRonwMcULLHbjH7BK2"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         },
         {
-          "name": "Mariachi Internacional CHG De Gamaliel Contreras Huerta",
-          "url": "https://open.spotify.com/artist/4Z0ZWO0lp2z7HqhAs9kVSw"
+          "name": "Mariachi Divas de Cindy Shea",
+          "url": "https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd"
         }
       ],
-      "duration_ms": 157285,
-      "name": "El Sinaloense",
-      "url": "https://open.spotify.com/track/4h06vZxDLOpTwJ9poOn1dT"
+      "duration_ms": 233373,
+      "name": "PALOMA BLANCA",
+      "url": "https://open.spotify.com/track/0qTmcxa3HhdKEH0wftscnQ"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1227,22 +1227,22 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Paloma Blanca",
-        "url": "https://open.spotify.com/album/7jGwTVjD5GOy8cUQqhJpsI"
+        "name": "El Sinaloense",
+        "url": "https://open.spotify.com/album/6EfyoRonwMcULLHbjH7BK2"
       },
       "artists": [
         {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         },
         {
-          "name": "Mariachi Divas de Cindy Shea",
-          "url": "https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd"
+          "name": "Mariachi Internacional CHG De Gamaliel Contreras Huerta",
+          "url": "https://open.spotify.com/artist/4Z0ZWO0lp2z7HqhAs9kVSw"
         }
       ],
-      "duration_ms": 233373,
-      "name": "PALOMA BLANCA",
-      "url": "https://open.spotify.com/track/0qTmcxa3HhdKEH0wftscnQ"
+      "duration_ms": 157285,
+      "name": "El Sinaloense",
+      "url": "https://open.spotify.com/track/4h06vZxDLOpTwJ9poOn1dT"
     },
     {
       "added_at": "2024-02-23 06:00:00",

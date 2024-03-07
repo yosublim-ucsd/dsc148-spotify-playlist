@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Kid Yugi
 
-[Spotify](https://open.spotify.com/user/spotify) - 929,677 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,931 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [ANELLI E COLLANE \(feat\. ANNA\)](https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [ASPETTANDO LA BELLA VITA](https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb) | 3:09 |
 | 50 | [non odiare mai \(feat\. Coez, Gemitaiz, Noyz Narcos\)](https://open.spotify.com/track/1eHMjCvVlGX4ou46rCpsTb) | [STABBER](https://open.spotify.com/artist/1eKwVaINKkLrCkOQFRVM6g), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [non odiare mai \(feat\. Coez, Gemitaiz, Noyz Narcos\)](https://open.spotify.com/album/7dHqdHoa2ienIkaXYYeEuj) | 3:06 |
 
-Snapshot ID: `MCwxYTY1NTRmM2RhMGRiZTdkYmUzYzIxMDdkNDFlMGNhYWJhN2ViYmFi`
+Snapshot ID: `MCxjN2E1YzRhMGY2NTVhODU5YzMxOWM3NzNlMzZjZmQ1OTE1YmVlMTgz`

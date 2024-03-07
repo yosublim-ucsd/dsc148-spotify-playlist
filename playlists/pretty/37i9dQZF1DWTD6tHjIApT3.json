@@ -1,18 +1,18 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: Furui Riho",
-  "num_followers": 109710,
+  "num_followers": 109799,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2M1OWJjMzMxNWE1MTI0ZmY3YzFjZmY2MWQ1MzZkMTdlNzY0MGE1",
+  "snapshot_id": "MCxlMTJmNGU5OWZlZmY5NGMyOTBiNmUwMTY1MjJhNmEwYTE5YjIzNzNi",
   "tracks": [
     {
       "added_at": "2024-03-05 16:47:27",
       "album": {
-        "name": "SAPPORO TOKYO",
-        "url": "https://open.spotify.com/album/1LgMEwqdLiFeScDqcaGP40"
+        "name": "Sapporo Tokyo",
+        "url": "https://open.spotify.com/album/2qRreb6X5DMn1NXr7efii8"
       },
       "artists": [
         {
@@ -25,8 +25,8 @@
         }
       ],
       "duration_ms": 201712,
-      "name": "SAPPORO TOKYO",
-      "url": "https://open.spotify.com/track/61mRQIRRPGxuMUuEra2vFN"
+      "name": "Sapporo Tokyo",
+      "url": "https://open.spotify.com/track/5UfEvgUgUUK7bFg3pgG2WT"
     },
     {
       "added_at": "2024-03-05 16:47:27",
@@ -99,8 +99,8 @@
     {
       "added_at": "2024-03-05 16:47:27",
       "album": {
-        "name": "weekday",
-        "url": "https://open.spotify.com/album/78KVeLhWFA4tDmb7DaMBic"
+        "name": "Weekday",
+        "url": "https://open.spotify.com/album/37176xs2bTWghwyAA67mHd"
       },
       "artists": [
         {
@@ -110,7 +110,7 @@
       ],
       "duration_ms": 215413,
       "name": "BFF",
-      "url": "https://open.spotify.com/track/3YwIFcgXFrTwQMlLpHM0lT"
+      "url": "https://open.spotify.com/track/0UphESovufBGWK0Npk1sHu"
     },
     {
       "added_at": "2024-03-05 16:47:27",
@@ -327,8 +327,8 @@
     {
       "added_at": "2024-03-05 16:47:27",
       "album": {
-        "name": "\u65e5\u3005\u611b\u3005",
-        "url": "https://open.spotify.com/album/7A82mHia7alj13QXGc6MDQ"
+        "name": "Hibi AiAi",
+        "url": "https://open.spotify.com/album/49yagUf1DBt4S2S72EBGWP"
       },
       "artists": [
         {
@@ -337,8 +337,8 @@
         }
       ],
       "duration_ms": 221693,
-      "name": "\u541b\u304c\u304a\u3058\u3044\u3061\u3083\u3093\u3042\u305f\u3057\u304c\u304a\u3070\u3042\u3061\u3083\u3093",
-      "url": "https://open.spotify.com/track/1SgwiPVpQ6tV3UnWGPlv5H"
+      "name": "You Be the Grandpa and I Be the Grandma",
+      "url": "https://open.spotify.com/track/0TRR29A1f4tHNI6cDdlYCv"
     },
     {
       "added_at": "2024-03-05 16:47:27",
@@ -740,7 +740,7 @@
           "url": "https://open.spotify.com/artist/1oFBCL5yLMgZBoXHsiE4JR"
         }
       ],
-      "duration_ms": 175956,
+      "duration_ms": 173600,
       "name": "Laundry",
       "url": "https://open.spotify.com/track/7p5kyiWkqJvqasTPax0tqe"
     },
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-03-05 16:47:27",
       "album": {
-        "name": "\u6b8b\u6a5f",
-        "url": "https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3"
-      },
-      "artists": [
-        {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
-        }
-      ],
-      "duration_ms": 230066,
-      "name": "\u6b8b\u6a5f",
-      "url": "https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8"
-    },
-    {
-      "added_at": "2024-03-05 16:47:27",
-      "album": {
         "name": "\u604b\u6ce5\u68d2\u3002",
         "url": "https://open.spotify.com/album/02oXm4Mjn4lWcc9xubCAW0"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 219643,
       "name": "\u604b\u6ce5\u68d2\u3002",
       "url": "https://open.spotify.com/track/0JnOpiUieuk9SdRv7Fkw2P"
+    },
+    {
+      "added_at": "2024-03-05 16:47:27",
+      "album": {
+        "name": "\u6b8b\u6a5f",
+        "url": "https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "duration_ms": 230066,
+      "name": "\u6b8b\u6a5f",
+      "url": "https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8"
     },
     {
       "added_at": "2024-03-05 16:47:27",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-03-05 16:47:27",
       "album": {
-        "name": "Good bye-bye",
-        "url": "https://open.spotify.com/album/2YC9hK5eHUSenvXUP2pezq"
-      },
-      "artists": [
-        {
-          "name": "\u51a8\u5ca1\u611b",
-          "url": "https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi"
-        }
-      ],
-      "duration_ms": 201137,
-      "name": "Good bye-bye",
-      "url": "https://open.spotify.com/track/6yrSg5ltrGVOoha4TtUBZ3"
-    },
-    {
-      "added_at": "2024-03-05 16:47:27",
-      "album": {
         "name": "\u7070\u304b\u3076\u308a",
         "url": "https://open.spotify.com/album/5CltyRkCnztzDYVvi79WDW"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 207160,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/4j3ZYby4xNDuqfHb3Crm4k"
+    },
+    {
+      "added_at": "2024-03-05 16:47:27",
+      "album": {
+        "name": "Good bye-bye",
+        "url": "https://open.spotify.com/album/2YC9hK5eHUSenvXUP2pezq"
+      },
+      "artists": [
+        {
+          "name": "\u51a8\u5ca1\u611b",
+          "url": "https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi"
+        }
+      ],
+      "duration_ms": 201137,
+      "name": "Good bye-bye",
+      "url": "https://open.spotify.com/track/6yrSg5ltrGVOoha4TtUBZ3"
     },
     {
       "added_at": "2024-03-05 16:47:27",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Free to be! Musica dalla comunità LGBQTIA+ italiana\. Giolì & Assia in cover! ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,261 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,260 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 22 | [Now That It's Real \(feat\. BigMama\)](https://open.spotify.com/track/08gCvhx75KLbEjoQh2Y0PA) | [David Blank](https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6), [Dumar](https://open.spotify.com/artist/6Wqx7fxXflcJITUrFGx5Ba), [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Now That It's Real \(feat\. BigMama\)](https://open.spotify.com/album/6yc7cRkSR7msfQLKgjhTIj) | 3:10 |
 | 23 | [Bandiera Bianca \(feat\. Schiuma\)](https://open.spotify.com/track/4OuN0P20LGrI0glXatZqTs) | [Blue Phelix](https://open.spotify.com/artist/1CfqAv8GdSvNor3kAWFTEt), [Yosef](https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB), [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD) | [Bandiera Bianca \(feat\. Schiuma\)](https://open.spotify.com/album/0etE8FFEYUrvMnxDKNohy9) | 2:54 |
 | 24 | [Bloody Mary](https://open.spotify.com/track/6dfus00rufybawdDBasdG8) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Bloody Mary](https://open.spotify.com/album/0nwNGmFOJkmEy5zI9rFwVr) | 2:15 |
-| 25 | [How Do U Feel](https://open.spotify.com/track/1LjJjkKtr7N7zGGfyBl3M1) | [HU](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [How Do U Feel](https://open.spotify.com/album/71NytofTYW4F5hBuDLMPY7) | 3:04 |
+| 25 | [How Do U Feel](https://open.spotify.com/track/1LjJjkKtr7N7zGGfyBl3M1) | [HU](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [How Do U Feel](https://open.spotify.com/album/71NytofTYW4F5hBuDLMPY7) | 2:34 |
 | 26 | [Piccola Inutile](https://open.spotify.com/track/2BrerWrh38QmRzjaeN9PMU) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW) | [Piccola Inutile](https://open.spotify.com/album/220BF5aubxcU1oxYpl4qwg) | 3:19 |
 | 27 | [Body](https://open.spotify.com/track/4Fgx3fnvRodDpdCgBwsH6P) | [Fucksia](https://open.spotify.com/artist/78zGiRnNQVpLCK3Fz29J0P) | [Body](https://open.spotify.com/album/03J2QoSQQLpKi8IXlApSkE) | 3:22 |
 | 28 | [PRAY](https://open.spotify.com/track/5OPERNndxIm6JL4Qmdfm5S) | [David Blank](https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6), [Andrea Di Giovanni](https://open.spotify.com/artist/6LgSivOZVfHs4mY4TYobQa) | [PRAY](https://open.spotify.com/album/5zsTNApj0NEoO3c4tFYbhY) | 2:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 74 | [Non ti sopporto più](https://open.spotify.com/track/6E2sqmmajA8nXs4pijQebR) | [Senza\_Cri](https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX) | [Non ti sopporto più](https://open.spotify.com/album/1wDp4rWLCgkQF55BSdaa3C) | 2:42 |
 | 75 | [Parigi \(mi manchi\) \- Hey Cabrera! Remix](https://open.spotify.com/track/0uf3THPz59F1SmobBeTgaB) | [Thomas Costantin](https://open.spotify.com/artist/0WKjXc8BCwyL9ds9cNRlWW), [Hey Cabrera!](https://open.spotify.com/artist/4mGJlxDbUm6OelkTrUDSoW) | [Le città](https://open.spotify.com/album/6QWVKKra5NxI0AlS4h4u0t) | 4:24 |
 
-Snapshot ID: `MCw5YTQ5YTZmODU3YWVkYzIzMmQ5NjdmMzcyNzMzMmI0Y2ZhMGVjOWEz`
+Snapshot ID: `MCwyZTQ4MTQxNzliYjM2NDJlNzQ1NTZhZTM4M2EzNzgyNzU2NDM4MDhi`

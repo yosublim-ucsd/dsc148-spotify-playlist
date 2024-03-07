@@ -1,12 +1,12 @@
 {
   "description": "canzoni tristi per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, nashley)",
-  "num_followers": 44611,
+  "num_followers": 44632,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWQxNjFkZjcwZjhlNmIyYmI1OWE3NGNmMzA5M2EzZWYxMjE0ZDEx",
+  "snapshot_id": "MCxkYzgzYmNjYTI1ZmVhMGVkOTkyMjFlNTg4OGY5YWQ3OWYwNmQ3Mzk4",
   "tracks": [
     {
       "added_at": "2024-02-29 23:01:00",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
-        "name": "Incancellabili",
-        "url": "https://open.spotify.com/album/4d9czstc4DH4gLOR40QCAt"
-      },
-      "artists": [
-        {
-          "name": "Poet",
-          "url": "https://open.spotify.com/artist/0vhFnK8A5YPnVWLlwu2IHs"
-        },
-        {
-          "name": "Otalay",
-          "url": "https://open.spotify.com/artist/3RuR9IVE8ErUJaeI2FCY8b"
-        }
-      ],
-      "duration_ms": 92398,
-      "name": "Incancellabili",
-      "url": "https://open.spotify.com/track/4AeDoNfWfHsfXEu0j9J4Fs"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
         "name": "Sedato e Deluso",
         "url": "https://open.spotify.com/album/7kIEYHH4kTmUmU2r8Uzler"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 202744,
       "name": "Sedato e Deluso",
       "url": "https://open.spotify.com/track/531bbjLIkNTtEGtRvWVCxo"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
+        "name": "Incancellabili",
+        "url": "https://open.spotify.com/album/4d9czstc4DH4gLOR40QCAt"
+      },
+      "artists": [
+        {
+          "name": "Poet",
+          "url": "https://open.spotify.com/artist/0vhFnK8A5YPnVWLlwu2IHs"
+        },
+        {
+          "name": "Otalay",
+          "url": "https://open.spotify.com/artist/3RuR9IVE8ErUJaeI2FCY8b"
+        }
+      ],
+      "duration_ms": 92398,
+      "name": "Incancellabili",
+      "url": "https://open.spotify.com/track/4AeDoNfWfHsfXEu0j9J4Fs"
     },
     {
       "added_at": "2024-02-29 23:01:00",
@@ -1411,6 +1411,26 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
+        "name": "Shama \u00e8 buono",
+        "url": "https://open.spotify.com/album/4XWdTJr5axPt4DAZRkEpOX"
+      },
+      "artists": [
+        {
+          "name": "Shama24k",
+          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
+        },
+        {
+          "name": "Mike Defunto",
+          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
+        }
+      ],
+      "duration_ms": 144750,
+      "name": "Shama \u00e8 buono",
+      "url": "https://open.spotify.com/track/73sBRhhyCwGx8VtdGHhwcl"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
         "name": "Ceramica",
         "url": "https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD"
       },
@@ -1431,22 +1451,6 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
-        "name": "OSIRIDE",
-        "url": "https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq"
-      },
-      "artists": [
-        {
-          "name": "Nashley",
-          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
-        }
-      ],
-      "duration_ms": 200571,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/2BOzEweKLKbBdP6szSatP7"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
         "name": "Torner\u00f2",
         "url": "https://open.spotify.com/album/4m9U7MMcVrA3V7T88SUObz"
       },
@@ -1463,22 +1467,18 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
-        "name": "Shama \u00e8 buono",
-        "url": "https://open.spotify.com/album/4XWdTJr5axPt4DAZRkEpOX"
+        "name": "OSIRIDE",
+        "url": "https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq"
       },
       "artists": [
         {
-          "name": "Shama24k",
-          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
-        },
-        {
-          "name": "Mike Defunto",
-          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
+          "name": "Nashley",
+          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
         }
       ],
-      "duration_ms": 144750,
-      "name": "Shama \u00e8 buono",
-      "url": "https://open.spotify.com/track/73sBRhhyCwGx8VtdGHhwcl"
+      "duration_ms": 200571,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/2BOzEweKLKbBdP6szSatP7"
     },
     {
       "added_at": "2024-02-29 23:01:00",
@@ -1551,38 +1551,6 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
-        "name": "Winston Blue",
-        "url": "https://open.spotify.com/album/0M95QrJhwkP2WHdX8ECfHT"
-      },
-      "artists": [
-        {
-          "name": "WECH PUTO",
-          "url": "https://open.spotify.com/artist/6Y9tJfn6ECnWpZngpRIFfK"
-        }
-      ],
-      "duration_ms": 151013,
-      "name": "Winston Blue",
-      "url": "https://open.spotify.com/track/78WU5Aet5mAFziFp8Xtd1i"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
-        "name": "Semprerosa",
-        "url": "https://open.spotify.com/album/3MJ7R3kUKul3A0doEctV1F"
-      },
-      "artists": [
-        {
-          "name": "Nisba",
-          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
-        }
-      ],
-      "duration_ms": 200153,
-      "name": "Semprerosa",
-      "url": "https://open.spotify.com/track/6RB3isukO4wmazoaJa4rC6"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
         "name": "Lacrime",
         "url": "https://open.spotify.com/album/5drTfTuBNR87cXnyJdn7En"
       },
@@ -1603,6 +1571,22 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
+        "name": "Winston Blue",
+        "url": "https://open.spotify.com/album/0M95QrJhwkP2WHdX8ECfHT"
+      },
+      "artists": [
+        {
+          "name": "WECH PUTO",
+          "url": "https://open.spotify.com/artist/6Y9tJfn6ECnWpZngpRIFfK"
+        }
+      ],
+      "duration_ms": 151013,
+      "name": "Winston Blue",
+      "url": "https://open.spotify.com/track/78WU5Aet5mAFziFp8Xtd1i"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
         "name": "TAXI DRIVER (MTV Unplugged)",
         "url": "https://open.spotify.com/album/3cZPj6lCLw8aia3nAiNKo8"
       },
@@ -1615,6 +1599,38 @@
       "duration_ms": 205358,
       "name": "APNEA - MTV Unplugged",
       "url": "https://open.spotify.com/track/3DP8cUzSO9tJx7tGShuS4c"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
+        "name": "Semprerosa",
+        "url": "https://open.spotify.com/album/3MJ7R3kUKul3A0doEctV1F"
+      },
+      "artists": [
+        {
+          "name": "Nisba",
+          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+        }
+      ],
+      "duration_ms": 200153,
+      "name": "Semprerosa",
+      "url": "https://open.spotify.com/track/6RB3isukO4wmazoaJa4rC6"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
+        "name": "giusti nei momenti sbagliati",
+        "url": "https://open.spotify.com/album/6JFpUqpSF1TP2xDJfovFXq"
+      },
+      "artists": [
+        {
+          "name": "venerd\u00ec",
+          "url": "https://open.spotify.com/artist/0v9674wp1zmIxhlfpjBXfo"
+        }
+      ],
+      "duration_ms": 119274,
+      "name": "giusti nei momenti sbagliati",
+      "url": "https://open.spotify.com/track/5JRfYMzHxPVikYYOWEBKUn"
     },
     {
       "added_at": "2024-02-29 23:01:00",
@@ -1663,38 +1679,6 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
-        "name": "Hai fatto tardi",
-        "url": "https://open.spotify.com/album/24zYSQ7kCKJix98rGkGn5m"
-      },
-      "artists": [
-        {
-          "name": "Nisba",
-          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
-        }
-      ],
-      "duration_ms": 172923,
-      "name": "Hai fatto tardi",
-      "url": "https://open.spotify.com/track/1JcIxBJtgklUN9Sl2Rdla2"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
-        "name": "giusti nei momenti sbagliati",
-        "url": "https://open.spotify.com/album/6JFpUqpSF1TP2xDJfovFXq"
-      },
-      "artists": [
-        {
-          "name": "venerd\u00ec",
-          "url": "https://open.spotify.com/artist/0v9674wp1zmIxhlfpjBXfo"
-        }
-      ],
-      "duration_ms": 119274,
-      "name": "giusti nei momenti sbagliati",
-      "url": "https://open.spotify.com/track/5JRfYMzHxPVikYYOWEBKUn"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
         "name": "AUTORITRATTO",
         "url": "https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 137008,
       "name": "ME & YOU",
       "url": "https://open.spotify.com/track/6aUqWalFUc8uaPRbnx4Drq"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
+        "name": "Attacco di Panico",
+        "url": "https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli"
+      },
+      "artists": [
+        {
+          "name": "Lost Kids",
+          "url": "https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6"
+        }
+      ],
+      "duration_ms": 145750,
+      "name": "Attacco di Panico",
+      "url": "https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86"
     },
     {
       "added_at": "2024-02-29 23:01:00",

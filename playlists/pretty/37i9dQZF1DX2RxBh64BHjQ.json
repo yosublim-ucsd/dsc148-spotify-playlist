@@ -1,12 +1,12 @@
 {
   "description": "The official voice of the next generation. Cover: <a href=\"spotify:artist:3BAgmPNIK5IJl7zMK1wvMA\">That Mexican OT</a>",
-  "num_followers": 2769660,
+  "num_followers": 2769692,
   "original_name": "Most Necessary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODIxMzlmNDdmMTVmNmU1MjIxMGUwYjQzODk4Y2ZmNTJiY2I3MjQ3",
+  "snapshot_id": "MCxmM2RhMGJkYjM1ODcxYzZmZGNlZDJkMWFjMGQ3YmMyY2UxNjZiZTAw",
   "tracks": [
     {
       "added_at": "2024-03-01 05:05:41",
@@ -335,7 +335,7 @@
     {
       "added_at": "2024-03-01 05:05:41",
       "album": {
-        "name": "JAPANESE DENIM (feat. Veeze)",
+        "name": "JAPANESE DENIM (feat. Veeze & LUCKI)",
         "url": "https://open.spotify.com/album/5m3BPYBaanarQy8hXJ7XoZ"
       },
       "artists": [
@@ -344,16 +344,16 @@
           "url": "https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg"
         },
         {
-          "name": "LUCKI",
-          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
-        },
-        {
           "name": "Veeze",
           "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        },
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
         }
       ],
       "duration_ms": 127442,
-      "name": "JAPANESE DENIM (feat. Veeze)",
+      "name": "JAPANESE DENIM (feat. Veeze & LUCKI)",
       "url": "https://open.spotify.com/track/7IRBVTWua5balW0xUJHmUF"
     },
     {

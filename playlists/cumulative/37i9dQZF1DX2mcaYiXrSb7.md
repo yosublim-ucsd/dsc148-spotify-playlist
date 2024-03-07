@@ -4,7 +4,7 @@
 
 > Head In The Clouds Festival is heading to NYC for the first time ever\. Hear all the acts right here!
 
-52 songs - 2 hr 49 min
+53 songs - 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [All Tinted](https://open.spotify.com/track/5T5zdXB8MNCGFTspLY45rN) | [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb) | [All Tinted](https://open.spotify.com/album/2oAx5hF8vyIQoHgeASn5tE) | 3:18 | 2023-05-17 |  |
 | [Angels Landing](https://open.spotify.com/track/7z8zdcW66DyZ931P6BjnX7) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [FrostTop](https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4) | [Angels Landing](https://open.spotify.com/album/6HmjU8l5u5jmG8Mtrp6jRn) | 3:53 | 2023-05-17 |  |
 | [Angry](https://open.spotify.com/track/46yC5Rfbg3x7AfrZb03c6N) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Angry](https://open.spotify.com/album/2L8qlmvnwChGR7OCNPTqY5) | 2:50 | 2023-05-17 |  |
-| [Arriba](https://open.spotify.com/track/0QLFKzTQT6MA4nRIK5HyQn) | [Spence Lee](https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa) | [Arriba](https://open.spotify.com/album/2dFoy8YDiSr8kJWUYlfjgY) | 3:37 | 2023-05-17 |  |
+| [Arriba](https://open.spotify.com/track/0QLFKzTQT6MA4nRIK5HyQn) | [Spence Lee](https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa) | [Arriba](https://open.spotify.com/album/2dFoy8YDiSr8kJWUYlfjgY) | 3:37 | 2023-05-17 | 2024-03-07 |
+| [Arriba](https://open.spotify.com/track/5ywQZbJKXBmErbAxdwSNgL) | [Spence Lee](https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa) | [Arriba](https://open.spotify.com/album/4n2ynG8fC22AJgZQe1HPQE) | 3:37 | 2023-05-17 |  |
 | [Baby's Couch](https://open.spotify.com/track/2NGqRizc9xBsFmeJm7DyQM) | [Veegee](https://open.spotify.com/artist/6tB7xUuz0gpJL88nhmJpz1) | [Hit The Road](https://open.spotify.com/album/2j5JXG1XSZrHcMm95CuAzv) | 4:05 | 2023-05-17 |  |
 | [Backburner \- Live at The Wiltern](https://open.spotify.com/track/1si6omu7DE4Lbe8XwQdUlw) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Live at The Wiltern](https://open.spotify.com/album/5c1fmlSOORNH00q9VyaaWF) | 3:57 | 2023-05-17 |  |
 | [Ballroom Extravaganza](https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In To Order](https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ) | 3:09 | 2023-05-17 |  |

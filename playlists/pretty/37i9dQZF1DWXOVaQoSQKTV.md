@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 
 > Get ready for the final season, nerds\. Listen to the music from Never Have I Ever, new episodes now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,703 likes - 186 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,719 likes - 186 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 | 81 | [2073](https://open.spotify.com/track/0ID7fpz1o79wVyC3fPxfLx) | [Noir Disco](https://open.spotify.com/artist/0LVkiEQZaCHTjndtKhJpz7) | [NOW! 2073](https://open.spotify.com/album/1BNENBjSOqNsCAyaPLSgvu) | 3:17 |
 | 82 | [You and I](https://open.spotify.com/track/27Y30D0H9GbnXizb51SiVG) | [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Nice to Meet U](https://open.spotify.com/album/0SSHBehokP8u9nrVwHnXE3) | 3:41 |
 | 83 | [I've Been Feeling Something Lately](https://open.spotify.com/track/3EO2tbD6EAqbGAr1ODLUS5) | [Goodside](https://open.spotify.com/artist/38N4TZHanJmY2keCuAIpRJ) | [I've Been Feeling Something Lately](https://open.spotify.com/album/4371qGYnCoQPaGfRqQCHH9) | 3:10 |
-| 84 | [Nothing But Love](https://open.spotify.com/track/7nYXQduObANN1JWh67XQ14) | [Caitlyn Scarlett](https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU), [Raf Riley](https://open.spotify.com/artist/1K7GjRGPXx2I8FJ1iBW85L) | [Nothing But Love](https://open.spotify.com/album/2aj8MSCw8Iv0ImkGNixyvq) | 3:02 |
+| 84 | [Nothing But Love](https://open.spotify.com/track/08XQynq4cTbNaQtk8fPqeQ) | [Caitlyn Scarlett](https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU), [Raf Riley](https://open.spotify.com/artist/1K7GjRGPXx2I8FJ1iBW85L) | [Nothing But Love](https://open.spotify.com/album/5B5Qx2uz2gQb4TJAnVB3JL) | 3:02 |
 | 85 | [Bitter Leaf](https://open.spotify.com/track/4NfmgQBtbe0YesCwGHU8Ne) | [LANKS](https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb) | [twentyseven](https://open.spotify.com/album/0v2z0fKHodbzjESXdmEEEt) | 3:10 |
 | 86 | [Passion](https://open.spotify.com/track/3yydZof4pq6N4zeyTzLwQk) | [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [BOY](https://open.spotify.com/album/4ZpCZs3zu8tFnJL0vrQIh1) | 2:12 |
 | 87 | [Higher Lows and Lower Highs](https://open.spotify.com/track/4Z0CZgpT8gQwIRwEDh5Cnf) | [Cut Off Your Hands](https://open.spotify.com/artist/3XKuC56yvsH5bnNCjqRvcS) | [Higher Lows and Lower Highs](https://open.spotify.com/album/1v2XgsrDrGzOyCUFkTlDoo) | 4:58 |
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 | 185 | [Beautiful Day](https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g) | 4:06 |
 | 186 | [Boys Like You](https://open.spotify.com/track/2i8zKNkcMQMjztKdNQrYx4) | [Kids At Midnight](https://open.spotify.com/artist/0PUDa7NkXCsMPeFUPLdTAs) | [Boys Like You](https://open.spotify.com/album/10vIxKjxQTtnWc9cA3t4EH) | 3:50 |
 
-Snapshot ID: `MCw5OTJkN2VkMzY4NzI5MzM2MWY5MzRiYjcwMTgyYjc0MGRkMzA3YTRj`
+Snapshot ID: `MCxjNDljZTY5YTg4OTYyYmViYjdmNDgxZWU0ZjkyNTc0ZWFlZTZmMmNk`

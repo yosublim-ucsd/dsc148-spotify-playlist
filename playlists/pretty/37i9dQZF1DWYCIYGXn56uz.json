@@ -1,15 +1,31 @@
 {
   "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Il Tre",
-  "num_followers": 384393,
+  "num_followers": 384419,
   "original_name": "GENERAZIONE Z",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjZkNzE0YWFkZTRmMmNhY2I2ZWM0MDA2MWI5MWQxOWIwMWM0ZGIz",
+  "snapshot_id": "MCw5YTQ1NDUyOTkwM2I3ODUyNDQwMTg2Y2Y5NmU3Nzk1NGNhNWY4MTA2",
   "tracks": [
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
+      "album": {
+        "name": "SOLO STANOTTE",
+        "url": "https://open.spotify.com/album/5nCdwVW2ylZVW9NhPET9pu"
+      },
+      "artists": [
+        {
+          "name": "Holden",
+          "url": "https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP"
+        }
+      ],
+      "duration_ms": 222701,
+      "name": "SOLO STANOTTE",
+      "url": "https://open.spotify.com/track/3w7U6hoes2QzFZB10DSp0h"
+    },
+    {
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "FRAGILI",
         "url": "https://open.spotify.com/album/3hNEfoTFpxiA1Car8tVdy5"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/6mhZd9yNJpyT2Qynx9FuhI"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "PRIMO",
         "url": "https://open.spotify.com/album/7EV8pGuFCChzOPmcopNQ4t"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/6ESqYk01s6jNv0YFv2vguz"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "Vai!",
         "url": "https://open.spotify.com/album/78oiHnbmYm8jUidFHcAeWL"
@@ -57,7 +73,23 @@
       "url": "https://open.spotify.com/track/02fHDy3xEetr1EX6qw3Cas"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
+      "album": {
+        "name": "FIGHT CLUB",
+        "url": "https://open.spotify.com/album/66HO7R2mEK0QLCe93HCP1L"
+      },
+      "artists": [
+        {
+          "name": "Mida",
+          "url": "https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe"
+        }
+      ],
+      "duration_ms": 150500,
+      "name": "FIGHT CLUB",
+      "url": "https://open.spotify.com/track/6EDyIAfRKxJTs4a8ROuRZd"
+    },
+    {
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "DIAMANTI GREZZI",
         "url": "https://open.spotify.com/album/11KJdw9RyMJwFABzPBaALV"
@@ -73,7 +105,7 @@
       "url": "https://open.spotify.com/track/3To8zpX92dTdhtORefjgyV"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "DUE ALTALENE",
         "url": "https://open.spotify.com/album/7EylvV3blFKLH2ZQDW6CWl"
@@ -89,7 +121,7 @@
       "url": "https://open.spotify.com/track/6m4z69VDQ7zB2JQzTeWNom"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "NUVOLA",
         "url": "https://open.spotify.com/album/1ONjw8s42tymCBK8FGmiAk"
@@ -105,7 +137,7 @@
       "url": "https://open.spotify.com/track/305DlkOzRc0TYoKQr00Kud"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "La noia",
         "url": "https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI"
@@ -121,7 +153,23 @@
       "url": "https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
+      "album": {
+        "name": "TORNERAI",
+        "url": "https://open.spotify.com/album/7geUvKup79dU463axKiEzG"
+      },
+      "artists": [
+        {
+          "name": "Petit",
+          "url": "https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde"
+        }
+      ],
+      "duration_ms": 184513,
+      "name": "TORNERAI",
+      "url": "https://open.spotify.com/track/2LfKtUw3HazdlUl1k5tDcw"
+    },
+    {
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "ROSSOFUOCO",
         "url": "https://open.spotify.com/album/4r6P74TpYpXFgHam09a8KA"
@@ -137,7 +185,7 @@
       "url": "https://open.spotify.com/track/5B5p5w9QV0QFBsnASmtL24"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "MI ODIERAI",
         "url": "https://open.spotify.com/album/7rUUGvVIkru8hoJYd21OlT"
@@ -153,7 +201,7 @@
       "url": "https://open.spotify.com/track/6eumBM7ThMaSPPGRlWZfWM"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "Papaya",
         "url": "https://open.spotify.com/album/4elBzZLFdhXTNqEvRxqSzQ"
@@ -169,7 +217,23 @@
       "url": "https://open.spotify.com/track/4nyRpOBvLUhwMVNAQ7rZwf"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
+      "album": {
+        "name": "ORO ORO ORO",
+        "url": "https://open.spotify.com/album/4oY3Jk21YVZAoeRTI7vLun"
+      },
+      "artists": [
+        {
+          "name": "Nahaze",
+          "url": "https://open.spotify.com/artist/4lH0PRAS3yV8O05E5lTqwk"
+        }
+      ],
+      "duration_ms": 150769,
+      "name": "ORO ORO ORO",
+      "url": "https://open.spotify.com/track/4Re4W6U6JgSGPGPoyiZFyr"
+    },
+    {
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "Fila indiana",
         "url": "https://open.spotify.com/album/68GC0n66xwvHhuAL8aJ9rM"
@@ -185,7 +249,7 @@
       "url": "https://open.spotify.com/track/1H36kJUqLOHLSL98XQBRFU"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "AUTODISTRUTTIVO",
         "url": "https://open.spotify.com/album/1M06XJqOcsMo0kCroZzl0q"
@@ -201,7 +265,7 @@
       "url": "https://open.spotify.com/track/3ZcpVnBJguv1WVeMG44i2M"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "La rabbia non ti basta",
         "url": "https://open.spotify.com/album/7rex9i7hSRRzJAlRdm3xle"
@@ -217,7 +281,7 @@
       "url": "https://open.spotify.com/track/0CjNKLqvr5tDvepagOIKlu"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "GOVERNO PUNK",
         "url": "https://open.spotify.com/album/4I20c4niAvrvALPHZ7Nw9p"
@@ -233,7 +297,7 @@
       "url": "https://open.spotify.com/track/7He9P5gjaE4cmQOquezZnl"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "EVERYDAY (feat. Shiva, ANNA, Geolier)",
         "url": "https://open.spotify.com/album/7qm8bQi1fUSQoo1jUjjLIs"
@@ -261,7 +325,7 @@
       "url": "https://open.spotify.com/track/20bTkdvyWZjO4ORHmzXQR4"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "UN MILIONE DI NOTTI",
         "url": "https://open.spotify.com/album/0Pn7cZPPgzGwugQ2QgrlPV"
@@ -281,7 +345,7 @@
       "url": "https://open.spotify.com/track/2ro9FlKCYKTLHB6Ke7Uqld"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "DIMMI CHE NON \u00c8 UN ADDIO",
         "url": "https://open.spotify.com/album/6U5GyoLm2UlkuMFAWMQ0s7"
@@ -297,7 +361,7 @@
       "url": "https://open.spotify.com/track/3nIDXarK9FuClYwZQTSoK2"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "Bruciasse Il Cielo",
         "url": "https://open.spotify.com/album/287CrEdqq6UiWAMeteSZsk"
@@ -313,7 +377,7 @@
       "url": "https://open.spotify.com/track/6abfPlw55MvGAUEpG56R2y"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "finiscimi",
         "url": "https://open.spotify.com/album/0KPFdlJaeqxhaiif2mcXP3"
@@ -329,7 +393,7 @@
       "url": "https://open.spotify.com/track/2c0lqanQ7Yz8f7VaAfgqqt"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "ALLERGICA ALLE FRAGOLE",
         "url": "https://open.spotify.com/album/3uaa9er9i5Qmpq64qmS8N5"
@@ -345,7 +409,7 @@
       "url": "https://open.spotify.com/track/0hYdFsDUc23IOXCra6ddkB"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "ROMA",
         "url": "https://open.spotify.com/album/4dW1fBOZW6iy5ndUTX5hOI"
@@ -361,7 +425,7 @@
       "url": "https://open.spotify.com/track/1RTrSZow3zzUQ1Q2B95d3z"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "Parlami",
         "url": "https://open.spotify.com/album/1XWrPc7GoTh1vQ5WAd575N"
@@ -381,7 +445,7 @@
       "url": "https://open.spotify.com/track/00QN58Gx571pB1MEuBAcmL"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "Innamorato",
         "url": "https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP"
@@ -397,7 +461,7 @@
       "url": "https://open.spotify.com/track/1k3CKhRz8iK3GNfTQu32eH"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "Altamente Mia",
         "url": "https://open.spotify.com/album/2DsrAMSZE08IvsVnluai0A"
@@ -417,7 +481,7 @@
       "url": "https://open.spotify.com/track/0hReXAWKqGzHBYnw0S1CXu"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "INVISIBILI",
         "url": "https://open.spotify.com/album/6iT3GIpurtTE3MiMB0VxQL"
@@ -433,7 +497,7 @@
       "url": "https://open.spotify.com/track/1XhRxRUsnqbnWUGwTEDtJC"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "Non dimenticare",
         "url": "https://open.spotify.com/album/3vTRhTcI2ieRik3jcxw4er"
@@ -449,7 +513,7 @@
       "url": "https://open.spotify.com/track/1cxwdeMHwOJx1L6U9UVEwx"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "il problema ero io",
         "url": "https://open.spotify.com/album/0ACp7I86LSwsRr4NCOMp16"
@@ -465,7 +529,7 @@
       "url": "https://open.spotify.com/track/1IW2xjoKjXIRsWHAY6y2S8"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "La Notte Vola - RMX (feat. Lorella Cuccarini)",
         "url": "https://open.spotify.com/album/3yaTIPOD3iR079s8cfB0wA"
@@ -489,7 +553,7 @@
       "url": "https://open.spotify.com/track/6wzhvovM1fT42S71JLZpNv"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "bellissimissima <3",
         "url": "https://open.spotify.com/album/2uKdFaQMLtLkOHthm855ns"
@@ -505,7 +569,7 @@
       "url": "https://open.spotify.com/track/2qrCResILkL1JFeRBrv3qA"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "Anni 70",
         "url": "https://open.spotify.com/album/3CH6Le8XzQhnzWMQBELzmE"
@@ -521,7 +585,7 @@
       "url": "https://open.spotify.com/track/4gExrhPC8TKtMqbO6MrjAP"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "ORA D'ARIA",
         "url": "https://open.spotify.com/album/3e3QTPyeIRp0lkTdbAWgxC"
@@ -537,7 +601,7 @@
       "url": "https://open.spotify.com/track/5HyTee9UYav7DYngohVycc"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "Ancora",
         "url": "https://open.spotify.com/album/6ZEXxjoXce42TAPSQtzCs6"
@@ -553,7 +617,7 @@
       "url": "https://open.spotify.com/track/7kvQDzIegURcWHLC0fZfrQ"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "Niente da perdere",
         "url": "https://open.spotify.com/album/73llI6vpyKmE5Na0tlGMca"
@@ -569,7 +633,7 @@
       "url": "https://open.spotify.com/track/3HiQ6Tn1mWVgYDLgeaxjS5"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "Tutto con te",
         "url": "https://open.spotify.com/album/1kcuGFGOcoGsWi2GUTdwFJ"
@@ -589,7 +653,7 @@
       "url": "https://open.spotify.com/track/7CPbIZIGKE8tPLUuLMVujK"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "Viole e Violini",
         "url": "https://open.spotify.com/album/6FPMkD4uAvcGVYxLQ0bm7Y"
@@ -605,7 +669,7 @@
       "url": "https://open.spotify.com/track/60ir328nxqnjOLXxvsqmHm"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "Bella",
         "url": "https://open.spotify.com/album/66RYsaXoAIodtHYI7iKFZP"
@@ -625,7 +689,7 @@
       "url": "https://open.spotify.com/track/3vdJE5XWVax2kVs6OTJzWM"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "VIVO",
         "url": "https://open.spotify.com/album/2IokIZBdDMvu0nayy0ZEEB"
@@ -641,7 +705,7 @@
       "url": "https://open.spotify.com/track/5Z94e6QpyQI50ehSfeeLy3"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "Pop Corn e patatine RMX",
         "url": "https://open.spotify.com/album/2zFbkDYonDRzA6zf0M7zDx"
@@ -661,7 +725,7 @@
       "url": "https://open.spotify.com/track/1ovirVCRbRPiDttcIxqWus"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "CHI SONO VERAMENTE EP",
         "url": "https://open.spotify.com/album/5fEPgkaJVP12LRMZ5T6fhI"
@@ -677,7 +741,7 @@
       "url": "https://open.spotify.com/track/5Xxz4XYpz2aViGUfW50Y4O"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "MENOMALE CHE HO TE",
         "url": "https://open.spotify.com/album/4mNjZY5GyNDvGdwLc0Weyn"
@@ -693,7 +757,7 @@
       "url": "https://open.spotify.com/track/0dOm0iLzyIP7EtpdGwk4M4"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "Guagli\u00f2",
         "url": "https://open.spotify.com/album/3dAu3bFbyABqhGonrsIJcS"
@@ -709,7 +773,7 @@
       "url": "https://open.spotify.com/track/3XUBw8wZ3lyokCTYjVa6pH"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "Si \u00e8 spenta anche la luna - LUNA",
         "url": "https://open.spotify.com/album/0XMf0lGQAJmxdo2r9x1ob0"
@@ -725,7 +789,7 @@
       "url": "https://open.spotify.com/track/2nWVJWO9bQRH6OsvG5bWIO"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "MERCOLED\u00cc MAI",
         "url": "https://open.spotify.com/album/7Ib2YfkSm802GqCNw5RNnk"
@@ -741,7 +805,7 @@
       "url": "https://open.spotify.com/track/6QxdN1k7aMhkFiTmuFRUPs"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "giusti nei momenti sbagliati",
         "url": "https://open.spotify.com/album/6JFpUqpSF1TP2xDJfovFXq"
@@ -757,7 +821,7 @@
       "url": "https://open.spotify.com/track/5JRfYMzHxPVikYYOWEBKUn"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "Non so chi ha creato il mondo ma so che era innamorato",
         "url": "https://open.spotify.com/album/5I60YSIaGjXDuR7TOIiHgl"
@@ -773,7 +837,7 @@
       "url": "https://open.spotify.com/track/3UMayUk8vyZ76MAkKmxiYG"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "Assurdo",
         "url": "https://open.spotify.com/album/1m64K87nJYI6lwpCQKET7h"
@@ -789,7 +853,7 @@
       "url": "https://open.spotify.com/track/3ZXL0jrjFsK5tlMifAohYg"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "CHE FAI",
         "url": "https://open.spotify.com/album/0ZuHFQf7VRevzAHfXBbjah"
@@ -805,7 +869,7 @@
       "url": "https://open.spotify.com/track/2sTg9dCPOJKJ52BnZGRoBt"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "Unica Stronza",
         "url": "https://open.spotify.com/album/0bfWCcxp6wgKCPdFQpox0O"
@@ -821,7 +885,7 @@
       "url": "https://open.spotify.com/track/3Ilv72auWQ1GKbxxfnxDop"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "DIAMANTI",
         "url": "https://open.spotify.com/album/21ZS1meqFOHjtm9uL85pK9"
@@ -837,7 +901,7 @@
       "url": "https://open.spotify.com/track/4L55Pn45FpcUCrBH7EN24p"
     },
     {
-      "added_at": "2024-02-29 23:01:00",
+      "added_at": "2024-03-06 15:36:19",
       "album": {
         "name": "La parte pi\u00f9 bella di me (RMX)",
         "url": "https://open.spotify.com/album/2Knm3BBycBMixIas269Ik2"

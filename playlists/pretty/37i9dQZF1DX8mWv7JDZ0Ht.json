@@ -1,12 +1,12 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: Braga, KVSH",
-  "num_followers": 434005,
+  "num_followers": 434032,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzYzZmQxN2UyMzA3OTlkZjVlMzRjOGZiMzE1MThmMDRmZmIwNGM4",
+  "snapshot_id": "MCw1YTU4NmQwZmMwZjVkNTI0Y2VhYWE2OWY4NGFmOTE2YjQzYTVhOTFm",
   "tracks": [
     {
       "added_at": "2024-03-01 03:00:00",
@@ -219,6 +219,22 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
+        "name": "LAGUM AO VIVO",
+        "url": "https://open.spotify.com/album/5A0jHf8QLPjqBEut4WE4ch"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 158295,
+      "name": "Outro Algu\u00e9m - Ao Vivo",
+      "url": "https://open.spotify.com/track/64yBHtShxbb2ULPhakxsJv"
+    },
+    {
+      "added_at": "2024-03-01 03:00:00",
+      "album": {
         "name": "Mela\u00e7o",
         "url": "https://open.spotify.com/album/5pZ1zk3DLNDExO5Bh1RiWT"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 163240,
       "name": "Mela\u00e7o",
       "url": "https://open.spotify.com/track/1iyoJQl1IuG7wwH0mDXRy7"
-    },
-    {
-      "added_at": "2024-03-01 03:00:00",
-      "album": {
-        "name": "LAGUM AO VIVO",
-        "url": "https://open.spotify.com/album/5A0jHf8QLPjqBEut4WE4ch"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 158295,
-      "name": "Outro Algu\u00e9m - Ao Vivo",
-      "url": "https://open.spotify.com/track/64yBHtShxbb2ULPhakxsJv"
     },
     {
       "added_at": "2024-03-01 03:00:00",
@@ -327,6 +327,22 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
+        "name": "Encantos Mil",
+        "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
+      },
+      "artists": [
+        {
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+        }
+      ],
+      "duration_ms": 168637,
+      "name": "Encantos Mil",
+      "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
+    },
+    {
+      "added_at": "2024-03-01 03:00:00",
+      "album": {
         "name": "Resposta",
         "url": "https://open.spotify.com/album/6fPQatXeKSpZuyNKj5adbD"
       },
@@ -367,22 +383,6 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
-        "name": "Encantos Mil",
-        "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
-      },
-      "artists": [
-        {
-          "name": "Mericia",
-          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
-        }
-      ],
-      "duration_ms": 168637,
-      "name": "Encantos Mil",
-      "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
-    },
-    {
-      "added_at": "2024-03-01 03:00:00",
-      "album": {
         "name": "Amor De Ver\u00e3o",
         "url": "https://open.spotify.com/album/6RKr8YiH8S8vRiwatSS2E7"
       },
@@ -399,22 +399,18 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
-        "name": "Carinha De Problema",
-        "url": "https://open.spotify.com/album/1dABET9ANzLH053hXWtfoD"
+        "name": "que mal que tem?",
+        "url": "https://open.spotify.com/album/6pW5TIwS6JWSQyOiZ1e9oY"
       },
       "artists": [
         {
           "name": "Clara Valverde",
           "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
         }
       ],
-      "duration_ms": 163258,
-      "name": "Carinha De Problema",
-      "url": "https://open.spotify.com/track/6vbMrA3aVBPRW1ywKVDEYa"
+      "duration_ms": 157708,
+      "name": "que mal que tem?",
+      "url": "https://open.spotify.com/track/7I0Ysu8M7K8PEYeuhUi0Jl"
     },
     {
       "added_at": "2024-03-01 03:00:00",
@@ -511,18 +507,22 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
-        "name": "que mal que tem?",
-        "url": "https://open.spotify.com/album/6pW5TIwS6JWSQyOiZ1e9oY"
+        "name": "Carinha De Problema",
+        "url": "https://open.spotify.com/album/1dABET9ANzLH053hXWtfoD"
       },
       "artists": [
         {
           "name": "Clara Valverde",
           "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
         }
       ],
-      "duration_ms": 157708,
-      "name": "que mal que tem?",
-      "url": "https://open.spotify.com/track/7I0Ysu8M7K8PEYeuhUi0Jl"
+      "duration_ms": 163258,
+      "name": "Carinha De Problema",
+      "url": "https://open.spotify.com/track/6vbMrA3aVBPRW1ywKVDEYa"
     },
     {
       "added_at": "2024-03-01 03:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
-        "name": "Em Voc\u00ea",
-        "url": "https://open.spotify.com/album/3ReDz50ziIEzT11g81ROPz"
-      },
-      "artists": [
-        {
-          "name": "Pedro Pond\u00e9",
-          "url": "https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl"
-        }
-      ],
-      "duration_ms": 142750,
-      "name": "Em Voc\u00ea",
-      "url": "https://open.spotify.com/track/5BrgjbuLt8jjE52IgzA7iR"
-    },
-    {
-      "added_at": "2024-03-01 03:00:00",
-      "album": {
         "name": "Balada do Amor Inabal\u00e1vel",
         "url": "https://open.spotify.com/album/10mKCtbO1jF7p3CUbIQaJE"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 142144,
       "name": "Balada do Amor Inabal\u00e1vel",
       "url": "https://open.spotify.com/track/4f4qGGCOjLVT1Y89n2yELB"
+    },
+    {
+      "added_at": "2024-03-01 03:00:00",
+      "album": {
+        "name": "Em Voc\u00ea",
+        "url": "https://open.spotify.com/album/3ReDz50ziIEzT11g81ROPz"
+      },
+      "artists": [
+        {
+          "name": "Pedro Pond\u00e9",
+          "url": "https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl"
+        }
+      ],
+      "duration_ms": 142750,
+      "name": "Em Voc\u00ea",
+      "url": "https://open.spotify.com/track/5BrgjbuLt8jjE52IgzA7iR"
     },
     {
       "added_at": "2024-03-01 03:00:00",
@@ -823,8 +823,8 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
-        "name": "Quando isso vai passar?",
-        "url": "https://open.spotify.com/album/66jTl9rLZaXN0yMH4j6biH"
+        "name": "Beijos de artif\u00edcio",
+        "url": "https://open.spotify.com/album/3CFAqEIXUM7AFu4gngcwQw"
       },
       "artists": [
         {
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
         }
       ],
-      "duration_ms": 156466,
-      "name": "Quando isso vai passar?",
-      "url": "https://open.spotify.com/track/2ydOTMH0LViI8b9tRp1WOp"
+      "duration_ms": 232331,
+      "name": "Beijos de artif\u00edcio",
+      "url": "https://open.spotify.com/track/7ePoRoOa6Xl2IsvaZfyeeA"
     },
     {
       "added_at": "2024-03-01 03:00:00",
@@ -935,8 +935,8 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
-        "name": "Beijos de artif\u00edcio",
-        "url": "https://open.spotify.com/album/3CFAqEIXUM7AFu4gngcwQw"
+        "name": "Quando isso vai passar?",
+        "url": "https://open.spotify.com/album/66jTl9rLZaXN0yMH4j6biH"
       },
       "artists": [
         {
@@ -944,9 +944,9 @@
           "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
         }
       ],
-      "duration_ms": 232331,
-      "name": "Beijos de artif\u00edcio",
-      "url": "https://open.spotify.com/track/7ePoRoOa6Xl2IsvaZfyeeA"
+      "duration_ms": 156466,
+      "name": "Quando isso vai passar?",
+      "url": "https://open.spotify.com/track/2ydOTMH0LViI8b9tRp1WOp"
     },
     {
       "added_at": "2024-03-01 03:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
-        "name": "Montanha Russa",
-        "url": "https://open.spotify.com/album/0FsbGXA20E9n6gGghVuiXp"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Aguiar",
-          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
-        }
-      ],
-      "duration_ms": 170965,
-      "name": "Montanha Russa",
-      "url": "https://open.spotify.com/track/4IsMyrJ3fRhSoh1BVfec4a"
-    },
-    {
-      "added_at": "2024-03-01 03:00:00",
-      "album": {
         "name": "Como Tinha Que Ser",
         "url": "https://open.spotify.com/album/29LkncPaO5OiMnKEOKZhMg"
       },
@@ -1015,18 +999,18 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
-        "name": "Fr\u00e1gil",
-        "url": "https://open.spotify.com/album/3118Bv0QT2WFC6aCmnNX9U"
+        "name": "Montanha Russa",
+        "url": "https://open.spotify.com/album/0FsbGXA20E9n6gGghVuiXp"
       },
       "artists": [
         {
-          "name": "Anna P\u00eago",
-          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
         }
       ],
-      "duration_ms": 145131,
-      "name": "O Que Eu Devia Ter Vivido",
-      "url": "https://open.spotify.com/track/4PfAuk2op4WbQf2cYmPFc1"
+      "duration_ms": 170965,
+      "name": "Montanha Russa",
+      "url": "https://open.spotify.com/track/4IsMyrJ3fRhSoh1BVfec4a"
     },
     {
       "added_at": "2024-03-01 03:00:00",
@@ -1055,22 +1039,18 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
-        "name": "MELODRAM\u00c1TICO",
-        "url": "https://open.spotify.com/album/2k78WzHmrbWkRfTtACqLP0"
+        "name": "Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/3118Bv0QT2WFC6aCmnNX9U"
       },
       "artists": [
         {
-          "name": "Dody",
-          "url": "https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs"
-        },
-        {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+          "name": "Anna P\u00eago",
+          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
         }
       ],
-      "duration_ms": 157565,
-      "name": "Desfa\u00e7o",
-      "url": "https://open.spotify.com/track/7GZp4mZWDd0CFv4j3B6ObX"
+      "duration_ms": 145131,
+      "name": "O Que Eu Devia Ter Vivido",
+      "url": "https://open.spotify.com/track/4PfAuk2op4WbQf2cYmPFc1"
     },
     {
       "added_at": "2024-03-01 03:00:00",
@@ -1091,6 +1071,26 @@
       "duration_ms": 163298,
       "name": "Dan\u00e7ando na Beira",
       "url": "https://open.spotify.com/track/1CJinr5iT6uvtlhfHlmPKb"
+    },
+    {
+      "added_at": "2024-03-01 03:00:00",
+      "album": {
+        "name": "MELODRAM\u00c1TICO",
+        "url": "https://open.spotify.com/album/2k78WzHmrbWkRfTtACqLP0"
+      },
+      "artists": [
+        {
+          "name": "Dody",
+          "url": "https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs"
+        },
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        }
+      ],
+      "duration_ms": 157565,
+      "name": "Desfa\u00e7o",
+      "url": "https://open.spotify.com/track/7GZp4mZWDd0CFv4j3B6ObX"
     },
     {
       "added_at": "2024-03-01 03:00:00",

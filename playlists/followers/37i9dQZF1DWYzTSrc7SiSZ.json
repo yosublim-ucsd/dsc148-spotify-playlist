@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 663526,
+  "2024-03-07": 663562,
   "date_first_scraped": "2022-05-26",
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
   "name": "chill latino",
@@ -225,6 +225,24 @@
       "duration_ms": 220687,
       "name": "Alguien M\u00e1s",
       "url": "https://open.spotify.com/track/63Ai8RJSEpJyHlCQ6Tq77h"
+    },
+    {
+      "album": {
+        "name": "Alguna Vez All\u00ed Algo Ardi\u00f3",
+        "url": "https://open.spotify.com/album/0Dh1uXVYiZ3TQs2KxmU3h3"
+      },
+      "artists": [
+        {
+          "name": "Mi Sobrino Memo",
+          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272130,
+      "name": "Alguna Vez All\u00ed Algo Ardi\u00f3",
+      "url": "https://open.spotify.com/track/1s0yEc9JnVtr23Ht8hlovv"
     },
     {
       "album": {
@@ -3001,7 +3019,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 164369,
       "name": "no est\u00e1s",
       "url": "https://open.spotify.com/track/7itgLKp7i4CmGi0FglXcbP"

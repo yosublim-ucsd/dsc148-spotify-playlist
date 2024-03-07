@@ -2,7 +2,7 @@
 
 ### [RAP 91](https://open.spotify.com/playlist/37i9dQZF1DX1ct2TQrAvRf)
 
-> India's Rap Scene\. Cover\- MC Square
+> India's Rap Scene\. Cover\- MC STAN
 
 143 songs - 8 hr 0 min
 

@@ -1,12 +1,12 @@
 {
   "description": "Country Music that rocks. Cover: Austin Snell",
-  "num_followers": 586587,
+  "num_followers": 586748,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGFjZjI0NTFhMGJiNjUzYjMxN2IxODRlODg1MWE3ODIzOWM5Njcx",
+  "snapshot_id": "MCwzYzY2ZjU0MTE4NjY3MWM5YWVmNDhkNGUwNDRhZGIwOWUzZTE1MmU5",
   "tracks": [
     {
       "added_at": "2024-03-01 05:01:00",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
-        "name": "s\u00f8n of dad",
-        "url": "https://open.spotify.com/album/1yoC2Wq50qymZj5HyF2z2A"
+        "name": "Like an Arrow",
+        "url": "https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0"
       },
       "artists": [
         {
-          "name": "Stephen Wilson Jr.",
-          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+          "name": "Blackberry Smoke",
+          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
         }
       ],
-      "duration_ms": 200720,
-      "name": "Year to Be Young 1994",
-      "url": "https://open.spotify.com/track/5bfYMxQP2oRIe0ZGLRuOED"
+      "duration_ms": 247008,
+      "name": "Waiting for the Thunder",
+      "url": "https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ"
     },
     {
       "added_at": "2024-03-01 05:01:00",
@@ -1395,38 +1395,6 @@
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
-        "name": "Like an Arrow",
-        "url": "https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0"
-      },
-      "artists": [
-        {
-          "name": "Blackberry Smoke",
-          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
-        }
-      ],
-      "duration_ms": 247008,
-      "name": "Waiting for the Thunder",
-      "url": "https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
-        "name": "Candle In The Dark",
-        "url": "https://open.spotify.com/album/3usMJx3KAQC39y4tAmKcRU"
-      },
-      "artists": [
-        {
-          "name": "Them Dirty Roses",
-          "url": "https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6"
-        }
-      ],
-      "duration_ms": 269667,
-      "name": "Candle In The Dark",
-      "url": "https://open.spotify.com/track/5NFZ0EDMwedt9fKXlDPNYm"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
         "name": "Ain't Nothin' to It",
         "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
       },
@@ -1447,6 +1415,22 @@
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
+        "name": "Candle In The Dark",
+        "url": "https://open.spotify.com/album/3usMJx3KAQC39y4tAmKcRU"
+      },
+      "artists": [
+        {
+          "name": "Them Dirty Roses",
+          "url": "https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6"
+        }
+      ],
+      "duration_ms": 269667,
+      "name": "Candle In The Dark",
+      "url": "https://open.spotify.com/track/5NFZ0EDMwedt9fKXlDPNYm"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
         "name": "Creeps",
         "url": "https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB"
       },
@@ -1459,22 +1443,6 @@
       "duration_ms": 226309,
       "name": "Creeps",
       "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
-        "name": "Made For This",
-        "url": "https://open.spotify.com/album/2oILhqKBizkC5tfTvh3J8T"
-      },
-      "artists": [
-        {
-          "name": "Ashley McBryde",
-          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
-        }
-      ],
-      "duration_ms": 223693,
-      "name": "Made For This",
-      "url": "https://open.spotify.com/track/7FR7CofCQiuyt75srjwhER"
     },
     {
       "added_at": "2024-03-01 05:01:00",
@@ -1499,6 +1467,38 @@
       "duration_ms": 155495,
       "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
       "url": "https://open.spotify.com/track/7ndDjjFDzw6Q68TmIzgHep"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "Made For This",
+        "url": "https://open.spotify.com/album/2oILhqKBizkC5tfTvh3J8T"
+      },
+      "artists": [
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        }
+      ],
+      "duration_ms": 223693,
+      "name": "Made For This",
+      "url": "https://open.spotify.com/track/7FR7CofCQiuyt75srjwhER"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "s\u00f8n of dad",
+        "url": "https://open.spotify.com/album/1yoC2Wq50qymZj5HyF2z2A"
+      },
+      "artists": [
+        {
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+        }
+      ],
+      "duration_ms": 200720,
+      "name": "Year to Be Young 1994",
+      "url": "https://open.spotify.com/track/5bfYMxQP2oRIe0ZGLRuOED"
     },
     {
       "added_at": "2024-03-01 05:01:00",
@@ -1571,26 +1571,22 @@
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
+        "name": "ALL GAS",
+        "url": "https://open.spotify.com/album/1seio61icD3MnJLTyeX3Cv"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Bilmuri",
+          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
         },
         {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
         }
       ],
-      "duration_ms": 233362,
-      "name": "(I Can\u2019t Get No) Satisfaction",
-      "url": "https://open.spotify.com/track/2vw3beLeIQSgMxi72RnJHn"
+      "duration_ms": 169915,
+      "name": "ALL GAS",
+      "url": "https://open.spotify.com/track/2THiSfWbMGD9l2g2Ircxga"
     },
     {
       "added_at": "2024-03-01 05:01:00",
@@ -1627,22 +1623,26 @@
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
-        "name": "ALL GAS",
-        "url": "https://open.spotify.com/album/1seio61icD3MnJLTyeX3Cv"
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
       },
       "artists": [
         {
-          "name": "Bilmuri",
-          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         },
         {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 169915,
-      "name": "ALL GAS",
-      "url": "https://open.spotify.com/track/2THiSfWbMGD9l2g2Ircxga"
+      "duration_ms": 233362,
+      "name": "(I Can\u2019t Get No) Satisfaction",
+      "url": "https://open.spotify.com/track/2vw3beLeIQSgMxi72RnJHn"
     },
     {
       "added_at": "2024-03-01 05:01:00",

@@ -2,7 +2,7 @@
 
 ### [EQUAL India](https://open.spotify.com/playlist/37i9dQZF1DX5KJJSIYaNvs)
 
-> Listen to women at full volume\. Cover \- Jonita Gandhi
+> Listen to women at full volume\. Cover \- Sunidhi Chauhan
 
 277 songs - 16 hr 11 min
 

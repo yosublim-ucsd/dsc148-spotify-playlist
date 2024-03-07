@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 41735,
+  "2024-03-07": 41750,
   "date_first_scraped": "2022-05-12",
   "description": "Sempre aggiornata. Con nuovi brani di Lazza, Kid Yugi, gli artisti di Nuova Scena e tanti altri. ",
   "name": "Novit\u00e0 Rap Italiano",
@@ -6097,7 +6097,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 144000,
       "name": "BAD VIBES",
       "url": "https://open.spotify.com/track/7dQifG3HCZODIup1leoDxY"
@@ -7575,7 +7575,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 131555,
       "name": "BENVENUTI AL SUD (feat. Welo)",
       "url": "https://open.spotify.com/track/4Pjc3S88QuUBUczici7iEH"
@@ -15776,6 +15776,24 @@
     },
     {
       "album": {
+        "name": "CRIATUR (From the Netflix Rap Show \u201cNuova Scena\u201d)",
+        "url": "https://open.spotify.com/album/4v2vbwWe9ongpkfgLJDbir"
+      },
+      "artists": [
+        {
+          "name": "Kid Lost",
+          "url": "https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174532,
+      "name": "CRIATUR (From the Netflix Rap Show \u201cNuova Scena\u201d)",
+      "url": "https://open.spotify.com/track/147hzs261FAZBpwfQkOUCL"
+    },
+    {
+      "album": {
         "name": "Criminale",
         "url": "https://open.spotify.com/album/0DZzcSB0lACP8XwKZ962qN"
       },
@@ -16223,6 +16241,24 @@
       "duration_ms": 198795,
       "name": "Da zero a cento",
       "url": "https://open.spotify.com/track/65GbcnMHYa1wWRV7ElsU6w"
+    },
+    {
+      "album": {
+        "name": "Dafalgan",
+        "url": "https://open.spotify.com/album/4omxez8JEcqaSwiDCtGm8O"
+      },
+      "artists": [
+        {
+          "name": "Ele A",
+          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204186,
+      "name": "Dafalgan",
+      "url": "https://open.spotify.com/track/3XGsMvnIirV7ICCWAh7v7L"
     },
     {
       "album": {
@@ -19766,6 +19802,24 @@
     },
     {
       "album": {
+        "name": "EL MATADOR (From the Netflix Rap Show \u201cNuova Scena\u201d)",
+        "url": "https://open.spotify.com/album/6UDBnsOcte6GwhTBLZ75kK"
+      },
+      "artists": [
+        {
+          "name": "Elmatadormc7",
+          "url": "https://open.spotify.com/artist/7516jrFSCN9rahmTvPAYUu"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168960,
+      "name": "EL MATADOR (From the Netflix Rap Show \u201cNuova Scena\u201d)",
+      "url": "https://open.spotify.com/track/11HeOLoW2cnWZzGHWnllYq"
+    },
+    {
+      "album": {
         "name": "Sincero",
         "url": "https://open.spotify.com/album/7BVpXL1e4ZStSpxYaWUZo4"
       },
@@ -20222,7 +20276,7 @@
         },
         {
           "name": "Junior K",
-          "url": "https://open.spotify.com/artist/6jN6FwPrMDKLgHbU9OyTrt"
+          "url": "https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ"
         }
       ],
       "date_added": "2024-02-29",
@@ -33071,7 +33125,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 210408,
       "name": "LE D\u00c8LIRE",
       "url": "https://open.spotify.com/track/48q2j9cxSJlygyWD3Do6L4"
@@ -42003,7 +42057,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 157426,
       "name": "NO TIME",
       "url": "https://open.spotify.com/track/38hK4JxVt8uKsgoKE1zfw5"
@@ -46027,6 +46081,24 @@
       "duration_ms": 251320,
       "name": "Parole Vuote (La Solitudine)",
       "url": "https://open.spotify.com/track/4QBfVk60RIBQg1uyox78Kh"
+    },
+    {
+      "album": {
+        "name": "Partenope (From the Netflix Rap Show \u201cNuova Scena\u201d)",
+        "url": "https://open.spotify.com/album/1ONWmXCcVhTpI6qmpOZrTo"
+      },
+      "artists": [
+        {
+          "name": "JELECROIS",
+          "url": "https://open.spotify.com/artist/2kZAbjn3zWasP4zuwk0QAP"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196551,
+      "name": "Partenope (From the Netflix Rap Show \u201cNuova Scena\u201d)",
+      "url": "https://open.spotify.com/track/3o7Wj9qmWwV1mnnouU3krc"
     },
     {
       "album": {

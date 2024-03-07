@@ -4,7 +4,7 @@
 
 > Free to be! Musica dalla comunità LGBQTIA+ italiana\. Giolì & Assia in cover! ✨
 
-340 songs - 20 hr 10 min
+340 songs - 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Hi, I'm a Slut](https://open.spotify.com/track/2gFMgqvKcygf8CavNyR131) | [Lil Mariko](https://open.spotify.com/artist/1ZRRl4S2B4xZBzHtIf65Jx) | [Lil Mariko](https://open.spotify.com/album/4FA6S8h3E3bCiLApDDPZzb) | 2:50 | 2022-04-01 | 2023-01-25 |
 | [Ho pianto in discoteca](https://open.spotify.com/track/5wvVbN2nYosTemhRiIlJ1K) | [Sem&Stènn](https://open.spotify.com/artist/4urS4ezvKDRW6o0XQeRve5), [CRLN](https://open.spotify.com/artist/4Gmkm3PIIdBZkSMlIdsMwZ) | [Ho pianto in discoteca](https://open.spotify.com/album/24JZfKM6ETpX1RkL4eiR7m) | 2:51 | 2021-11-19 |  |
 | [Honey \- Original mix](https://open.spotify.com/track/5AGGlWNS6to8ccEt4goFd8) | [Fivequestionmarks](https://open.spotify.com/artist/2LuGWCQe0znzHPriNsi2bg), [Produkkt](https://open.spotify.com/artist/10AGP2d21KeHinRjJNaf4b) | [Zucchero](https://open.spotify.com/album/2cXFVGdObf28i68Sl6GMPs) | 3:53 | 2022-07-07 | 2024-01-09 |
-| [How Do U Feel](https://open.spotify.com/track/1LjJjkKtr7N7zGGfyBl3M1) | [HU](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [How Do U Feel](https://open.spotify.com/album/71NytofTYW4F5hBuDLMPY7) | 3:04 | 2024-01-08 |  |
+| [How Do U Feel](https://open.spotify.com/track/1LjJjkKtr7N7zGGfyBl3M1) | [HU](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [How Do U Feel](https://open.spotify.com/album/71NytofTYW4F5hBuDLMPY7) | 2:34 | 2024-01-08 |  |
 | [How I Became A House](https://open.spotify.com/track/2J2VP9r6Tq8yPuxEVd4UJy) | [Dafne](https://open.spotify.com/artist/54xPMIEeUNucXIoW23jWoH) | [Loser With A Strategy](https://open.spotify.com/album/3ja6JyJDSg2ucusI9kFUbG) | 2:59 | 2022-04-01 |  |
 | [I Know Your Present](https://open.spotify.com/track/3CD3Ymds6yWnVHBNDYfZTA) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [I Know Your Present](https://open.spotify.com/album/3HWZFc7EIvG09YxKQivd1G) | 3:49 | 2023-05-09 | 2023-05-11 |
 | [I Know Your Present](https://open.spotify.com/track/3ii9uGCjFToAW2KnjxV34P) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [I Know Your Present](https://open.spotify.com/album/709nDzklqvM2wkTRF7Gqkt) | 3:49 | 2023-05-09 |  |

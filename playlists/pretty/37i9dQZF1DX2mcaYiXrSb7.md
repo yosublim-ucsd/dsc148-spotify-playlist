@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mcaYiXrSb7.md) - [plain]
 
 > Head In The Clouds Festival is heading to NYC for the first time ever\. Hear all the acts right here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,478 likes - 52 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,473 likes - 52 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mcaYiXrSb7.md) - [plain]
 | 38 | [In the morning](https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G) | 2:52 |
 | 39 | [So Beautiful](https://open.spotify.com/track/6syar8JKCt3R9ZBl11zmgI) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings in This Order](https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA) | 3:07 |
 | 40 | [Rock Ur World](https://open.spotify.com/track/5PkWhNfVEz2O9n8b6cQFMw) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [fussy](https://open.spotify.com/artist/789btpHpNQjZGwJIplXJuk) | [ROOM202 EP](https://open.spotify.com/album/4ogKA3ZUwHVuYvwfDwPLjV) | 4:41 |
-| 41 | [Arriba](https://open.spotify.com/track/0QLFKzTQT6MA4nRIK5HyQn) | [Spence Lee](https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa) | [Arriba](https://open.spotify.com/album/2dFoy8YDiSr8kJWUYlfjgY) | 3:37 |
+| 41 | [Arriba](https://open.spotify.com/track/5ywQZbJKXBmErbAxdwSNgL) | [Spence Lee](https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa) | [Arriba](https://open.spotify.com/album/4n2ynG8fC22AJgZQe1HPQE) | 3:37 |
 | 42 | [All Tinted](https://open.spotify.com/track/5T5zdXB8MNCGFTspLY45rN) | [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb) | [All Tinted](https://open.spotify.com/album/2oAx5hF8vyIQoHgeASn5tE) | 3:18 |
 | 43 | [Crush On You \(feat\. step.jad\)](https://open.spotify.com/track/62PSNt68BxMaxl9U50PIdW) | [Masiwei](https://open.spotify.com/artist/0fyaEHmSmZs2YWMgbruITA), [Higher Brothers](https://open.spotify.com/artist/07ZhipyrvoyNoJejeyM0PQ), [step.jad](https://open.spotify.com/artist/2jGquYVg6oxsetfzxYNgkD) | [Prince Charming](https://open.spotify.com/album/0t9j3gSmsub96X7n1IpGUd) | 3:49 |
 | 44 | [Every Summertime](https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Every Summertime](https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa) | 3:35 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mcaYiXrSb7.md) - [plain]
 | 51 | [Hypnosis](https://open.spotify.com/track/70LJDJUseObPU5czxfHYkB) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Lucid](https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg) | 1:36 |
 | 52 | [寂寞烟火](https://open.spotify.com/track/7dERYHClKMZYPIji1eAsq0) | [Akini Jing](https://open.spotify.com/artist/2VtVHEiaBjDGzysvaO5tDH) | [以梦为马](https://open.spotify.com/album/4cqdtsLWacynOlTvgN1Ivo) | 4:32 |
 
-Snapshot ID: `MCwyNjAzNDU0NDE0NzU1ZjdiY2Y3MjMzOTJkNWMyODZjM2EzYjIxMzhh`
+Snapshot ID: `MCwwNDdlMzViNTRkYmQ4ZmExMTYyMGYwNGJhNmY5NjQwZGFiNzhjZjVk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 
 > We're celebrating the 10th anniversary of <a href=https://splashhouse.com/>Splash House </a> with the announcement of their June line up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,036 likes - 52 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,110 likes - 52 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 | 12 | [\(still\) WON'T4GETU](https://open.spotify.com/track/0XIBrC5NWpiOleeVQuxiIo) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [Seth Troxler](https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B) | [\(still\) WON'T4GETU](https://open.spotify.com/album/6bUu40spRoUdMgjryJKi54) | 6:14 |
 | 13 | [Don't Go \- Gerd Janson Re\-Work \- Shorter Edit](https://open.spotify.com/track/5E1si4zAa76zwPhwEHXFBU) | [Julie McDermott](https://open.spotify.com/artist/25ORH36m22WXNx98UdFT1T), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Don't Go \(Gerd Janson Re\-Work \- Shorter Edit\)](https://open.spotify.com/album/3jFPyqKhfD28o6XbRWd7V0) | 2:26 |
 | 14 | [Flying High](https://open.spotify.com/track/4NcunZzPNQcQgIaoMbKx0N) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D) | [House Masters \- Riva Starr Sampler](https://open.spotify.com/album/37Zd1Om5iDl5KtQDIEcucF) | 2:59 |
-| 15 | [Words With You](https://open.spotify.com/track/53Xmi8g1mh4gM54N5WcsB9) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Adult Contemporary](https://open.spotify.com/album/3QtPRkz8qZRSxy0slIW1Ea) | 3:56 |
+| 15 | [Words With You](https://open.spotify.com/track/2KSm8t95aeoTx20rhstPMc) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Words With You](https://open.spotify.com/album/5iS4UJh76SVLbz81wtMkVR) | 3:55 |
 | 16 | [Hypnotized](https://open.spotify.com/track/7HxWZggiHyGWT9ZSmWzcxu) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Exotica](https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG) | 3:15 |
 | 17 | [Hold On](https://open.spotify.com/track/60jqMRQow55c9VffYOOaWN) | [Holiday87](https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Hold On](https://open.spotify.com/album/6dk5x2xWd86AkCSS4quHy0) | 3:45 |
 | 18 | [Dancin In The D](https://open.spotify.com/track/4IakwcfKlaDeSqeZB4xko7) | [Ash Lauryn](https://open.spotify.com/artist/1DAJGebgIA7OjVy2umBB8g) | [Truth](https://open.spotify.com/album/75FlIJdCotTnyEOZRew18J) | 5:10 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 | 51 | [Do U Wanna?](https://open.spotify.com/track/3JVyi1g3zaAHL9k0CRwghg) | [The Sponges](https://open.spotify.com/artist/3cj6O7NrjS5l0CVo8LhpV1) | [Love\. Death\. Funk?](https://open.spotify.com/album/2BeUzAPjKS5r0NMbmezusM) | 2:51 |
 | 52 | [Carry Us](https://open.spotify.com/track/40U8KhwvDcaoBFYV4hKfRn) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [Carry Us](https://open.spotify.com/album/1ZD3lsDNczYTYLhnKGiGxj) | 3:58 |
 
-Snapshot ID: `MCw1NTUxOWY1ZTYzYTJkNTcxYTEzZGZjZGYzNzAzMDUyZDhlMGRiYTQ1`
+Snapshot ID: `MCxjMjcxOTNmMGE0ZjE0YTE3M2I4MWNhOTY0MGZiNzFjY2I4MGFmMTk5`

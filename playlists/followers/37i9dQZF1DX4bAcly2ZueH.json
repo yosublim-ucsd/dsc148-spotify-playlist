@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 50289,
+  "2024-03-07": 50303,
   "date_first_scraped": "2022-10-24",
   "description": "\u4f8b\u3048\u3070\u3001\u90e8\u5c4b\u3067\u732b\u3068\u663c\u5bdd\u3092\u3059\u308b\u3088\u3046\u306b\u3001\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a8\u30ec\u30af\u30c8\u30ed\u30c1\u30eb\u3067\u5c0f\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
   "name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",
@@ -1882,6 +1882,24 @@
     },
     {
       "album": {
+        "name": "Seaglow",
+        "url": "https://open.spotify.com/album/2nvtaBqF1x83BMsdpEC5ZD"
+      },
+      "artists": [
+        {
+          "name": "[.que]",
+          "url": "https://open.spotify.com/artist/01FtA9GKCdkhtXHZrxi1v7"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132203,
+      "name": "Ripple",
+      "url": "https://open.spotify.com/track/1YalCeuariNJ4hlEjq6o3S"
+    },
+    {
+      "album": {
         "name": "Ghost in the Clocks",
         "url": "https://open.spotify.com/album/3xn9ffYOcqK08Fua0glyZi"
       },
@@ -2209,7 +2227,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 156000,
       "name": "sunlight",
       "url": "https://open.spotify.com/track/1GLvTvJjbjIAwABTF0M5TB"

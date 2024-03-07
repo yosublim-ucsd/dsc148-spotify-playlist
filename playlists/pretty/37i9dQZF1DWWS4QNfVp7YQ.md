@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 
 > Échate un zapateo al ritmo del tribal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,445 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,494 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 9 | [La Noche Es Tuya \(feat\. Gerardo Ortíz & América Sierra\)](https://open.spotify.com/track/73tHpsVzELtbluqT2D2YPD) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L), [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Globall](https://open.spotify.com/album/4xQUm6jf8BTdvfDE72nu3o) | 3:01 |
 | 10 | [Albaricoque](https://open.spotify.com/track/03A3AxBaHQuDAGnpzVuzB8) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Albaricoque](https://open.spotify.com/album/7oCSkCrfXicf6yIF5M6Psi) | 3:30 |
 | 11 | [Dame](https://open.spotify.com/track/05Wv728G7m1xkaOZKMPs0N) | [Freebot](https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd), [Aneth](https://open.spotify.com/artist/666a8c5dpuBV9GM1Yv14p7) | [Dame](https://open.spotify.com/album/0GaNnazTQVyVWnFvcXktgJ) | 2:36 |
-| 12 | [La Trompeta Del Diablo](https://open.spotify.com/track/60cUW8whWzeVIONqISksOO) | [Jey Agredo](https://open.spotify.com/artist/6s6TzzI6MiyL8FzhiEXULY), [Guaracha Aleteo Vip](https://open.spotify.com/artist/4qDy1sm9QajMeYMFflFwUA) | [Aleteo VIP Golden Edition](https://open.spotify.com/album/3UocGQ73CV9X9dJ8mbI7pb) | 4:26 |
+| 12 | [Celosa](https://open.spotify.com/track/1zZakVmfBR7AkepHwBCWZ7) | [El Pelón del Mikrophone](https://open.spotify.com/artist/7fD78qBivZ5nhloRHma0Pw) | [Los Reyes del Tribal](https://open.spotify.com/album/7aZA6VrLLeLQUNge1y0BuF) | 3:14 |
 | 13 | [El Pesero](https://open.spotify.com/track/05KHhBPrEYhSVnmrWfFXVk) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Malo](https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb) | [El Pesero](https://open.spotify.com/album/1hA3LlcZ0EvtHfLoruHI2z) | 3:28 |
-| 14 | [Celosa](https://open.spotify.com/track/1zZakVmfBR7AkepHwBCWZ7) | [El Pelón del Mikrophone](https://open.spotify.com/artist/7fD78qBivZ5nhloRHma0Pw) | [Los Reyes del Tribal](https://open.spotify.com/album/7aZA6VrLLeLQUNge1y0BuF) | 3:14 |
+| 14 | [La Trompeta Del Diablo](https://open.spotify.com/track/60cUW8whWzeVIONqISksOO) | [Jey Agredo](https://open.spotify.com/artist/6s6TzzI6MiyL8FzhiEXULY), [Guaracha Aleteo Vip](https://open.spotify.com/artist/4qDy1sm9QajMeYMFflFwUA) | [Aleteo VIP Golden Edition](https://open.spotify.com/album/3UocGQ73CV9X9dJ8mbI7pb) | 4:26 |
 | 15 | [Tas pedita bb?](https://open.spotify.com/track/5jvYkMOu0IpNjGzH080zDI) | [AXHE](https://open.spotify.com/artist/0Yd11KNwQqqx6kEmuuSfEe) | [Tas pedita bb?](https://open.spotify.com/album/3NQgFbC1GTt3rZ2A0vzpvv) | 2:11 |
 | 16 | [Noches de Soledad](https://open.spotify.com/track/7k9b2xkni9bFGYbywuD53y) | [Santiago Cardona](https://open.spotify.com/artist/20PbAAZBxVnVsNlOJbYdXk) | [Noches de Soledad](https://open.spotify.com/album/0pzTO3npRc2nVqQCKaLB1M) | 3:38 |
 | 17 | [El Ritmo Fa](https://open.spotify.com/track/4v65yiH3yoIKr57APt4oBQ) | [DJ kLazH](https://open.spotify.com/artist/3qutyGbJxvKzLqCYLaFHBo), [Dj Kury](https://open.spotify.com/artist/6I4OhwKxUoUZBsddTl2MbS) | [El Ritmo Fa](https://open.spotify.com/album/2So5WDAfp76BBlbwbxGo6Z) | 5:23 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 42 | [Pasito Chacalon](https://open.spotify.com/track/66OXBVfGaka7L38l50OMOW) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G) | [Pasito Chacalon](https://open.spotify.com/album/53R6GRQ1RYE0H4dn1xwdBW) | 3:12 |
 | 43 | [Tierra Azteca \(Azteks In Berlín\)](https://open.spotify.com/track/4hb66oTKdC2KrJaRgthbCo) | [Erick Rincon](https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba) | [Generación Tribal](https://open.spotify.com/album/1IqiZ7iimf2SSnjqoSHHZh) | 2:28 |
 | 44 | [El Tabano](https://open.spotify.com/track/0juafdkGgYibG1jyCU5ADb) | [Mickey Vivas](https://open.spotify.com/artist/3oZeAYYFdBFuY5b1RfOFua) | [El Tabano](https://open.spotify.com/album/4lNbOrWYsNOmReEYUSSwnf) | 2:22 |
-| 45 | [Sheeqo, Get Loose](https://open.spotify.com/track/0kAQ4h2COEfGZCTu5KYOaK) | [Sheeqo Beat](https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak) | [Generación Tribal](https://open.spotify.com/album/1IqiZ7iimf2SSnjqoSHHZh) | 3:04 |
-| 46 | [Conga Sound Machine](https://open.spotify.com/track/1b9fjZC3K4MmP3hUwYxrj0) | [Dj Otto](https://open.spotify.com/artist/3ldc155y9UrrgKp8GPqVhK) | [Generación Tribal](https://open.spotify.com/album/1IqiZ7iimf2SSnjqoSHHZh) | 4:45 |
+| 45 | [Conga Sound Machine](https://open.spotify.com/track/1b9fjZC3K4MmP3hUwYxrj0) | [Dj Otto](https://open.spotify.com/artist/3ldc155y9UrrgKp8GPqVhK) | [Generación Tribal](https://open.spotify.com/album/1IqiZ7iimf2SSnjqoSHHZh) | 4:45 |
+| 46 | [Sheeqo, Get Loose](https://open.spotify.com/track/0kAQ4h2COEfGZCTu5KYOaK) | [Sheeqo Beat](https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak) | [Generación Tribal](https://open.spotify.com/album/1IqiZ7iimf2SSnjqoSHHZh) | 3:04 |
 | 47 | [Baila Conmigo \(feat\. Kelly Ruiz\) \- Alan Rosales & TBX Remix](https://open.spotify.com/track/58sJHwuNOrGWfKtwwUmrOI) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs), [TBX](https://open.spotify.com/artist/2RFBrX0e7Zypt7D6BFF0W2), [Kelly Ruíz](https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw) | [Baila Conmigo \(feat\. Kelly Ruiz\) \[Alan Rosales & TBX Remix\]](https://open.spotify.com/album/3My9JWVDGGD6UTPHlj8qLJ) | 2:22 |
 | 48 | [Vibora](https://open.spotify.com/track/5KICj0zW5ZvAarj52tcEIF) | [Freebot](https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd) | [Terror, Ep\. 2](https://open.spotify.com/album/4FX3UqkVgH0TW2DhXpOzH2) | 2:25 |
 | 49 | [Afroguaracha](https://open.spotify.com/track/1PHiNCctsPo5yvKRCTbKDn) | [Dj Otto](https://open.spotify.com/artist/4NUOSz1OVP30beWFCtEIVv) | [Afroguaracha](https://open.spotify.com/album/1OMT3htpBd2nNCHufrTLCi) | 3:09 |
 | 50 | [Desma](https://open.spotify.com/track/5eLrkX0RPJSlQT5H5U0o43) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G) | [Desma](https://open.spotify.com/album/3TNn2Pfo5RmV4hdw1ZSuUf) | 2:38 |
 
-Snapshot ID: `MCw3NWYxZTQxMGE1Mjg1MWM3M2Q3N2Q4Yzg0ZTA2N2JhYTYxOTJiYmI4`
+Snapshot ID: `MCw1MDA5M2Y1ZmQ5OWYxMjI3ZDBhZjI1YmQ2ODMzMTAzZDkwNzJlNWRl`

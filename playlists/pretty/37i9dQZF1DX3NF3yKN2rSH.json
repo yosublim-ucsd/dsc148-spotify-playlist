@@ -1,12 +1,12 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 53233,
+  "num_followers": 53235,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDU3YTA2MTVmMjg3MmFjNGRkNWU4NjRjYzkwOWZmNmE0ODFlODk4",
+  "snapshot_id": "MCw4NDA4MWM0ZGUwZWUwNjgxYzE4MjQ4OTE3N2Y1ZmVmNDIwMmY0MWFl",
   "tracks": [
     {
       "added_at": "2023-04-09 08:49:39",
@@ -887,26 +887,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "I've Got a Testimony",
-        "url": "https://open.spotify.com/album/16lH0UDiWWT9aXaM7ZJKDJ"
-      },
-      "artists": [
-        {
-          "name": "Melvin Crispell III",
-          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
-        },
-        {
-          "name": "Maranda Curtis",
-          "url": "https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502"
-        }
-      ],
-      "duration_ms": 392639,
-      "name": "The Blessing (feat. Maranda Curtis)",
-      "url": "https://open.spotify.com/track/07hpnqy4P8emLuz4GuPPAL"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Live... This Is Your House",
         "url": "https://open.spotify.com/album/0lnscqAVc3mOhZcbrR0UPU"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 380866,
       "name": "Jesus I Love You (Live)",
       "url": "https://open.spotify.com/track/4hLaRpyVQwU3g1VggcSxPw"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "I've Got a Testimony",
+        "url": "https://open.spotify.com/album/16lH0UDiWWT9aXaM7ZJKDJ"
+      },
+      "artists": [
+        {
+          "name": "Melvin Crispell III",
+          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
+        },
+        {
+          "name": "Maranda Curtis",
+          "url": "https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502"
+        }
+      ],
+      "duration_ms": 392639,
+      "name": "The Blessing (feat. Maranda Curtis)",
+      "url": "https://open.spotify.com/track/07hpnqy4P8emLuz4GuPPAL"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "Conqueror",
+        "url": "https://open.spotify.com/album/2Ccx4LkjNZGjrascsldAs2"
+      },
+      "artists": [
+        {
+          "name": "The Clark Sisters",
+          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
+        }
+      ],
+      "duration_ms": 123426,
+      "name": "For the Love of the People",
+      "url": "https://open.spotify.com/track/3UwrDAuZcSuc6QikZrYaeD"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "Verity Records: The First Decade, A Celebration Of Christmas",
         "url": "https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 290026,
       "name": "Born To Die",
       "url": "https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "Conqueror",
-        "url": "https://open.spotify.com/album/2Ccx4LkjNZGjrascsldAs2"
-      },
-      "artists": [
-        {
-          "name": "The Clark Sisters",
-          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
-        }
-      ],
-      "duration_ms": 123426,
-      "name": "For the Love of the People",
-      "url": "https://open.spotify.com/track/3UwrDAuZcSuc6QikZrYaeD"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1803,22 +1803,18 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Classic Gold: Live In London: Andrae Crouch & The Disciples",
-        "url": "https://open.spotify.com/album/2uPR6aDZknw2wWgM4uHkHt"
+        "name": "Sing A Nu Song",
+        "url": "https://open.spotify.com/album/2Pq4TiBAMv0r7WD0DmMp6t"
       },
       "artists": [
         {
-          "name": "Andrae Crouch",
-          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
-        },
-        {
-          "name": "Disciples",
-          "url": "https://open.spotify.com/artist/4ZCnOYklELEjDUrbP4e5dv"
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
         }
       ],
-      "duration_ms": 286946,
-      "name": "Power In the Blood v1.1",
-      "url": "https://open.spotify.com/track/57E9knoyqDbb3RtntQiuly"
+      "duration_ms": 370826,
+      "name": "I Know It Was the Blood",
+      "url": "https://open.spotify.com/track/3OK5efpJzgvpqzgTsSvgaP"
     }
   ],
   "unique_name": "Easter Gospel",

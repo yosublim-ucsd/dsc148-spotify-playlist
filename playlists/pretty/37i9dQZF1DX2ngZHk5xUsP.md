@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 
 > Temukan musisi kesayanganmu dari berbagai penjuru Jawa Barat\. Cover: Rossa
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,826 likes - 86 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,836 likes - 86 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 | 85 | [SANTAIKAN SAJA](https://open.spotify.com/track/43pbB3WIe5C6aY65XTgfB1) | [Elcaff](https://open.spotify.com/artist/4FgJjHIh89lNEQdraaVbgx), [Ebith Beat A](https://open.spotify.com/artist/2PWNcj7gOPhtuNaltDU53D), [Manshur Angklung](https://open.spotify.com/artist/0JUo0aLjp9xWAO4Z9zZJNl), [DJ SuLFuric](https://open.spotify.com/artist/4O8IrS26zJUkZ7MgDDwtt5) | [SANTAIKAN SAJA](https://open.spotify.com/album/0zZx1FZxft5ZnJuxnOTcZ6) | 4:03 |
 | 86 | [Kataji](https://open.spotify.com/track/4HUmuIdScp4K9yjaCk73pD) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [YURA](https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8) | 3:42 |
 
-Snapshot ID: `MCw3ODcwYmJkMjJhOWQ0NmUzMGE5M2I5ZDU5MjgzMzhmYjE4ODg3Nzll`
+Snapshot ID: `MCw1M2FjODc3ZjBmNWQ0Mjc0NzNjNmQyNWE4YWM0YmQ1YmI3NTJmOTc5`

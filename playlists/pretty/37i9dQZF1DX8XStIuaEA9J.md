@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: コレサワ
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,886 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,959 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [君がおじいちゃんあたしがおばあちゃん](https://open.spotify.com/track/1SgwiPVpQ6tV3UnWGPlv5H) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [日々愛々](https://open.spotify.com/album/7A82mHia7alj13QXGc6MDQ) | 3:41 |
+| 1 | [You Be the Grandpa and I Be the Grandma](https://open.spotify.com/track/0TRR29A1f4tHNI6cDdlYCv) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [Hibi AiAi](https://open.spotify.com/album/49yagUf1DBt4S2S72EBGWP) | 3:41 |
 | 2 | [Value](https://open.spotify.com/track/6BEnpVB7g2j8mzWs3MC2kh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Value](https://open.spotify.com/album/63xNXfql8mdsOd1fZjodbf) | 3:05 |
 | 3 | [Inochizuna](https://open.spotify.com/track/5RDlCRPbMIgVzNS3677eKo) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [Inochizuna](https://open.spotify.com/album/1L6Q6ImUTkfuYi4jRLtnRf) | 3:21 |
 | 4 | [幾億光年](https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幾億光年](https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9) | 4:36 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 59 | [花束](https://open.spotify.com/track/4X1l0LnI6LDrzw7DJV9jtt) | [arban](https://open.spotify.com/artist/52ci5W8O4sJ3Xf3X5xitke), [crhug](https://open.spotify.com/artist/2YquAy5FoS3m5T1nvCpi3I) | [花束](https://open.spotify.com/album/69SpF2OssqRfpnDv7ZIAK8) | 5:33 |
 | 60 | [utatane](https://open.spotify.com/track/1h5ehmENTsi5d8P7bzI4t6) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [Holy Night](https://open.spotify.com/album/0pE8RdY5oe6qtnd3guQSam) | 3:01 |
 
-Snapshot ID: `MCwwYTZmNzA5ODhmN2NlMWIzMjYwNWE4YTVhNzk2NTk0ZTQ2MDgzOTU1`
+Snapshot ID: `MCw3MTFlNmJlMjJlY2Y3NDkyY2U1ODllZDMwM2ZlNzZhYzJkODJkZWRj`

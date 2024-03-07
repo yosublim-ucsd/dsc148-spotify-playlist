@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: Ege Can Sal.
 
-1,240 songs - 2 day 20 hr 25 min
+1,241 songs - 2 day 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Baby Don't Cry](https://open.spotify.com/track/1FH5kQE84G1aY17BO5U2Ei) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Baby Don't Cry](https://open.spotify.com/album/7zPSn1s2DdZVLTLCRi9zFz) | 3:04 | 2024-01-12 |  |
 | [Baby Don't Let Me Go](https://open.spotify.com/track/1NKjWIAEYAjNlzk8qePK8F) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Baby Don't Let Me Go](https://open.spotify.com/album/74FMJYc6vXTplYWmS7hxMY) | 3:53 | 2022-02-03 | 2022-12-15 |
 | [Baby...](https://open.spotify.com/track/3LmJ1n9BnLS1dHXl1QRDkt) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Baby...](https://open.spotify.com/album/6cQ3rKReQqlvpeqfdI2sSH) | 3:31 | 2022-02-03 | 2022-12-15 |
+| [Back The Way We Came](https://open.spotify.com/track/0asqqiUE6xJu038O4a1m2S) | [Coming Up Roses](https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb) | [Back The Way We Came](https://open.spotify.com/album/1rzUKBVxC07E37ikpWRZcH) | 3:41 | 2024-03-01 |  |
 | [Backwards](https://open.spotify.com/track/1Z9bAkibAZQoHq7qRLySBu) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Backwards](https://open.spotify.com/album/0AV6Vc6dnstWAOJpRnN25V) | 3:43 | 2023-01-20 | 2023-02-18 |
 | [BAD](https://open.spotify.com/track/6o0jmD1rCPYp7uZBtbUrya) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [BAD](https://open.spotify.com/album/2UiwzTFOuIkZm0OT4ld0HS) | 3:38 | 2022-03-24 | 2022-06-27 |
 | [bad together](https://open.spotify.com/track/6hUH9vmhbKRzTBsQhaBqjw) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P), [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH), [Irwinandfire](https://open.spotify.com/artist/05OqdicfTgKQVfyEOXfKRa) | [bad together](https://open.spotify.com/album/4boCQFMHPbjwGqIf4hHpa5) | 2:50 | 2022-03-21 | 2023-04-18 |
@@ -706,7 +707,7 @@
 | [Noche y Dia](https://open.spotify.com/track/6TQP1kV9oD8R6dQcCfhr5S) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [Noche y Dia](https://open.spotify.com/album/2xzE5tu9kDViuquh6PAYCn) | 2:49 | 2022-03-24 | 2022-08-02 |
 | [Noor](https://open.spotify.com/track/3p2WQ8mlRhETkOxcn8tVDc) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [Noor](https://open.spotify.com/album/6FsuMwzuqjWhy9OIA3pY5R) | 2:38 | 2022-06-29 | 2022-08-02 |
 | [Normalde](https://open.spotify.com/track/6wLrvbWwQI3o5gpWEnJTFw) | [Ege Can Sal](https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX) | [Normalde](https://open.spotify.com/album/2IXnb0005FkTtvxvpZNiYs) | 2:21 | 2024-02-02 |  |
-| [Nosebleeds](https://open.spotify.com/track/0inudhDQkXZ6DjJ2X0lbcy) | [Korby](https://open.spotify.com/artist/7bOKq0vFB4YI8MP9yqvwnH) | [Nosebleeds](https://open.spotify.com/album/7Lt1XU0k4PqrRWQmEKB1v9) | 2:47 | 2024-02-09 |  |
+| [Nosebleeds](https://open.spotify.com/track/0inudhDQkXZ6DjJ2X0lbcy) | [Korby](https://open.spotify.com/artist/7bOKq0vFB4YI8MP9yqvwnH) | [Nosebleeds](https://open.spotify.com/album/7Lt1XU0k4PqrRWQmEKB1v9) | 2:47 | 2024-02-09 | 2024-03-07 |
 | [NOT ALONE](https://open.spotify.com/track/4GYmqDC7trdgCL6It6oWDd) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 3:03 | 2023-06-09 |  |
 | [Nothing Gold Can Stay](https://open.spotify.com/track/3uvvpRZsgVAHJjKMYMJ72w) | [Edison Song](https://open.spotify.com/artist/0oZJQjSMqH0BRibttDsySO) | [Nothing Gold Can Stay](https://open.spotify.com/album/7IoUs1g1jLzpVzhffjREki) | 3:30 | 2022-02-03 | 2022-12-15 |
 | [Nouveau départ](https://open.spotify.com/track/0z2patdc6alfUwUi5dko35) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Madame](https://open.spotify.com/album/55Ya1piow9PzoMfpGfswLd) | 3:36 | 2023-04-17 | 2023-10-28 |

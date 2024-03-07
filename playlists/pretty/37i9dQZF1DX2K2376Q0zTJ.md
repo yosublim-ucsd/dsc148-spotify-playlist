@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。今月のアンバサダー: LANA
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,474 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,487 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 4 | [LOVE](https://open.spotify.com/track/0CdpkeWLRHGUXGDrz91UVx) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj), [Choppa Capone](https://open.spotify.com/artist/6qYsothwQkj7FyzDhCj3Ez) | [KAWAII BUBBLY LOVELY III](https://open.spotify.com/album/6qEMRBsppEDrGMF3RdgNN1) | 3:10 |
 | 5 | [BUM BUM](https://open.spotify.com/track/0MZvOut9kY3K8HgPfD0PjJ) | [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi) | [BUM BUM](https://open.spotify.com/album/4IAhXGhBYtNgawp2lXn295) | 3:12 |
 | 6 | [Poison \(feat\. NENE\)](https://open.spotify.com/track/3hDGNMsG7428l9vPQjN91a) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [孔雀](https://open.spotify.com/album/4A9MCW9aZ5ps7uGHhXGFPY) | 2:42 |
-| 7 | [WE WANT!!! \- feat.7](https://open.spotify.com/track/2BxKxnjb7wsUjXpooz8dut) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [19.5](https://open.spotify.com/album/06uFaprW6BVk7Lckao8DsA) | 3:00 |
+| 7 | [WE WANT!!! \- feat.7](https://open.spotify.com/track/2H8nWRVaXhONgYbsVfRa3W) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [19.5](https://open.spotify.com/album/7aoxCAZQG1RINt6c0uYqtQ) | 3:00 |
 | 8 | [E\-CAN\-Z](https://open.spotify.com/track/34BEyBPn5KD6sxQyQvdOVV) | [Yurufuwa Gang](https://open.spotify.com/artist/5F80x2l9juqR6RLeuACpqS) | [GAMA](https://open.spotify.com/album/5g4Z6IX5rMUjNXx5zycNsz) | 2:06 |
 | 9 | [BINBO](https://open.spotify.com/track/3jLoBEYECqYA1kzlt5UTBL) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [BINBO](https://open.spotify.com/album/7iZN9psShtHZhWXr0rh4Ai) | 2:18 |
 | 10 | [Wanna Be Me](https://open.spotify.com/track/14TgJIn8hI6A3g4B76IkHK) | [JASMINE](https://open.spotify.com/artist/76sRRqpyFhBYjdimBWjmfg), [MC TYSON](https://open.spotify.com/artist/3ytVNSZdjCCJwechkDCFsB), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO) | [Re:Me](https://open.spotify.com/album/0opzglC42Z7cFoVsCNdm5Y) | 4:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [FRIEND](https://open.spotify.com/track/4OsmrkuVLJe8ze6FJJxxzX) | [重盛さと美](https://open.spotify.com/artist/520STFW9IFHZA5A1WPWUeZ), [Tomodachi](https://open.spotify.com/artist/10b7iI7HzdtxZgCfPovith) | [FRIEND](https://open.spotify.com/album/5GQWA5bQcJAVSJf27W0wL4) | 3:11 |
 | 50 | [Wolf](https://open.spotify.com/track/1mjl6shDbIttccQj3ktzuB) | [HITOMIN](https://open.spotify.com/artist/54WlbKLgYBjRlWsee92OJt) | [Wolf](https://open.spotify.com/album/6aSz8m9KHNfymtKh3TDOE9) | 3:09 |
 
-Snapshot ID: `MCwyMDIwM2QzYWJmN2Y2NGFkNzM0NzU0YzQ4NzM4NGNkOGY3Nzg2OTcy`
+Snapshot ID: `MCwwYmI1MzQ3ODJhODg4ZTQ4MjQ1YzlhNzcwMjg0OWQ0YjEwMzkwZjdl`

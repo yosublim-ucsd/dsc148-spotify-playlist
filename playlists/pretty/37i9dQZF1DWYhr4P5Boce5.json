@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 201875,
+  "num_followers": 201886,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjA4NGU0MjIxNzA4NjRjYzUyOWI5MGIyN2Y3ZjA1N2QxN2QxODk5",
+  "snapshot_id": "MCw5YjdjZmQ4MTE1NGJhYWMyMjk4OTEzZTY5MjAzZGY1MmU0MTljZDZj",
   "tracks": [
     {
       "added_at": "2024-02-05 17:58:02",
@@ -631,6 +631,22 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
+        "name": "What Are We Waiting For? +",
+        "url": "https://open.spotify.com/album/3uHzOYpGyy06LsIfBi4r9e"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "duration_ms": 189142,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/7i4YoswtDTbiLd6AWc0Ep0"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
         "name": "CC",
         "url": "https://open.spotify.com/album/1RgcrQ5wuYg6EdWQyLylPG"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 118503,
       "name": "When It Hurts",
       "url": "https://open.spotify.com/track/79Ns9ajGujomTknvhBWSMd"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "What Are We Waiting For? +",
-        "url": "https://open.spotify.com/album/3uHzOYpGyy06LsIfBi4r9e"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        }
-      ],
-      "duration_ms": 189142,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/7i4YoswtDTbiLd6AWc0Ep0"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/4Uan5I5JSFb1axGS0GCZmG"
-      },
-      "artists": [
-        {
-          "name": "Sanctus Real",
-          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
-        }
-      ],
-      "duration_ms": 216991,
-      "name": "Commitment",
-      "url": "https://open.spotify.com/track/0kJSz8ENF9QUcBmhBvIROi"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Gave You My Heart",
         "url": "https://open.spotify.com/album/2EKQkDOUL7WGVN3L4Cxb0D"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 187706,
       "name": "Gave You My Heart",
       "url": "https://open.spotify.com/track/3QVBuJCFgr7Grt0a5awIiA"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/4Uan5I5JSFb1axGS0GCZmG"
+      },
+      "artists": [
+        {
+          "name": "Sanctus Real",
+          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
+        }
+      ],
+      "duration_ms": 216991,
+      "name": "Commitment",
+      "url": "https://open.spotify.com/track/0kJSz8ENF9QUcBmhBvIROi"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Brave",
-        "url": "https://open.spotify.com/album/57VocguMCPpTbtRBPb7h0f"
-      },
-      "artists": [
-        {
-          "name": "MORIAH",
-          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
-        }
-      ],
-      "duration_ms": 226053,
-      "name": "I'll Wait For You",
-      "url": "https://open.spotify.com/track/5vNQTqS0JToEWzlizaGzpy"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Come To The Well",
         "url": "https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze"
       },
@@ -1243,18 +1227,18 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "The Writer's Room: An Acoustic EP",
-        "url": "https://open.spotify.com/album/6yUxPBG0mG9RA2PdKA7Px5"
+        "name": "Brave",
+        "url": "https://open.spotify.com/album/57VocguMCPpTbtRBPb7h0f"
       },
       "artists": [
         {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+          "name": "MORIAH",
+          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
         }
       ],
-      "duration_ms": 212426,
-      "name": "The Day Before You - Acoustic",
-      "url": "https://open.spotify.com/track/20Y6MNDyaBRpFrQ1Dt5CNF"
+      "duration_ms": 226053,
+      "name": "I'll Wait For You",
+      "url": "https://open.spotify.com/track/5vNQTqS0JToEWzlizaGzpy"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Baby Will You Love Me",
-        "url": "https://open.spotify.com/album/6pphhVn7pM8GDBSCozdAe2"
+        "name": "The Writer's Room: An Acoustic EP",
+        "url": "https://open.spotify.com/album/6yUxPBG0mG9RA2PdKA7Px5"
       },
       "artists": [
         {
-          "name": "MAJOR.",
-          "url": "https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky"
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
         }
       ],
-      "duration_ms": 213338,
-      "name": "Baby Will You Love Me",
-      "url": "https://open.spotify.com/track/0lfzTHeMZJYG5icmPK7diT"
+      "duration_ms": 212426,
+      "name": "The Day Before You - Acoustic",
+      "url": "https://open.spotify.com/track/20Y6MNDyaBRpFrQ1Dt5CNF"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1303,6 +1287,22 @@
       "duration_ms": 280866,
       "name": "We Will Dance",
       "url": "https://open.spotify.com/track/1vvKpTt15DT2xWA6mNcF6o"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Baby Will You Love Me",
+        "url": "https://open.spotify.com/album/6pphhVn7pM8GDBSCozdAe2"
+      },
+      "artists": [
+        {
+          "name": "MAJOR.",
+          "url": "https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky"
+        }
+      ],
+      "duration_ms": 213338,
+      "name": "Baby Will You Love Me",
+      "url": "https://open.spotify.com/track/0lfzTHeMZJYG5icmPK7diT"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4"
+      },
+      "artists": [
+        {
+          "name": "Jor'dan Armstrong",
+          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
         "name": "I Love You (Remix)",
         "url": "https://open.spotify.com/album/1VX963HeOs6HHWWm8jwxim"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 193170,
       "name": "I Love You (Remix)",
       "url": "https://open.spotify.com/track/0C7KfSMsBddWhnw2gCZLBK"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "YOU",
-        "url": "https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4"
-      },
-      "artists": [
-        {
-          "name": "Jor'dan Armstrong",
-          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "YOU",
-      "url": "https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
+        "name": "Buy You Flowers",
+        "url": "https://open.spotify.com/album/7sA5pNCvur9QC43OY9GxWa"
+      },
+      "artists": [
+        {
+          "name": "Dawson Hollow",
+          "url": "https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R"
+        }
+      ],
+      "duration_ms": 142091,
+      "name": "Buy You Flowers",
+      "url": "https://open.spotify.com/track/2N7XOhYGsS7AOLylimvyYM"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
         "name": "'90s Kids",
         "url": "https://open.spotify.com/album/6gu7Mb2gVC5m4MOL2tFx9h"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 206987,
       "name": "Letters",
       "url": "https://open.spotify.com/track/7CcnoQ1OAwEEsa1t2MBZx8"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "Love Will Never Fail",
-        "url": "https://open.spotify.com/album/1bVIUQcllEzUNmxYqEsk5h"
-      },
-      "artists": [
-        {
-          "name": "Leslie Jordan",
-          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
-        }
-      ],
-      "duration_ms": 199826,
-      "name": "Love Will Never Fail (I Corinthians 13)",
-      "url": "https://open.spotify.com/track/3tXcHkiprWXY3pfkkzoWUY"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Buy You Flowers",
-        "url": "https://open.spotify.com/album/7sA5pNCvur9QC43OY9GxWa"
+        "name": "Love Will Never Fail",
+        "url": "https://open.spotify.com/album/1bVIUQcllEzUNmxYqEsk5h"
       },
       "artists": [
         {
-          "name": "Dawson Hollow",
-          "url": "https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R"
+          "name": "Leslie Jordan",
+          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
         }
       ],
-      "duration_ms": 142091,
-      "name": "Buy You Flowers",
-      "url": "https://open.spotify.com/track/2N7XOhYGsS7AOLylimvyYM"
+      "duration_ms": 199826,
+      "name": "Love Will Never Fail (I Corinthians 13)",
+      "url": "https://open.spotify.com/track/3tXcHkiprWXY3pfkkzoWUY"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Easy Never Needed You",
-        "url": "https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF"
-      },
-      "artists": [
-        {
-          "name": "Sarah Reeves",
-          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
-        }
-      ],
-      "duration_ms": 244693,
-      "name": "Feel The Waters",
-      "url": "https://open.spotify.com/track/4aIqxQgeNADC1RmI3uYdxb"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Colton Dixon",
         "url": "https://open.spotify.com/album/3mHEOWMp4xyuH3B290E34B"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 200538,
       "name": "Can't Quit You",
       "url": "https://open.spotify.com/track/1rDFKjc3N1o8REMY9jVBPh"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Easy Never Needed You",
+        "url": "https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF"
+      },
+      "artists": [
+        {
+          "name": "Sarah Reeves",
+          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
+        }
+      ],
+      "duration_ms": 244693,
+      "name": "Feel The Waters",
+      "url": "https://open.spotify.com/track/4aIqxQgeNADC1RmI3uYdxb"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2019,6 +2019,26 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
+        "name": "For the Soul",
+        "url": "https://open.spotify.com/album/1fccj2iThKlGrHdCq8lNbd"
+      },
+      "artists": [
+        {
+          "name": "Erica Mason",
+          "url": "https://open.spotify.com/artist/5CH8cf1MmcMAWBpQLiQ3sz"
+        },
+        {
+          "name": "Hymn Logic",
+          "url": "https://open.spotify.com/artist/0dzvj07BwdMYDdkYy6KJHH"
+        }
+      ],
+      "duration_ms": 199298,
+      "name": "Remind You",
+      "url": "https://open.spotify.com/track/7BxtjrmedRHDYCTEk50zkt"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
         "name": "I do",
         "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
       },
@@ -2047,26 +2067,6 @@
       "duration_ms": 223445,
       "name": "Midwest Magic",
       "url": "https://open.spotify.com/track/3NDDJKePW2oFn9mP2JWyo6"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "For the Soul",
-        "url": "https://open.spotify.com/album/1fccj2iThKlGrHdCq8lNbd"
-      },
-      "artists": [
-        {
-          "name": "Erica Mason",
-          "url": "https://open.spotify.com/artist/5CH8cf1MmcMAWBpQLiQ3sz"
-        },
-        {
-          "name": "Hymn Logic",
-          "url": "https://open.spotify.com/artist/0dzvj07BwdMYDdkYy6KJHH"
-        }
-      ],
-      "duration_ms": 199298,
-      "name": "Remind You",
-      "url": "https://open.spotify.com/track/7BxtjrmedRHDYCTEk50zkt"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2151,6 +2151,22 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
+        "name": "TEMPERATURA",
+        "url": "https://open.spotify.com/album/6Zd0nWUKXIsOBituSPhqK6"
+      },
+      "artists": [
+        {
+          "name": "Don Ryvcko",
+          "url": "https://open.spotify.com/artist/4sPaDVtUm4TRrM6TATYC8D"
+        }
+      ],
+      "duration_ms": 111910,
+      "name": "TEMPERATURA",
+      "url": "https://open.spotify.com/track/5RwBAq3yfF3skrMDgV2GVA"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
         "name": "The Ultimate Collection: Love Songs",
         "url": "https://open.spotify.com/album/0lYU6ZXAFCW6OA8N8v3xRX"
       },
@@ -2199,22 +2215,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "TEMPERATURA",
-        "url": "https://open.spotify.com/album/6Zd0nWUKXIsOBituSPhqK6"
-      },
-      "artists": [
-        {
-          "name": "Don Ryvcko",
-          "url": "https://open.spotify.com/artist/4sPaDVtUm4TRrM6TATYC8D"
-        }
-      ],
-      "duration_ms": 111910,
-      "name": "TEMPERATURA",
-      "url": "https://open.spotify.com/track/5RwBAq3yfF3skrMDgV2GVA"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Giving In",
         "url": "https://open.spotify.com/album/7I1KWEWQ4G2FA84rHEuslm"
       },
@@ -2251,26 +2251,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/3j0qFagoLanhV9upwHLv93"
-      },
-      "artists": [
-        {
-          "name": "Royce Lovett",
-          "url": "https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N"
-        },
-        {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
-        }
-      ],
-      "duration_ms": 173861,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/2N61h8fv13gVHvDf4EcZuT"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Good Love (feat. Kim Burrell)",
         "url": "https://open.spotify.com/album/4kMIVmOYqpCXgstb0z1ks7"
       },
@@ -2291,22 +2271,22 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/5tFVSwKfZ7A5WAH3vtak1I"
+        "name": "Better",
+        "url": "https://open.spotify.com/album/3j0qFagoLanhV9upwHLv93"
       },
       "artists": [
         {
-          "name": "Shirlvin Desir",
-          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
+          "name": "Royce Lovett",
+          "url": "https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N"
         },
         {
-          "name": "Michelle Vinueza",
-          "url": "https://open.spotify.com/artist/0sP7O4UNgzyEZk9x0Vba1m"
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
         }
       ],
-      "duration_ms": 177968,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/5wAh9qbpzlRrdgVtIeNObM"
+      "duration_ms": 173861,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/2N61h8fv13gVHvDf4EcZuT"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2323,6 +2303,26 @@
       "duration_ms": 270866,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/4gOKl65mwqty8RGiokhv3h"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/5tFVSwKfZ7A5WAH3vtak1I"
+      },
+      "artists": [
+        {
+          "name": "Shirlvin Desir",
+          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
+        },
+        {
+          "name": "Michelle Vinueza",
+          "url": "https://open.spotify.com/artist/0sP7O4UNgzyEZk9x0Vba1m"
+        }
+      ],
+      "duration_ms": 177968,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/5wAh9qbpzlRrdgVtIeNObM"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2415,22 +2415,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "You Got It",
-        "url": "https://open.spotify.com/album/4Occb1qba04U62lIRLbzlF"
-      },
-      "artists": [
-        {
-          "name": "KMO Shamaal",
-          "url": "https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "You Got It",
-      "url": "https://open.spotify.com/track/01Yu78p79vbsR8kHDY1Czt"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "IOU",
         "url": "https://open.spotify.com/album/0OoN6mpdxCzQs6Iq5b26aF"
       },
@@ -2443,6 +2427,22 @@
       "duration_ms": 218454,
       "name": "IOU",
       "url": "https://open.spotify.com/track/042ILs7k3vS7HDtUgBU8nl"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "You Got It",
+        "url": "https://open.spotify.com/album/4Occb1qba04U62lIRLbzlF"
+      },
+      "artists": [
+        {
+          "name": "KMO Shamaal",
+          "url": "https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "You Got It",
+      "url": "https://open.spotify.com/track/01Yu78p79vbsR8kHDY1Czt"
     },
     {
       "added_at": "2024-02-05 17:58:02",

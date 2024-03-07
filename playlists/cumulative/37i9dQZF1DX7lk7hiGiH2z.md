@@ -4,7 +4,7 @@
 
 > Genießt die ersten Sonnenstrahlen mit der ganzen Familie.
 
-341 songs - 16 hr 5 min
+342 songs - 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Die Laternenzeit](https://open.spotify.com/track/0spx207TZmxa4EdKToZNL2) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Herbst Kinderdisco mit Volker Rosin](https://open.spotify.com/album/0ZjXoJ2VR9hQxTflKvPxvI) | 3:23 | 2023-11-05 | 2023-11-16 |
 | [Die Schlittenfahrt](https://open.spotify.com/track/0Gy5ko2FkfuTlLHfXD6IhS) | [Pettersson und Findus](https://open.spotify.com/artist/3YZqnPKdtP5qP4LSvrgx9i) | [Winterzauberlieder](https://open.spotify.com/album/5Xhwclz0kD81yrmXZxOpFw) | 3:29 | 2023-11-22 | 2024-03-02 |
 | [Die Weihnachtskinder](https://open.spotify.com/track/2CmW44XheHnAEKTXJDKzxj) | [Eule und Lerche](https://open.spotify.com/artist/4rnjX26GPtQ12aFGuXgaew) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 3:09 | 2023-11-14 | 2023-12-30 |
-| [Drachenwind](https://open.spotify.com/track/67vOXepMNB0ZDQlnANzsr5) | [Berend Intelmann](https://open.spotify.com/artist/7bHnUZwNT0xHUAUpNUNJ1v) | [Unter meinem Bett 7](https://open.spotify.com/album/5Q8R9IdUfGHGD36XvqkMIy) | 3:40 | 2023-08-31 |  |
+| [Drachenwind](https://open.spotify.com/track/67vOXepMNB0ZDQlnANzsr5) | [Berend Intelmann](https://open.spotify.com/artist/7bHnUZwNT0xHUAUpNUNJ1v) | [Unter meinem Bett 7](https://open.spotify.com/album/5Q8R9IdUfGHGD36XvqkMIy) | 3:40 | 2023-08-31 | 2024-03-07 |
 | [Dracula \- Remastered 2004](https://open.spotify.com/track/2qNDy6bmZyVnWJS8UeqbtA) | [Iris Gruttmann](https://open.spotify.com/artist/7ePL5iRMTwMrgA6DyFDA4l) | [Das große Felix Liederalbum 2](https://open.spotify.com/album/6UCseiCljsu6wn0tQuT5sq) | 4:49 | 2023-10-16 | 2023-11-06 |
 | [Dracula Rock](https://open.spotify.com/track/7FMXsR0WVoM4sKOfY6cI9D) | [Igel\-Band](https://open.spotify.com/artist/5KWyriANbICF3fClA2n76l) | [Süßes oder Saures \(20 gruselige Kinderlieder für die Halloween\-Party\)](https://open.spotify.com/album/2hTZcqQOKgOGwGCRu9nhV0) | 2:31 | 2023-10-16 | 2023-11-06 |
 | [Drei kleine Hexen](https://open.spotify.com/track/7prmyyJSIZbY7ZwlczWG0T) | [Rainer Wenzel](https://open.spotify.com/artist/0Pqj7d09m594nU0ckKJ9vh) | [Au Backe!](https://open.spotify.com/album/15TCbswxpNzD23AJJIG78I) | 2:48 | 2023-10-16 | 2023-11-06 |
@@ -103,6 +103,7 @@
 | [Frosty The Snowman](https://open.spotify.com/track/4kzzkf98gOSdTMjgs0Ize1) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Christmas](https://open.spotify.com/album/7GJVFlUmqCb71CJRDzm5E5) | 2:15 | 2023-11-14 | 2023-12-30 |
 | [Frosty, der Schneemann](https://open.spotify.com/track/1ubGwObUS4Pvq8ksXH076j) | [Schlagerkids](https://open.spotify.com/artist/57X6XyUFzQcVAhZOzS0jlb) | [Frosty, der Schneemann](https://open.spotify.com/album/69BJ3eeBP99zj7TvLHjB9I) | 2:06 | 2023-12-08 | 2024-03-02 |
 | [Fröhliche Weihnacht überall](https://open.spotify.com/track/71XOtd7ceMQJ6eGtJQ8UzT) | [3Berlin](https://open.spotify.com/artist/7eUEQQxUaukrKyzVjeWk1V) | [Summ, Summ, Summ! \- Best Of](https://open.spotify.com/album/6zaIi89MZCZeZHpl7lojle) | 2:41 | 2023-11-14 | 2023-12-30 |
+| [Frühling, ich hab dich entdeckt!](https://open.spotify.com/track/6DvPoVxRyzigWeLjtxnhsW) | [Reinhard Horn](https://open.spotify.com/artist/0yAi20HvvwcrnDFWcVldvI) | [Frühling](https://open.spotify.com/album/4pyuynXo8bCbLoJDmWmxdq) | 2:58 | 2024-03-01 |  |
 | [Frühlingslied](https://open.spotify.com/track/4BZlk53PYePRPAB8Bmdnzt) | [Unser Sandmännchen](https://open.spotify.com/artist/02Z9KUEjSTXcsmEB7uhDiJ) | [015/Abends im Walde](https://open.spotify.com/album/4BhFBcF5S9Cjdw8ayDsZQI) | 2:03 | 2024-03-01 |  |
 | [Fühl Mich So Gut](https://open.spotify.com/track/3HB4OsFD8whlTFsTIlMNrJ) | [KID CLIO](https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku) | [HIGHFIVE!](https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S) | 2:02 | 2023-06-28 | 2023-10-17 |
 | [Geisterzeit](https://open.spotify.com/track/3iqnMvh5RW8IAjlzUrAZcj) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Tanzfieber!](https://open.spotify.com/album/06eZoUAMH8lMEpshxRfHj2) | 3:10 | 2023-10-16 | 2023-11-06 |

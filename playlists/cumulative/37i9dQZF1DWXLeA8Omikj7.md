@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-912 songs - 2 day 17 hr 33 min
+913 songs - 2 day 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Dissolve](https://open.spotify.com/track/0Qm14E0Scc9hpGPwhowHEP) | [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k) | [Dissolve](https://open.spotify.com/album/3Gg6RFUbthCb0a6y3Nxssq) | 6:32 | 2022-07-01 | 2023-05-06 |
 | [Dissolve](https://open.spotify.com/track/7eLNDNV7Y2Qrcrya9zKeTA) | [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k) | [Dissolve](https://open.spotify.com/album/2vGFMEYlh9unGCAX7vg8mc) | 6:32 | 2019-05-26\* | 2022-04-19 |
 | [Distant Light](https://open.spotify.com/track/0mwp6nRewuBh0Nt9MAXGid) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Emergence](https://open.spotify.com/album/26vmJ6CjPxYWYYa2B4d9my) | 5:33 | 2019-06-22 | 2022-04-21 |
+| [Distant Solace](https://open.spotify.com/track/2Ay2lOlqlXqI0iphLhb51B) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Distant Solace](https://open.spotify.com/album/7odaTvennSTNVuMLArV19i) | 2:33 | 2024-03-01 |  |
 | [Diving Birds](https://open.spotify.com/track/6b5Y2qdzMU6X9sK11UXouC) | [Facta](https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn), [Parris](https://open.spotify.com/artist/438TWpixWUH0KLP6ARfymt) | [Blush](https://open.spotify.com/album/1yGxezsFucvvSt7prKCQje) | 5:29 | 2021-07-23 | 2022-04-21 |
 | [Do Androids Dream Part 3 \- Original Mix](https://open.spotify.com/track/11zgbmLoSt0Yd48x13KCPn) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8) | [Do Androids Dream EP](https://open.spotify.com/album/2QYzzl1gA6gTyUbBbDi6Ft) | 3:47 | 2019-06-21 | 2022-04-21 |
 | [don't forget to breathe today](https://open.spotify.com/track/46A20vecY2UQ9zXQuSbQa3) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [stay vibrant](https://open.spotify.com/album/45rsmhncWE31vvKIeNYvvj) | 4:07 | 2020-08-26 | 2020-10-22 |
@@ -763,7 +764,7 @@
 | [Superman Lost](https://open.spotify.com/track/5tJwqIURhPZInrFxWT0cGB) | [Mat Zo](https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1) | [Damage Control](https://open.spotify.com/album/5Nrx0GEDuLwrQcEvb1IM8l) | 2:08 | 2019-05-26\* | 2020-10-22 |
 | [Support](https://open.spotify.com/track/2SUd3ORLlbQKeIXMmKDMqk) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [stuff i used to do](https://open.spotify.com/album/77lJ42P4qgi7HJTOjMmcBp) | 4:10 | 2019-06-21 | 2020-08-26 |
 | [Surrender \- Pablo Fierro Remix](https://open.spotify.com/track/3DioyryIiTFOavvhrQ00G6) | [Angelos](https://open.spotify.com/artist/2zagWFWxFhQg3OvUmnnliq), [Jaidene Veda](https://open.spotify.com/artist/5RnHlRFELc91Qk6dV6mhNG), [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Surrender EP](https://open.spotify.com/album/4YMwLHF5geIbncO1hSCm6Y) | 7:40 | 2020-11-13 | 2021-03-09 |
-| [Surrender Yourself](https://open.spotify.com/track/0RZ5bH3jU33OtO1PAhfXh5) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Surrender Yourself](https://open.spotify.com/album/1bRFR71dDq9KA6tjnKJo6u) | 5:47 | 2021-04-29 |  |
+| [Surrender Yourself](https://open.spotify.com/track/0RZ5bH3jU33OtO1PAhfXh5) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Surrender Yourself](https://open.spotify.com/album/1bRFR71dDq9KA6tjnKJo6u) | 5:47 | 2021-04-29 | 2024-03-07 |
 | [Swans On Drums](https://open.spotify.com/track/0v6yGtEgzbrJKgbxPlX47H) | [Dijf Sanders](https://open.spotify.com/artist/3U9U9C6iJzZR39dXq0UaYV) | [Swans On Drums](https://open.spotify.com/album/0DEL8v3HSCHNAuoAblvsng) | 5:58 | 2021-03-08 | 2022-07-06 |
 | [Sweat \(Soulji Remix\)](https://open.spotify.com/track/2k6xm7hmwxPINqDyYXcORq) | [Karma Fields](https://open.spotify.com/artist/1tRsdSvjwp34PDvcmix6SJ) | [Sweat](https://open.spotify.com/album/2cqNfvODYAYYMQh2lRJyA6) | 4:40 | 2019-05-26\* | 2020-08-26 |
 | [Sweet Apocalypse](https://open.spotify.com/track/2u5OxLRtgdazMVLcRev2ds) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Last Night \(Bonus Tracks Edition\)](https://open.spotify.com/album/3Aw6wlxCHzSziC4ZNaF4Vd) | 5:18 | 2019-06-23 | 2022-04-18 |

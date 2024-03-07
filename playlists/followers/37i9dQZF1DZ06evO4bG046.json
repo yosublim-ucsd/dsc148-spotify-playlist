@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 32481,
+  "2024-03-07": 32490,
   "date_first_scraped": "2022-09-17",
   "description": "This is Los Jaivas. The essential tracks, all in one playlist.",
   "name": "This Is Los Jaivas",
@@ -413,7 +413,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 290813,
       "name": "El Tambo",
       "url": "https://open.spotify.com/track/3VlFOa5NaH3Mb8RtmSG6oj"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 310586,
       "name": "En La Cumbre De Un Cerro",
       "url": "https://open.spotify.com/track/3AcyB988C2kdPFNBQUXLrL"

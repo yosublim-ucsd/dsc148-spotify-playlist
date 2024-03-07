@@ -1,12 +1,12 @@
 {
   "description": "New music from Charli XCX, Miley Cyrus & Pharrell, Cardi B, Kacey Musgraves, and more!",
-  "num_followers": 4163504,
+  "num_followers": 4163664,
   "original_name": "New Music Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Y2RhNDA5OTNiN2Q3YjMxYWY1NTBiNTI2OGE1YmZjMDU5N2JjNjc4",
+  "snapshot_id": "MCxkMDdlMGMwODI5ZWQ2MWEzZTczOWIzN2I1NjdiZGRhOTlkZTdlMWJk",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1435,7 +1435,7 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "JAPANESE DENIM (feat. Veeze)",
+        "name": "JAPANESE DENIM (feat. Veeze & LUCKI)",
         "url": "https://open.spotify.com/album/5m3BPYBaanarQy8hXJ7XoZ"
       },
       "artists": [
@@ -1444,16 +1444,16 @@
           "url": "https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg"
         },
         {
-          "name": "LUCKI",
-          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
-        },
-        {
           "name": "Veeze",
           "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        },
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
         }
       ],
       "duration_ms": 127442,
-      "name": "JAPANESE DENIM (feat. Veeze)",
+      "name": "JAPANESE DENIM (feat. Veeze & LUCKI)",
       "url": "https://open.spotify.com/track/7IRBVTWua5balW0xUJHmUF"
     },
     {

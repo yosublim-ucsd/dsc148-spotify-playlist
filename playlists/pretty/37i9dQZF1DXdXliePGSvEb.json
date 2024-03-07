@@ -1,12 +1,12 @@
 {
   "description": "Our favorite electronic songs from around the world this year. Cover: Lilly Palmer",
-  "num_followers": 59979,
+  "num_followers": 60002,
   "original_name": "Best Electronic Songs of 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzJhMTIzODkwZDU1OWNmNDZmOTgzZjEzYTEyMDkyMmYwYmMwMjM5",
+  "snapshot_id": "MCxmZjc2YmU2NGQwMWJkMWFlMjNjZWM3ZjMxM2E5ZjIyZDQwOWRmOGVh",
   "tracks": [
     {
       "added_at": "2023-11-29 12:16:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
+        "name": "Hands (DJ-Kicks)",
+        "url": "https://open.spotify.com/album/7cdtA63N0AxdTjubtX6h38"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "duration_ms": 241406,
+      "name": "Hands - Edit",
+      "url": "https://open.spotify.com/track/4vA3jtFk9acFhLHdcuGrGK"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
         "name": "THE RAT ROAD",
         "url": "https://open.spotify.com/album/43GrrOxnDLLiOec6O09NMv"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 271633,
       "name": "L.F.O.",
       "url": "https://open.spotify.com/track/32Af7vCCWDKWlAipePUauP"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
-        "name": "Hands (DJ-Kicks)",
-        "url": "https://open.spotify.com/album/7cdtA63N0AxdTjubtX6h38"
-      },
-      "artists": [
-        {
-          "name": "Elkka",
-          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
-        }
-      ],
-      "duration_ms": 241406,
-      "name": "Hands - Edit",
-      "url": "https://open.spotify.com/track/4vA3jtFk9acFhLHdcuGrGK"
     },
     {
       "added_at": "2023-11-29 12:16:00",

@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "A passing season",
+        "url": "https://open.spotify.com/album/7uFAhV4JjbE5B7xgvxYTx7"
+      },
+      "artists": [
+        {
+          "name": "Rowan Guthrie",
+          "url": "https://open.spotify.com/artist/5UZOjfjGjEFQ5v3HGf02YG"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175354,
+      "name": "A passing season",
+      "url": "https://open.spotify.com/track/0kcNgvxO5miMzPqkFYoeqK"
+    },
+    {
+      "album": {
         "name": "A Recurring Theme",
         "url": "https://open.spotify.com/album/50lTjBe11glVo3YvOemGsH"
       },
@@ -1568,7 +1586,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 147300,
       "name": "Calm and Free",
       "url": "https://open.spotify.com/track/6CpfrXki7I0NzaMIoE740P"
@@ -2972,7 +2990,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 259874,
       "name": "Fils Du Soleil",
       "url": "https://open.spotify.com/track/67np71K50CRwUfpXqlsXJV"
@@ -9180,7 +9198,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 119491,
       "name": "Spirits",
       "url": "https://open.spotify.com/track/4I7TrIEVN4Gxs1u3cBvxLz"

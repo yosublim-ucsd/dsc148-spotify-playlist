@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,356 songs - 3 day 10 hr 58 min
+1,357 songs - 3 day 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -774,7 +774,8 @@
 | [sanagi \- Organic](https://open.spotify.com/track/4N9SLJHTrsjDlbJIGaooWP) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [sanagi \(Organic\)](https://open.spotify.com/album/5Qiqp6gxGwe7euvsi8JHsF) | 3:41 | 2023-10-31 | 2023-11-16 |
 | [Sanzameku](https://open.spotify.com/track/09rGKRSeUIxhbD6AIJoJDK) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Sanzameku](https://open.spotify.com/album/6aQcVCTEE1ps7pME44kVpO) | 3:05 | 2024-01-30 | 2024-02-07 |
 | [Sapphire \- Holy Muscle Remix](https://open.spotify.com/track/4spLZfpGNZERQ4dNqIGdrk) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa), [Holy Muscle](https://open.spotify.com/artist/64cewrunqhi3A76o1pcQMT) | [Outer Ego \(Deluxe Edition\)](https://open.spotify.com/album/5PvZB11e1EfFSVAFHjqESB) | 6:29 | 2022-09-13 | 2022-10-21 |
-| [SAPPORO TOKYO](https://open.spotify.com/track/61mRQIRRPGxuMUuEra2vFN) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [SAPPORO TOKYO](https://open.spotify.com/album/1LgMEwqdLiFeScDqcaGP40) | 3:21 | 2024-03-05 |  |
+| [Sapporo Tokyo](https://open.spotify.com/track/5UfEvgUgUUK7bFg3pgG2WT) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Sapporo Tokyo](https://open.spotify.com/album/2qRreb6X5DMn1NXr7efii8) | 3:21 | 2024-03-05 |  |
+| [SAPPORO TOKYO](https://open.spotify.com/track/61mRQIRRPGxuMUuEra2vFN) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [SAPPORO TOKYO](https://open.spotify.com/album/1LgMEwqdLiFeScDqcaGP40) | 3:21 | 2024-03-05 | 2024-03-07 |
 | [Sashiiro](https://open.spotify.com/track/21lckxUcSbNjXvevhrEmqt) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Sashiiro](https://open.spotify.com/album/2N7EaA2edo7hIYqsAFmxbI) | 3:03 | 2022-07-28 | 2022-09-02 |
 | [Save Me Tonight](https://open.spotify.com/track/0bIgcfjpIsjFIpEXKd2BiM) | [Def Tech](https://open.spotify.com/artist/7CifQjntMwkU4kfV85zTnS) | [Save Me Tonight](https://open.spotify.com/album/3obgU7GXmEVH1YzAdHIToZ) | 3:15 | 2022-11-24 | 2022-11-26 |
 | [Save Me Tonight](https://open.spotify.com/track/6BbiAm2kP8ZSVuba0oMvBl) | [Def Tech](https://open.spotify.com/artist/7CifQjntMwkU4kfV85zTnS) | [Save Me Tonight](https://open.spotify.com/album/384puu2XE2cjWNL66vcOhm) | 3:15 | 2022-11-24 | 2022-12-07 |

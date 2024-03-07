@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 134599,
+  "num_followers": 134687,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTBhMWNjZmM4ZTlmMWNjMzY3ZTQ5Yjc0NDBlNzczODkxZjUwNTdk",
+  "snapshot_id": "MCxlMmNiYjMwNTJiZTMyZTcwYmNlZjUzYWQwZjc2ZGYwZWIyZWM3M2M3",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -811,34 +811,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Intimacy",
-        "url": "https://open.spotify.com/album/3T3epUgMPC4f34OooH2iRK"
+        "name": "Saxtress",
+        "url": "https://open.spotify.com/album/2Zf6Lb0XbvnqBaXBTFHVBj"
       },
       "artists": [
         {
-          "name": "Walter Beasley",
-          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
+          "name": "Pamela Williams",
+          "url": "https://open.spotify.com/artist/5B6uaAUFgsawlZzzhsQxjM"
         }
       ],
-      "duration_ms": 256933,
-      "name": "Just Hold Me",
-      "url": "https://open.spotify.com/track/4fSHesUea71Bw48PlMROLi"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "Voices In The Rain",
-        "url": "https://open.spotify.com/album/6OJNzlbzjFRHOevcIli9TM"
-      },
-      "artists": [
-        {
-          "name": "Joe Sample",
-          "url": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
-        }
-      ],
-      "duration_ms": 320840,
-      "name": "Greener Grass",
-      "url": "https://open.spotify.com/track/3lrOns0djV4xYUh1sSLfbx"
+      "duration_ms": 302306,
+      "name": "Castine",
+      "url": "https://open.spotify.com/track/3fWldcBwLpvt3JSWU5EsAT"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -859,18 +843,34 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Saxtress",
-        "url": "https://open.spotify.com/album/2Zf6Lb0XbvnqBaXBTFHVBj"
+        "name": "Voices In The Rain",
+        "url": "https://open.spotify.com/album/6OJNzlbzjFRHOevcIli9TM"
       },
       "artists": [
         {
-          "name": "Pamela Williams",
-          "url": "https://open.spotify.com/artist/5B6uaAUFgsawlZzzhsQxjM"
+          "name": "Joe Sample",
+          "url": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
         }
       ],
-      "duration_ms": 302306,
-      "name": "Castine",
-      "url": "https://open.spotify.com/track/3fWldcBwLpvt3JSWU5EsAT"
+      "duration_ms": 320840,
+      "name": "Greener Grass",
+      "url": "https://open.spotify.com/track/3lrOns0djV4xYUh1sSLfbx"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Intimacy",
+        "url": "https://open.spotify.com/album/3T3epUgMPC4f34OooH2iRK"
+      },
+      "artists": [
+        {
+          "name": "Walter Beasley",
+          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
+        }
+      ],
+      "duration_ms": 256933,
+      "name": "Just Hold Me",
+      "url": "https://open.spotify.com/track/4fSHesUea71Bw48PlMROLi"
     },
     {
       "added_at": "2020-08-19 00:00:21",

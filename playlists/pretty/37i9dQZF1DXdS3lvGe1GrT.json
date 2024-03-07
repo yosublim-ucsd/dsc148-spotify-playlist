@@ -1,12 +1,12 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Alycia Lang",
-  "num_followers": 62719,
+  "num_followers": 62951,
   "original_name": "Fresh Finds Folk ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODgyNTMwNGMwYjBmZjE0ZTI2MzQyYjNkNzdjOTBlOTgzZTE5MWEw",
+  "snapshot_id": "MCxlYmNjNTcxNWE2MDg4ZjNiOGE2NDBlNWRkMWE5ZTVjNjdjZjNjNDU4",
   "tracks": [
     {
       "added_at": "2024-02-28 05:00:00",
@@ -25,20 +25,100 @@
       "url": "https://open.spotify.com/track/0o394lDZL07bwAv8K11yDj"
     },
     {
-      "added_at": "2024-02-21 05:00:00",
+      "added_at": "2024-03-06 14:10:40",
       "album": {
-        "name": "Birdseye",
-        "url": "https://open.spotify.com/album/15nDuQXtC6M3m3esLEa4w7"
+        "name": "December Song",
+        "url": "https://open.spotify.com/album/7busnS3ClOoXxrNPwdeSg5"
       },
       "artists": [
         {
-          "name": "Babehoven",
-          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+          "name": "Lightning Bug",
+          "url": "https://open.spotify.com/artist/14Fd3BXAV8ipHmfQoGNIj4"
         }
       ],
-      "duration_ms": 151573,
-      "name": "Birdseye",
-      "url": "https://open.spotify.com/track/3g3WLQLqNNLyzCY7rBZup7"
+      "duration_ms": 265191,
+      "name": "December Song",
+      "url": "https://open.spotify.com/track/2zmX9ZW7OXmB5wZ7xJPssM"
+    },
+    {
+      "added_at": "2024-03-06 14:10:40",
+      "album": {
+        "name": "No Worries",
+        "url": "https://open.spotify.com/album/0bVB46dm7GSleUFnDhuDuX"
+      },
+      "artists": [
+        {
+          "name": "Mal Not Bad",
+          "url": "https://open.spotify.com/artist/2ufQNkP4cn7cHHgh9l3jqL"
+        }
+      ],
+      "duration_ms": 234174,
+      "name": "No Worries",
+      "url": "https://open.spotify.com/track/0HTiA0Al8NXUD5NSPvoHVH"
+    },
+    {
+      "added_at": "2024-03-06 14:10:40",
+      "album": {
+        "name": "Under The Tree",
+        "url": "https://open.spotify.com/album/6LwWXUb9C8L2bPdCAeLPeC"
+      },
+      "artists": [
+        {
+          "name": "Victoria Bigelow",
+          "url": "https://open.spotify.com/artist/3QcQHXrN1oIQO9kCihqNCU"
+        }
+      ],
+      "duration_ms": 279444,
+      "name": "Under The Tree",
+      "url": "https://open.spotify.com/track/5k8KgN50j3XtvIdHIEgiqO"
+    },
+    {
+      "added_at": "2024-03-06 14:10:40",
+      "album": {
+        "name": "Nose Job",
+        "url": "https://open.spotify.com/album/0iFR1tLijczTAbsjEiGJDF"
+      },
+      "artists": [
+        {
+          "name": "Caity Krone",
+          "url": "https://open.spotify.com/artist/0qMLMrYSgSJBquDGCOMERs"
+        }
+      ],
+      "duration_ms": 287300,
+      "name": "Nose Job",
+      "url": "https://open.spotify.com/track/6IB1YxShFrWmhBxBtcr1aQ"
+    },
+    {
+      "added_at": "2024-03-06 14:10:40",
+      "album": {
+        "name": "About It",
+        "url": "https://open.spotify.com/album/2tA9iTX6e5UbpCSE3axalq"
+      },
+      "artists": [
+        {
+          "name": "Raavi",
+          "url": "https://open.spotify.com/artist/2TOe8Cf1hnlJTQWcTStQ64"
+        }
+      ],
+      "duration_ms": 132189,
+      "name": "About It",
+      "url": "https://open.spotify.com/track/2jrDrfZImsSBvaDY58ZCHv"
+    },
+    {
+      "added_at": "2024-03-06 14:10:40",
+      "album": {
+        "name": "Astral Magic",
+        "url": "https://open.spotify.com/album/0YdT4YkQ2mQgxuOLZbEjwf"
+      },
+      "artists": [
+        {
+          "name": "Lonas",
+          "url": "https://open.spotify.com/artist/4IK8Q9friPfYKvX4n83vYL"
+        }
+      ],
+      "duration_ms": 197356,
+      "name": "Iron and Helium",
+      "url": "https://open.spotify.com/track/4bt0B0kirnReeofAcZRO39"
     },
     {
       "added_at": "2024-02-28 05:00:00",
@@ -55,6 +135,54 @@
       "duration_ms": 320200,
       "name": "Your Eyes Tell Stories",
       "url": "https://open.spotify.com/track/2L0lffL9iJypY0PDGEg169"
+    },
+    {
+      "added_at": "2024-03-06 14:10:40",
+      "album": {
+        "name": "Escape Artist",
+        "url": "https://open.spotify.com/album/6YeJDvjCE5ZoXVSe4mKnSY"
+      },
+      "artists": [
+        {
+          "name": "Danielle Durack",
+          "url": "https://open.spotify.com/artist/6GW3s0BFKxz18pDxGXPQnG"
+        }
+      ],
+      "duration_ms": 200773,
+      "name": "Jackson",
+      "url": "https://open.spotify.com/track/3DZccgDWkT2PJrmvTDDI1a"
+    },
+    {
+      "added_at": "2024-02-21 05:00:00",
+      "album": {
+        "name": "Birdseye",
+        "url": "https://open.spotify.com/album/15nDuQXtC6M3m3esLEa4w7"
+      },
+      "artists": [
+        {
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+        }
+      ],
+      "duration_ms": 151573,
+      "name": "Birdseye",
+      "url": "https://open.spotify.com/track/3g3WLQLqNNLyzCY7rBZup7"
+    },
+    {
+      "added_at": "2024-03-06 14:10:40",
+      "album": {
+        "name": "Good Game Baby",
+        "url": "https://open.spotify.com/album/01pVHm3Mq0ycMo7LJIQw3Q"
+      },
+      "artists": [
+        {
+          "name": "Bats",
+          "url": "https://open.spotify.com/artist/4iuECUfKK1Iulmgxt5MObO"
+        }
+      ],
+      "duration_ms": 297766,
+      "name": "Are you like me?",
+      "url": "https://open.spotify.com/track/2LQ46zs84tbUKDktxx00OB"
     },
     {
       "added_at": "2024-02-28 05:00:00",
@@ -91,6 +219,22 @@
       "duration_ms": 246724,
       "name": "Cicadas",
       "url": "https://open.spotify.com/track/6N6IRpe4QQnwddfDtxL1oz"
+    },
+    {
+      "added_at": "2024-03-06 14:10:40",
+      "album": {
+        "name": "Gardens",
+        "url": "https://open.spotify.com/album/2nEOjgrISBV0p1xI6qlY73"
+      },
+      "artists": [
+        {
+          "name": "Ivan Theva",
+          "url": "https://open.spotify.com/artist/5DXiy58vu9lP6cW5eKDeBg"
+        }
+      ],
+      "duration_ms": 248280,
+      "name": "Gardens",
+      "url": "https://open.spotify.com/track/7uXbGBpQgl1TkK9mHdRs2V"
     },
     {
       "added_at": "2024-02-28 05:00:00",
@@ -1491,186 +1635,6 @@
       "duration_ms": 272746,
       "name": "These Ghosts",
       "url": "https://open.spotify.com/track/6mutJYePzlpQXk2Kf9PGYt"
-    },
-    {
-      "added_at": "2024-01-17 05:00:00",
-      "album": {
-        "name": "Summer's Our Forever Now",
-        "url": "https://open.spotify.com/album/6UyKPSNayNJ1R5Dhf3EVVh"
-      },
-      "artists": [
-        {
-          "name": "Nic van Graan",
-          "url": "https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt"
-        }
-      ],
-      "duration_ms": 251986,
-      "name": "Summer's Our Forever Now",
-      "url": "https://open.spotify.com/track/4pYKl8eS6DC4sNg5lzb8p1"
-    },
-    {
-      "added_at": "2024-01-17 05:00:00",
-      "album": {
-        "name": "Blueberry Roan",
-        "url": "https://open.spotify.com/album/6GtAJ9jVdoGYMKbPCU5IWj"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Terrell",
-          "url": "https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3"
-        }
-      ],
-      "duration_ms": 249285,
-      "name": "Blueberry Roan",
-      "url": "https://open.spotify.com/track/129PyNIvFZTnvE6CMvdvEA"
-    },
-    {
-      "added_at": "2024-01-17 05:00:00",
-      "album": {
-        "name": "Anomaly",
-        "url": "https://open.spotify.com/album/4bjGtIF7Nne47LE0ZJS8bt"
-      },
-      "artists": [
-        {
-          "name": "Lonas",
-          "url": "https://open.spotify.com/artist/4IK8Q9friPfYKvX4n83vYL"
-        }
-      ],
-      "duration_ms": 197316,
-      "name": "Anomaly",
-      "url": "https://open.spotify.com/track/62acj3EB8p2O6oLtWhYHpO"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "kid",
-        "url": "https://open.spotify.com/album/6WSJyY3FStkw7JXZaU5VHa"
-      },
-      "artists": [
-        {
-          "name": "Keni Titus",
-          "url": "https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj"
-        }
-      ],
-      "duration_ms": 191080,
-      "name": "kid",
-      "url": "https://open.spotify.com/track/4F0jYIYcVtiH5OM6fpN7Gb"
-    },
-    {
-      "added_at": "2024-01-17 05:00:00",
-      "album": {
-        "name": "Obituary",
-        "url": "https://open.spotify.com/album/5kRwwxaxKpgVKfHctwD2IU"
-      },
-      "artists": [
-        {
-          "name": "Chris Emond",
-          "url": "https://open.spotify.com/artist/3hT9y4dPYV9Q7PUaFix4Oy"
-        }
-      ],
-      "duration_ms": 173258,
-      "name": "Obituary",
-      "url": "https://open.spotify.com/track/70lWQGHi7jhS9cUsX4avYj"
-    },
-    {
-      "added_at": "2024-01-17 05:00:00",
-      "album": {
-        "name": "Marionette / House of Cards",
-        "url": "https://open.spotify.com/album/7rLcvCTK0iDdNcC7futfB7"
-      },
-      "artists": [
-        {
-          "name": "Julius Black",
-          "url": "https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj"
-        }
-      ],
-      "duration_ms": 257566,
-      "name": "Marionette",
-      "url": "https://open.spotify.com/track/65lju0rKzbCahKyX6WEJTb"
-    },
-    {
-      "added_at": "2024-01-17 05:00:00",
-      "album": {
-        "name": "somebody's daughter",
-        "url": "https://open.spotify.com/album/04IWjF3yuXKw8kN8SiIiwk"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "somebody's daughter",
-      "url": "https://open.spotify.com/track/2YJ7BCPxTh56f4jSeXwlvK"
-    },
-    {
-      "added_at": "2024-01-17 05:00:00",
-      "album": {
-        "name": "apologize",
-        "url": "https://open.spotify.com/album/1ca2uRh8OJXogVO3dWQfye"
-      },
-      "artists": [
-        {
-          "name": "Wander All Winter.",
-          "url": "https://open.spotify.com/artist/0s6YDxpGpZ3UltZhGEYEJm"
-        }
-      ],
-      "duration_ms": 233607,
-      "name": "apologize",
-      "url": "https://open.spotify.com/track/66l6cS1PQwrFjAkuhXyJG8"
-    },
-    {
-      "added_at": "2024-01-17 05:00:00",
-      "album": {
-        "name": "too hard",
-        "url": "https://open.spotify.com/album/0BJsKue0yeVGh5juRA46Xn"
-      },
-      "artists": [
-        {
-          "name": "Mae Krell",
-          "url": "https://open.spotify.com/artist/5OJHIYwDJ1TfeaFLYMSqqe"
-        }
-      ],
-      "duration_ms": 182350,
-      "name": "too hard",
-      "url": "https://open.spotify.com/track/5oMTUjD9msQZ0xLXRQBjDs"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "die slower",
-        "url": "https://open.spotify.com/album/2fGiVuDMhTGQNSjhKjc0zE"
-      },
-      "artists": [
-        {
-          "name": "Brendan Abernathy",
-          "url": "https://open.spotify.com/artist/39ETOzAilLp4bcJAUU8mmW"
-        },
-        {
-          "name": "Annie Omalley",
-          "url": "https://open.spotify.com/artist/0TEaL7Y50jr7N3mjxqFGBK"
-        }
-      ],
-      "duration_ms": 195187,
-      "name": "Die Slower",
-      "url": "https://open.spotify.com/track/7lwqr6NGpzsYVZK5ovcyRr"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "London",
-        "url": "https://open.spotify.com/album/6ztopxq8V8PtZpwULj1tss"
-      },
-      "artists": [
-        {
-          "name": "Devan",
-          "url": "https://open.spotify.com/artist/5w2ZZrN4yX50qOLk9I8aI2"
-        }
-      ],
-      "duration_ms": 196008,
-      "name": "London",
-      "url": "https://open.spotify.com/track/6ffvsCiyxNdxPzsjxP5q16"
     }
   ],
   "unique_name": "Fresh Finds Folk ",

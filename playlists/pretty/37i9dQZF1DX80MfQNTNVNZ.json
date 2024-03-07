@@ -1,12 +1,12 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul and R&B",
-  "num_followers": 175275,
+  "num_followers": 175389,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjg1NzRkMjQ3Y2FiZmMyZTY5Y2YzNjM3MjEzMzc5NWI3Mzg5MTA4",
+  "snapshot_id": "MCw1NjU5ZDhjYjIxMjc5ZjExZTI1MDI1MDZkMTk1Y2NlN2NlYmZkYzI1",
   "tracks": [
     {
       "added_at": "2024-02-29 15:54:26",
@@ -742,18 +742,6 @@
         {
           "name": "Catpack",
           "url": "https://open.spotify.com/artist/68KbEcrrJYafVy6ChYVqyt"
-        },
-        {
-          "name": "Amber Navran",
-          "url": "https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH"
-        },
-        {
-          "name": "Jacob Mann",
-          "url": "https://open.spotify.com/artist/6cM1vbrKTztN2uNjH8ub6F"
-        },
-        {
-          "name": "Phil Beaudreau",
-          "url": "https://open.spotify.com/artist/3U6rbhm05Jzcux0IOP0poA"
         }
       ],
       "duration_ms": 182355,
@@ -883,50 +871,6 @@
     {
       "added_at": "2024-02-29 15:54:26",
       "album": {
-        "name": "Where I Go (feat. H.E.R.)",
-        "url": "https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu"
-      },
-      "artists": [
-        {
-          "name": "NxWorries",
-          "url": "https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Knxwledge",
-          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
-        }
-      ],
-      "duration_ms": 201026,
-      "name": "Where I Go (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
-    },
-    {
-      "added_at": "2024-02-29 15:54:26",
-      "album": {
-        "name": "Cure (Acoustic)",
-        "url": "https://open.spotify.com/album/0zu1VYYyrXYevuYOSUibPp"
-      },
-      "artists": [
-        {
-          "name": "Moonchild",
-          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
-        }
-      ],
-      "duration_ms": 261927,
-      "name": "Cure - Acoustic",
-      "url": "https://open.spotify.com/track/3NO4k1Yn1jAci7nliKSKp9"
-    },
-    {
-      "added_at": "2024-02-29 15:54:26",
-      "album": {
         "name": "Good Care",
         "url": "https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d"
       },
@@ -951,6 +895,22 @@
     {
       "added_at": "2024-02-29 15:54:26",
       "album": {
+        "name": "Cure (Acoustic)",
+        "url": "https://open.spotify.com/album/0zu1VYYyrXYevuYOSUibPp"
+      },
+      "artists": [
+        {
+          "name": "Moonchild",
+          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
+        }
+      ],
+      "duration_ms": 261927,
+      "name": "Cure - Acoustic",
+      "url": "https://open.spotify.com/track/3NO4k1Yn1jAci7nliKSKp9"
+    },
+    {
+      "added_at": "2024-02-29 15:54:26",
+      "album": {
         "name": "April",
         "url": "https://open.spotify.com/album/01vJILu1nYj93pSPcP5IUQ"
       },
@@ -963,6 +923,34 @@
       "duration_ms": 162153,
       "name": "You and I",
       "url": "https://open.spotify.com/track/2RjsAYVbdZPISqnsWd3Hup"
+    },
+    {
+      "added_at": "2024-02-29 15:54:26",
+      "album": {
+        "name": "Where I Go (feat. H.E.R.)",
+        "url": "https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu"
+      },
+      "artists": [
+        {
+          "name": "NxWorries",
+          "url": "https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Knxwledge",
+          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
+        }
+      ],
+      "duration_ms": 201026,
+      "name": "Where I Go (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
     },
     {
       "added_at": "2024-02-29 15:54:26",
@@ -1075,38 +1063,6 @@
     {
       "added_at": "2024-02-29 15:54:26",
       "album": {
-        "name": "Heart Ain't Empty",
-        "url": "https://open.spotify.com/album/7s00wxQvavyaVWYPJjL9gr"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        }
-      ],
-      "duration_ms": 177204,
-      "name": "Heart Ain't Empty",
-      "url": "https://open.spotify.com/track/1PqnJfIMxnUrpUISfdbPGQ"
-    },
-    {
-      "added_at": "2024-02-29 15:54:26",
-      "album": {
-        "name": "I Wish you Roses",
-        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 225947,
-      "name": "I Wish you Roses",
-      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
-    },
-    {
-      "added_at": "2024-02-29 15:54:26",
-      "album": {
         "name": "4EVA (feat. Pharrell Williams)",
         "url": "https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx"
       },
@@ -1131,6 +1087,38 @@
       "duration_ms": 190373,
       "name": "4EVA (feat. Pharrell Williams)",
       "url": "https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v"
+    },
+    {
+      "added_at": "2024-02-29 15:54:26",
+      "album": {
+        "name": "I Wish you Roses",
+        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 225947,
+      "name": "I Wish you Roses",
+      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
+    },
+    {
+      "added_at": "2024-02-29 15:54:26",
+      "album": {
+        "name": "Heart Ain't Empty",
+        "url": "https://open.spotify.com/album/7s00wxQvavyaVWYPJjL9gr"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 177204,
+      "name": "Heart Ain't Empty",
+      "url": "https://open.spotify.com/track/1PqnJfIMxnUrpUISfdbPGQ"
     },
     {
       "added_at": "2024-02-29 15:54:26",

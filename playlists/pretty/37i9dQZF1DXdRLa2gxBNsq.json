@@ -1,12 +1,12 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Lendakaris Muertos.",
-  "num_followers": 102519,
+  "num_followers": 102553,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzhjODFiNmVjMzQxMDcwMmY5NGY4ZDIzZjYwYWVkNzQyMzUzYWMw",
+  "snapshot_id": "MCwzMjY1MGY2NDlhZGVlYmFjY2FjN2ZkODE1ZjdhYzc1ZjBiZGQ1MmJj",
   "tracks": [
     {
       "added_at": "2024-02-08 23:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "A Cara de Perro",
-        "url": "https://open.spotify.com/album/1KS57v7kUcLPK0M0Jv70nN"
-      },
-      "artists": [
-        {
-          "name": "El \u00daltimo Ke Zierre",
-          "url": "https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC"
-        }
-      ],
-      "duration_ms": 165573,
-      "name": "Escupir\u00e9 Jodidos",
-      "url": "https://open.spotify.com/track/1FB1Kk4ZmkNu11toR5BWwm"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Vulnerable",
         "url": "https://open.spotify.com/album/7BbQMEtJZ7ut8EDjcnrGyd"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 233200,
       "name": "As\u00ed Es la Vida",
       "url": "https://open.spotify.com/track/2cGNb9Z0OrUjL0xcfPGPO7"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "A Cara de Perro",
+        "url": "https://open.spotify.com/album/1KS57v7kUcLPK0M0Jv70nN"
+      },
+      "artists": [
+        {
+          "name": "El \u00daltimo Ke Zierre",
+          "url": "https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC"
+        }
+      ],
+      "duration_ms": 165573,
+      "name": "Escupir\u00e9 Jodidos",
+      "url": "https://open.spotify.com/track/1FB1Kk4ZmkNu11toR5BWwm"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "Camela or Die 2.0",
+        "url": "https://open.spotify.com/album/0KQsewvuOlmVHhxisVupVb"
+      },
+      "artists": [
+        {
+          "name": "Me Fritos and the Gimme Cheetos",
+          "url": "https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr"
+        }
+      ],
+      "duration_ms": 179197,
+      "name": "Camela or Die 2.0",
+      "url": "https://open.spotify.com/track/0JM8G9uBHKuXZF33JDK8aH"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "Semeya de la Rabia",
         "url": "https://open.spotify.com/album/0jexOHFXIH5oUghZyrCWBN"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 242320,
       "name": "Y Sigo en Pie",
       "url": "https://open.spotify.com/track/0XozUY7OB1r1bLcZV26iHp"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Camela or Die 2.0",
-        "url": "https://open.spotify.com/album/0KQsewvuOlmVHhxisVupVb"
-      },
-      "artists": [
-        {
-          "name": "Me Fritos and the Gimme Cheetos",
-          "url": "https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr"
-        }
-      ],
-      "duration_ms": 179197,
-      "name": "Camela or Die 2.0",
-      "url": "https://open.spotify.com/track/0JM8G9uBHKuXZF33JDK8aH"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "J\u00f3dete",
+        "url": "https://open.spotify.com/album/1Z9cvtUbSrXQUuJDO4AglG"
+      },
+      "artists": [
+        {
+          "name": "M.C.D.",
+          "url": "https://open.spotify.com/artist/2sKHlDMJUO4uCZLsEmcun3"
+        }
+      ],
+      "duration_ms": 227991,
+      "name": "Gernika",
+      "url": "https://open.spotify.com/track/5lYKFpHNu0myBwgbmilIfY"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "Camino hacia la ruina",
         "url": "https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 178393,
       "name": "Noche Molona",
       "url": "https://open.spotify.com/track/6rjOCHV71E19A3mq6I1ZzI"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "J\u00f3dete",
-        "url": "https://open.spotify.com/album/1Z9cvtUbSrXQUuJDO4AglG"
-      },
-      "artists": [
-        {
-          "name": "M.C.D.",
-          "url": "https://open.spotify.com/artist/2sKHlDMJUO4uCZLsEmcun3"
-        }
-      ],
-      "duration_ms": 227991,
-      "name": "Gernika",
-      "url": "https://open.spotify.com/track/5lYKFpHNu0myBwgbmilIfY"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Todos Mis Enemigos Se Llaman Cayetano",
-        "url": "https://open.spotify.com/album/4vRnzZz0zMqGjYpQzOQNZL"
-      },
-      "artists": [
-        {
-          "name": "Lendakaris Muertos",
-          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
-        }
-      ],
-      "duration_ms": 57840,
-      "name": "Todos Mis Enemigos Se Llaman Cayetano",
-      "url": "https://open.spotify.com/track/2DBfn7HocTGusEpvCr0xQc"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "El Infierno Es Demasiado Dulce",
         "url": "https://open.spotify.com/album/66xSqjqAaAlwUgaXEeQJmu"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 170290,
       "name": "El Infierno Es Demasiado Dulce",
       "url": "https://open.spotify.com/track/4QVgYxK4QKLyeygg5EtSXN"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Todos Mis Enemigos Se Llaman Cayetano",
+        "url": "https://open.spotify.com/album/4vRnzZz0zMqGjYpQzOQNZL"
+      },
+      "artists": [
+        {
+          "name": "Lendakaris Muertos",
+          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
+        }
+      ],
+      "duration_ms": 57840,
+      "name": "Todos Mis Enemigos Se Llaman Cayetano",
+      "url": "https://open.spotify.com/track/2DBfn7HocTGusEpvCr0xQc"
     },
     {
       "added_at": "2024-02-08 23:00:00",

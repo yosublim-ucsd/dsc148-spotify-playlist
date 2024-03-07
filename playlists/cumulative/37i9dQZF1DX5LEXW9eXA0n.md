@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover:Lee Seung Gi\(이승기\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,161 songs - 3 day 3 hr 13 min
+1,162 songs - 3 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -584,6 +584,7 @@
 | [Love Alone](https://open.spotify.com/track/5V0ZavoSTmk0mQlfyHiDFW) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [Love Alone \(CURTAIN CALL OST Part.6\)](https://open.spotify.com/album/4XgfduD3vOgaJeolOa5Nz4) | 3:27 | 2022-11-22 | 2023-01-21 |
 | [Love Contact](https://open.spotify.com/track/4hEZIBzhFQjJ99Znqwd9y8) | [Park Ki Young](https://open.spotify.com/artist/2wAjuE3pVtauK8ZQ2p4SXN) | [Love Contact](https://open.spotify.com/album/1wtXh0pRrUTdH3hgOCTuvX) | 4:11 | 2022-12-16 | 2023-01-21 |
 | [Love Fool](https://open.spotify.com/track/5gst02IN8JD3CfXM7IfVnc) | [J\-Cera](https://open.spotify.com/artist/3MhLDkENRwJOmFU5MSeLjZ) | [Love Fool](https://open.spotify.com/album/1G8G3j5EIPIsIMtL71hsco) | 3:53 | 2023-09-14 | 2023-11-03 |
+| [Love Fool](https://open.spotify.com/track/78ArztlRnP0iatNE9GJNJB) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Full Bloom](https://open.spotify.com/album/7p24Sh0HP8nIDdrJbJHB3y) | 3:11 | 2024-03-06 |  |
 | [Love from a Real Heart\(2023\)](https://open.spotify.com/track/0Muf8pCSuf50DOoWs9ABVz) | [LEE CHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [Beginning is the First Kiss \(Original Television Soundtrack\), Pt.7](https://open.spotify.com/album/5N1C8ku1f0eBcsPPlNOvxI) | 4:20 | 2023-06-13 | 2023-10-20 |
 | [Love Has Come](https://open.spotify.com/track/2rpDaKl43i3upa2gA5U4Mj) | [박은별](https://open.spotify.com/artist/6eND6gC0dTpsXrhY0If1Gp) | [Love Has Come](https://open.spotify.com/album/7pLEQP2V4TkCTCr2n2vhzV) | 3:59 | 2023-02-14 | 2023-03-28 |
 | [Love Has Gone](https://open.spotify.com/track/1wosDePUhVsLYB3MMdyX20) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [Solar Gamsung Part.7](https://open.spotify.com/album/7yswxvToOpvR5Xgrqa9uKx) | 4:00 | 2024-01-19 |  |
@@ -1147,7 +1148,7 @@
 | [사랑이라 쓰고 이별이라 읽어 \(Write love and Read breakup\)](https://open.spotify.com/track/1VJJ5i8jxeWc3rRFD0tJ8Z) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [사랑이라 쓰고 이별이라 읽어 \(Write love and Read breakup\)](https://open.spotify.com/album/3e0vL5HQsCead5QUmN1Igj) | 3:00 | 2023-09-14 | 2023-12-14 |
 | [사랑하면 되나요](https://open.spotify.com/track/04vS9y0vNGeOSGnLBmnqyk) | [Bbalganyangmal](https://open.spotify.com/artist/02ThU5xgjGLsJBR4RspMwK), [현지](https://open.spotify.com/artist/4vv8PgzckIxkIlZo94VxqT) | [사랑하면 되나요](https://open.spotify.com/album/4kJD6CQyaLHklTnyRy9HNy) | 3:33 | 2023-01-20 | 2023-02-25 |
 | [사랑합니다...](https://open.spotify.com/track/4t1DWpmfKVCv4ValVniwfc) | [Tim](https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY) | [영민](https://open.spotify.com/album/3yQ7TxvLguE04t7eTYE7mF) | 3:48 | 2023-05-05 | 2023-05-16 |
-| [슬픈 사랑은 그리움으로 삼키다](https://open.spotify.com/track/3mXGAVd0raJbNEcEILMbJ7) | [J\-Cera](https://open.spotify.com/artist/3MhLDkENRwJOmFU5MSeLjZ) | [슬픈 사랑은 그리움으로 삼키다](https://open.spotify.com/album/1Kh88hUrbmT8wwlmm22mmf) | 3:54 | 2023-12-13 |  |
+| [슬픈 사랑은 그리움으로 삼키다](https://open.spotify.com/track/3mXGAVd0raJbNEcEILMbJ7) | [J\-Cera](https://open.spotify.com/artist/3MhLDkENRwJOmFU5MSeLjZ) | [슬픈 사랑은 그리움으로 삼키다](https://open.spotify.com/album/1Kh88hUrbmT8wwlmm22mmf) | 3:54 | 2023-12-13 | 2024-03-07 |
 | [아낌없이 주고 싶어](https://open.spotify.com/track/2D3o4ROlfkUE4NOBriN97p) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Themselves OST Chapter\. 3 \(Soundtrack\)](https://open.spotify.com/album/2E46TGiCyxX5W2xVtcg1LP) | 4:25 | 2022-12-27 | 2023-02-25 |
 | [안개 속 어디로](https://open.spotify.com/track/6EzhxjPONekJoXQbe2u7W0) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [왜 오수재인가 \(Original Television Soundtrack\) Pt.6](https://open.spotify.com/album/0RbcfAVkoy1nKigpkLmUaC) | 3:51 | 2022-08-01 | 2022-11-02 |
 | [알지 못하는 너에게](https://open.spotify.com/track/3lCdUc9VIBKL527AS3xerq) | [KIM DO HEE](https://open.spotify.com/artist/2u6Q4aqOAeDYSUUwKYo8r4) | [알지 못하는 너에게](https://open.spotify.com/album/4RS2Q5NXRVOrApadj2If3l) | 3:42 | 2023-11-22 |  |

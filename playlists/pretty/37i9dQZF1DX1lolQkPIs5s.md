@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 
 > ディズニーの人気曲を集めた公式プレイリスト♪ディズニー映画最新作『ウィッシュ』の最新楽曲から、『リトル・マーメイド』『アナと雪の女王』『アラジン』等の名曲、パークの大人気楽曲までセレクト！
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,617 likes - 158 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,634 likes - 158 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 | 22 | [Remember Me \- Japanese Version](https://open.spotify.com/track/2MNE8IJCTzSTtlLslu55om) | [Hiiro Ishibashi](https://open.spotify.com/artist/7FzvUJLnge2wRXwX81WIhN) | [Coco \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/3j5JEm3SBNSwUmg6CsPZcJ) | 3:04 |
 | 23 | [When You Wish Upon a Star](https://open.spotify.com/track/5Td2fdjAbtf6QRUxezycDu) | [Fu Hinami](https://open.spotify.com/artist/7uYithHbmsTY57vmt8oPWP) | [Pinocchio \(Original Soundtrack\)](https://open.spotify.com/album/2brEMZ0YlBCWGAU3ucYjlI) | 1:58 |
 | 24 | [Bon Fire Dance \- Edited Version](https://open.spotify.com/track/19eUx0mqauCxsPjUfxJEMo) | [Tokyo DisneySea](https://open.spotify.com/artist/2g9DwrKeZdqfveNl05NfBV) | [Tokyo Disney Resort Summer Fun!](https://open.spotify.com/album/1jg6m5TvY95Qpu6M8ceN2g) | 4:46 |
-| 25 | [Part of Your World](https://open.spotify.com/track/4oJ3tZEYTw1Cf8KfGnTV50) | [Danielle](https://open.spotify.com/artist/3BNhPTiKBExlE45mYeC9YY) | [The Little Mermaid \(Japanese Original Soundtrack\)](https://open.spotify.com/album/3AWE8IaYnKHHfwvtbibLt9) | 3:34 |
+| 25 | [Part of Your World](https://open.spotify.com/track/4oJ3tZEYTw1Cf8KfGnTV50) | [DANIELLE](https://open.spotify.com/artist/3BNhPTiKBExlE45mYeC9YY) | [The Little Mermaid \(Japanese Original Soundtrack\)](https://open.spotify.com/album/3AWE8IaYnKHHfwvtbibLt9) | 3:34 |
 | 26 | [A Whole New World \- Japanese Version](https://open.spotify.com/track/5Vzko6BJyB4M3xKpoK5uHf) | [Tomoya Nakamura](https://open.spotify.com/artist/7o08DLFYZ6gG3ihZLp7j8X), [Haruka Kinoshita](https://open.spotify.com/artist/1wI6Uih35T0D1OfRAph3kJ) | [Aladdin \(Original Motion Picture Soundtrack/Japanese Version\)](https://open.spotify.com/album/6N5otzqYgkhNWVpjvezbBK) | 2:55 |
 | 27 | [We Don't Talk About Bruno](https://open.spotify.com/track/0uiVxFsZ6FVItALcJ3wntd) | [Tomoko Fujita](https://open.spotify.com/artist/7vdnT1d04GMujTldXgpJBc), [Katsuya](https://open.spotify.com/artist/4lmfIeClNWS71suH7FYuTc), [Ahiru Ohira](https://open.spotify.com/artist/6UB4NMwMTGGp9WSNMMpiMX), [Tasuku Hatanaka](https://open.spotify.com/artist/6RxyQc6YbAHJkDOUSxpKSk), [Aya Hirano](https://open.spotify.com/artist/3i2cfgYBlN8krGOtCqEYHj), [Ruki Saito](https://open.spotify.com/artist/6WUO2cCM13rJEraBTo3lUL), [Encanto \- Cast](https://open.spotify.com/artist/3xLU748QxpTmIVaiNXXg0P) | [Encanto \(Japanese Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1u7yHbNnxPQDKmB2XwhrqT) | 3:36 |
 | 28 | [Can You Feel The Love Tonight](https://open.spotify.com/track/115JOdvpOV9hJs7W5rFING) | [Yoko Kadoyama](https://open.spotify.com/artist/5TVd2SdvUPXEydopNt27ew), [Kento Kaku](https://open.spotify.com/artist/6fciuViWGy7j9fRifmbkAE), [Asei \(Miki\)](https://open.spotify.com/artist/46oAndFDb4vcSrOjQQ0wp4), [Jiro Sato](https://open.spotify.com/artist/0rFx9LyQzucBrFwAfmRktc) | [The Lion King \(Original Motion Picture Soundtrack/Japanese Version\)](https://open.spotify.com/album/3pkboIyEctoZm4KkfJUbKG) | 3:02 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 | 157 | [The Mad Tea Party / The Unbirthday Song / Twinkle Twinkle / Clean Cup Move Down / Mad Watch](https://open.spotify.com/track/0uDuqVAWCOYEH4qM3vWe1g) | [Kathryn Beaumont](https://open.spotify.com/artist/762gpacQ6WcT75zlkrc3Ls), [Edwynn](https://open.spotify.com/artist/3XX7VQJvnPuFrCSaHgexf5), [James Macdonald](https://open.spotify.com/artist/6Wr4qA7iyTKRag1Pyyuv2g), [Jerry Colonna](https://open.spotify.com/artist/4Rg7sNSGzUzaP1qkc5qVhc) | [Alice In Wonderland \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Sfipn1VH7Q0ZSPfXz7oOx) | 4:31 |
 | 158 | [Whistle While You Work](https://open.spotify.com/track/1ai54RVIzu7IKebNbPEwMv) | [Adriana Caselotti](https://open.spotify.com/artist/6AbQqiXLNLzvJSqq2383bZ) | [Snow White and the Seven Dwarfs \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5nmf2deiZ5EvAsc02RmzRk) | 3:23 |
 
-Snapshot ID: `MCwxMWM3Yjk5NjE3MDljYzZjMGE3NzUyZjI1YzU3NDAxYjIxMTUyMjM4`
+Snapshot ID: `MCxkNjQ1YjcwMTliNzZjYWY1NTUyYWQwZjQ2YzU0OTBjMWUzNWI4ZGQx`

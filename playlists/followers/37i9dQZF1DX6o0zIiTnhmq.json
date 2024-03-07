@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 188045,
+  "2024-03-07": 188088,
   "date_first_scraped": "2022-05-30",
   "description": "Mantras for meditation",
   "name": "Magical Mantras",
@@ -1598,6 +1598,24 @@
     },
     {
       "album": {
+        "name": "Rahu Mantra",
+        "url": "https://open.spotify.com/album/0hVTIR5nYASO1KnraFN6hm"
+      },
+      "artists": [
+        {
+          "name": "Anushka Bajaj",
+          "url": "https://open.spotify.com/artist/5LOZkMFBrY9mzJUABtMM1U"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 774000,
+      "name": "Rahu Mantra",
+      "url": "https://open.spotify.com/track/25B8egbE1Q2ixRTnH5kVcB"
+    },
+    {
+      "album": {
         "name": "Ram Naam Chanting",
         "url": "https://open.spotify.com/album/2a3szoALUteejLabQS39M1"
       },
@@ -2127,7 +2145,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 262307,
       "name": "Tera Mangal",
       "url": "https://open.spotify.com/track/2EBn6Tsi8LEIxUWDaUhpGT"

@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 126478,
+  "2024-03-07": 126473,
   "date_first_scraped": "2022-01-22",
   "description": "Brand new music from Monstercat, all in one place.",
   "name": "New Music Weekly | Monstercat",
@@ -10987,6 +10987,28 @@
       "duration_ms": 259604,
       "name": "Sound & Silence",
       "url": "https://open.spotify.com/track/3VVdmxspjqeSNTQaOrhGbX"
+    },
+    {
+      "album": {
+        "name": "sound therapy",
+        "url": "https://open.spotify.com/album/4hmHweoHXduW8hhnyMvxUk"
+      },
+      "artists": [
+        {
+          "name": "zensei \u30bc\u30f3\u30bb\u30fc",
+          "url": "https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63"
+        },
+        {
+          "name": "Delaney Kai",
+          "url": "https://open.spotify.com/artist/4R9LxtRMT4XlrKbbrvEHNl"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "sound therapy",
+      "url": "https://open.spotify.com/track/7lEefCbeaFBzMJZvsEwy27"
     },
     {
       "album": {

@@ -1,118 +1,18 @@
 {
-  "description": "Mujeres a todo volumen.",
-  "num_followers": 13379,
+  "description": "Mujeres a todo volumen. \nCo-curada por Cami.",
+  "num_followers": 13378,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTUyZDhkYmI1ZGVlZjA3ZGU2MTRiOGM4MTliOTJmNGY1NzE5ZTMy",
+  "snapshot_id": "MCxlNWVkZDczZmQzNzE5YjM3ZWViN2Y1ZDQzNzJiYzgwMzE1MDE2NjNh",
   "tracks": [
     {
-      "added_at": "2024-01-10 17:55:32",
+      "added_at": "2024-03-06 03:00:00",
       "album": {
-        "name": "Fing\u00edas",
-        "url": "https://open.spotify.com/album/1V2sg9XB2TP29Ys4ER3fLn"
-      },
-      "artists": [
-        {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "Fing\u00edas",
-      "url": "https://open.spotify.com/track/7o0oY5wRcoV7oPuDhD2J1z"
-    },
-    {
-      "added_at": "2024-01-10 17:55:32",
-      "album": {
-        "name": "Autopoi\u00e9tica",
-        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 152453,
-      "name": "Autopoi\u00e9tica",
-      "url": "https://open.spotify.com/track/7vNHNUWpNNW9G5hokRWVpH"
-    },
-    {
-      "added_at": "2024-01-10 17:55:32",
-      "album": {
-        "name": "t\u00fa no",
-        "url": "https://open.spotify.com/album/3QnYvMHXIl3CM7u9f6IX5d"
-      },
-      "artists": [
-        {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
-        }
-      ],
-      "duration_ms": 177854,
-      "name": "t\u00fa no",
-      "url": "https://open.spotify.com/track/1yo6ROQQqWAHNb6alahCoY"
-    },
-    {
-      "added_at": "2024-01-10 17:55:32",
-      "album": {
-        "name": "Ya No Quieres Quererme",
-        "url": "https://open.spotify.com/album/04v7PRtAqqQdUS2pesHJXw"
-      },
-      "artists": [
-        {
-          "name": "Princesa Alba",
-          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
-        }
-      ],
-      "duration_ms": 189336,
-      "name": "Ya No Quieres Quererme",
-      "url": "https://open.spotify.com/track/0jJV1sxuX624eqrYZWZt8X"
-    },
-    {
-      "added_at": "2024-01-10 17:55:32",
-      "album": {
-        "name": "Todas Seremos Reinas",
-        "url": "https://open.spotify.com/album/3xpcyIxuRq6Zngha1LAqNd"
-      },
-      "artists": [
-        {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
-        },
-        {
-          "name": "Mala Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
-        }
-      ],
-      "duration_ms": 220040,
-      "name": "Agua Segura",
-      "url": "https://open.spotify.com/track/1ieytmUoQYwRV9AzvdgVjf"
-    },
-    {
-      "added_at": "2024-01-10 17:55:32",
-      "album": {
-        "name": "Cosas De La Vida",
-        "url": "https://open.spotify.com/album/37PlSJaDNBVPHnsqhFqfK4"
-      },
-      "artists": [
-        {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
-        }
-      ],
-      "duration_ms": 164143,
-      "name": "Cosas De La Vida",
-      "url": "https://open.spotify.com/track/0WfQLUjyg5wn0zWxsOda07"
-    },
-    {
-      "added_at": "2024-01-10 17:55:32",
-      "album": {
-        "name": "ANASTASIA",
-        "url": "https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO"
+        "name": "ANNA Vol1. LOS AMANTES",
+        "url": "https://open.spotify.com/album/3FBYpRzAkNEMXSqGx9N3rv"
       },
       "artists": [
         {
@@ -120,84 +20,64 @@
           "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
         }
       ],
-      "duration_ms": 155492,
-      "name": "LUNA",
-      "url": "https://open.spotify.com/track/4rejyzjiLkT53w4NWC0Sct"
+      "duration_ms": 227076,
+      "name": "T\u00f3came",
+      "url": "https://open.spotify.com/track/2uwtn0Rtz4RlyfJOpmuaoB"
     },
     {
-      "added_at": "2024-01-10 17:55:32",
+      "added_at": "2024-03-06 03:00:00",
       "album": {
-        "name": "1940 Carmen",
-        "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
+        "name": "Feroza",
+        "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
       },
       "artists": [
         {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
         }
       ],
-      "duration_ms": 240573,
-      "name": "Algo Es Mejor",
-      "url": "https://open.spotify.com/track/5GB8RBBzQLojlzQXtABIRp"
+      "duration_ms": 247418,
+      "name": "Martes",
+      "url": "https://open.spotify.com/track/2mMP8X3Nj1QfONmgbkmdhv"
     },
     {
-      "added_at": "2024-01-10 17:55:32",
+      "added_at": "2024-03-06 03:00:00",
       "album": {
-        "name": "Almismotiempo",
-        "url": "https://open.spotify.com/album/0DdeLpEFBKlHGUT72nyxAQ"
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/3XWaFTDZ8HW5lEkbgznPvj"
       },
       "artists": [
         {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+          "name": "Princesa Alba",
+          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
         }
       ],
-      "duration_ms": 222432,
-      "name": "Millones",
-      "url": "https://open.spotify.com/track/6EYVI4zwxzP3EnViyiI5x0"
+      "duration_ms": 183665,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/5e01tLlWcWCoeVYPthgeRw"
     },
     {
-      "added_at": "2024-01-10 17:55:32",
+      "added_at": "2024-03-06 03:00:00",
       "album": {
-        "name": "e-mail",
-        "url": "https://open.spotify.com/album/7MRRiwXI5ao5uNDEinBIzn"
+        "name": "Jesica Alegr\u00eda",
+        "url": "https://open.spotify.com/album/2UXcnZ1VHKmIOlPvZvi3lm"
       },
       "artists": [
         {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+          "name": "An Espil",
+          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
         },
         {
-          "name": "SOULFIA",
-          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
-        },
-        {
-          "name": "Red Fingers",
-          "url": "https://open.spotify.com/artist/1tLTF6ypPIzjzarePwdcNo"
+          "name": "Ivan C. Bakmas",
+          "url": "https://open.spotify.com/artist/7e28cikzCdfdAXTOdHPC1R"
         }
       ],
-      "duration_ms": 151587,
-      "name": "e-mail",
-      "url": "https://open.spotify.com/track/4XZvEK7CpqmBEBvZoEiwTl"
+      "duration_ms": 191933,
+      "name": "Ilusi\u00f3n",
+      "url": "https://open.spotify.com/track/66zF8AvAPZlAvqvbAGZeCF"
     },
     {
-      "added_at": "2024-01-10 17:55:32",
-      "album": {
-        "name": "Grandes Versiones",
-        "url": "https://open.spotify.com/album/7gqnanuFsI9VHWT3y0QxC6"
-      },
-      "artists": [
-        {
-          "name": "Javiera Parra",
-          "url": "https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8"
-        }
-      ],
-      "duration_ms": 253360,
-      "name": "Humedad",
-      "url": "https://open.spotify.com/track/71JlWe6b281dzhGZVZS0Tc"
-    },
-    {
-      "added_at": "2024-01-10 17:55:32",
+      "added_at": "2024-03-06 03:00:00",
       "album": {
         "name": "COPY+PASTE",
         "url": "https://open.spotify.com/album/2PHqlhJf3wMNXfUvCGMPWk"
@@ -213,70 +93,26 @@
       "url": "https://open.spotify.com/track/4lNJPSKTlH5H2LQAX0pqH2"
     },
     {
-      "added_at": "2024-01-10 17:55:32",
+      "added_at": "2024-03-06 03:00:00",
       "album": {
-        "name": "Faroles",
-        "url": "https://open.spotify.com/album/6E2eSxShTgMRZi3WKjJev0"
+        "name": "Abril",
+        "url": "https://open.spotify.com/album/2uT7GrTnYKL293sssNax85"
       },
       "artists": [
         {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
-        },
-        {
-          "name": "SOULFIA",
-          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
-        },
-        {
-          "name": "Shirel",
-          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
-        },
-        {
-          "name": "KYA",
-          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
+          "name": "Abril Olivera",
+          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
         }
       ],
-      "duration_ms": 178479,
-      "name": "Faroles",
-      "url": "https://open.spotify.com/track/4eh4Et24YVZ97mCumJe0IK"
+      "duration_ms": 159741,
+      "name": "Por el Bien de los Dos",
+      "url": "https://open.spotify.com/track/5YVBaeIf9L56ybZdUYOcjy"
     },
     {
-      "added_at": "2024-01-10 17:55:32",
+      "added_at": "2024-03-06 03:00:00",
       "album": {
-        "name": "ANNA Vol1. LOS AMANTES",
-        "url": "https://open.spotify.com/album/3FBYpRzAkNEMXSqGx9N3rv"
-      },
-      "artists": [
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 296250,
-      "name": "Ganadora",
-      "url": "https://open.spotify.com/track/3neJo4FkVszaL4EEt18uKR"
-    },
-    {
-      "added_at": "2024-01-10 17:55:32",
-      "album": {
-        "name": "B\u00fascate Otra :(",
-        "url": "https://open.spotify.com/album/0tsIWQmMJ2O8A3zZYA8b3h"
-      },
-      "artists": [
-        {
-          "name": "Princesa Alba",
-          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
-        }
-      ],
-      "duration_ms": 210656,
-      "name": "B\u00fascate Otra :(",
-      "url": "https://open.spotify.com/track/7vHjX6rRKFXoMz91dl6M2X"
-    },
-    {
-      "added_at": "2024-01-10 17:55:32",
-      "album": {
-        "name": "MONA XINA",
-        "url": "https://open.spotify.com/album/5RHQ2fzewCE9TeJNG0pQMx"
+        "name": "nunca es lo mismo y.y",
+        "url": "https://open.spotify.com/album/1VXkungPamxIJ0A8rcQMFV"
       },
       "artists": [
         {
@@ -284,31 +120,251 @@
           "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
         }
       ],
-      "duration_ms": 152516,
-      "name": "MONA XINA",
-      "url": "https://open.spotify.com/track/75XPqkFdaR5zFCJNbnj7DA"
+      "duration_ms": 194400,
+      "name": "nunca es lo mismo y.y",
+      "url": "https://open.spotify.com/track/1rA4phidcfjdWIN73fG75X"
     },
     {
-      "added_at": "2024-01-10 17:55:32",
+      "added_at": "2024-03-06 03:00:00",
       "album": {
-        "name": "AMOR MINIMAL",
-        "url": "https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq"
+        "name": "BAJO PRESI\u00d3N",
+        "url": "https://open.spotify.com/album/7pqOiwVjdbibxeQnzAMC0v"
       },
       "artists": [
         {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+          "name": "Soui Uno",
+          "url": "https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu"
         }
       ],
-      "duration_ms": 159254,
-      "name": "Horas contigo",
-      "url": "https://open.spotify.com/track/6Nmqg6NayPzIHUpWDGUSyL"
+      "duration_ms": 130289,
+      "name": "BAJO PRESI\u00d3N",
+      "url": "https://open.spotify.com/track/1HYBEi7PYzjEg7JSm0xzbQ"
     },
     {
-      "added_at": "2024-01-10 17:55:32",
+      "added_at": "2024-03-06 03:00:00",
+      "album": {
+        "name": "AM + bonus Tracks (Edici\u00f3n Aniversario)",
+        "url": "https://open.spotify.com/album/4vGtwmxQqFEbG4FrGhuZel"
+      },
+      "artists": [
+        {
+          "name": "Javiera Parra",
+          "url": "https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8"
+        },
+        {
+          "name": "Los Imposibles",
+          "url": "https://open.spotify.com/artist/6znWM6UcbWBdTafliJGRgz"
+        }
+      ],
+      "duration_ms": 225026,
+      "name": "Maldita Primavera",
+      "url": "https://open.spotify.com/track/72BwodBTqLkvm1pFqoBW6N"
+    },
+    {
+      "added_at": "2024-03-06 03:00:00",
+      "album": {
+        "name": "Prender un Fuego",
+        "url": "https://open.spotify.com/album/3QgG3SuMTWMIsxwzdu7vN3"
+      },
+      "artists": [
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "duration_ms": 168485,
+      "name": "Correte",
+      "url": "https://open.spotify.com/track/2mrN12hv4UYKLCWHvLBSuf"
+    },
+    {
+      "added_at": "2024-03-06 03:00:00",
+      "album": {
+        "name": "si vuelvo a caer",
+        "url": "https://open.spotify.com/album/08TRoa9KPyQpXu3WcA58Nv"
+      },
+      "artists": [
+        {
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+        }
+      ],
+      "duration_ms": 133565,
+      "name": "si vuelvo a caer",
+      "url": "https://open.spotify.com/track/4bTFg8ecsSwHg9ndyK9rR7"
+    },
+    {
+      "added_at": "2024-03-06 03:00:00",
+      "album": {
+        "name": "KARO LUJOSO",
+        "url": "https://open.spotify.com/album/704iL3O0HhQ4Yrs0OdQrak"
+      },
+      "artists": [
+        {
+          "name": "KUINA",
+          "url": "https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb"
+        },
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "KARO LUJOSO",
+      "url": "https://open.spotify.com/track/6Em8fsqiOpU7pcuIdGyfD5"
+    },
+    {
+      "added_at": "2024-03-06 03:00:00",
+      "album": {
+        "name": "Love It",
+        "url": "https://open.spotify.com/album/102WeTzufZpgQQz9fNS2t4"
+      },
+      "artists": [
+        {
+          "name": "Vlntna B",
+          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Love It",
+      "url": "https://open.spotify.com/track/71ANngN8RaJnVnxLs69tZg"
+    },
+    {
+      "added_at": "2024-03-06 03:00:00",
+      "album": {
+        "name": "Hablando a tu coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0NzydCzEbzZVmMfzaccgKh"
+      },
+      "artists": [
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        }
+      ],
+      "duration_ms": 239500,
+      "name": "Hablando a tu coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3KrjA5jcVd3MLAz8lJh4ay"
+    },
+    {
+      "added_at": "2024-03-06 03:00:00",
+      "album": {
+        "name": "Huellas",
+        "url": "https://open.spotify.com/album/5dP8254p4zg1six4QP4P4z"
+      },
+      "artists": [
+        {
+          "name": "Seamoon",
+          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
+        }
+      ],
+      "duration_ms": 182980,
+      "name": "Huellas",
+      "url": "https://open.spotify.com/track/1SVCCEV7QGvSKKhqRz3JHa"
+    },
+    {
+      "added_at": "2024-03-06 03:00:00",
+      "album": {
+        "name": "Sentimiento Real G",
+        "url": "https://open.spotify.com/album/1iThcdxlMgJlfFyvBez6Gm"
+      },
+      "artists": [
+        {
+          "name": "Akatumamy",
+          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
+        },
+        {
+          "name": "Nass G",
+          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
+        }
+      ],
+      "duration_ms": 204276,
+      "name": "Sentimiento Real G",
+      "url": "https://open.spotify.com/track/4F8Ey7mqO9ELVgJY9saaEk"
+    },
+    {
+      "added_at": "2024-03-06 03:00:00",
+      "album": {
+        "name": "De Canciones Tristes y Otras Sutilezas",
+        "url": "https://open.spotify.com/album/4pYSsYWtj0fPzTXF5tES60"
+      },
+      "artists": [
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+        }
+      ],
+      "duration_ms": 161302,
+      "name": "A la Primera",
+      "url": "https://open.spotify.com/track/3MsD0RrlQb1OoPFInlQoJy"
+    },
+    {
+      "added_at": "2024-03-06 03:00:00",
+      "album": {
+        "name": "Arza y Toma",
+        "url": "https://open.spotify.com/album/4dU7Ci3JxiHQdfZWkVVyIe"
+      },
+      "artists": [
+        {
+          "name": "Aura BAE",
+          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
+        },
+        {
+          "name": "EKKI",
+          "url": "https://open.spotify.com/artist/4lHI9smP4kDm7gz1exU7G5"
+        }
+      ],
+      "duration_ms": 214800,
+      "name": "Arza y Toma",
+      "url": "https://open.spotify.com/track/7Jwb6OyKlFaNwCcLKbhzKz"
+    },
+    {
+      "added_at": "2024-03-06 03:00:00",
+      "album": {
+        "name": "Sismo",
+        "url": "https://open.spotify.com/album/4vQmVKGg34lT3BYRwWI0cO"
+      },
+      "artists": [
+        {
+          "name": "Emaflu",
+          "url": "https://open.spotify.com/artist/5PS09CXdU7Lze7eAk2z3Yy"
+        },
+        {
+          "name": "Seamoon",
+          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
+        },
+        {
+          "name": "Cuatrobeats",
+          "url": "https://open.spotify.com/artist/5VH4yORLdFVHVSqCYAjjoh"
+        },
+        {
+          "name": "Dj Efe",
+          "url": "https://open.spotify.com/artist/4XdZAAWHiuwSW2gpTVWx4U"
+        }
+      ],
+      "duration_ms": 232501,
+      "name": "Sismo",
+      "url": "https://open.spotify.com/track/5rXwuI5uiv1ZaSOXm9o4Gm"
+    },
+    {
+      "added_at": "2024-03-06 03:00:00",
+      "album": {
+        "name": "...M\u00e1s Canciones De Amor",
+        "url": "https://open.spotify.com/album/1W594ba4fqwr07BFRT00q7"
+      },
+      "artists": [
+        {
+          "name": "Shirel",
+          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Negociemos",
+      "url": "https://open.spotify.com/track/2uWe03F58LgGYg1px68izl"
+    },
+    {
+      "added_at": "2024-03-06 03:00:00",
       "album": {
         "name": "Adentro",
-        "url": "https://open.spotify.com/album/4EkouVwYZqZVmnnxx7O6Xr"
+        "url": "https://open.spotify.com/album/3WTzAP8jDP47QJ5XxpfgOt"
       },
       "artists": [
         {
@@ -318,193 +374,65 @@
       ],
       "duration_ms": 198729,
       "name": "Adentro",
-      "url": "https://open.spotify.com/track/4CROIfMRtC28Wx9otPTPER"
+      "url": "https://open.spotify.com/track/65nQli6Slisl9Ksu6o0yLN"
     },
     {
-      "added_at": "2024-01-10 17:55:32",
+      "added_at": "2024-03-06 03:00:00",
       "album": {
-        "name": "Grandes Versiones",
-        "url": "https://open.spotify.com/album/7gqnanuFsI9VHWT3y0QxC6"
+        "name": "14F",
+        "url": "https://open.spotify.com/album/2VOzU65Y6m4Yp4okBNu5D0"
       },
       "artists": [
         {
-          "name": "Javiera Parra",
-          "url": "https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8"
+          "name": "Anto Bosman",
+          "url": "https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa"
         }
       ],
-      "duration_ms": 171146,
-      "name": "El Compromiso",
-      "url": "https://open.spotify.com/track/1fXbBlfgDB6kVOY8h2UI8y"
+      "duration_ms": 142800,
+      "name": "14F",
+      "url": "https://open.spotify.com/track/4kJrtSLNJCJnhvk0VDFyqr"
     },
     {
-      "added_at": "2024-01-10 17:55:32",
+      "added_at": "2024-03-06 03:00:00",
       "album": {
-        "name": "Nocturna",
-        "url": "https://open.spotify.com/album/5vU4ilAXgThxcO2wEuPuk3"
+        "name": "Mon Amour",
+        "url": "https://open.spotify.com/album/0qDwe9X4mjDhLqakQczewu"
       },
       "artists": [
         {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+          "name": "KYA",
+          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
         }
       ],
-      "duration_ms": 149900,
-      "name": "Me Gustas T\u00fa",
-      "url": "https://open.spotify.com/track/5rKuJ17ulyXWrqtLKS4sFM"
+      "duration_ms": 174626,
+      "name": "Mon Amour",
+      "url": "https://open.spotify.com/track/2mzvkKpEMFYTfLJeXVH0Ua"
     },
     {
-      "added_at": "2024-01-10 17:55:32",
+      "added_at": "2024-03-06 03:00:00",
       "album": {
-        "name": "Mercurio 52",
-        "url": "https://open.spotify.com/album/5NnVjmKQbdlDzMQ0xXoOMo"
+        "name": "Tiempo al tiempo",
+        "url": "https://open.spotify.com/album/49xKvARWjC4aqG3yydZnGz"
       },
       "artists": [
         {
-          "name": "Sarazul",
-          "url": "https://open.spotify.com/artist/3IUEajBsE3ojR2AY0uYMK0"
-        }
-      ],
-      "duration_ms": 63818,
-      "name": "Poema",
-      "url": "https://open.spotify.com/track/13BzFGCNdtII1pH4xSNkjh"
-    },
-    {
-      "added_at": "2024-01-10 17:55:32",
-      "album": {
-        "name": "Kintsugi",
-        "url": "https://open.spotify.com/album/6nMidcYOqTOBbbnBiwhe8J"
-      },
-      "artists": [
-        {
-          "name": "Seamoon",
-          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Kintsugi",
-      "url": "https://open.spotify.com/track/6wKI2NwASglOeCVimzdeD6"
-    },
-    {
-      "added_at": "2024-01-10 17:55:32",
-      "album": {
-        "name": "Todas Seremos Reinas",
-        "url": "https://open.spotify.com/album/3xpcyIxuRq6Zngha1LAqNd"
-      },
-      "artists": [
-        {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
-        }
-      ],
-      "duration_ms": 168360,
-      "name": "Me Enamore De Mi",
-      "url": "https://open.spotify.com/track/5Ollqs3igkGH8yxiAyCjj1"
-    },
-    {
-      "added_at": "2024-01-10 17:55:32",
-      "album": {
-        "name": "Nada Para Ti",
-        "url": "https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+          "name": "Catana",
+          "url": "https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90"
         },
         {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+          "name": "Ese T\u00e9",
+          "url": "https://open.spotify.com/artist/7iDtJkNeuBUsUU03UMzZzE"
         }
       ],
-      "duration_ms": 236255,
-      "name": "Nada Para Ti",
-      "url": "https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W"
+      "duration_ms": 142666,
+      "name": "Tiempo al tiempo",
+      "url": "https://open.spotify.com/track/0ZBpz8fPm3Evsp1O8zMmOJ"
     },
     {
-      "added_at": "2024-01-10 17:55:32",
+      "added_at": "2024-03-06 03:00:00",
       "album": {
-        "name": "1940 Carmen",
-        "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 263093,
-      "name": "Ni\u00f1a",
-      "url": "https://open.spotify.com/track/0pTBI1E5iFu247EtUA4Uu5"
-    },
-    {
-      "added_at": "2024-01-10 17:55:32",
-      "album": {
-        "name": "Baby Oficial",
-        "url": "https://open.spotify.com/album/3xYJOp6BPD6BLV8qhPdG1O"
-      },
-      "artists": [
-        {
-          "name": "Princesa Alba",
-          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
-        }
-      ],
-      "duration_ms": 181516,
-      "name": "Baby Oficial",
-      "url": "https://open.spotify.com/track/6mw6sNfqXVawKUfdYtIzCM"
-    },
-    {
-      "added_at": "2024-01-10 17:55:32",
-      "album": {
-        "name": "Loba",
-        "url": "https://open.spotify.com/album/4NADnupTb3PMgvlU5sxSSv"
-      },
-      "artists": [
-        {
-          "name": "Aura BAE",
-          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
-        }
-      ],
-      "duration_ms": 196967,
-      "name": "Loba",
-      "url": "https://open.spotify.com/track/2ZsaELRssZxDlUYcGu7tTK"
-    },
-    {
-      "added_at": "2024-01-10 17:55:32",
-      "album": {
-        "name": "Fine",
-        "url": "https://open.spotify.com/album/1C8XRMbIpfKRbJn58ZNofo"
-      },
-      "artists": [
-        {
-          "name": "Seamoon",
-          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
-        }
-      ],
-      "duration_ms": 182384,
-      "name": "Fine",
-      "url": "https://open.spotify.com/track/3LCT2iQ7fCeEdUNwOQEona"
-    },
-    {
-      "added_at": "2024-01-10 17:55:32",
-      "album": {
-        "name": "Nos lo hemos dicho todo",
-        "url": "https://open.spotify.com/album/6250SloDS9Pi1PFnDVNEZ3"
-      },
-      "artists": [
-        {
-          "name": "Myriam Hernandez",
-          "url": "https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT"
-        }
-      ],
-      "duration_ms": 253271,
-      "name": "Nos lo hemos dicho todo",
-      "url": "https://open.spotify.com/track/1uswwRNBKAxRBoY4rtxXD1"
-    },
-    {
-      "added_at": "2024-01-10 17:55:32",
-      "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/4CRoaYnahZXOI7zsM14Ca1"
+        "name": "Naughty Girl",
+        "url": "https://open.spotify.com/album/7bhmi0fi3gB7PXRKfeE4jQ"
       },
       "artists": [
         {
@@ -518,293 +446,361 @@
       ],
       "duration_ms": 176529,
       "name": "Naughty Girl",
-      "url": "https://open.spotify.com/track/2NwQbPPvOug0y3GEqDGjHD"
+      "url": "https://open.spotify.com/track/6N1T8r7vpVoxUIwdMCihKr"
     },
     {
-      "added_at": "2024-01-10 17:55:32",
+      "added_at": "2024-03-06 03:00:00",
       "album": {
-        "name": "ANASTASIA",
-        "url": "https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO"
+        "name": "Al calor de un sol que acaba de morir",
+        "url": "https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9"
       },
       "artists": [
         {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+          "name": "Marineros",
+          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
         }
       ],
-      "duration_ms": 174709,
-      "name": "LENTO",
-      "url": "https://open.spotify.com/track/4sTyc7dnCKBq7TaoNFlwzX"
+      "duration_ms": 178055,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/0bxSYZKwDjqFm11YRt987r"
     },
     {
-      "added_at": "2024-01-10 17:55:32",
+      "added_at": "2024-03-06 03:00:00",
       "album": {
-        "name": "Venus & Blue",
-        "url": "https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1"
+        "name": "Tarde o temprano",
+        "url": "https://open.spotify.com/album/1q1ZEjeH4JnnweEEnCBitJ"
       },
       "artists": [
         {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+          "name": "Masquemusica",
+          "url": "https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo"
+        },
+        {
+          "name": "Dj Perez",
+          "url": "https://open.spotify.com/artist/4pYx5PDavOZqKec3vIX9Xr"
         }
       ],
-      "duration_ms": 190679,
-      "name": "Llorar",
-      "url": "https://open.spotify.com/track/4iDwj7K2LsUW2HFf5UdzYI"
+      "duration_ms": 222952,
+      "name": "Tarde o temprano",
+      "url": "https://open.spotify.com/track/0hcM9LkquCW5AEZb6cEbwq"
     },
     {
-      "added_at": "2024-01-10 17:55:32",
+      "added_at": "2024-03-06 03:00:00",
       "album": {
-        "name": "YA NO SOY TU BABY",
-        "url": "https://open.spotify.com/album/3nkkxVQVdD6LrC0pxPhJY3"
+        "name": "Recopilatorio",
+        "url": "https://open.spotify.com/album/20ybOdg170EXOUuWsTWgNg"
       },
       "artists": [
         {
-          "name": "Princesa Alba",
-          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
+          "name": "Martina Lluvias",
+          "url": "https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo"
         }
       ],
-      "duration_ms": 172353,
-      "name": "YA NO SOY TU BABY",
-      "url": "https://open.spotify.com/track/3AIZ7XY0YxZHJ2Ao6d0YSg"
+      "duration_ms": 186013,
+      "name": "Cu\u00e1ntas Veces",
+      "url": "https://open.spotify.com/track/6UhnK295yppIxUQu5M6Smf"
     },
     {
-      "added_at": "2024-01-10 17:55:32",
+      "added_at": "2024-03-06 03:00:00",
       "album": {
-        "name": "De Canciones Tristes y Otras Sutilezas",
-        "url": "https://open.spotify.com/album/4pYSsYWtj0fPzTXF5tES60"
+        "name": "Las palabras que no sientes",
+        "url": "https://open.spotify.com/album/4lZuwyxexe4p1YPxtgUmuR"
       },
       "artists": [
         {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+          "name": "Mora Lucay",
+          "url": "https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L"
         }
       ],
-      "duration_ms": 310024,
-      "name": "Qu\u00e9 M\u00e1s Quieres de M\u00ed",
-      "url": "https://open.spotify.com/track/4ja24P4mH0J8YijrErAQAh"
+      "duration_ms": 148339,
+      "name": "Las palabras que no sientes",
+      "url": "https://open.spotify.com/track/0L35bVS6euGPgrVPPYW8wW"
     },
     {
-      "added_at": "2024-01-10 17:55:32",
+      "added_at": "2024-03-06 03:00:00",
       "album": {
-        "name": "Ganas de Dejarte",
-        "url": "https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za"
+        "name": "ANT\u00cdDOTO",
+        "url": "https://open.spotify.com/album/26rubL6YMJu0GFTpyDcHxX"
       },
       "artists": [
         {
-          "name": "Olivia Garc\u00eda",
-          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
+          "name": "Antipatriarka",
+          "url": "https://open.spotify.com/artist/5rZyPEZVynb13WM1T0AA1p"
         }
       ],
-      "duration_ms": 139688,
-      "name": "Ganas de Dejarte",
-      "url": "https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT"
+      "duration_ms": 153996,
+      "name": "antes de marchitarme",
+      "url": "https://open.spotify.com/track/3SebSOyNzn2PWib9xiOlJO"
     },
     {
-      "added_at": "2024-01-10 17:55:32",
+      "added_at": "2024-03-06 03:00:00",
       "album": {
-        "name": "El Regalito",
-        "url": "https://open.spotify.com/album/1Nf4UdcDH5Dn1U5aqTovUl"
+        "name": "Albor",
+        "url": "https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7"
       },
       "artists": [
         {
-          "name": "Maria Jose Quintanilla",
-          "url": "https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg"
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+        },
+        {
+          "name": "Martina Lluvias",
+          "url": "https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo"
+        },
+        {
+          "name": "Mora Lucay",
+          "url": "https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L"
+        },
+        {
+          "name": "Chini.png",
+          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
         }
       ],
-      "duration_ms": 151444,
-      "name": "El Regalito",
-      "url": "https://open.spotify.com/track/10VSk1JjgkNckHhlw4w4fv"
+      "duration_ms": 270279,
+      "name": "entre las sombras,",
+      "url": "https://open.spotify.com/track/4LEBPYdBOgHF9aYCliGfhn"
     },
     {
-      "added_at": "2024-01-10 17:55:32",
+      "added_at": "2024-03-06 03:00:00",
       "album": {
-        "name": "Carambita",
-        "url": "https://open.spotify.com/album/0ZoMyUZZDohtpbNgImIFiO"
+        "name": "Las Cosas Lento",
+        "url": "https://open.spotify.com/album/6FmvVxbiZ0LuYe4qwFVngj"
       },
       "artists": [
         {
-          "name": "Seamoon",
-          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
+          "name": "Ni\u00f1a Tormenta",
+          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Carambita",
-      "url": "https://open.spotify.com/track/5PGj2N7XF82ZHJzXq94by7"
+      "duration_ms": 208295,
+      "name": "Voy a hacer las cosas lento",
+      "url": "https://open.spotify.com/track/49duWGcDtY71As1gHIuQGz"
     },
     {
-      "added_at": "2024-01-10 17:55:32",
+      "added_at": "2024-03-06 03:00:00",
       "album": {
-        "name": "Fly",
-        "url": "https://open.spotify.com/album/3sOFRrSp4OZB6cQ0WjScLb"
+        "name": "aterrizar",
+        "url": "https://open.spotify.com/album/1QW9aeWv2avc7FR1z3oD2h"
       },
       "artists": [
         {
-          "name": "Aura BAE",
-          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
+          "name": "Vale Castillo",
+          "url": "https://open.spotify.com/artist/3kQFg1b6dX3GfuQL58ANpF"
         }
       ],
-      "duration_ms": 237272,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/348hkzsDDBKrBDOMc5b1Qf"
+      "duration_ms": 178285,
+      "name": "aterrizar",
+      "url": "https://open.spotify.com/track/1WBfPZBIHbEmaS1PymNCTl"
     },
     {
-      "added_at": "2024-01-10 17:55:32",
+      "added_at": "2024-03-06 03:00:00",
       "album": {
-        "name": "Invencible",
-        "url": "https://open.spotify.com/album/6FKGwho8LYdyFa26NMiIkl"
+        "name": "todo lo que fui",
+        "url": "https://open.spotify.com/album/32nuoeKydzLuyZh5gwzoZv"
       },
       "artists": [
+        {
+          "name": "cata teuber",
+          "url": "https://open.spotify.com/artist/1mdZc8QkR0STDJdjBN3fE4"
+        }
+      ],
+      "duration_ms": 212702,
+      "name": "casas de cart\u00f3n",
+      "url": "https://open.spotify.com/track/16titNP6WgYHlaRGjbPySh"
+    },
+    {
+      "added_at": "2024-03-06 03:00:00",
+      "album": {
+        "name": "Culona y Llorona.",
+        "url": "https://open.spotify.com/album/2LeboBZBofMm9cUz6MYKAF"
+      },
+      "artists": [
+        {
+          "name": "Esteza",
+          "url": "https://open.spotify.com/artist/4ywTwQEW20qTHhC7nJPZsJ"
+        },
+        {
+          "name": "Sofia Hervier",
+          "url": "https://open.spotify.com/artist/0bk1zGf1qLB7YC2NXPByE3"
+        },
+        {
+          "name": "LUCATO",
+          "url": "https://open.spotify.com/artist/7g45ys9hIN4FYd3evubK8l"
+        }
+      ],
+      "duration_ms": 157099,
+      "name": "For Real",
+      "url": "https://open.spotify.com/track/3O5XAiurMosdHxiOYckoYS"
+    },
+    {
+      "added_at": "2024-03-06 03:00:00",
+      "album": {
+        "name": "REPR\u00cdS",
+        "url": "https://open.spotify.com/album/6VV0FKDFoMDWL1vAuL2DBP"
+      },
+      "artists": [
+        {
+          "name": "Javiera Electra",
+          "url": "https://open.spotify.com/artist/7c2QpfLeD8s647evep6Mbp"
+        }
+      ],
+      "duration_ms": 269210,
+      "name": "Cuarta pared",
+      "url": "https://open.spotify.com/track/1gADJxAF0of5vxTRisUWCj"
+    },
+    {
+      "added_at": "2024-03-06 03:00:00",
+      "album": {
+        "name": "Olv\u00eddame",
+        "url": "https://open.spotify.com/album/6kqoEd9WicTit5P8AZGXyJ"
+      },
+      "artists": [
+        {
+          "name": "Cromantis",
+          "url": "https://open.spotify.com/artist/1ZVAn9h0YHW0KoakWnx0X1"
+        }
+      ],
+      "duration_ms": 196814,
+      "name": "Olv\u00eddame",
+      "url": "https://open.spotify.com/track/4eHmIsUHpMMdqKmM1l3KHy"
+    },
+    {
+      "added_at": "2024-03-06 03:00:00",
+      "album": {
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/5kOhw1gRVcgKYN3allQZW0"
+      },
+      "artists": [
+        {
+          "name": "Mamma Soul",
+          "url": "https://open.spotify.com/artist/6v6v20hL82eZfIRpGeocjj"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/7g6xa3WuI8ib38lC3lW18c"
+    },
+    {
+      "added_at": "2024-03-06 03:00:00",
+      "album": {
+        "name": "Dunas",
+        "url": "https://open.spotify.com/album/6wj89F0gGAMks3pJnlQ6hE"
+      },
+      "artists": [
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        },
         {
           "name": "Myriam Hernandez",
           "url": "https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT"
         }
       ],
-      "duration_ms": 236077,
-      "name": "Invencible",
-      "url": "https://open.spotify.com/track/79tK7MDahFqieifay7yXCb"
+      "duration_ms": 244085,
+      "name": "Dunas",
+      "url": "https://open.spotify.com/track/6Dpo39yzOfHjhM0tGNPT98"
     },
     {
-      "added_at": "2024-01-10 17:55:32",
+      "added_at": "2024-03-06 03:00:00",
       "album": {
-        "name": "Centenas De Miles De A\u00f1os",
-        "url": "https://open.spotify.com/album/2VEb1mzailGntQVRoWqaq9"
+        "name": "qui\u00e9n llama a esta hora",
+        "url": "https://open.spotify.com/album/0kxhAbkGpkSqxQCV7Z1hzJ"
       },
       "artists": [
         {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+          "name": "gabriela arcos",
+          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
         }
       ],
-      "duration_ms": 192244,
-      "name": "Centenas De Miles De A\u00f1os",
-      "url": "https://open.spotify.com/track/6xa21lEbZdVtQa41HDkQcY"
+      "duration_ms": 160519,
+      "name": "perfecta",
+      "url": "https://open.spotify.com/track/2WOInVpAZEimBFsdWPDjVw"
     },
     {
-      "added_at": "2024-01-10 17:55:32",
+      "added_at": "2024-03-06 03:00:00",
       "album": {
-        "name": "La Chica de Rojo",
-        "url": "https://open.spotify.com/album/1APLL3BxSZiYpMQ4v15Ao1"
+        "name": "Asumir",
+        "url": "https://open.spotify.com/album/5SgEb2eLkyxrz9CbaZi8UY"
       },
       "artists": [
         {
-          "name": "Monserrat Bustamante",
-          "url": "https://open.spotify.com/artist/1whqJsYsiIvbWi0Kz0kHLx"
+          "name": "Kurmi",
+          "url": "https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W"
         }
       ],
-      "duration_ms": 222640,
-      "name": "Yo Sin Tu Amor",
-      "url": "https://open.spotify.com/track/4sarzJnQZIJJ2n0me3jKdK"
+      "duration_ms": 227500,
+      "name": "Asumir",
+      "url": "https://open.spotify.com/track/7Cy6yRnryMFgUb0Hx3Iv3I"
     },
     {
-      "added_at": "2024-01-10 17:55:32",
+      "added_at": "2024-03-06 03:00:00",
       "album": {
-        "name": "Brujer\u00edas de Cantina",
-        "url": "https://open.spotify.com/album/4wkcKHHjFk2ZK7ou5d3Woy"
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/28HDi1j2SfwmNDjVCxBAcw"
       },
       "artists": [
         {
-          "name": "SOULFIA",
-          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+          "name": "Nicole",
+          "url": "https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS"
         }
       ],
-      "duration_ms": 178003,
-      "name": "HEAVY",
-      "url": "https://open.spotify.com/track/3bEetphA24F4tNyBW1p4Bz"
+      "duration_ms": 202101,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/37xvyz3KXZraJAp9l4w3yS"
     },
     {
-      "added_at": "2024-01-10 17:55:32",
+      "added_at": "2024-03-06 03:00:00",
       "album": {
-        "name": "Cris\u00e1lida",
-        "url": "https://open.spotify.com/album/76XYjBKZrBuAj50Vyxpiur"
+        "name": "Un Recuerdo",
+        "url": "https://open.spotify.com/album/6RRlggxbDzDKkLUnFyNJ1M"
       },
       "artists": [
         {
-          "name": "Nicole Bunout",
-          "url": "https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F"
+          "name": "Rou C",
+          "url": "https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9"
         }
       ],
-      "duration_ms": 175413,
-      "name": "Nabundear\u00e9",
-      "url": "https://open.spotify.com/track/53qZjbmjh3d3nbzxEzKOkF"
+      "duration_ms": 145204,
+      "name": "Un Recordatorio",
+      "url": "https://open.spotify.com/track/2lThJh16TmSbp0JqACO1OQ"
     },
     {
-      "added_at": "2024-01-10 17:55:32",
+      "added_at": "2024-03-06 03:00:00",
       "album": {
-        "name": "Camila Silva",
-        "url": "https://open.spotify.com/album/73V37JUsjK8ejSN84QzS5Y"
+        "name": "Del Trueno",
+        "url": "https://open.spotify.com/album/0XDq3spP4uE6DEiX30mxZU"
       },
       "artists": [
         {
-          "name": "Camila Silva",
-          "url": "https://open.spotify.com/artist/729RhSgVpFUGyfQpiRHadP"
+          "name": "Roc\u00edo Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/3sxc4zdETNUXmbex0OEJ8z"
         }
       ],
-      "duration_ms": 203506,
-      "name": "Al Fin Te Encontre",
-      "url": "https://open.spotify.com/track/7odQniwuBwQRemt2fr15Oy"
+      "duration_ms": 154124,
+      "name": "La Muerte",
+      "url": "https://open.spotify.com/track/0yaSwRYXIriSk12LHaUSc0"
     },
     {
-      "added_at": "2024-01-10 17:55:32",
+      "added_at": "2024-03-06 03:00:00",
       "album": {
-        "name": "Ice",
-        "url": "https://open.spotify.com/album/2Eji6BbhvSy9gcjjfaHEVR"
+        "name": "Cinta Blanca",
+        "url": "https://open.spotify.com/album/4pqwbzTTW3BaZ8mJCy2mNq"
       },
       "artists": [
         {
-          "name": "Aura BAE",
-          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
+          "name": "Chini.png",
+          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
         }
       ],
-      "duration_ms": 255897,
-      "name": "Ice",
-      "url": "https://open.spotify.com/track/1jUKmgWQflhSh0zNGkkioo"
+      "duration_ms": 287109,
+      "name": "Cinta Blanca",
+      "url": "https://open.spotify.com/track/3rZI0PDP3Rb7ud22xnTtEk"
     },
     {
-      "added_at": "2024-01-10 17:55:32",
+      "added_at": "2024-03-06 03:00:00",
       "album": {
-        "name": "Chao",
-        "url": "https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz"
-      },
-      "artists": [
-        {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
-        },
-        {
-          "name": "Shirel",
-          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
-        },
-        {
-          "name": "FEMI",
-          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
-        }
-      ],
-      "duration_ms": 250208,
-      "name": "Me Atrapo",
-      "url": "https://open.spotify.com/track/5mb7wNPBlEzCnZmEYYk4wy"
-    },
-    {
-      "added_at": "2024-01-10 17:55:32",
-      "album": {
-        "name": "Adentro",
-        "url": "https://open.spotify.com/album/4EkouVwYZqZVmnnxx7O6Xr"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 198983,
-      "name": "Jugando Con Fuego",
-      "url": "https://open.spotify.com/track/7pBMCVwilHS7DWLgCArH4n"
-    },
-    {
-      "added_at": "2024-01-10 17:55:32",
-      "album": {
-        "name": "Maleza",
-        "url": "https://open.spotify.com/album/1V2YNxuymQ7b4N6EAst0Qd"
+        "name": "ant\u00edpoda",
+        "url": "https://open.spotify.com/album/5IXkix5iqHaASwKMFqz7Nf"
       },
       "artists": [
         {
@@ -812,49 +808,77 @@
           "url": "https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr"
         }
       ],
-      "duration_ms": 208541,
-      "name": "A Veces T\u00fa",
-      "url": "https://open.spotify.com/track/7CSAIA6x0PFZcDVjO34pxS"
+      "duration_ms": 232232,
+      "name": "Luisa",
+      "url": "https://open.spotify.com/track/3um4jap2w1pUibIsE2qwyb"
     },
     {
-      "added_at": "2024-01-10 17:55:32",
+      "added_at": "2024-03-06 03:00:00",
       "album": {
-        "name": "El Perd\u00f3n (feat. Mon Laferte)",
-        "url": "https://open.spotify.com/album/6lozW74MS46Wi4TBg8eInD"
+        "name": "Alfombra Negra",
+        "url": "https://open.spotify.com/album/3nRx9lcKr6QaR3AENEhTeL"
       },
       "artists": [
         {
-          "name": "Pascuala Ilabaca y Fauna",
-          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "Piamar\u00eda",
+          "url": "https://open.spotify.com/artist/7jWMDdxQITAIGXoPintrAP"
         }
       ],
-      "duration_ms": 169145,
-      "name": "El Perd\u00f3n (feat. Mon Laferte)",
-      "url": "https://open.spotify.com/track/70b8lQmciDIfPQNNEpp3Sj"
+      "duration_ms": 146227,
+      "name": "Alfombra Negra",
+      "url": "https://open.spotify.com/track/67OOJPJ0AjX3rX8sotWKV6"
     },
     {
-      "added_at": "2024-01-10 17:55:32",
+      "added_at": "2024-03-06 03:00:00",
       "album": {
-        "name": "Bendiciones",
-        "url": "https://open.spotify.com/album/3KyYw5VuRgf8q7kHWrqS8p"
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/3dUSk3jA2kVARIfsA3ijPi"
       },
       "artists": [
         {
-          "name": "Aura BAE",
-          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
+          "name": "Giyil",
+          "url": "https://open.spotify.com/artist/44LycgAVsAe0aNvGzRCOxF"
+        }
+      ],
+      "duration_ms": 189912,
+      "name": "Risas C\u00f3mplices",
+      "url": "https://open.spotify.com/track/5Cq33PKldu92OukKMHxhWH"
+    },
+    {
+      "added_at": "2024-03-06 03:00:00",
+      "album": {
+        "name": "Baby del Rey",
+        "url": "https://open.spotify.com/album/1DzOsYZEhcXcbJvICzzhnB"
+      },
+      "artists": [
+        {
+          "name": "Bby Lean",
+          "url": "https://open.spotify.com/artist/2ivCGb6sTadQgOQTu6TFok"
         },
         {
           "name": "Nass G",
           "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
         }
       ],
-      "duration_ms": 173158,
-      "name": "Bendiciones",
-      "url": "https://open.spotify.com/track/2xvN8q1au8NoWMCgoS94PY"
+      "duration_ms": 200833,
+      "name": "Baby del Rey",
+      "url": "https://open.spotify.com/track/457jFfPXJqTZtG0o9uNokI"
+    },
+    {
+      "added_at": "2024-03-06 03:00:00",
+      "album": {
+        "name": "Sutra",
+        "url": "https://open.spotify.com/album/3CHyvK6LVR6p83GIoyO50u"
+      },
+      "artists": [
+        {
+          "name": "Lolein",
+          "url": "https://open.spotify.com/artist/5RxAHOobccLdRcqT6CMvxY"
+        }
+      ],
+      "duration_ms": 226735,
+      "name": "Sutra",
+      "url": "https://open.spotify.com/track/6sYztTSsz8nPFl4hNtUKJW"
     }
   ],
   "unique_name": "EQUAL Chile",

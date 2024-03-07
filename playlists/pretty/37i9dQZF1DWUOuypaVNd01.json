@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Nebrugg",
-  "num_followers": 36720,
+  "num_followers": 36754,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDVkMWEyNjk1MWU3NDE3MzFiY2IyNzQzZjZlZjVhOTY2Yzk5MWMy",
+  "snapshot_id": "MCw3NjM5YzE2MTJjZWFmYWVjYjcxY2IwOWM5YTYyMTAwYjlhNWQxMjA2",
   "tracks": [
     {
       "added_at": "2024-02-16 03:01:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-02-16 03:01:00",
       "album": {
-        "name": "Lembro",
-        "url": "https://open.spotify.com/album/7eKlRGjlczwo6038CxZfeT"
-      },
-      "artists": [
-        {
-          "name": "Thxuzz",
-          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Lembro",
-      "url": "https://open.spotify.com/track/7mXmhgvonsRxbKp6Sp2SIZ"
-    },
-    {
-      "added_at": "2024-02-16 03:01:00",
-      "album": {
         "name": "M\u00fasicas Para Fumar Bal\u00e3o",
         "url": "https://open.spotify.com/album/2zBsNCMQxokxViSI9kiaQX"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 179574,
       "name": "Dez e Faixa",
       "url": "https://open.spotify.com/track/0Z6gKWw11x5pKSA16NOn6C"
+    },
+    {
+      "added_at": "2024-02-16 03:01:00",
+      "album": {
+        "name": "Lembro",
+        "url": "https://open.spotify.com/album/7eKlRGjlczwo6038CxZfeT"
+      },
+      "artists": [
+        {
+          "name": "Thxuzz",
+          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Lembro",
+      "url": "https://open.spotify.com/track/7mXmhgvonsRxbKp6Sp2SIZ"
     },
     {
       "added_at": "2024-02-16 03:01:00",

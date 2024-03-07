@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 184,
+  "2024-03-07": 184,
   "date_first_scraped": "2023-12-31",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/3AUv0IEjS8uKIooEtoQNF8\">Raquel Silva</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Raquel Silva",
@@ -977,9 +977,31 @@
           "url": "https://open.spotify.com/artist/3dkJrC0qUslIThb7IQOyJx"
         }
       ],
-      "date_added": "2023-12-30",
+      "date_added": "2024-03-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 264198,
+      "name": "Te Encher Pra N\u00e3o Parar",
+      "url": "https://open.spotify.com/track/2te9iYdXW8RvT7f5g1TjQt"
+    },
+    {
+      "album": {
+        "name": "Te Encher Pra N\u00e3o Parar",
+        "url": "https://open.spotify.com/album/2ZCPGQh3ysOIpzGiYliV0v"
+      },
+      "artists": [
+        {
+          "name": "Raquel Silva",
+          "url": "https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz"
+        },
+        {
+          "name": "Debora Torres",
+          "url": "https://open.spotify.com/artist/3dkJrC0qUslIThb7IQOyJx"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-06",
       "duration_ms": 266647,
       "name": "Te Encher Pra N\u00e3o Parar - Play Back",
       "url": "https://open.spotify.com/track/5alNvf9hThQfdLT0KGjuNH"

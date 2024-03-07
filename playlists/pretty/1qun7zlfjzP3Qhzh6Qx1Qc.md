@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Beyoncé
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 35,007 likes - 60 songs - 3 hr 23 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 35,004 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

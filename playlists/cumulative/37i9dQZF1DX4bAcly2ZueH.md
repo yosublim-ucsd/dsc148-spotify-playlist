@@ -4,7 +4,7 @@
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-140 songs - 7 hr 23 min
+141 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [re: Sound Of Light](https://open.spotify.com/track/7zFWLMPaEe5G9crfMdAVSC) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE), [Hitori](https://open.spotify.com/artist/1BLxupu4NPracLOtvGHYbl) | [re: Sound Of Light](https://open.spotify.com/album/24R74RGaArQFDwqz8LzYp0) | 2:24 | 2023-11-14 |  |
 | [Reminisce](https://open.spotify.com/track/7LVs0f78kMJHBlIDrmE7u2) | [法斎Beats](https://open.spotify.com/artist/48gniwDxLdyYvSK1faa6ia) | [Reminisce](https://open.spotify.com/album/4uC5dQp9iXETYGVKaa6pso) | 2:52 | 2022-11-15 |  |
 | [Resting Place](https://open.spotify.com/track/0iB8cBNqKUv5CVbRI3cDJO) | [E J R M](https://open.spotify.com/artist/3LR4QxuUpK1ZwhWc260xAZ), [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [Resting Place](https://open.spotify.com/album/5zqrCPsgymWf2bfYZQ7Rka) | 3:09 | 2022-10-11 |  |
-| [Ripple](https://open.spotify.com/track/1YalCeuariNJ4hlEjq6o3S) | [\[.que\]](https://open.spotify.com/artist/01FtA9GKCdkhtXHZrxi1v7) | [Seaglow](https://open.spotify.com/album/2nvtaBqF1x83BMsdpEC5ZD) | 2:12 | 2024-03-05 |  |
+| [Ripple](https://open.spotify.com/track/1YalCeuariNJ4hlEjq6o3S) | [\[.que\]](https://open.spotify.com/artist/01FtA9GKCdkhtXHZrxi1v7) | [Seaglow](https://open.spotify.com/album/2nvtaBqF1x83BMsdpEC5ZD) | 2:12 | 2024-03-05 | 2024-03-07 |
+| [Ripple](https://open.spotify.com/track/2Y9z1M1RWd0p790z5ej3dW) | [\[.que\]](https://open.spotify.com/artist/01FtA9GKCdkhtXHZrxi1v7) | [Seaglow](https://open.spotify.com/album/7hFfXVVEnqpxOhxkSAMpdT) | 2:12 | 2024-03-05 |  |
 | [room with nobody](https://open.spotify.com/track/4g8qBxEJbmGOn47fPYX2tK) | [Anoice](https://open.spotify.com/artist/1Harx8w7e050c1YwYJMPcb), [Takahiro Kido](https://open.spotify.com/artist/7vaTIZVteGSJf1cQ9VzRRI), [Yuki Murata](https://open.spotify.com/artist/0gLzKDyIHWHtmyduV4AkkK) | [Ghost in the Clocks](https://open.spotify.com/album/3xn9ffYOcqK08Fua0glyZi) | 2:52 | 2022-10-11 |  |
 | [roundabout](https://open.spotify.com/track/4My5qxutluZnhCiSz4mY92) | [fcj](https://open.spotify.com/artist/1Nv875EklW8XLTduI6I3Js), [Ivoris](https://open.spotify.com/artist/7wuKa2bUMTCPspwY00Erji), [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v) | [roundabout](https://open.spotify.com/album/72JOBJj1vbLdTg0B2XVjwT) | 2:12 | 2022-10-11 |  |
 | [Sad Premonition / Lilium](https://open.spotify.com/track/2ZMpOq0n124MRPO8vxAgCi) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [I'll](https://open.spotify.com/album/1dOgFP65sSxMncWqJ8FADo) | 4:05 | 2022-10-11 |  |

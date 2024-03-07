@@ -4,7 +4,7 @@
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover:  <a href="spotify:artist:7z7byOJ4AJnMY2NHE66ZpW">DOE</a>
 
-470 songs - 1 day 4 hr 2 min
+471 songs - 1 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,7 +446,8 @@
 | [who.](https://open.spotify.com/track/4nz2Tku7f6FyEE0WZfd2mZ) | [Wes Harris](https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2), [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni) | [polaroids.](https://open.spotify.com/album/5Prj7tghns9XY626lMR3LL) | 2:35 | 2023-01-20 |  |
 | [WILIN'](https://open.spotify.com/track/7AiB9ggkygd2xLF0x4HVN4) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [CHURCH GIRLS LOVE R&B](https://open.spotify.com/album/44iSFo3yR8NhX8CJUsERmk) | 4:09 | 2022-03-05 | 2022-04-08 |
 | [Win](https://open.spotify.com/track/7JgMB2xjZQ7yXG50DQFcpS) | [CANDIACE](https://open.spotify.com/artist/5JszSvXkRAk75bLoZDOHkP) | [Win](https://open.spotify.com/album/6Wo2MhAA70UrNXhVfI65rn) | 2:36 | 2022-04-01 | 2023-01-15 |
-| [Wind Me Up](https://open.spotify.com/track/3RbDT829dbhxXwm66khCSb) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa) | [Wind Me Up](https://open.spotify.com/album/5y3WKGXgMHB852H1YsmVPj) | 4:10 | 2023-07-21 |  |
+| [Wind Me Up](https://open.spotify.com/track/3RbDT829dbhxXwm66khCSb) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa) | [Wind Me Up](https://open.spotify.com/album/5y3WKGXgMHB852H1YsmVPj) | 4:10 | 2023-07-21 | 2024-03-07 |
+| [Wind Me Up](https://open.spotify.com/track/6eGhs1k21JUKq12B6LfqqP) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa) | [Dante Bowe](https://open.spotify.com/album/0k2wJSus536g9a8w4AU0GG) | 4:10 | 2024-01-12 |  |
 | [Window Pane](https://open.spotify.com/track/2KYE1Kv1kMpruDPAOW1mw7) | [DaShawn Shauntá](https://open.spotify.com/artist/5c0sCqEmXd6T0uWWcAyis9) | [Window Pane](https://open.spotify.com/album/3QeGq4OruARDU3xLn47uUz) | 4:29 | 2022-03-05 | 2022-06-13 |
 | [Windows](https://open.spotify.com/track/1dO1PUvhwXHsMvL5LCR57C) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Windows](https://open.spotify.com/album/5FdJUxaEsL1ExnwYXsDVVl) | 4:35 | 2023-01-20 |  |
 | [With Him](https://open.spotify.com/track/7s7wag1cue3SVabZAQjVwh) | [Kaye\-Marie](https://open.spotify.com/artist/51V84X0Uw6QQ8a31yRLTeN) | [With Him](https://open.spotify.com/album/6U0fKpZM5MAnmN6QAgRftH) | 2:47 | 2024-01-12 |  |

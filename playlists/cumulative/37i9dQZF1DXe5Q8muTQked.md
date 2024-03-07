@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-677 songs - 1 day 17 hr 32 min
+678 songs - 1 day 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Bridge Over Troubled Water](https://open.spotify.com/track/3e0qSxu1fNPzDlwqWN3cBD) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:54 | 2021-10-20 |  |
 | [Bright](https://open.spotify.com/track/1SyLXPm2RkbX1UjS1eTmlQ) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Bright](https://open.spotify.com/album/6NCCIT61z4lECW3MPrvf2z) | 3:36 | 2021-10-20 | 2022-04-30 |
 | [Buckets Of Rain](https://open.spotify.com/track/25SaaQh3t8GNLdsOZpTbZP) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Live From Austin TX](https://open.spotify.com/album/1woYdJYYs9ZaCT8VyMVcdk) | 2:48 | 2022-06-10 | 2022-07-23 |
-| [Buckets of Rain \- Live](https://open.spotify.com/track/2PoGyTZEy0OVz7fX9P2bxS) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Live From Austin, TX](https://open.spotify.com/album/2omhPQsUhtcv9lWE443mcC) | 2:48 | 2022-06-10 |  |
+| [Buckets of Rain \- Live](https://open.spotify.com/track/2PoGyTZEy0OVz7fX9P2bxS) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Live From Austin, TX](https://open.spotify.com/album/2omhPQsUhtcv9lWE443mcC) | 2:48 | 2022-06-10 | 2024-03-07 |
 | [California](https://open.spotify.com/track/0x7dQOmBLZYkmlfl2rRLPP) | [Lisa Mitchell](https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz) | [California](https://open.spotify.com/album/2EaRR124i84vMnjDK12XoI) | 2:47 | 2022-06-10 |  |
 | [California](https://open.spotify.com/track/4KUFJ7phSi40lh1ChmFgb9) | [Lisa Mitchell](https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz) | [California](https://open.spotify.com/album/1og5RxTX9bM7v7yw5qOFqC) | 2:47 | 2021-10-20 | 2022-07-28 |
 | [California Dreamin \- Acoustic Mix](https://open.spotify.com/track/4FmVtdjLVhzHpNuBhMF8Wj) | [Freischwimmer](https://open.spotify.com/artist/185m2EJWTIm36MdqguiU8T) | [California Dreamin](https://open.spotify.com/album/561Ly3AThHF8GOSY0tm0Al) | 3:28 | 2021-10-20 | 2022-07-29 |
@@ -476,6 +476,7 @@
 | [Rather Be](https://open.spotify.com/track/3jk4SgyAUOcXbA78btwgZA) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J) | 4:07 | 2022-06-10 |  |
 | [Re: Stacks](https://open.spotify.com/track/1UjjYce8PdRFcrnXBC9pjQ) | [Charlie Simpson](https://open.spotify.com/artist/3CGzpCMqpqHnafmn2PFQd9) | [Little Hands](https://open.spotify.com/album/3keUEamiz3xcpc9CrmDWAv) | 6:07 | 2021-10-20 | 2022-07-29 |
 | [re: Stacks \- Spotify Singles](https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Spotify Singles](https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf) | 5:09 | 2021-10-20 |  |
+| [Right Down The Line](https://open.spotify.com/track/2QkrXvBAfhE4QAr9Y5kOvh) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [NUDES](https://open.spotify.com/album/3y4k3cJW83i3KDSDJnPOX8) | 3:55 | 2023-10-23 |  |
 | [Right Down The Line](https://open.spotify.com/track/2aU77iuoOElIJyXl0YoI9O) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [NUDES](https://open.spotify.com/album/4CJOeZrzjHBiLXEusekD5y) | 3:55 | 2021-10-20 | 2024-02-14 |
 | [Riptide](https://open.spotify.com/track/1WbYFNSUNn9fP1x0Z5DU95) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Spotify Sessions](https://open.spotify.com/album/6Udtuid2uIXkAZY6zmElfJ) | 4:13 | 2022-06-10 |  |
 | [Rockabye \- Acoustic Version](https://open.spotify.com/track/30LDuVfrePWbedYTc1mUCn) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Rockabye \(Acoustic\)](https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW) | 2:37 | 2021-10-20 |  |

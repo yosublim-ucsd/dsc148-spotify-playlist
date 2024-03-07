@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX946PjwaHnSD.md) - [plain]
 
 > Os batidões mais agitados pra animar sua malhação!
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,697 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,717 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Desce Pro Play \(PA PA PA\)](https://open.spotify.com/track/4zGtfOglDBfVUypabBwIjQ) | [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Desce Pro Play \(PA PA PA\)](https://open.spotify.com/album/5dgSOOnRf2k9UJyijM9ZwV) | 2:48 |
-| 2 | [Oh Juliana](https://open.spotify.com/track/4xWzZmX4K1yyrdtRfbUvjt) | [Niack](https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML) | [Oh Juliana](https://open.spotify.com/album/4TqvKXoNxzUt3KFvb2kMOL) | 2:33 |
+| 2 | [Oh Juliana](https://open.spotify.com/track/4xWzZmX4K1yyrdtRfbUvjt) | [Niack](https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML), [Two Maloka](https://open.spotify.com/artist/1v2nDgCQIAgO0tTXWcQbgh), [DJ Léo da 17](https://open.spotify.com/artist/2K709GZR5lppCr7ATLKlbz) | [Oh Juliana](https://open.spotify.com/album/4TqvKXoNxzUt3KFvb2kMOL) | 2:33 |
 | 3 | [Baila Comigo \(feat\. Kelly Ruiz\) \- Rennan da Penha Remix](https://open.spotify.com/track/7M6D0ACikinC39ZtuEwMPo) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf), [Kelly Ruíz](https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw) | [Baila Comigo \(feat\. Kelly Ruiz\) \[Rennan da Penha Remix\]](https://open.spotify.com/album/3Gu3HmwNT034cGipAs175M) | 2:00 |
 | 4 | [Bumbum granada](https://open.spotify.com/track/4SdTyIjA6FuADAN9W8sZjq) | [MC's Zaac](https://open.spotify.com/artist/13ySOy7rghkjVk5f5ChBW8), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Bumbum granada](https://open.spotify.com/album/6g5NSnoGpHQ7pGA0pANEBV) | 3:07 |
 | 5 | [Talarica](https://open.spotify.com/track/4VUcZNeuit8e7zmSAI4GbL) | [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf), [MC 2jhow](https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ) | [Talarica](https://open.spotify.com/album/2DWrdCrdqBLbK83AfvcAEP) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX946PjwaHnSD.md) - [plain]
 | 99 | [Ao Som do 150](https://open.spotify.com/track/2nCKTSg3tWkfth4TSYBVzy) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr) | [Ao Som do 150](https://open.spotify.com/album/0NnlEaVeimova4vnBMhkGl) | 1:59 |
 | 100 | [Lindona](https://open.spotify.com/track/1wyclICZwhqZYizAdtvzYu) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Guime](https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov), [Mc Bola](https://open.spotify.com/artist/4ulY4o7oEoqJlqc0V6R3Bc), [Nego Blue](https://open.spotify.com/artist/5dpdK20EYUPpUaAk9ERPFg) | [Lindona](https://open.spotify.com/album/5qrFMWpAjDjSzBPhgoXAVy) | 3:52 |
 
-Snapshot ID: `MCxiODg3MjJlY2EzM2Y5NDUyNzY5NTE4YzlmOWFmNTM0YzBjMzVmZTcy`
+Snapshot ID: `MCw5NjBiNjUxZDEyMGYyYmU3NmJlYjEyNjEyNjczZTk1ZGU5NDExNDIw`

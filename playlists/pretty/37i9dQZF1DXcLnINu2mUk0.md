@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Mizzy Miles com Bispo e Van Zee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,316 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,332 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 22 | [Farda](https://open.spotify.com/track/6YvBWNtX8L8VBxahAqo954) | [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Farda](https://open.spotify.com/album/5YSetVW0KplBGeI1uLQPFs) | 3:09 |
 | 23 | [I'm Sorry](https://open.spotify.com/track/3aml52yDe6ff32XOgZQ0Cb) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [I'm Sorry](https://open.spotify.com/album/6xbIjf6sv5M4I9GT0NuEcj) | 3:22 |
 | 24 | [Só Dá](https://open.spotify.com/track/3LcKyZ2ks4uoiap6wo0LPc) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 3:21 |
-| 25 | [Barco](https://open.spotify.com/track/6f3wQcpYZUjnakdFmriRbF) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Barco](https://open.spotify.com/album/6aVeW0VvFv4qDpigItRzVn) | 3:36 |
-| 26 | [underwater](https://open.spotify.com/track/4vfHRcjchtEjRLspB4HUpc) | [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf) | [underwater](https://open.spotify.com/album/6uJWdgjsmnvZZIia4xEDTr) | 3:56 |
+| 25 | [underwater](https://open.spotify.com/track/4vfHRcjchtEjRLspB4HUpc) | [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf) | [underwater](https://open.spotify.com/album/6uJWdgjsmnvZZIia4xEDTr) | 3:56 |
+| 26 | [Barco](https://open.spotify.com/track/6f3wQcpYZUjnakdFmriRbF) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Barco](https://open.spotify.com/album/6aVeW0VvFv4qDpigItRzVn) | 3:36 |
 | 27 | [CABARET](https://open.spotify.com/track/4kfwRXcUVeeUMITRVujl9i) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [MDID](https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS) | 2:15 |
 | 28 | [Lembrei\-me](https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Mais Antigo](https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3) | 3:26 |
 | 29 | [Fica Pra Depois](https://open.spotify.com/track/3W8iBFxQEgAnWYXjx8hrzI) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Fica Pra Depois](https://open.spotify.com/album/67vj2sSj58MBegTAI4DZog) | 3:33 |
@@ -75,10 +75,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 65 | [Fumo](https://open.spotify.com/track/0FPVfbEwX4walyEy6qfYYu) | [Holympo](https://open.spotify.com/artist/3nwFRfquZaKGnuH3b66uj9) | [Fumo](https://open.spotify.com/album/38VUIJV6lnoYPbpgnZObhL) | 2:17 |
 | 66 | [Far Away](https://open.spotify.com/track/2p4bamqictuUYxWRq7UawI) | [Maison Vërt](https://open.spotify.com/artist/3Cy9Lx1rIFy8alkXjVLq9S), [Frank Lucas](https://open.spotify.com/artist/6tpjAPaF1K2nDrixml8l0R), [Birou](https://open.spotify.com/artist/6MZjeFl9psA2ncl3ennNbx) | [7.83Hz](https://open.spotify.com/album/2wTXxQkoieXJNyIyRL5Qd6) | 4:11 |
 | 67 | [Lágrimas](https://open.spotify.com/track/5wECfBhpZyQEryuNTJ4Wbi) | [\-Mind7\-](https://open.spotify.com/artist/7pVY4sguKOnXbl7telAAzb), [melocooksomething](https://open.spotify.com/artist/2OQZgQeDv3uRMe0uEAqcf7) | [Industriam Adjuvat Deus](https://open.spotify.com/album/3e0yPxtBCXtiyasdzeoHal) | 1:56 |
-| 68 | [No One](https://open.spotify.com/track/6wTAfWC8AfDl9EygNe95o2) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i), [Biox](https://open.spotify.com/artist/1gZL90jBtuW3kgeF8nVjcM) | [No One](https://open.spotify.com/album/19tUNod8E8GEUFfOH5Gk17) | 3:10 |
-| 69 | [B4U](https://open.spotify.com/track/4htFvo798QAxy9iUBoTJPg) | [St\. James Park](https://open.spotify.com/artist/4WGxfbDkaRQOFN0uriUXDF), [Cálculo](https://open.spotify.com/artist/1MOKHbjTVCqrzy7o3Es8hI), [y.azz](https://open.spotify.com/artist/0wtDy87EsXG4bLUJ6zbD0U), [Birou](https://open.spotify.com/artist/6MZjeFl9psA2ncl3ennNbx) | [B4U](https://open.spotify.com/album/43RReczlsprLlicvPx8xnC) | 3:12 |
-| 70 | [Bonnie & Claide](https://open.spotify.com/track/3q6mA8bh9utq7F32QpClAD) | [Mufvsza](https://open.spotify.com/artist/5Md4GJQIcQeqp9qAKQBF0Y) | [Bonnie & Claide](https://open.spotify.com/album/6zzbiYF7dPIBIFIegXhWA9) | 2:56 |
-| 71 | [Sonhos e Diamantes](https://open.spotify.com/track/7MiN2u2gYCvxeJ6c23idiN) | [Londone](https://open.spotify.com/artist/1rCRiVBfLiDomUEUNGykT2) | [Sonhos e Diamantes](https://open.spotify.com/album/2KoOw5yP4y9qObzs5WVVym) | 3:04 |
+| 68 | [Sonhos e Diamantes](https://open.spotify.com/track/7MiN2u2gYCvxeJ6c23idiN) | [Londone](https://open.spotify.com/artist/1rCRiVBfLiDomUEUNGykT2) | [Sonhos e Diamantes](https://open.spotify.com/album/2KoOw5yP4y9qObzs5WVVym) | 3:04 |
+| 69 | [No One](https://open.spotify.com/track/6wTAfWC8AfDl9EygNe95o2) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i), [Biox](https://open.spotify.com/artist/1gZL90jBtuW3kgeF8nVjcM) | [No One](https://open.spotify.com/album/19tUNod8E8GEUFfOH5Gk17) | 3:10 |
+| 70 | [B4U](https://open.spotify.com/track/4htFvo798QAxy9iUBoTJPg) | [St\. James Park](https://open.spotify.com/artist/4WGxfbDkaRQOFN0uriUXDF), [Cálculo](https://open.spotify.com/artist/1MOKHbjTVCqrzy7o3Es8hI), [y.azz](https://open.spotify.com/artist/0wtDy87EsXG4bLUJ6zbD0U), [Birou](https://open.spotify.com/artist/6MZjeFl9psA2ncl3ennNbx) | [B4U](https://open.spotify.com/album/43RReczlsprLlicvPx8xnC) | 3:12 |
+| 71 | [Bonnie & Claide](https://open.spotify.com/track/3q6mA8bh9utq7F32QpClAD) | [Mufvsza](https://open.spotify.com/artist/5Md4GJQIcQeqp9qAKQBF0Y) | [Bonnie & Claide](https://open.spotify.com/album/6zzbiYF7dPIBIFIegXhWA9) | 2:56 |
 | 72 | [DDPT](https://open.spotify.com/track/4k0qtaZjrdltLFseskSfHm) | [Denilson L.A](https://open.spotify.com/artist/1gPqaBqCV53biXorBTjsTx) | [Casa azul](https://open.spotify.com/album/3PwblwQzJFjLtCsJhIMdck) | 3:18 |
 | 73 | [Leonor](https://open.spotify.com/track/6BPHsEye29K66TBGXlmcfH) | [Nadav](https://open.spotify.com/artist/4nBPR1hXXGzBB2u4HsR4X9) | [Leonor](https://open.spotify.com/album/6rNBKnFgPS7APToqmXIGjS) | 1:48 |
 | 74 | [Volta](https://open.spotify.com/track/2SLW9thnVkyx4V3fjTEGTl) | [SHINY](https://open.spotify.com/artist/3PLznxCPat6iY9LWA8177i) | [Volta](https://open.spotify.com/album/3A83wpbeuo3SDWWu6lQmH1) | 3:56 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 79 | [Trovador](https://open.spotify.com/track/1f0ptSKxe9r5hDINkSxNxU) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Trovador](https://open.spotify.com/album/25ZAdeWrd6WAM8dpvWckPS) | 3:46 |
 | 80 | [Povo](https://open.spotify.com/track/1QuMSpSKb8TddULszTHRDH) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Festival da Canção 2023](https://open.spotify.com/album/57v1ACsenMa34vYqhuLl0d) | 2:54 |
 
-Snapshot ID: `MCw5NDNhYzI3YmEyNDVkOGY0NjQ2OWNjOGExNWFmNGFkZTE1OTI3ZWY3`
+Snapshot ID: `MCxkZTUyZjBhMzFmNjE3Mjg1MWRkZWQ3N2UxMDYxMTVkMmZjMDViM2Ez`

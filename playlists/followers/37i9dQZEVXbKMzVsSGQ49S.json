@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 41672,
+  "2024-03-07": 41675,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Iceland.",
   "name": "Top 50 - Iceland",
@@ -3843,7 +3843,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-04",
+      "date_removed": null,
       "duration_ms": 170847,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/5NAOhPAZ57eFAXr3qatS6i"
@@ -20475,7 +20475,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-04",
+      "date_removed": null,
       "duration_ms": 125901,
       "name": "Never Lose Me",
       "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
@@ -21487,7 +21487,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-04",
+      "date_removed": null,
       "duration_ms": 166634,
       "name": "OG HVA\u00d0?",
       "url": "https://open.spotify.com/track/6sHuEfdsQRxSRdDTEuMuBa"
@@ -22915,7 +22915,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 184516,
       "name": "Pink + White",
       "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
@@ -25001,7 +25001,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 219519,
       "name": "R\u00falletta",
       "url": "https://open.spotify.com/track/2MCc0WbH4L39evnT4lXd8B"
@@ -25419,7 +25419,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 183657,
       "name": "Scared of Heights",
       "url": "https://open.spotify.com/track/0Vsjlru86RuL55GX5LsnF3"
@@ -27825,7 +27825,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 181198,
       "name": "Stingum af",
       "url": "https://open.spotify.com/track/1J8DLoeSrUqQFGzRX2fs7l"
@@ -30767,7 +30767,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 163701,
       "name": "Um allan alheiminn",
       "url": "https://open.spotify.com/track/4op0U8ixb81UGRoBEFEMbg"

@@ -1,12 +1,12 @@
 {
   "description": "French scene makes some noise!",
-  "num_followers": 36618,
+  "num_followers": 36679,
   "original_name": "French Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmVmMjNiZWI3NzQyODIwOTI4MGNhNTk2M2QwN2UyNDcyN2RlMTIz",
+  "snapshot_id": "MCw0YTVmMzJiZTlmNmQ2Yjk4MjQwZThkYTliMDM5NmZmMzA5NzkwZmIx",
   "tracks": [
     {
       "added_at": "2024-02-28 20:47:31",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/0HGYZoDXRFyztQMuZV1I68"
-      },
-      "artists": [
-        {
-          "name": "Down to the Wire",
-          "url": "https://open.spotify.com/artist/2xP00Vrg8hwhdi121FCxbK"
-        }
-      ],
-      "duration_ms": 256096,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/2FTECyHv2eDT7LGxXCtDvn"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
         "name": "We The People Of The Soil",
         "url": "https://open.spotify.com/album/4dF2btv546wMUc49Tkh7RR"
       },
@@ -379,18 +363,18 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "N\u00e9ant",
-        "url": "https://open.spotify.com/album/2DNqvxMLvHoBkRqJm3jKNu"
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/0HGYZoDXRFyztQMuZV1I68"
       },
       "artists": [
         {
-          "name": "Bandit Bandit",
-          "url": "https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h"
+          "name": "Down to the Wire",
+          "url": "https://open.spotify.com/artist/2xP00Vrg8hwhdi121FCxbK"
         }
       ],
-      "duration_ms": 249533,
-      "name": "N\u00e9ant",
-      "url": "https://open.spotify.com/track/49KvJyXnYReCKEUcvUsFbF"
+      "duration_ms": 256096,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/2FTECyHv2eDT7LGxXCtDvn"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -407,6 +391,22 @@
       "duration_ms": 182800,
       "name": "Long Life",
       "url": "https://open.spotify.com/track/2N2A6MMehPqIQ6w7keCUDc"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
+        "name": "N\u00e9ant",
+        "url": "https://open.spotify.com/album/2DNqvxMLvHoBkRqJm3jKNu"
+      },
+      "artists": [
+        {
+          "name": "Bandit Bandit",
+          "url": "https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h"
+        }
+      ],
+      "duration_ms": 249533,
+      "name": "N\u00e9ant",
+      "url": "https://open.spotify.com/track/49KvJyXnYReCKEUcvUsFbF"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "Linger Over, Linger On",
-        "url": "https://open.spotify.com/album/6TKDj8xVjtCy1ZUyUgSoLX"
-      },
-      "artists": [
-        {
-          "name": "The Great Divide",
-          "url": "https://open.spotify.com/artist/1KDvR3odlKqAOjqT2Rp3Dn"
-        }
-      ],
-      "duration_ms": 283226,
-      "name": "Anyone, Evermore",
-      "url": "https://open.spotify.com/track/6binrNkX9MO9nyFNt2pH1n"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/5QnWO1vcidL0hFflxcD9Fd"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 235944,
       "name": "Wave",
       "url": "https://open.spotify.com/track/3ET1X1My50CGs15A0xOvkL"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
+        "name": "Linger Over, Linger On",
+        "url": "https://open.spotify.com/album/6TKDj8xVjtCy1ZUyUgSoLX"
+      },
+      "artists": [
+        {
+          "name": "The Great Divide",
+          "url": "https://open.spotify.com/artist/1KDvR3odlKqAOjqT2Rp3Dn"
+        }
+      ],
+      "duration_ms": 283226,
+      "name": "Anyone, Evermore",
+      "url": "https://open.spotify.com/track/6binrNkX9MO9nyFNt2pH1n"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "Take It or Leave It",
-        "url": "https://open.spotify.com/album/2RHjDtMCXgIFnh1KyoWYpR"
-      },
-      "artists": [
-        {
-          "name": "Teacup Monster",
-          "url": "https://open.spotify.com/artist/4Fqq8tVhE1sYO3MxyZL7sW"
-        }
-      ],
-      "duration_ms": 238947,
-      "name": "Take It",
-      "url": "https://open.spotify.com/track/2gUDcRODF4dwwC6vi90ypV"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
         "name": "The Devil You Know",
         "url": "https://open.spotify.com/album/7zrq1fN6aANP2nDQZA2CtL"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
+        "name": "Take It or Leave It",
+        "url": "https://open.spotify.com/album/2RHjDtMCXgIFnh1KyoWYpR"
+      },
+      "artists": [
+        {
+          "name": "Teacup Monster",
+          "url": "https://open.spotify.com/artist/4Fqq8tVhE1sYO3MxyZL7sW"
+        }
+      ],
+      "duration_ms": 238947,
+      "name": "Take It",
+      "url": "https://open.spotify.com/track/2gUDcRODF4dwwC6vi90ypV"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
         "name": "Garage Is Dead",
         "url": "https://open.spotify.com/album/5aHRyWY4RRq04Bx1cLgbjH"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 224640,
       "name": "My time",
       "url": "https://open.spotify.com/track/3jRvGaPzOAK9UVFLRjs9wG"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
-        "name": "The Second Take",
-        "url": "https://open.spotify.com/album/4xOhdwMBgMHJTODhsn4HSf"
-      },
-      "artists": [
-        {
-          "name": "Do Not Machine",
-          "url": "https://open.spotify.com/artist/76dbfnuKsRUbrChI7vlOXE"
-        }
-      ],
-      "duration_ms": 220971,
-      "name": "The Second Take",
-      "url": "https://open.spotify.com/track/27zUZ7wZnlkzv2WAvVFK9W"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -747,6 +731,38 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
+        "name": "The Second Take",
+        "url": "https://open.spotify.com/album/4xOhdwMBgMHJTODhsn4HSf"
+      },
+      "artists": [
+        {
+          "name": "Do Not Machine",
+          "url": "https://open.spotify.com/artist/76dbfnuKsRUbrChI7vlOXE"
+        }
+      ],
+      "duration_ms": 220971,
+      "name": "The Second Take",
+      "url": "https://open.spotify.com/track/27zUZ7wZnlkzv2WAvVFK9W"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
+        "name": "Houses Are Built The Same",
+        "url": "https://open.spotify.com/album/4KeFsz1xKIYgztkHQbyrVh"
+      },
+      "artists": [
+        {
+          "name": "CATHEDRALE",
+          "url": "https://open.spotify.com/artist/1OYppHNOuAIQ69SvpKPR5F"
+        }
+      ],
+      "duration_ms": 190508,
+      "name": "Gold Rush",
+      "url": "https://open.spotify.com/track/2BbJnbjHspWPoNQxUktXam"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
         "name": "Park",
         "url": "https://open.spotify.com/album/5TlXmC4JTP9rrBvQV9O621"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 366417,
       "name": "Easy Living",
       "url": "https://open.spotify.com/track/4GW71Fj6Br2rH6ev9T8f1k"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
-        "name": "Houses Are Built The Same",
-        "url": "https://open.spotify.com/album/4KeFsz1xKIYgztkHQbyrVh"
-      },
-      "artists": [
-        {
-          "name": "CATHEDRALE",
-          "url": "https://open.spotify.com/artist/1OYppHNOuAIQ69SvpKPR5F"
-        }
-      ],
-      "duration_ms": 190508,
-      "name": "Gold Rush",
-      "url": "https://open.spotify.com/track/2BbJnbjHspWPoNQxUktXam"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "You Never Did Anything Wrong to Me",
-        "url": "https://open.spotify.com/album/1Ko1UEiwHBr9AMXPi9xALP"
-      },
-      "artists": [
-        {
-          "name": "Team Ghost",
-          "url": "https://open.spotify.com/artist/6BXXt6yD472LkV5F8LxeBW"
-        }
-      ],
-      "duration_ms": 259385,
-      "name": "A Glorious Time",
-      "url": "https://open.spotify.com/track/2lDKw5ftLPRDFjwSsCBA81"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
         "name": "Daddy Issues",
         "url": "https://open.spotify.com/album/31gjmH07EByb5lpua6I4G8"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 289476,
       "name": "Daddy Issues",
       "url": "https://open.spotify.com/track/2IQq6WSFeAeQIdarYvlGxP"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
+        "name": "You Never Did Anything Wrong to Me",
+        "url": "https://open.spotify.com/album/1Ko1UEiwHBr9AMXPi9xALP"
+      },
+      "artists": [
+        {
+          "name": "Team Ghost",
+          "url": "https://open.spotify.com/artist/6BXXt6yD472LkV5F8LxeBW"
+        }
+      ],
+      "duration_ms": 259385,
+      "name": "A Glorious Time",
+      "url": "https://open.spotify.com/track/2lDKw5ftLPRDFjwSsCBA81"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "Guilty Species",
-        "url": "https://open.spotify.com/album/3Dm0UMOKdtBKymE62q1Iau"
-      },
-      "artists": [
-        {
-          "name": "Jessica93",
-          "url": "https://open.spotify.com/artist/33MTYrs2tNhqp6WlpWGfPg"
-        }
-      ],
-      "duration_ms": 278801,
-      "name": "R.I.P. In Peace",
-      "url": "https://open.spotify.com/track/063hy7znMfqVNklWm2bCWi"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
         "name": "Don't Believe, Watch Out",
         "url": "https://open.spotify.com/album/1zK3Na9JwlTeuhOyNGIkyV"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 322119,
       "name": "Lust of the Dead",
       "url": "https://open.spotify.com/track/2b1KKMDFJ4dnMyg5G9Zz5Y"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
+        "name": "Guilty Species",
+        "url": "https://open.spotify.com/album/3Dm0UMOKdtBKymE62q1Iau"
+      },
+      "artists": [
+        {
+          "name": "Jessica93",
+          "url": "https://open.spotify.com/artist/33MTYrs2tNhqp6WlpWGfPg"
+        }
+      ],
+      "duration_ms": 278801,
+      "name": "R.I.P. In Peace",
+      "url": "https://open.spotify.com/track/063hy7znMfqVNklWm2bCWi"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "Liquor Liquor",
-        "url": "https://open.spotify.com/album/36yINXB0OBwSntX5Ae7WXd"
-      },
-      "artists": [
-        {
-          "name": "Ponta Preta",
-          "url": "https://open.spotify.com/artist/4yJHzoFmD1ysQRd3qDR37e"
-        }
-      ],
-      "duration_ms": 222288,
-      "name": "Liquor Liquor",
-      "url": "https://open.spotify.com/track/4xHZ6hH2dbPP1lKn5ZLHYQ"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
         "name": "DEUXI\u00c8ME \u00c9TOILE",
         "url": "https://open.spotify.com/album/249WNcUE4agsZX6OnzVNwl"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 164026,
       "name": "REQUIN MAKO",
       "url": "https://open.spotify.com/track/5DSNrLlcBs3QNvyEPTJrkG"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
+        "name": "Liquor Liquor",
+        "url": "https://open.spotify.com/album/36yINXB0OBwSntX5Ae7WXd"
+      },
+      "artists": [
+        {
+          "name": "Ponta Preta",
+          "url": "https://open.spotify.com/artist/4yJHzoFmD1ysQRd3qDR37e"
+        }
+      ],
+      "duration_ms": 222288,
+      "name": "Liquor Liquor",
+      "url": "https://open.spotify.com/track/4xHZ6hH2dbPP1lKn5ZLHYQ"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "Hara",
-        "url": "https://open.spotify.com/album/23RMgtP4v1gGTXnANwQCPU"
+        "name": "The West Is the Best",
+        "url": "https://open.spotify.com/album/0VCp3ltRTuGJAfZfikMkDA"
       },
       "artists": [
         {
-          "name": "Datcha Mandala",
-          "url": "https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88"
+          "name": "Dead Horse One",
+          "url": "https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7"
         }
       ],
-      "duration_ms": 204106,
-      "name": "Stick It Out",
-      "url": "https://open.spotify.com/track/3LglMEtGTUFhAPTxa5ewwa"
+      "duration_ms": 221322,
+      "name": "Echo Street",
+      "url": "https://open.spotify.com/track/7yUuvqh6jUnCiZpk9QUf2x"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -1219,34 +1219,18 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "The West Is the Best",
-        "url": "https://open.spotify.com/album/0VCp3ltRTuGJAfZfikMkDA"
+        "name": "Hara",
+        "url": "https://open.spotify.com/album/23RMgtP4v1gGTXnANwQCPU"
       },
       "artists": [
         {
-          "name": "Dead Horse One",
-          "url": "https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7"
+          "name": "Datcha Mandala",
+          "url": "https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88"
         }
       ],
-      "duration_ms": 221322,
-      "name": "Echo Street",
-      "url": "https://open.spotify.com/track/7yUuvqh6jUnCiZpk9QUf2x"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
-        "name": "Centaur Desire",
-        "url": "https://open.spotify.com/album/0Fjb0kM75nMYhktmSTj4np"
-      },
-      "artists": [
-        {
-          "name": "J.C. Sat\u00e0n",
-          "url": "https://open.spotify.com/artist/3YdIpKk40myJ3aC29izFRW"
-        }
-      ],
-      "duration_ms": 209426,
-      "name": "No Brain No Shame",
-      "url": "https://open.spotify.com/track/634Xqm8fG8J1cGymJ51Khy"
+      "duration_ms": 204106,
+      "name": "Stick It Out",
+      "url": "https://open.spotify.com/track/3LglMEtGTUFhAPTxa5ewwa"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -1267,6 +1251,22 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
+        "name": "Centaur Desire",
+        "url": "https://open.spotify.com/album/0Fjb0kM75nMYhktmSTj4np"
+      },
+      "artists": [
+        {
+          "name": "J.C. Sat\u00e0n",
+          "url": "https://open.spotify.com/artist/3YdIpKk40myJ3aC29izFRW"
+        }
+      ],
+      "duration_ms": 209426,
+      "name": "No Brain No Shame",
+      "url": "https://open.spotify.com/track/634Xqm8fG8J1cGymJ51Khy"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
         "name": "Little Armageddon",
         "url": "https://open.spotify.com/album/4aGp0loKrV89iJdJoksnYN"
       },
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "AqME",
-        "url": "https://open.spotify.com/album/2oXGlPpaj8pwFGL2SpnVUF"
-      },
-      "artists": [
-        {
-          "name": "AqME",
-          "url": "https://open.spotify.com/artist/37P7yznrsIGSfuGOzmmt26"
-        }
-      ],
-      "duration_ms": 182546,
-      "name": "Tant d'ann\u00e9es",
-      "url": "https://open.spotify.com/track/2gFOW2xLk0Cr4CPg3rHBWk"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
         "name": "Sitcoms for Aliens",
         "url": "https://open.spotify.com/album/5m60bag09WvO4KA2skUXV6"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 185218,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/0EEwKVe65Zg558NmnyMtCu"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
+        "name": "AqME",
+        "url": "https://open.spotify.com/album/2oXGlPpaj8pwFGL2SpnVUF"
+      },
+      "artists": [
+        {
+          "name": "AqME",
+          "url": "https://open.spotify.com/artist/37P7yznrsIGSfuGOzmmt26"
+        }
+      ],
+      "duration_ms": 182546,
+      "name": "Tant d'ann\u00e9es",
+      "url": "https://open.spotify.com/track/2gFOW2xLk0Cr4CPg3rHBWk"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
+        "name": "...About Going Home",
+        "url": "https://open.spotify.com/album/4BK5HpkKLHhJJcefY8ucuI"
+      },
+      "artists": [
+        {
+          "name": "FRAGILE",
+          "url": "https://open.spotify.com/artist/1IBYroia1iA5nw0h8RCOeu"
+        }
+      ],
+      "duration_ms": 249013,
+      "name": "Model",
+      "url": "https://open.spotify.com/track/0PgfUO12sVy39a87M9J0rn"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
         "name": "Slot Logic",
         "url": "https://open.spotify.com/album/2eiBZAV4PXCHiIgUsS4K8W"
       },
@@ -1395,18 +1411,18 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "...About Going Home",
-        "url": "https://open.spotify.com/album/4BK5HpkKLHhJJcefY8ucuI"
+        "name": "Ineffable",
+        "url": "https://open.spotify.com/album/5ffY3OhPNukgdhw6n13tXz"
       },
       "artists": [
         {
-          "name": "FRAGILE",
-          "url": "https://open.spotify.com/artist/1IBYroia1iA5nw0h8RCOeu"
+          "name": "Merge",
+          "url": "https://open.spotify.com/artist/017WuxWgOk7J8gVQCIaZ9m"
         }
       ],
-      "duration_ms": 249013,
-      "name": "Model",
-      "url": "https://open.spotify.com/track/0PgfUO12sVy39a87M9J0rn"
+      "duration_ms": 254687,
+      "name": "The Password",
+      "url": "https://open.spotify.com/track/5lXrakjlZisavgHGQlBEGx"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -1423,22 +1439,6 @@
       "duration_ms": 203906,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/6x6pZm52ipZTVIM99Jwb1k"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
-        "name": "Ineffable",
-        "url": "https://open.spotify.com/album/5ffY3OhPNukgdhw6n13tXz"
-      },
-      "artists": [
-        {
-          "name": "Merge",
-          "url": "https://open.spotify.com/artist/017WuxWgOk7J8gVQCIaZ9m"
-        }
-      ],
-      "duration_ms": 254687,
-      "name": "The Password",
-      "url": "https://open.spotify.com/track/5lXrakjlZisavgHGQlBEGx"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -1491,34 +1491,18 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "HORIZON",
-        "url": "https://open.spotify.com/album/40qu8vLitjOTHYBKIWGpeU"
+        "name": "Postmodern Blue",
+        "url": "https://open.spotify.com/album/4ytKLcwskenzEAA3Ae3Kta"
       },
       "artists": [
         {
-          "name": "The Inspector Cluzo",
-          "url": "https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg"
+          "name": "Trainfantome",
+          "url": "https://open.spotify.com/artist/7pG1EQuqeYlTh3J3jkCHfp"
         }
       ],
-      "duration_ms": 228080,
-      "name": "HORIZON",
-      "url": "https://open.spotify.com/track/6G6gPGeURYWsCsjiByoedl"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
-        "name": "De Novo",
-        "url": "https://open.spotify.com/album/4zv3fK4zaoXhRmOxdcqml6"
-      },
-      "artists": [
-        {
-          "name": "Rank-O",
-          "url": "https://open.spotify.com/artist/7EfIjVAkrlvg6SKlUjsAgF"
-        }
-      ],
-      "duration_ms": 192815,
-      "name": "Humans",
-      "url": "https://open.spotify.com/track/5rcE08QNXMI9CUsbnpWf7n"
+      "duration_ms": 170393,
+      "name": "Vulgar",
+      "url": "https://open.spotify.com/track/7cOZA9hhLkBValr2rhaH61"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -1539,18 +1523,34 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "Postmodern Blue",
-        "url": "https://open.spotify.com/album/4ytKLcwskenzEAA3Ae3Kta"
+        "name": "De Novo",
+        "url": "https://open.spotify.com/album/4zv3fK4zaoXhRmOxdcqml6"
       },
       "artists": [
         {
-          "name": "Trainfantome",
-          "url": "https://open.spotify.com/artist/7pG1EQuqeYlTh3J3jkCHfp"
+          "name": "Rank-O",
+          "url": "https://open.spotify.com/artist/7EfIjVAkrlvg6SKlUjsAgF"
         }
       ],
-      "duration_ms": 170393,
-      "name": "Vulgar",
-      "url": "https://open.spotify.com/track/7cOZA9hhLkBValr2rhaH61"
+      "duration_ms": 192815,
+      "name": "Humans",
+      "url": "https://open.spotify.com/track/5rcE08QNXMI9CUsbnpWf7n"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
+        "name": "HORIZON",
+        "url": "https://open.spotify.com/album/40qu8vLitjOTHYBKIWGpeU"
+      },
+      "artists": [
+        {
+          "name": "The Inspector Cluzo",
+          "url": "https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg"
+        }
+      ],
+      "duration_ms": 228080,
+      "name": "HORIZON",
+      "url": "https://open.spotify.com/track/6G6gPGeURYWsCsjiByoedl"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "Full Circle Back",
-        "url": "https://open.spotify.com/album/1G4sh6vNpyep8N9Kc8i4Lu"
-      },
-      "artists": [
-        {
-          "name": "MNNQNS",
-          "url": "https://open.spotify.com/artist/1xv8LIJ3qAL2EioqhUjqtY"
-        }
-      ],
-      "duration_ms": 226506,
-      "name": "Full Circle Back",
-      "url": "https://open.spotify.com/track/5kVeebGBrpAum8u2RYt9xh"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
         "name": "Songs/Motion Return",
         "url": "https://open.spotify.com/album/0HNoauBRe7vw3WlqH9APbM"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 227426,
       "name": "Drift",
       "url": "https://open.spotify.com/track/367PCAccIOOMRfnaSKtFDG"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
+        "name": "Full Circle Back",
+        "url": "https://open.spotify.com/album/1G4sh6vNpyep8N9Kc8i4Lu"
+      },
+      "artists": [
+        {
+          "name": "MNNQNS",
+          "url": "https://open.spotify.com/artist/1xv8LIJ3qAL2EioqhUjqtY"
+        }
+      ],
+      "duration_ms": 226506,
+      "name": "Full Circle Back",
+      "url": "https://open.spotify.com/track/5kVeebGBrpAum8u2RYt9xh"
     },
     {
       "added_at": "2024-02-28 20:47:31",

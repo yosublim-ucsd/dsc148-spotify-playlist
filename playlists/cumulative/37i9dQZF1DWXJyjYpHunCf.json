@@ -2844,7 +2844,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 244960,
       "name": "Horse to Water",
       "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
@@ -3118,6 +3118,24 @@
       "duration_ms": 175413,
       "name": "I Wish I Knew Jesus - Like You Do",
       "url": "https://open.spotify.com/track/4AA8t1KeyuycKusIjHcAYE"
+    },
+    {
+      "album": {
+        "name": "I'm The Sinner",
+        "url": "https://open.spotify.com/album/47r9vuxBzDCn7oENWLPBlr"
+      },
+      "artists": [
+        {
+          "name": "Jared Benjamin",
+          "url": "https://open.spotify.com/artist/0pu0ZEMZtgePMOE6m19Cne"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132821,
+      "name": "I'm The Sinner",
+      "url": "https://open.spotify.com/track/24abicT0hYd3pdJufYNI1b"
     },
     {
       "album": {
@@ -4748,7 +4766,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 231724,
       "name": "Rearview",
       "url": "https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN"
@@ -6168,7 +6186,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-05",
+      "date_removed": null,
       "duration_ms": 136378,
       "name": "Waves",
       "url": "https://open.spotify.com/track/5luLMIQajTbWm2Zz4EsO9D"

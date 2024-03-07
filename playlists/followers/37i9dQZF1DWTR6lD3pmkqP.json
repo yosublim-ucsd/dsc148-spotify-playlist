@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 108833,
+  "2024-03-07": 108897,
   "date_first_scraped": "2021-12-21",
   "description": "The sound of the new era of Jazz. Cover: Esperanza Spalding",
   "name": "21st Century Jazz",
@@ -2795,6 +2795,32 @@
       "duration_ms": 467946,
       "name": "Esta Plena",
       "url": "https://open.spotify.com/track/74GF2f3yRPDhuxyuo8OPpX"
+    },
+    {
+      "album": {
+        "name": "Brian Jackson JID008",
+        "url": "https://open.spotify.com/album/7dObAQ0LpLXqNXiVcON7yd"
+      },
+      "artists": [
+        {
+          "name": "Brian Jackson",
+          "url": "https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187896,
+      "name": "Ethiopian Sunshower",
+      "url": "https://open.spotify.com/track/63latgxl7SzKQiTPFIC5MS"
     },
     {
       "album": {
@@ -8287,7 +8313,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 339773,
       "name": "Seti Khola",
       "url": "https://open.spotify.com/track/6JOQnzP9uxrYBEPN6Ex6kv"

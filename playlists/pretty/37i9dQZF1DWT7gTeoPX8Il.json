@@ -1,12 +1,12 @@
 {
   "description": "layan je",
-  "num_followers": 108203,
+  "num_followers": 108289,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODQ0MjJiNWFiMDUwOTg1MWVjNmJjZTNlMTdjMDdlNWQ2ZThiNjgy",
+  "snapshot_id": "MCxmODNhMTZmNTFhMWRhYTZjZWMyYjRkNjgwMDdhZTAyMTJkNWE3Nzll",
   "tracks": [
     {
       "added_at": "2024-02-29 16:24:13",
@@ -587,6 +587,26 @@
     {
       "added_at": "2024-02-29 16:24:13",
       "album": {
+        "name": "SAH",
+        "url": "https://open.spotify.com/album/3wa5IjTNnZX7vVVW891IDX"
+      },
+      "artists": [
+        {
+          "name": "Sarah Suhairi",
+          "url": "https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh"
+        },
+        {
+          "name": "Alfie Zumi",
+          "url": "https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV"
+        }
+      ],
+      "duration_ms": 228055,
+      "name": "SAH",
+      "url": "https://open.spotify.com/track/6PGx1glZXYFGVppfHlCQqc"
+    },
+    {
+      "added_at": "2024-02-29 16:24:13",
+      "album": {
         "name": "Tampar",
         "url": "https://open.spotify.com/album/2lZzryqflrZLO9YDjnlkMz"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 205466,
       "name": "Secukupnya",
       "url": "https://open.spotify.com/track/5drW6PGRxkE6MxttzVLNk5"
-    },
-    {
-      "added_at": "2024-02-29 16:24:13",
-      "album": {
-        "name": "SAH",
-        "url": "https://open.spotify.com/album/3wa5IjTNnZX7vVVW891IDX"
-      },
-      "artists": [
-        {
-          "name": "Sarah Suhairi",
-          "url": "https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh"
-        },
-        {
-          "name": "Alfie Zumi",
-          "url": "https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV"
-        }
-      ],
-      "duration_ms": 228055,
-      "name": "SAH",
-      "url": "https://open.spotify.com/track/6PGx1glZXYFGVppfHlCQqc"
     },
     {
       "added_at": "2024-02-29 16:24:13",
@@ -755,18 +755,22 @@
     {
       "added_at": "2024-02-29 16:24:13",
       "album": {
-        "name": "Pupus / Risalah Hati",
-        "url": "https://open.spotify.com/album/2Hjub1YpegaAmIf2TULKki"
+        "name": "Lagu Pernikahan Kita",
+        "url": "https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu"
       },
       "artists": [
         {
-          "name": "Pamungkas",
-          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
+        },
+        {
+          "name": "Arsy Widianto",
+          "url": "https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT"
         }
       ],
-      "duration_ms": 301824,
-      "name": "Risalah Hati",
-      "url": "https://open.spotify.com/track/5h51lTy1jYDDkYLALQrzX9"
+      "duration_ms": 261476,
+      "name": "Lagu Pernikahan Kita",
+      "url": "https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681"
     },
     {
       "added_at": "2024-02-29 16:24:13",
@@ -799,6 +803,22 @@
     {
       "added_at": "2024-02-29 16:24:13",
       "album": {
+        "name": "Pupus / Risalah Hati",
+        "url": "https://open.spotify.com/album/2Hjub1YpegaAmIf2TULKki"
+      },
+      "artists": [
+        {
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+        }
+      ],
+      "duration_ms": 301824,
+      "name": "Risalah Hati",
+      "url": "https://open.spotify.com/track/5h51lTy1jYDDkYLALQrzX9"
+    },
+    {
+      "added_at": "2024-02-29 16:24:13",
+      "album": {
         "name": "Seperti Seharusnya",
         "url": "https://open.spotify.com/album/0OJ20fKyVlmZKAMF8q1LAL"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 266306,
       "name": "Separuh Aku",
       "url": "https://open.spotify.com/track/4BDA2HN9dQtrXjk8b6zaTq"
-    },
-    {
-      "added_at": "2024-02-29 16:24:13",
-      "album": {
-        "name": "Lagu Pernikahan Kita",
-        "url": "https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu"
-      },
-      "artists": [
-        {
-          "name": "Tiara Andini",
-          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
-        },
-        {
-          "name": "Arsy Widianto",
-          "url": "https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT"
-        }
-      ],
-      "duration_ms": 261476,
-      "name": "Lagu Pernikahan Kita",
-      "url": "https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681"
     },
     {
       "added_at": "2024-02-29 16:24:13",

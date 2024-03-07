@@ -3658,6 +3658,32 @@
     {
       "album": {
         "name": "Los Bacatranes",
+        "url": "https://open.spotify.com/album/3Jk5Cjra0Q7wO2OtS27Hfg"
+      },
+      "artists": [
+        {
+          "name": "Trebol Clan",
+          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
+        },
+        {
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
+        },
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212703,
+      "name": "No Le Temas A \u00c9l (feat. H\u00e9ctor \"El Father\" & Tito \"El Bambino\")",
+      "url": "https://open.spotify.com/track/28PZREo67c9GjM9GPcFRx1"
+    },
+    {
+      "album": {
+        "name": "Los Bacatranes",
         "url": "https://open.spotify.com/album/6L3AvTd86IFDOEcPCLUmf7"
       },
       "artists": [
@@ -4400,7 +4426,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 291658,
       "name": "Quitate Tu Pa Ponerme Yo",
       "url": "https://open.spotify.com/track/16KDdey3vnSBWwqUZoe1cT"

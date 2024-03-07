@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 111221,
+  "2024-03-07": 111222,
   "date_first_scraped": "2022-05-26",
   "description": "Chill lo-fi beats to enjoy a great afternoon.",
   "name": "Sunset Chill",
@@ -309,7 +309,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 137764,
       "name": "Atlantic.Wav",
       "url": "https://open.spotify.com/track/6bMsqnrwBIF6sbeS9GV7uL"
@@ -1433,7 +1433,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 157270,
       "name": "Green Stamps",
       "url": "https://open.spotify.com/track/30zouM8GTBeX57AFYDCcDI"

@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 615129,
+  "2024-03-07": 615180,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Sweden.",
   "name": "Top 50 - Sweden",
@@ -1001,7 +1001,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 176315,
       "name": "Ahumma",
       "url": "https://open.spotify.com/track/3FekVM62XSKijk621AAaP3"
@@ -2845,7 +2845,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-05",
+      "date_removed": null,
       "duration_ms": 176178,
       "name": "Before You Leave Me",
       "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
@@ -5611,7 +5611,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 179362,
       "name": "Controlla",
       "url": "https://open.spotify.com/track/77XfCHwNuiRjMwFysSSNR5"
@@ -16561,7 +16561,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 146718,
       "name": "Kan Inte G\u00e5",
       "url": "https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X"
@@ -24182,6 +24182,24 @@
     },
     {
       "album": {
+        "name": "Vapen & Ammunition",
+        "url": "https://open.spotify.com/album/73twVe0sVgVfl7B5dfVTvj"
+      },
+      "artists": [
+        {
+          "name": "kent",
+          "url": "https://open.spotify.com/artist/4KXp3xtaz1wWXnu5u34eVX"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235960,
+      "name": "P\u00e4rlor",
+      "url": "https://open.spotify.com/track/2T5UDvBzecsQkTMVbOvRLS"
+    },
+    {
+      "album": {
         "name": "Vapen & ammunition",
         "url": "https://open.spotify.com/album/2DGzTm2R2v3G0IjnxXtP3Y"
       },
@@ -24193,7 +24211,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 235960,
       "name": "P\u00e4rlor",
       "url": "https://open.spotify.com/track/5YCKObb1A7YIeOKzXhREwz"
@@ -27727,7 +27745,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-05",
+      "date_removed": null,
       "duration_ms": 139034,
       "name": "SOLDAT - RMX",
       "url": "https://open.spotify.com/track/7MZQoikPpcwneYkKhdRvoe"
@@ -35053,7 +35071,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-05",
+      "date_removed": null,
       "duration_ms": 125092,
       "name": "\u00d6verallt",
       "url": "https://open.spotify.com/track/4HbjNhJI28hVrLv90NKia2"

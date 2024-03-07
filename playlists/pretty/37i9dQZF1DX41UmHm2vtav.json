@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 464823,
+  "num_followers": 464876,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2NhOTU0NjE2ZThiYzk0YzFiZWNiNTUxZjQwMDZkNTc2MjVjM2Nh",
+  "snapshot_id": "MCw5NjBiODE1ZjdkYTI1Y2JkNzYzYjdkNjhmZDhiYzRmNzlkYWNkOTEx",
   "tracks": [
     {
       "added_at": "2024-03-01 03:03:00",
@@ -667,26 +667,6 @@
     {
       "added_at": "2024-03-01 03:03:00",
       "album": {
-        "name": "Um Dia Inteiro",
-        "url": "https://open.spotify.com/album/4QkJIUVjHYnRATRfJYWEXo"
-      },
-      "artists": [
-        {
-          "name": "DUX",
-          "url": "https://open.spotify.com/artist/1LgoxgQRqIU1xWXRNxgSK6"
-        },
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Um Dia Inteiro",
-      "url": "https://open.spotify.com/track/4QIJGXrPvtyKaeoTD7PcXw"
-    },
-    {
-      "added_at": "2024-03-01 03:03:00",
-      "album": {
         "name": "Toda Forma De Amor (Remix)",
         "url": "https://open.spotify.com/album/6JrcGklaPVSgStFMVr1D80"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 228661,
       "name": "Toda Forma De Amor - Remix",
       "url": "https://open.spotify.com/track/5OUcQYbAwl4uKlVqnTqs2C"
+    },
+    {
+      "added_at": "2024-03-01 03:03:00",
+      "album": {
+        "name": "Um Dia Inteiro",
+        "url": "https://open.spotify.com/album/4QkJIUVjHYnRATRfJYWEXo"
+      },
+      "artists": [
+        {
+          "name": "DUX",
+          "url": "https://open.spotify.com/artist/1LgoxgQRqIU1xWXRNxgSK6"
+        },
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Um Dia Inteiro",
+      "url": "https://open.spotify.com/track/4QIJGXrPvtyKaeoTD7PcXw"
     },
     {
       "added_at": "2024-03-01 03:03:00",
@@ -987,18 +987,26 @@
     {
       "added_at": "2024-03-01 03:03:00",
       "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/3akUV8y4pLkrrUA1Lbc2x9"
+        "name": "Halfway (feat. Twan Ray)",
+        "url": "https://open.spotify.com/album/3Ql67TcOvEK8VOSML3UEv1"
       },
       "artists": [
         {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
         }
       ],
-      "duration_ms": 179016,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/6ukDui4jshflTw5yHIwIzE"
+      "duration_ms": 158416,
+      "name": "Halfway (feat. Twan Ray)",
+      "url": "https://open.spotify.com/track/1BAupWJ7hkJFJuOL0eHb45"
     },
     {
       "added_at": "2024-03-01 03:03:00",
@@ -1023,26 +1031,18 @@
     {
       "added_at": "2024-03-01 03:03:00",
       "album": {
-        "name": "Halfway (feat. Twan Ray)",
-        "url": "https://open.spotify.com/album/3Ql67TcOvEK8VOSML3UEv1"
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/3akUV8y4pLkrrUA1Lbc2x9"
       },
       "artists": [
         {
-          "name": "Yves V",
-          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
-        },
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        },
-        {
-          "name": "Twan Ray",
-          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
         }
       ],
-      "duration_ms": 158416,
-      "name": "Halfway (feat. Twan Ray)",
-      "url": "https://open.spotify.com/track/1BAupWJ7hkJFJuOL0eHb45"
+      "duration_ms": 179016,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/6ukDui4jshflTw5yHIwIzE"
     },
     {
       "added_at": "2024-03-01 03:03:00",
@@ -1407,6 +1407,26 @@
     {
       "added_at": "2024-03-01 03:03:00",
       "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "JHart",
+          "url": "https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ"
+        }
+      ],
+      "duration_ms": 179481,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e"
+    },
+    {
+      "added_at": "2024-03-01 03:03:00",
+      "album": {
         "name": "Hoje Caminhei (Remix)",
         "url": "https://open.spotify.com/album/64mqFOvIwaPgfBIKw9XIap"
       },
@@ -1431,42 +1451,30 @@
     {
       "added_at": "2024-03-01 03:03:00",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX"
+        "name": "D\u00c1KITI",
+        "url": "https://open.spotify.com/album/5RE3u3esh5NWmKGP1sKKwf"
       },
       "artists": [
         {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+          "name": "BOOTY LEAK",
+          "url": "https://open.spotify.com/artist/6C8sBC5U3LyUE4GoleJWvx"
         },
         {
-          "name": "JHart",
-          "url": "https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ"
-        }
-      ],
-      "duration_ms": 179481,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e"
-    },
-    {
-      "added_at": "2024-03-01 03:03:00",
-      "album": {
-        "name": "A Dois Passos do Para\u00edso",
-        "url": "https://open.spotify.com/album/5hKxhHCqNsFLDjdcDF8TT8"
-      },
-      "artists": [
-        {
-          "name": "SoFly",
-          "url": "https://open.spotify.com/artist/5cjbfaJkOOpNKimOQSCsOO"
+          "name": "TARS.",
+          "url": "https://open.spotify.com/artist/0Dp54NlNysfSJ0FO2nlTGo"
         },
         {
-          "name": "Duckhandz",
-          "url": "https://open.spotify.com/artist/4ngmXjzqqHfeZeYnAav41E"
+          "name": "PHURS",
+          "url": "https://open.spotify.com/artist/2UXdzClMex3N47C9m1fkeX"
+        },
+        {
+          "name": "LO RA",
+          "url": "https://open.spotify.com/artist/4UIKw5nTfBSfJz1Qtts8oC"
         }
       ],
-      "duration_ms": 198425,
-      "name": "A Dois Passos do Para\u00edso",
-      "url": "https://open.spotify.com/track/6ek42FNnwFIXhP0ZArfZ7h"
+      "duration_ms": 187428,
+      "name": "D\u00c1KITI",
+      "url": "https://open.spotify.com/track/12UKG8o3WWlSdvK7zInWh8"
     },
     {
       "added_at": "2024-03-01 03:03:00",
@@ -1495,26 +1503,22 @@
     {
       "added_at": "2024-03-01 03:03:00",
       "album": {
-        "name": "Lil\u00e1s",
-        "url": "https://open.spotify.com/album/28FXnWF3WGPDZLgNP08M9W"
+        "name": "A Dois Passos do Para\u00edso",
+        "url": "https://open.spotify.com/album/5hKxhHCqNsFLDjdcDF8TT8"
       },
       "artists": [
         {
-          "name": "Pic Schmitz",
-          "url": "https://open.spotify.com/artist/1sE1LdTZxsVYyGl84vl9zl"
+          "name": "SoFly",
+          "url": "https://open.spotify.com/artist/5cjbfaJkOOpNKimOQSCsOO"
         },
         {
-          "name": "Windy City Classics",
-          "url": "https://open.spotify.com/artist/7DHW83PorP554oWiE7pn8m"
-        },
-        {
-          "name": "Lucas Borchardt",
-          "url": "https://open.spotify.com/artist/1awSZh0X5DJMLQVgx8TyeR"
+          "name": "Duckhandz",
+          "url": "https://open.spotify.com/artist/4ngmXjzqqHfeZeYnAav41E"
         }
       ],
-      "duration_ms": 187741,
-      "name": "Lil\u00e1s",
-      "url": "https://open.spotify.com/track/3MCmAAKZRaIFRhpfSYo6OP"
+      "duration_ms": 198425,
+      "name": "A Dois Passos do Para\u00edso",
+      "url": "https://open.spotify.com/track/6ek42FNnwFIXhP0ZArfZ7h"
     }
   ],
   "unique_name": "Festa na Praia",

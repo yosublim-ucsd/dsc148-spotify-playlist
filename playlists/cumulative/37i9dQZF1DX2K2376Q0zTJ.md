@@ -4,7 +4,7 @@
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。今月のアンバサダー: LANA
 
-1,116 songs - 2 day 18 hr 3 min
+1,117 songs - 2 day 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -757,7 +757,8 @@
 | [We Are Girls Forever!](https://open.spotify.com/track/0uSmXHLPZ5tv4hnGH6AbPr) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [Work\-life Island](https://open.spotify.com/album/7idGTwDPcl1mh9oCnVC42d) | 3:31 | 2023-08-01 | 2023-09-06 |
 | [We Are Love](https://open.spotify.com/track/1tO1BXeXp5GeVCezL2H2PD) | [Sihk](https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6), [NATSUMI](https://open.spotify.com/artist/7DCltfdFTL9tQFRM9KXPuz), [Vania](https://open.spotify.com/artist/6h3MHimQgTrJFz3UIrXgcC) | [We Are Love](https://open.spotify.com/album/28vTaA2LY4fqZh7Z09p3ah) | 4:08 | 2022-05-31 | 2022-07-06 |
 | [We The Female!](https://open.spotify.com/track/41n2nfFUIBVjiypYmzPqkp) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [CHAI](https://open.spotify.com/album/5g4cqZOzCM2kUN6D1HX9ds) | 3:04 | 2023-11-07 | 2024-02-07 |
-| [WE WANT!!! \- feat.7](https://open.spotify.com/track/2BxKxnjb7wsUjXpooz8dut) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [19.5](https://open.spotify.com/album/06uFaprW6BVk7Lckao8DsA) | 3:00 | 2024-03-05 |  |
+| [WE WANT!!! \- feat.7](https://open.spotify.com/track/2BxKxnjb7wsUjXpooz8dut) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [19.5](https://open.spotify.com/album/06uFaprW6BVk7Lckao8DsA) | 3:00 | 2024-03-05 | 2024-03-07 |
+| [WE WANT!!! \- feat.7](https://open.spotify.com/track/2H8nWRVaXhONgYbsVfRa3W) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [19.5](https://open.spotify.com/album/7aoxCAZQG1RINt6c0uYqtQ) | 3:00 | 2024-03-05 |  |
 | [WEAR I AM](https://open.spotify.com/track/61QHeDEPA4PtpiGWIAjAP2) | [MEG](https://open.spotify.com/artist/625iOFWwsLZyMXt7mx5L2X) | [WEAR I AM](https://open.spotify.com/album/6EBuvTf7SZKFBFwvjXDxMz) | 5:09 | 2022-01-04 | 2022-02-02 |
 | [Welcome](https://open.spotify.com/track/2eret7tEFawBg7ivErrSdx) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Welcome to My Castle](https://open.spotify.com/album/7gkjbmsbhiXCDPmKYGPk2l) | 3:17 | 2024-02-06 | 2024-03-06 |
 | [What is?? 2024 CLUB REMIX](https://open.spotify.com/track/0hXMQqcaQjLYmimqd6cPm3) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [What is?? 2024 CLUB REMIX](https://open.spotify.com/album/1Vb1ht6A3JgfbJGimGxLeO) | 4:25 | 2024-02-06 | 2024-03-06 |

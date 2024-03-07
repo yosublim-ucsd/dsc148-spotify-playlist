@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > Todos pro alto, cada um com o seu\. Foto: LH CHUCRO, The Boy, N.A.N.A.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,989 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,042 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 43 | [Bebeto & Romário](https://open.spotify.com/track/1UHfOlHWNVRK4jDnTZ4NeO) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Os Irmão Metralha](https://open.spotify.com/album/5CNVRlJD0CosQCBdoVkpyv) | 2:20 |
 | 44 | [Pela Manhã](https://open.spotify.com/track/59kwXEmcc52rvxweb6we9p) | [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [MC GH do 7](https://open.spotify.com/artist/5XUMgbLR3zyRPesnTQY31C) | [Menino Barulhento](https://open.spotify.com/album/0osJKRTACneLPJI3f5oQea) | 4:00 |
 | 45 | [Victoria's Secrets](https://open.spotify.com/track/0wip0vMqXUZptWl8s386yR) | [Boca](https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX), [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Gabriel Xan](https://open.spotify.com/artist/48OAXgxXNHMfRgOPGy2oAK), [Doidão Beats](https://open.spotify.com/artist/1SY2NQQLliQAXoi0YtGZQm), [PTKA](https://open.spotify.com/artist/4ChHh2DTGIbIUciPmoSxej) | [Victoria's Secrets](https://open.spotify.com/album/2hGnJhss1wzMSwkMZNeSeM) | 3:01 |
-| 46 | [Bandida](https://open.spotify.com/track/1GsOoDPsPpXhW1oJ2nPwNg) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m) | [Medo É Só Ilusão](https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu) | 2:15 |
-| 47 | [Nega Doce](https://open.spotify.com/track/2IFsSIVR7eZlm9lB3tUzCR) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P) | [Nega Doce](https://open.spotify.com/album/0BMzLRaKY8LtPR2wEYuaAZ) | 2:16 |
+| 46 | [Nega Doce](https://open.spotify.com/track/2IFsSIVR7eZlm9lB3tUzCR) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P) | [Nega Doce](https://open.spotify.com/album/0BMzLRaKY8LtPR2wEYuaAZ) | 2:16 |
+| 47 | [Bandida](https://open.spotify.com/track/1GsOoDPsPpXhW1oJ2nPwNg) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m) | [Medo É Só Ilusão](https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu) | 2:15 |
 | 48 | [Ponto de Equilíbrio](https://open.spotify.com/track/22tJsph3R8RtaNJokrAxod) | [GDM](https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH), [Druhh e Drehh](https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf), [Real Bege](https://open.spotify.com/artist/26L8m5uIaOJCe0RgMMX3RP), [Anti Ayoa](https://open.spotify.com/artist/163jYTZvbiCiNlpqL3YJjM), [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee) | [Ponto de Equilíbrio](https://open.spotify.com/album/56lY6xlUwnfbpbiQ7OKupg) | 3:58 |
 | 49 | [N2D](https://open.spotify.com/track/3B4DhGPmL5l4CQESJBABd4) | [ogdudzz](https://open.spotify.com/artist/3QRMnxlPArFmSdATF4gCMh), [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC) | [N2D](https://open.spotify.com/album/6FVW3MUbJqbnSY6pg9twrl) | 2:15 |
 | 50 | [Metralha](https://open.spotify.com/track/4QPCbHjLAldR6qH6TZOqdG) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR), [LH CHUCRO](https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Os Irmão Metralha](https://open.spotify.com/album/5CNVRlJD0CosQCBdoVkpyv) | 3:00 |
 
-Snapshot ID: `MCxjYjI3OWI3MWM0OTZmMDdiMjk3OWZmYjA1MGMxODIwYzM5NDhkZGZj`
+Snapshot ID: `MCxlZTViOTljOWNkNWEzNjgxZDdlNDUzYmU3MWEzMDVkNDQ3ZmUxYWM3`

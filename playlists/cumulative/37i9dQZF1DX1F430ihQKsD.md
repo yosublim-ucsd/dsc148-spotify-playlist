@@ -2,7 +2,7 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> Montréal’s music scene, front and centre\. Cover: Afternoon Bike Ride
+> La scène musicale montréalaise au premier plan\. Photo: Afternoon Bike Ride
 
 425 songs - 1 day 0 hr 43 min
 

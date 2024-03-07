@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Lisl, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,363 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,404 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 70 | [Breathe](https://open.spotify.com/track/05v0olACA2jHcfwLdeLo4k) | [The Raw Soul](https://open.spotify.com/artist/1L3YuH5WrbdMpN7WezL6hN) | [Breathe](https://open.spotify.com/album/338SNaZlcW3nVgvfC7y3gg) | 3:29 |
 | 71 | [Still Waiting For My Name In The Credits](https://open.spotify.com/track/4NZb3JixjqNx1dg2JqioMO) | [Jenobi](https://open.spotify.com/artist/0UC1sYxlc37tOJ8pKo9P4i) | [Still Waiting For My Name In The Credits](https://open.spotify.com/album/70CLDBQb0Z4DnNePn9VQHM) | 3:14 |
 | 72 | [Miss Monroe](https://open.spotify.com/track/6I68DVLkuhkZy45c4N3Y0w) | [Hidden Gemz](https://open.spotify.com/artist/5SQPHZJpKtfGTo6r7pLpZu) | [Miss Monroe](https://open.spotify.com/album/0jnINkp8rCOpw2lOFI0EzT) | 2:53 |
-| 73 | [Tell Me](https://open.spotify.com/track/7tRVTrvTIpYC15QvLkI3Tv) | [gome](https://open.spotify.com/artist/2kXp8r42AOwb6s5GzdiukU) | [Tell Me](https://open.spotify.com/album/1wR8GmaQ6xYVL1i1918Ilw) | 3:53 |
+| 73 | [Tell Me](https://open.spotify.com/track/1LiQJVCQ78nWOMRAGIlHgB) | [gome](https://open.spotify.com/artist/2kXp8r42AOwb6s5GzdiukU) | [Tell Me EP](https://open.spotify.com/album/0CcIISxMUzNAGCnCWOwSQI) | 3:53 |
 | 74 | [Raise My Glass](https://open.spotify.com/track/1x9KbcTkVKr2tMtaeQDK3W) | [Joy Bogat](https://open.spotify.com/artist/4W9ZAgvkctnqPK6BftsaQg) | [Raise My Glass](https://open.spotify.com/album/4zjijMaqWre5fKBGVlAc6n) | 3:20 |
 | 75 | [Runnin'](https://open.spotify.com/track/2sMbW27DW5ZW9O34smcAkU) | [douniah](https://open.spotify.com/artist/0XRqsaNWIoGwotH5YZAb0y), [okcandice](https://open.spotify.com/artist/4Y5SDqUMN0hnZ9bZTXjYvr) | [Runnin'](https://open.spotify.com/album/2zDvdvysVtp3GSawGKJtGy) | 3:33 |
 | 76 | [Different Cloud](https://open.spotify.com/track/6Kh0ALaRmujscpzKaMJqeI) | [Andrew Collberg](https://open.spotify.com/artist/5IR7WL6MZidBerunm9G5vP) | [Different Cloud](https://open.spotify.com/album/7k736PS8qx27AUbEAkGwjl) | 2:48 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Traveller](https://open.spotify.com/track/4EW7dVVnUTiC4Xkebko4ko) | [mamari](https://open.spotify.com/artist/6XakLqegVbnu9xeY7vz7NM) | [Traveller](https://open.spotify.com/album/60lNNwEj7Y4vytTNHQsezm) | 4:47 |
 | 80 | [Falling Again](https://open.spotify.com/track/0LqE1XSOeqEAoZSpKqX5bC) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Falling Again](https://open.spotify.com/album/3KUTpdKpT4zvjSechCnIPL) | 2:50 |
 
-Snapshot ID: `MCwwNDU1ZGY4NTAzMjVhMDNmMDIzNGQ5ZTE2ZmI1ODAxNWRhOTY4YTZi`
+Snapshot ID: `MCwxNTAyMGRhYjZhOWZmMGIyN2JhMDcwOTFlMmYyZjQxYmUyZGUzYTg1`

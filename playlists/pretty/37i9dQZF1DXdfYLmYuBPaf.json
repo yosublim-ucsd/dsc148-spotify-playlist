@@ -1,12 +1,12 @@
 {
   "description": "Reggae tracks from the Arab world. Cover: <a href=\"spotify:artist:6Gej8kFQeKbjY7dS9HXu1w\">Ahmed Ben Ali</a>",
-  "num_followers": 30302,
+  "num_followers": 30311,
   "original_name": "Arab Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWQ0Y2FjYmNiY2JmY2U4MGQzMGQwOTRiNGUzN2M5NjJjZjczZWMx",
+  "snapshot_id": "MCxhNzc0OTUxNTRlMDFlMmUzM2RjMDgzNjU3ZTM1MGY4MWExMGUxMjU1",
   "tracks": [
     {
       "added_at": "2021-08-11 01:42:01",
@@ -915,13 +915,17 @@
     {
       "added_at": "2021-08-11 01:42:01",
       "album": {
-        "name": "General Suleiman - Single",
+        "name": "General Suleiman",
         "url": "https://open.spotify.com/album/3v9aU2QPhQOcDQYt06WGmX"
       },
       "artists": [
         {
           "name": "Zeid and the Wings",
           "url": "https://open.spotify.com/artist/262WKWZkp6ZpLUyxOVyPZi"
+        },
+        {
+          "name": "Zeid Hamdan",
+          "url": "https://open.spotify.com/artist/70z9FptZNtsoQ8OeB3p9ks"
         }
       ],
       "duration_ms": 190381,

@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 57162,
+  "2024-03-07": 57166,
   "date_first_scraped": "2021-12-28",
   "description": "Check out the latest hits from Sandalwood!\nCover : Karataka Damanaka\n",
   "name": "Latest Kannada",
@@ -20931,10 +20931,36 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 170061,
       "name": "Raak",
       "url": "https://open.spotify.com/track/32UZbiFV3u4Nxu5O0dUcA4"
+    },
+    {
+      "album": {
+        "name": "Malaikottai Vaaliban (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2Wrhc8VB162sVUxsDgWIBu"
+      },
+      "artists": [
+        {
+          "name": "Aniruddha Sastry",
+          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
+        },
+        {
+          "name": "Justin Philipos",
+          "url": "https://open.spotify.com/artist/33fWNx8qcdZEDvpU8flV45"
+        },
+        {
+          "name": "R. Pramod Jois",
+          "url": "https://open.spotify.com/artist/0oIMByBDNKnrzRhTuFTvhP"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170061,
+      "name": "Raakk",
+      "url": "https://open.spotify.com/track/1p0jSQRxGrro0WDeypZhwF"
     },
     {
       "album": {

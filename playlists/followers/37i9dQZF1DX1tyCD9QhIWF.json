@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 2306734,
+  "2024-03-07": 2306784,
   "date_first_scraped": "2021-12-30",
   "description": "Big riffs and pounding drums to help you strut the streets.",
   "name": "Walk Like A Badass",
@@ -1185,10 +1185,28 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 198748,
       "name": "It's Not Your Fault",
       "url": "https://open.spotify.com/track/0l8NnoFm09sUNcts1ycOtV"
+    },
+    {
+      "album": {
+        "name": "PARANOIA",
+        "url": "https://open.spotify.com/album/6af3Z9vEogmAowqE0JOIFj"
+      },
+      "artists": [
+        {
+          "name": "Maggie Lindemann",
+          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198748,
+      "name": "It's Not Your Fault",
+      "url": "https://open.spotify.com/track/6D0JzsBhZAQsl7bxtGMSJD"
     },
     {
       "album": {

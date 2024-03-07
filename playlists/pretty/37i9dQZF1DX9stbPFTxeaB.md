@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 
 > Blues, but funky\. Or funk, but bluesy\. Cover: Kenny Wayne Shepherd
 
-[Spotify](https://open.spotify.com/user/spotify) - 840,144 likes - 75 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 840,188 likes - 75 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Best Of Times](https://open.spotify.com/track/71Y2IwdmrmbMxB3Rq7fz4E) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Best Of Times](https://open.spotify.com/album/6bkOefhIbkWuboKf4nUnrM) | 3:27 |
 | 2 | [Lady Love Divine](https://open.spotify.com/track/7IUokcojGB1qGL2rBztGn8) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Lady Love Divine](https://open.spotify.com/album/0k04S34xvowUrOCGtn49xd) | 3:04 |
 | 3 | [Train](https://open.spotify.com/track/2OSgMSxdu1OgPWZmjSICtt) | [Shanice Green](https://open.spotify.com/artist/7GquAyY9t5rSmfy4maIGyb) | [Train](https://open.spotify.com/album/30441czI78xULystFpO9p5) | 3:52 |
-| 4 | [Freedom](https://open.spotify.com/track/3VpiTc2hSR4X5VUYQ5Td4Y) | [The Gulls](https://open.spotify.com/artist/2n0FlGHc3OxI0x2WI39BEc) | [Freedom](https://open.spotify.com/album/7sv8d8tHuZTRzEmEOQFeoj) | 3:00 |
+| 4 | [Freedom](https://open.spotify.com/track/7lTrxftzzPW4WX7VRh6Vxl) | [The Gulls](https://open.spotify.com/artist/2n0FlGHc3OxI0x2WI39BEc) | [Freedom](https://open.spotify.com/album/7KKEJnwo51g6IGhufsyBzD) | 3:00 |
 | 5 | [United Nations Stomp](https://open.spotify.com/track/0BT3RQsdS84xswE0YHkJo2) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Where Do We Go From Here](https://open.spotify.com/album/4fd3Nnb4bn3rERllCnKFxR) | 5:47 |
 | 6 | [Always Free](https://open.spotify.com/track/0vD4NlJVWTYE8rdj1UGsAt) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Love Transcends](https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2) | 2:57 |
 | 7 | [Chills and Thrills \(feat\. Mike Campbell\)](https://open.spotify.com/track/3O4lx0iWB6jVKAFcJ07C8n) | [John Mayall](https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h), [Mike Campbell](https://open.spotify.com/artist/2rEZEkmqo6o4rbEoXQlD3V) | [Chills and Thrills \(feat\. Mike Campbell\)](https://open.spotify.com/album/60e22k3sYb5f9lz3fuzlZ3) | 5:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 | 74 | [Plastic Hamburgers](https://open.spotify.com/track/3lWwsRSWeSTXUBTJeuRPPg) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Please Don't Be Dead](https://open.spotify.com/album/4EdNTjVzjIxYqEUGPiyiZS) | 3:37 |
 | 75 | [In Time](https://open.spotify.com/track/4BVmZWmdjlmJTRBPfiGbjB) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC) | [Where Do We Go From Here](https://open.spotify.com/album/4fd3Nnb4bn3rERllCnKFxR) | 7:02 |
 
-Snapshot ID: `MCw5MzFmZTUyZTQyZGFjMDllYTAwODViMDBlNmFlNTM2YjE3Njg2Y2M2`
+Snapshot ID: `MCxiYTA4NzI1ZjgyMjk2YTc4ODIyMDNmMWFhZDU5MDAwNWI5ZGFhOTZi`

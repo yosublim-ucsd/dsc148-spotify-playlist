@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Άκου τις γυναίκες της Ελλάδας στη διαπασών\. Εξώφυλλο: Haris Alexiou
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,179 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,205 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 49 | [Sfaira](https://open.spotify.com/track/4qVB4VeVro9fuI59hAONhs) | [Pavlina Voulgaraki](https://open.spotify.com/artist/1SjVtPeuTENt3NFHwAmgOK) | [Sfaira](https://open.spotify.com/album/3MKXPvdlODbz0HF02TrUQ9) | 3:02 |
 | 50 | [Emena Os To Terma](https://open.spotify.com/track/1BgqYuwmDbBSGZEPweaJsh) | [Penny Baltatzi](https://open.spotify.com/artist/0xP7gTMFElcSoYxVSdqFWz) | [Emena Os To Terma](https://open.spotify.com/album/40MnAGCcvboGOptWHwaeAL) | 2:53 |
 
-Snapshot ID: `MCwxZjVlNDg3Yjc5NzhjYmFiZmRmYjE3MjE5YTI3N2ExNmI4MGU0YjUx`
+Snapshot ID: `MCxlZDAyMjFlN2Q0MzE5MjVkNzM1YTA2N2M4YTA3NTcxMGJiNDBiNDli`

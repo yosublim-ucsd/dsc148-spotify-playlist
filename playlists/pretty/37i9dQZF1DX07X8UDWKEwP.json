@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del mundo tropical. Cover: Sergio George & Jay Wheeler",
-  "num_followers": 251574,
+  "num_followers": 251575,
   "original_name": "el nuevo tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTJhYTk2ZjAxN2U1NGVlNjkxYjJlZWU1M2MxODg5ZjRlZmRhYTIx",
+  "snapshot_id": "MCxkYjgyNjc5MjY1MDgzOTFmNDY4MjhkOTAwZjMzNDc0MjRjYzFhYjk4",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -679,6 +679,26 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Otra Noche M\u00e1s (feat. Frankie Ruiz)",
+        "url": "https://open.spotify.com/album/619jR5aODkum1ZlOGMx6Sg"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 267130,
+      "name": "Otra Noche M\u00e1s (feat. Frankie Ruiz)",
+      "url": "https://open.spotify.com/track/5OOaAYlNPgBUtBviFtGpHl"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Call On Me",
         "url": "https://open.spotify.com/album/3Ohcoreeq3qG3okky9o0Wx"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 197076,
       "name": "Mi Pecadito",
       "url": "https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Otra Noche M\u00e1s (feat. Frankie Ruiz)",
-        "url": "https://open.spotify.com/album/619jR5aODkum1ZlOGMx6Sg"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        },
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 267130,
-      "name": "Otra Noche M\u00e1s (feat. Frankie Ruiz)",
-      "url": "https://open.spotify.com/track/5OOaAYlNPgBUtBviFtGpHl"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Dime C\u00f3mo Se Siente",
+        "url": "https://open.spotify.com/album/4wMRyvWczYmzYRBU6cacKJ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Sky",
+          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
+        }
+      ],
+      "duration_ms": 160163,
+      "name": "Dime C\u00f3mo Se Siente",
+      "url": "https://open.spotify.com/track/3EJ6TrlfKKiP1PMZhjuT2r"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Tu Cepillo",
         "url": "https://open.spotify.com/album/0e1Iu9QVXL9mgOimmGEDXr"
       },
@@ -799,26 +815,6 @@
       "duration_ms": 184115,
       "name": "Tu Cepillo",
       "url": "https://open.spotify.com/track/1dLTxHGSlLtB5OEjVHCWWo"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Hipnotizados",
-        "url": "https://open.spotify.com/album/0vucmhfLxNOc87TDZydaI7"
-      },
-      "artists": [
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        },
-        {
-          "name": "La China",
-          "url": "https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO"
-        }
-      ],
-      "duration_ms": 142840,
-      "name": "Hipnotizados",
-      "url": "https://open.spotify.com/track/2t88IEEgCkZr9OQHOrOr3j"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -839,18 +835,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Dime C\u00f3mo Se Siente",
-        "url": "https://open.spotify.com/album/4wMRyvWczYmzYRBU6cacKJ"
+        "name": "Hipnotizados",
+        "url": "https://open.spotify.com/album/0vucmhfLxNOc87TDZydaI7"
       },
       "artists": [
         {
-          "name": "Johnny Sky",
-          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        },
+        {
+          "name": "La China",
+          "url": "https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO"
         }
       ],
-      "duration_ms": 160163,
-      "name": "Dime C\u00f3mo Se Siente",
-      "url": "https://open.spotify.com/track/3EJ6TrlfKKiP1PMZhjuT2r"
+      "duration_ms": 142840,
+      "name": "Hipnotizados",
+      "url": "https://open.spotify.com/track/2t88IEEgCkZr9OQHOrOr3j"
     },
     {
       "added_at": "2024-03-01 05:00:00",

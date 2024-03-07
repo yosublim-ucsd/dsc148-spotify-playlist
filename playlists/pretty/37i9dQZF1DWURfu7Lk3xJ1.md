@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 
 > Focus the mind with these calming beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,044 likes - 219 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,101 likes - 219 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -228,4 +228,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 218 | [keep me waiting](https://open.spotify.com/track/4aYNLaGrC49TIf59hDFxGQ) | [tremolo](https://open.spotify.com/artist/02Kg8FUEOMP356Zpy6oZRz), [abovus](https://open.spotify.com/artist/5DXweVRKKbzWHYb4jgIafb) | [lonely place](https://open.spotify.com/album/4URtGeM6Vuo6j2zUEoOpOj) | 1:43 |
 | 219 | [Gentle](https://open.spotify.com/track/6SCNLaxZas2Hqalh4zeAGr) | [ARSD](https://open.spotify.com/artist/6fJceX9nO6HyXIlrdvNxAM) | [Gentle](https://open.spotify.com/album/5lx736CiAjCBRgrqgqF5dt) | 3:30 |
 
-Snapshot ID: `MCwzNzlmY2M1MTA1NzYxYzkwZTk4ZTYxY2VlOWUyZTY1ZWIxNWQxMzg0`
+Snapshot ID: `MCw0Y2VhN2U5ZWZmNzIzNjNhMGEyZDg3YTRlYWIzZDk3ZjQ5YzdmNWE4`

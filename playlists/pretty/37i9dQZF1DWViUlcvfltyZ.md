@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti! Novità rock, indie e punk dall'Italia\. Cover: Pandorea
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,126 likes - 81 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,123 likes - 81 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 80 | [camera mia](https://open.spotify.com/track/6tO3uimbnU4Gi6bWFBpXEf) | [Aida](https://open.spotify.com/artist/5uyVp3NFeumolvASoIWWXp) | [camera mia](https://open.spotify.com/album/571FxFPUBR2Da8oMcEXMce) | 4:03 |
 | 81 | [THE DRIVER](https://open.spotify.com/track/0sZHxhoBaK0YEvvMV8blr6) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 3:08 |
 
-Snapshot ID: `MCwwNjgyNzRlYWE0MDI5MWQ5ZGExNDdlOTMxZmVlMzhmZWY5MWYyYzlk`
+Snapshot ID: `MCxlYjViMDc1NzQzOWJhNTlkMzVhYjQxOGE1ODk2Yjk4ZTEwNGMzMWI2`

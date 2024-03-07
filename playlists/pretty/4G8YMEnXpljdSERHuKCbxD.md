@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4G8YMEnXpljdSERHuKCbxD.md) - [plain]
 
 > Listen to the same playlist that’s playing through the halls of the world famous Warner Records!
 
-[Warner Records](https://open.spotify.com/user/uesix1sjzgnk8uo47jh3wxy3h) - 7,826 likes - 64 songs - 3 hr 22 min
+[Warner Records](https://open.spotify.com/user/uesix1sjzgnk8uo47jh3wxy3h) - 7,825 likes - 64 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

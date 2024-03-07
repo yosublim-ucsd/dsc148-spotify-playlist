@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AcHDy.md) - [plain]
 
 > This is Rina Sawayama\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,178 likes - 37 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,174 likes - 37 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AcHDy.md) - [plain]
 | 36 | [Who?](https://open.spotify.com/track/2gdn1IDxIjjsiXFpfdwfRw) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Sleeping in Waking](https://open.spotify.com/album/2EXjrlqsinxkPKguQMlbN2) | 2:21 |
 | 37 | [Bees & Honey \(Bonus Track\)](https://open.spotify.com/track/5td3aQXu6mpU2HDSzt1i5z) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [Coco Morier](https://open.spotify.com/artist/0wGJRytej6eabFy1c6huF6) | [SAWAYAMA \(Deluxe Edition\)](https://open.spotify.com/album/0pWu9s2gPdVgqHpMR2LDEx) | 1:46 |
 
-Snapshot ID: `Mjg0OTQyOTAsMDAwMDAwMDAwODU5YjlmYjc4YTY1NjdkNTRiZWJjMzY0NzkxNDgxZQ==`
+Snapshot ID: `Mjg0OTU0NzYsMDAwMDAwMDBiZDJmNWU4OTEyZDBlNDZiMGU2ODM1NjJhMDljZWYyNg==`

@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 285759,
+  "2024-03-07": 286012,
   "date_first_scraped": "2021-12-28",
   "description": "80s rock to fuel your ride. Cover: Guns N' Roses",
   "name": "80s Rock Drive",
@@ -647,7 +647,7 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 243280,
       "name": "Just Like Paradise",
       "url": "https://open.spotify.com/track/5ZY7Gug850kv4heJcWZGHM"
@@ -1151,7 +1151,7 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-05",
+      "date_removed": null,
       "duration_ms": 222466,
       "name": "Shake Me",
       "url": "https://open.spotify.com/track/1Qjpl8Kav6rrO92ZuG0OK8"

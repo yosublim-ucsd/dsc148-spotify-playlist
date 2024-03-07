@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The best indie tracks of the moment\. Cover: Faye Webster
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,919 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,936 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Sick As Your Secrets](https://open.spotify.com/track/1tfbXcqMhvdB2YYkpz54Np) | [Sara Sloan](https://open.spotify.com/artist/0HqD7L1K0yANRk0geft2EV) | [Sick As Your Secrets](https://open.spotify.com/album/2vPyzhvkgoNoRaub67x6Ic) | 4:03 |
 | 100 | [Knowing You](https://open.spotify.com/track/6KO3ebcMoEN3vjltHo9FWI) | [frown line](https://open.spotify.com/artist/3zBlhaQIMQtlpUEwYQoOoM) | [Knowing You](https://open.spotify.com/album/664Cc2ZdpJQZCoYdOnhtl8) | 3:50 |
 
-Snapshot ID: `MCwxNDUyMjI2NGRlMjI5M2M5MDFjNGM3MGM1M2RjNTgwNDFiNDM0YmQ4`
+Snapshot ID: `MCw1YTk2ZGI3MzEzYzg4MDAyMzE2Yjk2YzI2YjIxYzhiNzFjOWU3N2I2`

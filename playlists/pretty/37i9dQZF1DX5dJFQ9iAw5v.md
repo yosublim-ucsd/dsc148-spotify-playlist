@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Escalandrum
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,826 likes - 76 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,836 likes - 76 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 | 27 | [Una Abeja Durmiente](https://open.spotify.com/track/6wCpCPfH7jPgwYv3srAfMn) | [Baby López Furst](https://open.spotify.com/artist/6gZQ1gJJ069kkcJogwx5l7) | [Jazz Argentino](https://open.spotify.com/album/6t7ajkFism3z8iKREL1Keg) | 5:03 |
 | 28 | [Mi Elemento](https://open.spotify.com/track/6kdT5qRuBmiQDhegDgvkrU) | [Fabio Cadore](https://open.spotify.com/artist/2wG1MDWKCj8pxBuDG6NNbp), [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl) | [Acto 2](https://open.spotify.com/album/7xcvIRi7rTn5QSFqsR42HK) | 5:53 |
 | 29 | [Brilliant Corners](https://open.spotify.com/track/2fFSR3ZclE7Tid8nk2iQUI) | [Pipi Piazzolla Trio](https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B) | [Brilliant Corners](https://open.spotify.com/album/1U7l8CHeLqBjDKVx4987C4) | 1:44 |
-| 30 | [Lago de Forma Mia](https://open.spotify.com/track/4OSzjErsAek3EJ2spyisYI) | [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl) | [Camino](https://open.spotify.com/album/6sIwEICZAmGjQqZ9UcRYsl) | 3:40 |
-| 31 | [En Busca de la Tierra Sin Mal](https://open.spotify.com/track/4H97jD3blKiD0tdU4PrjLG) | [Lucio Balduini](https://open.spotify.com/artist/44OuYnKpuUAKbfNOu3smwn) | [El Bosque Brillante](https://open.spotify.com/album/3HirbZyCVagyslZeWB2HHg) | 3:52 |
+| 30 | [En Busca de la Tierra Sin Mal](https://open.spotify.com/track/4H97jD3blKiD0tdU4PrjLG) | [Lucio Balduini](https://open.spotify.com/artist/44OuYnKpuUAKbfNOu3smwn) | [El Bosque Brillante](https://open.spotify.com/album/3HirbZyCVagyslZeWB2HHg) | 3:52 |
+| 31 | [Lago de Forma Mia](https://open.spotify.com/track/4OSzjErsAek3EJ2spyisYI) | [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl) | [Camino](https://open.spotify.com/album/6sIwEICZAmGjQqZ9UcRYsl) | 3:40 |
 | 32 | [I'm Beginning to See the Light](https://open.spotify.com/track/1ybdrVHnZlzmEIbMLBZDsC) | [Ligia Piro](https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q) | [Love](https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39) | 2:20 |
 | 33 | [Rusty](https://open.spotify.com/track/06k4d1KJ5iokCdTuzdVjCe) | [Javier Malosetti](https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV) | [Malosetti & la Colonia](https://open.spotify.com/album/1jtFefqoWo4iItPmaPhGLH) | 3:35 |
 | 34 | [Flamenco Sketches \(feat\. Niño Josele\)](https://open.spotify.com/track/7BScDsrGLYkoTrh3LUpK0Y) | [Roxana Amed](https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n), [Niño Josele](https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT) | [Flamenco Sketches \(feat\. Niño Josele\)](https://open.spotify.com/album/1qyUjJd3avQ9BLHmFivRCW) | 6:03 |
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 | 55 | [Parque Chas](https://open.spotify.com/track/0dnRzjlfB337Ay7nMcNsHS) | [Escalandrum](https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ) | [ESCALECTRIC](https://open.spotify.com/album/2zt51xYKMh7FFwORtkzq9x) | 4:46 |
 | 56 | [Wave](https://open.spotify.com/track/79Wgtrmp428O3j5H4k4etr) | [Marta Bellomo](https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm), [Alejandro Moro](https://open.spotify.com/artist/0HPnoTmtj7B0nFxvNcLfo7) | [Mensajes Secretos](https://open.spotify.com/album/2FutkIdGZozf7lwp0PMk9g) | 8:44 |
 | 57 | [Black Hole Sun](https://open.spotify.com/track/2Pdfm4dBhzm6ikktLoT9c0) | [Oscar Giunta Supertrío!](https://open.spotify.com/artist/435MNsuWxusdZVe9OGAmoZ), [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl), [Flavio Romero](https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl) | [Apaláp!](https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv) | 8:13 |
-| 58 | [Viva Jujuy](https://open.spotify.com/track/29MTjfwiZZ8wfAy5TUlQM5) | [Arturo Puertas](https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ) | [Viva Jujuy](https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm) | 6:01 |
-| 59 | [Nublado](https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC) | [La Grande](https://open.spotify.com/artist/7Ad5Ks4eGUXAHba62EIVw0) | [Sesiones 2017\-2020](https://open.spotify.com/album/17NlLQlimG217X7OALtTSy) | 6:14 |
-| 60 | [Full Glasses](https://open.spotify.com/track/0ZJTETgpljZUOEsIqIvABa) | [Javier Malosetti](https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV) | [Onyx](https://open.spotify.com/album/5LhbsJBXOaqJe6NSTnXpj1) | 6:04 |
+| 58 | [Full Glasses](https://open.spotify.com/track/0ZJTETgpljZUOEsIqIvABa) | [Javier Malosetti](https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV) | [Onyx](https://open.spotify.com/album/5LhbsJBXOaqJe6NSTnXpj1) | 6:04 |
+| 59 | [Viva Jujuy](https://open.spotify.com/track/29MTjfwiZZ8wfAy5TUlQM5) | [Arturo Puertas](https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ) | [Viva Jujuy](https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm) | 6:01 |
+| 60 | [Nublado](https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC) | [La Grande](https://open.spotify.com/artist/7Ad5Ks4eGUXAHba62EIVw0) | [Sesiones 2017\-2020](https://open.spotify.com/album/17NlLQlimG217X7OALtTSy) | 6:14 |
 | 61 | [El Reino del Revés](https://open.spotify.com/track/0Jf4E2gqM2ZpRQCsQcvhFD) | [Elena Roger](https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie), [Escalandrum](https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ) | [El Reino del Revés](https://open.spotify.com/album/2ozvBrtW3avwSSX3nkO8dx) | 3:36 |
 | 62 | [Superestrella](https://open.spotify.com/track/4jB6brPwacdWQsRVBHMZGO) | [Lucio Balduini](https://open.spotify.com/artist/44OuYnKpuUAKbfNOu3smwn) | [El Bosque Brillante](https://open.spotify.com/album/3HirbZyCVagyslZeWB2HHg) | 5:19 |
 | 63 | [Coplas de Luna Quieta](https://open.spotify.com/track/6wehSI1xwaBBy4U3bUUwZs) | [Ignacio Montoya Carlotto](https://open.spotify.com/artist/3XBkATZOl4DCTfQTYpI4fK) | [Inocencia Repetida](https://open.spotify.com/album/1ovII6dFGZDpvYU47qu4fX) | 2:37 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 | 75 | [Cero](https://open.spotify.com/track/1mMzrMwcexRJe5PNMTJISZ) | [Commodore](https://open.spotify.com/artist/0nc60bKoFvbBvw0CLDpbIN) | [Enero](https://open.spotify.com/album/6zuBb3nDs2lQSjwfjQtu4b) | 6:52 |
 | 76 | [I Remember Clifford](https://open.spotify.com/track/71xGulRFIDEs2gqk6fSSz2) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Facundo Canosa](https://open.spotify.com/artist/6MorVkOyr0Yc097YejqTiS) | [I Remember Clifford](https://open.spotify.com/album/19YMIWrZTWuSDYzxlzRIqY) | 3:12 |
 
-Snapshot ID: `MCw3YmZjNTVlMDlkZjNjNzdkYmJiM2NjYzM0NWQ5Y2I2MWJmNWIxOGE4`
+Snapshot ID: `MCw3YmFlNjRhN2RmMDkyNWE5YmE1MGQzNDRkNzk2NWU3MzMzOTNiZGIz`

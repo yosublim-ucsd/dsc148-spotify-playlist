@@ -1,12 +1,12 @@
 {
   "description": "De beste Nederlandse hits van vroeger en nu. Cover: Hannah Mae",
-  "num_followers": 480416,
+  "num_followers": 480490,
   "original_name": "Beste van NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGI2ZGI4ZTZkN2EyZjM1OGIyZmE2NDgxM2NiMDkxMTAzZjE1NmQz",
+  "snapshot_id": "MCw3MTFiNWE3MThlYjE1Y2I3NGY1MjdhZTE2Mjc2MzllZWJjNWQwOGRh",
   "tracks": [
     {
       "added_at": "2024-02-28 15:22:31",
@@ -23,6 +23,22 @@
       "duration_ms": 171932,
       "name": "Waterdicht",
       "url": "https://open.spotify.com/track/1guLggb4orDoc7Dmh2cSuL"
+    },
+    {
+      "added_at": "2024-02-28 15:22:31",
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/6z8SVwxBPHJMEI6jv95m8X"
+      },
+      "artists": [
+        {
+          "name": "Son Mieux",
+          "url": "https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc"
+        }
+      ],
+      "duration_ms": 272709,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/3v2dHPoXhfVVZ6HQBfjQOh"
     },
     {
       "added_at": "2024-02-28 15:22:31",
@@ -67,6 +83,22 @@
       "duration_ms": 179025,
       "name": "Hartslag Van De Stad",
       "url": "https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl"
+    },
+    {
+      "added_at": "2024-02-28 15:22:31",
+      "album": {
+        "name": "Speed Of Light",
+        "url": "https://open.spotify.com/album/7o1U1c0tmRjgrqcNZdJA5u"
+      },
+      "artists": [
+        {
+          "name": "Chef'Special",
+          "url": "https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3"
+        }
+      ],
+      "duration_ms": 187832,
+      "name": "Speed Of Light",
+      "url": "https://open.spotify.com/track/6m5zC7ua6twLWCaIIYHP0F"
     },
     {
       "added_at": "2024-02-28 15:22:31",
@@ -395,22 +427,6 @@
     {
       "added_at": "2024-02-28 15:22:31",
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/6z8SVwxBPHJMEI6jv95m8X"
-      },
-      "artists": [
-        {
-          "name": "Son Mieux",
-          "url": "https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc"
-        }
-      ],
-      "duration_ms": 272709,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/3v2dHPoXhfVVZ6HQBfjQOh"
-    },
-    {
-      "added_at": "2024-02-28 15:22:31",
-      "album": {
         "name": "Achtentwintig",
         "url": "https://open.spotify.com/album/0f7y8rn9RXOANKpNK3GW6B"
       },
@@ -611,22 +627,6 @@
     {
       "added_at": "2024-02-28 15:22:31",
       "album": {
-        "name": "Miracles",
-        "url": "https://open.spotify.com/album/2EhTv5KlLWkNaoVXZnlzAM"
-      },
-      "artists": [
-        {
-          "name": "Chef'Special",
-          "url": "https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3"
-        }
-      ],
-      "duration_ms": 202627,
-      "name": "Miracles",
-      "url": "https://open.spotify.com/track/5acs33Z7tV5aopOM7LClgL"
-    },
-    {
-      "added_at": "2024-02-28 15:22:31",
-      "album": {
         "name": "This World Is Our Home",
         "url": "https://open.spotify.com/album/1M1oZP4IZGIj4a4fG6JQny"
       },
@@ -771,6 +771,22 @@
       "duration_ms": 138655,
       "name": "HJB",
       "url": "https://open.spotify.com/track/4ahoARJMAvNB6ovGUh5l7B"
+    },
+    {
+      "added_at": "2024-02-28 15:22:31",
+      "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/2EhTv5KlLWkNaoVXZnlzAM"
+      },
+      "artists": [
+        {
+          "name": "Chef'Special",
+          "url": "https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3"
+        }
+      ],
+      "duration_ms": 202627,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/5acs33Z7tV5aopOM7LClgL"
     },
     {
       "added_at": "2024-02-28 15:22:31",
@@ -939,22 +955,6 @@
       "duration_ms": 200690,
       "name": "Als Je Voor Me Staat",
       "url": "https://open.spotify.com/track/2hAiXNgfYXyMmIB1KPRv7W"
-    },
-    {
-      "added_at": "2024-02-28 15:22:31",
-      "album": {
-        "name": "Speed Of Light",
-        "url": "https://open.spotify.com/album/7o1U1c0tmRjgrqcNZdJA5u"
-      },
-      "artists": [
-        {
-          "name": "Chef'Special",
-          "url": "https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3"
-        }
-      ],
-      "duration_ms": 187832,
-      "name": "Speed Of Light",
-      "url": "https://open.spotify.com/track/6m5zC7ua6twLWCaIIYHP0F"
     },
     {
       "added_at": "2024-02-28 15:22:31",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Jux
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,947 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,988 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 74 | [Wababa](https://open.spotify.com/track/7xmRTGoMxsMyrFz9OB9EsD) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Wababa](https://open.spotify.com/album/3csfj7XdPGRcYPcGKVQtXL) | 4:33 |
 | 75 | [Lala](https://open.spotify.com/track/0FoemawOPj4ILZR9EZkX30) | [Yaba Buluku Boyz](https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Lala](https://open.spotify.com/album/3Q5t1pavhxERt0kOKv0Bdw) | 4:21 |
 
-Snapshot ID: `MCw1YmJkOWI3N2M1YjgyNmEzM2VjMWJkNWNlODRmMzkzNDJlMjZmNzU4`
+Snapshot ID: `MCw2NTUzNjg3MjgwMmFjNDQxMTZmZDMyMWE2YzU1ZTYxNjk2ZTk0Yjlh`

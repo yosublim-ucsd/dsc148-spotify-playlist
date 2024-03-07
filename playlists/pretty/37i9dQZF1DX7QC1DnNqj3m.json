@@ -1,12 +1,12 @@
 {
   "description": "Bask in the sound of soul, old and new.",
-  "num_followers": 528383,
+  "num_followers": 528376,
   "original_name": "Sweet Soul Sunday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjE5MjRiOTNiNzBlZWRlN2E0YjRhYzYyNTI1MjVjNjNiMzFhZDJi",
+  "snapshot_id": "MCxhN2JhNzA2NDczNDAxYzYyY2NjODRjNDVjNDJmYWEzNWZkZGZhZjk2",
   "tracks": [
     {
       "added_at": "2024-02-28 01:49:28",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-02-28 01:49:28",
       "album": {
+        "name": "Yesterday's Tomorrow",
+        "url": "https://open.spotify.com/album/6IGDCUkBJ3LEUoAcoTD46u"
+      },
+      "artists": [
+        {
+          "name": "Phony Ppl",
+          "url": "https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6"
+        }
+      ],
+      "duration_ms": 331826,
+      "name": "Why iii Love The Moon.",
+      "url": "https://open.spotify.com/track/2x5Frs6ts14U4MSLrQQlXg"
+    },
+    {
+      "added_at": "2024-02-28 01:49:28",
+      "album": {
         "name": "ICU (with Justin Timberlake) [Remix]",
         "url": "https://open.spotify.com/album/2WknTzc9xga0IgeYMY3pZ7"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 218566,
       "name": "ICU (with Justin Timberlake) - Remix",
       "url": "https://open.spotify.com/track/1xs5R1koW93bXtXD2s59nR"
-    },
-    {
-      "added_at": "2024-02-28 01:49:28",
-      "album": {
-        "name": "Yesterday's Tomorrow",
-        "url": "https://open.spotify.com/album/6IGDCUkBJ3LEUoAcoTD46u"
-      },
-      "artists": [
-        {
-          "name": "Phony Ppl",
-          "url": "https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6"
-        }
-      ],
-      "duration_ms": 331826,
-      "name": "Why iii Love The Moon.",
-      "url": "https://open.spotify.com/track/2x5Frs6ts14U4MSLrQQlXg"
     },
     {
       "added_at": "2024-02-28 01:49:28",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-02-28 01:49:28",
       "album": {
+        "name": "Voice Notes",
+        "url": "https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 175173,
+      "name": "From A Lover",
+      "url": "https://open.spotify.com/track/3s0gco9dCNjVm1B0Pr0Gau"
+    },
+    {
+      "added_at": "2024-02-28 01:49:28",
+      "album": {
         "name": "Forget",
         "url": "https://open.spotify.com/album/6iq7Y6Ugkq3prEsObVs4S9"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 210439,
       "name": "Forget",
       "url": "https://open.spotify.com/track/5E1bYoWC0JSZUeuk91SVsH"
-    },
-    {
-      "added_at": "2024-02-28 01:49:28",
-      "album": {
-        "name": "Voice Notes",
-        "url": "https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 175173,
-      "name": "From A Lover",
-      "url": "https://open.spotify.com/track/3s0gco9dCNjVm1B0Pr0Gau"
     },
     {
       "added_at": "2024-02-28 01:49:28",
@@ -1331,6 +1331,26 @@
     {
       "added_at": "2024-02-28 01:49:28",
       "album": {
+        "name": "Two Steps",
+        "url": "https://open.spotify.com/album/7mnUY7L09wxAiEp6ERMbjI"
+      },
+      "artists": [
+        {
+          "name": "Maths Time Joy",
+          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
+        },
+        {
+          "name": "Kevin Garrett",
+          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Two Steps",
+      "url": "https://open.spotify.com/track/6iPfkO3MvKEZcD7OnGWzFB"
+    },
+    {
+      "added_at": "2024-02-28 01:49:28",
+      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY"
       },
@@ -1367,26 +1387,6 @@
       "duration_ms": 157000,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/4zrUf784IvoBhlKhbX1Gar"
-    },
-    {
-      "added_at": "2024-02-28 01:49:28",
-      "album": {
-        "name": "Two Steps",
-        "url": "https://open.spotify.com/album/7mnUY7L09wxAiEp6ERMbjI"
-      },
-      "artists": [
-        {
-          "name": "Maths Time Joy",
-          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
-        },
-        {
-          "name": "Kevin Garrett",
-          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Two Steps",
-      "url": "https://open.spotify.com/track/6iPfkO3MvKEZcD7OnGWzFB"
     }
   ],
   "unique_name": "Sweet Soul Sunday",

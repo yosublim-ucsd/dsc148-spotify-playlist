@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The very best new alternative tracks\. Cover: Mannequin Pussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,113,985 likes - 126 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,114,077 likes - 126 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 125 | [What're We Doing Here](https://open.spotify.com/track/23r4WNoHCVaLypbxeHMu8p) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [What're We Doing Here](https://open.spotify.com/album/0di1rlD8Afel1VLF06lRxK) | 3:04 |
 | 126 | [Dangerous Game](https://open.spotify.com/track/0xmzoZJCBY5yu4xPmDLhEG) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Dangerous Game](https://open.spotify.com/album/5uCGWzShlvHcWlPgALSHny) | 2:38 |
 
-Snapshot ID: `MCxlOWY4ZGY5NjY3ZmIyNDkwMjQ2YTBhYTU4MmZkMWNjNjkwOTMzNTFi`
+Snapshot ID: `MCxhMzBhYTI0ODFkYjEyOTJlOTRkZmMyZGEzYWE0MDA3MjdhMDY0YTNk`

@@ -4,7 +4,7 @@
 
 > Women at full volume\. Co\-curated by: Philine Sonny
 
-1,354 songs - 2 day 22 hr 16 min
+1,354 songs - 2 day 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1125,7 +1125,7 @@
 | [Survival Mode \(Intro\)](https://open.spotify.com/track/6xfjR5HmYHnabfSKvjoh0M) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Survival Mode \(Intro\)](https://open.spotify.com/album/7D9np0pd16reMo5ajg1WE0) | 3:33 | 2022-08-07 | 2022-09-07 |
 | [Suzuki Swift](https://open.spotify.com/track/7tGNyXcMm5YwSi0E5CwB2g) | [Verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [Suzuki Swift](https://open.spotify.com/album/7M0T6e64FpuuLSQ6BqeotP) | 3:22 | 2023-02-28 | 2023-04-05 |
 | [sweat pearls](https://open.spotify.com/track/4TUdNomOZmk9FQ8fclZvC4) | [benzii](https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1) | [sweat pearls](https://open.spotify.com/album/6y2Hn3i4df2UdLX6ACzaDp) | 3:15 | 2023-09-05 | 2023-10-04 |
-| [Sweatpants](https://open.spotify.com/track/4osqqu4H2Ts6muCYD94sCZ) | [Wonda](https://open.spotify.com/artist/5PMaM5VNkcijAx2PjszugR) | [Sweatpants](https://open.spotify.com/album/3GrSygb044hjoQZhpW8g1h) | 3:03 | 2024-03-05 |  |
+| [Sweatpants](https://open.spotify.com/track/4osqqu4H2Ts6muCYD94sCZ) | [Wonda](https://open.spotify.com/artist/5PMaM5VNkcijAx2PjszugR) | [Sweatpants](https://open.spotify.com/album/3GrSygb044hjoQZhpW8g1h) | 2:16 | 2024-03-05 |  |
 | [Sweet Moment](https://open.spotify.com/track/5CoUL7T9706eA3BIG2KbNA) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN) | [Sweet Moment](https://open.spotify.com/album/56BDudw4Ep7daFvo9tsd10) | 2:54 | 2023-04-04 | 2023-05-03 |
 | [Swimming Pool](https://open.spotify.com/track/6jP573dg0J1eC6QFMoDtqz) | [Ava Vegas](https://open.spotify.com/artist/5ql0vsOE9XzHXwi8xP4yes) | [Swimming Pool](https://open.spotify.com/album/0wzrnvw4EABULZ4Cw7biYn) | 3:54 | 2022-07-05 | 2022-08-03 |
 | [Swimmingpool](https://open.spotify.com/track/5XVBtlaKWSojFdzDbz5IWd) | [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Swimmingpool](https://open.spotify.com/album/545kcGhRWTnZuYO7rHJnEb) | 2:12 | 2021-12-21 | 2022-01-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Martin Garrix x Seth Hills
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,706 likes - 95 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,714 likes - 95 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 94 | [Act A Fool](https://open.spotify.com/track/6iIucvXpOFkJghgzMzqB1A) | [Melissa Pools](https://open.spotify.com/artist/3ZKTIDG2YvVYr9EogB9KpW) | [Act A Fool](https://open.spotify.com/album/2CQhhDqgKXwmaUYJcnAFID) | 2:47 |
 | 95 | [How Will I Know](https://open.spotify.com/track/5zRJAOEqm5XWg3QLKhCdE5) | [AKN](https://open.spotify.com/artist/34SNzLPgGONrLAInuTJJwW) | [How Will I Know](https://open.spotify.com/album/50yYH2HfFr3fITB46Fqh8m) | 2:24 |
 
-Snapshot ID: `MCw3YWYyY2FkYzdmNjZlMmJjNTVlMDEzNGVlNDE4MTYyNjQyMzJjMmQw`
+Snapshot ID: `MCxlNjg0NDRkYmZmNmI2OGI0ODJlZTFjMDA1MjJhMjcwMTgwMjVkM2Uy`

@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "All Talk",
+        "url": "https://open.spotify.com/album/0YikrcFlT6ZZuzlk5gqszF"
+      },
+      "artists": [
+        {
+          "name": "KYSSA",
+          "url": "https://open.spotify.com/artist/1xXATQmJAJmsSfhSEuutqy"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212874,
+      "name": "All Talk",
+      "url": "https://open.spotify.com/track/2wWwyNZXJ2wH5eIdBvAxD0"
+    },
+    {
+      "album": {
         "name": "Amber Rush",
         "url": "https://open.spotify.com/album/7ahTHniOH0ml5SiymYAhmW"
       },
@@ -414,6 +432,32 @@
       "duration_ms": 408669,
       "name": "Believe",
       "url": "https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ"
+    },
+    {
+      "album": {
+        "name": "Believe (Reinier Zonneveld & Zeltak 2024 Remix)",
+        "url": "https://open.spotify.com/album/0Aqz7E0YgII5FdZuoHyLt2"
+      },
+      "artists": [
+        {
+          "name": "Reinier Zonneveld",
+          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
+        },
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Zeltak",
+          "url": "https://open.spotify.com/artist/7abM3xmXx55x7dQZot1Dpd"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Believe (Reinier Zonneveld & Zeltak 2024 Remix)",
+      "url": "https://open.spotify.com/track/0JvU6uZaK2SzYActrkZQKn"
     },
     {
       "album": {
@@ -862,7 +906,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 174285,
       "name": "Coke & Rum",
       "url": "https://open.spotify.com/track/47SbCzEuIxZbLbNBs21FoW"
@@ -1125,6 +1169,28 @@
     },
     {
       "album": {
+        "name": "Derni\u00e8re danse (Techno Mix)",
+        "url": "https://open.spotify.com/album/3MhGOga5TlR7JfKxDSxv9Q"
+      },
+      "artists": [
+        {
+          "name": "Indila",
+          "url": "https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB"
+        },
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "Derni\u00e8re danse - Techno Mix",
+      "url": "https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG"
+    },
+    {
+      "album": {
         "name": "Desert Queen",
         "url": "https://open.spotify.com/album/0yG7rxCosQLHe9LH6fgxoH"
       },
@@ -1274,6 +1340,28 @@
       "duration_ms": 203437,
       "name": "Dress Code",
       "url": "https://open.spotify.com/track/0rK3a7tLRVgJBoc2DP3tIX"
+    },
+    {
+      "album": {
+        "name": "Drop It Down",
+        "url": "https://open.spotify.com/album/7u26VusojvClzoCafHyzcV"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Joyhauser",
+          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Drop It Down",
+      "url": "https://open.spotify.com/track/6euR4VW88wRwG6TTXI8YEE"
     },
     {
       "album": {
@@ -2365,6 +2453,28 @@
     },
     {
       "album": {
+        "name": "In The Dark (feat. Maria Mathea)",
+        "url": "https://open.spotify.com/album/5T6MkcNfbHXM0GqxBTtprV"
+      },
+      "artists": [
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        },
+        {
+          "name": "Maria Mathea",
+          "url": "https://open.spotify.com/artist/7nw3TslhIKWzoHZxpFYdPp"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173554,
+      "name": "In The Dark (feat. Maria Mathea)",
+      "url": "https://open.spotify.com/track/7xsbPoykY9CaBblguhsFDF"
+    },
+    {
+      "album": {
         "name": "IN YOUR BLOOD (Remixes)",
         "url": "https://open.spotify.com/album/29ENTVp1M01KZJuvMS0v9m"
       },
@@ -2434,7 +2544,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 376386,
       "name": "Intentionally",
       "url": "https://open.spotify.com/track/1pLvbMQbSMjMnKYJdpAo4W"
@@ -3263,6 +3373,28 @@
     },
     {
       "album": {
+        "name": "New Life",
+        "url": "https://open.spotify.com/album/1geFIf5KqaxEWxBcv928AG"
+      },
+      "artists": [
+        {
+          "name": "Bart Skils",
+          "url": "https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT"
+        },
+        {
+          "name": "HOF",
+          "url": "https://open.spotify.com/artist/6g18j6U5EYDMoIAmEAstGI"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327500,
+      "name": "New Life",
+      "url": "https://open.spotify.com/track/2C5RSCwLW5EknVBkRMsakA"
+    },
+    {
+      "album": {
         "name": "Loam / New Symbols",
         "url": "https://open.spotify.com/album/68iZNNrpkM91TSXbGmMAhL"
       },
@@ -3581,6 +3713,32 @@
     },
     {
       "album": {
+        "name": "PARADISE",
+        "url": "https://open.spotify.com/album/6lumo11dn8gPbLLdmpe1PZ"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163147,
+      "name": "PARADISE",
+      "url": "https://open.spotify.com/track/12p3LJyuWdEh6bWFoc60Bk"
+    },
+    {
+      "album": {
         "name": "Paris to Milan (Hugo Cantarra Remix)",
         "url": "https://open.spotify.com/album/5ZnIZV2ROAognogJwcOAWs"
       },
@@ -3723,6 +3881,24 @@
     },
     {
       "album": {
+        "name": "Pictures Of You",
+        "url": "https://open.spotify.com/album/0D73jRe3U7onYOiX6jpYJO"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175312,
+      "name": "Pictures Of You",
+      "url": "https://open.spotify.com/track/1D5ifTPFnQWDnSxSAfc1hc"
+    },
+    {
+      "album": {
         "name": "Pillow Princess Remixes I",
         "url": "https://open.spotify.com/album/0qealHFPGDb0uG4dBrW6qR"
       },
@@ -3738,7 +3914,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 168240,
       "name": "Pillow Princess - TAAHLIAH Remix",
       "url": "https://open.spotify.com/track/6mEYqfF76mM7tCcvuYpL4Z"
@@ -3774,7 +3950,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 298659,
       "name": "Pinger",
       "url": "https://open.spotify.com/track/6iOSV9Wk97hIpWVHfq29Dj"
@@ -4295,6 +4471,32 @@
     },
     {
       "album": {
+        "name": "The Belonging",
+        "url": "https://open.spotify.com/album/3HOoATRaFgwq2VsAaWvmbh"
+      },
+      "artists": [
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        },
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        },
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254032,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/2scX5RdL0wByroF3sCBzDX"
+    },
+    {
+      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/5rOgqcs2ZryO3cZg03B27l"
       },
@@ -4408,6 +4610,28 @@
       "duration_ms": 363670,
       "name": "Snapshot '99",
       "url": "https://open.spotify.com/track/11gGOwStTHjiOlWbQgJCeB"
+    },
+    {
+      "album": {
+        "name": "Solpaz / Fading",
+        "url": "https://open.spotify.com/album/5IxSaDcsIOxUQ0kaFQQQs6"
+      },
+      "artists": [
+        {
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+        },
+        {
+          "name": "Adz",
+          "url": "https://open.spotify.com/artist/5JQz6ekVNCeKSAYKn0HkNp"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195903,
+      "name": "Solpaz",
+      "url": "https://open.spotify.com/track/37zxs3TCMq5QiecCytwCga"
     },
     {
       "album": {
@@ -4811,6 +5035,28 @@
     },
     {
       "album": {
+        "name": "Take Off",
+        "url": "https://open.spotify.com/album/350F8g1oIRWzdUs8gMfmsc"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237401,
+      "name": "Take Off",
+      "url": "https://open.spotify.com/track/1Qew5n9FSPxpiqu0Og4R3J"
+    },
+    {
+      "album": {
         "name": "Technodroid EP",
         "url": "https://open.spotify.com/album/1CGoimGj9pDkpfbUZ135wx"
       },
@@ -4866,6 +5112,28 @@
       "duration_ms": 428170,
       "name": "The Future",
       "url": "https://open.spotify.com/track/3MZHllv4rhpBnoOSoD1Mqe"
+    },
+    {
+      "album": {
+        "name": "The Incident",
+        "url": "https://open.spotify.com/album/3DXftMckzQPpMJzQ2c2LH3"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "BLR",
+          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217142,
+      "name": "The Incident",
+      "url": "https://open.spotify.com/track/07RiiENqLJMuIKmiDWUUch"
     },
     {
       "album": {
@@ -5124,6 +5392,28 @@
       "duration_ms": 141780,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/7rISI4OowAaN0ciRUPTsk8"
+    },
+    {
+      "album": {
+        "name": "Twisted",
+        "url": "https://open.spotify.com/album/3PnGHglITPklkGdIJMZFcl"
+      },
+      "artists": [
+        {
+          "name": "Pig&Dan",
+          "url": "https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK"
+        },
+        {
+          "name": "Betoko",
+          "url": "https://open.spotify.com/artist/48aaubPa3RsbAp4uCPhoS7"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445036,
+      "name": "Twisted",
+      "url": "https://open.spotify.com/track/3px5cJGLZzrIoPNjd7AJJY"
     },
     {
       "album": {
@@ -5590,6 +5880,24 @@
       "duration_ms": 461630,
       "name": "Wolks Vagon",
       "url": "https://open.spotify.com/track/6T1DlbSvRKOtksXS7gVtel"
+    },
+    {
+      "album": {
+        "name": "Wonderland",
+        "url": "https://open.spotify.com/album/4ACOWpacKULoUqkTAw8DlL"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344500,
+      "name": "Wonderland",
+      "url": "https://open.spotify.com/track/6bEHsyiVaK9agrtndxqX7U"
     },
     {
       "album": {

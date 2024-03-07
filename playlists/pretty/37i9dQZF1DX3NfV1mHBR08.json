@@ -1,12 +1,12 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 15041,
+  "num_followers": 15038,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTE5Y2ZhMDgwYmI4OGJiMWU2ODRhYTBjMjc1YWI2OGYzNDFkMmQ3",
+  "snapshot_id": "MCwxMDQxNmJhYWUyNjBhYzBmZjQ3YjA4NWI1MmE1MzZhM2FmYjkyM2Zj",
   "tracks": [
     {
       "added_at": "2024-03-05 05:37:33",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-03-05 05:37:33",
       "album": {
-        "name": "Trust Me (MIDZY)",
-        "url": "https://open.spotify.com/album/7EHXDcznIDHxNWTSPBf9Po"
-      },
-      "artists": [
-        {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
-        }
-      ],
-      "duration_ms": 221638,
-      "name": "Trust Me (MIDZY)",
-      "url": "https://open.spotify.com/track/4ckfsMiX0wBKwaxIJCXxsJ"
-    },
-    {
-      "added_at": "2024-03-05 05:37:33",
-      "album": {
         "name": "H1-KEYnote #2 [Deeper]",
         "url": "https://open.spotify.com/album/1v8S64LHiST7uozBRziaIN"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 216160,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/6T2XxCNGgkbFvyyuJNN3fQ"
+    },
+    {
+      "added_at": "2024-03-05 05:37:33",
+      "album": {
+        "name": "Trust Me (MIDZY)",
+        "url": "https://open.spotify.com/album/7EHXDcznIDHxNWTSPBf9Po"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 221638,
+      "name": "Trust Me (MIDZY)",
+      "url": "https://open.spotify.com/track/4ckfsMiX0wBKwaxIJCXxsJ"
     },
     {
       "added_at": "2024-03-05 05:37:33",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-03-05 05:37:33",
       "album": {
+        "name": "DAESUNG Special Single",
+        "url": "https://open.spotify.com/album/7Ct13dmiE5fMReh3v3FTxe"
+      },
+      "artists": [
+        {
+          "name": "DAESUNG",
+          "url": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+        }
+      ],
+      "duration_ms": 198280,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/0E8sOJGcMtUVxAJ4PYul2U"
+    },
+    {
+      "added_at": "2024-03-05 05:37:33",
+      "album": {
         "name": "Seven, <\uc9d1\uc744 \ub098\uc11c\uba70...>",
         "url": "https://open.spotify.com/album/7DbmjsRXzvRuw5wDRSiOAy"
       },
@@ -775,22 +791,6 @@
     {
       "added_at": "2024-03-05 05:37:33",
       "album": {
-        "name": "DAESUNG Special Single",
-        "url": "https://open.spotify.com/album/7Ct13dmiE5fMReh3v3FTxe"
-      },
-      "artists": [
-        {
-          "name": "DAESUNG",
-          "url": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
-        }
-      ],
-      "duration_ms": 198280,
-      "name": "Flow",
-      "url": "https://open.spotify.com/track/0E8sOJGcMtUVxAJ4PYul2U"
-    },
-    {
-      "added_at": "2024-03-05 05:37:33",
-      "album": {
         "name": "Graduation",
         "url": "https://open.spotify.com/album/5ER5iKqYrPjHsjlZfwHUV1"
       },
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-03-05 05:37:33",
       "album": {
-        "name": "ERROR",
-        "url": "https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL"
-      },
-      "artists": [
-        {
-          "name": "LEE CHANHYUK",
-          "url": "https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl"
-        }
-      ],
-      "duration_ms": 198558,
-      "name": "Panorama",
-      "url": "https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i"
-    },
-    {
-      "added_at": "2024-03-05 05:37:33",
-      "album": {
         "name": "Dear Diary",
         "url": "https://open.spotify.com/album/0HDY0qVf18AP9ef5chIqxC"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 218523,
       "name": "Dear Diary",
       "url": "https://open.spotify.com/track/2qgA8fMwtftAhDzkd6mhgD"
+    },
+    {
+      "added_at": "2024-03-05 05:37:33",
+      "album": {
+        "name": "ERROR",
+        "url": "https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL"
+      },
+      "artists": [
+        {
+          "name": "LEE CHANHYUK",
+          "url": "https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl"
+        }
+      ],
+      "duration_ms": 198558,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i"
     }
   ],
   "unique_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",

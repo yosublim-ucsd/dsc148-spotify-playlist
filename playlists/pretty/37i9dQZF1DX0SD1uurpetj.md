@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SD1uurpetj.md) - [plain]
 
 > Take a bite out of the official playlist for Vampire Academy, streaming Thursdays on Peacock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,831 likes - 67 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,838 likes - 67 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SD1uurpetj.md) - [plain]
 | 18 | [Pass Out](https://open.spotify.com/track/4Q4K8fikwOmZYmz82Wco4w) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [Disc\-Overy](https://open.spotify.com/album/1ggrUrAPlcvhYrybrhoJ1X) | 4:28 |
 | 19 | [when the party's over](https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:16 |
 | 20 | [There Will Be Time](https://open.spotify.com/track/0CzbkuvsT2gSUkASIRqo7o) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Baaba Maal](https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf) | [There Will Be Time](https://open.spotify.com/album/0klvKSGjl9QGsJBwf6itVR) | 4:27 |
-| 21 | [Junk](https://open.spotify.com/track/42BVMTOJZvIYXc5vLlB7f9) | [Vivienne Chi](https://open.spotify.com/artist/4MTj2lUJ9Gg2J3WFyGFZrw) | [Junk](https://open.spotify.com/album/1VyEdhli4jXnpoXReDWCZQ) | 4:10 |
+| 21 | [Junk](https://open.spotify.com/track/5dBRrzd9SzvfA4CEnjyGDz) | [Vivienne Chi](https://open.spotify.com/artist/4MTj2lUJ9Gg2J3WFyGFZrw) | [Junk](https://open.spotify.com/album/3ittC22MRmqkjRkzmzi4kC) | 4:10 |
 | 22 | [Truth Hurts](https://open.spotify.com/track/3HWzoMvoF3TQfYg4UPszDq) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/2KJjOBX280F3hZZE1xO33O) | 2:53 |
 | 23 | [I Know You Know](https://open.spotify.com/track/3afeZ81GDy59tATovKyH6Z) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Esperanza](https://open.spotify.com/album/7188JsHTl3rladofF7CVvW) | 3:45 |
 | 24 | [Fighter](https://open.spotify.com/track/0TksNFNyfICIxcQctHLBRP) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Trio Sessions \(Vol\. 1\)](https://open.spotify.com/album/0rzh6rmD3fpUpMURv3feZ4) | 4:06 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SD1uurpetj.md) - [plain]
 | 66 | [Walking On Fire](https://open.spotify.com/track/5OqHkOKpkNb5YeVS8NCP1X) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV), [Th3rdstream](https://open.spotify.com/artist/4NlVHWGq2M57GbUzcBqEAS) | [Walking On Fire](https://open.spotify.com/album/00eOzgNWZx6MZPUQJMZP3d) | 3:29 |
 | 67 | [Ride of Your Life](https://open.spotify.com/track/4yL1td9LfwBEILSqBDfTk5) | [Th3rdstream](https://open.spotify.com/artist/4NlVHWGq2M57GbUzcBqEAS), [Holly Jade](https://open.spotify.com/artist/20ZeznQHUGorY2fyAoZ1Ie) | [Ride of Your Life](https://open.spotify.com/album/5mud1u4a94wr9izYkfTtxR) | 2:28 |
 
-Snapshot ID: `MCwzMDYyYmJkOTExNzk4NzZkMWNjODMxMzU5ZTAyYTliMGE0ZjIwYWZm`
+Snapshot ID: `MCxiNjBjM2ZjNDZmMzNmMzFiMGU5MGQyZWUzMjdhNDZjNDZhODVlNDQ3`

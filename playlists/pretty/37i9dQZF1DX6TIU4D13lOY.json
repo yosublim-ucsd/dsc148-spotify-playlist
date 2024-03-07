@@ -1,12 +1,12 @@
 {
   "description": "Classic soft rock for a nice and easy drive.",
-  "num_followers": 249339,
+  "num_followers": 249412,
   "original_name": "Soft Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjE5NGQ2NDQzZTExOGFkZDY1NjlkMDZiZmRhMWYwYjNmOWQyNjcz",
+  "snapshot_id": "MCwxNDc4MGIwYTFiMzg0YmU4NGY0MGM2N2VjOGIyZWFiYjYxZmM1OTlj",
   "tracks": [
     {
       "added_at": "2020-01-07 15:31:11",
@@ -299,22 +299,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "It Never Rains In Southern California",
-        "url": "https://open.spotify.com/album/0gdQF4mVBPjv5hhjtoe3hM"
-      },
-      "artists": [
-        {
-          "name": "Albert Hammond",
-          "url": "https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g"
-        }
-      ],
-      "duration_ms": 233506,
-      "name": "It Never Rains in Southern California",
-      "url": "https://open.spotify.com/track/6tunhVGD8C05MZNjSVIsjw"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Pretzel Logic",
         "url": "https://open.spotify.com/album/4XfN871nBIz6obaUDEzZXm"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 272946,
       "name": "Rikki Don't Lose That Number",
       "url": "https://open.spotify.com/track/0xLrMI4R2xTwRHWV3UQCAZ"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "It Never Rains In Southern California",
+        "url": "https://open.spotify.com/album/0gdQF4mVBPjv5hhjtoe3hM"
+      },
+      "artists": [
+        {
+          "name": "Albert Hammond",
+          "url": "https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g"
+        }
+      ],
+      "duration_ms": 233506,
+      "name": "It Never Rains in Southern California",
+      "url": "https://open.spotify.com/track/6tunhVGD8C05MZNjSVIsjw"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -699,22 +699,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Backless",
-        "url": "https://open.spotify.com/album/3Xgt0D7DlSQ5HluyECu33i"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 181226,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/1oar8gdDX5yHWzVstAHDav"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Gaucho",
         "url": "https://open.spotify.com/album/6FRN2BwvClQEMsG2I4Cofb"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 309018,
       "name": "Hey Nineteen",
       "url": "https://open.spotify.com/track/6wP0zUocK5kGLaBYhLbzt5"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Backless",
+        "url": "https://open.spotify.com/album/3Xgt0D7DlSQ5HluyECu33i"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 181226,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/1oar8gdDX5yHWzVstAHDav"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -939,22 +939,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Silk Degrees (2023 Remaster)",
-        "url": "https://open.spotify.com/album/1iIyo1JkpnNz83Mf4I9AiI"
-      },
-      "artists": [
-        {
-          "name": "Boz Scaggs",
-          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
-        }
-      ],
-      "duration_ms": 181009,
-      "name": "What Can I Say (2023 Remaster)",
-      "url": "https://open.spotify.com/track/74t8MRGyoMSIkiN1f43gKc"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/5sO231e431rq8r9mV1uFJH"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 180133,
       "name": "We Just Disagree",
       "url": "https://open.spotify.com/track/7qpuECko60EoztznowMWj1"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Silk Degrees (2023 Remaster)",
+        "url": "https://open.spotify.com/album/1iIyo1JkpnNz83Mf4I9AiI"
+      },
+      "artists": [
+        {
+          "name": "Boz Scaggs",
+          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
+        }
+      ],
+      "duration_ms": 181009,
+      "name": "What Can I Say (2023 Remaster)",
+      "url": "https://open.spotify.com/track/74t8MRGyoMSIkiN1f43gKc"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Champagne Jam",
-        "url": "https://open.spotify.com/album/73BvB7c3P28ZAGtng7IMCt"
-      },
-      "artists": [
-        {
-          "name": "Atlanta Rhythm Section",
-          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
-        }
-      ],
-      "duration_ms": 307466,
-      "name": "Imaginary Lover",
-      "url": "https://open.spotify.com/track/3qxBN4nWvSDibXmEq5of9E"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Late for the Sky (Remastered)",
         "url": "https://open.spotify.com/album/0aiTqo8YZI0dKDgcCnkkzP"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 412082,
       "name": "Fountain of Sorrow - Remastered",
       "url": "https://open.spotify.com/track/2U2EMuFyUk5LYMPlMUpOxM"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Champagne Jam",
+        "url": "https://open.spotify.com/album/73BvB7c3P28ZAGtng7IMCt"
+      },
+      "artists": [
+        {
+          "name": "Atlanta Rhythm Section",
+          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
+        }
+      ],
+      "duration_ms": 307466,
+      "name": "Imaginary Lover",
+      "url": "https://open.spotify.com/track/3qxBN4nWvSDibXmEq5of9E"
     },
     {
       "added_at": "2020-01-07 15:31:11",

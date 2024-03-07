@@ -1851,6 +1851,24 @@
     },
     {
       "album": {
+        "name": "Hell is a Dance Floor",
+        "url": "https://open.spotify.com/album/0HNfc7NP8LOZ5dfnyesMoY"
+      },
+      "artists": [
+        {
+          "name": "Vincent Mason",
+          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209076,
+      "name": "Hell is a Dance Floor",
+      "url": "https://open.spotify.com/track/5ULNiLtUzRZIpbdHz47DkL"
+    },
+    {
+      "album": {
         "name": "Her",
         "url": "https://open.spotify.com/album/7JERMt53TQC4z2Pn4nPUYi"
       },

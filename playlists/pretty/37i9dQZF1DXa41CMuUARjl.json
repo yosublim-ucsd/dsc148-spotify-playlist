@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from LP Giobbi",
-  "num_followers": 467967,
+  "num_followers": 468025,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzJjMjVjZjk4ZDk4MjFiNmFiN2FjZmQ3NjcxYzE4YTBkOTQ4MDZm",
+  "snapshot_id": "MCw2MWYxZThjMmYwNmJiMmVmMTdkN2RhNzAyY2VjYjEzMTE4ODIxMWZl",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -547,6 +547,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "SEE YOU DROP",
+        "url": "https://open.spotify.com/album/58RdlAxXscDRen4SVXtayz"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "duration_ms": 157600,
+      "name": "SEE YOU DROP",
+      "url": "https://open.spotify.com/track/7hBUvEg6V9TQPZgLie2krb"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Before You Go",
         "url": "https://open.spotify.com/album/7MBLJ3i29vvsSxr2csVGlX"
       },
@@ -563,18 +579,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "SEE YOU DROP",
-        "url": "https://open.spotify.com/album/58RdlAxXscDRen4SVXtayz"
+        "name": "Bad Town",
+        "url": "https://open.spotify.com/album/2KggVcAY0RMidWcqJoEF5U"
       },
       "artists": [
         {
-          "name": "Ray Volpe",
-          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
         }
       ],
-      "duration_ms": 157600,
-      "name": "SEE YOU DROP",
-      "url": "https://open.spotify.com/track/7hBUvEg6V9TQPZgLie2krb"
+      "duration_ms": 155691,
+      "name": "Bad Town",
+      "url": "https://open.spotify.com/track/6UoFZEFRgy19CsQOfCJQmp"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -603,26 +623,6 @@
       "duration_ms": 183553,
       "name": "Everything You Do (feat. Aviella)",
       "url": "https://open.spotify.com/track/4YMebDlcRphWajZhJAWPg0"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Bad Town",
-        "url": "https://open.spotify.com/album/2KggVcAY0RMidWcqJoEF5U"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "Frank Walker",
-          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
-        }
-      ],
-      "duration_ms": 155691,
-      "name": "Bad Town",
-      "url": "https://open.spotify.com/track/6UoFZEFRgy19CsQOfCJQmp"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -723,26 +723,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/16MG9A3cvNOamfuJqK02aQ"
-      },
-      "artists": [
-        {
-          "name": "Slowboy",
-          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
-        },
-        {
-          "name": "Sadfriendd",
-          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
-        }
-      ],
-      "duration_ms": 93416,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/37mNBpbd2ZeSN51qcKy0Ho"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "My Body (feat. Y&M)",
         "url": "https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 160024,
       "name": "My Body (feat. Y&M)",
       "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/16MG9A3cvNOamfuJqK02aQ"
+      },
+      "artists": [
+        {
+          "name": "Slowboy",
+          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
+        },
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        }
+      ],
+      "duration_ms": 93416,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/37mNBpbd2ZeSN51qcKy0Ho"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -931,26 +931,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Poetry",
-        "url": "https://open.spotify.com/album/0hitqATQZLJqEnkn5zwQyV"
-      },
-      "artists": [
-        {
-          "name": "yetep",
-          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
-        },
-        {
-          "name": "Liam Geddes",
-          "url": "https://open.spotify.com/artist/3tpTg64MFkufAStvUlU7B2"
-        }
-      ],
-      "duration_ms": 238095,
-      "name": "Poetry",
-      "url": "https://open.spotify.com/track/5Ly8NZO3ReTncvgY56Aj91"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Forever 2 (Crush Mix)",
         "url": "https://open.spotify.com/album/2TbQ4UscdZOQCTNas8MAhR"
       },
@@ -971,6 +951,26 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Poetry",
+        "url": "https://open.spotify.com/album/0hitqATQZLJqEnkn5zwQyV"
+      },
+      "artists": [
+        {
+          "name": "yetep",
+          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
+        },
+        {
+          "name": "Liam Geddes",
+          "url": "https://open.spotify.com/artist/3tpTg64MFkufAStvUlU7B2"
+        }
+      ],
+      "duration_ms": 238095,
+      "name": "Poetry",
+      "url": "https://open.spotify.com/track/5Ly8NZO3ReTncvgY56Aj91"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "High On You (feat. Melissa de Kleine)",
         "url": "https://open.spotify.com/album/3vXWJUG1LRg0ooFeTvobiG"
       },
@@ -987,6 +987,22 @@
       "duration_ms": 189047,
       "name": "High On You (feat. Melissa de Kleine)",
       "url": "https://open.spotify.com/track/6CosTVW67ji21V02JFmoi2"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/7yO4wdgapBR9bhMDF6j9WW"
+      },
+      "artists": [
+        {
+          "name": "MashBit",
+          "url": "https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ"
+        }
+      ],
+      "duration_ms": 169528,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/3U88n6ha0Tq3Y5el5vV6is"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1019,26 +1035,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "ESCARGOT",
-        "url": "https://open.spotify.com/album/5fqrGMXNf06aWpvMIqhOl3"
-      },
-      "artists": [
-        {
-          "name": "ESCARGOT",
-          "url": "https://open.spotify.com/artist/4eQbb3mhoL4GjbMW7AHza3"
-        },
-        {
-          "name": "SNAILS",
-          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
-        }
-      ],
-      "duration_ms": 202741,
-      "name": "ESCARGOT",
-      "url": "https://open.spotify.com/track/1ZbA2N0ryptdKbykwia2MB"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Firestarter",
         "url": "https://open.spotify.com/album/0kLHN4gERGE3aTDnmmNwbA"
       },
@@ -1063,6 +1059,42 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Getting Started",
+        "url": "https://open.spotify.com/album/1bGK8Zb61ZEfXDXQXl0xrN"
+      },
+      "artists": [
+        {
+          "name": "JSTJR",
+          "url": "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP"
+        }
+      ],
+      "duration_ms": 118285,
+      "name": "Getting Started",
+      "url": "https://open.spotify.com/track/2gMTwP5aqyBikVB8kM1Kkq"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "ESCARGOT",
+        "url": "https://open.spotify.com/album/5fqrGMXNf06aWpvMIqhOl3"
+      },
+      "artists": [
+        {
+          "name": "ESCARGOT",
+          "url": "https://open.spotify.com/artist/4eQbb3mhoL4GjbMW7AHza3"
+        },
+        {
+          "name": "SNAILS",
+          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
+        }
+      ],
+      "duration_ms": 202741,
+      "name": "ESCARGOT",
+      "url": "https://open.spotify.com/track/1ZbA2N0ryptdKbykwia2MB"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "You Make Me",
         "url": "https://open.spotify.com/album/1QqaEIieI5lIpor6Qt9twT"
       },
@@ -1075,22 +1107,6 @@
       "duration_ms": 246562,
       "name": "You Make Me",
       "url": "https://open.spotify.com/track/5VmYFi3GhfCbNY2kfR9VPL"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Light",
-        "url": "https://open.spotify.com/album/7yO4wdgapBR9bhMDF6j9WW"
-      },
-      "artists": [
-        {
-          "name": "MashBit",
-          "url": "https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ"
-        }
-      ],
-      "duration_ms": 169528,
-      "name": "Light",
-      "url": "https://open.spotify.com/track/3U88n6ha0Tq3Y5el5vV6is"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1111,22 +1127,6 @@
       "duration_ms": 151022,
       "name": "Need You Again",
       "url": "https://open.spotify.com/track/2mhU9Ca0C834kNZ6PpYIhn"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Getting Started",
-        "url": "https://open.spotify.com/album/1bGK8Zb61ZEfXDXQXl0xrN"
-      },
-      "artists": [
-        {
-          "name": "JSTJR",
-          "url": "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP"
-        }
-      ],
-      "duration_ms": 118285,
-      "name": "Getting Started",
-      "url": "https://open.spotify.com/track/2gMTwP5aqyBikVB8kM1Kkq"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Premeditated",
-        "url": "https://open.spotify.com/album/2N8ILAfRABl17KrbkzTXP1"
-      },
-      "artists": [
-        {
-          "name": "FETISH",
-          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "Premeditated",
-      "url": "https://open.spotify.com/track/0igfVSUP1TH7a9JIub36dY"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Validate Yourself",
         "url": "https://open.spotify.com/album/1csBQaQhs68za8W5fH1jeD"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 235530,
       "name": "Validate Yourself",
       "url": "https://open.spotify.com/track/249Y2brBzrAIOs1CTLwoyy"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Premeditated",
+        "url": "https://open.spotify.com/album/2N8ILAfRABl17KrbkzTXP1"
+      },
+      "artists": [
+        {
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+        }
+      ],
+      "duration_ms": 156190,
+      "name": "Premeditated",
+      "url": "https://open.spotify.com/track/0igfVSUP1TH7a9JIub36dY"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1263,22 +1263,34 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "\u00caCCLAB\u00d4 DE LIBERT\u00c1",
-        "url": "https://open.spotify.com/album/3YcizP1lVMdz050dxuJGKG"
+        "name": "Monaco EP",
+        "url": "https://open.spotify.com/album/2wbmVZYKzdRMHoC5isFHug"
       },
       "artists": [
         {
-          "name": "Califato \u00be",
-          "url": "https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK"
-        },
-        {
-          "name": "\u00c1ngeles Rus\u00f3",
-          "url": "https://open.spotify.com/artist/7dJFkFc67SGkayMT0zDpsm"
+          "name": "Blank Sense",
+          "url": "https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw"
         }
       ],
-      "duration_ms": 171617,
-      "name": "ER PATIO DE L\u00d4 HIRGER\u00d4",
-      "url": "https://open.spotify.com/track/5yjmaJzgoX6qmnovPBSHNB"
+      "duration_ms": 200307,
+      "name": "Monaco",
+      "url": "https://open.spotify.com/track/3jWk66DLMnlEiNRlmVH0Di"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/3DgN8lFMK6cX8eJ5pIeUob"
+      },
+      "artists": [
+        {
+          "name": "Low Blow",
+          "url": "https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ"
+        }
+      ],
+      "duration_ms": 162530,
+      "name": "Soul",
+      "url": "https://open.spotify.com/track/2bmQDLkG6Ws7p5qbaoe3Rl"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1299,22 +1311,6 @@
       "duration_ms": 209000,
       "name": "Karma",
       "url": "https://open.spotify.com/track/5Rh4cLNvantvz3mbCw1Zq6"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Monaco EP",
-        "url": "https://open.spotify.com/album/2wbmVZYKzdRMHoC5isFHug"
-      },
-      "artists": [
-        {
-          "name": "Blank Sense",
-          "url": "https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw"
-        }
-      ],
-      "duration_ms": 200307,
-      "name": "Monaco",
-      "url": "https://open.spotify.com/track/3jWk66DLMnlEiNRlmVH0Di"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1343,38 +1339,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Fallout",
-        "url": "https://open.spotify.com/album/6r4efDjDUbOrxPTheRzB4T"
-      },
-      "artists": [
-        {
-          "name": "G-Rex",
-          "url": "https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K"
-        }
-      ],
-      "duration_ms": 119172,
-      "name": "Fallout",
-      "url": "https://open.spotify.com/track/2ODnXTSPquz48lOTVC9E0E"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/3DgN8lFMK6cX8eJ5pIeUob"
-      },
-      "artists": [
-        {
-          "name": "Low Blow",
-          "url": "https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ"
-        }
-      ],
-      "duration_ms": 162530,
-      "name": "Soul",
-      "url": "https://open.spotify.com/track/2bmQDLkG6Ws7p5qbaoe3Rl"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "QUestion",
         "url": "https://open.spotify.com/album/1e74XaGBqYUCBWVD4ICBrl"
       },
@@ -1391,6 +1355,22 @@
       "duration_ms": 219677,
       "name": "QUestion",
       "url": "https://open.spotify.com/track/0Q6WTnr87Omg6bZS6NTf6f"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Fallout",
+        "url": "https://open.spotify.com/album/6r4efDjDUbOrxPTheRzB4T"
+      },
+      "artists": [
+        {
+          "name": "G-Rex",
+          "url": "https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K"
+        }
+      ],
+      "duration_ms": 119172,
+      "name": "Fallout",
+      "url": "https://open.spotify.com/track/2ODnXTSPquz48lOTVC9E0E"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1415,6 +1395,26 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Drinks & Pills",
+        "url": "https://open.spotify.com/album/319ZP2HwIwAZVsAjgG2XSL"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        },
+        {
+          "name": "GOTT",
+          "url": "https://open.spotify.com/artist/7IvbinDy7IXfQ5cUSmUFHM"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Drinks & Pills",
+      "url": "https://open.spotify.com/track/2iUALxU5pXPWRS8Qs9j8k8"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Kiss of Death",
         "url": "https://open.spotify.com/album/4bIb005UlJu6dhC3griVP9"
       },
@@ -1435,26 +1435,6 @@
       "duration_ms": 185379,
       "name": "Kiss of Death",
       "url": "https://open.spotify.com/track/0AHXy0dHUQWSryFkIJXPx0"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Drinks & Pills",
-        "url": "https://open.spotify.com/album/319ZP2HwIwAZVsAjgG2XSL"
-      },
-      "artists": [
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        },
-        {
-          "name": "GOTT",
-          "url": "https://open.spotify.com/artist/7IvbinDy7IXfQ5cUSmUFHM"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Drinks & Pills",
-      "url": "https://open.spotify.com/track/2iUALxU5pXPWRS8Qs9j8k8"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1539,6 +1519,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Ooh La La",
+        "url": "https://open.spotify.com/album/2odHBhEVj1EgIUzAmPN1xL"
+      },
+      "artists": [
+        {
+          "name": "Cherry Tooth",
+          "url": "https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv"
+        }
+      ],
+      "duration_ms": 210230,
+      "name": "Ooh La La",
+      "url": "https://open.spotify.com/track/3luVKgaXhI1pZMBVSRneSi"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "like u do",
         "url": "https://open.spotify.com/album/40edlpaEajIP36ohDSvdty"
       },
@@ -1559,18 +1555,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Ooh La La",
-        "url": "https://open.spotify.com/album/2odHBhEVj1EgIUzAmPN1xL"
+        "name": "Love Me Less",
+        "url": "https://open.spotify.com/album/1kQ9n9hkHGbAGb6hgNZyjH"
       },
       "artists": [
         {
-          "name": "Cherry Tooth",
-          "url": "https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv"
+          "name": "Denham Audio",
+          "url": "https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1"
         }
       ],
-      "duration_ms": 210230,
-      "name": "Ooh La La",
-      "url": "https://open.spotify.com/track/3luVKgaXhI1pZMBVSRneSi"
+      "duration_ms": 176722,
+      "name": "Love Me Less",
+      "url": "https://open.spotify.com/track/1h4Q3swgqHz12t6xoQYIVs"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1595,18 +1591,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Love Me Less",
-        "url": "https://open.spotify.com/album/1kQ9n9hkHGbAGb6hgNZyjH"
+        "name": "Eyes Wide Shut",
+        "url": "https://open.spotify.com/album/6HL6Pmul5DUXw32iRdXUeK"
       },
       "artists": [
         {
-          "name": "Denham Audio",
-          "url": "https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1"
+          "name": "Nala",
+          "url": "https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf"
+        },
+        {
+          "name": "Ardalan",
+          "url": "https://open.spotify.com/artist/21j2G9IPn9QLHII7faCOsw"
         }
       ],
-      "duration_ms": 176722,
-      "name": "Love Me Less",
-      "url": "https://open.spotify.com/track/1h4Q3swgqHz12t6xoQYIVs"
+      "duration_ms": 212307,
+      "name": "Eyes Wide Shut",
+      "url": "https://open.spotify.com/track/03GtY7N56ADkxkSyXBuXmh"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1639,26 +1639,6 @@
       "duration_ms": 344500,
       "name": "Wonderland",
       "url": "https://open.spotify.com/track/6bEHsyiVaK9agrtndxqX7U"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Eyes Wide Shut",
-        "url": "https://open.spotify.com/album/6HL6Pmul5DUXw32iRdXUeK"
-      },
-      "artists": [
-        {
-          "name": "Nala",
-          "url": "https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf"
-        },
-        {
-          "name": "Ardalan",
-          "url": "https://open.spotify.com/artist/21j2G9IPn9QLHII7faCOsw"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "Eyes Wide Shut",
-      "url": "https://open.spotify.com/track/03GtY7N56ADkxkSyXBuXmh"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1699,22 +1679,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Mfana Wase Dobsi",
-        "url": "https://open.spotify.com/album/5SbaMPuv5hWZjRwLY4BDme"
-      },
-      "artists": [
-        {
-          "name": "Atmos Blaq",
-          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "Mfana Wase Dobsi",
-      "url": "https://open.spotify.com/track/0nunnszVogBhYL4crGY6kq"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Life Goes On",
         "url": "https://open.spotify.com/album/1tley50xaTGlScJ2Biegc9"
       },
@@ -1727,6 +1691,22 @@
       "duration_ms": 151731,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/2yZvdraY6EtJXMvjFtFJ2c"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Mfana Wase Dobsi",
+        "url": "https://open.spotify.com/album/5SbaMPuv5hWZjRwLY4BDme"
+      },
+      "artists": [
+        {
+          "name": "Atmos Blaq",
+          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "Mfana Wase Dobsi",
+      "url": "https://open.spotify.com/track/0nunnszVogBhYL4crGY6kq"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1751,22 +1731,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Da Bump",
-        "url": "https://open.spotify.com/album/6KvcL7bYlbKre0ywXkiw7y"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Das Cabrio",
-          "url": "https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI"
-        }
-      ],
-      "duration_ms": 205679,
-      "name": "Da Bump",
-      "url": "https://open.spotify.com/track/53uo8HtqXUDJdeZ4Vd5PsE"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "One More Time",
         "url": "https://open.spotify.com/album/18AHlFeofvJNmCaSLz8b6T"
       },
@@ -1779,6 +1743,22 @@
       "duration_ms": 228193,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/0JFPWVUu0BZRFiZDTQyO1N"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Da Bump",
+        "url": "https://open.spotify.com/album/6KvcL7bYlbKre0ywXkiw7y"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Das Cabrio",
+          "url": "https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI"
+        }
+      ],
+      "duration_ms": 205679,
+      "name": "Da Bump",
+      "url": "https://open.spotify.com/track/53uo8HtqXUDJdeZ4Vd5PsE"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1959,6 +1939,26 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/6dfM99gnfc9wTmLux8HP9p"
+      },
+      "artists": [
+        {
+          "name": "Azooland",
+          "url": "https://open.spotify.com/artist/57Vi4e6NaX8OZqeYCJq4kQ"
+        },
+        {
+          "name": "Nickobella",
+          "url": "https://open.spotify.com/artist/4Bhe7FjSfLHTbUPIm5EnQt"
+        }
+      ],
+      "duration_ms": 167260,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/3RVPa3rkop38ApKJP1069H"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Y",
         "url": "https://open.spotify.com/album/4UFLwdjGPHwRXGJAg2vWmd"
       },
@@ -1999,22 +1999,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Hold Me",
-        "url": "https://open.spotify.com/album/6dfM99gnfc9wTmLux8HP9p"
+        "name": "\u00caCCLAB\u00d4 DE LIBERT\u00c1",
+        "url": "https://open.spotify.com/album/1tVhgN9feZ8I31AC7yKOSp"
       },
       "artists": [
         {
-          "name": "Azooland",
-          "url": "https://open.spotify.com/artist/57Vi4e6NaX8OZqeYCJq4kQ"
+          "name": "Califato \u00be",
+          "url": "https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK"
         },
         {
-          "name": "Nickobella",
-          "url": "https://open.spotify.com/artist/4Bhe7FjSfLHTbUPIm5EnQt"
+          "name": "\u00c1ngeles Rus\u00f3",
+          "url": "https://open.spotify.com/artist/7dJFkFc67SGkayMT0zDpsm"
         }
       ],
-      "duration_ms": 167260,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/3RVPa3rkop38ApKJP1069H"
+      "duration_ms": 171617,
+      "name": "ER PATIO DE L\u00d4 HIRGER\u00d4",
+      "url": "https://open.spotify.com/track/7gA0h9ib6ZqdnOuYmlIKnz"
     }
   ],
   "unique_name": "New Music Friday Dance",

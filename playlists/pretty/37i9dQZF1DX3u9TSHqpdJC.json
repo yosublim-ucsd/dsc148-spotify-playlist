@@ -1,13 +1,221 @@
 {
-  "description": "The best new pop music by independent artists and labels. Cover: liza. Artwork by Paola Saliby",
-  "num_followers": 206651,
+  "description": "The best new pop music by independent artists and labels. Cover: Carlina de Place. Artwork by Paola Saliby",
+  "num_followers": 206810,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTc1MTdjMGEzMGQ5NjdiZmJiYzlkZGRlYzA2OGJmM2YwNWViMDc1",
+  "snapshot_id": "MCw2OTA3M2I1OThkNzc0ZDVmOWY5Mzg0YzY0MjZkNGQ2NTAzY2EwZjc2",
   "tracks": [
+    {
+      "added_at": "2024-03-06 05:00:00",
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/5PT3pq9vG5gS1IQGfFXpH2"
+      },
+      "artists": [
+        {
+          "name": "Carlina de Place",
+          "url": "https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv"
+        }
+      ],
+      "duration_ms": 178363,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/1HYGM2aLGnfWdXF31ZNUOG"
+    },
+    {
+      "added_at": "2024-03-06 05:00:00",
+      "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/5nkLySr4VplyXkX7KVK2e0"
+      },
+      "artists": [
+        {
+          "name": "Libby Whitehouse",
+          "url": "https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe"
+        }
+      ],
+      "duration_ms": 161882,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/39Tp0g9FmNfeRxOdh9mdUG"
+    },
+    {
+      "added_at": "2024-03-06 05:00:00",
+      "album": {
+        "name": "I Dated A Monster",
+        "url": "https://open.spotify.com/album/5gGqwJK1phJFLisHG3CLPl"
+      },
+      "artists": [
+        {
+          "name": "CATTY",
+          "url": "https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf"
+        }
+      ],
+      "duration_ms": 239154,
+      "name": "I Dated A Monster",
+      "url": "https://open.spotify.com/track/2E2BQgdpVKcgDdS6IIJVrK"
+    },
+    {
+      "added_at": "2024-03-06 05:00:00",
+      "album": {
+        "name": "Want You to Know",
+        "url": "https://open.spotify.com/album/0SdZsJR51FbwCSzR61gXAk"
+      },
+      "artists": [
+        {
+          "name": "Backset",
+          "url": "https://open.spotify.com/artist/2scPtarNLto2VIiH3qqn7Q"
+        }
+      ],
+      "duration_ms": 209073,
+      "name": "Want You to Know",
+      "url": "https://open.spotify.com/track/4Y3vcZJzevbTEq29vINtYj"
+    },
+    {
+      "added_at": "2024-03-06 05:00:00",
+      "album": {
+        "name": "Grow Old Together",
+        "url": "https://open.spotify.com/album/3VtpgX5kRLYSfNCXULBSI2"
+      },
+      "artists": [
+        {
+          "name": "Papa",
+          "url": "https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy"
+        }
+      ],
+      "duration_ms": 178125,
+      "name": "Grow Old Together",
+      "url": "https://open.spotify.com/track/7Fg5ZfzagPmxs7HmaXSF8H"
+    },
+    {
+      "added_at": "2024-03-06 05:00:00",
+      "album": {
+        "name": "overyou(overme)",
+        "url": "https://open.spotify.com/album/7M2NCTQwhWSzfJBUj6qdyU"
+      },
+      "artists": [
+        {
+          "name": "Caleigh",
+          "url": "https://open.spotify.com/artist/3aJyXhAdbU62nZ63hnJiE1"
+        }
+      ],
+      "duration_ms": 182063,
+      "name": "overyou(overme)",
+      "url": "https://open.spotify.com/track/006sMtjNqBBqce26WZfXHE"
+    },
+    {
+      "added_at": "2024-03-06 05:00:00",
+      "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/2rcceF6uOaJiEmHVtYpOhW"
+      },
+      "artists": [
+        {
+          "name": "Anna Kornis",
+          "url": "https://open.spotify.com/artist/7agKvt4n9o9aKwgs9Zce3n"
+        }
+      ],
+      "duration_ms": 188500,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/1iMed5al84NqIvx1qQi8TG"
+    },
+    {
+      "added_at": "2024-03-06 05:00:00",
+      "album": {
+        "name": "Funny",
+        "url": "https://open.spotify.com/album/4chAV9akGm8EPqya4z4QGY"
+      },
+      "artists": [
+        {
+          "name": "Kai Bosch",
+          "url": "https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41"
+        }
+      ],
+      "duration_ms": 138786,
+      "name": "Funny",
+      "url": "https://open.spotify.com/track/1XTj67GksyndBxsKAZuOxj"
+    },
+    {
+      "added_at": "2024-03-06 05:00:00",
+      "album": {
+        "name": "Friend of the Family",
+        "url": "https://open.spotify.com/album/1QDqEcUeooKibWIwnL9kup"
+      },
+      "artists": [
+        {
+          "name": "Liv Miraldi",
+          "url": "https://open.spotify.com/artist/3kqX5Myzg59lBJTPZmJTzY"
+        }
+      ],
+      "duration_ms": 171346,
+      "name": "Friend of the Family",
+      "url": "https://open.spotify.com/track/3LNGW6XcfeXXs2qIw8fUw0"
+    },
+    {
+      "added_at": "2024-03-06 05:00:00",
+      "album": {
+        "name": "Cheater",
+        "url": "https://open.spotify.com/album/1vawEnelJfgUfwDWRFVV7N"
+      },
+      "artists": [
+        {
+          "name": "Johnny Huynh",
+          "url": "https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju"
+        }
+      ],
+      "duration_ms": 188624,
+      "name": "Cheater",
+      "url": "https://open.spotify.com/track/0TwUTLZkSzDoaeM6uKLAWa"
+    },
+    {
+      "added_at": "2024-03-06 05:00:00",
+      "album": {
+        "name": "Ophelia",
+        "url": "https://open.spotify.com/album/2rjKzafqvKobvWAZo3ttqJ"
+      },
+      "artists": [
+        {
+          "name": "KAELI",
+          "url": "https://open.spotify.com/artist/5HTzeU6fX2Q7SibvmGz1c6"
+        }
+      ],
+      "duration_ms": 211320,
+      "name": "Ophelia",
+      "url": "https://open.spotify.com/track/7ePNSgD1U63eWgGng464Kn"
+    },
+    {
+      "added_at": "2024-03-06 05:00:00",
+      "album": {
+        "name": "City",
+        "url": "https://open.spotify.com/album/2kKVo48OHlMQdbhBK3ZHT1"
+      },
+      "artists": [
+        {
+          "name": "Tobias Defoe",
+          "url": "https://open.spotify.com/artist/4UWYwl77CmLOHrz7Zehl2l"
+        }
+      ],
+      "duration_ms": 163093,
+      "name": "City",
+      "url": "https://open.spotify.com/track/67upU8uOiheMRpgYK6Ru8W"
+    },
+    {
+      "added_at": "2024-03-06 05:00:00",
+      "album": {
+        "name": "Nose Job",
+        "url": "https://open.spotify.com/album/0iFR1tLijczTAbsjEiGJDF"
+      },
+      "artists": [
+        {
+          "name": "Caity Krone",
+          "url": "https://open.spotify.com/artist/0qMLMrYSgSJBquDGCOMERs"
+        }
+      ],
+      "duration_ms": 287300,
+      "name": "Nose Job",
+      "url": "https://open.spotify.com/track/6IB1YxShFrWmhBxBtcr1aQ"
+    },
     {
       "added_at": "2024-02-28 05:00:00",
       "album": {
@@ -23,6 +231,22 @@
       "duration_ms": 132903,
       "name": "THE ARSONIST & THE SUPERMODEL",
       "url": "https://open.spotify.com/track/5mh4ZIGlt8MVTimIOs5pjt"
+    },
+    {
+      "added_at": "2024-01-31 05:00:00",
+      "album": {
+        "name": "All Time Low",
+        "url": "https://open.spotify.com/album/7HRuKjnuAyJOtGB9fELdVc"
+      },
+      "artists": [
+        {
+          "name": "Aria Lisslo",
+          "url": "https://open.spotify.com/artist/4HxxoSZ3v9gHeaLJZFhMBl"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "All Time Low",
+      "url": "https://open.spotify.com/track/3w03xQK7wqiNBWu0T6h800"
     },
     {
       "added_at": "2024-02-28 05:00:00",
@@ -939,22 +1163,6 @@
     {
       "added_at": "2024-01-31 05:00:00",
       "album": {
-        "name": "All Time Low",
-        "url": "https://open.spotify.com/album/7HRuKjnuAyJOtGB9fELdVc"
-      },
-      "artists": [
-        {
-          "name": "Aria Lisslo",
-          "url": "https://open.spotify.com/artist/4HxxoSZ3v9gHeaLJZFhMBl"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "All Time Low",
-      "url": "https://open.spotify.com/track/3w03xQK7wqiNBWu0T6h800"
-    },
-    {
-      "added_at": "2024-01-31 05:00:00",
-      "album": {
         "name": "5555",
         "url": "https://open.spotify.com/album/5BGpC1K1Edhh4X3X8KGUpL"
       },
@@ -1209,22 +1417,6 @@
       "url": "https://open.spotify.com/track/18wQ1oES9OK2gYu7oUqrp2"
     },
     {
-      "added_at": "2024-01-24 05:00:00",
-      "album": {
-        "name": "I Wish I Was The Moon",
-        "url": "https://open.spotify.com/album/6y8IS2k08fSN7uCgCzhY8D"
-      },
-      "artists": [
-        {
-          "name": "Margo Raats",
-          "url": "https://open.spotify.com/artist/52XA4Ccc0k7wMeLkdEsju9"
-        }
-      ],
-      "duration_ms": 183877,
-      "name": "I Wish I Was The Moon",
-      "url": "https://open.spotify.com/track/0x2s2YyudOmRu4Y0TwX8fY"
-    },
-    {
       "added_at": "2024-01-17 05:00:00",
       "album": {
         "name": "THAT SPECIAL",
@@ -1287,38 +1479,6 @@
       "duration_ms": 166012,
       "name": "White Noise",
       "url": "https://open.spotify.com/track/7xfqWNMdzDdllLB0rkjIY3"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
-        "name": "Mean Girls",
-        "url": "https://open.spotify.com/album/65njqIK7i22Nx4ltLuJG9D"
-      },
-      "artists": [
-        {
-          "name": "Caleigh",
-          "url": "https://open.spotify.com/artist/3aJyXhAdbU62nZ63hnJiE1"
-        }
-      ],
-      "duration_ms": 182244,
-      "name": "Mean Girls",
-      "url": "https://open.spotify.com/track/2ZpBIOupyST17KoZB3A2FX"
-    },
-    {
-      "added_at": "2024-01-17 05:00:00",
-      "album": {
-        "name": "I'm Not A Boy",
-        "url": "https://open.spotify.com/album/6jrqRAx4Ojvr6xGd3bjxlh"
-      },
-      "artists": [
-        {
-          "name": "Tommi Aura",
-          "url": "https://open.spotify.com/artist/0RPos3j6vQijjlI0X17k88"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "I'm Not A Boy",
-      "url": "https://open.spotify.com/track/7GXkoQOJkiWngZMxEVb2pN"
     },
     {
       "added_at": "2024-01-17 05:00:00",
@@ -1447,22 +1607,6 @@
       "duration_ms": 177534,
       "name": "Sinister",
       "url": "https://open.spotify.com/track/5g3VLhRVLUpWJghanBJkMm"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
-        "name": "pure violence",
-        "url": "https://open.spotify.com/album/7fPsKJHOMQT11iNN2crFKu"
-      },
-      "artists": [
-        {
-          "name": "Ava Morse",
-          "url": "https://open.spotify.com/artist/5oPCa0GsQjPlRdOdFRoY6Z"
-        }
-      ],
-      "duration_ms": 168877,
-      "name": "pure violence",
-      "url": "https://open.spotify.com/track/4onRphOELkvQ04sPaPQ2Ut"
     }
   ],
   "unique_name": "Fresh Finds Pop",

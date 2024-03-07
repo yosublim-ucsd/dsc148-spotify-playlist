@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Omar Montes, Abraham Mateo",
-  "num_followers": 974540,
+  "num_followers": 974842,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjZiZGIzN2E5YmQ1Nzg3NDc1YjU1NjdmYjdhZmIzY2Q0OGZmNjA1",
+  "snapshot_id": "MCwwNzIzNTc5ODljOWM5ODE0YzcyNWVkOTRiZTE4ZDEzMDgwNDU2N2I0",
   "tracks": [
     {
       "added_at": "2024-03-04 15:44:33",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-03-04 15:44:33",
       "album": {
-        "name": "amor de verano",
-        "url": "https://open.spotify.com/album/0fQ4D10TqLArXAxdPRq1RG"
-      },
-      "artists": [
-        {
-          "name": "MARLENA",
-          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "amor de verano",
-      "url": "https://open.spotify.com/track/3ACVz5PwPN9P1PC6869Jn6"
-    },
-    {
-      "added_at": "2024-03-04 15:44:33",
-      "album": {
         "name": "Ester Exp\u00f3sito",
         "url": "https://open.spotify.com/album/0iVOSSLoiNqlqnaMAqe4Co"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 213205,
       "name": "Ester Exp\u00f3sito",
       "url": "https://open.spotify.com/track/4GKjSwmowWO082NGn11wNj"
+    },
+    {
+      "added_at": "2024-03-04 15:44:33",
+      "album": {
+        "name": "amor de verano",
+        "url": "https://open.spotify.com/album/0fQ4D10TqLArXAxdPRq1RG"
+      },
+      "artists": [
+        {
+          "name": "MARLENA",
+          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "amor de verano",
+      "url": "https://open.spotify.com/track/3ACVz5PwPN9P1PC6869Jn6"
     },
     {
       "added_at": "2024-03-04 15:44:33",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-03-04 15:44:33",
       "album": {
+        "name": "La Gata Bajo la Lluvia",
+        "url": "https://open.spotify.com/album/11nesNQ5Gd9bkt5iDXBidY"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "duration_ms": 222550,
+      "name": "La Gata Bajo la Lluvia",
+      "url": "https://open.spotify.com/track/14XWhFTOKNYtzQfVnXPcO1"
+    },
+    {
+      "added_at": "2024-03-04 15:44:33",
+      "album": {
         "name": "Puerta del Sol",
         "url": "https://open.spotify.com/album/0Feep6LUA5614f0kBIgLtU"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 193150,
       "name": "Puerta del Sol",
       "url": "https://open.spotify.com/track/13Cpy3Cl5f1K0VlNw0xPaT"
-    },
-    {
-      "added_at": "2024-03-04 15:44:33",
-      "album": {
-        "name": "La Gata Bajo la Lluvia",
-        "url": "https://open.spotify.com/album/11nesNQ5Gd9bkt5iDXBidY"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        }
-      ],
-      "duration_ms": 222550,
-      "name": "La Gata Bajo la Lluvia",
-      "url": "https://open.spotify.com/track/14XWhFTOKNYtzQfVnXPcO1"
     },
     {
       "added_at": "2024-03-04 15:44:33",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-03-04 15:44:33",
       "album": {
-        "name": "EL FORASTERO",
-        "url": "https://open.spotify.com/album/3L8AXncbQzk35NwewM00X7"
-      },
-      "artists": [
-        {
-          "name": "Marmi",
-          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
-        }
-      ],
-      "duration_ms": 163578,
-      "name": "EL FORASTERO",
-      "url": "https://open.spotify.com/track/1W4IXAf9YN7FOsdycfu7j8"
-    },
-    {
-      "added_at": "2024-03-04 15:44:33",
-      "album": {
         "name": "Gigante",
         "url": "https://open.spotify.com/album/3ZSEujqEgBhdkqTLtH3Izs"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 176460,
       "name": "No s\u00e9 si t\u00fa",
       "url": "https://open.spotify.com/track/7MsNwNgk8vflVpUITIJRpd"
+    },
+    {
+      "added_at": "2024-03-04 15:44:33",
+      "album": {
+        "name": "EL FORASTERO",
+        "url": "https://open.spotify.com/album/3L8AXncbQzk35NwewM00X7"
+      },
+      "artists": [
+        {
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
+        }
+      ],
+      "duration_ms": 163578,
+      "name": "EL FORASTERO",
+      "url": "https://open.spotify.com/track/1W4IXAf9YN7FOsdycfu7j8"
     },
     {
       "added_at": "2024-03-04 15:44:33",

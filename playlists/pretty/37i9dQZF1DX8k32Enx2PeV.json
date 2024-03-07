@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 9622,
+  "num_followers": 9641,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NGZlMzNjYTBlYzQ5Njk1MzI1NGFkNmRmNzcxYWQwYTc1ODAwNDE0",
+  "snapshot_id": "MCw2NTBiMjkxODc3ZjI2NGQ5OWJhZjIzODFmYTAxMDM2ZjVhZGRiYmI5",
   "tracks": [
     {
       "added_at": "2023-09-22 05:25:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "Carita Feliz | Carita Triste (Deluxe)",
-        "url": "https://open.spotify.com/album/5Bk9I9wmvglASEK0yJDIqJ"
-      },
-      "artists": [
-        {
-          "name": "Anakena",
-          "url": "https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo"
-        }
-      ],
-      "duration_ms": 175405,
-      "name": "RELA",
-      "url": "https://open.spotify.com/track/1D0WGWoxhwaeGfxWiRt1sw"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "Casa en el \u00e1rbol",
         "url": "https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 219807,
       "name": "Casa en el \u00e1rbol",
       "url": "https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "Carita Feliz | Carita Triste (Deluxe)",
+        "url": "https://open.spotify.com/album/5Bk9I9wmvglASEK0yJDIqJ"
+      },
+      "artists": [
+        {
+          "name": "Anakena",
+          "url": "https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo"
+        }
+      ],
+      "duration_ms": 175405,
+      "name": "RELA",
+      "url": "https://open.spotify.com/track/1D0WGWoxhwaeGfxWiRt1sw"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -603,26 +603,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "Agujas en el pecho",
-        "url": "https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        },
-        {
-          "name": "Catalina Garc\u00eda",
-          "url": "https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY"
-        }
-      ],
-      "duration_ms": 320682,
-      "name": "Agujas en el pecho",
-      "url": "https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "Quiromancia",
         "url": "https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 256847,
       "name": "Quiromancia (feat. Vic Mirallas)",
       "url": "https://open.spotify.com/track/1FjvS0Xoqcvo6DG3Dn8E8a"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "Agujas en el pecho",
+        "url": "https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        },
+        {
+          "name": "Catalina Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY"
+        }
+      ],
+      "duration_ms": 320682,
+      "name": "Agujas en el pecho",
+      "url": "https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
+        "name": "Entre Bacaner\u00eda y Barbarie",
+        "url": "https://open.spotify.com/album/4l94tB5FUn0iUYDNIgmypU"
+      },
+      "artists": [
+        {
+          "name": "Masilva",
+          "url": "https://open.spotify.com/artist/4FOrNtZ9q20zjb8O9pY8WK"
+        }
+      ],
+      "duration_ms": 255198,
+      "name": "Aguaepanela Fant\u00e1stica",
+      "url": "https://open.spotify.com/track/3gTZmynwI06fQJHhvr0P2E"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
         "name": "Caribe\u00f1a",
         "url": "https://open.spotify.com/album/6pqif5AJYmhoYERQhbHVyM"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 191141,
       "name": "Caribe\u00f1a",
       "url": "https://open.spotify.com/track/4N4STDrAmiZoVLVFGwDXp3"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
-        "name": "Entre Bacaner\u00eda y Barbarie",
-        "url": "https://open.spotify.com/album/4l94tB5FUn0iUYDNIgmypU"
-      },
-      "artists": [
-        {
-          "name": "Masilva",
-          "url": "https://open.spotify.com/artist/4FOrNtZ9q20zjb8O9pY8WK"
-        }
-      ],
-      "duration_ms": 255198,
-      "name": "Aguaepanela Fant\u00e1stica",
-      "url": "https://open.spotify.com/track/3gTZmynwI06fQJHhvr0P2E"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "Guarever",
-        "url": "https://open.spotify.com/album/27laC01FYhhSgAdOCdZEdF"
-      },
-      "artists": [
-        {
-          "name": "Aguas Ardientes",
-          "url": "https://open.spotify.com/artist/1eAywdgupRbvrEXW2PCzAc"
-        }
-      ],
-      "duration_ms": 257009,
-      "name": "No Hay Luka",
-      "url": "https://open.spotify.com/track/55i7dPL0vhXBePs1c6Isbh"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "Dale Mel\u00f3n",
         "url": "https://open.spotify.com/album/4JaUBwYHmzxxqTiC7WOFJg"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 260678,
       "name": "Dale Mel\u00f3n",
       "url": "https://open.spotify.com/track/6N5InQVKjsRlof8moRIv5I"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "Guarever",
+        "url": "https://open.spotify.com/album/27laC01FYhhSgAdOCdZEdF"
+      },
+      "artists": [
+        {
+          "name": "Aguas Ardientes",
+          "url": "https://open.spotify.com/artist/1eAywdgupRbvrEXW2PCzAc"
+        }
+      ],
+      "duration_ms": 257009,
+      "name": "No Hay Luka",
+      "url": "https://open.spotify.com/track/55i7dPL0vhXBePs1c6Isbh"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "Rumbo a Tiera",
-        "url": "https://open.spotify.com/album/3ly8UdrXp9i8tlOiRft6We"
-      },
-      "artists": [
-        {
-          "name": "Systema Solar",
-          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
-        }
-      ],
-      "duration_ms": 212946,
-      "name": "Tumbamurallas",
-      "url": "https://open.spotify.com/track/2IkCZUGLS7o2tkocsMNgC9"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "Ese Dinero",
         "url": "https://open.spotify.com/album/4AqhwZMcqqb0qv2eh79AFT"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 238648,
       "name": "Ese Dinero",
       "url": "https://open.spotify.com/track/1OZnwe4IGv3hmNeZ9x6r5F"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "Rumbo a Tiera",
+        "url": "https://open.spotify.com/album/3ly8UdrXp9i8tlOiRft6We"
+      },
+      "artists": [
+        {
+          "name": "Systema Solar",
+          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
+        }
+      ],
+      "duration_ms": 212946,
+      "name": "Tumbamurallas",
+      "url": "https://open.spotify.com/track/2IkCZUGLS7o2tkocsMNgC9"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
+        "name": "Calz\u00f3n",
+        "url": "https://open.spotify.com/album/3yQqrMWyx1WNXtc6aLmYS7"
+      },
+      "artists": [
+        {
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+        }
+      ],
+      "duration_ms": 231828,
+      "name": "Calz\u00f3n",
+      "url": "https://open.spotify.com/track/5nWQMUhXnjl4yAyYG1ZMLs"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
         "name": "Mudanza",
         "url": "https://open.spotify.com/album/2hIMvD6GSJJskCPeeZZhOt"
       },
@@ -1183,18 +1199,18 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "Calz\u00f3n",
-        "url": "https://open.spotify.com/album/3yQqrMWyx1WNXtc6aLmYS7"
+        "name": "Camino al Mar",
+        "url": "https://open.spotify.com/album/20jmEAKKemowX8dH6dRNXt"
       },
       "artists": [
         {
-          "name": "Lorena Blume",
-          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+          "name": "Acid Coco",
+          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
         }
       ],
-      "duration_ms": 231828,
-      "name": "Calz\u00f3n",
-      "url": "https://open.spotify.com/track/5nWQMUhXnjl4yAyYG1ZMLs"
+      "duration_ms": 215280,
+      "name": "Soy la Fuerza",
+      "url": "https://open.spotify.com/track/1dLUGmTp8Fy9Sl0p2Tn7T1"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -1215,22 +1231,6 @@
       "duration_ms": 211891,
       "name": "Tierra de Promesas (Sierra Nevada)",
       "url": "https://open.spotify.com/track/3ev9a5BsLouEwswQ9IOXtC"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
-        "name": "Camino al Mar",
-        "url": "https://open.spotify.com/album/20jmEAKKemowX8dH6dRNXt"
-      },
-      "artists": [
-        {
-          "name": "Acid Coco",
-          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
-        }
-      ],
-      "duration_ms": 215280,
-      "name": "Soy la Fuerza",
-      "url": "https://open.spotify.com/track/1dLUGmTp8Fy9Sl0p2Tn7T1"
     },
     {
       "added_at": "2023-09-22 05:25:00",

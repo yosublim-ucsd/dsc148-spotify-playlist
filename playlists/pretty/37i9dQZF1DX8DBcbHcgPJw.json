@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: LiL CaKe.",
-  "num_followers": 1188466,
+  "num_followers": 1188504,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjQyMWFjOTIxYmE5ZGE3NGJjZTZjZmIzNDgzOGZkNDMyNmFlN2I4",
+  "snapshot_id": "MCxkMWZhMTUwMWZlNDEyNThmNzk3MGY0ZTM4ZWExZTFjMTJkODM0MjBi",
   "tracks": [
     {
       "added_at": "2024-03-01 03:00:00",
@@ -1023,42 +1023,6 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
-        "name": "NO VUELVO A CAER",
-        "url": "https://open.spotify.com/album/43UowDzr6bGW5PT5gMyu7Y"
-      },
-      "artists": [
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "NO VUELVO A CAER",
-      "url": "https://open.spotify.com/track/71mPUsIl4zcHwiJKYB24op"
-    },
-    {
-      "added_at": "2024-03-01 03:00:00",
-      "album": {
-        "name": "POR QU\u00c9 LLORAS?",
-        "url": "https://open.spotify.com/album/0ieBrw81xJrvEU0WPenN7s"
-      },
-      "artists": [
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        },
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        }
-      ],
-      "duration_ms": 153876,
-      "name": "POR QU\u00c9 LLORAS?",
-      "url": "https://open.spotify.com/track/0zY9gEaGRD9aIG0qZwgEDp"
-    },
-    {
-      "added_at": "2024-03-01 03:00:00",
-      "album": {
         "name": "Sin Valent\u00edn",
         "url": "https://open.spotify.com/album/1ZPwG0m0QpSpsPKcmqAJdj"
       },
@@ -1099,6 +1063,66 @@
       "duration_ms": 312512,
       "name": "Amor (Ft. Mon Laferte) - MTV Unplugged",
       "url": "https://open.spotify.com/track/1QjfU3jkGInap7Vm9lVJIQ"
+    },
+    {
+      "added_at": "2024-03-01 03:00:00",
+      "album": {
+        "name": "POR QU\u00c9 LLORAS?",
+        "url": "https://open.spotify.com/album/0ieBrw81xJrvEU0WPenN7s"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        }
+      ],
+      "duration_ms": 153876,
+      "name": "POR QU\u00c9 LLORAS?",
+      "url": "https://open.spotify.com/track/0zY9gEaGRD9aIG0qZwgEDp"
+    },
+    {
+      "added_at": "2024-03-01 03:00:00",
+      "album": {
+        "name": "No Voy a Llorar Por Ti",
+        "url": "https://open.spotify.com/album/3YqBaqFPU0xKayjv6ZIThM"
+      },
+      "artists": [
+        {
+          "name": "Ian Lucas",
+          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
+        },
+        {
+          "name": "Fede Vigevani",
+          "url": "https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr"
+        },
+        {
+          "name": "Milthon",
+          "url": "https://open.spotify.com/artist/6gIF4fABYGdlhkCP8C22MK"
+        }
+      ],
+      "duration_ms": 156490,
+      "name": "No Voy a Llorar Por Ti",
+      "url": "https://open.spotify.com/track/30m4XdJm15IdPPKEbYl5GM"
+    },
+    {
+      "added_at": "2024-03-01 03:00:00",
+      "album": {
+        "name": "NO VUELVO A CAER",
+        "url": "https://open.spotify.com/album/43UowDzr6bGW5PT5gMyu7Y"
+      },
+      "artists": [
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "NO VUELVO A CAER",
+      "url": "https://open.spotify.com/track/71mPUsIl4zcHwiJKYB24op"
     },
     {
       "added_at": "2024-03-01 03:00:00",
@@ -1155,30 +1179,6 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
-        "name": "No Voy a Llorar Por Ti",
-        "url": "https://open.spotify.com/album/3YqBaqFPU0xKayjv6ZIThM"
-      },
-      "artists": [
-        {
-          "name": "Ian Lucas",
-          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
-        },
-        {
-          "name": "Fede Vigevani",
-          "url": "https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr"
-        },
-        {
-          "name": "Milthon",
-          "url": "https://open.spotify.com/artist/6gIF4fABYGdlhkCP8C22MK"
-        }
-      ],
-      "duration_ms": 156490,
-      "name": "No Voy a Llorar Por Ti",
-      "url": "https://open.spotify.com/track/30m4XdJm15IdPPKEbYl5GM"
-    },
-    {
-      "added_at": "2024-03-01 03:00:00",
-      "album": {
         "name": "Verano 2024",
         "url": "https://open.spotify.com/album/1rEHJwwb30B6DfAotpO4Lq"
       },
@@ -1231,22 +1231,6 @@
       "duration_ms": 199495,
       "name": "La Noche No Es para Dormir",
       "url": "https://open.spotify.com/track/07ZHn1csuJvAQAZiYFds12"
-    },
-    {
-      "added_at": "2024-03-01 03:00:00",
-      "album": {
-        "name": "Un Mont\u00f3n de Estrellas (En Vivo Gran Rex)",
-        "url": "https://open.spotify.com/album/26n9BrsrguZZFxxLruIgNR"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 165326,
-      "name": "Un Mont\u00f3n de Estrellas - En Vivo Gran Rex",
-      "url": "https://open.spotify.com/track/555Op74S64KmntebD6O3wa"
     },
     {
       "added_at": "2024-03-01 03:00:00",
@@ -1331,18 +1315,18 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
-        "name": "Me Declaro Culpable",
-        "url": "https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn"
+        "name": "Un Mont\u00f3n de Estrellas (En Vivo Gran Rex)",
+        "url": "https://open.spotify.com/album/26n9BrsrguZZFxxLruIgNR"
       },
       "artists": [
         {
-          "name": "Nene Malo",
-          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
         }
       ],
-      "duration_ms": 178573,
-      "name": "Bailan Rochas y Chetas",
-      "url": "https://open.spotify.com/track/3lC4mM6NiSLttfYTv1HTNQ"
+      "duration_ms": 165326,
+      "name": "Un Mont\u00f3n de Estrellas - En Vivo Gran Rex",
+      "url": "https://open.spotify.com/track/555Op74S64KmntebD6O3wa"
     },
     {
       "added_at": "2024-03-01 03:00:00",
@@ -1379,6 +1363,22 @@
       "duration_ms": 149160,
       "name": "Hasta la luna",
       "url": "https://open.spotify.com/track/1A3yLIqelu1D7MCtw06Cu7"
+    },
+    {
+      "added_at": "2024-03-01 03:00:00",
+      "album": {
+        "name": "Me Declaro Culpable",
+        "url": "https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn"
+      },
+      "artists": [
+        {
+          "name": "Nene Malo",
+          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
+        }
+      ],
+      "duration_ms": 178573,
+      "name": "Bailan Rochas y Chetas",
+      "url": "https://open.spotify.com/track/3lC4mM6NiSLttfYTv1HTNQ"
     },
     {
       "added_at": "2024-03-01 03:00:00",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
+        "name": "El Otro",
+        "url": "https://open.spotify.com/album/6swPfLunPCGK1WcmMML99p"
+      },
+      "artists": [
+        {
+          "name": "Chano",
+          "url": "https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM"
+        }
+      ],
+      "duration_ms": 190813,
+      "name": "Carnavalintro",
+      "url": "https://open.spotify.com/track/6XxIFsqBxiUct0UK7deoJ0"
+    },
+    {
+      "added_at": "2024-03-01 03:00:00",
+      "album": {
         "name": "No Se Va",
         "url": "https://open.spotify.com/album/1qYntEy4y4mTAisca3zseT"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 201804,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/0kS31L4yk4ZpSCvvwyZ6T3"
-    },
-    {
-      "added_at": "2024-03-01 03:00:00",
-      "album": {
-        "name": "El Otro",
-        "url": "https://open.spotify.com/album/6swPfLunPCGK1WcmMML99p"
-      },
-      "artists": [
-        {
-          "name": "Chano",
-          "url": "https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM"
-        }
-      ],
-      "duration_ms": 190813,
-      "name": "Carnavalintro",
-      "url": "https://open.spotify.com/track/6XxIFsqBxiUct0UK7deoJ0"
     },
     {
       "added_at": "2024-03-01 03:00:00",
@@ -1723,26 +1723,22 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
-        "name": "Se Pic\u00f3",
-        "url": "https://open.spotify.com/album/6ohNtR3J1yNw2Cs7zFYZfN"
+        "name": "Hipnotizados",
+        "url": "https://open.spotify.com/album/0vucmhfLxNOc87TDZydaI7"
       },
       "artists": [
         {
-          "name": "#TocoParaVos",
-          "url": "https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES"
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
         },
         {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
-        },
-        {
-          "name": "Marka Akme",
-          "url": "https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf"
+          "name": "La China",
+          "url": "https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO"
         }
       ],
-      "duration_ms": 139430,
-      "name": "Se Pic\u00f3",
-      "url": "https://open.spotify.com/track/2VnNaJFGInEJ0R5GkSQ7IP"
+      "duration_ms": 142840,
+      "name": "Hipnotizados",
+      "url": "https://open.spotify.com/track/2t88IEEgCkZr9OQHOrOr3j"
     },
     {
       "added_at": "2024-03-01 03:00:00",
@@ -1763,22 +1759,26 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
-        "name": "Hipnotizados",
-        "url": "https://open.spotify.com/album/0vucmhfLxNOc87TDZydaI7"
+        "name": "Se Pic\u00f3",
+        "url": "https://open.spotify.com/album/6ohNtR3J1yNw2Cs7zFYZfN"
       },
       "artists": [
         {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+          "name": "#TocoParaVos",
+          "url": "https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES"
         },
         {
-          "name": "La China",
-          "url": "https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO"
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        },
+        {
+          "name": "Marka Akme",
+          "url": "https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf"
         }
       ],
-      "duration_ms": 142840,
-      "name": "Hipnotizados",
-      "url": "https://open.spotify.com/track/2t88IEEgCkZr9OQHOrOr3j"
+      "duration_ms": 139430,
+      "name": "Se Pic\u00f3",
+      "url": "https://open.spotify.com/track/2VnNaJFGInEJ0R5GkSQ7IP"
     },
     {
       "added_at": "2024-03-01 03:00:00",
@@ -1959,6 +1959,22 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
+        "name": "C14TORCE V: Balada para un Alien",
+        "url": "https://open.spotify.com/album/5YeW5QRGlSSh1kaRSzx9vO"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 170146,
+      "name": "C14TORCE V: Balada para un Alien",
+      "url": "https://open.spotify.com/track/5Su5ATMfJpNlP9N5sfhuZu"
+    },
+    {
+      "added_at": "2024-03-01 03:00:00",
+      "album": {
         "name": "Pastillitas Pal Olvido",
         "url": "https://open.spotify.com/album/4asUUGlYirr2pu5KjjDxFf"
       },
@@ -1979,22 +1995,6 @@
       "duration_ms": 165262,
       "name": "Pastillitas Pal Olvido",
       "url": "https://open.spotify.com/track/1tj0RZaEzgvV6ZqAeOE18H"
-    },
-    {
-      "added_at": "2024-03-01 03:00:00",
-      "album": {
-        "name": "C14TORCE V: Balada para un Alien",
-        "url": "https://open.spotify.com/album/5YeW5QRGlSSh1kaRSzx9vO"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 170146,
-      "name": "C14TORCE V: Balada para un Alien",
-      "url": "https://open.spotify.com/track/5Su5ATMfJpNlP9N5sfhuZu"
     },
     {
       "added_at": "2024-03-01 03:00:00",
@@ -2027,18 +2027,18 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
-        "name": "Ya No M\u00e1s",
-        "url": "https://open.spotify.com/album/1SnDAxojz0thet0EtNwP7e"
+        "name": "CUMBIA DE BARRIO",
+        "url": "https://open.spotify.com/album/3ULiklyFhamKh3S2B9zwbZ"
       },
       "artists": [
         {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
         }
       ],
-      "duration_ms": 140426,
-      "name": "Ya No M\u00e1s",
-      "url": "https://open.spotify.com/track/1NMPzsPosYJD13wunBmEAH"
+      "duration_ms": 181354,
+      "name": "CUMBIA DE BARRIO",
+      "url": "https://open.spotify.com/track/2Q60P16hfjLGb8SbQbDt16"
     }
   ],
   "unique_name": "Dame M\u00e1s Cumbia",

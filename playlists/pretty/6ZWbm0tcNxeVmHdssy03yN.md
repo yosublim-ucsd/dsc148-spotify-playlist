@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 40,292 likes - 91 songs - 4 hr 36 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 40,336 likes - 91 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 14 | [Fuck U Up](https://open.spotify.com/track/3QC6jO6kFjGEA2s9kH0OEz) | [EMI](https://open.spotify.com/artist/1PwVn639uS6OI0O2G74pAo) | [Fuck U Up](https://open.spotify.com/album/0TJUMJJTQhnYK2c9bD5szu) | 2:32 |
 | 15 | [Sofa Surfin](https://open.spotify.com/track/0LAJOsbIB6EJV6FCuDl5V6) | [Country Dons](https://open.spotify.com/artist/76IdLCK81jcB44BTCgR7Vx) | [Sofa Surfin](https://open.spotify.com/album/55r0iFzk16Rhk1aD77ndWE) | 3:12 |
 | 16 | [JACKAL](https://open.spotify.com/track/20CphACFd4xAZHmXXJPhcj) | [LXSTBØY](https://open.spotify.com/artist/04f7oedbbC2KFDfqt8tGX5) | [JACKAL](https://open.spotify.com/album/5oaQ34IWS9fqR0q6L30pf2) | 2:51 |
-| 17 | [Anything You Can Do..](https://open.spotify.com/track/6NRLbih8yvFPwwkaEpBuim) | [re'mi](https://open.spotify.com/artist/3b9VVrJfw8sLw7Qok1Ja5Y) | [Anything You Can Do..](https://open.spotify.com/album/6DPnqW4lgyXT0TtgJzIpAg) | 0:44 |
+| 17 | [Anything You Can Do...](https://open.spotify.com/track/6NRLbih8yvFPwwkaEpBuim) | [re'mi](https://open.spotify.com/artist/3b9VVrJfw8sLw7Qok1Ja5Y) | [Anything You Can Do...](https://open.spotify.com/album/6DPnqW4lgyXT0TtgJzIpAg) | 0:44 |
 | 18 | [Tried So Hard](https://open.spotify.com/track/4r1xQ0GTLDXSYdKXme91bj) | [Youngr](https://open.spotify.com/artist/5TrkbV9x6OdTBlzWPJeBz5) | [Tried So Hard](https://open.spotify.com/album/4J0xQrJ6To6po0WpYQYgC4) | 4:37 |
 | 19 | [RS \(Kings\)](https://open.spotify.com/track/4FGRT8PmYDZKsv0iXWrFPY) | [Ruff Sqwad](https://open.spotify.com/artist/67POQUr9E4V8GpQxqQ5d8I), [Slix Fleeingham](https://open.spotify.com/artist/5ihBPW23HnFUVWtVji9NMX), [David is a King](https://open.spotify.com/artist/1kC8sur68mdIaGmIsNSkpg), [Prince Rapid](https://open.spotify.com/artist/2TXRnXZhUEEtzHqOkFDGvX) | [Flee FM](https://open.spotify.com/album/00eJkTHCK9cBSHxHzmfp1z) | 2:52 |
 | 20 | [Take It Off](https://open.spotify.com/track/5wZ38qRpGS9eWuFcBmb4O3) | [L\-Vis 1990](https://open.spotify.com/artist/3Av5YRDWBegMumHlMOIa91) | [Take It Off](https://open.spotify.com/album/6yoIker9nl945ueUNVDc4P) | 3:41 |

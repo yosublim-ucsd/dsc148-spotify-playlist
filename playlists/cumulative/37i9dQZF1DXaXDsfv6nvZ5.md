@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-447 songs - 1 day 3 hr 8 min
+448 songs - 1 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,7 @@
 | [Love Is The Way](https://open.spotify.com/track/1CKfCj9izL24zGTrO6QTFE) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Love Is The Way](https://open.spotify.com/album/63VRCc7KmT6zhL9BiGluQ0) | 2:59 | 2022-10-21 | 2023-10-07 |
 | [Love Is The Way](https://open.spotify.com/track/4Z0aGS1P0KxyPlBpqHpJ0F) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Love Is The Way](https://open.spotify.com/album/1WiszSvpOFgvxk1d0pCFMw) | 2:59 | 2022-10-21 | 2023-04-30 |
 | [Love Is U](https://open.spotify.com/track/5uYQczKz44pYSF30aoIcbu) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [On God](https://open.spotify.com/album/5KxhSruFQfuYTdlInBAlbd) | 3:28 | 2024-02-09 |  |
-| [Love Me Down](https://open.spotify.com/track/50dMlZYLpRrPjiaaik0PVp) | [LA'DY](https://open.spotify.com/artist/5b0jEo4I7GhpkpINczgE0E) | [Love Me Down](https://open.spotify.com/album/4H8cNDBzIJG4CjkaWC8aCx) | 2:52 | 2023-05-12 |  |
+| [Love Me Down](https://open.spotify.com/track/50dMlZYLpRrPjiaaik0PVp) | [LA'DY](https://open.spotify.com/artist/5b0jEo4I7GhpkpINczgE0E) | [Love Me Down](https://open.spotify.com/album/4H8cNDBzIJG4CjkaWC8aCx) | 2:52 | 2023-05-12 | 2024-03-07 |
 | [Love On You](https://open.spotify.com/track/0mBX1jSxAQbOlfSWgZlL0I) | [Tiffany Gouché](https://open.spotify.com/artist/2IEnjZsVDEPKUTxNinyqba) | [The Found Album](https://open.spotify.com/album/4pRSg1bpkomA4aSn9EIxfx) | 4:10 | 2023-06-16 | 2023-10-21 |
 | [Love Transaction](https://open.spotify.com/track/5Mll0PxRbSNzzrpcbD7WdO) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Love Transaction](https://open.spotify.com/album/3luwfFcfzzCsbxDI6WYxP1) | 5:19 | 2023-09-01 | 2023-09-14 |
 | [Love, Love, Love](https://open.spotify.com/track/3Tc6dHggtSaZqlKRhzkeub) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Never My Love: The Anthology](https://open.spotify.com/album/4kINvyMdIqyuXAtpoCKGIO) | 3:24 | 2021-12-03 | 2022-09-24 |
@@ -445,6 +445,7 @@
 | [When I'm in Your Arms](https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 5:35 | 2022-10-03 |  |
 | [When You Were Mine](https://open.spotify.com/track/3zSwFE91EdwhEwS6vnJohB) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:23 | 2021-12-03 | 2023-04-01 |
 | [Where Do We Go](https://open.spotify.com/track/6fEPi1QSs4y0AXc2NqxsK5) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Where Do We Go](https://open.spotify.com/album/3hitxecfhBZ4UFBgDdRCLi) | 4:59 | 2024-01-19 |  |
+| [Where Have I Been?](https://open.spotify.com/track/7LJDu7j29gWGyM1R2c224J) | [Jade Novah](https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K) | [Where Have I Been?](https://open.spotify.com/album/5ARvrX3Ec7G4vMp5cpeNoH) | 3:44 | 2024-03-01 |  |
 | [Why \(Spare Me Tears\)](https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Why \(Spare Me Tears\)](https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM) | 3:25 | 2022-11-04 |  |
 | [Witchcraft \(feat\. Robert Glasper\)](https://open.spotify.com/track/054t6thgnLVbbqXPImfCEd) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Nova](https://open.spotify.com/album/2Qy4QNhNYvh88m2nKBdh79) | 4:53 | 2023-08-25 | 2023-11-06 |
 | [Witchcraft \(feat\. Robert Glasper\)](https://open.spotify.com/track/4Itbv26vt7dWj8cdGcxvq4) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Nova](https://open.spotify.com/album/4mAaeqc5N8tso7xNVbQjHF) | 4:53 | 2023-08-25 | 2024-03-04 |

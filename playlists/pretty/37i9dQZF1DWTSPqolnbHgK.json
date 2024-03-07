@@ -1,12 +1,12 @@
 {
   "description": "With autumn comes darker days and colder weather.",
-  "num_followers": 56966,
+  "num_followers": 56963,
   "original_name": "Autumn Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzU5Mzg5N2Y3MTgxZWY2NGYzNGQ5NDA1OTg0MTFlMTM5ZGZiOTcw",
+  "snapshot_id": "MCw4N2E5NmJmMmU4ZWY5Y2NhODZiZTJiODYzODQ4YmM5NmI5MzlhZjc5",
   "tracks": [
     {
       "added_at": "2022-09-27 09:04:29",
@@ -92,17 +92,25 @@
       "added_at": "2022-09-27 09:04:29",
       "album": {
         "name": "Release",
-        "url": "https://open.spotify.com/album/1qZ5mnvaYGt30bEo63Htn0"
+        "url": "https://open.spotify.com/album/3p8mpLueP5eLxWxBuGYw1V"
       },
       "artists": [
         {
           "name": "Random Rab",
           "url": "https://open.spotify.com/artist/4w8MWlPCLi8uZRkCMyrtCO"
+        },
+        {
+          "name": "Jamie Janover",
+          "url": "https://open.spotify.com/artist/5wVZG2JBp9jPBqh8pFQ69Y"
+        },
+        {
+          "name": "D.V.S*",
+          "url": "https://open.spotify.com/artist/5205s7O2uBpVggPfzdnT89"
         }
       ],
-      "duration_ms": 385693,
+      "duration_ms": 385694,
       "name": "Blast Off",
-      "url": "https://open.spotify.com/track/2ytaqTjaDdJljeFgU2YEsm"
+      "url": "https://open.spotify.com/track/3NyvZd60wMyJz46AYnEtDR"
     },
     {
       "added_at": "2022-09-27 09:04:29",

@@ -1,12 +1,12 @@
 {
   "description": "pop punk, emo, post-hardcore, alt, & more. Cover: Belmont",
-  "num_followers": 454330,
+  "num_followers": 454382,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjY1MGM5YzgzMDVmZWMxYWFiNGQyY2ExMDc4ODFjNzVjNmU4ZjI0",
+  "snapshot_id": "MCw1N2E5ZTlmOGEzZTUwNTNiNGI4ZmVlNWFiYzI2OGExODIzZjE4OTFj",
   "tracks": [
     {
       "added_at": "2024-03-01 16:39:44",
@@ -963,18 +963,22 @@
     {
       "added_at": "2024-03-01 16:39:44",
       "album": {
-        "name": "Friends With Benefits",
-        "url": "https://open.spotify.com/album/1V6UogSpYpLE8XYmCdjR5N"
+        "name": "in loving memory",
+        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
       },
       "artists": [
         {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        },
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 187322,
-      "name": "Friends With Benefits",
-      "url": "https://open.spotify.com/track/3cubovyBMABNcWzSdbzMTP"
+      "duration_ms": 191559,
+      "name": "toxic energy (with Bert McCracken of The Used)",
+      "url": "https://open.spotify.com/track/01tEAvdPLPREA9JT9Wpb26"
     },
     {
       "added_at": "2024-03-01 16:39:44",
@@ -995,22 +999,18 @@
     {
       "added_at": "2024-03-01 16:39:44",
       "album": {
-        "name": "in loving memory",
-        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
+        "name": "Friends With Benefits",
+        "url": "https://open.spotify.com/album/1V6UogSpYpLE8XYmCdjR5N"
       },
       "artists": [
         {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        },
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
         }
       ],
-      "duration_ms": 191559,
-      "name": "toxic energy (with Bert McCracken of The Used)",
-      "url": "https://open.spotify.com/track/01tEAvdPLPREA9JT9Wpb26"
+      "duration_ms": 187322,
+      "name": "Friends With Benefits",
+      "url": "https://open.spotify.com/track/3cubovyBMABNcWzSdbzMTP"
     },
     {
       "added_at": "2024-03-01 16:39:44",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2024-03-01 16:39:44",
       "album": {
+        "name": "Sixteen",
+        "url": "https://open.spotify.com/album/71jVpE2XmMErw3Ef45xrOY"
+      },
+      "artists": [
+        {
+          "name": "La Dispute",
+          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
+        }
+      ],
+      "duration_ms": 224899,
+      "name": "Sixteen",
+      "url": "https://open.spotify.com/track/4FmRAiDgkm7KxzZM64406E"
+    },
+    {
+      "added_at": "2024-03-01 16:39:44",
+      "album": {
         "name": "Hot Mess",
         "url": "https://open.spotify.com/album/7ClrTYF8GSAZUTOppk25dm"
       },
@@ -1371,22 +1387,6 @@
     {
       "added_at": "2024-03-01 16:39:44",
       "album": {
-        "name": "Sixteen",
-        "url": "https://open.spotify.com/album/71jVpE2XmMErw3Ef45xrOY"
-      },
-      "artists": [
-        {
-          "name": "La Dispute",
-          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
-        }
-      ],
-      "duration_ms": 224899,
-      "name": "Sixteen",
-      "url": "https://open.spotify.com/track/4FmRAiDgkm7KxzZM64406E"
-    },
-    {
-      "added_at": "2024-03-01 16:39:44",
-      "album": {
         "name": "Last Day On Earth",
         "url": "https://open.spotify.com/album/6VrEbRbjgxP3dDYzDUv5l1"
       },
@@ -1403,22 +1403,6 @@
       "duration_ms": 138086,
       "name": "Shooting Star (feat. Sum 41)",
       "url": "https://open.spotify.com/track/65o2S5n0p31DTFtUzA1i1X"
-    },
-    {
-      "added_at": "2024-03-01 16:39:44",
-      "album": {
-        "name": "Misery Made Me",
-        "url": "https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 173600,
-      "name": "Ultraviolet",
-      "url": "https://open.spotify.com/track/3dCcOPAudQPazNNsHXA4kt"
     },
     {
       "added_at": "2024-03-01 16:39:44",
@@ -1443,6 +1427,22 @@
     {
       "added_at": "2024-03-01 16:39:44",
       "album": {
+        "name": "Misery Made Me",
+        "url": "https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 173600,
+      "name": "Ultraviolet",
+      "url": "https://open.spotify.com/track/3dCcOPAudQPazNNsHXA4kt"
+    },
+    {
+      "added_at": "2024-03-01 16:39:44",
+      "album": {
         "name": "Circling the Drain",
         "url": "https://open.spotify.com/album/4qX60Bh8duOt4rWkZ3oK2g"
       },
@@ -1455,22 +1455,6 @@
       "duration_ms": 229192,
       "name": "Circling the Drain",
       "url": "https://open.spotify.com/track/5HNNu02Psy9WwWNuNlLlie"
-    },
-    {
-      "added_at": "2024-03-01 16:39:44",
-      "album": {
-        "name": "The Fullness of My Being",
-        "url": "https://open.spotify.com/album/5O5I2tWrenrKwPBkC0yhA3"
-      },
-      "artists": [
-        {
-          "name": "Being As An Ocean",
-          "url": "https://open.spotify.com/artist/7ML9AQvVVE3c5m0sx1PlmP"
-        }
-      ],
-      "duration_ms": 218311,
-      "name": "The Fullness of My Being",
-      "url": "https://open.spotify.com/track/6bezTpt9QKbnxqqdDsRE1o"
     },
     {
       "added_at": "2024-03-01 16:39:44",
@@ -1491,6 +1475,22 @@
     {
       "added_at": "2024-03-01 16:39:44",
       "album": {
+        "name": "The Fullness of My Being",
+        "url": "https://open.spotify.com/album/5O5I2tWrenrKwPBkC0yhA3"
+      },
+      "artists": [
+        {
+          "name": "Being As An Ocean",
+          "url": "https://open.spotify.com/artist/7ML9AQvVVE3c5m0sx1PlmP"
+        }
+      ],
+      "duration_ms": 218311,
+      "name": "The Fullness of My Being",
+      "url": "https://open.spotify.com/track/6bezTpt9QKbnxqqdDsRE1o"
+    },
+    {
+      "added_at": "2024-03-01 16:39:44",
+      "album": {
         "name": "Join The Club",
         "url": "https://open.spotify.com/album/45XFiYaalYoNTcM5Kb4IXW"
       },
@@ -1503,6 +1503,22 @@
       "duration_ms": 185294,
       "name": "Carousel",
       "url": "https://open.spotify.com/track/0kNU85u2uCl9k9zAJLfo9T"
+    },
+    {
+      "added_at": "2024-03-01 16:39:44",
+      "album": {
+        "name": "Secondary Worship",
+        "url": "https://open.spotify.com/album/7DL6CtEvsTtgX0C8MxmOWt"
+      },
+      "artists": [
+        {
+          "name": "Hail The Sun",
+          "url": "https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6"
+        }
+      ],
+      "duration_ms": 226903,
+      "name": "Secondary Worship",
+      "url": "https://open.spotify.com/track/4ypkMHJBXRdaaWdqwjixFc"
     },
     {
       "added_at": "2024-03-01 16:39:44",
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2024-03-01 16:39:44",
       "album": {
-        "name": "Swing and Sway",
-        "url": "https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW"
-      },
-      "artists": [
-        {
-          "name": "Greywind",
-          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
-        }
-      ],
-      "duration_ms": 178253,
-      "name": "Swing and Sway",
-      "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
-    },
-    {
-      "added_at": "2024-03-01 16:39:44",
-      "album": {
         "name": "Alameda County Fair",
         "url": "https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P"
       },
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2024-03-01 16:39:44",
       "album": {
+        "name": "Swing and Sway",
+        "url": "https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW"
+      },
+      "artists": [
+        {
+          "name": "Greywind",
+          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
+        }
+      ],
+      "duration_ms": 178253,
+      "name": "Swing and Sway",
+      "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
+    },
+    {
+      "added_at": "2024-03-01 16:39:44",
+      "album": {
         "name": "When You Were Here",
         "url": "https://open.spotify.com/album/7GZBTgJndaIafQWJaXGZw0"
       },
@@ -1591,38 +1607,6 @@
       "duration_ms": 173152,
       "name": "When You Were Here",
       "url": "https://open.spotify.com/track/6BU5oDOs3thj5f88a37lPS"
-    },
-    {
-      "added_at": "2024-03-01 16:39:44",
-      "album": {
-        "name": "Secondary Worship",
-        "url": "https://open.spotify.com/album/7DL6CtEvsTtgX0C8MxmOWt"
-      },
-      "artists": [
-        {
-          "name": "Hail The Sun",
-          "url": "https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6"
-        }
-      ],
-      "duration_ms": 226903,
-      "name": "Secondary Worship",
-      "url": "https://open.spotify.com/track/4ypkMHJBXRdaaWdqwjixFc"
-    },
-    {
-      "added_at": "2024-03-01 16:39:44",
-      "album": {
-        "name": "Head in The Clouds",
-        "url": "https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH"
-      },
-      "artists": [
-        {
-          "name": "Arrows in Action",
-          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
-        }
-      ],
-      "duration_ms": 175937,
-      "name": "Head in the Clouds",
-      "url": "https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq"
     },
     {
       "added_at": "2024-03-01 16:39:44",
@@ -1663,6 +1647,22 @@
       "duration_ms": 200165,
       "name": "Hey Ben",
       "url": "https://open.spotify.com/track/4E3BK77SynwO7hMHp2KvAa"
+    },
+    {
+      "added_at": "2024-03-01 16:39:44",
+      "album": {
+        "name": "Head in The Clouds",
+        "url": "https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH"
+      },
+      "artists": [
+        {
+          "name": "Arrows in Action",
+          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
+        }
+      ],
+      "duration_ms": 175937,
+      "name": "Head in the Clouds",
+      "url": "https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq"
     },
     {
       "added_at": "2024-03-01 16:39:44",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2024-03-01 16:39:44",
       "album": {
-        "name": "The Storm",
-        "url": "https://open.spotify.com/album/3JDUl3oKejH3cGOLBFlJgf"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 173614,
-      "name": "The Storm",
-      "url": "https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg"
-    },
-    {
-      "added_at": "2024-03-01 16:39:44",
-      "album": {
         "name": "Cigarettes",
         "url": "https://open.spotify.com/album/6wpL9zVLAjk8G8mlR6mq4H"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 156673,
       "name": "Cigarettes",
       "url": "https://open.spotify.com/track/3tl9B6c07WZujRH2FP5hKA"
+    },
+    {
+      "added_at": "2024-03-01 16:39:44",
+      "album": {
+        "name": "The Storm",
+        "url": "https://open.spotify.com/album/3JDUl3oKejH3cGOLBFlJgf"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 173614,
+      "name": "The Storm",
+      "url": "https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg"
     },
     {
       "added_at": "2024-03-01 16:39:44",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2024-03-01 16:39:44",
       "album": {
-        "name": "More Like A Crash",
-        "url": "https://open.spotify.com/album/6s7dcsTRvTLnz06RJCdJ8a"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 193814,
-      "name": "Got Me All Wrong",
-      "url": "https://open.spotify.com/track/7cuViZlN2fB8gKPFqYD7I0"
-    },
-    {
-      "added_at": "2024-03-01 16:39:44",
-      "album": {
         "name": "Got It Bad",
         "url": "https://open.spotify.com/album/6WZd03wQTPEW9drn8GLkDz"
       },
@@ -1851,18 +1835,18 @@
     {
       "added_at": "2024-03-01 16:39:44",
       "album": {
-        "name": "People That I Love Leave",
-        "url": "https://open.spotify.com/album/0MHxYClcQzUce12K5Y2GfU"
+        "name": "More Like A Crash",
+        "url": "https://open.spotify.com/album/6s7dcsTRvTLnz06RJCdJ8a"
       },
       "artists": [
         {
-          "name": "Cassadee Pope",
-          "url": "https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG"
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
         }
       ],
-      "duration_ms": 149248,
-      "name": "People That I Love Leave",
-      "url": "https://open.spotify.com/track/2ZaPyFZBwurF7wCT9DKAVV"
+      "duration_ms": 193814,
+      "name": "Got Me All Wrong",
+      "url": "https://open.spotify.com/track/7cuViZlN2fB8gKPFqYD7I0"
     },
     {
       "added_at": "2024-03-01 16:39:44",
@@ -1879,6 +1863,22 @@
       "duration_ms": 195133,
       "name": "Crawl II",
       "url": "https://open.spotify.com/track/30mJq8ujEDX7Y3pUus8PUb"
+    },
+    {
+      "added_at": "2024-03-01 16:39:44",
+      "album": {
+        "name": "People That I Love Leave",
+        "url": "https://open.spotify.com/album/0MHxYClcQzUce12K5Y2GfU"
+      },
+      "artists": [
+        {
+          "name": "Cassadee Pope",
+          "url": "https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG"
+        }
+      ],
+      "duration_ms": 149248,
+      "name": "People That I Love Leave",
+      "url": "https://open.spotify.com/track/2ZaPyFZBwurF7wCT9DKAVV"
     },
     {
       "added_at": "2024-03-01 16:39:44",
@@ -1955,6 +1955,22 @@
     {
       "added_at": "2024-03-01 16:39:44",
       "album": {
+        "name": "Figure 8",
+        "url": "https://open.spotify.com/album/6sdo6MlzIARRUlAqo8UMri"
+      },
+      "artists": [
+        {
+          "name": "John Harvie",
+          "url": "https://open.spotify.com/artist/6kTaghFWmvBbtenJUJks6h"
+        }
+      ],
+      "duration_ms": 212727,
+      "name": "Figure 8",
+      "url": "https://open.spotify.com/track/5RZ1CPAYA2q3gxHBkZuJ84"
+    },
+    {
+      "added_at": "2024-03-01 16:39:44",
+      "album": {
         "name": "The Hum Goes on Forever",
         "url": "https://open.spotify.com/album/0g2D3Epl3VzLbvtVeQhJQv"
       },
@@ -1983,22 +1999,6 @@
       "duration_ms": 198566,
       "name": "SSX Trickmont",
       "url": "https://open.spotify.com/track/7w13KZUxGmrPACC4s7NFRf"
-    },
-    {
-      "added_at": "2024-03-01 16:39:44",
-      "album": {
-        "name": "Figure 8",
-        "url": "https://open.spotify.com/album/6sdo6MlzIARRUlAqo8UMri"
-      },
-      "artists": [
-        {
-          "name": "John Harvie",
-          "url": "https://open.spotify.com/artist/6kTaghFWmvBbtenJUJks6h"
-        }
-      ],
-      "duration_ms": 212727,
-      "name": "Figure 8",
-      "url": "https://open.spotify.com/track/5RZ1CPAYA2q3gxHBkZuJ84"
     },
     {
       "added_at": "2024-03-01 16:39:44",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2024-03-01 16:39:44",
       "album": {
-        "name": "How To Disappear",
-        "url": "https://open.spotify.com/album/677t2DpQNOqCZN6PFzPgJr"
-      },
-      "artists": [
-        {
-          "name": "Casey",
-          "url": "https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck"
-        }
-      ],
-      "duration_ms": 236181,
-      "name": "For Katie",
-      "url": "https://open.spotify.com/track/26icQ3gcv38DZXWX8euZYj"
-    },
-    {
-      "added_at": "2024-03-01 16:39:44",
-      "album": {
         "name": "When We Were Young",
         "url": "https://open.spotify.com/album/5tpdUkRLvsynbMO7dl0O5R"
       },
@@ -2075,6 +2059,22 @@
     {
       "added_at": "2024-03-01 16:39:44",
       "album": {
+        "name": "Shotgun Wedding",
+        "url": "https://open.spotify.com/album/0Dq4FUocTrvMCMOoISTHti"
+      },
+      "artists": [
+        {
+          "name": "Short Stack",
+          "url": "https://open.spotify.com/artist/0EdNPfEHC714LHuN0NPIyU"
+        }
+      ],
+      "duration_ms": 156785,
+      "name": "Shotgun Wedding",
+      "url": "https://open.spotify.com/track/0giHgzxiziVnf8vyWpJYR0"
+    },
+    {
+      "added_at": "2024-03-01 16:39:44",
+      "album": {
         "name": "AUTUMNAL",
         "url": "https://open.spotify.com/album/0I1nxkEyVyGhBwE1ZI6SXe"
       },
@@ -2091,18 +2091,18 @@
     {
       "added_at": "2024-03-01 16:39:44",
       "album": {
-        "name": "Shotgun Wedding",
-        "url": "https://open.spotify.com/album/0Dq4FUocTrvMCMOoISTHti"
+        "name": "How To Disappear",
+        "url": "https://open.spotify.com/album/677t2DpQNOqCZN6PFzPgJr"
       },
       "artists": [
         {
-          "name": "Short Stack",
-          "url": "https://open.spotify.com/artist/0EdNPfEHC714LHuN0NPIyU"
+          "name": "Casey",
+          "url": "https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck"
         }
       ],
-      "duration_ms": 156785,
-      "name": "Shotgun Wedding",
-      "url": "https://open.spotify.com/track/0giHgzxiziVnf8vyWpJYR0"
+      "duration_ms": 236181,
+      "name": "For Katie",
+      "url": "https://open.spotify.com/track/26icQ3gcv38DZXWX8euZYj"
     },
     {
       "added_at": "2024-03-01 16:39:44",
@@ -2147,6 +2147,22 @@
     {
       "added_at": "2024-03-01 16:39:44",
       "album": {
+        "name": "Would You Even",
+        "url": "https://open.spotify.com/album/5DS53LqzZQUOvzJp4EefsG"
+      },
+      "artists": [
+        {
+          "name": "Plain White T's",
+          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
+        }
+      ],
+      "duration_ms": 172014,
+      "name": "Would You Even",
+      "url": "https://open.spotify.com/track/0CBgkobKcR6zKVLIb7AULl"
+    },
+    {
+      "added_at": "2024-03-01 16:39:44",
+      "album": {
         "name": "YEAH!",
         "url": "https://open.spotify.com/album/46ot2yrvPoFe2I8i6AsRXc"
       },
@@ -2159,22 +2175,6 @@
       "duration_ms": 182911,
       "name": "YEAH!",
       "url": "https://open.spotify.com/track/2bgJCXFcRZkedHVpjOZO52"
-    },
-    {
-      "added_at": "2024-03-01 16:39:44",
-      "album": {
-        "name": "Cages",
-        "url": "https://open.spotify.com/album/2vr9997EIlO8lNLN2azObV"
-      },
-      "artists": [
-        {
-          "name": "Strung Out",
-          "url": "https://open.spotify.com/artist/07ATE522e8aDsEb0JVLYqg"
-        }
-      ],
-      "duration_ms": 187819,
-      "name": "Cages",
-      "url": "https://open.spotify.com/track/44Hg66DPXP33pXVI1pHIRi"
     },
     {
       "added_at": "2024-03-01 16:39:44",
@@ -2195,18 +2195,18 @@
     {
       "added_at": "2024-03-01 16:39:44",
       "album": {
-        "name": "Would You Even",
-        "url": "https://open.spotify.com/album/5DS53LqzZQUOvzJp4EefsG"
+        "name": "Cages",
+        "url": "https://open.spotify.com/album/2vr9997EIlO8lNLN2azObV"
       },
       "artists": [
         {
-          "name": "Plain White T's",
-          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
+          "name": "Strung Out",
+          "url": "https://open.spotify.com/artist/07ATE522e8aDsEb0JVLYqg"
         }
       ],
-      "duration_ms": 172014,
-      "name": "Would You Even",
-      "url": "https://open.spotify.com/track/0CBgkobKcR6zKVLIb7AULl"
+      "duration_ms": 187819,
+      "name": "Cages",
+      "url": "https://open.spotify.com/track/44Hg66DPXP33pXVI1pHIRi"
     },
     {
       "added_at": "2024-03-01 16:39:44",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2024-03-01 16:39:44",
       "album": {
-        "name": "You & I",
-        "url": "https://open.spotify.com/album/4qLJUL6VNVCA9G4pK01Org"
-      },
-      "artists": [
-        {
-          "name": "Bloom",
-          "url": "https://open.spotify.com/artist/65kdSVYKtaef3P8EOCGWHl"
-        }
-      ],
-      "duration_ms": 230124,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/6OSuUZ0XTYcmoasGUbPZ3x"
-    },
-    {
-      "added_at": "2024-03-01 16:39:44",
-      "album": {
         "name": "Jesus",
         "url": "https://open.spotify.com/album/6tVYzz3VmqLcRSGGZu14pB"
       },
@@ -2343,6 +2327,22 @@
       "duration_ms": 150857,
       "name": "Jesus",
       "url": "https://open.spotify.com/track/4ELaNiaXfb6V8RtGnPEjOv"
+    },
+    {
+      "added_at": "2024-03-01 16:39:44",
+      "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/4qLJUL6VNVCA9G4pK01Org"
+      },
+      "artists": [
+        {
+          "name": "Bloom",
+          "url": "https://open.spotify.com/artist/65kdSVYKtaef3P8EOCGWHl"
+        }
+      ],
+      "duration_ms": 230124,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/6OSuUZ0XTYcmoasGUbPZ3x"
     },
     {
       "added_at": "2024-03-01 16:39:44",
@@ -2367,22 +2367,18 @@
     {
       "added_at": "2024-03-01 16:39:44",
       "album": {
-        "name": "The Four Before",
-        "url": "https://open.spotify.com/album/24qF0rzBSeKTNqAU4oZIvi"
+        "name": "No News Is Good News",
+        "url": "https://open.spotify.com/album/7sLi0samb6YmLrHzVa94Ei"
       },
       "artists": [
         {
-          "name": "Jetski",
-          "url": "https://open.spotify.com/artist/7caLQqT0aT6F4uexmHpLSI"
-        },
-        {
-          "name": "Can't Swim",
-          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
+          "name": "Carpool",
+          "url": "https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit"
         }
       ],
-      "duration_ms": 227309,
-      "name": "Toneblerone",
-      "url": "https://open.spotify.com/track/16UBmFEQzfac3NFa5ViXcw"
+      "duration_ms": 209426,
+      "name": "No News Is Good News",
+      "url": "https://open.spotify.com/track/6cZntUHzJ0shH0wq7mEKUg"
     },
     {
       "added_at": "2024-03-01 16:39:44",
@@ -2419,18 +2415,22 @@
     {
       "added_at": "2024-03-01 16:39:44",
       "album": {
-        "name": "No News Is Good News",
-        "url": "https://open.spotify.com/album/7sLi0samb6YmLrHzVa94Ei"
+        "name": "The Four Before",
+        "url": "https://open.spotify.com/album/24qF0rzBSeKTNqAU4oZIvi"
       },
       "artists": [
         {
-          "name": "Carpool",
-          "url": "https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit"
+          "name": "Jetski",
+          "url": "https://open.spotify.com/artist/7caLQqT0aT6F4uexmHpLSI"
+        },
+        {
+          "name": "Can't Swim",
+          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
         }
       ],
-      "duration_ms": 209426,
-      "name": "No News Is Good News",
-      "url": "https://open.spotify.com/track/6cZntUHzJ0shH0wq7mEKUg"
+      "duration_ms": 227309,
+      "name": "Toneblerone",
+      "url": "https://open.spotify.com/track/16UBmFEQzfac3NFa5ViXcw"
     },
     {
       "added_at": "2024-03-01 16:39:44",
@@ -2447,22 +2447,6 @@
       "duration_ms": 161416,
       "name": "Would You Tell Picasso To Sell His Guitars?",
       "url": "https://open.spotify.com/track/3zw402HWF2JB4y7zvKCMvT"
-    },
-    {
-      "added_at": "2024-03-01 16:39:44",
-      "album": {
-        "name": "The Rot That Grows Inside My Chest",
-        "url": "https://open.spotify.com/album/6Y0Gh7nGWrVw1CfA4fDWIV"
-      },
-      "artists": [
-        {
-          "name": "Teenage Joans",
-          "url": "https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE"
-        }
-      ],
-      "duration_ms": 204360,
-      "name": "Superglue",
-      "url": "https://open.spotify.com/track/6shhkpASLVaTUs5Gnuf5mX"
     },
     {
       "added_at": "2024-03-01 16:39:44",
@@ -2487,18 +2471,18 @@
     {
       "added_at": "2024-03-01 16:39:44",
       "album": {
-        "name": "Slow Dance",
-        "url": "https://open.spotify.com/album/5Je0CQRcq8YiYPVZoencJc"
+        "name": "The Rot That Grows Inside My Chest",
+        "url": "https://open.spotify.com/album/6Y0Gh7nGWrVw1CfA4fDWIV"
       },
       "artists": [
         {
-          "name": "Life After Youth",
-          "url": "https://open.spotify.com/artist/4UY5RyNZP0mGHyzYZL9ud2"
+          "name": "Teenage Joans",
+          "url": "https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE"
         }
       ],
-      "duration_ms": 212034,
-      "name": "Slow Dance",
-      "url": "https://open.spotify.com/track/1cIXPzl0Bg3hGcsuoKcLPV"
+      "duration_ms": 204360,
+      "name": "Superglue",
+      "url": "https://open.spotify.com/track/6shhkpASLVaTUs5Gnuf5mX"
     },
     {
       "added_at": "2024-03-01 16:39:44",
@@ -2519,6 +2503,22 @@
       "duration_ms": 152060,
       "name": "A. Hole",
       "url": "https://open.spotify.com/track/6E3Eza0e2suQcGmVDLSa97"
+    },
+    {
+      "added_at": "2024-03-01 16:39:44",
+      "album": {
+        "name": "Slow Dance",
+        "url": "https://open.spotify.com/album/5Je0CQRcq8YiYPVZoencJc"
+      },
+      "artists": [
+        {
+          "name": "Life After Youth",
+          "url": "https://open.spotify.com/artist/4UY5RyNZP0mGHyzYZL9ud2"
+        }
+      ],
+      "duration_ms": 212034,
+      "name": "Slow Dance",
+      "url": "https://open.spotify.com/track/1cIXPzl0Bg3hGcsuoKcLPV"
     },
     {
       "added_at": "2024-03-01 16:39:44",

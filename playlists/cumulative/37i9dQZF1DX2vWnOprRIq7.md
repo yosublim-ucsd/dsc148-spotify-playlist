@@ -4,7 +4,7 @@
 
 > El lado fluorescente del indie latino featuring Juan Baro.
 
-229 songs - 13 hr 48 min
+230 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [De Otra Vida](https://open.spotify.com/track/3c27ZTYS7cKiySSBNElVAh) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Una Dosis de Terciopelo](https://open.spotify.com/album/6UgJn3Do0qF5Q28RsGIdKd) | 4:16 | 2023-12-15 |  |
 | [Debilidad](https://open.spotify.com/track/3YJJtTITDvpaAqZmBR3Knj) | [Proyecto Gomez Casa](https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe) | [Debilidad](https://open.spotify.com/album/21pyXWvMYZ6OALRRsAt6IP) | 4:23 | 2023-06-02 | 2023-11-25 |
 | [Del Tiempo \- Original Mix](https://open.spotify.com/track/0gDKVCXvgaJj0tbf5TgyQ6) | [Dan Bay](https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw), [Manu Ela](https://open.spotify.com/artist/0HelIc5UNdohCdMZY6fxWT) | [Les disques du bord de l'eau: Winter EP 2021](https://open.spotify.com/album/6PdsZ0lXptJ1cwutsHk7KL) | 5:10 | 2023-03-17 | 2023-06-04 |
-| [Delfines](https://open.spotify.com/track/5LqVs6hiodD5YXRGV5rNzc) | [Ivonne Guzmán](https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY) | [Delfines](https://open.spotify.com/album/2wBW2z26H62mqXz6CA5eJL) | 4:38 | 2023-12-15 |  |
+| [Delfines](https://open.spotify.com/track/2nVmNqnJKGLXfvjFWUWF3e) | [Ivonne Guzmán](https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY) | [Delfines](https://open.spotify.com/album/1dQ2SQ6xbedOlgA2DAJ9JR) | 4:38 | 2024-02-02 |  |
+| [Delfines](https://open.spotify.com/track/5LqVs6hiodD5YXRGV5rNzc) | [Ivonne Guzmán](https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY) | [Delfines](https://open.spotify.com/album/2wBW2z26H62mqXz6CA5eJL) | 4:38 | 2023-12-15 | 2024-03-07 |
 | [Desorden](https://open.spotify.com/track/52EmSXkdJ2wvrfu4aUAfoY) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Desorden](https://open.spotify.com/album/1AePedyRPFkUCs80EPerMZ) | 3:56 | 2023-03-17 | 2023-10-07 |
 | [Desvelado](https://open.spotify.com/track/3pBq1csYqJNKdN6pejHFqY) | [Renee Mooi](https://open.spotify.com/artist/6pDpSqJDuF6J6jxfAz4sTB) | [Desvelado](https://open.spotify.com/album/0upQNva6VzLG68XrIDJMS1) | 3:17 | 2023-05-05 | 2023-09-30 |
 | [Detonación \- Remix](https://open.spotify.com/track/0rZwPrDw6xcWdGTSvsbLYA) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [Detonación \(Remix\)](https://open.spotify.com/album/5cFYndbz33WMXaEeE3JFGx) | 3:52 | 2023-03-17 | 2023-10-07 |

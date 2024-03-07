@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,383 songs - 2 day 4 hr 7 min
+1,384 songs - 2 day 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -684,6 +684,7 @@
 | [Lonely Mountain](https://open.spotify.com/track/2kxJbP2CXEZRCaCefWD721) | [Historians](https://open.spotify.com/artist/15itgh8cH72Bu7pXiyj0r1) | [Brooding T\-Rex](https://open.spotify.com/album/3Ixz2N2NtUOZEcP0JuCgrF) | 2:48 | 2022-01-27 | 2023-05-20 |
 | [Long for](https://open.spotify.com/track/5clFQSNR2BFzgfYf9CNQPJ) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [takeo](https://open.spotify.com/artist/77ONEFnCEJnH1qm5dBzDcf) | [Long for](https://open.spotify.com/album/3YhoM7R1RxZUJeKYMyjXFN) | 2:33 | 2022-12-09 | 2023-04-28 |
 | [Long Walks](https://open.spotify.com/track/4CUcBdtk6vfz1AEantq8Yh) | [Joi Casette](https://open.spotify.com/artist/00HEKt0f42LmgnoabKX3Ok) | [Long Walks](https://open.spotify.com/album/3UtFxXCfwdy9ZPzs5fWVzK) | 2:04 | 2022-01-27 |  |
+| [Loose Kicks](https://open.spotify.com/track/2pJmmSzJzgyBwUhyqqNntp) | [Woodly Fields](https://open.spotify.com/artist/3ur5AmVKeInQ8lGOP4kvBF) | [Loose Kicks](https://open.spotify.com/album/0d0398yXgXdrZSenztLHMX) | 1:45 | 2024-03-01 |  |
 | [los beachos](https://open.spotify.com/track/3ZVLP49KrKZakJz9w55ef7) | [Lobby Lingu!n!](https://open.spotify.com/artist/3PmqglMO0kO7kkmhGHrxkv) | [los beachos](https://open.spotify.com/album/2ZzWNf6dEX51b6RHlgnFEe) | 2:12 | 2022-01-27 | 2023-04-21 |
 | [Lost In Bass](https://open.spotify.com/track/1HXDPrnTAG7h4ioqERvqBL) | [Juan Ling](https://open.spotify.com/artist/5Ar4iiLpngpY9FZRsFO2Dy) | [Lost In Bass](https://open.spotify.com/album/6SD42hydmhMgTNmlAaLDuH) | 2:48 | 2022-01-27 | 2022-12-17 |
 | [Lost Time](https://open.spotify.com/track/24HeDGq4VhfLqgxNMMtQZC) | [Theo Juarez](https://open.spotify.com/artist/3Z9OuAjJsitd2yLGCq7q6A), [Felix Deleon](https://open.spotify.com/artist/5o8YHpc8nmpN6PlAQMkaH4), [Lifted LoFi](https://open.spotify.com/artist/0rgw0PdrFhmiayr1srwKkH) | [Lost Time](https://open.spotify.com/album/6Qc6tlgIxU07xFw5wsip8u) | 2:20 | 2022-09-23 | 2023-09-22 |
@@ -1234,7 +1235,7 @@
 | [The Med](https://open.spotify.com/track/4VF59BuLMgBFg3FQF6ledx) | [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [The Med](https://open.spotify.com/album/4MxgexE1L8Ve0BbPtHIoQX) | 1:57 | 2022-07-01 | 2022-12-10 |
 | [the moment we knew](https://open.spotify.com/track/5aY7IoXvyXqCGAnjgWivlu) | [betahost](https://open.spotify.com/artist/1vGlmIKLKgaYfgAcSKhd4W) | [the moment we knew](https://open.spotify.com/album/4RbXsJ7x7b3JSJiaJbGxPz) | 1:47 | 2022-10-28 | 2023-09-29 |
 | [The Neighborhood](https://open.spotify.com/track/1fRCaeLqrS0hlbuyrmJyNz) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Playground](https://open.spotify.com/album/5BIlSn25cEkCaw2FRNwCFT) | 1:32 | 2022-01-27 | 2022-09-09 |
-| [The Night Stop](https://open.spotify.com/track/7H5ecFdgOzPVBlmz40Uiyy) | [Idris Kelly](https://open.spotify.com/artist/2V8HJffWKh4zmPWFqvwImv) | [The Night Stop](https://open.spotify.com/album/3vOPnPE6ISclHXo9sNQ0Gw) | 2:21 | 2022-09-30 |  |
+| [The Night Stop](https://open.spotify.com/track/7H5ecFdgOzPVBlmz40Uiyy) | [Idris Kelly](https://open.spotify.com/artist/2V8HJffWKh4zmPWFqvwImv) | [The Night Stop](https://open.spotify.com/album/3vOPnPE6ISclHXo9sNQ0Gw) | 2:21 | 2022-09-30 | 2024-03-07 |
 | [The Parade](https://open.spotify.com/track/6qqBcmjT5DYtXxYlUAtD4W) | [Rosa Mahoney](https://open.spotify.com/artist/28SJ1LuRJWcILK2Mz0uZmn) | [The Parade](https://open.spotify.com/album/55dQPl1fEh3c6M0r225JQu) | 2:24 | 2022-07-22 |  |
 | [The return of Mr\. Swing](https://open.spotify.com/track/3pfsUjWIY8mcs5aQQRm9Fl) | [Yankee Hart](https://open.spotify.com/artist/3QjEKf7OgPZayWOOt8AUBi) | [The return of Mr\. Swing](https://open.spotify.com/album/6M5CIuR50OMuipxKfOQmWj) | 2:11 | 2022-09-30 | 2023-04-28 |
 | [The Simple Life](https://open.spotify.com/track/5YO3Vqve61SxDVy9kynuas) | [Euphemism](https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr) | [The Simple Life](https://open.spotify.com/album/6gGfQHr7DT0Z52DXDFosgq) | 1:56 | 2023-03-24 |  |

@@ -4,7 +4,7 @@
 
 > Empezó el zapateo\. ¡Take tarake take!
 
-92 songs - 5 hr 19 min
+94 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Ella Ya Me Olvido \- Radio Edit](https://open.spotify.com/track/5hU55DdOI7czxGFufcsrS4) | [LEEB](https://open.spotify.com/artist/3OW9y2kM7N3BAEksWU2xZM) | [Ella Ya Me Olvido \(Radio Edit\)](https://open.spotify.com/album/5ECD0CGqwDeEFo6l7UvEkq) | 4:09 | 2021-09-20 |  |
 | [Enseñame a Soñar](https://open.spotify.com/track/7uGDi5xCAu1rGjLhpXDCrh) | [Susan Díaz](https://open.spotify.com/artist/6Oq5iunq4z5E4yAdNpWAjk), [DJ Goozo](https://open.spotify.com/artist/5tnFFb9eJcPTwYReZWR8Zj), [Massianello](https://open.spotify.com/artist/6oARZ0ckg0uN1GEs22MQw7) | [Sweet Karma Compilation 2020](https://open.spotify.com/album/1SSXLsNfuXPjz3f2i0Emop) | 4:00 | 2021-09-20 |  |
 | [Everybody Wants To Party](https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV) | [Everybody Wants To Party](https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj) | 3:04 | 2021-09-20 |  |
-| [Fayna \- Radio Edit](https://open.spotify.com/track/6P7YcQvewBbmQzBQNtlLXl) | [LEEB](https://open.spotify.com/artist/3OW9y2kM7N3BAEksWU2xZM) | [Fayna \(Radio Edit\)](https://open.spotify.com/album/2MPxIowfr48t0l6NDORABe) | 2:51 | 2021-09-20 |  |
+| [Fayna](https://open.spotify.com/track/5RPRDOlIKvGOnLFuZcfJ47) | [LEEB](https://open.spotify.com/artist/3OW9y2kM7N3BAEksWU2xZM) | [Fayna](https://open.spotify.com/album/0IDL6OcStHegG1EjCfo1CK) | 2:53 | 2021-09-20 |  |
+| [Fayna \- Radio Edit](https://open.spotify.com/track/6P7YcQvewBbmQzBQNtlLXl) | [LEEB](https://open.spotify.com/artist/3OW9y2kM7N3BAEksWU2xZM) | [Fayna \(Radio Edit\)](https://open.spotify.com/album/2MPxIowfr48t0l6NDORABe) | 2:51 | 2021-09-20 | 2024-03-07 |
 | [Feel Your Love](https://open.spotify.com/track/4h4c2nt7wTFLn0OYVDWOHC) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq) | [Feel Your Love](https://open.spotify.com/album/6NarQFpErQAqgw7Lzv9SXp) | 3:12 | 2021-09-20 |  |
 | [Giant \(with Rag'n'Bone Man\)](https://open.spotify.com/track/5itOtNx0WxtJmi1TQ3RuRd) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Giant \(with Rag'n'Bone Man\)](https://open.spotify.com/album/4PwXTHenZZx7ebgsnTM65K) | 3:49 | 2021-09-20 |  |
 | [Goosebumps \- Remix](https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps \(Remix\)](https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD) | 2:42 | 2021-09-20 |  |
@@ -98,7 +99,8 @@
 | [Traicionera](https://open.spotify.com/track/1iSdM8XTLqeHam8jt3WKwq) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc) | [Cornettazos \(Vol.1\)](https://open.spotify.com/album/0u84NArIOeEjYTOnJOtPK1) | 3:23 | 2021-09-20 |  |
 | [Vamo a Jugar Al Goloso](https://open.spotify.com/track/4XNtOTaQub1YEWSXEHcAuB) | [Guaracha](https://open.spotify.com/artist/26u8yZqpmuhdH9SvClAJrc) | [Vamo a Jugar Al Goloso](https://open.spotify.com/album/5W9c58mWuZ4liGx1Bg2hz4) | 2:33 | 2021-09-20 |  |
 | [Way Out \- Radio Edit](https://open.spotify.com/track/7m4hghG69Jej8ngs8LYgdX) | [Juan Cuadros](https://open.spotify.com/artist/1PvZf2BbjSJBqfiyXLZYzC), [Xotto](https://open.spotify.com/artist/6nvjCOWYBl94cnhiZqvA6I) | [Way Out](https://open.spotify.com/album/1FNVBqISJ3d5rAgu9VwSB2) | 4:00 | 2021-09-20 |  |
-| [Yo Le Doy](https://open.spotify.com/track/2i6Lvfy5CJmmqdvl7DgVqT) | [LEEB](https://open.spotify.com/artist/3OW9y2kM7N3BAEksWU2xZM), [Kafu Banton](https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij), [Aldair Productions](https://open.spotify.com/artist/6WFulj4XIc6vkUDXGaDvbN) | [Yo Le Doy](https://open.spotify.com/album/6wtYKy3CWRxxmY590nyD33) | 3:11 | 2021-09-20 |  |
+| [Yo Le Doy](https://open.spotify.com/track/1xsUgc8NoDYvkuiiLhivSb) | [LEEB](https://open.spotify.com/artist/3OW9y2kM7N3BAEksWU2xZM), [Kafu Banton](https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij), [Aldair Productions](https://open.spotify.com/artist/6WFulj4XIc6vkUDXGaDvbN) | [Yo Le Doy](https://open.spotify.com/album/1sq7WJ4M7NsnpuGxs0JVVS) | 3:11 | 2021-09-20 |  |
+| [Yo Le Doy](https://open.spotify.com/track/2i6Lvfy5CJmmqdvl7DgVqT) | [LEEB](https://open.spotify.com/artist/3OW9y2kM7N3BAEksWU2xZM), [Kafu Banton](https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij), [Aldair Productions](https://open.spotify.com/artist/6WFulj4XIc6vkUDXGaDvbN) | [Yo Le Doy](https://open.spotify.com/album/6wtYKy3CWRxxmY590nyD33) | 3:11 | 2021-09-20 | 2024-03-07 |
 | [Your Love \(9PM\)](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Your Love \(9PM\)](https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b) | 2:30 | 2021-09-20 |  |
 
 \*This playlist was first scraped on 2023-10-05. Prior content cannot be recovered.

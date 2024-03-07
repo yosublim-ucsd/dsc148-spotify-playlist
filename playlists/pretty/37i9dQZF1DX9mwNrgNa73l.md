@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,009 likes - 76 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,167 likes - 76 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 75 | [O Re](https://open.spotify.com/track/4AHvMLWvuGZn62sCpFEtj7) | [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Coke Studio: Season 9](https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ) | 5:21 |
 | 76 | [Ali \(A.S\) Aye Hain](https://open.spotify.com/track/1eg7IqSJ1JHk3goCqLpS60) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP) | [Ali \(A.S\) Aye Hain](https://open.spotify.com/album/4VALKrlOl0rKJUlDFfRQvx) | 6:56 |
 
-Snapshot ID: `MCwzYjJiMDI3MWMxMmIyNmY4MzkwOWYyZmFjMTIzMjliYmIyZjVlOTlj`
+Snapshot ID: `MCw1ODM0NjQxYTM5ZjE2MjQyZTNmNDExNGJlOTU5YTA5OGNmNGMxMjgy`

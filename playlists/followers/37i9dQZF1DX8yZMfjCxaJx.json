@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 212354,
+  "2024-03-07": 212481,
   "date_first_scraped": "2024-01-30",
   "description": "Las favoritas de los patrones. Los Plebes del Rancho, Juanpa Salazar en portada.",
   "name": "Corridos Chakalosos",
@@ -483,7 +483,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 247944,
       "name": "El 7 Tito Beltr\u00e1n",
       "url": "https://open.spotify.com/track/3ja3iKYBSQmwa20EYJym8D"
@@ -827,7 +827,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 199041,
       "name": "El Jessy",
       "url": "https://open.spotify.com/track/7KQXu5evPXvbP2zFITKsLx"

@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
-  "num_followers": 448863,
+  "num_followers": 449075,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTBhNzcyYzhjMzg2YjRhYzVjOTZhNDk5OTE3MzBhMThkZWI0YTFi",
+  "snapshot_id": "MCw5MGU5ZGYwMGRiMDZiZmIwN2EwYmFjZjQ4NDRiNTIyOTE1ODkzZWZj",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Famax",
+        "url": "https://open.spotify.com/album/1wwVoTyNUWFP6BAOcGWbZI"
+      },
+      "artists": [
+        {
+          "name": "RAFFA GUIDO",
+          "url": "https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ"
+        }
+      ],
+      "duration_ms": 335194,
+      "name": "Famax",
+      "url": "https://open.spotify.com/track/4yhqQAKFiHNCXpxxFVhxRq"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Let's Pretend",
         "url": "https://open.spotify.com/album/7vFNsn1Tp7f5r0w1ntL35K"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 144479,
       "name": "Dance of the Crab - Edit",
       "url": "https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Famax",
-        "url": "https://open.spotify.com/album/1wwVoTyNUWFP6BAOcGWbZI"
-      },
-      "artists": [
-        {
-          "name": "RAFFA GUIDO",
-          "url": "https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ"
-        }
-      ],
-      "duration_ms": 335194,
-      "name": "Famax",
-      "url": "https://open.spotify.com/track/4yhqQAKFiHNCXpxxFVhxRq"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/21sXD23Pxw2SHuzf0ApnDI"
-      },
-      "artists": [
-        {
-          "name": "SOMMA",
-          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
-        },
-        {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
-        }
-      ],
-      "duration_ms": 187620,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/3lxUQ9Q9p2SiJU4FXSLUsr"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "When the Lights Go Out",
         "url": "https://open.spotify.com/album/1L7MYLhgLH4LAevJrd0OJx"
       },
@@ -1491,6 +1471,26 @@
       "duration_ms": 221760,
       "name": "When the Lights Go Out",
       "url": "https://open.spotify.com/track/51T5k0OjVZE6d8O1UwTU7W"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/21sXD23Pxw2SHuzf0ApnDI"
+      },
+      "artists": [
+        {
+          "name": "SOMMA",
+          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "duration_ms": 187620,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/3lxUQ9Q9p2SiJU4FXSLUsr"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "NA NA NA",
-        "url": "https://open.spotify.com/album/7IjkeZsYlHbD116c6ZA92P"
-      },
-      "artists": [
-        {
-          "name": "WAALAAXXX",
-          "url": "https://open.spotify.com/artist/7wc6nhyFtZS1Lw4dS1LwnQ"
-        }
-      ],
-      "duration_ms": 430819,
-      "name": "NA NA NA",
-      "url": "https://open.spotify.com/track/7xMyPCsSnWJqsgjhgLy0dz"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Cuatro Vientos (HUGEL Version)",
         "url": "https://open.spotify.com/album/7HngPNqj7MKGWGgJShs68v"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 199044,
       "name": "The Rhythm",
       "url": "https://open.spotify.com/track/47pijfgcSq0ya8SLExKCxa"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "NA NA NA",
+        "url": "https://open.spotify.com/album/7IjkeZsYlHbD116c6ZA92P"
+      },
+      "artists": [
+        {
+          "name": "WAALAAXXX",
+          "url": "https://open.spotify.com/artist/7wc6nhyFtZS1Lw4dS1LwnQ"
+        }
+      ],
+      "duration_ms": 430819,
+      "name": "NA NA NA",
+      "url": "https://open.spotify.com/track/7xMyPCsSnWJqsgjhgLy0dz"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1875,26 +1875,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Little Darling (Joris Voorn Remix)",
-        "url": "https://open.spotify.com/album/2dtExe65fdE0PJLhnPpFyU"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        },
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        }
-      ],
-      "duration_ms": 200952,
-      "name": "Little Darling - Joris Voorn Remix",
-      "url": "https://open.spotify.com/track/4NzjiBcQT7Hzp2hvuEViqe"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "3 Sense",
         "url": "https://open.spotify.com/album/4Fhh3zH4xdalFWodUJYwQQ"
       },
@@ -1915,6 +1895,26 @@
       "duration_ms": 163278,
       "name": "3 Sense",
       "url": "https://open.spotify.com/track/7BbCFISQVNWlWIh0BUPAit"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Little Darling (Joris Voorn Remix)",
+        "url": "https://open.spotify.com/album/2dtExe65fdE0PJLhnPpFyU"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        },
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        }
+      ],
+      "duration_ms": 200952,
+      "name": "Little Darling - Joris Voorn Remix",
+      "url": "https://open.spotify.com/track/4NzjiBcQT7Hzp2hvuEViqe"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -2108,9 +2108,25 @@
           "url": "https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f"
         }
       ],
-      "duration_ms": 302068,
+      "duration_ms": 293793,
       "name": "Better Off Alone",
       "url": "https://open.spotify.com/track/2BFa2yuyuoNe3YalZLkefR"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "You're Not Alone",
+        "url": "https://open.spotify.com/album/2lhXVnPLcvmPhexeNmV37m"
+      },
+      "artists": [
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        }
+      ],
+      "duration_ms": 214204,
+      "name": "You're Not Alone",
+      "url": "https://open.spotify.com/track/0WTtGE4UaKUDpAE4aouoa8"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -2147,6 +2163,26 @@
       "duration_ms": 195720,
       "name": "Eu Vou Pra Bahia",
       "url": "https://open.spotify.com/track/0Sp67H1rsdLZLbNUoOLYzX"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Holding On",
+        "url": "https://open.spotify.com/album/7eWioRNyXGjl0KnIeZIeHI"
+      },
+      "artists": [
+        {
+          "name": "Durante",
+          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "duration_ms": 238003,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/4XZk8j2tyVDMoXjmblznuu"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -2191,26 +2227,6 @@
       "duration_ms": 299670,
       "name": "BroCode",
       "url": "https://open.spotify.com/track/5rxK4yQgpnw4v97HqLCF8x"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Holding On",
-        "url": "https://open.spotify.com/album/7eWioRNyXGjl0KnIeZIeHI"
-      },
-      "artists": [
-        {
-          "name": "Durante",
-          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
-        },
-        {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
-        }
-      ],
-      "duration_ms": 238003,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/4XZk8j2tyVDMoXjmblznuu"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -2275,22 +2291,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "You're Not Alone",
-        "url": "https://open.spotify.com/album/2lhXVnPLcvmPhexeNmV37m"
-      },
-      "artists": [
-        {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
-        }
-      ],
-      "duration_ms": 214204,
-      "name": "You're Not Alone",
-      "url": "https://open.spotify.com/track/0WTtGE4UaKUDpAE4aouoa8"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Hustla",
         "url": "https://open.spotify.com/album/4oofnyX49L9k555nOKILFI"
       },
@@ -2311,26 +2311,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Amandla",
-        "url": "https://open.spotify.com/album/4KUQbiQ4UUjm5lcN0pX2Ah"
-      },
-      "artists": [
-        {
-          "name": "Sun-El Musician",
-          "url": "https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6"
-        },
-        {
-          "name": "Msaki",
-          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
-        }
-      ],
-      "duration_ms": 370862,
-      "name": "Amandla",
-      "url": "https://open.spotify.com/track/16nstjbrIeh0HA4MkiOvqY"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Like That",
         "url": "https://open.spotify.com/album/03PlGHrwDyR7tqCln65Kqq"
       },
@@ -2347,6 +2327,26 @@
       "duration_ms": 222080,
       "name": "Like That",
       "url": "https://open.spotify.com/track/7MJY6QjGV2Rf4LbGt4hxEV"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Amandla",
+        "url": "https://open.spotify.com/album/4KUQbiQ4UUjm5lcN0pX2Ah"
+      },
+      "artists": [
+        {
+          "name": "Sun-El Musician",
+          "url": "https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6"
+        },
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        }
+      ],
+      "duration_ms": 370862,
+      "name": "Amandla",
+      "url": "https://open.spotify.com/track/16nstjbrIeh0HA4MkiOvqY"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -2435,6 +2435,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/4M6H0YgdvmarupGSqpWu4P"
+      },
+      "artists": [
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        }
+      ],
+      "duration_ms": 469596,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/6Z1rHqGNjLCyyl2T2neieJ"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Miles Away",
         "url": "https://open.spotify.com/album/7yzn2vH1JLMwx0uTwiQpxa"
       },
@@ -2483,22 +2499,6 @@
       "duration_ms": 211680,
       "name": "Love and Hate - Nandu Remix",
       "url": "https://open.spotify.com/track/4UX4lVdixYSjR1gBeIyjs3"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/4M6H0YgdvmarupGSqpWu4P"
-      },
-      "artists": [
-        {
-          "name": "AM\u00c9M\u00c9",
-          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
-        }
-      ],
-      "duration_ms": 469596,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/6Z1rHqGNjLCyyl2T2neieJ"
     },
     {
       "added_at": "2024-03-01 05:00:00",

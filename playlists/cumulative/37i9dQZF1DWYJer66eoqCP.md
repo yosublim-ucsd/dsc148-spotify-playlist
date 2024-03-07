@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of Disney+'s original drama Call It Love\. \(디즈니+ 오리지널 드라마 사랑이라 말해요의 사운드 트랙들을 즐겨보세요!\) You can also listen to 15 songs personally selected by actor Kim Young\-kwang\. \(김영광 배우가 직접 선정한 15곡도 들어보실 수 있습니다.\)
 
-29 songs - 1 hr 34 min
+30 songs - 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [UNIVERSE 4 TWO](https://open.spotify.com/track/7JwZb4dbB6GSsbUodjWaVX) | [Sunni Colón](https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2) | [JúJú & The Flowerbug](https://open.spotify.com/album/2PXP673QHx50WTC2Tu7KPF) | 3:23 | 2023-03-20 |  |
 | [Walk Slow](https://open.spotify.com/track/41dN9FUiIDhMpc0waRUfSb) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Call It Love, Part 4 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/1bRYXvLc2G48EXhCxwxfyp) | 3:15 | 2023-03-20 |  |
 | [What Can I Do](https://open.spotify.com/track/5dfhtNngJw3RT9SGJpvRrS) | [Hyunji](https://open.spotify.com/artist/217Bgl8C5FrkhSkbrYavSh) | [Call It Love, Part 2 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/3By4oNGxWYD3dQKmaaGLef) | 3:55 | 2023-03-20 |  |
-| [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043) | 3:30 | 2023-03-20 |  |
+| [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/track/45ryK5kAHyUxV1C73fdur5) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [긴 밤 \(feat\. Giriboy\)](https://open.spotify.com/album/3CaluwPodNVRAnYCtZW3YA) | 3:30 | 2023-03-27 |  |
+| [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043) | 3:30 | 2023-03-20 | 2024-03-07 |
 
 \*This playlist was first scraped on 2023-03-21. Prior content cannot be recovered.

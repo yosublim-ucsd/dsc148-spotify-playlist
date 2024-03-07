@@ -11918,10 +11918,28 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 222341,
       "name": "Hawkmoon",
       "url": "https://open.spotify.com/track/2TPoZOzNzkiazpFm5Duv7A"
+    },
+    {
+      "album": {
+        "name": "The Past Is Still Alive",
+        "url": "https://open.spotify.com/album/5swrwkZivdtPxSHAuQvrOE"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222341,
+      "name": "Hawkmoon",
+      "url": "https://open.spotify.com/track/4LbT4vgs0uYQHT3NZn9GD1"
     },
     {
       "album": {
@@ -17520,6 +17538,18 @@
         {
           "name": "Wye Oak",
           "url": "https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB"
+        },
+        {
+          "name": "Metropolis Ensemble",
+          "url": "https://open.spotify.com/artist/7M4SGchCWEPMVvx16DKXOy"
+        },
+        {
+          "name": "Paul Wiancko",
+          "url": "https://open.spotify.com/artist/0A8HBV4n2KCWWnBEVZK8dw"
+        },
+        {
+          "name": "William Brittelle",
+          "url": "https://open.spotify.com/artist/466nMSvwGWb3f8G7hR4Gja"
         }
       ],
       "date_added": "2024-02-23",

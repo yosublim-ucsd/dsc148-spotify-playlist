@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ ft\. phem & waterparks
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,639 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,541 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 79 | [3am](https://open.spotify.com/track/3xIux1ZElfdLkTEDUTnk2K) | [Bronnie](https://open.spotify.com/artist/6xAfmpNG113QC08DHcQgv6) | [3am](https://open.spotify.com/album/7mZK9wCykimMtEssDlhpZ7) | 3:02 |
 | 80 | [WOT?](https://open.spotify.com/track/3reDMknQne3fFioU5DGjxn) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [WOT?](https://open.spotify.com/album/1ZR2wheKOl3LfjIMeldl7E) | 2:56 |
 
-Snapshot ID: `MCw1NDBiOGM1YThlOTgxY2ZkYjc2Mzg1NzExZmM5NzYzNjk5NTZmMGJh`
+Snapshot ID: `MCw4YTM0ZDgyNDcyYTJlYzVjZTZjZDczYjE1YjA1YWIzYTk1M2U2Y2M3`

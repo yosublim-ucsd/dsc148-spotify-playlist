@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-793 songs - 2 day 4 hr 12 min
+794 songs - 2 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,6 +384,7 @@
 | [Runaway](https://open.spotify.com/track/4htG3gOGHW407No6WuwBqA) | [アマリリス](https://open.spotify.com/artist/00gU0eai5DATOHiWPrvd9b) | [Runaway](https://open.spotify.com/album/7AIvcXHWY1IVRNr76Gg1ZF) | 4:30 | 2022-05-31 | 2022-07-26 |
 | [Runner's High](https://open.spotify.com/track/5EJtcLqzhGixak6vG0JstR) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Runner's High](https://open.spotify.com/album/1tpOYlbVsbkjXRASB6GJia) | 3:42 | 2023-07-25 | 2023-12-19 |
 | [Ryan](https://open.spotify.com/track/7EqZo0mLgUYO3fD4GyNvcH) | [Haruy](https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw), [Hayata Kosugi](https://open.spotify.com/artist/5OvlM7DqqwZUHpIWhECso2) | [Ryan](https://open.spotify.com/album/6whSVN6VIiYfyTQeRCuV35) | 4:45 | 2022-07-21 | 2022-07-23 |
+| [Ryuseitoshi \- Cover](https://open.spotify.com/track/4VY8uxHw5nXemCWbPyvLmw) | [JUNK FUJIYAMA](https://open.spotify.com/artist/076lb5j50WT6XliToD53ZY) | [Shokeitoshi City Pop Covers](https://open.spotify.com/album/489wnQeK62ioolhGrqXUZx) | 4:38 | 2024-03-05 |  |
 | [saekdallian](https://open.spotify.com/track/6i2bypuzfzhz5CSCMQl22K) | [ultramodernista](https://open.spotify.com/artist/4Plrerc3e2ZuY5kLT2dbRZ) | [saekdallian](https://open.spotify.com/album/74kaiVuHhGXXLEOxAieZMR) | 3:24 | 2022-05-24 | 2022-06-01 |
 | [Saihate](https://open.spotify.com/track/1jcSB32MP8GhWnqfLRndIJ) | [APOGEE](https://open.spotify.com/artist/5vLL9VcCC2y13B2BKs2uWI) | [Saihate](https://open.spotify.com/album/71QVVWnO8BDQIkBLD1U1ex) | 3:44 | 2022-11-08 | 2022-11-16 |
 | [Saitei Na Drama](https://open.spotify.com/track/01yyhN908OiuvbFjCtBBXA) | [中島雄士](https://open.spotify.com/artist/2FRIJWTtnozd9tZ0jH8CmN) | [Saitei Na Drama](https://open.spotify.com/album/5bfDxgPMtsIbWp6Rj5TPPZ) | 3:45 | 2023-02-26 | 2023-03-01 |
@@ -745,7 +746,7 @@
 | [楽園](https://open.spotify.com/track/1uqY0QGoXd6Lj95Igp3h3W) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [楽園](https://open.spotify.com/album/4hhJdBBhzeGtjKqCqSwEPY) | 3:59 | 2022-05-24 | 2022-11-02 |
 | [楽園](https://open.spotify.com/track/0XwEnnsW5Z46jIweSj2MzB) | [Emerald](https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs) | [楽園](https://open.spotify.com/album/6JHfw2HoDjuWQiL5sRpavT) | 4:07 | 2023-05-30 |  |
 | [泡沫ジレンマ \- feat.SUKISHA](https://open.spotify.com/track/3IbvgHm2hpwr2Ap5OqwcHC) | [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn), [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [泡沫ジレンマ \(feat.SUKISHA\)](https://open.spotify.com/album/5V1jfuUVCFiit2qDxDhXdG) | 3:35 | 2023-09-05 | 2023-10-01 |
-| [流星都市](https://open.spotify.com/track/4YWyKUpBKyLwW2D6H0VmcC) | [Junk Fujiyama](https://open.spotify.com/artist/53n2ZPbUwV55wVWwAiz64J) | [憧憬都市 City Pop Covers](https://open.spotify.com/album/0qEawMSvAYztSrj61prmaH) | 4:38 | 2024-03-05 |  |
+| [流星都市](https://open.spotify.com/track/4YWyKUpBKyLwW2D6H0VmcC) | [Junk Fujiyama](https://open.spotify.com/artist/53n2ZPbUwV55wVWwAiz64J) | [憧憬都市 City Pop Covers](https://open.spotify.com/album/0qEawMSvAYztSrj61prmaH) | 4:38 | 2024-03-05 | 2024-03-07 |
 | [流浪](https://open.spotify.com/track/2M78Sf5BnRWZFQCiLbbTYA) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [流浪](https://open.spotify.com/album/7yJSa3B3S8j06vodDbGvAD) | 4:02 | 2023-02-14 | 2023-03-16 |
 | [渚とサイダー](https://open.spotify.com/track/0fB9qqzExwkYpfK5j1WAPr) | [POP ART TOWN](https://open.spotify.com/artist/6nu39YK7u99qv6JdygWuxG) | [渚とサイダー](https://open.spotify.com/album/2jh2LBslIWnT1nOOrv34Qc) | 4:56 | 2023-08-08 | 2023-09-20 |
 | [渚のアンラッキーボーイズ](https://open.spotify.com/track/5bkLoZFiC5ZeGxrxfIS5EM) | [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD), [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [渚のアンラッキーボーイズ](https://open.spotify.com/album/1xFfuM57uda9hb7wMizQPS) | 5:21 | 2022-05-24 | 2022-06-01 |

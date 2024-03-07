@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8685vIIepKh.md) - [plain]
 
 > La playlist survitaminée !
 
-[Spotify](https://open.spotify.com/user/spotify) - 719,341 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 719,498 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8685vIIepKh.md) - [plain]
 | 49 | [Bam Bam \(Ma Jolie\)](https://open.spotify.com/track/3MgDEWy7SXqSftFvovNOnv) | [King Serenity](https://open.spotify.com/artist/2olAiF4WinkdELTgU2Rllu), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8), [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Bam Bam \(Ma Jolie\)](https://open.spotify.com/album/3XdVsdE1LETgzTufgIpvnP) | 2:23 |
 | 50 | [Mwaki](https://open.spotify.com/track/4HDC7Mo6uLTujRvHymiXDf) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Mwaki](https://open.spotify.com/album/4L43UqvSZKiiKwc1wa89Gz) | 3:28 |
 
-Snapshot ID: `MCxmMGQxY2M3YmFmMzg1ZjA5NjY1MzVlYTI2ZTlhOTJmMjUwYjQ4NzYw`
+Snapshot ID: `MCwxZjEwMjFmOGIwMjM0NWIzY2U3MzAxZWU4YjEyMTNhOThlZDQ3YjI4`

@@ -1,12 +1,12 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 405172,
+  "num_followers": 405324,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzdjMzVjMzFjMDgyMjVjNTZhOGZmYjU3MjIxODMzNmQ2MTgxMWMw",
+  "snapshot_id": "MCw2MmJlMDk4YzQ3ZDJjNDgxMzdlZTM3ZjdlYTA1NTRkM2Y0OTZlM2Ni",
   "tracks": [
     {
       "added_at": "2021-05-21 19:19:27",
@@ -691,22 +691,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Cuan Gran Amor",
-        "url": "https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Rosario",
-          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
-        }
-      ],
-      "duration_ms": 248813,
-      "name": "Que Se Llene Tu Casa",
-      "url": "https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "T\u00fa",
         "url": "https://open.spotify.com/album/1rsthZYWA3LRLAo9rTUztl"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 319763,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/3VDTYrLawIMXGFDWycvZ6E"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Cuan Gran Amor",
+        "url": "https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+        }
+      ],
+      "duration_ms": 248813,
+      "name": "Que Se Llene Tu Casa",
+      "url": "https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Cerca Est\u00e1s",
-        "url": "https://open.spotify.com/album/2YW7RI9hOb9hiDzUWeCRVz"
-      },
-      "artists": [
-        {
-          "name": "Marcela Gandara",
-          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
-        }
-      ],
-      "duration_ms": 189035,
-      "name": "No Hay Distancia",
-      "url": "https://open.spotify.com/track/3RsC2nWzi0XSOJcZTFdKss"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "De La a a La Z",
         "url": "https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 226306,
       "name": "No Soy Yo (feat. Redimi2)",
       "url": "https://open.spotify.com/track/0pA8nTkyVvFdd1HO0oaOrB"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Cerca Est\u00e1s",
+        "url": "https://open.spotify.com/album/2YW7RI9hOb9hiDzUWeCRVz"
+      },
+      "artists": [
+        {
+          "name": "Marcela Gandara",
+          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+        }
+      ],
+      "duration_ms": 189035,
+      "name": "No Hay Distancia",
+      "url": "https://open.spotify.com/track/3RsC2nWzi0XSOJcZTFdKss"
     },
     {
       "added_at": "2021-05-21 19:19:27",

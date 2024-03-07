@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 274338,
+  "2024-03-07": 274370,
   "date_first_scraped": "2021-12-21",
   "description": "Django and beyond.",
   "name": "Hot Club Swing",
@@ -166,13 +166,33 @@
     },
     {
       "album": {
-        "name": "Selmer #607",
+        "name": "The Selmer #607 Album",
         "url": "https://open.spotify.com/album/5wn3yJzr331FKk9rq8bm5z"
       },
       "artists": [
         {
           "name": "Adrien Moignard",
           "url": "https://open.spotify.com/artist/2aMdhZeYSUVewlfjx9ntIn"
+        },
+        {
+          "name": "Selmer #607",
+          "url": "https://open.spotify.com/artist/56uU1OZizI84F7hkLuvYWI"
+        },
+        {
+          "name": "Rocky Gresset",
+          "url": "https://open.spotify.com/artist/3LgwMt7NY7ofdnipSHcahX"
+        },
+        {
+          "name": "Noe Reinhardt",
+          "url": "https://open.spotify.com/artist/5VXizzX9cAJKol49amHkCU"
+        },
+        {
+          "name": "Sebastien Giniaux",
+          "url": "https://open.spotify.com/artist/6zvx3s2J92fS42ezTRAvCX"
+        },
+        {
+          "name": "Richard Manetti",
+          "url": "https://open.spotify.com/artist/5esq88DOd4bNltFwMav6Yc"
         }
       ],
       "date_added": "2021-02-04",
@@ -2108,13 +2128,33 @@
     },
     {
       "album": {
-        "name": "Selmer #607",
+        "name": "The Selmer #607 Album",
         "url": "https://open.spotify.com/album/5wn3yJzr331FKk9rq8bm5z"
       },
       "artists": [
         {
           "name": "Adrien Moignard",
           "url": "https://open.spotify.com/artist/2aMdhZeYSUVewlfjx9ntIn"
+        },
+        {
+          "name": "Selmer #607",
+          "url": "https://open.spotify.com/artist/56uU1OZizI84F7hkLuvYWI"
+        },
+        {
+          "name": "Rocky Gresset",
+          "url": "https://open.spotify.com/artist/3LgwMt7NY7ofdnipSHcahX"
+        },
+        {
+          "name": "Noe Reinhardt",
+          "url": "https://open.spotify.com/artist/5VXizzX9cAJKol49amHkCU"
+        },
+        {
+          "name": "Sebastien Giniaux",
+          "url": "https://open.spotify.com/artist/6zvx3s2J92fS42ezTRAvCX"
+        },
+        {
+          "name": "Richard Manetti",
+          "url": "https://open.spotify.com/artist/5esq88DOd4bNltFwMav6Yc"
         }
       ],
       "date_added": "2021-02-04",

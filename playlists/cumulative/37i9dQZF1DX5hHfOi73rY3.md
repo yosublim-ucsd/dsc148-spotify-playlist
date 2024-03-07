@@ -4,7 +4,7 @@
 
 > Dance anthems from the club to your ears!
 
-171 songs - 12 hr 38 min
+172 songs - 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Coma Cat](https://open.spotify.com/track/48gv7cE3Fs4DNNSgWkbu1f) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Coma Cat](https://open.spotify.com/album/6nw5kO6PPxOI2RzuNX7Bya) | 2:57 | 2020-11-06 |  |
 | [Control](https://open.spotify.com/track/3aE4H40sir4lVzMG7MxYBj) | [Matrix & Futurebound](https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7), [Max Marshall](https://open.spotify.com/artist/7ppllgzNRgrnOjYbsyDzO6) | [Mystery Machine](https://open.spotify.com/album/7tIUXWWbdUtPvzZRWrn7zj) | 3:48 | 2020-11-06 | 2024-01-18 |
 | [Control](https://open.spotify.com/track/5jtxBiPcN1rlvNDZOYI7UT) | [Matrix & Futurebound](https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7), [Max Marshall](https://open.spotify.com/artist/7ppllgzNRgrnOjYbsyDzO6) | [Control](https://open.spotify.com/album/6hlTk0Uez126pGiaVpmVPx) | 3:48 | 2020-11-06 | 2022-07-29 |
-| [Dance To The Music](https://open.spotify.com/track/0izF9lgQMFggcKXaia48Xa) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Dance To The Music](https://open.spotify.com/album/6zcnuO88B7AClFIH7kB9Vq) | 2:38 | 2024-02-02 |  |
+| [Dance To The Music](https://open.spotify.com/track/0izF9lgQMFggcKXaia48Xa) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Dance To The Music](https://open.spotify.com/album/6zcnuO88B7AClFIH7kB9Vq) | 2:38 | 2024-02-02 | 2024-03-07 |
 | [Dancin' Kinda Close](https://open.spotify.com/track/1jgpqjOTmP8MCSVKrSnRA0) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Tough Love](https://open.spotify.com/artist/16KSSLMXOdKQ2MHt9bOHTG) | [Dancin' Kinda Close](https://open.spotify.com/album/06DKvpdhatYnG0cb6yQuTW) | 2:36 | 2020-11-06 | 2022-07-27 |
 | [Dancing \(Again!\) \- Radio Edit](https://open.spotify.com/track/0Ky8528v9lxA86Fyz905ee) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Ron Costa](https://open.spotify.com/artist/5rm0DojzB3HDGjA2iS40cd), [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Audion](https://open.spotify.com/artist/2c5hkj3YJYLoXwX2MTlQCE) | [Dancing \(Again!\)](https://open.spotify.com/album/5A50JBYq6suas94B59VPr7) | 3:19 | 2020-11-06 | 2022-07-29 |
 | [Deep Down Low](https://open.spotify.com/track/46rZgRYU1H5Xnv0n75OGis) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Deep Down Low](https://open.spotify.com/album/67bF4s11NHmoi7cnwJcEMM) | 3:10 | 2020-11-06 | 2023-09-27 |
@@ -179,5 +179,6 @@
 | [Woman of the Ghetto \- Catz 'n Dogz Remix](https://open.spotify.com/track/7vPeeVHtpJIJwy6PsONjvb) | [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w), [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh) | [Woman of the Ghetto](https://open.spotify.com/album/2qAYzFQzljys16Tvf63YLE) | 5:56 | 2020-11-06 | 2022-07-25 |
 | [Ya Kidding](https://open.spotify.com/track/23u8Srx4MNpBjrM66Tj7On) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Ya Kidding](https://open.spotify.com/album/3pmLTOrDeJHsj01Fnu5030) | 3:58 | 2020-11-06 |  |
 | [Ya Kidding](https://open.spotify.com/track/3fDgxdcf0jeJgGiZJGUmyK) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Ya Kidding](https://open.spotify.com/album/3asXE8koS98nGPVDSPKe5e) | 3:58 | 2020-11-06 | 2023-10-16 |
+| [You Know It](https://open.spotify.com/track/64Kw68jjKqqYK5hQrCkrVT) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [You Know It](https://open.spotify.com/album/1pQyujwr8WMM8nXV21a5tY) | 3:55 | 2024-03-01 |  |
 
 \*This playlist was first scraped on 2022-01-18. Prior content cannot be recovered.

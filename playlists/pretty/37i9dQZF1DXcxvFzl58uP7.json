@@ -1,12 +1,12 @@
 {
   "description": "Dreamy melodies and hushed vocals.  Cover: Clairo",
-  "num_followers": 1106247,
+  "num_followers": 1106280,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzZlNDQ1MmI2MmU3NDgxMzkyZDFlYzU1NTVjZDExMWJlMzYxZmNi",
+  "snapshot_id": "MCxkNzRiNWExMmU2MGE4YzBlYjJiMjVhMjVlNmViM2UwZDcyNzNmYWMy",
   "tracks": [
     {
       "added_at": "2024-01-12 16:54:40",
@@ -677,6 +677,30 @@
       "url": "https://open.spotify.com/track/33HfUi07zAeFxmsKfUE7Yy"
     },
     {
+      "added_at": "2024-03-01 19:48:19",
+      "album": {
+        "name": "Years Roll By",
+        "url": "https://open.spotify.com/album/6mJGloUq4jFTEoEaThnh6i"
+      },
+      "artists": [
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        },
+        {
+          "name": "MUNYA",
+          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
+        },
+        {
+          "name": "JORDANN",
+          "url": "https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF"
+        }
+      ],
+      "duration_ms": 189475,
+      "name": "Years Roll By",
+      "url": "https://open.spotify.com/track/0pVG9Vj40uY2Z7D4afDEPT"
+    },
+    {
       "added_at": "2024-01-12 16:54:40",
       "album": {
         "name": "5K",
@@ -727,30 +751,6 @@
       "duration_ms": 177600,
       "name": "Mystery",
       "url": "https://open.spotify.com/track/3ZW48z429TwTJlEN9vxs8u"
-    },
-    {
-      "added_at": "2024-03-01 19:48:19",
-      "album": {
-        "name": "Years Roll By",
-        "url": "https://open.spotify.com/album/6mJGloUq4jFTEoEaThnh6i"
-      },
-      "artists": [
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        },
-        {
-          "name": "MUNYA",
-          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
-        },
-        {
-          "name": "JORDANN",
-          "url": "https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF"
-        }
-      ],
-      "duration_ms": 189475,
-      "name": "Years Roll By",
-      "url": "https://open.spotify.com/track/0pVG9Vj40uY2Z7D4afDEPT"
     },
     {
       "added_at": "2024-03-01 19:48:19",
@@ -833,20 +833,32 @@
       "url": "https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT"
     },
     {
-      "added_at": "2024-01-12 16:54:40",
+      "added_at": "2024-03-01 19:48:19",
       "album": {
-        "name": "I Just Wanna",
-        "url": "https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE"
+        "name": "milk in the morning",
+        "url": "https://open.spotify.com/album/6mh0NWiMbPjv22MWcE7exj"
       },
       "artists": [
         {
-          "name": "Superfan",
-          "url": "https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM"
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        },
+        {
+          "name": "Jomie",
+          "url": "https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g"
+        },
+        {
+          "name": "Zaini",
+          "url": "https://open.spotify.com/artist/1MF873qFvGywvDUQbldyMH"
+        },
+        {
+          "name": "Skinny Atlas",
+          "url": "https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a"
         }
       ],
-      "duration_ms": 254399,
-      "name": "I Just Wanna",
-      "url": "https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe"
+      "duration_ms": 190223,
+      "name": "milk in the morning",
+      "url": "https://open.spotify.com/track/0nsdJMaNiVrEA224ojPFaT"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -863,6 +875,22 @@
       "duration_ms": 132000,
       "name": "Car Crash in G Major",
       "url": "https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
+        "name": "I Just Wanna",
+        "url": "https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE"
+      },
+      "artists": [
+        {
+          "name": "Superfan",
+          "url": "https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM"
+        }
+      ],
+      "duration_ms": 254399,
+      "name": "I Just Wanna",
+      "url": "https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -927,34 +955,6 @@
       "duration_ms": 153783,
       "name": "Punching Bag",
       "url": "https://open.spotify.com/track/09tYMZ38sfZRZmrN0basVJ"
-    },
-    {
-      "added_at": "2024-03-01 19:48:19",
-      "album": {
-        "name": "milk in the morning",
-        "url": "https://open.spotify.com/album/6mh0NWiMbPjv22MWcE7exj"
-      },
-      "artists": [
-        {
-          "name": "Powfu",
-          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
-        },
-        {
-          "name": "Jomie",
-          "url": "https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g"
-        },
-        {
-          "name": "Zaini",
-          "url": "https://open.spotify.com/artist/1MF873qFvGywvDUQbldyMH"
-        },
-        {
-          "name": "Skinny Atlas",
-          "url": "https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a"
-        }
-      ],
-      "duration_ms": 190223,
-      "name": "milk in the morning",
-      "url": "https://open.spotify.com/track/0nsdJMaNiVrEA224ojPFaT"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
+        "name": "distance",
+        "url": "https://open.spotify.com/album/14zPJo0XCQPwifvjqjjHTL"
+      },
+      "artists": [
+        {
+          "name": "dyl dion",
+          "url": "https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h"
+        }
+      ],
+      "duration_ms": 184506,
+      "name": "distance",
+      "url": "https://open.spotify.com/track/6Z8O4QYEUXhKgO3F5KKImY"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
         "name": "You Make Me Feel",
         "url": "https://open.spotify.com/album/5x6rupJeZv1BxbNGVcxNDL"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 168542,
       "name": "MESS U MADE",
       "url": "https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
-        "name": "distance",
-        "url": "https://open.spotify.com/album/14zPJo0XCQPwifvjqjjHTL"
-      },
-      "artists": [
-        {
-          "name": "dyl dion",
-          "url": "https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h"
-        }
-      ],
-      "duration_ms": 184506,
-      "name": "distance",
-      "url": "https://open.spotify.com/track/6Z8O4QYEUXhKgO3F5KKImY"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "an extended play",
-        "url": "https://open.spotify.com/album/6A8wvaD6svtFhnuJ9DbrLF"
+        "name": "PLEASURES",
+        "url": "https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM"
       },
       "artists": [
         {
-          "name": "pizzagirl",
-          "url": "https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA"
+          "name": "ADOY",
+          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
         }
       ],
-      "duration_ms": 298477,
-      "name": "seabirds",
-      "url": "https://open.spotify.com/track/2WFmx1unF0TjYnzHhDyICp"
+      "duration_ms": 167000,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "PLEASURES",
-        "url": "https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM"
+        "name": "an extended play",
+        "url": "https://open.spotify.com/album/6A8wvaD6svtFhnuJ9DbrLF"
       },
       "artists": [
         {
-          "name": "ADOY",
-          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
+          "name": "pizzagirl",
+          "url": "https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA"
         }
       ],
-      "duration_ms": 167000,
-      "name": "In Love",
-      "url": "https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh"
+      "duration_ms": 298477,
+      "name": "seabirds",
+      "url": "https://open.spotify.com/track/2WFmx1unF0TjYnzHhDyICp"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "amphetamine",
-        "url": "https://open.spotify.com/album/7x0K5adxax0P3lHcYj7UfN"
-      },
-      "artists": [
-        {
-          "name": "boylife",
-          "url": "https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb"
-        }
-      ],
-      "duration_ms": 120241,
-      "name": "amphetamine",
-      "url": "https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
         "name": "three days",
         "url": "https://open.spotify.com/album/03QHPO8UISM00EjTxjnze4"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 133175,
       "name": "three days",
       "url": "https://open.spotify.com/track/5A2r83uvDlxSBsgbfQ2zCv"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
+        "name": "amphetamine",
+        "url": "https://open.spotify.com/album/7x0K5adxax0P3lHcYj7UfN"
+      },
+      "artists": [
+        {
+          "name": "boylife",
+          "url": "https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb"
+        }
+      ],
+      "duration_ms": 120241,
+      "name": "amphetamine",
+      "url": "https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa"
     },
     {
       "added_at": "2024-01-12 16:54:40",

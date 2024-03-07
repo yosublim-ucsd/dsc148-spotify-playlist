@@ -435,13 +435,17 @@
     },
     {
       "album": {
-        "name": "General Suleiman - Single",
+        "name": "General Suleiman",
         "url": "https://open.spotify.com/album/3v9aU2QPhQOcDQYt06WGmX"
       },
       "artists": [
         {
           "name": "Zeid and the Wings",
           "url": "https://open.spotify.com/artist/262WKWZkp6ZpLUyxOVyPZi"
+        },
+        {
+          "name": "Zeid Hamdan",
+          "url": "https://open.spotify.com/artist/70z9FptZNtsoQ8OeB3p9ks"
         }
       ],
       "date_added": "2021-08-11",

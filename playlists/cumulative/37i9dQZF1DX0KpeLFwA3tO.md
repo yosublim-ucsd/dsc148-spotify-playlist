@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Games We Play
 
-1,639 songs - 3 day 9 hr 43 min
+1,640 songs - 3 day 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,8 @@
 | [clay wings](https://open.spotify.com/track/2AJy94L8nM0s0kYI5rThGT) | [Scruffpuppie](https://open.spotify.com/artist/4sfEJm0Dv8H6RFfeenNJEd) | [clay wings](https://open.spotify.com/album/0msGttj9WvZOKVVBRpN2Vm) | 3:25 | 2022-11-18 | 2023-03-03 |
 | [Clean\-Up Crew](https://open.spotify.com/track/4mrpZMkY5SeG0rD1T9Otm5) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [Clean\-Up Crew](https://open.spotify.com/album/7FfGVbBvsltFIH5kt8bjqI) | 3:58 | 2023-06-15 | 2023-08-25 |
 | [Clearview](https://open.spotify.com/track/5GT7fRtPrfhjJScixSFdZW) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [Clearview](https://open.spotify.com/album/5SkKB1BbGRpD1EHKiXjHjg) | 2:44 | 2021-12-17 | 2022-03-11 |
-| [Cling to a Poisoned Dream](https://open.spotify.com/track/114RKvqZgUCnBtjz7Qo2K1) | [Pissed Jeans](https://open.spotify.com/artist/6FTONkEJQsCSpoDHqaAP1V) | [Cling to a Poisoned Dream](https://open.spotify.com/album/0RHs3NdKlZD1RMu02boc3y) | 1:29 | 2024-03-01 |  |
+| [Cling to a Poisoned Dream](https://open.spotify.com/track/114RKvqZgUCnBtjz7Qo2K1) | [Pissed Jeans](https://open.spotify.com/artist/6FTONkEJQsCSpoDHqaAP1V) | [Cling to a Poisoned Dream](https://open.spotify.com/album/0RHs3NdKlZD1RMu02boc3y) | 1:29 | 2024-03-01 | 2024-03-07 |
+| [Cling to a Poisoned Dream](https://open.spotify.com/track/1eWkOXMRejiA6mEZCUHArO) | [Pissed Jeans](https://open.spotify.com/artist/6FTONkEJQsCSpoDHqaAP1V) | [Half Divorced](https://open.spotify.com/album/4oTZaBT6SoZ9NURR8p42xr) | 1:29 | 2024-03-01 |  |
 | [Closer](https://open.spotify.com/track/0q6Xgn4RsP8EMUrjOtoOy7) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Closer](https://open.spotify.com/album/4Yii1kjpP8ecDGZbkehbE2) | 3:35 | 2023-09-22 | 2023-11-10 |
 | [clown](https://open.spotify.com/track/5GfKeSuUwfAnWyHenxUhk9) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [clown](https://open.spotify.com/album/5UcNu57et728CTDfvtdFYP) | 2:15 | 2023-08-03 | 2023-09-29 |
 | [Clowns](https://open.spotify.com/track/0iAmdc0S5LJihKapte35CG) | [Petrol Girls](https://open.spotify.com/artist/7dEx5Gii91YpvTOzrrvx5L) | [Clowns](https://open.spotify.com/album/59ZGCVKwxTSe00MX1FyDY9) | 2:50 | 2022-03-31 | 2022-05-06 |

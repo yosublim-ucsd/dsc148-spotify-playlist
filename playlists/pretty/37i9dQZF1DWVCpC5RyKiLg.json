@@ -1,12 +1,12 @@
 {
   "description": "Pagode e Sertanejo pura sofr\u00eancia para te acompanhar na faxina!",
-  "num_followers": 716776,
+  "num_followers": 716876,
   "original_name": "Faxina com Sofr\u00eancia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTAwMzc2NjQ2OGJiZTVhNTYxOTc3MWZlZGUxOTBmNjNlMDdiYzgw",
+  "snapshot_id": "MCxjYjVlYjk3Njk5NTRmOTI2NGMxY2IxMGM5YTdhOGQ5ZWIwYWRkMDBm",
   "tracks": [
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1047,22 +1047,18 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Amando, Bebendo e Sofrendo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/48CmSzaD8bR6AYb7Ic2NdH"
+        "name": "De Copo Em Copo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7JxmoDBtxbijHVLDdBtQHR"
       },
       "artists": [
         {
-          "name": "Guilherme & Benuto",
-          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
-        },
-        {
-          "name": "Israel & Rodolffo",
-          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
+          "name": "George Henrique & Rodrigo",
+          "url": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
         }
       ],
-      "duration_ms": 161396,
-      "name": "Declara\u00e7\u00e3o pro Bar - Ao Vivo",
-      "url": "https://open.spotify.com/track/5Ge3eW6KYGdmTZbyF7YGVi"
+      "duration_ms": 158865,
+      "name": "De Copo Em Copo - Ao Vivo",
+      "url": "https://open.spotify.com/track/6uf6MiMitjd5RMgU8aamcH"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1107,18 +1103,22 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "De Copo Em Copo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7JxmoDBtxbijHVLDdBtQHR"
+        "name": "Amando, Bebendo e Sofrendo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/48CmSzaD8bR6AYb7Ic2NdH"
       },
       "artists": [
         {
-          "name": "George Henrique & Rodrigo",
-          "url": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        },
+        {
+          "name": "Israel & Rodolffo",
+          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
         }
       ],
-      "duration_ms": 158865,
-      "name": "De Copo Em Copo - Ao Vivo",
-      "url": "https://open.spotify.com/track/6uf6MiMitjd5RMgU8aamcH"
+      "duration_ms": 161396,
+      "name": "Declara\u00e7\u00e3o pro Bar - Ao Vivo",
+      "url": "https://open.spotify.com/track/5Ge3eW6KYGdmTZbyF7YGVi"
     },
     {
       "added_at": "2023-11-17 03:01:00",

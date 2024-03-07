@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 7880,
+  "2024-03-07": 7888,
   "date_first_scraped": "2023-07-06",
   "description": "Listen to the soundtracks of the drama Revenant. (\ub4dc\ub77c\ub9c8 \uc545\uadc0\uc758 \uc0ac\uc6b4\ub4dc \ud2b8\ub799\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) You can also listen to thriller music that makes you cool on a summer night. (\uc5ec\ub984\ubc24\uc744 \uc2dc\uc6d0\ud558\uac8c \ub9cc\ub4dc\ub294 \uc2a4\ub9b4\ub7ec \uc74c\uc545\ub3c4 \uc990\uaca8\ubcf4\uc2e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4.)",
   "name": "\uc545\uadc0 (Revenant)",
@@ -508,6 +508,24 @@
     },
     {
       "album": {
+        "name": "Revenant (Original Soundtrack) Pt.1",
+        "url": "https://open.spotify.com/album/6LZvcf7kGtjnbI7RckHFlR"
+      },
+      "artists": [
+        {
+          "name": "ALi",
+          "url": "https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186967,
+      "name": "Revenant",
+      "url": "https://open.spotify.com/track/3o9rRhf41DTyxSnUtsOw3I"
+    },
+    {
+      "album": {
         "name": "Revenant (Original Soundtrack) Pt.4",
         "url": "https://open.spotify.com/album/1YBoX5Ch2K3W0qbBNqSs5R"
       },
@@ -685,24 +703,6 @@
       "duration_ms": 228078,
       "name": "\uadf8\ub304 \uc544\ub098\uc694",
       "url": "https://open.spotify.com/track/2QyWg4ksyBMWA6MvOi6Qc2"
-    },
-    {
-      "album": {
-        "name": "Revenant (Original Television Soundtrack) Pt.1",
-        "url": "https://open.spotify.com/album/6LZvcf7kGtjnbI7RckHFlR"
-      },
-      "artists": [
-        {
-          "name": "ALi",
-          "url": "https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9"
-        }
-      ],
-      "date_added": "2023-07-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 186967,
-      "name": "\uc545\uadc0",
-      "url": "https://open.spotify.com/track/3o9rRhf41DTyxSnUtsOw3I"
     },
     {
       "album": {

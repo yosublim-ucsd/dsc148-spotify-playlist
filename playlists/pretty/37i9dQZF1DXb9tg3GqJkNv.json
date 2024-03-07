@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: Planet Giza",
-  "num_followers": 10601,
+  "num_followers": 10615,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YmZjNDJhOWUwNGIwMjY0NWI0ZGMxNjFmNThiOGM4ZTZiZWQ3Y2My",
+  "snapshot_id": "MCxhMDEzYmRhN2M2NTk5YTNhZmZjNGMwZmE1NmVjNDVmMzRmMTY3OTEx",
   "tracks": [
     {
       "added_at": "2024-02-28 19:23:41",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2024-02-28 19:23:41",
       "album": {
-        "name": "Fleurever",
-        "url": "https://open.spotify.com/album/3eUG46qXFv43R7IzZARnPH"
-      },
-      "artists": [
-        {
-          "name": "Jazz Cartier",
-          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
-        },
-        {
-          "name": "KTOE",
-          "url": "https://open.spotify.com/artist/597u4DRndwoUDP5uJNOJ0L"
-        }
-      ],
-      "duration_ms": 142640,
-      "name": "\u2022 RIGHT NOW",
-      "url": "https://open.spotify.com/track/1L5iqYFGMpKnmNjMgtiq0k"
-    },
-    {
-      "added_at": "2024-02-28 19:23:41",
-      "album": {
         "name": "BURN EVERYTHING",
         "url": "https://open.spotify.com/album/5wb97Ic2ukhlspPZAC29ow"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 169463,
       "name": "BURN EVERYTHING",
       "url": "https://open.spotify.com/track/3Bcphu5Gi1NdhMKAwx2yIj"
+    },
+    {
+      "added_at": "2024-02-28 19:23:41",
+      "album": {
+        "name": "Fleurever",
+        "url": "https://open.spotify.com/album/3eUG46qXFv43R7IzZARnPH"
+      },
+      "artists": [
+        {
+          "name": "Jazz Cartier",
+          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
+        },
+        {
+          "name": "KTOE",
+          "url": "https://open.spotify.com/artist/597u4DRndwoUDP5uJNOJ0L"
+        }
+      ],
+      "duration_ms": 142640,
+      "name": "\u2022 RIGHT NOW",
+      "url": "https://open.spotify.com/track/1L5iqYFGMpKnmNjMgtiq0k"
     },
     {
       "added_at": "2024-02-28 19:23:41",

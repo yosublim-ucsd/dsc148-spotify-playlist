@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 745201,
+  "2024-03-07": 745421,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Indonesia.",
   "name": "Top 50 - Indonesia",
@@ -1069,7 +1069,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 315960,
       "name": "Bertaut",
       "url": "https://open.spotify.com/track/630DpnzdfjdVqv2yLfPbAX"
@@ -3699,7 +3699,7 @@
       ],
       "date_added": "2023-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 257720,
       "name": "It Will Rain",
       "url": "https://open.spotify.com/track/0RUGuh2uSNFJpGMSsD1F5C"
@@ -8093,7 +8093,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 278000,
       "name": "Tanpa Rasa Bersalah",
       "url": "https://open.spotify.com/track/4Trhv4MBai2ay6vF5ovC7g"
@@ -8397,7 +8397,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-04",
+      "date_removed": null,
       "duration_ms": 220750,
       "name": "Those Eyes",
       "url": "https://open.spotify.com/track/2psRActEWsTlYYd7EDoyVR"

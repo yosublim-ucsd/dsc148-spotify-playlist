@@ -1704,10 +1704,32 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 306200,
       "name": "Reason!! - DRAMATIC STARS & S.E.M Ver.",
       "url": "https://open.spotify.com/track/4sTQDw1Wh7XFX5DGxebLLC"
+    },
+    {
+      "album": {
+        "name": "Reason!! (DRAMATIC STARS & S.E.M Ver.)",
+        "url": "https://open.spotify.com/album/3lbuwquhVwevgMS5xBIO1b"
+      },
+      "artists": [
+        {
+          "name": "DRAMATIC STARS",
+          "url": "https://open.spotify.com/artist/2CWofGLdKLyd0wUbm5IN43"
+        },
+        {
+          "name": "S.E.M",
+          "url": "https://open.spotify.com/artist/6z50vl34UBNvRB2CQGhDbj"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306200,
+      "name": "Reason!! - DRAMATIC STARS & S.E.M Version",
+      "url": "https://open.spotify.com/track/4mQ521ui5sMz8PucIJ6Vtq"
     },
     {
       "album": {
@@ -2898,7 +2920,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 220013,
       "name": "\u5343\u5ba2\u4e07\u6765\u30cb\u30fc\u30cf\u30aa\u30b5\u30a1\u30ab\u30b9\uff01",
       "url": "https://open.spotify.com/track/6xzS3JfLsFuXDeTsMStW6W"
@@ -3234,7 +3256,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 238933,
       "name": "\u7d20\u6575\u306bCon grazia\uff01",
       "url": "https://open.spotify.com/track/7aY5G6hQ98G1nxxNgshPiY"

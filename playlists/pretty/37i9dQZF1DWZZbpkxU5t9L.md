@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: SPYAIR
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,816 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,838 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 59 | [I'm Blessed](https://open.spotify.com/track/0U8JJXyvA1ufQd1CJLTl1E) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [I'm Blessed](https://open.spotify.com/album/5EWpB07ahlO57i3zRRaIsK) | 3:38 |
 | 60 | [Festival](https://open.spotify.com/track/45crhqJrSYZthAHfSFQqYB) | [Only U](https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt), [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk) | [JET SET RADIO](https://open.spotify.com/album/61pSh7OR7bh65oeV1AWU0A) | 3:50 |
 
-Snapshot ID: `MCxmNGI4YzYxMjQ4MzdkNzMxZmQwNzAzMDdkYTQ5ZWM5YTNlOTQwZmRm`
+Snapshot ID: `MCxiNTBhZTE5NThmYzQyZjdiYjhmYzNhNWM2ZjU2NjhhMDYwYWQ3NTcy`

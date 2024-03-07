@@ -1,12 +1,12 @@
 {
   "description": "The tracks you can put on repeat all day. Cover: Drake",
-  "num_followers": 252874,
+  "num_followers": 252934,
   "original_name": "R&B Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzYyOWI4NTBjZWVjMDczYzcxOTI2NjU1Y2NjNjA0ZmFlMjdiNDg4",
+  "snapshot_id": "MCxiYWZhYWRiYzNmMmU2MGYyYmNiNzBlNWNlMjliZGJlM2U5YWJmNWIw",
   "tracks": [
     {
       "added_at": "2024-02-28 18:42:36",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2024-02-28 18:42:36",
       "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 221746,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0AoBY2Y3qs6dtGgOD6c91N"
+    },
+    {
+      "added_at": "2024-02-28 18:42:36",
+      "album": {
         "name": "Nobody But You",
         "url": "https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 213214,
       "name": "Nobody But You",
       "url": "https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ"
-    },
-    {
-      "added_at": "2024-02-28 18:42:36",
-      "album": {
-        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
-        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 221746,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0AoBY2Y3qs6dtGgOD6c91N"
     },
     {
       "added_at": "2024-02-28 18:42:36",

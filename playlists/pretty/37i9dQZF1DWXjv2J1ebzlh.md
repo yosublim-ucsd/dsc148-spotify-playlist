@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,469 likes - 1,191 songs - 3 day 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,482 likes - 1,191 songs - 3 day 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -924,7 +924,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 914 | [Watchin' Out](https://open.spotify.com/track/7AaIWnkDOZFDpZBcW0r6ZQ) | [Split Decision Band](https://open.spotify.com/artist/4XEEn0HMV7zxiOm6B5DVLf) | [Watchin' Out](https://open.spotify.com/album/51UXHJ2YydaTSxJXoczKVz) | 3:15 |
 | 915 | [Aiulado](https://open.spotify.com/track/1JkKKmP75NOoyLQ0d48lom) | [Baba Sissoko](https://open.spotify.com/artist/4sox56HkYoppCSBF6Trcwl) | [Three Gees](https://open.spotify.com/album/7b0bXiyS0Vvdg75o40cXL4) | 6:33 |
 | 916 | [Calçada](https://open.spotify.com/track/1zvpgSygK37GOotGOgT45f) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Espiral de Ilusão](https://open.spotify.com/album/4rvNHxkP41rxzhthGuwo6Y) | 3:26 |
-| 917 | [Un Silbido Amoroso](https://open.spotify.com/track/5mMQ7vvIf7kvZ8Ajl9GkWj) | [Los Wembler's de Iquitos](https://open.spotify.com/artist/09o5k3t1L2ZxhJBnIERJxT) | [Cumbia Beat, Vol\. 1](https://open.spotify.com/album/6TkVAtfRkK37zR7IyE0pen) | 2:35 |
+| 917 | [Un Silbido Amoroso](https://open.spotify.com/track/5rv29txs2vMnNlRl1Dg06o) | [Los Wembler's de Iquitos](https://open.spotify.com/artist/09o5k3t1L2ZxhJBnIERJxT) | [Cumbia Beat, Vol\. 1](https://open.spotify.com/album/51CrmT3uzijQycjcdVQogr) | 2:35 |
 | 918 | [El sabrosito](https://open.spotify.com/track/7Jj7kSb5GZlVHPdVEUKFZc) | [La Sonora Cordobesa](https://open.spotify.com/artist/5rICAMDtQlBghUdJ4E3TLK) | [Colombia 45s](https://open.spotify.com/album/0FtvKqe3ypGZTq2OUHjRwD) | 2:32 |
 | 919 | [Yabaal](https://open.spotify.com/track/1npQHlmFEgK2wkXbQcWjia) | [Dur\-Dur Band](https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF) | [Volume 1, Volume 2 & Previously Unreleased Tracks \(Analog Africa No\. 27\)](https://open.spotify.com/album/5SXL2zkX2Ry2cxwirtRNJE) | 5:57 |
 | 920 | [Alvorada](https://open.spotify.com/track/7Bq17tNAUCLceZQOJMnj3D) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 2:38 |
@@ -1191,7 +1191,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1181 | [Crying Time](https://open.spotify.com/track/6Jp7navCluJ6vWlw7xiLST) | [Monguito Santamaria](https://open.spotify.com/artist/4F7OD66JSrIoPu0f0vJnBT) | [Blackout](https://open.spotify.com/album/6koDrvFY9DRuVhbZgq79LV) | 2:52 |
 | 1182 | [Girls of Iskandariah](https://open.spotify.com/track/6qjTzuLeVrXNusAt2KZBsC) | [Ihsan Al Munzer](https://open.spotify.com/artist/1tWWAIfn3YM1b952Uk0kCh) | [Belly Dance Disco](https://open.spotify.com/album/0Do7K9YnjkUIRLIVqXMmYA) | 2:36 |
 | 1183 | [Lluvia](https://open.spotify.com/track/2lnV7FeCi3UtS4pxVtZwQc) | [Sonora Tropical](https://open.spotify.com/artist/0OiG1SFAU2Upx6AcMh3Dnf) | [Tequila](https://open.spotify.com/album/6Hmy47Z7QAHf1JELfUe4yF) | 2:27 |
-| 1184 | [Baila Flaquita Baila](https://open.spotify.com/track/2EoRUusNgGxdlbh6VZFhVZ) | [Los Ecos](https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS) | [Cumbia Beat, Vol\. 2](https://open.spotify.com/album/6EazZKjqIG491OpVKCgCbG) | 3:06 |
+| 1184 | [Baila Flaquita Baila](https://open.spotify.com/track/09fcfqtiy8kY1wUjgiixSY) | [Los Ecos](https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS) | [Cumbia Beat, Vol\. 2](https://open.spotify.com/album/03oBwgQQGHWH5U2fCuUQy9) | 3:06 |
 | 1185 | [Artasu Nartasu](https://open.spotify.com/track/0XJytLWrCZ8z8dFEpewihC) | [Ali Hassan Kuban](https://open.spotify.com/artist/4dVQ9H8M0hxoRqAsnCGnMm) | [Walk like a Nubian](https://open.spotify.com/album/3ALfXPb23DQsEPoQL66vSO) | 5:43 |
 | 1186 | [El Diablo](https://open.spotify.com/track/5JXTjnYJd1STK0BWh3FIBS) | [Compay Quinto](https://open.spotify.com/artist/3ZjBjzEP0zWUcwUOsyKAoQ) | [El Diablo](https://open.spotify.com/album/5Z4w9G3XAfA3zw0LOq7SEY) | 2:47 |
 | 1187 | [Curious Story](https://open.spotify.com/track/6AWUPF6tmhik3ik3cxxGFN) | [Ry\-Co Jazz](https://open.spotify.com/artist/3umj1fcfDdwdTiv6YvAsO9) | [Dansons Avec …](https://open.spotify.com/album/0pWNqj6Q955BdihM13ita3) | 3:23 |
@@ -1200,4 +1200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1190 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1191 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCw2OWM0ZGY5MGYzMWEwNDFhZmQzZDAzZDVjZjFlNDIwMTcwY2Q3NzQz`
+Snapshot ID: `MCw3OGJlM2JlZTU0MjUzNjVlMzI1ZDg4YzFmNTZiM2Q3MzU1YTU4MzU1`

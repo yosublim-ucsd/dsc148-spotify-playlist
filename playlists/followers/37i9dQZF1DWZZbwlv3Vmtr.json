@@ -1,5 +1,5 @@
 {
-  "2024-03-06": 433340,
+  "2024-03-07": 433599,
   "date_first_scraped": "2022-04-20",
   "description": "Uptempo instrumental hip hop beats.",
   "name": "Focus Flow",
@@ -669,6 +669,24 @@
       "duration_ms": 135625,
       "name": "aroma",
       "url": "https://open.spotify.com/track/3xdrzUHfGrjyR9rpmXP58Q"
+    },
+    {
+      "album": {
+        "name": "At Ease",
+        "url": "https://open.spotify.com/album/3EPVotUCRpa0YRTfwsVehX"
+      },
+      "artists": [
+        {
+          "name": "Mizlo",
+          "url": "https://open.spotify.com/artist/4yfQDVxDZuhHtIKFROMjSQ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147567,
+      "name": "At Ease",
+      "url": "https://open.spotify.com/track/5UsgZGJsK5B98OmsL5ptzI"
     },
     {
       "album": {
@@ -2167,6 +2185,24 @@
       "duration_ms": 225326,
       "name": "Chinatown",
       "url": "https://open.spotify.com/track/4JFEywEZvco1yrUW4UHC36"
+    },
+    {
+      "album": {
+        "name": "Chrome",
+        "url": "https://open.spotify.com/album/0iMllOANJGQu2WNyZgpLIb"
+      },
+      "artists": [
+        {
+          "name": "Mother Keem",
+          "url": "https://open.spotify.com/artist/1URTwMVukB95vRmJwK9cWS"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112014,
+      "name": "Chrome",
+      "url": "https://open.spotify.com/track/69jaSWaSMN8g90yrPBBgbV"
     },
     {
       "album": {
@@ -4271,7 +4307,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 129856,
       "name": "Flora",
       "url": "https://open.spotify.com/track/1e1mFuvsUtb607JVgjjhQu"
@@ -9329,7 +9365,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 131211,
       "name": "Night In",
       "url": "https://open.spotify.com/track/3feeyGjoIIVNbzRLTSz7Wm"
@@ -9875,7 +9911,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-06",
       "duration_ms": 146379,
       "name": "only you",
       "url": "https://open.spotify.com/track/0FvxLuWx3pVjeAhqMyrKLl"
@@ -11353,6 +11389,24 @@
       "duration_ms": 121411,
       "name": "Raw Takes",
       "url": "https://open.spotify.com/track/04DVUpEzu58MzRgtDwkMbj"
+    },
+    {
+      "album": {
+        "name": "reaching",
+        "url": "https://open.spotify.com/album/59KiuYzZGNv0AAkoHl5rLe"
+      },
+      "artists": [
+        {
+          "name": "BTZ cult",
+          "url": "https://open.spotify.com/artist/5tiJzztsDP2iMsotmtModp"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127571,
+      "name": "reaching",
+      "url": "https://open.spotify.com/track/2HbDUPOSjGfxSEnSqM42P2"
     },
     {
       "album": {

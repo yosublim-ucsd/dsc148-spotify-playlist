@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: Cat Burns
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,109 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,119 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [No Service](https://open.spotify.com/track/5kCdBZHfHuAsSrU8hF9wF2) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [No Service](https://open.spotify.com/album/0SijjdP4yC4j4SO9xIXbTM) | 2:20 |
 | 100 | [Dancing and Crying](https://open.spotify.com/track/6PclnzE0BUZCBfgWqWZpXz) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Dancing and Crying](https://open.spotify.com/album/3oMxQY4fUv2Y39BeE2qQXd) | 3:17 |
 
-Snapshot ID: `MCxiNGNjZWE5Yjk5NTQ1YWRlZmQ1NTVjOGM1OWViOWEwZjNiMzhhODE1`
+Snapshot ID: `MCwxNzM4ZjA1ZTU3NTI4ZDIzZDA4Yzg2ZDBlNjBhMmU2ZjM1MDk4ZTA5`

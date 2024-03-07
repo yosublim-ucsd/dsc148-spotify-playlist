@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 | 29 | [Ces bottes sont faites pour marcher](https://open.spotify.com/track/272AWiVCoatzqTsDRP1KVi) | [Eileen](https://open.spotify.com/artist/2AocfyglsHV2wP3IobPCyH) | [French Women Legends](https://open.spotify.com/album/2YaoevzHAXk4ktz3Xz1FdM) | 2:33 |
 | 30 | [Le téléfon](https://open.spotify.com/track/5MkRyZiEyNnosHTAYs23Mx) | [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Nino Ferrer](https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG) | 2:47 |
 | 31 | [Daniela \(de quoi te mêles\-tu Daniela\)](https://open.spotify.com/track/5BnU92BVLCUKNmcWvxoXwp) | [Les Chaussettes Noires](https://open.spotify.com/artist/6KXdUNa8QT8Sty4k5G2LqK) | [Twistin' The Rock Story / Vol 5](https://open.spotify.com/album/2d5t4obzjRCFHHV5i2LJ1a) | 2:32 |
-| 32 | [L'idole des jeunes](https://open.spotify.com/track/0S4HOFZx606Zv6bEutTEez) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Anthologie Vol\. 1](https://open.spotify.com/album/12b1tVAedPdmKuBrIYhJBi) | 2:28 |
+| 32 | [L'idole des jeunes](https://open.spotify.com/track/6bWCSMKgyxe2HZz80hFnTD) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [L'idole des jeunes](https://open.spotify.com/album/4l3cOA85IiwDT4NpkBvbkV) | 2:28 |
 | 33 | [Il est cinq heures, Paris s'éveille](https://open.spotify.com/track/2CLeotsLhEUu0qkj56vbUj) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [Il est cinq heures](https://open.spotify.com/album/6uZABwQhmEllK5otzX9ONK) | 2:55 |
 | 34 | [La javanaise](https://open.spotify.com/track/7cUKT1Wiwve4E5iRFOLVmz) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [N°4](https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO) | 2:29 |
 | 35 | [Butterfly](https://open.spotify.com/track/3ZiYD5x1gKCrYtuHkxJ2kr) | [Danyel Gerard](https://open.spotify.com/artist/18wc7xvm8Ti7rqoLtf6jIU) | [O Melhor da Música Francesa](https://open.spotify.com/album/7o0DwyhqgvhgDXxyZez77o) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 | 49 | [La nuit n'en finit plus](https://open.spotify.com/track/5dPrYYQcqfZh3Wg3cnS43w) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [C'est ma chanson](https://open.spotify.com/album/5vcS1aftWAi42Jw7I8UXWP) | 2:58 |
 | 50 | [Un verre de whisky](https://open.spotify.com/track/5vZyhXFTYPEjKJ8gilY5Pt) | [Monty](https://open.spotify.com/artist/4OYkihLZO32dDQHd7wUI6z) | [Monty Tendres Années 60](https://open.spotify.com/album/4r1cDqQztqmJ5lpxKiTsrP) | 2:13 |
 
-Snapshot ID: `MCw1MzJjNjg4MTE1Njc3MDkxZGJmMDZmNjJhYTM2MTczZmU1ZmE4MmZk`
+Snapshot ID: `MCxjYmU3NDQ3NzkxYTY4YTZiYjBiMDY0NTlkNWE3OWE3NTNmNWVhY2Yz`

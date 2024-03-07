@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: SHOWNU X HYUNGWON \(MONSTA X\)
 
-928 songs - 2 day 2 hr 33 min
+929 songs - 2 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -791,7 +791,8 @@
 | [THE SOUND](https://open.spotify.com/track/0q8bRAh9BktYFcsFfXOOWI) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THE SOUND](https://open.spotify.com/album/6MZOLMj926Ee5L8SzFFeEE) | 3:00 | 2023-01-27 | 2023-07-12 |
 | [The Story Behind](https://open.spotify.com/track/1FjIg32VDdvHabecHKpe03) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Restart](https://open.spotify.com/album/3lZxrczzvuxPrbJYf8Sdyo) | 4:16 | 2024-01-09 | 2024-01-16 |
 | [The TRICKY’s Secret](https://open.spotify.com/track/719ak1xDEREpIxuHlGYKh6) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [HOUSE OF TRICKY : Doorbell Ringing](https://open.spotify.com/album/6AO0SV6HUmKSu85OECxtYK) | 1:47 | 2023-03-30 | 2023-05-24 |
-| [The Wind Of Spring](https://open.spotify.com/track/61T72vch0ZAkU4C5vaCDZV) | [チ・チャンウク](https://open.spotify.com/artist/3xpQw8QBD6q5IV8AGZu97n) | [The Wind Of Spring](https://open.spotify.com/album/17dHnBkaszXRiSYn569CD2) | 4:10 | 2024-03-05 |  |
+| [The Wind of Spring](https://open.spotify.com/track/3YRAamoGT0CR4jxIpbfk8q) | [チ・チャンウク](https://open.spotify.com/artist/3xpQw8QBD6q5IV8AGZu97n) | [The Wind of Spring](https://open.spotify.com/album/3NLkq7WSClMnISogy9NBzf) | 4:10 | 2024-03-05 |  |
+| [The Wind Of Spring](https://open.spotify.com/track/61T72vch0ZAkU4C5vaCDZV) | [チ・チャンウク](https://open.spotify.com/artist/3xpQw8QBD6q5IV8AGZu97n) | [The Wind Of Spring](https://open.spotify.com/album/17dHnBkaszXRiSYn569CD2) | 4:10 | 2024-03-05 | 2024-03-07 |
 | [There](https://open.spotify.com/track/6gHeWGamtOYHBd1LBZ7Fv6) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [There](https://open.spotify.com/album/2j8BoKqZrMUYTARDIs9XDk) | 3:35 | 2023-02-14 | 2023-07-26 |
 | [Tick Tick Boom](https://open.spotify.com/track/19WBBlTBTcgNGYBbY6HZB6) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [Day&Night](https://open.spotify.com/album/6tsh5bEFhDVuWVaNCGVhjc) | 2:59 | 2022-10-25 | 2023-02-09 |
 | [TIKI TAKA](https://open.spotify.com/track/6sPPNhpEwwWte3OJslsr0f) | [T\-ARA](https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8) | [Re:T\-ARA](https://open.spotify.com/album/1GTkiHxMFTVC9K9Zf2aoxU) | 3:16 | 2021-12-23 | 2022-01-26 |
