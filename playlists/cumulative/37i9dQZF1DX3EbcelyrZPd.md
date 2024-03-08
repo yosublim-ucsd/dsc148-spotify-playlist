@@ -2,9 +2,9 @@
 
 ### [Bongo Flava](https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd)
 
-> Get your fill of vibes straight out of Tanzania\. Cover: Jux
+> Get your fill of vibes straight out of Tanzania\. Cover: Nandy
 
-365 songs - 20 hr 48 min
+367 songs - 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Fall](https://open.spotify.com/track/2Nj3AvhTidY0PJhyYL8YSe) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Fall](https://open.spotify.com/album/1lWUiNiSLTAm8VPTR13YL4) | 3:26 | 2021-09-02 | 2022-07-29 |
 | [Fall](https://open.spotify.com/track/6JZemVPI8dX5M6is4gayPK) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Fall](https://open.spotify.com/album/6BnPu8dEH5XY5DJY1B0xef) | 3:33 | 2022-08-18 | 2023-08-18 |
 | [Falling](https://open.spotify.com/track/4OjohSrMjXzPwH64ICPsiB) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Falling](https://open.spotify.com/album/7uk0eVcrenwRaNqeT6Rf7p) | 2:59 | 2023-06-08 | 2024-02-02 |
+| [Falling](https://open.spotify.com/track/2hyUzNsKT454MY5Ro0nnD7) | [Narah Elba](https://open.spotify.com/artist/49xus9KjnESiLPl9EQuvU4) | [Falling](https://open.spotify.com/album/6gXbJ7vbb4mQWAqOjv6eon) | 2:39 | 2024-03-07 |  |
 | [Far Away](https://open.spotify.com/track/57PEYoPJxjMy35SNHtvwmf) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU) | [Far Away](https://open.spotify.com/album/6IZQtDq5yQhutjBTIN3E15) | 3:02 | 2023-10-19 | 2023-12-08 |
 | [Final](https://open.spotify.com/track/5mFGSbg87MiGcbyvJ1CyZU) | [Cheed](https://open.spotify.com/artist/2qB04YVOV3cm2YSEn5L90z) | [Final](https://open.spotify.com/album/1tIams5EiCYLSlutOW04rU) | 3:00 | 2021-10-29 | 2022-03-04 |
 | [Finesse \(East African Mix\) \- feat\. Rayvanny & Theecember](https://open.spotify.com/track/1mKt6MgYyZv6h8aTxX4ng8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Theecember](https://open.spotify.com/artist/0rzJVsg2Vmtvh9yBrPB2fs) | [Finesse \(East African Mix\) \[feat\. Rayvanny & Theecember\]](https://open.spotify.com/album/1eo8bkskV4VPzTLvKidTbE) | 2:35 | 2022-06-30 | 2023-01-13 |
@@ -98,7 +99,8 @@
 | [Hoi](https://open.spotify.com/track/5zhCjE9KiUCqZeKBwnsgIv) | [Hussein Machozi](https://open.spotify.com/artist/20okzd1cjkWwWOq4KvBszc), [Mr Blue](https://open.spotify.com/artist/1JPiOesbMiBVxVwjDYzOu2) | [Hoi](https://open.spotify.com/album/2bzN3eovanDiVHhnW9afer) | 3:06 | 2023-01-12 | 2023-05-05 |
 | [Honey](https://open.spotify.com/track/060Sdqj379wZ7kWho2kDd0) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Honey](https://open.spotify.com/album/5Ej7ISZLQkj3UUpTnN2ONM) | 2:19 | 2023-08-03 |  |
 | [How You Move](https://open.spotify.com/track/1bDINdR04Sqsnc9Wtu4XYD) | [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC), [Young DareSalama](https://open.spotify.com/artist/1hHvFni1HRPiOrVCRXqO9t) | [Make You Dance](https://open.spotify.com/album/76JePhiYaCK9EM1T1U9yRT) | 3:06 | 2023-02-02 | 2023-06-30 |
-| [Huku](https://open.spotify.com/track/3CRS6HLlhjIMLwDr4SJTK4) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT), [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu) | [Huku](https://open.spotify.com/album/4YpfW62TIniJGy8T6FvnyI) | 4:05 | 2023-09-07 |  |
+| [Huku](https://open.spotify.com/track/3CRS6HLlhjIMLwDr4SJTK4) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT), [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu) | [Huku](https://open.spotify.com/album/4YpfW62TIniJGy8T6FvnyI) | 4:05 | 2023-09-07 | 2024-03-08 |
+| [Huku](https://open.spotify.com/track/3x1ZFHH0rNQegE0usvJASO) | [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT), [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h) | [Huku](https://open.spotify.com/album/2D0Llsh1FVbbl0M2YeXe5L) | 4:04 | 2024-03-07 |  |
 | [Huruma \(feat\. Barnaba\)](https://open.spotify.com/track/1Nch97rBUl65eO5HBlZPro) | [Linex](https://open.spotify.com/artist/6HhPLV4Jk3jf30sxmRM2rp), [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Huruma \(feat\. Barnaba\)](https://open.spotify.com/album/0nuGzAR8QyueRPg9c26tbg) | 3:45 | 2023-08-10 | 2023-11-17 |
 | [Huu Mwaka](https://open.spotify.com/track/32f2btqR7W2xZeuqDQbDRN) | [Dayoo](https://open.spotify.com/artist/5cao6tIwCnI01KifhRwHnc), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Huu Mwaka](https://open.spotify.com/album/11Xoy9E2mkdfsquJSysiDt) | 3:31 | 2024-01-18 |  |
 | [Huyu Hapa](https://open.spotify.com/track/20eKkFZ3C7N7saVxn7BfDR) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Khan](https://open.spotify.com/album/3U9b6VslZuWzVmpxMLcPYO) | 2:57 | 2022-11-17 | 2023-08-18 |

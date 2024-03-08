@@ -4,7 +4,7 @@
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Connor Price & Haviah Mighty
 
-1,382 songs - 2 day 15 hr 57 min
+1,383 songs - 2 day 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,8 @@
 | [Birthday Sex](https://open.spotify.com/track/23xBtQiCK74bhkhfTqhM6F) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [Come By Here / Birthday Sex](https://open.spotify.com/album/0KP2Tp9ZoXXWbK8UqxWXaK) | 3:51 | 2022-11-04 | 2023-02-11 |
 | [BITTERSWEET \(feat\. Jay Isaiah\)](https://open.spotify.com/track/6PxYZIYmr224MiCl5Odhf4) | [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy), [Jay Isaiah](https://open.spotify.com/artist/0oMty0VPLJbB8WAQ8otDAs) | [BITTERSWEET \(feat\. Jay Isaiah\)](https://open.spotify.com/album/48JoWoFrzJuHbEINdW4dSk) | 2:50 | 2023-03-10 | 2023-05-06 |
 | [Black Card](https://open.spotify.com/track/5ejzQ4vFa8FQkHT6qcCBmd) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [Black Card](https://open.spotify.com/album/20KFfsB3DWh2V2i2DHqvhc) | 3:46 | 2022-09-09 | 2022-11-26 |
-| [Black For Green](https://open.spotify.com/track/10MHgsXUHZtBL6rBOWSr4S) | [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum), [THE 6TH LETTER](https://open.spotify.com/artist/5hM8TO6qnM1N04mPUcsg3V) | [Black For Green](https://open.spotify.com/album/7E0vKS0ocrn6O3fuRHrnZC) | 3:29 | 2023-06-23 |  |
+| [Black For Green](https://open.spotify.com/track/10MHgsXUHZtBL6rBOWSr4S) | [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum), [THE 6TH LETTER](https://open.spotify.com/artist/5hM8TO6qnM1N04mPUcsg3V) | [Black For Green](https://open.spotify.com/album/7E0vKS0ocrn6O3fuRHrnZC) | 3:29 | 2023-06-23 | 2024-03-08 |
+| [Black For Green](https://open.spotify.com/track/3kOERXpPLWxPEag0cpKu4b) | [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum), [THE 6TH LETTER](https://open.spotify.com/artist/5hM8TO6qnM1N04mPUcsg3V) | [777](https://open.spotify.com/album/2O7VQiUdIl95INCJ4yJfdl) | 3:29 | 2024-03-01 |  |
 | [Black Out](https://open.spotify.com/track/7qTMoS3UJcr9l32qxpmRWk) | [Madchild](https://open.spotify.com/artist/2mOzrayQHznyyCwOcGGHOr), [Obnoxious](https://open.spotify.com/artist/4VWygA8sSBNHhxKzfq8Niq) | [Black Out](https://open.spotify.com/album/1E90RNGutjfG1xgJpN6qHc) | 3:01 | 2022-09-16 | 2022-10-29 |
 | [Blame Me](https://open.spotify.com/track/3cxLYJ38ReOdnWNMGsR2WR) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Blame Me](https://open.spotify.com/album/3mRoh87HR5ixABjz2OWbZe) | 3:32 | 2022-08-19 | 2022-12-17 |
 | [BLANK THEORY](https://open.spotify.com/track/6zatInfujFU47Xy80BR71I) | [Kavale](https://open.spotify.com/artist/6q485cUmWwHHYBIEMxz7Ew) | [BLANK THEORY](https://open.spotify.com/album/1OUS1oS2ryvAG6l7klwUci) | 3:15 | 2023-06-09 | 2023-08-26 |

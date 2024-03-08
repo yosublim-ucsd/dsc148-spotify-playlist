@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover: Maisha Kanna",
+  "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover: NEALA",
   "name": "Fresh Finds Indonesia",
   "tracks": [
     {
@@ -760,7 +760,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 175962,
       "name": "77791",
       "url": "https://open.spotify.com/track/6w9XZxZiSVSWt32HSpYQSO"
@@ -1240,7 +1240,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 316346,
       "name": "About Jakarta Prayer",
       "url": "https://open.spotify.com/track/3uFafbEtgQvIhNqgO3JgQr"
@@ -3712,7 +3712,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 233500,
       "name": "At The Midnight",
       "url": "https://open.spotify.com/track/7v8STPCaEHrVsLhxgS97OF"
@@ -4924,7 +4924,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 195789,
       "name": "Beach Slap",
       "url": "https://open.spotify.com/track/6qFGZ0iHsyjjfVWvBN1NkY"
@@ -5180,7 +5180,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 205877,
       "name": "Beginning",
       "url": "https://open.spotify.com/track/40WCr4nZTuQV5xVljd21GG"
@@ -5772,7 +5772,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 228000,
       "name": "Berharap Indah",
       "url": "https://open.spotify.com/track/06RxgAIRZr0KnZvCeVjZme"
@@ -7668,7 +7668,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 239000,
       "name": "Broken Heart Plaza",
       "url": "https://open.spotify.com/track/51fVzeMbFKL9VxetgMdXxf"
@@ -7904,6 +7904,24 @@
       "duration_ms": 245142,
       "name": "Bukan Dewa",
       "url": "https://open.spotify.com/track/1cwSuscdFTjxKSfugDH39y"
+    },
+    {
+      "album": {
+        "name": "Bukan Jodoh",
+        "url": "https://open.spotify.com/album/2rgsLRovL6WmbicBh8sPsS"
+      },
+      "artists": [
+        {
+          "name": "Melisa Putri",
+          "url": "https://open.spotify.com/artist/3bttR4QObj76nAgjJ5hpa5"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245893,
+      "name": "Bukan Jodoh",
+      "url": "https://open.spotify.com/track/3FmwLJQLwBfDFG8yLJJWZi"
     },
     {
       "album": {
@@ -9194,6 +9212,24 @@
       "duration_ms": 247537,
       "name": "Cerita Lama",
       "url": "https://open.spotify.com/track/5dn6H3bbsczTDveLnDOCrL"
+    },
+    {
+      "album": {
+        "name": "Cerita Masa Lalu",
+        "url": "https://open.spotify.com/album/2AHWIAka7VFZJhdx3IvHOs"
+      },
+      "artists": [
+        {
+          "name": "Vlog",
+          "url": "https://open.spotify.com/artist/3vo0WTD8w0gxAL3eacq4JZ"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258043,
+      "name": "Cerita Masa Lalu",
+      "url": "https://open.spotify.com/track/5tAq8lHyUvYZmqO8YtkRDy"
     },
     {
       "album": {
@@ -10506,7 +10542,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 200930,
       "name": "come 'n find me",
       "url": "https://open.spotify.com/track/3OjEf6zYCbxM8zqolCafK0"
@@ -13035,6 +13071,24 @@
     },
     {
       "album": {
+        "name": "Do You Really?",
+        "url": "https://open.spotify.com/album/0GEuv87cWOaMKvLgHgBGT2"
+      },
+      "artists": [
+        {
+          "name": "NEALA",
+          "url": "https://open.spotify.com/artist/4V5YzitDsqCuuSr1zCDHEA"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182510,
+      "name": "Do You Really?",
+      "url": "https://open.spotify.com/track/3N6B7hTbvhAH5EX0V50ceg"
+    },
+    {
+      "album": {
         "name": "DOA",
         "url": "https://open.spotify.com/album/4779ic2Wmaebl8fihsUImG"
       },
@@ -13192,6 +13246,24 @@
       "duration_ms": 249230,
       "name": "Don't Desire Me",
       "url": "https://open.spotify.com/track/4mPaMOvlD6f9wNhdf72zqS"
+    },
+    {
+      "album": {
+        "name": "Don't Give It Up!",
+        "url": "https://open.spotify.com/album/653AcwYvIul0kzuTXNvL15"
+      },
+      "artists": [
+        {
+          "name": "Zhizaa",
+          "url": "https://open.spotify.com/artist/1kjUmnL4PHjLmfVg9G4PyZ"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169095,
+      "name": "Don't Give It Up!",
+      "url": "https://open.spotify.com/track/1POysye4LiQvmpdYLtl0ji"
     },
     {
       "album": {
@@ -14462,7 +14534,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 158923,
       "name": "ENIGMA",
       "url": "https://open.spotify.com/track/7oXcm7u69v7SMGjjPStqtw"
@@ -14972,7 +15044,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 220000,
       "name": "Fairy Tale",
       "url": "https://open.spotify.com/track/04b6XMvp3fCHGfC50GooC4"
@@ -16530,7 +16602,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 284200,
       "name": "Freebird",
       "url": "https://open.spotify.com/track/02ij5W74rJ5AojLY85ArFa"
@@ -17383,6 +17455,24 @@
     },
     {
       "album": {
+        "name": "Ghosting",
+        "url": "https://open.spotify.com/album/5oYHhRla5PTUV5ogzuzbMY"
+      },
+      "artists": [
+        {
+          "name": "Mawar",
+          "url": "https://open.spotify.com/artist/2CypVJmHuK9ZpK1N43tsOe"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240896,
+      "name": "Ghosting",
+      "url": "https://open.spotify.com/track/26CgdwlCWhb40UHQjKUEK3"
+    },
+    {
+      "album": {
         "name": "Ghosting (Tak Kan Kembali)",
         "url": "https://open.spotify.com/album/6CeDYlPpSVGiaXSJYvt5YP"
       },
@@ -17734,6 +17824,24 @@
       "duration_ms": 194642,
       "name": "Go Solo",
       "url": "https://open.spotify.com/track/0NHXUzk9c4rJWurd09Pp8d"
+    },
+    {
+      "album": {
+        "name": "God's Eye",
+        "url": "https://open.spotify.com/album/5VvowtQo41m62NHjFaD2c7"
+      },
+      "artists": [
+        {
+          "name": "Domm Duarte",
+          "url": "https://open.spotify.com/artist/2fzBCB64PrQlVa33UJ3YVI"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126537,
+      "name": "God's Eye",
+      "url": "https://open.spotify.com/track/6TwaLEeVKsnyjpcPuuOo3U"
     },
     {
       "album": {
@@ -18920,7 +19028,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 202000,
       "name": "Hapuskan Dia",
       "url": "https://open.spotify.com/track/0KQPNyjeX3Sft3fNFdZz1v"
@@ -19086,6 +19194,24 @@
       "duration_ms": 206520,
       "name": "Harus Berpisah",
       "url": "https://open.spotify.com/track/6jeKBQzfPlE3iajv42DGfS"
+    },
+    {
+      "album": {
+        "name": "Harus Pulang",
+        "url": "https://open.spotify.com/album/2iePjPnqDN7r2bvdXo9FOQ"
+      },
+      "artists": [
+        {
+          "name": "Agseisa",
+          "url": "https://open.spotify.com/artist/3HB7NpAUWsKvbuw0MQiR53"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Harus Pulang",
+      "url": "https://open.spotify.com/track/71bpHQc526JVip5yY2rhHI"
     },
     {
       "album": {
@@ -19646,6 +19772,24 @@
       "duration_ms": 208166,
       "name": "Here Comes The Past",
       "url": "https://open.spotify.com/track/3YJqqsUrY41sHnaHFXHhOr"
+    },
+    {
+      "album": {
+        "name": "Here I Am",
+        "url": "https://open.spotify.com/album/0RvLlrpepb4HTw1Huy7icE"
+      },
+      "artists": [
+        {
+          "name": "The Krankers",
+          "url": "https://open.spotify.com/artist/2ztGhiyALcRM1tKRUJrIYi"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292021,
+      "name": "Here I Am",
+      "url": "https://open.spotify.com/track/5SMpWjfz8r4X39FB96u7Ps"
     },
     {
       "album": {
@@ -22024,7 +22168,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 191999,
       "name": "Ice & Fire",
       "url": "https://open.spotify.com/track/672Y7jhCxTAk3vKe54jXBi"
@@ -23408,7 +23552,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 186048,
       "name": "Isi Hati - From \"Melodate\"",
       "url": "https://open.spotify.com/track/3aWdJOcKFwVniGuVD0b1Fh"
@@ -24410,7 +24554,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 302117,
       "name": "Janji",
       "url": "https://open.spotify.com/track/5Ht8D1uhqnY89GtOnnbHpP"
@@ -26206,7 +26350,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 293003,
       "name": "Kau dan Hujan",
       "url": "https://open.spotify.com/track/5M7EFMAkfAzAeovwnQptdL"
@@ -26498,7 +26642,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 516750,
       "name": "Kekasih Kota",
       "url": "https://open.spotify.com/track/4Ngdsb2TlpF9PS4fa9vcl9"
@@ -27076,6 +27220,24 @@
       "duration_ms": 244561,
       "name": "Kini Sempurna",
       "url": "https://open.spotify.com/track/4n6QwDwsn93HdFaWmm8x7t"
+    },
+    {
+      "album": {
+        "name": "Kini Sempurna (Piano Version)",
+        "url": "https://open.spotify.com/album/4pVgjk92TxMwzlyQTYelA7"
+      },
+      "artists": [
+        {
+          "name": "Alisha Dira",
+          "url": "https://open.spotify.com/artist/7HGA1yaatBdtc7N7S7gPFi"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Kini Sempurna - Piano Version",
+      "url": "https://open.spotify.com/track/68CEagqDjthYS9RWR7ukfw"
     },
     {
       "album": {
@@ -28952,7 +29114,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 232149,
       "name": "less sugar, please",
       "url": "https://open.spotify.com/track/3ECxqDL216DPm4nghJAbx6"
@@ -31928,7 +32090,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 125538,
       "name": "Martini (Keep My Eyes on You Girl) - KATVLA Remix",
       "url": "https://open.spotify.com/track/424vCyozwUHleLPxL0UOMb"
@@ -34620,7 +34782,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 180119,
       "name": "More Than Words - Stripped",
       "url": "https://open.spotify.com/track/4pfpDdof9ZsVC4AFDnfA30"
@@ -34880,7 +35042,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 177658,
       "name": "Munafik",
       "url": "https://open.spotify.com/track/1eTffmajIDCV7MYuuKKNIt"
@@ -37937,6 +38099,24 @@
     },
     {
       "album": {
+        "name": "PAIN AND SORROW",
+        "url": "https://open.spotify.com/album/0v7lXwrRtjzhLDxfOmweHu"
+      },
+      "artists": [
+        {
+          "name": "RVNVD",
+          "url": "https://open.spotify.com/artist/3Y4rEjmlazhFCMJaJO6LTO"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "PAIN AND SORROW",
+      "url": "https://open.spotify.com/track/5U60belEgnj70lHNhyg2TQ"
+    },
+    {
+      "album": {
         "name": "Pain in My Soul",
         "url": "https://open.spotify.com/album/0Qetxwe1Y3DRY6PJMYVnlJ"
       },
@@ -39048,7 +39228,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 242000,
       "name": "Perayaan",
       "url": "https://open.spotify.com/track/1sBqKnTkoKOeeWcxYtt5DI"
@@ -39322,7 +39502,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 205458,
       "name": "Perjalanan (New Version)",
       "url": "https://open.spotify.com/track/6CZXseNaWiVF17iXZciE47"
@@ -39419,6 +39599,24 @@
     },
     {
       "album": {
+        "name": "Pernah Berjuang",
+        "url": "https://open.spotify.com/album/4QEJo0QEzpZkgadzmJR6ea"
+      },
+      "artists": [
+        {
+          "name": "Maria Pudesa",
+          "url": "https://open.spotify.com/artist/3jn9ItpQc6JQXSMFYvWEbg"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246136,
+      "name": "Pernah Berjuang",
+      "url": "https://open.spotify.com/track/0I2PgIIQuoRAxAcInjs59U"
+    },
+    {
+      "album": {
         "name": "Pernah Hampir Sempurna",
         "url": "https://open.spotify.com/album/0OGxyThvQzQOx5eTN0oLfS"
       },
@@ -39492,6 +39690,24 @@
       "duration_ms": 295640,
       "name": "Persembahan",
       "url": "https://open.spotify.com/track/0DRm0vwbUzeUAxrS5RxAnM"
+    },
+    {
+      "album": {
+        "name": "Pertempuran Yang Tak Terlihat",
+        "url": "https://open.spotify.com/album/4EvN7F0nqJOHgz7SXvy6YB"
+      },
+      "artists": [
+        {
+          "name": "Araji",
+          "url": "https://open.spotify.com/artist/2zb2UOYEJ5NkqK7hJeT9Rj"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Pertempuran Yang Tak Terlihat",
+      "url": "https://open.spotify.com/track/6GjP1kJ3IHrTByytLoV4M9"
     },
     {
       "album": {
@@ -40754,7 +40970,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 223150,
       "name": "Pura-Pura Cinta",
       "url": "https://open.spotify.com/track/1QxghHsRgj0nE0ysxfkscB"
@@ -41530,6 +41746,24 @@
       "duration_ms": 205384,
       "name": "Reason",
       "url": "https://open.spotify.com/track/4RYw0HiXqTYZ6PWF5cs6Wl"
+    },
+    {
+      "album": {
+        "name": "Rebahkan Hati",
+        "url": "https://open.spotify.com/album/28AqCuEUcesX3ENLHi5GF0"
+      },
+      "artists": [
+        {
+          "name": "Marizka Juwita",
+          "url": "https://open.spotify.com/artist/5r4gOmUjJEcCjj749iGCsf"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252124,
+      "name": "Rebahkan Hati",
+      "url": "https://open.spotify.com/track/3dKznmlc2EYBS6h84MTgBv"
     },
     {
       "album": {
@@ -43574,7 +43808,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 204000,
       "name": "Sampai Bertemu",
       "url": "https://open.spotify.com/track/3eQZuBEnybQveDtuQPuOUz"
@@ -44446,7 +44680,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 194614,
       "name": "Sedjoli",
       "url": "https://open.spotify.com/track/4OqKKLU2o4Dlla1ljuhwyl"
@@ -45518,7 +45752,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 210037,
       "name": "Senin",
       "url": "https://open.spotify.com/track/2wzGTjK8OAEuFpSh55XZrM"
@@ -45644,7 +45878,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 245806,
       "name": "Senyawa Berlabuh",
       "url": "https://open.spotify.com/track/6kPeNVY2hzwHBF9HgP81Td"
@@ -45774,6 +46008,24 @@
       "duration_ms": 216768,
       "name": "Sepatah Ini",
       "url": "https://open.spotify.com/track/4EJfO6FNhTx976QDbr2Mse"
+    },
+    {
+      "album": {
+        "name": "Seperih Rasa Ini",
+        "url": "https://open.spotify.com/album/5pxRkrgWW6YTNjeutJGtBx"
+      },
+      "artists": [
+        {
+          "name": "Nath The Lions",
+          "url": "https://open.spotify.com/artist/6UgGqa4R6F5PAHtHhlRKui"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210158,
+      "name": "Seperih Rasa Ini",
+      "url": "https://open.spotify.com/track/0bwX5fQ0ssqBgo0I1SqVKT"
     },
     {
       "album": {
@@ -47974,7 +48226,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 189473,
       "name": "Something To Lose",
       "url": "https://open.spotify.com/track/22CDHq1Z1jcRs6hkIY9w6u"
@@ -50787,6 +51039,24 @@
     },
     {
       "album": {
+        "name": "Tak Setampan Nabi Yusuf",
+        "url": "https://open.spotify.com/album/1EXZj9bIplZGrfg9qIwooX"
+      },
+      "artists": [
+        {
+          "name": "Adam Vibes",
+          "url": "https://open.spotify.com/artist/3KAFRKMWElUtcPOV5XvB4O"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226560,
+      "name": "Tak Setampan Nabi Yusuf",
+      "url": "https://open.spotify.com/track/4tLP1NZvajJXBJ74sCYt5K"
+    },
+    {
+      "album": {
         "name": "Tak Terhenti (Original soundtrack from \"Axventure Amerta\")",
         "url": "https://open.spotify.com/album/2aiJ4gfuF0ueKe1x53zxiV"
       },
@@ -51576,7 +51846,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 241000,
       "name": "Telusuri",
       "url": "https://open.spotify.com/track/3hDVCLFmUEX5olJm6GbYup"
@@ -52122,7 +52392,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 277576,
       "name": "terhisap pekat",
       "url": "https://open.spotify.com/track/1F2SgovFDj29p5GzjDxOuS"
@@ -52464,7 +52734,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 263120,
       "name": "Tertipu Lagi",
       "url": "https://open.spotify.com/track/7MGdfibu9nL01I0VyOuBLG"
@@ -52554,7 +52824,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 179750,
       "name": "Tetap Berdiri",
       "url": "https://open.spotify.com/track/7HfmLnVC20JbJufNBUsyj1"
@@ -53612,7 +53882,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 184727,
       "name": "This Valentine",
       "url": "https://open.spotify.com/track/59HPkvtEFpXsz2IzngY1qn"
@@ -53720,7 +53990,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 198545,
       "name": "Thumbtack",
       "url": "https://open.spotify.com/track/6nfebNZTl3nJpfbw0oBguj"
@@ -54762,7 +55032,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 195483,
       "name": "Try",
       "url": "https://open.spotify.com/track/5vjkNZ2R69dAelCXZMLCSE"
@@ -55116,7 +55386,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 268456,
       "name": "Two Shades of Blue",
       "url": "https://open.spotify.com/track/1VFut4Vn4njFA03Ce5Ioxs"
@@ -55640,7 +55910,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 195000,
       "name": "Unserenity",
       "url": "https://open.spotify.com/track/5TrHCOROZueavvBCp4IqFv"
@@ -57912,7 +58182,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 207966,
       "name": "WYA",
       "url": "https://open.spotify.com/track/0kiQ1GIStknXkpHkKdHHlU"

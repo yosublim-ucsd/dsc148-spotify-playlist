@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-463 songs - 20 hr 36 min
+464 songs - 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -415,7 +415,8 @@
 | [The Master Plan](https://open.spotify.com/track/1OtQ0XVgp8NqAFysg5s51I) | [No Contaban](https://open.spotify.com/artist/1YR4LnGUaLSh5PwvlM56Cx) | [The Master Plan](https://open.spotify.com/album/48HhE7r0wenK3S0mVSh7Ma) | 3:01 | 2023-01-20 |  |
 | [The Only One](https://open.spotify.com/track/2OD0VuNOcLQ2yljgCVyncD) | [Suzi Quizas](https://open.spotify.com/artist/0uIPCZ3Iae8JJDDmEEuIon) | [The Only One](https://open.spotify.com/album/2Hvq8yU7GZ5Kuq8pHsGKOl) | 2:39 | 2023-01-20 |  |
 | [The Refined Man](https://open.spotify.com/track/5UuUrMvPPVfYMTG349zKfs) | [dogphase](https://open.spotify.com/artist/2PhI5ndGzuBaGWTPadjj4g) | [Wanderlust](https://open.spotify.com/album/0K7VVnjrbKfCFHw2FnjIjs) | 2:16 | 2021-11-10 | 2022-09-09 |
-| [The Root](https://open.spotify.com/track/3E2orGjD3CryCi8YJKBISZ) | [Analog Traveler](https://open.spotify.com/artist/3AGRClAwZvywt0uJhCRndG) | [The Root](https://open.spotify.com/album/6q6llTQtc44REoCEtpuOQG) | 3:28 | 2022-04-15 |  |
+| [The Root](https://open.spotify.com/track/1xc98BOXjA79dOsq66RXKf) | [Analog Traveler](https://open.spotify.com/artist/3AGRClAwZvywt0uJhCRndG) | [The Root](https://open.spotify.com/album/1xjYGSVeaviVdvexe74eww) | 3:28 | 2024-03-03 |  |
+| [The Root](https://open.spotify.com/track/3E2orGjD3CryCi8YJKBISZ) | [Analog Traveler](https://open.spotify.com/artist/3AGRClAwZvywt0uJhCRndG) | [The Root](https://open.spotify.com/album/6q6llTQtc44REoCEtpuOQG) | 3:28 | 2022-04-15 | 2024-03-08 |
 | [The Simplest Things](https://open.spotify.com/track/3Ze6UW8ab1IpF7W7BieBgC) | [Ambient Solle](https://open.spotify.com/artist/34ScNK2ccDxZim8TVcqWXT) | [The Simplest Things](https://open.spotify.com/album/4aSBkBh9c126FxY1EHvgT9) | 3:06 | 2022-09-16 |  |
 | [The Yellow Taxi](https://open.spotify.com/track/2t7CtXjvm9a4tVl8rj6O05) | [Tethered Ghosts](https://open.spotify.com/artist/4tMeBDw2jUzYYCxx4MqlVM) | [Left on Read](https://open.spotify.com/album/0p3KQ3yiMRA82ueeUAdcIq) | 2:44 | 2022-01-21 |  |
 | [Think 'Bout It](https://open.spotify.com/track/5PuRbn05FsrvzbfkeXJs2P) | [Josue Kornblit](https://open.spotify.com/artist/0ZSyq1kamkeM9902EnkzBd) | [Think 'Bout It](https://open.spotify.com/album/0oXrr6xo6MGvtqW04RVASi) | 4:11 | 2023-01-20 |  |

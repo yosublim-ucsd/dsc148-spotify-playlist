@@ -1,5 +1,5 @@
 {
-  "2024-03-07": 2279487,
+  "2024-03-08": 2279864,
   "date_first_scraped": "2020-09-30",
   "description": "The hottest tracks of today ft. Flo Milli, Drake, Jack Harlow and more.",
   "name": "Hot Rhythmic",
@@ -13599,6 +13599,24 @@
       "duration_ms": 196733,
       "name": "No Drama",
       "url": "https://open.spotify.com/track/1YmyHCxLKjLBBNQU51yQOh"
+    },
+    {
+      "album": {
+        "name": "No Fear",
+        "url": "https://open.spotify.com/album/35uDNZkjmhAEnV3sz9A7jI"
+      },
+      "artists": [
+        {
+          "name": "DeJ Loaf",
+          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169853,
+      "name": "No Fear",
+      "url": "https://open.spotify.com/track/2H881m3JRA8lpuuwaQL6zy"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Músicas acústicas para acompanhar sua sessão de pilates.
 
-252 songs - 14 hr 0 min
+253 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Lucky](https://open.spotify.com/track/3MPacNsUkvxG9pguHGs7e9) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Overwhelmed and Viral](https://open.spotify.com/album/5SnZtfa9iEDFPCsRiupW8p) | 3:11 | 2022-11-11 | 2022-11-13 |
 | [Mama Tried](https://open.spotify.com/track/3rf6VnUNCIgWlujpWL5hlE) | [Los Types](https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N) | [Mama Tried](https://open.spotify.com/album/1iQ3sSsCp4nvcs4313TKpF) | 2:24 | 2022-08-03 |  |
 | [Mood \- Acoustic](https://open.spotify.com/track/50bNtjatwTxRbw6gMncgcr) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Mood \(Acoustic\)](https://open.spotify.com/album/69dfiUTykV6DzWoP8vzgdc) | 2:55 | 2022-01-12 |  |
+| [Motivation](https://open.spotify.com/track/5cVw27vwkpX6Z12xaVucIF) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [Motivation](https://open.spotify.com/album/5y4YnpERRNtostksU2eRxX) | 3:26 | 2024-03-08 |  |
 | [Mr\. Brightside](https://open.spotify.com/track/6gSXDd3P1nIjuM1v1ZQqi6) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Mr\. Brightside](https://open.spotify.com/album/4KawaUrdB0FiEsseoniy3z) | 3:35 | 2022-11-11 |  |
 | [Nights Like This \(Acoustic\)](https://open.spotify.com/track/5qmBaa3MtKuyKy79WTUaBo) | [POOL KIDS](https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR) | [Nights Like This \(Acoustic\)](https://open.spotify.com/album/18mm5k1571gbV8zGOZu9f3) | 3:43 | 2022-12-23 |  |
 | [No One's Gonna Love You](https://open.spotify.com/track/0cQmxIOVXnwTDBeT6tCwpV) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [No One's Gonna Love You](https://open.spotify.com/album/20dnZ3BrNrsHnkTyHb6MW7) | 4:00 | 2023-02-17 |  |

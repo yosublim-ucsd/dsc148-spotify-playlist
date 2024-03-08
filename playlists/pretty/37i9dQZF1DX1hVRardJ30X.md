@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Carin Leon & Kane Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,360 likes - 57 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,381 likes - 57 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 25 | [OJALÁ LLUEVA TEQUILA](https://open.spotify.com/track/5jOr1aAIMZgA6bsfI32Fcs) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [OJALÁ LLUEVA TEQUILA](https://open.spotify.com/album/5nsy0CgJ8p7Ws2pQYiVT1q) | 2:32 |
 | 26 | [Fresas de la Capital \- Remix](https://open.spotify.com/track/0YL4V7R077SARGTtJkBFLj) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Jaque Mate](https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew), [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V) | [Fresas de la Capital \(Remix\)](https://open.spotify.com/album/0KbEkXdXyUEscWEtJulK3M) | 3:14 |
 | 27 | [Bailando \- Latin Urbano Remix](https://open.spotify.com/track/3D7q9QbalMOtCBNAsgLjY8) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Bailando \(Latin Urbano Remix\)](https://open.spotify.com/album/6X8mPyaTmPedCn0oWimxao) | 3:07 |
-| 28 | [No Quiero Buscarte \(feat\. Leslie Shaw\)](https://open.spotify.com/track/7IFgM80ZSBKZNzQrQYgR78) | [SoundBoyz](https://open.spotify.com/artist/0Fs1lCkIza1j3m5u0o2AeV), [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l), [Erubey](https://open.spotify.com/artist/2TXfinCMGjuBZuWsJI8YAd), [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7) | [No Quiero Buscarte \(feat\. Leslie Shaw\)](https://open.spotify.com/album/3kUUeoijEio3vX08zXpwMF) | 2:36 |
+| 28 | [No Quiero Buscarte \(feat\. Carmen DeLeon\)](https://open.spotify.com/track/7IFgM80ZSBKZNzQrQYgR78) | [SoundBoyz](https://open.spotify.com/artist/0Fs1lCkIza1j3m5u0o2AeV), [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Erubey](https://open.spotify.com/artist/2TXfinCMGjuBZuWsJI8YAd), [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l) | [No Quiero Buscarte \(feat\. Carmen DeLeon\)](https://open.spotify.com/album/3kUUeoijEio3vX08zXpwMF) | 2:36 |
 | 29 | [Este Cuento](https://open.spotify.com/track/0UgxIHqdtgEPM07ntZf9cg) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Este Cuento](https://open.spotify.com/album/6OQAaWJHUbwzxbYiOmCJJU) | 2:54 |
 | 30 | [Preciosa](https://open.spotify.com/track/1aeih1sP1g0ooHHkxrfA29) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Preciosa](https://open.spotify.com/album/0gq9bgTdNrmc9SlpuaZ0eD) | 2:53 |
 | 31 | [Era Primavera](https://open.spotify.com/track/78uQdQG1eaqC78z8g5Lecj) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Era Primavera](https://open.spotify.com/album/6neGV0F44OSV979QtmColK) | 4:11 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 56 | [Me Vale V](https://open.spotify.com/track/7KO00ABO1mYdBQMw8jvy3l) | [Michi Sanz](https://open.spotify.com/artist/3upPawRH8B04mVJR5p0ZVx) | [Me Vale V](https://open.spotify.com/album/5PFzu3JXWMoA8NHlZr7ZAO) | 2:33 |
 | 57 | [Ley de Atracción](https://open.spotify.com/track/1o7Bb4THzpBXKmARYRBySr) | [Mardeybor](https://open.spotify.com/artist/7FLbZBr6eoDNRFa4aW8UZZ) | [Ley de Atracción](https://open.spotify.com/album/2987HxMx0Gi2mku3xPAPi2) | 3:09 |
 
-Snapshot ID: `MCxjOTVlNzk1MTM2YWQ0ZjMxMzBkMzE0NGJlYThiNzJiODU5YmYzOTZj`
+Snapshot ID: `MCwzMzMzYzYwNzExZTk0NmJjMzIzMTZkZTlmMmZmYjAwNTYxM2I1ZmE2`

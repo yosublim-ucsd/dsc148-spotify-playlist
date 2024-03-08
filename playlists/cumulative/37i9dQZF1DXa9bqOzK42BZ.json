@@ -2303,6 +2303,24 @@
     },
     {
       "album": {
+        "name": "TOXIC (Racing Thoughts)",
+        "url": "https://open.spotify.com/album/4rMQD6m79Z10fLzHwWUaKs"
+      },
+      "artists": [
+        {
+          "name": "XLVI K",
+          "url": "https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "TOXIC (Racing Thoughts)",
+      "url": "https://open.spotify.com/track/5U4Ovjih4AkPzm6qKgRSHs"
+    },
+    {
+      "album": {
         "name": "Ubatili",
         "url": "https://open.spotify.com/album/0eW4o0appJhd1hllgT8uAM"
       },

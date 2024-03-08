@@ -4,7 +4,7 @@
 
 > Instrumental beats for a restful night's sleep.
 
-657 songs - 1 day 1 hr 26 min
+658 songs - 1 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [I’m Sorry](https://open.spotify.com/track/1fABkApKuxE5liqE91dIel) | [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa), [sxd](https://open.spotify.com/artist/54ktIt4ogOAHrCRcCmboxb), [LIAR.](https://open.spotify.com/artist/3WWfY5srwuTUAD85I6dQr6) | [Moon Dreams](https://open.spotify.com/album/0HBQMyeeqiIHefPQ6eZl74) | 2:08 | 2022-09-02 | 2023-09-29 |
 | [Jet Lag](https://open.spotify.com/track/5K9tfRLQEd04Epmjcr4umP) | [Mila Coolness](https://open.spotify.com/artist/3gdyXwWMfOPBIZrIDMg40u) | [Jet Lag](https://open.spotify.com/album/2hMapMdetse5y72P9ZNIub) | 2:28 | 2022-10-28 |  |
 | [Joking With You](https://open.spotify.com/track/6E0gJjbpo3JkV1nbmWSQzb) | [Julia Groves](https://open.spotify.com/artist/2kobiVcFE5QbsUbkxkrFq3) | [Joking With You](https://open.spotify.com/album/1lOcVNGH4ZZqQZPlZgBbgi) | 2:51 | 2022-07-01 |  |
+| [Kanto](https://open.spotify.com/track/0cXj6Yndfr7rEPQdpVOI9i) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [Kanto](https://open.spotify.com/album/0qmxDXFHv4Mck22uyBoAuk) | 2:24 | 2024-03-08 |  |
 | [Kind Hearted](https://open.spotify.com/track/5BZAkWXC3kN2tPUw5DWctj) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Sheath](https://open.spotify.com/artist/0IlAtf4VeHUzQYRM8GMWXw), [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q) | [Kind Hearted](https://open.spotify.com/album/6kih21s7tVITrph0Fm2ewi) | 2:21 | 2022-09-23 | 2023-07-18 |
 | [kinetic](https://open.spotify.com/track/1ZZAuEZJGBwXTmqnyfer7s) | [Plectric](https://open.spotify.com/artist/4cCJWoH6K4jsI81MvizSxl) | [kinetic](https://open.spotify.com/album/2fhAlQRFaWkOBEUqCMVIxq) | 2:13 | 2022-10-28 |  |
 | [kokoro](https://open.spotify.com/track/2s3qMwGpx58YfJMtonpo21) | [wind\-up bird](https://open.spotify.com/artist/66UE5LrivDsDSLdDcK9Qri), [jara](https://open.spotify.com/artist/6DTpbF8quNPnKu2vTkrbIR) | [kokoro](https://open.spotify.com/album/1NkkiwcGvzCGRRAPRiJNdc) | 2:15 | 2022-11-11 |  |

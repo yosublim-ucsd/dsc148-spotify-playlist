@@ -4,7 +4,7 @@
 
 > Le son des chichas !
 
-64 songs - 3 hr 20 min
+65 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,8 +23,9 @@
 | [C'est carré le S](https://open.spotify.com/track/2UHSXPY5jSCpp3nzWHtaQv) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [En temps réel](https://open.spotify.com/album/1rs3ZOltQ78YblG2YMIvRI) | 3:21 | 2024-02-15 |  |
 | [Caméléon](https://open.spotify.com/track/28n4yesf3IGNnsYzg6foRS) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Arès](https://open.spotify.com/album/7lN0D0jbfIEyvkk9cw0wKL) | 3:18 | 2023-08-08 | 2024-01-06 |
 | [Carolina](https://open.spotify.com/track/22IP2WKjuGYQ19JAz5GpAv) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [REDVOLUTION](https://open.spotify.com/artist/4hzO4p4VzL72ZFXF0YFYBn) | [Carolina](https://open.spotify.com/album/4VsXxNxkWjYV6nlPPt6A64) | 3:15 | 2023-12-01 | 2024-02-16 |
+| [Casanova](https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Casanova](https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA) | 3:09 | 2024-03-07 |  |
 | [Coeur De Pirate](https://open.spotify.com/track/2q2tG7xR37PNyqrXqooemZ) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Coeur De Pirate](https://open.spotify.com/album/6amYcdS4hW0H69JcDrK2wY) | 3:00 | 2023-08-08 | 2023-12-02 |
-| [Criminel](https://open.spotify.com/track/6JAezQjLfd5CopZ5klhzHu) | [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Losa](https://open.spotify.com/album/1teNie7q2r9ik9SHyPkHJn) | 3:16 | 2023-12-01 |  |
+| [Criminel](https://open.spotify.com/track/6JAezQjLfd5CopZ5klhzHu) | [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Losa](https://open.spotify.com/album/1teNie7q2r9ik9SHyPkHJn) | 3:16 | 2023-12-01 | 2024-03-08 |
 | [Doudou](https://open.spotify.com/track/4npOigvIBuT6ui5gwjGdhf) | [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Doudou](https://open.spotify.com/album/2cvLIYkOuAl59n7kRtY8i6) | 3:01 | 2023-08-08 | 2023-09-30 |
 | [Dybala](https://open.spotify.com/track/4Nfak8iMF4kQfQ6Pa8Z79m) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Les derniers salopards](https://open.spotify.com/album/5jzZ6P5fwaHQ3RWCaxN3IP) | 3:31 | 2024-01-05 |  |
 | [Elle est bonne sa mère](https://open.spotify.com/track/7j56bK7gq6iV7zsD6lbP4J) | [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Ategban](https://open.spotify.com/album/3mYubnzYXs2bgV5cd9Ajyn) | 3:16 | 2024-01-05 |  |

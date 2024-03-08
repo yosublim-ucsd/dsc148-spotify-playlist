@@ -1,12 +1,12 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: Zsela",
-  "num_followers": 208382,
+  "num_followers": 208464,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmQwODUyMmNhNDE5NDdlYzNhNzlmZDczNGQ5NDRkZjcyNjQyNDEz",
+  "snapshot_id": "MCwzZTUwMmJhM2FlZDRmZDMyNjIxMDJlZTQxZGExNzcyNjdmZTFmNWIz",
   "tracks": [
     {
       "added_at": "2024-03-06 05:00:00",
@@ -499,6 +499,22 @@
       "duration_ms": 244571,
       "name": "Souvenirs d'hiver",
       "url": "https://open.spotify.com/track/1RA7rGvpb7IcxyIGA6Tbog"
+    },
+    {
+      "added_at": "2024-03-06 05:00:00",
+      "album": {
+        "name": "No",
+        "url": "https://open.spotify.com/album/5jGKy49kIhQk4EE8ZxjaXC"
+      },
+      "artists": [
+        {
+          "name": "Tomato Flower",
+          "url": "https://open.spotify.com/artist/32g8Z2L0lqQH65njcLcBUG"
+        }
+      ],
+      "duration_ms": 144800,
+      "name": "Radical",
+      "url": "https://open.spotify.com/track/6NdZ2PDrUa8ezJyOIXu93v"
     },
     {
       "added_at": "2024-03-06 05:00:00",

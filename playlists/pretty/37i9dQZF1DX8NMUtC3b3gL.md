@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,877 likes - 205 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,893 likes - 205 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -212,6 +212,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 202 | [Rites of Summer \- All Love](https://open.spotify.com/track/5wnlOiHUL6ihduM0jRpiul) | [Kuranes](https://open.spotify.com/artist/3BU4UGbnzKAtkq79Y1MW0e) | [Rites of Summer \(All Love\)](https://open.spotify.com/album/1DYT6iXMPKG6B6JZD0imU5) | 1:32 |
 | 203 | [Fading](https://open.spotify.com/track/1mL3YZ7HjesgGu2RWHacxv) | [Twofacts](https://open.spotify.com/artist/4bewkYX9Io0OgZoDufJZqf) | [Fading](https://open.spotify.com/album/3dzs7o0stX20Z105dG4Ffh) | 1:57 |
 | 204 | [Patterns Of Nature](https://open.spotify.com/track/3RjNoeYW7Xfyw72744iEDJ) | [Mindeliq](https://open.spotify.com/artist/33FKoUeAEFuzVHGBd9IhcL) | [Patterns Of Nature](https://open.spotify.com/album/2oq1tmjN0vPEE7xDycGydt) | 2:29 |
-| 205 | [Morning Coffee](https://open.spotify.com/track/5TdUqOVDbmmMUSTj5qne8U) | [Dr\. EuroDollar](https://open.spotify.com/artist/5kw3yDJJ3pSvEOSDvTsT7n) | [Morning Coffee](https://open.spotify.com/album/7h1FIH78FdkuzVW0VGunpy) | 2:09 |
+| 205 | [Morning Coffee](https://open.spotify.com/track/2DBuAr9TrVh9Ra2cRMoXGR) | [Dr\. EuroDollar](https://open.spotify.com/artist/5kw3yDJJ3pSvEOSDvTsT7n) | [Morning Coffee](https://open.spotify.com/album/5FrM4oAMzCxAAsCWYM5mo7) | 2:09 |
 
-Snapshot ID: `MCxhYzc1NjMxZTgwYTk1MTM4NzVlMjJiNWE5MWFiNThlNDYzMmU5Y2Nk`
+Snapshot ID: `MCxlYmJiNTQ0ZTA4OTJlZGY3YTZiZWE4NzQ0YjA3OWVjM2JiNzc5MDg5`

@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-495 songs - 19 hr 1 min
+497 songs - 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,6 +338,7 @@
 | [Orchard Swing](https://open.spotify.com/track/70UrlQAcz7mXvcwI2HoQ9Z) | [luzzy fogic](https://open.spotify.com/artist/1otffiT3xiIe9A8jw7LVut) | [Orchard Swing](https://open.spotify.com/album/1BxFSpxIcTFYqaEdYthEc0) | 2:23 | 2023-10-13 |  |
 | [Orchards](https://open.spotify.com/track/4NNojnTmAd2ayvXOl13t6m) | [ghost talk](https://open.spotify.com/artist/63vxoykPG9d9640xdt86KB) | [Orchards](https://open.spotify.com/album/6Xjkk8rEdbP6LhrWp5uofy) | 2:13 | 2022-05-13 | 2022-09-03 |
 | [orchid](https://open.spotify.com/track/4dFghKKkPZStUpdyFYu0oJ) | [nikk.](https://open.spotify.com/artist/0s8bZjPXviY1jTsu8ljegH) | [orchid](https://open.spotify.com/album/7tIsJ2fOZzxGnvufJxGmkz) | 2:31 | 2023-02-07 |  |
+| [orchids](https://open.spotify.com/track/5G3TTFdKhBxpX7lnuKhG2M) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [orchids](https://open.spotify.com/album/2blOKU5vzKaPMj0cJEoJpl) | 2:04 | 2024-03-08 |  |
 | [outdoors](https://open.spotify.com/track/5fEU8VYP1yto7mugwoPqvi) | [GM Nanashi](https://open.spotify.com/artist/3UGhltIiwrExCxs5CjJQFh) | [outdoors](https://open.spotify.com/album/6B0e6J5jSyFryQ9TiPAlYI) | 2:19 | 2022-12-23 |  |
 | [overcast](https://open.spotify.com/track/5HhaJtn3ilA7rjQHctEI1y) | [Sophia Lopez](https://open.spotify.com/artist/6cgDJHmQSZ3o3jVAQA7lKp) | [overcast](https://open.spotify.com/album/65JKVp9Jb7pc9ickxQoEdF) | 2:00 | 2021-12-07 |  |
 | [Overgrown](https://open.spotify.com/track/3jwiD3PrS9xU6XjpLf9Qq7) | [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U) | [Overgrown](https://open.spotify.com/album/2nKtq2OE8jM8xmiAsgw44k) | 3:04 | 2023-03-16 |  |
@@ -461,6 +462,7 @@
 | [Tomorrow Will Be Better](https://open.spotify.com/track/1Hu6iQRGLdYGhkduI102i8) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [Inner Passages](https://open.spotify.com/album/1GR5IrxcK8yXeE33ii8Miw) | 2:34 | 2022-11-11 | 2022-11-26 |
 | [Tomorrow Will Be Better](https://open.spotify.com/track/62zFKMb9q7pnJgV64UQX1f) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [Inner Passages](https://open.spotify.com/album/2SAg5ASeGWGt7YDXqiOEs7) | 2:34 | 2021-12-07 | 2022-11-20 |
 | [Traces](https://open.spotify.com/track/3beSsH4Uu5fAy8Cvp29IpS) | [Oskar Hahn](https://open.spotify.com/artist/5D47BWKQT56z8xey53ZxmL), [John Lenin](https://open.spotify.com/artist/7jxvgrk7kNnUykaVtGgBe0), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Traces](https://open.spotify.com/album/3FM4oesg9xR2kHfvDXPOxF) | 2:11 | 2023-08-31 |  |
+| [Traces of a Life](https://open.spotify.com/track/3oykToXlQHGWsx7639tmFZ) | [Akkoro](https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt) | [Traces of a Life](https://open.spotify.com/album/0Tao9FeWRRB6VPTZPCeOwI) | 1:58 | 2024-03-08 |  |
 | [Tranquil](https://open.spotify.com/track/4N1sQBGhZbinCkPS5YGJpU) | [Ambrosia Light](https://open.spotify.com/artist/2y4IqtX8oi7CED9jr6LaPm) | [Tranquil](https://open.spotify.com/album/1ZskIXLZ8xI1mchietSTgS) | 2:07 | 2023-04-11 |  |
 | [Treasure Chest](https://open.spotify.com/track/2EtnxLV4JoKkt6W6EoqeIJ) | [Ouflen](https://open.spotify.com/artist/1RFUrCY2wxQaLw6NjAnnT7) | [Treasure Chest](https://open.spotify.com/album/0UVOkKSirR2rPTK8N6Bo5A) | 2:18 | 2023-02-07 |  |
 | [treetops and flip flops](https://open.spotify.com/track/7B9XrqqtZSiWyrBC5QLEKY) | [laxlax](https://open.spotify.com/artist/7jaWfMGeX8R3FQuzCltkKA) | [treetops and flip flops](https://open.spotify.com/album/7yj5NFQFTkmRdAAZhVXWGa) | 2:27 | 2022-08-05 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-03-07": 479251,
+  "2024-03-08": 479353,
   "date_first_scraped": "2022-09-18",
   "description": "This is Scorpions. The essential tracks, all in one playlist.",
   "name": "This Is Scorpions",
@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 324160,
       "name": "Believe In Love",
       "url": "https://open.spotify.com/track/3T8I6Fdb6sUvIQqCaXK98b"
@@ -863,7 +863,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 176107,
       "name": "Peacemaker",
       "url": "https://open.spotify.com/track/1YjOclLzSa0IhjGmjgDseT"

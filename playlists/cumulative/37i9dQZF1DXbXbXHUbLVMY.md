@@ -4,7 +4,7 @@
 
 > Skandinavisk hiphop som holder det 100! 🚨
 
-147 songs - 6 hr 19 min
+148 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [BONANZA](https://open.spotify.com/track/1L3pLzpYt4KuiUkBpdPDoz) | [25](https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Kayen](https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1) | [BONANZA](https://open.spotify.com/album/6mcasYSlPLjXTrVpSfKKDH) | 2:27 | 2023-11-09 |  |
 | [Boys I D Blå](https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Boys I D Blå](https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB) | 2:13 | 2023-09-21 |  |
 | [Brazil Flow](https://open.spotify.com/track/1rxFEfLu4vTQUJzvB5Hddr) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Brazil Flow](https://open.spotify.com/album/2qBDUq858Mc3HT33TcXzgl) | 1:31 | 2023-09-21 | 2024-01-12 |
-| [Bundet Til En By](https://open.spotify.com/track/4C6Bmg8RFjgY20l4eAas5Y) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE) | [Bundet Til En By](https://open.spotify.com/album/69TJC2jJlJULm9Y8Tv0QRT) | 2:41 | 2024-02-09 |  |
+| [Bundet Til En By](https://open.spotify.com/track/4C6Bmg8RFjgY20l4eAas5Y) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE) | [Bundet Til En By](https://open.spotify.com/album/69TJC2jJlJULm9Y8Tv0QRT) | 2:41 | 2024-02-09 | 2024-03-08 |
 | [Come Up](https://open.spotify.com/track/5YPVk5H7KIIKFo2Qf24cqG) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Come Up](https://open.spotify.com/album/5gF7ulkH0pjCqJlTnF2kAE) | 1:55 | 2024-02-29 |  |
 | [Cuando Menos Lo Espera](https://open.spotify.com/track/0K64Z8f4jGT1jGmVEvgs20) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Cuando Menos Lo Espera](https://open.spotify.com/album/5I4I0k75uiUnqyJvh7vxLC) | 3:00 | 2023-09-21 | 2024-03-01 |
 | [Daddy Issues \(feat\. Simon Superti\)](https://open.spotify.com/track/60268qveqkO0vl7xmGdmHL) | [Ivory](https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD), [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [BABA IVO](https://open.spotify.com/album/00P9bSwLKrj72bkf0gnaqU) | 2:29 | 2024-02-29 |  |
@@ -129,6 +129,7 @@
 | [Skarpt Lys](https://open.spotify.com/track/4dC3pTi2Bbei0QGMg722Rl) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Kiko Club](https://open.spotify.com/album/3y4SAFKOvJ9CDDwNaMOgLL) | 3:03 | 2023-11-16 | 2024-01-04 |
 | [Skarpt Lys](https://open.spotify.com/track/5k5Z5TCOy6s0G48mm2X4Tb) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Kiko Club](https://open.spotify.com/album/1CnKG0vmRTZkG0oxwIZnc3) | 3:03 | 2024-01-04 | 2024-02-09 |
 | [Skarpt Lys](https://open.spotify.com/track/66K8nCovQPjJLs11RAqdnl) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Skarpt Lys](https://open.spotify.com/album/6ukNPtoxvCSYiayGIcDi0y) | 3:04 | 2023-10-12 | 2023-11-18 |
+| [Slipp](https://open.spotify.com/track/0maSJGlqjImKAXWJdvICqZ) | [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t), [Tshawe](https://open.spotify.com/artist/3gS0rQdigX9t4PJu1ay3BY) | [Slipp](https://open.spotify.com/album/08H5x80tXnqO9M1U5V21By) | 2:59 | 2024-03-07 |  |
 | [Slipp deg løs](https://open.spotify.com/track/6xMpDmxF3jsTrBBKuYFmJq) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Slipp deg løs](https://open.spotify.com/album/5FVmiogqIdetltYzFAj67K) | 2:03 | 2023-11-09 | 2024-02-09 |
 | [Snop](https://open.spotify.com/track/0oB7it0HPFuHa1SBkdSx1p) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61), [Martin Hazy](https://open.spotify.com/artist/5jVrCdKOLz3htSyGqhqp8b) | [MEST ELSKET & Hatet](https://open.spotify.com/album/4IsWLM8UTT7tKWkoc8BhY4) | 3:13 | 2024-01-18 | 2024-02-19 |
 | [SOLDAT](https://open.spotify.com/track/4c9lx29ADaRI0Hzy8ql69V) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [Pablo Paz](https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [SOLDAT](https://open.spotify.com/album/30rq6uVi2lypmp6787cImE) | 2:19 | 2023-09-21 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-03-07": 608312,
+  "2024-03-08": 608367,
   "date_first_scraped": "2021-12-21",
   "description": "Keep your finger on the pulse of Americana. Cover: The Dead South",
   "name": "The Pulse of Americana",
@@ -2033,10 +2033,28 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 165977,
       "name": "Colossus of Roads",
       "url": "https://open.spotify.com/track/39sI9RzlYbtsYfRri6ZD6H"
+    },
+    {
+      "album": {
+        "name": "The Past Is Still Alive",
+        "url": "https://open.spotify.com/album/5swrwkZivdtPxSHAuQvrOE"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165977,
+      "name": "Colossus of Roads",
+      "url": "https://open.spotify.com/track/5GkAZaFVxglGUibNf2G6bh"
     },
     {
       "album": {

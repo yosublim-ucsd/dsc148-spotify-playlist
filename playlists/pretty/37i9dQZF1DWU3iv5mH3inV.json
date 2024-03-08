@@ -1,29 +1,13 @@
 {
   "description": "El Dembow que est\u00e1 subiendo en RD. Foto: Yaisel LM",
-  "num_followers": 101429,
+  "num_followers": 101471,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTcwMGIzNTYwM2U1NDJjZDk0NGM1YmYxOTM5YjBhZTExY2UwY2Jj",
+  "snapshot_id": "MCwwMTQ2NWIzMzQ1ODRjNTcyYzMzNGVlMGJlZmEzNTMzYTg0YjU0NTBk",
   "tracks": [
-    {
-      "added_at": "2023-12-22 05:09:41",
-      "album": {
-        "name": "No Hay Recreo",
-        "url": "https://open.spotify.com/album/2YLgkoGF4caij2SujQ94eE"
-      },
-      "artists": [
-        {
-          "name": "Donaty",
-          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
-        }
-      ],
-      "duration_ms": 118168,
-      "name": "No Hay Recreo",
-      "url": "https://open.spotify.com/track/6soUhucfoNsgxze4fzA24p"
-    },
     {
       "added_at": "2024-02-01 23:53:43",
       "album": {
@@ -39,6 +23,42 @@
       "duration_ms": 99000,
       "name": "UN VOLAO",
       "url": "https://open.spotify.com/track/1QBrDmUZ28brJz8vdvxzxI"
+    },
+    {
+      "added_at": "2024-02-15 15:29:53",
+      "album": {
+        "name": "Dan2le",
+        "url": "https://open.spotify.com/album/2co6VQIolIoGc16q4jbu62"
+      },
+      "artists": [
+        {
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
+        }
+      ],
+      "duration_ms": 161552,
+      "name": "Dan2le",
+      "url": "https://open.spotify.com/track/63712oXRDENUqIdUow7Rel"
+    },
+    {
+      "added_at": "2024-03-07 21:22:13",
+      "album": {
+        "name": "M\u00e9telo S\u00e1calo",
+        "url": "https://open.spotify.com/album/6VZ651cnktGGtUXxxmFrVH"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        },
+        {
+          "name": "Kreizy k",
+          "url": "https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ"
+        }
+      ],
+      "duration_ms": 110222,
+      "name": "M\u00e9telo S\u00e1calo",
+      "url": "https://open.spotify.com/track/4aoNbfI8UHz04AVR0oYP5h"
     },
     {
       "added_at": "2024-02-15 15:29:53",
@@ -101,10 +121,10 @@
       "url": "https://open.spotify.com/track/2eY4TmcggU8T0LBm9FVGHK"
     },
     {
-      "added_at": "2024-02-15 15:29:53",
+      "added_at": "2023-12-22 05:09:41",
       "album": {
-        "name": "Dan2le",
-        "url": "https://open.spotify.com/album/2co6VQIolIoGc16q4jbu62"
+        "name": "No Hay Recreo",
+        "url": "https://open.spotify.com/album/2YLgkoGF4caij2SujQ94eE"
       },
       "artists": [
         {
@@ -112,29 +132,9 @@
           "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
         }
       ],
-      "duration_ms": 161552,
-      "name": "Dan2le",
-      "url": "https://open.spotify.com/track/63712oXRDENUqIdUow7Rel"
-    },
-    {
-      "added_at": "2024-02-29 19:03:00",
-      "album": {
-        "name": "En Blusa Freestyle",
-        "url": "https://open.spotify.com/album/1qaUHX9UXhjHKi8DxD4Gs4"
-      },
-      "artists": [
-        {
-          "name": "Dj Scuff",
-          "url": "https://open.spotify.com/artist/4tmsSGhsR7ovyg478pebXh"
-        },
-        {
-          "name": "Yoan Retro",
-          "url": "https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi"
-        }
-      ],
-      "duration_ms": 633043,
-      "name": "En Blusa Freestyle",
-      "url": "https://open.spotify.com/track/6x75q2uPWGElnj6PNyXXad"
+      "duration_ms": 118168,
+      "name": "No Hay Recreo",
+      "url": "https://open.spotify.com/track/6soUhucfoNsgxze4fzA24p"
     },
     {
       "added_at": "2024-01-18 21:46:59",
@@ -203,6 +203,26 @@
       "duration_ms": 183194,
       "name": "Bonsinabom remix",
       "url": "https://open.spotify.com/track/7p37ALotrxj5SDLXXeblEy"
+    },
+    {
+      "added_at": "2024-03-07 21:22:13",
+      "album": {
+        "name": "Que Resuelva",
+        "url": "https://open.spotify.com/album/5gERAuSKMAkPY0Qo3pYN0T"
+      },
+      "artists": [
+        {
+          "name": "Sirena Miler",
+          "url": "https://open.spotify.com/artist/1Q2Q3t7INUQfyv0Z18ZD88"
+        },
+        {
+          "name": "Oliwi",
+          "url": "https://open.spotify.com/artist/6ozK3vgRIbMStCqHrNOGlu"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Que Resuelva",
+      "url": "https://open.spotify.com/track/0eq7LY7hzeo5P94ONHmaVe"
     },
     {
       "added_at": "2024-02-29 19:03:00",
@@ -311,6 +331,26 @@
       "duration_ms": 135360,
       "name": "Van 3 D\u00eda",
       "url": "https://open.spotify.com/track/6JEc3AZdPqI9srmmmILjk8"
+    },
+    {
+      "added_at": "2024-02-29 19:03:00",
+      "album": {
+        "name": "En Blusa Freestyle",
+        "url": "https://open.spotify.com/album/1qaUHX9UXhjHKi8DxD4Gs4"
+      },
+      "artists": [
+        {
+          "name": "Dj Scuff",
+          "url": "https://open.spotify.com/artist/4tmsSGhsR7ovyg478pebXh"
+        },
+        {
+          "name": "Yoan Retro",
+          "url": "https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi"
+        }
+      ],
+      "duration_ms": 633043,
+      "name": "En Blusa Freestyle",
+      "url": "https://open.spotify.com/track/6x75q2uPWGElnj6PNyXXad"
     },
     {
       "added_at": "2024-02-15 15:29:53",
@@ -867,50 +907,6 @@
       "duration_ms": 146651,
       "name": "Capotilla",
       "url": "https://open.spotify.com/track/2rk13UWnqpseA2rKZ7CPDp"
-    },
-    {
-      "added_at": "2023-12-22 05:09:41",
-      "album": {
-        "name": "Bala",
-        "url": "https://open.spotify.com/album/3kb0GXriEy3vEqnhf4i7kP"
-      },
-      "artists": [
-        {
-          "name": "Ceky Viciny",
-          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
-        },
-        {
-          "name": "Yaisel LM",
-          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
-        }
-      ],
-      "duration_ms": 124871,
-      "name": "Bala",
-      "url": "https://open.spotify.com/track/3Ndp9BryXxb9K0uN6eIGu6"
-    },
-    {
-      "added_at": "2023-12-22 05:09:41",
-      "album": {
-        "name": "LO BATE (REMIX)",
-        "url": "https://open.spotify.com/album/0AxNN3CpvKaaKiuLKLtgPd"
-      },
-      "artists": [
-        {
-          "name": "Baldroit",
-          "url": "https://open.spotify.com/artist/5nZnx4CnBxnu2UhtFoHY1T"
-        },
-        {
-          "name": "Bujia Gram",
-          "url": "https://open.spotify.com/artist/7GEmlBGVraFLD8REJUwv59"
-        },
-        {
-          "name": "Yomel El Meloso",
-          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
-        }
-      ],
-      "duration_ms": 183103,
-      "name": "LO BATE - REMIX",
-      "url": "https://open.spotify.com/track/0RYWu5elds5aJ7GmjqoQlZ"
     },
     {
       "added_at": "2023-12-22 05:09:41",

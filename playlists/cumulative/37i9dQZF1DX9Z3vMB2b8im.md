@@ -4,7 +4,7 @@
 
 > Songs so beautiful, they'll stop you in your tracks.
 
-229 songs - 13 hr 41 min
+230 songs - 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [El Invento](https://open.spotify.com/track/23CYKO5L1wUGng3TL37fq0) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 2:33 | 2022-06-10 |  |
 | [El Invento](https://open.spotify.com/track/3MwFB6vQEDsOnK8pMF9SFi) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [El Invento EP](https://open.spotify.com/album/3HjkmLd8nsxhBhQfgTKD1w) | 2:33 | 2022-10-14 | 2022-11-13 |
 | [Enough to Know You](https://open.spotify.com/track/4jFP1o8ceblBeeYY9E1cFr) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Enough to Know You](https://open.spotify.com/album/1qq20zCV0Pwtl8YZLCq5wN) | 3:25 | 2021-12-10 | 2022-04-02 |
-| [everything to die for](https://open.spotify.com/track/05x8IQafuKgd3icfkyprxh) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [everything to die for](https://open.spotify.com/album/2wP6cJwvwsHdwLmnvR0Pr2) | 3:11 | 2024-02-09 |  |
+| [everything to die for](https://open.spotify.com/track/05x8IQafuKgd3icfkyprxh) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [everything to die for](https://open.spotify.com/album/2wP6cJwvwsHdwLmnvR0Pr2) | 3:11 | 2024-02-09 | 2024-03-08 |
+| [everything to die for](https://open.spotify.com/track/5w7pIkf7juDYcl6ejrSvzQ) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [the mould](https://open.spotify.com/album/03WZKJv7yuVrpUxbIleIco) | 3:11 | 2024-02-23 |  |
 | [Fair Weather Lover](https://open.spotify.com/track/4KjvtegojYGdeVqCy8rk0Z) | [Ella Hunt](https://open.spotify.com/artist/2UfYkwgDo1abQS1U4pO2bT) | [Fair Weather Lover](https://open.spotify.com/album/3CbKO4e8b3iMwAUH1SJVZM) | 4:04 | 2023-10-13 |  |
 | [Fake Moon](https://open.spotify.com/track/5CNRQl4e0b2mMF7Zz3f34U) | [Memorial](https://open.spotify.com/artist/1ql8GAa7a8Ur8x6evYipAc) | [Fake Moon](https://open.spotify.com/album/0kfLXfbPt4wGJ8BmBXcPjx) | 2:14 | 2022-02-18 | 2023-05-13 |
 | [First To Know](https://open.spotify.com/track/16clmGd7YL8hRKmL1Vj2w2) | [Tamu Massif](https://open.spotify.com/artist/2kU7oX1Uxv4xalarIEjMpm) | [First To Know](https://open.spotify.com/album/1cfjv2PGGRqJQTBI7cICSf) | 3:55 | 2021-12-10 | 2022-08-20 |

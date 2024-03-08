@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Luma Elpidio
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,843 likes - 85 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,906 likes - 85 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 27 | [Me Ensina a Viver](https://open.spotify.com/track/0S5t0T4YV3pHs4LH0mtasp) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF) | [Me Ensina a Viver](https://open.spotify.com/album/1sqdI1xPDGAJxlYLg2pI8w) | 5:10 |
 | 28 | [Tremenda Graça \(This Is Amazing Grace\)](https://open.spotify.com/track/0bqH6fLvFmBM9X6pjwCY4S) | [Fred Arrais](https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q), [Salomão](https://open.spotify.com/artist/7yIo15qboa9gHCtqK7cOLx) | [Tremenda Graça \(This Is Amazing Grace\)](https://open.spotify.com/album/70uBNm3u0P9fnI4KrjSB6Q) | 4:39 |
 | 29 | [Reconstituir](https://open.spotify.com/track/3IZL1m4OR2XuljkOJrJPji) | [Igor Felix](https://open.spotify.com/artist/0jgIJ7ZflTCTu6QoLUr1ud), [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [Reconstituir](https://open.spotify.com/album/5FVMdmhaJfHB0o2ZDzb1SJ) | 4:22 |
-| 30 | [Deus É Bom \- Ao Vivo Em Lisboa](https://open.spotify.com/track/1F4oaBBPlKXYHtzsjByp6s) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Alexandre Magnani](https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu) | [Deus É Bom \(Ao Vivo Em Lisboa\)](https://open.spotify.com/album/5DRGybcYnJ5pGlj3hGoDew) | 3:58 |
+| 30 | [Vida Leve](https://open.spotify.com/track/7jb65juKqmYcQg5qXhJSVw) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Vida Leve](https://open.spotify.com/album/08ujgEoWflIBTXaf0T5XUl) | 2:56 |
 | 31 | [O Reino Vem](https://open.spotify.com/track/2kA9woThYCW2HDgV8OMKJ8) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Vitória Souza](https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j) | [O Reino Vem](https://open.spotify.com/album/1XGpn9IDF3qwuCPfF8SgW8) | 3:18 |
-| 32 | [Vida Leve](https://open.spotify.com/track/7jb65juKqmYcQg5qXhJSVw) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Vida Leve](https://open.spotify.com/album/08ujgEoWflIBTXaf0T5XUl) | 2:56 |
+| 32 | [Deus É Bom \- Ao Vivo Em Lisboa](https://open.spotify.com/track/1F4oaBBPlKXYHtzsjByp6s) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Alexandre Magnani](https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu) | [Deus É Bom \(Ao Vivo Em Lisboa\)](https://open.spotify.com/album/5DRGybcYnJ5pGlj3hGoDew) | 3:58 |
 | 33 | [O Amor de Deus](https://open.spotify.com/track/5S5MNp2WRwmvdG7JlbdgW8) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [Yuri DSR](https://open.spotify.com/artist/3P5R5KRLnpElqxP6av8N2B) | [O Amor de Deus](https://open.spotify.com/album/08wVdMKnZGndh8zL9uYEvg) | 2:36 |
-| 34 | [Você Por Perto](https://open.spotify.com/track/796SV74nPB0puKX8HFMFs9) | [Amanda Loyola](https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al) | [Você Por Perto](https://open.spotify.com/album/3B8bR2QhFW5k2VUFmcMCew) | 3:51 |
-| 35 | [Nasce o Sol \- Remix](https://open.spotify.com/track/5vBvc4fmVUv1iW2pP5XJQs) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE) | [Nasce o Sol \(Remix\)](https://open.spotify.com/album/5LFRbQXT2XnXbYForHwLTT) | 2:53 |
+| 34 | [Nasce o Sol \- Remix](https://open.spotify.com/track/5vBvc4fmVUv1iW2pP5XJQs) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE) | [Nasce o Sol \(Remix\)](https://open.spotify.com/album/5LFRbQXT2XnXbYForHwLTT) | 2:53 |
+| 35 | [Você Por Perto](https://open.spotify.com/track/796SV74nPB0puKX8HFMFs9) | [Amanda Loyola](https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al) | [Você Por Perto](https://open.spotify.com/album/3B8bR2QhFW5k2VUFmcMCew) | 3:51 |
 | 36 | [Caminhada](https://open.spotify.com/track/33LKIhveYStd9afVAH9ZNF) | [Leif Bessa](https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV) | [Leif Bessa \- Acústico](https://open.spotify.com/album/0sl4n0h3mwAq085w4VkEYb) | 4:40 |
 | 37 | [Tudo](https://open.spotify.com/track/5wbSVolmtQA6kodui95x40) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [SL.27.4](https://open.spotify.com/album/1dRT83wTKwey6FeWv177iy) | 3:57 |
 | 38 | [Esperarei Com Paciência](https://open.spotify.com/track/1QPj2hLuGuxqU8bHlUoUNS) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [André Leono](https://open.spotify.com/artist/3wNqSrnDViXQMST6ioshi0), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Esperarei com Paciência](https://open.spotify.com/album/53C192EeqK9cTA0dohXePM) | 5:29 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 84 | [Contigo](https://open.spotify.com/track/2z06u1grifKTmzRf48Hbdh) | [Leif Bessa](https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV) | [Contigo](https://open.spotify.com/album/75MMXMPZcSAK8L0Q4QQhk0) | 3:19 |
 | 85 | [Me Esvaziar \(Releitura\)](https://open.spotify.com/track/0iYvEJ73ZzbYmYoJRnzK1T) | [Bea Rodrigues](https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i) | [Me Esvaziar \(Releitura\)](https://open.spotify.com/album/0jzLyiWUcBCqzevujFH3qZ) | 3:03 |
 
-Snapshot ID: `MCxmZDBmYTY5Yzc4NGU1NjAxYWM3MzEwZWU0ZTAxMmIyNTllZTAzMzY4`
+Snapshot ID: `MCwxZmMxMWFmMDQ3ZjI4MWJhNTc1YTZlMWNhZWQ5NjUxNmY2YTczN2I2`

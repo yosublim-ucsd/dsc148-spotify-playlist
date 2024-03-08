@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Brunno Ramos, 2metro, BIG THE KIID",
-  "num_followers": 164440,
+  "num_followers": 164511,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTNkZDkxM2FlOGJjYThhZGY0OWI4OWQ1NjZiNWU0ZDhkNGM1OTJh",
+  "snapshot_id": "MCxkN2JhMzllNGY0M2M4Y2E4MTRmMDA5MTBmYjA3NWU1M2QxMDYyMTVl",
   "tracks": [
     {
       "added_at": "2024-03-01 03:01:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
+        "name": "Sem Cruz, Sem Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/7JZZHrzvFgYFDc58mntY55"
+      },
+      "artists": [
+        {
+          "name": "Pregador Luo",
+          "url": "https://open.spotify.com/artist/1dpUJl5huB5mtceAbK2E2r"
+        }
+      ],
+      "duration_ms": 236962,
+      "name": "Sem Cruz, Sem Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/6eIu8bYs7C6zCEBs8UNshm"
+    },
+    {
+      "added_at": "2024-03-01 03:01:00",
+      "album": {
         "name": "Quebrantado (Remix)",
         "url": "https://open.spotify.com/album/20mQsfaFBgXfGYsa6eC5aP"
       },
@@ -1395,6 +1411,26 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
+        "name": "Tempestade",
+        "url": "https://open.spotify.com/album/3lFAimQkwVjoZsdet0fBH1"
+      },
+      "artists": [
+        {
+          "name": "Calbertini",
+          "url": "https://open.spotify.com/artist/1D8wO50htejQzCFByxytKH"
+        },
+        {
+          "name": "Isaac Folly",
+          "url": "https://open.spotify.com/artist/7FTroPF49wOzN6lIHGKBBB"
+        }
+      ],
+      "duration_ms": 204827,
+      "name": "Tempestade",
+      "url": "https://open.spotify.com/track/7LpZJm6gu1XGnNSkmRknbO"
+    },
+    {
+      "added_at": "2024-03-01 03:01:00",
+      "album": {
         "name": "Arca de No\u00e9",
         "url": "https://open.spotify.com/album/3C6zDgnNsusSDOHTLJX5oX"
       },
@@ -1415,22 +1451,18 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
-        "name": "Tempestade",
-        "url": "https://open.spotify.com/album/3lFAimQkwVjoZsdet0fBH1"
+        "name": "777 na Mente",
+        "url": "https://open.spotify.com/album/03yWHI8We0NZAfknyQJ0qT"
       },
       "artists": [
         {
-          "name": "Calbertini",
-          "url": "https://open.spotify.com/artist/1D8wO50htejQzCFByxytKH"
-        },
-        {
-          "name": "Isaac Folly",
-          "url": "https://open.spotify.com/artist/7FTroPF49wOzN6lIHGKBBB"
+          "name": "Daniel Salez",
+          "url": "https://open.spotify.com/artist/2EZBvvwg5lzHMMZgFHC8KO"
         }
       ],
-      "duration_ms": 204827,
-      "name": "Tempestade",
-      "url": "https://open.spotify.com/track/7LpZJm6gu1XGnNSkmRknbO"
+      "duration_ms": 165899,
+      "name": "777 na Mente",
+      "url": "https://open.spotify.com/track/0aSkRNhaDky7FO13Z13hGb"
     },
     {
       "added_at": "2024-03-01 03:01:00",
@@ -1455,38 +1487,6 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
-        "name": "777 na Mente",
-        "url": "https://open.spotify.com/album/03yWHI8We0NZAfknyQJ0qT"
-      },
-      "artists": [
-        {
-          "name": "Daniel Salez",
-          "url": "https://open.spotify.com/artist/2EZBvvwg5lzHMMZgFHC8KO"
-        }
-      ],
-      "duration_ms": 165899,
-      "name": "777 na Mente",
-      "url": "https://open.spotify.com/track/0aSkRNhaDky7FO13Z13hGb"
-    },
-    {
-      "added_at": "2024-03-01 03:01:00",
-      "album": {
-        "name": "Sem Cruz, Sem Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/7JZZHrzvFgYFDc58mntY55"
-      },
-      "artists": [
-        {
-          "name": "Pregador Luo",
-          "url": "https://open.spotify.com/artist/1dpUJl5huB5mtceAbK2E2r"
-        }
-      ],
-      "duration_ms": 236962,
-      "name": "Sem Cruz, Sem Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/6eIu8bYs7C6zCEBs8UNshm"
-    },
-    {
-      "added_at": "2024-03-01 03:01:00",
-      "album": {
         "name": "Eu Era Servo",
         "url": "https://open.spotify.com/album/4Cc72TrT4isWBvG2OvBu71"
       },
@@ -1503,22 +1503,6 @@
       "duration_ms": 171740,
       "name": "Eu Era Servo",
       "url": "https://open.spotify.com/track/0IRsbv7O7PeZhF0BR6aZyj"
-    },
-    {
-      "added_at": "2024-03-01 03:01:00",
-      "album": {
-        "name": "Fala pra eles que \u00e9 o Felipin",
-        "url": "https://open.spotify.com/album/4rkYtgLw1tpT4KjNweAZzB"
-      },
-      "artists": [
-        {
-          "name": "Felipin",
-          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
-        }
-      ],
-      "duration_ms": 179016,
-      "name": "Alian\u00e7a",
-      "url": "https://open.spotify.com/track/3ZzagOjGIFvKr6FoCOkybw"
     },
     {
       "added_at": "2024-03-01 03:01:00",
@@ -1543,6 +1527,22 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
+        "name": "Fala pra eles que \u00e9 o Felipin",
+        "url": "https://open.spotify.com/album/4rkYtgLw1tpT4KjNweAZzB"
+      },
+      "artists": [
+        {
+          "name": "Felipin",
+          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
+        }
+      ],
+      "duration_ms": 179016,
+      "name": "Alian\u00e7a",
+      "url": "https://open.spotify.com/track/3ZzagOjGIFvKr6FoCOkybw"
+    },
+    {
+      "added_at": "2024-03-01 03:01:00",
+      "album": {
         "name": "Deus \u00e9 Mais, Pt.3",
         "url": "https://open.spotify.com/album/1pca75YkvptXD635WCdlqB"
       },
@@ -1559,30 +1559,6 @@
       "duration_ms": 250000,
       "name": "Deus \u00e9 Mais, Pt.3",
       "url": "https://open.spotify.com/track/06f1IqY7uJ7bGT8OOEfaIC"
-    },
-    {
-      "added_at": "2024-03-01 03:01:00",
-      "album": {
-        "name": "Mais Perto do C\u00e9u",
-        "url": "https://open.spotify.com/album/5Web1BoC0jrAhTbB9zrgjk"
-      },
-      "artists": [
-        {
-          "name": "LEVII MC",
-          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 157568,
-      "name": "Mais Perto do C\u00e9u",
-      "url": "https://open.spotify.com/track/42DMceznqA2BZIpdJTdJC9"
     },
     {
       "added_at": "2024-03-01 03:01:00",
@@ -1607,6 +1583,30 @@
       "duration_ms": 165169,
       "name": "Tu \u00c9s a Cura",
       "url": "https://open.spotify.com/track/5pW4iIRQXtRgHY3u8IsA8o"
+    },
+    {
+      "added_at": "2024-03-01 03:01:00",
+      "album": {
+        "name": "Mais Perto do C\u00e9u",
+        "url": "https://open.spotify.com/album/5Web1BoC0jrAhTbB9zrgjk"
+      },
+      "artists": [
+        {
+          "name": "LEVII MC",
+          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 157568,
+      "name": "Mais Perto do C\u00e9u",
+      "url": "https://open.spotify.com/track/42DMceznqA2BZIpdJTdJC9"
     },
     {
       "added_at": "2024-03-01 03:01:00",

@@ -4,7 +4,7 @@
 
 > Peaceful instrumentals to help you keep calm.
 
-354 songs - 16 hr 52 min
+358 songs - 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Nocturne in Green](https://open.spotify.com/track/56nl0PcICHCOoVazhLQEFb) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Nocturne in Green](https://open.spotify.com/album/7KqJAgIwlqINIVJzeg00KN) | 4:03 | 2020-10-20\* | 2021-06-16 |
 | [North Haven](https://open.spotify.com/track/4UTzl5xz40YYzut1y3EBYi) | [Lundegard](https://open.spotify.com/artist/7Bd7PURdGa6srlW6VRpTiV) | [North Haven](https://open.spotify.com/album/0ai2noQFlGW1Fx57amRNls) | 3:44 | 2020-10-20\* | 2023-01-07 |
 | [Nosce Te Ipsum](https://open.spotify.com/track/2g2R5NSv8samoXVcj0NUeS) | [Alma Grøtte](https://open.spotify.com/artist/7uLS5Q5tx0Chuaihp53VEE) | [Nosce Te Ipsum](https://open.spotify.com/album/2bbrUDGtRUsjw2n0PfFPTN) | 2:56 | 2020-10-20\* |  |
+| [Novastar](https://open.spotify.com/track/14pCak2cBXOqZHQ2MQIUoW) | [Galaxarastra](https://open.spotify.com/artist/4dLb1ptXOGo5ibde68Jy2b) | [Novastar](https://open.spotify.com/album/1xP3LaVgXtIoMgdlQIli0r) | 2:57 | 2024-03-07 |  |
 | [Nysnö](https://open.spotify.com/track/3XUoK60Lyhtf9qyqJrppKq) | [Folksaga](https://open.spotify.com/artist/3fRnbMogVMgEwoyHPx00nf) | [Nysnö](https://open.spotify.com/album/388EAxsyfHxg7BhyDlRTYt) | 2:36 | 2020-10-20\* |  |
 | [Ocean Deep](https://open.spotify.com/track/7uHM2BSftyHsPLIOGB9oY7) | [MAVALA](https://open.spotify.com/artist/7v6MC0U94altKRU8VGL0j8) | [Ocean Deep](https://open.spotify.com/album/341k8e5u1rQ6xuDPqOIc2u) | 2:35 | 2020-10-20\* |  |
 | [Oceanbird Song](https://open.spotify.com/track/3bkDRZy33aVQHK8PZsIPLH) | [Europa Falls](https://open.spotify.com/artist/3JR6Brrb2Uq8lXcXph5oxz) | [Salt Dreams](https://open.spotify.com/album/2eoTpRBGtm9GtB88nb1aNS) | 3:25 | 2020-10-20\* |  |
@@ -255,7 +256,9 @@
 | [Reminiscence Of Innocence](https://open.spotify.com/track/2AV90A6Qwgn47bZhHh8ys0) | [Ossie Woods](https://open.spotify.com/artist/2RNWon12U1hD0DZNKPwXVl) | [Reminiscence Of Innocence](https://open.spotify.com/album/02xiVs0d6AFk43j4FmRWGi) | 2:06 | 2020-10-20\* |  |
 | [Resurrection](https://open.spotify.com/track/0BtJKY7UaAtw4ViVQJHOHI) | [Reinhard Krause](https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM) | [Eternity](https://open.spotify.com/album/5HxEiomNu1exVfU8cokO0A) | 2:00 | 2021-12-09 |  |
 | [Revealing The Unreal](https://open.spotify.com/track/2zJmgxEcBUKtrfjfCn1UMM) | [Ave Air](https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU) | [Suburban Call For Concrete Dreams](https://open.spotify.com/album/3kFtOGZWe1iJnIOw0Df37m) | 3:32 | 2020-10-20\* |  |
+| [Rising](https://open.spotify.com/track/6hoZY1VeL8iqPFj3KgOXKf) | [Tryggve Malmberg](https://open.spotify.com/artist/53E9B0OiR03VSuqIqhCguq) | [Rising](https://open.spotify.com/album/0L7mfhHY76oideIySmeor3) | 3:32 | 2024-03-07 |  |
 | [Rivière De Larmes](https://open.spotify.com/track/6wlVBEGKPvOoXfGwOJh0H8) | [Emile Franck](https://open.spotify.com/artist/7DOsl0l1wDk1N7kuv3czEn) | [Rivière De Larmes](https://open.spotify.com/album/195cjVIsH4r8veuhmMXVp5) | 2:58 | 2020-10-20\* |  |
+| [Road to Euphoria](https://open.spotify.com/track/2bjHeVpWi69dW0x2rVVzss) | [Tuscany Flow](https://open.spotify.com/artist/6oMNHqt2Amt55TwRg2FhbH) | [Road to Euphoria](https://open.spotify.com/album/1sQ0hNAHs1Su2soE9a18wU) | 3:19 | 2024-03-07 |  |
 | [Rosehip](https://open.spotify.com/track/4PF7utnZRT0gGZEelOiIEO) | [Paul Dennehy](https://open.spotify.com/artist/5borNkYeud0HRvJWIdG3aM) | [Storytelling](https://open.spotify.com/album/5yB8ypsLT0ttxv0wSLM5IM) | 3:37 | 2020-10-20\* | 2022-08-13 |
 | [Sailing Through Our Night](https://open.spotify.com/track/0vbKO2YqTAoyjBzjLMpIOX) | [Milford Keynes](https://open.spotify.com/artist/7q7lOOGnChjRBjZ8yDGSC1) | [Sailing Through Our Night](https://open.spotify.com/album/3EQXfScxlCCbJLlH3CVRFn) | 2:13 | 2020-10-20\* |  |
 | [Saorsa](https://open.spotify.com/track/0wmllTG9uDe4kCBwGsQi7C) | [Zoltan Granosh](https://open.spotify.com/artist/2Gsns5NInNwsauuIXU3T4g) | [Xyst](https://open.spotify.com/album/4n7NhKvTUcsW8MXhlCp0CB) | 2:31 | 2021-03-06 |  |
@@ -359,6 +362,7 @@
 | [Wishes](https://open.spotify.com/track/7giuPZOPDPkpNOeVjC56rm) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Higher States](https://open.spotify.com/album/2RcXr9Wzd3mjH3P8ghQsjZ) | 3:04 | 2020-10-20\* |  |
 | [With Certainty of Tides](https://open.spotify.com/track/7yMAAx3OV7LeczNbAERMDt) | [Bryan Colbert](https://open.spotify.com/artist/3mwhMQ3EM94LX73AVoqxwb) | [Theme from Happiness](https://open.spotify.com/album/72OQYr68g2A56mJJHaqa8H) | 2:13 | 2020-10-20\* |  |
 | [Woods](https://open.spotify.com/track/5in0ezyUreA4p4XgBd5dJX) | [Chymeris](https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F) | [Woods](https://open.spotify.com/album/2z34IdP8fG0NBbSCjEbwdP) | 3:04 | 2020-10-20\* | 2023-07-18 |
+| [Zenlume](https://open.spotify.com/track/6hHtrP0WMbClC6O4ayu630) | [Arctic Whispers](https://open.spotify.com/artist/0c1z1KTtxnIZNed7WofH4J) | [Zenlume](https://open.spotify.com/album/0tRkzjZbdKzi3gItqw3Lzk) | 2:45 | 2024-03-07 |  |
 | [Zhenya](https://open.spotify.com/track/09z4NnaPxtbPsMoKHDaoIy) | [LOVIS](https://open.spotify.com/artist/5BH5JQNu5i1vwN5bX4iDGE) | [Zhenya](https://open.spotify.com/album/3uNqo97i4YJVzvo9r25Smo) | 3:22 | 2020-10-20\* |  |
 | [Öndun](https://open.spotify.com/track/4YlCEoCUgwBaFvrJ0L5Xcu) | [Hugleiösla](https://open.spotify.com/artist/0ckEoQesFtWdmchnO9RmIg) | [Öndun](https://open.spotify.com/album/3KTczi92jAIWSWtwIlK1Dt) | 2:54 | 2020-11-28 | 2022-08-13 |
 | [어스름](https://open.spotify.com/track/5z7sxlo3kf8eg8s3Zkb8dQ) | [Woong Sun Hee](https://open.spotify.com/artist/1HYFlkIP8WNiSu2E5R5Txx) | [어스름](https://open.spotify.com/album/6dTC18Wb6YRS6nDpFSOn8A) | 1:38 | 2020-10-20\* | 2023-07-29 |

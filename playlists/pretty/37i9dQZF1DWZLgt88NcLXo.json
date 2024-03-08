@@ -1,12 +1,12 @@
 {
   "description": "Guitarra c\u00e1lida e instrumental para un agradable inicio de d\u00eda.",
-  "num_followers": 12071,
+  "num_followers": 12072,
   "original_name": "wuen dia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGY4ODMyZThkNjk4Y2Y5Zjc5ZGY0YTU2OGVmOTkwYzcyNWM5MDdm",
+  "snapshot_id": "MCxlNzNhOGE4ZWM2YWY4MTJmYjZiODZkYTYwYThhMDQyZDRiNmVlN2Yz",
   "tracks": [
     {
       "added_at": "2023-09-15 09:04:35",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Last Dance",
-        "url": "https://open.spotify.com/album/1LLh6WHQyFxRJSvMAw1kav"
-      },
-      "artists": [
-        {
-          "name": "Taylor Ellis",
-          "url": "https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY"
-        }
-      ],
-      "duration_ms": 151968,
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/4CLVSuWpDxHuUXyIuGTVQ0"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Coming home to someone",
         "url": "https://open.spotify.com/album/6GSi2ihzkIvHQggLoUxvzp"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 165523,
       "name": "Coming home to someone",
       "url": "https://open.spotify.com/track/33jEJgoSbewTinFfmhsBLZ"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Last Dance",
+        "url": "https://open.spotify.com/album/1LLh6WHQyFxRJSvMAw1kav"
+      },
+      "artists": [
+        {
+          "name": "Taylor Ellis",
+          "url": "https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY"
+        }
+      ],
+      "duration_ms": 151968,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/4CLVSuWpDxHuUXyIuGTVQ0"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Stockholm Waltz",
-        "url": "https://open.spotify.com/album/0Vl8Nl9s21QHz3fSk3U623"
-      },
-      "artists": [
-        {
-          "name": "Julian Vigil",
-          "url": "https://open.spotify.com/artist/37iIAObpTKbDOZ9BjSrmMv"
-        }
-      ],
-      "duration_ms": 140964,
-      "name": "Stockholm Waltz",
-      "url": "https://open.spotify.com/track/4qH4Otl7cbyUjg7kshFzUr"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Shapes in the Sky",
         "url": "https://open.spotify.com/album/7sxQpqFUHwHhz9xnUmUKol"
       },
@@ -1039,22 +1023,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Diguil",
-        "url": "https://open.spotify.com/album/0o2kXrZp6ZXbSQcSF2gRz2"
-      },
-      "artists": [
-        {
-          "name": "Charles Avnik",
-          "url": "https://open.spotify.com/artist/2PeMqgLlOHgfvVfk63Txpp"
-        }
-      ],
-      "duration_ms": 197407,
-      "name": "Diguil",
-      "url": "https://open.spotify.com/track/0vCsBc2Br8EXzrSgNiMB4t"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Wholeness",
         "url": "https://open.spotify.com/album/2A6ZqxxcjPGoCkl8299S39"
       },
@@ -1067,6 +1035,22 @@
       "duration_ms": 198088,
       "name": "Wholeness",
       "url": "https://open.spotify.com/track/1jjZPPUTXBkvAzohTyFyKR"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Diguil",
+        "url": "https://open.spotify.com/album/0o2kXrZp6ZXbSQcSF2gRz2"
+      },
+      "artists": [
+        {
+          "name": "Charles Avnik",
+          "url": "https://open.spotify.com/artist/2PeMqgLlOHgfvVfk63Txpp"
+        }
+      ],
+      "duration_ms": 197407,
+      "name": "Diguil",
+      "url": "https://open.spotify.com/track/0vCsBc2Br8EXzrSgNiMB4t"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1459,6 +1443,22 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
+        "name": "Treasures",
+        "url": "https://open.spotify.com/album/5Z7o5BPIvdd8tMSHMMObQ7"
+      },
+      "artists": [
+        {
+          "name": "Rafaela Moreno",
+          "url": "https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF"
+        }
+      ],
+      "duration_ms": 139874,
+      "name": "Treasures",
+      "url": "https://open.spotify.com/track/1RByCxHaCocuHZtSjItbDl"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
         "name": "Eternity",
         "url": "https://open.spotify.com/album/0CsQkznGI4zvjVm9hWvir1"
       },
@@ -1503,22 +1503,6 @@
       "duration_ms": 150961,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/533SnCwxVytF3viTF5kYql"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
-        "name": "Treasures",
-        "url": "https://open.spotify.com/album/5Z7o5BPIvdd8tMSHMMObQ7"
-      },
-      "artists": [
-        {
-          "name": "Rafaela Moreno",
-          "url": "https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF"
-        }
-      ],
-      "duration_ms": 139874,
-      "name": "Treasures",
-      "url": "https://open.spotify.com/track/1RByCxHaCocuHZtSjItbDl"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1867,22 +1851,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Ode To The Restless Heart",
-        "url": "https://open.spotify.com/album/74hAowWLPfmmeKIxsJF0e1"
-      },
-      "artists": [
-        {
-          "name": "Cody Lane",
-          "url": "https://open.spotify.com/artist/5PXw7CZ8v8fcIETkAuHkwJ"
-        }
-      ],
-      "duration_ms": 160741,
-      "name": "Sweet Disposition",
-      "url": "https://open.spotify.com/track/5gNlgxqfMX2G1ptN8hGniT"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Isla de Pascua",
         "url": "https://open.spotify.com/album/0wmc7SNnMXWIoTe3baSyFM"
       },
@@ -1895,6 +1863,22 @@
       "duration_ms": 170847,
       "name": "Isla de Pascua",
       "url": "https://open.spotify.com/track/6BuUQ0PTBKyfc2AzGUNiBA"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Ode To The Restless Heart",
+        "url": "https://open.spotify.com/album/74hAowWLPfmmeKIxsJF0e1"
+      },
+      "artists": [
+        {
+          "name": "Cody Lane",
+          "url": "https://open.spotify.com/artist/5PXw7CZ8v8fcIETkAuHkwJ"
+        }
+      ],
+      "duration_ms": 160741,
+      "name": "Sweet Disposition",
+      "url": "https://open.spotify.com/track/5gNlgxqfMX2G1ptN8hGniT"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1931,22 +1915,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Alloa",
-        "url": "https://open.spotify.com/album/2hs44iF5KvsJbTBzEz87FS"
-      },
-      "artists": [
-        {
-          "name": "Olma",
-          "url": "https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP"
-        }
-      ],
-      "duration_ms": 128873,
-      "name": "Stirling",
-      "url": "https://open.spotify.com/track/1HDPEUzDPniGZpULtKa4q4"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Canci\u00f3n A Solas",
         "url": "https://open.spotify.com/album/4Qb1rsL5QvMtnDVE4fEjTZ"
       },
@@ -1963,22 +1931,18 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Cradle Song",
-        "url": "https://open.spotify.com/album/1tWkanvuRkPU6YpZ7zNmZV"
+        "name": "Alloa",
+        "url": "https://open.spotify.com/album/2hs44iF5KvsJbTBzEz87FS"
       },
       "artists": [
         {
-          "name": "Ricardo Salinas",
-          "url": "https://open.spotify.com/artist/27z2RO8YOHjNquoZfAfHse"
-        },
-        {
-          "name": "Andrew York",
-          "url": "https://open.spotify.com/artist/5MV6MvG9LFSSmrPqOkpBZQ"
+          "name": "Olma",
+          "url": "https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP"
         }
       ],
-      "duration_ms": 227588,
-      "name": "Cradle Song",
-      "url": "https://open.spotify.com/track/6yzAM00PEx3nBUqTsUgkgz"
+      "duration_ms": 128873,
+      "name": "Stirling",
+      "url": "https://open.spotify.com/track/1HDPEUzDPniGZpULtKa4q4"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2011,6 +1975,26 @@
       "duration_ms": 200011,
       "name": "Jewel",
       "url": "https://open.spotify.com/track/2faiBPE3tK6ZIaTQlJqryt"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Cradle Song",
+        "url": "https://open.spotify.com/album/1tWkanvuRkPU6YpZ7zNmZV"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Salinas",
+          "url": "https://open.spotify.com/artist/27z2RO8YOHjNquoZfAfHse"
+        },
+        {
+          "name": "Andrew York",
+          "url": "https://open.spotify.com/artist/5MV6MvG9LFSSmrPqOkpBZQ"
+        }
+      ],
+      "duration_ms": 227588,
+      "name": "Cradle Song",
+      "url": "https://open.spotify.com/track/6yzAM00PEx3nBUqTsUgkgz"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2247,22 +2231,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx"
-      },
-      "artists": [
-        {
-          "name": "Colin Reed",
-          "url": "https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs"
-        }
-      ],
-      "duration_ms": 191308,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/69U72YqRzX3NUDlojqK6Uk"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Senderos",
         "url": "https://open.spotify.com/album/5b2Qf2d0ca4auxwQGQ3icv"
       },
@@ -2275,6 +2243,22 @@
       "duration_ms": 129000,
       "name": "Senderos",
       "url": "https://open.spotify.com/track/0Tac24wJITYhVNDgN6o5iC"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx"
+      },
+      "artists": [
+        {
+          "name": "Colin Reed",
+          "url": "https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs"
+        }
+      ],
+      "duration_ms": 191308,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/69U72YqRzX3NUDlojqK6Uk"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2295,22 +2279,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Shimmering",
-        "url": "https://open.spotify.com/album/5QlqAMPDmZlNYGtb14cgdt"
-      },
-      "artists": [
-        {
-          "name": "Charles Theodore",
-          "url": "https://open.spotify.com/artist/2hfHg46WyBCls0ZixeNtMq"
-        }
-      ],
-      "duration_ms": 173026,
-      "name": "Shimmering",
-      "url": "https://open.spotify.com/track/0V9hBI4lEPGj4oXB1Sxr2b"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Borealis",
         "url": "https://open.spotify.com/album/0k1jQLyYEcR3mNhzhusrdd"
       },
@@ -2323,6 +2291,22 @@
       "duration_ms": 270000,
       "name": "Borealis",
       "url": "https://open.spotify.com/track/2ysFggjX4SCyNJET0h7d7r"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Shimmering",
+        "url": "https://open.spotify.com/album/5QlqAMPDmZlNYGtb14cgdt"
+      },
+      "artists": [
+        {
+          "name": "Charles Theodore",
+          "url": "https://open.spotify.com/artist/2hfHg46WyBCls0ZixeNtMq"
+        }
+      ],
+      "duration_ms": 173026,
+      "name": "Shimmering",
+      "url": "https://open.spotify.com/track/0V9hBI4lEPGj4oXB1Sxr2b"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2439,6 +2423,22 @@
       "duration_ms": 122016,
       "name": "En Mis Brazos",
       "url": "https://open.spotify.com/track/5IRsN77ZPXy0YmY3cvVFuX"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Stockholm Waltz",
+        "url": "https://open.spotify.com/album/7ELKIYBbXhI8IG8vdZTFTg"
+      },
+      "artists": [
+        {
+          "name": "Julian Vigil",
+          "url": "https://open.spotify.com/artist/37iIAObpTKbDOZ9BjSrmMv"
+        }
+      ],
+      "duration_ms": 140964,
+      "name": "Stockholm Waltz",
+      "url": "https://open.spotify.com/track/28oHpnRPMxVcrXVmd4VqFj"
     }
   ],
   "unique_name": "wuen dia",

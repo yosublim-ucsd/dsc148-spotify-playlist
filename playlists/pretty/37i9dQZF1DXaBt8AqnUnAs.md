@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,210 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,232 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 55 | [Maravilhosa](https://open.spotify.com/track/6z3j1rAvwsrGdi9dtDmL7n) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [O Cenário Certo para o Teatro Perfeito](https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D) | 2:09 |
 | 56 | [Sintomas de Prazer \- Live](https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Sintomas de Prazer \- Live](https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4) | 2:31 |
 | 57 | [Intriga](https://open.spotify.com/track/4VQOUertHGuID2EgEzVF30) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT) | [Essa Minha Vida Bandida](https://open.spotify.com/album/3vdEEeAQYc0HPzetJ488cH) | 2:32 |
-| 58 | [Beyoncé 2](https://open.spotify.com/track/48yfdCj8t8WuoITwpSXRcQ) | [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Stef](https://open.spotify.com/artist/1EMUjMLPKwHMe4tgY2szbF), [Stuani](https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw) | [EVDC DELUXE](https://open.spotify.com/album/5BySpyh1QS9qQwHv1Ujaq4) | 3:08 |
+| 58 | [Beyoncé 2](https://open.spotify.com/track/48yfdCj8t8WuoITwpSXRcQ) | [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Stef](https://open.spotify.com/artist/1EMUjMLPKwHMe4tgY2szbF), [Stuani](https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw) | [EVDC DELUXE](https://open.spotify.com/album/5BySpyh1QS9qQwHv1Ujaq4) | 3:08 |
 | 59 | [Saudade](https://open.spotify.com/track/5ooDUWMuGZ7PvpXLuxNPhs) | [Italo Melo](https://open.spotify.com/artist/7DCF8Y7xwC2LkdHth5E7c8), [TX](https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2) | [Saudade](https://open.spotify.com/album/39PEpHYnGdTnQpVL8rludM) | 2:15 |
-| 60 | [Diagnóstico](https://open.spotify.com/track/7KdVFvjsLG0bBn7LO4ae2I) | [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Thiago Sub](https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG) | [EVDC DELUXE](https://open.spotify.com/album/5BySpyh1QS9qQwHv1Ujaq4) | 2:58 |
+| 60 | [Diagnóstico](https://open.spotify.com/track/7KdVFvjsLG0bBn7LO4ae2I) | [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Thiago Sub](https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG) | [EVDC DELUXE](https://open.spotify.com/album/5BySpyh1QS9qQwHv1Ujaq4) | 2:58 |
 | 61 | [Peito Aberto](https://open.spotify.com/track/6dptMKifBnKoekCrSzbN4v) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Peito Aberto](https://open.spotify.com/album/5N9N3J9bVEOCgXw6Oa1T3u) | 2:36 |
 | 62 | [Melhor Só](https://open.spotify.com/track/2LTlykcdu0gwb7zcKneo2a) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe) | [Melhor Só](https://open.spotify.com/album/17QQ2RosBKKrV5bHh4Z8tJ) | 3:49 |
 | 63 | [Máquina Alemã](https://open.spotify.com/track/6Zjx3pXVwCCXSs6aFEWBVR) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [Dj Aladin GDB](https://open.spotify.com/artist/1IVneWn4g15GupVFKwNdGJ) | [Máquina Alemã](https://open.spotify.com/album/4EHQlVNhFDI34ABmvCQPk7) | 2:12 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 74 | [Pessoas Iguais](https://open.spotify.com/track/4ziFfHW8bkkTnyEufroCqz) | [AyooFire](https://open.spotify.com/artist/3afrxPx91AYaJpxGnMHyu0), [mavyrmldy](https://open.spotify.com/artist/2IRkwjCv3xnnHkEre05AZB) | [Pessoas Iguais](https://open.spotify.com/album/1SaYFtgo6GaShStDJ5MdBu) | 2:48 |
 | 75 | [Viagem Cara](https://open.spotify.com/track/3WHBt5JazrLheCvzygxCv1) | [Souffran](https://open.spotify.com/artist/36qbn5sMKZVpNr0o5DC8sn), [tal do dias](https://open.spotify.com/artist/1IJdAJc6XD4NdOLBJnCIBD) | [Viagem Cara](https://open.spotify.com/album/2nktvT2yjahIlYVoLQ1CiV) | 2:16 |
 
-Snapshot ID: `MCxkZDI5NDJhYjI1Y2M2MWNjNTY3ZGFlZmVhMTUzOWRkMjg3Y2ViOGYy`
+Snapshot ID: `MCxlZmRjMTIyZTFlMmIyZjhmOTI5M2I0M2NkNzQyOThmZDFkZGFmNTlj`

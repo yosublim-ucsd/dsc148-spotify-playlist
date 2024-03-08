@@ -1,5 +1,5 @@
 {
-  "2024-03-07": 2484,
+  "2024-03-08": 2549,
   "date_first_scraped": "2023-09-07",
   "description": "A groovy and soulful house collection. Cover: Calvin Harris, Eliza Rose",
   "name": "House is a Feeling",
@@ -1886,6 +1886,24 @@
     },
     {
       "album": {
+        "name": "Tell Me EP",
+        "url": "https://open.spotify.com/album/0CcIISxMUzNAGCnCWOwSQI"
+      },
+      "artists": [
+        {
+          "name": "gome",
+          "url": "https://open.spotify.com/artist/2kXp8r42AOwb6s5GzdiukU"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233346,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/1LiQJVCQ78nWOMRAGIlHgB"
+    },
+    {
+      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/1wR8GmaQ6xYVL1i1918Ilw"
       },
@@ -1897,7 +1915,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 233346,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/7tRVTrvTIpYC15QvLkI3Tv"

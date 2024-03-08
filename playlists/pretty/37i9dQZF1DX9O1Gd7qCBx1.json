@@ -1,12 +1,12 @@
 {
   "description": "Para honrar a los muertos con el m\u00e1s sublime placer terrenal.",
-  "num_followers": 215562,
+  "num_followers": 215557,
   "original_name": "D\u00eda de Muertos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGVkZDUwNjU5OWUxODg1Y2MzYjc4ZjVlM2U0ODAwNGVlZDM2NDhh",
+  "snapshot_id": "MCxjNzQ4MjRjMmE4ODExOGMwZTQwYTVkNGU0ODg1YjQyZWFjNDA1OWQ2",
   "tracks": [
     {
       "added_at": "2023-11-08 15:57:38",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
+        "name": "Hecho a Mano",
+        "url": "https://open.spotify.com/album/58RU5pUqiS7098vJ5gJlIn"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "duration_ms": 256058,
+      "name": "La Muerte",
+      "url": "https://open.spotify.com/track/6JbuWmDTkDWKD7L5uN0Jyv"
+    },
+    {
+      "added_at": "2023-11-08 15:57:38",
+      "album": {
         "name": "La Marcha de la Vida",
         "url": "https://open.spotify.com/album/7cdhRB4dbNZJMn1OafvISD"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 269133,
       "name": "Calaveras",
       "url": "https://open.spotify.com/track/6PO6PjA5zvQ9gCAFjDAG8D"
-    },
-    {
-      "added_at": "2023-11-08 15:57:38",
-      "album": {
-        "name": "Hecho a Mano",
-        "url": "https://open.spotify.com/album/58RU5pUqiS7098vJ5gJlIn"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        }
-      ],
-      "duration_ms": 256058,
-      "name": "La Muerte",
-      "url": "https://open.spotify.com/track/6JbuWmDTkDWKD7L5uN0Jyv"
     },
     {
       "added_at": "2023-11-08 15:57:38",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
+        "name": "Timoneki",
+        "url": "https://open.spotify.com/album/6ALKR76vFWvN7zZwD3cKYO"
+      },
+      "artists": [
+        {
+          "name": "Timoneki",
+          "url": "https://open.spotify.com/artist/1dcxpEMRhnUon25kF78fQW"
+        }
+      ],
+      "duration_ms": 276970,
+      "name": "Mictl\u00e1n",
+      "url": "https://open.spotify.com/track/0mv4wsluGcvNmoB0UonpX9"
+    },
+    {
+      "added_at": "2023-11-08 15:57:38",
+      "album": {
         "name": "Contestadas Y Rancheras",
         "url": "https://open.spotify.com/album/4IKibIvIpvYbcibKsxnv7t"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 138541,
       "name": "La Catr\u00edna Pobre",
       "url": "https://open.spotify.com/track/6conItSeJ4djinIUrq2mJD"
-    },
-    {
-      "added_at": "2023-11-08 15:57:38",
-      "album": {
-        "name": "Timoneki",
-        "url": "https://open.spotify.com/album/6ALKR76vFWvN7zZwD3cKYO"
-      },
-      "artists": [
-        {
-          "name": "Timoneki",
-          "url": "https://open.spotify.com/artist/1dcxpEMRhnUon25kF78fQW"
-        }
-      ],
-      "duration_ms": 276970,
-      "name": "Mictl\u00e1n",
-      "url": "https://open.spotify.com/track/0mv4wsluGcvNmoB0UonpX9"
     },
     {
       "added_at": "2023-11-08 15:57:38",

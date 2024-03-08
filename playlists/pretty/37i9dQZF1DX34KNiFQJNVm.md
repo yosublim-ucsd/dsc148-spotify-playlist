@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Israel & Rodolffo, Simone Mendes, MC Hariel e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,917,495 likes - 74 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,917,867 likes - 74 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 10 | [Von dutch](https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Von dutch](https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw) | 2:44 |
 | 11 | [Like What \(Freestyle\)](https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Like What \(Freestyle\)](https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv) | 2:16 |
 | 12 | [Acabou, mas tem](https://open.spotify.com/track/2fXKPSSyVCJDXyd8konNLO) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Acabou, mas tem](https://open.spotify.com/album/3xhjxB13uDwnFf2kh59wxQ) | 3:55 |
-| 13 | [Qual é seu desejo?](https://open.spotify.com/track/2HzLEPWKXcfpwfmEIUURHo) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Qual é seu desejo?](https://open.spotify.com/album/5qNaCpWDBGkFQ4xfLs0TKs) | 2:33 |
+| 13 | [Qual é seu desejo?](https://open.spotify.com/track/2HzLEPWKXcfpwfmEIUURHo) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Qual é seu desejo?](https://open.spotify.com/album/5qNaCpWDBGkFQ4xfLs0TKs) | 2:33 |
 | 14 | [Pegada Bruta \(Ao Vivo\)](https://open.spotify.com/track/25aZXsNEI6bjp9EwAE2sUr) | [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Dj Chris No Beat](https://open.spotify.com/artist/0vdcZzmneH0nK9CYFHQBjk) | [DVD X PEDRINHO, VOL\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2U0SzzCUC7Himj7JSaeNrR) | 3:03 |
 | 15 | [Cenas Obscenas](https://open.spotify.com/track/0OPJEQq12ytxKQAZedFWFG) | [Mc Anjim](https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP), [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt), [Mc Leozin](https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3), [Mc Brinquedo](https://open.spotify.com/artist/1SZXYhJz4sqEss888VmWLP), [Dj Luizin](https://open.spotify.com/artist/1j5jjya5prvPJE2FZU8JPj), [Dj Kaio Lopes](https://open.spotify.com/artist/3clPt2S8kgKCRxb2XMajSY), [Dj Lv Mdp](https://open.spotify.com/artist/01CFmzv28eTtJAjhrvOsiW) | [Cenas Obscenas](https://open.spotify.com/album/7MevNLsPX52bggVTS4I9H1) | 2:51 |
 | 16 | [Ar Geladinho](https://open.spotify.com/track/6ZIRVECxKUNgyXW01as1S3) | [Eric Land](https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH), [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK) | [Ar Geladinho](https://open.spotify.com/album/3npV1jTIlw2eAYXZlsxd4I) | 2:25 |
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 68 | [Acertou em Cheio](https://open.spotify.com/track/1hGtCiFauzWuxKAKj4mUQc) | [Paulin Vaqueiro](https://open.spotify.com/artist/0d5OTkkwpo38OF7svMwBBU), [Ramon e Randinho](https://open.spotify.com/artist/1rp9xp9dkHqxRRhlunXWID) | [Acertou em Cheio](https://open.spotify.com/album/1Yr5OV5Ri29sAtR9QULCUd) | 2:29 |
 | 69 | [Vai Verão, Vem Verão](https://open.spotify.com/track/2HOkfGmC23EvdFBRXFCiVd) | [MK no Beat](https://open.spotify.com/artist/7HJI3KV7QYdzMHYM9WC1LC), [Mc Maromba](https://open.spotify.com/artist/3o3p6fGYftm6nJpS6YJ11Q), [MC FELBLACK](https://open.spotify.com/artist/4LHb7iZHweJ7UFNlC6y7Np) | [Vai Verão, Vem Verão](https://open.spotify.com/album/3YmaiPQn872XquLFWKUzyE) | 2:25 |
 | 70 | [Pequenos Gigantes](https://open.spotify.com/track/09cXkWw79uSJpMGnGo1K3E) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Pequenos Gigantes](https://open.spotify.com/album/2DS05mmU9SWppp9K0eu3NX) | 2:10 |
-| 71 | [Conduta](https://open.spotify.com/track/5trmONgYJKUxXfGucmV5am) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu) | [Conduta](https://open.spotify.com/album/5HuOu7c5Umv6Jy8PS1HyHJ) | 2:33 |
+| 71 | [Conduta](https://open.spotify.com/track/5trmONgYJKUxXfGucmV5am) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu), [Trap Select](https://open.spotify.com/artist/1VlNGdzvBRtCDPi18GuX91) | [Conduta](https://open.spotify.com/album/5HuOu7c5Umv6Jy8PS1HyHJ) | 2:33 |
 | 72 | [O Alvo](https://open.spotify.com/track/2z2mV6ogP5WXYFWGZJX8CD) | [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [O Alvo](https://open.spotify.com/album/6fcUUTg9SEEPXBY92gN8yE) | 2:30 |
 | 73 | [011](https://open.spotify.com/track/6vzfS8S7UQxvUfevpfJmEh) | [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN) | [011](https://open.spotify.com/album/0luKo86kXd3Iy4IR6DYCXh) | 2:15 |
 | 74 | [Amor Todinho](https://open.spotify.com/track/2N4mZBmWI75yROTcGZwnux) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [Amor Todinho](https://open.spotify.com/album/6twToesubSRehurAORMXrC) | 2:37 |
 
-Snapshot ID: `MCxhMDQ3Mjg5NDY1ZTJiY2RkZWNiNTEwNjBiMzdkYzZmZjRmOGZhNWM3`
+Snapshot ID: `MCxkM2Q0YjM5Y2YyYWIwZWI4ZTNjNGVkODM4MGI0MjRjZGM4NTU2NmQ0`

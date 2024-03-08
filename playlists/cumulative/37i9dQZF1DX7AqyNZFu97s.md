@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the UK & Ireland\. Cover: vi0let\. Artwork: Isu Kim
 
-1,658 songs - 3 day 16 hr 27 min
+1,659 songs - 3 day 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,7 +461,8 @@
 | [Every Minute](https://open.spotify.com/track/4eDfp3ygeW2j2FDcns1Muo) | [Tizane](https://open.spotify.com/artist/6AcwVBbznSmM7dhKXfC4Jy) | [Every Minute](https://open.spotify.com/album/0HsDewCElFpbem218ybKk1) | 2:40 | 2023-06-21 | 2023-07-05 |
 | [Everything](https://open.spotify.com/track/08doI6a2PPJoeYCWMXdKSZ) | [IMMERSE](https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN) | [Everything](https://open.spotify.com/album/2hkRgU5Xm7CJy5HQQxh07k) | 3:29 | 2023-06-13 | 2023-07-12 |
 | [everything looks darker now](https://open.spotify.com/track/5VymYMoYoOum1mV0Q7YvQz) | [elkyn](https://open.spotify.com/artist/5qlnbZjig0IqfxA0qGRwpM) | [everything looks darker now](https://open.spotify.com/album/7vYk62s2xBiA45E1rTXLAc) | 3:26 | 2022-01-05 | 2022-01-29 |
-| [everything to die for](https://open.spotify.com/track/05x8IQafuKgd3icfkyprxh) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [everything to die for](https://open.spotify.com/album/2wP6cJwvwsHdwLmnvR0Pr2) | 3:11 | 2024-02-14 |  |
+| [everything to die for](https://open.spotify.com/track/05x8IQafuKgd3icfkyprxh) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [everything to die for](https://open.spotify.com/album/2wP6cJwvwsHdwLmnvR0Pr2) | 3:11 | 2024-02-14 | 2024-03-08 |
+| [everything to die for](https://open.spotify.com/track/5w7pIkf7juDYcl6ejrSvzQ) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [the mould](https://open.spotify.com/album/03WZKJv7yuVrpUxbIleIco) | 3:11 | 2024-03-06 |  |
 | [Exes](https://open.spotify.com/track/1i0gDbcJUHd0mKxJIFpqen) | [Asha Gold](https://open.spotify.com/artist/1sXQIRMGgEwmQktIO4XpWm) | [Exes](https://open.spotify.com/album/6fEeeZO1vRw3fDRvdNrO0U) | 2:44 | 2022-01-05 | 2022-03-09 |
 | [Extinction](https://open.spotify.com/track/0Y7VFF8nJCvHegOTNRmQ8r) | [Sofia Grant](https://open.spotify.com/artist/00k1APrXylDwP3HInytxvI) | [Extinction](https://open.spotify.com/album/74yG8sHvJqr50AQaVW2l04) | 4:51 | 2023-09-05 | 2024-01-03 |
 | [Eye Tell \(!\)](https://open.spotify.com/track/2MAEd35YAuGXXCifA2M1Wz) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [Eye Tell \(!\)](https://open.spotify.com/album/1piNdNQfDq2mW2BiHC30by) | 2:10 | 2022-04-06 | 2023-01-05 |

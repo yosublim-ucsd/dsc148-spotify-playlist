@@ -1,5 +1,5 @@
 {
-  "2024-03-07": 3473,
+  "2024-03-08": 3470,
   "date_first_scraped": "2024-01-30",
   "description": "Head In The Clouds Festival is heading to NYC for the first time ever. Hear all the acts right here!",
   "name": "Head In The Clouds NYC 2023",
@@ -97,10 +97,28 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 217000,
       "name": "Arriba",
       "url": "https://open.spotify.com/track/0QLFKzTQT6MA4nRIK5HyQn"
+    },
+    {
+      "album": {
+        "name": "Arriba",
+        "url": "https://open.spotify.com/album/4n2ynG8fC22AJgZQe1HPQE"
+      },
+      "artists": [
+        {
+          "name": "Spence Lee",
+          "url": "https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Arriba",
+      "url": "https://open.spotify.com/track/5ywQZbJKXBmErbAxdwSNgL"
     },
     {
       "album": {

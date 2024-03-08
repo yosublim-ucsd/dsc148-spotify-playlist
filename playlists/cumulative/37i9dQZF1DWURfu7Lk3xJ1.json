@@ -1013,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "Balcony",
+        "url": "https://open.spotify.com/album/575DC3KxiwQoUHvEJbSohy"
+      },
+      "artists": [
+        {
+          "name": "Euphemism",
+          "url": "https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147916,
+      "name": "Balcony",
+      "url": "https://open.spotify.com/track/5vuUq5iyiPnDuo2gjeh1Fx"
+    },
+    {
+      "album": {
         "name": "BeatForGaia",
         "url": "https://open.spotify.com/album/0BjU1j2XiQLMyBPk6tPsCU"
       },
@@ -3934,6 +3952,24 @@
       "duration_ms": 208150,
       "name": "kamakura",
       "url": "https://open.spotify.com/track/35L9JtNIlaHqWkWzky7eYX"
+    },
+    {
+      "album": {
+        "name": "Kanto",
+        "url": "https://open.spotify.com/album/0qmxDXFHv4Mck22uyBoAuk"
+      },
+      "artists": [
+        {
+          "name": "JoJo Mojo",
+          "url": "https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144722,
+      "name": "Kanto",
+      "url": "https://open.spotify.com/track/0cXj6Yndfr7rEPQdpVOI9i"
     },
     {
       "album": {
@@ -7968,6 +8004,24 @@
       "duration_ms": 108169,
       "name": "Swinging Doors",
       "url": "https://open.spotify.com/track/3WmbNgqamqnUZoRMSRzBOY"
+    },
+    {
+      "album": {
+        "name": "T I M I D",
+        "url": "https://open.spotify.com/album/13uUu1paYpKNzbetsNMaqt"
+      },
+      "artists": [
+        {
+          "name": "knock on wood",
+          "url": "https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148708,
+      "name": "T I M I D",
+      "url": "https://open.spotify.com/track/4k30b3IfBZqRJQggQ5cz0j"
     },
     {
       "album": {

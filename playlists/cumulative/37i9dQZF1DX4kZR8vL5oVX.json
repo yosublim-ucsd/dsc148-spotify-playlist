@@ -11437,7 +11437,7 @@
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 208714,
+      "duration_ms": 210866,
       "name": "LUCKY",
       "url": "https://open.spotify.com/track/5MKX0y0nRqiXc1lnpDxMFM"
     },
@@ -12110,6 +12110,28 @@
       "duration_ms": 167240,
       "name": "Maria",
       "url": "https://open.spotify.com/track/42Cqkj0z5q1SfxBs2Pvo31"
+    },
+    {
+      "album": {
+        "name": "Marianne",
+        "url": "https://open.spotify.com/album/40osV1BSzFWp11y4jZLCMq"
+      },
+      "artists": [
+        {
+          "name": "Barbara Pravi",
+          "url": "https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8"
+        },
+        {
+          "name": "Golshifteh Farahani",
+          "url": "https://open.spotify.com/artist/2r87yC8H1mrlvAP8kq6BuB"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221006,
+      "name": "Marianne",
+      "url": "https://open.spotify.com/track/7kAA7NbINuaJ6TM89lwaLz"
     },
     {
       "album": {

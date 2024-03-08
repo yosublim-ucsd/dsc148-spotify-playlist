@@ -1,5 +1,5 @@
 {
-  "2024-03-07": 13672,
+  "2024-03-08": 13677,
   "date_first_scraped": "2024-01-30",
   "description": "This is J Boog. The essential tracks, all in one playlist.",
   "name": "This Is J Boog",
@@ -193,6 +193,24 @@
       "duration_ms": 251693,
       "name": "Cool Down The Pace",
       "url": "https://open.spotify.com/track/48vVcRVvJxD5zB0ODldx2C"
+    },
+    {
+      "album": {
+        "name": "Backyard Boogie",
+        "url": "https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212056,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/2tSYGPkPpIgJid174U7za8"
     },
     {
       "album": {
@@ -623,7 +641,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 159173,
       "name": "Livity - Live Good",
       "url": "https://open.spotify.com/track/2a10XM3b3ZWWtqUqIu8pcw"

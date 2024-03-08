@@ -1,12 +1,12 @@
 {
   "description": "Rap from hell. Cover: Scrim from $uicideboy$",
-  "num_followers": 571949,
+  "num_followers": 572071,
   "original_name": "TIRADE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODVhNmY0NDEwNWQ0OTg0MGM5YTg1NjM5YWFjMTI2OThhNGQxY2Ux",
+  "snapshot_id": "MCw5OTcyMjdiNDliOGI4ZDc1NTMxOWFhM2M4NjA1OTg0ZmVkMmZkNTIz",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -209,6 +209,26 @@
       "url": "https://open.spotify.com/track/1Mw3psWtFi2ojE9gudDpm1"
     },
     {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "WTF 2",
+        "url": "https://open.spotify.com/album/4cFGu2A51oQ1lezuK6O9Dn"
+      },
+      "artists": [
+        {
+          "name": "Ugovhb",
+          "url": "https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG"
+        },
+        {
+          "name": "EF",
+          "url": "https://open.spotify.com/artist/31zD0TKiTJ0OlcW3I6JI27"
+        }
+      ],
+      "duration_ms": 127008,
+      "name": "WTF 2",
+      "url": "https://open.spotify.com/track/52Az0C2Qemjn1SP14PhTIW"
+    },
+    {
       "added_at": "2024-01-05 17:54:55",
       "album": {
         "name": "Hearse",
@@ -263,26 +283,6 @@
       "duration_ms": 147173,
       "name": "Scars",
       "url": "https://open.spotify.com/track/13xFz6KanQ08XiE6348CWu"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "WTF 2",
-        "url": "https://open.spotify.com/album/4cFGu2A51oQ1lezuK6O9Dn"
-      },
-      "artists": [
-        {
-          "name": "Ugovhb",
-          "url": "https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG"
-        },
-        {
-          "name": "EF",
-          "url": "https://open.spotify.com/artist/31zD0TKiTJ0OlcW3I6JI27"
-        }
-      ],
-      "duration_ms": 127008,
-      "name": "WTF 2",
-      "url": "https://open.spotify.com/track/52Az0C2Qemjn1SP14PhTIW"
     },
     {
       "added_at": "2024-02-16 17:56:24",
@@ -425,26 +425,6 @@
       "url": "https://open.spotify.com/track/0oGakZG2y3wcgHDF1YWPGD"
     },
     {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
-        "name": "Step Back!",
-        "url": "https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl"
-      },
-      "artists": [
-        {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
-        },
-        {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
-        }
-      ],
-      "duration_ms": 150674,
-      "name": "Step Back!",
-      "url": "https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j"
-    },
-    {
       "added_at": "2024-01-12 05:00:00",
       "album": {
         "name": "bad times friend...",
@@ -535,6 +515,26 @@
       "duration_ms": 133333,
       "name": "POPTHATRUNK",
       "url": "https://open.spotify.com/track/4BLbZo3DCqQXMzogWV1GNP"
+    },
+    {
+      "added_at": "2024-03-07 18:17:19",
+      "album": {
+        "name": "KILL ALL",
+        "url": "https://open.spotify.com/album/1ece0jN4ViEKMpqcl4ObjO"
+      },
+      "artists": [
+        {
+          "name": "ZODIVK",
+          "url": "https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or"
+        },
+        {
+          "name": "Kill Dyll",
+          "url": "https://open.spotify.com/artist/1r5YzslA0QwyIZISgHJrU7"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "KILL ALL",
+      "url": "https://open.spotify.com/track/7LsRygBuKonjbIuATZVEgf"
     },
     {
       "added_at": "2024-02-02 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvfORzIlDQm.md) - [plain]
 
 > A collection of roots music and covers urging peace and calling for change\. Cover: Tré Burt
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,133 likes - 54 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,137 likes - 54 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,10 +57,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvfORzIlDQm.md) - [plain]
 | 47 | [Ancestors](https://open.spotify.com/track/2ILNpVJ177m2QOGZUaUxHb) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Ancestors](https://open.spotify.com/album/3aWCveWoOV0ELaCK5SKrEr) | 4:30 |
 | 48 | [What's Happening Brother](https://open.spotify.com/track/3OsT0gQqJNmkxdCsP7Gut1) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH), [Ruby Amanfu](https://open.spotify.com/artist/1lpu6LF7kS0bfnu43pi2u0) | [What's Going On](https://open.spotify.com/album/0ZgGiET6nxLm3cQTaMS3gx) | 2:40 |
 | 49 | [The Three Of Me](https://open.spotify.com/track/2xg9VILpfjkKdgfgNQe4PB) | [William Bell](https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR) | [This Is Where I Live](https://open.spotify.com/album/77N6jWITSP46ToG6ESeHUh) | 3:24 |
-| 50 | [Little Sparrow](https://open.spotify.com/track/6n2H3jy9SDo5k22pIyMCU0) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [A Day for the Hunter, A Day for the Prey](https://open.spotify.com/album/4whjlDovn35OzIY4TnbARA) | 3:16 |
+| 50 | [Little sparrow](https://open.spotify.com/track/6vGfL4ZcRL2U6RaGuZ5fJd) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [A day for the hunter, a day for the prey](https://open.spotify.com/album/4J4u8xcpz1WTAJRcgenpBa) | 3:16 |
 | 51 | [Better Get It Right the First Time](https://open.spotify.com/track/3uj2eCWwCooyJUG7BMs90l) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Freedom Highway](https://open.spotify.com/album/1CVuPxNHwY5ORJ8MhjD0UB) | 3:23 |
 | 52 | [The Devil's Tongue](https://open.spotify.com/track/0zJ5Alcy6I5mqjQVcUqTSx) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 2:13 |
 | 53 | [Woodstock](https://open.spotify.com/track/1cXOxrN1qDxgjDvqcJANKc) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Woodstock](https://open.spotify.com/album/6S2lVoBmDELDPVgMtETs1I) | 5:07 |
 | 54 | [Give The People What They Want](https://open.spotify.com/track/5GSVH5qhutFR5k95UMqzTg) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Give The People What They Want](https://open.spotify.com/album/3bKA19kc24Ro0wtEO0IlCg) | 3:45 |
 
-Snapshot ID: `MCw4NWQzZWZjMTFjOTIyYTg4YjQyOWYwMjNmNDgwMTI1MDRjZTI0MDI3`
+Snapshot ID: `MCxkNDFhNzE2ZjBhYWIzYWIwOWFjNzE0MmM1OGE2NmExMjc4M2QxMjg2`

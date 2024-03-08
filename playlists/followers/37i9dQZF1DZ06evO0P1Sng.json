@@ -1,5 +1,5 @@
 {
-  "2024-03-07": 7817,
+  "2024-03-08": 7824,
   "date_first_scraped": "2023-12-31",
   "description": "This is Azzy. The essential tracks, all in one playlist.",
   "name": "This Is Azzy",
@@ -1463,10 +1463,32 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 160056,
       "name": "Tifanny",
       "url": "https://open.spotify.com/track/0N4C42417079Bc1uxCCivU"
+    },
+    {
+      "album": {
+        "name": "Tifanny",
+        "url": "https://open.spotify.com/album/7ARaUBO3YmdZ91wDdSn643"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Tlust",
+          "url": "https://open.spotify.com/artist/6M1ffwjNDqXAkqpppHukl6"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160056,
+      "name": "Tifanny",
+      "url": "https://open.spotify.com/track/7rSH0RAJ3IkeiXfwqEZERJ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Sitting in a cozy café studying while the rain is pouring down outside.
 
-121 songs - 7 hr 1 min
+124 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,9 @@
 | [Blame It On My Youth \- Rain](https://open.spotify.com/track/1kcqIlIk0Tked5nm7sAQDW) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Blame It On My Youth \- Rain](https://open.spotify.com/album/1xHh3zVBbPvTMxxxZPl7Dx) | 4:58 | 2023-05-18 |  |
 | [Blue Café](https://open.spotify.com/track/0MgoRd7LaUL4VWwimX4fPw) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [Blue Café](https://open.spotify.com/album/0RzevXUMiwBxb8ulm1U7VZ) | 3:36 | 2023-06-22 |  |
 | [Blue Moon](https://open.spotify.com/track/6xEHmGdGA9ZnjwuHUD9EFm) | [Ray Wilshire](https://open.spotify.com/artist/7LuCANGo1IuYQvcOWPywMZ) | [Blue Moon](https://open.spotify.com/album/655YlNnJaQaflqOYHRUogN) | 3:37 | 2023-04-27 | 2023-09-29 |
+| [Blue Sunday](https://open.spotify.com/track/4wRroGt99b7BQGV7Lp59f3) | [Archie Taylor](https://open.spotify.com/artist/6p8c1ewQ2thcBnDzhkoZaL) | [Blue Sunday](https://open.spotify.com/album/4BxrAZLnMBaSwzdODpcTwx) | 3:27 | 2024-03-08 |  |
 | [Blue Tennessee](https://open.spotify.com/track/65xukQJeGh8BMUAPIGldf3) | [Dorothy Lee](https://open.spotify.com/artist/3o48LBxfAf2DslosQYX6Ud) | [Broken Promises](https://open.spotify.com/album/3PXGuFuHhepsRkdiMEeksR) | 3:46 | 2023-04-27 |  |
+| [Boxroom](https://open.spotify.com/track/5SsQyltME8sKOX8jU7LXiH) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [Boxroom](https://open.spotify.com/album/0Llf3NZanAqYEwbg9paS8b) | 3:05 | 2024-03-08 |  |
 | [Bring Some Lovin'](https://open.spotify.com/track/4kY4TFMLtGkbr3yclyHCeN) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [Jazz Lovin in the Rain](https://open.spotify.com/album/4XxldlvH0UopYK6GQpeoGJ) | 3:11 | 2023-04-27 |  |
 | [Broken Promises](https://open.spotify.com/track/4sSuZdKAQ5DaGXMcTVB1cJ) | [Dorothy Lee](https://open.spotify.com/artist/3o48LBxfAf2DslosQYX6Ud) | [Broken Promises](https://open.spotify.com/album/3PXGuFuHhepsRkdiMEeksR) | 3:36 | 2023-04-27 |  |
 | [Brothers](https://open.spotify.com/track/2frIsLqlpUpQGS6Z80EUlF) | [Stockholm Whereabouts](https://open.spotify.com/artist/7xGUX1jozTRuHMgjmRuK18) | [Brothers](https://open.spotify.com/album/0Y5ZQ28L3Oi1APem8PpPNM) | 3:29 | 2023-11-10 |  |
@@ -47,6 +49,7 @@
 | [Feathers](https://open.spotify.com/track/06NxUSlMIb6JsSC0cW4HhH) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Eternity Rain](https://open.spotify.com/album/3VyBGuqp5a0oBTCbLkpIdr) | 3:23 | 2023-04-27 |  |
 | [Forests Sometimes](https://open.spotify.com/track/3rDVLfUb6s70EdNhrVOycF) | [Jonah Anderson](https://open.spotify.com/artist/5Pb7mQGBSkDqTrQKTKeSZa) | [Forests Sometimes](https://open.spotify.com/album/4c5tCMY258trdUWxqJ4J5j) | 4:03 | 2023-04-27 |  |
 | [Forgiving](https://open.spotify.com/track/5tVKrc60aMf0daSkoUgJL4) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Eternity Rain](https://open.spotify.com/album/3VyBGuqp5a0oBTCbLkpIdr) | 3:08 | 2023-04-27 |  |
+| [Glencoe Sketches \(Rain\)](https://open.spotify.com/track/0MiOcIeWX5CdJKN8i49wzp) | [Saphena Trio](https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd) | [Glencoe Sketches \(Rain\)](https://open.spotify.com/album/2TgNzsUJ4VgF7SkDGRBL7k) | 4:22 | 2024-03-08 |  |
 | [Have You Met Miss Jones \- Rain version](https://open.spotify.com/track/1wPvqaFBWI8wpDZDm1xoCH) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Have You Met Miss Jones \- Rain version](https://open.spotify.com/album/1vNyfbtnTuXPJVPw7rUTA6) | 3:11 | 2023-04-27 |  |
 | [Her Song](https://open.spotify.com/track/1ePnBDWTj8rvGAqsfKApk3) | [Magnolia](https://open.spotify.com/artist/3W7N9zZpdLMW6E0JfDmPKx) | [Her Song](https://open.spotify.com/album/6rcsRUeB2jjdWMtRZ3Yjjr) | 3:38 | 2023-05-25 |  |
 | [Honeymoon \(Rain\)](https://open.spotify.com/track/2qQqxXl7I6Z2QhpU5zPwHl) | [Black Door Band](https://open.spotify.com/artist/5HwT1pXVlbHMRiuOWJhcni) | [Honeymoon \(Rain\)](https://open.spotify.com/album/0qsUKVODzSAZLkDxUlR5KZ) | 4:22 | 2023-08-03 |  |

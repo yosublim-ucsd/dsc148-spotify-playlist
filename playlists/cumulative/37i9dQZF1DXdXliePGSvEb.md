@@ -2,7 +2,7 @@
 
 ### [Best Electronic Songs of 2023](https://open.spotify.com/playlist/37i9dQZF1DXdXliePGSvEb)
 
-> Our favorite electronic songs from around the world this year\. Cover: Lilly Palmer
+> Our favorite electronic songs from around the world this year\. Cover: Anyma
 
 281 songs - 20 hr 17 min
 

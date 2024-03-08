@@ -1,12 +1,12 @@
 {
   "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: Figoshin",
-  "num_followers": 143095,
+  "num_followers": 143175,
   "original_name": "ABAT\u2211RA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDQ0ZDNkMDM5NmFkYTVmNzJmZjU2NTUzYWQyMzQ5ZTgxMjkwMmE1",
+  "snapshot_id": "MCw1YTc0YjAxZDBiNGI0NDhiMDU5NTIyOWMxNjM3N2I2YjQ0MmM0YjQz",
   "tracks": [
     {
       "added_at": "2024-03-02 00:01:00",
@@ -123,6 +123,22 @@
     {
       "added_at": "2024-03-02 00:01:00",
       "album": {
+        "name": "ARABIA / BLUE LOVE",
+        "url": "https://open.spotify.com/album/0aFUI7XlqD1IQHjJ9P8MBl"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "BLUE LOVE",
+      "url": "https://open.spotify.com/track/7Djd9Ct8LmEhshieSejXPV"
+    },
+    {
+      "added_at": "2024-03-02 00:01:00",
+      "album": {
         "name": "Rajel",
         "url": "https://open.spotify.com/album/5qIdMl371jLKWHDkj63uca"
       },
@@ -141,44 +157,24 @@
       "url": "https://open.spotify.com/track/4YibFdQpXOTKUuONm34QLV"
     },
     {
-      "added_at": "2024-03-02 00:01:00",
+      "added_at": "2024-03-08 00:01:00",
       "album": {
-        "name": "ARABIA / BLUE LOVE",
-        "url": "https://open.spotify.com/album/0aFUI7XlqD1IQHjJ9P8MBl"
+        "name": "Ma M\u00e8re",
+        "url": "https://open.spotify.com/album/2O9O6EeyowClx0t4uRpYLh"
       },
       "artists": [
         {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "BLUE LOVE",
-      "url": "https://open.spotify.com/track/7Djd9Ct8LmEhshieSejXPV"
-    },
-    {
-      "added_at": "2024-03-02 00:01:00",
-      "album": {
-        "name": "Ante Bellum",
-        "url": "https://open.spotify.com/album/16A58ezcKCnbwpebx6sCxc"
-      },
-      "artists": [
-        {
-          "name": "Skizo Beats",
-          "url": "https://open.spotify.com/artist/59HL7kLWCoAxxnS4jzRDnr"
+          "name": "Lemhllwess",
+          "url": "https://open.spotify.com/artist/454idLWxvkeePy4v39nP0J"
         },
         {
-          "name": "Diib",
-          "url": "https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi"
-        },
-        {
-          "name": "Kira7",
-          "url": "https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17"
+          "name": "Dollypran",
+          "url": "https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS"
         }
       ],
-      "duration_ms": 208213,
-      "name": "Makareb",
-      "url": "https://open.spotify.com/track/0y6YPIv8y7m9zhxCwtonlo"
+      "duration_ms": 187401,
+      "name": "Ma M\u00e8re",
+      "url": "https://open.spotify.com/track/7olBJXnUt6te4YGhDd8OPW"
     },
     {
       "added_at": "2024-03-02 00:01:00",
@@ -215,6 +211,30 @@
     {
       "added_at": "2024-03-02 00:01:00",
       "album": {
+        "name": "Ante Bellum",
+        "url": "https://open.spotify.com/album/16A58ezcKCnbwpebx6sCxc"
+      },
+      "artists": [
+        {
+          "name": "Skizo Beats",
+          "url": "https://open.spotify.com/artist/59HL7kLWCoAxxnS4jzRDnr"
+        },
+        {
+          "name": "Diib",
+          "url": "https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi"
+        },
+        {
+          "name": "Kira7",
+          "url": "https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17"
+        }
+      ],
+      "duration_ms": 208213,
+      "name": "Makareb",
+      "url": "https://open.spotify.com/track/0y6YPIv8y7m9zhxCwtonlo"
+    },
+    {
+      "added_at": "2024-03-02 00:01:00",
+      "album": {
         "name": "Machi Lkhatri",
         "url": "https://open.spotify.com/album/6dAhHPgc12Cq9ZdyON9fVU"
       },
@@ -235,22 +255,6 @@
     {
       "added_at": "2024-03-02 00:01:00",
       "album": {
-        "name": "M.I.M",
-        "url": "https://open.spotify.com/album/16VwVZ1dFAaCXAeQrsyit8"
-      },
-      "artists": [
-        {
-          "name": "Dada",
-          "url": "https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "SWEETCHY",
-      "url": "https://open.spotify.com/track/0c3oj5HJnYj2bbMEoabmiY"
-    },
-    {
-      "added_at": "2024-03-02 00:01:00",
-      "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
       },
@@ -267,22 +271,6 @@
     {
       "added_at": "2024-03-02 00:01:00",
       "album": {
-        "name": "POPO",
-        "url": "https://open.spotify.com/album/18Cf3fPeZ5mRYI8ihYBhqo"
-      },
-      "artists": [
-        {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
-        }
-      ],
-      "duration_ms": 191666,
-      "name": "POPO",
-      "url": "https://open.spotify.com/track/0sMCcICKRGJ8Td75nZloeU"
-    },
-    {
-      "added_at": "2024-03-02 00:01:00",
-      "album": {
         "name": "M.I.M",
         "url": "https://open.spotify.com/album/16VwVZ1dFAaCXAeQrsyit8"
       },
@@ -295,6 +283,22 @@
       "duration_ms": 172500,
       "name": "3ADI JIDAN",
       "url": "https://open.spotify.com/track/2wNNXprT139bOoaBGmc12V"
+    },
+    {
+      "added_at": "2024-03-02 00:01:00",
+      "album": {
+        "name": "POPO",
+        "url": "https://open.spotify.com/album/18Cf3fPeZ5mRYI8ihYBhqo"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "duration_ms": 191666,
+      "name": "POPO",
+      "url": "https://open.spotify.com/track/0sMCcICKRGJ8Td75nZloeU"
     },
     {
       "added_at": "2024-03-02 00:01:00",
@@ -331,26 +335,6 @@
     {
       "added_at": "2024-03-02 00:01:00",
       "album": {
-        "name": "Chanel",
-        "url": "https://open.spotify.com/album/2RSrMxoMzrWtjFl7BWBSm2"
-      },
-      "artists": [
-        {
-          "name": "LHAJ",
-          "url": "https://open.spotify.com/artist/1Rn9VGYBgWB83nWmPAU0I7"
-        },
-        {
-          "name": "Ramoon",
-          "url": "https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja"
-        }
-      ],
-      "duration_ms": 122922,
-      "name": "Chanel",
-      "url": "https://open.spotify.com/track/3nkZHzCyxc1Eyg3L14Vb0m"
-    },
-    {
-      "added_at": "2024-03-02 00:01:00",
-      "album": {
         "name": "Minuit",
         "url": "https://open.spotify.com/album/2ubz38hd8GzoT6nFs50NeA"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 207240,
       "name": "Minuit",
       "url": "https://open.spotify.com/track/4Qwzw8eFrFYUkegexOtyNm"
+    },
+    {
+      "added_at": "2024-03-02 00:01:00",
+      "album": {
+        "name": "M.I.M",
+        "url": "https://open.spotify.com/album/16VwVZ1dFAaCXAeQrsyit8"
+      },
+      "artists": [
+        {
+          "name": "Dada",
+          "url": "https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "SWEETCHY",
+      "url": "https://open.spotify.com/track/0c3oj5HJnYj2bbMEoabmiY"
     },
     {
       "added_at": "2024-03-02 00:01:00",
@@ -407,6 +407,26 @@
       "duration_ms": 181224,
       "name": "Athena",
       "url": "https://open.spotify.com/track/2I7WsqOc6alpXv1Xr99vw1"
+    },
+    {
+      "added_at": "2024-03-02 00:01:00",
+      "album": {
+        "name": "Chanel",
+        "url": "https://open.spotify.com/album/2RSrMxoMzrWtjFl7BWBSm2"
+      },
+      "artists": [
+        {
+          "name": "LHAJ",
+          "url": "https://open.spotify.com/artist/1Rn9VGYBgWB83nWmPAU0I7"
+        },
+        {
+          "name": "Ramoon",
+          "url": "https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja"
+        }
+      ],
+      "duration_ms": 122922,
+      "name": "Chanel",
+      "url": "https://open.spotify.com/track/3nkZHzCyxc1Eyg3L14Vb0m"
     },
     {
       "added_at": "2024-03-02 00:01:00",
@@ -528,7 +548,7 @@
       "added_at": "2024-03-02 00:01:00",
       "album": {
         "name": "SOUVENIRS",
-        "url": "https://open.spotify.com/album/0OIv1dSO03mVAV7HasG78H"
+        "url": "https://open.spotify.com/album/79AqB9SWeuMusmNNWjbQyG"
       },
       "artists": [
         {
@@ -538,27 +558,7 @@
       ],
       "duration_ms": 185514,
       "name": "SOUVENIRS",
-      "url": "https://open.spotify.com/track/2RdFjBnr4vPvUDHoYhzeDs"
-    },
-    {
-      "added_at": "2024-03-02 00:01:00",
-      "album": {
-        "name": "TAY9 (Spotify Singles)",
-        "url": "https://open.spotify.com/album/3fMQ4kuJGfwQThWWYTo322"
-      },
-      "artists": [
-        {
-          "name": "Snor",
-          "url": "https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN"
-        },
-        {
-          "name": "AKOA",
-          "url": "https://open.spotify.com/artist/3a0HEhdCd1Ca2a1Q9hqHlq"
-        }
-      ],
-      "duration_ms": 229776,
-      "name": "TAY9 - Spotify Singles",
-      "url": "https://open.spotify.com/track/33vKgJAIkPU3AOcsAmggGG"
+      "url": "https://open.spotify.com/track/0Jo0882WDrdrpjcKndHFqF"
     },
     {
       "added_at": "2024-03-02 00:01:00",

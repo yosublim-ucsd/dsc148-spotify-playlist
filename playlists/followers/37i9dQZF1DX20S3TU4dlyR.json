@@ -1,5 +1,5 @@
 {
-  "2024-03-07": 58113,
+  "2024-03-08": 58124,
   "date_first_scraped": "2022-05-26",
   "description": "Este es el Reggae, al sur del continente americano. Foto: Nonpalidece.",
   "name": "Reggae al Sur",
@@ -1109,7 +1109,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": null,
       "duration_ms": 245000,
       "name": "El Cuento",
       "url": "https://open.spotify.com/track/1Qdl60UYYCVLkZbsNwSyQZ"
@@ -2099,7 +2099,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 215083,
       "name": "La Ventanita",
       "url": "https://open.spotify.com/track/5xTJCta6EUo8YsTlxuGPmz"

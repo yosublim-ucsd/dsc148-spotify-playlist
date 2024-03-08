@@ -1957,6 +1957,24 @@
     },
     {
       "album": {
+        "name": "Onto",
+        "url": "https://open.spotify.com/album/4IlCpbHEKPdQIXGPktyOIv"
+      },
+      "artists": [
+        {
+          "name": "Leander Vaughn",
+          "url": "https://open.spotify.com/artist/6VZhEArsID7ayvhvG7DRGl"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Onto",
+      "url": "https://open.spotify.com/track/14BiZ33a6hZeAw3NWtRbl0"
+    },
+    {
+      "album": {
         "name": "Natural Life",
         "url": "https://open.spotify.com/album/2dWhwh8lM31AKfywr2uDcA"
       },
@@ -2782,6 +2800,24 @@
       "duration_ms": 203718,
       "name": "The Searching Mind",
       "url": "https://open.spotify.com/track/4kr9gd3vK8IQw3783OeuIk"
+    },
+    {
+      "album": {
+        "name": "There Is No Door",
+        "url": "https://open.spotify.com/album/5Kw0k4LswXV9gWynxsfydx"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Sarrov",
+          "url": "https://open.spotify.com/artist/0hWj5Qhik6MeR8OgrX7QQs"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "There Is No Door",
+      "url": "https://open.spotify.com/track/0rijE9OzRao288gMiqCHOB"
     },
     {
       "album": {

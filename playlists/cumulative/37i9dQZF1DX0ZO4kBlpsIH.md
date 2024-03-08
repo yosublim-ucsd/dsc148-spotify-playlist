@@ -4,7 +4,7 @@
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-199 songs - 9 hr 43 min
+201 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,12 +114,13 @@
 | [Le Plus Beau Tango Du Monde \- Tango](https://open.spotify.com/track/2UDqPpMrmvP0FXHZ35YHsP) | [Edouard Duleu](https://open.spotify.com/artist/49WpqtZQzP4PICzb34lY15) | [Au bal musette, Vol\. 4](https://open.spotify.com/album/1P2kQLzal0rB0gUutYCMjd) | 2:40 | 2022-02-18 | 2023-04-28 |
 | [Le Printemps Me Manque](https://open.spotify.com/track/3sL8PRW9gZHGVqJiuBWnrJ) | [Eugene Lambert](https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl) | [Le Printemps Me Manque](https://open.spotify.com/album/3P7c08Xkgb40avYxJQrzvE) | 3:54 | 2023-08-24 |  |
 | [Le Vieux Moulin](https://open.spotify.com/track/0gIYlhqKe0h8LRSOKMerU3) | [Bateau Mouche](https://open.spotify.com/artist/5qCJ0Ww13jRmYWuL3PLEmf) | [Le Vieux Moulin](https://open.spotify.com/album/5t2X4RIkdsCrFMshfr3g6N) | 2:48 | 2024-01-12 | 2024-01-29 |
-| [Le Vieux Moulin](https://open.spotify.com/track/32KZMkZ68ViB0nHVb3eLWt) | [Menilmuche](https://open.spotify.com/artist/4UokevHf2JYeNlpcpQH7W8) | [Le Vieux Moulin](https://open.spotify.com/album/3gmX5Dw51NBWSzMwv96439) | 2:48 | 2024-01-26 |  |
+| [Le Vieux Moulin](https://open.spotify.com/track/32KZMkZ68ViB0nHVb3eLWt) | [Menilmuche](https://open.spotify.com/artist/4UokevHf2JYeNlpcpQH7W8) | [Le Vieux Moulin](https://open.spotify.com/album/3gmX5Dw51NBWSzMwv96439) | 2:48 | 2024-01-26 | 2024-03-08 |
 | [Le Vin Est La Clé de Mon Coeur](https://open.spotify.com/track/7BnNWk7YTw1DgVN2E9owRX) | [Les Petits Parisians](https://open.spotify.com/artist/6zjNoaNyUsp1ZEIbzLv4Jk) | [Valse de la Rose](https://open.spotify.com/album/3cmofgkvBgbsU8igeIgC6w) | 1:50 | 2023-03-21 | 2023-08-19 |
 | [Les feuilles mortes](https://open.spotify.com/track/3XqH3vtrR5gTkj1XxMcKIM) | [Carré Bleu](https://open.spotify.com/artist/1QV54AIfd6OK9AbHFG19es) | [Les feuilles mortes](https://open.spotify.com/album/3OtWDcUB17fVR7UtlQof1c) | 2:28 | 2023-03-21 |  |
 | [Les rues de Paris](https://open.spotify.com/track/2Z706066GiPx7nVpQrVLqU) | [Stefano Corradi](https://open.spotify.com/artist/4KnatJMl9LPIdRUSQsYION), [Gian Pietro Marazza](https://open.spotify.com/artist/2tgYUszDncWLQhwJzSSfVX), [Luca Garlaschell](https://open.spotify.com/artist/4uHfosVwJmQAuFyXngLoPo) | [Love Routes \(Romantic Accordion Ballads in Rome\)](https://open.spotify.com/album/3lEXZx6W90Y1WjkWILQwaB) | 2:08 | 2022-02-18 |  |
 | [Les yeux noirs](https://open.spotify.com/track/7lO7qbUIy6E1FNJxkh1ft2) | [Daniel Colin](https://open.spotify.com/artist/2ou5vHf8Vp1ru210N1fi5F) | [Passion Gitane](https://open.spotify.com/album/3dQ85ldFwfDtl2WNdaED1l) | 3:31 | 2022-02-18 | 2023-03-22 |
 | [Les Yeux Noirs](https://open.spotify.com/track/6bwaxaqDX81qCJbYzbb3rX) | [Pierre\-Antoine Martin](https://open.spotify.com/artist/51QwiXSzbhgzbvvHNOcyUs) | [French Cafe](https://open.spotify.com/album/5adQdukvF9RPivGzmYQUAC) | 2:06 | 2023-03-15 |  |
+| [Les Yeux Ouverts](https://open.spotify.com/track/1FjTuFrLRrbnT6sYmRCJcf) | [Trio Musette](https://open.spotify.com/artist/2ePIFH8jgBe6Cqe2uc8s6A) | [Les Yeux Ouverts](https://open.spotify.com/album/713V7aJPT8exLv571T7U1Y) | 2:49 | 2024-03-08 |  |
 | [Little French Bistro](https://open.spotify.com/track/6XRQ7rygcyL8NJhsfFxQl2) | [Dan Newton](https://open.spotify.com/artist/0Qtew6RxM1Q84UH2fX3tJA) | [Afternoon in Paris](https://open.spotify.com/album/3zluMWEr6bDzPdYn5S5KsV) | 4:27 | 2023-03-07 | 2023-04-28 |
 | [Magnitsky Mazurka](https://open.spotify.com/track/5ZXjV4dL6GAc4yRUtf48IP) | [Blue Reed](https://open.spotify.com/artist/45G3AXF6o34v567mxogrb9) | [Vol.1](https://open.spotify.com/album/5OjLE6UwpRwpVmWlNrGgM1) | 4:47 | 2022-02-18 |  |
 | [Matin Calme](https://open.spotify.com/track/08fs9mOg7lKMvHumsUFVCQ) | [Carré Bleu](https://open.spotify.com/artist/1QV54AIfd6OK9AbHFG19es) | [Les feuilles mortes](https://open.spotify.com/album/3OtWDcUB17fVR7UtlQof1c) | 1:55 | 2023-03-21 | 2023-06-21 |
@@ -180,7 +181,8 @@
 | [Sous Le Ciel De Paris \- 1951](https://open.spotify.com/track/3uLV311pq2SRLKbiV8oA64) | [Gilbert Roussel](https://open.spotify.com/artist/5pIaaeMGL31kC7Jz2ZU0K1) | [Valse Musette](https://open.spotify.com/album/3IstTjNFAMomssd6s9g8XX) | 2:40 | 2023-08-03 |  |
 | [Sous les ponts de Paris](https://open.spotify.com/track/7EPUfhGSOEA2oJ7l7eIMHZ) | [Daniel Colin](https://open.spotify.com/artist/2ou5vHf8Vp1ru210N1fi5F), [Dominique Cravic](https://open.spotify.com/artist/3YbvJxUxRDaLxoe7K5nPV8), [Claire Elzière](https://open.spotify.com/artist/1Zz0qtkLEAJvEmi3w6QKRO) | [French Cafe Music](https://open.spotify.com/album/6xkpSZA1I5GGQ706McVrCr) | 1:47 | 2023-03-07 | 2023-08-19 |
 | [Stranger in Paradise](https://open.spotify.com/track/6GjAj2EPLGg4sA8IGwfeNR) | [Fapy Lafertin Quintet](https://open.spotify.com/artist/3R40AsTdJfrb2Tjma0IKKF), [Tim Kliphuis](https://open.spotify.com/artist/5oIzOvlQiWNh4IviPqp6cJ) | [Fleur D'ennui](https://open.spotify.com/album/4XAQbww740j53SaJCHFXCU) | 4:14 | 2022-11-25 | 2023-04-14 |
-| [Sunbeam Bossa](https://open.spotify.com/track/1vh9W9ZWrC7n646F9xylVx) | [Bossa Nórdica](https://open.spotify.com/artist/68CfKFCbNNQaqy75ZgwF4h) | [Sunbeam Bossa](https://open.spotify.com/album/1REO43jYtdKeP22HeTGMX8) | 3:05 | 2022-02-18 |  |
+| [Sunbeam Bossa](https://open.spotify.com/track/1vh9W9ZWrC7n646F9xylVx) | [Bossa Nórdica](https://open.spotify.com/artist/68CfKFCbNNQaqy75ZgwF4h) | [Sunbeam Bossa](https://open.spotify.com/album/1REO43jYtdKeP22HeTGMX8) | 3:05 | 2022-02-18 | 2024-03-08 |
+| [Sunbeam Bossa](https://open.spotify.com/track/3u5eEzUziM9DKtGlWDxH3s) | [Bossa Nórdica](https://open.spotify.com/artist/68CfKFCbNNQaqy75ZgwF4h) | [Sunbeam Bossa](https://open.spotify.com/album/7Kp2u0GQo9nIJdv0YSEs8W) | 3:05 | 2024-03-08 |  |
 | [Sur la Seine](https://open.spotify.com/track/3rvFCB6mfxK3rmG7rcTA79) | [Vincent Carenzi](https://open.spotify.com/artist/34jld7FKHe7h6xc55lJJ0B), [Gilbert Sigrist](https://open.spotify.com/artist/3CKwrrnFs0fv7w7lg4ReIX), [Laurent Sigrist](https://open.spotify.com/artist/7BbLZ7BoH71qnKGhdIwOzX) | [Souvenirs](https://open.spotify.com/album/0bNxItRPphxD07gwBZUZXH) | 2:24 | 2023-03-07 | 2023-05-19 |
 | [Suzette](https://open.spotify.com/track/15G8JWzGHoxH7vryK5v2g4) | [Carré Bleu](https://open.spotify.com/artist/1QV54AIfd6OK9AbHFG19es) | [Les feuilles mortes](https://open.spotify.com/album/3OtWDcUB17fVR7UtlQof1c) | 3:12 | 2023-03-21 |  |
 | [Swing Gitane](https://open.spotify.com/track/1Bmk0wq732C39ifPLVGjfn) | [Léandre Porcher Orchestra](https://open.spotify.com/artist/4ohj4TI0oVXXRZR21JghI7) | [Songs in a Parisian Cafe](https://open.spotify.com/album/0zZVqcIwJ2Z5gGs9oooaO5) | 2:41 | 2023-03-15 | 2023-08-04 |

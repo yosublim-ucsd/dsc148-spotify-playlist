@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,514 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,539 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 | 31 | [Discoman](https://open.spotify.com/track/5YpB83TMSxvNw3F7SMikHq) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Discoman](https://open.spotify.com/album/0A2nttPiJAdDfjkmt9l2vT) | 3:40 |
 | 32 | [Ugh, So Good!](https://open.spotify.com/track/3jtASBOuKjzKR6AKtf2CuS) | [c a n d i d !](https://open.spotify.com/artist/40eScT09blR2WOpG2zbe9o) | [Ugh, So Good!](https://open.spotify.com/album/4Pd42T8XOtOf2G7ZFUXmEk) | 3:35 |
 | 33 | [Into You](https://open.spotify.com/track/4vJWPcqXGWihza1mp2uOEO) | [Le Flex](https://open.spotify.com/artist/3FeBwrxlR57o2rFbFWUWzF) | [Into You](https://open.spotify.com/album/0O2kvlAWECmb0FuiiX28WL) | 4:24 |
-| 34 | [Cinnamon](https://open.spotify.com/track/1gRWoklE6IT3eVP7mSlFwd) | [Emarosa](https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek) | [Sting](https://open.spotify.com/album/0BBW1lCE63dBs7u79aFIet) | 3:06 |
+| 34 | [Cinnamon](https://open.spotify.com/track/1gRWoklE6IT3eVP7mSlFwd) | [Emarosa](https://open.spotify.com/artist/7JQOXJZ7h88fhYy9cRws5v) | [Sting](https://open.spotify.com/album/0BBW1lCE63dBs7u79aFIet) | 3:06 |
 | 35 | [Spins \- Lazywax Remix](https://open.spotify.com/track/1ursruYcl4mapRUkBMMXxz) | [Supertaste](https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6), [Lazywax](https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw) | [Spins \(Lazywax Remix\)](https://open.spotify.com/album/4Z2p6uZduhJbDx2uWstqus) | 5:47 |
 | 36 | [What U Want](https://open.spotify.com/track/3AeYrDBrSlVJtDyxhiZMpg) | [Mofak](https://open.spotify.com/artist/5NM65Y5uGN6Z9X5Uh3w8iV), [Sally Green](https://open.spotify.com/artist/5BHrTlWKFtM97PTs1Avpqs) | [What U Want](https://open.spotify.com/album/16l9UyWdSuNBbbaca9nPA9) | 3:40 |
 | 37 | [1988](https://open.spotify.com/track/4qPKzQfAvbrpwzvzvdJebu) | [Tom Ford](https://open.spotify.com/artist/3GjqRsFb9dpZ02vchIWQPE), [Liselotte Östblom](https://open.spotify.com/artist/6zLYvupkEsUlhsXj9sFSQd), [Adam Flowers](https://open.spotify.com/artist/1SggEYhzQY4qw4c9lDIIaq) | [1988](https://open.spotify.com/album/1L2RchCutvV55ZIaBuAvBJ) | 4:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 | 99 | [Damage](https://open.spotify.com/track/0FFTohbXBhhTWCZXFICr60) | [James Gardin](https://open.spotify.com/artist/0Rb3zrBGdsFJe2jfyKvQfV), [Terem](https://open.spotify.com/artist/6wW00VEP8a3yiD1gwgVXPX) | [The Groove Collection](https://open.spotify.com/album/2Z6wtJYpyZux5OZHpYZxzH) | 2:30 |
 | 100 | [Dress Code \- Radio Edit](https://open.spotify.com/track/3483vNrzxVuUvI5PqWEeuv) | [Julien Granel](https://open.spotify.com/artist/3VvDMiseFeokUqlLPXMh45) | [Dress Code](https://open.spotify.com/album/2IfrsypQxsQbZf6NFhkLLY) | 3:20 |
 
-Snapshot ID: `MCw3NDQ4ZGU1OGU0NTQ5MWNhNzdlNjg5ZTRjNjRiZDMyNDI5MzIwZTEx`
+Snapshot ID: `MCw2ZTg4ZDRiNWFhMjdjMjgxYmNiMjllMzAxNWJkYTZiYzY0MmRlM2Fm`

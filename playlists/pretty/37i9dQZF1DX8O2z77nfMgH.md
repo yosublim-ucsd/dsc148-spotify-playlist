@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Portada: J Balvin, Jowell & Randy, De la Ghetto
 
-[Spotify](https://open.spotify.com/user/spotify) - 900,941 likes - 55 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 900,940 likes - 55 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 54 | [Greve De Beijo \- Ao Vivo](https://open.spotify.com/track/2LQ67PtoEgJSaRSqoh4k2E) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Let's Bora UDI \(Ao Vivo\)](https://open.spotify.com/album/6qoyIq6P1ARy6Chl6WHFTf) | 2:37 |
 | 55 | [Kamehameha](https://open.spotify.com/track/1V8utCbISlbpINEMvEd7nc) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [DJ Thi Marquez](https://open.spotify.com/artist/3PqV7Fyye1JcHwZHQ8BjoA) | [Kamehameha](https://open.spotify.com/album/0t1RQSdcT6YhZVoNvTcUHu) | 2:27 |
 
-Snapshot ID: `MCw1ZDYzMzM0ZTVkZDAwMDFkZDU1YmJkYWZiMmMzNzQ1NmI1YWU4MGU3`
+Snapshot ID: `MCxhZTBmNzZmNjkyMTdkMTMxY2Y0ZjVhM2YxOWViOTIxOTZkMmRlMTAw`

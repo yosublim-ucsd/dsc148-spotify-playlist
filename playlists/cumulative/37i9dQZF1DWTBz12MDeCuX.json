@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Die Playlist, die dich f\u00fchlt. Cover: $OHO BANI, Herbert Gr\u00f6nemeyer",
+  "description": "Die Playlist, die dich f\u00fchlt. Cover: Paula Hartmann",
   "name": "me right now",
   "tracks": [
     {
@@ -1753,6 +1753,24 @@
     },
     {
       "album": {
+        "name": "Alley Rose",
+        "url": "https://open.spotify.com/album/0UhDmGYpV3BlEWQXuff5DF"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208489,
+      "name": "Alley Rose",
+      "url": "https://open.spotify.com/track/63PCEHeJ7ZgTLpmzjkuWoy"
+    },
+    {
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/5YdIiv5WLNbaONCyGIDszz"
       },
@@ -2441,6 +2459,28 @@
     },
     {
       "album": {
+        "name": "kleine Feuer",
+        "url": "https://open.spotify.com/album/672lt6au46TYlrsYLLvTTa"
+      },
+      "artists": [
+        {
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+        },
+        {
+          "name": "Trettmann",
+          "url": "https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154679,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/7HF2ixqp47pB4FcCSXkHP4"
+    },
+    {
+      "album": {
         "name": "Tell Me It's Real (Expanded Edition)",
         "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
       },
@@ -2882,7 +2922,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 213360,
       "name": "Baby By Me",
       "url": "https://open.spotify.com/track/1x075F39Q0zOhjPzPKgG8E"
@@ -3962,7 +4002,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 154986,
       "name": "Bisschen Liebe",
       "url": "https://open.spotify.com/track/3xJiVml80WEbicBuukBKD6"
@@ -5646,7 +5686,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 241773,
       "name": "Church (feat. Teddy Verseti)",
       "url": "https://open.spotify.com/track/7cyBdix7HId2onf99SrJBV"
@@ -6770,7 +6810,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 277147,
       "name": "Das Geheimnis der Dragonballs",
       "url": "https://open.spotify.com/track/7xdvVs79ijMdUIJ7Nk5j5O"
@@ -7325,6 +7365,24 @@
     },
     {
       "album": {
+        "name": "DISTANZ / SEH NICHT KLAR",
+        "url": "https://open.spotify.com/album/2OkuVZbkTxxSFQfyyMi1hP"
+      },
+      "artists": [
+        {
+          "name": "Mika No\u00e9",
+          "url": "https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144476,
+      "name": "DISTANZ",
+      "url": "https://open.spotify.com/track/3CWeKBO9IATLoUJpOU0AdN"
+    },
+    {
+      "album": {
         "name": "Distraction",
         "url": "https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o"
       },
@@ -7478,6 +7536,24 @@
       "duration_ms": 391693,
       "name": "Do You Want Me?",
       "url": "https://open.spotify.com/track/6pRoaBsWuUgPe95HsDQcy9"
+    },
+    {
+      "album": {
+        "name": "DOING IT AGAIN BABY",
+        "url": "https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145272,
+      "name": "DOING IT AGAIN BABY",
+      "url": "https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ"
     },
     {
       "album": {
@@ -7923,6 +7999,42 @@
     },
     {
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/6tIWeGsSjwbHCt2NIaPqhL"
+      },
+      "artists": [
+        {
+          "name": "Josh Breaks",
+          "url": "https://open.spotify.com/artist/5ux7zNd22iNHOAUypzsSLi"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141965,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/2lbOVJ2oLUV6e2OvF3JbeH"
+    },
+    {
+      "album": {
+        "name": "eBay",
+        "url": "https://open.spotify.com/album/5cCcOdexGrZGWzmcsC3lkU"
+      },
+      "artists": [
+        {
+          "name": "LEEPA",
+          "url": "https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142100,
+      "name": "eBay",
+      "url": "https://open.spotify.com/track/3k7g0xHFCX2ezCVCHaikIf"
+    },
+    {
+      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/2KJ1s33piMoYlvlTgsWi4m"
       },
@@ -7982,7 +8094,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 124327,
       "name": "ECHT - Techno Mix",
       "url": "https://open.spotify.com/track/2Pyfpd75r3dC3nDgVA4fnX"
@@ -8234,6 +8346,24 @@
       "duration_ms": 152227,
       "name": "Eins",
       "url": "https://open.spotify.com/track/3xyAKIULBLzu2I85SpVGCc"
+    },
+    {
+      "album": {
+        "name": "EINS ZWEI",
+        "url": "https://open.spotify.com/album/5JDhf7woR8UlAk2PlWAC40"
+      },
+      "artists": [
+        {
+          "name": "ZAPRAVKA",
+          "url": "https://open.spotify.com/artist/4oCaLmRVMM4Ck4VGrmh4VC"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "EINS ZWEI",
+      "url": "https://open.spotify.com/track/5TqqYy8XXfHGmnYiZV4eJF"
     },
     {
       "album": {
@@ -12195,6 +12325,28 @@
     },
     {
       "album": {
+        "name": "GOODBYE",
+        "url": "https://open.spotify.com/album/6w29cMfUj8Gnyvqr1UfDbi"
+      },
+      "artists": [
+        {
+          "name": "HENRYY",
+          "url": "https://open.spotify.com/artist/7MN3Ivl1zMpNa381IMZ0FN"
+        },
+        {
+          "name": "erob\u00e9",
+          "url": "https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162478,
+      "name": "HEARTBREAK SONG",
+      "url": "https://open.spotify.com/track/0m47TTGAXh0GHWhhlA1TLJ"
+    },
+    {
+      "album": {
         "name": "Heartbreaks",
         "url": "https://open.spotify.com/album/0YztKqJaUavgKgW90Ohgcd"
       },
@@ -13024,7 +13176,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 60719,
       "name": "hotline (edit)",
       "url": "https://open.spotify.com/track/0WFryfbNKPXVtVQlz5dZ8H"
@@ -13606,7 +13758,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 143346,
       "name": "I Think You Should Go",
       "url": "https://open.spotify.com/track/7cRfC6VZyy8r985B31baJA"
@@ -13668,6 +13820,24 @@
       "duration_ms": 169891,
       "name": "i will never be there for u",
       "url": "https://open.spotify.com/track/3oGyXaa4ZrkmNSqtv0QgwM"
+    },
+    {
+      "album": {
+        "name": "I Wouldn't Mind",
+        "url": "https://open.spotify.com/album/1YvMESin0KV0FsTinzdhz3"
+      },
+      "artists": [
+        {
+          "name": "Eure Jungs",
+          "url": "https://open.spotify.com/artist/1uvjKQHpHj5BiEHBOlU97U"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119200,
+      "name": "I Wouldn't Mind",
+      "url": "https://open.spotify.com/track/3XB10votaPOcmrFS1dM59j"
     },
     {
       "album": {
@@ -17409,6 +17579,24 @@
     },
     {
       "album": {
+        "name": "HATE ME",
+        "url": "https://open.spotify.com/album/5XlxyRqG5mr7eG6My0QkVT"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198053,
+      "name": "Looking For You",
+      "url": "https://open.spotify.com/track/7C8RxsVy6MsOef3B5lk7TI"
+    },
+    {
+      "album": {
         "name": "LOS",
         "url": "https://open.spotify.com/album/38gQNy7vEgrwsMn9SLRXjo"
       },
@@ -18390,7 +18578,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 176963,
       "name": "mausmann",
       "url": "https://open.spotify.com/track/07z15WtiDQV9IGhb9oinIc"
@@ -19300,7 +19488,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 160082,
       "name": "Mond",
       "url": "https://open.spotify.com/track/53czFJt0Cz9DGgpyDrO6l1"
@@ -19855,6 +20043,24 @@
     },
     {
       "album": {
+        "name": "My House Is Not A Home",
+        "url": "https://open.spotify.com/album/2vx0QJQQAIkQFJJpdlD3u1"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239181,
+      "name": "My House Is Not A Home",
+      "url": "https://open.spotify.com/track/0ssxoYXlw70MY4lh3JsI9q"
+    },
+    {
+      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/3UsBjs22X6tMtgSUMhaT0V"
       },
@@ -20242,6 +20448,24 @@
       "duration_ms": 141939,
       "name": "Nachtschicht",
       "url": "https://open.spotify.com/track/6dZQIPaOrXhTpa1oeNDBul"
+    },
+    {
+      "album": {
+        "name": "Nagel",
+        "url": "https://open.spotify.com/album/7N2lhEDlcMWaQ10SEZ0tMh"
+      },
+      "artists": [
+        {
+          "name": "SHOKI",
+          "url": "https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102453,
+      "name": "Nagel",
+      "url": "https://open.spotify.com/track/2QIKyERwcoI9M5oEcRlVEA"
     },
     {
       "album": {
@@ -24752,7 +24976,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 186191,
       "name": "Saturn",
       "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
@@ -25595,6 +25819,24 @@
     },
     {
       "album": {
+        "name": "DISTANZ / SEH NICHT KLAR",
+        "url": "https://open.spotify.com/album/2OkuVZbkTxxSFQfyyMi1hP"
+      },
+      "artists": [
+        {
+          "name": "Mika No\u00e9",
+          "url": "https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135273,
+      "name": "SEH NICHT KLAR",
+      "url": "https://open.spotify.com/track/7HX8KHF5VtH9rfWF1UrfO5"
+    },
+    {
+      "album": {
         "name": "Seifenblasen aus Beton",
         "url": "https://open.spotify.com/album/4TiEapY5MX9EnRaGZ9edBO"
       },
@@ -26384,7 +26626,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 214632,
       "name": "Skin and Bones",
       "url": "https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91"
@@ -27774,7 +28016,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 157142,
       "name": "Sterne im Abgrund",
       "url": "https://open.spotify.com/track/6NhvoWfiTlymJHMMPPBlDY"
@@ -27854,7 +28096,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 198098,
       "name": "Still Need U",
       "url": "https://open.spotify.com/track/2z0aTFF696oXVdN1sfzKi7"
@@ -27872,7 +28114,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 158008,
       "name": "Still Yours (From The Doc)",
       "url": "https://open.spotify.com/track/7gJr3ockQ0fezUXuUXvaSq"
@@ -28038,7 +28280,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
@@ -28311,6 +28553,24 @@
     },
     {
       "album": {
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277506,
+      "name": "Supercut",
+      "url": "https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR"
+    },
+    {
+      "album": {
         "name": "Superstars",
         "url": "https://open.spotify.com/album/1DxDAh1Qxro1JxWY3TS7PR"
       },
@@ -28326,6 +28586,28 @@
       "duration_ms": 139234,
       "name": "Superstars",
       "url": "https://open.spotify.com/track/3dgOu83QnvkooEa4Jz2Msr"
+    },
+    {
+      "album": {
+        "name": "SUPERSTARS",
+        "url": "https://open.spotify.com/album/7Ijj4w9MeF2qqQN0XjoMs3"
+      },
+      "artists": [
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        },
+        {
+          "name": "treamiboii",
+          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182432,
+      "name": "SUPERSTARS",
+      "url": "https://open.spotify.com/track/6NIp5k4DPAB2hGI8Mg908B"
     },
     {
       "album": {
@@ -32176,7 +32458,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 146823,
       "name": "Weck mich auf",
       "url": "https://open.spotify.com/track/0HRs43B2mc8LZXKtbPKT1R"

@@ -1,5 +1,5 @@
 {
-  "2024-03-07": 36272,
+  "2024-03-08": 36477,
   "date_first_scraped": "2023-08-17",
   "description": "A calm and cosy classical soundtrack to all activities. ",
   "name": "Classical in the Background",
@@ -3427,7 +3427,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 181760,
       "name": "Salut d'Amour, Op. 12",
       "url": "https://open.spotify.com/track/5z7X16lHaksROA9dhkQM4y"
@@ -4255,6 +4255,36 @@
       "duration_ms": 165000,
       "name": "Trois Romances sans paroles, Op. 17: 3. Andante moderato",
       "url": "https://open.spotify.com/track/4myyfMmDd7wTkgq8Ci7VfF"
+    },
+    {
+      "album": {
+        "name": "Intermundia",
+        "url": "https://open.spotify.com/album/0nFHh7Rb9TcrhPIGAX7rr8"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        },
+        {
+          "name": "Louisa Fuller",
+          "url": "https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ"
+        },
+        {
+          "name": "John Metcalfe",
+          "url": "https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd"
+        },
+        {
+          "name": "Chris Worsey",
+          "url": "https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230975,
+      "name": "Valadier",
+      "url": "https://open.spotify.com/track/7xrnn0OqogufEwqSvfcLau"
     },
     {
       "album": {

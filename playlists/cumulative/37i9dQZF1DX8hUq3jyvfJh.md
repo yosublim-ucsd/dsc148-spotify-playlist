@@ -2,7 +2,7 @@
 
 ### [EQUAL Brasil](https://open.spotify.com/playlist/37i9dQZF1DX8hUq3jyvfJh)
 
-> IZA e muitas outras mulheres para serem ouvidas no volume máximo!
+> co\-curadoria com IZA em celebração ao Mês Internacional da Mulher!
 
 943 songs - 2 day 0 hr 20 min
 

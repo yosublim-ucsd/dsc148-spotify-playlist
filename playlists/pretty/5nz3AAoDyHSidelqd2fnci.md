@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 49 min 4 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 49 min 10 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bart Simpson](https://open.spotify.com/track/2B8ptUhxgGOCfm08GU905x) | [Guimzy](https://open.spotify.com/artist/5eLJAbWJ8WAhYQoxv1DZh2) | [97GOAT](https://open.spotify.com/album/51vhV49ckAENuQKqcHrFFS) | 2:30 |
-| 2 | [No Cigar](https://open.spotify.com/track/3KLkRy9l3us98SIp6mmxkk) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Pennybridge Pioneers](https://open.spotify.com/album/5VWyJbfC4DUsnC1NLSjuWC) | 2:43 |
-| 3 | [Hallowed Be Thy Name \- 2015 Remaster](https://open.spotify.com/track/469rBLYJUZHMJLtq2Wch3h) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Number of the Beast \(2015 Remaster\)](https://open.spotify.com/album/5S3gls8Kjn8KVmqlIDEBbO) | 7:11 |
-| 4 | [Hungry Heart](https://open.spotify.com/track/1KsI8NEeAna8ZIdojI3FiT) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The River](https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg) | 3:19 |
-| 5 | [The Duelists \- 1998 Remastered Version](https://open.spotify.com/track/5WRkRjKhQpSieXHGX35T7V) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Powerslave \(1998 Remastered Edition\)](https://open.spotify.com/album/4hFcwazEjeg3gJEu0AuxM7) | 6:06 |
-| 6 | [I Never Wanted](https://open.spotify.com/track/0RAqGFqsW6moDVpJw4ky8c) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [An Ocean Between Us](https://open.spotify.com/album/2hghqPOGmfBdEfWeMsQWdN) | 4:44 |
-| 7 | [GATOS](https://open.spotify.com/track/3xNAa4jiaMZs49nb3Qrg3f) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [GATOS](https://open.spotify.com/album/1wsaWyn3EmI0OSc6Bc8Z9j) | 2:43 |
-| 8 | [Wake Up](https://open.spotify.com/track/2QOyGdO9iLCEtdEGGri0yR) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [No Time To Bleed](https://open.spotify.com/album/0HfrZ8ZtUL9ncyt3c5sfMh) | 3:48 |
-| 9 | [The Aftermath \(G3\)](https://open.spotify.com/track/2trvsBQoevupr7pnjfSjbG) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Escape The Fate \(Deluxe Version\)](https://open.spotify.com/album/5DuCufI3rdIoEMDyDvPSwl) | 5:34 |
-| 10 | [Stadium](https://open.spotify.com/track/16BDlU9TTUv7wmEBw3vYtd) | [Josef Lamercier](https://open.spotify.com/artist/3T7YH8Lq7GMkrYLiWvaXgc), [Niko Oroc](https://open.spotify.com/artist/0hyAc4uL2daH73ehuYDLac), [Uno Hype](https://open.spotify.com/artist/68jFd8fas1U1U51bGQZXbr) | [Merci](https://open.spotify.com/album/2XFgpLjkvG1YeAjAoDVB0F) | 2:57 |
-| 11 | [BRASS](https://open.spotify.com/track/4vgN1Rbx7kv32HCCpvpvFb) | [Make Mama Proud](https://open.spotify.com/artist/5szSyl9vXGIHY6Ln8K14UI) | [Brass](https://open.spotify.com/album/24Ptvugk5Tn6EkLvdnjsdy) | 3:57 |
-| 12 | [Hooch](https://open.spotify.com/track/5df4yz25t1CQHYNHGGg6NR) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8) | 3:28 |
+| 1 | [Still Beats Your Name](https://open.spotify.com/track/2A1cj9MUHz2ClwOY4hSPmT) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [As Daylight Dies \(Special Edition\)](https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z) | 3:19 |
+| 2 | [Relax, Take It Easy](https://open.spotify.com/track/0KM2y796j63t5RHhvRUxld) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Life In Cartoon Motion](https://open.spotify.com/album/6oIaXBTIZ2Q9cJKBgrZ2Ox) | 4:30 |
+| 3 | [Product Of A Murderer](https://open.spotify.com/track/5FV4WyulPxHILhuvAdjrJA) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [The Flood \(Deluxe Reissue\)](https://open.spotify.com/album/5PLgKITLdSYuh7OWpIC8nC) | 3:52 |
+| 4 | [BURN IT DOWN \- Tom Swoon Remix](https://open.spotify.com/track/1buWPBwvTd6VnIdBV48yQM) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz), [Tom Swoon](https://open.spotify.com/artist/2OFEXARoSZyZLR6S0oV2R7) | [RECHARGED](https://open.spotify.com/album/2FUsvD1bw53HGOjAg56vRD) | 4:46 |
+| 5 | [No Class](https://open.spotify.com/track/5ljLFhWvgkpnmhhvo4DerB) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M), [Wendy O\. Williams](https://open.spotify.com/artist/3HBr2GSlzEyJaw7yIFqsXN) | [No Remorse \(Deluxe Edition\)](https://open.spotify.com/album/6NnCvI782a1lKvMAIbzzAG) | 2:30 |
+| 6 | [The Simpsons Hit and Run](https://open.spotify.com/track/3XMzICxfIHn6Kr2YswEup1) | [Anthony L Anderson the Great](https://open.spotify.com/artist/6Qptu9HTJPtdPIZ2LCNmkS), [Jackson Beatz](https://open.spotify.com/artist/00yREFyTxTOObIKyGcCW97) | [The Simpsons Hit and Run](https://open.spotify.com/album/1UgpOHVJrAPaIYia88CWrA) | 5:13 |
+| 7 | [Scream](https://open.spotify.com/track/1MxB3Qw6wz8IZYSmIPyH6I) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 4:31 |
+| 8 | [Love With Caution](https://open.spotify.com/track/1XBk3sj904rliBVL0X2Ozr) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Arrivals & Departures \(Bonus Version\)](https://open.spotify.com/album/5Zx1Rh9FFgJB47bx0jP0nS) | 3:27 |
+| 9 | [Dancing in the Club](https://open.spotify.com/track/6WM7lXStlVKnYpeM6Q5EIA) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Dancing in the Club](https://open.spotify.com/album/4bbgIXYIqLp7SnauWEWClv) | 4:47 |
+| 10 | [Strange World \- 1998 Remastered Version](https://open.spotify.com/track/1ClFoYvBLCQHOuvkNQpQfb) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Iron Maiden \(1998 Remastered Edition\)](https://open.spotify.com/album/5J5fnu7PEwhgzdkiBBtblw) | 5:32 |
+| 11 | [The Way That We Have Been](https://open.spotify.com/track/3uEH8szfYujFvyISoR5TYm) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Understanding What We've Grown to Be \(Deluxe Edition\)](https://open.spotify.com/album/6QmepOn4v046xEUpYEcq1t) | 3:46 |
+| 12 | [Get You Down](https://open.spotify.com/track/67s7dPO6D0ywOSrbUH5ehD) | [GREYSKIES](https://open.spotify.com/artist/5zp72ZM5DdxHbMPIt7EEtX) | [Get You Down](https://open.spotify.com/album/7yssE08RBSbr9mEXoP9kpf) | 2:52 |
 
-Snapshot ID: `NDksNWQ0NDZhZTU4Y2RlNTg3ZmZjNmEyNDM5ZWFlNmE1NjNjNmU0MTI5Yg==`
+Snapshot ID: `NTAsZmE0YjFiNzRhNWIxNGI0ZjhmOTFmZTYxMmM3NmU2OTM0YmQwYTg1ZA==`

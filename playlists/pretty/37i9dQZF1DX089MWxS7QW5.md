@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Tabber\(태버\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,799 likes - 52 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,834 likes - 52 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 51 | [INVU](https://open.spotify.com/track/7d3plYwBTEDTGaMJFihbcW) | [BAMSOOSUNG](https://open.spotify.com/artist/2iijjkoVBe57TcHnsR3sOy) | [INVU](https://open.spotify.com/album/0ToIkUqka6WWsMQw3TETdw) | 3:04 |
 | 52 | [Beside You \(feat\. LIMZY\)](https://open.spotify.com/track/6FCgF4BO3QzteywSsuJ7Tk) | [Sumsher](https://open.spotify.com/artist/5hb1plh7RDdl57ztwwzAzm), [Limzy](https://open.spotify.com/artist/1S3po0DnvzmI2nDXxbxfUu) | [Beside You \(feat\. LIMZY\)](https://open.spotify.com/album/3zUFUes1ztWrgPFWSkomfu) | 3:08 |
 
-Snapshot ID: `MCw1NjljYTU1MWNmYWUyMjk2MDdhOGQwMDY2N2ZhYzY1YTI5YmM5ZmNh`
+Snapshot ID: `MCwzNWYxOGE5OTAwNjY3ODY3MzE3YTNhNTkwNTNiMjk1ZWIwYTcwZWQz`

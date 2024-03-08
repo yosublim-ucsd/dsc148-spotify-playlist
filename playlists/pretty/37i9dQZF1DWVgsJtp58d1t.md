@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday\. In honor of Black History Month, we’re giving flowers to prominent artists and their managers\. <a href="https://www.instagram.com/p/C38GTj9Lzev/?utm\_source=ig\_web\_copy\_link&igsh=MzRlODBiNWFlZA==">Let's get into it</a><br/><br/>Cover: Larry June and David Ali
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,011,385 likes - 102 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,011,617 likes - 102 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 57 | [not enough \(with Brent Faiyaz\)](https://open.spotify.com/track/0PW454qKfnxKnkVF5pcDLX) | [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [it’s not you, it’s me](https://open.spotify.com/album/0BDjNDdizBQAGbIRyBBeEA) | 5:05 |
 | 58 | [The Ballad of Sally Anne](https://open.spotify.com/track/2kozuAaT0clm71FtU5bThw) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [The Ballad of Sally Anne](https://open.spotify.com/album/3uc7lb3lx1Ww2XRPBnAJkh) | 3:58 |
 | 59 | [Going To The Top](https://open.spotify.com/track/12tJyz2GOa37X25a8GF2hP) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Going To The Top](https://open.spotify.com/album/7ekSrUcnLASHRSOYvX2UZw) | 1:56 |
-| 60 | [Omo Boy](https://open.spotify.com/track/7kWEdNbzvcrcwwVlTfvNZR) | [Del B](https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE) | [Omo Boy](https://open.spotify.com/album/3Y7Cn7VrfQZwL80BtMe1sa) | 3:03 |
+| 60 | [Omo Boy](https://open.spotify.com/track/7kWEdNbzvcrcwwVlTfvNZR) | [Del B](https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t), [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [Omo Boy](https://open.spotify.com/album/3Y7Cn7VrfQZwL80BtMe1sa) | 2:59 |
 | 61 | [Say Yea](https://open.spotify.com/track/23xbAWourNWVHmSZBWa990) | [Cor.Ece](https://open.spotify.com/artist/7kBeFHrKwVJsFTP5wpRYEv), [Bad Colours](https://open.spotify.com/artist/0x3KkCJuve7n51ThZGNAIX) | [Say Yea](https://open.spotify.com/album/66BnK7Pn6J1YyYruF0J34a) | 3:56 |
 | 62 | [Pentothal](https://open.spotify.com/track/04AdMvwsEVH4cOB1KmpjB5) | [JonoJono](https://open.spotify.com/artist/0HPzKByIKi4qqSgS3gc26q) | [Pentothal](https://open.spotify.com/album/6dNDuTzeNRsw5Qhro1XQEa) | 2:18 |
 | 63 | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/track/1Zej3ztnuVElDfYGYBBhJP) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:07 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 101 | [You Never Visit Me \(feat\. Wale & Enny\)](https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [You Never Visit Me \(feat\. Wale & Enny\)](https://open.spotify.com/album/5768qKkadOnArtFfrupjLe) | 4:24 |
 | 102 | [Lover/Friend](https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Lover/Friend](https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX) | 3:32 |
 
-Snapshot ID: `MCwxMWI4OTA1MjhjZTIyYmVkM2FjNzMwMGM3NjhjOTMzMjc2M2ExY2Mw`
+Snapshot ID: `MCw0MDUwY2E1ZDY3OTRmZGNmNWU0ZDQxOWI5N2I2ZjY1OTRkMWU4YzBm`

@@ -380,10 +380,28 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 211261,
       "name": "An Italian Lovesong",
       "url": "https://open.spotify.com/track/0BvvHp4Swg1sulxZd9UhPo"
+    },
+    {
+      "album": {
+        "name": "An Italian Lovesong",
+        "url": "https://open.spotify.com/album/5gaL77WSTk0aETu3ODH8W7"
+      },
+      "artists": [
+        {
+          "name": "Toto Espinoza",
+          "url": "https://open.spotify.com/artist/19dDL7A3QDM8tAUJg5y0OX"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211261,
+      "name": "An Italian Lovesong",
+      "url": "https://open.spotify.com/track/5oqJe8VkPZxRHIHSgE4sh9"
     },
     {
       "album": {
@@ -1192,6 +1210,24 @@
     {
       "album": {
         "name": "Coming home to you",
+        "url": "https://open.spotify.com/album/2Hly2bwVt1kYoKBAPkye2Z"
+      },
+      "artists": [
+        {
+          "name": "Luca Stavos",
+          "url": "https://open.spotify.com/artist/4haSSnvfxfNuKQ0Rxroodu"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196375,
+      "name": "Coming home to you",
+      "url": "https://open.spotify.com/track/2aI1bWAGzEgG7SLkVihyJJ"
+    },
+    {
+      "album": {
+        "name": "Coming home to you",
         "url": "https://open.spotify.com/album/5RuJR2nM1Rur7O5cAQxfrk"
       },
       "artists": [
@@ -1202,7 +1238,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 196375,
       "name": "Coming Home to You",
       "url": "https://open.spotify.com/track/3z7zpVaGejh3GBR3DhlHWQ"
@@ -5440,6 +5476,24 @@
     {
       "album": {
         "name": "Stockholm Waltz",
+        "url": "https://open.spotify.com/album/7ELKIYBbXhI8IG8vdZTFTg"
+      },
+      "artists": [
+        {
+          "name": "Julian Vigil",
+          "url": "https://open.spotify.com/artist/37iIAObpTKbDOZ9BjSrmMv"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140964,
+      "name": "Stockholm Waltz",
+      "url": "https://open.spotify.com/track/28oHpnRPMxVcrXVmd4VqFj"
+    },
+    {
+      "album": {
+        "name": "Stockholm Waltz",
         "url": "https://open.spotify.com/album/0Vl8Nl9s21QHz3fSk3U623"
       },
       "artists": [
@@ -5450,7 +5504,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 140964,
       "name": "Stockholm Waltz",
       "url": "https://open.spotify.com/track/4qH4Otl7cbyUjg7kshFzUr"
@@ -6644,6 +6698,24 @@
     {
       "album": {
         "name": "Zorica",
+        "url": "https://open.spotify.com/album/5jQeHeEppLraXMGdzUmNJT"
+      },
+      "artists": [
+        {
+          "name": "Olle Linder",
+          "url": "https://open.spotify.com/artist/3DnXgG6Wr1VxhsP543vnug"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226104,
+      "name": "Zorica",
+      "url": "https://open.spotify.com/track/41RJJYUW726mlvz292DLax"
+    },
+    {
+      "album": {
+        "name": "Zorica",
         "url": "https://open.spotify.com/album/3XTBwXoDQoe4zAZvP7igxW"
       },
       "artists": [
@@ -6654,7 +6726,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 226104,
       "name": "Zorica",
       "url": "https://open.spotify.com/track/6cj0JUDGyVNpNUD8B04k5k"

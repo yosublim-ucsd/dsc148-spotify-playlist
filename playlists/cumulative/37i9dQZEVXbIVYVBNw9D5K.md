@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-864 songs - 1 day 19 hr 15 min
+865 songs - 1 day 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,8 +198,8 @@
 | [Bırakma Kendini](https://open.spotify.com/track/087cds8zjbUmokjg2jdMOp) | [Kaan Boşnak](https://open.spotify.com/artist/03cvjFEHz8eGwYHq1L0Pp2) | [Bırakma Kendini](https://open.spotify.com/album/2kj7ndfLwEJgeNFn9kL3jP) | 4:00 | 2021-03-27\* | 2021-06-03 |
 | [C \- CHORBA](https://open.spotify.com/track/0Xztn8NxTd0KreEFLxI7SX) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [CHORBA](https://open.spotify.com/album/7vRm8wcFeUnw3V46fGc7wg) | 0:54 | 2022-10-15 | 2022-10-20 |
 | [Cakal : İmdat](https://open.spotify.com/track/2vaT7cy28DS0lfMJOXX91S) | [RaidKlein](https://open.spotify.com/artist/2Ch8FjuR5IME08KDhdQ9CG) | [Cakal : İmdat](https://open.spotify.com/album/6zKuK8fUf5kBenRW7bTUVk) | 2:23 | 2022-04-12 | 2022-04-15 |
-| [Can Dostum](https://open.spotify.com/track/6tHhAUAMwUwlEGpAVq1jlX) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Parti İptal](https://open.spotify.com/album/1rx7Cdhc8lZwEbPkd2zLlF) | 2:27 | 2023-09-18 |  |
-| [Caney](https://open.spotify.com/track/5mE8MWkWjLbfmd9ipiroVt) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Azer Bülbül](https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ) | [Caney](https://open.spotify.com/album/46DEhRYZNFp9nBmC6j9Dru) | 2:45 | 2024-02-17 |  |
+| [Can Dostum](https://open.spotify.com/track/6tHhAUAMwUwlEGpAVq1jlX) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Parti İptal](https://open.spotify.com/album/1rx7Cdhc8lZwEbPkd2zLlF) | 2:27 | 2023-09-18 | 2024-03-08 |
+| [Caney](https://open.spotify.com/track/5mE8MWkWjLbfmd9ipiroVt) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Azer Bülbül](https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ) | [Caney](https://open.spotify.com/album/46DEhRYZNFp9nBmC6j9Dru) | 2:45 | 2024-02-17 | 2024-03-08 |
 | [Caney](https://open.spotify.com/track/6ed4S0as5mj3nSK81HJuyz) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Azer Bülbül](https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ) | [Caney](https://open.spotify.com/album/5XKLNkXQYdHPocjh5JkkIN) | 2:45 | 2023-06-17 | 2024-02-18 |
 | [Cano](https://open.spotify.com/track/0zQ8vXWLqSyBi5bYebveW1) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Cano](https://open.spotify.com/album/5LIB6TtN0tsvBevHwi3D9l) | 2:41 | 2023-01-18 | 2023-08-10 |
 | [Canıma Minnet](https://open.spotify.com/track/5mCfj3EpRzSSjm5Y5IMzzz) | [Sakiler](https://open.spotify.com/artist/25gzpFRLdteuie1gW4a4hK) | [Canıma Minnet](https://open.spotify.com/album/2pEJ0Iv7MLynZF0QAFaUfS) | 3:27 | 2022-05-01 | 2022-07-24 |
@@ -329,7 +329,7 @@
 | [GEÇMİŞİ SİL](https://open.spotify.com/track/4K7lVYPJxi8RpXRe5aU31A) | [Kozmos](https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6), [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [GEÇMİŞİ SİL](https://open.spotify.com/album/7CGkq5YGahSU6MIA1lWJNd) | 3:08 | 2021-11-28 | 2021-12-06 |
 | [Geççek](https://open.spotify.com/track/7qT1uoiwvXEHSjaiHbw0n1) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Geççek](https://open.spotify.com/album/7vbykiNDCY72e48gKcNsf4) | 3:14 | 2022-02-18 | 2023-05-17 |
 | [Ghetto](https://open.spotify.com/track/1AU0gqFQ1sWXT2c84yBDvw) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Ghetto](https://open.spotify.com/album/2pERxA6Rq3GWyRkT71DEPF) | 2:42 | 2021-11-14 | 2021-12-02 |
-| [Gitme](https://open.spotify.com/track/4Sng3wnol2Gb2yXgFdr9lj) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl), [Sedef Sebüktekin](https://open.spotify.com/artist/1dvuibBCx9TnbCKIdOEF4l) | [Karanlık](https://open.spotify.com/album/6XQYptMz07Qqlcj6FthKpS) | 3:27 | 2021-11-02 | 2024-02-28 |
+| [Gitme](https://open.spotify.com/track/4Sng3wnol2Gb2yXgFdr9lj) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl), [Sedef Sebüktekin](https://open.spotify.com/artist/1dvuibBCx9TnbCKIdOEF4l) | [Karanlık](https://open.spotify.com/album/6XQYptMz07Qqlcj6FthKpS) | 3:27 | 2021-11-02 |  |
 | [Gitme](https://open.spotify.com/track/42boV2FGsztYnQMAeoAjb6) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Gitme](https://open.spotify.com/album/2PbxeqlKK3G3MzRCJbBnVW) | 2:50 | 2023-09-10 | 2024-03-03 |
 | [Gitme Bebé](https://open.spotify.com/track/6hCQeXoFDXvYZ0pu2MDM0h) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Gitme Bebé](https://open.spotify.com/album/7pqk9NL58kPzkX1tayqO4G) | 2:36 | 2022-12-17 | 2022-12-26 |
 | [Gitti](https://open.spotify.com/track/50kQ5ot5Lwtl7aT4hNwIH5) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Aerro](https://open.spotify.com/artist/1pJzB49ODjAOHUBRtKQK6A) | [Gitti](https://open.spotify.com/album/2l3qhaOwDQauRXRSEZJeaq) | 3:07 | 2022-10-29 | 2022-11-06 |
@@ -870,6 +870,7 @@
 | [Şahane](https://open.spotify.com/track/4DbNopoUiA7WRz36e1hRS1) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Şahane](https://open.spotify.com/album/04qJEkzjcJ3jSucaskYDSv) | 1:51 | 2022-09-03 | 2022-09-11 |
 | [Şalteri Kapattım](https://open.spotify.com/track/1PqVXQrffEeYMgcnrAs4Gb) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Şalteri Kapattım](https://open.spotify.com/album/37TgJm4FBxXemuA2A44Ztg) | 1:46 | 2024-01-13 | 2024-01-28 |
 | [Şarkılar Sokaklara Ait](https://open.spotify.com/track/77zSVMpoimPhUiDuJS2Hhd) | [Shanga](https://open.spotify.com/artist/2x80eqIoeRyIDnZnqNicSs) | [Şarkılar Sokaklara Ait](https://open.spotify.com/album/6gRcQndplkSyytP7AiIj4I) | 3:13 | 2022-11-02 | 2022-11-04 |
+| [Şiir Oldum](https://open.spotify.com/track/35CiF98CSt8b2zTxHTck8i) | [Emre Nalbantoğlu](https://open.spotify.com/artist/14TogIxl5TVMe7aa7IaLv1) | [EN KRAL CEKET BENİM](https://open.spotify.com/album/6uX8bNAI0Feaf6Jgt6gdzR) | 1:52 | 2024-03-07 |  |
 | [Şimdiki Aklım](https://open.spotify.com/track/3mcvBUQFQLzklDgU1bBnaW) | [Bilal Sonses](https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3) | [Şimdiki Aklım](https://open.spotify.com/album/4MiHGZmRm4SiEJTzxJ5ceJ) | 2:52 | 2021-03-27 | 2021-04-19 |
 | [ŞU AN](https://open.spotify.com/track/1G2ipJnWC0v0rSPPpzjoek) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [LATIN VIRGIN](https://open.spotify.com/album/0tBoIz7IZw9s9bM7lQRlqA) | 2:25 | 2023-06-06 | 2023-07-23 |
 

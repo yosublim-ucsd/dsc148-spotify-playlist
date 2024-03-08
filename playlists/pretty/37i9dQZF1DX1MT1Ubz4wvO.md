@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Volcán en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,231 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,244 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Equivocarme](https://open.spotify.com/track/5KP9ZP4SnI71OVP7wcMZl2) | [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ), [Dani Miller](https://open.spotify.com/artist/6IpFtQQcxbHXEatc7QC5Ln), [Ana Curra](https://open.spotify.com/artist/17GqenWaUzLjbkH0IKJA5m), [Laura Villar](https://open.spotify.com/artist/2u85mYFxzzyGXtkbNmIlLB) | [Equivocarme](https://open.spotify.com/album/1wG0anaZv4VaiWYn5JrZto) | 2:58 |
 | 2 | [De la Noche a la Mañana](https://open.spotify.com/track/3JLoqQ4s3ak4GUnzT4lWdE) | [Elefante](https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb) | [De la Noche a la Mañana](https://open.spotify.com/album/6ec7LId6eavgFxDTjy4GpY) | 4:18 |
-| 3 | [No Me Hace Bien](https://open.spotify.com/track/5s0D9G9SZYQBeFd7rdWhtW) | [Kerigma](https://open.spotify.com/artist/7t3VRQukdpeWyhKTgodDxB), [Reyli Barba](https://open.spotify.com/artist/7jhNtn1iXeNKAXshgcNCIM) | [No Me Hace Bien](https://open.spotify.com/album/5Bwk0rxpAKcS1QWOTaInIE) | 3:51 |
+| 3 | [No Me Hace Bien \- Remix](https://open.spotify.com/track/5s0D9G9SZYQBeFd7rdWhtW) | [Kerigma](https://open.spotify.com/artist/7t3VRQukdpeWyhKTgodDxB), [Reyli Barba](https://open.spotify.com/artist/7jhNtn1iXeNKAXshgcNCIM) | [No Me Hace Bien \(Remix\)](https://open.spotify.com/album/5Bwk0rxpAKcS1QWOTaInIE) | 3:51 |
 | 4 | [Tema de Adrián](https://open.spotify.com/track/2x9hAIqH7yQiAdGWutAI1S) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd), [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Tema de Adrián](https://open.spotify.com/album/1bF3ocG1KstRDKRXwEsjjB) | 3:00 |
 | 5 | [Cambian](https://open.spotify.com/track/7chuX6EefRPb520HqAFDej) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [Cambian](https://open.spotify.com/album/63kRgJ0EtVVDQpKoAUiOsz) | 4:24 |
 | 6 | [Nada Me Importa \- Owned Version](https://open.spotify.com/track/6BbkaskPujsFQE1eVRLVKl) | [Jotdog](https://open.spotify.com/artist/6rfFUodEv0dJxD1mKbDNdF) | [Nada Me Importa \(Owned Version\)](https://open.spotify.com/album/3ooC2YQhKzDMbhn7SdMxg6) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [lo q necesitabas](https://open.spotify.com/track/3o4pKdMkldtuzgQC0axUNm) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [lo q necesitabas](https://open.spotify.com/album/0lGBsRZiB4F8WaUadCirqT) | 1:43 |
 | 50 | [Ser Libre](https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Ser Libre](https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH) | 3:36 |
 
-Snapshot ID: `MCxhYWJkMjM0ZTRiOWJmZTJkYjhmOGUxOGFlODA4YmI2MmI2YWEyOTcw`
+Snapshot ID: `MCwwOWU0NDEzYTRiNjg0OTkwNzBlM2YxYmM0NGE4Y2Q2MjRlZTM4ZDUz`

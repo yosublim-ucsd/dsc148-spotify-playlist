@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 
 > Finish together\. Listen to the official playlist for Sex Education, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,467 likes - 331 songs - 20 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,534 likes - 331 songs - 20 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 | 48 | [I Found a Reason](https://open.spotify.com/track/1idUQcT3cUss1Mv1BA2yD8) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [Loaded: Re\-Loaded 45th Anniversary Edition](https://open.spotify.com/album/1jYzTZV1cQXE89zA9ZSUpE) | 4:14 |
 | 49 | [Piano Concerto No\. 2 in C Minor, Op\. 18: II\. Adagio sostenuto](https://open.spotify.com/track/09rSXt91Fe1b6ZBjKrbzhL) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi), [Paavo Järvi](https://open.spotify.com/artist/3V9McxlPI0G2RmkU0DhYGO), [Czech Philharmonic](https://open.spotify.com/artist/35NnUEPKGspM23lTZvK3cb) | [Rachmaninoff: Piano Concerto No\. 2 in C Minor, Op\. 18 & Piano Concerto No\. 3 in D Minor, Op\. 30](https://open.spotify.com/album/4no6O3D7VpSoyf6mzM1FZJ) | 10:55 |
 | 50 | [Sittin' Pretty](https://open.spotify.com/track/0xRaqQnhDegqjpe0LQj0ZZ) | [The Datsuns](https://open.spotify.com/artist/2P6KPAphDMASmfHjnxSMmR) | [The Datsuns](https://open.spotify.com/album/3rvuvHqTMjsPtrdPUHyDGZ) | 3:01 |
-| 51 | [Chapstick](https://open.spotify.com/track/3HYgvYoKtEqAnNy47bUmNx) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [Haus Party, Pt\. 1](https://open.spotify.com/album/7HuGa9781G05ax5o354dpo) | 2:38 |
+| 51 | [Chapstick](https://open.spotify.com/track/6qpqqI07zudnnHvzMTOF9J) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [Haus Party, Pt\. 1](https://open.spotify.com/album/1Gx8BjmZq4270ry6i4X6RB) | 2:38 |
 | 52 | [Faith](https://open.spotify.com/track/59eAcAyhYSLi5GKFrgHJzG) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 3:14 |
 | 53 | [Tell You \(Today\) \(12" Vocal\)](https://open.spotify.com/track/2WS2L7AIoDioUVSoo5Vpws) | [Loose Joints](https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173) | [Tell You \(Today\)](https://open.spotify.com/album/5ruXf8eqi1wyfCWfTlLSd6) | 7:02 |
 | 54 | [With Or Without You](https://open.spotify.com/track/6QPhpvO1pWDS91EsEmzsbc) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [U218 Singles](https://open.spotify.com/album/0pYUq4UiXNgq8mO23rlHVU) | 4:56 |
@@ -222,7 +222,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 | 212 | [Blank Generation \- 2013 Remaster](https://open.spotify.com/track/5OGfBbWmRRkDiZiJbu5WIr) | [Richard Hell](https://open.spotify.com/artist/121Q6oslYCMBYZHhOFL1RB) | [Spurts: The Richard Hell Story \(2013 Remaster\)](https://open.spotify.com/album/0nejx6WUKHja3fesKClRCF) | 2:47 |
 | 213 | [Trans Mantra](https://open.spotify.com/track/6fS7WLNDGl8JXJ9Ii3bq1V) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Sex Education: Songs from Season 3](https://open.spotify.com/album/5CGSdovQvDlAaaD7xqpGX7) | 3:15 |
 | 214 | [Macumba](https://open.spotify.com/track/1XUB0OPBN0oWjwl6GZnPWS) | [Titanic](https://open.spotify.com/artist/6SCYHjE3bP5pgwVVdF0PKz) | [Eagle Rock](https://open.spotify.com/album/5KMXdXkAeiAjkJUJfEORj5) | 3:51 |
-| 215 | [Nails, Hair, Hips, Heels](https://open.spotify.com/track/3gWIY6WqA34ZRy8QVjTq5v) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [Haus Party, Pt\. 1](https://open.spotify.com/album/7HuGa9781G05ax5o354dpo) | 3:56 |
+| 215 | [Nails, Hair, Hips, Heels](https://open.spotify.com/track/0tJlqVYEo0r1CGw4gY6s53) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [Haus Party, Pt\. 1](https://open.spotify.com/album/1Gx8BjmZq4270ry6i4X6RB) | 3:56 |
 | 216 | [Never My Love](https://open.spotify.com/track/2cwjS2UkebBgXfQgUZvr4W) | [The Association](https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS) | [Greatest Hits](https://open.spotify.com/album/5uLfogUTD4gfj2md4mrJwv) | 3:10 |
 | 217 | [Frying Pan](https://open.spotify.com/track/4XzkAHiqB0jsgmYLXzxOAl) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Sex Education: Songs from Season 3](https://open.spotify.com/album/5CGSdovQvDlAaaD7xqpGX7) | 1:07 |
 | 218 | [Rock Me Gently](https://open.spotify.com/track/2qh2VGAOYFXLsMbdATRf6w) | [Andy Kim](https://open.spotify.com/artist/5MYBNUKoFf9LAg30ByaBli) | [Greatest Hits](https://open.spotify.com/album/1yBUWYxGG5j1fjzSkrMY0C) | 3:28 |
@@ -340,4 +340,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 | 330 | [Tired of Being Alone](https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Gets Next to You](https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC) | 2:52 |
 | 331 | [Crimson & Clover](https://open.spotify.com/track/6FEKEO3y7QFcMwoGeR0GtU) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [Tommy James and The Shondells: Anthology](https://open.spotify.com/album/5IL9KRDDd1L4m6f9SKS0yN) | 3:29 |
 
-Snapshot ID: `MCwyMDc3OTIyNTRmMTllOTY0ODY3MjEwZGRlZThiMDNjZjY4MDkxZTg4`
+Snapshot ID: `MCwyNzViNDllYzNlZjQyZGI1NmNjY2Q4MWViOGJmMWRhZGYyYjhiZGFi`

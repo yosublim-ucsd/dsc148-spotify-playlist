@@ -1,12 +1,12 @@
 {
   "description": "Los temas que los Cangrejeros de Santurce est\u00e1n escuchando.",
-  "num_followers": 2174,
+  "num_followers": 2173,
   "original_name": "Cangrejeros: Game Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmQ5OGRhZWEyN2I5MzIxMDFmYjA5NjE1MGM4MDk0ZWFlZTRkZGYx",
+  "snapshot_id": "MCw3ZjFjZWEzN2U3NzcwNWY3OTIwM2QwYzg4MzI4YjkzYWYxZGMyNTJi",
   "tracks": [
     {
       "added_at": "2023-11-17 16:10:28",
@@ -354,14 +354,10 @@
         {
           "name": "Fania All Stars",
           "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
       "duration_ms": 405093,
-      "name": "El Rey De La Puntualidad",
+      "name": "El Rey de la Puntualidad",
       "url": "https://open.spotify.com/track/1nO0s5M8vA6qY70XHZcgmY"
     },
     {
@@ -639,7 +635,7 @@
     {
       "added_at": "2023-11-17 16:10:28",
       "album": {
-        "name": "KULIKITAKA",
+        "name": "KULIKITAKA (En Vivo)",
         "url": "https://open.spotify.com/album/7CsWp1eRvtTCXjUKqIfkNE"
       },
       "artists": [
@@ -649,7 +645,7 @@
         }
       ],
       "duration_ms": 219114,
-      "name": "KULIKITAKA",
+      "name": "KULIKITAKA - En Vivo",
       "url": "https://open.spotify.com/track/3I790LcHc41dWZsKPAyMbS"
     },
     {

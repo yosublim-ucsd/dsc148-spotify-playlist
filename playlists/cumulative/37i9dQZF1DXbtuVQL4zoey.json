@@ -10311,6 +10311,24 @@
     },
     {
       "album": {
+        "name": "Wonders",
+        "url": "https://open.spotify.com/album/46DTH0Yk7hMnVs0LKPaVAW"
+      },
+      "artists": [
+        {
+          "name": "Moon Spirit",
+          "url": "https://open.spotify.com/artist/62zKB6KmehKNRoyd8YgNwE"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163668,
+      "name": "Wonders",
+      "url": "https://open.spotify.com/track/640SE3hpcUgwdx8uyu2BRe"
+    },
+    {
+      "album": {
         "name": "words > numbers",
         "url": "https://open.spotify.com/album/3JnbEfKjAABORB0DSb6iOc"
       },

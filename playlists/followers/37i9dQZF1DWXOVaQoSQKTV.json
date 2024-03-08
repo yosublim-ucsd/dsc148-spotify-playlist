@@ -1,5 +1,5 @@
 {
-  "2024-03-07": 102719,
+  "2024-03-08": 102739,
   "date_first_scraped": "2023-06-09",
   "description": "Get ready for the final season, nerds. Listen to the music from Never Have I Ever, new episodes now streaming on Netflix. ",
   "name": "Never Have I Ever Official Playlist",
@@ -2293,7 +2293,7 @@
     {
       "album": {
         "name": "Nothing But Love",
-        "url": "https://open.spotify.com/album/2aj8MSCw8Iv0ImkGNixyvq"
+        "url": "https://open.spotify.com/album/5B5Qx2uz2gQb4TJAnVB3JL"
       },
       "artists": [
         {
@@ -2308,6 +2308,28 @@
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 182345,
+      "name": "Nothing But Love",
+      "url": "https://open.spotify.com/track/08XQynq4cTbNaQtk8fPqeQ"
+    },
+    {
+      "album": {
+        "name": "Nothing But Love",
+        "url": "https://open.spotify.com/album/2aj8MSCw8Iv0ImkGNixyvq"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Scarlett",
+          "url": "https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU"
+        },
+        {
+          "name": "Raf Riley",
+          "url": "https://open.spotify.com/artist/1K7GjRGPXx2I8FJ1iBW85L"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-07",
       "duration_ms": 182345,
       "name": "Nothing But Love",
       "url": "https://open.spotify.com/track/7nYXQduObANN1JWh67XQ14"

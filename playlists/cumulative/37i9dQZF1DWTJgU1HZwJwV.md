@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-460 songs - 19 hr 26 min
+466 songs - 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Azores](https://open.spotify.com/track/2YN1AKTAJApNLbTyNXrm6j) | [Brandon Taylor Smith](https://open.spotify.com/artist/0CkM1sLkP3yQW8I7ja51am) | [Azores](https://open.spotify.com/album/6cBG03sFqnDga0VqnWDpEu) | 2:39 | 2023-04-28 | 2023-06-23 |
 | [Back at Mills Creek](https://open.spotify.com/track/1sokyJcoiRdRyjmPYzcQRu) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [Back at Mills Creek](https://open.spotify.com/album/04bqEOyyP1MIEe5lCrUgUv) | 2:18 | 2024-02-02 |  |
 | [Bagatela De Manhã](https://open.spotify.com/track/2pNnJty3Cpkt2taPau3whq) | [Gunni Møller](https://open.spotify.com/artist/1W3Msj0w5UgqoO24nOybtE) | [Bagatela De Manhã](https://open.spotify.com/album/35g5kehLip9hxTtsktxz0R) | 2:06 | 2022-06-17 | 2022-09-03 |
+| [Barcelona Sunrise](https://open.spotify.com/track/4MGhkZ6FM6jvW4REJvJaVN) | [Phil Stent](https://open.spotify.com/artist/1E1Kt5Hh9SbIGSTb8tyU8G) | [Barcelona Sunrise](https://open.spotify.com/album/278KHG4sDOO9Bv2ACj0YsM) | 2:45 | 2024-03-08 |  |
 | [Bastiments](https://open.spotify.com/track/1B3c71jCiMtb2CIpkzT2a7) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Núria](https://open.spotify.com/album/35xNbujDkw7WI2064N4L53) | 2:56 | 2023-02-24 | 2023-06-23 |
 | [Beach House](https://open.spotify.com/track/0w9Qy3FUtdZMCdlXJQNVFo) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Beach House](https://open.spotify.com/album/4oKwhOJN4dOtl6tivRY5HV) | 2:34 | 2024-01-12 |  |
 | [Beautiful Break](https://open.spotify.com/track/0Ni1YgxRD11jCCFhl3gDA6) | [Maneli Jamal](https://open.spotify.com/artist/3jvyO2jDkfBe2vuI6euFny) | [Beautiful Break](https://open.spotify.com/album/2sU8yFs9s8BXqWNSqYyvib) | 3:11 | 2022-06-17 | 2023-04-29 |
@@ -212,6 +213,7 @@
 | [Isle of Skye](https://open.spotify.com/track/3rxo4jNntMRi6KHJkFHjNR) | [Lisa Helmer](https://open.spotify.com/artist/62OhntIcWQWg4e0MDjaHzo) | [Isle of Skye](https://open.spotify.com/album/5qbEWj7jgylfziWGTZffD6) | 2:13 | 2023-04-28 | 2023-06-23 |
 | [Keep a light](https://open.spotify.com/track/2HiOk8q1M0bbRr5RNrXeR0) | [Petite Guitare](https://open.spotify.com/artist/3vBuuLV3C6cLsz2UtUUDfN) | [Hummingbird](https://open.spotify.com/album/66irZ4PKxClHMK8K2lmGHV) | 2:21 | 2023-05-19 |  |
 | [Kijkduin](https://open.spotify.com/track/63FOGV0xczvau1Ke14CnBw) | [Lester Hope](https://open.spotify.com/artist/3tgc4N85veoQX4jjx62ivq) | [Havana Vieja](https://open.spotify.com/album/4G5bMXtQj8ZR99j6QU1Oqf) | 2:39 | 2022-06-17 | 2023-02-25 |
+| [King's Cross](https://open.spotify.com/track/3CSM7adhRTYXlZFMVFcgjI) | [Hanni Licht](https://open.spotify.com/artist/1RWNLVpTjMKl8MCFV4SUma) | [King's Cross](https://open.spotify.com/album/1MnC5vpGHMLa08YijzVp6K) | 2:32 | 2024-03-08 |  |
 | [L' attesa](https://open.spotify.com/track/35Zsmm47CQlcRec9wbuYUk) | [Joe Pisto](https://open.spotify.com/artist/02EHqe9onqarB5sxNiLdOf) | [L' attesa](https://open.spotify.com/album/23hoUuiDZvyTdvr8LLb7vA) | 2:08 | 2022-06-17 | 2023-09-29 |
 | [l' Étourneau](https://open.spotify.com/track/1MPq0sJ5RK1uiSjX98atNy) | [Dominique Marais](https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K) | [l' Étourneau](https://open.spotify.com/album/39OOI2bfToxavuTyJRXz0i) | 2:49 | 2023-01-20 | 2023-05-20 |
 | [La Blanca Cortina](https://open.spotify.com/track/7BeoyBoC4sovWZ29bLQ45a) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [La Blanca Cortina](https://open.spotify.com/album/7qcp5ez81UUzzIsP8e9lir) | 2:42 | 2022-06-17 | 2022-09-09 |
@@ -285,12 +287,14 @@
 | [Never to Return \(Celestial Guitar\)](https://open.spotify.com/track/2PygGi8gu5WfiT8zKQrC89) | [Ryan Judd](https://open.spotify.com/artist/1F8gdqObuIxT2cZrPjDeMv) | [Never to Return \(Celestial Guitar\)](https://open.spotify.com/album/1sEV06R2RJBrTNOmt5LHuM) | 3:11 | 2022-06-17 | 2023-12-15 |
 | [New Beginnings](https://open.spotify.com/track/7wDAgMa0JFVHQ4Zplb7EsA) | [David Paulin](https://open.spotify.com/artist/3OW9GWNHhjBd0Qt9e6Fj3b) | [New Beginnings](https://open.spotify.com/album/2pSlA3QaTpdbplgNIAfeuR) | 2:50 | 2022-06-17 | 2023-09-08 |
 | [No Me Olvides](https://open.spotify.com/track/5162v3QjSylfbHbAPvT9BX) | [Darla Churce](https://open.spotify.com/artist/0dQyC5qPStQj4m8Rc0pGN0) | [No Me Olvides](https://open.spotify.com/album/5uzZHlnaykyyrYaXCTk5o0) | 2:31 | 2022-06-17 | 2023-10-27 |
+| [No Puedo Evitarlo](https://open.spotify.com/track/1NxCJMENnTIPWQYNx1AdVu) | [Aurelia](https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA) | [No Puedo Evitarlo](https://open.spotify.com/album/1i0nstc0LWCSvMCNczk1e6) | 2:37 | 2024-03-08 |  |
 | [No Worries](https://open.spotify.com/track/2yBaIXKjsNGxGFlaqob4qI) | [Oliver Bade](https://open.spotify.com/artist/2W1nq0Ox5T3BshpYbjxjCj) | [No Worries](https://open.spotify.com/album/6ARmrbdkKDqXtvDy9p8ktK) | 1:50 | 2023-04-28 | 2023-06-23 |
 | [Nobody But You](https://open.spotify.com/track/5LcwDax86a6ymfLDNEYN2T) | [Jaimie Escalera](https://open.spotify.com/artist/3Cbyi7uVS7E3c4XtlEdS0B) | [Nobody But You](https://open.spotify.com/album/1avmuhOQpHOmm4ItRvg3Re) | 2:25 | 2023-06-09 |  |
 | [Noon](https://open.spotify.com/track/5xiAGmZz9dYSHOl1QCBTn6) | [Rick Alexander](https://open.spotify.com/artist/11k1IQi1sxPpXfDnLy78Se) | [Noon](https://open.spotify.com/album/16lrP8mrOWybTmxg04xn98) | 2:47 | 2022-06-17 | 2022-08-05 |
 | [Nostalgia](https://open.spotify.com/track/3nCXrX86dijsLaCS7jzLlB) | [Manuel Boltano](https://open.spotify.com/artist/1VPn9LztA72am356jYFyMH) | [Nostalgia](https://open.spotify.com/album/1z0H1oKZ2DSHvjpG4dDbMX) | 3:36 | 2022-10-07 | 2023-04-29 |
 | [Notturno No\. 3](https://open.spotify.com/track/7LUEs2TTMSiQiZAEYhOI63) | [Andreas Heuser](https://open.spotify.com/artist/1TPRvsNV32KEuCAYTh9mg6) | [Notturno No\. 3](https://open.spotify.com/album/019lCBtr2ly5sXuIFzc5Du) | 2:16 | 2022-09-02 | 2023-08-25 |
 | [Now You Are Here](https://open.spotify.com/track/12D3dmsQyd3pLT7O9hcJk3) | [Wolfgang Vrecun](https://open.spotify.com/artist/3CXmNX9aJWp1FDQn1XDDbo) | [Modern Classical Guitar, Vol\. 2](https://open.spotify.com/album/33PydvV4ZnXjfrHTauT5vv) | 2:20 | 2022-09-16 | 2023-08-18 |
+| [Now's Not The Time](https://open.spotify.com/track/1DC5UfKYnUeMTQaKscS46L) | [Gabriel Sellier](https://open.spotify.com/artist/68bFmMmumjz0ig4CCNeoLZ) | [Now's Not The Time](https://open.spotify.com/album/1WaKJvnkORcs3oIvRErCBt) | 2:58 | 2024-03-08 |  |
 | [Ode](https://open.spotify.com/track/2Hoxt6py7gP6fmV8Mh9OOm) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX) | [Ode](https://open.spotify.com/album/7hAG7HHYB00bdiz4T2C6TO) | 2:40 | 2022-06-17 | 2022-09-09 |
 | [Old World](https://open.spotify.com/track/4z66Dw7i6dmpNvKD8DYs8Q) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Cafe des Anges](https://open.spotify.com/album/7JFwJhMHcwKInpK9DZJEOq) | 2:59 | 2023-02-24 | 2023-06-23 |
 | [Olivar de los Padres](https://open.spotify.com/track/3wp1BYW2oP8kfXcKld2FtD) | [Regina Costa](https://open.spotify.com/artist/5HTYfcxPnPgnplg9GvUIEr) | [Olivar de los Padres](https://open.spotify.com/album/2OxKeAL3VTsGxJte3qs2OS) | 3:25 | 2022-06-17 |  |
@@ -326,6 +330,7 @@
 | [Puigmal](https://open.spotify.com/track/4SG34NU780HN7JrcLeEEEi) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Open Waters](https://open.spotify.com/album/2EpNqhccApxUDtlgGcg9AT) | 2:19 | 2023-01-06 |  |
 | [Pure As You](https://open.spotify.com/track/3bPbiu9rSQou2Iqx5dT5z8) | [Blanche Genet](https://open.spotify.com/artist/2HKdCLXiYvnSQyujGm9Nkk) | [Pure As You](https://open.spotify.com/album/2om6nDeDbESNIsKmMNOIp6) | 2:17 | 2023-04-28 | 2023-06-23 |
 | [Put Some Coins In My Guitar Case](https://open.spotify.com/track/1VKSVewoEeEZSWGMmIHqJp) | [Charlie Miller](https://open.spotify.com/artist/4gedU51ks1jf6BRwzCWosG) | [Put Some Coins In My Guitar Case](https://open.spotify.com/album/7fmKjvUk9dVpPdaYgSu3TV) | 3:33 | 2022-10-28 | 2023-08-25 |
+| [Quietude](https://open.spotify.com/track/0z4GTxxdYujL32uYYLjWoT) | [Lee Howard\-Taylor](https://open.spotify.com/artist/3fewyiCJIgYVzSHCnDjlgM) | [Quietude](https://open.spotify.com/album/1IfBfNQBcRUKm52sspE319) | 2:40 | 2024-03-08 |  |
 | [Quiver and Wince](https://open.spotify.com/track/06lkOWre18zq2lSEX23pzb) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [Quiver and Wince](https://open.spotify.com/album/6w3OZdViK1m8vmZSGZNGAH) | 2:19 | 2023-02-24 | 2023-06-23 |
 | [Raconteur](https://open.spotify.com/track/06qPEPcQwF1tZWWxRvDVPI) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [Raconteur](https://open.spotify.com/album/3XWGX9Y84mIXoSYAUXRN0u) | 2:17 | 2022-06-17 |  |
 | [Really Great To Be Here](https://open.spotify.com/track/1A4WdvncZhXXSYJooxgWYJ) | [Peter Netz](https://open.spotify.com/artist/2IrjMzbLiQJ60OBz4dk1ui) | [Really Great To Be Here](https://open.spotify.com/album/3manuOh0CJ7u1aMcEkovjI) | 3:10 | 2023-02-24 | 2023-06-23 |
@@ -444,6 +449,7 @@
 | [Vulnerable](https://open.spotify.com/track/4cSYj0c4ua1PKVbdMv3C1D) | [Poetics of Memory](https://open.spotify.com/artist/7z2N8PTwv87AKvjJ7BYknl) | [Vulnerable](https://open.spotify.com/album/0A6MwzGufkIBqct3zvByBp) | 2:09 | 2022-06-17 | 2022-09-03 |
 | [Vøringfossen](https://open.spotify.com/track/3pkttYHK5xWJQVqZ8MpTZ7) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Vøringfossen](https://open.spotify.com/album/5feSa7mTYzFpHcM1QlNxaP) | 2:09 | 2023-04-28 | 2023-06-23 |
 | [Waimea Falls](https://open.spotify.com/track/6OI4lw9ZxbrEoY5SRJgG0y) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Waimea Falls](https://open.spotify.com/album/6kDc5lTyqj3ZGm0Wpdjwut) | 3:52 | 2023-04-28 | 2023-06-23 |
+| [Waking up Together](https://open.spotify.com/track/23nKAenI7gT7WGbBajVvNU) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Waking up Together](https://open.spotify.com/album/1oDFfdQooDk1Elf7Sp5brr) | 2:18 | 2024-03-08 |  |
 | [Wallowa Lake](https://open.spotify.com/track/0viEXnrcsXF3nNj3HjROEG) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Abisko](https://open.spotify.com/album/1A3JJkrUlV2FBSV6oY412c) | 3:07 | 2022-06-17 | 2023-08-25 |
 | [Waterfall](https://open.spotify.com/track/4yfJrK5whv2XCvp6JEwayO) | [Pether Walth](https://open.spotify.com/artist/7KsO5zRoKDB9DumlFYRNW1) | [Waterfall](https://open.spotify.com/album/1F5ltuidSbJFydkutXmMMl) | 1:52 | 2023-04-28 | 2023-06-23 |
 | [Wayside](https://open.spotify.com/track/3MKIGVnGdYeYNCH9CIXc7A) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Wayside](https://open.spotify.com/album/4rHzZA0psmw7iEHjBiRb2o) | 2:13 | 2022-06-17 | 2023-04-13 |

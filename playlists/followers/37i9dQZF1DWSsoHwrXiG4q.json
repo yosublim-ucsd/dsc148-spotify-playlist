@@ -1,5 +1,5 @@
 {
-  "2024-03-07": 28157,
+  "2024-03-08": 28226,
   "date_first_scraped": "2023-02-08",
   "description": "Deep sounds of liquid drum & bass to keep you in the flow.",
   "name": "Rapid Rhythm Focus",
@@ -1486,6 +1486,24 @@
     },
     {
       "album": {
+        "name": "Chasing Stars EP",
+        "url": "https://open.spotify.com/album/6jybWKmA2ICnJZMNEyHtkb"
+      },
+      "artists": [
+        {
+          "name": "Weynorx",
+          "url": "https://open.spotify.com/artist/71uGtsgoO2ae1nU9gs3CG6"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277610,
+      "name": "Never Played",
+      "url": "https://open.spotify.com/track/6EYitzpJt3QPe4lmITZBsG"
+    },
+    {
+      "album": {
         "name": "Unfinished Theory",
         "url": "https://open.spotify.com/album/2AnIF4KVlVM6RY8WuzSPgn"
       },
@@ -1519,6 +1537,24 @@
       "duration_ms": 213053,
       "name": "Night",
       "url": "https://open.spotify.com/track/2oo1yQzULJz4jcaL0Ncipb"
+    },
+    {
+      "album": {
+        "name": "The Beginning EP",
+        "url": "https://open.spotify.com/album/05ZtfcUkM8oQk3Depz25nP"
+      },
+      "artists": [
+        {
+          "name": "Anvo",
+          "url": "https://open.spotify.com/artist/11CN1SJEtpbtBo7Hv0vXQW"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339310,
+      "name": "Nightwalker",
+      "url": "https://open.spotify.com/track/1xKlGEhUOGNgjD4X8WN6pQ"
     },
     {
       "album": {
@@ -2052,6 +2088,24 @@
     },
     {
       "album": {
+        "name": "Every Mind Is a Place",
+        "url": "https://open.spotify.com/album/0pQO5opqsLBiGaXBah3K01"
+      },
+      "artists": [
+        {
+          "name": "Sphera",
+          "url": "https://open.spotify.com/artist/4vH9G6Sah9CmkDMDy4jUwe"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274827,
+      "name": "Soul Panorama - Original mix",
+      "url": "https://open.spotify.com/track/0gmTEo8oQXWlq5i1vCLbPC"
+    },
+    {
+      "album": {
         "name": "Soul Seeker",
         "url": "https://open.spotify.com/album/36EJeBLIUqtNePMRvVzwpD"
       },
@@ -2413,6 +2467,24 @@
       "duration_ms": 295172,
       "name": "Worlds Collide",
       "url": "https://open.spotify.com/track/11Alc9FJ2wKiQZTLRaGAUo"
+    },
+    {
+      "album": {
+        "name": "Yama",
+        "url": "https://open.spotify.com/album/6uU3wRLmHBwm9EeN0W7oWD"
+      },
+      "artists": [
+        {
+          "name": "Nowledger",
+          "url": "https://open.spotify.com/artist/4zLhnQUMaZXx6t6iGUckr7"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178329,
+      "name": "Yama",
+      "url": "https://open.spotify.com/track/75dNSUSBB15BaAarOQPcbv"
     },
     {
       "album": {

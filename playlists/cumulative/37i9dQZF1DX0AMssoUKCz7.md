@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-688 songs - 1 day 10 hr 53 min
+689 songs - 1 day 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Are You Mine](https://open.spotify.com/track/4kIYLdQ0eoiZaVrGVWLvqn) | [Alex Schulz](https://open.spotify.com/artist/5OReTeTBZ578sj07hDS0x7), [Rakan](https://open.spotify.com/artist/5lzSBbiehAGDkNqhH3Ishd) | [Are You Mine](https://open.spotify.com/album/3qBbXUvA3V4814pbJh08sF) | 3:29 | 2022-01-14 | 2022-07-30 |
 | [Are You With Me](https://open.spotify.com/track/39QlSLkqq5shnpAXchT9sI) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Are You With Me](https://open.spotify.com/album/63zsZVaIMUW10wP6QanS42) | 2:18 | 2022-01-14 | 2022-04-19 |
 | [Are You With Me \- Radio Edit](https://open.spotify.com/track/2glGP8kEfACgJdZ86kWxhN) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Less Is More](https://open.spotify.com/album/57AJ70IWVE0pmPwNYBa4PT) | 2:18 | 2024-01-02 |  |
-| [Awa Ni](https://open.spotify.com/track/4ob71GMH7PAokRzPhejagR) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Awa Ni](https://open.spotify.com/album/0JcasIRv6rbQG0Bb98o7In) | 3:39 | 2022-01-14 |  |
+| [Awa Ni](https://open.spotify.com/track/4ob71GMH7PAokRzPhejagR) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Awa Ni](https://open.spotify.com/album/0JcasIRv6rbQG0Bb98o7In) | 3:39 | 2022-01-14 | 2024-03-08 |
 | [Away](https://open.spotify.com/track/2bPP8qC8YUkvTxloHEttEw) | [Ruffnux](https://open.spotify.com/artist/2PEL3r75V90kt2VxLPdkxf) | [Away](https://open.spotify.com/album/19ElrpjyvrjR7J3fefSZkt) | 2:14 | 2023-08-25 |  |
 | [Away](https://open.spotify.com/track/3oNycDho9rJAMHma0XC6kT) | [Ruffnux](https://open.spotify.com/artist/2PEL3r75V90kt2VxLPdkxf) | [Away](https://open.spotify.com/album/7aGnO45kEvux1ShpP7Lh76) | 2:14 | 2022-11-18 | 2023-07-27 |
 | [Baby](https://open.spotify.com/track/1bA2ZK7CFxEMnyn1dWP2jp) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Baby](https://open.spotify.com/album/73S00PIhiseZOiQpgol0fK) | 2:40 | 2022-01-14 |  |
@@ -657,6 +657,7 @@
 | [We'll Never Get Old](https://open.spotify.com/track/3UX9B5zX6wx7L9nH1PxT9a) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [We'll Never Get Old](https://open.spotify.com/album/7KdWPRuAcT4DS8tNeXNvgn) | 1:52 | 2022-07-01 | 2022-07-27 |
 | [We're Done](https://open.spotify.com/track/6kwfG2qIV9MKrlxwiIjDlh) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Zoe Maxwell](https://open.spotify.com/artist/642AbhxMV1HpvwV4kMAFmw) | [We're Done](https://open.spotify.com/album/2egvFcqSn8KO3CDj5GzdI5) | 2:59 | 2022-04-01 | 2022-07-27 |
 | [Weekends \(I Can Feel It\) \(DJ PRESS PLAY Remix\)](https://open.spotify.com/track/3L9vMbrzmy86udXbCNfxCX) | [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [Tyler Mann](https://open.spotify.com/artist/0Le735jx9ovswbNnEB7zDz), [DJ PRESS PLAY](https://open.spotify.com/artist/33BNVBRNQM0M3X90E3VciT) | [Weekends \(I Can Feel It\) \(DJ PRESS PLAY Remix\)](https://open.spotify.com/album/00wAj9HNSj1vCaTY2LJ8sH) | 2:40 | 2022-07-08 |  |
+| [West Side](https://open.spotify.com/track/4Lr44kEF2oHMnzn9OdyXwW) | [Kaan Pars](https://open.spotify.com/artist/6Cubdky3Aaaaxc3sn5C32N), [Donner](https://open.spotify.com/artist/1jXVpcmMvyA6AtyzQtG42z) | [West Side](https://open.spotify.com/album/2Py0mEbltlAjp0tsRKlA0t) | 2:36 | 2024-03-01 |  |
 | [What Can We Try](https://open.spotify.com/track/1HiBgVp6L0od0mFcaTy5oG) | [Dawell](https://open.spotify.com/artist/0LWmzWPV1PPwVapnWKtvXt), [Margad](https://open.spotify.com/artist/0q9Rikyw58WDoqfQpp70kM), [Summer Vibes](https://open.spotify.com/artist/2BCjzlKkYOwpNS5WZqX7Bm) | [What Can We Try](https://open.spotify.com/album/59TrIn2IxCu3A9tKQk9C7n) | 2:10 | 2023-02-10 | 2023-03-16 |
 | [What I Have with You](https://open.spotify.com/track/76yso71etUd9iGbm1tqR0a) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD), [Noile](https://open.spotify.com/artist/0KjXAq0C0q9edx9triuYi9), [kaii](https://open.spotify.com/artist/30FKMLZe54ybKyWQRSp8ye) | [What I Have with You](https://open.spotify.com/album/4oF9Rn6kXH0uYmYQrlEsK6) | 2:22 | 2022-09-23 |  |
 | [What I'd Give](https://open.spotify.com/track/5MFr2IB9u3t7nYdRL53viF) | [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M) | [What I'd Give](https://open.spotify.com/album/1qxq6W6zj8YTVgJpOnBSYE) | 3:11 | 2022-01-14 | 2023-05-13 |

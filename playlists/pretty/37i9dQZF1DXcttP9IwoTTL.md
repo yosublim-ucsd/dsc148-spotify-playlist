@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 
 > <a href="spotify:artist:3AN049igIAaoX0fjTCkpnf">Jennifer Cardini</a>'s favorite tracks\. Updated regularly\. Curated by Jennifer Cardini\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,718 likes - 70 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,721 likes - 70 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 | 69 | [High Relief](https://open.spotify.com/track/1BcRQcBtrdhbA3mBScN4lz) | [Javi Redondo](https://open.spotify.com/artist/3sfZrnSyYWKIvdWIDuBaUy) | [A View From Above](https://open.spotify.com/album/0WukqpqOTnJaulkoSiGd0e) | 6:04 |
 | 70 | [Fountains](https://open.spotify.com/track/20X4LoBuTp8Iu8iYghv3HS) | [Inès Cherifi](https://open.spotify.com/artist/3PW7CZXEU2DUS0mYSV2qLp) | [Fountains](https://open.spotify.com/album/22n0c44zorSZ6HLd63WHAj) | 7:07 |
 
-Snapshot ID: `MCw4Yjc1MjU0ZTMwMzllMGEyMjRlZDA5MDU3OGE0YjA0OTVjMjBhZjQ3`
+Snapshot ID: `MCxmNjMwZDRjY2I5NDczZDU4MjBkNzA1NzE1NWQ1NTcyMjY3NDc2MDUy`

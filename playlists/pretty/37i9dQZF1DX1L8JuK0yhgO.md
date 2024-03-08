@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,499 likes - 70 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,501 likes - 70 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [\(I'm\) SICK OF IT](https://open.spotify.com/track/6XonQjdtQvrf1dhaLcwr8U) | [SOM4LI](https://open.spotify.com/artist/7DT4fNnvRM3afyDfwm3hof) | [\(I'm\) SICK OF IT](https://open.spotify.com/album/3OwtcC1DMd8GySGGFaHAaZ) | 3:31 |
 | 60 | [no logos](https://open.spotify.com/track/2l7JvxWuoGvuzX8An8FdSr) | [mato kiyokawa](https://open.spotify.com/artist/4BjoUtMcYFgWQaBY1Ys7a5), [TAKUMI](https://open.spotify.com/artist/4WoHWcWvbQSg7fW9zfHPys), [very lue](https://open.spotify.com/artist/7CuLyN2FFgBWgO4pkOwNYo) | [no logos](https://open.spotify.com/album/2VPsxyZToQCd0s9oftjKGC) | 3:01 |
 | 61 | [Special](https://open.spotify.com/track/5Uelucu5gHUiB1YcZiLwrW) | [tipleso](https://open.spotify.com/artist/58d1a1EZMlNYYPfmPAAwMD) | [AMAI ALBUM](https://open.spotify.com/album/71tIL5DzIxZ5iQflxtdKeY) | 2:45 |
-| 62 | [Come True](https://open.spotify.com/track/5ty7jXj2yIWSFkUyUImdn2) | [Need a Flex](https://open.spotify.com/artist/3ZcQbdZsBGBSRICDFtAtaA), [Emma](https://open.spotify.com/artist/7Cd630JP4fhgNvkiWDb9nU) | [Come True](https://open.spotify.com/album/6r2hqSSNQsfCilsF82BYNA) | 2:39 |
+| 62 | [Come True](https://open.spotify.com/track/5ty7jXj2yIWSFkUyUImdn2) | [Need a Flex](https://open.spotify.com/artist/3ZcQbdZsBGBSRICDFtAtaA), [Emma](https://open.spotify.com/artist/4WP818mjaoa459lfiX7yMu) | [Come True](https://open.spotify.com/album/6r2hqSSNQsfCilsF82BYNA) | 2:39 |
 | 63 | [KONTROL \- Remix](https://open.spotify.com/track/7I4prSVzFmHL7yyX8ujk0l) | [Taeyoung Boy](https://open.spotify.com/artist/6U9PA9nXDmzmlpSwR9KJ2n), [LYNN](https://open.spotify.com/artist/1JFuaT59kkQV8nNgsESbnA), [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2) | [KONTROL \(Remix\)](https://open.spotify.com/album/4lcW4yIuyYcOnhgcawewJj) | 3:15 |
 | 64 | [Too Many](https://open.spotify.com/track/5JDCusdjHsaxwHEelSO1Rj) | [Taiyoh](https://open.spotify.com/artist/6hT6jq5757GgRKLuPi2g4h), [lj](https://open.spotify.com/artist/7bf8nSozw4GvGHRSGJ74ez), [MaisonDe](https://open.spotify.com/artist/3iJc8ZDkeB2gV3gNSugy5P) | [Too Many](https://open.spotify.com/album/4d4Lg6FSMJcK1Y6GGHXPYL) | 2:27 |
 | 65 | [Usual Suspects](https://open.spotify.com/track/312chzrFEnYftYjRnNLG4X) | [Loota](https://open.spotify.com/artist/2i98we4ZId0tp9xtg2Vte7) | [Usual Suspects](https://open.spotify.com/album/2hcT0iEPdUuk6DbFSihgCJ) | 2:32 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 69 | [LASER](https://open.spotify.com/track/3VoPBn2XM7eNulMu2m40pA) | [64DX](https://open.spotify.com/artist/68BRPNjNCEp6Ku8YMnAp2F), [DaXx](https://open.spotify.com/artist/4yR0OT3rxGMzFnjgNeG3HL), [64controll](https://open.spotify.com/artist/6T2kpIGh5xu7ZsXZ02vzPQ) | [LASER](https://open.spotify.com/album/718sjWMBAci0KNHkwkITN7) | 2:11 |
 | 70 | [Crystal](https://open.spotify.com/track/77NlLyX4TCDrggCOI7Vtmt) | [TREKKIE TRAX CREW](https://open.spotify.com/artist/1aaNrx84WrTGObka1rpON3) | [Crystal](https://open.spotify.com/album/71mVMiVEsfype5XwCGFkGU) | 2:50 |
 
-Snapshot ID: `MCw5OThlM2JkOWY2YTUwZDBlZGZkNjI5YTg0MWE5NTY3N2E5OWVkYmRm`
+Snapshot ID: `MCw0Yzg4YmM5MjhkZTZlZWIwZDg5ODk3MmJhZjA3MmRjOGVlNThhZWQ4`

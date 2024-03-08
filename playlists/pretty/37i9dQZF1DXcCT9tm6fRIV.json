@@ -1,12 +1,12 @@
 {
   "description": "Disfruta esta fina selecci\u00f3n de los mejores Tangos argentinos.",
-  "num_followers": 238514,
+  "num_followers": 238539,
   "original_name": "Tangos y Milongas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjU3NjVmMzQ1MTdhZmQxOGNmNjIwYmJiNDU5ZjU3Y2M5MzY1OTBk",
+  "snapshot_id": "MCw2MzdmNzZjYThlYzcyYjVlZTFiMzA5ZWIyYWMwYjE4YjE3OTcyMWIy",
   "tracks": [
     {
       "added_at": "2023-12-01 03:00:00",
@@ -275,18 +275,18 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Tangazos",
-        "url": "https://open.spotify.com/album/1lNKXd3O7tBxvLn8egvjDg"
+        "name": "Organito De La Tarde",
+        "url": "https://open.spotify.com/album/73yoYxiqBoQD6XeLDq2ZIr"
       },
       "artists": [
         {
-          "name": "Omar Mollo",
-          "url": "https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD"
+          "name": "Carlos Di Sarli",
+          "url": "https://open.spotify.com/artist/0gAbrqBahiaTF69TmVb9fQ"
         }
       ],
-      "duration_ms": 109386,
-      "name": "Melod\u00eda de Arrabal",
-      "url": "https://open.spotify.com/track/15z8cfqjMyayrtz0eU6GBa"
+      "duration_ms": 170733,
+      "name": "Bah\u00eda Blanca",
+      "url": "https://open.spotify.com/track/3xJnQEKKxW7QSKoAnNLJcU"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -307,18 +307,18 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Organito De La Tarde",
-        "url": "https://open.spotify.com/album/73yoYxiqBoQD6XeLDq2ZIr"
+        "name": "Tangazos",
+        "url": "https://open.spotify.com/album/1lNKXd3O7tBxvLn8egvjDg"
       },
       "artists": [
         {
-          "name": "Carlos Di Sarli",
-          "url": "https://open.spotify.com/artist/0gAbrqBahiaTF69TmVb9fQ"
+          "name": "Omar Mollo",
+          "url": "https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD"
         }
       ],
-      "duration_ms": 170733,
-      "name": "Bah\u00eda Blanca",
-      "url": "https://open.spotify.com/track/3xJnQEKKxW7QSKoAnNLJcU"
+      "duration_ms": 109386,
+      "name": "Melod\u00eda de Arrabal",
+      "url": "https://open.spotify.com/track/15z8cfqjMyayrtz0eU6GBa"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Antolog\u00eda, Vol. 1: Gardel y Le Pera",
-        "url": "https://open.spotify.com/album/0nfXjFRLFngleV9mIkhEMQ"
-      },
-      "artists": [
-        {
-          "name": "Angelito Martinez",
-          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
-        }
-      ],
-      "duration_ms": 154794,
-      "name": "Por una Cabeza",
-      "url": "https://open.spotify.com/track/3Z34yqQzVeD8wExZGCw9po"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/0oFTFL7uMIMgPsFEjB3Aqu"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 140360,
       "name": "Anclao En Paris",
       "url": "https://open.spotify.com/track/7GjdsIX9ScWku6wCsZsfIM"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Antolog\u00eda, Vol. 1: Gardel y Le Pera",
+        "url": "https://open.spotify.com/album/0nfXjFRLFngleV9mIkhEMQ"
+      },
+      "artists": [
+        {
+          "name": "Angelito Martinez",
+          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
+        }
+      ],
+      "duration_ms": 154794,
+      "name": "Por una Cabeza",
+      "url": "https://open.spotify.com/track/3Z34yqQzVeD8wExZGCw9po"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -463,30 +463,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Antolog\u00eda, Vol. 1: Gardel y Le Pera",
-        "url": "https://open.spotify.com/album/0nfXjFRLFngleV9mIkhEMQ"
-      },
-      "artists": [
-        {
-          "name": "Angelito Martinez",
-          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
-        },
-        {
-          "name": "Chino Laborde",
-          "url": "https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP"
-        },
-        {
-          "name": "Manu Sacco",
-          "url": "https://open.spotify.com/artist/2St6ak4r5JMLJ53BU977xe"
-        }
-      ],
-      "duration_ms": 202240,
-      "name": "Volver",
-      "url": "https://open.spotify.com/track/70abt7HwRBCHQA3G5oa1JF"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Vientos del Sur",
         "url": "https://open.spotify.com/album/7mPR2s0BKY9FLSAMfx7lL1"
       },
@@ -531,6 +507,30 @@
       "duration_ms": 208120,
       "name": "Los Cosos De Al Lao",
       "url": "https://open.spotify.com/track/1PiqZsBwsN50pZ7NCRmCd9"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Antolog\u00eda, Vol. 1: Gardel y Le Pera",
+        "url": "https://open.spotify.com/album/0nfXjFRLFngleV9mIkhEMQ"
+      },
+      "artists": [
+        {
+          "name": "Angelito Martinez",
+          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
+        },
+        {
+          "name": "Chino Laborde",
+          "url": "https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP"
+        },
+        {
+          "name": "Manu Sacco",
+          "url": "https://open.spotify.com/artist/2St6ak4r5JMLJ53BU977xe"
+        }
+      ],
+      "duration_ms": 202240,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/70abt7HwRBCHQA3G5oa1JF"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Una Guitarra Para Gardel",
-        "url": "https://open.spotify.com/album/1oKSMqX4nXZtG1AvdihLEj"
-      },
-      "artists": [
-        {
-          "name": "An\u00edbal Arias",
-          "url": "https://open.spotify.com/artist/2tN74NW4cYDQJBUrdA5dUm"
-        }
-      ],
-      "duration_ms": 132426,
-      "name": "Silbando",
-      "url": "https://open.spotify.com/track/5UbeVgfPSlXrJBl9MTMmhJ"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Lo Mejor de Alfredo Belusi",
         "url": "https://open.spotify.com/album/3eGpNB9KUDP9KxrXBLKhXq"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 124240,
       "name": "De Puro Curda",
       "url": "https://open.spotify.com/track/2yiFCdnMggyVo2R5mrs5Hu"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Una Guitarra Para Gardel",
+        "url": "https://open.spotify.com/album/1oKSMqX4nXZtG1AvdihLEj"
+      },
+      "artists": [
+        {
+          "name": "An\u00edbal Arias",
+          "url": "https://open.spotify.com/artist/2tN74NW4cYDQJBUrdA5dUm"
+        }
+      ],
+      "duration_ms": 132426,
+      "name": "Silbando",
+      "url": "https://open.spotify.com/track/5UbeVgfPSlXrJBl9MTMmhJ"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Manzi, caminos de barro y pampa",
+        "url": "https://open.spotify.com/album/04xMcitxnH4R1eoBImqVKG"
+      },
+      "artists": [
+        {
+          "name": "Lidia Borda",
+          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
+        }
+      ],
+      "duration_ms": 216465,
+      "name": "Romance de barrio",
+      "url": "https://open.spotify.com/track/7xqxRNSEGMhdsVMmxLq36e"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "A los Cantores (En Vivo)",
         "url": "https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 224746,
       "name": "Mariposita - En Vivo",
       "url": "https://open.spotify.com/track/3eDlsR5h1xyImi09ulmjYK"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Manzi, caminos de barro y pampa",
-        "url": "https://open.spotify.com/album/04xMcitxnH4R1eoBImqVKG"
-      },
-      "artists": [
-        {
-          "name": "Lidia Borda",
-          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
-        }
-      ],
-      "duration_ms": 216465,
-      "name": "Romance de barrio",
-      "url": "https://open.spotify.com/track/7xqxRNSEGMhdsVMmxLq36e"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "El Mundo De La Fantas\u00eda",
+        "url": "https://open.spotify.com/album/3HOIEH3oy2eEjXG2DIEbvD"
+      },
+      "artists": [
+        {
+          "name": "Cacho Casta\u00f1a",
+          "url": "https://open.spotify.com/artist/3lwRbCTt1qmo0QgXUai8ao"
+        }
+      ],
+      "duration_ms": 207746,
+      "name": "El Mundo De La Fantas\u00eda",
+      "url": "https://open.spotify.com/track/4ZdOJD4CAQU4rdh06nhzaF"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "De Criollos y Tangueros",
         "url": "https://open.spotify.com/album/3WiPN6KoVo58KwADQQ7FZU"
       },
@@ -1347,22 +1363,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "El Mundo De La Fantas\u00eda",
-        "url": "https://open.spotify.com/album/3HOIEH3oy2eEjXG2DIEbvD"
-      },
-      "artists": [
-        {
-          "name": "Cacho Casta\u00f1a",
-          "url": "https://open.spotify.com/artist/3lwRbCTt1qmo0QgXUai8ao"
-        }
-      ],
-      "duration_ms": 207746,
-      "name": "El Mundo De La Fantas\u00eda",
-      "url": "https://open.spotify.com/track/4ZdOJD4CAQU4rdh06nhzaF"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "La Tana Con Todo",
         "url": "https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1"
       },
@@ -1375,6 +1375,22 @@
       "duration_ms": 237226,
       "name": "Malevaje",
       "url": "https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Comunidad",
+        "url": "https://open.spotify.com/album/2W4TjCwnnCsqSnhczdVL76"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Mederos",
+          "url": "https://open.spotify.com/artist/6eas1NblWrY95XvCm0V3zC"
+        }
+      ],
+      "duration_ms": 247026,
+      "name": "El Abrojito",
+      "url": "https://open.spotify.com/track/6RSHrF9jTWWlQbGnw6mRan"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1407,22 +1423,6 @@
       "duration_ms": 196773,
       "name": "Tango Del Angel",
       "url": "https://open.spotify.com/track/4PXNxMds2Be3uDjiinkIog"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Comunidad",
-        "url": "https://open.spotify.com/album/2W4TjCwnnCsqSnhczdVL76"
-      },
-      "artists": [
-        {
-          "name": "Rodolfo Mederos",
-          "url": "https://open.spotify.com/artist/6eas1NblWrY95XvCm0V3zC"
-        }
-      ],
-      "duration_ms": 247026,
-      "name": "El Abrojito",
-      "url": "https://open.spotify.com/track/6RSHrF9jTWWlQbGnw6mRan"
     }
   ],
   "unique_name": "Tangos y Milongas",

@@ -1,5 +1,5 @@
 {
-  "2024-03-07": 323872,
+  "2024-03-08": 323915,
   "date_first_scraped": "2021-12-21",
   "description": "Rock with a Drop. Cover: Fairlane & Point North \\m/",
   "name": "Rocktronic",
@@ -297,7 +297,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 188307,
       "name": "Annihilation",
       "url": "https://open.spotify.com/track/6mw6uMkFrjeVrx1wZVP03z"
@@ -3931,6 +3931,24 @@
       "duration_ms": 176000,
       "name": "Just A Kid",
       "url": "https://open.spotify.com/track/43qTGBfICY2nCeC7iEatjH"
+    },
+    {
+      "album": {
+        "name": "Muted Blue",
+        "url": "https://open.spotify.com/album/29NyepPY1H8fk6PrsNfBRs"
+      },
+      "artists": [
+        {
+          "name": "Fells",
+          "url": "https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185663,
+      "name": "Just Thought You Should Know",
+      "url": "https://open.spotify.com/track/75Llaor4IWf0faRFDva8Cs"
     },
     {
       "album": {

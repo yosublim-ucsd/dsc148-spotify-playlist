@@ -527,6 +527,24 @@
     },
     {
       "album": {
+        "name": "Catch and release",
+        "url": "https://open.spotify.com/album/4z52uDl7yEi7iD6tyNbvO0"
+      },
+      "artists": [
+        {
+          "name": "atm0",
+          "url": "https://open.spotify.com/artist/2dLJKI99EQIlCSH9yMf1Qr"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142153,
+      "name": "Catch and release",
+      "url": "https://open.spotify.com/track/6ErRsXi7U7oMk4zGTbbBxs"
+    },
+    {
+      "album": {
         "name": "Chakra Flute",
         "url": "https://open.spotify.com/album/4LSng7C1CBzdkReeEq2zCR"
       },
@@ -632,6 +650,24 @@
       "duration_ms": 146308,
       "name": "Crystal Mind",
       "url": "https://open.spotify.com/track/3Dej28jw6dF2X0zLXgEfGr"
+    },
+    {
+      "album": {
+        "name": "Darkness Turns to Sky",
+        "url": "https://open.spotify.com/album/1vAt0HnVVDSyxAKf3xnObw"
+      },
+      "artists": [
+        {
+          "name": "Shiloh Mirage",
+          "url": "https://open.spotify.com/artist/50tMFE32bqSKVZEMuZjnCO"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135802,
+      "name": "Darkness Turns to Sky",
+      "url": "https://open.spotify.com/track/2s321Nxw1BYFr5VuMxqDUV"
     },
     {
       "album": {
@@ -812,6 +848,24 @@
       "duration_ms": 223010,
       "name": "Djupet",
       "url": "https://open.spotify.com/track/4G7eckq0cn40VWV05gTJia"
+    },
+    {
+      "album": {
+        "name": "Dream Flow",
+        "url": "https://open.spotify.com/album/0dsKLCDREMbqqFMturYouV"
+      },
+      "artists": [
+        {
+          "name": "Gates of Heaven",
+          "url": "https://open.spotify.com/artist/2d1SOxC8HeERlKJmAcS14j"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204005,
+      "name": "Dream Flow",
+      "url": "https://open.spotify.com/track/1fvdkJNkLylNxjBaOkmXuH"
     },
     {
       "album": {
@@ -1406,6 +1460,24 @@
       "duration_ms": 150094,
       "name": "Inner Solitude",
       "url": "https://open.spotify.com/track/5bGSqWr24dmKqAz6LDQMeU"
+    },
+    {
+      "album": {
+        "name": "Interial Voyage",
+        "url": "https://open.spotify.com/album/3p4Bxbnb0yGNHPCi4XwojG"
+      },
+      "artists": [
+        {
+          "name": "Dan Volker",
+          "url": "https://open.spotify.com/artist/6dKolJLPeFV2ruWSwZBuYk"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225624,
+      "name": "Interial Voyage",
+      "url": "https://open.spotify.com/track/2aeTbQTXVpJhmMjvZTdM1S"
     },
     {
       "album": {

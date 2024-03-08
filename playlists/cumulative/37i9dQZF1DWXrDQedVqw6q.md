@@ -4,13 +4,14 @@
 
 > Calm music to help you focus on your reading.
 
-174 songs - 8 hr 10 min
+178 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Gentle Touch](https://open.spotify.com/track/4PEWJM5Bz6Ax2uuzeuPIPM) | [Paix Sonique](https://open.spotify.com/artist/5g4W27S2ZTFOatbUBDXCwd) | [A Gentle Touch](https://open.spotify.com/album/5yOWOb71BXYF2BUR3B9Skd) | 2:31 | 2023-11-16 |  |
 | [A Gift To Share](https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6) | [Joni Bernier](https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J) | [A Gift To Share](https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy) | 2:19 | 2022-03-21 |  |
 | [A Shade of Steam](https://open.spotify.com/track/0wpRLs9YguxI7en46ke3yZ) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Designated Solitude](https://open.spotify.com/album/1DDlDMpNFef0ksiYQCZ6j4) | 3:38 | 2022-03-21 | 2023-02-08 |
+| [aequor](https://open.spotify.com/track/1bg1pkCcZums63l85aFe6x) | [ẹmi](https://open.spotify.com/artist/3Ls5y8kRsJNOb5OvljWQaU) | [aequor](https://open.spotify.com/album/5nBJgzreCLff9VRA9KPKfj) | 2:31 | 2024-03-07 |  |
 | [Arpegio D](https://open.spotify.com/track/7lnZVBzBlyMdkkpfz4P1L8) | [The Zapan](https://open.spotify.com/artist/4uUjj6DgZwg15yMXzoHlg0) | [Arpegio D](https://open.spotify.com/album/18uoUXsDi5Pmr2I4iDXJEa) | 2:02 | 2022-03-21 | 2022-05-06 |
 | [Artemis](https://open.spotify.com/track/7vnEWOMLuZLpkbJk8HFuus) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Artemis](https://open.spotify.com/album/4lmVb8zknEw7BpRaLkc6mQ) | 2:25 | 2022-03-21 |  |
 | [Astral Meadows](https://open.spotify.com/track/6C10cyDvoNgPzoykMMgucx) | [Delta Shores](https://open.spotify.com/artist/3tXdeFwRiTfum3oQBQbLmP) | [Astral Meadows](https://open.spotify.com/album/0Eg3lP4oW76UoGBWx61OLF) | 2:48 | 2024-02-14 |  |
@@ -58,6 +59,7 @@
 | [Everness](https://open.spotify.com/track/1IfYfVPTYbiDY9UXTBrdVj) | [Justine Ny](https://open.spotify.com/artist/4zj2FwGigg4Ibz59s9uEXc) | [Everness](https://open.spotify.com/album/0fBAEeT1QeW0NOlGuFm1NF) | 2:36 | 2022-03-21 |  |
 | [Evolving](https://open.spotify.com/track/4rQSve8YG1CJyzscsodWrh) | [John Andre](https://open.spotify.com/artist/3D56Nhiz0aTRqx4z0qs9jb) | [Evolving](https://open.spotify.com/album/6LhL8rRv7apiaYGRhiv1GR) | 2:36 | 2023-03-16 |  |
 | [fabienne](https://open.spotify.com/track/2FxwP5bwUPpYZUzkhoATvL) | [Klaus Weissmuller](https://open.spotify.com/artist/5KKMMIwKIfrn4Q3x6PGYxf) | [fabienne](https://open.spotify.com/album/1bVkyLeW2JiUWhs0myUELT) | 1:56 | 2022-03-21 | 2023-07-29 |
+| [Facing Reality](https://open.spotify.com/track/4BqR9CZUPxI6yaBIVRKysk) | [Dalhem](https://open.spotify.com/artist/64Vb2P6lpNclAbQYxKC9d0) | [Facing Reality](https://open.spotify.com/album/2894xiO0i7tgHNn1Oouhlb) | 3:00 | 2024-03-07 |  |
 | [Fading out](https://open.spotify.com/track/35vYyQ06TPM7hiUtNt5Bs3) | [Diamond Telescope](https://open.spotify.com/artist/5y5QOzvDd6odh8MWPt5G79) | [Fading out](https://open.spotify.com/album/1X8oEGczTQOJi9PWeC4mwa) | 2:31 | 2022-03-21 |  |
 | [Falling Into Myself](https://open.spotify.com/track/1s2H9ipBuw8CbqTvmi9wc4) | [Arlen Ness](https://open.spotify.com/artist/45OB7boHqRPhkwMEsPPiT0) | [Dreamland](https://open.spotify.com/album/1NwKSU521fcHWGet98ka6r) | 2:14 | 2022-03-21 |  |
 | [Fireplace](https://open.spotify.com/track/6zO5kSbABJPDnMTMkbRGsG) | [Sam Sandro](https://open.spotify.com/artist/0oOXxPFTxaSLUB9cmMXyIE) | [Ballroom](https://open.spotify.com/album/6UsoKe7yyuSBvWyW5FlyKw) | 2:40 | 2022-03-21 |  |
@@ -69,6 +71,7 @@
 | [Horizon](https://open.spotify.com/track/2sagi6LnzbTNFRMuhrW683) | [Czarina Frost](https://open.spotify.com/artist/3iidbcDBg4BOBD5a927q0Q), [Treman](https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP) | [Horizon](https://open.spotify.com/album/6K3Rrv6q0SWdYHeho5DqdM) | 1:32 | 2023-01-06 | 2023-07-29 |
 | [Hushed Premonition](https://open.spotify.com/track/5p3moUVU9JBeuj67GmZjSZ) | [amabilla stills](https://open.spotify.com/artist/6FLdU3AbGAyrRIX4ma1MxF) | [Hushed Premonition](https://open.spotify.com/album/0A7MgyzLmzMl52aDlGx3gJ) | 3:34 | 2022-03-21 | 2022-08-13 |
 | [Hyacinths](https://open.spotify.com/track/1tnWwIOUKtPD4Fc13hg8F3) | [Eyüp Börekç](https://open.spotify.com/artist/2PcaI1a5aqV8rbitzcX5u8) | [Hyacinths](https://open.spotify.com/album/4Dgvaw4NLjbSTCbuPKEyRm) | 1:54 | 2022-03-21 | 2023-07-29 |
+| [if not now](https://open.spotify.com/track/0xPgRZz6u1b5pIxIpsM3Kb) | [Stravae](https://open.spotify.com/artist/4eaRMciQhKjV2INHRTE95t) | [if not now](https://open.spotify.com/album/3pA9hhiF7K9N9XGDYtJEoM) | 2:54 | 2024-03-07 |  |
 | [Il Segreto Dell Isola](https://open.spotify.com/track/7odpvITlqx8YH3QQONsJf5) | [Lucio Francesco](https://open.spotify.com/artist/6SmEyMlUWcw5nzD9YmCCRN) | [Osservazioni](https://open.spotify.com/album/3MCnWEvdRqmzUN6k1sgcso) | 2:58 | 2022-03-21 |  |
 | [In The Moment](https://open.spotify.com/track/3gqsUKunujcpQKUv9LLAuk) | [Pascal Duval](https://open.spotify.com/artist/3VpKcUweq77xUWClI5oSYl) | [In The Moment](https://open.spotify.com/album/0cjsjjqhl80kZU8ZQVDZP6) | 1:45 | 2022-03-21 | 2023-07-29 |
 | [In the Past](https://open.spotify.com/track/7BGQQE0Xgic9Bvk7BlRumP) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Acceptance](https://open.spotify.com/album/5TifGwgK5S9VTApf5z4Qfx) | 1:56 | 2022-03-21 | 2023-07-29 |
@@ -97,6 +100,7 @@
 | [Night Light](https://open.spotify.com/track/4iRBjXN9x4UdOrT9c6sSsL) | [Phoenomenatic](https://open.spotify.com/artist/1jOAI3YkQLJswHVGCIKbu4) | [Night Light](https://open.spotify.com/album/2q4lhQVfht53WO9uwkJYIr) | 2:30 | 2022-03-21 |  |
 | [Nihon](https://open.spotify.com/track/4twsOUZcA2G5ruaOuMmVNk) | [Paul Dennehy](https://open.spotify.com/artist/5borNkYeud0HRvJWIdG3aM) | [Storytelling](https://open.spotify.com/album/5yB8ypsLT0ttxv0wSLM5IM) | 3:17 | 2022-03-21 | 2022-08-13 |
 | [Not Profound, Simply True](https://open.spotify.com/track/7rUocCJ8NZl62rSfQDZARM) | [Closed Lids](https://open.spotify.com/artist/3Ikd9nfnykzwJ0f189yHtg) | [Not Profound, Simply True](https://open.spotify.com/album/3DI3mtNvXXTGD6VN8e0lID) | 3:43 | 2022-04-21 | 2022-08-13 |
+| [Nurtured Lilies](https://open.spotify.com/track/71UEqEJQLXPkGf9KkFgbPG) | [Phoenix Feels](https://open.spotify.com/artist/0CazI1GhvW5pqftM3uJA3l) | [Nurtured Lilies](https://open.spotify.com/album/2gTWtjQqnA5OP6jfbXAHuM) | 3:18 | 2024-03-07 |  |
 | [Old Habit](https://open.spotify.com/track/4FoGnUdmnEsTxrsvRofMZr) | [Jutila](https://open.spotify.com/artist/58Rq5hbLIcvGAlFeMAQFWn) | [Old Habit](https://open.spotify.com/album/1jOnTWP253diSiCFev3UKJ) | 2:03 | 2022-03-21 |  |
 | [One Path](https://open.spotify.com/track/3ciI0W5tW7zBPWEglpc3fR) | [Aster](https://open.spotify.com/artist/1ie4JpANX38QqUcnNRht7e) | [One Path](https://open.spotify.com/album/0LcPF7MaRplUP7N37LrEUo) | 2:09 | 2022-03-21 |  |
 | [Paragliders](https://open.spotify.com/track/2aZASr8jOyTi0GBHBzPnlc) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Paragliders](https://open.spotify.com/album/0QzF3Mk7KFvlDnhHqBrr99) | 3:07 | 2023-08-18 |  |

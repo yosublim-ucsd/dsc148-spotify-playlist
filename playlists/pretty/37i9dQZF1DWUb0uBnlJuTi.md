@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,886 likes - 200 songs - 15 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,025 likes - 200 songs - 15 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 102 | [Kaleidoscopic Universe](https://open.spotify.com/track/5jzdsyf6pIIQHdBGFZ3eFQ) | [Mausiki Scales](https://open.spotify.com/artist/2YmibRHpqYtAHiaZodYL1N) | [Kaleidoscopic Universe](https://open.spotify.com/album/15maHD7fqNGtADY5vibczi) | 4:39 |
 | 103 | [Open Sesame](https://open.spotify.com/track/4lvCJIy2hOB4hwkHm06xsU) | [Beggar & Co.](https://open.spotify.com/artist/0SxsCZtZBwcd6hzwXAQLgl), [The Jazz Funk Collective](https://open.spotify.com/artist/3MbFOvsNcExYWIIwuQzjDl) | [Open Sesame](https://open.spotify.com/album/1B6rnmCG6ewSB6qWEOqNzM) | 5:35 |
 | 104 | [Shuffle Bubble](https://open.spotify.com/track/66yl3ULKXkjvoZrinCJdj4) | [Lydian Collective](https://open.spotify.com/artist/5E7gb8Ugqx2c9mCoytD6gw) | [Return](https://open.spotify.com/album/4rNDhee4C2DxW9useAUxKs) | 4:59 |
-| 105 | [Always Let Me Go](https://open.spotify.com/track/3vxNtjIlwUB5A525DGfs2Q) | [Nine Sparks Riots](https://open.spotify.com/artist/4y6ORtg4fPmsXNftMLw12X), [Noé Berne](https://open.spotify.com/artist/3szeS1OVdR464BUVlIH3L0) | [Always Let Me Go](https://open.spotify.com/album/5QupIxujGaN9YMmH7pD8xb) | 4:40 |
+| 105 | [Always Let Me Go](https://open.spotify.com/track/4NhwR1bqHnxSrpAj86NwQ8) | [Nine Sparks Riots](https://open.spotify.com/artist/4y6ORtg4fPmsXNftMLw12X), [Noé Berne](https://open.spotify.com/artist/3szeS1OVdR464BUVlIH3L0) | [Always Let Me Go](https://open.spotify.com/album/1wYtTXRTB7XElmddwI2nqo) | 4:40 |
 | 106 | [More Lemon Juice](https://open.spotify.com/track/28bpVbAlZBEYrkQmSaXhJ1) | [Rob Harris](https://open.spotify.com/artist/0Cp4MoP6nJuXraSptbcf2Z) | [More Lemon Juice](https://open.spotify.com/album/1lQxT13fZaLUrv4LTMoMU1) | 4:17 |
 | 107 | [Running Away \- 12\-Inch Long Version](https://open.spotify.com/track/47bblspEQHrxuRRYKWxg2e) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Lifeline](https://open.spotify.com/album/27SjhSdADeHymQsXoWrhNq) | 6:54 |
 | 108 | [Cissy Strut](https://open.spotify.com/track/4eqo4WYx13P7DcyAy0umUN) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Alphonso Johnson](https://open.spotify.com/artist/2rNtnZArzMAimcRCnFrwUU), [Land Richards](https://open.spotify.com/artist/5Qd2Lq0Z0tDjL63Dh9KQ84) | [Cissy Strut](https://open.spotify.com/album/0xMtRJhjKWjIX6cD9s35WN) | 4:30 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 199 | [The Hornet's Nest](https://open.spotify.com/track/6wtLyIUHbG3XfVGNDL7U7y) | [Eleven 76](https://open.spotify.com/artist/3mHGVYRvwf2YC27xqftGTz), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [The Hornet's Nest](https://open.spotify.com/album/1ksnYmM1fPxOzbNEyyQTE8) | 2:16 |
 | 200 | [So Cold](https://open.spotify.com/track/3ftTujZJKBzxtDR5qId3Ge) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr) | [So Cold](https://open.spotify.com/album/6apEouE0HLqkoTSh1AFFtT) | 4:12 |
 
-Snapshot ID: `MCwxNjM5ODI5NzEwMGQzNmQ4ZDQzMjViNmI4NjcxMjJlYWFhZmE1ZmFk`
+Snapshot ID: `MCxiMmUxNjlkODU3NDczOWY1M2U1MGQxYTg0MzM2ZWIyN2VkOTQ1NTlm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:32ojq4MJxHtYDXaeb1LIzm">Anna Jantar</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,531 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,561 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 46 | [Moje serce należy do Ciebie](https://open.spotify.com/track/26KK6mRE1p7ylYrSdCKOBm) | [Top Girls](https://open.spotify.com/artist/7K7rRWSKUzSH1pbOMJvlc8) | [Moje serce należy do Ciebie](https://open.spotify.com/album/1KaqzV0ll4mLapesMmyLqy) | 2:49 |
 | 47 | [No Gods](https://open.spotify.com/track/53y0uk86RQv0AQAcOu0ZZF) | [Zamilska](https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH), [Hostia](https://open.spotify.com/artist/1oM790LNK44Js7LOQJKSzy) | [No Gods](https://open.spotify.com/album/6gtSjoNnTTY9evB0oah1M2) | 2:16 |
 | 48 | [3\(116\)](https://open.spotify.com/track/3nVArLpnN0o8gIcEJiC6Vb) | [ciiicho](https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z) | [3\(116\)](https://open.spotify.com/album/1OC2IjypMCr41r3j6jv2CR) | 2:59 |
-| 49 | [Wajb](https://open.spotify.com/track/6vjdGUc8TBwC6cCs42QVLU) | [Wdowa](https://open.spotify.com/artist/6m7Sh5eBXT5Y1dprnuuqWR), [Dj Decks](https://open.spotify.com/artist/7rRsXnU1mpJwuBNMwH0Tsn) | [Wajb](https://open.spotify.com/album/0mbdUhf5BD8URt1NCTqD8V) | 3:11 |
+| 49 | [Wajb](https://open.spotify.com/track/6vjdGUc8TBwC6cCs42QVLU) | [Wdowa](https://open.spotify.com/artist/6m7Sh5eBXT5Y1dprnuuqWR), [Dj Decks](https://open.spotify.com/artist/7rRsXnU1mpJwuBNMwH0Tsn), [three.50](https://open.spotify.com/artist/3rdLmqO0a3lfAM8FcVWkJG) | [Wajb](https://open.spotify.com/album/0mbdUhf5BD8URt1NCTqD8V) | 3:11 |
 | 50 | [crying thru horror](https://open.spotify.com/track/7D2ir8SDTyl8ZiTYTjFyHD) | [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh) | [crying thru horror](https://open.spotify.com/album/0lWcDtvZtjPKhYsaUe5cxA) | 2:57 |
 
-Snapshot ID: `MCwwMDdiYTU5NTJhZmJmZTg2MDI4MzVhOWE3YmFiYWI4MmU4MmY3ODQx`
+Snapshot ID: `MCw1M2U2MTlmZDBmMzQwNTIzMjU5ZDczMWQ4YTIyYjM0ZGZkMDViNjY2`

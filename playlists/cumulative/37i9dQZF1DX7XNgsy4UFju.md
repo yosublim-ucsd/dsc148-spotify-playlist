@@ -4,7 +4,7 @@
 
 > The best indie tracks of the moment\. Cover: Faye Webster
 
-1,553 songs - 3 day 20 hr 1 min
+1,554 songs - 3 day 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1033,7 +1033,8 @@
 | [Pharmacist](https://open.spotify.com/track/5A6E9uhiiRyJ8OSYQ0IRdt) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Pharmacist](https://open.spotify.com/album/34tneHefb6IXhuk95xh8vx) | 2:04 | 2022-07-22 | 2022-08-27 |
 | [Pick At Your Face](https://open.spotify.com/track/78cVkU7TCYhe9exs5KgxsT) | [yungatita](https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi) | [Shoelace & A Knot](https://open.spotify.com/album/6Fe0luiVJPaPapmsVSeoOJ) | 4:29 | 2024-01-05 |  |
 | [Picking Up \(feat\. Deb Never\)](https://open.spotify.com/track/2liSXJK5oGKFch8OZ0Uinn) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Picking Up \(feat\. Deb Never\)](https://open.spotify.com/album/1JSOuBXhYbc5c3IAnwTAHV) | 2:55 | 2022-12-09 | 2023-02-18 |
-| [Pilgrimage](https://open.spotify.com/track/0Z10ZZ8JD13yNpUTVvvepU) | [Elephant Stone](https://open.spotify.com/artist/47bokO26f4LIt4zaAlCQwo) | [Pilgrimage](https://open.spotify.com/album/4eIw6qAS8xcAdBPvxjwOwJ) | 5:25 | 2024-01-19 |  |
+| [Pilgrimage](https://open.spotify.com/track/0Z10ZZ8JD13yNpUTVvvepU) | [Elephant Stone](https://open.spotify.com/artist/47bokO26f4LIt4zaAlCQwo) | [Pilgrimage](https://open.spotify.com/album/4eIw6qAS8xcAdBPvxjwOwJ) | 5:25 | 2024-01-19 | 2024-03-08 |
+| [Pilgrimage](https://open.spotify.com/track/2PGGtIlpEqGe5bC2cSDpTl) | [Elephant Stone](https://open.spotify.com/artist/47bokO26f4LIt4zaAlCQwo) | [Back Into The Dream](https://open.spotify.com/album/4uVziFDduPtTLN2A7YQeUK) | 5:25 | 2024-03-01 |  |
 | [PINING FOR YOU](https://open.spotify.com/track/2A0dmeEq3KNDJf2uH6bu0v) | [Sam Tucker](https://open.spotify.com/artist/7hiDOporF8O9GkIPpVafUX) | [PINING FOR YOU](https://open.spotify.com/album/0gVR4Jff4qBRo54JhQ0wFO) | 3:10 | 2022-09-16 | 2022-10-29 |
 | [Pink Skies](https://open.spotify.com/track/4MiJlJoCLr6X2Q7D9fN4hT) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Pink Skies](https://open.spotify.com/album/6mhMHaEdNMxyPi4Otr73nM) | 3:21 | 2024-01-12 | 2024-02-03 |
 | [PIRATE RADIO\*](https://open.spotify.com/track/04sZfyhVJs0feZjVDq53Y8) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [PIRATE RADIO\*](https://open.spotify.com/album/039CFhV3mgb8ujdSz0Kpp3) | 3:09 | 2022-09-16 | 2023-01-14 |

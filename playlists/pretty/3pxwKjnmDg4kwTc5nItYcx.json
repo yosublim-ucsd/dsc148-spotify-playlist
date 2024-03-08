@@ -6,7 +6,7 @@
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "MTc1MCxjNTg4MGFmYjg3YzNmZGNkNWMwMzUxYTNiYzIzY2FiYWNlYTU2ODg4",
+  "snapshot_id": "MTc1NCw1NzM4ZTkxOGE1NGFmYTZkNjEwOGNjZDRjZDJiNTNhMDQ3M2I2NWU1",
   "tracks": [
     {
       "added_at": "2024-02-08 22:09:49",
@@ -57,6 +57,38 @@
       "url": "https://open.spotify.com/track/5l8LUwRolDdfqMP6mUQ2nO"
     },
     {
+      "added_at": "2024-03-08 02:18:14",
+      "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/64zqxByvS1cey9ERLWBfsE"
+      },
+      "artists": [
+        {
+          "name": "RIIKI REID",
+          "url": "https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC"
+        }
+      ],
+      "duration_ms": 175315,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/0VgdX9FOT8VIJGZsHJCKeN"
+    },
+    {
+      "added_at": "2023-11-10 05:49:03",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
+    },
+    {
       "added_at": "2023-12-08 01:16:12",
       "album": {
         "name": "Atmosphere (Kita\u2019s Version)",
@@ -105,20 +137,20 @@
       "url": "https://open.spotify.com/track/0IPHPjgFNGKkLQZnhRXR04"
     },
     {
-      "added_at": "2023-11-10 05:49:03",
+      "added_at": "2024-03-08 02:23:05",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
+        "name": "Run Your Mouth",
+        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
       },
       "artists": [
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
+      "duration_ms": 160000,
+      "name": "Run Your Mouth",
+      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
     },
     {
       "added_at": "2024-02-09 00:00:06",

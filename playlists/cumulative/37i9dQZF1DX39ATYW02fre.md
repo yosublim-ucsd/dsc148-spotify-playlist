@@ -4,7 +4,7 @@
 
 > Beautiful electronic music for melancholy moments.
 
-217 songs - 16 hr 15 min
+218 songs - 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Atlas](https://open.spotify.com/track/4gx9edHLyQtb69ibMUyTxJ) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Little by Little](https://open.spotify.com/album/6snYAeR3hklBu7LpvyQ3LR) | 5:50 | 2020-06-05 | 2022-07-17 |
 | [Atlas](https://open.spotify.com/track/6YFRyll4isFUJrbHSeM1oJ) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Little by Little](https://open.spotify.com/album/4nv9KsGfQvZwIOuzDnbWY8) | 5:50 | 2022-05-30 |  |
 | [Aurora](https://open.spotify.com/track/2jhU0MFc3aJrULBpksSvDP) | [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D), [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX) | [A Ghost From a Memory](https://open.spotify.com/album/7KMd6ligbagoZi02sM73eR) | 1:52 | 2020-09-02 | 2022-07-29 |
-| [Bamboo](https://open.spotify.com/track/1vZIfej2urUYkVkgwh0O7t) | [Elder Island](https://open.spotify.com/artist/3EnbnmqrrvApHJs6FMvYik) | [Seeds in Sand](https://open.spotify.com/album/4IZtfkdzACIDkdBXq6N5vH) | 4:22 | 2022-05-30 | 2024-03-06 |
+| [Bamboo](https://open.spotify.com/track/1vZIfej2urUYkVkgwh0O7t) | [Elder Island](https://open.spotify.com/artist/3EnbnmqrrvApHJs6FMvYik) | [Seeds in Sand](https://open.spotify.com/album/4IZtfkdzACIDkdBXq6N5vH) | 4:22 | 2022-05-30 |  |
 | [Bamboo](https://open.spotify.com/track/2MzQd7zPsbN73mjr90AkL0) | [Elder Island](https://open.spotify.com/artist/3EnbnmqrrvApHJs6FMvYik) | [Seeds in Sand](https://open.spotify.com/album/0E7Gd5ZS1BGthqmRWjDIoz) | 4:22 | 2020-06-05\* | 2022-07-27 |
 | [Below the Clavicle](https://open.spotify.com/track/4GrERjAZbk3DYtcQS08rAg) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Below the Clavicle](https://open.spotify.com/album/5WCKKuHVvmFDEuT7qA6Cy6) | 3:58 | 2020-06-12 | 2022-05-10 |
 | [Bike](https://open.spotify.com/track/4v9rHzCDgQXbDdB7t4Nwcz) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Incunabula](https://open.spotify.com/album/4KROnLN6Didp0F97RXaW7a) | 8:00 | 2021-03-17 | 2021-05-27 |
@@ -134,7 +134,7 @@
 | [No Borders](https://open.spotify.com/track/3Ru6v1CcBAUbIuNVKcQW4v) | [Jaymie Silk](https://open.spotify.com/artist/3OvgRSozWRb0Tu1yqblOfr) | [Diasporave 3/3](https://open.spotify.com/album/5HJrxKarX2kUBB7CRfBf7Q) | 2:44 | 2020-06-12 | 2022-07-29 |
 | [October](https://open.spotify.com/track/6FIQ8o2hqlDmHQFoBKmKgW) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [October](https://open.spotify.com/album/5PdBG1Q3tLZlSLoxB1LtK8) | 5:54 | 2021-01-28 | 2024-01-31 |
 | [Of Saints](https://open.spotify.com/track/30bawySpvYI8wq4MUxIGYy) | [GAIKA](https://open.spotify.com/artist/543QE1sqcqcNAL8JSK4Jzd), [Tayhana](https://open.spotify.com/artist/647u1oTQ3MgB1k4FwVrPfg) | [Seguridad](https://open.spotify.com/album/5Jww8BxBhFWAxo49lvAh3Q) | 6:03 | 2020-07-04 | 2021-11-14 |
-| [Older](https://open.spotify.com/track/07dQEivh1UNFqtWOnEpyUC) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Magical Thinking](https://open.spotify.com/album/4RY8E9iJR1Ec6d3FXqqodJ) | 3:37 | 2022-05-30 |  |
+| [Older](https://open.spotify.com/track/07dQEivh1UNFqtWOnEpyUC) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Magical Thinking](https://open.spotify.com/album/4RY8E9iJR1Ec6d3FXqqodJ) | 3:37 | 2022-05-30 | 2024-03-08 |
 | [Older](https://open.spotify.com/track/6qQ8a6M6o5mfj9wTdrbSgG) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Older](https://open.spotify.com/album/47fDxLIC8Y8Gkr0xgTzAT5) | 3:38 | 2020-06-12 | 2021-10-14 |
 | [On \- Edit](https://open.spotify.com/track/3rXqlaAA6aprvQ9SSTQLVN) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [On](https://open.spotify.com/album/1L1NwplP7pNnM3fH8Ds5cV) | 4:06 | 2020-07-04 | 2022-07-25 |
 | [On Hold](https://open.spotify.com/track/5CPqOpKSk0QcJ3dGdaWcRB) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [I See You](https://open.spotify.com/album/2PXy9USZAoTSdtrxfkPBnl) | 3:44 | 2021-03-17 | 2021-05-24 |
@@ -147,7 +147,7 @@
 | [Parallel 7](https://open.spotify.com/track/3LqQJYUqxRFpX3tnvIsGGh) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Parallel](https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT) | 5:43 | 2021-01-05 | 2023-03-20 |
 | [Parallel Space](https://open.spotify.com/track/4LEL7awuDP5GIZ8QrRhu3Z) | [Forest Drive West](https://open.spotify.com/artist/0K1lHu1BP65Z1DErnljxUw) | [Parallel Space EP](https://open.spotify.com/album/00qCuTBME8tBVE31DUC9A5) | 6:42 | 2020-06-12 | 2022-07-21 |
 | [Parting Ways \- Edit](https://open.spotify.com/track/4t8Wj2B859gQJ4pR8D8eAf) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J), [Six Sigma](https://open.spotify.com/artist/611HYzCmDN0PUG2AUrJ8gq) | [Parting Ways](https://open.spotify.com/album/7Dgatu1IOIwmPSyqPTrzZJ) | 4:37 | 2020-06-05\* | 2022-07-29 |
-| [Pastoral](https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Pastoral](https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde) | 3:40 | 2021-01-05 |  |
+| [Pastoral](https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Pastoral](https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde) | 3:40 | 2021-01-05 | 2024-03-08 |
 | [Patience](https://open.spotify.com/track/5pW62tsMUPtw8k69ifpcjJ) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Spirit](https://open.spotify.com/album/4emDc6rcjqJGqCj8NqEIzG) | 4:14 | 2020-06-05\* | 2022-03-13 |
 | [Pause](https://open.spotify.com/track/4r1sucDlwhcDNobr2rDmIH) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Beacon](https://open.spotify.com/artist/3sb3yLRnhW2L2ulU93eKfl) | [Now Here No Where](https://open.spotify.com/album/2PIN5JlqhdClGkTsvauX36) | 5:40 | 2021-01-05 | 2022-07-29 |
 | [Permanence](https://open.spotify.com/track/5dxeMseehuQ30ZaIsPKmoC) | [Lomea](https://open.spotify.com/artist/5p7mJWhUVX9sTV1nr2bBsx) | [Permanence](https://open.spotify.com/album/0SkPmxCUValW4Zpy91uVz3) | 3:49 | 2020-09-02 | 2022-07-29 |
@@ -155,6 +155,7 @@
 | [Petals](https://open.spotify.com/track/1TVd8FHpeg1Afa92kaO0kR) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [A Mineral Love](https://open.spotify.com/album/47riSLCeFOffFRi9BZ2eig) | 2:32 | 2020-06-06 | 2023-02-02 |
 | [Petals](https://open.spotify.com/track/2wQlywnCQG88drPNdEOuRO) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [A Mineral Love](https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn) | 2:36 | 2022-11-25 |  |
 | [Pink & Blue \- RAC Mix](https://open.spotify.com/track/3dFj5uaJiP7I9Dz4OTN8wk) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y), [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC) | [Pink & Blue \(RAC Mix\)](https://open.spotify.com/album/3JOgFwccQtcpFEha9aLIIw) | 3:37 | 2020-06-05\* | 2022-07-24 |
+| [Portals](https://open.spotify.com/track/0BFS2F5jFxdXvDjRMRqMol) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Portals](https://open.spotify.com/album/5adnCfF1eUOhEnx5F5DAqW) | 3:51 | 2024-03-01 |  |
 | [Promise](https://open.spotify.com/track/28NaP6iuy1B4on1UJKw7vs) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Promise](https://open.spotify.com/album/1zeLCQaCe1WudTjd1Dr4a9) | 3:29 | 2021-03-16 | 2022-07-29 |
 | [Pulsar](https://open.spotify.com/track/2sgPuP6ZKso5wwIR055k3k) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI) | [Ambivert Tools, Vol\. 4](https://open.spotify.com/album/5Tk7z0XOX8FLfrPFztPIvw) | 7:40 | 2020-06-05\* | 2022-07-17 |
 | [Radiance](https://open.spotify.com/track/6JVoUf0sa2kWW2gEDQGqYd) | [miru](https://open.spotify.com/artist/5GFvevb4OXfukH41D0wKSy) | [Anjunadeep 11 Sampler: Part 1](https://open.spotify.com/album/4n7SfPsObpTMEZtLyePGLH) | 6:35 | 2020-06-12 | 2022-07-28 |

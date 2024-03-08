@@ -4,7 +4,7 @@
 
 > El soundtrack ideal para tu sesión matutina.
 
-261 songs - 12 hr 37 min
+265 songs - 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Mesmerized](https://open.spotify.com/track/0C6XD0Qel6ZE1poJ7buaDm) | [Suraj Ives](https://open.spotify.com/artist/4VPaJH2YvHn7jNz6SVVgwn) | [Mesmerized](https://open.spotify.com/album/058wD9ExN5l6A7Bqz15Ygt) | 2:48 | 2023-08-29 |  |
 | [Metamorphic](https://open.spotify.com/track/6S5TAvYjNKzaVI5KR6DomW) | [Celestial Echoes](https://open.spotify.com/artist/2kPdGnJr2JeSSlSsyjS41v) | [Muse](https://open.spotify.com/album/0aWHdB87jdYmkjHfQU32gh) | 2:50 | 2023-08-29 |  |
 | [Meteor 5](https://open.spotify.com/track/4x6vhZrC3BNxMtYYb0xa7z) | [Modular 53](https://open.spotify.com/artist/3UklgXTg7a5xLCLywOH60t) | [Story Teller](https://open.spotify.com/album/1CI6TJiLlOC0sbWE5xEIBU) | 2:55 | 2023-08-29 |  |
+| [Mild Season](https://open.spotify.com/track/7d8I19LKTGqXrtVuuicHeU) | [Shibuki](https://open.spotify.com/artist/01ZOR2akLhLcm87lo8jHTg) | [Mild Season](https://open.spotify.com/album/1lVMgr76m4osE1qQwyf1jC) | 2:27 | 2024-03-07 |  |
 | [Mo Chroidhe](https://open.spotify.com/track/01yqm6MIIlCdOXCtrYJpRx) | [Mila Harper](https://open.spotify.com/artist/61XTODbHm8u4mMws36C1IG) | [Mo Chroidhe](https://open.spotify.com/album/4d0cCBHVGlmqCqqW3dffzg) | 3:02 | 2023-08-29 |  |
 | [Moondown](https://open.spotify.com/track/4ezAcgXr3UiaHccxZg08cV) | [Filippa Greer](https://open.spotify.com/artist/2nbErRms1OxHurL1yna5ov) | [Moondown](https://open.spotify.com/album/0cSTLGKYpNuzgdDMPez2Yt) | 2:55 | 2023-08-29 |  |
 | [My Better Half](https://open.spotify.com/track/2pvqbFiWVpWSsky68vLn1G) | [Manny Chu](https://open.spotify.com/artist/5cqGSR5Eyh5XSYtlSStmmF) | [With Every Breath I Breathe](https://open.spotify.com/album/0tB9FyhrB5N3lusDO1yBKf) | 3:07 | 2023-08-29 |  |
@@ -165,6 +166,7 @@
 | [Niwl](https://open.spotify.com/track/0kHzJwMC6i7kDi0dCYfmLA) | [Conah Bouvet](https://open.spotify.com/artist/5KfatZQz2qU0zfnk3rU8mE) | [Niwl](https://open.spotify.com/album/7KOjOYyBhYDlKuT2k5t6v4) | 2:37 | 2023-08-29 |  |
 | [Noche Brilliante](https://open.spotify.com/track/2kVsD3DNreqNJ0CdM2ix2U) | [Santiago Penitente](https://open.spotify.com/artist/5GhwUrUTHxWEwJRQSXqNl9) | [Noche Brilliante](https://open.spotify.com/album/2HGRxLG4zOXpVAYQcRbE6e) | 2:21 | 2023-08-29 |  |
 | [Nocturnal](https://open.spotify.com/track/4sJMWTrLmw0ijFb7NmqqKL) | [Zamphire](https://open.spotify.com/artist/1oSjfZFemVPG0PZa6j94vl) | [Nocturnal](https://open.spotify.com/album/0JuOM1FiY5sNZCpgetmPSH) | 2:52 | 2023-08-29 |  |
+| [Non Artificial](https://open.spotify.com/track/7F1GffFCXypMaIXb33Jrpy) | [Arhaa Doak](https://open.spotify.com/artist/4psjQuohUvbvwl50sFuqR9) | [Non Artificial](https://open.spotify.com/album/1pmQtchHKhWrIGy3nFjO9v) | 3:02 | 2024-03-07 |  |
 | [Northern Skies](https://open.spotify.com/track/4Fvo7mI8FM8valAzylNV9t) | [Miraes Seyara](https://open.spotify.com/artist/0juHoHX14lVxCoaDjjUf7h) | [Northern Skies](https://open.spotify.com/album/6nWOtt0ioFrr1F6SHJ1HhJ) | 3:26 | 2023-08-29 |  |
 | [Now](https://open.spotify.com/track/1LQlKIWA4eQqJg7KFdlyou) | [Hausste](https://open.spotify.com/artist/5Oz6ivFBe8vVFznXeggj30) | [Now](https://open.spotify.com/album/4KXF0ecJzcJnMzoSFwBLxF) | 2:39 | 2023-08-29 |  |
 | [Nuwara Eliya](https://open.spotify.com/track/01DC3zfaTxKsHhH5tkrEci) | [Varsha Macias](https://open.spotify.com/artist/0q4K7lXcRz4xbItRjTtidc) | [Nuwara Eliya](https://open.spotify.com/album/5qaTANUQCLtZKyoXKIOLZZ) | 3:17 | 2023-08-29 |  |
@@ -232,6 +234,7 @@
 | [Star Stars](https://open.spotify.com/track/1QEZAFj1GzKUkMgM9cFgTW) | [Setareha](https://open.spotify.com/artist/5gV1FzhRvG4WhQXku1tUav) | [Star Stars](https://open.spotify.com/album/3d3jAUgBsXpLmJWZw7Q1gW) | 2:56 | 2023-08-29 |  |
 | [Stepping Into A Dream](https://open.spotify.com/track/0bsBttoH3LrYa60QZB201X) | [Soliaga](https://open.spotify.com/artist/7LIerH0gT1AvTtmxx7xQp8) | [Stepping Into A Dream](https://open.spotify.com/album/4ocaDhqsCxZJcAxA5zWfFO) | 2:28 | 2023-08-29 |  |
 | [Straight Ahead](https://open.spotify.com/track/15SPWU4M4H0yhK5Nto68Kb) | [Garcíia](https://open.spotify.com/artist/1WqcMxEzhN5xfMVkGWO8qM) | [Frictionless](https://open.spotify.com/album/0MUMMXAt41woVXxQ5BssVh) | 2:56 | 2023-08-29 |  |
+| [Sublime Solitude](https://open.spotify.com/track/1a5wALPS5MtdxlNpw68DJK) | [Enigmatic Horizons](https://open.spotify.com/artist/7lxOloHmE3ZvWzfIitB4Xc) | [Sublime Solitude](https://open.spotify.com/album/1uYDTaXUyAhmhmTR5KCaVq) | 2:56 | 2024-03-07 |  |
 | [Sunrise](https://open.spotify.com/track/6MPa4Toa2Om1RQat7ebFuA) | [Jónias](https://open.spotify.com/artist/7m6P71I8tgua79uhyhTH6s) | [Sunrise](https://open.spotify.com/album/26SmTApfvPADDQxvytu7U1) | 2:24 | 2023-08-29 |  |
 | [Supine](https://open.spotify.com/track/6xNDVglPOwn9YXDyCt33lS) | [Sandra Prime](https://open.spotify.com/artist/2iKoQTuF9oRjVWo6l3BPRc) | [Elucidate](https://open.spotify.com/album/6xKgXH4qCDgMn0IWb8aBI6) | 2:47 | 2023-08-29 |  |
 | [Susurrus](https://open.spotify.com/track/3Vo0VwSMPICUf7rLnmyEEv) | [Spherical Harmonics](https://open.spotify.com/artist/6zmgXBf7eD1SpC4O5NJo0H) | [Susurrus](https://open.spotify.com/album/0m0uWRNgIyjjTrZGJAlnAJ) | 2:15 | 2023-08-29 |  |
@@ -253,6 +256,7 @@
 | [Un Lugar Tranquilo](https://open.spotify.com/track/5BMUIx6JMCKHK1BsWsYMmY) | [Micaela De León](https://open.spotify.com/artist/501O6IotIJIxYTcT7TXzNc) | [Un Lugar Tranquilo](https://open.spotify.com/album/6PxtxECBTrXamiB9EYO9IH) | 3:02 | 2023-08-29 |  |
 | [Unclouded](https://open.spotify.com/track/2NqwxOKlF2jtWvAnmWDIpu) | [Thalia Mathis](https://open.spotify.com/artist/3qwAV5INzjLjEyls7XyA9F) | [Unclouded](https://open.spotify.com/album/5qaBWXUQR3bXsyzZ8kuzTP) | 3:08 | 2023-08-29 |  |
 | [Unforgotten Girl](https://open.spotify.com/track/5QROqX69Jt5QgS1fhYXUj2) | [Udda Jnhale](https://open.spotify.com/artist/61dB4bXX3NDinvPlTy0v2P) | [I start to feel](https://open.spotify.com/album/7KiKS5NY51JOiE0sjH40XK) | 3:32 | 2023-08-29 |  |
+| [Unity](https://open.spotify.com/track/6dDY863qEdWoHP3VPbqaI1) | [Eos Astraeus](https://open.spotify.com/artist/43of8eAodl6qI6YvBX6hkJ) | [Unity](https://open.spotify.com/album/1yUlHuxjgZdhOJaZql1H0w) | 2:42 | 2024-03-07 |  |
 | [Unwind](https://open.spotify.com/track/3e1SIAaOU2ai7MGF77qxUi) | [Tascenda](https://open.spotify.com/artist/5Xj1fqlAVsgyiKy5K4hy1d) | [Unwind](https://open.spotify.com/album/7LX0QJNQOhEOEHGsHyUeie) | 2:15 | 2023-08-29 |  |
 | [Ur Intet](https://open.spotify.com/track/3j9lwtdDw7ITWVY0eEuznt) | [Vera Mejer](https://open.spotify.com/artist/2aMUpj4kSFl3XEdA3UCEIi) | [Ur Intet](https://open.spotify.com/album/10GmTICjKdSuH5BGgYK4Br) | 3:07 | 2023-08-29 |  |
 | [Valley Below](https://open.spotify.com/track/1HLt6MKMbg9TCFwBMBqf7l) | [Sôfur](https://open.spotify.com/artist/4Ooe7DB6fuhAtdr6tXVJfT) | [Valley Below](https://open.spotify.com/album/01W9ohHQbktMJTcthXMuQL) | 3:22 | 2023-08-29 |  |

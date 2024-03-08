@@ -4,7 +4,7 @@
 
 > Smooth beats for sleepless nights.
 
-588 songs - 22 hr 17 min
+593 songs - 22 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Ayways](https://open.spotify.com/track/1divZI9KtgP416oHCwBJE1) | [A & C](https://open.spotify.com/artist/5XIPbKxnUddeoJ2HIlsM6A) | [Ayways](https://open.spotify.com/album/1JrIdcauTrqt2sJKvYwXnQ) | 1:54 | 2023-10-06 |  |
 | [Azurite](https://open.spotify.com/track/4MQNfN5ZBezTVLDr8Y6o1m) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Pocket Full of Crystals: Vol 2](https://open.spotify.com/album/3M4IpXtpK6UmwcVm2IU1Vh) | 2:26 | 2022-05-20 | 2022-05-27 |
 | [backyard](https://open.spotify.com/track/0dO9R3Bz4sHZM7uCzhbp88) | [DAISI](https://open.spotify.com/artist/6puAtSfW1mN8JoGYgG1x2i) | [backyard](https://open.spotify.com/album/7vkwdTMHjkNVDwwip5NOKQ) | 2:29 | 2023-04-11 | 2023-09-16 |
+| [Balcony](https://open.spotify.com/track/5vuUq5iyiPnDuo2gjeh1Fx) | [Euphemism](https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr) | [Balcony](https://open.spotify.com/album/575DC3KxiwQoUHvEJbSohy) | 2:27 | 2024-03-08 |  |
 | [ballpoint](https://open.spotify.com/track/1NcRGYcwoBKGTYbqdpTB1O) | [vibe academy](https://open.spotify.com/artist/1QIlKfgGmOpQRigjy2CyPN) | [cayenne](https://open.spotify.com/album/73ukbC0D0nA4DllTTyCwQp) | 1:48 | 2022-05-20 | 2022-06-10 |
 | [Basement Jazz](https://open.spotify.com/track/3ZHW2H21EFiyp9JenO20po) | [mädmäx](https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0), [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [Basement Jazz](https://open.spotify.com/album/1CdhBYH5dcAtCa5LdoRP4b) | 1:19 | 2023-09-04 | 2023-09-16 |
 | [Basil](https://open.spotify.com/track/4s4vcqz7GJG9cvh31ECa5e) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76) | [Basil](https://open.spotify.com/album/23Hsi0FX1MD0UJBkgOZaFj) | 2:14 | 2023-01-20 | 2023-10-06 |
@@ -163,6 +164,7 @@
 | [Dusk Till Dawn](https://open.spotify.com/track/5nyyuV2d4TMGrQ2bipvz1M) | [eleven](https://open.spotify.com/artist/2je6GFLTZmAbrnjokRtWfU), [Moetown](https://open.spotify.com/artist/62j9JVhnSbDgA6ADHCBNPz) | [Dusk Till Dawn](https://open.spotify.com/album/6TSTw3dOmkmMNqhA5TtUuU) | 2:12 | 2022-09-16 | 2023-12-14 |
 | [dusky autumn](https://open.spotify.com/track/7Mm6SoiqSQRYIkwvTBiJmq) | [Bus Topp](https://open.spotify.com/artist/6iWgfTsyBsH03H2XDrveyR) | [dusky autumn](https://open.spotify.com/album/0CmaNEs156ubybn6yjSvuS) | 2:38 | 2024-02-02 |  |
 | [E\. Z\. Breezy Beautiful](https://open.spotify.com/track/0NEg0G2YPFVcZZ3Uo3LWjW) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [E\. Z\. Breezy Beautiful](https://open.spotify.com/album/0Zh07HvEXGkobcknMcG1CP) | 3:16 | 2022-05-20 | 2023-01-18 |
+| [EASY](https://open.spotify.com/track/2udu8PBjGpmWh8iHYcKYQh) | [SLOWIFI](https://open.spotify.com/artist/6eUzsh8B4bKK2pUFD2eGQm) | [EASY](https://open.spotify.com/album/5IRa5BvZPCPnWwjzj3KfOe) | 2:38 | 2024-03-08 |  |
 | [Easy Beginnings](https://open.spotify.com/track/4HQELL0HSLA3TPzpZ3GgkV) | [Bobblan Trams](https://open.spotify.com/artist/7z7v7NY3R16CtKFLLviei2) | [Easy Beginnings](https://open.spotify.com/album/3F0TYB4lzc0ye6qTMwozy3) | 2:02 | 2022-12-09 |  |
 | [eclipse](https://open.spotify.com/track/5LEDsypBnPHkiczj4hzHNz) | [mooncycles](https://open.spotify.com/artist/1GHcBsNa2yLrpyqIwbt869) | [eclipse](https://open.spotify.com/album/6dIE7p3E7WVxmecbH4cYrA) | 2:02 | 2022-05-20 | 2023-01-18 |
 | [eclipse](https://open.spotify.com/track/54vkA47SBKkcsEYnFIXZRi) | [Mr Davies](https://open.spotify.com/artist/2gLbE2Cr7iD5hNTTTFgY2K) | [eclipse](https://open.spotify.com/album/2whe5rcSytK3yTy2XuLwJm) | 2:28 | 2023-11-17 |  |
@@ -205,6 +207,7 @@
 | [Golden Hours](https://open.spotify.com/track/6pFCWGvher1KJdEEsj55dn) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Autumn Here](https://open.spotify.com/album/2Ea5pKp1ORP8nXaOk85WHP) | 2:28 | 2022-05-20 | 2022-06-10 |
 | [golden lanterns](https://open.spotify.com/track/5iZP8lfBCmz2oEwBfFvgh2) | [bby knife](https://open.spotify.com/artist/3Tub4hRLiyd2Heoati75O4) | [golden lanterns & sub zero](https://open.spotify.com/album/5BUYM7k80XcB4A2KSTK228) | 2:24 | 2023-01-13 |  |
 | [Good Riddance](https://open.spotify.com/track/1TokDvDC322LNnDEUqL4uv) | [Bad Gherkin](https://open.spotify.com/artist/15UGYmHXzD3KwCDTE2Xa4B) | [Good Riddance](https://open.spotify.com/album/6U0FtCx12gkLnR4oD55oj9) | 2:20 | 2023-11-17 |  |
+| [goodnight moon](https://open.spotify.com/track/37INB6QCytlJLMoRVCrzKE) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [goodnight moon](https://open.spotify.com/album/5DrnhcL4WsBBCTXPCrvC63) | 2:32 | 2024-03-08 |  |
 | [goodnight paris](https://open.spotify.com/track/4ml3CC6HTNaGnFgiRnAiFH) | [Clocktown Stars](https://open.spotify.com/artist/41tAquCucBUKN6L1xeMWns) | [goodnight paris](https://open.spotify.com/album/1FXQ6DYZWVY6FLf0zvPDwy) | 2:51 | 2023-10-27 |  |
 | [Goodwitch](https://open.spotify.com/track/6ZlVto4etUDW4TkERVP37O) | [ULMÄR](https://open.spotify.com/artist/7BJ1Z3VaSzoX2z4p6OtwFU) | [Beatology Vol\. 2](https://open.spotify.com/album/4ohPIllqmhvDQ8EKBQeFou) | 2:26 | 2022-05-20 | 2023-01-18 |
 | [gots to chill](https://open.spotify.com/track/2N0EsmVXjS2Fc3FFR2BouU) | [Giorgio Robertini](https://open.spotify.com/artist/3CfYXa3IM5nDW2rzaVRQRV) | [gots to chill](https://open.spotify.com/album/7IVMjmiejiglBlUzBugk5K) | 2:08 | 2022-11-11 |  |
@@ -330,6 +333,7 @@
 | [Miss Riff](https://open.spotify.com/track/5E37KnHm3j0bF70BxTdhUk) | [Lazy Ghoul](https://open.spotify.com/artist/1adocWFAwFLbs7ar3cFlRu) | [KONOA](https://open.spotify.com/album/2SxkCDu8atc1kSnwK3HSrz) | 1:37 | 2022-05-20 | 2023-01-18 |
 | [missing title](https://open.spotify.com/track/460zCsgqPJQ5QsIuyFKJGF) | [s t r o b e](https://open.spotify.com/artist/5TfuBYzx9YHjTXKfH1iVTD) | [missing title](https://open.spotify.com/album/6OsnO0s3ZIV4P770J43a0H) | 2:07 | 2022-05-20 | 2023-01-18 |
 | [Missing You](https://open.spotify.com/track/0IhDHRbFUfg3MaG1iQUClb) | [Tru Beri](https://open.spotify.com/artist/5ycHMRtAIjlIQ2P5NMvI5k) | [Missing You](https://open.spotify.com/album/3qjbuBW6voCrKP8N2xvqGQ) | 1:36 | 2022-05-20 | 2023-01-18 |
+| [Mist And Dust](https://open.spotify.com/track/5Js1urkjZ11PkD7cPwUGHb) | [JAKKARTA](https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk) | [Mist And Dust](https://open.spotify.com/album/6UwgOJGv46mupcigqLET9y) | 2:54 | 2024-03-08 |  |
 | [Moody floral](https://open.spotify.com/track/04coIyF2UZ6pMFUw28z4at) | [DarkSkyBeats](https://open.spotify.com/artist/3au6RfUJ60t2YXgysbwf2w) | [Moody floral](https://open.spotify.com/album/20XvqhIXpmeSnmpCY3DprN) | 1:39 | 2022-05-20 | 2022-11-26 |
 | [moon inhale](https://open.spotify.com/track/3AwO7k4camAuHP5jaowl0D) | [Harvest Emotions](https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K) | [moon inhale](https://open.spotify.com/album/3wrPhTn9llGGlRbVtvZudr) | 2:08 | 2023-11-17 |  |
 | [Moon Shine](https://open.spotify.com/track/0SAnO4rUQJEC4IBxozew6W) | [Drogra](https://open.spotify.com/artist/46C1yy45Hsu5NlD7QnNFri) | [Moon Shine](https://open.spotify.com/album/30WANbBaynnPKdkVBQHgjm) | 2:49 | 2022-05-20 | 2022-07-01 |
@@ -586,6 +590,7 @@
 | [Will Power](https://open.spotify.com/track/7a6K95i1GpCbWgntBkORxB) | [Recovery TIme](https://open.spotify.com/artist/30ECrzUanbQrlkzo7HQjap) | [Will Power](https://open.spotify.com/album/6RveCgyIaAjAYCUJpwbRZX) | 1:47 | 2022-10-28 |  |
 | [Windmill](https://open.spotify.com/track/3b9dGQOud5zYbwsiKy03Rn) | [Joel Manson](https://open.spotify.com/artist/3LnOPPGBiRtRJAOdjQqQMx) | [Windmill](https://open.spotify.com/album/1eMRlViP3OSEHzKNVe1NUs) | 1:41 | 2022-05-20 | 2022-07-01 |
 | [Winter Bells](https://open.spotify.com/track/2NR75hc8eVC9xzro4ZjO52) | [Twindex](https://open.spotify.com/artist/7aaoS1lVqJrRhZ4UvWqsm0) | [Winter Bells](https://open.spotify.com/album/2Qj19WXxfm5F8e5MyFRobz) | 2:35 | 2023-01-20 | 2023-12-14 |
+| [winter sky](https://open.spotify.com/track/2iONNM9jRNfxCDckFyJrsO) | [Dalo](https://open.spotify.com/artist/0dRqtPq1WDr4qMuNEg6KS6) | [winter sky](https://open.spotify.com/album/54HSpyO4c3HoTw0ETVubd1) | 3:14 | 2024-03-08 |  |
 | [Winter Train](https://open.spotify.com/track/5TzjQuckL7ApeKhSrCXBbZ) | [Potlatch](https://open.spotify.com/artist/5mk9bZgK156hL9mS64Y749) | [Winter Train](https://open.spotify.com/album/4frTRzSEUG7Y4XucUNVQHV) | 2:33 | 2022-12-16 | 2023-11-18 |
 | [wintersun](https://open.spotify.com/track/3VeRLgiVTKHDsYrAjI03Sq) | [Clocktown Stars](https://open.spotify.com/artist/41tAquCucBUKN6L1xeMWns) | [wintersun](https://open.spotify.com/album/5bkOd00HXDiJqyDkO6qR4Y) | 2:03 | 2024-02-02 |  |
 | [Wintertime](https://open.spotify.com/track/2e9V0LuZIz7fLJRgoRCOvs) | [David Forest](https://open.spotify.com/artist/2Q4TYgWnOjLCaZTXXU2AD9), [Eli Kazah](https://open.spotify.com/artist/003ScA1EGXbCLpKFucHXb3) | [Wintertime](https://open.spotify.com/album/5xPUqYBbJ4hplgw4ThMvO5) | 2:18 | 2022-07-01 | 2023-09-26 |

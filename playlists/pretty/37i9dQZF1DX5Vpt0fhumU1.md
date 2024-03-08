@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vpt0fhumU1.md) - [plain]
 
 > Soak up the spirit of Spain with a taste of these traditional flamenco and folk tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,152 likes - 51 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,199 likes - 51 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vpt0fhumU1.md) - [plain]
 | 31 | [Aires del Fuente Vaqueros](https://open.spotify.com/track/6s2aEvw1FCfxwHaUAJuRPe) | [Danza Fuego](https://open.spotify.com/artist/48bWbzfBH3pdeDark30gJ4) | [Flamenco Andalucía](https://open.spotify.com/album/2eJahO4Ks4kkchZpUPBL8D) | 5:21 |
 | 32 | [Buleria de Manuel](https://open.spotify.com/track/3LVBA3pqKNcNFyWOVjQOlI) | [Manuel Lopez\-Ruiz](https://open.spotify.com/artist/6xhZFDNkudQnLXBSMI4AUo), [El Chachi](https://open.spotify.com/artist/4n875W84fNuDHcf9uD9D2R) | [Gypsy Rumba Flamenco](https://open.spotify.com/album/4SKgLW5QhafMeJocwxAleS) | 3:54 |
 | 33 | [La Rondena](https://open.spotify.com/track/5nLAMwCOLkoXAjq0y4lfVK) | [Danza Fuego](https://open.spotify.com/artist/48bWbzfBH3pdeDark30gJ4) | [Flamenco Andalucía](https://open.spotify.com/album/2eJahO4Ks4kkchZpUPBL8D) | 6:47 |
-| 34 | [Tres Amores](https://open.spotify.com/track/7DpDb8R3OxTr3FaiKwhYKB) | [Julian Vigil](https://open.spotify.com/artist/37iIAObpTKbDOZ9BjSrmMv) | [Tres Amores](https://open.spotify.com/album/01HM86e0bYj6oqXdCJ03AN) | 2:25 |
+| 34 | [Tres Amores](https://open.spotify.com/track/1OWdxynsujtEXuTdqXomSR) | [Julian Vigil](https://open.spotify.com/artist/37iIAObpTKbDOZ9BjSrmMv) | [Tres Amores](https://open.spotify.com/album/18oD5PHjsYurwxHtAjXDcx) | 2:25 |
 | 35 | [En Memoria a Federico](https://open.spotify.com/track/5flkDyefFtVmYqYhidHsOq) | [Danza Fuego](https://open.spotify.com/artist/48bWbzfBH3pdeDark30gJ4) | [Flamenco Andalucía](https://open.spotify.com/album/2eJahO4Ks4kkchZpUPBL8D) | 3:42 |
 | 36 | [Creo](https://open.spotify.com/track/1fJQeSf3Fqub3crz84vr59) | [La Jose](https://open.spotify.com/artist/55o2GKmozOaWhYDBaFBPC2) | [Espiral](https://open.spotify.com/album/04Lg6FQ96wvUTTDYMci77n) | 3:41 |
 | 37 | [Entre Dos Aguas](https://open.spotify.com/track/5hVqZ5hnvQGT4LOpUVuJUa) | [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw) | [Mi Historia: Paco De Lucia](https://open.spotify.com/album/4psU1Z4bLtTOwZjmmL6lid) | 6:00 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vpt0fhumU1.md) - [plain]
 | 50 | [Bumblebeat](https://open.spotify.com/track/0aiqrNJkcz1xDGUD8HLrRz) | [Govi](https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB) | [Mosaico](https://open.spotify.com/album/6PAB5rJADQ7HFjp0fzKjba) | 4:34 |
 | 51 | [En la Mancha](https://open.spotify.com/track/6qixM3ocxbC7JzrDg2YwrD) | [Mari Nieto](https://open.spotify.com/artist/1kpBaXhyD5w2NMYoklvChj), [Juan Antonio Torres](https://open.spotify.com/artist/1JXR84Lo1dOJcc8re1H5lw), [Viguela](https://open.spotify.com/artist/2MPy4JFvIlApj1PbxNTHBF) | [Temperamento: Traditional Music from Spain](https://open.spotify.com/album/7hlw3I2DL1JV4uw99h5BtC) | 5:50 |
 
-Snapshot ID: `MCw3YzJiNGFkZjczNjRlNWVlMjcxYjk1NzFjNDU3MDVlMjRjNTkwZDNi`
+Snapshot ID: `MCxjZTE5MGE3YTkwM2ZiZTIxOWU0MGI0N2VjNmRhOWIyNTVmOWJhZGVj`

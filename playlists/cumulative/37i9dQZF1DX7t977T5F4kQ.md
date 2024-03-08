@@ -2,9 +2,9 @@
 
 ### [Ghana Party](https://open.spotify.com/playlist/37i9dQZF1DX7t977T5F4kQ)
 
-> The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: Smallgod
+> The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: King Promise
 
-314 songs - 16 hr 36 min
+316 songs - 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Bunker](https://open.spotify.com/track/430qeeo39VnjbC8aXIsEbS) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Bunker](https://open.spotify.com/album/5opRh6RWjK3h9hPfcY68yn) | 2:44 | 2022-11-04 | 2023-03-18 |
 | [Carry Go](https://open.spotify.com/track/25q4sk7mFORsQ3Kn6bqUbO) | [Sista Afia](https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf) | [Carry Go](https://open.spotify.com/album/4Cbo0e74MIwXeqEFSg4GAz) | 2:51 | 2023-02-23 | 2023-03-18 |
 | [Celebrate](https://open.spotify.com/track/0EonV0jQGifRKj22ZBVY6l) | [Boomski Radio](https://open.spotify.com/artist/6KN6uOM3j4npLjbyL2MKHQ), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI), [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Celebrate](https://open.spotify.com/album/37rh4lkXWmFNSKT4Sduw3y) | 3:05 | 2023-06-02 | 2023-07-14 |
-| [Celebrate](https://open.spotify.com/track/0UUczvIt4oAghLNuY8WSEA) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Celebrate](https://open.spotify.com/album/1DjCbRACl4Q9bLtT0hhiIF) | 2:28 | 2022-11-04 |  |
+| [Celebrate](https://open.spotify.com/track/0UUczvIt4oAghLNuY8WSEA) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Celebrate](https://open.spotify.com/album/1DjCbRACl4Q9bLtT0hhiIF) | 2:28 | 2022-11-04 | 2024-03-08 |
 | [Chale Wote](https://open.spotify.com/track/0P3mEL2RyN1YLE5hdqWeux) | [FRA!](https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN) | [Chale Wote](https://open.spotify.com/album/1xOvFbPk7T2edgj2TnVdvK) | 5:42 | 2023-05-19 | 2023-06-17 |
 | [Champagne](https://open.spotify.com/track/5iWC5AEn2Jm68LnPluwedn) | [Ayesem](https://open.spotify.com/artist/57qCTSQMNSJSI2bQjaM2q9), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Champagne](https://open.spotify.com/album/4Wdcgz2fJE5JOJyesJfKD9) | 4:23 | 2022-12-02 | 2023-01-13 |
 | [Champagne](https://open.spotify.com/track/76aYqlXTeHaYMunCPkm3qZ) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Champagne](https://open.spotify.com/album/5JBbEJHvC8ux9kYGbdu0od) | 2:28 | 2022-11-04 | 2023-09-15 |
@@ -129,7 +129,7 @@
 | [Gboza](https://open.spotify.com/track/6K9kZQF9mugqUJ47BWf1jL) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Gboza](https://open.spotify.com/album/1xdEbTrHZcaRKs3gjLFVQ5) | 3:19 | 2022-11-04 |  |
 | [GIDIGBA \(FIRM & STRONG\)](https://open.spotify.com/track/3UH3DZZNIuUZ78VE2jDsO7) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [GIDIGBA \(FIRM & STRONG\)](https://open.spotify.com/album/0S6gW0pMAIxyt7yRvw6Qnw) | 2:53 | 2022-11-04 |  |
 | [Ginger](https://open.spotify.com/track/45soZFnFJ0JBR1Ahx3hhCF) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Ginger](https://open.spotify.com/album/1URFu4auayefM9X1rSMOh5) | 3:33 | 2022-11-04 | 2023-09-22 |
-| [Goldigga](https://open.spotify.com/track/3pPxul1nGW600lvqFdBcLg) | [Samsney](https://open.spotify.com/artist/1RaVe8wzZ1DnL6fcAf1x2g), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Goldigga](https://open.spotify.com/album/4MUkSTaa9xxyeXdAB6geiO) | 3:02 | 2022-11-04 |  |
+| [Goldigga](https://open.spotify.com/track/3pPxul1nGW600lvqFdBcLg) | [Samsney](https://open.spotify.com/artist/1RaVe8wzZ1DnL6fcAf1x2g), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Goldigga](https://open.spotify.com/album/4MUkSTaa9xxyeXdAB6geiO) | 3:02 | 2022-11-04 | 2024-03-08 |
 | [Goodbye](https://open.spotify.com/track/7pU9YogbXoHZirg26M132Z) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Goodbye](https://open.spotify.com/album/2LWg8PF3z76jzhcPgFb8x1) | 4:24 | 2023-02-09 | 2023-02-24 |
 | [GoodSin](https://open.spotify.com/track/4lkI6BidQ1dC19KaCb0SUn) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana](https://open.spotify.com/album/1ZinBC6aI5Ck8CEa64GShC) | 2:20 | 2023-09-08 | 2024-03-04 |
 | [GoodSin](https://open.spotify.com/track/5tlvXfI4aqoSh0oRghr7UT) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana](https://open.spotify.com/album/3axpLgzTEbftwwMXdYX3TK) | 2:20 | 2023-06-26 | 2023-09-10 |
@@ -227,8 +227,10 @@
 | [Over](https://open.spotify.com/track/1537dWgnx4cqNxMYQbVa6C) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Over](https://open.spotify.com/album/0qpAELxRfWAsE1InseqU1e) | 3:53 | 2023-09-14 | 2023-11-03 |
 | [Over](https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Site 15](https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2) | 3:56 | 2022-11-04 | 2023-05-13 |
 | [Over](https://open.spotify.com/track/4AqSMNtn3vFqE0OScxvEps) | [Thirtn](https://open.spotify.com/artist/2DJRjIwHAj1DdOo6pBcM6v) | [Over](https://open.spotify.com/album/0SvEJsifHLZ7VGMZaan2pc) | 3:02 | 2023-03-10 | 2023-03-18 |
+| [Overlord](https://open.spotify.com/track/56gwuqnG5UDn3rTTTs61AH) | [Wutah Kobby](https://open.spotify.com/artist/4XdiQkB8WIPxaSdp0uRWox), [Kwame Yogot](https://open.spotify.com/artist/11HL9RVs0dNFEwOgvrUYFY) | [Overlord](https://open.spotify.com/album/760ibMaRsLqLNWGMaCujFa) | 2:19 | 2024-03-08 |  |
 | [Pain](https://open.spotify.com/track/2Q6xk5PrIexH45CotIAXeF) | [Kweku Darlington](https://open.spotify.com/artist/3ZR23AVEcvrtRqPXpIcjSW) | [Pain](https://open.spotify.com/album/7CHgtK1UCDpTLrRAe2mf0H) | 3:21 | 2023-12-08 | 2023-12-22 |
 | [Papabi](https://open.spotify.com/track/0u1w6JiN1ApGtWwDLXY2dD) | [Mishasha](https://open.spotify.com/artist/2X8BDJoWGo3VkrzPy2fN7W), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Papabi](https://open.spotify.com/album/09kaeUGlamtNLY21BAoREx) | 3:45 | 2023-02-23 | 2023-03-03 |
+| [Paris](https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Paris](https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No) | 2:20 | 2024-03-08 |  |
 | [Partey](https://open.spotify.com/track/5kT37vOS7z3VxV6o1B74cw) | [Boomski Radio](https://open.spotify.com/artist/6KN6uOM3j4npLjbyL2MKHQ), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Eddie Kadi](https://open.spotify.com/artist/24UVDiSRkXbOcEtwZgWEwS) | [Partey](https://open.spotify.com/album/7vQtVN9DI7F5viEpqakYj4) | 2:56 | 2023-03-17 | 2023-04-15 |
 | [Party \(feat\. Kofi Kinaata\)](https://open.spotify.com/track/0QJ8rOhtRWBqLFWIogj4Yg) | [Adina Thembi](https://open.spotify.com/artist/7ujlMMbxQ1lbbBNpYyAU6d), [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [Party \(feat\. Kofi Kinaata\)](https://open.spotify.com/album/3Cfwrr5Gvc9ZvCTOdUsfCf) | 2:53 | 2023-09-08 | 2023-09-15 |
 | [Party Of The Year \(feat\. Mr Drew\)](https://open.spotify.com/track/2l7g9za5ukNtQN4h1vSCbK) | [Keche](https://open.spotify.com/artist/7I8VnUISFUDhcyfzdFk19E), [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Party Of The Year \(feat\. Mr Drew\)](https://open.spotify.com/album/3P2LqB5XCENC53WdDEB8jV) | 3:27 | 2023-09-29 | 2023-10-27 |

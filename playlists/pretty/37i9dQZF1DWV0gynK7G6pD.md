@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Alexandra Whittingham
 
-[Spotify](https://open.spotify.com/user/spotify) - 704,740 likes - 72 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 704,827 likes - 72 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 71 | [Kronos\-Kryptos \(Version for Percussion Quintet\): III\. Drummers of the Apocalypse](https://open.spotify.com/track/7vLeQHDzcxJ0B9Tq0YgYJm) | [George Crumb](https://open.spotify.com/artist/0EyIzyLSylDC0h0y7JP7am), [Ensemble 20/21](https://open.spotify.com/artist/5ZbTNHXmOe6eHTJVLmzuKh) | [Complete Crumb Edition, Vol\. 21](https://open.spotify.com/album/15S31lmZkaNHXqMEpsjSmY) | 2:37 |
 | 72 | [Sonata in G Major, BWV 1021: I\. Adagio](https://open.spotify.com/track/7q972w7uG8wWXKCzWskXpF) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [G.A.P\. Ensemble](https://open.spotify.com/artist/6ziwykYblRi8bEid6zMqL0), [Luca Quintavalle](https://open.spotify.com/artist/4KpcxlCngHi7Luq53GQjXG), [Emilio Percan](https://open.spotify.com/artist/3vN6JdyIvfrKtJSwhHSaFX), [Oriol Aymat Fusté](https://open.spotify.com/artist/31F1VGF40LOiTAPA8ZV4DA) | [J.S\. Bach & Shostakovich: Salvation](https://open.spotify.com/album/16pQA8TOK7JhKnw17nNT5I) | 4:14 |
 
-Snapshot ID: `MCwxMWEyYWQyNDJhNjU5MTU5ZmU5Y2VlMjJjMzBlM2FkM2NlN2U1YzE5`
+Snapshot ID: `MCxlZGRlYjQzZWM4YjUzZDIzNTI0YjBhOGFiYTNlYTRlMTY2Y2M4OTgx`

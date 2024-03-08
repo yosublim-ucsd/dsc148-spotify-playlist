@@ -2,9 +2,9 @@
 
 ### [planet rave](https://open.spotify.com/playlist/37i9dQZF1DWW1XLSH8Oafp)
 
-> ur on the list bb 🪐 featuring Charli XCX
+> ur on the list bb 🪐 featuring Kissimjau
 
-838 songs - 1 day 22 hr 54 min
+840 songs - 1 day 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -483,7 +483,7 @@
 | [Lurk](https://open.spotify.com/track/18uMuvNai5GtXxw4q8qjKR) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8) | [For the Beasts](https://open.spotify.com/album/7thl8MxQ3IyU91WpifnEZH) | 2:33 | 2021-10-08 | 2022-04-16 |
 | [Luv Like](https://open.spotify.com/track/3cJSNe3eSkegr9dZsZxr6c) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Luv Like](https://open.spotify.com/album/3dGdrMdedYlcSaijiU6AV3) | 3:06 | 2022-02-04 | 2022-09-24 |
 | [luvforme](https://open.spotify.com/track/5DDcVfWaNBvY2jeEgctiot) | [Mello Jupiter](https://open.spotify.com/artist/5uM9zhLZdIzlTPjZ71Myt3), [stacia.01](https://open.spotify.com/artist/3ZZqFbvvCtSLEIACjKeGGf) | [Mellodramatic!](https://open.spotify.com/album/6Kq0QkM3ulmgrfJAgJyoQw) | 2:13 | 2023-06-30 |  |
-| [Magic](https://open.spotify.com/track/7wzMbipfjq1bv39UZYOQQ9) | [Geo22](https://open.spotify.com/artist/1BF2tnFiO15m9Y1s0ph0gr) | [Magic](https://open.spotify.com/album/4jdTsAlGWNCJ7xyTUPlFZe) | 2:18 | 2023-04-28 |  |
+| [Magic](https://open.spotify.com/track/7wzMbipfjq1bv39UZYOQQ9) | [Geo22](https://open.spotify.com/artist/1BF2tnFiO15m9Y1s0ph0gr) | [Magic](https://open.spotify.com/album/4jdTsAlGWNCJ7xyTUPlFZe) | 2:18 | 2023-04-28 | 2024-03-08 |
 | [MAiNFRAME FAiLURE](https://open.spotify.com/track/1fnukZ8a3AZb7cdD5XttqO) | [IX Fall$](https://open.spotify.com/artist/2dSovjwYl3QCrqyppFIovD) | [MAiNFRAME FAiLURE](https://open.spotify.com/album/7rmgrk4d4dKEKF0T1XUWcc) | 3:52 | 2022-07-19 | 2022-07-23 |
 | [Make It Thru](https://open.spotify.com/track/2jD9uQeNEPIqFEJmJ33zuk) | [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Make It Thru](https://open.spotify.com/album/4jlRkCwvRARTe4ua3T1Lzb) | 3:41 | 2023-04-28 | 2023-10-28 |
 | [Make You Scream](https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Make You Scream](https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46) | 2:43 | 2022-06-03 | 2023-03-18 |
@@ -592,6 +592,7 @@
 | [Pressurized](https://open.spotify.com/track/1SmlpzSJLpt3puZ9Zv3zTo) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [Pressurized](https://open.spotify.com/album/1PiYQn2LWd1S5EFZhCNqOe) | 2:16 | 2022-01-05 | 2022-04-16 |
 | [Pretty](https://open.spotify.com/track/3L545updZMVxAsaYV6K8Z9) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ), [Okthxbb](https://open.spotify.com/artist/2KexnW3KsCks2O8cXonjG6) | [Pretty](https://open.spotify.com/album/3qgzSXy4n3efYOUN0rd0aZ) | 3:44 | 2021-07-23 | 2022-02-19 |
 | [Procrastinator](https://open.spotify.com/track/68eevo5AN40dZQmVCgJZ5v) | [Badwor7h](https://open.spotify.com/artist/4ZKMKmBEUvsbivCpxQhRgD), [Chocollab](https://open.spotify.com/artist/5wMsze02HMf0NkoEyT45Wv) | [KYIVENERGO](https://open.spotify.com/album/2ysNk9sqAYQ84RaGeEFXRE) | 3:13 | 2022-08-05 | 2022-08-27 |
+| [Promises](https://open.spotify.com/track/4KaUtCS52nF45jCbFUi1OM) | [Eli Mich](https://open.spotify.com/artist/1HYEbZ42CBI8MsAa2TdDnj), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Promises](https://open.spotify.com/album/5rFQHgLwKko3D5OKB3BuqT) | 2:49 | 2024-03-08 |  |
 | [Protection](https://open.spotify.com/track/1cxSMo4OGtRdld83p0FiXF) | [Leo Pol](https://open.spotify.com/artist/2PBE0KQEqT34oYjjFyI9Mz) | [Protection](https://open.spotify.com/album/08o4PxSQwwaeWhmnsKQdeD) | 4:54 | 2023-06-07 | 2024-01-30 |
 | [Pulsewidth](https://open.spotify.com/track/643gyipSU7dkmrFhJ8UAIm) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 3:48 | 2022-04-15 | 2022-07-23 |
 | [Purify Me](https://open.spotify.com/track/4QLLA4OVStBaxNsz5sm0gA) | [Heatace](https://open.spotify.com/artist/5MJREYwNVcTl1ohELWlciR) | [Purify Me](https://open.spotify.com/album/46QdqZz8b7VqKmIYLRp4Jh) | 3:01 | 2022-08-12 | 2022-11-12 |
@@ -672,7 +673,7 @@
 | [Slug](https://open.spotify.com/track/0pI7zATeng92EknYPfi2B2) | [CRUSH3d](https://open.spotify.com/artist/5Qvgao5nFsaKRPeL42Dnpf) | [LOVESTAR](https://open.spotify.com/album/59QdYCo6YpVIUim9b3k27e) | 3:35 | 2023-03-17 | 2023-09-01 |
 | [snow](https://open.spotify.com/track/4lcRjGl7nZheu16dwc9vi1) | [MIMIDEATH](https://open.spotify.com/artist/55VDe291360aWSrwt1U96m) | [snow](https://open.spotify.com/album/4Uqy5C6jOODfd4ia3vvPYt) | 2:02 | 2022-02-18 | 2022-08-27 |
 | [So Beautiful So Lonely](https://open.spotify.com/track/3zdLeOuOhJn5M3dLETL4ZU) | [FiFi Zhang](https://open.spotify.com/artist/059v3EegVz2AonSh0Ro75Y) | [So Beautiful So Lonely](https://open.spotify.com/album/5zJEROFkoiYL21bgLsz2cK) | 2:08 | 2023-01-13 | 2023-08-26 |
-| [So Far So Good](https://open.spotify.com/track/7evLcrrniiw3S0LA8F3P1v) | [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [So Far So Good](https://open.spotify.com/album/4Sb3rbT2NEaOfzy4wSpMCd) | 4:16 | 2023-06-16 |  |
+| [So Far So Good](https://open.spotify.com/track/7evLcrrniiw3S0LA8F3P1v) | [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [So Far So Good](https://open.spotify.com/album/4Sb3rbT2NEaOfzy4wSpMCd) | 4:16 | 2023-06-16 | 2024-03-08 |
 | [so strange](https://open.spotify.com/track/7FMR5Z6zFputVRFOrBOqxG) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [so strange](https://open.spotify.com/album/1Uh2jK9M176KJyfSjPCZ3U) | 2:01 | 2022-12-02 | 2022-12-24 |
 | [So Tell Me…](https://open.spotify.com/track/3GJbXOYweOltxSiOsCNkMd) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [So Tell Me…](https://open.spotify.com/album/4BH2rFhaoB6HBgX8fSeeyb) | 3:47 | 2022-11-18 | 2023-01-14 |
 | [soft spot](https://open.spotify.com/track/1mtLhZXbQqeU3qugQkuwhk) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [soft spot](https://open.spotify.com/album/2Z7lZGztugb0rCv7QveDIc) | 3:39 | 2021-07-23 | 2022-04-16 |
@@ -840,6 +841,7 @@
 | [your one and only](https://open.spotify.com/track/2tmrvvEzpTfqFV4QbmY8e9) | [Revin](https://open.spotify.com/artist/4h4xVUiuywBMpNJGq3hlMK) | [ORENDA](https://open.spotify.com/album/5kdNpOmxHmMyYJOvhJP7qu) | 3:39 | 2022-04-08 | 2022-06-04 |
 | [yummy dummy \*°:⋆ₓₒ╰\(◡‿◡✿╰\)](https://open.spotify.com/track/1q6SZVPUw8K5Nni1tSpAoz) | [Yameii Online](https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF) | [yummy dummy \*°:⋆ₓₒ╰\(◡‿◡✿╰\)](https://open.spotify.com/album/07or57dBPKdwwtxTwCB3FW) | 1:40 | 2022-10-14 | 2022-10-29 |
 | [ZERO](https://open.spotify.com/track/2TGL64n9M3FdwgGzc3FmRT) | [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0) | [ZERO](https://open.spotify.com/album/7eb3cO7zGX3wB4837szFAz) | 2:55 | 2021-10-29 | 2022-03-12 |
+| [ZOOM](https://open.spotify.com/track/5BrX72zkxJaowRZwgM8wyB) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [ZOOM](https://open.spotify.com/album/1sh6E8cJ0BOG5aN4jQ1MiK) | 3:45 | 2024-03-08 |  |
 | [Было](https://open.spotify.com/track/3IvmUTMTIq3sVj1strEXJB) | [Frrra](https://open.spotify.com/artist/7nDfllqA1bFjDfAGLTisak) | [Было](https://open.spotify.com/album/5ttPF0uEOgnbHXP97EfVgM) | 3:38 | 2022-12-02 | 2023-06-23 |
 | [Гроза](https://open.spotify.com/track/68LPsox6pvEA9X8gN0lZ57) | [Frrra](https://open.spotify.com/artist/7nDfllqA1bFjDfAGLTisak) | [Гроза](https://open.spotify.com/album/4syI5ABUZEdaDswxsfJFoA) | 4:24 | 2022-09-30 | 2022-12-03 |
 | [теряю](https://open.spotify.com/track/5QuD7ZrP38cZZwelNKYG4o) | [niteboi](https://open.spotify.com/artist/2Ue601Op6mLGMwrQYjAOSW) | [теряю](https://open.spotify.com/album/21lKKYs9spOzIFXYmKMuNb) | 4:15 | 2022-05-20 | 2022-09-03 |

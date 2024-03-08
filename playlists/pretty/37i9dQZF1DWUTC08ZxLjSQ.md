@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover:Sine\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,568 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,578 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 49 | [Design](https://open.spotify.com/track/4bPAZODVFGiXJGlqQC27qr) | [Chase](https://open.spotify.com/artist/2QGv8ZbI72ZIpY9GUifmbp), [Salim B](https://open.spotify.com/artist/3tFLmb0PpdE1gcx5yC8r2A) | [Design](https://open.spotify.com/album/5i4xmITMRcWdNIR7Ib8hGT) | 3:06 |
 | 50 | [sxcbnda](https://open.spotify.com/track/6RK9RIMO12fdRKVfzxN5JH) | [Mvndila](https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ) | [HYDR](https://open.spotify.com/album/2vOm3Yvo9VjTU73WJRfLyA) | 2:54 |
 
-Snapshot ID: `MCxhODdiOTJkMDdmYzMxOGFjZWZmNjJiM2RiMTk2ZDY3OTdiMTIwNWYy`
+Snapshot ID: `MCw5YzcwZDAzZTZiMzhjOTlmN2U0MDY5ZGU5NDk1OWFmZWJiZmFjNWFh`

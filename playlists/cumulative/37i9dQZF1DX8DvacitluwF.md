@@ -2,9 +2,9 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> Only the best in South African and international RnB\. Cover: <a href="https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA?si=k4DFCvkkR02xdMIFWyvsIA">Ricky Tyler</a>, <a href="https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X?si=BpFQ2gMISXGC5lAblqoGFg">Bien</a>
+> Only the best in South African and international RnB\. Cover: <a href="https://open.spotify.com/artist/2G6bNldbTZU1viUkX5Myuq?si=1UKjIfHAQr\-3xREv2XSOFw">Hunter Rose</a>
 
-183 songs - 9 hr 41 min
+187 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,10 +74,12 @@
 | [Gentle Magic](https://open.spotify.com/track/7lczAygHoTb5pgd8fdiVz3) | [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS) | [ForPlay](https://open.spotify.com/album/4SSFMsLPlXZ1ZA2boX5iUX) | 2:22 | 2023-11-16 |  |
 | [Get Close](https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Get Close](https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr) | 2:51 | 2023-11-16 |  |
 | [Get You](https://open.spotify.com/track/6XqPLhC4EdmFMiAHuyUq1Q) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Get You](https://open.spotify.com/album/4sWOxBKH0HrElfZwzNFxKt) | 3:57 | 2023-12-14 |  |
+| [Gimme That](https://open.spotify.com/track/1mZgGbjHRXz0PbHAMAXZFM) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S), [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS) | [Gimme That](https://open.spotify.com/album/20eUVqxK9iITuO84gvl9o5) | 4:04 | 2024-03-07 |  |
 | [Give It To You](https://open.spotify.com/track/2bS9CrkNAxPYqcxkyUXACP) | [DRAGG](https://open.spotify.com/artist/5oO3WKJ7dtDv1qGzaCwQmc), [Tania DeBarros](https://open.spotify.com/artist/5wSqOP0wgh4LIcrWinLXWE) | [Give It To You](https://open.spotify.com/album/4oQGwgVPCLbzvkFTl4AhyP) | 2:53 | 2024-01-12 | 2024-02-09 |
 | [Go Baby](https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:56 | 2023-10-12 | 2024-01-26 |
 | [Guide Me](https://open.spotify.com/track/5nnGqBHjGNGUu6Khin46XL) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri), [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [Luna](https://open.spotify.com/album/3edbe7CGUZvGnHYN9K1jkP) | 3:45 | 2024-02-22 |  |
 | [Hate Crowds](https://open.spotify.com/track/3vEYqqhLAo9AsDoAWdAB4G) | [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [Filahsofy](https://open.spotify.com/album/0RL6vcm2zv4s50kOYSCG1t) | 3:42 | 2024-02-14 | 2024-02-23 |
+| [HOME](https://open.spotify.com/track/4MKnbbcCLbuTMWo8JBk8ej) | [2am](https://open.spotify.com/artist/54avHNJAk1hlKRoqrbVx2d), [Karabo](https://open.spotify.com/artist/2nPtQTbG4YCBrkSftUoiG3) | [FOR YOU, FOREVER](https://open.spotify.com/album/6q8rLOzjZMAGt2M1f4syHl) | 3:22 | 2024-03-07 |  |
 | [How Does It Make You Feel](https://open.spotify.com/track/3TLUPabatqnokgoZdfXUAV) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:36 | 2023-11-23 |  |
 | [How We Roll](https://open.spotify.com/track/7Fdhp8np9nZhsghO2VIPvJ) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [How We Roll](https://open.spotify.com/album/6QK3O5sAs6NJ8n3h8UssuZ) | 3:19 | 2023-10-12 | 2024-01-13 |
 | [Hvte Me More!](https://open.spotify.com/track/4gQbrS55OA14Tx9QOXyGrP) | [KVSE](https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz) | [Hvte Me More!](https://open.spotify.com/album/1KBZoMuFYD99E5ILessl9J) | 2:19 | 2024-01-11 | 2024-02-09 |
@@ -130,6 +132,7 @@
 | [overdose](https://open.spotify.com/track/2yAkgFcID5XoXF3yRcu8tc) | [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [overdose](https://open.spotify.com/album/5SnkdRhNhYmzgWkaIGQijn) | 3:23 | 2024-02-08 |  |
 | [Paradise](https://open.spotify.com/track/5pBSxjuMqmm9CVPz8RIIPy) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I Left My Heart In Ladera](https://open.spotify.com/album/0kET3F9lWfNPBZVEHryLuN) | 3:38 | 2023-10-26 | 2024-02-09 |
 | [Paradise](https://open.spotify.com/track/6xb06ZbAIf45F9Vwiy44FY) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I Left My Heart In Ladera](https://open.spotify.com/album/42Y6YSyOePyAXG0QlOJylw) | 3:38 | 2023-10-26 | 2023-11-03 |
+| [PAST MYSELF](https://open.spotify.com/track/7dHrE8omPpvgst2M9ZEQmf) | [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [PAST MYSELF](https://open.spotify.com/album/0ZXOuk6KcYEGrYoXTlh3y2) | 2:40 | 2024-03-07 |  |
 | [Patience](https://open.spotify.com/track/5mFzG8awzpPxFnIKT43Xuf) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [DECSTER](https://open.spotify.com/artist/77QeAg7dSdGhSgT5QiHZL7), [Ari](https://open.spotify.com/artist/0iYPHQ3aoLCNYcw2khOy8M) | [Patience](https://open.spotify.com/album/2r3ahud5u7iTnFvUx4lPPm) | 3:03 | 2024-02-22 |  |
 | [Perfect Match](https://open.spotify.com/track/0FEvJtLKPwwaMUqkQ2MVbv) | [Lucille Slade](https://open.spotify.com/artist/3Y0PBoYsqmB3fkdbu2WfoT) | [Perfect Match](https://open.spotify.com/album/1cJ9iQNvaVNzxCKD0xdr4a) | 2:13 | 2024-02-14 | 2024-02-23 |
 | [Pillow Talk](https://open.spotify.com/track/1Necud0IeseT20zQBUg5l8) | [Malachi](https://open.spotify.com/artist/6DEiQRPzn93sZ3SS0PgiaS) | [Pillow Talk](https://open.spotify.com/album/4hlGB7lWS8cYFWZIhPiAVt) | 3:36 | 2023-10-12 | 2023-10-20 |
@@ -166,6 +169,7 @@
 | [That's You](https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [That's You](https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV) | 4:11 | 2024-02-08 |  |
 | [Tighter](https://open.spotify.com/track/2WRnCb0v84HQ8ZzGavDrXX) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Tighter](https://open.spotify.com/album/2bVycA3gdEqU51o5rILZUI) | 3:30 | 2023-10-12 | 2024-03-01 |
 | [till forever ends](https://open.spotify.com/track/2ZVOWgbP2Nj76kctTF1jjX) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [little messages](https://open.spotify.com/album/7hDzyjqHrig751Igo5ebvN) | 2:56 | 2023-10-12 | 2023-10-20 |
+| [TIME](https://open.spotify.com/track/4abv3ao51qRblxKxkYfw56) | [Hunter Rose](https://open.spotify.com/artist/2G6bNldbTZU1viUkX5Myuq), [Maloon TheBoom](https://open.spotify.com/artist/66xnl7wTIoeKdJV2YblQp4) | [HOLDING/EVOLVING](https://open.spotify.com/album/5eMsBt8WjfQYROA2dSnG33) | 3:20 | 2024-03-07 |  |
 | [True Love](https://open.spotify.com/track/4TEw5hpdE3xkMwOHIBpYJm) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [True Love](https://open.spotify.com/album/0Le8c3YsUvdoB8EsWEN6K5) | 2:50 | 2023-11-09 |  |
 | [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 | 2023-11-30 |  |
 | [Umhlaba](https://open.spotify.com/track/6l212VLnvhEJl2o7BCRBcG) | [katli g](https://open.spotify.com/artist/2IGyvttuJUWbmXxSrfSNu7), [mordy](https://open.spotify.com/artist/3xzIIBU6Sag14Yle4zgoty), [tabiska](https://open.spotify.com/artist/7KEUzqWJJvLJM8SNRXettE) | [Umhlaba](https://open.spotify.com/album/2iniomh8ICLoBfhW6RKAZs) | 3:35 | 2024-01-29 |  |

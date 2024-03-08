@@ -1,5 +1,5 @@
 {
-  "2024-03-07": 159089,
+  "2024-03-08": 159161,
   "date_first_scraped": "2021-12-21",
   "description": "DUNK-DUNK-DUNKA 30 K-M-H!!",
   "name": "30 km/h",
@@ -241,10 +241,28 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 115000,
       "name": "34:an",
       "url": "https://open.spotify.com/track/3boRJTCXt9D0MVaDdMyD0r"
+    },
+    {
+      "album": {
+        "name": "34:an",
+        "url": "https://open.spotify.com/album/75fyKvbRgN6LnQJeU3tFuB"
+      },
+      "artists": [
+        {
+          "name": "Louise Andersson Bodin",
+          "url": "https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115000,
+      "name": "34:an",
+      "url": "https://open.spotify.com/track/4ONAbYY5jWfwLU7NiyVmKt"
     },
     {
       "album": {
@@ -2151,10 +2169,32 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 149634,
       "name": "B\u00e4ttre nu",
       "url": "https://open.spotify.com/track/64zfkKZElU7EwHGI4AHYac"
+    },
+    {
+      "album": {
+        "name": "B\u00e4ttre nu",
+        "url": "https://open.spotify.com/album/5eTEGRnxzUdztQGE7jTbas"
+      },
+      "artists": [
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        },
+        {
+          "name": "vem e du",
+          "url": "https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149634,
+      "name": "B\u00e4ttre nu",
+      "url": "https://open.spotify.com/track/7JeoPNgkDrzm4o9iBQ7Hy8"
     },
     {
       "album": {
@@ -4629,10 +4669,32 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 165230,
       "name": "En kv\u00e4ll i juni",
       "url": "https://open.spotify.com/track/60fffK6XCHdFBjOv8TFJiW"
+    },
+    {
+      "album": {
+        "name": "En kv\u00e4ll i juni",
+        "url": "https://open.spotify.com/album/3AFBjIzfRvru1SfKCz0i5W"
+      },
+      "artists": [
+        {
+          "name": "Louise Andersson Bodin",
+          "url": "https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE"
+        },
+        {
+          "name": "250 kg k\u00e4rlek",
+          "url": "https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165230,
+      "name": "En kv\u00e4ll i juni",
+      "url": "https://open.spotify.com/track/7o9WYsE8zub22FT6THC4Pm"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-03-07": 840188,
+  "2024-03-08": 840254,
   "date_first_scraped": "2021-12-21",
   "description": "Blues, but funky. Or funk, but bluesy. Cover: Kenny Wayne Shepherd",
   "name": "Funky Heavy Bluesy",
@@ -475,10 +475,28 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 180340,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/3VpiTc2hSR4X5VUYQ5Td4Y"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/7KKEJnwo51g6IGhufsyBzD"
+      },
+      "artists": [
+        {
+          "name": "The Gulls",
+          "url": "https://open.spotify.com/artist/2n0FlGHc3OxI0x2WI39BEc"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180340,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/7lTrxftzzPW4WX7VRh6Vxl"
     },
     {
       "album": {

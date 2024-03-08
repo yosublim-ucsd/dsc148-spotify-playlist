@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Dana Salah
 
-647 songs - 1 day 13 hr 14 min
+648 songs - 1 day 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -469,7 +469,7 @@
 | [Toxic Romance](https://open.spotify.com/track/4gkdmBV68a59NBnLiuPwWV) | [Cosmicat](https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU) | [Toxic Romance](https://open.spotify.com/album/5iLqP2S6uge7BABvzyaBjV) | 6:55 | 2021-12-30 | 2022-02-10 |
 | [Tushkar](https://open.spotify.com/track/6tUQtTSX7noC1VFOlaYfsl) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [Tushkar](https://open.spotify.com/album/2l22vxxvQdUu9VweOyNdA2) | 2:56 | 2023-08-01 | 2023-09-09 |
 | [Unfollow Me Yalla](https://open.spotify.com/track/29Tzkn37Bf5w2yV8kpR3bz) | [Remie Akl](https://open.spotify.com/artist/0yKnrHyeDfAEr5XHuwA9xK) | [Unfollow Me Yalla](https://open.spotify.com/album/7wL1YGOMAxpLrwnlpCYmZA) | 2:39 | 2021-12-23 | 2022-03-02 |
-| [wa2t shrouk](https://open.spotify.com/track/3ih2Px5PuEiT89HDDR2vUk) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [wa2t shrouk](https://open.spotify.com/album/1SbBV84U2JSsNbuPc5cHml) | 2:28 | 2024-01-10 |  |
+| [wa2t shrouk](https://open.spotify.com/track/3ih2Px5PuEiT89HDDR2vUk) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [wa2t shrouk](https://open.spotify.com/album/1SbBV84U2JSsNbuPc5cHml) | 2:28 | 2024-01-10 | 2024-03-08 |
 | [Wa7ed \- واحد](https://open.spotify.com/track/3tHc7PVa0wi1dOpNoiEIgn) | [Karima Gouit](https://open.spotify.com/artist/3MLCyLMIqrwpmZ60O63BS3) | [Wa7ed \(واحد\)](https://open.spotify.com/album/2Au9YjBHjWjYtS9Bnx9M1M) | 2:34 | 2023-05-16 | 2023-05-19 |
 | [Wadaony](https://open.spotify.com/track/2JB69hEsD1T9ETH81LkYOb) | [El Jawhara](https://open.spotify.com/artist/2k5Q8DihfnjhLXPUej8A5l) | [Wadaony](https://open.spotify.com/album/6LcL6dVWSd33614lHCwcQw) | 4:02 | 2021-12-23 | 2022-02-27 |
 | [Wahshany Ayamak](https://open.spotify.com/track/3c87CyEFhWPyHoXxvbSBEx) | [Marwa Amin](https://open.spotify.com/artist/7JL7Tu7197ZW87a4yBZhyd) | [Wahshany Ayamak](https://open.spotify.com/album/38OTa1G1FvSC1kROPGajQo) | 4:12 | 2022-11-19 | 2023-02-24 |
@@ -527,6 +527,7 @@
 | [آخر إصدار](https://open.spotify.com/track/1IxYVfYIWehtSsTZW4PwrD) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [آخر إصدار](https://open.spotify.com/album/23L8LytnejUzj4JUQWKxR5) | 4:14 | 2023-05-11 | 2023-09-09 |
 | [أسيب نفسي وأغنى](https://open.spotify.com/track/2vPWM7HRQqv54d34itTpTS) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [أسيب نفسي وأغنى](https://open.spotify.com/album/0kg0psLhvJNYNSowHPiti6) | 4:43 | 2022-08-08 | 2023-05-13 |
 | [أكتر بكتير](https://open.spotify.com/track/1XkJjxi6GnzVMrWdkRsqMh) | [Nour Chehab](https://open.spotify.com/artist/1vi8wXxu7J0TKgxiNXV3uQ) | [أكتر بكتير](https://open.spotify.com/album/4gunC4wM9clRzn6jfltbKE) | 2:45 | 2023-09-14 | 2023-11-02 |
+| [أنا مش صوتك](https://open.spotify.com/track/2so4YlyW2pJ2hpkB8mDca3) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [أنا مش صوتك](https://open.spotify.com/album/1iU9abXK45PvgLdKkU2axL) | 3:07 | 2024-03-08 |  |
 | [أناكوندا](https://open.spotify.com/track/1XWBr66ODYX70TMRFvqVqc) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [أناكوندا](https://open.spotify.com/album/4CRITjhIkefit5B9J1HCEq) | 3:16 | 2021-12-23 | 2022-02-26 |
 | [أنساك](https://open.spotify.com/track/7Kt2dIB6IvPUs2qSdPRw8X) | [Layla Rina](https://open.spotify.com/artist/1T6zSTnrsGeN5HwgwcGTnt) | [أنساك](https://open.spotify.com/album/1FjKSu7MPy5dDQrA7FpFbn) | 3:52 | 2021-12-30 | 2022-03-01 |
 | [إجمدي](https://open.spotify.com/track/56bavY4NOpLZ8usVJp1PmZ) | [Shaza](https://open.spotify.com/artist/1EfSs3W0Qb8i6Rbw60nv5b) | [إجمدي](https://open.spotify.com/album/75JEt9SVbFyVYv3oaYuUVV) | 2:41 | 2023-10-02 | 2023-11-18 |

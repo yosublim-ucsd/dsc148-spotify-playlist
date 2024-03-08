@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: The Dead South
 
-620 songs - 1 day 14 hr 22 min
+621 songs - 1 day 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,8 @@
 | [Hawk For The Dove](https://open.spotify.com/track/4wgACmMIe2SWmTdCBgKxgd) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Take It Like A Man](https://open.spotify.com/album/1Ls9XDOYzEHqZp4dViQQtY) | 3:47 | 2022-07-22 | 2022-09-25 |
 | [Hawk For The Dove](https://open.spotify.com/track/62td314sXG1sOEtwiTOAnO) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Hawk For The Dove](https://open.spotify.com/album/1JoezS6AZYgO7E1VxKZcSy) | 3:47 | 2022-07-22 | 2022-11-13 |
 | [Hawk For The Dove](https://open.spotify.com/track/6vbukr6UTH4aLxraGiA6Ge) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Take It Like A Man](https://open.spotify.com/album/46FhQ98XqfWOMraBAouQ2n) | 3:47 | 2022-09-23 | 2023-05-06 |
-| [Hawkmoon](https://open.spotify.com/track/2TPoZOzNzkiazpFm5Duv7A) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [Hawkmoon](https://open.spotify.com/album/0WLU49zBV5CStnFUiYHrLD) | 3:42 | 2024-02-23 |  |
+| [Hawkmoon](https://open.spotify.com/track/2TPoZOzNzkiazpFm5Duv7A) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [Hawkmoon](https://open.spotify.com/album/0WLU49zBV5CStnFUiYHrLD) | 3:42 | 2024-02-23 | 2024-03-08 |
+| [Hawkmoon](https://open.spotify.com/track/4LbT4vgs0uYQHT3NZn9GD1) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [The Past Is Still Alive](https://open.spotify.com/album/5swrwkZivdtPxSHAuQvrOE) | 3:42 | 2024-03-01 |  |
 | [He Says Y'all](https://open.spotify.com/track/5CpMtf6glQ1QUyacR49k2k) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [He Says Y'all](https://open.spotify.com/album/594ivTG8CI8Ax5GTE0DZVX) | 2:30 | 2023-10-13 |  |
 | [Heading South](https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Heading South](https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP) | 2:51 | 2021-12-17 | 2022-02-23 |
 | [Heading West](https://open.spotify.com/track/6XtmeG61N9gqY5RFmhQqYH) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [Crazy Horse](https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3) | [Barn](https://open.spotify.com/album/7vlrGBbvKz2tZmVqAxK5ec) | 3:22 | 2021-12-17 | 2022-01-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, Keep it Real\. Cover: Tarsem Jassar
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,171 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,207 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 6 | [Short Name Jatt Da Blackia \(From "Blackia 2"\)](https://open.spotify.com/track/2700UzxCsjDddJ8VSXy897) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Gill Raunta](https://open.spotify.com/artist/6kz3taYAGtHb9kDWvzQm9k), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Short Name Jatt Da Blackia \(From "Blackia 2"\)](https://open.spotify.com/album/1tCqmDuBM1V3O9XFyWHrVy) | 2:49 |
 | 7 | [LC](https://open.spotify.com/track/4nv4duZpBnVpIDlmt2J0XX) | [Guntaj Dandiwal](https://open.spotify.com/artist/44wLsyV4oq5xoNZZA8STof), [Beat Cop](https://open.spotify.com/artist/5VxEKqkG8U77JA1VhmGo1y), [Wilson Brar](https://open.spotify.com/artist/7fvJs4HzirReHLsSFhc2iy) | [LC](https://open.spotify.com/album/1D8I7T2pit80h1phYCq4dk) | 3:12 |
 | 8 | [Patiala Flow](https://open.spotify.com/track/4bwM0uV1LvFtNtTL78ZgHR) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p) | [Y Hate ?](https://open.spotify.com/album/7N0yvorIcp7TXTvhKSK1uQ) | 2:33 |
-| 9 | [Ghode Nasli](https://open.spotify.com/track/0XHheXz9NGstW7tVxBJ8Qy) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx), [Big Byrd](https://open.spotify.com/artist/36POwXjaK1oeIS2rnu579y) | [New Order](https://open.spotify.com/album/2Wz1JsCb2VN3mNMy10nmK7) | 3:07 |
+| 9 | [Ghode Nasli](https://open.spotify.com/track/0XHheXz9NGstW7tVxBJ8Qy) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT) | [New Order](https://open.spotify.com/album/2Wz1JsCb2VN3mNMy10nmK7) | 3:07 |
 | 10 | [Whole Life](https://open.spotify.com/track/51nHuk1qh9tJ6R9Q1T1wxL) | [NIJJAR](https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W) | [Whole Life](https://open.spotify.com/album/7ltQLQ3obZnPoHOrgWx8Gx) | 2:34 |
 | 11 | [Hot Shit](https://open.spotify.com/track/5olluo8Xh733gDwhmchDlp) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Chobar](https://open.spotify.com/album/0PYDvpixI39fPsmBAs3FC6) | 2:43 |
 | 12 | [Gangsta Shit](https://open.spotify.com/track/1JrMBCjCRiBe0XNB6ZzWhY) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Roop Bhullar](https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d) | [Estrellas](https://open.spotify.com/album/56bKi3MtxXf4CzkkaDZ73s) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 99 | [Nah They Can't](https://open.spotify.com/track/5RXc1cmSNl3DSRThl2Ii4W) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/2z1B8rt2WK0K92x9XbCV24) | 3:24 |
 | 100 | [If I Die](https://open.spotify.com/track/6Hz3tNl55T31nuoX5NKybR) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [If I Die](https://open.spotify.com/album/78piK5s0g1fcELSLFzvDbI) | 3:06 |
 
-Snapshot ID: `MCw4YmU3MjE2NzNkMTg5ZWY3ODA1ODk3Njk5ZGZmMGZhY2NmMmY2NzZl`
+Snapshot ID: `MCw1NmJkNDFmZDUxYzA4ZWRhZmYzZmI4ZmEwZGU2OTBhNjkxNTE4Yzg5`

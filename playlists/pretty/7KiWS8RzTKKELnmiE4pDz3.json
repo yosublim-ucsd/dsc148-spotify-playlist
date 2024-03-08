@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "NzI2OSxiODEyNzYyMjhhYmRlOWIzODU3N2ZmMjE5NmE2NDhjZDc2ZDJmNThl",
+  "snapshot_id": "NzI3MCxjZDAxYjZhOTRiZjU5NGJjM2RhY2JjZDdiMTg1ZGRiMTM1ZmE4YzEw",
   "tracks": [
     {
       "added_at": "2022-09-26 20:53:27",
@@ -2255,6 +2255,26 @@
       "duration_ms": 147969,
       "name": "On God (feat. Earl Sweatshirt & Tony Shhnow)",
       "url": "https://open.spotify.com/track/4j25WxLITRGhkYNmdezE8s"
+    },
+    {
+      "added_at": "2024-03-08 00:56:56",
+      "album": {
+        "name": "GO:OD AM",
+        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 278693,
+      "name": "The Festival (feat. Little Dragon)",
+      "url": "https://open.spotify.com/track/1cMIaPv3DTyOGeNe2h6igm"
     }
   ],
   "unique_name": "main ",

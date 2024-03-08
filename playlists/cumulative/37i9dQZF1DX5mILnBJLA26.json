@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b?si=mqi_Wtu4S-6hG_nVj3fxJQ\">Masterpiece YVK</a>",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b?si=mqi_Wtu4S-6hG_nVj3fxJQ\">Riky Rick</a>",
   "name": "AMAPIANO grooves",
   "tracks": [
     {
@@ -10442,6 +10442,48 @@
       "duration_ms": 237901,
       "name": "iLacoste - Radio Edit",
       "url": "https://open.spotify.com/track/3DGlNsQgpEsf4AAwSpmRIw"
+    },
+    {
+      "album": {
+        "name": "Ilanga (feat. Kelvin Momo, Baby S.O.N., Z\u0101dok & Mas Musiq)",
+        "url": "https://open.spotify.com/album/5vIgTRlNDx4PFcfrG927QQ"
+      },
+      "artists": [
+        {
+          "name": "Riky Rick",
+          "url": "https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO"
+        },
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        },
+        {
+          "name": "Kelvin Momo",
+          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
+        },
+        {
+          "name": "Baby S.O.N",
+          "url": "https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6"
+        },
+        {
+          "name": "Zadok",
+          "url": "https://open.spotify.com/artist/3Y8nWJCJ6ehzX3o5vDgBFa"
+        },
+        {
+          "name": "Mas Musiq",
+          "url": "https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447628,
+      "name": "Ilanga (feat. Kelvin Momo, Baby S.O.N., Z\u0101dok & Mas Musiq)",
+      "url": "https://open.spotify.com/track/7fEapeV5xbu7bEHIuNPwF5"
     },
     {
       "album": {
@@ -22582,7 +22624,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 331377,
       "name": "Sgudi Snyc",
       "url": "https://open.spotify.com/track/0XSYoJ0MJpMB2tddyRcBEC"

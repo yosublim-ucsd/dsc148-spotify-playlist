@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-18",
-  "description": "Only the best in South African and international RnB. Cover: <a href=\"https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA?si=k4DFCvkkR02xdMIFWyvsIA\">Ricky Tyler</a>, <a href=\"https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X?si=BpFQ2gMISXGC5lAblqoGFg\">Bien</a>",
+  "description": "Only the best in South African and international RnB. Cover: <a href=\"https://open.spotify.com/artist/2G6bNldbTZU1viUkX5Myuq?si=1UKjIfHAQr-3xREv2XSOFw\">Hunter Rose</a>",
   "name": "R&Beats",
   "tracks": [
     {
@@ -1309,6 +1309,28 @@
     },
     {
       "album": {
+        "name": "Gimme That",
+        "url": "https://open.spotify.com/album/20eUVqxK9iITuO84gvl9o5"
+      },
+      "artists": [
+        {
+          "name": "EASY FREAK",
+          "url": "https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S"
+        },
+        {
+          "name": "Una Rams",
+          "url": "https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244946,
+      "name": "Gimme That",
+      "url": "https://open.spotify.com/track/1mZgGbjHRXz0PbHAMAXZFM"
+    },
+    {
+      "album": {
         "name": "Give It To You",
         "url": "https://open.spotify.com/album/4oQGwgVPCLbzvkFTl4AhyP"
       },
@@ -1386,6 +1408,28 @@
       "duration_ms": 222000,
       "name": "Hate Crowds",
       "url": "https://open.spotify.com/track/3vEYqqhLAo9AsDoAWdAB4G"
+    },
+    {
+      "album": {
+        "name": "FOR YOU, FOREVER",
+        "url": "https://open.spotify.com/album/6q8rLOzjZMAGt2M1f4syHl"
+      },
+      "artists": [
+        {
+          "name": "2am",
+          "url": "https://open.spotify.com/artist/54avHNJAk1hlKRoqrbVx2d"
+        },
+        {
+          "name": "Karabo",
+          "url": "https://open.spotify.com/artist/2nPtQTbG4YCBrkSftUoiG3"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202363,
+      "name": "HOME",
+      "url": "https://open.spotify.com/track/4MKnbbcCLbuTMWo8JBk8ej"
     },
     {
       "album": {
@@ -2421,6 +2465,24 @@
     },
     {
       "album": {
+        "name": "PAST MYSELF",
+        "url": "https://open.spotify.com/album/0ZXOuk6KcYEGrYoXTlh3y2"
+      },
+      "artists": [
+        {
+          "name": "Filah Lah Lah",
+          "url": "https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160824,
+      "name": "PAST MYSELF",
+      "url": "https://open.spotify.com/track/7dHrE8omPpvgst2M9ZEQmf"
+    },
+    {
+      "album": {
         "name": "Patience",
         "url": "https://open.spotify.com/album/2r3ahud5u7iTnFvUx4lPPm"
       },
@@ -3134,6 +3196,28 @@
       "duration_ms": 176386,
       "name": "till forever ends",
       "url": "https://open.spotify.com/track/2ZVOWgbP2Nj76kctTF1jjX"
+    },
+    {
+      "album": {
+        "name": "HOLDING/EVOLVING",
+        "url": "https://open.spotify.com/album/5eMsBt8WjfQYROA2dSnG33"
+      },
+      "artists": [
+        {
+          "name": "Hunter Rose",
+          "url": "https://open.spotify.com/artist/2G6bNldbTZU1viUkX5Myuq"
+        },
+        {
+          "name": "Maloon TheBoom",
+          "url": "https://open.spotify.com/artist/66xnl7wTIoeKdJV2YblQp4"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200571,
+      "name": "TIME",
+      "url": "https://open.spotify.com/track/4abv3ao51qRblxKxkYfw56"
     },
     {
       "album": {

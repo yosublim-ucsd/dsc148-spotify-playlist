@@ -1,5 +1,5 @@
 {
-  "2024-03-07": 759449,
+  "2024-03-08": 759458,
   "date_first_scraped": "2021-12-21",
   "description": "The soulful tunes to ease you into your day.",
   "name": "Soul Coffee",
@@ -4551,7 +4551,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 172018,
       "name": "Love Me Down",
       "url": "https://open.spotify.com/track/50dMlZYLpRrPjiaaik0PVp"
@@ -8637,6 +8637,24 @@
       "duration_ms": 299510,
       "name": "Where Do We Go",
       "url": "https://open.spotify.com/track/6fEPi1QSs4y0AXc2NqxsK5"
+    },
+    {
+      "album": {
+        "name": "Where Have I Been?",
+        "url": "https://open.spotify.com/album/5ARvrX3Ec7G4vMp5cpeNoH"
+      },
+      "artists": [
+        {
+          "name": "Jade Novah",
+          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224040,
+      "name": "Where Have I Been?",
+      "url": "https://open.spotify.com/track/7LJDu7j29gWGyM1R2c224J"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-03-07": 137,
+  "2024-03-08": 139,
   "date_first_scraped": "2023-10-05",
   "description": "Empez\u00f3 el zapateo. \u00a1Take tarake take!",
   "name": "Privadito",
@@ -654,6 +654,24 @@
     },
     {
       "album": {
+        "name": "Fayna",
+        "url": "https://open.spotify.com/album/0IDL6OcStHegG1EjCfo1CK"
+      },
+      "artists": [
+        {
+          "name": "LEEB",
+          "url": "https://open.spotify.com/artist/3OW9y2kM7N3BAEksWU2xZM"
+        }
+      ],
+      "date_added": "2021-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173769,
+      "name": "Fayna",
+      "url": "https://open.spotify.com/track/5RPRDOlIKvGOnLFuZcfJ47"
+    },
+    {
+      "album": {
         "name": "Fayna (Radio Edit)",
         "url": "https://open.spotify.com/album/2MPxIowfr48t0l6NDORABe"
       },
@@ -665,7 +683,7 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 171894,
       "name": "Fayna - Radio Edit",
       "url": "https://open.spotify.com/track/6P7YcQvewBbmQzBQNtlLXl"
@@ -1979,7 +1997,7 @@
     {
       "album": {
         "name": "Yo Le Doy",
-        "url": "https://open.spotify.com/album/6wtYKy3CWRxxmY590nyD33"
+        "url": "https://open.spotify.com/album/1sq7WJ4M7NsnpuGxs0JVVS"
       },
       "artists": [
         {
@@ -1998,6 +2016,32 @@
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 191484,
+      "name": "Yo Le Doy",
+      "url": "https://open.spotify.com/track/1xsUgc8NoDYvkuiiLhivSb"
+    },
+    {
+      "album": {
+        "name": "Yo Le Doy",
+        "url": "https://open.spotify.com/album/6wtYKy3CWRxxmY590nyD33"
+      },
+      "artists": [
+        {
+          "name": "LEEB",
+          "url": "https://open.spotify.com/artist/3OW9y2kM7N3BAEksWU2xZM"
+        },
+        {
+          "name": "Kafu Banton",
+          "url": "https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij"
+        },
+        {
+          "name": "Aldair Productions",
+          "url": "https://open.spotify.com/artist/6WFulj4XIc6vkUDXGaDvbN"
+        }
+      ],
+      "date_added": "2021-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-07",
       "duration_ms": 191484,
       "name": "Yo Le Doy",
       "url": "https://open.spotify.com/track/2i6Lvfy5CJmmqdvl7DgVqT"

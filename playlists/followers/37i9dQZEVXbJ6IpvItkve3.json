@@ -1,5 +1,5 @@
 {
-  "2024-03-07": 60779,
+  "2024-03-08": 60806,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Israel.",
   "name": "Top 50 - Israel",
@@ -317,7 +317,7 @@
       ],
       "date_added": "2024-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-05",
+      "date_removed": null,
       "duration_ms": 125093,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt"
@@ -6477,7 +6477,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"

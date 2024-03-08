@@ -2,7 +2,7 @@
 
 ### [Maroc Hits](https://open.spotify.com/playlist/37i9dQZF1DX4NdDHVFmygr)
 
-> Les hits marocains du moment\. Cover: DYSTINCT
+> Les hits marocains du moment\. Cover: Kawtar
 
 352 songs - 18 hr 56 min
 

@@ -4,7 +4,7 @@
 
 > The most streamed Ambient X tracks in 2023\. ANNA on cover\. \#spotifywrapped
 
-210 songs - 16 hr 12 min
+211 songs - 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,8 @@
 | [The Marrow Thieves](https://open.spotify.com/track/09LnT0qfWTuOMsSElTczCE) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [Futures](https://open.spotify.com/album/1vOuSLwIsw8fLB3JFlFN8t) | 4:55 | 2023-01-01 | 2023-11-30 |
 | [The Slow Descent Has Begun](https://open.spotify.com/track/3tat3mAgHDCYohY1fQUIhq) | [A Winged Victory for the Sullen](https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1), [Adam Wiltzie](https://open.spotify.com/artist/5W6H1jJ9bQMcUm1G2iToMs), [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [The Undivided Five](https://open.spotify.com/album/3AuhGsh99iTqA57kn3rzvl) | 4:55 | 2023-11-29 |  |
 | [the ukimidou on the lake](https://open.spotify.com/track/2rYjxArb1diLCkw4n0v16M) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [the ukimidou on the lake](https://open.spotify.com/album/0xaOKFIBwh8lxgDSzTqZ2f) | 3:28 | 2023-01-01 | 2023-11-30 |
-| [The Weavers](https://open.spotify.com/track/34dBNgalCO1L56XU5xYndy) | [Syntropy](https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU) | [The Weavers](https://open.spotify.com/album/7A65Zvm39UKY1t1DCVpjPs) | 2:32 | 2023-11-29 |  |
+| [The Weavers](https://open.spotify.com/track/34dBNgalCO1L56XU5xYndy) | [Syntropy](https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU) | [The Weavers](https://open.spotify.com/album/7A65Zvm39UKY1t1DCVpjPs) | 2:32 | 2023-11-29 | 2024-03-08 |
+| [The Weavers](https://open.spotify.com/track/369o29dUikcL6KRlBgQ56k) | [Syntropy](https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU) | [The Weavers](https://open.spotify.com/album/4hJezLZQ5FelLjspQcIhJI) | 2:32 | 2023-11-29 |  |
 | [Theme of "Life is Climbing"](https://open.spotify.com/track/1Y5C90kdNrb0PiYZeGkMNA) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Life Is Climbing \(Original Soundtrack\)](https://open.spotify.com/album/7BQe4AH6Y9i94rRSqBFShZ) | 4:55 | 2023-11-29 |  |
 | [There Were Bells](https://open.spotify.com/track/16e88gyG4rLhaAAYqRPujQ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 4:52 | 2023-01-01 | 2023-11-30 |
 | [This Thirsty Earth](https://open.spotify.com/track/2KwubOqTh4dJ6AUCeUYuAq) | [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf), [Antarctic Wastelands](https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1) | [Garden Heart: Reworks](https://open.spotify.com/album/1TbsrNNEfLDRW6bc2gSsLx) | 2:54 | 2023-11-29 |  |

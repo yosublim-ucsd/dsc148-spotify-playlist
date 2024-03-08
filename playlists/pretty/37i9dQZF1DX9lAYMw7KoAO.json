@@ -1,13 +1,33 @@
 {
   "description": "The Hottest Christian and Gospel music from across the African continent.  Cover:  <a href=\"https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp?si=L5kMchupSyqaemFH_JfsDA\">Mercy Chinwo</a>",
-  "num_followers": 133422,
+  "num_followers": 133699,
   "original_name": "African Gospel Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzBjZGUyNWFjNzkzNDY3ZDk2Yjg2YmI1OWFiMjFmOTg0YWRlOWYz",
+  "snapshot_id": "MCxhN2U2NjVjNGVjNWVlYmZhYzAyOWI1MmE5YWMwOGM4ODc5ZmIyODZh",
   "tracks": [
+    {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
+        "name": "Good God II",
+        "url": "https://open.spotify.com/album/2Lr7qw2RPpX6YXu2HjxEMm"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "duration_ms": 181710,
+      "name": "Good God II",
+      "url": "https://open.spotify.com/track/19GRiA2ef367zIrmAm54e1"
+    },
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
@@ -935,22 +955,6 @@
       "duration_ms": 500087,
       "name": "Moy\u2019 Oyingcwele (Live)",
       "url": "https://open.spotify.com/track/710zL5SAbc6dbHEsLiBwME"
-    },
-    {
-      "added_at": "2024-01-03 09:40:15",
-      "album": {
-        "name": "Sounds of Testimonies",
-        "url": "https://open.spotify.com/album/4wmV8eWeMnWG8MgkOwPD4o"
-      },
-      "artists": [
-        {
-          "name": "Apex Choir",
-          "url": "https://open.spotify.com/artist/7HIOJjMPWrpsgduor6TGNr"
-        }
-      ],
-      "duration_ms": 869867,
-      "name": "Ebenezeri",
-      "url": "https://open.spotify.com/track/26xEQqFIwdwiGa3l14lkDI"
     },
     {
       "added_at": "2024-01-03 09:40:15",

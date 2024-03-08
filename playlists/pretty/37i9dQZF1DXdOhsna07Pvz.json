@@ -1,12 +1,12 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 70106,
+  "num_followers": 70171,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDYzYjNkZDEzMDhkNzUwNDEwN2VjMzUxYWRjZTBjOGQ2ZWQ4ODQx",
+  "snapshot_id": "MCwzYTI2OWQ1NmJmY2UzYzhkZWM2NWMzMWUwZWEyMWNhYWNkMDcwNTdh",
   "tracks": [
     {
       "added_at": "2022-09-22 18:13:04",
@@ -419,18 +419,18 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Verde Anil Amarelo Cor de Rosa e Carv\u00e3o",
-        "url": "https://open.spotify.com/album/26OYzOWjelS4qNuP27Ac6i"
+        "name": "Gr\u00e1vido",
+        "url": "https://open.spotify.com/album/2sTdX5IvSvf8cZLUcnAlc0"
       },
       "artists": [
         {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+          "name": "Gonzaguinha",
+          "url": "https://open.spotify.com/artist/1LOFaxDBvn3YuvarTldGAe"
         }
       ],
-      "duration_ms": 214866,
-      "name": "Na Estrada",
-      "url": "https://open.spotify.com/track/56CE8SdkpSl9OKbF14FALz"
+      "duration_ms": 251146,
+      "name": "Lindo Lago Do Amor",
+      "url": "https://open.spotify.com/track/0dsn6r2gtpmtcsdDHsjFes"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -451,34 +451,18 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Gr\u00e1vido",
-        "url": "https://open.spotify.com/album/2sTdX5IvSvf8cZLUcnAlc0"
+        "name": "Verde Anil Amarelo Cor de Rosa e Carv\u00e3o",
+        "url": "https://open.spotify.com/album/26OYzOWjelS4qNuP27Ac6i"
       },
       "artists": [
         {
-          "name": "Gonzaguinha",
-          "url": "https://open.spotify.com/artist/1LOFaxDBvn3YuvarTldGAe"
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
         }
       ],
-      "duration_ms": 251146,
-      "name": "Lindo Lago Do Amor",
-      "url": "https://open.spotify.com/track/0dsn6r2gtpmtcsdDHsjFes"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Tete a Tete Margareth",
-        "url": "https://open.spotify.com/album/0rXrK44NTKFieEwoGVfIMK"
-      },
-      "artists": [
-        {
-          "name": "Margareth Menezes",
-          "url": "https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD"
-        }
-      ],
-      "duration_ms": 334133,
-      "name": "Fara\u00f3",
-      "url": "https://open.spotify.com/track/6sDFxI3dj8r1EsscyedSeX"
+      "duration_ms": 214866,
+      "name": "Na Estrada",
+      "url": "https://open.spotify.com/track/56CE8SdkpSl9OKbF14FALz"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -495,6 +479,22 @@
       "duration_ms": 152613,
       "name": "Nem Vem Que N\u00e3o Tem",
       "url": "https://open.spotify.com/track/0oL8aqq5iRE5SnxdxJ6FbK"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Tete a Tete Margareth",
+        "url": "https://open.spotify.com/album/0rXrK44NTKFieEwoGVfIMK"
+      },
+      "artists": [
+        {
+          "name": "Margareth Menezes",
+          "url": "https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD"
+        }
+      ],
+      "duration_ms": 334133,
+      "name": "Fara\u00f3",
+      "url": "https://open.spotify.com/track/6sDFxI3dj8r1EsscyedSeX"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Conversa Fiada",
+        "url": "https://open.spotify.com/album/2V0ZVQuPdzePp6hO19WFWm"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 196810,
+      "name": "Conversa Fiada",
+      "url": "https://open.spotify.com/track/6r4NNOFLKjjsqdK6fq4qoY"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Rita Lee",
         "url": "https://open.spotify.com/album/1WN3eZOVfULIjZfxdsfoMO"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 284160,
       "name": "Vaca Profana",
       "url": "https://open.spotify.com/track/1viMg0yGmgWy1EeR7CNeyF"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Conversa Fiada",
-        "url": "https://open.spotify.com/album/2V0ZVQuPdzePp6hO19WFWm"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        }
-      ],
-      "duration_ms": 196810,
-      "name": "Conversa Fiada",
-      "url": "https://open.spotify.com/track/6r4NNOFLKjjsqdK6fq4qoY"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -1051,18 +1051,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Meus Momentos",
-        "url": "https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk"
+        "name": "Rosa Neon",
+        "url": "https://open.spotify.com/album/3Cp8fCtFU6VIi9lqwsgobL"
       },
       "artists": [
         {
-          "name": "Clara Nunes",
-          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+          "name": "Rosa Neon",
+          "url": "https://open.spotify.com/artist/1dZEJGHOEVRro2A3sCKegm"
+        },
+        {
+          "name": "MGZD",
+          "url": "https://open.spotify.com/artist/1cHmaXK1swLBgd3TDo60sh"
         }
       ],
-      "duration_ms": 179120,
-      "name": "O Mar Serenou",
-      "url": "https://open.spotify.com/track/5rsdJ481oIM9OYyrqcEwWt"
+      "duration_ms": 169477,
+      "name": "Fala L\u00e1 Pra Ela",
+      "url": "https://open.spotify.com/track/5aTOYS7orRPTlc9DOa2CI6"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -1083,22 +1087,18 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Rosa Neon",
-        "url": "https://open.spotify.com/album/3Cp8fCtFU6VIi9lqwsgobL"
+        "name": "Meus Momentos",
+        "url": "https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk"
       },
       "artists": [
         {
-          "name": "Rosa Neon",
-          "url": "https://open.spotify.com/artist/1dZEJGHOEVRro2A3sCKegm"
-        },
-        {
-          "name": "MGZD",
-          "url": "https://open.spotify.com/artist/1cHmaXK1swLBgd3TDo60sh"
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
         }
       ],
-      "duration_ms": 169477,
-      "name": "Fala L\u00e1 Pra Ela",
-      "url": "https://open.spotify.com/track/5aTOYS7orRPTlc9DOa2CI6"
+      "duration_ms": 179120,
+      "name": "O Mar Serenou",
+      "url": "https://open.spotify.com/track/5rsdJ481oIM9OYyrqcEwWt"
     },
     {
       "added_at": "2022-09-22 18:13:04",

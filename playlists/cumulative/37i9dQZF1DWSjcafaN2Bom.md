@@ -4,7 +4,7 @@
 
 > Finish together\. Listen to the official playlist for Sex Education, now streaming on Netflix.
 
-367 songs - 22 hr 50 min
+369 songs - 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Can't Hardly Wait \- 2008 Remaster](https://open.spotify.com/track/0NX14YH2t16bwwlJSfXazr) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Pleased to Meet Me \(Expanded\)](https://open.spotify.com/album/2kTTz2kpR2AXtBmiIZEyyv) | 3:08 | 2021-10-26 |  |
 | [Care](https://open.spotify.com/track/6QTjREGJzLGKVGr6wY1Wq4) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Sex Education Original Soundtrack](https://open.spotify.com/album/0d5VbUpz8dcGC17Jkm3og4) | 3:16 | 2023-08-22 |  |
 | [Casta Diva, a Belloa Me Ritono](https://open.spotify.com/track/6pgp5jFDtdU7QNVcd6vktL) | [Maria Callas](https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E) | [Diva](https://open.spotify.com/album/6RFI2C0EeWJlflgcWaZCUC) | 5:36 | 2023-09-21 |  |
-| [Chapstick](https://open.spotify.com/track/3HYgvYoKtEqAnNy47bUmNx) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [Haus Party, Pt\. 1](https://open.spotify.com/album/7HuGa9781G05ax5o354dpo) | 2:38 | 2023-09-21 |  |
+| [Chapstick](https://open.spotify.com/track/3HYgvYoKtEqAnNy47bUmNx) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [Haus Party, Pt\. 1](https://open.spotify.com/album/7HuGa9781G05ax5o354dpo) | 2:38 | 2023-09-21 | 2024-03-08 |
+| [Chapstick](https://open.spotify.com/track/6qpqqI07zudnnHvzMTOF9J) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [Haus Party, Pt\. 1](https://open.spotify.com/album/1Gx8BjmZq4270ry6i4X6RB) | 2:38 | 2023-09-25 |  |
 | [China In Your Hand](https://open.spotify.com/track/0ow5yxh0ouMJ0om8EyEt8P) | [T'Pau](https://open.spotify.com/artist/47qTcvYlqJGAEsCI7BcENC) | [Bridge Of Spies](https://open.spotify.com/album/4SPn8H4z20nwhB2Srcal6T) | 5:06 | 2023-09-21 |  |
 | [Christian](https://open.spotify.com/track/4YycfOjf69dXYs4hy4Qeqr) | [China Crisis](https://open.spotify.com/artist/0WUphJOGHE5i95IeR87hsO) | [Singing The Praises Of Finer Things](https://open.spotify.com/album/79stlPh6R05UMR98gZ1Le1) | 4:53 | 2023-08-22 |  |
 | [Cleo](https://open.spotify.com/track/329bGHOHCK2HFuTkrVvJKQ) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Cleo](https://open.spotify.com/album/5KSCqW3RuJ9TFnfRl4uR7H) | 3:49 | 2023-09-21 |  |
@@ -236,7 +237,8 @@
 | [Mysterious Power](https://open.spotify.com/track/3O1TxpDQzLKu8S0uMAEkkC) | [Ezra Furman & The Harpoons](https://open.spotify.com/artist/6mMA3DehwLwdvO6YlwUFHk) | [Mysterious Power](https://open.spotify.com/album/2UxFvYFHXR1mKurBo95GmH) | 3:08 | 2023-08-22 |  |
 | [Mysterious Power](https://open.spotify.com/track/3sBRhgrhGeT39oBWvuHHnF) | [Ezra Furman & The Harpoons](https://open.spotify.com/artist/6mMA3DehwLwdvO6YlwUFHk) | [Sex Education: Songs from Season 3](https://open.spotify.com/album/5CGSdovQvDlAaaD7xqpGX7) | 3:08 | 2023-08-22 |  |
 | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c) | 4:08 | 2023-08-22 |  |
-| [Nails, Hair, Hips, Heels](https://open.spotify.com/track/3gWIY6WqA34ZRy8QVjTq5v) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [Haus Party, Pt\. 1](https://open.spotify.com/album/7HuGa9781G05ax5o354dpo) | 3:56 | 2023-08-22 |  |
+| [Nails, Hair, Hips, Heels](https://open.spotify.com/track/0tJlqVYEo0r1CGw4gY6s53) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [Haus Party, Pt\. 1](https://open.spotify.com/album/1Gx8BjmZq4270ry6i4X6RB) | 3:56 | 2023-09-25 |  |
+| [Nails, Hair, Hips, Heels](https://open.spotify.com/track/3gWIY6WqA34ZRy8QVjTq5v) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [Haus Party, Pt\. 1](https://open.spotify.com/album/7HuGa9781G05ax5o354dpo) | 3:56 | 2023-08-22 | 2024-03-08 |
 | [Nancy Drew](https://open.spotify.com/track/08faxdu07ofBJNaB7PFMsm) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Try Not to Freak Out](https://open.spotify.com/album/6p7snuB7yaTbPM54e9VDko) | 3:15 | 2023-08-22 |  |
 | [Never My Love](https://open.spotify.com/track/2cwjS2UkebBgXfQgUZvr4W) | [The Association](https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS) | [Greatest Hits](https://open.spotify.com/album/5uLfogUTD4gfj2md4mrJwv) | 3:10 | 2023-08-22 |  |
 | [New Radio](https://open.spotify.com/track/2n5MF85CukE7ios8yfqxMC) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 1:34 | 2023-09-21 |  |

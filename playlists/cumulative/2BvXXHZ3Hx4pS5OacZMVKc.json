@@ -2479,6 +2479,28 @@
     },
     {
       "album": {
+        "name": "Galactic",
+        "url": "https://open.spotify.com/album/7KylNpVIx4aYFZR7WNI1mx"
+      },
+      "artists": [
+        {
+          "name": "Natty Lou",
+          "url": "https://open.spotify.com/artist/01iBGqeIP82ClBsWKXEW1O"
+        },
+        {
+          "name": "Sebotage",
+          "url": "https://open.spotify.com/artist/6wGjRjiTXERLfPwoMY19iP"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203314,
+      "name": "Galactic",
+      "url": "https://open.spotify.com/track/2XG44lK8ODf0Ziikx8pzxo"
+    },
+    {
+      "album": {
         "name": "Game Over",
         "url": "https://open.spotify.com/album/07EtgZaV0yshfe6Q3P6vKL"
       },

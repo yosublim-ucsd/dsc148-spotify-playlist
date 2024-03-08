@@ -318,6 +318,24 @@
     {
       "album": {
         "name": "A Savage Life",
+        "url": "https://open.spotify.com/album/3KjdYYN3zxrVuSquE3T2Jc"
+      },
+      "artists": [
+        {
+          "name": "Dom Martin",
+          "url": "https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167330,
+      "name": "Blues On The Bay",
+      "url": "https://open.spotify.com/track/2riYO95LRNi3opTP534pwK"
+    },
+    {
+      "album": {
+        "name": "A Savage Life",
         "url": "https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B"
       },
       "artists": [
@@ -400,7 +418,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 309614,
       "name": "Chinook Blues",
       "url": "https://open.spotify.com/track/1AyxLC8AnaNOF2e6zeGbpR"

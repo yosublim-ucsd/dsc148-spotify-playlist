@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 146911,
+  "num_followers": 146913,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZmU3MWY5MDhlN2RlMjhiNjVhM2YyYTVhMjdhMTBiZjBhOGQ0ZTUy",
+  "snapshot_id": "MCw3OTU3MTcxOWU2Y2JmZWU3NzU1ZWNlN2QzZmE2Yzg3YTFhZjY5MWFm",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Southern",
-        "url": "https://open.spotify.com/album/0MyKGDeK3cGq2J2fkSMfhd"
-      },
-      "artists": [
-        {
-          "name": "Katie Noel",
-          "url": "https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt"
-        }
-      ],
-      "duration_ms": 183336,
-      "name": "Southern",
-      "url": "https://open.spotify.com/track/60TduAd1s7rhsqmzXQxk9m"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Mud Digger 4",
         "url": "https://open.spotify.com/album/2RG6477nEGHWCoyVCi7dSh"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 263706,
       "name": "Field Party",
       "url": "https://open.spotify.com/track/2DI1SvvgzhIybzuM0AjyvR"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Southern",
+        "url": "https://open.spotify.com/album/0MyKGDeK3cGq2J2fkSMfhd"
+      },
+      "artists": [
+        {
+          "name": "Katie Noel",
+          "url": "https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt"
+        }
+      ],
+      "duration_ms": 183336,
+      "name": "Southern",
+      "url": "https://open.spotify.com/track/60TduAd1s7rhsqmzXQxk9m"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Redneck Rich",
+        "url": "https://open.spotify.com/album/2HPDTl7R8lbS0ixXjq8d0Q"
+      },
+      "artists": [
+        {
+          "name": "Cody Parks and The Dirty South",
+          "url": "https://open.spotify.com/artist/0jItMOxRNh3sya33eTx4Nk"
+        }
+      ],
+      "duration_ms": 282462,
+      "name": "Redneck Rich",
+      "url": "https://open.spotify.com/track/24LpH8iRf7m5yHLc2QRnbi"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Roll With Me (feat. Chris Hurt)",
         "url": "https://open.spotify.com/album/0Z9gSWFPbpjJ9HlADRXnFE"
       },
@@ -1383,22 +1399,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Mud Digger 10",
-        "url": "https://open.spotify.com/album/3cEqyZsmcwm80vqeFofnDp"
-      },
-      "artists": [
-        {
-          "name": "Sam Grow",
-          "url": "https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs"
-        }
-      ],
-      "duration_ms": 162332,
-      "name": "Kiss My Ass",
-      "url": "https://open.spotify.com/track/5iPAaPFEMm9adSSaD5vCid"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "BUCKLE BUNNY",
         "url": "https://open.spotify.com/album/0s3PLrYRp1PojvP8W9g1qS"
       },
@@ -1415,22 +1415,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Stomp Them Boots",
-        "url": "https://open.spotify.com/album/2k5eUp67yseXCF3pe4FjMJ"
+        "name": "Mud Digger 10",
+        "url": "https://open.spotify.com/album/3cEqyZsmcwm80vqeFofnDp"
       },
       "artists": [
         {
-          "name": "Young Gunner",
-          "url": "https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1"
-        },
-        {
-          "name": "Twang and Round",
-          "url": "https://open.spotify.com/artist/6K01VDVF9BORq58XTAR1aM"
+          "name": "Sam Grow",
+          "url": "https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs"
         }
       ],
-      "duration_ms": 235161,
-      "name": "Stomp Them Boots",
-      "url": "https://open.spotify.com/track/1x3kToYa48N2Zb0MOc7iiG"
+      "duration_ms": 162332,
+      "name": "Kiss My Ass",
+      "url": "https://open.spotify.com/track/5iPAaPFEMm9adSSaD5vCid"
     }
   ],
   "unique_name": "Field Party",

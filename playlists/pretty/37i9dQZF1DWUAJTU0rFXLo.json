@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas que fazem de qualquer hora, a mais perfeita para um baile! Foto: Carlos Daf\u00e9",
-  "num_followers": 29699,
+  "num_followers": 29716,
   "original_name": "Baile Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDEyNzk1YzJiMDIzZDZmZTMxMjYzZjQ0ZjZlNmQwNTY3NjE0NzBh",
+  "snapshot_id": "MCw1YjhkN2Q5YzVhYThmMDIxZDcyOWNmY2IxY2JmMGU0OTVlZDA2M2E3",
   "tracks": [
     {
       "added_at": "2024-02-23 03:01:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-02-23 03:01:00",
       "album": {
-        "name": "A Banda do Z\u00e9 Pretinho",
-        "url": "https://open.spotify.com/album/2C94EAIFBPnTcq7z8Xj7oe"
-      },
-      "artists": [
-        {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
-        }
-      ],
-      "duration_ms": 239973,
-      "name": "A Banda do Z\u00e9 Pretinho",
-      "url": "https://open.spotify.com/track/4jSiAZQpsA1mAS3RE0UHCo"
-    },
-    {
-      "added_at": "2024-02-23 03:01:00",
-      "album": {
         "name": "Eva",
         "url": "https://open.spotify.com/album/2LPm1l02jbRkixf0brUFfP"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 166906,
       "name": "Olha Eu Aqui Oh! Oh! Oh!...",
       "url": "https://open.spotify.com/track/2KQF7yoMJw9C5KnoKPd1Kr"
+    },
+    {
+      "added_at": "2024-02-23 03:01:00",
+      "album": {
+        "name": "A Banda do Z\u00e9 Pretinho",
+        "url": "https://open.spotify.com/album/2C94EAIFBPnTcq7z8Xj7oe"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "duration_ms": 239973,
+      "name": "A Banda do Z\u00e9 Pretinho",
+      "url": "https://open.spotify.com/track/4jSiAZQpsA1mAS3RE0UHCo"
     },
     {
       "added_at": "2024-02-23 03:01:00",

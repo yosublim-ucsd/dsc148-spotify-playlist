@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 241517,
+  "num_followers": 241531,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmUwYjA1YWU4MTBiYjcxNDBkMWFiNWU0OTA3ZWVlZDdlNGIwODVh",
+  "snapshot_id": "MCxlOWM3NDIyNzk2YmIxZDRjZDgyMWI4YjYwOThlOWE1YTk3YzNiZGQ5",
   "tracks": [
     {
       "added_at": "2024-03-01 09:11:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-03-01 09:11:00",
       "album": {
-        "name": "Murder In The Bed",
-        "url": "https://open.spotify.com/album/2QDJ3wDeaOtOB4nazB3I52"
-      },
-      "artists": [
-        {
-          "name": "B Young",
-          "url": "https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp"
-        }
-      ],
-      "duration_ms": 146713,
-      "name": "Murder In The Bed",
-      "url": "https://open.spotify.com/track/7IP5bvMzmeXp7T1NG6gdBr"
-    },
-    {
-      "added_at": "2024-03-01 09:11:00",
-      "album": {
         "name": "FYS",
         "url": "https://open.spotify.com/album/7IKErQGBssaKQHzBxgBuzt"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 209202,
       "name": "FYS",
       "url": "https://open.spotify.com/track/5IVhQWFgCahKesfuioh4OG"
+    },
+    {
+      "added_at": "2024-03-01 09:11:00",
+      "album": {
+        "name": "Murder In The Bed",
+        "url": "https://open.spotify.com/album/2QDJ3wDeaOtOB4nazB3I52"
+      },
+      "artists": [
+        {
+          "name": "B Young",
+          "url": "https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp"
+        }
+      ],
+      "duration_ms": 146713,
+      "name": "Murder In The Bed",
+      "url": "https://open.spotify.com/track/7IP5bvMzmeXp7T1NG6gdBr"
     },
     {
       "added_at": "2024-03-01 09:11:00",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-03-01 09:11:00",
       "album": {
+        "name": "Bestie",
+        "url": "https://open.spotify.com/album/6kRPeBs9unh27QfKtYy0GE"
+      },
+      "artists": [
+        {
+          "name": "Rotimi",
+          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Bestie",
+      "url": "https://open.spotify.com/track/0O3oO62iQhp16xX0Z7lqNW"
+    },
+    {
+      "added_at": "2024-03-01 09:11:00",
+      "album": {
         "name": "Risk It All (From the Original Motion Picture \u201cThe Color Purple\u201d)",
         "url": "https://open.spotify.com/album/56QjItp9BaAC2e7GkYZLwd"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 201347,
       "name": "Risk It All - From the Original Motion Picture \u201cThe Color Purple\u201d",
       "url": "https://open.spotify.com/track/4zSlPg0zHNNRukp2p07jrm"
-    },
-    {
-      "added_at": "2024-03-01 09:11:00",
-      "album": {
-        "name": "Bestie",
-        "url": "https://open.spotify.com/album/6kRPeBs9unh27QfKtYy0GE"
-      },
-      "artists": [
-        {
-          "name": "Rotimi",
-          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Bestie",
-      "url": "https://open.spotify.com/track/0O3oO62iQhp16xX0Z7lqNW"
     },
     {
       "added_at": "2024-03-01 09:11:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-03-01 09:11:00",
       "album": {
-        "name": "FIRST PLACE",
-        "url": "https://open.spotify.com/album/2WqRCYXLCzsxMNLM5gYuAo"
-      },
-      "artists": [
-        {
-          "name": "Lavils",
-          "url": "https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX"
-        }
-      ],
-      "duration_ms": 121211,
-      "name": "FIRST PLACE",
-      "url": "https://open.spotify.com/track/0eOyi2vAmX9ZxXhZ1aAEMy"
-    },
-    {
-      "added_at": "2024-03-01 09:11:00",
-      "album": {
         "name": "You Don't Call Me",
         "url": "https://open.spotify.com/album/3RlJ4V1jScGEXcwajF3BkM"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 147295,
       "name": "You Don't Call Me",
       "url": "https://open.spotify.com/track/1t7bjA1KnsOmxIbvfi7WMc"
+    },
+    {
+      "added_at": "2024-03-01 09:11:00",
+      "album": {
+        "name": "FIRST PLACE",
+        "url": "https://open.spotify.com/album/2WqRCYXLCzsxMNLM5gYuAo"
+      },
+      "artists": [
+        {
+          "name": "Lavils",
+          "url": "https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX"
+        }
+      ],
+      "duration_ms": 121211,
+      "name": "FIRST PLACE",
+      "url": "https://open.spotify.com/track/0eOyi2vAmX9ZxXhZ1aAEMy"
     },
     {
       "added_at": "2024-03-01 09:11:00",
@@ -867,6 +867,26 @@
     {
       "added_at": "2024-03-01 09:11:00",
       "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/3KzXjaZ3bOVtC6RgFCkUTE"
+      },
+      "artists": [
+        {
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+        },
+        {
+          "name": "J Warner",
+          "url": "https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo"
+        }
+      ],
+      "duration_ms": 215152,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/15SHKUdlRaqIVTJWcP5n5a"
+    },
+    {
+      "added_at": "2024-03-01 09:11:00",
+      "album": {
         "name": "Room Full Of Love",
         "url": "https://open.spotify.com/album/0NqK6iQuCSulrXQ9hr6oKO"
       },
@@ -883,6 +903,22 @@
       "duration_ms": 239600,
       "name": "Room Full Of Love",
       "url": "https://open.spotify.com/track/5zthp0rjPhiX8Vty5tmbzF"
+    },
+    {
+      "added_at": "2024-03-01 09:11:00",
+      "album": {
+        "name": "Deeper",
+        "url": "https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "duration_ms": 214455,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/4NfGgVjYu5xqBLYAFdw7F0"
     },
     {
       "added_at": "2024-03-01 09:11:00",
@@ -907,22 +943,6 @@
     {
       "added_at": "2024-03-01 09:11:00",
       "album": {
-        "name": "Deeper",
-        "url": "https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR"
-      },
-      "artists": [
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        }
-      ],
-      "duration_ms": 214455,
-      "name": "Deeper",
-      "url": "https://open.spotify.com/track/4NfGgVjYu5xqBLYAFdw7F0"
-    },
-    {
-      "added_at": "2024-03-01 09:11:00",
-      "album": {
         "name": "IRL",
         "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
       },
@@ -939,28 +959,8 @@
     {
       "added_at": "2024-03-01 09:11:00",
       "album": {
-        "name": "Wish You Were Here",
-        "url": "https://open.spotify.com/album/3KzXjaZ3bOVtC6RgFCkUTE"
-      },
-      "artists": [
-        {
-          "name": "Dende",
-          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
-        },
-        {
-          "name": "J Warner",
-          "url": "https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo"
-        }
-      ],
-      "duration_ms": 215152,
-      "name": "Slide",
-      "url": "https://open.spotify.com/track/15SHKUdlRaqIVTJWcP5n5a"
-    },
-    {
-      "added_at": "2024-03-01 09:11:00",
-      "album": {
-        "name": "History",
-        "url": "https://open.spotify.com/album/0fBXkE3U6UluW9yg1hIWkW"
+        "name": "Make You Remember Me",
+        "url": "https://open.spotify.com/album/1QCxlawfmRW3OFYNphiPuz"
       },
       "artists": [
         {
@@ -968,9 +968,9 @@
           "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
         }
       ],
-      "duration_ms": 157991,
-      "name": "History",
-      "url": "https://open.spotify.com/track/00YFNV9oDlWZduvoJsjpi0"
+      "duration_ms": 145751,
+      "name": "Make You Remember Me",
+      "url": "https://open.spotify.com/track/6GF1YpC8PqlaPyWnUyue8s"
     },
     {
       "added_at": "2024-03-01 09:11:00",
@@ -1107,8 +1107,8 @@
     {
       "added_at": "2024-03-01 09:11:00",
       "album": {
-        "name": "Make You Remember Me",
-        "url": "https://open.spotify.com/album/1QCxlawfmRW3OFYNphiPuz"
+        "name": "History",
+        "url": "https://open.spotify.com/album/0fBXkE3U6UluW9yg1hIWkW"
       },
       "artists": [
         {
@@ -1116,9 +1116,9 @@
           "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
         }
       ],
-      "duration_ms": 145751,
-      "name": "Make You Remember Me",
-      "url": "https://open.spotify.com/track/6GF1YpC8PqlaPyWnUyue8s"
+      "duration_ms": 157991,
+      "name": "History",
+      "url": "https://open.spotify.com/track/00YFNV9oDlWZduvoJsjpi0"
     },
     {
       "added_at": "2024-03-01 09:11:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-03-01 09:11:00",
       "album": {
+        "name": "Not The One",
+        "url": "https://open.spotify.com/album/74J8xJbfc815PbmRMgDIzb"
+      },
+      "artists": [
+        {
+          "name": "Pearl Ramos",
+          "url": "https://open.spotify.com/artist/4L8v7LCc2BtljMWBEvSgCh"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Not The One",
+      "url": "https://open.spotify.com/track/4T3xVRLPqHDvBNorV2hEat"
+    },
+    {
+      "added_at": "2024-03-01 09:11:00",
+      "album": {
         "name": "Find Me Again",
         "url": "https://open.spotify.com/album/7GxmqeXiLac35NmgcqdAuI"
       },
@@ -1423,22 +1439,6 @@
     {
       "added_at": "2024-03-01 09:11:00",
       "album": {
-        "name": "Not The One",
-        "url": "https://open.spotify.com/album/74J8xJbfc815PbmRMgDIzb"
-      },
-      "artists": [
-        {
-          "name": "Pearl Ramos",
-          "url": "https://open.spotify.com/artist/4L8v7LCc2BtljMWBEvSgCh"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Not The One",
-      "url": "https://open.spotify.com/track/4T3xVRLPqHDvBNorV2hEat"
-    },
-    {
-      "added_at": "2024-03-01 09:11:00",
-      "album": {
         "name": "Do They Know",
         "url": "https://open.spotify.com/album/3qhMA6qBm8VcurTYcY94AM"
       },
@@ -1451,6 +1451,22 @@
       "duration_ms": 122400,
       "name": "Do They Know",
       "url": "https://open.spotify.com/track/2duXRr3V3koJ0w6WsEDOAU"
+    },
+    {
+      "added_at": "2024-03-01 09:11:00",
+      "album": {
+        "name": "Temporary Love",
+        "url": "https://open.spotify.com/album/7Ik6vXPyiM9jflElmt78cQ"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "duration_ms": 156213,
+      "name": "Temporary Love",
+      "url": "https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8"
     },
     {
       "added_at": "2024-03-01 09:11:00",
@@ -1471,22 +1487,6 @@
       "duration_ms": 174000,
       "name": "We're Through",
       "url": "https://open.spotify.com/track/0rQKB1uvWhq4CAVNQxjPuj"
-    },
-    {
-      "added_at": "2024-03-01 09:11:00",
-      "album": {
-        "name": "Temporary Love",
-        "url": "https://open.spotify.com/album/7Ik6vXPyiM9jflElmt78cQ"
-      },
-      "artists": [
-        {
-          "name": "Xenia Manasseh",
-          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
-        }
-      ],
-      "duration_ms": 156213,
-      "name": "Temporary Love",
-      "url": "https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8"
     },
     {
       "added_at": "2024-03-01 09:11:00",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2024-03-01 09:11:00",
       "album": {
-        "name": "Balcony",
-        "url": "https://open.spotify.com/album/695ukF8LGhGU4pagxtsxFc"
-      },
-      "artists": [
-        {
-          "name": "Anuka",
-          "url": "https://open.spotify.com/artist/4tp1pUIwgLWIIIIOo1yPYp"
-        }
-      ],
-      "duration_ms": 160944,
-      "name": "Balcony",
-      "url": "https://open.spotify.com/track/2IS5TQnd26IKxRg7cewEdO"
-    },
-    {
-      "added_at": "2024-03-01 09:11:00",
-      "album": {
         "name": "B L U N T",
         "url": "https://open.spotify.com/album/404Hu5CuQHTzgdywua3Uei"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 179417,
       "name": "L O V E L Y",
       "url": "https://open.spotify.com/track/7999Jc1VgYDhi9p5dZnIdQ"
+    },
+    {
+      "added_at": "2024-03-01 09:11:00",
+      "album": {
+        "name": "Balcony",
+        "url": "https://open.spotify.com/album/695ukF8LGhGU4pagxtsxFc"
+      },
+      "artists": [
+        {
+          "name": "Anuka",
+          "url": "https://open.spotify.com/artist/4tp1pUIwgLWIIIIOo1yPYp"
+        }
+      ],
+      "duration_ms": 160944,
+      "name": "Balcony",
+      "url": "https://open.spotify.com/track/2IS5TQnd26IKxRg7cewEdO"
     }
   ],
   "unique_name": "R&B Magic",

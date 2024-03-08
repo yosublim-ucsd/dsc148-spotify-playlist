@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-20",
-  "description": "East Africa queens in their music bag. Cover: Maua Sama",
+  "description": "East Africa queens in their music bag. Cover: Muthoni Drummer Queen",
   "name": "Malkia",
   "tracks": [
     {
@@ -309,6 +309,46 @@
     },
     {
       "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/6gXbJ7vbb4mQWAqOjv6eon"
+      },
+      "artists": [
+        {
+          "name": "Narah Elba",
+          "url": "https://open.spotify.com/artist/49xus9KjnESiLPl9EQuvU4"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159336,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/2hyUzNsKT454MY5Ro0nnD7"
+    },
+    {
+      "album": {
+        "name": "Feel Alive",
+        "url": "https://open.spotify.com/album/0OjBP78TRit3ZBviOQj8qb"
+      },
+      "artists": [
+        {
+          "name": "TheOnlyRosa",
+          "url": "https://open.spotify.com/artist/3RL8Hb8tQ9aFuCWGikXNwx"
+        },
+        {
+          "name": "Fena Gitu",
+          "url": "https://open.spotify.com/artist/3zJd3CVxAQx3gB7fPH9P2V"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210265,
+      "name": "Feel Alive",
+      "url": "https://open.spotify.com/track/07xjo4p0md0cPMTUXPhrwF"
+    },
+    {
+      "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/7lAxGA7kdSK6cl3XcVVLpZ"
       },
@@ -396,7 +436,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 179977,
       "name": "Go",
       "url": "https://open.spotify.com/track/1bHbElmOOzqRNui7Ocq4Vp"
@@ -1232,7 +1272,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 181786,
       "name": "Nishazoea",
       "url": "https://open.spotify.com/track/2aZEeQqaEcQzwOXKSrDw7s"
@@ -1468,7 +1508,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 187000,
       "name": "Pen & Paper",
       "url": "https://open.spotify.com/track/08MoSv9F2ZzT3B1GJR3OD6"
@@ -1566,6 +1606,24 @@
       "duration_ms": 181565,
       "name": "Poison",
       "url": "https://open.spotify.com/track/0tHwaQYWrerlG3WlkrLACX"
+    },
+    {
+      "album": {
+        "name": "Moonsoon",
+        "url": "https://open.spotify.com/album/7LTHIDC5Ui2HzF50HTeOzD"
+      },
+      "artists": [
+        {
+          "name": "Muthoni Drummer Queen",
+          "url": "https://open.spotify.com/artist/2FzYw9fn2ZtQ7sZma5BxuB"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196153,
+      "name": "Pomoni",
+      "url": "https://open.spotify.com/track/6XKvZYp4RFUynZf6XUXrEC"
     },
     {
       "album": {

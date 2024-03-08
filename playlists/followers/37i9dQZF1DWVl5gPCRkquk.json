@@ -1,5 +1,5 @@
 {
-  "2024-03-07": 861996,
+  "2024-03-08": 862024,
   "date_first_scraped": "2021-12-21",
   "description": "Channel some chilled-out back yard vibes.",
   "name": "Chill Folk",
@@ -115,6 +115,28 @@
       "duration_ms": 181270,
       "name": "All The Way Back",
       "url": "https://open.spotify.com/track/74Om3rXwl9V1JMzjf1nToZ"
+    },
+    {
+      "album": {
+        "name": "All the Ways",
+        "url": "https://open.spotify.com/album/5KnKkghYRhhK3wfuNiLC6c"
+      },
+      "artists": [
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        },
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218747,
+      "name": "All the Ways (feat. Ray LaMontagne)",
+      "url": "https://open.spotify.com/track/5X7YV3w0f8wvbK58fupk0P"
     },
     {
       "album": {
@@ -2807,7 +2829,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 198001,
       "name": "I Won't",
       "url": "https://open.spotify.com/track/57RjBtEPLGPacFQRs4N9Ca"

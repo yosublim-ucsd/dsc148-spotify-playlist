@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK & Ireland\. Cover: vi0let\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,581 likes - 90 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,600 likes - 90 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 71 | [2AM](https://open.spotify.com/track/0UnfBaTe7SjstnF5pZ488T) | [Pepé](https://open.spotify.com/artist/5Z4OIeXWXn0UMTPe8JL0Cx) | [2AM](https://open.spotify.com/album/0EGtk8cOVn7UhFClnpvDzf) | 3:06 |
 | 72 | [Lower Your Hopes](https://open.spotify.com/track/39XZy6rGLdT0M6QJ9lYQ2o) | [Curtisy](https://open.spotify.com/artist/5VMnilBpX9s4C1HBnTCX35) | [Lower Your Hopes](https://open.spotify.com/album/5XPzH62PXU3dmrZrMlGty1) | 2:41 |
 | 73 | [Cleo](https://open.spotify.com/track/4GoyFC5pPMyuP8jAm4MZBD) | [Yasmin Hass](https://open.spotify.com/artist/1ngeTsUw6Wo2W4TTgTSCcC) | [Cleo](https://open.spotify.com/album/4FAxvxyEV5QwhAkXK3doU0) | 3:36 |
-| 74 | [everything to die for](https://open.spotify.com/track/05x8IQafuKgd3icfkyprxh) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [everything to die for](https://open.spotify.com/album/2wP6cJwvwsHdwLmnvR0Pr2) | 3:11 |
+| 74 | [everything to die for](https://open.spotify.com/track/5w7pIkf7juDYcl6ejrSvzQ) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [the mould](https://open.spotify.com/album/03WZKJv7yuVrpUxbIleIco) | 3:11 |
 | 75 | [i might](https://open.spotify.com/track/7G5msnKmV8flQ7IvQJfv9n) | [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [i might](https://open.spotify.com/album/4A1o93hNqwkiNYnexYvlYp) | 2:50 |
 | 76 | [Say It's Just Us](https://open.spotify.com/track/1fGkUKm4CEtKVZvksaajfU) | [EEVAH](https://open.spotify.com/artist/3yJNIN3Ih9pFuG4cgfzCRL) | [Say It's Just Us](https://open.spotify.com/album/4ScyPaKGVzOomGn3jrMJDR) | 3:04 |
 | 77 | [Soy Sauce](https://open.spotify.com/track/60WeDI4n7vpT9Xe3oBQuYK) | [Josef Akin](https://open.spotify.com/artist/6EdShJCWbCFI4VQb3aKdkg) | [Soy Sauce](https://open.spotify.com/album/35URROxXIrHUFscytU8FKa) | 2:24 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 89 | [Tread Water](https://open.spotify.com/track/78pExR0VWB6OPI0O2dyxJ9) | [Kitty](https://open.spotify.com/artist/6ahDtngazxljB9q5ISidBl) | [Tread Water](https://open.spotify.com/album/1KBQndePX3n5P46yK8t4MY) | 3:34 |
 | 90 | [Caroline](https://open.spotify.com/track/4xCbH4j4W3wqkqNVJCMElL) | [ALICE LILY](https://open.spotify.com/artist/76QfCo8TeN5wtqDoN6PbdQ) | [Caroline](https://open.spotify.com/album/5Fn9vv173RuHWjvONUWgoH) | 3:05 |
 
-Snapshot ID: `MCxjYTI4M2UyZjgyZDFhNzNkNTBkYTNkNWZmMDBmY2UzM2YzMWQ3MWQ0`
+Snapshot ID: `MCxiZmZhNzIwNGUzYzcyN2ZmNzBiYjk4ZTI4ODI1OGIyOTQyYjk1ZjMz`

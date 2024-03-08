@@ -1,5 +1,5 @@
 {
-  "2024-03-07": 821416,
+  "2024-03-08": 821482,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Turkey.",
   "name": "Top 50 - Turkey",
@@ -3685,7 +3685,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-05",
+      "date_removed": null,
       "duration_ms": 147510,
       "name": "Can Dostum",
       "url": "https://open.spotify.com/track/6tHhAUAMwUwlEGpAVq1jlX"
@@ -13011,7 +13011,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 170500,
       "name": "R\u00fcya Gibi",
       "url": "https://open.spotify.com/track/06wiBJmkmQSQUEUj8TESu0"

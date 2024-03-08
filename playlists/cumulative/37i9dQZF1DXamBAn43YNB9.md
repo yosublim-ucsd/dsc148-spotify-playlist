@@ -4,7 +4,7 @@
 
 > Craving that crisp country air? These low\-key Country songs will take you there.
 
-111 songs - 6 hr 32 min
+112 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Cowboy Take Me Away](https://open.spotify.com/track/5HC6lFC1d2fybqJxUJCDeX) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Cowboy Take Me Away](https://open.spotify.com/album/1aobWPjcsTxSPjYpPXTTBm) | 4:29 | 2023-06-15 |  |
 | [Dance with Me \(feat\. Kelsea Ballerini\)](https://open.spotify.com/track/07sa7qkxpemze5BBE7jufs) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Things That We Drink To](https://open.spotify.com/album/7CgrejBVsP6OeA3WgxDPPc) | 3:19 | 2023-06-15 |  |
 | [Date Night \(feat\. Morgan Evans\)](https://open.spotify.com/track/4rainsOvZId6i9i9Ssl6Hb) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec), [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Date Night \(feat\. Morgan Evans\)](https://open.spotify.com/album/3bAFWQJ9npu4hqjxkpDRYN) | 2:51 | 2023-08-01 |  |
+| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-03-07 |  |
 | [Diamonds and Gold](https://open.spotify.com/track/6aFfDXmScA1MoYepsaD3pm) | [Meghan Maike](https://open.spotify.com/artist/4kBaxVPaAbjTyIb7qItJzl) | [Dead Horse Creek](https://open.spotify.com/album/35AQrnW1vnZFyFtyRA27s3) | 4:41 | 2023-10-27 |  |
 | [Different Kind Of High](https://open.spotify.com/track/6qFyQDHtl1WgnTt2bGi74U) | [Katelann Maree](https://open.spotify.com/artist/4oHkIit2ZOd9HqKws5LKcf) | [Different Kind Of High](https://open.spotify.com/album/454VDDoKkNtDWpmlGyimoq) | 3:56 | 2023-06-15 | 2023-07-07 |
 | [Don't Wanna Meet Your Parents](https://open.spotify.com/track/288yWYGCLTgvgeuz3XKYJI) | [Emmagen Rain](https://open.spotify.com/artist/49eeshhMCwAN2P4HubqQQg) | [Don't Wanna Meet Your Parents](https://open.spotify.com/album/7FxEaf5QzdEYno0jDfPVY1) | 3:06 | 2023-10-27 |  |

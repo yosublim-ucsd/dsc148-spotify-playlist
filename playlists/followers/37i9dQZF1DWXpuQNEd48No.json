@@ -1,5 +1,5 @@
 {
-  "2024-03-07": 30834,
+  "2024-03-08": 30883,
   "date_first_scraped": "2023-03-30",
   "description": "Yo Hai Haryanvi Hip-Hop! Cover: GULZAAR CHHANIWALA",
   "name": "Hip-Hop Haryanvi",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/7deZn0z8YjbIrLlMXpHOQ9"
@@ -1027,6 +1027,24 @@
       "duration_ms": 186000,
       "name": "Dad",
       "url": "https://open.spotify.com/track/1Ehci8oBSgx7n0fJ9R5dEl"
+    },
+    {
+      "album": {
+        "name": "Daur",
+        "url": "https://open.spotify.com/album/1jTz29GE5Wk7iyM0FhiPHQ"
+      },
+      "artists": [
+        {
+          "name": "Gulzaar Chhaniwala",
+          "url": "https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162600,
+      "name": "Daur",
+      "url": "https://open.spotify.com/track/779wdTOm7bXq0EXencwPH5"
     },
     {
       "album": {
@@ -2932,6 +2950,24 @@
     },
     {
       "album": {
+        "name": "OG",
+        "url": "https://open.spotify.com/album/2O8jwQ7KdrM6uucbRVBAde"
+      },
+      "artists": [
+        {
+          "name": "Sammy Dulat",
+          "url": "https://open.spotify.com/artist/5yEWvgoNRZReerWDujkDMw"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168670,
+      "name": "OG",
+      "url": "https://open.spotify.com/track/23ON0lC7ppFxmWTazcIbU6"
+    },
+    {
+      "album": {
         "name": "On the Way",
         "url": "https://open.spotify.com/album/39KJPgQ0FsWskTQS3h2UCw"
       },
@@ -3709,7 +3745,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 243600,
       "name": "Tabahi",
       "url": "https://open.spotify.com/track/01aP0lDm92ehOIy7zfpJkw"

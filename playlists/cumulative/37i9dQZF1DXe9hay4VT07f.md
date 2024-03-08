@@ -4,7 +4,7 @@
 
 > We outside\. Cover: Valiant
 
-286 songs - 15 hr 13 min
+287 songs - 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [Run Run](https://open.spotify.com/track/2SJm5XYmsKvzPaHI3mW1GB) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Run Run](https://open.spotify.com/album/1H6H54RJH3fGexhTOyzIBr) | 3:06 | 2021-07-19 | 2023-08-04 |
 | [Rushing](https://open.spotify.com/track/5Ttn93s4gqOG3SwXJuppfa) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Rushing](https://open.spotify.com/album/3MgOPLcWZFCtmCSQPtmMaa) | 2:34 | 2022-08-18 | 2022-09-10 |
 | [Secrets](https://open.spotify.com/track/4GfDV5KQFbnPP5RXOm9KQf) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [What's Done in the Dark](https://open.spotify.com/album/3A2Bvs4R8aL09IdCbzYhcr) | 2:52 | 2022-08-18 | 2022-09-10 |
-| [Settle Down \(Destiny\)](https://open.spotify.com/track/3No90yqhFHg1vcFCHrCR6b) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Settle Down \(Destiny\)](https://open.spotify.com/album/5wqSokkE06joXVP6Pe3tlf) | 3:09 | 2023-11-17 |  |
+| [Settle Down \(Destiny\)](https://open.spotify.com/track/3No90yqhFHg1vcFCHrCR6b) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Settle Down \(Destiny\)](https://open.spotify.com/album/5wqSokkE06joXVP6Pe3tlf) | 3:09 | 2023-11-17 | 2024-03-08 |
 | [Sexy19](https://open.spotify.com/track/6vJ6ivAXyks6kykUIvizFq) | [Dejour](https://open.spotify.com/artist/2qPE1cHelmMHiIqKHhQdK4) | [Sexy19](https://open.spotify.com/album/5ekdvIk7749sp6GEjsTPlT) | 3:36 | 2022-08-18 | 2022-09-10 |
 | [Sha La La \(Sunday Mawnin\)](https://open.spotify.com/track/4O4Qe2u31BEqwggZBwYxmw) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Sha La La \(Sunday Mawnin\)](https://open.spotify.com/album/3L0dENcGOMZcR67uhWwPNq) | 2:36 | 2023-11-17 |  |
 | [She's Royal](https://open.spotify.com/track/6dFOwtd9iBMERardJvsIxY) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Parables](https://open.spotify.com/album/4xliwWMj72GCy9Edq1v985) | 4:11 | 2023-11-17 |  |
@@ -270,6 +270,7 @@
 | [V6](https://open.spotify.com/track/7aBd8qMooFYZtQQwQJFAdX) | [Ireland Boss](https://open.spotify.com/artist/3JoZVMSSVzYhhMQ5dthRuT), [Malie Donn](https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW) | [V6](https://open.spotify.com/album/1VtkkjbqEL8STeBQmpy1Fp) | 2:42 | 2023-08-03 |  |
 | [Verified Choppa 2](https://open.spotify.com/track/7HrHYsLaa8JHY9S7EETKfb) | [Marksman](https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR) | [Verified Choppa 2](https://open.spotify.com/album/3kdeQrwrOoiN3UGtB5B9gp) | 2:18 | 2022-03-21 | 2022-07-29 |
 | [Verified Choppa 2](https://open.spotify.com/track/3YQ5NYk2legzeloibRyXn1) | [Marksman](https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR) | [Verified Choppa 2](https://open.spotify.com/album/0TXxumJZg93RO1JKZHDCtm) | 2:19 | 2022-03-21 | 2024-01-20 |
+| [Verified Choppa 2](https://open.spotify.com/track/7FEpKqQvTaVUYabWIsDLlL) | [Marksman](https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR) | [Verified Choppa 2](https://open.spotify.com/album/1sQEzAFCgF3CnNCTISsZSE) | 2:19 | 2023-11-17 |  |
 | [Vibes Weekend](https://open.spotify.com/track/0Vx37NnFDCBLjTn1TmOq1Y) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Vibes Weekend](https://open.spotify.com/album/5xLNwO9hSAWMEQN1fNcIsK) | 2:53 | 2023-05-14 | 2023-11-18 |
 | [Viral](https://open.spotify.com/track/54HmMvIrWTJ6pDwLmb7K6S) | [SSK Music](https://open.spotify.com/artist/47eoUNwB92qvNJcAGGkGxt), [So Special Kay](https://open.spotify.com/artist/7HAzbYAYnNgnZs89JPhXwr) | [Viral](https://open.spotify.com/album/0RSvrbGW4cNboj15ot0p6h) | 3:13 | 2022-08-18 | 2022-09-10 |
 | [Vitamin S](https://open.spotify.com/track/65RhyOvedCvfaR4OcAehYV) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Ghetto Story \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y) | 4:12 | 2022-03-21 | 2023-08-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Connor Price & Haviah Mighty
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,335 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,361 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 77 | [Get Drunk](https://open.spotify.com/track/6Oje5CNIrxJ4oxbQxG5jOv) | [Relly](https://open.spotify.com/artist/4SrI1Jb6ZvvkybCdyXdmp3), [Shmurda61st](https://open.spotify.com/artist/1X9pfYgyiDOKkbUyRfIhe8), [Homie61st](https://open.spotify.com/artist/3o9qzT2pRFsmNLV2OCP0kC) | [Get Drunk](https://open.spotify.com/album/59Ib2wTfa41HM6SN6yBhgi) | 2:14 |
 | 78 | [Watch Your Mouth](https://open.spotify.com/track/6bF3ILAvyZXvla7usFLYjr) | [Locksmith](https://open.spotify.com/artist/0OGWDaYrjhn6v1Lq1rqrWa), [Snak The Ripper](https://open.spotify.com/artist/2MG7NjBnZsaiKekJ0Q2z89), [C\-Lance](https://open.spotify.com/artist/2O2cQN5ayTOwS8WdiMAjWA) | [Watch Your Mouth](https://open.spotify.com/album/5ATGoa3gwhajTJR6ZE26o6) | 3:21 |
 | 79 | [NIGHT WE MET \(feat\. Veronica Elizabeth\)](https://open.spotify.com/track/4zEacEOMttSocwk0HkP7yK) | [Portion](https://open.spotify.com/artist/0XBfHZ0yFMEqfNlEh08jWY), [Veronica Elizabeth](https://open.spotify.com/artist/4F41MoSaTAAARtg7WrLSJf) | [NIGHT WE MET \(feat\. Veronica Elizabeth\)](https://open.spotify.com/album/0TB0Y7sgxun4jaAZjjnrqY) | 2:56 |
-| 80 | [Black For Green](https://open.spotify.com/track/10MHgsXUHZtBL6rBOWSr4S) | [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum), [THE 6TH LETTER](https://open.spotify.com/artist/5hM8TO6qnM1N04mPUcsg3V) | [Black For Green](https://open.spotify.com/album/7E0vKS0ocrn6O3fuRHrnZC) | 3:29 |
+| 80 | [Black For Green](https://open.spotify.com/track/3kOERXpPLWxPEag0cpKu4b) | [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum), [THE 6TH LETTER](https://open.spotify.com/artist/5hM8TO6qnM1N04mPUcsg3V) | [777](https://open.spotify.com/album/2O7VQiUdIl95INCJ4yJfdl) | 3:29 |
 | 81 | [REMEDIES](https://open.spotify.com/track/3YMPzE7yuh6Yph8v7Deofz) | [Sick Ppl](https://open.spotify.com/artist/1SCwj7fCt2DeYIYNQoGxp0), [Streameum](https://open.spotify.com/artist/1UznbdggJpgD7TdnaIq6Hh) | [REMEDIES](https://open.spotify.com/album/4dbEUtDoY4HdOF1MwNBryr) | 1:58 |
 | 82 | [The Difference](https://open.spotify.com/track/1VVZxD70eePR5RwLMnWV6Q) | [Jimmy Brickz](https://open.spotify.com/artist/6IpnhdUI0JNSmk1w5hcBwq), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD), [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef) | [Brick V Brick](https://open.spotify.com/album/5mRnD6rzjoxvqrZ5tD4NjG) | 2:29 |
 | 83 | ['96 Bulls \(feat\. Drezus\)](https://open.spotify.com/track/0cNLTORxh13lT9QQQlI9jG) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5), [Drezus](https://open.spotify.com/artist/08G2YWw73h9tgNN1CcqTOZ) | ['96 Bulls \(feat\. Drezus\)](https://open.spotify.com/album/6NHaN1FJALiFBGxHJFdeBI) | 3:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 99 | [Body](https://open.spotify.com/track/66GdFBE7JJ0ASvCLyKn7HR) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4), [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [Dark Songs To Drive To](https://open.spotify.com/album/7fc2sH5vRsDNXaIlWl9Cyn) | 2:33 |
 | 100 | [Eyes On Me](https://open.spotify.com/track/4nNwfJM1DixAKRqnLFz0GS) | [Che](https://open.spotify.com/artist/3E5ZrCLCq0HP63QQHF6ttp) | [Eyes On Me](https://open.spotify.com/album/5eUasOW00sfNnxnOALm9Vo) | 2:58 |
 
-Snapshot ID: `MCwzYzdmNDY0M2UxODVmNzMyMGVhMWYxNzZjYzE1MzYwM2JiNDEzNGU1`
+Snapshot ID: `MCxkOTM0NTU0MTY2ZTg2OWVmZmVlN2EyOTExZTA5NjUwZDA1OTlmZTli`

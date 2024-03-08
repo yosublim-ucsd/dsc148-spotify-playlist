@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "En Vivo, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/7x8Knu6fbmp4CDcYg7GcR7"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301573,
+      "name": "De Que el Amor Apesta Apesta - En Vivo",
+      "url": "https://open.spotify.com/track/6icW8z4zbebBK4oCVmJsti"
+    },
+    {
+      "album": {
         "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
         "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
       },
@@ -190,7 +208,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 179546,
       "name": "D\u00e9jame Rocanrolearte",
       "url": "https://open.spotify.com/track/6tkAfCWqFkyaZ04ytR0rD1"

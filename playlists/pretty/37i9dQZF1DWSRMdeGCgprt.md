@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRMdeGCgprt.md) - [plain]
 
 > Get into the rhythm of SXSW '17 with this collection of tracks from artists set to perform this year\. Cover: <a href="spotify:artist:4TsHKU8l8Wq7n7OPVikirn">Jidenna</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,201 likes - 23 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,198 likes - 23 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRMdeGCgprt.md) - [plain]
 | 13 | [Three Story Home](https://open.spotify.com/track/6iW5PhSMJrGrZJWHqsydmo) | [Earl St\. Clair](https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5) | [My Name Is Earl](https://open.spotify.com/album/4ZFj9ZGycCJdFCeZrFyOlz) | 4:15 |
 | 14 | [Vibe WIth](https://open.spotify.com/track/6n8HN4j2kkawKoDwwrzJ1M) | [Eli Sostre](https://open.spotify.com/artist/1ZilzPhvZhYUCSGczNRlyt) | [Still Up All Night](https://open.spotify.com/album/5rVkxGIEzN1QFwKoOUFgwd) | 2:42 |
 | 15 | [Say It's Right](https://open.spotify.com/track/6FeU3DRZUQWkr3i2n5OMNP) | [Gabriel Royal](https://open.spotify.com/artist/27BGBjfqb5MFhyMdX26pW6) | [Gabriel Royal](https://open.spotify.com/album/3qtmRfnU2yfvsRiKwLhqEn) | 3:06 |
-| 16 | [Flexin](https://open.spotify.com/track/2XW0n3POGQ9D2no2dBZgRO) | [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [Last Daze Of Summer](https://open.spotify.com/album/43s6lCKf5fKnM9xPNQQzeI) | 3:16 |
+| 16 | [Flexin](https://open.spotify.com/track/6vmJFYOxrk9GWsCyLwaxpM) | [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [Last Daze Of Summer](https://open.spotify.com/album/26EwXN6NNDUCuKa7VI0CmA) | 3:16 |
 | 17 | [I Don't Wanna Leave](https://open.spotify.com/track/6f02BtyPQvYflisHQPlCTz) | [Charlie Heat](https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw), [Tdot illdude](https://open.spotify.com/artist/4gcBXAL1iwHPIrf1LdVsKg) | [Morning Comes Too Fast](https://open.spotify.com/album/5SMNVBBlhEKuzwe78byNnl) | 3:13 |
 | 18 | [Good as Hell](https://open.spotify.com/track/0Hgw6wqEoK8OjFbxiQL5jj) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Pop Confetti](https://open.spotify.com/album/4FwgdgPAPH4DOeAOoOmhaC) | 2:39 |
 | 19 | [Don't Care](https://open.spotify.com/track/2obzETB8ZNaHhTGhnbAqJF) | [Coely](https://open.spotify.com/artist/2DzbXUAn0DiYqcgu2wDfaf), [DVTCH NORRIS](https://open.spotify.com/artist/0j0HOVpdJ2XuGIkfWhEdtz) | [Different Waters](https://open.spotify.com/album/77WZ1J2FUsry4UiyasJ8c5) | 3:34 |
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRMdeGCgprt.md) - [plain]
 | 22 | [Smile](https://open.spotify.com/track/12GZjzbMyuHyWQTrLvNmtG) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Durand Jones & The Indications](https://open.spotify.com/album/3JGHzHtOvRb5ye7YBmmDme) | 3:49 |
 | 23 | [You & I](https://open.spotify.com/track/02o0U7KH4t9oPUObu3e38c) | [Raul Midón](https://open.spotify.com/artist/2z3984YB48d3CFltzVlFYE) | [Bad Ass and Blind](https://open.spotify.com/album/0NtTUwDr61O8PFNUFSrmKz) | 3:42 |
 
-Snapshot ID: `MCxhMzE5ZTdjNzBhNTA5NmI5NGJiZjcxYjc3ZDA1ZDk1YTA5OWJlY2E3`
+Snapshot ID: `MCw3N2ZhYmQzN2ZmZDY5ZDIxZDVkOTM4MDE3OTE4MWE4ZWI2YTE5ZDRl`

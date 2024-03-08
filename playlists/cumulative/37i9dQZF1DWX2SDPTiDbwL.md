@@ -4,7 +4,7 @@
 
 > El precioso sonido de la guitarra flamenca, perfecto para evadirte.
 
-63 songs - 4 hr 22 min
+64 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Dust in the Wind](https://open.spotify.com/track/0CrYxqgUeDqKB4CWMRiGJG) | [Pedro Javier González](https://open.spotify.com/artist/2Pj7GhoqwVMNz7Qck7V0XZ) | [Guitarra](https://open.spotify.com/album/2Ky0XoCjZXxzMsPNQxaWrj) | 3:20 | 2024-02-01 |  |
 | [Elenion](https://open.spotify.com/track/3516oXWeN9OdbHTUlCelOd) | [Ana Alcaide](https://open.spotify.com/artist/0kd6wWqc6KIbwHGZBGUdMN) | [Leyenda](https://open.spotify.com/album/3FlkqKCP2xJ9zcutzwZqAa) | 4:18 | 2023-09-01 |  |
 | [Evening Embrace](https://open.spotify.com/track/2pvYHngjUT2Gg9hQtMUSjb) | [Johannes Linstead](https://open.spotify.com/artist/3bO8GsqYe5H4xTkcP5ZUZm) | [Mediterranea](https://open.spotify.com/album/6sxRxfaqxOLUq6YffLmoak) | 4:25 | 2023-09-01 |  |
-| [Flowers of Genzano](https://open.spotify.com/track/4WnBckNWhg7a5kgbfWPGCr) | [Armand de Paris](https://open.spotify.com/artist/2DoqtOrY51c1iTxYnZN9sk) | [Flowers of Genzano](https://open.spotify.com/album/3HONE0pDNjCMtRwA5lZU9M) | 3:32 | 2023-09-01 |  |
+| [Flowers of Genzano](https://open.spotify.com/track/4WnBckNWhg7a5kgbfWPGCr) | [Armand de Paris](https://open.spotify.com/artist/2DoqtOrY51c1iTxYnZN9sk) | [Flowers of Genzano](https://open.spotify.com/album/3HONE0pDNjCMtRwA5lZU9M) | 3:32 | 2023-09-01 | 2024-03-08 |
+| [Flowers of Genzano](https://open.spotify.com/track/7AFWXDnyopsDfGcdkRMtLZ) | [Armand de Paris](https://open.spotify.com/artist/2DoqtOrY51c1iTxYnZN9sk) | [Flowers of Genzano](https://open.spotify.com/album/7ApW1Ydp8x4ZcApid1rNMy) | 3:32 | 2024-03-06 |  |
 | [Fragile](https://open.spotify.com/track/1PBV1R2LcU66EpHcrYxWlL) | [Carbe and Durand](https://open.spotify.com/artist/2u0aEnMHFuYP6ljH3lNcnN) | [A Bridge Between](https://open.spotify.com/album/37uKchLHOIox3APBTic8qu) | 5:51 | 2023-09-01 |  |
 | [Gloria Al Niño Ricardo](https://open.spotify.com/track/70ZErGPca76oZwUEB5mK0C) | [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw) | [Siroco](https://open.spotify.com/album/0ZupSiTYqSjGJOAbpxybxh) | 5:07 | 2023-09-01 |  |
 | [Guitar Suite: I\. —](https://open.spotify.com/track/2PW2GLdLYxkdxUS0jnDFpM) | [Jason Carter](https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1) | [Carter, Jason: Contemporary Spanish Guitar](https://open.spotify.com/album/1b89KybJIh8S51U48wdUjl) | 9:11 | 2023-09-01 |  |

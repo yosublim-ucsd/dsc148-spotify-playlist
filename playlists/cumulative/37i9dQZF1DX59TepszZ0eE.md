@@ -4,12 +4,13 @@
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg?si=I0rZSdqUTwKrOF49ctEZzQ">Thinah Zungu</a>
 
-202 songs - 20 hr 16 min
+203 songs - 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Africa For Jesus \(Live at Worship House Church Limpopo, 2023\) \(feat\. Mish Mahendere\)](https://open.spotify.com/track/5YtFXVeXtEvSAKDAoYcNZk) | [Worship House](https://open.spotify.com/artist/3Aa2R54aqT4UiklOkE0qwD), [Mish Mahendere](https://open.spotify.com/artist/3yKe6QM3lmU3oyFkONGp5b) | [Africa For Jesus \(Live at Worship House Church Limpopo, 2023\) \(feat\. Mish Mahendere\)](https://open.spotify.com/album/4h6o8q9jm2Ui1PIOuWNbEl) | 7:35 | 2023-12-22 |  |
 | [Alpha noOmega](https://open.spotify.com/track/5iQ4H7V9qmtuCs0XLZRIp9) | [Karabo M](https://open.spotify.com/artist/2eedswVJzymieGtsQyUN2r) | [Alpha noOmega](https://open.spotify.com/album/14dDTEUml2aMiYgmmbVb01) | 5:00 | 2022-09-15 | 2023-03-18 |
+| [Amen](https://open.spotify.com/track/0oFuL4quMVGs9Hi3NN7nkM) | [Thinah Zungu](https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg), [NUZ VOJ](https://open.spotify.com/artist/5UKtBCqzTmnzTsYqcwt18O), [Jumbo](https://open.spotify.com/artist/3S4LQkYcseGEqdwXe3MWYN) | [Indumiso yaseStezi](https://open.spotify.com/album/5Ci8C1GuiWOK5tWQeq2KPd) | 5:19 | 2024-03-08 |  |
 | [Apha’Kum \(Live at Mosaiek Theatre, 2023\)](https://open.spotify.com/track/5XMRW2JA70QNg11AOftT2V) | [Omega Khunou](https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3) | [Apha’Kum \(Live at Mosaiek Theatre, 2023\)](https://open.spotify.com/album/6GfjzpCcMHWlpL0NUleD15) | 7:19 | 2023-10-20 |  |
 | [Awesome God](https://open.spotify.com/track/1J7m2fe94mcQbKfooP3QOg) | [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [Bee bar](https://open.spotify.com/artist/0kgsc7QLVxGwl8wd2eS3om), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [Awesome God](https://open.spotify.com/album/6o7rsUKRvC8UZ5PHljEhyo) | 7:18 | 2023-06-09 | 2023-09-15 |
 | [Awuhluleki](https://open.spotify.com/track/2bfeBqV3zS6moeaq5AFQ5m) | [Divine Souls SA](https://open.spotify.com/artist/6x0fooeMPXI8qdkXBTb5EV), [Sabata Masoka](https://open.spotify.com/artist/79cxKeoJbBmcmSUiDUZTcy), [Andiswa Mbantsa](https://open.spotify.com/artist/6NbmNuJtCAVkMar0ylwD7J), [Nozuko Yekani](https://open.spotify.com/artist/0SqWzR979J9et0af5eaN5c) | [Awuhluleki](https://open.spotify.com/album/0A4UDDjYJUQ49QJ0o1j6PB) | 5:04 | 2023-06-09 | 2023-09-15 |

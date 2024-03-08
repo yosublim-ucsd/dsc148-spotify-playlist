@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Mega Shinnosuke + Skaai \*👉 <a href="https://spice.eplus.jp/articles/326842?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,222 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,271 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 57 | [GIG](https://open.spotify.com/track/4MWQGEF9vdMrrW4wRlKKVN) | [CHIANZ](https://open.spotify.com/artist/131DUTfKAyi7NWTRfnnxxX) | [GIG](https://open.spotify.com/album/4MAkb1av61l7kJiuYoNTIX) | 3:13 |
 | 58 | [Teller\#2](https://open.spotify.com/track/00lZYGlyc0CBCxzx8ir28h) | [synju](https://open.spotify.com/artist/2Wb6ObEXGJeVIL4JkOmRtE) | [Terra\#2](https://open.spotify.com/album/1qiCfbAksd8AC9WulpJafQ) | 2:31 |
 | 59 | [APOLLO \(feat\. 桃子A1J\)](https://open.spotify.com/track/7sREJmvhWTOjcYgLTTgSOg) | [aint lindy](https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC), [桃子A1J](https://open.spotify.com/artist/2imhfeJHce0YEYv9msgqMC) | [APOLLO \(feat\. 桃子A1J\)](https://open.spotify.com/album/4lJ4z4ne9vY7BcwCrBLZsL) | 4:04 |
-| 60 | [Ai Moyashite Bokura wa Yuku \- The Happiest Melody \-](https://open.spotify.com/track/2qXGSfwNR2KOTYhWy9JeAh) | [門脇更紗 × Sean Oshima](https://open.spotify.com/artist/0K86u0GXdXqlh1lz8kgT2x) | [Ai Moyashite Bokura wa Yuku \- The Happiest Melody \-](https://open.spotify.com/album/4XYyfX0eFerIz3eQvNqR4i) | 3:52 |
+| 60 | [Ai Moyashite Bokura wa Yuku \- The Happiest Melody \-](https://open.spotify.com/track/2qXGSfwNR2KOTYhWy9JeAh) | [門脇更紗 × Sean Oshima](https://open.spotify.com/artist/0K86u0GXdXqlh1lz8kgT2x), [門脇更紗](https://open.spotify.com/artist/0smdS7QS5s0qwhfrXkZaSX), [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [Ai Moyashite Bokura wa Yuku \- The Happiest Melody \-](https://open.spotify.com/album/4XYyfX0eFerIz3eQvNqR4i) | 3:52 |
 | 61 | [Lovely \- uin Remix](https://open.spotify.com/track/6uDKsxuq3Bw5jmDqjCy7cS) | [Haruy](https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw), [Hayata Kosugi](https://open.spotify.com/artist/5OvlM7DqqwZUHpIWhECso2) | [Lovely \(uin Remix\)](https://open.spotify.com/album/7LDv1ZIJRWL3MJGQj0CxBt) | 2:58 |
 | 62 | [Forever \- feat\. たなか\-Sasuke Haraguchi after the world ends Remix\-](https://open.spotify.com/track/3tMttmIS9PZ2m4khAZJxsF) | [am8](https://open.spotify.com/artist/5GtEx6JS3XBlOL4J7Xhh1r), [たなか](https://open.spotify.com/artist/77QLvMMKj7GtS11D1Q00jm), [Sasuke Haraguchi](https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3) | [Forever \(feat\. たなか \-Sasuke Haraguchi after the world ends Remix\-\)](https://open.spotify.com/album/5xVvQWhN0pKnAxze6vmCWf) | 4:30 |
 | 63 | [Kira Kira](https://open.spotify.com/track/250qvaBRAOUSJ1uH1mXTgI) | [FANCYLABO](https://open.spotify.com/artist/34MPZmd0trUjRPtfDVUrwo), [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Aoi Yagawa](https://open.spotify.com/artist/7w3N4hKPh9CssP6wIKDaww), [Miori Ichikawa](https://open.spotify.com/artist/47FeV9K8iEFuZTUwneophb) | [Kira Kira](https://open.spotify.com/album/3ROukUUOz5ilfgGFSqmarn) | 2:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 74 | [Wilderness](https://open.spotify.com/track/6N2ogJhTUv26XLFIJRmWnt) | [Charlotte is Mine](https://open.spotify.com/artist/4qjYirCZfhEHkaixuexPTV) | [Wilderness](https://open.spotify.com/album/5gtRem5DPBMD1SeEVMGMlV) | 2:32 |
 | 75 | [heel](https://open.spotify.com/track/42VK2BbGox46jlYapDpqTT) | [くだらない1日](https://open.spotify.com/artist/0e11UZEaAK9dntRu5NAc6f) | [どいつもこいつも](https://open.spotify.com/album/19mgSXnbIi36lO2v0i7fXp) | 3:16 |
 
-Snapshot ID: `MCwwOWQ3MGNiODk5N2I1OGNlOTZlYWUzYTQ5YmJiNDY3NzU3NzNmMTZm`
+Snapshot ID: `MCwwMTMyNWE0ODA3ZTcwOGZhOTIwMDA0MWUwNWQwYzg2NjA4MDMxNzUw`

@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover : Zélie
+> The best French indie tracks right now\. Cover : L'Impératrice
 
-469 songs - 1 day 1 hr 41 min
+471 songs - 1 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [grapejuice](https://open.spotify.com/track/203Opyo455Pw6m4SCmQSVs) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [postcard from Berlin](https://open.spotify.com/album/4caQnHY05Lo2yrUmwgT6Ko) | 3:14 | 2022-02-03 | 2022-04-08 |
 | [Hail Mary](https://open.spotify.com/track/377M5cHQ9COyB8i9t3Hval) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte) | 2:49 | 2023-04-27 | 2023-05-26 |
 | [Hail Mary](https://open.spotify.com/track/71fZrZ2MTPLRLPbMf8pT0F) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/61IFc4d4O5z2AReP8eI3Ay) | 2:49 | 2023-04-06 | 2023-04-30 |
-| [Hard to be a girl](https://open.spotify.com/track/6YSU1sOKhpGYtWL8m90Wwo) | [The Pirouettes](https://open.spotify.com/artist/1Jp2BVxy67R0OaudOV9lm1) | [Moping in style : A tribute to Adam Green](https://open.spotify.com/album/4jGsgNYVVLiWCoavpK5ye4) | 2:39 | 2023-11-30 |  |
+| [Hard to be a girl](https://open.spotify.com/track/6YSU1sOKhpGYtWL8m90Wwo) | [The Pirouettes](https://open.spotify.com/artist/1Jp2BVxy67R0OaudOV9lm1) | [Moping in style : A tribute to Adam Green](https://open.spotify.com/album/4jGsgNYVVLiWCoavpK5ye4) | 2:39 | 2023-11-30 | 2024-03-08 |
 | [Havana](https://open.spotify.com/track/5ZJ2VXdJ6koG4m7uXptk0g) | [Montmartre](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Havana](https://open.spotify.com/album/3fqDwm0MNS2ZbXlH8MMJpr) | 2:42 | 2022-06-16 | 2022-07-15 |
 | [HEAR ME\. N2.23](https://open.spotify.com/track/7w77qLgJW3lhCuoVTKbOdC) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [HEAR ME\. N2.23](https://open.spotify.com/album/3EKIndqFsifqwrkP4kYYiQ) | 3:42 | 2023-04-20 | 2023-05-26 |
 | [Heartquake](https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Heartquake](https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R) | 3:38 | 2023-06-29 | 2023-09-29 |
@@ -271,6 +271,7 @@
 | [Mauvaise Idée](https://open.spotify.com/track/1yYLMVMSM2u7t1yfzAivy1) | [Pépite](https://open.spotify.com/artist/0oA0cg7ajEwV0EXKCAlQ63) | [Mauvaise Idée](https://open.spotify.com/album/6UlkvH6RmJXEQ2Vk0fB20p) | 3:43 | 2021-12-16 | 2022-01-21 |
 | [Mauvaises habitudes](https://open.spotify.com/track/0s1QWICdAhug2jCIZJ4QQZ) | [La Belle Vie](https://open.spotify.com/artist/7MrDzS5aCy6jjBVqRidPCY) | [Mauvaises habitudes](https://open.spotify.com/album/4m2wFrYax0HZnx8eIAheGv) | 2:25 | 2021-12-16 | 2022-07-29 |
 | [McLovin](https://open.spotify.com/track/1O57yzhCoIgPm9HGes2Xwk) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [McLovin](https://open.spotify.com/album/0sWjZJkO0HGltK4IhfIvD3) | 3:03 | 2023-09-07 |  |
+| [Me Da Igual](https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Me Da Igual](https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN) | 3:29 | 2024-03-07 |  |
 | [Meguro](https://open.spotify.com/track/1QBhGI8QTvMYpp6i8FYiE0) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [Meguro](https://open.spotify.com/album/1bI0XTLqwlY50uXcT9ZFJz) | 3:24 | 2021-12-16 | 2022-03-25 |
 | [Memories \(with Olivia Merilahti\)](https://open.spotify.com/track/6yAjRkafLkS95M2HeM2Y0O) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [Olivia Merilahti](https://open.spotify.com/artist/6i2umdD3q6XxXmqR8fRJuR) | [PrimaDonna vol\. 2](https://open.spotify.com/album/3SQpwXGk9dcI22c0jJsoQv) | 3:25 | 2023-04-06 | 2023-10-06 |
 | [Mieux](https://open.spotify.com/track/3Oo0XpUDdm8HNH6YMhkdYa) | [Louisette](https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT), [Amaury](https://open.spotify.com/artist/0C0OTAymY2bmqgYZ0WZCJI), [Louisette & Amaury](https://open.spotify.com/artist/5SfrCQKlH9T305RZiAud0y) | [Mieux](https://open.spotify.com/album/4j4tzpvu8Ouc5uKfFH3y4N) | 2:49 | 2023-02-09 | 2023-09-22 |
@@ -427,7 +428,7 @@
 | [Toi & moi \- Edit](https://open.spotify.com/track/6roMwL3sNdHRO2MRVmkBRn) | [Cabale](https://open.spotify.com/artist/5raQmxMcTBUh8pMYU6ZOit) | [Toi & moi \(Edit\)](https://open.spotify.com/album/3brOAQNbUUmMryZeP8nLvK) | 3:06 | 2021-12-16 | 2022-05-13 |
 | [Toiles d'araignée](https://open.spotify.com/track/2ApBxa9rB2QrR6UTcj9Oo1) | [Antonin Appaix](https://open.spotify.com/artist/2Pcy7ggRL3s3gI8YBiMNPj), [Camille Potte](https://open.spotify.com/artist/7qIpXe0TCeSJ8FHO25jgSj) | [Toiles d'araignée](https://open.spotify.com/album/12yuTpX2Ptq9bXaqtRm7fp) | 3:27 | 2022-04-14 | 2022-06-10 |
 | [Tomber sur toi](https://open.spotify.com/track/5ROlPKakaGkRvOungamJK2) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Tomber sur toi](https://open.spotify.com/album/0SUoYmi2VwoCiYh16PjEhv) | 4:14 | 2021-12-16 | 2022-09-02 |
-| [Tombé du ciel](https://open.spotify.com/track/4uur0nZJPXC1PZIbmof6Ym) | [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [Tombé du ciel](https://open.spotify.com/album/0Rx6ZyEPT9SvoitKf6h7Fu) | 3:49 | 2024-02-08 |  |
+| [Tombé du ciel](https://open.spotify.com/track/4uur0nZJPXC1PZIbmof6Ym) | [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [Tombé du ciel](https://open.spotify.com/album/0Rx6ZyEPT9SvoitKf6h7Fu) | 3:49 | 2024-02-08 | 2024-03-08 |
 | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Ezra Koenig](https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6) | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/album/3FkF6yz6p8iM2TR18ODmtV) | 4:06 | 2022-09-08 | 2022-11-11 |
 | [Too Young](https://open.spotify.com/track/3NOi0JvDB6po5r365qsABr) | [Hyphen Hyphen](https://open.spotify.com/artist/5KQuLhckFhcox1K9UCgLuV) | [Too Young](https://open.spotify.com/album/1IXU0aZn0c4ZIdsjABm0rk) | 3:30 | 2022-06-02 | 2022-07-08 |
 | [Top Fan](https://open.spotify.com/track/4DHT5FB2rVe1PuJMcgZmg2) | [Yelle](https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd) | [Top Fan](https://open.spotify.com/album/0mbMLXHFzPZsIMJNpChwtX) | 3:10 | 2023-01-26 | 2023-05-26 |
@@ -472,6 +473,7 @@
 | [Your Type](https://open.spotify.com/track/1xEZKgQsD52AvrFxpON5EX) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz), [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE) | [Your Type](https://open.spotify.com/album/1jPDRUC92JFdr6zCTnugV3) | 4:01 | 2022-07-07 | 2023-01-13 |
 | [Zéro](https://open.spotify.com/track/2p3WQbRO3rEhugBATJDZKU) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [JTM](https://open.spotify.com/album/0S1kVPGRBW6jGggQ5HlG0O) | 2:51 | 2022-06-09 | 2023-03-31 |
 | [Ça me va](https://open.spotify.com/track/5IrSaHFfKuSzG6pv6jWXJS) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Ça me va](https://open.spotify.com/album/3Zv13w5LwijoudLshMtkRc) | 3:09 | 2023-02-23 | 2024-01-26 |
+| [État Second](https://open.spotify.com/track/3vfyPt0SKeXtMihNyCWkro) | [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu), [Jacques](https://open.spotify.com/artist/55i4AnS7E58y41UwE0vvQh) | [État Second](https://open.spotify.com/album/00OalELdQ0354UGLibwlZn) | 3:06 | 2024-03-07 |  |
 | [Éternel](https://open.spotify.com/track/0CGMRBUggHCveV09rurvlL) | [Dani Terreur](https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z) | [dani](https://open.spotify.com/album/2aHnnm5f9FmXmtwUEPae4f) | 3:14 | 2022-07-28 | 2022-09-02 |
 | [Éternel](https://open.spotify.com/track/3RjXf0cgpbZ5z4xY8KxLGK) | [Dani Terreur](https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z) | [Éternel](https://open.spotify.com/album/0SU9ZVZWmLUDVZRLJHS0Ff) | 3:14 | 2022-05-12 | 2022-07-29 |
 | [Étrange \(feat\. Nikola\)](https://open.spotify.com/track/0zXiOaEnJitNoaVqn7EpNx) | [MAGENTA](https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA), [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [Étrange \(feat\. Nikola\)](https://open.spotify.com/album/7gkYV3SMUbils9c8mTj24H) | 3:04 | 2022-06-16 | 2022-09-02 |

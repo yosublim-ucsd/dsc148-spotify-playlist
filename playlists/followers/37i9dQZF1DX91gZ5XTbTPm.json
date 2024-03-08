@@ -1,5 +1,5 @@
 {
-  "2024-03-07": 123855,
+  "2024-03-08": 123933,
   "date_first_scraped": "2022-01-13",
   "description": "The Midwest is always on time. Cover: Lil Durk",
   "name": "CST",
@@ -6590,7 +6590,7 @@
     },
     {
       "album": {
-        "name": "JAPANESE DENIM (feat. Veeze)",
+        "name": "JAPANESE DENIM (feat. Veeze & LUCKI)",
         "url": "https://open.spotify.com/album/5m3BPYBaanarQy8hXJ7XoZ"
       },
       "artists": [
@@ -6599,19 +6599,19 @@
           "url": "https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg"
         },
         {
-          "name": "LUCKI",
-          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
-        },
-        {
           "name": "Veeze",
           "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        },
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
         }
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 127442,
-      "name": "JAPANESE DENIM (feat. Veeze)",
+      "name": "JAPANESE DENIM (feat. Veeze & LUCKI)",
       "url": "https://open.spotify.com/track/7IRBVTWua5balW0xUJHmUF"
     },
     {

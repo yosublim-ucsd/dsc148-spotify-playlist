@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDe8IDhRIo5.md) - [plain]
 
 > Django and beyond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,370 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,398 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDe8IDhRIo5.md) - [plain]
 | 14 | [Bleu citron](https://open.spotify.com/track/2t8WSb4idwrFvgnuFzz7kf) | [Dorado Schmitt](https://open.spotify.com/artist/7aWOYLUnhaq2h9ZbIHMJbH) | [Family](https://open.spotify.com/album/1GtvWrpGXg81LZfbJZgtFw) | 2:31 |
 | 15 | [Noto Swing](https://open.spotify.com/track/5K1EggH1ukqNIDZy2KA9eK) | [Harmonious Wail](https://open.spotify.com/artist/0oiYyKo8F9Bm80L02whvQ1) | [Noto Swing](https://open.spotify.com/album/0ITVfCNkcYnevE5V86zL30) | 3:23 |
 | 16 | [Djangology](https://open.spotify.com/track/42gtiaKzcoCMEOLkiuYf4U) | [Duane Andrews](https://open.spotify.com/artist/0FSBa5Pm7dulcy4TlirIxR) | [Djangology](https://open.spotify.com/album/25QeMhEESQIg9oDVPq9chK) | 3:24 |
-| 17 | [Blue Pearl](https://open.spotify.com/track/4Lq7xk3BOHfbQYOl5azSWo) | [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie) | [Blue Pearl](https://open.spotify.com/album/4d4vr1kMKkN5m36QFZI4Py) | 2:19 |
+| 17 | [Blue Pearl](https://open.spotify.com/track/7IQBh81WFFXC7VuwYsM0YV) | [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie) | [Blue Pearl](https://open.spotify.com/album/0tygytOgI6vbGsg9CZy1ok) | 2:19 |
 | 18 | [Iberian Sunrise](https://open.spotify.com/track/2vpwYizzlMwrs2TQde5ZHS) | [Rhythm Future Quartet](https://open.spotify.com/artist/1xfV1veocSCvsbeqco2j3v) | [Travels](https://open.spotify.com/album/0Ylx9BSbCZ71cCtcp8Y9Ft) | 4:27 |
 | 19 | [Donna Lee](https://open.spotify.com/track/2hLU38ZuCq9rT5T1rM6FiH) | [Joscho Stephan](https://open.spotify.com/artist/03gMsWBnlCYwx7ivVnO0WG), [Peter Autschbach](https://open.spotify.com/artist/1vx10uTehWMVhL2sPENMgG) | [Sundowner](https://open.spotify.com/album/0pjEuWVpDTupTerq0pFDBH) | 3:31 |
 | 20 | [Soundscape](https://open.spotify.com/track/3fOdWS7sHmnPQNSVbQo6sx) | [Gwen Cahue](https://open.spotify.com/artist/40KKpmd5tQqNohkfjFF9hO), [Bastien Ribot](https://open.spotify.com/artist/6Qvtaf9WCDT22AMuYtSIBh), [William Brunard](https://open.spotify.com/artist/2CKHnbBFpiHF2Uw9Wu2rCy), [Julien Cattiaux](https://open.spotify.com/artist/6mqYjdMpLf0OryIg7DnHv1) | [Soundscape](https://open.spotify.com/album/1kvM0LoxdJVkFEgzXHB0aQ) | 4:09 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDe8IDhRIo5.md) - [plain]
 | 35 | [Les yeux noirs](https://open.spotify.com/track/1f4uY5tp4llGfaQ60fgTfK) | [Biréli Lagrène Gipsy Project](https://open.spotify.com/artist/0LrCg8l9Wi1EIqpkW6D3ra) | [Gipsy Project & Friends](https://open.spotify.com/album/15nkNdrzGxHIimtDuv38RE) | 2:54 |
 | 36 | [Hora La Senior](https://open.spotify.com/track/4OaUaxl6PgcW88dvUpNWPk) | [Swing De Gitanes](https://open.spotify.com/artist/2SjWjC2ic81DS9gI3iS7D1), [Oren sagi](https://open.spotify.com/artist/63In7fd4yQh3zOij27cC7K), [Yaakov Hoter](https://open.spotify.com/artist/7dKnPqPQrPkUMGgwBRBlNK) | [The Middle East Gypsy Jazz Project](https://open.spotify.com/album/6WeHlhFgT1wK8hgUoP2RJu) | 3:34 |
 | 37 | [Vette](https://open.spotify.com/track/0aqTTdQrufrkfAPcxshXLi) | [Adrien Moignard](https://open.spotify.com/artist/2aMdhZeYSUVewlfjx9ntIn), [Selmer \#607](https://open.spotify.com/artist/56uU1OZizI84F7hkLuvYWI), [Rocky Gresset](https://open.spotify.com/artist/3LgwMt7NY7ofdnipSHcahX), [Noe Reinhardt](https://open.spotify.com/artist/5VXizzX9cAJKol49amHkCU), [Sebastien Giniaux](https://open.spotify.com/artist/6zvx3s2J92fS42ezTRAvCX), [Richard Manetti](https://open.spotify.com/artist/5esq88DOd4bNltFwMav6Yc) | [The Selmer \#607 Album](https://open.spotify.com/album/5wn3yJzr331FKk9rq8bm5z) | 3:31 |
-| 38 | [Bekledim de gelmedin](https://open.spotify.com/track/2wqjrl5ROiMhGlL5f4suz3) | [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie) | [Bekledim de gelmedin](https://open.spotify.com/album/0Y2J7JR4uwh6RmyXzJD9An) | 2:42 |
+| 38 | [Bekledim de gelmedin](https://open.spotify.com/track/4VL6K8LSyTNignnVtM7Kqr) | [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie) | [Bekledim de gelmedin](https://open.spotify.com/album/5KeQVW34iNad36bM6ZX6ps) | 2:42 |
 | 39 | [Manéa](https://open.spotify.com/track/6GyeeOjRJQEK7803yc2LO2) | [Florin Niculescu](https://open.spotify.com/artist/2HdcSFjH7Q29VYf89WIHLs), [Corneliu Niculescu](https://open.spotify.com/artist/3P09Y4zaLlwrNCmVWRHbII) | [Florilège](https://open.spotify.com/album/1MpKx6vqEcy0BXbYBRqUYV) | 8:03 |
 | 40 | [Dolores](https://open.spotify.com/track/1UOTHt2Vxk5xHMvdN7gkRF) | [The Black Market Trust](https://open.spotify.com/artist/05YUfl0SzLH3OqbAICDULQ) | [Folk Songs](https://open.spotify.com/album/7fEjk6IjjNZwM70grqR4QL) | 2:03 |
 | 41 | [Letter To Vincent Van Gogh](https://open.spotify.com/track/7xdKz4261BWHmuqTwFBoxm) | [Paulus Schäfer](https://open.spotify.com/artist/0IS1jQRwken3sKnUxHVGdv), [Peter Beets](https://open.spotify.com/artist/1k7V0GjR6nO9UBJ8kDI1r5) | [Letter to van Gogh](https://open.spotify.com/album/4ccme115PRV6yVnYmbB4vt) | 4:30 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDe8IDhRIo5.md) - [plain]
 | 74 | [Hungaria](https://open.spotify.com/track/3bS7AcjV8Dn2ulBF9XdZCo) | [Biréli Lagrène Gipsy Project](https://open.spotify.com/artist/0LrCg8l9Wi1EIqpkW6D3ra) | [Move](https://open.spotify.com/album/7tY1AorZ64PmB6tCp9OLfl) | 2:51 |
 | 75 | [For Brassens](https://open.spotify.com/track/0L9mejRz6i3CnI1mGxmeoM) | [Romane](https://open.spotify.com/artist/0ILn98RGLPZlVkgm3PUBoH), [Stochelo Rosenberg](https://open.spotify.com/artist/4pTgWOAUPDXSB5c5xwHVM5) | [Tribulations](https://open.spotify.com/album/0KnGsXBLPgociBCuG6DWhZ) | 4:18 |
 
-Snapshot ID: `MCxlYjdjODJlZTY0ZmNiYzI0ZmMxNTMyMGQ2MGMzZjc0NGE5ZDk3ZjM1`
+Snapshot ID: `MCwwMzFjZTc3MGVlOTgzYTA2NTY1MmQ5MjE0OTg0YzBkOGY0MDY4MWE5`

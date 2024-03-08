@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover: IZA",
-  "num_followers": 903518,
+  "num_followers": 903577,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTdmZDVhYzA0ZDI1ZTExMWM1OTFmN2U3OTQxMWM2ZTFjY2U5M2Mz",
+  "snapshot_id": "MCxkZjZmYjc1NjUwOWNiYWYxZWM1YzdiODg2NzNiZTM0NTg0ZDllY2Fl",
   "tracks": [
     {
       "added_at": "2024-03-06 16:42:28",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-03-06 16:42:28",
       "album": {
+        "name": "entre las piernas",
+        "url": "https://open.spotify.com/album/4lC8tWRJRUfADPn6aAjLVl"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 211454,
+      "name": "entre las piernas",
+      "url": "https://open.spotify.com/track/5Z8ylWRIPqri4EFRltuHMg"
+    },
+    {
+      "added_at": "2024-03-06 16:42:28",
+      "album": {
         "name": "Promises",
         "url": "https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF"
       },
@@ -711,22 +727,6 @@
     {
       "added_at": "2024-03-06 16:42:28",
       "album": {
-        "name": "entre las piernas",
-        "url": "https://open.spotify.com/album/4lC8tWRJRUfADPn6aAjLVl"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 211454,
-      "name": "entre las piernas",
-      "url": "https://open.spotify.com/track/5Z8ylWRIPqri4EFRltuHMg"
-    },
-    {
-      "added_at": "2024-03-06 16:42:28",
-      "album": {
         "name": "Ng\u1ecf L\u1eddi",
         "url": "https://open.spotify.com/album/0h0szlurfJ36hJCI5HtupK"
       },
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-03-06 16:42:28",
       "album": {
-        "name": "3.1",
-        "url": "https://open.spotify.com/album/1MiGKANNh5p67l9C8dRMh9"
-      },
-      "artists": [
-        {
-          "name": "Emma Bale",
-          "url": "https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV"
-        }
-      ],
-      "duration_ms": 241719,
-      "name": "lavender salt",
-      "url": "https://open.spotify.com/track/2zK2DTRbhHUYc7YpOlTZbk"
-    },
-    {
-      "added_at": "2024-03-06 16:42:28",
-      "album": {
         "name": "Cu\u00e1nto Me Duele",
         "url": "https://open.spotify.com/album/2JptMMyCWEp3DlNRdVYKwo"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 233755,
       "name": "Cu\u00e1nto Me Duele",
       "url": "https://open.spotify.com/track/2sqYGwxcC33aD3rh35hlOK"
+    },
+    {
+      "added_at": "2024-03-06 16:42:28",
+      "album": {
+        "name": "3.1",
+        "url": "https://open.spotify.com/album/1MiGKANNh5p67l9C8dRMh9"
+      },
+      "artists": [
+        {
+          "name": "Emma Bale",
+          "url": "https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV"
+        }
+      ],
+      "duration_ms": 241719,
+      "name": "lavender salt",
+      "url": "https://open.spotify.com/track/2zK2DTRbhHUYc7YpOlTZbk"
     },
     {
       "added_at": "2024-03-06 16:42:28",

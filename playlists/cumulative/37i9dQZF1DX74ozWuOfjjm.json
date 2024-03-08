@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "Listen to the women of Au & NZ at full volume! Cover: Jessica Mauboy",
+  "description": "Listen to women at full volume on International Women\u2019s Day, and every day of the year! Cover: Logic1000 ",
   "name": "EQUAL AU & NZ",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 172604,
       "name": "180",
       "url": "https://open.spotify.com/track/5jmXMzvMix3Expd9pPAkAD"
@@ -186,6 +186,24 @@
       "duration_ms": 228586,
       "name": "Air",
       "url": "https://open.spotify.com/track/3bJJu6tjuKlSGD8vbwJ7FB"
+    },
+    {
+      "album": {
+        "name": "All Away",
+        "url": "https://open.spotify.com/album/2rHpVUUXgtzSLs3c71qYAQ"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220627,
+      "name": "All Away",
+      "url": "https://open.spotify.com/track/5NuCPZenjbGUFoU1VaxGLr"
     },
     {
       "album": {
@@ -388,7 +406,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 226164,
       "name": "Analogue",
       "url": "https://open.spotify.com/track/6G03vyXV3PPZCHE2hNmcTi"
@@ -698,6 +716,24 @@
       "duration_ms": 192694,
       "name": "Beach Boy",
       "url": "https://open.spotify.com/track/7AEWEYnWHPqXTExnIfxzsT"
+    },
+    {
+      "album": {
+        "name": "Beautiful Eyes",
+        "url": "https://open.spotify.com/album/3udwcj1SRGUKxWCgYPanR4"
+      },
+      "artists": [
+        {
+          "name": "Amy Shark",
+          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169804,
+      "name": "Beautiful Eyes",
+      "url": "https://open.spotify.com/track/6kBIuwSSt72PeCSMIYwQw6"
     },
     {
       "album": {
@@ -1124,7 +1160,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 114004,
       "name": "Can I Shower At Yours",
       "url": "https://open.spotify.com/track/4M5SqWR8LIgE9N3QzEJlyS"
@@ -1330,7 +1366,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 187994,
       "name": "Changes",
       "url": "https://open.spotify.com/track/13CoTwU7uuvbnCfejIhH7n"
@@ -1568,7 +1604,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 130560,
       "name": "Cold Touch",
       "url": "https://open.spotify.com/track/7mGSXZwI5LlTqGARZH7JiM"
@@ -1738,6 +1774,24 @@
       "duration_ms": 197752,
       "name": "Cool Girl",
       "url": "https://open.spotify.com/track/27KjBTGdsrI3TlvIPMs7tV"
+    },
+    {
+      "album": {
+        "name": "Stylish Tantrum",
+        "url": "https://open.spotify.com/album/5zHzMujcNpkEWGmO2IYcrA"
+      },
+      "artists": [
+        {
+          "name": "Roza Terenzi",
+          "url": "https://open.spotify.com/artist/403OOa2mD7jcUgpC8F7Qgs"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381268,
+      "name": "Cosmology",
+      "url": "https://open.spotify.com/track/1M2R7cAdnwWO08JinxumOU"
     },
     {
       "album": {
@@ -3047,6 +3101,24 @@
     },
     {
       "album": {
+        "name": "Chances",
+        "url": "https://open.spotify.com/album/3ZRC25c6zcwz3RDCWlcpf6"
+      },
+      "artists": [
+        {
+          "name": "Acopia",
+          "url": "https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308206,
+      "name": "For You I Try",
+      "url": "https://open.spotify.com/track/1gAJ4AaTzafUdeVT5lkfvh"
+    },
+    {
+      "album": {
         "name": "Foreign Obstacles",
         "url": "https://open.spotify.com/album/4v5wgn29C8XXa1bcQlae35"
       },
@@ -3080,6 +3152,32 @@
       "duration_ms": 181760,
       "name": "Forget You",
       "url": "https://open.spotify.com/track/2S3wdZxAuixiNbXbknlIUN"
+    },
+    {
+      "album": {
+        "name": "Frauds",
+        "url": "https://open.spotify.com/album/22dnlw8roFeohZwFf56prr"
+      },
+      "artists": [
+        {
+          "name": "Vv Pete",
+          "url": "https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr"
+        },
+        {
+          "name": "UTILITY",
+          "url": "https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi"
+        },
+        {
+          "name": "Cassius Select",
+          "url": "https://open.spotify.com/artist/3ANxMohX86hAwLMGhIJd7B"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170505,
+      "name": "Frauds",
+      "url": "https://open.spotify.com/track/799Ncecckau7r7gtrrmCNj"
     },
     {
       "album": {
@@ -3134,6 +3232,24 @@
       "duration_ms": 161646,
       "name": "Fuck My Money",
       "url": "https://open.spotify.com/track/5tcz08acmFO5SfXwhBMHCt"
+    },
+    {
+      "album": {
+        "name": "Fun",
+        "url": "https://open.spotify.com/album/33F0zijnzQZx3766FCWNeK"
+      },
+      "artists": [
+        {
+          "name": "CHAII",
+          "url": "https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143762,
+      "name": "Fun",
+      "url": "https://open.spotify.com/track/7tP28GumWYkqSrUH8dBquX"
     },
     {
       "album": {
@@ -3328,7 +3444,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 188571,
       "name": "god complex",
       "url": "https://open.spotify.com/track/49aZox2OKhWCsmorRsCF3D"
@@ -4214,7 +4330,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 178845,
       "name": "Honey",
       "url": "https://open.spotify.com/track/0dCEJOvkHsIJMeLseG4LpK"
@@ -4236,6 +4352,24 @@
       "duration_ms": 178845,
       "name": "Honey",
       "url": "https://open.spotify.com/track/2pgc4XRR4yQq8ZcF00aOde"
+    },
+    {
+      "album": {
+        "name": "Hook, Line & Sinker",
+        "url": "https://open.spotify.com/album/6LVn0cwEx5InZDTn0XmOlW"
+      },
+      "artists": [
+        {
+          "name": "The Blamers",
+          "url": "https://open.spotify.com/artist/0Vn8d65WWn2J6xAvyoMAux"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113516,
+      "name": "Hook, Line & Sinker",
+      "url": "https://open.spotify.com/track/76fusjTPlfrqx2Holz1RO8"
     },
     {
       "album": {
@@ -4272,6 +4406,24 @@
       "duration_ms": 236603,
       "name": "Hush",
       "url": "https://open.spotify.com/track/7MQOvLC0lr33ie3QvzxZ77"
+    },
+    {
+      "album": {
+        "name": "WAVE SYSTEMS",
+        "url": "https://open.spotify.com/album/2MkNa25opn3aDv360RG9BX"
+      },
+      "artists": [
+        {
+          "name": "CORIN",
+          "url": "https://open.spotify.com/artist/1LCuKc3MZ0tjlo54wcPY1W"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222275,
+      "name": "HYDRATE",
+      "url": "https://open.spotify.com/track/25Y0hQj3J2ImLENYYMSSJm"
     },
     {
       "album": {
@@ -4510,7 +4662,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 134658,
       "name": "I Want It (Danny DeVito)",
       "url": "https://open.spotify.com/track/3aXT30VvzkodMqmCicZ4SK"
@@ -5134,7 +5286,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 189115,
       "name": "Jordan 1s",
       "url": "https://open.spotify.com/track/2VU0FHPZfnkCYQLTTosD9e"
@@ -5658,7 +5810,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 195056,
       "name": "Like It (feat. Reckz'Capo)",
       "url": "https://open.spotify.com/track/4yWySFuYFhkVrHggrfnulp"
@@ -6524,6 +6676,24 @@
       "duration_ms": 117620,
       "name": "nice",
       "url": "https://open.spotify.com/track/29wl32cIPkuiOcGLYdFGVv"
+    },
+    {
+      "album": {
+        "name": "Brighter Side of Blue",
+        "url": "https://open.spotify.com/album/5ksGObxjs1JrBhHXzWl4WB"
+      },
+      "artists": [
+        {
+          "name": "Babitha",
+          "url": "https://open.spotify.com/artist/2I2YUGgtWpuhyI1mUzom4y"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216618,
+      "name": "Night and Day",
+      "url": "https://open.spotify.com/track/0F7vi8kEHgKD1qhlUzUPuG"
     },
     {
       "album": {
@@ -7400,6 +7570,24 @@
       "duration_ms": 201874,
       "name": "Rachel's Song - Spotify Singles",
       "url": "https://open.spotify.com/track/0khFZaCEnXkBmBRA8M4g0d"
+    },
+    {
+      "album": {
+        "name": "a.s.o.",
+        "url": "https://open.spotify.com/album/491ULACRrTCXK4ZTPwRCPa"
+      },
+      "artists": [
+        {
+          "name": "a.s.o.",
+          "url": "https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311053,
+      "name": "Rain Down",
+      "url": "https://open.spotify.com/track/2k5ptpoWD0L0jrdGjJs6wp"
     },
     {
       "album": {
@@ -9486,7 +9674,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 177368,
       "name": "U&ME",
       "url": "https://open.spotify.com/track/1iFF00cvNGx7wifX9hK5OR"

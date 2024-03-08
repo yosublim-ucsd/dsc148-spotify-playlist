@@ -1,12 +1,12 @@
 {
   "description": "Un derroche de sensualidad. Prince Royce, Gabito Ballesteros en portada.",
-  "num_followers": 89172,
+  "num_followers": 89216,
   "original_name": "Bachata Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2QyYWMxOWVhZWQ3OGYwNGU3ZTcxNDY0YzQ0YmI3ODliNjE0NGU3",
+  "snapshot_id": "MCxjM2Q5NjIwMTUwNTJiZTRmNzc3MmYzNDg3NzIwYTM2NWY0YmE3OGU5",
   "tracks": [
     {
       "added_at": "2024-02-13 19:00:15",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-02-13 19:00:15",
       "album": {
+        "name": "Mal Herido",
+        "url": "https://open.spotify.com/album/1YpUgEKqIX3W5AxFT5TZev"
+      },
+      "artists": [
+        {
+          "name": "Luis Vargas",
+          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
+        }
+      ],
+      "duration_ms": 197416,
+      "name": "Mal Herido",
+      "url": "https://open.spotify.com/track/1xGPTBqgjUXy7NBKvkffjm"
+    },
+    {
+      "added_at": "2024-02-13 19:00:15",
+      "album": {
         "name": "La Boda",
         "url": "https://open.spotify.com/album/7m3opM6Ym3lwm8XREuW4PZ"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 233479,
       "name": "La Boda",
       "url": "https://open.spotify.com/track/4CsyqrI7t6XrSphpyKURWe"
-    },
-    {
-      "added_at": "2024-02-13 19:00:15",
-      "album": {
-        "name": "Mal Herido",
-        "url": "https://open.spotify.com/album/1YpUgEKqIX3W5AxFT5TZev"
-      },
-      "artists": [
-        {
-          "name": "Luis Vargas",
-          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
-        }
-      ],
-      "duration_ms": 197416,
-      "name": "Mal Herido",
-      "url": "https://open.spotify.com/track/1xGPTBqgjUXy7NBKvkffjm"
     },
     {
       "added_at": "2024-02-13 19:00:15",

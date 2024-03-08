@@ -4,7 +4,7 @@
 
 > Soft and gentle piano interpretations of Jazz classics.
 
-509 songs - 1 day 2 hr 8 min
+516 songs - 1 day 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Alone together](https://open.spotify.com/track/5qZaX4WSpgvUHJo7XiuNEY) | [Henriette Martin](https://open.spotify.com/artist/2BFYg3poUj1QT1EE8Z8NVS) | [Alone together](https://open.spotify.com/album/4coO5Gtnmh4FY37Duw2A9m) | 2:16 | 2023-06-15 |  |
 | [Am I Blue](https://open.spotify.com/track/1OYfanPIsbVYCvJYTDCjzz) | [Portiere Woodtar](https://open.spotify.com/artist/3MNxyFDnHn81hQcpwsJlAb) | [Am I Blue](https://open.spotify.com/album/7D6viYCA4iHApd0aQN2ALB) | 3:34 | 2023-08-11 |  |
 | [Am I the Only One](https://open.spotify.com/track/3pQ9yM5g3ad2tXEsiT5X0u) | [Urskogen Jazz](https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A) | [Am I the Only One?](https://open.spotify.com/album/7KMKbpIle3r1zVJJ1lliO9) | 2:41 | 2023-03-16 |  |
+| [An unexpected guest](https://open.spotify.com/track/5DWJOyeZPXPJlIog4SLMlo) | [Stefan Scholz](https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy) | [An unexpected guest](https://open.spotify.com/album/5RyEiIubY9MsKtIEU8H10z) | 3:05 | 2024-03-08 |  |
 | [Angel Eyes](https://open.spotify.com/track/3xy6OojnbfqihCYayRFXhG) | [Franco Reiss](https://open.spotify.com/artist/67WjJlQvj3PHZKkBTpVbOy) | [Angel Eyes](https://open.spotify.com/album/7Ax5m45a1FCPw7ztlGSwIb) | 3:49 | 2022-03-10 | 2022-04-27 |
 | [Angel Eyes](https://open.spotify.com/track/26lMfUWnrXOXQb9XJpuy6F) | [Grace Wither](https://open.spotify.com/artist/2vGiqF0un3L1GYZZcu1Fs3) | [Angel Eyes](https://open.spotify.com/album/3VDsMjedDDreoeWb4THND9) | 2:32 | 2023-01-05 | 2023-03-10 |
 | [Another Night](https://open.spotify.com/track/67CMXgNv85npgVBdnnAmCp) | [Lucas Collins](https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl) | [Another Night](https://open.spotify.com/album/1IwpbsnQGqr2pLaubVvXdG) | 2:25 | 2024-01-12 |  |
@@ -75,6 +76,7 @@
 | [Box Of Photos](https://open.spotify.com/track/1du3L7rqD0PrJSrNE0ye0q) | [Alfie Walker](https://open.spotify.com/artist/4ftOemOz9fYLTulZP8ZKol) | [Box Of Photos](https://open.spotify.com/album/7hwYTjbYMoS8QwGVPzesOZ) | 2:29 | 2023-05-11 |  |
 | [Break My Heart, Love](https://open.spotify.com/track/2YJ50GpsJlWTmKBe5Mqk6y) | [Urskogen Jazz](https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A) | [Am I the Only One?](https://open.spotify.com/album/7KMKbpIle3r1zVJJ1lliO9) | 2:57 | 2023-03-16 |  |
 | [But Beautiful](https://open.spotify.com/track/2HrJMEYnGTwBSKVOV2v7Ks) | [Margaret Shu](https://open.spotify.com/artist/2rXYYqYz9gNCletxt5R1M5) | [You Know I Care](https://open.spotify.com/album/6stS7pmTQEtTSN6Gfiroul) | 3:51 | 2021-12-14 |  |
+| [But Not For Me](https://open.spotify.com/track/19OV9LlkvwWW6Zz3pyyPEq) | [Riley Cobb](https://open.spotify.com/artist/3dtJzGK4kwhyCJJjnLsI9T) | [But Not For Me](https://open.spotify.com/album/4opEostLBBqzrbpFyFXPNy) | 2:56 | 2024-03-08 |  |
 | [Cabin In The Sky](https://open.spotify.com/track/7vZDxwET1WCo9wiO1MgAgR) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [Cabin In The Sky](https://open.spotify.com/album/0VAsLDBshbyYcZeJAAgTcZ) | 2:07 | 2023-01-19 |  |
 | [Can You Get Me Another One](https://open.spotify.com/track/6rl1c7c3xe7qj56ACRCbtX) | [Luke Dunn](https://open.spotify.com/artist/6YgUGLXjlKPOLwjAH7homB) | [Can You Get Me Another One](https://open.spotify.com/album/0kz80h9h4pTVJ89uteyrEq) | 3:25 | 2023-04-14 |  |
 | [Can't Help Lovin' Dat Man](https://open.spotify.com/track/4RHRD6ZW9iC6Bixb0zY3G3) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [Alfie](https://open.spotify.com/album/6FJY4E8KZ9yzv6WV6q8tOf) | 2:59 | 2022-08-11 |  |
@@ -86,9 +88,11 @@
 | [Chemin de la lune](https://open.spotify.com/track/20uoDnTsBOXkPJd1TmjpqZ) | [Neil Chapman Green](https://open.spotify.com/artist/5iyGZWUlM8wxizjjtBLGFZ) | [Chemin de la lune](https://open.spotify.com/album/12bQXgWbTWoYbUsLr9rxIP) | 2:09 | 2023-04-14 |  |
 | [Cherokee](https://open.spotify.com/track/2ifo88z2ExBUBsmWav4mca) | [Andy Luma](https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof) | [Cherokee](https://open.spotify.com/album/5tlafy4PFxdDv5vxuXNlDR) | 2:59 | 2022-10-06 |  |
 | [City Lights and Midnight Blues](https://open.spotify.com/track/4wVMZkj5y4dpT8tvTIBaKw) | [Devon Crouch](https://open.spotify.com/artist/02zs7OtXn8UAl8HAc6hfYZ) | [City Lights and Midnight Blues](https://open.spotify.com/album/5a6KuFxcNag3keou58crVH) | 2:42 | 2023-06-01 |  |
+| [Cityscape](https://open.spotify.com/track/3Y7ZiWwBViTaOeWz6NaZ8F) | [Harry Reed](https://open.spotify.com/artist/1PFJCooFyvogVUkv1abGgu) | [Cityscape](https://open.spotify.com/album/1pNjmKxzeVE3OrXuZNgHRM) | 2:18 | 2024-03-08 |  |
 | [Clear State Of Mind](https://open.spotify.com/track/36OpzLOYcztdNv6V9cJ9DB) | [Herman Anderson](https://open.spotify.com/artist/3SoWeHWTQIqJhegPfsR5Wp) | [Clear State Of Mind](https://open.spotify.com/album/6MVTvA4RGDOGA3XSVRndGY) | 3:32 | 2023-11-17 |  |
 | [Come Lay beside Me](https://open.spotify.com/track/5FzAFM8TN0RyOXHNO5tHTm) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Come Lay beside Me](https://open.spotify.com/album/1IQfTAYfEDbuZ4RwbU26di) | 3:03 | 2022-09-20 |  |
 | [Come Rain Or Come Shine](https://open.spotify.com/track/2KaiRciXTCoGWvDUG6UyXy) | [Maurice Miro](https://open.spotify.com/artist/3xjYq5W31V01cF7BSvVrYb) | [Come Rain Or Come Shine](https://open.spotify.com/album/4BXX5ct1sM5Uk2J1SeY0TH) | 3:40 | 2022-04-26 |  |
+| [Come to Bed](https://open.spotify.com/track/6RDWMyTEWPRPhzCf9BJD3X) | [Meg Lawrence](https://open.spotify.com/artist/4a6PAS1FZgcaDd99xc2wD1) | [Come to Bed](https://open.spotify.com/album/25smdIvY1XMb1d4cWmGID3) | 3:48 | 2024-03-08 |  |
 | [Conversation](https://open.spotify.com/track/3unem1h9c7rRbYvJ9wzJHY) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Conversation](https://open.spotify.com/album/15dZOVU2WT5WKHXo2qdACs) | 2:45 | 2022-05-10 |  |
 | [Crosby Street](https://open.spotify.com/track/22ugSr3HnMXfxTiXsroNQD) | [Carmen Simmons](https://open.spotify.com/artist/6HhW3vf5i1Ao2KsOsdHfbV) | [Crosby Street](https://open.spotify.com/album/5lN5yfRTiTpukhAWyFHxxW) | 2:26 | 2023-10-27 |  |
 | [Cry Me A River](https://open.spotify.com/track/67iXiDkmgd5cy2Tfcowx1G) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Past Closing Time](https://open.spotify.com/album/1E9xMRwRNCkkIW1sCTZm9z) | 3:28 | 2022-01-13 | 2023-05-12 |
@@ -414,6 +418,7 @@
 | [Stars Fell On Alabama](https://open.spotify.com/track/509cZqCtvC6it9bKbuD0hP) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [Stars Fell On Alabama](https://open.spotify.com/album/0K9xMpUcX0Yg3HAcb1IDLO) | 4:21 | 2022-06-29 | 2023-05-12 |
 | [Stay Forever](https://open.spotify.com/track/4wOmdwcVL0Cy1lNfPwIBuD) | [Judy Rowell](https://open.spotify.com/artist/2uLQyd8FvKehSIvwPuU0bO) | [Stay Forever](https://open.spotify.com/album/0CFaJBlAKYkKJUxdPWNs9i) | 2:17 | 2023-08-11 |  |
 | [Stay Here Tonight](https://open.spotify.com/track/1TBHU4rckRwhSTxklMUXhb) | [Andy Luma](https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof) | [Polka Dots and Moonbeams](https://open.spotify.com/album/609qfgCjjErut4a17FegjN) | 2:48 | 2023-03-02 |  |
+| [Stay in Your Lane](https://open.spotify.com/track/3tY6RIiYIUUnxzkIQhlTxt) | [Nineve Wilson](https://open.spotify.com/artist/4ab8hugVrmFzuV4AEGXHgr) | [Stay in Your Lane](https://open.spotify.com/album/35apYnhsneqL04gk6joyq6) | 2:57 | 2024-03-08 |  |
 | [Stella By Starlight](https://open.spotify.com/track/1ETnlcaRH6Sq2xihW7TZPI) | [Benjamin Thorpe](https://open.spotify.com/artist/17kwSCj2gRfzyMYDXjCUbr) | [Stella By Starlight](https://open.spotify.com/album/1ndveuGRfyhEbcfxiA97G7) | 3:02 | 2021-12-14 | 2023-12-15 |
 | [Still playing](https://open.spotify.com/track/3ZmMB5MLuocZsQ7zqoqjMX) | [Jeannie Purdue](https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83) | [Still playing](https://open.spotify.com/album/2ATOhcvDREGBOSfpGb2ecZ) | 2:54 | 2023-06-15 |  |
 | [Stormy Weather](https://open.spotify.com/track/46ryjq76whaLHkJVrvkAqo) | [Marc Leigh](https://open.spotify.com/artist/5xNnoFnVK1iSZnPTvwwjeY) | [Stormy Weather](https://open.spotify.com/album/3ys62gvyRiXgQDeaedo7VO) | 4:07 | 2022-01-13 |  |
@@ -455,6 +460,7 @@
 | [The Songbird](https://open.spotify.com/track/6r0SpNHMhuuUcndaJZ9Zxy) | [Ferragno](https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W) | [The Songbird](https://open.spotify.com/album/0ifVCB5Y3UiwEHjbUnM0xJ) | 2:42 | 2023-12-08 |  |
 | [The Very Thought Of You](https://open.spotify.com/track/6pmSLP6FNkn7eNaHBFHSZI) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv) | [SOLO 1976 A Tribute to Duke Ellington](https://open.spotify.com/album/6BwXDrTA7w4Y4ZzZJSQPYi) | 3:38 | 2022-03-10 | 2023-05-12 |
 | [The Way You Look Tonight](https://open.spotify.com/track/3j2pCB15qVRN5O78T2kTmV) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [The Way You Look Tonight](https://open.spotify.com/album/4ICm9ovrQ3ytWtCDq6oU8L) | 3:46 | 2021-12-14 | 2023-03-18 |
+| [The Winter City](https://open.spotify.com/track/05pEDiNPeDxhChuko5PuWV) | [Timothy Reisen](https://open.spotify.com/artist/4rJYlfkVsUwDk0iDUUBU01) | [The Winter City](https://open.spotify.com/album/3tVToW00W9gNHBtS93dvXs) | 3:21 | 2024-03-08 |  |
 | [There Is No Greater Love](https://open.spotify.com/track/6r9dGlLthkSRTatH3WRkcZ) | [A Whisper](https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy) | [There Is No Greater Love](https://open.spotify.com/album/2lz4pmX60KMhW4WLwrDsDD) | 2:34 | 2023-04-14 |  |
 | [There Will Never Be Another You](https://open.spotify.com/track/5mJK27i7xPE9Whf5WdXGOx) | [Gerald McCarthy](https://open.spotify.com/artist/3cw2WUJF88MB3xRS3VHU9a) | [There Will Never Be Another You](https://open.spotify.com/album/3qF2MbH2rh7QCMheIJXWk0) | 3:00 | 2021-12-14 |  |
 | [There’s always extra](https://open.spotify.com/track/3JPddONpP3AhaEEhS6Vksv) | [Joel Goldberg](https://open.spotify.com/artist/16EJw0CNON2hdNWFcg2AMJ) | [There’s always extra](https://open.spotify.com/album/1lAAR31ZWxeLZc6Hf1TzHo) | 2:05 | 2023-08-11 |  |
@@ -493,6 +499,7 @@
 | [When My Piano Sleeps](https://open.spotify.com/track/5phC8Pv8rQvGNwUnKmU4cZ) | [Trent Garner](https://open.spotify.com/artist/6vrs8wBxBAdOuzOAr0LsZm) | [When My Piano Sleeps](https://open.spotify.com/album/5ybfirWoSKN4w1MDQlxmIb) | 2:25 | 2023-11-17 |  |
 | [When Sunny Gets Blue](https://open.spotify.com/track/3XjlqdQQHehUrAUMYofN7a) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [When Sunny Gets Blue](https://open.spotify.com/album/52eXoXB6bX5hvKocauqYKC) | 4:03 | 2023-02-09 |  |
 | [When The Night Is Young](https://open.spotify.com/track/6I1tdxYGrDclzP0Zholt5c) | [Will Mays](https://open.spotify.com/artist/4jx5IGq82FvwoaN7v0fTil) | [When The Night Is Young](https://open.spotify.com/album/4ianOqLiP8SZzihfVXANER) | 2:32 | 2023-06-15 |  |
+| [When You Come Over](https://open.spotify.com/track/7LqhLEaSc6iREEYKWF3FRR) | [Julius Palladini](https://open.spotify.com/artist/3V5CZtQuix8ETHRNL7wjva) | [When You Come Over](https://open.spotify.com/album/2gos7UfVuuzx5mF0QIVy1s) | 3:00 | 2024-03-08 |  |
 | [Whispers of jazz in the Wind](https://open.spotify.com/track/0GpaPE4QF3ROdwAMThhfVu) | [Kingsley Thomas](https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t) | [Whispers of jazz in the Wind](https://open.spotify.com/album/2J1cpf0a5F0zKdmDEW7c5x) | 2:20 | 2023-06-08 |  |
 | [Who Could Have Known](https://open.spotify.com/track/70Ke4CBLI0C1N0pI9hbvib) | [Karl\-Erik](https://open.spotify.com/artist/3zHaWg01z30TzjlWqSpeB4) | [I'd Never Lie to You](https://open.spotify.com/album/7dDDmbvO3WZWZ3gyhQVqiw) | 2:50 | 2023-03-16 |  |
 | [Witchcraft](https://open.spotify.com/track/787b6CSG5VnNvAATPEk54g) | [Marc Leigh](https://open.spotify.com/artist/5xNnoFnVK1iSZnPTvwwjeY) | [Witchcraft](https://open.spotify.com/album/5TVrp07TaKr7yDNSHu1FHT) | 4:07 | 2022-08-11 |  |

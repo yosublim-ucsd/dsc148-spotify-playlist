@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 
 > Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\. アニメ作品に登場するクラシック音楽と象徴的なサウンドトラックを1つのプレイリストで。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,922 likes - 62 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,097 likes - 62 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 | 16 | [Passacaille in Barcelona](https://open.spotify.com/track/2xH7QrBeYXbX3l4ftsZxsO) | [Taku Matsushiba](https://open.spotify.com/artist/3ITwaLbY4bFzc57CVTKT2u) | [ユートラ/ユーリ!!! on ICE サウンド・トラックCOLLECTION](https://open.spotify.com/album/5kcCBXLWAvaifoNOaNEVuN) | 3:13 |
 | 17 | [ケーナ](https://open.spotify.com/track/1SDr66kP3bN5b7tyhCMorR) | [夢見クジラ](https://open.spotify.com/artist/0utvO9BKKww2LIPIHiFztn) | [TVアニメ『リアデイルの大地にて』Original Soundtrack](https://open.spotify.com/album/5JGyobpgajZLYDTxyF7Mqe) | 1:06 |
 | 18 | [リズと青い鳥 第三楽章「愛ゆえの決断」](https://open.spotify.com/track/04XhdVM3q2qPusWPEmg95c) | [北宇治高校吹奏楽部](https://open.spotify.com/artist/2KcsOu1hIobMNRXYFun6tF) | [映画『リズと青い鳥』オリジナルサウンドトラック「girls,dance,staircase」](https://open.spotify.com/album/5R1zRpVKFErbA55vyRRRPE) | 6:27 |
-| 19 | [Reversal Orchestra \- Main Theme](https://open.spotify.com/track/1OvmwxK4zNWaHNTiPUtkaE) | [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2), [啼鵬](https://open.spotify.com/artist/1FI9S6aeJTuR7md0tSBo5h) | [Reversal Orchestra Original Soundtrack](https://open.spotify.com/album/50nc0VNoR3wdoFLRlF5bQ6) | 4:24 |
+| 19 | [Reversal Orchestra \- Main Theme](https://open.spotify.com/track/3Svgbwld2wy138GsexpGg3) | [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2), [啼鵬](https://open.spotify.com/artist/1FI9S6aeJTuR7md0tSBo5h) | [Reversal Orchestra Original Soundtrack](https://open.spotify.com/album/2TqEGNawo8VievBtyYxBkp) | 4:24 |
 | 20 | [A Town with an Ocean View \- from 'Kiki's Delivery Service'](https://open.spotify.com/track/5LLMUx9GcRSpkOqOIBIONw) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [A Symphonic Celebration \- Music from the Studio Ghibli Films of Hayao Miyazaki](https://open.spotify.com/album/561qUZZO6f2sILHUMlXmlM) | 3:58 |
 | 21 | [Sonata No\. 8 in C Minor, Op\. 13 "Pathétique": II\. Adagio cantabile \- Remastered](https://open.spotify.com/track/3XIGtjlniVGZgYuvZ1A9CF) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP) | [Beethoven: Piano Sonatas Nos\. 8\-10 \(Gould Remastered\)](https://open.spotify.com/album/0isMuQNesHMv674ps90zDj) | 4:45 |
 | 22 | [Opening \(1st Movement: Aoki Umi ni Midare no Yokan\)](https://open.spotify.com/track/4TuLDhvuhQsbmqfRIn1L5w) | [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [MOBILE SUIT GUNDAM SEED Symphony SEED](https://open.spotify.com/album/32NnCOfYPQyrA7OJjIviJI) | 5:27 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 | 61 | [L'isle joyeuse, L\. 106](https://open.spotify.com/track/4VTnc3rElZ3Ihcz5VM8mXa) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [Debussy](https://open.spotify.com/album/4tYYPSmCZM2bmfrJvXAOfr) | 6:15 |
 | 62 | [where you are](https://open.spotify.com/track/3Yr8fFmMIW72uVPX9HnuaX) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [.hack//SIGN ORIGINAL SOUND & SONG TRACK2](https://open.spotify.com/album/4kwNMHXCWOkqy1MmwqCV2y) | 1:26 |
 
-Snapshot ID: `MCxhYzhlODE4OTdlOGIyNDc1MzQ1NTQwMWU2OTEzMDY0MTljZGNhNWE2`
+Snapshot ID: `MCxiYTU2Y2MxMmNmY2I3NjdkYjUzYThiNTUzNGQyODNjOTlmZmI2ZmJj`

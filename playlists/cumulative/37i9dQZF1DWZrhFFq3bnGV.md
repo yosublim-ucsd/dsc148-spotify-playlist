@@ -2,9 +2,9 @@
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Adikara
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Natasya Elvira, Ardhito Pramono
 
-169 songs - 12 hr 9 min
+170 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [fake optics](https://open.spotify.com/track/6claTdKnG2FOnikFadYeno) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [fake optics](https://open.spotify.com/album/4PNP4xTW095tbZZinDRbXw) | 3:25 | 2022-09-02 | 2024-01-26 |
 | [Feeling](https://open.spotify.com/track/0lKHpAK3ybZxuX7K5KuOnm) | [Adrian Setiawan](https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn), [Diona Dewiriana](https://open.spotify.com/artist/5TCbrPG4VAeoypYoHsLsAf) | [Feeling](https://open.spotify.com/album/6utFX9YFFC48mhZrlUcK9i) | 3:52 | 2022-09-02 | 2023-01-27 |
 | [Fonk in the City](https://open.spotify.com/track/0QQKhBgzF6SLBgzWYeEgnm) | [Saxx in the City](https://open.spotify.com/artist/3dTx0MCeatvtqmdV7vYecG) | [Fonk in the City](https://open.spotify.com/album/5o5IiiD5liCqOuJe9ez356) | 4:10 | 2023-03-03 |  |
+| [Forever Last](https://open.spotify.com/track/4VqjN6MoZ5MPuVkeQKHs3Y) | [Natasya Elvira](https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw), [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Forever Last](https://open.spotify.com/album/4xNCUM9mI8Err4bJ9Dsn9r) | 3:43 | 2024-03-07 |  |
 | [Four in One](https://open.spotify.com/track/5WalKss7FNnbycpzsUA541) | [Sri Hanuraga](https://open.spotify.com/artist/6oBbSq1WI51saPC5Vys7z2) | [Sri Hanuraga](https://open.spotify.com/album/323tohGgkGeaOgDmA3lx2L) | 4:38 | 2023-03-03 | 2023-08-25 |
 | [Freedom](https://open.spotify.com/track/5ylKg6kcyKk0m6QeEpVDvG) | [Daniel Dyonisius](https://open.spotify.com/artist/3rFQcgQRZYIe2VOuY5XlLV), [Dewa Budjana](https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB) | [Miles to Go](https://open.spotify.com/album/6lkLDekAYpvRIlph4rOGEX) | 8:07 | 2022-09-02 | 2023-08-18 |
 | [Funjam](https://open.spotify.com/track/5gigOxZ701Ezong2ua23Ab) | [Echa Soemantri](https://open.spotify.com/artist/4iiKBvCYsDz8Jes3XX04JX) | [Funjam](https://open.spotify.com/album/0NoJTZ74E8d1P85bvwzxm7) | 4:26 | 2022-09-02 | 2023-08-18 |

@@ -1,67 +1,15 @@
 {
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Zamdane",
-  "num_followers": 352927,
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : mademoiselle lou",
+  "num_followers": 352951,
   "original_name": "Cloud Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmQyZDk1ODRiMGVlZTQwZGE0ODljMTlmN2FmNmYxNDhmMDIzYjQx",
+  "snapshot_id": "MCw0NjJkMmE3ZmJiZmE0NWVhZDJjNGEwOWI0ZGNhYTNjNjBhOTlmYWYw",
   "tracks": [
     {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "SOLSAD",
-        "url": "https://open.spotify.com/album/0fZgRt7DLwwWSErSJjJAiP"
-      },
-      "artists": [
-        {
-          "name": "Zamdane",
-          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
-        },
-        {
-          "name": "So La Lune",
-          "url": "https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7"
-        }
-      ],
-      "duration_ms": 169746,
-      "name": "Boboalam",
-      "url": "https://open.spotify.com/track/03Dt6KdZz1QrL898QxEdmb"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "Quali",
-        "url": "https://open.spotify.com/album/0Lq1A7KSLELxh6vJXHKihF"
-      },
-      "artists": [
-        {
-          "name": "OBOY",
-          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
-        }
-      ],
-      "duration_ms": 181649,
-      "name": "Quali",
-      "url": "https://open.spotify.com/track/1FiWe3fM6toG3XapfJpJBY"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "23 -",
-        "url": "https://open.spotify.com/album/5ncfRnCt3xSTJMnoAgplCI"
-      },
-      "artists": [
-        {
-          "name": "Khali",
-          "url": "https://open.spotify.com/artist/0rqQfmTWtmxzlrNmnruQXS"
-        }
-      ],
-      "duration_ms": 187431,
-      "name": "BOTTEGA",
-      "url": "https://open.spotify.com/track/4N3H6Pe1BHEKGMx2U3vIjB"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "LES VOIX",
         "url": "https://open.spotify.com/album/69qjY0Ei6IyvCXW4BdWc4O"
@@ -81,7 +29,43 @@
       "url": "https://open.spotify.com/track/1huSfoDNZogC8dA2WSJGRA"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "SOLSAD",
+        "url": "https://open.spotify.com/album/0fZgRt7DLwwWSErSJjJAiP"
+      },
+      "artists": [
+        {
+          "name": "Zamdane",
+          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
+        },
+        {
+          "name": "So La Lune",
+          "url": "https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7"
+        }
+      ],
+      "duration_ms": 169746,
+      "name": "Boboalam",
+      "url": "https://open.spotify.com/track/03Dt6KdZz1QrL898QxEdmb"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "Quali",
+        "url": "https://open.spotify.com/album/0Lq1A7KSLELxh6vJXHKihF"
+      },
+      "artists": [
+        {
+          "name": "OBOY",
+          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
+        }
+      ],
+      "duration_ms": 181649,
+      "name": "Quali",
+      "url": "https://open.spotify.com/track/1FiWe3fM6toG3XapfJpJBY"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "DANS L'TRAP",
         "url": "https://open.spotify.com/album/3R96xzeG9JkMeeWBy1k626"
@@ -97,7 +81,23 @@
       "url": "https://open.spotify.com/track/374qdqFUlA7IwLSuC23WQE"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "SUN7",
+        "url": "https://open.spotify.com/album/07IfuWJbMzAw6cTie8Wyu0"
+      },
+      "artists": [
+        {
+          "name": "HOUDI",
+          "url": "https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6"
+        }
+      ],
+      "duration_ms": 171200,
+      "name": "AVANT TOI",
+      "url": "https://open.spotify.com/track/5x4cFSRsvdCdizLzK8FZXs"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "L'enfant de la pluie",
         "url": "https://open.spotify.com/album/1rRzBrjF3ecUSEEeq9EhNU"
@@ -117,39 +117,23 @@
       "url": "https://open.spotify.com/track/12osSdbZiGimTHFdaLmSFS"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
-        "name": "SUN7",
-        "url": "https://open.spotify.com/album/07IfuWJbMzAw6cTie8Wyu0"
+        "name": "23 -",
+        "url": "https://open.spotify.com/album/5ncfRnCt3xSTJMnoAgplCI"
       },
       "artists": [
         {
-          "name": "HOUDI",
-          "url": "https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6"
+          "name": "Khali",
+          "url": "https://open.spotify.com/artist/0rqQfmTWtmxzlrNmnruQXS"
         }
       ],
-      "duration_ms": 171200,
-      "name": "AVANT TOI",
-      "url": "https://open.spotify.com/track/5x4cFSRsvdCdizLzK8FZXs"
+      "duration_ms": 187431,
+      "name": "BOTTEGA",
+      "url": "https://open.spotify.com/track/4N3H6Pe1BHEKGMx2U3vIjB"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "AINSIFAITE",
-        "url": "https://open.spotify.com/album/5dVQq8KcIzHLk2n080xABL"
-      },
-      "artists": [
-        {
-          "name": "Telam",
-          "url": "https://open.spotify.com/artist/4YH9nYMnKZDKIXRFQrhRON"
-        }
-      ],
-      "duration_ms": 137812,
-      "name": "AINSIFAITE",
-      "url": "https://open.spotify.com/track/3vacN4Oe8Yn2eMHZBvKySP"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "Karma (Extended)",
         "url": "https://open.spotify.com/album/5Rx2hiXG1JTKJFIhjkitd2"
@@ -165,7 +149,23 @@
       "url": "https://open.spotify.com/track/2QjuqvJRPxx4Bs6CNFi2Zz"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "Parler tout bas",
+        "url": "https://open.spotify.com/album/0cISJv7xclDDO4wKFH8ldc"
+      },
+      "artists": [
+        {
+          "name": "Bouss",
+          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
+        }
+      ],
+      "duration_ms": 201750,
+      "name": "Parler tout bas",
+      "url": "https://open.spotify.com/track/78llSmtimcWfFlybSZlmJz"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "Geneva",
         "url": "https://open.spotify.com/album/4u84K5dAcGP8ew41zNnqKu"
@@ -189,23 +189,7 @@
       "url": "https://open.spotify.com/track/0qfXETr4UazAeIbOzhsZJm"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "Paro",
-        "url": "https://open.spotify.com/album/2SRZZ9c3XFunt6QV9oozbh"
-      },
-      "artists": [
-        {
-          "name": "HB VIZ",
-          "url": "https://open.spotify.com/artist/2YvqH9hhReN1V77RTUxU8I"
-        }
-      ],
-      "duration_ms": 164034,
-      "name": "Paro",
-      "url": "https://open.spotify.com/track/3aOP50V0Wey9WpFrpYjfGO"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "D\u00e9sol\u00e9, d'\u00eatre moi.",
         "url": "https://open.spotify.com/album/1nsFtCQo2jmjJBoRqYYlS6"
@@ -221,7 +205,7 @@
       "url": "https://open.spotify.com/track/4FNp7K8k1WXNIfMZL4sV6r"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "Cicatrices",
         "url": "https://open.spotify.com/album/6iou1JJdcUlbvNnUdmXuDR"
@@ -237,7 +221,7 @@
       "url": "https://open.spotify.com/track/6EkySKKzlCoJrcNXE8sfhG"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "L'enfant de la pluie",
         "url": "https://open.spotify.com/album/1rRzBrjF3ecUSEEeq9EhNU"
@@ -257,23 +241,7 @@
       "url": "https://open.spotify.com/track/6OtC63b0k3p5PADayP1hkV"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "Si demain je t'aime",
-        "url": "https://open.spotify.com/album/4EzklkyTSK2FUQD8C0bxZc"
-      },
-      "artists": [
-        {
-          "name": "Eline",
-          "url": "https://open.spotify.com/artist/5bGFc6JdtR529TQfHSmMYF"
-        }
-      ],
-      "duration_ms": 166315,
-      "name": "Si demain je t'aime",
-      "url": "https://open.spotify.com/track/6v7vxXFrKUFhDSFDlryU8D"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "zeppelin",
         "url": "https://open.spotify.com/album/0XAHLS9hIoTUtRbWPSESj7"
@@ -293,7 +261,39 @@
       "url": "https://open.spotify.com/track/72CrKgMTYBumZL48BUx6Y1"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "Paro",
+        "url": "https://open.spotify.com/album/2SRZZ9c3XFunt6QV9oozbh"
+      },
+      "artists": [
+        {
+          "name": "HB VIZ",
+          "url": "https://open.spotify.com/artist/2YvqH9hhReN1V77RTUxU8I"
+        }
+      ],
+      "duration_ms": 164034,
+      "name": "Paro",
+      "url": "https://open.spotify.com/track/3aOP50V0Wey9WpFrpYjfGO"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "AINSIFAITE",
+        "url": "https://open.spotify.com/album/5dVQq8KcIzHLk2n080xABL"
+      },
+      "artists": [
+        {
+          "name": "Telam",
+          "url": "https://open.spotify.com/artist/4YH9nYMnKZDKIXRFQrhRON"
+        }
+      ],
+      "duration_ms": 137812,
+      "name": "AINSIFAITE",
+      "url": "https://open.spotify.com/track/3vacN4Oe8Yn2eMHZBvKySP"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "M\u00e9lancolie criminelle - A COLORS SHOW",
         "url": "https://open.spotify.com/album/4tJVAb99fGJ7NmwnJBhB1H"
@@ -313,91 +313,23 @@
       "url": "https://open.spotify.com/track/6MF5rZ57E3tDYY5KR36QMd"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
-        "name": "L.A",
-        "url": "https://open.spotify.com/album/15M0JoyRtvRUoXga8dK5M5"
+        "name": "Boulot dodo",
+        "url": "https://open.spotify.com/album/6D1MCxFBPdeF74Swz2YHyE"
       },
       "artists": [
         {
-          "name": "OSO",
-          "url": "https://open.spotify.com/artist/7v8eES96R5p4lUkinWKY1g"
+          "name": "GS",
+          "url": "https://open.spotify.com/artist/5rtvBFj4IeWDwKjf9cmeKv"
         }
       ],
-      "duration_ms": 113963,
-      "name": "L.A",
-      "url": "https://open.spotify.com/track/1N95r73FzRwmEp0Tay0q2y"
+      "duration_ms": 164000,
+      "name": "Boulot dodo",
+      "url": "https://open.spotify.com/track/6uZw5oZjjbef3fb1Nm3Frl"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "Le jour se l\u00e8ve",
-        "url": "https://open.spotify.com/album/76IvkXLqQzw6JrjwOIq2PL"
-      },
-      "artists": [
-        {
-          "name": "Selug",
-          "url": "https://open.spotify.com/artist/3j2UfwsNoDqcuoGh8gp0qi"
-        },
-        {
-          "name": "$enar",
-          "url": "https://open.spotify.com/artist/4aG6mP1P80gOIpELCWePG5"
-        }
-      ],
-      "duration_ms": 133320,
-      "name": "Le jour se l\u00e8ve",
-      "url": "https://open.spotify.com/track/6qwe1TVcoWQ5oCVMmDKvV8"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "HABITU\u00c9",
-        "url": "https://open.spotify.com/album/0xlt4h3AX1YRqg1HHtOU01"
-      },
-      "artists": [
-        {
-          "name": "Moha MMZ",
-          "url": "https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T"
-        }
-      ],
-      "duration_ms": 180901,
-      "name": "HABITU\u00c9",
-      "url": "https://open.spotify.com/track/7csw8z3PQlXWpmoX29wSLX"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "nebula",
-        "url": "https://open.spotify.com/album/4FNFa5X1j7FhS3IRchDgqm"
-      },
-      "artists": [
-        {
-          "name": "Ashh",
-          "url": "https://open.spotify.com/artist/4YUcg2ee9TxMNdjhAxzZBF"
-        }
-      ],
-      "duration_ms": 210256,
-      "name": "nebula",
-      "url": "https://open.spotify.com/track/4dWQt09nlBLh34No9tNA5o"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "CYCLOPE",
-        "url": "https://open.spotify.com/album/7wbaB5YZY7gzv93wm1ZIdu"
-      },
-      "artists": [
-        {
-          "name": "GR OMEGA",
-          "url": "https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ"
-        }
-      ],
-      "duration_ms": 124092,
-      "name": "CYCLOPE",
-      "url": "https://open.spotify.com/track/7xFKQU5QkRuVCxIoWseuMv"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "MIEL",
         "url": "https://open.spotify.com/album/4dWovRp9R5G9mXcO5ooSi7"
@@ -417,67 +349,23 @@
       "url": "https://open.spotify.com/track/5hFImCo7K3URs5Gn9kj7QU"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
-        "name": "Erreurs",
-        "url": "https://open.spotify.com/album/18zqFhr6pzfcvQmKnPcvMc"
+        "name": "Heureusement",
+        "url": "https://open.spotify.com/album/6uMOpdBVbFjlRt7Q3u1JyB"
       },
       "artists": [
         {
-          "name": "VERSIONBETA7",
-          "url": "https://open.spotify.com/artist/2YvuJOwUvNHDJQAOApnBBR"
+          "name": "joysad",
+          "url": "https://open.spotify.com/artist/6CZr9MXuLgVw8tcZxrf29Z"
         }
       ],
-      "duration_ms": 159642,
-      "name": "Para",
-      "url": "https://open.spotify.com/track/32wwxrB9l4hEj2KeW6fR4l"
+      "duration_ms": 158793,
+      "name": "Heureusement",
+      "url": "https://open.spotify.com/track/2RVDL4W0aKShVflFxNTkfH"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "Sans nouvelles",
-        "url": "https://open.spotify.com/album/2eMLdPbMAjpcn2MKC3zoly"
-      },
-      "artists": [
-        {
-          "name": "Roshi",
-          "url": "https://open.spotify.com/artist/4bDcCV0zjPsVs2GxtduYry"
-        },
-        {
-          "name": "Amine Farsi",
-          "url": "https://open.spotify.com/artist/1jsITtntorE3UE5JMAZ2j6"
-        },
-        {
-          "name": "Gradur",
-          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
-        }
-      ],
-      "duration_ms": 184400,
-      "name": "Sans nouvelles",
-      "url": "https://open.spotify.com/track/6b4sQI99B6JRnrVsICipYw"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": ".Libre. (vide)",
-        "url": "https://open.spotify.com/album/3TL8QvEJVBhtiGL9L3S3Io"
-      },
-      "artists": [
-        {
-          "name": "Furlax",
-          "url": "https://open.spotify.com/artist/4bmXnAfcFe859ozMNFpFok"
-        },
-        {
-          "name": "Advm",
-          "url": "https://open.spotify.com/artist/6BSFL5j2A7WVhwPGAuLEQV"
-        }
-      ],
-      "duration_ms": 233696,
-      "name": ".Libre. (vide)",
-      "url": "https://open.spotify.com/track/6Mb2Xc7MFCI51Lc3aqTwIE"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "DREAM",
         "url": "https://open.spotify.com/album/33pQuNvu4WTZ5a4uYDiTYc"
@@ -497,7 +385,107 @@
       "url": "https://open.spotify.com/track/4WbTmfPKimbUHgLsCeEFdH"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "NOCTURNE Pt. 1",
+        "url": "https://open.spotify.com/album/43vvMCkTc3trOqOv5irP9b"
+      },
+      "artists": [
+        {
+          "name": "Lapostroz",
+          "url": "https://open.spotify.com/artist/3Bqyb0gNZGktVUZUlE1OGj"
+        }
+      ],
+      "duration_ms": 136172,
+      "name": "MANIFIC",
+      "url": "https://open.spotify.com/track/7f6XGcLhUUKyqOdYTAojWf"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "Si demain je t'aime",
+        "url": "https://open.spotify.com/album/4EzklkyTSK2FUQD8C0bxZc"
+      },
+      "artists": [
+        {
+          "name": "Eline",
+          "url": "https://open.spotify.com/artist/5bGFc6JdtR529TQfHSmMYF"
+        }
+      ],
+      "duration_ms": 166315,
+      "name": "Si demain je t'aime",
+      "url": "https://open.spotify.com/track/6v7vxXFrKUFhDSFDlryU8D"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "Erreurs",
+        "url": "https://open.spotify.com/album/18zqFhr6pzfcvQmKnPcvMc"
+      },
+      "artists": [
+        {
+          "name": "VERSIONBETA7",
+          "url": "https://open.spotify.com/artist/2YvuJOwUvNHDJQAOApnBBR"
+        }
+      ],
+      "duration_ms": 159642,
+      "name": "Para",
+      "url": "https://open.spotify.com/track/32wwxrB9l4hEj2KeW6fR4l"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "/ ASTRONAUTE",
+        "url": "https://open.spotify.com/album/2mhWk7hFpwjlyI4lvoIMA2"
+      },
+      "artists": [
+        {
+          "name": "PEX",
+          "url": "https://open.spotify.com/artist/7886qlyqkykNxzVdc1Kk9R"
+        }
+      ],
+      "duration_ms": 172631,
+      "name": "/ ASTRONAUTE",
+      "url": "https://open.spotify.com/track/5q9H4LZVRv2zOJAWwBByLt"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "ST LAURENT",
+        "url": "https://open.spotify.com/album/0v2bIR2zImzb0X6NWxOacQ"
+      },
+      "artists": [
+        {
+          "name": "Jeunesaint",
+          "url": "https://open.spotify.com/artist/7cVhbi4q498qnpR64Cwr2y"
+        }
+      ],
+      "duration_ms": 173602,
+      "name": "ST LAURENT",
+      "url": "https://open.spotify.com/track/1Whvk9BgbTjVB4XMV1RxeN"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": ".Libre. (vide)",
+        "url": "https://open.spotify.com/album/3TL8QvEJVBhtiGL9L3S3Io"
+      },
+      "artists": [
+        {
+          "name": "Furlax",
+          "url": "https://open.spotify.com/artist/4bmXnAfcFe859ozMNFpFok"
+        },
+        {
+          "name": "Advm",
+          "url": "https://open.spotify.com/artist/6BSFL5j2A7WVhwPGAuLEQV"
+        }
+      ],
+      "duration_ms": 233696,
+      "name": ".Libre. (vide)",
+      "url": "https://open.spotify.com/track/6Mb2Xc7MFCI51Lc3aqTwIE"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "ILY",
         "url": "https://open.spotify.com/album/3JJ3JA8Wv6HnLfxAKOCxG7"
@@ -517,55 +505,27 @@
       "url": "https://open.spotify.com/track/2lIYPLyflIuOaES0DPb8QC"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
-        "name": "ST LAURENT",
-        "url": "https://open.spotify.com/album/0v2bIR2zImzb0X6NWxOacQ"
+        "name": "Le jour se l\u00e8ve",
+        "url": "https://open.spotify.com/album/76IvkXLqQzw6JrjwOIq2PL"
       },
       "artists": [
         {
-          "name": "Jeunesaint",
-          "url": "https://open.spotify.com/artist/7cVhbi4q498qnpR64Cwr2y"
-        }
-      ],
-      "duration_ms": 173602,
-      "name": "ST LAURENT",
-      "url": "https://open.spotify.com/track/1Whvk9BgbTjVB4XMV1RxeN"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "ICE",
-        "url": "https://open.spotify.com/album/7M1WGdWsIKZLjQLW4U9erX"
-      },
-      "artists": [
+          "name": "Selug",
+          "url": "https://open.spotify.com/artist/3j2UfwsNoDqcuoGh8gp0qi"
+        },
         {
-          "name": "Ayvee",
-          "url": "https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae"
+          "name": "$enar",
+          "url": "https://open.spotify.com/artist/4aG6mP1P80gOIpELCWePG5"
         }
       ],
-      "duration_ms": 114028,
-      "name": "semaine",
-      "url": "https://open.spotify.com/track/3bpXZgji2jrTE32XpsZI6k"
+      "duration_ms": 133320,
+      "name": "Le jour se l\u00e8ve",
+      "url": "https://open.spotify.com/track/6qwe1TVcoWQ5oCVMmDKvV8"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "Heureusement",
-        "url": "https://open.spotify.com/album/6uMOpdBVbFjlRt7Q3u1JyB"
-      },
-      "artists": [
-        {
-          "name": "joysad",
-          "url": "https://open.spotify.com/artist/6CZr9MXuLgVw8tcZxrf29Z"
-        }
-      ],
-      "duration_ms": 158793,
-      "name": "Heureusement",
-      "url": "https://open.spotify.com/track/2RVDL4W0aKShVflFxNTkfH"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "HORS LIGNE CE SOIR",
         "url": "https://open.spotify.com/album/5L9V0HxSW1DWCl6ElveExY"
@@ -581,7 +541,7 @@
       "url": "https://open.spotify.com/track/2mmaaAzG2Mq496poYvKTbm"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/2o9EiJ3C397bqvknB0oQqw"
@@ -597,7 +557,7 @@
       "url": "https://open.spotify.com/track/74ybaViAxhYYyOwwJ74Ht6"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "Gardien du Labyrinthe",
         "url": "https://open.spotify.com/album/0qCijZ9tv7v38CxL4tO7zQ"
@@ -613,23 +573,71 @@
       "url": "https://open.spotify.com/track/0YofBGEEMMQGidD3sQcqvp"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
-        "name": "Saudade",
-        "url": "https://open.spotify.com/album/0K5d2mb8sn9RszeoWxJ0N6"
+        "name": "CYCLOPE",
+        "url": "https://open.spotify.com/album/7wbaB5YZY7gzv93wm1ZIdu"
       },
       "artists": [
         {
-          "name": "Django",
-          "url": "https://open.spotify.com/artist/5gU8eqolA1bziWv6e3Wjp3"
+          "name": "GR OMEGA",
+          "url": "https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ"
         }
       ],
-      "duration_ms": 155990,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/1euiSBqrrv34yTtHIJwTT7"
+      "duration_ms": 124092,
+      "name": "CYCLOPE",
+      "url": "https://open.spotify.com/track/7xFKQU5QkRuVCxIoWseuMv"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "L.A",
+        "url": "https://open.spotify.com/album/15M0JoyRtvRUoXga8dK5M5"
+      },
+      "artists": [
+        {
+          "name": "OSO",
+          "url": "https://open.spotify.com/artist/7v8eES96R5p4lUkinWKY1g"
+        }
+      ],
+      "duration_ms": 113963,
+      "name": "L.A",
+      "url": "https://open.spotify.com/track/1N95r73FzRwmEp0Tay0q2y"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "nebula",
+        "url": "https://open.spotify.com/album/4FNFa5X1j7FhS3IRchDgqm"
+      },
+      "artists": [
+        {
+          "name": "Ashh",
+          "url": "https://open.spotify.com/artist/4YUcg2ee9TxMNdjhAxzZBF"
+        }
+      ],
+      "duration_ms": 210256,
+      "name": "nebula",
+      "url": "https://open.spotify.com/track/4dWQt09nlBLh34No9tNA5o"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "HABITU\u00c9",
+        "url": "https://open.spotify.com/album/0xlt4h3AX1YRqg1HHtOU01"
+      },
+      "artists": [
+        {
+          "name": "Moha MMZ",
+          "url": "https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T"
+        }
+      ],
+      "duration_ms": 180901,
+      "name": "HABITU\u00c9",
+      "url": "https://open.spotify.com/track/7csw8z3PQlXWpmoX29wSLX"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "A\u00efcha",
         "url": "https://open.spotify.com/album/0oae25t19eKc6zm5oEvaOL"
@@ -645,7 +653,23 @@
       "url": "https://open.spotify.com/track/3Z2lGD8m63wJ93bQ7BJrPT"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "ICE",
+        "url": "https://open.spotify.com/album/7M1WGdWsIKZLjQLW4U9erX"
+      },
+      "artists": [
+        {
+          "name": "Ayvee",
+          "url": "https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae"
+        }
+      ],
+      "duration_ms": 114028,
+      "name": "semaine",
+      "url": "https://open.spotify.com/track/3bpXZgji2jrTE32XpsZI6k"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "Hurac\u00e1n",
         "url": "https://open.spotify.com/album/3QaBscX89yOeQckVdbEOX7"
@@ -661,23 +685,7 @@
       "url": "https://open.spotify.com/track/4Ya7MdSv0pBinTTTYc8qgW"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "Inside",
-        "url": "https://open.spotify.com/album/2DLmf3Sa2M7A7FjUrMOrok"
-      },
-      "artists": [
-        {
-          "name": "Thomas Goldberg",
-          "url": "https://open.spotify.com/artist/3mJSQo9rHKT7rqI949eCBd"
-        }
-      ],
-      "duration_ms": 188108,
-      "name": "Inside",
-      "url": "https://open.spotify.com/track/6w4TWairwhLKZoz72sfhwP"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "Van Cleef",
         "url": "https://open.spotify.com/album/43zoP8neUAjDQRqtqver6C"
@@ -695,22 +703,6 @@
       "duration_ms": 143297,
       "name": "Tranch\u00e9es",
       "url": "https://open.spotify.com/track/3GbI95bOGncWZrb7rw3hd9"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "M\u00eame endroit",
-        "url": "https://open.spotify.com/album/4jhFORYq9OfAOesOgVPZGF"
-      },
-      "artists": [
-        {
-          "name": "Rvzmo",
-          "url": "https://open.spotify.com/artist/6QQSZZB94LcSTNd1hrTw5z"
-        }
-      ],
-      "duration_ms": 115200,
-      "name": "M\u00eame endroit",
-      "url": "https://open.spotify.com/track/0ct2OyqqdMHxkur8pLQgxh"
     }
   ],
   "unique_name": "Cloud Rap",

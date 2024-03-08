@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: Caleb Awiti",
+  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: Bridget Blue",
   "name": "NairoBae",
   "tracks": [
     {
@@ -382,7 +382,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 190000,
       "name": "Crocodile Tears",
       "url": "https://open.spotify.com/track/4vCYRoGObAKP9KN8ZYr4ng"
@@ -1048,6 +1048,24 @@
       "duration_ms": 133833,
       "name": "I Love the Way You",
       "url": "https://open.spotify.com/track/5Eun2OrvZnSvzpPK5Wg5OD"
+    },
+    {
+      "album": {
+        "name": "I'm Here",
+        "url": "https://open.spotify.com/album/2Rj3tI88QYmUcSiC1Mqsp6"
+      },
+      "artists": [
+        {
+          "name": "Bridget Blue",
+          "url": "https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192416,
+      "name": "I'm Here",
+      "url": "https://open.spotify.com/track/7joutRkcXCkujSPf9x5WB3"
     },
     {
       "album": {

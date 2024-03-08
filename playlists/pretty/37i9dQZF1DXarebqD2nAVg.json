@@ -1,12 +1,12 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 446509,
+  "num_followers": 446551,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzc5MmY1ZDkxYmNiMjRkMjJhMTc4OTYyMzc3MzlmOTcyOTBiNDU3",
+  "snapshot_id": "MCxlMzA2NzMzYmFlM2NjZWNmNTg4NTMzZmMwNDNjZTY1YmFiN2I4MGE2",
   "tracks": [
     {
       "added_at": "2024-03-06 16:03:05",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-03-06 16:03:05",
       "album": {
-        "name": "Memories & Notes",
-        "url": "https://open.spotify.com/album/3EeK9doDTJjMcpLw7gDQbt"
-      },
-      "artists": [
-        {
-          "name": "Juliette",
-          "url": "https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ"
-        }
-      ],
-      "duration_ms": 113357,
-      "name": "Memories & Notes",
-      "url": "https://open.spotify.com/track/0LJeA9BFfwRfsOTxzhWzCF"
-    },
-    {
-      "added_at": "2024-03-06 16:03:05",
-      "album": {
         "name": "Dreemin'",
         "url": "https://open.spotify.com/album/44WEHjidINWRXTcjHP9mF0"
       },
@@ -139,6 +123,22 @@
     {
       "added_at": "2024-03-06 16:03:05",
       "album": {
+        "name": "Memories & Notes",
+        "url": "https://open.spotify.com/album/3EeK9doDTJjMcpLw7gDQbt"
+      },
+      "artists": [
+        {
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ"
+        }
+      ],
+      "duration_ms": 113357,
+      "name": "Memories & Notes",
+      "url": "https://open.spotify.com/track/0LJeA9BFfwRfsOTxzhWzCF"
+    },
+    {
+      "added_at": "2024-03-06 16:03:05",
+      "album": {
         "name": "stars",
         "url": "https://open.spotify.com/album/7zATELz7aEu6qqWkPt4f47"
       },
@@ -151,22 +151,6 @@
       "duration_ms": 132512,
       "name": "stars",
       "url": "https://open.spotify.com/track/3ac8arqtWalbF7IOrgXzoi"
-    },
-    {
-      "added_at": "2024-03-06 16:03:05",
-      "album": {
-        "name": "buffering",
-        "url": "https://open.spotify.com/album/3syTXC5V5QHDPFMVIbdQ8L"
-      },
-      "artists": [
-        {
-          "name": "drawn animal",
-          "url": "https://open.spotify.com/artist/1Y6lFDIG5QZMrt1AlvW89P"
-        }
-      ],
-      "duration_ms": 125500,
-      "name": "buffering",
-      "url": "https://open.spotify.com/track/56GSCStJ5kWkGg8X2Ofgvp"
     },
     {
       "added_at": "2024-03-06 16:03:05",
@@ -199,6 +183,22 @@
       "duration_ms": 141000,
       "name": "Call It A Night",
       "url": "https://open.spotify.com/track/4T7oDgtpVj7mvGseuU7nyA"
+    },
+    {
+      "added_at": "2024-03-06 16:03:05",
+      "album": {
+        "name": "buffering",
+        "url": "https://open.spotify.com/album/3syTXC5V5QHDPFMVIbdQ8L"
+      },
+      "artists": [
+        {
+          "name": "drawn animal",
+          "url": "https://open.spotify.com/artist/1Y6lFDIG5QZMrt1AlvW89P"
+        }
+      ],
+      "duration_ms": 125500,
+      "name": "buffering",
+      "url": "https://open.spotify.com/track/56GSCStJ5kWkGg8X2Ofgvp"
     },
     {
       "added_at": "2024-03-06 16:03:05",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-03-06 16:03:05",
       "album": {
+        "name": "falling behind",
+        "url": "https://open.spotify.com/album/78Xt50bJ6SeWBoXjL8wpGK"
+      },
+      "artists": [
+        {
+          "name": "softclouds",
+          "url": "https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d"
+        }
+      ],
+      "duration_ms": 137812,
+      "name": "falling behind",
+      "url": "https://open.spotify.com/track/01IdQkdBqnyp4mhCDRGx5D"
+    },
+    {
+      "added_at": "2024-03-06 16:03:05",
+      "album": {
         "name": "soul",
         "url": "https://open.spotify.com/album/4uQ6ul2x84hfo75G4hl7EW"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 180000,
       "name": "Choke",
       "url": "https://open.spotify.com/track/2bSN2xip2QqAWzpziLxbiy"
-    },
-    {
-      "added_at": "2024-03-06 16:03:05",
-      "album": {
-        "name": "falling behind",
-        "url": "https://open.spotify.com/album/78Xt50bJ6SeWBoXjL8wpGK"
-      },
-      "artists": [
-        {
-          "name": "softclouds",
-          "url": "https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d"
-        }
-      ],
-      "duration_ms": 137812,
-      "name": "falling behind",
-      "url": "https://open.spotify.com/track/01IdQkdBqnyp4mhCDRGx5D"
     },
     {
       "added_at": "2024-03-06 16:03:05",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-03-06 16:03:05",
       "album": {
-        "name": "Corals",
-        "url": "https://open.spotify.com/album/1o5iflLRe5yh0B8o9gbbF4"
-      },
-      "artists": [
-        {
-          "name": "Fujitsu",
-          "url": "https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "Driftwood",
-      "url": "https://open.spotify.com/track/7JVfIv0ymBzxJNGuWpHbWZ"
-    },
-    {
-      "added_at": "2024-03-06 16:03:05",
-      "album": {
         "name": "Pause",
         "url": "https://open.spotify.com/album/1SGKhtJ0H8iLa4Q9CKsjOP"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 171627,
       "name": "Louie's Lullaby",
       "url": "https://open.spotify.com/track/7F8Xws8eSnpObHqUfbei71"
+    },
+    {
+      "added_at": "2024-03-06 16:03:05",
+      "album": {
+        "name": "Corals",
+        "url": "https://open.spotify.com/album/1o5iflLRe5yh0B8o9gbbF4"
+      },
+      "artists": [
+        {
+          "name": "Fujitsu",
+          "url": "https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "Driftwood",
+      "url": "https://open.spotify.com/track/7JVfIv0ymBzxJNGuWpHbWZ"
     },
     {
       "added_at": "2024-03-06 16:03:05",

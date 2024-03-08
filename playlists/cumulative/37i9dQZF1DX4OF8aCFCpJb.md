@@ -4,7 +4,7 @@
 
 > Det bästa från den svenska reggaescenen.
 
-217 songs - 12 hr 47 min
+218 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [StressFree](https://open.spotify.com/track/3dDyUC162JrGfdTGRfmuES) | [Sagitarr](https://open.spotify.com/artist/7gL1T4OTX5Z5lp02zZEBiC), [E7E](https://open.spotify.com/artist/0lNUMRFlL89VFNZA6rIzQ3) | [StressFree](https://open.spotify.com/album/5PxUb6lzCRQcXcj0LwJhnU) | 2:28 | 2021-12-14 | 2022-06-22 |
 | [Sverigefiende \(Fest mot våldsgrupp\)](https://open.spotify.com/track/14MW91DLP58duFYEGP8q7b) | [Promoe](https://open.spotify.com/artist/6tbXwhqy3WAFqanusCLvEU) | [Sverigefiende \(Fest mot våldsgrupp\)](https://open.spotify.com/album/1jFdSfYFWx0qE3OsZ4iPjG) | 3:26 | 2021-12-14 | 2022-07-19 |
 | [Sweet Love](https://open.spotify.com/track/54vIJ4nbiRsiUCun8LRN2U) | [Aurelia Dey](https://open.spotify.com/artist/1eFBWrAF8Vu18ey4zdRqIA) | [Sweet Love](https://open.spotify.com/album/32sCxK1ZWT2iMsihThM0Xr) | 2:33 | 2021-12-14 | 2022-07-01 |
+| [Sweet Reggaemusik](https://open.spotify.com/track/7z5sf617bXkdI8BUOiANL9) | [Moncho](https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc), [Lance\-a\-Lot](https://open.spotify.com/artist/2FdlSFwGHTJ6k8rcJpET0L) | [Sweet Reggaemusik](https://open.spotify.com/album/6chVGuHYBS3fdTmhdx3AaC) | 2:42 | 2024-03-07 |  |
 | [Säg nej!](https://open.spotify.com/track/2pq3CZrGt1lrcRjiEtFtjY) | [Gängbäng](https://open.spotify.com/artist/30K9Fq3KZaLE6P3BLQcjys) | [Säg nej!](https://open.spotify.com/album/73K51UvLMGEy4Fty6UGHSa) | 4:06 | 2021-12-14 | 2022-07-26 |
 | [Säg Som Det Är](https://open.spotify.com/track/3c4CLJau8lIF6ruSsuxHqU) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Säg Som Det Är](https://open.spotify.com/album/4UZeUwiN9Crlr62yJRFxdJ) | 3:35 | 2022-11-17 | 2023-04-25 |
 | [Säg Till Mig](https://open.spotify.com/track/2hwH19DHE3ZUY0mFamo9wL) | [Antonio D](https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG) | [Säg Till Mig](https://open.spotify.com/album/36p7buidQlnzHhmXWnkGLW) | 4:20 | 2021-12-14 | 2022-07-31 |
@@ -188,7 +189,7 @@
 | [Tröst \(Så så\)](https://open.spotify.com/track/35Lk3rVoyoOv4VPfdDXncn) | [MahRoot](https://open.spotify.com/artist/4vloVkOsMylOO5ZDqYoryn) | [Tröst \(Så så\)](https://open.spotify.com/album/08yKBYX0CfDTuwoTCGJaHC) | 4:05 | 2021-12-14 | 2022-07-21 |
 | [Twende Pamoja](https://open.spotify.com/track/4jpUrAg12SRwApJkxLWehm) | [Jeepstarr](https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu) | [Twende Pamoja](https://open.spotify.com/album/1wVsnGjHBjwaD0AtKQ0zuS) | 3:25 | 2021-12-14 | 2022-07-26 |
 | [Twin Flame](https://open.spotify.com/track/06iclXdpVQmLGuM6Lts2dU) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5), [Ivory](https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD) | [Twin Flame](https://open.spotify.com/album/7DjkLzjHLUtZbQgkBGpJ0c) | 3:07 | 2021-12-14 | 2022-07-29 |
-| [Twin Flame](https://open.spotify.com/track/1px6WAnyrXvXUx33U9KfIg) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5), [Ivory](https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD) | [ANITYA](https://open.spotify.com/album/18WWB7MAZPuqACVBt6lpN4) | 3:07 | 2022-07-15 |  |
+| [Twin Flame](https://open.spotify.com/track/1px6WAnyrXvXUx33U9KfIg) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5), [Ivory](https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD) | [ANITYA](https://open.spotify.com/album/18WWB7MAZPuqACVBt6lpN4) | 3:07 | 2022-07-15 | 2024-03-08 |
 | [Ugly Girls](https://open.spotify.com/track/5J9hKcW0JYDXZR93h3ZI9s) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Natural](https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM) | 4:35 | 2021-12-14 |  |
 | [Under samma himmel](https://open.spotify.com/track/5i1gw38Lf3EkOueDEbhwzO) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Under samma himmel](https://open.spotify.com/album/7j3kCLy8PHT9kaXR6bBnIA) | 4:13 | 2021-12-14 |  |
 | [Vad jag blev](https://open.spotify.com/track/3Dj9StJb08QzxikT4PWZl1) | [Moncho](https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc), [Partillo](https://open.spotify.com/artist/1JaDm3lcNujg75Mq1mtE0u) | [Vad jag blev](https://open.spotify.com/album/5rUKpoXOnnEKOGiwrvlPpC) | 2:14 | 2022-04-21 | 2022-07-25 |

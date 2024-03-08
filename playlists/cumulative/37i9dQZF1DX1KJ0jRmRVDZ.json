@@ -780,7 +780,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 187325,
       "name": "Biri-Biri",
       "url": "https://open.spotify.com/track/3X9N36jB8FtTkzTCkIFi4u"
@@ -1470,7 +1470,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 303503,
       "name": "Complex Image",
       "url": "https://open.spotify.com/track/6Bx8HRNNU5nLzifzuYImYS"
@@ -3094,7 +3094,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 180120,
       "name": "I LOVE ME\u3067\u3044\u3089\u308c\u308b\u3088\u3046\u306b",
       "url": "https://open.spotify.com/track/4pXbAglLeVpxeCsg1bVYcj"
@@ -5414,7 +5414,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 157161,
       "name": "Requiem",
       "url": "https://open.spotify.com/track/22EHB5z2GwYNPA1wZ3LtL4"
@@ -8724,7 +8724,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 229876,
       "name": "\u307e\u307b\u308d\u3070",
       "url": "https://open.spotify.com/track/4DJBVFuW7TZ5aa7uy2wTmE"
@@ -10894,7 +10894,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 183881,
       "name": "\u30b7\u30e7\u30b3\u30e9\u30ab\u30bf\u30d6\u30e9",
       "url": "https://open.spotify.com/track/6nhGcCOyjnHshIJjPROEBF"
@@ -11254,7 +11254,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 179560,
       "name": "\u30bb\u30f3\u30c1\u30e1\u30f3\u30bf\u30eb\u30d2\u30fc\u30ed\u30fc",
       "url": "https://open.spotify.com/track/33h7sAZf1g4WP1RpJzptEf"
@@ -15183,6 +15183,24 @@
     },
     {
       "album": {
+        "name": "\u5909\u7570\u4f53\u98db\u6765\u4e2d\u3067\u3059",
+        "url": "https://open.spotify.com/album/4vo5HznIg57DLantPSGJVL"
+      },
+      "artists": [
+        {
+          "name": "\u6708\u4e0b\u516c\u5712",
+          "url": "https://open.spotify.com/artist/7kuz8qMsaj8cXM4EjyZxHT"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144442,
+      "name": "\u5909\u7570\u4f53\u98db\u6765\u4e2d\u3067\u3059",
+      "url": "https://open.spotify.com/track/01ocAZUwaKz4GfVeInGsF2"
+    },
+    {
+      "album": {
         "name": "\u590f",
         "url": "https://open.spotify.com/album/5XlYkNlljaYPJTNf5ZYUF5"
       },
@@ -15680,6 +15698,24 @@
       "duration_ms": 227625,
       "name": "\u5c0f\u558b\u65e5\u548c",
       "url": "https://open.spotify.com/track/4AElkruOc9gECdltSuV3JN"
+    },
+    {
+      "album": {
+        "name": "\u5c11\u3057\u3060\u3051",
+        "url": "https://open.spotify.com/album/2AR2Ep7BpnwSEtbGoC5pmc"
+      },
+      "artists": [
+        {
+          "name": "\u4e94\u5341\u5d50\u30cf\u30eb",
+          "url": "https://open.spotify.com/artist/28a4P2rmW853MTC4pOlCv0"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215386,
+      "name": "\u5c11\u3057\u3060\u3051",
+      "url": "https://open.spotify.com/track/0WLDdeAg7wipOvlNByiMhD"
     },
     {
       "album": {
@@ -17044,7 +17080,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-05",
+      "date_removed": null,
       "duration_ms": 230066,
       "name": "\u6b8b\u6a5f",
       "url": "https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8"

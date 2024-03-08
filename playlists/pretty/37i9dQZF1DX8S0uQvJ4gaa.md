@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Ryan Hurd
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,219,729 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,220,135 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 60 | [This Ring](https://open.spotify.com/track/4TWxiqwnkANB6Svp5rsoS3) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [This Ring](https://open.spotify.com/album/6gEbOIi33q4I5fxviqQb6N) | 3:55 |
 | 61 | [This Is My Dirt](https://open.spotify.com/track/0XuEfX2tOQPxhJCIMcjkgD) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [This Is My Dirt](https://open.spotify.com/album/7A2rFcb97EUFcBI0RGhjgc) | 3:37 |
 | 62 | [Outlaws and Mustangs](https://open.spotify.com/track/3NfiPeYsjdrsyO4kVIEdtr) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Outlaws and Mustangs](https://open.spotify.com/album/0Arug5WNIfQYYlkrN2q6Rs) | 4:00 |
-| 63 | [What Do I Know](https://open.spotify.com/track/2wVD8vcsuEyaoXlElfCSAw) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Songs From The Album Damascus](https://open.spotify.com/album/6yezH6J5KimsNRljf5WOUV) | 3:52 |
+| 63 | [What Do I Know](https://open.spotify.com/track/0n7Ite33RM1kDcalm29E2r) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Songs From The Album Damascus](https://open.spotify.com/album/6MfkhCFBG2CRw3FZ45wSHi) | 3:52 |
 | 64 | [Purple Irises](https://open.spotify.com/track/2IaXPHkRHIwFU3VdWT8Y8Y) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Purple Irises](https://open.spotify.com/album/1PsZW1S9Qr6uZfLSgzfjea) | 3:41 |
 | 65 | [Checking In](https://open.spotify.com/track/18hClnXvRu2j0BjYpfPX5B) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Checking In \(From the Inspired By Soundtrack "Unsung Hero"\)](https://open.spotify.com/album/5pc39dpKoqqIibRMtvrPyr) | 3:15 |
 | 66 | [Easy To Miss](https://open.spotify.com/track/22CreGLxXnyqg2ktUVZShT) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Nobody’s Born With A Broken Heart \(the first few\)](https://open.spotify.com/album/10ttWGowlB9os9gWQzSwkT) | 2:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Life With You](https://open.spotify.com/track/38QnGbDW7KgVylfma7ZWV5) | [Kelsey Hart](https://open.spotify.com/artist/1WKwvWRG8MdHAwHsSv9lXb) | [Life With You](https://open.spotify.com/album/0rONiLVsTjT9XVGtJWEu6z) | 2:36 |
 | 100 | [Damn Good Day To Leave](https://open.spotify.com/track/68kxxoYgSw8HnZMUDn2slR) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 3:31 |
 
-Snapshot ID: `MCxiNDAxMjg5YzEzYTU2NGMzYzUwZWNmYzk5MzQ4NDQ1Nzc5ZjE5MWU5`
+Snapshot ID: `MCw1OWEzZmMwNmEyMmQ4MjE4YzAyOGZiZTNhOGM5MjAwZWE3NjQ3YzQ2`

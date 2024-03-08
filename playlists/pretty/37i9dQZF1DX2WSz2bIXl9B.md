@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WSz2bIXl9B.md) - [plain]
 
 > Pódcasts que necesitas mantener en tu RADAR: Somos Estupendas, Sofá manta y crimen, Radio La Pera, La placita amarilla,  Coquetas y bravas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,413 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 3,410 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MCw2NTkwNTU1YTAwZGVmM2Q4ZWVmMjYyNWY0MTVjMDc0ZWViZjQwZjFk`
+Snapshot ID: `MCw0MzExMGI0ZDZmNzE3YThhMGE1YmNhYzU3NTlkYzI0Y2YwOGI5Y2E3`

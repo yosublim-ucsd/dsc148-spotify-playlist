@@ -1,5 +1,5 @@
 {
-  "2024-03-07": 10838,
+  "2024-03-08": 10850,
   "date_first_scraped": "2024-01-30",
   "description": "Take a bite out of the official playlist for Vampire Academy, streaming Thursdays on Peacock. ",
   "name": "Vampire Academy Official Playlist",
@@ -619,10 +619,28 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 250000,
       "name": "Junk",
       "url": "https://open.spotify.com/track/42BVMTOJZvIYXc5vLlB7f9"
+    },
+    {
+      "album": {
+        "name": "Junk",
+        "url": "https://open.spotify.com/album/3ittC22MRmqkjRkzmzi4kC"
+      },
+      "artists": [
+        {
+          "name": "Vivienne Chi",
+          "url": "https://open.spotify.com/artist/4MTj2lUJ9Gg2J3WFyGFZrw"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Junk",
+      "url": "https://open.spotify.com/track/5dBRrzd9SzvfA4CEnjyGDz"
     },
     {
       "album": {

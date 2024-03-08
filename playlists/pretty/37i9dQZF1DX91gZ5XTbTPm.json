@@ -1,12 +1,12 @@
 {
   "description": "The Midwest is always on time. Cover: Lil Durk",
-  "num_followers": 123855,
+  "num_followers": 123933,
   "original_name": "CST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODY0NGJjYTc4YWQ4YjRjMzQ3NTU2OTUyNDJmZDg0MzdmNDNkODk3",
+  "snapshot_id": "MCw3ZjMxNDgwMmEyNGM2MmMwNDQzYTI4MjYzYjFiOGI1NDdkMjk5ODlk",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -80,12 +80,12 @@
           "url": "https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF"
         },
         {
-          "name": "KrispyLife Kidd",
-          "url": "https://open.spotify.com/artist/0nsO60VA1qoO308e9cYEPR"
-        },
-        {
           "name": "Babyfxce E",
           "url": "https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw"
+        },
+        {
+          "name": "KrispyLife Kidd",
+          "url": "https://open.spotify.com/artist/0nsO60VA1qoO308e9cYEPR"
         }
       ],
       "duration_ms": 231288,

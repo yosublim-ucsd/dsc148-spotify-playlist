@@ -1,5 +1,5 @@
 {
-  "2024-03-07": 82730,
+  "2024-03-08": 82789,
   "date_first_scraped": "2022-01-02",
   "description": "Fresh country music by independent artists every Wednesday. Cover: Peytan Porter, Artwork: Fan\u00e9lie Muselier\n",
   "name": "Fresh Finds Country",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 199858,
       "name": "'24",
       "url": "https://open.spotify.com/track/4zKSZ9Ym6oRJvThCXFmAwT"
@@ -583,7 +583,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 213422,
       "name": "A Cowboy Who Would",
       "url": "https://open.spotify.com/track/0JIMr2UNWjUDiNMxWsuKgU"
@@ -1409,7 +1409,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 175973,
       "name": "All Night Longer",
       "url": "https://open.spotify.com/track/2ZyUI5u4aeGZKhOl8cqehj"
@@ -2061,7 +2061,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 178888,
       "name": "Austin",
       "url": "https://open.spotify.com/track/6NOFZvLxUU3D0nNPq2mwfx"
@@ -5274,6 +5274,24 @@
     },
     {
       "album": {
+        "name": "Broken Man",
+        "url": "https://open.spotify.com/album/08zJ8SCzKgWaRPI7Jguvug"
+      },
+      "artists": [
+        {
+          "name": "Tyler Joe Miller",
+          "url": "https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225080,
+      "name": "Broken Man",
+      "url": "https://open.spotify.com/track/5JlE9BmDHmUq5Ghy2j6rBg"
+    },
+    {
+      "album": {
         "name": "Broken Record",
         "url": "https://open.spotify.com/album/4kPorPu6GlwYt59qCK4KsL"
       },
@@ -6953,7 +6971,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-29",
+      "date_removed": null,
       "duration_ms": 209879,
       "name": "Colorado",
       "url": "https://open.spotify.com/track/3aY1KcqJBhCdGouzAPR4dR"
@@ -8157,6 +8175,24 @@
       "duration_ms": 246188,
       "name": "dark nights",
       "url": "https://open.spotify.com/track/3OI3ErdWbfEOVuznZ0dQ2n"
+    },
+    {
+      "album": {
+        "name": "Darlin'",
+        "url": "https://open.spotify.com/album/1gIL4i3vw76mVvK6J2PL2B"
+      },
+      "artists": [
+        {
+          "name": "Jenna Paulette",
+          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182106,
+      "name": "Darlin'",
+      "url": "https://open.spotify.com/track/42EMpD7IolRqO6NbSzqPc4"
     },
     {
       "album": {
@@ -10055,7 +10091,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 174343,
       "name": "Drunk, Stoned, or Sober",
       "url": "https://open.spotify.com/track/7rmWdcMuBiqlVvSZga6pUM"
@@ -11199,7 +11235,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 181706,
       "name": "Favorite Dress",
       "url": "https://open.spotify.com/track/0VEcsPyO4X6PumB8Iy79Sv"
@@ -14994,6 +15030,24 @@
     },
     {
       "album": {
+        "name": "Heartfelt",
+        "url": "https://open.spotify.com/album/0eVtXhLsinhBzsWeMImpRz"
+      },
+      "artists": [
+        {
+          "name": "Presley & Taylor",
+          "url": "https://open.spotify.com/artist/5H6ZPpGKLbtB3O8idjxIZy"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205666,
+      "name": "Heartfelt",
+      "url": "https://open.spotify.com/track/6Oxs6pZEDEB2o6csSvMNI0"
+    },
+    {
+      "album": {
         "name": "Heartless",
         "url": "https://open.spotify.com/album/13KonVd1W79pSbemlKcWON"
       },
@@ -15949,7 +16003,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 170757,
       "name": "Honeymoonin'",
       "url": "https://open.spotify.com/track/5OtWE5bBb6Hukk0XKalNos"
@@ -16241,6 +16295,24 @@
       "duration_ms": 215506,
       "name": "How I Get High",
       "url": "https://open.spotify.com/track/5Tx5r6Q4DuVmCzk1sH2Pd1"
+    },
+    {
+      "album": {
+        "name": "Chapter 1: Sadness",
+        "url": "https://open.spotify.com/album/0SrwEGHYQaF3n2fQuBcfWM"
+      },
+      "artists": [
+        {
+          "name": "Nessa Lea",
+          "url": "https://open.spotify.com/artist/3zwjknxBkK7XGEAMWhLZpA"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230185,
+      "name": "How I Live",
+      "url": "https://open.spotify.com/track/76sXdNzolJIMRrX1TAnUXI"
     },
     {
       "album": {
@@ -16825,6 +16897,24 @@
       "duration_ms": 185546,
       "name": "I Could Use A Drink",
       "url": "https://open.spotify.com/track/26754eQNqDxCnQWwLoqFoD"
+    },
+    {
+      "album": {
+        "name": "I Don't Ever Wanna Dream",
+        "url": "https://open.spotify.com/album/6RngOxS9wsUu1Tje3T4pY4"
+      },
+      "artists": [
+        {
+          "name": "Emily Brooke",
+          "url": "https://open.spotify.com/artist/4dfyNWkaqn6t6MEUOOgMDl"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220285,
+      "name": "I Don't Ever Wanna Dream",
+      "url": "https://open.spotify.com/track/5PEAhSqM5AcKeRnug1RXmh"
     },
     {
       "album": {
@@ -18398,6 +18488,24 @@
     },
     {
       "album": {
+        "name": "In The Dust",
+        "url": "https://open.spotify.com/album/6hkP92wbGvLcIuzDdEyfT0"
+      },
+      "artists": [
+        {
+          "name": "Carson Beyer",
+          "url": "https://open.spotify.com/artist/7ko8K3oegiC9oECP0zecen"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189146,
+      "name": "In The Dust",
+      "url": "https://open.spotify.com/track/4ZwDsXxWizapgqAH1ZYKee"
+    },
+    {
+      "album": {
         "name": "In the Middle",
         "url": "https://open.spotify.com/album/2kiMEiAeSyuym1YfWELjn1"
       },
@@ -19731,7 +19839,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 175476,
       "name": "Lasso The Moon",
       "url": "https://open.spotify.com/track/5hyHTO27LElrlEUVXTfTxB"
@@ -19911,7 +20019,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 221826,
       "name": "Late",
       "url": "https://open.spotify.com/track/31EsY9FZ4tOhN1SxzPgupn"
@@ -22034,6 +22142,24 @@
     },
     {
       "album": {
+        "name": "Lyin' To Me",
+        "url": "https://open.spotify.com/album/34ghDKatJF5Z1Q7dxNtLcJ"
+      },
+      "artists": [
+        {
+          "name": "Parker Graye",
+          "url": "https://open.spotify.com/artist/5od7G79jgG9IA9ZOruwxM8"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180342,
+      "name": "Lyin' To Me",
+      "url": "https://open.spotify.com/track/6880DZhIYIHOqIvfhSwwkt"
+    },
+    {
+      "album": {
         "name": "Miss American Lie",
         "url": "https://open.spotify.com/album/15DBsGofr7WSgOsyjavjRa"
       },
@@ -22412,6 +22538,24 @@
     },
     {
       "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/2oagcp2i1TpX5QbKtqjWLa"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219163,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/2YYMlqyO7PXnq9qOADLN2m"
+    },
+    {
+      "album": {
         "name": "Mama Ain't Jesus",
         "url": "https://open.spotify.com/album/5Hv1zXpGhoFqxWWGH2i7Xy"
       },
@@ -22647,7 +22791,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 153653,
       "name": "May Be",
       "url": "https://open.spotify.com/track/2ETyMtIX52XJWMgbwxWfhJ"
@@ -23295,7 +23439,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 240373,
       "name": "Missing You Lately",
       "url": "https://open.spotify.com/track/1n1oqSgflTU2bhj6D1cW2o"
@@ -23983,7 +24127,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 190524,
       "name": "Need A Reminder",
       "url": "https://open.spotify.com/track/5U0cDocf5OPF0ErE2uW0nR"
@@ -24315,7 +24459,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 169751,
       "name": "Next To You",
       "url": "https://open.spotify.com/track/2h4Bj8NHEXiYi8dqwmbrUP"
@@ -25367,7 +25511,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 184176,
       "name": "One Man Job",
       "url": "https://open.spotify.com/track/74ATo8FcgiPGeYRd0dHKyN"
@@ -26254,6 +26398,24 @@
     },
     {
       "album": {
+        "name": "Paw Paw's Boat",
+        "url": "https://open.spotify.com/album/4M2UzzvmLSZonu2wRvk5TD"
+      },
+      "artists": [
+        {
+          "name": "Jay Webb",
+          "url": "https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187905,
+      "name": "Paw Paw's Boat",
+      "url": "https://open.spotify.com/track/0m2JqPFRwdhFEvTXQNYwmB"
+    },
+    {
+      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/1Lak68tmzbD7jw8V4SEP5u"
       },
@@ -26705,6 +26867,24 @@
       "duration_ms": 173861,
       "name": "Pretty Doesn't Make You Good",
       "url": "https://open.spotify.com/track/6HAMVck4qqyaEvvO35FoLi"
+    },
+    {
+      "album": {
+        "name": "Pretty Good Living",
+        "url": "https://open.spotify.com/album/2cSj3QwCOjTJVOJ4Id9fc8"
+      },
+      "artists": [
+        {
+          "name": "Sarahbeth Taite",
+          "url": "https://open.spotify.com/artist/6iCtgvVXPJTVGGUfVzztN0"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175542,
+      "name": "Pretty Good Living",
+      "url": "https://open.spotify.com/track/4jabHHJGjA0EbUbPXANyoa"
     },
     {
       "album": {
@@ -30091,6 +30271,24 @@
       "duration_ms": 187395,
       "name": "Small Town Smaller",
       "url": "https://open.spotify.com/track/3LZ1qrpTJJQ4yfyj683IJ4"
+    },
+    {
+      "album": {
+        "name": "Small Town Spinnin'",
+        "url": "https://open.spotify.com/album/79wkfXp4TSua9T9pZXMwlX"
+      },
+      "artists": [
+        {
+          "name": "MaRynn Taylor",
+          "url": "https://open.spotify.com/artist/40oKC5KWScA0TPIiKAofI8"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175897,
+      "name": "Small Town Spinnin'",
+      "url": "https://open.spotify.com/track/1J0o4mivHxK78JwzHAOXoU"
     },
     {
       "album": {
@@ -34457,7 +34655,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 204631,
       "name": "This House",
       "url": "https://open.spotify.com/track/5y5y3dqpbofMmJiukO35Bh"
@@ -35041,6 +35239,24 @@
       "duration_ms": 252586,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/6gOeMK4j0oNlU0zQIvlvbd"
+    },
+    {
+      "album": {
+        "name": "Too Long",
+        "url": "https://open.spotify.com/album/6dX5Kzre3gVtM6Zh5Oh0PI"
+      },
+      "artists": [
+        {
+          "name": "Carson Wallace",
+          "url": "https://open.spotify.com/artist/7a8gQGuEPK8XmHhK8tWkFF"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197266,
+      "name": "Too Long",
+      "url": "https://open.spotify.com/track/5e8EOWR28fOYVrwGfK6zZ6"
     },
     {
       "album": {
@@ -36366,6 +36582,24 @@
     },
     {
       "album": {
+        "name": "We Both Know",
+        "url": "https://open.spotify.com/album/569MveUgubA2WeTrfmbxnf"
+      },
+      "artists": [
+        {
+          "name": "Allison Daniels",
+          "url": "https://open.spotify.com/artist/54OOcbHzemUIYga3Z351Kq"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186530,
+      "name": "We Both Know",
+      "url": "https://open.spotify.com/track/3Ir8iKCv67pW100PDSgWtk"
+    },
+    {
+      "album": {
         "name": "We Got Tonight",
         "url": "https://open.spotify.com/album/1PLQxFvTENNsVoGEEnnbCm"
       },
@@ -37029,7 +37263,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 172842,
       "name": "When The Whiskey",
       "url": "https://open.spotify.com/track/1D6zUDOw7r7GtkphEau40t"
@@ -37918,6 +38152,24 @@
     },
     {
       "album": {
+        "name": "Wild Than Tame",
+        "url": "https://open.spotify.com/album/50PlL2YfOln3DVJ7fnuMI0"
+      },
+      "artists": [
+        {
+          "name": "Chase Bryant",
+          "url": "https://open.spotify.com/artist/7io3MyhMxDZoBYXp4rlRFA"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198840,
+      "name": "Wild Than Tame",
+      "url": "https://open.spotify.com/track/2krOhQexsy4onw9lK6X4nF"
+    },
+    {
+      "album": {
         "name": "Wild West",
         "url": "https://open.spotify.com/album/6HDInScQ8RwZ2MtjlHi0da"
       },
@@ -37969,6 +38221,24 @@
       "duration_ms": 155306,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/61AS0RfmxiG4zHHnNJFsNj"
+    },
+    {
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/03kIAYweAFx3i179JohgyR"
+      },
+      "artists": [
+        {
+          "name": "Jessta James",
+          "url": "https://open.spotify.com/artist/35Gl3ugDwfqKvwOrlHcQqK"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227754,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/5yBGtSb93iilccxxneeaPT"
     },
     {
       "album": {

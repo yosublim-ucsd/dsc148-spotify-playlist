@@ -1,13 +1,29 @@
 {
-  "description": "Discover your new favourite artists from UK&IE. Cover: BXKS",
-  "num_followers": 119030,
+  "description": "Discover your new favourite artists from UK&IE. Cover: Victoria Canal",
+  "num_followers": 119029,
   "original_name": "RADAR UK & Ireland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MGI4NDFjODVkZTE0NzRhZWQzZGE1ZWJjMzZmMDU1NjBmNjM2N2M3",
+  "snapshot_id": "MCxkMjQxOGIwZjZiNGY5YzZmM2QzMDhkMzViYzBiMDA2NzEwNjcxZjI1",
   "tracks": [
+    {
+      "added_at": "2024-03-08 00:00:00",
+      "album": {
+        "name": "Chamomile",
+        "url": "https://open.spotify.com/album/4meIT5JIHaFhWs4dSJzR6P"
+      },
+      "artists": [
+        {
+          "name": "Victoria Canal",
+          "url": "https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G"
+        }
+      ],
+      "duration_ms": 187906,
+      "name": "Chamomile",
+      "url": "https://open.spotify.com/track/2ww3X0G1ucfWfn5FpitNDC"
+    },
     {
       "added_at": "2024-03-01 00:00:00",
       "album": {

@@ -1,13 +1,297 @@
 {
-  "description": "Fresh releases from your future favorite artists. Cover: Julia Q Artwork: Isu Kim\n",
-  "num_followers": 59219,
+  "description": "Fresh releases from your future favorite artists. Cover: 25hearts Artwork: Isu Kim\n",
+  "num_followers": 59239,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGUxYTBmNzhmZDJlOTBmYzM1OTdkYjhmNDFkZGQyZmVlZTRjMWVj",
+  "snapshot_id": "MCxkNzhiZjIyYjU4ZTBlNTZiNDhjYjcyMzU1MjkzOWM4ZTgyNjYzNmMy",
   "tracks": [
+    {
+      "added_at": "2024-03-07 16:00:00",
+      "album": {
+        "name": "Daga",
+        "url": "https://open.spotify.com/album/6bRckwlJ15HghJ3Rb9efWq"
+      },
+      "artists": [
+        {
+          "name": "VID",
+          "url": "https://open.spotify.com/artist/5mtu6plEC7sUWGo68fi6q1"
+        }
+      ],
+      "duration_ms": 153129,
+      "name": "Daga",
+      "url": "https://open.spotify.com/track/3uLkUmKAhTadzlmDrAlxJv"
+    },
+    {
+      "added_at": "2024-03-07 16:00:00",
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/0azQ485rZyNxpXXevHdKlw"
+      },
+      "artists": [
+        {
+          "name": "rienne",
+          "url": "https://open.spotify.com/artist/4TvZ190CDevLDBByQ5pXTP"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/6TBpSIm5rEYhveMaqW930F"
+    },
+    {
+      "added_at": "2024-03-07 16:00:00",
+      "album": {
+        "name": "Kagaya",
+        "url": "https://open.spotify.com/album/1HiYHHyMuRx6rykM81Xjct"
+      },
+      "artists": [
+        {
+          "name": "Mr. Bl\u00f4\u00f4",
+          "url": "https://open.spotify.com/artist/0yKLrlJxrPArSeHZXwRPRY"
+        },
+        {
+          "name": "drmfy",
+          "url": "https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp"
+        }
+      ],
+      "duration_ms": 199147,
+      "name": "Kagaya",
+      "url": "https://open.spotify.com/track/7mMnTUFUl4lKDGrhrqWvYq"
+    },
+    {
+      "added_at": "2024-03-07 16:00:00",
+      "album": {
+        "name": "Sct. Rallos",
+        "url": "https://open.spotify.com/album/1HlX2GiaGlWQrAElNBsi6i"
+      },
+      "artists": [
+        {
+          "name": "tot\u00e2",
+          "url": "https://open.spotify.com/artist/7lR4az0FXjQsoLUf6UiBq3"
+        }
+      ],
+      "duration_ms": 222262,
+      "name": "Sct. Rallos",
+      "url": "https://open.spotify.com/track/41yRAlg7NbubQTsa0Rxh9w"
+    },
+    {
+      "added_at": "2024-03-07 16:00:00",
+      "album": {
+        "name": "HEARTS",
+        "url": "https://open.spotify.com/album/24Mlq93NpSiUfHOhsUuxgV"
+      },
+      "artists": [
+        {
+          "name": "25hearts",
+          "url": "https://open.spotify.com/artist/77vD2NBRsPVcQI7lseX7fw"
+        }
+      ],
+      "duration_ms": 267255,
+      "name": "HEARTS",
+      "url": "https://open.spotify.com/track/4EDsWYcePMbkPJMGhCCwwO"
+    },
+    {
+      "added_at": "2024-03-07 16:00:00",
+      "album": {
+        "name": "Aking Sinta",
+        "url": "https://open.spotify.com/album/43CCNoHLnDPRQKpvSL2QFX"
+      },
+      "artists": [
+        {
+          "name": "The 12/21",
+          "url": "https://open.spotify.com/artist/4nM97dII7qHxrZKU0IjKYE"
+        }
+      ],
+      "duration_ms": 226081,
+      "name": "Aking Sinta",
+      "url": "https://open.spotify.com/track/24Tkg557JggMjRdFrNCU1E"
+    },
+    {
+      "added_at": "2024-03-07 16:00:00",
+      "album": {
+        "name": "Vans Girl",
+        "url": "https://open.spotify.com/album/2Znu9Fbdxld7hqLn1g3TaP"
+      },
+      "artists": [
+        {
+          "name": "Jkey",
+          "url": "https://open.spotify.com/artist/0iKx6KCKPA022Gu59vlNg2"
+        }
+      ],
+      "duration_ms": 188527,
+      "name": "Vans Girl",
+      "url": "https://open.spotify.com/track/0G0VODSXicgNPBHPzZAn57"
+    },
+    {
+      "added_at": "2024-03-07 16:00:00",
+      "album": {
+        "name": "I'm Wrong",
+        "url": "https://open.spotify.com/album/3tskRYWqYopzTKOES7QlR4"
+      },
+      "artists": [
+        {
+          "name": "KRNA",
+          "url": "https://open.spotify.com/artist/2MftvYgqbFb61tLmtRnybv"
+        }
+      ],
+      "duration_ms": 221793,
+      "name": "I'm Wrong",
+      "url": "https://open.spotify.com/track/7pebHWXKUwybJKWD8LcavU"
+    },
+    {
+      "added_at": "2024-03-07 16:00:00",
+      "album": {
+        "name": "BIGLA",
+        "url": "https://open.spotify.com/album/0cqorulK18WZlIwyRdfNew"
+      },
+      "artists": [
+        {
+          "name": "Migz Haleco",
+          "url": "https://open.spotify.com/artist/7wiOdGEiSTAOKZ3lxAvIsc"
+        }
+      ],
+      "duration_ms": 215070,
+      "name": "BIGLA",
+      "url": "https://open.spotify.com/track/5rNBHTQk2vts9joacuJo4g"
+    },
+    {
+      "added_at": "2024-03-07 16:00:00",
+      "album": {
+        "name": "Himalaya",
+        "url": "https://open.spotify.com/album/54tP9WKqdUHOWvSPcvfG3p"
+      },
+      "artists": [
+        {
+          "name": "Kane Dy",
+          "url": "https://open.spotify.com/artist/4zQa2yDDqEjT6uEBDPpLef"
+        }
+      ],
+      "duration_ms": 176018,
+      "name": "Himalaya",
+      "url": "https://open.spotify.com/track/1jhphHo4u5Y4GkdfCgzQ2b"
+    },
+    {
+      "added_at": "2024-03-07 16:00:00",
+      "album": {
+        "name": "Seasons (feat. Sophia Mariz)",
+        "url": "https://open.spotify.com/album/7LDtE7jbYFmA6YlIyP1Dqw"
+      },
+      "artists": [
+        {
+          "name": "Anj",
+          "url": "https://open.spotify.com/artist/2FCofcDkDipKOWOKfKV95s"
+        }
+      ],
+      "duration_ms": 280752,
+      "name": "Seasons (feat. Sophia Mariz)",
+      "url": "https://open.spotify.com/track/4q738eitkP2cSO7ol8M8h7"
+    },
+    {
+      "added_at": "2024-03-07 16:00:00",
+      "album": {
+        "name": "COLD HEARTED",
+        "url": "https://open.spotify.com/album/7jnK2Stk08xhlbAWqN3VH4"
+      },
+      "artists": [
+        {
+          "name": "DEE FROM MANILA",
+          "url": "https://open.spotify.com/artist/03dA13NMEDJi7QXwrxaUcq"
+        },
+        {
+          "name": "LilD",
+          "url": "https://open.spotify.com/artist/0aP46vxM4W4zAKRhGeeaIq"
+        }
+      ],
+      "duration_ms": 205355,
+      "name": "COLD HEARTED",
+      "url": "https://open.spotify.com/track/7eCzq4NzYuE0fmjJTFUfYY"
+    },
+    {
+      "added_at": "2024-03-07 16:00:00",
+      "album": {
+        "name": "Gusto Mo",
+        "url": "https://open.spotify.com/album/21FMoImOwRuJ8qIZ31a1EH"
+      },
+      "artists": [
+        {
+          "name": "Cisco",
+          "url": "https://open.spotify.com/artist/1hQJe9CyAmPBXJ8Cz0Krnq"
+        },
+        {
+          "name": "Eunika",
+          "url": "https://open.spotify.com/artist/3mqM3TAUz7PJPlkiy9D0pD"
+        }
+      ],
+      "duration_ms": 191450,
+      "name": "Gusto Mo",
+      "url": "https://open.spotify.com/track/2QpOXv6zqLcHlblvMfH9MV"
+    },
+    {
+      "added_at": "2024-03-07 16:00:00",
+      "album": {
+        "name": "Ayaw Pagdali",
+        "url": "https://open.spotify.com/album/0Z4Gom7XqiMlLTK4Ce7X1Y"
+      },
+      "artists": [
+        {
+          "name": "Rippin P",
+          "url": "https://open.spotify.com/artist/3nEiImKH9Fakc0NNLRZFO7"
+        }
+      ],
+      "duration_ms": 143033,
+      "name": "Ayaw Pagdali",
+      "url": "https://open.spotify.com/track/2Uzw73jkn1XMUBa3CP7bu5"
+    },
+    {
+      "added_at": "2024-03-07 16:00:00",
+      "album": {
+        "name": "Kape",
+        "url": "https://open.spotify.com/album/0CTa7mSVsux94aNlVFEVZE"
+      },
+      "artists": [
+        {
+          "name": "Masyong",
+          "url": "https://open.spotify.com/artist/6VVcD9AZN4Rcq2lF1jl2YZ"
+        }
+      ],
+      "duration_ms": 283052,
+      "name": "Kape",
+      "url": "https://open.spotify.com/track/412bakBZalVy4sdcjjdlhW"
+    },
+    {
+      "added_at": "2024-03-07 16:00:00",
+      "album": {
+        "name": "Nariyan Ka",
+        "url": "https://open.spotify.com/album/4ri8aotsWlPKpg5sPznGwz"
+      },
+      "artists": [
+        {
+          "name": "RENS",
+          "url": "https://open.spotify.com/artist/1oySeo9fQMHo2PNtkoCFik"
+        }
+      ],
+      "duration_ms": 123297,
+      "name": "Nariyan Ka",
+      "url": "https://open.spotify.com/track/4IvF6qVf4gpD9sjFN6ct6i"
+    },
+    {
+      "added_at": "2024-03-07 16:00:00",
+      "album": {
+        "name": "1400IYONGMULTO",
+        "url": "https://open.spotify.com/album/3PMuAnsAmhGw1mdivk7rW7"
+      },
+      "artists": [
+        {
+          "name": "YNGVIE",
+          "url": "https://open.spotify.com/artist/2CMdtMF1AW7dbCamPCkwBK"
+        }
+      ],
+      "duration_ms": 184529,
+      "name": "1400IYONGMULTO",
+      "url": "https://open.spotify.com/track/01A8aC4uMierwosyXHH4de"
+    },
     {
       "added_at": "2024-02-29 16:00:00",
       "album": {
@@ -1399,318 +1683,6 @@
       "duration_ms": 164700,
       "name": "Forever",
       "url": "https://open.spotify.com/track/0sePmqjCBmvtsp7MqVBud5"
-    },
-    {
-      "added_at": "2024-02-15 16:00:00",
-      "album": {
-        "name": "Off The Line",
-        "url": "https://open.spotify.com/album/7x5hdSDZ0PEtvXzsZcjf6L"
-      },
-      "artists": [
-        {
-          "name": "11th St",
-          "url": "https://open.spotify.com/artist/6FOIkganlg0LQqm9BlqtAQ"
-        },
-        {
-          "name": "northernroot",
-          "url": "https://open.spotify.com/artist/0OUO1wGu28k4X5KBQxXCoF"
-        }
-      ],
-      "duration_ms": 175058,
-      "name": "Off The Line",
-      "url": "https://open.spotify.com/track/1vI3fBXbqKAxeh5XotYRUs"
-    },
-    {
-      "added_at": "2024-02-15 16:00:00",
-      "album": {
-        "name": "SDC (Slow Down and Chill)",
-        "url": "https://open.spotify.com/album/7DLPyTRMix1M7Vs19pGTov"
-      },
-      "artists": [
-        {
-          "name": "JYN",
-          "url": "https://open.spotify.com/artist/6PU5tCDqS56iAy8eEDumNR"
-        }
-      ],
-      "duration_ms": 230753,
-      "name": "SDC (Slow Down and Chill)",
-      "url": "https://open.spotify.com/track/6DzEDikcazTahY6UrFSYiu"
-    },
-    {
-      "added_at": "2024-02-15 16:00:00",
-      "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/6tApB77QIBqiLjLuOaaKnd"
-      },
-      "artists": [
-        {
-          "name": "Nayubi",
-          "url": "https://open.spotify.com/artist/3Xc47MH2kO5iawHEw0ymRA"
-        }
-      ],
-      "duration_ms": 235834,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/4WljAEt6sAorBkKFqQ9XL2"
-    },
-    {
-      "added_at": "2024-02-15 16:00:00",
-      "album": {
-        "name": "SANA",
-        "url": "https://open.spotify.com/album/6bh1Q1e1252H2nLYCw20xR"
-      },
-      "artists": [
-        {
-          "name": "Amer",
-          "url": "https://open.spotify.com/artist/7LeQUw6chiXwqkQvtmSUDq"
-        }
-      ],
-      "duration_ms": 196823,
-      "name": "SANA",
-      "url": "https://open.spotify.com/track/5wM8Jqig7GYBNVXxTLQqzT"
-    },
-    {
-      "added_at": "2024-02-15 16:00:00",
-      "album": {
-        "name": "Kalawakan",
-        "url": "https://open.spotify.com/album/3EjVyxIGUHcQi1VkE2O7kY"
-      },
-      "artists": [
-        {
-          "name": "Jean Flores",
-          "url": "https://open.spotify.com/artist/6008BItDf2Xyd2L9Jv49Ks"
-        }
-      ],
-      "duration_ms": 160754,
-      "name": "Kalawakan",
-      "url": "https://open.spotify.com/track/04FeIFmjbhSquER1v4DeB7"
-    },
-    {
-      "added_at": "2024-02-15 16:00:00",
-      "album": {
-        "name": "Pangarap",
-        "url": "https://open.spotify.com/album/19XYi05yYNGak1sXTu8Q71"
-      },
-      "artists": [
-        {
-          "name": "Mark Orozco",
-          "url": "https://open.spotify.com/artist/2A9a8OrFdhxNjeTSExFqdT"
-        }
-      ],
-      "duration_ms": 270422,
-      "name": "Pangarap",
-      "url": "https://open.spotify.com/track/38uO5phdSfh3I3pVOnKtPv"
-    },
-    {
-      "added_at": "2024-02-15 16:00:00",
-      "album": {
-        "name": "Can We?",
-        "url": "https://open.spotify.com/album/6MKiF8CJNMwanPKOR4xhvr"
-      },
-      "artists": [
-        {
-          "name": "LEMMY",
-          "url": "https://open.spotify.com/artist/61CVEXyjQwkVEDCXsk045l"
-        }
-      ],
-      "duration_ms": 150004,
-      "name": "Can We?",
-      "url": "https://open.spotify.com/track/2SzPIa0YVxQQk71ffHKcFO"
-    },
-    {
-      "added_at": "2024-02-15 16:00:00",
-      "album": {
-        "name": "Burnout",
-        "url": "https://open.spotify.com/album/46089eVEriqkjD6L2WyyGe"
-      },
-      "artists": [
-        {
-          "name": "JAO",
-          "url": "https://open.spotify.com/artist/6Bc3V3kVnWpY5kqQN6nio5"
-        }
-      ],
-      "duration_ms": 261600,
-      "name": "Burnout",
-      "url": "https://open.spotify.com/track/0VWQOehm8RSHC0HoiWOztY"
-    },
-    {
-      "added_at": "2024-02-15 16:00:00",
-      "album": {
-        "name": "Paulit-Ulit",
-        "url": "https://open.spotify.com/album/1EzxwGApWnknwOF0kEwgRb"
-      },
-      "artists": [
-        {
-          "name": "DIONE",
-          "url": "https://open.spotify.com/artist/3FbN8peRj8d71tKWEvLOKx"
-        }
-      ],
-      "duration_ms": 217807,
-      "name": "Paulit-Ulit",
-      "url": "https://open.spotify.com/track/1zALBX3CuA24iDS6102LVy"
-    },
-    {
-      "added_at": "2024-02-08 16:00:00",
-      "album": {
-        "name": "Tayo'y Magkikita",
-        "url": "https://open.spotify.com/album/2fntGfo16o2ExhWixlhVRI"
-      },
-      "artists": [
-        {
-          "name": "Moontyde",
-          "url": "https://open.spotify.com/artist/3PiQFJJoNzcQ8IW2dICDGZ"
-        }
-      ],
-      "duration_ms": 281941,
-      "name": "Tayo'y Magkikita",
-      "url": "https://open.spotify.com/track/5vkqjhUKA2PNblof5hDB6I"
-    },
-    {
-      "added_at": "2024-02-08 16:00:00",
-      "album": {
-        "name": "DELUSYON",
-        "url": "https://open.spotify.com/album/14oUZXasO9kGdHMGTPLb2r"
-      },
-      "artists": [
-        {
-          "name": "Zildjan De Leon",
-          "url": "https://open.spotify.com/artist/70eq7PDs4jQwVTU83exAaZ"
-        }
-      ],
-      "duration_ms": 278680,
-      "name": "DELUSYON",
-      "url": "https://open.spotify.com/track/4fPymaE49aqxi27sHG95Se"
-    },
-    {
-      "added_at": "2024-02-08 16:00:00",
-      "album": {
-        "name": "Damage",
-        "url": "https://open.spotify.com/album/0Exafc52lbA9BhvBoW2Qiw"
-      },
-      "artists": [
-        {
-          "name": "Lady Decibel",
-          "url": "https://open.spotify.com/artist/5LFbQsa4LgnViQcP69Z33N"
-        }
-      ],
-      "duration_ms": 164959,
-      "name": "Damage",
-      "url": "https://open.spotify.com/track/5pW1BqB8Vdz2KeMp6dIsyt"
-    },
-    {
-      "added_at": "2024-02-08 16:00:00",
-      "album": {
-        "name": "Prada",
-        "url": "https://open.spotify.com/album/3mKOMOTUkIEdeydpDgn5rQ"
-      },
-      "artists": [
-        {
-          "name": "KinoBuds",
-          "url": "https://open.spotify.com/artist/6lqWoN745sV6x42bSHDC9B"
-        }
-      ],
-      "duration_ms": 235183,
-      "name": "Prada",
-      "url": "https://open.spotify.com/track/7uWbqmm1r3CT2vOyOBzdeN"
-    },
-    {
-      "added_at": "2024-02-08 16:00:00",
-      "album": {
-        "name": "I LUV U",
-        "url": "https://open.spotify.com/album/6u42eao5L0ZOdvz84adA4B"
-      },
-      "artists": [
-        {
-          "name": "Janah Zaplan",
-          "url": "https://open.spotify.com/artist/2BILGadB7FrRMCs4LBSTj5"
-        }
-      ],
-      "duration_ms": 187250,
-      "name": "I LUV U",
-      "url": "https://open.spotify.com/track/2P8gvtdSF1vNZnlrR6Ty6K"
-    },
-    {
-      "added_at": "2024-02-08 16:00:00",
-      "album": {
-        "name": "Comflirt",
-        "url": "https://open.spotify.com/album/3mpfyfO41uXlwgWDjNkl6C"
-      },
-      "artists": [
-        {
-          "name": "Pruebo",
-          "url": "https://open.spotify.com/artist/78E6RkwTFVWHXg37Ljt6TU"
-        }
-      ],
-      "duration_ms": 256987,
-      "name": "Comflirt",
-      "url": "https://open.spotify.com/track/2bWSpzs1QC3zJJv2iM5jn9"
-    },
-    {
-      "added_at": "2024-02-08 16:00:00",
-      "album": {
-        "name": "Relapse (Alas Diyes Na Naman) [Remix]",
-        "url": "https://open.spotify.com/album/4O8g1s8OZYOc7kPMBaBg4L"
-      },
-      "artists": [
-        {
-          "name": "jbelga",
-          "url": "https://open.spotify.com/artist/7HtIEBBYn7loczj0Qj1Wbc"
-        },
-        {
-          "name": "Alpharadise",
-          "url": "https://open.spotify.com/artist/5FzpZzygtKECqYXYDlZIBU"
-        },
-        {
-          "name": "Mardoix",
-          "url": "https://open.spotify.com/artist/3e73qITxvoDw1X54NXrkdk"
-        },
-        {
-          "name": "Allan Benavides",
-          "url": "https://open.spotify.com/artist/1jvqBSm4pVPxklyp6hxnHg"
-        },
-        {
-          "name": "Bby Jaye",
-          "url": "https://open.spotify.com/artist/3zdpDnYSYmgka8gctdGYth"
-        }
-      ],
-      "duration_ms": 175278,
-      "name": "Relapse (Alas Diyes Na Naman) - Remix",
-      "url": "https://open.spotify.com/track/2UbaSLLoVH9yzwte5oNCpI"
-    },
-    {
-      "added_at": "2024-02-08 16:00:00",
-      "album": {
-        "name": "Divine",
-        "url": "https://open.spotify.com/album/1kxVg1bUrvjgrpglff3JWU"
-      },
-      "artists": [
-        {
-          "name": "Iyann",
-          "url": "https://open.spotify.com/artist/7yxN1vpq35MDcvRPn1JDhk"
-        }
-      ],
-      "duration_ms": 195715,
-      "name": "Divine",
-      "url": "https://open.spotify.com/track/7HC7zNnDFCVMbDdMY5TaHH"
-    },
-    {
-      "added_at": "2024-02-08 16:00:00",
-      "album": {
-        "name": "unta tinoud",
-        "url": "https://open.spotify.com/album/272ZZuiLOUscSUirhtSfxc"
-      },
-      "artists": [
-        {
-          "name": "Jade Makawili",
-          "url": "https://open.spotify.com/artist/1ddKtJoBQplzrpVxs9JYxn"
-        },
-        {
-          "name": "Casey Vil",
-          "url": "https://open.spotify.com/artist/5lIIMhZPaxs9qstHGMH0EL"
-        }
-      ],
-      "duration_ms": 170560,
-      "name": "unta tinoud",
-      "url": "https://open.spotify.com/track/58qYsyGGRLfK4lf1xp5CSb"
     }
   ],
   "unique_name": "Fresh Finds Philippines",

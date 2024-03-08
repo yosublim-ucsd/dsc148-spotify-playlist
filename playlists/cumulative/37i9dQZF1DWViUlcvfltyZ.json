@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti! Novit\u00e0 rock, indie e punk dall'Italia. Cover: Pandorea",
+  "description": "Novit\u00e0 rock, indie e punk dall'Italia! Cover: clauscalmo. Powered by <a href=\"spotify:playlist:37i9dQZF1DWUHxBb0SYtLj\">EQUAL</a>, a supporto delle artiste donne, tutti i giorni \ud83d\udc9a",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -618,7 +618,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 152573,
       "name": "AMERICA",
       "url": "https://open.spotify.com/track/6yGjVJAOTQkHiHdQTCk8Cl"
@@ -1569,6 +1569,24 @@
     },
     {
       "album": {
+        "name": "Brescia inferno",
+        "url": "https://open.spotify.com/album/4T9tZRxlEp5x36lUmYypr0"
+      },
+      "artists": [
+        {
+          "name": "Cara Calma",
+          "url": "https://open.spotify.com/artist/2FK3lJvn42dNrSeVzs5MoC"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178114,
+      "name": "Brescia inferno",
+      "url": "https://open.spotify.com/track/6yS1MHKoyUkZJALqJulkDt"
+    },
+    {
+      "album": {
         "name": "Guardare",
         "url": "https://open.spotify.com/album/02UAzCAkKXBy44EbmUTEpS"
       },
@@ -1853,6 +1871,24 @@
     },
     {
       "album": {
+        "name": "Cade Gi\u00f9",
+        "url": "https://open.spotify.com/album/07w8D7NQAsrMKOvGvCHfOW"
+      },
+      "artists": [
+        {
+          "name": "The Gluts",
+          "url": "https://open.spotify.com/artist/13WOru4Cg1ZdszgnB1AU17"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120588,
+      "name": "Cade Gi\u00f9",
+      "url": "https://open.spotify.com/track/0qzmbiwqvqH3Hgp1eMG1tN"
+    },
+    {
+      "album": {
         "name": "Cadetto Lin non ferma su Marte",
         "url": "https://open.spotify.com/album/0bVd0z9PYbgKEwh7jxQDyx"
       },
@@ -1990,7 +2026,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 243284,
       "name": "camera mia",
       "url": "https://open.spotify.com/track/6tO3uimbnU4Gi6bWFBpXEf"
@@ -2795,6 +2831,24 @@
     },
     {
       "album": {
+        "name": "MANUALE DEL PICCOLO INGRATO",
+        "url": "https://open.spotify.com/album/1veWcfaKTKVpjYRbhvLUBD"
+      },
+      "artists": [
+        {
+          "name": "Kalpa",
+          "url": "https://open.spotify.com/artist/3lAxLzUBGWRBxuek5rd0F9"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173506,
+      "name": "COME ANDARSENE",
+      "url": "https://open.spotify.com/track/3O8PZ08HavWByUcDhWYwMp"
+    },
+    {
+      "album": {
         "name": "COME I CLASH",
         "url": "https://open.spotify.com/album/6oteA5eXo02tbnKUHV4u1f"
       },
@@ -2962,6 +3016,24 @@
       "duration_ms": 169076,
       "name": "Con Nessuno (feat. \u00d8jne)",
       "url": "https://open.spotify.com/track/6VEAICgujKbc3cAYnqv3dq"
+    },
+    {
+      "album": {
+        "name": "Confronto/Fuga",
+        "url": "https://open.spotify.com/album/1sTatR2NhgOHqZX4JvnKdw"
+      },
+      "artists": [
+        {
+          "name": "Soft Boys Club",
+          "url": "https://open.spotify.com/artist/5fqMQgnJpNyZEB3p3fgfGZ"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169910,
+      "name": "Confronto/Fuga",
+      "url": "https://open.spotify.com/track/2cVHTRvvbTSn3nIULnHhkc"
     },
     {
       "album": {
@@ -3936,6 +4008,32 @@
       "duration_ms": 229285,
       "name": "Eclissi",
       "url": "https://open.spotify.com/track/72HI1aZn1i1eoTpuVQtcKn"
+    },
+    {
+      "album": {
+        "name": "chiaroscuro",
+        "url": "https://open.spotify.com/album/15hhbGhDTck2pRtvL5UvZu"
+      },
+      "artists": [
+        {
+          "name": "Foreverboymush",
+          "url": "https://open.spotify.com/artist/7tkxzgoJwU4tMdyMSPxkxE"
+        },
+        {
+          "name": "Saint Abel",
+          "url": "https://open.spotify.com/artist/6xCih2NWSmPw4o1MJ1qnIt"
+        },
+        {
+          "name": "Moskova Div",
+          "url": "https://open.spotify.com/artist/0s7lgcaJpldccLW8kD7Xkk"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "edera",
+      "url": "https://open.spotify.com/track/3dLKolGQaxqVEdtWFEm4GQ"
     },
     {
       "album": {
@@ -5289,6 +5387,24 @@
     },
     {
       "album": {
+        "name": "Goodbye Day",
+        "url": "https://open.spotify.com/album/27xtAJqG7700XKiDK0c5FO"
+      },
+      "artists": [
+        {
+          "name": "A Toys Orchestra",
+          "url": "https://open.spotify.com/artist/05Z2LDnNWKPgdeYe8kngbf"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223973,
+      "name": "Goodbye Day",
+      "url": "https://open.spotify.com/track/13quVqm79P4GypDiKrXVFP"
+    },
+    {
+      "album": {
         "name": "Graphiti :)",
         "url": "https://open.spotify.com/album/2QLcmqN7nP9zJRFhdXE3QR"
       },
@@ -6156,7 +6272,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 221980,
       "name": "Il Silenzio Che C'\u00e8",
       "url": "https://open.spotify.com/track/59kYapbb4BzxuL9JvhKjJ2"
@@ -6983,6 +7099,24 @@
     },
     {
       "album": {
+        "name": "La Regina Dei Rimpianti",
+        "url": "https://open.spotify.com/album/58KH0qJIPDMcqidVmnkzFr"
+      },
+      "artists": [
+        {
+          "name": "TAC\u00d8MA",
+          "url": "https://open.spotify.com/artist/2L6Hcxzw6hUF4KBIekm153"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160540,
+      "name": "La Regina Dei Rimpianti",
+      "url": "https://open.spotify.com/track/4JeOpzmxZQGLDzFJIbGSCa"
+    },
+    {
+      "album": {
         "name": "La stessa parte della luna",
         "url": "https://open.spotify.com/album/0AxuaJx5LvpAl59UyPmUUG"
       },
@@ -7210,7 +7344,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 356280,
       "name": "Life Starts Tomorrow",
       "url": "https://open.spotify.com/track/1F1tacBh4VNBbYxYW5OwaX"
@@ -7511,6 +7645,24 @@
     },
     {
       "album": {
+        "name": "Animali",
+        "url": "https://open.spotify.com/album/5HTAbN7RKryBOWai8r5qJo"
+      },
+      "artists": [
+        {
+          "name": "Pu\u00e0",
+          "url": "https://open.spotify.com/artist/3QxZsvWeRws1CzQLPfIsFq"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196666,
+      "name": "Magic Dance",
+      "url": "https://open.spotify.com/track/1yo3J82F0eXLxcgL3rU9ds"
+    },
+    {
+      "album": {
         "name": "Magic Youth",
         "url": "https://open.spotify.com/album/6VtzGcYiDa1TpNJPRI6HaY"
       },
@@ -7616,7 +7768,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 189670,
       "name": "Male Cane",
       "url": "https://open.spotify.com/track/2glgD5Pu1kYfAtLyfU6NoZ"
@@ -7724,7 +7876,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 163360,
       "name": "Mare Forza 9oi",
       "url": "https://open.spotify.com/track/268q0mDTAs7O9ssY6KE1ZG"
@@ -8589,6 +8741,24 @@
     },
     {
       "album": {
+        "name": "Niente Panico",
+        "url": "https://open.spotify.com/album/14pTWNiZDSkCmLI68q3pXx"
+      },
+      "artists": [
+        {
+          "name": "SPEAKEASY",
+          "url": "https://open.spotify.com/artist/3LsUtrsqgBVVNELtKFZALx"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194677,
+      "name": "Niente Panico",
+      "url": "https://open.spotify.com/track/24ASKGENdSR1hPdFsQCvZ1"
+    },
+    {
+      "album": {
         "name": "no joke",
         "url": "https://open.spotify.com/album/6Xh7hory69fuNd3yAdJEn0"
       },
@@ -8600,7 +8770,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 207800,
       "name": "no joke",
       "url": "https://open.spotify.com/track/7I7Gio8PT7A0ZPA3ukK7b0"
@@ -9368,7 +9538,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 211506,
       "name": "ORO",
       "url": "https://open.spotify.com/track/5jxmXxbjrhua6qqWJz5aaX"
@@ -9963,6 +10133,36 @@
     },
     {
       "album": {
+        "name": "Il Grande Fulmine",
+        "url": "https://open.spotify.com/album/0hc4ffZgsXwCzaOLdFqaCZ"
+      },
+      "artists": [
+        {
+          "name": "Thru Collected",
+          "url": "https://open.spotify.com/artist/2P0hl2Wx1Zb04shTLfdWrv"
+        },
+        {
+          "name": "SANO",
+          "url": "https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3"
+        },
+        {
+          "name": "Lucky lapolo",
+          "url": "https://open.spotify.com/artist/10BLKtKUuaAx5mUu14ipFo"
+        },
+        {
+          "name": "Tripolare",
+          "url": "https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229891,
+      "name": "Pistola (feat. Tripolare)",
+      "url": "https://open.spotify.com/track/1x4m8pipnJNqg3DnPzN54F"
+    },
+    {
+      "album": {
         "name": "Pi\u00f9 mi odi pi\u00f9 mi amo",
         "url": "https://open.spotify.com/album/61YoRhVptt77M5XZigQOOT"
       },
@@ -10000,6 +10200,42 @@
       "duration_ms": 181000,
       "name": "PMA",
       "url": "https://open.spotify.com/track/5MKMkf5WZxgWTGkR38h24O"
+    },
+    {
+      "album": {
+        "name": "poetry",
+        "url": "https://open.spotify.com/album/5vY9kxFV8bTOlAY9rHp2Pq"
+      },
+      "artists": [
+        {
+          "name": "Sleap-e",
+          "url": "https://open.spotify.com/artist/0zaHskaZiKsAmGMPWp0iNS"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146693,
+      "name": "poetry",
+      "url": "https://open.spotify.com/track/1kkhQZ1ucWcarRO3KqVITP"
+    },
+    {
+      "album": {
+        "name": "Pond Riddim",
+        "url": "https://open.spotify.com/album/4TRrFJ6HePAb9zzx1BTXJn"
+      },
+      "artists": [
+        {
+          "name": "Valerian Swing",
+          "url": "https://open.spotify.com/artist/5tj8t2rXNyMRpER4EbFU93"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264693,
+      "name": "Pond Riddim",
+      "url": "https://open.spotify.com/track/7eGmg81yDojFxL2raaScaY"
     },
     {
       "album": {
@@ -10076,6 +10312,24 @@
       "duration_ms": 144818,
       "name": "Pornolesbo",
       "url": "https://open.spotify.com/track/5RmgabbGvfVIr2Wtl3r75e"
+    },
+    {
+      "album": {
+        "name": "Pornostar",
+        "url": "https://open.spotify.com/album/4RJuhWvwpAWrPDpvBBpE42"
+      },
+      "artists": [
+        {
+          "name": "Etta",
+          "url": "https://open.spotify.com/artist/2U2hbzE2tUhswaUQipbQVB"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159535,
+      "name": "Pornostar",
+      "url": "https://open.spotify.com/track/0N1esEAuyzrEoKOS4F6nQ6"
     },
     {
       "album": {
@@ -10554,7 +10808,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 287477,
       "name": "Questi giorni",
       "url": "https://open.spotify.com/track/0llVjRE5N3vFYieobSpQKU"
@@ -12680,7 +12934,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 188136,
       "name": "THE DRIVER",
       "url": "https://open.spotify.com/track/0sZHxhoBaK0YEvvMV8blr6"
@@ -13974,7 +14228,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 211997,
       "name": "VERDE SALVIA",
       "url": "https://open.spotify.com/track/7u5l3QS52kghNvgA0A97wL"
@@ -14198,6 +14452,24 @@
       "duration_ms": 261972,
       "name": "Voglio morire",
       "url": "https://open.spotify.com/track/0rieKIGnvsuGsaT1NGG9Ho"
+    },
+    {
+      "album": {
+        "name": "VOLA",
+        "url": "https://open.spotify.com/album/1KJh3oheOSjNsDEM4LdDkw"
+      },
+      "artists": [
+        {
+          "name": "ELETTRICA",
+          "url": "https://open.spotify.com/artist/2ZXPwoWGIuwqjLNLboL3pa"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173172,
+      "name": "VOLA",
+      "url": "https://open.spotify.com/track/05kj7au8U7M6tXLcIJpP3x"
     },
     {
       "album": {
@@ -14512,6 +14784,24 @@
       "duration_ms": 251613,
       "name": "Zidane",
       "url": "https://open.spotify.com/track/4VpIutGlss4dinKTrA7EOG"
+    },
+    {
+      "album": {
+        "name": "stillness, stop: you have a right to remember",
+        "url": "https://open.spotify.com/album/0eNjLXWdOilZ1LNVeqWVp8"
+      },
+      "artists": [
+        {
+          "name": "Any Other",
+          "url": "https://open.spotify.com/artist/5RECxqPUWytzhwKabZ1lWx"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269042,
+      "name": "Zoe's Seeds",
+      "url": "https://open.spotify.com/track/6KEniNbXwhi54DmtJa8lwy"
     },
     {
       "album": {

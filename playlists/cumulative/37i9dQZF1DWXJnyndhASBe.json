@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Gibbs, Opa\u0142",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. <a href=\"spotify:genre:equal\">EQUAL</a> takeover z okazji Dnia Kobiet. Cover: bambi, Young Leosia",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -598,7 +598,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 174246,
       "name": "BFF",
       "url": "https://open.spotify.com/track/1kuhnhugcuXf4CiNdqCRUU"
@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 189850,
       "name": "Cringowy Lovesong",
       "url": "https://open.spotify.com/track/4RglJQMuFuC06tiqN5rRU0"
@@ -1257,6 +1257,24 @@
     },
     {
       "album": {
+        "name": "DAM CI PORADY",
+        "url": "https://open.spotify.com/album/3IPHo1XY2cDWezSHGl1P5W"
+      },
+      "artists": [
+        {
+          "name": "vkie",
+          "url": "https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209577,
+      "name": "DAM CI PORADY",
+      "url": "https://open.spotify.com/track/4Sjv6Bty0JoFgCP63fyiAM"
+    },
+    {
+      "album": {
         "name": "Dawaj ten sos",
         "url": "https://open.spotify.com/album/5zOBRjPuCCQ0J0Iqdx6FBn"
       },
@@ -1368,6 +1386,24 @@
       "duration_ms": 157717,
       "name": "DEREALIZACJA",
       "url": "https://open.spotify.com/track/2dgads1IcXxwZ1BxOIquNc"
+    },
+    {
+      "album": {
+        "name": "Adwokat Diabla",
+        "url": "https://open.spotify.com/album/0tUUX9X5xhonVyCPXmHLDf"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127250,
+      "name": "Dior",
+      "url": "https://open.spotify.com/track/7biKWZnh8o23xCGej4xHjF"
     },
     {
       "album": {
@@ -1970,7 +2006,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 194471,
       "name": "HIPNOZA",
       "url": "https://open.spotify.com/track/3a4hbzdiwoXYVa0n9XRyDK"
@@ -2332,7 +2368,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 171692,
       "name": "Kevin sam w domu",
       "url": "https://open.spotify.com/track/0DhKkQjcrOXLBr9eCtocfc"
@@ -2456,6 +2492,28 @@
       "duration_ms": 184733,
       "name": "Kr\u00f3l jest nagi",
       "url": "https://open.spotify.com/track/3ebV1wNl0sJZUMkS7T7K2g"
+    },
+    {
+      "album": {
+        "name": "KUBKI",
+        "url": "https://open.spotify.com/album/6PTFLPItiX6iZI5dYEWiFz"
+      },
+      "artists": [
+        {
+          "name": "Fagata",
+          "url": "https://open.spotify.com/artist/0zzP72k8pbLySGH1TPUZW8"
+        },
+        {
+          "name": "Lil Gnar",
+          "url": "https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141459,
+      "name": "KUBKI",
+      "url": "https://open.spotify.com/track/4nq72RUyV70qKB63qjagNO"
     },
     {
       "album": {
@@ -2766,6 +2824,32 @@
       "duration_ms": 158181,
       "name": "Mamy ci\u0119\u017cko",
       "url": "https://open.spotify.com/track/24DsDMTiN9Fwm4XIstmfn9"
+    },
+    {
+      "album": {
+        "name": "mary",
+        "url": "https://open.spotify.com/album/7G7rR4iAyi0uwvtucA0EPu"
+      },
+      "artists": [
+        {
+          "name": "przy\u0142u",
+          "url": "https://open.spotify.com/artist/2zioaq2d7svakjWZV5FDXm"
+        },
+        {
+          "name": "Opa\u0142",
+          "url": "https://open.spotify.com/artist/28WXX79U4jzq1kfjx5QXPy"
+        },
+        {
+          "name": "4Money",
+          "url": "https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "mary",
+      "url": "https://open.spotify.com/track/6JddGinSdavkreh4EoJmXI"
     },
     {
       "album": {
@@ -3702,7 +3786,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 153311,
       "name": "Papieros - Remix",
       "url": "https://open.spotify.com/track/44ePFrNZDnSzIsC1ToQx7q"
@@ -3768,6 +3852,62 @@
       "duration_ms": 155923,
       "name": "Perfidia",
       "url": "https://open.spotify.com/track/3YOtBAz3WVDEYcnSLkVQgW"
+    },
+    {
+      "album": {
+        "name": "PG$",
+        "url": "https://open.spotify.com/album/0jQlIVeY05n6f5Es8ShhYs"
+      },
+      "artists": [
+        {
+          "name": "Young Leosia",
+          "url": "https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ"
+        },
+        {
+          "name": "bambi",
+          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+        },
+        {
+          "name": "PG$",
+          "url": "https://open.spotify.com/artist/5qgkVkdZIIBHLdnrpa3w3s"
+        },
+        {
+          "name": "francis",
+          "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184864,
+      "name": "PG$",
+      "url": "https://open.spotify.com/track/2Bvmq94ifFUXQmaFPR5Vis"
+    },
+    {
+      "album": {
+        "name": "Piegi",
+        "url": "https://open.spotify.com/album/6ytZbf6iIRtmVwmsdNW4SD"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        },
+        {
+          "name": "@atutowy",
+          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157894,
+      "name": "Piegi",
+      "url": "https://open.spotify.com/track/5mJ816ZkF5m0PQSk8NRjnP"
     },
     {
       "album": {
@@ -3852,6 +3992,28 @@
       "duration_ms": 165818,
       "name": "pls help me",
       "url": "https://open.spotify.com/track/0CHHKvtT48UIsiC7bgxcBw"
+    },
+    {
+      "album": {
+        "name": "PROBLEM X2",
+        "url": "https://open.spotify.com/album/1aDbBslzX5GG6NlNJUGjKS"
+      },
+      "artists": [
+        {
+          "name": "Miszel",
+          "url": "https://open.spotify.com/artist/726tAAHoBnNpFvjHLZHsN4"
+        },
+        {
+          "name": "Premixm",
+          "url": "https://open.spotify.com/artist/08AkoNEWCc8MeFeONaqAKI"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201931,
+      "name": "PROBLEM X2",
+      "url": "https://open.spotify.com/track/5ioiV6g2ijkvswgWdZPbJR"
     },
     {
       "album": {
@@ -3992,7 +4154,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 132000,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/6jkv6KmJE7UES9ohRonubH"
@@ -4603,6 +4765,36 @@
     },
     {
       "album": {
+        "name": "PG$",
+        "url": "https://open.spotify.com/album/0jQlIVeY05n6f5Es8ShhYs"
+      },
+      "artists": [
+        {
+          "name": "Young Leosia",
+          "url": "https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ"
+        },
+        {
+          "name": "bambi",
+          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+        },
+        {
+          "name": "PG$",
+          "url": "https://open.spotify.com/artist/5qgkVkdZIIBHLdnrpa3w3s"
+        },
+        {
+          "name": "francis",
+          "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157241,
+      "name": "Te numery",
+      "url": "https://open.spotify.com/track/3CgWmnnox6kF0NvJpZWSv8"
+    },
+    {
+      "album": {
         "name": "Export/Import",
         "url": "https://open.spotify.com/album/1CjxxyOmoQiTq5gXOSTtv9"
       },
@@ -4828,7 +5020,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 168754,
       "name": "Tuptanie",
       "url": "https://open.spotify.com/track/3vfs6d1jMNRt160lC9v32t"
@@ -4872,7 +5064,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 139728,
       "name": "ULTRA",
       "url": "https://open.spotify.com/track/7yIZRCBxkU4pOYbWIje2ww"

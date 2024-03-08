@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,289 likes - 104 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,484 likes - 104 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,14 +54,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 44 | [Bistro Fada](https://open.spotify.com/track/08T5wMbEnPN8ghT8o24KY6) | [Stephane Wrembel](https://open.spotify.com/artist/6YSLrvLUuyNoaL8Wuk6sZm) | [Bistro Fada](https://open.spotify.com/album/6lT35xJDhO7Ao5TOLfKsqZ) | 3:02 |
 | 45 | [Bei Dir war es immer so schön](https://open.spotify.com/track/6l3FR8oM1vScye1lyIxUjN) | [George Laffitte](https://open.spotify.com/artist/73svkXqxHEpuyC39kOuuCP) | [La Javanaise](https://open.spotify.com/album/1DdH3YQO9vGj4v75Lll1Uy) | 3:51 |
 | 46 | [Padam...Padam...](https://open.spotify.com/track/2xQmDo3CrD1s5npI3bWYqu) | [Jacques Ferchit](https://open.spotify.com/artist/2IJGeegMtg1oHYYXT6frrO) | [Paris\-accordeon](https://open.spotify.com/album/2xRxJSYzFSSpFYLHw6QVbD) | 2:38 |
-| 47 | [Le Vieux Moulin](https://open.spotify.com/track/32KZMkZ68ViB0nHVb3eLWt) | [Menilmuche](https://open.spotify.com/artist/4UokevHf2JYeNlpcpQH7W8) | [Le Vieux Moulin](https://open.spotify.com/album/3gmX5Dw51NBWSzMwv96439) | 2:48 |
-| 48 | [Reve d'accordeonist](https://open.spotify.com/track/1Lz7wiD9KaBS7zptRQJbWk) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/40lbxc3DN4ml0PdpajRj4u) | 2:52 |
-| 49 | [Djangology](https://open.spotify.com/track/3dIl8SxXJTggnKIMozYRqi) | [Carré Bleu](https://open.spotify.com/artist/1QV54AIfd6OK9AbHFG19es) | [Les feuilles mortes](https://open.spotify.com/album/3OtWDcUB17fVR7UtlQof1c) | 2:37 |
-| 50 | [Boum Musette](https://open.spotify.com/track/7wBDJL7T1pSzwpfm5fzqjt) | [Joss Baselli](https://open.spotify.com/artist/2Goh2SVD0hBxz9qMrtBTkt) | [Presenting Joss Baselli](https://open.spotify.com/album/2ztegz9DBfyvvD1ArFsOwe) | 2:25 |
-| 51 | [Le maçon](https://open.spotify.com/track/2qMgeX8qUaxX8VYXMtLw41) | [Swing Bohème](https://open.spotify.com/artist/4NfSzqocfeGJwQeP3vulmw) | [Le maçon](https://open.spotify.com/album/4yxLBiEUgjZMJLy4hQWK0V) | 3:17 |
-| 52 | [Sensibilité musette](https://open.spotify.com/track/23c4owlvn3O72bWlHx1Kb5) | [S\. Methot](https://open.spotify.com/artist/4lOTDWfZfMZXrFZvSkVyyj) | [Ambiance Musette pour danser \(1 heure special dance non stop\)](https://open.spotify.com/album/0k1oqRUt0ayrqDn1R6xGas) | 2:22 |
-| 53 | [Alone](https://open.spotify.com/track/4Q0HA7QYunPrVYTuLyDj1J) | [Claudio Constantini](https://open.spotify.com/artist/4qXRvJuWOfBFJWqCGmIuJQ) | [Incandessence](https://open.spotify.com/album/35Gdl9xS5pYQcxbz4V1Dgn) | 3:30 |
-| 54 | [Swing Suspens](https://open.spotify.com/track/5EDDKBAMxFDvG3f7D6v93l) | [Marcel Loeffler](https://open.spotify.com/artist/0DglDT7eUNaSWf99w39e2m) | [Source Manouche](https://open.spotify.com/album/3mf1RSVpwCZZmDaY9nmN1o) | 3:23 |
+| 47 | [Reve d'accordeonist](https://open.spotify.com/track/1Lz7wiD9KaBS7zptRQJbWk) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/40lbxc3DN4ml0PdpajRj4u) | 2:52 |
+| 48 | [Djangology](https://open.spotify.com/track/3dIl8SxXJTggnKIMozYRqi) | [Carré Bleu](https://open.spotify.com/artist/1QV54AIfd6OK9AbHFG19es) | [Les feuilles mortes](https://open.spotify.com/album/3OtWDcUB17fVR7UtlQof1c) | 2:37 |
+| 49 | [Boum Musette](https://open.spotify.com/track/7wBDJL7T1pSzwpfm5fzqjt) | [Joss Baselli](https://open.spotify.com/artist/2Goh2SVD0hBxz9qMrtBTkt) | [Presenting Joss Baselli](https://open.spotify.com/album/2ztegz9DBfyvvD1ArFsOwe) | 2:25 |
+| 50 | [Le maçon](https://open.spotify.com/track/2qMgeX8qUaxX8VYXMtLw41) | [Swing Bohème](https://open.spotify.com/artist/4NfSzqocfeGJwQeP3vulmw) | [Le maçon](https://open.spotify.com/album/4yxLBiEUgjZMJLy4hQWK0V) | 3:17 |
+| 51 | [Sensibilité musette](https://open.spotify.com/track/23c4owlvn3O72bWlHx1Kb5) | [S\. Methot](https://open.spotify.com/artist/4lOTDWfZfMZXrFZvSkVyyj) | [Ambiance Musette pour danser \(1 heure special dance non stop\)](https://open.spotify.com/album/0k1oqRUt0ayrqDn1R6xGas) | 2:22 |
+| 52 | [Alone](https://open.spotify.com/track/4Q0HA7QYunPrVYTuLyDj1J) | [Claudio Constantini](https://open.spotify.com/artist/4qXRvJuWOfBFJWqCGmIuJQ) | [Incandessence](https://open.spotify.com/album/35Gdl9xS5pYQcxbz4V1Dgn) | 3:30 |
+| 53 | [Swing Suspens](https://open.spotify.com/track/5EDDKBAMxFDvG3f7D6v93l) | [Marcel Loeffler](https://open.spotify.com/artist/0DglDT7eUNaSWf99w39e2m) | [Source Manouche](https://open.spotify.com/album/3mf1RSVpwCZZmDaY9nmN1o) | 3:23 |
+| 54 | [Les Yeux Ouverts](https://open.spotify.com/track/1FjTuFrLRrbnT6sYmRCJcf) | [Trio Musette](https://open.spotify.com/artist/2ePIFH8jgBe6Cqe2uc8s6A) | [Les Yeux Ouverts](https://open.spotify.com/album/713V7aJPT8exLv571T7U1Y) | 2:49 |
 | 55 | [Thé Pour Deux](https://open.spotify.com/track/3zztM5yPmJFkX7vktaaa8F) | [Quintet de Jazz Parisien](https://open.spotify.com/artist/5jjAtTkp5UsT9PQyGfFOwO) | [Thé Pour Deux](https://open.spotify.com/album/43iVIfU4pgIheRuYzPbuqE) | 4:18 |
 | 56 | [Valse Therese](https://open.spotify.com/track/0fHU9X4xzibSUdMj084Opd) | [Mediterranean Café Society](https://open.spotify.com/artist/2fJ85pakgR26MQXGfE24gL) | [Mediterranean Café: Music of Italy, Greece and Spain](https://open.spotify.com/album/3gGZP9CROPsrqJpzaBK2Dc) | 2:05 |
 | 57 | [Au Bistrot](https://open.spotify.com/track/6pJaFAldS2bN12dYlg2Ke5) | [Pierre\-Antoine Martin](https://open.spotify.com/artist/51QwiXSzbhgzbvvHNOcyUs) | [The Sound of Paris](https://open.spotify.com/album/1o9x9MH5jHm5PwewyWato8) | 3:07 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 62 | [Reve Gourmand](https://open.spotify.com/track/0b9ALLd6ZEhV8hmQTgK5ZL) | [Danielle Pauly](https://open.spotify.com/artist/0hC7AX4YRg5MLRI4uaLUHY) | [Fleur Du Jura: French Accordian Music](https://open.spotify.com/album/48HHZfooRAnAVKQqG8o9iW) | 2:44 |
 | 63 | [Je Ne Pourrai Jamais Vivre Sans Toi](https://open.spotify.com/track/48ex83EaL03ai9Hx6oburv) | [Eugene Lambert](https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl) | [Je Ne Pourrai Jamais Vivre Sans Toi](https://open.spotify.com/album/0ExkkBGotjcmpSrN3xbXgH) | 3:04 |
 | 64 | [La pastourelle \(valse\)](https://open.spotify.com/track/0VnaFfaJKoivoa8DzJE6Cs) | [Yvette Horner](https://open.spotify.com/artist/5NZd2r4rjPIli27nwjM0QN) | [Dansez maintenant](https://open.spotify.com/album/2n844853yULEG5qbGNR2Io) | 2:06 |
-| 65 | [Sunbeam Bossa](https://open.spotify.com/track/1vh9W9ZWrC7n646F9xylVx) | [Bossa Nórdica](https://open.spotify.com/artist/68CfKFCbNNQaqy75ZgwF4h) | [Sunbeam Bossa](https://open.spotify.com/album/1REO43jYtdKeP22HeTGMX8) | 3:05 |
+| 65 | [Sunbeam Bossa](https://open.spotify.com/track/3u5eEzUziM9DKtGlWDxH3s) | [Bossa Nórdica](https://open.spotify.com/artist/68CfKFCbNNQaqy75ZgwF4h) | [Sunbeam Bossa](https://open.spotify.com/album/7Kp2u0GQo9nIJdv0YSEs8W) | 3:05 |
 | 66 | [Saint\-Denis](https://open.spotify.com/track/5kg6zxNyVtRRJ6nkWrwjNg) | [Jules Moreau](https://open.spotify.com/artist/4EgOpuGf3Qe7DYYol4AJCz) | [Saint\-Denis](https://open.spotify.com/album/3wCO7hvSkDUNEs0jPITJzh) | 2:50 |
 | 67 | [Passion](https://open.spotify.com/track/42QbXalFUenFqckLeeJPIF) | [Romane](https://open.spotify.com/artist/0ILn98RGLPZlVkgm3PUBoH), [Alice Bassié](https://open.spotify.com/artist/3BstnhCIllWyuEq7MFlDOj) | [Impair & valse](https://open.spotify.com/album/5oh1bdjaq2PfSPd6gykbrn) | 2:20 |
 | 68 | [Les feuilles mortes](https://open.spotify.com/track/3XqH3vtrR5gTkj1XxMcKIM) | [Carré Bleu](https://open.spotify.com/artist/1QV54AIfd6OK9AbHFG19es) | [Les feuilles mortes](https://open.spotify.com/album/3OtWDcUB17fVR7UtlQof1c) | 2:28 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 103 | [Les rues de Paris](https://open.spotify.com/track/2Z706066GiPx7nVpQrVLqU) | [Stefano Corradi](https://open.spotify.com/artist/4KnatJMl9LPIdRUSQsYION), [Gian Pietro Marazza](https://open.spotify.com/artist/2tgYUszDncWLQhwJzSSfVX), [Luca Garlaschell](https://open.spotify.com/artist/4uHfosVwJmQAuFyXngLoPo) | [Love Routes \(Romantic Accordion Ballads in Rome\)](https://open.spotify.com/album/3lEXZx6W90Y1WjkWILQwaB) | 2:08 |
 | 104 | [Valse Des Niglos](https://open.spotify.com/track/0lHWKbBlhz3uzdFN5GGOT8) | [Jo Privat](https://open.spotify.com/artist/7wWbbQYVV7AVROYT3sMVoA) | [Minor Swing](https://open.spotify.com/album/5hdK38PRwYdBhdBuyGyZDF) | 2:22 |
 
-Snapshot ID: `MCxjN2Q3NWRjNzBiMmMyZDI1MzYxYWQ2NTA3ODI5MWMyYTVmZDg5Y2Uz`
+Snapshot ID: `MCwyMjA5MGI4MTU5MDQzMGQ4OWQ1NmRmZjA1MjE5MzUyNGVmOWE1MDQy`

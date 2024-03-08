@@ -6265,6 +6265,24 @@
     },
     {
       "album": {
+        "name": "orchids",
+        "url": "https://open.spotify.com/album/2blOKU5vzKaPMj0cJEoJpl"
+      },
+      "artists": [
+        {
+          "name": "May-Flowa",
+          "url": "https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124291,
+      "name": "orchids",
+      "url": "https://open.spotify.com/track/5G3TTFdKhBxpX7lnuKhG2M"
+    },
+    {
+      "album": {
         "name": "outdoors",
         "url": "https://open.spotify.com/album/6B0e6J5jSyFryQ9TiPAlYI"
       },
@@ -8568,6 +8586,24 @@
       "duration_ms": 131250,
       "name": "Traces",
       "url": "https://open.spotify.com/track/3beSsH4Uu5fAy8Cvp29IpS"
+    },
+    {
+      "album": {
+        "name": "Traces of a Life",
+        "url": "https://open.spotify.com/album/0Tao9FeWRRB6VPTZPCeOwI"
+      },
+      "artists": [
+        {
+          "name": "Akkoro",
+          "url": "https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118333,
+      "name": "Traces of a Life",
+      "url": "https://open.spotify.com/track/3oykToXlQHGWsx7639tmFZ"
     },
     {
       "album": {

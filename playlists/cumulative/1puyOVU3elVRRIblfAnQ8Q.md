@@ -4,7 +4,7 @@
 
 > DEADBEATS &amp; BROWNIES \- Drum &amp; Bass compilation out now!  DEADBEATS ON TOUR NOW\-\-&gt; <a href="http://www.deadbeatsofficial.com">www.deadbeatsofficial.com</a>
 
-125 songs - 7 hr 20 min
+126 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Bassface](https://open.spotify.com/track/6JMlB2FSy3OxFo40Fx5tjf) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [Dirt Monkey](https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH) | [Bassface](https://open.spotify.com/album/0TKYjk3EGuVVhyj1KvL0Xy) | 3:06 | 2023-09-06 |  |
 | [Berserker](https://open.spotify.com/track/2wc52WYNVpZTpNkZuGIYyN) | [Emalkay](https://open.spotify.com/artist/1P6WOOkGjqDnfIitbKYb9w), [The Others](https://open.spotify.com/artist/0HUAf6rGiD9cMQOMYzYuaL), [Subscape](https://open.spotify.com/artist/1hsDuQAI5ewVmflUTVTVtS) | [Berserker](https://open.spotify.com/album/4iUOTUxfPrPr1bZ6huAUlX) | 4:28 | 2023-02-17 | 2023-11-09 |
 | [Beyond The Sun](https://open.spotify.com/track/4TswMWD4ZFxCQZEep2SBxP) | [Synergy](https://open.spotify.com/artist/7s83dhuGTbXkYUEDXCisbK) | [Deadbeats & Brownies \- Drum & Bass Compilation](https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule) | 3:46 | 2024-01-26 | 2024-02-10 |
+| [Bigger Than Bad](https://open.spotify.com/track/0e4ZPqNyRUywth2AtjMH0K) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Doktor](https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl) | [Circus Four](https://open.spotify.com/album/7qj4xzuZKpPdJ1zx8vM14e) | 3:51 | 2024-03-07 |  |
 | [Bird Feeder](https://open.spotify.com/track/6aRKwQBMl8G2XaGfy7eDrx) | [VCTRE](https://open.spotify.com/artist/45B2tXcwmZXjfCbK6c3oqu) | [East Kings Point](https://open.spotify.com/album/0DTZ9LNawUeS7Ymr9rSkgH) | 2:20 | 2023-12-04 |  |
 | [Bone Breaker](https://open.spotify.com/track/6t7QJBcI7xDcjKjRO4mBDf) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [NEOTEK](https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv) | [Bone Breaker](https://open.spotify.com/album/04CwA0cKXWaySTpciO8vcx) | 3:22 | 2023-02-03 | 2023-11-09 |
 | [BOOM](https://open.spotify.com/track/1ZFmKdlDgBDBwYqE6koscQ) | [EAZYBAKED](https://open.spotify.com/artist/1ZbT8FIqEc0cktnu6mNlvv) | [Rotations](https://open.spotify.com/album/6udixN6d36EjJXurtNkqyK) | 3:18 | 2023-06-07 | 2023-11-09 |

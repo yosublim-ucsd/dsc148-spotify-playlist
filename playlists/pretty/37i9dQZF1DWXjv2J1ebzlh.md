@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,482 likes - 1,191 songs - 3 day 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,502 likes - 1,191 songs - 3 day 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -419,7 +419,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 409 | [Henya](https://open.spotify.com/track/7lQzAo2w4f4iYgVtlaJCbP) | [Ahmed Malek](https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB) | [Musique originale de films \(Habibi Funk 003\)](https://open.spotify.com/album/3yxGERLeJJdk0NUz1jSe6F) | 1:59 |
 | 410 | [Shmasha](https://open.spotify.com/track/69YBOnJjFATkrDPUQmXTwA) | [Kamal Keila](https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl) | [Muslims and Christians \(Habibi Funk 008\)](https://open.spotify.com/album/6rCcLccsjZGHZztBFv7VKs) | 6:05 |
 | 411 | [Te Estoy Amando Locamente](https://open.spotify.com/track/5QfmCmdL4qnzqMz5Z0gvzV) | [Las Grecas](https://open.spotify.com/artist/5sWCGfIxmNiMAl6n8kdbkb) | [Te Estoy Amando Locamente](https://open.spotify.com/album/2NpRaaZ6Hi7Y5GqWeLwGqH) | 3:11 |
-| 412 | [Palengue Palengue](https://open.spotify.com/track/0h1wnEV4VioEaoUyndMUc6) | [Son Palenque](https://open.spotify.com/artist/3VyjbWEHPjc9JEXsk6Tk2w) | [Afro\-Colombian Sound Modernizers](https://open.spotify.com/album/64jRR8ogyHRWsu4ifrc06o) | 4:10 |
+| 412 | [Palengue Palengue](https://open.spotify.com/track/5lJOm0UNd3AFwxKvirEjYB) | [Son Palenque](https://open.spotify.com/artist/3VyjbWEHPjc9JEXsk6Tk2w) | [Afro\-Colombian Sound Modernizers](https://open.spotify.com/album/5HAxpndIx1dY8zwblmjEHz) | 4:10 |
 | 413 | [Lokognolo](https://open.spotify.com/track/1kGgfMfE884VVKc1q4sa4t) | [Bebe Manga](https://open.spotify.com/artist/1memK9vKb8XlJ57toAUkMV) | [Ami / Oyomiya](https://open.spotify.com/album/5PwKWho58El5sWnSU4T1vH) | 4:23 |
 | 414 | [Adimiz Miskindir Bizim](https://open.spotify.com/track/4bxSoFQl2ExbgPLSj24UDH) | [Mazhar Ve Fuat](https://open.spotify.com/artist/6vcAsqIwBdhb4BRZEumnFv) | [Christophe Lemaire And Now\-Again Present: Where Are You From?](https://open.spotify.com/album/0FAugj2VEkZGkjhalQgu9Q) | 5:25 |
 | 415 | [Something Special](https://open.spotify.com/track/3wabWJ0P6JMiqS1DTxZMVw) | [Resonators](https://open.spotify.com/artist/4j4hyyYOjmJk9Plz7ZaWv9) | [Something Special / Why I](https://open.spotify.com/album/0leSqR7ImVhyUAsl4PLgB8) | 7:20 |
@@ -999,7 +999,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 989 | [Son of a Thousand Fathers](https://open.spotify.com/track/4alPKwNKJktv0PCJZRBiqk) | [Prince Fatty](https://open.spotify.com/artist/2KQRgrZISaDwQNpiLUTAnr), [Mutant Hi\-Fi](https://open.spotify.com/artist/5yx9JLGofV3VkAqAaiJa0l) | [Return of Gringo! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22Xbxk5rZBYB5BLAj3XHKQ) | 2:29 |
 | 990 | [Don't Huzzle for Love](https://open.spotify.com/track/69b5nYd8TUnEbUolnJObiB) | [The Apostles](https://open.spotify.com/artist/0yAP23o7hl2gwDjXxKdjki) | [Black Is Beautiful](https://open.spotify.com/album/78mvO5CuYHAh2855VbQXvV) | 3:31 |
 | 991 | [Subhana](https://open.spotify.com/track/1UZ7xcA5TnMaIqNWBnf8P9) | [Ahmed Ben Ali](https://open.spotify.com/artist/6Gej8kFQeKbjY7dS9HXu1w) | [Subhana \(Habibi Funk 022\)](https://open.spotify.com/album/6JdKgweNlOU4Fjw1oRBj7W) | 4:58 |
-| 992 | [When The Lights Are Low](https://open.spotify.com/track/1QxSiJ0Xf0iUzyDIFh7FWF) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On The Beach With The Paragons](https://open.spotify.com/album/5rPWGUQEG3OfeT65tRqcf9) | 3:05 |
+| 992 | [When the Lights Are Low](https://open.spotify.com/track/3RzklnCLyC35UhTN7WkVEr) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/4znstpmS1WOSyKyGtTVM8m) | 3:04 |
 | 993 | [Casbah](https://open.spotify.com/track/262YRlj3R609tpe8uXeo7Z) | [Ahmed Malek](https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB) | [El Fen / Casbah](https://open.spotify.com/album/4FyMIn7x3MvXhS77CU8gOs) | 3:25 |
 | 994 | [Kadi Kaseca](https://open.spotify.com/track/1YBJ0ABjimQEzpvk92ne7W) | [David Zé](https://open.spotify.com/artist/6Z2vxHCAm6Uwsh1m1IgUhR) | [O Melhor de David Zé](https://open.spotify.com/album/17okj8mBpSNRoraUCxTrha) | 3:08 |
 | 995 | [Ca'\-Ba'\-Dab](https://open.spotify.com/track/5ZsxcXFzJelvUskUo7BVRz) | [Soul Swingers](https://open.spotify.com/artist/1WhVD7a6nxjSuvyC6ypq7v), [Black On White Affair, Ron Buford, The Overton Berry Trio](https://open.spotify.com/artist/34xjTFNXh8K9dSajfKYLhh), [Cookin' Bag](https://open.spotify.com/artist/5Hmuegn36WfV5N9KBhRM7R) | [Wheedle's Groove \- Seattle's Finest in Funk & Soul 1965\-75](https://open.spotify.com/album/47LtDToMAiWFznI0BROaj6) | 2:56 |
@@ -1200,4 +1200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1190 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1191 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCw3OGJlM2JlZTU0MjUzNjVlMzI1ZDg4YzFmNTZiM2Q3MzU1YTU4MzU1`
+Snapshot ID: `MCxlYTljMjMwOWFjYmVmYzA1MWRkZTM0NTE0NmFmMDJhMzIyOWEwYWJh`

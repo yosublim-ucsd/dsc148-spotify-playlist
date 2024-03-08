@@ -4,7 +4,7 @@
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-234 songs - 15 hr 1 min
+235 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Miriams sang](https://open.spotify.com/track/2dlxb5AyIThRLQwhh9tXml) | [Terje Formoe](https://open.spotify.com/artist/6kD825qRQoUKwYKDar95SP) | [Et sted under stjernene](https://open.spotify.com/album/4lkAF5a0B0xDbaTcbZY4NL) | 3:41 | 2021-12-16 | 2022-07-23 |
 | [Mitt Andre Hjem](https://open.spotify.com/track/1PERYAkdjl7H6sobYpuLvO) | [Alexander Rybak](https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM), [Knut Bjørnar Asphol](https://open.spotify.com/artist/3O0OUcf7693cHwTBJWKl5K) | [Mitt Andre Hjem](https://open.spotify.com/album/4WChofZor5RuSged93ZT0c) | 3:32 | 2021-12-16 | 2022-07-23 |
 | [Mitt Hjerte Er Ditt](https://open.spotify.com/track/6T95elNl2CwTnJXAUUq9LI) | [Maj Britt Andersen](https://open.spotify.com/artist/2bIqrsdC6t8Ps4AcBp2rAP) | [Hvis Jeg Kunne Fly](https://open.spotify.com/album/07QZyVv2dBqLijfzuye6NL) | 2:21 | 2021-12-16 | 2022-07-29 |
-| [Mitt lille land](https://open.spotify.com/track/24bYCEcem3tzo3raOOwh01) | [Ole Paus](https://open.spotify.com/artist/1ekYDgldjpqKSEzJftWKQB) | [Paus synger Paus](https://open.spotify.com/album/1DjWqnJPoObQzAbb8dPwts) | 3:22 | 2021-12-16 |  |
+| [Mitt lille land](https://open.spotify.com/track/24bYCEcem3tzo3raOOwh01) | [Ole Paus](https://open.spotify.com/artist/1ekYDgldjpqKSEzJftWKQB) | [Paus synger Paus](https://open.spotify.com/album/1DjWqnJPoObQzAbb8dPwts) | 3:22 | 2021-12-16 | 2024-03-08 |
 | [Mysteriet deg](https://open.spotify.com/track/4Mwc191AVTn2cnlgTJYVrq) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Lisa Nilsson](https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG) | [De Beste](https://open.spotify.com/album/5Fad9LPUjww4yGt13jITUe) | 3:59 | 2022-02-17 | 2023-12-15 |
 | [Måneskinnsmøyane](https://open.spotify.com/track/4nycvJuvgOsWihHd6S3815) | [Helene Bøksle](https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT) | [Elverhøy](https://open.spotify.com/album/3HguT8PpDjz4e8gEhS1zpy) | 4:06 | 2022-03-23 | 2022-04-21 |
 | [Nordlandsnetter](https://open.spotify.com/track/0Lli0anlVb2OgRMgrIEHpr) | [Kirsti Sparboe](https://open.spotify.com/artist/2sIuZYabYsCOevwupstDNr) | [Et Vennlig Ord](https://open.spotify.com/album/0vBJEktE1gYiq6LEZ13zxT) | 3:29 | 2022-01-06 | 2022-07-05 |
@@ -242,5 +242,6 @@
 | [Vår beste dag](https://open.spotify.com/track/2RssYUkYzmEtvxmUX0C19A) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Vår beste dag](https://open.spotify.com/album/72dAuYKSanaCXmsLzS7eUN) | 3:22 | 2021-12-16 |  |
 | [Vårløysing](https://open.spotify.com/track/3NLVaTDstdmhc6rcE81flT) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Vårløysing](https://open.spotify.com/album/6hl5r09iun87zAk0fuvHxb) | 3:20 | 2022-04-28 | 2022-07-22 |
 | [Å Kunne Æ Skrive](https://open.spotify.com/track/3Q5UYAQJ4l3crdc3YjnqbK) | [Kari Bremnes](https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd), [Ola Bremnes](https://open.spotify.com/artist/2YUcEURAjhrNV7wxBBfq7E), [Lars Bremnes](https://open.spotify.com/artist/1L7U4qOZlB5M0GaAICnxc4) | [Soløye](https://open.spotify.com/album/5G5WRvcAMhNFEEBa57INLW) | 3:23 | 2021-12-16 |  |
+| [Æ og Min Elskede](https://open.spotify.com/track/5X2RlVIgj7zAkYQtW9FqpV) | [Konradsen](https://open.spotify.com/artist/59CWeBMEzwj6U2HhTVLJ3O) | [Michael's Book on Bears](https://open.spotify.com/album/0KEpG5mtg0eFyp55HQnwdg) | 3:32 | 2024-03-07 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

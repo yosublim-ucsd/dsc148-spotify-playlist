@@ -4,7 +4,7 @@
 
 > New tunes from Ireland for your discovery\. Cover: Amble
 
-99 songs - 5 hr 32 min
+103 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Better Way To Live](https://open.spotify.com/track/1ifVrAQPH2DZ3FBFu48rFw) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU), [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [Better Way To Live](https://open.spotify.com/album/5gXiWUFAEycihknbHFFRUM) | 3:01 | 2024-02-02 |  |
 | [Big Pharma \(Withdrawal\)](https://open.spotify.com/track/2PrAI62XtqYSaubDYT7vNP) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Big Pharma \(Withdrawal\)](https://open.spotify.com/album/49oxEaMua1ht601M4JTuos) | 2:53 | 2024-02-02 |  |
 | [Blockbuster](https://open.spotify.com/track/3okDzr13HrIpP3235TJjFN) | [TraviS](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly), [Elzzz](https://open.spotify.com/artist/0fGy9jPiPxcaoXHpQnjPy7) | [Blockbuster](https://open.spotify.com/album/1OZntciHhT5iMOG7J1PNnb) | 2:59 | 2024-02-02 |  |
+| [BLOW!](https://open.spotify.com/track/5ELT4PdWP7CaveDVvKKqLf) | [CARSTEN2X](https://open.spotify.com/artist/0Un2To5Ct6WgajC9z1xDud) | [BLOW!](https://open.spotify.com/album/2Pk7R5TkupH1Xtl3MIZoUm) | 3:02 | 2024-03-08 |  |
 | [Blue Blood](https://open.spotify.com/track/1ISY7X7jCpJsbKOVlE0BeK) | [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [Blue Blood](https://open.spotify.com/album/4NoVNF1zzaIf47ctj9oOS4) | 2:34 | 2024-02-02 |  |
 | [board games](https://open.spotify.com/track/4443fSuLl236FMsPXf9Zvt) | [katie phelan](https://open.spotify.com/artist/7g4ZlfLhJhCxpaMPUH2PY4) | [board games](https://open.spotify.com/album/3oaGwQVhXpIqZiZJUFtCtv) | 2:55 | 2024-02-02 | 2024-03-02 |
 | [Chelsea Bakery](https://open.spotify.com/track/4nFnrQgocP9fvcF5lOO87t) | [Fizzy Orange](https://open.spotify.com/artist/1hSt79a7e2OZzSD3pJgtCZ) | [Chelsea Bakery](https://open.spotify.com/album/02DHWSoYSF7Q0oyuBO18Pc) | 2:57 | 2024-02-16 |  |
@@ -29,7 +30,7 @@
 | [Day By Day](https://open.spotify.com/track/7qnmJKc7wqNrKP8Rkxcdyw) | [Alex Konchar](https://open.spotify.com/artist/0j7yukxKXLsF3DZZhwpyW0) | [Day By Day](https://open.spotify.com/album/74MQXYjrUQbJ7W818qOUw7) | 2:08 | 2024-03-01 |  |
 | [Daylight Savings](https://open.spotify.com/track/1Op1ZYMmDFvxOEY2HGuq1a) | [Reevah](https://open.spotify.com/artist/0vreRJnfkwQlxI2KQarKGQ) | [Daylight Savings](https://open.spotify.com/album/0gEzE0fSM4PbGYfNm28ZOC) | 3:37 | 2024-02-02 | 2024-02-06 |
 | [DECAY](https://open.spotify.com/track/7ujHwnDCjSx77is9AI1tdR) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [ROCK 'N' RAVE](https://open.spotify.com/album/3oRlu91UUBH536qpdagyNQ) | 2:26 | 2024-02-02 |  |
-| [Discovery](https://open.spotify.com/track/0telt43FI47tAzJUB5oaPG) | [Niamh Bury](https://open.spotify.com/artist/44VP4ZxUIYVngSNENOGRme) | [Discovery](https://open.spotify.com/album/1RxKY5Gd6rn86pHiP5P6QY) | 4:20 | 2024-02-02 |  |
+| [Discovery](https://open.spotify.com/track/0telt43FI47tAzJUB5oaPG) | [Niamh Bury](https://open.spotify.com/artist/44VP4ZxUIYVngSNENOGRme) | [Discovery](https://open.spotify.com/album/1RxKY5Gd6rn86pHiP5P6QY) | 4:20 | 2024-02-02 | 2024-03-08 |
 | [Don't Understand Why](https://open.spotify.com/track/4McagilwKb0abKxmNG6aYZ) | [TOUCAN](https://open.spotify.com/artist/62qJvoIRvMlDGOrnLvylX0) | [Don't Understand Why](https://open.spotify.com/album/55XRl8sZvsT8glN2yEfTef) | 3:16 | 2024-02-16 |  |
 | [Doomsday Blue](https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Cathexis](https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco) | 3:03 | 2024-02-05 |  |
 | [elegy](https://open.spotify.com/track/6mD8j5V2vq7B7Ut50RcPVM) | [glasseyed](https://open.spotify.com/artist/3Y38CJx9If6ZXXTWhKUjDG) | [elegy](https://open.spotify.com/album/5Xy2nSptvYN8FODDFXiJFZ) | 3:15 | 2024-02-02 |  |
@@ -39,7 +40,7 @@
 | [Follow Me](https://open.spotify.com/track/5g5lGBblSV6M0XMveLlGRn) | [Lucy McWilliams](https://open.spotify.com/artist/41AscmNq0sWTYo4gRCp21k) | [Follow Me](https://open.spotify.com/album/4Vn7Y2GexjvoLqp8Mwf8pH) | 3:59 | 2024-02-02 |  |
 | [FourFour](https://open.spotify.com/track/6UESDM5sT8nzLNwzBSpapT) | [Pat Lagoon](https://open.spotify.com/artist/4WaDfJax1AahnapPlsWsDs) | [FourFour](https://open.spotify.com/album/4e8yfABATTvhRx35Vq6nmX) | 2:00 | 2024-02-02 |  |
 | [Funeka](https://open.spotify.com/track/3eNfjouyFU9bTAeBB4eirf) | [Cooks But We're Chefs](https://open.spotify.com/artist/2Q9PBFjIjNgm7N5tyL0Z83) | [Funeka](https://open.spotify.com/album/2xwYWGQYsWdjQTI9Wxacr5) | 4:03 | 2024-02-02 | 2024-02-23 |
-| [Graveyard](https://open.spotify.com/track/6mRUh0RVFqjUP75Fm5eic7) | [Lucy Blue](https://open.spotify.com/artist/2bhd3BPOa3430RfyyB6moo) | [Graveyard](https://open.spotify.com/album/0MlaMXFXlpdVChmsFajK31) | 3:04 | 2024-02-02 |  |
+| [Graveyard](https://open.spotify.com/track/6mRUh0RVFqjUP75Fm5eic7) | [Lucy Blue](https://open.spotify.com/artist/2bhd3BPOa3430RfyyB6moo) | [Graveyard](https://open.spotify.com/album/0MlaMXFXlpdVChmsFajK31) | 3:04 | 2024-02-02 | 2024-03-08 |
 | [Heat](https://open.spotify.com/track/6vAznmmD372DjfKqP1kKEf) | [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [Heat](https://open.spotify.com/album/28KACgx2D6lUoDXBWr55CE) | 3:13 | 2024-02-02 | 2024-02-16 |
 | [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 | 2024-02-02 |  |
 | [i shouldn’t be here](https://open.spotify.com/track/20GibSptxBlsWlJRwWOsrB) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [i shouldn’t be here](https://open.spotify.com/album/2LywM7oEuEHwX5wofh6Gg7) | 3:06 | 2024-02-02 |  |
@@ -72,13 +73,16 @@
 | [Open Ended](https://open.spotify.com/track/5SlEyBuGTGWvCCY7igLmny) | [Holly Munro](https://open.spotify.com/artist/2n9jieS7R5I7zRVKoYTziq) | [Open Ended](https://open.spotify.com/album/0ofMe7xxj2EZiFR9YVmBrw) | 3:24 | 2024-02-02 | 2024-02-23 |
 | [Our Time](https://open.spotify.com/track/0m3rJzSC3u0DAgRp8V5y0b) | [Luke Dunleavy](https://open.spotify.com/artist/2hrlyfscnm84Inpkn8hpga) | [Our Time](https://open.spotify.com/album/7uNkcvXJxHH3roLYAjBixB) | 2:30 | 2024-02-23 |  |
 | [Outside](https://open.spotify.com/track/0I2xts4kga2ulOC3yM0roB) | [Syano](https://open.spotify.com/artist/58OyCAJb1NYuQMhCeuq8Rt), [SYGH](https://open.spotify.com/artist/5uVm4NbxKsMNTQF3KXGzPN) | [Outside](https://open.spotify.com/album/5DU1INumD6DSbYL4odHEkG) | 2:54 | 2024-02-02 |  |
-| [People](https://open.spotify.com/track/0xi7qZJw7b1colPIEGG8bB) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [People](https://open.spotify.com/album/3FFC8lDz8RhvpHtO89NLix) | 3:44 | 2024-02-02 |  |
+| [People](https://open.spotify.com/track/0xi7qZJw7b1colPIEGG8bB) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [People](https://open.spotify.com/album/3FFC8lDz8RhvpHtO89NLix) | 3:44 | 2024-02-02 | 2024-03-08 |
 | [Plans](https://open.spotify.com/track/73wrWfbOAms1ZouKuBuh0D) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [Plans](https://open.spotify.com/album/3fGvMYRJ29zRyoHfsPU9z6) | 2:55 | 2024-02-02 |  |
+| [Put The Blame On Me](https://open.spotify.com/track/6uOMsRNuCaoLRQXFrmgrBc) | [J.F.O](https://open.spotify.com/artist/7tildDuwYhitQgNrXSLDGh) | [Put The Blame On Me](https://open.spotify.com/album/0TdvL5XWxschpsWOdkTRb1) | 2:36 | 2024-03-08 |  |
+| [Quick Fix](https://open.spotify.com/track/5ReMXn9NCcwKJVwQT4HlWq) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Quick Fix](https://open.spotify.com/album/4Zki0CQv6Bx2J1o4bJkDRn) | 4:18 | 2024-03-08 |  |
 | [rain](https://open.spotify.com/track/2mFHuOSkUuTjknIcm9z1v5) | [wxlfcut](https://open.spotify.com/artist/4KsTSYMKkgKaRpPAbjbLnJ) | [rain](https://open.spotify.com/album/704xBAoF4PQXfM188RR020) | 3:08 | 2024-02-16 |  |
 | [Reject Loser Daydream](https://open.spotify.com/track/7oo31yFxiG3IEu90guW8Aq) | [whoisdays](https://open.spotify.com/artist/1JvxXVFAnvaTUBDgX82vHS) | [Reject Loser Daydream](https://open.spotify.com/album/5Zrj7PUYLLZozST3datBG0) | 2:58 | 2024-02-02 | 2024-02-23 |
-| [Rivers](https://open.spotify.com/track/6Ly5TRE6GVx2K6vVnHa0ru) | [Conchúr White](https://open.spotify.com/artist/3CKoNNHadnfwIuDzOmX7vF) | [Rivers](https://open.spotify.com/album/5ZAcHFKb7UkBq49KSK3mG3) | 3:01 | 2024-02-02 |  |
+| [Rivers](https://open.spotify.com/track/6Ly5TRE6GVx2K6vVnHa0ru) | [Conchúr White](https://open.spotify.com/artist/3CKoNNHadnfwIuDzOmX7vF) | [Rivers](https://open.spotify.com/album/5ZAcHFKb7UkBq49KSK3mG3) | 3:01 | 2024-02-02 | 2024-03-08 |
 | [See You In a Year and a Half](https://open.spotify.com/track/53JxyMqGibF07pBJ7aA2HJ) | [CABL](https://open.spotify.com/artist/1YCTaB9cH7i6IDBbS3Rp98) | [See You In a Year and a Half](https://open.spotify.com/album/3wOvqeu8ZppPF9LWD2bcYz) | 5:09 | 2024-02-02 |  |
 | [Sentences](https://open.spotify.com/track/2MI97Z7aN6BsMUpKjGs6MJ) | [Annika Kilkenny](https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx) | [Sentences](https://open.spotify.com/album/4vduPHyboJB0uaGjft8I8b) | 2:13 | 2024-02-23 |  |
+| [Shadow](https://open.spotify.com/track/3hgmSLTBSBVBlxOF0xV01r) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Shadow EP](https://open.spotify.com/album/1UTIEbg5uN419e3TVEAfOV) | 2:47 | 2024-03-08 |  |
 | [Shot In The Dark](https://open.spotify.com/track/0pK7Np2Rx6dYaNioN1i6np) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Shot In The Dark](https://open.spotify.com/album/67tb6jF9KTKzLlhc0HDk32) | 2:59 | 2024-02-02 |  |
 | [situation blues](https://open.spotify.com/track/0M8fNSuSDNC9m0opdAs1xW) | [Jehnova](https://open.spotify.com/artist/1R8b9K6QEpHdV5c88fuH1n) | [IOU 5](https://open.spotify.com/album/3Y9QcveOO76ttyWBogog8D) | 3:07 | 2024-02-02 |  |
 | [Sleeping with Ghosts](https://open.spotify.com/track/4hWhhqRAQ8R4sEEefmh0Qc) | [The Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [Sleeping with Ghosts](https://open.spotify.com/album/1Ta8PhMDJSAaslDscjexWg) | 4:22 | 2024-02-02 |  |

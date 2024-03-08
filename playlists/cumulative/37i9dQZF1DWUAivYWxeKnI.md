@@ -2,7 +2,7 @@
 
 ### [HIPHOPPLAYA FESTIVAL 2024](https://open.spotify.com/playlist/37i9dQZF1DWUAivYWxeKnI)
 
-> Meet the lineup of HIPHOPPLAYA FESTIVAL 2024, the largest outdoor hip\-hop festival in Korea! \(한국 최대 규모의 야외 힙합 페스티벌 HIPHOPPLAYA FESTIVAL 2024의 라인업을 만나보세요!\)
+> \[Festival Dates: May 4\-5\] Meet the lineup of HIPHOPPLAYA FESTIVAL 2024, the largest outdoor hip\-hop festival in Korea! \(5월 4일\-5일 열리는 한국 최대 규모의 야외 힙합 페스티벌 HIPHOPPLAYA FESTIVAL 2024의 라인업을 만나보세요!\)
 
 123 songs - 7 hr 4 min
 

@@ -4,7 +4,7 @@
 
 > Positive and uplifting ambient instrumental tracks.
 
-270 songs - 13 hr 21 min
+274 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [\[Nowhere\]](https://open.spotify.com/track/1KR69UXMtGLsKvtwyBTny4) | [Gem Club](https://open.spotify.com/artist/7mfGqyAztYr0FI5gK5OCNp) | [In Roses](https://open.spotify.com/album/4ewVQNBZP2p3sekqciKE6r) | 2:08 | 2021-09-06 | 2022-07-29 |
 | [\[Nowhere\]](https://open.spotify.com/track/24JJbx6jhyzsEyobFgpNZu) | [Gem Club](https://open.spotify.com/artist/7mfGqyAztYr0FI5gK5OCNp) | [In Roses](https://open.spotify.com/album/2pJ2NdaalryGLVtCo8ehoG) | 2:08 | 2022-07-11 |  |
 | [A Journey Within](https://open.spotify.com/track/4mEZtX5K7cSCS3f3GKj5m2) | [John Pete Dexter](https://open.spotify.com/artist/7dljhI1eiWanHTZAy5XQTR) | [A Journey Within](https://open.spotify.com/album/3JltKqtffoJe4Mgp5JBl38) | 2:58 | 2021-09-06 |  |
+| [Aeternus](https://open.spotify.com/track/7zAUhqsimf8Lxs6MGsgSJG) | [Eunephele](https://open.spotify.com/artist/0RfnRQ6vmyxDzMuyDmJaSm) | [Aeternus](https://open.spotify.com/album/4wOUjIaYgTUewRPIhzS2TM) | 2:49 | 2024-03-07 |  |
 | [Affinity](https://open.spotify.com/track/2AlN38UqnsvqOLFxsCUWWH) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [KEEN: Sweet Dreams Vol\. 1](https://open.spotify.com/album/4EysyfJFTHrX08jYXvyfd1) | 2:28 | 2022-10-21 | 2022-11-14 |
 | [Affinity](https://open.spotify.com/track/6QBMi35bWSwDCnPYqFJ7CJ) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [City Life](https://open.spotify.com/album/2i47kGSyOtZQA7kckmakTO) | 2:28 | 2022-07-11 |  |
 | [Affinity](https://open.spotify.com/track/1pJAweP34zFBSOplMQc1m0) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [City Life](https://open.spotify.com/album/6fjaKnvd9PFGQxe37E9UfM) | 2:28 | 2021-09-06 | 2022-07-29 |
@@ -118,7 +119,9 @@
 | [For Induction](https://open.spotify.com/track/29IqDDE8BiR2Av8xT4l0y7) | [Lemos](https://open.spotify.com/artist/5nXvkyQwcA3mf2B9Wsd3Lh) | [Meditation](https://open.spotify.com/album/5ky4H3IU7qgaXOre9S03Bz) | 2:56 | 2023-02-24 |  |
 | [Found](https://open.spotify.com/track/2T2EemW8X3GlKvJe1gxpBC) | [Martin Gauffin](https://open.spotify.com/artist/5dDn2NkprqEkypmRzyAtPt) | [Found](https://open.spotify.com/album/2LtKNN5HRbG0Acos9YDAMA) | 2:39 | 2021-09-06 |  |
 | [Frankenthaler](https://open.spotify.com/track/6fZyNWUtqDD9CXZI4Llh7G) | [Bromeliad](https://open.spotify.com/artist/3XlQzOKje7lZLZhMDnKZz3) | [Frankenthaler](https://open.spotify.com/album/2l8wc98B9kwJpXiQaZ4l35) | 1:45 | 2021-09-06 | 2023-07-29 |
+| [Future](https://open.spotify.com/track/7wuyeVnpHutyFX7YqoEwt1) | [Vinícius Énnae](https://open.spotify.com/artist/3kj0g7ata90ABzu9sHr5XD) | [Future](https://open.spotify.com/album/0JM0cFn5oDVpsFPK988nDc) | 3:14 | 2024-03-07 |  |
 | [Gentle Clouds](https://open.spotify.com/track/1IRR5rfYWEjE3EiWi9JVZQ) | [Antonin Luther](https://open.spotify.com/artist/11sHuBcPbj0dxzuNmKgXD9) | [Floating In Space](https://open.spotify.com/album/27lGmauzxbrtAdByJ209dT) | 3:06 | 2021-09-06 |  |
+| [Gentle Eclipse](https://open.spotify.com/track/2tg6W6vWgmWgBbdxfTcYsA) | [Naara Constellation](https://open.spotify.com/artist/2hBWR8hVlBRuM7Zuoe3vKM) | [Gentle Eclipse](https://open.spotify.com/album/0ZZcHf2d5DuQB8s7XuO9TG) | 2:40 | 2024-03-07 |  |
 | [Gentle Serenity](https://open.spotify.com/track/4amhCY18OuVRix7E1vUZJb) | [Perfect Shapes](https://open.spotify.com/artist/7rocivfP8tOkfNxT2jp9Fr) | [Horizon](https://open.spotify.com/album/3887UhI3G4vNcTefsBA5Zi) | 3:27 | 2021-09-06 | 2023-07-15 |
 | [Gisteren](https://open.spotify.com/track/6VlkT2wNTiNCGiPS4pH3tO) | [Casper Wiersma](https://open.spotify.com/artist/2ZEbGQS7T0YnsUHidXUVUZ) | [Gisteren](https://open.spotify.com/album/46Epx3wYFdjZGIP6IFy1zm) | 2:23 | 2022-07-11 |  |
 | [glass house](https://open.spotify.com/track/5NK9JmDzbNuiccDWbGajuY) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [serenity \(sleep\)](https://open.spotify.com/album/4thjYHaj4xryisnspMw8Hv) | 2:49 | 2022-07-11 | 2022-10-13 |
@@ -163,6 +166,7 @@
 | [Lunar Dreamscape](https://open.spotify.com/track/5t9XohWGihplq53Gi4lfQE) | [Terra Armoniosa](https://open.spotify.com/artist/0AkcSI557MXz8GvC7fbyVT) | [Lunar Dreamscape](https://open.spotify.com/album/0osy0lravryxj4wRzC6kFU) | 2:58 | 2024-02-22 |  |
 | [Lunaria](https://open.spotify.com/track/64NfNdH3XaMEpchQznOuxl) | [Francesca Caroléo](https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke) | [Lunaria](https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn) | 1:52 | 2021-09-06 | 2023-07-29 |
 | [Lupus Dream](https://open.spotify.com/track/5PZASTgARJNAA849LvrAz5) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [A New Constellation](https://open.spotify.com/album/20auUkhq5BLo3ab520baTi) | 3:17 | 2021-09-06 | 2023-03-18 |
+| [Magnificent](https://open.spotify.com/track/2lJgdd9YKqt18avtVyDL29) | [Vayda Sun](https://open.spotify.com/artist/2DDcsNRmquB7eoFY1S0oxX) | [Magnificent](https://open.spotify.com/album/0k8r5eLoUcm31XnnwbvtfW) | 2:56 | 2024-03-07 |  |
 | [Manitoba](https://open.spotify.com/track/0bPvqnt9L5FNrHAMO7MdMh) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Manitoba](https://open.spotify.com/album/3IlPtuf3cP1V6QdqJgeMsb) | 2:21 | 2024-02-22 |  |
 | [Mayor Menor](https://open.spotify.com/track/5nrBW6ySNOcXTzC7WcpyNf) | [King Kuelgue](https://open.spotify.com/artist/5PIv0hL3wDUZ57va29ZKeT) | [Tres](https://open.spotify.com/album/2QCMu5Nsx4Cs1Rl3m2tq7j) | 1:52 | 2021-09-06 | 2023-07-29 |
 | [Meditations pt 1](https://open.spotify.com/track/6vOgKvTHr4NO9YPsZQfiDX) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [Meditations pt 1](https://open.spotify.com/album/4VNV5Z6ESAqrAjbe7nwIq9) | 2:30 | 2021-09-06 |  |

@@ -4,7 +4,7 @@
 
 > Gentle, soft Ambient music for focus and concentration.
 
-151 songs - 7 hr 8 min
+155 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,10 +16,12 @@
 | [Among The Pines](https://open.spotify.com/track/32lsiyicjwKIKyeDL0L8ij) | [Zenon](https://open.spotify.com/artist/0dChfqND0qSnlhrNZF7NlL) | [Among The Pines](https://open.spotify.com/album/22aZul65rFrWztnDT2NB7F) | 3:07 | 2023-04-28 |  |
 | [Anchor](https://open.spotify.com/track/5PByK88P0mNCJqPnS3Yxml) | [Lulu Helensworth](https://open.spotify.com/artist/43qsbkyR2EgZ14k6eJXd3j) | [Haven](https://open.spotify.com/album/0O6MiQUPJwtZaw9Eaa1oeF) | 2:36 | 2023-03-09 |  |
 | [Aquarium](https://open.spotify.com/track/4FQIwSmM1RkrJoYo7ys5gP) | [Aquatic Dreamer](https://open.spotify.com/artist/5J0V2NU23Rfh99C1bQJMiM) | [Aquarium](https://open.spotify.com/album/7IJ2VDv8IKaL0ilSwI9Syf) | 2:40 | 2022-10-12 |  |
+| [Ascend](https://open.spotify.com/track/1135ODK6OVlseiV2XYIhgb) | [Matheo Lyon](https://open.spotify.com/artist/5yBqlv8zkkzTmWN0TtjMf4) | [Ascend](https://open.spotify.com/album/0OR0RkOp6ZIpipC8mcj3jT) | 2:44 | 2024-03-07 |  |
 | [Ascending](https://open.spotify.com/track/2b3ajnlClLNs4qPu3gxlLc) | [Tone Jacobs](https://open.spotify.com/artist/3uDLX7j7thpPkEANovcmlT) | [Ascending](https://open.spotify.com/album/2C9DeBnFjZUKi8J3FrpVsr) | 2:42 | 2022-10-12 |  |
 | [At Day's End](https://open.spotify.com/track/0dE4epGWpmb0DB5mCZgN0T) | [Rebekah Bolton](https://open.spotify.com/artist/0W3cyXPYApFajrsJKSAcHQ) | [At Day's End](https://open.spotify.com/album/7L4cEWdKBXbOYzxtP46FVG) | 2:53 | 2022-10-12 | 2023-11-17 |
 | [Atlas](https://open.spotify.com/track/7Ld82Xo4cv71JmVpevFAHO) | [Invertivo](https://open.spotify.com/artist/41SaKcYP2CTeAwnQPFS3YV) | [Atlas](https://open.spotify.com/album/454YxMcqipagvCU1scUyz2) | 2:54 | 2022-10-12 |  |
 | [Auriga](https://open.spotify.com/track/1xB31OvpmOnsalR2T2RF4Y) | [Boris Wilde](https://open.spotify.com/artist/0g32C3NhVb9ERoH34Jj6fE) | [Clusters](https://open.spotify.com/album/1y0KC5V5fkivO8IH323prK) | 2:58 | 2022-10-12 |  |
+| [Aurora Borealis Melody](https://open.spotify.com/track/3XkQDGQRnsKLNJ71BwYnqq) | [Nebula Drift](https://open.spotify.com/artist/2KFE9LRhcbRSsSJBasIFjh) | [Aurora Borealis Melody](https://open.spotify.com/album/1jwlRz30Nxv3cvQWeZVuIK) | 3:00 | 2024-03-07 |  |
 | [Ayunan](https://open.spotify.com/track/7sKHxAlAL7yvXMqCQyOLLK) | [Indah Bethari](https://open.spotify.com/artist/6PEb2KuIsMYIR8DFdBL2al) | [Faedah](https://open.spotify.com/album/1tR8nFFyDf0jgyxRlcVAYi) | 2:15 | 2022-12-30 |  |
 | [Beautiful Whispers](https://open.spotify.com/track/1oOqtVnJU3bjrIqypr0J1V) | [Eleonor Bauer](https://open.spotify.com/artist/5FeOCRq508gqckvhfqdQY6) | [Peaceful Atmospheres for Sleep and Rest Vol 3](https://open.spotify.com/album/06DmjX4lMysgspXtRXc1Cn) | 2:53 | 2022-10-12 |  |
 | [Beyond & Back](https://open.spotify.com/track/1Fl9ptJFxhir0pC9jNpwKx) | [Carufo](https://open.spotify.com/artist/19iZvlebGTx7MIFfXSbnb6) | [Beyond & Back](https://open.spotify.com/album/6UjOraeSaCwZrZnjuQTw8F) | 2:46 | 2022-10-12 |  |
@@ -90,7 +92,9 @@
 | [Längtan](https://open.spotify.com/track/5dU3ZoeCCMmRziuCCr4ErZ) | [Amsaga](https://open.spotify.com/artist/2Z4elDEV9RqWpqQT9yxE7o) | [Längtan](https://open.spotify.com/album/1Ct1me1fiNQ2c37OyvTnku) | 3:55 | 2022-10-12 |  |
 | [Mantra](https://open.spotify.com/track/0T6aebCof9rkuZNiBKhyYA) | [Tone Jacobs](https://open.spotify.com/artist/3uDLX7j7thpPkEANovcmlT) | [Mantra](https://open.spotify.com/album/3Qx35bliXAZ47EIBUyz3No) | 2:33 | 2022-10-12 | 2023-06-24 |
 | [Meliora](https://open.spotify.com/track/4UUTtDXBx9GiedPVzTNL5F) | [Vendela Rose](https://open.spotify.com/artist/31fLMu6uyged4QpGx1VqA0) | [Meliora](https://open.spotify.com/album/7sxxKRZ8YByAttAbVJiUSp) | 3:17 | 2022-10-12 | 2023-07-15 |
+| [Mild Season](https://open.spotify.com/track/7d8I19LKTGqXrtVuuicHeU) | [Shibuki](https://open.spotify.com/artist/01ZOR2akLhLcm87lo8jHTg) | [Mild Season](https://open.spotify.com/album/1lVMgr76m4osE1qQwyf1jC) | 2:27 | 2024-03-07 |  |
 | [Mindful Soul](https://open.spotify.com/track/1lfuL7h3owfL3hCiWE2EZK) | [Aaron Lynn](https://open.spotify.com/artist/1kEuEpTf7gKcy26IEL9Cw0) | [Mindful Soul](https://open.spotify.com/album/7xVsT3GMGgakHk9xbtjDzC) | 2:39 | 2022-10-12 | 2022-11-23 |
+| [Moonwalk](https://open.spotify.com/track/4iayZPpJMR21nmQSXznRYy) | [Stellar Serenity](https://open.spotify.com/artist/0cNkXhcvWBfK1vKVAUC7Ye) | [Moonwalk](https://open.spotify.com/album/10xs3hLs3VbR1YV3A4h1We) | 2:57 | 2024-03-07 |  |
 | [More Than Anything](https://open.spotify.com/track/2B1Tx8yV3jAJqQXxR8B1An) | [Richter Gravitas](https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG) | [More Than Anything](https://open.spotify.com/album/5G1UXmHAHZzhqY4qel3ZEe) | 2:06 | 2022-11-22 |  |
 | [Morning Lights](https://open.spotify.com/track/2r9QArmF6Z30UzUvDBgCy4) | [Francois Mirere](https://open.spotify.com/artist/1nzmy6MwB4QVWDvZVW5AtD) | [Morning Lights](https://open.spotify.com/album/7JAleYk8JNdXN9ihY9Gy86) | 2:54 | 2022-10-12 |  |
 | [Moving Towns](https://open.spotify.com/track/2JiKbDaZcMTyzhEoDq2CUy) | [Cognitivity](https://open.spotify.com/artist/1M1SmUUUHhrSn1k8SEvBTV) | [Vision Dreamscape](https://open.spotify.com/album/0fQ9nrYb4OjJt2MJ5PKnga) | 2:59 | 2023-06-30 |  |

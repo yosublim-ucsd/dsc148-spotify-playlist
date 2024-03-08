@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:2cB6hX2LI14KUTAevpaYn2">Josh Baldwin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,627 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,747 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 39 | [wake up and walk on water](https://open.spotify.com/track/2IZVRxECmctkToyLtFM8YE) | [MUCH MORE](https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs) | [wake up and walk on water](https://open.spotify.com/album/0RsItI3iqrJUeqbjdiOMBx) | 2:12 |
 | 40 | [Your Turn](https://open.spotify.com/track/6Kdgmp79LyuDlRwF2Sp9uL) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [Meadows Students](https://open.spotify.com/artist/6RmO5mFM5y1uhS5Cfw1xBX) | [Your Turn](https://open.spotify.com/album/2kKbalVOGJSZUKAfUyWnf0) | 2:29 |
 | 41 | [Agnus Dei \(You Are Holy\)](https://open.spotify.com/track/2meTdpBGh1YK4yjWGmmIPc) | [sxxnt.](https://open.spotify.com/artist/4T0c560DVGr1cAtE3reOP1), [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX), [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Agnus Dei \(You Are Holy\)](https://open.spotify.com/album/1PfNSvl4G6fbcbrWx3fiUd) | 4:16 |
-| 42 | [famous](https://open.spotify.com/track/0BJiR47N6S8mwTXatkhcV1) | [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni) | [with love, always ♡ II](https://open.spotify.com/album/4ibvV0p5f9ZzDGGPZVC3zs) | 2:51 |
+| 42 | [famous](https://open.spotify.com/track/0BJiR47N6S8mwTXatkhcV1) | [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni) | [with love, always ♡ II](https://open.spotify.com/album/4ibvV0p5f9ZzDGGPZVC3zs) | 2:50 |
 | 43 | [Before](https://open.spotify.com/track/71dNHv6FwyjJ0Dx6NpiF0i) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI), [Watobi](https://open.spotify.com/artist/4STK5DXKwQn86PfOUZYAQj) | [Before](https://open.spotify.com/album/5t0ZleZ1YyQSsUxCNPxELt) | 2:22 |
 | 44 | [LOVED.](https://open.spotify.com/track/0LhWuEzh4XeMIP6LdegjGP) | [Ryan Brockington](https://open.spotify.com/artist/4WFblFAFYMyumOvNYu7e2b), [Van Gammon](https://open.spotify.com/artist/4onpnKdjYxaasKXpMHwnNE) | [LOVED.](https://open.spotify.com/album/6GNafV51Uf4CFQBLWA0zyv) | 3:00 |
 | 45 | [Only You Satisfy](https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 5:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Narrow Road](https://open.spotify.com/track/6nUhW3DT9vGkKyiEpP5j6c) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Narrow Road](https://open.spotify.com/album/06bBBzYhH0ZP73qteIAEX1) | 4:25 |
 | 100 | [Always On The Way](https://open.spotify.com/track/2GkGPEOHRHO92c88Ttg7XB) | [Kirby Kaple](https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1) | [Always On The Way](https://open.spotify.com/album/4tjBnY43ovO1RRSrZUpcVW) | 4:28 |
 
-Snapshot ID: `MCw2NDAxZDNkMTA3MTQ4NjlmNzJhNGFjNDE1MGEzNzA2OThjNWUyZDI5`
+Snapshot ID: `MCxjZTYzODIzMmNkNGIyMDFiMmM2ODAyYzA1YmIxOGZiZjRlZDhjNmY2`

@@ -1,15 +1,15 @@
 {
-  "description": "Ana Castela, Hungria, Alok e e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
-  "num_followers": 8199715,
+  "description": "Ana Castela e e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
+  "num_followers": 8202141,
   "original_name": "Top Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDcyNDQ1YWJiYzQ5ZGRjM2ZkZjRhNTczMjQzM2MzNjRkZTFmMWU5",
+  "snapshot_id": "MCxlZjgwOTgyZDI0YjlkMWVlNDU0ZWIyZTg4MjJjMDM5Y2JkNjcxOGY2",
   "tracks": [
     {
-      "added_at": "2024-03-06 17:26:10",
+      "added_at": "2024-03-07 15:00:00",
       "album": {
         "name": "Lua (Boiadeira Internacional EP.4)",
         "url": "https://open.spotify.com/album/4hy4Wsbl0nWmAWMdp46OHV"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/1iilEnhis2SZrqGdcjKOY5"
     },
     {
-      "added_at": "2024-03-06 17:26:10",
+      "added_at": "2024-03-07 15:00:00",
       "album": {
         "name": "Perna Bamba",
         "url": "https://open.spotify.com/album/3ZF2KGQ1nS7xSLkS3RNr4i"
@@ -53,7 +53,7 @@
       "url": "https://open.spotify.com/track/4o9xV6DC9CrWuT7HJ2eQpX"
     },
     {
-      "added_at": "2024-03-06 17:26:10",
+      "added_at": "2024-03-07 15:00:00",
       "album": {
         "name": "Dia de Fluxo",
         "url": "https://open.spotify.com/album/58jzd3ALDliyTUI5Ke8jmS"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/6GmyQws2xpUFIN5dXBNTrl"
     },
     {
-      "added_at": "2024-03-06 17:26:10",
+      "added_at": "2024-03-07 15:00:00",
       "album": {
         "name": "Baby Eu Tava na Rua da \u00c1gua",
         "url": "https://open.spotify.com/album/6HIPvZhnf9Pb6rFLQb7vmD"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/4sAoshwHCmh4IHMQxZHwRD"
     },
     {
-      "added_at": "2024-03-06 17:26:10",
+      "added_at": "2024-03-07 15:00:00",
       "album": {
         "name": "Raiz Goi\u00e2nia (Ao Vivo)",
         "url": "https://open.spotify.com/album/6v9Ul1m0zyx9G3uwv8jRhu"
@@ -117,7 +117,23 @@
       "url": "https://open.spotify.com/track/2sYFUcurlISdHlAsnYCEgD"
     },
     {
-      "added_at": "2024-03-06 17:26:10",
+      "added_at": "2024-03-07 15:00:00",
+      "album": {
+        "name": "Escolhas, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3a6T0jJ6mF4KpBYvKH5o7Z"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 133546,
+      "name": "Barulho Do Foguete - Ao Vivo",
+      "url": "https://open.spotify.com/track/42JNab8NPeCADJ9D3Cl5wS"
+    },
+    {
+      "added_at": "2024-03-07 15:00:00",
       "album": {
         "name": "DAN\u00c7A PRA ME PROVOCAR",
         "url": "https://open.spotify.com/album/5LjiaU620s0bLVN0zf57O5"
@@ -137,7 +153,43 @@
       "url": "https://open.spotify.com/track/6zdL0aLZs6g61SPGrlMvrM"
     },
     {
-      "added_at": "2024-03-06 17:26:10",
+      "added_at": "2024-03-07 15:00:00",
+      "album": {
+        "name": "Fortaleza, Vol.1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/30YOsTPCOEx3GRXyZhDAMD"
+      },
+      "artists": [
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        }
+      ],
+      "duration_ms": 147988,
+      "name": "A Cerveja Abre Sozinha - Ao Vivo",
+      "url": "https://open.spotify.com/track/1t7hoiam7urTLzzSTHuSDD"
+    },
+    {
+      "added_at": "2024-03-07 15:00:00",
+      "album": {
+        "name": "Haver\u00e1 Sinais (Ao Vivo)",
+        "url": "https://open.spotify.com/album/15GThOcgtXImBrv3PmlOm6"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        },
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 190272,
+      "name": "Haver\u00e1 Sinais - Ao Vivo",
+      "url": "https://open.spotify.com/track/6X6jKoyw1OjogRghMEQAZV"
+    },
+    {
+      "added_at": "2024-03-07 15:00:00",
       "album": {
         "name": "Amor Livre (Ao Vivo)",
         "url": "https://open.spotify.com/album/3j4zjgm1DyrVoLNV5wTIY7"
@@ -153,7 +205,35 @@
       "url": "https://open.spotify.com/track/1oNTb43ZiUq5nUrbn4ar5v"
     },
     {
-      "added_at": "2024-03-06 17:26:10",
+      "added_at": "2024-03-07 15:00:00",
+      "album": {
+        "name": "Qual \u00e9 seu desejo?",
+        "url": "https://open.spotify.com/album/5qNaCpWDBGkFQ4xfLs0TKs"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        }
+      ],
+      "duration_ms": 153429,
+      "name": "Qual \u00e9 seu desejo?",
+      "url": "https://open.spotify.com/track/2HzLEPWKXcfpwfmEIUURHo"
+    },
+    {
+      "added_at": "2024-03-07 15:00:00",
       "album": {
         "name": "Cama Repetida",
         "url": "https://open.spotify.com/album/1RJKWMGafW4FTfwWqzfvIi"
@@ -173,7 +253,7 @@
       "url": "https://open.spotify.com/track/5LycBidoF0kWptQYXEVPlx"
     },
     {
-      "added_at": "2024-03-06 17:26:10",
+      "added_at": "2024-03-07 15:00:00",
       "album": {
         "name": "Passada de M\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/1uaWBRr8TaO8vCLso2waUO"
@@ -193,23 +273,7 @@
       "url": "https://open.spotify.com/track/0I0WaeHgXRRA9sP2LOLoE4"
     },
     {
-      "added_at": "2024-03-06 17:26:10",
-      "album": {
-        "name": "Fortaleza, Vol.1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/30YOsTPCOEx3GRXyZhDAMD"
-      },
-      "artists": [
-        {
-          "name": "Murilo Huff",
-          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
-        }
-      ],
-      "duration_ms": 147988,
-      "name": "A Cerveja Abre Sozinha - Ao Vivo",
-      "url": "https://open.spotify.com/track/1t7hoiam7urTLzzSTHuSDD"
-    },
-    {
-      "added_at": "2024-03-06 17:26:10",
+      "added_at": "2024-03-07 15:00:00",
       "album": {
         "name": "Maliciosa (Ao Vivo)",
         "url": "https://open.spotify.com/album/6ijC1S3LFTvQlrQWkQko3E"
@@ -225,23 +289,7 @@
       "url": "https://open.spotify.com/track/3vCH7bgO37Cx4dOIUlX9sv"
     },
     {
-      "added_at": "2024-03-06 17:26:10",
-      "album": {
-        "name": "Escolhas, Vol. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3a6T0jJ6mF4KpBYvKH5o7Z"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 133546,
-      "name": "Barulho Do Foguete - Ao Vivo",
-      "url": "https://open.spotify.com/track/42JNab8NPeCADJ9D3Cl5wS"
-    },
-    {
-      "added_at": "2024-03-06 17:26:10",
+      "added_at": "2024-03-07 15:00:00",
       "album": {
         "name": "Anestesiado (Ao Vivo)",
         "url": "https://open.spotify.com/album/1SzYchODhkUqPcSNR2HKh0"
@@ -257,7 +305,67 @@
       "url": "https://open.spotify.com/track/7vCtJ5u7dFM4tAWtgFf4l8"
     },
     {
-      "added_at": "2024-03-06 17:26:10",
+      "added_at": "2024-03-07 15:00:00",
+      "album": {
+        "name": "Rol\u00e9 na Favela de Nave",
+        "url": "https://open.spotify.com/album/1m42RnQb6QKdchutofb4mH"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Didi",
+          "url": "https://open.spotify.com/artist/15bTpg6S948FjSiOhB7eXi"
+        },
+        {
+          "name": "Dj Lc da Ro\u00e7a",
+          "url": "https://open.spotify.com/artist/1BNbDHa9FSPxIyZmcymSyL"
+        },
+        {
+          "name": "MC K9",
+          "url": "https://open.spotify.com/artist/6Vxu4TDCN5TMlRpdu6a2Ag"
+        },
+        {
+          "name": "MC Smith",
+          "url": "https://open.spotify.com/artist/6OUIY1hXVxeiAw6K7rDerM"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Rol\u00e9 na Favela de Nave",
+      "url": "https://open.spotify.com/track/1m5nbZiPpCIi9J2irLNoxh"
+    },
+    {
+      "added_at": "2024-03-07 15:00:00",
+      "album": {
+        "name": "Tropa Do Pisa",
+        "url": "https://open.spotify.com/album/55rdHEbpvgrl0ghYgRY4ZS"
+      },
+      "artists": [
+        {
+          "name": "TrapLaudo",
+          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "Tropa Do Pisa",
+      "url": "https://open.spotify.com/track/1mH3uSZus9IiMagMCJa4vB"
+    },
+    {
+      "added_at": "2024-03-07 15:00:00",
       "album": {
         "name": "POCPOC",
         "url": "https://open.spotify.com/album/3nwyZyralFOdRGEyNMjSJX"
@@ -273,7 +381,7 @@
       "url": "https://open.spotify.com/track/0oQCRjrWGvkqkdf82UlXI3"
     },
     {
-      "added_at": "2024-03-06 17:26:10",
+      "added_at": "2024-03-07 15:00:00",
       "album": {
         "name": "Ritmista 1.0",
         "url": "https://open.spotify.com/album/3WGjmOFzUrvNmkiiqevMbJ"
@@ -333,7 +441,7 @@
       "url": "https://open.spotify.com/track/3ZNjlT5zR0jkEVzSSZCQeJ"
     },
     {
-      "added_at": "2024-03-06 17:26:10",
+      "added_at": "2024-03-07 15:00:00",
       "album": {
         "name": "Confia (Ao Vivo)",
         "url": "https://open.spotify.com/album/4rqK6xBQRRn9jBrHRQ3J2w"
@@ -353,7 +461,7 @@
       "url": "https://open.spotify.com/track/4f0aDk7HX37SfzerfznYlr"
     },
     {
-      "added_at": "2024-03-06 17:26:10",
+      "added_at": "2024-03-07 15:00:00",
       "album": {
         "name": "Daqui pra Sempre",
         "url": "https://open.spotify.com/album/3dxJyVfI7myBAZjiekJCto"
@@ -373,7 +481,7 @@
       "url": "https://open.spotify.com/track/35D06z7kmwMmYYbyJ0BkSm"
     },
     {
-      "added_at": "2024-03-06 17:26:10",
+      "added_at": "2024-03-07 15:00:00",
       "album": {
         "name": "Eu N\u00e3o Dou Conta (Ao Vivo)",
         "url": "https://open.spotify.com/album/6UBLAsfIQMtOdWaDgpgz2G"
@@ -397,7 +505,7 @@
       "url": "https://open.spotify.com/track/6rpUGV7bcWW9ro65Bf8uYY"
     },
     {
-      "added_at": "2024-03-06 17:26:10",
+      "added_at": "2024-03-07 15:00:00",
       "album": {
         "name": "Macetando",
         "url": "https://open.spotify.com/album/6FEJSBFIqZe9GYN2xaAP52"
@@ -417,43 +525,7 @@
       "url": "https://open.spotify.com/track/6eJUG282cUKuIoa72sEsqO"
     },
     {
-      "added_at": "2024-03-06 17:26:10",
-      "album": {
-        "name": "Rol\u00e9 na Favela de Nave",
-        "url": "https://open.spotify.com/album/1m42RnQb6QKdchutofb4mH"
-      },
-      "artists": [
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Didi",
-          "url": "https://open.spotify.com/artist/15bTpg6S948FjSiOhB7eXi"
-        },
-        {
-          "name": "Dj Lc da Ro\u00e7a",
-          "url": "https://open.spotify.com/artist/1BNbDHa9FSPxIyZmcymSyL"
-        },
-        {
-          "name": "MC K9",
-          "url": "https://open.spotify.com/artist/6Vxu4TDCN5TMlRpdu6a2Ag"
-        },
-        {
-          "name": "MC Smith",
-          "url": "https://open.spotify.com/artist/6OUIY1hXVxeiAw6K7rDerM"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Rol\u00e9 na Favela de Nave",
-      "url": "https://open.spotify.com/track/1m5nbZiPpCIi9J2irLNoxh"
-    },
-    {
-      "added_at": "2024-03-06 17:26:10",
+      "added_at": "2024-03-07 15:00:00",
       "album": {
         "name": "Tipo Holywood",
         "url": "https://open.spotify.com/album/5W7hjyoWwy2KGEUTCN0L6z"
@@ -477,7 +549,7 @@
       "url": "https://open.spotify.com/track/6nvbXA95vgyThzj2Tbhank"
     },
     {
-      "added_at": "2024-03-06 17:26:10",
+      "added_at": "2024-03-07 15:00:00",
       "album": {
         "name": "Silverado (AgroPlay Ver\u00e3o)",
         "url": "https://open.spotify.com/album/0jc1n9dACj0B3LxivgmrQb"
@@ -497,7 +569,7 @@
       "url": "https://open.spotify.com/track/26l5FAEVr9cfaILS0szvvt"
     },
     {
-      "added_at": "2024-03-06 17:26:10",
+      "added_at": "2024-03-07 15:00:00",
       "album": {
         "name": "Canudinho (Ao Vivo)",
         "url": "https://open.spotify.com/album/1w5McUqm1LoGFBynpndS6x"
@@ -517,7 +589,7 @@
       "url": "https://open.spotify.com/track/6AENBD8I0mDGglFqrRZGu7"
     },
     {
-      "added_at": "2024-03-06 17:26:10",
+      "added_at": "2024-03-07 15:00:00",
       "album": {
         "name": "N\u00e3o Recomendo (Ao Vivo)",
         "url": "https://open.spotify.com/album/38P68ZCxri4SUQXSK15CxW"
@@ -533,7 +605,7 @@
       "url": "https://open.spotify.com/track/4ssTFuVeNJG8py5dr2P2pV"
     },
     {
-      "added_at": "2024-03-06 17:26:10",
+      "added_at": "2024-03-07 15:00:00",
       "album": {
         "name": "O Cara Do Momento",
         "url": "https://open.spotify.com/album/2GJl4ruFhOBOghvHKVv6wV"
@@ -565,7 +637,7 @@
       "url": "https://open.spotify.com/track/697gwO5YoSGVAnlfREIZll"
     },
     {
-      "added_at": "2024-03-06 17:26:10",
+      "added_at": "2024-03-07 15:00:00",
       "album": {
         "name": "Funktroit",
         "url": "https://open.spotify.com/album/7LFxfEV4nuomiNyOATUHsU"
@@ -593,7 +665,7 @@
       "url": "https://open.spotify.com/track/3hfCle1QRfbwIpQ1B746lV"
     },
     {
-      "added_at": "2024-03-06 17:26:10",
+      "added_at": "2024-03-07 15:00:00",
       "album": {
         "name": "Tem Caf\u00e9",
         "url": "https://open.spotify.com/album/6gD7TtJDcrWlAVD3j8nPj5"
@@ -617,31 +689,7 @@
       "url": "https://open.spotify.com/track/6XvFnICxXsVc8OK4eh1E9b"
     },
     {
-      "added_at": "2024-03-06 17:26:10",
-      "album": {
-        "name": "Joga Pra Lua",
-        "url": "https://open.spotify.com/album/4NUJYV2fygdmIVZCBelgb1"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        }
-      ],
-      "duration_ms": 125108,
-      "name": "Joga Pra Lua",
-      "url": "https://open.spotify.com/track/1CtcgU1q0BgJN4Aottdscu"
-    },
-    {
-      "added_at": "2024-03-06 17:26:10",
+      "added_at": "2024-03-07 15:00:00",
       "album": {
         "name": "Amor e \u00d3dio",
         "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
@@ -677,7 +725,7 @@
       "url": "https://open.spotify.com/track/4QCwvUs4ob87Tq9VP07Uo3"
     },
     {
-      "added_at": "2024-03-06 17:26:10",
+      "added_at": "2024-03-07 15:00:00",
       "album": {
         "name": "Boiadeira Internacional: Vol. 3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5hLKGp4sfW7wmW9cjXphLb"
@@ -697,7 +745,7 @@
       "url": "https://open.spotify.com/track/12G0KiYRpmpDOrube9GCa5"
     },
     {
-      "added_at": "2024-03-06 17:26:10",
+      "added_at": "2024-03-07 15:00:00",
       "album": {
         "name": "Sorriso Eu Gosto No Pagode - Parte 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v"
@@ -717,7 +765,7 @@
       "url": "https://open.spotify.com/track/1kWcd9h9HoeXsKaDVhSOtj"
     },
     {
-      "added_at": "2024-03-06 17:26:10",
+      "added_at": "2024-03-07 15:00:00",
       "album": {
         "name": "Cintilante (Ao Vivo)",
         "url": "https://open.spotify.com/album/3XDhhtRxHceSxoCJwVPwWK"
@@ -733,7 +781,7 @@
       "url": "https://open.spotify.com/track/6MCaEL0pQo1Jg1vlKpMWop"
     },
     {
-      "added_at": "2024-03-06 17:26:10",
+      "added_at": "2024-03-07 15:00:00",
       "album": {
         "name": "Let's Go 4",
         "url": "https://open.spotify.com/album/5bL1JfGehas80YH7qoCyBL"
@@ -789,7 +837,7 @@
       "url": "https://open.spotify.com/track/2InS5VWKJQbsFBKOsf1cJB"
     },
     {
-      "added_at": "2024-03-06 17:26:10",
+      "added_at": "2024-03-07 15:00:00",
       "album": {
         "name": "Cad\u00ea o After? Pt. 1",
         "url": "https://open.spotify.com/album/4Vy1Rn4htx3L0ojjaeePww"
@@ -805,7 +853,7 @@
       "url": "https://open.spotify.com/track/54u86CmMqGI1rRuULlTqaB"
     },
     {
-      "added_at": "2024-03-06 17:26:10",
+      "added_at": "2024-03-07 15:00:00",
       "album": {
         "name": "recadin no espelho",
         "url": "https://open.spotify.com/album/6KKAWpqYTZ9ptx7Eq4VpmT"
@@ -825,7 +873,7 @@
       "url": "https://open.spotify.com/track/1snE820RBNNYwpqZO8ItYf"
     },
     {
-      "added_at": "2024-03-06 17:26:10",
+      "added_at": "2024-03-07 15:00:00",
       "album": {
         "name": "Pane no Sistema",
         "url": "https://open.spotify.com/album/2dmlFvtOu5sd5ktVMiNMNZ"
@@ -849,7 +897,7 @@
       "url": "https://open.spotify.com/track/7GjAXYuxjuXPbQJzRnNdob"
     },
     {
-      "added_at": "2024-03-06 17:26:10",
+      "added_at": "2024-03-07 15:00:00",
       "album": {
         "name": "Vestido Curto (Ao Vivo)",
         "url": "https://open.spotify.com/album/50EBa9sCxSSWP1NqkYawcC"
@@ -869,7 +917,7 @@
       "url": "https://open.spotify.com/track/2QxL3wAJnwOOmygY4VX0My"
     },
     {
-      "added_at": "2024-03-06 17:26:10",
+      "added_at": "2024-03-07 15:00:00",
       "album": {
         "name": "Baile do Bruxo",
         "url": "https://open.spotify.com/album/4gTpoHQozYg3jI7KTbFsfx"
@@ -901,7 +949,7 @@
       "url": "https://open.spotify.com/track/00ZKeP47bZtswtANkvxz2j"
     },
     {
-      "added_at": "2024-03-06 17:26:10",
+      "added_at": "2024-03-07 15:00:00",
       "album": {
         "name": "Furduncinho do Rogerinho",
         "url": "https://open.spotify.com/album/1121oao2lBVzRP4G6CxE6a"
@@ -917,7 +965,99 @@
       "url": "https://open.spotify.com/track/6drlqBh6BeYZinmYQ9qR2n"
     },
     {
-      "added_at": "2024-03-06 17:26:10",
+      "added_at": "2024-03-07 15:00:00",
+      "album": {
+        "name": "Cintilante (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3XDhhtRxHceSxoCJwVPwWK"
+      },
+      "artists": [
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "duration_ms": 178811,
+      "name": "Erro Gostoso - Ao Vivo",
+      "url": "https://open.spotify.com/track/51pxwIxDVCbFHW8oyJFQXD"
+    },
+    {
+      "added_at": "2024-03-07 15:00:00",
+      "album": {
+        "name": "Joga Pra Lua",
+        "url": "https://open.spotify.com/album/4NUJYV2fygdmIVZCBelgb1"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "duration_ms": 125108,
+      "name": "Joga Pra Lua",
+      "url": "https://open.spotify.com/track/1CtcgU1q0BgJN4Aottdscu"
+    },
+    {
+      "added_at": "2024-03-07 15:00:00",
+      "album": {
+        "name": "Cad\u00ea o After? Pt. 1",
+        "url": "https://open.spotify.com/album/4Vy1Rn4htx3L0ojjaeePww"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        },
+        {
+          "name": "Mc Mika",
+          "url": "https://open.spotify.com/artist/6exBFuevXZvHrbP3oKtfWe"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "Fode Bem",
+      "url": "https://open.spotify.com/track/3Zgs8GjLi5hArtyLQhZ06Y"
+    },
+    {
+      "added_at": "2024-03-07 15:00:00",
+      "album": {
+        "name": "To Be (Ao Vivo Em Nova Iorque EP1)",
+        "url": "https://open.spotify.com/album/5WeYemRNOgJ1sfcXJcgf6N"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "duration_ms": 178251,
+      "name": "Quase Algo - Ao Vivo Em Nova Iorque / 2022",
+      "url": "https://open.spotify.com/track/4zW6JV4aqhXpbfZLZyEFvP"
+    },
+    {
+      "added_at": "2024-03-07 15:00:00",
+      "album": {
+        "name": "LUAN CITY 2.0 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6rzJP5MMqTNT0OHwOn9wUD"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 175468,
+      "name": "MEIO TERMO - Ao Vivo",
+      "url": "https://open.spotify.com/track/23IebZSNZ8VzwUr4rJNGRG"
+    },
+    {
+      "added_at": "2024-03-07 15:00:00",
       "album": {
         "name": "DENTRO DA HILUX",
         "url": "https://open.spotify.com/album/2piVofKb5EGkez3IH91OsJ"
@@ -941,119 +1081,7 @@
       "url": "https://open.spotify.com/track/3jTyFoGeD3DTu9cnnctMWN"
     },
     {
-      "added_at": "2024-03-06 17:26:10",
-      "album": {
-        "name": "LUAN CITY 2.0 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6rzJP5MMqTNT0OHwOn9wUD"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 175468,
-      "name": "MEIO TERMO - Ao Vivo",
-      "url": "https://open.spotify.com/track/23IebZSNZ8VzwUr4rJNGRG"
-    },
-    {
-      "added_at": "2024-03-06 17:26:10",
-      "album": {
-        "name": "Cintilante (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3XDhhtRxHceSxoCJwVPwWK"
-      },
-      "artists": [
-        {
-          "name": "Simone Mendes",
-          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
-        }
-      ],
-      "duration_ms": 178811,
-      "name": "Erro Gostoso - Ao Vivo",
-      "url": "https://open.spotify.com/track/51pxwIxDVCbFHW8oyJFQXD"
-    },
-    {
-      "added_at": "2024-03-06 17:26:10",
-      "album": {
-        "name": "T\u00e1 OK",
-        "url": "https://open.spotify.com/album/41iAYv4hU3BL86F0sOTvqp"
-      },
-      "artists": [
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        }
-      ],
-      "duration_ms": 92093,
-      "name": "T\u00e1 OK",
-      "url": "https://open.spotify.com/track/0fABszUFNbNq9IW503Gj8v"
-    },
-    {
-      "added_at": "2024-03-06 17:26:10",
-      "album": {
-        "name": "Cad\u00ea o After? Pt. 1",
-        "url": "https://open.spotify.com/album/4Vy1Rn4htx3L0ojjaeePww"
-      },
-      "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        },
-        {
-          "name": "Mc Mika",
-          "url": "https://open.spotify.com/artist/6exBFuevXZvHrbP3oKtfWe"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "Fode Bem",
-      "url": "https://open.spotify.com/track/3Zgs8GjLi5hArtyLQhZ06Y"
-    },
-    {
-      "added_at": "2024-03-06 17:26:10",
-      "album": {
-        "name": "To Be (Ao Vivo Em Nova Iorque EP1)",
-        "url": "https://open.spotify.com/album/5WeYemRNOgJ1sfcXJcgf6N"
-      },
-      "artists": [
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-        }
-      ],
-      "duration_ms": 178251,
-      "name": "Quase Algo - Ao Vivo Em Nova Iorque / 2022",
-      "url": "https://open.spotify.com/track/4zW6JV4aqhXpbfZLZyEFvP"
-    },
-    {
-      "added_at": "2024-03-06 17:26:10",
-      "album": {
-        "name": "10 Carros",
-        "url": "https://open.spotify.com/album/1ZakiImfctMIFKkLNIDlcI"
-      },
-      "artists": [
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "LB \u00danico",
-          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
-        }
-      ],
-      "duration_ms": 141176,
-      "name": "10 Carros",
-      "url": "https://open.spotify.com/track/2twZl1jsRbJRTNCE6VB6eW"
-    },
-    {
-      "added_at": "2024-03-06 17:26:10",
+      "added_at": "2024-03-07 15:00:00",
       "album": {
         "name": "Sugar Papi",
         "url": "https://open.spotify.com/album/4KNN5lVMc1EREJFlbppJqH"
@@ -1073,7 +1101,7 @@
       "url": "https://open.spotify.com/track/2cZ62VBKsdZ7u1kKKJdFOc"
     },
     {
-      "added_at": "2024-03-06 17:26:10",
+      "added_at": "2024-03-07 15:00:00",
       "album": {
         "name": "T\u00f4 Voltando (Boiadeira Internacional)",
         "url": "https://open.spotify.com/album/6XSzObpAsubR64mMnbmyt8"
@@ -1089,7 +1117,7 @@
       "url": "https://open.spotify.com/track/7G2yGMHlcPPTCDhMrAaMyZ"
     },
     {
-      "added_at": "2024-03-06 17:26:10",
+      "added_at": "2024-03-07 15:00:00",
       "album": {
         "name": "To Be (Ao Vivo Em Bras\u00edlia)",
         "url": "https://open.spotify.com/album/4KanzzLcDoiraz456AUvEl"
@@ -1103,26 +1131,6 @@
       "duration_ms": 173967,
       "name": "Devia Ser Proibido - Ao Vivo Em Bras\u00edlia",
       "url": "https://open.spotify.com/track/0QcKkN8b4iVkmVsbaze8OS"
-    },
-    {
-      "added_at": "2024-03-06 17:26:10",
-      "album": {
-        "name": "Mala dos Porta-Mala (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3KbuCPion6RqgTCrLigEJq"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        },
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 153237,
-      "name": "Mala dos Porta-Mala - Ao Vivo",
-      "url": "https://open.spotify.com/track/7GScY8oE12cqTiNBzVQpUB"
     }
   ],
   "unique_name": "Top Brasil",

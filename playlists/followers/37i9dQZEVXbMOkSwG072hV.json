@@ -1,5 +1,5 @@
 {
-  "2024-03-07": 353485,
+  "2024-03-08": 353474,
   "date_first_scraped": "2022-01-18",
   "description": "Your daily update of the most viral tracks right now - Brazil.",
   "name": "Viral 50 - Brazil",
@@ -1783,7 +1783,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 135057,
       "name": "Ai Ui Que Bunda Que Voc\u00ea Tem",
       "url": "https://open.spotify.com/track/1hKva9BUEPMAz4rwGCL2XE"
@@ -14133,7 +14133,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 131378,
       "name": "EU BOTO OU NAO BOTO",
       "url": "https://open.spotify.com/track/2r8amrfjUY8e8qAEqpzWHd"
@@ -22719,7 +22719,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 221709,
       "name": "Make You Mine",
       "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
@@ -43587,6 +43587,28 @@
       "duration_ms": 148615,
       "name": "Vem Quebrando",
       "url": "https://open.spotify.com/track/7Iq55toOSSBCEoGuXxQSa1"
+    },
+    {
+      "album": {
+        "name": "Vem Senhor",
+        "url": "https://open.spotify.com/album/3GlKQG1Aa3PCz8AZ4K00SS"
+      },
+      "artists": [
+        {
+          "name": "Sara Evelyn",
+          "url": "https://open.spotify.com/artist/6yC6aaLyqwooTcdaAgagG0"
+        },
+        {
+          "name": "Todah Network",
+          "url": "https://open.spotify.com/artist/5lBlzQkM3nt3oMeSLFruR3"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318984,
+      "name": "Vem Senhor",
+      "url": "https://open.spotify.com/track/4W2JU2UbMh36qZycfopqY9"
     },
     {
       "album": {

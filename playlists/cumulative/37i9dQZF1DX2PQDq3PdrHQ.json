@@ -5483,6 +5483,24 @@
     },
     {
       "album": {
+        "name": "Kanto",
+        "url": "https://open.spotify.com/album/0qmxDXFHv4Mck22uyBoAuk"
+      },
+      "artists": [
+        {
+          "name": "JoJo Mojo",
+          "url": "https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144722,
+      "name": "Kanto",
+      "url": "https://open.spotify.com/track/0cXj6Yndfr7rEPQdpVOI9i"
+    },
+    {
+      "album": {
         "name": "Kind Hearted",
         "url": "https://open.spotify.com/album/6kih21s7tVITrph0Fm2ewi"
       },

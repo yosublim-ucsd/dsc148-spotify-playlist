@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "A Spotify program to promote exciting artists! RADAR BNLX:  Roxy Dekker (cover) Kids With Buns en Siggy & D1ns.",
+  "description": "A Spotify program to promote exciting artists! RADAR BNLX:  The Indien (cover), Roxy Dekker, Kids With Buns en Siggy & D1ns.",
   "name": "RADAR BNLX",
   "tracks": [
     {
@@ -1216,6 +1216,24 @@
       "duration_ms": 188813,
       "name": "how bad could it be",
       "url": "https://open.spotify.com/track/5R85xX9Vl6GAvNkaCIDARF"
+    },
+    {
+      "album": {
+        "name": "How Many Nights",
+        "url": "https://open.spotify.com/album/1f3LbA9R9kNKlj4EOE6kl9"
+      },
+      "artists": [
+        {
+          "name": "The Indien",
+          "url": "https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200640,
+      "name": "How Many Nights",
+      "url": "https://open.spotify.com/track/0Nj0v1zGvDLgvhjLLzMzom"
     },
     {
       "album": {

@@ -4294,7 +4294,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 219639,
       "name": "Green jade",
       "url": "https://open.spotify.com/track/3cGLkrUEaEWIMCNVMpCtt2"
@@ -7632,7 +7632,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 34266,
       "name": "Muchauman no Theme",
       "url": "https://open.spotify.com/track/6yjINBA8ANAe6daFoPSeOb"
@@ -16028,7 +16028,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 161600,
       "name": "\u30b9\u30c6\u30b4\u30ed",
       "url": "https://open.spotify.com/track/4WRPyGX4Ihz78H0Vg3hH98"
@@ -16046,7 +16046,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 136853,
       "name": "\u30b9\u30c8\u30ec\u30a4\u30c8",
       "url": "https://open.spotify.com/track/46Qfr2EcTsB0H7I1h2XLoc"
@@ -20562,6 +20562,24 @@
       "duration_ms": 241152,
       "name": "\u6708\u306e\u82b1",
       "url": "https://open.spotify.com/track/2ReyEk3kylmJ0YDC06xYp4"
+    },
+    {
+      "album": {
+        "name": "\u6708\u3078\u884c\u3053\u3046",
+        "url": "https://open.spotify.com/album/4WDo7ma5e2z6bqjcbQkz2w"
+      },
+      "artists": [
+        {
+          "name": "Macaroni Empitsu",
+          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198370,
+      "name": "\u6708\u3078\u884c\u3053\u3046",
+      "url": "https://open.spotify.com/track/21JQaUURrZvW2SutiOtX1Y"
     },
     {
       "album": {

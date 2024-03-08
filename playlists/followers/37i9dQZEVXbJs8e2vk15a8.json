@@ -1,5 +1,5 @@
 {
-  "2024-03-07": 70847,
+  "2024-03-08": 70852,
   "date_first_scraped": "2022-04-16",
   "description": "Your daily update of the most viral tracks right now - Chile.",
   "name": "Viral 50 - Chile",
@@ -3644,6 +3644,24 @@
     },
     {
       "album": {
+        "name": "La Velocidad de la Luz",
+        "url": "https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267826,
+      "name": "Bailando Solo",
+      "url": "https://open.spotify.com/track/1wGNjZQoO4Ac5zotF3aZTb"
+    },
+    {
+      "album": {
         "name": "Bailemos Reggaeton",
         "url": "https://open.spotify.com/album/22Suc9rycbfTgtCYqfIz5M"
       },
@@ -4249,7 +4267,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 159583,
       "name": "Bendito (Soundtrack Baby Bandito: La Serie)",
       "url": "https://open.spotify.com/track/0sX1JCSfCemDJe8qK6CGeL"
@@ -6845,7 +6863,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 250983,
       "name": "Con te partir\u00f2",
       "url": "https://open.spotify.com/track/7zrpoAJte9o12TzawqgdD0"
@@ -11937,7 +11955,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 193853,
       "name": "For You",
       "url": "https://open.spotify.com/track/7sNXjFbzb7ieyqISKsal88"
@@ -22241,7 +22259,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 224000,
       "name": "No Paro De Pensar",
       "url": "https://open.spotify.com/track/1TktG2NVvJRAE1ng8kcYHg"
@@ -25073,7 +25091,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 265363,
       "name": "Perfect Symphony (Ed Sheeran & Andrea Bocelli)",
       "url": "https://open.spotify.com/track/3zl7j5ua8mF4JDYuxrfo01"
@@ -25827,7 +25845,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 127689,
       "name": "Poison - Hazbin Hotel Original Soundtrack",
       "url": "https://open.spotify.com/track/6ZXL1A1BVshe1JZ1IY734k"
@@ -26079,7 +26097,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 251533,
       "name": "Por Ti Volar\u00e9 - Spanish Version",
       "url": "https://open.spotify.com/track/71euJYgH9L0f42i09ssMN9"
@@ -30502,6 +30520,24 @@
     },
     {
       "album": {
+        "name": "Stylo",
+        "url": "https://open.spotify.com/album/4uL329hZhijWNnHJgF8ZbM"
+      },
+      "artists": [
+        {
+          "name": "byeduardito",
+          "url": "https://open.spotify.com/artist/2Opt7rOoRZUD0rujGcGqGL"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157575,
+      "name": "Stylo",
+      "url": "https://open.spotify.com/track/2ti8XhHhc2ficcG2YJMywd"
+    },
+    {
+      "album": {
         "name": "Su Altura",
         "url": "https://open.spotify.com/album/01Q6s2xUyvHYC2SAW1spjs"
       },
@@ -34761,7 +34797,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 265584,
       "name": "Vivo per lei",
       "url": "https://open.spotify.com/track/6cPLCU7hKjgjvLWzCevl7R"
@@ -34783,7 +34819,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 264160,
       "name": "Vivo Por Ella",
       "url": "https://open.spotify.com/track/6yIG5p2mWPEUKPQuJW2yxk"
@@ -34953,7 +34989,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 168178,
       "name": "VVS Switch",
       "url": "https://open.spotify.com/track/3pEP9sPglz2hVxA8BUsB7S"

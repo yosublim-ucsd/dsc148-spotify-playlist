@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly! Featuring Dom Dolla, Kygo, cassö, Calvin Harris and more.
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,904 likes - 100 songs - 5 hr 7 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,900 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 |
 | 2 | [NOW COME ON NOW](https://open.spotify.com/track/7c6oQ0XE7ajiShh26GC299) | [KYE](https://open.spotify.com/artist/7aD0vAhYP5JsPQPgrd76bp) | [NOW COME ON NOW](https://open.spotify.com/album/6ncJdlq3oqhAxRxrgRkWxi) | 2:35 |
-| 3 | [Bass Keeps Calling](https://open.spotify.com/track/1vstmym0SNbos2IOaOfTOg) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg) | [Bass Keeps Calling](https://open.spotify.com/album/3l2cTC2QR8SzHjPImhLXzt) | 2:52 |
+| 3 | [Bass Keeps Calling](https://open.spotify.com/track/1vstmym0SNbos2IOaOfTOg) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg), [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W) | [Bass Keeps Calling](https://open.spotify.com/album/3l2cTC2QR8SzHjPImhLXzt) | 2:52 |
 | 4 | [Borrowed Time \(feat\. Forest Claudette\)](https://open.spotify.com/track/0QUmJ32lHLSMfAfjKgQake) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Borrowed Time \(feat\. Forest Claudette\)](https://open.spotify.com/album/576sDjTd5pNXrfFpT6TFi5) | 3:13 |
 | 5 | [Green & Gold \(feat\. Charlotte Plank & Riko Dan\)](https://open.spotify.com/track/0JI8koDoC5crQbIjhSty59) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [Green & Gold \(feat\. Charlotte Plank & Riko Dan\)](https://open.spotify.com/album/5USMLXcmyO4BdAeQaOEql2) | 2:40 |
 | 6 | [Rhyme Dust](https://open.spotify.com/track/59QDyqLww2pxyg9ijOPO7f) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Rhyme Dust](https://open.spotify.com/album/1vSO4N7cwo4pBywCSGF5BR) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 | 99 | [Mind Control](https://open.spotify.com/track/3P5mrJ1KloJZG9GKD5daC8) | [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Mind Control](https://open.spotify.com/album/2SlVkukL15MzfVj0qFivWx) | 2:14 |
 | 100 | [Stars](https://open.spotify.com/track/6lhXolP56DpQHBVVkRqczw) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Stars](https://open.spotify.com/album/7KNcS4dHvYfjFfJfP6rVpj) | 2:51 |
 
-Snapshot ID: `MzA5MyxlYjQwY2NkMTdlZDczMTc1MzFjOWI5ZTY5ZDJkODZlYWY2OTViZWI0`
+Snapshot ID: `MzA5NSw5ZjBiNjk5ZTFiYmFiZWNlMzEyMTZiZTM1MTU5OGZjYjQzYzJmM2Zk`

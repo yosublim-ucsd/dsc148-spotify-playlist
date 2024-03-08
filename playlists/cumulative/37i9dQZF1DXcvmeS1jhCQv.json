@@ -215,6 +215,24 @@
     },
     {
       "album": {
+        "name": "BLOW!",
+        "url": "https://open.spotify.com/album/2Pk7R5TkupH1Xtl3MIZoUm"
+      },
+      "artists": [
+        {
+          "name": "CARSTEN2X",
+          "url": "https://open.spotify.com/artist/0Un2To5Ct6WgajC9z1xDud"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182590,
+      "name": "BLOW!",
+      "url": "https://open.spotify.com/track/5ELT4PdWP7CaveDVvKKqLf"
+    },
+    {
+      "album": {
         "name": "Blue Blood",
         "url": "https://open.spotify.com/album/4NoVNF1zzaIf47ctj9oOS4"
       },
@@ -410,7 +428,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 260962,
       "name": "Discovery",
       "url": "https://open.spotify.com/track/0telt43FI47tAzJUB5oaPG"
@@ -590,7 +608,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 184063,
       "name": "Graveyard",
       "url": "https://open.spotify.com/track/6mRUh0RVFqjUP75Fm5eic7"
@@ -1192,7 +1210,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 224571,
       "name": "People",
       "url": "https://open.spotify.com/track/0xi7qZJw7b1colPIEGG8bB"
@@ -1214,6 +1232,42 @@
       "duration_ms": 175038,
       "name": "Plans",
       "url": "https://open.spotify.com/track/73wrWfbOAms1ZouKuBuh0D"
+    },
+    {
+      "album": {
+        "name": "Put The Blame On Me",
+        "url": "https://open.spotify.com/album/0TdvL5XWxschpsWOdkTRb1"
+      },
+      "artists": [
+        {
+          "name": "J.F.O",
+          "url": "https://open.spotify.com/artist/7tildDuwYhitQgNrXSLDGh"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156097,
+      "name": "Put The Blame On Me",
+      "url": "https://open.spotify.com/track/6uOMsRNuCaoLRQXFrmgrBc"
+    },
+    {
+      "album": {
+        "name": "Quick Fix",
+        "url": "https://open.spotify.com/album/4Zki0CQv6Bx2J1o4bJkDRn"
+      },
+      "artists": [
+        {
+          "name": "Ezra Williams",
+          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258829,
+      "name": "Quick Fix",
+      "url": "https://open.spotify.com/track/5ReMXn9NCcwKJVwQT4HlWq"
     },
     {
       "album": {
@@ -1264,7 +1318,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 181376,
       "name": "Rivers",
       "url": "https://open.spotify.com/track/6Ly5TRE6GVx2K6vVnHa0ru"
@@ -1304,6 +1358,24 @@
       "duration_ms": 133253,
       "name": "Sentences",
       "url": "https://open.spotify.com/track/2MI97Z7aN6BsMUpKjGs6MJ"
+    },
+    {
+      "album": {
+        "name": "Shadow EP",
+        "url": "https://open.spotify.com/album/1UTIEbg5uN419e3TVEAfOV"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167900,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/3hgmSLTBSBVBlxOF0xV01r"
     },
     {
       "album": {

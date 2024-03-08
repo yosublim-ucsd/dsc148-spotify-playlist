@@ -592,7 +592,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 146227,
       "name": "Alfombra Negra",
       "url": "https://open.spotify.com/track/67OOJPJ0AjX3rX8sotWKV6"
@@ -1500,7 +1500,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 200833,
       "name": "Baby del Rey",
       "url": "https://open.spotify.com/track/457jFfPXJqTZtG0o9uNokI"
@@ -1612,7 +1612,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 130289,
       "name": "BAJO PRESI\u00d3N",
       "url": "https://open.spotify.com/track/1HYBEi7PYzjEg7JSm0xzbQ"
@@ -2627,6 +2627,28 @@
     },
     {
       "album": {
+        "name": "HECHO EN CASA",
+        "url": "https://open.spotify.com/album/68Y4Q96QrV5LfkNlxVvftl"
+      },
+      "artists": [
+        {
+          "name": "Dj Perez",
+          "url": "https://open.spotify.com/artist/4pYx5PDavOZqKec3vIX9Xr"
+        },
+        {
+          "name": "Masquemusica",
+          "url": "https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240911,
+      "name": "Ciega",
+      "url": "https://open.spotify.com/track/5byzJT0CyiTsDpuaMmeCII"
+    },
+    {
+      "album": {
         "name": "Cielo",
         "url": "https://open.spotify.com/album/6G7uBMlfcqqklEKiCki1ev"
       },
@@ -2668,7 +2690,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 287109,
       "name": "Cinta Blanca",
       "url": "https://open.spotify.com/track/3rZI0PDP3Rb7ud22xnTtEk"
@@ -3030,7 +3052,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 168485,
       "name": "Correte",
       "url": "https://open.spotify.com/track/2mrN12hv4UYKLCWHvLBSuf"
@@ -4708,7 +4730,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-04",
+      "date_removed": null,
       "duration_ms": 182360,
       "name": "En Mi Bolsillo",
       "url": "https://open.spotify.com/track/6jDcUlw3ZpL5of5A0yc6fL"
@@ -5508,7 +5530,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-04",
+      "date_removed": null,
       "duration_ms": 240880,
       "name": "Flotando",
       "url": "https://open.spotify.com/track/23o7KuK4jNJInTiOFogpXO"
@@ -5792,6 +5814,24 @@
       "duration_ms": 185770,
       "name": "Fuego con Ust\u00e9",
       "url": "https://open.spotify.com/track/5N4ZvLdH5uv3qjcve2wzUL"
+    },
+    {
+      "album": {
+        "name": "Prender un Fuego",
+        "url": "https://open.spotify.com/album/3QgG3SuMTWMIsxwzdu7vN3"
+      },
+      "artists": [
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178913,
+      "name": "Fumar de d\u00eda",
+      "url": "https://open.spotify.com/track/482CWaKmMQzrYMQMEMYRtT"
     },
     {
       "album": {
@@ -6396,7 +6436,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 191933,
       "name": "Ilusi\u00f3n",
       "url": "https://open.spotify.com/track/66zF8AvAPZlAvqvbAGZeCF"
@@ -7651,6 +7691,24 @@
     },
     {
       "album": {
+        "name": "Wed 21",
+        "url": "https://open.spotify.com/album/5kPgL6cR1ks9ElKafo4nD7"
+      },
+      "artists": [
+        {
+          "name": "Juana Molina",
+          "url": "https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245560,
+      "name": "Lo Decidi Yo",
+      "url": "https://open.spotify.com/track/2tuAwouI1R8T5GNbAPSc41"
+    },
+    {
+      "album": {
         "name": "Lo Que Hay Afuera",
         "url": "https://open.spotify.com/album/3ED3VNY8X9WPtK3LN1Misf"
       },
@@ -8016,7 +8074,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 232232,
       "name": "Luisa",
       "url": "https://open.spotify.com/track/3um4jap2w1pUibIsE2qwyb"
@@ -8582,7 +8640,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 247418,
       "name": "Martes",
       "url": "https://open.spotify.com/track/2mMP8X3Nj1QfONmgbkmdhv"
@@ -9642,7 +9700,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 175413,
       "name": "Nabundear\u00e9",
       "url": "https://open.spotify.com/track/53qZjbmjh3d3nbzxEzKOkF"
@@ -11650,7 +11708,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 159741,
       "name": "Por el Bien de los Dos",
       "url": "https://open.spotify.com/track/5YVBaeIf9L56ybZdUYOcjy"
@@ -12592,7 +12650,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 189912,
       "name": "Risas C\u00f3mplices",
       "url": "https://open.spotify.com/track/5Cq33PKldu92OukKMHxhWH"
@@ -12726,6 +12784,28 @@
       "duration_ms": 150295,
       "name": "Saber Si Me Amas (Quiero)",
       "url": "https://open.spotify.com/track/5XqB8ZPPhGHkmoXOasTAKn"
+    },
+    {
+      "album": {
+        "name": "Golazo!",
+        "url": "https://open.spotify.com/album/6EyymZ8eq56Rfx71WZBpni"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255360,
+      "name": "Sacar La Voz",
+      "url": "https://open.spotify.com/track/00fzJk0jDel2QPhFTLWd67"
     },
     {
       "album": {
@@ -13890,7 +13970,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 226735,
       "name": "Sutra",
       "url": "https://open.spotify.com/track/6sYztTSsz8nPFl4hNtUKJW"
@@ -14685,6 +14765,24 @@
     },
     {
       "album": {
+        "name": "\u00bfSer\u00e1 Posible El Sur?",
+        "url": "https://open.spotify.com/album/3qbjXmDq5KNBU5BbycE3cj"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284680,
+      "name": "Todo Cambia",
+      "url": "https://open.spotify.com/track/0njOsb3y8TnwIJC7GnlWwD"
+    },
+    {
+      "album": {
         "name": "Pa\u00b4 Tu Coraz\u00f3n",
         "url": "https://open.spotify.com/album/7JzbpfQPJp43G5DaLS6kvg"
       },
@@ -14718,6 +14816,24 @@
       "duration_ms": 164150,
       "name": "Todo Va a Andar Bien",
       "url": "https://open.spotify.com/track/6yf6lWyx2cIHOi03Uiy6cX"
+    },
+    {
+      "album": {
+        "name": "La Incomparable",
+        "url": "https://open.spotify.com/album/2N2w7XvVhRqJu8FdngmqWI"
+      },
+      "artists": [
+        {
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/0K2U7B6n9Otcwn19m7tGzO"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174826,
+      "name": "Todo Ya Lo S\u00e9",
+      "url": "https://open.spotify.com/track/5r5IEyOSk22gvXOMvqB8Ch"
     },
     {
       "album": {
@@ -15747,6 +15863,24 @@
     },
     {
       "album": {
+        "name": "Las 100 Mejores del Folklore Chileno",
+        "url": "https://open.spotify.com/album/1YHw2Ossb71zyHCVGX0Hj0"
+      },
+      "artists": [
+        {
+          "name": "Violeta Parra",
+          "url": "https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257733,
+      "name": "Volver a los 17",
+      "url": "https://open.spotify.com/track/5aDv3zkpumJDaPkrv49Vv6"
+    },
+    {
+      "album": {
         "name": "Voy a Hacer las Cosas Lento",
         "url": "https://open.spotify.com/album/4is8Xi19Eijn9e16KgaipK"
       },
@@ -15868,6 +16002,24 @@
       "duration_ms": 137140,
       "name": "XULA",
       "url": "https://open.spotify.com/track/7pONy7BDKUf9RnGwj541Lq"
+    },
+    {
+      "album": {
+        "name": "Humo",
+        "url": "https://open.spotify.com/album/2aVf2kvguncX8TGNEIIwxB"
+      },
+      "artists": [
+        {
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228187,
+      "name": "Y Bailamos Tanto",
+      "url": "https://open.spotify.com/track/2416mJlOs5VYd4sJYp5TAk"
     },
     {
       "album": {

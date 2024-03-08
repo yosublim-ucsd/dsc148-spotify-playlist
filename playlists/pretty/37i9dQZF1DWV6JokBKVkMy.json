@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 2498,
+  "num_followers": 2499,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjE4OTc0ZGM5ZGUyMzlkMTBlMDcwMDQwNTI1OGQyN2Q0YjRkNTA5",
+  "snapshot_id": "MCw5OTM1NTk1Mzk1YTY0ZmMyZTM2NmMwZDViM2QyM2FhOGM2NGE4NmU0",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -43,26 +43,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Roule Matak",
-        "url": "https://open.spotify.com/album/4v3b53w4gWZyHSUqBObEyf"
-      },
-      "artists": [
-        {
-          "name": "Bigg Frankii",
-          "url": "https://open.spotify.com/artist/2Xi6Sscx1ZPJ3opKWFm8ya"
-        },
-        {
-          "name": "Jor'dan",
-          "url": "https://open.spotify.com/artist/5bfaXvOfbazvljanbZvHqu"
-        }
-      ],
-      "duration_ms": 143568,
-      "name": "Roule Matak, Pt. 1",
-      "url": "https://open.spotify.com/track/1RQPzvQfwJlgCXL24cs3mj"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Tenpaw",
         "url": "https://open.spotify.com/album/4x1VAiBDut2bgR1gJxETFr"
       },
@@ -79,6 +59,26 @@
       "duration_ms": 204480,
       "name": "Tenpaw",
       "url": "https://open.spotify.com/track/2YNRG0rZhb2dbJdhWZGtLl"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Roule Matak",
+        "url": "https://open.spotify.com/album/4v3b53w4gWZyHSUqBObEyf"
+      },
+      "artists": [
+        {
+          "name": "Bigg Frankii",
+          "url": "https://open.spotify.com/artist/2Xi6Sscx1ZPJ3opKWFm8ya"
+        },
+        {
+          "name": "Jor'dan",
+          "url": "https://open.spotify.com/artist/5bfaXvOfbazvljanbZvHqu"
+        }
+      ],
+      "duration_ms": 143568,
+      "name": "Roule Matak, Pt. 1",
+      "url": "https://open.spotify.com/track/1RQPzvQfwJlgCXL24cs3mj"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Coul\u00e8r M\u00e9lanz\u00e9",
-        "url": "https://open.spotify.com/album/4BmxLIj92iDtmHAuOnAiiB"
-      },
-      "artists": [
-        {
-          "name": "B.I.G",
-          "url": "https://open.spotify.com/artist/4D3nkiM1EzSlazZIsUhebu"
-        }
-      ],
-      "duration_ms": 262976,
-      "name": "Mo ti poule",
-      "url": "https://open.spotify.com/track/7AONWpNhMoNmpkr6RSNn9P"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/0BUWn7vu3qy8aaq3pyhqpd"
       },
@@ -787,18 +771,18 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "SA FAM LA",
-        "url": "https://open.spotify.com/album/2hzpC1T8nikTIB6j0fJbzb"
+        "name": "Coul\u00e8r M\u00e9lanz\u00e9",
+        "url": "https://open.spotify.com/album/4BmxLIj92iDtmHAuOnAiiB"
       },
       "artists": [
         {
-          "name": "Demaiko",
-          "url": "https://open.spotify.com/artist/1UyUSYFkEpupx2tFIatBHD"
+          "name": "B.I.G",
+          "url": "https://open.spotify.com/artist/4D3nkiM1EzSlazZIsUhebu"
         }
       ],
-      "duration_ms": 215066,
-      "name": "SA FAM LA",
-      "url": "https://open.spotify.com/track/7klLrUyJHtye2IxxvD1Zv6"
+      "duration_ms": 262976,
+      "name": "Mo ti poule",
+      "url": "https://open.spotify.com/track/7AONWpNhMoNmpkr6RSNn9P"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -815,6 +799,22 @@
       "duration_ms": 370311,
       "name": "Anita-Papa / Creole-Bar\u00e8",
       "url": "https://open.spotify.com/track/5j5DHnAYh4qN7r7wkocP7a"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "SA FAM LA",
+        "url": "https://open.spotify.com/album/2hzpC1T8nikTIB6j0fJbzb"
+      },
+      "artists": [
+        {
+          "name": "Demaiko",
+          "url": "https://open.spotify.com/artist/1UyUSYFkEpupx2tFIatBHD"
+        }
+      ],
+      "duration_ms": 215066,
+      "name": "SA FAM LA",
+      "url": "https://open.spotify.com/track/7klLrUyJHtye2IxxvD1Zv6"
     },
     {
       "added_at": "2022-08-11 10:05:16",

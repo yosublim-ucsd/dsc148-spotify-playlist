@@ -4,7 +4,7 @@
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。今月のアンバサダー: LANA
 
-1,117 songs - 2 day 18 hr 6 min
+1,118 songs - 2 day 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -559,7 +559,7 @@
 | [RAMEN AMEN](https://open.spotify.com/track/1pbPvdIJXR9s2BOWgqN4G5) | [重盛さと美](https://open.spotify.com/artist/520STFW9IFHZA5A1WPWUeZ), [Tomodachi](https://open.spotify.com/artist/10b7iI7HzdtxZgCfPovith) | [RAMEN AMEN](https://open.spotify.com/album/0fGGGbYtFq7H0x3UqdnYxm) | 2:34 | 2024-03-05 |  |
 | [RAT\-TAT\-TAT](https://open.spotify.com/track/14oF3NwapfVlFLziXAknpM) | [audiot909](https://open.spotify.com/artist/3SUTwBU3mSOEsmqb67dks2), [AKKOGORILLA](https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U) | [RAT\-TAT\-TAT](https://open.spotify.com/album/3VbbTG4bH4VmdCjivJNjro) | 3:43 | 2023-06-06 | 2023-07-05 |
 | [Reading Diary](https://open.spotify.com/track/7EjWL5NJ6k0azfmBYUJh1Q) | [RAY](https://open.spotify.com/artist/11XXERdBUPHGsCBbpyaMwz) | [Reading Diary](https://open.spotify.com/album/3FUWthsRxNJdmffNsdtLgW) | 5:22 | 2023-02-28 | 2023-04-05 |
-| [Reiwa \(令和\)](https://open.spotify.com/track/5clY3cLGOxT6IBh5Kvnpp2) | [TREKKIE TRAX CREW](https://open.spotify.com/artist/1aaNrx84WrTGObka1rpON3), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq) | [Reiwa \(令和\)](https://open.spotify.com/album/6cnmmUp0rHywmjjgEwUmwf) | 3:48 | 2022-08-02 |  |
+| [Reiwa \(令和\)](https://open.spotify.com/track/5clY3cLGOxT6IBh5Kvnpp2) | [TREKKIE TRAX CREW](https://open.spotify.com/artist/1aaNrx84WrTGObka1rpON3), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq) | [Reiwa \(令和\)](https://open.spotify.com/album/6cnmmUp0rHywmjjgEwUmwf) | 3:48 | 2022-08-02 | 2024-03-08 |
 | [REM\-S](https://open.spotify.com/track/4fy4Zr8dJFXE6YZ92074AY) | [machìna](https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn) | [Trusted EP](https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9) | 5:40 | 2022-05-31 | 2023-01-04 |
 | [Remind You](https://open.spotify.com/track/4F4mfItFSkJSQKcPnBxGCs) | [Lil' Leise But Gold](https://open.spotify.com/artist/0u4knCwkqdkkwuG2ddLr4n), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [Remind You](https://open.spotify.com/album/1zot8Tn58SAnM3uH50tckN) | 3:49 | 2021-11-30 | 2022-01-05 |
 | [resist](https://open.spotify.com/track/6khuTEUHWdsmBP0mq4OPUK) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [resist](https://open.spotify.com/album/5Ra8mfJupN7wOuDJaCAdOi) | 3:26 | 2023-02-01 | 2024-01-10 |
@@ -812,6 +812,7 @@
 | [Yume wa Sametemo](https://open.spotify.com/track/2YIISGXzK1r2SaY7Hr0GYW) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Two Moon](https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa) | 3:42 | 2023-11-29 | 2024-01-10 |
 | [Yume Wo Miteiru \(déconstructed\)](https://open.spotify.com/track/6SNAf2A2mOPXK51k2kNmw6) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 3:10 | 2023-08-01 | 2023-09-06 |
 | [yurikago](https://open.spotify.com/track/7sJbtoiguApZzgPaMaS29K) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3) | [hajimari](https://open.spotify.com/album/5ELosTDtgfk8Ekx8yHolP6) | 1:25 | 2023-11-29 | 2024-01-10 |
+| [yyyymmdd](https://open.spotify.com/track/1YT6uHYh7H57hIdbmfqUyD) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [Weekday](https://open.spotify.com/album/37176xs2bTWghwyAA67mHd) | 3:35 | 2024-03-07 |  |
 | [Y◯U は何しに日本へ? feat\. まな](https://open.spotify.com/track/6Af8LOB8zWP5LQEktmXLqV) | [なみちえ](https://open.spotify.com/artist/5oLsQ9qhHfYCV5L5XNMxAZ), [まな](https://open.spotify.com/artist/1FsUIdrqaJkJDw53Lj38Zj) | [毎日来日](https://open.spotify.com/album/6SFhvdxeemFjWzTfE46PbN) | 4:06 | 2022-04-05 | 2022-05-05 |
 | [Zenbu Dreaming](https://open.spotify.com/track/3tgSMv12Jy8VMX8f5TCzKI) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Lucid Dreaming](https://open.spotify.com/album/0WqJS36WfpteeudLuB7kok) | 5:20 | 2022-05-31 | 2022-07-06 |
 | [Zone 6](https://open.spotify.com/track/51WWXUmEYibqy7JGsx2zwt) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2) | [ISSUES](https://open.spotify.com/album/4pe6HW7f9ek72LUedGmFfS) | 1:58 | 2023-09-05 | 2023-11-08 |

@@ -1,95 +1,15 @@
 {
-  "description": "Photo: Gazo x Tiakola",
-  "num_followers": 1078240,
+  "description": "Photo: Shay",
+  "num_followers": 1078418,
   "original_name": "Best Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YWZkOTBhZTBkZjQ0ZWYyYTI5NGUxOGZlNDMyMzQ4OGM1ZjExZTdj",
+  "snapshot_id": "MCw1ZGQyN2M3MjcwZGY2YTAyNjAzYjQxMmI0NWVhMWQ1NzY1ZTlhZTM3",
   "tracks": [
     {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "LA MELO EST GANGX",
-        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
-      },
-      "artists": [
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 233240,
-      "name": "MAMI WATA",
-      "url": "https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "Chambre 140 (Part.3)",
-        "url": "https://open.spotify.com/album/1WlS2GoDR8Bj0DaJ9QJhHT"
-      },
-      "artists": [
-        {
-          "name": "PLK",
-          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
-        },
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 138933,
-      "name": "Faut pas",
-      "url": "https://open.spotify.com/track/2cqtTAnI9E7buORFB9q4ts"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "Day One",
-        "url": "https://open.spotify.com/album/3nbNEZbsGU2DuuXHnscx0L"
-      },
-      "artists": [
-        {
-          "name": "Kaaris",
-          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
-        },
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
-        }
-      ],
-      "duration_ms": 225733,
-      "name": "Panama",
-      "url": "https://open.spotify.com/track/2HimJmsy7QZOauXXvlCd2m"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "Tiki Taka",
-        "url": "https://open.spotify.com/album/4343mGadh7SO09UfVRIMTq"
-      },
-      "artists": [
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        },
-        {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
-        }
-      ],
-      "duration_ms": 165353,
-      "name": "Tiki Taka",
-      "url": "https://open.spotify.com/track/0K55ldOka1q2n10pRLSTvs"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "Sans Coeur",
         "url": "https://open.spotify.com/album/25zx2Wv1z9Xt1Gi15WdFHk"
@@ -109,27 +29,87 @@
       "url": "https://open.spotify.com/track/0F74FBWgkvXjP3V6tRlCx4"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
-        "name": "Saiyan",
-        "url": "https://open.spotify.com/album/2wqGRwfRnCTVPVFf9RimRK"
+        "name": "LA MELO EST GANGX",
+        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
       },
       "artists": [
         {
-          "name": "Heuss L'enfoir\u00e9",
-          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
-        },
-        {
           "name": "Gazo",
           "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
         }
       ],
-      "duration_ms": 189829,
-      "name": "Saiyan",
-      "url": "https://open.spotify.com/track/63jpYDOn7xGEPzpUxViZu2"
+      "duration_ms": 233240,
+      "name": "MAMI WATA",
+      "url": "https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "Chambre 140 (Part.3)",
+        "url": "https://open.spotify.com/album/1WlS2GoDR8Bj0DaJ9QJhHT"
+      },
+      "artists": [
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 138933,
+      "name": "Faut pas",
+      "url": "https://open.spotify.com/track/2cqtTAnI9E7buORFB9q4ts"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "Day One",
+        "url": "https://open.spotify.com/album/3nbNEZbsGU2DuuXHnscx0L"
+      },
+      "artists": [
+        {
+          "name": "Kaaris",
+          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "duration_ms": 225733,
+      "name": "Panama",
+      "url": "https://open.spotify.com/track/2HimJmsy7QZOauXXvlCd2m"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "Tiki Taka",
+        "url": "https://open.spotify.com/album/4343mGadh7SO09UfVRIMTq"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "duration_ms": 165353,
+      "name": "Tiki Taka",
+      "url": "https://open.spotify.com/track/0K55ldOka1q2n10pRLSTvs"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "Seya",
         "url": "https://open.spotify.com/album/2VJcmi0iisyLekBIgoKKvw"
@@ -153,7 +133,27 @@
       "url": "https://open.spotify.com/track/5EVY9jwZDhgyLDyNGCGWYh"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "Saiyan",
+        "url": "https://open.spotify.com/album/2wqGRwfRnCTVPVFf9RimRK"
+      },
+      "artists": [
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 189829,
+      "name": "Saiyan",
+      "url": "https://open.spotify.com/track/63jpYDOn7xGEPzpUxViZu2"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "AD VITAM \u00c6TERNAM",
         "url": "https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/0Cnw4vb7xbbl6bkUaDcMaJ"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "NI",
         "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
@@ -189,23 +189,7 @@
       "url": "https://open.spotify.com/track/1JvMPB1mkcrQsnasBGMBYd"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "Nous deux",
-        "url": "https://open.spotify.com/album/4P6ow8BZHDgWESXQMjUUzK"
-      },
-      "artists": [
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 221653,
-      "name": "Nous deux",
-      "url": "https://open.spotify.com/track/6APVzgDu9ni6rIcSubOZz3"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "J'fais que danser",
         "url": "https://open.spotify.com/album/4w7f8o2ZkjNPBJalSVrh27"
@@ -221,27 +205,7 @@
       "url": "https://open.spotify.com/track/0SqLN8ZqucYOGZH7SD4HGC"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "Piranha (feat. Vacra)",
-        "url": "https://open.spotify.com/album/3Xbe6mnLoyn78J25dsXgwK"
-      },
-      "artists": [
-        {
-          "name": "Nahir",
-          "url": "https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E"
-        },
-        {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
-        }
-      ],
-      "duration_ms": 155878,
-      "name": "Piranha (feat. Vacra)",
-      "url": "https://open.spotify.com/track/74x0GjLf1nolNFBYY8gddI"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/029ymf5WOrdIbvXv1EdmSN"
@@ -265,7 +229,27 @@
       "url": "https://open.spotify.com/track/74Sbxr7GNTQM8RyPEmp9Nq"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "Piranha (feat. Vacra)",
+        "url": "https://open.spotify.com/album/3Xbe6mnLoyn78J25dsXgwK"
+      },
+      "artists": [
+        {
+          "name": "Nahir",
+          "url": "https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E"
+        },
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "duration_ms": 155878,
+      "name": "Piranha (feat. Vacra)",
+      "url": "https://open.spotify.com/track/74x0GjLf1nolNFBYY8gddI"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "ZERO (feat. Franglish)",
         "url": "https://open.spotify.com/album/4dKrqWQtM3Xap6OMIQOVs5"
@@ -285,7 +269,7 @@
       "url": "https://open.spotify.com/track/4oTH36emmtCcKKYb3fvXcg"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "MA DOUCE",
         "url": "https://open.spotify.com/album/2ySxKt2YEOhxUcF0Iw5X1R"
@@ -305,23 +289,23 @@
       "url": "https://open.spotify.com/track/3G9yB5mhAfdq3toymB5Pug"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
-        "name": "LAISSE MOI",
-        "url": "https://open.spotify.com/album/2H2opHZttuBFqxhBNssSkD"
+        "name": "KHEDMA 3",
+        "url": "https://open.spotify.com/album/5OJfDiJq9OpukfvumILeS9"
       },
       "artists": [
         {
-          "name": "KeBlack",
-          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+          "name": "Danyl",
+          "url": "https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab"
         }
       ],
-      "duration_ms": 168620,
-      "name": "LAISSE MOI",
-      "url": "https://open.spotify.com/track/2ImdwbujxKFxN1UxEvf2dD"
+      "duration_ms": 180146,
+      "name": "Bledi mon amour",
+      "url": "https://open.spotify.com/track/7nQJM5q5MPxWmo4jYnnAGH"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "D\u00e9cennie",
         "url": "https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA"
@@ -337,27 +321,23 @@
       "url": "https://open.spotify.com/track/6gxqFnRudA7OAgmwwonkcP"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
-        "name": "Olala (feat. Naza)",
-        "url": "https://open.spotify.com/album/2zFuzuLOoOxCYvmQ57Td2w"
+        "name": "LAISSE MOI",
+        "url": "https://open.spotify.com/album/2H2opHZttuBFqxhBNssSkD"
       },
       "artists": [
         {
-          "name": "Alonzo",
-          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
-        },
-        {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Olala (feat. Naza)",
-      "url": "https://open.spotify.com/track/5M2CMmyYb0GrmUCxFxhycX"
+      "duration_ms": 168620,
+      "name": "LAISSE MOI",
+      "url": "https://open.spotify.com/track/2ImdwbujxKFxN1UxEvf2dD"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "4Real",
         "url": "https://open.spotify.com/album/2vhc1P6jEANs15mbrxe9Mj"
@@ -377,7 +357,43 @@
       "url": "https://open.spotify.com/track/6XCrAL7AKz34KxvhsoW2UF"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "Olala (feat. Naza)",
+        "url": "https://open.spotify.com/album/2zFuzuLOoOxCYvmQ57Td2w"
+      },
+      "artists": [
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        },
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Olala (feat. Naza)",
+      "url": "https://open.spotify.com/track/5M2CMmyYb0GrmUCxFxhycX"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "Yemma",
+        "url": "https://open.spotify.com/album/1kPducajpmz3HQOF9e8BoA"
+      },
+      "artists": [
+        {
+          "name": "Niro",
+          "url": "https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q"
+        }
+      ],
+      "duration_ms": 157625,
+      "name": "Yemma",
+      "url": "https://open.spotify.com/track/3i9rNpToR25Cx5XdkStxn2"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "Khemem",
         "url": "https://open.spotify.com/album/1ObRhUhvJgVfFOd6C6x23J"
@@ -393,7 +409,23 @@
       "url": "https://open.spotify.com/track/1KcVcJuQEnUQoQ8IzjsdKV"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "Sensations",
+        "url": "https://open.spotify.com/album/4mJQmamNVYsJ9FF5tKq71C"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 261320,
+      "name": "Sensations",
+      "url": "https://open.spotify.com/track/5Y8Zbqlmx97hTM8y5kqo0x"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "1,2,3 Soleil",
         "url": "https://open.spotify.com/album/5VB6SGacsS2ie9E5Go8thw"
@@ -417,39 +449,27 @@
       "url": "https://open.spotify.com/track/5dSfZLxT4QUN4maDM5H2ZW"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
-        "name": "Sensations",
-        "url": "https://open.spotify.com/album/4mJQmamNVYsJ9FF5tKq71C"
+        "name": "D\u00e9ter (feat. Soolking)",
+        "url": "https://open.spotify.com/album/37WatFIDAALiCJZDhTQ1VG"
       },
       "artists": [
         {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 261320,
-      "name": "Sensations",
-      "url": "https://open.spotify.com/track/5Y8Zbqlmx97hTM8y5kqo0x"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "Yemma",
-        "url": "https://open.spotify.com/album/1kPducajpmz3HQOF9e8BoA"
-      },
-      "artists": [
+          "name": "Doria",
+          "url": "https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839"
+        },
         {
-          "name": "Niro",
-          "url": "https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q"
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
         }
       ],
-      "duration_ms": 157625,
-      "name": "Yemma",
-      "url": "https://open.spotify.com/track/3i9rNpToR25Cx5XdkStxn2"
+      "duration_ms": 206880,
+      "name": "D\u00e9ter (feat. Soolking)",
+      "url": "https://open.spotify.com/track/2ngnc6nlCqgake5RcScDyN"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "Mi madre",
         "url": "https://open.spotify.com/album/0WFyhZC7hwGuL402U8aovY"
@@ -473,47 +493,7 @@
       "url": "https://open.spotify.com/track/1OadAxUa6KVPyKAwEv0Duy"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "D\u00e9ter (feat. Soolking)",
-        "url": "https://open.spotify.com/album/37WatFIDAALiCJZDhTQ1VG"
-      },
-      "artists": [
-        {
-          "name": "Doria",
-          "url": "https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839"
-        },
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        }
-      ],
-      "duration_ms": 206880,
-      "name": "D\u00e9ter (feat. Soolking)",
-      "url": "https://open.spotify.com/track/2ngnc6nlCqgake5RcScDyN"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "\u00c9PREUVES",
-        "url": "https://open.spotify.com/album/5MmmsnFx91B7lyqQxjLxu9"
-      },
-      "artists": [
-        {
-          "name": "Moubarak",
-          "url": "https://open.spotify.com/artist/5E62kscxqQ6HRcRRsxm1n1"
-        },
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 170307,
-      "name": "Dolce Vita",
-      "url": "https://open.spotify.com/track/4LBC4a1BjTY7kLJfWIRlEx"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "HEARTBREAK LIFE II",
         "url": "https://open.spotify.com/album/0SonjsOAiaOLaMm9TsdS5o"
@@ -533,27 +513,7 @@
       "url": "https://open.spotify.com/track/5aJhbhV4fTcLSkgH8y3aKq"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "Game Over 3 - Terminal 2",
-        "url": "https://open.spotify.com/album/3NWk02t9Nau9Vd6dtWRVo7"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        },
-        {
-          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
-          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
-        }
-      ],
-      "duration_ms": 188370,
-      "name": "Corazon",
-      "url": "https://open.spotify.com/track/0dvgF40E0vh04R4HgbXmC3"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "Vibes",
         "url": "https://open.spotify.com/album/6MHJuglMIWFJBIc9J0MWUG"
@@ -569,7 +529,27 @@
       "url": "https://open.spotify.com/track/5Ewrq10sWq0WYTSW6Br57l"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "\u00c9PREUVES",
+        "url": "https://open.spotify.com/album/5MmmsnFx91B7lyqQxjLxu9"
+      },
+      "artists": [
+        {
+          "name": "Moubarak",
+          "url": "https://open.spotify.com/artist/5E62kscxqQ6HRcRRsxm1n1"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 170307,
+      "name": "Dolce Vita",
+      "url": "https://open.spotify.com/track/4LBC4a1BjTY7kLJfWIRlEx"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "Trop Bizarre",
         "url": "https://open.spotify.com/album/39ZydYNYrTrRoRys0tqMaI"
@@ -597,7 +577,27 @@
       "url": "https://open.spotify.com/track/6JnYVpEvdSMKYwLUfoM4v7"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "Game Over 3 - Terminal 2",
+        "url": "https://open.spotify.com/album/3NWk02t9Nau9Vd6dtWRVo7"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "duration_ms": 188370,
+      "name": "Corazon",
+      "url": "https://open.spotify.com/track/0dvgF40E0vh04R4HgbXmC3"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "760",
         "url": "https://open.spotify.com/album/4434yKaCsQSw2tliaR2PvX"
@@ -613,7 +613,7 @@
       "url": "https://open.spotify.com/track/2MrFSzJuda5Hwp40iQfcdR"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "Souvenir",
         "url": "https://open.spotify.com/album/6PaR3f33lA3iXdy59U7g2m"
@@ -637,7 +637,7 @@
       "url": "https://open.spotify.com/track/6a20iVTnMEjuLKtOFSUms1"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "Reste Trankil",
         "url": "https://open.spotify.com/album/3oAjyQtWWMRyZ5SM6mWKzm"
@@ -657,7 +657,7 @@
       "url": "https://open.spotify.com/track/7B7zzTwckbzoiRz3fAdQq9"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "Potentiel",
         "url": "https://open.spotify.com/album/0cwJIqmCIJuIujx7YmSSjZ"
@@ -673,7 +673,7 @@
       "url": "https://open.spotify.com/track/6hqSDLb1u5x1kduc51ZMym"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "Dommage",
         "url": "https://open.spotify.com/album/05QGhv1F5zH8k0Dke0g6bG"
@@ -693,7 +693,7 @@
       "url": "https://open.spotify.com/track/1volRiZpmvvzMu1cxd472q"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "SEREIN",
         "url": "https://open.spotify.com/album/2SwRAyssqlAy8XwaOKbKWQ"
@@ -713,7 +713,7 @@
       "url": "https://open.spotify.com/track/7ECLmXM6vT1ApkoJOkDaRZ"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "PROLOGUE",
         "url": "https://open.spotify.com/album/52caahiDHE6U2rFtZa1yiZ"
@@ -729,7 +729,7 @@
       "url": "https://open.spotify.com/track/2s0n6Lv3JfFdUqBfRz7UST"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "\u00c7a d\u00e9bite",
         "url": "https://open.spotify.com/album/5W59ipjIbw7XLeO0Bj4k4c"
@@ -749,7 +749,7 @@
       "url": "https://open.spotify.com/track/7AYN9igONRrVZoONAshs14"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "Petite fille",
         "url": "https://open.spotify.com/album/3DfRtkuxvmkj1PLg6ps9Se"
@@ -769,7 +769,7 @@
       "url": "https://open.spotify.com/track/29ST3UVdjUIYyu5eiRNpZI"
     },
     {
-      "added_at": "2024-02-29 23:00:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "H\u00c9LICOPT\u00c8RE || 808CLUB",
         "url": "https://open.spotify.com/album/2qTrrqK1RgB2oV86TxJSwJ"

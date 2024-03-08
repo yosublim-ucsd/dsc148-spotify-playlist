@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover:Lee Seung Gi\(이승기\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,394 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,430 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 99 | [Tears pouring down](https://open.spotify.com/track/3aWYxM7pExfpd8GtkGJoQZ) | [Hwichan](https://open.spotify.com/artist/3cGOguFmXDKF2br20DfBKA) | [Dolsingles4 OST Part.2 \(Soundtrack\)](https://open.spotify.com/album/0aYt793j0qPD86uNLUKyCd) | 3:20 |
 | 100 | [My Everything](https://open.spotify.com/track/72NNjExNWdzmGYbFlZ8qK0) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [My Everything](https://open.spotify.com/album/2lJMfTyxKE4OItKg04ZsdF) | 4:48 |
 
-Snapshot ID: `MCwxOGQ2NDVlYTAwODU2OTI2Njg5MzhmNjc1MDRkNTEzNmI4Nzk1ODgy`
+Snapshot ID: `MCw2NzI1NjhiM2JlOTAzODJiYzc2NDZiYWNiMTY4ZGQ2NTk2NWVmMmY5`

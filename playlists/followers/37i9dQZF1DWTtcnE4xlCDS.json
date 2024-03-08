@@ -1,5 +1,5 @@
 {
-  "2024-03-07": 47416,
+  "2024-03-08": 47463,
   "date_first_scraped": "2022-08-25",
   "description": "Enjoy music from DEN-ON-BU! \u6c17\u92ed\u306e\u30b3\u30f3\u30dd\u30fc\u30b6\u30fc\u304c\u591a\u6570\u53c2\u52a0\u3057\u3001\u4eca\u8a71\u984c\u306e\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30d7\u30ed\u30b8\u30a7\u30af\u30c8<a href=\"https://denonbu.jp/\">\u300c\u96fb\u97f3\u90e8\u300d</a>\u3092\u7279\u96c6!! \u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u3068\u7d21\u3050\u96fb\u5b50\u97f3\u697d\u306e\u4e16\u754c\u306b\u98db\u3073\u8fbc\u3082\u3046\u3002",
   "name": "DEN-ON-BU \u96fb\u97f3\u90e8",
@@ -712,6 +712,36 @@
     },
     {
       "album": {
+        "name": "Communication skills ghost",
+        "url": "https://open.spotify.com/album/74X0Edu20Qijf4WztAZbfr"
+      },
+      "artists": [
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "Ema Toramaru(CV:Livo)",
+          "url": "https://open.spotify.com/artist/7iXpUfIHuEmYA4KJRsa6U1"
+        },
+        {
+          "name": "Neri Amemura(CV:Noa)",
+          "url": "https://open.spotify.com/artist/1TjKP4MnolLxJoNYVOdzNj"
+        },
+        {
+          "name": "Momoko Shoji(CV:Mone)",
+          "url": "https://open.spotify.com/artist/15LoBou1qK3BPd0RaQk1Vr"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171600,
+      "name": "Communication skills ghost",
+      "url": "https://open.spotify.com/track/4PXd6llbUBo3olFZ5Vrj69"
+    },
+    {
+      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/0K7lC8wFMvBVyfHtbenEn9"
       },
@@ -950,6 +980,36 @@
     },
     {
       "album": {
+        "name": "REMLtoSHINE",
+        "url": "https://open.spotify.com/album/4jYQNAgrnT669iCjwlCQwS"
+      },
+      "artists": [
+        {
+          "name": "\u5206\u6563\u578b\u81ea\u5f8b\u30b4\u30fc\u30ec\u30e0 \u308a\u3080\u308b",
+          "url": "https://open.spotify.com/artist/3ihSB1uQyrAaIcd3qtN7NG"
+        },
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "\u771f\u65b0\u5bbfGR\u5b66\u5712",
+          "url": "https://open.spotify.com/artist/05W3IYfntUTen1kfrsHY0N"
+        },
+        {
+          "name": "Capchii",
+          "url": "https://open.spotify.com/artist/6UA1sjVZZizfk3vb4TJqLQ"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162733,
+      "name": "Dokudenpa",
+      "url": "https://open.spotify.com/track/2701D1RlyDe32MksiqnRhq"
+    },
+    {
+      "album": {
         "name": "Eat Sleep Dance",
         "url": "https://open.spotify.com/album/0HVuB4xTfASjULQAfRRS3s"
       },
@@ -1047,6 +1107,40 @@
       "duration_ms": 187142,
       "name": "emeth",
       "url": "https://open.spotify.com/track/6cbOkryaoMax1aIgeR4MUG"
+    },
+    {
+      "album": {
+        "name": "REMLtoSHINE",
+        "url": "https://open.spotify.com/album/4jYQNAgrnT669iCjwlCQwS"
+      },
+      "artists": [
+        {
+          "name": "\u5206\u6563\u578b\u81ea\u5f8b\u30b4\u30fc\u30ec\u30e0 \u308a\u3080\u308b",
+          "url": "https://open.spotify.com/artist/3ihSB1uQyrAaIcd3qtN7NG"
+        },
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "\u771f\u65b0\u5bbfGR\u5b66\u5712",
+          "url": "https://open.spotify.com/artist/05W3IYfntUTen1kfrsHY0N"
+        },
+        {
+          "name": "\u30d5\u30ed\u30af\u30ed",
+          "url": "https://open.spotify.com/artist/0w4zoMJx8HIxoPaElFRNUk"
+        },
+        {
+          "name": "\u308a\u3080\u308b (CV: \u3092\u3068\u306f)",
+          "url": "https://open.spotify.com/artist/5trPMTBMzwq4ZCACvjAl77"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222106,
+      "name": "Emotional Dot Net",
+      "url": "https://open.spotify.com/track/349B63zpDTupsiqll2i00c"
     },
     {
       "album": {
@@ -1464,6 +1558,36 @@
     },
     {
       "album": {
+        "name": "Hikari-Nami-Utsu Reflection",
+        "url": "https://open.spotify.com/album/6c6OKHEPoexJtUfupMpuD8"
+      },
+      "artists": [
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "\u6c60\u888b\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/6vF4vGu7LpNXNg4qEpAIFf"
+        },
+        {
+          "name": "MY NEW GEAR",
+          "url": "https://open.spotify.com/artist/6DgP2yWREz9inxiohm7G4n"
+        },
+        {
+          "name": "\u96eb\u4f86\u53c9\u624b\u6bec (CV: \u4e2d\u6751\u3055\u3093\u305d)",
+          "url": "https://open.spotify.com/artist/79UeIfR6f31bTepVlCxADZ"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185750,
+      "name": "Hikari-Nami-Utsu Reflection",
+      "url": "https://open.spotify.com/track/1JXDWEXlsrGohpWFYGkZ1b"
+    },
+    {
+      "album": {
         "name": "Hyper Bass",
         "url": "https://open.spotify.com/album/2zesewmaHLeZqTnWIor4as"
       },
@@ -1529,6 +1653,70 @@
       "duration_ms": 152080,
       "name": "Hyper Bass",
       "url": "https://open.spotify.com/track/1f5aDvftajWjalmVB7pnHG"
+    },
+    {
+      "album": {
+        "name": "Hz254",
+        "url": "https://open.spotify.com/album/4mmCVUMZRkmezXxACdKWNP"
+      },
+      "artists": [
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "\u6c60\u888b\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/6vF4vGu7LpNXNg4qEpAIFf"
+        },
+        {
+          "name": "MY NEW GEAR",
+          "url": "https://open.spotify.com/artist/6DgP2yWREz9inxiohm7G4n"
+        },
+        {
+          "name": "\u963f\u6c99\u8599 \u5e2f (CV: \u548c\u4e45\u91ce\u611b\u4f73)",
+          "url": "https://open.spotify.com/artist/0FVJVsdVF7htwuJ6lZrZPW"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169043,
+      "name": "Hz254",
+      "url": "https://open.spotify.com/track/2N1YiPLZJkt8eEnjVWwiWt"
+    },
+    {
+      "album": {
+        "name": "Hz254 (ragia Remix)",
+        "url": "https://open.spotify.com/album/7rrKHajIoAMzGFEUsEKZcR"
+      },
+      "artists": [
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "\u6c60\u888b\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/6vF4vGu7LpNXNg4qEpAIFf"
+        },
+        {
+          "name": "MY NEW GEAR",
+          "url": "https://open.spotify.com/artist/6DgP2yWREz9inxiohm7G4n"
+        },
+        {
+          "name": "\u963f\u6c99\u8599 \u5e2f (CV: \u548c\u4e45\u91ce\u611b\u4f73)",
+          "url": "https://open.spotify.com/artist/0FVJVsdVF7htwuJ6lZrZPW"
+        },
+        {
+          "name": "ragia",
+          "url": "https://open.spotify.com/artist/0W8qcaXsuHFOND55tMpX7g"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294171,
+      "name": "Hz254 - ragia Remix",
+      "url": "https://open.spotify.com/track/5KgdpKGejYzFeC8evg6rrO"
     },
     {
       "album": {
@@ -1815,6 +2003,44 @@
       "duration_ms": 251239,
       "name": "In my world",
       "url": "https://open.spotify.com/track/7ppZ8vYZoQiFljgaV09FQG"
+    },
+    {
+      "album": {
+        "name": "Infinite Colour",
+        "url": "https://open.spotify.com/album/4DA0jQgTYSmb06MOp2V6zi"
+      },
+      "artists": [
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "\u30df\u30c7\u30a3",
+          "url": "https://open.spotify.com/artist/2kfVJr9I2VZHzjuxkvlM12"
+        },
+        {
+          "name": "\u54b2\u4e43\u6728\u30ed\u30af",
+          "url": "https://open.spotify.com/artist/5C0CYbgoPU7xgDoAh1Zxil"
+        },
+        {
+          "name": "\u685c\u4e43\u7f8e\u3005\u514e (CV: \u5c0f\u5742\u4e95\u7950\u8389\u7d75)",
+          "url": "https://open.spotify.com/artist/2she8Gi8cVSwSM8aTWmurk"
+        },
+        {
+          "name": "\u6c34\u4e0a \u96db (CV: \u5927\u68ee\u65e5\u96c5)",
+          "url": "https://open.spotify.com/artist/6jCy1P04z78DNhIeHjzEC2"
+        },
+        {
+          "name": "\u72ac\u5420\u57fc\u7d2b\u674f (CV: \u9577\u8c37\u5ddd\u73b2\u5948)",
+          "url": "https://open.spotify.com/artist/0JqX5C4CiNps3qRGvlMLcf"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204733,
+      "name": "Infinite Colour",
+      "url": "https://open.spotify.com/track/2veZ5PhkPe5Bc9XQonPiN0"
     },
     {
       "album": {
@@ -2924,6 +3150,28 @@
     },
     {
       "album": {
+        "name": "NANIMONO",
+        "url": "https://open.spotify.com/album/2CdwuZcsr1zX0UFV2EYtKJ"
+      },
+      "artists": [
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "Momoko Shoji(CV:Mone)",
+          "url": "https://open.spotify.com/artist/15LoBou1qK3BPd0RaQk1Vr"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203500,
+      "name": "NANIMONO",
+      "url": "https://open.spotify.com/track/56dnx3LkNj2FfcMzHnNbk3"
+    },
+    {
+      "album": {
         "name": "Netsudenbakusan",
         "url": "https://open.spotify.com/album/7c24folcxISIPybFlOO2nl"
       },
@@ -3070,6 +3318,70 @@
     },
     {
       "album": {
+        "name": "Operation A",
+        "url": "https://open.spotify.com/album/5p4kuV7dNxRUXZ5bQ1NFP5"
+      },
+      "artists": [
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "\u6c60\u888b\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/6vF4vGu7LpNXNg4qEpAIFf"
+        },
+        {
+          "name": "MY NEW GEAR",
+          "url": "https://open.spotify.com/artist/6DgP2yWREz9inxiohm7G4n"
+        },
+        {
+          "name": "\u96c5\u8cc0\u70c8\u8cc0 (CV: \u77e2\u5439\u771f\u592e)",
+          "url": "https://open.spotify.com/artist/6Og06r0dwHQ67oUeISJSFN"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183093,
+      "name": "Operation A",
+      "url": "https://open.spotify.com/track/6LXDmlWzS5lvsDzIaWRK4C"
+    },
+    {
+      "album": {
+        "name": "Operation A (kleemLO Remix)",
+        "url": "https://open.spotify.com/album/4MIHVM464aZrKWwI5VOFZ9"
+      },
+      "artists": [
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "\u6c60\u888b\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/6vF4vGu7LpNXNg4qEpAIFf"
+        },
+        {
+          "name": "MY NEW GEAR",
+          "url": "https://open.spotify.com/artist/6DgP2yWREz9inxiohm7G4n"
+        },
+        {
+          "name": "\u96c5\u8cc0\u70c8\u8cc0 (CV: \u77e2\u5439\u771f\u592e)",
+          "url": "https://open.spotify.com/artist/6Og06r0dwHQ67oUeISJSFN"
+        },
+        {
+          "name": "kleemLO",
+          "url": "https://open.spotify.com/artist/5mx7QHUW4qCd8RfPmYkdT8"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237222,
+      "name": "Operation A - kleemLO Remix",
+      "url": "https://open.spotify.com/track/10IhDL4DeajMWm4O1V3AYd"
+    },
+    {
+      "album": {
         "name": "DEN-CHAN COLLECTION (vol.3)",
         "url": "https://open.spotify.com/album/2QnhtFId96y6DELldDoKSi"
       },
@@ -3097,6 +3409,48 @@
       "duration_ms": 155174,
       "name": "Our Home",
       "url": "https://open.spotify.com/track/5gZnMALqVjdKlZCE0GjokI"
+    },
+    {
+      "album": {
+        "name": "our name",
+        "url": "https://open.spotify.com/album/0cu7Fjq5k3a9YL7BOJul13"
+      },
+      "artists": [
+        {
+          "name": "Tokyo den nou",
+          "url": "https://open.spotify.com/artist/5zQQQNlFkChLPIOBqKrtXq"
+        },
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "KOTONOHOUSE",
+          "url": "https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC"
+        },
+        {
+          "name": "Neneruneru(CV:ICHIGORINAHAMU)",
+          "url": "https://open.spotify.com/artist/3UnMfAwxNRWBFcZyfcBZGH"
+        },
+        {
+          "name": "Kanou Hikari",
+          "url": "https://open.spotify.com/artist/1n6T65VSCZtYerzxkpv36T"
+        },
+        {
+          "name": "Yanami Rain",
+          "url": "https://open.spotify.com/artist/4pZgAwjt7hUOA1Gms1N4NA"
+        },
+        {
+          "name": "ichigorinahamu",
+          "url": "https://open.spotify.com/artist/0LOIeaZ2PuCkTjJai7LwOq"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177462,
+      "name": "our name",
+      "url": "https://open.spotify.com/track/2iJevToY4vIUj7Qf27v0TO"
     },
     {
       "album": {
@@ -3305,6 +3659,32 @@
       "duration_ms": 206773,
       "name": "Princess Memeism",
       "url": "https://open.spotify.com/track/1rLB3WgbThVEA1OFx20ciE"
+    },
+    {
+      "album": {
+        "name": "Put a puzzle",
+        "url": "https://open.spotify.com/album/0r5T3I5iooEnoFrgUhMm87"
+      },
+      "artists": [
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "Nor",
+          "url": "https://open.spotify.com/artist/3wzLoR43XSiPV1smicPd8p"
+        },
+        {
+          "name": "\u6c34\u4e0a \u96db (CV: \u5927\u68ee\u65e5\u96c5)",
+          "url": "https://open.spotify.com/artist/6jCy1P04z78DNhIeHjzEC2"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209653,
+      "name": "Put a puzzle",
+      "url": "https://open.spotify.com/track/6MYznhANSluRzpRM2F3RwE"
     },
     {
       "album": {
@@ -4291,14 +4671,6 @@
         {
           "name": "\u96fb\u97f3\u90e8",
           "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
-        },
-        {
-          "name": "Shun Kusakawa",
-          "url": "https://open.spotify.com/artist/32JLA3bhqwRfesRJwAXUwk"
-        },
-        {
-          "name": "TENSAI-BONJIN SHIMADA",
-          "url": "https://open.spotify.com/artist/1x1jZNAp6NfATMv8mIEufN"
         },
         {
           "name": "Ema Toramaru(CV:Livo)",

@@ -4,7 +4,7 @@
 
 > Django and beyond.
 
-106 songs - 6 hr 36 min
+108 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [A Fadin' Blue](https://open.spotify.com/track/6AvCrfnM8SZOuRrOZGsuER) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x), [The Rosenberg Trio](https://open.spotify.com/artist/4xIooHvSmj2aWhQGrniJSu) | [A Fadin' Blue](https://open.spotify.com/album/21CGyD3PVhXNfMlq6QVLXc) | 3:09 | 2022-07-01 |  |
 | [Avalon](https://open.spotify.com/track/2yzyvggVHHtSN3H57lFHuR) | [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie) | [Avalon](https://open.spotify.com/album/1iAs2iKTFAL98vSxew3LrT) | 2:06 | 2022-06-17 |  |
 | [Ballade pour Django](https://open.spotify.com/track/5b07gtahr6UMl53QUBpiqu) | [Joscho Stephan](https://open.spotify.com/artist/03gMsWBnlCYwx7ivVnO0WG), [Sven Jungbeck](https://open.spotify.com/artist/7zzUbMyOmvQtFCtlekdLoO), [Volker Kamp](https://open.spotify.com/artist/7FvlT1VctBs8JBH0O28jYc) | [Ballade pour Django](https://open.spotify.com/album/1R61EzoTcxhCTfSiZrkE5Z) | 7:35 | 2023-11-03 | 2023-12-16 |
-| [Bekledim de gelmedin](https://open.spotify.com/track/2wqjrl5ROiMhGlL5f4suz3) | [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie) | [Bekledim de gelmedin](https://open.spotify.com/album/0Y2J7JR4uwh6RmyXzJD9An) | 2:42 | 2022-04-29 |  |
+| [Bekledim de gelmedin](https://open.spotify.com/track/4VL6K8LSyTNignnVtM7Kqr) | [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie) | [Bekledim de gelmedin](https://open.spotify.com/album/5KeQVW34iNad36bM6ZX6ps) | 2:42 | 2022-04-29 |  |
+| [Bekledim de gelmedin](https://open.spotify.com/track/2wqjrl5ROiMhGlL5f4suz3) | [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie) | [Bekledim de gelmedin](https://open.spotify.com/album/0Y2J7JR4uwh6RmyXzJD9An) | 2:42 | 2022-04-29 | 2024-03-08 |
 | [Bell Island](https://open.spotify.com/track/2iXRqsbI6Dbrj8o9hwn0g8) | [Duane Andrews](https://open.spotify.com/artist/0FSBa5Pm7dulcy4TlirIxR) | [Raindrops](https://open.spotify.com/album/2rVYD2MHeWZ7qwQ7hIVyrW) | 2:50 | 2021-02-04 |  |
 | [Belleville](https://open.spotify.com/track/4Wo0AVGDazTF6wUv77yLZl) | [Benjamin Herman](https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR), [Robin Nolan Trio](https://open.spotify.com/artist/6CdoTSuiw0mRW8uAsrf6kW) | [Swing de Paris \- Vol\. 2](https://open.spotify.com/album/5Sx2O2IOx8CImGs9xIyAkA) | 4:07 | 2021-05-25 |  |
 | [Billet Doux](https://open.spotify.com/track/2Zhwy8tAmEsCezzeRS2kpG) | [Adrien Moignard](https://open.spotify.com/artist/2aMdhZeYSUVewlfjx9ntIn) | [Selmer \#607](https://open.spotify.com/album/2SwJ4V9NB7j4RjEv7OmNDp) | 2:32 | 2021-02-04 | 2022-07-29 |
@@ -25,7 +26,8 @@
 | [Bleu citron](https://open.spotify.com/track/17nK1tySqd7CBKsNw8gkrJ) | [Dorado Schmitt](https://open.spotify.com/artist/7aWOYLUnhaq2h9ZbIHMJbH) | [Family](https://open.spotify.com/album/1PCZPDOB0hZqOFHAFZk1jO) | 2:31 | 2021-02-04 | 2022-07-29 |
 | [Blue Bossa](https://open.spotify.com/track/2hwBPd5VUUjUGc82z5LWyI) | [Jimmy Rosenberg](https://open.spotify.com/artist/6tq9JKuE6vPDbQw5EiXLwn) | [Trio](https://open.spotify.com/album/7vBXUpNdxVx50E6zHDWyhX) | 3:38 | 2021-02-04 | 2022-07-29 |
 | [Blue Bossa](https://open.spotify.com/track/34x5AhvVgbLhebznYRBrSO) | [Jimmy Rosenberg](https://open.spotify.com/artist/6tq9JKuE6vPDbQw5EiXLwn) | [Trio](https://open.spotify.com/album/7BMdSO57gHOuHihr4o95Bg) | 3:38 | 2021-02-04 |  |
-| [Blue Pearl](https://open.spotify.com/track/4Lq7xk3BOHfbQYOl5azSWo) | [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie) | [Blue Pearl](https://open.spotify.com/album/4d4vr1kMKkN5m36QFZI4Py) | 2:19 | 2022-03-18 |  |
+| [Blue Pearl](https://open.spotify.com/track/7IQBh81WFFXC7VuwYsM0YV) | [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie) | [Blue Pearl](https://open.spotify.com/album/0tygytOgI6vbGsg9CZy1ok) | 2:19 | 2022-03-18 |  |
+| [Blue Pearl](https://open.spotify.com/track/4Lq7xk3BOHfbQYOl5azSWo) | [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie) | [Blue Pearl](https://open.spotify.com/album/4d4vr1kMKkN5m36QFZI4Py) | 2:19 | 2022-03-18 | 2024-03-08 |
 | [Blues for Stochelo](https://open.spotify.com/track/2ekfzRwLFWDis4G34Kkfx9) | [Joscho Stephan](https://open.spotify.com/artist/03gMsWBnlCYwx7ivVnO0WG) | [Guitar Heroes](https://open.spotify.com/album/6MnYzIKgvXkNkjgqRsQuld) | 3:53 | 2021-02-04 |  |
 | [Can´t Buy Me Love \- Cover](https://open.spotify.com/track/0R7FUONHrec67CHQFimQx7) | [Joscho Stephan](https://open.spotify.com/artist/03gMsWBnlCYwx7ivVnO0WG), [Sven Jungbeck](https://open.spotify.com/artist/7zzUbMyOmvQtFCtlekdLoO), [Volker Kamp](https://open.spotify.com/artist/7FvlT1VctBs8JBH0O28jYc) | [Can´t Buy Me Love \(Cover\)](https://open.spotify.com/album/1mskFTnHBiTxtgyMLMZp00) | 4:34 | 2023-12-15 | 2024-01-13 |
 | [China Boy](https://open.spotify.com/track/1ajn0alF3RUq8qz4H9Rfz0) | [Lollo Meier](https://open.spotify.com/artist/0QiD9SILEjqqmaFPXxq2An) | [Hondarribia](https://open.spotify.com/album/2EcPOKSGVakskSB8jkFc0A) | 2:44 | 2021-02-04 |  |

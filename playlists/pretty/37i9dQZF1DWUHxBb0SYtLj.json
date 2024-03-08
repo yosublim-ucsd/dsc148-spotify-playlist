@@ -1,15 +1,15 @@
 {
   "description": "Una speciale selezione di brani co-curata insieme a <a href=\"spotify:artist:5A0upF7YOXwWW0R5EuahcF\">BigMama</a> per la Giornata Internazionale della Donna! \u2728\ud83d\udc9a",
-  "num_followers": 21457,
+  "num_followers": 21465,
   "original_name": "EQUAL Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOWZkNmI2NDdlNjZhMTcyZGI1ZGZhYzczYjk3NGMyMzE3YjRkOGIz",
+  "snapshot_id": "MCxiNDlkNDRjNWY2ZTE3YWRlMGVlYmI1YTE4ZTU1NmM4MmQyMzZlYWE0",
   "tracks": [
     {
-      "added_at": "2024-03-05 23:01:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "La rabbia non ti basta",
         "url": "https://open.spotify.com/album/7rex9i7hSRRzJAlRdm3xle"
@@ -25,7 +25,27 @@
       "url": "https://open.spotify.com/track/0CjNKLqvr5tDvepagOIKlu"
     },
     {
-      "added_at": "2024-03-05 23:01:00",
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "RADIO SAKURA",
+        "url": "https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo"
+      },
+      "artists": [
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        },
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        }
+      ],
+      "duration_ms": 166574,
+      "name": "HATTORI HANZO (feat. Madame)",
+      "url": "https://open.spotify.com/track/5e6Qu6LyjBJ3xROHLhwcTT"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "Solo Mai",
         "url": "https://open.spotify.com/album/6wXcqAi0CDEB5vUHTFZlWt"
@@ -41,151 +61,7 @@
       "url": "https://open.spotify.com/track/0Il0YemaJKppnqBaVsFIyJ"
     },
     {
-      "added_at": "2024-03-05 23:01:00",
-      "album": {
-        "name": "\u00c8 tutto vero",
-        "url": "https://open.spotify.com/album/4xhyr3DQNGTEa4xFAL9013"
-      },
-      "artists": [
-        {
-          "name": "Ditonellapiaga",
-          "url": "https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l"
-        }
-      ],
-      "duration_ms": 168235,
-      "name": "\u00c8 tutto vero",
-      "url": "https://open.spotify.com/track/3qDapOHjcIm4Xrx6Vuv0Rw"
-    },
-    {
-      "added_at": "2024-03-05 23:01:00",
-      "album": {
-        "name": "VANITAS",
-        "url": "https://open.spotify.com/album/3cDE2dajma7EPMu5j9QKCT"
-      },
-      "artists": [
-        {
-          "name": "LA NI\u00d1A",
-          "url": "https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj"
-        }
-      ],
-      "duration_ms": 157950,
-      "name": "FCCV",
-      "url": "https://open.spotify.com/track/2r1JS0QY40kol76Ne7xsNA"
-    },
-    {
-      "added_at": "2024-03-05 23:01:00",
-      "album": {
-        "name": "Leggera",
-        "url": "https://open.spotify.com/album/6vtGqGLz1IqeLtEXwluv70"
-      },
-      "artists": [
-        {
-          "name": "Sissi",
-          "url": "https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i"
-        }
-      ],
-      "duration_ms": 160778,
-      "name": "Danshari",
-      "url": "https://open.spotify.com/track/5cg7DPEqzHECy5zHwOATN0"
-    },
-    {
-      "added_at": "2024-03-05 23:01:00",
-      "album": {
-        "name": "TOKYO",
-        "url": "https://open.spotify.com/album/0UZRauzdGkiKZE98diROqc"
-      },
-      "artists": [
-        {
-          "name": "Gaia",
-          "url": "https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1"
-        }
-      ],
-      "duration_ms": 163726,
-      "name": "TOKYO",
-      "url": "https://open.spotify.com/track/7dD22lff7QvPo4nZEN9w1A"
-    },
-    {
-      "added_at": "2024-03-05 23:01:00",
-      "album": {
-        "name": "RED LIGHT",
-        "url": "https://open.spotify.com/album/01JfUzlxiuWCf6al7EJnQm"
-      },
-      "artists": [
-        {
-          "name": "Elodie",
-          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
-        }
-      ],
-      "duration_ms": 153101,
-      "name": "Elle",
-      "url": "https://open.spotify.com/track/2dmllrWOiNBCLZomnGBNFS"
-    },
-    {
-      "added_at": "2024-03-05 23:01:00",
-      "album": {
-        "name": "CLUB TOPPERIA",
-        "url": "https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei"
-      },
-      "artists": [
-        {
-          "name": "M\u00a5SS KETA",
-          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
-        }
-      ],
-      "duration_ms": 145304,
-      "name": "CLUB TOPPERIA",
-      "url": "https://open.spotify.com/track/74kWVaa5TFbD01SH3n0mRV"
-    },
-    {
-      "added_at": "2024-03-05 23:01:00",
-      "album": {
-        "name": "Sister (Pastiglie)",
-        "url": "https://open.spotify.com/album/2drz33HD67C09Nqh4eILbp"
-      },
-      "artists": [
-        {
-          "name": "Chadia",
-          "url": "https://open.spotify.com/artist/4nXNT34X5GQ8yTBttXtbY6"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "Sister (Pastiglie)",
-      "url": "https://open.spotify.com/track/3PJFpY6SkQ0juJAn77PZgK"
-    },
-    {
-      "added_at": "2024-03-05 23:01:00",
-      "album": {
-        "name": "Raffaella Carr\u00e0",
-        "url": "https://open.spotify.com/album/6E7WXLdeWOGUqSZzntA7FC"
-      },
-      "artists": [
-        {
-          "name": "Raffaella Carr\u00e0",
-          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
-        }
-      ],
-      "duration_ms": 161240,
-      "name": "A far l'amore comincia tu",
-      "url": "https://open.spotify.com/track/4RGMka1jhff27B8zMkMWRO"
-    },
-    {
-      "added_at": "2024-03-05 23:01:00",
-      "album": {
-        "name": "PRIMO",
-        "url": "https://open.spotify.com/album/7EV8pGuFCChzOPmcopNQ4t"
-      },
-      "artists": [
-        {
-          "name": "CLARA",
-          "url": "https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ"
-        }
-      ],
-      "duration_ms": 192120,
-      "name": "DIAMANTI GREZZI",
-      "url": "https://open.spotify.com/track/6KM80DJGk9gehJMDmKuzfv"
-    },
-    {
-      "added_at": "2024-03-05 23:01:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "Sinceramente",
         "url": "https://open.spotify.com/album/6Ftqr86cfGFu8mQ0Vt2jse"
@@ -201,7 +77,23 @@
       "url": "https://open.spotify.com/track/2O7jON0xYyTaSkWj9wZXCJ"
     },
     {
-      "added_at": "2024-03-05 23:01:00",
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "\u00c8 tutto vero",
+        "url": "https://open.spotify.com/album/4xhyr3DQNGTEa4xFAL9013"
+      },
+      "artists": [
+        {
+          "name": "Ditonellapiaga",
+          "url": "https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l"
+        }
+      ],
+      "duration_ms": 168235,
+      "name": "\u00c8 tutto vero",
+      "url": "https://open.spotify.com/track/3qDapOHjcIm4Xrx6Vuv0Rw"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "La noia",
         "url": "https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI"
@@ -217,7 +109,183 @@
       "url": "https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1"
     },
     {
-      "added_at": "2024-03-05 23:01:00",
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "VANITAS",
+        "url": "https://open.spotify.com/album/3cDE2dajma7EPMu5j9QKCT"
+      },
+      "artists": [
+        {
+          "name": "LA NI\u00d1A",
+          "url": "https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj"
+        }
+      ],
+      "duration_ms": 157950,
+      "name": "FCCV",
+      "url": "https://open.spotify.com/track/2r1JS0QY40kol76Ne7xsNA"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "PRIMO",
+        "url": "https://open.spotify.com/album/7EV8pGuFCChzOPmcopNQ4t"
+      },
+      "artists": [
+        {
+          "name": "CLARA",
+          "url": "https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ"
+        }
+      ],
+      "duration_ms": 192120,
+      "name": "DIAMANTI GREZZI",
+      "url": "https://open.spotify.com/track/6KM80DJGk9gehJMDmKuzfv"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "MAPPAMONDO",
+        "url": "https://open.spotify.com/album/3rAzTTDojPhT2uaEyO8Lvf"
+      },
+      "artists": [
+        {
+          "name": "Sarah Toscano",
+          "url": "https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5"
+        }
+      ],
+      "duration_ms": 167428,
+      "name": "MAPPAMONDO",
+      "url": "https://open.spotify.com/track/4FYdBhoiUkrAZfkcaPd2sn"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "Leggera",
+        "url": "https://open.spotify.com/album/6vtGqGLz1IqeLtEXwluv70"
+      },
+      "artists": [
+        {
+          "name": "Sissi",
+          "url": "https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i"
+        }
+      ],
+      "duration_ms": 160778,
+      "name": "Danshari",
+      "url": "https://open.spotify.com/track/5cg7DPEqzHECy5zHwOATN0"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "Centri di anzianit\u00e0",
+        "url": "https://open.spotify.com/album/7GRS8CAqzDmgjNRXkcmm1y"
+      },
+      "artists": [
+        {
+          "name": "Assurdit\u00e8",
+          "url": "https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC"
+        }
+      ],
+      "duration_ms": 206507,
+      "name": "Centri di anzianit\u00e0",
+      "url": "https://open.spotify.com/track/6PTi9WN9KAcnYpMqVOJPrm"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "TOKYO",
+        "url": "https://open.spotify.com/album/0UZRauzdGkiKZE98diROqc"
+      },
+      "artists": [
+        {
+          "name": "Gaia",
+          "url": "https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1"
+        }
+      ],
+      "duration_ms": 163726,
+      "name": "TOKYO",
+      "url": "https://open.spotify.com/track/7dD22lff7QvPo4nZEN9w1A"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "CLUB TOPPERIA",
+        "url": "https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei"
+      },
+      "artists": [
+        {
+          "name": "M\u00a5SS KETA",
+          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
+        }
+      ],
+      "duration_ms": 145304,
+      "name": "CLUB TOPPERIA",
+      "url": "https://open.spotify.com/track/74kWVaa5TFbD01SH3n0mRV"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "Sister (Pastiglie)",
+        "url": "https://open.spotify.com/album/2drz33HD67C09Nqh4eILbp"
+      },
+      "artists": [
+        {
+          "name": "Chadia",
+          "url": "https://open.spotify.com/artist/4nXNT34X5GQ8yTBttXtbY6"
+        }
+      ],
+      "duration_ms": 227200,
+      "name": "Sister (Pastiglie)",
+      "url": "https://open.spotify.com/track/3PJFpY6SkQ0juJAn77PZgK"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "Sconosciuti superstar",
+        "url": "https://open.spotify.com/album/4DFhDSOSXmgIXXFd2VUNzg"
+      },
+      "artists": [
+        {
+          "name": "Angelica",
+          "url": "https://open.spotify.com/artist/3aFnXkfp5Z2Ac9DLorgJ4S"
+        }
+      ],
+      "duration_ms": 155840,
+      "name": "Acqua ossigenata",
+      "url": "https://open.spotify.com/track/3Q8UZcTEBbaVcg9RhShnY0"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "RED LIGHT",
+        "url": "https://open.spotify.com/album/01JfUzlxiuWCf6al7EJnQm"
+      },
+      "artists": [
+        {
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+        }
+      ],
+      "duration_ms": 153101,
+      "name": "Elle",
+      "url": "https://open.spotify.com/track/2dmllrWOiNBCLZomnGBNFS"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "Raffaella Carr\u00e0",
+        "url": "https://open.spotify.com/album/6E7WXLdeWOGUqSZzntA7FC"
+      },
+      "artists": [
+        {
+          "name": "Raffaella Carr\u00e0",
+          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
+        }
+      ],
+      "duration_ms": 161240,
+      "name": "A far l'amore comincia tu",
+      "url": "https://open.spotify.com/track/4RGMka1jhff27B8zMkMWRO"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "Pazza",
         "url": "https://open.spotify.com/album/3IGUYanHxdk5DX7aB8e3lv"
@@ -233,7 +301,7 @@
       "url": "https://open.spotify.com/track/1MwyUklCSLF8heoph2ttFe"
     },
     {
-      "added_at": "2024-03-05 23:01:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "Fino a qui",
         "url": "https://open.spotify.com/album/0d5uLpu4Tkh54AjZgztd7L"
@@ -249,7 +317,7 @@
       "url": "https://open.spotify.com/track/37WCMrX9XnmmPCMY0aqZjo"
     },
     {
-      "added_at": "2024-03-05 23:01:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "APNEA",
         "url": "https://open.spotify.com/album/0YMrslSUc1TClPK7b1SVBa"
@@ -265,23 +333,7 @@
       "url": "https://open.spotify.com/track/3qyidNdb5QNHLxAFJzTn6P"
     },
     {
-      "added_at": "2024-03-05 23:01:00",
-      "album": {
-        "name": "CLICK BOOM!",
-        "url": "https://open.spotify.com/album/6PBnYwtMjAW4XqVRs9Il2l"
-      },
-      "artists": [
-        {
-          "name": "Rose Villain",
-          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
-        }
-      ],
-      "duration_ms": 225561,
-      "name": "CLICK BOOM!",
-      "url": "https://open.spotify.com/track/2PO4ThUKzIa4rBLsFkyInU"
-    },
-    {
-      "added_at": "2024-03-05 23:01:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "Dentro di me",
         "url": "https://open.spotify.com/album/4G7K8YMU8vCtPr9SiOZ0if"
@@ -297,7 +349,23 @@
       "url": "https://open.spotify.com/track/7yLuwRipesZLX1xAqY3cjz"
     },
     {
-      "added_at": "2024-03-05 23:01:00",
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "Dafalgan",
+        "url": "https://open.spotify.com/album/4omxez8JEcqaSwiDCtGm8O"
+      },
+      "artists": [
+        {
+          "name": "Ele A",
+          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
+        }
+      ],
+      "duration_ms": 204186,
+      "name": "Dafalgan",
+      "url": "https://open.spotify.com/track/3XGsMvnIirV7ICCWAh7v7L"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "Danza del Ghetto (From the Netflix Rap Show \u201cNuova Scena\u201d)",
         "url": "https://open.spotify.com/album/3L2chRYOCkeN6CTXVMzi6S"
@@ -313,7 +381,39 @@
       "url": "https://open.spotify.com/track/2uTE3ilwfZWtMdarjkStGs"
     },
     {
-      "added_at": "2024-03-05 23:01:00",
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "ATTIMO",
+        "url": "https://open.spotify.com/album/46oN09hGI1JujQaLgv1kbL"
+      },
+      "artists": [
+        {
+          "name": "Lil Jolie",
+          "url": "https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9"
+        }
+      ],
+      "duration_ms": 187598,
+      "name": "ATTIMO",
+      "url": "https://open.spotify.com/track/0KM17GZroJQiZUkQZEUH1I"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "Calma rivoluzionaria (Live 2023)",
+        "url": "https://open.spotify.com/album/1xAM68hNnrcw12hbJ5S02j"
+      },
+      "artists": [
+        {
+          "name": "Ornella Vanoni",
+          "url": "https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv"
+        }
+      ],
+      "duration_ms": 223186,
+      "name": "Camminando",
+      "url": "https://open.spotify.com/track/2rDPD3seIyzCqXxbhVArzH"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "Mariposa",
         "url": "https://open.spotify.com/album/115aUhZ79BPSwCkbCA47QG"
@@ -329,7 +429,7 @@
       "url": "https://open.spotify.com/track/5FV2fsK9sFL4D5uwX8zAgk"
     },
     {
-      "added_at": "2024-03-05 23:01:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "Una Settimana Da Dio (God's Plan)",
         "url": "https://open.spotify.com/album/49vCw2NtQFaxKrvzD3ywmO"
@@ -345,7 +445,7 @@
       "url": "https://open.spotify.com/track/7zDCtcLANYLyg3eweZmesK"
     },
     {
-      "added_at": "2024-03-05 23:01:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "Porta Pia",
         "url": "https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d"
@@ -361,7 +461,7 @@
       "url": "https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb"
     },
     {
-      "added_at": "2024-03-05 23:01:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "zoo",
         "url": "https://open.spotify.com/album/3xyHBve5q0F1NjGyImUXPv"
@@ -377,7 +477,23 @@
       "url": "https://open.spotify.com/track/62iNTZ60TYn8OOLOB9CpY7"
     },
     {
-      "added_at": "2024-03-05 23:01:00",
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "ORO ORO ORO",
+        "url": "https://open.spotify.com/album/4oY3Jk21YVZAoeRTI7vLun"
+      },
+      "artists": [
+        {
+          "name": "Nahaze",
+          "url": "https://open.spotify.com/artist/4lH0PRAS3yV8O05E5lTqwk"
+        }
+      ],
+      "duration_ms": 150769,
+      "name": "ORO ORO ORO",
+      "url": "https://open.spotify.com/track/4Re4W6U6JgSGPGPoyiZFyr"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "Fuoritempo ;(",
         "url": "https://open.spotify.com/album/3VLXLqu8Qi3MaYmg7WR4x3"
@@ -393,7 +509,7 @@
       "url": "https://open.spotify.com/track/1dB8nQqCmKufp6dmN4NLqx"
     },
     {
-      "added_at": "2024-03-05 23:01:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "Panorama",
         "url": "https://open.spotify.com/album/6jtGpfZKBee8GtCpZeckPD"
@@ -409,7 +525,7 @@
       "url": "https://open.spotify.com/track/7fBlPG0Yp0HDlosXjoQswL"
     },
     {
-      "added_at": "2024-03-05 23:01:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "manica",
         "url": "https://open.spotify.com/album/0Ub4OXqzpDeKw4grOyTSje"
@@ -425,7 +541,23 @@
       "url": "https://open.spotify.com/track/3rTRr1M8nzR4PKZhKuVMzO"
     },
     {
-      "added_at": "2024-03-05 23:01:00",
+      "added_at": "2024-03-07 23:01:00",
+      "album": {
+        "name": "I Missed You Too",
+        "url": "https://open.spotify.com/album/3S5pxAGiUKduiJGwnEzHno"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        }
+      ],
+      "duration_ms": 215789,
+      "name": "I Missed You Too",
+      "url": "https://open.spotify.com/track/4o2c5swMPdirnnahplyswy"
+    },
+    {
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "Colla",
         "url": "https://open.spotify.com/album/2bkwrzobOPDqvZuTMHwTw6"
@@ -441,7 +573,7 @@
       "url": "https://open.spotify.com/track/4a3awPGBs7bOjg2JHLsbec"
     },
     {
-      "added_at": "2024-03-05 23:01:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "Life Goes On",
         "url": "https://open.spotify.com/album/1tley50xaTGlScJ2Biegc9"
@@ -457,7 +589,7 @@
       "url": "https://open.spotify.com/track/2yZvdraY6EtJXMvjFtFJ2c"
     },
     {
-      "added_at": "2024-03-05 23:01:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "corpidadonna",
         "url": "https://open.spotify.com/album/74sZ68Ci0j4MsRMNGPuG7l"
@@ -473,7 +605,7 @@
       "url": "https://open.spotify.com/track/1Zu3cmzfe2m8LXAfOm0xZq"
     },
     {
-      "added_at": "2024-03-05 23:01:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "Catastrofe",
         "url": "https://open.spotify.com/album/6OR4HXszQR7K2zK4iFRbnX"
@@ -489,7 +621,7 @@
       "url": "https://open.spotify.com/track/4dVwjYXlq2bTJTwekVzA8b"
     },
     {
-      "added_at": "2024-03-05 23:01:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "Danni",
         "url": "https://open.spotify.com/album/5vj96ceh2cnUVDKk8GsC8K"
@@ -505,23 +637,7 @@
       "url": "https://open.spotify.com/track/3KwoAuN6UEOUzWitQV27wy"
     },
     {
-      "added_at": "2024-03-05 23:01:00",
-      "album": {
-        "name": "ROSSETTO",
-        "url": "https://open.spotify.com/album/2NLW223Aq5QwJQsnjqe01R"
-      },
-      "artists": [
-        {
-          "name": "FEM",
-          "url": "https://open.spotify.com/artist/0cgIiW8HxDNLBiV8FPwdrB"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "ROSSETTO",
-      "url": "https://open.spotify.com/track/7ljTvuGnxcRzBZJZP9X7lG"
-    },
-    {
-      "added_at": "2024-03-05 23:01:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "Nuda",
         "url": "https://open.spotify.com/album/5FBA355AV3pQ6BQYhqiND3"
@@ -541,23 +657,7 @@
       "url": "https://open.spotify.com/track/2iHTi6QJa2pXsKCJa64Q2k"
     },
     {
-      "added_at": "2024-03-05 23:01:00",
-      "album": {
-        "name": "Cartesio",
-        "url": "https://open.spotify.com/album/2nyDlyig0SoFEFXQ5FPZu6"
-      },
-      "artists": [
-        {
-          "name": "Cecile",
-          "url": "https://open.spotify.com/artist/2V71DNcQsRW0Vp8vCOy9Vw"
-        }
-      ],
-      "duration_ms": 230153,
-      "name": "Cartesio",
-      "url": "https://open.spotify.com/track/6vexlQQPWMyT5SS72vhUL8"
-    },
-    {
-      "added_at": "2024-03-05 23:01:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "Nervous",
         "url": "https://open.spotify.com/album/6RD1K1TtGVHhdXlTn6L89h"
@@ -573,7 +673,7 @@
       "url": "https://open.spotify.com/track/4oszQVZnaqk4kbmmfZVfez"
     },
     {
-      "added_at": "2024-03-05 23:01:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "DARK ROOM",
         "url": "https://open.spotify.com/album/4LUTgVjn0GaSGNjx9ux3v0"
@@ -589,7 +689,7 @@
       "url": "https://open.spotify.com/track/28vEpVxkslCPI2sfeZ9fSr"
     },
     {
-      "added_at": "2024-03-05 23:01:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "Costellazione",
         "url": "https://open.spotify.com/album/4K6mjIYEk66KppBvHQERJa"
@@ -605,27 +705,7 @@
       "url": "https://open.spotify.com/track/4yPsAE44VVVWspQa5oSm9c"
     },
     {
-      "added_at": "2024-03-05 23:01:00",
-      "album": {
-        "name": "Iridi",
-        "url": "https://open.spotify.com/album/2opM3eDChbsegJt6DkiDo4"
-      },
-      "artists": [
-        {
-          "name": "Hanami",
-          "url": "https://open.spotify.com/artist/7EQFBKivi3POpo2NLiEEOe"
-        },
-        {
-          "name": "kOkeshi",
-          "url": "https://open.spotify.com/artist/1kbU8ryKGu6DDvcI0Hy8uj"
-        }
-      ],
-      "duration_ms": 161049,
-      "name": "Iridi",
-      "url": "https://open.spotify.com/track/4eemBljxJ2F2wj4U2Af7R8"
-    },
-    {
-      "added_at": "2024-03-05 23:01:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "NANANA",
         "url": "https://open.spotify.com/album/3z8XVFwsPkf7rX1EZKuMSY"
@@ -645,7 +725,7 @@
       "url": "https://open.spotify.com/track/0i4h8cfEGfwzUrl1in9xo5"
     },
     {
-      "added_at": "2024-03-05 23:01:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "Lamine",
         "url": "https://open.spotify.com/album/5mfkIPeMQ2v65WlrXKizEN"
@@ -661,7 +741,7 @@
       "url": "https://open.spotify.com/track/5rpkijPipdteVmxVrGaKgB"
     },
     {
-      "added_at": "2024-03-05 23:01:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "Fantasma",
         "url": "https://open.spotify.com/album/4hOe683WF5YBF1S90jWQ5i"
@@ -677,7 +757,7 @@
       "url": "https://open.spotify.com/track/5DTlezILqdaiyQmTyahTrk"
     },
     {
-      "added_at": "2024-03-05 23:01:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "NO TIME",
         "url": "https://open.spotify.com/album/61Z6kau8ly1XLa6NTdia1h"
@@ -693,7 +773,7 @@
       "url": "https://open.spotify.com/track/38hK4JxVt8uKsgoKE1zfw5"
     },
     {
-      "added_at": "2024-03-05 23:01:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "LUCE",
         "url": "https://open.spotify.com/album/3TdmCUwwSHshmX83TeyKsl"
@@ -709,7 +789,7 @@
       "url": "https://open.spotify.com/track/7h8114132hLsh0gfAoJCC2"
     },
     {
-      "added_at": "2024-03-05 23:01:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "jealous.",
         "url": "https://open.spotify.com/album/3QYbcJGrQFcIoldFtsuNHH"
@@ -725,7 +805,7 @@
       "url": "https://open.spotify.com/track/6itqtWRy9lzxbJJ58ydUuw"
     },
     {
-      "added_at": "2024-03-05 23:01:00",
+      "added_at": "2024-03-07 23:01:00",
       "album": {
         "name": "Un'Altra Me",
         "url": "https://open.spotify.com/album/6WInH2ZdBqEAzul2cAF2hM"

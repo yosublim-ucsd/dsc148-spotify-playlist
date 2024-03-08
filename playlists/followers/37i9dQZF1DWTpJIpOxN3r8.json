@@ -1,5 +1,5 @@
 {
-  "2024-03-07": 90917,
+  "2024-03-08": 90922,
   "date_first_scraped": "2023-04-07",
   "description": "Sonidos de lluvia para descansar y dormir.",
   "name": "Lluvia de Noche",
@@ -2357,7 +2357,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 189252,
       "name": "Hard Rain 2",
       "url": "https://open.spotify.com/track/0HviNI5IDkJxWlR77EKGoP"
@@ -2375,7 +2375,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 200505,
       "name": "Hard Rain 3",
       "url": "https://open.spotify.com/track/2nqyQEWwRitXReoUdODWzl"
@@ -2627,7 +2627,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 156781,
       "name": "Infinite Rain Clouds",
       "url": "https://open.spotify.com/track/0pPMBiWpbShtUwpjuVsXs9"
@@ -4769,7 +4769,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-25",
+      "date_removed": null,
       "duration_ms": 182368,
       "name": "Rain On The Lake",
       "url": "https://open.spotify.com/track/0o5VWWgcf66ctfBM8HsO5i"

@@ -825,6 +825,24 @@
     },
     {
       "album": {
+        "name": "Dreamscape",
+        "url": "https://open.spotify.com/album/2zDiNvOXSrlL4IHJfRcDXh"
+      },
+      "artists": [
+        {
+          "name": "Proph\u00e9tique",
+          "url": "https://open.spotify.com/artist/4uhsb1EuCyjawRUy9RXt6v"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Dreamscape",
+      "url": "https://open.spotify.com/track/0mrAzKyHhB4Zxz2u6QRVUL"
+    },
+    {
+      "album": {
         "name": "Drone For Dreamers",
         "url": "https://open.spotify.com/album/3igI1Jx8N6gz0lAsFlnRaI"
       },
@@ -948,6 +966,24 @@
       "duration_ms": 259200,
       "name": "Erase",
       "url": "https://open.spotify.com/track/6f4cBWeUGOtO7WFxxt35j3"
+    },
+    {
+      "album": {
+        "name": "Escaping Time",
+        "url": "https://open.spotify.com/album/4Fe9RtZfJDkN7FK9FK09zQ"
+      },
+      "artists": [
+        {
+          "name": "Aetheria Solara",
+          "url": "https://open.spotify.com/artist/53Dh6mRLAQrQVAwNvXiifJ"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171858,
+      "name": "Escaping Time",
+      "url": "https://open.spotify.com/track/27fjJ16c52YBbCx2lKPIOV"
     },
     {
       "album": {
@@ -1350,6 +1386,24 @@
       "duration_ms": 209230,
       "name": "Gentle Flow",
       "url": "https://open.spotify.com/track/5DsQEpDxcQXXbLyfPsLVFv"
+    },
+    {
+      "album": {
+        "name": "Gentle Hush",
+        "url": "https://open.spotify.com/album/7uNg7HONv7KA8t3pW7FBNR"
+      },
+      "artists": [
+        {
+          "name": "Axial Flow",
+          "url": "https://open.spotify.com/artist/4H4cCqLCwCRQVxbQhGrjtL"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175558,
+      "name": "Gentle Hush",
+      "url": "https://open.spotify.com/track/1NCqCKgbhrpSyIoizfUaoI"
     },
     {
       "album": {

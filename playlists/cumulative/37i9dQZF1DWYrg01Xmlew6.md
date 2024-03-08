@@ -2,9 +2,9 @@
 
 ### [Int 'o Rione](https://open.spotify.com/playlist/37i9dQZF1DWYrg01Xmlew6)
 
-> Rap napoletano e il meglio della scena campana\. Geolier in cover.
+> Il meglio del rap napoletano\. JELECROIS in cover\. Powered by <a href="spotify:playlist:37i9dQZF1DWUHxBb0SYtLj">EQUAL</a>, a supporto delle artiste donne, tutti i giorni 💚
 
-295 songs - 13 hr 41 min
+296 songs - 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Lacrima](https://open.spotify.com/track/2eBktx5PNJXGepg3C2WYuZ) | [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P) | [Lacrima](https://open.spotify.com/album/612nJUbeSR7yzHJmeAHVsG) | 1:37 | 2023-12-14 | 2024-01-09 |
 | [Last Night](https://open.spotify.com/track/1daenAwiS4hRaY5dvLYdmn) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [Last Night](https://open.spotify.com/album/1SYlvXfEqgf2rgvOQMYufO) | 3:28 | 2022-09-01 | 2022-09-20 |
 | [LAURYN HILL \(feat\. Nicola Siciliano, Guè & Joan Thiele\)](https://open.spotify.com/track/0HA5tqAz8YkAGtYuNMISCG) | [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Joan Thiele](https://open.spotify.com/artist/2X1CuKIwl9B7zMjXi41bi5) | [DON DADA](https://open.spotify.com/album/1aElHPJaZyQZkJ2OIwXWAu) | 3:04 | 2023-04-13 | 2023-05-05 |
+| [LA’ NCOPP](https://open.spotify.com/track/5siCJ21koizdq3mI336rnE) | [Mooncler](https://open.spotify.com/artist/0BDxLYk6ELncPbNil9xCj7) | [LA’ NCOPP](https://open.spotify.com/album/7MtzoofqYyTOcXIPpUMyGr) | 2:15 | 2024-03-07 |  |
 | [Leale e Infame](https://open.spotify.com/track/47eglSPfqHvnA4O3L9O5g2) | [GELO](https://open.spotify.com/artist/7s4IAtCfcA31LaTyEHUfjn) | [Leale e Infame](https://open.spotify.com/album/7ihxGS8fgircOQzGLQvtWV) | 2:24 | 2023-12-14 | 2024-03-07 |
 | [Lose Control](https://open.spotify.com/track/40l3gNOxcK4MWgHfQuOyAF) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz) | [Lose Control](https://open.spotify.com/album/0ub5NaCeNKWDcRWUmb8yvQ) | 3:02 | 2023-07-06 |  |
 | [Love Song](https://open.spotify.com/track/0tHNfx3jrnG65IiGj9PP4L) | [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [999](https://open.spotify.com/album/22oy1c4fMawK7VbulvH89W) | 3:24 | 2022-06-09 | 2022-07-29 |
@@ -247,7 +248,7 @@
 | [Shawty \(feat\. ANNA\)](https://open.spotify.com/track/3VAebI378Ag8dJECkUmT5G) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Shawty \(feat\. ANNA\)](https://open.spotify.com/album/0wspBxNHGHBkPldJLX0Cjd) | 3:04 | 2022-11-29 | 2023-05-10 |
 | [Sincer \(feat\. Lele Blade & Icy Subzero\)](https://open.spotify.com/track/5NA6KErStFT0zPk1VJiSWI) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sincer \(feat\. Lele Blade & Icy Subzero\)](https://open.spotify.com/album/7BBkLJQiEzHkFDbHy48rjd) | 3:41 | 2023-05-04 |  |
 | [Skyline](https://open.spotify.com/track/6h3Ygm8pThn9j2UYNfNuq6) | [Moderup](https://open.spotify.com/artist/0EE0rv2NG4drYTTQrT0saQ) | [Skyline](https://open.spotify.com/album/7a33VKOjd8l4uSyci8lsEl) | 2:17 | 2022-09-15 | 2022-10-28 |
-| [Smokin' Hot \- Feat\. Mooncler](https://open.spotify.com/track/3e46BzVsokW2rljCKPViG8) | [Real Talk](https://open.spotify.com/artist/7MeFbKQT6w9iBMLuHmzVVW), [Mooncler](https://open.spotify.com/artist/0BDxLYk6ELncPbNil9xCj7) | [Smokin' Hot \(Feat\. Mooncler\)](https://open.spotify.com/album/5vkt5Cp1QPUXKd46n4vjjh) | 2:05 | 2024-02-29 |  |
+| [Smokin' Hot \- Feat\. Mooncler](https://open.spotify.com/track/3e46BzVsokW2rljCKPViG8) | [Real Talk](https://open.spotify.com/artist/7MeFbKQT6w9iBMLuHmzVVW), [Mooncler](https://open.spotify.com/artist/0BDxLYk6ELncPbNil9xCj7) | [Smokin' Hot \(Feat\. Mooncler\)](https://open.spotify.com/album/5vkt5Cp1QPUXKd46n4vjjh) | 2:05 | 2024-02-29 | 2024-03-08 |
 | [So Fresh So Clean \(feat\. Vale Lambo\)](https://open.spotify.com/track/3SJNxU9GNf8MnNRW4G6b6s) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [AMBIZIONE](https://open.spotify.com/album/4Z1gtHqJwPjN0htfLDqcuV) | 2:00 | 2022-05-26 | 2022-07-22 |
 | [So' modelle](https://open.spotify.com/track/0LkhmgypJYiRMU6NC3lrAl) | [Awhon](https://open.spotify.com/artist/2dftGrrSw0rHzZOizviG0G) | [So' modelle](https://open.spotify.com/album/2UBHfDmK9TKkdeblSJFhYQ) | 2:14 | 2022-11-18 | 2023-02-09 |
 | [SOFT \(feat\. Lele Blade\)](https://open.spotify.com/track/0PIYRd1kHwvUlvoTACuhlc) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz) | [FEDE II](https://open.spotify.com/album/5wtj64nI3MqbatoKYYAoQO) | 2:14 | 2023-12-14 |  |

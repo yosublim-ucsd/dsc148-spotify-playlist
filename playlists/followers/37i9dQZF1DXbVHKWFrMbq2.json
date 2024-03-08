@@ -1,5 +1,5 @@
 {
-  "2024-03-07": 15743,
+  "2024-03-08": 15755,
   "date_first_scraped": "2023-10-18",
   "description": "Canciones chill para ayudarte a bajar.",
   "name": "Pop Relax",
@@ -1122,6 +1122,24 @@
     },
     {
       "album": {
+        "name": "Madrugada",
+        "url": "https://open.spotify.com/album/7xbfVdudU3u7xN1BRUrtMT"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152820,
+      "name": "Madrugada",
+      "url": "https://open.spotify.com/track/3JG93LtxDv92Ag5wJxLLRM"
+    },
+    {
+      "album": {
         "name": "Pulsi\u00f3n",
         "url": "https://open.spotify.com/album/19atAigwiE58wvFBfoqmQ2"
       },
@@ -1625,7 +1643,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 122202,
       "name": "Rosa",
       "url": "https://open.spotify.com/track/33AWuTMifxeDWvizVzYBiA"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > The state of shoegaze, featuring over 20 new tracks added by flyingfish.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,480 likes - 121 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,672 likes - 121 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 57 | [it's all the same to me .](https://open.spotify.com/track/5esujHO7ikzfP1mPJXJRJK) | [a blue room](https://open.spotify.com/artist/2KF05MsTBXijR690vZ3Gk0), [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [it's all the same to me .](https://open.spotify.com/album/6DJhAmfJo9LgXE5pjoHXc1) | 3:45 |
 | 58 | [Your face](https://open.spotify.com/track/7ne2hzW4jaU5tacaCI4kJH) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Your face](https://open.spotify.com/album/19qeLWS7fwQMYuDosTCTFe) | 3:47 |
 | 59 | [Doll](https://open.spotify.com/track/718j4dLgigKSHiRYiHuhMC) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Doll](https://open.spotify.com/album/233GhcZaDayKcSfRtx5rW3) | 3:31 |
-| 60 | [Like Stars In The Firmament](https://open.spotify.com/track/0QpBFwWXoSfrdPtEYjiYyr) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Like Stars In The Firmament](https://open.spotify.com/album/5AmHK2cvlnbjo6PaXCqqpU) | 5:24 |
+| 60 | [Like Stars In The Firmament](https://open.spotify.com/track/0rCLd0wFQQPqDNsJ1aTNZU) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [When No Birds Sang](https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6) | 5:24 |
 | 61 | [jamcod](https://open.spotify.com/track/1DBRdzUgZrX7WBygQD2GhR) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [jamcod](https://open.spotify.com/album/5vIGXSK8CJfU136cXYtziM) | 3:59 |
 | 62 | [her blood filled my lungs](https://open.spotify.com/track/5AthAxFm5eN0pLtpiCRbYr) | [anvii](https://open.spotify.com/artist/1YgLJNdUly3ovPX5AV1REZ) | [\(y\)our ephemeral nature](https://open.spotify.com/album/607js0mkeZV2yuYgfOoDuk) | 3:13 |
 | 63 | [two\-headed calf](https://open.spotify.com/track/7gQAAeh0cLx0dC6BOBzRIi) | [Midrift](https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E) | [Leave](https://open.spotify.com/album/7L2GG5xoTC62iBNhZyAai7) | 2:53 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 120 | [COME WITH ME](https://open.spotify.com/track/53g6YzbgpyPFbQ4AISk1Yu) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [COME WITH ME](https://open.spotify.com/album/3g1hCDombl0mBfQdb7XxHN) | 2:34 |
 | 121 | [Mirror](https://open.spotify.com/track/2BEqWfZNSG8LF2YOXzcdW6) | [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [Mirror](https://open.spotify.com/album/3N1aePkaiRx1sgcvviZmBX) | 3:26 |
 
-Snapshot ID: `MCw3ZjUyOTNmZjRjZmFkZGMwMzkzOWVhYzk0OGU3MjNhNmU3YjFjMDUz`
+Snapshot ID: `MCxjYTZkMDAzZjU2ZDlhZTUzM2RmYzM0NDYwZGNjMjU1NjQ5NTNmMjRl`

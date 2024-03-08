@@ -1,12 +1,12 @@
 {
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Sagong(\uc0ac\uacf5)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 464754,
+  "num_followers": 464843,
   "original_name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTcwYTYwNmI1OWZkZDY5MmIwOGYzYTIwN2MyYzEwNjZjYzIyYjgw",
+  "snapshot_id": "MCwzY2NhZTc4YzJlNTgzYzI1OTNiNTdjNjYyMGFiZTY2NmZkMDNkMWVi",
   "tracks": [
     {
       "added_at": "2024-02-15 14:38:11",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-02-15 14:38:11",
       "album": {
-        "name": "Nonadaptation \ube44\uc801\uc751",
-        "url": "https://open.spotify.com/album/2mZUejhzFxhZu2Zd5XV3kX"
-      },
-      "artists": [
-        {
-          "name": "SE SO NEON",
-          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Winter \ub208",
-      "url": "https://open.spotify.com/track/4YVA21Db1AbASkjpXRhykz"
-    },
-    {
-      "added_at": "2024-02-15 14:38:11",
-      "album": {
         "name": "LOVE",
         "url": "https://open.spotify.com/album/7E0KQMrRuZRM0EcIPjlXSO"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 235746,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/0hx7Ee7zi8zft0gcv5BIcf"
+    },
+    {
+      "added_at": "2024-02-15 14:38:11",
+      "album": {
+        "name": "Nonadaptation \ube44\uc801\uc751",
+        "url": "https://open.spotify.com/album/2mZUejhzFxhZu2Zd5XV3kX"
+      },
+      "artists": [
+        {
+          "name": "SE SO NEON",
+          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Winter \ub208",
+      "url": "https://open.spotify.com/track/4YVA21Db1AbASkjpXRhykz"
     },
     {
       "added_at": "2024-02-15 14:38:11",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-02-15 14:38:11",
       "album": {
-        "name": "ULT",
-        "url": "https://open.spotify.com/album/0veNUIgNPdXFfJUmr3z7Lu"
-      },
-      "artists": [
-        {
-          "name": "LIM KIM",
-          "url": "https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv"
-        }
-      ],
-      "duration_ms": 146823,
-      "name": "ULT",
-      "url": "https://open.spotify.com/track/3XNXfOmvlsMxD3G5FWbzpj"
-    },
-    {
-      "added_at": "2024-02-15 14:38:11",
-      "album": {
         "name": "Esprit",
         "url": "https://open.spotify.com/album/61zYPYowUBeJGIqsmu6QBt"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 214918,
       "name": "Lustre",
       "url": "https://open.spotify.com/track/00VsYilvyHRZlTrBopBnCC"
+    },
+    {
+      "added_at": "2024-02-15 14:38:11",
+      "album": {
+        "name": "ULT",
+        "url": "https://open.spotify.com/album/0veNUIgNPdXFfJUmr3z7Lu"
+      },
+      "artists": [
+        {
+          "name": "LIM KIM",
+          "url": "https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv"
+        }
+      ],
+      "duration_ms": 146823,
+      "name": "ULT",
+      "url": "https://open.spotify.com/track/3XNXfOmvlsMxD3G5FWbzpj"
     },
     {
       "added_at": "2024-02-15 14:38:11",

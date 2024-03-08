@@ -1,7 +1,7 @@
 {
-  "2024-03-07": 1413076,
+  "2024-03-08": 1413420,
   "date_first_scraped": "2022-05-27",
-  "description": "vc ta com bafo",
+  "description": "quarta \u00e9 quase quinta que \u00e9 quase sexta f\u00e9 f\u00e9 f\u00e9",
   "name": "Hits da Internet",
   "tracks": [
     {
@@ -7778,6 +7778,32 @@
     },
     {
       "album": {
+        "name": "Tropa Do Pisa",
+        "url": "https://open.spotify.com/album/55rdHEbpvgrl0ghYgRY4ZS"
+      },
+      "artists": [
+        {
+          "name": "TrapLaudo",
+          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Tropa Do Pisa",
+      "url": "https://open.spotify.com/track/1mH3uSZus9IiMagMCJa4vB"
+    },
+    {
+      "album": {
         "name": "TU JOGA PRA TRAS TU ENCOSTA ENCOSTA vs NO PIQUE BBB (DJ DN O ASTRO Remix)",
         "url": "https://open.spotify.com/album/0w4hxUsI0uBLB7xJYG7P0o"
       },
@@ -8681,7 +8707,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 142151,
       "name": "Zona De Perigo",
       "url": "https://open.spotify.com/track/1jHgfC8T5KxUyC5Ldw6lk9"

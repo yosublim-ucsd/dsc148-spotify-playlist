@@ -1,12 +1,12 @@
 {
   "description": "New music from 21 Savage, Ye and Cardi B. ",
-  "num_followers": 15758139,
+  "num_followers": 15764264,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGRjZDU5OGZmMDhhOGNjM2RmYzJhNWUwZDU3MTJjYmNkODk1ODlh",
+  "snapshot_id": "MCw2NzVkNjBlYjMyODMzYzBhY2QyYTZhOGU0MmY5Nzg1ZmI2ZjBlZTRj",
   "tracks": [
     {
       "added_at": "2024-03-06 16:24:29",
@@ -187,6 +187,30 @@
       "duration_ms": 229938,
       "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
       "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"
+    },
+    {
+      "added_at": "2024-03-07 05:00:00",
+      "album": {
+        "name": "My Krazy Life",
+        "url": "https://open.spotify.com/album/6HzHon4QSFPGPFIjjlZN0n"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 235632,
+      "name": "My Nigga",
+      "url": "https://open.spotify.com/track/19OHDib8Jrqi3o2nm5lzdA"
     },
     {
       "added_at": "2024-03-06 16:24:29",

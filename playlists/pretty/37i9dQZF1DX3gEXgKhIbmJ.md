@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 
 > pra entrar e ficar na onda
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,770 likes - 54 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,779 likes - 54 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 | 24 | [Acesso](https://open.spotify.com/track/50DJ7gzjb5ZoNfZyh6JQB7) | [Bauê](https://open.spotify.com/artist/5AK8aNLKdYAhdjJni1iecn) | [Acesso](https://open.spotify.com/album/5wDZ8w72zU0MKc5bgodoYx) | 3:08 |
 | 25 | [Aumentando os Lucros](https://open.spotify.com/track/6flGT8gHgiS6anHceskTmP) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Thiago Sub](https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG), [6ee](https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW), [Zion](https://open.spotify.com/artist/4mzvw0V6YE2OkbXZmIXnh6) | [É Quem?](https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL) | 2:20 |
 | 26 | [Sem Medo](https://open.spotify.com/track/0e0CZnMjOgUPm0u8y2dkIH) | [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [O Menino do Cabelo Rosa](https://open.spotify.com/album/0zkILF7vLuScNU2SqLGr37) | 2:19 |
-| 27 | [É o paco ou berro?](https://open.spotify.com/track/18CtlrryJwqsvSOyd9GBim) | [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75), [Elipe](https://open.spotify.com/artist/5DYNCxrEXydchmfndMzzku) | [EVDC DELUXE](https://open.spotify.com/album/5BySpyh1QS9qQwHv1Ujaq4) | 3:04 |
+| 27 | [É o paco ou berro?](https://open.spotify.com/track/18CtlrryJwqsvSOyd9GBim) | [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75), [Elipe](https://open.spotify.com/artist/5DYNCxrEXydchmfndMzzku) | [EVDC DELUXE](https://open.spotify.com/album/5BySpyh1QS9qQwHv1Ujaq4) | 3:04 |
 | 28 | [Banho de Loja](https://open.spotify.com/track/3VJuiFZGErx4DqZxu0gMxW) | [Burn\-O](https://open.spotify.com/artist/2L8Zk7Y14wkqiiYQ3J53Sn) | [Banho de Loja](https://open.spotify.com/album/2AVDKtys5Gjq5n6JBxpUqp) | 2:26 |
 | 29 | [Momentâneo](https://open.spotify.com/track/7LnQQ9mdAz9KvbA4mGOwdm) | [tocha mc](https://open.spotify.com/artist/5Q7xswJypfPZvBjRMc0mW3), [NóizProd](https://open.spotify.com/artist/3ww1Cvu2JnTEqxpRQwlGGZ), [Young San](https://open.spotify.com/artist/5wMAlBMvbJBVF6fkwJ4BBb) | [Momentâneo](https://open.spotify.com/album/1ZZSiw9bzU1WZ9syPzVcJa) | 2:42 |
 | 30 | [Fanfic](https://open.spotify.com/track/16Ir3dL5UWiWZLoHLteDGu) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Laura Sette](https://open.spotify.com/artist/0MAXbFqd77wekpgo1nNUYc), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Fanfic](https://open.spotify.com/album/3NkH1qv483kYFZRTilS6IC) | 2:44 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 | 53 | [Twerk](https://open.spotify.com/track/1iHneRZXPvuNGBJCC32dPR) | [Brocasito](https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM) | [Matrix](https://open.spotify.com/album/7HMJeHkmIyCxRSHotWeJ2K) | 1:55 |
 | 54 | [G5](https://open.spotify.com/track/0EReA9hlAx4GmiNZzJMG1P) | [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po), [Enzo from the Block](https://open.spotify.com/artist/2cb6bVhjolxjqG8xXpn3G3) | [Zzz, Vol\. 2](https://open.spotify.com/album/5qg05BeqESDoMFCYZl3Od0) | 2:11 |
 
-Snapshot ID: `MCxkNzNhNWE0NzBkMWNhNjI0ZmVmMGI5NWE3NDFlODUzOTk1MjQzYmQ5`
+Snapshot ID: `MCxhYjBiMmYxM2Q3MzRiOTQ0MTY1YTE1YzZiYzViN2Y0Y2JmZGYyNzg2`

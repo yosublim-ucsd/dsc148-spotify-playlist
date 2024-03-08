@@ -288,7 +288,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 192866,
       "name": "Body to Body",
       "url": "https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL"
@@ -531,6 +531,28 @@
     },
     {
       "album": {
+        "name": "Dammi un'idea",
+        "url": "https://open.spotify.com/album/1Y6CC1upQq0zT8hsuhTHKj"
+      },
+      "artists": [
+        {
+          "name": "Bruno Belissimo",
+          "url": "https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI"
+        },
+        {
+          "name": "Whitemary",
+          "url": "https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201332,
+      "name": "Dammi un'idea",
+      "url": "https://open.spotify.com/track/7DrO38olLryjXBoxqKPqHN"
+    },
+    {
+      "album": {
         "name": "Outline",
         "url": "https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V"
       },
@@ -618,7 +640,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 335333,
       "name": "Dirty Talk",
       "url": "https://open.spotify.com/track/4CMKgb0qrIsVu202dmop15"
@@ -1484,6 +1506,24 @@
       "duration_ms": 354706,
       "name": "In My Dreams - Powerhouse Mix",
       "url": "https://open.spotify.com/track/7EJhHYYNg8dLzOba91HrgM"
+    },
+    {
+      "album": {
+        "name": "Insieme",
+        "url": "https://open.spotify.com/album/2UyUMOvrS4GzC8Zrc7UYLm"
+      },
+      "artists": [
+        {
+          "name": "Valentino Vivace",
+          "url": "https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185401,
+      "name": "Insieme",
+      "url": "https://open.spotify.com/track/4DSjwylMkecSMTG4Xxa0Bj"
     },
     {
       "album": {

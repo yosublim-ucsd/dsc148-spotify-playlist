@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-686 songs - 1 day 22 hr 15 min
+687 songs - 1 day 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Gluck: 妖精の踊り](https://open.spotify.com/track/3KCH3uAbvDwaEKdswsspgX) | [Christoph Willibald Gluck](https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM), [Hitomi Niikura](https://open.spotify.com/artist/1JFGO7YoBFo4lzQGLXy1CR) | [鳥の歌](https://open.spotify.com/album/2WrUZcTKVmFZdbatMmx9oB) | 2:37 | 2022-10-20 | 2022-12-02 |
 | [glued to the floor](https://open.spotify.com/track/20Y7AHrMDTxzOxMfw0jCv5) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [glued to the floor](https://open.spotify.com/album/0kA1PVu4d8eMmN0kc7EL9o) | 2:18 | 2023-04-13 | 2023-04-19 |
 | [Gnossiennes No.1](https://open.spotify.com/track/21xgZ4HM2fPswMVvVahr2D) | [E.サティ](https://open.spotify.com/artist/7MO19zTKkzsSwb0SLa8cxj), [武本京子](https://open.spotify.com/artist/2Q3iL2IV5ndSSof6FLdP5l) | [Full of Love](https://open.spotify.com/album/2Ape8tfPX4BpDqFyy2OGyU) | 3:26 | 2023-05-16 | 2023-07-14 |
+| [Goddess](https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Goddess](https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ) | 4:27 | 2024-03-07 |  |
 | [Gold](https://open.spotify.com/track/6RGrfHoY9vHkpkvsyGNCBx) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [ÁTTA](https://open.spotify.com/album/0PhjFcIDPt9cBRfYSJou3v) | 5:13 | 2023-06-15 | 2023-09-15 |
 | [Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/59XrtVk0rikGWU6plMniJF) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [J.S\. Bach: Goldberg Variations, BWV 988: Aria](https://open.spotify.com/album/2geJLd7c3hxTvwdlLZT79j) | 4:05 | 2023-07-27 | 2024-02-09 |
 | [Goldberg Variations, BWV 988: Var\. 13](https://open.spotify.com/track/44PyoxKfSik9qkyzz5kjP6) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [J.S\. Bach: Goldberg Variations, BWV 988: Var\. 13](https://open.spotify.com/album/61HBbCtK1rsOSUazQaHFY5) | 4:06 | 2023-08-24 | 2023-11-22 |
@@ -662,7 +663,7 @@
 | [平均律クラヴィア曲集1\-10 ホ短調, BWV 855a: プレリュード](https://open.spotify.com/track/7w1mosI1qd2wrTjKpLTdVO) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [シロティ](https://open.spotify.com/artist/5Cw1xnWej2I3kZEk0MqqH0), [上原琢矢](https://open.spotify.com/artist/2fKXyRn7lLoGf97tId4b85) | [シャコンヌ](https://open.spotify.com/album/4AQeEq5RqXlDt9PoxXEiM7) | 3:26 | 2022-12-01 |  |
 | [愛は死なず～『ラブ・ネバー・ダイ』より](https://open.spotify.com/track/5FJ24IGN3usoEy0tBd13MW) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [栗田博文](https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx), [Tokyo Philharmonic Orchestra](https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6), [石田泰尚](https://open.spotify.com/artist/2gWmsXfwLkLs12TIFIxj96) | [オーケストラで聴く、感動のミュージカル名曲集\-The Most Beautiful Melody 'Musical' インストゥルメンタル&カラオケ\-](https://open.spotify.com/album/2MotmDQaOGZiXGy2J1yF9E) | 6:48 | 2023-10-31 | 2024-01-17 |
 | [抱影](https://open.spotify.com/track/5kyoeSDY9BV5Cbq8CkLgoI) | [江﨑文武](https://open.spotify.com/artist/3AAwWUnp6ZdLgfin1hQYd2), [角銅真実](https://open.spotify.com/artist/6JsSDr5joM2nS6qE7OSPzQ) | [はじまりの夜](https://open.spotify.com/album/2a4fbJxLjZzfTlSloBMJxL) | 4:23 | 2023-05-30 | 2023-06-14 |
-| [新・ドキュメント 太平洋戦争 \- Main Theme Ver\. A](https://open.spotify.com/track/3TueRWHLseKcEnhn0k89Vi) | [Akira Senju](https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu) | [NHKスペシャル 新・ドキュメント 太平洋戦争 千住 明](https://open.spotify.com/album/46y3R2psVvaKb4CAE5pzIK) | 4:02 | 2023-11-07 |  |
+| [新・ドキュメント 太平洋戦争 \- Main Theme Ver\. A](https://open.spotify.com/track/3TueRWHLseKcEnhn0k89Vi) | [Akira Senju](https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu) | [NHKスペシャル 新・ドキュメント 太平洋戦争 千住 明](https://open.spotify.com/album/46y3R2psVvaKb4CAE5pzIK) | 4:02 | 2023-11-07 | 2024-03-08 |
 | [春よ、来い](https://open.spotify.com/track/6Omwpwl7DMVCgvyzdZJoYX) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU), [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [KIYOZUKA](https://open.spotify.com/album/6YsvJRT1Bhs3mOZuy6PqDQ) | 1:16 | 2022-12-22 | 2023-11-29 |
 | [時間と距離と僕らの旅 \- Rearrange](https://open.spotify.com/track/1HACQgKVGMD8ujdUSiBtl5) | [odol](https://open.spotify.com/artist/1JWciWrGdCTOWeycrjFWpS) | [時間と距離と僕らの旅 \(Rearrange\)](https://open.spotify.com/album/3fpf3mwrSsq3pTQw5LKskP) | 4:17 | 2023-03-21 | 2023-06-14 |
 | [最後](https://open.spotify.com/track/0qa0TiXSLBFtSwRYzoo7UL) | [SADFRANK](https://open.spotify.com/artist/2F4sUnzP850MX9jgOLgwuW) | [最後](https://open.spotify.com/album/1vORFEKjt7ipDV4VgxJptl) | 5:04 | 2023-02-07 | 2023-05-31 |

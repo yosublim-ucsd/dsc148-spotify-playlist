@@ -1,7 +1,7 @@
 {
-  "2024-03-07": 135243,
+  "2024-03-08": 135296,
   "date_first_scraped": "2023-03-26",
-  "description": "Jadi lebih produktif ditemani musik terkini hanya ada di Spotify.",
+  "description": "Tetap produktif menjelang bulan Ramadan bersama musik terkini. ",
   "name": "Lebih Produktif",
   "tracks": [
     {
@@ -1210,6 +1210,24 @@
     },
     {
       "album": {
+        "name": "Pengantar Purifikasi Pikir",
+        "url": "https://open.spotify.com/album/3pCz8FhvLwuXLgkJheTKQk"
+      },
+      "artists": [
+        {
+          "name": "Kunto Aji",
+          "url": "https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277692,
+      "name": "Jernih",
+      "url": "https://open.spotify.com/track/5YRKBYBlphckCllFczLzAR"
+    },
+    {
+      "album": {
         "name": "Meraih Bintang",
         "url": "https://open.spotify.com/album/4PO8qNb2v8Xef5ixuWZTRL"
       },
@@ -1355,6 +1373,24 @@
       "duration_ms": 270091,
       "name": "Kota Mati",
       "url": "https://open.spotify.com/track/3vFdDO110VGOjkegauFwHS"
+    },
+    {
+      "album": {
+        "name": "Ku Ingin Pisah",
+        "url": "https://open.spotify.com/album/3ngxVN1TATHxEYzefJPTQO"
+      },
+      "artists": [
+        {
+          "name": "Nabila Taqiyyah",
+          "url": "https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235335,
+      "name": "Ku Ingin Pisah",
+      "url": "https://open.spotify.com/track/1uy2DsaTtdBO9jBo7KBLWE"
     },
     {
       "album": {
@@ -1934,6 +1970,24 @@
     },
     {
       "album": {
+        "name": "penjaga hati",
+        "url": "https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a"
+      },
+      "artists": [
+        {
+          "name": "Nadhif Basalamah",
+          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260346,
+      "name": "penjaga hati",
+      "url": "https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO"
+    },
+    {
+      "album": {
         "name": "Perahu Kertas (Original Soundtrack)",
         "url": "https://open.spotify.com/album/7KKKg80jCzCksVtgRc88r6"
       },
@@ -2083,6 +2137,28 @@
       "duration_ms": 301368,
       "name": "Roman Picisan",
       "url": "https://open.spotify.com/track/47SkuKc4Po0JInI0JTtO61"
+    },
+    {
+      "album": {
+        "name": "Run Back To You",
+        "url": "https://open.spotify.com/album/1OEWnZJ9NPQ1U5mpWLPLza"
+      },
+      "artists": [
+        {
+          "name": "LAY",
+          "url": "https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9"
+        },
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188750,
+      "name": "Run Back To You",
+      "url": "https://open.spotify.com/track/0W6cB9dPUnsL5iKOpxuSAK"
     },
     {
       "album": {

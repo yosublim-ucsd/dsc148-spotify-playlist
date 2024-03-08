@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 63455,
+  "num_followers": 63469,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODAzYmY3ZDczMGQ3NDZkZjQwYmZkM2FkMjlmMzhlODNhZDk3MWU0",
+  "snapshot_id": "MCxmN2Y3ODExYWNhZTliYzJmZjYzMmE4N2E3ZTM3NDM5ODY1NWFlZGZl",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -259,6 +259,26 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Picture: Adana Twins",
+        "url": "https://open.spotify.com/album/7LeRETJbVIV65oGiA4I398"
+      },
+      "artists": [
+        {
+          "name": "Adana Twins",
+          "url": "https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4"
+        },
+        {
+          "name": "Glowal",
+          "url": "https://open.spotify.com/artist/4XCU9tk7hogxz1SRTvVXLJ"
+        }
+      ],
+      "duration_ms": 515086,
+      "name": "My Computer",
+      "url": "https://open.spotify.com/track/1gOXDP9vNetHU8O9wUxVEN"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Mexico (Punctual Remix)",
         "url": "https://open.spotify.com/album/4jn3zCmDMQJRNPZPwkr6Mq"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 385361,
       "name": "Blue Tuesday",
       "url": "https://open.spotify.com/track/2tFz3AlZ1GUacsccZgo2Mt"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Picture: Adana Twins",
-        "url": "https://open.spotify.com/album/7LeRETJbVIV65oGiA4I398"
-      },
-      "artists": [
-        {
-          "name": "Adana Twins",
-          "url": "https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4"
-        },
-        {
-          "name": "Glowal",
-          "url": "https://open.spotify.com/artist/4XCU9tk7hogxz1SRTvVXLJ"
-        }
-      ],
-      "duration_ms": 515086,
-      "name": "My Computer",
-      "url": "https://open.spotify.com/track/1gOXDP9vNetHU8O9wUxVEN"
     },
     {
       "added_at": "2021-08-27 15:45:01",

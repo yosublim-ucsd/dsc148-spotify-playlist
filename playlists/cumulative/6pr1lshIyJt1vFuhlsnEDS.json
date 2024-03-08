@@ -379,6 +379,28 @@
     },
     {
       "album": {
+        "name": "Bonafide (Metodi Hristov Remix)",
+        "url": "https://open.spotify.com/album/1jv047M2GaNKAI73hl1Zqg"
+      },
+      "artists": [
+        {
+          "name": "Karla Blum",
+          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
+        },
+        {
+          "name": "Metodi Hristov",
+          "url": "https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222653,
+      "name": "Bonafide - Metodi Hristov Remix",
+      "url": "https://open.spotify.com/track/6dTiQl2Amw6FOyMswCeiZO"
+    },
+    {
+      "album": {
         "name": "Broken",
         "url": "https://open.spotify.com/album/4dGWJQRYyJuu7ScBIMvj7B"
       },

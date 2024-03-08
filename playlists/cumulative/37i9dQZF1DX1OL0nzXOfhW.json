@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u6301\u7e8c\u767c\u6398\u4e16\u4e00\u8d85\u65b0\u8072\uff01Cover: KALAI \u5bb6\u9e97",
+  "description": "\u6301\u7e8c\u767c\u6398\u4e16\u4e00\u8d85\u65b0\u8072\uff01Cover: \u7559\u9999\u74caLau Heung King",
   "name": "RADAR HK",
   "tracks": [
     {
@@ -946,7 +946,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 204969,
       "name": "linger on",
       "url": "https://open.spotify.com/track/2lhsjZvatWKISlxvOTXQiz"
@@ -2111,6 +2111,24 @@
     },
     {
       "album": {
+        "name": "\u534a\u7a7a",
+        "url": "https://open.spotify.com/album/4u30oOR3tTkzO0QHrYteIu"
+      },
+      "artists": [
+        {
+          "name": "Lau Heung King",
+          "url": "https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266571,
+      "name": "\u534a\u7a7a",
+      "url": "https://open.spotify.com/track/3WQrsXin9ApgBiCvmbtfOg"
+    },
+    {
+      "album": {
         "name": "\u53ef\u5426\u4e00\u8d77\u5bc2\u5bde\u5230\u6700\u5f8c",
         "url": "https://open.spotify.com/album/4jII8Ll5dJ3XxSpHvvWk3t"
       },
@@ -2368,7 +2386,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 247136,
       "name": "\u5e74\u6708\u6f2b\u6f2b - \u96fb\u5f71\u300a\u5e74\u5c11\u65e5\u8a18\u300b\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/4X9Z19oJlxgR4G6i9hwCYZ"

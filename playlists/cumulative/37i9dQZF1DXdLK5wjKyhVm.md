@@ -4,7 +4,7 @@
 
 > Blissed out beats and head nodding grooves \- Relax, study and vibe.
 
-429 songs - 16 hr 27 min
+430 songs - 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Longing](https://open.spotify.com/track/05GlRiSvnaggtZNRUa2uC0) | [beatmon](https://open.spotify.com/artist/57e9NWmKBJnNbKmEf4qOrk) | [Longing](https://open.spotify.com/album/7bmRiZrMzbxwGPcvXw7sP6) | 1:55 | 2023-12-08 |  |
 | [Longing for summer](https://open.spotify.com/track/7I6VIP00dwIA97Ge5AK1YP) | [LOVICHI](https://open.spotify.com/artist/0RqNl8EYEK17F2EKwlBLfP) | [Longing for summer](https://open.spotify.com/album/4FGN3nnZpSUtQ0tbzccpmX) | 2:20 | 2023-09-29 | 2023-11-18 |
 | [Lookaway](https://open.spotify.com/track/4xO35IuJZP3Lq4dhZiSkML) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Blumen](https://open.spotify.com/artist/1iAP06My9fOKSWunfLK9FH) | [Lookaway](https://open.spotify.com/album/5d6ibTb5MOCG2lo8Hg0w0h) | 2:33 | 2022-09-09 | 2023-09-05 |
+| [looking back](https://open.spotify.com/track/0dxMj3mOuLH0igqGZQYEPe) | [nearly monday](https://open.spotify.com/artist/77lm1CStze3sAtsBUvW2Rm) | [looking back](https://open.spotify.com/album/1MgY24AwMIAt8E6w89K9Rq) | 2:10 | 2024-03-08 |  |
 | [Loose Changes](https://open.spotify.com/track/2TwnlyZK8MUipdASFzPSPl) | [sunala.](https://open.spotify.com/artist/4hBM2zmhhFPO2aKD5cHtJl) | [Loose Changes](https://open.spotify.com/album/6hW0KKfZpxIDwlSQDbE0Zo) | 2:08 | 2023-09-29 |  |
 | [Lost In Space](https://open.spotify.com/track/2uvhCNVrXgoOXASOCzmRQI) | [MTZ](https://open.spotify.com/artist/2YNThgoYF3dCOibVNDI5A6) | [Lost In Space](https://open.spotify.com/album/3zAQKOKhvgW3lRxwubxKev) | 2:01 | 2023-01-06 | 2023-09-22 |
 | [Lost Without You](https://open.spotify.com/track/1AqN43ZIZzz74aAtnsovZ1) | [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Lost Without You](https://open.spotify.com/album/34dYkYAHSlwZg94wg8UE90) | 2:38 | 2023-11-17 |  |

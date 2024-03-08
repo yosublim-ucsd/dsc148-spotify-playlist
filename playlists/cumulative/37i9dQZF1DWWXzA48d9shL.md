@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: Scrim from $uicideboy$
 
-596 songs - 23 hr 31 min
+597 songs - 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,6 +311,7 @@
 | [JUST DANCE](https://open.spotify.com/track/2GSUNdq88OmOQnWTO8yhe1) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7), [Prompto](https://open.spotify.com/artist/55l8XOO8frgVTbpedazbWo) | [JUST DANCE](https://open.spotify.com/album/7gk0gpbOy0YP1nOlDAysCv) | 1:46 | 2021-10-01 | 2022-05-08 |
 | [Kayako](https://open.spotify.com/track/7k3muSX9HBE63Vi1yZtLiC) | [Numb$kull](https://open.spotify.com/artist/7wQoo6BKPCAnSZRgE3qjp2) | [Kayako](https://open.spotify.com/album/6a4Jm2VxAAj5EPLzb7TFmf) | 3:07 | 2022-08-26 | 2022-10-29 |
 | [Kick Rocks \(feat\. Lil Darkie\)](https://open.spotify.com/track/3E6coZX2cGtJVVfC3qeDwQ) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F), [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [Kick Rocks \(feat\. Lil Darkie\)](https://open.spotify.com/album/6C0f36HZNOlyU5w1v4g1Ch) | 2:51 | 2022-07-29 | 2023-12-30 |
+| [KILL ALL](https://open.spotify.com/track/7LsRygBuKonjbIuATZVEgf) | [ZODIVK](https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or), [Kill Dyll](https://open.spotify.com/artist/1r5YzslA0QwyIZISgHJrU7) | [KILL ALL](https://open.spotify.com/album/1ece0jN4ViEKMpqcl4ObjO) | 1:48 | 2024-03-07 |  |
 | [KILL EM BODY](https://open.spotify.com/track/1NolQUklOhveTHpi5DqOct) | [NIKKO](https://open.spotify.com/artist/3dnOnDLzcymqwDP7HMEFAC), [Daegho](https://open.spotify.com/artist/1HyuVyBL4O5dvdalaDhjwS), [MVRTYR](https://open.spotify.com/artist/3xDaDai6irdnH3pLamd9lQ), [Xelishurt](https://open.spotify.com/artist/3BXu6pDheQBfSmlIOkvGqz) | [KILL EM BODY](https://open.spotify.com/album/39JVRr1HIaU8hzos7mCba3) | 3:48 | 2022-09-02 | 2023-05-20 |
 | [KILL EM BODY](https://open.spotify.com/track/7oIqB7dY8LY9hG08UPe1Qm) | [NIKKO](https://open.spotify.com/artist/3dnOnDLzcymqwDP7HMEFAC), [Daegho](https://open.spotify.com/artist/1HyuVyBL4O5dvdalaDhjwS), [MVRTYR](https://open.spotify.com/artist/3xDaDai6irdnH3pLamd9lQ), [Xelishurt](https://open.spotify.com/artist/3BXu6pDheQBfSmlIOkvGqz) | [KILL EM BODY](https://open.spotify.com/album/1nuHNtS3tt47GoMJqy9LL6) | 3:48 | 2022-08-26 | 2022-12-16 |
 | [KILLASNITCH.COM](https://open.spotify.com/track/7kKPew58PQ6s5iFjHzbQ9L) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [KILLASNITCH.COM](https://open.spotify.com/album/7tFt2junjaFqbWQqeouMjZ) | 2:17 | 2023-03-03 | 2023-05-06 |
@@ -502,7 +503,7 @@
 | [Staring At The Stars](https://open.spotify.com/track/4s41cAorvNW4PdeioOnlzu) | [Chris Travis](https://open.spotify.com/artist/6TxY5T8v9RjF7Ry4XQvWT5) | [Staring At The Stars](https://open.spotify.com/album/53WdsNNa7sAHZcymBMDIpb) | 2:34 | 2024-01-12 | 2024-02-24 |
 | [Static](https://open.spotify.com/track/6Itf6EBUn3NZA1ZKkiEurI) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx) | [Static](https://open.spotify.com/album/5j9vFsTPY5wKRdmZcuoUN6) | 2:17 | 2021-09-17 | 2022-07-27 |
 | [STATIC SHOCC](https://open.spotify.com/track/0w8rFaLu8fDDdYchCtSTa2) | [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN), [Bad Smith](https://open.spotify.com/artist/5ENi6vIaG2GiuMP9ykUcMw), [Daegho](https://open.spotify.com/artist/1HyuVyBL4O5dvdalaDhjwS) | [STATIC SHOCC](https://open.spotify.com/album/5BaWNtN23bX8x0hfgCf2WZ) | 2:08 | 2022-05-20 | 2022-07-27 |
-| [Step Back!](https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [Step Back!](https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl) | 2:30 | 2022-09-02 |  |
+| [Step Back!](https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [Step Back!](https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl) | 2:30 | 2022-09-02 | 2024-03-08 |
 | [Stick Out When I'm Live](https://open.spotify.com/track/45DchKb8vLBdbF6MNZdjPa) | [99zed](https://open.spotify.com/artist/7kjqkL4lIUyxO4HLzpRYo9) | [Stick Out When I'm Live](https://open.spotify.com/album/4MzYFpjiBtNyLGTyi72wUs) | 2:23 | 2023-04-07 | 2023-08-05 |
 | [Stick Out When I'm Live](https://open.spotify.com/track/7MINVWP52eYRpaKZeMrjVP) | [99zed](https://open.spotify.com/artist/7kjqkL4lIUyxO4HLzpRYo9) | [Stick Out When I'm Live](https://open.spotify.com/album/5ju3Ng1zbjb4LjVxxnupAh) | 2:23 | 2023-04-07 | 2023-06-30 |
 | [STILL INTACT](https://open.spotify.com/track/32DrbFp2vhzY9ENDNLBoOP) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0) | [STILL INTACT](https://open.spotify.com/album/2R484CueaEoMXI9z9CnICx) | 3:07 | 2023-10-16 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/playlist/37i9dQZF1EFFNsuSPMFRwX?si=1050728f1f5d4fd2">INK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,375 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,760 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 39 | [How Do You Know](https://open.spotify.com/track/0l47o8tEeaEFffNXTzP8SG) | [Anna Bergendahl](https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9) | [How Do You Know](https://open.spotify.com/album/1XoHk41Co8CNEcqO5oKbEu) | 2:46 |
 | 40 | [It Hurts Too Much To Speak](https://open.spotify.com/track/1UlxaIu70eSC0AjpiCUDdw) | [Lina Cooper](https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH) | [It Hurts Too Much To Speak](https://open.spotify.com/album/09a0hu6IvTewtfmlIbUs3m) | 1:45 |
 
-Snapshot ID: `MCxkM2Y5N2E1ZmVmZDA5MWJjZjRhYWNmYWJhMjJiMDdjY2E3YmI2MjFj`
+Snapshot ID: `MCw3YjZhMWZhYjJkNjRhNDk4OWZiY2M1YjI4YjIzODE2MjQ4ZDU5NWY4`

@@ -1,5 +1,5 @@
 {
-  "2024-03-07": 225229,
+  "2024-03-08": 225240,
   "date_first_scraped": "2022-05-12",
   "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: Kassimi",
   "name": "Raptopia",
@@ -4712,6 +4712,24 @@
     },
     {
       "album": {
+        "name": "CRIATUR (From the Netflix Rap Show \u201cNuova Scena\u201d)",
+        "url": "https://open.spotify.com/album/4v2vbwWe9ongpkfgLJDbir"
+      },
+      "artists": [
+        {
+          "name": "Kid Lost",
+          "url": "https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174532,
+      "name": "CRIATUR (From the Netflix Rap Show \u201cNuova Scena\u201d)",
+      "url": "https://open.spotify.com/track/147hzs261FAZBpwfQkOUCL"
+    },
+    {
+      "album": {
         "name": "Cristiano Rollando",
         "url": "https://open.spotify.com/album/1feR86V6FtyF0PWKVZxqEb"
       },
@@ -5819,6 +5837,24 @@
       "duration_ms": 89379,
       "name": "EKL #1",
       "url": "https://open.spotify.com/track/7AUfTQ8fSIGZ7wSB20k987"
+    },
+    {
+      "album": {
+        "name": "EL MATADOR (From the Netflix Rap Show \u201cNuova Scena\u201d)",
+        "url": "https://open.spotify.com/album/6UDBnsOcte6GwhTBLZ75kK"
+      },
+      "artists": [
+        {
+          "name": "Elmatadormc7",
+          "url": "https://open.spotify.com/artist/7516jrFSCN9rahmTvPAYUu"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168960,
+      "name": "EL MATADOR (From the Netflix Rap Show \u201cNuova Scena\u201d)",
+      "url": "https://open.spotify.com/track/11HeOLoW2cnWZzGHWnllYq"
     },
     {
       "album": {
@@ -10423,7 +10459,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 122790,
       "name": "LUCE",
       "url": "https://open.spotify.com/track/7h8114132hLsh0gfAoJCC2"
@@ -15557,7 +15593,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 138484,
       "name": "Realness",
       "url": "https://open.spotify.com/track/7bq0EaS7UDPUQGQTx0jeHn"

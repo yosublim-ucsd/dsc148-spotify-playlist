@@ -1,12 +1,12 @@
 {
   "description": "We outside. Cover: Valiant",
-  "num_followers": 431351,
+  "num_followers": 431422,
   "original_name": "Dancehall Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzA1MGY1Zjg0NDE0MWNjMzUyY2QwMjM5ZGY1ODhjNDhhMWM0ZWU4",
+  "snapshot_id": "MCw2MzRlMmE2NTRkMDY0N2E2OTExYTRjMmI2Y2JmMTA5OWU3ZDQ2OTNl",
   "tracks": [
     {
       "added_at": "2023-11-17 12:46:59",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
+        "name": "Toast (Remix)",
+        "url": "https://open.spotify.com/album/24oZPmdzVJ7X5agJbGpK8d"
+      },
+      "artists": [
+        {
+          "name": "J Star",
+          "url": "https://open.spotify.com/artist/4XoVFXRNNMzxuEpxRt2lqp"
+        }
+      ],
+      "duration_ms": 187245,
+      "name": "Toast - Remix",
+      "url": "https://open.spotify.com/track/5Nc0d8sxVWjUoH85NuCiJU"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
         "name": "Whine & Kotch",
         "url": "https://open.spotify.com/album/6rWFf1oVidy2nKpf1w53bQ"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 217200,
       "name": "Whine & Kotch",
       "url": "https://open.spotify.com/track/5o5yQsdZblzaqzgBFDVJTv"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
-        "name": "Toast (Remix)",
-        "url": "https://open.spotify.com/album/24oZPmdzVJ7X5agJbGpK8d"
-      },
-      "artists": [
-        {
-          "name": "J Star",
-          "url": "https://open.spotify.com/artist/4XoVFXRNNMzxuEpxRt2lqp"
-        }
-      ],
-      "duration_ms": 187245,
-      "name": "Toast - Remix",
-      "url": "https://open.spotify.com/track/5Nc0d8sxVWjUoH85NuCiJU"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1107,18 +1107,22 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Dunce Cheque",
-        "url": "https://open.spotify.com/album/0hLZJMZkIlh0dSPO39HUWi"
+        "name": "Tun Di Ada Way",
+        "url": "https://open.spotify.com/album/4pXA95FW7Rzo9UEdsEBvSw"
       },
       "artists": [
         {
-          "name": "Valiant",
-          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+          "name": "IWaata",
+          "url": "https://open.spotify.com/artist/2xtVXoJRIMnX1UAmOCrHrB"
+        },
+        {
+          "name": "DethWrld",
+          "url": "https://open.spotify.com/artist/5CKjN61fO5PS1OxO2besVu"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Dunce Cheque",
-      "url": "https://open.spotify.com/track/4ifFhV3uG87Gc00h5Gn3qp"
+      "duration_ms": 155221,
+      "name": "Tun Di Ada Way",
+      "url": "https://open.spotify.com/track/24TFLvaGCWr9dLaEQHjmhy"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1139,22 +1143,18 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Tun Di Ada Way",
-        "url": "https://open.spotify.com/album/4pXA95FW7Rzo9UEdsEBvSw"
+        "name": "Dunce Cheque",
+        "url": "https://open.spotify.com/album/0hLZJMZkIlh0dSPO39HUWi"
       },
       "artists": [
         {
-          "name": "IWaata",
-          "url": "https://open.spotify.com/artist/2xtVXoJRIMnX1UAmOCrHrB"
-        },
-        {
-          "name": "DethWrld",
-          "url": "https://open.spotify.com/artist/5CKjN61fO5PS1OxO2besVu"
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
         }
       ],
-      "duration_ms": 155221,
-      "name": "Tun Di Ada Way",
-      "url": "https://open.spotify.com/track/24TFLvaGCWr9dLaEQHjmhy"
+      "duration_ms": 156000,
+      "name": "Dunce Cheque",
+      "url": "https://open.spotify.com/track/4ifFhV3uG87Gc00h5Gn3qp"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Narcissistic",
-        "url": "https://open.spotify.com/album/6usBUly1OQm06qf4jY4FEz"
-      },
-      "artists": [
-        {
-          "name": "Valiant",
-          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
-        },
-        {
-          "name": "Stalk Ashley",
-          "url": "https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Narcissistic",
-      "url": "https://open.spotify.com/track/62gv0hzbDQGDD9fy8AHTtb"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
         "name": "Maestro",
         "url": "https://open.spotify.com/album/6D9fr78fZr3H4UA8eEaSv1"
       },
@@ -1243,6 +1223,26 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
+        "name": "Narcissistic",
+        "url": "https://open.spotify.com/album/6usBUly1OQm06qf4jY4FEz"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        },
+        {
+          "name": "Stalk Ashley",
+          "url": "https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Narcissistic",
+      "url": "https://open.spotify.com/track/62gv0hzbDQGDD9fy8AHTtb"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
         "name": "Brik Pan Brik",
         "url": "https://open.spotify.com/album/3L6LtJCp5c3O3X7K2NMkDW"
       },
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/5Zg5KiHgz1YoToU23hTpsZ"
-      },
-      "artists": [
-        {
-          "name": "Skeng",
-          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
-        }
-      ],
-      "duration_ms": 144076,
-      "name": "23",
-      "url": "https://open.spotify.com/track/6OhkL5aQSgWJvK8LaF1Tp9"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
         "name": "VENT",
         "url": "https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 240000,
       "name": "Call Me If",
       "url": "https://open.spotify.com/track/7LzpbhQyI2HIyk73V8UE6r"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/5Zg5KiHgz1YoToU23hTpsZ"
+      },
+      "artists": [
+        {
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+        }
+      ],
+      "duration_ms": 144076,
+      "name": "23",
+      "url": "https://open.spotify.com/track/6OhkL5aQSgWJvK8LaF1Tp9"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1323,6 +1323,22 @@
       "duration_ms": 213600,
       "name": "Romping Shop (feat. Spice)",
       "url": "https://open.spotify.com/track/6D7jtD4GbpX1ujF1KqPr7Y"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/1WWXhQfZhwZR67iLJ9rBI2"
+      },
+      "artists": [
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        }
+      ],
+      "duration_ms": 217106,
+      "name": "King Of The Dancehall",
+      "url": "https://open.spotify.com/track/2vACumvzzT2ZngO2p7i3Gu"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1375,18 +1391,18 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Back To Basics",
-        "url": "https://open.spotify.com/album/1WWXhQfZhwZR67iLJ9rBI2"
+        "name": "Sha La La (Sunday Mawnin)",
+        "url": "https://open.spotify.com/album/3L0dENcGOMZcR67uhWwPNq"
       },
       "artists": [
         {
-          "name": "Beenie Man",
-          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
         }
       ],
-      "duration_ms": 217106,
-      "name": "King Of The Dancehall",
-      "url": "https://open.spotify.com/track/2vACumvzzT2ZngO2p7i3Gu"
+      "duration_ms": 156842,
+      "name": "Sha La La (Sunday Mawnin)",
+      "url": "https://open.spotify.com/track/4O4Qe2u31BEqwggZBwYxmw"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1423,22 +1439,6 @@
       "duration_ms": 207157,
       "name": "Breaking News",
       "url": "https://open.spotify.com/track/48OnqvjzYG8RYuyjXGquDg"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
-        "name": "Sha La La (Sunday Mawnin)",
-        "url": "https://open.spotify.com/album/3L0dENcGOMZcR67uhWwPNq"
-      },
-      "artists": [
-        {
-          "name": "Skeng",
-          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
-        }
-      ],
-      "duration_ms": 156842,
-      "name": "Sha La La (Sunday Mawnin)",
-      "url": "https://open.spotify.com/track/4O4Qe2u31BEqwggZBwYxmw"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Settle Down (Destiny)",
-        "url": "https://open.spotify.com/album/5wqSokkE06joXVP6Pe3tlf"
+        "name": "Verified Choppa 2",
+        "url": "https://open.spotify.com/album/1sQEzAFCgF3CnNCTISsZSE"
       },
       "artists": [
         {
-          "name": "Mavado",
-          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
+          "name": "Marksman",
+          "url": "https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR"
         }
       ],
-      "duration_ms": 189813,
-      "name": "Settle Down (Destiny)",
-      "url": "https://open.spotify.com/track/3No90yqhFHg1vcFCHrCR6b"
+      "duration_ms": 139093,
+      "name": "Verified Choppa 2",
+      "url": "https://open.spotify.com/track/7FEpKqQvTaVUYabWIsDLlL"
     }
   ],
   "unique_name": "Dancehall Party",

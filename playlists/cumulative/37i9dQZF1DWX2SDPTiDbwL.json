@@ -590,10 +590,28 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 212687,
       "name": "Flowers of Genzano",
       "url": "https://open.spotify.com/track/4WnBckNWhg7a5kgbfWPGCr"
+    },
+    {
+      "album": {
+        "name": "Flowers of Genzano",
+        "url": "https://open.spotify.com/album/7ApW1Ydp8x4ZcApid1rNMy"
+      },
+      "artists": [
+        {
+          "name": "Armand de Paris",
+          "url": "https://open.spotify.com/artist/2DoqtOrY51c1iTxYnZN9sk"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212687,
+      "name": "Flowers of Genzano",
+      "url": "https://open.spotify.com/track/7AFWXDnyopsDfGcdkRMtLZ"
     },
     {
       "album": {

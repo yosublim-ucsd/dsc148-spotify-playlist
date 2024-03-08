@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNrnYO4HTko.md) - [plain]
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the <a href="https://artists.spotify.com/songwriter/2M9tzAw4sMHnOJ58l5uo82">songwriter's</a> own covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 973 likes - 92 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 972 likes - 92 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNrnYO4HTko.md) - [plain]
 | 30 | [Respect](https://open.spotify.com/track/5yG5YYbEgo5chhONO4k7tR) | [Adeva](https://open.spotify.com/artist/3zSxZFUKZEYmEpHkwZKXzQ) | [Adeva](https://open.spotify.com/album/51QEoKO6qXijBqpPJRNcNU) | 4:00 |
 | 31 | [Hard To Handle](https://open.spotify.com/track/2o8JdqBkbcZl3MgbyUloHQ) | [The Commitments](https://open.spotify.com/artist/5kiBy7FO5L4ywMz1xF70PX) | [The Commitments](https://open.spotify.com/album/0oApAGRZuXmvwR0tUmJWLL) | 2:22 |
 | 32 | [Hard to Handle](https://open.spotify.com/track/3WkeHLynlGE1XyMs2EX8So) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Tony Joe](https://open.spotify.com/album/3HpWoDuGoMhSFjF9LXh3wX) | 2:53 |
-| 33 | [Hard to Handle \- 2001 Remaster](https://open.spotify.com/track/34eaklDr2vqwS8L3LZvEB6) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [History of the Grateful Dead, Vol\. 1 \(Bear's Choice\)](https://open.spotify.com/album/5AShxlldX1DRSejBuyZmSG) | 6:15 |
+| 33 | [Hard to Handle \- Live at Fillmore East, New York City, NY February 14, 1970; 2001 Remaster](https://open.spotify.com/track/34eaklDr2vqwS8L3LZvEB6) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [History of the Grateful Dead, Vol\. 1 \(Bear's Choice\)](https://open.spotify.com/album/5AShxlldX1DRSejBuyZmSG) | 6:15 |
 | 34 | [Hard To Handle](https://open.spotify.com/track/0XF61oXEMnS3XpznZyULVZ) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Mighty High](https://open.spotify.com/album/1heM3Hu4mryBipG5KGNyXC) | 4:10 |
 | 35 | [Hard to Handle](https://open.spotify.com/track/7quoLFIx0ky1XwyuGDoUPQ) | [King Floyd](https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz) | [Choice Cuts](https://open.spotify.com/album/6omfXjVxM6zIroFzyHjNkY) | 2:25 |
 | 36 | [Hard To Handle](https://open.spotify.com/track/6LAGaogJVblOLdwNncFUap) | [Great White](https://open.spotify.com/artist/6ZPbX2Lxd40e2UVkXpyxvI) | [The Essential Great White](https://open.spotify.com/album/228XRJX1KsGFjgtqbld8d4) | 3:14 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNrnYO4HTko.md) - [plain]
 | 91 | [Sweet Soul Music](https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Sweet Soul Music](https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC) | 2:21 |
 | 92 | [Where You Lead Me](https://open.spotify.com/track/7CQfHbaz8di8UFbayDCRCl) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Sweet Soul Music](https://open.spotify.com/album/6K1TG5C0rzi1tfNEmUI4CY) | 2:29 |
 
-Snapshot ID: `MCw5OGViMmUwYzQyYjgxZjNiZDllOWQzNTRjMGMxZDBjNzIwODk0M2U5`
+Snapshot ID: `MCw5YTk3YTRkZjJhOTc1NTQwMjc1NTFhZjE4NGU2NmQ0M2MyZjA1YWVl`

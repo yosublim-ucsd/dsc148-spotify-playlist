@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Simia",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Liv del Estal",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -132,6 +132,24 @@
       "duration_ms": 365866,
       "name": "Aloha Baby",
       "url": "https://open.spotify.com/track/6U3pRWlzTqWbjBjBHfIvEI"
+    },
+    {
+      "album": {
+        "name": "Amour Scandaleux",
+        "url": "https://open.spotify.com/album/499lMyd1cf4i5c98NkOUWF"
+      },
+      "artists": [
+        {
+          "name": "Liv del Estal",
+          "url": "https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192720,
+      "name": "Amour Scandaleux",
+      "url": "https://open.spotify.com/track/0ffjGmdQAMy2JLxI3vyuHG"
     },
     {
       "album": {
@@ -708,7 +726,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 130311,
       "name": "fermer les yeux",
       "url": "https://open.spotify.com/track/71lrP6Unh3jKzRDyTPU6ov"
@@ -1771,6 +1789,24 @@
     },
     {
       "album": {
+        "name": "Requin",
+        "url": "https://open.spotify.com/album/6vDrJh1nHKv9iLPUFVVvgs"
+      },
+      "artists": [
+        {
+          "name": "Akira & le Sabbat",
+          "url": "https://open.spotify.com/artist/1beqcw5P0wds8IzLuuAxZp"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158026,
+      "name": "Requin",
+      "url": "https://open.spotify.com/track/3ucY4VVFz8fmM1RyfxOlD1"
+    },
+    {
+      "album": {
         "name": "Resto Basket",
         "url": "https://open.spotify.com/album/6Tg1oD0Qo1hmVytzqvd96i"
       },
@@ -2168,7 +2204,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 165500,
       "name": "Tovsk",
       "url": "https://open.spotify.com/track/3eE3crzsKJ2PaNQ8Ql0nzD"

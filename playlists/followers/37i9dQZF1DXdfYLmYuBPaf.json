@@ -1,5 +1,5 @@
 {
-  "2024-03-07": 30311,
+  "2024-03-08": 30326,
   "date_first_scraped": "2021-12-28",
   "description": "Reggae tracks from the Arab world. Cover: <a href=\"spotify:artist:6Gej8kFQeKbjY7dS9HXu1w\">Ahmed Ben Ali</a>",
   "name": "Arab Reggae",
@@ -436,13 +436,17 @@
     },
     {
       "album": {
-        "name": "General Suleiman - Single",
+        "name": "General Suleiman",
         "url": "https://open.spotify.com/album/3v9aU2QPhQOcDQYt06WGmX"
       },
       "artists": [
         {
           "name": "Zeid and the Wings",
           "url": "https://open.spotify.com/artist/262WKWZkp6ZpLUyxOVyPZi"
+        },
+        {
+          "name": "Zeid Hamdan",
+          "url": "https://open.spotify.com/artist/70z9FptZNtsoQ8OeB3p9ks"
         }
       ],
       "date_added": "2021-08-11",

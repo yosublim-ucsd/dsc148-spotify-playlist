@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Emma Peters",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : ANA\u00cfS MVA",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Bates Motel",
+        "url": "https://open.spotify.com/album/6Hotowgzqgg36cK3KAokNY"
+      },
+      "artists": [
+        {
+          "name": "June The Girl",
+          "url": "https://open.spotify.com/artist/5YAuSUk0Vn6sZBId4I9cni"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145208,
+      "name": "Bates Motel",
+      "url": "https://open.spotify.com/track/6qW69hFqGopaoI2TQGxE1z"
+    },
+    {
+      "album": {
         "name": "bbtumadores",
         "url": "https://open.spotify.com/album/4WmnQJL9ALfQOetoBXUpdZ"
       },
@@ -268,7 +286,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 160648,
       "name": "bbtumadores",
       "url": "https://open.spotify.com/track/5yqoaf3rsnWWeWhYWVQP17"
@@ -617,6 +635,24 @@
     },
     {
       "album": {
+        "name": "Crises d'angoisse",
+        "url": "https://open.spotify.com/album/3YplunRHBWjCsiy3TIgf5T"
+      },
+      "artists": [
+        {
+          "name": "ANA\u00cfS MVA",
+          "url": "https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152336,
+      "name": "Crises d'angoisse",
+      "url": "https://open.spotify.com/track/4HFAZTPBdCFuUnSS57Syyx"
+    },
+    {
+      "album": {
         "name": "La Travers\u00e9e du D\u00e9sir",
         "url": "https://open.spotify.com/album/3KYtykOTlAZhuKcinFjMi3"
       },
@@ -700,7 +736,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 229400,
       "name": "Destin",
       "url": "https://open.spotify.com/track/32sbhu9nAOqDC16fuAIvf6"
@@ -1068,7 +1104,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 159920,
       "name": "J'aimerais danser avec toi",
       "url": "https://open.spotify.com/track/1fWvBuZBG7AomF8Qk27vMM"
@@ -1086,7 +1122,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 179760,
       "name": "J'me barre",
       "url": "https://open.spotify.com/track/2ZkWEkVDL73dSNAv21aa0B"
@@ -1484,6 +1520,24 @@
       "duration_ms": 176250,
       "name": "Ma vie",
       "url": "https://open.spotify.com/track/2DDZ4FdbuEaTlytVpVzY31"
+    },
+    {
+      "album": {
+        "name": "Curriculum vitae",
+        "url": "https://open.spotify.com/album/1dLy2Ga5RBZJXqx9pGVVbF"
+      },
+      "artists": [
+        {
+          "name": "Lancelot",
+          "url": "https://open.spotify.com/artist/2h6HFDlZrXhfMDob23obTs"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211255,
+      "name": "Madame",
+      "url": "https://open.spotify.com/track/3jVyvWR2utzufpdw2ZoHkT"
     },
     {
       "album": {
@@ -2272,7 +2326,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 178000,
       "name": "Souvenirs",
       "url": "https://open.spotify.com/track/6CLY3RUrhyQNVYV8J1dQIg"
@@ -2290,7 +2344,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 179946,
       "name": "Spoon",
       "url": "https://open.spotify.com/track/4lrByaHULAk1oFuKI6rOsA"

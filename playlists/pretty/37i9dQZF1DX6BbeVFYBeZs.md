@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 
 > The beautiful sound of guitar to help you wind down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,645 likes - 201 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,677 likes - 201 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 | 94 | [Lagoa do Fogo](https://open.spotify.com/track/7rYXdXdtCSLjmZzecpXkgg) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Lagoa do Fogo](https://open.spotify.com/album/09OR2Jo6jK0KxEzTpz74ww) | 2:50 |
 | 95 | [Up North](https://open.spotify.com/track/6CGHSZ3uVPuy12IhQIp3ke) | [Hannah Westman](https://open.spotify.com/artist/0fRVato4gM8ssGJnXoV6dS) | [Up North](https://open.spotify.com/album/7hbIaioWBfd5ynDdrXzxH1) | 2:51 |
 | 96 | [Ischia](https://open.spotify.com/track/5WjsMDJyaYen96JYl5dCM4) | [Neve Baker](https://open.spotify.com/artist/40E7LcjmJufJCHiaxXzBfT) | [Ischia](https://open.spotify.com/album/2F5K4I3EnX9qOBqp4VqvO6) | 2:34 |
-| 97 | [Stockholm Waltz](https://open.spotify.com/track/4qH4Otl7cbyUjg7kshFzUr) | [Julian Vigil](https://open.spotify.com/artist/37iIAObpTKbDOZ9BjSrmMv) | [Stockholm Waltz](https://open.spotify.com/album/0Vl8Nl9s21QHz3fSk3U623) | 2:20 |
+| 97 | [Stockholm Waltz](https://open.spotify.com/track/28oHpnRPMxVcrXVmd4VqFj) | [Julian Vigil](https://open.spotify.com/artist/37iIAObpTKbDOZ9BjSrmMv) | [Stockholm Waltz](https://open.spotify.com/album/7ELKIYBbXhI8IG8vdZTFTg) | 2:20 |
 | 98 | [Words Are Poor](https://open.spotify.com/track/0cplAz2yKmEDkb2raqy6xF) | [Aurelia](https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA) | [Words Are Poor](https://open.spotify.com/album/3kR43BKgFDcHsRwhrkz26S) | 3:58 |
 | 99 | [A Small Benefit](https://open.spotify.com/track/6fAbcismuIy0lskW32yURN) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [A Small Benefit](https://open.spotify.com/album/3rcRBHjc26uKB0H5Nf4QKp) | 3:11 |
 | 100 | [Maple Street](https://open.spotify.com/track/5GsNfOialI5ZsqmsuZ57CH) | [Duncan Bowie](https://open.spotify.com/artist/5q6rc3smUDwHeGbrZqC1mm) | [Maple Street](https://open.spotify.com/album/2slEEFLv6zCH9BxsZWXNGc) | 2:33 |
@@ -147,7 +147,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 | 137 | [Poems](https://open.spotify.com/track/2Q6S3qdjXAz6Gl83N7kVl8) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Poems](https://open.spotify.com/album/46UpqsSr4A8LuQ2eTF1fWH) | 2:26 |
 | 138 | [la Vigilia del búho](https://open.spotify.com/track/42WlKjbT3ZtIZItjBH3ZkF) | [Emanuel Costa](https://open.spotify.com/artist/6iQweq1LCgRS4IEuTzRHQJ) | [la Vigilia del búho](https://open.spotify.com/album/0Tmhf4JVqsy6vvfY6hZjfZ) | 2:17 |
 | 139 | [Día Fácil](https://open.spotify.com/track/3Yz1SZXphecIMZcKjdtqFL) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Día Fácil](https://open.spotify.com/album/18idEnRzxpLkVIZv8ETBAb) | 3:01 |
-| 140 | [Zorica](https://open.spotify.com/track/6cj0JUDGyVNpNUD8B04k5k) | [Olle Linder](https://open.spotify.com/artist/3DnXgG6Wr1VxhsP543vnug) | [Zorica](https://open.spotify.com/album/3XTBwXoDQoe4zAZvP7igxW) | 3:46 |
+| 140 | [Zorica](https://open.spotify.com/track/41RJJYUW726mlvz292DLax) | [Olle Linder](https://open.spotify.com/artist/3DnXgG6Wr1VxhsP543vnug) | [Zorica](https://open.spotify.com/album/5jQeHeEppLraXMGdzUmNJT) | 3:46 |
 | 141 | [Forever And Always](https://open.spotify.com/track/1ybsrtBpxxFJOG1VKG5wXE) | [Ron Well](https://open.spotify.com/artist/3SEmNWyAadupLPO2WOcw0W) | [Forever And Always](https://open.spotify.com/album/5Gdti3kn7qfeuqm5mV4csY) | 2:23 |
 | 142 | [I Know My Luck](https://open.spotify.com/track/2qZTw4KQo2mKHhCdHNCF0p) | [Papió](https://open.spotify.com/artist/14ivAwcaq4oDPoupWn8cQU) | [I Know My Luck](https://open.spotify.com/album/0gWN0Xay0UHApfRTzqSoHU) | 2:50 |
 | 143 | [Santa Fiora](https://open.spotify.com/track/48j6ZrDM8WaO8plMxxc4CO) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Santa Fiora](https://open.spotify.com/album/6k4IDURpsjao81eMH4LcHF) | 2:01 |
@@ -160,7 +160,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 | 150 | [Mirada](https://open.spotify.com/track/3PDsnkJXHj4eTPkCuhfTBS) | [Julian Mari](https://open.spotify.com/artist/4F0VCWk7SLkuBevjKJEw8e) | [Mirada](https://open.spotify.com/album/1Mc3fzPLnPs3aLkmI15MNK) | 2:22 |
 | 151 | [El Raval](https://open.spotify.com/track/6uJivEVCODHUHv5d772Sll) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [El Raval](https://open.spotify.com/album/6ZDP9iCNBu05nZfeJQ2Ez4) | 3:07 |
 | 152 | [Hugsanir](https://open.spotify.com/track/7cD1uV5Bzk1TEaPr9mqVt1) | [Aiday Ainur](https://open.spotify.com/artist/5BuB7CRnNJKxzSsu6Mznbj) | [Hugsanir](https://open.spotify.com/album/4SaiGm2h3DkUXZUj0hqQrx) | 3:12 |
-| 153 | [Coming Home to You](https://open.spotify.com/track/3z7zpVaGejh3GBR3DhlHWQ) | [Luca Stavos](https://open.spotify.com/artist/4haSSnvfxfNuKQ0Rxroodu) | [Coming home to you](https://open.spotify.com/album/5RuJR2nM1Rur7O5cAQxfrk) | 3:16 |
+| 153 | [Coming home to you](https://open.spotify.com/track/2aI1bWAGzEgG7SLkVihyJJ) | [Luca Stavos](https://open.spotify.com/artist/4haSSnvfxfNuKQ0Rxroodu) | [Coming home to you](https://open.spotify.com/album/2Hly2bwVt1kYoKBAPkye2Z) | 3:16 |
 | 154 | [Attitude Altitude](https://open.spotify.com/track/70yVg36l68Kn2a7SjOBrqu) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Attitude Altitude](https://open.spotify.com/album/2yH5oDBYImXDIXVI6Tus2O) | 2:38 |
 | 155 | [Lenox](https://open.spotify.com/track/1HSkBcWEfwQX6JkCeJ0zs1) | [Leonardo Agusti](https://open.spotify.com/artist/7pxsTVW2UD2bzGfq8WzaMj) | [Lenox](https://open.spotify.com/album/4Qt1FyFDhd0BkMZDNwIswf) | 2:20 |
 | 156 | [Brisa de Verano](https://open.spotify.com/track/6OJwqTLXy8B4p3sjRUgEwj) | [Gerson Lizama](https://open.spotify.com/artist/7JJMRNaFGLhYUIC59g4xGL) | [Paisaje Silvestre](https://open.spotify.com/album/7CB6gTf1KwlVWWyKpN8haR) | 2:20 |
@@ -171,7 +171,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 | 161 | [Antofagasta](https://open.spotify.com/track/5CuV4yJTY9gaMGBlq14afa) | [Graciela Flores](https://open.spotify.com/artist/1XcbatNvZ4Dv7PgPELmQWJ) | [Antofagasta](https://open.spotify.com/album/1Vght0beo7Xp1utA81XL2a) | 2:07 |
 | 162 | [Fawns in Spring](https://open.spotify.com/track/2C3ykZW6V8CFVEbBrSa0gK) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Fawns in Spring](https://open.spotify.com/album/4Oo8SDRLkxG7KkMxlSjsOr) | 2:39 |
 | 163 | [In The Morning Sun](https://open.spotify.com/track/3GK06PqC7srEok5b6tlfAc) | [Mario Regio](https://open.spotify.com/artist/37J9hiCCgzUYyi8V46abD2) | [Pinus Halepensis](https://open.spotify.com/album/5VbSF6F1JbowAFGpB3YB9C) | 3:33 |
-| 164 | [An Italian Lovesong](https://open.spotify.com/track/0BvvHp4Swg1sulxZd9UhPo) | [Toto Espinoza](https://open.spotify.com/artist/19dDL7A3QDM8tAUJg5y0OX) | [An Italian Lovesong](https://open.spotify.com/album/5Qjq6Rr6Fgzzln3HlwzaCF) | 3:31 |
+| 164 | [An Italian Lovesong](https://open.spotify.com/track/5oqJe8VkPZxRHIHSgE4sh9) | [Toto Espinoza](https://open.spotify.com/artist/19dDL7A3QDM8tAUJg5y0OX) | [An Italian Lovesong](https://open.spotify.com/album/5gaL77WSTk0aETu3ODH8W7) | 3:31 |
 | 165 | [Amfora](https://open.spotify.com/track/783rIPMloYUfHcBnNwdj9Q) | [Elke Meyer](https://open.spotify.com/artist/1oFnmVpqNOMomWvL8moz2j) | [Amfora](https://open.spotify.com/album/55dDmoU9A2nl7jjJsRydY2) | 2:04 |
 | 166 | [Loss](https://open.spotify.com/track/5MWbZtMUtRpQOmY6UBUy9s) | [Billy Nordberg](https://open.spotify.com/artist/68GhczlP11DFCcwhwaINMy) | [Loss](https://open.spotify.com/album/49mCzMF879H4t222Qzpn2z) | 2:09 |
 | 167 | [Escondites](https://open.spotify.com/track/0tt1Ckj1W4HSPpjSgo91gk) | [Abelin Celice](https://open.spotify.com/artist/6deyYCzmn7ptDnohDbTWti) | [Escondites](https://open.spotify.com/album/7H5e20s2UvYoMPlFn5pjC1) | 2:36 |
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 | 200 | [Una Luz en el Silencio](https://open.spotify.com/track/5sKLWKEA2OEhBKdERE70vu) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Una Luz en el Silencio](https://open.spotify.com/album/0tuw4ClrE9s1IIsMb8Qgld) | 4:55 |
 | 201 | [Eu Sei Que Vou Te Amar](https://open.spotify.com/track/4mhtL6cfoChqxjFhI4i8tg) | [Michael Marc](https://open.spotify.com/artist/3fcQI5iYhwISYHwUf3G4Ok) | [Eu Sei Que Vou Te Amar](https://open.spotify.com/album/5HrmMkMFpMLTKCaQW5XlTQ) | 4:24 |
 
-Snapshot ID: `MCxkNDk3OGU1Nzg3MWI5OTQ2OTQxYjZiMzY1NTA3NTA4Y2Y2MGFiZjQ3`
+Snapshot ID: `MCw1NWJhZWNkNjk0MzgwZWU3MWE5NmE0OTFiNzYxZDMwMzQ1NGY1ZmRk`

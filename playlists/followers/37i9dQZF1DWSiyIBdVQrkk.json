@@ -1,5 +1,5 @@
 {
-  "2024-03-07": 2129927,
+  "2024-03-08": 2130813,
   "date_first_scraped": "2021-12-21",
   "description": "Celebrating the film Bob Marley: One Love.",
   "name": "One Love",
@@ -927,7 +927,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 202685,
       "name": "Can't Breathe (Genius T Remix)",
       "url": "https://open.spotify.com/track/1MmSKeGyQtsw01TZ4P2AaQ"
@@ -4243,7 +4243,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 237053,
       "name": "Murderer",
       "url": "https://open.spotify.com/track/3H9VcVDIdfgjZRj8Surw6s"
@@ -6383,7 +6383,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-10",
+      "date_removed": null,
       "duration_ms": 305733,
       "name": "Speak Life",
       "url": "https://open.spotify.com/track/21RALCUrU5kzPxas0f12hv"
@@ -7501,6 +7501,24 @@
       "duration_ms": 273426,
       "name": "Untold Stories",
       "url": "https://open.spotify.com/track/6Z0YMxE0W5mujDxXBNlGUN"
+    },
+    {
+      "album": {
+        "name": "5 Decades of Jamaica's Musical Heritage",
+        "url": "https://open.spotify.com/album/2xV5VH34Y2v2YPoinzCeyT"
+      },
+      "artists": [
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272360,
+      "name": "Untold Strories",
+      "url": "https://open.spotify.com/track/3HOBTvzauIkHi2TiVCGw0B"
     },
     {
       "album": {

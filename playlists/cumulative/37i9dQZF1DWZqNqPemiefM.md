@@ -4,7 +4,7 @@
 
 > The artisanal ambient and alternative sounds make you float in the air.
 
-569 songs - 1 day 20 hr 49 min
+571 songs - 1 day 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Gnossienne No\. 1](https://open.spotify.com/track/5fdp9rXfEixCGLM1Og4EN1) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Alena Cherny](https://open.spotify.com/artist/5kgAnLGI2biBHvY7hDsF7P) | [Gnossienne No\. 1](https://open.spotify.com/album/4ZWDD7tNRRMB2eO4B5LsJh) | 4:56 | 2024-02-08 |  |
 | [godorkura](https://open.spotify.com/track/4AFFfAFknO8itVzuYspbf7) | [kentaleaux nakajima](https://open.spotify.com/artist/06YnkMNkelZsBFOd85RjcR) | [TENbient 3](https://open.spotify.com/album/2F31M0fEMChoZhulEOkprk) | 6:10 | 2022-06-23 | 2022-07-28 |
 | [Going To The Sea](https://open.spotify.com/track/2e9PA5stDJoLkcLWN3KVCI) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [万引き家族「オリジナル・サウンドトラック」](https://open.spotify.com/album/5aWso14zYECQPkvEU5ENkQ) | 1:37 | 2022-04-07 | 2024-02-09 |
+| [Great Black Music](https://open.spotify.com/track/3HNhpdb8fEnLaa4nSamLos) | [Ethnic Heritage Ensemble](https://open.spotify.com/artist/6ow3P6IkcDfaSGpPVYjzmj), [Kahil El'Zabar](https://open.spotify.com/artist/2DObXDWCKLRvSisbmYjeyV) | [Open Me, A Higher Consciousness of Sound and Spirit](https://open.spotify.com/album/79yO2lHbzL3moNvKykxm5p) | 7:09 | 2024-03-07 |  |
 | [GREEN](https://open.spotify.com/track/6RPQdkI8t1eaG2abymrYVK) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:14 | 2022-03-31 | 2024-02-09 |
 | [Green Forest](https://open.spotify.com/track/7ESmedpTzQIkdiTx5Acb8M) | [Raura](https://open.spotify.com/artist/1ZMqKvnRUkZCSkk3dOMjyN), [RAURA EMMA SUZUKI](https://open.spotify.com/artist/1YyLGpkRSXVOhkg2FrkC4b), [ART AND MUSIC](https://open.spotify.com/artist/2rzGYD6phmeSbArsZSvzSq) | [Green Forest](https://open.spotify.com/album/0N6Hbp6NMr8rzg3PrhePRg) | 4:24 | 2022-06-07 | 2022-07-29 |
 | [Green Forest](https://open.spotify.com/track/7keZ9iOh6oLPOjUmIrRSgO) | [Raura](https://open.spotify.com/artist/1ZMqKvnRUkZCSkk3dOMjyN), [RAURA EMMA SUZUKI](https://open.spotify.com/artist/1YyLGpkRSXVOhkg2FrkC4b), [ART AND MUSIC](https://open.spotify.com/artist/2rzGYD6phmeSbArsZSvzSq) | [Green Forest](https://open.spotify.com/album/2hka3joHLRIvJOYQxdXD5O) | 4:24 | 2022-07-28 | 2022-11-18 |
@@ -198,6 +199,7 @@
 | [haneda](https://open.spotify.com/track/6sdgXmN5ZiCQKxYxvCYgf0) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [all of this music was produced on the airplane](https://open.spotify.com/album/3Afy6UInF0JzKJBVuKZjOf) | 2:00 | 2023-11-23 | 2023-12-22 |
 | [Happy](https://open.spotify.com/track/7KJww1VbQBMYAXlXSQrvYk) | [Gutevolk](https://open.spotify.com/artist/3q0Z5NCEUBupppTF8ivRTR) | [Happy](https://open.spotify.com/album/4k0foLomaTwzgbZXJ31yUP) | 4:16 | 2022-03-31 | 2022-07-19 |
 | [Haru](https://open.spotify.com/track/1UYQz9iqSCdLNc9UVkJo0o) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Cendre](https://open.spotify.com/album/6Ug9IHC7kmelugY2t0MMQe) | 4:39 | 2022-04-16 | 2024-01-15 |
+| [harukanade / 春奏](https://open.spotify.com/track/4l4IkWuvZfqH9kxgzo1xSj) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [harukanade / 春奏](https://open.spotify.com/album/2T4FB4EAIxoDyAw8IVfxAj) | 3:55 | 2024-03-07 |  |
 | [Hawaii SETI](https://open.spotify.com/track/6wJ1OrQPMg0PPlJ9FGtCWz) | [Reliq](https://open.spotify.com/artist/30105PqPSXuO4sQxPwWAR0) | [Lab Story](https://open.spotify.com/album/5ouJMoEKwD0tVAx5yFqzRO) | 4:01 | 2022-04-07 | 2022-05-05 |
 | [Haze](https://open.spotify.com/track/5FWxDuuGMsNBZj3R9Eltwd) | [Asami Tono](https://open.spotify.com/artist/5uyECggyaBp2soVsms3MNK), [Shushi Matsuura](https://open.spotify.com/artist/5yBmc1Cewr6L2KsxuMU3QP) | [Pale](https://open.spotify.com/album/0vFSmKPhft7GcADTEypWpA) | 2:12 | 2022-04-16 | 2022-07-09 |
 | [Haze Garden \(Prayer\)](https://open.spotify.com/track/4XigfPo7zRs3S3ntut37zd) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Haze Garden \(Prayer\)](https://open.spotify.com/album/7hu4RONzaQHEArMTBnBzgJ) | 3:18 | 2022-07-28 | 2024-02-09 |
@@ -290,7 +292,7 @@
 | [MeMe](https://open.spotify.com/track/3QDuYDRG3lB7Sy45GMWa5J) | [Gotch](https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc) | [MeMe](https://open.spotify.com/album/3q3JleVhIaRxutkWmcuYcK) | 1:00:00 | 2022-03-31 | 2022-05-29 |
 | [memento](https://open.spotify.com/track/2XplMSBUiDrgjrjE9aJem1) | [Teruyuki Nobuchika](https://open.spotify.com/artist/2TJHKFB5XTGjMcTZ04tAkM) | [memento](https://open.spotify.com/album/5wpdUQhPZxUTGObATg9bja) | 3:37 | 2022-04-07 | 2022-07-29 |
 | [memory lane](https://open.spotify.com/track/21Bs2xbk1KbbzqIGPnboV9) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ), [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [memory lane](https://open.spotify.com/album/5I2F71Myowlmr7AWMDDpzQ) | 3:50 | 2022-03-30 | 2024-02-09 |
-| [Memory Sketches](https://open.spotify.com/track/5JQMan7GM7qVZDlIqsVcgc) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Memory Sketches](https://open.spotify.com/album/5la7iDphAuUuUjv8TSeKd3) | 3:58 | 2024-02-08 |  |
+| [Memory Sketches](https://open.spotify.com/track/5JQMan7GM7qVZDlIqsVcgc) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Memory Sketches](https://open.spotify.com/album/5la7iDphAuUuUjv8TSeKd3) | 3:58 | 2024-02-08 | 2024-03-08 |
 | [MERCURIC DANCE/水銀\~躍動の踊り](https://open.spotify.com/track/2fXZxWhqV6YqpKsEoqID6S) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [MERCURIC DANCE\(マーキュリック・ダンス\~躍動の踊り\)](https://open.spotify.com/album/7GCdwdSawyfsXcTiPlMF4L) | 7:06 | 2024-02-08 |  |
 | [Merge](https://open.spotify.com/track/03e5WkmDs2xJw0OXvfXrdI) | [Nobuto Suda](https://open.spotify.com/artist/3ml3FpzCetshYSyx5ghKGS) | [Terminus](https://open.spotify.com/album/7aDfUq2OLrdgLCk4upnukd) | 6:23 | 2022-03-31 | 2022-04-10 |
 | [Meteor Stream](https://open.spotify.com/track/6khYmpfZG6J1Tn7xpTq134) | [Kaoru Inoue](https://open.spotify.com/artist/5fr4WRZR59VYttwBALTLUo) | [Of Mythic Future](https://open.spotify.com/album/15D9WVyXTUg46FJUpVrErL) | 5:31 | 2022-04-28 | 2022-05-06 |
@@ -430,7 +432,7 @@
 | [snow light sleep](https://open.spotify.com/track/5sxBQ7HHmpLwxLpAk5E9bZ) | [Sawako](https://open.spotify.com/artist/1nM5o7KAzBGkUiMjlPJ9wM) | [snow light sleep](https://open.spotify.com/album/3s334y2A3EXw7NXv1l728W) | 3:03 | 2022-03-31 | 2022-07-29 |
 | [Snowy Night Tale](https://open.spotify.com/track/019gDw4KVN2NIFbnh32Obk) | [Masayoshi Fujita](https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT) | [Book of Life](https://open.spotify.com/album/0f4GLDrVVs1DPLV8T7ZgDf) | 5:34 | 2022-04-07 | 2022-06-08 |
 | [Solar\-Pass](https://open.spotify.com/track/42NvxKWMixIETuemVpKQzp) | [Chari Chari](https://open.spotify.com/artist/4MJT57L7RMCvSvg2GjU0wQ) | [Spring to Summer](https://open.spotify.com/album/3kZutekvhPJ36MNphOm0X5) | 1:36 | 2022-03-31 | 2022-07-12 |
-| [solari](https://open.spotify.com/track/2ZYyuqKe7T64UqWVuW7CkS) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3) | 3:52 | 2022-07-28 |  |
+| [solari](https://open.spotify.com/track/2ZYyuqKe7T64UqWVuW7CkS) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3) | 3:52 | 2022-07-28 | 2024-03-08 |
 | [solari](https://open.spotify.com/track/4VqvHOwxiadYcXdbUNpOm3) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/3Kd4OGkyOjvB4P1j8bVJ2A) | 3:52 | 2022-03-31 | 2022-07-17 |
 | [Solaris](https://open.spotify.com/track/3mw4OxKGvEG542yNl5Ypi3) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Solaris](https://open.spotify.com/album/6cBibsodTbuM4xuFfUNcjK) | 3:41 | 2024-01-25 | 2024-02-09 |
 | [Solarium](https://open.spotify.com/track/217whXH6oP07asAmFj2YV9) | [Mimicof](https://open.spotify.com/artist/6QdABScSRzyWQv2eD1Pee4) | [Koto Lyra](https://open.spotify.com/album/1M5td7EALTL3XLlaR3weJ1) | 3:08 | 2022-03-31 | 2022-04-13 |

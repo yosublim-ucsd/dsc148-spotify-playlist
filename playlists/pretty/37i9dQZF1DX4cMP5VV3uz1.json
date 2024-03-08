@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 149751,
+  "num_followers": 149802,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YWJlZDVlYjUzM2FiZjEzNDIzOGUwYWZiNmQwYWNhZjI3YTAyNmYy",
+  "snapshot_id": "MCwyOTAyMGViMGM1ZDgxZDQwYzE3ODVhYjMzNjhmMTQzNzNjYzc0NTU0",
   "tracks": [
     {
       "added_at": "2024-03-01 11:54:01",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2024-03-01 11:54:01",
       "album": {
+        "name": "Run (Part 1)",
+        "url": "https://open.spotify.com/album/1NqOxMj2QqMhgne014NwQs"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        },
+        {
+          "name": "Sofia",
+          "url": "https://open.spotify.com/artist/2W9msU9MDgJo9BMgBdEqmb"
+        }
+      ],
+      "duration_ms": 135085,
+      "name": "Run (Part 1)",
+      "url": "https://open.spotify.com/track/4YWZse32ILPANRnB9EVyIm"
+    },
+    {
+      "added_at": "2024-03-01 11:54:01",
+      "album": {
         "name": "Supersonic (Basstripper Remix)",
         "url": "https://open.spotify.com/album/2QJuzV5qlzbQtFJhRRmgNG"
       },
@@ -1267,26 +1287,6 @@
       "duration_ms": 134305,
       "name": "Loca",
       "url": "https://open.spotify.com/track/04ttAGx5UtdhWyhkiOa5Ls"
-    },
-    {
-      "added_at": "2024-03-01 11:54:01",
-      "album": {
-        "name": "Run (Part 1)",
-        "url": "https://open.spotify.com/album/1NqOxMj2QqMhgne014NwQs"
-      },
-      "artists": [
-        {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        },
-        {
-          "name": "Sofia",
-          "url": "https://open.spotify.com/artist/2W9msU9MDgJo9BMgBdEqmb"
-        }
-      ],
-      "duration_ms": 135085,
-      "name": "Run (Part 1)",
-      "url": "https://open.spotify.com/track/4YWZse32ILPANRnB9EVyIm"
     },
     {
       "added_at": "2024-03-01 11:54:01",

@@ -1,5 +1,5 @@
 {
-  "2024-03-07": 759769,
+  "2024-03-08": 759971,
   "date_first_scraped": "2022-01-17",
   "description": "Ambient drone to make you feel weightless.",
   "name": "Floating Through Space",
@@ -323,7 +323,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 138250,
       "name": "Angelic Spaces",
       "url": "https://open.spotify.com/track/54neOde1RbPnHN0jvhc3Bb"
@@ -982,6 +982,24 @@
     },
     {
       "album": {
+        "name": "Cloud Whispers",
+        "url": "https://open.spotify.com/album/77Bqt3owWoeUNaKI9li5no"
+      },
+      "artists": [
+        {
+          "name": "Rannar Sillard",
+          "url": "https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157026,
+      "name": "Cloud Whispers",
+      "url": "https://open.spotify.com/track/3EH4iguIiQ0YaFMxvd7VFn"
+    },
+    {
+      "album": {
         "name": "Cloudbed",
         "url": "https://open.spotify.com/album/08x5iDmr1p2Zz1BsdS6riL"
       },
@@ -1425,7 +1443,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 160150,
       "name": "Eden",
       "url": "https://open.spotify.com/track/6CWQhbc0inw5cmmiKiAZEX"
@@ -1497,7 +1515,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 168344,
       "name": "Enlightment - 963Hz",
       "url": "https://open.spotify.com/track/2nY7UgFmtpqeeQcB9vc6TD"
@@ -1537,6 +1555,24 @@
       "duration_ms": 174000,
       "name": "Equilibrium - Loopable with No Fade",
       "url": "https://open.spotify.com/track/0xyrEAILLZmrkF2mHU1itT"
+    },
+    {
+      "album": {
+        "name": "Escaping Time",
+        "url": "https://open.spotify.com/album/4Fe9RtZfJDkN7FK9FK09zQ"
+      },
+      "artists": [
+        {
+          "name": "Aetheria Solara",
+          "url": "https://open.spotify.com/artist/53Dh6mRLAQrQVAwNvXiifJ"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171858,
+      "name": "Escaping Time",
+      "url": "https://open.spotify.com/track/27fjJ16c52YBbCx2lKPIOV"
     },
     {
       "album": {
@@ -1861,6 +1897,24 @@
       "duration_ms": 253168,
       "name": "Geneva",
       "url": "https://open.spotify.com/track/4ZJQUajvBXUmTilpiISmN4"
+    },
+    {
+      "album": {
+        "name": "Gentle Hush",
+        "url": "https://open.spotify.com/album/7uNg7HONv7KA8t3pW7FBNR"
+      },
+      "artists": [
+        {
+          "name": "Axial Flow",
+          "url": "https://open.spotify.com/artist/4H4cCqLCwCRQVxbQhGrjtL"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175558,
+      "name": "Gentle Hush",
+      "url": "https://open.spotify.com/track/1NCqCKgbhrpSyIoizfUaoI"
     },
     {
       "album": {
@@ -2383,6 +2437,24 @@
       "duration_ms": 213978,
       "name": "Mellow",
       "url": "https://open.spotify.com/track/15SJMsBLp7GR8FH9WvamuG"
+    },
+    {
+      "album": {
+        "name": "Midnight Hymns Delta D# Sinus 76-80hz",
+        "url": "https://open.spotify.com/album/4zTypJSi36aFZfxmOo78s2"
+      },
+      "artists": [
+        {
+          "name": "Misted Minds",
+          "url": "https://open.spotify.com/artist/0OKqDI3WyLeYdZA5xd6hdU"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Midnight Hymns Delta D# Sinus 76-80hz",
+      "url": "https://open.spotify.com/track/5XPCQ4AxbyQ2DVONDNKUJg"
     },
     {
       "album": {
@@ -3132,6 +3204,24 @@
     },
     {
       "album": {
+        "name": "Puste 432Hz",
+        "url": "https://open.spotify.com/album/0wvCQeevi31eTbmSaLQRgJ"
+      },
+      "artists": [
+        {
+          "name": "Droneq",
+          "url": "https://open.spotify.com/artist/190NqI0gt1k58C0bAwWkDH"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164500,
+      "name": "Puste 432Hz",
+      "url": "https://open.spotify.com/track/5QopDD6crrYIvVZ66EEjoG"
+    },
+    {
+      "album": {
         "name": "Quiet Motions",
         "url": "https://open.spotify.com/album/7JycG0PMs6yxJBgSmx1Cmr"
       },
@@ -3219,6 +3309,24 @@
       "duration_ms": 215572,
       "name": "Resting Hearts",
       "url": "https://open.spotify.com/track/27vouVstDyg8Wdqc2HwtPm"
+    },
+    {
+      "album": {
+        "name": "Retaining The Essence",
+        "url": "https://open.spotify.com/album/14VZ6eLQPlUkJywACTxycT"
+      },
+      "artists": [
+        {
+          "name": "IntoVerted",
+          "url": "https://open.spotify.com/artist/7KPMTEva2Ul6kWl0ddz7kT"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177150,
+      "name": "Retaining The Essence",
+      "url": "https://open.spotify.com/track/7pdsG6ytYLGRJ3nm4wh5hR"
     },
     {
       "album": {
@@ -3935,7 +4043,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 333250,
       "name": "Take a Breath",
       "url": "https://open.spotify.com/track/7CqORTYCiP3rsZI0nbcK62"
@@ -4029,6 +4137,24 @@
       "duration_ms": 203718,
       "name": "The Searching Mind",
       "url": "https://open.spotify.com/track/4kr9gd3vK8IQw3783OeuIk"
+    },
+    {
+      "album": {
+        "name": "There Is No Door",
+        "url": "https://open.spotify.com/album/5Kw0k4LswXV9gWynxsfydx"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Sarrov",
+          "url": "https://open.spotify.com/artist/0hWj5Qhik6MeR8OgrX7QQs"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "There Is No Door",
+      "url": "https://open.spotify.com/track/0rijE9OzRao288gMiqCHOB"
     },
     {
       "album": {
@@ -4259,7 +4385,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 278639,
       "name": "Walk with Me (A Beautiful Journey)",
       "url": "https://open.spotify.com/track/695Ck5SYVFtgey5l0FY1Fh"

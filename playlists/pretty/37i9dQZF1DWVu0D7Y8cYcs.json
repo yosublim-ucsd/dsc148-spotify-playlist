@@ -1,12 +1,12 @@
 {
   "description": "Come on, man. Just smile!",
-  "num_followers": 485910,
+  "num_followers": 485980,
   "original_name": "Just Smile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjM0YjFkYWRkZGIwYWU3ZmY4MGM5MDBjM2JjMzQxZTVlYmQ2OWNl",
+  "snapshot_id": "MCw0ZGRmMGRhN2NiMDIxNTIxMjgzNTdhOTFlNDcyNTczNDIwMDUyNWYy",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -451,6 +451,22 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
+        "name": "Burning",
+        "url": "https://open.spotify.com/album/5HuUgDJo1huBlghzPrKRyO"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 181434,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/4y6JNAtj1M3pEScdp3II5n"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
         "name": "Scorpio's Letter",
         "url": "https://open.spotify.com/album/21IhZJZ2C8Mo0dDjjOqS7E"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 176952,
       "name": "Scorpio's Letter",
       "url": "https://open.spotify.com/track/15P0W8dmVqtx6kw2vVd6Pn"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Burning",
-        "url": "https://open.spotify.com/album/5HuUgDJo1huBlghzPrKRyO"
-      },
-      "artists": [
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        }
-      ],
-      "duration_ms": 181434,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/4y6JNAtj1M3pEScdp3II5n"
     },
     {
       "added_at": "2022-10-13 23:00:00",

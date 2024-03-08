@@ -566,7 +566,7 @@
           "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
         },
         {
-          "name": "Ryu, the Runner",
+          "name": "Ryu, The Runner",
           "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
         },
         {
@@ -3692,6 +3692,28 @@
       "duration_ms": 159428,
       "name": "Automotivo Sai da Caverna Sua Puta",
       "url": "https://open.spotify.com/track/76WTyJ79nzVKp5MV09hdGI"
+    },
+    {
+      "album": {
+        "name": "Automotivo Satisfaction",
+        "url": "https://open.spotify.com/album/29jcfslBFnhOx0w1KDD6cz"
+      },
+      "artists": [
+        {
+          "name": "DJ Dudah",
+          "url": "https://open.spotify.com/artist/7yp6KygcGbQwOJQcRszaZr"
+        },
+        {
+          "name": "Mc Gimenes",
+          "url": "https://open.spotify.com/artist/2EOtEHNNR9N1dP5J2I1cHo"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143499,
+      "name": "Automotivo Satisfaction",
+      "url": "https://open.spotify.com/track/6qmkw69I3PMQ4qIqVJzFDb"
     },
     {
       "album": {
@@ -31846,7 +31868,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 65984,
       "name": "Ph Vem Desestressar",
       "url": "https://open.spotify.com/track/3BZpoUZfuIHElkPiNt16OC"
@@ -36572,7 +36594,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 165537,
       "name": "Sensa\u00e7ao",
       "url": "https://open.spotify.com/track/6iyCUSkOIxIcxYYu3ERAJk"
@@ -46016,7 +46038,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 182768,
       "name": "\u00c9 so uma perguntinha",
       "url": "https://open.spotify.com/track/1ndr7r4VOenZ7VGXvc80oa"

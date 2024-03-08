@@ -1,5 +1,5 @@
 {
-  "2024-03-07": 109141,
+  "2024-03-08": 109206,
   "date_first_scraped": "2024-01-30",
   "description": "This is Los Huracanes del Norte. The essential tracks, all in one playlist.",
   "name": "This Is Los Huracanes del Norte",
@@ -233,7 +233,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 163026,
       "name": "El Clavo",
       "url": "https://open.spotify.com/track/2Wmx7DLFLY934h23dCDfxu"
@@ -575,7 +575,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 195000,
       "name": "La Suburban Dorada",
       "url": "https://open.spotify.com/track/4vOCbfTX2lgde4dyOtq2IE"

@@ -4,7 +4,7 @@
 
 > your soundtrack to your exam studies\. for max productiveness\. u got this!
 
-556 songs - 21 hr 15 min
+557 songs - 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Beauty](https://open.spotify.com/track/5qVYvn1qfR6oIsV2O3WgxN) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Beauty](https://open.spotify.com/album/5H5LBXcN86oigxMAyVZAKE) | 1:51 | 2024-01-05 |  |
 | [Bebop drop](https://open.spotify.com/track/0w7ZNAfkAlWkLk1eGeAUfw) | [Redmoo](https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu) | [Bebop drop](https://open.spotify.com/album/4mwOZXEJpbWi39mQ1si34X) | 2:08 | 2024-01-05 |  |
 | [Behind the stars](https://open.spotify.com/track/2Qu8fz0Ae2tNvBefZoZIJF) | [Slumbering Elk](https://open.spotify.com/artist/3W4MGKEEUJe6RfPWvIq5Nc) | [Behind the stars](https://open.spotify.com/album/1vfOBiWpg9jEabvNeQaxp9) | 2:22 | 2024-01-05 |  |
+| [beneath the willow](https://open.spotify.com/track/3vJqkYrcwjewv2GTSFdjwU) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [beneath the willow](https://open.spotify.com/album/4TJgzpvGWeveYNg9DvpIa6) | 2:37 | 2024-03-08 |  |
 | [beneath your feet](https://open.spotify.com/track/2liw1mIxDdw1d0D6tkFsXG) | [yoshi the brilliant](https://open.spotify.com/artist/6k8AnK3Kuk6fv1AQu0IGBJ) | [beneath your feet / balcony falls](https://open.spotify.com/album/6kMAkZyLnbPHnxvtOY7kG0) | 2:03 | 2024-01-05 |  |
 | [Benidorm](https://open.spotify.com/track/667LRsRYxwLCOJB2DDoUOC) | [Florida Frank](https://open.spotify.com/artist/1XPs2qSUuafYCiqiCf6V3z) | [Benidorm](https://open.spotify.com/album/6eCQmiuecEe2joDErnh7VW) | 2:11 | 2024-01-05 |  |
 | [Big City Issues](https://open.spotify.com/track/7HB3OzS1oOw0ccm27Fg7T0) | [Daniel Fridell](https://open.spotify.com/artist/4WG5037NDBAMyjzClxwmKK), [Sven Lindvall](https://open.spotify.com/artist/3TauislvTr1US5ZCbjnLUx) | [Big City Issues](https://open.spotify.com/album/3hnPutVsHtBKSijIJoJQGv) | 3:21 | 2024-01-05 |  |
@@ -76,7 +77,7 @@
 | [Brief Stack](https://open.spotify.com/track/2aJ4q1Y7Ks5NMKcLr3DUrZ) | [Vice Bertha](https://open.spotify.com/artist/4fQorNG5OR6L1XCK9r1RJX) | [Brief Stack](https://open.spotify.com/album/4eFJkuboRVGp7xYylyRgNQ) | 2:27 | 2024-01-05 |  |
 | [Bullet Train](https://open.spotify.com/track/46rQypiYgXMrC2tssYiLsK) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [Bullet Train](https://open.spotify.com/album/6ALsegdjupq4DCT1JAWkRn) | 2:15 | 2024-01-05 |  |
 | [Buttersweet](https://open.spotify.com/track/1d5pAGQRJ9ROCOuxK52uED) | [Moox](https://open.spotify.com/artist/0ujZnGAenOcihPvgnnY2qq) | [Buttersweet](https://open.spotify.com/album/6GuzaGSiWBXbyRcOMAgsBJ) | 2:57 | 2024-01-05 |  |
-| [BYOB](https://open.spotify.com/track/10mxUK1aTajK3O8DnkSGET) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [BYOB](https://open.spotify.com/album/2hNLrMtLEItUDn4vnkLbPH) | 2:15 | 2024-03-01 |  |
+| [BYOB](https://open.spotify.com/track/10mxUK1aTajK3O8DnkSGET) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [BYOB](https://open.spotify.com/album/2hNLrMtLEItUDn4vnkLbPH) | 2:15 | 2024-03-01 | 2024-03-08 |
 | [Bypass](https://open.spotify.com/track/2pbJqRWuDlzvKX6IbsFH1I) | [Woodly Fields](https://open.spotify.com/artist/3ur5AmVKeInQ8lGOP4kvBF) | [Bypass](https://open.spotify.com/album/7ybr6nw32PQYcLny6vXjh6) | 1:50 | 2024-01-05 |  |
 | [c ya soon](https://open.spotify.com/track/38cy4dQmnps3oMyiTcQNxY) | [AUIIRA](https://open.spotify.com/artist/3qmmaE4hDMkylgYQC5VrKU) | [c ya soon](https://open.spotify.com/album/19LWNsp8XImmOBygYPQXCS) | 2:07 | 2024-01-05 |  |
 | [cabin weather](https://open.spotify.com/track/0gDrjkBGC61kkPHJhKyctN) | [Zupa Fitz](https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg) | [cabin weather](https://open.spotify.com/album/0O0oH4FTGiqwi3Z0PhD1KL) | 2:57 | 2024-02-09 |  |

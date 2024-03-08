@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: Marshmello
 
-558 songs - 1 day 7 hr 30 min
+559 songs - 1 day 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Enigma](https://open.spotify.com/track/5tFlcAfwqHlfsDX88ZWMqT) | [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl) | [Enigma](https://open.spotify.com/album/5vVA18tA4NCfvCBDJd6YF5) | 3:01 | 2022-11-11 | 2023-08-14 |
 | [Escape \(feat\. Hayla\) \- Subtronics Remix](https://open.spotify.com/track/6Ep94gYKvkI4OqCOGV66Wx) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Escape \(feat\. Hayla\) \[Subtronics Remix\]](https://open.spotify.com/album/7ep1MESRYdgAghNhHDiLhc) | 3:45 | 2022-06-24 | 2022-11-17 |
 | [Escape \- Subtronics Remix](https://open.spotify.com/track/11IQ89bxoC3bklnfP5TZiM) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Escape \(Subtronics Remix\)](https://open.spotify.com/album/2aE5C3fUfSANxWHw2NXD2c) | 3:45 | 2022-11-11 |  |
+| [ESCARGOT](https://open.spotify.com/track/1ZbA2N0ryptdKbykwia2MB) | [ESCARGOT](https://open.spotify.com/artist/4eQbb3mhoL4GjbMW7AHza3), [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6) | [ESCARGOT](https://open.spotify.com/album/5fqrGMXNf06aWpvMIqhOl3) | 3:22 | 2024-03-01 |  |
 | [Event Horizon](https://open.spotify.com/track/0l2DanUokW2ZR69z2nGILg) | [Hi I'm Ghost](https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34), [INVCT](https://open.spotify.com/artist/5cu8lLNHcyHp1w6U1s5JZK) | [Event Horizon](https://open.spotify.com/album/1NyJ0JVameoQbDzzaR6liX) | 2:52 | 2023-04-28 | 2023-10-20 |
 | [Everybody Move](https://open.spotify.com/track/4XNTYpRC1LxSbR53VklBEG) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6) | [Everybody Move](https://open.spotify.com/album/444TIRJsZxH1sCg9OLjXI8) | 3:16 | 2022-02-11 | 2022-08-14 |
 | [Everyday](https://open.spotify.com/track/7GgDbcLEkhNhCX2UIq3vWo) | [G\-Rex](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K), [RAVVA](https://open.spotify.com/artist/2ZppcH5NCmZmzoHzAepLcD) | [Everyday](https://open.spotify.com/album/3UB9STjiD6hbR0ZUQJloPW) | 2:59 | 2022-03-25 | 2022-08-16 |
@@ -362,7 +363,7 @@
 | [Own The Night](https://open.spotify.com/track/73yiAXig9qPlUYYAQGTT8F) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Own The Night](https://open.spotify.com/album/7C5kxq9EAe1TeyT0fMiOB3) | 3:00 | 2022-04-22 | 2023-04-01 |
 | [Pain](https://open.spotify.com/track/6fuqMcgCHL1IJpUWMdo8eX) | [Chassi](https://open.spotify.com/artist/3uSdOouuT7NoUXdDSeJnky), [Free Fall](https://open.spotify.com/artist/5Y0oHsIgmZzj38UIN48CCS), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Pain](https://open.spotify.com/album/6uQ74sZvl0pPpO1VVDHh1K) | 4:16 | 2023-12-08 | 2024-01-20 |
 | [Parachute](https://open.spotify.com/track/4rGJKqbPpn5HUhMKeZMFhe) | [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV) | [Parachute](https://open.spotify.com/album/5g9FEdY7SHc21AD2duTgac) | 3:52 | 2022-06-03 | 2023-04-01 |
-| [Paradise](https://open.spotify.com/track/2n7eITOXa1UK6AksMavXk6) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Paradise](https://open.spotify.com/album/6NyCqZSQdkZimUqULFUIPG) | 3:30 | 2023-03-17 |  |
+| [Paradise](https://open.spotify.com/track/2n7eITOXa1UK6AksMavXk6) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Paradise](https://open.spotify.com/album/6NyCqZSQdkZimUqULFUIPG) | 3:30 | 2023-03-17 | 2024-03-08 |
 | [Parallels](https://open.spotify.com/track/2SS2oPAFHFHUimjfwyoYyC) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Parallels](https://open.spotify.com/album/5fI00S2DlKDEegko9s0t0Z) | 3:12 | 2023-03-10 | 2023-12-21 |
 | [Pit of the Maw](https://open.spotify.com/track/2alDalhotF1t7ldnToc0Ec) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe), [SISTO](https://open.spotify.com/artist/2M1fROBYTycpAcvsi2zkPJ) | [Pit of the Maw](https://open.spotify.com/album/2queNUHccK3awyRbA8Wf20) | 3:31 | 2023-11-10 | 2023-12-18 |
 | [Playing With Fire](https://open.spotify.com/track/4ClJmxomQ0CZSuhrZWMQCK) | [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b) | [Playing With Fire](https://open.spotify.com/album/1aEjxEcvjm0afnrOlIqfZV) | 4:12 | 2023-09-29 | 2024-02-24 |

@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Emanero, La K'onga & David Bisbal.",
-  "num_followers": 687707,
+  "num_followers": 687977,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGIwNTUxNzVhNDc4NzJkZTgxODA5NzlmYjdiYTEwMWI1NjNhMzE0",
+  "snapshot_id": "MCxlMTRjYTAwNGU4MTM5Y2ZlMjBiZDcxNTgzZmI4ZjEwMzdiYmJiYWRm",
   "tracks": [
     {
       "added_at": "2024-03-01 03:00:00",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
-        "name": "Basta de Jugar",
-        "url": "https://open.spotify.com/album/4DivYjZqWyEUsU6IyjsGJQ"
-      },
-      "artists": [
-        {
-          "name": "Banda Mix",
-          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
-        },
-        {
-          "name": "Banda XXI",
-          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
-        }
-      ],
-      "duration_ms": 174558,
-      "name": "Basta de Jugar",
-      "url": "https://open.spotify.com/track/3J4iy8bc9nCebnbfJS6h5a"
-    },
-    {
-      "added_at": "2024-03-01 03:00:00",
-      "album": {
         "name": "Con Toda la Fuerza",
         "url": "https://open.spotify.com/album/5SoB5nPoVk5AOia9c6Uux7"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 213920,
       "name": "No Dire Que Si",
       "url": "https://open.spotify.com/track/0FJIMGhZs0KgL2tiEgeYlV"
+    },
+    {
+      "added_at": "2024-03-01 03:00:00",
+      "album": {
+        "name": "Basta de Jugar",
+        "url": "https://open.spotify.com/album/4DivYjZqWyEUsU6IyjsGJQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Mix",
+          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
+        },
+        {
+          "name": "Banda XXI",
+          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
+        }
+      ],
+      "duration_ms": 174558,
+      "name": "Basta de Jugar",
+      "url": "https://open.spotify.com/track/3J4iy8bc9nCebnbfJS6h5a"
     },
     {
       "added_at": "2024-03-01 03:00:00",
@@ -1555,22 +1555,18 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
-        "name": "Agua Sucia",
-        "url": "https://open.spotify.com/album/2h8fdFG0TAOJLm8S4MXTYL"
+        "name": "Espectacular Monada",
+        "url": "https://open.spotify.com/album/1zR6ffS6SEIPkzRQMroBBo"
       },
       "artists": [
         {
-          "name": "Altos Cumbieros",
-          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
-        },
-        {
-          "name": "La Groza",
-          "url": "https://open.spotify.com/artist/54yxNOqC1kt6hM34wpNKtL"
+          "name": "Monada",
+          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
         }
       ],
-      "duration_ms": 241661,
-      "name": "Agua Sucia",
-      "url": "https://open.spotify.com/track/1R3i3CSZ1daF3X3bDhai0T"
+      "duration_ms": 227866,
+      "name": "Dame un Poco Mas",
+      "url": "https://open.spotify.com/track/7DClQMEhTG6atticp11xbw"
     },
     {
       "added_at": "2024-03-01 03:00:00",
@@ -1595,18 +1591,22 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
-        "name": "Espectacular Monada",
-        "url": "https://open.spotify.com/album/1zR6ffS6SEIPkzRQMroBBo"
+        "name": "Agua Sucia",
+        "url": "https://open.spotify.com/album/2h8fdFG0TAOJLm8S4MXTYL"
       },
       "artists": [
         {
-          "name": "Monada",
-          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
+          "name": "Altos Cumbieros",
+          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
+        },
+        {
+          "name": "La Groza",
+          "url": "https://open.spotify.com/artist/54yxNOqC1kt6hM34wpNKtL"
         }
       ],
-      "duration_ms": 227866,
-      "name": "Dame un Poco Mas",
-      "url": "https://open.spotify.com/track/7DClQMEhTG6atticp11xbw"
+      "duration_ms": 241661,
+      "name": "Agua Sucia",
+      "url": "https://open.spotify.com/track/1R3i3CSZ1daF3X3bDhai0T"
     },
     {
       "added_at": "2024-03-01 03:00:00",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
-        "name": "Con Piel de Cuarteto",
-        "url": "https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh"
-      },
-      "artists": [
-        {
-          "name": "El Turco Oliva",
-          "url": "https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI"
-        }
-      ],
-      "duration_ms": 236920,
-      "name": "Maldito Coche Negro",
-      "url": "https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8"
-    },
-    {
-      "added_at": "2024-03-01 03:00:00",
-      "album": {
         "name": "Eran dos locos de amor",
         "url": "https://open.spotify.com/album/5zrpSkFRI1dBpTnoY5JmV4"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 169496,
       "name": "Eran dos locos de amor",
       "url": "https://open.spotify.com/track/5ggd3IXmVD3GM7uHu81K4a"
+    },
+    {
+      "added_at": "2024-03-01 03:00:00",
+      "album": {
+        "name": "Con Piel de Cuarteto",
+        "url": "https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh"
+      },
+      "artists": [
+        {
+          "name": "El Turco Oliva",
+          "url": "https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI"
+        }
+      ],
+      "duration_ms": 236920,
+      "name": "Maldito Coche Negro",
+      "url": "https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8"
     },
     {
       "added_at": "2024-03-01 03:00:00",

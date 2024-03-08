@@ -1,12 +1,12 @@
 {
   "description": "Los sonidos tradicionales de la Isla del Encanto.",
-  "num_followers": 5293,
+  "num_followers": 5301,
   "original_name": "Bomba y Plena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWFiMTk2MTQ3NzJkMGY3MTRiNjlkZmQyZTRiODUzMDM0OTVkMWU4",
+  "snapshot_id": "MCwwZDY0ZTE1M2M4NDRjM2UyODcxOGIyMTc3OGJiZGRiYjc0ZmJlODdi",
   "tracks": [
     {
       "added_at": "2023-06-13 22:15:19",
@@ -323,18 +323,22 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "\u00a1Ya est\u00e1! \u00a1Se form\u00f3!",
-        "url": "https://open.spotify.com/album/0smxpFHmwxzz9hWmn0yvTR"
+        "name": "Puerto Rico, Puerto Rico Mi Tierra Natal",
+        "url": "https://open.spotify.com/album/28nERzqmaa2n4hve9UxlnQ"
       },
       "artists": [
         {
-          "name": "Yuba Ire",
-          "url": "https://open.spotify.com/artist/2kBeW8r7YUM5n43ReapUfr"
+          "name": "Los Pleneros de la 21",
+          "url": "https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy"
+        },
+        {
+          "name": "Cojunto Melodia",
+          "url": "https://open.spotify.com/artist/0Pc2l1icFRWh3iI9uPoudM"
         }
       ],
-      "duration_ms": 189080,
-      "name": "Inyere",
-      "url": "https://open.spotify.com/track/09WBf9td049VNUcah8Xgbe"
+      "duration_ms": 298226,
+      "name": "Campo",
+      "url": "https://open.spotify.com/track/15HmdlLczXj5jlqUlmUNS8"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -355,22 +359,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Puerto Rico, Puerto Rico Mi Tierra Natal",
-        "url": "https://open.spotify.com/album/28nERzqmaa2n4hve9UxlnQ"
+        "name": "\u00a1Ya est\u00e1! \u00a1Se form\u00f3!",
+        "url": "https://open.spotify.com/album/0smxpFHmwxzz9hWmn0yvTR"
       },
       "artists": [
         {
-          "name": "Los Pleneros de la 21",
-          "url": "https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy"
-        },
-        {
-          "name": "Cojunto Melodia",
-          "url": "https://open.spotify.com/artist/0Pc2l1icFRWh3iI9uPoudM"
+          "name": "Yuba Ire",
+          "url": "https://open.spotify.com/artist/2kBeW8r7YUM5n43ReapUfr"
         }
       ],
-      "duration_ms": 298226,
-      "name": "Campo",
-      "url": "https://open.spotify.com/track/15HmdlLczXj5jlqUlmUNS8"
+      "duration_ms": 189080,
+      "name": "Inyere",
+      "url": "https://open.spotify.com/track/09WBf9td049VNUcah8Xgbe"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
         }
       ],
-      "duration_ms": 157720,
-      "name": "Meli Ton Ton Be",
-      "url": "https://open.spotify.com/track/0icYDIzJYlyXomaTrHGDtX"
+      "duration_ms": 176773,
+      "name": "Bombero Eh",
+      "url": "https://open.spotify.com/track/6IP4iBxur2Q6HnYaBbWuGj"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
         }
       ],
-      "duration_ms": 176773,
-      "name": "Bombero Eh",
-      "url": "https://open.spotify.com/track/6IP4iBxur2Q6HnYaBbWuGj"
+      "duration_ms": 157720,
+      "name": "Meli Ton Ton Be",
+      "url": "https://open.spotify.com/track/0icYDIzJYlyXomaTrHGDtX"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -603,18 +603,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Tambuy\u00e9",
-        "url": "https://open.spotify.com/album/03A69ygGXUvEGLG9CGXVhl"
+        "name": "Buya (Live)",
+        "url": "https://open.spotify.com/album/3CN7dh6Ov68yvDzIwl2udq"
       },
       "artists": [
         {
-          "name": "Tambuy\u00e9",
-          "url": "https://open.spotify.com/artist/6JzYUwgLsB8jSMkEmppfD8"
+          "name": "Buya",
+          "url": "https://open.spotify.com/artist/29u8U8MD9gvMcxkkJxikna"
         }
       ],
-      "duration_ms": 365600,
-      "name": "La Llevo en Mis Venas / Bambul\u00e9 a Par\u00e9 / Dios M\u00edo Si Yo Pudiera / Consu\u00e9lala",
-      "url": "https://open.spotify.com/track/6t0d5BtbxBclK1ANd6Dm7K"
+      "duration_ms": 261386,
+      "name": "Preparate Reparada (Guembe) [Live]",
+      "url": "https://open.spotify.com/track/66Z8gMxXEOXhubR79KlTu5"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -644,25 +644,25 @@
           "url": "https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM"
         }
       ],
-      "duration_ms": 187426,
-      "name": "Seis Corrido Medley",
-      "url": "https://open.spotify.com/track/5Worf5DYlPyHnUTkP0xiUM"
+      "duration_ms": 154240,
+      "name": "Meliton Tombe",
+      "url": "https://open.spotify.com/track/7IDhSbqY5GIKgjKKjuXLkD"
     },
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Buya (Live)",
-        "url": "https://open.spotify.com/album/3CN7dh6Ov68yvDzIwl2udq"
+        "name": "Tambuy\u00e9",
+        "url": "https://open.spotify.com/album/03A69ygGXUvEGLG9CGXVhl"
       },
       "artists": [
         {
-          "name": "Buya",
-          "url": "https://open.spotify.com/artist/29u8U8MD9gvMcxkkJxikna"
+          "name": "Tambuy\u00e9",
+          "url": "https://open.spotify.com/artist/6JzYUwgLsB8jSMkEmppfD8"
         }
       ],
-      "duration_ms": 261386,
-      "name": "Preparate Reparada (Guembe) [Live]",
-      "url": "https://open.spotify.com/track/66Z8gMxXEOXhubR79KlTu5"
+      "duration_ms": 365600,
+      "name": "La Llevo en Mis Venas / Bambul\u00e9 a Par\u00e9 / Dios M\u00edo Si Yo Pudiera / Consu\u00e9lala",
+      "url": "https://open.spotify.com/track/6t0d5BtbxBclK1ANd6Dm7K"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -703,18 +703,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Distinto Y Diferente",
-        "url": "https://open.spotify.com/album/2gKfS4zd0LONEuh3fEv40W"
+        "name": "Buya (Live)",
+        "url": "https://open.spotify.com/album/3CN7dh6Ov68yvDzIwl2udq"
       },
       "artists": [
         {
-          "name": "Plenealo",
-          "url": "https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg"
+          "name": "Buya",
+          "url": "https://open.spotify.com/artist/29u8U8MD9gvMcxkkJxikna"
         }
       ],
-      "duration_ms": 331102,
-      "name": "Plenazo Callejero 1",
-      "url": "https://open.spotify.com/track/2sKuQbRejG9hxdDfPXVJ0Y"
+      "duration_ms": 192786,
+      "name": "Candela (Seis Corrido) [Live]",
+      "url": "https://open.spotify.com/track/1WQayDc6Nia3dIBRJ4qINW"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
+        "name": "Distinto Y Diferente",
+        "url": "https://open.spotify.com/album/2gKfS4zd0LONEuh3fEv40W"
+      },
+      "artists": [
+        {
+          "name": "Plenealo",
+          "url": "https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg"
+        }
+      ],
+      "duration_ms": 331102,
+      "name": "Plenazo Callejero 1",
+      "url": "https://open.spotify.com/track/2sKuQbRejG9hxdDfPXVJ0Y"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
         "name": "Zona de Bomba",
         "url": "https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 350346,
       "name": "Sirenas, Sangueo y San Mill\u00e1n",
       "url": "https://open.spotify.com/track/1Jx54hvwf8rtDb1VmzfFBh"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
-        "name": "Buya (Live)",
-        "url": "https://open.spotify.com/album/3CN7dh6Ov68yvDzIwl2udq"
-      },
-      "artists": [
-        {
-          "name": "Buya",
-          "url": "https://open.spotify.com/artist/29u8U8MD9gvMcxkkJxikna"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "Candela (Seis Corrido) [Live]",
-      "url": "https://open.spotify.com/track/1WQayDc6Nia3dIBRJ4qINW"
     },
     {
       "added_at": "2023-06-13 22:15:19",

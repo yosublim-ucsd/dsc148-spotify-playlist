@@ -1985,6 +1985,24 @@
     },
     {
       "album": {
+        "name": "Breaking Silence",
+        "url": "https://open.spotify.com/album/4FH4IHc9VxPs19eX0oagVT"
+      },
+      "artists": [
+        {
+          "name": "Sounding Cosmos",
+          "url": "https://open.spotify.com/artist/57cTypsKxiOGCYx2AbCHkn"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Breaking Silence",
+      "url": "https://open.spotify.com/track/4380dhBofsUcbAwa2UqBMc"
+    },
+    {
+      "album": {
         "name": "Winds Amassed",
         "url": "https://open.spotify.com/album/5pyHdzJzS1qgTAWFsyRPd3"
       },
@@ -6979,6 +6997,24 @@
     },
     {
       "album": {
+        "name": "Land of Silence",
+        "url": "https://open.spotify.com/album/4PmfI0KZBSQBL4Bez8SIeH"
+      },
+      "artists": [
+        {
+          "name": "Gabrio Mele",
+          "url": "https://open.spotify.com/artist/04rNs9AP6fQsXkTgCnFzrw"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "Land of Silence",
+      "url": "https://open.spotify.com/track/5l5AzLGCZbFJsDgG7s2w5b"
+    },
+    {
+      "album": {
         "name": "Last Light",
         "url": "https://open.spotify.com/album/40UnoqubetMWqJwC0OQ0Fu"
       },
@@ -7066,6 +7102,24 @@
       "duration_ms": 201205,
       "name": "Lemuria",
       "url": "https://open.spotify.com/track/0sGWPrVBi8UHUxKU4VcH27"
+    },
+    {
+      "album": {
+        "name": "Leni Aura",
+        "url": "https://open.spotify.com/album/4X91EXAlH72h1XjWzkXDgu"
+      },
+      "artists": [
+        {
+          "name": "Darby Evans",
+          "url": "https://open.spotify.com/artist/0EzLFlu7rmPC4VybLm6jl1"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161142,
+      "name": "Leni Aura",
+      "url": "https://open.spotify.com/track/3QujGZgerxm8X54zE1KFCT"
     },
     {
       "album": {
@@ -11620,6 +11674,24 @@
       "duration_ms": 211212,
       "name": "Suaimhneas",
       "url": "https://open.spotify.com/track/7q9ehvNtDAyhFFD7w9L4yo"
+    },
+    {
+      "album": {
+        "name": "Subdue",
+        "url": "https://open.spotify.com/album/5mNkNX0vAuHG6o9ZmCE61l"
+      },
+      "artists": [
+        {
+          "name": "Solen Taylor",
+          "url": "https://open.spotify.com/artist/4p9by6GGMfgVGEBqiYhXqB"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156080,
+      "name": "Subdue",
+      "url": "https://open.spotify.com/track/0s2salZ3j2fGPJPVUPHJP1"
     },
     {
       "album": {

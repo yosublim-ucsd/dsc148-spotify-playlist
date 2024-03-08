@@ -3528,6 +3528,32 @@
     {
       "album": {
         "name": "Hajime, Pt. 2",
+        "url": "https://open.spotify.com/album/2pUDCMU1kegtoK7l5mKjjj"
+      },
+      "artists": [
+        {
+          "name": "MiyaGi",
+          "url": "https://open.spotify.com/artist/1kmpkcYbuaZ8tnFejLzkj2"
+        },
+        {
+          "name": "Endspiel",
+          "url": "https://open.spotify.com/artist/35m8HjyHmGQxAKfIBVHZpF"
+        },
+        {
+          "name": "Drew",
+          "url": "https://open.spotify.com/artist/5yHnmtUITGRBL8GxgZpDcZ"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267363,
+      "name": "I Can Fly",
+      "url": "https://open.spotify.com/track/41Jvpkc7LBF6G8iRYu845X"
+    },
+    {
+      "album": {
+        "name": "Hajime, Pt. 2",
         "url": "https://open.spotify.com/album/4bTfyrDHiBOV0rEV8EG1ua"
       },
       "artists": [

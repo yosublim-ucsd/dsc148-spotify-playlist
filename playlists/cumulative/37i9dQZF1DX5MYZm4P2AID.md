@@ -4,7 +4,7 @@
 
 > Once a pogue, always a pogue...Listen to music from and inspired by Outer Banks, new episodes now streaming only on Netflix.
 
-218 songs - 13 hr 15 min
+220 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,8 @@
 | [The Raft](https://open.spotify.com/track/34WtaNeWz7O2W9ivsCGAt1) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Dr\. Boondigga & The Big BW](https://open.spotify.com/album/5ynDiqo0C63GVjc9q1ijAO) | 7:11 | 2021-10-26 |  |
 | [The Royal Merchant \(Outer Banks Main Theme\)](https://open.spotify.com/track/3fYIKQt3TeJznTQxAeqEvj) | [Fil Eisler](https://open.spotify.com/artist/5129CrVkHTSigIoqGiseqj) | [Outer Banks: Season 3 \(Score from the Netflix Series\)](https://open.spotify.com/album/3Mp9GxRTMloesS1rHr6WAK) | 3:45 | 2023-02-24 |  |
 | [The Stranger](https://open.spotify.com/track/2CrMDlMhdLEPTPlTpALGHu) | [Tommy Guerrero](https://open.spotify.com/artist/5qnkHpjyS6CUxH1UUy82B7) | [No Mans Land](https://open.spotify.com/album/6mv6jWzf1Z3NsOEAHrh2ze) | 3:08 | 2021-10-26 |  |
-| [The Tide Is High](https://open.spotify.com/track/6sCkLCSXMMf9q3ArEAsWnQ) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On The Beach With The Paragons](https://open.spotify.com/album/5rPWGUQEG3OfeT65tRqcf9) | 2:44 | 2023-02-23 |  |
+| [The Tide Is High](https://open.spotify.com/track/1CeO8blB0K7hq0k0Ln2XcR) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [The Tide Is High](https://open.spotify.com/album/32Aixc7xTyZG9SMLR6aJQw) | 2:44 | 2023-03-01 |  |
+| [The Tide Is High](https://open.spotify.com/track/6sCkLCSXMMf9q3ArEAsWnQ) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On The Beach With The Paragons](https://open.spotify.com/album/5rPWGUQEG3OfeT65tRqcf9) | 2:44 | 2023-02-23 | 2024-03-08 |
 | [The Unknown \(feat\. Fmlybnd\)](https://open.spotify.com/track/1RXEj1Rbc1lCsMVLj5lVU2) | [Dirty South](https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB), [FMLYBND](https://open.spotify.com/artist/6PwZP9O9dvJCMALhgjygnh) | [With You](https://open.spotify.com/album/4YvfWKiDjagZHCgzDLfoCu) | 5:11 | 2023-02-23 |  |
 | [The W.A.N.D.](https://open.spotify.com/track/2frHiHPVkiNCBMPkYF83Jr) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [At War with the Mystics](https://open.spotify.com/album/6oVaKzODiXqew6MScEd7T4) | 3:42 | 2021-10-26 |  |
 | [There's A Place](https://open.spotify.com/track/1dNDxVM1HDpdKgon58QvtU) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Pacific](https://open.spotify.com/album/3zjU4Uu8DvEBpnsHbLDvyQ) | 6:08 | 2023-02-23 |  |
@@ -211,8 +212,9 @@
 | [Veni Vidi Vici](https://open.spotify.com/track/1Y4Tk1FR4Muw6ATFcMsnnt) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/6sDyIpIg0vjpKOR9VrvagJ) | 2:28 | 2021-10-26 | 2023-02-08 |
 | [Veni Vidi Vici](https://open.spotify.com/track/5BQ7Txrx41vbbUvQBuKNuP) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/7G1IjybnBzcJvYntqY8q7A) | 2:28 | 2021-10-26 |  |
 | [Welcome To Jamrock](https://open.spotify.com/track/0alTdGNJ19j0K34NzLAyaw) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Outer Banks: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5) | 3:33 | 2023-02-23 |  |
+| [When the Lights Are Low](https://open.spotify.com/track/3RzklnCLyC35UhTN7WkVEr) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/4znstpmS1WOSyKyGtTVM8m) | 3:04 | 2023-03-01 |  |
 | [When the Lights Are Low](https://open.spotify.com/track/5dfQhcik87RMJAvVs7xW95) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw) | 3:04 | 2023-02-23 | 2023-11-04 |
-| [When The Lights Are Low](https://open.spotify.com/track/1QxSiJ0Xf0iUzyDIFh7FWF) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On The Beach With The Paragons](https://open.spotify.com/album/5rPWGUQEG3OfeT65tRqcf9) | 3:05 | 2023-03-01 |  |
+| [When The Lights Are Low](https://open.spotify.com/track/1QxSiJ0Xf0iUzyDIFh7FWF) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On The Beach With The Paragons](https://open.spotify.com/album/5rPWGUQEG3OfeT65tRqcf9) | 3:05 | 2023-03-01 | 2024-03-08 |
 | [Where Do We Go From Here](https://open.spotify.com/track/0bdtQRLslZThuaC3dPwwvt) | [Wesley Attew](https://open.spotify.com/artist/6CLYptSCO8U7er34RZ5xxn) | [Outer Banks: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5) | 4:34 | 2023-02-23 |  |
 | [Where'd All the Time Go?](https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Shame, Shame \(Deluxe Edition\)](https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl) | 3:54 | 2021-10-26 |  |
 | [Wiya Waist](https://open.spotify.com/track/4lVHvQoC3VMvF0fVpj7c3k) | [the Garifuna Collective](https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm) | [Aban](https://open.spotify.com/album/2KlF5Rk0eZZbOIwLThaiU1) | 3:13 | 2021-10-26 |  |

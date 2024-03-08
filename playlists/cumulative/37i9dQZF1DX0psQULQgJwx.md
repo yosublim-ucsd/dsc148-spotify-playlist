@@ -4,7 +4,7 @@
 
 > Lounge sounds for SPA
 
-132 songs - 7 hr 42 min
+135 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Choshi or Shirabe](https://open.spotify.com/track/0dvWqDcjdP8SIXLRuaYuA6) | [Stan Richardson](https://open.spotify.com/artist/3hCNzCde5ddHVbysLGnImt) | [Shakuhachi Meditation Music](https://open.spotify.com/album/5WQCyENQ8DSX6Eqs952moH) | 4:52 | 2022-09-02 | 2023-01-05 |
 | [Chuska](https://open.spotify.com/track/6rvltM3hjcZ9JPlNsZ0v6D) | [Morongo](https://open.spotify.com/artist/0UlTnSGW8Z8hUZq1VDVorm) | [Chuska](https://open.spotify.com/album/54PfuEGQHq6I9VWzAnzV6P) | 3:39 | 2022-09-02 |  |
 | [Closeness](https://open.spotify.com/track/54fl7LXaGnQAyT0OIB8I5X) | [Amat Leony](https://open.spotify.com/artist/4K1GXs9pVanGFIl1LIPCms) | [Closeness](https://open.spotify.com/album/6uSckUQYGKZ4LCdK9uHYZM) | 3:02 | 2023-12-04 |  |
+| [Cloud Whispers](https://open.spotify.com/track/3EH4iguIiQ0YaFMxvd7VFn) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Cloud Whispers](https://open.spotify.com/album/77Bqt3owWoeUNaKI9li5no) | 2:37 | 2024-03-07 |  |
 | [Conscious Journey](https://open.spotify.com/track/2ETuChyJUeHa3qeLqm0bOW) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Conscious Journey](https://open.spotify.com/album/4bxQH9hlcLBBa92bGXVFqb) | 2:16 | 2022-09-30 |  |
 | [Cosmic Coast \- Spa](https://open.spotify.com/track/1s63jXLAtYJOTCT9fIu4O5) | [Delayed Dreams](https://open.spotify.com/artist/67psE9BkYf2rCpo8zZHQmZ) | [Cosmic Coast](https://open.spotify.com/album/42l5s9ZsiWufkXrPX7Pvwx) | 2:18 | 2023-11-17 |  |
 | [Cradle of Life](https://open.spotify.com/track/1eihRcf7w68iW9IPTs76fc) | [Laiua](https://open.spotify.com/artist/1fhB7jhn3UFb3AdiHMsQTz) | [Cradle of Life](https://open.spotify.com/album/4Tw2LWGi0iUCw2ZTfSkiXc) | 2:25 | 2022-09-02 |  |
@@ -46,11 +47,12 @@
 | [Ephemeral Stillness](https://open.spotify.com/track/1sLb86CVcaPoNnLV5QWOaY) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Ephemeral Stillness](https://open.spotify.com/album/0KQ17vV4mRN4Y03tFGrGVf) | 3:38 | 2023-07-14 |  |
 | [Exhale](https://open.spotify.com/track/49lHDhDMadb0YXVMsLs0gy) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Pan Flute Sessions 1](https://open.spotify.com/album/3AchEUirca9Quy6RBg32qs) | 4:36 | 2022-09-02 |  |
 | [Existence](https://open.spotify.com/track/0XvtR02UN3jOUIN8NMED4z) | [Yoo Woon](https://open.spotify.com/artist/0edoMxbwiiVrAXcJmTk4ml) | [Existence](https://open.spotify.com/album/3KubEtZHJo0xxl1WJzESVN) | 2:39 | 2022-12-22 |  |
+| [Fables](https://open.spotify.com/track/040LGJRwswUENGiwHYRuft) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Fables](https://open.spotify.com/album/3U8pUwGtCpdLUUJdFd8Xfp) | 5:43 | 2024-03-07 |  |
 | [Fantasy of Koshi Kaval](https://open.spotify.com/track/1FAZiGewREDGTfdGS2Bc0D) | [Posonium](https://open.spotify.com/artist/7l4B7Abe0HI1MYCCEyDVFW) | [Fantasy of Koshi Kaval](https://open.spotify.com/album/2gj3bvTILGeJePm9L0AYH1) | 2:41 | 2024-01-30 |  |
 | [Fields of Passion](https://open.spotify.com/track/19127XxgyW1KnXqnYv2YRO) | [Enapay](https://open.spotify.com/artist/04aI3lUztHm7euSI9Lo6ug) | [Fields of Passion](https://open.spotify.com/album/7j6qZ1o0EhkwLurLzonfVj) | 3:07 | 2022-09-02 |  |
 | [Flow](https://open.spotify.com/track/4d8AH6faaXgCbO7GVuGqqT) | [Akleia](https://open.spotify.com/artist/4TXPgXCkgmeKZONnRuTYTd) | [Flow](https://open.spotify.com/album/5kZP8fWRXfqlvIDtIMiFdN) | 3:20 | 2022-09-02 |  |
 | [Flutastica](https://open.spotify.com/track/2MgEWaWp825uRMrhGmKrPS) | [Remittere](https://open.spotify.com/artist/0sMzImNlIr3ougEsBQ59xm) | [Flutastica](https://open.spotify.com/album/4VFqBjkRQZrMjIyQr4pWMQ) | 3:37 | 2024-01-30 |  |
-| [Forest of Hope](https://open.spotify.com/track/2aH3zeFIh14oUTOgJpBsI1) | [Nash Parker](https://open.spotify.com/artist/6gFeBMvafy8NNfpc1L0HTK) | [Forest of Hope](https://open.spotify.com/album/40GZvovyynx8x0ii6Vhft3) | 1:49 | 2024-02-15 |  |
+| [Forest of Hope](https://open.spotify.com/track/2aH3zeFIh14oUTOgJpBsI1) | [Nash Parker](https://open.spotify.com/artist/6gFeBMvafy8NNfpc1L0HTK) | [Forest of Hope](https://open.spotify.com/album/40GZvovyynx8x0ii6Vhft3) | 1:49 | 2024-02-15 | 2024-03-08 |
 | [Further Away](https://open.spotify.com/track/6oUaVedjL2YE7i87ARsNV6) | [Michael Ojha](https://open.spotify.com/artist/4h15HPM1bGgwpOyfRk3w1w) | [Further Away](https://open.spotify.com/album/1kimHIU5zp5n0sR4GNajt2) | 3:18 | 2022-09-02 |  |
 | [Harmonic Waves](https://open.spotify.com/track/3tNHecaOXpZHJZ2bPMtOsq) | [Orakleminds](https://open.spotify.com/artist/76yD4nheAs3jgqSgQZDDwC) | [Harmonic Waves](https://open.spotify.com/album/3oCRkrg7AL8r5rMfGVPU2t) | 3:26 | 2022-09-02 |  |
 | [Harmonious](https://open.spotify.com/track/1w83dXv1Q6za9P3oh8bujC) | [Krishna's Flute](https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz) | [Harmonious](https://open.spotify.com/album/6CkC2eoJZLZr73f2LVreEx) | 6:44 | 2023-01-27 |  |
@@ -59,6 +61,7 @@
 | [Healing Winds](https://open.spotify.com/track/4dMKw8w6WNByJ5nVWdVEb2) | [Eta Centauri](https://open.spotify.com/artist/3KadSziW0YI74KukJn9uwn) | [Healing Winds](https://open.spotify.com/album/3ii72HV58BygTMrrqVh4UJ) | 3:02 | 2024-02-15 |  |
 | [High Fly](https://open.spotify.com/track/4lpIocJWZ7ubpEi2WmXs6Z) | [Majestic Sleep](https://open.spotify.com/artist/0sQArsC8yyQYhH6mk7Myt0) | [Vast Surroundings](https://open.spotify.com/album/4TAjh8pw6XL9Vujx5tMm7U) | 3:46 | 2022-09-02 |  |
 | [In The Distance](https://open.spotify.com/track/5INKoLuvsbws7oBfS2rmEp) | [Mindful Changes](https://open.spotify.com/artist/6WiU7IgtszyQMUqb4tOkdC) | [In The Distance](https://open.spotify.com/album/4FbG1Q7xwrNpq1pfZL3psk) | 2:31 | 2022-12-22 |  |
+| [Inner Deep](https://open.spotify.com/track/0nnhYgP1kNc2ueZ8GyqH6C) | [Trevor Marson](https://open.spotify.com/artist/4HY7iJRgI9SLocwSY7nZja) | [Inner Deep](https://open.spotify.com/album/6pUi1uAiffJv4NfIubyh5n) | 3:32 | 2024-03-07 |  |
 | [Inner Universe](https://open.spotify.com/track/1XOc1T0peSL0F5UF6J5xJJ) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Inner Universe](https://open.spotify.com/album/79nhvpmbNmMMVjPiOkzs2G) | 3:30 | 2022-09-02 |  |
 | [Intuitively](https://open.spotify.com/track/7Js2oijctTVG8KpEQaIe5I) | [Damir Yamm](https://open.spotify.com/artist/1IpLgouAHJGUP94xZkXi5z) | [Intuitively](https://open.spotify.com/album/5MU3m3fvGCtiiR98hwMiLB) | 2:57 | 2023-01-09 |  |
 | [Kali Yerg](https://open.spotify.com/track/5dC2dX17foqN5IjdFtOaGU) | [Voice of Apricot](https://open.spotify.com/artist/77QzOw4j6oaucAF3XLwUKr) | [Kali Yerg](https://open.spotify.com/album/6GlO6diN2U587KHDUpMbBf) | 3:04 | 2022-09-02 | 2023-03-10 |

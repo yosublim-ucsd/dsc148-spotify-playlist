@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Highlighting key releases from this month’s most exciting songwriters from around the globe\. Cover: <a href="spotify:artist:4wrzxtBZw20ufDstKyTnnP">Rachel Chinouriri</a> with collaborators HYLNU and Glen Roberts.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,572 likes - 39 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,656 likes - 39 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 | 38 | [OMG](https://open.spotify.com/track/39Tp0g9FmNfeRxOdh9mdUG) | [Libby Whitehouse](https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe) | [OMG](https://open.spotify.com/album/5nkLySr4VplyXkX7KVK2e0) | 2:41 |
 | 39 | [Anna \(Come Back\)](https://open.spotify.com/track/7mqHdhp7j8sIBPO1CjUmZJ) | [Brasko](https://open.spotify.com/artist/7pEbFi2YyD5d3Mxsqp5r4U) | [Anna \(Come Back\)](https://open.spotify.com/album/3OW6JJeLpagSnWjaYv2eRg) | 2:16 |
 
-Snapshot ID: `MCxjZGQ1NmQyOTIzZWMxMzlmOTFlYjZhZTE2NTFmNWMwZTc1NDFmNGMy`
+Snapshot ID: `MCwxOTljZmYzMGY5ZTIxNzM2NmJiMDZkY2UzZDA4OGUyNWQyNzBlMmRm`

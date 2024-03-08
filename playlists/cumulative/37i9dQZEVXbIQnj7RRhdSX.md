@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-1,697 songs - 3 day 14 hr 59 min
+1,698 songs - 3 day 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -697,7 +697,7 @@
 | [Il Salto \(feat\. Massimo Pericolo\)](https://open.spotify.com/track/4MWheZrBYkqaDsJ57aqajS) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [QVC 10 \- Quello Che Vi Consiglio Vol\. 10](https://open.spotify.com/album/12QaFsG7B3lBtB2TrMDg8g) | 2:44 | 2023-12-16 | 2023-12-22 |
 | [Il Signore delle Mosche](https://open.spotify.com/track/2y4gPh9HoBSr88eD56PiPq) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [I Nomi del Diavolo](https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh) | 3:13 | 2024-03-02 |  |
 | [Il tuo nome](https://open.spotify.com/track/2RVdq0QXC4JxU0X51ZQYaH) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [ALI](https://open.spotify.com/album/5wYCns6K6csMAkZhx3Ierm) | 2:50 | 2021-03-27\* | 2021-04-30 |
-| [Ilva \(Fume scure rmx\) \(feat\. Fido Guido\)](https://open.spotify.com/track/3qVXFPzGHZrZDvCK75USxg) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Fido Guido](https://open.spotify.com/artist/1b6blY2zesXu8QpeTUorPW) | [I Nomi del Diavolo](https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh) | 3:08 | 2024-03-02 |  |
+| [Ilva \(Fume scure rmx\) \(feat\. Fido Guido\)](https://open.spotify.com/track/3qVXFPzGHZrZDvCK75USxg) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Fido Guido](https://open.spotify.com/artist/1b6blY2zesXu8QpeTUorPW) | [I Nomi del Diavolo](https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh) | 3:08 | 2024-03-02 | 2024-03-08 |
 | [IMPORTANTE](https://open.spotify.com/track/7tsTlt7Kwj2tFvpukBtZd4) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI \(Deluxe\)](https://open.spotify.com/album/1qfURwkRukKvemVbObKJXy) | 3:21 | 2022-12-10 | 2023-02-10 |
 | [In Da Getto](https://open.spotify.com/track/1q0PYXTbDsirp2l74ng6pn) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 2:10 | 2021-09-12 | 2021-10-03 |
 | [In Da Getto](https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [In Da Getto](https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl) | 2:11 | 2021-08-23 | 2021-09-12 |
@@ -1421,6 +1421,7 @@
 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 | 2021-12-24 | 2023-12-30 |
 | [SO FLY](https://open.spotify.com/track/2Xzauj0gFhELmQ8KgoYiUS) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI \- ATTO II](https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6) | 2:18 | 2023-04-08 | 2023-05-02 |
 | [Soffierà](https://open.spotify.com/track/2O0y98O2o2hY9M3eBPvnsW) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [La Divina Commedia](https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl) | 3:22 | 2023-06-03 | 2023-06-11 |
+| [Sogna, Ragazzo, Sogna](https://open.spotify.com/track/1Bd1LDJyjKDJC7pznEMYOR) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Roberto Vecchioni](https://open.spotify.com/artist/3TVifQ5FPcIzzcYSUuJkp9) | [Sogna, Ragazzo, Sogna](https://open.spotify.com/album/4p6xrXwFIOLsoYKP5twbWg) | 4:29 | 2024-03-07 |  |
 | [Sogni al cielo](https://open.spotify.com/track/6Mp7YpHLtFGmmPxygBN9VG) | [Alex W](https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ) | [Sogni al cielo](https://open.spotify.com/album/1fF7WiV53Ovf3w3j8jeTb4) | 3:00 | 2021-10-06 | 2021-10-31 |
 | [SOGNI D'ORO](https://open.spotify.com/track/2tKH7kT40eTSp8SCf6VKeH) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:37 | 2022-04-09 | 2022-05-08 |
 | [SOGNI MATTI \(feat\. Leon Faun & Drast\)](https://open.spotify.com/track/0xD1pdwAdoa6SrBPoOyHDz) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Drast](https://open.spotify.com/artist/4e250LmaRPGcp0rbUbJtJm), [Leon Faun](https://open.spotify.com/artist/14XRgLXin9R3eKTNXBNwos) | [X2](https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ) | 3:17 | 2022-01-08 | 2022-01-30 |

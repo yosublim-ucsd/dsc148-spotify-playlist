@@ -4,7 +4,7 @@
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Ryan Hurd
 
-1,976 songs - 4 day 11 hr 3 min
+1,977 songs - 4 day 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1818,7 +1818,8 @@
 | [What Are You Drinking](https://open.spotify.com/track/6G2hBL1ttQuXbCvXV6c6F3) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Pelago](https://open.spotify.com/album/0vlxtyaep2FkkVidYC49PA) | 3:24 | 2021-11-20 | 2022-07-02 |
 | [What Are You Gonna Tell Her?](https://open.spotify.com/track/3wxISiy8s2huunhxBkTEhX) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [What Are You Gonna Tell Her?](https://open.spotify.com/album/4iwbkZsX1YmV0KiDDg5UiZ) | 3:13 | 2020-06-02 | 2020-06-07 |
 | [What Could've Been](https://open.spotify.com/track/4WWbmSEZTTWfqoOLSW8AMS) | [Gone West](https://open.spotify.com/artist/1dIS2M2CNnqd2ks8Okqi7A) | [What Could've Been](https://open.spotify.com/album/2bjUmxDz33wQ4f6X4Cimdq) | 3:42 | 2019-06-11 | 2019-09-15 |
-| [What Do I Know](https://open.spotify.com/track/2wVD8vcsuEyaoXlElfCSAw) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Songs From The Album Damascus](https://open.spotify.com/album/6yezH6J5KimsNRljf5WOUV) | 3:52 | 2024-02-02 |  |
+| [What Do I Know](https://open.spotify.com/track/0n7Ite33RM1kDcalm29E2r) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Songs From The Album Damascus](https://open.spotify.com/album/6MfkhCFBG2CRw3FZ45wSHi) | 3:52 | 2024-03-01 |  |
+| [What Do I Know](https://open.spotify.com/track/2wVD8vcsuEyaoXlElfCSAw) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Songs From The Album Damascus](https://open.spotify.com/album/6yezH6J5KimsNRljf5WOUV) | 3:52 | 2024-02-02 | 2024-03-08 |
 | [What Do They Know \- Gravel Drive Sounds](https://open.spotify.com/track/2alk0nzlmg9ZUitd5EAgAj) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [What Do They Know \(Gravel Drive Sounds\)](https://open.spotify.com/album/1Z1GhtmPUQYzqkPxTO8O5U) | 3:48 | 2021-05-22 | 2021-07-04 |
 | [What Do We Do Now?](https://open.spotify.com/track/2Y8Bc8FFaAFTLSUggumiqT) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [What Do We Do Now?](https://open.spotify.com/album/3DSiv8bSfBosbvQispCd9r) | 2:36 | 2022-05-13 | 2022-08-13 |
 | [WHAT DOESN'T KILL YA](https://open.spotify.com/track/09Lz0whqJWRlOuCxkbP0uh) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [WHAT DOESN'T KILL YA](https://open.spotify.com/album/0NME117HERTtVgmKpEnPQh) | 3:07 | 2023-11-24 | 2024-01-05 |

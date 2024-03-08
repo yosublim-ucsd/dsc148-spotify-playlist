@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. Foto: Trueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,388 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,585 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 99 | [Fe en el caos](https://open.spotify.com/track/2O1LF9Tatpg2nz435MCuWH) | [WHO'SNEAKY](https://open.spotify.com/artist/0PR49uPdrblEFjaqJUMq4B), [Santoz](https://open.spotify.com/artist/3TBQtYdNFCgig6ZrFUJkLx) | [Distopya](https://open.spotify.com/album/13etVEwAt5iRwXXYa3vaao) | 2:44 |
 | 100 | [Merito Propio](https://open.spotify.com/track/6h4dbOFS5ofc1Bpl1sHwz5) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Merito Propio](https://open.spotify.com/album/5kQ7gbYGyfjU8Gq8mRc0CV) | 2:42 |
 
-Snapshot ID: `MCwzNGViZjczYTNlMDI5ODI4ZjVlZDczMTI1ZWE0MGJhNjE5YWQ0Yjdj`
+Snapshot ID: `MCxjZmJjODc0MGU2YWY1MGQyNjBiYzhjMTU4MDE2NzBiMDhkOWNkNGYw`

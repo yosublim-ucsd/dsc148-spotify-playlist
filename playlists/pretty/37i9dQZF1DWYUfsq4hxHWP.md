@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Peytan Porter, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,730 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,789 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 99 | [Lonely Half](https://open.spotify.com/track/2BQnFxkXGlhK6DEKys1vcB) | [Nolan Gray](https://open.spotify.com/artist/1OYSaj41rLrzYgckKdMTBN) | [Lonely Half](https://open.spotify.com/album/69A6wpjebCtcaZMANUcJoZ) | 2:50 |
 | 100 | [Airplane](https://open.spotify.com/track/400dH8GoaaNGPyKm3yWqJD) | [Jordan James](https://open.spotify.com/artist/0qyWIv7Hdewfhqc1ozedrh) | [Airplane](https://open.spotify.com/album/0sGaAhqXXTtDHdXVZ5UR5e) | 3:32 |
 
-Snapshot ID: `MCw2OGI3ZjE2YWI0YjUwNzdlODA5OGRlYmYxY2EwZTM0NDZhYWEwYjUx`
+Snapshot ID: `MCw5YjAzNGZlY2Y1OWE4ZTlhNWU0MmVjZDQ2MmM5OWFlNDNhNDM2Y2Ew`

@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist.
 
-236 songs - 13 hr 0 min
+237 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Driving Under Stars](https://open.spotify.com/track/0HotR5MIbpuG5FJs1pqhZ5) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Driving Under Stars](https://open.spotify.com/album/3bCdV6zwCADxI7vCqF6h70) | 3:41 | 2023-10-16 | 2024-03-01 |
 | [Driving Under Stars](https://open.spotify.com/track/0wwhVMPo09vXS4uGTgOS2d) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Driving Under Stars](https://open.spotify.com/album/3x0TYmUqWVg1g4I2Hdvra1) | 3:41 | 2021-11-12 | 2022-07-27 |
 | [Every Holiday](https://open.spotify.com/track/2vXWJZVMkidqV3MwMpuw7a) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Every Holiday](https://open.spotify.com/album/5AREDLpKoBwu7fTHBmta2B) | 3:44 | 2021-11-12 |  |
+| [Every Holiday](https://open.spotify.com/track/1b0FdeyNJ0LuQ4ha8API9G) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Rearrange Us](https://open.spotify.com/album/0JEbkW1a2Ws7P8vMflSPc9) | 3:45 | 2023-11-30 |  |
 | [Everything Is One Big Christmas Tree](https://open.spotify.com/track/4iNWgE5JkuZfB2TrRmVFj2) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [Realism \(Standard\)](https://open.spotify.com/album/3JaKUx1XHOR0kWiNXdje2h) | 2:24 | 2021-11-12 | 2022-07-24 |
 | [Everything's Gonna Be Cool This Christmas](https://open.spotify.com/track/4FMb5NDvglJfEbzjjoz3Xb) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [Christmas Rock](https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2) | 2:50 | 2023-10-16 | 2024-02-25 |
 | [Everything's Gonna Be Cool This Christmas](https://open.spotify.com/track/1hpxwEmbL3papTRjdM0Ok2) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [Useless Trinkets\-B Sides, Soundtracks, Rarieties and Unreleased 1996\-2006](https://open.spotify.com/album/5tdxfCXrgvk8vj81QWh2tt) | 2:51 | 2022-12-23 | 2023-01-28 |
@@ -130,7 +131,7 @@
 | [Joy To The World](https://open.spotify.com/track/2IqU8ku7GvY7HE0s3sYA34) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis) | 4:20 | 2022-12-23 |  |
 | [Just Like Christmas](https://open.spotify.com/track/4zMP6aieSmWQNFdp3O4Owv) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Christmas](https://open.spotify.com/album/1SITmIj0Gjx12n077CU0XC) | 3:08 | 2021-11-12 |  |
 | [Lady December](https://open.spotify.com/track/7IvPrUDA77UQBuRAHWU4bT) | [The Concretes](https://open.spotify.com/artist/4uFpoTqyXb2tfvetAjmJQT) | [Layourbattleaxedown](https://open.spotify.com/album/3aDhJEf15WeeLQAwIyYIi2) | 4:39 | 2021-11-12 | 2022-07-21 |
-| [Last Christmas](https://open.spotify.com/track/6WyeIQXw0Dd6SOjxs0P2is) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Last Christmas](https://open.spotify.com/album/4X80T73WsoHePePZsRhMQw) | 3:10 | 2023-11-25 |  |
+| [Last Christmas](https://open.spotify.com/track/6WyeIQXw0Dd6SOjxs0P2is) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Last Christmas](https://open.spotify.com/album/4X80T73WsoHePePZsRhMQw) | 3:10 | 2023-11-25 | 2024-03-08 |
 | [Last Christmas](https://open.spotify.com/track/3SgeZfuLcoSjizulShWC2J) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Last Christmas](https://open.spotify.com/album/6CkoecFP3wz56NCfaroT7R) | 4:40 | 2022-11-08 |  |
 | [Last Christmas](https://open.spotify.com/track/08qJ93wbDYK6kWCRh4eTCj) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [2019](https://open.spotify.com/album/27tiEUoVBcG4VlFGoZd0IC) | 2:41 | 2021-12-08 | 2023-11-03 |
 | [Last Christmas](https://open.spotify.com/track/4mOjvafN3FbHFmXH5QaXv5) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Last Christmas](https://open.spotify.com/album/3acMUF1baafzo6Zi61F1rS) | 2:41 | 2023-10-16 |  |

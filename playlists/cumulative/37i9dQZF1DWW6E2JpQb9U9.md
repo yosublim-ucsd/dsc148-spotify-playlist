@@ -4,7 +4,7 @@
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi
 
-319 songs - 1 day 0 hr 0 min
+320 songs - 1 day 0 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [El Juicio del Ganso \- En Vivo](https://open.spotify.com/track/2jCcXjx7lVhRXaYns1obr2) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Inventa un Mañana \(En Vivo\)](https://open.spotify.com/album/67OMbdtXyA15dnJ2JbR647) | 5:25 | 2023-08-31 | 2023-09-22 |
 | [El Juicio del Ganso \- En Vivo](https://open.spotify.com/track/3F0AqUi23yKEamhnjXTrSR) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Inventa un Mañana \(En Vivo\)](https://open.spotify.com/album/4UQ9lwuThqGMWNCS5UlSqF) | 5:25 | 2023-03-25 | 2023-09-10 |
 | [El Mono Relojero \- En Vivo](https://open.spotify.com/track/2zn30N7Bp6KIS8FYXZN1yN) | [Kapanga](https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp) | [¿ Mamá Dónde Estoy? \(En Vivo\)](https://open.spotify.com/album/1Yc367iy8r4EJKwyYjBLi0) | 6:47 | 2022-04-01 | 2022-07-20 |
-| [El Riesgo \(Vivo en Obras\)](https://open.spotify.com/track/4Jk2hUyD31f1mty7EvWWmj) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Trascenlace \(Vivo en Obras\)](https://open.spotify.com/album/3b9dOyIcbeR3847hEt9hVy) | 5:17 | 2022-04-01 |  |
+| [El Riesgo \(Vivo en Obras\)](https://open.spotify.com/track/4Jk2hUyD31f1mty7EvWWmj) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Trascenlace \(Vivo en Obras\)](https://open.spotify.com/album/3b9dOyIcbeR3847hEt9hVy) | 5:17 | 2022-04-01 | 2024-03-08 |
 | [El ritual de los pibes atentos](https://open.spotify.com/track/3a0f6rpagOVlHWWfpwhZgO) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Alucinados como la primera vez](https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD) | 5:16 | 2022-06-10 | 2022-07-07 |
 | [El Silencio del Ave \- En Vivo](https://open.spotify.com/track/0RWWaNu275VyadQzVeIKql) | [Cielo Razzo](https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu) | [El Silencio del Ave \(En Vivo\)](https://open.spotify.com/album/3MZXjyryRNPYa82uNmEB8i) | 4:36 | 2022-04-01 | 2022-06-19 |
 | [El Viejo \(En Vivo\)](https://open.spotify.com/track/7dF2tY2XnIJCfAn5xEegm0) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [Pepsi Music 2005](https://open.spotify.com/album/3tXQQLWOJSgvCHqmGGCd1N) | 3:15 | 2022-04-01 |  |
@@ -145,6 +145,7 @@
 | [Incinerador \- En Vivo, La Trastienda](https://open.spotify.com/track/481sJW9cptyMhr5GqtDU4X) | [La Chancha Muda](https://open.spotify.com/artist/3q7B22drORYGk4srVegr3T) | [La Chancha Muda \(En Vivo, La Trastienda\)](https://open.spotify.com/album/4W74DLNQlKJ2ykYJ1EMwCT) | 2:43 | 2022-06-24 | 2022-07-15 |
 | [Infierock \- Live](https://open.spotify.com/track/1KlbkEbUZ5sMvAlW1ZWEBR) | [Barilari](https://open.spotify.com/artist/0bEinswrM8NYuppKnMljIg) | [Infierock \(Live\)](https://open.spotify.com/album/0yQfwnaXfNUUVE83MUllBg) | 6:29 | 2022-06-10 | 2022-07-31 |
 | [Irresponsables \- En Vivo](https://open.spotify.com/track/27CiyWWdkSAM6mWfaNYaxt) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Repuesto de Fe \(En Vivo\)](https://open.spotify.com/album/37T4qeUVTpx7Ps3HhSKdKc) | 2:44 | 2022-04-01 |  |
+| [Ji Ji Ji \- En Vivo, Sábado 12 de Marzo de 2016 / Hipódromo de Tandil](https://open.spotify.com/track/1TGLpWSsFMuDR3DMD6Pyc5) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Ji Ji Ji \(En Vivo, Sábado 12 de Marzo de 2016 / Hipódromo de Tandil\)](https://open.spotify.com/album/32bau642DRCuW27UlsiEnw) | 6:03 | 2024-03-07 |  |
 | [Julieta \- Vivo Moscú](https://open.spotify.com/track/1fKns7yBA2gao1CGrGVSlx) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [BABYROCK \(Vivo Moscú\)](https://open.spotify.com/album/3iWXsRv0pPb0OdcraHOjUh) | 3:45 | 2023-12-22 | 2024-01-07 |
 | [Kilómetros \- En Vivo](https://open.spotify.com/track/7C1p7RTvxo120n0rauSTuy) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Veinticirco La Gira \(En Vivo\)](https://open.spotify.com/album/4njHyaQrxpocOeoZb07LEC) | 4:09 | 2023-12-15 |  |
 | [La Bisagra \- En Vivo](https://open.spotify.com/track/3MjHXk1cs8ukXck6kFooZd) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [En Vivo en la Plata \(En Vivo\)](https://open.spotify.com/album/3hGGKGmQXxy9HrJuCFSDRs) | 4:44 | 2022-04-01 | 2022-06-10 |

@@ -42,7 +42,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 207658,
       "name": "33",
       "url": "https://open.spotify.com/track/0Or8gwrL6DpEsp59HPM7IE"
@@ -452,6 +452,24 @@
       "duration_ms": 128597,
       "name": "Caer",
       "url": "https://open.spotify.com/track/76imPO6e12fh4HTzsbqYVm"
+    },
+    {
+      "album": {
+        "name": "Cambian",
+        "url": "https://open.spotify.com/album/63kRgJ0EtVVDQpKoAUiOsz"
+      },
+      "artists": [
+        {
+          "name": "\u00c1rbol",
+          "url": "https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264300,
+      "name": "Cambian",
+      "url": "https://open.spotify.com/track/7chuX6EefRPb520HqAFDej"
     },
     {
       "album": {

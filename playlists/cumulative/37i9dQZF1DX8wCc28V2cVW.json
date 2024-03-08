@@ -928,6 +928,24 @@
       },
       "artists": [
         {
+          "name": "\u5cf6 \u7fd4\u592a\u6717",
+          "url": "https://open.spotify.com/artist/4edH5rHkxAdEiV56PcNQUq"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92026,
+      "name": "FFVII REMAKE: \u30b9\u30e9\u30e0\u306e\u592a\u967d (Undercity Suns)",
+      "url": "https://open.spotify.com/track/6arhdnRNajp1Dm9UP0w4RI"
+    },
+    {
+      "album": {
+        "name": "FINAL FANTASY VII REMAKE Original Soundtrack",
+        "url": "https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3"
+      },
+      "artists": [
+        {
           "name": "Nobuo Uematsu",
           "url": "https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv"
         }
@@ -2664,7 +2682,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 343320,
       "name": "Sunset Path",
       "url": "https://open.spotify.com/track/75NI6pNNvOvpeb8SsBkedd"

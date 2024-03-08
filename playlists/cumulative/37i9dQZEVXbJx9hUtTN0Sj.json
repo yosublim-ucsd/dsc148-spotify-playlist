@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Dune: Part Two (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1PeYjDmxcRNvxLd5mGHuCC"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261795,
+      "name": "A Time of Quiet Between the Storms",
+      "url": "https://open.spotify.com/track/7lG5m4JN0exualOkghSNXq"
+    },
+    {
+      "album": {
         "name": "Acid Cry",
         "url": "https://open.spotify.com/album/1mDhi4pdNILU4hxVBWTiAa"
       },
@@ -1006,7 +1024,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 164545,
       "name": "EASY",
       "url": "https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI"
@@ -1162,7 +1180,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
@@ -1654,7 +1672,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 195998,
       "name": "it is what it is",
       "url": "https://open.spotify.com/track/0DiwE0n9CdMBf8Ow3g5C2F"
@@ -2168,7 +2186,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 190000,
       "name": "Movie",
       "url": "https://open.spotify.com/track/16Pbpu633GSU4w2G5LKPUS"
@@ -2588,7 +2606,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 127689,
       "name": "Poison - Hazbin Hotel Original Soundtrack",
       "url": "https://open.spotify.com/track/6ZXL1A1BVshe1JZ1IY734k"
@@ -2804,7 +2822,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 161213,
       "name": "Rome",
       "url": "https://open.spotify.com/track/2lfVOXTYg0AQ30BOmvTDXX"
@@ -2822,7 +2840,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 180959,
       "name": "SAND",
       "url": "https://open.spotify.com/track/79feeOJI7Rk8xwDdrOFsDO"

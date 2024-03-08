@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,710 likes - 84 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,754 likes - 84 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 80 | [Sexo e Dramas](https://open.spotify.com/track/1egbFZtcwx2urbr2q8TsZ5) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Sexo e Dramas](https://open.spotify.com/album/4XzBe109U96T5KXaTRCarR) | 2:32 |
 | 81 | [Faz Assim Mozão](https://open.spotify.com/track/5Y9Ovmryvd6AAxRo20UWR3) | [PTK](https://open.spotify.com/artist/4M7XfX7J0sw520nrZXkbpL), [Bero Costa DJ](https://open.spotify.com/artist/4m3zOv7q3RCCDkEI506vxD), [Signobeat](https://open.spotify.com/artist/2oyDLcP8d7oXp4rWHNIXol) | [Faz Assim Mozão](https://open.spotify.com/album/5CcgaUjR3LI7WSnwARqJCw) | 2:59 |
 | 82 | [Moderada](https://open.spotify.com/track/6ZIjjfDP7ztfZAT8s1cvXF) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Toda Noite](https://open.spotify.com/album/1ybO5RFlM3hhjgssvNfKNe) | 1:32 |
-| 83 | [Seu Desejo](https://open.spotify.com/track/2YcIs0ze3MeObnD9zXTifZ) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [GREGO](https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X), [DJ Pedro Vieira](https://open.spotify.com/artist/6Nc0KutYK7ABhJ2jC1K2mn), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Seu Desejo](https://open.spotify.com/album/3adNSP3xdQtHLXDiKt7AMU) | 3:54 |
+| 83 | [Seu Desejo](https://open.spotify.com/track/2YcIs0ze3MeObnD9zXTifZ) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [GREGO](https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X), [DJ Pedro Vieira](https://open.spotify.com/artist/6Nc0KutYK7ABhJ2jC1K2mn), [Nath Fischer](https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Seu Desejo](https://open.spotify.com/album/3adNSP3xdQtHLXDiKt7AMU) | 3:54 |
 | 84 | [King Size](https://open.spotify.com/track/65H0yBiqmdiXinuexEWDAs) | [Olhares](https://open.spotify.com/artist/4sZgfmE3StdCfvUDOZakzc), [Tangi](https://open.spotify.com/artist/5oFbBc3ADqWvbU3jzihIXM) | [King Size](https://open.spotify.com/album/0nsTJkAhy8AXuK95Z1jhGm) | 2:32 |
 
-Snapshot ID: `MCw0Y2UwYjA0YThmOGYyMzc4MGNiYjI1MWZjZmJmYzM3ZTg3YWM2ZGRh`
+Snapshot ID: `MCxkNWE3MzMyZmI0YmUzMGZmODNlZDliYWY2NTBmZGE2MzkwZDlkYTI3`

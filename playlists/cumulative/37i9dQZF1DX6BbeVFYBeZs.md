@@ -4,7 +4,7 @@
 
 > The beautiful sound of guitar to help you wind down.
 
-366 songs - 16 hr 1 min
+370 songs - 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Amarilla](https://open.spotify.com/track/3QW1G65bI9fplVMY1vvgWq) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Amarilla](https://open.spotify.com/album/7LvbQ7xAtrw2mzWZxzHuzk) | 2:27 | 2022-06-17 | 2023-08-26 |
 | [Amfora](https://open.spotify.com/track/783rIPMloYUfHcBnNwdj9Q) | [Elke Meyer](https://open.spotify.com/artist/1oFnmVpqNOMomWvL8moz2j) | [Amfora](https://open.spotify.com/album/55dDmoU9A2nl7jjJsRydY2) | 2:04 | 2022-12-16 |  |
 | [Amor Perfeito](https://open.spotify.com/track/5Ayj1cdbFJ6d9MwFeFEREe) | [Hanni Licht](https://open.spotify.com/artist/1RWNLVpTjMKl8MCFV4SUma) | [Amor Perfeito](https://open.spotify.com/album/5tbZcyDOEmo4dbpes7LAlO) | 2:20 | 2023-08-31 |  |
-| [An Italian Lovesong](https://open.spotify.com/track/0BvvHp4Swg1sulxZd9UhPo) | [Toto Espinoza](https://open.spotify.com/artist/19dDL7A3QDM8tAUJg5y0OX) | [An Italian Lovesong](https://open.spotify.com/album/5Qjq6Rr6Fgzzln3HlwzaCF) | 3:31 | 2022-06-17 |  |
+| [An Italian Lovesong](https://open.spotify.com/track/0BvvHp4Swg1sulxZd9UhPo) | [Toto Espinoza](https://open.spotify.com/artist/19dDL7A3QDM8tAUJg5y0OX) | [An Italian Lovesong](https://open.spotify.com/album/5Qjq6Rr6Fgzzln3HlwzaCF) | 3:31 | 2022-06-17 | 2024-03-08 |
+| [An Italian Lovesong](https://open.spotify.com/track/5oqJe8VkPZxRHIHSgE4sh9) | [Toto Espinoza](https://open.spotify.com/artist/19dDL7A3QDM8tAUJg5y0OX) | [An Italian Lovesong](https://open.spotify.com/album/5gaL77WSTk0aETu3ODH8W7) | 3:31 | 2023-12-15 |  |
 | [Andromeda Shimmer](https://open.spotify.com/track/6dDWBvom0X1VsTaH6k6Uml) | [Under The Zodiac](https://open.spotify.com/artist/7rDI2DTZpZryRfJoZiI4WG) | [Andromeda Shimmer](https://open.spotify.com/album/4lUIFJ7YZuwxqEYoMwWMQB) | 2:46 | 2022-06-17 | 2023-03-10 |
 | [Another Perspective](https://open.spotify.com/track/7hx5wUFiy40D5nviyVCNdh) | [Andreas Dalvik](https://open.spotify.com/artist/1g7nSoa5dEBlJr2UD0CFB2) | [Another Perspective](https://open.spotify.com/album/3p8nGt4Dn5go0hOypGZCDR) | 3:16 | 2023-12-15 |  |
 | [Antigua](https://open.spotify.com/track/6lfQmQzzhPWA26Zn478oaL) | [Barry O'sullivan](https://open.spotify.com/artist/3vjTXSmiHkMA1EpHccmuW2) | [Antigua](https://open.spotify.com/album/7C6oMgCrAeWx1kV3jfNu1h) | 1:59 | 2022-10-28 | 2023-08-26 |
@@ -73,7 +74,8 @@
 | [Close To Firenze](https://open.spotify.com/track/6Fixm5hLh4ySUdQmXHYTNq) | [Robert Delofeu](https://open.spotify.com/artist/05HoDshGmaZHJBCs6HWFA3) | [Close To Firenze](https://open.spotify.com/album/6K0R6DtEhe1wcG4U4Hjq8W) | 2:42 | 2022-06-17 |  |
 | [Closer](https://open.spotify.com/track/4qUIaxxEtetvqZ9CdnUDwj) | [Manuel Galán](https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM) | [Closer](https://open.spotify.com/album/4qrSM02InSMtRouW2fHfVP) | 1:59 | 2022-08-12 | 2023-08-26 |
 | [Closure](https://open.spotify.com/track/3ttrN1Rck6yBoCYMbvC4Vp) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Closure](https://open.spotify.com/album/4EsEmffVs8EQszN8sqyucH) | 2:41 | 2023-06-22 |  |
-| [Coming Home to You](https://open.spotify.com/track/3z7zpVaGejh3GBR3DhlHWQ) | [Luca Stavos](https://open.spotify.com/artist/4haSSnvfxfNuKQ0Rxroodu) | [Coming home to you](https://open.spotify.com/album/5RuJR2nM1Rur7O5cAQxfrk) | 3:16 | 2022-06-24 |  |
+| [Coming home to you](https://open.spotify.com/track/2aI1bWAGzEgG7SLkVihyJJ) | [Luca Stavos](https://open.spotify.com/artist/4haSSnvfxfNuKQ0Rxroodu) | [Coming home to you](https://open.spotify.com/album/2Hly2bwVt1kYoKBAPkye2Z) | 3:16 | 2023-12-15 |  |
+| [Coming Home to You](https://open.spotify.com/track/3z7zpVaGejh3GBR3DhlHWQ) | [Luca Stavos](https://open.spotify.com/artist/4haSSnvfxfNuKQ0Rxroodu) | [Coming home to you](https://open.spotify.com/album/5RuJR2nM1Rur7O5cAQxfrk) | 3:16 | 2022-06-24 | 2024-03-08 |
 | [Como Fue](https://open.spotify.com/track/4sqW8VHxYBVdEftuQYF0Tz) | [Yuto Kanazawa](https://open.spotify.com/artist/01svVAKPw9ioP5e46kMARC) | [Como Fue](https://open.spotify.com/album/3YNVNcF8L4GZDfdA2l5Vos) | 1:58 | 2022-06-17 | 2023-08-26 |
 | [Confidencen](https://open.spotify.com/track/2uqvdSTgEvXtKc8AutVTfc) | [Adrian Edblad](https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW) | [Confidencen](https://open.spotify.com/album/2ponLnQXC8yHOsxtvs2Ypz) | 2:21 | 2023-04-21 |  |
 | [Corazón De Piedra](https://open.spotify.com/track/3odjYqGY9KdsTazd5fdwrt) | [Combo Cadre](https://open.spotify.com/artist/1vnozJqhOSx4kvl9sMGZML) | [Corazón De Piedra](https://open.spotify.com/album/3jTZyRV27S9r7DpMd9WW69) | 2:18 | 2022-06-17 |  |
@@ -305,7 +307,8 @@
 | [Speak Once More](https://open.spotify.com/track/2HUIWdVfSsoLeC20cgX7YB) | [Katharina Becquer](https://open.spotify.com/artist/5BT146Y5PHI3f8l5ocNQCC) | [Speak Once More](https://open.spotify.com/album/4n0apJdJD2i8Z2xajNujPb) | 1:51 | 2022-07-01 | 2023-08-26 |
 | [Spero Ancora In Un Tuo Ritorno](https://open.spotify.com/track/2rARKDKGUhZshI910DTnZJ) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Spero Ancora In Un Tuo Ritorno](https://open.spotify.com/album/2q5ZGA1ohBaWg4kNVbMAvt) | 3:58 | 2022-06-17 | 2023-04-22 |
 | [Springwood Ranch](https://open.spotify.com/track/1LxPHwvy8xUaZUXJoGHiaD) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Springwood Ranch](https://open.spotify.com/album/2phvXSYBb8eODAavj4iplL) | 2:54 | 2023-08-10 |  |
-| [Stockholm Waltz](https://open.spotify.com/track/4qH4Otl7cbyUjg7kshFzUr) | [Julian Vigil](https://open.spotify.com/artist/37iIAObpTKbDOZ9BjSrmMv) | [Stockholm Waltz](https://open.spotify.com/album/0Vl8Nl9s21QHz3fSk3U623) | 2:20 | 2022-09-16 |  |
+| [Stockholm Waltz](https://open.spotify.com/track/28oHpnRPMxVcrXVmd4VqFj) | [Julian Vigil](https://open.spotify.com/artist/37iIAObpTKbDOZ9BjSrmMv) | [Stockholm Waltz](https://open.spotify.com/album/7ELKIYBbXhI8IG8vdZTFTg) | 2:20 | 2023-12-15 |  |
+| [Stockholm Waltz](https://open.spotify.com/track/4qH4Otl7cbyUjg7kshFzUr) | [Julian Vigil](https://open.spotify.com/artist/37iIAObpTKbDOZ9BjSrmMv) | [Stockholm Waltz](https://open.spotify.com/album/0Vl8Nl9s21QHz3fSk3U623) | 2:20 | 2022-09-16 | 2024-03-08 |
 | [Storyteller](https://open.spotify.com/track/7d9uanPShS0NVsESqcArCa) | [Kaspar Mann](https://open.spotify.com/artist/7hZPqfKfcyqVgLOQ5vOGk8) | [Storyteller](https://open.spotify.com/album/3Du4mTpGliNy0e7qAIdR3G) | 3:01 | 2023-06-08 |  |
 | [Strange Encounter](https://open.spotify.com/track/0wy7FZ340c8LFHbbu07od2) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Strange Encounter](https://open.spotify.com/album/1gPHMceOELyRK5Sc7sbX4m) | 2:20 | 2023-03-31 | 2023-06-23 |
 | [Sua Flor](https://open.spotify.com/track/0392xui5zL1nRux90JIPuv) | [Humberto Montoya](https://open.spotify.com/artist/62gwHrOGPCG9ZTH8HJpFde) | [Sua Flor](https://open.spotify.com/album/0HYEHpNnG4gvnH7JchXalD) | 1:45 | 2022-07-08 | 2023-01-20 |
@@ -371,7 +374,8 @@
 | [Words Are Poor](https://open.spotify.com/track/0cplAz2yKmEDkb2raqy6xF) | [Aurelia](https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA) | [Words Are Poor](https://open.spotify.com/album/3kR43BKgFDcHsRwhrkz26S) | 3:58 | 2022-06-17 |  |
 | [Yesteryear](https://open.spotify.com/track/26onATmE5ib4iKkPfvHtnw) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Yesteryear](https://open.spotify.com/album/5Uu6qKT8FsFyUD0tRDIfxZ) | 2:39 | 2023-11-24 |  |
 | [You're The Inspiration](https://open.spotify.com/track/0EzDeUITUHCBNdaYn8w90u) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [You're The Inspiration](https://open.spotify.com/album/4UAcuTJDr9h36ufNW53Age) | 4:16 | 2022-10-07 |  |
-| [Zorica](https://open.spotify.com/track/6cj0JUDGyVNpNUD8B04k5k) | [Olle Linder](https://open.spotify.com/artist/3DnXgG6Wr1VxhsP543vnug) | [Zorica](https://open.spotify.com/album/3XTBwXoDQoe4zAZvP7igxW) | 3:46 | 2022-06-17 |  |
+| [Zorica](https://open.spotify.com/track/41RJJYUW726mlvz292DLax) | [Olle Linder](https://open.spotify.com/artist/3DnXgG6Wr1VxhsP543vnug) | [Zorica](https://open.spotify.com/album/5jQeHeEppLraXMGdzUmNJT) | 3:46 | 2023-12-15 |  |
+| [Zorica](https://open.spotify.com/track/6cj0JUDGyVNpNUD8B04k5k) | [Olle Linder](https://open.spotify.com/artist/3DnXgG6Wr1VxhsP543vnug) | [Zorica](https://open.spotify.com/album/3XTBwXoDQoe4zAZvP7igxW) | 3:46 | 2022-06-17 | 2024-03-08 |
 | [Zugspitze](https://open.spotify.com/track/26CNL6DBBUUfy324aX8BMe) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Zugspitze](https://open.spotify.com/album/4iP6RHIFwsMu5nYUAEyfTs) | 2:01 | 2022-10-07 |  |
 | [Água e Vinho](https://open.spotify.com/track/5xPqNq3Z58ZOHH75WHs4vi) | [Yuto Kanazawa](https://open.spotify.com/artist/01svVAKPw9ioP5e46kMARC), [Diego Diaz](https://open.spotify.com/artist/3F3ZqEckbn2ofYE3LPo3su), [Eclectic Spirit](https://open.spotify.com/artist/4XKk8AOY8iU1w8DSOLaifN) | [Água e Vinho](https://open.spotify.com/album/6oqDlztZMSJQgQAMxqVQjy) | 9:53 | 2022-06-17 | 2022-07-15 |
 

@@ -4,7 +4,7 @@
 
 > Playlist réalisée avec Louane \(du titre \#1 au \#20\) à l’occasion de la Journée internationale des droits des femmes.
 
-1,179 songs - 2 day 13 hr 7 min
+1,180 songs - 2 day 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -636,7 +636,7 @@
 | [Love me or leave me](https://open.spotify.com/track/735MKgrGONAiSTofyRMQ5C) | [Kareen Guiock\-Thuram](https://open.spotify.com/artist/0YXx07hUxn2vNcy8Cdj5ER) | [Nina](https://open.spotify.com/album/6z7RipHovotv8iZtjz3hIt) | 3:14 | 2023-05-02 | 2023-06-07 |
 | [Love to Love](https://open.spotify.com/track/4YRmylEOTJlLptRRo3iNpC) | [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [Love to Love](https://open.spotify.com/album/6p09G9Q6vzehJPW0IzoMNF) | 3:07 | 2022-08-02 | 2022-09-07 |
 | [Lové](https://open.spotify.com/track/53g4gARwjJHVGIqMLAKcYl) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Dimanche](https://open.spotify.com/album/5KnRVFct1nHFXTJ3iavsLq) | 3:17 | 2022-04-05 | 2022-05-04 |
-| [LUCKY](https://open.spotify.com/track/5MKX0y0nRqiXc1lnpDxMFM) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [LUCKY](https://open.spotify.com/album/48yAtmi6yZ3vyp4lwhdQif) | 3:28 | 2024-03-05 |  |
+| [LUCKY](https://open.spotify.com/track/5MKX0y0nRqiXc1lnpDxMFM) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [LUCKY](https://open.spotify.com/album/48yAtmi6yZ3vyp4lwhdQif) | 3:30 | 2024-03-05 |  |
 | [Lullaby](https://open.spotify.com/track/196ohVPwqFXEJ0oZPqSGSz) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn) | [Gabi Hartmann](https://open.spotify.com/album/1blq9cHNkbEFBPNUyUNRLv) | 2:25 | 2023-01-31 | 2023-03-01 |
 | [Lundi au Lundi](https://open.spotify.com/track/6aphfKrq5Iirl1iNRP7WdL) | [Romy Rose](https://open.spotify.com/artist/0McCULnP8KpnUqIPSttJ2a) | [Lundi au Lundi](https://open.spotify.com/album/4gbl5DjpiZhaRbFyvRIhKA) | 2:41 | 2022-08-02 | 2022-09-07 |
 | [Lune](https://open.spotify.com/track/0AnjcTrYh7iLxTC7zfj740) | [CARLA DONA](https://open.spotify.com/artist/5WN3kbUKg1vpWSlEsuNx0x) | [Lune](https://open.spotify.com/album/2MfIq07gO3uUeRdWPRxWKw) | 3:22 | 2023-08-01 | 2023-09-06 |
@@ -674,6 +674,7 @@
 | [Maquiller](https://open.spotify.com/track/0kSlKM6oCLbpmpHXf3JCAT) | [Sola](https://open.spotify.com/artist/0UTolPLHS3Il6Pz2DrnXVV) | [Maquiller](https://open.spotify.com/album/0Ii2tDoeGbMmzSnbBF9yv0) | 2:33 | 2022-05-03 | 2022-06-01 |
 | [Margharita](https://open.spotify.com/track/3ErRMkVn5iKbB5Y5srrN3r) | [Jadanaë](https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs) | [Margharita](https://open.spotify.com/album/5nMiTVJi7e0NmtPhgQPyaa) | 3:00 | 2022-11-08 | 2022-12-01 |
 | [Maria](https://open.spotify.com/track/42Cqkj0z5q1SfxBs2Pvo31) | [MIMAA](https://open.spotify.com/artist/7CGhrDSdJxatpQf0qNRACS) | [Maria](https://open.spotify.com/album/0rSEWeNYKndBPAjwG9yvSE) | 2:47 | 2023-01-03 | 2023-02-01 |
+| [Marianne](https://open.spotify.com/track/7kAA7NbINuaJ6TM89lwaLz) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8), [Golshifteh Farahani](https://open.spotify.com/artist/2r87yC8H1mrlvAP8kq6BuB) | [Marianne](https://open.spotify.com/album/40osV1BSzFWp11y4jZLCMq) | 3:41 | 2024-03-05 |  |
 | [Mathématiques](https://open.spotify.com/track/4vnLY3Kte7w8EhLoviMDlq) | [MUS4](https://open.spotify.com/artist/28fbKmZcU706c0zqRvUpXm) | [Mathématiques](https://open.spotify.com/album/1OQWEDEzqFiDv5Gkws7kV3) | 2:18 | 2023-01-31 | 2023-03-01 |
 | [MATTER OF TIME](https://open.spotify.com/track/1BiQ2jfH5Etm1jwmlSEeHZ) | [lya!](https://open.spotify.com/artist/5DIzsQoiKqAEqckzSIOGDH) | [MATTER OF TIME](https://open.spotify.com/album/6qqsKkM05X5NISYoXNS9gk) | 4:13 | 2022-02-01 | 2022-03-08 |
 | [Mattress](https://open.spotify.com/track/117LsXmdWsAaodcvRBQfYe) | [Praa](https://open.spotify.com/artist/2BEp4lORHjjxT1zuqRTxIt) | [Mattress](https://open.spotify.com/album/2jNE05koiPr9OupkN8NG7b) | 2:32 | 2022-10-05 | 2022-11-09 |

@@ -4,7 +4,7 @@
 
 > This is Mc Dricka\. The essential tracks, all in one playlist.
 
-58 songs - 3 hr 17 min
+59 songs - 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Tô Solteiro É Só Bailão](https://open.spotify.com/track/5xN9BzkEmwEXGRfBc4UnRv) | [Chicão do Piseiro](https://open.spotify.com/artist/4JBL9SoZVzV14jqKe77LGG), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Julho](https://open.spotify.com/album/2U11n8cKDtqAPX9vwexbHk) | 2:30 | 2023-12-30 | 2024-03-07 |
 | [Vagabunda do Caralho](https://open.spotify.com/track/4hlHoQgfFH0Ke875XAOkvc) | [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Rickweek](https://open.spotify.com/album/3hWqmz0ezKfNe2pVW3eoNf) | 2:06 | 2023-12-30 |  |
 | [Vai Sua Cavalona \(feat\. Mc Th & Mc Dricka\)](https://open.spotify.com/track/7wI6xm1OLGJtnvPgCuTR7y) | [Turma do Cangaceiro](https://open.spotify.com/artist/3keWcR7OadJtVV1ICcJLEu), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Vai Sua Cavalona \(Remix Arrochadeira\)](https://open.spotify.com/album/64X409jRijesvSKuLwJTjC) | 2:41 | 2023-12-30 |  |
-| [Vegas](https://open.spotify.com/track/3tDhSfnRKMOt9DIfKqxkrB) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [DJ LC MARTINS](https://open.spotify.com/artist/2M1LWSbBSx7g1SkZQnmk35) | [Vegas](https://open.spotify.com/album/18DDpF3WzyoedUBDHKqBmb) | 2:40 | 2023-12-30 |  |
+| [Vegas](https://open.spotify.com/track/06GVxEh3wIwWGg54BauJ1p) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Vegas](https://open.spotify.com/album/5ectgcy98pAnAPP90OoHAn) | 2:40 | 2024-03-07 |  |
+| [Vegas](https://open.spotify.com/track/3tDhSfnRKMOt9DIfKqxkrB) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [DJ LC MARTINS](https://open.spotify.com/artist/2M1LWSbBSx7g1SkZQnmk35) | [Vegas](https://open.spotify.com/album/18DDpF3WzyoedUBDHKqBmb) | 2:40 | 2023-12-30 | 2024-03-08 |
 | [Vegas \(feat\. Mc Dricka\)](https://open.spotify.com/track/5TOpvd9y5J0v6ZN8Yiz2p4) | [Biu do Piseiro](https://open.spotify.com/artist/0Pl4c5YACE9Hwq4l48d9kv), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [O Maior Piseiro de Todos os Tempos!](https://open.spotify.com/album/0oxygTtCqNQwwgTd7xIezI) | 1:59 | 2023-12-30 |  |
 | [Vegas \(feat\. Mc Dricka\)](https://open.spotify.com/track/0GBDRkOUYLDU62RU57mPCo) | [Turma da Bregadeira](https://open.spotify.com/artist/1Yd4ADHmH76FCy0nK4Nf2J), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [O de Sempre no Mesmo Padrão](https://open.spotify.com/album/0yMK3loQLSpSSesvrtdDT5) | 2:35 | 2024-01-04 | 2024-02-28 |
 | [Vida Do Crime](https://open.spotify.com/track/7pgXxhMqy7lFnAXborqxse) | [Dj Tg Da Inestan](https://open.spotify.com/artist/07hde6KjeHapJ75M3jSfFl), [DJ PH DA SERRA](https://open.spotify.com/artist/7Dq3oCz43MCuWBRgWTltZI), [Dj Fiuza](https://open.spotify.com/artist/2nuDz3WMd4B9RkG6R7l5Wh), [Dj Stay](https://open.spotify.com/artist/5dfYej4GdOLSX8HxKOSLK2), [MC Saci](https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [MC Fahah](https://open.spotify.com/artist/0MlMFTEEEk0uSwI4hYSxrq) | [Vida Do Crime](https://open.spotify.com/album/7ciWlEhMW3TZgU2TPtytQq) | 2:16 | 2023-12-30 |  |

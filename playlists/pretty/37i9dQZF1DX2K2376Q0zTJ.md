@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。今月のアンバサダー: LANA
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,487 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,529 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 27 | [POWER SPOT](https://open.spotify.com/track/0E1KEUXvRfHRTtG56qEqwR) | [AKKOGORILLA](https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U) | [POWER SPOT](https://open.spotify.com/album/5alBkCQwn9sG6izwrraNDO) | 3:30 |
 | 28 | [Golden Night](https://open.spotify.com/track/3PQg5Ff6xZZBoWdb9jKTxm) | [Yurufuwa Gang](https://open.spotify.com/artist/5F80x2l9juqR6RLeuACpqS) | [GAMA](https://open.spotify.com/album/5g4Z6IX5rMUjNXx5zycNsz) | 3:36 |
 | 29 | [B級](https://open.spotify.com/track/0mBPNrXQjNv3NfzqrljAZZ) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/39Dsd8qI8LZqxjFw7RfKqA) | 3:16 |
-| 30 | [Reiwa \(令和\)](https://open.spotify.com/track/5clY3cLGOxT6IBh5Kvnpp2) | [TREKKIE TRAX CREW](https://open.spotify.com/artist/1aaNrx84WrTGObka1rpON3), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq) | [Reiwa \(令和\)](https://open.spotify.com/album/6cnmmUp0rHywmjjgEwUmwf) | 3:48 |
+| 30 | [yyyymmdd](https://open.spotify.com/track/1YT6uHYh7H57hIdbmfqUyD) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [Weekday](https://open.spotify.com/album/37176xs2bTWghwyAA67mHd) | 3:35 |
 | 31 | [That Girl](https://open.spotify.com/track/0mndmt0zFa9SDAdsu7NrGZ) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [That Girl](https://open.spotify.com/album/16zTCSZItuXpfAyUGzqNMF) | 3:41 |
 | 32 | [Sisterhood](https://open.spotify.com/track/4tgg91o6wImtpzH3qFycWc) | [YAYOI DAIMON](https://open.spotify.com/artist/6u1eX0H0rWHLh3Dq1ASdUb) | [Sisterhood](https://open.spotify.com/album/5F5DRIHClO4dO7cWf5exEv) | 3:12 |
 | 33 | [New Day](https://open.spotify.com/track/0tQVgQtzkzYlrEG1D6SXhx) | [COMA\-CHI](https://open.spotify.com/artist/1EGbVC1fE68gQaPrYEyr99) | [Shades Of Yellow EP](https://open.spotify.com/album/0nhCGmTwYyu1zKA6bAnVJc) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [FRIEND](https://open.spotify.com/track/4OsmrkuVLJe8ze6FJJxxzX) | [重盛さと美](https://open.spotify.com/artist/520STFW9IFHZA5A1WPWUeZ), [Tomodachi](https://open.spotify.com/artist/10b7iI7HzdtxZgCfPovith) | [FRIEND](https://open.spotify.com/album/5GQWA5bQcJAVSJf27W0wL4) | 3:11 |
 | 50 | [Wolf](https://open.spotify.com/track/1mjl6shDbIttccQj3ktzuB) | [HITOMIN](https://open.spotify.com/artist/54WlbKLgYBjRlWsee92OJt) | [Wolf](https://open.spotify.com/album/6aSz8m9KHNfymtKh3TDOE9) | 3:09 |
 
-Snapshot ID: `MCwwYmI1MzQ3ODJhODg4ZTQ4MjQ1YzlhNzcwMjg0OWQ0YjEwMzkwZjdl`
+Snapshot ID: `MCwyYmY5YmZlYTNkNzhmNDFjYjcyYjA4MTFhNzZjOGU1NDMzMzA5NzA1`

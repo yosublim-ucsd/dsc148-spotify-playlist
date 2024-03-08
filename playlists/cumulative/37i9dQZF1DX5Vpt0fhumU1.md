@@ -4,7 +4,7 @@
 
 > Soak up the spirit of Spain with a taste of these traditional flamenco and folk tunes.
 
-106 songs - 7 hr 45 min
+107 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [Soleá por Bulería \(Live\)](https://open.spotify.com/track/105KaRZeCfQUORCuATSch0) | [Jaleo](https://open.spotify.com/artist/5Q48J2yjDOKzNIdmY0oExU) | [Flamenco \(Live\)](https://open.spotify.com/album/7D9PKbprgebAcdQnQ96PhZ) | 9:29 | 2022-08-30 | 2022-11-13 |
 | [Sostén Mi Corazón](https://open.spotify.com/track/2VL18BYruMoFmrX2FOH0Kh) | [Aurelia](https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA) | [Sostén Mi Corazón](https://open.spotify.com/album/59HfyTWuPadCXE8Nd7q3ij) | 3:15 | 2022-01-21 |  |
 | [The Flavor](https://open.spotify.com/track/3oxqugZiGg6uIzY4beGaCx) | [Oscar Lopez](https://open.spotify.com/artist/3ELktghnE5zeabnHdNycyh) | [Seduction](https://open.spotify.com/album/7n9XvIP2pVI53sbdEvbaTX) | 4:00 | 2022-01-21 |  |
-| [Tres Amores](https://open.spotify.com/track/7DpDb8R3OxTr3FaiKwhYKB) | [Julian Vigil](https://open.spotify.com/artist/37iIAObpTKbDOZ9BjSrmMv) | [Tres Amores](https://open.spotify.com/album/01HM86e0bYj6oqXdCJ03AN) | 2:25 | 2022-01-21 |  |
+| [Tres Amores](https://open.spotify.com/track/1OWdxynsujtEXuTdqXomSR) | [Julian Vigil](https://open.spotify.com/artist/37iIAObpTKbDOZ9BjSrmMv) | [Tres Amores](https://open.spotify.com/album/18oD5PHjsYurwxHtAjXDcx) | 2:25 | 2022-08-30 |  |
+| [Tres Amores](https://open.spotify.com/track/7DpDb8R3OxTr3FaiKwhYKB) | [Julian Vigil](https://open.spotify.com/artist/37iIAObpTKbDOZ9BjSrmMv) | [Tres Amores](https://open.spotify.com/album/01HM86e0bYj6oqXdCJ03AN) | 2:25 | 2022-01-21 | 2024-03-08 |
 | [Un Jardín De Amor](https://open.spotify.com/track/0tB9K5yKFC9vJPsZsZB17l) | [Graciela Flores](https://open.spotify.com/artist/1XcbatNvZ4Dv7PgPELmQWJ) | [Un Jardín De Amor](https://open.spotify.com/album/3nJ6jn0yfUEl1ic8qnGqiK) | 2:11 | 2022-01-21 |  |
 | [Veras](https://open.spotify.com/track/2INMbTvlLhGs1b1O3EYhiS) | [Alhama, Los](https://open.spotify.com/artist/6Gg623dfCM6CrYGBt0twPX) | [Traditional Gypsy Flamenco](https://open.spotify.com/album/40NaiYoHAvxeLv0hj5BViC) | 2:26 | 2022-01-21 | 2023-05-13 |
 | [Veras](https://open.spotify.com/track/5lhhRaZZkvzjAWUXKUpay5) | [Domingo Dominguez](https://open.spotify.com/artist/3S1TgZkbTq1XMUoHKzzi8R), [Alhama, Los](https://open.spotify.com/artist/6Gg623dfCM6CrYGBt0twPX) | [Traditional Gypsy Flamenco](https://open.spotify.com/album/4kKheS9UXOnll6Wz1fyyv9) | 2:26 | 2022-01-21 | 2022-07-29 |

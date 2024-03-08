@@ -4,7 +4,7 @@
 
 > Relax and unwind with chill, ambient music.
 
-782 songs - 1 day 16 hr 56 min
+786 songs - 1 day 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Botanical Garden Of Droids](https://open.spotify.com/track/5J8HfHNDShdr13uSRQiZw6) | [Nexterday Visitors](https://open.spotify.com/artist/4HpTEzHjNdwpdffaxTZSsr) | [Botanical Garden Of Droids](https://open.spotify.com/album/57yU2MMb1D8lN0q9DoFTbm) | 3:34 | 2020-08-08 | 2021-09-14 |
 | [Bouncing Clouds](https://open.spotify.com/track/3mZprzE78ZgB9fPSNNb6GI) | [Sava Sol](https://open.spotify.com/artist/0aikDGpgY0MmQ77ZHaSj3j) | [Bouncing Clouds](https://open.spotify.com/album/2sb3bHuGWQgyZne2DOyBqr) | 4:50 | 2019-05-26\* | 2021-09-14 |
 | [Break Even](https://open.spotify.com/track/11zpUtuGDKo3wpzgvzxgVe) | [Jona Moon](https://open.spotify.com/artist/14ITTnp5tCk1o02WYli4j0) | [Blue Heatwave](https://open.spotify.com/album/0ekgFW7knRWMQg5Rk2SVKF) | 2:39 | 2021-12-09 |  |
+| [Breaking Silence](https://open.spotify.com/track/4380dhBofsUcbAwa2UqBMc) | [Sounding Cosmos](https://open.spotify.com/artist/57cTypsKxiOGCYx2AbCHkn) | [Breaking Silence](https://open.spotify.com/album/4FH4IHc9VxPs19eX0oagVT) | 3:20 | 2024-03-07 |  |
 | [Breath Of The Mindful](https://open.spotify.com/track/0FdvRIeoR2RMJMT7oiWnf5) | [Spirits Of Our Dreams](https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss) | [Winds Amassed](https://open.spotify.com/album/5pyHdzJzS1qgTAWFsyRPd3) | 3:59 | 2019-05-26\* | 2020-01-03 |
 | [Breathe](https://open.spotify.com/track/3aJag451WnwJY280pZecbt) | [Night Sounds](https://open.spotify.com/artist/23t9fvBqS4kZ6aBANPfsb5) | [Breathe](https://open.spotify.com/album/4UPZC7MdbrN4Xo20amcPPH) | 4:13 | 2020-05-09 | 2023-05-03 |
 | [Breathe Out](https://open.spotify.com/track/1dCxoavyHK6qycS6OyqVfH) | [Mayol](https://open.spotify.com/artist/3cIlmB3JDBrJWUm3Un5Yia) | [Breathe Out](https://open.spotify.com/album/2CiiGCO5igDhPWapdqw2Ub) | 2:51 | 2019-12-07 | 2023-05-03 |
@@ -395,11 +396,13 @@
 | [La Femme Soleil](https://open.spotify.com/track/3ZGqYamRfdQJ1lcQa27gHj) | [William Keats](https://open.spotify.com/artist/17LlecIqr0KpoiUMya3KEO) | [La Femme Soleil](https://open.spotify.com/album/7JJm1cAkINxVcYS1q1h146) | 2:40 | 2020-01-09 | 2020-10-27 |
 | [La Paz](https://open.spotify.com/track/1Dn2Fjpf8MiEEy0HlRA4UB) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Visions](https://open.spotify.com/album/7k4or19D1uKrAzdzf1iIkk) | 2:27 | 2020-01-03 | 2020-05-18 |
 | [Land Of Eternal Spring](https://open.spotify.com/track/2IbOMyObpd2vXMQSNrV3kP) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Cimarron Plains](https://open.spotify.com/album/3eLFLQX1MZWwRmGtD7ww0O) | 3:38 | 2019-05-26\* | 2022-03-26 |
+| [Land of Silence](https://open.spotify.com/track/5l5AzLGCZbFJsDgG7s2w5b) | [Gabrio Mele](https://open.spotify.com/artist/04rNs9AP6fQsXkTgCnFzrw) | [Land of Silence](https://open.spotify.com/album/4PmfI0KZBSQBL4Bez8SIeH) | 3:16 | 2024-03-07 |  |
 | [Last Light](https://open.spotify.com/track/5Z6Xn3H7uoleoSAQZcWCGb) | [Anders Schill Paulsen](https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b) | [Last Light](https://open.spotify.com/album/40UnoqubetMWqJwC0OQ0Fu) | 2:50 | 2022-11-22 |  |
 | [Layers of Clouds](https://open.spotify.com/track/0Owl6328H7Ia7SaprjOJku) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Layers of Clouds](https://open.spotify.com/album/4uzhvd6EKsX7tgPq0dSLTi) | 4:36 | 2021-08-26 | 2023-05-03 |
 | [Leende](https://open.spotify.com/track/1pgRARnMLlL5Chg1y4L6Uo) | [Juni Ros](https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9) | [Leende](https://open.spotify.com/album/06PAyNBCVYjMafAold1L3j) | 3:07 | 2022-09-13 |  |
 | [legacy](https://open.spotify.com/track/4EWCM7S4DAtpSJ0BOiM9LK) | [node: project](https://open.spotify.com/artist/7JPL3e4Dihj4HqwMU1RIZH) | [legacy](https://open.spotify.com/album/6BCFck8IVatMnjeOIDjP3T) | 4:09 | 2019-05-26\* | 2023-04-07 |
 | [Lemuria](https://open.spotify.com/track/0sGWPrVBi8UHUxKU4VcH27) | [Leyenda](https://open.spotify.com/artist/1kgpTcXkeXeImymThm78ZB) | [Healing Spell](https://open.spotify.com/album/5IByIwRPBjaO6Hg6igyZBw) | 3:21 | 2019-06-29 | 2020-01-03 |
+| [Leni Aura](https://open.spotify.com/track/3QujGZgerxm8X54zE1KFCT) | [Darby Evans](https://open.spotify.com/artist/0EzLFlu7rmPC4VybLm6jl1) | [Leni Aura](https://open.spotify.com/album/4X91EXAlH72h1XjWzkXDgu) | 2:41 | 2024-03-07 |  |
 | [Let Go](https://open.spotify.com/track/2gixQXOUSRnv7yBuplbgAK) | [Chama Wijnen](https://open.spotify.com/artist/7ftRhte6NNzoF9MIKfKJsP) | [Let Go](https://open.spotify.com/album/28liljlrdNabEfDkZG7JWW) | 3:11 | 2020-05-18 | 2021-10-27 |
 | [Levar](https://open.spotify.com/track/1WIzZ7Fb2qPbZeuQ6UHZ8R) | [Sebastián Escofet](https://open.spotify.com/artist/4YufEYOotwxOrZxtzdPgS3) | [Universo en Miniatura Vol\. 1](https://open.spotify.com/album/52PcfX5Yht7LyNjkuJCROB) | 2:03 | 2019-07-12 | 2021-09-14 |
 | [Levitate](https://open.spotify.com/track/7dZchcSQZRcqLs9g5FkbYs) | [Lost Wings](https://open.spotify.com/artist/5GneKGEamDH29m9tE0zzwo) | [Levitate](https://open.spotify.com/album/6cLDivlBobugdVdPeKuySN) | 1:30 | 2020-05-09 | 2023-04-07 |
@@ -653,6 +656,7 @@
 | [Stuck In Time](https://open.spotify.com/track/0vlPbBj1mmFFqXqBmHOqKY) | [NYMK](https://open.spotify.com/artist/49kckQu5DktnBTpPlsJTDA) | [Stuck In Time](https://open.spotify.com/album/0c2Ov4Oz8KMOY84OCtRJag) | 1:42 | 2019-05-26\* | 2020-07-11 |
 | [Stuor Muorkke](https://open.spotify.com/track/0YicEESY4K4uK5iXldrVN6) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 1:47 | 2020-01-09 | 2022-07-16 |
 | [Suaimhneas](https://open.spotify.com/track/7q9ehvNtDAyhFFD7w9L4yo) | [Ceilidh](https://open.spotify.com/artist/3c4jBYA9Q6SFvKxMBTACgg) | [Suaimhneas](https://open.spotify.com/album/08kGIhtbc1fnU0od3JgMiD) | 3:31 | 2019-05-26\* | 2019-06-29 |
+| [Subdue](https://open.spotify.com/track/0s2salZ3j2fGPJPVUPHJP1) | [Solen Taylor](https://open.spotify.com/artist/4p9by6GGMfgVGEBqiYhXqB) | [Subdue](https://open.spotify.com/album/5mNkNX0vAuHG6o9ZmCE61l) | 2:36 | 2024-03-07 |  |
 | [Subtlety And Refinement](https://open.spotify.com/track/6J8qqQ9tEDF1Zq4gtqbzDJ) | [Michael Ojha](https://open.spotify.com/artist/4h15HPM1bGgwpOyfRk3w1w) | [Subtlety And Refinement](https://open.spotify.com/album/4xkIBfbQ2v989G6YkJO28y) | 2:54 | 2023-04-13 |  |
 | [Suburban Call For Concrete Dreams](https://open.spotify.com/track/1dSHCLZsogQvN0yxTLBMtF) | [Ave Air](https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU) | [Suburban Call For Concrete Dreams](https://open.spotify.com/album/3kFtOGZWe1iJnIOw0Df37m) | 3:37 | 2019-05-26\* | 2019-08-13 |
 | [Sueño tranquilo](https://open.spotify.com/track/7vCDAK4DJNr1GHYEG3Ylyp) | [Pedro Caceres](https://open.spotify.com/artist/61YOovGWdnYImyV9dgnaMA) | [Sueño tranquilo](https://open.spotify.com/album/7jstHQo9AWHr8buCOkbM1K) | 3:02 | 2019-05-26\* | 2022-09-15 |

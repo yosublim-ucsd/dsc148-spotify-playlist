@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 40,336 likes - 91 songs - 4 hr 36 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 40,353 likes - 91 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 39 | [Smile](https://open.spotify.com/track/4Vujm3j3rDSsOD6oukgxLI) | [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk) | [Smile](https://open.spotify.com/album/2bhiFZR9bJPKg9O5GfyInE) | 1:46 |
 | 40 | [IT'S THAT REAL](https://open.spotify.com/track/2mp0MixDsimQHsEtUZERLG) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV) | [IT'S THAT REAL](https://open.spotify.com/album/4Xgm72a1q4DJLepVWIG8vj) | 2:21 |
 | 41 | [Baby Boo](https://open.spotify.com/track/0sjwNDuHyfLruYofOWObNj) | [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94), [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [Baby Boo](https://open.spotify.com/album/3YdVtDgk9uBnrPxfj2WMYu) | 2:47 |
-| 42 | [Omo Boy](https://open.spotify.com/track/7kWEdNbzvcrcwwVlTfvNZR) | [Del B](https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE) | [Omo Boy](https://open.spotify.com/album/3Y7Cn7VrfQZwL80BtMe1sa) | 3:03 |
+| 42 | [Omo Boy](https://open.spotify.com/track/7kWEdNbzvcrcwwVlTfvNZR) | [Del B](https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t), [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [Omo Boy](https://open.spotify.com/album/3Y7Cn7VrfQZwL80BtMe1sa) | 2:59 |
 | 43 | [In N Out](https://open.spotify.com/track/1a7hvZrOt2Xl1aSixcKh0C) | [Jimmy](https://open.spotify.com/artist/06w8gYYjCLGIK8Cp4ltMJo) | [In N Out](https://open.spotify.com/album/4i1okipyWctnhqQ1MVuxQV) | 3:07 |
 | 44 | [CARNAGE](https://open.spotify.com/track/7hthfIM572KQsZxbZ77KTA) | [Xansei](https://open.spotify.com/artist/0jHoReQVZQrgyI6E4ZIbOz), [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF) | [CARNAGE](https://open.spotify.com/album/4HhIv8n0gBXIQJKy3oh1IQ) | 2:19 |
 | 45 | [anecdote](https://open.spotify.com/track/5MCsp3D3WSoZX81VIUDdNa) | [thatboykwame](https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto) | [anecdote](https://open.spotify.com/album/6pNck0w5RaNBVZrIOdVVJj) | 2:49 |

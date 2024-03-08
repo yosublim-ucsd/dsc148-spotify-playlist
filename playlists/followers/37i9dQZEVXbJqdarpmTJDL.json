@@ -1,5 +1,5 @@
 {
-  "2024-03-07": 102925,
+  "2024-03-08": 102950,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Greece.",
   "name": "Top 50 - Greece",
@@ -1997,6 +1997,28 @@
       "duration_ms": 194754,
       "name": "AMOR",
       "url": "https://open.spotify.com/track/1OGTkqFF8EmYZvDLuHAXsw"
+    },
+    {
+      "album": {
+        "name": "AMORE MIO",
+        "url": "https://open.spotify.com/album/2xearzWEcIZxy3IPYGqdG6"
+      },
+      "artists": [
+        {
+          "name": "MG",
+          "url": "https://open.spotify.com/artist/6SWOdiks4Ac3lMM8NCqDm0"
+        },
+        {
+          "name": "Darta",
+          "url": "https://open.spotify.com/artist/0T59GPY05I40GiEUOnMglS"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131147,
+      "name": "AMORE MIO",
+      "url": "https://open.spotify.com/track/7safaXsnYTL0F139p6JKy0"
     },
     {
       "album": {
@@ -18377,7 +18399,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 112211,
       "name": "MI TESORO",
       "url": "https://open.spotify.com/track/3qbFPHgr08BxwBKVNQOWjJ"

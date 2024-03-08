@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,442 songs - 3 day 3 hr 17 min
+1,443 songs - 3 day 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Curtains](https://open.spotify.com/track/6ZZf5a8oiInHDkBe9zXfLP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:44 | 2023-05-06 | 2023-05-08 |
 | [D R HVA D R \(feat\. Shooter Gang\)](https://open.spotify.com/track/6Rcc0NO1nVVqJ67EnvLReN) | [DIBSET](https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH), [Shooter Gang](https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO) | [D R HVA D R \(feat\. Shooter Gang\)](https://open.spotify.com/album/0DmMSAdxQJYIhfXBDzhdui) | 3:06 | 2021-08-29 | 2021-09-05 |
 | [dag\-til\-dag rapper](https://open.spotify.com/track/2r30iTEDsGv6VWcdYtrbiT) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [nu hvor vi er her](https://open.spotify.com/album/4V23js9gaPVRSmhcSSb0lc) | 2:55 | 2023-09-02 | 2023-09-09 |
+| [dagdrømmer](https://open.spotify.com/track/5esSVR7UK3Nc7ymSOWJIc5) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [dagdrømmer](https://open.spotify.com/album/5LmtvUZQ9bkItt9x1E2tA6) | 2:50 | 2024-03-07 |  |
 | [DAGLIG DOSIS](https://open.spotify.com/track/1ESgWcgtrW1ihRZumDnhop) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [DAGLIG DOSIS](https://open.spotify.com/album/6KOcLxccxeq201TdCkJStd) | 2:35 | 2023-03-17 | 2023-04-03 |
 | [Dagslys](https://open.spotify.com/track/14qA7FPqXcep6LuF7o3ecH) | [Nik & Jay](https://open.spotify.com/artist/71k6SmcYKiIPq8M2RxK2Jr) | [Lys Over Land 1](https://open.spotify.com/album/2NJaPWjalZ41VDHlywGyq3) | 3:05 | 2022-06-18 | 2022-06-26 |
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-05-27 | 2024-01-07 |
@@ -1223,7 +1224,7 @@
 | [Stop The Rain](https://open.spotify.com/track/0VuDtcT7H4CAljLZEH021x) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:23 | 2021-10-31 | 2021-11-06 |
 | [Stop!](https://open.spotify.com/track/0HrfS7MVa7e6HNgFQuwFlP) | [Naya](https://open.spotify.com/artist/5z56QjQRpriNYzhnhPIcm0) | [MGP 2024](https://open.spotify.com/album/3Av5h0fGOEkZ71t2McMWay) | 2:45 | 2024-02-25 | 2024-03-06 |
 | [STOR MAN](https://open.spotify.com/track/3Ogy0Sog7JmnXBn43Dmyv0) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [STOR MAN](https://open.spotify.com/album/2zkfMfrIQicYXK6tEDlavG) | 3:03 | 2023-07-08 | 2023-07-23 |
-| [STOR MAND \(feat\. Andreas Odbjerg\)](https://open.spotify.com/track/0BGEImCBesJKIm5kZ0fOkH) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [Når sjælen kaster op](https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A) | 3:02 | 2022-10-22 |  |
+| [STOR MAND \(feat\. Andreas Odbjerg\)](https://open.spotify.com/track/0BGEImCBesJKIm5kZ0fOkH) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [Når sjælen kaster op](https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A) | 3:02 | 2022-10-22 | 2024-03-08 |
 | [STOR MAND \(feat\. Andreas Odbjerg\)](https://open.spotify.com/track/56Ua2ypj5HWnotoIF3lEHc) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [STOR MAND \(feat\. Andreas Odbjerg\)](https://open.spotify.com/album/0ZjlCteIeQUApCh9TqoRPA) | 3:02 | 2021-08-15 | 2022-10-23 |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-13 | 2024-02-25 |
 | [Strangers By Nature](https://open.spotify.com/track/13CVSGLSFl4UxpDVR6u3dq) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:02 | 2021-11-21 | 2021-11-26 |

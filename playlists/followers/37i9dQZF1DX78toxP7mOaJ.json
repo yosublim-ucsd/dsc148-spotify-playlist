@@ -1,7 +1,7 @@
 {
-  "2024-03-07": 138569,
+  "2024-03-08": 138612,
   "date_first_scraped": "2021-12-21",
-  "description": "Fresh rock from independent artists every Wednesday. Cover: unpeople",
+  "description": "Fresh rock from independent artists every Wednesday. Cover: Thank You, I'm Sorry",
   "name": "Fresh Finds Rock ",
   "tracks": [
     {
@@ -1332,6 +1332,24 @@
     },
     {
       "album": {
+        "name": "Lemon On Plastic",
+        "url": "https://open.spotify.com/album/0RBK3b5Ctnmd4bM7zfyUkv"
+      },
+      "artists": [
+        {
+          "name": "Perennial",
+          "url": "https://open.spotify.com/artist/7oLhWWqX188fvNQ6aqxLz3"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65654,
+      "name": "Art History",
+      "url": "https://open.spotify.com/track/6ZW6mNdkyhqe7ouKpFTImd"
+    },
+    {
+      "album": {
         "name": "Attachment Styles",
         "url": "https://open.spotify.com/album/2qEpzDMY0fft4BmR4mZUkC"
       },
@@ -1473,7 +1491,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 141924,
       "name": "Autonomy Shop",
       "url": "https://open.spotify.com/track/1SQcpGtOW3xiInjzf63I3l"
@@ -2769,7 +2787,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 133095,
       "name": "Blurt",
       "url": "https://open.spotify.com/track/2XTmhaY18G7VLHW7FMJqRf"
@@ -4117,7 +4135,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 173715,
       "name": "Chessie",
       "url": "https://open.spotify.com/track/0WIQLsu3mwen4hXLFEaAlh"
@@ -4481,7 +4499,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 179454,
       "name": "Compete",
       "url": "https://open.spotify.com/track/6UIt6fh0ElnYgiu6yHWey9"
@@ -6451,7 +6469,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 231941,
       "name": "Drag Your Feet",
       "url": "https://open.spotify.com/track/03DcBF6sqPdGFgCGIPwGi1"
@@ -6613,7 +6631,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 187895,
       "name": "Dry",
       "url": "https://open.spotify.com/track/2pje58AMnj2ZsP0VzVfGF9"
@@ -6635,6 +6653,24 @@
       "duration_ms": 138039,
       "name": "Dying Leaves",
       "url": "https://open.spotify.com/track/2hPmCTFXIgDHoPv3bJejwx"
+    },
+    {
+      "album": {
+        "name": "Dangerous Day To Be A Cold One",
+        "url": "https://open.spotify.com/album/1frHY9qLRKhJTYhxrsilJi"
+      },
+      "artists": [
+        {
+          "name": "DARTZ",
+          "url": "https://open.spotify.com/artist/0ekrcj2YAoYh52dJzcvKJi"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190388,
+      "name": "Earn The Thirst",
+      "url": "https://open.spotify.com/track/2bVMaNYLj5LvkyoLDedHvR"
     },
     {
       "album": {
@@ -7233,6 +7269,24 @@
       "duration_ms": 246000,
       "name": "Failing Upwards",
       "url": "https://open.spotify.com/track/7CBlFXSvWAlxL0UDf8PbAE"
+    },
+    {
+      "album": {
+        "name": "FAKE",
+        "url": "https://open.spotify.com/album/2RmBbd6IqDC2chDYiY4iHv"
+      },
+      "artists": [
+        {
+          "name": "Brother.",
+          "url": "https://open.spotify.com/artist/4eubdcTtYtYIYRuKRtzjkT"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246138,
+      "name": "FAKE",
+      "url": "https://open.spotify.com/track/5izbDKoLGNuEiRFEut2qb1"
     },
     {
       "album": {
@@ -8209,6 +8263,24 @@
       "duration_ms": 172038,
       "name": "FUBAR",
       "url": "https://open.spotify.com/track/0TOoqfApKrOaCgvEFUDXHc"
+    },
+    {
+      "album": {
+        "name": "Funny",
+        "url": "https://open.spotify.com/album/4chAV9akGm8EPqya4z4QGY"
+      },
+      "artists": [
+        {
+          "name": "Kai Bosch",
+          "url": "https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138786,
+      "name": "Funny",
+      "url": "https://open.spotify.com/track/1XTj67GksyndBxsKAZuOxj"
     },
     {
       "album": {
@@ -10032,6 +10104,24 @@
     },
     {
       "album": {
+        "name": "Homesick.",
+        "url": "https://open.spotify.com/album/2Beb6J2sNAI2FZyR0mQoTq"
+      },
+      "artists": [
+        {
+          "name": "Easy Honey",
+          "url": "https://open.spotify.com/artist/5fKAYiCIzDsV8OqQDl8Erj"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208014,
+      "name": "Homesick.",
+      "url": "https://open.spotify.com/track/2MjVUXgZcEQ2jPoQ8RB0or"
+    },
+    {
+      "album": {
         "name": "Hometown",
         "url": "https://open.spotify.com/album/4V7eZToUT2CCrwxHlwzizF"
       },
@@ -10847,7 +10937,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 163624,
       "name": "I Think You Should Leave",
       "url": "https://open.spotify.com/track/6YcrBSmLlD2vRUjAQkcUtL"
@@ -12232,6 +12322,24 @@
     },
     {
       "album": {
+        "name": "Is This Intimate",
+        "url": "https://open.spotify.com/album/1lEvpQGpCZDvyNFvVy9NMQ"
+      },
+      "artists": [
+        {
+          "name": "Shybaby",
+          "url": "https://open.spotify.com/artist/6yKDvAzKT1QSl8ErqT0n0a"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216978,
+      "name": "kiki doesn't like it when you leave me at the party",
+      "url": "https://open.spotify.com/track/0mIntLEdNoFmpKolhGH7oc"
+    },
+    {
+      "album": {
         "name": "King of the Slugs",
         "url": "https://open.spotify.com/album/0dQAxLkosumV0aFGumrdUJ"
       },
@@ -13543,7 +13651,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 205720,
       "name": "Math Class Day Dreams",
       "url": "https://open.spotify.com/track/42WrqG2wYPmruXBGsVSb6s"
@@ -15965,7 +16073,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 113660,
       "name": "Passing",
       "url": "https://open.spotify.com/track/6xWBnKAcKAM7HJ2hw6GGYM"
@@ -16660,6 +16768,24 @@
     },
     {
       "album": {
+        "name": "Pretty Little Thing",
+        "url": "https://open.spotify.com/album/0zphwYHgKA0HAhr3lNTOoL"
+      },
+      "artists": [
+        {
+          "name": "PLAY DEAD",
+          "url": "https://open.spotify.com/artist/2XQ4KK7Ol8gTUBBLAkIF2j"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137211,
+      "name": "Pretty Little Thing",
+      "url": "https://open.spotify.com/track/3br9uDRIfZSboz1BVhimhQ"
+    },
+    {
+      "album": {
         "name": "Princess Slit and the Raincoat Prince",
         "url": "https://open.spotify.com/album/7rfuHfgfdorEhMObo4yWRx"
       },
@@ -16801,6 +16927,24 @@
       "duration_ms": 145521,
       "name": "punkt",
       "url": "https://open.spotify.com/track/2jZVRBClSWt3Vc9fPkyRCi"
+    },
+    {
+      "album": {
+        "name": "Puppy",
+        "url": "https://open.spotify.com/album/0qjJwpkIck9Qj5IoGdHnT2"
+      },
+      "artists": [
+        {
+          "name": "L'objectif",
+          "url": "https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195767,
+      "name": "Puppy",
+      "url": "https://open.spotify.com/track/6lKPZsX33G9uTJ3mDU3pVB"
     },
     {
       "album": {
@@ -17911,7 +18055,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 272185,
       "name": "Saturn Rings",
       "url": "https://open.spotify.com/track/1rxVhGfdBb0DQoFJ8VXrGs"
@@ -19295,7 +19439,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 194430,
       "name": "Sophie",
       "url": "https://open.spotify.com/track/4ySch7clKEIT3h3GXDNBWR"
@@ -21297,7 +21441,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 160720,
       "name": "The Straightest Line",
       "url": "https://open.spotify.com/track/0rIG8Mhva2h0rw6fRCDMbe"
@@ -23096,6 +23240,24 @@
     },
     {
       "album": {
+        "name": "When I Come East",
+        "url": "https://open.spotify.com/album/428XEEgSSBIndzwdGwdj1p"
+      },
+      "artists": [
+        {
+          "name": "Thank You, I'm Sorry",
+          "url": "https://open.spotify.com/artist/1SQbSVOGU3m2YlQQVV88QU"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "When I Come East",
+      "url": "https://open.spotify.com/track/0Sl6b0H7zHJdAtaNZW72ZM"
+    },
+    {
+      "album": {
         "name": "When I Come Home, I'll Find A Hill To Die On",
         "url": "https://open.spotify.com/album/4HpsxmodFESzknOqj2Xioy"
       },
@@ -23999,6 +24161,24 @@
       "duration_ms": 137712,
       "name": "Your One Way Street",
       "url": "https://open.spotify.com/track/2qH4GHe610Fy5e8PTN7BRJ"
+    },
+    {
+      "album": {
+        "name": "Your Type",
+        "url": "https://open.spotify.com/album/0mRzdnUKH6AwFjAfxOdAww"
+      },
+      "artists": [
+        {
+          "name": "Fionn",
+          "url": "https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203396,
+      "name": "Your Type",
+      "url": "https://open.spotify.com/track/3Cz89CEQBdIvOeBjp7usoJ"
     },
     {
       "album": {

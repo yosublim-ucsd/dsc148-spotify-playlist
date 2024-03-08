@@ -4,7 +4,7 @@
 
 > When the beat drops, that's Guaracha.
 
-97 songs - 5 hr 36 min
+98 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [No Lo Dejes Ir](https://open.spotify.com/track/640o7SDEGmcbWFTtOOOu79) | [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Ggissy](https://open.spotify.com/artist/5TzfI7JiqNei2rn6lsEkMt) | [No Lo Dejes Ir](https://open.spotify.com/album/4q6Sxpv7XLoEOaE2kP3d5p) | 2:50 | 2023-08-11 |  |
 | [No Me Puedo Controlar](https://open.spotify.com/track/2QJNvy9aqFRdVAhtgxcgv7) | [Dj Dasten](https://open.spotify.com/artist/2jqJc0ovzss12ajvoeyZu0), [Karymme](https://open.spotify.com/artist/1HHGv8saxiS0VLi4kygFLD), [AfroHouse DJ](https://open.spotify.com/artist/3VfnDV6SjUA55UFlMWWDtD) | [Golden](https://open.spotify.com/album/2Wp2kBZtypXliidJjITrvM) | 3:15 | 2023-08-11 |  |
 | [NO MIENTEN](https://open.spotify.com/track/3zUtuSPwyqKElkqfnJj3X2) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [NO MIENTEN](https://open.spotify.com/album/1g8y7NQOWqijanTecml5zw) | 2:27 | 2023-08-11 |  |
-| [No Puedo Olvidarla](https://open.spotify.com/track/3rP0jOqmPPcKOX3o3YTKpL) | [LEEB](https://open.spotify.com/artist/3OW9y2kM7N3BAEksWU2xZM), [Genery Boy](https://open.spotify.com/artist/0IgbQdvXk0xtBnTTYkHpRd) | [No Puedo Olvidarla](https://open.spotify.com/album/6EZRrRSpC4W1rpCbBjKY8Y) | 3:13 | 2023-08-11 |  |
+| [No Puedo Olvidarla](https://open.spotify.com/track/3rP0jOqmPPcKOX3o3YTKpL) | [LEEB](https://open.spotify.com/artist/3OW9y2kM7N3BAEksWU2xZM), [Genery Boy](https://open.spotify.com/artist/0IgbQdvXk0xtBnTTYkHpRd) | [No Puedo Olvidarla](https://open.spotify.com/album/6EZRrRSpC4W1rpCbBjKY8Y) | 3:13 | 2023-08-11 | 2024-03-08 |
+| [No Puedo Olvidarla](https://open.spotify.com/track/67AcYiv8eI5ycuxuM3dHGK) | [LEEB](https://open.spotify.com/artist/3OW9y2kM7N3BAEksWU2xZM), [Genery Boy](https://open.spotify.com/artist/0IgbQdvXk0xtBnTTYkHpRd) | [Exportando Música](https://open.spotify.com/album/1JIhQQlDYXJ47k3tHv5eLr) | 3:13 | 2023-11-10 |  |
 | [No Te Vayas](https://open.spotify.com/track/3sf2sPhqfmmwJGZ0RoV7OJ) | [Fumaratto](https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw), [Dayme Beats](https://open.spotify.com/artist/0cARZSRkYfYAk37T5yFTHW), [samantha gutierrez](https://open.spotify.com/artist/5j6m9CLlbMgvvMOoIV4c8i) | [No Te Vayas](https://open.spotify.com/album/3xLoqferLYCYW3B0ZcF4xd) | 3:24 | 2023-08-11 |  |
 | [Noches de Soledad](https://open.spotify.com/track/7k9b2xkni9bFGYbywuD53y) | [Santiago Cardona](https://open.spotify.com/artist/20PbAAZBxVnVsNlOJbYdXk) | [Noches de Soledad](https://open.spotify.com/album/0pzTO3npRc2nVqQCKaLB1M) | 3:38 | 2023-08-11 |  |
 | [Ojitos Verdes](https://open.spotify.com/track/0YrS7XWkSdrYxN0Bx7ykFI) | [Manguito DJ](https://open.spotify.com/artist/0yc4gso86blxv1vjjv8qOJ) | [Ojitos Verdes](https://open.spotify.com/album/6tLTuGQbMOOpcZ2fSec92u) | 3:25 | 2023-08-11 |  |

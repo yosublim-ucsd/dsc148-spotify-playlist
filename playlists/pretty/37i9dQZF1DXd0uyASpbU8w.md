@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6?si=DGNkf\_77RySgppJ9XZwZaQ">Miley Cyrus</a>, <a href="https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8?si=yfLgwajCQv6oRJ6vNfOFTQ">Pharrell Williams</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,853 likes - 74 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,918 likes - 74 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 73 | [Like Me](https://open.spotify.com/track/6nMKU3uNB9Q7bk80XKUh8G) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Like Me](https://open.spotify.com/album/2ZAeVAkYsJ5XACYVz7my0c) | 2:17 |
 | 74 | [Never Too Far](https://open.spotify.com/track/6EfVcvhMtH0PA7JVyD8TJb) | [Njakes](https://open.spotify.com/artist/291CLsx8NHL2Aq1T9jgFCe), [whoswyLee](https://open.spotify.com/artist/6BleoYognZGVWnzcwannnO) | [Jump With Abandon](https://open.spotify.com/album/7nqJc3yvF0NLJvGyLylBi6) | 3:55 |
 
-Snapshot ID: `MCwxYmVlNzMyNWMzMzZjYTM5YmY0MTg5NGMwNGYxOWM4YTQ3ZDZmMDY5`
+Snapshot ID: `MCwwNWRhZmI5YmViZjE1NDk2MzEyNTZkNzljMzNlOTBhMzIwMDE4Y2Yz`

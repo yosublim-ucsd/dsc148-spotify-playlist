@@ -4,7 +4,7 @@
 
 > beautiful beats for beautiful moments.
 
-483 songs - 18 hr 50 min
+484 songs - 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,7 +262,8 @@
 | [Money](https://open.spotify.com/track/2zj65oNPm1uIgIc2Pczbfz) | [Moonspatz](https://open.spotify.com/artist/63Cv3MetKEN8bhsAo4n6nK) | [Money](https://open.spotify.com/album/4RT4Y2vP2Tno1WViQ74DGY) | 1:47 | 2023-08-03 | 2023-09-08 |
 | [Mooging Away](https://open.spotify.com/track/5UjCCzHAYZhSuTXHdfnk5G) | [This Is Moving](https://open.spotify.com/artist/5LlX4nJXBL8hsxzMaot1iC) | [Mooging Away](https://open.spotify.com/album/3tGIr44JP55wqynE8EbUE4) | 2:25 | 2023-04-20 |  |
 | [morning coffe](https://open.spotify.com/track/1H86TtgCH7wlztTQjIJCXo) | [Mathis](https://open.spotify.com/artist/19MFUmiYwTLD77ECnzbVWa) | [morning coffe](https://open.spotify.com/album/1RajhsnKrQOlMAZkJkItg2) | 2:09 | 2023-09-22 |  |
-| [Morning Coffee](https://open.spotify.com/track/5TdUqOVDbmmMUSTj5qne8U) | [Dr\. EuroDollar](https://open.spotify.com/artist/5kw3yDJJ3pSvEOSDvTsT7n) | [Morning Coffee](https://open.spotify.com/album/7h1FIH78FdkuzVW0VGunpy) | 2:09 | 2022-08-12 |  |
+| [Morning Coffee](https://open.spotify.com/track/2DBuAr9TrVh9Ra2cRMoXGR) | [Dr\. EuroDollar](https://open.spotify.com/artist/5kw3yDJJ3pSvEOSDvTsT7n) | [Morning Coffee](https://open.spotify.com/album/5FrM4oAMzCxAAsCWYM5mo7) | 2:09 | 2024-02-28 |  |
+| [Morning Coffee](https://open.spotify.com/track/5TdUqOVDbmmMUSTj5qne8U) | [Dr\. EuroDollar](https://open.spotify.com/artist/5kw3yDJJ3pSvEOSDvTsT7n) | [Morning Coffee](https://open.spotify.com/album/7h1FIH78FdkuzVW0VGunpy) | 2:09 | 2022-08-12 | 2024-03-08 |
 | [Morning Glow](https://open.spotify.com/track/03UKH7unkeOer6mbroB56Q) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Morning Glow](https://open.spotify.com/album/2f4wtOv1lnMBQ09OY97sDJ) | 1:37 | 2022-05-27 | 2022-06-03 |
 | [Morning Thoughts](https://open.spotify.com/track/5BubJS4DjY6H6svy8jBrKG) | [Lofitic](https://open.spotify.com/artist/6oBQKbykqoZPrX8ebzX8ZM), [darecloud](https://open.spotify.com/artist/3CEJ5kBVJx2hrk8bsEf8lp) | [Morning Thoughts](https://open.spotify.com/album/6Rd9ehMR9rLsPziuNdK6Sz) | 1:21 | 2022-06-24 | 2022-07-01 |
 | [morning vibes](https://open.spotify.com/track/5n1DPnDhK6yWe8BjNIt9p8) | [flotate](https://open.spotify.com/artist/1WCXAKhgy8iunT7CJfHXZS) | [morning vibes](https://open.spotify.com/album/2KdexWlZI2sqY6HTdz2G75) | 2:03 | 2023-08-03 |  |

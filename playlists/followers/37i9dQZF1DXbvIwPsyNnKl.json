@@ -1,7 +1,7 @@
 {
-  "2024-03-07": 1091420,
+  "2024-03-08": 1092379,
   "date_first_scraped": "2023-09-23",
-  "description": "The place for the very best of Pinoy hip-hop. Kalye Natin 'To. Cover: gins&melodies",
+  "description": "The place for the very best of Pinoy hip-hop. Kalye Natin 'To. Cover: Juan Caoile, Kyleswish, Jawz",
   "name": "Kalye Hip-Hop",
   "tracks": [
     {
@@ -592,6 +592,24 @@
     },
     {
       "album": {
+        "name": "Di kita trip",
+        "url": "https://open.spotify.com/album/3iYWYMFX37PfR3w4n1Z3fa"
+      },
+      "artists": [
+        {
+          "name": "CK YG",
+          "url": "https://open.spotify.com/artist/57yOAX6apIrclpBG736Uy2"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Di kita trip",
+      "url": "https://open.spotify.com/track/1lS1wmAFXcj4RMbQ3pEhDt"
+    },
+    {
+      "album": {
         "name": "Don't Play With Us",
         "url": "https://open.spotify.com/album/3JIiRchM7D9BE5Ksj5aUze"
       },
@@ -1004,6 +1022,28 @@
     },
     {
       "album": {
+        "name": "Hollywood",
+        "url": "https://open.spotify.com/album/0EpJoojhVdp2BrnxkutGH1"
+      },
+      "artists": [
+        {
+          "name": "Kris Delano",
+          "url": "https://open.spotify.com/artist/4MX8TDXjG2zLcfaaYtDMJC"
+        },
+        {
+          "name": "Hev Abi",
+          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/2jLLMjl9iIt9dgwIrHpJ64"
+    },
+    {
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/65DQTnPzbVKoflMgS2Kxlh"
       },
@@ -1037,7 +1077,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 154483,
       "name": "Iba Pa Yon",
       "url": "https://open.spotify.com/track/5Zd7WR5fEg8gJoPLFRf475"
@@ -1107,7 +1147,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 150548,
       "name": "Isang Beses",
       "url": "https://open.spotify.com/track/7FmrSekyn3m6UN7h8FJvaU"
@@ -1161,7 +1201,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 168000,
       "name": "Kalangitan",
       "url": "https://open.spotify.com/track/1rLqFcM9X3pCnepVYuaObV"
@@ -2201,6 +2241,28 @@
       "duration_ms": 136200,
       "name": "Still",
       "url": "https://open.spotify.com/track/1n0GXltCdgPZMqQv7JY8SI"
+    },
+    {
+      "album": {
+        "name": "Suave",
+        "url": "https://open.spotify.com/album/5qXVfaNRzC0BPS8k597sbY"
+      },
+      "artists": [
+        {
+          "name": "Crez",
+          "url": "https://open.spotify.com/artist/0SJmS0inrLYPKcDCuEDuYP"
+        },
+        {
+          "name": "4200Southville",
+          "url": "https://open.spotify.com/artist/6vrXik4RM95aPTw6KnZr1x"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208771,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/5m7OS9AOWHmG6g9yeJmM0k"
     },
     {
       "album": {

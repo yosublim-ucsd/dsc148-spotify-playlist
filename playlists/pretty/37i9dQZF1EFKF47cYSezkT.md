@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Ecz8iMyWXmkltPEABUHyO">Sophia Brenan</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27 likes - 44 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 28 likes - 44 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 43 | [Addiction](https://open.spotify.com/track/4ALWeaejGCYWoV2dOgMHdP) | [Reece](https://open.spotify.com/artist/3iTrWDrsuhQevKeFWNDaBG) | [Addiction](https://open.spotify.com/album/6tBh1bdzqfSdL1wq6XRwcb) | 2:47 |
 | 44 | [More](https://open.spotify.com/track/7dtcXUHSLNkqrcsTXkCQd7) | [Maestro](https://open.spotify.com/artist/1ZDZlp15T1lNk9o4nSgch4) | [More](https://open.spotify.com/album/6tb8KW4O9XH4IkkDUWnEHk) | 3:09 |
 
-Snapshot ID: `Mjg0OTYzMTAsMDAwMDAwMDA1MGJjM2Q0OTc5ZjExZTQ0YzRlMDhkM2RhOTFlYjI5Yg==`
+Snapshot ID: `Mjg0OTc3NDAsMDAwMDAwMDA0NjhjNmMyMTYwYWQ0MjM3MGM2OGE4ODJjZmQ5MmIxZA==`

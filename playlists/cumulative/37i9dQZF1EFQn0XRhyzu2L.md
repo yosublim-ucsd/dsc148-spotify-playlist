@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-487 songs - 1 day 2 hr 48 min
+488 songs - 1 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Hunde und Katzen](https://open.spotify.com/track/2Hsafrh21fYyMDTjoFnY5I) | [Tamia Edwards](https://open.spotify.com/artist/4UIfEX3NsyEnf4kuUmYz7U) | [Kiddy Contest, Vol\. 22](https://open.spotify.com/album/0gnkbX6lbMH1VdbMOJJIEb) | 3:37 | 2024-02-27 |  |
 | [HUSH](https://open.spotify.com/track/0Njbfdqov90zIfAXZl7hIf) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Fallen Angel](https://open.spotify.com/album/6zvckLWDs3GtRAll4b0Cvl) | 3:10 | 2024-02-27 |  |
 | [I Am America](https://open.spotify.com/track/0MkBDogipPa3FvHzlXsxqO) | [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH) | [I Am America](https://open.spotify.com/album/0hdDylmyXxtpZdciiSaQS2) | 2:51 | 2024-02-27 |  |
+| [I Can Fly](https://open.spotify.com/track/41Jvpkc7LBF6G8iRYu845X) | [MiyaGi](https://open.spotify.com/artist/1kmpkcYbuaZ8tnFejLzkj2), [Endspiel](https://open.spotify.com/artist/35m8HjyHmGQxAKfIBVHZpF), [Drew](https://open.spotify.com/artist/5yHnmtUITGRBL8GxgZpDcZ) | [Hajime, Pt\. 2](https://open.spotify.com/album/2pUDCMU1kegtoK7l5mKjjj) | 4:27 | 2024-03-07 |  |
 | [I Can Fly](https://open.spotify.com/track/4VHmHOHGWd4d2ikibFTpQo) | [MiyaGi & Endspiel](https://open.spotify.com/artist/6L5bLEtpxwd0KOdOr3gtW4), [Drew](https://open.spotify.com/artist/7GECLRee4aJ2qzbi4RbyqB) | [Hajime, Pt\. 2](https://open.spotify.com/album/4bTfyrDHiBOV0rEV8EG1ua) | 4:27 | 2024-02-27 | 2024-03-07 |
 | [I Can Only\. \(feat\. Alessia Cara\)](https://open.spotify.com/track/6khDguAo8XXW1h0u7xofYk) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Mad Love\. \(Deluxe\)](https://open.spotify.com/album/03B7yRw8C4i7Vuxxjy8RJw) | 3:20 | 2024-02-27 |  |
 | [I Can't Keep Up](https://open.spotify.com/track/5NQIp5fFiD16LoLlm4wUPI) | [Central Rain](https://open.spotify.com/artist/64BunAXi9Ma5ObBmOmSdNa) | [Flying Information](https://open.spotify.com/album/0ZoVrIw9DLi9ZryxFW8FqS) | 4:33 | 2024-02-27 |  |

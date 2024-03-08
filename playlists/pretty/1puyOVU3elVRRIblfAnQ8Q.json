@@ -6,7 +6,7 @@
     "name": "Zeds Dead",
     "url": "https://open.spotify.com/user/zedsdeadofficial"
   },
-  "snapshot_id": "NTg0OCw2ZWViNjZhMjU2YmVjYmY5MjY5MjgzMGVmZjA1ZWYwMDg0Y2NlNzAx",
+  "snapshot_id": "NTg0OSw5OTJkNmQ0MzBmMzliMWEzMWI2ZTJhODRjYWZiOTc3MTk5MjZhZDhi",
   "tracks": [
     {
       "added_at": "2024-02-27 18:58:48",
@@ -211,6 +211,30 @@
       "duration_ms": 316734,
       "name": "Out For Blood",
       "url": "https://open.spotify.com/track/0UNpHzs0Sm29tiIl6Wq6RN"
+    },
+    {
+      "added_at": "2024-03-07 16:19:53",
+      "album": {
+        "name": "Circus Four",
+        "url": "https://open.spotify.com/album/7qj4xzuZKpPdJ1zx8vM14e"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "Doktor",
+          "url": "https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "Bigger Than Bad",
+      "url": "https://open.spotify.com/track/0e4ZPqNyRUywth2AtjMH0K"
     },
     {
       "added_at": "2024-02-09 17:34:41",

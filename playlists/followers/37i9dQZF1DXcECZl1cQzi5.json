@@ -1,5 +1,5 @@
 {
-  "2024-03-07": 18131,
+  "2024-03-08": 18272,
   "date_first_scraped": "2023-10-24",
   "description": "Ocean sounds and calming music to float away on. Breathe with the ebb and flow of the sea. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores. ",
   "name": "Island of Serenity",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 180000,
       "name": "432 Hz Tsiatso",
       "url": "https://open.spotify.com/track/2InPTG1gjUW2dsBUIgLyHU"
@@ -1793,6 +1793,24 @@
       "duration_ms": 165500,
       "name": "Wellness",
       "url": "https://open.spotify.com/track/2zZU66wuVfbgSIguPh7bRs"
+    },
+    {
+      "album": {
+        "name": "Wind of Serenity",
+        "url": "https://open.spotify.com/album/092neHTVHilfDCEkuLk7Jn"
+      },
+      "artists": [
+        {
+          "name": "Asa Kora",
+          "url": "https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160171,
+      "name": "Wind of Serenity",
+      "url": "https://open.spotify.com/track/1ZFrUu4wdWc9iPW8M48Nil"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: IMI\_BLUE\(이미블루\)\)\(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,241 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,253 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 99 | [Weather and You](https://open.spotify.com/track/1kzHS920yQ7Zwjnvyyq8cj) | [ARO](https://open.spotify.com/artist/6ECu2vO8wvgX5pDjYqHEuC) | [Weather and You](https://open.spotify.com/album/42hIvo8cPbWto1FJqUCSEK) | 2:51 |
 | 100 | [베티 Betty](https://open.spotify.com/track/1H7tWi2lS7M76soZ72fqYj) | [Bosudongcooler](https://open.spotify.com/artist/7zhojNyxff5HeS5mIgUVmU) | [베티 Betty](https://open.spotify.com/album/1IAYSmwOMytufTH6ExMwit) | 3:30 |
 
-Snapshot ID: `MCw4YmRhMWViMzg0YTZkZTkxZDZiODNlNDI1ZGIzNDkzZjQxMzc2NDU0`
+Snapshot ID: `MCwxNmM3NDUyZTUxMTdjMDY1ZjhjMDg3MWQ1YjE3ZTY4YmRmY2FlNzM1`

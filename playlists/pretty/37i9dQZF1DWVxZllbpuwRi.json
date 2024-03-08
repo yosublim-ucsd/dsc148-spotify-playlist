@@ -1,12 +1,12 @@
 {
   "description": "Aqui o ver\u00e3o dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!",
-  "num_followers": 609193,
+  "num_followers": 609178,
   "original_name": "Ver\u00e3o Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmEzNzI5ZjFmYzE2Mjc5MzQwYzNkZjNkMzk1MDk1ZWM4YjYzNjgy",
+  "snapshot_id": "MCxiZThkZjZkZTc3YTY4Njk3NzY3MmUxYjNjYTQ5YWU3NWQ2MTViMGJi",
   "tracks": [
     {
       "added_at": "2024-02-27 17:20:18",
@@ -1891,6 +1891,22 @@
     {
       "added_at": "2024-02-27 17:20:18",
       "album": {
+        "name": "La fiesta",
+        "url": "https://open.spotify.com/album/2oeYX230n70YtQDkmbeRPp"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 212106,
+      "name": "La fiesta",
+      "url": "https://open.spotify.com/track/0v1EnT2sDsuLnvwo7Z3N3c"
+    },
+    {
+      "added_at": "2024-02-27 17:20:18",
+      "album": {
         "name": "Ai, Que Calor",
         "url": "https://open.spotify.com/album/1ZdCeqypeVqs47668BjdkZ"
       },
@@ -1907,22 +1923,6 @@
       "duration_ms": 144262,
       "name": "Ai, Que Calor",
       "url": "https://open.spotify.com/track/32z2SmKSxh80H0LfnDpD1m"
-    },
-    {
-      "added_at": "2024-02-27 17:20:18",
-      "album": {
-        "name": "La fiesta",
-        "url": "https://open.spotify.com/album/2oeYX230n70YtQDkmbeRPp"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 212106,
-      "name": "La fiesta",
-      "url": "https://open.spotify.com/track/0v1EnT2sDsuLnvwo7Z3N3c"
     },
     {
       "added_at": "2024-02-27 17:20:18",

@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "2 Be High",
+        "url": "https://open.spotify.com/album/3pOAMb992z14oz7MCjvm1M"
+      },
+      "artists": [
+        {
+          "name": "Nico Moreno",
+          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
+        },
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253714,
+      "name": "2 Be High",
+      "url": "https://open.spotify.com/track/3uJu9affvKImT1msXqFwTj"
+    },
+    {
+      "album": {
         "name": "3x Boom",
         "url": "https://open.spotify.com/album/4GbvcpJB4n0hXSSTpNsAp2"
       },
@@ -530,7 +552,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 168152,
       "name": "AM-PM (Gluttony)",
       "url": "https://open.spotify.com/track/5ylRcQigJwkw9Od0HgV4lI"
@@ -1170,7 +1192,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 198197,
       "name": "Behind - Vexxed Remix",
       "url": "https://open.spotify.com/track/7D5f1zwn22cRtitNDC86z1"
@@ -1342,7 +1364,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 183483,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/7gq0vpnkvKExckP2NsEksd"
@@ -3258,7 +3280,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 163500,
       "name": "Devastation",
       "url": "https://open.spotify.com/track/6zl6FaXnnUPkQvZoIvK0jc"
@@ -3418,7 +3440,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 251082,
       "name": "Dissolve My Mind",
       "url": "https://open.spotify.com/track/3pfXohE3mfz9lsdo47Rfvt"
@@ -4548,6 +4570,32 @@
       "duration_ms": 215225,
       "name": "Feel So Good",
       "url": "https://open.spotify.com/track/0fnrHmbApoVm9Zt8jIwKsi"
+    },
+    {
+      "album": {
+        "name": "Feel Your Echo",
+        "url": "https://open.spotify.com/album/6tCiSPl1zvzuKT7MVwj8OL"
+      },
+      "artists": [
+        {
+          "name": "Tweekacore",
+          "url": "https://open.spotify.com/artist/6g7nQh1zK0QGZVphaMCGWj"
+        },
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "Tatsunoshin",
+          "url": "https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164884,
+      "name": "Feel Your Echo",
+      "url": "https://open.spotify.com/track/4PUu4eskDRUWV7ltSnq8Xx"
     },
     {
       "album": {
@@ -7066,7 +7114,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 128250,
       "name": "Japan",
       "url": "https://open.spotify.com/track/0B96WBW2UjHxmxuDGd7hUA"
@@ -7414,6 +7462,28 @@
       "duration_ms": 191664,
       "name": "Killswitch",
       "url": "https://open.spotify.com/track/3KP46YO181FPy23BkBQB3g"
+    },
+    {
+      "album": {
+        "name": "King For A Day",
+        "url": "https://open.spotify.com/album/7oRcXe3JASaRmTBvwoF05V"
+      },
+      "artists": [
+        {
+          "name": "Wildstylez",
+          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
+        },
+        {
+          "name": "Niels Geusebroek",
+          "url": "https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170980,
+      "name": "King For A Day",
+      "url": "https://open.spotify.com/track/27q6UkDpLw3d1ZvnlwlCYo"
     },
     {
       "album": {
@@ -8158,7 +8228,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 214802,
       "name": "Loaded",
       "url": "https://open.spotify.com/track/3l8p4dhLhAON7gY5jMxlYh"
@@ -9026,7 +9096,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 273273,
       "name": "Maze Of Memories - Reverze Anthem 2024",
       "url": "https://open.spotify.com/track/7hG04m8ODWqF5abbbX74ge"
@@ -10020,6 +10090,24 @@
       "duration_ms": 227991,
       "name": "No Sleep",
       "url": "https://open.spotify.com/track/6le1LT9NtaUlQ22aITOM7g"
+    },
+    {
+      "album": {
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/3b8ROVFVbmcSJWIDnUOmMG"
+      },
+      "artists": [
+        {
+          "name": "Serzo",
+          "url": "https://open.spotify.com/artist/3OhUveXjN6gDbNt7ygN8z6"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/5kpa0fXPtJO94aZHFxyniX"
     },
     {
       "album": {
@@ -11364,7 +11452,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 221806,
       "name": "Ravetrip - Audiotricz Remix",
       "url": "https://open.spotify.com/track/5eWXPScUJSO16WOyqYa2Ms"
@@ -13342,7 +13430,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 208500,
       "name": "Still Waiting",
       "url": "https://open.spotify.com/track/7ln4etuGQORCIq0MswsAyo"
@@ -14108,7 +14196,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 167635,
       "name": "Temporary High",
       "url": "https://open.spotify.com/track/7rFFaaqzFqJNaNsILMOY24"
@@ -14795,6 +14883,32 @@
     },
     {
       "album": {
+        "name": "The Perfect Storm",
+        "url": "https://open.spotify.com/album/3Rz0X58RifUuaXP0uJPfPr"
+      },
+      "artists": [
+        {
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        },
+        {
+          "name": "Galactixx",
+          "url": "https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223718,
+      "name": "The Perfect Storm",
+      "url": "https://open.spotify.com/track/0TncAkFuudrUaeLInjkG3c"
+    },
+    {
+      "album": {
         "name": "The Rave Dome",
         "url": "https://open.spotify.com/album/2NNtdRHLtQSRJSIDySbTnS"
       },
@@ -14846,7 +14960,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 209097,
       "name": "The Same Blood - Official EPIK 2023 Anthem",
       "url": "https://open.spotify.com/track/3q2XAEa5btQAbgIha0I8JW"
@@ -16970,7 +17084,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 211503,
       "name": "Worlds Collide - Omnya Remix",
       "url": "https://open.spotify.com/track/2uSrTcuAgfNQSEoXDOfAUe"
@@ -17091,6 +17205,24 @@
     },
     {
       "album": {
+        "name": "XTREME XTASY",
+        "url": "https://open.spotify.com/album/1DcPUHZKSsJjPuc7pfabEK"
+      },
+      "artists": [
+        {
+          "name": "Thyron",
+          "url": "https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "XTREME XTASY",
+      "url": "https://open.spotify.com/track/7DIAUvqEp8uCAp9rL5pBEA"
+    },
+    {
+      "album": {
         "name": "You Belong To Me (Remixes)",
         "url": "https://open.spotify.com/album/09UmplVKRyTZTpIzYccECx"
       },
@@ -17110,7 +17242,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 151516,
       "name": "You Belong To Me - Firelite & DNA Remix",
       "url": "https://open.spotify.com/track/1PFltDCv8BNmvDEzDoKlCf"

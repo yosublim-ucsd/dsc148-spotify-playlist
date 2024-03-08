@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in Ambient from the first decade of the 21st century. ",
-  "num_followers": 21602,
+  "num_followers": 21639,
   "original_name": "Ambient 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmI0YjNmNzFjMzBlZGI5ODYzZDdlZDExYWQwMjJlYzIwNjljNmIx",
+  "snapshot_id": "MCw3YTRhNzBhZTgzZDk0Y2IyMDVmN2RkMmMyNDI1MmNhZWYzYjg1YWEy",
   "tracks": [
     {
       "added_at": "2023-08-04 12:53:28",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Copia",
-        "url": "https://open.spotify.com/album/6P3NxDFmh6Ytuw7vFEwSgJ"
-      },
-      "artists": [
-        {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
-        }
-      ],
-      "duration_ms": 198120,
-      "name": "Amreik",
-      "url": "https://open.spotify.com/track/0yqjpsNQvm0IZMtKqYVpMs"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Music For Films",
         "url": "https://open.spotify.com/album/1ISvymGGbUmHY01eJ8EF07"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 180013,
       "name": "From The Same Hill - Remastered 2005",
       "url": "https://open.spotify.com/track/6KXkRnKRmVes2BfNzN7bnX"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Copia",
+        "url": "https://open.spotify.com/album/6P3NxDFmh6Ytuw7vFEwSgJ"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 198120,
+      "name": "Amreik",
+      "url": "https://open.spotify.com/track/0yqjpsNQvm0IZMtKqYVpMs"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Opalescent",
-        "url": "https://open.spotify.com/album/7wPJ4V3ueggJxvaYscV9Ou"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        }
-      ],
-      "duration_ms": 234333,
-      "name": "Cold Out There",
-      "url": "https://open.spotify.com/track/0c0ZVPQPNOfoW16dSa891N"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "The Disintegration Loops (Remastered)",
         "url": "https://open.spotify.com/album/5fmPy3XmYD0BJKEr86a3Cu"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 650213,
       "name": "dlp 2.1",
       "url": "https://open.spotify.com/track/0cXp19NraVBtCGmEkrK7rZ"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Opalescent",
+        "url": "https://open.spotify.com/album/7wPJ4V3ueggJxvaYscV9Ou"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "duration_ms": 234333,
+      "name": "Cold Out There",
+      "url": "https://open.spotify.com/track/0c0ZVPQPNOfoW16dSa891N"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1019,18 +1019,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Songs for the Broken Hearted",
-        "url": "https://open.spotify.com/album/6yb8To6luAuAWxIFPa0SSC"
+        "name": "Riceboy Sleeps (2019 Remaster)",
+        "url": "https://open.spotify.com/album/2v2oepohJrkS5kdDIJ1xLz"
       },
       "artists": [
         {
-          "name": "Windy & Carl",
-          "url": "https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq"
+          "name": "J\u00f3nsi",
+          "url": "https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y"
+        },
+        {
+          "name": "Alex Somers",
+          "url": "https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x"
         }
       ],
-      "duration_ms": 140840,
-      "name": "Interlude",
-      "url": "https://open.spotify.com/track/7wVgBj00m1I8W8AVYi9F8n"
+      "duration_ms": 315386,
+      "name": "All The Big Trees - 2019 Remaster",
+      "url": "https://open.spotify.com/track/1lkcrEmMddGE1c1pcY6hdQ"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1051,22 +1055,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Riceboy Sleeps (2019 Remaster)",
-        "url": "https://open.spotify.com/album/2v2oepohJrkS5kdDIJ1xLz"
+        "name": "Songs for the Broken Hearted",
+        "url": "https://open.spotify.com/album/6yb8To6luAuAWxIFPa0SSC"
       },
       "artists": [
         {
-          "name": "J\u00f3nsi",
-          "url": "https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y"
-        },
-        {
-          "name": "Alex Somers",
-          "url": "https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x"
+          "name": "Windy & Carl",
+          "url": "https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq"
         }
       ],
-      "duration_ms": 315386,
-      "name": "All The Big Trees - 2019 Remaster",
-      "url": "https://open.spotify.com/track/1lkcrEmMddGE1c1pcY6hdQ"
+      "duration_ms": 140840,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/7wVgBj00m1I8W8AVYi9F8n"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "dedication",
-        "url": "https://open.spotify.com/album/1hbuMDEa4b9db9XafVZOqi"
-      },
-      "artists": [
-        {
-          "name": "Chihei Hatakeyama",
-          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
-        }
-      ],
-      "duration_ms": 219707,
-      "name": "white mountain",
-      "url": "https://open.spotify.com/track/6wx1qKHRS97vFUBBPm5Ys7"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Glider",
         "url": "https://open.spotify.com/album/3NI2Qzk6pVI88VSzgR78aI"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 341890,
       "name": "Already There",
       "url": "https://open.spotify.com/track/1KhqU5oOQeHSMkmFCUsU4j"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "dedication",
+        "url": "https://open.spotify.com/album/1hbuMDEa4b9db9XafVZOqi"
+      },
+      "artists": [
+        {
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+        }
+      ],
+      "duration_ms": 219707,
+      "name": "white mountain",
+      "url": "https://open.spotify.com/track/6wx1qKHRS97vFUBBPm5Ys7"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Glider",
-        "url": "https://open.spotify.com/album/3NI2Qzk6pVI88VSzgR78aI"
-      },
-      "artists": [
-        {
-          "name": "The Sight Below",
-          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
-        }
-      ],
-      "duration_ms": 357866,
-      "name": "Further Away",
-      "url": "https://open.spotify.com/track/7aCpRDsOpjtBOYECwpdsDv"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Second Childhood",
         "url": "https://open.spotify.com/album/4cO9Ihc4hpNiM0IPzw1ypc"
       },
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "Glider",
+        "url": "https://open.spotify.com/album/3NI2Qzk6pVI88VSzgR78aI"
+      },
+      "artists": [
+        {
+          "name": "The Sight Below",
+          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
+        }
+      ],
+      "duration_ms": 357866,
+      "name": "Further Away",
+      "url": "https://open.spotify.com/track/7aCpRDsOpjtBOYECwpdsDv"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/6WKXCjXWZlK1SmJYUXnMO3"
       },
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Streichelfisch (Remastered)",
-        "url": "https://open.spotify.com/album/0Z6y85kr5QPTXVxNcyxJ54"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 351980,
-      "name": "Aparaquasynthe (Remastered)",
-      "url": "https://open.spotify.com/track/6OlM4VG2u07UKSdjK0kRmB"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "MP3 Collection",
         "url": "https://open.spotify.com/album/6UufZoGprTMwK78k4sEjjg"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 438066,
       "name": "Raamat",
       "url": "https://open.spotify.com/track/4xzjlz31M7YI9g6MqnEdP5"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Streichelfisch (Remastered)",
+        "url": "https://open.spotify.com/album/0Z6y85kr5QPTXVxNcyxJ54"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 351980,
+      "name": "Aparaquasynthe (Remastered)",
+      "url": "https://open.spotify.com/track/6OlM4VG2u07UKSdjK0kRmB"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1487,30 +1487,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Second Childhood",
-        "url": "https://open.spotify.com/album/4cO9Ihc4hpNiM0IPzw1ypc"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "BJ Nilsen",
-          "url": "https://open.spotify.com/artist/6EoXpSE9sRNGaingbSDcNB"
-        },
-        {
-          "name": "Stilluppsteypa",
-          "url": "https://open.spotify.com/artist/6GqRN5iayukIfPKZqOW8Qj"
-        }
-      ],
-      "duration_ms": 394680,
-      "name": "It's About the Size of a House",
-      "url": "https://open.spotify.com/track/66egNdOOQLueKrCTMeXc8Q"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Dolores",
         "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
       },
@@ -1523,6 +1499,22 @@
       "duration_ms": 236786,
       "name": "Von Schn\u00e4beln",
       "url": "https://open.spotify.com/track/5tgqnRwnzGPxBchOamvL5d"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Through the Cardial Window",
+        "url": "https://open.spotify.com/album/4ljgcxwTDkUNTXKjb0PZJU"
+      },
+      "artists": [
+        {
+          "name": "Gregg Kowalsky",
+          "url": "https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq"
+        }
+      ],
+      "duration_ms": 350360,
+      "name": "Coral Gables",
+      "url": "https://open.spotify.com/track/310FX6dlbqdpUB2GwQg8Yn"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1543,18 +1535,26 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Through the Cardial Window",
-        "url": "https://open.spotify.com/album/4ljgcxwTDkUNTXKjb0PZJU"
+        "name": "Second Childhood",
+        "url": "https://open.spotify.com/album/4cO9Ihc4hpNiM0IPzw1ypc"
       },
       "artists": [
         {
-          "name": "Gregg Kowalsky",
-          "url": "https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq"
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "BJ Nilsen",
+          "url": "https://open.spotify.com/artist/6EoXpSE9sRNGaingbSDcNB"
+        },
+        {
+          "name": "Stilluppsteypa",
+          "url": "https://open.spotify.com/artist/6GqRN5iayukIfPKZqOW8Qj"
         }
       ],
-      "duration_ms": 350360,
-      "name": "Coral Gables",
-      "url": "https://open.spotify.com/track/310FX6dlbqdpUB2GwQg8Yn"
+      "duration_ms": 394680,
+      "name": "It's About the Size of a House",
+      "url": "https://open.spotify.com/track/66egNdOOQLueKrCTMeXc8Q"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "Dolores",
+        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 378840,
+      "name": "Welk",
+      "url": "https://open.spotify.com/track/24d8ADCUgrorXbmNpbypGS"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "As Good As Gone",
         "url": "https://open.spotify.com/album/3XzOUf4jt5OmtZZR0INzLQ"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 222506,
       "name": "De Storm",
       "url": "https://open.spotify.com/track/6mVclchrniUeZKwLxMAT9p"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "Dolores",
-        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 378840,
-      "name": "Welk",
-      "url": "https://open.spotify.com/track/24d8ADCUgrorXbmNpbypGS"
     },
     {
       "added_at": "2023-08-04 12:53:28",

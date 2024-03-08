@@ -1,5 +1,5 @@
 {
-  "2024-03-07": 73875,
+  "2024-03-08": 73908,
   "date_first_scraped": "2024-01-30",
   "description": "Your weekly update of the most played tracks right now - Argentina.",
   "name": "Top Songs - Argentina",
@@ -267,6 +267,24 @@
     {
       "album": {
         "name": "Cupido",
+        "url": "https://open.spotify.com/album/2Tr73tZDcUFIs60iRdwfS1"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Cupido",
+      "url": "https://open.spotify.com/track/7cfO6HiRtuWOhqY9nbn1PH"
+    },
+    {
+      "album": {
+        "name": "Cupido",
         "url": "https://open.spotify.com/album/150WjuATWqqdVxLeWQrlGV"
       },
       "artists": [
@@ -285,7 +303,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 215000,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/2E9bJ7vsFylaYwLwf6dH4f"

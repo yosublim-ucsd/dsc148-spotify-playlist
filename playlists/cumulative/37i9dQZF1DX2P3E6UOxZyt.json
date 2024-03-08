@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\uff01Cover: Jinbo",
+  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\uff01Cover: \u9673\u5ffb\u73a5 (Vicky Chen)",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -1296,7 +1296,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 195645,
       "name": "i don't lose sleep anymore",
       "url": "https://open.spotify.com/track/4iMTHWzHMf6qVDGY7hzqoE"
@@ -2552,7 +2552,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 223285,
       "name": "So Sad - Remix",
       "url": "https://open.spotify.com/track/387i62hO8kJDqGmPZmsjM1"
@@ -2836,7 +2836,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 174498,
       "name": "take your time",
       "url": "https://open.spotify.com/track/0eoBANcjCIatgke9nlINjT"
@@ -3192,6 +3192,28 @@
       "duration_ms": 198786,
       "name": "Woody",
       "url": "https://open.spotify.com/track/6S1JhalUapj0WoE8fKsaZ2"
+    },
+    {
+      "album": {
+        "name": "Woody (Remix)",
+        "url": "https://open.spotify.com/album/7IyDjdYuzqCfgdD7AeZsZe"
+      },
+      "artists": [
+        {
+          "name": "Jocelyn 9.4.0",
+          "url": "https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ"
+        },
+        {
+          "name": "rgry",
+          "url": "https://open.spotify.com/artist/0gmKSV5kWvOnBbpnFEdPFG"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150291,
+      "name": "Woody - Remix",
+      "url": "https://open.spotify.com/track/3yhwNoScDqtyNU4Jx0qU54"
     },
     {
       "album": {
@@ -3634,6 +3656,24 @@
       "duration_ms": 235822,
       "name": "\u4e0d\u6416\u5c31\u6efe",
       "url": "https://open.spotify.com/track/2FyxwNkn5XCtuGniro1IqE"
+    },
+    {
+      "album": {
+        "name": "\u4e0d\u75db",
+        "url": "https://open.spotify.com/album/668OKyuil6BOTTXIadg9Nw"
+      },
+      "artists": [
+        {
+          "name": "\u674e\u4f73\u6b61",
+          "url": "https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "\u4e0d\u75db",
+      "url": "https://open.spotify.com/track/0s60VPVeSMQiQSHH0oakKo"
     },
     {
       "album": {
@@ -5394,7 +5434,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 221443,
       "name": "\u5df4\u9ece\u7684\u5341\u4e8c\u9ede",
       "url": "https://open.spotify.com/track/4dVlQJVxsUNEL4lTSSwAJB"
@@ -5906,7 +5946,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 126144,
       "name": "\u6211\u5011 - Vicky\u7248",
       "url": "https://open.spotify.com/track/4XnD0PA97QgSeaecGVXfFc"
@@ -6232,7 +6272,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 183000,
       "name": "\u628a\u6240\u6709\u7684\u611b\u90fd\u63ee\u970d",
       "url": "https://open.spotify.com/track/2bkU3k04LPBUzFSgPJvsB3"
@@ -6366,6 +6406,24 @@
       "duration_ms": 244965,
       "name": "\u653e\u904e\u81ea\u5df1",
       "url": "https://open.spotify.com/track/3DfkGi5sU2pqC7upLDccXA"
+    },
+    {
+      "album": {
+        "name": "\u65b0\u7684\u4e00\u5929 (\u300a\uff08\u771f\uff09\u65b0\u7684\u4e00\u5929\u300b\u96fb\u5f71\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/7DNcBg0T3953z4vDfgZRgh"
+      },
+      "artists": [
+        {
+          "name": "\u67cf\u9716PoLin",
+          "url": "https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272111,
+      "name": "\u65b0\u7684\u4e00\u5929 - \u300a\uff08\u771f\uff09\u65b0\u7684\u4e00\u5929\u300b\u96fb\u5f71\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/3GSRDqTZkakjxOGwrDY3Ag"
     },
     {
       "album": {
@@ -6720,7 +6778,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 199500,
       "name": "\u672c\u4f86\u4eca\u5929 - \u300a\u751f\u547d\u6355\u624b\u300b\u7247\u982d\u66f2",
       "url": "https://open.spotify.com/track/3QMpSmPt25T586RoKQWlql"
@@ -6810,7 +6868,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 202826,
       "name": "\u6975\u5149",
       "url": "https://open.spotify.com/track/7hgto8fRGxZMh4lDa69Azw"
@@ -7425,6 +7483,24 @@
     },
     {
       "album": {
+        "name": "\u738b\u724c (fun cover)",
+        "url": "https://open.spotify.com/album/0X0fBZY95nbmPNgqfE0UAC"
+      },
+      "artists": [
+        {
+          "name": "Vicky Chen",
+          "url": "https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232125,
+      "name": "\u738b\u724c - fun cover",
+      "url": "https://open.spotify.com/track/09edMlAdNVUx4dAK2R8ob8"
+    },
+    {
+      "album": {
         "name": "\u73fe\u5728\u7684\u4e8b\u6211\u8aaa\u4e0d\u51fa\u53e3",
         "url": "https://open.spotify.com/album/29pXrrKNLjdBp2HjIvKyvZ"
       },
@@ -7436,7 +7512,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 238792,
       "name": "\u73fe\u5728\u7684\u4e8b\u6211\u8aaa\u4e0d\u51fa\u53e3",
       "url": "https://open.spotify.com/track/75WtSq52wyMDHjG8lwoSgO"
@@ -8796,7 +8872,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 190642,
       "name": "\u932f\u4e86 (\u7db2\u5287\u300a\u4e0d\u6703\u6200\u611b\u7684\u6211\u5011\u300b\u63d2\u66f2)",
       "url": "https://open.spotify.com/track/2efHggn9QpN4lQwAoTZ6cC"

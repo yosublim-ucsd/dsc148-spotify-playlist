@@ -4,7 +4,7 @@
 
 > Instrumental beats to chill to.
 
-720 songs - 1 day 4 hr 11 min
+724 songs - 1 day 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Breathe](https://open.spotify.com/track/5BvZc6BAl9mNTxhos2uPDZ) | [Suede Wallet](https://open.spotify.com/artist/2oTCWOKOMia5kg2jep7nKY) | [Breathe](https://open.spotify.com/album/7IAS1XLDJ0vxbdISd1FvLG) | 2:11 | 2023-01-13 | 2023-09-29 |
 | [Brief](https://open.spotify.com/track/6caIcf9eRI7X8wHp7GeWNZ) | [Tuva Sersh](https://open.spotify.com/artist/7iM8O4ZKvjeOFDPBkxncPk) | [Brief](https://open.spotify.com/album/6atjEq08QMtLbB8PKqQQKl) | 2:22 | 2024-02-09 |  |
 | [bublee](https://open.spotify.com/track/68PhAtE0qKcoi2ZeQsfXsH) | [soulful beats](https://open.spotify.com/artist/0x6QoENXYTjAkBQzijkHvk) | [bublee](https://open.spotify.com/album/6xr1sPMwIVBzjP1rTbfHjN) | 2:34 | 2023-07-19 |  |
+| [Buck Stop](https://open.spotify.com/track/59pbhakI7VpgKLB3J9r7gO) | [olbejom](https://open.spotify.com/artist/6ZVFQS79wada5T9YGOqqfq) | [Buck Stop](https://open.spotify.com/album/1wep5cvBwgCQlWZJYtqUEU) | 2:21 | 2024-03-08 |  |
 | [Building Castles](https://open.spotify.com/track/6XRtSSqhBLX8ooT50BvgWM) | [ENRA](https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4), [Some Place Else](https://open.spotify.com/artist/1SC2zBKG1R2xvtxpCO7W11) | [Building Castles](https://open.spotify.com/album/6FRrNn04Rtn2YScAU8D0mw) | 2:26 | 2023-01-13 | 2023-09-16 |
 | [bulb](https://open.spotify.com/track/5Atzb2RbMN2l8YKUElBiyM) | [niff\_](https://open.spotify.com/artist/2vpm14X9dM28wOrLAOUlto) | [bulb](https://open.spotify.com/album/6oBfJtYLWBE3f3fY8dK7Pl) | 2:05 | 2023-01-13 |  |
 | [burgundy](https://open.spotify.com/track/6S1YJasKYbX3sR8J5jltjY) | [Zatsuma](https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe) | [burgundy](https://open.spotify.com/album/6NZoyh9sgrsnBezKv0rF5J) | 2:31 | 2024-02-23 |  |
@@ -408,6 +409,7 @@
 | [Multiverse](https://open.spotify.com/track/1eNDyRFLcuozAqujBKXIO6) | [Glow Down](https://open.spotify.com/artist/1gWqPuL3TnL7maQnhHAZhn) | [Multiverse](https://open.spotify.com/album/4LiUvrxaW0hy3iMVmDaiGR) | 2:32 | 2023-01-13 | 2023-10-20 |
 | [Mushroom Walk](https://open.spotify.com/track/1KLcjAynOZxnwuqZo1flxz) | [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk) | [Lost In Space](https://open.spotify.com/album/0LpxID7sN6SPwcaN7AFJQj) | 2:58 | 2023-01-13 | 2023-09-29 |
 | [my boo](https://open.spotify.com/track/0RpChaozqmTFfKbOSXoDtc) | [phonadium](https://open.spotify.com/artist/1EbUbtNohBB2nDSZVdb0P8) | [my boo](https://open.spotify.com/album/2EA8AyJVBzxszkhuDhlqsm) | 2:27 | 2023-01-13 | 2023-11-17 |
+| [Mystery Manor](https://open.spotify.com/track/6irOnKwOjYJFCvtCHG1RQC) | [Simis Cartwright](https://open.spotify.com/artist/5CBZsBU3HohXRlymLEIubg) | [Mystery Manor](https://open.spotify.com/album/3f8kwCuIcf4XEwT5ZPh63E) | 2:00 | 2024-03-08 |  |
 | [Natural Midst](https://open.spotify.com/track/0T0Qw9dfYjTf6umYfjC5zf) | [Illum Noyz](https://open.spotify.com/artist/3FoLwras7zH67MpZSuEZcW) | [Natural Midst](https://open.spotify.com/album/3VqDQlMLsc0mBCqc4s9XWL) | 2:41 | 2023-09-08 |  |
 | [Nature's Love](https://open.spotify.com/track/55ZUuMlOTxhJiLs3LkIqZH) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Spacemoons](https://open.spotify.com/album/48MaOWMleT2N9nmVfZ95BR) | 2:30 | 2023-01-13 |  |
 | [Need Some Space](https://open.spotify.com/track/0TBWvdscZJCLXyOUGbun4p) | [Mizlo](https://open.spotify.com/artist/4yfQDVxDZuhHtIKFROMjSQ) | [Need Some Space](https://open.spotify.com/album/1O8Wsw4w0GQPrU8cDSZHig) | 3:00 | 2024-01-19 |  |
@@ -550,6 +552,7 @@
 | [Simmer Down](https://open.spotify.com/track/6sguED9GcSPkitHUV69fhN) | [Soft Vessels](https://open.spotify.com/artist/6O4ZIYrg1s0J5HP8Z1oitv) | [Simmer Down](https://open.spotify.com/album/0mzDPdasH5BhizWTqoMlRV) | 3:05 | 2023-01-13 |  |
 | [Simple](https://open.spotify.com/track/7rOXbaE7eR2EckA348ui2m) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Simple](https://open.spotify.com/album/5D3DbCzuUxS5QtbVi14YpZ) | 2:09 | 2023-09-04 | 2023-09-16 |
 | [Simple Solitude](https://open.spotify.com/track/6QRsJz7vfDqWmX2YT64yqn) | [Chilou](https://open.spotify.com/artist/2wTi41vTfbFFHdAAezSSF8) | [Simple Solitude](https://open.spotify.com/album/7ji5s1oKZ0d1Vj8I9WJR5p) | 2:33 | 2023-09-22 |  |
+| [Sit Down Paddle](https://open.spotify.com/track/166r3eE8dhuEZJygvDjBbI) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Sit Down Paddle](https://open.spotify.com/album/1xVHBqls055uf97wWqtZE6) | 2:00 | 2024-03-08 |  |
 | [Sketchy Dreamers](https://open.spotify.com/track/5nxEHnue5hDtbbubvyZRUe) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Sketchy Dreamers](https://open.spotify.com/album/5CWACW6EISOrtIaNFZxJkN) | 2:40 | 2023-01-13 |  |
 | [Sky Lullaby](https://open.spotify.com/track/3cQHsfwhxsdJJABkWO1N5U) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Sky Lullaby](https://open.spotify.com/album/6jo7r1HGaDlUBBgNUUue8G) | 3:07 | 2023-01-13 |  |
 | [Slack](https://open.spotify.com/track/1NinSAwNClX9Vl5v66qWE2) | [DJ Buzz](https://open.spotify.com/artist/4OL7JQEzpw3nyfQn0DrrB6) | [Slack](https://open.spotify.com/album/7yhbDimWjJ14ps15Bubqka) | 2:39 | 2023-04-11 | 2023-09-22 |
@@ -586,6 +589,7 @@
 | [Stargazing](https://open.spotify.com/track/1C6FsUMO0JQWTNGbDw3bQi) | [Chill West](https://open.spotify.com/artist/2bHB1ylsCPTxalKwQ9u9Py), [Dreamfield](https://open.spotify.com/artist/0Z1g78JEjg1BhRNw6hToVm), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Stargazing](https://open.spotify.com/album/21SlpxfmWgUO7JxnPC2AfJ) | 2:10 | 2023-01-13 |  |
 | [Starlight](https://open.spotify.com/track/4NwP5uNwmGAjYyev94maJT) | [Helynt](https://open.spotify.com/artist/6wM3tYsLm3LMfEKIkl5SmY) | [Starlight](https://open.spotify.com/album/1Il3iYDX55M3G3XCHKCyt8) | 2:26 | 2023-01-13 | 2023-11-17 |
 | [Starlight](https://open.spotify.com/track/6YcSUjxAWwublCNiKPgwKD) | [Ol Wallace](https://open.spotify.com/artist/0R4bCRfiDBcRYcn9g0e35c) | [Starlight](https://open.spotify.com/album/5a96sPpHX2sg6EJGTsTnMx) | 2:33 | 2023-01-13 |  |
+| [starry nights](https://open.spotify.com/track/6JLCZPbRojiFATBFRoIFFR) | [Halon Alo](https://open.spotify.com/artist/6mV4xWgIKInX3SxE370eQQ) | [starry nights](https://open.spotify.com/album/710hEZOm9sL0Y0imd7Qj1b) | 3:00 | 2024-03-08 |  |
 | [Starscapes](https://open.spotify.com/track/4Kxz7mFnE1dVsxbM6nZCxU) | [Nuver](https://open.spotify.com/artist/7INJXFDyMoyqqp91q0FWqh), [S N U G](https://open.spotify.com/artist/0liH4Jfiz66Rqjz4DH3JZk) | [Miracle](https://open.spotify.com/album/7yILBiqYvyWNs1hJ7NrnwU) | 2:32 | 2023-01-13 |  |
 | [Startup](https://open.spotify.com/track/0tiZ9oJR4dHPc0Q81hILQf) | [Auxjack](https://open.spotify.com/artist/26zCMMaITBnpxUsoDnPMeR) | [Startup](https://open.spotify.com/album/5VabtlN8uQLiftYe13BGvJ) | 2:47 | 2023-01-13 |  |
 | [Stay Awhile](https://open.spotify.com/track/25MNpAJUvnYo4e6mLPgCab) | [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc) | [Stay Awhile](https://open.spotify.com/album/2Yvcqs4xBLGcS782wg3DUg) | 2:48 | 2023-04-11 | 2023-07-20 |

@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-899 songs - 1 day 10 hr 58 min
+900 songs - 1 day 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [BeatStop](https://open.spotify.com/track/6wC0qvBQ705DXdclZTWaec) | [Freckle & Pete](https://open.spotify.com/artist/63NEeSfDLOqSJB1detrXx3) | [BeatStop](https://open.spotify.com/album/0ZC94kziQDtZsIc9mD39Il) | 1:56 | 2022-04-15 | 2022-04-22 |
 | [bedroom beat](https://open.spotify.com/track/1NEapFjv6l7VKX57BGNcxa) | [zakori](https://open.spotify.com/artist/1yw7x5O6btobGfIvuNiXms) | [bedroom beat](https://open.spotify.com/album/6xcqp2zuKI7ki9pcjyBpSY) | 1:54 | 2022-04-15 | 2022-05-20 |
 | [Bedside Java](https://open.spotify.com/track/68CjI2SioLduluQI2XSG9o) | [Nova Calma](https://open.spotify.com/artist/732aFMojr4rC3Q2DAstddk) | [Bedside Java](https://open.spotify.com/album/3JfZ8cKqdpjLRlFdtSJhaA) | 2:19 | 2022-09-09 |  |
-| [BeeBee](https://open.spotify.com/track/1APRMRY3p7oIrTXyz8bPlL) | [Laflov](https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH) | [AH!](https://open.spotify.com/album/3CJUmAUUbRelP6pnBkYMyS) | 3:12 | 2022-11-25 |  |
+| [BeeBee](https://open.spotify.com/track/1APRMRY3p7oIrTXyz8bPlL) | [Laflov](https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH) | [AH!](https://open.spotify.com/album/3CJUmAUUbRelP6pnBkYMyS) | 3:12 | 2022-11-25 | 2024-03-08 |
 | [beets per minute](https://open.spotify.com/track/1JKxBVtMRA4c5PRJXA5sVO) | [crayonine](https://open.spotify.com/artist/0FIy7978qGBeVddWRDemHo) | [beets per minute](https://open.spotify.com/album/66JCVytytkaEyK0zt149LR) | 2:03 | 2022-04-15 | 2022-10-29 |
 | [behind the hill](https://open.spotify.com/track/4ymiPIQcRZgppsh4ocLfps) | [kenshin kai](https://open.spotify.com/artist/62UDyIYUmhoCAVbC8huIyS) | [behind the hill](https://open.spotify.com/album/5xQO5k3msz12al8SmyxZQv) | 2:12 | 2022-04-15 |  |
 | [Between The Lines](https://open.spotify.com/track/0xu4nHvp3S4wVFc685Z9EY) | [Wasted Glitter](https://open.spotify.com/artist/0dNux2V8fLK0d4fyqwU5iZ) | [Between The Lines](https://open.spotify.com/album/6cG45DQCdR1QBumoTWSkDf) | 2:02 | 2022-04-15 | 2023-07-20 |
@@ -661,6 +661,7 @@
 | [Serenity](https://open.spotify.com/track/5bEZ6aLBteghtOzynCO4WT) | [Lemeria](https://open.spotify.com/artist/6djoTVe8DDQ9I7tFOL673y), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Come Back \| Serenity](https://open.spotify.com/album/6ClJ6EUajiUuSxLAjbaCXH) | 2:08 | 2022-10-14 |  |
 | [Seven](https://open.spotify.com/track/3UdSY1SgSF60lpYdMbmeXm) | [Von Von Bon](https://open.spotify.com/artist/46ex27gVTAa49Ikzk0M6jU) | [Seven](https://open.spotify.com/album/2Oiaj5rQK2zBL5xBtGUhlV) | 2:29 | 2022-04-15 |  |
 | [Seven lifes](https://open.spotify.com/track/0ODqF4q7w8uZ80auAlUww8) | [Lunatic Sad](https://open.spotify.com/artist/2zdUTbS2EdmbSrzK96XvEp) | [Seven lifes](https://open.spotify.com/album/1nTnXy5pPuajYkihPVFWTj) | 2:16 | 2022-09-09 | 2023-07-20 |
+| [Shallow Pockets](https://open.spotify.com/track/58LO5jXnxcJZAhZ28CJWKe) | [Palmyra Flo](https://open.spotify.com/artist/6z6Pcqh3ygPBybhLXSiaxl) | [Shallow Pockets](https://open.spotify.com/album/0oKQXprqD5ems9CnpZTMhM) | 2:25 | 2024-03-08 |  |
 | [Shallow Pools](https://open.spotify.com/track/0UzMLYcdzMb7jp5lZQ5X6g) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Onsen](https://open.spotify.com/album/70WpXKSt4kBPwLBXPy9sBi) | 2:16 | 2022-12-16 | 2024-03-03 |
 | [Shape](https://open.spotify.com/track/4dvUJBDK0b96VmCjJ6318U) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Shape](https://open.spotify.com/album/4VTfhlLlVm20hgXj5t2NfC) | 1:48 | 2022-10-28 | 2022-11-25 |
 | [Shape](https://open.spotify.com/track/4vctnDV4Kft8buepkkUOI9) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Shape](https://open.spotify.com/album/20odQgHpucqurWxbT3JX8O) | 1:48 | 2022-12-09 | 2023-11-24 |

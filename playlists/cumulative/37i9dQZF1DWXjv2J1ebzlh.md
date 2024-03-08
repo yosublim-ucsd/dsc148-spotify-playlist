@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,219 songs - 6 day 5 hr 12 min
+2,221 songs - 6 day 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1590,7 +1590,8 @@
 | [Pagibig na Lubus\-lubos](https://open.spotify.com/track/7lbYP3mrgJW7tZsJZjnIXf) | [Celeste Legaspi](https://open.spotify.com/artist/20gOeXI8NLUKdSr9Z4YeD6) | [Celeste \(vicor 40th anniv coll\) vol 1](https://open.spotify.com/album/6RQW20PSTwYEPvTj7i38Ez) | 2:51 | 2022-06-09 | 2022-07-29 |
 | [Paint It Black](https://open.spotify.com/track/3w2F2Pb2Kv0ZzeGD7SfB30) | [Africa](https://open.spotify.com/artist/4bszODJhbxkwHlq0Inh6VU) | [Music From “Lil Brown” \- Remastered](https://open.spotify.com/album/1xe6dsE1l6EvVoxNJhzB14) | 7:28 | 2022-06-09 |  |
 | [Palengue Palengue](https://open.spotify.com/track/2SnTHIYAkmSwwJBSb29JT2) | [Son Palenque](https://open.spotify.com/artist/3VyjbWEHPjc9JEXsk6Tk2w) | [Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975 \- 91](https://open.spotify.com/album/3nnDp17ONStMm4LY6D64Mq) | 4:09 | 2022-07-12 | 2022-07-29 |
-| [Palengue Palengue](https://open.spotify.com/track/0h1wnEV4VioEaoUyndMUc6) | [Son Palenque](https://open.spotify.com/artist/3VyjbWEHPjc9JEXsk6Tk2w) | [Afro\-Colombian Sound Modernizers](https://open.spotify.com/album/64jRR8ogyHRWsu4ifrc06o) | 4:10 | 2022-07-27 |  |
+| [Palengue Palengue](https://open.spotify.com/track/0h1wnEV4VioEaoUyndMUc6) | [Son Palenque](https://open.spotify.com/artist/3VyjbWEHPjc9JEXsk6Tk2w) | [Afro\-Colombian Sound Modernizers](https://open.spotify.com/album/64jRR8ogyHRWsu4ifrc06o) | 4:10 | 2022-07-27 | 2024-03-08 |
+| [Palengue Palengue](https://open.spotify.com/track/5lJOm0UNd3AFwxKvirEjYB) | [Son Palenque](https://open.spotify.com/artist/3VyjbWEHPjc9JEXsk6Tk2w) | [Afro\-Colombian Sound Modernizers](https://open.spotify.com/album/5HAxpndIx1dY8zwblmjEHz) | 4:10 | 2023-11-29 |  |
 | [Panema Leblon](https://open.spotify.com/track/6ncEyWi823tROt5SYRRzwZ) | [Claudya](https://open.spotify.com/artist/1E5pLahwa4lUHQxHFlfkg5) | [Voce, Claudia, Voce](https://open.spotify.com/album/26JXGw18ZbskFxmbHv19VL) | 2:13 | 2022-06-09 |  |
 | [Pangea](https://open.spotify.com/track/7temtwzguIVsHoT3ewhnxh) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Mantra Moderne](https://open.spotify.com/album/2Uo2xIUyu2VRo43IKxrokH) | 4:17 | 2022-06-09 |  |
 | [Pangua zô pile moin](https://open.spotify.com/track/2tFqiHFTItjvh2Ot71hdVQ) | [Fred Aucagos](https://open.spotify.com/artist/4vP4uEiX0sunTFcokup8ks) | [Beach Diggin', Vol\. 3](https://open.spotify.com/album/7mHNiS5p3EwV4iOzcLj9PU) | 3:41 | 2022-06-09 |  |
@@ -2111,8 +2112,9 @@
 | [What a Fire](https://open.spotify.com/track/5tjg8d1H9RTv53eQScKmwJ) | [The Ethiopians](https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA) | [Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond](https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU) | 2:43 | 2022-06-09 |  |
 | [What Is Life?](https://open.spotify.com/track/3Ja7rl9f6J5QveUJeSUq22) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI), [Uhuru\-Yenzu](https://open.spotify.com/artist/01COhV6E3zLbPa5IJ27XkL) | [Life Stories](https://open.spotify.com/album/1mc8TPFqAUuCBklndphDBa) | 4:37 | 2022-06-09 | 2022-07-29 |
 | [What Is Life?](https://open.spotify.com/track/69RKJPgebzlHDYVTa1m5Te) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI), [Uhuru\-Yenzu](https://open.spotify.com/artist/01COhV6E3zLbPa5IJ27XkL) | [Life Stories](https://open.spotify.com/album/6vqY4CxUewSHoLPi2G0s99) | 4:37 | 2022-07-27 |  |
+| [When the Lights Are Low](https://open.spotify.com/track/3RzklnCLyC35UhTN7WkVEr) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/4znstpmS1WOSyKyGtTVM8m) | 3:04 | 2023-11-29 |  |
 | [When the Lights Are Low](https://open.spotify.com/track/5dfQhcik87RMJAvVs7xW95) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw) | 3:04 | 2022-07-12 | 2023-11-04 |
-| [When The Lights Are Low](https://open.spotify.com/track/1QxSiJ0Xf0iUzyDIFh7FWF) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On The Beach With The Paragons](https://open.spotify.com/album/5rPWGUQEG3OfeT65tRqcf9) | 3:05 | 2023-10-06 |  |
+| [When The Lights Are Low](https://open.spotify.com/track/1QxSiJ0Xf0iUzyDIFh7FWF) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On The Beach With The Paragons](https://open.spotify.com/album/5rPWGUQEG3OfeT65tRqcf9) | 3:05 | 2023-10-06 | 2024-03-08 |
 | [Whisky et coca\-cola](https://open.spotify.com/track/5wlbbMZlYzPZ9UPyx6oaf2) | [Amadou Balaké](https://open.spotify.com/artist/1R3wyTMKl4aOXW9cbiFnME) | [The Original Sound of Burkina Faso \(Compiled by David 'Mr Bongo' Buttle and Florent Mazzoleni\)](https://open.spotify.com/album/4qf2r93i859pgndqRVAozX) | 5:32 | 2022-06-09 |  |
 | [White Sands Pt 1](https://open.spotify.com/track/31zedQcLFF93Zif5bXZT9s) | [The Fabulous Three](https://open.spotify.com/artist/3le5O6so782djcAD0TbiAC) | [Truth & Soul presents The Best of The Fabulous Three](https://open.spotify.com/album/57eg3xSuJqbjkcLyfjFToQ) | 2:01 | 2022-06-09 |  |
 | [Why Am I Treated So Bad?](https://open.spotify.com/track/6gUN9qhqQkyeK81hyLnOMQ) | [Lynn Taitt](https://open.spotify.com/artist/2AOn8ToM1vaab3wtU74ldy), [The Jets](https://open.spotify.com/artist/3AHq6rutf72JF0ul8GB6G2) | [You Hurt My Soul / Why Am I Treated So Bad?](https://open.spotify.com/album/0th3d2gseWOWH2ctk5UeUJ) | 3:21 | 2022-07-12 | 2022-07-29 |

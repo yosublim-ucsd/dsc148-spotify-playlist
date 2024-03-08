@@ -1,9 +1,27 @@
 {
-  "2024-03-07": 519326,
+  "2024-03-08": 519344,
   "date_first_scraped": "2023-04-07",
   "description": "M\u00fasica ambiental para noches tranquilas.",
   "name": "Bajo Las Estrellas",
   "tracks": [
+    {
+      "album": {
+        "name": "A Dream",
+        "url": "https://open.spotify.com/album/5RdhTADIAfZo6PKEgABIHj"
+      },
+      "artists": [
+        {
+          "name": "xerLK",
+          "url": "https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159671,
+      "name": "A Dream",
+      "url": "https://open.spotify.com/track/3x05giEuCt5Pfmd3Be5ILF"
+    },
     {
       "album": {
         "name": "A World Above",
@@ -881,7 +899,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 129000,
       "name": "Certainties",
       "url": "https://open.spotify.com/track/5iYy0nMoSBsz13c2krUYdu"
@@ -2310,6 +2328,24 @@
     },
     {
       "album": {
+        "name": "Fj\u00e4ll",
+        "url": "https://open.spotify.com/album/7MtPdQxPtsMF84Gac03YZc"
+      },
+      "artists": [
+        {
+          "name": "Morgondimma",
+          "url": "https://open.spotify.com/artist/0mQskyOm143f9LT371ux2U"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158670,
+      "name": "Fj\u00e4ll",
+      "url": "https://open.spotify.com/track/7xohLcBBQRgIQDrc2Lj6Ck"
+    },
+    {
+      "album": {
         "name": "Fliessend",
         "url": "https://open.spotify.com/album/1tZnE5teaXuwMXskg4VXV9"
       },
@@ -3329,7 +3365,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 159480,
       "name": "lucid",
       "url": "https://open.spotify.com/track/6v4GhvB0MKJxyQFJg7lkLF"
@@ -3696,6 +3732,24 @@
     },
     {
       "album": {
+        "name": "Mistletoe",
+        "url": "https://open.spotify.com/album/6iC1rAAQha2cLCEWE3TBRm"
+      },
+      "artists": [
+        {
+          "name": "Blossom Inn",
+          "url": "https://open.spotify.com/artist/1oOLgA7Gl8VzwsIadutGo8"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152637,
+      "name": "Mistletoe",
+      "url": "https://open.spotify.com/track/3sdesEyISVCRUqj0c12Jxp"
+    },
+    {
+      "album": {
         "name": "Momenti",
         "url": "https://open.spotify.com/album/2mwDLGi9chNLFDduKOAJIj"
       },
@@ -3927,6 +3981,24 @@
       "duration_ms": 163800,
       "name": "New Star",
       "url": "https://open.spotify.com/track/17511fdxVIh76Mw6Md4rzC"
+    },
+    {
+      "album": {
+        "name": "Nightbloom",
+        "url": "https://open.spotify.com/album/4KeH0ZEt11dIe5FFfh6Nwr"
+      },
+      "artists": [
+        {
+          "name": "Meliore",
+          "url": "https://open.spotify.com/artist/2idtXzJnFZXORxj1JhTTqZ"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143297,
+      "name": "Nightbloom",
+      "url": "https://open.spotify.com/track/10JifYChE8zaRiObMx3RCh"
     },
     {
       "album": {

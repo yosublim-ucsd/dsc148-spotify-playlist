@@ -1950,6 +1950,24 @@
     {
       "album": {
         "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/1uCF3JTx9Wzix9UxKPrbef"
+      },
+      "artists": [
+        {
+          "name": "Mellow In Blue",
+          "url": "https://open.spotify.com/artist/0XqUdduCt8Hmk0fGxzpdR4"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182688,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/46jFGFC84ZpZOdMUoeUbRN"
+    },
+    {
+      "album": {
+        "name": "Winter Wonderland",
         "url": "https://open.spotify.com/album/45th0RtyKbQX0HQjO3PTSE"
       },
       "artists": [
@@ -1960,7 +1978,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 182688,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/6aJrY0o2XRMEhzSWznONCq"

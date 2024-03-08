@@ -1,12 +1,12 @@
 {
   "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Geisha",
-  "num_followers": 51452,
+  "num_followers": 51516,
   "original_name": "Jiran Akrab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzM4NjNhODQ0NTdlYzhiMWE2ZmQ2YzM0ZTE5YjlmN2Q5ZGY5NTQx",
+  "snapshot_id": "MCxiYmJlZTdhMmM5ZGMzODQzMjU4NzNhNzI1Y2NlZTAzODM5M2MyYjdh",
   "tracks": [
     {
       "added_at": "2024-01-12 06:34:07",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
+        "name": "King of Soundtrack",
+        "url": "https://open.spotify.com/album/4Wujmvou9cOqxARmnq1XjA"
+      },
+      "artists": [
+        {
+          "name": "Nidji",
+          "url": "https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d"
+        }
+      ],
+      "duration_ms": 285693,
+      "name": "Sumpah dan Cinta Matiku",
+      "url": "https://open.spotify.com/track/2dWRApexXwC6HIpX0HvZxc"
+    },
+    {
+      "added_at": "2024-01-12 06:34:07",
+      "album": {
         "name": "Aku Cinta Kau Dan Dia",
         "url": "https://open.spotify.com/album/2gajnKEtcWmFQ03Al5qvpF"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 283214,
       "name": "Aku Cinta Kau Dan Dia",
       "url": "https://open.spotify.com/track/3PHc0M7QXIwPUDnZ9dBVCu"
-    },
-    {
-      "added_at": "2024-01-12 06:34:07",
-      "album": {
-        "name": "King of Soundtrack",
-        "url": "https://open.spotify.com/album/4Wujmvou9cOqxARmnq1XjA"
-      },
-      "artists": [
-        {
-          "name": "Nidji",
-          "url": "https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d"
-        }
-      ],
-      "duration_ms": 285693,
-      "name": "Sumpah dan Cinta Matiku",
-      "url": "https://open.spotify.com/track/2dWRApexXwC6HIpX0HvZxc"
     },
     {
       "added_at": "2024-01-12 06:34:07",

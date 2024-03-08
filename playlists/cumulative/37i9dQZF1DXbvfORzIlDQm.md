@@ -4,7 +4,7 @@
 
 > A collection of roots music and covers urging peace and calling for change\. Cover: Tré Burt
 
-78 songs - 5 hr 3 min
+79 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [I'm Going Away](https://open.spotify.com/track/1ZcBa2buf2Mx5LHTyOujri) | [Elizabeth Cotten](https://open.spotify.com/artist/1eTZGzLkukATM7FoGltyFs) | [Shake Sugaree](https://open.spotify.com/album/7t6jknbXRsm0Us3dxwcLbt) | 3:25 | 2021-02-24 |  |
 | [If All I Was Was Black](https://open.spotify.com/track/3urjT4HEkfpPGJWGPf8cB9) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [If All I Was Was Black](https://open.spotify.com/album/7lyJLRjQk2dC16AiMQyyUf) | 3:55 | 2021-02-24 |  |
 | [Little Bit](https://open.spotify.com/track/7sqCVKFc2fTLKtET4TU5bC) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [If All I Was Was Black](https://open.spotify.com/album/7lyJLRjQk2dC16AiMQyyUf) | 3:50 | 2021-02-24 |  |
-| [Little Sparrow](https://open.spotify.com/track/6n2H3jy9SDo5k22pIyMCU0) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [A Day for the Hunter, A Day for the Prey](https://open.spotify.com/album/4whjlDovn35OzIY4TnbARA) | 3:16 | 2021-02-24 |  |
+| [Little Sparrow](https://open.spotify.com/track/6n2H3jy9SDo5k22pIyMCU0) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [A Day for the Hunter, A Day for the Prey](https://open.spotify.com/album/4whjlDovn35OzIY4TnbARA) | 3:16 | 2021-02-24 | 2024-03-08 |
+| [Little sparrow](https://open.spotify.com/track/6vGfL4ZcRL2U6RaGuZ5fJd) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [A day for the hunter, a day for the prey](https://open.spotify.com/album/4J4u8xcpz1WTAJRcgenpBa) | 3:16 | 2021-02-24 |  |
 | [Mind on Fire](https://open.spotify.com/track/3n3PVJbIY4NVSkrxQUYD1X) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Mind on Fire](https://open.spotify.com/album/5trx5tQegiqMUs45EPPFNp) | 3:14 | 2021-02-24 | 2022-11-13 |
 | [Mind on Fire](https://open.spotify.com/track/45RX9we2ExTAPtPmHRJT9C) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Mind on Fire](https://open.spotify.com/album/1Ms5teyYCQM0bHa2aSKfod) | 3:14 | 2021-02-24 | 2022-07-29 |
 | [Mind on Fire](https://open.spotify.com/track/4LEdX9NFK0tVB5anrAIi1q) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 3:14 | 2021-02-24 |  |

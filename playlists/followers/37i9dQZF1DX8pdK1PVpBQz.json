@@ -1,7 +1,7 @@
 {
-  "2024-03-07": 18308,
+  "2024-03-08": 18310,
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. Cover: Mildlife. Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels. Cover: Elsy Wameyo. Artwork: Isu Kim",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -2389,7 +2389,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 297648,
       "name": "American Dream",
       "url": "https://open.spotify.com/track/0Xtww6oKBat94kE6FxuqTl"
@@ -2909,7 +2909,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 188596,
       "name": "Ape Shit",
       "url": "https://open.spotify.com/track/0n0gpo87pFPzXMbQ4l3laH"
@@ -16231,7 +16231,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 241746,
       "name": "Everything Is Now",
       "url": "https://open.spotify.com/track/6laEzBd4TnyrzmMmPvGmAn"
@@ -17719,7 +17719,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 165685,
       "name": "Fikir (\u134d\u1245\u122d)",
       "url": "https://open.spotify.com/track/7yDHAkTXtgprxoT3ooYAyY"
@@ -18019,6 +18019,24 @@
       "duration_ms": 152620,
       "name": "Flirt",
       "url": "https://open.spotify.com/track/5gOJO68kzrSU5wcfS95TW2"
+    },
+    {
+      "album": {
+        "name": "Floodgate",
+        "url": "https://open.spotify.com/album/1wuMBPwFasiQZxPff61IAO"
+      },
+      "artists": [
+        {
+          "name": "Oshua",
+          "url": "https://open.spotify.com/artist/1S96G0JKFvzJXHd61DLUPV"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114448,
+      "name": "Floodgate",
+      "url": "https://open.spotify.com/track/5gGdwj2Pww9BJb7lFYqnFg"
     },
     {
       "album": {
@@ -22189,7 +22207,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 141150,
       "name": "haunted",
       "url": "https://open.spotify.com/track/7d0O6PqeZl23hZiTtzCABx"
@@ -23281,6 +23299,24 @@
       "duration_ms": 185142,
       "name": "HOLD ON",
       "url": "https://open.spotify.com/track/0izMjfGBbmhdVf0ecnM5bz"
+    },
+    {
+      "album": {
+        "name": "Bad With Words",
+        "url": "https://open.spotify.com/album/7B12rIZZIjU6JrvAbG8VTF"
+      },
+      "artists": [
+        {
+          "name": "Chloe Parch\u00e9",
+          "url": "https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204073,
+      "name": "Holding Me Back",
+      "url": "https://open.spotify.com/track/5SLtZC1ezSwMDqQYAQaIan"
     },
     {
       "album": {
@@ -26228,6 +26264,28 @@
     },
     {
       "album": {
+        "name": "Impatient (feat. Safety Club)",
+        "url": "https://open.spotify.com/album/0VE3gGmU4YJNaW7BHJVAZs"
+      },
+      "artists": [
+        {
+          "name": "Pink Matter",
+          "url": "https://open.spotify.com/artist/3akS61Yn88YZAfQyD0Z7x8"
+        },
+        {
+          "name": "SAFETY CLUB",
+          "url": "https://open.spotify.com/artist/52OF5mGGrAg9kdlq9Qkkd4"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185039,
+      "name": "Impatient (feat. Safety Club)",
+      "url": "https://open.spotify.com/track/65NUBrgDiJKJTXh8OQuQ75"
+    },
+    {
+      "album": {
         "name": "IMU",
         "url": "https://open.spotify.com/album/7BvtxPMhtRR1cDV5ycdmRP"
       },
@@ -26301,7 +26359,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 321238,
       "name": "In Another Life",
       "url": "https://open.spotify.com/track/66hwliyazffboYVlZHX0Cl"
@@ -27133,7 +27191,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 213994,
       "name": "Is This What It Feels Like?",
       "url": "https://open.spotify.com/track/685vjkLJwEW9tSWkRXzyRf"
@@ -33249,7 +33307,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 152251,
       "name": "Mood",
       "url": "https://open.spotify.com/track/2z1pyrZzT51rQyTvP0ztSQ"
@@ -35800,6 +35858,24 @@
     },
     {
       "album": {
+        "name": "NO MORE",
+        "url": "https://open.spotify.com/album/0NXCuIYen954onmzYyKnhb"
+      },
+      "artists": [
+        {
+          "name": "coolthekid",
+          "url": "https://open.spotify.com/artist/72VGlD2XP1a2eGhsZx2VaE"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223555,
+      "name": "NO MORE",
+      "url": "https://open.spotify.com/track/3xZjrvycRWfj9KCJhUKmOn"
+    },
+    {
+      "album": {
         "name": "No More",
         "url": "https://open.spotify.com/album/4bVF8L0Sf8Awiqz5QfmEXj"
       },
@@ -37649,7 +37725,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 192029,
       "name": "One Too Many",
       "url": "https://open.spotify.com/track/71GzTECsnCbEDdldAU2PjI"
@@ -39322,6 +39398,24 @@
     },
     {
       "album": {
+        "name": "Piny Lara",
+        "url": "https://open.spotify.com/album/6wnC1RGtXXcf6VDvvQgBAc"
+      },
+      "artists": [
+        {
+          "name": "Elsy Wameyo",
+          "url": "https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259000,
+      "name": "Piny Lara",
+      "url": "https://open.spotify.com/track/133uiqDWdBnBquBue2QHiD"
+    },
+    {
+      "album": {
         "name": "Piranha",
         "url": "https://open.spotify.com/album/7mPkG5Csf8SuTJoeJaGxMu"
       },
@@ -40411,7 +40505,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 178188,
       "name": "PrettyGirl",
       "url": "https://open.spotify.com/track/106hDPmhRaGNLTtYHTuRxm"
@@ -40733,7 +40827,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 217654,
       "name": "Pull Me In",
       "url": "https://open.spotify.com/track/5JtuOJXFe3YhcgVwbz1z6c"
@@ -46394,6 +46488,24 @@
     },
     {
       "album": {
+        "name": "SO SLOW",
+        "url": "https://open.spotify.com/album/5FzgNZnuaxlNXSTQcs1Hfi"
+      },
+      "artists": [
+        {
+          "name": "DIVEBAR YOUTH",
+          "url": "https://open.spotify.com/artist/3KtqczwOaFO6xJUEZ0UvYT"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157375,
+      "name": "SO SLOW",
+      "url": "https://open.spotify.com/track/1IhgawkcSS7ZxhgeVyPVSF"
+    },
+    {
+      "album": {
         "name": "so young",
         "url": "https://open.spotify.com/album/7aVym7cPnM8Sk2QWbBJeHF"
       },
@@ -46889,7 +47001,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 244554,
       "name": "somethingsgonnaworkout",
       "url": "https://open.spotify.com/track/130GRQ2WBu5v7xG2hfWNBM"
@@ -48151,7 +48263,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 165600,
       "name": "STRAWBERRY PIE",
       "url": "https://open.spotify.com/track/5G52bBP1URmq9wGtMCXbHR"
@@ -49336,6 +49448,24 @@
     },
     {
       "album": {
+        "name": "Sxc When I'm Crying",
+        "url": "https://open.spotify.com/album/0Q36Mq4QCvDJgFxgRejNPz"
+      },
+      "artists": [
+        {
+          "name": "June Jones",
+          "url": "https://open.spotify.com/artist/68MzdZEcqsklRZH1tttYk8"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150688,
+      "name": "Sxc When I'm Crying",
+      "url": "https://open.spotify.com/track/4GHUErLdz7N6JBKFJOCZiX"
+    },
+    {
+      "album": {
         "name": "Sydney To The Coast",
         "url": "https://open.spotify.com/album/4H9fYqi82fo4TOX4XD30jm"
       },
@@ -50013,7 +50143,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 200646,
       "name": "TELL ME",
       "url": "https://open.spotify.com/track/4KHafHbVn6xp0HmAufJ2Kc"
@@ -50111,7 +50241,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 284218,
       "name": "Temperature of Love",
       "url": "https://open.spotify.com/track/7uQELO7mEcO0u5i8lirWbT"
@@ -58785,7 +58915,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 382887,
       "name": "Yourself",
       "url": "https://open.spotify.com/track/3lFyL9JJvWnlZ13YzpTwzS"

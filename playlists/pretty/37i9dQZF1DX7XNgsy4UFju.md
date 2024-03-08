@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The best indie tracks of the moment\. Cover: Faye Webster
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,936 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,944 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 84 | [Everything Almost](https://open.spotify.com/track/64cSblcHs4nVN1DfSDTT9O) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Weird Faith](https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv) | 3:00 |
 | 85 | [chicago](https://open.spotify.com/track/6SkptVZ2SEfSJRxV84TMsR) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [chicago](https://open.spotify.com/album/18wcMl1vO8YBg4Xrq0Dwm7) | 3:04 |
 | 86 | [Over You](https://open.spotify.com/track/1y1EwXHdAIyt23LJs96bhH) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [No Place Like Home](https://open.spotify.com/album/2GGqnsXKyCzNzlRql3QusN) | 2:26 |
-| 87 | [Pilgrimage](https://open.spotify.com/track/0Z10ZZ8JD13yNpUTVvvepU) | [Elephant Stone](https://open.spotify.com/artist/47bokO26f4LIt4zaAlCQwo) | [Pilgrimage](https://open.spotify.com/album/4eIw6qAS8xcAdBPvxjwOwJ) | 5:25 |
+| 87 | [Pilgrimage](https://open.spotify.com/track/2PGGtIlpEqGe5bC2cSDpTl) | [Elephant Stone](https://open.spotify.com/artist/47bokO26f4LIt4zaAlCQwo) | [Back Into The Dream](https://open.spotify.com/album/4uVziFDduPtTLN2A7YQeUK) | 5:25 |
 | 88 | [THE RUNAROUND](https://open.spotify.com/track/5S2t7uGKhP8GjUsJeVwv57) | [nelward](https://open.spotify.com/artist/4DVe11vtKHN5TRtG8TEjNb) | [THE RUNAROUND](https://open.spotify.com/album/3p7WqXW7b0edoEZkgHU0gL) | 4:10 |
 | 89 | [When The Devil Speaks…](https://open.spotify.com/track/2FKnNu9PmgcUSXXBgR2phR) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [When The Devil Speaks…](https://open.spotify.com/album/3sQh8PifUrBSJCg0x5YZLG) | 3:02 |
 | 90 | [Worth More](https://open.spotify.com/track/3CI8lCa26dBqaS2xO8SNOK) | [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Worth More](https://open.spotify.com/album/5MyFWcrxlpBfN6MW39mmGc) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Sick As Your Secrets](https://open.spotify.com/track/1tfbXcqMhvdB2YYkpz54Np) | [Sara Sloan](https://open.spotify.com/artist/0HqD7L1K0yANRk0geft2EV) | [Sick As Your Secrets](https://open.spotify.com/album/2vPyzhvkgoNoRaub67x6Ic) | 4:03 |
 | 100 | [Knowing You](https://open.spotify.com/track/6KO3ebcMoEN3vjltHo9FWI) | [frown line](https://open.spotify.com/artist/3zBlhaQIMQtlpUEwYQoOoM) | [Knowing You](https://open.spotify.com/album/664Cc2ZdpJQZCoYdOnhtl8) | 3:50 |
 
-Snapshot ID: `MCw1YTk2ZGI3MzEzYzg4MDAyMzE2Yjk2YzI2YjIxYzhiNzFjOWU3N2I2`
+Snapshot ID: `MCwwYjFhODZlZjI5ZTUyNGFlNmJlNTE3MWQ0NDZlOWZkZTNlMzY1ZGMy`

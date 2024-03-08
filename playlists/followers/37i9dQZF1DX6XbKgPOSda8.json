@@ -1,5 +1,5 @@
 {
-  "2024-03-07": 193258,
+  "2024-03-08": 193394,
   "date_first_scraped": "2022-05-26",
   "description": "\u00a1Oi nom\u00e1s ese cumbi\u00f3n! ",
   "name": "Cumbias Para Bailar",
@@ -371,6 +371,24 @@
       "duration_ms": 173822,
       "name": "Carola",
       "url": "https://open.spotify.com/track/3rEmNFo8XX1xlXrdlSwJBw"
+    },
+    {
+      "album": {
+        "name": "A Bailar Tropical",
+        "url": "https://open.spotify.com/album/4jsWeqoxStBEjucGK7Quuv"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Su Tipica",
+          "url": "https://open.spotify.com/artist/5qBFpNp9zx5aihCltUNxAJ"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173490,
+      "name": "Carola",
+      "url": "https://open.spotify.com/track/5ruhUADQWwKmsaFBZH4yFO"
     },
     {
       "album": {
@@ -1233,7 +1251,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 192386,
       "name": "El Santo Del Amor",
       "url": "https://open.spotify.com/track/1ypgaZINEPR74L2c5W3h0A"

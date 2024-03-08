@@ -1,12 +1,12 @@
 {
   "description": "Boss music for boss people. Cover: The Snuts",
-  "num_followers": 118871,
+  "num_followers": 118890,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDlkMzI3YTMzZmI5NzY3NGFiMGY0YzZhZjk2ZjMzMjkxZDgwOTcy",
+  "snapshot_id": "MCxkYmZmMmM5ZGEyYWU2ODhmZjhhZWI4NTE0OGFmYTkwMTQ2YThmYmU0",
   "tracks": [
     {
       "added_at": "2024-02-23 12:55:54",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-02-02 14:53:05",
       "album": {
-        "name": "Never Going Under",
-        "url": "https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj"
-      },
-      "artists": [
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
-        }
-      ],
-      "duration_ms": 146392,
-      "name": "Do You Wanna Talk",
-      "url": "https://open.spotify.com/track/0fjEEHg3EVDBBbL7Vqy2O6"
-    },
-    {
-      "added_at": "2024-02-02 14:53:05",
-      "album": {
         "name": "Pick-Up Full Of Pink Carnations",
         "url": "https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 127474,
       "name": "Love To Walk Away",
       "url": "https://open.spotify.com/track/1GKsOmCVxqmNavF3nAIrwE"
+    },
+    {
+      "added_at": "2024-02-02 14:53:05",
+      "album": {
+        "name": "Never Going Under",
+        "url": "https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "duration_ms": 146392,
+      "name": "Do You Wanna Talk",
+      "url": "https://open.spotify.com/track/0fjEEHg3EVDBBbL7Vqy2O6"
     },
     {
       "added_at": "2024-02-02 14:53:05",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-02-02 14:53:05",
       "album": {
-        "name": "Pick-Up Full Of Pink Carnations",
-        "url": "https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4"
-      },
-      "artists": [
-        {
-          "name": "The Vaccines",
-          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
-        }
-      ],
-      "duration_ms": 229165,
-      "name": "Discount De Kooning (Last One Standing)",
-      "url": "https://open.spotify.com/track/7oGpYDcFyHQSQS0CvEejVB"
-    },
-    {
-      "added_at": "2024-02-02 14:53:05",
-      "album": {
         "name": "C\u2019MON YOU KNOW (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7IpAa9HvutfL3LsDsgluqY"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 204543,
       "name": "Diamond In The Dark",
       "url": "https://open.spotify.com/track/6cWSuPDQT56oPVqWSsNSee"
+    },
+    {
+      "added_at": "2024-02-02 14:53:05",
+      "album": {
+        "name": "Chancer",
+        "url": "https://open.spotify.com/album/0FscsScxqerBl7PldWu0dv"
+      },
+      "artists": [
+        {
+          "name": "The K's",
+          "url": "https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH"
+        }
+      ],
+      "duration_ms": 195152,
+      "name": "Chancer",
+      "url": "https://open.spotify.com/track/52dwlwO6RJoCv60NgCcjai"
     },
     {
       "added_at": "2024-02-02 14:53:05",
@@ -415,18 +415,18 @@
     {
       "added_at": "2024-02-02 14:53:05",
       "album": {
-        "name": "Chancer",
-        "url": "https://open.spotify.com/album/0FscsScxqerBl7PldWu0dv"
+        "name": "Pick-Up Full Of Pink Carnations",
+        "url": "https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4"
       },
       "artists": [
         {
-          "name": "The K's",
-          "url": "https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH"
+          "name": "The Vaccines",
+          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
         }
       ],
-      "duration_ms": 195152,
-      "name": "Chancer",
-      "url": "https://open.spotify.com/track/52dwlwO6RJoCv60NgCcjai"
+      "duration_ms": 229165,
+      "name": "Discount De Kooning (Last One Standing)",
+      "url": "https://open.spotify.com/track/7oGpYDcFyHQSQS0CvEejVB"
     },
     {
       "added_at": "2024-02-02 14:53:05",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-02-02 14:53:05",
       "album": {
+        "name": "Hometown",
+        "url": "https://open.spotify.com/album/6dV3WNRJOzU583dR5795pR"
+      },
+      "artists": [
+        {
+          "name": "The K's",
+          "url": "https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH"
+        }
+      ],
+      "duration_ms": 293461,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/4i72Dwm23Pn1u1waLYMnBm"
+    },
+    {
+      "added_at": "2024-02-02 14:53:05",
+      "album": {
         "name": "Ballad Of A Bystander",
         "url": "https://open.spotify.com/album/3tbVVoG2U5m4IAnJTF3YyZ"
       },
@@ -543,26 +559,6 @@
     {
       "added_at": "2024-02-02 14:53:05",
       "album": {
-        "name": "10 For The People",
-        "url": "https://open.spotify.com/album/79ARqZZ3ciUJVsJaIqh4N2"
-      },
-      "artists": [
-        {
-          "name": "JAMIE WEBSTER",
-          "url": "https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS"
-        },
-        {
-          "name": "Brooke Combe",
-          "url": "https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO"
-        }
-      ],
-      "duration_ms": 252787,
-      "name": "Better Day",
-      "url": "https://open.spotify.com/track/0UG7NIRTR70z5rd7Nii1tl"
-    },
-    {
-      "added_at": "2024-02-02 14:53:05",
-      "album": {
         "name": "Get Away from the Feeling",
         "url": "https://open.spotify.com/album/1k5fYWqCnKmTd8KQlez9TC"
       },
@@ -579,18 +575,22 @@
     {
       "added_at": "2024-02-02 14:53:05",
       "album": {
-        "name": "Hometown",
-        "url": "https://open.spotify.com/album/6dV3WNRJOzU583dR5795pR"
+        "name": "10 For The People",
+        "url": "https://open.spotify.com/album/79ARqZZ3ciUJVsJaIqh4N2"
       },
       "artists": [
         {
-          "name": "The K's",
-          "url": "https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH"
+          "name": "JAMIE WEBSTER",
+          "url": "https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS"
+        },
+        {
+          "name": "Brooke Combe",
+          "url": "https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO"
         }
       ],
-      "duration_ms": 293461,
-      "name": "Hometown",
-      "url": "https://open.spotify.com/track/4i72Dwm23Pn1u1waLYMnBm"
+      "duration_ms": 252787,
+      "name": "Better Day",
+      "url": "https://open.spotify.com/track/0UG7NIRTR70z5rd7Nii1tl"
     },
     {
       "added_at": "2024-02-02 14:53:05",
@@ -787,18 +787,18 @@
     {
       "added_at": "2024-02-02 14:53:05",
       "album": {
-        "name": "What's Rock And Roll?",
-        "url": "https://open.spotify.com/album/3ypJeqXuihGdO05YJ6PLeD"
+        "name": "If You Wanna",
+        "url": "https://open.spotify.com/album/3qq71MqRsuDFptNY9VeEAB"
       },
       "artists": [
         {
-          "name": "The Reytons",
-          "url": "https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ"
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
         }
       ],
-      "duration_ms": 193813,
-      "name": "15 Minutes In The Algorithm",
-      "url": "https://open.spotify.com/track/2FyRW5FCNTKZNoFGHOwHPs"
+      "duration_ms": 168994,
+      "name": "If You Wanna",
+      "url": "https://open.spotify.com/track/600a14WIlxMRKPn5DlSC6m"
     },
     {
       "added_at": "2024-02-02 14:53:05",
@@ -819,34 +819,18 @@
     {
       "added_at": "2024-02-02 14:53:05",
       "album": {
-        "name": "If You Wanna",
-        "url": "https://open.spotify.com/album/3qq71MqRsuDFptNY9VeEAB"
+        "name": "What's Rock And Roll?",
+        "url": "https://open.spotify.com/album/3ypJeqXuihGdO05YJ6PLeD"
       },
       "artists": [
         {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+          "name": "The Reytons",
+          "url": "https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ"
         }
       ],
-      "duration_ms": 168994,
-      "name": "If You Wanna",
-      "url": "https://open.spotify.com/track/600a14WIlxMRKPn5DlSC6m"
-    },
-    {
-      "added_at": "2024-02-02 14:53:05",
-      "album": {
-        "name": "Judgement Day",
-        "url": "https://open.spotify.com/album/1owOZN7l607ySn2o9zJ1Jb"
-      },
-      "artists": [
-        {
-          "name": "Picture Parlour",
-          "url": "https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV"
-        }
-      ],
-      "duration_ms": 209441,
-      "name": "Judgement Day",
-      "url": "https://open.spotify.com/track/1A1QyDeRD4APE5Dzkp6CBr"
+      "duration_ms": 193813,
+      "name": "15 Minutes In The Algorithm",
+      "url": "https://open.spotify.com/track/2FyRW5FCNTKZNoFGHOwHPs"
     },
     {
       "added_at": "2024-02-02 14:53:05",
@@ -863,6 +847,22 @@
       "duration_ms": 196670,
       "name": "Don't Stop Me",
       "url": "https://open.spotify.com/track/0f4yOCLh56jPY5sRUYRgTZ"
+    },
+    {
+      "added_at": "2024-02-02 14:53:05",
+      "album": {
+        "name": "Judgement Day",
+        "url": "https://open.spotify.com/album/1owOZN7l607ySn2o9zJ1Jb"
+      },
+      "artists": [
+        {
+          "name": "Picture Parlour",
+          "url": "https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV"
+        }
+      ],
+      "duration_ms": 209441,
+      "name": "Judgement Day",
+      "url": "https://open.spotify.com/track/1A1QyDeRD4APE5Dzkp6CBr"
     },
     {
       "added_at": "2024-02-02 14:53:05",
@@ -931,6 +931,22 @@
     {
       "added_at": "2024-02-02 14:53:05",
       "album": {
+        "name": "punkadonk2",
+        "url": "https://open.spotify.com/album/28f5ioD8CPtdT2WIMvrs72"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "duration_ms": 193607,
+      "name": "Am I Even A Man",
+      "url": "https://open.spotify.com/track/203aZkz0i3swvunzfGlUbe"
+    },
+    {
+      "added_at": "2024-02-02 14:53:05",
+      "album": {
         "name": "Fickle Fran (feat. Billy Bragg)",
         "url": "https://open.spotify.com/album/5AO5eNGtaNBXnN0gwnrkJP"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 225087,
       "name": "Fickle Fran (feat. Billy Bragg)",
       "url": "https://open.spotify.com/track/0mX9xhRMwmx6qvqRzHLXlj"
-    },
-    {
-      "added_at": "2024-02-02 14:53:05",
-      "album": {
-        "name": "punkadonk2",
-        "url": "https://open.spotify.com/album/28f5ioD8CPtdT2WIMvrs72"
-      },
-      "artists": [
-        {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
-        }
-      ],
-      "duration_ms": 193607,
-      "name": "Am I Even A Man",
-      "url": "https://open.spotify.com/track/203aZkz0i3swvunzfGlUbe"
     },
     {
       "added_at": "2024-02-02 14:53:05",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-02-02 14:53:05",
       "album": {
+        "name": "How Do You Sleep At Night?",
+        "url": "https://open.spotify.com/album/49TAgh1ogazJrsGUvgp5tu"
+      },
+      "artists": [
+        {
+          "name": "JAMIE WEBSTER",
+          "url": "https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS"
+        }
+      ],
+      "duration_ms": 208385,
+      "name": "How Do You Sleep At Night?",
+      "url": "https://open.spotify.com/track/2K37XDEcpev2hUDbb14XGd"
+    },
+    {
+      "added_at": "2024-02-02 14:53:05",
+      "album": {
         "name": "Find My Way Around",
         "url": "https://open.spotify.com/album/6sE8AmGoJcgIHTTKtKC40n"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 206557,
       "name": "City Streets",
       "url": "https://open.spotify.com/track/6zcW5iHtkhBEuzpTLEit16"
-    },
-    {
-      "added_at": "2024-02-02 14:53:05",
-      "album": {
-        "name": "How Do You Sleep At Night?",
-        "url": "https://open.spotify.com/album/49TAgh1ogazJrsGUvgp5tu"
-      },
-      "artists": [
-        {
-          "name": "JAMIE WEBSTER",
-          "url": "https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS"
-        }
-      ],
-      "duration_ms": 208385,
-      "name": "How Do You Sleep At Night?",
-      "url": "https://open.spotify.com/track/2K37XDEcpev2hUDbb14XGd"
     },
     {
       "added_at": "2024-02-02 14:53:05",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-02-02 14:53:05",
       "album": {
-        "name": "Black Cat",
-        "url": "https://open.spotify.com/album/4nbnUaUzLFai1ZW3SP8vOb"
-      },
-      "artists": [
-        {
-          "name": "Red Rum Club",
-          "url": "https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb"
-        }
-      ],
-      "duration_ms": 140613,
-      "name": "Black Cat",
-      "url": "https://open.spotify.com/track/3dw3CbKSsae5LFuP5uRIeV"
-    },
-    {
-      "added_at": "2024-02-02 14:53:05",
-      "album": {
         "name": "Happy Cars",
         "url": "https://open.spotify.com/album/0GMlRNkhMhknJZ8oVLpEXw"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 197485,
       "name": "Happy Cars",
       "url": "https://open.spotify.com/track/00yseVGAUk5VMh9OD4BSRv"
+    },
+    {
+      "added_at": "2024-02-02 14:53:05",
+      "album": {
+        "name": "Waste",
+        "url": "https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "duration_ms": 186996,
+      "name": "Waste",
+      "url": "https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV"
     },
     {
       "added_at": "2024-02-02 14:53:05",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2024-02-02 14:53:05",
       "album": {
-        "name": "Waste",
-        "url": "https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj"
+        "name": "Black Cat",
+        "url": "https://open.spotify.com/album/4nbnUaUzLFai1ZW3SP8vOb"
       },
       "artists": [
         {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+          "name": "Red Rum Club",
+          "url": "https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb"
         }
       ],
-      "duration_ms": 186996,
-      "name": "Waste",
-      "url": "https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV"
+      "duration_ms": 140613,
+      "name": "Black Cat",
+      "url": "https://open.spotify.com/track/3dw3CbKSsae5LFuP5uRIeV"
     },
     {
       "added_at": "2024-02-02 14:53:05",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2024-02-02 14:53:05",
       "album": {
-        "name": "Hard To Love",
-        "url": "https://open.spotify.com/album/0js8jOahyQcDzhAV1xpdnd"
+        "name": "Cherish",
+        "url": "https://open.spotify.com/album/3qOfKTVNQD2C5sYqpTQsMo"
       },
       "artists": [
         {
-          "name": "Better Joy",
-          "url": "https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL"
+          "name": "She's In Parties",
+          "url": "https://open.spotify.com/artist/3A9BLI8S2rNSxXS3QsMkOY"
         }
       ],
-      "duration_ms": 168095,
-      "name": "Hard To Love",
-      "url": "https://open.spotify.com/track/5ZydsKomR0uijruih5pVZ0"
+      "duration_ms": 160250,
+      "name": "Cherish",
+      "url": "https://open.spotify.com/track/2TfDppfA0KZ3rTQT0dgrTo"
     },
     {
       "added_at": "2024-02-02 14:53:05",
@@ -1383,18 +1383,34 @@
     {
       "added_at": "2024-02-02 14:53:05",
       "album": {
-        "name": "Cherish",
-        "url": "https://open.spotify.com/album/3qOfKTVNQD2C5sYqpTQsMo"
+        "name": "Hard To Love",
+        "url": "https://open.spotify.com/album/0js8jOahyQcDzhAV1xpdnd"
       },
       "artists": [
         {
-          "name": "She's In Parties",
-          "url": "https://open.spotify.com/artist/3A9BLI8S2rNSxXS3QsMkOY"
+          "name": "Better Joy",
+          "url": "https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL"
         }
       ],
-      "duration_ms": 160250,
-      "name": "Cherish",
-      "url": "https://open.spotify.com/track/2TfDppfA0KZ3rTQT0dgrTo"
+      "duration_ms": 168095,
+      "name": "Hard To Love",
+      "url": "https://open.spotify.com/track/5ZydsKomR0uijruih5pVZ0"
+    },
+    {
+      "added_at": "2024-02-02 14:53:05",
+      "album": {
+        "name": "Exposed to Some Light",
+        "url": "https://open.spotify.com/album/4A5Yee0Ah4mNsML5rHhZbH"
+      },
+      "artists": [
+        {
+          "name": "Nightbus",
+          "url": "https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x"
+        }
+      ],
+      "duration_ms": 239250,
+      "name": "Exposed to Some Light",
+      "url": "https://open.spotify.com/track/6nduEbD1djbA05rXx36hPX"
     },
     {
       "added_at": "2024-02-02 14:53:05",
@@ -1415,18 +1431,18 @@
     {
       "added_at": "2024-02-02 14:53:05",
       "album": {
-        "name": "Exposed to Some Light",
-        "url": "https://open.spotify.com/album/4A5Yee0Ah4mNsML5rHhZbH"
+        "name": "I Let Go",
+        "url": "https://open.spotify.com/album/4Ms87tkNkj8S76XBmabn5N"
       },
       "artists": [
         {
-          "name": "Nightbus",
-          "url": "https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x"
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
         }
       ],
-      "duration_ms": 239250,
-      "name": "Exposed to Some Light",
-      "url": "https://open.spotify.com/track/6nduEbD1djbA05rXx36hPX"
+      "duration_ms": 141265,
+      "name": "I Let Go",
+      "url": "https://open.spotify.com/track/6gJkGHGvqikDZbsQXUo2Id"
     },
     {
       "added_at": "2024-02-02 14:53:05",
@@ -1459,22 +1475,6 @@
       "duration_ms": 233666,
       "name": "Better Luck Next Time",
       "url": "https://open.spotify.com/track/7emXHhr2yFGO7mSVZnNHjB"
-    },
-    {
-      "added_at": "2024-02-02 14:53:05",
-      "album": {
-        "name": "I Let Go",
-        "url": "https://open.spotify.com/album/4Ms87tkNkj8S76XBmabn5N"
-      },
-      "artists": [
-        {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
-        }
-      ],
-      "duration_ms": 141265,
-      "name": "I Let Go",
-      "url": "https://open.spotify.com/track/6gJkGHGvqikDZbsQXUo2Id"
     },
     {
       "added_at": "2024-02-02 14:53:05",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2024-02-02 14:53:05",
       "album": {
-        "name": "Just Move",
-        "url": "https://open.spotify.com/album/1g5uEvVcsGl0nMRjGRcGy6"
+        "name": "HEY WHAT'S HAPPENIN?",
+        "url": "https://open.spotify.com/album/4kyZfTFL1yQG8A4BiOSuHL"
       },
       "artists": [
         {
-          "name": "Pixey",
-          "url": "https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI"
+          "name": "Thom Southern",
+          "url": "https://open.spotify.com/artist/3YGkI2PubCC6INbbtcpglJ"
         }
       ],
-      "duration_ms": 186562,
-      "name": "Just Move",
-      "url": "https://open.spotify.com/track/64fVObugIv5tiWtN6LhCRf"
+      "duration_ms": 108283,
+      "name": "HEY WHAT'S HAPPENIN?",
+      "url": "https://open.spotify.com/track/1JoGT0DC76LoABejDyTpz2"
     }
   ],
   "unique_name": "Proper Belters",

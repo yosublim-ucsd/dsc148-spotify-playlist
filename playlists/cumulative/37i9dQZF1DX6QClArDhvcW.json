@@ -96,7 +96,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 126000,
       "name": "A glimpse of sun",
       "url": "https://open.spotify.com/track/0sX2fGouDSZn0BT16zkUZ7"
@@ -1870,7 +1870,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 147200,
       "name": "dusty dusk",
       "url": "https://open.spotify.com/track/6ds12VXR1FTsDQHgikkdio"
@@ -2986,6 +2986,24 @@
       "duration_ms": 157070,
       "name": "Hazin",
       "url": "https://open.spotify.com/track/7e1vZBExSQLBcuJdlTbQIR"
+    },
+    {
+      "album": {
+        "name": "head in the clouds",
+        "url": "https://open.spotify.com/album/341MeGEteHymZVwmd0xspK"
+      },
+      "artists": [
+        {
+          "name": "drewbee",
+          "url": "https://open.spotify.com/artist/0bRyibPzrRlfTwKe7oUXzR"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134825,
+      "name": "head in the clouds",
+      "url": "https://open.spotify.com/track/0GdZ6vlb3nC8t5B5MP6TqP"
     },
     {
       "album": {
@@ -4323,6 +4341,24 @@
     },
     {
       "album": {
+        "name": "Lisabon",
+        "url": "https://open.spotify.com/album/7mMzc1YjMfdgLJ2wzckN86"
+      },
+      "artists": [
+        {
+          "name": "cmd f",
+          "url": "https://open.spotify.com/artist/6Ykg4VJZl1anZljuqAJU25"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149647,
+      "name": "Lisabon",
+      "url": "https://open.spotify.com/track/08PythMQ97nIacc0AdIdnF"
+    },
+    {
+      "album": {
         "name": "lite",
         "url": "https://open.spotify.com/album/3pd6RWbrq8w1QzkrIPHXxJ"
       },
@@ -4374,6 +4410,42 @@
       "duration_ms": 155624,
       "name": "Lonesome",
       "url": "https://open.spotify.com/track/4lV7chcdj3OH3Hg97L7Rli"
+    },
+    {
+      "album": {
+        "name": "looking back",
+        "url": "https://open.spotify.com/album/1MgY24AwMIAt8E6w89K9Rq"
+      },
+      "artists": [
+        {
+          "name": "nearly monday",
+          "url": "https://open.spotify.com/artist/77lm1CStze3sAtsBUvW2Rm"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130145,
+      "name": "looking back",
+      "url": "https://open.spotify.com/track/0dxMj3mOuLH0igqGZQYEPe"
+    },
+    {
+      "album": {
+        "name": "Lost in the Mail",
+        "url": "https://open.spotify.com/album/4hhkf43EaxjUsYO9pF9OgV"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sitts",
+          "url": "https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142105,
+      "name": "Lost in the Mail",
+      "url": "https://open.spotify.com/track/0AcP7ZjBbHvZoIrk9SJPvP"
     },
     {
       "album": {
@@ -5097,6 +5169,24 @@
     },
     {
       "album": {
+        "name": "morning coffee",
+        "url": "https://open.spotify.com/album/77rJWwqP3W0MxO8Nb8fxsl"
+      },
+      "artists": [
+        {
+          "name": "bear\u00e9",
+          "url": "https://open.spotify.com/artist/0y2pOX94bmFYgbD8pFWqfK"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148600,
+      "name": "morning coffee",
+      "url": "https://open.spotify.com/track/22YaZEoX2OiG5yA2O3cHDv"
+    },
+    {
+      "album": {
         "name": "Morning Coffee",
         "url": "https://open.spotify.com/album/5lOaxgs7ewldAkepMk1kdT"
       },
@@ -5376,7 +5466,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 129882,
       "name": "Night Light",
       "url": "https://open.spotify.com/track/2U6vFampiXQZtmOhNXz7dp"
@@ -6596,7 +6686,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 169411,
       "name": "Rowing to work",
       "url": "https://open.spotify.com/track/02cIPMgCKln5BK2xq4yuDw"
@@ -7040,7 +7130,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 134911,
       "name": "Snowy Park",
       "url": "https://open.spotify.com/track/76GMfML1v13Sg4shz4giDM"
@@ -7408,7 +7498,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 162263,
       "name": "Street Lights",
       "url": "https://open.spotify.com/track/7xvsGtzRkHdmzNHv752hYj"

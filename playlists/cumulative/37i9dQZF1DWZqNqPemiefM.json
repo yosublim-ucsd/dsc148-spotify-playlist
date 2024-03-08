@@ -3335,6 +3335,28 @@
     },
     {
       "album": {
+        "name": "Open Me, A Higher Consciousness of Sound and Spirit",
+        "url": "https://open.spotify.com/album/79yO2lHbzL3moNvKykxm5p"
+      },
+      "artists": [
+        {
+          "name": "Ethnic Heritage Ensemble",
+          "url": "https://open.spotify.com/artist/6ow3P6IkcDfaSGpPVYjzmj"
+        },
+        {
+          "name": "Kahil El'Zabar",
+          "url": "https://open.spotify.com/artist/2DObXDWCKLRvSisbmYjeyV"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429523,
+      "name": "Great Black Music",
+      "url": "https://open.spotify.com/track/3HNhpdb8fEnLaa4nSamLos"
+    },
+    {
+      "album": {
         "name": "Green",
         "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
       },
@@ -3514,6 +3536,24 @@
       "duration_ms": 279560,
       "name": "Haru",
       "url": "https://open.spotify.com/track/1UYQz9iqSCdLNc9UVkJo0o"
+    },
+    {
+      "album": {
+        "name": "harukanade / \u6625\u594f",
+        "url": "https://open.spotify.com/album/2T4FB4EAIxoDyAw8IVfxAj"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235271,
+      "name": "harukanade / \u6625\u594f",
+      "url": "https://open.spotify.com/track/4l4IkWuvZfqH9kxgzo1xSj"
     },
     {
       "album": {
@@ -5228,7 +5268,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 238789,
       "name": "Memory Sketches",
       "url": "https://open.spotify.com/track/5JQMan7GM7qVZDlIqsVcgc"
@@ -7836,7 +7876,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 232073,
       "name": "solari",
       "url": "https://open.spotify.com/track/2ZYyuqKe7T64UqWVuW7CkS"

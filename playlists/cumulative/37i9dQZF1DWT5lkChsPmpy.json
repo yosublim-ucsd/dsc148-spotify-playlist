@@ -7440,6 +7440,24 @@
     {
       "album": {
         "name": "The Root",
+        "url": "https://open.spotify.com/album/1xjYGSVeaviVdvexe74eww"
+      },
+      "artists": [
+        {
+          "name": "Analog Traveler",
+          "url": "https://open.spotify.com/artist/3AGRClAwZvywt0uJhCRndG"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208648,
+      "name": "The Root",
+      "url": "https://open.spotify.com/track/1xc98BOXjA79dOsq66RXKf"
+    },
+    {
+      "album": {
+        "name": "The Root",
         "url": "https://open.spotify.com/album/6q6llTQtc44REoCEtpuOQG"
       },
       "artists": [
@@ -7450,7 +7468,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 208648,
       "name": "The Root",
       "url": "https://open.spotify.com/track/3E2orGjD3CryCi8YJKBISZ"

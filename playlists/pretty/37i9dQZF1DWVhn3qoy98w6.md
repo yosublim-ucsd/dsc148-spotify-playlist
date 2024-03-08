@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: Agnes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,914 likes - 74 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,932 likes - 74 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 37 | [Mami](https://open.spotify.com/track/29u0uCvnstW038tk3KQlqO) | [Rizos 1000](https://open.spotify.com/artist/7N3kXjAuHBlENpUnzfvw9u) | [Mami](https://open.spotify.com/album/64z49ekjYdFMIVvj0A2BSI) | 2:55 |
 | 38 | [A un solo intento](https://open.spotify.com/track/730x5Y0QhNkkR89CIPNpVi) | [Bolsa De Moscas](https://open.spotify.com/artist/4WLod9DCaa4XXICphv0C2E) | [A un solo intento](https://open.spotify.com/album/4RCIz8mrtGj9BJSaKsvcVi) | 3:06 |
 | 39 | [Motorizados](https://open.spotify.com/track/0lo6NCs5ncQaWZhARAEFQ6) | [Pablo Senator](https://open.spotify.com/artist/4JsKSQfvfwor3kiOV7RCHG) | [Motorizados](https://open.spotify.com/album/535eaupc1JTraAOQkmzCvo) | 4:22 |
-| 40 | [Asustado](https://open.spotify.com/track/47Tx6IRVpxldHZ72QfC01F) | [Jugando con Kurt](https://open.spotify.com/artist/4nXKpt5WHw61jvDifT76zk) | [ASUSTADO](https://open.spotify.com/album/79puckcsruj6LzPae5VLA8) | 4:06 |
+| 40 | [Asustado](https://open.spotify.com/track/47Tx6IRVpxldHZ72QfC01F) | [Jugando con Kurt](https://open.spotify.com/artist/4nXKpt5WHw61jvDifT76zk) | [Asustado](https://open.spotify.com/album/79puckcsruj6LzPae5VLA8) | 4:06 |
 | 41 | [Un día especial](https://open.spotify.com/track/4yDpC6a2N0aeFXWQdn1tse) | [BALONCESTO](https://open.spotify.com/artist/37KpgwJAlQfKRRwdEkv1CO) | [Un día especial](https://open.spotify.com/album/10MOHJbxRAGpMZVYBeaz4v) | 2:46 |
 | 42 | [Els altres](https://open.spotify.com/track/4TRyXEBl4yauz3uMauGbJ4) | [Els llums de colors](https://open.spotify.com/artist/5FxV2nfnuda8z6QjSwr3v2) | [Els altres](https://open.spotify.com/album/2lOlJTX56Re4VDMKlsksJ5) | 2:50 |
 | 43 | [Fantasma](https://open.spotify.com/track/1pbKysCoMravxtE8eVbv79) | [Boria](https://open.spotify.com/artist/0VpQzKw8hGkaogdUojO9j7) | [La Cueva](https://open.spotify.com/album/7ySVyfqeDsg5B9zKNTgIbA) | 2:58 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 73 | [Todo Va Deprisa](https://open.spotify.com/track/54hCMdN9JPBtuzRRO8hpTR) | [Alison Darwin](https://open.spotify.com/artist/6Yj1pX8slOOGUwzDNwMdXz) | [Todo Va Deprisa](https://open.spotify.com/album/5bl8eEpY5kDf3szhgp4u1q) | 2:17 |
 | 74 | [Duele el Duelo](https://open.spotify.com/track/1sDuYW1E1DEEmtW8yJEqXp) | [Lil Trona](https://open.spotify.com/artist/1hqYZWJSUCv0vzgWyZJVUm) | [Duele el Duelo](https://open.spotify.com/album/7nzwZPaCHreiZEyjSBUbXu) | 3:17 |
 
-Snapshot ID: `MCxlZDhiNGU2NWJkNmFkZTljMjg1MjExZTFjYjFmZDgzODZmMGFiMTM4`
+Snapshot ID: `MCxmZDE2ZjcxNWJlZWRkYjVhYjRmODRhZjMyNDM0ZmIxOGQzNzk3YmU5`

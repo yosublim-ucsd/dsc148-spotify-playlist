@@ -847,6 +847,24 @@
     },
     {
       "album": {
+        "name": "Debout couler",
+        "url": "https://open.spotify.com/album/5Kd15ctpwOulgkxzNZTUtl"
+      },
+      "artists": [
+        {
+          "name": "Chouchou Salvador",
+          "url": "https://open.spotify.com/artist/44kNwZgajzrqZ2x1qKYohI"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220133,
+      "name": "Debout couler",
+      "url": "https://open.spotify.com/track/0mGXMd7mni2MQeygIXa5OJ"
+    },
+    {
+      "album": {
         "name": "Chambre Noire",
         "url": "https://open.spotify.com/album/3IATloMilRD68c5FtSfPGv"
       },
@@ -2678,7 +2696,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-08",
       "duration_ms": 207260,
       "name": "petite position",
       "url": "https://open.spotify.com/track/1QbjKkAwxDQ49KtplR54Gz"

@@ -4,7 +4,7 @@
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-390 songs - 1 day 5 hr 51 min
+391 songs - 1 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [A Walk Down 7th st.](https://open.spotify.com/track/5vlBePKYHkVWzZoYUBIG0O) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [A Walk Down 7th st.](https://open.spotify.com/album/3jktLVoCxm8FimmfApOJ6Y) | 3:05 | 2021-09-03 | 2022-07-28 |
 | [Afrodesia](https://open.spotify.com/track/2h10K0zxg9tgIoSWbPNRUS) | [Dr\. Lonnie Smith](https://open.spotify.com/artist/1ZpPJRe9erwiWi548SKVyn), [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [Afrodesia](https://open.spotify.com/album/3vcrRL21IUz8T6ftBQwIN9) | 9:23 | 2020-10-09 | 2023-09-30 |
 | [Alchemy](https://open.spotify.com/track/3wVUiPGvtz01ThUNS97wMj) | [Lincoln Adler](https://open.spotify.com/artist/6QLoQBVmeZqyQKZthtH7Bp), [Erik Jekabson](https://open.spotify.com/artist/0ExhNDqQ9umcnyqNrVrVuU), [Mike Blankenship](https://open.spotify.com/artist/1vlnaSOePqL3jZ6EwPx1ea), [Scott Thompson](https://open.spotify.com/artist/0ixKryxEKyAEnJn2BMb2BF), [Aaron Green](https://open.spotify.com/artist/2WfH7tTvXBGotkGBBoW1Fm) | [Tabula Rasa](https://open.spotify.com/album/7nQdFhv9nB5zZX33K8Xz9R) | 4:04 | 2021-01-29 |  |
-| [Always Let Me Go](https://open.spotify.com/track/3vxNtjIlwUB5A525DGfs2Q) | [Nine Sparks Riots](https://open.spotify.com/artist/4y6ORtg4fPmsXNftMLw12X), [Noé Berne](https://open.spotify.com/artist/3szeS1OVdR464BUVlIH3L0) | [Always Let Me Go](https://open.spotify.com/album/5QupIxujGaN9YMmH7pD8xb) | 4:40 | 2021-02-13 |  |
+| [Always Let Me Go](https://open.spotify.com/track/3vxNtjIlwUB5A525DGfs2Q) | [Nine Sparks Riots](https://open.spotify.com/artist/4y6ORtg4fPmsXNftMLw12X), [Noé Berne](https://open.spotify.com/artist/3szeS1OVdR464BUVlIH3L0) | [Always Let Me Go](https://open.spotify.com/album/5QupIxujGaN9YMmH7pD8xb) | 4:40 | 2021-02-13 | 2024-03-08 |
+| [Always Let Me Go](https://open.spotify.com/track/4NhwR1bqHnxSrpAj86NwQ8) | [Nine Sparks Riots](https://open.spotify.com/artist/4y6ORtg4fPmsXNftMLw12X), [Noé Berne](https://open.spotify.com/artist/3szeS1OVdR464BUVlIH3L0) | [Always Let Me Go](https://open.spotify.com/album/1wYtTXRTB7XElmddwI2nqo) | 4:40 | 2021-04-09 |  |
 | [Andromeda Style Fuunk](https://open.spotify.com/track/2R0Tw7ZOCKUrTwGb9LEEVT) | [Wonky Logic](https://open.spotify.com/artist/34vOyXYbdhtzvcIWTBQkEl) | [Andromeda Style Fuunk](https://open.spotify.com/album/4n7ry0Hyh4HxNqpn5k08cY) | 3:50 | 2021-05-21 |  |
 | [Anomynous \(Bonus Track\) \- 2020 Remaster](https://open.spotify.com/track/1r7si2LuTgMM5vmKePACHK) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Anomynous \(Bonus Track\) \(2020 Remaster\)](https://open.spotify.com/album/5g2HKNHRh10nEVCKT41b9I) | 6:26 | 2020-10-09 | 2022-07-24 |
 | [Anomynous \(Bonus Track\) \- 2020 Remaster](https://open.spotify.com/track/7CrWyrb9ueT6koXfBABJJJ) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Tell Your Friends \(Remixed & Remastered\)](https://open.spotify.com/album/7nyOdcTNJfbRJsDSKcJfDe) | 6:26 | 2020-10-09 | 2023-03-25 |

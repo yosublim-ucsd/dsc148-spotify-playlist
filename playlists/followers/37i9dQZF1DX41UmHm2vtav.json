@@ -1,5 +1,5 @@
 {
-  "2024-03-07": 464876,
+  "2024-03-08": 464936,
   "date_first_scraped": "2022-07-17",
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
   "name": "Festa na Praia",
@@ -1318,6 +1318,36 @@
     },
     {
       "album": {
+        "name": "D\u00c1KITI",
+        "url": "https://open.spotify.com/album/5RE3u3esh5NWmKGP1sKKwf"
+      },
+      "artists": [
+        {
+          "name": "BOOTY LEAK",
+          "url": "https://open.spotify.com/artist/6C8sBC5U3LyUE4GoleJWvx"
+        },
+        {
+          "name": "TARS.",
+          "url": "https://open.spotify.com/artist/0Dp54NlNysfSJ0FO2nlTGo"
+        },
+        {
+          "name": "PHURS",
+          "url": "https://open.spotify.com/artist/2UXdzClMex3N47C9m1fkeX"
+        },
+        {
+          "name": "LO RA",
+          "url": "https://open.spotify.com/artist/4UIKw5nTfBSfJz1Qtts8oC"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187428,
+      "name": "D\u00c1KITI",
+      "url": "https://open.spotify.com/track/12UKG8o3WWlSdvK7zInWh8"
+    },
+    {
+      "album": {
         "name": "E Depois (Que Sorte A Minha)",
         "url": "https://open.spotify.com/album/0ICc6IqSIkLkS2idTkFXu0"
       },
@@ -2169,7 +2199,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-07",
       "duration_ms": 187741,
       "name": "Lil\u00e1s",
       "url": "https://open.spotify.com/track/3MCmAAKZRaIFRhpfSYo6OP"

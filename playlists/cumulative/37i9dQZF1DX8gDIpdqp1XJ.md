@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-947 songs - 2 day 13 hr 54 min
+948 songs - 2 day 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,8 +53,9 @@
 | [Amoeba](https://open.spotify.com/track/5O4dlgfCLqkyrHWghRfIrT) | [Do Nothing](https://open.spotify.com/artist/73N7cGNNww6Uod1d3IiBKP) | [Amoeba](https://open.spotify.com/album/52FqqjTl9kg5St3EAJMqBz) | 3:52 | 2023-04-28 | 2023-06-17 |
 | [Ancient Chain](https://open.spotify.com/track/4QTWUydBn9Z5C8Zc0kz3xQ) | [Lightman Jarvis Ecstatic Band](https://open.spotify.com/artist/2vAyB8ZkJe6do0JsLIwN1x), [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt), [Romy Lightman](https://open.spotify.com/artist/5Sp1FBaAQ0NDun0wEzzvuG) | [Banned](https://open.spotify.com/album/2uxqYOWnMBsD7FKVnDkF42) | 3:37 | 2021-06-25 | 2022-04-15 |
 | [Another One](https://open.spotify.com/track/63q9LqTK5iiZLy3cTvLMUf) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Another One](https://open.spotify.com/album/5FiDVzxLqGtYjF5yzmMoj4) | 2:40 | 2023-03-06 | 2023-04-29 |
-| [Another Year Gone](https://open.spotify.com/track/18IHR1UaWnHMRQAqy2clHG) | [Elephant Stone](https://open.spotify.com/artist/47bokO26f4LIt4zaAlCQwo) | [Pilgrimage](https://open.spotify.com/album/4eIw6qAS8xcAdBPvxjwOwJ) | 1:44 | 2023-12-15 |  |
+| [Another Year Gone](https://open.spotify.com/track/18IHR1UaWnHMRQAqy2clHG) | [Elephant Stone](https://open.spotify.com/artist/47bokO26f4LIt4zaAlCQwo) | [Pilgrimage](https://open.spotify.com/album/4eIw6qAS8xcAdBPvxjwOwJ) | 1:44 | 2023-12-15 | 2024-03-08 |
 | [Another Year Gone](https://open.spotify.com/track/3DPcH2cjFG7QvBh2DI1ajr) | [Elephant Stone](https://open.spotify.com/artist/47bokO26f4LIt4zaAlCQwo) | [Another Year Gone](https://open.spotify.com/album/5Ue9eH8utP2C5koj3Efp6q) | 1:44 | 2023-12-15 | 2024-01-20 |
+| [Another Year Gone](https://open.spotify.com/track/5rYhRfcdleiDw2df0Ogzuw) | [Elephant Stone](https://open.spotify.com/artist/47bokO26f4LIt4zaAlCQwo) | [Back Into The Dream](https://open.spotify.com/album/4uVziFDduPtTLN2A7YQeUK) | 1:44 | 2023-12-15 |  |
 | [Anti Heaven](https://open.spotify.com/track/0mkppcEMgeTPYfAGmQYEtG) | [Beshken](https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB) | [Pantomime](https://open.spotify.com/album/4vgZGwIOSxIBVZNkQ37VYy) | 4:48 | 2022-07-11 | 2022-07-30 |
 | [ANTIGRAVITY](https://open.spotify.com/track/1lSG3Ge7N03xw9HPaYOjSR) | [KUNZITE](https://open.spotify.com/artist/3rMDCvvekRMD0WON14PwqO), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [ANTIGRAVITY](https://open.spotify.com/album/5MvHUtsrb6kYAQGP6deljn) | 1:53 | 2022-08-19 | 2022-09-30 |
 | [Any Hour](https://open.spotify.com/track/6Zg3jsZ1CGHJPPAG7oLAFJ) | [Kaíoti](https://open.spotify.com/artist/6etW5uO8UuEovfiv2Nw10f), [Ghost King](https://open.spotify.com/artist/5yJlhaqziKf3chFEX8RV84) | [Any Hour](https://open.spotify.com/album/5JlQub3PCeoNb1hiUxx5Qi) | 4:11 | 2021-04-02 | 2022-04-21 |

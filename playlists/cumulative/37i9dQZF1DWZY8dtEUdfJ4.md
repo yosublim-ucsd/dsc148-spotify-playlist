@@ -4,7 +4,7 @@
 
 > Tous les plus grands succès de la chanson française des années 60\. Photo : Claude François
 
-58 songs - 2 hr 52 min
+59 songs - 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [J'entends siffler le train](https://open.spotify.com/track/487LFx8UVLxUsDAdetnCp2) | [Richard Anthony](https://open.spotify.com/artist/6fhXbgrtC1AffxqI32lPwz) | [les plus belles chansons](https://open.spotify.com/album/0dvnB0KschqGz0ezdnWsmO) | 3:23 | 2023-09-22 |  |
 | [Jolie môme](https://open.spotify.com/track/0cJSWKB0XV6B4zSFzTtS6b) | [Léo Ferré](https://open.spotify.com/artist/6NB0vY1HQgkUpCBsm5eAvo) | [Leo Chante Ferre](https://open.spotify.com/album/0staVF20KfnK1HCYJLNSsf) | 2:39 | 2023-09-22 |  |
 | [L'amour l'amour l'amour](https://open.spotify.com/track/7jVHD6NiChZGX887WrNBrH) | [Mouloudji](https://open.spotify.com/artist/4pZgpCHvAI14ug9dSfxTjp) | [L'amour, l'amour, l'amour \- Le meilleur de Mouloudji](https://open.spotify.com/album/1B1HpA7dQsnlhub9eiFIgo) | 3:01 | 2023-09-22 |  |
-| [L'idole des jeunes](https://open.spotify.com/track/0S4HOFZx606Zv6bEutTEez) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Anthologie Vol\. 1](https://open.spotify.com/album/12b1tVAedPdmKuBrIYhJBi) | 2:28 | 2023-09-22 |  |
+| [L'idole des jeunes](https://open.spotify.com/track/6bWCSMKgyxe2HZz80hFnTD) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [L'idole des jeunes](https://open.spotify.com/album/4l3cOA85IiwDT4NpkBvbkV) | 2:28 | 2023-09-22 |  |
+| [L'idole des jeunes](https://open.spotify.com/track/0S4HOFZx606Zv6bEutTEez) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Anthologie Vol\. 1](https://open.spotify.com/album/12b1tVAedPdmKuBrIYhJBi) | 2:28 | 2023-09-22 | 2024-03-08 |
 | [L'Important c'est la rose](https://open.spotify.com/track/1MNnfbQHgjCGLCiZTNGxgM) | [Gilbert Bécaud](https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0) | [20 chansons d'or](https://open.spotify.com/album/0sLW7R4AIb8Zr0TX8Voe0b) | 3:39 | 2023-09-22 |  |
 | [L'opportuniste](https://open.spotify.com/track/1ltGvFacn7TLMERpzoR5J1) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [L'opportuniste](https://open.spotify.com/album/4P4Iv4XR9uLPSpsXd3Hdna) | 2:42 | 2023-09-22 |  |
 | [La belle vie](https://open.spotify.com/track/78OdnOhPOk19xYhGAKgjCO) | [Sacha Distel](https://open.spotify.com/artist/1si0MhutSLRlQbxiBV08tz) | [Sacha Distel: Crooner](https://open.spotify.com/album/1HioIbajn5pHxM7A0uMpKV) | 2:03 | 2023-09-22 |  |

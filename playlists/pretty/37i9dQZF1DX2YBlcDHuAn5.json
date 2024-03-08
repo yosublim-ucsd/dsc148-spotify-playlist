@@ -1,38 +1,38 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 6949,
+  "num_followers": 6953,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDIxMTViNDQ3YWZiNjBjNGNiZDA1ZDQ1MmM1OGEyZmY0ZGFhNTc0",
+  "snapshot_id": "MCxlZjJiMjAzY2NiODJhYzg2ODc2Y2Y3NzAyN2JkNjYzMWJjNGIzMWU5",
   "tracks": [
     {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+        "name": "I'll Wait Till You're Really Gone",
+        "url": "https://open.spotify.com/album/0sDgSlEMGFQrGo5FoXPkCe"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          "name": "The Road",
+          "url": "https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA"
         },
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "JW Roy",
+          "url": "https://open.spotify.com/artist/3i31y6LSpJEgV5ny8fw66d"
         }
       ],
-      "duration_ms": 227195,
-      "name": "I Remember Everything (feat. Kacey Musgraves)",
-      "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
+      "duration_ms": 229386,
+      "name": "I'll Wait Till You're Really Gone",
+      "url": "https://open.spotify.com/track/0uJjN27rqC2cJKkBxv4Ivf"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Kingdom Of Mine",
-        "url": "https://open.spotify.com/album/4H41jpFZJXfteb9EmmtTWq"
+        "name": "Harmony From Dissonance",
+        "url": "https://open.spotify.com/album/5KHzBUPSOLXAxBJ8GuOBvI"
       },
       "artists": [
         {
@@ -40,12 +40,12 @@
           "url": "https://open.spotify.com/artist/0T34mF36A6mzLMqC0uoz7x"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Kingdom Of Mine",
-      "url": "https://open.spotify.com/track/4nbxAUtL0FDDIv4GWLk40H"
+      "duration_ms": 205874,
+      "name": "Harmony From Dissonance",
+      "url": "https://open.spotify.com/track/4YVG7WaFjdLHIiy5dByavP"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
       "album": {
         "name": "Gold Dust Woman",
         "url": "https://open.spotify.com/album/1jvxRIDR1nCdEw13R9Pv0S"
@@ -69,23 +69,23 @@
       "url": "https://open.spotify.com/track/1FH9iCgUtZXnwodYzahivh"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Gettin' Old",
-        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+        "name": "Highway Queen",
+        "url": "https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
         }
       ],
-      "duration_ms": 265493,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
+      "duration_ms": 212470,
+      "name": "Highway Queen",
+      "url": "https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
       "album": {
         "name": "Aphrodite",
         "url": "https://open.spotify.com/album/4Z9VwS2ksXpFBdn5pSxfoQ"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/6noeTONJnM5NukhaQYsqDQ"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
       "album": {
         "name": "Be My Guest",
         "url": "https://open.spotify.com/album/4kaDJDpkLVM4SbzftQk1WH"
@@ -117,39 +117,43 @@
       "url": "https://open.spotify.com/track/7HvwU0z0my31zUwSDCrD1x"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Summertime Blues",
-        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
       "artists": [
         {
           "name": "Zach Bryan",
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 220885,
-      "name": "Quittin' Time",
-      "url": "https://open.spotify.com/track/50Emgupm363qIrYBe20FR3"
+      "duration_ms": 227195,
+      "name": "I Remember Everything (feat. Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW"
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 181680,
-      "name": "What Am I Gonna Do",
-      "url": "https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl"
+      "duration_ms": 265493,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
       "album": {
         "name": "Sunday Mornin' Opry",
         "url": "https://open.spotify.com/album/6FzbHSdMrzVR0o6C1GN5Rp"
@@ -165,7 +169,23 @@
       "url": "https://open.spotify.com/track/6Jfb3uNm1yt6emEGQAewJI"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 181680,
+      "name": "What Am I Gonna Do",
+      "url": "https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
       "album": {
         "name": "River Fools & Mountain Saints",
         "url": "https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl"
@@ -181,7 +201,23 @@
       "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "How Did We Get To Goodbye",
+        "url": "https://open.spotify.com/album/6oDyjJGpgwgvb3N19B8Gxq"
+      },
+      "artists": [
+        {
+          "name": "Danielle Nicole",
+          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
+        }
+      ],
+      "duration_ms": 279138,
+      "name": "How Did We Get To Goodbye",
+      "url": "https://open.spotify.com/track/0QUij64RHqhEEPLFhFBDMc"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
       "album": {
         "name": "Sweet Symphony",
         "url": "https://open.spotify.com/album/2FuEelEorhSFMkmvhI8iq7"
@@ -201,23 +237,7 @@
       "url": "https://open.spotify.com/track/78HpdJlNoppURkMmE0dogS"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
-      "album": {
-        "name": "How Did We Get To Goodbye",
-        "url": "https://open.spotify.com/album/6oDyjJGpgwgvb3N19B8Gxq"
-      },
-      "artists": [
-        {
-          "name": "Danielle Nicole",
-          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
-        }
-      ],
-      "duration_ms": 279138,
-      "name": "How Did We Get To Goodbye",
-      "url": "https://open.spotify.com/track/0QUij64RHqhEEPLFhFBDMc"
-    },
-    {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
       "album": {
         "name": "Bronco",
         "url": "https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I"
@@ -233,23 +253,7 @@
       "url": "https://open.spotify.com/track/67swXHVknS142T5tIcNFkl"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
-      "album": {
-        "name": "Someone You Love",
-        "url": "https://open.spotify.com/album/0sMQLfLv6y3ALmcZXJXcUT"
-      },
-      "artists": [
-        {
-          "name": "Douwe Bob",
-          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
-        }
-      ],
-      "duration_ms": 254174,
-      "name": "Someone You Love",
-      "url": "https://open.spotify.com/track/6oU5j3WOngnD1GcJtshyhB"
-    },
-    {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
       "album": {
         "name": "Alpine Gold",
         "url": "https://open.spotify.com/album/56epnGRSer3a3fTncdQMxK"
@@ -265,7 +269,39 @@
       "url": "https://open.spotify.com/track/5cvgCBm4qIPpgnvn6hiZ25"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "Summertime Blues",
+        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 220885,
+      "name": "Quittin' Time",
+      "url": "https://open.spotify.com/track/50Emgupm363qIrYBe20FR3"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "Someone You Love",
+        "url": "https://open.spotify.com/album/0sMQLfLv6y3ALmcZXJXcUT"
+      },
+      "artists": [
+        {
+          "name": "Douwe Bob",
+          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
+        }
+      ],
+      "duration_ms": 254174,
+      "name": "Someone You Love",
+      "url": "https://open.spotify.com/track/6oU5j3WOngnD1GcJtshyhB"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
       "album": {
         "name": "Big Time",
         "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
@@ -281,7 +317,7 @@
       "url": "https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
       "album": {
         "name": "The Green Stone",
         "url": "https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22"
@@ -297,7 +333,7 @@
       "url": "https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
       "album": {
         "name": "When Times Get Rough",
         "url": "https://open.spotify.com/album/1CihsEE3OM3dAV4lviQGui"
@@ -313,7 +349,7 @@
       "url": "https://open.spotify.com/track/6g23580DTtKk71sSGiX3fM"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
       "album": {
         "name": "Songs About You",
         "url": "https://open.spotify.com/album/6xTN7k2LmB4rrMLmMQMzWq"
@@ -329,7 +365,7 @@
       "url": "https://open.spotify.com/track/7qox7CiK5Kf25oBxCA0rY5"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
       "album": {
         "name": "I Am The Moon: I. Crescent",
         "url": "https://open.spotify.com/album/7tiugISIhitNyFnMRQBhIq"
@@ -345,7 +381,7 @@
       "url": "https://open.spotify.com/track/7znaTjqonnsPcuQpOcQ7nT"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
       "album": {
         "name": "King of a Land",
         "url": "https://open.spotify.com/album/1oTVSpkoMbY4CiQC1NAVFG"
@@ -361,7 +397,7 @@
       "url": "https://open.spotify.com/track/7LwPaJBg7ySXzY5fQO3WbR"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
       "album": {
         "name": "The Returner",
         "url": "https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i"
@@ -377,7 +413,7 @@
       "url": "https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
       "album": {
         "name": "Love Is A Place",
         "url": "https://open.spotify.com/album/5lzXvyf2j1KHvzanYAmBdE"
@@ -393,7 +429,7 @@
       "url": "https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
       "album": {
         "name": "Fruits Of My Labor",
         "url": "https://open.spotify.com/album/5f8FA5nXO3K4idqU1mAFuO"
@@ -409,7 +445,23 @@
       "url": "https://open.spotify.com/track/3Un8AiGf6AmPY5YGzdrzJP"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "Buck",
+        "url": "https://open.spotify.com/album/7oXPEByonJefvXaAB8pgKV"
+      },
+      "artists": [
+        {
+          "name": "Daniel Norgren",
+          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
+        }
+      ],
+      "duration_ms": 124986,
+      "name": "Whatever Turns You On",
+      "url": "https://open.spotify.com/track/13PXKnETL7SoDB5ZjQLbgQ"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
       "album": {
         "name": "Down Every Road",
         "url": "https://open.spotify.com/album/4XtyzFCp2tAOynVSQLZMOf"
@@ -429,23 +481,7 @@
       "url": "https://open.spotify.com/track/1mD2DWCvXN13LJBmRttH2I"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
-      "album": {
-        "name": "Buck",
-        "url": "https://open.spotify.com/album/7oXPEByonJefvXaAB8pgKV"
-      },
-      "artists": [
-        {
-          "name": "Daniel Norgren",
-          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
-        }
-      ],
-      "duration_ms": 124986,
-      "name": "Whatever Turns You On",
-      "url": "https://open.spotify.com/track/13PXKnETL7SoDB5ZjQLbgQ"
-    },
-    {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
       "album": {
         "name": "Big Time",
         "url": "https://open.spotify.com/album/5UsuKQY3qOMAYyuwaxH4Lx"
@@ -465,7 +501,7 @@
       "url": "https://open.spotify.com/track/3RZ5VvBcCQgrRl8XaKZLa4"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
       "album": {
         "name": "Too Close",
         "url": "https://open.spotify.com/album/3262qPeujrLgKfe56wYFCO"
@@ -481,7 +517,7 @@
       "url": "https://open.spotify.com/track/2uv1HWIbwXRhnSB4O2677y"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
       "album": {
         "name": "Russell County Line",
         "url": "https://open.spotify.com/album/7oKoqz8mBYP0HNsNJ0fW4h"
@@ -497,7 +533,7 @@
       "url": "https://open.spotify.com/track/4xxadE0DSjELkTXjRjwOcB"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
       "album": {
         "name": "Ballad Of Easy Rider",
         "url": "https://open.spotify.com/album/0QQxEoiKi7sgUjlAzjTQCS"
@@ -513,7 +549,7 @@
       "url": "https://open.spotify.com/track/5Nn8SPmzJUV3xUZFBdFjcV"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
       "album": {
         "name": "Know Your Demons",
         "url": "https://open.spotify.com/album/408i5hH2MLHqX6X6srXEL8"
@@ -529,7 +565,7 @@
       "url": "https://open.spotify.com/track/3AonChVGbKzTPGpkiR4Awe"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
       "album": {
         "name": "Built And Broken",
         "url": "https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m"
@@ -545,7 +581,7 @@
       "url": "https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
       "album": {
         "name": "Babe I'm Gonna Leave You (Extended Version)",
         "url": "https://open.spotify.com/album/5U5FRaYp8B23WI7BvIGcfL"
@@ -561,23 +597,7 @@
       "url": "https://open.spotify.com/track/66DmPZHPwXz5VO2Mse5FAj"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
-      "album": {
-        "name": "DNA",
-        "url": "https://open.spotify.com/album/1zOm18cLXjrqjrYuHRUTBY"
-      },
-      "artists": [
-        {
-          "name": "Danny Vera",
-          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
-        }
-      ],
-      "duration_ms": 194474,
-      "name": "DNA",
-      "url": "https://open.spotify.com/track/5K10PzXx9DEmFuqXKIcp4t"
-    },
-    {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
       "album": {
         "name": "A Beautiful Time",
         "url": "https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG"
@@ -593,7 +613,23 @@
       "url": "https://open.spotify.com/track/2HHXqnrD7PaUIUSj9lz3xK"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/1zOm18cLXjrqjrYuHRUTBY"
+      },
+      "artists": [
+        {
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+        }
+      ],
+      "duration_ms": 194474,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/5K10PzXx9DEmFuqXKIcp4t"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
       "album": {
         "name": "The Epic Tale of the Stranded Man",
         "url": "https://open.spotify.com/album/1BfrHxEQliuMZYzetI8TGH"
@@ -609,7 +645,7 @@
       "url": "https://open.spotify.com/track/05eGBCOwS0vA4c2TBVRiJ0"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
       "album": {
         "name": "One More Night",
         "url": "https://open.spotify.com/album/3hjJpCE83GDNugliCAXZCt"
@@ -629,23 +665,7 @@
       "url": "https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
-      "album": {
-        "name": "Pink Shades",
-        "url": "https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv"
-      },
-      "artists": [
-        {
-          "name": "Blackbird",
-          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
-        }
-      ],
-      "duration_ms": 210506,
-      "name": "Pink Shades",
-      "url": "https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF"
-    },
-    {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
       "album": {
         "name": "Use Me",
         "url": "https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0"
@@ -661,7 +681,7 @@
       "url": "https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
       "album": {
         "name": "Before The Storm",
         "url": "https://open.spotify.com/album/1ketSreRN3Qq5OTzgqPOcP"
@@ -681,7 +701,7 @@
       "url": "https://open.spotify.com/track/3Rul7xOVvLysGVak1Qu9N8"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
       "album": {
         "name": "Take A Ride",
         "url": "https://open.spotify.com/album/05FmZGsA5g6HqHBPU3CW9Q"
@@ -697,7 +717,23 @@
       "url": "https://open.spotify.com/track/5lv9ngCtTMuXD6FtEzTGzN"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
+      "album": {
+        "name": "Pink Shades",
+        "url": "https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv"
+      },
+      "artists": [
+        {
+          "name": "Blackbird",
+          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+        }
+      ],
+      "duration_ms": 210506,
+      "name": "Pink Shades",
+      "url": "https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF"
+    },
+    {
+      "added_at": "2024-03-07 23:00:00",
       "album": {
         "name": "Big Thing",
         "url": "https://open.spotify.com/album/747C2yuj2zve80VRWKgLJU"
@@ -713,7 +749,7 @@
       "url": "https://open.spotify.com/track/3VMRFNRAIu8eQ65KbI3Ztz"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
       "album": {
         "name": "For The Better Of Me",
         "url": "https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg"
@@ -729,7 +765,7 @@
       "url": "https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
       "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/3l4OdclVUWDKoS3G3qT1Rb"
@@ -745,7 +781,7 @@
       "url": "https://open.spotify.com/track/4gitlSJ8ksxAMhmHxNKjNl"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
       "album": {
         "name": "Gonna Shine",
         "url": "https://open.spotify.com/album/56d6RiEgQQBFlkuEx6lmAi"
@@ -761,7 +797,7 @@
       "url": "https://open.spotify.com/track/5DmCE0x0NldbgmjClh3qRW"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
       "album": {
         "name": "Times",
         "url": "https://open.spotify.com/album/6RiH1JegZGAMd8lx4Jsw3l"
@@ -781,7 +817,7 @@
       "url": "https://open.spotify.com/track/2SihsYSOGwYDHMfd0riW4Y"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
       "album": {
         "name": "Bluefinger",
         "url": "https://open.spotify.com/album/7kyAYsfjmUrGMqPzWf84M1"
@@ -801,7 +837,7 @@
       "url": "https://open.spotify.com/track/1yoAJ7RJOf0j02C8Wi3H37"
     },
     {
-      "added_at": "2024-02-29 16:27:09",
+      "added_at": "2024-03-07 23:00:00",
       "album": {
         "name": "What Kind of Woman",
         "url": "https://open.spotify.com/album/7q80ugez5yRL0avY5XnZJG"
@@ -819,38 +855,6 @@
       "duration_ms": 214240,
       "name": "What Kind of Woman",
       "url": "https://open.spotify.com/track/08f6hgvzLlDXPy0rhz3a0W"
-    },
-    {
-      "added_at": "2024-02-29 16:27:09",
-      "album": {
-        "name": "A Heightened Sense of Everything",
-        "url": "https://open.spotify.com/album/5Ln1l27n8H7F1aVaYBEWng"
-      },
-      "artists": [
-        {
-          "name": "Jon Allen",
-          "url": "https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa"
-        }
-      ],
-      "duration_ms": 208440,
-      "name": "Heat of the Moment",
-      "url": "https://open.spotify.com/track/60wwe08CizhZJYDoFC8O1i"
-    },
-    {
-      "added_at": "2024-02-29 16:27:09",
-      "album": {
-        "name": "Rollin' with the Punches",
-        "url": "https://open.spotify.com/album/5VLNC9q4WqKqG3tOQsPKEw"
-      },
-      "artists": [
-        {
-          "name": "Voltage",
-          "url": "https://open.spotify.com/artist/5ipXUWgnE57t4sz9mfPRW1"
-        }
-      ],
-      "duration_ms": 253194,
-      "name": "Rollin' with the Punches",
-      "url": "https://open.spotify.com/track/0n3dt5BM0wJm6kLvUfB7hK"
     }
   ],
   "unique_name": "Route Americana",

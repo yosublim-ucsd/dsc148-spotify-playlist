@@ -4,7 +4,7 @@
 
 > a new world of alternative electronic music\. Cover: Moktar
 
-571 songs - 1 day 18 hr 4 min
+572 songs - 1 day 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [BAE](https://open.spotify.com/track/4kpx4wMn5AGVY5gVN3XbB8) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [BAE](https://open.spotify.com/album/5FX52nvZnmpFdzeYP3e7wB) | 3:52 | 2023-02-09 | 2023-03-10 |
 | [Baianá](https://open.spotify.com/track/7B0gxo0jQCy5Lk93RIODAC) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Baianá](https://open.spotify.com/album/4fnmyznELge41MnyNpUp78) | 2:32 | 2022-12-08 | 2023-01-20 |
 | [Basilisk](https://open.spotify.com/track/0JtZWbLmRuBDRKFaU9o2pL) | [Martyn](https://open.spotify.com/artist/68i1l0GWQ5dwzAy1UVNHNw), [Om Unit](https://open.spotify.com/artist/3rblB9Pm51uKd9uYPVPB7B) | [AJ^6](https://open.spotify.com/album/6818Zvytt78CpfD2rgnMh7) | 4:56 | 2023-04-27 | 2023-06-02 |
-| [Bass Keeps Calling](https://open.spotify.com/track/1vstmym0SNbos2IOaOfTOg) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg) | [Bass Keeps Calling](https://open.spotify.com/album/3l2cTC2QR8SzHjPImhLXzt) | 2:52 | 2024-02-16 |  |
+| [Bass Keeps Calling](https://open.spotify.com/track/1vstmym0SNbos2IOaOfTOg) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg), [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W) | [Bass Keeps Calling](https://open.spotify.com/album/3l2cTC2QR8SzHjPImhLXzt) | 2:52 | 2024-02-16 |  |
 | [Bassian Plain](https://open.spotify.com/track/2iRe0A5hRK96LsjO6DYiwE) | [Donald's House](https://open.spotify.com/artist/48Dnzf6Mfo0Z5gjpOKVuLP) | [Bassian Plain EP](https://open.spotify.com/album/6mrUBGC38bWSZhZSsfsG5O) | 7:09 | 2022-12-08 | 2023-02-17 |
 | [Beautiful Strangers](https://open.spotify.com/track/5Un6I8vHv1x0HdWEXjOgwc) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [Beautiful Strangers](https://open.spotify.com/album/188fPxDRvpLMpq3q9a0geW) | 3:57 | 2023-05-25 | 2023-08-04 |
 | [Before The Storm](https://open.spotify.com/track/6fLnDbhsPQhdMrjiC033Vs) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [11:11](https://open.spotify.com/album/5B9sSoX03fSWm4kqIVQVLT) | 5:08 | 2022-12-08 | 2023-02-24 |
@@ -276,6 +276,7 @@
 | [It's Very Loud](https://open.spotify.com/track/4pVpPtYTEGLVhfgljGM2Xl) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [It's Very Loud](https://open.spotify.com/album/6IERtDEcLcMkt23FEueAH7) | 6:20 | 2023-03-16 | 2023-05-12 |
 | [Jobi \- Kareem Ali Remix](https://open.spotify.com/track/1WmrJR4SP796Q35Ik4aGYq) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [Jobi \(Kareem Ali Remix\)](https://open.spotify.com/album/0ufjnrRBMHcBd4XdNB9TYU) | 5:58 | 2022-12-08 | 2023-01-20 |
 | [Joint 2](https://open.spotify.com/track/6ReMJ5usS97047qn4aohMz) | [Unsolicited Joints](https://open.spotify.com/artist/7p5UQv94mUY8N9MSvJshlB) | [Unsolicited Joints](https://open.spotify.com/album/4voAyhSEWcXAiNCqeYcv3r) | 6:18 | 2023-08-24 | 2023-11-10 |
+| [JOY \(Life Goes On\)](https://open.spotify.com/track/2ew1mVH1hQhBeKBM21mPGQ) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Life Goes On\)](https://open.spotify.com/album/6xXSIywwGOkIIn1hMm2R9n) | 3:41 | 2024-03-07 |  |
 | [Jump Code](https://open.spotify.com/track/1gqkiGnfEsDEIz0F7Gv8az) | [Reflex Blue](https://open.spotify.com/artist/3z2JEfNoPTDQbDgfBzplyn) | [FREE002](https://open.spotify.com/album/39dE1TNPTHZqcNnKvKN7AB) | 5:56 | 2022-12-08 | 2023-02-10 |
 | [Jungle City](https://open.spotify.com/track/1soAhifV2nFE6don2XMWbX) | [AUSMAX](https://open.spotify.com/artist/3AflwtZig4N638X8CoAztJ) | [Jungle City](https://open.spotify.com/album/0XnTgfuWGzF0yLQ4lmMUg2) | 3:36 | 2023-05-25 | 2023-07-21 |
 | [Juniper](https://open.spotify.com/track/4PRVnpNShPqjANUE5GC7Dx) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Juniper](https://open.spotify.com/album/56TKvJC3uylhbaC8N6jhn1) | 5:00 | 2023-03-16 | 2023-06-02 |
@@ -536,7 +537,7 @@
 | [Verbatim](https://open.spotify.com/track/4vDpQxUUfbdgQz5S5HdD28) | [Cameo Blush](https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v) | [Verbatim](https://open.spotify.com/album/5C4kuer2C09s6cWq9HbXOC) | 4:31 | 2023-08-03 | 2023-09-08 |
 | [Verde](https://open.spotify.com/track/6Zr4nhKCUeAjttMntltVkk) | [Dan Shake](https://open.spotify.com/artist/7wxLYZxFPf1HWPIaGesxAg) | [Verde](https://open.spotify.com/album/4oXLvrJLs0TgvJgNL1KpxF) | 4:52 | 2022-12-08 | 2022-12-16 |
 | [Verde \(Jennifer Loveless Remix\)](https://open.spotify.com/track/6fpJ7wTHo36RrNkh5UwcZE) | [Dan Shake](https://open.spotify.com/artist/7wxLYZxFPf1HWPIaGesxAg), [Jennifer Loveless](https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c) | [Verde \(Jennifer Loveless Remix\)](https://open.spotify.com/album/5fBM00Ce857RWSNfuSRDEW) | 4:29 | 2023-07-20 | 2023-08-25 |
-| [Vintage](https://open.spotify.com/track/1gADdwkCLDpJ9Fp4ODQxmg) | [Pugilist](https://open.spotify.com/artist/5PXa57bB4y0vrQqeZX7A2S) | [Vintage](https://open.spotify.com/album/174kj0jeVxhZpOUUyyMdG0) | 3:16 | 2023-11-09 |  |
+| [Vintage](https://open.spotify.com/track/1gADdwkCLDpJ9Fp4ODQxmg) | [Pugilist](https://open.spotify.com/artist/5PXa57bB4y0vrQqeZX7A2S) | [Vintage](https://open.spotify.com/album/174kj0jeVxhZpOUUyyMdG0) | 3:16 | 2023-11-09 | 2024-03-08 |
 | [VIOLET](https://open.spotify.com/track/7bj2V0jUq2wbuOwxlajhIu) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [VIOLET](https://open.spotify.com/album/1PXmYCuozfCvpV3ssSgsgA) | 2:26 | 2023-09-28 | 2024-02-10 |
 | [vitara 3000](https://open.spotify.com/track/1DUmMYU09ZbozYbP5H62M2) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [vitara 3000](https://open.spotify.com/album/6gawgLMoau5wmayW93to9C) | 5:17 | 2023-01-26 | 2023-04-14 |
 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 | 2024-02-16 |  |
